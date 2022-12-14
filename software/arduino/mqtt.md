@@ -11,7 +11,7 @@
 - radiolib
 
 
-## MQTT broker 
+## MQTT broker on ubuntu 
 
 sudo apt install -y mosquitto
 
@@ -24,6 +24,20 @@ sudo systemctl status mosquitto
     - $ sudo systemctl start mosquitto
 - Restart the mosquitto service:
     - $ sudo systemctl restart mosquitto
+
+###  Log file 
+* cat /var/log/mosquitto/mosquitto.log
+
+## Conf Setup list
+allow_anonymous false  // not allow anonymous
+password_file /etc/mosquitto/passwd // set password
+
+listener 1883  // set port 1883 public, or listener 1883 localhost for localhost only
+
+listener 1884 // set 1884 for wss
+protocol websockets
+
+
 
 
 ## MQTT client 
