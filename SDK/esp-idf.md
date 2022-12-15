@@ -2,3 +2,19 @@
 
 - https://docs.espressif.com/projects/esp-idf/en/latest/esp32c2/index.html
 
+- https://github.com/espressif/esp-idf
+
+
+- https://idf.espressif.com/
+
+
+vs-code extension 
+- https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md
+
+
+windows-setup
+- https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/get-started/windows-setup.html
+
+
+ESP32-C3
+
