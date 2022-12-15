@@ -2,6 +2,9 @@
 
 # svc1039 dat
 
+- env setup [[megaTinyCore]]
+
+
 
 ## pin definitions 
 
@@ -20,3 +23,9 @@ OLED
 - PB0 - SCL
 - PB1 - SDA
 
+
+
+## define in arduino 
+
+#define relay 1
+#define led 0 
