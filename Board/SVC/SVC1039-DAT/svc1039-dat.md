@@ -23,6 +23,10 @@ OLED
 - PB0 - SCL
 - PB1 - SDA
 
+UART 
+- PB3 = RXD
+- PB2 = TXD
+
 
 
 ## define in arduino 
