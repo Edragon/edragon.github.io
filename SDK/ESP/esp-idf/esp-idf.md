@@ -22,8 +22,7 @@ vs-code extension
 ESP32-C3
 
 
-Microsoft C++ Build Tools
-https://visualstudio.microsoft.com/visual-cpp-build-tools/
+- install [[vs-cpp]]
 
 
 Download an archive with submodules included
@@ -39,3 +38,13 @@ https://dl.espressif.com/github_assets/espressif/esp-idf/releases/download/v5.0/
 Espressif-IDE
 
 ESP-IDF
+
+install.bat
+Selected targets are: esp32c3, esp32c2, esp32, esp32s3, esp32h2, esp32s2
+Installing tools: xtensa-esp-elf-gdb, riscv32-esp-elf-gdb, xtensa-esp32-elf, xtensa-esp32s2-elf, xtensa-esp32s3-elf, riscv32-esp-elf, esp32ulp-elf, cmake, openocd-esp32, ninja, idf-exe, ccache, dfu-util
+
+C:\Users\Administrator\.espressif
+
+
+Setting up Python environment
+Creating a new Python environment in C:\Users\Administrator\.espressif\python_env\idf5.0_py3.10_env
