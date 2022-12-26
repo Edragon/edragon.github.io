@@ -1,6 +1,6 @@
 
 
-# Non-contact Water Liquid Level Sensor
+# SMO1095 Non-contact Water Liquid Level Sensor
 
 
 ## Use with metal containter
