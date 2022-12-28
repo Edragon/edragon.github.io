@@ -5,3 +5,10 @@
 
 
 ![](36-34-18-15-12-2022.png)
+
+
+https://www.espressif.com.cn/sites/default/files/documentation/esp8685-wroom-04_datasheet_cn.pdf
+
+
+
+FSPI = fast SPI 
