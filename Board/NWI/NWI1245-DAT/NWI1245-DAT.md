@@ -1,6 +1,8 @@
 
 # NWI1245 DAT
 
+## Used ESP32-DevKitC Pins
+
 - CAN UART
   - IO23 = CAN0_TX
   - IO22 = CAN0_RX
@@ -19,6 +21,11 @@
 - IO19 = CTRL2
 - IO18 = STATUS2
 - IO5 = LED
+
+## Schematic of peripherals
+
+![](NWI1245-2112-28-2022.jpg)
+
 
 ## power supply
 - [[DCDC1]]
