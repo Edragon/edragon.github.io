@@ -1,6 +1,6 @@
 
 
-- [[STM32CUBE]] - 
+- [[STM32-Cube]] - 
 - [[MDK-ARM]]
 - [[STM32-CUBE-Programmer]]
 - [[ST-LINK]]
