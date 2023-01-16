@@ -1,4 +1,5 @@
 
+# STM32G030-DAT 
 
 - 2x I2C
 - 2x USART
@@ -6,6 +7,4 @@
 
 
 LED: PC15
-
-- STM32G030F6P6
 

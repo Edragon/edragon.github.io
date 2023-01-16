@@ -7,7 +7,7 @@
 
 
 Hardware 
-- [[STM32G030]]
+- [[STM32G030-DAT]]
 
 
 
