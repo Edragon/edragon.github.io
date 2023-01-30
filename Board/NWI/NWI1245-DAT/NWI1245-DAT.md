@@ -26,6 +26,11 @@
 
 ![](NWI1245-2112-28-2022.jpg)
 
+## Dimension and pin definitions 
+![](53-04-16-30-01-2023.png)
+- back side selector for UARTs
+
+
 
 ## power supply
 - [[DCDC1]]
