@@ -17,15 +17,20 @@ BOOT 3V3 GND PIN RXD TXD
 - you must use NBIOT Card, normal phone card may not work
 - if the card no service, system will shut power at CREG 0,2
 
-# reference 
+# PSM Mode 
 
-- SIM7020 info : https://github.com/Edragon/SIMCOM_SIM7020
-- [[SIMCOM-AT]]
-
-
+- AT commands to enter into PSM power save mode 
+- pull down RTC_EINT or PWR_KEY to quit PSM mode 
 
 ## Dimension / Pins / Schematic 
 
 ![](04-17-16-01-02-2023.png)
 
 ![](57-21-16-01-02-2023.png)
+
+
+
+# reference 
+
+- SIM7020 info : https://github.com/Edragon/SIMCOM_SIM7020
+- [[SIMCOM-AT]]
