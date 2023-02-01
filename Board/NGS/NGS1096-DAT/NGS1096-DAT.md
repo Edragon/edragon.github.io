@@ -19,3 +19,10 @@ BOOT 3V3 GND PIN RXD TXD
 
 - [[SIMCOM-AT]]
 
+
+
+## Dimension / Pins / Schematic 
+
+![](04-17-16-01-02-2023.png)
+
+![](57-21-16-01-02-2023.png)
