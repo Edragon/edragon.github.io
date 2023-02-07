@@ -29,7 +29,7 @@
 
 ## Note
 
-- [[ESP32-USB]] may not work, not fully tested.
+- [[ESP32-USB]] failed on code testing, may work or not, consider it is not working if you buy.
 
 
 ## ref 

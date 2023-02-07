@@ -17,8 +17,11 @@
 ![](39-39-16-07-02-2023.png)
 
 ### note 
-- USB function is not tested, may not work 
+- [[ESP32-USB]] failed on code testing, may work or not, consider it is not working if you buy.
+
 - bluetooth / wifi tested with official examples, https://github.com/Edragon/Arduino-ESP32
+
+
 
 ### demo video 
 
