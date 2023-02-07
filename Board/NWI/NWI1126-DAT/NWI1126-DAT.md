@@ -17,8 +17,21 @@
 - try the test commands to turn off on board prog LED: http://192.168.8.165/io/10/val/0
 - in which, IO is 10 and IO voltage level is 0
 
-## 改进
 
-- 排针 / 端子 干涉
+## Size Dimension Pin Definitions 
+
+![](07-06-17-07-02-2023.png)
 
 
+## demo video 
+- https://twitter.com/electro_phoenix/status/1610204098019880961
+
+
+## Note
+
+- [[ESP32-USB]] may not work, not fully tested.
+
+
+## ref 
+
+- [[NWI1126]]
