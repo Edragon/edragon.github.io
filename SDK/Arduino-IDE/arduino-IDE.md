@@ -24,7 +24,7 @@ https://cdn.jsdelivr.net/gh/nulllaborg/arduino_nulllab/package_nulllab_boards_in
 
 
 
-
+- [[softwareserial]]
 
 ### library
 
