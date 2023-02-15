@@ -29,3 +29,14 @@ ARM Compiler 5.06 update 7
 
 
 *** Target 'GPIO_IOToggle' uses ARM-Compiler 'Default Compiler Version 5' which is not available.
+
+
+
+## DFP
+
+### F0
+- https://keilpack.azureedge.net/pack/Keil.STM32F0xx_DFP.2.1.1.pack
+
+### F1
+- https://keilpack.azureedge.net/pack/Keil.STM32F1xx_DFP.2.4.0.pack
+
