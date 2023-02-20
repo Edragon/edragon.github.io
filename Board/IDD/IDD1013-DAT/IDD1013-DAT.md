@@ -5,6 +5,8 @@
 
 - DMA version 
 - https://w.electrodragon.com/w/ESP32_DMA_RMP
+- https://www.electrodragon.com/product/rgb-matrix-panel-drive-interface-board-for-esp32-dma/
+
 
 
 # Code And Test Demo 
