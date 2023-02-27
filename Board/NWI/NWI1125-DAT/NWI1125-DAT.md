@@ -3,7 +3,7 @@
 
 # NWI 1125
 
-### look 
+## The look 
 
 ![](15-33-17-12-12-2022.png)
 
@@ -55,3 +55,8 @@ side-right:
 - IO2 - IO7 - ws2812 
 - IO15 - IO6 - red 
 - GND - GND
+
+
+## Code 
+
+https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/BSP/NWI1125/webserver-path-1-ESP32-C3-12F
