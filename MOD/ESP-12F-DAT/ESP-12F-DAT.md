@@ -5,9 +5,9 @@
 
 | left | --  |
 | ---- | --- |
-| RST  |
+| RST  | internal pull-up |
 | ADC  |
-| EN   | pull-up
+| EN   | 
 | IO16 |
 | IO14 |
 | IO12 |
