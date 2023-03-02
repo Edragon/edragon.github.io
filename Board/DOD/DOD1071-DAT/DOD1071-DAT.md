@@ -1,0 +1,13 @@
+
+
+# DOD1071 DAT
+
+- [[WCH-PROG]]
+
+![](50-16-15-31-01-2023.png)
+
+microUSB = USBA_Female (bottom) = DM/DP
+
+HS_USB (top) = HS_DM/HS_DP
+
+- firmware file: D:\GIT-CATEGORY\GIT-WCH\WCH_CH55X-APP\CH559\CH559-GPIO-LOOP-BLINK\CH559.HEX

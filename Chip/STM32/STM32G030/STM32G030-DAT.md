@@ -1,0 +1,10 @@
+
+# STM32G030-DAT 
+
+- 2x I2C
+- 2x USART
+- 2x SPI
+
+
+LED: PC15
+
