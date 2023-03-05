@@ -1,5 +1,5 @@
 
-# OP RGB LED Matrix 
+# OPI RGB LED Matrix Driver Board for Orange Pi PC
 
 - relevant git - https://github.com/mrfaptastic/opi-allwinner-h3-rgb-led-matrix
 
