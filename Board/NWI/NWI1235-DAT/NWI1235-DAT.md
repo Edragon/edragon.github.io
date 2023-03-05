@@ -4,7 +4,7 @@
 
 ## hardware 
 - ESP-12K 
-    - based on chip ESP32-S2
+    - based on chip [[ESP32-S2]]
 
 
 ## Pin Definitions
