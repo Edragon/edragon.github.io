@@ -20,6 +20,10 @@ MPC
 
 NWI
 - [[NWI1245-DAT]] - [[NWI1235-DAT]]
+SDR
+- [[SDR1040-DAT]] - [[SDR1041-DAT-retired]]
+
+
 SMO
 
 SVC
