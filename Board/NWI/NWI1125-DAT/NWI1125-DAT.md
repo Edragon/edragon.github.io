@@ -36,25 +36,32 @@
 
 #### [[ESP-12F-DAT]] (nwi1124) = [[ESPC2-12-DAT]] (nwi112x)
 
-side-left:
-- RST - EN
-- ADC - IO0
-- EN - IO1
-- IO16 - IO2
-- IO14 - IO3 - white
-- IO12 - IO4 - blue
-- IO13 - IO5 - green 
-- VCC  - VCC
 
-side-right: 
-- TXD - TXD
-- RXD - RXD
-- IO5 - IO18
-- IO4 - IO10
-- IO0 - IO9 - RF
-- IO2 - IO7 - ws2812 
-- IO15 - IO6 - red 
-- GND - GND
+pin definitions :
+
+
+| L: function | L: pins | note  |
+| ----------- | ------- | ----- |
+| ADC         | IO0     |       |
+| EN          | IO1     |       |
+| IO12        | IO4     | blue  |
+| IO13        | IO5     | green |
+| IO14        | IO3     | white |
+| IO16        | IO2     |       |
+| RST         | EN      |       |
+| VCC         | VCC     |       |
+
+
+| R: function | R: pins | note   |
+| ----------- | ------- | ------ |
+| GND         | GND     |        |
+| IO0         | IO9     | RF     |
+| IO15        | IO6     | red    |
+| IO2         | IO7     | ws2812 |
+| IO4         | IO10    |        |
+| IO5         | IO18    |        |
+| RXD         | RXD     |        |
+| TXD         | TXD     |        |
 
 
 ## Code 
