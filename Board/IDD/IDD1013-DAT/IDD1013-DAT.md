@@ -37,7 +37,7 @@
     #define CLK_PIN_DEFAULT 16
 
 
-### old setup file 
+## old setup file 
 
     #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
 
