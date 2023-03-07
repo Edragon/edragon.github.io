@@ -58,5 +58,6 @@ side-right:
 
 
 ## Code 
-
-https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/BSP/NWI1125/webserver-path-1-ESP32-C3-12F
+- please change the wifi hotspot name to match in the code 
+- control by web URL in your browser 
+- https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/BSP/NWI1125/webserver-path-1-ESP32-C3-12F

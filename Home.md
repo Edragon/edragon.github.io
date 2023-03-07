@@ -19,7 +19,8 @@ MPC
 
 
 NWI
-- [[NWI1245-DAT]] - [[NWI1235-DAT]]
+
+[[NWI1125-DAT]] - [[NWI1126-DAT]] - [[NWI1155-DAT]] - [[NWI1235-DAT]] - [[NWI1245-DAT]] 
 
 
 SDR
@@ -55,7 +56,8 @@ USB
 ## Tools
 
 
-
+## Tech
+- [[LTE]]
 
 - twitter
     - info+phoenix@electrodragon.com
