@@ -4,6 +4,9 @@
 
 - https://w.electrodragon.com/w/Loraduino
 
+
+## hardware setup 
+
 | Function Pin | category | Arduino |
 | ------------ | -------- | ------- |
 | Flash_CS     | D8       | Flash   |
@@ -14,7 +17,20 @@
 | Voltage-Dect | A7       |         |
 
 
-- external arduino library [[arduino-lib]] lowpower_lab SPIFlash
 
 
-- [[flash]]
+
+- [[arduino-lib]]
+
+## Radio Lora Network 
+- arduino library radiohead
+
+
+## flash 
+- must well initiated flash into low power mode 
+- 0xEF40 manufactuer ID for 16mbit
+- [[flash]] - user lowpower lab flash arduino library 
+
+## bootloader 
+- arduino pro mini 3.3V/8M 
+
