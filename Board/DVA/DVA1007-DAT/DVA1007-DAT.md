@@ -12,3 +12,9 @@
 | RF_INT       | D2       | SX1278  |
 | RF_RST       | D8       | SX1278  |
 | Voltage-Dect | A7       |         |
+
+
+- external arduino library [[arduino-lib]] lowpower_lab SPIFlash
+
+
+- [[flash]]

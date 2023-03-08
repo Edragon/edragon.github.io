@@ -26,9 +26,7 @@ https://cdn.jsdelivr.net/gh/nulllaborg/arduino_nulllab/package_nulllab_boards_in
 
 - [[softwareserial]]
 
-### library
-
-- fastLED
+- [[arduino-lib]]
 
 
 
@@ -37,3 +35,16 @@ https://cdn.jsdelivr.net/gh/nulllaborg/arduino_nulllab/package_nulllab_boards_in
 
 
 use include “test.h” to add variables
+
+
+
+
+## snippet
+
+    // Periodically blink the onboard LED while listening for serial commands
+    if ((int)(millis()/500) > lastPeriod)
+    {
+        lastPeriod++;
+        pinMode(LED, OUTPUT);
+        digitalWrite(LED, lastPeriod%2);
+    }
