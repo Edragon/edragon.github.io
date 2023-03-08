@@ -7,3 +7,5 @@
 
 
 android NFT supported phone can use APP called "NFC tools" to read write this PCB tag
+
+![](37-32-18-08-03-2023.png)

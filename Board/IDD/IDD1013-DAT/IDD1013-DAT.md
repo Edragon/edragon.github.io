@@ -1,6 +1,8 @@
 
 # IDD1013 DAT
 
+
+## info 
 ![](2022-07-26-17-41-46.png)
 
 - DMA version 
@@ -9,7 +11,12 @@
 
 
 
-# Code And Test Demo 
+
+## hardware setup 
+
+- swtich between DEVKitC or PiCO 
+
+## Code And Test Demo 
 
 - lib: https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
 
@@ -37,7 +44,7 @@
     #define CLK_PIN_DEFAULT 16
 
 
-## old setup file 
+### old setup file 
 
     #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
 
@@ -71,7 +78,9 @@
 
 ### note
 
-- better test with a 32 x 64 panel 
+- Tedted with a 32 x 64 panel 
 - 64 x 64 will need to setup E-line
 - result 
+
+
 ![](32-17-14-03-02-2023.png)
