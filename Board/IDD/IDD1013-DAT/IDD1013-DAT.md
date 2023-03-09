@@ -24,7 +24,11 @@
 
 ### new lib pin definitions 
 
-    file: esp32-default-pins.cpp
+Matched with board definition 
+- tested sketch: https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/Matrix-panel/IDD1013
+
+
+    // file: esp32-default-pins.cpp
 
     #define R1_PIN_DEFAULT  25
     #define G1_PIN_DEFAULT  26
@@ -44,11 +48,12 @@
     #define CLK_PIN_DEFAULT 16
 
 
+
 ### old setup file 
 
     #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
 
-### board pin definitions 
+### old board pin definitions (obselete)
 
     #define R1_PIN_DEFAULT  25
     #define G1_PIN_DEFAULT  26
@@ -84,3 +89,5 @@
 
 
 ![](32-17-14-03-02-2023.png)
+
+- [[IDD1013]]
