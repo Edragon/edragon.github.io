@@ -5,6 +5,9 @@
 
 - relevant git - https://github.com/mrfaptastic/opi-allwinner-h3-rgb-led-matrix
 
+- demo test - https://twitter.com/electro_phoenix/status/1522157916757041152
+
+
 ## Board Dimension
 
 ![](03-46-21-05-03-2023.png)
