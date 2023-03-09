@@ -8,14 +8,20 @@
 - Disk Size = 4MB = on board flash 
 
 Supported devices:
+
 - F0
+
 - F3xx_HD
 - F3xx_MD
+
 - F4xx_HD
 - F4xx_LD
 - F4xx_MD
+
 - F7x_128
+
 - F10x_HD
 - F10x_MD
+
 - HC32F005
 - HC32L136
