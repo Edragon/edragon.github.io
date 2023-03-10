@@ -25,3 +25,5 @@ Supported devices:
 
 - HC32F005
 - HC32L136
+
+- [[DPR1130]]
