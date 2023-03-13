@@ -1,5 +1,10 @@
 
 
+## NWI1124 DAT
+
+- old wiki link: https://www.electrodragon.com/w/ESP_Light
+
+
 ![](06-58-16-27-02-2023.png)
 
 based on above image, top pin 1 to bottom pin 5: 
@@ -36,3 +41,10 @@ Red Box:
 
 - Set to ~27V for RGBW LED Strips
 - Set to 5V for WS2812 LED Strips
+
+## Accessories 
+- Reserved pins for our RF-LINK EDRF2 module here. (one channel trigger IO0 Low)
+- https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
+
+## Demos 
+- https://www.youtube.com/watch?v=_kBS72xQPqQ
