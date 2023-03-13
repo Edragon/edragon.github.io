@@ -22,7 +22,7 @@
 
 
 
-### new lib pin definitions 
+### new lib pin definitions (use this one )
 
 Matched with board definition 
 - tested sketch: https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/Matrix-panel/IDD1013
@@ -40,12 +40,12 @@ Matched with board definition
     #define A_PIN_DEFAULT   23
     #define B_PIN_DEFAULT   19
     #define C_PIN_DEFAULT   5
-    #define D_PIN_DEFAULT   17
+    #define D_PIN_DEFAULT   17 // pin for devkitc, for PCIO please go IO33
     #define E_PIN_DEFAULT   -1 // IMPORTANT: Change to a valid pin if using a 64x64px panel.
                 
     #define LAT_PIN_DEFAULT 4
     #define OE_PIN_DEFAULT  15
-    #define CLK_PIN_DEFAULT 16
+    #define CLK_PIN_DEFAULT 16 // pin for devkitc, for PCIO please go IO32
 
 
 
