@@ -88,10 +88,10 @@ notice the differences of pin CLK and D
 
 ### setup for matrix size 
 
-/*--------------------- MATRIX LILBRARY CONFIG -------------------------*/
-#define PANEL_RES_X 64      // Number of pixels wide of each INDIVIDUAL panel module. 
-#define PANEL_RES_Y 32     // Number of pixels tall of each INDIVIDUAL panel module.
-#define PANEL_CHAIN 1      // Total number of panels chained one to another
+    /*--------------------- MATRIX LILBRARY CONFIG -------------------------*/
+    #define PANEL_RES_X 64      // Number of pixels wide of each INDIVIDUAL panel module. 
+    #define PANEL_RES_Y 32     // Number of pixels tall of each INDIVIDUAL panel module.
+    #define PANEL_CHAIN 1      // Total number of panels chained one to another
 
 
 
