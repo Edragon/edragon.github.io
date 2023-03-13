@@ -33,19 +33,19 @@ Old V1 version:
 - Please notice for PCIO, CLK = 32, D = 33
 
 
-## Code And Test Demo 
+### Library Setup 
 
 - lib: https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
-
-
-
-### new lib pin definitions (use this one )
-
-Matched with board definition 
 - tested sketch: https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/Matrix-panel/IDD1013
 
+Please notice the library updated default setup file
+- new setup file: esp32-default-pins.cpp
+- old setup file: #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
 
-    // file: esp32-default-pins.cpp
+
+### DEVKITC Board pin definitions 
+
+notice the differences of pin CLK and D
 
     #define R1_PIN_DEFAULT  25
     #define G1_PIN_DEFAULT  26
@@ -65,20 +65,8 @@ Matched with board definition
     #define CLK_PIN_DEFAULT 16 // pin for devkitc, for PCIO please go IO32
 
 
-// setup for matrix size 
 
-/*--------------------- MATRIX LILBRARY CONFIG -------------------------*/
-#define PANEL_RES_X 64      // Number of pixels wide of each INDIVIDUAL panel module. 
-#define PANEL_RES_Y 32     // Number of pixels tall of each INDIVIDUAL panel module.
-#define PANEL_CHAIN 1      // Total number of panels chained one to another
-
-
-
-### old setup file 
-
-    #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
-
-### old board pin definitions (obselete)
+### PICO Board pin definitions
 
     #define R1_PIN_DEFAULT  25
     #define G1_PIN_DEFAULT  26
@@ -98,12 +86,19 @@ Matched with board definition
     #define CLK_PIN_DEFAULT 32
 
 
+### setup for matrix size 
+
+/*--------------------- MATRIX LILBRARY CONFIG -------------------------*/
+#define PANEL_RES_X 64      // Number of pixels wide of each INDIVIDUAL panel module. 
+#define PANEL_RES_Y 32     // Number of pixels tall of each INDIVIDUAL panel module.
+#define PANEL_CHAIN 1      // Total number of panels chained one to another
+
+
+
 ### ENV 
 - [[arduino-IDE-DAT]] - 1.8.19
 - lib - version 3.0.5
 - esp32 2.0.6
-
-
 
 
 ### note
@@ -111,7 +106,6 @@ Matched with board definition
 - Tedted with a 32 x 64 panel or 32 x 32 
 - 64 x 64 will need to setup E-line
 - result 
-
 
 ![](32-17-14-03-02-2023.png)
 
