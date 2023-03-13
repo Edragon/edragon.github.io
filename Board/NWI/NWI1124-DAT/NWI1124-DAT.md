@@ -16,9 +16,10 @@
 ## Pin Definitions 
 
 #### Setup Explantion V2
-![](02-30-17-13-03-2023.png){width=50%}
+![](02-30-17-13-03-2023.png)
 
-![](16-30-17-13-03-2023.png){width=50%}
+![](16-30-17-13-03-2023.png)
+
 
 ### Output Control Setup 
 
@@ -43,7 +44,7 @@ based on above image, top pin 1 to bottom pin 5:
 
 ### Power Supply Setup 
 
-![](01-04-17-27-02-2023.png){width=50%}
+![](01-04-17-27-02-2023.png)
 
 Green Box: 
 
