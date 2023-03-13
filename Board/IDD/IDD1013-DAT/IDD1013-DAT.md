@@ -78,12 +78,12 @@ notice the differences of pin CLK and D
     #define A_PIN_DEFAULT   23
     #define B_PIN_DEFAULT   19
     #define C_PIN_DEFAULT   5
-    #define D_PIN_DEFAULT   33
+    #define D_PIN_DEFAULT   33 // different pin for pico
     #define E_PIN_DEFAULT   18 // IMPORTANT: Change to a valid pin if using a 64x64px panel.
             
     #define LAT_PIN_DEFAULT 4
     #define OE_PIN_DEFAULT  15
-    #define CLK_PIN_DEFAULT 32
+    #define CLK_PIN_DEFAULT 32 // different pin for pico
 
 
 ### setup for matrix size 
