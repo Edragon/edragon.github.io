@@ -1,15 +1,20 @@
 
 
-## NWI1124 DAT
+[[_TOC_]]
+
+# NWI1124 DAT
 
 - old wiki link: https://www.electrodragon.com/w/ESP_Light
+
+
+
+
+## Output Control Setup 
 
 
 ![](06-58-16-27-02-2023.png)
 
 based on above image, top pin 1 to bottom pin 5: 
-
-## Output Control Setup 
 
 ### Set both **RED** box jumpers
 
