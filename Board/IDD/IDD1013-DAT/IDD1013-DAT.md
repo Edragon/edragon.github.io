@@ -10,11 +10,28 @@
 - https://www.electrodragon.com/product/rgb-matrix-panel-drive-interface-board-for-esp32-dma/
 
 
+## Versions:
+
+Current V2 
+- Add logic shifter to shift from signals from 3.3V to 5V
+- Lead out alone I2C pin header 4pin
+- Lead out alone light sensor IO34
+
+
+Old V1 version:
+- Lead out all pins for devkitc, but only used pins for driving matrix panel for PICO.
+
+## Demos
+
+- V2 version https://twitter.com/electro_phoenix/status/1635248053392375808
 
 
 ## hardware setup 
 
 - swtich between DEVKitC or PiCO 
+- Please notice for devkitc, CLK = IO16, D = IO17
+- Please notice for PCIO, CLK = 32, D = 33
+
 
 ## Code And Test Demo 
 
@@ -91,7 +108,7 @@ Matched with board definition
 
 ### note
 
-- Tedted with a 32 x 64 panel 
+- Tedted with a 32 x 64 panel or 32 x 32 
 - 64 x 64 will need to setup E-line
 - result 
 
