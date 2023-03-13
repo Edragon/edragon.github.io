@@ -1,6 +1,9 @@
 
 # NWI1126-DAT
 
+
+## Pin Definitions
+
     #define OM_LED 10 // on module led
     #define WS_LED 9 // WS2812, select by jumper 
 
@@ -12,21 +15,19 @@
     #define R_LED 7 //red
 
 
+- IO9 button = program mode pin
+- EN button = reset pin 
+- programmable LED pin 10 
+- 
+![](07-06-17-07-02-2023.png)
+
+
 ## quick test 
 
 - find demo code at https://github.com/Edragon/Arduino-ESP32 
 - find your board IP address, verify it in browser: http://192.168.8.165
 - try the test commands to turn off on board prog LED: http://192.168.8.165/io/10/val/0
 - in which, IO is 10 and IO voltage level is 0
-
-
-## Size Dimension Pin Definitions 
-
-![](07-06-17-07-02-2023.png)
-
-- IO9 button = program mode pin
-- EN button = reset pin 
-- programmable LED pin 10 
 
 
 ## demo video 
