@@ -4,16 +4,21 @@
 
 # NWI1124 DAT
 
+
+## General Info 
+
 - old wiki link: https://www.electrodragon.com/w/ESP_Light
+
+
+
 
 
 ## Pin Definitions 
 
+#### Setup Explantion V2
+![](02-30-17-13-03-2023.png){width=50%}
 
-
-
-
-## Setup 
+![](16-30-17-13-03-2023.png){width=50%}
 
 ### Output Control Setup 
 
@@ -35,12 +40,6 @@ based on above image, top pin 1 to bottom pin 5:
   - pin 3 to Red   channel of RGBW
   - you will get white box setup (from pin1 to pin5) from top to bottom
   - White / Blue / Red / Green / Voltage Supply
-
-
-#### Setup Explantion V2
-![](02-30-17-13-03-2023.png){width=50%}
-
-![](16-30-17-13-03-2023.png){width=50%}
 
 ### Power Supply Setup 
 
