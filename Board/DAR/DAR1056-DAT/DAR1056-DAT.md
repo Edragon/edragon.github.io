@@ -13,3 +13,8 @@ backside jumper
 
 
 ![](51-01-18-17-03-2023.png)
+
+
+## ref 
+- [[LGT8F328-DAT]]
+- [[DAR1056]]
