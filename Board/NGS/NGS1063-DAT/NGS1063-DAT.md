@@ -13,6 +13,7 @@ old info
 
 ## ref 
 
+- [[ED20]]
 - [[quectel-GNSS-AT]]
 
 
