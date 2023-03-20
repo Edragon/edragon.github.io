@@ -5,7 +5,7 @@ test log 170004
 ## Boards 
 
 ### DAR
-- [[DAR1053-DAT]] - [[DAR1056-DAT]]
+- [[DAR1053-DAT]] - [[DAR1056-DAT]] - [[DAR1064-DAT]]
 
 ### DOD
 - [[DOD1071-DAT]] - [[DOD1074-DAT]]
