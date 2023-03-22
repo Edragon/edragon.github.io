@@ -6,3 +6,5 @@ serial
 - U0_TXD I/O UART TX during flash programming; GPIO1; SPI_CS1
 
 serial1 = 
+
+
