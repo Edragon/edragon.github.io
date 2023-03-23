@@ -34,3 +34,13 @@
 ## bootloader 
 - arduino pro mini 3.3V/8M 
 
+
+
+## low power mode 
+- well initiated flash - https://github.com/LowPowerLab/SPIFlash
+- turn arduino into low power mode - https://github.com/LowPowerLab/LowPower
+- arduino low power
+- demo code 
+- demo video 
+
+
