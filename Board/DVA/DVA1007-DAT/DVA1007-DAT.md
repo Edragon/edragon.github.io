@@ -37,10 +37,10 @@
 
 
 ## low power mode 
-- well initiated flash - https://github.com/LowPowerLab/SPIFlash
-- turn arduino into low power mode - https://github.com/LowPowerLab/LowPower
-- arduino low power
-- demo code 
-- demo video 
-
+- first init RF Lora 
+- then, must well initiated flash, or this cost 1-2 mA - https://github.com/LowPowerLab/SPIFlash
+- turn RF Lora into sleep mode, or this cost 1-2 mA
+- turn on arduino into low power mode - https://github.com/LowPowerLab/LowPower
+- arduino low power, powerdown and wake up periodically 
+- [[low-power-test-dat]]
 
