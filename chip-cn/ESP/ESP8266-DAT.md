@@ -8,3 +8,4 @@ serial
 serial1 = 
 
 
+- [[ESP8266]]
