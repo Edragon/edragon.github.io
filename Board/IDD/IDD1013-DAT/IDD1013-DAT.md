@@ -5,6 +5,8 @@
 ## info 
 ![](2022-07-26-17-41-46.png)
 
+![](58-08-22-29-03-2023.png)
+
 - DMA version 
 - https://w.electrodragon.com/w/ESP32_DMA_RMP
 - https://www.electrodragon.com/product/rgb-matrix-panel-drive-interface-board-for-esp32-dma/
