@@ -8,7 +8,8 @@
 
 ![](15-18-22-29-03-2023.png)
 
-
+- FTDI FT232RL cable match programming pins on top-left: 
+  - DTR TXD RXD +5V -- GND
 
 ## hardware Setup
 - arduino pro mini 5V/16M
