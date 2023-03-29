@@ -16,3 +16,7 @@
 - pull D8 pin to HIGH for at lease 2 seconds, and then LOW to boot SIM800 module 
     - SIM800 Network LED should start to link
 
+## Demo Code 
+
+- https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/RF/NGS1072
+- Please use as a refernece, the repository may need sort out.
