@@ -15,12 +15,20 @@
 
 ### V1 version 
 
-![](49-13-17-03-04-2023.png)
+![](36-15-17-03-04-2023.png)
 
 
 ## use guide 
 
+### boot the module 
+- hold down the top-middle small button for 2 seconds to boot the module
+- or pull the "boot" pin to high for 2 seconds to boot the module 
+
+
+
 ### Use as a Modem and COM PORT
+
+- power via USB
 
 ![](27-07-17-14-03-2023.png)
 
