@@ -4,7 +4,7 @@
 
 - env setup [[megaTinyCore]]
 
-
+- https://www.electrodragon.com/product/vac-current-sensing-module-0-5a-ct-sensor/
 
 ## pin definitions 
 

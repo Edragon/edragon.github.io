@@ -2,7 +2,7 @@
 
 # NGS1128-DAT
 
-## hardware 
+## Hardware 
 
 ### V2 version 
 - Simplified Connection: TXD / RXD / GND / VIN
@@ -18,7 +18,7 @@
 ![](36-15-17-03-04-2023.png)
 
 
-## use guide 
+## Use Guide 
 
 ### boot the module 
 - hold down the top-middle small button for 2 seconds to boot the module
