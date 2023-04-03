@@ -2,7 +2,9 @@
 
 # NGS1128-DAT
 
-## V2 version 
+## hardware 
+
+### V2 version 
 - Simplified Connection: TXD / RXD / GND / VIN
 - VIN: 4.2-18Vin
 - default TXD / RXD logic at 3.3V
@@ -11,7 +13,14 @@
 ![](21-53-15-14-03-2023.png)
 
 
-## Use as a Modem and COM PORT
+### V1 version 
+
+![](49-13-17-03-04-2023.png)
+
+
+## use guide 
+
+### Use as a Modem and COM PORT
 
 ![](27-07-17-14-03-2023.png)
 
