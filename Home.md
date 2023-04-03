@@ -42,7 +42,7 @@ test log 170004
 ### SMO
 
 ### SVC
-- [[SVC1039-DAT]]
+- [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1039-DAT]]
 
 ### USB
 - [[USB1006-DAT]]
