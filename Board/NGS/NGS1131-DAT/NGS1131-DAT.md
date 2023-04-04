@@ -1,7 +1,14 @@
 
 # NGS1131 DAT 
 
+- [[A7670-DAT]]
+
+## Hardware
+
 ![](08-59-16-08-02-2023.png)
+
+- Hold down reset button for 2 seconds to boot the module 
+- pull up   reset pin    for 2 seconds to boot the module (by external MCU)
 
 ### Pin Definitions 
 
