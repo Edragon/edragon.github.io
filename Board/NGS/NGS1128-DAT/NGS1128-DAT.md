@@ -52,3 +52,4 @@
 - [[NGS1128]]
 - [[SIMCOM-AT]]
 - [[SIMCOM-AT-GNSS]]
+- https://w.electrodragon.com/w/SIM7080
