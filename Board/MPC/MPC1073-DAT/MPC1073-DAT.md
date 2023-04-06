@@ -1,5 +1,5 @@
 
-
+## hardware
 
 ### Batch Design Error 
 
@@ -17,3 +17,6 @@ Thank you!
 
 Best regards,
 
+## software 
+
+- code: https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/adapter
