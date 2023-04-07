@@ -11,7 +11,7 @@ test log 170004
 - [[DOD1071-DAT]] - [[DOD1074-DAT]]
 
 ### DPR
-- [[DPR1097-DAT]]
+- [[DPR1041-DAT]] - [[DPR1097-DAT]]
 
 ### IDD
 - [[IDD1013-DAT]] - [[IDD1016-DAT]]
@@ -65,6 +65,9 @@ Any interetest demo please contact me to enquiry.
 ## BOM
 
 ## Chip 
+
+- [[PL2303-DAT]]
+
 
 ## Chip-CN
 - [[WCH-DAT]] - [[ESP32-DAT]] - [[ESP8266-DAT]]
