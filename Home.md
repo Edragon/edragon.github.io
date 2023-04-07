@@ -11,7 +11,7 @@ test log 170004
 - [[DOD1071-DAT]] - [[DOD1074-DAT]]
 
 ### DPR
-- [[DPR1041-DAT]] - [[DPR1097-DAT]]
+- [[DPR1041-DAT]] - [[DPR1097-DAT]] - [[DPR1150-DAT]]
 
 ### IDD
 - [[IDD1013-DAT]] - [[IDD1016-DAT]]
