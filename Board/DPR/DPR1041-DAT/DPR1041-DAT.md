@@ -12,3 +12,6 @@
 ## ref 
 - [[PL2303-DAT]]
 - [[USB-TTL]]
+
+
+- [[DPR1042-DAT]]
