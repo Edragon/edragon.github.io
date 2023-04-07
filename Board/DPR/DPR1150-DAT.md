@@ -5,7 +5,7 @@
 ## guide 
 
 - Server Side please connect to your PC USB port for data sending
-- Power only for target receiver side 
+- Power only for target receiver side, USB port Type-C
 - wait for both side on-module LED turn ON Blue 
 - and it is ready to use
 
