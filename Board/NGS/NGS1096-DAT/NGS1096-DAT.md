@@ -31,6 +31,5 @@ BOOT 3V3 GND PIN RXD TXD
 
 
 # reference 
-
-- SIM7020 info : https://github.com/Edragon/SIMCOM_SIM7020
-- [[SIMCOM-AT]]
+- [[SIM7020-DAT]]
+- [[low-power-test-dat]]
