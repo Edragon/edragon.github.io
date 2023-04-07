@@ -25,7 +25,8 @@ Old V1 version:
 
 ## Demos
 
-- V2 version https://twitter.com/electro_phoenix/status/1635248053392375808
+- V2 version 
+- https://twitter.com/electro_phoenix/status/1635248053392375808
 
 
 ## hardware setup 

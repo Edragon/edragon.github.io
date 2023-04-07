@@ -17,16 +17,16 @@
 ![](39-39-16-07-02-2023.png)
 
 ### note 
-- [[ESP32-USB]] failed on code testing, may work or not, consider it is not working if you buy.
+- [[ESP32-USB]] note here
 
-- bluetooth / wifi tested with official examples, https://github.com/Edragon/Arduino-ESP32
+- [[arduino-esp32]]
 
 
 
 ### demo video 
 
 - https://www.youtube.com/watch?v=6Zk3WIVSvyM
-
+- https://twitter.com/electro_phoenix/status/1622874731493072897
 
 ### ref 
 
