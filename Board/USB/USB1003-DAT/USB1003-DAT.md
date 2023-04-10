@@ -14,3 +14,11 @@
 
 - RS485 no output? please check if the jumper is set to red box
 
+
+
+## urls 
+
+- https://www.electrodragon.com/product/usb-hid-to-uart-rs-485-extension-board/
+- v1 documentation: https://www.electrodragon.com/w/CH9350
+
+
