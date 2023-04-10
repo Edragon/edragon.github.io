@@ -12,7 +12,9 @@
 
 ## check points
 
-- RS485 no output? please check if the jumper is set to red box
+- RS485 no output? 
+  - please check if the jumper is set to red box
+  - USB and RS485 output can not be selected in the same time.
 
 
 
