@@ -9,3 +9,8 @@
 
 ![](02-02-17-10-04-2023.png)
 
+
+## check points
+
+- RS485 no output? please check if the jumper is set to red box
+
