@@ -3,10 +3,7 @@
 
 ## chip features
 
-- can work without crystal 
-
-- [[LGT8F328]]
-
+- crystal is not soldered, it can work without crystal, unlike [[atmega328]]
 
 
 ## differences 
@@ -41,3 +38,7 @@ Installation:
 - Unzip master.zip
 - Copy the [hardware] directory to Arduino's sketchbook directory (see below to find out where it normally resides)
 - Restart Arduino, you will see new board from [Tools]->[Board] menu.
+
+##
+
+- [[LGT8F328]]
