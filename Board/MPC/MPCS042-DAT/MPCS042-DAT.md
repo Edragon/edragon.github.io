@@ -6,7 +6,7 @@
 #### Screen Specification	
 - WLED
 - HD 2K Sharp IPS screen, 8bit, 16.7M, color gamut 72%
-- Aspect ratio: 16:10 (width: height)
+- Aspect ratio: 16:9 (width: height)
 - Panel brightness: 450 cd/m2
 - Resolution: 2560 * 1600, support extended screen	
 - Function: support backlight adjustment, support point to point.	
@@ -27,6 +27,9 @@
 - Material:all aluminum alloy metal CNC matte oxidation body
 
 
+#### installation 
+- use a stand to keep on the desk
+- use backside 75x75mm drilling holes to install on the wall 
 
 
 ## QA 
