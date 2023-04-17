@@ -47,9 +47,13 @@ test log 170004
 - [[SCU1041-DAT]]
 
 ### SDR
-- [[SDR1040-DAT]] - [[SDR1041-DAT-retired]] - [[SDR1113-DAT]]
+- [[SDR1040-DAT]] - [[SDR1041-DAT-retired]] - [[SDR1096-DAT]] - [[SDR1113-DAT]]
 
 ### SMO
+
+### STH
+- [[STH1078-DAT]]
+
 
 ### SVC
 - [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1039-DAT]]
