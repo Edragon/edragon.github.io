@@ -1,6 +1,14 @@
 
 # Flash Download Tool
 
+## NWI1139 
+
+SPI = 40Mhz 
+SPI Mode = DOUT
+for CH340, speed up to 1 500 000 = 1.5M
+
+![](11-51-17-17-04-2023.png)
+
 
 ## NWI1126 
 
@@ -30,6 +38,8 @@
 
 
 ![](36-05-18-06-02-2023.png)
+
+
 
 ### ESP32-C3 进入烧写模式 
 

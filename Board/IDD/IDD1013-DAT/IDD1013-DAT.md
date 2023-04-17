@@ -113,3 +113,8 @@ notice the differences of pin CLK and D
 ![](32-17-14-03-02-2023.png)
 
 - [[IDD1013]]
+
+
+### Jumper Setup for E-line
+- solder pins on E-18 and add jumper 
+- solder pins on E|SEL and add jumper 

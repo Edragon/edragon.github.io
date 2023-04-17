@@ -37,3 +37,5 @@ Other peripheral
     - D11 SPI_MOSI
     - D12 SPI_MISO
     - D13 SPI_SCK
+
+
