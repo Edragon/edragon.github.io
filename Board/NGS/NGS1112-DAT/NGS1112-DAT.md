@@ -1,5 +1,8 @@
 # GNS1112 DAT
 
+STM32 Low-Power Wireless System Board
+
+
 ## Hardware
 
 ![](51-19-17-18-04-2023.png)
@@ -9,8 +12,8 @@
 - Optional stack board:
   - based on our current [[M2M-interface]]
   - SIM7020G
-  - SIM7070
-  - SIM7080
+  - SIM7070G
+  - SIM7080G
 
 ### Pin Definitions 
 
@@ -34,3 +37,8 @@ Programming Interface: CLK DIO GND 3V3 BOOT
 ### Stackable with SIM7070G
 
 ![](36-12-18-18-04-2023.png)
+
+
+### Ref 
+
+- [[STM32L151]]
