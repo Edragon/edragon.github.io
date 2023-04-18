@@ -4,7 +4,7 @@
 
 ### V2 Version
 
-- Add onboard LDO regualtor AMS1117, input voltage can be 5V
+- Add onboard LDO regualtor AMS1117, input voltage can be 5V, provided stable power supply 
 - Add pull up and pull down control resistors for booting, pin 0, 2, EN, RST
 - tested working well for both ESP-01 or ESP-01S
 - Two booting control buttons, hold down IO button and press RST button to enter into flash mode.
