@@ -1,6 +1,13 @@
 
 # DPR1084 DAT
 
+## Hardware V2
+
+![](31-15-17-18-04-2023.png)
+
+- Solder method can refer to this one - [[NGS1111-DAT]]
+
+
 
 ## Usage:
 
