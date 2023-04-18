@@ -18,6 +18,10 @@
 
 ## Feature of V1 version 
 
+The V1 version board (blue board) use bad chip, which cause high heat on it.
+
+https://s5.electrodragon.com/wp-content/uploads/2016/03/Mini-USB-RS232-Convert-Board-02.jpg
+
 - NOT genius MAX232 IC
 - Input voltage 3V~5V
 - Max baudrate should be not over 120kbps
