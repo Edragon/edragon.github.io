@@ -20,7 +20,7 @@ Other peripheral
 - Programmable LED pin D13 
 
 ### main chips 
-- SAMD21G18A-AUT: main controller 
+- [[SAMD21]] - SAMD21G18A-AUT: main controller 
 
 
 - A4954: motor driver
@@ -39,3 +39,7 @@ Other peripheral
     - D13 SPI_SCK
 
 
+## ref 
+- https://github.com/Misfittech/nano_stepper/
+- https://github.com/NiryoRobotics/niryo_stepper
+- [[AS5047-DAT]]
