@@ -28,10 +28,9 @@ UART Selector
 ## ref 
 
 
-https://w.electrodragon.com/w/Category:AVR128#AVR128_Board
-
+- https://w.electrodragon.com/w/Category:AVR128#AVR128_Board
 - [[DAR1064]]
-
+- [[UPDI-DAT]]
 
 ## Debug 
 

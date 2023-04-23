@@ -1,10 +1,10 @@
 
 # Shipment 
 
-EXPENDIATED SHIPPING Methods
+### EXPENDIATED SHIPPING Methods
 Design and optmized to specific country, intertional + local delivery.
 
-### Americas
+#### Americas
 
 | Options | Post Options | Referential ETA Time |
 | ------- | ------------ | -------------------- |
@@ -12,7 +12,7 @@ Design and optmized to specific country, intertional + local delivery.
 | CA      | Canada post  | 5-20 workdays        |
 | MX      | MXEXP        | 5-30 workdays        |
 
-### Asia:
+#### Asia:
 
 | Options             | Post Options   | Referential ETA Time |
 | ------------------- | -------------- | -------------------- |
@@ -24,7 +24,7 @@ Design and optmized to specific country, intertional + local delivery.
 | UAE                 | Aramex         | 5-25 workdays        |
  
 
-### Europe
+#### Europe
 
 | Options                 | Post Options  | Referential ETA Time |
 | ----------------------- | ------------- | -------------------- |
@@ -35,3 +35,12 @@ Design and optmized to specific country, intertional + local delivery.
 | France                  | La Poste      | 5-20 workdays        |
 | UK                      | Royal Mail    | 5-20 workdays        |
 | Russia                  |               | 5-35 workdays        |
+
+### Normal Post 
+
+### Express Shipment 
+
+- Fedex
+- DHL
+- UPS
+
