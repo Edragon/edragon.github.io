@@ -55,3 +55,12 @@ use include “test.h” to add variables
         pinMode(LED, OUTPUT);
         digitalWrite(LED, lastPeriod%2);
     }
+
+
+## common folder 
+
+windows
+
+ETH.h 
+- C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6\libraries\Ethernet\src\eth.h
+- C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6\libraries\Ethernet\src\eth.cpp
