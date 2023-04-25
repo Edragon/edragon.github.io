@@ -78,6 +78,11 @@ Normal output
 
     ETH status0, ETH MAC: 84:0D:8E:C8:8C:67, IPv4: 192.168.1.173, FULL_DUPLEX, 100Mbps
 
+
+## Bug 
+- ESP32 board may fail on start, you may need to press reset "EN" buttons a few times to get correct boot
+
+
 ## ref 
 
 - [[arduino-IDE-DAT]]
