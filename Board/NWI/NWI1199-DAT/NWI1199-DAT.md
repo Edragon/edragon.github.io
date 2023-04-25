@@ -28,15 +28,21 @@
 ### jumper setup 
 
 #### IO 17 -- Osc_PWR (PHY_pwr)
+
 3-way jumper
 - NC (Not connect)
 - connected
+
+
 2-way jumper
 - Add pull down 4.7K
 
 #### IO0 -- CLK 
+
 2-way jumper (left)
 - 4k7 pull up
+- the boot may still not improve much with this pull up
+  
 2-way jumper (right)
 - connected
 
@@ -85,5 +91,5 @@ Normal output
 
 ## ref 
 
-- [[arduino-IDE-DAT]]
+- [[arduino-IDE-DAT]] please find demo code in arduino-ESP32
 - [[NWI1199]]

@@ -2,7 +2,8 @@
 ## demo code 
 
 - https://github.com/Edragon/Arduino-main
-
+- https://github.com/Edragon/Arduino-ESP32
+- https://github.com/Edragon/Arduino-ESP8266
 
 ### boards 
 
