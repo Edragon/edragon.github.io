@@ -19,11 +19,14 @@ Middle 4 columns * 3 rows pins, column from left to right :
 Other peripheral 
 - Programmable LED pin D13 
 
+
+
+
 ### main chips 
 - [[SAMD21]] - SAMD21G18A-AUT: main controller 
 
 
-A4954: motor driver
+#### A4954: motor driver
 - D4 Vref2
 - D5 IN3
 - D6 IN4
@@ -31,14 +34,21 @@ A4954: motor driver
 - D8 IN1
 - D9 Vref1
 
-AS5047D: decoder, provding close-loop feedback
+#### AS5047D: decoder, provding close-loop feedback
 - A2 SPI_SS
 - D11 SPI_MOSI
 - D12 SPI_MISO
 - D13 SPI_SCK
 
 
+
 ## ref 
 - https://github.com/Misfittech/nano_stepper/
 - https://github.com/NiryoRobotics/niryo_stepper
 - [[AS5047-DAT]]
+
+demo code please find at 
+- [[arduino-code-V2]]
+
+other 
+- [[power-flow-control]]
