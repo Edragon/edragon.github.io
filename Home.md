@@ -6,7 +6,7 @@ test log 170004
 ## Boards 
 
 ### DAS
-- [[DAS1033-DAT]]
+- [[DAS1033-DAT]] - [[DAS1087-DAT]]
 
 ### DAR
 - [[DAR1053-DAT]] - [[DAR1056-DAT]] - [[DAR1064-DAT]]
@@ -25,6 +25,10 @@ test log 170004
 
 ### ITF
 - [[ITF1003-DAT]]
+
+### MOT
+- [[MOT1009-DAT]]
+
 
 ### MPC
 - [[MPCS042-DAT]] - [[MPC1123-DAT]] - [[MPC1073-DAT]]
