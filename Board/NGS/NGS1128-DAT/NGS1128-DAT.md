@@ -20,7 +20,7 @@ Lead out all the function pins
 
 - Driver: [[git]] simcom_driver
 - chip documentation: [[git]] SIMCOM_SIM70X0
-- [[MQTT]]
+- [[mqtt-dat]]
 - [[NGS1128]]
 - [[SIMCOM-AT]]
 - [[SIMCOM-AT-GNSS]]
