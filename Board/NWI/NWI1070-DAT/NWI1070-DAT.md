@@ -10,7 +10,7 @@
 - Two booting control buttons, hold down IO button and press RST button to enter into flash mode.
 - Lead all pins 2*4 out to breadboard
 
-
+![](09-52-16-04-05-2023.png)
 
 
 ### V1 version 
