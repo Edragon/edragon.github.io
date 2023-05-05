@@ -17,3 +17,5 @@ battery holder CR1220
 
 ## ref 
 - [[DS1302-DAT]]
+- arduino library "RTC by makuna"
+
