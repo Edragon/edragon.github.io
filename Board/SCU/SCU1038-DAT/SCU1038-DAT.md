@@ -23,4 +23,4 @@
 
 ## ref 
 
-- [[cooling]] - [[Peltier]]
+- [[cooling]] - [[Peltier]] - [[SCU1038]]
