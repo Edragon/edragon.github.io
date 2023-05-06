@@ -16,6 +16,9 @@
 ![](50-31-17-06-05-2023.png)
 
 
+## note 
+
+The side with words are the cooling side, and other side is the warm side.
 
 ## Demos 
 
