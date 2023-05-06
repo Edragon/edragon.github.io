@@ -1,6 +1,28 @@
 
 # Peltier
 
-- [[TEC-12706-DAT]]
-- Product - https://www.electrodragon.com/product/tec1-12706-thermoelectric-peltier-cooler-12v-60w/
+## product 
 
+- [[TEC-12706-DAT]] - [[TEC-12712-DAT]]
+
+- [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]]
+  
+- Product 
+- https://www.electrodragon.com/product/tec1-12706-thermoelectric-peltier-cooler-12v-60w/
+
+
+## specs 
+
+![](50-31-17-06-05-2023.png)
+
+
+
+## Demos 
+
+- demo video of the cooling kit 
+- https://www.youtube.com/watch?v=N4TXLpb_8mY
+
+
+## legacy information
+- https://w.electrodragon.com/w/Thermoelectric_Cooler
+- https://w.electrodragon.com/w/Peltier

@@ -51,7 +51,7 @@ test log 170004
 - [[OPM1143-DAT]]
 
 ### SCU
-- [[SCU1033-DAT]] - [[SCU1041-DAT]]
+- [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
 ### SDR
 - [[SDR1040-DAT]] - [[SDR1041-DAT-retired]] - [[SDR1096-DAT]] - [[SDR1113-DAT]]
@@ -74,13 +74,10 @@ test log 170004
 
 Any interetest demo please contact me to enquiry.
 
-- [[LTE]]
+- [[LTE]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 
-- [[POE-dat]]
-- [[low-power-test-dat]]
-
-- [[M2M-interface]]
-
+Industrial 
+- [[Peltier]]
 
 ## Board-REF
 - [[ESPC2-12-DEV]]
