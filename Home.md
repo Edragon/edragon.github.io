@@ -62,7 +62,7 @@ test log 170004
 - [[STH1078-DAT]]
 
 ### SVC
-- [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1039-DAT]]
+- [[SVC1015-DAT]] - [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1039-DAT]]
 
 ### USB
 - [[USB1003-DAT]] - [[USB1006-DAT]]

@@ -18,4 +18,11 @@ D7, D8, D10, D12 - DIR
 
 ### Xbee
 
-- Serial output to Arduino D0, D1 (jumpers )
+- Serial output to Arduino D0, D1 (jumpers)
+
+
+
+## ref 
+- [[DAS1043]]
+
+
