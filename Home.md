@@ -6,7 +6,7 @@ test log 170004
 ## Boards 
 
 ### DAS
-- [[DAS1033-DAT]] - [[DAS1087-DAT]]
+- [[DAS1033-DAT]] - [[DAS1043-DAT]] - [[DAS1087-DAT]]
 
 ### DAR
 - [[DAR1053-DAT]] - [[DAR1056-DAT]] - [[DAR1064-DAT]]
