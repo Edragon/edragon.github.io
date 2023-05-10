@@ -1,11 +1,17 @@
 
 # NWI1199 DAT
 
-- [[LAN8720-DAT]]
+- [[LAN8720-DAT]] - [[NWI1200-DAT]]
+
+legacy reference: https://www.electrodragon.com/w/Ethernet#LAN8720_Ethernet_with_ESP
+
+
 
 ## hardware 
 
 ![](42-44-18-24-04-2023.png)
+
+![](21-28-18-10-05-2023.png)
 
 | ESP32   | func        | Ethernet          | Note         |
 | ------- | ----------- | ----------------- | ------------ |
@@ -21,6 +27,8 @@
 | GPIO 18 | SMI_MDIO    | MDIO              |              |
 | GND     |             | GND               |              |
 | 3V3     |             | VCC               |              |
+
+
 
 ### Crystal 
 - active 50MHz
@@ -91,5 +99,9 @@ Normal output
 
 ## ref 
 
+- https://www.electrodragon.com/w/Ethernet#LAN8720_Ethernet_with_ESP
+
 - [[arduino-IDE-DAT]] please find demo code in arduino-ESP32
 - [[NWI1199]]
+
+
