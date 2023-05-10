@@ -13,6 +13,8 @@ legacy reference: https://www.electrodragon.com/w/Ethernet#LAN8720_Ethernet_with
 
 ![](21-28-18-10-05-2023.png)
 
+![](06-32-18-10-05-2023.png)
+
 | ESP32   | func        | Ethernet          | Note         |
 | ------- | ----------- | ----------------- | ------------ |
 | GPIO 17 | PHY_POWER   | Osc_PWR (PHY_pwr) | obselete pin |
