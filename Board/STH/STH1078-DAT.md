@@ -7,9 +7,14 @@
 - Temperature - analog read 
 
 
+- https://w.electrodragon.com/w/TF-TDS_Sensor
+
 ## ref 
 
 - https://www.electrodragon.com/product/pipe-water-sensor-temperature-flow-speed-tds/
 - https://w.electrodragon.com/w/TF-TDS_Sensor
+
+
 - relevant demo code please find at: https://github.com/Edragon/Arduino-main
 
+- read tds hex data: https://github.com/Edragon/Arduino-main/blob/master/Sketchbook/Sensor/TF-TDS/TF-TDS-01/TF-TDS-01.ino
