@@ -8,7 +8,7 @@ Design and optmized to specific country, intertional + local delivery.
 
 | Options | Post Options | Referential ETA Time | Shipping Code |
 | ------- | ------------ | -------------------- | ------------- |
-| US      | USPS, UPS    | 5-20 workdays        | USPS          |
+| US      | USPS, UPS    | 5-20 workdays        | [[USPS]]          |
 | CA      | Canada post  | 10-20 workdays       | [[CAEXPRESS]]     |
 | MX      | ~~MXEXP~~    | ~~5-30 workdays~~    | MXEXP         |
 | MX      | [[EURPOST]]  | 15-30 workdays       | EURPOST       |
