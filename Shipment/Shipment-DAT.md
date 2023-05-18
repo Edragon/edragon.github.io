@@ -1,6 +1,10 @@
 
 # Shipment 
 
+- [[shipment-by-country]]
+
+
+
 ### EXPENDIATED SHIPPING Methods
 Design and optmized to specific country, intertional + local delivery.
 
