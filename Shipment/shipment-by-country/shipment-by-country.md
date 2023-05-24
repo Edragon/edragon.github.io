@@ -1,9 +1,12 @@
 
 # shipment by country 
 
-| country        | method | details | category    |
-| -------------- | ------ | ------- | ----------- |
-| Czech Republic | EUEX-V |         | expendiated |
-| India          | HKDHL  |         | express     |
-
-
+| country        | method           | details | category    |
+| -------------- | ---------------- | ------- | ----------- |
+| Czech Republic | EUEX-V           |         | expendiated |
+| India          | HKDHL            |         | express     |
+| Brazil         | BREX / BREXPRESS |         | expendiated |
+| -              | -                | -       | -           |
+| -              | -                | -       | -           |
+| -              | -                | -       | -           |
+| -              | -                | -       | -           |
