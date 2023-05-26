@@ -57,3 +57,5 @@ Other peripheral
 
 ### other info 
 - [[power-flow-control]]
+- [[SDR1096]]
+- legacy wiki page link: https://w.electrodragon.com/w/SDR1096_Motor_Drive_Board
