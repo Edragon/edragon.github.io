@@ -2,10 +2,14 @@
 # SDR1096 DAT
 
 
+## info 
+- https://www.electrodragon.com/product/arduino-zero-samd21-compatible-motor-drive-board/
+
+
+
 ## hardware 
 
 ![](48-28-16-17-04-2023.png)
-
 
 ### Pin Info 
 
@@ -41,16 +45,15 @@ Other peripheral
 - https://github.com/NiryoRobotics/niryo_stepper
 - [[AS5047-DAT]]
 
-demo code please find at 
+### demo code please find at 
 - [[arduino-code-V2]]
 - or reference design Mechaduino
-
-
-other 
-- [[power-flow-control]]
-
 
 ### main chips 
 - [[SAMD21]] - SAMD21G18A-AUT: main controller 
 - [[A4954-DAT]]
 - Magnetic Encoder AS5047D
+
+
+### other info 
+- [[power-flow-control]]
