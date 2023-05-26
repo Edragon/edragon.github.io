@@ -20,12 +20,6 @@ Other peripheral
 - Programmable LED pin D13 
 
 
-
-
-### main chips 
-- [[SAMD21]] - SAMD21G18A-AUT: main controller 
-
-
 #### A4954: motor driver
 - D4 Vref2
 - D5 IN3
@@ -49,6 +43,14 @@ Other peripheral
 
 demo code please find at 
 - [[arduino-code-V2]]
+- or reference design Mechaduino
+
 
 other 
 - [[power-flow-control]]
+
+
+### main chips 
+- [[SAMD21]] - SAMD21G18A-AUT: main controller 
+- [[A4954-DAT]]
+- Magnetic Encoder AS5047D
