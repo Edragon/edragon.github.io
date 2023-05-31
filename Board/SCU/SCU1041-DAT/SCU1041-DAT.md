@@ -9,3 +9,13 @@
 
 
 ![](59-54-12-31-05-2023.png)
+
+
+## Ref 
+
+- https://www.electrodragon.com/w/Category:TRIAC
+- [[TRIAC]]
+
+
+- demo video - https://t.me/electrodragon3/185
+
