@@ -21,3 +21,6 @@ https://www.elecrow.com/download/ESP-12F.pdf
 | IO12 |                            | IO2   | external pull-up   |             |
 | IO13 |                            | IO15  | external pull-down |             |
 | VCC  |                            | GND   |                    |             |
+
+
+- on module LED IO2: low to on

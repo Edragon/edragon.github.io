@@ -20,6 +20,7 @@
 
 ### control commands 
 
+- find [[WIFI-DAT]] AP "ESP_Relay_Board"
     192.168.4.1
     http://192.168.4.1/r11 # turn on relay1 to 1 
     http://192.168.4.1/m1 # turn on module led to 1  (GPIO2)
@@ -29,3 +30,4 @@
 ## ref 
 
 - [[NWI1072-DAT]] - [[NWI1119-DAT]]
+- [[NWI1139]]

@@ -45,7 +45,13 @@ test log 170004
 - [[NWL1042-DAT]]
 
 ### NWI
-- [[NWI1070-DAT]] - [[NWI1119-DAT]] - [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]] - [[NWI1155-DAT]] - [[NWI1139-DAT]] - [[NWI1199-DAT]] - [[NWI1200-DAT]] - [[NWI1235-DAT]] - [[NWI1245-DAT]] 
+- [[NWI1070-DAT]] 
+- [[NWI1072-DAT]] - [[NWI1115-DAT]]
+- [[NWI1118-DAT]] - [[NWI1119-DAT]]
+- [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]]
+- [[NWI1155-DAT]] - [[NWI1139-DAT]] 
+- [[NWI1199-DAT]] - [[NWI1200-DAT]] - [[NWI1235-DAT]]
+- [[NWI1245-DAT]] 
 
 ### OPM 
 - [[OPM1143-DAT]]
@@ -57,7 +63,8 @@ test log 170004
 - [[SDR1040-DAT]] - [[SDR1041-DAT-retired]] - [[SDR1096-DAT]] - [[SDR1113-DAT]]
 
 ### SMO
-
+- [[SMO1095-DAT]]
+  
 ### STH
 - [[STH1078-DAT]]
 
