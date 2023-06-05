@@ -13,6 +13,10 @@
 ## datasheet 
 https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_cn.pdf
 
+## Flash 
+
+- [[flash-download-tool]]
+
 
 ## FAQ
 
