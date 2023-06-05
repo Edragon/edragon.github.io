@@ -8,9 +8,11 @@ https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html
 ## Parameters
 
 ESP32 
+
 ![](52-27-16-05-01-2023.png)
 
 ESP32-C3
+
 ![](18-04-16-05-06-2023.png)
 
 - USB CDC on Boot - Disabled
