@@ -7,23 +7,33 @@ https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html
 
 ## Parameters
 
-ESP32 
+### ESP32 
 
 ![](52-27-16-05-01-2023.png)
 
-ESP32-C3
+### ESP32-C3
 
 ![](18-04-16-05-06-2023.png)
 
-- USB CDC on Boot - Disabled
-- CPU Frequency 160 MHz
-- Flash Frequency 80MHz 
-- Flash Size 4MB
-- Core Debug Level: None
-- Partition Scheme: Default 4MB with spiffs (1.2MB APP / 1.5MB SPIFFS)
-- Erase All Flash Before Sketch Upload: **Enabled**
-- Flash Mode: QIO 
 
+| Setup                                | Params                  | Note                          |     |
+| ------------------------------------ | ----------------------- | ----------------------------- | --- |
+| Board                                | ESP32C3 Dev Board       |                               |     |
+| Upload Speed                         | 921600                  |                               |     |
+| USB CDC on Boot                      | Disabled                |                               |     |
+| CPU Frequency                        | 160MHz / 80Mhz          |                               |     |
+| Flash Frequency                      | 80MHz / 40Mhz           | ESP flash tool speed to 40MHz |     |
+| Flash Mode                           | QIO / DIO               |                               |     |
+| Flash Size                           | 4MB                     |                               |     |
+| Partition Scheme                     | Default 4MB with spiffs | (1.2MB APP / 1.5MB SPIFFS)    |     |
+| Core Debug Level                     | None                    |                               |     |
+| Erase All Flash Before Sketch Upload | Enabled                 |                               |     |
+
+
+some tips:
+- flash basic blink sketch into module first to erase all
+- 80Mhz + 40Mhz + QIO = OK 
+- 80Mhz + 40Mhz + DIO = OK 
 
 ## version 
 
@@ -42,3 +52,4 @@ includes
 - bluetooth / wifi tested with official examples
 
 
+- [[ESP32-SDK]]
