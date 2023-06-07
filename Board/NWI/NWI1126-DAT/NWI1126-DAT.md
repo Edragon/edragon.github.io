@@ -44,4 +44,4 @@
 - [[NWI1125-DAT]]
 - [[NWI1126]]
 - [[ESP32-SDK]] 
-- [[ESP32-C3-WROOM-02-DAT]]
+- [[ESP32-­C3-­WROOM-­02-DAT]]
