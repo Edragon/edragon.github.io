@@ -5,7 +5,7 @@
 | -------------- | ------ | ---------------- | ------- | ----------- | ------------------- | ------------------------------------------------------------------------------------------- |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
+| Bulgaria       | 0607   | EURPOST          |         | expendiated |                     | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | South Africa   | 0605   | ZAEXPRESS        |         | expendiated |                     | ZAEXPRESS: Buffaloex Express Shipment (Ref. ETA 11-20 Days, personal ID 13-digits needed!!) |
 | Austria        |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Brazil         |        | BREX / BREXPRESS |         | expendiated | Shipment Zone       |                                                                                             |
