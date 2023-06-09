@@ -25,11 +25,15 @@ https://products.espressif.com/#/product-selector?language=en
 - ESP32 Chip Revision v3.0 - User Guid
 - https://www.espressif.com/sites/default/files/documentation/esp32_chip_revision_v3_0_user_guide_en.pdf
 
+
+
 ## ESP32-C3
 
-- [[ESP32-C3-DAT]] - [[ESP32-C3-WROOM-02-DAT]]
+https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
 
+- [[ESP32-C3-DAT]] - [[ESP32-­C3-­WROOM-­2-DAT]]
 
+[[ESP32-C3-Mini-1-DAT]]
 
 ## FAQ
 
