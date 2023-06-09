@@ -18,8 +18,8 @@
 - IO9 button = program mode pin
 - EN button = reset pin 
 - programmable LED pin 10 
-- 
-![](07-06-17-07-02-2023.png)
+
+![](13-39-15-09-06-2023.png)
 
 
 ## quick test 
