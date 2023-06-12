@@ -33,6 +33,4 @@ updates:
 
 ## ref 
 
-- [[WCH-PROG]]
-- [[CH559-DAT]]
-- [[WCH-MCU-CH55x]]
+- [[CH55x-DAT]]
