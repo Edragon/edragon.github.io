@@ -4,6 +4,11 @@
 | country        | update | method           | details | category    | System              |                                                                                             |
 | -------------- | ------ | ---------------- | ------- | ----------- | ------------------- | ------------------------------------------------------------------------------------------- |
 |                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
+| Costa Rica     | 0609   | NLRPOST          |         |             |                     |                                                                                             |
+| Poland         | 0609   | EUEX-V           |         |             |                     |                                                                                             |
 | United Kingdom | 0607   | CZUK             |         |             |                     |                                                                                             |
 | United Kingdom | 0607   | GBEXPRESS        |         |             |                     |                                                                                             |
 | United Kingdom | 0607   | YODEL-UK         |         |             |                     |                                                                                             |
