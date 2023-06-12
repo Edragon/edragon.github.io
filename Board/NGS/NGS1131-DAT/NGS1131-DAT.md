@@ -25,7 +25,14 @@
 
 Note 
 - When use VIN input, UART serial logic level power +5V should be supplied via VUSB
-- 3.3V for on board logic or power external 
+
+
+### Power Supply 
+
+- VBUS can be a USB power supply. 
+- VIN can be ~18V 2A external DC power supply 
+- VBAT does not lead out, so you basically can not use it unless you hack with a jumper wire. Please note we didn't mention the board can use VBAT in the product description.
+- 3.3V for on board logic or power external
 
 
 ### Wiring UART communication with ESP32
