@@ -25,7 +25,7 @@
 
 Note 
 - When use VIN input, UART serial logic level power +5V should be supplied via VUSB
-- 3.3V logic is supplied on board 
+- 3.3V for on board logic or power external 
 
 
 ### Wiring UART communication with ESP32
