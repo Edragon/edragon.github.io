@@ -2,7 +2,7 @@
 # shipment by country 
 
 | country        | update | method           | details | category    | System              |                                                                                             |
-|----------------|--------|------------------|---------|-------------|---------------------|---------------------------------------------------------------------------------------------|
+| -------------- | ------ | ---------------- | ------- | ----------- | ------------------- | ------------------------------------------------------------------------------------------- |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
@@ -24,7 +24,7 @@
 | Latvia         | 06-02  | EURPOST          |         |             |                     |                                                                                             |
 | Malta          |        | EURPOST          | -       | -           | Advanced: EURPOST-6 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Solvenia       |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
-| Switzerland    | 06-15  | EURPOST          |         |             |                     |                                                                                             |
+| Switzerland    | 06-15  | EURPOST          |         |             |                     | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | United Kingdom | 06-07  | GBEXPRESS        |         |             |                     |                                                                                             |
 | India          |        | HKDHL            |         | express     |                     |                                                                                             |
 | Costa Rica     | 06-09  | NLRPOST          |         |             |                     |                                                                                             |
