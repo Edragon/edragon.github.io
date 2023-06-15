@@ -4,9 +4,9 @@
 | country        | update | method           | details | category    | System              |                                                                                             |
 | -------------- | ------ | ---------------- | ------- | ----------- | ------------------- | ------------------------------------------------------------------------------------------- |
 |                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
+| Malaysia       | 06-15  | MYEXPRESS-BA     |         | expendiated |                     |                                                                                             |
+| Iceland        | 06-15  | SZFEDEX-IP       |         | express     |                     |                                                                                             |
+| Iceland        | 06-15  | NLRPOST          |         | post        |                     |                                                                                             |
 | Brazil         |        | BREX / BREXPRESS |         | expendiated | Shipment Zone       |                                                                                             |
 | United Kingdom | 06-07  | CZUK             |         |             |                     |                                                                                             |
 | Kazakhstan     | 06-02  | DGEUB            |         |             |                     | EURPOST: Intl. + Local Post (Ref. ETA. 15-40 Days)                                          |
