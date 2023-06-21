@@ -1,6 +1,9 @@
 
 # Electrodragon Wiki V2 
 
+
+## category 
+
 - [[board-DAT]] 
 
 - [[BOM-DAT]] - [[Tech-DAT]] - [[service-DAT]]
