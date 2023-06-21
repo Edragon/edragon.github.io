@@ -1,7 +1,7 @@
 
 # tech 
 
-- [[terminal-clamping]]
+- [[terminal-clamping]] - [[servo-DAT]]
 
 
 
