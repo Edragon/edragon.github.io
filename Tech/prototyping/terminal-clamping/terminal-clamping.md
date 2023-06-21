@@ -1,5 +1,5 @@
 
 # terminal clamping 
 
-- [[PTOS031]] - [[PTOS032]] - [[PTOS033]]
+- [[PTOS031-DAT]] - [[PTOS032-DAT]] - [[PTOS033-DAT]]
 
