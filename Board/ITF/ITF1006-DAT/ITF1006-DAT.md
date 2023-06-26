@@ -6,8 +6,8 @@
 
 ![](57-42-14-20-02-2023.png)
 
-
-https://www.electrodragon.com/product/current-loop-to-analog-voltage-converter-4-20ma-to-0-5v/
+- Two-pin to target-read
+- Three-pin board power supply, middle pin output voltage-read
 
 ## Use Guide 
 
@@ -32,3 +32,9 @@ https://www.electrodragon.com/product/current-loop-to-analog-voltage-converter-4
 ![](58-34-16-26-06-2023.png)
 
 ![](08-35-16-26-06-2023.png)
+
+
+## ref 
+
+
+https://www.electrodragon.com/product/current-loop-to-analog-voltage-converter-4-20ma-to-0-5v/
