@@ -28,6 +28,14 @@
 ![](12-34-16-26-06-2023.png)
 
 
+### Tuning Steps 
+- Set input current to 4mA,  tune 10K  trim-pot, until output voltage to 0V
+- Set input current to 20mA, tune 100K trim-pot, until output voltage to 5V
+- Done 
+
+A simulation trim-pot can be used as a target load on left side 
+
+
 ### Tests 
 ![](58-34-16-26-06-2023.png)
 
