@@ -44,5 +44,6 @@ A simulation trim-pot can be used as a target load on left side
 
 ## ref 
 
-
-https://www.electrodragon.com/product/current-loop-to-analog-voltage-converter-4-20ma-to-0-5v/
+- https://t.me/electrodragon3/237
+- https://t.me/electrodragon3/178
+- https://www.electrodragon.com/product/current-loop-to-analog-voltage-converter-4-20ma-to-0-5v/
