@@ -11,3 +11,6 @@ back side functions:
 - ADC resistor ladders via jumppers 
 
 
+## Dimension 
+
+![](52-48-17-28-06-2023.png)
