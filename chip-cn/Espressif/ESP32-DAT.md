@@ -2,7 +2,7 @@
 
 # ESP32 
 
-- [[ESP32-SDK]]
+- [[ESP-SDK]]
   
 选型工具 
 https://products.espressif.com/#/product-selector?language=zh&names=

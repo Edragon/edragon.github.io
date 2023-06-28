@@ -52,4 +52,4 @@ includes
 - bluetooth / wifi tested with official examples
 
 
-- [[ESP32-SDK]]
+- [[ESP-SDK]]
