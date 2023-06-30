@@ -1,0 +1,33 @@
+
+# NBL1089-DAT
+
+## Pin Definitions 
+
+![](29-09-14-30-06-2023.png)
+
+- SW1: mode setup 
+- JP1: debug only, no need to be used 
+- GND - BAT: battery power supply
+- MIC: Microphone solderin pins 
+- USB: 
+- LED1: status 
+- Earphone 
+- AUX_IN
+
+
+
+## Demos 
+
+
+* Pair with audio play box, and send human voice via speaker
+* https://twitter.com/electro_phoenix/status/1114019811690856452
+* Pair with audio play box, and PC -> audio -> AUX_IN to play
+* https://twitter.com/electro_phoenix/status/1401807228126908429?s=20
+
+
+## ref 
+
+- https://w.electrodragon.com/w/EMBT-S02
+- https://w.electrodragon.com/w/Category:EDMBT
+- https://www.electrodragon.com/product/bluetooth-audio-transmitter-receiver-board-embt-s02/
+
