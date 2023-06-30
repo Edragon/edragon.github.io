@@ -7,13 +7,13 @@
 
 ## Pin Definitions 
 
-#### Setup Explantion V2
+### Setup Explantion V2
 ![](02-30-17-13-03-2023.png)
 
 ![](16-30-17-13-03-2023.png)
 
 
-### Output Signal Setup 
+### Jumpers of Output Signal Setup 
 
 
 ![](06-58-16-27-02-2023.png)
@@ -26,17 +26,21 @@ based on above image, top pin 1 to bottom pin 5:
 - pin 3 to GND
 - Output pins from top to bottom (blue marked box pin 3-5)
   - WS2812_GND
-  - WS2812_DAT (5V Logic)
+  - WS2812_DAT (5V Logic) -> IO2
   - WS2812_VCC (can be set to 5V or VIN)
 
 #### Set both **GREEN** box jumpers for WRGB output
 
-  - pin 4 to Green channel of RGBW
-  - pin 3 to Red   channel of RGBW
-  - you will get white box setup (from pin1 to pin5) from top to bottom
-  - White / Blue / Red / Green / Voltage Supply
+- pin 4 to Green channel of RGBW
+- pin 3 to Red   channel of RGBW
+- Output pins from top to bottom (blue marked box pin 1-5)
+  - White -> IO14
+  - Blue -> IO12
+  - Red -> IO15
+  - Green -> IO13
+  - VIN Voltage Supply
 
-### Power Supply Setup 
+### Jumpers of Power Supply Setup 
 
 ![](01-04-17-27-02-2023.png)
 
