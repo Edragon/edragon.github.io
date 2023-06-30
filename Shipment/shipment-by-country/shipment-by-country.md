@@ -33,7 +33,7 @@
 | United Kingdom | 06-07  | YODEL-UK         |         |             |                     |                                                                                             |
 | Vietam         |        | VNEXPRESS        | -       | -           |                     | VNEXPRESS: Intl. + Local Express (Ref. ETA. 10-18 Days)                                     |
 | Norway         | 06-20  | EURPOST          |         |             | Advanced: EURPOST-4 |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
+| Korea          | 06-30  | HKFEDEXIP-C      |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |

@@ -37,6 +37,10 @@
 
 - [[ESP32-USB]] failed on code testing, may work or not, consider it is not working if you buy.
 
+## Update Log 
+- New USB footprint to simplified the production process and reduce failure rate
+- Tested USB Functions working fine by customers feedback
+
 
 ## ref 
 

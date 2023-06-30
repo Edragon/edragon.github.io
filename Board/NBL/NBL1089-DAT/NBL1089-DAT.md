@@ -18,6 +18,7 @@
 ## Note 
 
 - Please notice microphone is not pre-soldered on board, you can do it yourself or add note to ask us to do it when you place order.
+- More function is developing now, any updates we will update on wiki page. Also support customize.
 
 ## Demos 
 
