@@ -16,3 +16,5 @@
 - RMP Guide - https://w.electrodragon.com/w/RPI_RMP_Guide#P3/P4_64x64_(tested)
 
 - [[MPC1119]]
+
+- [[MPC1073-DAT]] - [[MPC1119-DAT]]

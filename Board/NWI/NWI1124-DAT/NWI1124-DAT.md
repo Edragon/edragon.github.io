@@ -56,6 +56,38 @@ Red Box:
 - Set to 5V for WS2812 LED Strips
 
 
+## Setup Scenarios 
+
+![](53-53-13-30-06-2023.png)
+
+For 5V WS2812 LED Strips, power supply 5-27V
+- JP7 set to VIN (5-27V, board power supply)
+- JP6 set to 5V (led strip's power supply)
+- JP8 set to IO2
+- JP9 set to GND
+- output JP4 only use pin 3-5 from top to bottom: GND, DAT_5V, 5V
+
+For 5V WS2812 LED Strips, power supply 5V
+- JP7 set to 5V (board power supply)
+- JP6 set to 5V (led strip's power supply)
+- JP8 set to IO2
+- JP9 set to GND
+- output JP4 only use pin 3-5 from top to bottom: GND, DAT_5V, 5V
+
+For 12V or 24V WS2812 LED Strips, power supply 5-27V (not yet test confirm !)
+- JP7 set to VIN (5-27V, board power supply)
+- JP6 set to VIN (5-27V, led strip's power supply)
+- JP8 set to IO2
+- JP9 set to GND
+- output JP4 only use pin 3-5 from top to bottom: GND, DAT_5V, ~27V
+
+For 12V or 24V WRGB 4ch LED Strips, power supply 5-27V
+- JP7 set to VIN (5-27V, board power supply)
+- JP6 set to VIN (5-27V, led strip's power supply)
+- JP8 set to GR
+- JP9 set to RE
+- output JP4 pins: White, Blue, Red, Green, VIN (5-27V, led strip's power supply)
+
 
 ## Accessories 
 - Reserved pins for our RF-LINK EDRF2 module here. (one channel trigger IO0 Low)
