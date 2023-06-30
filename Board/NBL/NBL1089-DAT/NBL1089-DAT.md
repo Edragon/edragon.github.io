@@ -15,6 +15,9 @@
 - AUX_IN
 
 
+## Note 
+
+- Please notice microphone is not pre-soldered on board, you can do it yourself or add note to ask us to do it when you place order.
 
 ## Demos 
 
