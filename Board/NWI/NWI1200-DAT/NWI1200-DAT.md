@@ -10,6 +10,7 @@
 ### Hardware 
 
 - Optical Coupler IO4 IO5 
+
 - Sensor Input IO34 
 
 

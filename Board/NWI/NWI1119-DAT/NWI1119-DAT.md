@@ -1,4 +1,5 @@
 
+# NWI1119 DAT 
 
 ### Pin Definitions 
 
@@ -16,11 +17,6 @@
 
 ![](39-39-16-07-02-2023.png)
 
-### note 
-- [[ESP32-USB]] note here
-
-- [[arduino-esp32]]
-
 
 
 ### demo video 
@@ -30,6 +26,6 @@
 
 ### ref 
 
-
+- [[ESP-SDK]] - [[arduino-esp32]]
 - [[ESP32-USB]]
 - [[ESP32-C3-WROOM-02-DAT]]
