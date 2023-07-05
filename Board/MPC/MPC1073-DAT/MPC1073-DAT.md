@@ -1,6 +1,11 @@
 
 ## hardware
 
+
+## Board Functions 
+
+RTC
+
 ### Batch Design Error 
 
 We have made a batch of board with the design error like below, please check:
@@ -20,3 +25,11 @@ Best regards,
 ## software 
 
 - code: https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/adapter
+
+
+## ref 
+
+- https://w.electrodragon.com/w/RPI_RMP_Guide
+- https://w.electrodragon.com/w/RPI_RMP_HDK
+
+- [[ds1307-dat]] - [[hub75-dat]]
