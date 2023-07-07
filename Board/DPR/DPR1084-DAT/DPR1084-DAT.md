@@ -5,7 +5,7 @@
 
 ![](31-15-17-18-04-2023.png)
 
-- Solder method can refer to this one - [[NGS1111-DAT]]
+- Solder method can refer to this one - [[NGS1112-DAT]]
 
 
 
@@ -28,3 +28,10 @@ https://s5.electrodragon.com/wp-content/uploads/2016/03/Mini-USB-RS232-Convert-B
 - Dimension: 9.4mm*15.9mm
 - Arrow indicate the data flow
 - Each purchase is for 5 pcs.
+
+
+## ref 
+
+- [[RS232-DAT]]
+  
+- [[RS485]] - [[RS232]] - [[DPR1084]]

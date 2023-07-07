@@ -4,11 +4,17 @@
 https://www.electrodragon.com/product/water-turbidity-sensor/
 
 Sensor default out analog value 0~4.5V
-Small breakout LM358 to amplify the analog input signal, tuning on-board trim-pot for the amplication.
+Digital output or amplified output by [[LM358-DAT]]
 
 - [[micropython-dat]]
 
+jumper select: 
+- D: digital threashold output, LED on, tuning on-board trim-pot for the threashold.
+- D': amplify analog output 
 
 
+## ref 
+
+- [[LM358-DAT]]
 
 - [[STH1074]] - [[LM358]]
