@@ -8,9 +8,9 @@
 ### Interface
 
 [[RS485-DAT]]
-- use breakout board xxx, switch direction as input or output 
-- reversal direction as breakout boards, solder onto the main board 
-- 8 channels IOs directly from ESP32 to isolator
+- use breakout board [[xxx]], switch breakout board's direction to change input or output direction
+- reversal direction as breakout boards, solder on the main board 
+- 8 channels IOs directly from ESP32 to isolator, later V2 version use IO expander instead. 
   
 [[RS232-DAT]]
 - use breakout board [[DPR1084-DAT]]
