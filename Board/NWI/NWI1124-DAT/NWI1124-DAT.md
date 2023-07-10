@@ -95,6 +95,9 @@ Red Box:
 - JP9 set to RE
 - output JP4 pins: White, Blue, Red, Green, 5V (led strip's power supply)
 
+## Schematic 
+
+![](59-33-16-10-07-2023.png)
 
 ## Accessories 
 - Reserved pins for our RF-LINK EDRF2 module here. (one channel trigger IO0 Low)

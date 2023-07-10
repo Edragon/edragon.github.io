@@ -21,6 +21,12 @@
 
 ![](13-39-15-09-06-2023.png)
 
+## Core Module Sch
+
+![](37-36-16-10-07-2023.png)
+
+Peripheral schamtic please refer to [[NWI1124-DAT]]
+
 
 ## quick test 
 
