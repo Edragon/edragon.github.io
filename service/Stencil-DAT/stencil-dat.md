@@ -22,4 +22,6 @@
 ## Features 
 
 - thickness 0.1 mm 
-- "cutting" precision 0.005 mm ~ 0.01 mm
+- "cutting" precision 0.005 mm
+- or 0.01 mm
+- "machine" bias 0.05 mm
