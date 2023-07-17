@@ -8,3 +8,6 @@ A lightweight, non-GUI, distribution such as DietPi is recommended. Raspbian Lit
 https://dietpi.com/
 
 https://downloads.raspberrypi.org/raspbian_lite_latest
+
+
+
