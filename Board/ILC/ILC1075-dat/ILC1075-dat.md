@@ -22,5 +22,5 @@ connection: soldering
 ![](43-28-16-17-07-2023.png)
 
 
-- [[ILC1075]]
+- [[ILC1075-dat]] - [[ilc1078-dat]] - [[fpc-dat]]
 
