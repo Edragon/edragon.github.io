@@ -1,7 +1,7 @@
 
 # ILC1078 dat 
 
-3.2''LCD pin definitions: 
+## 3.2''LCD pin definitions: 
 * 1 GND
 * 2 RESET
 * 3 SCL
@@ -20,3 +20,9 @@
 * 16 YU
 * 17 XR
 * 18 YD
+
+
+## dimension 
+
+
+![](40-34-16-17-07-2023.png)
