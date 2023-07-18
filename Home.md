@@ -6,7 +6,7 @@
 
 - [[board-DAT]] 
 
-- [[BOM-DAT]] - [[Tech-DAT]] - [[service-DAT]]
+- [[BOM-DAT]] - [[Tech-DAT]] - [[service-dat]]
 
 
 ## Social 
