@@ -15,9 +15,12 @@ Please adapte this to your own "DRC(Design Rule Check)" tool, to make sure your 
 | Min. stop mask                      | 4 mils (0.1 mm)     | -                  | Masks 4 mils      |
 | Min. copper/trace to ground spacing | 8 mils (0.2 mm)     | -                  | 40 mils           |
 
+
+### Note 
 * Minimum milling width of grooves is 0.8mm
 * A lot numbers of vias may cost extra 
-
+* Dimension: Any irregular shape should be treated as a rectangular, with maximum size.
+* Board test:  fully tested by fly probes.
 
 ### Other Manufacturing Limits
 
@@ -36,6 +39,11 @@ Please adapte this to your own "DRC(Design Rule Check)" tool, to make sure your 
 | Pour hypotenuse                  | 30~60 °                                | -                                    |
 | Color                            | red, blue, green, white, yellow, black | default green\|-                     |
 | Soldering Pads Plating           | HASL, ROSH (lead-free), ENIG           |                                      |
+
+
+#### Half-Hole/Impedance
+- Half-Hole + $20, if you need this please contact first or write note in order.
+- Impedance + $60
 
 ### What do not support
 * Four layers boards
