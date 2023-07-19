@@ -2,10 +2,17 @@
 
 # ESP32 USB
 
+## USB pins 
+
+![](40-51-15-19-07-2023.png)
+
+
 ## Arduino Code tested with [[ESP32-­C3-­WROOM-­2-DAT]] 
 - not working
 - maybe hardware problem, or code problem, or need further test
 - consider it is not working if you buy.
+
+
 
 ## Arduino Code tested with [[ESP32-S2]] 
 - working
