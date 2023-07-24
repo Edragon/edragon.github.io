@@ -16,4 +16,4 @@ reverse TX RX in case wrong wiring of communication
 software [[com-monitor-dat]]
 
 other interface 
-- [[RS485-dat]] - [[RS232-dat]]
+- [[RS485-dat]] - [[RS232-dat]] - [[I2C-dat]]
