@@ -5,6 +5,9 @@
 
 - https://www.wch.cn/downloads/CH559EVT_ZIP.html
 
+- https://w2.electrodragon.com/chip-cn/WCH/CH559-DAT/CH559ds1.pdf
+
+
 CH559 
 * E8051, 6K +256B SRAM, 60K Code, 1K Data Flash
 * UART0, UART1, SPI0 M/S, SPI1 M

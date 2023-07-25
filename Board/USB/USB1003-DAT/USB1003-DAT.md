@@ -16,7 +16,13 @@
   - please check if the jumper is set to red box
   - USB and RS485 output can not be selected in the same time.
 
+## SCH 
 
+- SCH1 of chip 
+![](13-01-15-25-07-2023.png)
+
+- SCH2 peripheral 
+![](25-02-15-25-07-2023.png)
 
 ## urls 
 
