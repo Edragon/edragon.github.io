@@ -6,136 +6,136 @@ http://wch.cn
 http://winchiphead.com
 
 
-文件目录
-  |
-  |-- README.TXT：目录文件说明
-  |-- BRIEF
-  |      |--CH559DS0.PDF：CH559简介
-  |-- DS
-  |      |--CH559DS1.PDF：CH559应用手册
-  |-- EVT
-  |      |-- EXAM: C例程
-  |      |      |--CH559.uvproj：CH559 keil工程文件
-  |      |      |--CH559.H：CH559 C语言头文件，SFR定义
-  |      |      |--CH559.INC：CH559汇编头文件，SFR定义
-  |      |      |--DEBUG.C：UART0初始化、常用延时函数、UART0数据收发子函数
-  |      |      |--DEBUG.H：UART0初始化、常用延时函数、UART0数据收发子函数声明
-  |      |      |--CHIP_ID
-  |      |      |      |-- GETID.C:获取芯片唯一ID号
-  |      |      |      |-- GETID.hex:
-  |      |      |--Encryption
-  |      |      |      |-- Encryption.C:芯片用户程序加密例程
-  |      |      |      |-- Encryption.hex:
-  |      |      |      |-- 芯片加密建议.PDF  
-  |      |      |--ADC：
-  |      |      |      |-- ADCAUTODMA.C:DMA方式自动AD采样
-  |      |      |      |-- ADCAUTODMA.hex:DMA方式自动AD采样hex文件
-  |      |      |      |-- ADCManual.C:手动方式AD采样
-  |      |      |      |-- ADCManual.hex:手动AD采样hex文件
-  |      |      |--DataFlash
-  |      |      |      |-- DataFlash.C:DATA Flash读写、擦除例程
-  |      |      |      |-- DataFlash.hex:DATA Flash操作hex文件
-  |      |      |--GPIO
-  |      |      |      |-- GPIO.C:IO口配置、驱动能力设置和IO中断设置
-  |      |      |      |-- GPIO.hex:IO操作hex文件
-  |      |      |--LED_CTL
-  |      |      |      |-- LED_Udisk_Flash_DMA
-  |      |      |      |      |--完整演示工程，需要添加文件系统LIB 
-  |      |      |--PWM
-  |      |      |      |-- PWM.C:PWM1和PWM2操作程序
-  |      |      |      |-- PWM.hex:PWM1和PWM2操作hex文件 
-  |      |      |--SPI0
-  |      |      |      |-- SPI0Flash.C:SPI0操作串行Flash
-  |      |      |      |-- SPI0Flash.hex:SPI0操作串行Flash的hex文件 
-  |      |      |      |-- SPI0Master.C:SPI0主机发送、接收程序
-  |      |      |      |-- SPI0Master.hex:SPI0主机接口函数hex文件 
-  |      |      |      |-- SPI0Slv.C:SPI0从机初始化程序
-  |      |      |      |-- SPI0Slv.hex:SPI0从机接口函数hex文件 
-  |      |      |--SPI1
-  |      |      |      |-- SPI1Master.C:SPI1主机发送、接收程序
-  |      |      |      |-- SPI1Master.hex:SPI1主机接口函数hex文件
-  |      |      |--Timer0
-  |      |      |      |-- Timer0.C:Timer0中断、定时器设置
-  |      |      |      |-- Timer0.hex:Timer0操作hex文件
-  |      |      |--Timer1
-  |      |      |      |-- Timer1.C:Timer1设中断、定时器设置
-  |      |      |      |-- Timer1.hex:Timer1操作hex文件
-  |      |      |--Timer2
-  |      |      |      |-- Timer2.C:Timer1中断、定时器设置和捕捉
-  |      |      |      |-- Timer2.hex:Timer2操作hex文件
-  |      |      |--Timer3
-  |      |      |      |-- Timer3.C:Timer1中断、定时器设置、捕捉和PWM3
-  |      |      |      |-- Timer3.hex:Timer3操作hex文件
-  |      |      |--UART1
-  |      |      |      |-- UART1.C:
-  |      |      |      |-- UART1.hex:
-  |      |      |      |-- UART1_485.C:UART1 485模式数据收发
-  |      |      |      |-- UART1_485.hex:
-  |      |      |      |-- UART1_INT.C:UART1中断方式数据收发
-  |      |      |      |-- UART1.hex:
-  |      |      |      |-- UART1_Query.C:UART1查询方式数据收发
-  |      |      |      |-- UART1.hex:
-  |      |      |--WDOG
-  |      |      |      |-- WDOG.C:看门狗操作
-  |      |      |      |-- WDOG.hex:看门狗操作hex文件
-  |      |      |--XBUS
-  |      |      |      |-- XBUS.C:直接、复用地址方式操作外扩RAM
-  |      |      |      |-- XBUS.hex:XBUS操作hex文件
-  |      |      |--IAP
-  |      |      |      |--CH559 IAP功能使用说明.doc
-  |      |      |      |--CH559IAP
-  |      |      |      |     |-- CH559_IAP.uvproj:CH559 IAP工程文件
-  |      |      |      |     |-- CH559_IAP.C:IAP功能C程序，支持串口和USB方式升级用户程序
-  |      |      |      |     |-- CH559_IAP.H:IAP功能头文件
-  |      |      |      |     |-- CH559_IAP.hex:IAP功能hex文件
-  |      |      |      |--CH559User
-  |      |      |      |     |-- CH559_User.uvproj:CH559 IAP 用户程序工程文件
-  |      |      |      |     |-- CH559_Demo.C: CH559 配合IAP的应用程序，通过按键进入IAP
-  |      |      |      |     |-- CH559_Demo.hex:配合IAP功能用户程序hex文件
-  |      |      |      |--CH559WINUser 
-  |      |      |      |     |-- WCHMCUIAP_WINAPP.exe:CH559 配合例程IAP的上位机工具，支持串口和USB下载
-  |      |      |--USB
-  |      |      |      |-- DEVICE
-  |      |      |      |      |-- Compound Dev.C:模拟键鼠例程，支持部分类命令
-  |      |      |      |      |-- Compound Dev.hex:模拟键鼠hex文件  
-  |      |      |      |      |-- USBDEV.C:模拟厂商自定义设备，需要安装CH372驱动，可以通过372test.exe调试(批量数据收发)
-  |      |      |      |      |-- USBDEV.hex:模拟厂商自定义设备hex文件 
-  |      |      |      |-- HOST
-  |      |      |      |      |-- USBHOST.C:主机模式ROOT-HUB下初始化和枚举DP/DM端口连接的USB设备,可以操作U盘或者操作USB鼠标,不包含HID类命令处理
-  |      |      |      |      |-- USBHOST.hex:  
-  |      |      |      |      |-- USBH_HUB_KM.C: USB主机应用例子,初始化和枚举USB端口连接的设备,同时支持最多2个USB设备,支持一级外部HUB,可以操作USB键鼠和HUB,包含HID类命令处理
-  |      |      |      |      |-- USBH_HUB_KM.hex: 
-  |      |      |      |      |-- USBH_KM.C: USB主机应用例子,仅支持操作ROOTHUB上挂接的键鼠等HID设备。
-  |      |      |      |      |-- USBH_KM.hex: 
-  |      |      |      |      |-- USBH_AOA.C: USB主机应用例子,支持ROOTHUB上连接安卓设备与APP进行通讯。
-  |      |      |      |      |-- USBH_AOA.hex: 
-  |      |      |      |      |-- TOOL
-  |      |      |      |      |    |-- UARTDemo.apk:AOA调试配套APK测试文件
-  |      |      |      |-- U_DISK
-  |      |      |      |      |      |-- EXAM1.C:C示例源程序,以字节为单位读写文件，包括文件创建、删除、修改文件属性,修改文件名
-  |      |      |      |      |      |-- EXAM1.hex:字节方式文件读写hex文件
-  |      |      |      |      |      |-- EXAM6.C:C示例源程序,以扇区为单位读写文件，包括文件创建、删除、修改文件属性
-  |      |      |      |      |      |-- EXAM6.hex:字节方式文件读写hex文件
-  |      |      |      |      |      |-- EXAM9.C:C示例源程序,新建文件夹，文件下创建文件和子目录
-  |      |      |      |      |      |-- EXAM9.hex:创建目录hex文件
-  |      |      |      |      |      |-- EXAM11.C:C示例源程序,枚举根目录或者指定目下的文件
-  |      |      |      |      |      |-- EXAM11.hex:
-  |      |      |-- USB_LIB
-  |      |      |      |      |-- CH559UFI.C:CH559 U盘文件系统库常用接口函数
-  |      |      |      |      |-- CH559UFI.H:CH559 U盘文件系统库变量和函数声明头文件
-  |      |      |      |      |-- CH559UFI.LIB:CH559 U盘文件系统库文件(编译器内存模式设置成:small)
-  |      |      |      |      |-- CH559UFX.LIB:U盘文件系统库文件(编译器内存模式设置成:large)
-  |      |      |      |      |-- CH559UF_README.TXT:CH559 U盘文件系统变更文档
-  |      |-- PUB: 评估板说明
-  |      |      |-- CH559EVT.PDF: 评估板说明
-  |      |      |-- CH559SCH.PDF: 评估板原理图
-  |      |      |-- CH55X指令周期.PDF: CH55X汇编指令周期表
-  |      |      |-- CH55X脱机烧录器V130 
-  |      |      |      |      |-- 脱机烧录器使用说明.PDF
-  |      |      |      |      |-- 脱机烧录器结构图.PDF 
-  |      |      |      |      |-- OffLineWCH_ISP配置工具 
-  |      |      |      |      |      |--脱机烧录器配置工具.exe
-  |      |      |      |      |      |--SV00xISPDLL.dll 
+- 文件目录
+-   |
+-   |-- README.TXT：目录文件说明
+-   |-- BRIEF
+-   |      |--CH559DS0.PDF：CH559简介
+-   |-- DS
+-   |      |--CH559DS1.PDF：CH559应用手册
+-   |-- EVT
+-   |      |-- EXAM: C例程
+-   |      |      |--CH559.uvproj：CH559 keil工程文件
+-   |      |      |--CH559.H：CH559 C语言头文件，SFR定义
+-   |      |      |--CH559.INC：CH559汇编头文件，SFR定义
+-   |      |      |--DEBUG.C：UART0初始化、常用延时函数、UART0数据收发子函数
+-   |      |      |--DEBUG.H：UART0初始化、常用延时函数、UART0数据收发子函数声明
+-   |      |      |--CHIP_ID
+-   |      |      |      |-- GETID.C:获取芯片唯一ID号
+-   |      |      |      |-- GETID.hex:
+-   |      |      |--Encryption
+-   |      |      |      |-- Encryption.C:芯片用户程序加密例程
+-   |      |      |      |-- Encryption.hex:
+-   |      |      |      |-- 芯片加密建议.PDF  
+-   |      |      |--ADC：
+-   |      |      |      |-- ADCAUTODMA.C:DMA方式自动AD采样
+-   |      |      |      |-- ADCAUTODMA.hex:DMA方式自动AD采样hex文件
+-   |      |      |      |-- ADCManual.C:手动方式AD采样
+-   |      |      |      |-- ADCManual.hex:手动AD采样hex文件
+-   |      |      |--DataFlash
+-   |      |      |      |-- DataFlash.C:DATA Flash读写、擦除例程
+-   |      |      |      |-- DataFlash.hex:DATA Flash操作hex文件
+-   |      |      |--GPIO
+-   |      |      |      |-- GPIO.C:IO口配置、驱动能力设置和IO中断设置
+-   |      |      |      |-- GPIO.hex:IO操作hex文件
+-   |      |      |--LED_CTL
+-   |      |      |      |-- LED_Udisk_Flash_DMA
+-   |      |      |      |      |--完整演示工程，需要添加文件系统LIB 
+-   |      |      |--PWM
+-   |      |      |      |-- PWM.C:PWM1和PWM2操作程序
+-   |      |      |      |-- PWM.hex:PWM1和PWM2操作hex文件 
+-   |      |      |--SPI0
+-   |      |      |      |-- SPI0Flash.C:SPI0操作串行Flash
+-   |      |      |      |-- SPI0Flash.hex:SPI0操作串行Flash的hex文件 
+-   |      |      |      |-- SPI0Master.C:SPI0主机发送、接收程序
+-   |      |      |      |-- SPI0Master.hex:SPI0主机接口函数hex文件 
+-   |      |      |      |-- SPI0Slv.C:SPI0从机初始化程序
+-   |      |      |      |-- SPI0Slv.hex:SPI0从机接口函数hex文件 
+-   |      |      |--SPI1
+-   |      |      |      |-- SPI1Master.C:SPI1主机发送、接收程序
+-   |      |      |      |-- SPI1Master.hex:SPI1主机接口函数hex文件
+-   |      |      |--Timer0
+-   |      |      |      |-- Timer0.C:Timer0中断、定时器设置
+-   |      |      |      |-- Timer0.hex:Timer0操作hex文件
+-   |      |      |--Timer1
+-   |      |      |      |-- Timer1.C:Timer1设中断、定时器设置
+-   |      |      |      |-- Timer1.hex:Timer1操作hex文件
+-   |      |      |--Timer2
+-   |      |      |      |-- Timer2.C:Timer1中断、定时器设置和捕捉
+-   |      |      |      |-- Timer2.hex:Timer2操作hex文件
+-   |      |      |--Timer3
+-   |      |      |      |-- Timer3.C:Timer1中断、定时器设置、捕捉和PWM3
+-   |      |      |      |-- Timer3.hex:Timer3操作hex文件
+-   |      |      |--UART1
+-   |      |      |      |-- UART1.C:
+-   |      |      |      |-- UART1.hex:
+-   |      |      |      |-- UART1_485.C:UART1 485模式数据收发
+-   |      |      |      |-- UART1_485.hex:
+-   |      |      |      |-- UART1_INT.C:UART1中断方式数据收发
+-   |      |      |      |-- UART1.hex:
+-   |      |      |      |-- UART1_Query.C:UART1查询方式数据收发
+-   |      |      |      |-- UART1.hex:
+-   |      |      |--WDOG
+-   |      |      |      |-- WDOG.C:看门狗操作
+-   |      |      |      |-- WDOG.hex:看门狗操作hex文件
+-   |      |      |--XBUS
+-   |      |      |      |-- XBUS.C:直接、复用地址方式操作外扩RAM
+-   |      |      |      |-- XBUS.hex:XBUS操作hex文件
+-   |      |      |--IAP
+-   |      |      |      |--CH559 IAP功能使用说明.doc
+-   |      |      |      |--CH559IAP
+-   |      |      |      |     |-- CH559_IAP.uvproj:CH559 IAP工程文件
+-   |      |      |      |     |-- CH559_IAP.C:IAP功能C程序，支持串口和USB方式升级用户程序
+-   |      |      |      |     |-- CH559_IAP.H:IAP功能头文件
+-   |      |      |      |     |-- CH559_IAP.hex:IAP功能hex文件
+-   |      |      |      |--CH559User
+-   |      |      |      |     |-- CH559_User.uvproj:CH559 IAP 用户程序工程文件
+-   |      |      |      |     |-- CH559_Demo.C: CH559 配合IAP的应用程序，通过按键进入IAP
+-   |      |      |      |     |-- CH559_Demo.hex:配合IAP功能用户程序hex文件
+-   |      |      |      |--CH559WINUser 
+-   |      |      |      |     |-- WCHMCUIAP_WINAPP.exe:CH559 配合例程IAP的上位机工具，支持串口和USB下载
+-   |      |      |--USB
+-   |      |      |      |-- DEVICE
+-   |      |      |      |      |-- Compound Dev.C:模拟键鼠例程，支持部分类命令
+-   |      |      |      |      |-- Compound Dev.hex:模拟键鼠hex文件  
+-   |      |      |      |      |-- USBDEV.C:模拟厂商自定义设备，需要安装CH372驱动，可以通过372test.exe调试(批量数据收发)
+-   |      |      |      |      |-- USBDEV.hex:模拟厂商自定义设备hex文件 
+-   |      |      |      |-- HOST
+-   |      |      |      |      |-- USBHOST.C:主机模式ROOT-HUB下初始化和枚举DP/DM端口连接的USB设备,可以操作U盘或者操作USB鼠标,不包含HID类命令处理
+-   |      |      |      |      |-- USBHOST.hex:  
+-   |      |      |      |      |-- USBH_HUB_KM.C: USB主机应用例子,初始化和枚举USB端口连接的设备,同时支持最多2个USB设备,支持一级外部HUB,可以操作USB键鼠和HUB,包含HID类命令处理
+-   |      |      |      |      |-- USBH_HUB_KM.hex: 
+-   |      |      |      |      |-- USBH_KM.C: USB主机应用例子,仅支持操作ROOTHUB上挂接的键鼠等HID设备。
+-   |      |      |      |      |-- USBH_KM.hex: 
+-   |      |      |      |      |-- USBH_AOA.C: USB主机应用例子,支持ROOTHUB上连接安卓设备与APP进行通讯。
+-   |      |      |      |      |-- USBH_AOA.hex: 
+-   |      |      |      |      |-- TOOL
+-   |      |      |      |      |    |-- UARTDemo.apk:AOA调试配套APK测试文件
+-   |      |      |      |-- U_DISK
+-   |      |      |      |      |      |-- EXAM1.C:C示例源程序,以字节为单位读写文件，包括文件创建、删除、修改文件属性,修改文件名
+-   |      |      |      |      |      |-- EXAM1.hex:字节方式文件读写hex文件
+-   |      |      |      |      |      |-- EXAM6.C:C示例源程序,以扇区为单位读写文件，包括文件创建、删除、修改文件属性
+-   |      |      |      |      |      |-- EXAM6.hex:字节方式文件读写hex文件
+-   |      |      |      |      |      |-- EXAM9.C:C示例源程序,新建文件夹，文件下创建文件和子目录
+-   |      |      |      |      |      |-- EXAM9.hex:创建目录hex文件
+-   |      |      |      |      |      |-- EXAM11.C:C示例源程序,枚举根目录或者指定目下的文件
+-   |      |      |      |      |      |-- EXAM11.hex:
+-   |      |      |-- USB_LIB
+-   |      |      |      |      |-- CH559UFI.C:CH559 U盘文件系统库常用接口函数
+-   |      |      |      |      |-- CH559UFI.H:CH559 U盘文件系统库变量和函数声明头文件
+-   |      |      |      |      |-- CH559UFI.LIB:CH559 U盘文件系统库文件(编译器内存模式设置成:small)
+-   |      |      |      |      |-- CH559UFX.LIB:U盘文件系统库文件(编译器内存模式设置成:large)
+-   |      |      |      |      |-- CH559UF_README.TXT:CH559 U盘文件系统变更文档
+-   |      |-- PUB: 评估板说明
+-   |      |      |-- CH559EVT.PDF: 评估板说明
+-   |      |      |-- CH559SCH.PDF: 评估板原理图
+-   |      |      |-- CH55X指令周期.PDF: CH55X汇编指令周期表
+-   |      |      |-- CH55X脱机烧录器V130 
+-   |      |      |      |      |-- 脱机烧录器使用说明.PDF
+-   |      |      |      |      |-- 脱机烧录器结构图.PDF 
+-   |      |      |      |      |-- OffLineWCH_ISP配置工具 
+-   |      |      |      |      |      |--脱机烧录器配置工具.exe
+-   |      |      |      |      |      |--SV00xISPDLL.dll 
 
 
 2015-08-21改动说明：

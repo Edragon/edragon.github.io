@@ -5,8 +5,14 @@
 
 - https://www.wch.cn/downloads/CH559EVT_ZIP.html
 
+CH559 
+* E8051, 6K +256B SRAM, 60K Code, 1K Data Flash
+* UART0, UART1, SPI0 M/S, SPI1 M
+
 
 ## Info 
+
+![](16-48-14-25-07-2023.png)
 
 ![](09-54-12-13-03-2023.png)
 
@@ -37,4 +43,6 @@ P32 P33 P34 P44 = LED 0 LED1 LEDC LED3
 
 ## ref 
 
-- [[WCH-PROG]] - [[WCH-dat]]
+- [[WCH-PROG]] - [[WCH-dat]] - [[ch559-prog]] - [[ch559-readme]]
+
+- [[CH551-dat]] - [[CH552-dat]] - [[CH554-dat]] - [[CH559-dat]]

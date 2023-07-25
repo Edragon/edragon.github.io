@@ -10,4 +10,4 @@ CH554
 
 ## ref 
 
-- [[CH55X-DAT]]
+- [[CH55X-DAT]] - [[CH554-DAT]]
