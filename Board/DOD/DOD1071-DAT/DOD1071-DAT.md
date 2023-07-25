@@ -23,14 +23,19 @@ updates:
 
 
 
-- firmware file: 
-- D:\GIT-CATEGORY\GIT-WCH\WCH_CH55X-APP\CH559\CH559-GPIO-LOOP-BLINK\CH559.HEX
-
 
 - LED = P14 P15 P16 P17
 
+default firmware, demo code at our git
+WCH_CH55X-APP\CH559\CH559-GPIO-LOOP-BLINK\CH559.HEX
 
+
+## board sch 
+
+![](28-39-14-25-07-2023.png)
 
 ## ref 
 
-- [[CH55x-DAT]]
+- [[CH55x-DAT]] - [[CH559-dat]]
+
+- [[DOD1071]] 

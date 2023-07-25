@@ -17,3 +17,12 @@
 ## CH552
 
 ![](08-35-18-30-01-2023.png)
+
+## USB module detect 
+* Find "external Interface" -> USB Module in device manager, not COM port serial interface
+
+![](51-42-14-25-07-2023.png)
+
+## add to keil from WCHISPTool 
+
+![](33-43-14-25-07-2023.png)

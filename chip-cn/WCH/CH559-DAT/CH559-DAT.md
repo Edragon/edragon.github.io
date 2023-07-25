@@ -29,6 +29,12 @@ P32 P33 P34 P44 = LED 0 LED1 LEDC LED3
 - P42 = LED5/PWM3_
 - P43 = LED6/PWM1_
 
+## board sch 
+
+![](49-38-14-25-07-2023.png)
+
+
 
 ## ref 
-- [[WCH-PROG]]
+
+- [[WCH-PROG]] - [[WCH-dat]]
