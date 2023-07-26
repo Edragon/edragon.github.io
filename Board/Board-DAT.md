@@ -37,7 +37,7 @@
 
 ### NBL 
 - [[NBL1089-DAT]]
-  
+
 ### NID
 - [[NID1003-DAT]] - [[NID1005-DAT]] - [[NID1020-DAT]] - [[NID1024-DAT]] - [[NID1026-DAT]]
 
@@ -46,7 +46,10 @@
 - A7670 [[NGS1131-DAT]] - [[NGS1128-DAT]] - [[NGS1129-DAT]] - [[NWI1199-DAT]]
 
 ### NWL
-- [[NWL1042-DAT]]
+- [[NWL1042-DAT]] 
+
+lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw/
+- [[NWL1071-dat]] - [[NWL1072-dat]] - [[NWL1074-dat]]
 
 ### NWI
 - [[NWI1050-DAT]] - [[NWI1070-DAT]] 
