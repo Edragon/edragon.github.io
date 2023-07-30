@@ -2,6 +2,9 @@
 
 ## Boards 
 
+### CKI
+- [[CKI1047-dat]]
+  
 ### DAS
 - [[DAS1033-DAT]] - [[DAS1043-DAT]] - [[DAS1087-DAT]]
 
@@ -9,7 +12,7 @@
 - [[DAR1053-DAT]] - [[DAR1056-DAT]] - [[DAR1064-DAT]] - [[DAR1019-dat]]
 
 ### DOD
-- [[DOD1071-DAT]] - [[DOD1074-DAT]]
+- [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]]
 
 SAMD21
 - [[DOD1104-dat]] - [[DOD1107-dat]]

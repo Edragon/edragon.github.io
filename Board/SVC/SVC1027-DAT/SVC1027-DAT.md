@@ -5,5 +5,17 @@
 
 
 
-- [[INA219-DAT]]
+while no inputs 
+
+    Bus Voltage:   1.01 V
+    Shunt Voltage: -0.05 mV
+    Load Voltage:  1.01 V
+    Current:       -0.50 mA
+    Power:         0.00 mW
+
+
+
+- [[INA219-DAT]] - [[I2C-dat]]
+
+
 
