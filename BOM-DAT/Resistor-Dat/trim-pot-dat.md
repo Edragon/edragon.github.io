@@ -16,6 +16,6 @@ https://www.electrodragon.com/product/3362-type-potentiometer-kit-100r-1m-13kind
 
 5PCs Rotary Encoder - SCU1007
 https://www.electrodragon.com/product/5pcs-rotary-encoder/
-
+- [[encoder-dat]]
 
 - [[trim-pot]]
