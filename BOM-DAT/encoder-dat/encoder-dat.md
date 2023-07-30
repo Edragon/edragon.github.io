@@ -9,4 +9,4 @@
 
 https://www.electrodragon.com/product/5pcs-rotary-encoder/
 
-- [[SCU1007-dat]]
+- [[SCU1007-dat]] - [[trim-pot-dat]]
