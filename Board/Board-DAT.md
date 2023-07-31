@@ -26,6 +26,9 @@ SAMD21
 ### ILC 
 - [[ILC1075-dat]] - [[ilc1078-dat]]
 
+RPI LCD
+- [[ILC1041-dat]] - [[ILC1042-dat]] - [[ILC1043-dat]]
+
 ### ILE
 - RMP Matrix Panel  [[ILE1059-DAT]] - [[ILE1060-DAT]]
 
