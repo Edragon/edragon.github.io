@@ -1,7 +1,7 @@
 
 # I2C Dat 
 
-// I2C device found at address 0x40  !  // INA219 
+// I2C device found at address 0x40  !  // INA219, INA226
 
 //I2C device found at address 0x3C  ! //
 
