@@ -2,6 +2,8 @@
 
 # NGS1129 DAT
 
+based on chip [[SIM7080G-dat]]
+
 ## Hardware 
 
 - Simplified Connection: TXD / RXD / GND / VIN

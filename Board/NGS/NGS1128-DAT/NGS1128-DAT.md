@@ -21,7 +21,8 @@ Lead out all the function pins
 - Driver: [[git]] simcom_driver
 - chip documentation: [[git]] SIMCOM_SIM70X0
 - [[mqtt-dat]]
-- [[NGS1128]]
+- [[NGS1128]] - [[SIM7080-dat]]
 - [[SIMCOM-AT]]
 - [[SIMCOM-AT-GNSS]]
 - https://w.electrodragon.com/w/SIM7080
+- 
