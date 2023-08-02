@@ -5,9 +5,15 @@
 - legacy wiki - https://w.electrodragon.com/w/Category:SIM7020
 
 
-- SIM7020 info : https://github.com/Edragon/SIMCOM_SIM7020
+- SIM7020 git info : https://github.com/Edragon/SIMCOM_SIM7020
+
 - [[SIMCOM-AT]]
 
+## Chip Info 
+
+Supported band
+- SIM7020E: B1 B3 B5 B8 B20 B28
+- SIM7020G: all bands, please see our wiki page NBIOT.
 
 ## REF
 

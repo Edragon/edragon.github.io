@@ -1,0 +1,8 @@
+
+# NGS1071 dat 
+
+
+
+PWR_key VBAT ADC GND TX RX
+
+![](31-49-17-02-08-2023.png)
