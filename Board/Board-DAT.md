@@ -55,7 +55,7 @@ RPI LCD
 ### NGS
 
 - ED20 - [[NGS1063-DAT]]
-- SIM7020 - base board [[NGS1072-DAT]] - [[NGS1094-dat]] - [[NGS1095-dat]] - [[NGS1096-DAT]]
+- [[SIM7020-dat]] - base board [[NGS1072-DAT]] - ~~[[NGS1094-dat]] (SIM7020E)~~ - [[NGS1095-dat]] - [[NGS1096-DAT]]
 - GPS L70 - [[NGS1097-dat]] - [[NGS1100-dat]]
 - SIM7070G - [[NGS1111-DAT]] - [[NGS1112-DAT]] 
 - SIM7080G - [[NGS1128-DAT]] - [[NGS1129-DAT]]

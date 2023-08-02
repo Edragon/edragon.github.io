@@ -7,6 +7,10 @@
 BOOT 3V3 GND PIN RXD TXD
 
 
+Pin Definitions of SIM7020-V: 
+* TXD RXD PIN GND 3V3 BOOT
+
+
 ### Power supply 
 - 3V3 500mA
 - Logic level is the sme 3V3
