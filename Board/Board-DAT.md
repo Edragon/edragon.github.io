@@ -30,7 +30,9 @@ RPI LCD
 - [[ILC1041-dat]] - [[ILC1042-dat]] - [[ILC1043-dat]]
 
 ### ILE
-- RMP Matrix Panel  [[ILE1059-DAT]] - [[ILE1060-DAT]]
+- RMP Matrix Panel  P6 - [[ILE1059-DAT]] - P3 - [[ILE1060-DAT]] 
+
+- [[ILE1062-dat]]
 
 ### ITF
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
