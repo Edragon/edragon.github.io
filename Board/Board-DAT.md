@@ -71,7 +71,7 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 
 
 ### OPM 
-- [[OPM1143-DAT]]
+- [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
 
 ### OPS 
 - [[OPS1009-DAT]]
