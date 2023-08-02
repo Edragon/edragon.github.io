@@ -1,8 +1,8 @@
 
 # NGS1071 dat 
 
+SIM800C R2 
+
+![](44-44-17-02-08-2023.png)
 
 
-PWR_key VBAT ADC GND TX RX
-
-![](31-49-17-02-08-2023.png)
