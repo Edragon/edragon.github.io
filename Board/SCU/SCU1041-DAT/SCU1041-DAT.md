@@ -20,8 +20,6 @@
 ## Ref 
 
 - https://www.electrodragon.com/w/Category:TRIAC
-- [[TRIAC]]
 
 
-- demo video - https://t.me/electrodragon3/185
-
+- demo video please see at [[TRIAC-dat]]
