@@ -12,3 +12,5 @@ https://www.electrodragon.com/w/Category:TRIAC
 
 - arduino control with large triac - https://t.me/electrodragon3/198
 - arduino control [[SCU1041-dat]] - https://t.me/electrodragon3/185
+
+

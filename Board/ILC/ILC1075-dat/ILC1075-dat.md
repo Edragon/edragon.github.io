@@ -24,3 +24,6 @@ connection: soldering
 
 - [[ILC1075-dat]] - [[ilc1078-dat]] - [[fpc-dat]]
 
+- FPC-8P
+
+- [[ILC1075]]

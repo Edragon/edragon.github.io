@@ -79,7 +79,11 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 - [[NWI1072-DAT]] - [[NWI1115-DAT]]
 - [[NWI1118-DAT]] - [[NWI1119-DAT]]
 - [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]]
-- [[NWI1155-DAT]] - [[NWI1139-DAT]] 
+  
+ESP32 Modules 
+- [[NWI1155-DAT]]
+
+- [[NWI1139-DAT]] 
 - [[NWI1199-DAT]] - [[NWI1200-DAT]] - [[NWI1235-DAT]]
 - [[NWI1245-DAT]] 
 
