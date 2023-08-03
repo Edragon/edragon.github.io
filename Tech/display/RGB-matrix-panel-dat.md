@@ -4,6 +4,8 @@
 
 ## Panel Specifications 
 
+![](39-44-14-03-08-2023.png)
+
 | type | dots  | size CM   |
 | ---- | ----- | --------- |
 | P3   | 64x64 | 19x19     |
