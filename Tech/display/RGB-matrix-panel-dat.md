@@ -39,14 +39,14 @@
 - Raspberry Pi adapter board is available here. https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 
 
-## Accessories 
+## Accessories Included
 
-- power cable 
-- data cable [[HUB75]]
+- power cable --> 2-to-2,  4pin 3.96mm to "Y" connector power cable.
+- data cable [[HUB75]] --> Include 16P ribbon cable for HUB75 connector to drive board.
 
 for outdoor ONLY P6 and P8 
-- magnetic snap screw 
-- waterproof ring
+- 4pcs magnetic snap screw, can be snapped on you metal frame. Screw specs is M3, Dia. 13mm, L 12mm.
+- waterproof rubber seal ring
 
 
 ## Links 
