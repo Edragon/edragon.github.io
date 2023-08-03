@@ -2,6 +2,8 @@
 
 # RGB matrix panel dat 
 
+## Panel Specifications 
+
 | type | dots  | size CM   |
 | ---- | ----- | --------- |
 | P3   | 64x64 | 19x19     |
@@ -21,6 +23,25 @@
 * Life time 1000,000,000 hours.
 * Drive constant current, dynamic
 * Flash rate 2000Hz
+
+
+## Full Rack Design 
+
+- To install as a full screen:
+- For DIY entry level, install the magnetic screws on the panel, and snap to a standard size aluminium profile rack, panel back side support 10~20 screws, strong magnetic screws can hold it, and you can decide how many screws to use.
+- https://www.google.co.jp/search?q=aluminium+profile+rack&safe=off&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtzP7Lnr3WAhVGvLwKHXWbASkQ_AUICigB&biw=1920&bih=950
+
+
+## Code Documentation
+- Demo code supported for Raspberry Pi, code revised from here https://github.com/hzeller/rpi-rgb-led-matrix, compatible and mostly same except transfomer part, original code can not well support our this type.
+- https://www.electrodragon.com/w/RPI_Matrix
+- Demo video available here. - https://www.youtube.com/watch?v=wN-cqQ_2kNs
+- Raspberry Pi adapter board is available here. https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
+
+
+
+
+## Links 
 
 - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]]
 
