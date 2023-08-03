@@ -12,4 +12,4 @@
 
 - [[ILE1060]]
 
-accessories please refer to https://w2.electrodragon.com/Board/ILE/ILE1059-DAT/ILE1059-DAT.md
+- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[RGB-matrix-panel-dat]]

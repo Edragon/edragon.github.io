@@ -39,10 +39,18 @@
 - Raspberry Pi adapter board is available here. https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 
 
+## Accessories 
+
+- power cable 
+- data cable [[HUB75]]
+
+for outdoor ONLY P6 and P8 
+- magnetic snap screw 
+- waterproof ring
 
 
 ## Links 
 
-- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]]
+- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[RGB-matrix-panel-dat]]
 
 - [[led-rgb-panel]]
