@@ -4,14 +4,14 @@
 
 IF09
 
-1. LEDA
-2. GND
-3. RESET
-4. RS
-5. SDA
-6. SCL
-7. VDD
-8. CS
+1. LEDA - 3V3
+2. GND - GND
+3. RESET - ESP32_IO23 - RST
+4. RS - ESP32_IO4 - DC
+5. SDA - ESP32_IO19 - MISO
+6. SCL - ESP32_IO18 - SCLK
+7. VDD - 3V3
+8. CS - ESP32_5 - CS
 
 driver ST7735S
 interface SPI 4-lin
@@ -27,3 +27,31 @@ connection: soldering
 - FPC-8P
 
 - [[ILC1075]]
+
+- [[ILC1075-dat]] - TFT_eSPI arduino library - #include <custom/ST7735-096.h>
+
+- [[arduino-display-dat]]
+- test sketch - TFT_Print_Test
+
+    #define ST7735_DRIVER      // Define additional parameters below for this display
+
+    #define TFT_WIDTH  80
+    #define TFT_HEIGHT 160
+
+    // #define ST7735_INITB           // not working
+    // #define ST7735_GREENTAB        // not working
+    // #define ST7735_GREENTAB2       // not working
+    // #define ST7735_GREENTAB3       // not working 
+    // #define ST7735_GREENTAB128     // not working  
+    #define ST7735_GREENTAB160x80  // OK2  
+    // #define ST7735_REDTAB          // not working
+    // #define ST7735_BLACKTAB        // not working
+    // #define ST7735_REDTAB160x80    // OK1  
+
+    // #define CGRAM_OFFSET      // Library will add offsets required
+
+    #define TFT_MOSI 19
+    #define TFT_SCLK 18
+    #define TFT_CS    5  // Chip select control pin
+    #define TFT_DC    4  // Data Command control pin
+    #define TFT_RST  23  // Reset pin (could connect to RST pin)
