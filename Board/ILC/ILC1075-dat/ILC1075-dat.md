@@ -28,10 +28,15 @@ connection: soldering
 
 - [[ILC1075]]
 
+## Code 
+
 - [[ILC1075-dat]] - TFT_eSPI arduino library - #include <custom/ST7735-096.h>
+
 
 - [[arduino-display-dat]]
 - test sketch - TFT_Print_Test
+
+Config
 
     #define ST7735_DRIVER      // Define additional parameters below for this display
 
@@ -55,3 +60,9 @@ connection: soldering
     #define TFT_CS    5  // Chip select control pin
     #define TFT_DC    4  // Data Command control pin
     #define TFT_RST  23  // Reset pin (could connect to RST pin)
+
+
+
+## Demo 
+
+![](51-38-17-04-08-2023.png)
