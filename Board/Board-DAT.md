@@ -80,10 +80,13 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 - [[NWI1118-DAT]] - [[NWI1119-DAT]]
 - [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]]
 
-- ESP32 dev board [[NWI1100-dat]] - [[NWI1206-dat]]
+ESP32 dev board 
+- [[NWI1100-dat]] - [[NWI1206-dat]]
 
-ESP32 Modules 
-- [[NWI1155-DAT]] - [[NWI1194-dat]]
+[[ESP32-WROOM-dat]]
+- [[NWI1155-DAT]] - [[NWI1194-dat]] - [[NWI1195-dat]]
+- [[NWI1157-DAT]] - [[NWI1196-dat]] - [[NWI1197-dat]]
+
 
 - [[NWI1139-DAT]] 
 - [[NWI1199-DAT]] - [[NWI1200-DAT]] - [[NWI1235-DAT]]
@@ -92,6 +95,9 @@ ESP32 Modules
 
 ### OPM 
 - [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
+
+[[Wireless-Charge-dat]]
+- [[OPM1167-dat]] - [[opm1168-dat]]
 
 ### OPS 
 - [[OPS1009-DAT]]
