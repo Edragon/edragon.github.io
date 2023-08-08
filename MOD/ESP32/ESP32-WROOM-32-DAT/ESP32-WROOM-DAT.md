@@ -4,7 +4,7 @@
 
 | version             | Flash        | Suffix | SKU             | Antenna  | Note |
 | ------------------- | ------------ | ------ | --------------- | -------- | ---- |
-| ESP32-WROOM-32      | 4MB = 32Mb   | --     | --              | PCB      | end  |
+| ESP32-WROOM-32      | 4MB = 32Mb   | --     | [[NWI1110-dat]] | PCB      | end  |
 | ESP32-WROOM-32D-N4  | 4MB = 32Mb   | N4     | [[NWI1155-dat]] | PCB      |      |
 | ESP32-WROOM-32D-N8  | 8MB = 64Mb   | N8     | [[NWI1194-dat]] | PCB      |      |
 | ESP32-WROOM-32D-N16 | 16MB = 128Mb | N16    | [[NWI1195-dat]] | PCB      |      |
