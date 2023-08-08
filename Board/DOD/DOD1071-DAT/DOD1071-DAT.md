@@ -3,20 +3,13 @@
 # DOD1071 DAT
 
 
+## versions 
 
-## version V3 
-
-updates:
+V2 updates:
 - added ADC port with voltage ladder P11
 - changed LED pins to P43 P42
 - changed lead out pins 
 - new type micro-USB part
-
-
-
-## versions 
-
-V2
 ![](31-28-18-17-03-2023.png)
 V1
 ![](50-16-15-31-01-2023.png)
