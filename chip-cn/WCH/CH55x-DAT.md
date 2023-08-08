@@ -30,13 +30,10 @@ https://w.electrodragon.com/w/Category:CH55X
 - CH554 USB-CDC Relay Board - https://www.electrodragon.com/product/usb-cdc-touch-control-relay-board/
 
 
-
-
 ### WCH MCU CH55x 
 
 - Python programming tool for WCH - https://github.com/juliuswwj/wchprog
 - https://github.com/Edragon/ch55xduino
-- https://github.com/Edragon/WCH_CH55X
 
 other IDE
 - https://github.com/Blinkinlabs/ch554_sdcc
