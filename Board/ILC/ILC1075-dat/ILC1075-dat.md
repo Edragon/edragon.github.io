@@ -13,6 +13,8 @@ IF09
 7. VDD - 3V3
 8. CS - ESP32_5 - CS
 
+- [[ESP32-SPI]]
+  
 driver ST7735S
 interface SPI 4-lin
 resolution 80 x 160
