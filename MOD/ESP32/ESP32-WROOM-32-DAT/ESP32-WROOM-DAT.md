@@ -2,12 +2,21 @@
 
 # ESP32-WROOM-DAT
 
-| version            | Flash      | Suffix | SKU             |
-| ------------------ | ---------- | ------ | --------------- |
-| ESP32-WROOM-32D-N4 | 4MB = 32Mb | N4     | [[NWI1155-dat]] |
-| ESP32-WROOM-32D-N8 | 8MB = 64Mb | N8     | [[NWI1194-dat]] |
+| version             | Flash        | Suffix | SKU             | Note             |
+| ------------------- | ------------ | ------ | --------------- | ---------------- |
+| ESP32-WROOM-32D-N4  | 4MB = 32Mb   | N4     | [[NWI1155-dat]] | PCB Antenna      |
+| ESP32-WROOM-32D-N8  | 8MB = 64Mb   | N8     | [[NWI1194-dat]] | PCB Antenna      |
+| ESP32-WROOM-32D-N16 | 16MB = 128Mb | N16    | [[NWI1195-dat]] | PCB Antenna      |
+| ESP32-WROOM-32U-N4  | 4MB = 32Mb   | N4     | [[NWI1157-dat]] | [[Ipex]] antenna |
+| ESP32-WROOM-32U-N8  | 8MB = 64Mb   | N8     | [[NWI1196-dat]] | [[Ipex]] antenna |
+| ESP32-WROOM-32U-N16 | 16MB = 128Mb | N16    | [[NWI1197-dat]] | [[Ipex]] antenna |
+
+- ESP-WROOM-32D/U are compatible with former ESP-WROOM-32, pin-to-pin compatible.
 
 
+## Legacy Wiki Pages 
+
+- https://w.electrodragon.com/w/Category:ESP32
 
 
 - [[ESP32-DAT]]
@@ -31,5 +40,7 @@ https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp3
 
 
 
+## ref 
 
-- [[NWI1155-dat]]
+forum - http://esp32.net/
+
