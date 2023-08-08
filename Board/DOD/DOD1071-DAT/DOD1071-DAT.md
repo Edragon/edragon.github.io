@@ -12,10 +12,13 @@ updates:
 - changed lead out pins 
 - new type micro-USB part
 
+
+
+## versions 
+
+V2
 ![](31-28-18-17-03-2023.png)
-
-## version V2
-
+V1
 ![](50-16-15-31-01-2023.png)
 
 - microUSB = USBA_Female (bottom) = DM/DP
