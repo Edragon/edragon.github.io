@@ -21,9 +21,8 @@ To run a loop test, connect A->Y, B->Z. Connect USB-TTL bridge for example PL230
 ## Ref 
 
 Legacy Wiki 
-https://w.electrodragon.com/w/Category:Interface
-
-https://w.electrodragon.com/w/RS-422
+- https://w.electrodragon.com/w/Category:Interface
+- https://w.electrodragon.com/w/RS-422
 
 
 - [[RS422-dat]] - [[DPR1097]]
