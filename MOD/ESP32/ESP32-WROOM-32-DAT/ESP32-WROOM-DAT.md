@@ -14,6 +14,9 @@
 
 - ESP-WROOM-32D/U are compatible with former ESP-WROOM-32, pin-to-pin compatible.
 
+## SCH
+
+![](14-36-18-09-08-2023.png)
 
 ## Legacy Wiki Pages 
 

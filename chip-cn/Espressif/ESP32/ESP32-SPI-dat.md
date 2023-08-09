@@ -1,32 +1,28 @@
 
 # ESP32 SPI 
 
-- 3V3	- 3.3V
-- CS	- GPIO 5
-- MOSI	- GPIO 23
-- CLK	- GPIO 18
-- MISO	- GPIO 19
-- GND	- GND
+| Pin  | VSPI  | HSPI    |
+| ---- | ----- | ------- |
+| 3V3  | 3.3V  |         |
+| CS   | io 5  | 15 / 27 |
+| CLK  | io 18 | 14      |
+| MISO | io 19 | 12      |
+| MOSI | io 23 | 13      |
+| GND  | GND   |         |
 
+SPI arduino define
 
+    #define VSPI_MISO   MISO
+    #define VSPI_MOSI   MOSI
+    #define VSPI_SCLK   SCK
+    #define VSPI_SS     SS  
 
+    #define HSPI_MISO   12
+    #define HSPI_MOSI   13
+    #define HSPI_SCLK   14
+    #define HSPI_SS     15
 
-## ESP32 Software SPI Interface
-
-- SPI_CS = IO15 or IO27
-- SPI_MOSI = IO13
-- SPI_CLK = IO14
-- SPI_MISO = IO12
-
-
-- sketch refer to here: 
-
-
-
-SPI	MOSI	MISO	SCLK	CS
-VSPI	GPIO 23	GPIO 19	GPIO 18	GPIO 5
-HSPI	GPIO 13	GPIO 12	GPIO 14	GPIO 15
-
+## sketch refer to here: 
 
 
 hspi.begin(HSPI_CLK, HSPI_MISO, HSPI_MOSI, HSPI_SS);

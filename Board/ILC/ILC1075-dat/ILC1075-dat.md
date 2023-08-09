@@ -13,7 +13,7 @@ IF09
 7. VDD - 3V3
 8. CS - ESP32_5 - CS
 
-- [[ESP32-SPI]]
+- [[ESP32-SPI-dat]]
   
 driver ST7735S
 interface SPI 4-lin
