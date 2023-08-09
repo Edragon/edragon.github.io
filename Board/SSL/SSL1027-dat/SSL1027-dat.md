@@ -35,3 +35,6 @@ https://w.electrodragon.com/w/LM567
 ## Old Logs 
 
 https://twitter.com/electro_phoenix/status/1001750412347650048
+
+
+- [[SSL1027]] - [[LM567-dat]]
