@@ -3,6 +3,8 @@
 
 https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 
+- [[MPC1073-design-error]] - [[MPC1073-OS-error]]
+
 ## Board Functions 
 
 - [[RTC-dat]]
