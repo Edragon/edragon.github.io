@@ -2,27 +2,37 @@
 # shipment by country 
 
 | country        | update | method           | details | category    | System              |                                                                                             |
-| -------------- | ------ | ---------------- | ------- | ----------- | ------------------- | ------------------------------------------------------------------------------------------- |
+|----------------|--------|------------------|---------|-------------|---------------------|---------------------------------------------------------------------------------------------|
+|                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
+|                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
 | Austria        |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Brazil         |        | BREX / BREXPRESS |         | expendiated | Shipment Zone       |                                                                                             |
+| Brazil         | 08-11  | HKDHL-BA         |         |             | -                   | -                                                                                           |
+| Brazil         | 08-11  | HKFEDEXIP-C      |         |             | -                   | -                                                                                           |
 | Bulgaria       | 06-07  | EURPOST          |         | expendiated |                     | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Costa Rica     | 06-09  | NLRPOST          |         |             |                     |                                                                                             |
 | Cyprus         |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Czech Republic |        | EUEX-V           |         | expendiated | Advanced: EUEX-V    |                                                                                             |
 | Denmark        |        | EUEX-V           |         |             | Advanced: EUEX-V    |                                                                                             |
 | Denmark        |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
-| Denmark        |        | HKDHL-BA         |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
+| Denmark        |        | HKDHL-BA         |         |             | -                   | -                                                                                           |
 | Finland        |        | SZFEDEX-IP       | -       | -           |                     |                                                                                             |
 | Greece         |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Iceland        | 06-15  | SZFEDEX-IP       |         | express     |                     |                                                                                             |
 | Iceland        | 06-15  | NLRPOST          |         | post        |                     |                                                                                             |
 | India          |        | HKDHL            |         | express     |                     |                                                                                             |
-| Kazakhstan     | 06-02  | DGEUB            |         |             |                     | EURPOST: Intl. + Local Post (Ref. ETA. 15-40 Days)                                          |
+| Kazakhstan     | 06-02  | DGEUB            |         |             |                     | -                                                                                           |
+| Korea          | 06-30  | HKFEDEXIP-C      |         |             |                     |                                                                                             |
 | Latvia         | 06-02  | EURPOST          |         |             |                     |                                                                                             |
 | Malaysia       | 06-15  | MYEXPRESS-BA     |         | expendiated |                     |                                                                                             |
 | Malta          |        | EURPOST          | -       | -           | Advanced: EURPOST-6 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Netherlands    |        | EUEX-V           | -       | -           | Advanced: EUEX-V    |                                                                                             |
+| Norway         | 06-20  | EURPOST          |         |             | Advanced: EURPOST-4 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Poland         | 06-09  | EUEX-V           |         |             |                     |                                                                                             |
 | Solvenia       |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | South Africa   | 06-05  | ZAEXPRESS        |         | expendiated |                     | ZAEXPRESS: Buffaloex Express Shipment (Ref. ETA 11-20 Days, personal ID 13-digits needed!!) |
@@ -32,14 +42,6 @@
 | United Kingdom | 06-07  | GBEXPRESS        |         |             |                     |                                                                                             |
 | United Kingdom | 06-07  | YODEL-UK         |         |             |                     |                                                                                             |
 | Vietam         |        | VNEXPRESS        | -       | -           |                     | VNEXPRESS: Intl. + Local Express (Ref. ETA. 10-18 Days)                                     |
-| Norway         | 06-20  | EURPOST          |         |             | Advanced: EURPOST-4 |                                                                                             |
-| Korea          | 06-30  | HKFEDEXIP-C      |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
 
 
 ### Deactived Shipping Methods 
