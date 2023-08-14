@@ -1,6 +1,8 @@
 
 # BTB dat 
 
+- [[ESP32-SPI-dat]]
+
 | ESP32 Pin | Function | Lora       |
 | --------- | -------- | ---------- |
 | IO14      | SPI_SCK  |            |

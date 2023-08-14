@@ -48,3 +48,7 @@ hspi.begin(HSPI_CLK, HSPI_MISO, HSPI_MOSI, HSPI_SS);
 
     void loop() {
     }
+
+
+
+- [[RA-01]]

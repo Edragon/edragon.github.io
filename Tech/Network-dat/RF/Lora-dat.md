@@ -31,3 +31,10 @@ https|//w.electrodragon.com/w/Lora_Tech
 | MOSI        | IO 23   |
 | MISO        | IO 19   |
 | GND         | -       |
+
+
+
+
+## ref 
+
+https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
