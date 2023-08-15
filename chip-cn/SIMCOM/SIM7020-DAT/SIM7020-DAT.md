@@ -66,7 +66,7 @@ Supported band
 
 - [[NGS1094-dat]]: old version SIM7020E, life time over
 
-- [[SIM7020]]
+- [[SIM7020]] - [[BTB-dat]]
 
 
 ## doc

@@ -35,3 +35,5 @@
 - use UART as main interface 
 
 ![](54-48-15-02-08-2023.png)
+
+
