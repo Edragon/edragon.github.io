@@ -7,7 +7,7 @@
 
 - SIM7020 git info : https://github.com/Edragon/SIMCOM_SIM7020
 
-- [[SIMCOM-AT]]
+- [[SIMCOM-AT-dat]]
 
 ## Chip Info 
 
@@ -27,6 +27,8 @@ Supported band
 
 ## Power Supply Mode 
 
+* 500mA @ 3.3V 
+  
 Test based on our current SIM7020E module 
 
 | Module               | Current       | -   |
@@ -48,9 +50,16 @@ Quit PSM mode
 
 ## REF
 
+module version: - SIM7020E tested working countries: Finland, Sweden
+
+
 board ref 
 - [[NGS1095-dat]] - [[NGS1096-dat]]
+
+- [[SIMCOM-AT-dat]]
 
 - [[NGS1094-dat]]: old version SIM7020E, life time over
 
 - [[SIM7020]]
+
+
