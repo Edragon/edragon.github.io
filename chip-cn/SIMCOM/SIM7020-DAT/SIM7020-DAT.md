@@ -63,3 +63,7 @@ board ref
 - [[SIM7020]]
 
 
+## doc
+
+- https://w2.electrodragon.com/chip-cn/SIMCOM/SIM7020-DAT/SIM7020_Series_AT_Command_Manual_V1.00.pdf
+- https://w2.electrodragon.com/chip-cn/SIMCOM/SIM7020-DAT/SIM7020G_Hardware_Design_V1.00.pdf
