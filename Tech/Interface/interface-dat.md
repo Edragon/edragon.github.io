@@ -1,5 +1,5 @@
 
 # interface dat 
 
-- [[RS485-dat]] - [[RS232-dat]] - [[USB-TTL-dat]]
+- [[RS485-DAT]] - [[RS232-dat]] - [[USB-TTL-dat]]
 

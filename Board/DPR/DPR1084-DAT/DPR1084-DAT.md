@@ -7,6 +7,9 @@
 
 - Solder method can refer to this one - [[NGS1112-DAT]]
 
+- TTL input from left side 
+- RS232 output on the right side 
+- left power supply = right
 
 
 ## Usage:
