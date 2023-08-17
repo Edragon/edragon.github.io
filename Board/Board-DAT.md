@@ -84,8 +84,19 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 - [[NWI1100-dat]] - [[NWI1206-dat]]
 
 [[ESP32-WROOM-dat]]
-- [[NWI1155-DAT]] - [[NWI1194-dat]] - [[NWI1195-dat]]
-- [[NWI1157-DAT]] - [[NWI1196-dat]] - [[NWI1197-dat]]
+[[NWI1155-DAT]] - [[NWI1194-dat]] - [[NWI1195-dat]]
+[[NWI1157-DAT]] - [[NWI1196-dat]] - [[NWI1197-dat]]
+
+[[ESP32-WROVER-DAT]]
+IPEX-ANT
+[[NWI1137-dat]] - Default RVI: ESP-WROVER-I, IPEX-ANT, 4MB
+[[NWI1192-dat]] - RVI: ESP-WROVER-I, IPEX-ANT, 8MB - [[stock-out]]
+[[NWI1193-dat]] - RVI: ESP-WROVER-I, IPEX-ANT, 16MB
+
+PCB-ANT
+[[NWI1136-dat]] - Default RVB: ESP-WROVER, PCB-ANT, 4MB
+[[NWI1190-dat]] - RVB: ESP-WROVER, PCB-ANT, 8MB
+[[NWI1191-dat]] - RVB: ESP-WROVER, PCB-ANT, 16MB
 
 
 - [[NWI1139-DAT]] 
