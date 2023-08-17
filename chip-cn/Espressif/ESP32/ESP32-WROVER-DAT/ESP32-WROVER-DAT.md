@@ -6,7 +6,7 @@
 
 IPEX-ANT
 [[NWI1137-dat]] - Default RVI: ESP-WROVER-I, IPEX-ANT, 4MB
-[[NWI1192-dat]] - RVI: ESP-WROVER-I, IPEX-ANT, 8MB - [[stock-out]]
+[[NWI1192-dat]] - RVI: ESP-WROVER-I, IPEX-ANT, 8MB - [[Board-stock-out]]
 [[NWI1193-dat]] - RVI: ESP-WROVER-I, IPEX-ANT, 16MB
 
 PCB-ANT

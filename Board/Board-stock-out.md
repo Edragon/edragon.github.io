@@ -18,17 +18,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## out of stock 
 
 - [[SCM1030-dat]] - https://www.electrodragon.com/product/m5stack-esp32cam-camera-module-esp32-ov2640/
