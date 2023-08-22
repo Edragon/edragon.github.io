@@ -50,6 +50,8 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 ## ref 
 
+- [[ESP32-­C3-­WROOM-­2-DAT]]
+
 - [[NWI1124-DAT]]
 - [[NWI1125-DAT]]
 - [[NWI1126]]
