@@ -23,3 +23,5 @@
 
 
 - demo video please see at [[TRIAC-dat]]
+
+- [[SCU1041]]
