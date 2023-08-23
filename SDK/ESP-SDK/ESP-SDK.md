@@ -9,3 +9,10 @@
 
 ESP firmware 
 - https://github.com/Edragon/esp_firmware
+
+
+
+## ref 
+
+API Reference
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html
