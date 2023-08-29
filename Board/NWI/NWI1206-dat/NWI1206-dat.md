@@ -5,6 +5,12 @@
 
 ![](28-36-18-04-08-2023.png)
 
+- legacy wiki: 
+
+https://w.electrodragon.com/w/ESP32-GOO
+
+![](09-42-16-29-08-2023.png)
+
 
 ## Debug 
 
