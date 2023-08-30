@@ -117,4 +117,4 @@ notice the differences of pin CLK and D
 
 ### Jumper Setup for E-line
 - solder pins on E-18 and add jumper 
-- solder pins on E|SEL and add jumper 
+- solder pins on E(SEL) and add jumper 
