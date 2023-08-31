@@ -40,6 +40,8 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 ![](NWI1245-2112-28-2022.jpg)
 
+
+
 ## Dimension and pin definitions 
 ![](53-04-16-30-01-2023.png)
 - back side selector for UARTs
@@ -47,4 +49,4 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 
 ## power supply
-- [[DCDC1]]
+- [[DCDC1]] - [[NWI1245]]
