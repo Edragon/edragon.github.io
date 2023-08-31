@@ -3,15 +3,25 @@
 # SVC1031 DAT
 
 - legacy wiki page: https://w.electrodragon.com/w/Category:Energy_Meter#Documents
+- https://www.electrodragon.com/product/energy-meter-hlw8032-breakout-board/
 
 
+
+## Pin Definitions 
 
 ![](51-36-17-03-04-2023.png)
 
+- VDD
+- PF
+- RX
+- GND 
+
+
+## Features 
 - On board AC-DC Power Supply Converter
 - Isolated signal output
 
-https://www.electrodragon.com/product/energy-meter-hlw8032-breakout-board/
+
 
 
 
