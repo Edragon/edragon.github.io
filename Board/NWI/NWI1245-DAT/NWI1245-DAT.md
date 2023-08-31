@@ -1,6 +1,12 @@
 
 # NWI1245 DAT
 
+## Main functions:
+- general load switching - [[high-side-driver-dat]]
+
+- RS485 communication
+- CAN communication 
+
 ## Used ESP32-DevKitC Pins
 
 - CAN UART
@@ -16,11 +22,16 @@
   - RXD0 = RXD0 
 
 - IO33 = Power_ADC
-- IO12 = CTRL1
-- IO13 = STATUS1
-- IO19 = CTRL2
-- IO18 = STATUS2
 - IO5 = LED
+
+- general load switching 
+  - IO12 = CTRL1
+  - IO13 = STATUS1
+  - IO19 = CTRL2
+  - IO18 = STATUS2
+
+
+
 
 ## Schematic of peripherals
 
