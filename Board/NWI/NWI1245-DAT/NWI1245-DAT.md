@@ -1,8 +1,11 @@
 
 # NWI1245 DAT
 
+https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
+
 ## Main functions:
 - general load switching - [[high-side-driver-dat]]
+  - current driving capability is ~ 36V 5A
 
 - RS485 communication
 - CAN communication 
