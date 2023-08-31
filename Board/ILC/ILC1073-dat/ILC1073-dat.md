@@ -3,7 +3,7 @@
 
 * Automatically support 1602 or 2004 type [char LCDs](https://w.electrodragon.com/w/Category:Char_LCDs)
 
-* Install [[USB-Driver]] libusb-win32
+* Install USB-driver libusb-win32 - [[usb-dat]]
 
 
 ## Use on Windows : 
@@ -24,6 +24,12 @@ method 2
 ## Schematic 
 
 ![](2023-08-31-17-52-56.png)
+
+
+## Debug 
+
+- tune the brightness if nothing show up
+
 
 ## ref 
 
