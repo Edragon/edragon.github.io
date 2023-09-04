@@ -23,9 +23,12 @@
 
 ## Wiring Diagram 
 
-Wiring for WS2812_5V
+### Wiring for WS2812_5V
 
 ![](2023-09-04-17-03-33.png)
+
+- for 12V or 24V led strips, put JP_L red box's jumper on top position
+- back side jumper no need to change or check by default 
 
 
 ## Core Module Sch
