@@ -11,6 +11,8 @@
 - VCCIO - IOs VCC selectable 3.3V or 5V
 - Each group output pins: GND, xx, xx, 3.3V, +5V
 
+- [[fuse]] - X15 
+- 
 
 ## ref 
 

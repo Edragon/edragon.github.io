@@ -21,6 +21,13 @@
 
 ![](13-39-15-09-06-2023.png)
 
+## Wiring Diagram 
+
+Wiring for WS2812_5V
+
+![](2023-09-04-17-03-33.png)
+
+
 ## Core Module Sch
 
 ![](37-36-16-10-07-2023.png)
