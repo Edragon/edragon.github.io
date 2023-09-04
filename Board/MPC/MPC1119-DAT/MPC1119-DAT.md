@@ -2,6 +2,14 @@
 # MPC1119 DAT
 
 
+## pin definitions 
+
+- pin SC to raspberry pi pin ID_SC
+- pin SD to raspberry pi pin ID_SD
+
+- to use the extra pins, you need to cut the jumpers to release them from the chip below, and chain P3 can not be used anymore. 
+
+- RX | GND (some boards mark could be reversed): UART_RX debug, or ROW_E set to ground 
 
 ## Wiring
 
