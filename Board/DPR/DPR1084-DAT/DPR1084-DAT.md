@@ -12,6 +12,11 @@
 - left power supply = right
 
 
+
+## Schematic 
+
+![](2023-09-04-17-46-18.png)
+
 ## Usage:
 
 - Power one side only is enough
