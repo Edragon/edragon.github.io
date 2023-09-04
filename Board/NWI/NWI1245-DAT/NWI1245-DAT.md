@@ -29,8 +29,9 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 - general load switching 
   - IO12 = CTRL1
+  - IO19 = CTRL2 - chip is not soldered by default 
   - IO13 = STATUS1
-  - IO19 = CTRL2
+
   - IO18 = STATUS2
 
 
@@ -50,3 +51,11 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 ## power supply
 - [[DCDC1]] - [[NWI1245]]
+
+
+
+
+## code 
+
+#define switch1 12
+#define switch2 19
