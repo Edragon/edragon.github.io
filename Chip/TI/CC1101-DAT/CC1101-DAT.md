@@ -16,18 +16,25 @@
 ## Board Versions 
 ![](36-52-17-29-01-2023.png)
 
+LSS - standard chip only version 
 - CC1101-LSS: Low Power, SPI interface, Spring Coil - [[NWL1037-DAT]]
 
+MSR
+- CC1101-MSR: Medium Power, SPI interface, rod antenna - [[NWL1044-DAT]]
 
+
+- same board except antenna LUS LUR 
 - CC1101-LUS: Low Power, UART TLL interface, Spring Coil - [[NWL1042-DAT]]
 - CC1101-LUR: Low Power, UART TTL interface, rod antenna - [[NWL1039-DAT]]
   
-- CC1101-MSR: Medium Power, SPI interface, rod antenna - [[NWL1044-DAT]]
+
 
 
 
 
 ## ref 
+
+- [[CC1101-code]]
 
 -  legacy wiki - https://w.electrodragon.com/w/CC1101
 

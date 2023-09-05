@@ -2,7 +2,7 @@
 
 CC1101-LUS: Low Power, UART TLL interface, Spring Coil
 
-- [[NWILL42-dat]] is complete same except the atenna 
+- [[NWL1042-dat]] is complete same except the atenna 
 - with onboard atmega MCU
 
 ## Pins
