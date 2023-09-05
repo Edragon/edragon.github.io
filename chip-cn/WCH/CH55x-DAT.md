@@ -4,11 +4,7 @@
 * WCH MCU Page - http://www.wch.cn/productcenter/3.html
 
 
-### Board Wiki pages 
 
-- [[DOD1068-DAT]] - [[DOD1071-DAT]]
-
-- [[CH559-DAT]] - [[CH554-DAT]] 
 
 
 ### Legacy Wiki 
@@ -21,6 +17,13 @@ https://w.electrodragon.com/w/Category:CH55X
 * WCH CH55X - https://github.com/Edragon/WCH_CH55X
 * WCH CH55X APP - https://github.com/Edragon/WCH_CH55X-APP
 * WCH APP - https://github.com/Edragon/WCH_APP
+
+
+### Board Wiki pages 
+
+- [[DOD1068-DAT]] - [[DOD1071-DAT]] - [[USB1000-dat]]
+
+- [[CH559-DAT]] - [[CH554-DAT]] 
 
 
 ### DEV Boards Links 

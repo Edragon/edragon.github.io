@@ -2,6 +2,9 @@
 
 # CC1101 DAT
 
+
+Low-Power Sub-1 GHz RF Transceiver 
+
 ## CC1101 Chip Features 
 - Work on 433 MHz free ISM RF band, no need license.
 - Built-in hardware CRC error detection, and address control
