@@ -24,4 +24,7 @@ Do you have a DSO oscilloscope? You will never see this with a power supply mete
 
 - add 100uf capacitors to 5V/GND and 3V3/GND
 - use a seperated 12V/2A battery, USB-RS232 board does not keeping reboot, can still can not be opened COM port to use 
+- mosfet control is already optocoupler isolated as the design, and used seperated power supply 
+
+
 
