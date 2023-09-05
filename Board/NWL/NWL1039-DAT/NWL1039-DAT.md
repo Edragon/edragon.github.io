@@ -2,6 +2,7 @@
 
 CC1101-LUS: Low Power, UART TLL interface, Spring Coil
 
+- [[NWILL42-dat]] is complete same except the atenna 
 - with onboard atmega MCU
 
 ## Pins
@@ -18,6 +19,7 @@ Pin definition from Front View, From left to right
 | 4      | Rx         | Data input  | UART data input          | TTL                               |
 | 5      | Tx         | Data output | UART data output         | TTL                               |
 | 6      | GND        | GND         | GND                      | -                                 |
+
 
 ### Setting
 
