@@ -10,6 +10,12 @@
 ![](36-17-17-31-03-2023.png)
 
 
+
+## SCH 
+
+![](2023-09-05-18-16-05.png)
+
+
 ## AP demo code 
 
 - hold down GPIO0 button and press reset button to enter into flash mode 
@@ -27,7 +33,10 @@
     http://192.168.4.1/b1 # turn on board led to 1  (GPIO16)
 
 
+
+
 ## ref 
 
-- [[NWI1072-DAT]] - [[NWI1119-DAT]]
+- [[esp-relay-board-dat]]
+
 - [[NWI1139]]
