@@ -8,7 +8,8 @@
 
 - [[DPR1084-dat]] - [[rs485-autoboard-1]] - [[OPM1153-dat]]
 
-
+## Use Guide 
+- connect IO0 to GND to enter into programming mode 
 
 
 ## ref 

@@ -39,6 +39,24 @@ Installation:
 - Copy the [hardware] directory to Arduino's sketchbook directory (see below to find out where it normally resides)
 - Restart Arduino, you will see new board from [Tools]->[Board] menu.
 
-##
 
+
+### old bootloader 
+- Better not used for experiment, your often daily programming learning or testing, although no problem, but if unexpected error cause the board bricked, you need special programmer to re-programme the bootloader.
+- Good to migrate to a low cost board instead of original expensive board.
+- Same way to upload sketch as pro mini, notice to choose the board
+  - 8F328P - original IC bootloader, please use this one
+  - 8F328D - compatible, can also upload code, but don't know if any unknow error.
+  - Pro mini - also can upload, but active very wired 
+
+
+## Programmer 
+
+- arduino UNO can pretend as a chip programmer 
+- please contact us if you need to order original programmer
+
+
+## ref 
+
+- [legacy wiki page](https://www.electrodragon.com/w/Logicgreen) 
 - [[LGT8F328]]
