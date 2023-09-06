@@ -38,6 +38,13 @@ Do you have a DSO oscilloscope? You will never see this with a power supply mete
 - mosfet control is already optocoupler isolated as the design, and used seperated power supply 
 - [[DPR1084-dat]] RS232 board only connects with RXD, TXD, GND, no power supply 
 
+## Solutions 
 
+- USB_hub is unstable, cause the RS232 or RS584 connection broke 
+  
 
+## Common Application 
 
+- involve inductive loads- motors
+- fuel injection
+- solenoids- things

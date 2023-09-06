@@ -4,6 +4,9 @@
 
 https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html#supported-soc-s
 
+- install board json file: https://espressif.github.io/arduino-esp32/package_esp32_index.json
+
+
 
 ## Parameters
 

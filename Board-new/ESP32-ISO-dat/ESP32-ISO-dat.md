@@ -6,7 +6,13 @@
 
 ## breakout daughter board 
 
-- [[DPR1084-dat]] - [[rs485-autoboard-1]] - [[MP1584-dat]]
+- [[DPR1084-dat]] - [[rs485-autoboard-1]] - [[OPM1153-dat]]
+
+
+
 
 ## ref 
-- [[inductive-load-dat]]
+- [[inductive-load-dat]] - [[ESP-SDK]]
+
+- test code - https://github.com/Edragon/Arduino-ESP32
+- https://github.com/Edragon/Arduino-ESP32/tree/master/ESP32-ISO

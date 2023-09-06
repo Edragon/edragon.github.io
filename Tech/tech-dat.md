@@ -12,7 +12,7 @@
 ## PROG
 
 ## SDK
-- [[arduino-IDE-DAT]]
+- [[arduino-IDE-DAT]] - [[ESP-SDK]]
 
 
 ## Tools
