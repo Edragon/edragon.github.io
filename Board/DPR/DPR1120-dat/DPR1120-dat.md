@@ -11,9 +11,11 @@
 - VCCIO - IOs VCC selectable 3.3V or 5V
 - Each group output pins: GND, xx, xx, 3.3V, +5V
 
-- [[fuse]] - X15 
-- 
+## usage
+
+- remove the jumpers, which are for our factory test purpose only 
 
 ## ref 
 
-- [[FT4232-dat]] - [[ft4232]]
+- [[FT4232-dat]] 
+- [[ft4232]] - [[DPR1120]]

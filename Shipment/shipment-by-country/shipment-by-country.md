@@ -1,19 +1,18 @@
-
-# shipment by country 
+# shipment by country
 
 | country        | update | method           | details | category    | System              |                                                                                             |
-|----------------|--------|------------------|---------|-------------|---------------------|---------------------------------------------------------------------------------------------|
+| -------------- | ------ | ---------------- | ------- | ----------- | ------------------- | ------------------------------------------------------------------------------------------- |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
 |                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
-|                |        |                  |         |             |                     |                                                                                             |
+| Belgium        | 09/06  | SZFEDEX-IP       |         | express     |                     |                                                                                             |
+| Hungray        | 09/06  | SZFEDEX-IP       |         | express     |                     |                                                                                             |
+| Chile          | 09/06  | HKDHLX           | tax_id  | express     |                     |                                                                                             |
 | Austria        |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Brazil         |        | BREX / BREXPRESS |         | expendiated | Shipment Zone       |                                                                                             |
-| Brazil         | 08-11  | HKDHL-BA         |         |             | -                   | -                                                                                           |
-| Brazil         | 08-11  | HKFEDEXIP-C      |         |             | -                   | -                                                                                           |
+| Brazil         | 08-11  | HKDHL-BA         | tax_id  |             | -                   | -                                                                                           |
+| Brazil         | 08-11  | HKFEDEXIP-C      | tax_id  |             | -                   | -                                                                                           |
 | Bulgaria       | 06-07  | EURPOST          |         | expendiated |                     | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Costa Rica     | 06-09  | NLRPOST          |         |             |                     |                                                                                             |
 | Cyprus         |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
@@ -35,7 +34,7 @@
 | Norway         | 06-20  | EURPOST          |         |             | Advanced: EURPOST-4 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | Poland         | 06-09  | EUEX-V           |         |             |                     |                                                                                             |
 | Solvenia       |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
-| South Africa   | 06-05  | ZAEXPRESS        |         | expendiated |                     | ZAEXPRESS: Buffaloex Express Shipment (Ref. ETA 11-20 Days, personal ID 13-digits needed!!) |
+| South Africa   | 06-05  | ZAEXPRESS        | tax_id  | expendiated |                     | ZAEXPRESS: Buffaloex Express Shipment (Ref. ETA 11-20 Days, personal ID 13-digits needed!!) |
 | Sweden         | 06-02  | EUEX-V           |         |             |                     |                                                                                             |
 | Switzerland    | 06-15  | EURPOST          |         |             |                     | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)                                      |
 | United Kingdom | 06-07  | CZUK             |         |             |                     |                                                                                             |
@@ -43,8 +42,7 @@
 | United Kingdom | 06-07  | YODEL-UK         |         |             |                     |                                                                                             |
 | Vietam         |        | VNEXPRESS        | -       | -           |                     | VNEXPRESS: Intl. + Local Express (Ref. ETA. 10-18 Days)                                     |
 
-
-### Deactived Shipping Methods 
+### Deactived Shipping Methods
 
 | country     | update | method   | details | category | System               |                                                         |
 | ----------- | ------ | -------- | ------- | -------- | -------------------- | ------------------------------------------------------- |
