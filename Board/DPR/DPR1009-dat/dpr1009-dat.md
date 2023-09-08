@@ -12,11 +12,11 @@
   - for Attiny232, etc, turn all middle switch position ON, the rest switches OFF, and jumper for 2313 ON, switch crystal switch to top
   - For Atmega 328, etc, turn all right switch position ON, the rest switches OFF, and jumper for 2313 OFF, switch crystal switch to bottom
 
-| target series | SW_left | SW_middle | SW_right | 2313_jumpers | crystal |
-| ------------- | ------- | --------- | -------- | ------------ | ------- |
-| attiny 44     | ON      | -         | -        | -            | -       |
-| attiny *313    | -       | ON        | -        | ON           | -       |
-| atmega 328    | -       | -         | ON       | -            | ON      |
+| target series | SW_left | SW_middle | SW_right | 2313_jumpers | crystal | LED_pin |
+| ------------- | ------- | --------- | -------- | ------------ | ------- | ------- |
+| attiny 44     | ON      | -         | -        | -            | -       |         |
+| attiny *313   | -       | ON        | -        | ON           | -       | D3      |
+| atmega 328    | -       | -         | ON       | -            | ON      | D1      |
 
 ## Working Mode 
 
@@ -44,3 +44,8 @@ Attiny *4
 
 Atmega 
 - ATmega 8 / 48 / 88 / 168 / 328P (28P)
+
+
+## ref 
+
+- [[arduino-ide-dat]] - [[arduino-common-error-dat]]
