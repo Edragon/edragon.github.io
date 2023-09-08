@@ -19,4 +19,5 @@ SMD Switch from left to right
 * IO0 pin = switch off to pull down to flash mode
 * \* (not necessary)
 
-![](2023-09-08-14-13-35.png)
+
+![](2023-09-08-14-15-39.png)
