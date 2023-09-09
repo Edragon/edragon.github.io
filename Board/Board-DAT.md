@@ -23,8 +23,9 @@ SAMD21
 - [[DOD1104-dat]] - [[DOD1107-dat]]
 
 ### DPR
-- [[DPR1041-DAT]] - [[DPR1084-DAT]] - [[DPR1097-DAT]] - [[DPR1150-DAT]] - [[DPR1120-dat]]
+- [[DPR1009-dat]] - [[DPR1041-DAT]] - [[DPR1084-DAT]] - [[DPR1097-DAT]] - [[DPR1150-DAT]] - [[DPR1120-dat]]
 
+- [[DPR1126-dat]]
 
 ### IDD
 - [[IDD1013-DAT]] - [[IDD1016-DAT]]
