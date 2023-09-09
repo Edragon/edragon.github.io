@@ -19,3 +19,9 @@
 
 ![](12-41-15-23-02-2023.png)
 
+
+
+## Debug 
+
+- A / B reversed wiring = incorrect error data 
+

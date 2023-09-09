@@ -55,7 +55,8 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 
 
-## code 
+## ref
+- code please refer to our ESP32 arduino github repository 
+- [[RS485-dat]] - [[CAN-dat]] - [[high-side-driver-dat]]
 
-#define switch1 12
-#define switch2 19
+
