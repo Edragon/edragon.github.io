@@ -20,7 +20,11 @@ Debug Port:
 - If you supply all power from one port on the converted board, you can connect the power supply to matrix panels from another port.
 - Voltage should be no more than 5.5V.
 
+## Extra Pins
 
+- Please note there is a wrong typo on the board, IO12 should be IO14 
+- top pins: IO2 IO12 IO3
+- bottom pins: IO21 IO26 IO16
 
 ### Legacy Wiki 
 
