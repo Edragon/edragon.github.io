@@ -50,4 +50,5 @@ method 2
 ## ref 
 
 - origin project - https://github.com/harbaum/LCD2USB
-
+- python library - https://github.com/xyb/lcd2usb
+- [[avrdude-dat]]
