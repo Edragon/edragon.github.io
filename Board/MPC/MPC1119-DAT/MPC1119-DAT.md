@@ -1,7 +1,7 @@
 
 # MPC1119 DAT
 
-First version please see here. [[MPC1073-dat]] <br>
+First version please see here. [[MPC1073-dat]]
 
 New features please see the right image 
 * Remove the right chip to free extra GPIOs
@@ -37,7 +37,6 @@ Debug Port:
 
 - RMP Guide - https://w.electrodragon.com/w/RPI_RMP_Guide#P3/P4_64x64_(tested)
 
-- [[MPC1119]]
 
 - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 
@@ -56,3 +55,9 @@ Chain-3 5V logic output pin definitions
 3V3 direct lead pin definitions
 
 ![](2023-09-12-12-52-41.png)
+
+
+## ref 
+
+
+- [[MPC1119]]
