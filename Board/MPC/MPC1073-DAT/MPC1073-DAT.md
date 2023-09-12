@@ -14,6 +14,9 @@ https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 
 - code: https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/adapter
 
+## Product Series 
+
+- [[MPC1073-dat]] - [[MPC1119-dat]]
 
 ## ref 
 
