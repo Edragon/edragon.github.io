@@ -21,14 +21,15 @@ Schematic
 - Programmer Buttons Key1 and Key2
 
 
+## Software 
 
-## Use on Windows : 
+### Use on Windows : 
 
 - https://github.com/harbaum/LCD2USB/blob/master/contrib/LCD2USB-smartie.zip
 - libusb-win32 need to be installed 
 
 
-## Firmware flash command
+### Firmware flash command
 
     avrdude -c usbasp-clone -p m8 -U flash:w:"E:\Git-category\Git-AVR\AVR_firmware\Firmware\LCD2USB\firmware.hex":a -U lfuse:w:0x9F:m -U hfuse:w:0xC9:m 
 
@@ -38,12 +39,15 @@ method 2
 
 
 
-## Debug 
+### Debug 
 
 - tune the brightness if nothing show up
+- contrast is also set in default firmware, pre-uploaded
+
 
 ## Demos 
 
+Need to set contrast 
 - https://twitter.com/electro_phoenix/status/987251467861061632
 
 
