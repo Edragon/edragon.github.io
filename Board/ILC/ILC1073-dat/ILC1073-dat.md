@@ -1,9 +1,25 @@
 
 # ILC1073 dat 
 
+## Info 
 * Automatically support 1602 or 2004 type [char LCDs](https://w.electrodragon.com/w/Category:Char_LCDs)
 
 * Install USB-driver libusb-win32 - [[usb-dat]]
+
+https://www.electrodragon.com/product/1602-lcd-usb-mini-drive-board-rpi-driver-free/
+
+
+## hardware 
+
+Schematic 
+
+![](2023-08-31-17-52-56.png)
+
+- 2-way jumper connect the button to MISO or Reset 
+- 1-way jumper connect PC4 (EN1) to +5V
+
+- Programmer Buttons Key1 and Key2
+
 
 
 ## Use on Windows : 
@@ -21,14 +37,14 @@ method 2
     avrdude -c usbasp -p atmega8 -U lfuse:w:0x9f:m -U hfuse:w:0xc9:m -U flash:w:firmware-avrusb.hex
 
 
-## Schematic 
-
-![](2023-08-31-17-52-56.png)
-
 
 ## Debug 
 
 - tune the brightness if nothing show up
+
+## Demos 
+
+- https://twitter.com/electro_phoenix/status/987251467861061632
 
 
 ## ref 
