@@ -13,10 +13,11 @@ Design and optmized to specific country, intertional + local delivery.
 ### Express Shipment 
 
 - Fedex
-- DHL
+- [[DHL-dat]]
 - UPS
 
 - [[remote-address]]
 
 
 - [[shipment]]
+
