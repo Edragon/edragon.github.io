@@ -59,3 +59,5 @@ This is how it looks finally, we cut it on a different place, but works the same
 
 
 * We made different version of the board based on different kinds of the footprint, because of the raising price of the chips. Otherwise we have to raise the price of this board dramatically. Thank you.
+
+

@@ -1,6 +1,13 @@
 
 # MPC1119 DAT
 
+First version please see here. [[MPC1073-dat]] <br>
+
+New features please see the right image 
+* Remove the right chip to free extra GPIOs
+* Connect PIN4 or PIN8 to E_BUF for E-line
+* Power input and output from the left large pin connectors
+
 
 ## pin definitions 
 
@@ -33,3 +40,19 @@ Debug Port:
 - [[MPC1119]]
 
 - [[MPC1073-DAT]] - [[MPC1119-DAT]]
+
+
+
+## E-line Setup, Extra GPIOs Pin Definitions
+
+Setup E-line, PIN4 to E, PIN8 to GND or vice vese.
+![](2023-09-12-12-47-35.png)
+
+
+Chain-3 5V logic output pin definitions
+
+![](2023-09-12-12-48-06.png)
+
+3V3 direct lead pin definitions
+
+![](2023-09-12-12-52-41.png)
