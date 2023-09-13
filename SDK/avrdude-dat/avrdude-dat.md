@@ -2,7 +2,32 @@
 
 # avrdude-dat
 
-## == AVRDUDE + Arduino-ISP ==
+AVR firmware - https://github.com/Edragon/AVR_firmware/tree/master/avrdude
+
+## Version
+
+- avrdudess 
+
+## examples
+
+
+* Arduino as ISP (UNO) = programmer
+* target customized board atmega328p
+* ersult efuse FD, high fuse DA, low fuse FF
+
+test: 
+
+    D:\avr-gcc\bin>avrdude -c avrisp -p m328p -P com4 -b 19200
+    avrdude: AVR device initialized and ready to accept instructions
+    Reading | ################################################## | 100% 0.04s
+    avrdude: Device signature = 0x1e950f (probably m328p)
+    avrdude: safemode: Fuses OK (E:FD, H:DA, L:FF)
+    avrdude done.  Thank you.
+
+
+
+
+## AVRDUDE + Arduino-ISP
 
 find version 
 
@@ -66,5 +91,11 @@ Flash bootloader for Arduino UNO
 
     avrdude -CD:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\tools\avr\etc\avrdude.conf -c usbasp -p m328p -b 19200 -U flash:w:"D:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\arduino\avr\bootloaders\optiboot\optiboot_atmega328.hex":a
 
+
+## Supported List 
+
+- Commands: avrdude -p ?
+  
+![](2023-09-12-17-52-25.png)
 
 - [[avrdude]]

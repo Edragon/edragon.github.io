@@ -28,27 +28,37 @@ Schematic
 - https://github.com/harbaum/LCD2USB/blob/master/contrib/LCD2USB-smartie.zip
 - libusb-win32 need to be installed 
 
+![](2023-09-13-13-48-16.png)
 
 ### Firmware flash command
 
-    avrdude -c usbasp-clone -p m8 -U flash:w:"E:\Git-category\Git-AVR\AVR_firmware\Firmware\LCD2USB\firmware.hex":a -U lfuse:w:0x9F:m -U hfuse:w:0xC9:m 
-
-method 2 
-
+    avrdude -c usbasp-clone -p m8 -U flash:w:"E:\Git-category\Git-AVR\AVR_firmware\lcd2usb\firmware.hex":a -U lfuse:w:0x9F:m -U hfuse:w:0xC9:m 
     avrdude -c usbasp -p atmega8 -U lfuse:w:0x9f:m -U hfuse:w:0xc9:m -U flash:w:firmware-avrusb.hex
-
-
 
 ### Debug 
 
 - tune the brightness if nothing show up
 - contrast is also set in default firmware, pre-uploaded
-
+  
+lcd2USB.c 
+  
+    /* target is value to set */
+    #define LCD_SET_CONTRAST   (LCD_SET | (0<<3))
+    #define LCD_SET_BRIGHTNESS (LCD_SET | (1<<3))
+    #define LCD_SET_RESERVED0  (LCD_SET | (2<<3))
+    #define LCD_SET_RESERVED1  (LCD_SET | (3<<3))
 
 ## Demos 
 
 Need to set contrast 
 - https://twitter.com/electro_phoenix/status/987251467861061632
+
+python with lcd2usb 
+- pip install lcd2usb
+
+test application 
+- https://github.com/harbaum/LCD2USB/tree/master/testapp
+
 
 
 ## ref 
@@ -56,3 +66,5 @@ Need to set contrast
 - origin project - https://github.com/harbaum/LCD2USB
 - python library - https://github.com/xyb/lcd2usb
 - [[avrdude-dat]]
+
+- [[atmega8]]
