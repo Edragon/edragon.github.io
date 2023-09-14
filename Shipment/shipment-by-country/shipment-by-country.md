@@ -34,14 +34,13 @@
 | Norway         | 06-20  | EURPOST          |         |             | Advanced: EURPOST-4 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)  |
 | Poland         | 06-09  | EUEX-V           |         |             |                     |                                                         |
 | Solvenia       |        | EURPOST          |         |             | Advanced: EURPOST-5 | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)  |
-| South Africa   | 06-05  | ZAEXPRESS        | tax_id  | expendiated |                     | ZAEXPRESS: Buffaloex Express Shipment                   |
+| South Africa   | X      | ZAEXPRESS        | tax_id  | expendiated |                     | ZAEXPRESS: Buffaloex Express Shipment                   |
 | Sweden         | 06-02  | EUEX-V           |         |             |                     |                                                         |
 | Switzerland    | 06-15  | EURPOST          |         |             |                     | EURPOST: Intl. + Local Delivery (Ref. ETA. 13-30 Days)  |
 | United Kingdom | 06-07  | CZUK             |         |             |                     |                                                         |
 | United Kingdom | 06-07  | GBEXPRESS        |         |             |                     |                                                         |
 | United Kingdom | 06-07  | YODEL-UK         |         |             |                     |                                                         |
 | Vietam         |        | VNEXPRESS        | -       | -           |                     | VNEXPRESS: Intl. + Local Express (Ref. ETA. 10-18 Days) |
-
 
 ### Deactived Shipping Methods
 
@@ -51,6 +50,6 @@
 | Switzerland | 06-15  | SZEUB-BA |         | Post     | Advanced: SZEUB-BA-4 |                                                         |
 |             |        |          |         |          |                      |                                                         |
 
-- [[EUEX-V]] - [[EURPOST]] - [[CAEXPRESS]] - [[USPS-DAT]]
+- [[EUEX-V]] - [[EURPOST]] - [[CAEXPRESS]] - [[USPS-DAT]] - [[DHL]]
 
 prepaid [[VAT]] tax
