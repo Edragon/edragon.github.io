@@ -9,9 +9,9 @@
 
 ### Hardware 
 
-- Optical Coupler IO4 IO5 
+- Optical Coupler IN1 = IO4, IN2 = IO5 
 
-- Sensor Input IO34 
+- ADC Sensor Input IO34 
 
 
 ### Ethernet LAN8720 
@@ -20,11 +20,15 @@
 
 
 
-- [[LAN8720-DAT]]
+- [[LAN8720-DAT]] 
 
 
 ## demo code find at 
 
-- [[arduino-code-v2]]
+- [[arduino-code-v2]] 
+
+## ref 
+
+- [[NWI1200]]
 
 
