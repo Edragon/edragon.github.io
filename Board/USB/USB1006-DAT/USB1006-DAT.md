@@ -1,6 +1,7 @@
 
-- baudrate 9600
+# USB1006 
 
+- baudrate 9600
 
 
 

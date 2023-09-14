@@ -1,5 +1,8 @@
 
-# coin battery dat 
+
+# battery-dat 
+
+## coin battery dat 
 
 CR2030 provides up to 3V 210~225 mAh, and CR1220 provides up to 3V 38mAh power.
 
