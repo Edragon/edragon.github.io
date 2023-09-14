@@ -6,7 +6,8 @@
 
 - [[board-dat]] - [[board-app-dat]] - [[board-new-dat]]
 
-
+- [[chip-dat]] - [[chip-cn-dat]]
+  
 - [[BOM-DAT]] - [[Tech-DAT]] - [[service-dat]]
 
 

@@ -62,13 +62,12 @@ Supported band
 
 - [[NGS1095-dat]] - [[NGS1096-dat]]
 
-- [[NGS1094-dat]] - SIM7020E - life time end 
+- [[NGS1094-dat]] - SIM7020E (old version) - life time end 
 
-- [[SIMCOM-AT-dat]]
-
-- [[NGS1094-dat]]: old version SIM7020E, life time over
+- [[SIMCOM-AT-dat]] - [[SIMCOM-dat]]
 
 - [[SIM7020]] - [[BTB-dat]]
+
 
 
 ## doc
