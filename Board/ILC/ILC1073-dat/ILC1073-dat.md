@@ -32,7 +32,7 @@ Schematic
 
 ### Firmware flash command
 
-    avrdude -c usbasp-clone -p m8 -U flash:w:"E:\Git-category\Git-AVR\AVR_firmware\lcd2usb\firmware.hex":a -U lfuse:w:0x9F:m -U hfuse:w:0xC9:m 
+    avrdude -c usbasp-clone -p m8 -U flash:w:"E:\Git-category\Git-AVR\LCD2USB-master\firmware\firmware.hex":a -U lfuse:w:0x9F:m -U hfuse:w:0xC9:m 
     avrdude -c usbasp -p atmega8 -U lfuse:w:0x9f:m -U hfuse:w:0xc9:m -U flash:w:firmware-avrusb.hex
 
 ### Debug 
@@ -59,6 +59,7 @@ python with lcd2usb
 test application 
 - https://github.com/harbaum/LCD2USB/tree/master/testapp
 
+![](2023-09-19-18-48-30.png)
 
 
 ## ref 
