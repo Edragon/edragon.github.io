@@ -20,10 +20,10 @@
 
 ## Chip Version 
 
-a) LAN8720Ai-CP-TR
-Industrial temp., Tape & Reel, 24-QFN (Punch)
-b) LAN8720A-CP-ABC
-Ext. commercial temp., Tray, 24-SQFN (Sawn)
+- a) LAN8720Ai-CP-TR
+- Industrial temp., Tape & Reel, 24-QFN (Punch)
+- b) LAN8720A-CP-ABC
+- Ext. commercial temp., Tray, 24-SQFN (Sawn)
 
 
 ## ref 
