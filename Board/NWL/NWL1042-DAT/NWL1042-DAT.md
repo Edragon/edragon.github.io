@@ -15,6 +15,6 @@ please notice this version is similar to [[NWL1039-DAT]], only need to resolder 
 
 ## ref 
 
-- [[LORA-DAT]] - [[NWL1042]] - [[CC1101-DAT]] - [[NWL1039-dat]]
+- [[Lora-dat]] - [[NWL1042]] - [[CC1101-DAT]] - [[NWL1039-dat]]
 
 

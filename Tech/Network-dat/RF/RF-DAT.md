@@ -2,7 +2,7 @@
 # RF 
 
 Sub-1GHz
-- [[RF905-DAT]] - [[CC1101-DAT]] - [[SI4432-DAT]] - [[SI4463-DAT]] - [[Lora-DAT]]
+- [[RF905-DAT]] - [[CC1101-DAT]] - [[SI4432-DAT]] - [[SI4463-DAT]] - [[Lora-dat]]
 
 2.4Ghz
 - [[NRF24L01]]

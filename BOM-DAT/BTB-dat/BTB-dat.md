@@ -20,7 +20,7 @@
 ## attach board
 
 ### lora
-- [[lora-dat]] - [[ESP32-SPI-dat]]
+- [[Lora-dat]] - [[ESP32-SPI-dat]]
 
 
 - use UART as main interface 
