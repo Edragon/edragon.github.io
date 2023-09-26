@@ -18,6 +18,9 @@
 
 ![](14-36-18-09-08-2023.png)
 
+## Pin Definitions 
+
+![](2023-09-26-15-11-35.png)
 ## Legacy Wiki Pages 
 
 - https://w.electrodragon.com/w/Category:ESP32
