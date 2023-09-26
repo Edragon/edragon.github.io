@@ -2,6 +2,9 @@
 
 ## Guide 
 
+
+## installation 
+
 https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html#supported-soc-s
 
 - install board json file: https://espressif.github.io/arduino-esp32/package_esp32_index.json
@@ -10,6 +13,10 @@ https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html
 
 - test code - https://github.com/Edragon/Arduino-ESP32
 - https://github.com/Edragon/Arduino-ESP32/tree/master/ESP32-ISO
+
+## Wiring 
+
+- [[USB-TTL-dat]]
 
 
 ## Parameters
