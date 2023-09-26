@@ -5,7 +5,7 @@
 
 ## Input Output 
 
-- Input = 7-12V
+- Input = 7-12V from DC barrel Jack or pin headers 
 - Ouput1 = 5V 1A
 - Output2 = 3.3V 2A 
 
