@@ -14,6 +14,18 @@
 
 - ESP-WROOM-32D/U are compatible with former ESP-WROOM-32, pin-to-pin compatible.
 
+## Functions 
+
+Module interfaces
+- SD card, UART, SPI, SDIO, I2C, LED PWM, Motor PWM,
+- I2S, IR, pulse counter, GPIO, capacitive touch sensor, ADC,
+- DAC, Two-Wire Automotive Interface (TWAI®), compatible
+- with ISO11898-1 (CAN Specification 2.0)
+- Integrated crystal 40 MHz crystal
+- Integrated SPI flash 4 MB
+
+
+
 ## SCH
 
 ![](14-36-18-09-08-2023.png)

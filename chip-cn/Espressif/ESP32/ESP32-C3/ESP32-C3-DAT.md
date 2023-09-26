@@ -22,3 +22,14 @@ https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datashee
 
 - information regarding [[conn-ipex]]
 - [[antenna-DAT]]
+
+
+
+
+## ESP32-C3
+
+https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+
+- [[ESP32-C3-DAT]] - [[ESP32-­C3-­WROOM-­2-DAT]]
+
+[[ESP32-C3-Mini-1-DAT]]
