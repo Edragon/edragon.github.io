@@ -22,6 +22,7 @@
 - GND -> GND. 
 - Connect IO0 to GND, and then power up to enter into programming mode 
 
+- [[ESP32-SDK]]
 
 ### troubleshooting checklist
 reverse TX RX in case wrong wiring of communication

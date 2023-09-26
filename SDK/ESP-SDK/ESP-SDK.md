@@ -12,13 +12,21 @@
 
 - [[arduino-esp32-dat]]
 
+
+
 ## ESP firmware 
 - https://github.com/Edragon/esp_firmware
 
 
 ## Flash Methods 
 
-- [[USB-TTL-dat]]
+Booting Mode 
+
+           Hold down IO0 button, and connect power supply to enter into flash  mode
+    do NOT Hold down IO0 button, and connect power supply to enter into normal mode
+
+
+Wirings use [[USB-TTL-dat]]
 
 ## ref 
 
