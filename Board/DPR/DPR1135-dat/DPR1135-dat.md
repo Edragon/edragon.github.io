@@ -1,7 +1,34 @@
 
 # DPR1135 dat 
 
-Support ICs list:
+
+## The differences between JLink V8 and Jlink V9:
+
+1. Different speeds: V8 supports up to 10M (JTAG debugging mode)/4M (SDW debugging mode), while Jlink V9 supports up to 20M (JTAG debugging mode)/15M (SDW debugging mode).
+
+2. Different stability: V9's driver IC has voltage adaptive capability and can automatically adapt to the CPU voltage of the target board when the wiring is correct. All 1.8-5.5V CPUs can be debugged, while the V8 version can only debug 3.3v version of the CPU, and the stability of debugging 5vcpu is very poor.
+
+3. JlinkV8 is easy to lose firmware and become bricked. Many V8s here have crashed. I have to re-flash the firmware, and ordinary users can only watch them become bricks, but V9 basically does not have this situation.
+
+4. Some of the latest CPUs are no longer supported by V8, while V9 supports almost all ARM CPUs.
+
+
+
+## Six major features of JLINK V9:
+
+1. The main control chip uses STM32F205, and the firmware will not be lost.
+
+2. It can provide 3.3V voltage and 0.8A current for the development board. Pin 19 outputs 5V voltage and can adapt to 1.8V-5V voltage.
+
+3. Supports standard JTAG interface and 2-wire SWD debugging interface. The speed can reach 20M(JTAG)/15M(SWD) per second.
+
+4. Support debugging of all ARM chips, support MDK or IAR, and other standard compilation environment IDE supported by JLink.
+
+5. Original firmware, fully automatic firmware upgrade
+
+
+## Support ICs list:
+
 - Actel(ARM7/ARM9/Cortex Family)
 - A2F200M3F,A2F500M3G,COREMP7,Cortex-M1
 - Analog Devices(ARM7/ARM9/Cortex Family)
@@ -49,3 +76,8 @@ Support ICs list:
 - TMPM360F20FG,TMPM361F10FG
 - Zilog(ARM7/ARM9/Cortex Family)
 - ZA9L
+
+
+## ref 
+
+- [[DPR1135]]
