@@ -15,7 +15,12 @@
 
 ## Use case 
 
-for ESP32 or ESP8266 : TXD -> RXD, RXD -> TXD, 5V -> 5V, GND -> GND. setup IO0 to GND to enter into programming mode 
+### for ESP32 or ESP8266 : 
+- TXD -> RXD
+- RXD -> TXD
+- 5V -> 5V
+- GND -> GND. 
+- Connect IO0 to GND, and then power up to enter into programming mode 
 
 
 ### troubleshooting checklist
