@@ -1,8 +1,9 @@
 
 # DPR1135 dat 
 
+## version Control 
 
-## The differences between JLink V8 and Jlink V9:
+### The differences between JLink V8 and Jlink V9:
 
 1. Different speeds: V8 supports up to 10M (JTAG debugging mode)/4M (SDW debugging mode), while Jlink V9 supports up to 20M (JTAG debugging mode)/15M (SDW debugging mode).
 
@@ -14,7 +15,7 @@
 
 
 
-## Six major features of JLINK V9:
+### Six major features of JLINK V9:
 
 1. The main control chip uses STM32F205, and the firmware will not be lost.
 
@@ -25,6 +26,23 @@
 4. Support debugging of all ARM chips, support MDK or IAR, and other standard compilation environment IDE supported by JLink.
 
 5. Original firmware, fully automatic firmware upgrade
+
+
+
+### Features of V8 design:
+Use JLINK V8 original firmware, supports automatic upgrade.
+Design based on the original JLINK V8 circuit schematic design.
+Design based on the original JLINK V8 circuit layout design.
+Design based on the original JLINK V8 line alignment.
+Power circuit using large capacity non-polar capacitor as a filter, the same as the original JLINK V8.
+The USB-seat shell ground through a resistor and capacitor in parallel (a lot of businesses to simplify this, but directly to ground), the same as with the original JLINK V8.
+The use of a red and green LED indicates that the inner workings of state (green light indicates working state, a red light indicates the reset state), the same as the original JLINK V8.
+SWD and JTAG support 1.2-5V voltage output circuit using two the Philips 74ALVC164245, the same as the original JLINK V8.
+The double protection: JLinkUSB mouth the esd protect the ic full protection! 500 mA resettable fuse to protect the USB port, full protection!
+The OUR JLink 1.5A Large current 8550 triode power on command output 400ma current Your product can be powered directly by JLINK simulation, very convenient!
+This product is designed for the original JLINK V8 goal, stable performance, at or near the the original JLINK V8 performance.
+With V7 comparison test, you can clearly feel the V8 erase and program faster and more smoothly.
+SMT production machines, strict quality inspection, the quality of the products 100% qualified, please feel free to use.
 
 
 ## Support ICs list:
@@ -79,5 +97,7 @@
 
 
 ## ref 
+
+- [[JLINK-dat]]
 
 - [[DPR1135]]
