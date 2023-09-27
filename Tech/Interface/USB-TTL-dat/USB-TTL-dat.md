@@ -1,10 +1,12 @@
 
 # USB TTL Dat 
 
-- Green = TX
-- White = Rx
-- Red = VCC
-- Black = GND
+from the perspective of the cable to the perspective of the target
+
+- Green = TXD -> target RXD  
+- White = RXD -> target TXD
+- Red = VCC -> target +5V
+- Black = GND - > target GND
 
 ![](32-40-17-24-07-2023.png)
 
