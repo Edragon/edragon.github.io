@@ -42,19 +42,23 @@ Booting Mode select
 ### Confirm selected Mode 
 
 - The COM port monitor used below is [[com-monitor-dat]]
+- if your actions are all correct, the module should enter into correct module, and print output as below
 - In this mode, you can close the monitor, and further programming it with other SDK like [[arduino-esp32-dat]]
 
 ![](2023-09-27-16-05-42.png)
 
 
 ### troubleshooting checklist
-reverse TX RX in case wrong wiring of communication
+- reverse TX RX in case wrong wiring of communication
 
 
+## ref 
 software [[com-monitor-dat]]
 
-other interface 
+- [[ESP-SDK]]
+
+
+## other interface 
 - [[RS485-DAT]] - [[RS232-dat]] - [[I2C-dat]]
 
 
-- [[ESP-SDK]]
