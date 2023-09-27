@@ -41,8 +41,8 @@ Booting Mode select
 
 ### Confirm selected Mode 
 
-The COM port monitor used here is [[com-monitor-dat]]
-
+- The COM port monitor used below is [[com-monitor-dat]]
+- In this mode, you can close the monitor, and further programming it with other SDK like [[arduino-esp32-dat]]
 
 ![](2023-09-27-16-05-42.png)
 
