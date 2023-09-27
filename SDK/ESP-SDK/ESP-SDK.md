@@ -18,13 +18,6 @@
 - https://github.com/Edragon/esp_firmware
 
 
-## Flash Methods 
-
-Booting Mode 
-
-           Hold down IO0 button, and connect power supply to enter into flash  mode
-    do NOT Hold down IO0 button, and connect power supply to enter into normal mode
-
 
 Wirings use [[USB-TTL-dat]]
 
