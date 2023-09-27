@@ -11,3 +11,10 @@
 | LCD display input | Hardawre GPIO                 | HDMI                          | HDMI                           |
 | Touchscreen       | By GPIO Connector, resistance | By GPIO Connector, resistance | By GPIO Connector, capacitance |
 | Resolution        | 480x320                       | 800x480                       | 1024x600 IPS                   |
+
+
+
+
+## Accessories 
+
+- USB power and HDMI cable for only 7'' LCD

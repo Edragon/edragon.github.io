@@ -4,7 +4,7 @@
 
 ## category 
 
-- [[board-dat]] - [[board-app-dat]] - [[board-new-dat]]
+- [[board-dat]] - [[board-series-dat]] - [[board-new-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
   
