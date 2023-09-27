@@ -2,11 +2,10 @@
 
 ## specs
 
-
 - Raspberry Pi stack by pin connectors on backside of LCD.
 - Extra HDMI connector board for 5” and 7” LCD from raspberry pi to LCD
 
-| specs             | 3.5” LCD                      | 5” LCD                        | 7” LCD                         |
+| specs             | 3.5” LCD [[ILC1041-dat]]      | 5” LCD [[ILC1042-dat]]        | 7” LCD                         |
 | ----------------- | ----------------------------- | ----------------------------- | ------------------------------ |
 | Power             | By GPIO Connector             | By GPIO Connector or USB      | By GPIO Connector or USB       |
 | LCD display input | Hardawre GPIO                 | HDMI                          | HDMI                           |
