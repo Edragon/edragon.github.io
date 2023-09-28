@@ -8,10 +8,11 @@
 - PD6 - motor control 
 - PC1 - led control 
 - PC2 - button input 
-
+- pin 8 = SDIO 
 
 
 ### 标准通讯接口 
+
 - 1 个USART 接口 
 - 1 个I2C 接口 
 - 1 个SPI 接口
