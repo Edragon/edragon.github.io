@@ -6,6 +6,13 @@
 - via USB port 
 - http://www.wch-ic.com/downloads/WCHISPTool_Setup_exe.html
 
+- version 3.4 
+- CH54X,CH55X,CH56X,CH57X,CH58X
+- CH32F10X,CH32F20X
+- CH32V00X,CH32V10X,CH32V20X,CH32V30X
+
+
+
 
 
 ## CH559

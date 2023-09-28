@@ -5,7 +5,7 @@
 
 - [[CH55x-DAT]]
 
-- [[WCH-PROG]]
+- [[WCH-PROG-dat]]
 
 - CH330
 - [[CH340-DAT]]

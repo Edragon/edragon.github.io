@@ -49,6 +49,6 @@ flash tool
 https://w.electrodragon.com/w/CH55X_HDK
 
 
-- [[WCH-PROG]]
+- [[WCH-PROG-dat]]
 
 - [[DOD1068]] - [[DOD1071]]

@@ -46,6 +46,6 @@ P32 P33 P34 P44 = LED 0 LED1 LEDC LED3
 
 ## ref 
 
-- [[WCH-PROG]] - [[WCH-dat]] - [[ch559-prog]] - [[ch559-readme]]
+- [[WCH-PROG-dat]] - [[WCH-dat]] - [[ch559-prog]] - [[ch559-readme]]
 
 - [[CH551-dat]] - [[CH552-dat]] - [[CH554-dat]] - [[CH559-dat]]
