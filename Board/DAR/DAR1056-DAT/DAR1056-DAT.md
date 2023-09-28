@@ -27,5 +27,9 @@ please refer to the image below
 
 
 ## ref 
+
 - [[LGT8F328-DAT]]
+
 - [[DAR1056]]
+
+- [[LGT8F328]]
