@@ -17,3 +17,10 @@ bottom
 
 
 ![](2023-09-28-16-26-44.png)
+
+
+## ref 
+
+- legacy wiki page - https://w.electrodragon.com/w/Category:Audio_Amp
+
+- [[AMP1003]]
