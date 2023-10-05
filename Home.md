@@ -13,6 +13,10 @@
 
 ## Social 
 
+- Any questions please email to info@eletrodragon.com
+- Social platform reply will be slow! Thank you. 
+
+
 twitter
 - info+phoenix@electrodragon.com
 - https://twitter.com/electro_phoenix

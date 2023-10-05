@@ -28,6 +28,7 @@ SAMD21
 - [[DPR1126-dat]]
 
 ### IDD
+
 - [[IDD1013-DAT]] - [[IDD1016-DAT]]
 
 ### ILC 
@@ -52,8 +53,10 @@ RPI LCD
 - [[MOT1009-DAT]]
 
 ### MPC
-- [[MPCS042-DAT]] - [[MPC1073-DAT]] - [[MPC1119-DAT]] - [[MPC1123-DAT]] 
 
+- [[MPCS042-DAT]] - [[MPC1123-DAT]] 
+
+Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 
 ### MSP 
 - [[MSP1061-DAT]]
