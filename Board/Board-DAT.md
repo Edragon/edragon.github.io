@@ -146,7 +146,7 @@ ESP32-APP
 - [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1113-DAT]]
 
 ### SMO
-- [[SMO1095-DAT]]
+- [[SMO1095-DAT]] - [[SMO1099-dat]]
   
 ### STH
 - [[STH1074-DAT]] - [[STH1078-DAT]]
