@@ -17,3 +17,6 @@ https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-Sense-Kit?qs=MLItCL
 - [demo video](https://www.youtube.com/watch?v=UzN8yJvoCjE&ab_channel=PeiChiNg)
 
 - [[NWI1186]] - [[esp-sdk]]
+
+
+- [[board-stock-out]]
