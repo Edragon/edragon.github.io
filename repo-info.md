@@ -1,5 +1,5 @@
 
 # repo info 
 
-- code [[Board/SMO/SMO1099-dat/VL53L0X.ino]]
-- [[VL53L0X.ino]]
+- code [[Chip/ST/ST-sensor-dat/VL53L0X.ino]]
+- in the same folder [[VL53L0X.ino]]
