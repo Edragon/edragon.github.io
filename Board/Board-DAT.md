@@ -5,6 +5,10 @@
 ### USB
 - [[USB1000-dat]] - [[USB1003-dat]] - [[USB1006-dat]]
 
+### CCO 
+- [[CCO3626-dat]] - [[CCO3627-dat]]
+
+
 ### CKI
 - [[CKI1047-dat]]
   
@@ -130,6 +134,9 @@ ESP32-APP
 - [[OPM1167-dat]] - [[opm1168-dat]]
 
 [[ACDC-dat]] - [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]]
+
+battery holder - [[OPM1189-dat]]
+
 
 ### OPS 
 - [[OPS1009-DAT]]
