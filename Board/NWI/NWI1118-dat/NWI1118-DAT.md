@@ -1,21 +1,10 @@
 # NWI1118-DAT
 
-
+- new version please see at page [[NWI1119-dat]]
 
 
 ### hardware 
 
-#### R7 ESP32-C3 Version 
-
-![](2023-10-08-17-09-09.png)
-
-- programmerable LED IO10 
-- programmerable / Flash Button IO9
-- Reset Button 
-- Relay Pin IO6 / IO7
-- ADC Port Pin IO0
-- Default Pull up IO2 IO8
-- I2C Expand Pin Headers IO4 IO5 3V3 GND 
 
 #### R6 
 - IO2 = status LED (also on module ESP-12F)
@@ -38,6 +27,8 @@
 ## ref 
 
 - [[ESP-SDK-dat]]
+
+- [[esp-relay-board-dat]]
 
 - [[ESP-12F-DAT]] - [[ESP32-­C3-­WROOM-­2-DAT]]
 - [[AC-DC-SM]]

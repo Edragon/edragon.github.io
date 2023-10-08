@@ -7,4 +7,9 @@ legacy wiki page:
 
 
 ## board links 
-- [[NWI1072-DAT]] - [[NWI1119-DAT]] - [[NWI1139-dat]]
+
+version SPDT - [[NWI1119-DAT]] - [[NWI1118-dat]] (obseleted)
+
+version SPDT w/ flyback protection - [[NWI1139-dat]]
+
+version SPDT - [[NWI1072-DAT]] 
