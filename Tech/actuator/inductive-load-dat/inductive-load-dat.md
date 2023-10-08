@@ -2,6 +2,8 @@
 # inductive load dat
 
 
+
+
 ## AC Inductive Load 
 
 - RC Snubber Board - https://www.electrodragon.com/product/2pcs-ac-kickback-absorb-board-inductive-load/

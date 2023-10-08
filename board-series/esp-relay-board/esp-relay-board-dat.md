@@ -27,3 +27,21 @@ The output of the relay of SPDT is not connected with AC main input voltge, the 
 ## Demo Collections 
 
 - [[NWI1072-dat]] drive domestic home appliances - [demo](https://www.youtube.com/watch?v=Tznk1umc20M&ab_channel=ChowHe) 
+
+
+## Demo Software Features
+Programming skills need, not recommended for unfamiliar user.
+The board flashed with demo test code, you can follow the youtube video to make a try directly. And find demo code in the wiki page below. Only nodemcu demo code avaialble.
+The demo code written in R1.1 will do:
+switch both relay on/off once per second, and wait for smart config
+When connected to local wifi by smart config, on/off switching relay will stop and you can use mqtt to control it, follow wiki instruction for further details.
+You can use USB-TTL debug to re-program it. (Search to buy a USB-TTL tool in case, PL2303 or CP2102 can be all the work)
+If you want to customize it, please contact via info@electrodragon.com
+Use MQTT platform called www.cloudmqtt.com, use-friendly for esp8266
+Based on NodeMCU LUA coding
+Demo code available, open source, and support smartconfig and MQTT, please find the code below or at our dropbox page to download
+
+## ref 
+
+- used enclosure [[LED驱动电源塑料外壳]]
+- [[inductive-load-dat]]
