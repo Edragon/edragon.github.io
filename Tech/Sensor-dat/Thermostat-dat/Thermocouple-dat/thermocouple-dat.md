@@ -1,5 +1,8 @@
 # thermocouple-dat
 
+- [legacy wiki page](https://w.electrodragon.com/w/Category:RTD_Sensor) - https://w.electrodragon.com/w/Category:RTD_Sensor
+
+
 ## common types of thermocouple
 
 | Type   | Sensing Temperature |
