@@ -8,7 +8,9 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
   
-- [[BOM-DAT]] - [[Tech-DAT]] - [[service-dat]]
+- [[Tech-DAT]] - [[SDK-DAT]]
+  
+- [[BOM-DAT]] - [[service-dat]]
 
 
 ## Social 
