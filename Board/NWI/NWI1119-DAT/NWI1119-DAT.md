@@ -2,27 +2,16 @@
 
 - R7 ESP32-C3 Version
 
-#### R7 ESP32-C3 Version
-
-- programmerable LED IO10
-- programmerable / Flash Button IO9
-- Reset Button
-- Relay Pin IO6 / IO7
-- ADC Port Pin IO0
-- Default Pull up IO2 IO8
-- I2C Expand Pin Headers IO4 IO5 3V3 GND
-
 ### Pin Definitions
 
-| Pin                    | Function                       |
-| ---------------------- | ------------------------------ |
-| IO0                    | ADC                            |
-| IO2 / IO8 with pull-up | on-board resistors for booting |
-| IO4 / IO5 with pull-up | on-board resistors for I2C     |
-| IO6                    | relay 1                        |
-| IO7                    | relay 2                        |
-| IO09                   | PROG Button                    |
-| IO10                   | on board LED, via jumper       |
+| Pin       | Function                          | Note       |
+| --------- | --------------------------------- | ---------- |
+| IO0       | ADC sensing, XH2.54 Jack Port     |            |
+| IO2 / IO8 | Setup for booting                 | pull-up    |
+| IO4 / IO5 | Reserved for I2C, 1\*4 pin header | pull-up    |
+| IO6 / IO7 | relay 1 / 2                       |            |
+| IO09      | programmerable / Flash Button     |            |
+| IO10      | programmerable LED                | via jumper |
 
 ![](39-39-16-07-02-2023.png)
 
@@ -33,6 +22,6 @@
 
 ### ref
 
-- [[ESP-SDK-dat]] - [[arduino-esp32-dat]]
-- [[ESP32-USB]]
-- [[ESP32-C3-WROOM-02-DAT]]
+Tested with arduino code, flash tested with ESPHome, but not further function tests
+
+- [[ESP-SDK-dat]] - [[ESP32-C3-WROOM-2-DAT]]
