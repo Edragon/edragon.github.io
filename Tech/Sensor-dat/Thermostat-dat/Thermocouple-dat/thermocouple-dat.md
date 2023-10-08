@@ -45,7 +45,7 @@
 
 - [[STH1031-dat]]
 
-- [[MOT1013-dat]]
+- [[MOT1013-dat]] - [[MOT1017-dat]]
 
 - [[MAX31855-dat]] - [[MAX6675-dat]]
 
