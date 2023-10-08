@@ -34,5 +34,5 @@ page 24.
 
 ## ref 
 
-- [[ESP32-C3]] - [[ESP-SDK]] - [[ESP32-DAT]]
+- [[ESP32-C3]] - [[ESP-SDK-dat]] - [[ESP32-DAT]]
 

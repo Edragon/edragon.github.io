@@ -7,7 +7,7 @@
     - RAM：400KB
     - QFN32_5x5
 
-- [[ESP-SDK]]
+- [[ESP-SDK-dat]]
 
 DS
 https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datasheet_en.pdf

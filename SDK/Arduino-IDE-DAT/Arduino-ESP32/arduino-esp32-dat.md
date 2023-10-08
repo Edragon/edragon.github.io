@@ -66,7 +66,7 @@ includes
 - bluetooth / wifi tested with official examples
 
 
-- [[ESP-SDK]]
+- [[ESP-SDK-dat]]
 
 
 

@@ -26,6 +26,6 @@
 
 ### ref 
 
-- [[ESP-SDK]] - [[arduino-esp32-dat]]
+- [[ESP-SDK-dat]] - [[arduino-esp32-dat]]
 - [[ESP32-USB]]
 - [[ESP32-C3-WROOM-02-DAT]]

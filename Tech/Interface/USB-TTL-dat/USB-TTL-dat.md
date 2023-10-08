@@ -57,7 +57,7 @@ Booting Mode select
 ## ref 
 software [[com-monitor-dat]]
 
-- [[ESP-SDK]]
+- [[ESP-SDK-dat]]
 
 
 ## other interface 

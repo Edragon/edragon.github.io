@@ -18,7 +18,7 @@ back side functions:
 
 ## ref 
 
-- [[ESP-SDK]]
+- [[ESP-SDK-dat]]
 - https://www.electrodragon.com/w/Category:ESP8266_Hardware#Perpherial_Schematic
 - flash guide - https://www.electrodragon.com/flash-firmware-for-nodemcu-on-esp-12f-with-breakout-board/
 

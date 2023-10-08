@@ -2,12 +2,12 @@
 
 # ESP32 
 
-- [[ESP-SDK]]
+- [[ESP-SDK-dat]]
 
 
 ## ref 
 
-- [[ESP-SDK]] - [[arduino-ESP32-dat]]
+- [[ESP-SDK-dat]] - [[arduino-ESP32-dat]]
 
 - [[ESP32-FAQ]]
 
