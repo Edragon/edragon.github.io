@@ -34,7 +34,7 @@ Keils 识别不到的需要更新 Keil 版本至 5.25 以上
 
 ## reprogram demo video 
 
-- https://www.youtube.com/watch?v=JZMW4eqRBXw&ab_channel=ChowHe
+- https://www.youtube.com/watch?v=v3h-EoI-HIQ&ab_channel=ChowHe
 
 
 ## Info 
