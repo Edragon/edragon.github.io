@@ -1,7 +1,19 @@
 
 # RS485 auto board 1 
 
-![](41-27-17-16-08-2023.png)
+## Board Features 
+
+- TXD / RXD data indicator LEDs 
+- Power LED
+- Working voltage 5V, 3.3V may NOT work 
+- Audo direction 
+- Fine protections for most cases
+- Output 3-pin headers, pitch compatible 3.5mm/5mm 
+- 120R end terminal resistor 
+
+## Pin Definitions 
+
+![](2023-10-09-16-43-05.png)
 
 Left Side Pins 
 - A
