@@ -4,9 +4,6 @@
 
 Keils 识别不到的需要更新 Keil 版本至 5.25 以上
 
-## Boards 
-
-- [[CH32V003-dat]]
 
 ## Mode
 
@@ -30,6 +27,9 @@ Mode switching:
 - [[CMSIS-dap-dat]]
 
 
+## Boards 
+
+- [[CH32V003-dat]]
 
 ## Info 
 

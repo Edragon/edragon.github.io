@@ -14,6 +14,11 @@
 - Wide input voltage range: 0.9V ～ 3.6V
 - Low ripple and low noise
 
+## Pins 
+
+- enable / VIN / GND / VOUT
+- front jumper set enable default ON
+- back jumper to connect the LED to power supply
 
 
 ## Applications 
