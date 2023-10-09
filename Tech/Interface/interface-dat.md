@@ -20,7 +20,9 @@
 
 [[CAN-dat]] breakout
 
-- 
+- SPI to CAN [[MSP1032-dat]]
+- Serial to CAN 
+
 
 [[RS422-dat]] breakout 
 
@@ -41,3 +43,6 @@ For Raspberry Pi
 - [[ITF1000-dat]]
 
 
+## REF 
+
+- [[CAN]]

@@ -20,7 +20,7 @@ https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datashee
 
 ![](40-46-13-07-06-2023.png)
 
-- information regarding [[conn-ipex]]
+- information regarding [[conn-IPEX-dat]]
 - [[antenna-DAT]]
 
 
