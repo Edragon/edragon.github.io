@@ -5,6 +5,7 @@
 
 ### hardware 
 
+![](2023-10-09-13-55-10.png)
 
 #### R6 
 - IO2 = status LED (also on module ESP-12F)
