@@ -137,6 +137,7 @@ ESP32-APP
 
 battery holder - [[OPM1189-dat]]
 
+battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
 
 ### OPS 
 - [[OPS1009-DAT]]
