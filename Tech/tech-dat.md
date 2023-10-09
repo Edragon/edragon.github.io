@@ -26,7 +26,7 @@
 - [[LTE]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 
 Industrial 
-- [[Peltier]]
+- [[Peltier-dat]]
 
 
 ## Code 

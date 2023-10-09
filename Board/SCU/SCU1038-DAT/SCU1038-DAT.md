@@ -30,4 +30,4 @@
 
 - https://www.electrodragon.com/product/tec1-12706-thermoelectric-peltier-cooler-12v-60w/
 
-- [[cooling]] - [[Peltier]] - [[SCU1038]]
+- [[cooling]] - [[Peltier-dat]] - [[SCU1038]]

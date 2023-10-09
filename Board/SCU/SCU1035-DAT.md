@@ -4,6 +4,6 @@
 
 ## ref 
 
-- [[Peltier]]
+- [[Peltier-dat]]
 
 

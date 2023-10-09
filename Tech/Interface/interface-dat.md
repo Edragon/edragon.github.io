@@ -28,7 +28,9 @@
 
 [[USB-TTL-dat]] breakout 
 
-
+- PL2303 [[DPR1041-dat]] - CH340 [[DPR1042-dat]]
+- CP2102 - [[DPR1003-dat]], [[DPR1002-DAT]]
+- 4x channels - [[DPR1120-dat]]
 
 ## Boards with breakout boards
 
