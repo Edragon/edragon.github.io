@@ -13,3 +13,4 @@
 [[LGT8F328-DAT]] - [[DAR1056-DAT]] - [[CIC1053-dat]] - [[NWL1097-dat]]
 
 
+- [[tech-dat]]

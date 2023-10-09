@@ -9,7 +9,9 @@
 
 
 
+
 ## ref 
+- https://www.electrodragon.com/product/pl2303ta-usb-ttl-usb-serial-cable-win-88-1-compatible/
 - [[PL2303-DAT]]
 - [[USB-TTL]]
 

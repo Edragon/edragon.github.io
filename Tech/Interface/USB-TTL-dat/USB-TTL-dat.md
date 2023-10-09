@@ -1,6 +1,8 @@
 
 # USB TTL Dat 
 
+## Usage 
+
 from the perspective of the cable to the perspective of the target
 
 - Green = TXD -> target RXD  
@@ -15,7 +17,8 @@ from the perspective of the cable to the perspective of the target
 
 ## Product links 
 
-- PL2303 - https://www.electrodragon.com/product/pl2303ta-usb-ttl-usb-serial-cable-win-88-1-compatible/
+- PL2303 - [[DPR1041-dat]] 
+- CH340 - [[DPR1042-dat]]
 
 
 ## Use case 

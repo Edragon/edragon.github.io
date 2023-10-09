@@ -25,3 +25,6 @@
 
 - A / B reversed wiring = incorrect error data 
 
+## Boards 
+
+- [[DPR1060-dat]]
