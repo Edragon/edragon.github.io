@@ -1,5 +1,8 @@
 # thermocouple-dat
 
+- also named RTD sensor 
+
+
 - [legacy wiki page](https://w.electrodragon.com/w/Category:RTD_Sensor) - https://w.electrodragon.com/w/Category:RTD_Sensor
 
 

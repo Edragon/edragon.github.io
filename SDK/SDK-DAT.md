@@ -11,4 +11,4 @@
 - [[micropython-dat]]
 
 
-- [[LGT-SDK-DAT]] - [[WCH-DAT]]
+- [[LGT-SDK-DAT]] - [[WCH-SDK-DAT]]

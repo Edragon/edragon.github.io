@@ -28,6 +28,9 @@
 Industrial 
 - [[Peltier-dat]]
 
+### Sensors 
+
+- [[thermocouple-dat]] - [[thermostat-dat]]
 
 ## Code 
 - [[arduino-ide-dat]]

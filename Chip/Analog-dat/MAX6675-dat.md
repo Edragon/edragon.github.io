@@ -19,3 +19,4 @@ The MAX6675 has the following features:
 The MAX6675 is discontinued and replaced with the MAX31855. 
 
 
+https://www.electrodragon.com/product/max6675-breakout-board-for-thermocouple-genius-ic/
