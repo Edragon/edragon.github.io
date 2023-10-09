@@ -4,6 +4,7 @@
 - [[WCH-SDK-dat]]
 
 
-- [[wchlink-dat]]
+- please read most documentation here [[wchlink-dat]]
+
 
 - [[CH32V003-dat]]

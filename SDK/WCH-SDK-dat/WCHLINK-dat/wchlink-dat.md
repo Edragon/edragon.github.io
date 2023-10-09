@@ -13,7 +13,8 @@ Keils 识别不到的需要更新 Keil 版本至 5.25 以上
 | ARM    | 空闲时蓝灯常亮 | Keil             | 支持 SWD 协议的 ARM 核芯片             |
 
 
-Mode switching: 
+### Mode switching
+
 - When Tx is connected to GND, plug the WCH-Link into the USB interface to switch the mode and keep it in this mode the next time it is plugged into the USB interface.
 - Example: 
 - When the current WCH-Link is idle, the blue light is always off, indicating that it is in RISC-V mode; after powering off, short-circuit Tx and GND and plug it into the USB interface, and the mode is switched to ARM. At this time, the blue light is always on when idle; Turn on Tx and GND, and it will still be in ARM mode the next time you plug in the USB interface.
@@ -30,6 +31,11 @@ Mode switching:
 ## Boards 
 
 - [[CH32V003-dat]]
+
+## reprogram demo video 
+
+- https://www.youtube.com/watch?v=JZMW4eqRBXw&ab_channel=ChowHe
+
 
 ## Info 
 
