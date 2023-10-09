@@ -4,6 +4,10 @@
 
 Keils 识别不到的需要更新 Keil 版本至 5.25 以上
 
+- [CN userManual](https://www.wch.cn/downloads/WCH-LinkUserManual_PDF.html)
+- [EN userManual](https://www.wch-ic.com/downloads/WCH-LinkUserManual_PDF.html)
+
+
 
 ## Mode
 
@@ -30,7 +34,14 @@ Keils 识别不到的需要更新 Keil 版本至 5.25 以上
 
 ## Boards 
 
-- [[CH32V003-dat]]
+- NOT supported board - [[CH32V003-dat]]
+
+
+## Functions and Supported Chips 
+
+![](2023-10-09-18-11-20.png)
+
+![](2023-10-09-18-11-36.png)
 
 ## reprogram demo video 
 

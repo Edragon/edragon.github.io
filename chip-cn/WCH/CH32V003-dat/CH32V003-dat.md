@@ -31,6 +31,23 @@
 - After decompression, in MounRiver File -> Load -> Project, open GPIO_Toggle.wvproj in the EVT\EXAM\GPIO\GPIO_Toggle directory
 - Just press Shift + F7 or compile through the toolbar button. If the compilation is normal, it will be displayed.
 
+## Note
+
+### Not supported by WCH-LINK
+
+    ------------ Begin flash process of "obj\GPIO_Toggle.hex" ------------ 
+    18:05:29:565 >> Current project vendor is WCH, debugger is WCH-Link
+
+    18:05:29:565 >> Attempt to open link device and upgrade firmware if necessary...
+    18:05:29:621 >> Link Device is CH549. Already the latest version v2.10, no need to upgrade
+
+    18:05:29:693 >> Starting to Handle Operations...
+    18:05:29:720 >> Current WCH-Link doesn't support this chip.
+    Current WCH-Link doesn't support this chip. Please refer to "WCH-LinkUserManual.pdf" for more help.
+
+    18:05:29:720 >> Starting to Close Link...
+    18:05:29:720 >> Close Link Success
+    ---------------------------------End ---------------------------------
 
 
 ## ref 
