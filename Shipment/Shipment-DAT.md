@@ -3,7 +3,7 @@
 
 ## Important Note 
 
-- **Brazil, Chile, Argentina**, customers please MUST provide tax id / or personal ID number for shipment 
+- **Brazil, Chile, Argentina, South Africa**, customers please MUST provide tax id / or personal ID number for shipment 
 
 ## Shipping Details 
 

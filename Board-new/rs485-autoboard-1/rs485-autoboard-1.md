@@ -15,6 +15,9 @@
 
 ![](2023-10-09-16-43-05.png)
 
+![](2023-10-10-15-21-19.png)
+
+
 Left Side Pins 
 - A
 - 5V
@@ -43,3 +46,8 @@ Right Side Pins
 ## schematic 
 
 ![](2023-09-05-17-54-11.png)
+
+
+## ref 
+
+- eagle CAD file 
