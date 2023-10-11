@@ -27,7 +27,7 @@
 
 ### Power 
 
-- [[battery-drainer-dat]]
+- [[battery-drainer-dat]] - [[acdc-dat]]
 
 Industrial / Sensor 
 - [[Peltier-dat]]
