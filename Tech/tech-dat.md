@@ -21,6 +21,9 @@
 
 ## Tech
 
+### Network
+[[network-dat]]
+
 - [[RF-DAT]]
 
 - [[LTE]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
@@ -29,12 +32,17 @@
 
 - [[battery-drainer-dat]] - [[acdc-dat]]
 
-Industrial / Sensor 
-- [[Peltier-dat]]
+
+### Interactive
+
+- [[LED-dat]] - [[LED-strip-dat]]
 
 ### Sensors 
+Industrial / Sensor - [[sensor-dat]]
 
-- [[thermocouple-dat]] - [[thermostat-dat]]
+- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]]
+
+
 
 ## Code 
 - [[arduino-ide-dat]]
