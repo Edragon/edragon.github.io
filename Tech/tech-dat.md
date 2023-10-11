@@ -25,7 +25,11 @@
 
 - [[LTE]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 
-Industrial 
+### Power 
+
+- [[battery-drainer-dat]]
+
+Industrial / Sensor 
 - [[Peltier-dat]]
 
 ### Sensors 
