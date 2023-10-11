@@ -10,6 +10,8 @@
 | MOSI | io 23 | 13      |
 | GND  | GND   |         |
 
+
+
 SPI arduino define
 
     #define VSPI_MISO   MISO
