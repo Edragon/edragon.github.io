@@ -31,6 +31,9 @@ SAMD21
 
 - [[DPR1126-dat]]
 
+[[USB-TTL-dat]] - [[DPR1029-dat]]
+
+
 ### IDD
 
 - [[IDD1013-DAT]] - [[IDD1016-DAT]]

@@ -22,6 +22,8 @@ from the perspective of the cable to the perspective of the target
 
 - CP2102 - [[DPR1003-dat]], [[DPR1002-DAT]]
 
+- FT232RL - [[DPR1029-dat]]
+
 - 4x channels - [[DPR1120-dat]]
 
 ## Use case 
