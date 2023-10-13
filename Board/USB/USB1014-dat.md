@@ -5,9 +5,4 @@ https://www.electrodragon.com/product/android-host-interface-board-ch9343g/
 
 Android Host Interface Board CH9343G
 
-- [[USB1014-dat]]
-
-made 
-
-2021-08-02 17:20:36 订单编号：Y500
-9343
+- [[USB1014]]

@@ -3,7 +3,11 @@
 ## Boards 
 
 ### USB
-- [[USB1000-dat]] - [[USB1003-dat]] - [[USB1006-dat]]
+- [[USB1000-dat]] - [[USB1003-dat]]
+
+- USB-HID - [[USB1006-dat]] 
+- OTG - [[USB1010-dat]]
+- Android HOST - [[USB1014-dat]]
 
 ### CCO 
 - [[CCO3626-dat]] - [[CCO3627-dat]]
