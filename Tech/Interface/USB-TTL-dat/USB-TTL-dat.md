@@ -18,7 +18,7 @@ from the perspective of the cable to the perspective of the target
 ## Product links 
 
 - PL2303 - [[DPR1041-dat]] 
-- CH340 - [[DPR1042-dat]]
+- CH340 - [[DPR1042-dat]] - [[DPR1039-dat]]
 
 - CP2102 - [[DPR1003-dat]], [[DPR1002-DAT]]
 
