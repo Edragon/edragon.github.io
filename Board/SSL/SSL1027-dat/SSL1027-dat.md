@@ -2,7 +2,12 @@
 # SSL1027-dat
 
 
+
+
 ## Pin Configuration
+
+
+![](2023-10-16-16-22-18.png)
 
 * GND - GND
 * VCC - VCC, 3-12V, DC, use 5V directly is fine
