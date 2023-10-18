@@ -1,8 +1,12 @@
 
 # STH1054-dat 
 
+- MQ-3 Alcohol Ethanol Gas Sensor Detector Module
+
 - [legacy wiki page](https://w.electrodragon.com/w/MQ_series)
 - [product link](https://www.electrodragon.com/product/mq-3-alcohol-ethanol-gas-sensor-module/)
+
+
 ## Application 
 
 It is used for on-site detection of motor vehicle drivers and other people who are strictly prohibited from operating under the influence of alcohol. It is also used for the detection of ethanol vapor in other places.
