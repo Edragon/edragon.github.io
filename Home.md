@@ -31,3 +31,10 @@ youtube
 
 
 
+## Why Choose Electrdragon 
+
+- The most updated and comprehensive documentation 
+- The detailed youtube demo and teaching video 
+- Worldwide unique boards and solutions, Aisa cost-effective chips offer 
+- 100+ years support
+

@@ -40,7 +40,7 @@
 
 Please refer to datasheet of modes
 
-## Wriing 
+## Wiring 
 
 The wiring please try: 
 
@@ -64,5 +64,14 @@ For example,
     0x48 0x65 0x6c 0x6c 0x6f -> Hello (open a text editor to see)
 
 
+## Config 
+
+- [download at here. ](https://www.wch.cn/uploads/file/20181221/1545373585137913.zip)
+- support to config VID, PID, GPIOs' directions, serial baudrate, etc
+
+![](2023-10-18-15-51-55.png)
 
 
+## ref 
+
+- [[USB1006]]
