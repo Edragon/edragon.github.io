@@ -1,11 +1,79 @@
 # shipment by country
 
+## shipment-country-2-dat
+
+| country        | update | Zone                | normal & expendiated         | express                            | prerequisite   |
+| -------------- | ------ | ------------------- | ---------------------------- | ---------------------------------- | -------------- |
+|                |        |                     |                              |                                    |                |
+|                |        |                     |                              |                                    |                |
+| Australia      |        | [[Australia]]       | [[AU-RPOST]]                 |                                    |                |
+| Canada         |        | [[America-North]]   | [[CAEXPRESS]]                |                                    |                |
+| United States  |        | [[America-North]]   | [[USPS-dat]]                 | [[SZFEDEX-IP]] / [[HKUPS]]         |                |
+| India          |        | [[asia]]            | -                            | [[HKDHLX]]                         |                |
+| Hungray        | 09-06  | [[Europe]]          | [[EUEX-V]]                   | [[SZFEDEX-IP]]                     |                |
+| Brazil         |        | [[America-South]]   | [[BREXPRESS]]                | ~~[[HKDHL-BA]] / [[HKFEDEXIP-C]]~~ | tax_id needed! |
+| United Kingdom | 06-07  | [[Europe]]          | [[CZUK]] / [[YODEL-UK]]      |                                    |                |
+| Kazakhstan     | 06-02  | [[asia]]            | [[DGEUB]]                    |                                    |                |
+| Belgium        | 09-06  | [[Europe]]          | [[EUEX-V]]                   | [[SZFEDEX-IP]]                     |                |
+| Czech Republic |        | [[Europe]]          | [[EUEX-V]]                   |                                    |                |
+| Denmark        |        | [[Europe]]          | [[EUEX-V]]                   | [[HKDHL-BA]]                       |                |
+| Netherlands    |        | [[Europe]]          | [[EUEX-V]]                   | [[SZFED-PAK]]                      | -              |
+| Poland         | 06-09  | [[Europe]]          | [[EUEX-V]]                   |                                    |                |
+| Sweden         | 06-02  | [[Europe]]          | [[EUEX-V]]                   |                                    |                |
+| Austria        |        | [[Europe]]          | [[EUEX-V]]                   |                                    |                |
+| Solvenia       |        | [[Europe]]          | [[EUEX-V]]                   |                                    |                |
+| Romania        | 10-18  | [[Europe]]          | [[EURPOST]]                  |                                    |                |
+| Bulgaria       | 06-07  | [[Europe]]          | [[EURPOST]]                  |                                    |                |
+| Latvia         | 06-02  | [[Europe]]          | [[EURPOST]]                  |                                    |                |
+| Malta          |        | [[Europe]]          | [[EURPOST]]                  | -                                  | -              |
+| Cyprus         |        | [[Europe]]          | [[EURPOST]]                  |                                    |                |
+| Finland        |        | [[Europe]]          | [[EURPOST]]                  | [[SZFED-PAK]] / [[SZFEDEX-IP]]     | -              |
+| Greece         |        | [[Europe]]          | [[EURPOST]]                  | [[SZFED-PAK]]                      |                |
+| Norway         | 06-20  | [[Europe]]          | [[EURPOST]]                  |                                    |                |
+| Switzerland    | 06-15  | [[Europe]]          | [[EURPOST]] ~~[[SWRPOST]]~~  |                                    |                |
+| South Africa   | X      | [[Africa]]          | [[EURPOST]] << [[ZAEXPRESS]] |                                    | tax_id needed! |
+| Malaysia       | 06-15  | [[asia]]            | [[MYEXPRESS-BA]]             |                                    |                |
+| Costa Rica     | 06-09  | [[America-Central]] | [[NLRPOST]]                  | [[SZFED-PAK]]                      |                |
+| Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                  | [[SZFEDEX-IP]]                     |                |
+| Korea          | 06-30  | [[asia]]            | [[PFCEXPRESS]]               | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   |                |
+| Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]               | ~~[[SZFED-PAK]] / [[HKDHLX]]~~     | tax_id needed! |
+| Vietam         |        | [[asia]]            | [[VNEXPRESS]]                |                                    | -              |
+
+### Note
+
+**tax_id needed!**: please always provide your tax id number for shipment
+
+**express option**:
+
+- normally delivery time 5-10 days
+- normally FEDEX, DHL and UPS
+
+**normal & expendiated option**:
+
+- normally delivery time 7-25 days
+- but this is for referential only, some countries may up to 60 days
+
+## Shiping Options
+
+| Option        | type          | scope     | Customs               | Details |
+| ------------- | ------------- | --------- | --------------------- | ------- |
+| [[SZFED-PAK]] | express       | worldwide | pay-by-you            |         |
+| [[EUEX-V]]    | expendiated   | europe    | no-guaranteed prepaid |         |
+| [[NLRPOST]]   | reliable-post | worldwide |                       |         |
+|               |               |           |                       |         |
+|               |               |           |                       |         |
+|               |               |           |                       |         |
+|               |               |           |                       |         |
+|               |               |           |                       |         |
+
+## old
+
 | country        | update | method           | details | category    | System              |                                                         |
 | -------------- | ------ | ---------------- | ------- | ----------- | ------------------- | ------------------------------------------------------- |
 |                |        |                  |         |             |                     |                                                         |
 |                |        |                  |         |             |                     |                                                         |
 |                |        |                  |         |             |                     |                                                         |
-| Romania        | 10/18  | [[EURPOST]]          |         | expendiated |                     |                                                         |
+| Romania        | 10/18  | [[EURPOST]]      |         | expendiated |                     |                                                         |
 | Belgium        | 09/06  | SZFEDEX-IP       |         | express     |                     |                                                         |
 | Hungray        | 09/06  | SZFEDEX-IP       |         | express     |                     |                                                         |
 | Chile          | 09/06  | HKDHLX           | tax_id  | express     |                     |                                                         |
