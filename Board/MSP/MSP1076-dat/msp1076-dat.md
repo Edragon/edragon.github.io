@@ -50,4 +50,6 @@ Right Side Pins
 
 ## ref 
 
+- [[interface-dat]] - [[msp1076]]
+
 - eagle CAD file 

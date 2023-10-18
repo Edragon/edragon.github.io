@@ -2,6 +2,8 @@
 
 # EURPOST
 
+- [[ZAEXPRESS]]
+
 皇邮宝带电价（EURPOST）渠道介绍
 
 渠道线路：	

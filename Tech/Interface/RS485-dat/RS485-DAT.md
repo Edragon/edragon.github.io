@@ -27,4 +27,4 @@
 
 ## Boards 
 
-- [[DPR1060-dat]]
+- [[DPR1060-dat]] - [[MSP1076-dat]]
