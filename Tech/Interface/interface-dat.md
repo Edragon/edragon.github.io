@@ -45,4 +45,6 @@ For Raspberry Pi
 
 ## REF 
 
+- github eagle CAD footprint repository - [[eagle-cad-dat]]
+
 - [[CAN]]

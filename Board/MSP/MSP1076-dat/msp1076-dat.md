@@ -19,12 +19,12 @@
 
 
 Left Side Pins 
-- A
+- A (not mark)
 - 5V
 - RXD
 - TXD
 - GND
-- B
+- B (not mark)
 
 Right Side Pins 
 - A
@@ -38,10 +38,6 @@ Right Side Pins
 - Lightning protection
 
 
-## Features 
-
-- [[MAX13487-dat]]
-
 
 ## schematic 
 
@@ -50,6 +46,6 @@ Right Side Pins
 
 ## ref 
 
-- [[interface-dat]] - [[msp1076]]
+- [[interface-dat]] - [[msp1076]] - [[MAX13487-dat]]
 
 - eagle CAD file 
