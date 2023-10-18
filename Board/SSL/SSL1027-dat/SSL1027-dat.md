@@ -48,6 +48,8 @@ https://w.electrodragon.com/w/LM567
 
 
 ## Demo 
+
+- new - https://youtube.com/shorts/KJCgCbb6NGQ?si=vd_X2q7l4S0wWLOf
 - https://www.youtube.com/watch?v=ChL9mMirgk4
 - https://twitter.com/electro_phoenix/status/1497890295253389314
 - https://t.me/electrodragon3/215

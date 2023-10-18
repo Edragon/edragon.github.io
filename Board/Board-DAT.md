@@ -171,7 +171,7 @@ battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
 - [[STM1004-DAT]]
   
 ### SSL 
-- [[SSL1075-DAT]]
+- [[SSL1027-dat]] - [[SSL1075-DAT]]
   
 ### SVC
 - [[SVC1015-DAT]] - [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1039-DAT]]

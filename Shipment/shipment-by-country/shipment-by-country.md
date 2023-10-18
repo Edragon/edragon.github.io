@@ -5,7 +5,7 @@
 |                |        |                  |         |             |                     |                                                         |
 |                |        |                  |         |             |                     |                                                         |
 |                |        |                  |         |             |                     |                                                         |
-|                |        |                  |         |             |                     |                                                         |
+| Romania        | 10/18  | [[EURPOST]]          |         | expendiated |                     |                                                         |
 | Belgium        | 09/06  | SZFEDEX-IP       |         | express     |                     |                                                         |
 | Hungray        | 09/06  | SZFEDEX-IP       |         | express     |                     |                                                         |
 | Chile          | 09/06  | HKDHLX           | tax_id  | express     |                     |                                                         |
