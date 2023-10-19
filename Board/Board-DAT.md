@@ -71,7 +71,7 @@ RPI LCD
 Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 
 ### MSP 
-- [[MSP1061-DAT]]
+- [[MSP1061-DAT]] - [[MSP1076-dat]]
 
 ### NBL 
 - [[NBL1089-DAT]]

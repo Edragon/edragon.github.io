@@ -1,5 +1,7 @@
 
-# RS485 auto board 1 
+# MSP1076-dat
+
+RS485 auto board 1 
 
 ## Board Features 
 
@@ -48,4 +50,4 @@ Right Side Pins
 
 - [[interface-dat]] - [[msp1076]] - [[MAX13487-dat]]
 
-- eagle CAD file 
+- [[eagle-cad-dat]]

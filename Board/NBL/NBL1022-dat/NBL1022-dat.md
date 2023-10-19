@@ -2,6 +2,9 @@
 
 - [legacy wiki page](https://w.electrodragon.com/w/Category:BC-04)
 
+https://www.electrodragon.com/product/lc-05-bluetooth-serial-moduel-masterslave-in-one/
+
+
 ## Base Board Pin Definitions
 
 ![](2023-10-19-13-27-25.png)
@@ -41,3 +44,8 @@ Mode
 ## Demo Video 
 
 - [Please see here.](https://www.youtube.com/watch?v=CmMGhHMciu8)
+
+
+## ref 
+
+- [[NBL1022]]
