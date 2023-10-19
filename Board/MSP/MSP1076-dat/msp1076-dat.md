@@ -48,6 +48,8 @@ Right Side Pins
 
 ## ref 
 
-- [[interface-dat]] - [[msp1076]] - [[MAX13487-dat]]
+- demo video and other protocols documentation please see here [[interface-dat]] 
+
+- [[msp1076]] - [[MAX13487-dat]]
 
 - [[eagle-cad-dat]]
