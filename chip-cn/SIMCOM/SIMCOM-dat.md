@@ -4,7 +4,9 @@
 ## boards 
 
 - [[SIM800-dat]] - [[NGS1070-dat]] - [[NGS1071-dat]] - [[NGS1074-dat]]
-  
+
+- [[NGS1072-dat]]
+
 - [[SIM868-dat]]
   
 - [[A7670-dat]]
