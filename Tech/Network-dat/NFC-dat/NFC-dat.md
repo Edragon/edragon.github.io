@@ -1,6 +1,13 @@
 
 # NFC-dat 
 
+
+- [legacy wiki page ](https://w.electrodragon.com/w/Category:NFC)
+
+
+
+## NFC Type and Specs 
+
 ### NFC Forum Type 1 Tag Operation Specification
 Type 1 tag is based on ISO14443A. Tags are read and re-write capable; users can configure the tag to become read-only. Memory availability is 96 bytes and expandable to 2 kbyte; communication speed is 106 kbit/s.
 
@@ -15,4 +22,10 @@ Type 4 tag is fully compatible with ISO14443A and B standards. Tags are pre-conf
 
 ### About Near Field Communication Technology
 Near Field Communication (NFC) is a standards-based, short-range wireless connectivity technology that enables simple and safe two-way interactions among electronic devices. NFC technology allows consumers to perform contactless transactions, access digital content and connect devices with the simplicity of a single touch.
+
+## NFC Forum Type 5
+
+
+* [ST25DV](https://w.electrodragon.com/w/ST25DV)
+
 
