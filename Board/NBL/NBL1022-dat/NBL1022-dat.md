@@ -6,6 +6,15 @@
 
 ![](2023-10-19-13-27-25.png)
 
+from left to right from front side 
+- GND
+- +5V
+- 3V3
+- TXD
+- RXD
+- Clear - clear the pairing status
+
+
 ## Backside Jumper Setup Mode:
 
 ![](2023-10-19-13-23-35.png)
@@ -24,10 +33,10 @@ Bottom jumper set hardware / software method for slave / master mode, Default se
 ## Note 
 
 Wiring 
-
 - Board RXD -> target RXD, board TXD -> target TXD
 
-
+Mode
+- Be aware default setting of the product is slave mode, communication only available between master and slave mode, but not master and master, or slave and slave mode.
 
 ## Demo Video 
 
