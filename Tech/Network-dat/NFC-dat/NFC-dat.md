@@ -4,6 +4,9 @@
 
 - [legacy wiki page ](https://w.electrodragon.com/w/Category:NFC)
 
+## Boards 
+
+- [[NID1026-dat]] - [[NID1017-dat]]
 
 
 ## NFC Type and Specs 
