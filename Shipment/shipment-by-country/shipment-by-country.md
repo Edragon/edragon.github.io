@@ -3,17 +3,16 @@
 ## shipment-country-2-dat
 
 | country        | update | Zone                | normal & expendiated         | express                            | prerequisite   |
-| -------------- | ------ | ------------------- | ---------------------------- | ---------------------------------- | -------------- |
+|----------------|--------|---------------------|------------------------------|------------------------------------|----------------|
 |                |        |                     |                              |                                    |                |
 |                |        |                     |                              |                                    |                |
-| Spain          |        |                     | [[EUEX-V]]                   | [[SZFED-PAK]]                      |                |
-| Mexico         |        | [[America-South]]   | [[MXEXPRESS]]                |                                    |                |
 | India          |        | [[asia]]            | -                            | [[HKDHLX]]                         |                |
 | Australia      |        | [[Australia]]       | [[AU-RPOST]]                 |                                    |                |
 | Brazil         |        | [[America-South]]   | [[BREXPRESS]]                | ~~[[HKDHL-BA]] / [[HKFEDEXIP-C]]~~ | tax_id needed! |
 | Canada         |        | [[America-North]]   | [[CAEXPRESS]]                |                                    |                |
 | United Kingdom | 06-07  | [[Europe]]          | [[CZUK]] / [[YODEL-UK]]      |                                    |                |
 | Kazakhstan     | 06-02  | [[asia]]            | [[DGEUB]]                    |                                    |                |
+| Spain          |        |                     | [[EUEX-V]]                   | [[SZFED-PAK]]                      |                |
 | Portugal       |        | [[Europe]]          | [[EUEX-V]]                   | [[SZFED-PAK]]                      |                |
 | Hungray        | 09-06  | [[Europe]]          | [[EUEX-V]]                   | [[SZFEDEX-IP]]                     |                |
 | Belgium        | 09-06  |                     | [[EUEX-V]]                   | [[SZFEDEX-IP]]                     |                |
@@ -32,12 +31,13 @@
 | Finland        |        | [[Europe]]          | [[EURPOST]]                  | [[SZFED-PAK]] / [[SZFEDEX-IP]]     | -              |
 | Greece         |        | [[Europe]]          | [[EURPOST]]                  | [[SZFED-PAK]]                      |                |
 | Norway         | 06-20  | [[Europe]]          | [[EURPOST]]                  |                                    |                |
+| Mexico         |        | [[America-South]]   | [[EURPOST]] << [[MXEXPRESS]] |                                    |                |
 | South Africa   | X      | [[Africa]]          | [[EURPOST]] << [[ZAEXPRESS]] |                                    | tax_id needed! |
 | Switzerland    | 06-15  | [[Europe]]          | [[EURPOST]] ~~[[SWRPOST]]~~  |                                    |                |
 | Malaysia       | 06-15  | [[asia]]            | [[MYEXPRESS-BA]]             |                                    |                |
 | Costa Rica     | 06-09  | [[America-Central]] | [[NLRPOST]]                  | [[SZFED-PAK]]                      |                |
 | Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                  | [[SZFEDEX-IP]]                     |                |
-| Korea          | 06-30  | [[asia]]            | [[PFCEXPRESS]]               | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   |                |
+| Korea          | 06-30  | [[asia]]            | [[EURPOST]] / [[PFCEXPRESS]]               | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   |                |
 | Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]               | ~~[[SZFED-PAK]] / [[HKDHLX]]~~     | tax_id needed! |
 | United States  |        | [[America-North]]   | [[USPS-dat]]                 | [[SZFEDEX-IP]] / [[HKUPS]]         |                |
 | Vietam         |        | [[asia]]            | [[VNEXPRESS]]                |                                    | -              |
