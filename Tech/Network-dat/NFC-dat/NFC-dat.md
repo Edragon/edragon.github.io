@@ -8,6 +8,11 @@
 
 - [[NID1026-dat]] - [[NID1017-dat]]
 
+## Chips 
+
+- [[PN532-dat]]
+
+
 
 ## NFC Type and Specs 
 

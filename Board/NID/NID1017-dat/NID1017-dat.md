@@ -11,4 +11,4 @@ https://www.electrodragon.com/product/pn532-nfc-rfid-easy-module-r2/
 
 
 
-- [[nfc-dat]]
+- [[nfc-dat]] - [[PN532-dat]]
