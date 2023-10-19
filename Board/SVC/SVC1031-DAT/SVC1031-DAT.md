@@ -1,6 +1,6 @@
 # SVC1031 DAT
 
-- legacy wiki page: https://w.electrodragon.com/w/Category:Energy_Meter#Documents
+- [legacy wiki page](https://w.electrodragon.com/w/Category:Energy_Meter#Documents)
 - https://www.electrodragon.com/product/energy-meter-hlw8032-breakout-board/
 
 ## Pin Definitions
