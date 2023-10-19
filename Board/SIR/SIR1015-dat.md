@@ -1,7 +1,7 @@
 # SIR1015-dat
 
 - [legacy wiki page](https://w.electrodragon.com/w/EDIR)
-
+- more documentation please see legacy wiki page
 
 ## Data output
 
@@ -34,3 +34,12 @@
 - Data - Send out data as input, direct send decoded signal part as command,  "FA ... ED"
 
 
+## Note 
+
+- Fixed frequency mode can sense most device, command is FA FD. Audo frequency mode will be much more complex to use.
+
+
+## Demo 
+
+- [demo video youtube please see here.](https://www.youtube.com/watch?v=Zv19LSpA8Uc&ab_channel=Electrodragon)
+- control on/off a fan by infrared controller, by copy and resend the infrared command
