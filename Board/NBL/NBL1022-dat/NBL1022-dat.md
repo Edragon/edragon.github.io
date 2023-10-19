@@ -19,3 +19,16 @@ Bottom jumper set hardware / software method for slave / master mode, Default se
 
 - Top jumper set for slave / master mode.
 - If you prefer to use software method by AT commands to change slave / mater mode, cut the bottom jumper connection (GND - middle pin), then re-connect to top by solder (VCC-middle pin).
+
+
+## Note 
+
+Wiring 
+
+- Board RXD -> target RXD, board TXD -> target TXD
+
+
+
+## Demo Video 
+
+- [Please see here.](https://www.youtube.com/watch?v=CmMGhHMciu8)
