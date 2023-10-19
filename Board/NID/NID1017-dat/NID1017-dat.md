@@ -1,6 +1,9 @@
 
 # NID1017-dat
 
+
+PN532 NFC/RFID card read development board
+
 PN532 NFC RFID Easy Module R2
 
 https://www.electrodragon.com/product/pn532-nfc-rfid-easy-module-r2/
