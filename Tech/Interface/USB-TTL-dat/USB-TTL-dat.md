@@ -68,6 +68,12 @@ software [[com-monitor-dat]]
 
 - [[ESP-SDK-dat]]
 
+## Compatibility 
+
+replaceable 
+- [[CP2102-dat]] - [[CP2104-dat]]
+
+
 
 ## other interface 
 - [[RS485-DAT]] - [[RS232-dat]] - [[I2C-dat]]
