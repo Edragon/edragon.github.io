@@ -2,6 +2,11 @@
 
 ## Board Pin Definitions
 
+### Version V2 
+
+![](2023-10-20-16-11-07.png)
+
+### Version V1
 ![](2023-09-26-15-08-07.png)
 
 ## Pin Definitions Template
@@ -51,3 +56,10 @@
 - [[ESP32-dat]]
 
 - [[ESP32-ISO]]
+
+- [[interface-dat]]
+
+
+## Demo video 
+
+- RS485 / RS422 / RS232 / CAN brekaout board with ESP32 ISO Board test - [youtube here](https://www.youtube.com/watch?v=ea_zn8Yjx-0&t=3s&ab_channel=Electrodragon).
