@@ -1,10 +1,6 @@
+# SVC1015 DAT
 
-# SVC1015 DAT 
-
-
-
-## Info 
-
+## Info
 
 - [legacy wiki page](https://w.electrodragon.com/w/Voltmeter_Ammeter)
 
@@ -12,17 +8,49 @@
 - Current test range 0-10A
 - Power supply range DC4-30.0V (if the voltage exceeds 30V, an external independent power supply is required)
 
-
 ![](2023-10-20-17-34-13.png)
 
+![](2023-10-20-17-45-11.png)
 
-## Shunt 
+
+## Version 
+
+10A with internal shunt 
+
+![](2023-10-20-17-50-17.png)
+
+50/100A external shunt 
+
+![](2023-10-20-17-50-59.png)
+
+## Specs
+
+| Specs                         | data                                         |
+| ----------------------------- | -------------------------------------------- |
+| Voltage measurement range     | 0.0V-100V                                    |
+| Current test range            | 0-10A, 0-50A, 0-100A (3 ranges available)    |
+| Power supply range            | Note: DC4-30.0V (note1)                      |
+| voltage error                 | ±0.1%                                        |
+| Current error                 | ±1%                                          |
+| External shunt specifications | 75 milliohms                                 |
+| Working current               | < 20mA                                       |
+| Refresh speed                 | About 300mS once                             |
+| Display method                | Double three digit 0.28" LED digital tube    |
+| Display color                 | Red + red, red + blue. Optional              |
+| Lead length                   | 15cm                                         |
+| Dimensions                    | 48 x 29 x 22 mm, length x width x thickness; |
+| Mounting holes                | 46x27mm                                      |
+| net weight                    | g                                            |
+| gross weight                  | g                                            |
+| Operating temperature         | -10℃~65℃                                     |
+
+- note1 = if the voltage exceeds 30V, an external independent power supply is required
+
+## Shunt
 
 Note: There is a meter with a shunt. The two thick red wires on the meter must be connected to the thin screws of the shunt. The negative pole of the power supply and the negative pole of the load must be connected to the thick screws of the shunt.
 
-
-
-## FAQ 
+## FAQ
 
 The following summary is made for reference based on various questions that customers frequently ask:
 
@@ -58,8 +86,21 @@ When discharging: batteries, switching power supplies, and transformers are powe
 When charging: chargers, generators, and solar energy are the power sources, and rechargeable batteries and storage batteries are the loads.
 
 
+## Wiring 
+
+### 10A meter without shunt 
+
+depandent or indepandent power supply 
+
+![](2023-10-20-17-46-30.png)
+
+### 50/100A meter with shunt 
+
+depandent or indepandent power supply 
+
+![](2023-10-20-17-46-57.png)
 
 
-## ref 
+## ref
 
 - [[svc1015-dat]] - [[svc1017-dat]] - [[svc1019-dat]]
