@@ -44,7 +44,7 @@
 
 ## breakout daughter board
 
-- RS232 [[DPR1084-dat]] - RS485 [MSP1076-dat]] - DCDC [[OPM1153-dat]]
+- RS232 [[DPR1084-dat]] - RS485 [[MSP1076-dat]] - DCDC [[OPM1153-dat]]
 
 ## Use Guide
 
