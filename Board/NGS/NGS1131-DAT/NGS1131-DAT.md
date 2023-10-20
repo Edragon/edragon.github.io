@@ -2,6 +2,8 @@
 # NGS1131 DAT 
 
 - [[A7670-DAT]]
+- https://www.electrodragon.com/product/a7670-lte-cat-1-gsm-mini-module/?attribute_pa_simcom=a7670c
+
 
 ## Hardware
 

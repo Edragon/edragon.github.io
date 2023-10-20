@@ -2,6 +2,14 @@
 # SVC1019-dat 
 
 
-- [[SVC1019]]
+https://www.electrodragon.com/product/three-wires-dc-voltmeter-0-99-9v-wreverse-polarity-protection/
 
-https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-24881783314.9.3888546edtHsxT&id=36576674443
+
+
+
+## ref 
+
+- [[svc1015-dat]] - [[svc1017-dat]] - [[svc1019-dat]]
+
+
+- [[SVC1019]] - [[voltmeter]]
