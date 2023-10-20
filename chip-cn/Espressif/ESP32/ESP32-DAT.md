@@ -28,7 +28,11 @@ https://products.espressif.com/#/product-selector?language=en
 ## Chip Info 
 
 ### datasheet
-- esp32
+
+- chip datasheet
+- https://www.espressif.com.cn/sites/default/files/documentation/esp32_datasheet_en.pdf
+
+- esp32 technical_reference_manual CN
 - https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf
 
 - ESP32 Chip Revision v3.0 - User Guid

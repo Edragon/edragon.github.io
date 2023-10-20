@@ -52,13 +52,13 @@
 
 ## ref
 
-- [[inductive-load-dat]]
+- [[inductive-load-dat]] - [[interface-dat]]
 
 - [[ESP32-dat]]
 
 - [[ESP32-ISO]]
 
-- [[interface-dat]]
+
 
 ## Demo video
 

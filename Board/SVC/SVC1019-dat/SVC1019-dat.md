@@ -12,4 +12,4 @@ https://www.electrodragon.com/product/three-wires-dc-voltmeter-0-99-9v-wreverse-
 - [[svc1015-dat]] - [[svc1017-dat]] - [[svc1019-dat]]
 
 
-- [[SVC1019]] - [[voltmeter]]
+- [[SVC1019]] - [[power-sensor]]
