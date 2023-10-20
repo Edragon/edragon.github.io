@@ -43,7 +43,7 @@
 
 ## breakout daughter board
 
-- [[DPR1084-dat]] - [[rs485-autoboard-1]] - [[OPM1153-dat]]
+- RS232 [[DPR1084-dat]] - RS485 [MSP1076-dat]] - DCDC [[OPM1153-dat]]
 
 ## Use Guide
 
