@@ -2,11 +2,12 @@
 
 ## Board Pin Definitions
 
-### Version V2 
+### Version V2
 
 ![](2023-10-20-16-11-07.png)
 
 ### Version V1
+
 ![](2023-09-26-15-08-07.png)
 
 ## Pin Definitions Template
@@ -23,7 +24,7 @@
 | 26  | DAC          | IN4      |
 | 27  |              | OUT1     |
 | 14  |              | OUT2     |
-| 12  |              |          |
+| 12  | strapping    |          |
 | 13  |              | I2C      |
 | 15  | strapping    | I2C      |
 | 2   | strapping    |          |
@@ -59,7 +60,6 @@
 
 - [[interface-dat]]
 
-
-## Demo video 
+## Demo video
 
 - RS485 / RS422 / RS232 / CAN brekaout board with ESP32 ISO Board test - [youtube here](https://www.youtube.com/watch?v=ea_zn8Yjx-0&t=3s&ab_channel=Electrodragon).
