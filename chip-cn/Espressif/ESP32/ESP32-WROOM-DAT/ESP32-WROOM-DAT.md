@@ -33,6 +33,7 @@ Module interfaces
 ## Pin Definitions 
 
 ![](2023-09-26-15-11-35.png)
+
 ## Legacy Wiki Pages 
 
 - https://w.electrodragon.com/w/Category:ESP32
@@ -40,11 +41,12 @@ Module interfaces
 
 - [[ESP32-DAT]]
 
+## Datasheet 
 
-## ESP32-WROOM-32E DAT
+- [ESP32-WROOM-32E DAT EN](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
 
-https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-
+- [ESP32-WROOM-32D DAT CN](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_cn.pdf)
+- 
 6 Peripheral Schematics
 
 ### updates 
@@ -52,10 +54,6 @@ https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp3
 ![](11-27-01-08-02-2023.png)
 
 
-
-## ESP32-WROOM-32D DAT
-
-https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_cn.pdf
 
 
 

@@ -1,7 +1,7 @@
 
 # ESP32 HDK dat 
 
-
+- [[ESP32-WROOM-dat]]
 
 ## pins 
 
@@ -25,7 +25,7 @@
 
 ### SPI
 
-- [[ESP32-SPI-dat]]
+- [[ESP32-SPI-dat]] - [[ESP32-GPIOs-dat]] - [[ESP32-USB-dat]]
 
 ## Modules 
 
