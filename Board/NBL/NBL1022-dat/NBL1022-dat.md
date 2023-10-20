@@ -5,6 +5,10 @@
 https://www.electrodragon.com/product/lc-05-bluetooth-serial-moduel-masterslave-in-one/
 
 
+## SCH 
+
+![](2023-10-20-17-05-57.png)
+
 ## Base Board Pin Definitions
 
 ![](2023-10-19-13-27-25.png)
@@ -47,5 +51,7 @@ Mode
 
 
 ## ref 
+
+- based on module - [[NBL1018-dat]]
 
 - [[NBL1022]]
