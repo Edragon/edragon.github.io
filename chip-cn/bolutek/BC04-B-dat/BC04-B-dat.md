@@ -167,6 +167,17 @@ the cmd list
     For more information, please visit http://www.electrodragon.com
     Copyright@2012 www.electrodragon.com. All rights reserved.
 
+change role by commands 
+
+    +ROLE=0
+    OK
+
+Connect 
+
+    +CONNECTING<<3c:28:6d:05:c2:95
+    +RNAME=Pixel 3 XL
+    +CONNECTED
+
 
 
 ## ref 
