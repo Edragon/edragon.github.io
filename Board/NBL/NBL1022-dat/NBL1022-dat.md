@@ -4,6 +4,13 @@
 
 https://www.electrodragon.com/product/lc-05-bluetooth-serial-moduel-masterslave-in-one/
 
+## Features:
+
+- BQB certificated 
+- Master / Slave Mode supported 
+- classic bluetooth easy to use 
+
+
 
 ## SCH 
 
