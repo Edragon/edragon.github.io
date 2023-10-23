@@ -46,4 +46,4 @@ Data Output
 
 - data output please refer to [[HLW8032-dat]]
 
-- [[ACDC-RC_Buck-dat]] - [[MP150]]
+- [[ACDC-RC_Buck-dat]] - [[MP150-dat]]

@@ -1,6 +1,16 @@
 
 # MPS-ACDC-dat 
 
+## Chips 
+
+- [[MP150-dat]]
+- [[MP155-dat]]
+- [[MP156-dat]]
+- [[MP157-dat]]
+- [[MP161-dat]]
+- [[MP174-dat]]
+
+
 
 ## ref 
 
