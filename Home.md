@@ -1,6 +1,7 @@
 
 # Electrodragon Wiki V2 
 
+- this web application may encounter error "502 bad gateway", please visit 5 minutes later
 
 ## category 
 
