@@ -1,6 +1,9 @@
 
 # HLW8012-dat 
 
+- [legacy wiki page ](https://w.electrodragon.com/w/HLW8012)
+
+
 ### Hardware Design Note
 * Board AC Mains is be NOT isolated.
 * Better use optical-coupler to send isolated signal to your MCU. 
