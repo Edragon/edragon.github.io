@@ -18,9 +18,11 @@ Output Side
 
 - 5V
 - GND
-- Sel 
+- Sel - Configure the effective value output pin with pull-down
 - CF1
-- CF
+  - SEL = 0, output current, duty 50%
+  - SEL = 1, output voltage, duty 50%
+- CF: output the high freqency of the power use, 50% duty
 
 ## Calculatoin 
 
@@ -46,4 +48,4 @@ https://www.youtube.com/watch?v=0aiuwRB8Uic
 
 ## DS
 
-- [[File_HLW8012-HLW-REV1.3.pdf]]
+- [[HLW8012-HLW-REV1.3.pdf]]
