@@ -152,6 +152,8 @@ battery holder - [[OPM1189-dat]]
 
 battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
 
+[[energy-meter-dat]] - [[OPM1126-dat]]
+
 ### OPS 
 - [[OPS1009-DAT]]
   
