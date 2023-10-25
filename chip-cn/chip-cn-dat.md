@@ -1,7 +1,7 @@
 
 # chip cn dat 
 
-- [[ESP-HDK-DAT]]
+- [[ESP-DAT]]
   
 - [[SIMCOM-dat]]
 

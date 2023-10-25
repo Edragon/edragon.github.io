@@ -193,7 +193,7 @@ Battery charger - [[OPM1181-dat]]
 
 ## Board-REF
 
-- [[board-stock-out]]
+- [[board-stock-out]] - [[board-series-dat]]
 
 - [[tech-dat]]
 

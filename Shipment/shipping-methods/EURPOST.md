@@ -4,9 +4,27 @@
 
 - [[ZAEXPRESS]]
 
-皇邮宝带电价（EURPOST）渠道介绍
+## Note
 
-渠道线路：	
+## South Africa 
+
+
+### 申报要求：
+每公斤申报不得高于等于40美金，每公斤申报价值超过40美金，发件人承担申报价值50%税费。
+举例：0.2KG申报价值不能高于等于8美金；快件内禁止有任何商品标价牌、任何形式的发票、否则产生税金需额外支付；
+
+
+### Declaration requirements: 
+The declared value per kilogram shall not be higher than or equal to US$40. If the declared value per kilogram exceeds US$40, the sender shall bear 50% of the tax on the declared value.
+For example: the declared value of 0.2KG cannot be higher than or equal to US$8; any product price tags or invoices of any form are prohibited in the express, otherwise taxes will be paid additionally;
+
+### Example 
+- 1KG = 40U
+- 0.5KG = 20U
+
+## 皇邮宝带电价（EURPOST）渠道介绍
+
+## 渠道线路：	
 1. 美国：PFC-香港直飞LAX\JFK-商业清关-Lasership/ONTRAC/USPS/PIGGYCARS/UDS派送；    
 2. FR、SE、BE、DK、NL、LU、PL、PT、HU：PFC-香港直飞-邮政清关-Luxembourg Post派送；    
 3. 哥伦比亚：PFC-香港直飞LAX\JFK-BOG-商业清关-哥伦比亚 SkyPostal派送；    
@@ -18,24 +36,26 @@
 9. 韩国：PFC-香港直飞-商业清关-CJ Korea Express派送；
 
 
-渠道优势：	
+## 渠道优势：	
 1. 可接普货和内置电池；    
 2. 时效稳定：常年时效稳定，保障性高。    
 3. 时效快速。    
 4. 不接受等于和大于140欧元或140美金的货物       
 5. 英国：申报价值<135英镑（约168美金） 
 
-国家说明：	土耳其国家，收件人身份证ID为必填项。
+## 国家说明：	
+
+土耳其国家，收件人身份证ID为必填项。
 根据土耳其海关相关条例规定，每人每月最多从海外收到5件包裹。收件单位必须是个人，不能用作商业用途，建议包裹内物品不要超过4件。
 
 
-计费规则：	
+## 计费规则：	
 以G为单位进位。最低50G计费；包裹实际重量和体积重量相比，取较大者计算（体积重量计算方式为:长*宽*高cm：8000=KG)；
 
 智利/哥伦比亚：50G起重，实重与材积重取大者， 长*宽*高/5000
 
 
-重量及尺寸限制：	
+## 重量及尺寸限制：	
 1、德国、荷兰、比利时、卢森堡、爱尔兰、瑞典、挪威最小尺寸：10*20cm,其他国家最小尺寸：10*15cm     
 2、波兰:最大尺寸与重量限制：60×35×40cm和25KG,只有以下4个城市可以接受packstation地址：Warsaw, Wroclaw, Poznan, Krakow     Packstation代收点     
 3 、英国 最大尺寸要求：60x46x40CM 不接受异形件，如发现异形件将加收50RMB的附加费,（注：若客户发超尺寸件，按账单实报实销）  

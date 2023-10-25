@@ -38,7 +38,7 @@ Wirings use [[USB-TTL-dat]]
 
 ## Functions 
 
-- [[ESP-HDK-dat]]
+- [[ESP-DAT]]
 - [[ESP32-USB-dat]] - [[ESP32-SPI-dat]] 
 
 
