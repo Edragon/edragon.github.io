@@ -56,9 +56,9 @@
 
 - [[ESP32-dat]]
 
-- [[ESP32-ISO]]
+- [[esp32-iso]]
 
-
+- [[power-meter-dat]] - [[I2C-dat]]
 
 ## Demo video
 
