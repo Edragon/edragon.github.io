@@ -38,6 +38,12 @@ Use MQTT platform called www.cloudmqtt.com, use-friendly for esp8266
 Based on NodeMCU LUA coding
 Demo code available, open source, and support smartconfig and MQTT, please find the code below or at our dropbox page to download
 
+## new 
+
+- develop with touch sensor 
+- https://t.me/electrodragon3/191
+
+
 ## ref
 
 - used enclosure [[LED驱动电源塑料外壳]]

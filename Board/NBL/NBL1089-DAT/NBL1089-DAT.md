@@ -28,6 +28,9 @@
 * Pair with audio play box, and PC -> audio -> AUX_IN to play
 * https://twitter.com/electro_phoenix/status/1401807228126908429?s=20
 
+- https://t.me/electrodragon3/159
+
+
 
 ## ref 
 

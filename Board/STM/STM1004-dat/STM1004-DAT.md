@@ -38,6 +38,11 @@ STM32F405RGT6
         pyb.delay(500)
 
 
+## demo 
+
+- https://t.me/electrodragon3/214
+
+
 
 ## ref 
 

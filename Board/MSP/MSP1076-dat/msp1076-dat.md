@@ -50,6 +50,10 @@ Right Side Pins
 
 - demo video and other protocols documentation please see here [[interface-dat]] 
 
+- demo video 2 in telegram - https://t.me/electrodragon3/232
+
+
+
 - [[msp1076]] - [[MAX13487-dat]]
 
 - [[eagle-cad-dat]]
