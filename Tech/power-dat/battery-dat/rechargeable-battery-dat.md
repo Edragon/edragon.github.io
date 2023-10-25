@@ -15,3 +15,8 @@
 - Wikipedia: Rechargeable Battery - https://zh.wikipedia.org/wiki/%E8%93%84%E7%94%B5%E6%B1%A0
 - China Battery Industry Association - http://www.cbia.com.cn/
 - Battery University: Rechargeable Batteries - https://batteryuniversity.com/learn/article/types_of_rechargeable_batteries
+
+
+## Types 
+
+[[Lead-Acid-Battery-dat]]
