@@ -1,5 +1,7 @@
 # EE2-dat
 
+- SX1278 / SX1276
+
 ![](2023-10-25-14-26-12.png)
 
 ![](2023-10-25-14-26-29.png)
@@ -19,3 +21,8 @@
 | 9             | Fixed hole   |                           | Fixing hole                                                                                                                                         |
 | 10            | Fixing holes |                           | Fixing holes                                                                                                                                        |
 | 11            | Fixed hole   |                           | Fixing hole                                                                                                                                         |
+
+
+## ref 
+
+- [[lora-dat]]
