@@ -98,6 +98,10 @@ Normal output
 ## Bug 
 - ESP32 board may fail on start, you may need to press reset "EN" buttons a few times to get correct boot
 
+## demo 
+
+- https://t.me/electrodragon3/201
+
 
 ## ref 
 

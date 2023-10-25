@@ -19,6 +19,8 @@
 
 - https://www.youtube.com/watch?v=6Zk3WIVSvyM
 - https://twitter.com/electro_phoenix/status/1622874731493072897
+- https://t.me/electrodragon3/228
+
 
 ### ref
 

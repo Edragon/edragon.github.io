@@ -72,6 +72,10 @@ For example,
 ![](2023-10-18-15-51-55.png)
 
 
+## demo 
+
+- https://t.me/electrodragon3/205
+
 ## ref 
 
 - [[USB1006]]
