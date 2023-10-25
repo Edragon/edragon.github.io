@@ -17,5 +17,5 @@ while no inputs
 
 - [[INA219-DAT]] - [[I2C-dat]]
 
-
+- [[power-meter-dat]]
 

@@ -32,6 +32,8 @@
 
 - [[battery-drainer-dat]] - [[acdc-dat]]
 
+- [[power-meter-dat]]
+
 
 ### Interactive
 
