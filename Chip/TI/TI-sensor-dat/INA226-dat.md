@@ -19,6 +19,11 @@ INA226 Breakout Board on Adafruit: https://www.adafruit.com/product/904
 
 Please note that providing code for INA226 without any specific requirements would not be meaningful. However, you can find code examples and libraries in the links provided above, which can help you get started with using INA226 in your projects.
 
+## Typical Application 
+
+![](2023-10-25-17-39-43.png)
+
+
 
 ## ref 
 
