@@ -3,13 +3,13 @@
 legacy wiki page
 https://w.electrodragon.com/w/Lora_Tech
 
+
+
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino]]
 
 - [[NWL1071-dat]] - [[NWL1072-dat]]
 
-high power lora - SX1278 / SX1276
-
-- [[NWL1078-dat]] - [[NWL1081-dat]]
+high power lora series [[EE2-dat]] - [[NWL1078-dat]] - [[NWL1081-dat]]
 
 - SX1278
 - LLCC68
