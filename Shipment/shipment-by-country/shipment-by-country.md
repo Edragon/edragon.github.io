@@ -3,9 +3,9 @@
 ## shipment-country-2-dat
 
 | country        | update | Zone                | normal & expendiated         | express                            | prerequisite   |
-|----------------|--------|---------------------|------------------------------|------------------------------------|----------------|
+| -------------- | ------ | ------------------- | ---------------------------- | ---------------------------------- | -------------- |
 |                |        |                     |                              |                                    |                |
-|                |        |                     |                              |                                    |                |
+| Indonesia      |        | [[asia]]            | [[NLRPOST]]                  |   [[HKDHLX]]                                 |                |
 | India          |        | [[asia]]            | -                            | [[HKDHLX]]                         |                |
 | Australia      |        | [[Australia]]       | [[AU-RPOST]]                 |                                    |                |
 | Brazil         |        | [[America-South]]   | [[BREXPRESS]]                | ~~[[HKDHL-BA]] / [[HKFEDEXIP-C]]~~ | tax_id needed! |
@@ -37,7 +37,7 @@
 | Malaysia       | 06-15  | [[asia]]            | [[MYEXPRESS-BA]]             |                                    |                |
 | Costa Rica     | 06-09  | [[America-Central]] | [[NLRPOST]]                  | [[SZFED-PAK]]                      |                |
 | Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                  | [[SZFEDEX-IP]]                     |                |
-| Korea          | 06-30  | [[asia]]            | [[EURPOST]] / [[PFCEXPRESS]]               | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   |                |
+| Korea          | 06-30  | [[asia]]            | [[EURPOST]] / [[PFCEXPRESS]] | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   |                |
 | Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]               | ~~[[SZFED-PAK]] / [[HKDHLX]]~~     | tax_id needed! |
 | United States  |        | [[America-North]]   | [[USPS-dat]]                 | [[SZFEDEX-IP]] / [[HKUPS]]         |                |
 | Vietam         |        | [[asia]]            | [[VNEXPRESS]]                |                                    | -              |
@@ -58,16 +58,16 @@
 
 ## Shiping Options
 
-| Option        | type          | scope     | Customs               | Details                       |
-| ------------- | ------------- | --------- | --------------------- | ----------------------------- |
-| [[SZFED-PAK]] | express       | worldwide | pay-by-you            |                               |
-| [[EUEX-V]]    | expendiated   | europe    | no-guaranteed prepaid |                               |
-| [[NLRPOST]]   | reliable-post | worldwide |                       |                               |
-| HKDHL         | express       |           |                       | minimium order to Europe $120 |
-|               |               |           |                       |                               |
-|               |               |           |                       |                               |
-|               |               |           |                       |                               |
-|               |               |           |                       |                               |
+| Option        | type          | scope     | Referential ETA  | Customs               | Details                       |
+|---------------|---------------|-----------|---|-----------------------|-------------------------------|
+| [[SZFED-PAK]] | express       | worldwide |   | pay-by-you            |                               |
+| [[EUEX-V]]    | expendiated   | europe    |   | no-guaranteed prepaid |                               |
+| [[NLRPOST]]   | reliable-post | worldwide | 12-35 days  |                       |                               |
+| HKDHL         | express       |           |   |                       | minimium order to Europe $120 |
+|               |               |           |   |                       |                               |
+|               |               |           |   |                       |                               |
+|               |               |           |   |                       |                               |
+|               |               |           |   |                       |                               |
 
 ## old
 
