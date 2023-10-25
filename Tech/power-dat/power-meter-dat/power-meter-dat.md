@@ -1,15 +1,28 @@
 
 # energy-meter-dat
 
+## DC-DC
+
+- [[SVC1027-dat]] - [[INA226-dat]]
 
 
-## Code Documentation
+### boards
+
+- [[svc1015-dat]] - [[svc1017-dat]] - [[svc1019-dat]]
+
+
+
+
+
+## AC-DC
+
+### Code Documentation
 
 * [HLW Datasheet please find here](https://github.com/Edragon/Datasheet/tree/master/HLW)
 * [All demo codes please find here](https://bitbucket.org/e_dragon/hlw)
 * Arduino demo code please see our arduino github.
 
-## Other energy meters Reference
+### Other energy meters Reference
 
 Other reference, energy monitor ICs:
 * ATT7309
@@ -20,7 +33,7 @@ Other reference, energy monitor ICs:
 * https://www.solo-labs.com/diy-digital-ac-watt-meter/
 
 
-## Applications 
+### Applications 
 
 * SONOFF POWER SCH - https://wiki.iteadstudio.com/images/5/52/Sonoff_POW_Schematic.pdf
 * SONOFF SCH - https://wiki.iteadstudio.com/images/f/ff/Sonoff-Schematic.pdf
@@ -33,5 +46,13 @@ Software
 * https://tasmota.github.io/docs/Power-Monitoring-Calibration/
 
 
+## AC-DC boards 
 
 - [[HLW-dat]] - [[HLW8012-dat]] - [[HLW8032-dat]]
+
+
+
+## ref 
+
+- [[power-sensor]]
+
