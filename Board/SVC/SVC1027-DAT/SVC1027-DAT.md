@@ -5,7 +5,9 @@
 
 
 
-while no inputs 
+## while no inputs 
+
+serial output 
 
     Bus Voltage:   1.01 V
     Shunt Voltage: -0.05 mV
@@ -19,3 +21,4 @@ while no inputs
 
 - [[power-meter-dat]]
 
+- [[SVC1027]]
