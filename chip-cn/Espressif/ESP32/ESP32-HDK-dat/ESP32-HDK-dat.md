@@ -51,9 +51,26 @@
 - U1 = SD2 / SD3 (can not use)
 - U2 = U2RXD = IO16, U2TXD = IO17
 
-### SPI
+### Functions 
 
 - [[ESP32-SPI-dat]] - [[ESP32-GPIOs-dat]] - [[ESP32-USB-dat]]
+
+EMAC = Ethernet 
+
+
+DAC 
+DAC1 (GPIO25)
+DAC2 (GPIO26)
+
+I2C
+GPIO 21 (SDA)
+GPIO 22 (SCL)
+
+
+ref 
+
+- https://electropeak.com/learn/full-guide-to-esp32-pinout-reference-what-gpio-pins-should-we-use/
+- https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 ## Modules
 

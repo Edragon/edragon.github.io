@@ -32,7 +32,13 @@ Module interfaces
 
 ## Pin Definitions 
 
+ESP32-WROOM-32D
+
 ![](2023-09-26-15-11-35.png)
+
+ESP32-WROOM-32
+
+![](2023-10-25-16-50-18.png)
 
 ## Legacy Wiki Pages 
 
@@ -45,9 +51,8 @@ Module interfaces
 
 - [ESP32-WROOM-32E-DAT EN new1](https://www.espressif.com.cn/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
 
-
+obseleted 
 - [ESP32-WROOM-32-DAT EN](https://www.espressif.com.cn/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
-
 
 - [ESP32-WROOM-32E-DAT EN](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
 
