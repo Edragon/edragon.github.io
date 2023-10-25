@@ -28,7 +28,7 @@ ESP8685
 
 ## Boards 
 
-- [[ESP32-ISO]]
+- [[ESP32-ISO-dat]]
 
 ## Debug 
 
