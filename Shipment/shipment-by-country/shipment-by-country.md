@@ -5,7 +5,7 @@
 | country        | update | Zone                | normal & expendiated         | express                            | prerequisite   |
 | -------------- | ------ | ------------------- | ---------------------------- | ---------------------------------- | -------------- |
 |                |        |                     |                              |                                    |                |
-| Indonesia      |        | [[asia]]            | [[NLRPOST]]                  |   [[HKDHLX]]                                 |                |
+| Indonesia      | 10-25  | [[asia]]            | [[NLRPOST]]                  | [[HKDHLX]]                         |                |
 | India          |        | [[asia]]            | -                            | [[HKDHLX]]                         |                |
 | Australia      |        | [[Australia]]       | [[AU-RPOST]]                 |                                    |                |
 | Brazil         |        | [[America-South]]   | [[BREXPRESS]]                | ~~[[HKDHL-BA]] / [[HKFEDEXIP-C]]~~ | tax_id needed! |
@@ -58,16 +58,16 @@
 
 ## Shiping Options
 
-| Option        | type          | scope     | Referential ETA  | Customs               | Details                       |
-|---------------|---------------|-----------|---|-----------------------|-------------------------------|
-| [[SZFED-PAK]] | express       | worldwide |   | pay-by-you            |                               |
-| [[EUEX-V]]    | expendiated   | europe    |   | no-guaranteed prepaid |                               |
-| [[NLRPOST]]   | reliable-post | worldwide | 12-35 days  |                       |                               |
-| HKDHL         | express       |           |   |                       | minimium order to Europe $120 |
-|               |               |           |   |                       |                               |
-|               |               |           |   |                       |                               |
-|               |               |           |   |                       |                               |
-|               |               |           |   |                       |                               |
+| Option                 | type          | scope     | Referential ETA | Customs               | Details                       |
+| ---------------------- | ------------- | --------- | --------------- | --------------------- | ----------------------------- |
+| [[SZFED-PAK]]          | express       | worldwide | 5-10 days       | pay-by-you            |                               |
+| [[EUEX-V]]             | expendiated   | europe    | 10-26 days      | no-guaranteed prepaid |                               |
+| [[NLRPOST]]            | reliable-post | worldwide | 12-35 days      |                       |                               |
+| [[HKDHL]] / [[HKDHLX]] | express       |           | 5-10 days       |                       | minimium order to Europe $120 |
+|                        |               |           |                 |                       |                               |
+|                        |               |           |                 |                       |                               |
+|                        |               |           |                 |                       |                               |
+|                        |               |           |                 |                       |                               |
 
 ## old
 
