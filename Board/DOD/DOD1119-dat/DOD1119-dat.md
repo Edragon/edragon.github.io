@@ -1,5 +1,5 @@
 
-# mini-toy-board-dat
+# DOD1119-dat mini-toy-board-dat
 
 
 ## SCH 
@@ -10,6 +10,10 @@
 - PC1 - led control 
 - PC2 - button input 
 - PD1/PD4/PD5 = pin 8 = SWIO 
+
+## demo 
+
+- https://www.youtube.com/watch?v=v3h-EoI-HIQ
 
 
 
