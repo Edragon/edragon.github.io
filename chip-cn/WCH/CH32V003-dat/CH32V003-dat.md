@@ -5,12 +5,6 @@
 
 ![](2023-09-27-17-15-24.png)
 
-- PD6/PA1 - motor control 
-- PC1 - led control 
-- PC2 - button input 
-- PD1/PD4/PD5 = pin 8 = SWIO 
-
-
 ### 标准通讯接口 
 
 - 1 个USART 接口 
