@@ -2,6 +2,29 @@
 
 # ESP32-WROOM-DAT
 
+## Version compare 32E / 32D / 32U
+
+### 32E 
+The ESP32-WROOM-32E and ESP32-WROOM-32D are both modules based on the ESP32 system-on-a-chip (SoC) by Espressif Systems. They are very similar in terms of features and capabilities but have a few key differences.
+
+The main difference between the ESP32-WROOM-32E and ESP32-WROOM-32D lies in their RF (Radio Frequency) performance.
+
+The ESP32-WROOM-32E offers improved RF performance compared to the ESP32-WROOM-32D. It provides better sensitivity, range, and signal stability, making it suitable for applications requiring reliable wireless communication.
+
+If you are looking for more detailed technical specifications and information about the ESP32-WROOM-32E and ESP32-WROOM-32D, you can refer to the official Espressif documentation:
+https://www.espressif.com/en/support/documents/technical-documents
+
+The E is the latest WROOM version, using the new V3 silicon. It is a direct upgrade to the 32D that fixes some bugs.
+
+If you're buying new, get the 32E and consider the 32D obsolete. If you're already using 32D, it's going to be functionally identical in every way that likely matters to you so don't worry about it. (ie. It's not worth 'upgrading' to the E unless there is a specific issue you're facing.) See this guide for more info: https://www.espressif.com/sites/default/files/documentation/ESP32_ECO_V3_User_Guide__EN.pdf
+
+### 32U 
+ESP32-WROOM-32U is different from ESP32-WROOM-32D in that ESP32-WROOM-32U integrates a connector to connect an external antenna. 
+
+
+
+## Module List 
+
 | version             | Flash        | Suffix | SKU             | Antenna  | Note |
 | ------------------- | ------------ | ------ | --------------- | -------- | ---- |
 | ESP32-WROOM-32      | 4MB = 32Mb   | --     | [[NWI1110-dat]] | PCB      | end  |
