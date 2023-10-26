@@ -1,9 +1,6 @@
 
 # bluetooth-dat 
 
-- [[NBL1055-dat]] - [[NBL1022-dat]]
-
-
 ## Mode 
 
 Host: used to search for slave devices and cannot be searched by other devices. (Bluetooth module with white dot)
@@ -19,7 +16,8 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 ### classical bluetooth
 
-board -  [[NBL1022-dat]] - [[NBL1018-dat]] - [[NBL1012-dat]]
+board -  [[NBL1012-dat]] - [[NBL1018-dat]] - [[NBL1012-dat]]
+
 demo video 
 - [new video](https://www.youtube.com/watch?v=d3qrE-TmKoE&ab_channel=Electrodragon)
 - [old video](https://www.youtube.com/watch?v=CmMGhHMciu8)
@@ -33,9 +31,13 @@ demo video
 ### Bluetooth Mesh 
 
 
+### audio bluetooth
+
+- [[NBL1055-dat]] - [[NBL1089-dat]]
+
 
 ## APPs
 
 - BlueSPP
-
+- nRF connect 
 
