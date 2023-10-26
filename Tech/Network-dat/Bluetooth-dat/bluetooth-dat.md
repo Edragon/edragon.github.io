@@ -26,6 +26,8 @@ demo video
 
 ### BT4.0
 
+- [[NBL1060-dat]] - [[NBL1061-dat]]
+
 ### BT5.0
 
 ### Bluetooth Mesh 
