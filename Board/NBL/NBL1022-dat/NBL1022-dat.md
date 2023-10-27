@@ -75,8 +75,8 @@ Mode
 
 ## ref
 
-- based on module - [[NBL1018-dat]]
+- based on module - [[NBL1018-dat]] - [[NBL1022-dat]] - [[NBL1057-dat]]
 
-- [[BC04-B-dat]] - [[HC05-dat]] - [[HC06-dat]]
+simialr modules - [[BC04-B-dat]] - [[HC05-dat]] - [[HC06-dat]] - [[NBL1012-dat]]
 
 - [[NBL1022]]

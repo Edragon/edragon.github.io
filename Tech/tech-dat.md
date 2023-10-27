@@ -28,6 +28,9 @@
 
 - [[LTE]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 
+- [[bluetooth-dat]]
+
+
 ### Power 
 
 - [[battery-drainer-dat]] - [[acdc-dat]]
