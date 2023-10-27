@@ -1,12 +1,21 @@
 # antenna
 
-### antenna type
+## antenna shape, size and gain 
 
 | type     | rod                          | paddle                       |
 | -------- | ---------------------------- | ---------------------------- |
 | style    | ![](2023-10-27-15-41-39.png) | ![](2023-10-27-15-42-27.png) |
 | gain     | 2dbi                         | 8dbi                         |
 | Features | -                            | foldable                     |
+
+## Connection Type 
+
+- Wire or Pin Soldering
+- u.FL IPEX 
+- SMA inner-hole or inner-pin
+
+
+
 
 ### 2.4 antenna: wifi, bluetooth
 
