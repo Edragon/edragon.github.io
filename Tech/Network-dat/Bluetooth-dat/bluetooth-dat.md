@@ -16,7 +16,8 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 ### classical bluetooth
 
-board -  [[NBL1012-dat]] - [[NBL1018-dat]] - [[NBL1012-dat]] - [[NBL1022-dat]]
+board - [[NBL1018-dat]] - [[NBL1057-dat]]
+module - [[NBL1012-dat]] - [[NBL1022-dat]] 
 
 demo video 
 - [new video](https://www.youtube.com/watch?v=d3qrE-TmKoE&ab_channel=Electrodragon)
