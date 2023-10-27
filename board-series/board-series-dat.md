@@ -1,10 +1,10 @@
 
-# board-app-dat 
+# board-series-dat 
 
 
 
-## ESP32 APP 
-- [[esp-relay-board-dat]]
+## ESP32  
+- [[esp-relay-board-dat]] - [[ESP-DAT]]
 
 
 

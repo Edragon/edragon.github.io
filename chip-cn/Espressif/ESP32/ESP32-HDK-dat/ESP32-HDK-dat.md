@@ -72,6 +72,25 @@ ref
 - https://electropeak.com/learn/full-guide-to-esp32-pinout-reference-what-gpio-pins-should-we-use/
 - https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
+
+
+## UART
+
+pin 17 / 18 = SD2 / SD3 = UART1
+pin 27 / 28 = IO 26 / 27 = UART2 
+
+
+## NC Pins 
+
+V3 Chips 
+-  Pins GPIO6 to GPIO11 on the ESP32-D0WD-V3/ESP32-D0WDR2-V3 chip are connected to the SPI flash integrated on the module and are not led out.
+
+V2 Chips 
+- Pins SCK/CLK, SDO/SD0, SDI/SD1, SHD/SD2, SWP/SD3, and SCS/CMD, i.e. GPIO6 to GPIO11 are used to connect to the module integrated SPI flash, not recommended for other functions.
+
+
+
+
 ## Modules
 
 - [[ESP32-WROOM-dat]] - [[ESP32-C3-dat]]
