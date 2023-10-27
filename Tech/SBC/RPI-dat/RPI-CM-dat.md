@@ -48,3 +48,8 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 ![](2023-10-27-16-47-35.png)
 
 ![](2023-10-27-16-46-54.png)
+
+
+## ref 
+
+- [[RPI-CM]]
