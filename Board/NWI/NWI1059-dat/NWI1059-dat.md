@@ -118,3 +118,12 @@ Application circuit
 
 ![](2023-10-30-16-40-03.png)
 ![](2023-10-30-16-23-39.png)
+
+
+
+## ref 
+
+- legacy chip wiki page here - https://w.electrodragon.com/w/Category:ESP8266
+- legacy module page - https://w.electrodragon.com/w/ESP-12F_ESP8266_Wifi_Board
+
+- [[esp-modules-dat]]
