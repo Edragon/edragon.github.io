@@ -18,3 +18,9 @@
 ## ESP32
 
 ## ESP32-C3
+
+
+
+## ref 
+
+- legacy wiki page - https://w.electrodragon.com/w/ESP-12F_ESP8266_Wifi_Board
