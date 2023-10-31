@@ -9,6 +9,6 @@
 up to 3000mA output 
 
 
-- [[OPM1153]]
+- [[opm1153]]
 
 - [[MP1584-dat]] - [[OPM1152-dat]]
