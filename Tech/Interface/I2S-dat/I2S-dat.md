@@ -13,11 +13,11 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 ## Pin 
 
-| Name | also Name    | func                               | RPI |
-| ---- | ------------ | ---------------------------------- | --- |
-| BCLK |              | Bit clock line                     | G18 |
-| WS   | LRCK         | Word clock line                    | G19 |
-| SD   | SDIN / SDOUT | At least one multiplexed data line | G21 |
+| Name | also Name    | func                               | RPI GPIO | RPI pin |
+| ---- | ------------ | ---------------------------------- | -------- | ------- |
+| BCLK |              | Bit clock line                     | G18      | PIN 12  |
+| WS   | LRCK         | Word clock line                    | G19      | PIN 35  |
+| SD   | SDIN / SDOUT | At least one multiplexed data line | G21      | PIN 40  |
 
 
 
@@ -25,3 +25,4 @@ This makes I2S a popular choice for high-speed data transfer applications.
 ## ref 
 
 https://en.wikipedia.org/wiki/I%C2%B2S
+
