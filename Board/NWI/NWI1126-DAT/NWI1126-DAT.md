@@ -65,6 +65,14 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - New USB footprint to simplified the production process and reduce failure rate
 - Tested USB Functions working fine by customers feedback
 
+
+
+## custom only 
+
+- C4 = 100uf/10V
+
+![](2023-10-31-22-14-23.png)
+
 ## ref
 
 - [[ESP32-­C3-­WROOM-­2-DAT]]
