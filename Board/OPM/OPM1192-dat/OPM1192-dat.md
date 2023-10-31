@@ -10,6 +10,10 @@ default output 3.3V, customized 5V
 
 
 
+## ref
+
+- [[OPM1192]]
+
 - [[dcdc-dat]]
 
 
