@@ -59,6 +59,7 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 ## Note
 
 - [[ESP32-USB-dat]] failed on code testing, may work or not, consider it is not working if you buy.
+- price discount: 10% for 49-149pcs, 15% for 150pcs+
 
 ## Update Log
 
