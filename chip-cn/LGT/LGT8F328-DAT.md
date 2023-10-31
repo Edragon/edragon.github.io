@@ -31,8 +31,7 @@ common pin
 
 - most compatible, please use this one
 - Nullab Nano/ Maker Nano
-- https://nulllab.coding.net/p/lgt/d/nulllab_lgt_arduino/git/raw/master/package_nulllab_boards_index_zh.json
-
+- install by this - https://nulllab.coding.net/p/lgt/d/nulllab_lgt_arduino/git/raw/master/package_nulllab_boards_index_zh.json
 
 
 ### old 1
@@ -62,6 +61,11 @@ Installation:
 
 - arduino UNO can pretend as a chip programmer
 - please contact us if you need to order original programmer
+
+## demo 
+
+https://www.youtube.com/shorts/CL2-iH4KWQQ
+
 
 ## ref
 
