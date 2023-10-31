@@ -1,6 +1,8 @@
 
 # EDL-dat 
 
+![](2023-10-31-23-08-54.png)
+
 - legacy wiki page 
   - https://w.electrodragon.com/w/EDL_LCD_HDK
   - https://w.electrodragon.com/w/Category:EDL_LCD
@@ -30,6 +32,9 @@ This series include size:
 
 
 ## Code 
+
+- arduino library - UTFT 
+
 
 - in /08-LCD
 - https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/08-LCD
