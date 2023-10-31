@@ -6,6 +6,8 @@
 
 ## Pins 
 
+- ignore below and use in [[I2S-dat]]
+
 | ES9023 | RPI pin            | note                             |
 | ------ | ------------------ | -------------------------------- |
 | SCK    |                    | Not wired (Internally generated) |
