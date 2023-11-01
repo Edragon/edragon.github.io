@@ -28,8 +28,7 @@ In addition, HT6872 built-in shutdown feature allows minimize standby current, o
   * 1.40W (VDD = 3.6V, RL = 4Ω, THD + N = 10%)
   * 2.80W (VDD = 5.0V, RL = 4Ω, THD + N = 10%)
   * 4.70W (VDD = 6.5V, RL = 4Ω, THD + N = 10%)
-* High signal to noise ratio SNR: 95dB (VDD = 6.5V, Av = 24dB,
-* THD + N = 1%)
+* High signal to noise ratio SNR: 95dB (VDD = 6.5V, Av = 24dB, THD + N = 1%)
 * Low Quiescent Current
 * Input AC Grounded, Without Load
   * 2.65mA (VDD = 3.6V)
