@@ -11,7 +11,7 @@
 - grey color ground wire 
 - Orange is signal wire
 
-Technical data:
+### Technical data:
 - Size: 21.5mmX11.8mmX22.7mm
 - Weight: 9 grams
 - No-load speed: 0.12 seconds/60 degrees (4.8V)
@@ -20,7 +20,7 @@ Technical data:
 - Dead zone setting: 7 microseconds
 - Working voltage: 4.8V-6V
 
-Specs
+### Specs
 - Product model MG90S
 - Product size 22.8*12.2*28.5mmmm
 - Product weight 13.6g
@@ -36,3 +36,8 @@ Specs
 - Structural material Metal copper teeth, coreless motor, double ball bearings
 - Accessories include steering wheel, cable length 30CM, fixing screws, damping rubber sleeves and aluminum sleeves and other accessories (see the actual picture for details)
 - Scope of application Small and medium-sized electric model airplanes and other models.
+
+
+## ref 
+
+- [[servo-dat]]

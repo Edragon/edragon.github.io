@@ -15,9 +15,7 @@
 ESP8266
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-MegaCoreX - megaTinyAVR
-https://mcudude.github.io/MegaCoreX/package_MCUdude_MegaCoreX_index.json
-https://github.com/MCUdude/MegaCoreX
+- [[megaCoreX-dat]]
 
 ESP32
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
