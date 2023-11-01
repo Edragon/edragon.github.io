@@ -50,6 +50,8 @@ FPC LCD - [[ILC1075-dat]] - [[ilc1078-dat]]
 RPI LCD
 - [[ILC1041-dat]] - [[ILC1042-dat]] - [[ILC1043-dat]]
 
+[[EDL-dat]]
+
 ### ILE
 - [[RGB-matrix-panel-dat]]
   - P8 - [[ILE1058-dat]]
