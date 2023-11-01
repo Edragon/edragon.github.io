@@ -8,3 +8,8 @@ https://www.electrodragon.com/product/exbt-ex8635-ex8645-bluetooth-bt4-0-audio-b
 
 - https://www.youtube.com/watch?v=TsrxvTzW7so&ab_channel=Electrodragon
 
+
+
+## ref 
+
+- [[bluetooth-dat.md]]
