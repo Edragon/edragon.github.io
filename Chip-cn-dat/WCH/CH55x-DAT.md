@@ -21,7 +21,8 @@ https://w.electrodragon.com/w/Category:CH55X
 
 ### Board Wiki pages 
 
-- [[DOD1068-DAT]] - [[DOD1071-DAT]] - [[USB1000-dat]]
+
+- [[DOD1067-dat]] - [[DOD1068-DAT]] - [[DOD1071-DAT]] - [[USB1000-dat]]
 
 - [[CH559-DAT]] - [[CH554-DAT]] 
 
