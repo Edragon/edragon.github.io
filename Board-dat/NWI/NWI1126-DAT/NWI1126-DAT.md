@@ -20,6 +20,8 @@
 
 ## Wiring Diagram
 
+### Wiring for RGBW LED Strips
+
 ### Wiring for WS2812_5V
 
 ![](2023-09-04-17-03-33.png)
@@ -34,8 +36,10 @@
 | JP 9 (bottom) | ws2812_gnd      | Red           | reused pins for WRGB channels or WS2812 |         |
 | back_jumper   | ws2812_dat_3.3V | ws2812_dat_5V | set ws2812 dat pin to 5V output default | default |
 
-- for 12V or 24V led strips, put JP_L red box's jumper on top position
-- back side jumper no need to change or check by default
+- if you are still confuse, please check the use case at the end of this page. 
+
+
+## Programming 
 
 - Programming guide please refer to page [[USB-TTL-dat]]
 
@@ -73,7 +77,7 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 ![](2023-11-01-15-03-53.png)
 ![](2023-11-01-15-04-09.png)
 
-## custom only 
+## custom only
 
 - C4 = 100uf/10V
 
@@ -88,3 +92,31 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - [[NWI1126]]
 
 - [[ESP32-DAT]]
+
+## jumper setup cases
+
+Case 1: Control RGBW 4 channel LED Strips
+
+- LED strips power supply 6~28V (12V or 24V)
+- Board power supply 6~28V
+
+| jumper name | set          |
+| ----------- | ------------ |
+| JP_P        | 6~28V (top)  |
+| JP_L        | 6~28V (top)  |
+| back_jumper | default      |
+| JP_8        | GNR (bottom) |
+| JP_9        | RED (bottom) |
+
+Case 2: Control WS2812 LED Strips
+
+- LED strips power supply 5V
+- Board power supply 6~28V
+
+| jumper name | set               |
+| ----------- | ----------------- |
+| JP_P        | 6~28V (top)       |
+| JP_L        | 5V (bottom)       |
+| back_jumper | default           |
+| JP_8        | WS2812_data (top) |
+| JP_9        | WS2812_gnd (top)  |
