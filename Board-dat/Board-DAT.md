@@ -2,7 +2,9 @@
 
 # Boards 
 
+### AMP
 
+- [[AMP1021-dat]]
 
 ### USB
 - [[USB1000-dat]] - [[USB1003-dat]]
@@ -76,6 +78,8 @@ Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 ### MSP 
 - [[MSP1061-DAT]] - [[MSP1076-dat]]
 
+- [[MSP1025-dat]]
+
 ### NBL 
 
 - [[bluetooth-dat]]
@@ -84,6 +88,7 @@ audio bluetooth - [[NBL1089-DAT]]
 
 classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
+BT4.0 - [[NBL1050-dat]] - [[NBL1054-dat]]
 
 ### NID
 - [[NID1003-DAT]] - [[NID1005-DAT]] - [[NID1020-DAT]] - [[NID1024-DAT]] - [[NID1026-DAT]]
