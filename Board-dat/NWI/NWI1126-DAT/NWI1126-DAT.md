@@ -66,7 +66,12 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - New USB footprint to simplified the production process and reduce failure rate
 - Tested USB Functions working fine by customers feedback
 
+## Version Logs
 
+### 2023-1101
+
+![](2023-11-01-15-03-53.png)
+![](2023-11-01-15-04-09.png)
 
 ## custom only 
 
