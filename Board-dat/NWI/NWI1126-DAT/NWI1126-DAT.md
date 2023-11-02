@@ -56,9 +56,6 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - try the test commands to turn off on board prog LED: http://192.168.8.165/io/10/val/0
 - in which, IO is 10 and IO voltage level is 0
 
-## demo video
-
-- https://twitter.com/electro_phoenix/status/1610204098019880961
 
 ## Note
 
@@ -120,3 +117,14 @@ Case 2: Control WS2812 LED Strips
 | back_jumper | default           |
 | JP_8        | WS2812_data (top) |
 | JP_9        | WS2812_gnd (top)  |
+
+
+
+## demo video
+
+
+- video 2
+- running LED Strips at 1A / 24V for 1 hour, the board's temperature raise a little. 
+- https://www.youtube.com/shorts/aCjfessCOVM
+- video 1 
+- https://twitter.com/electro_phoenix/status/1610204098019880961
