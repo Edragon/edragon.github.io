@@ -1,0 +1,406 @@
+[ 89241][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[ 89242][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[ 89249][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[ 94308][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[ 94311][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[ 94455][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[ 94458][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[ 94466][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[ 96866][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[ 96866][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[ 96873][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[V][sensor:043]: 'Electrodragon 6 Uptime Sensor': Received new state 97.549004
+[D][sensor:094]: 'Electrodragon 6 Uptime Sensor': Sending state 97.54900 s with 0 decimals of accuracy
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[101932][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[101935][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[102077][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[102080][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[102088][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[104486][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[104486][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[104493][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[109552][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[109555][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[109699][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[109702][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[109710][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[112109][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[112110][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[112117][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[117176][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[117179][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[117321][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[117324][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[117332][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[119731][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[119732][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[119739][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[124798][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[124801][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[124944][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[124947][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[124955][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[127354][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[127355][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[127362][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[132421][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[132424][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[132567][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[132570][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[132578][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[134977][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[134978][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[134984][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[140044][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[140047][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[140189][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[140192][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[140200][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[142598][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[142598][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[142605][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[147665][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[147668][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[147810][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[147813][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[147821][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[150219][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[150220][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[150227][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[155286][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[155289][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[155432][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[155435][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[155443][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[V][sensor:043]: 'Electrodragon 6 Uptime Sensor': Received new state 157.548996
+[D][sensor:094]: 'Electrodragon 6 Uptime Sensor': Sending state 157.54900 s with 0 decimals of accuracy
+[157842][V][WiFiGeneric.cpp:360] _arduino_event_cb(): STA Disconnected: SSID: 111, BSSID: 00:00:00:00:00:00, Reason: 201
+[157842][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 5 - STA_DISCONNECTED
+[157849][W][WiFiGeneric.cpp:950] _eventCallback(): Reason: 201 - NO_AP_FOUND
+[W][wifi_esp32:462]: Event: Disconnected ssid='111' reason='Probe Request Unsuccessful'
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[W][wifi:591]: Error while connecting to network.
+[W][wifi:627]: Restarting WiFi adapter...
+[V][wifi_esp32:041]: Disabling STA.
+[162909][V][WiFiGeneric.cpp:341] _arduino_event_cb(): STA Stopped
+[162912][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 3 - STA_STOP
+[V][wifi_esp32:440]: Event: WiFi STA stop
+[I][wifi:277]: WiFi Connecting to '111'...
+[V][wifi:279]: Connection Params:
+[V][wifi:280]:   SSID: '111'
+[V][wifi:285]:   BSSID: Not Set
+[V][wifi:303]:   Password: 'electrodragon'[redacted]
+[V][wifi:310]:   Channel: Not Set
+[V][wifi:317]:   Using DHCP IP
+[V][wifi:319]:   Hidden: NO
+[V][wifi_esp32:039]: Enabling STA.
+[163054][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 0 - WIFI_READY
+[V][wifi_esp32:424]: Event: WiFi ready[163057][V][WiFiGeneric.cpp:338] _arduino_event_cb(): STA Started
+
+[163065][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 2 - STA_START
+[V][wifi_esp32:435]: Event: WiFi STA start
+[166088][V][WiFiGeneric.cpp:353] _arduino_event_cb(): STA Connected: SSID: 111, BSSID: d0:05:e4:e2:cd:a1, Channel: 8, Auth: WPA2_PSK
+[166089][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 4 - STA_CONNECTED
+[V][wifi_esp32:449]: Event: Connected ssid='111' bssid=D0:05:E4:E2:CD:A1[redacted] channel=8, authmode=WPA2 PSK
+[173645][V][WiFiGeneric.cpp:367] _arduino_event_cb(): STA Got New IP:192.168.8.181
+[173645][D][WiFiGeneric.cpp:929] _eventCallback(): Arduino Event: 7 - STA_GOT_IP
+[173649][D][WiFiGeneric.cpp:991] _eventCallback(): STA IP: 192.168.8.181, MASK: 255.255.255.0, GW: 192.168.8.1
+[V][wifi_esp32:503]: Event: Got IP static_ip=192.168.8.181 gateway=192.168.8.1
+[C][ota:097]: Over-The-Air Updates:
+[C][ota:098]:   Address: electrodragon-island1-toekick.local:3232
+[W][ota:107]: Last Boot was an unhandled reset, will proceed to safe mode in 5 restarts
+[C][api:025]: Setting up Home Assistant API server...
+[I][app:062]: setup() finished successfully!
+[V][sensor:043]: 'electrodragon-island1-toekick WiFi Signal Sensor': Received new state -55.000000
+[D][sensor:094]: 'electrodragon-island1-toekick WiFi Signal Sensor': Sending state -55.00000 dBm with 0 decimals of accuracy
+[I][app:102]: ESPHome version 2023.9.1 compiled on Nov  2 2023, 14:45:25
+[C][wifi:546]: WiFi:
+[C][wifi:382]:   Local MAC: 48:31:B7:39:93:08
+[C][wifi:383]:   SSID: '111'[redacted]
+[C][wifi:384]:   IP Address: 192.168.8.181
+[C][wifi:386]:   BSSID: D0:05:E4:E2:CD:A1[redacted]
+[C][wifi:387]:   Hostname: 'electrodragon-island1-toekick'
+[C][wifi:389]:   Signal strength: -55 dB ▂▄▆█
+[C][wifi:393]:   Channel: 8
+[C][wifi:394]:   Subnet: 255.255.255.0
+[C][wifi:395]:   Gateway: 192.168.8.1
+[C][wifi:396]:   DNS1: 192.168.8.1
+[C][wifi:397]:   DNS2: 0.0.0.0
+[C][logger:357]: Logger:
+[C][logger:358]:   Level: VERBOSE
+[C][logger:359]:   Log Baud Rate: 115200
+[C][logger:361]:   Hardware UART: UART0
+[C][ledc.output:164]: LEDC Output:
+[C][ledc.output:165]:   Pin GPIO6
+[C][ledc.output:166]:   LEDC Channel: 0
+[C][ledc.output:167]:   PWM Frequency: 20000.0 Hz
+[C][ledc.output:168]:   Bit depth: 10
+[V][ledc.output:169]:   Max frequency for bit depth: 39062.500000
+[V][ledc.output:171]:   Min frequency for bit depth: 610.388794
+[V][ledc.output:172]:   Max frequency for bit depth-1: 78125.000000
+[V][ledc.output:174]:   Min frequency for bit depth-1: 1220.777588
+[V][ledc.output:175]:   Max frequency for bit depth+1: 19531.250000
+[V][ledc.output:177]:   Min frequency for bit depth+1: 305.194397
+[V][ledc.output:178]:   Max res bits: 14
+[V][ledc.output:179]:   Clock frequency: 40000000.000000
+[C][uptime.sensor:031]: Uptime Sensor 'Electrodragon 6 Uptime Sensor'
+[C][uptime.sensor:031]:   Device Class: 'duration'
+[C][uptime.sensor:031]:   State Class: 'total_increasing'
+[C][uptime.sensor:031]:   Unit of Measurement: 's'
+[C][uptime.sensor:031]:   Accuracy Decimals: 0
+[C][uptime.sensor:031]:   Icon: 'mdi:timer-outline'
+[V][uptime.sensor:031]:   Unique ID: '4831b7399308-uptime'
+[C][light:103]: Light 'LED Channel 1 -1'
+[C][light:105]:   Default Transition Length: 3.0s
+[C][light:106]:   Gamma Correct: 2.00
+[C][status:034]: Status Binary Sensor 'electrodragon-island1-toekick Status'
+[C][status:034]:   Device Class: 'connectivity'
+[C][captive_portal:088]: Captive Portal:
+[C][mdns:115]: mDNS:
+[C][mdns:116]:   Hostname: electrodragon-island1-toekick
+[V][mdns:117]:   Services:
+[V][mdns:119]:   - _esphomelib, _tcp, 6053
+[V][mdns:121]:     TXT: version = 2023.9.1
+[V][mdns:121]:     TXT: mac = 4831b7399308
+[V][mdns:121]:     TXT: platform = ESP32
+[V][mdns:121]:     TXT: board = esp32-c3-devkitm-1
+[V][mdns:121]:     TXT: network = wifi
+[C][ota:097]: Over-The-Air Updates:
+[C][ota:098]:   Address: electrodragon-island1-toekick.local:3232
+[W][ota:107]: Last Boot was an unhandled reset, will proceed to safe mode in 5 restarts
+[C][api:138]: API Server:
+[C][api:139]:   Address: electrodragon-island1-toekick.local:6053
+[C][api:143]:   Using noise encryption: NO
+[C][wifi_signal.sensor:009]: WiFi Signal 'electrodragon-island1-toekick WiFi Signal Sensor'
+[C][wifi_signal.sensor:009]:   Device Class: 'signal_strength'
+[C][wifi_signal.sensor:009]:   State Class: 'measurement'
+[C][wifi_signal.sensor:009]:   Unit of Measurement: 'dBm'
+[C][wifi_signal.sensor:009]:   Accuracy Decimals: 0
+[V][wifi_signal.sensor:009]:   Unique ID: '4831b7399308-wifisignal'
+[V][sensor:043]: 'electrodragon-island1-toekick WiFi Signal Sensor': Received new state -55.000000
+[D][sensor:094]: 'electrodragon-island1-toekick WiFi Signal Sensor': Sending state -55.00000 dBm with 0 decimals of accuracy
+[V][sensor:043]: 'Electrodragon 6 Uptime Sensor': Received new state 217.554001
+[D][sensor:094]: 'Electrodragon 6 Uptime Sensor': Sending state 217.55400 s with 0 decimals of accuracy

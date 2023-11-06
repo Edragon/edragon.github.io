@@ -32,3 +32,8 @@
 - https://github.com/esphome/aioesphomeapi
 
 - [Web Server Component](https://esphome.io/components/web_server.html)
+
+
+## Logs 
+
+- [[log-c3.txt]]
