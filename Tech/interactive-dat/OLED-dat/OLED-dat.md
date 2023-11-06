@@ -5,7 +5,7 @@
 ## boards 
 - [[IOD1001-dat]]
 - [[IOD1003-dat]]
-
+- [[ESP32-ISO-dat]]
 
 ## init 
 
