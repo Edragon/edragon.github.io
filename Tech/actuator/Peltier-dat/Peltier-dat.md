@@ -1,6 +1,11 @@
 
 # Peltier
 
+## working principle 
+
+![](2023-11-06-13-02-46.png)
+
+
 ## product 
 
 - [[TEC-12706-DAT]] - [[TEC-12712-DAT]]
@@ -31,6 +36,18 @@ The side with words are the cooling side, and other side is the warm side.
 - https://w.electrodragon.com/w/Thermoelectric_Cooler
 - https://w.electrodragon.com/w/Peltier
 
+
+
+## Tesing 
+
+- testing with AA battery 
+
+![](2023-11-06-13-03-19.png)
+
+- code side normally on works side
+- Heat dissipation should always be implemented when using with large current flow
+  
+![](2023-11-06-13-03-48.png)
 
 ## Ref 
 
