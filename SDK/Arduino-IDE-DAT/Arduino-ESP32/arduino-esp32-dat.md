@@ -55,8 +55,9 @@ version 2.0.6 - 2022/2/3
 version 2.0.4
 
 ## repository
-https://github.com/espressif/arduino-esp32
+- https://github.com/espressif/arduino-esp32
 
+for [[NWI1126-dat]]: https://github.com/Edragon/Arduino-ESP32/tree/master/BSP/NWI1126
 
 ## BSP demo code 
 
