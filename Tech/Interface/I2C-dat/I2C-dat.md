@@ -25,7 +25,7 @@ the most easy to use library for ESP
 
 ## Boards 
 
-- [[INA226-dat]]
+- [[INA226-dat]] - [[OLED-dat]]
 
 ## ref 
 
