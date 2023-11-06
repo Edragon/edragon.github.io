@@ -19,4 +19,4 @@ https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-Sense-Kit?qs=MLItCL
 - [[NWI1186]] - [[ESP-SDK-dat]]
 
 
-- [[board-stock-out]]
+- [[Board-stock-out]]
