@@ -2,6 +2,7 @@
 
 # DVA1007 DAT
 
+legacy wiki page
 - https://w.electrodragon.com/w/Loraduino
 
 
@@ -16,9 +17,21 @@
 | RF_RST       | D8       | SX1278  |
 | Voltage-Dect | A7       |         |
 
+### Board Map 
 
+![](2023-11-06-16-04-30.png)
+![](2023-11-06-16-06-22.png)
 
+### Pin Definitions
 
+FT232 Programming Port 
+- VBAT
+- DTR
+- TXD
+- RXD
+- +5V
+- GND
+- --
 
 - [[arduino-lib]]
 
@@ -44,3 +57,11 @@
 - arduino low power, powerdown and wake up periodically 
 - [[low-power-test-dat]]
 
+
+## Lora Modules 
+
+- [[NWL1071-dat]] - [[NWL1072-dat]]
+
+- [[LDO-dat]]
+
+- [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
