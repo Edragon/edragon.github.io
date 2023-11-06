@@ -15,6 +15,10 @@ legacy wiki page
 - https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
 
 
+## Customized:
+- Relays can be replaced to 12V or 24V version, and same voltage power supply.
+- Minimium order quantity for this customized is 50pcs.
+
 
 ## ref 
 
