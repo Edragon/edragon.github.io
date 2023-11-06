@@ -1,5 +1,21 @@
 # EDS-LCD-dat
 
+legacy wiki page 
+- https://w.electrodragon.com/w/Category:TFT_LCDs
+
+
+## Versions 
+
+- 1.8” SPI LCD, ST7735, 128*160, with SD card slot
+- 2.2” SPI LCD, ILI9341 240*320, with SD card slot
+- 2.4” SPI LCD, ILI9341 240*320,  with SD card slot, with touch panel
+- 2.8” SPI LCD, ILI9341 240*320, with SD card slot, with touch panel
+- 3.2” SPI LCD, ILI93141 240*320, with SD card slot, with touch panel
+- 4.0” SPI LCD, ST7796S 480*320, with SD card slot, with touch panel
+
+
+## Pin Definitions 
+
 | Pins | Pins Funcs | Note                                                                                            |     |
 | ---- | ---------- | ----------------------------------------------------------------------------------------------- | --- |
 | 1    | VCC        | 5V/3.3V power input                                                                             |
