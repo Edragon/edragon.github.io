@@ -4,7 +4,9 @@
 legacy wiki page
 - https://w.electrodragon.com/w/Category:Relay
 
+## Boards 
 
+- [[OPM1046-dat]] - [[OPM1047-dat]]
 
 ## SCH 
 
@@ -18,6 +20,7 @@ legacy wiki page
 ## Customized:
 - Relays can be replaced to 12V or 24V version, and same voltage power supply.
 - Minimium order quantity for this customized is 50pcs.
+
 
 
 ## ref 
