@@ -10,6 +10,11 @@ legacy wiki page
 
 ![](2023-11-06-17-23-07.png)
 
+## supported RF module
+
+- https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
+
+
 
 ## ref 
 
