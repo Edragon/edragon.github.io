@@ -55,3 +55,5 @@ JP1 / JP2 / JP3
 - https://w.electrodragon.com/w/RPI_RMP_HDK
 
 - [[ds1307-dat]] - [[hub75-dat]]
+
+- [[MPC1073]]
