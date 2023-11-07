@@ -20,6 +20,10 @@
 
 ## ref 
 
-- [[ilc1031]] - [[EDL-dat]]
+- [[ilc1031]] - [[EDL-dat]] 
 
 - [[EDL-LCD]]
+
+- [[SSD1963-dat]]
+  
+- [[ILC1031-2-dat]]
