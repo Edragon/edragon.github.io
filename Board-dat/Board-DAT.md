@@ -29,7 +29,7 @@
 - [[DAR1056-DAT]]
 
 ### DOD
-- [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]]
+- [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]] - [[DOD1060-dat]]
 
 SAMD21
 - [[DOD1104-dat]] - [[DOD1107-dat]]
