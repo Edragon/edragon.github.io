@@ -6,7 +6,7 @@
 
 ## ref 
 
-- [[battery-charge]]
+- [[battery-charger]] - [[battery]]
 
 
 ## voltage map 
