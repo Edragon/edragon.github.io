@@ -7,6 +7,8 @@ https://www.electrodragon.com/product/ov7670-camera-module-breakout-board-power-
 
 ## Pin Definitions 
 
+![](2023-11-08-13-53-12.png)
+
 ![](2023-11-08-13-34-34.png)
 
 - SIO_C
@@ -18,5 +20,14 @@ https://www.electrodragon.com/product/ov7670-camera-module-breakout-board-power-
 - D0 ~ D7 
 - Reset 
 - PWDN
+
+
+
+## SCH 
+
+![](2023-11-08-13-51-57.png)
+
+
+## ref 
 
 - [[OV7670-dat]]
