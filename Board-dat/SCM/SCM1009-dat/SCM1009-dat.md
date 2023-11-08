@@ -24,3 +24,8 @@ extra
 - FIFO_OE
 - FIFO_WRST
 - FIFO_RRST
+
+
+## ref 
+
+- [[FIFO-dat]]
