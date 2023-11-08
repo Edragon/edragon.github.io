@@ -1,6 +1,9 @@
 
 # camera-dat 
 
+legacy wiki page - https://w.electrodragon.com/w/OV_Camera
+
+
 
 ## Modules 
 

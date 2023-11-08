@@ -30,4 +30,4 @@ https://www.electrodragon.com/product/ov7670-camera-module-breakout-board-power-
 
 ## ref 
 
-- [[OV7670-dat]]
+- [[OV7670-dat]] - [[SCM1008]]
