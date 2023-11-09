@@ -1,5 +1,10 @@
 # RGB matrix panel dat
 
+We sell the highly reliable, high quality panels. Probably the top quality from local top factory.
+
+https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/
+
+
 ## Panel Specifications
 
 ![](39-44-14-03-08-2023.png)
