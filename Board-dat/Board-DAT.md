@@ -84,11 +84,14 @@ Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 
 - [[bluetooth-dat]]
 
-audio bluetooth - [[NBL1089-DAT]] 
+audio bluetooth Speaker - [[NBL1089-DAT]] 
+
+audio bluetooth player - [[NBL1037-dat]] - [[NBL1038-dat]]
 
 classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
 BT4.0 - [[NBL1050-dat]] - [[NBL1054-dat]]
+
 
 ### NID
 - [[NID1003-DAT]] - [[NID1005-DAT]] - [[NID1020-DAT]] - [[NID1024-DAT]] - [[NID1026-DAT]]
