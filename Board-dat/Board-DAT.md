@@ -4,7 +4,7 @@
 
 ### AMP
 
-- [[AMP1021-dat]]
+- [[AMP1021-dat]] - [[AMP1000-dat]] - [[AMP1003-dat]]
 
 ### USB
 - [[USB1000-dat]] - [[USB1003-dat]]
