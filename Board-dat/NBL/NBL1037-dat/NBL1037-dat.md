@@ -12,16 +12,36 @@ https://www.electrodragon.com/product/eb8000-bluetooth-audio-module-bt_v2-1/
 
 ## Boards 
 
-- [mini development board here. ](https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/)
-- [[NBL1097-dat]]
+- core board - [[NBL1037-dat]]
+- convert board documentation - [[NBL1038-dat]]
+- [mini development board here. ](https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/) - [[NBL1097-dat]]
 
 
 ## ref 
 
 - [BT Audio selection guide see here.](https://www.electrodragon.com/w/Category:BT_Audio)
 
+- [[BEKEN-dat]]
 
-- TDA7737-dat 
+
+## suitable amplifier 
+
+
+* Earphone - SGM4812 (132mw)
+* [HT6872 (4ohm 3W)](https://w2.electrodragon.com/gollum/search?q=HT6872) - [[AMP1021-dat]]
+* HT8696 (4ohm 10W)
+* [PAM8610 (8ohm 10W&4ohm 15W)](https://www.electrodragon.com/product/210w-dual-channel-hifi-mini-audio-amplifier-pam8610/) - [[AMP1000-dat]]
+
+* TDA7737-dat 
+
+## hardware design notes 
+
+- Module application process, please pay attention to avoid the impact of interference sources amplifier, boost lines, etc. on the module, the module power supply circuit to avoid the formation of a series circuit with the power circuit unit, in order to improve overall SNR.
+- About wireless Bluetooth environment, including Bluetooth wireless signals are greatly affected by the surrounding environment, such as trees, metal and other obstructions the wireless signal will have some absorption, so in practical applications, distance data transmission by certain influences.
+- Since Bluetooth module should be supporting existing systems, placed in the housing. Since the metal casing of the radio frequency signals are shielded effect. It is not recommended to be installed in a metal housing.
+- PCB layout: the antenna is part of the Bluetooth module PCB antenna, since the metal will weaken the function of the antenna, in layout to the module when the module antenna to the following non-paved and traces, if hollowed out better.
+- **Amplifier LM386, PAM8403, etc need isolated ground, otherwise will have a lot noise. Recomandded HT6782**
+
 
 
 ## Demo 

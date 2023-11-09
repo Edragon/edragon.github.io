@@ -5,6 +5,11 @@ BK8000D BT Bluetooth SPP + Audio HPF Player
 
 https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/
 
+
+## Pins V2 
+
+![](2023-11-09-15-35-26.png)
+
 ## Pins 
 
 ![](2023-11-09-15-22-38.png)
