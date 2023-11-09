@@ -11,3 +11,6 @@
 - core board - [[NBL1037-dat]]
 - convert board documentation - [[NBL1038-dat]]
 - [mini development board here. ](https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/) - [[NBL1097-dat]]
+
+
+
