@@ -13,6 +13,8 @@ https://www.electrodragon.com/product/eb8000-bluetooth-audio-module-bt_v2-1/
 ## Boards 
 
 - [mini development board here. ](https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/)
+- [[NBL1097-dat]]
+
 
 ## ref 
 
