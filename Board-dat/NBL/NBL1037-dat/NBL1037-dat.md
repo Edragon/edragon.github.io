@@ -6,10 +6,17 @@ BK8000L Bluetooth Audio+ SPP Module, v2.1,
 https://www.electrodragon.com/product/eb8000-bluetooth-audio-module-bt_v2-1/
 
 
+- [Very comprehensive documentation can see on this page.](https://www.electrodragon.com/w/EB8000_Audio_Bluetooth_Module#Basic_Application_Circuit)
+
+
+
+## Boards 
+
+- [mini development board here. ](https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/)
+
 ## ref 
 
 - [BT Audio selection guide see here.](https://www.electrodragon.com/w/Category:BT_Audio)
-- [Very comprehensive documentation can see on this page.](https://www.electrodragon.com/w/EB8000_Audio_Bluetooth_Module#Basic_Application_Circuit)
 
 
 - TDA7737-dat 
