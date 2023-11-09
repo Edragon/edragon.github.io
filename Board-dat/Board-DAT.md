@@ -54,8 +54,9 @@ RPI LCD
 
 [[EDL-dat]] - [[ILC1031-dat]] - [[ILC1030-dat]]
 
+
 ### ILE
-- [[RGB-matrix-panel-dat]]
+- [[RGB-matrix-panel-dat]] - RGB Matrix Panel 
   - P8 - [[ILE1058-dat]]
   - P6 - [[ILE1059-DAT]] 
   - P3 - [[ILE1060-DAT]] 
