@@ -34,3 +34,5 @@ on module side
 - [[low-power-test-dat]]
 
 - [[SIMCOM-dat]]
+
+- [[SIM7020]]
