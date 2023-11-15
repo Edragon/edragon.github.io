@@ -1,6 +1,9 @@
 
 # stock out items 
 
+
+- [[NWI1068-dat]] - [[NWI1235-dat]] - [[NWI1238-dat]]
+
 - [[SVC1019-dat]]
 
 
@@ -9,12 +12,6 @@
 - [[OPM1112-dat]] - 
 
 - [[NWI1186-dat]] - https://www.electrodragon.com/product/esp32-sense-kit-w-esp-prog/
-
-
-
-
-
-
 
 
 
