@@ -37,5 +37,7 @@ Other Pins
 
 ## Chip Pin Definitions 
 
+- [[ainyAVR-dat]] 0-series
+
 ![](2023-10-11-15-31-05.png)
 
