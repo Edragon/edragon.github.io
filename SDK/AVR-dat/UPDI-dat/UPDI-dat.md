@@ -23,6 +23,12 @@ power supply setup
 
 - [[megaCoreX-dat]]
 
+
+## Demo 
+
+- https://t.me/electrodragon3/45
+
+
 ## Boards 
 
 - [[DAR1060-dat]]
