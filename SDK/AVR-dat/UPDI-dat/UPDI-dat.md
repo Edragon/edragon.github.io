@@ -15,10 +15,19 @@ power supply setup
 
 - https://www.instructables.com/Arduino-Nano-1/
 
+## Common Programmer in Arduino 
+
+![](2023-11-15-19-00-50.png)
 
 ## Support 
 
 - [[megaCoreX-dat]]
+
+
+## Demo 
+
+- https://t.me/electrodragon3/45
+
 
 ## Boards 
 
