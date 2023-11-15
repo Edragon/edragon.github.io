@@ -17,7 +17,10 @@ back CONN
 ## Programming 
 
 
-- Programming Methods UPDI  [[UPDI-dat]]
+- Programming Methods UPDI  [[UPDI-dat]], wiring = power supply + UPDI pin 
+
+Serial port sketch uploading via USB
+
 - arduino board file [[megaCoreX-dat]]
     - clock - internal 16MHz
     - BOD - BOD 2.6V
