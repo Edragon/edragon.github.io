@@ -1,16 +1,23 @@
 
 
-# NWI1235 
+# NWI1235-dat 
 
-## hardware 
-- ESP-12K 
-    - based on chip [[ESP32-S2]]
 
+## Board Map 
+
+![](2023-11-15-17-36-35.png)
 
 ## Pin Definitions
 - WS2812 - IO17 
     - supported by neopixel library 
 
+
+
+
+
+## hardware 
+- ESP-12K 
+    - based on chip [[ESP32-S2-dat]]
 
 
 ## Demo 
@@ -22,7 +29,9 @@ default tested arduino sketch
 - https://twitter.com/electro_phoenix/status/1608364149645676544
 
 
-## PROG Setup 
-![](43-14-15-29-12-2022.png)
+## ref
+
+- [[ESP32-S2-dat]]
+
 
 
