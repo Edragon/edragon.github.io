@@ -64,6 +64,8 @@ RPI LCD
 
 - [[ILE1062-dat]]
 
+- high power led panel - [[ILE1073-dat]]
+
 ### ITF
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
 
