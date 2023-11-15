@@ -199,7 +199,9 @@ Battery charger - [[OPM1181-dat]]
   
 ### SSL 
 - [[SSL1027-dat]] - [[SSL1075-DAT]]
-  
+
+- [[SSL1042-dat]] - [[SSL1045-dat]]
+
 ### SVC
 - [[SVC1015-DAT]] - [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1039-DAT]]
 
