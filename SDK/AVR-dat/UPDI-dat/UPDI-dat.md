@@ -15,3 +15,11 @@ power supply setup
 
 - https://www.instructables.com/Arduino-Nano-1/
 
+
+## Support 
+
+- [[megaCoreX-dat]]
+
+## Boards 
+
+- [[DAR1060-dat]]
