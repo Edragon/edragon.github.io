@@ -3,6 +3,10 @@
 
 - this web application may encounter error "502 bad gateway", please visit 5 minutes later
 
+## Contact 
+
+- [[contact]]
+
 ## category 
 
 - [[board-dat]] - [[board-series-dat]] - [[board-new-dat]]
@@ -15,22 +19,6 @@
   
 - [[BOM-DAT]] - [[service-dat]]
 
-
-## Social 
-
-- Any questions please email to info@eletrodragon.com
-- Social platform reply will be slow! Thank you. 
-
-
-twitter
-- info+phoenix@electrodragon.com
-- https://twitter.com/electro_phoenix
-  
-telegram
-- https://t.me/electrodragon3
-  
-youtube 
-- https://www.youtube.com/@electrodragonfan
 
 
 
