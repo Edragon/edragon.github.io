@@ -11,9 +11,15 @@ power supply setup
 
 3.3V + 3.3_jump
 
-## tuto 
+## official programmer 
+
+- ateml ICE 
+
+## tuto - self made arduino nano as UPDI programmer 
 
 - https://www.instructables.com/Arduino-Nano-1/
+
+
 
 ## Common Programmer in Arduino 
 
