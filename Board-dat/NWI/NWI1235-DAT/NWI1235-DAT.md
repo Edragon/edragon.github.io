@@ -33,5 +33,5 @@ default tested arduino sketch
 
 - [[ESP32-S2-dat]]
 
-
+- [[ESP32-dat]]
 
