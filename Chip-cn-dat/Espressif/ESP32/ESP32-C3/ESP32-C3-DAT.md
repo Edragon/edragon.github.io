@@ -36,6 +36,8 @@ https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_e
 
 - [[ESP32-C3-Mini-1-DAT]]
 
-- [[ESP32-C3-32S-dat]]
 
-- [[ESP32-C3-12F-dat]]
+
+- [[ESP-C3-32S-dat]]
+
+- [[ESP-C3-12F-dat]]
