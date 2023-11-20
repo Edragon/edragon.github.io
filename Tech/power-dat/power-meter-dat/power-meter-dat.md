@@ -3,6 +3,8 @@
 
 ## DC-DC
 
+- [[INA231-dat]]
+
 - [[SVC1027-dat]] - [[INA226-dat]]
 
 
