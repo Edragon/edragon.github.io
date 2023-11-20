@@ -15,6 +15,18 @@ Android Host Interface Board CH9343G
 
 ![](2023-11-15-16-23-48.png)
 
+![](2023-11-20-16-23-03.png)
+
+P1 = PWMO
+p2 = Serial 
+P3 = GPIO 
+P4 = I2C
+P5 = Power Supply VCC/GND
+P6 = SPI 
+P7 = USD
+P8 = USB2
+J1 ~ J5 = ? 
+J6 = ? 
 
 
 ## ref 
