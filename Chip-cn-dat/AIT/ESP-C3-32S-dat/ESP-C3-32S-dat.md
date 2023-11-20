@@ -10,3 +10,5 @@
 - datasheet - https://docs.ai-thinker.com/_media/esp32/docs/esp-c3-32s_specification.pdf
 
 - [[ESP-C3-32S]]
+
+- [[ESP32-C3-dat]]
