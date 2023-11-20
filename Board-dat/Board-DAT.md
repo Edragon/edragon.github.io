@@ -148,6 +148,8 @@ PCB-ANT
 
 - [[NWI1199-DAT]] - [[NWI1200-DAT]]
 
+- [[NWI1226-dat]]
+  
 - [[NWI1235-DAT]]
 
 ESP32-APP
