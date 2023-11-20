@@ -148,6 +148,8 @@ PCB-ANT
 
 - [[NWI1199-DAT]] - [[NWI1200-DAT]]
 
+- [[NWI1226-dat]]
+  
 - [[NWI1235-DAT]]
 
 ESP32-APP
@@ -213,7 +215,7 @@ Battery charger - [[OPM1181-dat]]
 
 ## Board-REF
 
-- [[Board-stock-out]] - [[board-series-dat]]
+- [[Board-stock-out]] - [[board-series-dat]] - [[board-new-dat]] - [[board-discount]]
 
 - [[tech-dat]]
 

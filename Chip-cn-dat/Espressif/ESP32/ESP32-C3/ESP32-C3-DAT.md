@@ -30,6 +30,12 @@ https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datashee
 
 https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
 
-- [[ESP32-C3-DAT]] - [[ESP32-­C3-­WROOM-­2-DAT]]
+- [[ESP32-C3-DAT]] 
+  
+- [[ESP32-­C3-­WROOM-­2-DAT]]
 
-[[ESP32-C3-Mini-1-DAT]]
+- [[ESP32-C3-Mini-1-DAT]]
+
+- [[ESP32-C3-32S-dat]]
+
+- [[ESP32-C3-12F-dat]]

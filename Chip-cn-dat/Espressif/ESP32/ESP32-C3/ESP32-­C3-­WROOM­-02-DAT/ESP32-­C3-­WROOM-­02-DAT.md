@@ -1,10 +1,14 @@
 
 
-# ESP32-C3-WROOM-2 dat
-
-ESP32-C3-WROOM-2-H4 - 105C
+# ESP32-C3-WROOM-02 dat
 
 
+## Versions
+
+- ESP32-C3-WROOM-02-H4 - 105C
+- ESP32-C3-WROOM-02-N4 - normal temp.
+- ESP32-C3-WROOM-02U-H4
+- ESP32-C3-WROOM-02U-N4 - ipex antenna 
 
 ![](33-15-13-29-12-2022.png)
 
