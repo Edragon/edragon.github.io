@@ -2,6 +2,10 @@
 
 ## Board Pin Definitions
 
+### Version V4 
+
+![](2023-11-23-13-41-50.png)
+
 ### Version V3 
 
 ![](2023-11-07-14-08-49.png)
