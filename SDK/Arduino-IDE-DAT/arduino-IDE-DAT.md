@@ -70,3 +70,11 @@ ETH.h
 - C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6\libraries\Ethernet\src\eth.cpp
 
 
+## library 
+
+multi-task 
+
+SchedTask -2
+https://github.com/Nospampls/SchedTask
+TaskScheduler - 744
+https://github.com/arkhipenko/TaskScheduler
