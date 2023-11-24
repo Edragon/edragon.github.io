@@ -4,6 +4,19 @@
 
 ## Pin Definitions
 
+
+![](2023-11-24-14-17-46.png)
+
+![](2023-11-24-14-24-13.png)
+
+- CLK - INT
+- WOL - SO
+- SI - CLK 
+- CS - RST
+- VCC GND 
+
+obseleted 
+
 | Left        | right  |
 | ----------- | ------ |
 | 1 CS        | 2 RST  |
@@ -12,9 +25,12 @@
 | 7 NC        | 8 CLK  |
 | 9 VIN / VCC | 10 GND |
 
+
+
 ## Wiring to Arduino 
 
 ![](2023-11-24-14-14-51.png)
+
 
 
 ## Applications 
