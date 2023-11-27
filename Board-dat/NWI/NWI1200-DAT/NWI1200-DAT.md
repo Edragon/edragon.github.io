@@ -35,17 +35,17 @@
 
 ## Jumper Setup
 
-| Jumpers | func              | Default |
-| ------- | ----------------- | ------- |
-| JP1     | CLK Pull up       | enable  |
-| JP2     | IO0 to CLK        | -       |
-| JP3     | IO17 to PWR       | -       |
-| JP4     | PWR Pull up       | -       |
-| JP5     | power_sig_control | 2       |
+| Jumpers | func                     | Default               | Note         |
+| ------- | ------------------------ | --------------------- | ------------ |
+| JP1     | CLK to IO0               | enable                |              |
+| JP2     | REFCLKO pull up          | -                     |              |
+| JP3     | crystal output pull down | -                     |              |
+| JP4     | crystal output to IO17   | -                     |              |
+| JP5     | crystal enable control   | IO2 (default) or IO15 | pcb backside |
 
-- please just use default 
+- please just use default
 
-## reference setup 
+## reference setup
 
 - ETH_CLOCK_GPIO0_IN - default: external clock from crystal oscillator
 - ETH_CLOCK_GPIO0_OUT - 50MHz clock from internal APLL output on GPIO0 - possibly an inverter is needed for LAN8720
@@ -78,9 +78,7 @@ based on demo code NWI1200-3
 
     ETH status: 0, ETH MAC: 84:0D:8E:C8:8C:67, IPv4: 192.168.1.173, FULL_DUPLEX, 100Mbps
 
-
 ![](2023-09-19-17-28-34.png)
-
 
 ## demo code find at
 
