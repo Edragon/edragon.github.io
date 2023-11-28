@@ -143,6 +143,9 @@ PCB-ANT
 [[NWI1190-dat]] - RVB: ESP-WROVER, PCB-ANT, 8MB
 [[NWI1191-dat]] - RVB: ESP-WROVER, PCB-ANT, 16MB
 
+[[ESP8266-dat]]
+- [[NWI1059-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1127-dat]] - [[NWI1075-dat]]
+
 
 - [[NWI1139-DAT]] 
 
