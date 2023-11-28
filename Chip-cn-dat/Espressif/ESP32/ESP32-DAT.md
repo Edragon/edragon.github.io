@@ -2,18 +2,20 @@
 
 # ESP32 
 
-- [[ESP-SDK-dat]]
-
-
-## ref 
+## software 
 
 - [[ESP-SDK-dat]] - [[arduino-ESP32-dat]]
 
 - [[ESP32-FAQ]]
 
 
+## hardware and boards 
 
 - [[ESP32-HDK-dat]] - [[ESP32-WROOM-dat]] - [[ESP32-C3-dat]]
+
+ESP32-S2 / ESP32-S3
+
+ESP32-C2 / ESP32-C3
 
 
 
@@ -23,6 +25,11 @@ https://products.espressif.com/#/product-selector?language=zh&names=
 
 https://products.espressif.com/#/product-selector?language=en
 
+
+
+## Boards 
+
+- [[ESP32-ISO-dat]]
 
 
 ## Chip Info 

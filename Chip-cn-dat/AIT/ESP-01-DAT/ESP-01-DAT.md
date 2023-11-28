@@ -53,7 +53,7 @@ ESP-01S SCH
 ESP-01 SCH
 ![](2023-11-28-16-11-32.png)
 
-
+![](2023-11-28-17-19-50.png)
 
 ## arduino uploading 
 - debug set to serial1 or disable 

@@ -2,6 +2,9 @@
 
 # ESP32-WROOM-DAT
 
+
+https://www.electrodragon.com/product/wroom-32/
+
 ## Version compare 32E / 32D / 32U
 
 ### 32E 
@@ -36,6 +39,9 @@ ESP32-WROOM-32U is different from ESP32-WROOM-32D in that ESP32-WROOM-32U integr
 | ESP32-WROOM-32U-N16 | 16MB = 128Mb | N16    | [[NWI1197-dat]] | [[Ipex]] |      |
 
 - ESP-WROOM-32D/U are compatible with former ESP-WROOM-32, pin-to-pin compatible.
+
+
+
 
 ## Functions 
 
@@ -92,6 +98,10 @@ obseleted
 
 
 ## ref 
+
+- [[esp-dat]]
+- [[ESP8266-dat]]
+
 
 forum - http://esp32.net/
 

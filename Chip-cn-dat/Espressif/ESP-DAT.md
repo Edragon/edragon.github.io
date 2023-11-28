@@ -1,34 +1,16 @@
 
 # ESP-HDK-DAT
 
-
-- [[ESP32-DAT]] - [[ESP32-HDK-dat]]
-
-
-## Common Error
-
-
-# ESP-HDK-dat 
-
-
 ## Modules Series 
 
-ESP32
-- [[ESP32-dat]] - [[ESP32-WROOM-dat]]
+- [[ESP32-DAT]] 
 
-ESP32-S2 / ESP32-S3
+- [[ESP8266-dat]]
 
-ESP32-C2 / ESP32-C3
+- [[ESP8684-dat]]
 
-ESP8266
+- [[ESP8685-dat]]
 
-ESP8684
-
-ESP8685
-
-## Boards 
-
-- [[ESP32-ISO-dat]]
 
 ## Debug 
 
