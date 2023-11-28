@@ -1,6 +1,8 @@
 
 # ESP-12S-DAT
 
+https://www.electrodragon.com/product/esp-12s-wifi-module-esp8266/
+
 ## APP
 
 ![](50-48-15-16-12-2022.png)

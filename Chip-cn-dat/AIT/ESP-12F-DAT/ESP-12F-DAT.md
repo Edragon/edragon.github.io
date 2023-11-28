@@ -14,6 +14,8 @@
 
 ![](07-54-23-22-03-2023.png)
 
+![](2023-11-28-17-17-46.png)
+
 ## Pin Definitions 
 
 | left | --                         | right | --                 | func        |
@@ -29,6 +31,11 @@
 
 
 - on module LED IO2: low to on
+
+
+## Periperhal design 
+
+![](2023-11-28-17-17-01.png)
 
 
 ## datasheet 

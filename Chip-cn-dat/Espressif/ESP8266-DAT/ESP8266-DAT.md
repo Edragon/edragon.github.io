@@ -43,12 +43,26 @@ serial1 =
 
 Sell - [[NWI1059-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1127-dat]] - [[NWI1075-dat]]
 
+### WROOM-02 
+
+products overview - https://espressif.com/en/products/hardware/esp-wroom-02/overview
+
+Variation:
+- WROOM-02D/U further optimized RF performace, pin-to-pin compatible with WROOM-02
+- WROOM-02D - on board PCB antenna
+- WROOM-02U - on board IPEX antenna connector, can mount external atenna.
+
 - [[NWI1112-dat]] - [[NWI1160-dat]] - [[NWI1161-dat]]
 
 
 ## ref 
 
+- design guidelines - https://espressif.com/en/support/download/documents?keys=&field_type_tid%5B%5D=16
+
 - CN datasheet of all series - [[esp8266系列使用手册.pdf]]
+- Module datasheet please see here: https://github.com/Edragon/ESP8266-HDK/tree/master/MOD
 
 
 - [[ESP8266]]
+
+- [[ESP32-dat]]
