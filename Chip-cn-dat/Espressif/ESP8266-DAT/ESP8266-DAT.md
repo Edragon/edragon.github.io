@@ -1,32 +1,6 @@
 
 # ESP8266 
 
-
-- [[esp-modules-dat]]
-
-### common pins 
-
-
-| pin    | setup | func                                  | Note    |
-| ------ | ----- | ------------------------------------- | ------- |
-| U0_RXD | GPIO3 | I/O UART Rx during flash programming  |         |
-| U0_TXD | GPIO1 | I/O UART TX during flash programming; | SPI_CS1 |
-
-serial1 = 
-
-### bootstrap
-
-| pin    | setup                | func          |
-| ------ | -------------------- | ------------- |
-| RESET  | pull up + cap 0.1 UF |               |
-| EN     | pull up              |               |
-| IO0    | pull up              |               |
-| IO2    | pull up              | on-module LED |
-| GPIO15 | pull down            |               |
-
-![](15-46-00-28-03-2023.png)
-
-
 ## Modules 
 
 | models                   | SKU             | note                                                             |
@@ -54,9 +28,40 @@ Variation:
 
 - [[NWI1112-dat]] - [[NWI1160-dat]] - [[NWI1161-dat]]
 
+
+### common pins 
+
+
+| pin    | setup | func                                  | Note    |
+| ------ | ----- | ------------------------------------- | ------- |
+| U0_RXD | GPIO3 | I/O UART Rx during flash programming  |         |
+| U0_TXD | GPIO1 | I/O UART TX during flash programming; | SPI_CS1 |
+
+serial1 = U0
+
+
 ## Obseleted Modules List 
 
 - [[ESP-14-dat]]
+- [[ESP-13-dat]]
+
+
+
+
+### bootstrap
+
+| pin    | setup                | func          |
+| ------ | -------------------- | ------------- |
+| RESET  | pull up + cap 0.1 UF |               |
+| EN     | pull up              |               |
+| IO0    | pull up              |               |
+| IO2    | pull up              | on-module LED |
+| GPIO15 | pull down            |               |
+
+![](15-46-00-28-03-2023.png)
+
+
+
 
 ## ref 
 
@@ -69,3 +74,5 @@ Variation:
 - [[ESP8266]]
 
 - [[ESP32-dat]]
+
+- [[ESP-dat]]
