@@ -54,6 +54,9 @@ Variation:
 
 - [[NWI1112-dat]] - [[NWI1160-dat]] - [[NWI1161-dat]]
 
+## Obseleted Modules List 
+
+- [[ESP-14-dat]]
 
 ## ref 
 
