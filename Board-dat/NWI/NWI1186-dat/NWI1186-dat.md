@@ -20,3 +20,4 @@ https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-Sense-Kit?qs=MLItCL
 
 
 - [[Board-stock-out]]
+

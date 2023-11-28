@@ -32,7 +32,10 @@ https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_e
 
 - [[ESP32-C3-DAT]] 
   
-- [[ESP32-­C3-­WROOM-­2-DAT]]
+- [[ESP32-­C3-­WROOM-0­2-DAT]]
+- https://w2.electrodragon.com/gollum/search?q=ESP32-­C3-­WROOM-­02-DAT.md
+
+
 
 - [[ESP32-C3-Mini-1-DAT]]
 
