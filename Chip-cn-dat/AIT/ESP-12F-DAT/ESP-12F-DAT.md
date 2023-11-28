@@ -3,13 +3,18 @@
 
 ![](43-27-15-15-12-2022.png)
 
+## ref 
 
-https://docs.ai-thinker.com/_media/esp8266/docs/esp-12f_product_specification_en.pdf
+- legacy chip wiki page here - https://w.electrodragon.com/w/Category:ESP8266
+- legacy module page - https://w.electrodragon.com/w/ESP-12F_ESP8266_Wifi_Board
 
-https://www.elecrow.com/download/ESP-12F.pdf
+
+
+## Internal SCH
 
 ![](07-54-23-22-03-2023.png)
 
+## Pin Definitions 
 
 | left | --                         | right | --                 | func        |
 | ---- | -------------------------- | ----- | ------------------ | ----------- |
@@ -24,3 +29,13 @@ https://www.elecrow.com/download/ESP-12F.pdf
 
 
 - on module LED IO2: low to on
+
+
+## datasheet 
+
+- [[ESP-12F-DS.pdf]]
+- [[ESP-12F-DS2-dat]]
+- 
+## ref 
+
+- [[ESP8266-dat]]

@@ -7,14 +7,12 @@
 
 ## internal 
 
-
-
-- reset - internal pull-up + cap
-- en    - internal pull-up
-
-- IO0   - internal pull-up
-- IO2   - internal pull-up, with on board LED
-- 
-- IO15  - internal pull-down
+| pins  | internal  | Extra            |
+| ----- | --------- | ---------------- |
+| reset | pull-up   | extra filter cap |
+| en    | pull-up   |                  |
+| IO0   | pull-up   |                  |
+| IO2   | pull-up   | on board LED     |
+| IO15  | pull-down |                  |
 
 ![](56-45-15-16-12-2022.png)

@@ -36,19 +36,19 @@
 
 - [[ESP32-C3-DAT]] 
 
-- [[NWI1239-dat]]
-- [[ESP32-­C3-­WROOM-0­2-DAT]]
+- [[NWI1239-dat]] - [[ESP32-­C3-­WROOM-0­2-DAT]]
 - https://w2.electrodragon.com/gollum/search?q=ESP32-­C3-­WROOM-­02-DAT.md
-
 
 
 - [[ESP32-C3-Mini-1-DAT]]
 
-
-
 - [[ESP-C3-32S-dat]]
 
 - [[ESP-C3-12F-dat]]
+
+| models | lifetime | Compatible | 
+|-|-|-|
+| [[ESP-C3-12F-dat]] | x | [[ESP-12f-dat]]
 
 products - 
 - [[NWI1126-DAT]]
