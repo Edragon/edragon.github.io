@@ -29,6 +29,14 @@ serial1 =
 
 ## Modules 
 
+| models          | SKU                               | note |
+| --------------- | --------------------------------- | ---- |
+| [[ESP-01-DAT]]  | [[NWI1077-dat]] - [[NWI1127-dat]] |      |
+| [[ESP-07S-DAT]] | [[NWI1075-dat]]                   |      |
+| [[ESP-12F-DAT]] | [[NWI1059-dat]]                   |      |
+| [[ESP-12S-DAT]] | [[NWI1086-dat]]                   |      |
+
+
 - [[ESP-01-DAT]] - [[ESP-07S-DAT]] - [[ESP-12F-DAT]] - [[ESP-12S-DAT]]
 
 Sell - [[NWI1059-dat]] - [[NWI1086-dat]]
