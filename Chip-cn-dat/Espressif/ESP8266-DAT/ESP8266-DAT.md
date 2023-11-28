@@ -2,6 +2,8 @@
 # ESP8266 
 
 
+- [[esp-modules-dat]]
+
 ### common pins 
 
 
@@ -26,7 +28,10 @@ serial1 =
 
 
 ## Modules 
+
 - [[ESP-01-DAT]] - [[ESP-07S-DAT]] - [[ESP-12F-DAT]] - [[ESP-12S-DAT]]
+
+Sell - [[NWI1059-dat]] - [[NWI1086-dat]]
 
 ## ref 
 - [[ESP8266]]
