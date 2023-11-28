@@ -28,6 +28,9 @@
 - https://github.com/Edragon/ESP32/blob/master/ESP32-C3/esp32-c3_datasheet_cn.pdf
 - EN DS
 - https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+- Reference manual
+- https://www.espressif.com/sites/default/files/documentation/esp32-c3_technical_reference_manual_en.pdf
+
 
 ## ESP32-C3 Boards 
 
@@ -79,4 +82,18 @@ I2C
 * https://github.com/espressif/arduino-esp32/issues/5478
 
 
+## Boot Loag 
 
+boot log 
+
+    ESP32-C3S
+      ESP-ROM:esp32c3-api1-20210207
+      Build:Feb  7 2021
+      rst:0x1 (POWERON),boot:0x7 (DOWNLOAD(USB/UART0/1))
+      waiting for download
+
+    ESP32-C3-12F
+      ESP-ROM:esp32c3-api1-20210207
+      Build:Feb  7 2021
+      rst:0x1 (POWERON),boot:0x0 (USB_BOOT)
+      wait usb download

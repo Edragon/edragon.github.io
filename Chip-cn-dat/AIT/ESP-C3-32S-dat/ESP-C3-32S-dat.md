@@ -7,7 +7,7 @@
 
 ## ref 
 
-- datasheet - https://docs.ai-thinker.com/_media/esp32/docs/esp-c3-32s_specification.pdf
+- [[Esp32-c3s_specification.pdf]]
 
 - [[ESP-C3-32S]]
 
