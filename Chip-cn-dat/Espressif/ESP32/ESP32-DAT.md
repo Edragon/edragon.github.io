@@ -11,25 +11,32 @@
 
 ## hardware and boards 
 
-- [[ESP32-HDK-dat]] - [[ESP32-WROOM-dat]] - [[ESP32-C3-dat]]
+- [[ESP32-HDK-dat]] 
 
-ESP32-S2 / ESP32-S3
+Series 
 
-ESP32-C2 / ESP32-C3
+- [[ESP32-WROOM-dat]] - [[ESP32-WROVER-dat]]
 
+- [[ESP32-S2-dat]] 
+- [[ESP32-S3-dat]]
+- [[ESP32-C2-dat]] 
+- [[ESP32-C3-dat]]
+
+
+
+Boards 
+- [[IDD1023-dat]] 
+
+Shields 
+- [[NWI1245-dat]]
+
+In Development
+- [[ESP32-ISO-dat]]
 
 
 ## Models selector 选型工具 
-https://products.espressif.com/#/product-selector?language=zh&names=
-
-
-https://products.espressif.com/#/product-selector?language=en
-
-
-
-## Boards 
-
-- [[ESP32-ISO-dat]]
+- https://products.espressif.com/#/product-selector?language=zh&names=
+- https://products.espressif.com/#/product-selector?language=en
 
 
 ## Chip Info 
@@ -45,3 +52,6 @@ https://products.espressif.com/#/product-selector?language=en
 - ESP32 Chip Revision v3.0 - User Guid
 - https://www.espressif.com/sites/default/files/documentation/esp32_chip_revision_v3_0_user_guide_en.pdf
 
+## ref 
+
+- [[ESP32-FAQ]]
