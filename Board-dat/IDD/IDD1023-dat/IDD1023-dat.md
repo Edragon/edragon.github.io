@@ -25,6 +25,9 @@ To program ESP32 (flashing mode):
 ## Code 
 
 - https://github.com/Edragon/Arduino-ESP32
+- please use the standard code in folder - Arduino-ESP32/libraries
+/DMD32-main/
+
 
 ## Demo Early Test 
 
