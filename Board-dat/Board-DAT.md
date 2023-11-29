@@ -153,6 +153,8 @@ ESP32-C3
 
 - [[NWI1199-DAT]] - [[NWI1200-DAT]]
 
+- [[NWI1223-dat]]
+  
 - [[NWI1226-dat]]
   
 - [[NWI1235-DAT]]

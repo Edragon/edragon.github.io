@@ -4,7 +4,7 @@
 
 ## common error
 
-- [[esp-idf]]
+- [[esp-idf-dat]]
 
 1.安装ESP IDF失败
 在线安装：在线安装esp-idf需要代理，一些文件放置在github

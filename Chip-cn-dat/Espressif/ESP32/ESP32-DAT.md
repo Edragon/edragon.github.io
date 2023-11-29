@@ -52,6 +52,11 @@ In Development
 - ESP32 Chip Revision v3.0 - User Guid
 - https://www.espressif.com/sites/default/files/documentation/esp32_chip_revision_v3_0_user_guide_en.pdf
 
+
+## coding 
+
+- [[micropython-dat]] - [[arduino-ide-dat]] - [[c-dat]]
+
 ## ref 
 
 - [[ESP32-FAQ]]

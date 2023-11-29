@@ -1,4 +1,11 @@
 
+# ESP32-S3-dat 
+
+
+
+## module 
+
+### ESP32-S3-WROOM-1
 
 - ESP32-S3-WROOM-1
 
@@ -15,3 +22,17 @@ total pins 40
 ![](52-29-22-05-03-2023.png)
 
 ![](14-31-22-05-03-2023.png)
+
+
+
+
+
+
+## dev board 
+
+- ESP32-S3-DevKitM-1
+
+
+## ref 
+
+- [[ESP32-S3]]
