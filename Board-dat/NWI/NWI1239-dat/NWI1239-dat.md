@@ -9,3 +9,4 @@
 - [[ESP32-C3-dat]]
 
 
+- [[ESP32-C3-WROOM-02]]
