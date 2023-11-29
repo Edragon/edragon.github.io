@@ -44,7 +44,7 @@ SAMD21
 
 ### IDD
 
-- [[IDD1013-DAT]] - [[IDD1016-DAT]]
+- [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]]
 
 ### ILC 
 FPC LCD - [[ILC1075-dat]] - [[ilc1078-dat]]
