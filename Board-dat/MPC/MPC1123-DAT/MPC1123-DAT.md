@@ -3,6 +3,8 @@
 
 # OPI RGB LED Matrix Driver Board for Orange Pi PC
 
+- https://www.electrodragon.com/product/rgb-led-matrix-panel-drive-board-for-orange-pi-opi-h3/
+
 - relevant git - https://github.com/mrfaptastic/opi-allwinner-h3-rgb-led-matrix
 
 - demo test - https://twitter.com/electro_phoenix/status/1522157916757041152

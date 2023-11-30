@@ -17,3 +17,15 @@
 - datasheet https://datasheets.raspberrypi.com/cm4/cm4-datasheet.pdf
 - kicad file - 
 
+
+## Variation Board 
+
+- [[RMP-RPI-CM4-dat]]
+
+
+- RPI-CM4-POE
+- RPI-CM4-POE_4G
+- RPI-CM4-Base_B
+  - SCH - [[CM4-IO-BASE-B_V4_SchDoc.pdf]]
+- RPI-CM4-Base_ETH2
+- RPI-CM4-NANO

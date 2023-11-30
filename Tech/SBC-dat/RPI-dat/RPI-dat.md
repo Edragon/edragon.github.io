@@ -1,10 +1,9 @@
 
 # raspberry pi dat 
 
-
-- [[RPI-CM4-dat]] - [[RPI3-dat]]
-
-
+- [[RPI3-dat]]
+  
+- [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board-dat]]
 
 ## RPI4 
 
