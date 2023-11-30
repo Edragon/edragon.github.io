@@ -3,8 +3,12 @@
 
 https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 
+- legacy wiki page - https://w.electrodragon.com/w/RPI_RMP_Guide
+
+
 - [[MPC1073-design-error]] - [[MPC1073-OS-error]] - [[MPC1073-ref-dat]]
 
+- pin definitions please refer to page - [[RMP-driver-dat]]
 
 ## Board Map 
 
