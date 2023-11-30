@@ -9,7 +9,10 @@ New features please see the right image
 * Power input and output from the left large pin connectors
 
 
+
 ## pin definitions 
+
+- pin definitions please refer to page - [[RMP-driver-dat]]
 
 The following two GPIOs are not used at all and free:
 - pin SC to raspberry pi pin ID_SC
