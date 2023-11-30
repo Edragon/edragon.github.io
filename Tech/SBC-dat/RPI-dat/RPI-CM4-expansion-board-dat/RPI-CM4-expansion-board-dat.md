@@ -33,10 +33,15 @@
 
 ## periperal 
 
-- [[type-c-dat]] - [[HDMI-dat]] - [[M2-dat]] - [[CSI-dat]] - [[DSI-dat]] - [[SDIO-dat]] 
+- protocol [[HDMI-dat]] - [[M2-dat]] - [[CSI-dat]] - [[DSI-dat]] - [[SDIO-dat]] 
 
-- [[ethernet-dat]] - [[fan-driver-dat]] - [[USB-hub-dat]] - [[dcdc-bulk-dat]]
+- network [[ethernet-dat]] 
 
+- misc [[fan-driver-dat]]  
+
+- power supply [[dcdc-bulk-dat]] 
+
+- USB [[USB-switch-dat]] - [[type-c-dat]] - [[USB-hub-dat]]
 
 - VDDIO 
 
