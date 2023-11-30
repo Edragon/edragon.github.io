@@ -52,4 +52,8 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 
 ## ref 
 
+- [[RPI-CM4-expansion-board-dat]]
+
+- datasheet [[cm4-datasheet.pdf]]
+
 - [[RPI-CM]]
