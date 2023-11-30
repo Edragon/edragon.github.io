@@ -6,6 +6,8 @@
 - with arduino [[DAS1087-dat]]
 - Mono Color Drive with ESP32 - [[IDD1023-dat]]
 
+- with Orange Pi - [[MPC1123-dat]]
+
 ## Typical wiring with RPI
 
 | Connection | Pin | Pin | Connection                      |
