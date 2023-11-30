@@ -1,13 +1,44 @@
+# RGB Matrix Panel Driver Board
 
-# RGB Matrix Panel Driver Board 
+- with ESP32 - [[IDD1013-dat]] - [[IDD1016-dat]]
+- with esp8266 [[IDD1007-dat]]
+- with raspberry pi - [[MPC1073-dat]] - [[MPC1119-dat]]
+- with arduino [[DAS1087-dat]]
+- Mono Color Drive with ESP32 - [[IDD1023-dat]]
 
-- [[MPC1073-dat]] - [[MPC1119-dat]]
+## Typical wiring with RPI
 
-- [[IDD1013-dat]] - [[IDD1016-dat]]
+| Connection | Pin | Pin | Connection                      |
+| ---------: | :-: | :-: | :------------------------------ |
+|          - |  1  |  2  | -                               |
+| **[3] G1** |  3  |  4  | -                               |
+| **[3] B1** |  5  |  6  | **GND**                         |
+| **strobe** |  7  |  8  | **[3] R1**                      |
+|          - |  9  | 10  | **E** (for 64 row matrix, 1:32) |
+|  **clock** | 11  | 12  | **OE-**                         |
+| **[1] G1** | 13  | 14  | -                               |
+|      **A** | 15  | 16  | **B**                           |
+|          - | 17  | 18  | **C**                           |
+| **[1] B2** | 19  | 20  | -                               |
+| **[1] G2** | 21  | 22  | **D** (for 32 row matrix, 1:16) |
+| **[1] R1** | 23  | 24  | **[1] R2**                      |
+|          - | 25  | 26  | **[1] B1**                      |
+|          - | 27  | 28  | -                               |
+| **[2] G1** | 29  | 30  | -                               |
+| **[2] B1** | 31  | 32  | **[2] R1**                      |
+| **[2] G2** | 33  | 34  | -                               |
+| **[2] R2** | 35  | 36  | **[3] G2**                      |
+| **[3] R2** | 37  | 38  | **[2] B2**                      |
+|          - | 39  | 40  | **[3] B2**                      |
 
+- reference link - https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2de97ae80d83588f696387/wiring.md
 
-## ref 
+## matrix panel
 
+- [[RGB-matrix-panel-dat]]
+
+## in development
+
+## ref
 
 https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2de97ae80d83588f696387/wiring.md?plain=1#L144
-
