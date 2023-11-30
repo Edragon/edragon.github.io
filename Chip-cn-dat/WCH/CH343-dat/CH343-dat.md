@@ -9,7 +9,7 @@
 - Built-in firmware, emulate standard UART interface, used to upgrade the original serial peripherals or expand additional UART via USB.
 - Original serial applications are totally compatible without any modification in Windows operating systems.
 - Supports free installation OS which built-in CDC driver or multi-functional high-speed VCP vendor driver.
-- Hardware full duplex UART interface, integrated independent transmit-receive buffer, supports communication baud rate varies from 50bps to 6Mbps.
+- Hardware full duplex UART interface, integrated independent transmit-receive buffer, supports communication baud rate varies **from 50bps to 6Mbps.**
 - Supports automatic identification and dynamic adaptation of common communication baud rate of 115200bps and below.
 - UART supports 5, 6, 7 or 8 data bits, and supports odd, even, space, mark and none parity.
 - Supports common MODEM interface signals RTS, DTR, DCD, RI, DSR and CTS.
@@ -33,4 +33,5 @@
 
 ## ref 
 
-https://www.wch-ic.com/products/CH343.html
+- https://www.wch-ic.com/products/CH343.html
+- https://www.wch.cn/products/CH343.html

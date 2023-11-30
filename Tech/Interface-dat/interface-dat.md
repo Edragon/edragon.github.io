@@ -28,7 +28,7 @@
 
 - [[DPR1097-dat]]
 
-[[USB-TTL-dat]] breakout 
+[[Serial-dat]] breakout 
 
 - PL2303 [[DPR1041-dat]] - CH340 [[DPR1042-dat]]
 - CP2102 - [[DPR1003-dat]], [[DPR1002-DAT]]
