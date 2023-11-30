@@ -5,6 +5,7 @@
 
 - [[interface-dat]]
 
+- [[SBC-dat]] - [[RPI-dat]]
 
 ## Circuits 
 
@@ -47,7 +48,9 @@ Industrial / Sensor - [[sensor-dat]]
 
 - [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]]
 
+## Function 
 
+- [[RTC-dat]] - [[buffer-dat]] 
 
 ## Code 
 - [[arduino-ide-dat]]

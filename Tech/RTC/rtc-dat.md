@@ -5,6 +5,9 @@
 - [[DS1307-DAT]]
 - [[DS3231-DAT]]
 
+- PCF85063A
+
+
 
 ## ref board 
 [[MPC1073-DAT]]

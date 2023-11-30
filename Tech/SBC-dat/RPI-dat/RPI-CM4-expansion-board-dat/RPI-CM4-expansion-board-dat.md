@@ -29,3 +29,23 @@
   - SCH - [[CM4-IO-BASE-B_V4_SchDoc.pdf]]
 - RPI-CM4-Base_ETH2
 - RPI-CM4-NANO
+
+
+## periperal 
+
+- [[type-c-dat]] - [[HDMI-dat]] - [[M2-dat]] - [[CSI-dat]] - [[DSI-dat]] - [[SDIO-dat]] 
+
+- [[ethernet-dat]] - [[fan-driver-dat]] - [[USB-hub-dat]] - [[dcdc-bulk-dat]]
+
+
+- VDDIO 
+
+![](2023-11-30-15-45-20.png)
+
+- Mode select 
+
+![](2023-11-30-15-45-39.png)
+
+- LEDs 
+
+![](2023-11-30-15-55-03.png)
