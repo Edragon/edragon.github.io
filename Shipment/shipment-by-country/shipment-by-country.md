@@ -5,6 +5,11 @@
 | country        | update | Zone                | normal & expendiated         | express                            | prerequisite   |
 | -------------- | ------ | ------------------- | ---------------------------- | ---------------------------------- | -------------- |
 |                |        |                     |                              |                                    |                |
+|                |        |                     |                              |                                    |                |
+|                |        |                     |                              |                                    |                |
+|                |        |                     |                              |                                    |                |
+|                |        |                     |                              |                                    |                |
+| Ecuador        | 11-30  | [[America-South]]   | CNRPOST-SZ                   | [[SZFED-PAK]]                      |                |
 | Indonesia      | 10-25  | [[asia]]            | [[NLRPOST]]                  | [[HKDHLX]]                         |                |
 | India          |        | [[asia]]            | -                            | [[HKDHLX]]                         |                |
 | Australia      |        | [[Australia]]       | [[AU-RPOST]]                 |                                    |                |
@@ -125,8 +130,6 @@
 
 prepaid [[VAT]] tax
 
+## ref
 
-
-## ref 
-
-- 
+-
