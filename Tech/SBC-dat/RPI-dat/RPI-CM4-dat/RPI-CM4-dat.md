@@ -29,26 +29,24 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 
 ![](2023-10-27-16-47-11.png)
 
-
-## Expansion Board 
-
-![](2023-10-27-16-49-05.png)
-
-## IO Expansion board 
-
-![](2023-10-27-16-53-47.png)
-
-
-## Combination 
+## Names 
 
 - CM4001008
-
-## CN 
 
 ![](2023-10-27-16-47-35.png)
 
 ![](2023-10-27-16-46-54.png)
 
+
+## Features 
+
+- on module CPU BCM2711 
+
+### On module storage EMMC 
+
+- flash into [[RPI-OS-dat]]
+
+### On module wifi 
 
 ## ref 
 

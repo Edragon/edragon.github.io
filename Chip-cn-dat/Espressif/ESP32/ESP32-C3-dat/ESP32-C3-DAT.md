@@ -7,7 +7,9 @@
     - RAM：400KB
     - QFN32_5x5
 
+## Chip 
 
+- ESP32-C3FH4 QFN-32 
 
 ## IPEX Antenna Version 
 
