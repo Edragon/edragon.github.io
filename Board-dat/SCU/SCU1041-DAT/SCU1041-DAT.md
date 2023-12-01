@@ -19,6 +19,8 @@
 
 ## Ref 
 
+- [[BT136-dat]]
+
 - https://www.electrodragon.com/w/Category:TRIAC
 
 
