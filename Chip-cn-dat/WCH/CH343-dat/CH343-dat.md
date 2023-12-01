@@ -23,15 +23,14 @@
 - Integrated Unique ID (USB Serial Number).
 - RoHS compliant SOP16, ESSOP10 and QFN16 lead-free package.
 
-## Board 
+## Setup 
 
 ![](2023-11-30-17-08-15.png)
 
 
-![](2023-11-30-17-11-55.png)
-
-
 ## ref 
+
+- [[CH343DS1.pdf]]
 
 - https://www.wch-ic.com/products/CH343.html
 - https://www.wch.cn/products/CH343.html
