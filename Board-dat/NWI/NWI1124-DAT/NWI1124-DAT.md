@@ -13,6 +13,8 @@
 | 12 / 24V WS2812 LED Strips   | 12V or 24V corresponding | VIN               | VIN               | GR  | RE  |
 | 12 / 24V WRGB 4ch LED Strips | 12V or 24V corresponding | VIN               | VIN               | GR  | RE  |
 
+* Note1: **12 / 24V WRGB 4ch LED Strips** is the default option which set on the board
+
 ### Setup Explantion V2
 
 ![](02-30-17-13-03-2023.png)
