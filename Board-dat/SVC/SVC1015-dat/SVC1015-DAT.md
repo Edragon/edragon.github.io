@@ -1,4 +1,4 @@
-# SVC1015 DAT
+# SVC1015-DAT
 
 ## Info
 
@@ -9,6 +9,14 @@
 - Power supply range DC4-30.0V (if the voltage exceeds 30V, an external independent power supply is required)
 
 ![](2023-10-20-17-34-13.png)
+
+## Wiring 
+- top left, hold and power up to set to zero
+- bottom left, fine tune voltage 
+- middle top - fine tune current 
+- top right - measure current 
+- bottom right - measure voltage and power supply 
+
 
 ![](2023-10-20-17-45-11.png)
 
