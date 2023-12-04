@@ -4,6 +4,7 @@
 
 # ESP32 SDK
 
+- [[ESP-dat]]
 
 ## Official SDK 
 
@@ -41,6 +42,12 @@ Wirings use [[USB-TTL-dat]]
 - [[ESP-DAT]]
 - [[ESP32-USB-dat]] - [[ESP32-SPI-dat]] 
 
+
+## Unsort 
+
+自己搭建环境：https://esp-idf.readthedocs.io/zh_CN/latest/get-started/index.html
+
+现成虚拟机下载地址：http://wiki.ai-thinker.com/esp32/lubuntu
 
 ## ref 
 
