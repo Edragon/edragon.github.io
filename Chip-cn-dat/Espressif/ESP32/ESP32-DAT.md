@@ -25,7 +25,7 @@ Series
 
 
 Boards 
-- [[IDD1023-dat]] - [[NWI1100-dat]]
+- [[IDD1023-dat]] - [[NWI1100-dat]] - [[SCM1030-dat]]
 
 Shields 
 - [[NWI1245-dat]]
