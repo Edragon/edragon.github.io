@@ -1,6 +1,9 @@
 
 # SCU1010-dat
 
+
+https://www.electrodragon.com/product/n20-high-torque-force-reducing-motor/
+
 Watch me 
 
 ![](2023-12-04-18-33-47.png)
