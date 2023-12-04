@@ -202,6 +202,11 @@ Battery charger - [[OPM1181-dat]]
 ### SCU
 - [[SCU1012-DAT]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
+- [[SCU1010-dat]]
+
+Darlinton driver - [[SCU1024-dat]]
+
+
 ### SDR
 - [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1113-DAT]]
 
