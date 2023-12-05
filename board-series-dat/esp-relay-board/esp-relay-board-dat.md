@@ -13,7 +13,7 @@ legacy wiki page:
 | [Wifi IoT Relay Board](https://www.electrodragon.com/product/wifi-iot-relay-board-based-esp8266/)           | General version SPST                          | [[NWI1072-DAT]]                               | AC Mains Power ON/OFF           |
 | [ESP Relay Board IL](https://www.electrodragon.com/product/esp-relay-board-il-inductive-load/)              | Optimize for inductive load                   | [[NWI1139-dat]]                               | AC Mains Power ON/OFF           |
 | [Wifi IoT Relay Board VDC](https://www.electrodragon.com/product/wifi-iot-relay-board-vdc-based-esp8266/)   | DC Power Supply, DC (or AC) ON/OFF            | [[NWI1115-dat]]                               |                                 |
-| [Wifi IoT Relay Board SPDT](https://www.electrodragon.com/product/wifi-iot-relay-board-spdt-based-esp8266/) | Output free (not from input), DC or AC On/OFF | [[NWI1119-DAT]] - [[NWI1118-dat]] | support common-on or common-off |
+| [Wifi IoT Relay Board SPDT](https://www.electrodragon.com/product/wifi-iot-relay-board-spdt-based-esp8266/) | Output free (not from input), DC or AC On/OFF | [[NWI1119-dat]] - [[NWI1118-dat]] | support common-on or common-off |
 | [ESP LED Strip Board Control](https://www.electrodragon.com/product/esp-led-strip-board/)                   | for LED strips                                | [[NWI1126-dat]] - [[NWI1124-dat]]             |                                 |
 
 ### What is the difference of this version (SPST) and SPDT version:

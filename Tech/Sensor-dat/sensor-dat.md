@@ -11,7 +11,7 @@
 
 - [[thermostat-dat]]
 
-- [[current-sensor]]
+- [[current-sensor-dat]]
 
 ## Sell 
 
