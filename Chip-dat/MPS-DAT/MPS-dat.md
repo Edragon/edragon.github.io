@@ -2,6 +2,8 @@
 
 - [[MPS-ACDC-dat]]
 
+- [[MP2315-dat]]
+
 * MP1470 16V / 2A / SOT23-6 / T-network resistor @ FB
 * MP1471 16V / 3A / SOT23-6
 
