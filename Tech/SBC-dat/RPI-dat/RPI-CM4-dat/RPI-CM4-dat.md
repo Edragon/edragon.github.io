@@ -37,6 +37,13 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 
 ![](2023-10-27-16-46-54.png)
 
+## hardware 
+
+- [[EMMC]] - [[WIFI]]
+
+- Connector - 【 DF40HC (3.0)-100DS-0.4V(51)】
+
+
 
 ## Features 
 
@@ -55,3 +62,18 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 - datasheet [[cm4-datasheet.pdf]]
 
 - [[RPI-CM]]
+
+- https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000
+
+- [[kicad-dat]]
+
+
+## design ref 
+
+footprint 
+
+- https://github.com/Kedarius/RPi-CM4-Kicad
+
+- https://gitlab.com/m10cube/m10
+
+- https://github.com/ShawnHymel/rpi-cm4-carrier-template
