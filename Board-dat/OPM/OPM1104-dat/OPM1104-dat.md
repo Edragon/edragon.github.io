@@ -2,6 +2,14 @@
 
 ![](2023-12-06-17-54-54.png)
 
+
+https://www.electrodragon.com/product/dc-buck-step-power-module-3a24v-mp2315/
+
+the USB version - [[OPM1106-dat]]
+
+https://www.electrodragon.com/product/mp2315-mini-dc-step-power-module-1224v-5v3a/
+
+
 ## Pins
 
 ![](2023-12-06-17-55-41.png)
