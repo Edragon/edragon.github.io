@@ -63,3 +63,8 @@
 - LEDs 
 
 ![](2023-11-30-15-55-03.png)
+
+
+## ref
+
+- [[RPI-CM4-expansion-board]]

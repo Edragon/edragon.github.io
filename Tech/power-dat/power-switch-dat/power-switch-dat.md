@@ -5,7 +5,9 @@
 
 Enhanced single channel power switches
 
-- https://www.st.com/en/switches-and-multiplexers/stmps2151.html
+https://www.st.com/en/switches-and-multiplexers/stmps2151.html
+
+The STMPS2141, STMPS2151, STMPS2161, STMPS2171 power distribution switches are intended for applications where heavy capacitive loads and short-circuits are likely to be encountered. These devices incorporate 90 mΩ N-channel MOSFET high-side power switches for power distribution. These switches are controlled by a logic enable input.
 
 All features
 - 90 mΩ high-side MOSFET switch
