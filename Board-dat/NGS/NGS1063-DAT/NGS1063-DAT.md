@@ -6,6 +6,7 @@
 legacy wiki info 
 
 - https://w.electrodragon.com/w/Category:ED20
+- https://www.electrodragon.com/w/MT2503_Intro
 - https://w.electrodragon.com/w/ED20_HDK
 - https://w.electrodragon.com/w/ED20_SDK
 
