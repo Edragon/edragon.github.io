@@ -6,6 +6,7 @@
 legacy wiki info 
 
 - https://w.electrodragon.com/w/Category:ED20
+- https://www.electrodragon.com/w/MT2503_Intro
 - https://w.electrodragon.com/w/ED20_HDK
 - https://w.electrodragon.com/w/ED20_SDK
 
@@ -21,6 +22,14 @@ legacy wiki info
 
 - Board hardware customize, please contact us if you have any need.
 - Support custom module label for buck order 20pcs
+
+## SDK List 
+
+![](2023-12-11-19-02-13.png)
+
+## Tracking records 
+
+![](2023-12-11-19-02-32.png)
 
 
 ## ref 
