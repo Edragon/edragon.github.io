@@ -1,14 +1,26 @@
 
 # NGS1063 DAT
 
-- [[NGS1063-HDK-V1-DAT]]
 
-old info 
 
-    - https://w.electrodragon.com/w/Category:ED20
-    - https://w.electrodragon.com/w/ED20_HDK
-    - https://w.electrodragon.com/w/ED20_SDK
+legacy wiki info 
 
+- https://w.electrodragon.com/w/Category:ED20
+- https://w.electrodragon.com/w/ED20_HDK
+- https://w.electrodragon.com/w/ED20_SDK
+
+
+## board layout (R4)
+
+![](2023-12-11-18-53-22.png)
+
+![](2023-12-11-18-57-49.png)
+
+
+## Customization 
+
+- Board hardware customize, please contact us if you have any need.
+- Support custom module label for buck order 20pcs
 
 
 ## ref 
@@ -17,3 +29,4 @@ old info
 - [[quectel-GNSS-AT]]
 
 
+- [[NGS1063-HDK-V1-DAT]]
