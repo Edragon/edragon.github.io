@@ -4,6 +4,12 @@
 
 https://www.electrodragon.com/product/ds18b20-water-proof-probe-with-cable/
 
+- legacy wiki page 
+- https://w.electrodragon.com/w/Category:Temperature_Sensor
+- https://w.electrodragon.com/w/DS18B20
+
+
+
 ## Features
 
 - High quality stainless steel tube packaging
@@ -28,6 +34,12 @@ https://www.electrodragon.com/product/ds18b20-water-proof-probe-with-cable/
 - Output leads: red (VCC), yellow (DATA), black (GND)
 
 
+## debug 
+
+- https://twitter.com/electro_phoenix/status/1001674401652363264
+
+
+
 ## Customized 
 
 Cable Length:
@@ -38,3 +50,4 @@ Cable Length:
 - 5 Meter 
 
 For customized version please contact info@electrodragon.com, MOQ for this one is 10pcs, price varies a little bit 
+
