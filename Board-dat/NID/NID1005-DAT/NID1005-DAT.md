@@ -3,7 +3,7 @@
 
 EM4100 125Khz RFID Card Read Module, RDM6300, RDM630, UART
 
-- [[EM4100]]
+- [[EM4100-dat]]
 
 
 Main Product link 
