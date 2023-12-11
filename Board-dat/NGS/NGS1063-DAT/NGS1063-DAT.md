@@ -17,6 +17,12 @@ legacy wiki info
 ![](2023-12-11-18-57-49.png)
 
 
+## Customization 
+
+- Board hardware customize, please contact us if you have any need.
+- Support custom module label for buck order 20pcs
+
+
 ## ref 
 
 - [[ED20]]
