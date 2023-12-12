@@ -44,9 +44,14 @@
 - [[LED-dat]] - [[LED-strip-dat]]
 
 ### Sensors 
+
 Industrial / Sensor - [[sensor-dat]]
 
 - [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]]
+
+[[Motion-sensor-dat]]
+- [[PIR-sensor-dat]]
+
 
 ## Function 
 
