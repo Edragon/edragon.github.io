@@ -212,7 +212,10 @@ Darlinton driver - [[SCU1024-dat]]
 
 ### SMO
 - [[SMO1095-DAT]] - [[SMO1099-dat]]
-  
+
+PIR Sensors
+- [[SMO1088-dat]]
+
 ### STH
 - [[STH1074-DAT]] - [[STH1078-DAT]]
 
