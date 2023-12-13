@@ -37,7 +37,7 @@ Flash Bootloader Programming Guide and Note
 
 ## Demo with using Guide 
 
-- please see here. 
+- [please see here. ](https://www.youtube.com/watch?v=6SlruQVLcK4)
 
 ## ref 
 
