@@ -14,6 +14,8 @@
 
 - test LED = PB3
 - PB5 ~ PB0 = D5-D0, 6 functional pins of the SOP-8 chip
+  - e.g PB3 = D3 
+  - digitalWrite(3, HIGH);
 - VCC / GND
 
 ## Using Guide
@@ -33,3 +35,10 @@ Flash Bootloader Programming Guide and Note
 * Program hex file into target IC with AVRDUDESS
   ![](2023-12-13-14-39-13.png)
 
+## Demo with using Guide 
+
+- please see here. 
+
+## ref 
+
+- [[arduinoISP-dat]]
