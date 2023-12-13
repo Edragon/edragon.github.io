@@ -1,8 +1,12 @@
 # DAR1033-dat
 
+https://www.electrodragon.com/product/arduino-compatible-pth-kit/
+
 ![](2023-11-01-18-02-39.png)
 
 ![](2023-11-01-18-06-47.png)
+
+
 ## BOM
 
 | Parts                     | category   | qty | name | obselete version  |
@@ -29,6 +33,10 @@
 | 1N4001                    | other      |     |      |
 
 * please order this alone: ATMega328 with Optiboot bootloader
+
+## Demo 
+
+- https://t.me/electrodragon3/208
 
 
 ## ref
