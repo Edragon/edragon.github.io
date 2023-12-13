@@ -13,8 +13,8 @@
 ![](2023-12-13-14-49-25.png)
 
 - test LED = PB3
-- PB5 ~ PB0 = D5-D0
-
+- PB5 ~ PB0 = D5-D0, 6 functional pins of the SOP-8 chip
+- VCC / GND
 
 ## Using Guide
 
