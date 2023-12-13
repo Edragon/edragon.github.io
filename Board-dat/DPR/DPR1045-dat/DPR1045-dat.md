@@ -14,7 +14,7 @@
 
 - test LED = PB3
 - PB5 ~ PB0 = D5-D0, 6 functional pins of the SOP-8 chip
-  - e.g PB3 = D3 
+  - e.g PB3 = D3, PB5 = D5
   - digitalWrite(3, HIGH);
 - VCC / GND
 
@@ -42,3 +42,4 @@ Flash Bootloader Programming Guide and Note
 ## ref 
 
 - [[arduinoISP-dat]]
+- [[attiny-dat]]
