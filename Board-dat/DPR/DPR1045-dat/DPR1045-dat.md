@@ -1,6 +1,20 @@
 # DPR1045-dat
 
-- https://www.electrodragon.com/product/attiny-1385-programming-shield/
+- board order - https://www.electrodragon.com/product/attiny-1385-programming-shield/
+- attiny chip order [[6001274-dat]] - https://www.electrodragon.com/product/attiny13-8-pin-10mhz-1k-4ad/
+
+
+- legacy wiki page - https://w.electrodragon.com/w/Category:Arduino
+- legacy wiki page2 - https://w.electrodragon.com/w/AVR_PROG_Shield#Flash_Bootloader_Programming_Guide_and_Note
+
+
+## Board Map 
+
+![](2023-12-13-14-49-25.png)
+
+- test LED = PB3
+- PB5 ~ PB0 = D5-D0
+
 
 ## Using Guide
 
