@@ -3,11 +3,24 @@
 
 - download from - https://www.espressif.com.cn/en/support/download/other-tools
 
+
+## ESP8266
+
+SPI Speed 
+- 40 Mhz
+- 80 Mhz  
+
+SPI Mode 
+- QIO
+- DIO
+- DOUT
+
+
+
+
 ## NWI1139 
 
-SPI = 40Mhz 
-SPI Mode = DOUT
-for CH340, speed up to 1 500 000 = 1.5M
+SPI = 40Mhz, SPI Mode = DOUT, speed up to 1.5M (1 500 000, for CH340)
 
 ![](11-51-17-17-04-2023.png)
 
