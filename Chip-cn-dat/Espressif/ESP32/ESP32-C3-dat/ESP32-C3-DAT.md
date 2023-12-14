@@ -84,18 +84,27 @@ I2C
 * https://github.com/espressif/arduino-esp32/issues/5478
 
 
-## Boot Loag 
+## Boot Log 
 
-boot log 
+If you have a serial USB-TTL bridge board or cable, you can read following debug output from the serial
 
     ESP32-C3S
-      ESP-ROM:esp32c3-api1-20210207
-      Build:Feb  7 2021
-      rst:0x1 (POWERON),boot:0x7 (DOWNLOAD(USB/UART0/1))
-      waiting for download
+
+    ESP-ROM:esp32c3-api1-20210207
+    Build:Feb  7 2021
+    rst:0x1 (POWERON),boot:0x7 (DOWNLOAD(USB/UART0/1))
+    waiting for download
 
     ESP32-C3-12F
-      ESP-ROM:esp32c3-api1-20210207
-      Build:Feb  7 2021
-      rst:0x1 (POWERON),boot:0x0 (USB_BOOT)
-      wait usb download
+
+    ESP-ROM:esp32c3-api1-20210207
+    Build:Feb  7 2021
+    rst:0x1 (POWERON),boot:0x0 (USB_BOOT)
+    wait usb download
+
+
+## ESP32-C3 Enter into Flash Mode
+
+- Connect wiring first 
+- Hold down IO9 
+- Press EN or RST button to restart the module, and enter into flash mode 

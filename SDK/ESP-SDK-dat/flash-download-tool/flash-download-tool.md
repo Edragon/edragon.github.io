@@ -54,13 +54,6 @@ wiring with USB-TTL cable
 
 
 
-### ESP32-C3 Enter into Flash Mode
-
-- Connect wiring first 
-- Hold down IO9 
-- Press EN or RST button to restart the module, and enter into flash mode 
-
-
 ## Common Error 
 
 ![](2023-12-14-14-46-50.png)
