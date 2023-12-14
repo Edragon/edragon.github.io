@@ -59,3 +59,10 @@ wiring with USB-TTL cable
 - Connect wiring first 
 - Hold down IO9 
 - Press EN or RST button to restart the module, and enter into flash mode 
+
+
+## Common Error 
+
+![](2023-12-14-14-46-50.png)
+
+5-chip efuse check fail
