@@ -3,6 +3,7 @@
 
 ## python CLI version 
 
+### ESP32C3
 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\4.2.1/esptool.exe --chip esp32c3 --port COM12 --baud 921600 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size 4MB 0x0 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.bootloader.bin 0x8000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.partitions.bin 0xe000 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6/tools/partitions/boot_app0.bin 0x10000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.bin 
 
 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\4.2.1/
@@ -34,19 +35,6 @@ esptool.exe --chip esp32c3 --port COM7 --baud 921600 --before default_reset --af
 0x8000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_562933/basic-2.ino.partitions.bin 
 0xe000 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6/tools/partitions/boot_app0.bin 
 0x10000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_562933/basic-2.ino.bin 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\3.3.0>esptool.exe
@@ -108,4 +96,10 @@ optional arguments:
 esptool.exe --baud 115200 --port COM66 --baud 115200 read_flash 0 2097152 output.bin
 
 esptool.exe --baud 115200 --port COM66 --baud 921600 read_flash 0 2097152 output.bin
+
+
+
+### ESP8266
+
+C:\Users\Administrator\AppData\Local\Arduino15\packages\esp8266\tools\python3\3.7.2-post1/python3 -I C:\Users\Administrator\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.2/tools/upload.py --chip esp8266 --port COM162 --baud 921600 --before default_reset --after hard_reset write_flash 0x0 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_397525/webserver-path-1.ino.bin
 

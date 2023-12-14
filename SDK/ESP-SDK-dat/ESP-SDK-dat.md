@@ -14,7 +14,7 @@
 ## ESP Arduino code and firmware 
 
 
-- [[arduino-esp32-dat]]
+- [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
 
 - arduino firmware - https://github.com/Edragon/esp_firmware
 
