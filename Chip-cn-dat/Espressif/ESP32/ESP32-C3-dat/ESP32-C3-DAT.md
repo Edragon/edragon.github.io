@@ -11,6 +11,9 @@
 
 - ESP32-C3FH4 QFN-32 
 
+- [[ESP32-­C3-­WROOM-­2-DAT]]
+
+
 ## IPEX Antenna Version 
 
 ![](40-46-13-07-06-2023.png)

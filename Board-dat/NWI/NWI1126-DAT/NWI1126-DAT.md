@@ -82,13 +82,14 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 ## ref
 
-- [[ESP32-­C3-­WROOM-­2-DAT]]
+- read more information regarding how to use the chip here [[ESP32-C3-dat]]
 
 - [[NWI1124-DAT]]
 - [[NWI1125-DAT]]
 - [[NWI1126]]
 
 - [[ESP32-DAT]] - code at [[arduino-esp32-dat]]
+
 
 ## jumper setup cases
 
