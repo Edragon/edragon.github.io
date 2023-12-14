@@ -42,7 +42,7 @@ SAMD21
 [[USB-TTL-dat]] - [[DPR1029-dat]]
 
 AVR
-- [[DPR1009-dat]] - [[DPR1045-dat]]
+- [[DPR1009-dat]] - [[DPR1045-dat]] - [[DPR1048-dat]]
 
 ### IDD
 
