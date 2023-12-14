@@ -105,6 +105,7 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 
 ## ESP32-C3 Enter into Flash Mode
 
-- Connect wiring first 
+- Connect wiring first, TXD->RXD, RXD->TXD, 5V, GND
 - Hold down IO9 
-- Press EN or RST button to restart the module, and enter into flash mode 
+- Press EN or RST button to restart (re-power) the module
+- Now it is enter into flash mode 
