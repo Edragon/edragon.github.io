@@ -3,9 +3,14 @@
 
 * Support 5V/3V3 via AMS1117 [[LDO-dat]]
 
-## Board 
+## Power Supply Board 
 
 - [[OPM1027-dat]] - [[OPM1028-dat]]
+
+## Bread baord 
+
+https://www.electrodragon.com/product/breadboard-wside-power-channels/
+
 
 ## SCH 
 
