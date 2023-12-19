@@ -29,8 +29,19 @@ Supports USB1.0/1.1 specification, compatible with USB2.0 specification, support
 2. Connect the USB serial cable to the USB interface of the computer and automatically install the driver.
 3. After successful installation, go to the device manager and the COM port will appear.
 
+## Programming ISP MCUs 
 
+Can program these types of MCUs:
+- STC microcontroller
+- STM32 MCU
+- NXP microcontroller
+- Renesas MCU
+- NEC MCU
 
 ## ref 
 
 - [[MAX3232-dat]]
+
+- [[USB-TTL-dat]] - [[serial-dat]] - [[RS232-dat]]
+
+- [[DPR1073]]

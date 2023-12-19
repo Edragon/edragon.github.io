@@ -45,6 +45,8 @@ Booting Mode select
 
 ### Programming Wiring 
 
+
+
 - for [[NWI1126-dat]]
 
 ![](2023-09-27-16-07-06.png)
@@ -62,6 +64,9 @@ Booting Mode select
 ### troubleshooting checklist
 - reverse TX RX in case wrong wiring of communication
 
+## Applications 
+
+![](2023-12-19-16-16-01.png)
 
 ## ref 
 software [[com-monitor-dat]]
