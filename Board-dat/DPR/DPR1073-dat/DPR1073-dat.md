@@ -1,9 +1,11 @@
 
 # DPR1073-dat
 
-- [[MAX3232-dat]]
-
 USB Driver - [[CH340-dat]]
+
+## SCH 
+
+- **No Documents or schematic available at this moment.**
 
 ## Specs 
 Total cable length: about 90CM shielded cable 
@@ -26,3 +28,9 @@ Supports USB1.0/1.1 specification, compatible with USB2.0 specification, support
 1. Run the driver CH340.EXE file to install
 2. Connect the USB serial cable to the USB interface of the computer and automatically install the driver.
 3. After successful installation, go to the device manager and the COM port will appear.
+
+
+
+## ref 
+
+- [[MAX3232-dat]]
