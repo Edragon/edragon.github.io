@@ -133,3 +133,10 @@ B. 包裹在我司中转过程中丢失，经我司确认丢件的:不需要提�
 
 ![](2023-12-19-16-39-38.png)
 
+- 不包关税以及 VAT
+- 下单需提供收件人名孛和身份证号码
+- 每公斤申报不得高于等于40美金。每公斤申报价值超过40美金, 发件人承申报价值50% 税费。
+
+- Excludes tariffs and VAT
+- When placing an order, you need to provide the recipient’s name and ID number.
+- The declaration fee shall not be higher than or equal to US$40 per kilogram. If the declared value per kilogram exceeds US$40, the sender shall bear 50% tax on the declared value.
