@@ -2,27 +2,7 @@
 
 # EURPOST
 
-- [[ZAEXPRESS]]
-
-## Note
-
-## South Africa 
-
-
-### 申报要求：
-每公斤申报不得高于等于40美金，每公斤申报价值超过40美金，发件人承担申报价值50%税费。
-举例：0.2KG申报价值不能高于等于8美金；快件内禁止有任何商品标价牌、任何形式的发票、否则产生税金需额外支付；
-
-
-### Declaration requirements: 
-The declared value per kilogram shall not be higher than or equal to US$40. If the declared value per kilogram exceeds US$40, the sender shall bear 50% of the tax on the declared value.
-For example: the declared value of 0.2KG cannot be higher than or equal to US$8; any product price tags or invoices of any form are prohibited in the express, otherwise taxes will be paid additionally;
-
-### Example 
-- 1KG = 40U
-- 0.5KG = 20U
-
-## 皇邮宝带电价（EURPOST）渠道介绍
+## CN 皇邮宝带电价（EURPOST）渠道介绍
 
 ## 渠道线路：	
 1. 美国：PFC-香港直飞LAX\JFK-商业清关-Lasership/ONTRAC/USPS/PIGGYCARS/UDS派送；    
@@ -128,8 +108,9 @@ B. 包裹在我司中转过程中丢失，经我司确认丢件的:不需要提�
 服务商官网显示签收，但客户说没有收到包裹的情况，我司会协助查询，但不提供赔偿。" 
      特别提示：	客户一旦同意接受我公司服务，即默认客户已详细阅读过此价格表备注内容以及我司托运条款，并接受各条款的约束。
 
+## EN Note 
 
-## South Africa 
+### South Africa Declaraction
 
 ![](2023-12-19-16-39-38.png)
 
@@ -140,3 +121,13 @@ B. 包裹在我司中转过程中丢失，经我司确认丢件的:不需要提�
 - Excludes tariffs and VAT
 - When placing an order, you need to provide the recipient’s name and ID number.
 - The declaration fee shall not be higher than or equal to US$40 per kilogram. If the declared value per kilogram exceeds US$40, the sender shall bear 50% tax on the declared value.
+
+- [[ZAEXPRESS]]
+
+The declared value per kilogram shall not be higher than or equal to US$40. If the declared value per kilogram exceeds US$40, the sender shall bear 50% of the tax on the declared value.
+For example: the declared value of 0.2KG cannot be higher than or equal to US$8; any product price tags or invoices of any form are prohibited in the express, otherwise taxes will be paid additionally;
+
+Example 
+- 1KG = 40U
+- 0.5KG = 20U
+
