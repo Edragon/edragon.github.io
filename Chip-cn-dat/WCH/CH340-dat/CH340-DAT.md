@@ -14,5 +14,5 @@
 
 ## ref 
 
-- https://w.electrodragon.com/w/Category:CH340
+- legacy wiki page https://w.electrodragon.com/w/Category:CH340
 
