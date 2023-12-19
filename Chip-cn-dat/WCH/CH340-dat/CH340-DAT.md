@@ -8,6 +8,10 @@
 - USB device should be found as: USB-SERIAL CH340K (COM161)
 
 
+## driver 
+
+- [[CH340SER.zip]]
+
 ## ref 
 
 - https://w.electrodragon.com/w/Category:CH340
