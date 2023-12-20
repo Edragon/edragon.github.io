@@ -1,6 +1,7 @@
 
 # ILSS008
 
+5050 RGB LED Strips, 60 LEDs/M [Meters]
 
 1M 
 ILSS006
