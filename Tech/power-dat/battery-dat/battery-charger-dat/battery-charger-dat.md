@@ -1,15 +1,26 @@
+# battery-charge-dat
 
-# battery-charge-dat 
+## Compare
 
-- [[LTC4054-dat]]
+| Type     | Feature                           | charge-current |
+| -------- | --------------------------------- | -------------- |
+| TP5000   | Li-MnO2, LiFePO4(LFP) charger IC, | 0.5A           |
+| MCP73831 | 0LED indicator                    | 0.5A           |
+| TP4056   | Linear charging                   | ~1A            |
 
+## Chip Info
 
-## ref 
+- [[LTC4054-dat]] - [[MCP73831-dat]]
 
-- [[battery-charger]] - [[battery]]
+## Board
 
+- [[OPM1193-dat]] - [[OPM1156-dat]]
 
-## voltage map 
+## ref
+
+- [[battery-dat]]
+
+## voltage map
 
 | volt | composite | sum   |
 | ---- | --------- | ----- |
