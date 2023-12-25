@@ -28,7 +28,7 @@ Data Output
 - On board AC-DC Power Supply Converter
 - Isolated signal output
 
-## R2 Version Update:
+## R2 Current Version Update:
 
 - Main image is the R2 version.
 - Default use capacitive dropper method as non-isolation AC-DC power supply, supply current up to 100mA. Add fuse and varistor general protection.
