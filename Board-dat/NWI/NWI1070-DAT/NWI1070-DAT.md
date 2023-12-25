@@ -2,7 +2,12 @@
 
 # NWI1070-DAT 
 
+https://www.electrodragon.com/product/esp-01-breakout-board/
+
+
 ### V2 Version
+
+![](2023-12-25-17-51-27.png)
 
 - Add onboard LDO regualtor AMS1117, input voltage can be 5V, provided stable power supply 
 - Add pull up and pull down control resistors for booting, pin 0, 2, EN, RST
@@ -11,6 +16,14 @@
 - Lead all pins 2*4 out to breadboard
 
 ![](09-52-16-04-05-2023.png)
+
+Use Guide - Flash 
+- Hold down PROG button and press Reset button 
+
+
+
+
+
 
 
 ### V1 version 
