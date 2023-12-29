@@ -3,15 +3,22 @@
 # DOD1071 DAT
 
 
-## versions 
+## Board Map
 
-V2 updates:
+
+![](31-28-18-17-03-2023.png)
+
+Version V2 updates:
 - added ADC port with voltage ladder P11
 - changed LED pins to P43 P42
 - changed lead out pins 
 - new type micro-USB part
-![](31-28-18-17-03-2023.png)
-V1
+
+
+
+
+
+## V1
 ![](50-16-15-31-01-2023.png)
 
 - microUSB = USBA_Female (bottom) = DM/DP
@@ -21,6 +28,8 @@ V1
 
 
 - LED = P14 P15 P16 P17
+
+## Demo Code 
 
 default firmware, demo code at our git
 WCH_CH55X-APP\CH559\CH559-GPIO-LOOP-BLINK\CH559.HEX
