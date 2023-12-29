@@ -1,5 +1,17 @@
 
 
+# PIC-SDK-dat 
+
+- legacy wiki page - https://w.electrodragon.com/w/PIC_SDK
+
+
+## Boards 
+
+- [[DOD1049-dat]]
+
+
+
+
 ### mplabX
     - v2.3 = 377MB
     - MPLAB X IDE
