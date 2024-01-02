@@ -123,7 +123,7 @@ Case 2: Control WS2812 LED Strips
 
 ## demo video
 
-
+- video 3 - use I2C - https://youtube.com/shorts/UG-1v1mZk8A?si=PcT6opcI4V1srDCq
 - video 2
 - running LED Strips at 1A / 24V for 1 hour, the board's temperature raise a little. 
 - https://www.youtube.com/shorts/aCjfessCOVM
