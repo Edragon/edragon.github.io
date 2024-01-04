@@ -1,10 +1,7 @@
 
 # SIR1008-dat
 
-
-- [[infrared-receiver]]
-  
-- [[GP1UX31QS.pdf]]
+https://www.electrodragon.com/product/kit-universal-ir-receiver-gp1ux311qs-and-ir-led-transmitter/
 
 
 ## ref 
