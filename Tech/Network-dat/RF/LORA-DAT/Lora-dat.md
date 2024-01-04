@@ -1,18 +1,27 @@
 # lora-dat
 
 legacy wiki page
-https://w.electrodragon.com/w/Lora_Tech
+- https://w.electrodragon.com/w/Lora_Tech
+- https://www.electrodragon.com/w/Category:Wireless
 
 
-
+## Board 
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino]]
 
-- [[NWL1071-dat]] - [[NWL1072-dat]]
+## Module 
 
-high power lora series [[EE2-dat]] - [[NWL1078-dat]] - [[NWL1081-dat]] - [[NWL1079-dat]]
+### EE1 - common series 
+- [[NWL1071-dat]] - [[NWL1072-dat]] 
+
+### obseleted
+HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
+
+### high power lora series 
+
+- [[EE2-dat]] - [[NWL1078-dat]] - [[NWL1081-dat]] - [[NWL1079-dat]]
 - antenna connection type = 内孔 = internal hole
 
-
+## Chip 
 
 - SX1278
 - LLCC68
@@ -46,3 +55,5 @@ high power lora series [[EE2-dat]] - [[NWL1078-dat]] - [[NWL1081-dat]] - [[NWL10
 https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
 
 - [[crystal-dat]]
+
+- [[lora]]
