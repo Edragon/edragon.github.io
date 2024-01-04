@@ -1,20 +1,17 @@
 
 # Infrared 
 
-## Boards or Items 
+## Boards
 
 - [[SIR1008-dat]]
 
 
 ## BOM 
 
-- [[infrared-receiver]] - [[infrared-sender]]
+- [[infrared-receiver-dat]] - [[infrared-sender-dat]]
 
-## Circuits 
 
-### connecting to RPI 
 
-![](2023-10-31-17-25-13.png)
 
 ## Tutos 
 
