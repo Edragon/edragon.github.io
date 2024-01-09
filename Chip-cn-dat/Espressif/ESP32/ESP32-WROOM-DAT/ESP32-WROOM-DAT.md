@@ -7,6 +7,10 @@ https://www.electrodragon.com/product/wroom-32/
 
 ## Version compare 32E / 32D / 32U
 
+### 32D 
+
+![](2024-01-09-14-50-52.png)
+
 ### 32E 
 The ESP32-WROOM-32E and ESP32-WROOM-32D are both modules based on the ESP32 system-on-a-chip (SoC) by Espressif Systems. They are very similar in terms of features and capabilities but have a few key differences.
 
@@ -21,9 +25,14 @@ The E is the latest WROOM version, using the new V3 silicon. It is a direct upgr
 
 If you're buying new, get the 32E and consider the 32D obsolete. If you're already using 32D, it's going to be functionally identical in every way that likely matters to you so don't worry about it. (ie. It's not worth 'upgrading' to the E unless there is a specific issue you're facing.) See this guide for more info: https://www.espressif.com/sites/default/files/documentation/ESP32_ECO_V3_User_Guide__EN.pdf
 
+
+
+
 ### 32U 
 ESP32-WROOM-32U is different from ESP32-WROOM-32D in that ESP32-WROOM-32U integrates a connector to connect an external antenna. 
 
+
+![](2024-01-09-14-49-16.png)
 
 
 ## Module List 
@@ -36,7 +45,7 @@ ESP32-WROOM-32U is different from ESP32-WROOM-32D in that ESP32-WROOM-32U integr
 | ESP32-WROOM-32D-N16 | 16MB = 128Mb | N16    | [[NWI1195-dat]] | PCB      |      |
 | ESP32-WROOM-32U-N4  | 4MB = 32Mb   | N4     | [[NWI1157-dat]] | [[Ipex]] |      |
 | ESP32-WROOM-32U-N8  | 8MB = 64Mb   | N8     | [[NWI1196-dat]] | [[Ipex]] |      |
-| ESP32-WROOM-32U-N16 | 16MB = 128Mb | N16    | [[NWI1197-dat]] | [[Ipex]] |      |
+| ESP32-WROOM-32U-N16 | 16MB = 128Mb | N16    | [[NWI1197-DAT]] | [[Ipex]] |      |
 
 - ESP-WROOM-32D/U are compatible with former ESP-WROOM-32, pin-to-pin compatible.
 
