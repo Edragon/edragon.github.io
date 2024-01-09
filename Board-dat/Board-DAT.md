@@ -80,6 +80,8 @@ RPI LCD
 
 Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 
+- [[MPC1111-dat]]
+
 ### MSP 
 - [[MSP1061-DAT]] - [[MSP1076-dat]]
 
@@ -136,7 +138,7 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 
 [[ESP32-WROOM-dat]]
 [[NWI1155-DAT]] - [[NWI1194-dat]] - [[NWI1195-dat]]
-[[NWI1157-DAT]] - [[NWI1196-dat]] - [[NWI1197-dat]]
+[[NWI1157-DAT]] - [[NWI1196-dat]] - [[NWI1197-DAT]]
 
 [[ESP32-WROVER-DAT]]
 IPEX-ANT

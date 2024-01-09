@@ -31,3 +31,10 @@ Library
 
 
 
+## Panel specifications 
+
+- ICN2038S 
+- solution1 - https://github.com/hzeller/rpi-rgb-led-matrix/issues/1296
+- solution2 - https://rpi-rgb-led-matrix.discourse.group/t/p2-128x64-hub-75-icnd2038s/125/8
+
+
