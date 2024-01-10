@@ -1,17 +1,10 @@
 
 # ESP-01 DAT
 
-- [[ESP8266-DAT]]
+- [[ESP8266-DAT]] - [[ESP-01S-dat]]
+
 
 ## hardware 
-
-
-
-### ESP-01S
-
-the differences between ESP-01 VS ESP-01S (more components )
-
-![](2023-11-28-16-10-10.png)
 
 
 ### ESP-01 (obseleted, without suffix S)
@@ -37,20 +30,11 @@ the differences between ESP-01 VS ESP-01S (more components )
 - on board LED : The blue LED on the ESP-01 module is connected to GPIO2 (UART0_TXD)
 
 
-## ESP-01 VS ESP-01S
-
-ESP-01S SCH
-![](2023-11-28-16-13-36.png)
-
-- IO15 - pull-down 
-- reset - pull up
-- chip_EN - pull up
-- GPIO0 - pull up
-- GPIO2 - LED + pull up
 
 
 
-ESP-01 SCH
+
+## ESP-01 SCH
 ![](2023-11-28-16-11-32.png)
 
 ![](2023-11-28-17-19-50.png)

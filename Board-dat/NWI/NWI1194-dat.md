@@ -1,6 +1,0 @@
-
-# NWI1194 
-
-ESP32-WROOM-32D N8 = 64Mb = 8MB
-
-- [[ESP32-WROOM-DAT]]

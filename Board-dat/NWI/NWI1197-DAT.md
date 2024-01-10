@@ -1,3 +1,0 @@
-
-# NWI1194 dat 
-ESP32-WROOM-32U - 16MB = 128Mbit
