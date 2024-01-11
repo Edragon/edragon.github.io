@@ -49,6 +49,8 @@ This series include size:
 
 ## Special Note:
 
+### Supply Current: 
+
 4.3-inch and larger TFT backlight current consumption is relatively large (4.3-inch has more than 200 ma at its brightest, 5-inch has more than 300 ma at its brightest, and 7-inch has 500ma at its brightest).
 
 If USB power supply is used, some computer motherboards may not be able to supply current, or the module may not work due to severe voltage division due to poor USB connection quality.
