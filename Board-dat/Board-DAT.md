@@ -44,6 +44,10 @@ SAMD21
 AVR
 - [[DPR1009-dat]] - [[DPR1045-dat]] - [[DPR1048-dat]]
 
+### DVA 
+
+- [[DVA1002-dat]]
+  
 ### IDD
 
 - [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]]
