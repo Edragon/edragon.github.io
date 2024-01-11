@@ -3,8 +3,12 @@
 
 5" LCD 
 
+https://www.electrodragon.com/product/tft01-lcd-tft-display-3-2-65kcolors-320240-resolution-touch-panel-sd-slot/
 
-## Look 
+main series - [[EDL-dat]] 
+
+
+## appearnace 
 
 ![](2023-11-01-14-11-41.png)
 
@@ -20,10 +24,8 @@
 
 ## ref 
 
-- [[ilc1031]] - [[EDL-dat]] 
-
-- [[EDL-LCD]]
+- [[ilc1031]] - [[EDL-LCD]]
 
 - [[SSD1963-dat]]
-  
-- [[ILC1031-2-dat]]
+
+alternative version - [[ILC1031-2-dat]]
