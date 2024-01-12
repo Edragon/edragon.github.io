@@ -2,7 +2,7 @@
 
 link - https://www.electrodragon.com/product/esp8266-wifi-arduino-uart-extension-board/
 
-## Version 2
+## Current Version 2
 
 ![](2023-10-30-16-03-33.png)
 
@@ -19,5 +19,26 @@ link - https://www.electrodragon.com/product/esp8266-wifi-arduino-uart-extension
 | Jumper Name    | Set            | Description                                                 |
 | -------------- | -------------- | ----------------------------------------------------------- |
 | Flash          | ON or OFF      | Set flash mode, flash LED will turn on                      |
-| Arduino Serial | D1/D0 or D3/D2 | Arduino serial switch between softserial or hardware serial |
+| Arduino Serial | D1/D0 or D3/D4 | Arduino serial switch between softserial or hardware serial |
 | Serial Switch  |                | Arduino or standalone output                                |
+
+## ESP Part 
+
+- Serial selectable connect to arduino Serial D0/D1 or D3/D4
+
+## Lora Part
+
+
+## DHT11
+
+- Selectable to ESP IO13 or Arduino A0, by backside jumper
+
+
+
+## Demo code 
+
+- arduino_uart_esp_at -> arduino send AT commands to ESP8266
+- arduino_uart_esp_wifi -> "transparent" communicatino in TCP client mode 
+- in https://github.com/Edragon/arduino-esp8266/tree/master/Sketchbook/Hardware
+
+
