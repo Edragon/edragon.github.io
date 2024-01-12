@@ -28,10 +28,12 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 - IO5 = LED
 
 - general load switching 
+- please note one chip is not soldering default in case you don't need two to save cost
+- try IO12 or IO19
+- VBAT pin up to 36V, and OUTA or OUTB will be on/off when you digitalWrite it high or low
   - IO12 = CTRL1
-  - IO19 = CTRL2 - chip is not soldered by default 
+  - IO19 = CTRL2 
   - IO13 = STATUS1
-
   - IO18 = STATUS2
 
 
@@ -57,6 +59,7 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 ## ref
 - code please refer to our ESP32 arduino github repository 
+- https://github.com/Edragon/Arduino-ESP32/tree/master/BSP/NWI1245/power-switch-test
 - https://github.com/Edragon/Arduino-ESP32
 - https://github.com/Edragon/Arduino-ESP32/blob/master/Sketchbook/interface/RS485-1/RS485-1.ino
 
