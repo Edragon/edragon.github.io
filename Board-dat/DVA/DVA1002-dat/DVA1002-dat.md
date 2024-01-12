@@ -8,6 +8,8 @@ https://www.electrodragon.com/product/nrf24duino-arduino-mini-plus-nrf24l01-boar
 
 legacy wiki page - https://www.electrodragon.com/w/Nrf24Duino
 
-
+series - [[edarduino-dat]]
 
 ![](2024-01-10-23-03-39.png)
+
+
