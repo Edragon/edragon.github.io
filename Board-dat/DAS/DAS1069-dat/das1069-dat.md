@@ -24,6 +24,7 @@ link - https://www.electrodragon.com/product/esp8266-wifi-arduino-uart-extension
 
 ## ESP Serial Part 
 
+- [[ESP-12F-dat]]
 - Serial selectable connect to arduino Serial D0/D1 or D3/D4
 
 ## Lora SPI Part
