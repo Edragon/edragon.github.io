@@ -7,6 +7,7 @@
 - [official reference page.](https://docs.arduino.cc/retired/boards/arduino-pro-mini#osh-schematics)
 - [get started tuto page. ](http://www.arduino.cc/en/Guide/ArduinoProMini)
 
+Series - [[edarduino-dat]]
 
 ## Version 
 
