@@ -22,12 +22,28 @@ link - https://www.electrodragon.com/product/esp8266-wifi-arduino-uart-extension
 | Arduino Serial | D1/D0 or D3/D4 | Arduino serial switch between softserial or hardware serial |
 | Serial Switch  |                | Arduino or standalone output                                |
 
-## ESP Part 
+## ESP Serial Part 
 
 - Serial selectable connect to arduino Serial D0/D1 or D3/D4
 
-## Lora Part
+## Lora SPI Part
 
+- D13 - CLK
+- D12 - DO
+- D11 - DI 
+- D10 - CS
+- DIO0 / IRQ - D2
+
+Reserved DIO (via jumpers)
+- DIO1 - D6
+- DIO2 - D7
+- DIO5 - D8
+- DIO3 - x
+- DIO4 - x 
+
+## Other 
+
+- D5 - Flash_CS
 
 ## DHT11
 
