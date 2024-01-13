@@ -49,7 +49,11 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 ![](53-04-16-30-01-2023.png)
 - back side selector for UARTs
 
+## removing tips 
 
+![](2024-01-13-11-00-30.png)
+
+- use a small driver to leverage in the between carefully 
 
 ## power supply
 - [[DCDC1]] - [[NWI1245]]
