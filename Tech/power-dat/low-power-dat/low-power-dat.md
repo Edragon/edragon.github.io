@@ -1,5 +1,8 @@
 
-# Low Power Test 
+# Low-Power-dat
+
+[[DVA1002-dat]]
+
 
 [[DVA1007-DAT]]
 - https://twitter.com/electro_phoenix/status/1639160253811142656
@@ -9,3 +12,10 @@
 [[NGS1096-DAT]]
 - Sim7020g low power test 27ua in sleep mode, wake up by pin
 - https://twitter.com/electro_phoenix/status/1640585737308622850
+
+
+## ref 
+
+- low power design guide [[AN1416.pdf]]
+
+- [[low-power]]
