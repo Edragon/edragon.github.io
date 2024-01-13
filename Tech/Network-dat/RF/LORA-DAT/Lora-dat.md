@@ -11,13 +11,12 @@ legacy wiki page
 ## Module 
 
 ### EE1 - common series 
-- [[NWL1071-dat]] - [[NWL1072-dat]] 
+[[NWL1071-dat]] - [[NWL1072-dat]] 
 
-### obseleted
+### classic
 HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 ### high power lora series 
-
 - [[EE2-dat]] - [[NWL1078-dat]] - [[NWL1081-dat]] - [[NWL1079-dat]]
 - antenna connection type = 内孔 = internal hole
 
