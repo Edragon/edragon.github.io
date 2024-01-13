@@ -66,6 +66,9 @@ RPI LCD
 
 
 ### ILE
+
+- [[ILE1001-dat]] - [[ILE1047-dat]]
+
 - [[RGB-matrix-panel-dat]] - RGB Matrix Panel 
   - P8 - [[ILE1058-dat]]
   - P6 - [[ILE1059-DAT]] 
