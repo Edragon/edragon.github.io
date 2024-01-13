@@ -6,6 +6,18 @@ https://w.electrodragon.com/w/STM32
 ![](2024-01-13-13-05-45.png)
 
 
-Periperals list 
+Input Buttons 
+- PA0
+- PC1
+- PC13 
 
-- [[flash-dat]] - [[OLED-dat]] - [[LCD-dat]] - [[NRF24L01-dat]]
+LED Indicators 
+- PA8
+- PD2
+- Power LED
+
+- [[STM32-dat]]
+
+## ref 
+
+- [[DOD1084]]
