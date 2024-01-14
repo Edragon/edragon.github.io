@@ -87,6 +87,8 @@ RPI LCD
 
 ### MPC
 
+- [[MPC1029-dat]]
+
 - [[MPCS042-DAT]] - [[MPC1123-DAT]] 
 
 Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
@@ -185,8 +187,6 @@ ESP32-APP
 
 
 
-
-
 ### OPM 
 - [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
 
@@ -198,6 +198,8 @@ ESP32-APP
 battery holder - [[OPM1189-dat]]
 
 battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
+
+[[OPM1143-dat]]
 
 [[energy-meter-dat]] - [[OPM1126-dat]]
 
