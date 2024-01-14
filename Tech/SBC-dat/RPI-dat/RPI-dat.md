@@ -7,6 +7,10 @@
 
 - [[RPI-OS-dat]]
 
+## Shields 
+
+- [[MPC1029-dat]]
+
 ## RPI4 
 
 - BCM2711B0: cortex-A72 
