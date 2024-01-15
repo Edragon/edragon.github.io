@@ -66,7 +66,11 @@ Booting Mode select
 
 ## Applications 
 
+Flash target MCU microcontroller
 ![](2023-12-19-16-16-01.png)
+
+communicate with GPS module 
+![](2024-01-13-12-35-57.png)
 
 ## ref 
 software [[com-monitor-dat]]

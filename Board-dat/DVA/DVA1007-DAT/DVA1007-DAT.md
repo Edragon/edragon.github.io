@@ -55,7 +55,7 @@ FT232 Programming Port
 - turn RF Lora into sleep mode, or this cost 1-2 mA
 - turn on arduino into low power mode - https://github.com/LowPowerLab/LowPower
 - arduino low power, powerdown and wake up periodically 
-- [[low-power-test-dat]]
+- [[low-power-dat]]
 
 
 ## Lora Modules 
