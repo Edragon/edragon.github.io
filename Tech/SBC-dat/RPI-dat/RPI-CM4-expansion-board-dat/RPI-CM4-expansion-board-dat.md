@@ -68,3 +68,7 @@
 ## ref
 
 - [[RPI-CM4-expansion-board]]
+
+minimum carrier board 
+- Small carrier board for Raspberry Pi CM4 - [mincab](https://uplab.pro/2021/10/mincab/)
+- [Minimal_carrier_board_for_CM4](https://github.com/dronecz/Minimal_carrier_board_for_CM4)
