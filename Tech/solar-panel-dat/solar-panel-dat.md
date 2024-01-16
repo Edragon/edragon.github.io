@@ -1,7 +1,19 @@
 
 # solar-panel-dat
 
-## Common Types 
+
+## Common solar panel types 
+
+There are 3 main types of solar panels available in the solar market today. They’re 
+- monocrystalline, 
+- polycrystalline and 
+- thin-film solar panels. 
+
+![](2024-01-16-18-40-30.png)
+
+![](2024-01-16-18-41-04.png)
+
+## Common Packaging Types 
 
 Types of Commercial Solar Panels and their structures 
 - PET Laminated Solar Panel 
