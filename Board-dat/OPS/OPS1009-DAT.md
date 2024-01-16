@@ -9,6 +9,16 @@
 
 ## Version Logs 
 
+### R3 - polycrystalline silicon solar panel
+
+![](2024-01-16-18-29-03.png)
+
+![](2024-01-16-18-29-24.png)
+
+![](2024-01-16-18-29-43.png)
+
+![](2024-01-16-18-30-00.png)
+
 ### R2 - PET laminated Board
 
 - 5V 220mA, 1.1W, 110*80*2 mm
