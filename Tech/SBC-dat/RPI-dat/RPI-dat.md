@@ -23,7 +23,9 @@
 - turn on I2C functions at [[raspi-config]]
 
 
+## chip 
 
+- [[BCM2835-dat]] - [[BCM2711-dat]]
 
 
 ## demo code 
