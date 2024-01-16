@@ -12,3 +12,4 @@ LEDS
 
 Reset Button 
 
+[Support Arduino-PS2X library.](https://github.com/madsci1016/Arduino-PS2X)
