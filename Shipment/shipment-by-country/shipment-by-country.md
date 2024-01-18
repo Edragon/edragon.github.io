@@ -42,10 +42,12 @@
 | Malaysia       | 06-15  | [[asia]]            | [[MYEXPRESS-BA]]             |                                    |                |
 | Costa Rica     | 06-09  | [[America-Central]] | [[NLRPOST]]                  | [[SZFED-PAK]]                      |                |
 | Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                  | [[SZFEDEX-IP]]                     |                |
-| Korea          | 06-30  | [[asia]]            | [[EURPOST]] / [[PFCEXPRESS]] | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   |                |
+| Korea          | 06-30  | [[asia]]            | [[EURPOST]] / [[PFCEXPRESS]] | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   | tax_id needed! |
 | Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]               | ~~[[SZFED-PAK]] / [[HKDHLX]]~~     | tax_id needed! |
 | United States  |        | [[America-North]]   | [[USPS-dat]]                 | [[SZFEDEX-IP]] / [[HKUPS]]         |                |
 | Vietam         |        | [[asia]]            | [[VNEXPRESS]]                |                                    | -              |
+
+韩国必须填写P+12位数字的个人通关码，欧盟国家填写ioss税号。
 
 ### Note
 
@@ -129,6 +131,11 @@
 - [[EUEX-V]] - [[EURPOST]] - [[CAEXPRESS]] - [[USPS-DAT]] - [[DHL]]
 
 prepaid [[VAT]] tax
+
+
+
+
+
 
 ## ref
 
