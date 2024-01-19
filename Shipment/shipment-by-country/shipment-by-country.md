@@ -8,7 +8,7 @@
 |                |        |                     |                              |                                    |                |
 |                |        |                     |                              |                                    |                |
 |                |        |                     |                              |                                    |                |
-|                |        |                     |                              |                                    |                |
+| Singapore      |        |                     | [[SGEXPRESS-BA]]             | [[SZFEDEX-IP]]                     |                |
 | Ecuador        | 11-30  | [[America-South]]   | CNRPOST-SZ                   | [[SZFED-PAK]]                      |                |
 | Indonesia      | 10-25  | [[asia]]            | [[NLRPOST]]                  | [[HKDHLX]]                         |                |
 | India          |        | [[asia]]            | -                            | [[HKDHLX]]                         |                |
