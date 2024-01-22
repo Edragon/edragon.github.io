@@ -30,3 +30,6 @@ Tested with arduino code, flash tested with ESPHome, but not further function te
 
 - [[esp-relay-board-dat]]
 
+- [[NWI1119]]
+
+- [[OPM1041-dat]]
