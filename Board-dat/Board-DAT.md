@@ -193,7 +193,9 @@ ESP32-APP
 [[wireless-charge-dat]]
 - [[OPM1167-dat]] - [[opm1168-dat]]
 
-[[ACDC-dat]] - [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]]
+[[ACDC-dat]]
+
+- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]]
 
 battery holder - [[OPM1189-dat]]
 
