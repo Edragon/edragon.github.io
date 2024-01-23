@@ -9,6 +9,14 @@
 
 - [[OPM1113-dat]]
 
+## peripheral SCH 
+
+![](2024-01-23-14-05-46.png)
+
+![](2024-01-23-14-06-01.png)
+
+- [[fuse-dat]] - [[MOV-dat]] - [[NTC-dat]]
+
 ## ref 
 
 [[ACDC]]

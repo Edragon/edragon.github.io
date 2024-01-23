@@ -32,4 +32,6 @@ Tested with arduino code, flash tested with ESPHome, but not further function te
 
 - [[NWI1119]]
 
-- [[OPM1041-dat]]
+- [[OPM1041-dat]] - [[OPM1110-dat]] 
+
+- [[ACDC-dat]]
