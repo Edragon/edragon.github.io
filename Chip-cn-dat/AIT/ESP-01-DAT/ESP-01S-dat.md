@@ -5,6 +5,9 @@
 
 https://www.electrodragon.com/product/esp-01-esp8266-wifi-module/
 
+![](2024-01-24-15-28-06.png)
+
+
 ## Pin Definitions 
 
 also printed on board 
