@@ -22,6 +22,12 @@
 - https://t.me/electrodragon3/228
 
 
+
+![](2024-01-24-17-14-21.png)
+
+    const char *ssid = "electrodragon";
+    const char *password = "electrodragon";
+
 ### ref
 
 Tested with arduino code, flash tested with ESPHome, but not further function tests
