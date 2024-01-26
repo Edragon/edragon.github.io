@@ -29,7 +29,9 @@ Read more about inductive laod here [[inductive-load-dat]]
 
 ## ref 
 
-
 - [[esp-relay-board-dat]] - [[ESP-SDK-dat]] 
 
 - [[acdc-dat]]
+
+
+- [[NWI1072]]
