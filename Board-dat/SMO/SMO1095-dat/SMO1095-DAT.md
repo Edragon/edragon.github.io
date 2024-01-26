@@ -2,6 +2,7 @@
 
 # SMO1095 Non-contact Water Liquid Level Sensor
 
+https://www.electrodragon.com/product/non-contact-liquid-level-sensor/
 
 ## Use with metal containter
 - need to drill hole(s) on the container
@@ -14,6 +15,9 @@
 ## Dimension 
 
 ![](05-14-15-31-05-2023.png)
+
+
+
 
 ## ref 
 
