@@ -59,3 +59,11 @@ wiring with USB-TTL cable
 ![](2023-12-14-14-46-50.png)
 
 5-chip efuse check fail
+
+
+## Upload 
+
+ESP32-C3 
+- flash speed 80M 
+- flash mode DIO
+![](2024-01-24-16-49-18.png)

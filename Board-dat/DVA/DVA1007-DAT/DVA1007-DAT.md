@@ -33,11 +33,11 @@ FT232 Programming Port
 - GND
 - --
 
-- [[arduino-lib]]
+
 
 ## Radio Lora Network 
 - arduino library radiohead
-
+- [[arduino-lib]]
 
 ## flash 
 - must well initiated flash into low power mode 
@@ -48,13 +48,8 @@ FT232 Programming Port
 - arduino pro mini 3.3V/8M 
 
 
+- [[lora-dat]]
 
-## low power mode 
-- first init RF Lora 
-- then, must well initiated flash, or this cost 1-2 mA - https://github.com/LowPowerLab/SPIFlash
-- turn RF Lora into sleep mode, or this cost 1-2 mA
-- turn on arduino into low power mode - https://github.com/LowPowerLab/LowPower
-- arduino low power, powerdown and wake up periodically 
 - [[low-power-dat]]
 
 

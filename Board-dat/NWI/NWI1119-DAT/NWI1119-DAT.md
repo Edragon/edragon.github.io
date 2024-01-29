@@ -22,6 +22,12 @@
 - https://t.me/electrodragon3/228
 
 
+
+![](2024-01-24-17-14-21.png)
+
+    const char *ssid = "electrodragon";
+    const char *password = "electrodragon";
+
 ### ref
 
 Tested with arduino code, flash tested with ESPHome, but not further function tests
@@ -30,3 +36,8 @@ Tested with arduino code, flash tested with ESPHome, but not further function te
 
 - [[esp-relay-board-dat]]
 
+- [[NWI1119]]
+
+- [[OPM1041-dat]] - [[OPM1110-dat]] 
+
+- [[ACDC-dat]]

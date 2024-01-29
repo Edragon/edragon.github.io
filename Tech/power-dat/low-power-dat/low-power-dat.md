@@ -8,6 +8,14 @@
 - https://twitter.com/electro_phoenix/status/1639160253811142656
 - Loraduino low power test, sleep in 80uA
 
+## low power mode [[DVA1007-dat]]
+
+- first init RF Lora 
+- then, must well initiated flash, or this cost 1-2 mA - https://github.com/LowPowerLab/SPIFlash
+- turn RF Lora into sleep mode, or this cost 1-2 mA
+- turn on arduino into low power mode - https://github.com/LowPowerLab/LowPower
+- arduino low power, powerdown and wake up periodically 
+
 
 [[NGS1096-DAT]]
 - Sim7020g low power test 27ua in sleep mode, wake up by pin
