@@ -23,7 +23,7 @@ For example,
     T = 1.1 * 500 000 * 0.000047=25.85 seconds. (Max. )
 
 - to change the delay time, tune the potentiometer 
-
+- default capacitor - 47uf
 
 ## Demos 
 https://twitter.com/electro_phoenix/status/1658391696416321536
