@@ -1,6 +1,7 @@
 
 # ITF1009-dat
 
+Based on powerbus slave chip PB331.
 
 ![](2024-01-31-15-07-30.png)
 
@@ -14,3 +15,15 @@
 - based on option 401: [[DCDC-dat]] 
 
 - based on option 231: [[LDO-dat]]
+
+## demo video 
+
+in telegram 
+- [video 1](https://t.me/electrodragon3/180)
+- [video 2](https://t.me/electrodragon3/181)
+
+
+## ref 
+
+- https://www.facebook.com/Powerbus1/
+
