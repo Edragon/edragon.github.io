@@ -5,7 +5,7 @@ https://www.electrodragon.com/product/1-3-series-lithium-lilifepo4-battery-charg
 
 legacy wiki page - https://www.electrodragon.com/w/Battery_Charge
 
-
+Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
 
 ## Resistor divider for feedback:
 
