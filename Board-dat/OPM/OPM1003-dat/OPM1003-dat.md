@@ -47,6 +47,8 @@ This module can be used in voltage reduction fields where the input voltage is h
 
 ### Functions 
 
+![](2024-01-31-15-54-16.png)
+
 ![](2024-01-31-15-46-33.png)
 
 ### Testing 
