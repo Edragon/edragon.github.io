@@ -1,7 +1,7 @@
 
 # LDO-dat 
 
-- [[LDO]]
+
 
 
 ## 6211 
@@ -27,3 +27,15 @@
 ## 9742 
 
 ![](2024-01-18-18-11-53.png)
+
+## option 231 
+
+18V, Low Power, 
+High Accuracy, High PSRR LDO Regulators
+Maximum Output Current: 500mA
+
+## ref 
+
+- [[LDO]]
+
+- [[silergy]]
