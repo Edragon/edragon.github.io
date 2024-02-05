@@ -70,4 +70,4 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 - [[RS485-dat]] - [[CAN-dat]] - [[high-side-driver-dat]]
 
-
+- [[voltage-divider-dat]]
