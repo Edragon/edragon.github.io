@@ -25,6 +25,7 @@ To program ESP32 (flashing mode):
 ## Code 
 
 - original library DMD32 - https://github.com/Qudor-Engineer/DMD32
+- the code has not maintained for a long while, please use old version of arduino ESP32, please refer to the video below
 - https://github.com/Edragon/Arduino-ESP32
 - please use the standard code in folder - Arduino-ESP32/libraries
 /DMD32-main/
