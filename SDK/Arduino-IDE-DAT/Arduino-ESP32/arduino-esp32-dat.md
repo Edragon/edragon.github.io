@@ -69,5 +69,22 @@ includes
 
 - [[ESP-SDK-dat]]
 
+## Version 
+
+- 2.0.14 
 
 
+
+## Common error 
+
+- cc1plus.exe: some warnings being treated as errors
+
+https://forum.arduino.cc/t/esp32-unused-variable-compile-error/1039022/15
+C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32
+
+    To:
+    compiler.warning_flags=-w
+    compiler.warning_flags.none=-w
+    compiler.warning_flags.default=
+    compiler.warning_flags.more=-Wall
+    compiler.warning_flags.all=-Wall -Wextra
