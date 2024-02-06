@@ -15,7 +15,7 @@ Please see an example below for 2024:
 | the holiday start        | 8th       |                              |
 | the holiday end          | 17th      |                              |
 | we start                 | 18th      | our shipment start           |
-| the extreme people start | 2-22th    |                              |
+| the extreme people start | 24-25th   |                              |
 
 
 
