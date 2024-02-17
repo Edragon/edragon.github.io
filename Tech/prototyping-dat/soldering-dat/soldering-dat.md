@@ -1,7 +1,7 @@
 
 # soldering-dat
 
-- [[PSO1030-dat]]
+- [[PSO1030-dat]] - [[PSO1055-dat]] - [[PSO1043-dat]] - [[PSO1038-dat]]
 
 
 ## Manual Soldering 
