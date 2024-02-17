@@ -15,6 +15,6 @@
 
 
 
-[[RGB-matrix-panel-dat]] - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]]
+[[led-rgb-panel-dat]] - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]]
 
 - [[ILE1058]]

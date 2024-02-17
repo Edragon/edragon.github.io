@@ -47,13 +47,13 @@ for outdoor ONLY P6 and P8
 
 ## read more
 
-- [[full-panel-installation]]
+- [[magnetic-screw-dat]] - [[led-full-panel-installation]]
 
 ## Links
 
-- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[RGB-matrix-panel-dat]]
-
-- [[mono-matrix-panel-dat]]
+- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
+  
+- [[mono-matrix-panel-dat]] 
 
 - [[led-rgb-panel]]
 
