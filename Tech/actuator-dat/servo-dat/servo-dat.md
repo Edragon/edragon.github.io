@@ -1,6 +1,14 @@
 
 # servo 
 
+
+## products 
+
+- Micro servo - [[SCU1030-DAT]] - [[SCU1031-dat]]
+- MG995 micro servo - [[SCU1012-DAT]]
+
+## Knowledge
+
 The control of the steering gear generally requires a time base pulse of about 20ms. The high level part of the pulse is generally the angle control pulse part in the range of 0.5ms-2.5ms, and the total interval is 2ms.
 Taking the 180-degree angle servo as an example, the corresponding control relationship is as follows:
 
@@ -13,14 +21,4 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 
 ![](47-08-17-21-06-2023.png)
 
-
-## products 
-
-Micro servo
-- https://www.electrodragon.com/product/micro-9g-servo-for-rc-helicopter-boat-plane-car/
-- [[SCU1030-DAT]]
-
-MG995 micro servo 
-- https://www.electrodragon.com/product/mg995-servo-motor-13kg-torque/
-- [[SCU1012-DAT]]
 
