@@ -6,6 +6,11 @@ https://www.electrodragon.com/product/lc-05-bluetooth-serial-moduel-masterslave-
 
 This is a combination board of [[NBL1057-dat]] and [[NBL1018-dat]], please read their documentation seperataly. 
 
+For module functions please read [[NBL1018-dat]]
+
+For board setup please read [[NBL1057-dat]]
+
+
 
 ## Demo Video
 
