@@ -10,7 +10,13 @@
 
 ## Note: 
 - close PC firewall in case 
+- make sure the target IP address is to your target, for example your PC
 
+
+
+## setup and demo video 
+
+https://www.youtube.com/watch?v=dOoPNtahNfw&ab_channel=Electrodragon
 
 ## ref 
 
