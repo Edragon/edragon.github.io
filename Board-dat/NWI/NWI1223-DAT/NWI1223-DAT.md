@@ -20,4 +20,6 @@ https://www.youtube.com/watch?v=dOoPNtahNfw&ab_channel=Electrodragon
 
 ## ref 
 
+- [[ethernet-dat]]
+
 - [[NWI1223]]
