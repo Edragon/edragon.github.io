@@ -54,7 +54,12 @@ AVR
   
 ### IDD
 
+- [[IDO1005-dat]] - [[IDO1006-dat]]
+
 - [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]]
+
+
+
 
 ### ILC 
 FPC LCD - [[ILC1075-dat]] - [[ilc1078-dat]]
@@ -147,7 +152,8 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 - [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]]
 
 [[ESP32-dev-board-dat]]
-- [[NWI1100-dat]] - [[NWI1206-dat]]
+- [[NWI1100-dat]] - [[NWI1206-dat]] - [[NWI1145-dat]]
+
 
 [[ESP32-WROOM-dat]]
 [[NWI1155-DAT]] - [[NWI1194-dat]] - [[NWI1195-dat]]
