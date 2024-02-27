@@ -1,6 +1,11 @@
 
 # NLRPOST 
 
+
+NLRPOST: Intl. Air NL Normal Post (ref. ETA: 25-60 days)
+
+
+
 ## Introduction to Netherlands Post Registered Small Parcel (NLRPOST) Channel
 
 Product introduction: Dutch parcel is a European fast parcel service launched by Dutch Post (TNT POST) specifically for e-commerce sellers. This service is based in the Netherlands and radiates throughout Europe. It relies on the network and customs clearance system of the Netherlands Post to create a high-quality regional small parcel service: good customs clearance, fast delivery, and excellent query. The main advantage is that it has removable batteries. Customs clearance - General dedicated line services are cleared by local customs clearance agents and have poor stability. This service is handled by Dutch Post and is a postal customs clearance channel with good stability.
