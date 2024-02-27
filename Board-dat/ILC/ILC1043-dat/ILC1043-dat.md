@@ -36,3 +36,31 @@ Use as computer monitor
 - size lcd and version compare [[RPI-LCD-dat]]
 
 - [[ILC1043]]
+
+
+
+
+## Obseleted Part
+
+### Important Note
+* Follow the attached image of instruction to build it.
+* '''Only tested on raspbian, ubuntu, other systems can not bu sure. Please try it by yourself.'''
+* [Original HDMI has a hard stiffness, you can replace it with this one.](http://www.electrodragon.com/product/hdmi-hdmi-cable/)
+* Original usb cable is a little too long.
+* After driver is installed, you will only need to power RPI, the LCD can touch panel can draw power from RP
+* Fragile stand kit, do no apply too large force on it, otherwise will breakdown!
+* No need calibrate for touch screen
+
+### Specification 
+* LCD type: AT070TN90
+  
+### Installation
+* please use the latest raspbian image 20150605.
+* please find the download link in your order note to download the driver.
+* copy RPI2B_B_B+_USB_TOUCH_CAP_7.0_RASPBIAN.tar.gz to RPI
+* unzip it
+ sudo tar  zxvf  RPI2B_B_B+_USB_TOUCH_CAP_7.0_RASPBIAN.tar.gz
+* cd into the folder
+* and run to install
+ sudo  ./USB_TOUCH_CAP_7.0_RASPBIAN
+* enter into graphic deskttop to use

@@ -33,6 +33,11 @@ All Specs:
 
 ![](2024-02-27-15-43-58.png)
 
+
+## Note !! 
+
+- This display default version includes HDMI mini convert board for **raspberry PI 3**, if need for **RPI4**, please **add order note**!!
+
 ## demo 
 
 https://www.youtube.com/watch?v=fp2zlpffT48&ab_channel=ChowHe
