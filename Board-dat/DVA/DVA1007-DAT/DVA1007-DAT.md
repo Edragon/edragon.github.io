@@ -53,6 +53,10 @@ FT232 Programming Port
 - [[low-power-dat]]
 
 
+## Functions 
+
+- [[SPI-flash-dat]] - [[memory-dat]]
+
 ## Lora Modules 
 
 - [[NWL1071-dat]] - [[NWL1072-dat]]
@@ -60,3 +64,5 @@ FT232 Programming Port
 - [[LDO-dat]]
 
 - [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
+
+
