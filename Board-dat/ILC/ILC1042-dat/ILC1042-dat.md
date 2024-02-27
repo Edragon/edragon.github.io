@@ -33,6 +33,10 @@ All Specs:
 
 ![](2024-02-27-15-43-58.png)
 
+## Pin Definitions 
+
+![](2024-02-27-16-26-17.png)
+
 
 ## Note !! 
 
@@ -51,6 +55,6 @@ https://www.youtube.com/watch?v=fp2zlpffT48&ab_channel=ChowHe
 
 ## ref 
 
+- take a look at the old documentation here: [[ILC1042-0-dat]]
 - size lcd and version compare [[RPI-LCD-dat]]
-
 - [[ILC1042]]
