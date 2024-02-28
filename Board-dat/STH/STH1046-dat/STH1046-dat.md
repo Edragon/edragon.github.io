@@ -1,7 +1,7 @@
 
 # STH1046-dat
 
-![](2024-02-28-16-16-27.png)
+![](../../../Chip-cn-dat/aosong-dat/2024-02-28-16-16-27.png)
 
 - legacy wiki page - https://www.electrodragon.com/w/index.php?title=DHT11
 
