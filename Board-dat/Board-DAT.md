@@ -197,7 +197,7 @@ ESP32-APP
 - [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
 
 [[wireless-charge-dat]]
-- [[OPM1167-dat]] - [[opm1168-dat]]
+- [[OPM1167-dat]] - [[OPM1168-dat]]
 
 [[ACDC-dat]]
 
