@@ -3,6 +3,12 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/74HC595_Segment_Display
 
+
+![](2024-02-28-14-40-24.png)
+
+
 ## ref 
+
+- [[74HC595-dat]]
 
 - [[IMS1030]]
