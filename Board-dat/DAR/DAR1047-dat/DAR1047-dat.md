@@ -12,7 +12,7 @@ Demo Guide
 1. check the use guide video here: https://www.youtube.com/shorts/ePX9KjBYBIk
 2. GIF video here. [[Edatiny.gif]]
 
-
+Steps:
 - install driver here [[Digistump.Drivers.zip]]
 - install the board: http://digistump.com/package_digistump_index.json
   - Copy following into preference -> http://digistump.com/package_digistump_index.json
@@ -33,7 +33,7 @@ Demo Guide
 
 ## debug 
 
-* During upload sketch in you encounter any error, update the board driver to lisusb-win32 by [[AVR]]
+* During upload sketch in you encounter any error, update the board driver to lisusb-win32 by [[AVR-dat]]
 
 * Blink - On board test LED is D1, please try pinMode(1, OUTPUT);
 
@@ -51,7 +51,7 @@ Firmware - https://github.com/micronucleus/micronucleus/releases
 * Use firmware - > release -> attiny85 aggressive.hex
 
 * Our board already burned bootloader, use this only when things corrupted.
-* Git clone bootloader project from here: https://github.com/Edragon/micronucleus, or [[File:Micronucleus-2.01.zip|download it from here]] - [download it from here](File:Micronucleus-2.01.zip)
+* Git clone bootloader project from here: https://github.com/Edragon/micronucleus, or download it from here [[File:Micronucleus-2.01.zip]] - [File:Micronucleus-2.01.zip](download it from here)
 
 #### fuse setup
 * High fuse DD
