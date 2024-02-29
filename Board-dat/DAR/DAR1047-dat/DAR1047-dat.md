@@ -51,7 +51,7 @@ Firmware - https://github.com/micronucleus/micronucleus/releases
 * Use firmware - > release -> attiny85 aggressive.hex
 
 * Our board already burned bootloader, use this only when things corrupted.
-* Git clone bootloader project from here: https://github.com/Edragon/micronucleus, or download it from here [[File:Micronucleus-2.01.zip]] - [File:Micronucleus-2.01.zip](download it from here)
+* Git clone bootloader project from here: https://github.com/Edragon/micronucleus, or download it from here [[Micronucleus-2.01.zip]] - [download it from here](Micronucleus-2.01.zip)
 
 #### fuse setup
 * High fuse DD
