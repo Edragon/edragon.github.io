@@ -64,3 +64,22 @@ Use as computer monitor
 * and run to install
  sudo  ./USB_TOUCH_CAP_7.0_RASPBIAN
 * enter into graphic deskttop to use
+
+### setup touch 
+
+commands:
+
+    sudo tar zxvf touch.tar.gz
+    cd RPIB_B+_USB_TOUCH_CAP_7.0_RASPBIAN_20150605
+    sudo ./USB_TOUCH_CAP_7.0_RASPBIAN
+
+### Virtual Keyboard
+
+commands:
+
+    apt-get install matchbox-keyboard
+    apt-get install florence
+
+
+### Note
+* after install the driver, you can draw the power from RPI to the LCD

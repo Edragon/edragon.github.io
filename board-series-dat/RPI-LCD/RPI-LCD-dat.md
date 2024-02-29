@@ -1,5 +1,8 @@
 # RPI-LCD-dat
 
+legacy wiki page - https://w.electrodragon.com/w/RPI_Display
+
+
 ## specs
 
 - Raspberry Pi stack by pin connectors on backside of LCD.
