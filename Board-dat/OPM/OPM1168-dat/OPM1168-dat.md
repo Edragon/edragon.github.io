@@ -13,6 +13,16 @@ https://www.electrodragon.com/product/wireless-charge-receiver-board-qi/?attribu
 - seconds two pads right = - negative GND
 
 
+
+## charge current 
+
+Where 
+- IBULK is the programmed battery charge current during fast charge mode. When referring to the application diagram shown in Figure 32, 
+- RILIM is the sum of RFOD and R1 (the total resistance from the ILIM pin to PGND).
+
+https://www.ti.com/lit/ds/symlink/bq51050b.pdf
+
+
 ## ref 
 
 - [[OPM1168]]
