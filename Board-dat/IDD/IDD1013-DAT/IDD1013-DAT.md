@@ -117,9 +117,14 @@ notice the differences of pin CLK and D
 
 ### Jumper Setup for E-line
 - solder pins on E-18 and add jumper 
-- solder pins on E-SEL1 and add jumper 
+- ~~solder pins on E-SEL1 and add jumper~~
 
 ![](2024-03-01-13-44-43.png)
+
+Updated by customer:
+
+- 1) putting a jumper to E-18;
+- 2) consider the panel as 64x64 and set number of panels to 2 instead of 1.
 
 ## ref 
 
