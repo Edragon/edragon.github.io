@@ -139,6 +139,7 @@ Long range
 - A7670 [[NGS1131-DAT]]
 - [[LAN8720-dat]] - [[NWI1199-DAT]]
 
+- [[NGS1108-dat]]
 
 ### NWL
 
