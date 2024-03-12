@@ -56,6 +56,10 @@ SEL
 * 1 = master mode, upper machine mode, USB to PC machine
 * 0 = slave mode, accpet USB devices like keyboard, mouse
 
+## demo 
+
+https://www.youtube.com/shorts/UZahFdell4g
+
 
 ## ref 
 

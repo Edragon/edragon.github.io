@@ -23,6 +23,11 @@ Where
 https://www.ti.com/lit/ds/symlink/bq51050b.pdf
 
 
+
+## demo 
+
+https://www.youtube.com/shorts/D4PBTednAjU
+
 ## ref 
 
 - [[OPM1168]]
