@@ -57,3 +57,14 @@ Firmware - https://github.com/micronucleus/micronucleus/releases
 * High fuse DD
 * Low fuse E1
 * extend fuse FE. 
+
+
+
+## demo 
+
+https://www.youtube.com/shorts/ePX9KjBYBIk
+
+
+## ref 
+
+- [[DAR1047]]

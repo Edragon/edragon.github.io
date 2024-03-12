@@ -59,7 +59,9 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 - [[DCDC1]] - [[NWI1245]]
 
 
+## demo 
 
+https://www.youtube.com/shorts/TeaZ1xKcAqg
 
 ## ref
 - code please refer to our ESP32 arduino github repository 
