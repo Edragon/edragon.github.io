@@ -11,4 +11,12 @@ https://www.electrodragon.com/product/mini-thermal-receipt-printer-serial-5v/
 
 - adafruit thermal printer library
 
-- [[ido1005]]
+
+- print to send demo code: https://raw.githubusercontent.com/sparkfun/Thermal_Printer/master/Firmware/ThermalPrinter_Example.ino
+
+
+- [[thermal-printer-dat]] 
+
+- [[IDO1005-dat]] - [[IDO1006-dat]]
+  
+- [[ido1005]] 
