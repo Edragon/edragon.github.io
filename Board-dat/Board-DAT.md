@@ -141,6 +141,11 @@ Long range
 
 - [[NGS1108-dat]]
 
+SIMCOM
+
+- [[NGS1119-dat]]
+
+
 ### NWL
 
 [[CC1101-dat]]
