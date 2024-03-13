@@ -1,6 +1,8 @@
 
 # NGS1108-dat
 
+* **Note the default version is the data ONLY version**
+
 ## legecy wiki page 
 
 - https://www.electrodragon.com/w/Modem#WIN_10
@@ -51,6 +53,25 @@
 
 
 
+## boot log 
+
+test with AT+CPIN?
+
+    RDY
+
+    +CFUN: 1
+
+    +CPIN: READY
+
+    +QUSIM: 1
+
+    +QIND: SMS DONE
+    AT+CPIN?
+    +CPIN: READY
+
+    OK
+
+
 
 ## Demo 
 
@@ -63,4 +84,6 @@
 
 ## ref 
 
-- [[NGS1108]]
+- [[quectel-AT-dat]] - [[antenna-dat]] - 
+
+- [[NGS1108]] 
