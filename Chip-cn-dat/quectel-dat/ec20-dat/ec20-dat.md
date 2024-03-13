@@ -32,3 +32,8 @@ EC20 R2.0 has built-in rich network protocols, integrates multiple industry stan
 - Dimensions 29.0mm × 32.0mm × 2.4mm
 - Weight about 4.9g
 - AT command version 3GPP TS27.007 and enhanced AT commands
+
+
+## Pins 
+
+![](2024-03-13-17-30-57.png)
