@@ -1,4 +1,26 @@
-# antenna
+
+# antenna-dat
+
+表 28：GNSS 频率
+类型 频率 单位
+GPS/Galileo/QZSS 1575.42 ±1.023 MHz
+GLONASS 1597.5~1605.8 MHz
+BeiDou 1561.098 ±2.046 MHz
+
+
+- [[NAN1001-dat]] - [[NAN1003-dat]] - [[NAN1005-dat]] - [[NAN1008-dat]]
+
+GPS Magnetic Active External Antenna 3M 5Dbi
+https://www.electrodragon.com/product/gps-magenatic-active-external-antenna-3m/
+
+2PCs Quad-band Cellular GSM Antenna SMA 2Dbi
+https://www.electrodragon.com/product/quad-band-cellular-duck-antenna-sma/
+
+
+
+- [[ipex-dat]]
+
+
 
 ## antenna shape, size and gain 
 

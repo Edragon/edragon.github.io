@@ -2,7 +2,20 @@
 
 ## AT+QGNSSC GNSS Module Power Control
 
-    AT+QGNSSC=1
+
+
+## 3.1. Turn On and Off the GNSS Engine
+
+AT+QGPS=1 //Turn on GNSS engine.
+OK
+
+
+AT+QGPSLOC? //Obtain position information.
++QGPSLOC: 061951.0,3150.7223N,11711.9293E,0.7,62.2,2,0.0,0.0,0.0,110513,09
+
+
+
+AT+QGNSSC=1
 
 ## AT+QGNSSRD?
 
@@ -61,3 +74,20 @@ Location at N,11353.2519,E,092220.000
 
 - https://sisoog.com/wp-content/uploads/2019/12/Quectel_MC20_GNSS_AT_Commands_Manual_V1.1.pdf
 
+
+
+
+## config 
+
+AT+QGPSCFG=?
+
+When GNSS was started, you can turn on <nmeasrc> feature
+
+AT+QGPSCFG="nmeasrc", 1 //Enable nmeasrc functionality.
+OK
+AT+QGPSGNMEA="GGA" //Obtain GGA sentence.
++QGPSGNMEA: $GPGGA,103647.0,3150.721154,N,11711.925873,E,1,02,4.7,59.8,M,-2.0,M,,*77
+
+
+
+AT+QGPSEND
