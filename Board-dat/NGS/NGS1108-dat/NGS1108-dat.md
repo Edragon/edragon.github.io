@@ -2,10 +2,13 @@
 # NGS1108-dat
 
 * **Note the default version is the data ONLY version**
+* the module information - [[ec20-dat]]
+
 
 ## legecy wiki page 
 
 - https://www.electrodragon.com/w/Modem#WIN_10
+
 
 ## Board Map 
 
