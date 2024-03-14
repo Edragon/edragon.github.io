@@ -6,8 +6,7 @@
 
 ## Pin Configuration
 
-![](2024-03-14-17-21-45.png)
-
+![](2024-03-14-17-22-48.png)
 
 * GND - GND
 * VCC - VCC, 3-12V, DC, use 5V directly is fine
