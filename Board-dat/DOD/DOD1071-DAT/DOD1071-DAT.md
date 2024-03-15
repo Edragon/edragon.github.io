@@ -31,8 +31,9 @@ Version V2 updates:
 
 ## Demo Code 
 
-default firmware, demo code at our git
-WCH_CH55X-APP\CH559\CH559-GPIO-LOOP-BLINK\CH559.HEX
+default firmware, demo code at our git - https://github.com/Edragon/WCH_CH55X-APP
+
+    WCH_CH55X-APP/CH559/CH559-IO42-43/prj/CH559.hex
 
 
 ## board sch 
