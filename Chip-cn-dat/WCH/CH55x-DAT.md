@@ -45,6 +45,8 @@ other IDE
 flash tool 
 - https://github.com/MarsTechHAN/ch552tool
 
+
+
 ### schematic 
 
 https://w.electrodragon.com/w/CH55X_HDK
