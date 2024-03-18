@@ -8,4 +8,4 @@
 
 - [[quectel-at]]
 
-- [[SIMCOM-at-dat]]
+- [[SIMCOM-AT-DAT]]

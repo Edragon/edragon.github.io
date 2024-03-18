@@ -101,6 +101,72 @@ https://w.electrodragon.com/w/SIM7020_AT
     AT+CEREG=5
 
 
+
+## Network 
+
+AT+CBAND?
++CBAND: ALL_MODE
+
+OK
+
+- AT+SNPING4="202.89.233.101",1,16,5000
+- AT+CIFSR
+
+### AT+CNSMOD?
++CNSMOD: 0,9
+
+OK
+
+<stat>
+- 0 no service
+- 1 GSM
+- 3 EGPRS
+- 7 LTE M1
+- 9 LTE NB
+
+
+### AT+COPN Read Operator Names
+
+
+### AT+CCLK?
+
+AT+CCLK?
++CCLK: "80/01/06,00:22:45+00"
+
+OK
+
+
+### AT+CIICR - Bring Up Wireless Connection with GPRS
+### AT+CEREG?
+
+### AT+CGNAPN
++CGNAPN: 1,"CMIOT"
+
+OK
+
+### AT+COPS?
+
+AT+COPS?
++COPS: 0,0,"CHINA MOBILE CMCC",9
+
+OK
+### AT+CNACT=1
+
+AT+CNACT=1
+OK
+
++APP PDP: ACTIVE
+
+
+AT+CNACT?
++CNACT: 1,"10.126.178.255"
+
+OK
+
+
+## GPRS 
+
+
 ## ref 
 
 - [[SIMCOM-AT]]
