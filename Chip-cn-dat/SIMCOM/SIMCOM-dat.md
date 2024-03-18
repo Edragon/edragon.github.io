@@ -26,6 +26,6 @@
 
 
 ## commands 
-- [[SIMCOM-at-dat]] - [[simcom-at-gnss]]
+- [[SIMCOM-AT-DAT]] - [[simcom-at-gnss]] - [[SIMCOM-PSM-dat]]
 
 

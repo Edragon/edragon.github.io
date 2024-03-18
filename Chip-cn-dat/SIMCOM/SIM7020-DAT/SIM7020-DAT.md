@@ -12,28 +12,7 @@
 
 
 
-## Power Supply Mode 
-
-* 500mA @ 3.3V 
-  
-Test based on our current SIM7020E module 
-
-| Module               | Current       | -   |
-| -------------------- | ------------- | --- |
-| Registeration Mode   | ~15mA         | -   |
-| Registered Idle Mode | ~5mA          | -   |
-| PSM mode             | 110 ~ 140 0uA |     |
-
-
-To enter into PSM mode
-* AT+CFUN=0,0 // minimium function mode
-* AT+CFUN=1,1 // full working mode
-* AT+CPSMS=1  // turn on PSM mode 
-  
-Quit PSM mode
-* Short pulse Boot pin to leave PSM mode
-
-
+- [[SIMCOM-PSM-dat]]
 
 ## REF
 
@@ -45,7 +24,7 @@ Supported band
 - SIM7020G: all bands, please see our wiki page NBIOT.
 
 
-- [[SIMCOM-AT-dat]]
+- [[SIMCOM-AT-DAT]]
 
 
 ### other ref 
@@ -64,7 +43,7 @@ Supported band
 
 - [[NGS1094-dat]] - SIM7020E (old version) - life time end 
 
-- [[SIMCOM-AT-dat]] - [[SIMCOM-dat]]
+- [[SIMCOM-AT-DAT]] - [[SIMCOM-dat]]
 
 - [[SIM7020]] - [[BTB-dat]]
 

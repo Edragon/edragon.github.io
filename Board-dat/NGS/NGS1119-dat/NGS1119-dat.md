@@ -54,7 +54,7 @@ top pin definitions
 
 ## ref 
 
-- [[SIMCOM-AT-dat]]
+- [[SIMCOM-AT-DAT]]
 
 - [[NGS1119]]
 
