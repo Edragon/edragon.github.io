@@ -104,10 +104,14 @@ https://w.electrodragon.com/w/SIM7020_AT
 
 ## Network 
 
+### AT+CBAND
+
 AT+CBAND?
 +CBAND: ALL_MODE
 
 OK
+
+### AT+SNPING4
 
 - AT+SNPING4="202.89.233.101",1,16,5000
 - AT+CIFSR
@@ -137,6 +141,7 @@ OK
 
 
 ### AT+CIICR - Bring Up Wireless Connection with GPRS
+
 ### AT+CEREG?
 
 ### AT+CGNAPN
@@ -150,13 +155,13 @@ AT+COPS?
 +COPS: 0,0,"CHINA MOBILE CMCC",9
 
 OK
-### AT+CNACT=1
+
+### AT+CNACT
 
 AT+CNACT=1
 OK
 
 +APP PDP: ACTIVE
-
 
 AT+CNACT?
 +CNACT: 1,"10.126.178.255"
