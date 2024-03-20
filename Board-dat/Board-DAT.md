@@ -149,6 +149,8 @@ SIMCOM
 
 - [[NGS1119-dat]]
 
+Quectel 
+- [[NGS1108-dat]]
 
 ### NWL
 

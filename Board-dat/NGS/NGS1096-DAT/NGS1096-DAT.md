@@ -21,17 +21,12 @@ Pin Definitions of SIM7020-V:
 - you must use NBIOT Card, normal phone card may not work
 - if the card no service, system will shut power at CREG 0,2
 
-# PSM Mode 
-
-- AT commands to enter into PSM power save mode 
-- pull down RTC_EINT or PWR_KEY to quit PSM mode 
 
 ## Dimension / Pins / Schematic 
 
-![](04-17-16-01-02-2023.png)
+![](2024-03-20-15-18-02.png)
 
-![](57-21-16-01-02-2023.png)
-
+![](2024-03-20-15-19-45.png)
 
 
 # reference 

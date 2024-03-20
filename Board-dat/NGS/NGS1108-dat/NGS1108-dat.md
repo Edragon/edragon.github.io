@@ -87,6 +87,6 @@ test with AT+CPIN?
 
 ## ref 
 
-- [[quectel-AT-dat]] - [[antenna-dat]] - 
+- [[quectel-AT-dat]] - [[antenna-dat]] - [[quectel-GNSS-dat]]
 
-- [[NGS1108]] 
+- [[NGS1108]] - [[ec20]]
