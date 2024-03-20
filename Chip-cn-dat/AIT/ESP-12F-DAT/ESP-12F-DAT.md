@@ -1,11 +1,18 @@
 
 # ESP-12F-DAT
 
+
+## Definitions
+
 ![](43-27-15-15-12-2022.png)
 
-Dimension 
+## Dimension 
 
 ![](2024-03-20-18-38-13.png)
+
+- pitch 2.0 mm 
+- width 16 mm 
+
 
 ## ref 
 
