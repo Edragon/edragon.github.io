@@ -14,6 +14,17 @@
 
 - [[SIMCOM-PSM-dat]]
 
+
+
+## Application Note 
+
+### PSM Mode 
+
+- AT commands to enter into PSM power save mode 
+- pull down RTC_EINT or PWR_KEY to quit PSM mode 
+
+
+
 ## REF
 
 ### module versions 
@@ -36,10 +47,12 @@ Supported band
 
 
 
+
+
 ### board ref 
 
 
-- [[NGS1095-dat]] - [[NGS1096-dat]]
+- [[NGS1095-dat]] - [[NGS1096-dat]] - [[NBIOT-dat]]
 
 - [[NGS1094-dat]] - SIM7020E (old version) - life time end 
 
