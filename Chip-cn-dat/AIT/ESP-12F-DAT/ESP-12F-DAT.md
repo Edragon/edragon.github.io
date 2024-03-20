@@ -3,6 +3,10 @@
 
 ![](43-27-15-15-12-2022.png)
 
+Dimension 
+
+![](2024-03-20-18-38-13.png)
+
 ## ref 
 
 - legacy chip wiki page here - https://w.electrodragon.com/w/Category:ESP8266
