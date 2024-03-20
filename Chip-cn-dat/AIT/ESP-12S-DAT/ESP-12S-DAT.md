@@ -18,3 +18,9 @@ https://www.electrodragon.com/product/esp-12s-wifi-module-esp8266/
 | IO15  | pull-down |                  |
 
 ![](56-45-15-16-12-2022.png)
+
+
+
+## ref 
+
+- [[ESP-12S-DS.pdf]]

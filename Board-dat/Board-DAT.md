@@ -48,8 +48,13 @@ SAMD21
 
 [[USB-TTL-dat]] - [[DPR1029-dat]]
 
+Pogo-Pin 
+- [[DPR1106-dat]]
+
 AVR
 - [[DPR1009-dat]] - [[DPR1045-dat]] - [[DPR1048-dat]]
+
+
 
 ### DVA 
 - [[DVA1002-dat]] - [[DVA1007-dat]]

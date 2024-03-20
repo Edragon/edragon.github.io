@@ -22,9 +22,17 @@ SMD Switch from left to right
 
 ## Note 
 
-- Extra spring pins in the package, please note to add to use
+- Extra 2 spring pogo pins in the package, please note to add to use
+
+Supported Modules 
+
+- [[ESP-12F-dat]] - [[ESP-12S-dat]]
+
+
 
 
 ## ref 
+
+- [[pogo-pin-dat]]
 
 - [[DPR1106]]
