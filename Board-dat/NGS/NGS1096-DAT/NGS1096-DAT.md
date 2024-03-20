@@ -31,4 +31,3 @@ Pin Definitions of SIM7020-V:
 
 # reference 
 - [[SIM7020-DAT]]
-- [[low-power-test-dat]]

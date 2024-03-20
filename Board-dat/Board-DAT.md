@@ -118,21 +118,31 @@ audio bluetooth player - [[NBL1037-dat]] - [[NBL1038-dat]]
 
 classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
-BT4.0 - [[NBL1050-dat]] - [[NBL1054-dat]]
+[[BT4.0-dat]] 
 
+- [[NBL1050-dat]] - [[NBL1054-dat]]
+
+- [[NBL1060-dat]] - [[NBL1061-dat]]
 
 ### NID
 - [[NID1003-DAT]] - [[NID1005-DAT]] - [[NID1024-DAT]] - [[NID1026-DAT]]
 
-Long range 
+Long range RFID
 - [[NID1020-DAT]]
 
 
 ### NGS
 
 - ED20 - [[NGS1063-DAT]]
-- SIM800C - base board [[NGS1072-DAT]]  - [[NGS1070-dat]] - [[NGS1071-dat]] - [[NGS1074-dat]]
-- [[SIM7020-dat]] - ~~[[NGS1094-dat]] (SIM7020E)~~ - [[NGS1095-dat]] - [[NGS1096-DAT]]
+
+[[SIM800-dat]]
+- arduino-compatible base board [[NGS1072-DAT]]
+- [[NGS1070-dat]] - [[NGS1071-dat]]
+- ~~[[NGS1074-dat]]~~
+
+[[SIM7020-dat]]
+- ~~[[NGS1094-dat]] (SIM7020E)~~
+- [[NGS1095-dat]] - [[NGS1096-DAT]]
   
 Location 
 - GPS L70 - [[NGS1097-dat]] - [[NGS1100-dat]]

@@ -60,7 +60,7 @@ Supported band
 
 - [[SIM7020]] - [[BTB-dat]]
 
-
+- [[low-power-dat]] - [[SIMCOM-PSM-dat]]
 
 ## doc
 
