@@ -55,7 +55,7 @@ Industrial / Sensor - [[sensor-dat]]
 
 ## Function 
 
-- [[RTC-dat]] - [[buffer-dat]] 
+- [[RTC-dat]] - [[buffer-dat2]] 
 
 ## Code 
 - [[arduino-ide-dat]]

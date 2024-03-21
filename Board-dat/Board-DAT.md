@@ -1,6 +1,19 @@
 
 
-# Boards 
+# Category  
+
+
+## Board-REF
+
+- [[Board-stock-out]] - [[board-series-dat]] - [[board-new-dat]] - [[board-discount]]
+
+- [[tech-dat]]
+
+
+- [[ESPC2-12-DEV]]
+
+
+## Boards 
 
 ### AMP
 
@@ -290,12 +303,3 @@ PIR Sensors
 
 
 
-
-## Board-REF
-
-- [[Board-stock-out]] - [[board-series-dat]] - [[board-new-dat]] - [[board-discount]]
-
-- [[tech-dat]]
-
-
-- [[ESPC2-12-DEV]]
