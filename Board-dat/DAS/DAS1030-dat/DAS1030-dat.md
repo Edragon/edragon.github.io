@@ -14,7 +14,7 @@ https://www.electrodragon.com/product/3-2-tft-lcd-arduino-adapter-shield/
 
 Version 2 
 
-with [[buffer-dat]]
+with [[buffer-dat2]]
 ![](2023-10-31-22-50-15.png)
 
 Version 1 
