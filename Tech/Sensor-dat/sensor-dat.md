@@ -11,7 +11,7 @@
 
 - [[current-sensor-dat]]
 
-- [[gas-sensor-dat]]
+- [[gas-sensor-dat]] - [[liquid-sensor-dat]]
 
 ## Sell 
 
