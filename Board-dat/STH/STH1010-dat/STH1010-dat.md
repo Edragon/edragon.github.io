@@ -5,7 +5,7 @@ https://www.electrodragon.com/product/dht22-pre-order-link/
 
 https://w.electrodragon.com/w/Category:DHT22
 
-
+- AM2302
 
 ![](2024-01-02-17-49-43.png)
 

@@ -17,6 +17,16 @@
 
 - [[fuse-dat]] - [[MOV-dat]] - [[NTC-dat]]
 
+
+
+## SCH ref 
+
+
+![](2024-03-21-14-52-51.png)
+
+- 4x diodes rectify bridge 
+
+
 ## ref 
 
 [[ACDC]]
