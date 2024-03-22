@@ -2,7 +2,7 @@
 
 # NID1020 DAT - EL125
 
-
+- legacy wiki page https://w.electrodragon.com/w/Category:EL125
 
 ## pin definitions 
 
@@ -34,13 +34,6 @@
 - test2:           02 30 39 30 30 37 43 42 32 43 30 07 03 
 
 
-## Ref 
-
-- [[125khz]]
-- https://w.electrodragon.com/w/Category:EL125
-- [[NID1020]]
-
-
 ## demo code 
 
 - https://w.electrodragon.com/w/Category:EL125
@@ -61,4 +54,9 @@ other RFID cards or keys
 
 performance
 - Any microcontrollers should work, and lithium batteries also work, just add more capacitors to filter the noise in the power supply. The performance only changes a little or not if you do good filtering.
+
+
+## Ref 
+
+- [[125khz]] - [[NID1020]]
 

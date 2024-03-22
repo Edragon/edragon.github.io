@@ -7,3 +7,5 @@
 
 ## ref 
 - [[MSP430F149-dat]] - [[DOD1060]]
+
+- [[usb-ttl-dat]]
