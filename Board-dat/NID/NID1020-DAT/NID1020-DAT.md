@@ -3,6 +3,11 @@
 # NID1020 DAT - EL125
 
 - legacy wiki page https://w.electrodragon.com/w/Category:EL125
+- accessoires please read at page [[125khz-dat]]
+
+- product link - https://www.electrodragon.com/product/125khz-rfid-long-distance-module-40cm-serial/
+- card and accessories link - https://www.electrodragon.com/?s=125khz&post_type=product
+
 
 ## pin definitions 
 
@@ -56,7 +61,16 @@ performance
 - Any microcontrollers should work, and lithium batteries also work, just add more capacitors to filter the noise in the power supply. The performance only changes a little or not if you do good filtering.
 
 
+## demo video 
+
+- https://www.youtube.com/watch?v=9gzx0SZKJYE
+- Test result is 20cm thin card, and 14cm key tag.: https://twitter.com/electro_phoenix/status/1001781336393175041
+
+
+
 ## Ref 
 
-- [[125khz]] - [[NID1020]]
+- [[125khz-dat]] - [[rfid-dat]]
+
+- [[NID1020]]
 
