@@ -54,10 +54,17 @@ AVR
 SAMD21
 - [[DOD1104-dat]] - [[DOD1107-dat]]
 
+### DOD - ARM 
+- [[ARM1003-dat]] - [[ARM1007-dat]]
+
+
 ### DPR
 - [[DPR1009-dat]] - [[DPR1041-DAT]] - [[DPR1084-DAT]] - [[DPR1097-DAT]] - [[DPR1150-DAT]] - [[DPR1120-dat]]
 
-- [[DPR1126-dat]]
+- [[DPR1126-dat]] 
+
+For ARM devices  
+- [[DPR1130-dat]]
 
 [[USB-TTL-dat]] - [[DPR1029-dat]]
 

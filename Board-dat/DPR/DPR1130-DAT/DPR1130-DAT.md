@@ -2,12 +2,25 @@
 
 # DPR1130 DAT STM32 offline programmer 
 
+
+
+
+## Usage 
+
+
+![](2024-03-22-16-32-57.png)
+
+
+
 - hold down PB0=OFF button and plug in USB cable into OFFLINE mode 
 - hold down PB1=ON button and plug in USB cable into  ONLINE mode 
 
+## Specs 
 - Disk Size = 4MB = on board flash 
 
-Supported devices:
+
+
+## Supported devices:
 
 - F0
 
