@@ -1,6 +1,8 @@
 
 # USB TTL Dat 
 
+- legacy wiki page - https://w.electrodragon.com/w/Serial
+
 ## Usage 
 
 from the perspective of the cable to the perspective of the target
