@@ -17,7 +17,7 @@ serial output
 
 
 
-- [[INA219-DAT]] - [[I2C-dat]]
+- [[INA219-dat]] - [[I2C-dat]]
 
 - [[power-meter-dat]]
 
