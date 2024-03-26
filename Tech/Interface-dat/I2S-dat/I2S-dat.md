@@ -20,6 +20,11 @@ This makes I2S a popular choice for high-speed data transfer applications.
 | SD   | SDIN / SDOUT | At least one multiplexed data line | G21      | PIN 40  |
 
 
+## Solution 
+
+- [[WM8960-dat]]
+
+
 
 
 ## ref 
