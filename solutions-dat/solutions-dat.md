@@ -12,3 +12,9 @@
 - Universal modules for smart homes such as serial port forwarding;
 - Cloud service applications;
 - IoT gateway.
+
+
+
+## Power Management
+
+- Power bank [[IP5306-dat]]
