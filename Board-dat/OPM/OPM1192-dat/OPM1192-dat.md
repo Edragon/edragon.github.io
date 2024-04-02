@@ -14,6 +14,19 @@ Pin Definitions:
 - Top right: Output ground 
 - Bottom Left: Ouput power supply 
 
+
+## Applcations
+
+Also can be used to driver servo, set to 3A 5V max. 
+
+-• LCD-TV
+-• SetTop Box
+-• Notebook
+-• Storage
+-• High power AP router
+-• Networking
+
+
 ## Output Setup 
 
 - R2 = 0.6/(V-0.6)*R1
