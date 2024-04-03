@@ -1,6 +1,13 @@
 
 # RFID-Card-dat
 
+
+## Types 
+
+- IC - read and write, higher security level 
+- ID - read only
+
+
 ![](2023-12-11-16-15-25.png)
 
 ![](2023-12-11-16-15-43.png)
