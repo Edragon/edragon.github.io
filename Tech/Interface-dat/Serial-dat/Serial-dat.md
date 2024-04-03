@@ -79,7 +79,7 @@ Booting Mode select
 
 ### FTDI FT232RL programming arduino pro mini 
 
-- [[DPR1029-dat]]
+- [[DPR1029-dat]] to [[DAR1010-dat]], [[DAR1007-dat]]
   
 ![](2024-04-03-15-04-50.png)
 

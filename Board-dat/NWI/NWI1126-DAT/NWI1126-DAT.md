@@ -82,7 +82,7 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 ## ref
 
-- read more information regarding how to use the chip here [[ESP32-C3-dat]]
+- read more information regarding how to use the chip here [[ESP32-C3-dat]] - [[ESP32-­C3-­WROOM-­02-DAT]]
 
 - [[NWI1124-DAT]]
 - [[NWI1125-DAT]]
@@ -129,3 +129,10 @@ Case 2: Control WS2812 LED Strips
 - https://www.youtube.com/shorts/aCjfessCOVM
 - video 1 
 - https://twitter.com/electro_phoenix/status/1610204098019880961
+
+### Default test firmware 
+
+Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to blink
+
+![](2024-04-03-15-29-43.png)
+
