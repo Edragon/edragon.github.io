@@ -71,11 +71,17 @@ Booting Mode select
 
 ## Applications 
 
-Flash target MCU microcontroller
+### Flash target MCU microcontroller
 ![](2023-12-19-16-16-01.png)
 
-communicate with GPS module 
+### communicate with GPS module 
 ![](2024-01-13-12-35-57.png)
+
+### FTDI FT232RL programming arduino pro mini 
+
+- [[DPR1029-dat]]
+  
+![](2024-04-03-15-04-50.png)
 
 ## ref 
 software [[com-monitor-dat]]
