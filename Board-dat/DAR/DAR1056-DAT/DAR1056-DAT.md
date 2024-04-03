@@ -30,4 +30,6 @@ please refer to the image below
 
 - [[LGT8F328-DAT]]
 
+- [[serial-dat]]
+
 - [[DAR1056]] - [[LGT8F328]]
