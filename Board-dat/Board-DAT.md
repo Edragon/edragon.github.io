@@ -7,7 +7,7 @@
 
 - [[Board-stock-out]] - [[board-series-dat]] - [[board-new-dat]] - [[board-discount]]
 
-- [[tech-dat]]
+- [[tech-dat]] - [[BOM-dat]]
 
 
 - [[ESPC2-12-DEV]]
