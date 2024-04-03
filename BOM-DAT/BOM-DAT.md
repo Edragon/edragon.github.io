@@ -6,6 +6,8 @@ The common bom we hosted
 
 ## Chip 
 
+- [[chip-dat]] - [[chip-cn-dat]]
+
 - [[PL2303-DAT]]
 
 
