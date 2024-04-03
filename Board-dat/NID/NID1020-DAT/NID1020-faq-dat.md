@@ -1,0 +1,16 @@
+
+# NID1020-faq-dat.md
+
+## can the antenna be smaller? 
+
+- NO, unless to cut the sensing distance 
+
+## Can be integrated into plastic case? 
+
+Yes, below is an animal checker device.
+
+![](2024-04-03-18-17-18.png)
+
+And an animal inject tag. 
+
+![](2024-04-03-18-19-31.png)
