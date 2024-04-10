@@ -1,11 +1,15 @@
 
 # NID1020-faq-dat.md
 
-## can the antenna be smaller? 
+#### can the antenna be smaller? 
 
 - NO, unless to cut the sensing distance 
 
-## Can be integrated into plastic case? 
+#### can it detect the card staying in the sensing area? 
+
+- No 
+
+#### Can be integrated into plastic case? 
 
 Yes, below is an animal checker device.
 
