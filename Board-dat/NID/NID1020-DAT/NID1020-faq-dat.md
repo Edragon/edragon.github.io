@@ -18,3 +18,8 @@ Yes, below is an animal checker device.
 And an animal inject tag. 
 
 ![](2024-04-03-18-19-31.png)
+
+
+#### how to design a system based on it 
+
+![](2024-04-10-15-50-44.png)
