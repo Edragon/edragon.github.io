@@ -35,6 +35,9 @@ right column pins
 | serial communication | TXD / RXD      |
 | logic shifter level  | float          |
 | serial baudrate      | 9600           |
+| network              | CAT-M / NBIOT  |
+| location             | GNSS           |
+
 
 
 ## ref 
@@ -49,3 +52,4 @@ right column pins
 - https://w.electrodragon.com/w/SIM7080
 
 
+- [[BTB-dat]]
