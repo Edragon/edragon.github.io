@@ -18,6 +18,10 @@ NXP
 BL
 
 
+NXP 
+PCF8563T/5,518
+
+
 
 ## ref board 
 [[MPC1073-DAT]]

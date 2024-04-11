@@ -1,6 +1,16 @@
 
 # Can-dat 
 
+## Chip 
+
+- TI ISO1050DUBR
+
+- TJA1042T/3/1J
+- TJA1050
+- TJA1051T/3/1J
+
+
+
 
 ## Boards 
 
