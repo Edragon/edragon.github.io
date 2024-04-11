@@ -33,15 +33,15 @@ Antenna Ports
 
 ## Quick Setup 
 
-| Functions            | Setup and Pins   |
-| -------------------- | ---------------- |
-| power supply         | direct 4.2V VBAT |
-| serial communication | TXD / RXD        |
-| logic shifter level  | None             |
-| serial baudrate      | 9600             |
-| network              | 2G/GPRS          |
-| location             | GPS              |
-
+| Functions            | Setup and Pins             |
+| -------------------- | -------------------------- |
+| power supply         | direct 4.2V VBAT           |
+| serial communication | TXD / RXD                  |
+| logic shifter level  | None                       |
+| serial baudrate      | 9600                       |
+| network              | 2G/GPRS                    |
+| location             | GPS                        |
+| boot mode            | press-button / mcu-trigger |
 
 ## Note 
 R1.1 version slightly optimize board layout, all antenna connectors on same side.

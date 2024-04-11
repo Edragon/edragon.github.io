@@ -29,15 +29,15 @@ right column pins
 
 ## Quick Setup 
 
-| Functions            | Setup and Pins |
-| -------------------- | -------------- |
-| power supply         | GND/5V         |
-| serial communication | TXD / RXD      |
-| logic shifter level  | float          |
-| serial baudrate      | 9600           |
-| network              | CAT-M / NBIOT  |
-| location             | GNSS           |
-
+| Functions            | Setup and Pins             |
+| -------------------- | -------------------------- |
+| power supply         | GND/5V                     |
+| serial communication | TXD / RXD                  |
+| logic shifter level  | float                      |
+| serial baudrate      | 9600                       |
+| network              | CAT-M / NBIOT              |
+| location             | GNSS                       |
+| boot mode            | press-button / mcu-trigger |
 
 
 ## ref 
