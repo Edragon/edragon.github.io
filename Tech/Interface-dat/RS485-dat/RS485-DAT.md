@@ -29,6 +29,12 @@
 
 - A / B reversed wiring = incorrect error data 
 
+
+## Chip 
+
+- SN75176BDR
+
+
 ## Boards 
 
 - [[DPR1060-dat]] - [[MSP1076-dat]]

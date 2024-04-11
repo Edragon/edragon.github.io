@@ -1,6 +1,14 @@
 
 # power-switch-dat
 
+
+- SY6280AAC
+Low Loss Power Distribution Switch
+
+- [[high-side-driver-dat]]
+
+
+
 ### STMPS2151
 
 Enhanced single channel power switches

@@ -99,4 +99,4 @@ replaceable
 - [[RS485-DAT]] - [[RS232-dat]] - [[I2C-dat]]
 
 
-- [[usb-ttl]]
+- [[usb-ttl]] - [[serial]]
