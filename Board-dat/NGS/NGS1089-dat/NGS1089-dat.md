@@ -39,6 +39,8 @@ Antenna Ports
 | serial communication | TXD / RXD        |
 | logic shifter level  | None             |
 | serial baudrate      | 9600             |
+| network              | 2G/GPRS          |
+| location             | GPS              |
 
 
 ## Note 
