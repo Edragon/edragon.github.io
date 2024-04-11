@@ -17,7 +17,7 @@ legacy wiki page
 - RXD
 - RTC
 - GND
-- BAT
+- BAT -> direct power supply 4.2V
 - KEY
 
 Antenna Ports 
@@ -30,6 +30,17 @@ Antenna Ports
 - For long term use, for example arduino, simply add extra diode (shipment included) if use 5V power supply.
 - Please look for our "[SIM868 Debug](https://www.electrodragon.com/w/SIM868_Debug)" wiki page if you encouter GNSS read problem.
 
+
+## Quick Setup 
+
+| Functions            | Setup and Pins   |
+| -------------------- | ---------------- |
+| power supply         | direct 4.2V VBAT |
+| serial communication | TXD / RXD        |
+| logic shifter level  | None             |
+| serial baudrate      | 9600             |
+
+
 ## Note 
 R1.1 version slightly optimize board layout, all antenna connectors on same side.
 
@@ -37,4 +48,5 @@ R1.1 version slightly optimize board layout, all antenna connectors on same side
 ## ref 
 
 - chip info - http://simcomm2m.com/En/module/detail.aspx?id=145
+- [[GPS-dat]]
 - [[NGS1089]]
