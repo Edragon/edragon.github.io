@@ -27,3 +27,6 @@
 - [[serial-dat]]
 
 - [[NGS1078]]
+
+- [[quectel-gps-dat]] - [[quectel-gnss-dat]]
+
