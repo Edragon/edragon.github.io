@@ -170,7 +170,7 @@ Long range RFID
 - [[NGS1095-dat]] - [[NGS1096-DAT]]
   
 Location 
-- GPS L70 - [[NGS1097-dat]] - [[NGS1100-dat]]
+- GPS L70 - [[NGS1097-DAT]] - [[NGS1100-dat]]
 - [[NGS1078-dat]]
 
 - SIM7070G - [[NGS1111-DAT]] - [[NGS1112-DAT]] 

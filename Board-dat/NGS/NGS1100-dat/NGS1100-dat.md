@@ -10,8 +10,8 @@ Quectel Concurrent GNSS Mini Receiver Series L70 L76 [Version]
 - [[L76-B-dat]]
 - [[L76-L-dat]]
 
+- [[NGS1100-dat]] - [[NGS1097-dat]] - [[quectel-gps-dat]] - [[GPS-dat]]
+  
 - [[NGS1100]]
 
-- [[quectel-gps-dat]]
 
-- [[GPS-dat]]
