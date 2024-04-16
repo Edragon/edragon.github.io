@@ -15,6 +15,9 @@ SPI Mode
 - DIO
 - DOUT
 
+| Model   | SPI Speed | SPI Mode | Speed     |
+| ------- | --------- | -------- | --------- |
+| ESP-12F | 40MHz     | QIO      | 1 500 000 |
 
 
 
