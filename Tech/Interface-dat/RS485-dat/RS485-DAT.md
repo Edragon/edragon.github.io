@@ -30,9 +30,6 @@
 - A / B reversed wiring = incorrect error data 
 
 
-## Chip 
-
-- SN75176BDR
 
 
 ## Boards 
