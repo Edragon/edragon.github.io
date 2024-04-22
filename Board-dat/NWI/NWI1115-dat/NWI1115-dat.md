@@ -36,6 +36,7 @@ https://w.electrodragon.com/w/ESP_Relay_Board_VDC
 * To supply power on board control circuit, add 6-24V power to "ALT VIN" pins
 
 
+
 ## Schematic 
 
 ![](2024-04-22-15-17-15.png)
