@@ -84,6 +84,9 @@ Tuning
 
 - note-1: high level works, low level stops working, high level is 2.5V, low level is about OV. By default, it has an internal pull-up to the positive input.
 
+
+
+
 ## ref
 
 - [[MP2315-dat]] - [[MPS-dat]]
