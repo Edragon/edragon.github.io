@@ -20,14 +20,16 @@ https://w.electrodragon.com/w/ESP_Relay_Board_VDC
 
 
 ## Specific for Relay Board VDC
-| Jumper                   | Header text                                                                            | Header text |
-| ------------------------ | -------------------------------------------------------------------------------------- | ----------- |
-| U2                       | wireless RF receiver, output TTL signal to ESP12F pins, DO -> IO2, D1 -> IO15          | -           |
-| JP2                      | Alternative power supply pin 5V-24V, = terminal power input                            | -           |
-| JP7                      | Power input selection, choose between 5V or 5-24V.                                     | -           |
-| JP1                      | DHT, ADC, RST                                                                          | -           |
-| JP6                      | row 1: RXD, TXD, 5V, GND, row 2: 3.3V, IO4, IO5, IO15                                  | -           |
-| Green Out Input Terminal | VIN 5-26V (top / inside of the board), ground (close to the edge outside of the board) | -           |
+
+
+| Jumper                   | Header text                                                 | Header text           |
+| ------------------------ | ----------------------------------------------------------- | --------------------- |
+| U2                       | wireless RF receiver, output TTL signal to ESP12F pins      | DO -> IO2, D1 -> IO15 |
+| JP2                      | Alternative power supply pin 5V-24V, = terminal power input | -                     |
+| JP7                      | Power input selection, choose between 5V or 5-24V.          | -                     |
+| JP1                      | DHT, ADC, RST                                               | -                     |
+| JP6                      | row 1: RXD, TXD, 5V, GND, row 2: 3.3V, IO4, IO5, IO15       | -                     |
+| Green Out Input Terminal | VIN 5-26V / ground                                          | -                     |
 
 
 ## Use of AC Main Power IN to Relay
