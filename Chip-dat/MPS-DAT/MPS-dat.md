@@ -1,5 +1,8 @@
 # MPS-dat
 
+legacy wiki page - https://w.electrodragon.com/w/Category:MPS
+
+
 - [[MPS-ACDC-dat]]
 
 - [[MP2315-dat]]
