@@ -48,7 +48,10 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 ![](2024-04-22-16-38-16.png)
 
-![](53-04-16-30-01-2023.png)
+- Red pins for power supply 
+- blue pins for serial interfaces
+- green pins IO22/IO23 for CAN BUS
+- the rest green pins and orange pins for power switch controls 
 
 - back side selector for UARTs
 
