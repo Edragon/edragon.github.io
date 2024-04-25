@@ -1,8 +1,23 @@
 # IDD1002-dat
 
+## Board Layout 
 ![](2024-04-08-16-54-17.png)
 
-Breakout board support up to
+## CC Current calculation 
+
+| Resistor | value |
+| -------- | ----- |
+| R1       | 0.5R  |
+| R2       | 0.5R  |
+| R3       | 0.33R |
+| R4       | nc    |
+
+Rs = 0.142241 R
+
+- [[circuit-resistor-dat]]
+
+
+## Breakout board support up to
 
 - [1W, 10W, 30W high power LEDs in our store](https://www.electrodragon.com/product/high-power-full-white-led-variable100w30w50w20w/)
 - also can shortly or not [fully power 50W or 100W LEDs](https://www.electrodragon.com/product/high-power-full-white-led-variable100w30w50w20w/). 33V for 100W LEDs can work but not recommdedded for long term.
@@ -16,3 +31,5 @@ Breakout board support up to
 
 
 - [[led-driver-dat]]
+
+- read more information on this page [[PT4115-dat]]
