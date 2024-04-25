@@ -1,5 +1,8 @@
 # IDD1002-dat
 
+- legacy wiki page - https://w.electrodragon.com/w/Category:LED_Drive
+
+
 ## Board Layout 
 ![](2024-04-08-16-54-17.png)
 
