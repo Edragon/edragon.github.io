@@ -8,14 +8,9 @@
 
 ## CC Current calculation 
 
-| Resistor | value |
-| -------- | ----- |
-| R1       | 0.5R  |
-| R2       | 0.5R  |
-| R3       | 0.33R |
-| R4       | nc    |
-
-Rs = 0.142241 R
+| output       | R1   | R2   | R3    | R4  | output current |
+| ------------ | ---- | ---- | ----- | --- | -------------- |
+| 0.142241 ohm | 0.5R | 0.5R | 0.33R | nc  | 700 mA         |
 
 - [[circuit-resistor-dat]]
 
