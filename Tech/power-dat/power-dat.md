@@ -6,3 +6,9 @@
 - [[wireless-charge-dat]]
 
 - [[dcdc-bulk-dat]]
+
+
+
+
+| Parts | Common Value | Note |
+| ----- | ------------ | ---- |
