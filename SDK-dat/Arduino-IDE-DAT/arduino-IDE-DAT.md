@@ -3,7 +3,7 @@
 
 
 - [[arduino-code-v1-dat]]
-- [[Arduino-Code-V2]]
+- [[arduino-code-v2-dat]]
 
 
 our repositories
