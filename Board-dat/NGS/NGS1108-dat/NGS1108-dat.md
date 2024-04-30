@@ -81,14 +81,14 @@ test with AT+CPIN?
 
 ## Code 
 
-- Please check most docs at our bitbucket folder (link in tracking info email).
-
-
+- https://github.com/Edragon/quectel_4g
 
 ## ref 
 
-- [[quectel-AT-dat]] - [[antenna-dat]] - [[quectel-GNSS-dat]]
+- [[quectel-AT-dat]] - [[antenna-dat]] - [[quectel-GNSS-dat]] - [[quectel-GPS-dat]]
 
+- [[ec20-dat]]
+  
 - [[NGS1108]] - [[ec20]]
 
-- [[logic-shifter-dat]]
+- [[power-dat]] - [[logic-shifter-dat]]

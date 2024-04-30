@@ -37,3 +37,8 @@ EC20 R2.0 has built-in rich network protocols, integrates multiple industry stan
 ## Pins 
 
 ![](2024-03-13-17-30-57.png)
+
+
+## Power supply 
+
+- Vio = 1.8V 
