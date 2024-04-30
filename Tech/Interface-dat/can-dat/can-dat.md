@@ -1,6 +1,9 @@
 
 # Can-dat 
 
+legacy wiki page - https://w.electrodragon.com/w/Category:CAN
+
+
 ## Chip 
 
 - TI ISO1050DUBR
