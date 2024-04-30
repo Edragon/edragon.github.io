@@ -12,3 +12,8 @@
 
 | Parts | Common Value | Note |
 | ----- | ------------ | ---- |
+
+
+## ref 
+
+- [[power]]

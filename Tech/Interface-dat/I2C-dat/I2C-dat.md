@@ -5,7 +5,7 @@
 
 for [[IOD1001-dat]]
 
-    //I2C device found at address 0x3C  ! // OLED = 0x78
+//I2C device found at address 0x3C  ! // OLED = 0x78
 
 //I2C device found at address 0x75  ! // IP5306
 
@@ -27,6 +27,12 @@ the most easy to use library for ESP
 
 - [[INA226-dat]] - [[OLED-dat]]
 
+
 ## ref 
 
 - https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/#1
+
+
+- [[arduino-dat]]
+
+- [[I2C-scan-dat.ino]]
