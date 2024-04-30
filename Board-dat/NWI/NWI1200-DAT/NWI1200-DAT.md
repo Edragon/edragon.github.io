@@ -84,7 +84,7 @@ based on demo code NWI1200-3
 
 ## demo code find at
 
-- [[arduino-code-v2]]
+- [[arduino-code-v2-dat]]
 
 ## ref
 

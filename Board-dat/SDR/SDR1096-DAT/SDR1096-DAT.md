@@ -46,7 +46,7 @@ Other peripheral
 - [[AS5047-DAT]]
 
 ### demo code please find at 
-- [[arduino-code-V2]]
+- [[arduino-code-v2-dat]]
 - or reference design Mechaduino
 
 

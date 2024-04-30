@@ -31,7 +31,7 @@ https://dl.espressif.cn/dl/esp-idf/
 ESP32-C3
 
 
-- install [[vs-cpp]]
+- install [[vs-cpp-dat]]
 
 
 Download an archive with submodules included
