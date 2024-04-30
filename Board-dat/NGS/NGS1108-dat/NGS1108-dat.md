@@ -90,3 +90,5 @@ test with AT+CPIN?
 - [[quectel-AT-dat]] - [[antenna-dat]] - [[quectel-GNSS-dat]]
 
 - [[NGS1108]] - [[ec20]]
+
+- [[logic-shifter-dat]]
