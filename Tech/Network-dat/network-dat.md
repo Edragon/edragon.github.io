@@ -1,4 +1,4 @@
 
 # network-dat.md
 
-- [[nfid-dat]]
+- [[nfid-dat]] - [[NBIOT-dat]]
