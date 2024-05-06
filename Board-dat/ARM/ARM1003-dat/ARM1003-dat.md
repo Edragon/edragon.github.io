@@ -8,9 +8,11 @@
 
 ## ref 
 
-- [[ethernet-dat]] - [[BLE-dat]]
+- [[ethernet-dat]] - [[BLE-dat]] - [[USB-dat]]
 
 - [[WCH-dat]]
+
+- [[CH579-dat]]
 
 - official SDK - https://www.wch.cn/products/ch579.html
 

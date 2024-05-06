@@ -17,7 +17,7 @@
 | GND    | PIN 6     (GND)    |                                  |
 | VIN    | PIN 2     (5V)     |                                  |
 
-
+- You can plug the board onto Raspberry Pi, it gets the power supply from RPI, no need for extra power supply.
 
 
 ## ref 
