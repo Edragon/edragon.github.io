@@ -17,6 +17,13 @@ serial output
 
 
 
+## demo 
+
+- https://www.youtube.com/shorts/zWjyrF9UqRg
+
+
+## ref 
+
 - [[INA219-dat]] - [[I2C-dat]]
 
 - [[power-meter-dat]]

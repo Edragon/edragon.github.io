@@ -6,15 +6,15 @@ Chinese Spring Festival holiday will influence at least 4 weeks, 2.5 weeks befor
 
 ## 2024 holiday overview 
 
-| Type                 | Date              |
-| -------------------- | ----------------- |
-| New year             | 30 ~ 1 Jan.       |
-| Chinese new yar      | 10 ~ 17th Feb.    |
-| Ching Ming Festival  | 4 ~ 6 April       |
-| Labor holiday        | 1 ~ 4 May         |
-| Dragon Boat Festival | 8 ~ 10 June       |
-| Mid-Autumn Festival  | 15 ~ 17 September |
-| National Day         | 1 ~ 10 Ocotober   |
+| Type                 | duration | 2024         | 2025 |
+| -------------------- | -------- | ------------ | ---- |
+| New year             | 3        | Jan. 30 ~ 1  |      |
+| Chinese new yar      | 20       | Feb. 10 ~ 17 |      |
+| Ching Ming Festival  | 3        | Apr. 4 ~ 6   |      |
+| Labor holiday        | 5        | May. 1 ~ 5   |      |
+| Dragon Boat Festival | 3        | Jun. 8 ~ 10  |      |
+| Mid-Autumn Festival  | 3        | Sep. 15 ~ 17 |      |
+| National Day         | 7        | Oco. 1 ~ 7   |      |
 
 
 ### 2024 Chinese new year holiday
