@@ -21,6 +21,6 @@ Analog Power Supply
 
 ## boards 
 
-- [[ARM1003-dat]] - [[ethernet-dat]] - [[usb-dat]] - [[CH57x-dat]]
+- [[ARM1003-dat]] - [[ethernet-dat]] - [[usb-dat]] - [[CH57x-dat]] - [[BLE-dat]]
 
 - [[CH579]]
