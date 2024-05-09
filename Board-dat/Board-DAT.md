@@ -19,8 +19,8 @@
 - [[AMP1021-dat]] - [[AMP1000-dat]] - [[AMP1003-dat]]
 
 ### ARM
-- [[ARM1003-dat]]
-
+- [[ARM1003-dat]] - [[ARM1007-dat]]
+  
 ### USB
 - [[USB1000-dat]] - [[USB1003-dat]]
 
@@ -55,9 +55,6 @@ AVR
 
 SAMD21
 - [[DOD1104-dat]] - [[DOD1107-dat]]
-
-### DOD - ARM 
-- [[ARM1003-dat]] - [[ARM1007-dat]]
 
 
 ### DPR
