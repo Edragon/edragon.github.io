@@ -5,3 +5,5 @@
 
 
 Eight-bit bidirectional voltage-level shifter for open-drain and push-pull applications
+
+- [[TXS0108]]

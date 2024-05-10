@@ -1,16 +1,16 @@
 
 ## quectel AT 
 
-| CMD | enquiry or notification | Set enable | Params | description             | CN                                      |
-| --- | ----------------------- | ---------- | ------ | ----------------------- | --------------------------------------- |
-|     | AT+CREG?                |            |        | ge registeration status | //获得手机的注册状态                    |
-|     | AT+CPIN?                |            |        |                         |                                         |
-|     | AT+COPS?                |            |        |                         |                                         |
-|     | ATD18576608994;         |            |        |                         | //拨打电话;  用户将其中的数字换成自己要 |
-|     | AT+CBC                  |            |        |                         |                                         |
-|     | +EUSIM: 1               |            |        |                         | //识别到  SIM  卡                       |
-|     |                         | AT+ESLP=0  |        |                         | //禁止模块自动休眠                      |
-|     | AT+CSQ                  |            |        |                         | //查询手机信号强度                      |
+| CMD | enquiry or notification | Set enable | feedback       | description             | CN                                      |
+| --- | ----------------------- | ---------- | -------------- | ----------------------- | --------------------------------------- |
+|     | AT+CREG?                |            | 1 = registered | ge registeration status | //获得手机的注册状态                    |
+|     | AT+CPIN?                |            |                |                         |                                         |
+|     | AT+COPS?                |            |                |                         |                                         |
+|     | ATD18576608994;         |            |                |                         | //拨打电话;  用户将其中的数字换成自己要 |
+|     | AT+CBC                  |            |                |                         |                                         |
+|     | +EUSIM: 1               |            |                |                         | //识别到  SIM  卡                       |
+|     |                         | AT+ESLP=0  |                |                         | //禁止模块自动休眠                      |
+|     | AT+CSQ                  |            | +CSQ: 24,99    |                         | //查询手机信号强度                      |
 
 
 
@@ -31,6 +31,7 @@ AT+CMGF=1  //设置短信格式为  TEXT  模式; AT+CMGF=0  为  PDU 模式
 AT+CMGS="13168091598"  //设置短信接收方号码 
 “I love you!”  //发送短信内容 
 0x1A  //发送短信结束符 
+
 3.  GPRS  入网流程： 
 +EUSIM: 1  //识别到  SIM  卡 
 AT+ESLP=0  //禁止模块自动休眠 
