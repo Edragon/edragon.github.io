@@ -16,6 +16,8 @@ https://www.electrodragon.com/product/gpd2856c-mp3-decoder-and-play-board-wampli
 
 ## Board map 
 
+![](2024-05-10-17-56-43.png)
+
 ![](2024-05-10-17-50-31.png)
 
 - U盘接口 - u-disk port 
