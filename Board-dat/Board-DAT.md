@@ -114,6 +114,36 @@ RPI LCD
 ### ITF
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
 
+
+
+### OPM 
+- [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
+
+[[wireless-charge-dat]]
+- [[OPM1167-dat]] - [[OPM1168-dat]]
+
+[[ACDC-dat]]
+
+- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]]
+
+battery holder - [[OPM1189-dat]]
+
+battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
+
+[[OPM1143-dat]]
+
+[[energy-meter-dat]] - [[OPM1126-dat]]
+
+Battery charger - [[OPM1181-dat]]
+
+[[relay-modules-dat]] - [[OPM1046-dat]]
+
+
+### OPS 
+- [[OPS1009-DAT]] - [[OPS1013-dat]]
+  
+
+
 ### MOT
 - [[MOT1009-DAT]]
 
@@ -244,32 +274,6 @@ ESP32-APP
 MT7688
 - [[NWI1219-dat]]
 
-### OPM 
-- [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
-
-[[wireless-charge-dat]]
-- [[OPM1167-dat]] - [[OPM1168-dat]]
-
-[[ACDC-dat]]
-
-- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]]
-
-battery holder - [[OPM1189-dat]]
-
-battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
-
-[[OPM1143-dat]]
-
-[[energy-meter-dat]] - [[OPM1126-dat]]
-
-Battery charger - [[OPM1181-dat]]
-
-[[relay-modules-dat]] - [[OPM1046-dat]]
-
-
-### OPS 
-- [[OPS1009-DAT]]
-  
 ### PMP
 
 ### PTO
