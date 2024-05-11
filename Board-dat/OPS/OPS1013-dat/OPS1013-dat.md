@@ -20,6 +20,8 @@
 - Do not short-circuit the positive and negative load lines of the **receiving module's output**.
 - **The module with magnetic pieces** allows metal to be close to the back of the magnetic piece.
 - The working surface of the two coils can only penetrate **non-metallic materials** for wireless power transmission.
+- the minimium distance should be at least 2mm
+
 
 ## Demo 
 
