@@ -11,3 +11,8 @@ USB Type-C Male OTG to TTL Serial Bridge Board
 ## Demo 
 
 https://t.me/electrodragon3/203
+
+
+## ref 
+
+- [[USB1010]]

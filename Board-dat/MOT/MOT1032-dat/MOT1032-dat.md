@@ -23,4 +23,6 @@ https://github.com/Edragon/RTC-BL5372
 
 ## ref 
 
+- [[MOT1032]]
+
 - [[RTC-dat]]
