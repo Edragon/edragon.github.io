@@ -5,6 +5,8 @@ https://www.electrodragon.com/product/android-host-interface-board-ch9343g/
 
 Android Host Interface Board CH9343G
 
+USB Android HOST 芯片 CH9343
+
 - chip - [[ch9343-dat]]
 
 - [[USB1014]]
@@ -35,7 +37,6 @@ J6 = ?
   - inside original PCB file and SCH
 
 - chip page link - http://www.wch.cn/product/ch9343.html
-
-
+- https://www.wch.cn/products/CH9343.html
 
 
