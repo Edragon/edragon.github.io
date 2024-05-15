@@ -8,4 +8,6 @@ JDY-25M Bluetooth 5.0 BLE5.0 Mesh Networking Module
 
 ## ref 
 
+- [[JDY-25M-dat]]
+
 - [[JDY-25M]]
