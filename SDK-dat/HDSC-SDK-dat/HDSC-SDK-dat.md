@@ -18,3 +18,7 @@
 - HDSC.HC32F005.1.0.1.pack
 
 
+## SDK Driver and Examples 
+
+- HC32F003 use HC32F005_SDK
+- hc32f005_ddl_Rev1.9.0 Lite
