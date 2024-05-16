@@ -15,3 +15,4 @@
 - https://github.com/Edragon/MCU-HDSC-HC32L110
 - https://github.com/Edragon/MCU-HDSC-SDK
 - https://github.com/Edragon/MCU-HDSC
+- https://github.com/Edragon/HDSC-APP
