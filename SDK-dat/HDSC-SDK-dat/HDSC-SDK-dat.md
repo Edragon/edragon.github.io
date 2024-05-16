@@ -12,6 +12,13 @@
 
 ![](2024-05-16-17-13-17.png)
 
+### Flash for HC32F003
+
+- better use our [[DPR1029-dat]] board, with DTR pin 
+- DTR pin should be connected to MCU's reset pin 
+- VDD 3.3V or 5V 
+- Serial RXD to UART1_TXD_P35
+- Serial TXD to UART1_RXD_P36
 
 
 ## MDK Support 
