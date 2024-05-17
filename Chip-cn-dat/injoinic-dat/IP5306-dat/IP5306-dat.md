@@ -23,8 +23,10 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 
 ## Note 
 
-Make sure 
-- use high quality, full charged battery for testing, otherwise could cause power off 
+
+- MAKE SURE to use high quality, full charged battery for testing, otherwise could cause power off 
+- The board does not supports modern quick charging options, like QC or PD 
+
 
 ![](2024-03-27-17-03-26.png)
 
