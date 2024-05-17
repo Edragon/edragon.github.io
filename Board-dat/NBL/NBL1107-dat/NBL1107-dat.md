@@ -11,6 +11,29 @@ legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
 
 - SJ1 setup button output to either Reset or P32
 
+## Pin Definitiosn 
+
+| MCU pins   | BT Modules | Sensors    | Other                |
+| ---------- | ---------- | ---------- | -------------------- |
+| Reset      |            |            | Button Reset or PROG |
+| U0_TXD     | BT_RXD     |            |                      |
+| U0_RXD     | BT_TXD     |            |                      |
+| P03        | -          | -          | NC                   |
+| P15        | BT_IN2     |            |                      |
+| P14        | BT_IN1     |            |                      |
+| P23        | BT_stat    |            |                      |
+| P24        |            |            | Button Alternative   |
+| P25        |            | Sensor SDA |                      |
+| P26        |            | Sensor SCL |                      |
+| P27        |            |            | lead out free        |
+| P31        |            |            | lead out free        |
+| P32        | BT_PWRC    |            |                      |
+| P33        |            |            | Bat_ADC              |
+| P34        |            |            | Relay                |
+| P35_U1_TXD |            |            | free or PROG         |
+| P36_U1_RXD |            |            | free or PROG         |
+
+
 
 ## ref 
 

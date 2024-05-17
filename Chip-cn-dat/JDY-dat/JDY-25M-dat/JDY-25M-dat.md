@@ -9,8 +9,43 @@ legacy wiki page - https://www.electrodragon.com/w/JDY-25M
 
 ![](2024-05-15-18-59-17.png)
 
-- [[NBL1101-dat]]
+- [[NBL1101-dat]] - [[NBL1107-dat]]
 
+## Pins 
+
+| Pin | Definition | Function                 | Description                                                   |
+| --- | ---------- | ------------------------ | ------------------------------------------------------------- |
+| 1   | TXD        | Serial port              | Serial output, the level is TTL level                         |
+| 2   | RXD        | Serial port              | Serial input, the level is TTL level                          |
+| 3   | NULL       | Null                     | -                                                             |
+| 4   | NULL       | Null                     | -                                                             |
+| 5   | KEY5       | Input 5                  | inputs*                                                       |
+| 6   | KEY4       | Input 4                  | inputs*                                                       |
+| 7   | KEY3       | Input 3                  | inputs*                                                       |
+| 8   | KEY2       | Input 2                  | inputs*                                                       |
+| 9   | NULL       | Null                     | -                                                             |
+| 10  | KEY1       | Input 1                  | inputs*                                                       |
+| 11  | RESET      | Reset                    | Low level reset, high level working (high level if suspended) |
+| 12  | VCC        | Power Supply             | Supply（1.8-3.6V）                                            |
+| 13  | GND        | GND                      | Power ground                                                  |
+| 14  | PWRC       | Sleep wake pin           | PWRC descriptions*                                            |
+| 15  | ALED       | Broadcast LED indication | LED_status*                                                   |
+| 16  | STAT       | Connection status        | status*                                                       |
+| 17  | OUTPUT5    | Output 5                 | outputs*                                                      |
+| 18  | NULL       | Null                     | -                                                             |
+| 19  | NULL       | Null                     | -                                                             |
+| 20  | NULL       | Null                     | -                                                             |
+| 21  | NULL       | Null                     | -                                                             |
+| 22  | OUTPUT1    | Output 1                 | outputs*                                                      |
+| 23  | OUTPUT2    | Output 2                 | outputs*                                                      |
+| 24  | OUTPUT3    | Output 3                 | outputs*                                                      |
+| 25  | OUTPUT4    | Output 4                 | outputs*                                                      |
+
+* outputs = Default low level, support serial instruction control and input KEY pin control in network state 
+* status = In non mesh mode, low level if not connected, high level after connection In mesh mode (output high level if connect to network successfully, if not, output low level)
+* inputs = inputs
+* PWRC descriptions = Support PWRC pin wake-up in deep sleep state, and AT instruction sending is supported when the connection status is pulled down
+* LED_status = In non mesh mode (flash if not connected, light on after connection)
 
 ## AT commands 
 
