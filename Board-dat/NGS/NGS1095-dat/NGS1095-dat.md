@@ -30,9 +30,9 @@ on module side
 
 
 # reference 
-- [[SIM7020-DAT]]
-- [[low-power-test-dat]]
 
-- [[SIMCOM-dat]]
+- [[SIM7020-DAT]] - [[SIMCOM-dat]]
+
+- [[low-power-dat]]
 
 - [[SIM7020]]
