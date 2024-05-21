@@ -46,7 +46,9 @@ Supported band
 - SIM7020 git info : https://github.com/Edragon/SIMCOM_SIM7020
 
 
+## Demo 
 
+- Basic Test Demo - https://www.youtube.com/shorts/HXGcgzOb-aY
 
 
 ### board ref 
@@ -64,5 +66,5 @@ Supported band
 
 ## doc
 
-- https://w2.electrodragon.com/chip-cn/SIMCOM/SIM7020-DAT/SIM7020_Series_AT_Command_Manual_V1.00.pdf
-- https://w2.electrodragon.com/chip-cn/SIMCOM/SIM7020-DAT/SIM7020G_Hardware_Design_V1.00.pdf
+- [[SIM7020_Series_AT_Command_Manual_V1.00.pdf]]
+- [[SIM7020G_Hardware_Design_V1.00.pdf]]
