@@ -116,6 +116,11 @@ commands
     OK
 
 
+AT+COPS?
++COPS: 0,0,"CHINA MOBILE",0
+
+
+
 ### AT+CREG 
 
 AT+CREG?
@@ -135,6 +140,12 @@ AT+CREG?
 - 3 Registration denied
 - 4 Unknown
 - 5 Registered, roaming
+
+For NBIOT 
+
+AT+CEREG?
++CEREG: 0,4
+
 
 
 ### 6.3. AT+CSQ Signal Quality Report

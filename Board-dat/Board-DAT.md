@@ -211,14 +211,12 @@ Location
 - A7670 [[NGS1131-DAT]]
 - [[LAN8720-dat]] - [[NWI1199-DAT]]
 
-EC20 - 4G
-- [[NGS1108-dat]]
 
 SIMCOM
 
 - [[NGS1119-dat]]
 
-Quectel 
+Quectel - EC20 - 4G
 - [[NGS1108-dat]]
 
 ### NWL
