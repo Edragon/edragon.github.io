@@ -5,7 +5,6 @@
 
 ![](2024-05-27-17-16-13.png)
 
-legacy wiki page - https://w.electrodragon.com/w/Category:BC20
 
 Pin Definition:
 
@@ -54,3 +53,5 @@ Pin Definition:
 - [[BC20-dat]]
 
 - at commands refer to [[quectel-at-dat]]
+
+- legacy wiki page - https://w.electrodragon.com/w/Category:BC20
