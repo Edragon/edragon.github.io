@@ -1,6 +1,8 @@
 
 ## quectel AT 
 
+legacy wiki page - https://w.electrodragon.com/w/Category:Quectel_AT
+
 | CMD | enquiry or notification | Set enable | feedback       | description             | CN                                      |
 | --- | ----------------------- | ---------- | -------------- | ----------------------- | --------------------------------------- |
 |     | AT+CREG?                |            | 1 = registered | ge registeration status | //获得手机的注册状态                    |
