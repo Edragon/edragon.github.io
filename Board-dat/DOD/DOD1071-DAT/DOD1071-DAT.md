@@ -38,7 +38,7 @@ default firmware, demo code at our git - https://github.com/Edragon/WCH_CH55X-AP
 
 ## board sch 
 
-![](28-39-14-25-07-2023.png)
+![](DOD1071-sch.png)
 
 ## ref 
 

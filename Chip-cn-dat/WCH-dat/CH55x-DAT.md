@@ -21,10 +21,11 @@ https://w.electrodragon.com/w/Category:CH55X
 
 ### Board Wiki pages 
 
+- [[DOD1064-dat]] - [[DOD1067-dat]] - [[DOD1068-DAT]] - [[DOD1071-DAT]] - [[USB1000-dat]]
 
-- [[DOD1067-dat]] - [[DOD1068-DAT]] - [[DOD1071-DAT]] - [[USB1000-dat]]
+## Chips 
 
-- [[CH559-DAT]] - [[CH554-DAT]] 
+- [[CH551-dat]] - [[CH552-dat]] - [[CH554-DAT]] - [[CH559-DAT]]
 
 
 ### DEV Boards Links 
