@@ -78,4 +78,4 @@ https://www.youtube.com/shorts/TeaZ1xKcAqg
 
 - [[RS485-dat]] - [[CAN-dat]] - [[high-side-driver-dat]]
 
-- [[voltage-divider-dat]]
+- [[voltage-divider-dat]] - [[conn-cable-terminal-dat]]
