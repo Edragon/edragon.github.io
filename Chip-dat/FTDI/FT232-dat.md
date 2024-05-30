@@ -11,5 +11,8 @@
 
 ## ref 
 
+- driver - https://ftdichip.com/drivers/
+- [[CDM212364_Setup.zip]]
+
 
 - [[FT232]]
