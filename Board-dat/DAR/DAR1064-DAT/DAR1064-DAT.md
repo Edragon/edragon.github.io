@@ -8,6 +8,10 @@
 
 ![](14-28-16-19-04-2023.png)
 
+
+Jumper Setup 
+
+| Power Supply 
 Power Supply 
 - normally 5V
 
@@ -16,8 +20,8 @@ Power Supply VDDIO2
 
 
 UART Selector 
-- PB0 PB1
-- PE0 PE1
+- PB0 PB1 (USART 3)
+- PE0 PE1 ()
 
 ## Usage 
 
