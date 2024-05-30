@@ -12,7 +12,7 @@
 ## ref 
 
 - driver - https://ftdichip.com/drivers/
-- [[CDM212364_Setup.zip]]
+- [[CDM-v2.12.36.4.U-WHQL-Certified.zip]]
 
 
 - [[FT232]]
