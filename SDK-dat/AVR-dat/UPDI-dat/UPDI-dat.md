@@ -2,16 +2,7 @@
 
 # UPDI-dat
 
-
-power supply setup 
-
-3.3V + 3.3_jump
-
-- [[arduino-nano-dat]]
-
-## Upload firmware to arduino NANO 
-
-![](2024-05-31-15-23-35.png)
+Wiring: 3.3V or 5V, GND, UPDI 
 
 
 ## programmers
@@ -23,6 +14,9 @@ power supply setup
 https://github.com/Dlloydev/jtag2updi/wiki/DIY-ATtiny-HV-UPDI-Programmer
 
 ### Arduino Nano as a programmer 
+
+- [[arduino-nano-dat]]
+
 
 The 4.7 kOhm resistor connects D6 pin with 6pin header’s top middle pin. 
 
@@ -55,10 +49,10 @@ Common Errors
     avrdude: jtagmkII_program_disable(): timeout/error communicating with programmer (status -1)
     ***failed; 
 
-## tuto - self made arduino nano as UPDI programmer 
 
-- https://www.instructables.com/Arduino-Nano-1/
+#### Upload firmware to arduino NANO 
 
+![](2024-05-31-18-27-07.png)
 
 
 ## Common Programmer in Arduino 
@@ -69,7 +63,7 @@ Common Errors
 
 - [[megaCoreX-dat]]
 
-## command mode 
+## avrdude command mode 
 
 avrdude -C D:\avrdude.conf -c jtag2updi -P com285 -p avr128db64 -v -v -v -v
 
