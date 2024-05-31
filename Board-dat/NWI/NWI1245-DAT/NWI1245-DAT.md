@@ -69,6 +69,10 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 https://www.youtube.com/shorts/TeaZ1xKcAqg
 
+- tested work with [[DPR1103-dat]]
+
+
+
 ## ref
 - code please refer to our ESP32 arduino github repository 
 - https://github.com/Edragon/Arduino-ESP32/tree/master/BSP/NWI1245/power-switch-test
