@@ -92,6 +92,11 @@ Flash bootloader for Arduino UNO
     avrdude -CD:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\tools\avr\etc\avrdude.conf -c usbasp -p m328p -b 19200 -U flash:w:"D:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\arduino\avr\bootloaders\optiboot\optiboot_atmega328.hex":a
 
 
+## with conf file 
+
+avrdude -C D:\avrdude.conf -c jtag2updi -P com285 -p avr128db64
+
+
 ## Supported List 
 
 - Commands: avrdude -p ?
