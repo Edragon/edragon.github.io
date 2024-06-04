@@ -36,6 +36,6 @@
 | SIM7060G | NB2+GNSS | 24*24      | 1/2/3/4/5/8/12/13/17/18/19/20/25/26/28/66/70/71/85 |
 
 ## commands 
-- [[SIMCOM-AT-DAT]] - [[simcom-at-gnss]] - [[SIMCOM-PSM-dat]]
+- [[SIMCOM-AT-DAT]] - [[simcom-at-gnss]] - [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
 
 - [[M2M-dat]]
