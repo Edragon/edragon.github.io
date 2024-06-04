@@ -12,7 +12,7 @@
 
 
 
-- [[SIMCOM-PSM-dat]]
+- [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
 
 
 
@@ -62,7 +62,7 @@ Supported band
 
 - [[SIM7020]] - [[BTB-dat]]
 
-- [[low-power-dat]] - [[SIMCOM-PSM-dat]]
+- [[low-power-dat]] - [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
 
 ## doc
 
