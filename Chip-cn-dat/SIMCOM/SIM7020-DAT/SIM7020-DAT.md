@@ -67,4 +67,5 @@ Supported band
 ## doc
 
 - [[SIM7020_Series_AT_Command_Manual_V1.00.pdf]]
+
 - [[SIM7020G_Hardware_Design_V1.00.pdf]]
