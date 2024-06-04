@@ -4,6 +4,10 @@
 legacy wiki page - https://www.electrodragon.com/w/JDY-25M
 
 
+- 电源（1.8-3.6V）
+- baudrate default 9600bps 
+
+
 ## boards 
 
 

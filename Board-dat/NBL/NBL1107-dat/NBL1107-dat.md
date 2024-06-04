@@ -37,7 +37,7 @@ legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
 
 ## ref 
 
-- [[AHT20-dat]] - [[KX023-1025-dat]]
+- [[AHT20-dat]] - [[KX023-1025-dat]] - [[I2C-dat]]
 
 - [[HC32F003-dat]] - [[HDSC-dat]]
 
