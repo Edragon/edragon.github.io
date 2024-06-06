@@ -13,7 +13,7 @@
 
 - https://play.google.com/store/apps/dev?id=7265678888812659353&hl=en_US
 
-- JDY - [[JDY-25M-dat]] - BT Connect.apk
+- JDY - [[JDY-25M-dat]] - [[BT Connect.apk]]
 
 - Wireshark 
 
