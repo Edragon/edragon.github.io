@@ -105,6 +105,12 @@ legacy wiki page - https://www.electrodragon.com/w/JDY-25M
 | 48   | AT+ALED      | 广播 LED 开关                       | 1                |
 
 
+## examples 
+
+| category   | Operations                                | Send                                         | feedback                                                     |
+| ---------- | ----------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
+| Networking | AT+MADDR - get broadcasting short address | AT+MADDR                                     | +MADDR=0733                                                  |
+| Networking | AT+MESH - broadcasting data               | 41 54 2b 4d 45 53 48 00 ff ff 11 22 33 0d 0a | 4F 4B 0D 0A F1 DD 07 07 33 FF FF 11 22 33 (4F 4B 0D 0A = OK) |
 
 
 
