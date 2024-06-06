@@ -104,8 +104,16 @@ legacy wiki page - https://www.electrodragon.com/w/JDY-25M
 | 47   | AT+KLRSSI    | 设置标签灵敏度 （用于接收范围设置） | 99               |
 | 48   | AT+ALED      | 广播 LED 开关                       | 1                |
 
+
+
+
+
 ## ref 
 
 - [[BLE-dat]]
 
 - https://github.com/Edragon/JDY-25M
+
+- [[JDY-25M Super Bluetooth Module Manual.pdf]]
+
+- [[JDY-dat]]
