@@ -111,8 +111,99 @@ legacy wiki page - https://www.electrodragon.com/w/JDY-25M
 | ---------- | ----------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
 | Networking | AT+MADDR - get broadcasting short address | AT+MADDR                                     | +MADDR=0733                                                  |
 | Networking | AT+MESH - broadcasting data               | 41 54 2b 4d 45 53 48 00 ff ff 11 22 33 0d 0a | 4F 4B 0D 0A F1 DD 07 07 33 FF FF 11 22 33 (4F 4B 0D 0A = OK) |
+|            |                                           | AT+PIN                                       | +PIN=123456                                                  |
+|            |                                           | AT+STAT                                      | +STAT=0                                                      |
+|            |                                           | AT+POWR                                      | +POWR=4                                                      |
+|            |                                           | AT+ROLE                                      | +ROLE=5                                                      |
+|            | set/enquiry --MESH network ID number      | AT+NETID                                     | +NETID=1189                                                  |
+| Networking | check networking types                    | AT+MCLSS                                     | +MCLSS=0                                                     |
+|            | mesh friend                               | AT+FRIEND                                    | +FRIEND=000000000000                                         |
+|            |                                           | AT+IBUUID                                    | +IBUUID=FDA50693A4E24FB1AFCFC6EB07647825                     |
+|            |                                           | AT+ENLOG                                     | +ENLOG=1                                                     |
+|            |                                           | AT+CUIO                                      | +CUIO=0,0,0,0,0,                                             |
 
 
+## UUID 
+
+UUID List
+
+| type                | uuid | note                                                                                                                                |
+| ------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Service UUID        | FFE0 | (Service UUID)                                                                                                                      |
+| Characteristic UUID | FFE1 | (for pass-through data)                                                                                                             |
+| Characteristic UUID | FFE2 | (for pass-through data)                                                                                                             |
+| Characteristic UUID | FFE3 | (for MESH data transmission and reception, MESH command transmission and reception, APP control of IO, and parameter configuration) |
+
+
+### APP commands 
+
+### # APP 透传 （使用特征 UUID：FFE1）
+
+0XFFE1 为 APP 透传特征 UUID（应用于 IOS、Android 或微信小程序通信）
+
+#### APP 向 MESH 发送数据或指令 （使用特征 FFE3）
+
+数据格式 HEAD(2byte) + CMD(1byte) + MADDR(2byte) + data(1-16byte)
+
+    例子 1：APP 向所有设备广播数据：31323334353637383930
+    指令 1：F101 00 FFFF 31323334353637383930
+    例子 2：APP 向 0008 设备串口发送 1122334455 数据
+    指令 2：F101 00 0008 1122334455
+    例子 3：APP 将所有模块的 OUT1 引脚设置成高电平
+    指令 3：F101 10 FFFF AAB1E70101
+    例子 4：APP 将 0008 模块的 OUT1 引脚设置成低电平
+    指令 4：F101 10 0008 AAB1E70100
+    例子 5：APP 读取 0008 模块的所有 OUT 引脚电平
+    指令 5：F101 31 0008 F0B100
+    例子 6：APP 读取 0008 模块的所有 INPUT 引脚电平
+    指令 6：F101 31 0008 F1B101
+
+
+## FAQ 
+
+If the transmission distance is relatively long, will it extend the network transmission distance if JDY-24M/25M is placed every several dozen meters?
+- Answer: Yes
+
+![](2024-06-07-15-11-10.png)
+
+Example: A needs to send data to (C, D, E, F). Due to the long distance, A's signal cannot reach (C, D, E, F). Here, a device B needs to be placed between A and C to solve the communication distance problem between A and C.
+
+
+
+## Applications 
+
+### Mesh mode 
+
+#### broadcasting to control the IO of all nodes
+
+- Configure the network NETID to 1122: AT+NETID1122
+- Configure the current device short address to 0005: AT+MADDR0005
+
+- Configure the current KEY1 broadcast to control the OUT3 output IO of all devices in the network: AT+KEY1,0008,3,1
+- Send AT+RESET again to restart and take effect. At this time, KEY1 can control the output IO level of all OUT3 in the network
+
+low power mode options 
+- Configure the device as a low-power terminal node: AT+MCLSS1
+- In low-power mode, the current is 3uA, the key is pressed to send data, and the key is released to enter deep sleep
+
+#### broadcasting to send data to all nodes
+
+- Configure the network NETID to 1122: AT+NETID1122
+- Configure the current device short address to 0005: AT+MADDR0005
+- Configure the device as a routing node: AT+MCLSS0
+- Configuration takes effect after restart
+
+Broadcast 1122334455 data to all devices (FF FF) on the network, send the following instructions
+
+    41 54 2b 4d 45 53 48 00 FF FF 11 22 33 44 55 0D0A
+
+Send 1122334455 data to device 0008 (00 08) in the network, the instructions are as follows
+
+    41 54 2b 4d 45 53 48 00 00 08 11 22 33 44 55 0D0A
+
+Control the OUT1 pin of target 0008 to be low level, and there is an ACK response, the instructions are as follows
+
+    41 54 2b 4d 45 53 48 11 00 08 AA B2 E7 01 00
 
 ## ref 
 
