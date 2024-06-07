@@ -2,14 +2,16 @@
 # DAS1031-dat 
 
 
-FOR ARDUINO UNO+2.4'' LCD
+- FOR Arduino UNO stack with 2.4'' LCD
+
+- more documentation please refer to [[DAS1030-dat]]
 
 
 ## SCH
 
 V2 
 
-with [[buffer-dat]]
+with [[buffer-dat2]]
 
 ![](2023-10-31-22-39-10.png)
 

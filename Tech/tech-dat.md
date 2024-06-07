@@ -1,11 +1,8 @@
 
 # tech 
 
-- [[terminal-clamping]] - [[servo-DAT]] - [[BTB-dat]]
 
-- [[interface-dat]]
 
-- [[SBC-dat]] - [[RPI-dat]]
 
 ## Circuits 
 
@@ -17,13 +14,15 @@
 - [[arduino-IDE-DAT]] - [[ESP-SDK-dat]]
 
 
-## Tools
+## Category
 
+### Processing 
 
-## Tech
+- [[mcu-dat]] - [[SBC-dat]] - [[RPI-dat]]
 
 ### Network
-[[network-dat]]
+
+- [[network-dat]]
 
 - [[RF-DAT]]
 
@@ -34,23 +33,35 @@
 
 ### Power 
 
-- [[battery-drainer-dat]] - [[acdc-dat]]
+- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-meter-dat]]
 
-- [[power-meter-dat]]
-
+- [[low-power-dat]]
 
 ### Interactive
 
 - [[LED-dat]] - [[LED-strip-dat]]
 
 ### Sensors 
+
 Industrial / Sensor - [[sensor-dat]]
 
 - [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]]
 
-## Function 
+[[Motion-sensor-dat]]
+
+- [[PIR-sensor-dat]]
+
+### Interface 
+
+- [[interface-dat]]
+
+
+## Utilities  
 
 - [[RTC-dat]] - [[buffer-dat]] 
+
+- [[terminal-clamping]] - [[servo-DAT]] - [[BTB-dat]]
+
 
 ## Code 
 - [[arduino-ide-dat]]

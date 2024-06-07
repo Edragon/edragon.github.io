@@ -7,6 +7,16 @@
 
 - [[motion-sensor-dat]]
 
-- [[thermocouple-dat]]
+- [[thermocouple-dat]] - [[thermostat-dat]] - [[temperature-sensor-dat]]
 
-- [[thermostat-dat]]
+- [[current-sensor-dat]]
+
+- [[gas-sensor-dat]] - [[liquid-sensor-dat]]
+
+
+
+
+## Sell 
+
+- [[SVC1010-dat]]
+

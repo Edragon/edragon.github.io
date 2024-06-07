@@ -8,6 +8,7 @@
 ## Demo Channels 
 
 - telegram - https://t.me/electrodragon3
-- twitter - https://twitter.com/electro_phoenix
+- twitter1 - https://twitter.com/electrodragon
+- twitter2 - https://twitter.com/electro_phoenix
 - youtube - https://www.youtube.com/@electrodragonfan
 - github - https://github.com/Edragon

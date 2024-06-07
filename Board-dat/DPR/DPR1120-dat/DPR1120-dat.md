@@ -15,7 +15,9 @@
 
 - remove the jumpers, which are for our factory test purpose only 
 
+
 ## ref 
 
-- [[FT4232-dat]] 
+- [[FT4232-dat]] - [[USB-TTL-dat]]
+  
 - [[ft4232]] - [[DPR1120]]

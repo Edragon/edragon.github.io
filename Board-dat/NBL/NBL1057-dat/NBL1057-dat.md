@@ -1,10 +1,8 @@
 # NBL1057-dat
 
-## Default Setup
+## Jumper pin setup 
 
 - Default setup for BC-04B
-
-And customize Setup
 
 | Jumper | BC-04B                    | EC-04B                    | HC-05           | HC-06           |
 | ------ | ------------------------- | ------------------------- | --------------- | --------------- |
@@ -14,31 +12,51 @@ And customize Setup
 | JP4    | hardware Master or slave  | hardware Master or slave  | -               | -               |
 | JP5    | hardware or software mode | hardware or software mode | -               | -               |
 
-
+- JP1 ~ JP3: core module type setup 
+- JP5 = HA + JP4 = MA: set module by hardware to master 
+- JP5 = HA + JP4 = SL: set module by hardware to slave
+- JP5 = SO + JP4 = *any*: set module by software 
 - state or status: pair state or AT commands status
+
+
+## Base Board Pin Definitions
+
+![](2023-10-19-13-27-25.png)
+
+from left to right from front side
+
+- GND
+- +5V
+- 3V3
+- TXD
+- RXD
+- Clear - clear the pairing status
 
 
 ## SCH
 
-Version New 2
+### Version New 2
+* add extra two functions pad pins 
 
 ![](2023-10-27-15-17-54.png)
 
 ![](2023-10-27-15-14-19.png)
 
-* add extra two functions pad pins 
 
 
 
-Version Old 1
+## Wiring
 
-![](2023-10-27-14-56-16.png)
+- Board RXD -> target RXD, board TXD -> target TXD
 
-- R2 version add software and hardware master/slave mode select,
-- default is software on.
-- To use hardware select, need cut off connection on software ON with middle pin first.
+## Mode
+
+- Be aware default setting of the product is slave mode, communication only available between master and slave mode, but not master and master, or slave and slave mode.
+
 
 ## ref
+
+for old version, and basic schematic please read at [[NBL1057-0-dat]]
 
 - based on module - [[NBL1018-dat]] - [[NBL1022-dat]] - [[NBL1057-dat]]
 

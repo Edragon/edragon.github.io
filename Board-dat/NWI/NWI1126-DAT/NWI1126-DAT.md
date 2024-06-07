@@ -82,13 +82,14 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 ## ref
 
-- [[ESP32-­C3-­WROOM-­2-DAT]]
+- read more information regarding how to use the chip here [[ESP32-C3-dat]] - [[ESP32-­C3-­WROOM-­02-DAT]]
 
 - [[NWI1124-DAT]]
 - [[NWI1125-DAT]]
 - [[NWI1126]]
 
 - [[ESP32-DAT]] - code at [[arduino-esp32-dat]]
+
 
 ## jumper setup cases
 
@@ -122,9 +123,16 @@ Case 2: Control WS2812 LED Strips
 
 ## demo video
 
-
+- video 3 - use I2C - https://youtube.com/shorts/UG-1v1mZk8A?si=PcT6opcI4V1srDCq
 - video 2
 - running LED Strips at 1A / 24V for 1 hour, the board's temperature raise a little. 
 - https://www.youtube.com/shorts/aCjfessCOVM
 - video 1 
 - https://twitter.com/electro_phoenix/status/1610204098019880961
+
+### Default test firmware 
+
+Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to blink
+
+![](2024-04-03-15-29-43.png)
+

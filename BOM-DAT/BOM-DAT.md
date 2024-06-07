@@ -2,7 +2,11 @@
 
 # BOM
 
+The common bom we hosted 
+
 ## Chip 
+
+- [[chip-dat]] - [[chip-cn-dat]]
 
 - [[PL2303-DAT]]
 
@@ -11,5 +15,10 @@
 - [[WCH-DAT]] - [[ESP32-DAT]] - [[ESP8266-DAT]]
 
 - [[BTB-dat]]
+
+- [[optocoupler-dat]]
+
+
+## ref 
 
 - [[BOM]]

@@ -2,14 +2,32 @@
 
 # NID1020 DAT - EL125
 
+- legacy wiki page https://w.electrodragon.com/w/Category:EL125
+- accessoires please read at page [[125khz-dat]]
+
+- product link - https://www.electrodragon.com/product/125khz-rfid-long-distance-module-40cm-serial/
+- card and accessories link - https://www.electrodragon.com/?s=125khz&post_type=product
+
 
 ## pin definitions 
 
-- pin 1/2 power supply 
-- pin 5 tx output data
-- pin 7 data type output selection, normally put to VCC
-- pin 8/9 antenna 
+| pin | name                                                           | note                 |
+| --- | -------------------------------------------------------------- | -------------------- |
+| 1   | antenna 1                                                      | **MUST CONNECT**     |
+| 2   | antenna 2                                                      | **MUST CONNECT**     |
+| 3   | high-level election serial port, low-level selection of Wigan, | **THIS MUST SELECT** |
+| 4   | buzzer output, no card low, a card output 2.7k square wave     |                      |
+| 5   | Serial TX output or Wigan 26 data D1                           | data out             |
+| 6   | Wigan 26 data D0                                               |                      |
+| 7   | reset terminal, active low to repeat reading                   |                      |
+| 8   | ground                                                         | **MUST CONNECT**     |
+| 9   | power supply                                                   | **MUST CONNECT**     |
 
+
+- pin 1/2 antenna 
+- pin 3 data type output selection, normally put to VCC
+- pin 5 tx output data
+- pin 8/9 power supply 
 
 
 
@@ -21,11 +39,16 @@
 - test2:           02 30 39 30 30 37 43 42 32 43 30 07 03 
 
 
-## Ref 
+## demo code 
 
-- [[125khz]]
 - https://w.electrodragon.com/w/Category:EL125
-- [[NID1020]]
+- or Arduino demo code here: https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/RF/16-RFID/125KHZ/EL-125
+
+### Arduino
+* Use software serial pin 6/7, connect RFID TX data pin to Arduino RX pin 6 or 7
+* Module output selection pin should set to High for serial output
+
+* To avoid interferences, use different power supply for RFID and arduino, but connect share common ground GND
 
 
 
@@ -36,4 +59,18 @@ other RFID cards or keys
 
 performance
 - Any microcontrollers should work, and lithium batteries also work, just add more capacitors to filter the noise in the power supply. The performance only changes a little or not if you do good filtering.
+
+
+## demo video 
+
+- https://www.youtube.com/watch?v=9gzx0SZKJYE
+- Test result is 20cm thin card, and 14cm key tag.: https://twitter.com/electro_phoenix/status/1001781336393175041
+
+
+
+## Ref 
+
+- [[125khz-dat]] - [[rfid-dat]]
+
+- [[NID1020]]
 

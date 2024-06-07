@@ -25,3 +25,5 @@ Notice if you run high charging current, add heat sink on backside would be good
 - [[rechargeable-battery-dat]] - [[battery-dat]]
 
 - [[Lead-Acid-Battery-dat]]
+
+- [[OPM1181]]

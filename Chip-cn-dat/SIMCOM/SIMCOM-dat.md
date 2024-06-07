@@ -24,8 +24,18 @@
 - [[SIM7600-dat]]
 
 
+## Modules 
+
+| model    | type     | size（mm） | note                                               |
+| -------- | -------- | ---------- | -------------------------------------------------- |
+| SIM7020C | NB1      | 17.6*15.7  | 1/3/5/8                                            |
+| SIM7020E | NB1      | 17.6*15.7  | 1/3/5/8/20/28                                      |
+| SIM7030  | NB1      | 16*18      | LTE FDD 1/3/5/8                                    |
+| SIM7060  | NB1+GNSS | 24*24      | LTE FDD 5/8                                        |
+| SIM7020G | NB2      | 17.6*15.7  | 1/2/3/4/5/8/12/13/17/18/19/20/25/26/28/66/70/71/85 |
+| SIM7060G | NB2+GNSS | 24*24      | 1/2/3/4/5/8/12/13/17/18/19/20/25/26/28/66/70/71/85 |
 
 ## commands 
-- [[SIMCOM-at-dat]] - [[simcom-at-gnss]]
+- [[SIMCOM-AT-DAT]] - [[simcom-at-gnss]] - [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
 
-
+- [[M2M-dat]]

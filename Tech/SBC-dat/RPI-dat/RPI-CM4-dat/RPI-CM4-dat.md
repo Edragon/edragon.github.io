@@ -2,6 +2,8 @@
 
 # RPI-CM-dat
 
+## CM3 
+
 The Raspberry Pi Compute Module is a small, powerful, and customizable single-board computer designed for embedded applications. It is based on the same architecture as the Raspberry Pi boards but in a more compact form factor. The Compute Module provides a more flexible and modular approach compared to the standard Raspberry Pi boards.
 
 Here are some key features of the Raspberry Pi Compute Module:
@@ -24,31 +26,50 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 
 ![](2023-10-27-16-45-37.png)
 
+CM3+: https://datasheets.raspberrypi.com/cm/cm3-plus-datasheet.pdf
+
+## CM4 
+
+CM4 exposes GPIO Bank 0, which covers GPIOs 0 to 27. Naming is identical between 2711 and CM4.
+Bank 1 (GPIOs 28 to 45) is largely used by ethernet functions and wireless LAN.
+Bank 2 (GPIOs 46 to 57) is used for eMMC/SD card.
+
+CM4 also has GPIOs 44&45 from Bank 1 exposed for the I2C bus normally connected to the camera or DSI displays. See CM4 datasheet section 2.9 "I2C (SDA0 SCL0)"
+
+
+default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
+
+
 
 ## Specs 
 
 ![](2023-10-27-16-47-11.png)
 
-
-## Expansion Board 
-
-![](2023-10-27-16-49-05.png)
-
-## IO Expansion board 
-
-![](2023-10-27-16-53-47.png)
-
-
-## Combination 
+## Names 
 
 - CM4001008
-
-## CN 
 
 ![](2023-10-27-16-47-35.png)
 
 ![](2023-10-27-16-46-54.png)
 
+## hardware 
+
+- [[EMMC]] - [[WIFI]]
+
+- Connector - 【 DF40HC (3.0)-100DS-0.4V(51)】
+
+
+
+## Features 
+
+- on module CPU BCM2711 
+
+### On module storage EMMC 
+
+- flash into [[RPI-OS-dat]]
+
+### On module wifi 
 
 ## ref 
 
@@ -56,4 +77,22 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 
 - datasheet [[cm4-datasheet.pdf]]
 
-- [[RPI-CM]]
+- [[RPI-CM4]]
+
+- https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000
+
+- [[kicad-dat]]
+
+
+## design ref 
+
+footprint 
+
+- https://github.com/Kedarius/RPi-CM4-Kicad
+
+- https://gitlab.com/m10cube/m10
+
+- https://github.com/ShawnHymel/rpi-cm4-carrier-template
+
+
+https://elinux.org/RPi_BCM2711_GPIOs

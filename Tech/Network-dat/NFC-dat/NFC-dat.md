@@ -8,6 +8,11 @@
 
 - [[NID1026-dat]] - [[NID1017-dat]]
 
+## Self-phone checker 
+
+- Please make sure your phone is supported NFC or not first, android recommanded app is "NFC toolbox".
+
+
 ## Chips 
 
 - [[PN532-dat]]

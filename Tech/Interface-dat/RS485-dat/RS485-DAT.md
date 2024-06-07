@@ -19,12 +19,26 @@
 
 ![](12-41-15-23-02-2023.png)
 
+## SCH 
+
+![](2024-02-22-15-13-19.png)
+
 
 
 ## Debug 
 
 - A / B reversed wiring = incorrect error data 
 
+
+
+
 ## Boards 
 
 - [[DPR1060-dat]] - [[MSP1076-dat]]
+
+
+- [[WCH-dat]]
+
+## ref 
+
+- [[RS485]]

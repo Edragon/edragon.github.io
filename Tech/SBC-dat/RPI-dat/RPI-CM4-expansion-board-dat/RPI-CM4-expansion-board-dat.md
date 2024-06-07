@@ -1,6 +1,15 @@
 
 # RPI-CM4-expansion-board-dat
 
+## Expansion Board 
+
+![](2023-10-27-16-49-05.png)
+
+### IO Expansion board 
+
+![](2023-10-27-16-53-47.png)
+
+
 
 ## RPI CM4IO Board 
 
@@ -54,3 +63,12 @@
 - LEDs 
 
 ![](2023-11-30-15-55-03.png)
+
+
+## ref
+
+- [[RPI-CM4-expansion-board]]
+
+minimum carrier board 
+- Small carrier board for Raspberry Pi CM4 - [mincab](https://uplab.pro/2021/10/mincab/)
+- [Minimal_carrier_board_for_CM4](https://github.com/dronecz/Minimal_carrier_board_for_CM4)

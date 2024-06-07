@@ -46,16 +46,19 @@ Other peripheral
 - [[AS5047-DAT]]
 
 ### demo code please find at 
-- [[arduino-code-V2]]
+- [[arduino-code-v2-dat]]
 - or reference design Mechaduino
 
+
+
 ### main chips 
-- [[SAMD21]] - SAMD21G18A-AUT: main controller 
+- [[SAMD21-dat]] - SAMD21G18A-AUT: main controller 
 - [[A4954-DAT]]
-- Magnetic Encoder AS5047D
+- Magnetic Encoder [[AS5047D-dat]]
 
 
 ### other info 
-- [[power-flow-control]]
+- [[power-flow-control-dat]]
 - [[SDR1096]]
 - legacy wiki page link: https://w.electrodragon.com/w/SDR1096_Motor_Drive_Board
+

@@ -1,6 +1,7 @@
 
 # Electrodragon Wiki V2 
 
+- legacy wiki page V1 here - https://w.electrodragon.com
 - this web application may encounter error "502 bad gateway", please visit 5 minutes later
 
 ## Contact 
@@ -20,7 +21,9 @@
 - [[BOM-DAT]] - [[service-dat]]
 
 
+## Notes 
 
+- [[chinese-holiday-dat]]
 
 ## Why Choose Electrdragon 
 

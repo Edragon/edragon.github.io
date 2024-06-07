@@ -8,16 +8,23 @@
 
 ![](14-28-16-19-04-2023.png)
 
-Power Supply 
-- normally 5V
 
-Power Supply VDDIO2 
-- to VDD
+| On board resources | Pin | arduino setup |
+| ------------------ | --- | ------------- |
+| prog led           | PC6 | D22           |
+| prog button        | PC7 | D23           |
+| Reset              | PF6 | reset         |
 
 
-UART Selector 
-- PB0 PB1
-- PE0 PE1
+### Jumper Setup 
+
+| Options                 | Selections                             | Default           |
+| ----------------------- | -------------------------------------- | ----------------- |
+| Power Supply            | 5V or 3V3                              | 5V                |
+| Power Supply of Vdd_io2 | to Vdd                                 | to Vdd            |
+| USART of Programming    | PB0 PB1 (USART 3) or PE0 PE1 (USART 4) | PB0 PB1 (USART 3) |
+
+
 
 ## Usage 
 
@@ -25,9 +32,26 @@ UART Selector
 - Power LED indicator should be light up
 
 
+
+## bootloader settings 
+
+- Clock -24 mhz internal 
+- Bootloader serial port: PB0 / PB1
+- Reset pin: default 
+
+![](55-05-18-02-02-2023.png)
+
+
 ## ref 
 - https://w.electrodragon.com/w/Category:AVR128#AVR128_Board
-- [[DAR1064]] - [[UPDI-DAT]] - [[CH340-DAT]] - [[CH341-DAT]]
+
+- [[UPDI-DAT]] - [[CH340-DAT]] - [[CH341-DAT]] - [[avr128-dat]]
+
+- [[DAR1064]] 
+
+
+
+
 
 ## Debug 
 

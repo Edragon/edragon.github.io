@@ -12,26 +12,16 @@
 
 
 
-## Power Supply Mode 
-
-* 500mA @ 3.3V 
-  
-Test based on our current SIM7020E module 
-
-| Module               | Current       | -   |
-| -------------------- | ------------- | --- |
-| Registeration Mode   | ~15mA         | -   |
-| Registered Idle Mode | ~5mA          | -   |
-| PSM mode             | 110 ~ 140 0uA |     |
+- [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
 
 
-To enter into PSM mode
-* AT+CFUN=0,0 // minimium function mode
-* AT+CFUN=1,1 // full working mode
-* AT+CPSMS=1  // turn on PSM mode 
-  
-Quit PSM mode
-* Short pulse Boot pin to leave PSM mode
+
+## Application Note 
+
+### PSM Mode 
+
+- AT commands to enter into PSM power save mode 
+- pull down RTC_EINT or PWR_KEY to quit PSM mode 
 
 
 
@@ -45,7 +35,7 @@ Supported band
 - SIM7020G: all bands, please see our wiki page NBIOT.
 
 
-- [[SIMCOM-AT-dat]]
+- [[SIMCOM-AT-DAT]]
 
 
 ### other ref 
@@ -56,21 +46,26 @@ Supported band
 - SIM7020 git info : https://github.com/Edragon/SIMCOM_SIM7020
 
 
+## Demo 
+
+- Basic Test Demo - https://www.youtube.com/shorts/HXGcgzOb-aY
+
 
 ### board ref 
 
 
-- [[NGS1095-dat]] - [[NGS1096-dat]]
+- [[NGS1095-dat]] - [[NGS1096-dat]] - [[NBIOT-dat]]
 
 - [[NGS1094-dat]] - SIM7020E (old version) - life time end 
 
-- [[SIMCOM-AT-dat]] - [[SIMCOM-dat]]
+- [[SIMCOM-AT-DAT]] - [[SIMCOM-dat]]
 
 - [[SIM7020]] - [[BTB-dat]]
 
-
+- [[low-power-dat]] - [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
 
 ## doc
 
-- https://w2.electrodragon.com/chip-cn/SIMCOM/SIM7020-DAT/SIM7020_Series_AT_Command_Manual_V1.00.pdf
-- https://w2.electrodragon.com/chip-cn/SIMCOM/SIM7020-DAT/SIM7020G_Hardware_Design_V1.00.pdf
+- [[SIM7020_Series_AT_Command_Manual_V1.00.pdf]]
+
+- [[SIM7020G_Hardware_Design_V1.00.pdf]]

@@ -28,10 +28,12 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 - IO5 = LED
 
 - general load switching 
+- please note one chip is not soldering default in case you don't need two to save cost
+- try IO12 or IO19
+- VBAT pin up to 36V, and OUTA or OUTB will be on/off when you digitalWrite it high or low
   - IO12 = CTRL1
-  - IO19 = CTRL2 - chip is not soldered by default 
+  - IO19 = CTRL2 
   - IO13 = STATUS1
-
   - IO18 = STATUS2
 
 
@@ -42,25 +44,44 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 ![](NWI1245-2112-28-2022.jpg)
 
 
-
 ## Dimension and pin definitions 
-![](53-04-16-30-01-2023.png)
-- back side selector for UARTs
 
+![](2024-04-22-16-38-16.png)
 
+- Red pins for power supply 
+- blue pins for serial interfaces
+- green pins IO22/IO23 for CAN BUS
+- the rest green pins and orange pins for power switch controls 
+
+- back side selector for UART-0-main or UART1-alternative
+
+## removing tips 
+
+![](2024-01-13-11-00-30.png)
+
+- use a small driver to leverage in the between carefully 
 
 ## power supply
 - [[DCDC1]] - [[NWI1245]]
 
 
+## demo 
+
+https://www.youtube.com/shorts/TeaZ1xKcAqg
+
+- tested work with [[DPR1103-dat]]
+
 
 
 ## ref
 - code please refer to our ESP32 arduino github repository 
+- https://github.com/Edragon/Arduino-ESP32/tree/master/BSP/NWI1245/power-switch-test
 - https://github.com/Edragon/Arduino-ESP32
 - https://github.com/Edragon/Arduino-ESP32/blob/master/Sketchbook/interface/RS485-1/RS485-1.ino
 
 
 - [[RS485-dat]] - [[CAN-dat]] - [[high-side-driver-dat]]
 
+- [[voltage-divider-dat]] - [[conn-cable-terminal-dat]]
 
+- [[qc-dat]]

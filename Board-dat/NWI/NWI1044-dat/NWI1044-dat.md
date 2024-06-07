@@ -5,6 +5,7 @@ https://www.electrodragon.com/product/nodemcu-lua-amica-r2-esp8266-wifi-board/
 
 - [legacy wiki page](https://w.electrodragon.com/w/ESP8266_NodeMCU_Dev_Board#R2_Version_Flash_Note)
 
+## Board map 
 
 ![](2023-10-18-13-09-23.png)
 

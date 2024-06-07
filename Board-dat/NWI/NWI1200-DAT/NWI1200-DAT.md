@@ -1,6 +1,6 @@
 # NWI1200 DAT
 
-- [[NWI1199-DAT]]
+To the board version V1 - [[NWI1199-DAT]]
 
 ![](43-14-18-10-05-2023.png)
 
@@ -35,13 +35,13 @@
 
 ## Jumper Setup
 
-| Jumpers | func                     | Default               | Note         |
-| ------- | ------------------------ | --------------------- | ------------ |
-| JP1     | CLK to IO0               | enable                |              |
-| JP2     | REFCLKO pull up          | -                     |              |
-| JP3     | crystal output pull down | -                     |              |
-| JP4     | crystal output to IO17   | -                     |              |
-| JP5     | crystal enable control   | IO2 (default) or IO15 | pcb backside |
+| Jumpers | func                      | Set to      | Set Default | Note         |
+| ------- | ------------------------- | ----------- | ----------- | ------------ |
+| JP1     | CLK                       | IO0         | enable      |              |
+| JP2     | REFCLKO                   | pull up     | -           |              |
+| JP3     | crystal                   | pull down   | -           |              |
+| JP4     | crystal                   | IO17        | -           |              |
+| JP5     | crystal enable control by | IO2 or IO15 | Set to IO2         | pcb backside |
 
 - please just use default
 
@@ -78,11 +78,13 @@ based on demo code NWI1200-3
 
     ETH status: 0, ETH MAC: 84:0D:8E:C8:8C:67, IPv4: 192.168.1.173, FULL_DUPLEX, 100Mbps
 
+![](2023-12-19-17-41-40.png)
+
 ![](2023-09-19-17-28-34.png)
 
 ## demo code find at
 
-- [[arduino-code-v2]]
+- [[arduino-code-v2-dat]]
 
 ## ref
 
