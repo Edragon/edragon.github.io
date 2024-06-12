@@ -27,5 +27,9 @@
 - Please find in our bitbucket folder -> git clone https://github.com/Edragon/logic-analyzer.git
 
 
+## demo 
+
+- setup guide - https://www.youtube.com/shorts/aOFLWS1JEIU
+
 - [[pins003]]
 
