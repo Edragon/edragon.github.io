@@ -3,13 +3,16 @@
 
 legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
+
 - [[STM32F103-dat]] - [[STM32F401-dat]] - [[STM32G030-dat]]
 
+- [[STM8-dat]]
 
 ## Boards 
 
 - [[DOD1084-dat]]
 
+Programmer - [[DPR1004-dat]]
 
 ## Periperals list 
 
