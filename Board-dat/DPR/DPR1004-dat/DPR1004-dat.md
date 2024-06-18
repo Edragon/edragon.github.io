@@ -1,7 +1,7 @@
 
 # DPR1004-dat
 
-- legacy wiki page - https://w.electrodragon.com/w/ST-Link
+- [[st-link-dat]]
 
 ## Pin map 
 
@@ -10,6 +10,8 @@
 
 ## ref 
 
-- [[DPR1004]] - [[st-link-dat]]
+- [[DPR1004]] 
 
 - [[stm32-dat]]
+
+- legacy wiki page - https://w.electrodragon.com/w/ST-Link
