@@ -35,6 +35,8 @@ Schematic
     avrdude -c usbasp-clone -p m8 -U flash:w:"E:\Git-category\Git-AVR\LCD2USB-master\firmware\firmware.hex":a -U lfuse:w:0x9F:m -U hfuse:w:0xC9:m 
     avrdude -c usbasp -p atmega8 -U lfuse:w:0x9f:m -U hfuse:w:0xc9:m -U flash:w:firmware-avrusb.hex
 
+- [[usbasp-dat]]
+
 ### Debug 
 
 - tune the brightness if nothing show up

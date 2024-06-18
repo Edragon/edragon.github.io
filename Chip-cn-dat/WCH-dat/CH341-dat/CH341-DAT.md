@@ -24,3 +24,4 @@ common supported devices
 - ...
 
 - [[CH341]]
+

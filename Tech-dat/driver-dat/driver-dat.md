@@ -10,8 +10,6 @@
 
 - progisp [[progisp.zip]]
 
-- usbasp driver - libusb - [[USBASP.zip]]
-
-- [[usbasp-driver-note.pdf]]
+- [[usbasp-dat]]
 
 - http://zadig.akeo.ie/
