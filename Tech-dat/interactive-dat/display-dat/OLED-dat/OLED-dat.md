@@ -28,6 +28,13 @@ using with STM32 SPI2
 
 ![](2024-01-13-17-43-38.png)
 
+## repositories 
+
+- https://github.com/Edragon/Display_OLED-HDK
+- https://github.com/Edragon/Display_OLED
+
+
+
 ## ref 
 
 - [[OLED]] - [[display-dat]] - [[display]]

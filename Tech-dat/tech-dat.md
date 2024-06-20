@@ -41,6 +41,8 @@
 
 - [[LED-dat]] - [[LED-strip-dat]]
 
+- [[display-dat]]
+
 ### Sensors 
 
 Industrial / Sensor - [[sensor-dat]]
