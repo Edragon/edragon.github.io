@@ -17,4 +17,4 @@ Dimension
 
 ## ref 
 
-- [[ILC1030]] - [[EDL-dat]]
+- [[ILC1030]] - [[EDL-LCD-dat]]
