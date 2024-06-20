@@ -39,3 +39,7 @@ UART
 
 ## Library
 - [[arduino-OLED]]
+
+## ref 
+
+- [[attiny1604-dat]] - [[ATtiny-dat]]
