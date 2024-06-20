@@ -35,6 +35,11 @@ legacy wiki page
 
 Note: The 2.2-inch SPI module has no touch pins and has 9 PINs. The 2.4/2.8/3.2/3.5/4.0 modules with touch have 14 PIN standard pins.
 
+
+## repo 
+
+-  https://github.com/Edragon/Display-LCD-SPI
+
 ## ref
 
 - [[ILC0011-dat]]
