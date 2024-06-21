@@ -16,6 +16,7 @@ Test based on our current SIM7020E module
 
 
 ### To enter into PSM mode
+
 * AT+CFUN=0,0 // minimium function mode
 * AT+CFUN=1,1 // full working mode
 * AT+CPSMS=1  // turn on PSM mode 
@@ -24,6 +25,10 @@ Test based on our current SIM7020E module
 * Short pulse Boot pin to leave PSM mode
 
 
+
+## Demo video 
+
+- https://www.youtube.com/shorts/S57VZSJNvnw
 
 
 
@@ -41,7 +46,7 @@ turn on/off PSM mode examples
 
     AT+CEREG=4 
     OK 
-    AT+C EREG? 
+    AT+CEREG? 
     +CEREG: 
     4,1,"5B57","01A50B1A",9,"00",,,"11100000","1110000
     0" 
@@ -117,3 +122,21 @@ turn on/off PSM mode examples
     //发送数据到 UDP 服务器 
     //从 UDP 服务器接收数据 
     //如果数据传输完毕，模式将自动进入 PSM 模式 
+
+
+
+## Sleep mode 
+
+AT+CSCLK=1 
+OK 
+//进入慢时钟模式，然后拉高 DTR，模块就会进入休眠模式 
+//拉低 DTR，模块会退出休眠模式 
+ 
+ 
+6.4.2  方法二 
+ 
+//sleep 模式示例 
+AT+CSCLK=2 
+OK 
+//自动进入慢时钟模式，当没有外部设备与模块交互时，模块会自动进入休眠模式 
+//发两次 AT 给模块即可唤醒模块 
