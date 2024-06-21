@@ -2,6 +2,8 @@
 # SIM7020 DAT
 
 
+
+
 ## quick setup guide 
 
 * Please use a USB-serial adapter like CP2102 or FT232RL, connect 5V, GND, VTXD and VRXD.
@@ -10,20 +12,19 @@
 * Now you can send AT commands via serial uart COM port.
 * (USB port is NOT working for debugging, please do not connect to use it.)
 
-
-
-- [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
-
-
-
 ## Application Note 
+
+## Power supply 
+
+- VBAT  Module power voltage  min. 2.1  typ. 3.3  max. 3.6  V
+
 
 ### PSM Mode 
 
 - AT commands to enter into PSM power save mode 
 - pull down RTC_EINT or PWR_KEY to quit PSM mode 
 
-
+- [[SIMCOM-PSM-Dat]]
 
 ## REF
 
