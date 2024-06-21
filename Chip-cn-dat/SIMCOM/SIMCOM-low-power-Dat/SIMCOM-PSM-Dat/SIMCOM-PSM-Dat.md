@@ -29,8 +29,8 @@ Test based on our current SIM7020E module
 ## Demo video 
 
 - https://www.youtube.com/shorts/S57VZSJNvnw
-
-
+- Notice in some of our modules, the pull-up resistors are costly to power, which has to be removed for best low power performance.
+- Double check if your net work support PSM mode, or EDRX mode, we don't have it here (cn), so can not test
 
 ## PSM AT commands demo 
 
