@@ -1,6 +1,8 @@
 
 # relay dat 
 
+- legacy wiki page - https://w.electrodragon.com/w/Category:Relay
+
 ### SPST relay 
 
 - HF32F-G-5-HS
