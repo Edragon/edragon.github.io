@@ -1,13 +1,16 @@
 
 # simcom dat 
 
+https://www.electrodragon.com/w/Category:SIMCOM#Schematic
+
+
 ## boards 
 
 - [[SIM800-dat]] - [[NGS1070-dat]] - [[NGS1071-dat]] - [[NGS1074-dat]]
 
 - [[NGS1072-dat]]
 
-- [[SIM868-dat]]
+- [[SIM868-dat]] - [[NGS1089-dat]]
   
 - [[A7670-dat]]
 
