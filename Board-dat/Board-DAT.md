@@ -140,12 +140,12 @@ Battery charger - [[OPM1181-dat]]
 
 
 ### OPS 
-- [[OPS1009-DAT]] - [[OPS1013-dat]]
-  
 
+- [[OPS1009-DAT]] - [[OPS1013-dat]]
 
 ### MOT
-- [[MOT1009-DAT]]
+
+- [[MOT1009-DAT]] - [[MOT1022-dat]]
 
 ### MPC
 

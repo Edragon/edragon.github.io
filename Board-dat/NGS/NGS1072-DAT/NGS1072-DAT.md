@@ -12,6 +12,9 @@
   - DTR TXD RXD +5V -- GND
 
 
+## Accompany Module 
+
+- [[NGS1071-dat]]
 
 
 ## hardware Setup
@@ -21,9 +24,30 @@
     - SIM800 Network LED should start to link
 
 
+## Demo video 
+
+- https://www.youtube.com/watch?v=U4_cRzhXZws
 
 
 ## Demo Code 
 
 - https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/RF/NGS1072
+- https://github.com/Edragon/Arduino/tree/master/Sketchbook/01_GSM/
 - Please use as a refernece, the repository may need sort out.
+
+## Programming
+
+- You will need CP2102 or FT232RL, etc, connect 5V, GND, TX, RX, RST to board relevant pin 5V, GND, RX, TX and DTR.
+- A standard FTDI connector wiring image could see here. 
+- Board pre flashed with arduino pro mini 5V/16M firmware, please choose this as board, and free to upload new code.
+
+## Note 
+
+- Notice: current board can not fit into our relay board case, AC-DC unit is too big, will make next version supported.
+
+
+## ref 
+
+- [[SIMCOM-dat]] - [[ACDC-dat]]
+
+- [[NGS1072]]
