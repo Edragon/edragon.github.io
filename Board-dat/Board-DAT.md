@@ -191,33 +191,46 @@ Long range RFID
 
 ### NGS
 
-- ED20 - [[NGS1063-DAT]]
 
-[[SIM800-dat]]
+
+SIMCOM - 2G - [[SIM800-dat]]
 - arduino-compatible base board [[NGS1072-DAT]]
 - [[NGS1070-dat]] - [[NGS1071-dat]]
 - ~~[[NGS1074-dat]]~~
 
-[[SIM7020-dat]]
+SIMCOM - NBIOT - [[SIM7020-dat]]
 - ~~[[NGS1094-dat]] (SIM7020E)~~
 - [[NGS1095-dat]] - [[NGS1096-DAT]]
   
-Location 
+Quectel - Location 
+
 - GPS L70 - [[NGS1097-DAT]] - [[NGS1100-dat]]
+
 - [[NGS1078-dat]]
 
-- SIM7070G - [[NGS1111-DAT]] - [[NGS1112-DAT]] 
-- SIM7080G - [[NGS1128-DAT]] - [[NGS1129-DAT]]
-- A7670 [[NGS1131-DAT]]
-- [[LAN8720-dat]] - [[NWI1199-DAT]]
+SIMCOM - Location - [[SIM868-dat]]
 
+- [[NGS1089-dat]]
 
 SIMCOM
 
+- SIM7070G - [[NGS1111-DAT]] - [[NGS1112-DAT]] - [[SIM7070-dat]]
+
+- SIM7080G - [[NGS1128-DAT]] - [[NGS1129-DAT]] - [[SIM7080-dat]]
+
+- A7670 [[NGS1131-DAT]]
+
+- [[LAN8720-dat]] - [[NWI1199-DAT]]
+
 - [[NGS1119-dat]]
 
-Quectel - EC20 - 4G
+
+Quectel - 4G - EC20
 - [[NGS1108-dat]]
+
+Quectel - 2G
+- ED20 - [[NGS1063-DAT]]
+
 
 ### NWL
 

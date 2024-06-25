@@ -46,10 +46,16 @@ Antenna Ports
 ## Note 
 R1.1 version slightly optimize board layout, all antenna connectors on same side.
 
+## Demo video 
+
+![](2024-06-25-17-01-37.png)
 
 ## ref 
 
 - chip info - http://simcomm2m.com/En/module/detail.aspx?id=145
-- [[GPS-dat]]
-  
+
+- [[GPS-dat]] - [[SIMCOM-dat]]
+
+- [[SIM800-dat]] - [[NGS1071-dat]] (not pin compatible)
+
 - [[NGS1089]]
