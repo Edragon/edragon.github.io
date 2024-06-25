@@ -157,6 +157,10 @@ Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 
 - [[MPC1111-dat]]
 
+MPC cable
+
+- [[MPCS051-dat]]
+
 ### MSP 
 - [[MSP1061-DAT]] - [[MSP1076-dat]]
 
