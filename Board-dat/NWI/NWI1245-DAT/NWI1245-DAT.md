@@ -62,7 +62,8 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 - use a small driver to leverage in the between carefully 
 
 ## power supply
-- [[DCDC1]] - [[NWI1245]]
+
+- [[DCDC1]]
 
 
 ## demo 
@@ -85,3 +86,5 @@ https://www.youtube.com/shorts/TeaZ1xKcAqg
 - [[voltage-divider-dat]] - [[conn-cable-terminal-dat]]
 
 - [[qc-dat]]
+
+- [[NWI1245]]
