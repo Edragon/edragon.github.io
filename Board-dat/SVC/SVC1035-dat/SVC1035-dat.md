@@ -16,4 +16,6 @@ Pins Definitions
 
 ## ref 
 
-- [[HLW8032-dat]]
+- [[HLW8032-dat]] - [[HLW-dat]]
+
+- [[SVC1035]]
