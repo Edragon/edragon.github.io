@@ -47,15 +47,9 @@ FT232 Programming Port
 ## bootloader 
 - arduino pro mini 3.3V/8M 
 
-
-- [[lora-dat]]
-
-- [[low-power-dat]]
-
-
 ## Functions 
 
-- [[SPI-flash-dat]] - [[memory-dat]]
+- [[SPI-flash-dat]] - [[memory-dat]] - [[low-power-dat]] - [[lora-dat]]
 
 ## Lora Modules 
 
@@ -65,4 +59,8 @@ FT232 Programming Port
 
 - [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
 
+
+## demo 
+
+- low power - https://x.com/electro_phoenix/status/1639160253811142656
 

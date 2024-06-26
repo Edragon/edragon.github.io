@@ -50,6 +50,16 @@ Support APPs or UART interface or Python script or ..
     rIIIL - Transmit remote frame (Standard ID) [ID, length]
     V - Returns firmware version and remote path as a string
 
+
+
+## demo 
+
+- https://x.com/electro_phoenix/status/1651872392791093249
+
+
+
+
+
 ## ref 
 - legacy reference - https://w.electrodragon.com/w/Category:CAN#CAN_USB
 - https://canable.io/getting-started.html

@@ -76,6 +76,8 @@ For example,
 
 - https://t.me/electrodragon3/205
 
+- https://x.com/electro_phoenix/status/1654749466929553411
+
 ## ref 
 
 - [[USB1006]]
