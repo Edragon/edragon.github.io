@@ -5,6 +5,8 @@
 
 ![](2023-11-01-18-27-25.png)
 
+
+
 Pins Definitions 
 
 - VIN
@@ -12,7 +14,10 @@ Pins Definitions
 - PF
 - TX 
 
+## working principle 
 
+- current sensing by current Transformer
+- votlage sensing by wire cross through the voltage transformer 
 
 ## ref 
 

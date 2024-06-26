@@ -20,13 +20,10 @@
 
 ### ARM
 - [[ARM1003-dat]] - [[ARM1007-dat]]
-  
-### USB
-- [[USB1000-dat]] - [[USB1003-dat]]
 
-- USB-HID - [[USB1006-dat]] 
-- OTG - [[USB1010-dat]]
-- Android HOST - [[USB1014-dat]]
+### BAT 
+
+- [[BAT1002-dat]]
 
 ### CCO 
 - [[CCO3626-dat]] - [[CCO3627-dat]]
@@ -299,7 +296,7 @@ MT7688
 - [[PTOS031-DAT]] - [[PTOS032-DAT]] - [[PTOS033-DAT]]
   
 ### SCU
-- [[SCU1012-DAT]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
+- [[SCU1012-DAT]] - [[SCU1017-dat]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
 - [[SCU1010-dat]]
 
@@ -338,8 +335,13 @@ Tools
 
 - [[SVC1029-dat]]
 
+
 ### USB
-- [[USB1003-DAT]] - [[USB1006-DAT]]
+- [[USB1000-dat]] - [[USB1003-dat]]
 
+- USB-HID - [[USB1006-dat]] 
+- OTG - [[USB1010-dat]]
+- Android HOST - [[USB1014-dat]]
 
+- [[USB1010-dat]]
 

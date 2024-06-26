@@ -50,6 +50,11 @@ R1.1 version slightly optimize board layout, all antenna connectors on same side
 
 ![](2024-06-25-17-01-37.png)
 
+- https://x.com/electro_phoenix/status/1002174191238443008
+- https://x.com/electro_phoenix/status/1001089408806797312
+
+
+
 ## ref 
 
 - chip info - http://simcomm2m.com/En/module/detail.aspx?id=145

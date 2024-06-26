@@ -10,8 +10,8 @@ USB Type-C Male OTG to TTL Serial Bridge Board
 
 ## Demo 
 
-https://t.me/electrodragon3/203
-
+- https://t.me/electrodragon3/203
+- https://x.com/electro_phoenix/status/1446735434193596423
 
 ## ref 
 

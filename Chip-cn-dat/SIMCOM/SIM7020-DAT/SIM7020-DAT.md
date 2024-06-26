@@ -50,6 +50,8 @@ Supported band
 ## Demo 
 
 - Basic Test Demo - https://www.youtube.com/shorts/HXGcgzOb-aY
+- https://x.com/electro_phoenix/status/1640585737308622850
+
 
 
 ### board ref 
