@@ -3,7 +3,11 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Arduino
 
-- [[arduino-uno-dat]] - [[edarduino-dat]]
+- [[arduino-uno-dat]] - [[arduino-pro-mini-dat]] - [[arduino-nano-dat]] - [[arduino-leonardo-dat]]
+
+- [[arduino-zero-dat]]
+
+- [[edarduino-dat]] 
 
 - [[arduino-ide-dat]] - [[arduinoISP-dat]]
 
