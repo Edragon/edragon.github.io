@@ -39,7 +39,9 @@
 
 - You will need CP2102 or FT232RL, etc, connect 5V, GND, TX, RX, RST to board relevant pin 5V, GND, RX, TX and DTR.
 - A standard FTDI connector wiring image could see here. 
-- Board pre flashed with arduino pro mini 5V/16M firmware, please choose this as board, and free to upload new code.
+- Board pre flashed with **arduino pro mini 5V/16M firmware**, please choose this as board, and free to upload new code.
+
+
 
 ## Note 
 
