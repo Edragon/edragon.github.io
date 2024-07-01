@@ -6,6 +6,27 @@
 - D8 - SIM800 BOOT
 - D13 - PROG LED
 
+
+arduino pin template 
+
+| arduino | Note | customize          |
+| ------- | ---- | ------------------ |
+| 13      |      | prog_LED           |
+| 12      |      |                    |
+| 11      |      |                    |
+| 10      |      |                    |
+| 9       |      |                    |
+| 8       |      | SIM800 BOOT        |
+| 7       |      | Relay2             |
+| 6       |      | Relay1             |
+| 5       |      | SIM800-soft_serial |
+| 4       |      | SIM800-soft_serial |
+| 3       |      |                    |
+| 2       | INT0 |                    |
+| 1       | TXD  |                    |
+| 0       | RXD  |                    |
+
+
 ![](15-18-22-29-03-2023.png)
 
 - FTDI FT232RL cable match programming pins on top-left: 

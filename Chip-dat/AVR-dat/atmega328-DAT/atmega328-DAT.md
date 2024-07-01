@@ -14,9 +14,24 @@
 
 Pins 
 
-| pin | Funcs | Funcs2     | arduino |
-| --- | ----- | ---------- | ------- |
-| 15  | PB5   | SCK/PCINT5 | D13     |
+| arduino | pin | Funcs | Funcs2     | customize |
+| ------- | --- | ----- | ---------- | --------- |
+| 13      | 17  | PB5   | SCK/PCINT5 |           |
+| 12      | 16  | PB4   | MISO       |           |
+| 11      | 15  | PB3   | MOSI/PWM   |           |
+| 10      | 14  | PB2   |            |           |
+| 9       | 13  | PB1   | PWM        |           |
+| 8       | 12  | PB0   |            |           |
+| 7       | 11  | PD7   |            |           |
+| 6       | 10  | PD6   | PWM        |           |
+| 5       | 9   | PD5   | PWM        |           |
+| 4       | 2   | PD4   |            |           |
+| 3       | 1   | PD3   | PWM        |           |
+| 2       | 32  | PD2   |            |           |
+| 1       | 31  | PD1   | TX         |           |
+| 0       | 30  | PD0   | RX         |           |
+
+
 
 
 - [[atmega328]]
