@@ -68,9 +68,13 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 ## demo 
 
-https://www.youtube.com/shorts/TeaZ1xKcAqg
+- function test method: https://www.youtube.com/shorts/vkFrkTkw5Ak
+- demo code look into our [[arduino-dat]] - [[git-dat]]
+
+- https://www.youtube.com/shorts/TeaZ1xKcAqg
 
 - tested work with [[DPR1103-dat]]
+
 
 
 
