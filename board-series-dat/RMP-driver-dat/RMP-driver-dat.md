@@ -41,6 +41,13 @@
 
 - [[RGB-matrix-panel-dat]]
 
+
+## demo 
+
+- lately test 1 - https://www.youtube.com/watch?v=KG2e6GpXDIY&ab_channel=Electrodragon
+- early test 1 - https://www.youtube.com/watch?v=wN-cqQ_2kNs&ab_channel=Electrodragon
+- early test 2 - https://www.youtube.com/watch?v=LgrxaVafo5o&ab_channel=Electrodragon
+
 ## in development
 
 ## ref

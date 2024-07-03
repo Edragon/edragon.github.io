@@ -39,9 +39,10 @@
 - if you are still confuse, please check the use case at the end of this page. 
 
 
-## Programming 
+## Upgradation 
 
-- Programming guide please refer to page [[USB-TTL-dat]]
+- Programming guide, demo video please refer to page [[USB-TTL-dat]]
+
 
 ## Core Module Sch
 

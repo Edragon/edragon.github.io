@@ -42,6 +42,7 @@
 ## Demos
 
 - https://www.youtube.com/watch?v=_kBS72xQPqQ
+- demo for [[NWI1126-dat]] - https://www.youtube.com/watch?v=aCjfessCOVM
 
 ## ref
 

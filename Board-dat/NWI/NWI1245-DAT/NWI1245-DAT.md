@@ -7,8 +7,10 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 - general load switching - [[high-side-driver-dat]]
   - current driving capability is ~ 36V 5A
 
-- RS485 communication
-- CAN communication 
+- RS485 communication - [[rs485-dat]]
+- CAN communication - [[can-dat]]
+- DC-DC buck regulator - 8201 in [[dcdc-dat]]
+- ESP32 core control - stack dev boards in [[esp32-dat]]
 
 ## Used ESP32-DevKitC Pins
 
