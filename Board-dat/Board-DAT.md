@@ -60,7 +60,7 @@ SAMD21
 - [[DPR1126-dat]] 
 
 For ARM devices  
-- [[DPR1130-dat]]
+- [[DPR1130-dat]] - [[DPR1100-dat]]
 
 [[USB-TTL-dat]] - [[DPR1029-dat]]
 

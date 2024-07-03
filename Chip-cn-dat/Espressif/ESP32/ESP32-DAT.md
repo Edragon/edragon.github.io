@@ -8,12 +8,12 @@
 
 - [[ESP32-FAQ]]
 
-
-## hardware and boards 
+## Hardware 
 
 - [[ESP32-HDK-dat]] 
 
-Series 
+
+### modules
 
 - [[ESP32-WROOM-dat]] - [[ESP32-WROVER-dat]]
 
@@ -23,14 +23,19 @@ Series
 - [[ESP32-C3-dat]]
 
 
+### Boards 
 
-Boards 
-- [[IDD1023-dat]] - [[NWI1100-dat]] - [[SCM1030-dat]]
+- [[IDD1023-dat]] - [[SCM1030-dat]]
 
-Shields 
+DEV Baords 
+- [[NWI1100-dat]] - [[NWI1145-dat]] - [[NWI1206-dat]] 
+
+- [[NWI1243-dat]]
+
+### Shields (stack boards) 
 - [[NWI1245-dat]]
 
-In Development
+### In Development
 - [[ESP32-ISO-dat]]
 
 
