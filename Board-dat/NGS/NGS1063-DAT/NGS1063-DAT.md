@@ -1,7 +1,7 @@
 
 # NGS1063 DAT
 
-
+https://www.electrodragon.com/product/ed20-tracker-board-gsm-gprs-gnss-iot/
 
 legacy wiki info 
 
@@ -34,7 +34,8 @@ legacy wiki info
 
 ## ref 
 
-- [[ED20]]
+- [[ED20]] - [[NGS1063]]
+
 - [[quectel-GNSS-AT]]
 
 
