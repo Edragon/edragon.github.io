@@ -14,22 +14,25 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 ## Used ESP32-DevKitC Pins
 
-- CAN UART
-  - IO23 = CAN0_TX
-  - IO22 = CAN0_RX
+- [[NWI1100-dat]]
 
-- UART1
-  - IO17 = TXD1 
-  - IO16 = RXD1
+UART2 (CAN UART)
+- IO23 = CAN0_TX
+- IO22 = CAN0_RX
 
-- UART0 (default used by USB-TTL bridge chip)
-  - TXD0 = TXD0
-  - RXD0 = RXD0 
+UART1 (RS485)
+- IO17 = TXD1 
+- IO16 = RXD1
 
+UART0 (default used by USB-TTL bridge chip)
+- TXD0 = TXD0
+- RXD0 = RXD0 
+
+MISC
 - IO33 = Power_ADC
 - IO5 = LED
 
-- general load switching 
+General load switching 
 - please note one chip is not soldering default in case you don't need two to save cost
 - try IO12 or IO19
 - VBAT pin up to 36V, and OUTA or OUTB will be on/off when you digitalWrite it high or low
@@ -38,6 +41,27 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
   - IO13 = STATUS1
   - IO18 = STATUS2
 
+
+| L_assigned | left | right | R_assigned  |
+| ---------- | ---- | ----- | ----------- |
+|            | en   | 23    | TXD2 (can)  |
+|            | 36   | 22    | RXD2 (can)  |
+|            | 39   | TXD0  | TXD0 (USB)  |
+|            | 34   | RXD0  | RXD0  (USB) |
+|            | 35   | 21    |             |
+|            | 32   | gnd   |             |
+| Power_ADC  | 33   | 19    | CTRL2       |
+|            | 25   | 18    | STATUS2     |
+|            | 26   | 5     | LED (prog)  |
+|            | 27   | 17    | TXD1 (485)  |
+|            | 14   | 16    | RXD1 (485)  |
+| CTRL1      | 12   | 4     |             |
+|            | gnd  | 0     |             |
+| STATUS1    | 13   | 2     |             |
+|            | 9    | 15    |             |
+|            | 10   | 8     |             |
+|            | 11   | 7     |             |
+|            | +5V  | 6     |             |
 
 
 
@@ -62,10 +86,6 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 ![](2024-01-13-11-00-30.png)
 
 - use a small driver to leverage in the between carefully 
-
-## power supply
-
-- [[DCDC1]]
 
 
 ## demo 
