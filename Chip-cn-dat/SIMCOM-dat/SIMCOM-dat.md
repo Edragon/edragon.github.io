@@ -42,3 +42,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 - [[SIMCOM-AT-DAT]] - [[simcom-at-gnss]] - [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
 
 - [[M2M-dat]]
+
+## ref 
+
+- [[SIMCOM]]
