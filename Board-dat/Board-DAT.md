@@ -9,6 +9,7 @@
 
 - [[tech-dat]] - [[BOM-dat]]
 
+- [[chip-dat]] - [[chip-cn-dat]]
 
 - [[ESPC2-12-DEV]]
 
