@@ -32,7 +32,7 @@ on module side
 
 # reference 
 
-- [[SIM7020-DAT]] - [[SIMCOM-dat]]
+- [[SIM7020-DAT]] - [[SIMCOM-dat/SIMCOM-dat]]
 
 - [[low-power-dat]]
 

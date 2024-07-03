@@ -71,7 +71,7 @@ arduino pin template
 
 ## ref 
 
-- [[SIMCOM-dat]] - [[ACDC-dat]]
+- [[SIMCOM-dat/SIMCOM-dat]]SIMCOM-dat]] - [[ACDC-dat]]
 
 - [[NGS1072]]
 
