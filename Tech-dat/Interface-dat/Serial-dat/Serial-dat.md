@@ -83,6 +83,19 @@ Booting Mode select
   
 ![](2024-04-03-15-04-50.png)
 
+
+
+### Programming STM32
+
+- [[STM32-dat]] - ISP USART
+* BOOT0 should be pull to high, foce chip into system memory
+* Flash loader demostrator from official ST = Flasher 
+* https://www.st.com/en/development-tools/flasher-stm32.html
+
+![](2024-07-05-17-39-17.png)
+![](2024-07-05-17-39-28.png)
+![](2024-07-05-17-39-45.png)
+
 ## ref 
 software [[com-monitor-dat]]
 

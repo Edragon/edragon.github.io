@@ -2,6 +2,9 @@
 
 # DPR1130 DAT STM32 offline programmer 
 
+https://www.electrodragon.com/product/chip-holdstm32-online-offline-programmer-daplink-off-prog/
+
+- legacy wiki page - https://w.electrodragon.com/w/STM32_OFF-PROG
 
 
 
@@ -38,5 +41,10 @@
 
 - HC32F005
 - HC32L136
+
+
+## ref 
+
+- [[STM32-dat]]
 
 - [[DPR1130]]

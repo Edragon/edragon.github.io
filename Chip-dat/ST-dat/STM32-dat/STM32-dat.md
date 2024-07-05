@@ -14,11 +14,13 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
 ## Programmer 
 
-based on [[CMSIS-dap-dat]] - [[st-link-dat]] - [[SWD-dat]]
+based on [[CMSIS-dap-dat]] - [[st-link-dat]] - [[SWD-dat]] - [[serial-dat]] - [[ST-Utility-dat]] - [[openOCD-dat]] - [[jlink-dat]]
 
-- [[DPR1004-dat]] - [[DPR1100-dat]]
+- [[DPR1004-dat]] - [[DPR1100-dat]] - [[DPR1130-dat]]
 
+IDE - [[STM32-Cube-G0]]
 
+SDK library - [[STM32-SDK-HAL-dat]]
 
 ## Periperals list 
 
@@ -35,6 +37,11 @@ Interface
 - [[USB-dat]] - [[Jtag-dat]] - [[can-dat]]
 
 ## Boot 
+
+
+* STM32 microcontroller system memory boot mode - AN2606 - https://www.st.com/content/ccc/resource/technical/document/application_note/b9/9b/16/3a/12/1e/40/0c/CD00167594.pdf/files/CD00167594.pdf/jcr:content/translations/en.CD00167594.pdf
+
+
 
 | Setup | Common Pin | User Flash Boot | ISP         | System |
 | ----- | ---------- | --------------- | ----------- | ------ |

@@ -9,7 +9,11 @@
 
 https://stm32-base.org/guides/connecting-your-debugger.html
 
-
+![](2024-07-05-17-37-28.png)
 
 ## Debug
 * If SWD Serial-Wire is not enable, add reset line to force enter into debug mode
+
+- [[USB-TTL-dat]]
+
+- [[stm32-dat]]

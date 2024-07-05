@@ -42,6 +42,13 @@ MicroA_2_A_Female
 * Open the DFU tool to upload firmware to internal flash, see left animation.
 
 
+### USB DFU
+* Short connect Boot0 + 3V3 to re-enter into USB DFU mode
+* use STM32CubeProgrammer upload hex or DFU file.
+In other boot try:
+* In case of SLCAN software connect UCCB and type in terminal '''boot''' device should reset and new device should connect to Your pc
+
+
 
 ## ref 
 
