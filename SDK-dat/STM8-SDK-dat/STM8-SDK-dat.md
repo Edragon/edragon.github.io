@@ -3,7 +3,22 @@
 
 https://w.electrodragon.com/w/STM8_Program
 
-https://w.electrodragon.com/w/STM8_IAR
+
+## Program
+
+### Upload code 
+
+![](2024-07-05-18-05-02.png)
+
+* Install ST toolset, which include ST visual programmer
+* Connect your ST-LINK, SWIM, RST, VCC better 3.3V, GND.
+* select and open hex file, select menu program -> current tap and done.
+
+### Use 
+* programming via SWIM port, ST link programmer can be found on our store
+* When power up, LED should flashing, this is programmed for testing purpose
+
+
 
 ## ToolChain 
 
