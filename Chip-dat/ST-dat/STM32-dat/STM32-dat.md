@@ -18,7 +18,7 @@ based on [[CMSIS-dap-dat]] - [[st-link-dat]] - [[SWD-dat]] - [[serial-dat]] - [[
 
 - [[DPR1004-dat]] - [[DPR1100-dat]] - [[DPR1130-dat]]
 
-IDE - [[STM32-Cube-G0]]
+IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
 
 SDK library - [[STM32-SDK-HAL-dat]]
 
