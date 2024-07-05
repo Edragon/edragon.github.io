@@ -33,3 +33,8 @@ Firmware
 
 * STLink + UART - https://github.com/Edragon/stlink-uart
 
+
+
+## ref 
+
+- [[stm32-dat]]
