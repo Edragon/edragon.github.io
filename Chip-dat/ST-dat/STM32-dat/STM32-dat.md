@@ -68,6 +68,8 @@ Built-in SRAM, since it is SRAM, naturally there is no program storage capabilit
 
 ![](2024-01-13-17-56-21.png)
 
+- [[SWD-dat]]
+
 
 ## Demo Code 
 
@@ -109,6 +111,20 @@ STM32F042 K 6 T 6
 - 6 = Industrial temperature range, –40 to 85 °C.
 
 
+## Embedded bootloader
+
+The embedded bootloader mode is used to reprogram the Flash memory using one of the following serial interfaces:
+* SWD Default 
+* USART1 (PA9/PA10)
+* USART3 (PB10/11 and PC10/11)
+* CAN2 (PB5/13)
+* USB OTG FS (PA11/12) in Device mode (DFU: device firmware upgrade).
+
+
+
+
 ## ref 
 
 - [[STM32]]
+
+- [[ARM-dat]]
