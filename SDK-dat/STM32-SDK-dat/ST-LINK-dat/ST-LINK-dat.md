@@ -29,6 +29,11 @@ Firmware
 * Reference from - https://www.amobbs.com/forum.php?mod=viewthread&tid=5518690&highlight=%E6%94%BB%E5%85%8B
 
 
+## Upgrade firmware
+* If error st-link is not DFU mode -> connect ST-link, do not operate anythings, click upgrade firwmare directly
+
+![](2024-07-05-17-47-12.png)
+
 ## Projects
 
 * STLink + UART - https://github.com/Edragon/stlink-uart
