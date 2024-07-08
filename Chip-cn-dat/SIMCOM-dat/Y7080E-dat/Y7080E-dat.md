@@ -69,3 +69,4 @@ for testing
 - [[reset-dat]] - [[status-dat]]
 
 - [[I2C-dat]] - [[SPI-dat]]
+- [[Y7080]]

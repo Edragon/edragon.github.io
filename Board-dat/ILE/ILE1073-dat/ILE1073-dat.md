@@ -1,6 +1,8 @@
 
 # ILE1073-dat
 
+- legacy wiki page - https://w.electrodragon.com/w/HP25_LED_Panel
+
 ## hardware 
 
 ![](2023-10-11-15-24-50.png)
@@ -41,3 +43,12 @@ Other Pins
 
 ![](2023-10-11-15-31-05.png)
 
+## Demo 
+
+- https://www.electrodragon.com/w/Demo_Video
+
+- demo code - https://github.com/Edragon/Arduino-attiny
+
+## ref 
+
+- [[ILE1073]]
