@@ -7,7 +7,7 @@
 ![](40-51-15-19-07-2023.png)
 
 
-## Arduino Code tested with [[ESP32-­C3-­WROOM-­2-DAT]] 
+## Arduino Code tested with [[ESP32-­C3-­WROOM-­02-DAT]] 
 - not working
 - maybe hardware problem, or code problem, or need further test
 - consider it is not working if you buy.

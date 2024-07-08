@@ -32,7 +32,7 @@
 
 Tested with arduino code, flash tested with ESPHome, but not further function tests
 
-- [[ESP-SDK-dat]] - [[ESP32-C3-WROOM-2-DAT]]
+- [[ESP-SDK-dat]] - [[ESP32-C3-WROOM-02-DAT]] - [[ESP32-dat]]
 
 - [[esp-relay-board-dat]]
 

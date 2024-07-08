@@ -1,6 +1,10 @@
 
 # raspberry pi dat 
 
+
+
+
+
 - [[RPI3-dat]]
   
 - [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board-dat]]
@@ -31,6 +35,8 @@
 ## demo code 
 
 https://github.com/Edragon/RPI
+
+can use commands nohup to run script in background for long term.
 
 
 ## repository
