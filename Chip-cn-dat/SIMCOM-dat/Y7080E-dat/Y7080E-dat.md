@@ -53,6 +53,8 @@ I VBAT(peak)
 
 - x = reserved 
 
+![](2024-07-08-16-00-57.png)
+
 ## test AT commands 
 
 for testing 
