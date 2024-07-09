@@ -36,11 +36,17 @@ the most easy to use library for ESP
 - https://github.com/ThingPulse/esp8266-oled-ssd1306
 
 
+## circuits 
 
+- common pullup resistors 1K/4.7K/10K
+![](2024-07-10-01-21-40.png)
 
 ## ref 
 
 - https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/#1
+
+
+
 
 
 - [[arduino-dat]]
