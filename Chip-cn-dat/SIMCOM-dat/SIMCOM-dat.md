@@ -40,7 +40,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 
 ## commands 
-- [[SIMCOM-AT-DAT]] - [[simcom-at-gnss]] - [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
+- [[SIMCOM-AT-DAT]] - [[simcom-at-gnss]] - [[SIMCOM-PSM-Dat]]
 
 - [[M2M-dat]]
 
