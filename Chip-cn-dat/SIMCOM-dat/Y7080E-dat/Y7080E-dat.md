@@ -70,7 +70,8 @@ for testing
 
 - [[GPS-antenna-design-dat]] - [[antenna]] - [[antenna-design-dat]] - [[antenna-dat]]
 
-- [[reset-dat]] - [[status-dat]]
+- [[reset-dat]] - [[status-dat]] - [[indicator-dat]] 
 
 - [[I2C-dat]] - [[SPI-dat]]
+  
 - [[Y7080]]

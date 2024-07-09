@@ -24,6 +24,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 - [[SIM7600-dat]]
 
+- [[Y7080E-dat]]
 
 ## Modules 
 
