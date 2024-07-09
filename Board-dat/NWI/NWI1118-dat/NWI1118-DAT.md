@@ -31,7 +31,7 @@
 
 - [[esp-relay-board-dat]]
 
-- [[ESP-12F-DAT]] - [[ESP32-­C3-­WROOM-­2-DAT]]
+- [[ESP-12F-DAT]] - [[ESP32-­C3-­WROOM-­02-DAT]]
 - [[ACDC-SM]]
 - code reference - [[NWI1139-DAT]]
 
