@@ -68,6 +68,8 @@ for testing
 
 - [[TPS62088-dat]] - [[TI-power-dat]]
 
+- [[GPS-antenna-design-dat]] - [[antenna]] - [[antenna-design-dat]] - [[antenna-dat]]
+
 - [[reset-dat]] - [[status-dat]]
 
 - [[I2C-dat]] - [[SPI-dat]]
