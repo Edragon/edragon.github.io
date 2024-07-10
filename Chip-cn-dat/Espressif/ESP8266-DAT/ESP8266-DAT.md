@@ -70,9 +70,17 @@ serial1 = U0
 - CN datasheet of all series - [[esp8266系列使用手册.pdf]]
 - Module datasheet please see here: https://github.com/Edragon/ESP8266-HDK/tree/master/MOD
 
+Common Used 
+
+- [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]]
+
+- [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
+
+- [[ESP8266-dat]] - [[ESP32-dat]] - [[ESP-dat]]
 
 - [[ESP8266]]
 
-- [[ESP32-dat]]
 
-- [[ESP-dat]]
+
+
+

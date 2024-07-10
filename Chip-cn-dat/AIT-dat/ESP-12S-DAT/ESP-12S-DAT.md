@@ -29,4 +29,14 @@ https://www.electrodragon.com/product/esp-12s-wifi-module-esp8266/
 
 ## ref 
 
+Common Used 
+
+- [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]]
+
+- [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
+
+- [[ESP8266-dat]]
+
 - [[ESP-12S-DS.pdf]]
+
+
