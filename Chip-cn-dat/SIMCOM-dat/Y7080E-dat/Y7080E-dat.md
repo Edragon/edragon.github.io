@@ -70,7 +70,7 @@ for testing
 
 - [[GPS-antenna-design-dat]] - [[antenna]] - [[antenna-design-dat]] - [[antenna-dat]]
 
-- [[reset-dat]] - [[status-dat]] - [[indicator-dat]] 
+- [[reset-dat]] - [[status-dat]] - [[indicator-dat]] - [[dcdc-boost-dat]]
 
 - [[I2C-dat]] - [[SPI-dat]]
   
