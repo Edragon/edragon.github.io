@@ -61,6 +61,9 @@ serial1 = U0
 ![](15-46-00-28-03-2023.png)
 
 
+## programmer 
+
+- [[DPR1150-dat]]
 
 
 ## ref 
@@ -70,9 +73,12 @@ serial1 = U0
 - CN datasheet of all series - [[esp8266系列使用手册.pdf]]
 - Module datasheet please see here: https://github.com/Edragon/ESP8266-HDK/tree/master/MOD
 
+
+
+
 Common Used 
 
-- [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]]
+- [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]] - [[NWI1075-dat]]
 
 - [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
 
