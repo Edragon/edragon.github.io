@@ -51,9 +51,9 @@
 
 - [[ESP-C3-12F-dat]]
 
-| models | lifetime | Compatible | 
-|-|-|-|
-| [[ESP-C3-12F-dat]] | x | [[ESP-12f-dat]]
+| models             | lifetime | Compatible      |
+| ------------------ | -------- | --------------- |
+| [[ESP-C3-12F-dat]] | x        | [[ESP-12f-dat]] |
 
 products - 
 - [[NWI1126-DAT]]
@@ -112,3 +112,10 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 - Hold down IO9 
 - Press EN or RST button to restart (re-power) the module
 - Now it is enter into flash mode 
+
+
+## Hardware Flashing 
+
+- notice [[DPR1039-dat]] more stable than common PL2303HX 
+
+![](2024-07-10-19-32-02.png)
