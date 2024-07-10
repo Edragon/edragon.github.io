@@ -58,7 +58,7 @@ SAMD21
 ### DPR
 - [[DPR1009-dat]] - [[DPR1041-DAT]] - [[DPR1084-DAT]] - [[DPR1097-DAT]] - [[DPR1150-DAT]] - [[DPR1120-dat]]
 
-- [[DPR1126-dat]] 
+- [[DPR1126-dat]] - [[DPR1150-dat]]
 
 For ARM devices  
 - [[DPR1130-dat]] - [[DPR1100-dat]]

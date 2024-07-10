@@ -42,11 +42,6 @@ Pin Definitions
 
 ![](2023-12-25-17-50-57.png)
 
-## ref
-
-- [[DPR1150]]
-
-- firmware - https://github.com/Edragon/ESP8266-proj
 
 
 ## Demos
@@ -57,3 +52,14 @@ Pin Definitions
 
 
 - https://twitter.com/electro_phoenix/status/1640668945953996803
+
+
+
+## ref
+
+- [[DPR1150]]
+
+- [[NWI1077-dat]] - [[NWI1059-dat]]
+
+- firmware - https://github.com/Edragon/ESP8266-proj
+
