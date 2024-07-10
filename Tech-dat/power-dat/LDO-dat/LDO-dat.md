@@ -37,6 +37,17 @@
 High Accuracy, High PSRR LDO Regulators
 Maximum Output Current: 500mA
 
+
+## SGM2036 
+
+- VGPS = 2.8V 
+
+![](2024-07-10-13-00-29.png)
+
+
+
+
+
 ## ref 
 
 - [[LDO]]
