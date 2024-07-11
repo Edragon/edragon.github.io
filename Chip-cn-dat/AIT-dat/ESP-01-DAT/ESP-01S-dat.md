@@ -39,7 +39,9 @@ ESP-01S SCH
 - GPIO0 - pull up
 - GPIO2 - LED + pull up
 
+## special programmer 
 
+- [[NWI1070-dat]]
 
 ## ref 
 
