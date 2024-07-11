@@ -63,7 +63,7 @@ serial1 = U0
 
 ## programmer 
 
-- [[DPR1150-dat]]
+- [[DPR1150-dat]] - [[NWI1070-dat]] for ESP-01/01S 
 
 
 ## ref 
