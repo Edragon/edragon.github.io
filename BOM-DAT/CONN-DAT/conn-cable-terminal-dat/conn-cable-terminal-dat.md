@@ -22,4 +22,4 @@
 
 ## ref 
 
-- [[接线端子]]
+- [[cable-terminal]]
