@@ -48,7 +48,7 @@ right column pins
 - [[mqtt-dat]]
 - [[NGS1128]] - [[SIM7080-dat]]
 - [[SIMCOM-AT]]
-- [[SIMCOM-AT-GNSS]]
+- [[SIMCOM-AT-GNSS-dat]]
 - https://w.electrodragon.com/w/SIM7080
 
 
