@@ -59,9 +59,13 @@ I VBAT(peak)
 
 for testing 
 
-    AT+COPS?
-    +COPS: 0
+    +CGEV:ME PDN ACT 0
+    +CTZEU:+32,0,2024/07/14,09:56:56
 
+    AT+COPS?
+    +COPS:0,2,"46000",9
+
+    AT+CGNSSTST=1
     AT+CGNSSPWR=1
 
 ## ref 
@@ -75,3 +79,5 @@ for testing
 - [[I2C-dat]] - [[SPI-dat]]
   
 - [[Y7080]]
+
+- [[SIMCOM-dat]]

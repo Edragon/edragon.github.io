@@ -43,7 +43,7 @@ based on chip [[SIM7080G-dat]]
 - or pull the "boot" pin to high for 2 seconds to boot the module 
 
 ### Use GNSS
-- check at [[SIMCOM-AT-GNSS]]
+- check at [[SIMCOM-AT-GNSS-dat]]
 
 ### Use as a Modem and COM PORT
 

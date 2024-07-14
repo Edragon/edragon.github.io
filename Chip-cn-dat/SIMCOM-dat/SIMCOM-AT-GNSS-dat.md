@@ -18,7 +18,6 @@
     AT+CGNSPWR=1
     AT+CGNSINF
 
-
 result
 
     //Example of Open GNSS.
@@ -39,3 +38,7 @@ result shift from time verified to location verified
     +CGNSINF: 1,,20230315095032.155,22.571717,113.887426,10.487,1.07,,1,,1.4,3.6,3.3,,4,,142.8,270.0
 
 my location: 22.571717,113.887426
+
+    AT+CGNSSPWR=1
+    AT+CGNSSTST=1
+    AT+CGPSINFO=1
