@@ -41,6 +41,21 @@
 
 ![](55-05-18-02-02-2023.png)
 
+## Crystal Setup 
+
+- please notice all crystal are not populated, normally use the internal clock is enough
+- PF0 / PF1 low speed RTC clock, PTH footprint 
+- PA0 / PA1 high speed clock , SMD footprint 
+- [[crystal-dat]]
+
+
+## Debug 
+
+- Please check if backside jumpers are all soldered or not, power LED is NO or not.
+- The full schematic is for purchased customers only, you can also view it directly here. 
+- Default firmware should be hold down PC7 button and PC6 LED light up, or simple blink sketch. You can find all sketches in our [[arduino-IDE-DAT]]
+- [More information please find at page here.](https://w2.electrodragon.com/Board/DAR/DAR1064-DAT/DAR1064-DAT.md)
+
 
 ## ref 
 - https://w.electrodragon.com/w/Category:AVR128#AVR128_Board
@@ -50,12 +65,3 @@
 - [[DAR1064]] 
 
 
-
-
-
-## Debug 
-
-- Please check if backside jumpers are all soldered or not, power LED is NO or not.
-- The full schematic is for purchased customers only, you can also view it directly here. 
-- Default firmware should be hold down PC7 button and PC6 LED light up, or simple blink sketch. You can find all sketches in our [[arduino-IDE-DAT]]
-- [More information please find at page here.](https://w2.electrodragon.com/Board/DAR/DAR1064-DAT/DAR1064-DAT.md)
