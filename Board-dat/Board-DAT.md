@@ -305,7 +305,7 @@ Darlinton driver - [[SCU1024-dat]]
 
 
 ### SDR
-- [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1113-DAT]]
+- [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1113-DAT]] - [[sdr1070-dat]]
 
 ### SMO
 - [[SMO1095-DAT]] - [[SMO1099-dat]]
