@@ -51,4 +51,4 @@
 - [CT Sensors – How to build an arduino energy monitor](http://openenergymonitor.org/emon/buildingblocks/how-to-build-an-arduino-energy-monitor-measuring-current-only)
 
 
-- [[sensor-dat]]
+- [[sensor-dat]] - [[SVC1010]]
