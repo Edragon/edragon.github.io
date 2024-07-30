@@ -62,5 +62,6 @@ Chain-3 5V logic output pin definitions
 
 ## ref 
 
+- [[MPC1119-faq-dat]]
 
 - [[MPC1119]]
