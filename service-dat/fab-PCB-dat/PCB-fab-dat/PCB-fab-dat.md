@@ -1,6 +1,7 @@
 
 # PCB Service Dat 
 
+- [[PCB-standards-dat]]
 
 ## Manufacturing capability
 Please adapte this to your own "DRC(Design Rule Check)" tool, to make sure your board reach the manufacturing limits.<br />
@@ -89,18 +90,29 @@ Please adapte this to your own "DRC(Design Rule Check)" tool, to make sure your 
 
 
 ### FAQ
+
 ##### Stop Mask on the Vias? 
 Yes, stop mask will cover the vias, but not the pads, please be aware on this point.
+
 ##### What is dimension requirement of Drilling?
 - Drilling as not padding diameter range from 0.3 mm to infinity
 - Drilling as pads diameter range from 0.3 mm to 6mm
 - Drill shape doesn't not support rectangular, most of other shape are no problem.
+- 
 ##### What is the price for different board thickness? 
 For 0.8 - 1.6 mm thickness board, the price is default, without this arrange there will be an extra charge.
+
 ##### What is the price for board over size 10*10 CM
 Please contact us to get a quote.
+
 ##### What is lead time of this service
 For 5*5 cm and 10*10 cm sample PCBs, the lead time is 4-6 days that not including Sunday. For more than 50pcs 10*10 cm batch or similar to that, we will have 2-3 days extra for production.
+
+
+
+
+== PCB Production Cost List ==
+
 
 
 
@@ -108,6 +120,6 @@ For 5*5 cm and 10*10 cm sample PCBs, the lead time is 4-6 days that not includin
 
 - [[PCB-penalization-dat]]
 - [[PCB-common-error-dat]]
-- [[PCB-batch-production-dat]]
+- [[fab-PCB-dat/PCB-service-dat]]
 - [[gerber-tutorial-dat]]
 
