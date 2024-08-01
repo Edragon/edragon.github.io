@@ -1,19 +1,28 @@
 
 # Y7080-AT-log-dat.md
 
-
+## boot log 
 +POWERON:0
 
 ^SIMST:0
 
 
++CGEV:ME PDN ACT 0
+
++CTZEU:+32,0,2024/08/01,10:45:10
+
+
+## test 
+
 +COPS:0,2,"46000",9
 
 AT+CIMI
 +CIMI:460047209708095 - This command is used to query the IMSI value of the USIM card.
++CIMI:460047209708095
 
 AT+CGSN
 MP0623208BB17E0
+MP0624148A51567
 
 - SN: The serial number of the product, also known as machine code, authentication code, registration application code, etc., is used to identify and verify the "legal identity of the product". The SN code contains a maximum of 64 characters, including digits, uppercase letters and lowercase letters.
 
@@ -39,6 +48,7 @@ OK
 
 AT+CGMR
 2212 B07 Y7080E
+2212 B07 Y7080E
 
 AT+NV=GET,EXTVER
 
@@ -59,4 +69,32 @@ AT+CGNSSPWR=1
 
 AT+CGNSSINFO
 
+AT+CGNSSINFO=3
+
 AT+CGNSSTST=1
+
+AT+CGNSSMODE=1
+
+AT+CGNSSPROD
+PRODUCT: UNICORECOMM,UC6226NIS,R3.2.10.0Build8016
+
+PRODUCT: ,,
+
+
+
+平台禁用休眠功能操作 AT 如下：
+AT+NV=SET,EXTLOCK,0
+AT+NV=SET,DEEPSLEEP,0
+AT+NV=SET,STANDBY,0
+AT+NV=SAVE
+
+
+
+
+UC6226NIS G1L1E1 COM1
+PN 080101800621
+SN 20230518202010001
+HWVer VE310E1
+FWVer R3.4.1.0Build16190
+Copyright (c), Unicore Communications Inc.
+All rights reserved.

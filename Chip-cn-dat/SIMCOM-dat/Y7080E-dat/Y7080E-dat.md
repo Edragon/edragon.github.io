@@ -70,6 +70,8 @@ for testing
 
 ## ref 
 
+- [[Y7080-AT-log-dat]]
+
 - [[TPS62088-dat]] - [[TI-power-dat]]
 
 - [[GPS-antenna-design-dat]] - [[antenna]] - [[antenna-design-dat]] - [[antenna-dat]]
@@ -81,3 +83,5 @@ for testing
 - [[Y7080]]
 
 - [[SIMCOM-dat]]
+
+- [[USB-TTL-dat]]
