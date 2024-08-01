@@ -10,6 +10,11 @@ https://www.electrodragon.com/product/exbt-ex8635-ex8645-bluetooth-bt4-0-audio-b
 
 
 
+
 ## ref 
 
-- [[bluetooth-dat.md]]
+- [[NBL1050-dat]] - [[NBL1054-dat]]
+
+- [[CSR-dat]] - [[bluetooth-dat]]
+  
+- [[NBL1050]] - [[NBL1054]]
