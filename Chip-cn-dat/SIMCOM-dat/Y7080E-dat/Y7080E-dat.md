@@ -81,7 +81,3 @@ for testing
 - [[Y7080]]
 
 - [[SIMCOM-dat]]
-
-+POWERON:0
-
-^SIMST:0
