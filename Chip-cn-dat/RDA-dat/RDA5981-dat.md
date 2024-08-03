@@ -13,9 +13,17 @@ https://www.electrodragon.com/product/rda5981a-ic-chip-wifi-mcu/
 
 https://www.electrodragon.com/product/rc01-rda5981c-rda5856qe32-module/
 
+## mbedOS 
+
+baidu DuerOS based on mbedOS
+- https://developer.dueros.baidu.com/doc/lite/device-dev-manual_markdown
+
+
 
 ## ref 
 
-- [[RDA-dat]]
+- [[RDA-dat]] -[[enquiry-dat]]
+
+- [[RDA5981-dat]] - [[RDA5856-dat]] - [[RDA5807]] - [[RDA5820]]
 
 - [[RDA5981]] - [[RDA5856]]
