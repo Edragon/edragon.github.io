@@ -36,4 +36,4 @@ legacy wiki page - https://w.electrodragon.com/w/Category:MPS
 - [[MP1658-dat]]
 
 
-- [[dcdc-bulk-dat]]
+- [[dcdc-down-dat]]

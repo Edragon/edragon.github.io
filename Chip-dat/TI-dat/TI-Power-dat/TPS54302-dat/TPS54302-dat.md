@@ -18,7 +18,7 @@
 
 ![](2024-04-29-16-00-08.png)
 
-- [[dcdc-bulk-output-dat]]
+- [[dcdc-down-output-dat]]
 
 
 - [[TPS54302]]

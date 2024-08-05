@@ -8,7 +8,7 @@
 
 | chip              | package | VIN |
 | ----------------- | ------- | --- |
-| AMS1117           |
+| AMS1117           | SOT-89  |     |
 | 6211              |
 | SPX3819           |
 | RT9013 / RT9193   |
@@ -44,6 +44,8 @@ Maximum Output Current: 500mA
 
 ![](2024-07-10-13-00-29.png)
 
+
+## large current 
 
 
 
