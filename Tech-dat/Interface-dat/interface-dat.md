@@ -7,6 +7,8 @@
 
 - [[can-dat]]
 
+- [[POE-dat]]
+
 
 ## Breakout boards 
 

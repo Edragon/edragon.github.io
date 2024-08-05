@@ -31,6 +31,12 @@ this probably wrong or not P2P type
 
 ## Use with arduino
 
+## Demo video 
+
+- please refer to ESP32-ISO board 
+
+
+
 ## ref
 
 https://en.wikipedia.org/wiki/RS-422
@@ -38,6 +44,7 @@ https://www.omega.com/en-us/resources/rs422-rs485-rs232
 
 - [[DPR1097-dat]]
 
-## Demo video 
+- [[RS422]]
 
-- please refer to ESP32-ISO board 
+
+
