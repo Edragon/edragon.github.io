@@ -3,11 +3,13 @@
 
 First version please see here. [[MPC1073-dat]]
 
-New features please see the right image 
-* Remove the right chip to free extra GPIOs
-* Connect PIN4 or PIN8 to E_BUF for E-line
-* Power input and output from the left large pin connectors
+## Features of MPC1119
 
+* Remove the right chip to free extra GPIOs of P2 chain, optionally
+* bended-angle direction of the chain output
+* Connect PIN4 or PIN8 to E_BUF for E-line
+* Power input and output from the left large pin connectors, with power protection
+* removed memory and RTC functions
 
 
 ## pin definitions 
