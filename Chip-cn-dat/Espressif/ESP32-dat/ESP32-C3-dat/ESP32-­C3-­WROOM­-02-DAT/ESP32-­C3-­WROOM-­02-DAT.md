@@ -35,8 +35,10 @@ page 24.
 
 - [[flash-download-tool]] - [[arduino-esp32-dat]]
 
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32c3/get-started/establish-serial-connection.html#:~:text=Flash%20Using%20USB&text=The%20USB%20on%20the%20ESP32,D%2B%20and%20GPIO18%20for%20D%2D.&text=The%20ESP32%2DC3%20supports%20only,press%20the%20RESET%20button%20once.
+
 
 ## ref 
 
-- [[ESP32-C3]] - [[ESP-SDK-dat]] - [[ESP32-DAT]]
+- [[ESP32-C3]] - [[ESP-SDK-dat]] - [[ESP32-dat]]
 

@@ -89,7 +89,7 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - [[NWI1125-DAT]]
 - [[NWI1126]]
 
-- [[ESP32-DAT]] - code at [[arduino-esp32-dat]]
+- [[ESP32-dat]] - code at [[arduino-esp32-dat]]
 
 
 ## jumper setup cases

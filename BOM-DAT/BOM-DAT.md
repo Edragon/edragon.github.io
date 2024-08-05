@@ -12,7 +12,7 @@ The common bom we hosted
 
 
 ## Chip-CN
-- [[WCH-DAT]] - [[ESP32-DAT]] - [[ESP8266-DAT]]
+- [[WCH-DAT]] - [[ESP32-dat]] - [[ESP8266-DAT]]
 
 - [[BTB-dat]]
 
