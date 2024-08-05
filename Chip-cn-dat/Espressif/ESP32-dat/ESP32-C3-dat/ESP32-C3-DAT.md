@@ -119,3 +119,13 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 - notice [[DPR1039-dat]] more stable than common PL2303HX 
 
 ![](2024-07-10-19-32-02.png)
+
+
+
+## USB 
+
+![](2024-08-05-18-16-35.png)
+
+- default as a comm port, and power supplied 
+
+![](2024-08-05-18-18-01.png)
