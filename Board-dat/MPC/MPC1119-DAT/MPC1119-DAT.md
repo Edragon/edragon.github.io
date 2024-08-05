@@ -51,11 +51,11 @@ Setup E-line, PIN4 to E, PIN8 to GND or vice vese.
 ![](2023-09-12-12-47-35.png)
 
 
-Chain-3 5V logic output pin definitions
+P2 (Chain-3) 5V logic output pin definitions
 
 ![](2023-09-12-12-48-06.png)
 
-3V3 direct lead pin definitions
+P2 pins definitions, 3V3 direct lead out
 
 ![](2023-09-12-12-52-41.png)
 
