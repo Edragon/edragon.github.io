@@ -98,11 +98,6 @@ Booting Mode select
 ![](2024-07-05-17-39-28.png)
 ![](2024-07-05-17-39-45.png)
 
-## ref 
-software [[com-monitor-dat]]
-
-- [[ESP-SDK-dat]]
-
 ## Compatibility 
 
 replaceable 
@@ -115,3 +110,16 @@ replaceable
 
 
 - [[usb-ttl]] - [[serial]]
+
+
+## Circuits 
+
+- [[auto-serial-dat]]
+
+
+
+
+## ref 
+software [[com-monitor-dat]]
+
+- [[ESP-SDK-dat]]
