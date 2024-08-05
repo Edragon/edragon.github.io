@@ -48,6 +48,11 @@ MicroA_2_A_Female
 In other boot try:
 * In case of SLCAN software connect UCCB and type in terminal '''boot''' device should reset and new device should connect to Your pc
 
+## USB mode 
+
+- USB CDC / Serial
+- USB JTAG 
+
 
 
 ## ref 
