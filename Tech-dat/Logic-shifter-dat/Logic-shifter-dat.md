@@ -19,11 +19,14 @@ For the same reason, the TXB0108 should not be used in applications such as I2C 
 | Type     | Open-Drive | Push-pull | Examples    |
 | -------- | ---------- | --------- | ----------- |
 | TXB 010x | ×          |           |             |
-| TXS 010x | ✔          |      ✔     | I2C, 1-Wire |
+| TXS 010x | ✔          | ✔         | I2C, 1-Wire |
 
 ![](2024-04-30-16-16-14.png)
 
 Make sure the VCCA ≤VCCB.
+
+
+
 
 ## ref 
 
