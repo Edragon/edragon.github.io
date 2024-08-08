@@ -75,7 +75,7 @@ https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
 
 ## ref
 
-- used enclosure [[LED驱动电源塑料外壳]]
+- used enclosure [[case-led-dat]]
 
 - [[relay-dat]] - [[inductive-load-dat]]
 
