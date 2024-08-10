@@ -7,6 +7,8 @@
 
 - [[can-dat]]
 
+- [[POE-dat]]
+
 
 ## Breakout boards 
 
@@ -47,7 +49,9 @@ For Raspberry Pi
 
 - github eagle CAD footprint repository - [[eagle-cad-dat]]
 
-- [[CAN]]
+- [[conn-dat]] - [[power-dat]]
+
+- [[interface]] - [[CAN]]
 
 
 ## Demo video 

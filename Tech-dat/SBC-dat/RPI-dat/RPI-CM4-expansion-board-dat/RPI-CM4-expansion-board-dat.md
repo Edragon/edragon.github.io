@@ -48,7 +48,7 @@
 
 - misc [[fan-driver-dat]]  
 
-- power supply [[dcdc-bulk-dat]] 
+- power supply [[dcdc-down-dat]] 
 
 - USB [[USB-switch-dat]] - [[type-c-dat]] - [[USB-hub-dat]]
 

@@ -18,7 +18,23 @@
 
 ![](2024-04-29-16-00-08.png)
 
-- [[dcdc-bulk-output-dat]]
+- [[dcdc-down-output-dat]]
 
+https://www.ti.com/lit/ds/symlink/tps54302.pdf
+
+## inductor 
+
+Lmin = [ 5V * (18V-5V) ] / 18V * Kin * Iout * Fsw
+
+For this design example, use KIND = 0.35. The minimum inductor value is calculated as 9.78 μH. For this design, a close standard value of 10 μH was selected for LMIN.
+
+- Larger value inductors have lower AC current and result in lower output voltage ripple. 
+- Smaller inductor values increase AC current and output voltage ripple.
+
+![](2024-08-05-13-31-08.png)
+
+- [[inductor]]
+
+## ref 
 
 - [[TPS54302]]

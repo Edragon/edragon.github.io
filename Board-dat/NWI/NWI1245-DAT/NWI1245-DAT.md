@@ -10,7 +10,7 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 - RS485 communication - [[rs485-dat]]
 - CAN communication - [[can-dat]]
 - DC-DC buck regulator - 8201 in [[dcdc-dat]]
-- ESP32 core control - stack dev boards in [[esp32-dat]]
+- ESP32 core control - stack dev boards in [[ESP32-dat]]
 
 ## Used ESP32-DevKitC Pins
 

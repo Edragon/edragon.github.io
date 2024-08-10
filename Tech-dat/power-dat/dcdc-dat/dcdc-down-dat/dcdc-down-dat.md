@@ -2,6 +2,7 @@
 
 - [[MPS-dat]] - [[MP1658-dat]]
 
+- [[TI-power-dat]]
 
 ## template
 
@@ -19,11 +20,11 @@
 | MP2143       | [[MPS-dat]] | 24V       | 3A    |       |      |         |
 
 
-TPS543x 3A、宽输入范围降压转换器
+TPS 543x 3A、宽输入范围降压转换器
 
-TPS5430：5.5V 至 36V
+TPS 5430：5.5V 至 36V
 
-TPS54331 具有 Eco-mode 的 3A、28V 输入、直流/直流降压转换器
+TPS 54331 具有 Eco-mode 的 3A、28V 输入、直流/直流降压转换器
 
 TPS 54202 DDCR
 
@@ -35,7 +36,7 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 
 
 
-- [[dcdc-bulk-output-dat]]
+- [[dcdc-down-output-dat]]
 
 ## circuits 
 
@@ -47,3 +48,4 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
   
 - [[XL-dat]] - [[MPS-dat]]
 
+- [[dcdc-down]]

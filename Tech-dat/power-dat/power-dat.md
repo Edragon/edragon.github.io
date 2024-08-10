@@ -5,9 +5,11 @@
 
 - [[wireless-charge-dat]]
 
-- [[dcdc-bulk-dat]]
+- [[dcdc-down-dat]] - [[dcdc-dat]]
 
+- [[LDO-dat]]
 
+- charger-pump
 
 
 | Parts | Common Value | Note |

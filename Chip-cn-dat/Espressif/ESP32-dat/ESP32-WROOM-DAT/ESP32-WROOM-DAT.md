@@ -83,7 +83,7 @@ ESP32-WROOM-32
 - https://w.electrodragon.com/w/Category:ESP32
 
 
-- [[ESP32-DAT]]
+- [[ESP32-dat]]
 
 ## Datasheet 
 
@@ -102,9 +102,9 @@ obseleted
 
 ![](11-27-01-08-02-2023.png)
 
+## Based Design 
 
-
-
+- [[NWI1245-dat]] - [[NWI1206-dat]] - [[NWI1100-dat]]
 
 ## ref 
 

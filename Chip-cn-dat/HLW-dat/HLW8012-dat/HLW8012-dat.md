@@ -3,6 +3,9 @@
 
 - [legacy wiki page ](https://w.electrodragon.com/w/HLW8012)
 
+## Chip Info 
+
+![](2024-08-05-17-18-12.png)
 
 ### Hardware Design Note
 * Board AC Mains is be NOT isolated.
@@ -12,6 +15,18 @@
 #### other note 
 * Built-in crystal, 2.43V voltage reference source and power monitoring circuit
 * 5V single power supply, operating current less than 3mA
+
+## Application 
+
+![](2024-08-05-17-20-03.png)
+
+As shown in Figure 3, the power supply the HLW8012 should be in parallel with two small capacitors to filter out the noise from the grid. 
+
+- The signal of current channel is provided by the current diverter.
+- The signal of voltage channel is provided by the resistor network. 
+
+CF, CF1, SEL connect to the input port of the MCU. MCU measure the pulse periods of CF and CF1, then calculate the active power, current RMS and voltageRMS
+
 
 #### Sample resistor 
 

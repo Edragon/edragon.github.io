@@ -115,6 +115,9 @@ RPI LCD
 
 
 ### OPM 
+
+- [[OPM1013-dat]]
+
 - [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
 
 [[wireless-charge-dat]]
@@ -147,6 +150,8 @@ Battery charger - [[OPM1181-dat]]
 
 ### MPC
 
+- [[MPC1020-dat]] - [[MPC1056-dat]]
+
 - [[MPC1029-dat]]
 
 - [[MPCS042-DAT]] - [[MPC1123-DAT]] 
@@ -158,6 +163,8 @@ Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
 MPC cable
 
 - [[MPCS051-dat]]
+
+
 
 ### MSP 
 - [[MSP1061-DAT]] - [[MSP1076-dat]]

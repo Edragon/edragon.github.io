@@ -13,6 +13,16 @@ legacy wiki page:
 
 ## board Versions and Links
 
+
+- [[NWI1072-dat]] - [[NWI1139-dat]] 
+
+- [[NWI1115-dat]] 
+
+- [[NWI1118-dat]] - [[NWI1119-dat]]
+
+- [[NWI1126-dat]] - [[NWI1124-dat]]
+
+
 | Board                                                                                                       | Description                                   | Wiki Link                                     | Usage                           |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------- | ------------------------------- |
 | [Wifi IoT Relay Board](https://www.electrodragon.com/product/wifi-iot-relay-board-based-esp8266/)           | General version SPST                          | [[NWI1072-DAT]]                               | AC Mains Power ON/OFF           |
@@ -65,7 +75,8 @@ https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
 
 ## ref
 
-- used enclosure [[LED驱动电源塑料外壳]]
-- [[inductive-load-dat]]
+- used enclosure [[case-led-dat]]
+
+- [[relay-dat]] - [[inductive-load-dat]]
 
 

@@ -6,7 +6,7 @@ legacy wiki page
 
 
 ## Board 
-- [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]]
+- [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] - [[MPC1056-dat]]
 
 ## Module 
 
