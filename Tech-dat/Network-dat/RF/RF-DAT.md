@@ -10,7 +10,7 @@ Sub-1GHz
 
 ## Boards 
 
-- [[NWL1089-dat]] - [[NWL1070-dat]]
+- [[NWL1089-dat]] - [[NWL1070-dat]] - [[NWL1068-dat]]
 
 ## Network 
 
