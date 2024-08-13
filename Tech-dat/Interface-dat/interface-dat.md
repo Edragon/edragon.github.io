@@ -14,7 +14,7 @@
 
 [[RS232-dat]] breakout
 
-- [[DPR1084-dat]]
+- [[DPR1084-dat]] - [[DPR1073-dat]] - [[DPR1054-dat]]
 
 [[RS485-dat]] breakout
 

@@ -8,11 +8,11 @@
 ![](2024-08-08-17-29-43.png)
 
 
-| male pin | male conn |     | female conn |
-| -------- | --------- | --- | ----------- |
-| rxd      | pin2      | txd | pin3        |
-| txd      | pin3      | rxd | pin2        |
-| gnd      | pin5      | gnd | pin5        |
+| male conn | male pin | female conn | female pin |
+| --------- | -------- | ----------- | ---------- |
+| pin2      | rxd      | pin3        | txd        |
+| pin3      | txd      | pin2        | rxd        |
+| pin5      | gnd      | pin5        | gnd        |
 
 customized common: 
 - pin 9 RI for Vin/Vout
