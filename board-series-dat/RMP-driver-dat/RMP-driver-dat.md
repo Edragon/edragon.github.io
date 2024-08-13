@@ -39,7 +39,7 @@
 
 ## matrix panel
 
-- [[RGB-matrix-panel-dat]]
+- [[led-rgb-panel-dat]]
 
 
 ## demo 
