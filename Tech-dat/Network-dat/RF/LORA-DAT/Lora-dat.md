@@ -4,6 +4,10 @@ legacy wiki page
 - https://w.electrodragon.com/w/Lora_Tech
 - https://www.electrodragon.com/w/Category:Wireless
 
+AIT lora
+- https://w.electrodragon.com/w/AIT_LORA_MOD
+
+
 
 ## Board 
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] - [[MPC1056-dat]]
