@@ -281,7 +281,7 @@ PCB-ANT
 - [[NWI1059-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1127-dat]] - [[NWI1075-dat]]
 
 ESP32-C3
-- [[NWI1239-dat]]
+- [[NWI1239-dat]] - [[NWI1238-dat]]
 
 - [[NWI1139-DAT]] 
 
