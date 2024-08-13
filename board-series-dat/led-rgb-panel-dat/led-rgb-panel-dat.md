@@ -15,13 +15,13 @@ https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/
 | P6   | 32x32 | 19x19     |
 | P8   | 32x16 | 25.6x12.8 |
 
-| Type | LED SPECs | XY LEDs | subtotal | Dimension      | spec         | Usage              | Scan | Power | Status  | SKU             |
-| ---- | --------- | ------- | -------- | -------------- | ------------ | ------------------ | ---- | ----- | ------- | --------------- |
+| Type | LED SPECs | XY LEDs | subtotal | Dimension      | spec         | Usage              | Scan | Power | Status  | SKU             | intern |
+| ---- | --------- | ------- | -------- | -------------- | ------------ | ------------------ | ---- | ----- | ------- | --------------- |- |
 | P3   | 3mm       | 64 x 64 | 4096     | 19 x 19 CM     | 1919_6464_3  | Indoor Display     | 1/32 | ~20W  | selling | [[ILE1060-dat]] |
-| P4   | 4mm       | 64 x 32 | 2048     | 25.6 x 12.8 CM | 2613_6432_4  | Indoor Display     |      |       | N/A     |
-| P5   | 5mm       | 64 x 32 |
+| P4   | 4mm       | 64 x 32 | 2048     | 25.6 x 12.8 CM | 2613_6432_4  | Indoor Display     |      |       | N/A     |                 |
+| P5   | 5mm       | 64 x 32 |          |                |              |                    |      |       |         |                 |
 | P6   | 6mm 3535  | 32 x 32 | 1024     | 19 x 19 CM     | 1919_3232_6  | Outdoor, wateproof | 1/8  | ~30W  | selling | [[ILE1059-dat]] |
-| P8-1 | 8mm       | 32 x 16 | 512      | 25.6 x 12.8 CM | 2613_3216_8  | Outdoor, wateproof | 1/4  | ~30W  | selling | [[ILE1058-dat]] |
+| P8-1 | 8mm       | 32 x 16 | 512      | 25.6 x 12.8 CM | 2613_3216_8  | Outdoor, wateproof | 1/4  | ~30W  | selling | [[ILE1058-dat]] | [[ILE1058]]
 | P8-2 | 8mm       | 40 x 20 | 800      | 32 x 16 CM     | 3216_4020_8  | Outdoor, wateproof | 1/4  | ~30W  | selling |                 |
 | P10  | 10mm 3535 | 32 x 16 | 512      | 32 x 16 CM     | 3216_3216_10 |                    |      |       |         |                 |
 
