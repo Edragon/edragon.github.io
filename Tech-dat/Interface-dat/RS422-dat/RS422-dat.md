@@ -44,7 +44,7 @@ https://www.omega.com/en-us/resources/rs422-rs485-rs232
 
 - [[DPR1097-dat]]
 
-- [[RS422]]
+- [[RS422]] - [[DPR1097]]
 
 
 
