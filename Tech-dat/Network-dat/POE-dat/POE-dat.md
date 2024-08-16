@@ -6,6 +6,10 @@
 
 - https://x.com/electro_phoenix/status/1629048715637039104
 
+- https://www.youtube.com/shorts/DEzd7XtT4Cw
+
+
+
 
 ## ref 
 
