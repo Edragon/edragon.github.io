@@ -1,7 +1,7 @@
 
 # tech 
 
-- [[BOM-dat]]
+- [[BOM-dat]] - [[chip-dat]] - [[chip-cn-dat]]
 
 
 ## Circuits 

@@ -1,28 +1,16 @@
 
 # ESP32-S3-dat 
 
+## function map 
+
+![](2024-08-16-18-27-43.png)
+
+
 
 
 ## module 
 
-### ESP32-S3-WROOM-1
-
-- ESP32-S3-WROOM-1
-
-
-- ESP32-S3-WROOM-1 D2N8
-- ESP32-S3-WROOM-1 D2N8 R2
-- ESP32-S3-WROOM-1 D2N8 R8
-
-https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
-
-
-total pins 40
-
-![](52-29-22-05-03-2023.png)
-
-![](14-31-22-05-03-2023.png)
-
+- [[ESP32-S3-WROOM-1-dat]]
 
 
 
@@ -30,12 +18,15 @@ total pins 40
 
 ## dev board 
 
-###  ESP32-S3-DevKitM-1
+- [[NWI1243-dat]]
+
+###  official ESP32-S3-DevKitM-1
 
 ![](2023-12-01-15-32-07.png)
 
 - pin = 2x22 = 44 pins 
 - available GPIOs = 44 - 5 = 39 pins 
+
 
 ## ref 
 
