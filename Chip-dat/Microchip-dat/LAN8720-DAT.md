@@ -26,6 +26,14 @@
 - Ext. commercial temp., Tray, 24-SQFN (Sawn)
 
 
+
+## Debug 
+
+- a good Ethernet cable is necessary, if you have connection problem, please try to obivate this.
+
+
+
+
 ## ref 
 
 - [[LAN8720]]
