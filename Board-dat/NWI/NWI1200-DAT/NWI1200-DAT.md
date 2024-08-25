@@ -82,6 +82,9 @@ based on demo code NWI1200-3
 
 ![](2023-09-19-17-28-34.png)
 
+
+
+
 ## demo code find at
 
 - [[arduino-code-v2-dat]]
