@@ -9,6 +9,16 @@
 
 ![](2024-08-25-18-20-35.png)
 
+- the chip does not have a default running program, please design it yourself
+- button and led need to be programmed to act, same for motor driver
+- battery charger can work alone without a design
+
+- default LED color in "shining high tech" blue 
+
+## Applications 
+
+- toy airplane, tanks, cars, etc
+
 
 ## SCH 
 

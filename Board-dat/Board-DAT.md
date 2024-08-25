@@ -49,7 +49,11 @@ AVR
 - [[DAR1047-dat]]
 
 ### DOD
+
 - [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]] - [[DOD1060-dat]]
+
+CH32V003 - SOP8
+- [[DOD1119-dat]]
 
 SAMD21
 - [[DOD1104-dat]] - [[DOD1107-dat]]
@@ -97,6 +101,7 @@ RPI LCD
 
 [[EDL-LCD-dat]] - [[ILC1031-dat]] - [[ILC1030-dat]]
 
+[[ILC1007-dat]]
 
 ### ILE
 
@@ -167,7 +172,7 @@ MPC cable
 
 - [[MPCS051-dat]]
 
-
+- [[MPC1018-dat]]
 
 ### MSP 
 - [[MSP1061-DAT]] - [[MSP1076-dat]]
