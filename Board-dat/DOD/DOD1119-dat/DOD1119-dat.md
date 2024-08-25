@@ -1,6 +1,14 @@
 
 # DOD1119-dat mini-toy-board-dat
 
+## Board map 
+
+![](2024-08-25-18-15-59.png)
+
+## Functions 
+
+![](2024-08-25-18-20-35.png)
+
 
 ## SCH 
 
