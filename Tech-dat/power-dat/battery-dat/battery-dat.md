@@ -15,3 +15,7 @@ Both button cells provide very low discharge rate that can work for 1-3 years.
 ## Power battery 
 
 ![](2023-11-08-16-40-20.png)
+
+
+## ref 
+

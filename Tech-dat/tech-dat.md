@@ -40,6 +40,8 @@
 
 - [[low-power-dat]]
 
+- [[power-protection]]
+
 ### Interactive
 
 - [[LED-dat]] - [[LED-strip-dat]]
