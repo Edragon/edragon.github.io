@@ -17,4 +17,7 @@ with back PCB, 5VIN
 
 - [[ILC1008-dat]] - [[chars-dat]]
 
+- [[UC1701X-dat]]
+
+
 - [[ILC1007]]

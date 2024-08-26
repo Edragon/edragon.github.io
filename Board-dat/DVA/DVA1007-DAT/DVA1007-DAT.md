@@ -64,3 +64,7 @@ FT232 Programming Port
 
 - low power - https://x.com/electro_phoenix/status/1639160253811142656
 
+
+## ref 
+
+- [[DVA1007]]
