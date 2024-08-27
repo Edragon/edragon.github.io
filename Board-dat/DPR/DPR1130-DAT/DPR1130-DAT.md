@@ -42,6 +42,9 @@ https://www.electrodragon.com/product/chip-holdstm32-online-offline-programmer-d
 - HC32F005
 - HC32L136
 
+## demo video 
+
+
 
 ## ref 
 

@@ -99,6 +99,13 @@ General load switching
 
 
 
+## Update logs 
+
+V1.11
+- notice boards are using new [[KF2EDG-dat]] connector from 2024 Aug.
+- add one power supply indicator led 
+
+
 
 ## ref
 - code please refer to our ESP32 arduino github repository 

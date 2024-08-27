@@ -1,8 +1,9 @@
 
 # attiny-dat 
 
+## HDK 
 
-## megaTinyCore Series 
+### megaTinyCore Series 
 
 - env setup [[megaTinyCore]]
 
@@ -14,11 +15,22 @@ QFN
 
 
 
-## Attiny 13A 
+### Attiny 13A 
 
 ![](2023-12-13-16-08-55.png)
 
 - PB3 = D3 = 3
+
+
+## SDK
+
+- arduino attiny - http://code.google.com/p/arduino-tiny/
+
+- http://playground.arduino.cc/Main/ArduinoOnOtherAtmelChips
+
+- tuto - http://highlowtech.org/?p=1695
+
+
 
 ## ref
 
