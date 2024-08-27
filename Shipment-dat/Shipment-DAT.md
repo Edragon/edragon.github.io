@@ -30,7 +30,7 @@ Design and optmized to specific country, internional + local delivery.
 ### Express Shipment 
 
 - Fedex
-- [[DHL-dat]]
+- [[DHL-dat]] - [[DHL-dct-dat]]
 - UPS
 
 - [[remote-address]]

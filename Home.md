@@ -14,7 +14,7 @@
 
 - [[board-series-dat]] - [[board-new-dat]]
 
-- [[shipment-by-country]]
+- [[shipment-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
   

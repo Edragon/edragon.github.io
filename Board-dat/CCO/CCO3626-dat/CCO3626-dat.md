@@ -6,6 +6,10 @@
 
 
 
+
+
 ## ref 
+
+- [[prog-socket-SMD2DIP-dat]]
 
 - [[CCO3626]]

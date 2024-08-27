@@ -16,3 +16,8 @@
 
 
 - [[tech-dat]]
+
+
+## avr
+
+- [[attiny-dev-dat]] - [[arduino-dat]]
