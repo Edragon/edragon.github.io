@@ -6,7 +6,9 @@
 
 ![](2024-08-28-16-59-20.png)
 
+## upgrade from slCAN to candlelight
 
+- https://canable.io/getting-started.html
 
 ## windows software 
 
