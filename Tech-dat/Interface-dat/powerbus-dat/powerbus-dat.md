@@ -44,6 +44,12 @@ The communication port of the PowerBus main control board supports switching bet
 
 The communication port of the PowerBus daughter board supports switching between TTL and 485, and adapts to the baud rate of the main control board. All wiring is plug-in design. It can provide 5V/12V/24V power supply for the slave station, with a maximum current of 500mA. It supports a maximum bus level of 40V and a maximum communication distance of 3000m. It has no special cable requirements and does not require any software protocol changes when connected to the original network. You can freely choose TTL or 485 to communicate with the original slave.
 
+## Note 
+
+- TTL logic level at 3V3
+- baudrate commonly use 9600bps 
+
+
 
 ## Slave board 
 
@@ -56,6 +62,8 @@ The communication port of the PowerBus daughter board supports switching between
 - [[POWERBUS-PB331.pdf]] - [[POWERBUS-PB620.pdf]]
 
 - https://www.facebook.com/Powerbus1/
+
+- [[mosfet-dat]]
 
 - [[powerbus]]
 

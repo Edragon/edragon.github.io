@@ -1,6 +1,8 @@
 
 # ITF1015-dat
 
+- Note this board must stack with [[ITF1014-dat]] to use
+
 ## Board map 
 
 ![](2024-08-28-14-37-22.png)
