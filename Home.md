@@ -27,6 +27,13 @@
 
 - [[chinese-holiday-dat]]
 
+## About this week 
+
+- frequently updates, any questions please email to info@electrodragon.com
+
+
+
+
 ## Why Choose Electrdragon 
 
 - The most updated and comprehensive documentation 
