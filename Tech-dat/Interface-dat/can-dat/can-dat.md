@@ -12,7 +12,13 @@ legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 - TJA1050
 - TJA1051T/3/1J
 
+## common software 
 
+- socketCAN - linux 
+- CANtact V0.3 
+- [[Cangaroo-dat]]
+- slCAN
+- python 
 
 
 ## Boards 
@@ -23,3 +29,4 @@ legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 
 - [[NWI1245-dat]]
 
+- [[CAN]]
