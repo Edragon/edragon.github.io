@@ -14,13 +14,20 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
 ## Programmer 
 
-based on [[CMSIS-dap-dat]] - [[st-link-dat]] - [[SWD-dat]] - [[serial-dat]] - [[ST-Utility-dat]] - [[openOCD-dat]] - [[jlink-dat]]
+
 
 - [[DPR1004-dat]] - [[DPR1100-dat]] - [[DPR1130-dat]]
+
+
+software 
 
 IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
 
 SDK library - [[STM32-SDK-HAL-dat]]
+
+based on [[CMSIS-dap-dat]] - [[st-link-dat]] - [[SWD-dat]] - [[serial-dat]] - [[ST-Utility-dat]] - [[openOCD-dat]] - [[jlink-dat]]
+
+common used 
 
 ## Periperals list 
 
