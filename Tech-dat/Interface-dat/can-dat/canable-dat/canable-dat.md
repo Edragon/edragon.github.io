@@ -1,21 +1,24 @@
 
 # canable-dat
 
-
-https://canable.io/getting-started.html
-
 ## firmware version 
 
 
-### slCAN 
+### slCAN - COM-port based 
 
 SLCAN turns the USB-port into a COM-port and transmits strings on it, so 1-byte data requires 2-bytes to be sent, and additional operations are required to convert strings into data structures. SLCAN can also be connected to SocketCAN, so it’s easy to use.
 
 
-### candlelight_fw
+### candlelight_fw - WINUSB based 
 
-https://github.com/candle-usb/candleLight_fw
+- [[cangaroo-dat]]
 
+firmware
+- https://github.com/candle-usb/candleLight_fw
+- https://canable.io/getting-started.html
+
+
+## based on chip 
 
 ### based on STM32F042
 
