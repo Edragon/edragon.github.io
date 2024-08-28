@@ -23,6 +23,15 @@
 | IRF8313 |      | [[Infineon-dat]] |
 
 
+## high power mosfet 
+
+![](2024-08-28-14-43-36.png)
+
+## Parallel using Mosfet for higher performance 
+
+![](2024-08-28-14-44-40.png)
+
+
 ## ref 
 
 - [[mosfet]]
