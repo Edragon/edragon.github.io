@@ -132,8 +132,7 @@ RPI LCD
 - [[OPM1167-dat]] - [[OPM1168-dat]]
 
 [[ACDC-dat]]
-
-- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]]
+- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]] - [[OPM1065-dat]]
 
 battery holder - [[OPM1189-dat]]
 
@@ -147,6 +146,8 @@ Battery charger - [[OPM1181-dat]]
 
 [[relay-modules-dat]] - [[OPM1046-dat]]
 
+USB
+[[OPM1160-dat]]
 
 ### OPS 
 
@@ -339,7 +340,7 @@ Motion sensor
 - [[SMO1020-dat]]
 
 ### STH
-- [[STH1074-DAT]] - [[STH1078-DAT]]
+- [[STH1074-DAT]] - [[STH1078-DAT]] - [[STH1040-dat]]
 
 ### STM
 - [[STM1004-DAT]]

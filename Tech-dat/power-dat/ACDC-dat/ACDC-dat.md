@@ -30,6 +30,10 @@
 - 4x diodes rectify bridge 
 
 
+## function map 
+
+![](2024-08-28-15-15-13.png)
+
 ## ref 
 
 - [[ACDC]]
