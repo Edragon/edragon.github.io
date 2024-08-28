@@ -25,3 +25,12 @@ Blue box
 - GND / +5V 
 - DB9 connector, includes a jumper selector for pin2 
 - cable terminal output RS232 / RS485, 
+
+
+## Design logs 
+
+added
+- power protection
+
+not added 
+- 2.1mm barrel plug
