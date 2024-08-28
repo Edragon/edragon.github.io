@@ -14,10 +14,6 @@ Support APPs or UART interface or Python script or ..
 ![](52-11-17-28-04-2023.png)
 
 
-## Demos 
-
-- https://twitter.com/electro_phoenix/status/1651872392791093249
-
 
 ## Default firmware
 - Please notice we flash UART interface fimware before 2023. April
@@ -55,8 +51,6 @@ Support APPs or UART interface or Python script or ..
 ## demo 
 
 - https://x.com/electro_phoenix/status/1651872392791093249
-
-
 
 
 
