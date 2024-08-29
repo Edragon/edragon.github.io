@@ -25,10 +25,22 @@
   - XH2.00 port 
 
 
+## note 
 
+- all the series battery should be same brand, same brand new batch
+- PRESS slighly hard in case the battery holder didn't hold the batteries well
+- all the jumper can be used to insert voltage monitor 
+- insert only ONE battery group once
+
+## test 
+
+- AG3  = LR41H, battery drop from 2.9V to 1.6V when run the led
 
 ## demo 
 
+
+
+## version 
 
 ## ref 
 
