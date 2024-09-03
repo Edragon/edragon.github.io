@@ -24,6 +24,8 @@ the programmer comes up two part of functions
 - serial USB-TTL port 
 - CMSIS-DAP programmer: please use IDE/SDK like keil-MDK to run it 
 
+please make sure to use a good quality USB-cable, a different USB cable to try is also a good option 
+
 
 ![](2024-09-03-15-55-14.png)
 
@@ -37,6 +39,16 @@ the programmer comes up two part of functions
 * select correct firmware bin file
 * and upload by click "start"
 * target will be auto reset
+
+### work flow 
+
+- please hold down PB1 into online mode, and copy your target bin file into the root folder
+- hold down PB0 and re-enter into offline mode
+- connect the target board, and programmer should show "connected"
+- choose the target board config file, and choose target flashing bin file 
+- hit the "start" to program
+
+
 
 ## hardware 
 - PA13 = target SWDIO
