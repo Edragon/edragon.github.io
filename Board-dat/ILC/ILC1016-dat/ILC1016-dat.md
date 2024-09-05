@@ -1,6 +1,10 @@
 
 # ILC1016-dat
 
+legacy wiki page - https://www.electrodragon.com/w/LCD12864_Shield
+
+
+
 ![](2024-01-22-17-29-35.png)
 
 - [[ILC1008-dat]]
@@ -22,7 +26,9 @@ NRF24
 - NRF_CS - D5 
 - NRF_CE - D6 
 
+## demo video 
 
+- https://www.youtube.com/watch?v=Y37IkFVPCnM
 
 
 ## ref 
