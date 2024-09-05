@@ -23,3 +23,12 @@ And an animal inject tag.
 #### how to design a system based on it 
 
 ![](2024-04-10-15-50-44.png)
+
+
+#### other RFID cards or keys 
+
+- no guarantee the same performance, high quality RFID cards or tags are required!
+
+### performance
+
+- Any microcontrollers should work, and lithium batteries also work, just add more capacitors to filter the noise in the power supply. The performance only changes a little or not if you do good filtering.

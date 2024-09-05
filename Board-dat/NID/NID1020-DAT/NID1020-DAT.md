@@ -2,7 +2,6 @@
 
 # NID1020 DAT - EL125
 
-- legacy wiki page https://w.electrodragon.com/w/Category:EL125
 - accessoires please read at page [[125khz-dat]]
 
 - product link - https://www.electrodragon.com/product/125khz-rfid-long-distance-module-40cm-serial/
@@ -39,10 +38,8 @@
 - test2:           02 30 39 30 30 37 43 42 32 43 30 07 03 
 
 
-## demo code 
 
-- https://w.electrodragon.com/w/Category:EL125
-- or Arduino demo code here: https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/RF/16-RFID/125KHZ/EL-125
+
 
 ### Arduino
 * Use software serial pin 6/7, connect RFID TX data pin to Arduino RX pin 6 or 7
@@ -52,13 +49,17 @@
 
 
 
-## FAQ 
+## checklist 
 
-other RFID cards or keys 
-- no guarantee the same performance, high quality RFID cards or tags are required!
+- make sure there are not other metal materials too close to them, in case to avoid the interferences, which means you may need to clean up your table. 
+- Power supply 5V / GND, use a pure AA *2 battery in case (100% reliable)
+- hook pin 3 to 5V, and try to read serial data out from pin 5 TX
 
-performance
-- Any microcontrollers should work, and lithium batteries also work, just add more capacitors to filter the noise in the power supply. The performance only changes a little or not if you do good filtering.
+
+## demo code 
+
+- https://w.electrodragon.com/w/Category:EL125
+- or Arduino demo code here: https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/RF/16-RFID/125KHZ/EL-125
 
 
 ## demo video 
@@ -69,6 +70,10 @@ performance
 
 
 ## Ref 
+
+- legacy wiki page https://w.electrodragon.com/w/EL125_HDK
+
+- more questions check at the - [[NID1020-faq-dat]] page
 
 - [[125khz-dat]] - [[rfid-dat]]
 
