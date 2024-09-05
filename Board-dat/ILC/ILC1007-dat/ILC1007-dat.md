@@ -15,9 +15,9 @@ with back PCB, 5VIN
 
 ## ref 
 
-- [[ILC1008-dat]] - [[chars-dat]]
+- [[LCD-12864-dat]]
 
-- [[UC1701X-dat]]
+- [[ILC1008-dat]] 
 
 
 - [[ILC1007]]

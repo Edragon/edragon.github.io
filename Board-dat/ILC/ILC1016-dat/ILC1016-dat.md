@@ -7,6 +7,8 @@
 
 ## Pin Definitions 
 
+LCD 
+
 - SCK - D13 
 - MISO - D12
 - MOSI - D11
@@ -14,10 +16,17 @@
 - CD - D9
 - RST - D8 
 
-NRF24_IRQ - D4
-NRF_CS - D5 
-NRF_CE - D6 
+NRF24
 
-5-directional joystick 
+- NRF24_IRQ - D4
+- NRF_CS - D5 
+- NRF_CE - D6 
 
-![](2024-01-22-17-32-19.png)
+
+
+
+## ref 
+
+
+
+- [[NRF24L01-dat]] - [[joystick-dat]] - [[LCD-12864-dat]]

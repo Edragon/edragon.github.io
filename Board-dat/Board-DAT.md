@@ -103,6 +103,8 @@ RPI LCD
 
 [[ILC1007-dat]]
 
+[[LCD-12864-dat]] - [[ILC1016-dat]]
+
 ### ILE
 
 - [[ILE1001-dat]] - [[ILE1047-dat]]
