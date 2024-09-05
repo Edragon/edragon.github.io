@@ -16,7 +16,11 @@ for [[IOD1001-dat]]
 // I2C device found at address 0x38  ! // AHT20
 
 
+
+
 ## Boards 
+
+- [[MPC1029-dat]]
 
 - [[AHT20-dat]] - [[KX023-1025-dat]]
 
