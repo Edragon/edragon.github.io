@@ -10,6 +10,17 @@
 
 ![](2024-09-05-17-05-06.png)
 
+Seperated LDO power supply for: 
+- AVDD
+- DVDD
+- 3V3 - CPVDD
+
+
+## Logs 
+
+- R2 version silghly change board layout, all functions remain the same.
+
+
 ## ref 
 
 - [[PCM5102-dat]]
