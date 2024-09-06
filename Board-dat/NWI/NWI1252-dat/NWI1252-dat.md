@@ -34,3 +34,15 @@ added
 
 not added 
 - 2.1mm barrel plug
+
+
+## demo vidoe 
+
+- https://www.youtube.com/shorts/bP3zJOAH-PU
+- https://www.youtube.com/shorts/yHJsV8njQ3E
+- https://www.youtube.com/shorts/BCYFG2o0iMA
+- https://www.youtube.com/shorts/9svPSDBRmKE
+
+
+
+
