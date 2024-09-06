@@ -304,6 +304,8 @@ ESP32-C3
   
 - [[NWI1235-DAT]]
 
+- [[NWI1252-dat]]
+
 ESP32-APP
 - [[NWI1245-DAT]] 
 
