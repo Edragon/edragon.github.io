@@ -126,6 +126,11 @@ Updated by customer:
 - 1) putting a jumper to E-18;
 - 2) consider the panel as 64x64 and set number of panels to 2 instead of 1.
 
+
+## Demo video 
+
+- https://t.me/electrodragon3/57
+
 ## ref 
 
 - [[CCO3546-dat]]

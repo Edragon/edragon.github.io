@@ -1,6 +1,8 @@
 
 # NWI1206 dat 
 
+https://www.electrodragon.com/product/esp32-goo-mini-development-board-wifi-bluetooth-dual-core/
+
 ## Pin Definitions and Size 
 
 ![](56-35-18-04-08-2023.png)
