@@ -4,6 +4,8 @@
 
 ESP32-DevKitC
 
+https://www.electrodragon.com/product/esp32-devkitc/
+
 
 ![](20-34-18-09-08-2023.png)
 
