@@ -8,6 +8,13 @@ https://w.electrodragon.com/w/ESP32_RMP
 
 ![](18-27-13-07-03-2023.png)
 
+## Board map 
+
+![](2024-09-09-15-32-15.png)
+
+- only spare pins IO10 IO9 IO38 IO37
+- SEL1 pin is the SEL-PIN4 in [[HUB75-dat]]
+
 ## Use guide
 
 You will need ESP32 main controller board to stack on it. Includes:
@@ -18,6 +25,8 @@ You will need ESP32 main controller board to stack on it. Includes:
 
 ## PxMatrix Configuration
 
+
+
 * #define P_LAT 22
 * #define P_A 19
 * #define P_B 23
@@ -25,6 +34,7 @@ You will need ESP32 main controller board to stack on it. Includes:
 * #define P_D 5
 * #define P_E 15
 
+Notice to set for ESP32-DEVKITC or ESP32-DEVKITC accordingly, as below:
 
 For ESP32-DEVKITC
 * #define P_OE 16 
@@ -38,7 +48,7 @@ The rest fixed used pin
 * CLK = 14 
 * R1 = 13 
 
-SEL1 pin is the SEL-PIN4 in [[HUB75-dat]]
+
 
 ## demo code 
 
