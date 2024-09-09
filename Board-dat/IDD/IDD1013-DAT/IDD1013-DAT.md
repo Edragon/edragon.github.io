@@ -130,6 +130,10 @@ Updated by customer:
 ## Demo video 
 
 - https://t.me/electrodragon3/57
+- https://t.me/electrodragon3/231
+
+
+
 
 ## ref 
 
