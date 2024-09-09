@@ -15,6 +15,13 @@
 ![](03-46-21-05-03-2023.png)
 
 
+
+## demo video 
+
+- https://t.me/electrodragon3/218
+
+
+
 ## Test Records
 
 BTW: yesterday I tested the same pin connection and library with Orange Pi PC2 (Allwinner H5), and it works fine without problems

@@ -59,7 +59,7 @@ The rest fixed used pin
 
 - PxMatrix Demo video - https://t.me/electrodragon3/20
 - ESP32 with [[IDD1016-dat]] based on code PxMatrix - https://t.me/electrodragon3/41
-
+-  more 1 - https://t.me/electrodragon3/146
 ## ref 
 
 - [[RMP-driver-dat]]
