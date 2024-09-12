@@ -13,3 +13,14 @@ If you don’t copy the DCM files, you will lose the documentation. I believe th
 ** Files that end in “.kicad_mod”, typically in folders with names that end in “.pretty”, are the 2014(?) version of modules (a KiCad “module” is called a “footprint” or a “decal” in other CAD software), one footprint per file, lots of files in the entire “.pretty” library.*
 
 ** Files that end in “.mod” are module libraries (a KiCad “module” is called a “footprint” or a “decal” in other CAD software)*
+
+
+
+
+## Renaming all associated netnames
+
+https://gitlab.com/kicad/code/kicad/-/issues/5151
+
+TIL that Find/Replace is for more than just text (like any other tool)
+
+alt ctrl F
