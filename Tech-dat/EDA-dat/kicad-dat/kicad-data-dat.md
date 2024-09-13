@@ -3,6 +3,8 @@
 
 ## labels 
 
+https://t.me/electrodragon3/253
+
 copy mutiple labels from kicad, paste here, and can be copied back once edition done. 
 
 (label "DAI" (at 100.33 392.43 0) (fields_autoplaced yes)  (effects (font (size 1.27 1.27)) (justify left bottom))(uuid "0cabd4dc-e713-45de-8364-1815a0e2f378"))

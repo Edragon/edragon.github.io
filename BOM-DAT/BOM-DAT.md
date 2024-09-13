@@ -27,6 +27,7 @@ The common bom we hosted
 
 - [[TVS-dat]]
 
+- [[battery-dat]]
 
 ## ref 
 
