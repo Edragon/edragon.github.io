@@ -76,8 +76,15 @@ Industrial / Sensor - [[sensor-dat]]
 
 
 ## Code 
+
 - [[arduino-ide-dat]]
 
+- [[logic-dat]]
+
+
+## EDA
+
+- [[eaglecad-dat]] - [[kicad-dat]]
 
 
 Any interetest demo please contact me to enquiry.

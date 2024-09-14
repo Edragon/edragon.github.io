@@ -1,7 +1,7 @@
 
 # Conn-dat 
 
-- [[conn-PCIE-dat]] - [[conn-pinheader-dat]]
+- [[conn-PCIE-dat]] - [[conn-pin-header-dat]]
 
 - [[Conn-IPEX-dat]] - [[CONN-SMA-dat]]
 

@@ -103,6 +103,8 @@ RPI LCD
 
 [[ILC1007-dat]]
 
+[[LCD-12864-dat]] - [[ILC1016-dat]]
+
 ### ILE
 
 - [[ILE1001-dat]] - [[ILE1047-dat]]
@@ -301,6 +303,8 @@ ESP32-C3
 - [[NWI1226-dat]]
   
 - [[NWI1235-DAT]]
+
+- [[NWI1252-dat]]
 
 ESP32-APP
 - [[NWI1245-DAT]] 

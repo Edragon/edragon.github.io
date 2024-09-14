@@ -22,4 +22,10 @@ https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 
 ## SCH 
 
+with STM32 
+
 ![](2024-01-13-17-39-29.png)
+
+with arduino 
+
+![](2024-09-05-17-24-52.png)

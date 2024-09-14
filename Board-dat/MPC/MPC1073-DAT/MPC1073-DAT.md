@@ -53,6 +53,12 @@ JP1 / JP2 / JP3
 
 - [[MPC1073-dat]] - [[MPC1119-dat]]
 
+
+## demo video 
+
+- https://t.me/electrodragon3/216
+- https://t.me/electrodragon3/217
+
 ## ref 
 
 - https://w.electrodragon.com/w/RPI_RMP_Guide

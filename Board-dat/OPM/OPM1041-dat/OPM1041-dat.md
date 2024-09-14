@@ -9,4 +9,4 @@ https://www.electrodragon.com/product/songle-relay-5v-t73-srd-5vdc-sl-c-5p-brand
 
 ![](2024-01-22-16-55-28.png)
 
-- [[OPM1041]]
+- [[OPM1041]] - [[songle-dat]]
