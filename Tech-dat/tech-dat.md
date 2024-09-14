@@ -53,7 +53,7 @@
 
 - [[display-dat]]
 
-### Sensors 
+### Sensors and actuator 
 
 Industrial / Sensor - [[sensor-dat]]
 
@@ -62,6 +62,8 @@ Industrial / Sensor - [[sensor-dat]]
 [[Motion-sensor-dat]]
 
 - [[PIR-sensor-dat]]
+
+- [[actuator-dat]]
 
 ### Interface 
 
