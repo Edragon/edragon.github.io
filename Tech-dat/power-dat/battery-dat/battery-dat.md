@@ -6,7 +6,7 @@
 
 - [[battery-holder-dat]]
 
-
+- [[alkaline-battery-dat]]
 
 
 ## coin battery dat 
