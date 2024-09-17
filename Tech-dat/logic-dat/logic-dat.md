@@ -8,4 +8,14 @@
 
 - 7404
 
+## 74HC590
+
+- https://assets.nexperia.com/documents/data-sheet/74HC590.pdf
+
+## 
+
+## ref 
+
 - [[Logic-shifter-dat]]
+
+- [[logic-shifter]] - [[digital]]
