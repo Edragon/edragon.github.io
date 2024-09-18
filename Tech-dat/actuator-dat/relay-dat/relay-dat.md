@@ -15,6 +15,7 @@ HF32F-G-5-HS
 
 - [[songle-dat]] - [[hongfa-dat]]
 
+- [[SSR-relay-dat]]
 
 ## ref 
 

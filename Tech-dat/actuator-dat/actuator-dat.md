@@ -1,9 +1,11 @@
 
 # actuator 
 
+
+
 - [[TRIAC-dat]] 
 
-- [[relay-dat]] 
+- [[relay-dat]] - [[SSR-relay-dat]]
 
 - [[servo-dat]]
   
