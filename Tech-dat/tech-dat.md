@@ -63,7 +63,7 @@ Industrial / Sensor - [[sensor-dat]]
 
 - [[PIR-sensor-dat]]
 
-- [[actuator-dat]]
+- [[actuator-dat]] - [[relay-dat]]
 
 ### Interface 
 
