@@ -9,5 +9,6 @@
 
 - safe fuse "YT" soldered as the "tomb" floating
 
-## No Power supply 
+## No Power supply, Short circuits 
 
+- Added a power indicator 
