@@ -62,6 +62,11 @@ In summary:
 - **Choose SSR** if you need isolation, durability, fast switching, or you’re controlling sensitive systems or loads frequently.
 
 
+## datasheet 
+
+- [[omron-dat]]
+
+
 ## ref 
 
 - [[relay]]
