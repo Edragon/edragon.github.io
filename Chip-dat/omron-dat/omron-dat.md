@@ -7,6 +7,9 @@
 - G3MB-202P-12VDC
 - G3MB-202P-24VDC
 
+
+
+
 ## datasheet 
 
 - [[g3mb-ssr-datasheet.pdf]]
