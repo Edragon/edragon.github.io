@@ -4,6 +4,10 @@
 
 The common bom we hosted 
 
+## passive
+
+- [[diode-dat]]
+
 ## Chip 
 
 - [[chip-dat]] - [[chip-cn-dat]]

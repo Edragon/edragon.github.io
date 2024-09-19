@@ -43,7 +43,7 @@ RS232 to RS485 module  - [[DPR1080-dat]]
 
 [[POE-dat]] breakout board 
 
-
+[[powerbus-dat]]
 
 
 ## Boards with breakout boards
