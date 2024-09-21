@@ -79,8 +79,11 @@ JP4
 | env/Scripts/deactivate.bat      | deactivate bat       | -   |
 
 * GIF left Flash guide please see here, see how to use and program it
+
 * Find project folder J:\Git\LPCLINK\code\DAPLink-2\projectfiles\uvision\lpc11u35_arm_watch_stm32f411_if
+
 * Upgrade board to LPC11U35FNI33/501
+
 * Pin wiring for programming for LPC-LINK programmer to a LPC-LINK Blank programmer
  
     right programmer port CLK -> target top right CLK
