@@ -26,6 +26,14 @@
 
 ![](2024-09-18-01-43-55.png)
 
+## PCB layout 
+
+- autoroute - by [[kicad-plugin-dat]]
+
+
+
+
+
 ## PCB 
 
 commom layers 
