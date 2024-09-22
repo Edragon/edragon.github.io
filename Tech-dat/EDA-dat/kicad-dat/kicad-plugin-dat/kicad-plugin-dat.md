@@ -1,9 +1,7 @@
 
 # kicad-plugin
 
-- freerouting - https://hackaday.com/2023/04/14/kicad-autorouting-made-easy/
-
-![](2024-09-22-03-39-54.png)
+## testing 
 
 - interactive html bom 
 - pcb-action-tools
@@ -27,7 +25,6 @@
 - impart gui for kicad 
 - gerber to order 
 - hide references 
-- schematic blocks plug-in
 - KLEPlacement 
 - hierarchicalPCB
 - sparkfun kicad panelizer 
@@ -48,8 +45,14 @@
 - parts placer 
 - set hole diameter 
 - via patterns 
+- schematic blocks plug-in
 
 
+## useful 
+
+- freerouting - https://hackaday.com/2023/04/14/kicad-autorouting-made-easy/
+
+![](2024-09-22-03-39-54.png)
 
 
 ## install java TLS version 
