@@ -30,7 +30,7 @@
 
 - autoroute - by [[kicad-plugin-dat]]
 
-
+- ground pour 
 
 
 
@@ -57,3 +57,6 @@ commom layers
 - 网格 1.0 mm 
 - 缩放 
 
+## ref 
+
+- [[kicad-workflow]] - [[kicad]]
