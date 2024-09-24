@@ -14,7 +14,7 @@ https://www.electrodragon.com/product/esp32-can-rs-485-wire-interface-shield/
 
 ## Used ESP32-DevKitC Pins
 
-- [[NWI1100-dat]]
+- [[NWI1100-dat]] - [[NWI1206-dat]]
 
 UART2 (CAN UART)
 - IO23 = CAN0_TX
