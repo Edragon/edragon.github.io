@@ -87,7 +87,7 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 - [[NWI1124-DAT]]
 - [[NWI1125-DAT]]
-- [[NWI1126]]
+- [[NWI1126-fab]]
 
 - [[ESP32-dat]] - code at [[arduino-esp32-dat]]
 
