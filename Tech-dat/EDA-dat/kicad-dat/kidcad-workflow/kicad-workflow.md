@@ -26,6 +26,14 @@
 
 ![](2024-09-18-01-43-55.png)
 
+## PCB layout 
+
+- autoroute - by [[kicad-plugin-dat]]
+
+- ground pour 
+
+
+
 ## PCB 
 
 commom layers 
@@ -49,3 +57,6 @@ commom layers
 - 网格 1.0 mm 
 - 缩放 
 
+## ref 
+
+- [[kicad-workflow]] - [[kicad]]

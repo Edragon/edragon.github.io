@@ -47,6 +47,8 @@
 
 - [[power-protection]]
 
+- [[battery-dat]]
+
 ### Interactive
 
 - [[LED-dat]] - [[LED-strip-dat]]
