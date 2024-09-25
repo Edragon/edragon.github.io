@@ -3,6 +3,7 @@
 
 https://en.wikipedia.org/wiki/JST_connector
 
+- also called RCY connector, BEC connector 
 
 ## male and female connector 
 
