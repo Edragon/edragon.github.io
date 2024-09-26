@@ -6,6 +6,7 @@
 ![](2024-08-29-01-37-01.png)
 
 
+
 red box 
 - data communication LED indicator 
 - spare pins 
@@ -26,6 +27,13 @@ Blue box
 - DB9 connector, includes a jumper selector for pin2 
 - cable terminal output RS232 / RS485, 
 
+## V1 
+
+![](2024-09-26-22-14-43.png)
+
+- set red jumpers for RS485
+- set blue jumpers for RS232
+
 
 ## Design logs 
 
@@ -43,6 +51,8 @@ not added
 - https://www.youtube.com/shorts/BCYFG2o0iMA
 - https://www.youtube.com/shorts/9svPSDBRmKE
 
+## ref 
 
+- [[RS232-dat]]
 
 
