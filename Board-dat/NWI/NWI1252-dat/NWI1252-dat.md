@@ -51,7 +51,11 @@ not added
 - https://www.youtube.com/shorts/BCYFG2o0iMA
 - https://www.youtube.com/shorts/9svPSDBRmKE
 
+
+
 ## ref 
+
+- [[arduino-dat]]
 
 - [[RS232-dat]]
 
