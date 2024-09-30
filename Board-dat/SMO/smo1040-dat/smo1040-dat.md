@@ -4,3 +4,8 @@
 10PCs Mercury Switch 3mm One-Direction
 
 https://www.electrodragon.com/product/mercury-switch/
+
+
+## ref 
+
+- [[SMO1040]]
