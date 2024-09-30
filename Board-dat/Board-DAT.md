@@ -338,6 +338,9 @@ Darlinton driver - [[SCU1024-dat]]
 - [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1113-DAT]] - [[sdr1070-dat]]
 
 ### SMO
+
+- [[SMO1013-dat]]
+
 - [[SMO1095-DAT]] - [[SMO1099-dat]]
   
 PIR Sensors
