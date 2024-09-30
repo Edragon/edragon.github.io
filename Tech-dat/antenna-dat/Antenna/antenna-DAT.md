@@ -2,23 +2,15 @@
 # antenna-dat
 
 表 28：GNSS 频率
-类型 频率 单位
-GPS/Galileo/QZSS 1575.42 ±1.023 MHz
-GLONASS 1597.5~1605.8 MHz
-BeiDou 1561.098 ±2.046 MHz
+
+| type             | frequencies     | units |
+| ---------------- | --------------- | ----- |
+| GPS/Galileo/QZSS | 1575.42 ±1.023  | MHz   |
+| GLONASS          | 1597.5~1605.8   | MHz   |
+| BeiDou           | 1561.098 ±2.046 | MHz   |
 
 
 - [[NAN1001-dat]] - [[NAN1003-dat]] - [[NAN1005-dat]] - [[NAN1008-dat]]
-
-GPS Magnetic Active External Antenna 3M 5Dbi
-https://www.electrodragon.com/product/gps-magenatic-active-external-antenna-3m/
-
-2PCs Quad-band Cellular GSM Antenna SMA 2Dbi
-https://www.electrodragon.com/product/quad-band-cellular-duck-antenna-sma/
-
-
-
-- [[ipex-dat]]
 
 
 
@@ -33,7 +25,7 @@ https://www.electrodragon.com/product/quad-band-cellular-duck-antenna-sma/
 ## Connection Type 
 
 - Wire or Pin Soldering
-- u.FL IPEX 
+- u.FL IPEX  - [[ipex-dat]]
 - SMA inner-hole or inner-pin
 
 
@@ -54,8 +46,9 @@ https://www.electrodragon.com/product/pcb-build-antenna-4g-gsm-3g-wcdma-gprs/
 SMA antenna 3 Meters
 https://www.electrodragon.com/product/gps-magenatic-active-external-antenna-3m/
 
-SMA small-size antenna
+SMA small-size antenna - 2PCs Quad-band Cellular GSM Antenna SMA 2Dbi
 https://www.electrodragon.com/product/quad-band-cellular-duck-antenna-sma/
+
 
 ### RF antenna:
 
@@ -66,6 +59,9 @@ spring coil antenna
 https://www.electrodragon.com/product/spring-coil-antenna-433-mhz/
 
 ### GPS antenna
+
+GPS Magnetic Active External Antenna 3M 5Dbi
+https://www.electrodragon.com/product/gps-magenatic-active-external-antenna-3m/
 
 ceramic mini antenna
 https://www.electrodragon.com/product/gps-ceramic-antenna-build/
