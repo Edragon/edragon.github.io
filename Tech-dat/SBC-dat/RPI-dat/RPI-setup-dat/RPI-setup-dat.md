@@ -1,7 +1,16 @@
 
 # RPI-setup-dat
 
-## login 
+## download OS image 
+
+- https://www.raspberrypi.com/software/
+- https://www.raspberrypi.com/software/operating-systems/
+
+- 64 bit lite OS - https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz
+
+## headless 
+
+### login 
 
 - default login user = pi, pass = raspberry  
 
@@ -9,7 +18,26 @@
 
 ![](2024-09-30-19-19-11.png)
 
-## network 
+### prewritten wifi config 
+
+create a text file called wpa_supplicant.conf, and place it in the root directory of the microSD card. You will need the following text in the file.
+
+    country=US
+    ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+    update_config=1
+
+    network={
+        scan_ssid=1
+        ssid="111"
+        psk="electrodragon"
+    }
+
+### turn on ssh
+
+For Windows: Create a file named ssh, without any extension, on the boot partition of the SD card.
+
+
+### network 
 
 - [[rpi-dat]] has built-in wifi 
 
@@ -33,5 +61,32 @@ iwconfig
 - iwgetid will give you the SSID
 
 
+#### multipe wifi 
+
+https://raspberrypi.stackexchange.com/questions/11631/how-to-setup-multiple-wifi-networks
+
+Edit /etc/wpa_supplicant/wpa_supplicant.conf and add id_str="school" under the schools wpa info and id_str="home" under your homes wpa info. Your file should now look similar to this:
+
+    ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+    update_config=1
+
+    network={
+        ssid="111"
+        psk="electrodragon"
+        id_str="school"
+    }
+
+    network={
+        ssid="FF_W"
+        psk="123456789"
+        id_str="home"
+    }
 
 
+
+
+## remove extra apps 
+
+- libreoffice-common
+- chromium
+- python2.7
