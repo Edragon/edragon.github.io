@@ -37,3 +37,5 @@ full module SCH
 ## ref 
 
 - [[IR-reflective-sensor-dat]]
+
+- [[SMO1070]]

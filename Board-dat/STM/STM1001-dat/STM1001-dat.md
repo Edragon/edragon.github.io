@@ -1,6 +1,7 @@
 
 # STM1001-dat
 
+legacy wiki page 
 https://w.electrodragon.com/w/STM32F0_HDK
 
 STM32F030F4P6 Mini. Dev. Board
