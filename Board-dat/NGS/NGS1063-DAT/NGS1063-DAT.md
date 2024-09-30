@@ -36,7 +36,7 @@ legacy wiki info
 
 - [[ED20]] - [[NGS1063]]
 
-- [[quectel-GNSS-AT]]
+- [[quectel-GNSS-AT-dat]]
 
 
 - [[NGS1063-HDK-V1-DAT]]
