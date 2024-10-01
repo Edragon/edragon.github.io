@@ -21,9 +21,16 @@ HF32F-G-5-HS
 
 ## relay control schematic 
 
-using N-mos mosfet control 
+## using N-mos mosfet control 
 
 ![](2024-09-18-17-41-35.png)
+
+## using NPN transistor drive 
+
+![](2024-10-01-19-16-11.png)
+
+- [[transistor-dat]]
+
 
 ### fly back diode 
 
