@@ -90,3 +90,29 @@ Edit /etc/wpa_supplicant/wpa_supplicant.conf and add id_str="school" under the s
 - libreoffice-common
 - chromium
 - python2.7
+
+## updates 
+
+- check architectures armv7l or aarch64
+
+### sources list 
+
+- /etc/apt/sources.list.d/raspi.list 是存放额外软件源的目录。
+- /etc/apt/sources.list 是主要的系统软件源文件。
+- /etc/sources.list.d/raspi.list 是与 Raspberry Pi 相关的软件源配置文件。
+
+
+
+### setup the CN GFW mirror updating sources 
+
+首先通过 uname -m 确定你使用的系统的架构。
+
+编辑镜像站后，请使用sudo apt-get update命令，更新软件源列表，同时检查您的编辑是否正确。
+
+https://mirrors.tuna.tsinghua.edu.cn/help/raspbian/
+
+选择你的 Raspbian 对应的 Debian 版本 Debian 12 (bookworm)
+
+    deb https://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ bookworm main
+
+- ref https://mirrors.tuna.tsinghua.edu.cn/help/raspberrypi/

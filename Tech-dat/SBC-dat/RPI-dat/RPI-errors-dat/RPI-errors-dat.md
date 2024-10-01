@@ -20,9 +20,10 @@ to
 
 
 
-- /etc/apt/sources.list.d/ 是存放额外软件源的目录。
+- /etc/apt/sources.list.d/raspi.list 是存放额外软件源的目录。
 - /etc/apt/sources.list 是主要的系统软件源文件。
 - /etc/sources.list.d/raspi.list 是与 Raspberry Pi 相关的软件源配置文件。
+
 
 not working options 
 
