@@ -185,6 +185,11 @@ MPC cable
 
 - [[MSP1025-dat]]
 
+
+### NAN
+
+- [[NAN1001-dat]]
+
 ### NBL 
 
 - [[bluetooth-dat]]
@@ -253,6 +258,8 @@ Quectel - 4G - EC20
 
 Quectel - 2G
 - ED20 - [[NGS1063-DAT]]
+
+
 
 
 ### NWL
