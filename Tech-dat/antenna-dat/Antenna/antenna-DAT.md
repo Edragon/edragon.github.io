@@ -60,14 +60,31 @@ https://www.electrodragon.com/product/spring-coil-antenna-433-mhz/
 
 ### GPS antenna
 
-GPS Magnetic Active External Antenna 3M 5Dbi
-https://www.electrodragon.com/product/gps-magenatic-active-external-antenna-3m/
+- [[antenna-dat]]
 
 ceramic mini antenna
 https://www.electrodragon.com/product/gps-ceramic-antenna-build/
 
 large outdoor antenna
 https://www.electrodragon.com/product/gsm-magenatic-external-antenan-3m-5dbi/
+
+
+
+## tech 
+
+### Bias-T (Bias Tee)
+
+A Bias-T (Bias Tee) is an electronic component used in radio frequency (RF) applications, like antennas, to supply DC power to devices while allowing RF signals to pass through. It's typically used to power active antenna components, such as low-noise amplifiers (LNAs), without the need for separate power cables.
+
+A Bias-T consists of three ports:
+
+- RF port: Where the radio signal passes without DC.
+- DC port: Where the power supply is connected.
+- RF+DC port: Where the combined signal (RF and DC) is outputted or inputted.
+
+It works by using inductors and capacitors. The inductor blocks the RF signal but allows DC to pass, while the capacitor blocks DC but allows the RF signal to pass. This way, the antenna can operate without interference from the power supply.
+
+
 
 ## ref
 
