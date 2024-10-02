@@ -9,7 +9,7 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 
 - [[NGS1100-dat]] - [[NGS1101-dat]] - [[NGS1102-dat]] - [[NGS1103-dat]]
 
-
+- [[L76-dat]]
 
 ## L70 series 
 

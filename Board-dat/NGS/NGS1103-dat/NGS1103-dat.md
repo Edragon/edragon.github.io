@@ -5,7 +5,9 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 
 - [[L76-dat]] L-version 
 
+## product image 
 
+![](2024-10-02-20-59-43.png)
 
 
 ## ref 
