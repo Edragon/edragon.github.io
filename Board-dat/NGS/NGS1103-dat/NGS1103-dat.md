@@ -13,3 +13,5 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 - [[quectel-gps-dat]] - [[antenna-dat]]
 
 - [[GNSS-dat]] - [[GPS-dat]] - [[location-dat]]
+
+- [[battery-dat]]

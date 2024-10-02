@@ -12,14 +12,25 @@
 | IO4       | IO       | LORA_IRQ   |
 | IO27      | IO       | LORA_RESET |
 
+## connectors 
+
+- total height = 3.0
+- 12P, 0.8mm pitch 
+
+
+![](2024-10-02-20-05-38.png)
+
+![](2024-10-02-20-05-52.png)
 
 ## base board
 ![](40-27-15-02-08-2023.png)
 
 
-## attach board
+## attach board ref 
 
 ### lora
+
+
 - [[Lora-dat]] - [[ESP32-SPI-dat]]
 
 
@@ -43,3 +54,9 @@
 - removed, due to less popular 
 
 ![](2024-04-11-16-24-27.png)
+
+
+
+## ref 
+
+- [[BTB]]

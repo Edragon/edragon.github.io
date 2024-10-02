@@ -42,7 +42,7 @@
 
 - [[DARS016-dat]]
 
-- [[DAR1053-DAT]] - [[DAR1064-DAT]] - [[DAR1019-dat]]
+- [[DAR1053-DAT]] - [[DAR1060-dat]] - [[DAR1064-DAT]] - [[DAR1019-dat]]
 
 - [[DAR1040-dat]]
   
@@ -232,7 +232,7 @@ SIMCOM - NBIOT - [[SIM7020-dat]]
   
 Quectel - Location 
 
-- GPS L70 - [[NGS1097-DAT]] - [[NGS1100-dat]]
+- GPS L70 - [[NGS1097-DAT]] - [[NGS1100-dat]] - [[NGS1103-dat]] - [[quectel-GPS-dat]]
 
 - [[NGS1078-dat]]
 
