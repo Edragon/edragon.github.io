@@ -19,6 +19,7 @@ apt-get install pip
 
 - pigpio
 - pi74HC595
+- SN74HC165
 - wiringpi 
 
 - build-in library: time, threading, 
