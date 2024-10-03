@@ -4,6 +4,9 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:AVR
 
+- chips offer - without bootloader [[CIC1042-dat]] - with bootloader [[CIC1013-dat]]
+
+
 
 ## DIP 28
 
