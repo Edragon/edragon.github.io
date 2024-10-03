@@ -13,16 +13,29 @@ apt-get install pip
     source .venv/bin/activate
 
     pip install RPi.GPIO
+    pip install SN74HC165
 
 
 ## rpi library 
 
-- pigpio
+- [[pigpio-dat]]
 - pi74HC595
-- SN74HC165
-- wiringpi 
 
-- build-in library: time, threading, 
+- wiringpi 
+- pip3 install woolseyworkshop-circuitpython-74hc165
+
+circuitpython 
+- board
+- digitalio
+- wws_74hc165
+
+
+build-in library: 
+- time, threading, 
+
+### error 
+
+- ~~SN74HC165 ?? ~~
 
 
 ## hardware driver 
