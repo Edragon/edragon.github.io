@@ -2,8 +2,9 @@
 # raspberry pi dat 
 
 
+## hardware 
 
-
+- [[rpi-pin-dat]]
 
 - [[RPI3-dat]]
   
