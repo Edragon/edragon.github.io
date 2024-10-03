@@ -34,7 +34,9 @@
 
 ## demo code 
 
-https://github.com/Edragon/RPI
+- [[rpi-python-dat]] - [[rpi-c-dat]]
+
+- https://github.com/Edragon/RPI
 
 can use commands nohup to run script in background for long term.
 

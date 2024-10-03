@@ -14,6 +14,21 @@ apt-get install pip
 
     pip install RPi.GPIO
 
-    
+
+## rpi library 
+
+- pigpio
+- pi74HC595
+- wiringpi 
+
+- build-in library: time, threading, 
+
+
+## hardware driver 
+
+- [[74HC595-dat]] - [[74HC165-dat]]
+
+
+## ref 
 
 - [[python-dat]]
