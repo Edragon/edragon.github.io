@@ -21,7 +21,7 @@ apt-get install pip
 - [[pigpio-dat]]
 - pi74HC595
 
-- wiringpi 
+- [[wiringpi-dat]] 
 - pip3 install woolseyworkshop-circuitpython-74hc165
 
 circuitpython 

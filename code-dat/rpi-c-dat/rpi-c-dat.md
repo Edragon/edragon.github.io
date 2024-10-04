@@ -8,16 +8,28 @@
     ./2_5449615149826598388: error while loading shared libraries: libwiringPi.so: cannot open shared object file: No such file or directory
 
 
-## WiringPi 
+## library 
 
-https://github.com/WiringPi/WiringPi
-https://github.com/WiringPi/WiringPi
+- [[WiringPi-dat]]
 
-Unzip/use the portable prebuilt verison:
 
-    # unzip the archive
-    tar -xfv wiringpi_3.0.tar.gz
-    Install the debian package:
+## compile 
 
-    # install a dpkg
-    sudo apt install ./wiringpi-3.0-1.deb
+compile 
+
+    g++ rsr.cpp -o rsr2 -lwiringPi
+
+
+## errors 
+
+wrong 32bit version installed: 
+
+    gpio: error while loading shared libraries: libcrypt.so.1: cannot open shared object file: No such file or directory
+
+
+## ref 
+
+- [[rpi-dat]]
+
+
+

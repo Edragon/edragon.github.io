@@ -1,6 +1,15 @@
 
 # RPI-setup-dat
 
+
+## version check 
+
+- "uname -m": is a Linux command that displays the machine architecture.
+- "armv7l": indicates a 32-bit ARM architecture, which is used in older Raspberry Pi models.
+- "aarch64": indicates a 64-bit ARM architecture, which is used in newer Raspberry Pi models like the Raspberry Pi 4.
+
+
+
 ## download OS image 
 
 - https://www.raspberrypi.com/software/
