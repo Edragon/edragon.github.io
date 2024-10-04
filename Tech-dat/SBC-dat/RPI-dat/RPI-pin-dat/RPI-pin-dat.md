@@ -34,3 +34,8 @@
 | Ground | -    | 39  | 40  | 21   | sclk   |
 
 ![](2024-10-03-20-12-54.png)
+
+
+## ref 
+
+- [[RPI-dat]] - [[rpi-python-dat]]

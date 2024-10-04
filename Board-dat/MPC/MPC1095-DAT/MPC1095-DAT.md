@@ -15,3 +15,9 @@ Hub-in USB = to Rasbperry Pi USB Port
 
 - LED flash light, active by pressing backside button SW2
 - You may need to prepare a high watts LED to use this, because it is not a very common function for this board. 
+
+
+## ref 
+
+- [[MPC1095]]
+
