@@ -18,6 +18,7 @@ def main():
     gpio.setmode(gpio.BOARD)
     # shifter = Shifter()
     sh1 = pi74HC595(23, 22, 21, 2)
+
     sh2 = pi74HC595(19, 18, 16, 2)
 
     running = True
@@ -32,11 +33,15 @@ def main():
 
             sh1.clear()
             sh2.clear()
+            sleep(pause)
 
         except KeyboardInterrupt:
             running = False
 
     gpio.cleanup()  # Clean up GPIO pins on exit
+
+
+
 
 if __name__ == "__main__":
     main()
