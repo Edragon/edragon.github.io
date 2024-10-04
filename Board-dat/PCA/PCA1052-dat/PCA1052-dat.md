@@ -5,3 +5,6 @@ https://www.electrodragon.com/product/mm-40p-dupont-prototype-cables-male-male-e
 
 - [[dupont-cables-dat]]
 
+## ref 
+
+- [[PCA1052]]
