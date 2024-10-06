@@ -6,7 +6,7 @@ The common bom we hosted
 
 ## passive
 
-- [[diode-dat]]
+- [[diode-dat]] - [[mosfet-dat]] - [[tvs-dat]] - [[transistor-dat]]
 
 ## Chip 
 
@@ -21,6 +21,8 @@ The common bom we hosted
 - [[BTB-dat]]
 
 - [[optocoupler-dat]]
+
+
 
 ## CONN
 
