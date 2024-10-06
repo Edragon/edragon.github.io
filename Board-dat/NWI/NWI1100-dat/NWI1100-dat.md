@@ -9,6 +9,15 @@ https://www.electrodragon.com/product/esp32-devkitc/
 
 ![](20-34-18-09-08-2023.png)
 
+legacy wiki page
+
+- https://w.electrodragon.com/w/Category:ESP32#Specification_and_ordering_information
+
+- https://w.electrodragon.com/w/ESP32#Documents
+
+- broken link - https://www.espressif.com.cn/en/support/download/documents?keys&field_type_tid%5B%5D=13
+
+
 ## Schematic 
 
 ![](2024-08-05-18-36-06.png)
