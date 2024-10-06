@@ -8,6 +8,9 @@
 
 - [[allegro-dat]]: [[ACS712-dat]]
 
+- [[74xx-dat]]
+
+
 ## ref 
 
 - [[chip]] - [[chip-cn]]
