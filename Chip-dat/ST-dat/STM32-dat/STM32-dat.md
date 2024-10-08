@@ -73,19 +73,36 @@ Generally speaking, when we choose this startup mode, it is to download the prog
 Built-in SRAM, since it is SRAM, naturally there is no program storage capability. This mode is generally used for program debugging. If I only modify a small part of the code, then I need to erase the entire Flash again, which is time-consuming. I can consider starting the code from this mode (that is, in the memory of STM32) for fast program debugging. After the program debugging is completed, download the program to SRAM.
 
 
+## Programming Mode 
 
-## UART 
+### UART 
 
 ![](2024-01-13-17-55-57.png)
 
-## SWD 
+- [[serial-dat]]
+
+### SWD 
 
 ![](2024-01-13-17-56-21.png)
 
 - [[SWD-dat]]
 
+### DFU mode 
+
+After USB is directly connected to the core board, enter the ISP mode (the chip has built-in DFU BootLoader when it leaves the factory), open the STM32CubeProgrammer software and use the USB connection mode to burn the firmware.
+
+PS: When installing the STM32CubeProgrammer software, you need to install the Java environment
+
+![](2024-10-08-17-31-52.png)
+
+
+
 
 ## Demo Code 
+
+
+- [[micropython-dat]] - [[circuit-python-dat]]
+
 
 https://github.com/Edragon/stm32_COMM
 https://github.com/Edragon/STM32-DL-APP

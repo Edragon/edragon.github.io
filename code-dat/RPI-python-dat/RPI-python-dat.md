@@ -24,10 +24,7 @@ apt-get install pip
 - [[wiringpi-dat]] 
 - pip3 install woolseyworkshop-circuitpython-74hc165
 
-circuitpython 
-- board
-- digitalio
-- wws_74hc165
+- [[circuitpython-dat]]
 
 
 build-in library: 

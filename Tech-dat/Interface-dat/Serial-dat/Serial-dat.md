@@ -89,6 +89,9 @@ Booting Mode select
 
 ### Programming STM32
 
+
+![](2024-10-08-17-30-56.png)
+
 - [[STM32-dat]] - ISP USART
 * BOOT0 should be pull to high, foce chip into system memory
 * Flash loader demostrator from official ST = Flasher 
