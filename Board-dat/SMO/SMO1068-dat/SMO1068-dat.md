@@ -14,6 +14,15 @@ When exposed to external pollution or exposed to the air for a long time, the wh
 ![](2023-09-06-17-11-07.png)
 
 
+
+
+## demo video 
+
+- https://www.youtube.com/watch?v=Xuw9frP1GNo
+
+
+
+
 ## ref 
 
 - [[SMO1068]]

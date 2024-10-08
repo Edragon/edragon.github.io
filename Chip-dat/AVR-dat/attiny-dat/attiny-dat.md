@@ -1,18 +1,6 @@
 
 # attiny-dat 
 
-## HDK 
-
-### megaTinyCore Series 
-
-- env setup [[megaTinyCore]]
-
-- [[attiny1604-dat]]
-
-QFN
-- [[ATtiny416-dat]]
-
-
 
 
 ### Attiny 13A 
@@ -29,6 +17,20 @@ QFN
 - http://playground.arduino.cc/Main/ArduinoOnOtherAtmelChips
 
 - tuto - http://highlowtech.org/?p=1695
+
+
+## other LIBs 
+
+ATTinyCore
+- by Spence Konde
+- attiny 85
+- https://github.com/SpenceKonde/ATTinyCore
+
+MicroCore
+- https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
+
+DIY Attiny 
+- https://raw.githubusercontent.com/sleemanj/optiboot/master/dists/package_gogo_diy_attiny_index.json
 
 
 

@@ -35,6 +35,6 @@ Serial port sketch uploading via USB
 
 - [[DAR1060]] 
 
-- [[megaCoreX-dat]]
+- [[megaCoreX-dat]] - [[tinyAVR-dat]]
 
 - [[BTB-dat]] / base
