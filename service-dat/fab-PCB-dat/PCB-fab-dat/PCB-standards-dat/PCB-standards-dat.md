@@ -16,3 +16,8 @@
 | Miscs.    | Mask                   | 0.1mm @ 100%   |        |          |
 | Misc.     | Min. Diameter          |                |        |          |
 | Misc.     | Annular Ring           |                |        |          |
+
+
+## ref 
+
+- [[kicad-dat]]
