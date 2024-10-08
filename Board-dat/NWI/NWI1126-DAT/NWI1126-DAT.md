@@ -36,9 +36,39 @@
 | JP 9 (bottom) | GND (ws2812)          | Red           | reused pins for WRGB channels or WS2812 |         |
 | back_jumper   | ws2812_dat_3.3V       | ws2812_dat_5V | set ws2812 dat pin to 5V output default | default |
 
+#### jumper setup cases
 
-- if you are still confuse, please check the use case at the end of this page. 
+Case 1: Control RGBW 4 channel LED Strips
 
+- LED strips power supply 6~28V (12V or 24V)
+- Board power supply 6~28V
+
+| jumper name | set          |
+| ----------- | ------------ |
+| JP_P        | 6~28V (top)  |
+| JP_L        | 6~28V (top)  |
+| back_jumper | default      |
+| JP_8        | GNR (bottom) |
+| JP_9        | RED (bottom) |
+
+Case 2: Control WS2812 LED Strips
+
+- LED strips power supply 5V
+- Board power supply 6~28V
+
+| jumper name | set                   | position |
+| ----------- | --------------------- | -------- |
+| JP_P        | 6~28V  for the board  | top      |
+| JP_L        | 5V  for the led strip | bottom   |
+| back_jumper | no need change        | default  |
+| JP_8        | WS2812_data           | top      |
+| JP_9        | WS2812_gnd            | top      |
+
+
+#### common mentioned led strips 
+
+12V WS2814 
+- https://www.amazon.com/BTF-LIGHTING-Addressable-20Pixels-100pixel-Flexible/dp/B0B9S5SMDW?th=1
 
 
 ## Upgradation 
@@ -94,33 +124,6 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - [[ESP32-dat]] - code at [[arduino-esp32-dat]]
 
 
-## jumper setup cases
-
-Case 1: Control RGBW 4 channel LED Strips
-
-- LED strips power supply 6~28V (12V or 24V)
-- Board power supply 6~28V
-
-| jumper name | set          |
-| ----------- | ------------ |
-| JP_P        | 6~28V (top)  |
-| JP_L        | 6~28V (top)  |
-| back_jumper | default      |
-| JP_8        | GNR (bottom) |
-| JP_9        | RED (bottom) |
-
-Case 2: Control WS2812 LED Strips
-
-- LED strips power supply 5V
-- Board power supply 6~28V
-
-| jumper name | set               |
-| ----------- | ----------------- |
-| JP_P        | 6~28V (top)       |
-| JP_L        | 5V (bottom)       |
-| back_jumper | default           |
-| JP_8        | WS2812_data (top) |
-| JP_9        | WS2812_gnd (top)  |
 
 
 
