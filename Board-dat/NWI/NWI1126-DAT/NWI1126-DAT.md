@@ -28,15 +28,17 @@
 
 ### Jumpers
 
-| Jumper Name   | Option 1        | Option 2      | Function                                | Note    |
-| ------------- | --------------- | ------------- | --------------------------------------- | ------- |
-| JP_P          | 5V              | 6~28V         | board system power supply               |         |
-| JP_L          | 5V              | 6~28V         | led strip power supply                  |         |
-| JP 8 (top)    | ws2812_dat      | Green         | reused pins for WRGB channels or WS2812 |         |
-| JP 9 (bottom) | ws2812_gnd      | Red           | reused pins for WRGB channels or WS2812 |         |
-| back_jumper   | ws2812_dat_3.3V | ws2812_dat_5V | set ws2812 dat pin to 5V output default | default |
+| Jumper Name   | Option 1              | Option 2      | Function                                | Note    |
+| ------------- | --------------------- | ------------- | --------------------------------------- | ------- |
+| JP_P          | 5V, 12V, etc (ws2812) | 6~28V         | board system power supply               |         |
+| JP_L          | 5V, 12V, etc (ws2812) | 6~28V         | led strip power supply                  |         |
+| JP 8 (top)    | DAT (ws2812)          | Green         | reused pins for WRGB channels or WS2812 |         |
+| JP 9 (bottom) | GND (ws2812)          | Red           | reused pins for WRGB channels or WS2812 |         |
+| back_jumper   | ws2812_dat_3.3V       | ws2812_dat_5V | set ws2812 dat pin to 5V output default | default |
+
 
 - if you are still confuse, please check the use case at the end of this page. 
+
 
 
 ## Upgradation 

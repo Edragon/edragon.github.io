@@ -23,6 +23,13 @@ https://www.electrodragon.com/product/lm25xx-regulator-2596-2940/
 
 
 
+### XL4015 = 37V / 5A 
+
+- [[OPM1171-dat]]
+- https://www.electrodragon.com/product/dc-dc-step-down-adj-power-module-xl4015-4-38v-5a-96/
+
+
+
 
 
 ### Option 401
