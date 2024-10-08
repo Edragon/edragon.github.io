@@ -4,6 +4,38 @@
 
 - [[TI-power-dat]]
 
+
+
+
+- [[OPM1192-dat]] - [[OPM1152-dat]]
+
+### LM2596 = input 3~40V
+
+- [[OPM1003-dat]] - [[LM2596-dat]] ADJ Display version 
+
+https://www.electrodragon.com/product/lm2596-adj-dc-dc-step-module-high-power-wdisplay/
+
+- [[OPM1026-dat]] - ADJ version 
+https://www.electrodragon.com/product/lm2596s-adj-dc-dc-small-tiny-adjustable-step-down-module-3-40vin-1-5-35vout/
+
+- [[6101380-dat]]
+https://www.electrodragon.com/product/lm25xx-regulator-2596-2940/
+
+
+
+
+
+### Option 401
+
+High Efficiency, 1.2MHz, 50V Input, 0.8A Asynchronous Step Down Regulator 
+
+### Option 8201
+
+High Efficiency, Fast Response, 2.0A, 18V Input Synchronous Step Down Regulator 
+
+
+
+
 ## template
 
 | chip         | Co.         | Vin       | Ipeak | Inorm | freq | package | cost CNY  |
