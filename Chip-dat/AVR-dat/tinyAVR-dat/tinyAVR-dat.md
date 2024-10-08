@@ -1,6 +1,26 @@
 
 # tinyAVR-dat
 
+## HDK 
+
+### megaTinyCore Series 
+
+- env setup [[megaTinyCore]]
+
+- [[attiny1604-dat]]
+
+QFN
+- [[ATtiny416-dat]]
+
+
+
+- [[megaCoreX-dat]]
+
+
+
+
+# tinyAVR-dat
+
 
 ## our boards 
 
