@@ -3,7 +3,7 @@
 
 - lib 旧版 符号文件
 
-- [[kicad-workflow]] - [[kicad-plugin-dat]]
+- [[kicad-workflow-dat]] - [[kicad-plugin-dat]]
 
 
 

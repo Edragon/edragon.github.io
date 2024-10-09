@@ -120,6 +120,6 @@ For 5*5 cm and 10*10 cm sample PCBs, the lead time is 4-6 days that not includin
 
 - [[PCB-penalization-dat]]
 - [[PCB-common-error-dat]]
-- [[fab-PCB-dat/PCB-service-dat]]
+- [[fab-PCB-dat/PCB-fab-dat]]
 - [[gerber-tutorial-dat]]
 
