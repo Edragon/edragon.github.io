@@ -11,6 +11,11 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 
 - [[L76-dat]]
 
+
+
+
+
+
 ## L70 series 
 
 - L70 EOF
@@ -25,3 +30,17 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 ## L80 series 
 
 ![](2024-04-15-17-00-46.png)
+
+
+## software 
+
+QGNSS tool
+- https://www.quectel.com/download_zone/
+
+QCOM
+- [[serial-dat]]
+
+
+## ref 
+
+- [[gps-dat]] - [[gnss-dat]]
