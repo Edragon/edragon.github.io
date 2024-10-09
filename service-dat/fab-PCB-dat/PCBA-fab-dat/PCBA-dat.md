@@ -13,6 +13,6 @@
 
 ## PCBA Design 
 
-- [[PCB-service-dat]]
+- [[fab-PCB-dat/PCB-fab-dat]]
 
 - [[penalization-dat]] - [[EDA-dat]]
