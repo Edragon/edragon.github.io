@@ -9,9 +9,18 @@
 
 ![](2024-10-06-16-39-37.png)
 
+### mutiple assign the value
+
+![](2024-10-09-17-15-09.png)
+
+
+
 ### sort network classes network 
 
 - schematic setup -> net classes
+
+
+
 
 ### assign the footprints
 
