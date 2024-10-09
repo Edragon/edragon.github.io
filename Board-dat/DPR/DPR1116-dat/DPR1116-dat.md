@@ -60,8 +60,6 @@ JP4
 
 ## Github DAPlink code, Firmware Updating Guide
 
-[[File:Lpc-link flash.gif|thumbnail]]
-
 * Should only use python 2.7, version 3 may not work
 
 
@@ -98,6 +96,8 @@ JP4
 - [Firmware from DAPLINK github.](https://github.com/ARMmbed/DAPLink)
 
 ## Reference 
+
+- legacy wiki page - https://www.electrodragon.com/w/LPC-LINK
 
 
 * Mbed serial port driver  - https://os.mbed.com/handbook/Windows-serial-configuration
