@@ -13,9 +13,6 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 
 
 
-
-
-
 ## L70 series 
 
 - L70 EOF
