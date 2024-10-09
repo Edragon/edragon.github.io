@@ -38,6 +38,7 @@
 
 - [[bluetooth-dat]]
 
+- [[location-dat]]
 
 ### Power 
 

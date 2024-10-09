@@ -16,6 +16,11 @@
 - gzss
 
 
+## software 
+
+- https://igs.bkg.bund.de/ntrip/download
+
+
 
 
 ## Tesing 

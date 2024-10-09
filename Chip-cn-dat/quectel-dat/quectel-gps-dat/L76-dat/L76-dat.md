@@ -12,6 +12,10 @@ The module can be connected to a dedicated passive or an active single-band GNSS
 - L76-L supports: Additional LNA, I2C
 
 
+## block diagram 
+
+![](2024-10-09-17-58-17.png)
+
 ## standby mode 
 
 Pulling STANDBY pin low will make the GNSS module enter Standby mode and releasing STANDBY pin which has been pulled high internally will make the modules back to Continuous mode. 
@@ -26,6 +30,6 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 
 ## ref 
 
-- [[antenna-dat]]
+- [[antenna-dat]] - [[gps-dat]]
 
 - [[L76]]
