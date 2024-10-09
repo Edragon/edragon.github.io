@@ -28,3 +28,8 @@ log L76-R
 ## QGNSS 
 
 ![](2024-10-09-20-36-28.png)
+
+
+## demo video 
+
+- search at youtube @electrodragonfan 
