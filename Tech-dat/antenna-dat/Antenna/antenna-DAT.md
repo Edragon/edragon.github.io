@@ -12,7 +12,7 @@
 
 - [[NAN1001-dat]] - [[NAN1003-dat]] - [[NAN1005-dat]] - [[NAN1008-dat]]
 
-
+- [[antenna-design-dat]]
 
 ## antenna shape, size and gain 
 
@@ -21,6 +21,26 @@
 | style    | ![](2023-10-27-15-41-39.png) | ![](2023-10-27-15-42-27.png) |
 | gain     | 2dbi                         | 8dbi                         |
 | Features | -                            | foldable                     |
+
+
+## GNSS recommanded antenna specifications 
+
+passive 
+
+- Frequency Range: 1559–1609 MHz 
+- Polarization: RHCP 
+- VSWR: < 2 (Typ.) 
+- Passive Antenna Gain: > 0 dBi
+
+active 
+
+- Frequency Range: 1559–1609 MHz 
+- Polarization: RHCP 
+- VSWR: < 2 (Typ.) 
+- Passive Antenna Gain: > 0 dBi 
+- Active Antenna Noise Figure: < 1.5 dB 
+- Active Antenna Total Gain: < 18 d
+
 
 ## Connection Type 
 
