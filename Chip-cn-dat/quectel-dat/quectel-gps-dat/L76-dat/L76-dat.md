@@ -79,8 +79,13 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 
 - L76-K: [[Quectel_L76K_GNSS_V1.5-1.pdf]]
 
+## boards 
+
+- [[NGS1103-dat]]
 
 ## ref 
+
+
 
 - [[L76-log-dat]]
 
