@@ -2,6 +2,13 @@
 
 ## active antenna 
 
+- A passive antenna is recommended if the antenna can be placed close to the modules, for instance, when the distance between the modules and the antenna is less than 1 m. 
+- Otherwise, use an active antenna, since the insertion loss of RF cable can decrease the CNR of GNSS signal.
+
+
+
+## examples 
+
 ![](36-19-17-14-03-2023.png)
 
 C1 = 0R
