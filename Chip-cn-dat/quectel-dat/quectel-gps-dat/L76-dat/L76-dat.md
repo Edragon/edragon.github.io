@@ -75,6 +75,9 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 - $PQVERNO,R*3f
 
 
+## modules 
+
+- L76-K: [[Quectel_L76K_GNSS_V1.5-1.pdf]]
 
 
 ## ref 
@@ -84,5 +87,7 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 - [[antenna-dat]] - [[gps-dat]] - [[quectel-gps-dat]] - [[quectel-dat]] - [[gnss-dat]]
 
 - [[GPS-antenna-design-dat]]
+
+- [[MT3333-dat]] - [[MTK-dat]]
 
 - [[L76]]

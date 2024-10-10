@@ -33,6 +33,18 @@ Gets whether the GPS/GLONASS/BDS/Galileo satellite seraching is enabled or not.
     $PMTK355*31 
     $PMTK001,355,3,1,1,0,0*33
     
+PMTK838 PMTK_TEST_ANTI_SPOOFING - Enables or disables jamming detection function.
+
+    $PMTK838,1*2C 
+    $PMTK001,838,3,1*2E 
+
+
+PMTK605 PMTK_Q_RELEASE - Queries the firmware release information. See PMTK_DT_RELEASE for the query result.
+
+    $PMTK605*31
+    $PMTK705,MT3333_AXN5.1.9_MODULE_STD_F1_P1,0007,Quectel-L76L,1.0*08
+    $PMTK705,AXN_5.1.6_3333_19010218,0007,Quectel-L76L,1.0*53
+
 ## ref 
 
-- [[GPS-dat]]
+- [[GPS-dat]] - [[quectel-GPS-dat]]
