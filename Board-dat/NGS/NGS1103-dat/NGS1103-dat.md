@@ -10,6 +10,11 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 ![](2024-10-02-20-59-43.png)
 
 
+## V2 
+
+![](2024-10-10-20-31-23.png)
+
+
 ## ref 
 
 - [[quectel-gps-dat]] - [[antenna-dat]]
