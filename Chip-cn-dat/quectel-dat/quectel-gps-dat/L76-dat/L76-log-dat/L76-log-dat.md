@@ -32,4 +32,4 @@ log L76-R
 
 ## demo video 
 
-- search at youtube @electrodragonfan 
+- search at youtube @electrodragonfan  https://www.youtube.com/@electrodragonfan/shorts
