@@ -38,6 +38,16 @@ QCOM
 - [[serial-dat]]
 
 
+
+## Upgrade 
+
+- QGPSFlashTool
+Download the QGPSFlashTool from our website Download Zone.
+
+
+
 ## ref 
+
+- [[quectel-dat]]
 
 - [[gps-dat]] - [[gnss-dat]]
