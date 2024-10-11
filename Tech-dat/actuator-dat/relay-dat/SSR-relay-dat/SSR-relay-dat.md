@@ -61,6 +61,9 @@ In summary:
 - **Choose TRIAC** if you need basic AC control, minimal cost, and don't require isolation.
 - **Choose SSR** if you need isolation, durability, fast switching, or you’re controlling sensitive systems or loads frequently.
 
+## test of SSR
+
+
 
 ## datasheet 
 
@@ -69,4 +72,4 @@ In summary:
 
 ## ref 
 
-- [[relay]] - [[relay-dat]]
+- [[relay]] - [[relay-dat]] - [[ssr-relay]]
