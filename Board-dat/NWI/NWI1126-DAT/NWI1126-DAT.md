@@ -113,17 +113,6 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 ![](2023-10-31-22-14-23.png)
 
-## ref
-
-- read more information regarding how to use the chip here [[ESP32-C3-dat]] - [[ESP32-­C3-­WROOM-­02-DAT]]
-
-- [[NWI1124-DAT]]
-- [[NWI1125-DAT]]
-- [[NWI1126-fab]]
-
-- [[ESP32-dat]] - code at [[arduino-esp32-dat]]
-
-
 
 
 
@@ -144,3 +133,18 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 
 ![](2024-04-03-15-29-43.png)
 
+
+
+
+
+## ref
+
+- read more information regarding how to use the chip here [[ESP32-C3-dat]] - [[ESP32-­C3-­WROOM-­02-DAT]]
+
+- [[NWI1124-DAT]]
+- [[NWI1125-DAT]]
+- [[NWI1126-fab]]
+
+- [[ESP32-dat]] - code at [[arduino-esp32-dat]]
+
+- [[mosfet-dat]] - [[led-driver-dat]]
