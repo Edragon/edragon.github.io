@@ -12,9 +12,6 @@
 
 
 
-
-
-
 ## Glossary
 
 ### DCM = documentation file 
@@ -38,3 +35,8 @@ https://gitlab.com/kicad/code/kicad/-/issues/5151
 TIL that Find/Replace is for more than just text (like any other tool)
 
 alt ctrl F
+
+
+## ref 
+
+- [[kicad]]
