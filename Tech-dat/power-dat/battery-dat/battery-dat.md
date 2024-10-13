@@ -72,7 +72,7 @@ Stable chemistry: Their chemical structure is more resistant to thermal changes,
 | **Features**         | Ideal for devices that require more power and have higher current demands | Ideal for smaller devices that require less power and a more compact size |
 
 
-Key Differences:
+### Key Differences:
 
 Size: AA batteries are larger than AAA batteries, both in diameter and length. This difference in size translates to a larger energy storage capacity for AA batteries.
 
@@ -87,3 +87,6 @@ Usage: Devices that require more energy or have higher power consumption tend to
 
 ## ref 
 
+- [[battery]] - [[l76-dat]] - [[super-cap-dat]]
+
+- [[XH-414H]]

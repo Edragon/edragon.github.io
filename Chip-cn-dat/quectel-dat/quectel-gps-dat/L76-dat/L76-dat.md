@@ -95,4 +95,6 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 
 - [[MT3333-dat]] - [[MTK-dat]]
 
+- [[cuper-cap-dat]]
+
 - [[L76]]
