@@ -31,3 +31,5 @@
 ## ref 
 
 - [[kicad-dat]]
+
+- [[transistor]]
