@@ -1,0 +1,6 @@
+
+# HC32L136-dat
+
+- DS - [[XHSC-HC32L136K8TA-LQ64.pdf]]
+
+- [[ARM1007-dat]]

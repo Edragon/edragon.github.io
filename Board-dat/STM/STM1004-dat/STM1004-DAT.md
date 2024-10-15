@@ -42,7 +42,7 @@ STM32F405RGT6
 
 - https://t.me/electrodragon3/214
 
-- 
+- https://www.youtube.com/shorts/9bh4UcXXi5E
 
 ## ref 
 
