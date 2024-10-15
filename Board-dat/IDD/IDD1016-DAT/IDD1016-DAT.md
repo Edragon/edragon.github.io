@@ -28,6 +28,7 @@ You will need ESP32 main controller board to stack on it. Includes:
 
 
 * #define P_LAT 22
+
 * #define P_A 19
 * #define P_B 23
 * #define P_C 18
@@ -48,6 +49,7 @@ The rest fixed used pin
 * CLK = 14 
 * R1 = 13 
 
+detailed wiring please refer to [pxmatrix code](https://github.com/2dom/PxMatrix)
 
 
 ## demo code 
