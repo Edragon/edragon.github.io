@@ -42,11 +42,14 @@ STM32F405RGT6
 
 - https://t.me/electrodragon3/214
 
-
+- 
 
 ## ref 
 
 - [[MMA7660-dat]] - [[SD-card-dat]] - [[circuits-dat]]
 
 - [[micropython-dat]] firmware please find in out [[repository]]
-- [[STM1004]]
+
+
+
+- [[STM1004]] - [[micropython]]
