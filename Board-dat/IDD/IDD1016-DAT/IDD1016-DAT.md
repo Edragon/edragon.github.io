@@ -64,6 +64,9 @@ detailed wiring please refer to [pxmatrix code](https://github.com/2dom/PxMatrix
 
 - Github code https://github.com/2dom/PxMatrix
 - work with default demo code above 
+- demo code available at [[arduino-ide-dat]] or link (if link broke please search): https://github.com/Edragon/Arduino-ESP32/tree/master/IDD/IDD1016
+
+
 
 ## demo video 
 
