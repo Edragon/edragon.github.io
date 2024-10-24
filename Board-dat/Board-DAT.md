@@ -226,6 +226,8 @@ SIMCOM - 2G - [[SIM800-dat]]
 - [[NGS1070-dat]] - [[NGS1071-dat]]
 - ~~[[NGS1074-dat]]~~
 
+- [[NGS1024-dat]]
+
 SIMCOM - NBIOT - [[SIM7020-dat]]
 - ~~[[NGS1094-dat]] (SIM7020E)~~
 - [[NGS1095-dat]] - [[NGS1096-DAT]]
