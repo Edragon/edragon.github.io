@@ -61,6 +61,9 @@ CH32V003 - SOP8
 SAMD21
 - [[DOD1104-dat]] - [[DOD1107-dat]]
 
+STM32
+- [[DOD1096-dat]]
+
 
 ### DPR
 
