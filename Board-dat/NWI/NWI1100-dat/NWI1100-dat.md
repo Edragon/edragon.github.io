@@ -65,6 +65,12 @@ legacy wiki page
 ![](2024-01-10-11-18-56.png)
 
 
+## version check 
+
+- Please make sure to use original version, otherwise the pin mapping and quality is not the same 
+
+![](2024-10-24-14-49-07.png)
+
 
 
 ## ref 

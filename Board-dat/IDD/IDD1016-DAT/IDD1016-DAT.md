@@ -23,6 +23,12 @@ You will need ESP32 main controller board to stack on it. Includes:
 
 - [[NWI1145-dat]]
 
+Please make sure any of your cloned ESP32 board can match the same pin out
+
+![](2024-10-24-14-48-15.png)
+
+![](2024-10-24-14-49-24.png)
+
 ## PxMatrix Configuration
 
 
@@ -62,6 +68,8 @@ detailed wiring please refer to [pxmatrix code](https://github.com/2dom/PxMatrix
 - PxMatrix Demo video - https://t.me/electrodragon3/20
 - ESP32 with [[IDD1016-dat]] based on code PxMatrix - https://t.me/electrodragon3/41
 -  more 1 - https://t.me/electrodragon3/146
+
+
 ## ref 
 
-- [[RMP-driver-dat]]
+- [[RMP-driver-dat]] - [[IDD1016]]
