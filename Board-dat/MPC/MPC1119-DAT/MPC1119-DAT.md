@@ -66,4 +66,4 @@ P2 pins definitions, 3V3 direct lead out
 
 - [[MPC1119-faq-dat]]
 
-- [[MPC1119]]
+- [[mpc1119]]
