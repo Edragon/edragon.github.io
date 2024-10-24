@@ -68,6 +68,7 @@ legacy wiki page
 ## version check 
 
 - Please make sure to use original version, otherwise the pin mapping and quality is not the same 
+- otherwise you may have problem to use it other stackable boards, like [[IDD1016-dat]]
 
 ![](2024-10-24-14-49-07.png)
 
