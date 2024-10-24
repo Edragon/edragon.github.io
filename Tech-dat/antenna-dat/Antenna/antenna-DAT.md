@@ -9,8 +9,16 @@
 | GLONASS          | 1597.5~1605.8   | MHz   |
 | BeiDou           | 1561.098 ±2.046 | MHz   |
 
+GPS 
+- [[NAN1001-dat]] 
 
-- [[NAN1001-dat]] - [[NAN1003-dat]] - [[NAN1005-dat]] - [[NAN1008-dat]]
+GSM
+- [[NAN1003-dat]] - [[NAN1008-dat]]
+
+SMA to IPEX converter cable 
+- [[NAN1005-dat]]
+  
+
 
 - [[antenna-design-dat]]
 
