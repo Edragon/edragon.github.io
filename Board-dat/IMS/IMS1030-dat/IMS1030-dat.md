@@ -4,8 +4,7 @@
 - legacy wiki page - https://w.electrodragon.com/w/74HC595_Segment_Display
 
 
-![](2024-02-28-14-40-24.png)
-
+![](2024-10-24-18-58-32.png)
 
 ## demo 
 

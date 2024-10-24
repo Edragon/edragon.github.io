@@ -3,6 +3,9 @@
 
 https://www.electrodragon.com/product/stm32f401-mini-dev-board-stm32f401ccu6/
 
+legacy wiki page - https://w.electrodragon.com/w/Category:STM32#F4.2B
+
+
 
 ## Board map 
 
