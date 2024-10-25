@@ -25,6 +25,14 @@ STM32F411 开发板
     - 128 Kbytes of SRAM
 
 
+## schematic 
+
+![](2024-10-25-19-14-08.png)
+
+## SDK
+
+the board is [[micropython-dat]] compatible, load in firmware/bootloader  
+
 ## ref 
 
 
