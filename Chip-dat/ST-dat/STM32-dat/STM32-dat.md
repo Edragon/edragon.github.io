@@ -158,4 +158,6 @@ The embedded bootloader mode is used to reprogram the Flash memory using one of 
 
 - [[STM32]]
 
-- [[ARM-dat]]
+- [[STM8-dat]]
+
+- [[ARM-dat]] - [[arduino-stm32-dat]]
