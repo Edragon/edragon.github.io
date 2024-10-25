@@ -15,20 +15,20 @@
   - for Attiny232, etc, turn all middle switch position ON, the rest switches OFF, and jumper for 2313 ON, switch crystal switch to top
   - For Atmega 328, etc, turn all right switch position ON, the rest switches OFF, and jumper for 2313 OFF, switch crystal switch to bottom
 
-| target series        | SW_left | SW_middle | SW_right | 2313_jumpers | crystal | LED_pin |
-| -------------------- | ------- | --------- | -------- | ------------ | ------- | ------- |
-| group-1 Attiny \*313 | -       | ON        | -        | ON           | -       | D3      |
-| group-2 Attiny \*4   | ON      | -         | -        | -            | -       | ?       |
-| group-3 Atmega       | -       | -         | ON       | -            | ON      | D1      |
+| target series       | SW_left | SW_middle | SW_right | 2313_jumpers | crystal | LED_pin |
+| ------------------- | ------- | --------- | -------- | ------------ | ------- | ------- |
+| group-1 Attiny x4   | ON      | -         | -        | -            | -       | ?       |
+| group-2 Attiny 2313 | -       | ON        | -        | ON           | -       | D3      |
+| group-3 Atmega      | -       | -         | ON       | -            | ON      | D1      |
 
 ### Programming Target Groups
 
-group-1 Attiny \*313
+group-1 Attiny 2313
 
 - Attiny 11 / 12 / 13/ 15 / 45 / 85 (8p)
-- Attiny \*313 (20P)
+- Attiny 2313 (20P)
 
-group-2 Attiny \*4
+group-2 Attiny 44
 
 - Attiny 24 / 44 / 84 (14p)
 
@@ -47,6 +47,9 @@ group-3 Atmega
 ### To use standalone (not-stack)
 
 - plug programmer like USASP on ISP port, or any other programmers
+
+
+
 
 ### Testing
 
