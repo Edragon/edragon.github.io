@@ -10,6 +10,7 @@
 
 - [[74xx-dat]]
 
+- [[microchip-dat]] - [[avr-dat]]
 
 ## ref 
 
