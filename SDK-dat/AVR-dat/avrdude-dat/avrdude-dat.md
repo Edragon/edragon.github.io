@@ -131,4 +131,11 @@ full commands by arduino IDE, this will be failed if use alone
   
 ![](2023-09-12-17-52-25.png)
 
+
+
+## ref 
+
+- [[avr-dat]]
+
+
 - [[avrdude]]
