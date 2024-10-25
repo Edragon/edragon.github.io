@@ -9,6 +9,10 @@ https://docs.arduino.cc/hardware/uno-rev3
 ![](2024-03-26-16-17-03.png)
 
 
+
+
+
+
 ## ref 
 
 - datasheet - https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf
@@ -17,5 +21,7 @@ https://docs.arduino.cc/hardware/uno-rev3
 
 
 ## ref 
+
+- [[avr-dat]]
 
 - [[arduino-dat]]

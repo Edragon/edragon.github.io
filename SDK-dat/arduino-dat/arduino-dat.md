@@ -4,7 +4,7 @@
 - legacy wiki page - https://w.electrodragon.com/w/Category:Arduino
 
 
-
+## boards 
 
 - [[arduino-uno-dat]] - [[arduino-pro-mini-dat]] - [[arduino-nano-dat]] - [[arduino-leonardo-dat]]
 
@@ -24,6 +24,10 @@
 ## Boards 
 
 - [[DAR1053-dat]]
+
+## LIB 
+
+- [[arduino-lib-dat]]
 
 
 ## Programmer 
