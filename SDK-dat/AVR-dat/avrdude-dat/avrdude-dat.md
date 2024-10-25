@@ -58,11 +58,29 @@ CMD3
     avrdude done.  Thank you.
 
 
-## AVRDUDE + USBASP
+## AVRDUDE + USBASP, get start within arduino IDE
 
+- [[avrdude-dat]]
+
+avrdude locate 
+* D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\bin
 * cd D:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\tools\avr\bin
 
-Flash using conf file 
+conf file locate
+* D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\etc
+
+bootloader file locate
+* D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\arduino\avr\bootloaders\optiboot\optiboot_atmega328.hex
+
+running with conf file 
+
+    avrdude -C D:\avrdude.conf -c jtag2updi -P com285 -p avr128db64
+
+based on [[cmd-dat]] varilables 
+
+    %ad% -C %conf% -c USBASP -P USB -p atmega328p
+
+### Read Chip using conf file 
 
     avrdude -CD:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\tools\avr\etc\avrdude.conf -c usbasp -p m328p -b 19200
 
@@ -77,7 +95,7 @@ Flash using conf file
 
     avrdude done.  Thank you.
 
-Read ATMEGA328P
+Correctly Read ATMEGA328P
 
     Reading | ################################################## | 100% 0.02s
 
@@ -87,15 +105,25 @@ Read ATMEGA328P
 
     avrdude done.  Thank you.
 
-Flash bootloader for Arduino UNO
+
+
+### Flash bootloader for Arduino UNO
 
     avrdude -CD:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\tools\avr\etc\avrdude.conf -c usbasp -p m328p -b 19200 -U flash:w:"D:\Git-code\arduino\arduino-1.8.12-windows\arduino-1.8.12\hardware\arduino\avr\bootloaders\optiboot\optiboot_atmega328.hex":a
 
+    set "bl=D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\arduino\avr\bootloaders\optiboot\optiboot_atmega328.hex"
 
-## with conf file 
+    %ad% -C %conf% -c USBASP -p m328p -b 19200 -U flash:w:"%bl%":a
 
-avrdude -C D:\avrdude.conf -c jtag2updi -P com285 -p avr128db64
+    %ad% -C %conf% -c USBASP -p m328p -b 19200 -U flash:w:"%bl%":i -U efuse:w:0xFD:m -U hfuse:w:0xDE:m -U lfuse:w:0xFF:m
 
+full commands by arduino IDE, this will be failed if use alone 
+
+    C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/bin/avrdude -CC:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/etc/avrdude.conf -v -patmega328p -cusbasp -Pusb -Uflash:w:D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\arduino\avr/bootloaders/optiboot/optiboot_atmega328.hex:i -Ulock:w:0x0F:m 
+
+    C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/bin/avrdude -CC:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/etc/avrdude.conf -v -patmega328p -cusbasp -Pusb -Uflash:w:D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\arduino\avr/bootloaders/optiboot/optiboot_atmega328.hex:i -Ulock:w:0x0F:m
+
+- [[avrdude-log-dat]]
 
 ## Supported List 
 
