@@ -3,6 +3,7 @@
 
 - https://github.com/Edragon/Code-MicroPython
 - https://github.com/Edragon/STM32-F4-MicroPython2
+- https://github.com/Edragon/STM32F4_MP-TPY
 
 legacy wiki page - https://w.electrodragon.com/w/Micropython_Guide
 
