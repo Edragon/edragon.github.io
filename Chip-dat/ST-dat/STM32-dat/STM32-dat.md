@@ -6,20 +6,26 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
 - [[STM32F103-dat]] - [[STM32F401-dat]] - [[STM32G030-dat]]
 
-- [[STM8-dat]]
+- [[STM8-dat]] - [[STM32-clone-dat]]
 
 ## Boards 
 
-- [[DOD1084-dat]]
+STM32-F0 - [[STM1001-dat]]
+
+STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
+
+STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]]
 
 ## Programmer 
 
+offline-supported - [[DPR1130-dat]]
+
+[[CMSIS-DAP-dat]] - [[DPR1100-dat]] 
+
+[[ST-LINK-dat]] - [[DPR1004-dat]] 
 
 
-- [[DPR1004-dat]] - [[DPR1100-dat]] - [[DPR1130-dat]]
-
-
-software 
+## software 
 
 IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
 
@@ -160,4 +166,4 @@ The embedded bootloader mode is used to reprogram the Flash memory using one of 
 
 - [[STM8-dat]]
 
-- [[ARM-dat]] - [[arduino-stm32-dat]]
+- [[ARM-dat]] - [[arduino-stm32-dat]] - [[MCU-dat]]

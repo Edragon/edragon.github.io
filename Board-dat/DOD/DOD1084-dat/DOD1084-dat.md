@@ -3,6 +3,8 @@
 
 https://w.electrodragon.com/w/STM32
 
+https://www.electrodragon.com/product/stm32-mini-development-board-r3-stm32f103rct6/
+
 ![](2024-01-13-13-05-45.png)
 
 ![](2024-01-13-18-04-39.png)
