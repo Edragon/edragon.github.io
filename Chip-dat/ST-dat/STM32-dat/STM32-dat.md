@@ -3,6 +3,7 @@
 
 legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
+## chips 
 
 - [[STM32F103-dat]] - [[STM32F401-dat]] - [[STM32G030-dat]]
 
@@ -24,6 +25,11 @@ offline-supported - [[DPR1130-dat]]
 
 [[ST-LINK-dat]] - [[DPR1004-dat]] 
 
+## Applications 
+
+[[CAN-dat]] - [[MSP1061-dat]]
+
+M2M - [[NGS1112-dat]]
 
 ## software 
 
