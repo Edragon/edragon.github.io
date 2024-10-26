@@ -7,8 +7,10 @@
 
 - [[STM32-dat]]
 
+- [[AVR-dat]]
 
-## hotest MCU 
+
+## Common-used MCU 
 
 | model             | price       | category       | footprint                      | features               | boards          |
 | ----------------- | ----------- | -------------- | ------------------------------ | ---------------------- | --------------- |

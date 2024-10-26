@@ -6,28 +6,35 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
 - [[STM32F103-dat]] - [[STM32F401-dat]] - [[STM32G030-dat]]
 
-- [[STM8-dat]]
+- [[STM8-dat]] - [[STM32-clone-dat]]
 
 ## Boards 
 
-- [[DOD1084-dat]]
+STM32-F0 - [[STM1001-dat]]
+
+STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
+
+STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]]
 
 ## Programmer 
 
+offline-supported - [[DPR1130-dat]]
+
+[[CMSIS-DAP-dat]] - [[DPR1100-dat]] 
+
+[[ST-LINK-dat]] - [[DPR1004-dat]] 
 
 
-- [[DPR1004-dat]] - [[DPR1100-dat]] - [[DPR1130-dat]]
-
-
-software 
-
-IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
-
-SDK library - [[STM32-SDK-HAL-dat]]
+## software 
 
 based on [[CMSIS-dap-dat]] - [[st-link-dat]] - [[SWD-dat]] - [[serial-dat]] - [[ST-Utility-dat]] - [[openOCD-dat]] - [[jlink-dat]]
 
-common used 
+firmware - [[micropython-dat]] - [[arduino-stm32-dat]]
+
+official SDK library - [[STM32-SDK-HAL-dat]]
+
+IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
+
 
 ## Periperals list 
 
@@ -160,4 +167,4 @@ The embedded bootloader mode is used to reprogram the Flash memory using one of 
 
 - [[STM8-dat]]
 
-- [[ARM-dat]] - [[arduino-stm32-dat]]
+- [[ARM-dat]] - [[arduino-stm32-dat]] - [[MCU-dat]]
