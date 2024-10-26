@@ -27,13 +27,14 @@ offline-supported - [[DPR1130-dat]]
 
 ## software 
 
-IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
-
-SDK library - [[STM32-SDK-HAL-dat]]
-
 based on [[CMSIS-dap-dat]] - [[st-link-dat]] - [[SWD-dat]] - [[serial-dat]] - [[ST-Utility-dat]] - [[openOCD-dat]] - [[jlink-dat]]
 
-common used 
+firmware - [[micropython-dat]] - [[arduino-stm32-dat]]
+
+official SDK library - [[STM32-SDK-HAL-dat]]
+
+IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
+
 
 ## Periperals list 
 
