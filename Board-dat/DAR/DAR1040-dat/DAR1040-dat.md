@@ -11,4 +11,8 @@ https://www.electrodragon.com/product/edarduino-nano-c-new-usb-ch340/
 
 ![](EDArduino Nano CH340, Arduino-Compatible-2.png)
 
+## ref 
+
+- [[serial-dat]] - [[CH340-dat]]
+
 - [[DAR1040]]
