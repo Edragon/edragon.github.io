@@ -16,3 +16,11 @@
 - Working voltage: AC 220v
 - Adjust voltage. AC 10-220V
 - Note that the load must be connected first and then the voltage can be adjusted.
+
+
+
+## ref 
+
+- [[pulse-generator-dat]]
+
+

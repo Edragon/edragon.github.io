@@ -14,13 +14,22 @@ and analogWrite(127) is a 50% duty cycle (on half the time) for example.
 - ref - https://docs.arduino.cc/learn/microcontrollers/analog-output/
 
 
+## common options 
 
-## project 
+- [[NE555-dat]]
+
+
+## project and boards 
 
 - [[MPC1127]]
 
-## ref 
+- [[SCU1063-dat]]
 
-- [[NE555-dat]]
+## other possible boards 
+
+- [[OPMS080-dat]]
+
+
+## ref 
 
 - [[PWM-dat]]
