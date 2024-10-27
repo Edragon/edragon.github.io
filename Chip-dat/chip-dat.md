@@ -2,8 +2,6 @@
 
 # chip-dat 
 
-- [[chip-cn-dat]]
-
 - [[bosch-dat]]
 
 - [[allegro-dat]]: [[ACS712-dat]]
@@ -12,7 +10,16 @@
 
 - [[microchip-dat]] - [[avr-dat]]
 
+[[MCU-dat]] - [[STC-dat]] - [[nuvonton-dat]]
+
+- [[fairchild-dat]]
+
+
+
+
 ## ref 
+
+- [[chip-cn-dat]]
 
 - [[chip]] - [[chip-cn]]
 
