@@ -9,6 +9,9 @@
 
 - [[AVR-dat]]
 
+- [[STC-dat]]
+
+- [[nuvoton-dat]]
 
 ## Common-used MCU 
 
