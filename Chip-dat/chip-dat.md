@@ -12,7 +12,7 @@
 
 [[MCU-dat]] - [[STC-dat]] - [[nuvonton-dat]]
 
-- [[fairchild-dat]]
+- [[fairchild-dat]] - [[NXP-dat]]
 
 
 

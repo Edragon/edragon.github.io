@@ -3,6 +3,14 @@
 
 - [[TJA1050-dat]]
 
+
+- TJA1042T/3/1J
+- TJA1050
+- TJA1051T/3/1J - http://pdf1.alldatasheet.com/datasheet-pdf/view/19756/PHILIPS/TJA1050T.html
+
+
+
+
 ## TJA1042 vs. TJA1050
 
 The TJA1042 and TJA1050 are both transceiver chips from NXP Semiconductors for Controller Area Network (CAN) bus systems, commonly used in automotive and industrial applications. Here’s a comparison between the two:
@@ -43,3 +51,14 @@ TJA1042: Suitable for modern CAN FD networks with higher data rates, energy effi
 
 TJA1050: Suitable for legacy CAN 2.0 applications with standard data rates and less stringent power or robustness needs.
 Choosing between the two depends on your network requirements, data rate needs, and power efficiency. For newer applications requiring CAN FD, the TJA1042 is the better option, while the TJA1050 remains a cost-effective choice for simpler CAN networks.
+
+
+
+## TJA1051 
+
+- TJA1051: Also supports only CAN 2.0 and is limited to 1 Mbps, like the TJA1050. However, it includes several improvements for increased robustness and efficiency.
+
+- TJA1051: Includes low-power standby and sleep modes, providing power-saving capabilities. This feature makes it similar to the TJA1042 in terms of energy efficiency, even though it doesn't support CAN FD.
+
+- TJA1051: Includes a wake-up feature, making it similar to the TJA1042 in this aspect and enabling it to be used in applications requiring this feature.
+
