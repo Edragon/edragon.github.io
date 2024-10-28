@@ -5,13 +5,15 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
 ## chips 
 
+- [[STM32F042-dat]]
+
 - [[STM32F103-dat]] - [[STM32F401-dat]] - [[STM32G030-dat]]
 
 - [[STM8-dat]] - [[STM32-clone-dat]]
 
 ## Boards 
 
-STM32-F0 - [[STM1001-dat]]
+STM32-F0 - [[STM1001-dat]] 
 
 STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
 

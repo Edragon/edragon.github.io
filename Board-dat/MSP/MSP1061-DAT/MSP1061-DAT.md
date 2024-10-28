@@ -19,8 +19,8 @@ Support APPs or UART interface or Python script or ..
 
 
 ## Default firmware = slCAN
-- Please notice we flash UART interface fimware before 2023. April
-- And Canable firmware after 2023. April
+
+- Please notice we flash UART interface fimware before 2023. April, and Canable firmware after 2023. April
 - If you need upgrade to canable firmware, please try DFU update or flash chip with a .bin file
 - On board LEDs blink on canable version, but not in UART (slCAN) version
 
