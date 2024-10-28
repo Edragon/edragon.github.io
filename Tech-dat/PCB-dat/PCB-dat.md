@@ -1,5 +1,10 @@
 
-## PCB layers 
+# PCB-dat 
+
+
+## basic 
+
+### PCB layers 
 
 | design layers | funcs                            |
 | ------------- | -------------------------------- |
@@ -16,7 +21,24 @@
 | 8   | 0.2032 |
 | 10  | 0.254  |
 | 12  | 0.3048 |
-| 16 | 0.4064
+| 16  | 0.4064 |
+
+
+
+### PCB protection service 
+
+
+- for this module, consider add - Adhesive Solutions on PCBs - [[PCB-Adhesive-dat]]
+- or layered plastic case [[layered-case-dat]]
+- more simple soltuion - [[PMP1037-dat]]
+
+
+
+
+## ref 
+
+
+
 
 
 

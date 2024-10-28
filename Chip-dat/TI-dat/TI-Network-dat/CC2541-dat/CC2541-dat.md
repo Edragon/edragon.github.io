@@ -24,3 +24,8 @@ CC2541 software development kit (SDK): Link: https://www.ti.com/tool/ble-stack
 
 This SDK provides tools, libraries, and examples to develop applications for the CC2541. It includes the BLE-Stack software, which simplifies Bluetooth Low Energy development.
 If you have any specific code-rela
+
+
+## ref 
+
+- [[TI-network-dat]]

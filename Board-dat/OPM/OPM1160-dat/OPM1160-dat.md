@@ -14,8 +14,10 @@ https://twitter.com/electro_phoenix/status/1023474043456909312
 
 ![](2024-07-31-17-08-35.png)
 
+## use guide
 
-
+- for this module, consider add - Adhesive Solutions on PCBs - [[PCB-Adhesive-dat]]
+- or layered plastic case [[layered-case-dat]]
 
 ## CN
 

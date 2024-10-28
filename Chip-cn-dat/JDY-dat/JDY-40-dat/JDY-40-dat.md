@@ -20,4 +20,6 @@
 
 - [[EY-40_English_manual.pdf]]
 
-- [[JDY-dat]]
+- [[JDY-dat]] 
+
+- [[JDY-40]] - [[JDY]]
