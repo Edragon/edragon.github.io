@@ -1,7 +1,7 @@
 
 # SIM7020 DAT
 
-
+- [[NBIOT-dat]] 
 
 
 ## quick setup guide 
@@ -65,7 +65,7 @@ Supported band
 
 - [[SIM7020]] - [[BTB-dat]]
 
-- [[low-power-dat]] - [[SIMCOM-low-power-Dat/SIMCOM-PSM-Dat/SIMCOM-PSM-Dat]]
+- [[low-power-dat]] - [[SIMCOM-PSM-Dat]]
 
 ## doc
 
