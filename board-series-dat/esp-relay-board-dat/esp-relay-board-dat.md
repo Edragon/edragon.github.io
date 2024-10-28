@@ -75,7 +75,7 @@ https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
 
 ## ref
 
-- used enclosure [[case-led-dat]]
+- used enclosure [[case-led]]
 
 - [[relay-dat]] - [[inductive-load-dat]]
 
