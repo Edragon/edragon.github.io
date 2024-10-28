@@ -1,6 +1,8 @@
 
 # IDD1007-dat
 
+this module need to be used with [[ESP8266-dat]] - [[NWI1083-dat]]
+
 https://www.electrodragon.com/product/rgb-dot-matrix-display-drive-wifi-board-esp8266/
 
 legacy wiki page - https://www.electrodragon.com/w/Matrix_Display#ESP8266
@@ -55,5 +57,7 @@ Demo Sketch based on PXMatrix library for our following panels:
 
 
 ## ref 
+
+- [[RMP-driver-dat]]
 
 - [[IDD1007]]

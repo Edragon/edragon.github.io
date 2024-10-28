@@ -10,6 +10,7 @@
 
 - with Orange Pi - [[MPC1123-dat]]
 
+
 ## matrix panel
 
 - [[led-rgb-panel-dat]]
@@ -53,6 +54,9 @@
 - early test 1 - https://www.youtube.com/watch?v=wN-cqQ_2kNs&ab_channel=Electrodragon
 - early test 2 - https://www.youtube.com/watch?v=LgrxaVafo5o&ab_channel=Electrodragon
 
+
+
+
 ## in development
 
 ## ref
@@ -62,3 +66,9 @@
 
 
 - Teensy 3.1/3.2/3.5/3.6 or ESP32 chips (not supported by RGB-matrix-Panel), please look at https://github.com/marcmerlin/SmartMatrix_GFX which offers a GFX compatibility layer on top of https://github.com/pixelmatix/SmartMatrix
+
+- [[IDD1013-dat]] - https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
+- [[IDD1007-dat]] - https://github.com/2dom/PxMatrix
+- [[IDD1016-dat]] - https://github.com/2dom/PxMatrix
+
+
