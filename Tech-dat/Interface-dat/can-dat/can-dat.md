@@ -8,23 +8,37 @@ legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 
 - TI ISO1050DUBR
 
-[[NXP-dat]] 
+CAN Transceiver - [[NXP-CAN-dat]] 
 
-- TJA1042T/3/1J
-- TJA1050
-- TJA1051T/3/1J
+- ADM3052 
 
 
-
+SPI to CAN - [[MCP2551-dat]]
 
 
 ## common software 
 
-- socketCAN - linux 
-- CANtact V0.3 
-- [[Cangaroo-dat]]
-- slCAN
-- python 
+
+| firmware               | note  | builder    | link                                                   |
+| ---------------------- | ----- | ---------- | ------------------------------------------------------ |
+| slCAN canable          |       | canable.io | https://github.com/normaldotcom/canable-fw             |
+| candleLight            |       | canable.io | https://github.com/normaldotcom/candleLight_fw         |
+| Cangaroo               |       | canable.io | https://github.com/normaldotcom/cangaroo/              |
+| canblaster             |       | canable.io | https://github.com/normaldotcom/canblaster             |
+| CANtact-app            | KICAD | cantact.io | https://github.com/linklayer/cantact-app               |
+| SocketCAN on Linux     |       |            |                                                        |
+| python-can             |       |            | https://python-can.readthedocs.io/en/stable/           |
+| UCCBViewer             |       |            | https://github.com/UsbCANConverter-UCCbasic/uCCBViewer |
+| arduino-canbus-monitor |       |            | https://github.com/latonita/arduino-canbus-monitor     |
+|                        |       |            |                                                        |
+|                        |       |            |                                                        |
+|                        |       |            |                                                        |
+|                        |       |            |                                                        |
+
+
+## slCAN UCCB software 
+
+- good tutorial - https://ucandevices.github.io/uccb.html
 
 
 ## Boards 
@@ -34,5 +48,9 @@ legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 - [[ITF1000-dat]]
 
 - [[NWI1245-dat]]
+
+
+
+## ref 
 
 - [[CAN]]
