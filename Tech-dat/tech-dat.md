@@ -26,7 +26,7 @@
 
 ### Processing 
 
-- [[mcu-dat]] - [[SBC-dat]] - [[RPI-dat]]
+- [[mcu-dat]] - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
 ### Network
 

@@ -1,12 +1,10 @@
 
 # AIT-dat 
 
-- [[ESP-01-dat]] 
 
-- [[ESP-07S-dat]]
+- [[esp8266-modules-dat]] - [[esp32-modules-dat]]
 
-- [[ESP-12S-dat]] - [[ESP-12F-dat]]
-
+- [[AI-WB2-12F-DAT]]
 
 ## obselete 
 

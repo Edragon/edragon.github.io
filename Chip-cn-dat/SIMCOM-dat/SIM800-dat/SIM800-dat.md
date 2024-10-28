@@ -1,6 +1,13 @@
 # SIM800-dat
 
+legacy wiki page - https://www.electrodragon.com/w/Category:SIM800
+
+
+
 ## boards
+
+- [[NGS1055-dat]] - [[NGS1056-dat]]
+
 
 - [[NGS1070-dat]] - [[NGS1071-dat]] - [[NGS1072-dat]] - [[NGS1074-dat]]
 
@@ -15,6 +22,9 @@
 
 - LBS = AGPS, LBS (loaction)
 - 2-DEV = Secondary Development
+
+
+
 
 ## Serial Number Versions
 
