@@ -8,9 +8,15 @@ legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 
 - TI ISO1050DUBR
 
+[[NXP-dat]] 
+
 - TJA1042T/3/1J
 - TJA1050
 - TJA1051T/3/1J
+
+
+
+
 
 ## common software 
 
