@@ -22,6 +22,9 @@ baidu DuerOS based on mbedOS
 
 ## ref 
 
+- https://github.com/RDA5981
+
+
 - [[RDA-dat]] -[[enquiry-dat]]
 
 - [[RDA5981-dat]] - [[RDA5856-dat]] - [[RDA5807]] - [[RDA5820]]
