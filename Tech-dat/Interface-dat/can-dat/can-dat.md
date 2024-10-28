@@ -21,16 +21,15 @@ SPI to CAN - [[MCP2551-dat]]
 
 | firmware               | note  | builder    | link                                                   |
 | ---------------------- | ----- | ---------- | ------------------------------------------------------ |
-| slCAN canable          |       | canable.io | https://github.com/normaldotcom/canable-fw             |
+| slCAN (SocketCAN)      | linux | canable.io | https://github.com/normaldotcom/canable-fw             |
 | candleLight            |       | canable.io | https://github.com/normaldotcom/candleLight_fw         |
-| Cangaroo               |       | canable.io | https://github.com/normaldotcom/cangaroo/              |
+| Cangaroo               | WIN   | canable.io | https://github.com/normaldotcom/cangaroo/              |
 | canblaster             |       | canable.io | https://github.com/normaldotcom/canblaster             |
 | CANtact-app            | KICAD | cantact.io | https://github.com/linklayer/cantact-app               |
-| SocketCAN on Linux     |       |            |                                                        |
 | python-can             |       |            | https://python-can.readthedocs.io/en/stable/           |
 | UCCBViewer             |       |            | https://github.com/UsbCANConverter-UCCbasic/uCCBViewer |
 | arduino-canbus-monitor |       |            | https://github.com/latonita/arduino-canbus-monitor     |
-|                        |       |            |                                                        |
+| candleLight            |       | candle-usb | https://github.com/candle-usb/candleLight_fw           |
 |                        |       |            |                                                        |
 |                        |       |            |                                                        |
 |                        |       |            |                                                        |
@@ -39,6 +38,13 @@ SPI to CAN - [[MCP2551-dat]]
 ## slCAN UCCB software 
 
 - good tutorial - https://ucandevices.github.io/uccb.html
+
+
+## Demo 
+
+[[RPI-dat]] board [[ITF1000-dat]] send data to [[MSP1061-dat]] - [[Cantact.gif]]
+
+
 
 
 ## Boards 

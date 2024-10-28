@@ -1,15 +1,20 @@
 
 # NXP-CAN-dat
 
+
+
+## Chips 
+
+
 - [[TJA1050-dat]]
 
+- TJA1040
 
 - TJA1042T/3/1J
 - TJA1050
 - TJA1051T/3/1J - http://pdf1.alldatasheet.com/datasheet-pdf/view/19756/PHILIPS/TJA1050T.html
 
-
-
+* TJA1145?
 
 ## TJA1042 vs. TJA1050
 
@@ -62,3 +67,8 @@ Choosing between the two depends on your network requirements, data rate needs, 
 
 - TJA1051: Includes a wake-up feature, making it similar to the TJA1042 in this aspect and enabling it to be used in applications requiring this feature.
 
+
+
+## ref 
+
+- [[CAN]]
