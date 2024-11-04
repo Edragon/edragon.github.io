@@ -5,6 +5,7 @@
 
 - [[DODS044-dat]] - [[DODS042-dat]]
 
+https://www.electrodragon.com/w/Altera_CPLD_EPM240_EPM570_Dev._Board
 
 
 ## programmer 
@@ -13,7 +14,11 @@
 
 - [[DPR1077-dat]]
 
+### JTAG 
 
+![](2024-11-04-17-50-07.png)
+
+do NOT plug the JTAG cable while powering UP !!
 
 ## software 
 
@@ -39,28 +44,20 @@ XILINX - CPLD
 
 ### Intel / Altera
 
+MAXII is the lowest power, lowest cost CPLD ever - quote from altera website 
+
 * EPM240
 * EPM570
 
 https://www.altera.com/products/cpld/max-series/max-ii/overview.html
 
-#### MAX II
-
-* EPM240 - 8
-* EPM570
+![](2024-11-04-17-54-35.png)
 
 * EPM3032
 * EPM3064
 
 
-### MAX II 
-https://www.altera.com/products/cpld/max-series/max-ii/overview.html
-
-
-https://www.electrodragon.com/w/Altera_CPLD_EPM240_EPM570_Dev._Board
-
-
-### Altera 
+### MAX10 
 
 * max1010m02
 
