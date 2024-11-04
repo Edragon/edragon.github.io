@@ -37,7 +37,7 @@ RS232 to RS485 module  - [[DPR1080-dat]]
 [[Serial-dat]] breakout 
 
 - PL2303 [[DPR1041-dat]] - CH340 [[DPR1042-dat]]
-- CP2102 - [[DPR1003-dat]], [[DPR1002-DAT]]
+- CP2102 - [[DPR1003-dat]], [[DPR1005-dat]]
 - 4x channels - [[DPR1120-dat]]
 
 

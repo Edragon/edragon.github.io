@@ -9,4 +9,9 @@ driver
 
 
 
-- [[DPR1002-dat]] - [[dpr1003-dat]] - [[cp2102-dat]]
+- [[dpr1003-dat]] - [[DPR1005-dat]] - [[cp2102-dat]]
+
+
+## CP2102 VS FT232RL 
+
+![](2024-11-04-14-49-16.png)
