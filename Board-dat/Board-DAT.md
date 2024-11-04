@@ -53,17 +53,21 @@ AVR
 
 ### DOD
 
+[[AVR-dat]]
 - [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]] - [[DOD1060-dat]]
 
+[[RISC-V-dat]]
 CH32V003 - SOP8
 - [[DOD1119-dat]]
 
-SAMD21
+[[SAMD21-dat]]
 - [[DOD1104-dat]] - [[DOD1107-dat]]
 
-STM32
+[[STM32-dat]]
 - [[DOD1096-dat]]
 
+[[CPLD-dat]] / [[FPGA-dat]]
+[[DODS042-dat]] - [[DODS044-dat]]
 
 ### DPR
 

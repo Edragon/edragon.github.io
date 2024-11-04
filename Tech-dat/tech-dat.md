@@ -28,6 +28,9 @@
 
 - [[mcu-dat]] - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
+- [[CPLD-dat]] - [[FPGA-dat]]
+
+
 ### Network
 
 - [[network-dat]]
