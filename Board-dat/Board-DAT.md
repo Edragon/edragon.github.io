@@ -140,7 +140,7 @@ RPI LCD
 - [[OPM1167-dat]] - [[OPM1168-dat]]
 
 [[ACDC-dat]]
-- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]] - [[OPM1065-dat]]
+- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]] - [[OPM1065-dat]] - [[OPM1114-dat]]
 
 battery holder - [[OPM1189-dat]]
 
