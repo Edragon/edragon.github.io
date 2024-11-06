@@ -5,7 +5,7 @@
 
 - **Brazil, Chile, Argentina, South Africa**, customers please MUST provide tax id / or personal ID number for shipment - [[shipment-requirement-dat]]
 
-- Shipment is not cancelled or edited after 24 hours, please see the procedures below
+- Shipment is not cancellable or editable after you place the order 24 hours, please see the procedures below
 
 ## Shipping Procudures  
 
