@@ -6,6 +6,9 @@
 
 - used devices [[OPM1110-dat]] - [[relay-dat]]
 
+- legacy wiki page - https://w.electrodragon.com/w/Category:ESP_Relay_Board
+
+
 
 ## board map 
 
@@ -36,6 +39,11 @@ This is a generate relay board, which may cause restarting when use it drive the
 
 Read more about inductive laod here [[inductive-load-dat]]
 
+
+
+## Bulk order discount 
+
+- 15% for 80 pcs+ discount 
 
 
 ## ref 
