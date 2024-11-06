@@ -1,6 +1,23 @@
 
 # NWI1252-dat
 
+## Board maps 
+
+Power supply 
+
+Wide input voltage range:
+
+- TPS5430: 5.5V to 36V
+- TPS5431: 5.5V to 23V
+
+
+## V1 
+
+![](2024-09-26-22-14-43.png)
+
+- set red jumpers for RS485
+- set blue jumpers for RS232
+
 ## V0
 
 ![](2024-08-29-01-37-01.png)
@@ -27,15 +44,11 @@ Blue box
 - DB9 connector, includes a jumper selector for pin2 
 - cable terminal output RS232 / RS485, 
 
-## V1 
-
-![](2024-09-26-22-14-43.png)
-
-- set red jumpers for RS485
-- set blue jumpers for RS232
 
 
-## Design logs 
+## Design logs
+
+version V1 
 
 added
 - power protection
@@ -57,6 +70,6 @@ not added
 
 - [[arduino-dat]]
 
-- [[RS232-dat]]
+- [[RS232-dat]] - [[DCDC-dat]]
 
-
+- [[NWI1252]]

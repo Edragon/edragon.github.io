@@ -72,6 +72,11 @@ https://www.altera.com/products/cpld/max-series/max-ii/overview.html
 * AG1280Q48
 * AG576SL100 - 18
 
+## demo code 
+
+- https://github.com/Edragon/CLPD_SDK
+
+
 
 ## ref 
 
