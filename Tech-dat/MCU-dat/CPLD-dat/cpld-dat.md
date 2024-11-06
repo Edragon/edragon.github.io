@@ -46,8 +46,8 @@ XILINX - CPLD
 
 MAXII is the lowest power, lowest cost CPLD ever - quote from altera website 
 
-* EPM240
-* EPM570
+* [[EPM240-dat]]
+* [[EPM570-dat]]
 
 https://www.altera.com/products/cpld/max-series/max-ii/overview.html
 
@@ -71,6 +71,11 @@ https://www.altera.com/products/cpld/max-series/max-ii/overview.html
 
 * AG1280Q48
 * AG576SL100 - 18
+
+## demo code 
+
+- https://github.com/Edragon/CLPD_SDK
+
 
 
 ## ref 

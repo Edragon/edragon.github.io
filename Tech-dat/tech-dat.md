@@ -92,7 +92,12 @@ Industrial / Sensor - [[sensor-dat]]
 
 ## EDA
 
-- [[eaglecad-dat]] - [[kicad-dat]]
+- [[EDA-dat]]
+
+## simulator 
+
+- [[EDA-simulation]]
+
 
 
 Any interetest demo please contact me to enquiry.
