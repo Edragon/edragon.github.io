@@ -16,7 +16,7 @@
 ### Tracking no Updates 
 
 - International Shipment: normally 1-3 weeks, if the tracking number is for the local post only. Tracking info may NOT updates during this time, please have a little patient.
-  
+
 ![](2024-11-06-17-39-59.png)
 
 

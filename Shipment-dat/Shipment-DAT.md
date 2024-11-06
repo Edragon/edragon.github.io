@@ -5,8 +5,9 @@
 
 - **Brazil, Chile, Argentina, South Africa**, customers please MUST provide tax id / or personal ID number for shipment - [[shipment-requirement-dat]]
 
+- Shipment is not cancelled or edited after 24 hours, please see the procedures below
 
-## Shipping Details 
+## Shipping Procudures  
 
 
 - **Pre-sort 1~2 days**: From our warehouse to our shipping agent, and further to the major shipping service provider
