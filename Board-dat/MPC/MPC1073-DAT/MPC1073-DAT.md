@@ -47,18 +47,6 @@ JP1 / JP2 / JP3
 
 - [[EEPROM-dat]]
 
-## Board Setup 
-
-* E-Line buffer to either PIN4 or PIN8, refer to the image
-
-| pin | mode 1 | mode 2 | mode 3 |
-| --- | ------ | ------ | ------ |
-| 4   | GND    | E      | GND    |
-| 8   | GND    | GND    | E      |
-
-
-![](2024-11-07-17-27-56.png)
-
 
 ## software 
 
@@ -69,7 +57,7 @@ JP1 / JP2 / JP3
 
 ## Product Series 
 
-- [[MPC1073-dat]] - [[MPC1119-dat]] - [[RMP-driver-dat]]
+![MPC1073-multiplexing-dat/2024-11-07-17-27-56.png](MPC1073-multiplexing-dat/2024-11-07-17-27-56.png)9-dat]] - [[RMP-driver-dat]]
 
 
 
@@ -90,8 +78,11 @@ telegram CH
 
 - [[MPC1073-design-error]] (2022 only)
 
-=== NOT Working Panels ===
-* ICN2153 ICN2053 chips
+- probably NOT supported Panels: ICN2153 ICN2053 chips
+
+- Check the chip type (FM6126A)
+
+
 ## ref 
 
 - https://w.electrodragon.com/w/RPI_RMP_Guide
