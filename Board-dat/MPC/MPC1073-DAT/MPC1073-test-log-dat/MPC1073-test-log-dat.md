@@ -74,3 +74,17 @@ cmd
 ![](2024-11-07-18-13-31.png)
 
 ![](2024-11-07-18-13-39.png)
+
+
+## panel info (obseleted part)
+
+
+| Working Panel   | Panel Specification | Command                                |
+| --------------- | ------------------- | -------------------------------------- |
+| 32x16 P8 or P10 | 1/4                 | ./demo -D 0 --led-rows=8 --led-chain=2 |
+| 32x32 P6        | 1/8                 |                                        |
+| 64x32 P4        | 1/16                |                                        |
+| 64x64 P4        | 1/32                |                                        |
+
+
+

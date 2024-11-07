@@ -133,9 +133,8 @@ by following up setup, the GPIO output should be all good
 
 - [[ds1307-dat]] - [[hub75-dat]]
 
-
+- backup demo code - https://github.com/btc520/RPI-MPC1073
 
 - [[MPC1073]]
 
 
-https://megaman.fandom.com/wiki/Neo_Arcadia
