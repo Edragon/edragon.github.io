@@ -6,7 +6,7 @@ https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 - legacy wiki page - https://w.electrodragon.com/w/RPI_RMP_Guide
 
 
-- [[MPC1073-design-error]] - [[MPC1073-OS-error]] - [[MPC1073-ref-dat]]
+- [[MPC1073-ref-dat]]
 
 - pin definitions please refer to page - [[RMP-driver-dat]]
 
@@ -42,29 +42,64 @@ JP1 / JP2 / JP3
 
 ## Board Functions 
 
-- [[RTC-dat]] - [[EEPROM-dat]]
+- [[RTC-dat]]: on board used battery is CR1220
+
+
+- [[EEPROM-dat]]
+
+## Board Setup 
+
+* E-Line buffer to either PIN4 or PIN8, refer to the image
+
+| pin | mode 1 | mode 2 | mode 3 |
+| --- | ------ | ------ | ------ |
+| 4   | GND    | E      | GND    |
+| 8   | GND    | GND    | E      |
+
+
+![](2024-11-07-17-27-56.png)
 
 
 ## software 
 
 - code: https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/adapter
 
+
+
+
 ## Product Series 
 
-- [[MPC1073-dat]] - [[MPC1119-dat]]
+- [[MPC1073-dat]] - [[MPC1119-dat]] - [[RMP-driver-dat]]
+
 
 
 ## demo video 
 
+- lately test 1 - https://www.youtube.com/watch?v=KG2e6GpXDIY&ab_channel=Electrodragon
+- early test 1 - https://www.youtube.com/watch?v=wN-cqQ_2kNs&ab_channel=Electrodragon
+- early test 2 - https://www.youtube.com/watch?v=LgrxaVafo5o&ab_channel=Electrodragon
+
+telegram CH 
 - https://t.me/electrodragon3/216
 - https://t.me/electrodragon3/217
 
+
+## common FAQ 
+
+- [[MPC1073-OS-error]] - [[MPC1073-test-log-dat.md]]
+
+- [[MPC1073-design-error]] (2022 only)
+
+=== NOT Working Panels ===
+* ICN2153 ICN2053 chips
 ## ref 
 
 - https://w.electrodragon.com/w/RPI_RMP_Guide
 - https://w.electrodragon.com/w/RPI_RMP_HDK
 
 - [[ds1307-dat]] - [[hub75-dat]]
+
+
 
 - [[MPC1073]]
 
