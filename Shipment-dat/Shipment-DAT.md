@@ -20,6 +20,15 @@
 - Local customs office may require extra tax charge for any packages
 
 
+## Shipment FAQ 
+
+- When my package will be shipped? 
+
+We normally send the package on the second day after you place the order, but if some items are out of stock, the delay could be 1-2 days. 
+
+The shipment will further transfer from our warehouse to our shipping agent's warehouse, and further to the airport and go aboard, this normally need extra 1-2 days. 
+
+So we will update your order status normally in 2-4 days.
 
 ## Shipping Methods 
 
