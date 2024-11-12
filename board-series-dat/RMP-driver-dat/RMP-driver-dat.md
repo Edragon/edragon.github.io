@@ -1,7 +1,5 @@
 # RGB Matrix Panel Driver Board
 
-- [[RPI-dat]]
-
 - with raspberry pi - [[MPC1073-dat]] - [[MPC1119-dat]]
 - with ESP32 - [[IDD1013-dat]] - [[IDD1016-dat]]
 - with esp8266 - [[IDD1007-dat]]
@@ -72,7 +70,11 @@ ref
 
 ## in development
 
+- [[RMP-RPI-CM4-dat]]
+
 ## ref
+
+- [[RPI-dat]]
 
 - main code repository - https://github.com/hzeller/rpi-rgb-led-matrix
 - wiring - https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2de97ae80d83588f696387/wiring.md?plain=1#L144
@@ -84,4 +86,4 @@ ref
 - [[IDD1007-dat]] - https://github.com/2dom/PxMatrix
 - [[IDD1016-dat]] - https://github.com/2dom/PxMatrix
 
-
+forum - https://rpi-rgb-led-matrix.discourse.group/t/looking-for-a-small-form-factor-3-channel-solution-smaller-than-electrodragon-active-3-board/905

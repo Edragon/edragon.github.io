@@ -4,7 +4,7 @@ I believe the COMPUTE MODULE has enough pins to drive 6 chains.
 
 See also: https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2de97ae80d83588f696387/wiring.md?plain=1#L144
 
-<details><summary>Table: GPIO-pins for each hardware mapping</summary>
+<summary>Table: GPIO-pins for each hardware mapping</summary>
 
 |                 | regular | adafruit-hat | adafruit-hat-pwm | regular-pi1 | classic | classic-pi1 | compute-module |
 | --------------- | ------- | ------------ | ---------------- | ----------- | ------- | ----------- | -------------- |
@@ -53,5 +53,8 @@ See also: https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2
 | Chain 6/R2      | -       | -            | -                | -           | -       | -           | GPIO 43        |
 | Chain 6/G2      | -       | -            | -                | -           | -       | -           | GPIO 44        |
 | Chain 6/B2      | -       | -            | -                | -           | -       | -           | GPIO 45        |
+
+
+<details>
 
 </details>
