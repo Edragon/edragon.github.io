@@ -7,6 +7,11 @@ Our profit margin is normally at 30% for all products.
 
 For bulk order we can provide up to 15% discount. Please enquiry by emails to info@electrodragon.com for detailed discount setup. 
 
+## Order procedures 
+
+Please add the matching quantity into your cart, and the price will be automatically updated. 
+
+If it is already in your cart, pleas refresh the cart or delete and re-add it. 
 
 
 ## Custom duty 
@@ -21,6 +26,9 @@ International shipment has high risk, if any packages are lost, we will take ove
 Our profit margin is not much, but we are working on the long term customer relationship.
 
 Thank you.
+
+
+
 
 
 
