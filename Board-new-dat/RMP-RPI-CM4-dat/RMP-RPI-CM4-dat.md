@@ -74,5 +74,10 @@ pin definitions for CM module
 
 ## ref 
 
+- [[RMP-driver-dat]]
+
+- [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board-dat]]
+
+
 - https://rpi-rgb-led-matrix.discourse.group/t/curious-has-anyone-implemented-a-cm4-solution/702/3
 
