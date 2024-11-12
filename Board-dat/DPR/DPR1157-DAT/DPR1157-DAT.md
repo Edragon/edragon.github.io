@@ -115,7 +115,7 @@ The file list;
 ## software 
 
 - as a [[Serial-dat]] data communicator, it is driver free in WIN 10 
-
+- default support by official software like [[MDK-ARM-dat]] as a open-source tool [[CMSIS-dap-dat]]
 
 
 ## demo video 
