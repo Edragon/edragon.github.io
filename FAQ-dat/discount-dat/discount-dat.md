@@ -11,7 +11,7 @@ For bulk order we can provide up to 15% discount. Please enquiry by emails to in
 
 Please add the matching quantity into your cart, and the price will be automatically updated. 
 
-If it is already in your cart, pleas refresh the cart or delete and re-add it. 
+If it is already in your cart, please refresh the cart or delete and re-add it. 
 
 
 ## Custom duty 
