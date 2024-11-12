@@ -5,6 +5,8 @@
 
 - [[battery-drainer-dat]]
 
+- [[RMP-RPI-CM4-dat]]
+
 
 ## tech 
 
