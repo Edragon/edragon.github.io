@@ -58,3 +58,9 @@ See also: https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2
 <details>
 
 </details>
+
+
+## ref 
+
+- https://rpi-rgb-led-matrix.discourse.group/t/curious-has-anyone-implemented-a-cm4-solution/702/3
+
