@@ -36,4 +36,4 @@ Thank you.
 
 | SKU             | MOQ   | discount |
 | --------------- | ----- | -------- |
-| [[DPR1130-dat]] | 30pcs | 15%      |
+| [[DPR1157-dat]] | 30pcs | 15%      |

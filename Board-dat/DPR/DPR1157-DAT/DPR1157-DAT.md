@@ -22,7 +22,7 @@ https://www.electrodragon.com/product/chip-holdstm32-online-offline-programmer-d
 
 the programmer comes up two part of functions 
 - serial USB-TTL port 
-- CMSIS-DAP programmer: please use IDE/SDK like keil-MDK to run it 
+- [[CMSIS-DAP-dat]] programmer: please use IDE/SDK like [[MDK-ARM-dat]] to run it 
 
 please make sure to use a good quality USB-cable, a different USB cable to try is also a good option 
 
@@ -30,7 +30,8 @@ please make sure to use a good quality USB-cable, a different USB cable to try i
 ![](2024-09-03-15-55-14.png)
 
 ### offline mode 
-- ready to use out of the box
+
+* ready to use out of the box
 * Power board by powerbank or other USB power supply
 * Connect target via SWD four pins: SWD CLK 3V3 GND
 
@@ -111,6 +112,9 @@ The file list;
 - HC32L136
 
 
+## software 
+
+- as a [[Serial-dat]] data communicator, it is driver free in WIN 10 
 
 
 
