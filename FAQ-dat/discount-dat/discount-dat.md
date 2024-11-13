@@ -34,6 +34,7 @@ Thank you.
 
 ## discount log 
 
-| SKU             | MOQ   | discount |
-| --------------- | ----- | -------- |
-| [[DPR1157-dat]] | 30pcs | 15%      |
+| SKU             | MOQ    | discount |
+| --------------- | ------ | -------- |
+| [[ILC1031-dat]] | 100pcs | 10%      |
+| [[DPR1157-dat]] | 30pcs  | 15%      |
