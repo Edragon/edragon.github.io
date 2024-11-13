@@ -4,9 +4,13 @@
 
 ## supported countries 
 
-- ship to most europe countried 
+- Ship to most europe countried 
 
-- the total delivery time is about 10-25 days
+- The shipment includes international shipment + local speedy delivery 
+
+- The total delivery time is about 10-25 days
+
+- The VAT tax could be prepaid but NOT ganurteed. 
 
 ![](2024-11-13-16-02-10.png)
 
