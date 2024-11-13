@@ -4,7 +4,7 @@
 
 ## supported countries 
 
-- Ship to most europe countried 
+- Ship to most european countries
 
 - The shipment includes international shipment + local speedy delivery 
 
