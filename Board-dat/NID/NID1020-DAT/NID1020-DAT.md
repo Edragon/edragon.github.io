@@ -59,7 +59,7 @@
 ## demo code 
 
 - https://w.electrodragon.com/w/Category:EL125
-- or Arduino demo code here: https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/RF/16-RFID/125KHZ/EL-125
+- or Arduino demo code here: https://github.com/Edragon/arduino-main2/tree/main/0-BSP/NID/NID1020-EL-125
 
 
 ## demo video 
