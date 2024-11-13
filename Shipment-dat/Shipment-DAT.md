@@ -48,7 +48,7 @@ Normal Post, worldwide delivery
 
 ### Express Shipment 
 
-- [[Fedex-dat]] - [[DHL-dat]] - UPS
+- [[FEDEX-CN-dat]] - [[DHL-dat]] - UPS
 
 - [[remote-address-dat]] sometimes will be extrally applied
 
