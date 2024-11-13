@@ -17,3 +17,14 @@
 - **6-Pin and Multi-Pin Fans**: Found in high-end or RGB fans; includes additional lines for RGB control and advanced synchronization. Requires special connectors or RGB-compatible motherboards.
 
 This summary highlights the key differences in functionality and application based on fan wiring types.
+
+
+## order 
+
+- https://www.electrodragon.com/product/dc-brushless-fan-50x50x10mm/
+
+- https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspberry-pi/
+
+## ref 
+
+- [[BOM-dat]]
