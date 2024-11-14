@@ -1,6 +1,6 @@
 
 
-# DPR1130 DAT STM32 offline programmer 
+# DPR1157 DAT STM32 offline programmer 
 
 https://www.electrodragon.com/product/chip-holdstm32-online-offline-programmer-daplink-off-prog/
 
@@ -29,6 +29,7 @@ please make sure to use a good quality USB-cable, a different USB cable to try i
 
 ![](2024-09-03-15-55-14.png)
 
+
 ### offline mode 
 
 * ready to use out of the box
@@ -40,6 +41,7 @@ please make sure to use a good quality USB-cable, a different USB cable to try i
 * select correct firmware bin file
 * and upload by click "start"
 * target will be auto reset
+
 
 ### work flow 
 
@@ -133,4 +135,4 @@ The file list;
 
 - [[STM32-dat]]
 
-- [[DPR1130]]
+- [[DPR1157]]

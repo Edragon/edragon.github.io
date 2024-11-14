@@ -78,7 +78,7 @@ CH32V003 - SOP8
 - [[DPR1126-dat]] - [[DPR1150-dat]]
 
 For ARM devices  
-- [[DPR1130-dat]] - [[DPR1100-dat]]
+- [[DPR1157-dat]] - [[DPR1100-dat]]
 
 [[USB-TTL-dat]] - [[DPR1029-dat]]
 
