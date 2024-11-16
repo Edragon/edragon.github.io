@@ -67,7 +67,7 @@ CH32V003 - SOP8
 - [[DOD1096-dat]]
 
 [[CPLD-dat]] / [[FPGA-dat]]
-[[DODS042-dat]] - [[DODS044-dat]]
+- [[DODS042-dat]] - [[DODS044-dat]]
 
 ### DPR
 
