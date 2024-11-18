@@ -11,3 +11,10 @@
 
 https://www.electrodragon.com/product/wch-link-risc-v-arm-debug-programmer/
 
+
+
+## ref 
+
+- [[DPR1132-dat]]
+
+- [[DPR1133]]

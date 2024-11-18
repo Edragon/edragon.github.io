@@ -67,7 +67,7 @@ CH32V003 - SOP8
 - [[DOD1096-dat]]
 
 [[CPLD-dat]] / [[FPGA-dat]]
-- [[DODS042-dat]] - [[DODS044-dat]]
+- [[DODS040-dat]] - [[DODS042-dat]] - [[DODS044-dat]]
 
 ### DPR
 
@@ -88,7 +88,7 @@ Pogo-Pin
 AVR
 - [[DPR1009-dat]] - [[DPR1045-dat]] - [[DPR1048-dat]]
 
-
+WCH - [[DPR1133-dat]]
 
 ### DVA 
 - [[DVA1002-dat]] - [[DVA1007-dat]]
