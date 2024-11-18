@@ -1,13 +1,16 @@
 
 # DOD1119-dat mini-toy-board-dat
 
+This board is a copy from a commerial toy product, so based on a real selling product, but used a more advanced [[RISC-V-dat]] chip
+
 ## Board map 
 
 ![](2024-08-25-18-15-59.png)
 
 ## Functions 
 
-![](2024-08-25-18-20-35.png)
+![](2024-11-18-17-39-20.png)
+
 
 - the chip does not have a default running program, please design it yourself
 - button and led need to be programmed to act, same for motor driver
@@ -40,4 +43,6 @@
 
 - [[CH32V003-dat]]
 
-- [[mosfet-dat]] - [[battery-charge-dat]]
+- [[mosfet-dat]] - [[battery-charger-dat]]
+
+- [[DOD1119]]

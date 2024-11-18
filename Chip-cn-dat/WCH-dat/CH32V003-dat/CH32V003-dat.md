@@ -12,9 +12,9 @@
 - 1 个SPI 接口
 
 
-### 烧写
+### 烧写 Prog 
 
-- SWIO 
+- SWIO = PD1 / PD4 / PD5 
 - 调试模式：串行单线调试接口
 - [[WCHLink-dat]] - [[SWIO-dat]] - [[MounRiver-dat]] - [[WCH-PROG-dat]]
 
