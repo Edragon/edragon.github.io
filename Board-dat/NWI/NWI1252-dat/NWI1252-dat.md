@@ -18,6 +18,9 @@ Wide input voltage range:
 - set red jumpers for RS485
 - set blue jumpers for RS232
 
+- [[DB9-dat]]
+
+
 ## V0
 
 ![](2024-08-29-01-37-01.png)
