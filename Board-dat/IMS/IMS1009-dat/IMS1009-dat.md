@@ -3,6 +3,17 @@
 
 - https://w.electrodragon.com/w/Parola
 
+
+## Uni Map 
+
+- chain from top-side right to left 
+- Pin Definitions: CLK / LD / DIN / VCC / GND
+
+![](2024-11-19-15-34-42.png)
+
+
+
+
 ## Kit BOM 
 
 | Item                                   | usage                                                         |
