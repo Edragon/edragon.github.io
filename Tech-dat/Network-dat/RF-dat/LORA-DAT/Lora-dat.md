@@ -7,7 +7,19 @@ legacy wiki page
 AIT lora
 - https://w.electrodragon.com/w/AIT_LORA_MOD
 
+## Info 
 
+- LoRa is the physical layer or in simple words is the modulation, the modem or radio, the hardware.
+- LoRaWAN is the network protocol or architecture that works on LoRa.
+
+## Lora 
+
+LoRa ™ is a long-range radio technology "Lo ng- Ra nge" its main features:
+
+- Its spread spectrum modulation allows a significantly greater scope to other technologies.
+- High sensitivity (-168dB) combined with high immunity to interference.
+- Low Consumption (up to 10 years with a battery, good depends on certain characteristics).
+- Low data transfer (up to 255 bytes).
 
 ## Board 
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] - [[MPC1056-dat]]
@@ -56,6 +68,8 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 ## ref
 
 https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
+
+- [[RFM95-dat]]
 
 - [[crystal-dat]]
 
