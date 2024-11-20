@@ -1,0 +1,45 @@
+
+# ESP32-C3-low-power-dat
+
+
+ESP32-C3 Sleep and Low Power Mode Current Consumption
+
+## 1. **Deep Sleep Mode**
+- **Current Consumption:** ~5 µA
+- **Key Features:**
+  - Most of the chip is powered down.
+  - RTC (Real-Time Clock) and ULP (Ultra-Low-Power) coprocessor can remain active for periodic wakeups.
+  - Ideal for applications with infrequent activity (e.g., periodic sensor readings).
+
+## 2. **Light Sleep Mode**
+- **Current Consumption:** ~130 µA
+- **Key Features:**
+  - The CPU is paused, but the system RAM and peripherals remain powered.
+  - Fast wake-up capability for applications needing frequent activity.
+  - Wi-Fi and Bluetooth can maintain connections in this mode.
+
+## 3. **Modem Sleep Mode**
+- **Current Consumption:**
+  - **Wi-Fi active:** ~10 mA to 25 mA (varies with data traffic and configuration).
+  - **Wi-Fi off:** ~2.7 mA
+- **Key Features:**
+  - Wi-Fi and Bluetooth radios can be turned off between data transmissions.
+  - Useful for IoT applications requiring intermittent communication.
+
+## 4. **Active Mode (Idle or Running)**
+- **Current Consumption:**
+  - **CPU Idle:** ~10 mA
+  - **CPU Running:** ~70 mA to 100 mA (depending on clock speed and workload).
+
+## Factors Affecting Current Consumption
+- **Power Supply Voltage:** Lower voltage can slightly reduce power consumption.
+- **Peripheral Use:** Activating GPIO, ADC, or other components increases current.
+- **Wi-Fi/Bluetooth Activity:** Radio transmissions significantly increase current.
+
+## Optimizing Power Consumption
+- Use **Deep Sleep** for long idle periods.
+- Optimize wake-up intervals and duration.
+- Turn off unused peripherals.
+- Use **Modem Sleep** for connected but low-activity states.
+
+> Refer to the ESP32-C3 datasheet or technical reference manual for detailed configuration options.
