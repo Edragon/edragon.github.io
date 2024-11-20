@@ -114,11 +114,17 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 - Now it is enter into flash mode 
 
 
+
+
+
 ## Hardware Flashing 
 
 - notice [[DPR1039-dat]] more stable than common PL2303HX 
 
 ![](2024-07-10-19-32-02.png)
+
+
+
 
 
 ## dev board 

@@ -72,6 +72,7 @@ Blue box
 - https://www.youtube.com/shorts/BCYFG2o0iMA
 - https://www.youtube.com/shorts/9svPSDBRmKE
 
+and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/master/NWI/NWI1252
 
 ## Note 
 
