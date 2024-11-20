@@ -83,6 +83,8 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 - [[kicad-dat]]
 
+- [[DF40-dat]]
+
 
 ## design ref 
 
