@@ -8,6 +8,9 @@ After a long debugging session with an ESP32-C3 Supermini, I have the following 
 
 - Select this board in the IDE: ESP32C3 dev module
 - This should be enabled in the IDE: USB CDC On Boot: "Enabled", however, the JTAG adapter should remain disabled.
+
+![](2024-11-20-17-07-14.png)
+
 - Serial.setTxTimeoutMs(0) may help if no serial monitor is active. See: https://github.com/espressif/arduino-esp32/pull/7583 . This can be used only if USB CDC On Boot is enabled.
 - Using Serial.flush may cause the application to hang. See: https://github.com/espressif/arduino-esp32/issues/9172
 

@@ -1,27 +1,38 @@
 
 # NWI1252-dat
 
+
+
+
+
+## usage 
+
+### Power supply 
+
+Wide input voltage range: 5.5V to 36V - [[dcdc-dat]]
+
+### USB 
+
+- Soldering wirings GND / D+ (green) / D- (white) / VUSB = [[USB-cable-dat]]
+
+![](2024-11-20-17-01-50.png)
+
+
+
+
 ## Board maps 
 
-Power supply 
-
-Wide input voltage range:
-
-- TPS5430: 5.5V to 36V
-- TPS5431: 5.5V to 23V
-
-
-## V1 
+### V1 
 
 ![](2024-09-26-22-14-43.png)
 
-- set red jumpers for RS485
+- set red and yellow jumpers for RS485
 - set blue jumpers for RS232
 
 - [[DB9-dat]]
 
 
-## V0
+### V0 (obseleted)
 
 ![](2024-08-29-01-37-01.png)
 
@@ -30,9 +41,12 @@ Wide input voltage range:
 red box 
 - data communication LED indicator 
 - spare pins 
-- EN button and flash button IO10
+  - IO6 IO7 IO8 
+  - ADC IO2 D+ TXD 3V3
+  - IO1 IO3 D- RXD GND
+- EN button and flash button = IO10
 - power LED
-- flash button programmable LED
+- flash button programmable LED = IO9
 
 yello box
 - Power input 
@@ -49,6 +63,21 @@ Blue box
 
 
 
+
+
+## demo vidoe 
+
+- https://www.youtube.com/shorts/bP3zJOAH-PU
+- https://www.youtube.com/shorts/yHJsV8njQ3E
+- https://www.youtube.com/shorts/BCYFG2o0iMA
+- https://www.youtube.com/shorts/9svPSDBRmKE
+
+
+## Note 
+
+- Case is super rigid, very difficult to open it, use a sharp tool to pry it
+
+
 ## Design logs
 
 version V1 
@@ -60,19 +89,11 @@ not added
 - 2.1mm barrel plug
 
 
-## demo vidoe 
-
-- https://www.youtube.com/shorts/bP3zJOAH-PU
-- https://www.youtube.com/shorts/yHJsV8njQ3E
-- https://www.youtube.com/shorts/BCYFG2o0iMA
-- https://www.youtube.com/shorts/9svPSDBRmKE
-
-
 
 ## ref 
 
-- [[arduino-dat]]
+- [[arduino-dat]] - [[ESP32-C3-dat]] - [[ESP32-C3-USB-dat]]
 
-- [[RS232-dat]] - [[DCDC-dat]]
+- [[RS232-dat]] - [[DCDC-dat]] - [[USB-dat]] - [[case-dat]]
 
 - [[NWI1252]]
