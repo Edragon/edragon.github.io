@@ -69,7 +69,7 @@ Define in [[ESP32-WROVER-dat]] module
 * Based on Arduino TFT_eSPI library
 * Add extra pin definitions, demo code please see [here](https://github.com/Edragon/Arduino-ESP32) (Arduino-ESP32/Sketchbook/Display/).
 
-* Working demo please search [[contact]] channels
+* Working demo please search [[contact-dat]] channels
 
 
 ## Demo 
