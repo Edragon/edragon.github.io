@@ -25,11 +25,9 @@ International shipment has high risk, if any packages are lost, we will take ove
 
 Our profit margin is not much, but we are working on the long term customer relationship.
 
+Find me at the [[contact-dat]] page
+
 Thank you.
-
-
-
-
 
 
 ## discount log 

@@ -6,7 +6,7 @@
 
 ## Contact 
 
-- [[contact]]
+- [[contact-dat]]
 
 ## category 
 
