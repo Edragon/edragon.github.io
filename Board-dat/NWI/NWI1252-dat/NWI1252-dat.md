@@ -97,4 +97,6 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 
 - [[RS232-dat]] - [[DCDC-dat]] - [[USB-dat]] - [[case-dat]]
 
+- [[serial-dat]]
+
 - [[NWI1252]]
