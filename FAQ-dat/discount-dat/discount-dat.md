@@ -34,5 +34,5 @@ Thank you.
 
 | SKU             | MOQ    | discount |
 | --------------- | ------ | -------- |
-| [[ILC1031-dat]] | 100pcs | 10%      |
+| [[ILC1031-dat]] | 30pcs | 10%      |
 | [[DPR1157-dat]] | 30pcs  | 15%      |
