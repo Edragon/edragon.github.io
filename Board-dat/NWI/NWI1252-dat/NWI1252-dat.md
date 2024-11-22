@@ -83,6 +83,7 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 
 | updates                            | status    | version |
 | ---------------------------------- | --------- | ------- |
+| changed and moved a few pins       | added     | V2      |
 | simutaniously RS-232 / RS-485 data | added     | V2      |
 | flipped side DB-9                  | added     | V2      |
 | power reverse protection           | added     | V1      |
@@ -93,7 +94,7 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 
 ## ref 
 
-- [[arduino-dat]] - [[ESP32-C3-dat]] - [[ESP32-C3-USB-dat]]
+- [[arduino-dat]] - [[ESP32-C3-dat]] - [[ESP32-C3-USB-dat]] - [[esp32-dat]]
 
 - [[RS232-dat]] - [[DCDC-dat]] - [[USB-dat]] - [[case-dat]]
 
