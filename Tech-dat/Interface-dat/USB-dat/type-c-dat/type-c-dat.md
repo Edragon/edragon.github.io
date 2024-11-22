@@ -16,6 +16,15 @@ USB Type-C涵盖了USB 3, USB4, Thunderbolt 3, Thunderbolt 4…等许多协议�
 ![](2024-05-09-12-52-02.png)
 
 
+
+
+# type-c-dat
+
+
+## wiring to CM4 
+![](2023-11-30-15-27-29.png)
+
+
 ## ref 
 
-- [[usb]] - [[typec]] - [[typec-cable]]
+- [[usb]] - [[type-c]] - [[type-c-cable]]
