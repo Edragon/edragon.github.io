@@ -6,7 +6,21 @@
 
 - used devices [[OPM1110-dat]] - [[relay-dat]]
 
-## Note:
+- legacy wiki page - https://w.electrodragon.com/w/Category:ESP_Relay_Board
+
+
+
+## board map 
+
+![](2024-11-06-18-30-23.png)
+
+- BTN1 = IO0
+- BTN2 = IO2, also on-module LED 
+- IO4 / IO5 pull-up by resistors 
+- on-board LED IO16
+- reserved DHT22 temperature socket - [[STH1010-dat]] - [[1-wire-dat]] read by pin IO14
+
+## Use guide :
 
 - Please connect the board to sensor by wires, because the PCB and relays will generate heats!! 1-2 degree higher!!
 - The board has exposed high voltage AC connection, be very carefully on this.
@@ -25,6 +39,11 @@ This is a generate relay board, which may cause restarting when use it drive the
 
 Read more about inductive laod here [[inductive-load-dat]]
 
+
+
+## Bulk order discount 
+
+- 15% for 80 pcs+ discount 
 
 
 ## ref 

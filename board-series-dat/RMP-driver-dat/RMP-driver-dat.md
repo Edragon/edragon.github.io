@@ -1,7 +1,5 @@
 # RGB Matrix Panel Driver Board
 
-- [[RPI-dat]]
-
 - with raspberry pi - [[MPC1073-dat]] - [[MPC1119-dat]]
 - with ESP32 - [[IDD1013-dat]] - [[IDD1016-dat]]
 - with esp8266 - [[IDD1007-dat]]
@@ -19,7 +17,7 @@
 
 - [[HUB75-dat]]
 
-## Typical wiring with RPI
+## Typical wiring with RPI - for MPC1073 
 
 | Connection | Pin | Pin | Connection                      |
 | ---------: | :-: | :-: | :------------------------------ |
@@ -44,22 +42,39 @@
 | **[3] R2** | 37  | 38  | **[2] B2**                      |
 |          - | 39  | 40  | **[3] B2**                      |
 
+corresponding pin number: 
+
+* ROW_A = 22
+* ROW_B = 23
+* ROW_C = 24 
+* ROW_D = 25
+* ROW_E = GPIO 15
+* OE = GPIO 18
+* CLK = GPIO 17
+* LAT (STROKE) = GPIO 4
+* P0 R1/G1/B1 = 11 / 27 / 26 
+* P0 R2/G2/B2 = 8 / 9 / 10
+
+* P1 R1/G1/B1 = 12 / 5 / 6 
+* P1 R2/G2/B2 = 19 / 13 / 20
+
+* P2 R1/G1/B1 = 8 / 2 / 3 
+* P2 R2/G2/B2 = 26 / 16 / 21
+
+ref 
 - reference link - https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2de97ae80d83588f696387/wiring.md
 
-
-
-## demo 
-
-- lately test 1 - https://www.youtube.com/watch?v=KG2e6GpXDIY&ab_channel=Electrodragon
-- early test 1 - https://www.youtube.com/watch?v=wN-cqQ_2kNs&ab_channel=Electrodragon
-- early test 2 - https://www.youtube.com/watch?v=LgrxaVafo5o&ab_channel=Electrodragon
 
 
 
 
 ## in development
 
+- [[RMP-RPI-CM4-dat]]
+
 ## ref
+
+- [[RPI-dat]] - [[RMP-driver]]
 
 - main code repository - https://github.com/hzeller/rpi-rgb-led-matrix
 - wiring - https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2de97ae80d83588f696387/wiring.md?plain=1#L144
@@ -71,4 +86,4 @@
 - [[IDD1007-dat]] - https://github.com/2dom/PxMatrix
 - [[IDD1016-dat]] - https://github.com/2dom/PxMatrix
 
-
+forum - https://rpi-rgb-led-matrix.discourse.group/t/looking-for-a-small-form-factor-3-channel-solution-smaller-than-electrodragon-active-3-board/905

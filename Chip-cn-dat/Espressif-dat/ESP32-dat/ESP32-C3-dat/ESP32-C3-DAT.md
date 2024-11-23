@@ -26,6 +26,7 @@
 
 ## ESP32-C3 Chip Info 
 
+## Chip Info 
 
 - chip page 
 - https://www.espressif.com/en/products/socs/esp32-c3
@@ -39,24 +40,19 @@
 
 ## ESP32-C3 Boards 
 
-- [[ESP32-C3-DAT]] 
+- [[NWI1239-dat]] - [[NWI1126-DAT]]
 
-- [[NWI1239-dat]] - [[ESP32-­C3-­WROOM-0­2-DAT]]
-- https://w2.electrodragon.com/gollum/search?q=ESP32-­C3-­WROOM-­02-DAT.md
+- ESP32 C3 super mini ?
 
+## modules 
 
-- [[ESP32-C3-Mini-1-DAT]]
-
-- [[ESP-C3-32S-dat]]
-
-- [[ESP-C3-12F-dat]]
+- [[ESP32-C3-Mini-1-DAT]] - [[ESP-C3-32S-dat]] - [[ESP-C3-12F-dat]] - [[ESP32-­C3-­WROOM-0­2-DAT]]
 
 | models             | lifetime | Compatible      |
 | ------------------ | -------- | --------------- |
 | [[ESP-C3-12F-dat]] | x        | [[ESP-12f-dat]] |
 
-products - 
-- [[NWI1126-DAT]]
+
 
 
 ## Software 
@@ -79,15 +75,13 @@ products -
   * Partion Scheme: Default 4MB with Spiffs
   * Core Debug Level: None
 
-
-
-## Open Issues
+### Open Issues
 
 I2C
 * https://github.com/espressif/arduino-esp32/issues/5478
 
 
-## Boot Log 
+### Boot Log 
 
 If you have a serial USB-TTL bridge board or cable, you can read following debug output from the serial
 
@@ -106,7 +100,17 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
     wait usb download
 
 
-## ESP32-C3 Enter into Flash Mode
+
+## Hardware 
+
+- [[ESP32-C3-usb-dat]] - [[ESP32-C3-low-power-dat]]
+
+- notice [[DPR1039-dat]] more stable than common PL2303HX 
+
+![](2024-07-10-19-32-02.png)
+
+
+### ESP32-C3 Enter into Flash Mode
 
 - Connect wiring first, TXD->RXD, RXD->TXD, 5V, GND
 - Hold down IO9 
@@ -114,24 +118,9 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 - Now it is enter into flash mode 
 
 
-## Hardware Flashing 
 
-- notice [[DPR1039-dat]] more stable than common PL2303HX 
+## ref
 
-![](2024-07-10-19-32-02.png)
-
-
-## dev board 
-
-- ESP32 C3 super mini 
-![ESP32-C3-USB-dat/2024-08-05-18-16-35.png](ESP32-C3-USB-dat/2024-08-05-18-16-35.png)
-![](2024-08-17-15-37-36.png)
-
-
-![ESP32-C3-USB-dat/2024-08-05-18-18-01.png](ESP32-C3-USB-dat/2024-08-05-18-18-01.png)
-
-- [[ESP32-C3-USB-dat]]
-
-## ref 
+- [[ESP32-C3-DAT]] 
 
 - [[ESP32-C3]] 

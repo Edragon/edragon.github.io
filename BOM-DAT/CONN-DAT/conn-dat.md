@@ -10,3 +10,5 @@
 - [[RJ-11-dat]] - [[RJ-45-dat]]
 
 - [[DB9-dat]]
+
+- [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-dat]]

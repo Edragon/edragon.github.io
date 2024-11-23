@@ -25,7 +25,7 @@ from the perspective of the cable to the perspective of the target
 
 - CH340 - [[DPR1042-dat]] - [[DPR1039-dat]]
 
-- CP2102 - [[DPR1003-dat]], [[DPR1002-DAT]]
+- CP2102 - [[DPR1003-dat]], [[DPR1005-dat]]
 
 - FT232RL - [[DPR1029-dat]]
 
@@ -119,7 +119,10 @@ replaceable
 
 - [[auto-serial-dat]]
 
-
+common PCB setup 
+- one row: GND / RXD / TXD / VCC
+- two row -1: GND / VCC
+- two row -2: RXD / TXD
 
 
 ## ref 

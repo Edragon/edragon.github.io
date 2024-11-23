@@ -30,7 +30,6 @@ Library
 * https://github.com/2dom/PxMatrix
 
 
-
 ## Panel specifications 
 
 - ICN2038S 
@@ -38,3 +37,6 @@ Library
 - solution2 - https://rpi-rgb-led-matrix.discourse.group/t/p2-128x64-hub-75-icnd2038s/125/8
 
 
+## APPs applications 
+
+- https://megaman.fandom.com/wiki/Neo_Arcadia

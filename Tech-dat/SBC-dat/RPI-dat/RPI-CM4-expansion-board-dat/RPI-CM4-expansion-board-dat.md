@@ -9,7 +9,11 @@
 
 ![](2023-10-27-16-53-47.png)
 
+#### Functions 
 
+![](2024-11-22-19-26-09.png)
+
+- nRPIBOOT = pin 93 = [[RPI-OS-dat]]
 
 ## RPI CM4IO Board 
 
@@ -34,10 +38,18 @@
 
 - RPI-CM4-POE
 - RPI-CM4-POE_4G
-- RPI-CM4-Base_B
-  - SCH - [[CM4-IO-BASE-B_V4_SchDoc.pdf]]
+
 - RPI-CM4-Base_ETH2
 - RPI-CM4-NANO
+
+### RPI-CM4-Base_B
+
+- SCH - [[CM4-IO-BASE-B_V4_SchDoc.pdf]]
+
+
+### minimum carrier board 
+- Small carrier board for Raspberry Pi CM4 - [mincab](https://uplab.pro/2021/10/mincab/)
+- [Minimal_carrier_board_for_CM4](https://github.com/dronecz/Minimal_carrier_board_for_CM4)
 
 
 ## periperal 
@@ -69,6 +81,3 @@
 
 - [[RPI-CM4-expansion-board]]
 
-minimum carrier board 
-- Small carrier board for Raspberry Pi CM4 - [mincab](https://uplab.pro/2021/10/mincab/)
-- [Minimal_carrier_board_for_CM4](https://github.com/dronecz/Minimal_carrier_board_for_CM4)

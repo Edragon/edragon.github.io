@@ -26,7 +26,7 @@ The common bom we hosted
 
 ## CONN
 
-- [[DB9-dat]]
+- [[DB9-dat]] - [[JST-dat]]
 
 ## RCL passive
 

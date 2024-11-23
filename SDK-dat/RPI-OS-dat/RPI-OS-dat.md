@@ -19,15 +19,21 @@ https://www.raspberrypi.com/software/
 
 Raspberry Pi OS (64-bit): 3B 3B+ 3A+ 4B 400 5 CM3 CM3+ CM4 CM4S Zero 2 W
 
-## Step by Step flash into eMMC (on CM4 module )
+
+
+
+
+
+## CM4 - Step by Step flash into eMMC (on CM4 module )
 
 - use imager tool 
-- setup jumper and use USB 
+- setup jumper and use USB - https://www.raspberrypi.com/documentation/computers/compute-module.html#set-up-the-io-board
+  - refer to [[RPI-CM4-expansion-board-dat]] - J2 pin1/2
 - follow guide here - https://www.raspberrypi.com/documentation/computers/compute-module.html#steps-to-flash-the-emmc
 - ref - https://www.jeffgeerling.com/blog/2020/how-flash-raspberry-pi-os-compute-module-4-emmc-usbboot
 
 
-
+- [[RPI-CM4-dat]]
 
 ![](2023-12-01-17-51-29.png)
 

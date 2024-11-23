@@ -53,17 +53,21 @@ AVR
 
 ### DOD
 
+[[AVR-dat]]
 - [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]] - [[DOD1060-dat]]
 
+[[RISC-V-dat]]
 CH32V003 - SOP8
 - [[DOD1119-dat]]
 
-SAMD21
+[[SAMD21-dat]]
 - [[DOD1104-dat]] - [[DOD1107-dat]]
 
-STM32
+[[STM32-dat]]
 - [[DOD1096-dat]]
 
+[[CPLD-dat]] / [[FPGA-dat]]
+- [[DODS040-dat]] - [[DODS042-dat]] - [[DODS044-dat]]
 
 ### DPR
 
@@ -74,7 +78,7 @@ STM32
 - [[DPR1126-dat]] - [[DPR1150-dat]]
 
 For ARM devices  
-- [[DPR1130-dat]] - [[DPR1100-dat]]
+- [[DPR1157-dat]] - [[DPR1100-dat]]
 
 [[USB-TTL-dat]] - [[DPR1029-dat]]
 
@@ -84,7 +88,7 @@ Pogo-Pin
 AVR
 - [[DPR1009-dat]] - [[DPR1045-dat]] - [[DPR1048-dat]]
 
-
+WCH - [[DPR1133-dat]]
 
 ### DVA 
 - [[DVA1002-dat]] - [[DVA1007-dat]]
@@ -96,7 +100,9 @@ AVR
 
 - [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]]
 
+### IMS 
 
+- [[IMS1009-dat]]
 
 
 ### ILC 
@@ -140,7 +146,7 @@ RPI LCD
 - [[OPM1167-dat]] - [[OPM1168-dat]]
 
 [[ACDC-dat]]
-- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]] - [[OPM1065-dat]]
+- [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]] - [[OPM1065-dat]] - [[OPM1114-dat]]
 
 battery holder - [[OPM1189-dat]]
 
@@ -253,8 +259,6 @@ SIMCOM
 
 - A7670 [[NGS1131-DAT]]
 
-- [[LAN8720-dat]] - [[NWI1199-DAT]]
-
 - [[NGS1119-dat]]
 
 
@@ -275,8 +279,7 @@ Quectel - 2G
 lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw/
 - [[NWL1071-dat]] - [[NWL1072-dat]] - [[NWL1074-dat]]
 
-Lora 
-- [[NWL1103-dat]]
+[[Lora-dat]] - [[NWL1103-dat]]
   
 ### NWI
 - [[NWI1050-DAT]] - [[NWI1070-DAT]] 
@@ -286,6 +289,7 @@ Lora
 
 [[ESP32-dev-board-dat]]
 - [[NWI1100-dat]] - [[NWI1206-dat]] - [[NWI1145-dat]]
+- [[NWI1180-dat]]
 
 
 [[ESP32-WROOM-dat]]
@@ -314,15 +318,22 @@ ESP32-C3
 
 - [[NWI1199-DAT]] - [[NWI1200-DAT]]
 
-- [[NWI1223-dat]] - [[NWI1226-dat]] - [[NWI1235-DAT]] - [[NWI1243-dat]] - [[NWI1252-dat]]
+- [[NWI1223-dat]] - [[NWI1226-dat]] - [[NWI1235-DAT]] - [[NWI1243-dat]] 
 
 ESP32-APP
-- [[NWI1245-DAT]] 
+- [[NWI1245-DAT]] - [[NWI1252-dat]]
 
 [[RDA5981-dat]]
 
 MT7688
 - [[NWI1219-dat]]
+
+[[LAN8720-dat]] - [[NWI1199-DAT]]
+
+
+## NRF 
+
+- [[NRF2001-dat]] - [[NRF2004-dat]] - [[NRF2007-dat]]
 
 ### PMP
 

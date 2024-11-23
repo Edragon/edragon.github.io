@@ -59,7 +59,11 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 - Connector - 【 DF40HC (3.0)-100DS-0.4V(51)】
 
+### Pins 
 
+![](2024-11-22-19-30-56.png)
+
+![](2024-11-22-19-31-24.png)
 
 ## Features 
 
@@ -82,6 +86,8 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 - https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000
 
 - [[kicad-dat]]
+
+- [[DF40-dat]]
 
 
 ## design ref 

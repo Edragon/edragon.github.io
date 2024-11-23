@@ -24,6 +24,9 @@ JTAG protocol communication is a very vulnerable protocol, please avoid interfer
 - if any communication error happened, reconnect the programmer, and restart Quartus II software.
 
 
+## driver 
+
+- [[USB-Blaster-driver.rar]]
 
 ## ref 
 
