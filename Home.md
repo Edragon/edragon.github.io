@@ -27,9 +27,9 @@
 
 - [[chinese-holiday-dat]]
 
-## About this week 
+## About this wiki 
 
-- frequently updates, any questions please email to info@electrodragon.com
+- frequently updates, any questions please email to **info@electrodragon.com**
 
 
 
