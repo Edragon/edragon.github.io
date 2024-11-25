@@ -2,6 +2,8 @@
 
 # RPI-CM-dat
 
+- [[RPI-dat]]
+
 ## CM3 
 
 The Raspberry Pi Compute Module is a small, powerful, and customizable single-board computer designed for embedded applications. It is based on the same architecture as the Raspberry Pi boards but in a more compact form factor. The Compute Module provides a more flexible and modular approach compared to the standard Raspberry Pi boards.

@@ -1,14 +1,13 @@
 
 # raspberry pi dat 
 
+- [[RPI3-dat]] - [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board-dat]]
+
+- [[RPI-zero-dat]]
 
 ## hardware 
 
 - [[rpi-pin-dat]]
-
-- [[RPI3-dat]]
-  
-- [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board-dat]]
 
 - [[RPI-OS-dat]]
 
@@ -62,5 +61,7 @@ can use commands nohup to run script in background for long term.
 - RPI prog - https://github.com/Edragon/RPI-PROG
 - RPI serial - https://github.com/Edragon/RPI-Serial
 
+## Competitors 
 
+- [[RK3588-dat]] - [[rocketchip-dat]]
 

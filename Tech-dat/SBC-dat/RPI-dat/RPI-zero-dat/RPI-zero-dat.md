@@ -1,5 +1,5 @@
 
-# RPI-zero-2W-dat
+# RPI-zero-dat
 
 【Raspberry Pi Zero 2W Features】
 
@@ -18,3 +18,13 @@
 
 
 ![](2024-11-13-16-34-59.png)
+
+
+## Common Needed Accessories 
+
+- micro HDMI cable or converter 
+- microUSB expansion USB hub or cable 
+- MicroUSB power cable 
+
+
+
