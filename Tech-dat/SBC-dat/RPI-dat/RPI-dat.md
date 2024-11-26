@@ -16,14 +16,18 @@
 
 In summary, the Raspberry Pi 3 can deliver a maximum of 50 mA to 150 mA from the 3.3V GPIO pins, but care should be taken not to exceed the individual pin limit of 16 mA for each GPIO pin. Always ensure that the total current drawn does not exceed the recommended limits to avoid damaging the board.
 
-## 3.3V power delivery 
+### 3.3V power delivery 
 
 All Raspberry Pi since the Model B+ can provide quite a bit more, up to 500mA to remain on the safe side, thanks to a switching regulator.
 
 - ref - https://pinout.xyz/pinout/pin1_3v3_power/#:~:text=The%203v3%20supply%20pin%20on,regulator%20for%203.3v%20projects.
 
 
-## Shields 
+### chip 
+
+- [[BCM2835-dat]] - [[BCM2711-dat]]
+
+### Boards and Shields 
 
 - [[MPC1029-dat]]
 
@@ -31,7 +35,17 @@ All Raspberry Pi since the Model B+ can provide quite a bit more, up to 500mA to
 
 - BCM2711B0: cortex-A72 
 
+## Usage and Software 
 
+copy file to /boot/myfiles 
+
+    To get files across you put the SD into your PC and make a folder (lets say myfiles) on the SD card for your files and put your files in there.
+
+    Then, when you plug the SD card back into your RPi, these files are available in a folder called /boot/myfiles.
+
+    You can then copy them to anywhere you need on your RPi
+
+or use a USB driver 
 
 
 ## I2C 
@@ -39,9 +53,6 @@ All Raspberry Pi since the Model B+ can provide quite a bit more, up to 500mA to
 - turn on I2C functions at [[raspi-config]]
 
 
-## chip 
-
-- [[BCM2835-dat]] - [[BCM2711-dat]]
 
 
 ## demo code 

@@ -1,6 +1,15 @@
 
 # MPC1073-test-log-dat.md
 
+
+## Make first 
+
+make it 
+
+    make -C examples-api-use
+
+
+
 ## P8 P10 Outdoor 32x16 == tested = OK
 
 Run example for our selling 32x16 panel
@@ -88,3 +97,16 @@ cmd
 
 
 
+## Sounds cards 
+
+=== snd_bcm2835: found that the Pi sound module is loaded. ===
+Don't use the built-in sound of the Pi together with this lib; it is known to be
+incompatible and cause trouble and hangs (you can still use external USB sound adapters).
+
+See Troubleshooting section in README how to disable the sound module.
+You can also run with --led-no-hardware-pulse to avoid the incompatibility,
+but you will have more flicker.
+Exiting; fix the above first or use --led-no-hardware-pulse
+
+
+    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=8 --led-no-hardware-pulse
