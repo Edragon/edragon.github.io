@@ -49,6 +49,8 @@ JP1 / JP2 / JP3
 - code: https://github.com/hzeller/rpi-rgb-led-matrix
 - board: https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/adapter
 
+- [[rpi-dat]]
+
 ### C execute file 
 
 clone project, build the binary executable file, and use following commands 
