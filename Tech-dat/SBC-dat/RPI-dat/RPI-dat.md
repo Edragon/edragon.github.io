@@ -48,6 +48,10 @@ copy file to /boot/myfiles
 or use a USB driver 
 
 
+You can log in using the default username: “pi” and the default password: “raspberry”.
+
+For raspberry pi OS: raspi-config config "administrator" password to "pi"
+
 ## I2C 
 
 - turn on I2C functions at [[raspi-config]]
