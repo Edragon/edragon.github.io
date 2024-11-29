@@ -23,6 +23,9 @@
 ## datasheet 
 https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_cn.pdf
 
+https://docs.espressif.com/projects/esp-at/en/latest/esp32c3/Get_Started/Hardware_connection.html
+
+
 ## peripheral design 
 
 page 24. 
