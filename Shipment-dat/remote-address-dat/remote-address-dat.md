@@ -19,3 +19,9 @@
 
 - use alternative shipping methods: [[EUEX-dat]] for European countries, [[USPS-dat]] for US. Shipping cost is around 10 usd, and extra shipping cost will be refunded back via the original payment way.
 
+- Order cancel, please simply let us know by email back. 
+
+
+## ref 
+
+- [[偏远]]
