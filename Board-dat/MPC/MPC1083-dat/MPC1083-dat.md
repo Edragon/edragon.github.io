@@ -15,6 +15,11 @@ ADR1 = pull-up, ADR2 = pull-down
 
 
 
+
+
+
 ## ref 
+
+- [[PCM5122-dat]] - [[TI-dat]]
 
 - [[I2S-dat]] - [[I2C-dat]]

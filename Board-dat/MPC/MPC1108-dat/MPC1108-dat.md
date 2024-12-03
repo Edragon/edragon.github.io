@@ -8,11 +8,14 @@
 
 ## Function 
 
-### Fan control by 
+### Fan control by three options 
 
 - LM ALRAM (NAND_A)
-- GPIO12 (NAND_B)
-- Switch (NAND_B)
+- GPIO12 (NAND_B either gate )
+- Manual switch (NAND_B either gate )
+
+
+
 
 ### Temperature sensor 
 
@@ -23,6 +26,14 @@
 
 Note when use this board and external 12V power supply to DC jack, you should NOT use micro USB power anymore, otherwise it can damage board.
 
+
+
+
+
+
 ## ref 
 
+- [[dcdc-buck-dat]]
+
 - [[MPC1108]]
+
