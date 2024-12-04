@@ -11,6 +11,9 @@
 
 ## ref 
 
-- [[CH423-dat]] - [[WCH-dat]]
+- [[CH423-dat]] - [[WCH-dat]] 
+
+- [[GPIO-dat]] - [[I2C-dat]]
+
 
 - [[MSP1072]]
