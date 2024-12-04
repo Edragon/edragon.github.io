@@ -14,4 +14,4 @@ https://www.electrodragon.com/w/IIC
 
 - [[GPIO-dat]]
 
-- [[PCF8574-dat]]
+- [[PCF8574-dat]] - [[PCF8591-dat]]

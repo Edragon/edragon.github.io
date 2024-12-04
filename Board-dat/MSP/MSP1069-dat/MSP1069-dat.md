@@ -1,6 +1,8 @@
 
 # MSP1069-dat
 
+- chip-hold
+
 
 ## ref 
 
