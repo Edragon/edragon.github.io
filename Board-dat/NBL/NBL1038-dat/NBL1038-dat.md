@@ -6,6 +6,8 @@
 ![](2023-11-09-15-41-06.png)
 
 
+
+
 ## Boards 
 
 - core board - [[NBL1037-dat]]
