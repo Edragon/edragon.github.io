@@ -7,7 +7,7 @@ Our profit margin is normally at 30% for all products.
 
 For bulk order we can provide up to 15% discount. Please enquiry by emails to info@electrodragon.com for detailed discount setup. 
 
-## Order Procedure
+## How to Order with Discount
 
 Please add the matching quantity into your cart, and the price will be automatically updated. 
 
@@ -34,5 +34,6 @@ Thank you.
 
 | SKU             | MOQ    | discount |
 | --------------- | ------ | -------- |
-| [[ILC1031-dat]] | 30pcs | 10%      |
+| [[ILC1031-dat]] | 30pcs  | 10%      |
 | [[DPR1157-dat]] | 30pcs  | 15%      |
+| [[MPC1073-dat]] | 100pcs | 15%      |
