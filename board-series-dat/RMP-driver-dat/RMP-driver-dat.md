@@ -11,7 +11,7 @@
 
 ## matrix panel
 
-- [[led-rgb-panel-dat]] - [[RPI-pin-dat]]
+- [[led-rgb-panel-dat]] - [[RPI-pin-dat]] - [[rpi-dat]]
 
 ## knowledge 
 

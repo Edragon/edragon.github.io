@@ -52,6 +52,17 @@ You can log in using the default username: “pi” and the default password: �
 
 For raspberry pi OS: raspi-config config "administrator" password to "pi"
 
+    root@2W:/boot# lsblk
+
+    NAME        MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+    sda           8:0    1 14.8G  0 disk 
+    └─sda1        8:1    1 14.8G  0 part /media/administrator/_¼Ӿ_
+    mmcblk0     179:0    0   15G  0 disk 
+    ├─mmcblk0p1 179:1    0  512M  0 part /boot/firmware
+    └─mmcblk0p2 179:2    0 14.5G  0 part /
+
+    cd /media/administrator/_¼Ӿ_
+
 ## I2C 
 
 - turn on I2C functions at [[raspi-config]]
