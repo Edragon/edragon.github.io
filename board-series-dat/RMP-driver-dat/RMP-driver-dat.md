@@ -11,7 +11,7 @@
 
 ## matrix panel
 
-- [[led-rgb-panel-dat]]
+- [[led-rgb-panel-dat]] - [[RPI-pin-dat]]
 
 ## knowledge 
 
@@ -65,12 +65,25 @@ ref
 - reference link - https://github.com/hzeller/rpi-rgb-led-matrix/blob/a3eea997a9254b83ab2de97ae80d83588f696387/wiring.md
 
 
+### Extra GPIOs for [[MPC1073-dat]]
+
+- Toggle Switch to left side to discard using P2 chain, and use free pin GPIO2 and GPIO3 
+
+![](2024-12-06-18-10-13.png)
+
+
+
 
 
 
 ## in development
 
 - [[RMP-RPI-CM4-dat]]
+
+
+
+
+
 
 ## ref
 

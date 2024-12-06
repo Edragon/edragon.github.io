@@ -14,7 +14,7 @@ https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 Output Control Chains 
 - TOP - P0
 - Middle - P1
-- Bottom - P3
+- Bottom - P3 (typo or P2 )
 
 JP3 Power Supply Pins 
 - 3.3V
