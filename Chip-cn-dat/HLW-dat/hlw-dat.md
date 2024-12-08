@@ -1,5 +1,8 @@
 # hlw-dat
 
+
+## chips 
+
 | ! chip  | Sensing                 | Size    | Calibration | COMM     | Other                        |
 | ------- | ----------------------- | ------- | ----------- | -------- | ---------------------------- |
 | HLW8112 | 2x current / 1x voltage | SSOP16  | No need     | SPI/UART | OV / LV / Zeor-crossing / OC |
@@ -9,6 +12,12 @@
 - http://www.hiliwi.com
 
 * [[HLW8012-dat]] - [[HLW8032-dat]]
+
+
+
+## code house 
+
+- https://github.com/Edragon/HLW
 
 
 ## ref 
