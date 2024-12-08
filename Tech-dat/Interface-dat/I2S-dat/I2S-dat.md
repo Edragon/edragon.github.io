@@ -37,6 +37,8 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 - [[ES9023-dat]] - [[MPC1111-dat]]
 
+- [[PCM1808-dat]]
+
 ## ref 
 
 https://en.wikipedia.org/wiki/I%C2%B2S
