@@ -3,6 +3,7 @@
 
 - board use guide please refer to page [[RMP-driver-dat]]
 
+https://www.electrodragon.com/product/rpi-passive-3ch-rgb-matrix-drive-board-v0/
 
 ## Board map 
 
