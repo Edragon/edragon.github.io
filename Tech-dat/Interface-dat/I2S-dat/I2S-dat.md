@@ -27,8 +27,15 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 - [[WM8960-dat]]
 
-- [[PCM5122-dat]]
+- [[PCM5102-dat]] - [[AMP1006-dat]]
 
+- [[UDA1334-dat]] - [[AMP1013-dat]]
+
+- [[PCM5122-dat]] - [[MPC1083-dat]] - [[I2S-dat]]
+
+- [[bt-audio-dat]] - [[DAC-dat]] - [[ADC-dat]]
+
+- [[ES9023-dat]] - [[MPC1111-dat]]
 
 ## ref 
 
