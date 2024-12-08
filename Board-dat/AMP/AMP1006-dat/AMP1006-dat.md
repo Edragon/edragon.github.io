@@ -11,8 +11,8 @@
 ![](2024-09-05-17-05-06.png)
 
 Seperated LDO power supply for: 
-- AVDD
-- DVDD
+- AVDD = LDO x1
+- DVDD = LDO x3
 - 3V3 - CPVDD
 
 
@@ -32,8 +32,5 @@ Seperated LDO power supply for:
 
 - [[PCM5102-dat]]
 
-- [[UDA1334-dat]]
-
-
-- [[bt-audio-dat]] - [[DAC-dat]] - [[ADC-dat]]
+- [[I2S-dat]]
 
