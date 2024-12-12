@@ -10,16 +10,12 @@
 
 ### Pin Definitions of Extra Pins
 
-I2C Port
-* IO21 IO22 GND 3V3 +5V
 
 
-Extra Pin Header Pins: 
-* GND VBAT +5V +3V3
-* IO4 IO16 IO17 IO26
+#### battery charger
 
+Jumper - SJ6 - [[battery-charger-dat]]
 
-Jumper - SJ6
 - reset of IP5306 together with ESP32 
 
 
@@ -27,8 +23,32 @@ Network Resistor NR2 / NR3
 - default set for battery volume, indicating by on board LEDs
 - NR2 + SJ2 + SJ3 for IP5306-I2C version only, customize only 
 
+#### MISC 
+
+Extra Pin Header Pins: 
+
+* GND VBAT +5V +3V3
+* IO4 IO16 IO17 IO26
+
+I2C Port - [[I2C-dat]]
+
+* IO21 IO22 GND 3V3 +5V
+
+
+#### USB 
+
+- [[Serial-dat]] - [[type-c-dat]]
+
+#### Interactive LCD and audio 
+
+- [[SPI-LCD-dat]]
+
+- [[audio-dat]]
+
 Buttons 
-- IO33 IO36 IO 39
+- programmerable: IO33 IO36 IO 39
+
+
 
 ### Define in arduino 
 
@@ -66,6 +86,7 @@ Define in [[ESP32-WROVER-dat]] module
 
 
 ## Arduino Demo Code
+
 * Based on Arduino TFT_eSPI library
 * Add extra pin definitions, demo code please see [here](https://github.com/Edragon/Arduino-ESP32) (Arduino-ESP32/Sketchbook/Display/).
 
