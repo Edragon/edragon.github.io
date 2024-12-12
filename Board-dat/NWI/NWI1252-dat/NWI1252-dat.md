@@ -81,13 +81,14 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 
 ## Design logs
 
-| updates                            | status    | version |
-| ---------------------------------- | --------- | ------- |
-| changed and moved a few pins       | added     | V2      |
-| simutaniously RS-232 / RS-485 data | added     | V2      |
-| flipped side DB-9                  | added     | V2      |
-| power reverse protection           | added     | V1      |
-| DC barrel 2.1mm barrel plug        | not added | V1      |
+| updates                                      | status    | version |
+| -------------------------------------------- | --------- | ------- |
+| changed and moved a few pins                 | added     | V2      |
+| seperated RS-232 / RS-485 data LED indicator | added     | V2      |
+| simutaniously RS-232 / RS-485 data           | added     | V2      |
+| flipped side DB-9                            | added     | V2      |
+| power reverse protection                     | added     | V1      |
+| DC barrel 2.1mm barrel plug                  | not added | V1      |
 
 
 
