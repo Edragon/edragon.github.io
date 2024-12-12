@@ -9,3 +9,6 @@ Please note Fedex / DHL normally need 2-4 days to process the shipment, we have 
 
 - [[HKDHL-BA]] - [[DHL-dct-dat]]
 
+- DHL lowest declare value for European Countries: 121 USD 
+
+
