@@ -6,7 +6,7 @@
 
 [COMPUTE MODULE OPERATING INSTRUCTIONS](https://www.farnell.com/datasheets/1830506.pdf)
 
-
+- [[README-CM-dat]]
 
 ## CM3 
 
@@ -69,12 +69,9 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 - Connector - 【 DF40HC (3.0)-100DS-0.4V(51)】
 
+- [[RMP-RPI-CM4-dat]]
+
 ### Pins 
-
-![](2024-11-22-19-30-56.png)
-
-![](2024-11-22-19-31-24.png)
-
 
 - [[RPI-CM4-gpio-dat]]
 
