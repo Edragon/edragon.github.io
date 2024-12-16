@@ -5,6 +5,8 @@
 
 - [[RPI-zero-dat]]
 
+- official documentation - https://www.raspberrypi.com/documentation/
+
 ## hardware 
 
 - [[rpi-pin-dat]]
