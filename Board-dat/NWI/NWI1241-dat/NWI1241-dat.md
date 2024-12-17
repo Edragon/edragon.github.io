@@ -83,7 +83,9 @@ Define in [[ESP32-WROVER-dat]] module
 
 ![](2023-11-15-18-04-36.png)
 
+New version define in the file User_Setup.h
 
+![](2024-12-17-18-32-28.png)
 
 ## Arduino Demo Code
 
@@ -91,6 +93,8 @@ Define in [[ESP32-WROVER-dat]] module
 * Add extra pin definitions, demo code please see [here](https://github.com/Edragon/Arduino-ESP32) (Arduino-ESP32/Sketchbook/Display/).
 
 * Working demo please search [[contact-dat]] channels
+
+- https://github.com/Bodmer/TFT_eSPI
 
 
 ## Demo 
