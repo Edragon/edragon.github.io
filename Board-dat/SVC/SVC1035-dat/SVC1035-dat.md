@@ -14,13 +14,21 @@ Pins Definitions
 - PF
 - TX 
 
+
+
 ## working principle 
 
 - current sensing by current Transformer
 - votlage sensing by wire cross through the voltage transformer 
 
+## Sensors 
+
+- [[ZMCT103-dat]] - [[ZMPT107-dat]]
+
+
+
 ## ref 
 
 - [[HLW8032-dat]] - [[HLW-dat]]
 
-- [[SVC1035]]
+- [[svc1035]]

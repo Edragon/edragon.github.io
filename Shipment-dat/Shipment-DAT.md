@@ -1,6 +1,8 @@
 
 # Shipment-dat 
 
+- how to use [[internal-tracking-dat]] internal tracking number
+
 ## Important Note 
 
 - **Brazil, Chile, Argentina, South Africa**, customers please MUST provide tax id / or personal ID number for shipment - [[shipment-requirement-dat]]
@@ -51,6 +53,9 @@ Normal Post, worldwide delivery
 - [[FEDEX-CN-dat]] - [[DHL-dat]] - UPS
 
 - [[remote-address-dat]] sometimes will be extrally applied
+
+
+
 
 ## ref 
 

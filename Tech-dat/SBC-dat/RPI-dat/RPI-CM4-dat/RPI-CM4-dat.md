@@ -2,6 +2,12 @@
 
 # RPI-CM-dat
 
+- [[RPI-dat]]
+
+[COMPUTE MODULE OPERATING INSTRUCTIONS](https://www.farnell.com/datasheets/1830506.pdf)
+
+- [[README-CM-dat]]
+
 ## CM3 
 
 The Raspberry Pi Compute Module is a small, powerful, and customizable single-board computer designed for embedded applications. It is based on the same architecture as the Raspberry Pi boards but in a more compact form factor. The Compute Module provides a more flexible and modular approach compared to the standard Raspberry Pi boards.
@@ -53,17 +59,22 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 ![](2023-10-27-16-46-54.png)
 
+
+
 ## hardware 
 
-- [[EMMC]] - [[WIFI]]
+- [[BCM2711-dat]]
+
+- [[EMMC-dat]] - [[WIFI-dat]] - [[PHY-dat]] - [[ethernet-dat]]
 
 - Connector - 【 DF40HC (3.0)-100DS-0.4V(51)】
 
+- [[RMP-RPI-CM4-dat]]
+
 ### Pins 
 
-![](2024-11-22-19-30-56.png)
+- [[RPI-CM4-gpio-dat]]
 
-![](2024-11-22-19-31-24.png)
 
 ## Features 
 

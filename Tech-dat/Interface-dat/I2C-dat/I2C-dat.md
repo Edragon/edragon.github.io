@@ -45,6 +45,29 @@ the most easy to use library for ESP
 - common pullup resistors 1K/4.7K/10K
 ![](2024-07-10-01-21-40.png)
 
+
+## setup for RPI I2C 
+
+Driver Installing
+
+1.Enable Raspberry Pi I2C. Skip this step if it is already enabled. Open terminal and input the following commands and press "Enter":
+
+    pi@raspberrypi:~ $ sudo raspi-config
+
+Then use the UP/Down keys to select "5 Interfacing Options", press Enter, select "P5 I2C" and press Enter to comfirm "Yes". Restart the Raspeberry Pi board.
+
+2.To install Python dependency library and git, the Raspberry Pi needs to be networked. Skip this step if already installed. In the terminal, input the following commands and press Enter:
+
+    pi@raspberrypi:~ $ sudo apt-get update pi@raspberrypi:~ $ sudo apt-get install build-essential python-dev python-smbus git
+
+3.Download the DFRobot_CH423 driver library. In the terminal, type the following commands and press Enter:
+
+    pi@raspberrypi:~ $ cd Desktop/ `pi@raspberrypi:~/Desktop $ git clone https://github.com/DFRobot/DFRobot_CH423
+
+
+
+
+
 ## ref 
 
 - https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/#1

@@ -15,16 +15,24 @@
 ## power supply power adapter 
 - [[CPP1040-dat]]
 
+https://www.electrodragon.com/?product=wall-adapter-power-supply
+
+
+
+
 ## control box 
 - [[ILSS001-dat]]
 - [[NWI1126-dat]]
 
+https://www.electrodragon.com/?product=led-strips-control-box-and-remote-controller
 
-
-## Modify 
+## Modify / cutting or connecting 
 
 
 ![](2024-01-13-11-57-11.png)
+
+![](2024-12-08-18-19-20.png)
+
 
 ## Protection Type 
 

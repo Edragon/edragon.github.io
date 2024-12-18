@@ -10,7 +10,12 @@ GPIOS (Giant Pixel Interleaved Octal Shifts) is a method used in data storage an
 4. POI (Pull-Up Resistor In): In this mode, the cable noise can be filtered out by the internal pull-up resistors while the device is running.
 5. POPI (Pull-Up Resistor/Pull-Down Input): It's a versatile option that provides isolation for both inputs and outputs
 
-d
+## IO expander 
+
+- [[MSP1072-dat]] - [[MSP1064-dat]] - [[MSP1069-dat]]
+
+
+
 
 ## ref 
 
