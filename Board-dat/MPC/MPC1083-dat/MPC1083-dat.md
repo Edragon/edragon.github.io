@@ -35,19 +35,30 @@ ADR1 = pull-up, ADR2 = pull-down
 
 * The remaining pins are unused, You can use them for your other hardware boards.
 
+### mode and address select
+
+MOD1 - GND, MOD2 - VCC = I2C
+MOD1 - VCC, MOD2 - any   = SPI
+MOD1 - GND, MOD2 - GND = Hardware
+
+| mod1 | add2 | add1 | mod2 | note          |
+| ---- | ---- | ---- | ---- | ------------- |
+| GND  | GND  | VCC  | VCC  | I2C address = |
+
+
 ## Software 
 
 - Volumio - [[volumio-dat]]
 - MoOde
 - LibreELEC
 - Max2play
-- Raspbian - [[RPI-OS-dat]]
+- Raspbian - [[RPI-OS-dat]] - [[PCM5122-RPI-dat]]
 - OSMC
 
 ## ref 
 
-- [[PCM5122-dat]] - [[TI-dat]]
+- [[PCM5122-dat]] - [[TI-dat]] - [[RPI-OS-dat]] - [[PCM5122-RPI-dat]]
 
 - [[I2S-dat]] - [[I2C-dat]] - [[infrared-dat]] - [[eeprom-dat]] - [[memory-dat]]
 
-- [[PCM1083]]
+- [[MPC1083]]
