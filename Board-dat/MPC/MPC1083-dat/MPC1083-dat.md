@@ -61,4 +61,6 @@ MOD1 - GND, MOD2 - GND = Hardware
 
 - [[I2S-dat]] - [[I2C-dat]] - [[infrared-dat]] - [[eeprom-dat]] - [[memory-dat]]
 
+- [[MPC1111-dat]]
+
 - [[MPC1083]]

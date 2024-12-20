@@ -24,7 +24,7 @@
 - https://www.electrodragon.com/w/Sound_Card#Use_PCM5102_or_ES9023_w.2FRPI
 
 
-- [[volumio]]
+- [[volumio-dat]]
 
 - [[infrared-dat]]
 
