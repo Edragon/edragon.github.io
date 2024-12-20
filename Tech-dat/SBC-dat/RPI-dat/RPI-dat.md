@@ -11,7 +11,7 @@
 
 - [[rpi-pin-dat]]
 
-- [[RPI-OS-dat]]
+- [[raspbian-os-dat]]
 
 
 ### power delivery 
