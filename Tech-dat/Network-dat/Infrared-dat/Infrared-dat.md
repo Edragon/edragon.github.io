@@ -13,6 +13,10 @@
 arduino shield - [[DAS1013-dat]]
 
 
+## RPI-SCH 
+
+![](2024-12-20-18-08-22.png)
+
 ## BOM 
 
 - [[infrared-receiver-dat]] - [[infrared-sender-dat]]

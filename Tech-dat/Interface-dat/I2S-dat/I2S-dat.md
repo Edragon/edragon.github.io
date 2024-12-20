@@ -20,8 +20,10 @@ This makes I2S a popular choice for high-speed data transfer applications.
 | SD   | SDIN / SDOUT | At least one multiplexed data line | G21      | PIN 40  |
 
 
+## RPI ref 
 
-
+- https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/#prettyPhoto
+- https://docs.microsoft.com/en-us/windows/iot-core/learn-about-hardware/pinmappings/pinmappingsrpi
 
 ## Solution 
 

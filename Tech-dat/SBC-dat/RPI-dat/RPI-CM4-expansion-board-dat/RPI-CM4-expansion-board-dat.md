@@ -13,7 +13,7 @@
 
 ![](2024-11-22-19-26-09.png)
 
-- nRPIBOOT = pin 93 = [[RPI-OS-dat]]
+- nRPIBOOT = pin 93 = [[raspbian-os-dat]]
 
 ## RPI CM4IO Board 
 
