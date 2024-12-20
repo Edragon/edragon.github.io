@@ -18,7 +18,18 @@
 
 ![](2023-11-01-18-24-07.png)
 
+
+## debugging software 
+
+![](2024-12-18-17-08-33.png)
+
+![](2024-12-18-17-09-06.png)
+
+- please find them in repo
+
 ## ref
+
+- [[HLW-dat]]
 
 - [[HLW8032.pdf]]
 
