@@ -1,6 +1,9 @@
 
 # MPC1083-dat 
 
+- legacy documentation - https://www.electrodragon.com/w/Sound_Card#Use_PCM5102_or_ES9023_w.2FRPI
+
+
 ## Hardware 
 
 ### Config Mode 
