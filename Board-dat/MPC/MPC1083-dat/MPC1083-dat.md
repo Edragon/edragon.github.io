@@ -8,13 +8,15 @@
 
 ### Config Mode 
 
-| Mod1 | Mod2  | Mode           |
-| ---- | ----- | -------------- |
-| GND  | VCC   | I2C  (default) |
-| VCC  | *any* | SPI            |
-| GND  | GND   | Hardware       |
+| Mod1 | Mod2 | Mode           |
+| ---- | ---- | -------------- |
+| GND  | VCC  | I2C  (default) |
+| VCC  | any  | SPI            |
+| GND  | GND  | Hardware       |
 
-I2C Address 
+I2C Address = 0x4D 
+
+
 
 ADR1 = pull-up, ADR2 = pull-down 
 
@@ -54,6 +56,39 @@ MOD1 - GND, MOD2 - GND = Hardware
 - Max2play
 - Raspbian - [[RPI-OS-dat]] - [[PCM5122-RPI-dat]]
 - OSMC
+
+### aplay test 
+
+aplay -l
+
+    pi@raspberrypi:~ $ aplay -l
+    **** List of PLAYBACK Hardware Devices ****
+    xcb_connection_has_error() returned true
+    card 0: vc4hdmi [vc4-hdmi], device 0: MAI PCM i2s-hifi-0 [MAI PCM i2s-hifi-0]
+    Subdevices: 1/1
+    Subdevice #0: subdevice #0
+    card 1: Headphones [bcm2835 Headphones], device 0: bcm2835 Headphones [bcm2835 Headphones]
+    Subdevices: 8/8
+    Subdevice #0: subdevice #0
+    Subdevice #1: subdevice #1
+    Subdevice #2: subdevice #2
+    Subdevice #3: subdevice #3
+    Subdevice #4: subdevice #4
+    Subdevice #5: subdevice #5
+    Subdevice #6: subdevice #6
+    Subdevice #7: subdevice #7
+    card 2: BossDAC [BossDAC], device 0: Boss DAC HiFi pcm512x-hifi-0 [Boss DAC HiFi pcm512x-hifi-0]
+    Subdevices: 1/1
+    Subdevice #0: subdevice #0
+
+download a test mp3 here. [[test.mp3]]
+
+
+## demo video 
+
+- x  - https://x.com/electro_phoenix/status/1871071433797046460
+- yt - https://www.youtube.com/shorts/psUuKwltYpI
+- tg - https://t.me/electrodragon4/305
 
 ## ref 
 

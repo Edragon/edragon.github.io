@@ -4,6 +4,7 @@
 1) Modify the config.txt on termianl. Open the config.txt in system. 
 
     sudo nano /boot/config.txt
+    sudo nano /boot/firmware/config.txt
 
 Append the following lines to the end of the file,enable the audio module.Draw attention to theformat , Otherwise it doesn't work. press "ctrl+o" and press "Enter" to save the file. Reboot thesystem. 
 
@@ -11,6 +12,10 @@ Append the following lines to the end of the file,enable the audio module.Draw a
 
 ![](2024-12-20-18-19-02.png)
 
+and not yet tested: 
+
+    dtoverlay=i2s-mmap
+    dtoverlay=hifiberry-dacplus
 
 2)Check the DAC module
 
