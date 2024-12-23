@@ -57,6 +57,9 @@ MOD1 - GND, MOD2 - GND = Hardware
 - Raspbian - [[RPI-OS-dat]] - [[PCM5122-RPI-dat]]
 - OSMC
 
+Use guide -> check [[I2C-dat]] first -> check aplay below 
+
+
 ### aplay test 
 
 aplay -l
@@ -77,12 +80,14 @@ aplay -l
     Subdevice #5: subdevice #5
     Subdevice #6: subdevice #6
     Subdevice #7: subdevice #7
+
     card 2: BossDAC [BossDAC], device 0: Boss DAC HiFi pcm512x-hifi-0 [Boss DAC HiFi pcm512x-hifi-0]
     Subdevices: 1/1
     Subdevice #0: subdevice #0
 
-download a test mp3 here. [[test.mp3]]
+- note the card 2 is the new card [[MPC1083-dat]]
 
+- run a [[mp3-dat]] quick test 
 
 ## demo video 
 
