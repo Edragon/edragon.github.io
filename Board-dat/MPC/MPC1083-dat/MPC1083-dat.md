@@ -57,7 +57,6 @@ MOD1 - GND, MOD2 - GND = Hardware
 - Raspbian - [[RPI-OS-dat]] - [[PCM5122-RPI-dat]]
 - OSMC
 
-Use guide -> check [[I2C-dat]] first -> check aplay below 
 
 
 ### aplay test 
@@ -85,7 +84,13 @@ aplay -l
     Subdevices: 1/1
     Subdevice #0: subdevice #0
 
-- note the card 2 is the new card [[MPC1083-dat]]
+## use guide 
+
+- Use guide -> check [[I2C-dat]] first -> check aplay below 
+
+- try [[PCM5122-RPI-dat]] setup tutorial. 
+
+- note the card 2 is the new card for this board [[MPC1083-dat]]
 
 - run a [[mp3-dat]] quick test 
 
