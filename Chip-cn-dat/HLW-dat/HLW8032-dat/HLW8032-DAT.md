@@ -25,7 +25,7 @@
 
 ![](2024-12-18-17-09-06.png)
 
-- please find them in repo
+- please find them in [repo](https://github.com/Edragon/HLW)
 
 ## ref
 
