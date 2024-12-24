@@ -1,5 +1,0 @@
-
-# amplifier-dat
-
-- OP07 
-
