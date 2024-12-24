@@ -116,4 +116,8 @@ New version define in the file User_Setup.h
 
 - Module - [[ESP32-WROVER-dat]]
 
-- [[memory-dat]] - [[sd-dat]] - [[audio-dat]] - [[I2C-dat]]
+- [[memory-dat]] - [[sd-dat]] - [[I2C-dat]]
+
+- [[audio-dat]] - [[amplifier-dat]] - [[NS4150-dat]] - [[ESP32-dac-dat]] - [[wav-dat]]
+
+- [[battery-charger-dat]] - [[IP5306-dat]]

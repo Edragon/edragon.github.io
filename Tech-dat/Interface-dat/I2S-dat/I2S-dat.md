@@ -77,7 +77,7 @@ List audio devices:
 
 - [[PCM5122-dat]] - [[MPC1083-dat]] - [[I2S-dat]]
 
-- [[bt-audio-dat]] - [[DAC-dat]] - [[ADC-dat]]
+- [[bt-audio-dat]] - [[ESP32-DAC-dat]] - [[ADC-dat]]
 
 - [[ES9023-dat]] - [[MPC1111-dat]]
 
