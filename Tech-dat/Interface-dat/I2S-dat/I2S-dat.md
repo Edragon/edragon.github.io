@@ -24,7 +24,7 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 ## Solution 
 
-- [[INMP441-dat]] - [[ICS-43434-dat]]
+I2S Output Digital Microphone - [[INMP441-dat]] - [[ICS-43434-dat]] - [[SPH0645-dat]]
 
 - [[WM8960-dat]]
 
