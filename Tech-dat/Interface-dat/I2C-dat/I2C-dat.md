@@ -20,7 +20,7 @@ for [[IOD1001-dat]]
 
 ## Boards 
 
-- [[MPC1029-dat]]
+- [[MPC1029-dat]] - [[MPC1083-dat]] - [[PCM5122-RPI-dat]]
 
 - [[AHT20-dat]] - [[KX023-1025-dat]]
 
