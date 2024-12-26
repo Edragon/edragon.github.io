@@ -1,0 +1,8 @@
+
+# ESP32-I2C-dat
+
+
+I2C
+GPIO 21 (SDA)
+GPIO 22 (SCL)
+

@@ -43,7 +43,7 @@ I2C Port - [[I2C-dat]]
 
 - [[SPI-LCD-dat]]
 
-- [[audio-dat]]
+- [[audio-dat]] - [[NS4150-dat]] - [[ESP32-DAC-dat]]
 
 Buttons 
 - programmerable: IO33 IO36 IO 39
@@ -116,7 +116,7 @@ New version define in the file User_Setup.h
 
 - [[memory-dat]] - [[sd-dat]] - [[I2C-dat]]
 
-- [[audio-dat]] - [[amplifier-dat]] - [[NS4150-dat]] - [[ESP32-dac-dat]] - [[wav-dat]]
+- [[audio-dat]] - [[amplifier-dat]] - [[NS4150-dat]] - [[ESP32-DAC-dat]] - [[wav-dat]]
 
 - [[battery-charger-dat]] - [[IP5306-dat]]
 

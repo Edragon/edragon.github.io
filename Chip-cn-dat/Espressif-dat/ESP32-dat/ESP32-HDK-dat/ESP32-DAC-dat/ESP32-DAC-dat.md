@@ -1,6 +1,8 @@
 
 
-# ESP32-DAC 
+# ESP32-DAC-dat 
+
+- [[ESP32-HDK-dat]]
 
 ESP32 DAC Channels Pinout
 
@@ -14,12 +16,26 @@ ESP32 DAC Channels Pinout
 ![](2024-12-24-17-40-39.png)
 
 
+Documentation is usually best for this, DAC is pretty complex at micro controller level. I have not worked on this type of project but the documentation looks pretty thorough.
+
+https://docs.espressif.com/projects/esp-idf/en/v5.3.1/esp32/api-reference/peripherals/dac.html
+
+https://www.reddit.com/r/embedded/comments/1an9a51/simple_audio_using_esp32_dac/
+
+- [[arduino-lib-dat]]
+
+
+
+
 ## play wav file 
 
 - file arduino code for running wav here: [[wav-dat]]
 
+- pre-build test code - https://github.com/Edragon/ESP32wavdac
 
-## ESP32 DAC Output Range
+
+
+## ESP32 DAC Output Range Explanation 
 
 Given that the analog reference voltage for ESP32 is 3.3v, we’d expect the DAC to “ideally” have an output swing from 0v up to 3.3v when we give it a digital input in the range of 0 up to 255. And it should “ideally” be a linear relationship.
 
