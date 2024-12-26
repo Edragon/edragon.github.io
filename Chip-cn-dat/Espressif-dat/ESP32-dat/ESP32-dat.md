@@ -22,6 +22,8 @@
 - [[ESP32-C2-dat]] 
 
 - [[ESP32-C3-dat]]
+- [[ESP32-C6-dat]]
+- [[ESP32-P4-dat]]
 
 
 ### Boards 
