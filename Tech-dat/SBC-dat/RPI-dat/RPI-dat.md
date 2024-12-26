@@ -13,6 +13,7 @@
 
 - [[raspbian-os-dat]]
 
+- [[RPI-HDK-dat]]
 
 ### power delivery 
 
