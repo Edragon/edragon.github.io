@@ -8,7 +8,7 @@
 - [ESP8266](https://github.com/earlephilhower/ESP8266Audio)
 - [XT_DAC_Audio 4_2_1](https://www.xtronical.com/the-dacaudio-library-download-and-installation/)
 
-
+- [audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S)
 
 ## Power Control 
 

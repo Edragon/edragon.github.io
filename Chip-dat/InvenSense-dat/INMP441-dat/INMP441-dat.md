@@ -15,7 +15,7 @@ https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
 
 ## code 
 
-- [[INMP441-code.ino]]
+- [[INMP441-code.ino]] - [[INMP441-code2.ino]]
 
 
 
