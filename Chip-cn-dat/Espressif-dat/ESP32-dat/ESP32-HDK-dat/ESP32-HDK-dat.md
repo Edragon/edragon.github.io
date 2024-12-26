@@ -2,9 +2,14 @@
 
 - [[ESP32-WROOM-dat]]
 
-## pins
+- [[I2S-dat]] - [[I2C-dat]] - [[DAC-dat]] - [[ADC-dat]] - [[serial-dat]]
 
-## Template
+
+## modules 
+
+### pins
+
+#### Template
 
 | Pin | Prerequisite | Used for   | Note |
 | --- | ------------ | ---------- | ---- |

@@ -19,55 +19,12 @@ This makes I2S a popular choice for high-speed data transfer applications.
 | WS   | LRCK         | Word clock line                    | G19      | PIN 35  |
 | SD   | SDIN / SDOUT | At least one multiplexed data line | G21      | PIN 40  |
 
-## RPI I2S check 
-
-Open the Raspberry Pi configuration tool:
-
-    sudo raspi-config
-
-Navigate to Interfacing Options → I2S and enable it.
-
-Check if the module is loaded:
-
-    lsmod | grep snd
-
-Look for snd_soc_bcm2835_i2s.
-
-Edit /boot/config.txt:
-
-Add the following lines to enable I2S and configure the DAC:
-
-    dtparam=i2s=on
-    dtoverlay=hifiberry-dac
-
-Save and reboot:
-
-    sudo reboot
-
-Verify Device Tree Overlay:
-
-After reboot, check for the overlay:
-
-    dmesg | grep -i i2s
-
-List audio devices:
-
-    aplay -l
-
-
-
-
-## RPI ref 
-
-- https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/#prettyPhoto
-- https://docs.microsoft.com/en-us/windows/iot-core/learn-about-hardware/pinmappings/pinmappingsrpi
-
-
-
 
 
 
 ## Solution 
+
+- [[INMP441-dat]] - [[ICS-43434-dat]]
 
 - [[WM8960-dat]]
 
