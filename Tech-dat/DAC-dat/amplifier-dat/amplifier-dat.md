@@ -1,6 +1,10 @@
 
 # amplifier-dat
 
+- [[DAC-dat]] - [[audio-dat]]
+
+
+
 
 ## Solutions 
 

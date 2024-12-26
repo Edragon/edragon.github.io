@@ -7,8 +7,11 @@
 
 - [[POE-dat]]
 
-- [[I2C-dat]] - [[I2S-dat]] - [[SPI-dat]] - [[USB-TTL-dat]] - [[serial-dat]] - [[1-wire-dat]]
+- [[I2C-dat]] - [[I2S-dat]] - [[SPI-dat]] - [[USB-TTL-dat]] - [[serial-dat]] - [[1-wire-dat]] - [[PWM-dat]]
 
+- [[DAC-dat]] - [[ADC-dat]] - [[serial-dat]] 
+
+- [[PDM-dat]]
 
 
 ## Breakout boards 

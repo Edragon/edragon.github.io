@@ -1,9 +1,5 @@
 # ESP32 HDK dat
 
-- [[ESP32-WROOM-dat]]
-
-- [[I2S-dat]] - [[I2C-dat]] - [[DAC-dat]] - [[ADC-dat]] - [[serial-dat]]
-
 
 ## modules 
 
@@ -50,26 +46,16 @@
 
 - [[infrared-dat]]
 
-### Serial
-
-- U0 = RXD0 / TXD0
-- U1 = SD2 / SD3 (can not use)
-- U2 = U2RXD = IO16, U2TXD = IO17
 
 ### Functions 
 
-- [[ESP32-SPI-dat]] - [[ESP32-GPIOs-dat]] - [[ESP32-USB-dat]] - [[I2C-dat]]
+- [[interface-dat]]
 
-EMAC = Ethernet 
+- use [[PDM-dat]] instead of [[I2S-dat]] on [[ESP32-S3-dat]]
 
 
-DAC 
-DAC1 (GPIO25)
-DAC2 (GPIO26)
+- [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] - [[sd-dat]]
 
-I2C
-GPIO 21 (SDA)
-GPIO 22 (SCL)
 
 
 ref 
@@ -78,11 +64,6 @@ ref
 - https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 
-
-## UART
-
-pin 17 / 18 = SD2 / SD3 = UART1
-pin 27 / 28 = IO 26 / 27 = UART2 
 
 
 ## NC Pins 
@@ -98,8 +79,14 @@ V2 Chips
 
 ## Modules
 
+- [[ESP-SDK-dat]]
+
 - [[ESP32-WROOM-dat]] - [[ESP32-C3-dat]]
+
+- [[ESP32-wrover-dat]]
 
 ## ref
 
 - [[BTB-dat]]
+
+EMAC = Ethernet 
