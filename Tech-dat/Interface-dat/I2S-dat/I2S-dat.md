@@ -24,9 +24,9 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 ## Solution 
 
-I2S Output Digital Microphone - [[INMP441-dat]] - [[ICS-43434-dat]] - [[SPH0645-dat]]
+I2S Output Digital Microphone - [[INMP441-dat]] - [[ICS-43434-dat]] - [[SPH0645-dat]] - [[MSM261S4030H0R-dat]]
 
-- [[WM8960-dat]]
+- [[WM8960-dat]] - [[WM8978-dat]]
 
 - [[PCM5102-dat]] - [[AMP1006-dat]]
 
@@ -36,9 +36,13 @@ I2S Output Digital Microphone - [[INMP441-dat]] - [[ICS-43434-dat]] - [[SPH0645-
 
 - [[bt-audio-dat]] - [[ESP32-DAC-dat]] - [[ADC-dat]]
 
-- [[ES9023-dat]] - [[MPC1111-dat]]
+- [[ES9023-dat]] - [[MPC1111-dat]] - [[ES9018-dat]]
 
 - [[PCM1808-dat]]
+
+- audio amplifer - [[MAX98357-dat]]
+
+
 
 ## ref 
 
