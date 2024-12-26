@@ -16,3 +16,7 @@
 | 2.8'' | Pick | 12Pin | ST7789 | IPS 240*320 | FPC | LEDK LEDA GND VCC IOVCC TE CS RESET DC SCK SDA GND |
 
 - [[ILC1075-dat]] - [[ilc1078-dat]]
+
+## SCH 
+
+![](2024-12-26-15-22-01.png)
