@@ -75,7 +75,14 @@ V2 Chips
 - Pins SCK/CLK, SDO/SD0, SDI/SD1, SHD/SD2, SWP/SD3, and SCS/CMD, i.e. GPIO6 to GPIO11 are used to connect to the module integrated SPI flash, not recommended for other functions.
 
 
+## Module Compare 
 
+![](2024-12-27-18-11-21.png)
+
+
+## Diagram 
+
+![](2024-12-27-18-11-50.png)
 
 ## Modules
 

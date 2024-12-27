@@ -13,17 +13,30 @@ The I2S pins can be assigned to almost any GPIO pin using the ESP32's **flexible
 
 | Signal                                   | Default GPIO |
 | ---------------------------------------- | ------------ |
-| I2S_WS (word select, also known as LRCK) | GPIO25       |
-| I2S_BCK (bit clock)                      | GPIO26       |
-| I2S_SD_OUT (serial data out, TX)         | GPIO22       |
-| I2S_SD_IN (serial data in, RX)           | GPIO35       |
+| I2S_WS (word select, also known as LRCK) | 25           |
+| I2S_BCK (bit clock)                      | 26           |
+| I2S_SD_OUT (serial data out, TX)         | 22           |
+| I2S_SD_IN (serial data in, RX)           | 35           |
 
 
-## With I2S amplifier 
 
-- [[MAX98357-dat]]
 
-![](2024-12-26-19-06-13.png)
+
+## I2S devices 
+
+- [[MAX98357-dat]] - [[MSM261S4030H0R-dat]] - [[INMP441-dat]]
+
+
+## demo code 
+
+- use dual I2S, please note the code generate by AI [[dual-i2s.ino]]
+
+| **Signal**       | **I2S0 GPIO Pin** | **I2S1 GPIO Pin** |
+| ---------------- | ----------------- | ----------------- |
+| BCLK (Bit Clock) | 26                | 19                |
+| WS (LRCLK)       | 25                | 18                |
+| DOUT (Data Out)  | 22                | Not used (-1)     |
+| DIN (Data In)    | Not used (-1)     | 23                |
 
 - [[arduino-lib-dat]]
 
