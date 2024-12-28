@@ -4,6 +4,14 @@
 - [[OV2640DS.pdf]]
 
 
+OV2640 Camera Module 2 Million Pixels HDF3M-811
+
+
+## Dimension 
+
+![](2024-12-28-16-44-42.png)
+
+
 ## SCH w/ESP32
 
 ![](2024-12-28-16-39-44.png)
@@ -39,3 +47,5 @@ define as
 ## ref 
 
 - [[MIPI-CSI-dat]] - [[CAM-dat]]
+
+- [[LDO-2CH-dat]]
