@@ -343,7 +343,13 @@ MT7688
 
 ### PTO
 - [[PTOS031-DAT]] - [[PTOS032-DAT]] - [[PTOS033-DAT]]
-  
+
+
+### SCM 
+
+- [[SCM1030-dat]]
+
+
 ### SCU
 - [[SCU1012-DAT]] - [[SCU1017-dat]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
