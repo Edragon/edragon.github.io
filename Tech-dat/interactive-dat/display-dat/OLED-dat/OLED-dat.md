@@ -2,10 +2,11 @@
 
 # oled-dat 
 
+drive interface - [[I2C-dat]] - [[SPI-dat]]
+
 ## boards 
-- [[IOD1001-dat]]
-- [[IOD1003-dat]]
-- [[ESP32-ISO-dat]]
+
+- [[IOD1001-dat]] - [[IOD1003-dat]] - [[ESP32-ISO-dat]]
 
 ## init 
 
@@ -32,9 +33,13 @@ using with STM32 SPI2
 
 - https://github.com/Edragon/Display_OLED-HDK
 - https://github.com/Edragon/Display_OLED
-
+- demo code - https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/driver-interactive/OLED/SSD1306SimpleDemo
 
 
 ## ref 
 
-- [[OLED]] - [[display-dat]] - [[display]]
+- [[display-dat]] 
+  
+- [[arduino-lib-dat]]
+
+- [[display]] - [[OLED]] 

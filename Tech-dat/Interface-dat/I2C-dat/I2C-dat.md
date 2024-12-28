@@ -32,6 +32,9 @@ for [[ESP32-CAM-dat]]
 
     Wire.begin(I2C_SDA, I2C_SCL);
 
+testing scan I2C
+    Wire.begin(4,13);
+    Wire.begin(2, 3);
 
 ## code library 
 
