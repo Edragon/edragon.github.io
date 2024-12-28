@@ -5,18 +5,19 @@
 
 - DS: https://www.laskakit.cz/user/related_files/ip5306.pdf
 
-## Press button 
+## HDK 
+
+- KEY = flashing LED output and key function as below 
 
 Push button’s connecting is shown in Fig 5. IP5306 can identify long push and short push.
 
-| Button Action In                                                                                         | System Action Out                                                             |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| If button is pushed longer than 30ms but shorter than 2s, IP5306 will identify the action as short push. | Short push will open SOC indicator LEDs and step-up converter                 |
-| If button is pushed longer than 2s, IP5306 will identify the action as long push.                        | Long push will close step-up convertor, SOC indicator LED and flashlight LED. |
-| If button is pushed shorter than 30ms                                                                    | IP5306 will ignore the action.                                                |
-| If two short push is detected within 1s                                                                  | IP5306 will open or close flashlight LED                                      |
-
-
+| **Feature**                                  | **Description**                                                                 |
+|----------------------------------------------|---------------------------------------------------------------------------------|
+| **No Key Required**                          | If no key is needed, PIN5 can remain floating.                                  |
+| **Short Press (30ms - 2s)**                  | Activates the battery level indicator and boost output.                         |
+| **Long Press (>2s)**                         | Turns the LED light on or off.                                                  |
+| **Press Duration (<30ms)**                   | No response will be triggered.                                                  |
+| **Double Short Press (within 1s)**           | Turns off the boost output, battery level indicator, and LED light.             |
 
 
 ## Typical SCH 
@@ -24,7 +25,14 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 ![](2024-03-27-17-08-13.png)
 
 
+## versions 
 
+- IP5306-I2C
+- IP5306-LC
+- IP5306       = 4.20V
+- IP5306_4.30V = 4.30V
+- IP5306_4.35V = 4.35V
+- IP5306_4.40V = 4.40V
 
 ## Note 
 
@@ -37,6 +45,20 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 - to prevent board enter into sleep mode automatically for small power load, you can add some more load resistors to keep it continuously on.
 
 - this chip has two version: LED version or I2C version, normllay we only provide LED-version 
+
+
+## IP3506-I2C 
+
+- LED1 = SCL
+- LED2 = SDA 
+- LED3 = detect the sleep mode 
+
+- [[IP5306-I2C-DS.pdf]]
+
+
+### SCH 
+
+![](2024-12-28-15-01-01.png)
 
 
 
