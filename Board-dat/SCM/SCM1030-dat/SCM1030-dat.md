@@ -69,11 +69,31 @@ ESP-32CAM is packaged in DIP and can be directly plugged into the backplane for 
     #define LED_GPIO_NUM   4
 
 
-## HDK SCH 
+## HDK 
+
+## SCH 
 
 ![](2024-12-28-16-37-39.png)
 
 - [[OV2640-dat]]
+
+
+### Pin Definitions 
+
+![](2024-12-28-17-36-00.png)
+
+
+- [[SD-dat]] - [[OV2640-dat]]
+
+LEDs - [[LED-dat]]
+
+| LEDs             | pin |
+| ---------------- | --- |
+| flashing LED     | 4   |
+| common indicator | 33  |
+
+
+
 
 
 ## ref 
