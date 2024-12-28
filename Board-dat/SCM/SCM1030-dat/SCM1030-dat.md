@@ -8,6 +8,8 @@
 ESP32-CAM WiFi + Bluetooth Camera Module Development Board ESP32 With Camera Module OV2640
  
  ![](2023-12-04-18-15-59.png)
+
+
 ### Features:
  
 - Ultra-small 802.11b/g/n Wi-Fi + BT/BLE SoC module
@@ -30,13 +32,58 @@ The ESP32-CAM has a very competitive small-size camera module that can operate i
 ESP-32CAM can be widely used in various IoT applications. It is suitable for home smart devices, industrial wireless control, wireless monitoring, QR wireless identification, wireless positioning system signals and other IoT applications. It is an ideal solution for IoT applications.
 ESP-32CAM is packaged in DIP and can be directly plugged into the backplane for quick production. It provides customers with a highly reliable connection method and is convenient for use in various IoT hardware terminals.
 
+## SDK
+
+
+### default serial demo 
+
+    Initializing the camera module...Ok!
+    Initializing the MicroSD card module... Starting SD Card
+    Picture file name: /picture0.jpg
+    Saved file to path: /picture0.jpg
+
+### Setup with official codes 
+
+- [[CAM-dat]] - [[OV2640-dat]]
+
+    #elif defined(CAMERA_MODEL_AI_THINKER)
+    #define PWDN_GPIO_NUM  32
+    #define RESET_GPIO_NUM -1
+    #define XCLK_GPIO_NUM  0
+    #define SIOD_GPIO_NUM  26
+    #define SIOC_GPIO_NUM  27
+
+    #define Y9_GPIO_NUM    35
+    #define Y8_GPIO_NUM    34
+    #define Y7_GPIO_NUM    39
+    #define Y6_GPIO_NUM    36
+    #define Y5_GPIO_NUM    21
+    #define Y4_GPIO_NUM    19
+    #define Y3_GPIO_NUM    18
+    #define Y2_GPIO_NUM    5
+    #define VSYNC_GPIO_NUM 25
+    #define HREF_GPIO_NUM  23
+    #define PCLK_GPIO_NUM  22
+
+    // 4 for flash led or 33 for normal led
+    #define LED_GPIO_NUM   4
+
+
+## HDK SCH 
+
+![](2024-12-28-16-37-39.png)
+
+- [[OV2640-dat]]
+
 
 ## ref 
+
+- default factory firmware demo [[ai-thinker_ESP32-CAM_DIO_V1.0_20180825.bin]]
+
 
 - [[SCM1030]]
 - https://wiki.ai-thinker.com/esp32-cam
 - demo code - https://github.com/donny681/ESP32_CAMERA_QR
 - use guide CN - https://github.com/donny681/ESP32_CAMERA_QR/wiki
 - [[ESP-SDK-dat]]
-
 
