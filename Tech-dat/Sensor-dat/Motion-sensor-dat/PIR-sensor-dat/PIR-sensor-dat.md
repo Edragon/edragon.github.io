@@ -5,7 +5,11 @@
 
 ## Boards 
 
-- [[SMO1088-dat]] - [[SMOS026-dat]] - [[SMO1060-dat]]
+- mini type [[SMO1088-dat]] - panel integrated [[SMOS026-dat]] - classic type [[SMO1060-dat]]
+
+
+
+
 
 ## Working priciple 
 
@@ -77,7 +81,10 @@ when the human body from the front to the probe or from top to bottom or from bo
 
 * '''The dual direction of sensor should be installed parallel as far as possible in inline with human movement.''' In order to increase the sensor angle range, the module using a circular lens also makes the probe surrounded induction, but the left and right sides still up and down in both directions sensing range, sensitivity, still need to try to install the above requirements.
 
+## BOM 
 
-## SCH1 = BIS0001
+- [[BISS0001]]
 
-![](2024-03-25-16-27-21.png)
+## ref 
+
+- [[PIR-sensor]]
