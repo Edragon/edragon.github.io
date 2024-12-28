@@ -22,7 +22,7 @@ https://github.com/espressif/arduino-esp32/tree/master/libraries/SD
 
 ## ESP32 
 
-Dat 0~4
+Dat 0~4 used in [[SCAM1030-dat]]
 
 MicroSD Card Connections
 

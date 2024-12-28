@@ -83,7 +83,7 @@ ESP-32CAM is packaged in DIP and can be directly plugged into the backplane for 
 ![](2024-12-28-17-36-00.png)
 
 
-- [[SD-dat]] - [[OV2640-dat]]
+- [[SD-dat]] - [[OV2640-dat]] - onboard [[PSRAM-dat]] from [[memory-dat]]
 
 LEDs - [[LED-dat]]
 
@@ -92,7 +92,7 @@ LEDs - [[LED-dat]]
 | flashing LED     | 4   |
 | common indicator | 33  |
 
-
+to get free pins, remove card in [[SD-dat]] 
 
 
 
