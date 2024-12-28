@@ -71,6 +71,8 @@ Industrial / Sensor - [[sensor-dat]]
 
 - [[actuator-dat]] - [[relay-dat]]
 
+- [[CAM-dat]] - [[OV2640-dat]]
+
 ### Interface 
 
 - [[interface-dat]]
