@@ -8,7 +8,7 @@
 Linear SuperCapacitor Charger IC With Cell Balancing
 - [[CN3125-dat]]
 
-
+- [[CN3302-dat]]
 
 
 
