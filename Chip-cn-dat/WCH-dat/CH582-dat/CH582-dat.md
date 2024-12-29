@@ -1,0 +1,5 @@
+
+# CH582-dat
+
+BLE5.3 60MHz RAM:32KB ROM:448KB
+

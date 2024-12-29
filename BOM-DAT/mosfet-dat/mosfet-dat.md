@@ -22,7 +22,6 @@
 | IR FR1205 |      | [[Infineon-dat]] | 33A   | D2PAK    | N       | 55V N-Channel MOSFET                        |
 
 
-- AO3406
 
 - [[D4184-dat]]
 
@@ -68,6 +67,18 @@ Using an N-type transistor for high-side switching is possible but requires a co
 | ---- | ------ | ------ | ----- |
 | OFF  | ON     | -      | -     |
 | ON   | OFF    | -      | -     |
+
+
+
+## more mosfet 
+
+- AGM30P05A = 30V 75A 59.5W 5.5mΩ@10V,15A 1.6V@250uA 1PCSPChannel PDFN5x6 MOSFETs ROHS = AGM-Semi
+
+| BVDSS | RDSON | ID   |
+| ----- | ----- | ---- |
+| -30V  | 5.5mΩ | -75A |
+
+- [[AGM-Semi-AGM30P05A_C6719407.pdf]]
 
 
 

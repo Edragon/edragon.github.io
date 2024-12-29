@@ -15,6 +15,8 @@
 - [[CH57x-dat]]
 - [[CH579-dat]]
 
+- [[CH582-dat]]
+
 - [[WCH-PROG-dat]]
 
 

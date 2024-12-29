@@ -2,7 +2,7 @@
 
 - [[MPS-dat]] - [[MP1658-dat]]
 
-- [[TI-power-dat]]
+- [[TI-power-dat]] - [[silergy-dat]]
 
 
 

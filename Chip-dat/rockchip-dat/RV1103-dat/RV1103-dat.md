@@ -25,3 +25,5 @@ RV1103 has a build-in 16-bit DRAM DDR2 capable of sustaining demanding memory ba
 ## ref 
 
 - [[Rockchip RV1103 Datasheet V1.1-20220427.pdf]]
+
+- luckfox pico SCH - [[Luckfox-Pico-SCH.pdf]]
