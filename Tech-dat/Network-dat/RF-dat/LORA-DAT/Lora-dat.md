@@ -40,6 +40,8 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 - SX1278
 - LLCC68
+- SX1262
+- [[ASR6500-dat]]
 
 ## wiring to ESP32
 

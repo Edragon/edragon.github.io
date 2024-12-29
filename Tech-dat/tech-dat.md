@@ -61,9 +61,9 @@
 
 ### Sensors and actuator 
 
-Industrial / Sensor - [[sensor-dat]]
+- [[sensor-dat]]
 
-- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]]
+- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[temperature-sensor-dat]]
 
 [[Motion-sensor-dat]]
 
@@ -72,6 +72,8 @@ Industrial / Sensor - [[sensor-dat]]
 - [[actuator-dat]] - [[relay-dat]]
 
 - [[CAM-dat]] - [[OV2640-dat]]
+
+- [[energy-meter-dat]] - [[current-sensor-dat]]
 
 ### Interface 
 
@@ -84,6 +86,7 @@ Industrial / Sensor - [[sensor-dat]]
 
 - [[terminal-clamping]] - [[servo-DAT]] - [[BTB-dat]]
 
+- [[protection-dat]]
 
 ## Code 
 
