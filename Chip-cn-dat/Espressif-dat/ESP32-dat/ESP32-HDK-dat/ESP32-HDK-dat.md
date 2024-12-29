@@ -37,6 +37,8 @@
 | 22  |              | U1         |      |
 | 23  |              | VSPI       |      |
 
+
+
 ### RMT
 
 - RMT_SIG_IN0~7
@@ -83,6 +85,31 @@ V2 Chips
 ## Diagram 
 
 ![](2024-12-27-18-11-50.png)
+
+## boot mode 
+
+### Table 3-1. Default Configuration of Strapping Pins
+
+- from esp32 chip datasheet 
+
+| Strapping Pin | note   | Default Configuration Bit | Value |
+| ------------- | ------ | ------------------------- | ----- |
+| GPIO0         |        | Pull-up                   | 1     |
+| GPIO2         |        | Pull-down                 | 0     |
+| MTDI          | GPIO12 | Pull-down                 | 0     |
+| MTDO          | GPIO15 | Pull-up                   | 1     |
+| GPIO5         |        | Pull-up                   | 1     |
+
+### Table 6: Chip Boot Mode Control
+
+- from esp32 wroom module datasheet 
+  
+| Boot Mode                | GPIO0 | GPIO2     |
+| ------------------------ | ----- | --------- |
+| SPI Boot Mode            | 1     | Any value |
+| Joint Download Boot Mode | 0     | 0         |
+
+
 
 ## Modules
 

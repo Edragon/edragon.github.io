@@ -12,6 +12,7 @@ https://www.electrodragon.com/product/wroom-32/
 ![](2024-01-09-14-50-52.png)
 
 ### 32E 
+
 The ESP32-WROOM-32E and ESP32-WROOM-32D are both modules based on the ESP32 system-on-a-chip (SoC) by Espressif Systems. They are very similar in terms of features and capabilities but have a few key differences.
 
 The main difference between the ESP32-WROOM-32E and ESP32-WROOM-32D lies in their RF (Radio Frequency) performance.
@@ -105,6 +106,9 @@ obseleted
 ## Based Design 
 
 - [[NWI1245-dat]] - [[NWI1206-dat]] - [[NWI1100-dat]]
+
+
+
 
 ## ref 
 

@@ -2,14 +2,22 @@
 # Logic-shifter-dat
 
 
+## Chip and solutions
 
 bidirection logic shifter
 
+- [[ti-signal-dat]]
+
 - [[TXB0108-dat]] - [[TXS0108-dat]] - [[BSS138-dat]] 
+
+- [[LSF0102-dat]]
 
 one-direction logic shifter
 
 - [[74HCT245-dat]]
+
+
+
 
 
 ## TXB010x VS TXS010x 
