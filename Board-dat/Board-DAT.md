@@ -131,6 +131,8 @@ RPI LCD
 
 - high power led panel - [[ILE1073-dat]]
 
+- RGB LED breakout [[ILE1008-dat]]
+
 ### ITF
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
 
