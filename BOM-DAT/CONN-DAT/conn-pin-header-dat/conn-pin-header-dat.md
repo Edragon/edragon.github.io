@@ -10,3 +10,10 @@
 
 
 Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
+
+
+## dimension 
+
+
+
+![](2024-12-30-16-39-04.png)
