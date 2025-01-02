@@ -16,7 +16,7 @@ Chinese Spring Festival holiday will influence at least 4 weeks, 2.5 weeks befor
 | Shipment End          | Jan. | 25   |
 | The holiday Start     | Jan. | 29   |
 | The holiday End       | Feb. | 4    |
-| Shipment start        | Feb. | 5    |
+| Shipment start        | Feb. | 6    |
 | Product Fully Recover | Feb. | 12   |
 
 
