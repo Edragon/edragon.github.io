@@ -35,7 +35,7 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 - IP5306_4.40V = 4.40V
 
 ## Note 
-
+- According to the data sheet (in Chinese language only by the way), if the load current drops below 45mA during 32 seconds, the IP5306 goes into standby.
 - battery need to be attached and "activate" by charging first 
 - MAKE SURE to use high quality, full charged battery for testing, otherwise could cause power off 
 - The board does not supports modern quick charging options, like QC, PD, etc 
@@ -45,6 +45,12 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 - to prevent board enter into sleep mode automatically for small power load, you can add some more load resistors to keep it continuously on.
 
 - this chip has two version: LED version or I2C version, normllay we only provide LED-version 
+
+### standby issue 
+
+- You can use IP5306_CK，this version always output 5V.
+- I2C function only apply to IP5306_I2C custom design. you can order samples use the name: IP5306_I2C.
+- Accessory is the I2C register document of IP5306, you can use IP5306_I2C, then modify IP5306's register(reg0x00[1]=1) to make IP5306 always output 5V.
 
 
 ## IP3506-I2C 
@@ -63,5 +69,7 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 
 
 ## ref 
+
+- [[IP5306]]
 
 - [[solutions-dat]]
