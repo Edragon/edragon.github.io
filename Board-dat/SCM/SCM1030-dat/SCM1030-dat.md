@@ -46,6 +46,8 @@ ESP-32CAM is packaged in DIP and can be directly plugged into the backplane for 
 
 - [[CAM-dat]] - [[OV2640-dat]]
 
+pin define 
+
     #elif defined(CAMERA_MODEL_AI_THINKER)
     #define PWDN_GPIO_NUM  32
     #define RESET_GPIO_NUM -1
