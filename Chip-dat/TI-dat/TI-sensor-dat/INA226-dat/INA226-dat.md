@@ -27,4 +27,4 @@ Please note that providing code for INA226 without any specific requirements wou
 
 ## ref 
 
-- [[power-meter-dat]]
+- [[power-meter-dat/power-sensor-dat]]

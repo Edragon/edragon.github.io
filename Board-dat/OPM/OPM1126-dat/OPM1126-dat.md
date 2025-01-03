@@ -38,7 +38,7 @@ Output Side
 
 ## ref 
 
-- [[HLW8012-dat]] - [[HLW8032-dat]] - [[HLW-dat]] - [[ac-mains-dat]] - [[power-meter-dat]]
+- [[HLW8012-dat]] - [[HLW8032-dat]] - [[HLW-dat]] - [[ac-mains-dat]] - [[power-meter-dat/power-sensor-dat]]
 
 Boards - [[OPM1126-dat]]
 

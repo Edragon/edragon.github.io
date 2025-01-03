@@ -26,6 +26,6 @@ serial output
 
 - [[INA219-dat]] - [[I2C-dat]]
 
-- [[power-meter-dat]]
+- [[power-meter-dat/power-sensor-dat]]
 
 - [[SVC1027]]
