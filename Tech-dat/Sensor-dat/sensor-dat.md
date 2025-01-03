@@ -10,7 +10,7 @@
 
 - [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[temperature-sensor-dat]]
 
-- [[power-sensor-dat]] - [[current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
+- [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
 
 
 - [[actuator-dat]] - [[relay-dat]]
