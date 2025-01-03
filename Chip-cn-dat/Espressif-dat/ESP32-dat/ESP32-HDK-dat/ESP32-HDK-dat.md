@@ -119,8 +119,17 @@ V2 Chips
 
 - [[ESP32-wrover-dat]]
 
+
+## documentas 
+
+- [[esp32_technical_reference_manual_en_v5.2.pdf]]
+
+- [[ESP32_Series_datasheet_v4.7.pdf]]
+
 ## ref
 
 - [[BTB-dat]]
+
+- [[ESP32-HDK]]
 
 EMAC = Ethernet 

@@ -65,9 +65,13 @@ Module interfaces
 
 
 
-## SCH
+## SCH periperhals 
 
 ![](14-36-18-09-08-2023.png)
+
+## Module Schematic 
+
+![](2025-01-03-14-38-13.png)
 
 ## Pin Definitions 
 
@@ -88,7 +92,8 @@ ESP32-WROOM-32
 
 ## Datasheet 
 
-- [ESP32-WROOM-32E-DAT EN new1](https://www.espressif.com.cn/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
+- [[esp32-wroom-32e_esp32-wroom-32ue_datasheet_en_v1.7.pdf]]
+
 
 obseleted 
 - [ESP32-WROOM-32-DAT EN](https://www.espressif.com.cn/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
@@ -98,6 +103,10 @@ obseleted
 - [ESP32-WROOM-32D-DAT CN](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_cn.pdf)
 - 
 6 Peripheral Schematics
+
+
+
+
 
 ### updates 
 
