@@ -10,6 +10,12 @@
 
 ![](2024-01-24-16-12-15.png)
 
+
+## Solar Boards 
+
+- [[OPM1146-dat]] - [[BAT1002-dat]]
+
+
 ## ref 
 
 - [[solar-panel-dat]]

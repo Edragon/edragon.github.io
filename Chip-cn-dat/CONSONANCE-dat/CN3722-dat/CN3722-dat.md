@@ -1,6 +1,8 @@
 
 # CN3722-dat
 
+5A, Multi-Chemistry Battery Charger IC With Photovoltaic Cell MPPT Function
+
 http://www.consonance-elec.com/seriesCN3722-E.html
 
 ## ref 
