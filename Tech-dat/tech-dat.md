@@ -45,7 +45,7 @@
 
 ### Power 
 
-- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-meter-dat]]
+- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-meter-dat/power-sensor-dat]]
   
 - [[dcdc-dat]] - [[dcdc-buck-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
 
@@ -65,17 +65,7 @@
 
 - [[sensor-dat]]
 
-- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[temperature-sensor-dat]]
 
-[[Motion-sensor-dat]]
-
-- [[PIR-sensor-dat]]
-
-- [[actuator-dat]] - [[relay-dat]]
-
-- [[CAM-dat]] - [[OV2640-dat]]
-
-- [[energy-meter-dat]] - [[current-sensor-dat]]
 
 ### Interface 
 

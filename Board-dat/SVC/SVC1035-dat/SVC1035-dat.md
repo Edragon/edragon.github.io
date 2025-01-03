@@ -23,7 +23,7 @@ Pins Definitions
 
 ## Sensors 
 
-- [[ZMCT103-dat]] - [[ZMPT107-dat]]
+- [[ZMCT103-dat]] - [[ZMPT107-dat]] - [[zeming-dat]]
 
 
 
