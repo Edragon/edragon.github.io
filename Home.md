@@ -18,7 +18,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
   
-- [[Tech-DAT]] - [[SDK-DAT]]
+- [[Tech-DAT]] - [[SDK-DAT]] - [[app-dat]]
   
 - [[BOM-DAT]] - [[service-dat]]
 
