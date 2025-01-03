@@ -1,13 +1,4 @@
-/*
-  ESP32 SD I2S Music Player
-  esp32-i2s-sd-player.ino
-  Plays MP3 file from microSD card
-  Uses MAX98357 I2S Amplifier Module
-  Uses ESP32-audioI2S Library - https://github.com/schreibfaul1/ESP32-audioI2S
-  * 
-  DroneBot Workshop 2022
-  https://dronebotworkshop.com
-*/
+
 
 // Include required libraries
 #include "Arduino.h"

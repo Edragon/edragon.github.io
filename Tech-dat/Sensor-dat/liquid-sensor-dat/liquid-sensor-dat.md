@@ -3,7 +3,7 @@
 
 - turbidity [[STH1074-dat]]
 
-- TDS sensor [[STH1078-dat]]
+- TDS sensor [[STH1078-dat]] - [[TDS-sensor-dat]]
 
 - non-contact Liquid Level Sensor - [[SMO1095-dat]]
 
