@@ -108,5 +108,5 @@ to get free pins, remove card in [[SD-dat]]
 - demo code - https://github.com/donny681/ESP32_CAMERA_QR
 - use guide CN - https://github.com/donny681/ESP32_CAMERA_QR/wiki
 
-- [[ESP-SDK-dat]] - [[ESP32-HDK-dat]]
+- [[ESP-SDK-dat]] - [[ESP32-HDK-dat]] - [[ESP32-WROOM-dat]]
 

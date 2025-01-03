@@ -2,7 +2,7 @@
 # sensor-dat 
 
 
-- [[camera-dat]] - [[OV2640-dat]]
+- [[camera-dat]] - [[microphone-sensor-dat]]
 
 - [[motion-sensor-dat]] - [[PIR-sensor-dat]]
 
