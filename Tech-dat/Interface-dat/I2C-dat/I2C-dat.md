@@ -5,10 +5,9 @@
 
 for [[IOD1001-dat]]
 
+for [[ESP32-CAM-dat]]
 //I2C device found at address 0x3C  ! // OLED = 0x78
-
 //I2C device found at address 0x75  ! // IP5306
-
 //I2C device found at address 0x76  ! // BME280
 
 
@@ -20,7 +19,7 @@ for [[IOD1001-dat]]
 
 ## Boards 
 
-- [[MPC1029-dat]]
+- [[MPC1029-dat]] - [[MPC1083-dat]] - [[PCM5122-RPI-dat]]
 
 - [[AHT20-dat]] - [[KX023-1025-dat]]
 
@@ -33,6 +32,9 @@ for [[IOD1001-dat]]
 
     Wire.begin(I2C_SDA, I2C_SCL);
 
+testing scan I2C
+    Wire.begin(4,13);
+    Wire.begin(2, 3);
 
 ## code library 
 
@@ -65,7 +67,24 @@ Then use the UP/Down keys to select "5 Interfacing Options", press Enter, select
     pi@raspberrypi:~ $ cd Desktop/ `pi@raspberrypi:~/Desktop $ git clone https://github.com/DFRobot/DFRobot_CH423
 
 
+### I2C scan in RPI 
 
+install scan 
+
+    sudo apt-get install -y i2c-tools
+
+scan 
+    i2cdetect -y 1
+
+test
+
+Write data to the PCM5122 registers (replace 0x4C with the correct I2C address):
+
+    i2cset -y 1 0x4C <register> <value>
+
+Read data from the PCM5122:
+
+    i2cget -y 1 0x4C <register>
 
 
 ## ref 

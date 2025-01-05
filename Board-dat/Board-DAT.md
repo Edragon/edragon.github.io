@@ -131,6 +131,8 @@ RPI LCD
 
 - high power led panel - [[ILE1073-dat]]
 
+- RGB LED breakout [[ILE1008-dat]]
+
 ### ITF
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
 
@@ -343,7 +345,13 @@ MT7688
 
 ### PTO
 - [[PTOS031-DAT]] - [[PTOS032-DAT]] - [[PTOS033-DAT]]
-  
+
+
+### SCM 
+
+- [[SCM1030-dat]]
+
+
 ### SCU
 - [[SCU1012-DAT]] - [[SCU1017-dat]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 

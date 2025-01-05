@@ -43,7 +43,7 @@ I2C Port - [[I2C-dat]]
 
 - [[SPI-LCD-dat]]
 
-- [[audio-dat]]
+- [[audio-dat]] - [[NS4150-dat]] - [[ESP32-DAC-dat]]
 
 Buttons 
 - programmerable: IO33 IO36 IO 39
@@ -91,7 +91,7 @@ New version define in the file User_Setup.h
 
 * Based on Arduino TFT_eSPI library
 * Add extra pin definitions, demo code please see [here](https://github.com/Edragon/Arduino-ESP32) (Arduino-ESP32/Sketchbook/Display/).
-
+- https://github.com/Edragon/Arduino-ESP32/tree/master/BSP/NWI/NWI1241/TFT_Matrix_feat_NWI1241
 * Working demo please search [[contact-dat]] channels
 
 - https://github.com/Bodmer/TFT_eSPI
@@ -112,6 +112,12 @@ New version define in the file User_Setup.h
 
 ## ref 
 
-- [[NWI1241]]
-
 - Module - [[ESP32-WROVER-dat]]
+
+- [[memory-dat]] - [[sd-dat]] - [[I2C-dat]]
+
+- [[audio-dat]] - [[amplifier-dat]] - [[NS4150-dat]] - [[ESP32-DAC-dat]] - [[wav-dat]]
+
+- [[battery-charger-dat]] - [[IP5306-dat]]
+
+- [[NWI1241]]

@@ -1,10 +1,11 @@
 # ESP32 HDK dat
 
-- [[ESP32-WROOM-dat]]
 
-## pins
+## modules 
 
-## Template
+### pins
+
+#### Template
 
 | Pin | Prerequisite | Used for   | Note |
 | --- | ------------ | ---------- | ---- |
@@ -36,6 +37,8 @@
 | 22  |              | U1         |      |
 | 23  |              | VSPI       |      |
 
+
+
 ### RMT
 
 - RMT_SIG_IN0~7
@@ -45,26 +48,16 @@
 
 - [[infrared-dat]]
 
-### Serial
-
-- U0 = RXD0 / TXD0
-- U1 = SD2 / SD3 (can not use)
-- U2 = U2RXD = IO16, U2TXD = IO17
 
 ### Functions 
 
-- [[ESP32-SPI-dat]] - [[ESP32-GPIOs-dat]] - [[ESP32-USB-dat]] - [[I2C-dat]]
+- [[interface-dat]]
 
-EMAC = Ethernet 
+- use [[PDM-dat]] instead of [[I2S-dat]] on [[ESP32-S3-dat]]
 
 
-DAC 
-DAC1 (GPIO25)
-DAC2 (GPIO26)
+- [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] - [[sd-dat]]
 
-I2C
-GPIO 21 (SDA)
-GPIO 22 (SCL)
 
 
 ref 
@@ -73,11 +66,6 @@ ref
 - https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 
-
-## UART
-
-pin 17 / 18 = SD2 / SD3 = UART1
-pin 27 / 28 = IO 26 / 27 = UART2 
 
 
 ## NC Pins 
@@ -89,12 +77,59 @@ V2 Chips
 - Pins SCK/CLK, SDO/SD0, SDI/SD1, SHD/SD2, SWP/SD3, and SCS/CMD, i.e. GPIO6 to GPIO11 are used to connect to the module integrated SPI flash, not recommended for other functions.
 
 
+## Module Compare 
+
+![](2024-12-27-18-11-21.png)
+
+
+## Diagram 
+
+![](2024-12-27-18-11-50.png)
+
+## boot mode 
+
+### Table 3-1. Default Configuration of Strapping Pins
+
+- from esp32 chip datasheet 
+
+| Strapping Pin | note   | Default Configuration Bit | Value |
+| ------------- | ------ | ------------------------- | ----- |
+| GPIO0         |        | Pull-up                   | 1     |
+| GPIO2         |        | Pull-down                 | 0     |
+| MTDI          | GPIO12 | Pull-down                 | 0     |
+| MTDO          | GPIO15 | Pull-up                   | 1     |
+| GPIO5         |        | Pull-up                   | 1     |
+
+### Table 6: Chip Boot Mode Control
+
+- from esp32 wroom module datasheet 
+  
+| Boot Mode                | GPIO0 | GPIO2     |
+| ------------------------ | ----- | --------- |
+| SPI Boot Mode            | 1     | Any value |
+| Joint Download Boot Mode | 0     | 0         |
+
 
 
 ## Modules
 
+- [[ESP-SDK-dat]]
+
 - [[ESP32-WROOM-dat]] - [[ESP32-C3-dat]]
+
+- [[ESP32-wrover-dat]]
+
+
+## documentas 
+
+- [[esp32_technical_reference_manual_en_v5.2.pdf]]
+
+- [[ESP32_Series_datasheet_v4.7.pdf]]
 
 ## ref
 
 - [[BTB-dat]]
+
+- [[ESP32-HDK]]
+
+EMAC = Ethernet 

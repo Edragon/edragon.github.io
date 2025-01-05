@@ -1,7 +1,7 @@
 
 # usb-dat 
 
-- [[USB-cable-dat]]
+- [[USB-cable-dat]] - [[USB-ESD-dat]]
 
 - libusb-win32
 - https://zadig.akeo.ie/

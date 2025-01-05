@@ -82,7 +82,7 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 ### On module storage EMMC 
 
-- flash into [[RPI-OS-dat]]
+- flash into [[raspbian-os-dat]]
 
 ### On module wifi 
 

@@ -18,3 +18,4 @@ output
 - https://github.com/dvarrel/AHT20
 
 
+- [[AHT20-datasheet-2020-4-16.pdf]]

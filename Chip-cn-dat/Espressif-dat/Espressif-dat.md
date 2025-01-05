@@ -3,7 +3,7 @@
 
 ## Modules Series 
 
-- [[ESP32-dat]] 
+- [[ESP32-dat]] - [[ESP32-compare-dat]]
 
 - [[ESP8266-dat]]
 

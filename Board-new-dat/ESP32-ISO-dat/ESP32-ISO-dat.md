@@ -70,7 +70,7 @@
 
 - [[esp32-iso]]
 
-- [[power-meter-dat]] - [[I2C-dat]]
+- [[power-meter-dat/power-sensor-dat]] - [[I2C-dat]]
 
 ## Demo video
 

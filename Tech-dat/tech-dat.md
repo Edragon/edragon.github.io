@@ -24,7 +24,7 @@
 
 - [[db9-dat]]
 
-### Processing 
+### MCU / CTRL / Processing 
 
 - [[mcu-dat]] - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
@@ -45,7 +45,9 @@
 
 ### Power 
 
-- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-meter-dat]]
+- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-meter-dat/power-sensor-dat]]
+  
+- [[dcdc-dat]] - [[dcdc-buck-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
 
 - [[low-power-dat]]
 
@@ -61,15 +63,9 @@
 
 ### Sensors and actuator 
 
-Industrial / Sensor - [[sensor-dat]]
+- [[sensor-dat]]
 
-- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]]
 
-[[Motion-sensor-dat]]
-
-- [[PIR-sensor-dat]]
-
-- [[actuator-dat]] - [[relay-dat]]
 
 ### Interface 
 
@@ -82,6 +78,7 @@ Industrial / Sensor - [[sensor-dat]]
 
 - [[terminal-clamping]] - [[servo-DAT]] - [[BTB-dat]]
 
+- [[protection-dat]]
 
 ## Code 
 
