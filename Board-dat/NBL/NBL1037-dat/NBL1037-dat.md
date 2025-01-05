@@ -17,11 +17,6 @@ https://www.electrodragon.com/product/eb8000-bluetooth-audio-module-bt_v2-1/
 - [mini development board here. ](https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/) - [[NBL1097-dat]]
 
 
-## ref 
-
-- [BT Audio selection guide see here.](https://www.electrodragon.com/w/Category:BT_Audio)
-
-- [[BEKEN-dat]]
 
 
 ## suitable amplifier 
@@ -52,3 +47,10 @@ https://www.electrodragon.com/product/eb8000-bluetooth-audio-module-bt_v2-1/
 - [Demo video 4 – SPP AT commands test.](https://www.youtube.com/watch?v=m3IJFxKQyt0)
 - [New demo video – streaming and AT control here.](https://www.youtube.com/watch?v=z4KTndMXxmM)
 
+
+## ref 
+
+- [BT Audio selection guide see here.](https://www.electrodragon.com/w/Category:BT_Audio)
+
+
+- [[BK8000-dat]] - [[BEKEN-dat]] - [[HT6872-dat]] - [[PAM8610-dat]]
