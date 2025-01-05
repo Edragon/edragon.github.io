@@ -50,7 +50,9 @@ This module is mainly used for short distance transmission of music, you can eas
 * Module size 25x13.5x1.8mm
 * Adapter plate size 31x25mm
 
-## AT Commands 
+## SDK 
+
+### AT Commands 
 
 * **[See the demo wiring video here](https://www.youtube.com/watch?v=z4KTndMXxmM)**
 * Other users demo video:  [BK8000L Bluetooth module HFP test](https://www.youtube.com/watch?v=p5ptruefUnM)
@@ -60,7 +62,7 @@ This module is mainly used for short distance transmission of music, you can eas
 * All the at commands end up with \r\n (new line)
 * Default baudrate 9600
   
-###  Basic Controll 
+####  Basic Controll 
 Serial instruction Parameter Description Example
 * CA enters pairing AT + CA \r\n
 * CB exit pairing AT + CB \r\n
@@ -88,7 +90,7 @@ Serial instruction Parameter Description Example
 * Fast forward MF AT + MF \r\n
 * MH rewind AT + MH \r\n
 
-## Inquiry 
+### Inquiry 
 
 Bluetooth serial command Description Example return information
 
@@ -114,7 +116,7 @@ Bluetooth serial command Description Example return information
     * Outgoing: "M3 \r\n"
     * Call: "M4 \r\n"
 
-## Feedback Send from Module 
+### Feedback Send from Module 
 * II connection succeeds \r\n
 * IA Disconnect \r\n
 * MA   Pause: MA \r\n
@@ -126,7 +128,51 @@ Bluetooth serial command Description Example return information
 
 
 
-## Module Pin Definitions 
+### SPP Commands (e.g. change password, send data) 
+
+
+
+| Example Commands | Feedback            | Description                   |
+| ---------------- | ------------------- | ----------------------------- |
+| AT+MN\r\n        | NA: BK8000L         | Check bluetooth name          |
+| AT+MO\r\n        | C0                  | check connection status       |
+| -                | II<br>II<br>II<br> | Connected connection feedback |
+| AT+MO\r\n        | C1                  | check connection status       |
+
+Note:
+
+- Make sure module paied with your device (phone)
+- Use BlueSPP app from Google play, make sure BlueSPP is connected 
+- Run following commands.
+
+Commands:
+
+APT + SPPXXXX four-digit password (8888),
+
+- Open SPP by using password
+- e.g. APT + SPPXXXX \r\n as long as the hair once,
+- The password is correct: OK \r\n
+- Password Error: ERR \r\n
+
+APT + XXXXXXX total data length of each time send/receive, it recommended not to exceed 64byte
+
+ - e.g. APT + XXXXXX \r\n
+ - The data sent to the mobile phone side
+ - Success: OK \r\n
+ - Error: ERR \r\n
+
+APR + XXXXXXX total data length of each time send/receive, it recommended not to exceed 64byte
+
+- e.g. APR + XXXXXX \r\n
+- Data received from the mobile terminal
+- Data sent over the phone
+- APR + XXXXXX \r\n
+
+
+
+## HDK
+
+### Module Pin Definitions 
 
 ![](2025-01-05-17-03-39.png)
 
@@ -168,44 +214,3 @@ Bluetooth serial command Description Example return information
 Dimension 
 
 ![](2025-01-05-17-04-05.png)
-
-
-## SPP Commands (e.g. change password, send data) 
-
-
-
-| Example Commands | Feedback            | Description                   |
-| ---------------- | ------------------- | ----------------------------- |
-| AT+MN\r\n        | NA: BK8000L         | Check bluetooth name          |
-| AT+MO\r\n        | C0                  | check connection status       |
-| -                | II<br>II<br>II<br> | Connected connection feedback |
-| AT+MO\r\n        | C1                  | check connection status       |
-
-Note:
-
-- Make sure module paied with your device (phone)
-- Use BlueSPP app from Google play, make sure BlueSPP is connected 
-- Run following commands.
-
-Commands:
-
-APT + SPPXXXX four-digit password (8888),
-
-- Open SPP by using password
-- e.g. APT + SPPXXXX \r\n as long as the hair once,
-- The password is correct: OK \r\n
-- Password Error: ERR \r\n
-
-APT + XXXXXXX total data length of each time send/receive, it recommended not to exceed 64byte
-
- - e.g. APT + XXXXXX \r\n
- - The data sent to the mobile phone side
- - Success: OK \r\n
- - Error: ERR \r\n
-
-APR + XXXXXXX total data length of each time send/receive, it recommended not to exceed 64byte
-
-- e.g. APR + XXXXXX \r\n
-- Data received from the mobile terminal
-- Data sent over the phone
-- APR + XXXXXX \r\n
