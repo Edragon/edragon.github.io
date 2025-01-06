@@ -12,6 +12,8 @@
 - pins = 2x21 = 42 pins 
 - available GPIOs = 42 - 6 = 36 pins 
 
+
+
 ## ref 
 
 - [[ESP32-S3-dat]] - [[NWI1243]]
