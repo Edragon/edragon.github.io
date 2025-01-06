@@ -41,12 +41,14 @@ I2S Circuit:
 
 ![](2025-01-06-14-07-17.png)
 
-soundrecorder - https://github.com/Edragon/esp32_SoundRecorder
 
 
 ![](2025-01-06-14-07-43.png)
 
-music_player - https://github.com/Edragon/esp32_MusicPlayer
+
+## Other combine use with ESP32-S3 
+
+![](2025-01-06-17-07-16.png)
 
 
 
@@ -71,14 +73,10 @@ audio amplifer - [[MAX98357-dat]] - [[audio-dat]] - [[amplifier-dat]]
 - [[software-i2s-dat]]
 
 
-## Solution - control (master module)
-
-
 
 ## ref 
 
 https://en.wikipedia.org/wiki/I%C2%B2S
-
 
 - [[I2S]]
 

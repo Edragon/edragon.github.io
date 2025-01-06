@@ -64,8 +64,16 @@ setup
 
 ## AudioI2S
 
+- soundrecorder - https://github.com/Edragon/esp32_SoundRecorder
+- music_player - https://github.com/Edragon/esp32_MusicPlayer
+- https://github.com/Edragon/ESP32-S3-I2Saudio
+
+
 - repo - https://github.com/schreibfaul1/ESP32-audioI2S
 - ⚠️ This library only works on multi-core ESP32 chips like the ESP32-S3. It does not work on the ESP32-S2 or the ESP32-C3 ⚠️
+
+- [[arduino-ESP32-dat]]
+
 
 ## ref 
 

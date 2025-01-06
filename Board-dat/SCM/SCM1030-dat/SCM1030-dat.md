@@ -110,3 +110,5 @@ to get free pins, remove card in [[SD-dat]]
 
 - [[ESP-SDK-dat]] - [[ESP32-HDK-dat]] - [[ESP32-WROOM-dat]]
 
+- [[AMS1117-dat]]
+
