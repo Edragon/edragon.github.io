@@ -33,8 +33,6 @@
 | GND  |       |          | Power ground                                                                              |
 | VCC  |       |          | Power positive, DC2.5V-5.5V                                                               |
 
-- better use [[ESP32-S3-board-dat]] = i2s.setPins(12, 11, 13, -1, -1);
-
 - [[arduino-ESP32-dat]]
 
 ## wiring 
@@ -44,7 +42,7 @@
 
 ## Use with ESP32-S3 
 
-- better use [[ESP32-S3-board-dat]]
+- [[ESP32-S3-board-dat]] i2s.setPins(12, 11, 13, -1, -1);
 - pull SD high to use 
 - IO17
 - IO16
