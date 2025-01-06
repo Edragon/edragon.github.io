@@ -12,4 +12,34 @@ LEDS
 
 Reset Button 
 
+
+## repo code 
+
 [Support Arduino-PS2X library.](https://github.com/madsci1016/Arduino-PS2X)
+
+- folk - https://github.com/Edragon/Arduino-PS2X
+
+## code debug 
+
+****************IF YOU HAVE PROBLEMS***********************
+
+open up the PS2X_lib.h file and change (remove the comment markers)
+
+    // $$$$$$$$$$$$ DEBUG ENABLE SECTION $$$$$$$$$$$$$$$$
+    // to debug ps2 controller, uncomment these two lines to print out debug to uart
+
+    //#define PS2X_DEBUG
+    //#define PS2X_COM_DEBUG
+
+to 
+
+    // $$$$$$$$$$$$ DEBUG ENABLE SECTION $$$$$$$$$$$$$$$$
+    // to debug ps2 controller, uncomment these two lines to print out debug to uart
+
+    #define PS2X_DEBUG
+    #define PS2X_COM_DEBUG
+
+
+## ref 
+
+- [[NWL1097]]
