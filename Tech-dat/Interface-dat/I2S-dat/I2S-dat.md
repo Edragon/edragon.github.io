@@ -64,7 +64,7 @@ audio amplifer - [[MAX98357-dat]] - [[audio-dat]] - [[amplifier-dat]]
 
 - [[UDA1334-dat]] - [[AMP1013-dat]]
 
-- [[bt-audio-dat]] - [[ESP32-DAC-dat]] - [[ADC-dat]] - [[DAC-dat]]
+- [[bt-audio-dat]] - [[ESP32-DAC-dat]] - [[ADC-dat]] - [[DAC-dat]] - [[ESP32-I2S-dat]]
 
 - [[PCM1808-dat]]
 

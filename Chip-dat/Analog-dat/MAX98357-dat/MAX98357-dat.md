@@ -42,6 +42,12 @@
 
 - [[MAX98357-code.ino]] - [[I2S-dat]]
 
+### code common error: 
+
+i2s_write_bytes((i2s_port_t)0, (const char *)data, numData, portMAX_DELAY);
+- 'i2s_write_bytes' was not declared in this scope
+
+
 
 ## ref 
 
