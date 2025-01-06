@@ -1,6 +1,19 @@
 
 # power-dat.md
 
+- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
+  
+- [[dcdc-dat]] - [[dcdc-buck-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
+
+- [[low-power-dat]]
+
+- [[power-protection]]
+
+- [[battery-dat]]
+
+
+## workflow
+
 1. design: [[power-dat]] 
 
 1. consider power jack [[power-jack-dat]]

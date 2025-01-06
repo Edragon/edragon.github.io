@@ -45,15 +45,7 @@
 
 ### Power 
 
-- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-meter-dat/power-sensor-dat]]
-  
-- [[dcdc-dat]] - [[dcdc-buck-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
-
-- [[low-power-dat]]
-
-- [[power-protection]]
-
-- [[battery-dat]]
+- [[power-dat]]
 
 ### Interactive
 
