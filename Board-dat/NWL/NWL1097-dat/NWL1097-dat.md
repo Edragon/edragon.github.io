@@ -1,6 +1,10 @@
 
 # NWL1097-dat
 
+https://www.electrodragon.com/product/ps2-wireless-console-receiver-r2-integrated-arduino/
+
+- [[NWL1093-dat]] - [[NWL1097-dat]] - [[PS2-console-dat]]
+
 
 - board type arduino pro mini 3.3V/8M
 
@@ -13,33 +17,9 @@ LEDS
 Reset Button 
 
 
-## repo code 
-
-[Support Arduino-PS2X library.](https://github.com/madsci1016/Arduino-PS2X)
-
-- folk - https://github.com/Edragon/Arduino-PS2X
-
-## code debug 
-
-****************IF YOU HAVE PROBLEMS***********************
-
-open up the PS2X_lib.h file and change (remove the comment markers)
-
-    // $$$$$$$$$$$$ DEBUG ENABLE SECTION $$$$$$$$$$$$$$$$
-    // to debug ps2 controller, uncomment these two lines to print out debug to uart
-
-    //#define PS2X_DEBUG
-    //#define PS2X_COM_DEBUG
-
-to 
-
-    // $$$$$$$$$$$$ DEBUG ENABLE SECTION $$$$$$$$$$$$$$$$
-    // to debug ps2 controller, uncomment these two lines to print out debug to uart
-
-    #define PS2X_DEBUG
-    #define PS2X_COM_DEBUG
-
 
 ## ref 
+
+- [[PS2-console-dat]]
 
 - [[NWL1097]]
