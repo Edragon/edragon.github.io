@@ -21,18 +21,36 @@
 
 ## Pins 
 
-- LRC: Left/right clock synchronization clock for I2S and LJ modes for TDM mode
-- BCLK: Bit clock input
-- DIN: Digital input signal
-- GAIN: Gain and channel selection In TDM mode, the gain is fixed at 12dB
-- SD: Shutdown and channel selection. SD_MODE is pulled low to put the device in shutdown state
-- GND: Power ground
-- VCC: Power positive, DC2.5V-5.5V
+- [[I2S-dat]]
+
+| Pin  | ESP32 | ESP32-S3 | Note                                                                                      |
+| ---- | ----- | -------- | ----------------------------------------------------------------------------------------- |
+| LRC  | 25    | 11       | Left/right clock synchronization clock for I2S and LJ modes for TDM mode                  |
+| BCLK | 5     | 12       | Bit clock input                                                                           |
+| DIN  | 26    | 13       | Digital input signal                                                                      |
+| GAIN |       |          | Gain and channel selection In TDM mode, the gain is fixed at 12dB                         |
+| SD   |       |          | Shutdown and channel selection. SD_MODE is pulled low to put the device in shutdown state |
+| GND  |       |          | Power ground                                                                              |
+| VCC  |       |          | Power positive, DC2.5V-5.5V                                                               |
+
+- [[arduino-ESP32-dat]]
 
 ## wiring 
 
 
 ![](2024-12-26-19-06-13.png)
+
+## Use with ESP32-S3 
+
+- [[ESP32-S3-board-dat]] i2s.setPins(12, 11, 13, -1, -1);
+- pull SD high to use 
+- IO17
+- IO16
+- IO15 
+
+![](2025-01-06-15-56-23.png)
+
+
 
 ## Dimension 
 

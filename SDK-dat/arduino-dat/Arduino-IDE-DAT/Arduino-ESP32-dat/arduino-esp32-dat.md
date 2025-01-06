@@ -53,6 +53,32 @@ some tips:
 - 80Mhz + 40Mhz + QIO = OK 
 - 80Mhz + 40Mhz + DIO = OK 
 
+
+## ESP32-S3 
+
+- [[ESP32-S3-dat]], below is a common setup for uploading via type-c
+
+Board: “ESP32S3 Dev Module"
+Upload Speed: “921600"
+USB Mode: "Hardware CDC and JTAG"
+USB CDC On Boot: "Disabled"
+USB Firmware MSC On Boot:“Disabled"
+USB DFU On Boot: “Disabled"
+Upload Mode: "USB-OTG CDC (TinyUSB)
+CPU Frequency: "240MHz (WiFi)"
+Flash Mode: "QIO 80MHz"
+Flash Size: “4MB (32Mb)"
+Partition Scheme: “Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)"
+Core Debug Level: "None"
+PSRAM: *Disabled"
+Arduino Runs On: “Core 1"
+Events Run On: "Core 1"
+Erase All Flash Before Sketch Upload: "Disabled"
+JTAG Adapter: “Disabled"
+Zigbee Mode: "Disabled"
+Port: "COM252 (Electrodragon)
+Get Board Info
+
 ## version 
 
 version 2.0.6 - 2022/2/3

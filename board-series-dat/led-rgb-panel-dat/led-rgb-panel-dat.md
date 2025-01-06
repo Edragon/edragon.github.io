@@ -53,6 +53,8 @@ for outdoor ONLY P6 and P8
 
 - [[magnetic-screw-dat]] - [[led-full-panel-installation]]
 
+- [[led-rgb-panel-chip-dat]]
+
 ## Links
 
 - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
