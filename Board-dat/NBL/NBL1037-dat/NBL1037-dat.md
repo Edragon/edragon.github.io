@@ -1,6 +1,12 @@
 
 # NBL1037-dat 
 
+
+read more at - [[NBL1037-FAQ-dat]] - [[BK8000-dat]]
+
+- new module instead [[BK3266-dat]]
+
+
 BK8000L Bluetooth Audio+ SPP Module, v2.1,
 
 https://www.electrodragon.com/product/eb8000-bluetooth-audio-module-bt_v2-1/

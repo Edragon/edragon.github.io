@@ -1,6 +1,10 @@
 
 # NWL1097-dat
 
+https://www.electrodragon.com/product/ps2-wireless-console-receiver-r2-integrated-arduino/
+
+- [[NWL1093-dat]] - [[NWL1097-dat]] - [[PS2-console-dat]]
+
 
 - board type arduino pro mini 3.3V/8M
 
@@ -12,4 +16,10 @@ LEDS
 
 Reset Button 
 
-[Support Arduino-PS2X library.](https://github.com/madsci1016/Arduino-PS2X)
+
+
+## ref 
+
+- [[PS2-console-dat]]
+
+- [[NWL1097]]
