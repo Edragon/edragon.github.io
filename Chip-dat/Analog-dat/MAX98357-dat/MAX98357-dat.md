@@ -56,6 +56,25 @@
 
 ![](2025-01-06-14-15-26.png)
 
+## Output setup 
+
+SD_MODE pin (or similar). Depending on the resistor you connect:
+
+- The MAX98357 outputs only the left channel, only the right channel, or a combined mono output.
+- This allows for flexibility depending on whether you're driving one speaker (mono) or two speakers (stereo).
+What You Should Do:
+
+If you're implementing this:
+
+Decide if you want left channel, right channel, or mono output.
+
+Use the specified resistors or configurations:
+
+- For LEFT: Connect 0 Ohm (direct to VDD).
+- For RIGHT: Use a 370K resistor.
+- For MONO: Use a resistor divider that sums up to 1.011M Ohms.
+
+
 ## code 
 
 - [[MAX98357-code.ino]] - [[I2S-dat]]
