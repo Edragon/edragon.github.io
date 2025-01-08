@@ -15,6 +15,10 @@
 
 - [[eneregy-meter-dat]]
 
+## ideas 
+
+- [[home-plant-dat]]
+
 
 ## good app maker 
 

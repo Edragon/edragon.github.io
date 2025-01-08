@@ -6,4 +6,4 @@
 
 ## chip companies 
 
-- [[injoinic-dat]] - [[consonance-dat]]
+- [[injoinic-dat]] - [[consonance-dat]] - [[AMS-dat]] - [[microne-dat]] - [[richtek-dat]]
