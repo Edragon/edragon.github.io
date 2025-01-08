@@ -92,13 +92,13 @@ V2 Chips
 
 - from esp32 chip datasheet 
 
-| Strapping Pin | note   | Default Configuration Bit | Value |
-| ------------- | ------ | ------------------------- | ----- |
-| GPIO0         |        | Pull-up                   | 1     |
-| GPIO2         |        | Pull-down                 | 0     |
-| MTDI          | GPIO12 | Pull-down                 | 0     |
-| MTDO          | GPIO15 | Pull-up                   | 1     |
-| GPIO5         |        | Pull-up                   | 1     |
+| Strapping Pin | note | Default Configuration Bit | Value |
+| ------------- | ---- | ------------------------- | ----- |
+| GPIO0         | 0    | Pull-up                   | 1     |
+| GPIO2         | 2    | Pull-down                 | 0     |
+| MTDI          | 12   | Pull-down                 | 0     |
+| MTDO          | 15   | Pull-up                   | 1     |
+| GPIO5         | 5    | Pull-up                   | 1     |
 
 ### Table 6: Chip Boot Mode Control
 
