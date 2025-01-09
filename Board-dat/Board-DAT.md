@@ -131,6 +131,10 @@ RPI LCD
 
 - RGB LED breakout [[ILE1008-dat]]
 
+### ISB
+
+- [[ISB1016-dat]]
+
 ### ITF
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
 

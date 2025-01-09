@@ -12,6 +12,16 @@ press to connect, release to diconnect
 
 ## inter-lock button 
 
+- [[ISB1033-dat]]
+
+
+17 x 12 x 9.5
+
+![](2025-01-09-16-12-42.png)
+
+![](2025-01-09-16-13-42.png)
+
+
 
 
 ## ref 
