@@ -133,7 +133,7 @@ RPI LCD
 
 ### ISB
 
-- [[ISB1016-dat]]
+- [[ISB1016-dat]] - [[ISB1033-dat]]
 
 ### ITF
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
