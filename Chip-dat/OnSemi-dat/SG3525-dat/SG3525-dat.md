@@ -3,6 +3,8 @@
 
 Pulse Width Modulator Control Circuit
 
+- [[MSP1046-dat]]
+
 ## Features 
 
 1. Onboard SG3525APWM control chip;
@@ -14,6 +16,10 @@ Pulse Width Modulator Control Circuit
 7. Duty cycle: 0-100% adjustable;
 8. Output amplitude: 5V;
 9. Board size: 30.8 (mm) x18 (mm);
+
+## Block Diagram 
+
+![](2025-01-09-19-34-36.png)
 
 
 ## SCH 
@@ -38,3 +44,5 @@ Pulse Width Modulator Control Circuit
 ## ref 
 
 - [[onsemi-dat]] - [[TL494-dat]]
+
+- [[Oscillator-dat]] - [[crystal-dat]]
