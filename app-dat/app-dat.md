@@ -15,6 +15,8 @@
 
 - [[eneregy-meter-dat]]
 
+- [[logic-inverter-dat]] or [[data-logger-dat]]
+
 ## ideas 
 
 - [[home-plant-dat]]
