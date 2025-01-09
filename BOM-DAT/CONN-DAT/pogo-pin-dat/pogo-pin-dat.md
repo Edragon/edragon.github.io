@@ -9,7 +9,9 @@
 - test target pin 0.8~0.9
 
 
+## demo video 
 
+- [a lot pins test](https://x.com/electro_phoenix/status/1874755441533894696)
 
 
 

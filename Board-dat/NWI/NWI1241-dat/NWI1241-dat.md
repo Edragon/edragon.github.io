@@ -100,7 +100,7 @@ New version define in the file User_Setup.h
 ## Demo 
 
 - https://t.me/electrodragon3/156
-
+- https://x.com/electro_phoenix/status/1868969919326699957
 
 
 ## Notice

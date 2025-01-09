@@ -35,6 +35,12 @@ PCM512x 2-VRMS DirectPath™, 112-dB and 106-dB Audio Stereo DACsWith 32-Bit, 38
 
 - normally use the [[SPI-dat]] output 
 
+
+## demo video 
+
+- https://x.com/electro_phoenix/status/1871071433797046460
+
+
 ## Board 
 
 - [[MPC1083-dat]]
