@@ -3,6 +3,15 @@
 
 https://www.electrodragon.com/product/sg3525-pulse-width-modulator-breakout/
 
+## Board map 
+
+![](2025-01-09-19-32-08.png)
+
+- left potentiometer = no int. input 
+- right potentiometer = RT
+- output = VC 
+
+## Usage Guide 
 
 As shown in the figure above, VCC/GND on the left is the power input terminal. 
 
@@ -35,4 +44,4 @@ After adjusting the required frequency and duty cycle, directly connect OUT to t
 
 ## ref 
 
-- [[SG3525-dat]] - [[PWM-dat]] - [[LM317-dat]]
+- [[SG3525-dat]] - [[PWM-dat]] - [[LM7805-dat]]
