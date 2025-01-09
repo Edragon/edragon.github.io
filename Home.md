@@ -6,7 +6,9 @@
 
 ## Contact 
 
-- [[contact-dat]]
+- [[contact-dat]] 
+
+news - [[weekly-dat]]
 
 ## category 
 

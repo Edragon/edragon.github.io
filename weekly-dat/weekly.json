@@ -1,0 +1,21 @@
+{
+	"weekly write template": {
+	  "scope": "markdown",
+	  "prefix": "weekly",
+	  "body": [
+		"## New Boards",
+		"",
+		"",
+		"",
+		"## Development | Board Updates | Boards Test Demo | Customer Request | FAQ",
+		"",
+		"",
+		"",
+		"## Wiki Main Updates | Other Cool Info",
+		"",
+		"",
+		""
+	  ],
+	  "description": "weekly write template"
+	}
+  }

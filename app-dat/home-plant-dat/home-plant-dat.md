@@ -15,11 +15,15 @@ Humidity Tray: Place a shallow tray of water with some pebbles or stones in the 
 
 The water will slowly evaporate, increasing the humidity. You can add a small fan to circulate the air around the tray, which helps maintain airflow while boosting humidity.
 
+sening by [[sensor-dat]] - [[temperature-sensor-dat]] and [[humidity-sensor-dat]]
+
+[[actuator-dat]] to generate [[humidity-dat]]
 
 ## Air Flow
 
 The term "fresh air" for plants, in a technical sense, generally refers to an optimal supply of oxygen (O₂) and carbon dioxide (CO₂), along with proper air circulation, which are essential for the healthy growth and metabolism of plants. 
 
+[[actuator-dat]] to control [[fan-dat]]
 
 ## timing system 
 
