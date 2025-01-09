@@ -30,6 +30,9 @@ Among them, adjusting potentiometer R5 is to adjust the duty cycle, and adjustin
 
 After adjusting the required frequency and duty cycle, directly connect OUT to the positive input of the circuit to be driven, and GND to the negative input of the driving circuit.
 
+
+
+
 ## ref 
 
-- [[SG3525-dat]] - [[PWM-dat]]
+- [[SG3525-dat]] - [[PWM-dat]] - [[LM317-dat]]

@@ -167,6 +167,11 @@ Battery charger - [[OPM1181-dat]]
 USB
 [[OPM1160-dat]]
 
+[[OPM1175-dat]]
+
+[[dcdc-boost-dat]] - [[OPM1089-dat]]
+
+
 ### OPS 
 
 - [[OPS1009-DAT]] - [[OPS1013-dat]]
@@ -194,7 +199,8 @@ MPC cable
 - [[MPC1018-dat]]
 
 ### MSP 
-- [[MSP1061-DAT]] - [[MSP1076-dat]]
+
+- [[MSP1046-dat]] - [[MSP1061-DAT]] - [[MSP1076-dat]]
 
 - [[MSP1025-dat]]
 
