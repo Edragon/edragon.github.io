@@ -23,6 +23,18 @@ Pulse Width Modulator Control Circuit
 - https://www.youtube.com/watch?v=T8C7dp0U3Ig
 
 
+## APP Drop-in-Water Short Protector 
+
+![](2025-01-09-17-58-40.png)
+
+- Pin 1: Short circuit sampling + of the rear stage
+- Pin 2: Short circuit sampling 1 of the rear stage
+- Pin 3: Water protection
+- Pin 4: 8-16V power supply positive
+- Pin 5: Shunt or constantan wire battery negative terminal
+- Pin 6: Shunt or constantan wire sampling load terminal
+- Pin 7 and 8: Drive output
+
 ## ref 
 
 - [[onsemi-dat]] - [[TL494-dat]]
