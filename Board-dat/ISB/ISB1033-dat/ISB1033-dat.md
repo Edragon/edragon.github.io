@@ -1,6 +1,9 @@
 
 # ISB1033-dat
 
+https://www.electrodragon.com/product/88-lock-non-homing-switch/
+
+
 ![](2025-01-09-16-19-16.png)
 
 - 5.8x5.8 

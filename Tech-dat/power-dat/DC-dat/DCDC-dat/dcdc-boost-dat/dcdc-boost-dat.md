@@ -10,6 +10,7 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[OPM1032-dat]] 
 
+- [[OPM1089-dat]]
 
 - [[OPM1133-dat]]
 - https://www.electrodragon.com/product/mini-boost-buck-dc-board-1-8-5v-3-3v/
