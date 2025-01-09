@@ -361,6 +361,7 @@ MT7688
 
 Darlinton driver - [[SCU1024-dat]]
 
+[[Intermittent-dat]] - [[SCU1044-dat]] - [[SCU1047-dat]] - [[SCU1048-dat]] - [[SCU1050-dat]]
 
 ### SDR
 - [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1113-DAT]] - [[sdr1070-dat]]

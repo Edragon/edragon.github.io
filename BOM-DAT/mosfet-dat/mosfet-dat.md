@@ -33,6 +33,7 @@
 | IRF8313 |      | [[Infineon-dat]] |
 
 
+
 ### high power mosfet 
 
 ![](2024-08-28-14-43-36.png)
@@ -81,6 +82,17 @@ Using an N-type transistor for high-side switching is possible but requires a co
 - [[AGM-Semi-AGM30P05A_C6719407.pdf]]
 
 
+## mosfet driver 
+
+UCC27324 - UCC27324-Q1 Dual 4-A Peak High-Speed Low-Side Power MOSFET Driver
+
+The UCC27324-Q1 high-speed dual-MOSFET driver can deliver large peak currents into capacitive loads. 
+
+Using a design that inherently minimizes shootthrough current, these drivers deliver 4 A of current where it is needed most, at the Miller plateau region during the MOSFET switching transition. 
+
+A unique bipolar and MOSFET hybrid output stage in parallel also allows efficient current sourcing and sinking at low supply voltages.
+
+- [[NWI1126-dat]]
 
 
 ## ref 

@@ -49,7 +49,7 @@ Maximum Output Current: 500mA
 
 ## large current 
 
-
+- [[LM7805-dat]] - [[TI-power-dat]]
 
 
 ## ref 
