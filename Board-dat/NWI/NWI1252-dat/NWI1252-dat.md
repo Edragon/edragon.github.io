@@ -74,6 +74,10 @@ Blue box
 
 and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/master/NWI/NWI1252
 
+- https://x.com/electro_phoenix/status/1877257643955290376
+
+
+
 ## Note 
 
 - Case is super rigid, very difficult to open it, use a sharp tool to pry it

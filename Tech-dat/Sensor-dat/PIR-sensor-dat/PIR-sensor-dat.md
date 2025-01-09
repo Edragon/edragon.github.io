@@ -85,6 +85,12 @@ when the human body from the front to the probe or from top to bottom or from bo
 
 - [[BISS0001]]
 
+
+## demo video 
+
+- works with [[ESP32-dat]] - https://x.com/electro_phoenix/status/1877256534687650008
+
+
 ## ref 
 
 - [[PIR-sensor]]

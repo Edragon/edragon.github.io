@@ -73,6 +73,9 @@ audio amplifer - [[MAX98357-dat]] - [[audio-dat]] - [[amplifier-dat]]
 - [[software-i2s-dat]]
 
 
+## demo video 
+
+- [[MAX98357-dat]] works with [[ESP32-dat]] - https://x.com/electro_phoenix/status/1877255863846465989
 
 ## ref 
 
