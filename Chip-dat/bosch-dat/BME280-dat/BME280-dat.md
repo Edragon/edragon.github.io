@@ -3,6 +3,7 @@
 
 - [[humidity-sensor-dat]] - [[pressure-sensor-dat]] - [[temperature-sensor-dat]]
 
+- [[temp-hum-sensor-dat]]
 
 ## BME280 Features
 
@@ -24,3 +25,67 @@ The BME280 is the next-generation of sensors from Bosch, and is the upgrade to t
 
 
 
+
+## Comparison: BMP280 vs BME280
+
+### 1. Key Functional Differences
+
+| Feature            | **BMP280**                                  | **BME280**                                  |
+|---------------------|---------------------------------------------|---------------------------------------------|
+| **Primary Function** | Measures pressure and temperature          | Measures pressure, temperature, and humidity |
+| **Humidity Sensor**  | ❌ Not included                            | ✅ Included                                  |
+| **Applications**     | Primarily for altitude and weather monitoring | Suitable for weather, indoor air quality, and IoT applications |
+
+---
+
+### 2. Hardware Differences
+
+| Feature            | **BMP280**             | **BME280**             |
+|---------------------|------------------------|------------------------|
+| **I2C Addresses**   | 0x76 or 0x77           | 0x76 or 0x77           |
+| **Pin Compatibility** | Identical (drop-in replacement) | Identical (drop-in replacement) |
+| **Power Consumption** | Slightly lower (~2.7 µA) | Slightly higher (~3.6 µA) |
+
+---
+
+### 3. Performance and Accuracy
+
+| Feature            | **BMP280**                                | **BME280**                                |
+|---------------------|-------------------------------------------|-------------------------------------------|
+| **Pressure Range**  | 300 - 1100 hPa                           | 300 - 1100 hPa                           |
+| **Pressure Accuracy** | ±1 hPa                                  | ±1 hPa                                   |
+| **Temperature Range** | -40°C to +85°C                          | -40°C to +85°C                           |
+| **Temperature Accuracy** | ±1.0°C                               | ±1.0°C                                   |
+| **Humidity Range**   | N/A                                      | 0% - 100% RH                             |
+| **Humidity Accuracy** | N/A                                     | ±3% RH                                   |
+
+---
+
+### 4. Cost
+
+- **BMP280**: Slightly cheaper because it lacks a humidity sensor.
+- **BME280**: More expensive due to the added humidity sensing capability.
+
+---
+
+### 5. Use Cases
+
+#### **BMP280**
+- Ideal for **altitude measurement** (e.g., drones, GPS systems).
+- Suitable for simple **weather stations** (without humidity data).
+
+#### **BME280**
+- Designed for **complete environmental monitoring**, including temperature, pressure, and humidity.
+- Perfect for **IoT applications** and **indoor air quality monitoring**.
+
+---
+
+### Summary
+
+- **Choose BMP280** if you only need pressure and temperature readings and want a cost-effective solution.
+- **Choose BME280** if you need an all-in-one sensor for temperature, pressure, and humidity.
+
+
+## arduino library 
+
+- [[arduino-lib-dat]]
