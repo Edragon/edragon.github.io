@@ -23,6 +23,9 @@
 - IO16  = status LED
 - IO4, IO5 = I2C Pull up 
 
+## installation 
+
+- https://t.me/electrodragon3/319
 
 
 ## ref 

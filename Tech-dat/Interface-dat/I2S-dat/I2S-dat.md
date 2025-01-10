@@ -11,6 +11,8 @@ One of the key features of I2S interfaces is their ability to support full-duple
 
 This makes I2S a popular choice for high-speed data transfer applications.
 
+- [[I2S-microphone-dat]]
+
 ## Pin 
 
 | Name | default ESP32 | also Name    | func                               | RPI GPIO | RPI pin |
