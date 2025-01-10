@@ -34,3 +34,12 @@ https://github.com/esp8266/Arduino
 - https://www.arduino.cc/reference/en/libraries/ps2keyadvanced/
 
 
+## sensors 
+
+| name                                                                                  | note | note2 | category       | start |
+| ------------------------------------------------------------------------------------- | ---- | ----- | -------------- | ----- |
+| [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)        |      |       | [[BME280-dat]] |       |
+| [finitespace/BME280](https://github.com/finitespace/BME280)                           |      |       | [[BME280-dat]] | 219   |
+| [ThingPulse/esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306) |      |       | [[OLED-dat]]   | 2.1K  |
+
+

@@ -4,11 +4,11 @@
 
 - [[camera-dat]] - [[microphone-sensor-dat]]
 
-- [[motion-sensor-dat]] - [[PIR-sensor-dat]]
+- [[motion-sensor-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]]
 
 - [[gas-sensor-dat]] - [[liquid-sensor-dat]]
 
-- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[temperature-sensor-dat]]
+- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[temperature-sensor-dat]] - [[humidity-sensor]] - [[pressure-sensor-dat]] - [[temp-hum-sensor-dat]]
 
 - [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
 
