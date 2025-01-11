@@ -3,7 +3,7 @@
 
 - [[BOM-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[app-dat]]
 
-- [[interface-dat]]
+- [[interface-dat]] - [[audio-dat]]
 
 ## Circuits 
 
