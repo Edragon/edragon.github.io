@@ -58,9 +58,9 @@ I2S Circuit:
 
 I2S Output Digital Microphone - [[INMP441-dat]] - [[ICS-43434-dat]] - [[SPH0645-dat]] - [[MSM261S4030H0R-dat]]
 
-audio amplifer - [[MAX98357-dat]] - [[audio-dat]] - [[amplifier-dat]]
+audio amplifer - [[audio-dat]] - [[amplifier-dat]] - [[CS4344-dat]]
 
-- [[PCM5122-dat]] - [[MPC1083-dat]] - [[I2S-dat]] - [[PCM5102-dat]] - [[AMP1006-dat]] - [[CS4344-dat]]
+I2S speaker - [[PCM5122-dat]] - [[MPC1083-dat]] - [[MAX98357-dat]] - [[PCM5102-dat]] - [[AMP1006-dat]] 
 
 - [[ES9023-dat]] - [[MPC1111-dat]] - [[ES9018-dat]]
   
