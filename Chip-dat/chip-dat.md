@@ -8,7 +8,7 @@
 
 - [[74xx-dat]]
 
-- [[microchip-dat]] - [[avr-dat]]
+- [[microchip-dat]] - [[avr-sdk-dat]]
 
 [[MCU-dat]] - [[STC-dat]] - [[nuvoton-dat]]
 

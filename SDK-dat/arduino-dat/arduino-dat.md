@@ -18,7 +18,7 @@
 
 - [[arduino-code-v1-dat]]
 
-- [[usbasp-dat]] - [[avr-dat]]
+- [[usbasp-dat]] - [[avr-sdk-dat]]
 
 
 ## Boards 

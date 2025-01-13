@@ -33,7 +33,7 @@ Steps:
 
 ## debug 
 
-* During upload sketch in you encounter any error, update the board driver to lisusb-win32 by [[AVR-dat]]
+* During upload sketch in you encounter any error, update the board driver to lisusb-win32 by [[avr-sdk-dat]]
 
 * Blink - On board test LED is D1, please try pinMode(1, OUTPUT);
 

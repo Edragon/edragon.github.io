@@ -26,4 +26,4 @@ https://mcudude.github.io/MegaCoreX/package_MCUdude_MegaCoreX_index.json
 
 ## ref 
 
-- [[avr-dat]]
+- [[avr-sdk-dat]]
