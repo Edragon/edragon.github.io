@@ -10,7 +10,11 @@
 
 ## output PCB file 
 
-- [[PCB-output-common-error-dat]] - [[PCB-standards-dat]] - [[PCB-format-dat]]
+- [[PCB-output-common-error-dat]] 
+
+- to understand the manufacturing capability, see here - [[PCB-standards-dat]] 
+
+- check correct output format - [[PCB-format-dat]] 
 
 
 
