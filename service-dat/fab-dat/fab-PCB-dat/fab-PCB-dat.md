@@ -1,7 +1,24 @@
 
-# PCB Service Dat 
+# fab-PCB-dat
 
-- [[PCB-standards-dat]]
+
+- [[PCB-fab-dat]] 
+
+
+
+## PCB production design 
+
+- [[PCB-penalization-dat]]
+
+## output PCB file 
+
+- [[PCB-output-common-error-dat]] - [[PCB-standards-dat]]
+
+- [[PCB-format-dat]]
+
+- [[PCBA-dat]]
+
+
 
 ## Manufacturing capability
 Please adapte this to your own "DRC(Design Rule Check)" tool, to make sure your board reach the manufacturing limits.<br />
@@ -22,25 +39,6 @@ Please adapte this to your own "DRC(Design Rule Check)" tool, to make sure your 
 * A lot numbers of vias may cost extra 
 * Dimension: Any irregular shape should be treated as a rectangular, with maximum size.
 * Board test:  fully tested by fly probes.
-
-### Other Manufacturing Limits
-
-| Type                             | Specs                                  | Note                                 |
-| -------------------------------- | -------------------------------------- | ------------------------------------ |
-| PCB Type                         | FR-4 from KB company                   | -                                    |
-| Maximum size                     | 1200mm X1200mm                         | more than 550mm prices will increase |
-| Dimensions accuracy of board     | ± 0.2mm                                | -                                    |
-| Thickness range                  | 0.40~3mm                               | -                                    |
-| Thickness tolerance              | ±10%                                   | -                                    |
-| Dielectric thickness             | 0.075 - 5.00mm                         | -                                    |
-| Copper thickness                 | 17um - 100um                           | default 1OZ 35um, 0.035mm            |
-| Drilling Hole                    | 0.3mm - 6.30mm                         | -                                    |
-| Drilling Hole Tolerances         | 0.08mm                                 | -                                    |
-| Drilling Hole position tolerance | 0.09mm                                 | -                                    |
-| Pour hypotenuse                  | 30~60 °                                | -                                    |
-| Color                            | red, blue, green, white, yellow, black | default green\|-                     |
-| Soldering Pads Plating           | HASL, ROSH (lead-free), ENIG           |                                      |
-
 
 #### Half-Hole/Impedance
 - Half-Hole + $20, if you need this please contact first or write note in order.
