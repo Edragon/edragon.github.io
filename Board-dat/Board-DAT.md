@@ -51,7 +51,7 @@ AVR
 
 ### DOD
 
-[[AVR-dat]]
+[[avr-sdk-dat]]
 - [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]] - [[DOD1060-dat]]
 
 [[RISC-V-dat]]

@@ -9,7 +9,7 @@ legacy wiki page - https://www.electrodragon.com/w/ATtiny_Mini_Dev_board_Series
 
 https://www.electrodragon.com/product/usbasp-programmer-r2-53-3v-supported-avr-arduino/
 
-- [[DPR1088-dat]] - [[usbasp-dat]] - [[avr-dat]] - [[avrdude-dat]]
+- [[DPR1088-dat]] - [[usbasp-dat]] - [[avr-sdk-dat]] - [[avrdude-dat]]
 
 - [[arduino-dat]]
 

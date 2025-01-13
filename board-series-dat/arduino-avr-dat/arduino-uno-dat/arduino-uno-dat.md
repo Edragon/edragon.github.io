@@ -22,6 +22,6 @@ https://docs.arduino.cc/hardware/uno-rev3
 
 ## ref 
 
-- [[avr-dat]]
+- [[avr-sdk-dat]]
 
 - [[arduino-dat]]

@@ -47,4 +47,4 @@ relevant library
 
 - [[dva1002]]
 
-- [[AVR-dat]]
+- [[avr-sdk-dat]]

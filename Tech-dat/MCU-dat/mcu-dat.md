@@ -7,7 +7,7 @@
 
 - [[STM32-dat]]
 
-- [[AVR-dat]]
+- [[AVR-dat]] - [[tinyAVR-dat]]
 
 - [[STC-dat]]
 
