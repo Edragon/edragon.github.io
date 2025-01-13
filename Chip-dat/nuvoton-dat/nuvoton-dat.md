@@ -48,7 +48,7 @@ NUC980 - ARM9
 
 ## Software 
 
-- NuMicro ICP Programming Tool 2.00.6561.exe
+- [NuMicro ICP Programming Tool 2.00.6561.exe](https://electrodragon.com/NuMicro_ICP_Programming_Tool_V2.00.6561.zip)
 
 ## repo
 

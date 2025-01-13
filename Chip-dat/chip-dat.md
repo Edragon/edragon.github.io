@@ -10,7 +10,7 @@
 
 - [[microchip-dat]] - [[avr-dat]]
 
-[[MCU-dat]] - [[STC-dat]] - [[nuvonton-dat]]
+[[MCU-dat]] - [[STC-dat]] - [[nuvoton-dat]]
 
 - [[fairchild-dat]] - [[NXP-dat]]
 
