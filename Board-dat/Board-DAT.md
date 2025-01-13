@@ -169,7 +169,9 @@ USB
 
 [[OPM1175-dat]]
 
-[[dcdc-boost-dat]] - [[OPM1089-dat]]
+[[dcdc-boost-dat]] - [[OPM1089-dat]] - [[OPMS022-dat]]
+
+
 
 
 ### OPS 
