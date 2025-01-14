@@ -1,6 +1,9 @@
 
 # bluetooth-dat 
 
+- [[bt-audio-dat]]
+
+
 ## Mode 
 
 Host: used to search for slave devices and cannot be searched by other devices. (Bluetooth module with white dot)
