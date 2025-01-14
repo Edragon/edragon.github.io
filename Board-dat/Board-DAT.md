@@ -213,7 +213,7 @@ MPC cable
 
 ### NBL 
 
-- [[bluetooth-dat]]
+- [[bluetooth-dat]] - [[bt-audio-dat]]
 
 audio bluetooth Speaker - [[NBL1089-DAT]] 
 
@@ -227,9 +227,13 @@ classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
 - [[NBL1060-dat]] - [[NBL1061-dat]]
 
+- [[CSR64215-dat]] - [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
+
 [[BLE-dat]]
 
 - [[NBL1101-dat]] - [[NBL1107-dat]]
+
+
 
 ### NID
 - [[NID1003-DAT]] - [[NID1005-DAT]] - [[NID1024-DAT]] - [[NID1026-DAT]]

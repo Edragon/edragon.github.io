@@ -18,20 +18,27 @@
 
 ## chip compare 
 
-
 | Chip Model       | Manufacturer                 | Ver. | aptX          | Codec                | Power Efficiency | Lifetime Status | Notable Features                               | Ideal Use Case               |
 | ---------------- | ---------------------------- | ---- | ------------- | -------------------- | ---------------- | --------------- | ---------------------------------------------- | ---------------------------- |
-| [[CSR64215-dat]] | [[Qualcomm-dat]]             | 4.2  | Yes           | SBC, AAC, aptX       | High             | EOL             | Low power, high-quality audio                  | Wireless audio devices       |
-| [[QCC3031-dat]]  | [[Qualcomm-dat]]             | 5.0  | Yes (aptX HD) |                      |                  |                 |                                                |                              |
-| [[QCC5181-dat]]  | [[Qualcomm-dat]]             |      |               |                      |                  |                 |                                                |                              |
-| CSR8675          | [[Qualcomm-dat]]             | 4.2  | Yes (aptX HD) | SBC, AAC, aptX HD    | Moderate         | Active          | aptX HD, premium audio features                | High-end headphones/speakers |
-| CSR8645          | [[Qualcomm-dat]]             | 4.0  | Yes           | SBC, AAC, aptX       | Moderate         | EOL             | Mid-range audio support                        | Affordable audio devices     |
-| CSR8635          | [[Qualcomm-dat]]             | 4.0  | Yes           | SBC, AAC, aptX       | Moderate         | EOL             | Budget-friendly with aptX                      | Low-cost audio solutions     |
-| QCC3003/QCC3008  | [[Qualcomm-dat]]             | 5.0  | Yes           | SBC, AAC, aptX, TWS+ | Very High        | Active          | TrueWireless Stereo, low power                 | Modern Bluetooth audio       |
-| nRF52832         | [[Nordic-dat]] Semiconductor | 5.0  | No            | SBC                  | High             | Active          | Low-energy profile, flexible for IoT and audio | IoT and general Bluetooth    |
-| CC2564C          | [[TI-bt-audio-dat]]          | 4.1  | No            | SBC                  | Moderate         | Active          | Dual-mode (Classic + Low Energy)               | IoT and audio solutions      |
-| ATS2825          | [[Actions-Semi-dat]]         | 5.0  | No            | SBC                  | High             | Active          | Cost-effective, supports basic audio           | Budget Bluetooth devices     |
-| RTL8763B         | [[Realtek-dat]]              | 5.0  | No            | SBC, AAC             | High             | Active          | Low latency, reliable for TWS earbuds          | True Wireless Earbuds        |
+| CSR64215         | [[Qualcomm-dat]]                     | 4.2  | Yes           | SBC, AAC, aptX       | High             | EOL             | Low power, high-quality audio                  | Wireless audio devices       |
+| QCC3031          | [[Qualcomm-dat]]                     | 5.0  | Yes (aptX HD) | SBC, AAC, aptX HD    | High             | Active          | Advanced Bluetooth audio, low-power design     | Bluetooth audio products     |
+| QCC5181          | [[Qualcomm-dat]]                     | 5.2  | Yes (aptX HD) | SBC, AAC, aptX HD, LE Audio | Very High        | Active          | TrueWireless Mirroring, LE Audio support       | Modern Bluetooth headphones  |
+| CSR8675          | [[Qualcomm-dat]]                     | 4.2  | Yes (aptX HD) | SBC, AAC, aptX HD    | Moderate         | Active          | aptX HD, premium audio features                | High-end headphones/speakers |
+| CSR8645          | [[Qualcomm-dat]]                     | 4.0  | Yes           | SBC, AAC, aptX       | Moderate         | EOL             | Mid-range audio support                        | Affordable audio devices     |
+| CSR8635          | [[Qualcomm-dat]]                     | 4.0  | Yes           | SBC, AAC, aptX       | Moderate         | EOL             | Budget-friendly with aptX                      | Low-cost audio solutions     |
+| QCC3003/QCC3008  | [[Qualcomm-dat]]                     | 5.0  | Yes           | SBC, AAC, aptX, TWS+ | Very High        | Active          | TrueWireless Stereo, low power                 | Modern Bluetooth audio       |
+| nRF52832         | [[Nordic-dat]]         | 5.0  | No            | SBC                  | High             | Active          | Low-energy profile, flexible for IoT and audio | IoT and general Bluetooth    |
+| CC2564C          | [[TI-bt-audio-dat]]           | 4.1  | No            | SBC                  | Moderate         | Active          | Dual-mode (Classic + Low Energy)               | IoT and audio solutions      |
+| ATS2825          | Actions Semi                 | 5.0  | No            | SBC                  | High             | Active          | Cost-effective, supports basic audio           | Budget Bluetooth devices     |
+| RTL8763B         | [[Realtek-dat]]                      | 5.0  | No            | SBC, AAC             | High             | Active          | Low latency, reliable for TWS earbuds          | True Wireless Earbuds        |
+| [[BK8000-dat]] | [[beken-dat]] | 
+| [[BK3266-dat]] | [[beken-dat]] | 
+
+
+## chip solutions 
+
+- [[Beken-dat]] - [[qualcomm-dat]] - [[Nordic-dat]] - [[TI-bt-audio-dat]] - [[Realtek-dat]] - [[Actions-Semi-dat]]
+
 
 
 
