@@ -214,3 +214,8 @@ APR + XXXXXXX total data length of each time send/receive, it recommended not to
 Dimension 
 
 ![](2025-01-05-17-04-05.png)
+
+
+## ref 
+
+- [[BT-audio-dat]] - [[bluetooth-dat]]
