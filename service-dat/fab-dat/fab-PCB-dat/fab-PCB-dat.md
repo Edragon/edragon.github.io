@@ -66,6 +66,19 @@ For 5*5 cm and 10*10 cm sample PCBs, the lead time is 4-6 days that not includin
 
 == PCB Production Cost List ==
 
+##  quantity setup 
+
+The quantity must be a multiple of 5.
+
+| PCB quantity  | penalization (e.g.) | total |
+| ------------ | ------------------- | ----- |
+| 5            | 8                   | 40    |
+| 10           | 8                   | 80    |
+| 15           | 8                   | 120   |
+| 20           | 8                   | 160   |
+| 25           | 8                   | 200   |
+| 30           | 8                   | 240   |
+
 
 ## ref 
 
