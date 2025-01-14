@@ -37,8 +37,10 @@
 
 ## chip solutions 
 
-- [[Beken-dat]] - [[qualcomm-dat]] - [[Nordic-dat]] - [[TI-bt-audio-dat]] - [[Realtek-dat]] - [[Actions-Semi-dat]]
+- [[qualcomm-dat]] - [[Nordic-dat]] - [[TI-bt-audio-dat]] - [[Dialog-dat]]
 
+CN - [[Actions-Semi-dat]] - [[RDA-dat]] - [[Beken-dat]] - [[jieli-dat]]
+asia - [[airoha-dat]] - [[Realtek-dat]]
 
 ## bluetooth 5.0 
 
