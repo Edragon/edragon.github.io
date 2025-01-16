@@ -1,6 +1,12 @@
 
 # RFM95-dat
 
+- RFM92
+- RFM93
+- RFM95 
+
+
+
 - datasheet - [[RFM95_96_97_98W.pdf]]
 
 ## pin Diagram 

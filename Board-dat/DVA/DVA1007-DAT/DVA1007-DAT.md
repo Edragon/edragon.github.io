@@ -49,7 +49,7 @@ FT232 Programming Port
 
 ## Functions 
 
-- [[SPI-flash-dat]] - [[memory-dat]] - [[low-power-dat]] - [[lora-dat]]
+- [[spi-flash-dat]] - [[memory-dat]] - [[low-power-dat]] - [[lora-dat]]
 
 ## Lora Modules 
 

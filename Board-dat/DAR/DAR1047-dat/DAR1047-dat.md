@@ -26,10 +26,6 @@ Steps:
 
 
 
-## ref 
-
-- Compatible with Digispark lilytiny, etc board, can use open source project [micronucleus](https://github.com/micronucleus/micronucleus)
-- https://www.electrodragon.com/w/EDAtiny
 
 ## debug 
 
@@ -68,3 +64,8 @@ https://www.youtube.com/shorts/ePX9KjBYBIk
 ## ref 
 
 - [[DAR1047]]
+
+- [[attiny-dat]]
+
+- Compatible with Digispark lilytiny, etc board, can use open source project [micronucleus](https://github.com/micronucleus/micronucleus)
+- https://www.electrodragon.com/w/EDAtiny

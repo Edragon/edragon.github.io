@@ -24,6 +24,8 @@ LoRa ™ is a long-range radio technology "Lo ng- Ra nge" its main features:
 ## Board 
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] - [[MPC1056-dat]]
 
+- [[DAS1069-dat]]
+
 ## Module 
 
 ### EE1 - common series 
@@ -75,4 +77,9 @@ https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
 
 - [[crystal-dat]]
 
+
+
 - [[lora]]
+
+
+
