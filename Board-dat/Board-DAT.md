@@ -349,11 +349,17 @@ MT7688
 [[LAN8720-dat]] - [[NWI1199-DAT]]
 
 
-## NRF 
+### NRF 
 
 - [[NRF2001-dat]] - [[NRF2004-dat]] - [[NRF2007-dat]]
 
+### PEN
+
+- [[PENS007-dat]]
+
 ### PMP
+
+- [[PMP1010-dat]]
 
 ### PPB 
 

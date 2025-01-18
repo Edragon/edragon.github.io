@@ -9,7 +9,7 @@ Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
 
 ## Resistor divider for feedback:
 
-- Please notice default Rvfb is 3.3K.
+- Please notice default Rvfb is 3.3K = 3x 
 - Change Vfb resistor to set this stop voltage
 - All the rest SMD resistors are included in the package.
 - Supply VCC should be +2V > Vbat
@@ -21,15 +21,17 @@ Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
 
 ![](2024-01-31-15-58-09.png)
 
-| Charge Target            | Regulation Voltage | Rv_fb voltage feedback resistor selection |
-| ------------------------ | ------------------ | ----------------------------------------- |
-| LIFEPO4 1 Series         | 3.6V               | 28.7K                                     |
-| LIFEPO4 2 Series         | 7.2V               | 7.5K                                      |
-| LIFEPO4 3 Series         | 10.8V              | 4.02K                                     |
-| Lithium ion Li+ 1 Series | 4.2V               | 19.1K                                     |
-| Lithium ion Li+ 2 Series | 8.4V               | 5.76K                                     |
-| Lithium ion Li+ 3 Series | 12.6V              | 3.3K                                      |
+| Charge Target   | Series | Regulation Voltage | Rv_fb voltage feedback resistor selection |
+| --------------- | ------ | ------------------ | ----------------------------------------- |
+| LIFEPO4         | 1x     | 3.6V               | 28.7K                                     |
+| LIFEPO4         | 2x     | 7.2V               | 7.5K                                      |
+| LIFEPO4         | 3x     | 10.8V              | 4.02K                                     |
+| Lithium ion Li+ | 1x     | 4.2V               | 19.1K                                     |
+| Lithium ion Li+ | 2x     | 8.4V               | 5.76K                                     |
+| Lithium ion Li+ | 3x     | 12.6V              | 3.3K                                      |
 
+
+- [[LiFePO4-Battery-dat]] - [[Lithium-ion-Battery-dat]]
 
 ## Demo 
 
@@ -39,4 +41,4 @@ Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
 
 ## ref 
 
-- [[CN3722-dat]]
+- [[CN3722-dat]] - [[battery-dat]]
