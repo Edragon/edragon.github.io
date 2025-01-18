@@ -7,7 +7,7 @@ It is designed for applications that need low latency, Low throughput datacommun
 
 - [[bands-dat]] - [[SIMCOM-size-dat]]
 
-
+- [[SIM7028-dat]] will be a successor of module [[SIM7020-dat]]
 
 ## Diagram 
 
@@ -22,7 +22,7 @@ It is designed for applications that need low latency, Low throughput datacommun
 
 compare to [[SIM7020-dat]]
 - no I2C, SPI
-- USB in progress 
+- USB in progress, early version 
 - extra IO_1833_sel
 
 ![](2025-01-18-14-40-49.png)
@@ -30,6 +30,8 @@ compare to [[SIM7020-dat]]
 
 
 ## ref 
+
+- hardware design manual - [[SIM7028-Hardware-Design-1.0.pdf]]
 
 - [[SIMCOM-dat]] - [[Cortex-M3-dat]]
 
