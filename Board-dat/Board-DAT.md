@@ -115,6 +115,9 @@ RPI LCD
 
 [[LCD-12864-dat]] - [[ILC1016-dat]]
 
+LED control - [[ILC1063-dat]]
+
+
 ### ILE
 
 - [[ILE1001-dat]] - [[ILE1047-dat]]

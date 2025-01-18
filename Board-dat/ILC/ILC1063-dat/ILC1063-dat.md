@@ -8,7 +8,11 @@ https://www.electrodragon.com/product/light-tuner-controller-sjt83-breakout/
 
 ![](2025-01-18-13-05-06.png)
 
+
+
 ## control 
+
+Chip function simply based on mosfet output control, it is a pre-programmed chip.
 
 | pin 1 | pin 8 | pin 6 | function                     |                                                                                         |
 | ----- | ----- | ----- | ---------------------------- | --------------------------------------------------------------------------------------- |
