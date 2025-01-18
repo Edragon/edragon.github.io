@@ -4,6 +4,42 @@
 - [[NBIOT-dat]] 
 
 
+## SIM7020E VS SIM7020G
+
+| bands | SIM7020G@Cat-M | SIM7020G@NBIOT | SIM7020E | SIM7020C |
+|-------|----------------|----------------|----------|----------|
+| B1    | ✔             | ✔             | ✔       | ✔       |
+| B2    | ✔             | ✔             |          |          |
+| B3    | ✔             | ✔             | ✔       | ✔       |
+| B4    | ✔             | ✔             |          |          |
+| B5    | ✔             | ✔             | ✔       | ✔       |
+| B8    | ✔             | ✔             | ✔       | ✔       |
+| B12   | ✔             | ✔             |          |          |
+| B13   | ✔             | ✔             |          |          |
+| B14   | ✔             | ?              |          |          |
+| B17   | ?              | ?              |          |          |
+| B18   | ✔             | ✔             |          |          |
+| B19   | ✔             | ✔             |          |          |
+| B20   | ✔             | ✔             | ✔       |          |
+| B25   | ✔             | ✔             |          |          |
+| B26   | ✔             | ✔             |          |          |
+| B28   | ✔             | ✔             | ✔       |          |
+| B66   | ✔             | ✔             |          |          |
+| B70   | ?              | ?              |          |          |
+| B71   | ?              | ✔             |          |          |
+| B85   | ✔             | ✔             |          |          |
+ 
+- [[bands-dat]]
+
+## hardware diagram 
+
+![](2025-01-18-14-36-35.png)
+
+## Pin definitions 
+
+![](2025-01-18-14-38-04.png)
+
+
 ## quick setup guide 
 
 * Please use a USB-serial adapter like CP2102 or FT232RL, connect 5V, GND, VTXD and VRXD.
@@ -57,15 +93,16 @@ Supported band
 ### board ref 
 
 
-- [[NGS1095-dat]] - [[NGS1096-dat]] - [[NBIOT-dat]]
+- [[NGS1095-dat]] - [[NGS1096-dat]] - [[NBIOT-dat]] - [[BTB-dat]]
 
 - [[NGS1094-dat]] - SIM7020E (old version) - life time end 
 
 - [[SIMCOM-AT-DAT]] - [[SIMCOM-dat]]
 
-- [[SIM7020]] - [[BTB-dat]]
-
 - [[low-power-dat]] - [[SIMCOM-PSM-Dat]]
+
+- [[SIM7020]] 
+
 
 ## doc
 
