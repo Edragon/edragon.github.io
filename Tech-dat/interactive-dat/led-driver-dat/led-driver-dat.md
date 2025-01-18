@@ -4,6 +4,10 @@
 
 https://w.electrodragon.com/w/LED_Drive
 
+## boards 
+
+- [[ILC1063-dat]] - [[IDD1002-dat]]
+
 
 ## driver options 
 

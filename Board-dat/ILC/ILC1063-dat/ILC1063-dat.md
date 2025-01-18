@@ -60,3 +60,5 @@ LED dimming lighting or touch products that require PWM output control.
 - [[SJT83-dat]] 
 
 - [[ILC1063]]
+
+- [[led-driver-dat]]
