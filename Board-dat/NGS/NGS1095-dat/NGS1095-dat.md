@@ -9,6 +9,7 @@
 ## pin definitions 
 
 Pin Definitions R2:
+
 * U1V_RXD, U1V_TXD: uart1 txd and rxd pin via logic shifter, 5V compliant
 * IO0: GPIO 0
 * VDD: VDD 3.3V from module
@@ -32,7 +33,7 @@ on module side
 
 # reference 
 
-- [[SIM7020-DAT]] - [[SIMCOM-dat/SIMCOM-dat]]
+- [[SIM7020-DAT]] - [[SIMCOM-dat]]
 
 - [[low-power-dat]]
 
