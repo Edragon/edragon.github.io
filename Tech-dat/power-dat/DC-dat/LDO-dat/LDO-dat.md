@@ -1,7 +1,7 @@
 
 # LDO-dat 
 
-
+- [[microne-dat]] - [[silergy-dat]] - [[ti-power-dat]]
 
 
 ## 6211 
@@ -35,9 +35,9 @@
 
 ## option 231 
 
-18V, Low Power, 
-High Accuracy, High PSRR LDO Regulators
-Maximum Output Current: 500mA
+- 18V, Low Power, 
+- High Accuracy, High PSRR LDO Regulators
+- Maximum Output Current: 500mA
 
 
 ## SGM2036 
