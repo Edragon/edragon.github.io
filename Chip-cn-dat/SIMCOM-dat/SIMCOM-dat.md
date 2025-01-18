@@ -5,6 +5,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 - [[bands-dat]] - [[SIMCOM-size-dat]]
 
+
 ## boards 
 
 - [[SIM800-dat]] - [[NGS1070-dat]] - [[NGS1071-dat]] - [[NGS1074-dat]]
@@ -19,29 +20,26 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
   
 - [[SIM7020-dat]] - [[NGS1094-dat]] - [[NGS1095-dat]] - [[NGS1096-dat]]
 
-- [[SIM7028-dat]]
-
 - [[SIM7070-dat]]
   
 - [[SIM7080-dat]]
 
 - [[SIM7600-dat]]
 
-- [[Y7080E-dat]]
-
 - [[SIM808-dat]] 
 
+## Module Comparision 
 
-## Modules 
+| modules         | main category | sub category            | size        | extra Features | bands                                                                 |
+| --------------- | ------------- | ----------------------- | ----------- | -------------- | --------------------------------------------------------------------- |
+| E7025 R3        | [[LWPA-dat]]  | [[NBIOT-dat]] - Cat-NB2 | 17.6 x 15.7 | BLE 5.0        | B1/B3/B5/B8/B20/B28                                                   |
+| [[Y7025-dat]]   | [[LWPA-dat]]  |                         |             |                |                                                                       |
+| [[Y7028-dat]]   | [[LWPA-dat]]  | [[NBIOT-dat]] - Cat-NB2 | 17.6 x 15.7 |                | B3/B5/B8/B20/B28                                                      |
+| [[Y7080E-dat]]  | [[LWPA-dat]]  |                         |             |                |                                                                       |
+| [[SIM7020-dat]] | [[LWPA-dat]]  | [[NBIOT-dat]] - Cat-NB2 | 17.6 x 15.7 |                | B1/B2/B3/B4/B5/B8/B12/B13/B14/B17/B18/B19/B20/B25/B26/B28/B66/B70/B85 |
+| [[SIM7022-dat]] | [[LWPA-dat]]  | [[NBIOT-dat]] - Cat-NB2 | 17.6 x 15.7 |                | B1/B2/B3/B4/B5/B8/B12/B13/B14/B17/B18/B19/B20/B25/B26/B28/B66/B70/B85 |
+| [[SIM7028-dat]] | [[LWPA-dat]]  | [[NBIOT-dat]] - Cat-NB2 | 17.6 x 15.7 |                | B1/B2/B3/B4/B5/B8/B12/B13/B14/B17/B18/B19/B20/B25/B26/B28/B66/B70/B85 |
 
-| model           | lifespan | type     | size（mm） | note                                               |
-| --------------- | -------- | -------- | ---------- | -------------------------------------------------- |
-| SIM7020C        |          | NB1      | 17.6*15.7  | 1/3/5/8                                            |
-| SIM7020E        |          | NB1      | 17.6*15.7  | 1/3/5/8/20/28                                      |
-| SIM7030         |          | NB1      | 16*18      | LTE FDD 1/3/5/8                                    |
-| SIM7060         |          | NB1+GNSS | 24*24      | LTE FDD 5/8                                        |
-| SIM7020G        |          | NB2      | 17.6*15.7  | 1/2/3/4/5/8/12/13/17/18/19/20/25/26/28/66/70/71/85 |
-| [[SIM7060-dat]] | ?        | NB2+GNSS | 24*24      | 1/2/3/4/5/8/12/13/17/18/19/20/25/26/28/66/70/71/85 |
 
 
 
@@ -53,5 +51,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 - [[M2M-dat]]
 
 ## ref 
+
+- LWPA - https://en.simcom.com/module/lpwa.html
 
 - [[SIMCOM]]
