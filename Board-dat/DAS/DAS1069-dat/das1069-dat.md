@@ -68,6 +68,7 @@ Reserved DIO (via jumpers)
 ## DHT11
 
 - Selectable to ESP IO13 or Arduino A0, by backside jumper
+- default to arduino A0
 
 ## Demo code 
 
