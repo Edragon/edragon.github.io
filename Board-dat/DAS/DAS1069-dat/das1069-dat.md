@@ -68,6 +68,7 @@ Reserved DIO (via jumpers)
 ## DHT11
 
 - Selectable to ESP IO13 or Arduino A0, by backside jumper
+- default to arduino A0
 
 ## Demo code 
 
@@ -77,13 +78,16 @@ Reserved DIO (via jumpers)
 
 ## old versions 
 
-
 ### Version 1
 
 ![](2023-10-30-16-04-21.png)
 
 ![](2023-10-30-16-46-56.png)
 
+
+## Debug 
+
+- For [[ESP8266-dat]], jumper to [[softserial-dat]] D3/D4, simply connect 5V, GND, D3/D4
 
 ## ref
 
