@@ -1,9 +1,9 @@
 
 # app-dat
 
-## working in progress 
+## 2025
 
-- [[detecting-camera-dat]]
+- [[openpnp-dat]]
 
 - [[metal-detector-dat]]
 
@@ -20,6 +20,10 @@
 ## ideas 
 
 - [[home-plant-dat]]
+
+## done 
+
+- [[detecting-camera-dat]]
 
 
 ## good app maker 

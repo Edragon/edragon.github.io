@@ -1,30 +1,37 @@
 
 # ESP8266 
 
-find modules here - [[esp8266-modules-dat.md]]
+find modules here - [[esp8266-modules-dat]]
+
+## chip info 
+
+- DS [[0a-esp8266ex_datasheet_en.pdf]]
 
 
 ### common pins 
 
 
-| pin    | setup | func                                  | Note    |
-| ------ | ----- | ------------------------------------- | ------- |
-| U0_RXD | GPIO3 | I/O UART Rx during flash programming  |         |
-| U0_TXD | GPIO1 | I/O UART TX during flash programming; | SPI_CS1 |
-
-serial1 = U0
+| pin   | name   | GPIO | function | Note    | note                                  |
+| ----- | ------ | ---- | -------- | ------- | ------------------------------------- |
+| 25    | U0_RXD | 3    | IO3      |         | I/O UART Rx during flash programming  |
+| 26    | U0_TXD | 1    | IO1      | SPI_CS1 | I/O UART TX during flash programming; |
+| 14    | IO2    | 2    | U1_TXD   |         | Flash debug output                    |
+| 13    | MTDO   | 15   | U0_RTS   | HSPI_CS |                                       |
+| 18~23 | SDIO   |
 
 
 
 ### bootstrap
 
-| pin    | setup                | func          |
-| ------ | -------------------- | ------------- |
-| RESET  | pull up + cap 0.1 UF |               |
-| EN     | pull up              |               |
-| IO0    | pull up              |               |
-| IO2    | pull up              | on-module LED |
-| GPIO15 | pull down            |               |
+| pin    | default boot         | Against Mode        | [[ESP-12F-dat]] | [[ESP-12S-dat]] | func              |
+| ------ | -------------------- | ------------------- | --------------- | --------------- | ----------------- |
+| RESET  | pull up + cap 0.1 UF | Reboot              | ext.            | int.            |                   |
+| EN     | pull up              | Reboot              | ext.            | int.            |                   |
+| IO0    | pull up              | Flash Mode          | ext.            | int.            | Boot mode control |
+| IO2    | pull up              |                     | pull-up w/LED   | pull-up w/LED   | on-module LED     |
+| GPIO15 | pull down            | Fail into SDIO Mode | ext.            | int.            | MTDO              |
+
+- reference from chip datasheet section "Pin Definitions" Note part
 
 ![](15-46-00-28-03-2023.png)
 
@@ -36,9 +43,8 @@ serial1 = U0
 
 ## ref 
 
-- design guidelines - https://espressif.com/en/support/download/documents?keys=&field_type_tid%5B%5D=16
+- design guidelines - [[esp8266_hardware_design_guidelines_en.pdf]]
 
-- CN datasheet of all series - [[esp8266系列使用手册.pdf]]
 - Module datasheet please see here: https://github.com/Edragon/ESP8266-HDK/tree/master/MOD
 
 
