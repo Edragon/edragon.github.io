@@ -35,6 +35,11 @@ https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/
 * two LED blink in turns = searching and pairing
 * Left LED slow blink = connected 
 
+
+## demo 
+
+
+
 ## Version Logs
 
 ## Pins V1
@@ -44,3 +49,7 @@ https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/
 
 
 ## ref 
+
+- [[NBL1037-dat]] - [[NBL1038-dat]] - [[NBL1097-dat]]
+
+- [[BT-audio-dat]]
