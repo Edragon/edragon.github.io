@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [[openpnp-dat]]
+- [[openpnp-dat]] - [[PNP-machine-dat]]
 
 - [[metal-detector-dat]]
 
