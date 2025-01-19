@@ -15,13 +15,7 @@ https://www.electrodragon.com/product/esp-12s-wifi-module-esp8266/
 
 ## internal 
 
-| pins  | internal  | Extra            |
-| ----- | --------- | ---------------- |
-| reset | pull-up   | extra filter cap |
-| en    | pull-up   |                  |
-| IO0   | pull-up   |                  |
-| IO2   | pull-up   | on board LED     |
-| IO15  | pull-down |                  |
+see more at [[ESP8266-dat]]
 
 ![](56-45-15-16-12-2022.png)
 

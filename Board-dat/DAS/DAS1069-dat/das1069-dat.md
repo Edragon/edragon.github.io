@@ -87,4 +87,6 @@ Reserved DIO (via jumpers)
 
 ## ref
 
+- [[ESP8266-dat]]
+
 - [[arduino-dat]]
