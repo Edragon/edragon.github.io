@@ -10,10 +10,6 @@ https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/
 
 ![](2023-11-09-15-35-26.png)
 
-## Pins 
-
-![](2023-11-09-15-22-38.png)
-
 
 * Notice middle press for PP/CAL = pause and play function.
 * Battery read on connected phone is about 20% battery fixed, because on board LDO output 3.3V for core module. No need worry.
@@ -38,3 +34,13 @@ https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/
 * Left LED normal blink = booting
 * two LED blink in turns = searching and pairing
 * Left LED slow blink = connected 
+
+## Version Logs
+
+## Pins V1
+
+![](2023-11-09-15-22-38.png)
+
+
+
+## ref 
