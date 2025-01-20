@@ -3,6 +3,9 @@
 
 Module based on [[SCM1030-dat]]
 
+
+
+
 ## Pin Map 
 
 | L_Pin | ESP32_CAM | tori     | M_Pin | ESP32_CAM | tori   | R_Pin | ESP32_CAM      | tori |
@@ -28,18 +31,15 @@ Module based on [[SCM1030-dat]]
 
 ## In Use 
 
-- [[I2S-dat]]
+- [[I2S-dat]] - [[I2S-microphone-dat]]
 
 - [[PIR-sensor-dat]] - [[BME280-dat]] - [[OLED-dat]] 
 
 - [[sensor-dat]]
 
-- [[SCM1030-dat]]
-
 - [[consonance-dat]] - [[solar-power-dat]]
 
-- [[ESP32-dat]]
-
+- [[ESP32-dat]] - [[SCM1030-dat]]
 
 
 
@@ -48,3 +48,15 @@ Module based on [[SCM1030-dat]]
 - [[SD-dat]]
 
 - [[IP5306-dat]]
+
+
+## Demo Code 
+
+## Demo Video 
+
+
+
+
+## ref 
+
+- [[ESP1000]]
