@@ -7,7 +7,7 @@
 
 - [[Board-stock-out]] - [[board-series-dat]] - [[board-new-dat]] - [[board-discount]]
 
-- [[tech-dat]] - [[BOM-dat]] - [[app-dat]]
+- [[tech-dat]] - [[BOM-dat]] - [[app-dat]] - [[weekly-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]] - [[mod-dat]]
 
