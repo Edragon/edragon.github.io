@@ -80,6 +80,25 @@ pin define
 - [[OV2640-dat]]
 
 
+| L_Pin | custom  | M_Pin | custom  | R_Pin | custom         |
+|-------|---------|-------|---------|-------|----------------|
+| GND   |         | GND2  |         | GND   |                |
+| 3V3   |         | 13    | microSD | 23    | CAM            |
+| EN    |         | SD2   | PSRAM   | 22    | CAM            |
+| 36    | CAM     | SD3   | PSRAM   | TXD0  |                |
+| 39    | CAM     | CMD   |         | RXD0  |                |
+| 34    | CAM     | CLK   |         | 21    | CAM            |
+| 35    | CAM     | SD0   | PSRAM   | --    |                |
+| 32    | CAM_PWR | SD1   | PSRAM   | 19    | CAM            |
+| 33    |         | 15    | microSD | 18    | CAM            |
+| 25    |         | 2     | microSD | 5     | CAM            |
+| 26    | CAM     |       |         | 17    | PSRAM          |
+| 27    | CAM     |       |         | 16    | PSRAM          |
+| 14    | microSD |       |         | 4     | microSD, flash |
+| 12    | microSD |       |         | 0     | CAM            |
+
+
+
 ### Pin Definitions 
 
 ![](2024-12-28-17-36-00.png)
