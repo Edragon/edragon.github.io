@@ -1,6 +1,13 @@
 
 # NBL1111-dat
 
+https://www.electrodragon.com/product/bluetooth-5-2-stereo-audio-data-transmission-module-bk3266/
+
+breakout board - [[NBL1115-dat]]
+
+- [[bt-audio-dat]]
+
+
 ## Main control BK3266 Bluetooth version V5.2 stereo audio data transmission module, batch customization
 
 1. Call function (AT can be turned off)
@@ -24,6 +31,9 @@ The main control of this module uses Beken's BK3266 chip to provide high-quality
 
 - Support AT to modify the Bluetooth name, within 31 characters, see AT command description.
 - Support AT to modify the Bluetooth pairing password, within 15 characters, see AT command description.
+
+
+![](2025-01-20-19-34-14.png)
 
 ## application 
 
@@ -227,10 +237,6 @@ This module is mainly used for short-distance music transmission. It can be easi
 
 - [[NBL1111-AT.ini]] put this ini file into SSCOM exe folder - [[SSCOM-dat]]
 
-
-## breakout module 
-
-![](2025-01-17-15-33-43.png)
 
 
 

@@ -1,6 +1,8 @@
 
 # BK3266-dat
 
+
+
 ## Overview
 
 BK3266 is a low-power, highly integrated Bluetooth audio SoC. It integrates a high-performance Bluetooth RF transceiver, a feature-rich baseband processor, a Flash controller, multiple analog and digital peripherals, and a Bluetooth software stack including audio, voice, and SPP profiles.

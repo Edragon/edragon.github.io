@@ -1,6 +1,8 @@
 # Audio-amplifier-dat
 
-- [[diodes-dat]] - [[heroic-dat]]
+- [[diodes-dat]] - [[PAM-dat]] 
+
+- [[heroic-dat]]
 
 | model   | type   | type2        | class   | power |
 | ------- | ------ | ------------ | ------- | ----- |
