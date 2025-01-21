@@ -1,6 +1,9 @@
 
 # SIM7028-dat
 
+- order at [[NGS1135-dat]]
+
+
 The SIM7028 module support LTE Category NB2, 2-HARQ. The physical dimension of SIM7028 is 17.6mm×15.7mm×2.3 mm. 
 
 It is designed for applications that need low latency, Low throughput datacommunication in a variety of radio propagation conditions.
