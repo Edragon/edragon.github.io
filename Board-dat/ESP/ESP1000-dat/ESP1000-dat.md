@@ -52,10 +52,13 @@ Module based on [[SCM1030-dat]]
 
 ## Demo Code 
 
+- https://github.com/Edragon/Arduino-ESP32/tree/master/BSP/APP/ESP32-tori
+
 ## Demo Video 
 
-
-
+- [default camera log, powered by battery](https://x.com/electro_phoenix/status/1881569671020949656) 
+- [I2S camera sound detect](https://x.com/electro_phoenix/status/1877590478109159437)
+- [PIR sensor detector](https://x.com/electro_phoenix/status/1877256534687650008)
 
 ## ref 
 
