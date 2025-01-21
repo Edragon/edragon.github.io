@@ -1,6 +1,10 @@
 
 # SIM7020 DAT
 
+https://www.electrodragon.com/product/sim7020e-4g-nbiot-mini-development-board/
+
+
+
 - [[NBIOT-dat]] 
 
 
