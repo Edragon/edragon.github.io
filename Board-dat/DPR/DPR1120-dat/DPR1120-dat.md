@@ -1,6 +1,7 @@
 
 # DPR1120 dat 
 
+https://www.electrodragon.com/product/usb-to-four-4x-serial-ttl-uart-module-ft4232/
 
 ## Dimension 
 
@@ -14,6 +15,16 @@
 ## usage
 
 - remove the jumpers, which are for our factory test purpose only 
+
+- better use with external power supply, for example [[OPM1095-dat]]
+
+
+## demos 
+
+- https://t.me/electrodragon3/331
+
+
+
 
 
 ## ref 
