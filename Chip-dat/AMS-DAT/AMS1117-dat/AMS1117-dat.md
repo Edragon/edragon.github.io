@@ -7,6 +7,11 @@
 ![](10-25-17-31-01-2023.png)
 
 
+## Similar name 
+
+- LM1117 
+
+
 ## Minium Input voltage 
 
 The AMS1117 is a low dropout linear voltage regulator, and its minimum input voltage depends on the specific output voltage version you are using. The dropout voltage is typically around 1.1V at full load (1A). Here's a breakdown:

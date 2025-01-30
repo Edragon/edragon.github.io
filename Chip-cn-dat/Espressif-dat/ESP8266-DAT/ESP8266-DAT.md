@@ -36,9 +36,11 @@ find modules here - [[esp8266-modules-dat]]
 ![](15-46-00-28-03-2023.png)
 
 
-## programmer 
+## programmer and programming 
 
 - [[DPR1150-dat]] - [[NWI1070-dat]] for ESP-01/01S 
+
+- Batch Brogramming for ESP8266 modules, use [[OPM1095-dat]] and [[DPR1120-dat]] - https://t.me/electrodragon3/331
 
 
 ## ref 
@@ -48,9 +50,7 @@ find modules here - [[esp8266-modules-dat]]
 - Module datasheet please see here: https://github.com/Edragon/ESP8266-HDK/tree/master/MOD
 
 
-
-
-Common Used 
+## Modules and Boards 
 
 - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]] - [[NWI1075-dat]]
 
