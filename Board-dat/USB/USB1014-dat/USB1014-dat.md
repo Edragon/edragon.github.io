@@ -31,13 +31,19 @@ J1 ~ J5 = ?
 J6 = ? 
 
 
+## demo 
+
+- the integration need to work with android software
+
+- refer more demos from [[ftdi-dat]] - [[ft311-dat]]
+
 ## ref 
 
 - repository - https://github.com/Edragon/WCH-CH9343
   - inside original PCB file and SCH
 
-- chip page link - http://www.wch.cn/product/ch9343.html
-- https://www.wch.cn/products/CH9343.html
+- [chip page link](https://www.wch-ic.com/product/CH9343.html)
+
 
 
 - [[USB1014]]
