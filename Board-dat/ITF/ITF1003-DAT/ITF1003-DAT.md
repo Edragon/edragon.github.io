@@ -44,7 +44,7 @@ read current value on the right side
 
 ## SCH 
 
-![](2025-02-02-17-36-47.png)![](2025-02-02-17-36-59.png)
+![](2025-02-02-17-36-47.png)
 
 
 ## demos 
