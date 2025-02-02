@@ -9,7 +9,7 @@ USB Android HOST 芯片 CH9343
 
 - chip - [[ch9343-dat]]
 
-- [[USB1014]]
+
 
 ## board map 
 
@@ -40,3 +40,4 @@ J6 = ?
 - https://www.wch.cn/products/CH9343.html
 
 
+- [[USB1014]]
