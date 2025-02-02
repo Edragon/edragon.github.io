@@ -41,9 +41,19 @@ read current value on the right side
 4. Replace the external trim-pot with your sensor
 
 
+
+## SCH 
+
+![](2025-02-02-17-36-47.png)![](2025-02-02-17-36-59.png)
+
+
 ## demos 
 - https://twitter.com/electro_phoenix/status/1651909594900467712 
+
+
 
 ## ref 
 - [[ITF1003]]
 - [[XTR115]] - [[XTR116]]
+
+
