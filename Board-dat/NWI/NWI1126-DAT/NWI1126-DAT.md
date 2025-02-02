@@ -139,6 +139,8 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 
 ## ref
 
+- a few common mosfet driver issues can be found in the review and causes here: [[mosfet-dat]]
+
 - read more information regarding how to use the chip here [[ESP32-C3-dat]] - [[ESP32-­C3-­WROOM-­02-DAT]]
 
 - [[NWI1124-DAT]]
