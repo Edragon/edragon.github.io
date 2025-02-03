@@ -41,3 +41,15 @@ https://www.electrodragon.com/w/Category:TRIAC
 ## thyristor = 可控硅
 
 It is a type of semiconductor device used for controlling high-power electric signals, often in switching applications.
+
+
+## MOC Triac driver 
+
+| Feature                     | MOC3020 (Random-Phase)                                     | MOC3021 (Random-Phase)                                     | MOC3063 (Zero-Cross)                                          |
+|-----------------------------|----------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------|
+| **Triggering Behavior**     | Random-phase (non–zero–cross); triggers at any point in AC cycle | Random-phase (non–zero–cross); similar to MOC3020 but optimized for lower LED drive | Zero–cross; triggers only near the AC waveform’s zero point, reducing EMI and inrush current |
+| **LED Trigger Current**     | Typical trigger current ~30 mA                           | Typical trigger current ~15 mA                           | Optimized for zero–cross operation (exact value varies per datasheet)  |
+| **Applications**            | Phase–control applications (lamp dimmers, motor controls) | Phase–control applications where a lower drive current is desired | AC switching (solid state relays, noise reduction, on/off control)  |
+| **Isolation Voltage**       | 5,000 Vrms                                             | 5,000 Vrms                                             | 5,000 Vrms                                                  |
+| **Off-State Output Voltage**| Minimum 400 V                                          | Minimum 400 V                                          | Minimum 400 V                                               |
+| **dV/dt Rating**            | Typically ≥1000 V/µs                                   | Typically ≥1000 V/µs                                   | May be optimized for zero–cross switching (check datasheet for specifics) |
