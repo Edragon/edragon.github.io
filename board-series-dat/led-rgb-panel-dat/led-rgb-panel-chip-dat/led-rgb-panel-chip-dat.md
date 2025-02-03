@@ -11,3 +11,13 @@ In the second order #65705, the panels came with the DP5125D driver chip. These 
 In the first order #65388, the panels had the FM6124DJ driver chip. These panels have issues with the drive board: They display glitches/artefacts around the borders of objects like the red horizontal lines next to the object on the attached photo.
 
 ![](2025-01-06-16-42-51.png)
+
+
+
+
+
+### chip check
+
+- probably NOT supported Panels: ICN2153 ICN2053 chips
+
+- Check the chip type (FM6126A)

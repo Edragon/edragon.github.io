@@ -51,60 +51,18 @@ JP1 / JP2 / JP3
 
 - [[rpi-dat]]
 
-### C execute file 
+
+## C execute file Compile and commandline test 
 
 clone project, build the binary executable file, and use following commands 
 
     make -C examples-api-use
 
-### commandline test 
-
 The panels of the same size could have different drive (scan) methods, it depends on the panel's driver chip. please try different led-multiplexing, from 0~17
 
     --led-multiplexing=0
 
-
-## demo video 
-
-- lately test 1 - https://www.youtube.com/watch?v=KG2e6GpXDIY&ab_channel=Electrodragon
-- early test 1 - https://www.youtube.com/watch?v=wN-cqQ_2kNs&ab_channel=Electrodragon
-- early test 2 - https://www.youtube.com/watch?v=LgrxaVafo5o&ab_channel=Electrodragon
-
-telegram CH 
-- https://t.me/electrodragon3/216
-- https://t.me/electrodragon3/217
-
-
-## common FAQ 
-
-common errors 
-
-- [[MPC1073-multiplexing-dat]] - [[MPC1073-test-log-dat]] 
-
-- [[MPC1073-OS-error]] 
-
-- [[MPC1073-design-error]] (obseleted, 2022 only)
-
-
-### chip check
-
-- probably NOT supported Panels: ICN2153 ICN2053 chips
-
-- Check the chip type (FM6126A)
-
-### more FAQs 
-
-* Using all 3 chains with rPi 4, is there any GPIO free to use?  
-No any free pins left except SC / SD pins 
-
-* What are SC and SD pin holes? 
-GPIO0 = SDA0, GPIO7 = SCL0
-
-* What are RX pin hole? 
-GPIO15, ROW_E pin, can be set to ground
-
-
-### checklist 
+## Setup checklist 
 
 Prerequisite Checklist, double check for GPIOs
 
@@ -124,11 +82,43 @@ optionally disable: audio in kernel
 
 by following up setup, the GPIO output should be all good
 
+Start first with P0 Chain Test and standard demo code command line test
+
+## demo video 
+
+- lately test 1 - https://www.youtube.com/watch?v=KG2e6GpXDIY&ab_channel=Electrodragon
+- early test 1 - https://www.youtube.com/watch?v=wN-cqQ_2kNs&ab_channel=Electrodragon
+- early test 2 - https://www.youtube.com/watch?v=LgrxaVafo5o&ab_channel=Electrodragon
+
+telegram CH 
+- https://t.me/electrodragon3/216
+- https://t.me/electrodragon3/217
+
+## common FAQ 
+
+common errors 
+
+- [[MPC1073-multiplexing-dat]] - [[MPC1073-test-log-dat]] 
+
+- [[MPC1073-OS-error]] 
+
+- check the supported and working smooth chips on the RGB matrix panels, please refer to this page: [[led-rgb-panel-chip-dat]]
+
+### more FAQs 
+
+* Using all 3 chains with rPi 4, is there any GPIO free to use?  
+No any free pins left except SC / SD pins 
+
+* What are SC and SD pin holes? 
+GPIO0 = SDA0, GPIO7 = SCL0
+
+* What are RX pin hole? 
+GPIO15, ROW_E pin, can be set to ground
 
 
 ## ref 
 
-- [[MPC1073-ref-dat]]
+- [[MPC1073-ref-dat]] - [[RMP-driver-dat]]
 
 - https://w.electrodragon.com/w/RPI_RMP_Guide
 - https://w.electrodragon.com/w/RPI_RMP_HDK
@@ -140,3 +130,4 @@ by following up setup, the GPIO output should be all good
 - [[MPC1073]]
 
 
+- [[MPC1073-design-error]] (obseleted, 2022 only)
