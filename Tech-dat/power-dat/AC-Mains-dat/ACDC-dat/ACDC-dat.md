@@ -14,7 +14,27 @@
 - [[AP8022-dat]] - [[AP8012-dat]]
 
 
+## Board Function diagram 
 
+![](2025-02-03-15-20-49.png)
+
+- Power supply principle scheme block diagram
+- Mains power 220VAC
+- Electromagnetic interference filter
+- Rectification and filtering
+- Low voltage rectifier filter
+- DC output
+- Output detection
+- Power detection
+- PWM switch control
+- Temperature detection
+- Signal comprehensive analysis/processing
+- feedback control
+
+
+## Usage Applciation 
+
+![](2025-02-03-15-21-51.png)
 
 ## peripheral SCH 
 

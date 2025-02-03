@@ -82,7 +82,7 @@ optionally disable: audio in kernel
 
 by following up setup, the GPIO output should be all good
 
-Start first with P0 Chain Test and standard demo code command line test
+Double check all the wirings are correct, and start first with P0 chain test using simple commandlines run
 
 ## demo video 
 
