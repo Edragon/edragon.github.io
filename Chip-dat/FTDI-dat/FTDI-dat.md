@@ -8,6 +8,8 @@
 
 ## FT311d 
 
+- use [[USB1014-dat]] for an alternative soltuion
+
 ### demo 
 
 - [FT311D Android Host IC, Controlled Robot Arm Demo](https://www.youtube.com/watch?v=w9sEITQuTwA)
