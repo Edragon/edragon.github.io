@@ -3,6 +3,9 @@
 
 http://www.wch-ic.com/downloads/CH341SER_EXE.html
 
+- datasheet [[CH341A.pdf]]
+
+
 
 ## working principle 
 
@@ -65,6 +68,10 @@ common supported devices
 - GD25 
 - IS25 
 - ...
+
+
+## ref 
+
 
 - [[CH341]]
 
