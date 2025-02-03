@@ -1,11 +1,13 @@
 
 # ARM1003-dat
 
+- legacy wiki page - https://w.electrodragon.com/w/CH579
+
+## Board Map 
 
 ![](2024-03-22-17-16-36.png)
 
-- legacy wiki page - https://w.electrodragon.com/w/CH579
-
+power distributation please see this page [[Power-distribution-dat]]
 
 ## Pin Definitions 
 
@@ -24,6 +26,5 @@
 
 - official SDK - https://www.wch.cn/products/ch579.html
 - https://github.com/Edragon/WCH_CH579.git
-
 
 
