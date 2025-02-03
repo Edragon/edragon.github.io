@@ -74,17 +74,6 @@ ref
 
 
 
-
-
-## in development
-
-- [[RMP-RPI-CM4-dat]]
-
-
-
-
-
-
 ## ref
 
 - [[RPI-dat]] - [[RMP-driver]]
@@ -100,3 +89,5 @@ ref
 - [[IDD1016-dat]] - https://github.com/2dom/PxMatrix
 
 forum - https://rpi-rgb-led-matrix.discourse.group/t/looking-for-a-small-form-factor-3-channel-solution-smaller-than-electrodragon-active-3-board/905
+
+- development for [[RMP-RPI-CM4-dat]] will not work
