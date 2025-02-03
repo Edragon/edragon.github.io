@@ -10,12 +10,21 @@
 
 ### Fan control by three options 
 
-- LM ALRAM (NAND_A)
+- LM temperature Limit ALRAM (NAND_A)
 - GPIO12 (NAND_B either gate )
 - Manual switch (NAND_B either gate )
 
+| A =temp. alarm | B = IO12 or switch | out |
+| -------------- | ------------------ | --- |
+| L              | L                  | H   |
+| L              | H                  | H   |
+| H              | L                  | H   |
+| H              | H                  | L   |
 
 
+![](2025-02-03-17-08-52.png)
+
+- [[Fan-dat]] drive by [[mosfet-dat]], only turn on or off
 
 ### Temperature sensor 
 
