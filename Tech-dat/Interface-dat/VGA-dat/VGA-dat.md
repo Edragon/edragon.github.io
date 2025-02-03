@@ -22,3 +22,8 @@ The video shown uses an adapter with 1% SMD resistors. There is a slight colour 
 In contrast to the composite video, the DPI interface can be run independent of the HDMI. Thus next to the HDMI screen, the VGA can be used as ‘second monitor’. The software for that is still under development but I expect that to arrive in the next two week. 
 
 Beware that running two screens at maximum resolution will really eat into your SDRAM bandwidth. In fact it has not tried yet, so it might not be possible. 
+
+
+## Connector 
+
+- VGA female 15 = 3x5 pins 
