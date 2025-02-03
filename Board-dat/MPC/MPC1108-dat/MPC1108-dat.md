@@ -1,14 +1,19 @@
 
 # MPC1108-dat
 
+https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspberry-pi/
+
+
 ![](2024-07-08-18-28-25.png)
 
 
-- NAND gate use [[logic-gate-dat]] 
+
 
 ## Function 
 
 ### Fan control by three options 
+
+- NAND gate use [[logic-gate-dat]] 
 
 - LM temperature Limit ALRAM (NAND_A)
 - GPIO12 (NAND_B either gate )

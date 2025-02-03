@@ -27,3 +27,16 @@ working table
 | ----- | -------- | ---------------- |
 | VBAT  | ON       | direct to +5V    |
 | VBUS  | OFF      | via diode to +5V |
+
+
+## P-ch Mosfet select V2 for [[ARM1003-dat]]
+
+- [[mosfet-dat]]
+
+| VBUS @ gate | p-mos | BAT | VCC    | note       |
+| ----------- | ----- | --- | ------ | ---------- |
+| ON          | OFF   | OFF | = VBUS | via diode  |
+| OFF         | ON    | ON  | = VBAT | via mosfet |
+
+
+![](2025-02-03-17-18-57.png)
