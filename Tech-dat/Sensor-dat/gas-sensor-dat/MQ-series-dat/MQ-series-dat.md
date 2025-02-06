@@ -17,6 +17,29 @@
 
 - [[MQ-5-dat]] - [[STH1044-dat]]
 
+## Gas type and models 
+
+# Selection Guide
+
+| Model | Detect Type                                                                                                                                                |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MQ-2  | LPG, i-butane, propane, methane, alcohol, Hydrogen, smoke                                                                                                  |
+| MQ-3  | Alcohol                                                                                                                                                    |
+| MQ-5  | High sensitivity to LPG, natural gas, town gas  <br>   Small sensitivity to alcohol, smoke. <br> **Combustible gases**: Butane, propane, methane, hydrogen |
+
+
+
+
+## Note of use 
+
+Initiation check<br />
+
+* The sensor first warm-up for about 20 seconds.
+* Put the sensor on a place without detecting gas, 
+* clockwise adjustment potentiometer until the light is on, 
+* then one-half turn counterclockwise until indicator does not light
+* then close to the measured gas light is on, leave the measured gas, the light is off, this proof the sensor is working well
+
 
 
 ## ref 
