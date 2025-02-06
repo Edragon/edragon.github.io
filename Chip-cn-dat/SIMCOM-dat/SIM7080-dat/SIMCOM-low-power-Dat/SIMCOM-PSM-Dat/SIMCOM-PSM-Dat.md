@@ -1,5 +1,17 @@
 
-- [[SOMCOM-low-power-dat]] 
+# SIMCOM-PSM-Dat
+
+
+- [[SIMCOM-low-power-dat]] 
+
+
+
+## PSM
+
+In PSM (Power Saving Mode), the terminal does not actively check for paging data in the downlink. PSM mode remains active until either a Tracking Area Update (TAU) or uplink data transmission is required. T3412 indicates the tracking area update time, and T3324 indicates the timer that enters the PSM in IDLE mode.
+
+
+
 
 
 ## Power Supply Mode 
