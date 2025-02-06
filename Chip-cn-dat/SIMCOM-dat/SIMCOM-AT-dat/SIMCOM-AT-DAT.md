@@ -4,7 +4,7 @@
 legacy wiki page 
 https://w.electrodragon.com/w/SIM7020_AT
 
-- [[SIMCOM-AT-GNSS-dat]] - [[SIMCOM-AT-Basic-Network]] - [[SIMCOM-AT-NBIOT]]
+- [[SIMCOM-AT-GNSS-dat]] 
 
 - [[serial-dat]] - [[sscom-dat]]
 
