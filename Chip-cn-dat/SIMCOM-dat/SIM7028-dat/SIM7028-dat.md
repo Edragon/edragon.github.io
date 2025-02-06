@@ -59,13 +59,51 @@ compare to [[SIM7020-dat]]
 ![](2025-01-18-14-40-49.png)
 
 
+## AT Commands Log
+
+- use pre-built at commands from here [[SIMCOM-AT-dat]]
+
+Boost test 
+
+    LoadVerifyImageHead read(len=272), Time(ms)->0.
+    test:VerifyImageHead skip
+    VerifyImageBody sha256 skip
+
+    *ATREADY: 1
+
+    SIM Ready
+
+    Network Available
+
+    +CESQ: 99,99,255,255,31,70
+
+    OK
+
+    OK
+
+    +QCPING: SUCC, dest: 59.111.160.244, RTT: 623 ms
+
+    +QCPING: SUCC, dest: 59.111.160.244, RTT: 150 ms
+
+    +QCPING: SUCC, dest: 59.111.160.244, RTT: 147 ms
+
+    +QCPING: SUCC, dest: 59.111.160.244, RTT: 143 ms
+
+    +QCPING: DONE
+
+    +QCPING: dest: 59.111.160.244, 4 packets transmittted, 4 received, 0 % packet loss rtt min/avg/max = 143 / 265 / 623 ms
+
+
+
 
 ## ref 
 
+- at commands manual - [[SIM7028 Series_AT Command Manual_V1.00.pdf]] - [[SIMCOM-AT-dat]]
+
+- [[SIM7028-for-raspberrypi.zip]]
+
 - hardware design manual - [[SIM7028-Hardware-Design-1.0.pdf]]
 
-- [[SIMCOM-dat]] - [[Cortex-M3-dat]]
+- [[SIMCOM-dat]] - [[Cortex-M3-dat]] - [[SIMCOM-PSM-Dat]]
 
 - https://cn.simcom.com/product/SIM7028.html
-
-

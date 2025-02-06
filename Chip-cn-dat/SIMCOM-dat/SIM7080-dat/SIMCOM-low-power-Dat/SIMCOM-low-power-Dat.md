@@ -2,6 +2,26 @@
 
 # SIMCOM-low-power-Dat.md
 
+try our modules with [[SIMCOM-at-dat]]
+
+NB-IoT technology supports three power-saving modes: 
+
+- PSM (Power Saving Mode), 
+- DRX (Discontinuous Reception Mode) 
+- and eDRX (Extended DRX). 
+
+In NB-IoT, PSM (Power Saving Mode) and eDRX (Extended Discontinuous Reception) are used to save power. In PSM mode, the terminal doesn't need to actively listen for paging messages to check for downstream data. On the other hand, eDRX mode has longer paging cycles compared to DRX mode, which can result in longer latency and potentially affect the real-time nature of data transmission. The choice between PSM and eDRX depends on the capabilities and configurations of both the terminal device and the network.
+
+Regarding capabilities, it's important not to configure network features that the terminal does not support. Additionally, the terminal's supported capabilities may vary depending on the specific network conditions.
+
+
+| No  | Mode | Description                                                                                                                                                                                                                                                       |
+| --- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | PSM  | Extremely save power, and do not receive any data.                                                                                                                                                                                                                |
+| 2   | DRX  | Regularly turn off network services to find the device at any time.                                                                                                                                                                                               |
+| 3   | eDRX | eDRX can further reduce the power consumption of NB-IoT devices and extend battery life compared to the traditional DRX mode. However, at the same time, the device may delay when receiving data due to the longer cycle and shorter reception duration of eDRX. |
+
+
 
 NB-IoT 支持三种省电模式：
 
