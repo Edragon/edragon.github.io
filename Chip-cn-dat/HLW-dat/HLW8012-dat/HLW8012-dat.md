@@ -62,6 +62,23 @@ Note
 * [Demo code here](https://github.com/Edragon/esp8266_arduino/tree/master/HLW8012/remote_debug)
 
 
+## Establishing a Clean Ground for HLW8012 Power Meter IC
+
+To ensure accurate performance of the HLW8012 power meter IC in current shunt measurement, voltage measurement, analog (oversampling ADC) operations, and digital output interfaces, it is recommended to implement the following grounding strategy on the PCB:
+
+1. **Create a Ground Region**: Design a ground area beneath the IC that loops around the four analog pins on the left side. This ground encirclement should be formed using a 0.5-centimeter-wide copper trace.
+
+2. **Connect Key Components to the Ground Encirclement**:
+   - The IC's ground pin.
+   - The ground ends of the 0.033 µF capacitors associated with the current shunt. Ensure these PCB traces are symmetrical, balanced, and as short as possible.
+   - The two capacitors used for the +5V VDD bypass filter.
+
+Additionally, some reference designs suggest inserting a 10-ohm resistor in the path from the +5V voltage regulator to these two capacitors and the IC's VDD pin. This configuration creates a low-pass filter that reduces EMI/RFI interference entering the IC, thereby preventing miscounts or unintended power-on resets. In professional designs requiring high robustness, circuits must withstand significant electric and magnetic fields from high-power transmitters and antennas without errors. Place the 10-ohm resistor close to the two capacitors to minimize potential antenna effects.
+
+By implementing this grounding approach, the HLW8012 IC can achieve precise and reliable power measurement.
+
+
+
 ## Demo 
 
 https://www.youtube.com/watch?v=0aiuwRB8Uic
@@ -75,8 +92,9 @@ https://www.youtube.com/watch?v=0aiuwRB8Uic
 
 ## ref 
 
-- [[HLW8012-dat]] - [[HLW8032-dat]] - [[HLW-dat]] - [[ac-mains-dat]] - [[power-meter-dat/power-sensor-dat]]
+- [[HLW8012-dat]] - [[HLW8032-dat]] - [[HLW-dat]] - [[ac-mains-dat]] - [[power-meter-dat]] - [[power-sensor-dat]]
 
 Boards - [[OPM1126-dat]]
 
-- [[OPM1126]]
+- [[OPM1126]] - [[HLW8012]]
+
