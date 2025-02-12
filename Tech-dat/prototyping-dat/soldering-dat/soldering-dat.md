@@ -1,12 +1,20 @@
 
 # soldering-dat
 
-- [[PSO1030-dat]] - [[PSO1055-dat]] - [[PSO1043-dat]] - [[PSO1038-dat]]
+- [[PSO1055-dat]] - [[PSO1043-dat]] - [[PSO1038-dat]]
 
 
-## Manual Soldering 
+## soldering wires 
 
-Common type soldering wires 
+- [[PSO1030-dat]]
+
+## Soldering Flux 
+
+- [[PSO1046-dat]]
+
+
+
+## Common type Solder Paste 
 
 | melting point | tin content | Note                                                        |
 | ------------- | ----------- | ----------------------------------------------------------- |
@@ -25,5 +33,7 @@ Common type soldering wires
 
 
 ## ref 
+
+- [[desoldering-dat]]
 
 - [[ICT-testing]]
