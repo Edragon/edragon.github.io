@@ -44,3 +44,22 @@ ATtiny
 
 SAMD21 
 [[SDR1096-dat]]
+
+
+
+## Cheap High-operating temperature MCUs 
+
+| MCU Model           | Core            | Operating Temp | Operating Current | Power Supply | Pins | Interfaces (SPI, UART, RTC) |
+|---------------------|----------------|---------------|------------------|--------------|------|-----------------------------|
+| Texas Instruments TMS570LS0432 | ARM Cortex-R4F | -40°C to 175°C | ~5-10mA       | 1.2V–3.3V  | 64   | SPI, UART (RX/TX), RTC     |
+| Microchip ATSAMC21J18A | ARM Cortex-M0+ | -40°C to 180°C | ~5-8mA         | 1.62V–3.6V  | 64   | SPI, UART (RX/TX), RTC     |
+| NXP S32K144 | ARM Cortex-M4F | -40°C to 175°C | ~7-10mA       | 1.71V–3.6V  | 64   | SPI, UART (RX/TX), RTC     |
+| GigaDevice GD32A5xx           | ARM Cortex-M33   | -40°C to 125°C | ~5-8 mA           | 1.62V–3.6V   | 64   | SPI, UART (RX/TX), RTC      | 
+
+
+- TMS570LS0432
+- ATSAMC21J18A
+- S32K144
+
+- FS32K144HAT0MLHR == 10+: ￥29.48
+- FS32K144HAT0MLHR == 10 usd 
