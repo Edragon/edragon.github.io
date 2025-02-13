@@ -11,7 +11,18 @@
 - The HLW8032 has the advantages of high precision, low power consumption, high reliability and strong adaptability to the environment. It is suitable for energy metering of single-phase two-wire power users.
 
 
+## UART communication interface
 
+
+HLW8032 has a simple UART interface and adopts asynchronous serial communication mode, which allows data communication via two one -way pins. The UART interface can realize isolated communication by only a low-cost photoelectric coupler. The UART interface operates at fixed frequency of 4800 bps and its interval for transmitting data is 50mS, which is suitable for design of low velocity.   
+
+UART of HLW8032 uses two pins. The TX pin is used to transmit data from HLW8032, and data is transmitted in the least significant bit (LSB) with priority. The RX pin is used to receive the data from microcontroller. 
+
+![](2025-02-13-16-09-20.png)
+
+Data format of HLW8032:    
+- Baud rate:4800bps   
+- Start bit+data bit (8bit) + even bit + stop bit
 
 
 ## Applications 
