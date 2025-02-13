@@ -38,6 +38,9 @@ The current recommendation for a build guideline is:
 
 ![](2025-02-13-17-46-21.png)
 
+#### richardklingler == openpnp
+
+- https://github.com/richardklingler/openpnp
 
 #### openpnp-openbuilds
 
@@ -58,6 +61,11 @@ DIY Pick and Place by Teton Technology – An Open Source DIY cartesian PnP mach
   - demo video - [DIY picking and placing a pcb](https://www.youtube.com/watch?v=Ril6AWOdqfg&t=76s)
   - [PNP Bill of material](https://docs.google.com/spreadsheets/d/1ijdlkk7pOZnqEVCU9lDlx2OBI44QKNkokIkmXVnPd3g/edit?gid=0#gid=0)
   - files not working 
+
+#### other not maintaining 
+
+- liteplacer
+- [TVM920driver](https://github.com/glenenglishgithub/TVM920driver/tree/dev)
 
 ### Head
 
