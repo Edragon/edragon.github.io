@@ -39,14 +39,13 @@ https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/
 - Demo video available here. - https://www.youtube.com/watch?v=wN-cqQ_2kNs
 - Raspberry Pi adapter board is available here. https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
 
-## Accessories Included
+## Packge and Accessories Included
 
-- power cable --> 2-to-2,  4pin 3.96mm to "Y" connector power cable.
-- data cable [[HUB75]] --> Include 16P ribbon cable for HUB75 connector to drive board.
+- power cable --> 2-to-2,  4pin 3.96mm to "Y" connector power cable. ONLY 50% cables will be inlcuded, since each power cable has two outputs, and you can use one cable for two panels. 
+- data cable for [[HUB75-dat]] --> Include 16P ribbon cable for HUB75 connector to drive board.
+- 4pcs magnetic snap screw, can be snapped on you metal frame. Screw specs is M3 OR M4, Dia. 13mm, L 12mm.
 
 for outdoor ONLY P6 and P8
-
-- 4pcs magnetic snap screw, can be snapped on you metal frame. Screw specs is M3, Dia. 13mm, L 12mm.
 - waterproof rubber seal ring
 
 ## read more
