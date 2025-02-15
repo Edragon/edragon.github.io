@@ -1,6 +1,9 @@
 
 # Logic-shifter-dat
 
+## board 
+
+- [[MSP1007-dat]]
 
 ## Chip and solutions
 

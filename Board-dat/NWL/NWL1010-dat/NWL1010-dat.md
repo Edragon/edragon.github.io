@@ -12,4 +12,7 @@
 
 ## ref 
 
+- [[NRF24L01-dat]] - [[nordic-dat]]
+
+
 - [[NWL1010]]
