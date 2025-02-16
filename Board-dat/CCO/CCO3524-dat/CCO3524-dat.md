@@ -9,6 +9,12 @@ When measuring circuits or components, if you use a multimeter pen, you must hol
 
 ![](2024-10-04-18-01-24.png)
 
+- black
+- blue
+- yellow
+- green red
+
+
 ## features 
 
 1. Used when testing power supply for precision circuits. It is a good tool to connect a line and use it with a power supply or multimeter.
@@ -22,3 +28,8 @@ When measuring circuits or components, if you use a multimeter pen, you must hol
 ![](2024-01-13-11-27-21.png)
 
 ![](2024-01-13-11-27-36.png)
+
+
+## ref 
+
+- [[CCO3524]]
