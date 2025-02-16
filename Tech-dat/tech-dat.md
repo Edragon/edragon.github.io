@@ -89,5 +89,8 @@
 - [[EDA-simulation]]
 
 
+## Mechnicals 
+
+- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]]
 
 Any interetest demo please contact me to enquiry.
