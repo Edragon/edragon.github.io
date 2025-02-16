@@ -1,0 +1,38 @@
+
+# CAD-dat
+
+
+## Cloud-based Tools:
+
+
+- Onshape: You can upload the .PRT file and see if Onshape can automatically recognize it and allow you to work with it or convert it to another format.
+- GrabCAD Workbench: This platform may also support .PRT files, especially if it’s a standard PTC Creo file.
+
+### Onshape
+
+
+
+## opensource 3D
+
+- [freeCAD](https://wiki.freecad.org/download) 
+
+
+
+
+## opensource 2D
+
+- libreCAD 
+
+
+
+
+
+
+
+
+- [[CNC-dat]]
+
+
+## ref 
+
+- [[CAD]]
