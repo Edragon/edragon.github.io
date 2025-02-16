@@ -3,6 +3,16 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Sound_Playback
 
+- https://www.electrodragon.com/w/index.php?title=ISD1760_Recording_Playback_Module
+
+
+https://www.electrodragon.com/product/isd1760-recording-playback-module/
+
+- [[isd1760-dat]] 
+
+
+
+
 
 ## Button Instruction:
 

@@ -1,7 +1,7 @@
 
 # mosfet-dat
 
-
+- [[AOD4184-dat]] - [[D4184-dat]]
 
 ## model selections 
 
@@ -21,9 +21,6 @@
 | IR F5305  | 5305 | [[Infineon-dat]] | 31A   | TO-220AB | P       | 55V P-Channel MOSFET                        |
 | IR FR1205 |      | [[Infineon-dat]] | 33A   | D2PAK    | N       | 55V N-Channel MOSFET                        |
 
-
-
-- [[D4184-dat]]
 
 
 ### dual channel 
