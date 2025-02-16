@@ -6,6 +6,13 @@
 - [[rotating-magnetic-field-DAT]]
 
 
+[Based on DRV8825 drive board, or A4988 board. Please buy it alone here.](https://www.electrodragon.com/product/drv8825-stepper-drive-board-ramps-compatible/)
+
+- [[DRV8825-dat]] - [[A4988-dat]] - [[motor-driver-dat]]
+
+legacy wiki page - [stepper back installation](https://w.electrodragon.com/w/Stepper_Back_Installation)
+
+
 ## Pin Definitions 
 
 | Functions | Pins | Group       |

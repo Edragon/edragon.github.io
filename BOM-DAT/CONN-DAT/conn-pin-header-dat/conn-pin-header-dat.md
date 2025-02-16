@@ -11,6 +11,16 @@
 
 Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 
+## Common Pin headers 
+
+| name | SKU             | type      | male/female | breakable     | pin material | full length |
+| ---- | --------------- | --------- | ----------- | ------------- | ------------ | ----------- |
+|      | [[CCO3612-dat]] | round-pin | F           | yes           |              |             |
+|      | [[CCO3611-dat]] | round-pin | M           | yes           |              |             |
+|      | [[CCO3588-dat]] | common    | F           | not, need cut |              |             |
+|      | [[CCO3587-dat]] | common    | M           | yes           |              | 11 mm       |
+|      | [[CCO3590-dat]] | common    | M           | yes           |              |             |
+
 
 ## dimension 
 

@@ -4,6 +4,9 @@
 - legacy wiki page V1 here - https://w.electrodragon.com
 - this web application may encounter error "502 bad gateway", please visit 5 minutes later
 
+
+
+
 ## Contact 
 
 - [[contact-dat]] 
@@ -33,6 +36,7 @@ news - [[weekly-dat]]
 
 - frequently updates, any questions please email to **info@electrodragon.com**
 
+- please don't scrape or crawl this site
 
 
 
