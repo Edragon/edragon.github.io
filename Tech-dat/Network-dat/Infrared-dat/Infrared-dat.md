@@ -4,8 +4,6 @@
 
 
 
-
-
 ## Boards
 
 - [[SIR1008-dat]] 
@@ -16,6 +14,14 @@ arduino shield - [[DAS1013-dat]]
 ## RPI-SCH 
 
 ![](2024-12-20-18-08-22.png)
+
+![](2025-02-18-17-05-16.png)
+
+- Note RPI signal input better at 3V3 
+- refer to board [[MPC1098-dat]]
+
+legacy wiki page - [Infrared for RPI](https://www.electrodragon.com/w/index.php?title=RPI_IR&redirect=no)
+
 
 ## BOM 
 
