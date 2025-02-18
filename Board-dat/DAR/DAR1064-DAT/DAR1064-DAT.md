@@ -2,6 +2,10 @@
 
 # DAR1064 
 
+- [[avr128-dat]]
+
+[legacy wiki page. ](https://w.electrodragon.com/w/Category:AVR128#AVR128_Board)
+
 ## hardware 
 
 ![](30-27-16-19-04-2023.png)
@@ -55,6 +59,11 @@
 - The full schematic is for purchased customers only, you can also view it directly here. 
 - Default firmware should be hold down PC7 button and PC6 LED light up, or simple blink sketch. You can find all sketches in our [[arduino-IDE-DAT]]
 - [More information please find at page here.](https://w2.electrodragon.com/Board/DAR/DAR1064-DAT/DAR1064-DAT.md)
+
+
+## demo video 
+
+- [A quick start guide video please see here. Easy to use with Atmel-ICE or other UPDI programming methods.](https://www.youtube.com/watch?v=IgVMIRHFTLs)
 
 
 ## ref 
