@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [[openpnp-dat]] - [[PNP-machine-dat]]
+- [[openpnp-dat]] - [[PixiePlacer-dat]] - [[PNP-machine-dat]]
 
 - [[metal-detector-dat]]
 

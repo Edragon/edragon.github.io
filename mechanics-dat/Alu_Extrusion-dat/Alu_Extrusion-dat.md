@@ -55,4 +55,5 @@ type: 2020
 
 ## ref 
 
-- [[mechanics-dat]]
+- [[mechanics-dat]] - [[mechanics]]
+
