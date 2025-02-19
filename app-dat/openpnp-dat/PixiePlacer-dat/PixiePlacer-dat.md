@@ -5,12 +5,9 @@
 
 ![](2025-02-13-17-46-21.png)
 
-- [[PixiePlacer-BOM-dat]]
+- raw BOM file [[PixiePlacer-BOM-dat]]
 
-
-## assembly 
-
-### Frames 
+- [[PixiePlacer-Frame-dat]]
 
 
 
