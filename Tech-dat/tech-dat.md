@@ -91,6 +91,6 @@
 
 ## Mechnicals 
 
-- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]]
+- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]]
 
 Any interetest demo please contact me to enquiry.
