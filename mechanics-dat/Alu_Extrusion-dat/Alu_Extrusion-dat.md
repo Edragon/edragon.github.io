@@ -21,11 +21,15 @@
 
 - 15x15
 
+thickness version 1.0 mm, other versions include 1.5 mm, 0.8 mm
+
 ![](2025-02-19-14-30-08.png)
 
 ![](2025-02-19-14-31-59.png)
 
 ### 2040 
+
+- version: 2024L, 2040V
 
 ![](2025-02-19-14-33-26.png)
 
@@ -34,6 +38,12 @@
 L-type 
 
 ![](2025-02-19-13-48-31.png)
+
+L-type Bracket for 2020
+
+![](2025-02-19-17-50-13.png)
+
+
 
 ## Profile Angle 
 
