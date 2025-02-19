@@ -14,7 +14,7 @@
   
 ### Onshape
 
-
+- [check system requirements](https://cad.onshape.com/check)
 
 ## opensource 3D
 

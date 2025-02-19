@@ -1,6 +1,7 @@
 
 # PixiePlacer-frames-dat
 
+- [3D_view](https://cad.onshape.com/documents/5e890b89298a697f7602c354/w/0c6531c398b6b31c88cb0ec1/e/174e4411811158364858aed9?renderMode=0&uiState=67b5bb42ac092153de7a5309)
 
 
 ## Machine Frame + Back_Panel + Front_Panel
