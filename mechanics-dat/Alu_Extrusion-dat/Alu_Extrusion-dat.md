@@ -1,7 +1,7 @@
 
 # Alu_Extrusion-dat
 
-# Aluminum Extrusion Profiles
+## Aluminum Extrusion Profiles
 
 | Profile Type | Dimensions (mm) | Typical Applications                                        |
 | ------------ | --------------- | ----------------------------------------------------------- |
@@ -17,12 +17,27 @@
 | 6060         | 60x60           | Heavy-duty machine frames, CNC enclosures                   |
 | 8080         | 80x80           | Large industrial structures, load-bearing frames            |
 
+### extra profiles: 
+
+- 15x15
+
+![](2025-02-19-14-30-08.png)
+
+![](2025-02-19-14-31-59.png)
+
+### 2040 
+
+![](2025-02-19-14-33-26.png)
+
 ## Profile Bracket
+
+L-type 
 
 ![](2025-02-19-13-48-31.png)
 
 ## Profile Angle 
 
+type: 2020
 ![](2025-02-19-13-49-22.png)
 
 

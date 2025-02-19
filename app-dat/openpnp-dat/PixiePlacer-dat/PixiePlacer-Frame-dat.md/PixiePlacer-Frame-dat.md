@@ -15,7 +15,7 @@
 
 ### knowledge 
 
-- [[Alu_Extrusion-dat]]
+- [[Alu_Extrusion-dat]] - [[NUT-dat]] - [[screws-dat]] - [[Linear-Rail-dat]]
 
 ### Optimized table 
 
