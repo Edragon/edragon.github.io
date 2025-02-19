@@ -7,6 +7,9 @@
 
 ![](2023-11-22-14-55-02.png)
 
+Current version is green board R2.
+
+
 ## Use guide
 
 - Double check if cyrstal is place on the 3-pin position, check if auto-reset is place on ON.
@@ -22,6 +25,8 @@
 | group-3 Atmega      | -       | -         | ON       | -            | ON      | D1      |
 
 ### Programming Target Groups
+
+aslo refer to - [[avr-dat]]
 
 group-1 Attiny 2313
 
@@ -59,3 +64,5 @@ group-3 Atmega
 ## ref
 
 - [[arduino-ide-dat]] - [[arduino-common-error-dat]]
+
+- [[avr-dat]]
