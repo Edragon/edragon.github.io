@@ -57,6 +57,18 @@ on module side
 ![](04-22-17-02-08-2023.png)
 
 
+## Version Control 
+
+Compare the version back to 2021, on the image below "new" is actually the old one:
+
+- removed speaker and microphone P/N pair pins, and logic shifter vTXD/vRXD
+- VRTC changed to RST, vRTC for RTC timing function
+- removed M_RX and you can better use vRXD/vRXD instead
+- greenbox has nothing changed, only added text
+
+![](2025-02-19-17-01-34.png)
+
+
 
 # reference 
 
