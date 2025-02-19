@@ -71,3 +71,5 @@ add two supports
 ## ref 
 
 - [[PixiePlacer-frames-front-panel-dat]] - [[PixiePlacer-frames-back-panel-dat]]
+
+- [[PixiePlacer-Frame]] - [[PixiePlacer]]

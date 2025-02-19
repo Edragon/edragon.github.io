@@ -36,7 +36,7 @@ The current recommendation for a build guideline is:
 
 - [[PixiePlacer-dat]]
 
-![PixiePlacer-dat/2025-02-13-17-46-21.png](PixiePlacer-dat/2025-02-13-17-46-21.png)
+
 #### richardklingler == openpnp
 
 - https://github.com/richardklingler/openpnp
