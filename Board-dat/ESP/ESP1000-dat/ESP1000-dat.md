@@ -33,9 +33,11 @@ Module based on [[SCM1030-dat]]
 
 - [[I2S-dat]] - [[I2S-microphone-dat]]
 
-- [[PIR-sensor-dat]] - [[BME280-dat]] - [[OLED-dat]] 
+- [[PIR-sensor-dat]] 
 
-- [[sensor-dat]]
+- [[OLED-dat]] 
+  
+- [[sensor-dat]] - [[I2C-dat]] - [[BME280-dat]] - [[BMP280-dat]]
 
 - [[consonance-dat]] - [[solar-power-dat]]
 
