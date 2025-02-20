@@ -87,6 +87,27 @@ Read data from the PCM5122:
     i2cget -y 1 0x4C <register>
 
 
+
+## code 
+
+initiate check 
+
+    while(!bme.begin())
+        {
+            Serial.println("Could not find BME280 sensor!");
+            delay(1000);
+        }
+
+ custom I2C address 
+
+    // Initialize the sensor with the custom I2C address (0x76 or 0x77)
+    if (!bmp280.begin(0x76)) // Use 0x76 or 0x77 depending on your sensor's address
+    {
+        Serial.println("Could not find BMP280 sensor!");
+        delay(1000);
+    }
+  
+
 ## ref 
 
 - https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/#1
