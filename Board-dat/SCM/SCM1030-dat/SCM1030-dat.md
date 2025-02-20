@@ -115,7 +115,10 @@ LEDs - [[LED-dat]]
 
 to get free pins, remove card in [[SD-dat]] 
 
+## Board Issues 
 
+- For board version v1701, note do not connect pin "GND/R" aka GND3 to ground, otherwise it won't boot
+- [refer for more information here. ](https://esp32.com/viewtopic.php?f=12&t=29647&sid=fed114d9e4f87cf6634c7ad145a5d8df&start=10)
 
 ## ref 
 

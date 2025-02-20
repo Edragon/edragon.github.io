@@ -39,7 +39,7 @@ Module based on [[SCM1030-dat]]
   
 - [[sensor-dat]] - [[I2C-dat]] - [[BME280-dat]] - [[BMP280-dat]]
 
-- [[consonance-dat]] - [[solar-power-dat]]
+- [[consonance-dat]] - [[solar-power-dat]] - [[battery-dat]]
 
 - [[ESP32-dat]] - [[SCM1030-dat]]
 
