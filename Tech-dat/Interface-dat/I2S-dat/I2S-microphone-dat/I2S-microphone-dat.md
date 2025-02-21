@@ -1,6 +1,10 @@
 
 # I2S-microphone-dat
 
+I2S Output Digital Microphone - [[INMP441-dat]] - [[ICS-43434-dat]] - [[SPH0645-dat]] - [[MSM261S4030H0R-dat]]
+
+
+
 ## go advance 
 
 - simultaneous data = microphones with **TDM (Time-Division Multiplexing)**
@@ -72,3 +76,27 @@
         Serial.println(right_channel);
     }
     }
+
+
+## Other Pick 
+
+LMD2718T261-OA1
+
+
+## Types 
+
+5P 
+
+ICS-43434 - 5P 
+
+8P 
+
+WMM7040DTHN0-8/TR = WMM7040DTHN0-8/TR
+
+LGA8
+
+
+
+## ref 
+
+- [[I2S-dat]] - [[I2S-microphone]] - [[I2S]]

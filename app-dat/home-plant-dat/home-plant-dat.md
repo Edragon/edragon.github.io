@@ -28,7 +28,7 @@ sening by [[sensor-dat]] - [[temperature-sensor-dat]] and [[humidity-sensor-dat]
 
 #### cooling and warming 
 
-- [[Peltier-dat]] - [[fan-dat]]
+- [[Peltier-dat]] - [[fan-dat]] - [[constant-temperature-dat]]
 
 
 ### Air Flow
