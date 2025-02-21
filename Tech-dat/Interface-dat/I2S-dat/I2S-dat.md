@@ -56,7 +56,7 @@ I2S Circuit:
 
 ## Solution - control (slave module)
 
-I2S Output Digital Microphone - [[INMP441-dat]] - [[ICS-43434-dat]] - [[SPH0645-dat]] - [[MSM261S4030H0R-dat]]
+- [[I2S-microphone-dat]]
 
 audio amplifer - [[audio-dat]] - [[amplifier-dat]] - [[CS4344-dat]]
 

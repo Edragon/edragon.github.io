@@ -3,7 +3,12 @@
 
 - [[lithium-ion-battery-dat]] - [[18650-dat]]
 
+- [[LiFePO4-Battery-dat]]
 
+- [[BMS-dat]] - [[battery-charger-dat]]
+
+
+## Li-ion VS Li-Poly Battery 
 
 | Feature               | **Li-ion Battery**                                       | **Li-Poly Battery**                                      |
 |-----------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -18,3 +23,20 @@
 | **Cost**               | **More cost-effective** per unit of energy and storage, especially in larger battery configurations. | **Slightly more expensive** to manufacture due to the polymer design and materials used. |
 | **Performance in Extreme Temperatures** | Li-ion batteries generally have a **wider operating temperature range**, but may degrade faster in high or low temperatures. | Li-Poly batteries are more **sensitive to extreme temperatures**, potentially leading to quicker degradation in high heat or low cold, though this can depend on the specific chemistry used. |
 | **Environmental Impact** | **Higher environmental impact** due to the complexity of materials and disposal, though efforts are being made for recycling improvements. | Typically **lower environmental impact**, with polymer materials that can be easier to recycle than the metals used in Li-ion batteries. However, both types still have significant environmental concerns. |
+
+
+## Low Battery Voltage (Below Safe Threshold)
+
+Protection boards are designed to protect lithium batteries from over-discharge, overcharge, and short circuits. Many lithium battery protection circuits cut off the battery's output if the voltage drops below a certain threshold, often around 2.5V to 2.8V.
+
+If the battery is at **2.6V**, it's very close to this cutoff threshold, and the protection circuit may be designed to prevent any further discharge to avoid damaging the battery, which could explain the drop to 0V.
+
+
+
+
+## Lithium battery Check 
+
+- battery voltage B+/B- = OK, output == 0V, BMS problem 
+
+
+## ref 

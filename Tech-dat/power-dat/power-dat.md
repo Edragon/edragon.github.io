@@ -9,7 +9,7 @@
 
 - [[power-protection]]
 
-- [[battery-dat]]
+- [[battery-dat]] - [[lithium-battery-dat]]- [[BMS-dat]]
 
 
 ## workflow
