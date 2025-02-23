@@ -116,6 +116,12 @@ four legs + crossbeam
 ![](Frame_Assembly.png)
 
 
+
+## Testing 
+
+![](2025-02-23-15-31-10.png)
+
+
 ## ref 
 
 - [[PixiePlacer-frames-front-panel-dat]] - [[PixiePlacer-frames-back-panel-dat]]

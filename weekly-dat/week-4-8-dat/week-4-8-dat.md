@@ -13,9 +13,19 @@ We are going to buy a chinese community made openpnp build machine early this ye
 
 In the meanwhile, we are also trying to build our own version openpnp pick and place machine by ourselves, lets see. A new PC graphic card is needed, the CAD file can be opened by browser APP onshape.com
 
-The following documentation is still building, we are prbably going to build based on the machine version [[pixieplacer-dat]]
+The following documentation is still building, we are prbably going to build based on the machine version [[pixieplacer-dat]] - [[openpnp-dat]]
 
-- [[openpnp-dat]]
+Find another opensource pick and place machine called lumenPNP, which is open source but also sell commerially - [[lumenpnp-dat]]
+
+
+Order a few items from chinese seller, the total cost below is 7 usd. Includes: 
+
+- singla 3.7V lithium battery protection board - [[BMS-dat]]
+- [[18650-dat]] battery rack 3x5 pieces and 4x5 pieces 
+- [[thermostat-dat]] control system
+- [[MSM261S4030H0R-dat]] - simplly more sensors for our new prodcuts [[I2S-microphone]]
+
+![](photo_2025-02-23_15-11-51.jpg)
 
 ## Documents Updates
 

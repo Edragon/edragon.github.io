@@ -104,6 +104,6 @@ DIY Pick and Place by Teton Technology – An Open Source DIY cartesian PnP mach
 
 ## ref 
 
-- [[PNP-machine-dat]]
+- [[PNP-machine-dat]] 
 
 - [[openpnp]] - [[CNC]]

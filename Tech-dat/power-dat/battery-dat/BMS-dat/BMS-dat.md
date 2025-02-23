@@ -1,8 +1,9 @@
 
 # BMS-dat
 
+## Protection solution 
 
-## A1870 + 3GJG (bad quality combination)
+### A1870 + 3GJG (bad quality combination)
 
 A1870 - [[uc1870+ver1_x76b.pdf]]
 
@@ -10,7 +11,11 @@ G3JQ - S8261 - [[S8261_E.pdf]]
 
 ![](2025-02-21-18-52-52.png)
 
-## DW01 + FM8205
+### DW01 + FM8205
+
+### protection board 
+
+- [[week-4-8-dat]]
 
 ## Precautions before applying BMS:
 
@@ -33,6 +38,10 @@ Never use screws to fasten them, as this may damage the IC of the protection boa
 If the voltage difference exceeds 1.0V, it may indicate a fault such as poor range, power cut-off at startup, or short charging time, which are often caused by battery cell issues. 
 
 A protection board fault typically results in: inability to charge, or the battery has voltage but cannot discharge.
+
+
+
+
 
 
 ## ref 
