@@ -12,6 +12,29 @@ https://en.wikipedia.org/wiki/Thermostat
 ![](2023-10-07-18-18-11.png)
 
 
+
+
+
+# constant-temperature-dat
+
+
+![](constant-temperature-dat-01.png)
+
+- temperature meansure and auto turn on the warming light 
+- [[week-4-8-dat]]
+
+These are two versions of the thermostat, both version have the temperature probe, and can connect acturator to cool or heat the box:
+- 12V power supply + 12V power output 
+- 220V power supply + 220V power output in the plug socket
+
+
+![](photo_2025-02-23_15-11-51.jpg)
+
+## ref 
+
+- [[app-dat]]
+
+
 ## ref 
 
 - [[thermostat]]
