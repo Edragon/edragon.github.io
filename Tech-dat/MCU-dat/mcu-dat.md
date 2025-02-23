@@ -3,15 +3,11 @@
 
 - [[CPLD-dat]] - [[RISC-V-dat]]
 
-- [[WCH-dat]]
-
 - [[STM32-dat]]
 
 - [[AVR-dat]] - [[tinyAVR-dat]]
 
-- [[STC-dat]]
-
-- [[nuvoton-dat]]
+- [[STC-dat]] - [[PIC-dat]] - [[nuvoton-dat]] - [[WCH-dat]]
 
 ## Common-used MCU 
 
