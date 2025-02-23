@@ -1,7 +1,8 @@
 
 # DOR1049-dat
 
-https://www.electrodragon.com/product/pic-pic16f72-development-board/
+
+[pic-pic16f72-development-board](https://www.electrodragon.com/product/pic-pic16f72-development-board/)
 
 
 legacy wiki page - https://w.electrodragon.com/w/Category:PIC
@@ -32,4 +33,6 @@ Power supply VCC selectable to
 
 ## ref 
 
-- [[PIC-SDK]]
+- [[PIC16F72-dat]]
+
+- [[PIC-SDK-dat]]
