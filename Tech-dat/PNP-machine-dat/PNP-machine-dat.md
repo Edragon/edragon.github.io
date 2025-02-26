@@ -6,12 +6,15 @@
 - [[lumenpnp-dat]]
 
 
+
+
+
 ## BOM overview 
 
 
 ## mechnical parts
 
-- [[XYZ-dat]]
+- [[XYZ-dat]] - [[feeder-dat]]
 
 
 
