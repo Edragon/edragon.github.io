@@ -17,6 +17,15 @@
 | 6060         | 60x60           | Heavy-duty machine frames, CNC enclosures                   |
 | 8080         | 80x80           | Large industrial structures, load-bearing frames            |
 
+
+### 4040 dual groove 
+
+![](2025-02-26-19-36-59.png)
+
+![](2025-02-26-19-37-15.png)
+
+groove size 5.5 mm
+
 ### extra profiles: 
 
 - 15x15
@@ -26,6 +35,10 @@ thickness version 1.0 mm, other versions include 1.5 mm, 0.8 mm
 ![](2025-02-19-14-30-08.png)
 
 ![](2025-02-19-14-31-59.png)
+
+
+
+
 
 ### 2040 
 
@@ -39,17 +52,44 @@ L-type
 
 ![](2025-02-19-13-48-31.png)
 
-L-type Bracket for 2020
+L and T type Bracket for 4040
+
+![](2025-02-26-19-29-48.png)
+
+L and T type Bracket for 2020
 
 ![](2025-02-19-17-50-13.png)
 
 
 
-## Profile Angle 
+## Profile Angle == 角码
 
 type: 2020
+
+
 ![](2025-02-19-13-49-22.png)
 
+## T-nuts
+
+single rail 
+
+![](2025-02-26-19-02-24.png)
+
+![](2025-02-26-19-03-07.png)
+
+
+large locker with ribs 
+
+![](2025-02-26-19-27-32.png)
+
+
+dual rail 
+
+
+
+## APP 
+
+![](2025-02-26-19-39-21.png)
 
 
 
@@ -57,3 +97,4 @@ type: 2020
 
 - [[mechanics-dat]] - [[mechanics]]
 
+- [[Alu_Extrusion]]
