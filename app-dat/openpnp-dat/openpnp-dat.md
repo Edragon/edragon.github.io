@@ -13,7 +13,7 @@ It reads a job file and then sends commands to a machine to execute. Unlike comm
 
 The definitions and explanations below will introduce you to the terminology used in OpenPnP, and in pick and place in general.
 
-- [[CNC-dat]]
+- [[CNC-dat]] - [[pnp-machine-dat]]
 
 ## guide 
 
