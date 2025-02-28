@@ -73,6 +73,20 @@ https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
 - sketch code - https://github.com/Edragon/Arduino-ESP32
 - firmware (internal production only) - https://gitee.com/electrodragon/work
 
+
+## Hardware 
+
+### AC-DC Power Unit 
+
+- [[OPM1110-dat]]
+
+### acurator 
+
+- [[actuator-dat]] - [[songle-dat]] - [[OPM1041-dat]]
+
+
+
+
 ## ref
 
 - used enclosure [[case-led]]

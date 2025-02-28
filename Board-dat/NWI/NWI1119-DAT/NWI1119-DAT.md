@@ -28,6 +28,10 @@
     const char *ssid = "electrodragon";
     const char *password = "electrodragon";
 
+
+
+
+
 ### ref
 
 Tested with arduino code, flash tested with ESPHome, but not further function tests
