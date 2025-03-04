@@ -39,4 +39,13 @@ If the battery is at **2.6V**, it's very close to this cutoff threshold, and the
 - battery voltage B+/B- = OK, output == 0V, BMS problem 
 
 
+## large battery 
+
+48V 
+200AH
+
+![](2025-03-04-17-42-39.png)
+
 ## ref 
+
+- [[lithium-battery]]

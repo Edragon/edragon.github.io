@@ -5,6 +5,12 @@
 
 - [ESP32 board BSP code](https://github.com/Edragon/Arduino-ESP32)
 
+
+
+
+
+
+
 ## The category list of Sketchbook
 
     .
@@ -30,3 +36,6 @@
     ---rf95_reliable_datagram_server
     ---sleep_mode
 
+## ref 
+
+- [[arduino-error-dat]]
