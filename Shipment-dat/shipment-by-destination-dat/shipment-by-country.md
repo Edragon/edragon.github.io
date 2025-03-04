@@ -8,10 +8,10 @@
 |                |        |                     |                              |                                    |                |
 |                |        |                     |                              |                                    |                |
 |                |        |                     |                              |                                    |                |
-| Singapore      |        |                     | [[SGEXPRESS-BA]]             | [[SZFEDEX-IP]]                     |                |
+| Singapore      |        |                     | [[SGEXPRESS-BA]]             | [[szfedex-ip]]                     |                |
 | Ecuador        | 11-30  | [[America-South]]   | CNRPOST-SZ                   | [[SZFED-PAK]]                      |                |
-| Indonesia      | 10-25  | [[asia]]            | [[NLRPOST]]                  | [[HKDHLX]]                         |                |
-| India          |        | [[asia]]            | -                            | [[HKDHLX]]                         |                |
+| Indonesia      | 10-25  | [[asia]]            | [[NLRPOST]]                  | [[HKDHLX-old]]                         |                |
+| India          |        | [[asia]]            | -                            | [[HKDHLX-old]]                         |                |
 | Australia      |        | [[Australia]]       | [[AU-RPOST]]                 |                                    |                |
 | Brazil         |        | [[America-South]]   | [[BREXPRESS]]                | ~~[[HKDHL-BA]] / [[HKFEDEXIP-C]]~~ | tax_id needed! |
 | Canada         |        | [[America-North]]   | [[CAEXPRESS]]                |                                    |                |
@@ -19,8 +19,8 @@
 | Kazakhstan     | 06-02  | [[asia]]            | [[DGEUB]]                    |                                    |                |
 | Spain          |        |                     | [[EUEX-V]]                   | [[SZFED-PAK]]                      |                |
 | Portugal       |        | [[Europe]]          | [[EUEX-V]]                   | [[SZFED-PAK]]                      |                |
-| Hungray        | 09-06  | [[Europe]]          | [[EUEX-V]]                   | [[SZFEDEX-IP]]                     |                |
-| Belgium        | 09-06  |                     | [[EUEX-V]]                   | [[SZFEDEX-IP]]                     |                |
+| Hungray        | 09-06  | [[Europe]]          | [[EUEX-V]]                   | [[szfedex-ip]]                     |                |
+| Belgium        | 09-06  |                     | [[EUEX-V]]                   | [[szfedex-ip]]                     |                |
 | Czech Republic |        | [[Europe]]          | [[EUEX-V]]                   |                                    |                |
 | Denmark        |        | [[Europe]]          | [[EUEX-V]]                   | [[HKDHL-BA]]                       |                |
 | Netherlands    |        | [[Europe]]          | [[EUEX-V]]                   | [[SZFED-PAK]]                      | -              |
@@ -33,7 +33,7 @@
 | Latvia         | 06-02  | [[Europe]]          | [[EURPOST]]                  |                                    |                |
 | Malta          |        | [[Europe]]          | [[EURPOST]]                  | -                                  | -              |
 | Cyprus         |        | [[Europe]]          | [[EURPOST]]                  |                                    |                |
-| Finland        |        | [[Europe]]          | [[EURPOST]]                  | [[SZFED-PAK]] / [[SZFEDEX-IP]]     | -              |
+| Finland        |        | [[Europe]]          | [[EURPOST]]                  | [[SZFED-PAK]] / [[szfedex-ip]]     | -              |
 | Greece         |        | [[Europe]]          | [[EURPOST]]                  | [[SZFED-PAK]]                      |                |
 | Norway         | 06-20  | [[Europe]]          | [[EURPOST]]                  |                                    |                |
 | Mexico         |        | [[America-South]]   | [[EURPOST]] << [[MXEXPRESS]] |                                    |                |
@@ -41,10 +41,10 @@
 | Switzerland    | 06-15  | [[Europe]]          | [[EURPOST]] ~~[[SWRPOST]]~~  |                                    |                |
 | Malaysia       | 06-15  | [[asia]]            | [[MYEXPRESS-BA]]             |                                    |                |
 | Costa Rica     | 06-09  | [[America-Central]] | [[NLRPOST]]                  | [[SZFED-PAK]]                      |                |
-| Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                  | [[SZFEDEX-IP]]                     |                |
+| Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                  | [[szfedex-ip]]                     |                |
 | Korea          | 06-30  | [[asia]]            | [[EURPOST]] / [[PFCEXPRESS]] | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   | tax_id needed! |
-| Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]               | ~~[[SZFED-PAK]] / [[HKDHLX]]~~     | tax_id needed! |
-| United States  |        | [[America-North]]   | [[USPS-DAT]]                 | [[SZFEDEX-IP]] / [[HKUPS]]         |                |
+| Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]               | ~~[[SZFED-PAK]] / [[HKDHLX-old]]~~     | tax_id needed! |
+| United States  |        | [[America-North]]   | [[USPS-DAT]]                 | [[szfedex-ip]] / [[HKUPS]]         |                |
 | Vietam         |        | [[asia]]            | [[VNEXPRESS]]                |                                    | -              |
 
 韩国必须填写P+12位数字的个人通关码，欧盟国家填写ioss税号。
@@ -70,7 +70,7 @@
 | [[SZFED-PAK]]          | express       | worldwide | 5-10 days       | pay-by-you            |                               |
 | [[EUEX-V]]             | expendiated   | europe    | 10-26 days      | no-guaranteed prepaid |                               |
 | [[NLRPOST]]            | reliable-post | worldwide | 12-35 days      |                       |                               |
-| [[HKDHL]] / [[HKDHLX]] | express       |           | 5-10 days       |                       | minimium order to Europe $120 |
+| [[HKDHL]] / [[HKDHLX-old]] | express       |           | 5-10 days       |                       | minimium order to Europe $120 |
 |                        |               |           |                 |                       |                               |
 |                        |               |           |                 |                       |                               |
 |                        |               |           |                 |                       |                               |
