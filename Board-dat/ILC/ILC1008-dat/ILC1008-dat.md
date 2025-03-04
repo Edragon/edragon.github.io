@@ -1,7 +1,8 @@
 
 # ILC1008-dat
 
-https://www.electrodragon.com/product/12864min-graphic-lcd/
+[product link ](https://www.electrodragon.com/product/12864min-graphic-lcd/)
+
 
 12864MIN Graphic LCD - withoutPCB
 
