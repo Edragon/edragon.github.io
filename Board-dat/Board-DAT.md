@@ -114,7 +114,7 @@ RPI LCD
 
 [[EDL-LCD-dat]] - [[ILC1031-dat]] - [[ILC1030-dat]]
 
-[[ILC1007-dat]]
+[[ILC1007-dat]] [[ILC1008-dat]]
 
 [[LCD-12864-dat]] - [[ILC1016-dat]]
 
@@ -136,6 +136,10 @@ LED control - [[ILC1063-dat]]
 - high power led panel - [[ILE1073-dat]]
 
 - RGB LED breakout [[ILE1008-dat]]
+
+20W - [[ILE1041-dat]]
+
+1W/3W/5W high power LED - [[ILE1036-dat]] - [[ILE1037-dat]] - [[ILE1038-dat]]
 
 ### ISB
 

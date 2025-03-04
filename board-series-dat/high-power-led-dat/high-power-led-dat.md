@@ -1,6 +1,8 @@
 
 # high-power-led-dat
 
+[legacy wiki page](https://w.electrodragon.com/w/Category:LEDs#Another_general_info)
+
 
 
 ## Dimension 
@@ -42,4 +44,6 @@
 
 ## Boards 
 
-- [[ILE1041-dat]] - [[ILE1042-dat]] - [[ILE1041-dat]]
+20W/30W/50W - [[ILE1041-dat]] - [[ILE1042-dat]] - [[ILE1041-dat]]
+
+1W/3W/5W high power LED - [[ILE1036-dat]] - [[ILE1037-dat]] - [[ILE1038-dat]]
