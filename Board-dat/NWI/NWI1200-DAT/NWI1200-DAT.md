@@ -33,6 +33,8 @@ To the board version V1 - [[NWI1199-DAT]]
 | GND    |             | GND                 |              |
 | 3V3    |             | VCC                 |              |
 
+
+
 ## Jumper Setup
 
 | Jumpers | func                      | Set to      | Set Default | Note         |
@@ -83,7 +85,65 @@ based on demo code NWI1200-3
 ![](2023-09-19-17-28-34.png)
 
 
+## based on the official arduino code 
 
+    // Important to be defined BEFORE including ETH.h for ETH.begin() to work.
+    // Example RMII LAN8720 (Olimex, etc.)
+    #ifndef ETH_PHY_TYPE
+    #define ETH_PHY_TYPE  ETH_PHY_LAN8720
+    #define ETH_PHY_ADDR  0
+    #define ETH_PHY_MDC   23
+    #define ETH_PHY_MDIO  18
+    #define ETH_PHY_POWER -1
+    #define ETH_CLK_MODE  ETH_CLOCK_GPIO0_IN
+    #endif
+
+should change 
+
+    #define ETH_POWER_PIN   2
+    #define ETH_PHY_ADDR  0
+
+extra define 
+
+    #define OP1 4
+    #define OP2 5
+
+extra loop for debugging: 
+
+
+    void loop() {
+    
+        int OP1_status = digitalRead(OP1);
+        int OP2_status = digitalRead(OP2);
+        
+        Serial.print("OP1 status: ");
+        Serial.print(OP1_status);
+        Serial.print("; OP2 status: ");
+        Serial.println(OP2_status);  
+        
+        //  if (eth_connected) {
+        //    testClient("google.com", 80);
+        //  }
+
+        testClient("163.com", 80);
+        
+        Serial.print("ETH status: ");
+        Serial.print(eth_connected);
+
+        Serial.print(", ETH MAC: ");
+        Serial.print(ETH.macAddress());
+        Serial.print(", IPv4: ");
+        Serial.print(ETH.localIP());
+
+        if (ETH.fullDuplex()) {
+            Serial.print(", FULL_DUPLEX");
+        }
+        Serial.print(", ");
+        Serial.print(ETH.linkSpeed());
+        Serial.println("Mbps");
+        Serial.println("");
+        delay(10000);
+    }
 
 ## demo code find at
 
