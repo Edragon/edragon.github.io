@@ -1,9 +1,25 @@
 
 # switch-dat 
 
-## ref 
 
-- [[button-dat]]
+## KCD1-101
+
+- [[KCD1-101F.pdf]]
+
+![](2025-03-05-18-58-04.png)
+
+version: 
+
+3 pins / 2 shifts 
+3 pins / 3 shifts 
+6 pins / 3 shifts 
+6 pins / 2 shifts 
+
+color black/green/red, light: with or without light 
+
+
+
+
 
 
 ## types 
@@ -24,3 +40,10 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 ### SPDT
 
 
+
+## ref 
+
+
+- [[button-dat]]
+
+- [[switch]]
