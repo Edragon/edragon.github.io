@@ -54,3 +54,13 @@ Parameter	Symbol	Min.	TYP.	Max.	Unit	Condition
 - IR=100μA
 - Total Capacitance	Ct	---	18	---	pF	Ee=0mW/cm2, VR=5V, f=1MHz
 - Rise/Fall Time	tr/tf	---	45/45	---	nS	VR=10V, RL=1000Ω
+
+
+
+## unlisted 
+
+### SMD 
+
+[SFH 4441](https://www.mouser.com/datasheet/2/588/SFH_4441_EN-3561587.pdf) == Infrared Emitters Infrared 940nm
+
+![](2025-03-06-23-27-43.png)

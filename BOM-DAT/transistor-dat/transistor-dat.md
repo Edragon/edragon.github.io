@@ -32,6 +32,13 @@ common brand: 	Infineon
 
 ![](2024-10-01-19-17-24.png)
 
+### infineon
+
+#### IRLML6244 
+
+- [irlml6244-DS](https://www.infineon.com/cms/en/product/power/mosfet/n-channel/irlml6244/)
+- 20V Single N-Channel StrongIRFET™ Power MOSFET in a SOT-23 package
+
 ## dual transistor package 
 
 ### BCR 10PN H6327
@@ -42,6 +49,13 @@ common brand: 	Infineon
 
 ![](2025-03-06-22-43-10.png)
 
+## un-sorted 
+
+- [BCR116E6327](https://www.mouser.com/ProductDetail/Infineon-Technologies/BCR-116-E6327?qs=OWKQh20churs%252Bj9jXRGlFg%3D%3D&srsltid=AfmBOoq-frf2cIVFR5tG9npa_zhflZxKBJ_wqftDIDK69ALQzAtPfXW6) == Built in bias resistor (R1=4.7 kΩ, R2=47 kΩ) == Infineon == BCR 116 E6327
+
+- IRFML8244TRPBF
+
+- IRLML9303 
 
 ## ref 
 

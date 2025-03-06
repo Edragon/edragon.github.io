@@ -38,7 +38,14 @@
 - TME Symbol: NX1001-TF
 - https://www.tme.eu/lr/en/details/nx1001-tf/raster-signal-connectors-1-00mm/joint-tech/a1001-tpe-b/
 
+### PBD2-8 == PBD2-8 (KLS1-208B-4.3-2-8-S) (board sockets, 2x4, 2.00mm)
 
+- Manufacturer : KLS
+- Functional description : 2-row sockets for the board, straight, 8 contacts 2x4, pitch 2.00mm, height 4.3mm, 2A, plating: gold 0.8u"
+- Pins or sockets : Sockets (socket)
+- Pitch : 2.00 mm
+- Number of rows : 2-row
+- Number of contacts : 8
 
 ## ref 
 

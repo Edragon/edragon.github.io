@@ -6,7 +6,7 @@ The common bom we hosted
 
 ## passive
 
-- [[diode-dat]] - [[mosfet-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]]
+- [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[inductor-dat]]
 
 - [[Ferrite-Bead-dat]]
 
@@ -35,7 +35,7 @@ The common bom we hosted
 
 - [[battery-dat]] - [[high-power-led-dat]]
 
-
+- [[infrared-dat]] - [[LDO-dat]]
 
 
 
