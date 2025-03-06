@@ -17,6 +17,10 @@
 [[TI-dat]] - [[ti-motor-dat]]
 
 
+## function 
+
+- [[comparator-dat]]
+
 ## ref 
 
 - [[chip-cn-dat]]

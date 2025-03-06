@@ -1,6 +1,41 @@
 
 # cap-dat 
 
+common brand: 	Chemi-Con, Vishay, TDK, Pansonic, KEMET, Nichicon
+
+## Aluminum Electrolytic Capacitors - Radial Leaded
+
+UPM1C102MPD
+
+- Capacitance:	1000 uF	
+- Voltage Rating DC:	16 VDC	
+- Diameter:	10 mm	
+- Length:	31.5 mm	
+- Lead Spacing:	5 mm
+- Product:	Low Impedance Electrolytic Capacitors
+- ESR:	47 mOhms
+- [mouser](https://www.mouser.com/ProductDetail/Nichicon/UPM1C102MPD?qs=sGAEpiMZZMvwFf0viD3Y3asoeH%252BozipbRshjmM7HrXA%3D)
+
+ESE476M063AG3AA
+
+- Capacitance:	47 uF	
+- Voltage Rating DC:	63 VDC	
+- Diameter:	8 mm	
+- Length:	11 mm	
+- Lead Spacing:	3.5 mm	
+- Product:	General Purpose Electrolytic Capacitors
+
+## CPOL SMD == Aluminum Organic Polymer Capacitors
+
+### 10SVP150MX
+
+- Capacitance:	150 uF
+- Voltage Rating DC:	10 VDC
+- Manufacturer:	Panasonic
+- ESR:	35 mOhms
+- [mouser](https://www.mouser.com/ProductDetail/Panasonic/10SVP150MX?qs=OE1iw1LrrPHivwvo07HIWQ%3D%3D&srsltid=AfmBOoo4rCaynTxtMDlHuMfp_wQLsJcUsBf7wrQTaFRQ64rotDMANhCK)
+- Aluminum Organic Polymer Capacitors 10volts 150uF ESR 35mohm
+
 
 
 ## TAJ Series 
