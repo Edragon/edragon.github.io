@@ -6,7 +6,9 @@ The common bom we hosted
 
 ## passive
 
-- [[diode-dat]] - [[mosfet-dat]] - [[tvs-dat]] - [[transistor-dat]]
+- [[diode-dat]] - [[mosfet-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[capacitor-dat]]
+
+- [[Ferrite-Bead-dat]]
 
 ## Chip 
 
