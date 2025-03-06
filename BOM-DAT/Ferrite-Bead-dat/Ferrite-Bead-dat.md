@@ -20,19 +20,24 @@ Applications:
 
 ## BLM series 
 
+### 18AG601SN1D
+
 18A G601 SN1D
 
 - Package / Case:	0603 (1608 metric)
 - Impedance: 600 Ohms
-
-
-### 18AG601SN1D
-
 - [mouser](https://www.mouser.com/ProductDetail/Murata-Electronics/BLM18AG601SN1D?qs=eh6oC%2F9l24oGGaJFkAJJAA%3D%3D&srsltid=AfmBOoqxSaFzI8wcJiiBgYZ731pKbEmRTFUlZi84F9xTmWcGfgSMiNn0)
 - Package / Case:	0603 (1608 metric)
 - [[ENFA0003-1915778.pdf]]
 
+
+
 ### 21PG331SN1D 
+
+### more 
+
+- BLM18EG601SN1D
+- BLM18SG331TZ1D
 
 ## ref 
 
