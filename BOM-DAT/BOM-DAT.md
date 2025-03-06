@@ -6,7 +6,7 @@ The common bom we hosted
 
 ## passive
 
-- [[diode-dat]] - [[mosfet-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[capacitor-dat]]
+- [[diode-dat]] - [[mosfet-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]]
 
 - [[Ferrite-Bead-dat]]
 
@@ -28,14 +28,16 @@ The common bom we hosted
 
 ## CONN
 
-- [[DB9-dat]] - [[JST-dat]]
-
-## RCL passive
+- [[CONN-dat]] - [[DB9-dat]] - [[JST-dat]]
 
 
-- [[TVS-dat]]
+## other components
 
-- [[battery-dat]]
+- [[battery-dat]] - [[high-power-led-dat]]
+
+
+
+
 
 ## ref 
 

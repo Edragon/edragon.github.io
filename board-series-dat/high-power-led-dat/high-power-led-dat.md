@@ -47,3 +47,19 @@
 20W/30W/50W - [[ILE1041-dat]] - [[ILE1042-dat]] - [[ILE1041-dat]]
 
 1W/3W/5W high power LED - [[ILE1036-dat]] - [[ILE1037-dat]] - [[ILE1038-dat]]
+
+## other versions 
+
+### FYLP-5052URC-1W
+
+- [FYLP-5052URC-1W](http://www.kosmodrom.com.ua/pdf/FYLP-5052URC-1W.pdf)
+
+- High-Power LED Type
+- Size (mm): 7.3 * 5.0 * 1.3
+- Emitting Color:Red
+
+
+
+## ref 
+
+- [[BOM-dat]]

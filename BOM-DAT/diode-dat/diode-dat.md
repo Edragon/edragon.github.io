@@ -10,6 +10,12 @@
 
 Schottky diode SS14 DO-214AC SMA
 
+## Voltage regulator diodes
+
+### nexperia
+
+- [BZX384-C3V3](https://www.nexperia.com/product/BZX384-C3V3)
+
 
 
 ## ref 
