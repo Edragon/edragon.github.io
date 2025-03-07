@@ -1,6 +1,8 @@
 
 # mosfet-dat
 
+common brand: [[Vishay-dat]]
+
 - [[AOD4184-dat]] - [[D4184-dat]]
 
 ## model selections 
@@ -35,6 +37,20 @@
 
 ![](2024-08-28-14-43-36.png)
 
+#### IRFL210PBF SOT-223
+
+Third generation power MOSFETs from Vishay provide the designer with the best combination of fast switching, ruggedized device design, low on-resistance and cost-effectiveness.
+
+The SOT-223 package is designed for surface-mounting using vapor phase, infrared, or wave soldering techniques. Its unique package design allows for easy automatic pick-and-place as with other SOT or SOIC packages but has the added advantage of improved thermal performance due to an enlarged tab for heatsinking. Power dissipation of greater than 1.25 W is possible in a typical surface mount application.
+
+- [sihfl210](https://www.vishay.com/docs/91193/sihfl210.pdf)
+
+## un-sorted 
+
+
+[IRFR9024NTRPBF](https://www.mouser.com/ProductDetail/Infineon-Technologies/IRFR9024NTRPBF?qs=Z8%252BeY1k3TIJekAbEhgu%252Bew%3D%3D&srsltid=AfmBOoqKGP8aHm74B9312WuxuX7y4bEFDy1WcflW4OEgSeYNU95cLDF6) == MOSFETs 1 P-CH -55V HEXFET 175mOhms 12.7nC
+
+[IRLR024NTRPBF](https://www.mouser.com/ProductDetail/Infineon-Technologies/IRLR024NTRPBF?qs=nrWyqPbesnXJAeQYJ5m9gQ%3D%3D&srsltid=AfmBOoq1zD7nSwQOb1Sw-hG6Iz-id3Q71fRcyjFm6O5VWGezZW9Dcyfo) == MOSFETs 55V 1 N-CH HEXFET 65mOhms 10nC
 
 ## circuit guides 
 

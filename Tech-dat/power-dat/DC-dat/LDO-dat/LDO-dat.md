@@ -47,9 +47,15 @@
 ![](2024-07-10-13-00-29.png)
 
 
+
+
 ## large current 
 
 - [[LM7805-dat]] - [[TI-power-dat]] - [[LM317-dat]]
+
+
+[LD1086DT33TR](https://www.mouser.com/ProductDetail/STMicroelectronics/LD1086DT33TR?qs=ZqrNm9%252BX9x495avHxGunSw%3D%3D&srsltid=AfmBOoo8TbJZVeh8Kv_urL5uG9JMlbgNaeSaF4P_AzeEG9Svc2ydWkUq) == LDO Voltage Regulators 3.3V 1.5A Positive
+
 
 
 ## ref 
