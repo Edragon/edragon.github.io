@@ -7,10 +7,12 @@ legacy wiki page
 AIT lora
 - https://w.electrodragon.com/w/AIT_LORA_MOD
 
+- [[lorawan-dat]]
+
 ## Info 
 
 - LoRa is the physical layer or in simple words is the modulation, the modem or radio, the hardware.
-- LoRaWAN is the network protocol or architecture that works on LoRa.
+- [[LoRaWAN-dat]] is the network protocol or architecture that works on LoRa.
 
 ## Lora 
 

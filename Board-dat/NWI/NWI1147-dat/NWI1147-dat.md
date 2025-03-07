@@ -43,6 +43,6 @@ Wifi Lora ESP32 Dev. Board [product url](https://www.electrodragon.com/product/w
 
 - [github code](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
 
-- [[lora-dat]] - [[ESP32-dat]] - [[oled-dat]] - [[SX1262-dat]]
+- [[lora-dat]] - [[ESP32-dat]] - [[oled-dat]] - [[SX1262-dat]] - [[loraWan-dat]]
 
 - [[NWI1147]]
