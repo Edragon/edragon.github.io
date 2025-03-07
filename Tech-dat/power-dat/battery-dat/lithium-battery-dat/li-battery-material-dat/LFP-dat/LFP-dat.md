@@ -1,6 +1,7 @@
 
-# LiFePO4-Battery-dat
+# LFP-dat
 
+== LFP == LiFePO4-Battery == Lithium Iron Phosphate == LiFePO₄
 
 LiFePO₄ (Lithium Iron Phosphate) is a type of Lithium-ion (Li-ion) battery, but it uses iron phosphate (FePO₄) as the cathode material instead of more commonly used materials like cobalt, manganese, or nickel.
 
