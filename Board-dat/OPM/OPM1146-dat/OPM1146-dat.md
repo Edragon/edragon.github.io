@@ -31,7 +31,7 @@ Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
 | Lithium ion Li+ | 3x     | 12.6V              | 3.3K                                      |
 
 
-- [[LiFePO4-Battery-dat]] - [[Lithium-ion-Battery-dat]]
+- [[LFP-dat]] - [[Lithium-ion-Battery-dat]]
 
 ## Demo 
 
