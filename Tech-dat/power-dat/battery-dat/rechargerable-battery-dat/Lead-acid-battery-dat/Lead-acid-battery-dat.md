@@ -1,12 +1,7 @@
 
+# Lead-acid-battery-dat
 
-
-# rechargeable-battery-dat
-
-
-
-
-## askGPT
+## lead-acid-battery-dat
 
 - 蓄电池 (xù diàn chí) is the Chinese term for "rechargeable battery." It is a type of electrical battery that can be recharged multiple times. It is commonly used in various electronic devices such as mobile phones, laptops, electric vehicles, and many other portable devices.
 
@@ -16,7 +11,3 @@
 - China Battery Industry Association - http://www.cbia.com.cn/
 - Battery University: Rechargeable Batteries - https://batteryuniversity.com/learn/article/types_of_rechargeable_batteries
 
-
-## Types 
-
-[[Lead-Acid-Battery-dat]]

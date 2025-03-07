@@ -2,7 +2,7 @@
 
 # battery-dat 
 
-- [[rechargeable-battery-dat]]
+- [[rechargeable-battery-dat/rechargerable-battery-dat]]
 
 - [[battery-holder-dat]]
 
