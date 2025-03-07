@@ -59,7 +59,7 @@ The following pins are used to interface with the microSD card when it is on ope
 | CMD          | GPIO 15 | pull-up               |            |
 | DATA0        | GPIO 2  | pull-up               |            |
 | DATA1        | GPIO 4  | pull-up (not working) | flashlight |
-| DATA2        | GPIO 12 |                       |            |
+| DATA2        | GPIO 12 | X                     |            |
 | DATA3        | GPIO 13 | pull-up               |            |
 
 
