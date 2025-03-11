@@ -3,7 +3,7 @@
 
 - [[mechnical-structure-dat]]
 
-
+- [[bearing-dat]] - [[nut-dat]]
 
 
 ## M3-Screw-and-Installation-Hole 
