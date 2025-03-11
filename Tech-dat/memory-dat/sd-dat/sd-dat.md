@@ -65,7 +65,41 @@ The following pins are used to interface with the microSD card when it is on ope
 
 ![](2025-03-07-17-27-43.png)
 
+## official arduino code - SD
 
+Note:  The SPI pins can be manually configured by using `SPI.begin(sck, miso, mosi, cs).` Alternatively, you can change the CS pin and use the other default settings by using `SD.begin(cs)`.
+ 
+    +--------------+---------+-------+----------+----------+----------+----------+----------+
+    | SPI Pin Name | ESP8266 | ESP32 | ESP32‑S2 | ESP32‑S3 | ESP32‑C3 | ESP32‑C6 | ESP32‑H2 |
+    +==============+=========+=======+==========+==========+==========+==========+==========+
+    | CS (SS)      | GPIO15  | GPIO5 | GPIO34   | GPIO10   | GPIO7    | GPIO18   | GPIO0    |
+    +--------------+---------+-------+----------+----------+----------+----------+----------+
+    | DI (MOSI)    | GPIO13  | GPIO23| GPIO35   | GPIO11   | GPIO6    | GPIO19   | GPIO25   |
+    +--------------+---------+-------+----------+----------+----------+----------+----------+
+    | DO (MISO)    | GPIO12  | GPIO19| GPIO37   | GPIO13   | GPIO5    | GPIO20   | GPIO11   |
+    +--------------+---------+-------+----------+----------+----------+----------+----------+
+    | SCK (SCLK)   | GPIO14  | GPIO18| GPIO36   | GPIO12   | GPIO4    | GPIO21   | GPIO10   |
+    +--------------+---------+-------+----------+----------+----------+----------+----------+
+   
+    For more info see file README.md in this library or on URL:
+    https://github.com/espressif/arduino-esp32/tree/master/libraries/SD
+   
+
+## official arduino code - SD_MMC
+
+
+    // Default pins for ESP-S3
+    // Warning: ESP32-S3-WROOM-2 is using most of the default GPIOs (33-37) to interface with on-board OPI flash.
+    //   If the SD_MMC is initialized with default pins it will result in rebooting loop - please
+    //   reassign the pins elsewhere using the mentioned command `setPins`.
+    // Note: ESP32-S3-WROOM-1 does not have GPIO 33 and 34 broken out.
+    // Note: if it's ok to use default pins, you do not need to call the setPins
+    int clk = 14;
+    int cmd = 15;
+    int d0 = 2;
+    int d1 = 4;
+    int d2 = 12;
+    int d3 = 13;  // GPIO 34 is not broken-out on ESP32-S3-DevKitC-1 v1.1
 
 ## ref 
 

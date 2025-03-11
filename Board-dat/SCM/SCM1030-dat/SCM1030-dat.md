@@ -97,7 +97,14 @@ pin define
 | 14    | microSD |       |         | 4     | microSD, flash |
 | 12    | microSD |       |         | 0     | CAM            |
 
+microSD
 
+    #define CLK 14 
+    #define CMD 15
+    #define DAT2 12
+    #define DAT3 13
+    #define DAT0 2
+    #define DAT1 4
 
 ### Pin Definitions 
 
