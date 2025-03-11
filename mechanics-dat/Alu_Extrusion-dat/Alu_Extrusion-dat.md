@@ -1,6 +1,9 @@
 
 # Alu_Extrusion-dat
 
+
+- [[Alu_Extrusion]] - [[screws-dat]]
+
 ## Aluminum Extrusion Profiles
 
 | Profile Type | Dimensions (mm) | Typical Applications                                        |
@@ -16,6 +19,13 @@
 | 5050         | 50x50           | Structural supports, high-load frames                       |
 | 6060         | 60x60           | Heavy-duty machine frames, CNC enclosures                   |
 | 8080         | 80x80           | Large industrial structures, load-bearing frames            |
+
+
+### 2020 
+
+M3 T-nut + M3*10
+
+
 
 
 ### 4040 dual groove 
@@ -95,9 +105,11 @@ large locker with ribs
 
 EU 30M4T == 304 == M4 
 
-
-
 ![](2025-02-27-17-46-09.png)
+
+EU 40M5
+![](2025-03-11-16-34-04.png)
+
 
 dual rail 
 
