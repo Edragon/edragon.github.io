@@ -4,6 +4,11 @@
 
 - [[motion-system-dat]]
 
+
+explanation 
+
+https://github.com/PixiePlacer/PixiePlacer/wiki/Y%E2%80%90Axis
+
 ## Tension Slider Assembly 
 
 | Category        | Part_Name                | Part Description                  | Quantity |
@@ -29,9 +34,9 @@ Nuts and Bolts
 
 
 
-3D Printed Part
-- Star_Knob_Base
-- Star_Knob_Cover 
+3D Printed Part - [[3d-print-service-dat]]
+- Star_Knob_Base == star_knob v7 == https://cad.onshape.com/documents/ff9d1e3bb0c6648192bdf385/v/70ff96265c3a5c65e5e93ef9/e/10f29c1435693a48f4ed55a7
+- Star_Knob_Cover == can not find this file 
 - Tension_Slider == https://cad.onshape.com/documents/e640485c664452ef18221338/v/ecf6a991a8286a17a6f28085/e/1d506c43d62b8f4e412e0560?renderMode=0&uiState=67d019d4668a6a59b71b9bf7
 
 
