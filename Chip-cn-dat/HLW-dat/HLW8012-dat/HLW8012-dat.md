@@ -88,6 +88,10 @@ https://www.youtube.com/watch?v=0aiuwRB8Uic
 
 - [[HLW8012-HLW-REV1.3.pdf]]
 
+## demo code 
+
+- https://github.com/Edragon/arduino-main2/tree/main/tech/Sensor/1-Current/HLW8012
+- https://github.com/Edragon/arduino-esp8266/tree/master/Sketchbook/APP/HLW
 
 
 ## ref 
