@@ -263,10 +263,11 @@ SIMCOM - 2G - [[SIM800-dat]]
 
 - [[NGS1024-dat]]
 
-SIMCOM - NBIOT - [[SIM7020-dat]]
-- ~~[[NGS1094-dat]] (SIM7020E)~~
-- [[NGS1095-dat]] - [[NGS1096-DAT]]
-  
+SIMCOM - NBIOT - [[SIM7020-dat]] - [[SIM7028-dat]]
+
+- ~~[[NGS1094-dat]] (SIM7020E)~~ - [[NGS1095-dat]] - [[NGS1096-DAT]] - [[NGS1135-dat]]
+
+
 Quectel - Location 
 
 - GPS L70 - [[NGS1097-DAT]] - [[NGS1100-dat]] - [[NGS1103-dat]] - [[quectel-GPS-dat]]
@@ -394,7 +395,8 @@ Darlinton driver - [[SCU1024-dat]]
 [[Intermittent-dat]] - [[SCU1044-dat]] - [[SCU1047-dat]] - [[SCU1048-dat]] - [[SCU1050-dat]]
 
 ### SDR
-- [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1113-DAT]] - [[sdr1070-dat]]
+
+- [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1106-dat]] - [[SDR1113-DAT]] - [[sdr1070-dat]]
 
 ### SMO
 
