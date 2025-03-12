@@ -1,6 +1,16 @@
 
 # motor-dat
 
+## How to identify the common port of a 4-wire motor: 
+
+Use the resistance * 1 position of the multimeter to measure the four terminals separately. 
+
+If the resistance value of one terminal is the smallest and equal to that of the other three terminals, then this terminal is the COM terminal, which is the common terminal. 
+
+The driver board automatically identifies 3-wire or 4-wire brushless motors,  
+
+4-wire brushless motors can also be connected without COM lines.
+
 
 ## NEMA 23 Motor 
 
