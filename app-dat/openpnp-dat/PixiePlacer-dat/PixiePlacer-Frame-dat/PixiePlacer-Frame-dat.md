@@ -78,7 +78,7 @@ Alu_L_Bracket == Joint Board Plate Corner Angle Bracket Connection Joint Strip
 
 Alu_Angle == 2020 Aluminium Corner Bracket
 
-- [[Alu_Extrusion-dat]] - [[T-nut-dat]]
+- [[Alu_Extrusion-dat]] - [[T-nut-dat]] - [[screws-dat]]
 
 ### y axis 
 
