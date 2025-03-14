@@ -1,6 +1,8 @@
 
 # tech 
 
+- [[EDA-simulation-dat]] - [[EDA-dat]]
+
 - [[BOM-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[app-dat]]
 
 - [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[actuator-dat]]
