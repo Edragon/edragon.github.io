@@ -31,5 +31,20 @@ SD
 ![](2025-03-14-18-43-47.png)
 
 
+## common error 
+
+### sdmmc_host_start_command returned 0x107
+
+increase power supply? 
+- https://github.com/espressif/esp-idf/issues/5436
+
+testing with 1bit mode? 
+
+update firmware? 
+https://github.com/espressif/arduino-esp32/issues/7373
+
+test log 
+https://esp32.com/viewtopic.php?t=2604&start=10
+
 ## ref 
 
