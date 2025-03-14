@@ -14,3 +14,7 @@ Wr = dimesnion of the rail = 12
 
 导轨端距有要求吗 == 默认均分
 
+## installation 
+
+![](2025-03-14-20-09-18.png)
+
