@@ -3,7 +3,9 @@
 
 - https://ww1.microchip.com/downloads/en/devicedoc/00002165b.pdf
 
+## TWISTED-PAIR INTERFACE DIAGRAM (SINGLE POWER SUPPLY)
 
+![](2025-03-14-17-22-07.png)
 
 ## Chip Features 
 
