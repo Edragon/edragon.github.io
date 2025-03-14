@@ -122,6 +122,23 @@ LEDs - [[LED-dat]]
 
 to get free pins, remove card in [[SD-dat]] 
 
+
+## Demo code 
+
+- https://github.com/alanesq/esp32cam-demo
+
+
+## Compromised GPIOs 
+
+When using sd card on the esp32cam there are very limited spare gpio pins.
+
+pin 13 is used by the sd card but you can get round this by putting the sd card in "1 bit mode", this then leaves pins 12 and 13 available (12 must not be high at boot).
+
+see my sketch below which demonstrates using 1 bit mode and the gpio pins
+
+https://forum.arduino.cc/t/esp32-cam-connection-with-hc-sr04-ultrasonic-sensor/958087/3
+
+
 ## Board Issues 
 
 - For board version v1701, note do not connect pin "GND/R" aka GND3 to ground, otherwise it won't boot

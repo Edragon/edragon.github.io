@@ -29,7 +29,7 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 | ------------ | -------------------------------------------------------------------- | ----------- | ----------- |
 | TPS61040DBVR | TPS6104x Low-Power DC-DC Boost Converter in SOT-23 and WSON Packages | 7           | .           |
 | LT8364       | Low IQ Boost/SEPIC/Inverting Converter with 4A, 60V Switch           | 11          |             |
-| SX1308       | High Efficiency 1.2MHz 2A Step Up Converter 85T                      | 6           |             |
+| [[SX1308-dat]]       | High Efficiency 1.2MHz 2A Step Up Converter 85T                      | 6           |             |
 | SDB628       |                                                                      | 6           |             |
 | LGS6302      |                                                                      | 6           |             |
 | FP6277       | 500kHz 7A High Efficiency Synchronous PWM Boost Converter            | 7           |             |
@@ -46,6 +46,7 @@ fixed 5V output and little periperals
 
 - [[microne-dat]]
 
+- [[richtek-dat]] - [[RT9266-dat]]
 
 ## ref 
 
