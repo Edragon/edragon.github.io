@@ -43,6 +43,14 @@ Antenna Ports
 | location             | GPS                        |
 | boot mode            | press-button / mcu-trigger |
 
+
+## GPS ON 
+
+    AT+CGNSPWR=1
+    OK
+
+    +CGNSPWR: 1
+
 ## Note 
 R1.1 version slightly optimize board layout, all antenna connectors on same side.
 
@@ -59,7 +67,7 @@ R1.1 version slightly optimize board layout, all antenna connectors on same side
 
 - chip info - http://simcomm2m.com/En/module/detail.aspx?id=145
 
-- [[GPS-dat]] - [[SIMCOM-dat]]
+- [[GPS-dat]] - [[SIMCOM-dat]] - [[SIMCOM-at-dat]] - [[SIMCOM-AT-GNSS-dat]]
 
 - [[SIM800-dat]] - [[NGS1071-dat]] (not pin compatible)
 

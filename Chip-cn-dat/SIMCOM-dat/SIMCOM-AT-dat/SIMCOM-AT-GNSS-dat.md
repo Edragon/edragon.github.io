@@ -42,3 +42,13 @@ my location: 22.571717,113.887426
     AT+CGNSSPWR=1
     AT+CGNSSTST=1
     AT+CGPSINFO=1
+
+
+## SIM868 
+
+![](2025-03-14-15-27-07.png)
+
+
+## ref 
+
+- [[SIMCOM-at-dat]]
