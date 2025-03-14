@@ -20,4 +20,8 @@ https://www.electrodragon.com/product/lm358-operational-amplifier-signal-amplifi
 
 
 ## other ref 
+
+- [[LM358-dat]]
+
 - [[MSP1023]]
+

@@ -27,3 +27,9 @@
 * Differential audio: L_SPK_P, L_SPK_N, R_SPK_P, R_SPK_N
 * Single End: R, L, GND
 * I2S: LRCK, BCK, DATA
+
+- [[MS6002-dat]] - [[MCP6002-dat]]
+
+## ref 
+
+- [[audio-dat]]

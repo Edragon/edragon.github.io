@@ -60,3 +60,11 @@ The three-character code with the letter-number-letter format is used for capaci
 
 
 - [[capacitor]]
+
+## electrolyte 
+
+![](2025-03-14-20-31-28.png)
+
+## ref 
+
+- [[BOM-dat]]
