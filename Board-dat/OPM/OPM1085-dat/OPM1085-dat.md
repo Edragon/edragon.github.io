@@ -1,9 +1,9 @@
 
 # OPM1085-dat
 
-https://www.electrodragon.com/product/5a-cccv-buck-step-down-module/
 
-CC&CV Buck Step-Down Power Module, XL4015, 5A
+
+[CC&CV Buck Step-Down Power Module, XL4015, 5A](https://www.electrodragon.com/product/5a-cccv-buck-step-down-module/)
 
 - [[XL4015-dat]]
 

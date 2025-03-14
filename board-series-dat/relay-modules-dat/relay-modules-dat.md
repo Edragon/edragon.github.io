@@ -6,7 +6,10 @@ legacy wiki page
 
 ## Boards 
 
-- [[OPM1046-dat]] - [[OPM1047-dat]]
+- [[OPM1046-dat]] - [[OPM1047-dat]] - [[OPM1048-dat]] - [[OPM1049-dat]]
+
+
+
 
 ## SCH 
 
