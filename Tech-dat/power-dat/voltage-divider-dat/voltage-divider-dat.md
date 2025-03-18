@@ -12,3 +12,6 @@ Vout = Vin * (R2 / (R1 + R2))
 ## ref 
 
 - https://learn.sparkfun.com/tutorials/voltage-dividers/all#:~:text=A%20voltage%20divider%20is%20a,most%20fundamental%20circuits%20in%20electronics.
+
+
+https://ohmslawcalculator.com/voltage-divider-calculator
