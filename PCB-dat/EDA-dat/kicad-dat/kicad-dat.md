@@ -3,11 +3,11 @@
 
 - lib 旧版 符号文件
 
-- [[kicad-workflow-dat]] - [[kicad-plugin-dat]]
+- [[kicad-workflow-dat]] - [[kicad-plugin-dat]] - [[kicad-shortcuts-dat]]
 
+- [[kicad-lib-dat]] - [[kicad-data-dat]]
 
-
-
+- [[kicad-simulation-dat]]
 
 
 
@@ -39,4 +39,4 @@ alt ctrl F
 
 ## ref 
 
-- [[kicad]]
+- [[kicad]] 

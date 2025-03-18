@@ -1,6 +1,8 @@
 
 # EDA-simulation-dat
 
+## software 
+
 | Software               | Features & Use Case                                              | Free Version Available?         |
 | ---------------------- | ---------------------------------------------------------------- | ------------------------------- |
 | **LTspice**            | Powerful SPICE simulator for analog circuits (by Analog Devices) | ✅ Free                          |
@@ -12,5 +14,36 @@
 | **OrCAD PSpice**       | High-end analog and mixed-signal simulation                      | ❌ Paid (Lite version available) |
 | **Fusion 360 (Eagle)** | PCB design with simulation tools (by Autodesk)                   | ✅ Free for hobbyists            |
 
-- [[EDA-dat]]
+- [[kicad-simulation-dat]] - [[eagle-simulation-dat]]
 
+
+## ngspice
+
+- [manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf) 
+
+
+https://ngspice.sourceforge.io/ngspice-eeschema.html#BipAmp
+
+
+## PSpice 
+
+- PSpice (OrCAD Capture).
+- LTspice 
+
+
+- [[LM358-dat]]
+
+
+## online simulation 
+
+https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage
+
+support: [[amplifier-dat]], [[NE555-dat]], [[comparator-dat]], [[logic-gate-dat]], ... 
+
+
+
+
+## ref 
+
+
+- [[EDA-dat]]
