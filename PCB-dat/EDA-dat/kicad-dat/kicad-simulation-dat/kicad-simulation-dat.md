@@ -97,6 +97,10 @@ https://www.woolseyworkshop.com/2019/07/01/performing-a-circuit-simulation-in-ki
 - need to fix the pin assignment 
 - [great tuto here](https://www.youtube.com/watch?v=Wg7uSs4J_0U)
 
+Transient Analysis == step 10u / final 10m
+
+![](2025-03-18-18-18-23.png)
+
 
 ## ref 
 
