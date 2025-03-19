@@ -1,9 +1,14 @@
 
 # NE5532-dat
 
-DS - https://www.ti.com/lit/ds/symlink/ne5532.pdf
+
+
+- [chip DS ](https://www.ti.com/lit/ds/symlink/ne5532.pdf)
 
 NE5532x, SA5532x Dual Low-Noise Operational Amplifiers
+
+
+
 
 ## boards 
 
@@ -19,9 +24,13 @@ VCC+ Supply voltage: 5 ~ 15 V
 
 ## audio amplifier SCH 
 
+- [[virtual-ground-dat]] - by [[voltage-divider-dat]]
+
+the gain is 15K / 2.2K 
+
 ![](2024-10-27-14-27-33.png)
 
 
 ## ref
 
-- [[TI-dat]]
+- [[TI-dat]] - [[resistor-dat]]

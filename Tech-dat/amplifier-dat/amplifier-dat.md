@@ -36,6 +36,8 @@
 
 - [[MS6002-dat]] - [[LM358-DAT]] - [[NS4150-dat]] - [[MCP6002-dat]]
 
+- [[OPA1641-dat]] - [[NE5532-dat]] - [[AD828-dat]] - [[TL072-dat]]
+
 ## Voltage Reference
 
 LM258, LM358, LM358A, LM358E, LM2904, LM2904A, LM2904E, LM2904V, NCV2904
@@ -88,8 +90,9 @@ online simuation - https://www.circuitlab.com/editor/#?id=z84zq5
 
 - [[circuit-lab-dat]] - [[EDA-simulation-dat]]
 
+Active Low Pass filter with Amplification
 
-
+![](2025-03-19-17-07-49.png)
 
 ## tuto 
 
