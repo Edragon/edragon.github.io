@@ -1,7 +1,7 @@
 
 # amplifier-dat
 
-- [[LM358-DAT]]
+
 
 ## operational amplifiers (op-amps)
 
@@ -30,10 +30,11 @@
 
 
 
+## Solutions 
 
-- [[DAC-dat]] - [[audio-dat]]
+- [[OP07-dat]] - [[LM386-dat]]
 
-- [[MS6002-dat]]
+- [[MS6002-dat]] - [[LM358-DAT]] - [[NS4150-dat]] - [[MCP6002-dat]]
 
 ## Voltage Reference
 
@@ -49,33 +50,18 @@ LM258, LM358, LM358A, LM358E, LM2904, LM2904A, LM2904E, LM2904V, NCV2904
 
 ## rail to rail 
 
-Rail-to-Rail Input & Output (RRIO)
+### Rail-to-Rail Input & Output (RRIO)
 
 Both the input and output can swing close to both power rails (VCC & VEE).
 
 Example: MCP6002, TLV9002, OPA2333
 
-Non-Rail-to-Rail Op-Amps
+### Non-Rail-to-Rail Op-Amps
 
 Neither input nor output reaches the full supply range.
 
 Example: 741 op-amp (Needs at least ±12V to operate properly).
 
-
-
-
-
-## Solutions 
-
-- [[OP07-dat]] - [[LM386-dat]]
-
-
-
-### NS4150 
-
-- [[NS4150-dat]]
-
-- [[NS4150]]
 
 
 ## Driver 
@@ -88,6 +74,23 @@ Example: 741 op-amp (Needs at least ±12V to operate properly).
 ![](2025-03-19-03-25-27.png)
 
 
+## APPs 
+
+- read more at [[LM358-dat]]
+
+### Low Pass Active Filter
+
+The low pass active filter is shown in Figure 8.The DC gain is defined by -R2/R1.The filter hasa -20dB/decade roll-off after its corner frequency fc=1/(2πR3C1).
+
+![](2025-03-19-16-23-28.png)
+
+online simuation - https://www.circuitlab.com/editor/#?id=z84zq5
+
+- [[circuit-lab-dat]] - [[EDA-simulation-dat]]
+
+
+
+
 ## tuto 
 
 - [Application of Rail-to-Rail Operational Amplifiers](https://www.ti.com/lit/an/sloa039a/sloa039a.pdf)
@@ -97,6 +100,9 @@ Example: 741 op-amp (Needs at least ±12V to operate properly).
 - [Op-Amps – Analog Building Blocks](https://dronebotworkshop.com/op-amps/)
 
 
+
+
 ## ref 
 
-- [[tech-dat]]
+- [[tech-dat]] - [[DAC-dat]] - [[audio-dat]]
+

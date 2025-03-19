@@ -14,3 +14,5 @@ Specifically, they can operate with a single power supply or dual power supply i
 ## ref 
 
 - [[amplifier-dat]] - [[I2S-dat]]
+
+- [[MS6002]]
