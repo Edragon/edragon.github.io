@@ -1,5 +1,15 @@
 # Audio-amplifier-dat
 
+
+
+Low-Power Audio Amplifiers
+
+- [[LM358-dat]] – Dual op-amp, can be used in audio applications but not optimized for high-quality sound.
+- [[LM4862-dat]] – A dedicated audio amplifier with a low-power design.
+- [[LM386-dat]] – A classic low-power audio amplifier.
+
+
+
 - [[diodes-dat]] - [[PAM-dat]] 
 
 - [[heroic-dat]]
