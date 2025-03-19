@@ -3,6 +3,11 @@
 
 - [3D_view](https://cad.onshape.com/documents/5e890b89298a697f7602c354/w/0c6531c398b6b31c88cb0ec1/e/174e4411811158364858aed9?renderMode=0&uiState=67b5bb42ac092153de7a5309)
 
+- [github guide](https://github.com/PixiePlacer/PixiePlacer/wiki/Machine-Frame)
+
+
+
+
 ## knowledge 
 
 1. [[structure-dat]] - [[Alu_Extrusion-dat]] 
@@ -157,27 +162,42 @@ Emergency_Stop_Button == Emergency Stop Metal Button Mushroom Head Push Button S
 
 four legs + crossbeam
 
+The Aluminium Extrusions are connected together by M5 screws, Aluminum Brackets and Aluminium Angles.
+
+Connect the 4x Alu_Extrusion_Leg_200mm and 2 Alu_Extrusion_Crossbeam_724mm together with Alu_Angle.
+
+
 ![](1.png)
 
 2. add two supports 
+
+Add the 2x Alu_Extrusion_Bed_Support_520mm and connect them with Alu_L_Bracket.
 
 ![](2.png)
 
 3. Y axis and rails 
 
+Add the Alu_Extrusion_Y-Axis_600mm and Linear Rails MGN12H_600mm.
+
 ![](3.png)
 
 4. working bed and base 
 
+Cut the Machine Bed to size and mount it to the machine. It consists of the top steel sheetTop_Machine_Bed and MDF sheet Bottom_Machine_Bed.
+
+Bolt the Bottom_Mounting_Plate to the underside of the machine.
+
 ![](4.png)
 
 5. real look 
+
 
 ![](5.jpeg)
 
 ![](6.jpeg)
 
 ![](Frame_Assembly.png)
+
 
 
 

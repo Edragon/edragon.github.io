@@ -16,6 +16,13 @@ https://www.youtube.com/@pixieplacer
 - [[PixiePlacer-Y-dat]]
 
 
+## CAD 
+
+- [full assembly 3D file at here](https://cad.onshape.com/documents/cba5ff23b34f56cdb8d56e29/w/70635aee323f77b7c3b4f3ff/e/d64d0dd6226f687165828220)
+
+- [frame assembly at here](https://cad.onshape.com/documents/5e890b89298a697f7602c354/w/0c6531c398b6b31c88cb0ec1/e/174e4411811158364858aed9)
+
+
 ## ref 
 
 - [[CAD-dat]]
