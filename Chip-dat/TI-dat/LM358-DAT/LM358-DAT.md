@@ -43,6 +43,10 @@ non-inverting voltage reference
 
 ![](2025-03-18-17-43-43.png)
 
+Same for LMV321 
+
+![](2025-03-19-17-46-48.png)
+
 ## LM358 Equivalents
 
 Depending on the particular needs of the application, a number of comparable or different parts can be utilized in lieu of the LM358 operational amplifier. Here are a few noteworthy analogs:
@@ -77,6 +81,10 @@ https://www.circuitlab.com/editor/#?id=4x4jmf
 
 ### LM358 Kicad Simulation 
 
+doAnalyses: TRAN:  Timestep too small; initial timepoint: trouble with xu1.xi_nn:dvnf-instance d.xu1.xi_nn.d1
+run simulation(s) aborted
+
+- this maybe a common issue to [[LM358-dat]], use another [[amplifier-dat]]
 
 ## LM358 Common-Mode Input Voltage Range
 

@@ -1,6 +1,6 @@
 # Audio-amplifier-dat
 
-
+- [[OPA1622-dat]] == SoundPlus™ Audio Operational Amplifier with High Performance, Low THD+N and Bipolar Input
 
 Low-Power Audio Amplifiers
 
@@ -32,6 +32,7 @@ Low-Power Audio Amplifiers
 - AD827
 - LM1036
 
+- [[HT6872-dat]]
 
 ## Signal
 * Differential audio: L_SPK_P, L_SPK_N, R_SPK_P, R_SPK_N
