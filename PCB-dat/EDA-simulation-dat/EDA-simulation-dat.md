@@ -41,7 +41,7 @@ https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage
 support: [[amplifier-dat]], [[NE555-dat]], [[comparator-dat]], [[logic-gate-dat]], ... 
 
 
-
+- [[circuit-lab-dat]]
 
 ## ref 
 
