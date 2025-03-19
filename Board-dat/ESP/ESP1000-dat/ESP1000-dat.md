@@ -37,6 +37,14 @@ Module based on [[SCM1030-dat]]
 
 ### Power Supply 
 
+Version 1.1 
+
+- Simplfied Power Supply, connect [[serial-dat]] 5V / GND / TXD / RXD to use, [[lithium-battery-dat]] can be charged by USB cable or [[serial-dat]]
+
+
+
+Verion 1.0 
+
 - top-left green box will be used for power ESP32 ONLY, not for our this based board
 - To use our this base board sensors while debugging, please use: 
   - Lihtium battery + USB Cable 
@@ -44,6 +52,8 @@ Module based on [[SCM1030-dat]]
 
 ![](2025-02-21-14-58-48.png)
 ![](2025-02-21-14-59-03.png)
+
+
 
 
 ### ESP32-CAM Version Note
