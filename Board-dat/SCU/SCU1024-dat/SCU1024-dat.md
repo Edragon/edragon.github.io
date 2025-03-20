@@ -1,7 +1,9 @@
 
 # SCU1024-dat 
 
-https://www.electrodragon.com/product/5v-4-phase-5-wire-stepper-motor-gear-motor-28byj-48-5v/
+
+[4-Phase 5-Wire Stepper Motor, 28BYJ-48-5V](https://www.electrodragon.com/product/5v-4-phase-5-wire-stepper-motor-gear-motor-28byj-48-5v/)
+
 
 - legacy wiki page 1 - https://w.electrodragon.com/w/28BJY-48
 - legacy wiki page 2 - https://w.electrodragon.com/w/Category:Stepper
@@ -29,4 +31,4 @@ https://www.electrodragon.com/product/5v-4-phase-5-wire-stepper-motor-gear-motor
 
 - [[SCU1024]]
 
-- Darlinton driver
+- Darlinton driver - [[ULN2003-dat]]

@@ -30,4 +30,4 @@ https://twitter.com/electro_phoenix/status/1658391696416321536
 
 ## ref 
 
-- [[NE555-DAT]]
+- [[NE555-DAT]] - [[mcu-relay]]
