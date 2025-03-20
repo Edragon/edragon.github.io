@@ -164,10 +164,14 @@ four legs + crossbeam
 
 The Aluminium Extrusions are connected together by M5 screws, Aluminum Brackets and Aluminium Angles.
 
-Connect the 4x Alu_Extrusion_Leg_200mm and 2 Alu_Extrusion_Crossbeam_724mm together with Alu_Angle.
+Connect the 4x Alu_Extrusion_Leg_200mm and 2 Alu_Extrusion_Crossbeam_724mm together with Alu_Angle. 
 
+M5_T_Nut + Socket_Cap_Screw_M5x10mm
 
 ![](1.png)
+
+
+
 
 2. add two supports 
 

@@ -67,28 +67,9 @@ thickness version 1.0 mm, other versions include 1.5 mm, 0.8 mm
 
 If you want to use M3 screws with larger extrusions like 1515, 2020, or 4040, you would need to check if there are smaller T-nuts available for those profiles that are designed to accept M3 screws. Generally, M5 or M6 screws are more common in those sizes.
 
-### Profile Bracket
-
-L-type 
-
-![](2025-02-19-13-48-31.png)
-
-L and T type Bracket for 4040
-
-![](2025-02-26-19-29-48.png)
-
-L and T type Bracket for 2020
-
-![](2025-02-19-17-50-13.png)
 
 
 
-### Profile Angle == 角码
-
-type: 2020
-
-
-![](2025-02-19-13-49-22.png)
 
 ## APP 
 
