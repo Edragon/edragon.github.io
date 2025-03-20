@@ -1,5 +1,7 @@
 # AMP1021-dat
 
+
+
 ### Bom List:
 
 | name  | value                                  |
@@ -10,7 +12,7 @@
 | C5-C8 | 105                                    |
 | VCC   | 3.6-6.5V                               |
 
-test current max. at 150mA 
+test current max. at ~ 250mA - 300mA
 
 
 
@@ -25,6 +27,12 @@ test current max. at 150mA
 
 IN+ for single-end input, IN- to ground 
 
+
+## demo 
+
+Esp32 tone test with amplifier ht6872 #demo
+
+https://t.me/electrodragon3/332
 
 ## ref
 
