@@ -1,9 +1,8 @@
 
 # SCU103-DAT 
 
-- https://www.electrodragon.com/product/micro-9g-servo-for-rc-helicopter-boat-plane-car/
 
-
+[SG90 Micro Servo For Toy Contorl [Type]](https://www.electrodragon.com/product/micro-9g-servo-for-rc-helicopter-boat-plane-car/)
 
 ![](17-10-17-21-06-2023.png)
 
