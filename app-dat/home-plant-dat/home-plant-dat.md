@@ -43,7 +43,7 @@ The term "fresh air" for plants, in a technical sense, generally refers to an op
 
 #### timing system 
 
-- timing relay - [[intermittent-dat]]
+- timing relay - [[mcu-relay]]
 
 
 

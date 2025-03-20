@@ -20,4 +20,6 @@ https://www.electrodragon.com/product/intermittent-switching-mosfet-module-mcu-c
 
 ## ref 
 
+- [[MCU-relay-dat]]
+
 - [[SCU1048]]
