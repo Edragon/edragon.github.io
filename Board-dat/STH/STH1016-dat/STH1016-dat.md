@@ -3,7 +3,11 @@
 
 - internal SHT30 I2C output 
 
+## Main Features: 
 
+Four-core connector, easy to replace and maintain. If the accuracy is insufficient, the sensor can be replaced at any time.
+
+Usage: The probe can be directly buried in the soil.
 
 ## Info 
  
@@ -74,6 +78,16 @@ FS200— SHT （2） — （3）
 - Green: Serial Data (Sda)
 - Huang: Serial Clock (Sck)
 - Black: ground (GND)
+
+## Code 
+
+- [arduino](https://github.com/practicalarduino/SHT1x) 
+
+SHT1x :
+
+- 7x (analog IIC) are program-interchangeable 
+- SHT2x (standard IIC) which is not program-interchangeable.
+
 
 ## ref 
 
