@@ -1,6 +1,13 @@
 
 # STH1052-dat
 
+## Info 
+ 
+[product url](https://www.electrodragon.com/product/soildust-humiditywatermoisture-sensor/)
+ 
+## Applications, category, tags, etc. 
+
+- [[home-plant-dat]]
 
 ## Board map 
 
@@ -21,6 +28,8 @@ Pin definitiions:
 
 ## ref 
 
+- [legacy wiki page ](https://www.electrodragon.com/w/index.php?title=Soil/Dust_Humidity/Water/Moisture_Sensor)
+ 
 - comparator - [[LM393-dat]]
   
 - [[STH1052]]

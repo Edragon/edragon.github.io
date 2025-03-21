@@ -30,7 +30,7 @@ full module SCH
 
 ## ITR Series 
 
-* ITR9608 - [[ITR9608.pdf]]
+- [[ITR9608-dat]]
 * ITR9909
 
 

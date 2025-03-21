@@ -5,7 +5,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 ## New Boards
 
-
+- Will add a ESP32 Audio Play Board, AI Assistant Possible, Including I2S microphone, Speaker with Amplifer, SD-MMC Bit-4 Data Storage, and Power Supply 
 
 ## Development, Documents Updates
 

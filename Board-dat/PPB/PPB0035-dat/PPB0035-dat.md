@@ -1,10 +1,16 @@
 
 # PPB0035-dat
 
+## Info 
 
 ![](2024-01-19-16-10-03.png)
 
-https://www.electrodragon.com/product/solderable-mini-breadboard-pcb/
+
+ 
+[product url](https://www.electrodragon.com/product/solderable-mini-breadboard-pcb/)
 
 Each purchase = 4x of small breakout boards 
 
+## ref 
+ 
+- [[PPB0035]] 

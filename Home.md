@@ -5,13 +5,9 @@
 - this web application may encounter error "502 bad gateway", please visit 5 minutes later
 
 
-
-
 ## Contact 
 
 - [[contact-dat]] 
-
-news - [[weekly-dat]]
 
 ## category 
 
@@ -27,6 +23,9 @@ news - [[weekly-dat]]
   
 - [[BOM-DAT]] - [[service-dat]]
 
+## Weekly Updates 
+
+- [[weekly-dat]]
 
 ## Notes 
 
