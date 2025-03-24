@@ -11,11 +11,38 @@ legacy wiki info
 - https://w.electrodragon.com/w/ED20_SDK
 
 
-## board layout (R4)
+## Board map V5 
 
-![](2023-12-11-18-53-22.png)
+![](2025-03-24-17-25-06.png)
 
-![](2023-12-11-18-57-49.png)
+for old version see here - [[NGS1063-old-dat]]
+
+Setup by jumpers 
+
+| Board UART1 | AUX UART2 | CH340 | GPS UART |
+| ----------- | --------- | ----- | -------- |
+| TXD         | -         | RXD   | -        |
+| RXD         | -         | TXD   | -        |
+| -           | TXD       | -     | RXD      |
+| -           | RXD       | -     | RXD      |
+
+Board LEDS 
+
+- netlight status LED
+- Power LED
+- 1PPS LED 
+
+Booting by Button, baudrate 115200, 
+
+Boot output without custom firmware, and SIM installed 
+
+    SMS Ready
+
+Test commands 
+
+    AT
+    OK
+
 
 
 ## Customization 
@@ -27,16 +54,22 @@ legacy wiki info
 
 ![](2023-12-11-19-02-13.png)
 
+
+
+
 ## Tracking records 
 
 ![](2023-12-11-19-02-32.png)
 
 
+
+
+
 ## ref 
 
-- [[ED20-dat]] - [[quectel-dat]]
+- [[ED20-dat]] - [[quectel-dat]] - [[MT2503-dat]] - [[mediatek-dat]]
 
-- [[serial-dat]] - [[CH340-dat]] - [[dcdc-buck-dat]] - [[power-dat]]
+- [[serial-dat]] - [[CH340-dat]] - [[dcdc-buck-dat]] - [[power-dat]] - [[SIM-dat]]
 
 - [[quectel-GNSS-AT-dat]]
 

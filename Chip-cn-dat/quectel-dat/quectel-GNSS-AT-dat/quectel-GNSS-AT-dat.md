@@ -2,7 +2,7 @@
 
 ## AT+QGNSSC GNSS Module Power Control
 
-
+- [[quectel-CME-error-code-dat]]
 
 ## 3.1. Turn On and Off the GNSS Engine
 
@@ -14,8 +14,10 @@ AT+QGPSLOC? //Obtain position information.
 +QGPSLOC: 061951.0,3150.7223N,11711.9293E,0.7,62.2,2,0.0,0.0,0.0,110513,09
 
 
+## GNSS 
 
-AT+QGNSSC=1
+AT+QGNSSC=1 // working for MC20
+
 
 ## AT+QGNSSRD?
 
@@ -92,6 +94,8 @@ AT+QGPSEND
 
 
 ## GNSS - EC20
+
+AT+CGPSPWR=1
 
 USB NEMA data 
 
