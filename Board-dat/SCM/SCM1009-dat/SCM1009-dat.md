@@ -1,6 +1,17 @@
 
 # SCM1009-dat
 
+## Info 
+ 
+[product url - OV7670 Camera Module [FIFO]](https://www.electrodragon.com/product/ov7670-camera-module-breakout-board-power-cable/)
+ 
+## Applications, category, tags, etc. 
+
+- [[camera-dat]]
+
+## Demo Code and Video
+
+
 ## Pins 
 
 ![](2023-11-08-13-42-51.png)
@@ -28,4 +39,8 @@ extra
 
 ## ref 
 
+- [[SCM1009]] 
+ 
+- legacy wiki page 
+ 
 - [[FIFO-dat]]

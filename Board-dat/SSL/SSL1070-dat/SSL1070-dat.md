@@ -1,6 +1,8 @@
 
 # SSL1070-dat
 
+[Load Cell Amplifier, Weight Sensor Kit, HX711 [KG]](https://www.electrodragon.com/product/load-cell-amplifier-weight-sensor-kit-hx711-kg/)
+
 
 ## Wiring 
 
@@ -38,5 +40,7 @@ https://youtube.com/shorts/qNFiFE7YFlU?si=Xyuyxv-z5Z2szAh7
 
 
 ## ref 
+
+- [[HX711-dat]]
 
 - [[SSL1070]]

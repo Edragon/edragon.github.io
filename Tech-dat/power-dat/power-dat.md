@@ -7,8 +7,6 @@
 
 - [[low-power-dat]]
 
-- [[power-protection]]
-
 - [[battery-dat]] - [[lithium-battery-dat]]- [[BMS-dat]]
 
 
