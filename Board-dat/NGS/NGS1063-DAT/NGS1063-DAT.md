@@ -34,9 +34,12 @@ legacy wiki info
 
 ## ref 
 
-- [[ED20]] - [[NGS1063]]
+- [[ED20-dat]] - [[quectel-dat]]
+
+- [[serial-dat]] - [[CH340-dat]] - [[dcdc-buck-dat]] - [[power-dat]]
 
 - [[quectel-GNSS-AT-dat]]
 
-
 - [[NGS1063-HDK-V1-DAT]]
+
+- [[NGS1063]] 
