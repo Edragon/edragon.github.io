@@ -1,6 +1,11 @@
 
 ## quectel AT 
 
+
+- [[quectel-at-sscom-dat.exe]]
+
+
+
 legacy wiki page - https://w.electrodragon.com/w/Category:Quectel_AT
 
 | CMD | enquiry or notification | Set enable | feedback       | description             | CN                                      |
@@ -15,57 +20,59 @@ legacy wiki page - https://w.electrodragon.com/w/Category:Quectel_AT
 |     | AT+CSQ                  |            | +CSQ: 24,99    |                         | //查询手机信号强度                      |
 
 
+## Basic Operations 
 
-1.  拨打电话  AT  流程： 
-+EUSIM: 1  //识别到  SIM  卡 
-AT+ESLP=0  //禁止模块自动休眠 
-AT+CSQ  //查询手机信号强度 
-AT+CREG?  //获得手机的注册状态 
-ATD13168091598  //拨打电话;  用户将其中的数字换成自己要
-拨打的电话号码 
+### Making a phone call AT process:
 
-## 2.短信发送  AT  流程： 
-+EUSIM: 1  //识别到  SIM  卡 
-AT+ESLP=0  //禁止模块自动休眠 
-AT+CSQ  //查询手机信号强度 
-AT+CREG?  //获得手机的注册状态 
-AT+CMGF=1  //设置短信格式为  TEXT  模式; AT+CMGF=0  为  PDU 模式 
-AT+CMGS="13168091598"  //设置短信接收方号码 
-“I love you!”  //发送短信内容 
-0x1A  //发送短信结束符 
+    +EUSIM: 1  //SIM card detected
+    AT+ESLP=0  //Disable module automatic sleep
+    AT+CSQ  //Query mobile signal strength
+    AT+CREG?  //Get the registration status of the mobile phone
+    ATD13168091598  //Make a call; the user replaces the numbers with their desired
+    phone number to dial
 
-3.  GPRS  入网流程： 
-+EUSIM: 1  //识别到  SIM  卡 
-AT+ESLP=0  //禁止模块自动休眠 
-AT+CSQ  //查询手机信号强度 
-AT+CREG?  //获得手机的注册状态 
-AT+EGDCONT=0,"IP","CMNET"  //设置移动网络。  CMNET,中国移动网络; UNINET,中国联通网络 
-AT+ETCPIP=1,0  //设置网络连接类型 
-AT+ETL=1,0,0,"122.228.19.57",29329  //设置  IP  地址、  端口号。 
-AT+ETLTS=0  //连接返回  socket id，  进入透传模式 
-“I love you!”  //发送内容到服务器 
-+++  //发送+++退出透传模式 
+### SMS sending AT process:
 
+    +EUSIM: 1  //SIM card detected
+    AT+ESLP=0  //Disable module automatic sleep
+    AT+CSQ  //Query mobile signal strength
+    AT+CREG?  //Get the registration status of the mobile phone
+    AT+CMGF=1  //Set SMS format to TEXT mode; AT+CMGF=0 is PDU mode
+    AT+CMGS="13168091598"  //Set the SMS recipient number
+    “I love you!”  //Send SMS content
+    0x1A  //Send SMS end character
 
+### GPRS network access process:
 
-## AT+CPIN
-
-//Enter PIN
-AT+CPIN?
-+CPIN: SIM PIN //Query PIN code is locked
-OK
-AT+CPIN=1234 //Enter PIN
-OK
-+CPIN: READY
-AT+CPIN? //PIN has already been entered
-+CPIN: READY
-OK
+    +EUSIM: 1  //SIM card detected
+    AT+ESLP=0  //Disable module automatic sleep
+    AT+CSQ  //Query mobile signal strength
+    AT+CREG?  //Get the registration status of the mobile phone
+    AT+EGDCONT=0,"IP","CMNET"  //Set the mobile network. CMNET, China Mobile network; UNINET, China Unicom network
+    AT+ETCPIP=1,0  //Set the network connection type
+    AT+ETL=1,0,0,"122.228.19.57",29329  //Set the IP address and port number.
+    AT+ETLTS=0  //The connection returns socket id, and enters transparent transmission mode
+    “I love you!”  //Send content to the server
+    +++  //Send +++ to exit transparent transmission mode
 
 
 
+### AT+CPIN
+
+    //Enter PIN
+    AT+CPIN?
+    +CPIN: SIM PIN //Query PIN code is locked
+    OK
+    AT+CPIN=1234 //Enter PIN
+    OK
+    +CPIN: READY
+    AT+CPIN? //PIN has already been entered
+    +CPIN: READY
+    OK
 
 
-## AT+QSIMSTAT?
+
+### AT+QSIMSTAT?
 
 <enable> 
 Enable or disable SIM/USIM inserted status report. If it is enabled, when SIM/USIM
@@ -81,7 +88,7 @@ SIM/USIM is inserted or removed. This argument is not allowed to be set.
 
 
 
-## 13.3. AT+CBC Battery Charge
+### 13.3. AT+CBC Battery Charge
 AT+CBC returns battery charge status <bcs> and battery charge level <bcl> of the MT.
 
 

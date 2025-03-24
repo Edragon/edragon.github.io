@@ -71,8 +71,8 @@ Test commands
 
 - [[serial-dat]] - [[CH340-dat]] - [[dcdc-buck-dat]] - [[power-dat]] - [[SIM-dat]]
 
-- [[quectel-GNSS-AT-dat]]
+- [[quectel-GNSS-AT-dat]] - [[quectel-at-dat]]
 
-- [[NGS1063-SDK-DAT]]DK-DAT]]
+- [[NGS1063-SDK-DAT]]
 
 - [[NGS1063]] 
