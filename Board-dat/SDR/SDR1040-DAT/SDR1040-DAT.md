@@ -2,6 +2,16 @@
 
 # SDR1040-DAT
 
+## Info 
+ 
+product url
+ 
+## Applications, category, tags, etc. 
+ 
+- [[motor-driver-dat]]
+
+## Demo Code and Video
+ 
 
 ## Wiring: 
 - refer to reprap wiki page
@@ -29,8 +39,12 @@
 
 
 
-## references 
-
-- Reprap wiki page info. https://reprap.org/wiki/Pololu_stepper_driver_board#DRV8825
+## ref 
+ 
+- [[SDR1040]] 
+ 
+- legacy wiki page 
+ 
+- [[Reprap-dat]] wiki page info. https://reprap.org/wiki/Pololu_stepper_driver_board#DRV8825
 
 

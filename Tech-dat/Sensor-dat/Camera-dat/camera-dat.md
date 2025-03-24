@@ -7,7 +7,7 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
 ## Modules 
 
-OV series - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] 
+OV series - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] - [[SCM1020-dat]]
 
 - [[SCM1030-dat]] - [[SCM1027-dat]]
 
@@ -19,6 +19,7 @@ OV series - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]
 
 
 ## Chip 
+
 - [[OV7670-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[OV7725-dat]]
 
 ## ref 
