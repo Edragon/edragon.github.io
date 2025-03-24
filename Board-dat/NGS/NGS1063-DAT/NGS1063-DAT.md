@@ -61,7 +61,7 @@ Test commands
 
 ![](2023-12-11-19-02-32.png)
 
-
+- support [[LBS-dat]] and [[GPS-dat]]
 
 
 
@@ -73,6 +73,6 @@ Test commands
 
 - [[quectel-GNSS-AT-dat]]
 
-- [[NGS1063-HDK-V1-DAT]]
+- [[NGS1063-SDK-DAT]]DK-DAT]]
 
 - [[NGS1063]] 
