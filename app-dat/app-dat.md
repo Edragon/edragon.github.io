@@ -29,6 +29,7 @@
 
 - [[detecting-camera-dat]]
 
+- [[ESP32-CAM-dat]]
 
 ## good app maker 
 
