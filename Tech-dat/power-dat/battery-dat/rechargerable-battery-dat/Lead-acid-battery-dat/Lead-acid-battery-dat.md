@@ -11,3 +11,13 @@
 - China Battery Industry Association - http://www.cbia.com.cn/
 - Battery University: Rechargeable Batteries - https://batteryuniversity.com/learn/article/types_of_rechargeable_batteries
 
+## voltage 
+
+- 12V == [[solar-power-dat]]
+- 72V == [[motor-dat]]
+
+
+
+## ref 
+
+- [[Lead-acid-battery]]

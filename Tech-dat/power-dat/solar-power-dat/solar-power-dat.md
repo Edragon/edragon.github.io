@@ -1,6 +1,7 @@
 
 # solar-power-dat
 
+## direction protection diodes
 
 - direction protection diodes for [[solar-panel-dat]] power supply 
 
@@ -16,6 +17,7 @@
 - [[OPM1146-dat]] - [[BAT1002-dat]]
 
 
+
 ## ref 
 
-- [[solar-panel-dat]]
+- [[solar-panel-dat]] - [[solar-power]]

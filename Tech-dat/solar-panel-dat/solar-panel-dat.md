@@ -2,6 +2,9 @@
 # solar-panel-dat
 
 
+- [[OPS1009-dat]]
+
+
 ## Common solar panel types 
 
 There are 3 main types of solar panels available in the solar market today. They’re 

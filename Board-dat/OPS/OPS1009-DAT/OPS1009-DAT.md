@@ -1,15 +1,15 @@
 
 # OPS1009-DAT 
 
-135 x 76
 
-- [[OPS1009]]
 
-## Solar Panel 
 
-## Version Logs 
+[PET Laminated Integrated Solar Panel Unit R3](https://www.electrodragon.com/product/solar-panel-unit/)
+
 
 ### R3 - polycrystalline silicon solar panel
+
+135 x 76 mm / Output 5V / 300mA / 1.5W
 
 ![](2024-01-16-18-29-03.png)
 
@@ -35,4 +35,8 @@
 
 ## ref 
 
+- [[OPS1009]]
+  
 - [[solar-panel-dat]]
+
+- [[solar-panel]]
