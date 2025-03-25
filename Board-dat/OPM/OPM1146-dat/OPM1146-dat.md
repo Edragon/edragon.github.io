@@ -1,11 +1,14 @@
 
 # OPM1146-dat
 
-https://www.electrodragon.com/product/1-3-series-lithium-lilifepo4-battery-charger/
+
 
 legacy wiki page - https://www.electrodragon.com/w/Battery_Charge
 
-Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
+[Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series](https://www.electrodragon.com/product/1-3-series-lithium-lilifepo4-battery-charger/)
+
+## Features 
+
 
 ## Resistor divider for feedback:
 
@@ -21,6 +24,8 @@ Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
 
 ![](2024-01-31-15-58-09.png)
 
+Setup for V_fb
+
 | Charge Target   | Series | Regulation Voltage | Rv_fb voltage feedback resistor selection |
 | --------------- | ------ | ------------------ | ----------------------------------------- |
 | LIFEPO4         | 1x     | 3.6V               | 28.7K                                     |
@@ -31,7 +36,10 @@ Lithium or LiLiFePO4 Battery Charger, Support 1-3 Series
 | Lithium ion Li+ | 3x     | 12.6V              | 3.3K                                      |
 
 
-- [[LFP-dat]] - [[Lithium-ion-Battery-dat]]
+- [[LFP-dat]] - [[Lithium-Battery-dat]]
+
+
+
 
 ## Demo 
 
