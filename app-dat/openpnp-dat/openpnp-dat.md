@@ -94,15 +94,18 @@ DIY Pick and Place by Teton Technology – An Open Source DIY cartesian PnP mach
 ### Yamaha CL Feeders
 - Yamaha CL Feeders (available on Aliexpress and Robotdigg) if you want auto feeders. Make sure to get a mounting block, too.
 
+
+
+## Commerialized Options 
+
+- [demo video 1](https://t.me/electrodragon3/333)
+
+
+
 ### ref 
+
 - [build FAQ](https://github.com/openpnp/openpnp/wiki/Build-FAQ)
 
-
-
-
-
-
-## ref 
 
 - [[PNP-machine-dat]] 
 
