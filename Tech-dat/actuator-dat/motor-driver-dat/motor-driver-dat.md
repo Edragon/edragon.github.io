@@ -1,6 +1,7 @@
 
 # motor-driver-dat
 
+[legacy wiki page](https://www.electrodragon.com/w/Category:Driver_Board) 
 
 ## Board 
 
@@ -17,7 +18,9 @@
 
 ## stepper motor 
 
-- [[L298-dat]] - [[A4988-dat]] - [[TB67H450-dat]] - [[TB6612-dat]] - [[LV8729-dat]]
+- [[A4988-dat]] - [[TB67H450-dat]] - [[TB6612-dat]] - [[LV8729-dat]]
+
+- [[L293-dat]] - [[L298-dat]] 
 
 - [[DRV8833-dat]] - [[DRV8825-dat]] - [[drv8837-dat]] - [[drv8313-dat]]
 
