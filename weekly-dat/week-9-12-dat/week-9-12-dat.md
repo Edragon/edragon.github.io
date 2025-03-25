@@ -17,6 +17,10 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[ESP1000-dat]] board optimized to V1.1 version, ease the use of the power supply 
 
+- [[video-rc-car-dat]]
+
+- we are going to buy a [[openpnp-dat]] commerialized machine, see demo video inside
+
 ## Dissusion, Feedback, To-do
 
 
