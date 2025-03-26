@@ -8,6 +8,11 @@ https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
 
 ![](2024-12-26-15-08-01.png)
 
+- L/R
+- WS
+- SD
+- SCK
+
 
 ## wiring to ESP32 
 

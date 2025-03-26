@@ -98,9 +98,9 @@ DIY Pick and Place by Teton Technology – An Open Source DIY cartesian PnP mach
 
 ## Commerialized Options 
 
-- [demo video 1](https://t.me/electrodragon3/333)
-
-
+- [commerilized demo video 1 - camera sensing](https://t.me/electrodragon3/333)
+- [commerilized demo video 2 - full process](https://t.me/electrodragon3/335)
+- [commerilized demo video 3 - nozzle switching](https://t.me/electrodragon3/336)
 
 ### ref 
 

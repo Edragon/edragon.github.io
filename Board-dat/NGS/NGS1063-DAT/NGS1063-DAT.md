@@ -77,4 +77,4 @@ Test commands
 
 - [[NGS1063-SDK-DAT]]
 
-- [[NGS1063]] 
+- [[NGS1063]] - [[NGS1063-fab]]
