@@ -75,6 +75,9 @@ I2S speaker - [[PCM5122-dat]] - [[MPC1083-dat]] - [[MAX98357-dat]] - [[PCM5102-d
 - [[software-i2s-dat]]
 
 
+
+
+
 ## demo video 
 
 - [[MAX98357-dat]] works with [[ESP32-dat]] - https://x.com/electro_phoenix/status/1877255863846465989

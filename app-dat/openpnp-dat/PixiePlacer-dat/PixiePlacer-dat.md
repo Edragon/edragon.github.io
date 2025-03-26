@@ -23,6 +23,11 @@ https://www.youtube.com/@pixieplacer
 - [frame assembly at here](https://cad.onshape.com/documents/5e890b89298a697f7602c354/w/0c6531c398b6b31c88cb0ec1/e/174e4411811158364858aed9)
 
 
+
+## building logs 
+
+- [3d prints and frames](https://t.me/electrodragon3/337)
+
 ## ref 
 
 - [[CAD-dat]]
