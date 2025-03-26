@@ -4,7 +4,7 @@
 
 ## Board map 
 
-![](2023-09-14-16-28-37.png)
+![](2025-03-26-15-31-33.png)
 
 bottom pin definitions 
 - GND
@@ -37,9 +37,9 @@ top pin definitions
 
 ## jumper select 
 
-- SJ2 - RPI_IO4 or VBAT 
-- back SJ - 3V3 or VBAT 
-
+- SJ2: set boot mode - RPI_IO4 or AUTO 
+- back SJ: set logic level - 3V3 or VBAT 
+- P26 - DTR: RPI IO26 to read DTR pin
 
 ## Antenna 
 
