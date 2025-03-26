@@ -63,7 +63,9 @@ Test commands
 
 - support [[LBS-dat]] and [[GPS-dat]]
 
+## demo video 
 
+- [for the default firmware TG](https://t.me/electrodragon3/340)
 
 ## ref 
 
