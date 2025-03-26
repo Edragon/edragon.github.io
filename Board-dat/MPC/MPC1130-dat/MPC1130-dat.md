@@ -24,10 +24,23 @@ https://www.electrodragon.com/product/rpi-passive-3ch-rgb-matrix-drive-board-v0/
 
 - https://www.youtube.com/shorts/7zcytJmziE4
 
+## Summary of LED Control Board Feedback
 
-## ref 
+Board Compatibility & Performance:
 
-- [[RPI3-dat]]
+- The passive-3 control board works well with ABCDE panels without requiring additional GPIO slowdown
+- With ABC panels (using shift registers), it needs high GPIO slowdown (--led-slowdown-gpio=8)
+- Comparatively, the active board requires only --led-slowdown-gpio=7 to function properly
+
+For two types of **flexible** P2 128x64 panels:
+
+- ABCDE panels have problematic magnetic connectors (2.5mm screws too shallow)
+- ABC panels have better 3mm screw frames but require shift register handling
+
+Chip Compatibility:
+
+- New chips (SM5368 and DP32020A) have subtle timing incompatibilities with rpi-rgb-panel software
+- This issue needs further debugging with a logic analyzer
 
 ## update Logs 
 
@@ -42,4 +55,8 @@ Current version is V1 to quick start
 - added slik print to mark clearly of the orders of the connectors 
 - have two pins on the board to easily attach 5 volts
 
+
+## ref 
+
+- [[RPI3-dat]]
 
