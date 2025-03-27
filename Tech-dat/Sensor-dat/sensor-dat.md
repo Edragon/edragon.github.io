@@ -2,7 +2,7 @@
 # sensor-dat 
 
 
-- [[camera-dat]] - [[microphone-sensor-dat]]
+- [[Camera-dat]] - [[microphone-sensor-dat]]
 
 - [[motion-sensor-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]]
 

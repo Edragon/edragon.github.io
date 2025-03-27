@@ -30,6 +30,6 @@
 
 ## ref
 
-- [[camera-dat]] - [[omni-vision-dat]]
+- [[Camera-dat]] - [[omni-vision-dat]]
 
 - [[SCM1009]] - [[SCM1008]] - [[SCM1030]]
