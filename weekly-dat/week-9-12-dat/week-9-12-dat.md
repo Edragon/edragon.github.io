@@ -21,6 +21,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - we are going to buy a [[openpnp-dat]] commerialized machine, see demo video inside
 
+- [[fiber-optic-transceiver-dat]]
+
 ## Dissusion, Feedback, To-do
 
 
