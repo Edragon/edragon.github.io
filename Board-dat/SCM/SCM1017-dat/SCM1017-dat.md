@@ -9,7 +9,7 @@
  
 ## Applications, category, tags, etc. 
 
-- [[camera-dat]]
+- [[Camera-dat]]
 
 ## Demo Code and Video
  

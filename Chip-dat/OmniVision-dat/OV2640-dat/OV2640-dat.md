@@ -69,6 +69,6 @@ in a table :
 
 ## ref 
 
-- [[MIPI-CSI-dat]] - [[CAM-dat]]
+- [[MIPI-CSI-dat]] - [[Camera-dat]]
 
 - [[LDO-2CH-dat]]
