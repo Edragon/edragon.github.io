@@ -26,3 +26,20 @@ UVC (**USB Video Class**) is a standard that allows USB video devices, such as w
 On Linux, you can check if a device supports UVC with:
 
     lsusb | grep -i uvc
+
+
+
+## USB
+
+Works with USB webcams and UVC-compatible cameras.
+
+More flexible but may have higher latency and lower performance compared to CSI.
+
+Requires drivers if the camera isn't UVC-compliant.
+
+
+## Android APPs 
+
+USB Camera
+- https://play.google.com/store/apps/details?id=com.shenyaocn.android.usbcamera&hl=en
+- https://www.apkmirror.com/apk/%E6%B2%88%E5%9E%9A-shenyao-china/usb-camera/variant-%7B%22minapi_slug%22%3A%22minapi-18%22%7D/
