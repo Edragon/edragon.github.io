@@ -5,7 +5,7 @@
 
 ## Info 
  
-[product url - 0.3M Laptop Build-in Camera PCB](https://www.electrodragon.com/product/0-3m-laptop-build-camera-board/)
+[product url - Laptop Build-in Camera PCB](https://www.electrodragon.com/product/0-3m-laptop-build-camera-board/)
 
 ## Board Images and Dimension
 

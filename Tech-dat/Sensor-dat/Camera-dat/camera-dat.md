@@ -39,7 +39,18 @@ OV series - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]
 
 [[analog-video-dat]]: - NA
 
+## Camera Functionalities
 
+- [[Camera-Functionalities-dat]]
+- 
+- [[auto-focus-dat]]
+
+- [[3D-camera-dat]] - [[night-vision-dat]] - [[camera-pan-dat]] - [[camera-tilt-dat]] - [[camera-zoom-dat]]
+
+
+## use-guide 
+
+- [[ESP32-cam-dat]] - [[RPI-camera-dat]]
 
 
 

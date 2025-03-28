@@ -384,7 +384,7 @@ MT7688
 
 [[camera-dat]]
 
-- [[SCM1030-dat]]
+- [[SCM1030-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]]
 
 
 ### SCU
