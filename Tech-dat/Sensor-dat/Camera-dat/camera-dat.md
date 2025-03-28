@@ -33,6 +33,8 @@ OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM10
 
 ## Camera Interface 
 
+- [[USB-camera-dat]]
+
 - [[camera-interface-dat]] - [[SCCB-dat]] - [[CSI-dat]] - [[UVC-dat]] - [[analog-video-dat]] - [[HDMI-dat]]
 
 [[CSI-dat]]: - [[MPC1080-dat]]   
