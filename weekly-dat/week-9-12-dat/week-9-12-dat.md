@@ -19,11 +19,9 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[ESP1000-dat]] board optimized to V1.1 version, ease the use of the power supply 
 
-- [[video-rc-car-dat]]
+- working on a new fun project [[video-rc-car-dat]], hopefully with 1KM [[fiber-optic-transceiver-dat]]
 
 - we are going to buy a [[openpnp-dat]] commerialized machine, see demo video inside
-
-- add information for [[fiber-optic-transceiver-dat]]
 
 - update raspberry pi camera and gpio driven articles here: - [[RPI-camera-dat]]
 

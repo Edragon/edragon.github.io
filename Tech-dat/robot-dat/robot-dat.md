@@ -1,11 +1,19 @@
 
 # robot-dat
 
-## robot tank with camera 
-
-- https://github.com/YahboomTechnology/Raspberry-pi-G1-Tank
-
-
 ## tech 
 
-- [[RPI-dat]] - [[camera-dat]] - [[PS2-console-dat]]
+[[control-dat]] - [[RPI-dat]] - [[PS2-console-dat]]
+
+[[sensor-dat]] - [[camera-dat]] 
+
+[[power-dat]] - [[lithium-battery-dat]]
+
+[[acturator-dat]] - [[motor-dat]] - [[servo-dat]] - [[reduction-gear-motor-dat]]
+
+
+
+## APP 
+
+- [[rc-car-dat]]
+
