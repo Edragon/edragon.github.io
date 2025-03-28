@@ -4,9 +4,17 @@
 
 - accessoires please read at page [[125khz-dat]]
 
-- product link - https://www.electrodragon.com/product/125khz-rfid-long-distance-module-40cm-serial/
+- [product link - 125Khz RFID Long Distance Reader Module, 40CM, UART [Kit]](https://www.electrodragon.com/product/125khz-rfid-long-distance-module-40cm-serial/)
+  
 - card and accessories link - https://www.electrodragon.com/?s=125khz&post_type=product
 
+
+
+## Notice:
+
+**Notice demo video shows the BEST ideal setup**, different setup can not get the same good result. Read more details in our wiki instructions.
+
+**Please ONLY use with high quality cards**, if you use other cards, it may not work as expected distance.
 
 ## pin definitions 
 
