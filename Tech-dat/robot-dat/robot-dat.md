@@ -9,7 +9,7 @@
 
 [[power-dat]] - [[lithium-battery-dat]]
 
-[[acturator-dat]] - [[motor-dat]] - [[servo-dat]] - [[reduction-gear-motor-dat]]
+[[acturator-dat]] - [[motor-dat]] - [[servo-dat]] - [[reduction-gear-motor-dat]] - [[servo-gimbal-dat]]
 
 [[BOM-dat]] - [[wheel-dat]]
 
@@ -20,6 +20,13 @@
 
 - [[rc-car-dat]] - [[robot-arm-dat]]
 
+
+## Code and SDK 
+
+- [smart-car](https://github.com/smartcar/python-sdk)
+
+
 ## ref 
 
 
+- [[tech-dat]]
