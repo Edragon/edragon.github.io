@@ -4,6 +4,12 @@
 USB video V1.1 compliance (UVC)
 
 
+What is the UVC protocol?
+
+The full name of UVC is USB video class or USB video device class. It is a protocol standard jointly launched by Microsoft and several other equipment manufacturers for USB video capture devices. 
+
+It has become one of the USBorg standards. Hardware that meets the UVC specification does not need to install any drivers and can be used normally.
+
 
 ## Understanding UVC Signal (USB Video Class)
 
