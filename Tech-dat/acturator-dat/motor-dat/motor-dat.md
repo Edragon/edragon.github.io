@@ -1,6 +1,18 @@
 
 # motor-dat
 
+## motor specs 
+
+- [[torque-dat]]
+
+## motor type 
+
+- [[reduction-gear-motor-dat]]
+
+- [[dc-motor-dat]] - [[vibrator-dat]]
+
+- [[stepper-dat]] - [[servo-dat]]
+
 ## How to identify the common port of a 4-wire motor: 
 
 Use the resistance * 1 position of the multimeter to measure the four terminals separately. 
