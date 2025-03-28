@@ -2,9 +2,9 @@
 
 # camera-dat 
 
-legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
-- [[cemera-interface-dat]] - [[camera]] - [[video-transmission-dat]]
+
+- [[camera-interface-dat]] - [[camera]] - [[video-transmission-dat]]
 
 
 ## boards 
@@ -14,8 +14,6 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 - [[MPC1080-dat]]
 
 - [[SCM1000-dat]] - [[SCM1002-dat]] - [[SCM1012-dat]] - [[SCM1013-dat]] - [[SCMS015-dat]]
-
-
 
 
 ## Chip 
@@ -31,13 +29,17 @@ OV series - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]
 
 ## Camera Interface 
 
-- [[camera-interface-dat]] - [[SCCB-dat]] - [[CSI-dat]] - [[UVC-dat]]
+- [[camera-interface-dat]] - [[SCCB-dat]] - [[CSI-dat]] - [[UVC-dat]] - [[analog-video-dat]] - [[HDMI-dat]]
 
 [[CSI-dat]]: - [[MPC1080-dat]]   
 
 [[SCCB-dat]]: - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] 
 
-[[UVC-dat]]: - [[SCM1020-dat]] - [[SCM1002-dat]]
+[[UVC-dat]]: - [[SCM1020-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]]
+
+[[analog-video-dat]]: - NA
+
+
 
 
 

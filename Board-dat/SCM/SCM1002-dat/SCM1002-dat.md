@@ -1,13 +1,19 @@
 
 # SCM1002-dat 
 
+
+
 ## Info 
  
 [product url - 0.3M Laptop Build-in Camera PCB](https://www.electrodragon.com/product/0-3m-laptop-build-camera-board/)
- 
+
+## Board Images and Dimension
+
+![](2025-03-28-13-52-58.png)
+
 ## Applications, category, tags, etc. 
 
-- [[camera-dat]]
+- [[camera-dat]] - [[UVC-dat]]
 
 ## Demo Code and Video
 
@@ -47,7 +53,7 @@ how to tune the lens distance manually
 
 - Chicony 
  
-- [[SCM1002]] 
+- [[SCM1002]] - [[SCM]]
  
 - legacy wiki page 
  

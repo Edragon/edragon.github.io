@@ -1,6 +1,6 @@
 # OmniVision-dat
 
-
+legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
 
 ## Chip Overview
@@ -30,6 +30,6 @@
 
 ## ref
 
-- [[Camera-dat]] - [[omni-vision-dat]]
+- [[Camera-dat]] - [[omnivision-dat]]
 
 - [[SCM1009]] - [[SCM1008]] - [[SCM1030]]
