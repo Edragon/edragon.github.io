@@ -1,9 +1,8 @@
 
 # SCM1008-dat 
 
-https://www.electrodragon.com/product/ov7670-camera-module-breakout-board-power-cable/
 
-
+[OV7670 Camera Module [FIFO]](https://www.electrodragon.com/product/ov7670-camera-module-breakout-board-power-cable/)
 
 ## Pin Definitions 
 

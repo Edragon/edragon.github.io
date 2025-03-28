@@ -1,11 +1,14 @@
 
 # MPC1080-dat 
 
-https://www.electrodragon.com/product/raspberry-pi-camera-500mp-ov5647/
+
+
+[Raspberry Pi Camera, 5MP, OV5647](https://www.electrodragon.com/product/raspberry-pi-camera-500mp-ov5647/)
 
 
 
 ## Software use:
+
 1. Please use the latest official operating system, or raspi-config update the system
 2. Start the RPi firmware camera driver, select sudo raspi-config camera and open, and then restart
 3. Use the command line programs raspivid and raspistill to operate the camera to capture video clips or images.

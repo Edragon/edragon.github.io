@@ -17,6 +17,12 @@
 ![](2023-11-08-14-05-14.png)
 
 
+## interface 
+
+Serial Camera Control Bus (SCCB) interface
+
+![](2025-03-28-13-16-19.png)
+
 ## SCH 
 
 w/ESP32
