@@ -1,6 +1,8 @@
 
 # RC-car-dat
 
+- [[video-RC-car-dat]]
+
 basic [[tech-dat]] - [[robot-dat]]
 
 ## Tracked robot platform 
@@ -14,8 +16,22 @@ basic [[tech-dat]] - [[robot-dat]]
 
 ![](2025-03-25-15-00-18.png)
 
+## tricycle / four-wheels platform
 
-## robot tank with camera 
+![](2025-03-28-18-44-53.png)
+
+tricycle
+
+Four-wheel two-drive car
+
+Four-wheel drive car
+
+Omnidirectional four-wheel two-wheel drive car
+
+
+## other 
+
+### robot tank with camera 
 
 - https://github.com/YahboomTechnology/Raspberry-pi-G1-Tank
 

@@ -1,7 +1,8 @@
 
 # fiber-optic-transceiver-dat
 
-SFP to RJ45
+SFP to [[RJ45-dat]]
+
 The optical-to-electrical module converts the SFP optical port of the device into an RJ45 network port/electrical port.
 
 光转电模块是将设备SFP光口转成RJ45网口/即电口
