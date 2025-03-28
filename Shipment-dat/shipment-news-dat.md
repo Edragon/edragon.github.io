@@ -1,6 +1,29 @@
 
 # shipment-news-dat.md
 
+## April holidays in Hong Kong and abroad
+
+Hong Kong: April 4, April 18, April 19, April 21
+
+- April 18 (Good Friday): Germany, France, Netherlands, UK, Canada, Australia
+- April 20-21 (Easter): Germany, France, Netherlands, UK, Canada, USA, Australia
+- April 25 (Australia Army Day): Australia
+- April 26 (King's Day): Netherlands
+
+No pick-up or last-mile delivery will be arranged abroad on holidays. Packages arriving abroad during this period will be delayed. There will be a backlog before and after the holidays, and there will be a delay of 1-3 days. Please communicate with customers in advance!
+
+
+
+## Order number rule changes
+
+Currently the rule is R+customer ID+year-month-day+number of orders, 4 digits
+
+After the change, the rule is: R+customer ID+year-month-day+number of orders starting from 1 (the customer order is 1 for one order, 1000 for 1000 orders, no digits reserved)
+
+For example, the current R1416512503180001 will be changed to R1416512503181
+
+
+
 ## Hong Kong Federal Channel Notifications Summary
 
 US Customs Special Requirements Adjustment (Effective March 7, 2025)
