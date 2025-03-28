@@ -3,17 +3,13 @@
 
 - [[piezo-dat]]
 
-- [[TRIAC-dat]] 
-
 - [[relay-dat]] - [[SSR-relay-dat]]
 
-- [[servo-dat]]
-
-- [[mosfet-dat]]
+- [[servo-dat]] - [[stepper-dat]]
 
 - [[motor-dat]] - [[vibrator-dat]] - [[dc-motor-dat]]
 
-- [[motor-driver-dat]]
+- [[motor-driver-dat]] - [[mosfet-dat]] - [[switching-dat]] - [[TRIAC-dat]] 
 
 ## Boards 
 

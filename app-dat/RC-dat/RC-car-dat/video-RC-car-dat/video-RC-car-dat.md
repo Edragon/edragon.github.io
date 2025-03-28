@@ -2,9 +2,10 @@
 # video-RC-car-dat
 
 
-- [[Camera-dat]] - [[RC-car-dat]] - [[video-transmission-dat]] - [[robot-dat]]
+[[tech-dat]] - [[Camera-dat]] - [[RC-car-dat]] - [[video-transmission-dat]] - [[robot-dat]]
 
 
+## demos 
 
 ![](2025-03-25-14-43-46.png)
 
