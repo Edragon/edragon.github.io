@@ -42,4 +42,13 @@ Note: Ke and Kt are the parameters of the motor itself (without reduction gearbo
 ![](2025-03-28-15-30-04.png)
 
 ## products images 
+
 ![](2025-03-28-15-27-53.png)
+
+## dimension 
+
+![](2025-03-28-15-47-40.png)
+
+## ref 
+
+- [[reduction-gear-motord-dat]]

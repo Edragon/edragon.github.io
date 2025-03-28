@@ -25,6 +25,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - update raspberry pi camera and gpio driven articles here: - [[RPI-camera-dat]]
 
+- writing on the [[robot-dat]] tech stacks 
+
 ## Dissusion, Feedback, To-do
 
 
