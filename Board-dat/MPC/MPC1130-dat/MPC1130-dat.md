@@ -42,6 +42,9 @@ Chip Compatibility:
 - New chips (SM5368 and DP32020A) have subtle timing incompatibilities with rpi-rgb-panel software
 - This issue needs further debugging with a logic analyzer
 
+https://github.com/hzeller/rpi-rgb-led-matrix/issues/1773
+
+
 ## update Logs 
 
 Current version is V1 to quick start 

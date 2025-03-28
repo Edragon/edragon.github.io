@@ -72,6 +72,11 @@ ref
 ![](2024-12-06-18-10-13.png)
 
 
+## ref github 
+
+[[ESP32-dat]] based 
+- https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA
+- [Brian Lough](https://www.tindie.com/stores/brianlough/) (youtube link) for providing code contributions, hardware and suggestions
 
 
 ## ref
@@ -91,3 +96,6 @@ ref
 forum - https://rpi-rgb-led-matrix.discourse.group/t/looking-for-a-small-form-factor-3-channel-solution-smaller-than-electrodragon-active-3-board/905
 
 - development for [[RMP-RPI-CM4-dat]] will not work
+
+
+

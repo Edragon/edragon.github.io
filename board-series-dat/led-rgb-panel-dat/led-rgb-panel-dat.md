@@ -52,7 +52,7 @@ for outdoor ONLY P6 and P8
 
 - [[magnetic-screw-dat]] - [[led-full-panel-installation]]
 
-- [[led-rgb-panel-chip-dat]]
+- chips perforamcne issues [[led-rgb-panel-chip-dat]]
 
 ## Links
 
