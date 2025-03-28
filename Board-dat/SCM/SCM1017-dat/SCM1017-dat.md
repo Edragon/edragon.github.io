@@ -9,10 +9,11 @@
  
 ## Applications, category, tags, etc. 
 
-- [[Camera-dat]]
+- [[Camera-dat]] - [[OV7725-dat]]
 
 ## Demo Code and Video
  
+
 ## ref 
  
 - [[SCM1017]] 

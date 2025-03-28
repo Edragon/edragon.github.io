@@ -20,11 +20,15 @@
 
 [[OmniVision-dat]]
 
+- [[OV2710-dat]]
+
+- [[ov5659-dat]] - [[ov2659-dat]] 
+
 - [[OV7670-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[OV7725-dat]]
 
 - [[OV7740-dat]] - [[OV5642-dat]]
 
-OV series - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] - [[SCM1020-dat]]
+OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] - [[SCM1020-dat]] - [[SCM1004-dat]] 
 
 
 ## Camera Interface 
@@ -47,6 +51,11 @@ OV series - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]
 
 - [[3D-camera-dat]] - [[night-vision-dat]] - [[camera-pan-dat]] - [[camera-tilt-dat]] - [[camera-zoom-dat]]
 
+## output format 
+
+- [[MJPEG-dat]] - [[YUV-dat]] - [[RGB-dat]] - [[H264-dat]] 
+
+output format is MJPEG 640X480. Only in this format and resolution can a high frame rate be achieved.
 
 ## use-guide 
 
