@@ -12,6 +12,10 @@
 
 - [[BTT-DAT]]
 
+
+
+
+
 ## Compare 
 
 | Device                   | CPU                        | Clock Speed   | NPU           | GPU                             | RAM                                          | Multimedia                    | Connectivity                            | Target Use Case             | Power Efficiency | Price Range |
