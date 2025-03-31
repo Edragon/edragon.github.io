@@ -4,6 +4,20 @@
 - compare to - [[SSR-relay-dat]]
 
 
+# TRIAC Comparison Table
+
+| Feature                     | BT136                  | BTA12                  | BTA16                  | BT138                  |
+|-----------------------------|------------------------|------------------------|------------------------|------------------------|
+| **Maximum Voltage (V)**     | 600V                  | 600V                  | 600V                  | 600V                  |
+| **Maximum Current (A)**     | 4A                    | 12A                   | 16A                   | 12A                   |
+| **Gate Trigger Current (Igt)** | 5mA                  | 35mA                  | 35mA                  | 10mA                  |
+| **Holding Current (Ih)**    | 2mA                   | 25mA                  | 25mA                  | 15mA                  |
+| **Thermal Resistance (Rth)**| 75°C/W                | 60°C/W                | 60°C/W                | 75°C/W                |
+| **Package Type**            | TO-220                | TO-220                | TO-220                | TO-220                |
+| **Applications**            | General-purpose AC switching | Light dimmers, motor controls | High-power AC switching | General-purpose AC switching |
+
+
+
 ## TRIAC
 A TRIAC is a bidirectional, three-electrode AC switch that allows electrons to flow in either direction. 
 It is the equivalent of two SCRs connected in a reverse-parallel arrangement with gates connected to each other. A TRIAC is triggered into conduction in both directions by a gate signal like that of an SCR.
