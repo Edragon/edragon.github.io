@@ -19,16 +19,15 @@ https://www.electrodragon.com/product/apds9960-apds9930-sensor-breakout-board/
 
 ## ref cn 
 
-APDS-9960 手势识别/运动方向识别模块
+APDS-9960 Gesture Recognition/Motion Direction Recognition Module
 
-APDS-9960是一款集成 ALS、红外LED和接近检测器的光学模块和环境亮度感测 (ALS, Ambient Light Sensing)的环境亮度传感器，使用双光二极管来近似 0.01 lux 照度近似人眼的视觉反应，带有上限和下限阈值的可编程中断功能，高达16位分辨率，即使在深色玻璃后也能高灵活运作，接近传感器经过完全调校可进行100毫米物体检测，免除终端设备和次组件的工厂校准需求。环境光动态范围也从之前大10K lux增大到30K lux，太阳光校准大增至50K lux，大大提升了灵敏度并避免了强光干扰。可以在大1.0mm的Air Gap下精准工作，不用做外部隔离处理，极大的方便了客户的结构设计。其等待状态功耗 - 90μA 典型值，睡眠模式功率 - 2.2μA 典型值，更能节省能源；高达 400kHz (I2C 快速模式)专用中断引脚，提供 I2C 接口兼容，全集成方案，方便结构和电路设计，相信能给用户带来更好的设计体验和产品价值！
+The APDS-9960 is an optical module integrated with ALS, infrared LED, and proximity detector, as well as an ambient light sensor (ALS, Ambient Light Sensing). It uses dual photodiodes to approximate 0.01 lux illumination, mimicking the human eye's visual response. It features programmable interrupt functions with upper and lower thresholds, up to 16-bit resolution, and can operate flexibly even behind dark glass. The proximity sensor is fully calibrated for 100mm object detection, eliminating the need for factory calibration of terminal devices and subcomponents. The dynamic range of ambient light has increased from the previous 10K lux to 30K lux, and solar calibration has significantly improved to 50K lux, greatly enhancing sensitivity and avoiding strong light interference. It can work precisely with an air gap of up to 1.0mm without requiring external isolation, greatly simplifying structural design for customers. Its standby power consumption is 90μA (typical), and sleep mode power is 2.2μA (typical), saving energy. With a dedicated interrupt pin supporting up to 400kHz (I2C fast mode) and I2C interface compatibility, this fully integrated solution facilitates structural and circuit design, offering users a better design experience and product value!
 
-内置APDS-9960传感器，提供环境光与颜色测量，接近检测和非接触手势检测。有了这个RGB和手势感应器，你就可以控制一台计算机，单片机，机器人，它比你的手一个简单的刷卡功能强大的多！实际上，该手势传感器APDS-9960曾在三星GalaxyS5中使用。
+The built-in APDS-9960 sensor provides ambient light and color measurement, proximity detection, and non-contact gesture detection. With this RGB and gesture sensor, you can control a computer, microcontroller, or robot. It is far more powerful than a simple swipe function! In fact, the APDS-9960 gesture sensor was once used in the Samsung Galaxy S5.
 
-可应用环境光及RGB色彩感应、接近检测、手势检测中。 
+It can be applied in ambient light and RGB color sensing, proximity detection, and gesture detection.
 
-由于有四个红外传感器，您可以测量每个基本位置的光反射率随时间的变化，并将这些变化转换为手势。 我们的界面库可以检测定向手势（从左到右，从右到左，从上到下，从下到上），但理论上更复杂的手势，如之字形，顺时针或逆时针圆，近到远等都是可实现的。
-
+With four infrared sensors, you can measure the changes in light reflectivity at each basic position over time and convert these changes into gestures. Our interface library can detect directional gestures (left to right, right to left, top to bottom, bottom to top), but theoretically, more complex gestures such as zigzag, clockwise or counterclockwise circles, and near-to-far movements can also be achieved.
 
 
 ## ref 
