@@ -9,6 +9,8 @@
 
 - [[SDR1090-dat]] - [[SDR1079-dat]] - [[SDR1062-dat]]
 
+- [[SDR1060-dat]]
+
 ## chips 
 
 - [[ti-motor-dat]] 
