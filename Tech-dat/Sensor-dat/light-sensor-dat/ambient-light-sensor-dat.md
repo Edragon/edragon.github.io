@@ -1,11 +1,14 @@
 
 # ambient-light-sensor-dat
 
+## board 
 
-- [[SMO1090-dat]] - [[SSL1034-dat]] - [[BH1750FVI-dat]] - [[Ambient-light-sensor]] - [[ambient-light-sensor-dat]] - [[ambient-light-sensor-dat]]
-
-- [[ambient-light-sensor]]
+- [[SMO1090-dat]] - [[SSL1034-dat]] 
 
 
+## chip 
 - [[BH1750FVI-dat]]
 
+## ref 
+
+- [[ambient-light-sensor]]
