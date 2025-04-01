@@ -6,6 +6,10 @@
 
 - [[STH1010-dat]] - [[STH1046-dat]] - [[STH1036-dat]] - [[STH1033-dat]] - [[STH1020-dat]]
 
+- [[STH1063-dat]]
+
+- [legacy wiki page ](https://www.electrodragon.com/w/AM_Sensor)
+
 
 AM2322
 https://www.electrodragon.com/product/am2322-iic-temperaturehumanity-sensor/

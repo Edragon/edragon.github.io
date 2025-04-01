@@ -7,12 +7,13 @@
 
 - [[aosong-dat]]
 
-- [[LM75-dat]] 
+- [[LM75-dat]] - [[STH1071-dat]]
 
 - [[sensirion-dat]] - [[SHT4x-dat]]
 
 - [[microphone-sensor-dat]] - [[Electret-Condenser-Microphone-dat]]
 
+- [[BMP280-dat]]
 
 ## common use 
 
