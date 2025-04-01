@@ -424,7 +424,7 @@ Motion sensor
 
 - [[SSL1027-dat]] - [[SSL1075-DAT]] - [[SSL1072-dat]]
 
-- [[SSL1042-dat]] - [[SSL1045-dat]] - [[SSL1034-dat]]
+- [[SSL1042-dat]] - [[SSL1045-dat]] - [[SSL1034-dat]] - [[SSL1050-dat]]
 
 [[buzzer-dat]] - [[SSL1019-dat]]
 
