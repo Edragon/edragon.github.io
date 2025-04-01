@@ -14,6 +14,10 @@ an image capture of nescafe and PC
 ![](2025-03-28-16-53-30.png)
 
 
+
+
+
+
 ## ref
 
 - [[camera-dat]]

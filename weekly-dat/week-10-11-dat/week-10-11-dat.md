@@ -13,7 +13,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[PCB-dat]]   == add information about - [[export-coordinate-dat]] - [[mark-point-dat]]
 
-
+- [[analog-video-dat]] == add information about the "Get the Necessary Equipment" and - [[s-video-dat]]
 
 
 ## Dissusion, Feedback, To-do
