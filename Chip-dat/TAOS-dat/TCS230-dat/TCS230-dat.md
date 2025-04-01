@@ -5,6 +5,11 @@
 
 - https://w.electrodragon.com/w/TCS230
 
+## schematic 
 
+![](2024-04-28-16-21-44.png)
+
+
+## board
 
 - [[SSL1037-dat]]
