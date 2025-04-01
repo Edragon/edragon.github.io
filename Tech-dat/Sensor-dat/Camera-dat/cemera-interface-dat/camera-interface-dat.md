@@ -23,3 +23,9 @@
    Android provides its own camera API (Camera2 API) for controlling and processing video feeds from the internal cameras.
 
 For external camera integration, using a UVC-compatible device or an IP camera with a network stream would be the most straightforward ways to transmit video data that Android can read.
+
+
+
+## ref 
+
+- [[camera-interface]] - [[camera]]
