@@ -1,9 +1,6 @@
-
 # NRF24L01-dat
 
 https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
-
-
 
 ## Feature of NRF24L01:
 
@@ -18,6 +15,13 @@ https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 - 51, AVR reference code is available, simply copy and modify
 - Transfer distance can reach 1000 meters @ 250 Kbps (normally can reach 0.8KM)
 
+## Variations
+
+*   **NRF24L01:** The original, basic version.
+*   **NRF24L01+ (Plus):** Improved version with lower current consumption and better sensitivity.
+*   **NRF24L01-TW / NRF24L01B:**  Appears to be the same as NRF24L01, but with +7dBm transmit power.
+*   **Long Range Versions (+20dBm):** Offers significantly extended range due to the higher transmit power. Example: [[NWL1050-dat]].
+
 ## boards 
 
 [[arduino-dat]] integrated 
@@ -26,11 +30,14 @@ https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 Genuine Chip
 - [[NWL1053-dat]]
 
-Long range version 
+Long range version == +20 DBm 
 - [[NWL1050-dat]]
   
-NRF24L01-TW version 
-- [[NWL1032-dat]] - [[NWL1010-dat]] 
+NRF24L01-TW version == NRF24L01B == Power at +7Db
+- [[NWL1032-dat]] 
+
+cost-effective cheap version == 24L01
+- [[NWL1010-dat]] 
 
 - [[RF-dat]]
 

@@ -7,6 +7,8 @@
 
 - [[PCB-dat]]
 
+- [[pnp-machine-software-dat]]
+
 ## BOM overview 
 
 
