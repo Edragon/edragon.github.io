@@ -7,6 +7,26 @@
 
 - old version - [[3201579-dat]] - https://www.electrodragon.com/product/arduino-color-recognition-sensor-tcs230-module-detector-for-mcuavr/
 
+
+## Features 
+
+1. Onboard TCS3200 color sensor
+
+2. With [wide-angle lens], detachable, can identify large or small objects.
+
+3. Support 3V-5V voltage input
+
+4. All the pins of the chip have been brought out, and the pins are standard 100mil (2.54mm), which is convenient for dot matrix boards
+
+5. With 4 high-brightness white LEDs, it can illuminate some objects that do not emit light by themselves. The light-emitting tube is controllable.
+
+6. S1 S2 S3 S4 can be pulled up or down on the board.
+
+7. There are 2 3mm mounting screw holes, with a spacing of 16.5mm
+
+7. PCB size: 23mm X 30mm
+
+
 ## Wiring 
 
 ![](2024-04-28-16-24-10.png)
@@ -147,6 +167,6 @@ code
 
 ## ref 
 
-- [[color-sensor-dat]]
+- [[color-sensor-dat]] - [[TCS230-dat]]
 
 - [[SSL1037]]
