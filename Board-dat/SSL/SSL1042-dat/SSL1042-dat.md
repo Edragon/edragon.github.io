@@ -1,7 +1,7 @@
 
 # SSL1042-dat
 
-- [[SSL1045-dat]]
+- refer to page [[SSL1045-dat]] for more info
 
 
 
