@@ -22,16 +22,13 @@ https://www.electrodragon.com/product/2-4g-wireless-module-a7105/
 
 ## Note 
 
-VCC 脚接电压范围为1.9V~3.6V 之间，不能在这个区间之外，超过 3.6V 将会烧毁模块。推荐电压 3.3V 左右。除电源 VCC 和接地端，其余脚都可以直接和普通的 5V 单片机 IO口直接相连，无需电平转换。当然对3V左右的单片机更加适用了。
+VCC pin voltage range is between 1.9V~3.6V. It should not be outside this range, exceeding 3.6V will burn the module. Recommended voltage is around 3.3V. Except for the power supply VCC and ground, the remaining pins can be directly connected to ordinary 5V microcontroller IO ports without level conversion. Of course, it is more suitable for microcontrollers around 3V.
 
-注意事项：
+Precautions:
 
-与51系列单片机P0口连接时候，需要加10K的上拉电阻,与其余口连接不需要。其他系列的单片机，如果是 5V 的，请参考该系列单片机 IO 口输出电流大小，如果超过 10mA，需要串联电阻分压，否则容易烧毁模块! 如果是3.3V的，可以直接和nRF24l01模块的IO口线连接，比如AVR系列单片机。
+When connecting to the P0 port of the 51 series microcontroller, a 10K pull-up resistor is required. It is not required when connecting to other ports. For other series of microcontrollers, if it is 5V, please refer to the output current of the microcontroller's IO port. If it exceeds 10mA, a series resistor is required for voltage division, otherwise the module may be burned! If it is 3.3V, it can be directly connected to the IO port line of the nRF24l01 module, such as the AVR series microcontroller.
 
- 
-
-无线模块为静电敏感器件，使用时请注意静电防护，特别是在干燥的冬季 尽量不用收去触摸模块上的器件，以免造成不必要的损坏。
-
+The wireless module is an electrostatic sensitive device. Please pay attention to electrostatic protection during use, especially in dry winter. Try not to touch the devices on the module to avoid unnecessary damage.
 
 ## ref 
 

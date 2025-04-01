@@ -1,5 +1,5 @@
 
-# NRF24L01 
+# NRF24L01-dat
 
 https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 
@@ -18,6 +18,21 @@ https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 - 51, AVR reference code is available, simply copy and modify
 - Transfer distance can reach 1000 meters @ 250 Kbps (normally can reach 0.8KM)
 
+## boards 
+
+[[arduino-dat]] integrated 
+- [[DVA1002-dat]]
+
+Genuine Chip
+- [[NWL1053-dat]]
+
+Long range version 
+- [[NWL1050-dat]]
+  
+NRF24L01-TW version 
+- [[NWL1032-dat]] - [[NWL1010-dat]] 
+
+- [[RF-dat]]
 
 
 ## SCH 
@@ -29,3 +44,13 @@ with STM32
 with arduino 
 
 ![](2024-09-05-17-24-52.png)
+
+## demo code 
+
+- http://electrodragon.com/?p=1134
+
+## ref 
+
+- [legacy wiki page](https://w.electrodragon.com/w/Category:NRF24)
+
+[[A7105-dat]]: - [[NWL1058-dat]]

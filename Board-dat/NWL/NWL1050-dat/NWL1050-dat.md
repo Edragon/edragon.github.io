@@ -3,7 +3,9 @@
 
 https://www.electrodragon.com/product/1000-meters-nrf24l01-long-distance-module/
 
-legacy wiki page - https://w.electrodragon.com/w/Category:NRF24
+long range version 
+
+[legacy wiki page](https://w.electrodragon.com/w/Category:NRF24)
 
 ## ref 
 
