@@ -384,7 +384,7 @@ MT7688
 
 [[camera-dat]]
 
-- [[SCM1030-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]]
+- [[SCM1030-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]] - [[SCM1008-dat]]
 
 
 ### SCU
@@ -400,7 +400,7 @@ Darlinton driver - [[SCU1024-dat]]
 
 - [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1106-dat]] - [[SDR1113-DAT]] - [[sdr1070-dat]]
 
-- [[sdr1062-dat]]
+- [[sdr1062-dat]] - [[SDR1060-dat]]
 
 ### SMO
 
@@ -421,9 +421,12 @@ Motion sensor
 - [[STM1004-DAT]]
   
 ### SSL 
-- [[SSL1027-dat]] - [[SSL1075-DAT]]
 
-- [[SSL1042-dat]] - [[SSL1045-dat]]
+- [[SSL1027-dat]] - [[SSL1075-DAT]] - [[SSL1072-dat]]
+
+- [[SSL1042-dat]] - [[SSL1045-dat]] - [[SSL1034-dat]]
+
+[[buzzer-dat]] - [[SSL1019-dat]]
 
 ### SVC
 
