@@ -1,6 +1,10 @@
 
 # wav-dat
 
+- test wave [[test.wav]]
+
+
+
 - [[arduino-wav.ino]] -[[SoundData.h]]
 
 - [the dac audio library for arduino](https://www.xtronical.com/the-dacaudio-library-download-and-installation/)
