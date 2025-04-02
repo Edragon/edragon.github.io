@@ -10,12 +10,15 @@ I2S Output Digital Microphone - [[INMP441-dat]] - [[MSM261S4030H0R-dat]]
 ## Common pins 
 
 
-| pin | explain          | [[INMP441-dat]] | [[ICS-43434-dat]] | [[MSM261S4030H0R-dat]] |
-| --- | ---------------- | --------------- | ----------------- | ---------------------- |
-| L/R | left/right       | yes             | yes               | yes                    |
-| WS  | data-word select | yes             | yes               | yes                    |
-| SD  | DATA             | yes             | yes               | yes                    |
-| SCK | clock            | yes             | yes               | yes                    |
+| model                  | L/R        | WS               | SD   | SCK   |
+| ---------------------- | ---------- | ---------------- | ---- | ----- |
+| explain                | left/right | data-word select | DATA | clock |
+| [[INMP441-dat]]        | yes        | yes              | yes  | yes   |
+| [[ICS-43434-dat]]      | yes        | yes              | yes  | yes   |
+| [[MSM261S4030H0R-dat]] | yes        | yes              | yes  | yes   |
+| [[SPH0645-dat]]        | yes        | yes              | yes  | yes   |
+
+
 
 
 
