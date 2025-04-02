@@ -45,7 +45,9 @@ The term "fresh air" for plants, in a technical sense, generally refers to an op
 
 - timing relay - [[mcu-relay]]
 
+### light 
 
+- [[full-spetrum-light-dat]] 
 
 ## mechnical structure 
 
