@@ -11,7 +11,7 @@
 
 ## Mechanical 
 
-- [[openpnp-dat]] - [[reprap-dat]]
+- [[openpnp-dat]] - [[reprap-dat]] - [[pnp-machine-dat]]
 
 ## pending 
 
@@ -24,6 +24,12 @@
 ## ideas 
 
 - [[home-plant-dat]] - [[Apocalypse-dat]] - [[video-RC-car-dat]]
+
+## driving 
+
+- [[robot-dat]] - [[quadcopter-dat]] - [[FPV-dat]]
+
+
 
 ## done 
 
