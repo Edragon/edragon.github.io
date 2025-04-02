@@ -1,6 +1,24 @@
 
 # Electret-Condenser-Microphone-dat
 
+- in short == ECM 
+
+
+An **Electret Condenser Microphone (ECM)** is a type of microphone that uses an electret material for its diaphragm and a built-in field-effect transistor (FET) to amplify the signal. It is one of the most common types of microphones used in consumer audio devices.
+
+Here's how the relationship between an ECM and the MAX9812 or ICS-41434 compares:
+
+### **Electret Condenser Microphone (ECM)**:
+
+1. **Type**: An analog microphone that uses a capacitor-based diaphragm (the electret) to capture sound.
+2. **Powering**: Requires a power source known as **bias voltage** (typically 1.5V to 10V), which is applied to the diaphragm and the internal FET for amplification.
+3. **Signal Output**: Provides an analog output signal that needs additional circuitry for amplification or processing.
+4. **Sensitivity**: Generally offers good sensitivity but can be susceptible to noise or interference unless properly shielded and processed.
+5. **Use Case**: Commonly used in a wide variety of applications, including consumer audio devices, microphones for cameras, recording, and communication systems.
+
+
+## board 
+
 - [[SSL1017-dat]]
 
 ## EM-B6050UL
