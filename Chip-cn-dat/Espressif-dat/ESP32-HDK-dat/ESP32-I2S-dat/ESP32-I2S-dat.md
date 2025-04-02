@@ -24,7 +24,9 @@ The I2S pins can be assigned to almost any GPIO pin using the ESP32's **flexible
 
 ## I2S devices 
 
-- [[MAX98357-dat]] - [[MSM261S4030H0R-dat]] - [[INMP441-dat]]
+- [[MAX98357-dat]] 
+
+- [[I2S-microphone-dat]]
 
 
 ## demo code 

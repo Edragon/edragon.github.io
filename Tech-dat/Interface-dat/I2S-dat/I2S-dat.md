@@ -82,6 +82,18 @@ I2S speaker - [[PCM5122-dat]] - [[MPC1083-dat]] - [[MAX98357-dat]] - [[PCM5102-d
 
 - [[MAX98357-dat]] works with [[ESP32-dat]] - https://x.com/electro_phoenix/status/1877255863846465989
 
+
+## code 
+
+https://github.com/sheaivey/ESP32-AudioInI2S
+
+https://github.com/atomic14/esp32_audio == [[platformIO-dat]]
+
+https://github.com/schreibfaul1/ESP32-audioI2S == easy
+
+https://github.com/earlephilhower/ESP8266Audio
+
+
 ## ref 
 
 https://en.wikipedia.org/wiki/I%C2%B2S
