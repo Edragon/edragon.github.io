@@ -146,3 +146,9 @@ In this coordinate system, we stand above the machine and look down at it:
 - **Y 轴**：前后移动。后为正。
 - **Z 轴**：上下移动。上为正。
 - **C 轴（旋转轴）**：顺时针和逆时针旋转。逆时针为正。
+
+
+
+## ref 
+
+- [[pnp-machine]]
