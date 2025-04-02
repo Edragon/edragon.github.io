@@ -5,7 +5,9 @@
 
 - [[amplifier-dat]] - [[dac-dat]]
 
+- hardware mp3 decodecr - [[VS1053-dat]] - [[VS1003-dat]] - [[VS1011-dat]] - [[VS1018-dat]] - [[VS1063-dat]]
 
+- [[I2S-dac-dat]] - [[I2S-microphone-dat]] - [[I2S-speaker-dat]] - [[I2S-amplifier-dat]]
 
 ## sound frequency 
 
@@ -32,3 +34,16 @@ Different Frequencies: If you'd like to test other audible frequencies, try valu
 - 523 Hz (C5) – A clear and bright tone.
 - 880 Hz (A5) – A higher-pitched tone.
 - 262 Hz (C4) – A lower-pitched tone.
+
+
+
+
+## code library 
+
+- https://github.com/kosme/arduinoFFT
+
+
+## ref 
+
+
+- https://www.arduino.cc/reference/en/libraries/arduinofft/
