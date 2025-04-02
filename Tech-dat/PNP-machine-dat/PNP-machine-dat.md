@@ -9,6 +9,8 @@
 
 - [[pnp-machine-software-dat]]
 
+- [[nozzle-dat]] - [[feeder-dat]]
+
 ## BOM overview 
 
 
