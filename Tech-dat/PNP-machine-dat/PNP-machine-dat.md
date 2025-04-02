@@ -1,15 +1,15 @@
 
 # PNP-machine-dat
 
-- [[openpnp-dat]] - [[PixiePlacer-dat]]
+- opensource options [[openpnp-dat]] - [[PixiePlacer-dat]]
 
-- [[lumenpnp-dat]]
+- commerlized options [[lumenpnp-dat]]
 
-- [[PCB-dat]]
+- relevant knowledge [[PCB-dat]] - [[EDA-dat]]
 
-- [[pnp-machine-software-dat]]
+- [[pnp-machine-software-dat]] - [[serial-dat]]
 
-- [[nozzle-dat]] - [[feeder-dat]]
+- compoennts [[nozzle-dat]] - [[feeder-dat]]
 
 ## BOM overview 
 

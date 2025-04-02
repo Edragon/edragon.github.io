@@ -19,10 +19,30 @@ https://github.com/photonfirmware/photon
 
 ## feeder installation 
 
+1-3. 
+
 ![](2025-04-02-14-08-06.png)
+
+4-6. 
 
 ![](2025-04-02-14-08-53.png)
 
+7-9.
+
 ![](2025-04-02-14-09-20.png)
 
+10-11. 
+
 ![](2025-04-02-14-09-46.png)
+
+12 
+
+![](2025-04-02-14-12-35.png)
+
+13. If the tape is broken (too tight) or the film cannot be peeled off, adjust this screw. Turn clockwise to increase the pulling force, and counterclockwise to decrease the pulling force. Rotate one-sixth of a turn each time, and click the forward button to test after rotation.
+
+![](2025-04-02-14-12-57.png)
+
+14. Because the plastic tape is too thin, the green pressure plate needs to be stuck on the metal strip and press down on the metal strip to expose the gear to the tape.
+
+![](2025-04-02-14-13-23.png)

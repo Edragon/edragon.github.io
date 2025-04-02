@@ -1,7 +1,9 @@
 
 # USB TTL Dat 
 
-- legacy wiki page - https://w.electrodragon.com/w/Serial
+- [legacy wiki page](https://w.electrodragon.com/w/Serial)
+
+- classic common options - [[CH340-dat]]
 
 ## Usage 
 
@@ -19,15 +21,15 @@ from the perspective of the cable to the perspective of the target
 
 ## Product links 
 
-- PL2303TA - [[DPR1041-dat]] 
-- PL2303HX - https://w.electrodragon.com/w/PL2303HX
+- [[PL2303-dat]] - PL2303TA - [[DPR1041-dat]] 
+- [[PL2303-dat]] - PL2303HX - https://w.electrodragon.com/w/PL2303HX
 
 
-- CH340 - [[DPR1042-dat]] - [[DPR1039-dat]]
+- [[CH340-dat]] - [[DPR1042-dat]] - [[DPR1039-dat]]
 
-- CP2102 - [[DPR1003-dat]], [[DPR1005-dat]]
+- [[CP2102-dat]] - [[DPR1003-dat]], [[DPR1005-dat]]
 
-- FT232RL - [[DPR1029-dat]]
+- [[FT232RL-dat]] - [[DPR1029-dat]]
 
 - 4x channels - [[DPR1120-dat]]
 
@@ -37,6 +39,7 @@ from the perspective of the cable to the perspective of the target
 
 
 ### programming for ESP32 or ESP8266 : 
+
 - TXD -> RXD
 - RXD -> TXD
 - 5V -> 5V
