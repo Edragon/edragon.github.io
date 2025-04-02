@@ -1,5 +1,4 @@
 
-# PNP-machine-errors-dat
 # PNP Machine Errors and Troubleshooting
 
 Common Faults and Solutions

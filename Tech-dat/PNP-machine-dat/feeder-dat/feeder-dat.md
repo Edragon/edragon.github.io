@@ -15,3 +15,14 @@ https://github.com/photonfirmware/photon
 - The QR code is used to quickly and automatically create visual identification markers for the feeders.
 
 ![](2025-04-02-14-00-01.png)
+
+
+## feeder installation 
+
+![](2025-04-02-14-08-06.png)
+
+![](2025-04-02-14-08-53.png)
+
+![](2025-04-02-14-09-20.png)
+
+![](2025-04-02-14-09-46.png)
