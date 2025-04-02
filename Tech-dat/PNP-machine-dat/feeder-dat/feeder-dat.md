@@ -9,6 +9,22 @@ Photon is Open-Source firmware for pick and place feeders.
 https://github.com/photonfirmware/photon
 
 
+## feeder 
+
+![](2025-04-02-16-36-14.png)
+
+## feeder base ray rail 
+
+![](2025-04-02-16-36-40.png)
+
+
+
+## feeder hang-out 
+
+![](2025-04-02-16-35-53.png)
+
+
+
 ## feeder ID 
 
 - Each electric feeder has a unique address number for communication with the host computer software. As shown in the figure, this feeder has three slots. The address numbers corresponding to each feeder slot, from left to right, are 571, 572, and 573.

@@ -9,15 +9,12 @@
 
 - [[pnp-machine-software-dat]] - [[serial-dat]]
 
-- compoennts [[nozzle-dat]] - [[feeder-dat]]
+- compoennts [[nozzle-dat]] - [[feeder-dat]] - [[XYZ-dat]]
+
+- [[vacuum-pump-dat]]
+
 
 ## BOM overview 
-
-
-## mechnical parts
-
-- [[XYZ-dat]] - [[feeder-dat]]
-
 
 
 ## electronics parts 
