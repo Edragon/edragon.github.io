@@ -14,18 +14,24 @@ Go-kart
 
 ## kit toy kart with electric motors
 
-solution 1 
+### solution 1 
 
 ![](2025-04-03-15-20-28.png)
 
 ![](2025-04-03-15-21-11.png)
 
-solution 2 
+
+
+## electric go-kart
+
+### version 2 
+
+![](2025-04-03-18-32-51.png)
 
 ![](2025-04-03-16-09-03.png)
 
 
-## electric go-kart
+### version 1 
 
 with suspension system, and [[Alu_Extrusion-dat]] [[frame-dat]]
 
