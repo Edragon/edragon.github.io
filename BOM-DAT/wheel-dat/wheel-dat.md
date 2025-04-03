@@ -12,6 +12,10 @@ The Mecanum wheel is a type of omnidirectional wheel that allows a vehicle to mo
 
 ## wheel with motor 
 
+mostly used for balancer kart, electric go-kart, and electric tri-cycle,
+
+
+
 ![](2025-04-03-15-14-31.png)
 
 ![](2025-04-03-15-15-58.png)
