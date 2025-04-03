@@ -29,7 +29,7 @@
 
 - [[robot-dat]] - [[quadcopter-dat]] - [[FPV-dat]]
 
-- [[electric-scooter-dat]] - [[electric-cart-dat]]
+- [[electric-scooter-dat]] - [[electric-kart-dat]] - [[electric-skateboard-dat]]
 
 ## done 
 
