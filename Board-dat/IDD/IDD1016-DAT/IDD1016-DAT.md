@@ -71,9 +71,8 @@ Note to connect the input HUB75 to input of the panel, and the output HUB75 to o
 
 ## demo video 
 
-- PxMatrix Demo video for [[ESP8266-dat]] - https://t.me/electrodragon3/20
-
 - IDD1013 wiring and coding demo - https://t.me/electrodragon3/146
+- PxMatrix Demo video for [[ESP8266-dat]] - https://t.me/electrodragon3/20
 
 
 ## ref 
