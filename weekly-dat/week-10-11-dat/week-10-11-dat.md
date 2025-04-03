@@ -23,3 +23,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 ## Interesting Readings, News
 
 - funny [[electric-kart-dat]] collection page 
+
+- new research page [[UAV-dat]]
+
+
+
