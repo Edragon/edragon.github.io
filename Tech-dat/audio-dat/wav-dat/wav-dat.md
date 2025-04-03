@@ -1,7 +1,7 @@
 
 # wav-dat
 
-- test wave [[test.wav]]
+- test wave [[test.wav]] = 1411 kbps
 
 
 

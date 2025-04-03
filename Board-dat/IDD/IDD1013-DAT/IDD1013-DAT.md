@@ -129,10 +129,9 @@ Updated by customer:
 
 ## Demo video 
 
-- https://t.me/electrodragon3/57
-- https://t.me/electrodragon3/231
-
-
+- https://t.me/electrodragon3/231 == weather demo 
+- https://t.me/electrodragon3/57 == pico board 
+- https://t.me/electrodragon3/41 == more demo, how to plug in 
 
 
 ## ref 
