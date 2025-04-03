@@ -59,6 +59,7 @@ The rest fixed used pin
 
 detailed wiring please refer to [pxmatrix code](https://github.com/2dom/PxMatrix)
 
+Note to connect the input HUB75 to input of the panel, and the output HUB75 to output of the panel by cable.
 
 ## demo code 
 
@@ -70,9 +71,9 @@ detailed wiring please refer to [pxmatrix code](https://github.com/2dom/PxMatrix
 
 ## demo video 
 
-- PxMatrix Demo video - https://t.me/electrodragon3/20
-- ESP32 with [[IDD1016-dat]] based on code PxMatrix - https://t.me/electrodragon3/41
--  more 1 - https://t.me/electrodragon3/146
+- PxMatrix Demo video for [[ESP8266-dat]] - https://t.me/electrodragon3/20
+
+- IDD1013 wiring and coding demo - https://t.me/electrodragon3/146
 
 
 ## ref 

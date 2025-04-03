@@ -9,6 +9,8 @@
 
 - [[I2S-dac-dat]] - [[I2S-microphone-dat]] - [[I2S-speaker-dat]] - [[I2S-amplifier-dat]]
 
+
+
 ## sound frequency 
 
     const int frequency = 600;    // Frequency of the square wave in Hz (600 cycles per second)

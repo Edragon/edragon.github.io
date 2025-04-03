@@ -17,3 +17,9 @@
 
     sudo apt install mpg123
     mpg123 /path/to/audiofile.mp3
+
+
+
+web stream: 
+
+    audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.mp3"); // 128k mp3 stream

@@ -129,10 +129,10 @@ Updated by customer:
 
 ## Demo video 
 
-- https://t.me/electrodragon3/57
-- https://t.me/electrodragon3/231
+- https://t.me/electrodragon3/57 == pico board 
+- https://t.me/electrodragon3/231 == weather demo 
 
-
+- ESP32 with [[IDD1013-dat]] based on code PxMatrix - https://t.me/electrodragon3/41
 
 
 ## ref 
