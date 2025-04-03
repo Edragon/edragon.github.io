@@ -6,6 +6,7 @@
 
 - [[camera-interface-dat]] - [[camera]] - [[video-transmission-dat]]
 
+- [[detecting-camera-dat]]
 
 ## boards 
 

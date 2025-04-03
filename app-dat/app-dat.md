@@ -1,29 +1,26 @@
 
 # app-dat
 
-## 2025
-
-- [[openpnp-dat]] - [[PixiePlacer-dat]] - [[PNP-machine-dat]]
-
-- [[metal-detector-dat]]
-
-- [[solar-power-dat]]
 
 ## Mechanical 
 
 - [[openpnp-dat]] - [[reprap-dat]] - [[pnp-machine-dat]]
 
-## pending 
+## gadgets 
 
-- [[internet-radio-dat]]
+- [[internet-radio-dat]] - [[ESP32-APP-dat]]
 
-- [[eneregy-meter-dat]]
+- [[metal-detector-dat]]
+  
+## Domestic Appliances 
 
-- [[logic-inverter-dat]] or [[data-logger-dat]]
+- [[logic-inverter-dat]] or [[data-logger-dat]], [[eneregy-meter-dat]]
 
-## ideas 
+- [[solar-power-dat]]
+  
+## topics 
 
-- [[home-plant-dat]] - [[Apocalypse-dat]] - [[video-RC-car-dat]]
+- [[home-plant-dat]] - [[Apocalypse-dat]] 
 
 
 ## Electrified in the air
@@ -32,18 +29,33 @@
   
 ## Electrified on the ground  
 
-- [[robot-dat]] 
+- [[robot-dat]] - [[video-RC-car-dat]]
 
 - [[electric-scooter-dat]] - [[electric-kart-dat]] - [[electric-skateboard-dat]]
 
 ## motorlized
 
-## done 
+...
 
-- [[detecting-camera-dat]]
 
-- [[ESP32-CAM-dat]] - [[ESP32-APP-dat]]
+## working and planning
 
-## good app maker 
+- [[video-RC-car-dat]]
 
-- [[CES-dat]] - kickstart - indiegogo
+- [[openpnp-dat]] - [[PixiePlacer-dat]] - [[PNP-machine-dat]]
+
+- [[metal-detector-dat]]
+
+- [[solar-power-dat]]
+
+
+## done or on-hold
+
+tech based - [[camera-dat]] - [[audio-dat]]
+
+
+
+
+## ref 
+
+- [[maker]]

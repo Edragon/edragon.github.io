@@ -3,7 +3,11 @@
 
 Go-kart
 
-- [[motor-dat]] - [[Drum-brake-motor-dat]] - [[wheel-dat]]
+- [[motor-dat]] - [[wheel-dat]]
+
+- [[lithium-power-battery-dat]]
+
+- [[Drum-brake-motor-dat]]
 
 ## electric tri-cycle
 ![](2025-04-03-15-50-31.png)
