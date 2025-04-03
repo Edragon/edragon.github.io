@@ -15,7 +15,7 @@
 
 - [[TDA-dat]] - [[TI-audio-dat]] - [[VLSI-dat]] - [[cirrus-dat]] - [[ISD-dat]]
 
-
+- [[Maxim-dat]]
 
 ## sound frequency 
 
