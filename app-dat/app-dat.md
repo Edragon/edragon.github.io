@@ -25,11 +25,18 @@
 
 - [[home-plant-dat]] - [[Apocalypse-dat]] - [[video-RC-car-dat]]
 
-## motorlized 
 
-- [[robot-dat]] - [[quadcopter-dat]] - [[FPV-dat]]
+## Electrified in the air
+
+- [[quadcopter-dat]] - [[FPV-dat]] - [[UAV-dat]]
+  
+## Electrified on the ground  
+
+- [[robot-dat]] 
 
 - [[electric-scooter-dat]] - [[electric-kart-dat]] - [[electric-skateboard-dat]]
+
+## motorlized
 
 ## done 
 
