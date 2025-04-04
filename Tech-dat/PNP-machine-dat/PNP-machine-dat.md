@@ -5,7 +5,7 @@
 
 - commerlized options [[lumenpnp-dat]]
 
-- relevant knowledge [[PCB-dat]] - [[EDA-dat]]
+- relevant knowledge in [[PCB-dat]] - [[EDA-dat]]
 
 - [[pnp-machine-software-dat]] - [[serial-dat]]
 
