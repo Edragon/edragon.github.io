@@ -1,9 +1,9 @@
 
 # PCB-dat 
 
-- [[export-coordinate-dat]]
+[[machine-dat]] - [[pnp-machine-dat]]
 
-- [[mark-point-dat]]
+- [[export-coordinate-dat]] - [[mark-point-dat]]
 
 ## basic 
 

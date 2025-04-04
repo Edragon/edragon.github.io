@@ -1,7 +1,11 @@
 
 # export-coordinate-dat
 
-## Preparation
+- standard coordinate file == [[standard-1.csv]]
+
+
+
+## Preparation == CSV coordinate file
 
 1.  The software's default unit is millimeters (mm), so your EDA drawing board software should also be set to millimeters, not mils.
 2.  For component drawing packages, try to place the center point at the geometric center rather than at PIN1.
@@ -22,6 +26,18 @@
     -   Layer,
     -   Rotation,
     -   Comment
+
+### CSV file header like 
+
+shoud be like this:
+
+    Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+
+and data line like 
+
+    C1,R0201,14.4mm,46.2mm,14.4mm,46.2mm,14.06mm,46.4mm,T,330,Comment
+
+
 
 ## PCB Drawing Board Origin
 
