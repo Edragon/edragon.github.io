@@ -13,6 +13,8 @@
 
 - [[vacuum-pump-dat]] - [[motor-dat]] - [[camera-dat]] - [[vision-dat]]
 
+- [[pnp-machine]]
+  
 ## BOM overview 
 
 
