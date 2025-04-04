@@ -1,6 +1,6 @@
 
 
-# Category  
+# Board Category A ~ Z 
 
 
 ## Board-REF
@@ -94,6 +94,11 @@ WCH - [[DPR1133-dat]]
 ### DVA 
 - [[DVA1002-dat]] - [[DVA1007-dat]]
 
+### ESP 
+
+- [[ESP1000-dat]] - [[ESP1001-dat]] - [[ESP1008-dat]]
+
+see more ESP32 apps at NWI section 
 
 ### IDD
 
@@ -255,7 +260,6 @@ Long range [[RFID-dat]]
 ### NGS
 
 
-
 SIMCOM - 2G - [[SIM800-dat]]
 - arduino-compatible base board [[NGS1072-DAT]]
 - [[NGS1070-dat]] - [[NGS1071-dat]]
@@ -350,7 +354,7 @@ ESP32-C3
 - [[NWI1223-dat]] - [[NWI1226-dat]] - [[NWI1235-DAT]] - [[NWI1243-dat]] 
 
 ESP32-APP
-- [[NWI1241-dat]] - [[NWI1245-DAT]] - [[NWI1252-dat]] - [[ESP1000-dat]] - [[ESP1001-dat]]
+- [[NWI1241-dat]] - [[NWI1245-DAT]] - [[NWI1252-dat]] 
 
 [[RDA5981-dat]]
 

@@ -5,7 +5,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 ## New Boards
 
-
+- board [[ESP1008-dat]] avaialble to buy and documentation ready 
 
 ## Development, Documents Updates
 
