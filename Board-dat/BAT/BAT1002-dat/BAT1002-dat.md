@@ -20,6 +20,8 @@ The open drain status output that is not used should be tied to ground.
 
 ## demo 
 
+- [demo video 2 - direct power from light ](https://t.me/electrodragon3/350)
+
 - https://x.com/electro_phoenix/status/1662021326901739520
 
 
