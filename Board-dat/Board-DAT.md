@@ -392,7 +392,7 @@ MT7688
 
 
 ### SCU
-- [[SCU1012-DAT]] - [[SCU1017-dat]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
+- [[SCU1012-DAT]] - [[SCU1015-dat]] [[SCU1017-dat]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
 - [[SCU1010-dat]]
 

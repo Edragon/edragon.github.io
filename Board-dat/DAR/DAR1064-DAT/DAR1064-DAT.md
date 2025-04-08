@@ -47,6 +47,28 @@
 
 ![](55-05-18-02-02-2023.png)
 
+
+keep alll the unused options as default 
+- Board: "AVR DB-series (Optiboot)"
+- Chip: "AVR128DB64"
+- Clock Speed: *24 MHz internal"
+- millis0/micros0) timer: "TCB2 (recommended)*
+- BOD level if enabled (Bootload burn req'd): "1.9V"
+- BOD Mode Active/Sleeping (Bootload burn req'd): *Disabled/Disabled"
+- WDT Timeout (Bootload burn req'd): “Disabled (recommended)
+- WDT "window" (Bootload burn req'd): *No delay before window "opens""
+- Reset pin function (Bootload burn req'd): *PF6: Reset (default boot entry on reset pin & SW r."
+- Startup Time: "8ms"
+- Bootloader Serial Port (Bootload burn req'd): *USART3: TX PB0, RX PB1 (48/64-pin only)
+- Bootloader Entry Condition (Bootload burn req'd): “Default (see documentation)"
+- MultiVoltage I/O (MViO) (Bootload burn req'd): “Enabled (burn bootloader req'd)*
+- attachlnterrupt0 Version: *On all pins, with new implementation."
+- printfO: "Default (doesn't print floats, 1.4k flash use)"
+- Wire (Wire.h/I2C) Library mode: *1x Wire, Master or Slave (least Flash & RAM)*
+- How to set FLMAP: "Use last FLMAP section, lock FLMAP, provide PROGME.."
+- Port
+- Get Board Info
+
 ## Crystal Setup 
 
 - please notice all crystal are not populated, normally use the internal clock is enough
@@ -67,11 +89,15 @@
 
 - [A quick start guide video please see here. Easy to use with Atmel-ICE or other UPDI programming methods.](https://www.youtube.com/watch?v=IgVMIRHFTLs)
 
+- demo code == [arduino2](https://github.com/Edragon/arduino-main2)
+
 
 ## ref 
 - https://w.electrodragon.com/w/Category:AVR128#AVR128_Board
 
 - [[UPDI-DAT]] - [[CH340-DAT]] - [[CH341-DAT]] - [[avr128-dat]]
+
+- [[arduino-dat]]
 
 - [[DAR1064]] 
 
