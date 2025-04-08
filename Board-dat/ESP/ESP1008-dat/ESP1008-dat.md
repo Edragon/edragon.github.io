@@ -1,7 +1,24 @@
 
-# esp32-i2s-board
+# ESP1008-dat
+
+old called esp32-i2s-board
+
+## Info
+
+product url - 
+
+### Board Map, Dimension, Pins, etc.
+
+![](2025-04-08-17-08-20.png)
+
+- set purple pin jumpers to left for audio amplifier, and right for direct output 
+- yellow pin to set to mute the amplifier 
+- red to set left or right channels for two microphones 
+- orange leds for power indication and IO15 programmer led
+- blue pins for SD MMC high speed SD card setup IO2 
 
 
+## Applications, category, tags, etc. 
 
 
 ## SDMMC_Test 
@@ -78,3 +95,6 @@ or
 - [[audio-dat]]
 
 - irrelevant == - [[SCM1030-dat]] 
+
+- [[ESP1008]] 
+
