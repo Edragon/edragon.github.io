@@ -9,7 +9,7 @@
 
 ## Applications, category, tags, etc. 
 
-- [[Connector-dat]]
+- [[CONN-dat]]
 
 - [[conn-pin-header-dat]]: add order note if you need other bend version, MOQ 10x10pcs 
 

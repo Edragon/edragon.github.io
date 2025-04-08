@@ -1,6 +1,8 @@
 
 # common connector headers 
 
+- [[CONN-dat]]
+
 - dupont pin headers 
 
 - MX1.25 = 1.25mm pitch
@@ -20,16 +22,15 @@ Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 |      | [[CCO3588-dat]] | common    | F           | not, need cut |              |             |
 |      | [[CCO3587-dat]] | common    | M           | yes           |              | 11 mm       |
 |      | [[CCO3590-dat]] | common    | M           | yes           |              |             |
+|      | [[CCO3515-dat]] | common    | M           | yes           |              |             | 
+
 
 
 ## straight pin header
 
 ### dimension 
 
-
-
 ![](2024-12-30-16-39-04.png)
-
 
 
 ## bended 90-degree pin header
