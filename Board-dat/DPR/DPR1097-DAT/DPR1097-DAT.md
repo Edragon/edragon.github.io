@@ -3,6 +3,7 @@
 
 
 ## Pin definition
+
 - GND 
 - A = R +
 - B = R -
@@ -10,13 +11,21 @@
 - Y = T +
 
 
-![](20-27-15-15-02-2023.png)
 
 ![](2023-10-10-15-49-47.png)
 
 
 ## Working Principle 
-To run a loop test, connect A->Y, B->Z. Connect USB-TTL bridge for example PL2303TA, TXD to RXD, RXD to TXD, 5V-5V, GND-GND.
+
+To run a loop test, connect 
+
+  - A->Y
+  - B->Z
+ 
+Connect USB-TTL bridge for example [[PL2303-dat]] or more options from [[serial-dat]] TXD to RXD, RXD to TXD, 5V-5V, GND-GND.
+
+
+
 
 ## Ref 
 
