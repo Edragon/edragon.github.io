@@ -16,7 +16,7 @@
 
 - [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
 
-- [[arduino-code-v1-dat]]
+- [[arduino-code-v1-dat]] - [[arduino-lib-dat]]
 
 - [[usbasp-dat]] - [[avr-dat]] - [[avr-sdk-dat]]
 
