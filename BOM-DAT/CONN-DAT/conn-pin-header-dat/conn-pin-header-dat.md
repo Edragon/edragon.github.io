@@ -22,8 +22,35 @@ Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 |      | [[CCO3590-dat]] | common    | M           | yes           |              |             |
 
 
-## dimension 
+## straight pin header
+
+### dimension 
 
 
 
 ![](2024-12-30-16-39-04.png)
+
+
+
+## bended 90-degree pin header
+
+material version: 
+
+- Iron needle (nickel-plated)
+- Copper needle (nickel-plated)
+- Gold-plated (0.8U)
+
+
+note below three version available, we only sell "right-bend" version here [[CCO3515-dat]]
+
+![](2025-04-08-15-15-22.png)
+
+### reversed bend 
+
+![](2025-04-08-15-17-05.png)
+
+
+### right bend 
+
+
+![](2025-04-08-15-17-53.png)
