@@ -9,6 +9,8 @@
   
 - [[KF350-dat]]
 
+- [[KF15EDG-dat]] 
+
 ## 5.0mm pitch 
 
 - [[dg202-dat]]
@@ -16,9 +18,12 @@
 - [[kf126-dat]]
 - [[kf128-dat]]
 
-## check 
+## check the holes first 
 
-- [[KF15EDG-dat]] ?? 
+no thing block and then push again 
+
+![](2025-04-08-17-15-02.png)
+
 
 ## ref 
 
