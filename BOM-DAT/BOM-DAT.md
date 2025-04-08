@@ -28,7 +28,7 @@ The common bom we hosted
 
 ## CONN
 
-- [[connector-dat]] - [[DB9-dat]] - [[JST-dat]]
+- [[CONN-dat]] - [[DB9-dat]] - [[JST-dat]]
 
 
 ## other components

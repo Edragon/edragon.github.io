@@ -13,6 +13,10 @@
 
 - [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-dat]]
 
+- [[CONN-Plug-dat]]
+
+- [[conn-cable-terminal-dat]]
+
 ## BOM 
 
 - [[CCO3515-dat]] - [[CCO3612-dat]] - [[CCO3587-dat]] 

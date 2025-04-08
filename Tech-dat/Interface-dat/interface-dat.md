@@ -64,7 +64,7 @@ For Raspberry Pi
 
 - github eagle CAD footprint repository - [[eagle-cad-dat]]
 
-- [[connector-dat]] - [[power-dat]]
+- [[CONN-dat]] - [[power-dat]]
 
 - [[interface]] - [[CAN]]
 
