@@ -45,6 +45,38 @@ Read more about inductive laod here [[inductive-load-dat]]
 
 - 15% for 80 pcs+ discount 
 
+## programming 
+
+- default programming file [[relay_1.2_12S_4MB.ino.bin]], check serial output for programming status
+
+connect to its AP address to setup
+
+    mounting FS...
+    mounted file system
+    read your my_device ID ESP_654946 from json 
+    *WM: Adding parameter
+    *WM: server
+    *WM: Adding parameter
+    *WM: port
+    *WM: Adding parameter
+    *WM: user
+    *WM: Adding parameter
+    *WM: pass
+    *WM: Adding parameter
+    *WM: my_device
+    *WM: 
+    *WM: AutoConnect
+    *WM: Connecting as wifi client...
+    *WM: Using last saved values, should be faster
+    *WM: Connection result: 
+    *WM: 0
+    *WM: SET AP STA
+    *WM: 
+    *WM: Configuring access point... 
+    *WM: ESP_Relay_Board
+    *WM: AP IP address: 
+    *WM: 192.168.4.1
+    *WM: HTTP server started
 
 ## ref 
 

@@ -93,7 +93,7 @@ or
 
 ## ref 
 
-- [[audio-dat]] - [[esp32-shields-dat]]
+- [[audio-dat]] - [[esp32-shields-dat]] - [[MAX98357-dat]]
 
 - irrelevant == - [[SCM1030-dat]] 
 
