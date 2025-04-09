@@ -25,6 +25,8 @@
 ## Electrified in the air
 
 - [[quadcopter-dat]] - [[FPV-dat]] - [[UAV-dat]]
+
+- [[parachute-dat]] - [[rocket-dat]]
   
 ## Electrified on the ground  
 
