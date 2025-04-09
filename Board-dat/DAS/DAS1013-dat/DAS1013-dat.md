@@ -27,7 +27,7 @@ legacy wiki page - https://w.electrodragon.com/w/Arduino_IR_Infrared_shield
 
 ## demo code 
 
-- IRremote - https://github.com/z3t0/Arduino-IRremote
+- [IRremote](https://github.com/z3t0/Arduino-IRremote)
 
 
 

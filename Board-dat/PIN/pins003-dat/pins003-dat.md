@@ -29,7 +29,7 @@
 
 ## demo 
 
-- setup guide - https://www.youtube.com/shorts/aOFLWS1JEIU
+- [setup guide ](https://www.youtube.com/shorts/aOFLWS1JEIU)
 
 - [[pins003]]
 
