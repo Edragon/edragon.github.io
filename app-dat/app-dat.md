@@ -26,7 +26,7 @@
 
 - [[quadcopter-dat]] - [[FPV-dat]] - [[UAV-dat]]
 
-- [[parachute-dat]] - [[rocket-dat]]
+- [[parachute-dat]] - [[rocket-dat]] 
   
 ## Electrified on the ground  
 
@@ -38,6 +38,9 @@
 
 ...
 
+## toys 
+
+- [[glider-dat]]
 
 ## working and planning
 

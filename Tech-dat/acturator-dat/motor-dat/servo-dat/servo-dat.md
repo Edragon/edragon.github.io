@@ -98,7 +98,9 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 - **Stepper motors with brakes** – hold position more effectively.
 - **External locking mechanisms** – physical clamps or brakes.
 
+## Apps and Extensions 
 
+- [[worm-gear-dat]]
 
 
 ## ref 
