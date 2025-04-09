@@ -1,8 +1,8 @@
 
-# solutions-dat 
+# wifi-camera-dat
 
 
-## based on wifi 
+
 
 - Widely used in IoT:
 - WiFi video transmission;
@@ -18,3 +18,5 @@
 ## Power Management
 
 - Power bank [[IP5306-dat]]
+
+- based on [[MT7688-dat]]: 
