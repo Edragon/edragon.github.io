@@ -28,6 +28,8 @@ https://www.youtube.com/@pixieplacer
 
 - [3d prints and frames](https://t.me/electrodragon3/337)
 
+
+
 ## ref 
 
 - [[CAD-dat]]
