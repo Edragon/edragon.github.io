@@ -15,7 +15,7 @@
 
 - [[logic-inverter-dat]] or [[data-logger-dat]], [[eneregy-meter-dat]]
 
-- [[solar-power-dat]]
+- [[solar-power-dat]] - [[power-storage-dat]]
   
 ## topics 
 

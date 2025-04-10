@@ -11,20 +11,19 @@ First version please see here. [[MPC1073-dat]]
 * Power input and output from the left large pin connectors, with power protection
 * removed memory and RTC functions
 
+## Board map and Pin Definitions overview 
 
-## pin definitions 
+![](2025-04-10-15-41-06.png)
+
+- yellow box connector: all the same VIN/GND input, 8.5mm cable terminal, XH2.54mm and XH2.0mm connectors, all can be input or outout power, all connectors are before the board power protections  
+- purple box connector: pin header connectors 5V/3.3V/GND, after the power protections. 
+- pink box connector: ROW_E or GPIO15 to GND or RX | GND (Debug Port)
+- green box connector: unused ID_SC ID_SD pins 
+- light blue box connector: pin headers of Chain-P2, can be disconnect via jumpers 
+- orange box connector: E-line setup to HUB75 pin8 or pin4
 
 - pin definitions please refer to page - [[RMP-driver-dat]]
 
-The following two GPIOs are not used at all and free:
-- pin SC to raspberry pi pin ID_SC
-- pin SD to raspberry pi pin ID_SD
-
-Extra pins Used by Chain P3:
-- to use the extra pins, you need to cut the jumpers to release them from the chip below, and chain P3 can not be used anymore. 
-
-Debug Port: 
-- RX | GND (some boards mark could be reversed): UART_RX debug, or ROW_E set to ground 
 
 ## Wiring
 
