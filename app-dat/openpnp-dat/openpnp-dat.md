@@ -17,6 +17,12 @@ The definitions and explanations below will introduce you to the terminology use
 
 - [[CNC-dat]] - [[pnp-machine-dat]]
 
+
+## Important Design Questions 
+
+- feeder glide itselft, instead of gliding by the head 
+- 
+
 ## guide 
 
 - [quck start guide ](https://github.com/openpnp/openpnp/wiki/Quick-Start)
