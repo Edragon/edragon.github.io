@@ -15,6 +15,10 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[analog-video-dat]] == add information about the "Get the Necessary Equipment" and - [[s-video-dat]]
 
+- [[wireless-camera-dat]] == two types of FPV camera research 
+  
+- [[Millimeter-wave-radar-dat]] advantages compare to [[PIR-sensor-dat]]
+
 
 ## Dissusion, Feedback, To-do
 

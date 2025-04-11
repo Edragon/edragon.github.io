@@ -8,6 +8,7 @@
 
 - [[detecting-camera-dat]]
 
+
 ## boards 
 
 - [[SCM1030-dat]] - [[SCM1027-dat]]
@@ -34,7 +35,7 @@ OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM10
 
 ## Camera Interface 
 
-- [[USB-camera-dat]]
+- [[USB-camera-dat]] - [[wireless-camera-dat]]
 
 - [[camera-interface-dat]] - [[SCCB-dat]] - [[CSI-dat]] - [[UVC-dat]] - [[analog-video-dat]] - [[HDMI-dat]]
 
@@ -53,6 +54,8 @@ OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM10
 - [[auto-focus-dat]]
 
 - [[3D-camera-dat]] - [[night-vision-dat]] - [[camera-pan-dat]] - [[camera-tilt-dat]] - [[camera-zoom-dat]]
+
+- [[video-dat]]
 
 ## output format 
 
