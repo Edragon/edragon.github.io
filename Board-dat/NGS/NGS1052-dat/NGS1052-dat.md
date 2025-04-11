@@ -3,7 +3,7 @@
 
 https://www.electrodragon.com/product/neo-6m-gps-module-r2/
 
-- legacy wiki page - https://w.electrodragon.com/w/Ublox_GPS
+- [legacy wiki page](https://w.electrodragon.com/w/Ublox_GPS)
 
 
 ## Board Map 
@@ -21,5 +21,7 @@ https://www.electrodragon.com/product/neo-6m-gps-module-r2/
 
 
 ## ref 
+
+- [[GPS-dat]] - [[NEO-6M-dat]] - [[u-blox-dat]]
 
 - [[NGS1052]]

@@ -70,3 +70,50 @@ If you accidentally glue your skin or surfaces, try:
 
 502 glue works by **polymerizing instantly** when in contact with moisture, forming a hard plastic-like bond. It’s fast, strong, and versatile—but must be handled carefully due to its speed and bonding strength.
 
+
+
+
+## ❌ Why 502 Glue Fails to Bond Some 3D Printing Materials
+
+### 1. **Low Surface Energy (LSE) Plastics**
+Many 3D printing filaments, like **PP (Polypropylene)**, **PE (Polyethylene)**, and **PTFE (Teflon)**, have **very low surface energy**, meaning adhesives can't "wet" or stick to them properly.
+
+- ➤ Glue beads up instead of spreading
+- ➤ No strong chemical bond forms
+
+### 2. **Porous or Layered Surface (FDM Printing)**
+FDM 3D prints have tiny gaps and a layered structure:
+
+- ➤ 502 glue may seep in but not form strong bonds between layers
+- ➤ Layer lines reduce the available smooth surface area for bonding
+
+### 3. **Moisture Content**
+502 glue requires **a small amount of moisture** to activate. But:
+
+- ➤ Some 3D printed parts may be too dry (especially freshly printed ones)
+- ➤ Or too porous, absorbing glue unevenly
+
+### 4. **Incompatible Materials**
+Some common filaments are just not suitable for cyanoacrylate:
+
+| Material       | 502 Glue Compatibility |
+|----------------|------------------------|
+| PLA            | ✅ Generally bonds well |
+| ABS            | ⚠️ Moderate (may need sanding) |
+| PETG           | ⚠️ Difficult, slippery surface |
+| TPU / TPE      | ❌ Very poor bonding (flexible) |
+| Nylon          | ❌ Very difficult to bond |
+| PP / PE        | ❌ Extremely poor adhesion |
+
+### 5. **Oily or Contaminated Surface**
+Some filaments (like PETG or nylon) may feel **greasy** or attract **oil/dust**, which prevents proper glue bonding.
+
+---
+
+## ✅ Tips to Improve Bonding
+
+- **Roughen the surface** with sandpaper
+- **Clean with alcohol** before applying glue
+- Use **plastic primers** or **specialized adhesives** (like epoxy or polyurethane)
+- For tricky materials like nylon or TPU, use **heat welding**, **mechanical fasteners**, or **special plastic adhesives**
+
