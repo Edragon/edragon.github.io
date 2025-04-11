@@ -6,6 +6,7 @@
 
 [assembly video ](https://www.youtube.com/watch?v=StzaezD6ANE)
 
+- [[alu_extrusion-dat]]
 
 ## Tension Slider Assembly 
 
@@ -50,7 +51,26 @@ Nuts and Bolts
 - The Socket_Cap_Screw_M5x45mm is pushed through the hole of the Tension_Slider and the GT2_Idler_20T_5B_6mm and secured with a M5_Nut.
 - Pass the belt through the center of the aluminum extrusion before mounting both mounting plates to the aluminum extrusion.
 
+### Y-Axis Left Back Mounting Plate
 
+- Press and secure the Bearing on the side in place with M3 screws.
+- Insert the Belt and attach the Idler to the 8mm shaft.
+- Insert a M5 screw and feed the Belt around the Idler and secure the screw with a nut.
+- Mount the Y-Axis_Left_Back_Mounting_Plate to the Aluminum extrusion with M5 screws.
+
+### Y-Axis Front Mounting Plates
+
+- Insert the Belt and attach the Idler with a M5 screw and nut.
+- Insert the Tension_Sliderand feed the Belt around the Idler.
+- Mount the Y-Axis_Front_Mounting_Plate to the Aluminum extrusion with M5 screws.
+
+### Y-Axis Right Back Mounting Plate
+
+- Connect the Pulley to the Motor shaft.
+- Mount the Motor to the Y-Axis_Right_Back_Mounting_Plate with M5 screws and nuts.
+- Insert the Belt and attach the Idler with a M5 screw and nut.
+- Mount the Y-Axis_Right_Back_Mounting_Plate to the Aluminum extrusion with M5 screws.
+- Connect the Motor Shaft and long 8mm shaft together with a coupler.
 
 
 ## Y-axis 

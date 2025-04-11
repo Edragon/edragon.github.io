@@ -5,22 +5,31 @@
 
 ## Functions 
 
-- GNSS
+- [[GNSS-dat]]
 - ATGM
-- GPS
+- [[GPS-dat]]
 - Galileo
 - sbas
 - dgps
 - beidou
 - glonass
 - gzss
+- [[AGPS-dat]]
+
+## boards 
+
+- [[NGS1052-dat]] - [[NGS1089-dat]] - [[NGS1078-dat]] - [[quectel-gps-dat]]
+
+## chip manufactures 
+
+- [[quectel-gps-dat]] - [[ZHONGKEWEI-dat]] - [[SIMCOM-dat]]
+
+- [[u-blox-dat]]
 
 
 ## software 
 
 - https://igs.bkg.bund.de/ntrip/download
-
-
 
 
 
