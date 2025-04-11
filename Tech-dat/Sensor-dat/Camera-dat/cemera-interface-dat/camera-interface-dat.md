@@ -3,6 +3,11 @@
 
 - [[SCCB-dat]] - [[CSI-dat]] - [[UVC-dat]] - [[analog-video-dat]] - [[HDMI-dat]]
 
+- digital types camera 
+- analog types camera
+
+
+
 ### Standard Camera Output that Can Be Read by Android
 
 - [[UVC-dat]] - [[CSI-dat]] - [[HDMI-dat]]
