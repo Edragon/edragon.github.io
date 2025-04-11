@@ -4,10 +4,8 @@
 
 - [[motion-system-dat]]
 
+[assembly video ](https://www.youtube.com/watch?v=StzaezD6ANE)
 
-explanation 
-
-https://github.com/PixiePlacer/PixiePlacer/wiki/Y%E2%80%90Axis
 
 ## Tension Slider Assembly 
 
@@ -24,7 +22,7 @@ https://github.com/PixiePlacer/PixiePlacer/wiki/Y%E2%80%90Axis
 
 
 Standard Part
-GT2_Idler_20T_5B_6mm 
+GT2_Idler_20T_5B_6mm == [[timing-pulley-dat]]
 
 
 Nuts and Bolts
@@ -38,6 +36,20 @@ Nuts and Bolts
 - Star_Knob_Base == star_knob v7 == https://cad.onshape.com/documents/ff9d1e3bb0c6648192bdf385/v/70ff96265c3a5c65e5e93ef9/e/10f29c1435693a48f4ed55a7
 - Star_Knob_Cover == can not find this file 
 - Tension_Slider == https://cad.onshape.com/documents/e640485c664452ef18221338/v/ecf6a991a8286a17a6f28085/e/1d506c43d62b8f4e412e0560?renderMode=0&uiState=67d019d4668a6a59b71b9bf7
+
+## steps by steps 
+
+[explanation in github ](https://github.com/PixiePlacer/PixiePlacer/wiki/Y%E2%80%90Axis)
+
+### Tension Slider
+
+- [[timing-pulley-dat]] - [[glue-dat]]
+
+- The Tension_Slider tensions the belt on the X-Axis and Y-Axis. In total three are needed in the machine. The Hex_Screw_M5x35mm is pressed into the Star_Knob_Base and the Star_Knob_Cover glued on inorder to encapsulate the screw.
+- A M5_Nut is dropped into the Tension_Slider.
+- The Socket_Cap_Screw_M5x45mm is pushed through the hole of the Tension_Slider and the GT2_Idler_20T_5B_6mm and secured with a M5_Nut.
+- Pass the belt through the center of the aluminum extrusion before mounting both mounting plates to the aluminum extrusion.
+
 
 
 

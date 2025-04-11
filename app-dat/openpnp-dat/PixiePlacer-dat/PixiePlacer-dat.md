@@ -11,7 +11,7 @@ https://www.youtube.com/@pixieplacer
 
 - raw BOM file [[PixiePlacer-BOM-dat]]
 
-- [[PixiePlacer-Frame-dat]]
+- [[PixiePlacer-Frame-dat]] - [[ALU_extrusion-dat]]
 
 - [[PixiePlacer-Y-dat]]
 
