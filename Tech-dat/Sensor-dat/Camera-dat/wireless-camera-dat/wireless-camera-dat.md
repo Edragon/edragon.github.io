@@ -47,6 +47,10 @@ Comparing DJI O4 and analog video cameras involves several aspects. Here's a bre
 - Monitor temperature
 - Consider industrial-grade VTX or digital systems for reliability
 
+#### Issue: This device is not well-suited for continuous surveillance applications.
+
+Limitation: Requires a cool-down period after 4-5 hours of operation, suggesting potential overheating or reliability concerns with extended use.
+
 
 ## Analog FPV Transmission System
 
