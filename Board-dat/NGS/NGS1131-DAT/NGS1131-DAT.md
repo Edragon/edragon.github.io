@@ -57,6 +57,14 @@ Note
 ![](15-36-16-05-01-2023.png)
 
 
+## demo video 
+
+- [Sim7670 usb-ttl bridge debug](https://t.me/electrodragon3/200)
+- [Sim7670 usb boot guide](https://t.me/electrodragon3/199)
+
+
 ## ref 
 
 - [[M2M-dat]] - [[SIMCOM-dat]]
+
+
