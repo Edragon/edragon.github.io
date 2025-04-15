@@ -3,6 +3,10 @@
 
 ## DHL DCT system 
 
+
+DHL remote shipping address zip code == https://mydhl.express.dhl/content/dam/downloads/global/en/remote-areas/dhl_express_remote_areas_en.pdf.coredownload.pdf
+
+
 DHL shipment require the zipcode to match the city name in there system, please use the following website to find out the match for youself.
 
 - zip code search 
@@ -19,6 +23,8 @@ and more common exmaple match:
 Note: 
 - please remember to update your shipping address in our website, in case if you need to order next time 
 - otherwise we always have to fix it manually, this will cause 1 day delay for express DHL shipment 
+
+
 
 
 
