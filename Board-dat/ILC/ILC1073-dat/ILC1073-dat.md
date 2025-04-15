@@ -6,7 +6,8 @@
 
 * Install USB-driver libusb-win32 - [[usb-dat]]
 
-https://www.electrodragon.com/product/1602-lcd-usb-mini-drive-board-rpi-driver-free/
+[1602 LCD USB Mini Drive Board, RPI Driver Free](https://www.electrodragon.com/product/1602-lcd-usb-mini-drive-board-rpi-driver-free/)
+
 
 
 ## hardware 
@@ -15,10 +16,18 @@ Schematic
 
 ![](2023-08-31-17-52-56.png)
 
-- 2-way jumper connect the button to MISO or Reset 
+
+
+Board Map 
+
+![](2025-04-15-16-08-08.png)
+
+Pin Definitions 
+
+- 2-way jumper connect the button to MISO or Reset PE4-RST
 - 1-way jumper connect PC4 (EN1) to +5V
 
-- Programmer Buttons Key1 and Key2
+- Programmer Buttons Key1 == PB0 and Key2 == PB1
 
 
 ## Software 
