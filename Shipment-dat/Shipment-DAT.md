@@ -54,6 +54,9 @@ Normal Post, worldwide delivery
 
 - [[remote-address-dat]] sometimes will be extrally applied
 
+- [[HKFEDEXIP-C-dat]] - [[SZFEDEX-IP-dat]] - [[HKDHL-dat]] - [[HKDHLX-dat]] - [[HKUPS-dat]] - [[CNUPS-dat]] - [[SZFEDEX-IE-dat]] - [[HKUPS-BA-dat]] - [[SZFED-PAK]] - [[HKFEDEXIP-F-dat]]
+
+
 
 ## general tracking 
 
