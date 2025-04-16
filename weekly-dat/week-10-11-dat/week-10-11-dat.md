@@ -19,6 +19,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
   
 - [[Millimeter-wave-radar-dat]] advantages compare to [[PIR-sensor-dat]]
 
+- new shipping rules find out for US [[US-dat]]
 
 ## Dissusion, Feedback, To-do
 
