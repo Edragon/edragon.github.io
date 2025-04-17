@@ -72,11 +72,26 @@ ref
 ![](2024-12-06-18-10-13.png)
 
 
+## ref images 
+
+- please find dietpi at [[RPI-OS-dat]]
+
 ## ref github 
 
 [[ESP32-dat]] based 
 - https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA
 - [Brian Lough](https://www.tindie.com/stores/brianlough/) (youtube link) for providing code contributions, hardware and suggestions
+
+[[STM32-dat]] based
+- [DMD_STM32](https://github.com/board707/DMD_STM32)
+
+[[ESP8266-dat]] based 
+
+
+[[RPI-dat]] based 
+
+[hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix/)
+
 
 
 ## ref
