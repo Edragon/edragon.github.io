@@ -3,7 +3,7 @@
 
 - board use guide please refer to page [[RMP-driver-dat]]
 
-https://www.electrodragon.com/product/rpi-passive-3ch-rgb-matrix-drive-board-v0/
+[RPI Passive 3CH RGB Matrix Drive Board V0](https://www.electrodragon.com/product/rpi-passive-3ch-rgb-matrix-drive-board-v0/)
 
 
 
@@ -32,10 +32,6 @@ Board Compatibility & Performance:
 - With ABC panels (using shift registers), it needs high GPIO slowdown (--led-slowdown-gpio=8)
 - Comparatively, the active board requires only --led-slowdown-gpio=7 to function properly
 
-For two types of **flexible** P2 128x64 panels:
-
-- ABCDE panels have problematic magnetic connectors (2.5mm screws too shallow)
-- ABC panels have better 3mm screw frames but require shift register handling
 
 Chip Compatibility:
 
@@ -49,7 +45,11 @@ https://github.com/hzeller/rpi-rgb-led-matrix/issues/1773
 
 Current version is V1 to quick start 
 
-### further change
+### further change V2
+
+Board map V2 
+
+![](2025-04-17-17-12-53.png)
 
 - default setup like this: 
     - 4   ROW-E --- 8  
