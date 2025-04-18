@@ -99,6 +99,27 @@ If you're deploying or using CAT-M technology, check with the specific network p
 
 LBS = Base station location, AT+CLBS 
 
+
+### RI (ring) and DTR Behavior
+
+RI usually keeps high level output. When receiving a short message or URC report, RI outputs a low level for 120ms (short message)/60ms (URC), and then returns to a high-level state; RI will output a low level, when receiving a phone call as the called party. 
+
+After outputting low level, RI will remain low until the host accepts the call using the "ATA" command or the caller stops calling RI, in the end, it will become high level.
+
+![](2025-04-18-20-54-36.png)
+
+**DTR for sleep mode**
+
+After setting the AT command “AT+CSCLK=1”, and then pulling up the DTR pin, Module will enter sleep mode when module is in idle mode. In sleep mode, the UART is unavailable. When A7672X/ enters sleep mode, pulling down DTR can wakeup module.
+
+After setting the AT command “AT+CSCLK=0”, A7672X/A7670X Series will do nothing when the DTR pin is
+pulling up.
+
+### USB Interface
+
+The A7672X/7670X contains a USB interface compliant with the USB2.0 specification as a peripheral, but does not support USB charging function and does not support USB HOST mode.
+
+
 ## Module manufacturer
 
 - [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
