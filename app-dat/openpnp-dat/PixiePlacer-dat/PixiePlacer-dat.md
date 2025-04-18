@@ -1,9 +1,7 @@
 
 # PixiePlacer-dat
 
-- https://github.com/PixiePlacer/PixiePlacer
 
-https://www.youtube.com/@pixieplacer
 
 
 
@@ -16,7 +14,20 @@ https://www.youtube.com/@pixieplacer
 - [[PixiePlacer-Y-dat]]
 
 
-## CAD 
+## all resources info 
+
+
+- [github](https://github.com/PixiePlacer/PixiePlacer) / [youtube](https://www.youtube.com/@pixieplacer)
+
+BOM 
+
+- [PixiePlacer/PixiePlacer/wiki/Bill-of-Materials](https://github.com/PixiePlacer/PixiePlacer/wiki/Bill-of-Materials)
+
+- [google sheet BOM](https://docs.google.com/spreadsheets/d/1CWFQ7bArdYDCNkc-MHFDlqN6pdHpugMOtVum4YUrMk8/edit?gid=0#gid=0)
+
+- [copied BOM V2](https://docs.google.com/spreadsheets/d/18583qxF1q-lbWCTlZ11vYUZMCIv_e09sAsYIaguiR-M/edit?gid=0#gid=0)
+
+CAD 
 
 - [full assembly 3D file at here](https://cad.onshape.com/documents/cba5ff23b34f56cdb8d56e29/w/70635aee323f77b7c3b4f3ff/e/d64d0dd6226f687165828220)
 

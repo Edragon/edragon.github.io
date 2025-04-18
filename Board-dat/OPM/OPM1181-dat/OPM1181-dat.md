@@ -20,9 +20,9 @@ Notice if you run high charging current, add heat sink on backside would be good
 
 ## ref
 
-- datasheet - https://github.com/Edragon/Datasheet/tree/master/consonance
+- [[consonance-dat]]
 
-- [[rechargeable-battery-dat/rechargerable-battery-dat]] - [[battery-dat]]
+- [[rechargerable-battery-dat]] - [[battery-dat]]
 
 - [[Lead-Acid-Battery-dat]]
 

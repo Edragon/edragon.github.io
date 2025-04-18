@@ -2,13 +2,12 @@
 # PixiePlacer-Y-dat.md
 
 
-- [[motion-system-dat]]
+- [[motion-system-dat]] - [[alu_extrusion-dat]]
 
-[assembly video ](https://www.youtube.com/watch?v=StzaezD6ANE)
 
-- [[alu_extrusion-dat]]
 
-## Tension Slider Assembly 
+
+## Tension Slider Assembly BOM List 
 
 | Category        | Part_Name                | Part Description                  | Quantity |
 | :-------------- | :----------------------- | :-------------------------------- | -------: |
@@ -31,8 +30,6 @@ Nuts and Bolts
 - M5_Nut - [[nut-dat]]
 - Socket_Cap_Screw_M5x45mm
 
-
-
 3D Printed Part - [[3d-print-service-dat]]
 - Star_Knob_Base == star_knob v7 == https://cad.onshape.com/documents/ff9d1e3bb0c6648192bdf385/v/70ff96265c3a5c65e5e93ef9/e/10f29c1435693a48f4ed55a7
 - Star_Knob_Cover == can not find this file 
@@ -40,22 +37,27 @@ Nuts and Bolts
 
 ## steps by steps 
 
-[explanation in github ](https://github.com/PixiePlacer/PixiePlacer/wiki/Y%E2%80%90Axis)
+- [full assembly 3D file at here](https://cad.onshape.com/documents/cba5ff23b34f56cdb8d56e29/w/70635aee323f77b7c3b4f3ff/e/d64d0dd6226f687165828220)
+
+- [explanation in github ](https://github.com/PixiePlacer/PixiePlacer/wiki/Y%E2%80%90Axis)
+
+- [assembly video ](https://www.youtube.com/watch?v=StzaezD6ANE)
+
 
 ### Tension Slider
 
-- [[timing-pulley-dat]] - [[glue-dat]]
+- [[belt-sys-dat]] - [[timing-pulley-dat]] - [[glue-dat]] - [[idler-dat]]
 
-- The Tension_Slider tensions the belt on the X-Axis and Y-Axis. In total three are needed in the machine. The Hex_Screw_M5x35mm is pressed into the Star_Knob_Base and the Star_Knob_Cover glued on inorder to encapsulate the screw.
+- The Tension_Slider tensions the belt on the X-Axis and Y-Axis. In total three are needed in the machine. The **Hex_Screw_M5x35mm** is pressed into the **Star_Knob_Base** and the **Star_Knob_Cover** glued on inorder to encapsulate the screw.
 - A M5_Nut is dropped into the Tension_Slider.
-- The Socket_Cap_Screw_M5x45mm is pushed through the hole of the Tension_Slider and the GT2_Idler_20T_5B_6mm and secured with a M5_Nut.
+- The **Socket_Cap_Screw_M5x45mm** is pushed through the hole of the **Tension_Slider** and the **GT2_Idler_20T_5B_6mm** and secured with a **M5_Nut**.
 - Pass the belt through the center of the aluminum extrusion before mounting both mounting plates to the aluminum extrusion.
 
 ### Y-Axis Left Back Mounting Plate
 
-- Press and secure the Bearing on the side in place with M3 screws.
-- Insert the Belt and attach the Idler to the 8mm shaft.
-- Insert a M5 screw and feed the Belt around the Idler and secure the screw with a nut.
+- Press and secure the **608 Bearing** on the side in place with M3 screws. **Socket_Cap_Screw_M3x6m**
+- Insert the Belt and attach the Idler to the **8mm shaft**.
+- Insert a M5 screw and feed the Belt around the **Idler** and secure the screw with a nut.
 - Mount the Y-Axis_Left_Back_Mounting_Plate to the Aluminum extrusion with M5 screws.
 
 ### Y-Axis Front Mounting Plates
@@ -66,7 +68,7 @@ Nuts and Bolts
 
 ### Y-Axis Right Back Mounting Plate
 
-- Connect the Pulley to the Motor shaft.
+- Connect the **Pulley** to the Motor shaft.
 - Mount the Motor to the Y-Axis_Right_Back_Mounting_Plate with M5 screws and nuts.
 - Insert the Belt and attach the Idler with a M5 screw and nut.
 - Mount the Y-Axis_Right_Back_Mounting_Plate to the Aluminum extrusion with M5 screws.
@@ -105,7 +107,7 @@ Nuts and Bolts
 - Left_Back_Mounting_Plate_Y-Axis  
 - Right_Back_Mounting_Plate_Y-Axis 
 
-- [[motor-dat]]
+- [[motor-dat]][[belt-sys-dat]]
 
 - [[mechanics-dat]] - [[bearing-dat]] - [[shaft-dat]] - [[belt-dat]]
 
