@@ -79,6 +79,6 @@ auto turn ON, USB will list 3 COMs - [[A7670-dat]]
 
 ## ref 
 
-- [[M2M-dat]] - [[SIMCOM-dat]]
+- [[M2M-dat]] - [[SIMCOM-dat]] - [[serial-dat]] - [[Logic-level-shifter-dat]]
 
 - [[NGS1131]]

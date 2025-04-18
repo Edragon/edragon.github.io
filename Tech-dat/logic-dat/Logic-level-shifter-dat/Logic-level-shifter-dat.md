@@ -7,7 +7,7 @@
 
 ## Chip and solutions
 
-bidirection logic shifter
+### bidirection logic shifter
 
 - [[ti-signal-dat]]
 
@@ -15,7 +15,10 @@ bidirection logic shifter
 
 - [[LSF0102-dat]]
 
-one-direction logic shifter
+
+
+
+### one-direction logic shifter
 
 - [[74HCT245-dat]]
 
@@ -36,7 +39,10 @@ For the same reason, the TXB0108 should not be used in applications such as I2C 
 
 Make sure the VCCA ≤VCCB.
 
+## Simple logic shifter for VBAT 
 
+
+![](2025-04-18-18-57-43.png)
 
 
 ## ref 
