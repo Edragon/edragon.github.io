@@ -57,6 +57,20 @@ Note
 ![](15-36-16-05-01-2023.png)
 
 
+### Wiring UART communication with USB-TTL
+
+auto turn ON, RXD->RXD, TXD->TXD, 5V-VIN, GND-GND, 115200 bps, net-led constant ON
+
+    *ATREADY: 1
+
+    +CPIN: SIM REMOVED
+
+    +CPIN: SIM REMOVED
+
+### Wiring USB port 
+
+auto turn ON, USB will list 3 COMs - [[A7670-dat]]
+
 ## demo video 
 
 - [Sim7670 usb-ttl bridge debug](https://t.me/electrodragon3/200)
@@ -65,6 +79,6 @@ Note
 
 ## ref 
 
-- [[M2M-dat]] - [[SIMCOM-dat]]
+- [[M2M-dat]] - [[SIMCOM-dat]] - [[serial-dat]] - [[Logic-level-shifter-dat]]
 
-
+- [[NGS1131]]

@@ -99,10 +99,6 @@ If you're deploying or using CAT-M technology, check with the specific network p
 
 LBS = Base station location, AT+CLBS 
 
-
-ASR1603
-ASR1606
-
 ## Module manufacturer
 
 - [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
