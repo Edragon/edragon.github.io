@@ -9,9 +9,13 @@
 
 - [[CN3302-dat]] - PFM Boost Dual-Cell Lithium Battery Charging Control IC
 
-- [[CN3768-dat]] - 4A, 12V Lead-Acid Battery Charger IC - [[DSE-CN3768.pdf]] - [[OPM1181-dat]]
+- [[CN3768-dat]] - 4A, 12V Lead-Acid Battery Charger IC - [[OPM1181-dat]]
 
 - [[BAT1002-dat]] - [[DSE-CN3065.pdf]]
+
+- [datasheet in github](https://github.com/Edragon/Datasheet/tree/master/consonance)  
+
+
 
 
 

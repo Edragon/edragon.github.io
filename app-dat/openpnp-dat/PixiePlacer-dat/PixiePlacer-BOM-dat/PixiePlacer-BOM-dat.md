@@ -4,7 +4,7 @@
 
 - [PixiePlacer/PixiePlacer/wiki/Bill-of-Materials](https://github.com/PixiePlacer/PixiePlacer/wiki/Bill-of-Materials)
 
-
+- [google sheet BOM](https://docs.google.com/spreadsheets/d/1CWFQ7bArdYDCNkc-MHFDlqN6pdHpugMOtVum4YUrMk8/edit?gid=0#gid=0)
 
 ## raw-bom
 

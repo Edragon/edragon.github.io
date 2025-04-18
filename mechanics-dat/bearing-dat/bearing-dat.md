@@ -4,6 +4,23 @@
 
 ## 608_Bearing
 
+Here's what "608" means:
+
+- 6 – The bearing type (6 = single row deep groove ball bearing)
+- 0 – The bearing series, indicating the robustness (0 = light duty)
+- 8 – The bore size, which is 8mm
+
+Basic Dimensions of a 608 bearing:
+
+- Inner diameter (bore): 8 mm
+- Outer diameter: 22 mm
+- Width (thickness): 7 mm
+
+## block the bearing 
+
+![](2025-04-18-15-37-24.png)
+
+by M3 screws 
 
 
 ## What is a Bearing?  
