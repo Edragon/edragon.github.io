@@ -120,6 +120,22 @@ pulling up.
 The A7672X/7670X contains a USB interface compliant with the USB2.0 specification as a peripheral, but does not support USB charging function and does not support USB HOST mode.
 
 
+
+### GNSS 
+
+GNSS_VBKP = GNSS VRTC power input, input voltage 1.4V~3.6V
+
+| Pin name    | Pin No. | Power domain | Type | Description                                                           | Note                                                                           |
+| ----------- | ------- | ------------ | ---- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| GNSS_PWRCTL | 98      | 1.8V         | DI   | The enable control PIN ofGNSS power supply.                           | Active high.                                                                   |
+| 1V8_GNSS    | 97      | -            | PI   | The power input for GNSS,the input voltage must notbe less than 1.8V. | Module VDD_1V8(PIN 15) can be usedfor this power supply                        |
+| GNSS_VBKP   | 116     | -            | PI   | GNSS VRTC power input,input voltage 1.4V~3.6V                         | If unused, keep itopen.                                                        |
+| 1PPS        | 100     | 1.8V         | DO   | 1PPS signal output                                                    | If unused, keep itopen.                                                        |
+| GNSS_RXD    | 96      | 1.8V         | DI   | GNSS UART RX                                                          | Connect to MCUUART_TX;Or use 1K resistors inseries in moduleUART3_TX (pin 50). |
+| GNSS_TXD    | 95      | 1.8V         | DO   | GNSS UART TX                                                          | Connect to MCUUART_RX;Or use 1K resistors inseries in moduleUART3_RX (pin 49). |
+
+
+
 ## Module manufacturer
 
 - [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
