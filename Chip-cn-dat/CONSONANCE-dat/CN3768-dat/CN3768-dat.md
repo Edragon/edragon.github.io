@@ -11,6 +11,26 @@ If the battery voltage subsequently drops below 83.95% of the over-charge voltag
 
 Furthermore, the CN3768 automatically enters **sleep mode** when the input voltage falls below the battery voltage, conserving power.
 
+![](2025-04-21-20-46-06.png)
+
+## typical APPs 
+
+![](2025-04-21-20-50-20.png)
+
+## Status Indication 
+
+The CN3768 has one open-drain status outputs: CHRG.  CHRG is pulled low when the charger is in trickle charge mode, constant current mode and over charge mode. 
+
+In float mode,  CHRG becomes high impedance. 
+
+When the battery is not present, the charger charges the output capacitor to the float-charge voltage.   
+
+The CHRG  pin should be tied to ground if charge status indication is not needed. 
+
+The table 1 lists the indicator status and its corresponding charging status. It is supposed that red LED is 
+connected to  CHRG pin. 
+
+![](2025-04-21-20-49-33.png)
 
 ## ref 
 
