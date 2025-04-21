@@ -9,7 +9,7 @@
 
 - [[robot-dat]]
 
-- [[cable-dat]] - [[fiber-optic-dat]]
+- [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]]
 
 ## Circuits 
 
@@ -40,7 +40,7 @@
 
 ### Network
 
-- [[network-dat]]
+- [[network-dat]] - [[M2M-dat]]
 
 - [[RF-DAT]]
 
