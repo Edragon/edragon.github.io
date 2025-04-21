@@ -2,13 +2,11 @@
 
 # battery-dat 
 
-- [[rechargeable-battery-dat/rechargerable-battery-dat]]
+- [[rechargerable-battery-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]]
 
 - [[battery-holder-dat]]
 
-- [[alkaline-battery-dat]] - [[lithium-ion-battery-dat]]
-
-- [[lithium-battery-dat]]
+- [[alkaline-battery-dat]] 
 
 ## coin battery dat 
 

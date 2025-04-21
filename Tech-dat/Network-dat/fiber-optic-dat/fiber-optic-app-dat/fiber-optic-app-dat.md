@@ -15,6 +15,8 @@ FPV remote communication
 
 ![](2025-03-28-17-48-29.png)
 
+- [demo video how it works](https://www.youtube.com/shorts/GSPIDlSw020)
+
 emergancy support 
 
 ![](2025-03-28-17-42-03.png)
