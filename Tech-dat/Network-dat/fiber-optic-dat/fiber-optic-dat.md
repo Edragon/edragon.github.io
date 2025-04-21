@@ -1,13 +1,22 @@
 
 # fiber-optic-dat
 
-- [[fiber-optic-transceiver-dat]]
+info and knowledge 
+
+- [[fiber-optic-transceiver-dat]] - [[fiber-optic-cable-dat]] - [[POF-dat]]
+
+already to go systems 
+
+- [[toslink-dat]] - [[photolink-dat]] 
+
+
+apps and solutions 
 
 - [[fiber-optic-app-dat]] - [[fiber-optic-solutions-dat]]
+  
+- [[TI-audio-dat]] - [[USB-player-dat]]
 
-- [[toslink-dat]] - [[POF-dat]]
 
-- [[TI-audio-dat]]
 
 ## note 
 
