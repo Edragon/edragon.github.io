@@ -134,6 +134,27 @@ GNSS_VBKP = GNSS VRTC power input, input voltage 1.4V~3.6V
 | GNSS_RXD    | 96      | 1.8V         | DI   | GNSS UART RX                                                          | Connect to MCUUART_TX;Or use 1K resistors inseries in moduleUART3_TX (pin 50). |
 | GNSS_TXD    | 95      | 1.8V         | DO   | GNSS UART TX                                                          | Connect to MCUUART_RX;Or use 1K resistors inseries in moduleUART3_RX (pin 49). |
 
+### NETLIGHT 
+
+below table for A7670X 
+
+Table 21: 2G mode NETLIGHT pin status
+
+| NETLIGHT            pin status | Module status      |
+| ------------------------------ | ------------------ |
+| Always On                      | Searching Network  |
+| 200ms ON, 200ms OFF            | Data Transmit      |
+| 800ms ON, 800ms OFF            | Registered network |
+| OFF                            | Power off / Sleep  |
+
+Table 22: LTE mode NETLIGHT pin status
+
+| NETLIGHT            pin status | Module status            |
+| ------------------------------ | ------------------------ |
+| Always On                      | Searching Network        |
+| 200ms ON, 200ms OFF            | Data Transmit/Registered |
+| OFF                            | Power off / Sleep        |
+
 
 
 ## Module manufacturer

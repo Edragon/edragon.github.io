@@ -1,9 +1,7 @@
 
 # interface dat 
   
-- [[RS485-DAT]] - [[RS232-dat]] - [[RS422-dat]]
-
-- [[can-dat]]
+- [[RS485-DAT]] - [[RS232-dat]] - [[RS422-dat]] - [[can-dat]]
 
 - [[POE-dat]]
 
@@ -13,6 +11,9 @@
 
 - [[PDM-dat]]
 
+- [[MIDI-dat]] - [[BNC-dat]]
+
+more at [[cable-dat]]
 
 ## Breakout boards 
 
