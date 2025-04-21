@@ -36,7 +36,14 @@ About ESP32 chips and modules Espressif company's recommendation description
 | ESP32-WROVER-B | ESP32-D0WD                      | 512K          | 448K         | Not recommended for new designs     |
 | ESP32-WR0VER-E | ESP32-D0WD-V3                   | 512K          | 448K         | Recommended for new designs in 2024 |
 
-
+| Board Link      | Description               |          | Memory | Notes               |
+| :-------------- | :------------------------ | -------- | ------ | :------------------ |
+| [[NWI1137-dat]] | Default RVI: ESP-WROVER-I | IPEX-ANT | 4MB    |                     |
+| [[NWI1192-dat]] | RVI: ESP-WROVER-I         | IPEX-ANT | 8MB    | [[Board-stock-out]] |
+| [[NWI1193-dat]] | RVI: ESP-WROVER-I         | IPEX-ANT | 16MB   |                     |
+| [[NWI1136-dat]] | Default RVB: ESP-WROVER   | PCB-ANT  | 4MB    |                     |
+| [[NWI1190-dat]] | RVB: ESP-WROVER           | PCB-ANT  | 8MB    |                     |
+| [[NWI1191-dat]] | RVB: ESP-WROVER           | PCB-ANT  | 16MB   |                     |
 
 ## new version 
 
