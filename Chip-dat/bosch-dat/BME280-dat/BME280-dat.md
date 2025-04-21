@@ -86,6 +86,14 @@ The BME280 is the next-generation of sensors from Bosch, and is the upgrade to t
 - **Choose BME280** if you need an all-in-one sensor for temperature, pressure, and humidity.
 
 
+
+
 ## arduino library 
 
 - [[arduino-lib-dat]]
+
+https://github.com/Edragon/Arduino/blob/master/Sketchbook/04_sensor/bme280test/bme280test.ino
+
+## ref 
+
+- [[bosch-dat]] - [[sensor-dat]] - [[pressure-sensor-dat]]
