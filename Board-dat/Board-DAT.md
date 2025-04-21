@@ -32,7 +32,7 @@
   
 ### CIC 
 
-- [[CIC1057-dat]]
+- [[CIC1057-dat]] - [[CIC1045-dat]]
 
 ### DAS
 - [[DAS1033-DAT]] - [[DAS1043-DAT]] - [[DAS1087-DAT]]
@@ -421,7 +421,7 @@ Motion sensor
 - [[SMO1020-dat]]
 
 ### STH
-- [[STH1074-DAT]] - [[STH1078-DAT]] - [[STH1040-dat]]
+- [[STH1074-DAT]] - [[STH1078-DAT]] - [[STH1040-dat]] - [[STH1058-dat]]
 
 ### STM
 - [[STM1004-DAT]]
