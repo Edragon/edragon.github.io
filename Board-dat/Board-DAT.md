@@ -207,7 +207,7 @@ LDO - [[LM317-dat]] - [[OPM1087-dat]]
 
 - [[MPCS042-DAT]] - [[MPC1123-DAT]] 
 
-Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]]
+Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]] - [[MPC1130-dat]]
 
 - [[MPC1111-dat]]
 
