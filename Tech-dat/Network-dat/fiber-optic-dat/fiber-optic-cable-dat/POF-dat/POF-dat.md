@@ -1,13 +1,27 @@
 
 # POF-dat
 
+- get more compare info here: [[glass-fiber-dat]]
+
+- [[FC300T-dat]] - [[Photolink-dat]] - [[HFBR-0500Z-Series-dat]] - [[TOTX-TORX-dat]]
+
+- [[toshiba-dat]]
+
+- [[POF]]
+
 ## What is POF?
 
 POF stands for plastic optical fiber with the term plastic being used a vulgarization for polymer materials.
 
-The 1mm fiber diameter is about 500 times thicker than a glass optical fiber. 96% of the cores cross section conducts modulated light for data transmission similar to glass optical fiber applications. The maximal transmission distance amounts to about 100m without active repeaters. Polymer fibers are used for high speed data network in homes, commerce and industry as well as in cars and airplanes. POF is often regarded as an optical home network because POF is easy to install. The fiber is thin, can be shortened to the desired length by a sharp knife and requires no connectors on its ends. Anyone can set up a robust, high performance and Ethernet compatible network without any special tools.
+The 1mm fiber diameter is about **500 times thicker** than a glass optical fiber. 
 
-The key advantages of POF networks are:
+96% of the cores cross section conducts modulated light for data transmission similar to glass optical fiber applications. 
+
+The maximal transmission distance amounts to about 100m without active repeaters. 
+
+Polymer fibers are used for high speed data network in homes, commerce and industry as well as in cars and airplanes. POF is often regarded as an optical home network because POF is easy to install. The fiber is thin, can be shortened to the desired length by a sharp knife and requires no connectors on its ends. Anyone can set up a robust, high performance and Ethernet compatible network without any special tools.
+
+## The key advantages of POF networks are:
 
 - No electromagnetic radiation
 - Electrically isolated network
@@ -17,6 +31,33 @@ The key advantages of POF networks are:
 - Low weight
 - Resistant to humidity, heat and vibration
 - Visible light that is eye-safe
+
+🧵 POF (Plastic Optical Fiber)
+
+## PMMA Fiber specs 
+
+![](2025-04-22-14-24-56.png)
+
+- Jacket: Black PE
+- Core Refractive Index: 1.49
+- Numerical Aperture: 0.5
+- Heat Resistance Temperature: -55℃ ~ 70℃
+- Transmission Loss: 200dB/km
+- Minimum Bending Radius: 25mm
+- Wavelength: 650nm
+- Finished Fiber Products: Servo cables, sensor patch cords, plastic optical fiber patch cords
+- Use Cases: Medical imaging, fiber optic sensing, servo machines, drilling machines...
+- Recommended Storage Temperature: -55℃ ~ 85℃
+- Suggested Operating Temperature: -25℃ ~ 70℃
+
+## Feature	Description
+
+- 🌟 Material	Core made from plastic (usually PMMA) instead of glass
+- 📏 Core Size	Typically 1 mm (much thicker than glass fiber)
+- 📡 Distance	Short range (up to ~100 meters)
+- 🔌 Use Cases	Consumer electronics, automotive, home networks
+- 💰 Cost	Cheaper and more flexible, easy to handle
+- ⚠️ Limitation	High signal loss (attenuation), not suitable for long-distance or high-speed telecom links
 
 ## POF distance 
 
@@ -49,3 +90,4 @@ https://www.mouser.com/c/optoelectronics/fiber-optics/fiber-optic-transmitters-r
 
 https://www.instructables.com/External-USB-audio-card-with-optical-SPDIF-POF-in/
 
+- [[POF]] - [[fiber-optic]]
