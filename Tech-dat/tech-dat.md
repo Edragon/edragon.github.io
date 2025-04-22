@@ -44,7 +44,7 @@
 
 - [[RF-DAT]]
 
-- [[LTE]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
+- [[LTE.-datmd]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 
 - [[bluetooth-dat]]
 
