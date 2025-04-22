@@ -11,12 +11,17 @@ https://w.electrodragon.com/w/SIM7020_AT
 
 ## pre-built SSCOM SIMCOM_version_1.0
 
-download at commands pre-built SSCOM monitor here - [[simcom-at-sscom-dat.zip]]
+download at commands pre-built SSCOM monitor here - [[simcom-at-sscom-dat]]
 
 - Basic test AT comands included 
 - MQTT comands included 
 - low power mode commands included 
 - PING commands included 
+
+## modules AT logs 
+
+- [[A7670-at-log]]
+
 
 ## ref 
 
