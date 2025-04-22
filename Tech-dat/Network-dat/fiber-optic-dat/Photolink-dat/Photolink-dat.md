@@ -1,11 +1,12 @@
 
 # Photolink-dat
 
-## photo-link 
+## photo-link PLx237
 
-Photolink- Fiber Optic **Receiver** PLR237/T10BK 
+[PLT237 SERIES](https://en.everlight.com/wp-content/plugins/ItemRelationship/product_files/pdf/DPL-0000040_PLT237_series_V3.pdf?utm_source=Datasheets&utm_medium=Part-details&utm_campaign=DS_Referrals&utm_content=Datasheet_Button&utm_term=PLT237/S19)
 
-https://www.everlighteurope.com/custom/files/datasheets/DPL-0000261.pdf
+[Photolink- Fiber Optic **Receiver** PLR237/T10BK ](https://www.everlighteurope.com/custom/files/datasheets/DPL-0000261.pdf)
+
 
 Photo-link Light **Transmitter** Unit PLT237/T10WH
 
@@ -28,7 +29,9 @@ Everlight PLT131/T1/12 Photolink Fiber Optic Transmitter 650nm
 
 PLR135/T8
 
+## PLx133 series 
 
+[PLT133 SERIES](https://www.everlight.com/wp-content/plugins/ItemRelationship/product_files/pdf/DPL-0000107_PLT133_series_v8.pdf)
 
 ## ref 
 

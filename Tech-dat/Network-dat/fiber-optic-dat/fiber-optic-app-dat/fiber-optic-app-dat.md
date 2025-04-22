@@ -1,9 +1,16 @@
 
 # fiber-optic-app-dat
 
-- [[USB-player-dat]]
+small solutions based on [[POF-dat]]
+
+- [[TI-audio-dat]] - [[USB-player-dat]]
+
+[TOSLINK DAC](https://hackaday.io/project/181024-toslink-dac)
 
 
+## Home networking 
+
+[How to Run Fiber Optic Cable in Your Backyard - My 10 Gig Install for Starlink](https://www.youtube.com/watch?v=pOKZlwB-lKQ)
 
 ## Apps 
 
@@ -30,6 +37,9 @@ underwater robot communication
 tube communication 
 
 ![](2025-03-28-17-41-33.png)
+
+
+
 
 
 ## ref 

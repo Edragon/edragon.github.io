@@ -7,16 +7,15 @@ info and knowledge
 
 already to go systems 
 
-- [[toslink-dat]] - [[photolink-dat]] 
+- [[toslink-dat]] - [[photolink-dat]]
+
+- [[LC-connector-dat]] - [[SC-connector-dat]] - [[SPF-transceiver-dat]] - [[MTP-MPO-Connector-dat]]
 
 
 apps and solutions 
 
 - [[fiber-optic-app-dat]] - [[fiber-optic-solutions-dat]]
   
-- [[TI-audio-dat]] - [[USB-player-dat]]
-
-
 
 ## note 
 
