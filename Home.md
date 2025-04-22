@@ -11,9 +11,7 @@
 
 ## category 
 
-- [[board-dat]] 
-
-- [[board-series-dat]] - [[board-new-dat]]
+- [[board-dat]] - [[board-series-dat]] - [[board-new-dat]]
 
 - [[shipment-dat]]
 
