@@ -4,14 +4,19 @@
 - 2G
 - LWPA
 
-
+- [[LTE-dat]]
 - CAT1
 - CAT4
 - [[NBIOT-dat]]
 
-LTE FDD B1/B3/B5/B8
-LTE FDD B1/B3/B5/B7/B8
-LTE FDD B1/B3/B5/B7/B8/B20/B28
+
+
+| LTE FDD                | LTE TDD |
+| ---------------------- | ------- |
+| B1/B3/B5/B8            |
+| B1/B3/B5/B7/B8         |
+| B1/B3/B5/B7/B8/B20/B28 |
+
 LTE TDD B34/B38/B39/B40/B41
 
 
@@ -160,6 +165,7 @@ Table 22: LTE mode NETLIGHT pin status
 ## Module manufacturer
 
 - [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
+
 
 
 ## ref 
