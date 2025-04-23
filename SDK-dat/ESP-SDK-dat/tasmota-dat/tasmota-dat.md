@@ -52,6 +52,8 @@ RGBW channels on relay 1..4, on board programmable LED on GPIO10 == relay 5
 
 ## demo video 
 
+This is a first test with tasmota, better use other functionality controller maybe PWM instead relay, we are not good at tasmota, please note.
+
 - [Esp32-c3 rgbw led drive board using tosmota demo #nwi1126](https://t.me/electrodragon3/360)
 
 ## ref 

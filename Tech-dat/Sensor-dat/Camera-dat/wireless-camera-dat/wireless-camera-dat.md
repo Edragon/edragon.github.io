@@ -1,6 +1,8 @@
 
 # wireless-camera-dat
 
+- duplicate of [[video-transmission-dat]]
+
 - [[wifi-camera-dat]]
 
 ## applications 
@@ -9,6 +11,8 @@
 
 
 ## FPV transmission
+
+- [[video-transmission-dat]] - [[DJI-dat]]
 
 ### DJI O4 vs Analog Video Camera
 
