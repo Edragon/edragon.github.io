@@ -4,6 +4,8 @@
 
 The common bom we hosted 
 
+https://www.electrodragon.com/w/RCL_List
+
 ## passive
 
 - [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[inductor-dat]]

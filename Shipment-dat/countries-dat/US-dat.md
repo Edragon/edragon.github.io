@@ -5,15 +5,15 @@
 
 ## Express shipment
 
-| method                         | status | set | max. | row | pre-tax   | title                                                                     |
-| ------------------------------ | ------ | --- | ---- | --- | --------- | ------------------------------------------------------------------------- |
-| [[SZFedex-IP-dat]]             | x      | -   | -    | 33  | 5%        | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days)                            |
-| [[SZFedex-IP-dat]] -tax-number |        | -   | -    | 33  | 5%        | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, need Fedex Account Number) |
-| [[SZFedex-IP-dat]] -pre-tax    |        | -   | -    | 33  | 5% + 160% | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, pre-tax)                   |
-| [[HKDHL-dat]]                  | x      | -   | -    | 33  | 5%        | HKDHL: DHL Express (Ref. ETA 6-10 days)                                   |
-| [[HKDHL-dat]]  -pre-tax        |        | -   | -    | 33  | 5% + 160% | HKDHL: DHL Express (Ref. ETA 6-10 days, pre-tax)                          |
-| [[CNUPS-dat]]                  | x      | -   | -    | 42  | 5%        | CNUPS: UPS Express (Ref. ETA 3-8 days)                                    |
-| [[CNUPS-dat]]  -pre-tax        |        | -   | -    | 42  | 5% + 160% | CNUPS: UPS Express (Ref. ETA 3-8 days, pre-tax)                           |
+| method                         | status | set | max. | row | pre-tax                | title                                                                     |
+| ------------------------------ | ------ | --- | ---- | --- | ---------------------- | ------------------------------------------------------------------------- |
+| [[SZFedex-IP-dat]]             | x      | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days)                            |
+| [[SZFedex-IP-dat]] -tax-number |        | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, need Fedex Account Number) |
+| [[SZFedex-IP-dat]] -pre-tax    |        | -   | -    | 33  | 5% + 60% (low declare) | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, 165% pre-tax)                   |
+| [[HKDHL-dat]]                  | x      | -   | -    | 33  | 5%                     | HKDHL: DHL Express (Ref. ETA 6-10 days)                                   |
+| [[HKDHL-dat]]  -pre-tax        |        | -   | -    | 33  | 5% + 60% (low declare) | HKDHL: DHL Express (Ref. ETA 6-10 days, 165% pre-tax)                          |
+| [[CNUPS-dat]]                  | x      | -   | -    | 42  | 5%                     | CNUPS: UPS Express (Ref. ETA 3-8 days)                                    |
+| [[CNUPS-dat]]  -pre-tax        |        | -   | -    | 42  | 5% + 60% (low declare) | CNUPS: UPS Express (Ref. ETA 3-8 days, 165% pre-tax)                           |
 
 
 
@@ -30,14 +30,14 @@
 
 ## Expendiated shipment
 
-| method                   | status | set   | max. | row | pre-tax   | title                                                                   |
-| ------------------------ | ------ | ----- | ---- | --- | --------- | ----------------------------------------------------------------------- |
-| [[PFCEXPRESS-dat]]       | x      |       |      |     |           |                                                                         |
-| [[USPST-dat]]            | x      |       |      |     |           |                                                                         |
-| [[EURPOST-dat]]          | x      | price | 120  | 7.5 | 5%        | USPS: Intl. + USPS (Ref. ETA: 8-15 days, 165% pre-tax)                  |
-| [[EURPOST-dat]] -pre-tax |        | price | 120  | 7.5 | 5% + 160% | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days, 165% pre-tax) |
-| [[USPS-dat]]             | x      | price | 120  | 11  | 5%        |                                                                         |
-| [[USPS-dat]]   -pre-tax  |        | price | 120  | 11  | 5% + 160% |                                                                         |
+| method                   | status | set   | max. | row | pre-tax                | title                                                                   |
+| ------------------------ | ------ | ----- | ---- | --- | ---------------------- | ----------------------------------------------------------------------- |
+| [[PFCEXPRESS-dat]]       | x      |       |      |     |                        |                                                                         |
+| [[USPST-dat]]            | x      |       |      |     |                        |                                                                         |
+| [[EURPOST-dat]]          | x      | price | 120  | 7.5 | 5%                     | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days)               |
+| [[EURPOST-dat]] -pre-tax |        | price | 120  | 7.5 | 5% + 60% (low declare) | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days, 165% pre-tax) |
+| [[USPS-dat]]             | x      | price | 120  | 11  | 5%                     | USPS: Intl. + USPS (Ref. ETA: 8-15 days)                                |
+| [[USPS-dat]]   -pre-tax  |        | price | 120  | 11  | 5% + 60% (low declare) | USPS: Intl. + USPS (Ref. ETA: 8-15 days, 165% pre-tax)                  |
 
 
 
@@ -100,4 +100,4 @@ This post summarizes the U.S. customs requirements detailed in the provided ship
 
 ## ref 
 
-
+- [[US]]
