@@ -5,6 +5,10 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 ## New Boards
 
+- [[A7670-dat]] new board with [[GNSS-dat]] will be ready next week
+
+- [[A7670-dat]] cheap board 4G [[LTE-dat]] version at 6 usd will be ready next week
+
 - board [[ESP1008-dat]] avaialble to buy and documentation ready 
 
 ## Development, Documents Updates
@@ -24,6 +28,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 - add some more battery info about [[Lead-acid-battery-dat]]
 
 - add more info about [[fiber-optic-dat]]
+
+- blog post ["Tear down and Learn a good-build $20 RC Toy Car"](https://www.electrodragon.com/disassemble-and-learn-a-good-build-20-rc-toy-car/)
 
 ## Dissusion, Feedback, To-do
 

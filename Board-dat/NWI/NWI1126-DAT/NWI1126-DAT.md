@@ -125,7 +125,7 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - video 1 
 - https://twitter.com/electro_phoenix/status/1610204098019880961
 
-
+- [[tasmota-dat]]
 
 ### Default test firmware 
 
@@ -133,7 +133,7 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 
 ![](2024-04-03-15-29-43.png)
 
-
+- [[tasmota-dat]] use guide please see here.
 
 
 
