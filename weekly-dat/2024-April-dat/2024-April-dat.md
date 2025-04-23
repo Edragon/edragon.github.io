@@ -1,5 +1,5 @@
 
-# week-10-11-dat
+# 2024-April-dat
 
 This a weekly update newsletter, to briefly tell you whats new and whats fun we are working at, hope you like
 
@@ -30,6 +30,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 - add more info about [[fiber-optic-dat]]
 
 - blog post ["Tear down and Learn a good-build $20 RC Toy Car"](https://www.electrodragon.com/disassemble-and-learn-a-good-build-20-rc-toy-car/)
+
+- [[Tasmota-dat]] demo and instruction for [[ESP32-dat]] and [[ESP8266-dat]], and [[NWI1126-dat]]
 
 ## Dissusion, Feedback, To-do
 
