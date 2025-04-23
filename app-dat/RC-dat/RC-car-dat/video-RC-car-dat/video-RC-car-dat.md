@@ -2,13 +2,13 @@
 # video-RC-car-dat
 
 
-[[tech-dat]] - [[Camera-dat]] - [[RC-car-dat]] - [[video-transmission-dat]] - [[robot-dat]]
+[[tech-dat]] - [[Camera-dat]] - [[rc-car-dat]] - [[video-transmission-dat]] - [[robot-dat]]
 
 
 
 ## Demos 
 
-### based on [[fiber-optic-dat]] 
+### based on cable [[fiber-optic-dat]] 
 
 #### demos 1
 
@@ -23,7 +23,9 @@
 
 - https://t.me/electrodragon3/334
 
+### Wireless 
 
+- [[video-transmission-dat]]
 
 ## ref 
 
