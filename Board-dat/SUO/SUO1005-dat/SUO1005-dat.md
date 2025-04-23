@@ -13,3 +13,6 @@ https://www.electrodragon.com/product/custom-order/?attribute_pa_purpose=extra-s
 
 ![](2025-04-23-20-09-10.png)
 
+## ref 
+
+- [[SUO1007-dat]]
