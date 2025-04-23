@@ -13,6 +13,8 @@
 
 - [[MIDI-dat]] - [[BNC-dat]]
 
+- [[OTG-dat]]
+
 more at [[cable-dat]]
 
 ## Breakout boards 
