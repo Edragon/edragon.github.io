@@ -18,6 +18,7 @@
 | CH340K |                 | ESSOP-10  |                          |
 | CH340E | [[CIC1029-dat]] | MSOP-10   |                          |
 
+- [[CH340N-dat]]
 
 - [[WCH-Jiangsu-Qin-Heng-CH340.pdf]]
 

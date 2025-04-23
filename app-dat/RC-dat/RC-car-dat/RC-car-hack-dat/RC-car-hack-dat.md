@@ -2,18 +2,18 @@
 # rc-car-hack-dat
 
 
-## battery Enlargement 
+## 1. battery Enlargement 
 
 - [[lithium-battery-dat]]
 
-## RC Signal Extension
+## 2. RC Signal Extension
 
 - improve up to 10KM by [[FPV-dat]] system [[ELRS-dat]]
 
-## Imaging System 
+## 3. Imaging System 
 
 - [[video-transmission-dat]]
 
-## GNSS location system 
+## 4. GNSS location system 
 
 - [[location-dat]]
