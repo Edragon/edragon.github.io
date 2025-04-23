@@ -5,6 +5,8 @@
 
 basic [[tech-dat]] - [[robot-dat]]
 
+
+
 ## Tracked robot platform 
 
 ![](2025-03-25-15-02-19.png)
@@ -36,7 +38,9 @@ Omnidirectional four-wheel two-wheel drive car
 - https://github.com/YahboomTechnology/Raspberry-pi-G1-Tank
 
 
+## read 
 
+- [Tear down and Learn a good-build $20 RC Toy Car](https://www.electrodragon.com/disassemble-and-learn-a-good-build-20-rc-toy-car/)
 
 ## ref 
 
