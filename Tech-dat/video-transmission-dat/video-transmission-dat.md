@@ -11,9 +11,12 @@
 
 ### DJI-camera
 
-- [[DJI-camera-dat]] 
+- [[DJI-dat]] 
 
 ### Other RC video transmission
+
+![](2025-04-23-14-33-42.png)
+
 
 ## APP 
 
