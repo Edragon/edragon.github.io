@@ -15,10 +15,11 @@
 
 - [[OTG-dat]]
 
-more at [[cable-dat]] - [[fiber-optic-dat]]
+more at [[cable-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
 
-long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] - [[ethernet-dat]], see more comparsion in page [[fiber-optic-dat]]
+long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] - [[ethernet-dat]], see more comparsion in page [[fiber-optic-dat]] - [[SFP-transceiver-dat]]
 
+- [[analog-dat]] - [[digital-dat]]
 
 ## Breakout boards 
 

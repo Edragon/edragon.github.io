@@ -2,10 +2,29 @@
 # SFP-transceiver-dat
 
 
-- [[SFP-receiver-housing-dat]]
+- [[SFP-receiver-housing-dat]] - [[SFP]] - [[pmod-dat]]
 
 Most SFP modules use LC connectors, though some may use SC (older gear) or others for special applications. - [[LC-connector-dat]]
 
+
+## What is inside a SFP transceiver?
+
+Fiber optic transceivers are key components of the fiber optic transmission network. They are designed in small form-factor with some integrated optical sub-assemblies which can be suitable for the high-density network. There are many SFPs available in the market with different features and specifications(SFP & SFP+). 
+
+Aren’t you aware of the major functions of these transceiver modules?
+
+- SFPs will transmit data and receive the data.
+- Transceivers provide the conversion of electrical signals to optical signals and vice versa.
+
+Inside the metal casing of a transceiver, there are several components and sub-assemblies that join together to form this.
+
+- Transmitter Optical Sub Assembly (TOSA)
+- Receiver Optical Sub Assembly (ROSA)
+- Bi-Directional Optical Sub Assembly (BOSA)
+
+![](2025-04-25-03-45-07.png)
+
+![](2025-04-25-03-45-33.png)
 
 ## 🔌 Common SFP Solutions for Optical Fiber
 
@@ -180,4 +199,4 @@ SFP+ 单模: 1310nm到1550nm波长，可传10~80千米。
 
 - [[fiber-optic-dat]]
 
-
+- https://forum.huawei.com/enterprise/intl/en/thread/What-is-inside-a-SFP-transceiver/667249762887417856?blogId=667249762887417856

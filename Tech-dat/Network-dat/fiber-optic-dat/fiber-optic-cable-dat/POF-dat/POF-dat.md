@@ -7,9 +7,9 @@
 
 - [[FC300T-dat]] - [[Photolink-dat]] - [[HFBR-dat]] - [[HFBR-0500Z-Series-dat]] 
 
-- [[DLR2180-dat]] - [[TCPT1200-dat]] - [[vishay-dat]]
+- [[DLR2180-dat]] - [[TCPT1200-dat]] - [[vishay-dat]] - [[sharp-dat]]
 
-- [[toshiba-dat]] - [[TOTX-TORX-dat]] - [[toslink-dat]]
+- [[toshiba-dat]] - [[TOTX-TORX-dat]] - [[toslink-dat]] 
 
 - [[POF]]
 
