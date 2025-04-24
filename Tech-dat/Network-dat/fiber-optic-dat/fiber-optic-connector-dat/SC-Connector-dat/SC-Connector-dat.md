@@ -49,6 +49,6 @@ Size: Relatively large compared to other connectors like LC.
 
 ## ref 
 
-device - [[SPF-transceiver-dat]]
+device - [[SFP-transceiver-dat]]
 
 - [[fiber-optic-dat]]

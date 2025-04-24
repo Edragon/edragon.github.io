@@ -9,7 +9,7 @@ already to go systems
 
 - [[toslink-dat]] - [[photolink-dat]]
 
-- [[LC-connector-dat]] - [[SC-connector-dat]] - [[SPF-transceiver-dat]] - [[MTP-MPO-Connector-dat]]
+- [[LC-connector-dat]] - [[SC-connector-dat]] - [[SFP-transceiver-dat]] - [[MTP-MPO-Connector-dat]]
 
 
 apps and solutions 
@@ -44,8 +44,28 @@ Gigabit optical-to-electrical modules must be used with Category 5e, Category 6,
 
 - [[self-loop-test-dat]]
 
+
+## comparison 
+
+| Feature                  | 🔌 RS-485 (Twisted Pair)    | 🔴 Plastic Optical Fiber (POF)      | 🧪 Glass Optical Fiber               |
+| ------------------------ | -------------------------- | ---------------------------------- | ----------------------------------- |
+| **Max Distance**         | ~1200 m (4000 ft)          | ~50–100 m                          | >10 km (with proper transceivers)   |
+| **Typical Data Rates**   | 9.6 kbps – 10 Mbps (short) | 10 kbps – 250 kbps (up to ~100m)   | 10 Mbps – 100 Gbps+                 |
+| **Best Range vs Speed**  | 9.6 kbps @ 1.2 km          | 9600–38400 bps @ 100 m             | 1 Gbps @ 10+ km (SM fiber)          |
+| **Signal Medium**        | Electrical (differential)  | Light (650nm LED, red)             | Light (laser or LED, 1310/1550nm)   |
+| **EMI Immunity**         | Good                       | Excellent                          | Excellent                           |
+| **Electrical Isolation** | Optional (via ICs)         | Yes (complete)                     | Yes (complete)                      |
+| **Installation Cost**    | Low                        | Medium                             | High                                |
+| **Ease of Termination**  | Simple (screw/crimp)       | Easy (cut and polish or click-fit) | Difficult (cleave, polish, splice)  |
+| **Connectors**           | Screw terminal, DB9, etc.  | Snap-in (HFBR, Versatile Link)     | SC, LC, ST, FC                      |
+| **Multi-node Support**   | Yes (up to 32 nodes)       | Point-to-point                     | Point-to-point (or splitter system) |
+| **Use Cases**            | Industrial control, MODBUS | EMI-safe short serial links, DIY   | High-speed data, WAN/LAN, telecom   |
+
+
+
+
 ## ref 
 
-- [[RJ45-DAT]]
+- [[RJ45-DAT]] - [[RS485-dat]]
 
 - [[fiber-optic]] - [[maker]]

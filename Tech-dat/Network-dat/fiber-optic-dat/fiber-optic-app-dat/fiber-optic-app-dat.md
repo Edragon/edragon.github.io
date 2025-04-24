@@ -7,6 +7,8 @@ small solutions based on [[POF-dat]]
 
 [TOSLINK DAC](https://hackaday.io/project/181024-toslink-dac)
 
+- [[fiber-optic-serial-dat]] - [[video-RC-car-dat]]
+
 
 ## Home networking 
 
@@ -44,4 +46,4 @@ tube communication
 
 ## ref 
 
-- [[fiber-optic-dat]]
+- [[fiber-optic-dat]] - [[fiber-optic-app]]

@@ -87,7 +87,55 @@ Under desire a different type can be used (there are some which contain the rece
 https://www.mouser.com/c/optoelectronics/fiber-optics/fiber-optic-transmitters-receivers-transceivers/?q=POF%20Transceiver
 
 
+## POF range == UART up to 100 Meters?
 
+Yes, it's possible to use POF for UART over 100 meters, but it requires careful setup.
+
+---
+
+### ⚠️ Challenges
+
+- **Attenuation:** ~0.15–0.20 dB/m → 15–20 dB loss at 100m
+- **Transceiver Limitations:** Basic modules like HFBR-1521/2521 are rated for ~50m
+- **Baud Rate:** Longer distances need lower baud rates for reliability
+
+---
+
+### 🔧 How to Make It Work
+
+#### 1. Use Better Transceivers
+- Choose high-power modules like:
+  - **HFBR-1414TZ / 2412TZ**
+  - Or similar industrial-grade parts
+
+#### 2. Use Quality Fiber
+- Use **ESKA SK-40/SK-80** POF
+- Keep fibers clean and avoid tight bends
+
+#### 3. Lower the Baud Rate
+- Recommended for 100m:
+  - **9600 or 19200 bps** (safe)
+  - **38400 bps** (possible with care)
+
+#### 4. Optional: Add Signal Conditioning
+- Use Schmitt triggers or line drivers (e.g., 74HC14) to clean up weak signals
+
+---
+
+### 🧠 Alternatives
+- For better reliability, consider:
+  - **Glass fiber with serial-fiber converters**
+  - **RS-485 over twisted pair** (up to 1200m)
+
+---
+
+### ✅ Summary
+
+| Feature        | Up to 50m         | Up to 100m              |
+|----------------|-------------------|--------------------------|
+| Baud Rate      | 9600–115200 bps   | 9600–38400 bps           |
+| Transceivers   | HFBR-15X1 series  | HFBR-14XX or similar     |
+| Fiber Quality  | Basic POF         | High-grade POF (SK-40)   |
 
 
 ## ref 
