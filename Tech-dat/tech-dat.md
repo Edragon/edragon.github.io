@@ -66,9 +66,9 @@
 
 
 
-### Interface 
+### Interface and signals 
 
-- [[interface-dat]] - [[memory-dat]]
+- [[interface-dat]] - [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]]
 
 
 ## Utilities  
