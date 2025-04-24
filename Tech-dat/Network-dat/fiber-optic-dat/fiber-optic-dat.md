@@ -63,6 +63,12 @@ Gigabit optical-to-electrical modules must be used with Category 5e, Category 6,
 
 
 
+## fiber & copper ethernet PHY board 
+
+[DP83869EVM - Copper & fiber industrial Ethernet PHY evaluation module](https://www.ti.com/tool/DP83869EVM)
+
+- DP83869HM
+
 
 ## ref 
 

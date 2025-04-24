@@ -138,6 +138,19 @@ Yes, it's possible to use POF for UART over 100 meters, but it requires careful 
 | Fiber Quality  | Basic POF         | High-grade POF (SK-40)   |
 
 
+## IF
+
+IF-D91, a fiber-optic photodiode, 
+and one IF-E97, a fiber-optic LED, both from Industrial Fiber Optics. 
+
+It provides a plastic optic connection feature over a plastic fiber cable with data rates of up to 512Kbps. 
+
+Received data from the IF-D91 photodiode is filtered and amplified through dual operational amplifier, the [[MCP6022-dat]] from Microchip, and sent for further processing via selected mikroBUS™ lines. 
+
+This Click board™ makes the perfect solution for high-speed digital data links, local area networks, video links, EMC/EMI signal isolation, fiber optic modems, and more.
+
+![](2025-04-25-04-40-38.png)
+
 ## ref 
 
 https://www.instructables.com/External-USB-audio-card-with-optical-SPDIF-POF-in/
