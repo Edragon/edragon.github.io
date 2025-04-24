@@ -3,6 +3,20 @@
 
 - [[sharp-dat]] - [[toslink]]
 
+
+## compare 
+
+| Feature           | TOSLINK                 | General Fiber Optic         |
+|------------------|-------------------------|-----------------------------|
+| **Purpose**       | Audio (S/PDIF)          | Data, telecom, internet     |
+| **Fiber Type**    | Plastic (POF)           | Glass (SMF/MMF)             |
+| **Distance**      | ~5–10 meters            | Up to kilometers            |
+| **Bandwidth**     | Limited (audio only)    | Very high (Gbps to Tbps)    |
+| **Connector Type**| Square TOSLINK          | LC, SC, ST, etc.            |
+| **Wavelength**    | ~650 nm (red light)     | 850, 1310, or 1550 nm       |
+| **Use Case**      | Home audio systems      | Enterprise, telecom, ISP    |
+
+
 ## TOSLINK
 
 - TOSLINK is a standardized optical fiber connection system for transmitting digital audio signals between devices.
