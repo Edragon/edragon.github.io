@@ -1,7 +1,7 @@
 
 # TOSLINK-dat
 
-
+- [[sharp-dat]] - [[toslink]]
 
 ## TOSLINK
 
@@ -73,8 +73,27 @@ While **TOSLINK** (optical) is a popular and widely used optical standard, espec
 - **POF with TTL transceivers** directly handles **5V logic signals**, making it simpler and **more compatible** with serial communication.
 
 
+## TOTX 
 
-## TOTX147 
+### TOTX147 
 
 - connector-less 
 
+### TOTX1350
+
+![](2025-04-25-03-00-29.png)
+
+
+## SCH? 
+
+refer more info from [[pmod-dat]]
+TX
+![](2025-04-25-03-38-29.png)
+
+RX
+![](2025-04-25-03-38-52.png)
+
+## ref 
+
+- [[TOSlink]] - [[fiber-optic]]
+ 

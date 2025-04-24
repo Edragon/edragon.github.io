@@ -9,6 +9,9 @@
 
 - [[NE5532-dat]]
 
+- [[PCM1804-dat]]
+
+
 ## ref 
 
-- [[IT-dat]]
+- [[TI-dat]] - [[TI-audio]] - [[TI]]

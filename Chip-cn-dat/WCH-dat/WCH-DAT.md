@@ -36,6 +36,10 @@
 
 - [[CH9343-dat]]
 
+## ethernet
+
+- [[CH395-dat]]
+
 
 ## repository 
 
