@@ -55,3 +55,9 @@ note below three version available, we only sell "right-bend" version here [[CCO
 
 
 ![](2025-04-08-15-17-53.png)
+
+
+
+## ref 
+
+- [[conn-pin-header]]

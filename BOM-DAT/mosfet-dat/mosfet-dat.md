@@ -21,7 +21,7 @@ common brand: [[Vishay-dat]]
 | SI2302    |      | [[Vishay-dat]]   | 3.1A  | SOT-23   | N       | 20V N-Channel MOSFET                        |
 | SI2307    |      | [[Vishay-dat]]   | 3.7A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
 | IR F5305  | 5305 | [[Infineon-dat]] | 31A   | TO-220AB | P       | 55V P-Channel MOSFET                        |
-| IR FR1205 |      | [[Infineon-dat]] | 33A   | D2PAK    | N       | 55V N-Channel MOSFET                        |
+| IR [[FR1205-dat]] |      | [[Infineon-dat]] | 33A   | D2PAK    | N       | 55V N-Channel MOSFET                        |
 
 
 

@@ -7,7 +7,7 @@ legacy wiki page - https://w.electrodragon.com/w/Category:MPS
 
 - [[MPS-ACDC-dat]]
 
-- [[MP1584-dat]]
+- [[MP1584-DAT]]
 
 - [[MP2315-dat]]
 
