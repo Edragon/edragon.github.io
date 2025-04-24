@@ -1,11 +1,14 @@
 
 # usb-dat 
 
-- [[USB-cable-dat]] - [[USB-ESD-dat]]
+- [[USB-cable-dat]] - [[USB-ESD-dat]] 
 
 - libusb-win32
 - https://zadig.akeo.ie/
 
+## USB variations 
+
+- [[USB2.0-dat]] - [[type-c-dat]]
 
 ## Devices 
 
