@@ -4,6 +4,10 @@
 - [[logic-dat]]
 
 
+## 74ACT00-dat
+
+- [[74ACT00-dat]] == Quad 2-Input NAND Gate
+
 ## 74HC165D
 
 ![](2024-09-20-11-33-37.png)
@@ -24,3 +28,9 @@
 | [[74xx1G07-dat]] | non-inverting buffer |                           | OPEN DRAIN OUTPUT |
 | [[74xx1G08-dat]] | AND                  |                           |                   |
 | [[74xx1G14-dat]] | inverting buffer     |                           |                   |
+
+
+
+## ref 
+
+- [[chip-dat]]

@@ -71,3 +71,10 @@ While **TOSLINK** (optical) is a popular and widely used optical standard, espec
 - **TOSLINK** optical transmitters and receivers are **designed for audio** signals that operate at relatively lower frequencies (44.1kHz or 48kHz for audio sampling).
   - **TTL signals**, on the other hand, are **high-speed** and require a continuous **stream of binary data** (e.g., 115200 baud rate or higher) without the need for extra encoding schemes.
 - **POF with TTL transceivers** directly handles **5V logic signals**, making it simpler and **more compatible** with serial communication.
+
+
+
+## TOTX147 
+
+- connector-less 
+
