@@ -11,6 +11,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - board [[ESP1008-dat]] avaialble to buy and documentation ready 
 
+- [[DPR1097-dat]] [[RS422-dat]] added 3.3V version 
+
 ## Development, Documents Updates
 
 - [[PNP-machine-dat]] == add information about the "Basic Knowledge", [[pnp-machine-software-dat]]
