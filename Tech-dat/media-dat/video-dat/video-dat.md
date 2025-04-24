@@ -1,7 +1,7 @@
 
 # video-dat
 
-![video-dat/2025-04-11-14-18-19.png](video-dat/2025-04-11-14-18-19.png)
+![](2025-04-11-14-18-19.png)
 
 
 ## resolution compare 

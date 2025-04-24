@@ -1,5 +1,8 @@
 
-# SPF-transceiver-dat
+# SFP-transceiver-dat
+
+
+- [[SFP-receiver-housing-dat]]
 
 Most SFP modules use LC connectors, though some may use SC (older gear) or others for special applications. - [[LC-connector-dat]]
 
@@ -172,6 +175,8 @@ SFP+ 单模: 1310nm到1550nm波长，可传10~80千米。
 
 
 ## ref 
+
+- [[SFP]]
 
 - [[fiber-optic-dat]]
 

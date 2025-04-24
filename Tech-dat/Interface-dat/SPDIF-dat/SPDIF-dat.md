@@ -5,6 +5,26 @@ https://en.wikipedia.org/wiki/S/PDIF
 
 ![](2025-04-24-18-42-26.png)
 
+## 🎧 Is SPDIF Analog or Digital?
+
+**SPDIF (Sony/Philips Digital Interface Format)** is a **digital** signal.
+
+---
+
+### 🔍 Quick Breakdown:
+- ✅ **Digital audio interface** (not analog)
+- 🔢 Carries **PCM audio data** (e.g., CD-quality) and compressed formats like **Dolby Digital**
+- 🛠️ Transmits audio as a **serial digital stream**
+- ⚡ Transmission methods:
+  - **Coaxial cable** (RCA-style, 0.5V TTL)
+  - **Optical cable** (Toslink, light pulses)
+
+---
+
+### 🧠 Tip:
+Even though coaxial SPDIF uses RCA-style connectors (common in analog systems), it's **still 100% digital**.
+
+
 
 ## 🧪 SPDIF to TTL Interface Circuit (Basic Example)
 
@@ -37,3 +57,8 @@ Comparator:
 - Adjust resistor values for different bias points if needed.
 - For more reliable decoding, consider using a dedicated SPDIF receiver chip like `DIR9001` or `CS8416`.
 
+## ref 
+
+- [[digital-audio-dat]] - [[audio-dat]]
+
+- [[SPDIF]]
