@@ -42,7 +42,7 @@ this probably wrong or not P2P type
 https://en.wikipedia.org/wiki/RS-422
 https://www.omega.com/en-us/resources/rs422-rs485-rs232
 
-- [[DPR1097-dat]]
+- [[DPR1097-dat]] - [[MAX490-dat]]
 
 - [[RS422]] - [[DPR1097]]
 

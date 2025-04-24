@@ -3,9 +3,11 @@
 
 - get more compare info here: [[glass-fiber-dat]]
 
-- [[FC300T-dat]] - [[Photolink-dat]] - [[HFBR-0500Z-Series-dat]] - [[TOTX-TORX-dat]]
+- [[FC300T-dat]] - [[Photolink-dat]] - [[HFBR-0500Z-Series-dat]] 
 
-- [[toshiba-dat]]
+- [[DLR2180-dat]] - [[TCPT1200-dat]] - [[vishay-dat]]
+
+- [[toshiba-dat]] - [[TOTX-TORX-dat]] - [[toslink-dat]]
 
 - [[POF]]
 
