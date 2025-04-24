@@ -52,4 +52,6 @@ https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5335/PLT237-T10WH_R
 
 ## ref 
 
-- [[fiber-optic-dat]]
+- [[fiber-optic-dat]] - [[fiber-optic]]
+
+- [[photolink]]
