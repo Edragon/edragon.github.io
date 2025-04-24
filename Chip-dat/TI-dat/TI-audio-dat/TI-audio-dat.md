@@ -3,12 +3,12 @@
 
 - [[TPA3116-dat]]
 
-
-
-
-[PCM2906C](https://www.ti.com/product/PCM2906C)
-
-Stereo USB CODEC with line out and S/PDIF, Bus-powered
-
+- [[PCM2906-dat]] - [[PCM5122-dat]] - [[PCM5102-dat]]
 
 - [[audio-dat]]
+
+- [[NE5532-dat]]
+
+## ref 
+
+- [[IT-dat]]
