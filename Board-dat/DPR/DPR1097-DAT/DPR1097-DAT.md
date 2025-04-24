@@ -2,7 +2,13 @@
 # DPR1097 RS-422
 
 
-## Pin definition
+## Info
+
+[product url - RS422-TTL Module, Full Duplex, RS-422](https://www.electrodragon.com/product/rs422-ttl-module-full-duplex-rs-422/)
+
+## Board Map, Dimension, Pins, etc.
+
+### Pin definition
 
 - GND 
 - A = R +
@@ -11,11 +17,10 @@
 - Y = T +
 
 
-
 ![](2023-10-10-15-49-47.png)
 
 
-## Working Principle 
+### Working Principle 
 
 To run a loop test, connect 
 
@@ -25,21 +30,26 @@ To run a loop test, connect
 Connect USB-TTL bridge for example [[PL2303-dat]] or more options from [[serial-dat]] TXD to RXD, RXD to TXD, 5V-5V, GND-GND.
 
 
+## Applications, category, tags, etc. 
+
+## Demo Code and Video
 
 
-## Ref 
 
-- https://www.electrodragon.com/product/rs422-ttl-module-full-duplex-rs-422/
+## old versions 
+
+The ZYBA hole locations are in a different position AND the order has changed to YZBA.
 
 
-Legacy Wiki 
-- https://w.electrodragon.com/w/Category:Interface
-- https://w.electrodragon.com/w/RS-422
+
+## ref 
 
 
 - [[RS422-dat]] - [[interface-dat]]
-  
-- [[DPR1097]]
 
+- [legacy wiki page ](https://www.electrodragon.com/w/Category:Interface)
+- [RS-422](https://w.electrodragon.com/w/RS-422)
+
+- [[DPR1097]]
 
 

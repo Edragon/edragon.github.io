@@ -1,6 +1,14 @@
 
 # coaxial-cable-dat
 
+🔶 Coaxial (RCA) SPDIF:
+
+- Uses a copper wire inside a coaxial cable.
+- Has an RCA connector (looks like those red/white/yellow plugs).
+- Carries electrical digital signals.
+- Requires a 75-ohm impedance cable for proper SPDIF transmission.
+
+
 ## S/PDIF
 
 https://en.wikipedia.org/wiki/S/PDIF

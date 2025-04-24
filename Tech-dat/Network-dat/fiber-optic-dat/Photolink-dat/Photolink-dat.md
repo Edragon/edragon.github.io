@@ -23,15 +23,32 @@ https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5335/PLT237-T10WH_R
 | **Manufacturer**| Everlight (Likely)               | Everlight                        |
 
 
-Everlight PLT131/T1/12 Photolink Fiber Optic Transmitter 650nm
+### matched connectors 
+
+![](2025-04-24-18-39-29.png)
+
+[[TOSLINK-dat]] [[SPDIF-dat]] connector - [[interface-dat]]
+
+[reference](https://wiki.odroid.com/odroid-c2/application_note/external_connector/spdif)
+
+
+## Everlight PLT131/T1/12 Photolink Fiber Optic Transmitter 650nm
 
 ![](2025-04-21-16-00-21.png)
 
-PLR135/T8
+## PLR135/T8
+
+
 
 ## PLx133 series 
 
 [PLT133 SERIES](https://www.everlight.com/wp-content/plugins/ItemRelationship/product_files/pdf/DPL-0000107_PLT133_series_v8.pdf)
+
+
+
+
+
+
 
 ## ref 
 
