@@ -1,7 +1,7 @@
 
 # RF-LINK-dat 
 
-- more info please find at legacy wiki page - https://w.electrodragon.com/w/Category:RF-Link
+- [more info please find at legacy wiki page](https://w.electrodragon.com/w/Category:RF-Link)
 
 
 

@@ -1,6 +1,26 @@
 
 # ELRS-dat
 
+Info - [[ELRS-frequency-dat]]
+
+
+## ELRS-link 
+
+ELRS-remote-console-tx 
+
+- BETAFPV literadio 3
+- BETAFPV literadio 2
+
+- [[edge-tx-dat]]
+
+- [[ELRS-RX-dat]] - [[CRSF-dat]] - [[SX1276-dat]] - [[ESP8285-dat]] - [[ESP32-dat]] - [[SX1281-dat]] - [[SX1208-dat]]
+
+https://github.com/ExpressLRS/ExpressLRS
+
+https://www.expresslrs.org/quick-start/getting-started/
+
+
+
 ## **ExpressLRS (ELRS) 2.4GHz Standard Explained**  
 
 **ExpressLRS (ELRS) 2.4GHz** is an open-source **long-range, low-latency radio control link** developed for FPV drones and RC applications. It offers **high performance, ultra-fast response times, and robust signal reliability** compared to traditional RC protocols like FrSky, Crossfire, and Ghost.  
@@ -64,6 +84,35 @@
 🚀 **If you need ultra-low latency for FPV racing or long-range performance at an affordable price, ExpressLRS 2.4GHz is the best choice!** 🔥  
 
 
+## 2.4hz compare to LORA 915mhz
+
+| Feature                     | DJI NC3 (OcuSync 2.0)     | ELRS 2.4GHz (100mW)          | ELRS 915MHz (100mW, SX1276)   |
+|----------------------------|---------------------------|------------------------------|-------------------------------|
+| Protocol Type              | Proprietary digital (DJI) | Open-source LoRa/FLRC        | Open-source LoRa              |
+| Frequency Band             | 2.4GHz + 5.8GHz           | 2.4GHz                        | 915MHz                        |
+| Max Packet Rate            | N/A (digital control/video)| Up to 500Hz                  | Up to 50Hz                    |
+| Latency (best-case)        | ~120 ms (control + video) | ~2.5 ms (500Hz)              | ~20 ms (50Hz)                 |
+| Typical Latency            | ~120–150 ms               | ~6–13 ms                     | ~22–30 ms                     |
+| Max Range (LOS, FCC)       | ~10 km                    | ~2 km                        | ~10 km                        |
+| Penetration (Obstacles)    | Moderate                  | Moderate                     | Strong                        |
+| Interference Resistance    | High (hopping + digital)  | Moderate                     | Strong                        |
+| Video Support              | Yes (integrated)          | No                           | No                            |
+| Use Case                   | DJI drones (Mini, Air)    | FPV racing, freestyle        | Long-range FPV, endurance     |
+| Antenna Size               | Small                     | Small                        | Larger                        |
+| Custom Flight Controllers  | Not supported             | Fully supported              | Fully supported               |
+
+
+❌ No — ELRS does not support 5.8GHz (as of now).
+
+- [[LORA-dat]] - [[RF-2.4ghz-dat]]
+
+- [[5.8Ghz-dat]]
+
+
+
+
 ## ref 
 
-- [[FPV-dat]]
+- [[FPV-dat]] 
+
+- [[ELRS]]

@@ -59,3 +59,8 @@ SAMD21
 
 - FS32K144HAT0MLHR == 10+: ￥29.48
 - FS32K144HAT0MLHR == 10 usd 
+
+
+## ref 
+
+- [[MCU]]
