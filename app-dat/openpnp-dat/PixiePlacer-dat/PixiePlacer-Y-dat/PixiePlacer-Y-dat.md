@@ -44,6 +44,7 @@ Nuts and Bolts
 - [assembly video ](https://www.youtube.com/watch?v=StzaezD6ANE)
 
 
+
 ### Tension Slider
 
 - [[belt-sys-dat]] - [[timing-pulley-dat]] - [[glue-dat]] - [[idler-dat]]
@@ -93,7 +94,7 @@ Nuts and Bolts
 | Nuts and Bolts  | Socket_Cap_Screw_M5x16mm          | Motor Mounting Screws                                         | -          |        4 |
 | Standard Part   | 608_Bearing                       | Bearing to keep the Shaft align on the left back side         | -          |        1 |
 | Nuts and Bolts  | Socket_Cap_Screw_M3x6mm           | Mount Bearing Screws                                          | -          |        3 |
-| Standard Part   | Nema23_Motor                      | Dual Shaft Motor Nema 23;  84mm; 2,4Nm; 8mm Dual Shaft        | -          |        1 |
+| Standard Part   | Nema23_Motor - [[stepper-dat]]                      | Dual Shaft Motor Nema 23;  84mm; 2,4Nm; 8mm Dual Shaft        | -          |        1 |
 | Standard Part   | Shaft_8mm                         | 8mm Shaft for transfering the Motor rotation to the left side | 630mm      |        1 |
 | Standard Part   | Shaft_Coupler_8mm                 | Couples the Motor Shaft to the long shaft to the left side    | -          |        1 |
 | Standard Part   | GT2_Belt_6mm                      | Y-Axis Belt                                                   | 1355mm     |        2 |
@@ -107,7 +108,7 @@ Nuts and Bolts
 - Left_Back_Mounting_Plate_Y-Axis  
 - Right_Back_Mounting_Plate_Y-Axis 
 
-- [[motor-dat]][[belt-sys-dat]]
+- [[motor-dat]] - [[belt-sys-dat]]
 
 - [[mechanics-dat]] - [[bearing-dat]] - [[shaft-dat]] - [[belt-dat]]
 
