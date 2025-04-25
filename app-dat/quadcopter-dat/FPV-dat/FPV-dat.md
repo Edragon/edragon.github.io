@@ -7,21 +7,31 @@
 
 - [[ELRS-dat]]
 
+
+
+
 ## parts of the FPV drones
 
 - **Flight Controller**: The brain of the drone, responsible for stabilizing and controlling the flight. It processes data from sensors and executes commands from the pilot or autopilot system.
+
 - **Electronic Speed Controller (ESC)**: Controls the speed of the motors by adjusting the power supplied to them. ESCs are essential for smooth and responsive flight.
+
 - **Motors**: Provide the thrust needed for flight. Brushless motors are commonly used in FPV drones due to their efficiency and power.
+
 - **Propellers**: Generate lift by spinning rapidly. The size and pitch of the propellers can significantly affect the drone's performance and flight characteristics.
+
+  - [[SCU1059-dat]]
+
 - **Camera**: Captures real-time video for FPV flying. FPV cameras are designed to provide low-latency video transmission to the pilot's goggles or screen.
 
 - [[VTX-dat]]: Video Transmitters are commonly referred to as VTX units. They are responsible for transmitting the video signal from the camera to the pilot's goggles or screen. VTX units come in various power levels and frequencies, allowing pilots to choose the best option for their flying environment.
 - **Antenna**: Enhances the signal strength and range of the VTX. Different antenna types (e.g., dipole, patch, circular polarized) can be used to optimize performance.
 
-- ExpressLRS: A long-range radio control link for FPV drones, known for its low latency and high refresh rates. It is an open-source project that competes with other systems like Crossfire and ELRS.
+- **ExpressLRS**: A long-range radio control link for FPV drones, known for its low latency and high refresh rates. It is an open-source project that competes with other systems like Crossfire and ELRS.
+
+  - [[ELRS-dat]]
+
 - **Goggles**: Wearable displays that allow pilots to see the live video feed from the drone's camera. They often include features like head tracking and DVR (Digital Video Recorder) capabilities.
-
-
 
 
 

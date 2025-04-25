@@ -1,7 +1,7 @@
 
 # ELRS-dat
 
-Info - [[ELRS-frequency-dat]]
+Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]]
 
 
 ## ELRS-link 
@@ -14,6 +14,11 @@ ELRS-remote-console-tx
 - [[edge-tx-dat]]
 
 - [[ELRS-RX-dat]] - [[CRSF-dat]] - [[SX1276-dat]] - [[ESP8285-dat]] - [[ESP32-dat]] - [[SX1281-dat]] - [[SX1208-dat]]
+
+- [[ELRS-915M-dat]] - [[ELRS-CHS-PWM-dat]] - [[ELRS-2.4Ghz-dat]] 
+
+
+## resources 
 
 https://github.com/ExpressLRS/ExpressLRS
 
