@@ -5,6 +5,7 @@
 
 - [[FPV-controller-dat]] - [[Goggles-dat]]
 
+- [[ELRS-dat]]
 
 ## parts of the FPV drones
 
