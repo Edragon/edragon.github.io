@@ -25,6 +25,12 @@
 
 - [[weekly-dat]]
 
+## This wiki changes
+
+- [Latest Changes (Globally)](https://w2.electrodragon.com/gollum/latest_changes)
+
+- [all categories list](https://w2.electrodragon.com/gollum/overview)
+
 ## Notes 
 
 - [[chinese-holiday-dat]]
