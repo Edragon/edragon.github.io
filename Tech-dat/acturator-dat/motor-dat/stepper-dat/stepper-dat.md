@@ -1,6 +1,14 @@
 
 # stepper-dat
 
+
+
+## common options 
+
+- dual shaft 
+
+
+
 ## How to identify the common port of a 4-wire motor: 
 
 Use the resistance * 1 position of the multimeter to measure the four terminals separately. 
@@ -50,3 +58,8 @@ A **NEMA 23** motor is a **stepper motor** with a standard **mounting flange siz
 - **Robotics & Automation Systems**
 - **Textile and Packaging Machines**
 - **Conveyor Belt Systems**
+
+
+
+## ref 
+
