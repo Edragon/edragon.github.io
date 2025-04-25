@@ -40,6 +40,14 @@
 | [[USPS-dat]]   -pre-tax  |        | price | 120  | 11  | 5% + 60% (low declare) | USPS: Intl. + USPS (Ref. ETA: 8-15 days, 165% pre-tax)                  |
 
 
+## Shipping Hold Notification (Effective April 23rd, 2025)
+
+*   **Affected Services (US Routes):** PFCEX, PFCEXB, PFCEXPRESS, EURPOST, PFCGL, USPST.
+*   **Shipment Hold:** Starting April 23rd, 2025, shipments using the affected services destined for the United States will be temporarily held in our warehouse.
+*   **Reason for Hold:** This measure is taken in anticipation of new US customs tariff regulations expected to be finalized on May 2nd, 2025.
+*   **Dispatch Schedule:** Held shipments will be dispatched after May 2nd, once the new tariff details are confirmed and implemented.
+*   **Customs Fees:** Please note that customs duties and clearance processing fees were *not* pre-collected for shipments dispatched via these services on or after April 23rd. After the new tariffs are finalized on May 2nd, any applicable fees will be assessed and collected retrospectively, if necessary, before the final dispatch of the goods.
+*   **Customer Communication:** We kindly request that you communicate this temporary hold to your customers. Shipping immediately carries a higher risk of customs inspections in the destination country, potentially leading to delays ranging from two weeks to a month. Holding the shipments in the warehouse during this transition period is considered a safer approach to minimize potential inspection-related delays.
 
 
 ### updates 2025-04-23
