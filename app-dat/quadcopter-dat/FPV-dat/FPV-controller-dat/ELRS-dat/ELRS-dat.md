@@ -11,12 +11,13 @@ ELRS-remote-console-tx
 - BETAFPV literadio 3
 - BETAFPV literadio 2
 
-- [[edge-tx-dat]]
+- [[edge-tx-dat]] - [[radiomaster-dat]] 
 
 - [[ELRS-RX-dat]] - [[CRSF-dat]] - [[SX1276-dat]] - [[ESP8285-dat]] - [[ESP32-dat]] - [[SX1281-dat]] - [[SX1208-dat]]
 
 - [[ELRS-915M-dat]] - [[ELRS-CHS-PWM-dat]] - [[ELRS-2.4Ghz-dat]] 
 
+- [[ELRS]]
 
 ## resources 
 
