@@ -29,14 +29,11 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - add some more battery info about [[Lead-acid-battery-dat]]
 
-- add more info about [[fiber-optic-dat]]
+- add more info about [[fiber-optic-dat]] and [[POF-dat]], we are going to make more relevant boards soon.
 
 - blog post ["Tear down and Learn a good-build $20 RC Toy Car"](https://www.electrodragon.com/disassemble-and-learn-a-good-build-20-rc-toy-car/)
 
 - [[Tasmota-dat]] demo and instruction for [[ESP32-dat]] and [[ESP8266-dat]], and [[NWI1126-dat]]
-
-## Dissusion, Feedback, To-do
-
 
 
 ## Interesting Readings, News
