@@ -4,13 +4,17 @@
 
 The new slighly updated board with following change also have a serious issue, please check the image below. The board with this issue is called "MPC1119-2-bad".
 
+The purpose of the changes are add some more installation holes and power sockets to the board at the spare space.
+
 ![](2025-04-28-12-29-05.png)
 
 ## The issue and quick fix: 
 
 Please refer to the image above. There is an overlapping wire on the PCB (overlapped with the through-hole), highlighted in the **YELLOW** box.
 
-To quickly fix this issue, please cut the **BLUE** wire on the back of the PCB and reconnect the pins indicated by the two **ORANGE** boxes.
+To quickly fix this issue, please cut the **BLUE** wire on the back of the PCB in the **YELLOW** box 
+
+and reconnect the pins indicated by the two **ORANGE** boxes by a wire.
 
 **If you require a replacement, please just reply to the order email, and we will send you a new board.**
 
