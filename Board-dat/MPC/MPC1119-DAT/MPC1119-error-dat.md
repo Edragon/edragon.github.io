@@ -20,6 +20,12 @@ We sincerely apologize for this issue. This will be corrected in the next produc
 ![](2025-04-28-12-13-11.png)
 
 
+## The fix:
+
+The fixed board will be called "202504-MPC1119-3" as marked on the top right, to fix this this issue.
+
+![](2025-04-28-12-38-49.png)
+
 
 ## ref 
 
