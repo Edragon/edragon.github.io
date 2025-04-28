@@ -63,3 +63,4 @@ A **NEMA 23** motor is a **stepper motor** with a standard **mounting flange siz
 
 ## ref 
 
+- [[stepper]]
