@@ -19,7 +19,7 @@ To quickly fix this issue, please cut the **BLUE** wire on the back of the PCB a
 
 We sincerely apologize for this issue. This will be corrected in the next production batch, which will be released as a new version.
 
-## The fix:
+## The future fixed version:
 
 The fixed board will be called "MPC1119-3 (202504)" as marked on the **top right**, to fix this this issue. Website version will be named "MPC1119-3-fixed"
 
