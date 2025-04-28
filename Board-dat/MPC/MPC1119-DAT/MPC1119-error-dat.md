@@ -1,6 +1,13 @@
 
 # MPC1119-error-dat.md
 
+
+The new slighly updated board with following change also have a serious issue, please check the image below.
+
+![](2025-04-28-12-29-05.png)
+
+**The issue is: **
+
 Please refer to the image above. There is an overlapping wire on the PCB, highlighted in the **YELLOW** box.
 
 To quickly fix this issue, please cut the **BLUE** wire on the back of the PCB and reconnect the pins indicated by the two **ORANGE** boxes.
