@@ -8,3 +8,4 @@ Both versions have no functions problem anymore
 - V2 version does not have RTC time clock and extra memory
 - and free a few IOs to use. 
 - Also the direction of the output connector is changed too. 
+
