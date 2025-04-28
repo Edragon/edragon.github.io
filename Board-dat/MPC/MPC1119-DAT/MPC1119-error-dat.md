@@ -21,7 +21,7 @@ We sincerely apologize for this issue. This will be corrected in the next produc
 
 ## The fix:
 
-The fixed board will be called "202504-MPC1119-3" as marked on the **top right**, to fix this this issue. Website version will be named "MPC1119-3-fixed"
+The fixed board will be called "MPC1119-3 (202504)" as marked on the **top right**, to fix this this issue. Website version will be named "MPC1119-3-fixed"
 
 ![](2025-04-28-12-38-49.png)
 
