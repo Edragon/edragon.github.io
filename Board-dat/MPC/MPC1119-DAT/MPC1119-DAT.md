@@ -63,8 +63,9 @@ P2 pins definitions, 3V3 direct lead out
 ![](2023-09-12-12-52-41.png)
 
 
+
 ## ref 
 
-- [[MPC1119-faq-dat]]
+- [[MPC1119-faq-dat]] - [[RMP-driver-dat]]
 
 - [[mpc1119]]
