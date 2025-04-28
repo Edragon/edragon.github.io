@@ -8,7 +8,7 @@ The new slighly updated board with following change also have a serious issue, p
 
 ## The issue and quick fix: 
 
-Please refer to the image above. There is an overlapping wire on the PCB, highlighted in the **YELLOW** box.
+Please refer to the image above. There is an overlapping wire on the PCB (overlapped with the through-hole), highlighted in the **YELLOW** box.
 
 To quickly fix this issue, please cut the **BLUE** wire on the back of the PCB and reconnect the pins indicated by the two **ORANGE** boxes.
 
@@ -27,5 +27,7 @@ The fixed board will be called "MPC1119-3 (202504)" as marked on the **top right
 
 
 ## ref 
+
+[Problem analyzer can also see here.](https://rpi-rgb-led-matrix.discourse.group/t/new-electrodragon-board-version-with-e-line-problem/1062)
 
 - [[MPC1119-dat]]
