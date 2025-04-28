@@ -2,7 +2,7 @@
 # MPC1119-error-dat.md
 
 
-The new slighly updated board with following change also have a serious issue, please check the image below.
+The new slighly updated board with following change also have a serious issue, please check the image below. The board with this issue is called "202504-MPC1119-2-bad".
 
 ![](2025-04-28-12-29-05.png)
 
