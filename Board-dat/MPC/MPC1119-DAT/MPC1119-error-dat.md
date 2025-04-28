@@ -2,11 +2,11 @@
 # MPC1119-error-dat.md
 
 
-The new slighly updated board with following change also have a serious issue, please check the image below. The board with this issue is called "202504-MPC1119-2-bad".
+The new slighly updated board with following change also have a serious issue, please check the image below. The board with this issue is called "MPC1119-2-bad".
 
 ![](2025-04-28-12-29-05.png)
 
-**The issue is: **
+## The issue and quick fix: 
 
 Please refer to the image above. There is an overlapping wire on the PCB, highlighted in the **YELLOW** box.
 
@@ -14,15 +14,14 @@ To quickly fix this issue, please cut the **BLUE** wire on the back of the PCB a
 
 **If you require a replacement, please just reply to the order email, and we will send you a new board.**
 
-We sincerely apologize for this issue. This will be corrected in the next production batch, which will be released as a new version.
-
 
 ![](2025-04-28-12-13-11.png)
 
+We sincerely apologize for this issue. This will be corrected in the next production batch, which will be released as a new version.
 
 ## The fix:
 
-The fixed board will be called "202504-MPC1119-3" as marked on the top right, to fix this this issue.
+The fixed board will be called "202504-MPC1119-3" as marked on the **top right**, to fix this this issue. Website version will be named "MPC1119-3-fixed"
 
 ![](2025-04-28-12-38-49.png)
 
