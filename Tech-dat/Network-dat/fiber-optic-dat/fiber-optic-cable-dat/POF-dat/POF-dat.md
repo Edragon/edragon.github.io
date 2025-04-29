@@ -59,9 +59,9 @@ Polymer fibers are used for high speed data network in homes, commerce and indus
 - 🌟 Material	Core made from plastic (usually PMMA) instead of glass
 - 📏 Core Size	Typically 1 mm (much thicker than glass fiber)
 - 📡 Distance	Short range (up to ~100 meters)
-- 🔌 Use Cases	Consumer electronics, automotive, home networks
+- 🔌 Use Cases	Consumer electronics, asutomotive, home networks
 - 💰 Cost	Cheaper and more flexible, easy to handle
-- ⚠️ Limitation	High signal loss (attenuation), not suitable for long-distance or high-speed telecom links
+- ⚠️ Limitation	High signal loss (attenuation), not suitable for long-ditance or high-speed telecom links
 
 ## POF distance 
 
