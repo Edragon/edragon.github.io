@@ -35,11 +35,9 @@ pre-defined file: D:\Program Files\KiCad\8.0\share\kicad\template\Arduino_Nano
 
 - autoroute - by [[kicad-plugin-dat]]
 
-- ground pour 
 
 
-
-## PCB 
+## PCB Info 
 
 commom layers 
 
@@ -53,7 +51,7 @@ commom layers
 
 * F for front and B for back 
 
-### PCB init setup 
+## PCB init setup 
 
 ![](2023-12-11-00-04-17.png)
 
@@ -61,3 +59,30 @@ commom layers
 - 钻孔尺寸
 - 网格 1.0 mm 
 - 缩放 
+
+## Layout setup 
+
+Simply Only use Trace x.CU, Silkscreen layer x.Silkscreen, and Edge.Cuts 
+
+![](2025-04-29-16-22-13.png)
+
+
+## routing PCB
+
+![](2025-04-29-16-11-14.png)
+
+![](2025-04-29-16-11-39.png)
+
+
+## Modify PCB 
+
+
+## Filled Zones (ground pour)
+
+Edit - Fill All Zones (B or Ctrl+B)
+
+
+
+## export gerber 
+
+output folder ./

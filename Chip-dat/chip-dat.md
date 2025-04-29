@@ -14,7 +14,7 @@
 
 - [[fairchild-dat]] - [[NXP-dat]]
 
-[[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]]
+[[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]]
 
 
 ## function 
