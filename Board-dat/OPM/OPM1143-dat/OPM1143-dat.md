@@ -5,7 +5,16 @@
 
 [legacy wiki page. ](https://www.electrodragon.com/w/Category:Relay)
 
+- current surge protection 
+- relay kickback protection
+
+
+
 
 ## ref 
+
+https://w.electrodragon.com/w/Category:Relay
+
+- [[OPM1143]]
 
 - [[acdc-dat]] - [[relay-dat]]
