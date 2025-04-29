@@ -5,7 +5,7 @@
 
 - [[kicad-workflow-dat]] - [[kicad-plugin-dat]] - [[kicad-shortcuts-dat]]
 
-- [[kicad-lib-dat]] - [[kicad-data-dat]] - [[kicad-setup-dat]]
+- [[kicad-lib-dat]] - [[kicad-data-dat]] - [[kicad-setup-dat]] - [[kicad-symbol-dat]] - [[kicad-footprint-dat]]
 
 - [[kicad-simulation-dat]]
 
