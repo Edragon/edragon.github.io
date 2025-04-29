@@ -68,7 +68,9 @@
 
 ### Interface and signals 
 
-- [[interface-dat]] - [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]]
+- [[interface-dat]] - [[serial-dat]]
+
+- [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]]
 
 
 ## Utilities  
@@ -88,7 +90,7 @@
 
 ## EDA
 
-- [[EDA-dat]] - [[kicad-dat]] - [[eagle-dat]]
+- [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]]
 
 ## simulator 
 

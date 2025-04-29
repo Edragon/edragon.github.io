@@ -5,10 +5,20 @@
 
 ## common used global symbol 
 
+- Connector 
+    - USB_C_Plug
 - Connector_generic_MountingPin
 - jumper
+- interface_USB
 
 
 
+
+
+## ref 
+
+- [[kicad-footprint-dat]]
+
+- [[USB-dat]]
 
 
