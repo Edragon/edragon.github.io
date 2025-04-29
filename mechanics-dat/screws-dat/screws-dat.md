@@ -6,7 +6,11 @@
 - M3x10
 - M5x10 
 
-## Head Types 
+## Self-tapping Screws
+
+Self-tapping screws are designed to create their own hole as they are driven into the material. They are commonly used in metal, plastic, and wood applications. The most common types of self-tapping screws include:
+
+## Other Head Types 
 
 ### Round head 
 
