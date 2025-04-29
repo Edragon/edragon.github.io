@@ -13,10 +13,10 @@ case used by [[NWI1072-dat]] - [[NWI1126-dat]]
 - PC Flame Retardant
 - Polycarbonate
 
-- use screw M2 * 8 or M3 * 8 
+- use Self-tapping screw M2 * 8 or M3 * 8 
 
 ## ref 
 
-- [[screws-dat]]
+- [[screws-dat]] - [[case-led]]
 
 
