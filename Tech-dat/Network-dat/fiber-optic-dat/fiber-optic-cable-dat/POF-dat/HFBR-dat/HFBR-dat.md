@@ -39,6 +39,8 @@ These are dedicated fiber optic ICs that handle the light/electrical signal conv
 
 ## HFBR series 
 
+- [[HFBR-0500Z-Series-dat]] - [[HFBR-x4xx-dat]]
+
 HFBR-4501 / HFBR-4511 == TX / RX
 ![](2025-04-25-01-23-07.png)
 
@@ -58,6 +60,14 @@ HFBR-4516
 ![](2025-04-25-01-25-31.png)
 
 HFBR-4505对接器（灰色） / HFBR-4515对接器（蓝色）
+
+
+
+## AFBR-0553Z Evaluation Kit
+
+DC-to-50 MBd 650-nm Link with RSSI Versatile Link Fiber Optic Evaluation Kit
+
+![](2025-04-29-14-34-51.png)
 
 ## ref 
 

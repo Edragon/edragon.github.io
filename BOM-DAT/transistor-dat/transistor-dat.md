@@ -12,6 +12,8 @@ common brand: 	Infineon
 
 - ref - https://www.censtry.com/blog/transistor-npn-vs-pnp-difference-between-pnp-and-npn-transistor.html
 
+[[transistor-array-dat]]
+
 ## common used 
 
 ### S8050 

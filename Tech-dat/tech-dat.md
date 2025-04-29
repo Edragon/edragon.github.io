@@ -88,11 +88,11 @@
 
 ## EDA
 
-- [[EDA-dat]]
+- [[EDA-dat]] - [[kicad-dat]] - [[eagle-dat]]
 
 ## simulator 
 
-- [[EDA-simulation]]
+- [[EDA-simulation-dat]]
 
 
 ## Mechnicals 
