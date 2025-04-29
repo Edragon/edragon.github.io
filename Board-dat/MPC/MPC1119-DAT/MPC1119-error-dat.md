@@ -18,8 +18,13 @@ and reconnect the pins indicated by the two **ORANGE** boxes by a wire.
 
 **If you require a replacement, please just reply to the order email, and we will send you a new board.**
 
+This is how to fix:
 
 ![](2025-04-28-12-13-11.png)
+
+This is how it looks like after the fix, note the blue cut:
+
+![](2025-04-29-19-09-41.png)
 
 We sincerely apologize for this issue. This will be corrected in the next production batch, which will be released as a new version.
 
