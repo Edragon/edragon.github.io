@@ -24,13 +24,15 @@ This is how to fix:
 
 This is how it looks like after the fix, note the blue cut:
 
+Also is the current quick-fixed version MPC1119
+
 ![](2025-04-29-19-09-41.png)
 
 We sincerely apologize for this issue. This will be corrected in the next production batch, which will be released as a new version.
 
 ## The future fixed version:
 
-The fixed board will be called "MPC1119-3 (202504)" as marked on the **top right**, to fix this this issue. Website version will be named "MPC1119-3-fixed"
+The fixed board will be called "MPC1119-3 (202504)" as marked on the **top right**, to fix this this issue. Website version will be named "MPC1119-3-fixed", SKU number [[MPC1120-dat]]
 
 ![](2025-04-28-12-38-49.png)
 
