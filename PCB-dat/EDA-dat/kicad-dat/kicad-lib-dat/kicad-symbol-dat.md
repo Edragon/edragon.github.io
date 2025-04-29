@@ -10,7 +10,8 @@
 - Connector_generic_MountingPin
 - jumper
 - interface_USB
-
+- mechanicals
+    - MountingHole 
 
 
 
