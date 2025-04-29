@@ -9,6 +9,10 @@
 
 ![](2024-10-06-16-39-37.png)
 
+- ctrl+D duplicate the symbol
+
+- [[kicad-symbol-dat]]
+
 ### mutiple assign the value
 
 ![](2024-10-09-17-15-09.png)
