@@ -95,7 +95,8 @@ keep alll the unused options as default
 ## ref 
 - https://w.electrodragon.com/w/Category:AVR128#AVR128_Board
 
-- [[UPDI-DAT]] - [[CH340-DAT]] - [[CH341-DAT]] - [[avr128-dat]]
+- [[UPDI-DAT]] - [[atmel-ice-dat]] - [[CH340-DAT]] - [[CH341-DAT]] - [[avr128-dat]]
+
 
 - [[arduino-dat]]
 
