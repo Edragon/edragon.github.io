@@ -5,7 +5,7 @@
 
 - [[BOM-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[app-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[actuator-dat]] - [[camera-dat]]
+- [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[camera-dat]]
 
 - [[robot-dat]]
 
