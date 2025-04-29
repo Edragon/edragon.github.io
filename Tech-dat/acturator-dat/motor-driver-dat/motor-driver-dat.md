@@ -17,8 +17,11 @@
   
 - [[toshiba-dat]]
 
+- [[LW556-dat]] - [[TB6600-dat]] - [[DM430-dat]] - [[DM542-dat]]
 
 ## stepper motor 
+
+- [[stepper-dat]]
 
 - [[A4988-dat]] - [[TB67H450-dat]] - [[TB6612-dat]] - [[LV8729-dat]]
 
