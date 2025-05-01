@@ -1,6 +1,7 @@
 
 # TPS54302-dat
 
+TPS54302 4.5-V to 28-V Input, 3-A Output, EMI-Friendly Synchronous Step-Down Converter
 
 ![](2024-04-29-15-58-23.png)
 

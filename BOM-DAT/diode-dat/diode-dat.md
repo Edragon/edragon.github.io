@@ -46,7 +46,25 @@ Schottky diode ES2D DO-214AA (SMB) == [ES2A, ES2B, ES2C, ES2D](https://www.visha
 
 - [[SRGC10MH-dat]] - [[1N4007-dat]] - [[diode-dat]]
 
+## voltage drop of diode 
 
+| Diode         | Type     | Max Current | Typical Vf @ 1A | Notes                             |     |
+| ------------- | -------- | ----------- | --------------- | --------------------------------- | --- |
+| 1N4001–1N4007 | Silicon  | 1A          | ~0.7V           | General-purpose rectifier         |     |
+| 1N5401–1N5408 | Silicon  | 3A          | ~0.7–1.0V       | Higher current, bulkier           |     |
+| UF4001–UF4007 | Silicon  | 1A          | ~0.7V           | Ultra-fast silicon version        |     |
+| 1N5817        | Schottky | 1A          | ~0.45V          | Good low-drop Schottky            |     |
+| 1N5819        | Schottky | 1A          | ~0.5V           | Slightly higher Vf than 1N5817    |     |
+| SS14          | Schottky | 1A (avg)    | ~0.5V           | Compact SMD version               |     |
+| MBRS140       | Schottky | 1A          | ~0.5V           | SMD Schottky, low forward drop    |     |
+| MR754         | Power    | 6A          | ~1.0–1.1V       | High-power stud-mount diode       |     |
+| BYV29         | Power    | 9A          | ~0.9–1.2V       | Fast recovery, TO-220             |     |
+| RHRP8120      | Power    | 8A          | ~1.0–1.2V       | Ultrafast recovery, large package |     |
+| SS34          |          | 3A          |                 |                                   | 40V |
+
+
+
+1N5401 
 
 ## ref 
 
