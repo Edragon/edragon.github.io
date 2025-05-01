@@ -43,4 +43,4 @@ A **shaft coupler** is a mechanical component used to **connect two rotating sha
 
 ## ref 
 
-- [[shaft-dat]]
+- [[shaft-dat]] - [[shaft-coupler]] - [[shaft]]

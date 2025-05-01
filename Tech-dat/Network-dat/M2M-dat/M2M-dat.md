@@ -166,7 +166,7 @@ Table 22: LTE mode NETLIGHT pin status
 
 - [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
 
-
+- [[diode-dat]] - [[dcdc-buck-dat]] -
 
 ## ref 
 

@@ -67,13 +67,15 @@ Nuts and Bolts
 - Insert the Tension_Sliderand feed the Belt around the Idler.
 - Mount the Y-Axis_Front_Mounting_Plate to the Aluminum extrusion with M5 screws.
 
-### Y-Axis Right Back Mounting Plate
+### Y-Axis Right Back Mounting Plate with motor 
+
+- [[stepper-dat]]
 
 - Connect the **Pulley** to the Motor shaft.
 - Mount the Motor to the Y-Axis_Right_Back_Mounting_Plate with M5 screws and nuts.
 - Insert the Belt and attach the Idler with a M5 screw and nut.
 - Mount the Y-Axis_Right_Back_Mounting_Plate to the Aluminum extrusion with M5 screws.
-- Connect the Motor Shaft and long 8mm shaft together with a coupler.
+- Connect the Motor Shaft and long 8mm shaft together with a [[motor-coupler-dat]]. 
 
 
 ## Y-axis 

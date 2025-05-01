@@ -17,7 +17,9 @@
 ## all resources info 
 
 
-- [github](https://github.com/PixiePlacer/PixiePlacer) / [youtube](https://www.youtube.com/@pixieplacer)
+- [github](https://github.com/PixiePlacer/PixiePlacer) 
+  
+- [youtube](https://www.youtube.com/@pixieplacer)
 
 BOM 
 

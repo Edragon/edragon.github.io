@@ -1,11 +1,14 @@
-# DCDC-bulk-dat
+# DCDC-down-dat
+
+- [[dcdc-down]]
 
 - [[MPS-dat]] - [[MP1658-dat]]
 
-- [[TI-power-dat]] - [[silergy-dat]]
+- [[TI-power-dat]] - [[TPS54302-dat]]
 
+- [[silergy-dat]]
 
-
+- [[XL-dat]] - [[XL4015-dat]] - [[XL1509-dat]]
 
 - [[OPM1192-dat]] - [[OPM1152-dat]]
 
