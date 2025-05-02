@@ -9,13 +9,13 @@
 
 - [[SDR1090-dat]] - [[SDR1079-dat]] - [[SDR1062-dat]]
 
-- [[SDR1060-dat]]
+- [[SDR1060-dat]] - [[SDR1076-dat]]
 
 ## chips 
 
 - [[ti-motor-dat]] 
   
-- [[toshiba-dat]]
+- [[toshiba-dat]] - [[TB6612-dat]] - [[TB6600-dat]]
 
 - [[LW556-dat]] - [[TB6600-dat]] - [[DM430-dat]] - [[DM542-dat]]
 
