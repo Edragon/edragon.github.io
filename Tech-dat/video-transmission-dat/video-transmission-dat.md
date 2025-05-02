@@ -4,13 +4,18 @@
 - duplicate of [[wireless-camera-dat]]
 
 
+## LTE video transmission
+
+- [[LTE-dat]]
+
 ## WiFI video transmission
 
 - [[ESP32-cam-dat]] - [[SCM1030-dat]]
 
 - [[WIFI-video-dat]]
 
-## long Distance Video, digital and analog video transmission
+
+## long Distance Video, RF digital and analog video transmission
 
 ### DJI-camera
 
@@ -19,8 +24,6 @@
 ### Other RC video transmission
 
 ![](2025-04-23-14-33-42.png)
-
-
 
 
 

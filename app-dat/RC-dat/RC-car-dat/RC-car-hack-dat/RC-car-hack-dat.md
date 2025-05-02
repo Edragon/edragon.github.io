@@ -12,7 +12,10 @@
 
 ## 3. Imaging System 
 
-- [[video-transmission-dat]]
+- [[video-transmission-dat]] == pickup option == [[LTE-dat]]
+
+
+
 
 ## 4. GNSS location system 
 
