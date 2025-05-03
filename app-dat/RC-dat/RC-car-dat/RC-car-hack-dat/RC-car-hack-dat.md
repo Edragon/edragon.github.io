@@ -10,9 +10,16 @@
 
 - improve up to 10KM by [[FPV-dat]] system [[ELRS-dat]]
 
+- [[antenna-dat]]
+
+- control system - try to hack by [[arduino-dat]]
+
 ## 3. Imaging System 
 
-- [[video-transmission-dat]]
+- [[video-transmission-dat]] == pickup option == [[LTE-dat]]
+
+
+
 
 ## 4. GNSS location system 
 
