@@ -53,12 +53,16 @@ Parallel PWM outputs encoded to PPM-Sum using an external encoder (see below, no
 | Spektrum        | Short  | Vendor Specific |             | yes         | DSM/DSM2 DSM-X/ SRXL |       |
 | FrSky R9 series | Medium | Bi-dir          | Medium      | yes         | PPM-SUM/SBUS/ FPort  | 2     |
 | IRC Ghost       | Medium | Vendor Specific |             | yes         | IRC Ghost            |       |
-| CRSF            | Long   | Bi-dir          | Variable    | yes         | SBUS/CRSF            | 3     |
+| [[CRSF-dat]]    | Long   | Bi-dir          | Variable    | yes         | SBUS/CRSF            | 3     |
 | DragonLink      | Long   | Bi-dir          | 56K         | via MTP/LUA | PPM_SUM/SBUS         | 1     |
-| ELRS            | Long   | Bi-Dir          | Variable    | optional    | SBUS/CRSF Mavlink    | 4     |
+| [[ELRS-dat]]    | Long   | Bi-Dir          | Variable    | optional    | SBUS/CRSF Mavlink    | 4     |
 | HereLink        | Long   | Bi-dir          | 56K         | integrated  | SBUS                 | 8     |
 | mLRS            | Long   | Bi-dir          | 12K - 91K   | via LUA     | SBUS/CRSF            | 5     |
 | SIYI            | Long   | Bi-dir          | 56K         | integrated  | SBUS                 | 8     |
+
+
+
+
 
 Note 1: DragonLink provides a 56Kbaud transparent link for telemetry, allowing full MAVLink telemetry to/from the vehicle from the transmitter module. Dragonlink is an add-on module to the transmitter, such as an FRSky Taranis or RadioMaster T16. See DragonLink RC Systems. MTP (Mavlink to Passthru) converters are available to allow direct display of MAVLink Telemetry data on OpenTX transmitters using Yaapu Telemetry LUA Script.
 
