@@ -10,3 +10,8 @@ https://www.electrodragon.com/product/210w-dual-channel-hifi-mini-audio-amplifie
 ## SCH 
 
 ![](2023-11-09-16-33-55.png)
+
+
+## ref 
+
+- [[ti-audio-dat]]
