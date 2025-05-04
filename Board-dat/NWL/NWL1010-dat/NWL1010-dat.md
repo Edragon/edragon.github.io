@@ -1,9 +1,12 @@
 
 # NWL1010-dat
 
-![](2024-01-12-15-56-01.png)
 
+[NRF24 Mini SMD Wireless Module (NRF24L01 Compatible)](https://www.electrodragon.com/product/nrf24-mini-smd-wireless-module-nrf24l01-compatible/)
 
+## Pin Info 
+
+![](2025-05-04-17-49-39.png)
 
 ## SCH 
 
