@@ -16,6 +16,8 @@ apps and solutions
 
 - [[fiber-optic-app-dat]] - [[fiber-optic-solutions-dat]]
   
+Signal == [[SerDes-dat]]
+
 
 ## note 
 

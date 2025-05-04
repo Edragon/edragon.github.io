@@ -16,6 +16,7 @@
 
 [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]]
 
+[[realtek-dat]] - [[RTL8211-dat]]
 
 ## function 
 
