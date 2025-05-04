@@ -3,9 +3,15 @@
 
 - [[DRV8313-dat]]
 
-- [[DRV8837-dat]]
+- [[DRV8837-dat]] - [[DRV8848-dat]]
 
-- [[DRV8833-dat]] - [[DRV8825-dat]]
+- [[DRV8833-dat]] - [[DRV8834-dat]]
+
+- [[DRV8825-dat]] / [[DRV8835-dat]] 
+
+- [[DRV8870-dat]] - [[DRV8871-dat]] / [[DRV8872-dat]]
+
+- [[ULN2003-dat]]
 
 ## compare 
 
