@@ -47,4 +47,4 @@ The RTL8211FD(I)-CG incorporates a linear Low-Dropout Regulator (LDO) that featu
 
 ## ref 
 
-- [[RGMII-dat]]
+- [[RGMII-dat]] - [[realtek-dat]]
