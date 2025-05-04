@@ -22,13 +22,19 @@
 - [[home-plant-dat]] - [[Apocalypse-dat]] - [[surveillance-dat]]
 
 
-## Electrified in the air
+## RC Electrified in the air
+
+- [[ardupilot-dat]]
 
 - [[quadcopter-dat]] - [[FPV-dat]] - [[UAV-dat]]
 
-- [[parachute-dat]] - [[rocket-dat]] 
+- [[parachute-dat]] - [[rocket-dat]] - [[blimp-dat]]
   
-## Electrified on the ground  
+## RC lectrified on the ground  
+
+- [[ardupilot-dat]]
+  
+- [[RC-car-dat]] - [[rover-dat]] - [[RC-car-hack-dat]] - [[submarine-dat]] - [[RC-boat-dat]]
 
 - [[robot-dat]] - [[video-RC-car-dat]]
 

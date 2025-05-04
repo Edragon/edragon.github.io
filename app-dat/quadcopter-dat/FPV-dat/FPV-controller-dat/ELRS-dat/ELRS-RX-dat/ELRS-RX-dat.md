@@ -35,3 +35,9 @@ The password is "expresslrs", and then you can access 10.0.0.1 to upload the rec
 -   Theoretically compatible with most ELRS 2.4G transmitter modules on the market (requires firmware version 2.0 or above).
 
 ![](2025-04-25-16-55-05.png)
+
+
+
+## ref 
+
+- [[ELRS-dat]]

@@ -11,9 +11,13 @@ ELRS-remote-console-tx
 - BETAFPV literadio 3
 - BETAFPV literadio 2
 
-- [[edge-tx-dat]] - [[radiomaster-dat]] 
+- [[edge-tx-dat]] - [[radiomaster-dat]] - [[lightradio-dat]]
 
-- [[ELRS-RX-dat]] - [[CRSF-dat]] - [[SX1276-dat]] - [[ESP8285-dat]] - [[ESP32-dat]] - [[SX1281-dat]] - [[SX1208-dat]]
+- [[ELRS-RX-dat]] - [[SX1276-dat]] - [[ESP8285-dat]] - [[ESP32-dat]] - [[SX1281-dat]] - [[SX1208-dat]]
+
+protocol output -  - [[CRSF-dat]]
+
+- [[CC2500-dat]]
 
 - [[ELRS-915M-dat]] - [[ELRS-CHS-PWM-dat]] - [[ELRS-2.4Ghz-dat]] 
 
@@ -24,6 +28,8 @@ ELRS-remote-console-tx
 https://github.com/ExpressLRS/ExpressLRS
 
 https://www.expresslrs.org/quick-start/getting-started/
+
+[ExpressLRS-Configurator-releases](https://github.com/ExpressLRS/ExpressLRS-Configurator/releases)
 
 
 
@@ -115,6 +121,19 @@ https://www.expresslrs.org/quick-start/getting-started/
 - [[5.8Ghz-dat]]
 
 
+## WebUI 
+
+### Via "ExpressLRS RX" Access Point
+
+![](2025-05-04-15-29-54.png)
+
+Load the Web UI on your browser using these addresses:
+
+http://10.0.0.1/ - If you have connected to the ExpressLRS RX Access Point
+
+### Via button press 
+
+![](2025-05-04-15-31-56.png)
 
 
 ## ref 

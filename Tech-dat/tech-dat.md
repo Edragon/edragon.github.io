@@ -33,7 +33,9 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
+- [[mcu-dat]] 
+
+- [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
 - [[CPLD-dat]] - [[FPGA-dat]]
 
@@ -42,7 +44,7 @@
 
 - [[network-dat]] - [[M2M-dat]]
 
-- [[RF-DAT]]
+- [[RF-DAT]] - [[ELRS-dat]]
 
 - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 
