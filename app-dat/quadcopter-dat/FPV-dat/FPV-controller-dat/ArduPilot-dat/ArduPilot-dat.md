@@ -60,7 +60,9 @@ Parallel PWM outputs encoded to PPM-Sum using an external encoder (see below, no
 | mLRS            | Long   | Bi-dir          | 12K - 91K   | via LUA     | SBUS/CRSF            | 5     |
 | SIYI            | Long   | Bi-dir          | 56K         | integrated  | SBUS                 | 8     |
 
-
+- [[network-dat]]
+  
+RC protocols - [[SBUS-dat]] - [[CRSF-dat]] - [[PPM-SUM-dat]] - [[Fport-dat]] - [[SUM-D-dat]] - [[IBUS-dat]] - [[DSM-dat]]
 
 
 
