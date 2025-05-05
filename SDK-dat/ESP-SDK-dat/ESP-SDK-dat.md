@@ -20,7 +20,7 @@
 
 ## Other Firmware 
 
-- [[ESPHome-dat]] - [[tasmota-dat]]
+- [[ESPHome-dat]] - [[tasmota-dat]] - [[ESP-now-dat]]
 
 
 ## Flashing 
