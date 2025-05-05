@@ -8,3 +8,6 @@
 - [[vinegar-dat]] - [[rust-dat]]
 
 
+## ref 
+
+- [[tech-dat]]

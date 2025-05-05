@@ -1,11 +1,9 @@
 
 # SMO1013-dat
 
-- [[MAX30102-dat]]
+- read more info at [[MAX30102-dat]] - [[pulse-rate-dat]] - [[SMO1013-dat]]
 
-https://www.electrodragon.com/product/max30102-pulse-oximeter-heart-rate-sensor-module/
-
-
+[MAX30102 Pulse Oximeter, Heart Rate Sensor Module](https://www.electrodragon.com/product/max30102-pulse-oximeter-heart-rate-sensor-module/)
 
 ![](2024-09-30-17-42-21.png)
 

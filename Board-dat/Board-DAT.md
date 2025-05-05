@@ -148,6 +148,8 @@ LED control - [[ILC1063-dat]]
 
 1W/3W/5W high power LED - [[ILE1036-dat]] - [[ILE1037-dat]] - [[ILE1038-dat]]
 
+[[light-guide-dat]] - [[ILE1065-dat]]
+
 ### ISB
 
 - [[ISB1016-dat]] - [[ISB1033-dat]]
@@ -412,7 +414,7 @@ Darlinton driver - [[SCU1024-dat]]
 
 ### SMO
 
-- [[SMO1013-dat]]
+- [[SMO1011-dat]] - [[SMO1013-dat]]
 
 - [[SMO1095-DAT]] - [[SMO1099-dat]]
   

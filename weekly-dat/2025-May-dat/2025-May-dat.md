@@ -11,6 +11,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - greate project [[ardupilot-dat]], going to build a [[rover-dat]], further complete [[RC-dat]] info
 
+- [[MAX30102-dat]] - [[pulse-rate-dat]] - [[SMO1013-dat]]
+
 
 ## Dissusion, Feedback, To-do
 
