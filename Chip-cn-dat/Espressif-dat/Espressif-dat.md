@@ -11,6 +11,10 @@
 
 - [[ESP8685-dat]]
 
+## Software and SDK 
+
+- [[ESP-SDK-dat]]
+
 
 ## longevity-commitment
 
