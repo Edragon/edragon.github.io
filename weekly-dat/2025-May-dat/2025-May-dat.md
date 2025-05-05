@@ -9,7 +9,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 ## Development, Documents Updates
 
-- greate project [[ardupilot-dat]], going to build a [[rover-dat]]
+- greate project [[ardupilot-dat]], going to build a [[rover-dat]], further complete [[RC-dat]] info
+
 
 ## Dissusion, Feedback, To-do
 
