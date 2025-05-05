@@ -20,6 +20,20 @@ most simple motion sensor
 
 - [[ultrasonic-sensor-dat]]
 
+
+## sensor modules 
+
+| Board           | sensor 1         | func1                  | sensor 2       | func2                                                |
+| --------------- | ---------------- | ---------------------- | -------------- | ---------------------------------------------------- |
+| [[SMO1011-dat]] | [[HMC5983-dat]]  | [[compass-sensor-dat]] | [[BMP180-dat]] | [[pressure-sensor-dat]] - [[temperature-sensor-dat]] |
+| [[SMO1013-dat]] | [[MAX30102-dat]] | [[pulse-rate-dat]]     |                |                                                      |  
+
+
+
+
+
+
+
 ## ref 
 
 - [[motion-sensor]]
