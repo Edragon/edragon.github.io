@@ -4,14 +4,6 @@ https://w.electrodragon.com/w/Category:Battery_Charge
 
 The most following charger options are for the lithium-ion battery
 
-## Compare
-
-| Type     | Feature                           | charge-current |
-| -------- | --------------------------------- | -------------- |
-| TP5000   | Li-MnO2, LiFePO4(LFP) charger IC, | 0.5A           |
-| MCP73831 | 0LED indicator                    | 0.5A           |
-| TP4056   | Linear charging                   | ~1A            |
-| TP4054 | 
 
 
 ## Chip Info
@@ -30,6 +22,19 @@ The most following charger options are for the lithium-ion battery
 ## Board
 
 - [[OPM1193-dat]] - [[OPM1156-dat]]
+
+
+
+## Compare
+
+| Type     | Feature                           | charge-current |
+| -------- | --------------------------------- | -------------- |
+| TP5000   | Li-MnO2, LiFePO4(LFP) charger IC, | 0.5A           |
+| MCP73831 | 0LED indicator                    | 0.5A           |
+| TP4056   | Linear charging                   | ~1A            |
+| TP4054   |
+
+
 
 
 ## Quick-Charge QC Options 
