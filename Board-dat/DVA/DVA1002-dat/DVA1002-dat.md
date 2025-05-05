@@ -50,6 +50,7 @@ relevant library
 
 - [[chip-dat]] - [[NRF24l01-dat]] variation [[NRF24-dat]]
 
+- [[arduino-dat]] - [[avr-sdk-dat]] - [[radiohead-dat]]
 
 - Optimize for NRF24L01+ transmission range, [range test can be found here.](https://www.electrodragon.com/distance-test-nrf24duino-loarduino-board/)
 
@@ -57,5 +58,3 @@ relevant library
 
 
 - [[dva1002]]
-
-- [[avr-sdk-dat]]
