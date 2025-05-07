@@ -26,6 +26,8 @@ Board Power Supply - VIN
 
 
 ## ref 
+
+- [[ESP-SDK-dat]]
  
 - [[SDR1064]] 
 
