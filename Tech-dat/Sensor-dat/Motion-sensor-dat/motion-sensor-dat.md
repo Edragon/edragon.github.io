@@ -21,7 +21,14 @@ most simple motion sensor
 - [[ultrasonic-sensor-dat]]
 
 
-## sensor modules 
+## Motion sensor types 
+
+- [[accelerometer-dat]] - [[gyroscope-dat]] - [[magnetometer-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]] - [[TOF-sensor-dat]] - [[LiDAR-sensor-dat]] - [[compass-sensor-dat]]
+
+
+
+
+## sensor combination  
 
 | Board           | sensor 1         | func1                  | sensor 2       | func2                                                |
 | --------------- | ---------------- | ---------------------- | -------------- | ---------------------------------------------------- |
