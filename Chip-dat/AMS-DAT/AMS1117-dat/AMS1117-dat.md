@@ -18,11 +18,11 @@ The AMS1117 is a low dropout linear voltage regulator, and its minimum input vol
 
 For 3.3V output (AMS1117-3.3):
 
-Minimum input voltage = 3.3V + 1.1V = 4.4V (recommended).
+    Minimum input voltage = 3.3V + 1.1V = 4.4V (recommended).
 
 For 5.0V output (AMS1117-5.0):
 
-Minimum input voltage = 5.0V + 1.1V = 6.1V (recommended).
+    Minimum input voltage = 5.0V + 1.1V = 6.1V (recommended).
 
 **For proper operation, always ensure the input voltage is at least 1.1V above the desired output voltage under load conditions. **
 
