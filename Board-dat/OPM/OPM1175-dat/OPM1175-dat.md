@@ -12,6 +12,16 @@
 
 More specifications read at - [[ME2108-dat]]
 
+
+## Customize Version 
+
+MOQ 50pcs 
+
+- 5V
+- 3.6V
+- 3.3V 
+- 3V 
+
 ## ref 
 
 - [[ME2108-dat]]

@@ -22,14 +22,16 @@ from the perspective of the cable to the perspective of the target
 ## Product links 
 
 - [[PL2303-dat]] - PL2303TA - [[DPR1041-dat]] 
+
 - [[PL2303-dat]] - PL2303HX - https://w.electrodragon.com/w/PL2303HX
 
+- [[CH340-dat]] - [[DPR1042-dat]] - [[DPR1039-dat]] - [[WCH-dat]]
 
-- [[CH340-dat]] - [[DPR1042-dat]] - [[DPR1039-dat]]
-
-- [[CP2102-dat]] - [[DPR1003-dat]], [[DPR1005-dat]]
+- [[CP2102-dat]] - [[DPR1003-dat]], [[DPR1005-dat]] == replaceable by [[WCH-dat]] 
 
 - [[FT232RL-dat]] - [[DPR1029-dat]]
+
+- [[CH9102-dat]] - [[CH9104-dat]]
 
 - 4x channels - [[DPR1120-dat]]
 
@@ -104,18 +106,7 @@ Booting Mode select
 ![](2024-07-05-17-39-28.png)
 ![](2024-07-05-17-39-45.png)
 
-## Compatibility 
 
-replaceable 
-- [[CP2102-dat]] - [[CP2104-dat]]
-
-
-
-## other interface 
-- [[RS485-DAT]] - [[RS232-dat]] - [[I2C-dat]]
-
-
-- [[usb-ttl]] - [[serial]]
 
 
 ## Circuits 
@@ -127,8 +118,20 @@ common PCB setup
 - two row -1: GND / VCC
 - two row -2: RXD / TXD
 
+## categorized by target friendly
+
+- [[Arduino-ide-dat]] == [[CH9102-dat]] - [[CH9104-dat]] - [[FT232RL-dat]] - [[CP2102-dat]] - [[CP2104-dat]]
+
+
+
 
 ## ref 
 software [[com-monitor-dat]]
 
 - [[ESP-SDK-dat]]
+
+### other interface 
+- [[RS485-DAT]] - [[RS232-dat]] - [[I2C-dat]]
+
+
+- [[usb-ttl]] - [[serial]]
