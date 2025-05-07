@@ -94,6 +94,7 @@ AVR
 WCH - [[DPR1133-dat]]
 
 ### DVA 
+
 - [[DVA1002-dat]] - [[DVA1007-dat]]
 
 ### ESP 
@@ -148,13 +149,17 @@ LED control - [[ILC1063-dat]]
 
 1W/3W/5W high power LED - [[ILE1036-dat]] - [[ILE1037-dat]] - [[ILE1038-dat]]
 
+[[light-guide-dat]] - [[ILE1065-dat]]
+
 ### ISB
 
 - [[ISB1016-dat]] - [[ISB1033-dat]]
 
 ### ITF
-- [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
 
+- [[ITF1000-dat]]
+
+- [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
 
 
 ### OPM 
@@ -412,7 +417,7 @@ Darlinton driver - [[SCU1024-dat]]
 
 ### SMO
 
-- [[SMO1013-dat]]
+- [[SMO1011-dat]] - [[SMO1013-dat]]
 
 - [[SMO1095-DAT]] - [[SMO1099-dat]]
   

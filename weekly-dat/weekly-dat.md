@@ -24,7 +24,7 @@
 | 15          | Apr 7        | Apr 13      | [[2024-April-dat]] |
 | 16          | Apr 14       | Apr 20      | [[2024-April-dat]] |
 | 17          | Apr 21       | Apr 27      | [[2024-April-dat]] |
-| 18          | Apr 28       | May 4       |                    |
+| 18          | Apr 28       | May 4       | [[2025-May-dat]]   |
 | 19          | May 5        | May 11      |                    |
 | 20          | May 12       | May 18      |                    |
 | 21          | May 19       | May 25      |                    |

@@ -41,7 +41,7 @@ ATtiny
 SAMD21 
 [[SDR1096-dat]]
 
-
+- [[dev-board-dat]]: [[STM32-dat]] - [[RP2040-dat]] - [[ESP32-dat]] - [[nRF-dat]] - [[SAMD21-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[HC32F00X-dat]] - [[HDSC-SDK-dat]]
 
 ## Cheap High-operating temperature MCUs 
 
@@ -59,6 +59,20 @@ SAMD21
 
 - FS32K144HAT0MLHR == 10+: ￥29.48
 - FS32K144HAT0MLHR == 10 usd 
+
+
+
+## MCU with buildin DCDC Buck Converter
+
+Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter.
+
+
+| MCU              | Internal DC-DC | Cost (approx) | Simplicity | Notes                            |
+|------------------|----------------|----------------|------------|----------------------------------|
+| nRF52810         | ✅ Yes         | $1.5–2         | ⭐⭐         | BLE-capable, efficient           |
+| STM32L412        | ✅ Yes         | ~$2.5          | ⭐⭐         | General-purpose low-power        |
+| RP2040 (Pico)    | ❌ (Pico: ✅)   | $1–4           | ⭐⭐⭐        | Easy, cheap, DC-DC on module     |
+| ATmega328P + DC-DC | External     | ~$1.5 total    | ⭐⭐⭐        | Classic and cheap combo          |
 
 
 ## ref 

@@ -7,9 +7,11 @@
 
 ## motor type 
 
+- [[dc-motor-dat]] == Permanent Magnet Brushed DC Motor
+
 - [[reduction-gear-motor-dat]]
 
-- [[dc-motor-dat]] - [[vibrator-dat]]
+- [[vibrator-dat]]
 
 - [[stepper-dat]] - [[servo-dat]]
 

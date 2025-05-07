@@ -7,7 +7,9 @@
 
 - env setup [[megaTinyCore]]
 
-- [[attiny1604-dat]]
+- [[attiny1604-dat]] - [[attiny1616-dat]]
+
+- [[tinyavr-ATtiny1616-3216-ds.pdf]]
 
 QFN
 - [[ATtiny416-dat]]

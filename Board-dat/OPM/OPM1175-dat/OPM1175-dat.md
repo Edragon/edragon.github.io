@@ -1,10 +1,26 @@
 
 # OPM1175-dat
 
-https://www.electrodragon.com/product/step-up-boost-dc-power-module-me6208-0-9-5vin-5vout-0-5a/
 
-based chip DC/DC Step up Converter ME2108 Series 
+[based chip DC/DC Step up Converter ME2108 Series](https://www.electrodragon.com/product/step-up-boost-dc-power-module-me6208-0-9-5vin-5vout-0-5a/)
 
+## Board Map 
+
+![](2025-05-04-18-26-53.png)
+
+- Pins V_in, Common Shared GND, V_out
+
+More specifications read at - [[ME2108-dat]]
+
+
+## Customize Version 
+
+MOQ 50pcs 
+
+- 5V
+- 3.6V
+- 3.3V 
+- 3V 
 
 ## ref 
 

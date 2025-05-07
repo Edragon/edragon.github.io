@@ -59,12 +59,20 @@ The three-character code with the letter-number-letter format is used for capaci
 ![](2023-12-29-18-18-14.png)
 
 
-- [[capacitor]]
 
 ## electrolyte 
 
 ![](2025-03-14-20-31-28.png)
 
+## Functional Capacitors
+
+- [[start-capacitor-dat]] - [[CBB-capacitor-dat]]
+
 ## ref 
+
+
+
+- [[capacitor]]
+
 
 - [[BOM-dat]]
