@@ -5,24 +5,23 @@
 ## Features 
 
 
-### Low power 
--  5μA @ 3V  深度睡眠模式：所有时钟关闭，上电复位有效，IO  状态保持，IO  中断有效，所有寄存器、RAM  和  CPU  数据保存状态时的功耗 
--  10μA @32KkHz  低速工作模式：CPU  和外设模块运行中，从  Flash  运行程序 
--  30μA/MHz@3V@16MHz  睡 眠 模 式 ：CPU  停止工作，外设模块运行，主时钟运行 
--  150μA/MHz@3V@16MHz  工作模式：CPU  和外设模块运行，从  Flash  运行程序 
--  3μS  低功耗唤醒时间，使模式切换更加灵活高效，系统反应更为敏捷 
--  上述特性为室温下典型值，具体的电气特性，功耗特性参考电气特性一章
+### Low power
 
-## Specs 
+-   **5μA @ 3V Deep Sleep Mode:** Power consumption when all clocks are off, power-on reset is active, I/O state is maintained, I/O interrupts are active, and all registers, RAM, and CPU data are saved.
+-   **10μA @ 32kHz Low-Speed Active Mode:** CPU and peripheral modules are running, executing program from Flash.
+-   **30μA/MHz @ 3V @ 16MHz Sleep Mode:** CPU is stopped, peripheral modules are running, main clock is running.
+-   **150μA/MHz @ 3V @ 16MHz Active Mode:** CPU and peripheral modules are running, executing program from Flash.
+-   **3μS Low-Power Wake-up Time:** Enables more flexible and efficient mode switching, and more responsive system operation.
+-   The above characteristics are typical values at room temperature. For specific electrical and power consumption characteristics, refer to the electrical characteristics chapter.
 
-- 通用引脚数 GPIO  16 
-- CPU 内核  Cortex M0+ 
-- 频率  32MHz 
-- 电源电压范围  1.8 ~5.5V 
-- 单/双电源  单电源 
-- 温度范围  -40 ~ 85℃
+## Specs
 
-
+-   **Number of General Purpose I/O Pins (GPIO):** 16
+-   **CPU Core:** Cortex M0+
+-   **Frequency:** 32MHz
+-   **Power Supply Voltage Range:** 1.8 ~ 5.5V
+-   **Single/Dual Power Supply:** Single Power Supply
+-   **Temperature Range:** -40 ~ 85℃
 
 
 ## Applications
