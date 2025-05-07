@@ -6,6 +6,10 @@
 
 Suitable for loose, non-taped resistors, capacitors, or non-polarized components.
 
+turn on the back light 
+
+![](2025-05-07-18-06-19.png)
+
 ## How to use
 
 1: Add Feeder

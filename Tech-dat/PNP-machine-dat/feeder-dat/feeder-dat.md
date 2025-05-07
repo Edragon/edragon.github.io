@@ -5,6 +5,8 @@
 
 - [[electric-feeder-dat]]  - [[loose-component-feeder-dat]] - [[Loose-Component-Taping-Feeder-dat]] - [[Tray-Feeder-dat]]
 
+- [[electric-feeder-dat]] parts: [[feeder-tray-dat]]
+
 ![](2025-05-07-14-28-35.png)
 
 ## other Type of Feeder Info 
