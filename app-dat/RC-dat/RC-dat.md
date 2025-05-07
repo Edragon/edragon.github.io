@@ -22,7 +22,7 @@
 
 ## RC - Hardware
 
-- [[flight-controller-dat]]
+- [[flight-controller-dat]] - [[RC-link-dat]]
 
 - [[BMS-dat]]
 
