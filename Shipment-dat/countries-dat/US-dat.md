@@ -5,16 +5,16 @@
 
 ## Express shipment
 
-| method                         | status | set | max. | row | pre-tax                | title                                                                     |
-| ------------------------------ | ------ | --- | ---- | --- | ---------------------- | ------------------------------------------------------------------------- |
-| [[SZFedex-IP-dat]]             | x      | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days)                            |
-| [[SZFedex-IP-dat]] -tax-number |        | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, need Fedex Account Number) |
-| [[SZFedex-IP-dat]] -pre-tax    |        | -   | -    | 33  | 5% + 60% (low declare) | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, 165% pre-tax)              |
-| [[HKDHL-dat]]                  | x      | -   | -    | 33  | 5%                     | HKDHL: DHL Express (Ref. ETA 6-10 days)                                   |
-| [[HKDHL-dat]]  -pre-tax        |        | -   | -    | 33  | 5% + 60% (low declare) | HKDHL: DHL Express (Ref. ETA 6-10 days, 165% pre-tax)                     |
-| [[CNUPS-dat]]                  | x      | -   | -    | 42  | 5%                     | CNUPS: UPS Express (Ref. ETA 3-8 days)                                    |
-| [[CNUPS-dat]]  -pre-tax        |        | -   | -    | 42  | 5% + 60% (low declare) | CNUPS: UPS Express (Ref. ETA 3-8 days, 165% pre-tax)                      |
-| [[SGDHL-dat]]                  |        | -   | -    | 28 | 5% | SGDHL: DHL Express (Ref. ETA 6-10 days, not prepaid tax, lower tax at arrive)   
+| method                         | status | set | max. | row | pre-tax                | title                                                                         |
+| ------------------------------ | ------ | --- | ---- | --- | ---------------------- | ----------------------------------------------------------------------------- |
+| [[SZFedex-IP-dat]]             | x      | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days)                                |
+| [[SZFedex-IP-dat]] -tax-number |        | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, need Fedex Account Number)     |
+| [[SZFedex-IP-dat]] -pre-tax    |        | -   | -    | 33  | 5% + 60% (low declare) | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, 165% pre-tax)                  |
+| [[HKDHL-dat]]                  | x      | -   | -    | 33  | 5%                     | HKDHL: DHL Express (Ref. ETA 6-10 days)                                       |
+| [[HKDHL-dat]]  -pre-tax        |        | -   | -    | 33  | 5% + 60% (low declare) | HKDHL: DHL Express (Ref. ETA 6-10 days, 165% pre-tax)                         |
+| [[CNUPS-dat]]                  | x      | -   | -    | 42  | 5%                     | CNUPS: UPS Express (Ref. ETA 3-8 days)                                        |
+| [[CNUPS-dat]]  -pre-tax        |        | -   | -    | 42  | 5% + 60% (low declare) | CNUPS: UPS Express (Ref. ETA 3-8 days, 165% pre-tax)                          |
+| [[SGDHL-dat]]                  |        | -   | -    | 28  | 5%                     | SGDHL: DHL Express (Ref. ETA 6-10 days, not prepaid tax, lower tax at arrive) |
 
 
 ## updates 2025-04-23
