@@ -1,9 +1,13 @@
 
 # lithium-battery-dat
 
- 
+## info 
+
 - [[BMS-dat]] - [[battery-charger-dat]]
 
+- [[active-battery-balancing-board-dat]] - [[battery-soldering-dat]]
+
+- high current wires == [[AWG-wires-dat]]
 
 ## Classification Summary 
 
@@ -11,7 +15,7 @@ By Electrode Materials - [[LFP-dat]] - [[Ternary-Lithium-Battery-dat]]
 
 By Electrode Materials Status - [[li-ion-battery-dat]] - [[lipo-battery-dat]]
 
-By size - [[18650-dat]]
+By size - [[18650-dat]] - [[26650-dat]]
 
 
 ### By Apps 

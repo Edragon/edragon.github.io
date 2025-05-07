@@ -2,11 +2,15 @@
 
 # battery-dat 
 
-- [[rechargerable-battery-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]]
+- [[rechargerable-battery-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
 
 - [[battery-holder-dat]]
 
 - [[alkaline-battery-dat]] - [[9V-battery-dat]]
+
+- [[battery-soldering-dat]]
+
+- battery isolation == rack (specially when have movement or vibration), Insulating Gasket
 
 ## coin battery dat 
 
@@ -15,6 +19,22 @@ CR2030 provides up to 3V 210~225 mAh, and CR1220 provides up to 3V 38mAh power.
 Both button cells provide very low discharge rate that can work for 1-3 years.
 
 
+
+## 🔋 Battery Specifications
+
+| Specification                 | Description                                                           | Example / Notes                            |
+| ----------------------------- | --------------------------------------------------------------------- | ------------------------------------------ |
+| **Nominal Voltage (V)**       | Average voltage during discharge                                      | 3.7V (Li-ion), 1.2V (NiMH)                 |
+| **Capacity (mAh or Ah)**      | Amount of charge the battery holds                                    | 2200mAh = 2.2A for 1 hour                  |
+| **Discharge Rate (C-Rating)** | Multiplier of capacity for safe discharge rate                        | 10C = 10 × Capacity (e.g. 10A for 1000mAh) |
+| **Burst Discharge Rate**      | Max short-duration current                                            | 20C = 20 × Capacity                        |
+| **Max Continuous Discharge**  | Maximum current battery can supply continuously                       | Capacity × C-rating                        |
+| **Internal Resistance (mΩ)**  | Resistance inside the cell (lower is better)                          | 5–50 mΩ                                    |
+| **Charge Rate (C or A)**      | Max safe charging current                                             | 1C for 2200mAh = 2.2A                      |
+| **Cycle Life**                | Number of charge/discharge cycles before capacity drops (e.g. to 80%) | 300–1000 cycles                            |
+| **Cutoff Voltage**            | Minimum safe voltage during discharge                                 | 3.0V (Li-ion)                              |
+| **Max Charge Voltage**        | Voltage at full charge                                                | 4.2V per cell (Li-ion)                     |
+| **Temperature Range (°C)**    | Safe operating/charging temperature range                             | -20°C to 60°C (discharge), 0–45°C (charge) |
 
 
 
@@ -46,18 +66,18 @@ Both button cells provide very low discharge rate that can work for 1-3 years.
 ## AA vs. AAA 
 
 
-| **Feature**          | **AA Battery**                       | **AAA Battery**                    |
-|----------------------|--------------------------------------|------------------------------------|
-| **Size**             | 14.5 mm (diameter) x 50.5 mm (length) | 10.5 mm (diameter) x 44.5 mm (length) |
-| **Voltage**          | 1.5V (Alkaline) / 1.2V (Rechargeable NiMH) | 1.5V (Alkaline) / 1.2V (Rechargeable NiMH) |
-| **Capacity**         | 2000-3000 mAh (Alkaline)             | 600-1200 mAh (Alkaline)            |
-| **Current Capability**| 700-1000 mA sustained               | 300-500 mA sustained               |
-| **Typical Use**      | Medium to high-power devices: flashlights, toys, wireless mice, clocks | Low-power devices: remote controls, small toys, wireless keyboards |
-| **Weight**           | Approx. 23 g (Alkaline)              | Approx. 11.5 g (Alkaline)          |
-| **Cost**             | Generally slightly more expensive per battery | Slightly less expensive per battery |
-| **Energy Density**   | Higher capacity and energy per unit  | Lower capacity due to smaller size |
-| **Runtime**          | Longer due to higher capacity        | Shorter due to lower capacity      |
-| **Features**         | Ideal for devices that require more power and have higher current demands | Ideal for smaller devices that require less power and a more compact size |
+| **Feature**            | **AA Battery**                                                            | **AAA Battery**                                                           |
+| ---------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Size**               | 14.5 mm (diameter) x 50.5 mm (length)                                     | 10.5 mm (diameter) x 44.5 mm (length)                                     |
+| **Voltage**            | 1.5V (Alkaline) / 1.2V (Rechargeable NiMH)                                | 1.5V (Alkaline) / 1.2V (Rechargeable NiMH)                                |
+| **Capacity**           | 2000-3000 mAh (Alkaline)                                                  | 600-1200 mAh (Alkaline)                                                   |
+| **Current Capability** | 700-1000 mA sustained                                                     | 300-500 mA sustained                                                      |
+| **Typical Use**        | Medium to high-power devices: flashlights, toys, wireless mice, clocks    | Low-power devices: remote controls, small toys, wireless keyboards        |
+| **Weight**             | Approx. 23 g (Alkaline)                                                   | Approx. 11.5 g (Alkaline)                                                 |
+| **Cost**               | Generally slightly more expensive per battery                             | Slightly less expensive per battery                                       |
+| **Energy Density**     | Higher capacity and energy per unit                                       | Lower capacity due to smaller size                                        |
+| **Runtime**            | Longer due to higher capacity                                             | Shorter due to lower capacity                                             |
+| **Features**           | Ideal for devices that require more power and have higher current demands | Ideal for smaller devices that require less power and a more compact size |
 
 
 ### Key Differences:
