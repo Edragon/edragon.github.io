@@ -7,7 +7,7 @@
 
 - [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[camera-dat]]
 
-- [[robot-dat]]
+- [[RC-dat]] - [[robot-dat]]
 
 - [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
 
@@ -85,7 +85,7 @@
 
 ## Code 
 
-- [[arduino-ide-dat]]
+- [[arduino-ide-dat]] - [[PWM-dat]]
 
 - [[logic-dat]]
 

@@ -3,7 +3,7 @@
 
 ## Mechanical 
 
-- [[openpnp-dat]] - [[PixiePlacer-dat]] - [[reprap-dat]] - [[pnp-machine-dat]]
+[[pnp-machine-dat]] - [[openpnp-dat]] - [[PixiePlacer-dat]] - [[reprap-dat]] - 
 
 ## gadgets 
 

@@ -1,5 +1,7 @@
 # WFLY-dat
 
+- [[PPM-dat]]
+
 ![](2025-05-05-14-45-14.png)
 
 ![](2025-05-05-14-51-22.png)
@@ -92,16 +94,30 @@ Switch Function Instruction
     *   HDE Helicopter (Channel 3 to Channel 4 & 6 mix)
     *   HDE Helicopter (Channel 3 to Channel 6 mix)
 *   **Reverse Switches:**
-    *   Channel 1: Aileron
-    *   Channel 2: Elevator
-    *   Channel 3: Throttle
-    *   Channel 4: Rudder
-    *   Channel 6: Flap/Pitch
+    *   Channel 1: Aileron 副翼
+    *   Channel 2: Elevator 升降舵
+    *   Channel 3: Throttle 油门
+    *   Channel 4: Rudder 方向舵
+    *   Channel 6: Flap/Pitch 襟翼/螺距
 *   **Low Voltage Alarm (Visual & Audible):**
     *   Battery Voltage < 8.8V: Power indicator flashes once per second with beeping.
     *   Battery Voltage < 8.3V: Power indicator flashes twice per second (0.5s interval) with beeping.
 *   **Charging Jack:** Yes
 *   **Simulator Jack:** Yes
+
+
+## Beeping 
+
+According to the document, the device will provide a sound-and-light notification when the battery voltage is low.   
+
+**When the battery voltage is below 8.8V**, the power indicator light will glitter and buzz at a rate of 1S/1S.   
+
+**When the battery voltage drops below 8.3V**, the power indicator light will glitter and buzz at a rate of 0.5S/1S.   
+
+Additionally, the WFT06X-C model transmitter will alarm if it is turned on in an Idle-up state with no output.   
+
+
+
 
 
 ## demo video 

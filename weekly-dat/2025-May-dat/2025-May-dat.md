@@ -13,6 +13,9 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[MAX30102-dat]] - [[pulse-rate-dat]] - [[SMO1013-dat]]
 
+- [[DVA1002-dat]] documents improved
+
+- four types of [[feeder-dat]] info added, based on [[openpnp-dat]]
 
 ## Dissusion, Feedback, To-do
 
