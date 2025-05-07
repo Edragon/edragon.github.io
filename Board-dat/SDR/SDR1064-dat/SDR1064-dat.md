@@ -1,7 +1,7 @@
 
 # SDR1064-dat
 
-- [[motor-driver-dat]]
+- [[motor-driver-dat]] - [[NWI1044-dat]]
 
 ## Info 
  
@@ -15,10 +15,12 @@
 
 ![](2025-03-25-15-56-06.png)
 
-Motor Power Supply - VM (V_motor)
-Board Power Supply - VIN 
+- Motor Power Supply - VM (V_motor)
+- Board Power Supply - VIN 
 
+Input Pins: SD2, SD3, IO8, IO7, IO6, IO5, IO4, IO3, IO2, IO1, IO0
 
+Motor Control: Phase_A, Phase_B, VIN, V_Motor
 
 ## Demo Code and Video
 
