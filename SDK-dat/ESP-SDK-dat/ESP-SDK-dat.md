@@ -22,6 +22,11 @@
 
 - [[ESPHome-dat]] - [[tasmota-dat]] - [[ESP-now-dat]]
 
+- ??: [[MicroPython-dat]] - [[MongooseOS-dat]] - [[FreeRTOS-dat]] - [[Zephyr-dat]]
+
+- [[Nodemcu-dat]]
+
+
 
 ## Flashing 
 
