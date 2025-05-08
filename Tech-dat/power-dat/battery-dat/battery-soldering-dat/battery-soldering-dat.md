@@ -5,6 +5,17 @@
 
 Support spot welding of nickel sheets, iron sheets, stainless steel sheets and other materials. Strong and versatile, strong welding, excellent welding points
 
+
+![](2025-05-08-01-10-00.png)
+
+## stack soldering 
+
+The green part is Insulating Gasket
+
+Copper sheet at the bottom, nickel-plated strip on top, stacked together for welding.
+
+
+
 ## ref 
 
 - [[battery]] - [[18650]]
