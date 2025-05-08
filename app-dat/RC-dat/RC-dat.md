@@ -12,9 +12,9 @@
 
 - [[UAV-dat]]
 
-## RC - protocols 
+## RC - signal 
 
-- [[RC-protocols-dat]]
+- [[RC-signal-dat]]
 
 ## RC - systems 
 
