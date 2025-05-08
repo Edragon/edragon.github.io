@@ -6,6 +6,8 @@
 
 - [[RC-link-dat]] - [[PPM-dat]]
 
+- [[PWM-1ch.ino]] - [[PWM-4ch.ino]]
+
 Basic setup:
 
 Connect the signal wire of each channel (e.g., throttle and elevator) to two digital pins on the Arduino (e.g., D2 and D3).
@@ -36,7 +38,7 @@ Use pulseIn() to read the high-pulse duration.
         delay(100);  // Limit output rate
     }
 
-update into four channels, and add timeout to prevent lockup if a signal is lost.
+update into **four channels**, and add timeout to prevent lockup if a signal is lost.
 
     // Define pins for each RC channel
     int aileronPin = 2;   // Channel 1

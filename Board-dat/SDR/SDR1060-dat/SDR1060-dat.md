@@ -63,6 +63,9 @@ Schematic
  
 ## Demo Code and Video
  
+somewhere here: https://github.com/Edragon/arduino-esp8266/tree/master/BSP/SDR/SDR1060-M4
+
+
 ## ref 
  
 - [[SDR1060]] - [[L293-dat]]

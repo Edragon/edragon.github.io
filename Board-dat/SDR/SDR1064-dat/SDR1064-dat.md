@@ -9,7 +9,9 @@
  
 ## Applications, category, tags, etc. 
 
-- [[ESP32-rc-car-dat]] - [[nodemcu-dat]]
+- [[ESP32-rc-car-dat]] - [[nodemcu-dat]] - [[RC-code-dat]]
+
+
 
 ## Board map 
 
@@ -27,8 +29,8 @@ Motor Control: Phase_A, Phase_B, VIN, V_Motor
 | nodemcu | right | func1 | func2 | [[SDR1064-dat]] |
 | ------- | ----- | ----- | ----- | --------------- |
 | D0      | I016  | USER  | WAKE  |                 |
-| D1      | I05   |       |       | PWM_A           |
-| D2      | I04   |       |       | PWM_B           |
+| D1      | I05   |       |       | PWM_ A           |
+| D2      | I04   |       |       | PWM_B          |
 | D3      | I00   | FLASH |       | Motor_1         |
 | D4      | I02   | TXD1  |       | Motor_2         |
 |         | 3.3V  |       |       |                 |
@@ -71,8 +73,12 @@ Motor Control: Phase_A, Phase_B, VIN, V_Motor
 
 [ESP8266: NodeMCU Motor Shield Review](http://blog.squix.ch/2015/09/esp8266-nodemcu-motor-shield-review.html)
 
+
+https://github.com/Edragon/arduino-esp8266/tree/master/BSP/SDR/SDR1064-wifi-car
+
 ### Demo code JS Web Control 
 
+https://github.com/Edragon/arduino-esp8266/tree/master/BSP/SDR/SDR1064-wifi-car
 
 It is not simple to setup the WiFiCar with the provided software. You should have good knowledge of network handling, and Arduino and C programming. 
 
@@ -93,7 +99,7 @@ It is not simple to setup the WiFiCar with the provided software. You should hav
  
 - [[SDR1064]] 
 
-- [[L293-dat]] - [[dc-motor-dat]]
+- [[L293-dat]] - [[dc-motor-dat]] - [[wifi-dat]] - [[rover-dat]]
  
 - [legacy wiki page ](https://www.electrodragon.com/w/WifiCar)
  
