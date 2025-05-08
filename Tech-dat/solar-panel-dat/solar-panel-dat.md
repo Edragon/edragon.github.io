@@ -59,6 +59,19 @@ It is widely used on small plug-n-play outdoor solar LED lights, folding solar c
 LIFESPAN: 3 year +
 
 
+## Panel Wiring 
+
+![](2025-05-08-18-00-49.png)
+
+Diodes in solar panels help prevent "hot-spots." 
+
+Hot-spots are areas on the panel that can overheat and get damaged. 
+
+This can happen when some solar cells are shaded or not working properly, causing a reverse flow of electricity and power loss. 
+
+To prevent this, bypass diodes are used. These diodes allow the electricity to flow around the underperforming cells, protecting the panel. Typically, one bypass diode is used for every twenty solar cells.
+
+
 ## ref 
 
 - [[solar-panel]]
