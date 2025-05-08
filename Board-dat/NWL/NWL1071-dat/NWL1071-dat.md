@@ -11,8 +11,8 @@
 
 ## ref 
 
-- DS - [[ra-01h_product_specification_en.pdf]]
+- DS RA-01H - [[ra-01h_product_specification_en.pdf]]
 
-- DS - [[ra-01_product_specification_v1.1.pdf]]
+- DS RA-01 - [[ra-01_product_specification_v1.1.pdf]]
 
 - [[Lora-dat]]
