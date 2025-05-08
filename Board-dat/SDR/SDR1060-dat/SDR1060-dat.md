@@ -58,6 +58,8 @@ Schematic
 
 
 ## Applications, category, tags, etc. 
+
+- [[dc-motor-dat]]
  
 ## Demo Code and Video
  
