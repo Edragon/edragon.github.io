@@ -72,6 +72,12 @@ UART baud == 420000 = 420K
     A: Same as the answer above. Power on the receiver and leave it. It will automatically enter WiFi flashing mode in about 60 seconds, and the light will flash rapidly.
 
 
+## Versions 
+
+- Firmware Rev. 3.5.2 (7ac5f4)
+
+
+
 ## ref 
 
 - [[ELRS-dat]]
