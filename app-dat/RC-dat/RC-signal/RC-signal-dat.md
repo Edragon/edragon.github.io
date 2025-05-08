@@ -70,7 +70,7 @@ FHSS (Frequency Hopping Spread Spectrum) hops between frequencies in a sequence.
   
 - [[FrSky-dat]] == [[CC2500-dat]] 
 
-- [[ELRS-dat]] 
+- [[ELRS-dat]] - [[ELRS-RX-dat]] - [[ELRS-TX-dat]]
 
 
 ## SDR 
