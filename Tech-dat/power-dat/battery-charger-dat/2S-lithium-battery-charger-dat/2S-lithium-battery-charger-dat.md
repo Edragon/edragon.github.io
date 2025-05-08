@@ -1,6 +1,10 @@
 
 # 2S-lithium-battery-charger-dat
 
+If building your own charger or pack, include a BMS, and use a charger with current limit and CV/CC behavior.
+
+如果你自己DIY电池组或充电系统，务必使用保护板（BMS），并选择支持恒流恒压输出的充电器。
+
 
 ## IF the 2S pack battery does NOT have the BMS board 
 
@@ -28,6 +32,9 @@ The BMS will:
 
 - Protect against overcharge
 - Balance the cells (if it's a balancing BMS)
+
+
+
 
 ## ref 
 

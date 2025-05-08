@@ -24,7 +24,7 @@
 
 ## RC Electrified in the air
 
-- [[ardupilot-dat]]
+- [[ardupilot-dat]] - [[RC-dat]]
 
 - [[quadcopter-dat]] - [[FPV-dat]] - [[UAV-dat]]
 
@@ -32,7 +32,7 @@
   
 ## RC lectrified on the ground  
 
-- [[ardupilot-dat]]
+- [[ardupilot-dat]] - [[RC-dat]]
   
 - [[RC-car-dat]] - [[rover-dat]] - [[RC-car-hack-dat]] - [[submarine-dat]] - [[RC-boat-dat]]
 
