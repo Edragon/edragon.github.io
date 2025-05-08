@@ -21,8 +21,15 @@
 
 ![](2025-05-08-18-07-17.png)
 
+- [[2S-lithium-battery-charger-dat]]
+
 ### 4X 18650 battery holder
 
 == 4.2*4 = 16.8V
 
 ![](2025-05-08-18-07-25.png)
+
+
+## ref 
+
+- [[battery-dat]]
