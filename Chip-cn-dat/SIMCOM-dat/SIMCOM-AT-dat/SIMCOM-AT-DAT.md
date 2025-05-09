@@ -1,8 +1,8 @@
 
 # SIMCOM AT dat 
 
-legacy wiki page 
-https://w.electrodragon.com/w/SIM7020_AT
+[legacy wiki page ](https://w.electrodragon.com/w/SIM7020_AT)
+
 
 - [[SIMCOM-AT-GNSS-dat]] 
 

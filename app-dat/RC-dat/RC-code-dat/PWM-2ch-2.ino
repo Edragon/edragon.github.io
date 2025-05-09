@@ -14,9 +14,12 @@ long elevatorControl; // Mapped value from elevator channel (0-100)
 // Reads the PWM signal from the aileron channel and maps it to 0-100
 long readAileronControlSignal() {
     unsigned long rawPWM = pulseIn(aileronPin, HIGH, 25000);
-    if (rawPWM == 0) { // Timeout or no signal
-        return 50; // Mid-point for 0-100 scale (1500us equivalent)
+    // If signal is lost (timeout) or clearly out of valid RC pulse range, return neutral (50)
+    // Valid RC pulses are typically 1000-2000us. Values outside ~900-2100us are treated as invalid.
+    if (rawPWM == 0 || rawPWM < 900 || rawPWM > 2100) { 
+        return 50; // Mid-point for 0-100 scale (1500us equivalent), results in stop
     }
+    // Otherwise, the signal is likely valid; constrain it to the standard 1000-2000us range and map
     long constrainedPWM = constrain(rawPWM, 1000, 2000);
     return map(constrainedPWM, 1000, 2000, 0, 100);
 }
@@ -24,9 +27,12 @@ long readAileronControlSignal() {
 // Reads the PWM signal from the elevator channel and maps it to 0-100
 long readElevatorControlSignal() {
     unsigned long rawPWM = pulseIn(elevatorPin, HIGH, 25000);
-    if (rawPWM == 0) { // Timeout or no signal
-        return 50; // Mid-point for 0-100 scale (1500us equivalent)
+    // If signal is lost (timeout) or clearly out of valid RC pulse range, return neutral (50)
+    // Valid RC pulses are typically 1000-2000us. Values outside ~900-2100us are treated as invalid.
+    if (rawPWM == 0 || rawPWM < 900 || rawPWM > 2100) {
+        return 50; // Mid-point for 0-100 scale (1500us equivalent), results in stop
     }
+    // Otherwise, the signal is likely valid; constrain it to the standard 1000-2000us range and map
     long constrainedPWM = constrain(rawPWM, 1000, 2000);
     return map(constrainedPWM, 1000, 2000, 0, 100);
 }
@@ -108,9 +114,9 @@ void loop() {
 
     // Define deadband radius (e.g., +/- 5 around center of 50 for a 0-100 input)
     // This means input values from 45 to 55 (inclusive if center is 50 and radius is 5) will be treated as 0.
-    int deadbandRadius = 5; 
-    float steeringFactor = 1.5; // Adjust this value to change steering sensitivity
-    float throttleFactor = 1.3; // Adjust this value to change throttle sensitivity (e.g., 1.2 for 20% stronger throttle)
+    int deadbandRadius = 10; 
+    float steeringFactor = 3; // Adjust this value to change steering sensitivity
+    float throttleFactor = 3; // Adjust this value to change throttle sensitivity (e.g., 1.2 for 20% stronger throttle)
 
     // Map control values with deadband
     long rawThrottleValue = mapWithDeadband(aileronControl, 0, 100, 50, deadbandRadius, -255, 255);

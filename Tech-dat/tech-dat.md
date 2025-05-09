@@ -11,6 +11,8 @@
 
 - [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
 
+- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]]
+
 ## Circuits 
 
 ## MOD
@@ -52,9 +54,6 @@
 
 - [[location-dat]]
 
-### Power 
-
-- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]]
 
 ### Interactive
 
