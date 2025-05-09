@@ -27,4 +27,4 @@ C7 = IO
 
 ## REF 
 
-- [[SIM_Holder-dat]] - [[SIM]]
+- [[SIM_Holder-dat]] - 注意事项 = [[SIM]]
