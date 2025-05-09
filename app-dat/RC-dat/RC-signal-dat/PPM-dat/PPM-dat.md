@@ -19,7 +19,9 @@ So, instead of needing a separate wire for each control channel, PPM combines th
 
 [RC #PPM PWM send and receive at Arduino, note the four channels color](https://youtube.com/shorts/BDdSFPlh9KE?si=n1oF2KUIMqEeH1QW)
 
+Internal control by [[SDR1064-dat]]
 
+[Wfly #PPM console control toy rover](https://t.me/electrodragon3/369)
 
 
 ## ref 

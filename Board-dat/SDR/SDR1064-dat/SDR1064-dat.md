@@ -76,6 +76,12 @@ Motor Control: Phase_A, Phase_B, VIN, V_Motor
 
 https://github.com/Edragon/arduino-esp8266/tree/master/BSP/SDR/SDR1064-wifi-car
 
+Internal control by [[SDR1064-dat]]
+
+[Wfly #PPM console control toy rover](https://t.me/electrodragon3/369)
+
+
+
 ### Demo code JS Web Control 
 
 https://github.com/Edragon/arduino-esp8266/tree/master/BSP/SDR/SDR1064-wifi-car

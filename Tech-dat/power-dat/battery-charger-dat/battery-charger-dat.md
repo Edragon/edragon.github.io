@@ -4,7 +4,7 @@ https://w.electrodragon.com/w/Category:Battery_Charge
 
 The most following charger options are for the lithium-ion battery
 
-
+- [[2S-lithium-battery-charger-dat]]
 
 ## Chip Info
 
