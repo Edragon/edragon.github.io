@@ -54,7 +54,7 @@
 
 ### Power 
 
-- [[power-dat]] - [[battery-dat]]
+- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]]
 
 ### Interactive
 

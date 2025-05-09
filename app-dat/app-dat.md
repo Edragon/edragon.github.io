@@ -1,5 +1,6 @@
 # app-dat
 
+- [[tech-dat]]
 
 ## Mechanical 
 
@@ -21,6 +22,7 @@
 
 - [[home-plant-dat]] - [[Apocalypse-dat]] - [[surveillance-dat]]
 
+- [[E-Bike-dat]]
 
 ## RC Electrified in the air
 
@@ -34,7 +36,7 @@
 
 - [[ardupilot-dat]] - [[RC-dat]]
   
-- [[RC-car-dat]] - [[rover-dat]] - [[RC-car-hack-dat]] - [[submarine-dat]] - [[RC-boat-dat]]
+- [[rover-dat]] - [[RC-car-dat]] - [[RC-car-hack-dat]] - [[submarine-dat]] - [[RC-boat-dat]]
 
 - [[robot-dat]] - [[video-RC-car-dat]]
 
