@@ -2,6 +2,9 @@
 # glue-dat
 
 
+- [[hot-gun-glue-dat]] - [[502-glue-dat]] - [[epoxy-glue-dat]] (AB Glue) - [[uv-glue-dat]]
+
+
 # 🔍 Comparison of Adhesives
 
 | Feature / Property        | 502 Glue (Cyanoacrylate)     | Epoxy Resin (AB Glue)            | Hot Glue (Thermoplastic)       | UV Glue (Light-Cured Adhesive)     |
