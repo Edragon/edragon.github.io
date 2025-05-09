@@ -1,7 +1,7 @@
 
 # Electrodragon Wiki V2 
 
-- legacy wiki page V1 here - https://w.electrodragon.com
+- [legacy wiki page V1 here ](https://w.electrodragon.com)
 - this web application may encounter error "502 bad gateway", please visit 5 minutes later
 
 
@@ -17,7 +17,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
   
-- [[Tech-DAT]] - [[SDK-DAT]] - [[app-dat]]
+- [[Tech-DAT]] - [[SDK-DAT]] - [[app-dat]] - [[mechanics-dat]]
   
 - [[BOM-DAT]] - [[service-dat]]
 
