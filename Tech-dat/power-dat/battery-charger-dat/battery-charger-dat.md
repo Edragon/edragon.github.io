@@ -69,3 +69,8 @@ request
 | 4.2  | 3         | 12.6V |
 | 4.2  | 4         | 16.8V |
 | 4.2  | 5         | 21V   |
+
+
+## battery cables 
+
+- [[SM2.54-dat]] - [[JST-dat]] - [[15EDGRKP-3.81mm-dat]] - [[XT-dat]] - [[cable-dat]]

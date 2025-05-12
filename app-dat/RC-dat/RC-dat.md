@@ -24,7 +24,7 @@
 
 - [[flight-controller-dat]] - [[RC-link-dat]]
 
-- [[BMS-dat]]
+- [[BMS-dat]] - [[battery-dat]]
 
 ## RC - manufacturers
 
