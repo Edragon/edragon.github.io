@@ -6,6 +6,7 @@
 
 - [[lithium-battery-dat]] - [[battery-pack-dat]]
 
+
 ## 2. RC Signal Extension
 
 - improve up to 10KM by [[FPV-dat]] system [[ELRS-dat]], or [[PPM-dat]] == [[Wfly-dat]]
@@ -17,8 +18,6 @@
 ## 3. Imaging System 
 
 - [[video-transmission-dat]] == pickup option == [[LTE-dat]]
-
-
 
 
 ## 4. GNSS location system 
