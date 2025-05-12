@@ -4,15 +4,16 @@
 
 - [[battery-rechargerable-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
 
-- [[battery-holder-dat]]
+- [[battery-pack-dat]] - [[battery-holder-dat]]
 
 - [[battery-charger-dat]] - [[2S-lithium-battery-charger-dat]]
 
 - [[alkaline-battery-dat]] - [[9V-battery-dat]]
 
-- [[battery-soldering-dat]]
+- [[battery-soldering-dat]] - [[battery-tester-dat]]
 
-- battery isolation == rack (specially when have movement or vibration), Insulating Gasket
+- [[battery-discharge-dat]]
+
 
 
 

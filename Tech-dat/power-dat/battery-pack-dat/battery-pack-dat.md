@@ -7,6 +7,9 @@
 
 - battery test by [[electronic-loader-dat]]
 
+- check [[battery-discharge-dat]]
+
+- battery isolation == rack (specially when have movement or vibration), Insulating Gasket
 
 
 ## Simple 1S to 2S management Solutions 
