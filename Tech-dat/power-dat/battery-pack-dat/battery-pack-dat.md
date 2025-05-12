@@ -3,7 +3,10 @@
 
 - battery upgrade by [[battery-holder-dat]]
 
+- battery upgrade by [[cable-dat]] (Series And Parallel Connection Cable)
+
 - battery test by [[electronic-loader-dat]]
+
 
 
 ## Simple 1S to 2S management Solutions 
@@ -51,6 +54,10 @@
 
 **Example:**
 - Upgrade from 2200mAh to 5000mAh for more endurance
+
+
+
+
 
 ## ref 
 
