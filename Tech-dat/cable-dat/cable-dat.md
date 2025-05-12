@@ -40,6 +40,22 @@
 - safety current 25A, power 5500W 
 
 
+## Cable to Cable 
+
+## Cable to Board 
+
+## Series And Parallel Connection Cable  
+
+2P==JST-1F-to-2M
+
+![](2025-05-12-14-09-23.png)
+
+2P==EC2-1F-to-2M
+![](2025-05-12-14-10-04.png)
+
+2S==T_Socket-1F-to-2M
+
+![](2025-05-12-14-11-12.png)
 ## ref 
 
 - [[ribbon-cable-dat]]

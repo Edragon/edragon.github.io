@@ -2,7 +2,7 @@
 
 # battery-dat 
 
-- [[rechargerable-battery-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
+- [[battery-rechargerable-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
 
 - [[battery-holder-dat]]
 
