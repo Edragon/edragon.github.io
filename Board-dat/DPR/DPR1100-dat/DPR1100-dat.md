@@ -1,8 +1,13 @@
 
 # DPR1100-dat 
 
+
+All functionalities 
+
 - Lead out all pins for [[STM32F103C8T6-dat]], can be used as a development board too 
 - Can be used as a [[USB-TTL-dat]] bridge
+- recognized in [[MDK-ARM-dat]] as [[CMSIS-dap-dat]]
+
 
 ## Board Map 
 
@@ -30,7 +35,7 @@ LED Indicator
 
 ## Note 
 - Crystal - 8M
-- D+ pull-up to PA8 for V2 bootloader, and to 3.3V for V3 bootloader 
+- D+ pull-up to PA8 for V2 bootloader, or to 3.3V for V3 bootloader 
 
 
 ## ref 

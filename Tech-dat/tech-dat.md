@@ -84,7 +84,7 @@
 
 ## EDA
 
-- [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]]
+- [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]] - [[fritzing.org-dat]]
 
 ## simulator 
 

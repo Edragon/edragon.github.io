@@ -16,7 +16,7 @@ To quickly fix this issue, please cut the **BLUE** wire on the back of the PCB i
 
 and reconnect the pins indicated by the two **ORANGE** boxes by a wire.
 
-**If you require a replacement, please just reply to the order email, and we will send you a new board.**
+**If you require a replacement, please just reply to the order email, and we will send you a new board.** OR Simply rely the **"Thanks for shopping with us" email** or any other system emails!
 
 This is how to fix:
 

@@ -17,6 +17,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - four types of [[feeder-dat]] info added, based on [[openpnp-dat]]
 
+- [[battery-pack-dat]] make a more powerful battery by assmebling it by yourself
+
 ## Dissusion, Feedback, To-do
 
 

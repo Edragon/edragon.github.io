@@ -1,6 +1,7 @@
 
 # DPR1097 RS-422
 
+3.3V version - [[DPR1098-dat]]
 
 ## Info
 
