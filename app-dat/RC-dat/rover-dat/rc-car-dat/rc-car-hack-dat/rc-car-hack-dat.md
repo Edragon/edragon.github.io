@@ -30,6 +30,16 @@
 
 - [[WS2812-dat]]
 
+
+
+
 ## Accessories
 
 - [[Velcro-dat]]
+
+
+## Get Inpsired 
+
+The battery can be put in your top luggage rack 
+
+![](2025-05-12-18-37-13.png)

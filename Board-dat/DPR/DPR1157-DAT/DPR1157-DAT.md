@@ -2,9 +2,12 @@
 
 # DPR1157 DAT STM32 offline programmer 
 
-https://www.electrodragon.com/product/chip-holdstm32-online-offline-programmer-daplink-off-prog/
 
-- legacy wiki page - https://w.electrodragon.com/w/STM32_OFF-PROG
+[chip-holdstm32-online-offline-programmer-daplink-off-prog](https://www.electrodragon.com/product/chip-holdstm32-online-offline-programmer-daplink-off-prog/)
+
+
+
+- [legacy wiki page](https://w.electrodragon.com/w/STM32_OFF-PROG)
 
 
 
@@ -122,6 +125,7 @@ The file list;
 
 ## demo video 
 
+
 ### programming STM32F103
 
 - https://twitter.com/electro_phoenix/status/1394564729524432900?s=19
@@ -130,6 +134,10 @@ The file list;
 - target programming board [[DOD1046-dat]] - https://www.electrodragon.com/product/arm-stm32f103c8t6-mini-development-board-r2/
 
 - programming port GND - SWCLK - SWIO - 3V3
+
+
+
+
 
 ## ref 
 
