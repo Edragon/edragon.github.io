@@ -8,7 +8,7 @@
 
 ## 2. RC Signal Extension
 
-- improve up to 10KM by [[FPV-dat]] system [[ELRS-dat]]
+- improve up to 10KM by [[FPV-dat]] system [[ELRS-dat]], or [[PPM-dat]] == [[Wfly-dat]]
 
 - [[antenna-dat]]
 
@@ -24,3 +24,12 @@
 ## 4. GNSS location system 
 
 - [[location-dat]]
+
+
+## other fancy functions 
+
+- [[WS2812-dat]]
+
+## Accessories
+
+- [[Velcro-dat]]

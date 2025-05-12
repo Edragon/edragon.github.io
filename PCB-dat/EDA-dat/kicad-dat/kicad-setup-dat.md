@@ -24,3 +24,14 @@ configure paths
 | -------------------- | ----------------------------------------------- |
 | ${KICAD9_SYMBOL_DIR} | D:\Program Files\KiCad\9.0\share\kicad\symbols\ |
 | ${KIPRJMOD}          | D:\Dropbox\PCB\kicad\proj\USB-HFBR              |
+
+
+
+
+## Common Error 
+
+
+### Software Stuck 
+
+- suspend dropbox SYNC !!
+

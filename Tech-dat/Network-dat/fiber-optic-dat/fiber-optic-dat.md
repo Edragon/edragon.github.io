@@ -72,6 +72,11 @@ Gigabit optical-to-electrical modules must be used with Category 5e, Category 6,
 - DP83869HM
 
 
+
+## Applications 
+
+[From the drones community on Reddit: Unjammable drones being flown via 12 mile long fiber optic cables.](https://www.reddit.com/r/drones/s/VfXIHkhMBL)
+
 ## ref 
 
 - [[RJ45-DAT]] - [[RS485-dat]] - [[ethernet-dat]]

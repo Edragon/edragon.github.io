@@ -82,7 +82,16 @@ Simply Only use Trace x.CU, Silkscreen layer x.Silkscreen, and Edge.Cuts
 Edit - Fill All Zones (B or Ctrl+B)
 
 
+### Optimized the Text 
+
+Optimize the text size of the desginators
+
+![](2025-05-12-13-02-00.png)
+
 
 ## export gerber 
 
-output folder ./
+output folder 
+
+    for the current folder == ./
+    for the sub folder "gerber" in current folder == ./gerber
