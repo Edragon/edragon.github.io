@@ -6,16 +6,15 @@
 
 ![](2024-03-29-16-01-28.png)
 
+## Flexible Connection battery holder
+
+![](2025-05-12-14-49-25.png)
+
 
 ## Plastic houseing battery holder 
 
-### 3X AA battery holder 
 
-== 1.5*3 = 4.5V 
-
-![](2025-05-08-18-06-19.png)
-
-### 2X 18650 battery holder 
+### 2S 18650 battery holder 
 
 == 4.2*2 = 8.4V
 
@@ -23,7 +22,7 @@
 
 - [[2S-lithium-battery-charger-dat]]
 
-### 4X 18650 battery holder
+### 4S 18650 battery holder
 
 == 4.2*4 = 16.8V
 
