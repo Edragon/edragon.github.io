@@ -136,6 +136,29 @@ http://10.0.0.1/ - If you have connected to the ExpressLRS RX Access Point
 ![](2025-05-04-15-31-56.png)
 
 
+## Code 
+
+| Method        | Arduino-Friendly? | Notes                                      |
+|---------------|-------------------|--------------------------------------------|
+| PWM Output    | ✅ Yes            | Easiest to use. Limited channels.          |
+| SBUS/PPM      | ✅ Yes (with lib) | Good middle ground.                        |
+| CRSF over UART| ⚠️ Difficult      | Only feasible on fast boards (ESP32/STM32).|
+
+
+### ✅ Use PWM output from ELRS receiver for arduino 
+
+Some ELRS receivers support PWM output, which can be read with Arduino pulseIn() or interrupts.
+
+This is much easier but limits you to a few channels (e.g., 4–8).
+
+### ✅ Use CRSF over UART (advanced)
+If you use a faster board like Teensy, ESP32, or STM32:
+
+These can handle high baud rates and may be able to parse CRSF messages.
+
+You’d need to write or port a CRSF parser for Arduino/Teensy/ESP32.
+
+
 ## ref 
 
 - [[FPV-dat]] 

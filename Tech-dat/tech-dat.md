@@ -7,19 +7,9 @@
 
 - [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[camera-dat]]
 
-- [[RC-dat]] - [[robot-dat]]
-
-- [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
+- [[robot-dat]]
 
 - [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]]
-
-## Circuits 
-
-## MOD
-
-## PROG
-
-- [[SWD-dat]]
 
 ## SDK
 
@@ -44,16 +34,19 @@
 
 ### Network
 
-- [[network-dat]] - [[M2M-dat]]
+- [[network-dat]] 
 
-- [[RF-DAT]] - [[ELRS-dat]] - [[CRSF-dat]] - [[GFSK-dat]] - [[ardupilot-dat]] - [[SBUS-dat]]
-
-- [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
+- [[M2M-dat]] - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 
 - [[bluetooth-dat]]
 
-- [[location-dat]]
+- [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[AGPS-dat]]
 
+- [[RC-dat]] - [[RF-DAT]] - [[ELRS-dat]] - [[CRSF-dat]] - [[GFSK-dat]] - [[ardupilot-dat]] - [[SBUS-dat]]
+
+- [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
+
+- long distance = [[lora-dat]] - [[lorawan-dat]]
 
 ### Interactive
 
@@ -101,5 +94,17 @@
 ## Mechnicals 
 
 - [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]]
+
+
+
+## Circuits 
+
+## MOD
+
+## PROG
+
+- [[SWD-dat]]
+
+
 
 Any interetest demo please contact me to enquiry.
