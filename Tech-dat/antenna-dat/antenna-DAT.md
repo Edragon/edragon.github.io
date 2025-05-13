@@ -9,8 +9,7 @@
 | GLONASS          | 1597.5~1605.8   | MHz   |
 | BeiDou           | 1561.098 ±2.046 | MHz   |
 
-GPS 
-- [[NAN1001-dat]] 
+- [[antenna-location-dat]]
 
 GSM
 - [[NAN1003-dat]] - [[NAN1008-dat]]
