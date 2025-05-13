@@ -27,3 +27,13 @@
 ## Boards 
 
 - [[NGS1063-dat]]
+
+
+
+## ref 
+
+- [[network-dat]] - [[M2M-dat]]
+
+forum info 
+
+- [m66-firmware-upgrade](https://forums.quectel.com/t/m66-firmware-upgrade/5523/21?page=2)
