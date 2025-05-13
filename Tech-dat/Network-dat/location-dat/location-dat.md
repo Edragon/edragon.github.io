@@ -7,7 +7,7 @@
 
 - [[amplifier-dat]]
 
-- [[antenna-dat]]
+- [[antenna-location-dat]]
 
 ## companies 
 
@@ -16,8 +16,18 @@
 - [[quectel-dat]] - [[quectel-gps-dat]]
 
 
+## Common Locating Issues 
 
 
+**Network Dependency**
+
+A-GPS (Assisted GPS) - [[AGPS-dat]] relies on Wi-Fi or mobile data to speed up location locking. If no internet is available, it may take much longer.
+
+Poor mobile signal or no Wi-Fi can delay GPS start.
+
+**Cold Start vs Warm Start**
+
+If you haven't used GPS in a while or have moved a long distance since last use, your GPS might need a "cold start," which takes longer.
 
 ## location by [[A7670-dat]]
 
@@ -38,7 +48,7 @@ foward signal to GPS NEMA serial port
 
     AT+CGNSSTST=1
     OK
-    
+
 ## GPS NEMA output Port 
 
     SimTech HS-USB NMEA 9011 (COM346)
