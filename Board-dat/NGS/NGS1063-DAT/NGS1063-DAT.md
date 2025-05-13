@@ -46,28 +46,29 @@ Test commands
     OK
 
 
+## Firmware Code 
+
+- default [[quectel-at-dat]] firmware also in the [github](https://github.com/Edragon/Quectel_ED20.git), you can flash it back to use AT commands 
+
+- custom firmware please see below, [get in github here](https://github.com/Edragon/Quectel_ED20.git)
+
+- instructions at [[NGS1063-SDK-dat]]
+
+- and Custom SDK List 
+
+![](2023-12-11-19-02-13.png)
+
+
+## demo video 
+
+- [for the default firmware TG](https://t.me/electrodragon3/340)
+
 
 ## Customization 
 
 - Board hardware customize, please contact us if you have any need.
 - Support custom module label for buck order 20pcs
 
-## custom SDK List 
-
-![](2023-12-11-19-02-13.png)
-
-
-
-
-## Tracking records 
-
-![](2023-12-11-19-02-32.png)
-
-- support [[LBS-dat]] and [[GPS-dat]]
-
-## demo video 
-
-- [for the default firmware TG](https://t.me/electrodragon3/340)
 
 ## ref 
 

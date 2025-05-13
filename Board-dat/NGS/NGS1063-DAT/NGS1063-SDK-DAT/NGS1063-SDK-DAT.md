@@ -1,16 +1,41 @@
 # NGS1063-SDK-DAT
 
-## server side 
-
-- https://github.com/Edragon/ED20-webserver
-- version version see here: [[server-main-v2.py]]
-
-- The server receive the [[TCP-dat]] data at port 8100
+- [[quectel-SDK-dat]]
 
 
 ## Client Side 
 
 - [[NGS1063-dat]] side 
+
+set by commands without CrLf 
+
+    $setsn 0987654321
+
+and get feedback, please remember to add sim card to continue: 
+
+    +SN 0987654321
+    AT
+    OK
+
+    AT+QGNSSC=1
+
+    OK
+
+    AT+CPIN?
+    +CME ERROR: 10
+
+    AT+CREG?
+    +CREG: 1,0
+
+    OK
+
+    AT+CSQ
+    +CSQ: 99,99
+
+    OK
+
+    AT+CREG?
+    +CREG: 1,0
 
 ### demo data 
 
@@ -28,8 +53,15 @@
     
     [2017-09-10 18:47:00.784] [INFO] stream - 7E7E232355544E153756170910184658002C000100060011613000FF00050001020006000104000700029E3
 
+### Tracking records on the server side after data received 
 
-#### the main data packet
+![](2023-12-11-19-02-32.png)
+
+- support [[LBS-dat]] and [[GPS-dat]]
+
+
+
+### the main data packet
 
     7E7E232355544E02375617091018465800B6000100060011613000FF0005000102A095000600010203040500040006170910184658514000080739F35801DBC6764E21000200004E220002000051A60002000051AC00020000A09800011351A90002000051AB0002016BB010000115B012000400018229B0A2000101B0A800040000000A55510009FFFFFFFFFFFFFFFFFF55520009FFFFFFFFFFFFFFFFFF55530009000000FFFFFFFFFFFF000600010300070002F144
 
@@ -99,3 +131,21 @@ And here is the explaination of the data packet, funtion start at void Head_Init
     01A0         // Pro.hvol  
 
     B010 0001    // CenterIDTlV
+
+
+
+
+## server side 
+
+- https://github.com/Edragon/ED20-webserver
+- version version see here: [[server-main-v2.py]]
+
+- The server receive the [[TCP-dat]] data at port 8100
+
+
+
+
+
+## ref 
+
+- [[NGS1063-SDK]] - [[NGS1063]]
