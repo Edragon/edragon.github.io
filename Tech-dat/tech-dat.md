@@ -56,7 +56,9 @@
 
 ### Sensors and actuator 
 
-- [[sensor-dat]] - [[acturator-dat]]
+- [[sensor-dat]]
+  
+- [[acturator-dat]] - [[motor-dat]]
 
 
 
