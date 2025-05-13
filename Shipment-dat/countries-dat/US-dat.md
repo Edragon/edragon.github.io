@@ -1,7 +1,7 @@
 
 # US-dat.md
 
-- [[PFCEXPRESS-dat]] - [[EURPOST-dat]] - [[USPST-dat]] - [[USPS-dat]]
+- [[PFCEXPRESS-dat]] - [[EURPOST-cn-dat]] - [[USPST-dat]] - [[USPS-dat]]
 
 ## Express shipment
 
@@ -34,8 +34,8 @@
 | ------------------------ | ------ | ----- | ---- | --- | ---------------------- | ----------------------------------------------------------------------- |
 | [[PFCEXPRESS-dat]]       | x      |       |      |     |                        |                                                                         |
 | [[USPST-dat]]            | x      |       |      |     |                        |                                                                         |
-| [[EURPOST-dat]]          | x      | price | 120  | 7.5 | 5%                     | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days)               |
-| [[EURPOST-dat]] -pre-tax |        | price | 120  | 7.5 | 5% + 60% (low declare) | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days, 165% pre-tax) |
+| [[EURPOST-cn-dat]]          | x      | price | 120  | 7.5 | 5%                     | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days)               |
+| [[EURPOST-cn-dat]] -pre-tax |        | price | 120  | 7.5 | 5% + 60% (low declare) | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days, 165% pre-tax) |
 | [[USPS-dat]]             | x      | price | 120  | 11  | 5%                     | USPS: Intl. + USPS (Ref. ETA: 8-15 days)                                |
 | [[USPS-dat]]   -pre-tax  |        | price | 120  | 11  | 5% + 60% (low declare) | USPS: Intl. + USPS (Ref. ETA: 8-15 days, 165% pre-tax)                  |
 
@@ -55,7 +55,7 @@
 **Customs Clearance Update (Effective May 2nd, Eastern Time):**
 
 *   **Policy Change:** For goods arriving on flights landing on or after May 2nd (Eastern Time), the T86 customs clearance mode and the $800 USD *de minimis* tax exemption are canceled. A new customs clearance mode will be implemented, resulting in applicable tariffs.
-*   **Affected Services:** PFCEX, PFCEXB, [[PFCEXPRESS-dat]], [[EURPOST-dat]], PFCGL, [[USPST-dat]] (United States routes).
+*   **Affected Services:** PFCEX, PFCEXB, [[PFCEXPRESS-dat]], [[EURPOST-cn-dat]], PFCGL, [[USPST-dat]] (United States routes).
 *   **Tariff Prepayment:** For the United States, a tariff prepayment of 160% of the declared value will be automatically collected upon warehousing. This amount is non-refundable and non-supplementary, and tax receipts will not be provided.
 *   **Declaration Limit:** The maximum declared value is 248 USD.
 *   **Customer Responsibility:** Customers must provide truthful, accurate, and complete cargo information.

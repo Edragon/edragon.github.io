@@ -16,9 +16,9 @@ HKDHL: DHL Express (Ref. ETA 6-10 days), currently plus 50 usd high-risk fee by 
 
 - [[PFCEXPRESS-dat]]
 
-## [[EURPOST-dat]]
+## [[EURPOST-cn-dat]]
 
-- [[EURPOST-dat]]
+- [[EURPOST-cn-dat]]
 
 
 

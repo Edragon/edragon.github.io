@@ -1,110 +1,168 @@
-
-
 # EURPOST
 
-## CN 皇邮宝带电价（EURPOST）渠道介绍
+## CN Royal Mail Treasure (EURPOST) - Channel Introduction (for items with batteries)
 
-## 渠道线路：	
-1. 美国：PFC-香港直飞LAX\JFK-商业清关-Lasership/ONTRAC/USPS/PIGGYCARS/UDS派送；    
-2. FR、SE、BE、DK、NL、LU、PL、PT、HU：PFC-香港直飞-邮政清关-Luxembourg Post派送；    
-3. 哥伦比亚：PFC-香港直飞LAX\JFK-BOG-商业清关-哥伦比亚 SkyPostal派送；    
-4. 意大利：PFC-香港直飞-商业清关意大利GLS/意大利邮政/意大利HRP派送；    
-5. 英国：PFC-香港直飞-商业清关Hermes/Royal mail派送；    
-6. 瑞士：PFC-香港直飞-邮政清关-ASENDIA派送；    
-7. 德国：PFC-香港直飞-商业清关-德国DHL Packet派送；收件人地址栏需要填写门牌号；    
-8. 西班牙：PFC-香港直飞-邮政清关-西班牙CORREOS/西班牙CTT/西班牙Urvaam派送；    
-9. 韩国：PFC-香港直飞-商业清关-CJ Korea Express派送；
+## Channel Routes:
+
+**United States:** PFC - Direct flight from Hong Kong to LAX/JFK - Commercial customs clearance - Delivery by Lasership/ONTRAC/USPS/PIGGYCARS/UDS.
+
+**France, Sweden, Belgium, Denmark, Netherlands, Luxembourg, Poland, Portugal, Hungary:** PFC - Direct flight from Hong Kong - Postal customs clearance - Delivery by Luxembourg Post.
+
+**Colombia:** PFC - Direct flight from Hong Kong to LAX/JFK - BOG - Commercial customs clearance - Delivery by SkyPostal Colombia.
+
+**Italy:** PFC - Direct flight from Hong Kong - Commercial customs clearance - Delivery by GLS Italy/Poste Italiane/Italy HRP.
+
+**United Kingdom:** PFC - Direct flight from Hong Kong - Commercial customs clearance - Delivery by Hermes/Royal Mail.
+
+**Switzerland:** PFC - Direct flight from Hong Kong - Postal customs clearance - Delivery by ASENDIA.
+
+**Germany:** PFC - Direct flight from Hong Kong - Commercial customs clearance - Delivery by DHL Packet Germany; recipient's address must include a house number.
+
+**Spain:** PFC - Direct flight from Hong Kong - Postal customs clearance - Delivery by CORREOS Spain/CTT Spain/Urvaam Spain.
+
+**South Korea:** PFC - Direct flight from Hong Kong - Commercial customs clearance - Delivery by CJ Korea Express.
+
+## Channel Advantages:
+
+1.  Accepts general goods and items with built-in batteries.
+2.  Stable transit times: Consistently stable throughout the year, high reliability.
+3.  Fast transit times.
+4.  Does not accept goods valued at or above 140 EUR or 140 USD.
+5.  **United Kingdom:** Declared value < 135 GBP (approximately 168 USD).
+
+## Country-Specific Information:
+
+**Turkey:** The recipient's ID number is mandatory.
+
+According to Turkish customs regulations, each person can receive a maximum of 5 parcels from overseas per month. The recipient must be an individual, and the items cannot be for commercial use. It is recommended that parcels contain no more than 4 items.
+
+## Billing Rules:
+
+Charges are rounded up to the nearest gram (G). Minimum chargeable weight is 50G. The shipping cost is based on the greater of the actual weight and the volumetric weight (volumetric weight calculation: Length x Width x Height in cm / 8000 = KG).
+
+**Chile/Colombia:** Minimum 50G. The greater of actual weight and volumetric weight (Length x Width x Height / 5000) will be charged.
+
+## Weight and Size Restrictions:
+
+**Germany, Netherlands, Belgium, Luxembourg, Ireland, Sweden, Norway:** Minimum dimensions: 10x20cm. Other countries minimum dimensions: 10x15cm.
+
+**Poland:** Maximum dimensions and weight: 60x35x40cm and 25KG. Packstation addresses are only accepted in the following 4 cities: Warsaw, Wroclaw, Poznan, Krakow. (Packstation collection points).
+
+**United Kingdom:** Maximum dimensions: 60x46x40CM. Irregularly shaped items are not accepted; a surcharge of 50 RMB will be applied if found. (Note: If a customer sends oversized items, charges will be based on the actual billed amount).
+
+Delivery is available throughout the UK (i.e., mainland UK and its affiliated islands). Delivery is not available to UK overseas territories and offshore islands (e.g., British Indian Ocean Territory, British Virgin Islands, Guernsey, and Jersey).
+
+**Switzerland:** Maximum dimensions: Length + Width + Height ≤ 90cm, longest side ≤ 60cm.
+
+**Israel:** Maximum dimensions: L+H+W ≤ 120cm, longest side ≤ 60cm.
+
+**Colombia:** Minimum dimensions: 10x15cm. Size restrictions: Single side not exceeding 50CM, sum of three sides not exceeding 150CM.
+
+**Mexico:** Minimum dimensions: 10x15cm. Normal dimensions: 60x40x35cm. A surcharge of 150 RMB/piece allows for dimensions up to: 119x49x39cm.
+
+**France:** Minimum dimensions: 10x15cm. Normal dimensions: 60x40x35cm. A surcharge of 150 RMB/piece allows for dimensions up to: L+H+W ≤ 150cm, longest side ≤ 100cm.
+
+**Turkey:** Maximum dimensions: Length + Width + Height < 120cm, Length < 60cm.
+
+**Chile:** Maximum dimensions: L+H+W ≤ 200cm, single side not exceeding 100cm.
+
+**United States:** Size restrictions: 55cm x 40cm x 40cm.
+
+**I. Other Countries:**
+
+- ① **Rectangular items maximum dimensions:** Length + Width + Height ≤ 90CM, single side length ≤ 60CM.
+- ② **Rolled items maximum dimensions:** Twice the diameter plus length ≤ 104CM, single side length ≤ 90CM.
+- ③ **Rectangular items minimum dimensions:** Surface area must not be less than 15x10CM.
+- ④ **Rolled items minimum dimensions:** Twice the diameter plus length ≥ 17CM, single side length ≥ 10CM.
+
+## Declaration and Tax Information:
+
+**I. General Terms:**
+
+- ① The item description and declared value must be truthful. This quotation does not include destination customs duties, customs fines, storage fees, or other related costs incurred due to recipient responsibility.
+- ② Any related costs and legal liabilities arising from incorrect declarations shall be borne by the sender.
+- ③ Consequences arising from intentional undervaluation by the sender (e.g., customs seizure, fines) shall be borne by the sender.
 
 
-## 渠道优势：	
-1. 可接普货和内置电池；    
-2. 时效稳定：常年时效稳定，保障性高。    
-3. 时效快速。    
-4. 不接受等于和大于140欧元或140美金的货物       
-5. 英国：申报价值<135英镑（约168美金） 
+**United Kingdom:** Declared value less than 135 GBP (approximately 168 USD). Relevant taxes are either paid by the platform or declared and paid by the seller to HMRC UK. Our company will no longer collect taxes in advance. Specifically, sellers (platform sellers or direct sellers) are responsible for declaring taxes to HMRC UK. If customs clearance issues arise due to problems with the seller's VAT/EORI, the seller shall bear the responsibility.
 
-## 国家说明：	
+**Mexico:** Commercial customs clearance. The customs duty threshold is 50 USD.
 
-土耳其国家，收件人身份证ID为必填项。
-根据土耳其海关相关条例规定，每人每月最多从海外收到5件包裹。收件单位必须是个人，不能用作商业用途，建议包裹内物品不要超过4件。
+For single parcels with a declared value less than 50 USD, there is no VAT or customs duty. If the value is 50 USD or more, VAT will be charged at 20% of the declared value, and this tax will be collected from the sender.
+
+Parcels with a single item value exceeding 1000 USD are temporarily not accepted. Item descriptions and declared values must be truthful; individual customs declarations by customers are not accepted. Each parcel should not contain more than 5 units of the same product. If the cumulative declared value of parcels to the same recipient name and address on the same day is 50 USD or more, customs duties will be incurred.
 
 
-## 计费规则：	
-以G为单位进位。最低50G计费；包裹实际重量和体积重量相比，取较大者计算（体积重量计算方式为:长*宽*高cm：8000=KG)；
+**Colombia:** Customs duty threshold is 0 USD. This product supports DDP mode. For single parcels with a value <= 200 USD, our company will charge 10% customs duty + 19% VAT on the declared value, plus a 2% handling fee on the declared value for tax prepayment. Item descriptions and declared values must be truthful; individual customs declarations by customers are not accepted. Each parcel should not contain more than 5 product units. Computers and mobile phones (including unbranded ones) are not accepted; if found by customs, they will be confiscated directly, and there is no compensation from the channel for customs confiscation.
 
-智利/哥伦比亚：50G起重，实重与材积重取大者， 长*宽*高/5000
+**United States:** Declared value < 800 USD. Parcels to the same recipient name and address with a cumulative declared value exceeding 800 USD on the same day are not accepted.
 
+**Switzerland:** DDU service. Item descriptions and declared values must be truthful. Any VAT or customs duties incurred are to be paid by the recipient.
 
-## 重量及尺寸限制：	
-1、德国、荷兰、比利时、卢森堡、爱尔兰、瑞典、挪威最小尺寸：10*20cm,其他国家最小尺寸：10*15cm     
-2、波兰:最大尺寸与重量限制：60×35×40cm和25KG,只有以下4个城市可以接受packstation地址：Warsaw, Wroclaw, Poznan, Krakow     Packstation代收点     
-3 、英国 最大尺寸要求：60x46x40CM 不接受异形件，如发现异形件将加收50RMB的附加费,（注：若客户发超尺寸件，按账单实报实销）  
-英国全境通邮(即英国本土及其境内的附属岛屿通邮)，英国的海外领地和离岸岛屿不通邮(如英属印度洋领地、英属维尔京群岛、根西岛和泽西岛等)。     
-4 、瑞士: 最大尺寸要求：长+宽+高≤90cm，最长边≤60cm；     
-    以色列最大尺寸限制： L+H+W≤120cm，最长边≤60cm     
-    哥伦比亚 最小尺寸：10*15cm ，尺寸限制要求：单边不超50CM，三边不超150CM     
-    墨西哥 最小尺寸：10*15cm ，正常尺寸：60*40*35cm， 加收150RMB/件可发尺寸：119*49*39cm     
-    法国最小尺寸：10*15cm ，正常尺寸：60*40*35cm ，加收150RMB/件可发尺寸：L+H+W≤150cm，最长边≤100cm     
-   土耳其最大尺寸限制：长+宽+高＜120cm，长＜60cm     
-    智利最大尺寸限制：L+H+W≤200cm，单边不超过100cm     
+**Israel:** Does not accept goods with a declared value exceeding 75 USD or single shipments with more than 5 declared items.
 
-    美国尺寸限制：55cm*40cm*40cm
+Misdeclaration is strictly prohibited; any costs arising from misdeclaration will be borne by the customer. Due to Israeli customs regulatory policies, there is a very high inspection rate for imported goods that are wireless signal devices and auto parts, requiring the recipient to provide relevant licenses for release. Parcels not released within 3 days of arrival at the destination will begin to incur storage fees.
 
-一、其余国家
-①方形货物最大尺寸要求：长+宽+高≤90CM，单边长度≤60CM；
-②卷轴状货物最大尺寸要求：直径的两倍加上长度之和≤104CM，单边长度≤90CM；
-③方形货物最小尺寸要求：表面尺码不得小于15*10CM；
-④卷轴状货物最小尺寸要求：直径的两倍加上长度之和≥17CM，单边长度≥10CM；
+Pay attention to these categories and prepare relevant licenses in advance for inspection. If no certificate is available, it is advisable not to ship, to avoid customs clearance issues at the destination. Prohibited imports: exhaust pipes (tail pipe), remote keys, winches, laser products, drones.
 
 
- 申报及税费说明：	一、通用条款：
-①货件品名和申报价值需如实申报，此报价不含目的地海关的关税、海关罚款、仓储费以及收件人责任所引起的相关费用；
-②如因申报不符等原因导致的相关费用以及法律责任，由发件人自行承担；
-③如因发件人蓄意低报所产生的后果（eg.海关扣件：罚款等）由发件人自行承担；
-    
-1、 英国：申报价值小于135英镑（约168美金）；相关税费由平台代缴或卖家自主向英国HMRC申报缴纳，我司不再提前征收税金。特别地，卖家（平台卖家或直接卖家）均负有向英国HMRC申报税务的责任。如因卖家的VAT：EORI出现问题导致清关异常，需由卖家自行承担。     
-2、墨西哥：商业清关，关税起征点50USD。
-    单个包裹申报价值小于50USD ，无VAT和关税；如大于或等于50USD ，将会按申报价值的20%收取VAT， 税费向寄件人收取。
-    暂时不接受单个金额大于1000USD的包裹。货件品名和申报价值请如实申报，不接受客户单独报关。每个包裹同个产品件数不超过5件；同一收件人名，同一收件地址，当天累计包裹申报价值大于等于50美金会产生关税；     
-3、 哥伦比亚：关税起征点0USD，该产品及支持DDP模式，单个包裹金额<=200USD，我司将按照申报价值收取10%关税+19%增值税，另按申报价值的2%收取代缴手续费。货件品名和申报价值请如实申报，不接受客户单独报关。  每个包裹产品件数不超过5个；不接 电脑、手机 ，无牌手机也不可以，海关查验到会直接没收，海关没收，渠道无赔偿；     
-4、美国：申报价值<800美金；不接受同一个收件人名且同一地址，当天累计包裹申报价值超过800美金     
-5 、瑞士：DDU服务，货件品名和申报价值需如实申报，产生的增值税或关税由收件人支付    
-6 、  以色列：不接受申报价值超过75美元和单票申报数量超过5个的货物。
-严禁瞒报，因瞒报产生的费用由客户承担。由于以色列当地海关监管政策的要求，对于进口货物是无线信号类和汽车配件类的查验率非常高，且要求收件人提供相关许可证才可放行，货物到达目的地内3天未放行的包裹海关将开始计算仓租。
-注意这些品类，提前准备好相关许可证以备查验所需，如无证书，建议不要发运，以免货物在目的地无法清关，禁止进口货物：排气管（tail pipe），远程遥控器（remote key），绞车（winch），激光产品（laser products），无人机（drones）         
-7 、挪威：DDP服务，不接受申报价值超过30USD的产品     
-8、  智利：DDP服务，30USD以内免税，大于等于30USD我司将按照申报价值的32%收取税费，另按申报价值2%收取手续费。货件品名和申报价值需如实申报，不接受模糊品名申报，同一个收件人名且同一地址，当天累计包裹申报价值超过30美金（瞒报/低报被查）产生的多余税金我司将按实际产生找寄件人加收；必须提供收件人的税号、电话号码；
-接智利末端海关通知， 所有包裹入境必须申报收件人增值税号，如果没有税号会导致清关扣件，我司将于从2021/5/28号开始对系统税号字段做强制填写校验。
+**Norway:** DDP service. Does not accept products with a declared value exceeding 30 USD.
 
+**Chile:** DDP service. Tax-free for values up to 30 USD. For values of 30 USD or more, our company will charge 32% tax on the declared value, plus a 2% handling fee on the declared value. Item descriptions and declared values must be truthful; vague item descriptions are not accepted. If the cumulative declared value of parcels to the same recipient name and address on the same day exceeds 30 USD (and misdeclaration/undervaluation is detected), any additional taxes incurred will be charged back to the sender based on the actual amount. The recipient's tax ID and phone number must be provided.
 
-### 退件及重派：	
-1.本渠道不提供从国外退回国内的服务；     
-2.其他国家可提供二次重派服务，标准如下：     
-如果包裹被退回海外仓库，可重派至原包裹收件地址国境内，包裹若因收件人不在家：拒收、地址错误或地址不完整等原因，造成退回。重出费用参考如下，详细请咨询客服，以通知为准。     
-瑞士：斯洛文尼亚：不提供海外退件重派服务，因地址问题、收件人不在家等原因派送失败的包裹，默认为弃件，不提供赔偿服务     
-英国，日本：重派费按40RMB/票，重派期限为14天。     
-墨西哥：重派期限为15天，即自通知客户包裹退回起，15天内客户可选择重派；若超过15天无回复，包裹默认被销毁。重派费用为25RMB/票     
-    美国：无退件服务；无重派服务，退回默认销毁；     
-    马耳他/塞浦路斯/克罗地亚：不提供海外退件重派服务，因地址问题、收件人不在家等原因派送失败的包裹，默认为弃件，不提供赔偿服务     
-其他国家：重派期限为14天，即自通知客户包裹退回日起，14天内客户可选择重派；若超过14天无回复，包裹默认被销毁。 
-    赔偿条款：	
-美国：部分遗失，延误或者破损均不赔偿；货物丢失赔偿方法：如客户未购买保险，我司按以下方法赔偿：
+As per Chilean customs notification, all incoming parcels must declare the recipient's VAT number. Lack of a tax ID will lead to customs detention. Our company will enforce mandatory filling of the tax ID field in the system starting from 2021/05/28.
 
-      A：挂号全部遗失赔偿标准：不免运费和挂号费，赔偿申报价值，最高不超过40USD；
-      B：显示签收，但客户反馈没有收到包裹的情况，我司会协助查询，但不提供赔偿。"     
-瑞士：服务商官网有轨迹则默认为包裹是已上网状态,若货物未上网，则赔偿标准为退运费+申报价值最高不超过400RMB/票,若货物已上网，则不予以赔偿；     
-"墨西哥：①若货物在我司至到达服务商的这期间丢失，经我司确认丢件后，退运费(全部运费，包含挂号费)；另外再按申报价值赔偿，最高不超过300RMB/票赔偿；
-             ②若货物在到达服务商后丢失，经我司确认丢件后，将不退运费（全部运费，包含挂号费），按申报价值赔偿，最高不超过300RMB/票赔偿"     
-"其他国家
-服务商官网有轨迹则默认为包裹是已上网状态
-①若货物未上网，经我司确认丢件后，退运费(全部运费，包含挂号费)+申报价值赔偿，最高不超过400RMB/票；
-②若货物已上网，海外未回复，则不予以赔偿；若经我司与海外确认丢件后，将不退运费(全部运费，包含挂号费)，仅按申报价值赔偿，最高不超过400RMB/票，低申报海关扣件、发运违规违禁品等不赔偿。
-索赔资料要求：
- A. 服务商确认丢件的，需在提出申请后30天内提供索赔所需资料：
-①平台的网上退款截图
-②若在未退款情况下安排的货物补寄，需提交网上交易截图+争议内容+补寄单号
-B. 包裹在我司中转过程中丢失，经我司确认丢件的:不需要提供证明资料
-所有问题件要接受先开查后赔偿的原则，需按渠道要求提供相关资料
-服务商官网显示签收，但客户说没有收到包裹的情况，我司会协助查询，但不提供赔偿。" 
-     特别提示：	客户一旦同意接受我公司服务，即默认客户已详细阅读过此价格表备注内容以及我司托运条款，并接受各条款的约束。
+### Returns and Redelivery:
+
+1.  This channel does not provide return service from foreign countries back to the origin country.
+2.  Secondary redelivery service is available for other countries, with the following standards:
+
+If a parcel is returned to an overseas warehouse, it can be redelivered within the original recipient's country. If a parcel is returned due to reasons such as the recipient not being home, refusal, incorrect address, or incomplete address, redelivery fees are as follows (please consult customer service for details, subject to notification):
+
+**Switzerland, Slovenia:** Overseas return and redelivery services are not provided. Parcels that fail delivery due to address issues, recipient not at home, etc., will be considered abandoned by default, and no compensation service will be provided.
+
+**United Kingdom, Japan:** Redelivery fee is 40 RMB/shipment. The redelivery period is 14 days.
+
+**Mexico:** Redelivery period is 15 days, meaning the customer can opt for redelivery within 15 days from notification of the parcel's return. If there is no response after 15 days, the parcel will be destroyed by default. The redelivery fee is 25 RMB/shipment.
+
+**United States:** No return service; no redelivery service. Returned items are destroyed by default.
+
+**Malta/Cyprus/Croatia:** Overseas return and redelivery services are not provided. Parcels that fail delivery due to address issues, recipient not at home, etc., will be considered abandoned by default, and no compensation service will be provided.
+
+**Other countries:** Redelivery period is 14 days, meaning the customer can opt for redelivery within 14 days from notification of the parcel's return. If there is no response after 14 days, the parcel will be destroyed by default.
+
+### Compensation Terms:
+
+**United States:** No compensation for partial loss, delay, or damage. For lost goods, if the customer has not purchased insurance, our company will compensate as follows:
+
+A: For fully lost registered mail: Shipping and registration fees are not refunded. Compensation is based on the declared value, up to a maximum of 40 USD.
+
+B: If the tracking shows "delivered" but the customer claims not to have received the parcel, our company will assist with inquiries but will not provide compensation.
+
+**Switzerland:** If the service provider's official website shows tracking information, the parcel is considered to be "online" (in transit). If the goods are not online, the compensation standard is a refund of the shipping fee + declared value, up to a maximum of 400 RMB/shipment. If the goods are online, no compensation will be given.
+
+**Mexico:**
+- ① If the goods are lost between our company and the service provider, and the loss is confirmed by our company, the shipping fee (entire shipping fee, including registration fee) will be refunded. Additionally, compensation will be based on the declared value, up to a maximum of 300 RMB/shipment.
+- ② If the goods are lost after reaching the service provider, and the loss is confirmed by our company, the shipping fee (entire shipping fee, including registration fee) will not be refunded. Compensation will be based on the declared value, up to a maximum of 300 RMB/shipment.
+
+**Other Countries:**
+
+If the service provider's official website shows tracking information, the parcel is considered to be "online" (in transit).
+
+- ① If the goods are not online and the loss is confirmed by our company, the shipping fee (entire shipping fee, including registration fee) + declared value will be compensated, up to a maximum of 400 RMB/shipment.
+
+- ② If the goods are online but there is no response from overseas, no compensation will be given. If the loss is confirmed by our company in conjunction with overseas partners, the shipping fee (entire shipping fee, including registration fee) will not be refunded. Compensation will only be based on the declared value, up to a maximum of 400 RMB/shipment. No compensation for customs detention due to low declaration, shipment of prohibited items, etc.
+
+**Claim Material Requirements:**
+A. For items confirmed lost by the service provider, the following claim materials must be provided within 30 days of submitting the application:
+
+- ① Screenshot of the online refund from the platform.
+- ② If a replacement shipment was arranged without a refund, provide a screenshot of the online transaction + dispute details + replacement tracking number.
+
+B. For parcels lost during transit within our company's network, and confirmed lost by our company: no supporting documentation is required.
+
+All problematic shipments are subject to the principle of "investigation before compensation." Relevant materials must be provided as per channel requirements.
+If the service provider's official website shows "delivered" but the customer claims not to have received the parcel, our company will assist with inquiries but will not provide compensation.
+
+**Special Notice:** Once the customer agrees to accept our company's services, it is implicitly understood that the customer has read in detail the remarks in this price list and our company's shipping terms, and accepts to be bound by all terms.
 
