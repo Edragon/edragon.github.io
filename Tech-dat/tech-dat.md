@@ -11,6 +11,8 @@
 
 - [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]]
 
+- [[network-dat]] 
+
 ## SDK
 
 - [[arduino-IDE-DAT]] - [[ESP-SDK-dat]] - [[stm32-dat]]
@@ -32,21 +34,6 @@
 - [[CPLD-dat]] - [[FPGA-dat]]
 
 
-### Network
-
-- [[network-dat]] 
-
-- [[M2M-dat]] - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
-
-- [[bluetooth-dat]]
-
-- [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[AGPS-dat]]
-
-- [[RC-dat]] - [[RF-DAT]] - [[ELRS-dat]] - [[CRSF-dat]] - [[GFSK-dat]] - [[ardupilot-dat]] - [[SBUS-dat]]
-
-- [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
-
-- long distance = [[lora-dat]] - [[lorawan-dat]]
 
 ### Interactive
 
