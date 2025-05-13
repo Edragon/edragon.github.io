@@ -123,7 +123,7 @@ GPIO15, ROW_E pin, can be set to ground
 - https://w.electrodragon.com/w/RPI_RMP_Guide
 - https://w.electrodragon.com/w/RPI_RMP_HDK
 
-- [[ds1307-dat]] - [[hub75-dat]]
+- [[ds1307-dat]] - [[hub75-dat]] - [[EEPROM-dat]]
 
 - backup demo code - https://github.com/btc520/RPI-MPC1073
 
