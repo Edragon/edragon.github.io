@@ -1,9 +1,13 @@
 
-# NGS1131 DAT 
+# NGS1131-DAT 
 
 - [[A7670-DAT]]
 
 - [A7670 LTE CAT-1 GSM Mini Module](https://www.electrodragon.com/product/a7670-lte-cat-1-gsm-mini-module/?attribute_pa_simcom=a7670c)
+
+- [[NGS1131-dat]] == A7670C
+- [[NGS1132-dat]] == A7670SA
+
 
 
 ## Hardware
