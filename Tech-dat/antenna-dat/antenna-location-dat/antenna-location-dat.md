@@ -4,9 +4,10 @@
 - 1575.42Mhz
 
 GPS 
-- [[NAN1001-dat]] 
 
+- [[NAN1001-dat]] - [[NAN1019-dat]]  == both are active GPS antenna 
 
+antenna connector - [[IPEX-dat]]
 
 
 ## tuning 
