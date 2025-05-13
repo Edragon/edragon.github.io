@@ -27,6 +27,9 @@ FAIL, COM:348, FlashToolError:1011, S_COM_PORT_OPEN_FAIL
 
 - some [[serial-dat]] chips are not fully supported error, probably, try another [[serial-dat]] board with a different chip 
 
+
+
+
 ## ref 
 
 - [[quectel-dat]] - [[NGS1063-SDK-dat]]
