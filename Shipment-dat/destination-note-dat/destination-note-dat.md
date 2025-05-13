@@ -28,21 +28,21 @@
 | Sweden         | 06-02  | [[Europe]]          | [[EUEX-V-dat]]                   |                                    |                |                                                       |
 | Austria        |        | [[Europe]]          | [[EUEX-V-dat]]                   |                                    |                |                                                       |
 | Solvenia       |        | [[Europe]]          | [[EUEX-V-dat]]                   |                                    |                |                                                       |
-| Romania        | 10-18  | [[Europe]]          | [[EURPOST-dat]]                  |                                    |                |                                                       |
-| Bulgaria       | 06-07  | [[Europe]]          | [[EURPOST-dat]]                  |                                    |                |                                                       |
-| Latvia         | 06-02  | [[Europe]]          | [[EURPOST-dat]]                  |                                    |                |                                                       |
-| Malta          |        | [[Europe]]          | [[EURPOST-dat]]                  | -                                  | -              |                                                       |
-| Cyprus         |        | [[Europe]]          | [[EURPOST-dat]]                  |                                    |                |                                                       |
-| Finland        |        | [[Europe]]          | [[EURPOST-dat]]                  | [[SZFED-PAK]] / [[szfedex-ip]]     | -              |                                                       |
-| Greece         |        | [[Europe]]          | [[EURPOST-dat]]                  | [[SZFED-PAK]]                      |                |                                                       |
-| Norway         | 06-20  | [[Europe]]          | [[EURPOST-dat]]                  |                                    |                |                                                       |
-| Mexico         |        | [[America-South]]   | [[EURPOST-dat]] << [[MXEXPRESS]] |                                    |                |                                                       |
-| South Africa   | X      | [[Africa]]          | [[EURPOST-dat]] << [[ZAEXPRESS]] |                                    | tax_id needed! |                                                       |
-| Switzerland    | 06-15  | [[Europe]]          | [[EURPOST-dat]] ~~[[SWRPOST]]~~  |                                    |                |                                                       |
+| Romania        | 10-18  | [[Europe]]          | [[EURPOST-cn-dat]]                  |                                    |                |                                                       |
+| Bulgaria       | 06-07  | [[Europe]]          | [[EURPOST-cn-dat]]                  |                                    |                |                                                       |
+| Latvia         | 06-02  | [[Europe]]          | [[EURPOST-cn-dat]]                  |                                    |                |                                                       |
+| Malta          |        | [[Europe]]          | [[EURPOST-cn-dat]]                  | -                                  | -              |                                                       |
+| Cyprus         |        | [[Europe]]          | [[EURPOST-cn-dat]]                  |                                    |                |                                                       |
+| Finland        |        | [[Europe]]          | [[EURPOST-cn-dat]]                  | [[SZFED-PAK]] / [[szfedex-ip]]     | -              |                                                       |
+| Greece         |        | [[Europe]]          | [[EURPOST-cn-dat]]                  | [[SZFED-PAK]]                      |                |                                                       |
+| Norway         | 06-20  | [[Europe]]          | [[EURPOST-cn-dat]]                  |                                    |                |                                                       |
+| Mexico         |        | [[America-South]]   | [[EURPOST-cn-dat]] << [[MXEXPRESS]] |                                    |                |                                                       |
+| South Africa   | X      | [[Africa]]          | [[EURPOST-cn-dat]] << [[ZAEXPRESS]] |                                    | tax_id needed! |                                                       |
+| Switzerland    | 06-15  | [[Europe]]          | [[EURPOST-cn-dat]] ~~[[SWRPOST]]~~  |                                    |                |                                                       |
 | Malaysia       | 06-15  | [[asia]]            | [[MYEXPRESS-BA]]                 |                                    |                |                                                       |
 | Costa Rica     | 06-09  | [[America-Central]] | [[NLRPOST]]                      | [[SZFED-PAK]]                      |                |                                                       |
 | Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                      | [[szfedex-ip]]                     |                |                                                       |
-| Korea          | 06-30  | [[asia]]            | [[EURPOST-dat]] / [[PFCEXPRESS]] | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   | tax_id needed! |                                                       |
+| Korea          | 06-30  | [[asia]]            | [[EURPOST-cn-dat]] / [[PFCEXPRESS]] | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   | tax_id needed! |                                                       |
 | Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]                   | ~~[[SZFED-PAK]] / [[HKDHLX-old]]~~ | tax_id needed! |                                                       |
 | United States  |        | [[America-North]]   | [[USPS-DAT]]                     | [[szfedex-ip]] / [[HKUPS]]         |                |                                                       |
 | Vietam         |        | [[asia]]            | [[VNEXPRESS]]                    |                                    | -              |                                                       |
@@ -83,7 +83,7 @@
 |                |        |                  |         |             |                         |                                                            |
 |                |        |                  |         |             |                         |                                                            |
 |                |        |                  |         |             |                         |                                                            |
-| Romania        | 10/18  | [[EURPOST-dat]]  |         | expendiated |                         |                                                            |
+| Romania        | 10/18  | [[EURPOST-cn-dat]]  |         | expendiated |                         |                                                            |
 | Belgium        | 09/06  | SZFEDEX-IP       |         | express     |                         |                                                            |
 | Hungray        | 09/06  | SZFEDEX-IP       |         | express     |                         |                                                            |
 | Chile          | 09/06  | HKDHLX           | tax_id  | express     |                         |                                                            |
@@ -128,7 +128,7 @@
 | Switzerland | 06-15  | SZEUB-BA |         | Post     | Advanced: SZEUB-BA-4 |                                                         |
 |             |        |          |         |          |                      |                                                         |
 
-- [[EUEX-V-dat]] - [[EURPOST-dat]] - [[CAEXPRESS]] - [[USPS-DAT]] - [[DHL]]
+- [[EUEX-V-dat]] - [[EURPOST-cn-dat]] - [[CAEXPRESS]] - [[USPS-DAT]] - [[DHL]]
 
 prepaid [[VAT]] tax
 
