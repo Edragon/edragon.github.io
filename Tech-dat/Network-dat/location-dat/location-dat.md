@@ -13,8 +13,9 @@
 
 - [[u-blox-dat]] - [[NEO-7-dat]]
 
-- [[quectel-dat]] - [[quectel-gps-dat]]
+- [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]]
 
+- [[simcom-dat]]
 
 ## Common Locating Issues 
 

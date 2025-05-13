@@ -1,8 +1,9 @@
 
 # network-dat.md
 
-- [[nfid-dat]] - [[NBIOT-dat]]
+- [[RFID-dat]] 
 
+- [[NBIOT-dat]] - [[M2M-dat]] - [[LTE-dat]]
 
 ## RC apps protocols 
 
@@ -20,8 +21,20 @@ and more - [[IBUS-dat]] - [[PPM-dat]] - [[FPort-dat]] - [[SPEKTRUM-dat]] - [[SUM
 - [[ardupilot-dat]]
 
 
-## boards 
+## RF boards 
 
 - [[DVA1002-dat]] - [[DVA1007-dat]]
 
 - [[NRF24L01-dat]] - [[NWL1032-dat]]
+
+
+## M2M Boards 
+
+- [[NGS1131-dat]] - [[NGS1132-dat]] - [[NGS1140-dat]]
+
+- [[NGS1063-dat]]
+
+
+## Location 
+
+[[location-dat]] - [[NGS1089-dat]]
