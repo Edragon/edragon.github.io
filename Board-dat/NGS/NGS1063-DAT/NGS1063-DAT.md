@@ -1,7 +1,9 @@
 
 # NGS1063 DAT
 
-https://www.electrodragon.com/product/ed20-tracker-board-gsm-gprs-gnss-iot/
+[ed20-tracker-board-gsm-gprs-gnss-iot](https://www.electrodragon.com/product/ed20-tracker-board-gsm-gprs-gnss-iot/)
+
+
 
 legacy wiki info 
 
@@ -32,7 +34,7 @@ Board LEDS
 - Power LED
 - 1PPS LED 
 
-Booting by Button, baudrate 115200, 
+Booting by Button, baudrate 115200 or 9600, it is dynamic
 
 Boot output without custom firmware, and SIM installed 
 
@@ -50,7 +52,7 @@ Test commands
 - Board hardware customize, please contact us if you have any need.
 - Support custom module label for buck order 20pcs
 
-## SDK List 
+## custom SDK List 
 
 ![](2023-12-11-19-02-13.png)
 
@@ -78,3 +80,5 @@ Test commands
 - [[NGS1063-SDK-DAT]]
 
 - [[NGS1063]] - [[NGS1063-fab]]
+
+- [[network-dat]] - [[location-dat]]
