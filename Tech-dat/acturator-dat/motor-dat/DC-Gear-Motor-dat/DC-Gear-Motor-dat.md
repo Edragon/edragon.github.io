@@ -2,6 +2,22 @@
 # DC-Gear-Motor-dat
 
 
+# reduction-gear-motor-dat
+
+
+- [[N20-motor-dat]] - [[MG513-dat]]
+
+- [[torque-dat]]
+
+- [[encoder-dat]]
+
+
+## Apps and Specs Selection 
+
+![](2025-03-28-15-51-20.png)
+
+## Definitions 
+
 ⚙️ A DC motor that has a gearbox (gear reduction unit) attached to it — usually on the output shaft.
 
 
@@ -37,3 +53,5 @@ If your 895 motor lacks torque even with a gearbox, consider:
 ## ref 
 
 - [[motor-dat]]
+
+- [[DC-Gear-Motor]] - [[motor]]

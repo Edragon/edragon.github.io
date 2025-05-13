@@ -7,18 +7,23 @@
 
 ## motor type 
 
+brushed
+
 - [[dc-motor-dat]] == Permanent Magnet Brushed DC Motor
 
-- [[reduction-gear-motor-dat]]
+- [[DC-gear-motor-dat]] - [[reduction-gear-motor-dat]]
 
-- [[vibrator-dat]]
+- [[coreless-motor-dat]] 
+  
+brushless
+
+- [[BLDC-motor-dat]]
 
 - [[stepper-dat]] - [[servo-dat]]
 
 - [[Drum-brake-motor-dat]]
 
-- [[coreless-motor-dat]] - [[BLDC-motor-dat]]
-
+- [[vibrator-dat]]
 
 | Type                           | Brushed / Brushless | Key Traits                                     | Application                              |
 | ------------------------------ | ------------------- | ---------------------------------------------- | ---------------------------------------- |

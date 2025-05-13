@@ -15,8 +15,16 @@ https://ardupilot.org/rover/index.html
 
 
 
+## 3D printed 
+
+- [FPV-Rover V2.0 (RC Tank)](https://www.thingiverse.com/thing:2952852) - [youtube](https://www.youtube.com/watch?v=dpUSdjNppN0) - https://www.instructables.com/FPV-Rover-V20/ - 
 
 
 ## board 
 
 - [[SDR1064-dat]] 
+
+
+## ref 
+
+- [[rc-car]]
