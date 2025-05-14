@@ -43,7 +43,7 @@ RS232 to RS485 module  - [[DPR1080-dat]]
 
 [[RS422-dat]] breakout 
 
-- [[DPR1097-dat]]
+- [[DPR1097-dat]] - [[DPR1098-dat]]
 
 [[Serial-dat]] breakout 
 
