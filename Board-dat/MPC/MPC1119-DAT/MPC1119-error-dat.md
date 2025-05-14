@@ -41,4 +41,4 @@ The fixed board will be called "MPC1119-3 (202504)" as marked on the **top right
 
 [Problem analyzer can also see here.](https://rpi-rgb-led-matrix.discourse.group/t/new-electrodragon-board-version-with-e-line-problem/1062)
 
-- [[MPC1119-dat]]
+- [[MPC1119-dat]] - [[MPC1119]]

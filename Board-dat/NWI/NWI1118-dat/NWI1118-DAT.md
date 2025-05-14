@@ -9,14 +9,14 @@
 
 #### R6 
 
-| pin-left | function   | pin-right | function    |
-| -------- | ---------- | --------- | ----------- |
-| IO15     | -          | ADC       | Analog Read |
-| IO16     | status LED | RST       | Reboot      |
-| RXD      |            | IO14      |             |
-| TXD      |            | IO05      | pull-up     |
-| +5V      |            | IO04      | pull-up     |
-| GND      |            | 3V3       |             |
+| pin-left | function   | pin-right | function                                          |
+| -------- | ---------- | --------- | ------------------------------------------------- |
+| IO15     | -          | ADC       | Analog Read, read more at [[voltage-divider-dat]] |
+| IO16     | status LED | RST       | Reboot                                            |
+| RXD      |            | IO14      |                                                   |
+| TXD      |            | IO05      | pull-up                                           |
+| +5V      |            | IO04      | pull-up                                           |
+| GND      |            | 3V3       |                                                   |
 
 
 - IO13 = relay 1
