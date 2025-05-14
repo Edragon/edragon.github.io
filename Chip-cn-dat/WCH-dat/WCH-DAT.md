@@ -43,6 +43,10 @@
 
 ## repository 
 
+- https://bitbucket.org/e_dragon/ch563
+- https://bitbucket.org/e_dragon/wch_ch37x
+
+
 
 ## ref 
 

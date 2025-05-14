@@ -18,7 +18,9 @@
 * N76E616 0 C51 with LCD Driver
 
 NUC029 
+
 http://www.nuvoton.com.cn/products/microcontrollers/arm-cortex-m0-mcus/nuc029-series/
+
 * NUC029SEE芯片（LQFP64)
 * NUC029SDE
 * NUC029LAN 芯片(LQFP48)
@@ -36,13 +38,13 @@ http://www.nuvoton.com.cn/products/microcontrollers/arm-cortex-m0-mcus/nuc029-se
 
 
 Linux
-* NUC972DF62
+* NUC972DF62 - [[NUC972-dat]]
 
 NUC980 - ARM9
 * NUC980DK61YC
 * NUC980DF71YC 芯片 (LQFP216)
 
-## APP 
+## APP / Programmer 
 - [[nulink-dat]]
 
 
