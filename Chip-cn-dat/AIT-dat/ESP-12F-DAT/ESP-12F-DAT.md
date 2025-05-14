@@ -16,8 +16,8 @@
 
 ## ref 
 
-- legacy chip wiki page here - https://w.electrodragon.com/w/Category:ESP8266
-- legacy module page - https://w.electrodragon.com/w/ESP-12F_ESP8266_Wifi_Board
+- [legacy chip wiki page here](https://w.electrodragon.com/w/Category:ESP8266) 
+- [legacy module page ](https://w.electrodragon.com/w/ESP-12F_ESP8266_Wifi_Board)
 
 
 
@@ -25,11 +25,10 @@
 
 ![](07-54-23-22-03-2023.png)
 
-![](2023-11-28-17-17-46.png)
 
 ## Pin Definitions 
 
-| left | --                         | right | --                 | func        |
+| left | boot mode                  | right | boot mode          | func        |
 | ---- | -------------------------- | ----- | ------------------ | ----------- |
 | RST  | external pull-up, with cap | TXD   |                    |             |
 | ADC  |                            | RXD   |                    |             |
