@@ -35,7 +35,7 @@ Connect USB-TTL bridge for example [[PL2303-dat]] or more options from [[serial-
 
 ## Demo Code and Video
 
-
+- [#RS422 loop testing and wiring at 3.3V board](https://t.me/electrodragon3/370)
 
 ## old versions 
 
