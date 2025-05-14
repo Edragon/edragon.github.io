@@ -3,7 +3,7 @@
 
 ## tech 
 
-- [[GNSS-dat]] - [[GPS-dat]] - [[AGPS-dat]]
+- [[GNSS-dat]] - [[GPS-dat]] - [[AGPS-dat]] - [[NEMA-dat]]
 
 - [[amplifier-dat]]
 

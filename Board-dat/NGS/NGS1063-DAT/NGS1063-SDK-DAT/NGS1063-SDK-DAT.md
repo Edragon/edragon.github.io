@@ -1,9 +1,10 @@
 # NGS1063-SDK-DAT
 
-- [[quectel-SDK-dat]]
+- [[quectel-SDK-dat]] - upload ED20_APP.cfg firmware in repo 
 
 
 ## Client Side 
+
 
 - [[NGS1063-dat]] side 
 
