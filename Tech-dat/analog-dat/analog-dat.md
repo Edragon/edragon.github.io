@@ -3,6 +3,7 @@
 
 - [[digital-dat]] - [[digitizes-dat]]
 
+- [[analog-dat]]
 
 ## analog video other digital ethernet 
 

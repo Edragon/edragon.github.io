@@ -70,7 +70,7 @@ Normal Post, worldwide delivery
 
 ## ref 
 
-- [[shipment-by-country]] - [[shipment-by-continent]]
+- [[shipment-by-country]] - [[shipment-by-continent]] - [[express-pick-up-dat]]
 
 
 - [[remote-address-dat]] - [[hs-code-dat]]
