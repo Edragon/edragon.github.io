@@ -32,3 +32,13 @@ Colombia: Minimum dimensions: 10x15cm. Size restrictions: Single side not exceed
 Declaration and Tax Information:
 
 Colombia: Customs duty threshold is 0 USD. This product supports DDP mode. For single parcels with a value <= 200 USD, our company will charge 10% customs duty + 19% VAT on the declared value, plus a 2% handling fee on the declared value for tax prepayment. Item descriptions and declared values must be truthful; individual customs declarations by customers are not accepted. Each parcel should not contain more than 5 product units. Computers and mobile phones (including unbranded ones) are not accepted; if found by customs, they will be confiscated directly, and there is no compensation from the channel for customs confiscation.
+
+
+## tools 
+
+zipcode finder: 
+
+https://visor.codigopostal.gov.co/472/visor/
+
+
+- [[colombia]] - [[countries]]
