@@ -16,7 +16,10 @@ Vout = Vin * (R2 / (R1 + R2))
     0.952V = 5V * (51K / (51K + 12K) )
     0.571V = 3V * (51K / (51K + 12K) )
 
+Vin == Vout * (R1 + R2) / R2
 
+    == 1V * (220K + 100K) / 100K
+    == 3.2V
 
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. The formula for calculating the output voltage is based on Ohms Law and is shown below.
 
@@ -28,6 +31,14 @@ where:
 - R1 is the resistance of the 1st resistor, measured in Ohms (Ω).
 - R2 is the resistance of the 2nd resistor, measured in Ohms (Ω).
 - Vout is the output voltage, measured in volts (V),
+
+## [[NWI1118-dat]] on board ADC voltage ladder 
+
+cut off SJ3 first to use the ADC ladder. 
+
+![](2025-05-14-18-12-31.png)
+
+- [[ESP8266-dat]]
 
 ## ref 
 
