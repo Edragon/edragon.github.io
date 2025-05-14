@@ -38,6 +38,7 @@ cut off SJ3 first to use the ADC ladder.
 
 ![](2025-05-14-18-12-31.png)
 
+- [[ESP8266-dat]]
 
 ## ref 
 
