@@ -167,7 +167,16 @@ The embedded bootloader mode is used to reprogram the Flash memory using one of 
 * USB OTG FS (PA11/12) in Device mode (DFU: device firmware upgrade).
 
 
+## repro 
 
+- https://bitbucket.org/e_dragon/stm32_drive
+- https://bitbucket.org/e_dragon/stm32_code
+- https://bitbucket.org/e_dragon/stm32_app
+- https://bitbucket.org/e_dragon/stm32f0
+- https://bitbucket.org/e_dragon/stm32f1_2
+- https://bitbucket.org/e_dragon/stm32f7
+- https://bitbucket.org/e_dragon/stm32_minif401
+- https://bitbucket.org/e_dragon/stm32_mylib
 
 ## ref 
 

@@ -50,6 +50,26 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 - [[M2M-dat]]
 
+
+## repro 
+
+- https://github.com/Edragon/SIMCOM-A7670-2
+- https://github.com/Edragon/SIMCOM_NEW
+- https://github.com/Edragon/SIMCOM_SIM70X0
+- https://github.com/Edragon/SIMCOM_Driver
+- https://github.com/Edragon/SIMCOM_SIM7020
+- https://github.com/Edragon/SIMCOM_2G
+- https://github.com/Edragon/simcom_NBIOT
+- https://github.com/Edragon/simcom_sim7000
+- https://github.com/Edragon/SIMCOM_upgrade
+- https://github.com/Edragon/SIMCOM_SDK
+- https://github.com/Edragon/SIMCOM_SIM800
+- https://github.com/Edragon/SIMCOM-A7670
+- https://github.com/Edragon/simcom_sim7060
+- https://bitbucket.org/e_dragon/simcom
+
+
+
 ## ref 
 
 - [2G](https://www.simcom.com/module/2g.html#place) - 
