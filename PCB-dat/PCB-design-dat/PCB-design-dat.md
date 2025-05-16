@@ -4,6 +4,7 @@
 ## design 
 
 
+- [[EDA-dat]] - [[EDA-simulation-dat]]
 
 ## basic 
 

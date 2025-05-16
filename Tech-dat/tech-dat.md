@@ -81,7 +81,9 @@
 
 ## Tools and Soldering 
 
-- [[soldering-dat]] - [[PCB-dat]]
+- [[soldering-dat]]
+
+- [[PCB-dat]]
 
 
 

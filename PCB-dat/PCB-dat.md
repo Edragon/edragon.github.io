@@ -3,12 +3,22 @@
 
 - [[PCB-design-dat]] - [[PCB-make-dat]]
 
-- [[EDA-dat]] - [[EDA-simulation-dat]]
 
 ## editing 
 
-- [[tools-PCB-dat]]
+- [[tools-PCB-dat]] - [[soldering-dat]]
 
+- [[desoldering-dat]]
+
+## fab 
+
+- [[fab-dat]]
+
+- [[fab-PCB-dat]] - [[PCB-format-dat]] - [[PCB-output-common-error-dat]] - [[PCB-penalization-dat]]
+
+- [[fab-PCBA-dat]]
+
+- [[fab-stencil-dat]]
 
 
 

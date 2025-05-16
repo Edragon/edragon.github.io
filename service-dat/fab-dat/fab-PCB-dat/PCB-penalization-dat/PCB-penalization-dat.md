@@ -16,6 +16,8 @@ Castellated holes, please make sure your board are designed correctly: Place hol
 
 # penalization-dat
 
+- [[many-penalization-examples-dat]]
+
 
 ## ref
 

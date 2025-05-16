@@ -5,4 +5,4 @@
 
 - [[custom-order-dat]]
 
-production - [[stencil-dat]] - [[pcb-dat]] - [[pcba-dat]]
+production - [[fab-stencil-dat]] - [[pcb-dat]] - [[pcba-dat]]
