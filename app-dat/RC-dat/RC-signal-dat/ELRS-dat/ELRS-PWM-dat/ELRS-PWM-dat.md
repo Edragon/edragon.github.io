@@ -37,6 +37,37 @@ Follow these steps to switch between PWM (6CH/7CH) and CRSF modes:
 *   Click the button at the bottom of the page and wait for the receiver to restart automatically.
 
 
+
+## custom PWM setup 
+
+![](2025-05-16-13-31-40.png)
+
+![](2025-05-16-13-32-31.png)
+
+
+## setup for [[ELRS-HF-RF-module-dat]]
+
+![](2025-05-16-13-33-12.png)
+
+## configuration file 
+
+- [[7CH.json]] - [[CRSF.json]]
+
+the pwm channels 
+
+    "pwm_outputs": [
+        0,
+        1,
+        3,
+        9,
+        10,
+        5,
+        16
+    ],
+
+
+
+
 ## ref 
 
 - [[ELRS-PWM]] - [[ELRS]]
