@@ -1,5 +1,9 @@
 
-# serial-monitor-dat
+# Serial-app-dat
+
+- [[putty-dat]] - [[SSCOM-dat]]
+
+
 
 ## demo test for esp32-C2
 
@@ -9,3 +13,4 @@
 
 ## SSCOM
 
+- [[SSCOM-dat]]
