@@ -23,6 +23,24 @@ If ISP fails or UART is unavailable, consider using ICP via SWD with Nuvoton's N
 
 
 
-## ref 
+## methods  
 
 - [[ISP-dat]] - [[ICP-dat]]
+
+
+## Target 
+
+### ARM 
+
+- [[JLINK-dat]]
+
+
+### AVR
+
+- [[AVR-dat]]
+  
+- [[avrdude-dat]]
+
+- [[DPR1045-dat]] - [[DPR1009-dat]]
+
+- [[CCO3626-dat]] - [[CCO3627-dat]]
