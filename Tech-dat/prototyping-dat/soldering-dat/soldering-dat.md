@@ -55,12 +55,6 @@ Common soldering tips system: (C1151), ESD(C1152), 900, 900M, 907, 933, 936, 937
 ![](2024-02-17-16-20-49.png)
 
 
-
-
-
-
-
-
 ## ref 
 
 - [[desoldering-dat]]
