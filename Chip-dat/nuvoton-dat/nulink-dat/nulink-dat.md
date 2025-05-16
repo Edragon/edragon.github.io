@@ -1,11 +1,34 @@
 
-# nulink-dat
+# nuLink-dat
+
+![](2025-05-16-18-21-17.png)
+
+- 5V
+- DAT
+- CLK 
+- RST 
+- GND 
+
+![](2025-05-16-18-23-13.png)
+
+
+![](2025-05-16-18-27-02.png)
+
+## ICP options 
+
+![](2025-05-16-18-32-18.png)
+
+- [[ICP-dat]] - [[programming-dat]]
+
+![](2025-05-16-18-42-42.png)
+
+## Hardware 
 
 - NUC12SRE3DE
 
 
 
-## SCH 
+### SCH 
 
 SCH 1 
 
