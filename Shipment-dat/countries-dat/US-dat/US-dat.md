@@ -3,21 +3,45 @@
 
 - [[PFCEXPRESS-dat]] - [[EURPOST-cn-dat]] - [[USPST-dat]] - [[USPS-dat]]
 
-## Express shipment
 
-| method                         | status | set | max. | row | pre-tax                | title                                                                         |
-| ------------------------------ | ------ | --- | ---- | --- | ---------------------- | ----------------------------------------------------------------------------- |
-| [[SZFedex-IP-dat]]             | x      | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days)                                |
-| [[SZFedex-IP-dat]] -tax-number |        | -   | -    | 33  | 5%                     | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, need Fedex Account Number)     |
-| [[SZFedex-IP-dat]] -pre-tax    |        | -   | -    | 33  | 5% + 60% (low declare) | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days, 165% pre-tax)                  |
-| [[HKDHL-dat]]                  | x      | -   | -    | 33  | 5%                     | HKDHL: DHL Express (Ref. ETA 6-10 days)                                       |
-| [[HKDHL-dat]]  -pre-tax        |        | -   | -    | 33  | 5% + 60% (low declare) | HKDHL: DHL Express (Ref. ETA 6-10 days, 165% pre-tax)                         |
-| [[CNUPS-dat]]                  | x      | -   | -    | 42  | 5%                     | CNUPS: UPS Express (Ref. ETA 3-8 days)                                        |
-| [[CNUPS-dat]]  -pre-tax        |        | -   | -    | 42  | 5% + 60% (low declare) | CNUPS: UPS Express (Ref. ETA 3-8 days, 165% pre-tax)                          |
-| [[SGDHL-dat]]                  |        | -   | -    | 28  | 5%                     | SGDHL: DHL Express (Ref. ETA 6-10 days, not prepaid tax, lower tax at arrive) |
+## Notifications
+
+US and Puerto Rico Express
+
+1.  **Hong Kong DHL Small Parcel Rate (HKDHLX) Channel**
+    *   For declared values below 250 USD, the deposit is canceled. If opting for prepaid customs duty deposit, the charge is: 180 RMB handling fee + 50% of the total declared value as a deposit.
+    *   For declared values of 250 USD and above, the deposit charge is: 180 RMB handling fee + 50% of the total declared value as a deposit, automatically collected by the system.
+    *   (Prepaid customs duty is not mandatory, but a customs deposit is required. If the goods are signed for, the customer can request a refund of the deposit with proof of customs duty payment.)
+
+2.  **Hong Kong DHL Agent Rate (HKDHL) Channel**
+    *   Adjusted so that no customs duty prepayment is collected for any declaration. However, a "Letter of Commitment" must be signed for shipment. Regardless of the amount, the tax on the DHL agent bill must be unconditionally borne, and no appeals in any form will be accepted.
+    *   If prepaid customs duty is requested, the advance tax collection is: Declared value * 30% (adjusted after the DHL agent bill is issued – refund for overpayment, supplement for underpayment) + customs duty prepayment handling fee.
+
+3.  **Shenzhen FedEx IE Rate (SZFEDEX-IE) Channel**
+    *   For commercial shipments (recipient is a company) with a declared value within 1000 USD, you can choose not to prepay customs duties, and no customs duty prepayment will be collected. However, a "Letter of Commitment" must be signed for shipment. Regardless of the amount, the tax on the FedEx agent bill must be unconditionally borne, and no appeals in any form will be accepted.
+    *   For declared values higher than or equal to 1000 USD, or if opting for prepaid customs duty, the advance tax collection is: Declared value * 30% + customs duty prepayment handling fee (charged at 2% of the FedEx tax bill amount, minimum 38 RMB per shipment).
+
+4.  **Hong Kong UPS Counterfeit Goods Rate (HKUPS-F) Channel**
+    *   For declared values within 1000 USD, no customs duty prepayment is collected. However, a "Letter of Commitment" must be signed for shipment. Regardless of the amount, the tax on the UPS agent bill must be unconditionally borne, and no appeals in any form will be accepted.
+    *   If prepaid customs duty is requested, the advance tax collection is: Declared value * 30% (adjusted after the UPS agent bill is issued – refund for overpayment, supplement for underpayment) + customs duty prepayment handling fee.
+    *   For all channels, deposits will be adjusted (refund for overpayment, supplement for underpayment) after the subsequent customs bill is issued. A refund can only be requested if no customs bill has been issued for at least 200 days. Please be aware, thank you.
+
+US Special Line
+
+1.  **PFCEX; PFCEXB; PFCEXPRESS; EURPOST; PFCGL; USPST; USPSP Tax Rate Adjustment:** Starting today, the US customs duty prepayment is adjusted: an additional 45% tax fee will be collected, non-refundable and non-supplementary, and no tax receipt will be provided.
+
+## Express Default Shipment
+
+| method             | status | set | max. | row | pre-tax | title                                                  |
+| ------------------ | ------ | --- | ---- | --- | ------- | ------------------------------------------------------ |
+| [[SZFedex-IP-dat]] |        | -   | -    | 33  | 5%      | SZFEDEX-IP: Fedex Express (Ref. ETA 7-11 days)         |
+| [[HKDHL-dat]]      |        | -   | -    | 33  | 5%      | HKDHL: DHL Express (Ref. ETA 6-10 days)                |
+| [[CNUPS-dat]]      |        | -   | -    | 42  | 5%      | CNUPS: UPS Express (Ref. ETA 3-8 days)                 |
+| [[SGDHL-dat]]      |        | -   | -    | 28  | 5%      | SGDHL: DHL Express (Ref. ETA 13-18 days, "Made in SG") |
 
 
-## updates 2025-04-23
+
+## Express Shipment - Updates 2025-04-23
 
 *   For shipments originating from Mainland China or Hong Kong SAR destined for the United States and Puerto Rico, the shipping documents must specify the FedEx account number of the party responsible for paying customs duties.
 *   **Duty Payment Options:**
@@ -30,14 +54,12 @@
 
 ## Expendiated shipment
 
-| method                   | status | set   | max. | row | pre-tax                | title                                                                   |
-| ------------------------ | ------ | ----- | ---- | --- | ---------------------- | ----------------------------------------------------------------------- |
-| [[PFCEXPRESS-dat]]       | x      |       |      |     |                        |                                                                         |
-| [[USPST-dat]]            | x      |       |      |     |                        |                                                                         |
-| [[EURPOST-cn-dat]]          | x      | price | 120  | 7.5 | 5%                     | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days)               |
-| [[EURPOST-cn-dat]] -pre-tax |        | price | 120  | 7.5 | 5% + 60% (low declare) | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days, 165% pre-tax) |
-| [[USPS-dat]]             | x      | price | 120  | 11  | 5%                     | USPS: Intl. + USPS (Ref. ETA: 8-15 days)                                |
-| [[USPS-dat]]   -pre-tax  |        | price | 120  | 11  | 5% + 60% (low declare) | USPS: Intl. + USPS (Ref. ETA: 8-15 days, 165% pre-tax)                  |
+| method             | status | set   | max. | row     | pre-tax | title                                                                         |
+| ------------------ | ------ | ----- | ---- | ------- | ------- | ----------------------------------------------------------------------------- |
+| [[PFCEXPRESS-dat]] | x      |       |      |         | 30%     |                                                                               |
+| [[EURPOST-dat]]    | x      | price | 120  | 7.5     | 30%     | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days)                     |
+| [[USPST-dat]]      |        | price | 120  | 4.5+1.5 | 30%     | USPST: Intl. + USPS Post (Ref. ETA: 15-20 days, 50% pre-tax)                  |
+| [[USPS-dat]]       |        | price | 120  | 11+1.5  | 30%     | USPS: Intl. + USPS and Multiple Local Post (Ref. ETA: 8-15 days, 50% pre-tax) |
 
 
 ## Shipping Hold Notification (Effective April 23rd, 2025)
