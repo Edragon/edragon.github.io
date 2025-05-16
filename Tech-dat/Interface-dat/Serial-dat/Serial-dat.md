@@ -1,6 +1,8 @@
 
 # USB TTL Dat 
 
+- [[serial-monitor-dat]] - [[serial-circuits-dat]]
+
 - [legacy wiki page](https://w.electrodragon.com/w/Serial)
 
 - classic common options - [[CH340-dat]]
@@ -107,14 +109,6 @@ Booting Mode select
 
 
 
-## Circuits 
-
-- [[auto-serial-dat]]
-
-common PCB setup 
-- one row: GND / RXD / TXD / VCC
-- two row -1: GND / VCC
-- two row -2: RXD / TXD
 
 ## categorized by target friendly
 

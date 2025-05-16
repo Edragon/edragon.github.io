@@ -60,7 +60,7 @@
 
 - [[RTC-dat]] - [[buffer-dat]] 
 
-- [[terminal-clamping]] - [[servo-DAT]] - [[BTB-dat]]
+- [[terminal-clamping]] - [[BTB-dat]]
 
 - [[protection-dat]]
 
@@ -78,6 +78,11 @@
 ## simulator 
 
 - [[EDA-simulation-dat]]
+
+## Tools and Soldering 
+
+- [[soldering-dat]] - [[PCB-dat]]
+
 
 
 ## Mechnicals 

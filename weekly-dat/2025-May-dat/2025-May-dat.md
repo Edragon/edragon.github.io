@@ -19,6 +19,10 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[battery-pack-dat]] make a more powerful battery by assmebling it by yourself
 
+- knowledge about [[antenna-dat]] / [[ELRS-dat]] / [[ELRS-HF-RF-Module-dat]] / [[ELRS-PWM-dat]] / [[ELRS-TX-dat]] / [[ELRS-RX-dat]] 
+
+
+
 ## Dissusion, Feedback, To-do
 
 
