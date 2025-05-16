@@ -19,7 +19,7 @@ protocol output -  - [[CRSF-dat]]
 
 - [[CC2500-dat]]
 
-- [[ELRS-915M-dat]] - [[ELRS-PWM-dat]] - [[ELRS-2.4Ghz-dat]] 
+- [[ELRS-TX-dat]] - [[ELRS-915M-dat]] - [[ELRS-PWM-dat]] - [[ELRS-2.4Ghz-dat]] 
 
 - [[ELRS]]
 
@@ -121,7 +121,11 @@ https://www.expresslrs.org/quick-start/getting-started/
 - [[5.8Ghz-dat]]
 
 
-## WebUI 
+## WebUI Configurator
+
+[ExpressLRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/)
+
+[github](https://github.com/ExpressLRS/ExpressLRS) 
 
 ### Via "ExpressLRS RX" Access Point
 

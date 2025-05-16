@@ -1,6 +1,31 @@
 
 # antenna-dat
 
+types of antenna == [[T-antenna-dat]]
+
+
+# Antenna Comparison Table
+
+| Feature                     | T-style Dipole Antenna                       | Whip Antenna (Monopole)                      |
+|----------------------------|----------------------------------------------|---------------------------------------------|
+| 📡 Type                    | Balanced dipole                              | Unbalanced monopole                         |
+| 🔁 Radiation Pattern        | Omnidirectional in horizontal plane          | Omnidirectional but affected by mounting    |
+| 📶 Signal Consistency       | More consistent in various orientations      | More directional; weaker at steep angles    |
+| 📏 Range (Typical)          | Longer due to better polarization            | Shorter range in practice                   |
+| ⚖️ Weight & Size           | Slightly heavier and bulkier                 | Lightweight and compact                     |
+| 🔧 Installation             | Requires proper horizontal placement         | Very easy to install                        |
+| 🛠️ Use Case Examples       | Ground/air modules, telemetry (RC, FPV)      | Tight spaces, onboard modules               |
+| ⚡ Interference Resistance  | Better (less affected by ground plane)       | More sensitive to surrounding materials     |
+| 🔌 Connector Type           | U.FL (same as whip)                          | U.FL                                        |
+
+✅ Summary:
+- Choose the **T-style Dipole** if you need better range and signal reliability across various orientations.
+- Choose the **Whip Antenna** if space and weight are limited, and installation simplicity is a priority.
+
+
+antenna connectors - [[ufl-dat]] - [[ipdex-dat]] - [[SMA-dat]]
+
+
 表 28：GNSS 频率
 
 | type             | frequencies     | units |

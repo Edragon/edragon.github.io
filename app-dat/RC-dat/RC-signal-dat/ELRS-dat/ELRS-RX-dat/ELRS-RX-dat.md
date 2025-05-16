@@ -6,6 +6,9 @@
 
 ![](2025-04-25-16-52-56.png)
 
+
+- [[antenna-dat]]
+
 ## SMD antenna version 
 
 ## info 
@@ -51,6 +54,10 @@ UART baud == 420000 = 420K
 ![](2025-04-25-16-55-05.png)
 
 
+
+## supported modules 
+
+![](2025-05-16-12-57-47.png)
 ## FAQ
 
 1.  **Q: Can this receiver be bound to a XXX brand's high-frequency head (transmitter module)?**
