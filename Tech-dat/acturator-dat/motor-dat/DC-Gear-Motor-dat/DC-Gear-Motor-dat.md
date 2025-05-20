@@ -2,6 +2,11 @@
 # DC-Gear-Motor-dat
 
 
+## driver 
+
+- [[TB6612-dat]] - [[L298-dat]]
+
+
 # reduction-gear-motor-dat
 
 
@@ -10,6 +15,8 @@
 - [[torque-dat]]
 
 - [[encoder-dat]]
+
+- [[TT-motor-dat]]
 
 
 ## Apps and Specs Selection 
