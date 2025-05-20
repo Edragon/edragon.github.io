@@ -1,6 +1,13 @@
 
 # resistor-dat.md
 
+- [[shunt-resistor-dat]] - [[trim-pot-dat]]
+
+- [[sample-resistor-dat]]
+
+- [[Thermistor-dat]]（thermal + resistor)
+
+
 ## E96 
 
 | 1%   | #   | 1%   | #   | 1%   | #   | 1%   | #   | 1%   | #   | 1%   | #   |
