@@ -90,4 +90,11 @@ The 10A and 20A ratings refer to the maximum current the module can measure. The
 - The 10A version uses a 0.003Ω (3mΩ) sampling resistor, and its current coefficient is 0.333.
 - The 20A version uses a 0.001Ω (1mΩ) sampling resistor, and its current coefficient is 1.
 
-The chip in the 20A module can actually measure currents up to 30A, but the module itself is too small to safely handle such high currents. Regardless of whether you are using the 10A or 20A version, it is recommended to reinforce the 220V traces with additional solder.
+The chip in the 20A module can actually measure currents up to 30A, but the module itself is too small to safely handle such high currents. Regardless of whether you are using the 10A or 20A version, **it is recommended to reinforce the 220V traces with additional solder.**
+
+
+
+
+## ref 
+
+- [[HLW8032-dat]]

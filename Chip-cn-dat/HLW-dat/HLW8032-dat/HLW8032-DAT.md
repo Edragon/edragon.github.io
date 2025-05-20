@@ -63,6 +63,8 @@ Data format of HLW8032:
 
 ## ref
 
+- [[sample-resistor-dat]] - [[resistor-dat]]
+
 - [[HLW-dat]]
 
 - [[HLW8032.pdf]]
