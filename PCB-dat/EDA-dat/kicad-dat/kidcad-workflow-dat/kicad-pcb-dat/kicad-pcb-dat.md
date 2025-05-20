@@ -88,6 +88,7 @@ Optimize the text size of the desginators
 
 ![](2025-05-12-13-02-00.png)
 
+text width and height 0.6 mm 
 
 ## export gerber 
 
@@ -95,3 +96,13 @@ output folder
 
     for the current folder == ./
     for the sub folder "gerber" in current folder == ./gerber
+
+
+## export info 
+
+
+layer 
+- x.Mask 
+- x.Fab
+- Edge.Cuts
+![alt text](95e854b5209f226b023ebe7765500e9.png)

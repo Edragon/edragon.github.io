@@ -1,6 +1,8 @@
 
 # GNSS-dat 
 
+- [[beidou-dat]] - [[GPS-dat]] - [[GLONASS-dat]]
+
 - gnss protocol - [[quectel_l76-lbl26-lblc86l_gnss_protocol_specification_v2-2.pdf]]
 
 - GSV - GNSS Satellites in View. 
@@ -14,6 +16,52 @@
 - VTG - Course Over Ground & Ground Speed. 
 
 - RMC - Recommended Minimum Specific GNSS Data. Time, date, position, course, and speed data provided by a GNSS receiver.
+
+## GNSS Start 
+
+COLD start GNSS:
+- When first used;
+- Loss of ephemeris information due to battery depletion;
+- Move the receiver more than 200 km under shutdown. 
+
+HOT start GNSS:
+- Boot less than two hours from the last location
+
+WARM start GNSS:
+- Boot more than two hours from the last location
+
+
+## GNSS bands 
+| Type    | Frequecy          |
+| ------- | ----------------- |
+| GPS     | 1575.42±1.023MHz  |
+| GLONASS | 1597.5~1605.8MHz  |
+| BeiDou  | 1561.098±2.046MHz |
+
+## GNSS Antenna Requirements
+
+| Antenna Specification      | Specification Requirement          |
+| :------------------------- | :--------------------------------- |
+| Operating Frequency Band   | L1: 1559~1609MHz                   |
+| Directionality             | Hemisphere, face to sky            |
+| Impedance                  | 50 Ω                               |
+| Maximum Input Power        | 50W                                |
+| VSWR                       | < 2                                |
+| Polarization Type          | RHCP or Linear                     |
+| Passive Antenna Gain       | 0dBi                               |
+| Active Antenna Gain        | -2dBi                              |
+| Active Antenna Noise Figure| < 1.5                              |
+| Built-in Antenna LNA Gain  | 20dB(Typ.)                         |
+| Total Antenna Gain         | < 18 dB                            |
+| Coaxial Cable Insertion Loss | <1.5dB                             |
+
+
+## Schematic 
+
+- [[A7670-dat]]
+
+![](2025-05-20-17-08-11.png)
+
 
 ## commands examples 
 

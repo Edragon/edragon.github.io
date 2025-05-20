@@ -3,6 +3,10 @@
 
 https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
+## info 
+
+- [[SIMCOM-SDK-dat]] - [[SIMCOM-driver-dat]] - [[SIMCOM-AT-DAT]] 
+
 - [[bands-dat]] - [[SIMCOM-size-dat]]
 
 
