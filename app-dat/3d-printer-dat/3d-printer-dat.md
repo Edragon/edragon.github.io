@@ -3,7 +3,10 @@
 
 - [[marlin-dat]]
 
+## materials 
 
+- PETG
+- PLA
 
 ## ref 
 

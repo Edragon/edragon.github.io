@@ -12,6 +12,8 @@
 
 - [[OPM1192-dat]] - [[OPM1152-dat]]
 
+- [[richtek-dat]]
+
 ### LM2596 = input 3~40V
 
 - [[OPM1003-dat]] - [[LM2596-dat]] ADJ Display version 

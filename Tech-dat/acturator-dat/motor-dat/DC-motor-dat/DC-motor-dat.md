@@ -20,7 +20,47 @@
 | **775**      | ~70 mm length   | 12V – 24V     | ~150–350 W    | High-power drills, CNC, mobility projects |
 | **895**      | ~80 mm length   | 12V – 36V     | ~200–500 W    | High torque, heavy loads                  |
 
-- more powerful motors - [[BLDC-motor-da[[DC-Gear-Motor-dat]]dat]]
+- more powerful motors - [[BLDC-motor-dat]] - [[DC-Gear-Motor-dat]]
+
+## 1. 45T / 55T Motors
+
+- **"T" = Turns** of wire on the motor armature.
+- **Higher T (e.g., 55T)** = **More torque, lower speed**.
+- **Lower T (e.g., 12T)** = **Higher speed, lower torque**.
+- Typically **540-size** brushed motors.
+- Commonly used in **RC crawling/trailing** for torque and control.
+- A **45T motor** has **45 wraps (turns)** of copper wire around each pole of the armature.
+- The number of turns affects the **motor's speed and torque**.
+
+Series = 19T / 21T / 27T / 35T / 45T / 55T / 60T / 80T
+
+### Summary Table
+
+| Spec   | 45T / 55T Motor       | 130 / 230 Motor           |
+| ------ | --------------------- | ------------------------- |
+| Type   | Brushed RC Motor      | Toy motor                 |
+| Size   | 540-class             | Small can-type            |
+| Torque | High (esp. 55T)       | Low                       |
+| Speed  | Low (esp. 55T)        | Moderate                  |
+| Usage  | RC crawling, trailing | Toys, fans, small gadgets |
+
+
+### 🔧 Approximate Torque Value
+- **Torque (stall):** ~300 to 400 g·cm (gram-centimeter)
+- **At 7.2V to 7.4V (common RC voltage)**
+
+> ⚠️ Note: This is an estimate. Some high-end 45T motors may produce more torque.
+
+### 📊 Comparison Table (Typical RC Motors at 7.2V)
+
+| Motor Type | Turns | Torque (g·cm) | Speed (RPM)    |
+| ---------- | ----- | ------------- | -------------- |
+| Racing     | 12T   | ~100–150      | ~30,000–35,000 |
+| Balanced   | 27T   | ~200–250      | ~15,000–20,000 |
+| Torque     | 45T   | ~300–400      | ~9,000–11,000  |
+| Crawler    | 55T   | ~400–500      | ~7,000–9,000   |
+
+- [[torque-dat]]
 
 ## 📊 Size Comparison Table
 
@@ -100,10 +140,10 @@ So, a **230 motor** typically has:
 
 ## 🔄 3. 1000W+ Brushed DC Motors – ✅ *Direct power jump*
 
-| Motor        | Voltage | Power     | Notes                             |
-|--------------|---------|-----------|------------------------------------|
-| **MY1020**   | 24–48V  | 500–1000W | E-scooters, carts, heavy DIY use  |
-| **XYD-16/13**| 36–60V  | 1000W+    | High torque, brushed, affordable  |
+| Motor         | Voltage | Power     | Notes                            |
+| ------------- | ------- | --------- | -------------------------------- |
+| **MY1020**    | 24–48V  | 500–1000W | E-scooters, carts, heavy DIY use |
+| **XYD-16/13** | 36–60V  | 1000W+    | High torque, brushed, affordable |
 
 
 ![](2025-05-13-02-44-12.png)
