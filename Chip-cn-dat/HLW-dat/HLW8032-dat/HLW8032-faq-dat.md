@@ -81,3 +81,13 @@ This is normal and depends on the transformer and power distribution in your are
 This is expected behavior. The module's current detection range is 50mA–10A. Although the effective current shows a value, the energy consumption does not increase. You can verify if no device is connected by checking the first byte of raw data; if it is `0xF2`, no load is connected. 
 
 For detailed information about the meaning of each byte in the raw data, refer to the HLW8032 datasheet.
+
+
+## 10. 10A or 20A ? 
+
+The 10A and 20A ratings refer to the maximum current the module can measure. The difference between the modules lies in the current sampling resistor; everything else is the same.
+
+- The 10A version uses a 0.003Ω (3mΩ) sampling resistor, and its current coefficient is 0.333.
+- The 20A version uses a 0.001Ω (1mΩ) sampling resistor, and its current coefficient is 1.
+
+The chip in the 20A module can actually measure currents up to 30A, but the module itself is too small to safely handle such high currents. Regardless of whether you are using the 10A or 20A version, it is recommended to reinforce the 220V traces with additional solder.

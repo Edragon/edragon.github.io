@@ -48,6 +48,19 @@ https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/
 for outdoor ONLY P6 and P8
 - waterproof rubber seal ring
 
+
+
+
+## Matrix Panels Development 
+
+Gen-1: Basic HUB75 panels using 4–5 address lines, simple driver chips (ICN2037BP, FM6124), and separate row decoder chips (like 74HC138 or FM6124A). These panels are compatible with the Adafruit MatrixPortal S3, RP2040, and Adafruit libraries.
+
+Gen-2: Panels with smart driver chips (like ICND2038S or ICND2153) that handle internal row multiplexing and require initialization sequences. These may use fewer address lines and are not compatible with most simple microcontroller libraries without modifications. There are some great libraries on Github that provide control of these panels using an Raspberry Pi controller.
+
+Gen-3: Advanced grayscale panels using chips like MBI5153 or ICND2153 that support PWM or stacked PWM (S-PWM) for high refresh rates and deep color. These require precise signal timing and are typically driven with FPGAs or heavily modified firmware. Some GitHub projects have figured out how to support these.
+
+[reference from here.](https://rpi-rgb-led-matrix.discourse.group/t/trying-to-get-an-overall-understanding-on-led-matrix-panels/1075/4)
+
 ## read more
 
 - [[magnetic-screw-dat]] - [[led-full-panel-installation]]
