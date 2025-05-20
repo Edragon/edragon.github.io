@@ -295,7 +295,7 @@ SIMCOM
 
 - SIM7080G - [[NGS1128-DAT]] - [[NGS1129-DAT]] - [[SIM7080-dat]]
 
-- A7670 [[NGS1131-DAT]]
+- [[A7670-dat]] - [[NGS1131-DAT]] - [[NGS1140-DAT]]
 
 - [[NGS1119-dat]]
 

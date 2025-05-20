@@ -1,7 +1,17 @@
 
 # antenna-dat
 
-types of antenna == [[T-antenna-dat]]
+- [[antenna-type-dat]]
+
+type of antennas by shape == [[antenna-T-dat]] - [[antenna-Whip-dat]]
+
+type of antennas by power == [[antenna-active-dat]] - [[antenna-passive-dat]]
+
+type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]] - [[GSM-antenna-GPS-dat]] - [[antenna-RF-dat]] - [[antenna-2.4G-dat]]
+
+type of antennas by connector == [[antenna-SMA-dat]] - [[antenna-IPEX-dat]] - [[antenna-UFL-dat]]
+
+
 
 
 # Antenna Comparison Table
@@ -25,15 +35,6 @@ types of antenna == [[T-antenna-dat]]
 
 antenna connectors - [[ufl-dat]] - [[ipdex-dat]] - [[SMA-dat]]
 
-
-表 28：GNSS 频率
-
-| type             | frequencies     | units |
-| ---------------- | --------------- | ----- |
-| GPS/Galileo/QZSS | 1575.42 ±1.023  | MHz   |
-| GLONASS          | 1597.5~1605.8   | MHz   |
-| BeiDou           | 1561.098 ±2.046 | MHz   |
-
 - [[antenna-location-dat]]
 
 GSM
@@ -53,25 +54,6 @@ SMA to IPEX converter cable
 | style    | ![](2023-10-27-15-41-39.png) | ![](2023-10-27-15-42-27.png) |
 | gain     | 2dbi                         | 8dbi                         |
 | Features | -                            | foldable                     |
-
-
-## GNSS recommanded antenna specifications 
-
-passive 
-
-- Frequency Range: 1559–1609 MHz 
-- Polarization: RHCP 
-- VSWR: < 2 (Typ.) 
-- Passive Antenna Gain: > 0 dBi
-
-active 
-
-- Frequency Range: 1559–1609 MHz 
-- Polarization: RHCP 
-- VSWR: < 2 (Typ.) 
-- Passive Antenna Gain: > 0 dBi 
-- Active Antenna Noise Figure: < 1.5 dB 
-- Active Antenna Total Gain: < 18 d
 
 
 ## Connection Type 
