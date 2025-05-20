@@ -12,3 +12,8 @@ ZMCT103C
 ![](2024-12-04-18-44-22.png)
 
 Note: Ratio 1000:1 
+
+
+## ref 
+
+- [[zeming-dat]]

@@ -20,7 +20,8 @@ UART of HLW8032 uses two pins. The TX pin is used to transmit data from HLW8032,
 
 ![](2025-02-13-16-09-20.png)
 
-Data format of HLW8032:    
+Data format of HLW8032:   
+ 
 - Baud rate:4800bps   
 - Start bit+data bit (8bit) + even bit + stop bit
 
@@ -35,6 +36,22 @@ Data format of HLW8032:
 ![](2024-12-18-17-08-33.png)
 
 ![](2024-12-18-17-09-06.png)
+
+## SCH 
+
+- [[power-isolated-Module-dat]]
+
+![](2025-05-20-12-28-21.png)
+
+## Application areas:
+
+- Smart home appliances
+- Metering sockets
+- Smart WIFI sockets
+- Electric vehicle charging piles
+- PDU equipment
+- LED lighting
+- Street light control
 
 ## Demo code 
 

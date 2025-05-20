@@ -21,7 +21,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - knowledge about [[antenna-dat]] / [[ELRS-dat]] / [[ELRS-HF-RF-Module-dat]] / [[ELRS-PWM-dat]] / [[ELRS-TX-dat]] / [[ELRS-RX-dat]] 
 
-
+- re-documentation for good board [[DOD1077-dat]] and relevant info [[nuvoton-dat]] - [[N76E003-dat]]
 
 ## Dissusion, Feedback, To-do
 
