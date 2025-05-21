@@ -76,6 +76,8 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 ## ref 
 
+- [[antenna-dat]]
+
 - [2G](https://www.simcom.com/module/2g.html#place) - 
 
 - [LWPA](https://en.simcom.com/module/lpwa.html) - 

@@ -5,13 +5,11 @@
 
 - [[esp8266-modules-dat]]
 
-- [[SIMCOM-dat]]
+- [[SIMCOM-dat]] - [[quectel-dat]]
 
 - [[WCH-dat]]
 
 - [[RDA-dat]]
-
-- [[quectel-dat]]
 
 - [[CONSONANCE-dat]] - [[JDY-dat]]
 

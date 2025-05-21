@@ -1,6 +1,7 @@
 
 # microne-dat
 
+- [[LDO-dat]]
 
 - [[OPM1175-dat]] 
 
@@ -17,6 +18,18 @@
 | Package Types           | SOT-23-5, SOT-23-3                           | SOT-23-5, SOT-89, SC-82AB                                 |
 | Operating Temperature   | -40°C to +125°C                              | -40°C to +85°C                                            |
 | Key Features            | Low dropout, thermal shutdown, current limit | Low dropout, low quiescent current, high ripple rejection |
+
+
+
+## option 6231 
+
+- 18V, Low Power, 
+- High Accuracy, High PSRR LDO Regulators
+- Maximum Output Current: 500mA
+
+
+
+
 
 
 ## ref 

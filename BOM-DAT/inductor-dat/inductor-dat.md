@@ -1,7 +1,21 @@
 
 # inductor-dat
 
-common brand: Bourns
+
+
+## Role of Inductor in an Active Antenna
+
+- [[antenna-active-dat]] - [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]]
+
+| Function            | Description                                                   |
+|---------------------|---------------------------------------------------------------|
+| Impedance Matching  | Matches antenna impedance to active circuit (e.g., LNA).      |
+| Filtering / Tuning  | Forms LC circuits to select desired frequencies.              |
+| Bias-T (DC Injection)| Passes DC to power the amplifier while blocking RF.          |
+| Gain Shaping        | Shapes amplifier response for specific frequency bands.       |
+
+
+
 
 ## Choke
 
@@ -45,3 +59,14 @@ CDRH127/LDNP-101MC
 ## high freq. inductor 47nh 
 
 ![](2024-10-09-18-43-27.png)
+
+
+
+## Manufacturers 
+
+common brand: Bourns
+
+
+## ref 
+
+- [[BOM-dat]]

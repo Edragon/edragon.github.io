@@ -62,6 +62,10 @@ SMA to IPEX converter cable
 - u.FL IPEX  - [[ipex-dat]]
 - SMA inner-hole or inner-pin
 
+该SMT型同轴带开关连接器
+
+swtich connector - ECT ECT818011998 - datasheet [[ECT-ECT818011998_C437250.pdf]]
+
 
 
 
