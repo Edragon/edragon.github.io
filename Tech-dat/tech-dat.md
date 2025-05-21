@@ -3,7 +3,9 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[app-dat]]
+- [[BOM-dat]] - [[cable-dat]]
+
+- [[chip-dat]] - [[chip-cn-dat]]
 
 - [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[camera-dat]]
 
@@ -14,6 +16,8 @@
 - [[network-dat]] 
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
+
+- [[app-dat]]
 
 ## SDK
 

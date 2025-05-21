@@ -42,6 +42,8 @@
 
 ## Cable to Cable 
 
+- [[wire-2-wire-dat]]
+
 ## Cable to Board 
 
 ## Series And Parallel Connection Cable  
