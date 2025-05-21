@@ -1,7 +1,7 @@
 
 # antenna-dat
 
-- [[antenna-type-dat]]
+- [[antenna-type-dat]] - [[antenna-design-dat]]
 
 type of antennas by shape == [[antenna-T-dat]] - [[antenna-Whip-dat]]
 
