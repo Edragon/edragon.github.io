@@ -6,6 +6,8 @@
 
 - [[antenna-location-dat]] - [[antenna-GNSS-dat]]
 
+- [[antenna-active-amplifier-dat]] - [[MAX2659-dat]]
+
 
 ## Active Antenna for GNSS - [[A7670-dat]]
 

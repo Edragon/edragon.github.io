@@ -23,6 +23,8 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - re-documentation for good board [[DOD1077-dat]] and relevant info [[nuvoton-dat]] - [[N76E003-dat]]
 
+- added many information for [[antenna-active-dat]] - [[antenna-passive-dat]]
+
 ## Dissusion, Feedback, To-do
 
 
