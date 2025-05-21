@@ -1,6 +1,8 @@
 
 # motor-dat
 
+- [[motor-driver-dat]]
+
 ## motor specs 
 
 - [[torque-dat]]
@@ -11,7 +13,7 @@ brushed
 
 - [[dc-motor-dat]] == Permanent Magnet Brushed DC Motor
 
-- [[DC-gear-motor-dat]] - [[reduction-gear-motor-dat]]
+- [[DC-gear-motor-dat]] - [[reduction-gear-motor-dat]] - [[TT-motor-dat]]
 
 - [[coreless-motor-dat]] 
   
