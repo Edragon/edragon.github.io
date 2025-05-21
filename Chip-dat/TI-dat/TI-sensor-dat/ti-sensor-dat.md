@@ -1,7 +1,12 @@
 
 # ti-sensor-dat.md
 
-[[dc-current-sensor-dat]] - [[INA219-dat]] - [[INA226-dat]] - [[INA240-dat]] - [[INA231-dat]]
+[[dc-current-sensor-dat]] 
+
+- [[INA219-dat]] 
+- [[INA226-dat]] 
+- [[INA240-dat]] 
+- [[INA231-dat]]
 
 [[temperature-sensor-dat]] - [[LM75-dat]]
 

@@ -1,11 +1,21 @@
 
 # current-transformer-dat
 
+- [[current-sensor-dat]]
+
+## PCB Mount 
+
 - [[zeming-dat]]
 
 
+## Open Split Core Current Transformer
+
+- [[YHDC-dat]]
 
 
+
+
+## Specifications 
 
 "Miniature current transformer, small AC through-core type, class 0.1 precision, high-frequency transformer, lead type, 1000:1"
 
@@ -31,3 +41,4 @@ Here's a breakdown:
 ## ref 
 
 
+- [[current-sensor]]

@@ -7,6 +7,7 @@
 
 - [[Thermistor-dat]]（thermal + resistor)
 
+- [[burden-resistor-dat]]
 
 ## E96 
 

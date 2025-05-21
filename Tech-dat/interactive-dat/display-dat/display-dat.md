@@ -9,13 +9,7 @@ SPI interface LCDs - [[EDS-LCD-dat]]
 
 - [[e-paper-dat]]
 
-## ref 
-
-- [[display]]
-
-- [[RPI-LCD-dat]]
-
-
+- [[Nokia-5110-dat]]
 
 
 ## repositories 
@@ -30,5 +24,15 @@ SPI interface LCDs - [[EDS-LCD-dat]]
 
 
 - https://github.com/Edragon/RPI-Display
+
+
+
+
+## ref 
+
+- [[display]]
+
+- [[RPI-LCD-dat]]
+
 
 

@@ -3,33 +3,42 @@
 
 ![](2024-12-08-16-37-50.png)
 
+![](2025-05-21-16-43-03.png)
+
 ![](2024-12-08-16-38-09.png)
 
 ![](2024-12-08-16-38-22.png)
 
 ![](2024-12-08-16-38-54.png)
 
-## sample data 
+## sample data calculation for voltage 
 
     F2 5A 02 E1 80 00 06 52 0 3E A8 3 A6 C8 4F 9A E8 5E 79 B 61 0 1 27
 
-### Voltage Parameter Register
+**Voltage Parameter Register**
 
-    02 E1 80
+    02 E1 80 == (Dec) 188,800
 
 ![](2024-12-08-16-39-38.png)
 
 Summing these values gives the voltage parameter register value: 131072 + 57600 + 128 = 188800
 
-### Voltage Register Calculation
+**Voltage Register Calculation**
 
-    00 06 52
+    00 06 52 == (Dec) 1618
 
 ![](2024-12-08-16-40-36.png)
 
 voltage register value: 0 + 1536 + 82 = 1618
 
-### Effective Voltage Calculation
+Voltage Coefficient = 
+
+    470K * 4 / 1K * 1000 = 1880K / 1000K = 1.88
+
+
+**Effective Voltage Calculation**
+
+    1888800 / 1618 * (voltage Coefficient) 1.88 = 219.372V 
 
 Therefore, the effective voltage is approximately 219.372V.
 

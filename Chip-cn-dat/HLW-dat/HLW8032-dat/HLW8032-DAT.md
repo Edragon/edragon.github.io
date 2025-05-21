@@ -39,9 +39,11 @@ Data format of HLW8032:
 
 ## SCH 
 
-- [[power-isolated-Module-dat]]
+- [[AC-isolation-dat]]
 
 ![](2025-05-20-12-28-21.png)
+
+- [[HLW8032-ISO-Version-dat]]
 
 ## Application areas:
 

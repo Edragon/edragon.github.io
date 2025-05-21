@@ -22,6 +22,14 @@ press to connect, release to diconnect
 ![](2025-01-09-16-13-42.png)
 
 
+## Buttons Circuits 
+
+Reading by Analog Value 
+
+voltage divider 1K / 4.7K / 10K == [[voltage-divider-dat]]
+
+![](2025-05-21-17-51-07.png)
+
 
 
 ## ref 

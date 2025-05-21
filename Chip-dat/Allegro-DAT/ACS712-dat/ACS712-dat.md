@@ -2,8 +2,11 @@
 # ACS712-dat
 
 
-legacy wiki page - https://w.electrodragon.com/w/ACS712
+[legacy wiki page](https://w.electrodragon.com/w/ACS712)
 
+Fully Integrated, Hall Effect-Based Linear Current Sensor  
+
+with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 
 ## tutorial 
 
