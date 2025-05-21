@@ -49,7 +49,7 @@
 
 ### Sensors and actuator 
 
-- [[sensor-dat]]
+- [[sensor-dat]] - [[current-sensor-dat]]
   
 - [[acturator-dat]] - [[motor-dat]]
 

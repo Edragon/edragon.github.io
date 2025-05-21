@@ -12,7 +12,7 @@
 
 relay trigger == P12 
 
-external [[optical-coupler-dat]] trigger == P15
+external [[Optical-Coupler-DAT]] trigger == P15
 
 setup buttons 
 
