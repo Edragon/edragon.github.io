@@ -45,7 +45,9 @@
 
 - [[LED-dat]] - [[LED-strip-dat]]
 
-- [[display-dat]]
+- [[display-dat]] - [[LCD-dat]] - [[OLED-dat]] - [[TFT-dat]] - [[nokia-5110-dat]]
+
+- [[touchscreen-dat]] - [[touch-sensor-dat]]
 
 ### Sensors and actuator 
 
