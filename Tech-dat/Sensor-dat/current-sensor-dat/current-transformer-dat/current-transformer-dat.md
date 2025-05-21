@@ -5,7 +5,7 @@
 
 ## PCB Mount 
 
-- [[zeming-dat]]
+- [[zeming-dat]] - [[EDCT-dat]]
 
 
 ## Open Split Core Current Transformer
@@ -41,4 +41,6 @@ Here's a breakdown:
 ## ref 
 
 
-- [[current-sensor]]
+- [[current-sensor-dat]] 
+
+- [[current-transformer]]
