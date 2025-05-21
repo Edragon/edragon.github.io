@@ -68,6 +68,38 @@ The three-character code with the letter-number-letter format is used for capaci
 
 - [[start-capacitor-dat]] - [[CBB-capacitor-dat]]
 
+
+### DC blocking capacitor
+
+
+## What is a DC Blocking Capacitor?
+
+A **DC blocking capacitor** is an electronic component used to:
+
+- **Block DC (direct current)** signals
+- **Pass AC (alternating current)** signals
+
+### How it works:
+- Capacitors **do not allow DC** to flow through once fully charged.
+- Capacitors **allow AC** to pass because the voltage across them is always changing.
+
+### Common Usage:
+- Audio circuits (to prevent DC offset)
+- Signal coupling between stages of amplifiers
+- Input protection for sensitive devices
+
+### Symbol:
+
+    ---||---
+
+### Example:
+
+In an audio amplifier:
+
+The capacitor blocks DC from the source, letting only the AC audio signal pass.
+
+
+
 ## ref 
 
 
