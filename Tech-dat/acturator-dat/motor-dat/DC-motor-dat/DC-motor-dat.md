@@ -34,6 +34,8 @@
 
 Series = 19T / 21T / 27T / 35T / 45T / 55T / 60T / 80T
 
+![](2025-05-21-12-51-19.png)
+
 ### Summary Table
 
 | Spec   | 45T / 55T Motor       | 130 / 230 Motor           |
