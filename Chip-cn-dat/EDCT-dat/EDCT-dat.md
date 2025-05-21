@@ -16,3 +16,7 @@ ED-CTM-200-X 1000/1 20A/20mA
 ED-CTM-200-Z1 1000/1 20A/20mA
 
 ![](2025-05-22-01-07-11.png)
+
+## ref 
+
+- [[current-transformer-dat]]
