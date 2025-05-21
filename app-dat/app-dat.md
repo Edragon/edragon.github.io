@@ -28,6 +28,8 @@
 
 - [[ardupilot-dat]] - [[RC-dat]]
 
+- [[rover-dat]] - [[rc-car-dat]] - [[tank-dat]]
+
 - [[quadcopter-dat]] - [[FPV-dat]] - [[UAV-dat]]
 
 - [[parachute-dat]] - [[rocket-dat]] - [[blimp-dat]]
