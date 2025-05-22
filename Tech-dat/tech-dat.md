@@ -33,7 +33,7 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] 
+- [[mcu-dat]] - [[development-board-dat]]
 
 - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
@@ -97,7 +97,7 @@
 
 ## Mechnicals 
 
-- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]]
+- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]]
 
 
 
