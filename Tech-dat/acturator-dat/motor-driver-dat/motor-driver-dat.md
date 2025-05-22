@@ -65,6 +65,8 @@
 | **VNH5019**   | 5.5V – 24V    | 12A (30A peak)      | ~20kHz       | High-power, onboard protection, great for large motors                     |
 | **BTN7960B**  | 5.5V – 27V    | 43A (55A peak)      | ~25kHz       | High-current half-bridge, excellent for industrial/heavy-duty applications |
 
+
+
 ## ref 
 
 - [[FOC-dat]]
