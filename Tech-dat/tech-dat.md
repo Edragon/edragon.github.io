@@ -51,7 +51,7 @@
 
 ### Sensors and actuator 
 
-- [[sensor-dat]] - [[current-sensor-dat]]
+- [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
 - [[acturator-dat]] - [[motor-dat]]
 
