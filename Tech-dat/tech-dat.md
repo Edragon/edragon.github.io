@@ -53,7 +53,7 @@
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
-- [[acturator-dat]] - [[motor-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]
 
 
 
