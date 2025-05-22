@@ -4,8 +4,15 @@
 
 - [[motion-system-dat]] - [[alu_extrusion-dat]]
 
+## 3D View 
 
+- [Left_Y-Axis v57](https://cad.onshape.com/documents/c6c2df50708e7f3b3bdd1235/w/a091b3a187098a7df70344eb/e/85a73d9e9139f096981ebfe6?renderMode=0&uiState=682ece46447db7752b1a79c2)
 
+- [Right_Y-Axis v52](https://cad.onshape.com/documents/caa9649074b1dcc789a02fbf/w/3ba5ea3531639c05f171b2ee/e/9ba6c82d665ae134b9935a71?renderMode=0&uiState=682ece7792858f230c1ece6f)
+
+- [Tension Slider](https://cad.onshape.com/documents/5505e0ab03b834fce58c588d/w/b7f6cb5a7af7f599f29512b0)
+
+- [Star_Knob v8](https://cad.onshape.com/documents/694de8e1c92f13f25e4a9d52/w/3b9c73ba1f0bf923f028b6e2/e/07f3dd4281d0f8d2734b5ea0)
 
 ## Tension Slider Assembly BOM List 
 
