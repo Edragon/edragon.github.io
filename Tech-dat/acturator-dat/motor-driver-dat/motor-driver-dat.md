@@ -42,6 +42,8 @@
 
 ## Comparison 
 
+TB6612FNG vs. L298N
+
 | Feature                 | TB6612FNG           | L298N               |
 | ----------------------- | ------------------- | ------------------- |
 | Motor Voltage Range     | 2.5V – 13.5V        | 5V – 46V            |
@@ -54,6 +56,9 @@
 | PWM Frequency Support   | Up to 100 kHz       | <25 kHz             |
 | Size                    | Small, modern       | Large, bulky        |
 | Cost                    | Moderate            | Low                 |
+
+
+more options
 
 | Chip/Module   | Voltage Range | Continuous Current  | PWM Freq.    | Features & Notes                                                           |
 | ------------- | ------------- | ------------------- | ------------ | -------------------------------------------------------------------------- |
