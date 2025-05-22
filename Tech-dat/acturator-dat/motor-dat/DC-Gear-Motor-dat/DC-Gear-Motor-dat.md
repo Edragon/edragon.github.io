@@ -10,7 +10,7 @@
 # reduction-gear-motor-dat
 
 
-- [[N20-motor-dat]] - [[MG513-dat]]
+- [[N20-motor-dat]] - [[MG513-dat]] - [[MG540-dat]] - [[MG545-dat]]
 
 - [[torque-dat]]
 
