@@ -29,3 +29,16 @@
 | Terrain Handling  | Superior on soft/uneven ground   | Best on smooth/hard ground       |
 | Weight Support    | High                             | Moderate                         |
 | Maintenance       | More complex and expensive       | Easier and cheaper               |
+
+
+## BOMS 
+
+Cogs
+
+![](2025-05-22-14-09-36.png)
+
+![](2025-05-22-14-11-57.png)
+
+Chains 
+
+![](2025-05-22-14-10-22.png)

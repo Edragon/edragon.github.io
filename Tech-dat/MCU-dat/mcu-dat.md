@@ -75,6 +75,7 @@ Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter
 | ATmega328P + DC-DC | External     | ~$1.5 total    | ⭐⭐⭐        | Classic and cheap combo          |
 
 
+
 ## ref 
 
 - [[MCU]]

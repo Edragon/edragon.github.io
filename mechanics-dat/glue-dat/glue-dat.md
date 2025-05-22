@@ -1,6 +1,7 @@
 
 # glue-dat
 
+- often remove options - [[velcro-dat]]
 
 - [[hot-gun-glue-dat]] - [[502-glue-dat]] - [[epoxy-glue-dat]] (AB Glue) - [[uv-glue-dat]]
 
