@@ -174,6 +174,8 @@ LED control - [[ILC1063-dat]]
 [[ACDC-dat]]
 - [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]] - [[OPM1065-dat]] - [[OPM1114-dat]]
 
+- [[OPM1068-dat]]
+
 battery holder - [[OPM1189-dat]]
 
 battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
