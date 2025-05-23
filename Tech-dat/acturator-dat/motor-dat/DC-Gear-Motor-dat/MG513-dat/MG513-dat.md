@@ -51,4 +51,6 @@ Note: Ke and Kt are the parameters of the motor itself (without reduction gearbo
 
 ## ref 
 
-- [[reduction-gear-motord-dat]]
+- [[dc-gear-motor-dat]]
+
+- [[MG513]] - [[motor]]
