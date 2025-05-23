@@ -42,3 +42,13 @@ Cogs
 Chains 
 
 ![](2025-05-22-14-10-22.png)
+
+
+## guide 
+
+- [tank #track disassemble and re-assemble](https://t.me/electrodragon3/371)
+
+
+## ref 
+
+- [[robot-dat]] - [[tank-dat]]
