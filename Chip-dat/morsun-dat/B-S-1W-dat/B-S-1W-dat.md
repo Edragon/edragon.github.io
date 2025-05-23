@@ -40,7 +40,7 @@ datasheet
 
 **Inside Circuitry**: Although I didn’t get a worthy chance to break apart the B0505S-1W module, it came to my notice that its inside electronics is mainly based on the “Royer Oscillator” (https://en.wikipedia.org/wiki/Royer_oscillator) circuit. 
 
-As far as I know, the traditional Royer oscillator circuit only provides basic functions but once the circuit is abnormal, the  module may be damaged and even cause serious consequences. **At present, the module is available without a continuous short circuit protection (SCP) feature!**
+As far as I know, the traditional Royer oscillator circuit only provides basic functions but once the circuit is abnormal, the  module may be damaged and even cause serious consequences. **At present, the module is available without a continuous short circuit protection (SCP) feature!** - [[SCP-dat]] - [[protection-dat]]
 
 [read more on this post. - MORNSUN® B0505S-1W Review](https://www.codrey.com/electronic-circuits/mornsun-b0505s-1w-review/)
 
