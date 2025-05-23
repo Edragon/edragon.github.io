@@ -20,6 +20,9 @@
 
 - [[rc-car-dat]] - [[robot-arm-dat]]
 
+- [[balancer-dat]]
+
+
 
 ## Code and SDK 
 

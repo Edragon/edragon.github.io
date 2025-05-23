@@ -189,6 +189,51 @@ If the battery is at **2.6V**, it's very close to this cutoff threshold, and the
 - battery voltage B+/B- = OK, output == 0V, BMS problem 
 
 
+
+
+## 📋 Common Cylindrical Lithium-Ion Battery Types
+
+| Type     | Size (mm)           | Capacity Range (approx.)     | Common Uses                         |
+|----------|---------------------|-------------------------------|-------------------------------------|
+| 14500    | 14 x 50              | 600–1000 mAh                  | Flashlights, small electronics      |
+| 16340    | 16 x 34              | 700–1400 mAh                  | Flashlights, laser pointers         |
+| 18350    | 18 x 35              | 800–1400 mAh                  | Compact flashlights, vaping mods    |
+| 18650    | 18 x 65              | 1800–3500+ mAh                | Laptops, power banks, e-bikes       |
+| 21700    | 21 x 70              | 3000–5000+ mAh                | Electric cars, high-performance tools|
+| 26650    | 26 x 65              | 4000–6000+ mAh                | Flashlights, power tools, e-bikes   |
+| 32650    | 32 x 65              | 6000–7000+ mAh                | Energy storage, high-capacity uses  |
+
+
+🧠 Which to Choose?
+18650: Most versatile and widely used.
+
+21700: Replacing 18650 in high-drain applications (e.g., Tesla).
+
+26650: Best for high-capacity flashlights and tools where size is less of a concern.
+
+Smaller types (e.g., 14500): Used in compact or AA-sized electronics.
+
+
+
+
+## 🔌 Notes on Battery Chemistry
+
+Most of these are Lithium-Ion (Li-ion) or Lithium Iron Phosphate (LiFePO₄):
+
+Li-ion: Higher energy density, common in consumer electronics.
+
+LiFePO₄: Lower energy density, but longer cycle life and more stable — often used in solar and industrial applications.
+
+## 🔒 Protected vs Unprotected
+
+Protected cells: Include a small circuit to prevent overcharge, overdischarge, and short-circuit.
+
+Unprotected cells: Require careful handling but are often used in custom battery packs or devices with built-in protection.
+
+
+
+
+
 ## large battery 
 
 48V 

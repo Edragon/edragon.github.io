@@ -11,7 +11,7 @@
 
 - [[robot-dat]]
 
-- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]]
+- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[battery-rechargerable-dat]]
 
 - [[network-dat]] 
 
@@ -53,7 +53,7 @@
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]]
 
 
 
@@ -99,7 +99,7 @@
 
 - [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]]
 
-
+- [[3D-dat]]
 
 ## Circuits 
 

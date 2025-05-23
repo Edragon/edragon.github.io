@@ -1,6 +1,17 @@
 
 # motion-control-system-dat
 
+
+
+## motor RC type 
+
+- [[SDR1064-dat]] 
+
+- [[robot-dat]]
+
+
+## machine type 
+
 - [[CNC-dat]]
 
 
