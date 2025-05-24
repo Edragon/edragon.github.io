@@ -9,3 +9,9 @@ Protection:
 - over-current protection. 
 
 Board will lock and recover when turn it on/off. - [[protection-dat]]
+
+
+
+## ref 
+
+- [[OPM1068]]
