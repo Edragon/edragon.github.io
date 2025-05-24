@@ -5,7 +5,7 @@
 
 ## motor specs 
 
-- [[torque-dat]]
+- [[torque-dat]] - [[start-capacitor-dat]]
 
 ## motor type 
 
@@ -73,6 +73,9 @@ brushless
 ![](2025-04-02-17-27-47.png)
 
 ![](2025-04-02-17-28-34.png)
+
+
+
 
 
 ## ref 

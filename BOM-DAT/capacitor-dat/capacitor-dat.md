@@ -100,6 +100,14 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 
 
 
+##  None-Polarized Capacitors
+
+![](2025-05-24-19-47-18.png)
+
+
+
+
+
 ## ref 
 
 
