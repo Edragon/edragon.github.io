@@ -1,7 +1,7 @@
 
 # glue-dat
 
-- often remove options - [[velcro-dat]]
+
 
 - [[hot-gun-glue-dat]] - [[502-glue-dat]] - [[epoxy-glue-dat]] (AB Glue) - [[uv-glue-dat]]
 
@@ -121,3 +121,9 @@ Some filaments (like PETG or nylon) may feel **greasy** or attract **oil/dust**,
 - Use **plastic primers** or **specialized adhesives** (like epoxy or polyurethane)
 - For tricky materials like nylon or TPU, use **heat welding**, **mechanical fasteners**, or **special plastic adhesives**
 
+
+
+
+## ref 
+
+- [[mechanics-dat]]
