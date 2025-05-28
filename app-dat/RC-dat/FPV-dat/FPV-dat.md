@@ -228,10 +228,11 @@ In FPV drones, the **wheelbase** refers to the **diagonal distance between the c
 | Size Category  | Typical Wheelbase | Prop Size | Usage                            |                    |
 | -------------- | ----------------- | --------- | -------------------------------- | ------------------ |
 | **Tiny Whoop** | 65–75 mm          | 31–40 mm  | Indoor, safe micro flying        | Meteor75, Aquila16 |
-| **Micro**      | 85–120 mm         | 2"–2.5"   | Indoor/outdoor, cinewhoop        | BEE25, Pavo25      |
+| **Micro**      | 85–120 mm         | 2"–2.5"   | Indoor/outdoor, cinewhoop        | BEE25, Pavo25, Pavo20 = 90mm      |
 | **Mini**       | 130–180 mm        | 3"–4"     | Freestyle, racing                |                    |
 | **Standard**   | 200–250 mm        | 5"        | Freestyle, long-range, cinematic |                    |
 | **Large**      | 250+ mm           | 6"+       | Long-range, heavy payloads       |                    |
+
 
 ---
 
