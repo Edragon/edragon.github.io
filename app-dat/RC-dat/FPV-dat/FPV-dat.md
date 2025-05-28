@@ -202,6 +202,49 @@ SpeedyBee Frame
 
 
 
+## BEE25 
+
+Propeller Size: 2.5 inches
+
+The SpeedyBee Bee25 is a compact 2.5-inch cinewhoop drone designed for agility and portability, especially suited for indoor and tight-space flying.
+
+
+## wheelbase 
+
+In FPV drones, the **wheelbase** refers to the **diagonal distance between the centers of the two furthest-apart motors**, usually measured in **millimeters (mm)**. It’s a standard way to classify the size of a drone frame.
+
+---
+
+### 🧩 Why Wheelbase Matters
+
+- **Determines Propeller Size**: Larger wheelbase = larger props supported.
+- **Affects Maneuverability**: Smaller wheelbase = more agile, Larger = more stable.
+- **Influences Payload**: Bigger wheelbase frames can carry heavier gear (e.g., action cameras, larger batteries).
+
+---
+
+### 📏 Common FPV Drone Wheelbase Categories
+
+| Size Category  | Typical Wheelbase | Prop Size | Usage                            |                    |
+| -------------- | ----------------- | --------- | -------------------------------- | ------------------ |
+| **Tiny Whoop** | 65–75 mm          | 31–40 mm  | Indoor, safe micro flying        | Meteor75, Aquila16 |
+| **Micro**      | 85–120 mm         | 2"–2.5"   | Indoor/outdoor, cinewhoop        | BEE25, Pavo25      |
+| **Mini**       | 130–180 mm        | 3"–4"     | Freestyle, racing                |                    |
+| **Standard**   | 200–250 mm        | 5"        | Freestyle, long-range, cinematic |                    |
+| **Large**      | 250+ mm           | 6"+       | Long-range, heavy payloads       |                    |
+
+---
+
+### 📌 Examples
+
+- **Meteor75** → **75mm wheelbase** → Tiny Whoop class
+- **SpeedyBee Bee25** → **120mm wheelbase** → Micro/Cinewhoop class
+
+## carryable action camera 
+
+- GoPro Naked (~20g)
+- Insta360 GO 2 (~27g)
+
 
 ## ref 
 
