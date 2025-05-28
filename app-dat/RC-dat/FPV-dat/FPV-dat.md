@@ -21,7 +21,7 @@
 
 - **Propellers**: Generate lift by spinning rapidly. The size and pitch of the propellers can significantly affect the drone's performance and flight characteristics.
 
-  - [[SCU1059-dat]]
+- [[SCU1059-dat]]
 
 - **Camera**: Captures real-time video for FPV flying. FPV cameras are designed to provide low-latency video transmission to the pilot's goggles or screen.
 
