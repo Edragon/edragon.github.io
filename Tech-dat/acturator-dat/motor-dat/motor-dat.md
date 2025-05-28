@@ -27,6 +27,8 @@ brushless
 
 - [[vibrator-dat]]
 
+- [[FPV-motor-dat]]
+
 | Type                           | Brushed / Brushless | Key Traits                                     | Application                              |
 | ------------------------------ | ------------------- | ---------------------------------------------- | ---------------------------------------- |
 | **Coreless DC motors**         | Brushed             | Very lightweight, fast acceleration            | Drones, medical tools, high-end RC       |
