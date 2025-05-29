@@ -22,3 +22,8 @@ The design of this frame emphasizes aerodynamics, providing good aerodynamic per
 ![](2025-05-29-13-06-22.png)
 
 
+## ref 
+
+- [[speedybee-dat]] - [[FPV-dat]]
+
+- [[VTX-dat]] - [[MS-519-dat]] - [[camera-dat]] - [[bee25-dat]]
