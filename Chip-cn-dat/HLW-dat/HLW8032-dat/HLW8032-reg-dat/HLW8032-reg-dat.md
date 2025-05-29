@@ -38,7 +38,7 @@ Voltage Coefficient =
 
 **Effective Voltage Calculation**
 
-    1888800 / 1618 * (voltage Coefficient) 1.88 = 219.372V 
+    V_Para_Reg / V_reg * V_coefficient = 1888800 / 1618 * 1.88 = 219.372V 
 
 Therefore, the effective voltage is approximately 219.372V.
 
@@ -55,7 +55,7 @@ Therefore, the effective voltage is approximately 219.372V.
 
     seperated: F2 | 5A | 02 DC D0 | 04 C8 20 | 00 3E 4E | 03 7C A6 | 4E 2B B8 | B9 8A BB | 61 | 00 01 | DC
 
-    convert to int: 85 90 2 220 208 4 134 64 0 62 78 4 25 218 78 43 184 235 216 59 97 0 0 139
+    convert to int: 242 90 2 220 208 4 134 64 0 62 78 4 25 218 78 43 184 235 216 59 97 0 0 139
 
 |                            | hex      | dec / int  |
 | -------------------------- | -------- | ---------- |

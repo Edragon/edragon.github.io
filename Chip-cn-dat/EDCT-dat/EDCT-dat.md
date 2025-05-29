@@ -20,3 +20,5 @@ ED-CTM-200-Z1 1000/1 20A/20mA
 ## ref 
 
 - [[current-transformer-dat]]
+
+- [[EDCT]] - [[current-transformer]]
