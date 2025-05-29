@@ -37,3 +37,5 @@ Then, use the coefficients K1, K2, and K3 as constants for calculating power, vo
 - [[zeming-dat]]
 
 - [[HLW8032-dat]] - [[HLW-dat]]
+
+- [[HLW8032-ISO-version]] - [[HLW]]
