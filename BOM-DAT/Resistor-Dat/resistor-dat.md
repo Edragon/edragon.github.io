@@ -17,6 +17,20 @@ Burden Resistor:
 Purpose: To provide a load for the secondary winding of a current transformer (CT) and to convert the CT's output current into a measurable voltage.
 
 
+### Surface-Mount Resistor Sizes and Power Ratings
+
+| Package | Dimensions (inch) | Dimensions (mm) | Typical Power Rating |
+|---------|-------------------|------------------|------------------------|
+| R0201   | 0.02 × 0.01        | 0.6 × 0.3         | 0.05 W (1/20 W)        |
+| R0402   | 0.04 × 0.02        | 1.0 × 0.5         | 0.063 W (1/16 W)       |
+| R0603   | 0.06 × 0.03        | 1.6 × 0.8         | 0.10 W (1/10 W)        |
+| R0805   | 0.08 × 0.05        | 2.0 × 1.25        | 0.125 W (1/8 W)        |
+| R1206   | 0.12 × 0.06        | 3.2 × 1.6         | 0.25 W (1/4 W)         |
+| R1210   | 0.12 × 0.10        | 3.2 × 2.5         | 0.5 W                  |
+| R2010   | 0.20 × 0.10        | 5.0 × 2.5         | 0.75 W                 |
+| R2512   | 0.25 × 0.12        | 6.3 × 3.2         | 1.0 W                  |
+| R4527   | 0.45 × 0.27        | 11.5 × 6.8        | 2.0 W – 3.0 W          |
+
 
 ## E96 
 
@@ -45,4 +59,4 @@ C = 1K
 
 ## ref 
 
-- [[BOM-dat]]
+- [[BOM-dat]] - [[resistor]]
