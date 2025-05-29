@@ -29,3 +29,14 @@ Both are widely used in similar applications (signal isolation, microcontroller 
 The PC817 offers **higher isolation voltage**, making it more suitable for high-voltage isolation.
 
 The EL357 has a **wider operating temperature range**, which may be beneficial in harsh environments.
+
+
+
+## circuits 
+
+![](2025-05-29-16-00-18.png)
+
+
+## ref 
+
+- [[tech-dat]]

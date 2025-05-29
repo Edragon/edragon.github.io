@@ -1,10 +1,10 @@
 
 # Goggles-dat
 
-[DJI Goggles 3, FPV Goggles with Stunning Micro-OLED Screens, Immersive Flight Experience, O4 HD Video Transmission, Adjustable Diopters, Wireless Streaming, Drone Goggles with Real View PiP](https://www.amazon.com/DJI-Micro-OLED-Experience-Transmission-Adjustable/dp/B0CS6L6D6J/ref=sr_1_17?dib=eyJ2IjoiMSJ9.85xi15ftM4OWw33_siXrDRGNOKuf3CgQct4cVlBOFqI1ZAAZD4Gz_S4U_wqEKgjxWcsGOZPlWkdGdEASaTJntO1H_pFgsXO61wuEgveKAmLTLHR-cjsa5SOhaKUXU0vVHE7oijzqLoIPsx-H55gYNPr_F8aMX98OqPfwk64Ma12qrNSidLDVokmdegWL621v3U-5PDEaMNTjdACgOTHEBxAGhtxksaYVouWcSkxMCTI-jr0FkvxyQeZmO6S-UjXJcEcChxa4sPMjVyiK7070XhJlH2EnXqgnv0KScl80Jqc.AzbbGJAa2ls6bQWRCrudB-jGcm6vKV7pRItsIyBMpdA&dib_tag=se&keywords=FPV&qid=1744201259&sr=8-17)
+
+- [[DJI-dat]] - [[fat-shark-dat]] - [[sky-zone-dat]]
 
 
-[Fat Shark Recon Echo FPV Goggles](https://www.amazon.com/Fat-Shark-Recon-Echo-Goggles/dp/B0CTB8VLYQ/ref=sr_1_41?dib=eyJ2IjoiMSJ9.85xi15ftM4OWw33_siXrDRGNOKuf3CgQct4cVlBOFqI1ZAAZD4Gz_S4U_wqEKgjxWcsGOZPlWkdGdEASaTJntO1H_pFgsXO61wuEgveKAmLTLHR-cjsa5SOhaKUXU0vVHE7oijzqLoIPsx-H55gYNPr_F8aMX98OqPfwk64Ma12qrNSidLDVokmdegWL621v3U-5PDEaMNTjdACgOTHEBxAGhtxksaYVouWcSkxMCTI-jr0FkvxyQeZmO6S-UjXJcEcChxa4sPMjVyiK7070XhJlH2EnXqgnv0KScl80Jqc.AzbbGJAa2ls6bQWRCrudB-jGcm6vKV7pRItsIyBMpdA&dib_tag=se&keywords=FPV&qid=1744201259&sr=8-41)
 
 
 - eye view == 155 degree 
@@ -16,6 +16,51 @@
 - stablization 
 
 - battery 
+
+
+
+## Rotorama 008D Pro
+
+
+Rotorama 008D are basic FPV goggles for starting FPV pilots. The basis is a 4.3" IPS display with an aspect ratio of 16:9 and a resolution of 800x480 pixels, which is sufficient for displaying an analog video signal. The reception is taken care of by a dual receiver supporting all the usual 40 channels. In the package you can find two basic antennas with circular polarization. The goggles support the DVR function, when the received image can be recorded on an SD card of up to 32GB (FAT32). It is possible to connect headphones or an external video receiver.  Power is provided by an integrated battery with a capacity of 2000mAh, which is enough for 2-3 hours of operation. The battery is charged via USB connector. The goggles are delivered in a hard case with a zipper.
+
+Key Features
+- Size: 144x155x113mm
+- Connector: RP-SMA
+- Receiver: Dual 40Ch
+- Display: 4.3" IPS 800x480px 16:9
+- Battery: Integrated 2000mAh
+- Input voltage: 5-23V
+- Supporting DVR
+
+
+## BeeRotor
+
+-   **Second Generation Upgrades:**
+    -   New DVR recording function, can record flight video in real-time, and play back flight recordings.
+    -   With audio recording function, can record the sound of the aircraft flying in the air.
+    -   Increased fan and heat dissipation holes, can effectively prevent fogging of the lens during long-term use.
+    -   Comes with new BEEROTOR mushroom antenna and flat panel antenna for better performance.
+    -   Dual 5.8G reception, high sensitivity, strong anti-interference ability, good reception effect.
+    -   Built-in 5-inch high-definition screen, strong FPV immersion, making the flight feel immersive.
+    -   The shell is made of EPP molding, ultra-light and drop-resistant, weighing only 236g.
+    -   2-6S LIPO wide voltage input, low battery requirements, strong applicability.
+
+-   **Product Parameters:**
+    -   Dimensions: 165*150*115mm
+    -   Weight: Ready-to-use 242 grams (without antenna)
+        -   Or 264 grams (including flat panel and Honeydrop antenna)
+    -   Battery Voltage Range:
+        -   7-25VDC power supply range, 2S or 3S is recommended.
+        -   A 2200mAh 2S 7.4V battery can be used for approximately 3 hours of FPV.
+        -   When the battery is low, an external battery can be plugged in for charging while in use.
+    -   Display Screen Size: 5.0 inches, 800*480px
+    -   Brightness: 600cd/m2
+    -   Lens: 2.9x, PMMA, no dispersion, no distortion, Fresnel
+    -   Headband: Three-way adjustable T-strap
+
+## SkyZone 
+
 
 ## ref 
 
