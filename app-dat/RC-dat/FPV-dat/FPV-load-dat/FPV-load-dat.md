@@ -1,6 +1,9 @@
 
 # FPV-load-dat
 
+
+
+
 ## Can the BetaFPV Pavo25 (Bee25) Carry a 120g GoPro?
 
 Yes, the **BetaFPV Pavo25** can carry a **120g GoPro** (like the HERO11 Mini), but **with limitations**.

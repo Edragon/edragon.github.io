@@ -241,11 +241,7 @@ In FPV drones, the **wheelbase** refers to the **diagonal distance between the c
 - **Meteor75** → **75mm wheelbase** → Tiny Whoop class
 - **SpeedyBee Bee25** → **120mm wheelbase** → Micro/Cinewhoop class
 
-## carryable action camera 
 
-- GoPro Naked (~20g)
-- Insta360 GO 2 (~27g)
-- GoPro HERO11 Black Mini weighs 133 grams, If you remove the mounting fingers, you can reduce the weight by approximately 16 grams, bringing it down to around 117 grams. 
 
 - [[FPV-load-dat]]
 
