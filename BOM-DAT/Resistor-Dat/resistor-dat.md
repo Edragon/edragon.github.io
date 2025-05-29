@@ -3,11 +3,20 @@
 
 - [[shunt-resistor-dat]] - [[trim-pot-dat]]
 
-- [[sample-resistor-dat]]
-
 - [[Thermistor-dat]]（thermal + resistor)
 
-- [[burden-resistor-dat]]
+- [[burden-resistor-dat]] - [[sample-resistor-dat]]
+
+
+Shunt Resistor:
+
+Purpose: To measure current directly flowing through a circuit.
+
+Burden Resistor:
+
+Purpose: To provide a load for the secondary winding of a current transformer (CT) and to convert the CT's output current into a measurable voltage.
+
+
 
 ## E96 
 
