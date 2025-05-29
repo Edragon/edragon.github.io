@@ -7,9 +7,9 @@
 
 - [[ELRS-dat]] - [[FrSky-dat]] - [[ArduPilot-dat]] - [[CRSF-dat]]
   
-- [[BMS-dat]] - [[camera-dat]]
+- [[BMS-dat]] - [[camera-dat]] - [[VTX-dat]] - [[flight-controller]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
 
-
+- [[FPV]]
 
 ## parts of the FPV drones
 
