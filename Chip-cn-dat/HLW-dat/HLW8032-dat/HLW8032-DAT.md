@@ -65,7 +65,7 @@ Data format of HLW8032:
 
 ## ref
 
-- [[sample-resistor-dat]] - [[resistor-dat]]
+- [[sample-resistor-dat]] - [[resistor-dat]] - [[Optical-Coupler-DAT]]
 
 - [[HLW-dat]]
 
