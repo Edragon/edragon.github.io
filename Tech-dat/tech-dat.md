@@ -64,7 +64,7 @@
 - [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]]
 
 
-## Utilities  
+## Utilities 
 
 - [[RTC-dat]] - [[buffer-dat]] 
 
@@ -93,7 +93,7 @@
 
 - [[PCB-dat]] - [[PCBA-dat]]
 
-
+- [[tools-dat]] - [[instrument-dat]]
 
 ## Mechnicals 
 
