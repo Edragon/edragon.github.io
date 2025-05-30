@@ -13,11 +13,11 @@
 
 ## The best overall FPV drone Starting Kit 
 
-- [[RC-dat]] == [[radiomaster-dat]]
+- [[RC-dat]] == [[radiomaster-dat]] = 50 USD
 
-- [[goggles-dat]] == [[walksnail-dat]]
+- [[goggles-dat]] == [[walksnail-dat]] = 180 USD
 
-- [[drone-maker-dat]] == [[mobula8-dat]] == [[happymodel-dat]]
+- [[drone-maker-dat]] == [[mobula8-dat]] == [[happymodel-dat]] == 120 USD
 
 
 
