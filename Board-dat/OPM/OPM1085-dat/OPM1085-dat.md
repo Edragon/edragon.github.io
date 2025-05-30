@@ -12,6 +12,8 @@
 - legacy wiki page - https://w.electrodragon.com/w/index.php?title=CV%26CC&CV_Buck_Step-Down_Power_Module=
 
 
+
+
 ## charge capacitor 
 
 - 5V to 2.7V
@@ -21,4 +23,4 @@
 
 ## ref 
 
-- [[OPM1085]]
+- [[OPM1085]] - [[XL-dat]]
