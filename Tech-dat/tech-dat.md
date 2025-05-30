@@ -1,6 +1,8 @@
 
 # tech 
 
+- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[battery-rechargerable-dat]]
+
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
 - [[BOM-dat]] - [[cable-dat]]
@@ -10,8 +12,6 @@
 - [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[camera-dat]]
 
 - [[robot-dat]]
-
-- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[battery-rechargerable-dat]]
 
 - [[network-dat]] 
 
@@ -91,7 +91,7 @@
 
 - [[soldering-dat]]
 
-- [[PCB-dat]]
+- [[PCB-dat]] - [[PCBA-dat]]
 
 
 
