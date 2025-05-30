@@ -1,6 +1,13 @@
 
 # electronic-loader-dat
 
+- [[KP182-dat]] - [[IT8511A-dat]]
+
+## mode: CC, CV, CW, CR
+
+![](2025-05-30-18-30-59.png)
+
+
 ## How to Test a 18650 Battery Capacity Using an Electronic Load
 
 ### ✅ What You Need:
@@ -61,3 +68,8 @@ If the load doesn’t show capacity:
 
     0.5A for 1.2 hour = 600 mAh
 
+
+
+## ref 
+
+- [[electronic-loader]]
