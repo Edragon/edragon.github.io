@@ -8,6 +8,7 @@
 
 - [[detecting-camera-dat]]
 
+- [[camera-analog-dat]] - [[camera-digital-dat]] - [[camera-action-dat]]
 
 ## boards 
 
@@ -73,13 +74,16 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 - [[video-RC-car-dat]] - [[video-transmission-dat]] - [[esp32-app-dat]]
 
-# other camera types 
+
+
+## other camera types 
 
 - GC0328
 
 
 - GC0328 dual camera (horizontal screen) for MF1 only
 - OS08A20 camera for M4Ndock
+
 
 
 
