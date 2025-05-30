@@ -89,7 +89,7 @@
 
 ## Tools and Soldering 
 
-- [[soldering-dat]]
+- [[soldering-dat]] - [[desoldering-dat]]
 
 - [[PCB-dat]] - [[PCBA-dat]]
 
