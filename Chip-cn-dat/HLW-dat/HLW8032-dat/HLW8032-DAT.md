@@ -67,8 +67,6 @@ Data format of HLW8032:
 
 - [[sample-resistor-dat]] - [[resistor-dat]] - [[Optical-Coupler-DAT]] - [[current-transformer-dat]] - [[78L05-dat]] - [[wire-2-wire-dat]] - [[ACDC-dat]] - [[AC-dat]]
 
-- [[HLW-dat]]
+- [[AC-mains-dat]]
 
-- [[HLW8032.pdf]]
-
-- [[HLW8012-dat]] 
+- [[HLW-dat]] - [[HLW8032.pdf]] - [[HLW8012-dat]] 
