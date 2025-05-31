@@ -33,6 +33,6 @@ Pins Definitions
 
 ## ref 
 
-- [[HLW8032-dat]] - [[HLW-dat]]
+- [[HLW8032-dat]] - [[HLW-dat]] - [[resistor-dat]]
 
 - [[svc1035]]
