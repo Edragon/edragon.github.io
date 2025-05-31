@@ -45,22 +45,31 @@ All the remaining module in STC-013 series comes with Inbuilt burden resistor. N
 
 ## code 
 
-[“EmonLib.h”](https://github.com/openenergymonitor/EmonLib) Electricity monitoring library designed by https://openenergymonitor.org is best for voltage and current measurement usign Arduino Code.
+[“EmonLib.h”](https://github.com/openenergymonitor/EmonLib) 
 
-#include “EmonLib.h” // Include Emon Library
+https://github.com/openenergymonitor/EmonLib/blob/master/examples/current_only/current_only.ino
 
-EnergyMonitor emon1; // Create an instance
 
-void setup()
-{
-    Serial.begin(9600);
-    emon1.current(1, 111.1); // Current: input pin, calibration.
-}
+Electricity monitoring library designed by https://openenergymonitor.org is best for voltage and current measurement usign Arduino Code.
 
-void loop()
-{
-    double Irms = emon1.calcIrms(1480); // Calculate Irms only
-    Serial.print(Irms*230.0); // Apparent power
-    Serial.print(” “);
-    Serial.println(Irms); // Irms
-}
+    #include “EmonLib.h” // Include Emon Library
+
+    EnergyMonitor emon1; // Create an instance
+
+    void setup()
+    {
+        Serial.begin(9600);
+        emon1.current(1, 111.1); // Current: input pin, calibration.
+    }
+
+    void loop()
+    {
+        double Irms = emon1.calcIrms(1480); // Calculate Irms only
+        Serial.print(Irms*230.0); // Apparent power
+        Serial.print(” “);
+        Serial.println(Irms); // Irms
+    }
+
+
+## ref 
+
