@@ -5,7 +5,7 @@
 
 - [[simcom-at-sscom-dat.exe]] - [[SSCOM51.ini]]
 
-## commandds 
+## Basic 
 
 ### AT+CREG
 
@@ -28,7 +28,7 @@
 
 
 
-## log 
+#### log 
 
 
     AT+CEREG?
@@ -45,8 +45,15 @@
 
     +CGEV: ME PDN ACT 8,1
 
+### AT+CGMM
 
-### web ping 
+    AT+CGMM
+    A7670SA-FASE
+
+    OK
+
+
+## web ping 
 
     AT+CPING="www.baidu.com",1,4,64,1000,10000,255
     OK
@@ -61,9 +68,15 @@
 
     +CPING: 3,4,4,0,125,840,310
 
-### AT+CGMM
 
-    AT+CGMM
-    A7670SA-FASE
 
-    OK
+## Call 
+
+    ATD18576608994;
+    +CME ERROR: no network service
+
+
+
+## ref 
+
+- [[SIMCOM-dat]]

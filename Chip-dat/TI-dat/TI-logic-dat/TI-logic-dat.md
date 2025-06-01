@@ -35,3 +35,5 @@ SN5545xB, SN7545xB Dual-Peripheral Drivers for High-Current, High-Speed Switchin
 ## ref 
 
 - [[transistor-array-dat]] - [[transistor-dat]]
+
+- [[BOM-dat]]
