@@ -15,6 +15,6 @@ HFBR-14xxZ and HFBR-24xxZ Series Low-Cost, 820-nm Miniature Link Fiber-Optic Com
 
 ## ref 
 
-- [[broadcom-dat]] - [[TI-logic-dat]]
+- [[broadcom-dat]] - [[TI-logic-dat]] - [[SN74541-dat]]
 
 

@@ -1,7 +1,16 @@
 
 # desoldering-dat
 
-- [[PSO1043-dat]] - [[PSO1038-dat]]
+- [[PSO1043-dat]] == desoldering pump 
+
+- [[PSO1038-dat]] == desoldering wire (wick)
+
+- [[hot-air-station-dat]]
+
+- [[Hot-Tweezer-dat]]: These are like regular tweezers but with heated tips. They can simultaneously heat and grip small two-leaded SMD components like resistors, capacitors, and SOT packages for easy removal.
+
+
+
 
 | Feature           | Desoldering Wire (Wick)        | Desoldering Pump                        |
 | ----------------- | ------------------------------ | --------------------------------------- |
@@ -16,9 +25,14 @@
 | **Item**          | [[PSO1043-dat]]                | [[PSO1038-dat]]                         |
 
 
+
+
 ## mess desoldering
 
 - [[preheat-bed-dat]]
+
+
+
 
 
 ## ref 

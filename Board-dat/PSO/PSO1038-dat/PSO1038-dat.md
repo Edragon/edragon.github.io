@@ -1,7 +1,11 @@
 
 # PSO1038-dat
 
-https://www.electrodragon.com/product/solder-wick-2mm-x-1-5m-desoldering-wire/
+
+[Desoldering Wire, Solder Wick 3mmx1.5m](https://www.electrodragon.com/product/solder-wick-2mm-x-1-5m-desoldering-wire/)
+
+
+
 
 ## ref 
 

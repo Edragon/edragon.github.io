@@ -1,6 +1,8 @@
 
 # GNSS-dat 
 
+- [[simcom-at-sscom-location-dat]]
+
 - [[beidou-dat]] - [[GPS-dat]] - [[GLONASS-dat]]
 
 - gnss protocol - [[quectel_l76-lbl26-lblc86l_gnss_protocol_specification_v2-2.pdf]]
@@ -93,6 +95,41 @@ PMTK605 PMTK_Q_RELEASE - Queries the firmware release information. See PMTK_DT_R
     $PMTK705,MT3333_AXN5.1.9_MODULE_STD_F1_P1,0007,Quectel-L76L,1.0*08
     $PMTK705,AXN_5.1.6_3333_19010218,0007,Quectel-L76L,1.0*53
 
+
+## GNSS Log 
+
+    $GBGSV,2,1,06,03,65,189,40,07,41,202,27,16,27,165,34,27,79,266,39,0*75
+    $GBGSV,2,2,06,28,46,154,39,32,50,281,47,0*7F
+    $GNRMC,081456.00,A,2234.27498,N,11353.24761,E,0.000,,010625,,,A,V*1E
+    $GNGGA,081456.00,2234.27498,N,11353.24761,E,1,13,1.36,28.7,M,,M,,*6D
+    $GNGSA,A,3,05,11,15,29,18,24,13,,,,,,2.04,1.36,1.53,1*03
+    $GNGSA,A,3,27,28,32,03,07,16,,,,,,,2.04,1.36,1.53,4*0C
+    $GPGSV,3,1,09,05,44,017,30,15,66,258,46,18,13,320,31,29,47,278,44,0*6A
+    $GPGSV,3,2,09,11,32,114,29,13,68,041,26,24,19,179,26,194,,,27,0*62
+    $GPGSV,3,3,09,199,,,26,0*59
+
+
+### GNSS Data Summary (June 1, 2025, 08:14:56 UTC)
+
+| Parameter             | Value                                 |
+|-----------------------|----------------------------------------|
+| **Date/Time (UTC)**   | 2025-06-01 08:14:56                    |
+| **Fix Status**        | 3D Fix (Valid)                         |
+| **Latitude**          | 22° 34.27498′ N                        |
+| **Longitude**         | 113° 53.24761′ E                       |
+| **Altitude**          | 28.7 m above mean sea level            |
+| **Speed (Ground)**    | 0.000 knots (stationary)               |
+| **Satellites Used**   | 13 (GPS + BeiDou)                      |
+| **Satellites in View**| 15 (9 GPS, 6 BeiDou)                   |
+| **HDOP**              | 1.36 (Good)                            |
+| **VDOP**              | 1.53 (Good)                            |
+| **PDOP**              | 2.04                                   |
+| **GPS Satellites**    | 05, 11, 13, 15, 18, 24, 29, (194?), (199?) |
+| **BeiDou Satellites** | 03, 07, 16, 27, 28, 32                 |
+
+
 ## ref 
 
 - [[GPS-dat]] - [[quectel-GPS-dat]]
+
+- [[SIMCOM-dat]] - [[simcom-at-sscom-location-dat]]

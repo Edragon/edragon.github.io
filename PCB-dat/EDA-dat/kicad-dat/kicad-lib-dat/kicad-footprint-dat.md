@@ -17,7 +17,11 @@
     - USB_A_CNCTech_1001-011-01101_Horizontal == [[USB-A-dat]]
 - MountingHole 
     - MountingHole_3.2mm_M3  
-
+- Package_SO
+    - SOIC-8_5.3x5.3mm_P1.27mm
+    - SOIC-16_10.3x7.5mm_P1.27mm
+    - SOP-8_3.9x4.9mm_P1.27mm
+    - SOP-8_3.76x4.96mm_P1.27mm
 
 
 ## ref 
