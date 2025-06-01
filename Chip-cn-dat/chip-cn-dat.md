@@ -5,7 +5,7 @@
 
 - [[esp8266-modules-dat]]
 
-- [[SIMCOM-dat]] - [[quectel-dat]]
+- [[SIMCOM-dat]] - [[quectel-dat]] - [[A7670-dat]]
 
 - [[WCH-dat]]
 
