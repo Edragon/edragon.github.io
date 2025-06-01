@@ -2,6 +2,8 @@
 
 # battery-dat 
 
+- [[BMS-dat]]
+
 - [[battery-rechargerable-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
 
 - [[battery-pack-dat]] - [[battery-holder-dat]]

@@ -3,16 +3,18 @@
 
 ## Features 
 
-Gear Ratio 1:30
-Speed before reduction 10000rpm
-Speed after reduction 330rpm
-Rated current 1.44A
-Rated voltage 12V
-Rated power 15W
-Rated torque 2.6kg.cm
-Rated speed 280rpm
-Stall torque 10kg.cm
-Stall current 9A
+| specs                  | value    |
+| ---------------------- | -------- |
+| Gear Ratio             | 1:30     |
+| Speed before reduction | 10000rpm |
+| Speed after reduction  | 330rpm   |
+| Rated current          | 1.44A    |
+| Rated voltage          | **12V**  |
+| Rated power            | 15W      |
+| Rated torque           | 2.6kg.cm |
+| Rated speed            | 280rpm   |
+| Stall torque           | 10kg.cm  |
+| Stall current          | 9A       |
 
 
 

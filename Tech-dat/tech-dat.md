@@ -1,7 +1,7 @@
 
 # tech 
 
-- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[battery-rechargerable-dat]]
+- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]]
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
