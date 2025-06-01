@@ -195,7 +195,9 @@ USB
 
 [[dcdc-boost-dat]] - [[OPM1089-dat]] - [[OPMS022-dat]]
 
-LDO - [[LM317-dat]] - [[OPM1087-dat]]
+[[LDO-dat]] - [[LM317-dat]] - [[OPM1087-dat]]
+
+[[DCDC-down-dat]] - [[OPM1192-dat]]
 
 
 ### OPS 
@@ -416,6 +418,8 @@ Darlinton driver - [[SCU1024-dat]]
 - [[sdr1062-dat]] - [[SDR1060-dat]] - [[SDR1064-dat]]
 
 - [[L298-dat]]: - [[SDR1093-dat]] - [[SDR1034-dat]] - [[SDR1048-dat]] - [[SDR1053-dat]]
+
+- [[SDR1087-dat]]
 
 ### SMO
 

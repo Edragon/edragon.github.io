@@ -13,6 +13,10 @@
 
 - [[SDR1060-dat]] - [[SDR1076-dat]]
 
+- [[SDR1096-dat]]
+
+- [[TB6612-dat]] - [[SDR1059-dat]] - [[SDR1087-dat]] - [[MPC1114-dat]]
+
 ## chips 
 
 - [[ti-motor-dat]] 
@@ -20,6 +24,11 @@
 - [[toshiba-dat]] - [[TB6612-dat]] - [[TB6600-dat]] - board - [[SDR1059-dat]]
 
 - [[LW556-dat]] - [[TB6600-dat]] - [[DM430-dat]] - [[DM542-dat]]
+
+- [[allegro-dat]] - [[A4988-dat]] - [[A4954-dat]]
+
+
+
 
 ## stepper motor 
 

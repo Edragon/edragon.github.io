@@ -18,6 +18,8 @@
 
 [[realtek-dat]] - [[RTL8211-dat]]
 
+[[richtek-dat]]
+
 - [[STM32-dat]]
 
 - [[FTDI-dat]]

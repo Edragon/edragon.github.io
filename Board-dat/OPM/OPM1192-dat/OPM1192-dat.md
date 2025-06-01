@@ -1,7 +1,8 @@
 
 # OPM1192 dat 
 
-https://www.electrodragon.com/product/dcdc-buck-power-supply-module-4-5-30v-5a/
+[DCDC Buck Power Supply Module 4.5-30V 5A](https://www.electrodragon.com/product/dcdc-buck-power-supply-module-4-5-30v-5a/)
+
 
 
 default output 3.3V, customized 5V 
@@ -37,8 +38,10 @@ Also can be used to driver servo, set to 3A 5V max.
 
 ## ref
 
+- [[dcdc-dat]] - [[dcdc-down-dat]]
+
 - [[OPM1192]]
 
-- [[dcdc-dat]]
+
 
 
