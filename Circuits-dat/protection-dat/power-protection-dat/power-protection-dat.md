@@ -1,5 +1,43 @@
 
-# power-portection-dat
+
+
+
+# power-protection-dat
+
+## reverse-votlage-protection
+
+![](2025-03-24-19-39-56.png)
+
+
+## Example 2. for Motor Power Input 
+
+
+
+![](2025-06-01-17-51-12.png)
+
+- reverse-votlage-protection
+- voltage [[diode-zener-dat]] 6.8V - [[diode-dat]] == [[OVP-dat]] == over-voltage protection
+- inrush-protection 
+
+- ref == [[TB6612-dat]]
+
+
+### Inrush Protection 
+
+#### 🔧 1. Current Limiting for Transients / Inrush
+
+- When power is applied from **VMOT**, the capacitors (C1, C3, C4) initially act as short circuits.
+- R2 (1 Ω) limits the **inrush current** that charges capacitor **C1 (10 µF)**.
+- This protects components and reduces voltage spikes or noise.
+
+#### 🎛️ 2. Filtering / Decoupling
+
+- R2 and C1 form a **low-pass RC filter**.
+- This filter smooths out high-frequency noise from the supply line.
+- It helps ensure a stable voltage at the **VM** output node.
+
+- [[low-pass-rc-filter-dat]]
+
 
 ## reverse connection
 
@@ -85,3 +123,11 @@ To prevent damage to downstream circuits, several design strategies and protecti
 8. Using Protection ICs:
 
 There are integrated circuits specifically designed for power protection, offering multiple safeguards like overvoltage, overcurrent, overtemperature, and short-circuit protection. An example is the TPS series from Texas Instruments, which simplifies the design with built-in protections.
+
+
+
+
+## ref 
+
+- [[power-dat]]
+

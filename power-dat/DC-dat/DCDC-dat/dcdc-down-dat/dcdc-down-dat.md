@@ -12,7 +12,7 @@
 
 - [[OPM1192-dat]] - [[OPM1152-dat]]
 
-- [[richtek-dat]]
+- [[richtek-dat]] - [[RT8279-dat]]
 
 ### LM2596 = input 3~40V
 
@@ -85,6 +85,16 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 ## circuits 
 
 ![](2024-07-10-12-59-29.png)
+
+
+## PCB 
+
+[[RT8279-dat]] enlarge output pin 
+
+![](2025-06-01-17-39-05.png)
+
+
+
 
 ## ref 
 
