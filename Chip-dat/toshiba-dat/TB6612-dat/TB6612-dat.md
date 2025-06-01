@@ -3,7 +3,7 @@
 
 - [[TB6612FNG.pdf]]
 
-- [[SDR1059-dat]]
+- [[TB6612-dat]] - [[SDR1059-dat]] - [[SDR1087-dat]] - [[MPC1114-dat]]
 
 - [[motor-driver-dat]]
 
@@ -47,6 +47,8 @@ The actual current you can deliver will depend on how well you can keep the moto
 
 
 ## ref 
+
+- [[motor-driver-dat]]
 
 - [[dcdc-down-dat]]
 

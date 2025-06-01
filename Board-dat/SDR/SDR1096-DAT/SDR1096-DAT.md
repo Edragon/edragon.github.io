@@ -32,6 +32,8 @@ Other peripheral
 - D8 IN1
 - D9 Vref1
 
+- [[A4954-dat]]
+
 #### AS5047D: decoder, provding close-loop feedback
 - A2 SPI_SS
 - D11 SPI_MOSI
