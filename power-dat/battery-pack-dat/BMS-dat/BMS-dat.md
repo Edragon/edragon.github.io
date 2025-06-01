@@ -1,9 +1,27 @@
 
 # BMS-dat
 
+
+## 3. Protection Features
+
+Look for these essential protections:
+
+| Protection Type          | Description                              |
+|--------------------------|----------------------------------------|
+| Overcharge protection     | Stops charging if cell voltage too high|
+| Overdischarge protection  | Prevents deep discharge that damages cells |
+| Overcurrent protection    | Cuts off current if it exceeds safe limits |
+| Short circuit protection  | Immediate cutoff on short circuit detection |
+| Balancing                | Balances cells to keep voltages equal (especially important for multi-cell packs) |
+| Temperature protection    | Monitors temperature to avoid overheating |
+
+- also check the board's temperature rising when dishcarging 
+
 ## 🔋 Active vs. Passive BMS
 
 A **Battery Management System (BMS)** monitors and protects battery packs, especially lithium-based ones, from overcharging, overdischarging, and overheating. It also performs **cell balancing** to maintain consistent voltage across cells.
+
+
 
 ---
 
