@@ -17,7 +17,7 @@
 
 - [[ti-motor-dat]] 
   
-- [[toshiba-dat]] - [[TB6612-dat]] - [[TB6600-dat]]
+- [[toshiba-dat]] - [[TB6612-dat]] - [[TB6600-dat]] - board - [[SDR1059-dat]]
 
 - [[LW556-dat]] - [[TB6600-dat]] - [[DM430-dat]] - [[DM542-dat]]
 
@@ -34,6 +34,11 @@
 - [[ULN2003-dat]]
 
 - [[PCA9685-dat]]
+
+
+## and more 
+
+- [[MC33887-dat]]
 
 ## Chip function lists 
 
