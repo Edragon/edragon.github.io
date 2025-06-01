@@ -44,14 +44,14 @@ A **Battery Management System (BMS)** monitors and protects battery packs, espec
 
 ### 🔄 Summary Table
 
-| Feature               | **Passive BMS**                       | **Active BMS**                           |
-|-----------------------|----------------------------------------|------------------------------------------|
-| Energy Handling       | Dissipates as heat                    | Transfers charge between cells           |
-| Efficiency            | Low                                   | High                                     |
-| Complexity            | Simple                                | Complex                                  |
-| Cost                  | Low                                   | High                                     |
-| Speed of Balancing    | Slow                                  | Fast                                     |
-| Common Use Cases      | E-bikes, power tools, small packs     | EVs, solar storage, high-end systems     |
+| Feature            | **Passive BMS**                   | **Active BMS**                       |
+| ------------------ | --------------------------------- | ------------------------------------ |
+| Energy Handling    | Dissipates as heat                | Transfers charge between cells       |
+| Efficiency         | Low                               | High                                 |
+| Complexity         | Simple                            | Complex                              |
+| Cost               | Low                               | High                                 |
+| Speed of Balancing | Slow                              | Fast                                 |
+| Common Use Cases   | E-bikes, power tools, small packs | EVs, solar storage, high-end systems |
 
 ---
 
@@ -61,7 +61,60 @@ A **Battery Management System (BMS)** monitors and protects battery packs, espec
 - **Active BMS**: Best for large, high-value, or performance-critical battery systems.
 
 
+## BMS Charging 
 
+🔌 Can I Use a 12V AC-DC Plug to Charge a 3S1P Lithium Battery Pack with BMS?
+
+### 🔋 Battery Overview: 3S1P Lithium-Ion Pack
+
+- **3S** = 3 cells in series → 3.7V × 3 = **11.1V nominal**
+- **Full charge voltage** = 4.2V × 3 = **12.6V**
+- **Charging voltage required**: **12.6V constant voltage (CV)**
+- **Typical charging current**: 1A–2A (depending on cell & BMS)
+
+---
+
+### ⚠️ Can You Use a 12V AC-DC Plug?
+
+| **Plug Output Voltage**  | **Can You Use It?** | **Explanation**                               |
+| ------------------------ | ------------------- | --------------------------------------------- |
+| **12.0V**                | ⚠️ Not ideal         | Will undercharge the pack (only ~90–95% full) |
+| **12.6V regulated**      | ✅ Yes               | Perfect match for 3S lithium pack             |
+| **>12.6V (e.g., 13.8V)** | ❌ No                | May overcharge and damage the battery/BMS     |
+| **Unregulated output**   | ❌ No                | Unsafe — may exceed safe voltage limits       |
+
+---
+
+### ✅ Best Practice: Use a Dedicated 3S Lithium Charger
+
+- **Output Voltage**: 12.6V DC (constant voltage)
+- **Current Limit**: 1A–2A (match your BMS and battery spec)
+- **Charging Profile**: CC/CV (Constant Current / Constant Voltage)
+
+---
+
+### 🔐 Role of the BMS
+
+- Provides **protection** (overcharge, over-discharge, short circuit, etc.)
+- **Does NOT regulate** the input voltage
+- **Still requires** a proper 12.6V charger to function safely
+
+---
+
+### ✅ Summary
+
+- You **can** charge your 3S1P pack with a **regulated 12.6V charger**.
+- A **standard 12.0V plug** is **not recommended** — it won’t fully charge the battery.
+- Avoid any charger **above 12.6V** unless it’s specifically designed for lithium charging.
+
+### Charger 
+
+| Requirement            | Needed? | Why                                   |
+| ---------------------- | ------- | ------------------------------------- |
+| Smart chip like TP4056 | ❌ No    | Your **BMS provides safety features** |
+| Proper voltage (12.6V) | ✅ Yes   | Essential for full charge             |
+| Current limiting       | ✅ Yes   | Prevents overheating or stress        |
+| CC/CV charging         | ✅ Yes   | Ensures correct lithium charging      |
 
 
 ## Single Cell Protection solution 
@@ -121,11 +174,11 @@ A protection board fault typically results in: inability to charge, or the batte
 
 ### ✅ Recommended BMS Current Ratings
 
-| **Battery Type**           | **Max Cell Discharge** | **Recommended BMS Current** |
-|----------------------------|------------------------|------------------------------|
-| Standard 18650 (3A–5A)     | 5A–10A                 | 10A–15A                      |
-| High-Drain 18650 (10A)     | 10A–15A                | 15A–20A                      |
-| LiPo Pouch (10C+)          | Varies                 | 15A+                         |
+| **Battery Type**       | **Max Cell Discharge** | **Recommended BMS Current** |
+| ---------------------- | ---------------------- | --------------------------- |
+| Standard 18650 (3A–5A) | 5A–10A                 | 10A–15A                     |
+| High-Drain 18650 (10A) | 10A–15A                | 15A–20A                     |
+| LiPo Pouch (10C+)      | Varies                 | 15A+                        |
 
 > ⚠️ Tip: Choose a BMS with a **trip current slightly above** your system's max current (about 1.2×).
 
