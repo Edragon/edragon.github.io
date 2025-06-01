@@ -34,11 +34,15 @@
 
 - [[stepper-dat]]
 
-- [[A4988-dat]] - [[TB67H450-dat]] - [[TB6612-dat]] - [[LV8729-dat]]
+- [[TB67H450-dat]] - [[TB6612-dat]]
+ 
+- [[A4988-dat]]
+
+- [[LV8729-dat]] 
 
 - [[L293-dat]] - [[L298-dat]] 
 
-- [[TI-motor-dat]] - [[DRV8833-dat]] - [[DRV8825-dat]] - [[drv8837-dat]] - [[drv8313-dat]] - [[DRV8871-dat]]
+- [[TI-motor-dat]] - [[DRV8833-dat]] - [[DRV8825-dat]] - [[drv8837-dat]] - [[drv8313-dat]] - [[DRV8871-dat]] - [[DRV8876-dat]]
 
 - [[ULN2003-dat]]
 
@@ -87,5 +91,7 @@ more options
 
 
 ## ref 
+
+- [[motor-dat]]
 
 - [[FOC-dat]]

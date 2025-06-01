@@ -18,12 +18,12 @@ The L293D is a 16-pin motor driver IC, also known as a quad half-H driver, capab
 
 ## 🔌 L293 vs L293D: Key Differences
 
-| Feature                   | **L293**                        | **L293D**                           |
-|---------------------------|----------------------------------|--------------------------------------|
-| **Internal Flyback Diodes** | ❌ No                             | ✅ Yes (built-in protection diodes)   |
-| **Maximum Output Current** | Up to 1 A (peak 2 A)            | Up to 600 mA (peak 1.2 A)            |
-| **Cost**                  | Slightly cheaper                 | Slightly more expensive              |
-| **Protection**            | Needs external diodes            | Protected against back EMF           |
+| Feature                     | **L293**              | **L293D**                          |
+| --------------------------- | --------------------- | ---------------------------------- |
+| **Internal Flyback Diodes** | ❌ No                  | ✅ Yes (built-in protection diodes) |
+| **Maximum Output Current**  | Up to 1 A (peak 2 A)  | Up to 600 mA (peak 1.2 A)          |
+| **Cost**                    | Slightly cheaper      | Slightly more expensive            |
+| **Protection**              | Needs external diodes | Protected against back EMF         |
 
 
 
@@ -101,6 +101,8 @@ The L293D is a 16-pin motor driver IC, also known as a quad half-H driver, capab
 
 
 ## ref 
+
+- [[SDR1064-dat]] - [[motor-driver-dat]]
  
 - [[74LVC2G04-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
 

@@ -44,6 +44,18 @@ Yes, you **can use the DRV8871 to drive a gear DC motor**, and it's actually **a
   - Mobile platforms
   - Mechanisms with high starting torque
 
+
+## board 
+
+![](2025-06-02-00-44-38.png)
+
+- ILIM == pin4 == Connect a resistor to ground to set the current chopping threshold
+
+For example, if R_ILIM = 32 kΩ, the DRV8871 device limits motor current to 2 A no matter how much load torque is applied. 
+
+The minimum allowed RILIM is 15 kΩ.
+
+
 ## ref 
 
 - [[DRV8871-dat]]
