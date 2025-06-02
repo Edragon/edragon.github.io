@@ -21,6 +21,9 @@ Product Features:
 
 ![](2025-06-03-01-04-03.png)
 
+
+## Wiring 
+
 - 1. R_PWM: Forward rotation level or PWM signal input, high level active
 - 2. L_PWM: Reverse rotation level or PWM signal input, high level active
 - 3. R_EN: Forward rotation driver enable input, high level enable, low level disable

@@ -29,7 +29,7 @@
 
 - [[allegro-dat]] - [[A4988-dat]] - [[A4954-dat]]
 
-
+- [[Infineon-dat]] - [[BTS7960-dat]]
 
 
 ## stepper motor 
