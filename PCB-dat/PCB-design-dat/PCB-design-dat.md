@@ -3,8 +3,11 @@
 
 ## design 
 
+- [[footprint-dat]] - [[thermal-disppation-dat]] - [[heatsink-dat]] - [[PCB-installation-dat]]
+
 
 - [[EDA-dat]] - [[EDA-simulation-dat]]
+
 
 ## basic 
 

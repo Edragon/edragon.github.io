@@ -15,7 +15,9 @@
 - [[richtek-dat]] - [[RT8279-dat]]
 
 
+## DCDC down module 
 
+- [[OPM1153-dat]]
 
 
 ### LM2596 = input 3~40V
