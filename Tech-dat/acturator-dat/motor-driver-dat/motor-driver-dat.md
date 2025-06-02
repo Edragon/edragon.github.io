@@ -1,7 +1,7 @@
 
 # motor-driver-dat
 
-- [[motor-dat]]
+- [[motor-dat]] - [[thermal-disppation-dat]] - [[PCB-design-dat]]
 
 [legacy wiki page](https://www.electrodragon.com/w/Category:Driver_Board) 
 

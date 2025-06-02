@@ -59,7 +59,7 @@
 
 ### Interface and signals 
 
-- [[interface-dat]] - [[serial-dat]]
+- [[interface-dat]] - [[serial-dat]] - [[serial-wireless-dat]]
 
 - [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]]
 
