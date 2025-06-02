@@ -11,3 +11,8 @@
 
 - [[CNC-dat]] - [[CAD-dat]]
 
+- [[heatsink-dat]]
+
+- [[PCB-installation-dat]]
+
+

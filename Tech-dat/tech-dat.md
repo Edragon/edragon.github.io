@@ -97,7 +97,7 @@
 
 ## Mechnicals 
 
-- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]]
+- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
 
 - [[3D-dat]]
 
