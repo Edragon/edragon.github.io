@@ -1,6 +1,14 @@
 
 # wire-2-wire-dat
 
+
+## new type 
+
+- [[XT-dat]]
+
+
+## Common wire-2-wire
+
 | **Connector Type**         | **Description**                                                                                  |
 |----------------------------|--------------------------------------------------------------------------------------------------|
 | **Butt Connectors**         | Used to join two wires together in a straight line, typically crimped on both ends.              |

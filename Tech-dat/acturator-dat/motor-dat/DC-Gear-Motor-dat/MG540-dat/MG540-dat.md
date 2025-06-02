@@ -68,3 +68,5 @@
 ## ref 
 
 - [[dc-gear-motor-dat]] - [[motor-driver-dat]]
+
+- [[MG540]] - [[dc-gear-motor]]
