@@ -13,3 +13,5 @@
 - [[DC-blocking-dat]] - [[AC-blocking-dat]]
 
 - [[logic-gate-dat]] - [[buffer-dat]]
+
+- [[switching-dat]] - [[switch-dat]]
