@@ -1,8 +1,10 @@
 
 # tech 
 
-- [[power-dat]] - [[battery-dat]] - [[battery-charger-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]]
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] 
 
+- [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]]
+  
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
 - [[BOM-dat]] - [[cable-dat]]
@@ -53,7 +55,7 @@
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]] - [[dc-gear-motor-dat]]
 
 
 
