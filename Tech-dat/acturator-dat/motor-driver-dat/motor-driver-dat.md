@@ -5,6 +5,8 @@
 
 [legacy wiki page](https://www.electrodragon.com/w/Category:Driver_Board) 
 
+- [[cable-dat]] - [[conn-cable-terminal-dat]] - [[wire-2-wire-dat]]
+
 ## Board 
 
 - [[SDR1040-dat]] - [[SDR1102-dat]] - [[SDR1109-dat]] - [[SDR1048-dat]] - [[SDR1059-dat]] - [[SDR1050-dat]]
@@ -93,5 +95,7 @@ more options
 ## ref 
 
 - [[motor-dat]]
+
+- [[motor-driver]] - [[motor]]
 
 - [[FOC-dat]]

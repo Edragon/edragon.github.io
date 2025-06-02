@@ -1,6 +1,7 @@
 
 # cable-dat
 
+- [[AWG-wires-dat]]
 
 ## data cable 
 
