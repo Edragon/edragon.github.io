@@ -15,6 +15,8 @@
 
 - [[PCB-installation-dat]]
 
+- [[mechanical-tools-dat]]
+
 ## ref 
 
 - [[tech-dat]]

@@ -6,7 +6,27 @@
 - M3x10
 - M5x10 
 
-## Self-tapping Screws
+
+## bolt and screw
+
+| Feature               | Bolt                                               | Screw                                                               |
+| --------------------- | -------------------------------------------------- | ------------------------------------------------------------------- |
+| **Usage**             | Used with a **nut** or threaded hole               | Often used **without a nut**, threads into material directly        |
+| **Holding Mechanism** | Relies on **external nut** for clamping force      | Creates clamping force by threading directly into the material      |
+| **Tools Used**        | Typically needs a **wrench** or **socket**         | Often driven by **screwdriver** or **Allen key**                    |
+| **Installation**      | Requires access to **both sides** (to tighten nut) | Can often be installed from **one side** only                       |
+| **Thread Type**       | Usually has a **blunt end** and uniform threads    | Often has **pointed or tapered end**, cutting threads into material |
+| **Common Example**    | Hex bolt with nut on the other end                 | Wood screw going into wood directly                                 |
+
+
+## common used bolt 
+
+- hex head bolt 
+- hex socket head bolt 
+- Phillips Head Screw
+
+
+## Screw == Self-tapping Screws
 
 Self-tapping screws are designed to create their own hole as they are driven into the material. They are commonly used in metal, plastic, and wood applications. The most common types of self-tapping screws include:
 
