@@ -3,4 +3,4 @@
 
 - [[discount-dat]]
 
-- [[payment-dat]]
+- [[stripe-dat]]
