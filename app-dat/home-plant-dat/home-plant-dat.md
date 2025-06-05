@@ -39,7 +39,7 @@ The term "fresh air" for plants, in a technical sense, generally refers to an op
 
 ### controlling 
 
-- [[MCU-dat]] - [[relay-dat]]
+- [[MCU-dat]] - [[control-system-dat]]
 
 
 
