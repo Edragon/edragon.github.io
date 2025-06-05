@@ -20,15 +20,13 @@
 - Please notice microphone is not pre-soldered on board, you can do it yourself or add note to ask us to do it when you place order.
 - More function is developing now, any updates we will update on wiki page. Also support customize.
 
+
 ## Demos 
 
 
-* Pair with audio play box, and send human voice via speaker
-* https://twitter.com/electro_phoenix/status/1114019811690856452
-* Pair with audio play box, and PC -> audio -> AUX_IN to play
-* https://twitter.com/electro_phoenix/status/1401807228126908429?s=20
-
-- https://t.me/electrodragon3/159
+* [Pair with audio play box, and send human voice via speaker](https://twitter.com/electro_phoenix/status/1114019811690856452)
+* [Pair with audio play box, and PC -> audio -> AUX_IN to play](https://twitter.com/electro_phoenix/status/1401807228126908429?s=20)
+* https://t.me/electrodragon3/159
 
 
 
@@ -37,4 +35,8 @@
 - https://w.electrodragon.com/w/EMBT-S02
 - https://w.electrodragon.com/w/Category:EDMBT
 - https://www.electrodragon.com/product/bluetooth-audio-transmitter-receiver-board-embt-s02/
+
+- [[jieli-dat]]
+
+- [[sensor-microphone-dat]] - [[AUX-dat]] - [[USB-dat]]
 
