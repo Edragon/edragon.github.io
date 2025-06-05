@@ -11,7 +11,7 @@
 
 - long distance = [[lora-dat]] - [[lorawan-dat]]
 
-- [[RFID-dat]] 
+- [[RFID-dat]] - [[wiegand-dat]]
 
 - [[M2M-dat]] - [[LTE-dat]] - [[LWPA-dat]]
 
