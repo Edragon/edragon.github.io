@@ -14,6 +14,9 @@ https://ardupilot.org/rover/index.html
 - CUAV V5 Plus Overview == STM32F765
 
 
+## boards 
+
+- [[SDR1064-dat]]
 
 ## 3D printed 
 

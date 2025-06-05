@@ -29,8 +29,8 @@ Motor Control: Phase_A, Phase_B, VIN, V_Motor
 | nodemcu | right | func1 | func2 | [[SDR1064-dat]] |
 | ------- | ----- | ----- | ----- | --------------- |
 | D0      | I016  | USER  | WAKE  |                 |
-| D1      | I05   |       |       | PWM_ A           |
-| D2      | I04   |       |       | PWM_B          |
+| D1      | I05   |       |       | PWM_ A          |
+| D2      | I04   |       |       | PWM_B           |
 | D3      | I00   | FLASH |       | Motor_1         |
 | D4      | I02   | TXD1  |       | Motor_2         |
 |         | 3.3V  |       |       |                 |

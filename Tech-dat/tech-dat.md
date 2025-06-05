@@ -3,7 +3,7 @@
 
 - [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] 
 
-- [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]]
+- [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]] - [[battery-pack-dat]]
   
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
@@ -99,9 +99,13 @@
 
 ## Mechnicals 
 
-- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
+- [[mechanics-dat]] - [[CAD-dat]] - [[CNC-dat]] 
+
+- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
 
 - [[3D-dat]]
+
+- [[mechanical-tools-dat]]
 
 ## Circuits 
 
