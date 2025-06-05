@@ -24,6 +24,7 @@ LoRa ™ is a long-range radio technology "Lo ng- Ra nge" its main features:
 - Low data transfer (up to 255 bytes).
 
 ## Board 
+
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] - [[MPC1056-dat]]
 
 - [[DAS1069-dat]]
@@ -42,10 +43,13 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 ## Chip 
 
-- SX1278
 - LLCC68
-- SX1262
-- [[ASR6500-dat]]
+
+- [[ASR6500-dat]] - [[ASR-dat]]
+
+- [[semtech-dat]] - [[SX1278-dat]] - [[SX1262-dat]]
+
+- [[semtech-dat]] 3'rd generation Lora Chip == [[LR1121-dat]]
 
 ## wiring to ESP32
 
