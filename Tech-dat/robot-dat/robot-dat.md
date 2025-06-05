@@ -3,7 +3,7 @@
 
 ## tech 
 
-[[control-dat]] - [[RPI-dat]] - [[PS2-console-dat]]
+[[control-system-dat]] - [[RPI-dat]] - [[PS2-console-dat]]
 
 [[sensor-dat]] - [[camera-dat]] - [[RPI-camera-dat]]
 
