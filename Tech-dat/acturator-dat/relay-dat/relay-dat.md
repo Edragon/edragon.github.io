@@ -19,6 +19,9 @@ HF32F-G-5-HS
 
 - [[SSR-relay-dat]]
 
+
+
+
 ## relay control schematic 
 
 ## using N-mos mosfet control 
@@ -67,6 +70,20 @@ Example Selection:
 
 For a 12V relay drawing 0.5A, a 1N4007 diode (rated for 1000V, 1A) would be a suitable and cost-effective choice for general applications.
 For fast-switching applications, a 1N5819 Schottky diode (rated 40V, 1A) might be a better option due to its fast recovery time and lower forward voltage.
+
+
+## relay control system 
+
+![](2025-06-05-19-07-35.png)
+
+![](2025-06-05-19-07-49.png)
+
+- [[temperature-sensor-dat]] - [[sensor-dat]] - [[78L05-dat]]
+
+- [[NTC-sensor-dat]] 
+
+- [[memory-dat]] == AT24C02 
+
 
 ## ref 
 
