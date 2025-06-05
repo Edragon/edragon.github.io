@@ -1,6 +1,7 @@
 
 # ACDC dat 
 
+- [[transformer-dat]]
 
 
 ## Modules 
@@ -59,6 +60,17 @@
 ## function map 
 
 ![](2024-08-28-15-15-13.png)
+
+
+## soltuions 
+
+### transformer-less-solutions == non-isolated solutions
+
+- Power Integrations' LinkSwitch or TinySwitch series
+- ON Semiconductor's NCL30000 series
+- STMicroelectronics VIPer chips
+
+
 
 ## ref 
 

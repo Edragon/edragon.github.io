@@ -27,7 +27,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[3D-dat]] toys added into the page
 
-- [[relay-dat]] add some images of the relay system 
+- [[control-system-dat]] add some images of the relay system 
 
 - how [[electric-tools-dat]] - [[battery-pack-dat]] made 
 
