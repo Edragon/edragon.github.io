@@ -1,5 +1,5 @@
 
-# mech-tools-dat
+# mechanic-tools-dat
 
 - [[Wrench-dat]]
 
@@ -37,4 +37,4 @@ The most important measurement is the **distance across the flat sides of the he
 
 ## ref 
 
-- [[mech-tools]] - [[mechanics]]
+- [[mechanic-tools]] - [[mechanics]]

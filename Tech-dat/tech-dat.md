@@ -105,7 +105,7 @@
 
 - [[3D-dat]]
 
-- [[mechanical-tools-dat]]
+- [[mechanic-tools-dat]]
 
 ## Circuits 
 
