@@ -4,6 +4,8 @@
 
 - [[Alu_Extrusion]] - [[screws-dat]] - [[t-nut-dat]]
 
+- [[aluminium-extrusion-case-dat]]
+
 ## Aluminum Extrusion Profiles
 
 | Profile Type | Dimensions (mm) | Typical Applications                                        |
