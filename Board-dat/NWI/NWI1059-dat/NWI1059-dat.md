@@ -1,6 +1,8 @@
 # NWI1059-dat
 
-https://www.electrodragon.com/product/esp-12f-esp8266-wifi-board/
+[esp-12f-esp8266-wifi-board](https://www.electrodragon.com/product/esp-12f-esp8266-wifi-board/)
+
+- [[ESP-12F-dat]]
 
 
 
