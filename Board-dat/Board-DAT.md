@@ -40,6 +40,7 @@
 
 [[ESP8266-dat]] shield - [[DAS1069-dat]]
 
+- [[DAS1010-dat]]
 
 ### DAR
 
