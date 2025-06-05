@@ -6,3 +6,11 @@
 - [[fab-PCBA-dat]]
 
 - [[fab-stencil-dat]]
+
+- [[fab-mech-dat]] - [[sheet-metal-fab-dat]] - [[3d-print-dat]] - [[CNC-dat]] - [[case-dat]]
+
+
+
+## ref 
+
+- [[mechanics-dat]]

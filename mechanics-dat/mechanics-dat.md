@@ -1,6 +1,10 @@
 
 # mechanics-dat
 
+- [[fab-dat]] - [[case-dat]]
+
+
+
 - [[glue-dat]]
 
 - [[motion-system-dat]]
@@ -16,6 +20,10 @@
 - [[PCB-installation-dat]]
 
 - [[mechanic-tools-dat]]
+
+- [[copper-spacer-dat]]
+
+
 
 ## ref 
 
