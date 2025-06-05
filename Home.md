@@ -13,7 +13,7 @@
 
 - [[board-dat]] - [[board-series-dat]] - [[board-new-dat]]
 
-- [[shipment-dat]]
+- [[shipment-dat]] - [[service-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
   
