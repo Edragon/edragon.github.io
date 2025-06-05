@@ -3,6 +3,18 @@
 
 find modules here - [[esp8266-modules-dat]]
 
+## dev board 
+
+- [[NWI1044-dat]] - orignally design for [[nodemcu-dat]]
+
+- [[NWI1083-dat]] small size mini board, pro version [[NWI1122-dat]]
+
+- [[ESP8266-modules-dat]] holder board - [[NWI1050-dat]] - [[NWI1053-dat]] - [[NWI1130-dat]]
+
+## APP Board 
+
+- [[esp-relay-board-dat]] - [[NWI1072-dat]] - [[NWI1124-dat]]
+
 ## Hardware 
 
 ### chip info 
@@ -65,6 +77,19 @@ The ESP8266EX schematics include seven aspects:
 
 Hardware Design - The input voltage range is 0 to 1.0 V when **TOUT** is connected to external circuit.
 
+
+## Modules and Boards 
+
+- [[ESP8266-modules-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]] - [[NWI1075-dat]]
+
+- [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
+
+- [[espressif-dat]] - [[ESP8266-dat]] - [[ESP32-dat]] - [[ESP-dat]]
+
+
+
+
+
 ## ref 
 
 - design guidelines - [[esp8266_hardware_design_guidelines_en.pdf]]
@@ -72,13 +97,6 @@ Hardware Design - The input voltage range is 0 to 1.0 V when **TOUT** is connect
 - Module datasheet please see here: https://github.com/Edragon/ESP8266-HDK/tree/master/MOD
 
 
-## Modules and Boards 
-
-- [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]] - [[NWI1075-dat]]
-
-- [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
-
-- [[ESP8266-dat]] - [[ESP32-dat]] - [[ESP-dat]]
 
 - [[ESP8266]]
 

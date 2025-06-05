@@ -7,18 +7,23 @@
 
 - [[13.56mhz-dat]] - [[134.2khz-dat]]
 
+- [[wiegand-dat]] 
+  
+- [[NFC-dat]]
 
 ## Boards 
 
-- [[NID1020-dat]] - [[NID1021-dat]] - [[NIE1022-dat]]
+[[125khz-dat]] - [[NID1020-dat]] - cards and keys - [[NID1021-dat]] - [[NID1022-dat]]
 
-cards 
 
-- [[NID1003-dat]]
+[[125khz-dat]] - [[NID1005-dat]] - cards and keys - [[NID1003-dat]] - [[NID1009-dat]]
 
-readers 
+readers [[USB-dat]] based - [[NID1024-dat]]
 
-- [[NID1024-dat]] - [[NID1026-dat]]
+[[NFC-dat]] - [[NID1026-dat]]
+
+
+
 
 ## ref 
 

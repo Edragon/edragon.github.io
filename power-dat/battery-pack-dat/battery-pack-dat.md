@@ -26,7 +26,7 @@
 | 2S2P          | 7.4V            | 6Ah           | 4 cells total (2 series × 2 parallel) |
 | **3S1P**      | **11.1V = 12V** | **3Ah**       | **Common for RC and drones**              |
 | 3S2P          | 11.1V           | 6Ah           | 6 cells total                         |
-| 4S1P          | 14.8V           | 3Ah           | Laptop batteries, power tools         |
+| 4S1P          | 14.8V           | 3Ah           | Laptop batteries, [[power-tools-dat]]         |
 | 4S2P          | 14.8V           | 6Ah           | Higher capacity variant               |
 | 5S1P          | 18.5V           | 3Ah           | Electric tools                        |
 | 5S2P          | 18.5V           | 6Ah           | Longer runtime tools                  |
@@ -40,6 +40,9 @@
 | **13S2P**     | **48.1V**       | **6Ah**       | **E-bikes, scooters**                 |
 | 14S1P         | 51.8V           | 3Ah           | Some 52V e-bike packs                 |
 | 14S2P         | 51.8V           | 6Ah           | Higher capacity                       |
+
+common apps - [[Electric-tools-dat]] - [[drone-battery-dat]]
+
 
 ## Simple 1S to 2S management Solutions 
 
@@ -93,4 +96,6 @@
 
 ## ref 
 
-- [[battery-dat]]
+- [[battery-dat]] 
+
+- [[battery-pack]] - [[battery]]

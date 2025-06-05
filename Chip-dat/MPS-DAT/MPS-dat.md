@@ -11,6 +11,8 @@ legacy wiki page - https://w.electrodragon.com/w/Category:MPS
 
 - [[MP2315-dat]]
 
+- [[MP4560-dat]]
+
 * MP1470 16V / 2A / SOT23-6 / T-network resistor @ FB
 * MP1471 16V / 3A / SOT23-6
 

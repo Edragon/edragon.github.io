@@ -17,9 +17,9 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
   
-- [[Tech-DAT]] - [[SDK-DAT]] - [[app-dat]] - [[mechanics-dat]]
+- [[Tech-DAT]] - [[app-dat]] - [[SDK-DAT]] 
   
-- [[BOM-DAT]] - [[service-dat]]
+- [[mechanics-dat]] - [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] 
 
 
 ## Weekly Updates 

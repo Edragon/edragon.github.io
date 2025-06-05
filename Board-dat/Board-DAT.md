@@ -40,6 +40,7 @@
 
 [[ESP8266-dat]] shield - [[DAS1069-dat]]
 
+- [[DAS1010-dat]]
 
 ### DAR
 
@@ -168,8 +169,7 @@ LED control - [[ILC1063-dat]]
 
 - [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]]
 
-[[wireless-charge-dat]]
-- [[OPM1167-dat]] - [[OPM1168-dat]]
+[[wireless-charge-dat]] - [[OPM1167-dat]] - [[OPM1168-dat]]
 
 [[ACDC-dat]]
 - [[OPM1178-dat]] - [[OPM1110-dat]] - [[OPM1111-dat]] - [[OPM1065-dat]] - [[OPM1114-dat]]

@@ -15,6 +15,8 @@
 
 - [[BMP280-dat]]
 
+- [[NTC-sensor-dat]]
+
 ## common use 
 
 - mini size: [[AHT20-dat]] - [[SHT4x-dat]] - [[SHT30-dat]]

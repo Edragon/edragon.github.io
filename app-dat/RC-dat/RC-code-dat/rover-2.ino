@@ -11,7 +11,7 @@ const int IN1 = 0; // Direction for Motor 1
 const int IN2 = 2; // Direction pin 1 for Motor 2
 
 // WS2812 LED Strip Configuration
-#define LED_PIN 15
+#define LED_PIN 15 // nodemcu pin D8 
 #define LED_COUNT 8
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 

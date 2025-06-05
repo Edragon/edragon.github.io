@@ -1,9 +1,9 @@
 
 # tech 
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] 
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]]
 
-- [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]]
+- [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]] - [[battery-pack-dat]]
   
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
@@ -20,10 +20,6 @@
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
 
 - [[app-dat]]
-
-## SDK
-
-- [[arduino-IDE-DAT]] - [[ESP-SDK-dat]] - [[stm32-dat]]
 
 
 ## Category
@@ -55,7 +51,9 @@
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]] - [[dc-gear-motor-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]] - [[dc-gear-motor-dat]] 
+
+- [[relay-dat]]
 
 
 
@@ -74,12 +72,17 @@
 
 - [[protection-dat]]
 
-## Code 
+## Code and SDK 
 
 - [[arduino-ide-dat]] - [[PWM-dat]]
 
 - [[logic-dat]]
 
+- [[arduino-IDE-DAT]] - [[ESP-SDK-dat]] - [[stm32-dat]]
+
+## PROG
+
+- [[SWD-dat]]
 
 ## EDA
 
@@ -99,9 +102,13 @@
 
 ## Mechnicals 
 
-- [[CAD-dat]] - [[CNC-dat]] - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
+- [[mechanics-dat]] - [[CAD-dat]] - [[CNC-dat]] 
+
+- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
 
 - [[3D-dat]]
+
+- [[mechanic-tools-dat]]
 
 ## Circuits 
 
@@ -111,9 +118,9 @@
 
 ## MOD
 
-## PROG
+## Systematic 
 
-- [[SWD-dat]]
+-[[control-system-dat]]
 
 
 
