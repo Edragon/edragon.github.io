@@ -4,8 +4,7 @@
 
 BQ51050 supports 4.2V lithium battery up to 1A charge management.
 
-https://www.electrodragon.com/product/wireless-charge-receiver-board-qi/?attribute_pa_qi=bq51050
-
+[product url - BQ Wireless Charge Receiver Board QI](https://www.electrodragon.com/product/wireless-charge-receiver-board-qi/?attribute_pa_qi=bq51050)
 
 ![](2024-02-28-17-09-30.png)
 
@@ -29,5 +28,7 @@ https://www.ti.com/lit/ds/symlink/bq51050b.pdf
 https://www.youtube.com/shorts/D4PBTednAjU
 
 ## ref 
+
+- [[wireless-charge-dat]] - [[TI-power-dat]]
 
 - [[OPM1168]]
