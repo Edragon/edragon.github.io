@@ -1,18 +1,15 @@
 #include <Adafruit_NeoPixel.h>
 
 // Define pins for each RC channel
-int aileronPin = 14;   // Channel 1 (Throttle)
-int elevatorPin = 12;  // Channel 2 (Steering)
+int aileronPin = 14;   // Channel 1 (Throttle) // D5
+int elevatorPin = 12;  // Channel 2 (Steering) // D6
 
-const int ENA = 5; // PWM for speed for Motor 1
-const int ENB = 4; // PWM for speed for Motor 2
-
-const int IN1 = 0; // Direction for Motor 1
-const int IN2 = 2; // Direction pin 1 for Motor 2
+const int IN1 = 0; // Direction for Motor 1  // D3 
+const int IN2 = 2; // Direction pin 1 for Motor 2 // D4
 
 // WS2812 LED Strip Configuration
 #define LED_PIN 15 // nodemcu pin D8 
-#define LED_COUNT 8
+#define LED_COUNT 8 
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 
 long aileronControl;  // Mapped value from aileron channel (0-100)
