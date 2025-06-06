@@ -1,6 +1,8 @@
 
 # Conn-dat 
 
+- [[crimp-terminal-dat]]
+
 - [[conn-PCIE-dat]] - [[conn-pin-header-dat]]
 
 - [[Conn-IPEX-dat]] - [[CONN-SMA-dat]]
