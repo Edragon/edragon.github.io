@@ -11,7 +11,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[camera-dat]]
+- [[interface-dat]] - [[audio-dat]] 
 
 - [[robot-dat]]
 
@@ -19,7 +19,7 @@
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
 
-- [[app-dat]]
+- [[app-dat]] - [[mechanics-dat]]
 
 
 ## Category
@@ -55,6 +55,11 @@
 
 - [[relay-dat]]
 
+- [[laser-dat]]
+
+- [[sensor-color-dat]]
+
+- [[camera-dat]] - [[vision-dat]]
 
 
 ### Interface and signals 

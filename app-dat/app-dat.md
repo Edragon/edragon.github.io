@@ -11,7 +11,9 @@
 - [[internet-radio-dat]] - [[ESP32-APP-dat]]
 
 - [[metal-detector-dat]] - [[portable-lights-dat]]
-  
+
+
+
 ## Domestic Appliances 
 
 - [[logic-inverter-dat]] or [[data-logger-dat]], [[eneregy-meter-dat]]
@@ -69,7 +71,15 @@
 tech based - [[camera-dat]] - [[audio-dat]]
 
 
+## industrial 
 
+- [[Thermal-imaging-camera-dat]]
+
+- [[PLC-dat]] - [[motion-controller-dat]]
+
+- [[industrial-tablet-dat]] - [[industrial-monitor-dat]] - [[industrial-commputer-dat]]
+
+- [[industrial-power-supply-dat]] - [[industrial-sensor-dat]]
 
 ## ref 
 

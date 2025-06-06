@@ -9,3 +9,12 @@
 - more EDA tools ? - [[EDA-simulation-dat]] - [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]] - [[fritzing.org-dat]]
 
 
+## tools brand 
+
+- [[Fluke-dat]] - [[UNI-T-dat]] - [[alientek-dat]]
+
+
+
+## ref 
+
+- [[dev-info]]
