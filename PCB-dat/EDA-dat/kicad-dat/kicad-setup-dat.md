@@ -31,7 +31,12 @@ configure paths
 ## Common Error 
 
 
-### Software Stuck 
+### Software Stuck // no respone // freezing
 
-- suspend dropbox SYNC !!
+- This is a IME problem, if you use any other languages input methods, switch back to default ENG 
+
+
+## ref 
+
+- [[kicad-dat]]
 
