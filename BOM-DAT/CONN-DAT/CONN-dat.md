@@ -19,6 +19,9 @@
 
 - [[conn-cable-terminal-dat]]
 
+- [[conn-audio-dat]] - [[conn-video-dat]]
+
+
 ## BOM 
 
 - [[CCO3515-dat]] - [[CCO3612-dat]] - [[CCO3587-dat]] 

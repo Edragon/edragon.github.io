@@ -246,6 +246,11 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 | AMC8832                         | 15A+         | Up to 50V | Full H-Bridge   | Advanced high-efficiency     |
 
 
+- [[NE555-motor-driver-dat]] - [[NE555-dat]] 
+
+- [[motor-driver-dat]]
+
+
 ## ref 
 
 - [[motor-dat]]

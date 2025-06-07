@@ -19,15 +19,10 @@
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
 
-- [[app-dat]] - [[mechanics-dat]]
+- [[app-dat]] - [[mechanics-dat]] - [[BOM-dat]] - [[conn-dat]]
 
 
 ## Category
-
-
-### CONN
-
-- [[db9-dat]]
 
 ### MCU / CTRL / Processing 
 
