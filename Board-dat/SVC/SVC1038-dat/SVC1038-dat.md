@@ -13,7 +13,14 @@ Board map
 
 - note the [[current-transformer-dat]] sensor has two types footprint, bigger and smaller, to compatible with more types of sensors 
 
+Wiring 
 
+- connnect [[AC-mains-dat]] input from the bottom blue and red wire 
+- connect the load to the top blue and red wire
+
+- The orange wires are the old wiring method, only use when the [[current-transformer-dat]] has wire inside
+
+![](2025-06-07-17-35-24.png)
 
 ## Applications, category, tags, etc. 
 
