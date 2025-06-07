@@ -248,7 +248,10 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 
 - [[NE555-motor-driver-dat]] - [[NE555-dat]] 
 
-- [[motor-driver-dat]]
+- [[motor-driver-dat]] - [[mosfet-dat]]
+
+- [[CC-CCW-control-dat]]
+
 
 
 ## ref 
