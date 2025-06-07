@@ -31,7 +31,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - how [[electric-tools-dat]] - [[battery-pack-dat]] made 
 
-
+- how a [[rocker-switch-dat]] to manually connect the motor CW and CCW direction
 
 ## Dissusion, Feedback, To-do
 
