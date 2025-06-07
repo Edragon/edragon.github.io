@@ -61,3 +61,79 @@ Method 2:
 ## Dimension 
 
 ![](2025-06-03-01-06-37.png)
+
+
+
+## simple arduino control code 
+
+
+🔌 Arduino Pin Connections (Example)
+
+| BTS7960 Pin | Arduino Pin | Purpose                     |
+| ----------- | ----------- | --------------------------- |
+| VCC         | 5V          | Logic power                 |
+| GND         | GND         | Ground                      |
+| R_EN        | 8           | Enable right channel        |
+| L_EN        | 9           | Enable left channel         |
+| RPWM        | 10          | (PWM)	Right side PWM signal |
+| LPWM        | 11          | (PWM)	Left side PWM signal  |
+
+the demo code 
+
+    // Define motor control pins
+    #define RPWM 10
+    #define LPWM 11
+    #define R_EN 8
+    #define L_EN 9
+
+    void setup() {
+    // Set control pins as output
+    pinMode(RPWM, OUTPUT);
+    pinMode(LPWM, OUTPUT);
+    pinMode(R_EN, OUTPUT);
+    pinMode(L_EN, OUTPUT);
+
+    // Enable both sides of the H-Bridge
+    digitalWrite(R_EN, HIGH);
+    digitalWrite(L_EN, HIGH);
+    }
+
+    void loop() {
+    // Rotate motor forward
+    analogWrite(RPWM, 200);  // PWM value (0-255)
+    analogWrite(LPWM, 0);
+    delay(3000);
+
+    // Stop motor
+    analogWrite(RPWM, 0);
+    analogWrite(LPWM, 0);
+    delay(1000);
+
+    // Rotate motor backward
+    analogWrite(RPWM, 0);
+    analogWrite(LPWM, 200);
+    delay(3000);
+
+    // Stop motor
+    analogWrite(RPWM, 0);
+    analogWrite(LPWM, 0);
+    delay(1000);
+    }
+
+
+## ✅ Summary
+
+| Feature                | Description                |
+| ---------------------- | -------------------------- |
+| **Motor channels**     | 1 DC motor                 |
+| **Direction control**  | Yes (Forward / Reverse)    |
+| **Speed control**      | Yes (via PWM)              |
+| **Continuous current** | ~30A (with proper cooling) |
+| **Peak current**       | ~43A                       |
+| **Voltage range**      | Typically 6V–27V           |
+
+
+
+## ref 
+
+- [[motor-driver-dat]]
