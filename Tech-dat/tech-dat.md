@@ -47,6 +47,8 @@
 
 - [[touchscreen-dat]] - [[touch-sensor-dat]]
 
+- [[button-dat]] - [[switching-dat]] - [[switch-dat]]
+
 ### Sensors and actuator 
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
