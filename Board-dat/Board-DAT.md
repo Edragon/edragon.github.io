@@ -326,7 +326,7 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 [[PS2-console-dat]] - [[NWL1093-dat]] - [[NWL1097-dat]]
   
 ### NWI
-- [[NWI1050-DAT]] - [[NWI1070-DAT]] 
+- [[NWI1050-DAT]] - [[NWI1053-dat]] - [[NWI1070-DAT]] 
 - [[NWI1072-DAT]] - [[NWI1115-DAT]]
 - [[NWI1118-DAT]] - [[NWI1119-DAT]]
 - [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]]

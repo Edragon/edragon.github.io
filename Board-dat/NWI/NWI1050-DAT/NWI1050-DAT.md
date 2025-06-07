@@ -20,9 +20,6 @@ back side optional functions:
 - ADC resistor ladders via jumppers 
 
 
-
-
-
 ## Dimension 
 
 ![](52-48-17-28-06-2023.png)
@@ -34,8 +31,11 @@ back side optional functions:
 - https://www.electrodragon.com/w/Category:ESP8266_Hardware#Perpherial_Schematic
 - flash guide - https://www.electrodragon.com/flash-firmware-for-nodemcu-on-esp-12f-with-breakout-board/
 
+- [[NWI1050]]
+
 
 ## Version Update Log 
 
 - R2 version support not only ESP-07, ESP-12 but also new ESP-12F, which has extra 6 pis (SPI and I/Os)
 - Fixed: Note pin IO4 and IO5 is switched, not same as ESP-12F pinout (we used early version pinout).
+
