@@ -26,7 +26,8 @@ For example,
 - default capacitor - 47uf
 
 ## Demos 
-https://twitter.com/electro_phoenix/status/1658391696416321536
+
+- https://twitter.com/electro_phoenix/status/1658391696416321536
 
 ## ref 
 

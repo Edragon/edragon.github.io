@@ -1,6 +1,8 @@
 
 # Conn-dat 
 
+- [[crimp-terminal-dat]]
+
 - [[conn-PCIE-dat]] - [[conn-pin-header-dat]]
 
 - [[Conn-IPEX-dat]] - [[CONN-SMA-dat]]
@@ -16,6 +18,9 @@
 - [[CONN-Plug-dat]]
 
 - [[conn-cable-terminal-dat]]
+
+- [[conn-audio-dat]] - [[conn-video-dat]]
+
 
 ## BOM 
 

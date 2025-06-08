@@ -2,7 +2,7 @@
 
 # camera-dat 
 
-
+- [[vision-dat]]
 
 - [[camera-interface-dat]] - [[camera]] - [[video-transmission-dat]]
 
@@ -74,7 +74,7 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 - [[video-RC-car-dat]] - [[video-transmission-dat]] - [[esp32-app-dat]]
 
-
+- [[qc-code-reader-dat]]
 
 ## other camera types 
 
