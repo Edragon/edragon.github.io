@@ -62,6 +62,20 @@ and more - [[IBUS-dat]] - [[PPM-dat]] - [[FPort-dat]] - [[SPEKTRUM-dat]] - [[SUM
 
 - [[zigbee-dat]]
 
+## Ethernet 
+
+- [[ethernet-dat]]
+
+EtherCAT (Ethernet for Control Automation Technology) is a high-performance, real-time Ethernet-based fieldbus system. It was originally developed by Beckhoff Automation.
+
+## System and APPs 
+
+- [[RTU-dat]] - [[modbus-dat]]
+
+
+
+
+
 
 ## ref 
 
