@@ -83,7 +83,7 @@ can use commands nohup to run script in background for long term.
 
 
 ## repository
-
+- general - https://github.com/Edragon/RPI
 - display https://github.com/Edragon/RPI_Display
 - nas - https://github.com/Edragon/RPI_nas
 - matrix - https://github.com/Edragon/RPI_matrix
