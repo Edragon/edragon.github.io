@@ -350,7 +350,7 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 | [[NWI1191-dat]] | RVB: ESP-WROVER           | PCB-ANT  | 16MB   |                     |
 
 
-[[ESP8266-dat]] - [[esp8266-modules-dat]] - [[NWI1059-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1127-dat]] - [[NWI1075-dat]]
+[[ESP8266-dat]] - [[esp8266-modules-dat]] - [[NWI1059-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1127-dat]] - [[NWI1075-dat]] - [[NWI1044-dat]]
 
 [[ESP32-C3-dat]]
 
@@ -434,7 +434,10 @@ Motion sensor
 - [[SMO1020-dat]]
 
 ### STH
+
 - [[STH1074-DAT]] - [[STH1078-DAT]] - [[STH1040-dat]] - [[STH1058-dat]]
+
+- [[aosong-dat]] - [[STH1020-dat]] - [[STH1063-dat]]
 
 ### STM
 - [[STM1004-DAT]]
