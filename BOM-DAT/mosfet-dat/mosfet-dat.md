@@ -1,9 +1,18 @@
 
 # mosfet-dat
 
+## tech 
+
+- [[mosfet-driver-dat]] for high speed usage 
+
+
+## brand 
+
 common brand: [[Vishay-dat]]
 
 - [[AOD4184-dat]] - [[D4184-dat]]
+
+- [[K3645_FujiElectric.pdf]] - [[AGM-Semi-AGM30P05A_C6719407.pdf]]
 
 ## model selections 
 

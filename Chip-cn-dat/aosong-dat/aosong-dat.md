@@ -1,4 +1,3 @@
-
 # aosong-dat
 
 ![](2024-02-28-16-16-27.png)
@@ -20,6 +19,7 @@ https://www.electrodragon.com/product/am2301-dht21-digital-temperature-humidity-
 AMT1001
 https://www.electrodragon.com/product/amt1001-module-resistive-temperature-humidity-sensor/
 
+- [[AM2320-dat]] - [[AM2322-dat]]
 
 
 ## Specs 
@@ -29,6 +29,7 @@ https://www.electrodragon.com/product/amt1001-module-resistive-temperature-humid
 | DHT11   | T+H     | yes       | 1-wire      | -20~60 C          | +/-2 C                 | 5~95 % RH      | +/-5 % RH           | [[STH1046-dat]] |
 | AM2301  | T+H     | yes       | 1-wire      | -40~80 C          | +/-0.5 C               | 0~99.9 % RH    | +/-3 % RH           | [[STH1036-dat]] |
 | AM2302  | T+H     | yes       | 1-wire      | -40~80 C          | +/-0.5 C               | 0~99.9 % RH    | +/-3 % RH           | [[STH1010-dat]] |
+| AM2320  | T+H     | yes       | IIC         | -40~80 C          | +/-0.5 C               | 0~99.9 % RH    | +/-3 % RH           | [[STH1024-dat]] |
 | AHT10   |         |           | IIC         | -40~85 C          | +/-0.3 C               | 0~99.9 % RH    | +/-2 % RH           |                 |
 | AHT15   | off-PCB |           | IIC         | -40~85 C          | +/-0.3 C               | 0~99.9 % RH    | +/-2 % RH           |                 |
 | DHT10   |         | obseleted | IIC         |                   |                        |                |                     |                 |
