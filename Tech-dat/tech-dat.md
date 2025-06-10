@@ -7,7 +7,7 @@
   
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[mosfet-dat]] - [[resistor-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
@@ -19,7 +19,7 @@
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
 
-- [[app-dat]] - [[mechanics-dat]] - [[BOM-dat]] - [[conn-dat]]
+- [[app-dat]] - [[mechanics-dat]] 
 
 
 ## Category
