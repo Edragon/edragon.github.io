@@ -1,6 +1,13 @@
 
 # mosfet-dat
 
+## tech 
+
+- [[mosfet-driver-dat]] for high speed usage 
+
+
+## brand 
+
 common brand: [[Vishay-dat]]
 
 - [[AOD4184-dat]] - [[D4184-dat]]

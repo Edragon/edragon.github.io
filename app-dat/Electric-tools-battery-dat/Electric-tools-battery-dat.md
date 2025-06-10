@@ -11,3 +11,13 @@
 How to series connect the battery pack 
 
 ![](2025-06-05-16-51-39.png)
+
+
+
+## common type electric tools battery pack
+
+![](2025-06-10-16-54-11.png)
+
+## ref 
+
+- [[battery-pack-dat]]

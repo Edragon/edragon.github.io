@@ -31,6 +31,11 @@
 ![](2025-06-05-19-40-11.png)
 
 
+## acturator
+
+- [[acturator-dat]] - [[relay-dat]] - [[mosfet-dat]] - [[motor-dat]]
+
+
 ## ref 
 
 - [[tech-dat]]

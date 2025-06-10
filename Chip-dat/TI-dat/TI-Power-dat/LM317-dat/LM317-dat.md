@@ -18,6 +18,7 @@ The LM317 device is an adjustable three-terminal positive-voltage regulator capa
 ![](2025-02-16-18-09-32.png)
 
 
+
 ## 12V output 
 
 ### 🔧 LM317 with R1 = 30kΩ and R2 = 290kΩ
@@ -43,6 +44,12 @@ Where:
         ≈ 1.25 × (1 + 9.667)
         ≈ 1.25 × 10.667
         ≈ 13.33V
+
+## 8V output 
+
+R1 = 5.6K, R2 = 30K 
+
+![](2025-06-10-17-20-30.png)
 
 
 ## Specs 
