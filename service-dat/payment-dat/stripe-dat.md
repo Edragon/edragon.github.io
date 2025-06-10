@@ -8,6 +8,12 @@
 
 ## The customer failed to authenticate with 3D Secure - 🛠️ Action Items
 
+error log: 
+
+    3D Secure attempt failed 
+    The cardholder attempted 3D Secure authentication 3 times. 
+    Payment failed
+
 ### 🔄 For You (Merchant):
 
 1. **Do not retry** the same PaymentIntent as-is — Stripe has already marked it as failed (`status: requires_payment_method`).
