@@ -20,5 +20,5 @@
 
 - [legacy wiki page ](https://www.electrodragon.com/w/AM_Sensor)
 
-
+- https://www.electrodragon.com/w/AM2320
 
