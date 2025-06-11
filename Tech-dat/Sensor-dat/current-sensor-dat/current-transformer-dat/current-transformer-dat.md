@@ -13,9 +13,17 @@
 - [[YHDC-dat]]
 
 
+## BX-CT Specifications
+
+![](2025-06-11-15-45-27.png)
+
+| left   | middle | right |
+| ------ | ------ | ----- |
+| 5A     | 15A    | 30A   |
+| 2000:1 | 2000:1 | 1500: |
 
 
-## Specifications 
+## DL-CT08CL10-2000/1 = Specifications 
 
 "Miniature current transformer, small AC through-core type, class 0.1 precision, high-frequency transformer, lead type, 1000:1"
 

@@ -11,7 +11,7 @@ Board map
 
 ![](2025-06-07-17-30-01.png)
 
-- note the [[current-transformer-dat]] sensor has two types footprint, bigger and smaller, to compatible with more types of sensors 
+- note the [[current-transformer-dat]] (section BX-CT) sensor has two types footprint, bigger and smaller, to compatible with more types of sensors
 
 Wiring 
 

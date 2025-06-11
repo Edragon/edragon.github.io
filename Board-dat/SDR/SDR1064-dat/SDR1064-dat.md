@@ -63,6 +63,9 @@ Motor Control: Phase_A, Phase_B, VIN, V_Motor
 
 ## Demo Code and Video
 
+- [V2 version demo video full load 5KG? ](https://t.me/electrodragon3/372)
+
+
 - [[SDR1064-rover.ino]] - [[SDR1064-demo1.ino]]
 
 [SDR1064 drive hacked toy rover by #esp8266](https://t.me/electrodragon3/364)
@@ -98,6 +101,9 @@ It is not simple to setup the WiFiCar with the provided software. You should hav
 - You should be able to see the interface similar to the right.
 
 ![](2025-05-08-14-42-09.png)
+
+
+
 
 ## ref 
 
