@@ -11,7 +11,7 @@ long elevatorControl; // Mapped value from elevator channel (0-100)
 unsigned long rawAileronPWM = 0;
 unsigned long rawElevatorPWM = 0;
 
-const int PWM_MAX = 1023;  // ESP8266 PWM range is 0-1023
+const int PWM_MAX = 255;  // ESP8266 PWM range is 0-1023
 const int PWM_STOP = PWM_MAX / 2;  // ~511 or 512
 
 long readAileronControlSignal() {
