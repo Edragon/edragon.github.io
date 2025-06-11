@@ -252,6 +252,7 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 
 - [[CC-CCW-control-dat]]
 
+- [[mosfet-motor-control-dat]] - [[relay-motor-control-dat]]
 
 ## Other Tech
 
