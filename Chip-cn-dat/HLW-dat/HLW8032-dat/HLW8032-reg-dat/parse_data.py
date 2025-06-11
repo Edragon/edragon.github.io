@@ -81,13 +81,14 @@ def main():
         
         i = 0
         while i < len(hex_values):
-            # Find the start of a segment "55 5A"
+            # Find the start of a segment "FA 5A" or "55 5A"
             ## if hex_values[i] == "55" and (i + 1) < len(hex_values) and hex_values[i+1] == "5A":
             
-            if hex_values[i] == "FA" and (i + 1) < len(hex_values) and hex_values[i+1] == "5A":
+            if (hex_values[i] == "FA" or hex_values[i] == "55") and \
+               (i + 1) < len(hex_values) and hex_values[i+1] == "5A":
                 
                 # Check if there are enough bytes for a full 24-byte segment
-                # Segment includes "55 5A", so we need 22 more bytes. Total 24.
+                # Segment includes the starting two bytes, so we need 22 more bytes. Total 24.
                 if (i + 24) <= len(hex_values):
                     segment = hex_values[i : i + 24]
                     result = process_data_segment(segment)
