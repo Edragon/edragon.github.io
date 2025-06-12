@@ -19,6 +19,12 @@
 - 0x7A = 0x3D
 
 
+## demo video 
+
+- https://www.youtube.com/watch?v=-S0XRB664-M&feature=youtu.be
+
 ## ref 
 
-- [[I2C-dat]]
+- [[IOD1001-dat]] - [[IOD1003-dat]]
+
+- [[I2C-dat]] - [[OLED-dat]]

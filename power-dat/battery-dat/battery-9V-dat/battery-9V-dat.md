@@ -1,6 +1,23 @@
 
 # 9V-battery-dat
 
+
+### Professional Name of Common 9V Battery
+
+| Standard/System      | Name        |
+|----------------------|-------------|
+| **IEC**              | 6LR61       |
+| **ANSI/NEDA**        | 1604A       |
+| **Common Name**      | 9V battery  |
+| **Alkaline Chemistry** | 6LR61     |
+| **NiMH Rechargeable** | 6HR61      |
+| **Carbon-Zinc**      | 6F22        |
+
+**Notes:**
+- Rectangular shape with snap connectors on top.
+- Commonly used in smoke detectors, guitar pedals, remote controllers, etc.
+
+
 ## Common Names for the 9V Battery
 
 ### IEC and ANSI Designations:
