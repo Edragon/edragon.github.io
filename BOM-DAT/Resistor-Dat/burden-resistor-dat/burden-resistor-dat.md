@@ -3,6 +3,10 @@
 
 A burden resistor is a component used with current transformers (CTs). - [[current-transformer-dat]]
 
+- used by [[SVC1035-dat]] and [[SVC1038-dat]] == 100K 2512
+
+
+
 ## Purpose:
 
 **Convert Current to Voltage**: The primary function of a burden resistor is to convert the current output of a current transformer into a voltage signal. CTs are designed to produce a current in their secondary winding that is proportional to the current in their primary winding. 

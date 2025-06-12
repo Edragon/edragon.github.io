@@ -31,7 +31,7 @@
 
     55 5A 02 DC D0 00 05 FF 00 3C D7 00 20 51 4D E5 68 00 62 43 71 02 3C 24 
 
-## Voltage Example 
+## Voltage measure Example 
 
 **Voltage Parameter Register**
 
@@ -62,8 +62,18 @@ Therefore, the effective voltage is approximately 219.372V.
 
 ![](2024-12-08-16-41-04.png)
 
+## Current measure Example
 
+**Note Current Coefficient factor**
 
+- 0.001 R = 1 mR = 0.001
+- 0.003 R = 3 mR = 0.003
+
+for [[current-transformer-dat]] example 
+
+- for 1000:1 transform ratio and on board 1R resistor, the Coefficient factor is 0.001 again 
+- for 1500:1 transform ratio and on board 1R resistor, the Coefficient factor is 0.0015 
+- for 2000:1 transform ratio and on board 1R resistor, the Coefficient factor is 0.002 
 
 ## obselete 
 
