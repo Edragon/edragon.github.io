@@ -16,12 +16,16 @@
 
 ## Demo Code and Video
 
-- [RPI display E-paper 2.13''](https://github.com/Edragon/RPI-Display)
+- [[e-paper-dat]] == V3
+
+- enable [[SPI-dat]] by [[raspi-config-dat]]
 
 
 ## ref 
 
-- [[RPI-dat]]
+- [[e-paper-dat]]
+
+- [[RPI-dat]] - [[python-dat]]
 
 - [[MPC1091]] 
 

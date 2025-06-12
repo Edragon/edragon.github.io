@@ -30,9 +30,6 @@ All Raspberry Pi since the Model B+ can provide quite a bit more, up to 500mA to
 
 - [[BCM2835-dat]] - [[BCM2711-dat]]
 
-### Boards and Shields 
-
-- [[MPC1029-dat]]
 
 ## RPI4 
 
@@ -84,13 +81,26 @@ can use commands nohup to run script in background for long term.
 
 ## repository
 - general - https://github.com/Edragon/RPI
-- display https://github.com/Edragon/RPI_Display
+- display - https://github.com/Edragon/RPI_Display
+- display 2 - https://github.com/Edragon/Display-E-paper
 - nas - https://github.com/Edragon/RPI_nas
 - matrix - https://github.com/Edragon/RPI_matrix
 - RPI prog - https://github.com/Edragon/RPI-PROG
 - RPI serial - https://github.com/Edragon/RPI-Serial
 
+
+### Boards and Shields 
+
+- [[MPC1029-dat]] - [[MPC1056-dat]] - [[MPC1123-dat]] - [[MPC1073-dat]] - [[MPC1119-dat]] - [[MPC1130-dat]]
+
+- [[MPC1091-dat]]
+
 ## Competitors 
 
 - [[RK3588-dat]] - [[rocketchip-dat]]
 
+## ref 
+
+- [[SBC-dat]]
+
+- [[RPI]]
