@@ -29,7 +29,7 @@ Pins Definitions
 
 - [[ZMCT103-dat]] - [[ZMPT107-dat]] - [[zeming-dat]]
 
-
+- [[Current-transformer-dat]] - [[ac-voltage-transformer-dat]]
 
 ## ref 
 

@@ -8,15 +8,6 @@
 
 - [[sample-resistor-dat]]
 
-## Measurement 
-
-- invasive current sensor 
-  - [[ACS712-dat]] - [[ACS723-dat]] - [[ACS758-dat]]
-  - [[HLW8012-dat]] - [[HLW8032-dat]]
-
-
-- non-invasive current sensor - [[YHDC-dat]]
-  - [[YHDC-dat]] based shield - [[DAS1010-dat]]
 
 
 ## Note 

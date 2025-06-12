@@ -1,8 +1,11 @@
 # HLW8032 DAT
 
-- [[SVC1031-dat]] - [[SVC1035-dat]]
+- [[SVC1031-dat]] - [[SVC1035-dat]] - [[SVC1038-dat]] - [[SVC1041-dat]]
 
-- [[HLW8032-faq-dat]] - [[HLW8032-reg-dat]]
+python serial demo code refer to page - [[HLW8032-reg-dat]]
+
+- [[HLW8032-faq-dat]] 
+
 
 ## Chip Info
 
@@ -67,6 +70,6 @@ Data format of HLW8032:
 
 - [[sample-resistor-dat]] - [[resistor-dat]] - [[Optical-Coupler-DAT]] - [[current-transformer-dat]] - [[78L05-dat]] - [[wire-2-wire-dat]] - [[ACDC-dat]] - [[AC-dat]]
 
-- [[AC-mains-dat]]
+- [[AC-mains-dat]] - [[AC-measurement-dat]]
 
 - [[HLW-dat]] - [[HLW8032.pdf]] - [[HLW8012-dat]] 
