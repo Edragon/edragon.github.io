@@ -1,14 +1,18 @@
 
 # ac-mains-dat
 
-- [[AC-voltage-monitor-dat]] - [[acdc-adapter-dat]] - [[acdc-dat]]
+- [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]]
+  
+- [[acdc-adapter-dat]] - [[acdc-dat]]
 
 
-- [[power-isolated-Module-dat]] - [[current-transformer-dat]]
+[[BOM-dat]] - [[power-isolated-Module-dat]] - [[sample-resistor-dat]]
 
-- [[sample-resistor-dat]]
+- [[ac-measurement-dat]]
 
+- [[ac-plug-dat]]
 
+- [[ground-wire-dat]]
 
 ## Note 
 

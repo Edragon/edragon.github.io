@@ -2,6 +2,7 @@
 # acdc adapter dat 
 
 ## Technical Parameters:
+
 - Input voltage: AC (AC) 100-240V~50/60Hz
 - Output voltage: DC (direct current) 12V
 - Output current: DC (direct current) 5A

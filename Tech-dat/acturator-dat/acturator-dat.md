@@ -17,7 +17,7 @@
 
 - [[laser-module-dat]]
 
-- [[buzzer-dat]] - [[speaker-dat]]
+- [[buzzer-dat]] - [[speaker-dat]] - [[SSL1019-dat]]
 
 - [[belt-dat]] - [[belt-sys-dat]] - [[pulley-dat]] - [[mechanics-dat]]
 
