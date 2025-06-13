@@ -24,7 +24,7 @@
 
 ## Weekly Updates 
 
-- [[weekly-dat]]
+- [[weekly-dat]] - [[2025-May-dat]]
 
 ## This wiki changes
 

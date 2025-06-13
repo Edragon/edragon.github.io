@@ -17,6 +17,9 @@
 - Hold down reset button for 2 seconds to boot the module 
 - pull up   reset pin    for 2 seconds to boot the module (by external MCU)
 
+Board size 32.5 x 34 mm.
+
+
 ### Pin Definitions 
 
 | Pin  | Functions                                    |
@@ -32,7 +35,11 @@
 | VIN  | Power input up to ~18V                       |
 | VBUS | Power supply from USB port                   |
 
+Pin Definitions:
 
+- Reset, GND, Power_enable, RXD, TXD, RI, DTR, 3V3, VIN, 5V
+- ADC, IO3, IO2, IO1
+- Device automatically turn on when power is supplied, to turn off the module, set power_enable to off
 
 ### Power Supply 
 

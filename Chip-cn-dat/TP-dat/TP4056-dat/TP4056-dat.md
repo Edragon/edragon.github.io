@@ -3,6 +3,13 @@
 
 - [legacy wiki page](https://w.electrodragon.com/w/TP4056)
 
+
+## boards 
+
+- [[OPM1156-dat]]
+
+
+
 ## tutorial
 
 how to use single [[TP4056-dat]] to charge - [[2S-lithium-battery-charger-dat]]
