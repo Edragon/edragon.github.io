@@ -4,7 +4,7 @@
 [legacy wiki page ](https://w.electrodragon.com/w/SIM7020_AT)
 
 
-- [[SIMCOM-AT-GNSS-dat]] 
+- [[SIMCOM-AT-location-dat]] 
 
 - [[serial-dat]] - [[sscom-dat]]
 
