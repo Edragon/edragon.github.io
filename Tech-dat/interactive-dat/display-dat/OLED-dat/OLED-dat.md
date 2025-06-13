@@ -76,7 +76,7 @@ https://www.electrodragon.com/product/1-3-12864-blue-oled-display-iicspi/
 
 - https://www.youtube.com/watch?v=-S0XRB664-M&feature=youtu.be
 
-
+- https://www.youtube.com/watch?v=-S0XRB664-M&feature=youtu.be
 
 
 
