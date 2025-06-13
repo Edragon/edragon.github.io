@@ -38,10 +38,18 @@
 - [github.com/openenergymonitor/EmonLib](https://github.com/openenergymonitor/EmonLib/tree/master/examples/current_only)
 
 
+## version log 
+
+The current version is V3 version in 2025.
+
+V3 - Arduino Energy Monitoring Shield V3, YHDC CT Based
+
+- fully supported all CT version 30A, 100A refer how to set jumper for this board at [[YHDC-dat]]
+- removed the support for [[Nokia-5110-dat]]
 
 ## ref 
 
-- [[AC-mains-dat]]
+- [[AC-mains-dat]] - [[current-transformer-dat]]
 
 - [[DAS1010]] 
 

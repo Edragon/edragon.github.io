@@ -5,6 +5,10 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 ## New Boards
 
+- [[DAS1010-dat]] new version with slightly updates, well supported for 30A-100A current transformer, with jumper setting for different current transformer
+
+- [[NGS1141-dat]] and [[NGS1142-dat]] upgraded from [[NGS1131-dat]]  [[NGS1132-dat]], [[A7670-dat]] supported GNSS, bluetooth, and LTE CAT-1, bare GNSS locating time is around 5-15 seconds in open area
+
 
 
 ## Development, Documents Updates
