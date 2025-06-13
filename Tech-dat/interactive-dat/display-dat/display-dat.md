@@ -8,7 +8,6 @@ SPI interface LCDs - [[EDS-LCD-dat]]
 - [[OLED-dat]]
 
 - [[e-paper-dat]]
-
 - [[Nokia-5110-dat]]
 
 
@@ -25,7 +24,7 @@ SPI interface LCDs - [[EDS-LCD-dat]]
 
 - https://github.com/Edragon/RPI-Display
 
-
+- https://github.com/Edragon/Interactive-Display_OLED
 
 
 ## ref 
