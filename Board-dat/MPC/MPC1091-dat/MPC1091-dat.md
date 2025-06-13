@@ -23,7 +23,7 @@
 
 ## ref 
 
-- [[e-paper-dat]]
+- [[e-paper-dat]] - [[e-paper]]
 
 - [[RPI-dat]] - [[python-dat]]
 

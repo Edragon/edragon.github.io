@@ -6,6 +6,7 @@ python serial demo code refer to page - [[HLW8032-reg-dat]]
 
 - [[HLW8032-faq-dat]] 
 
+- [[HLW8032-ISO-Version-dat]]
 
 ## Chip Info
 
