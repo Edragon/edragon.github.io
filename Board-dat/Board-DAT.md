@@ -468,7 +468,6 @@ Motion sensor
 
 - [[SSL1042-dat]] - [[SSL1045-dat]] - [[SSL1034-dat]] - [[SSL1050-dat]]
 
-[[buzzer-dat]] - [[SSL1019-dat]]
 
 
 ### SVC
@@ -478,7 +477,7 @@ Tools
 
 - [[SVC1015-DAT]] 
   
-- [[HLW-dat]] - [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1038-dat]] 
+- [[HLW-dat]] - [[SVC1031-DAT]] - [[SVC1035-DAT]] - [[SVC1038-dat]] - [[SVC1041-dat]]
 
 - [[SVC1039-DAT]]
 

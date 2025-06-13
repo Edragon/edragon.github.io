@@ -3,9 +3,36 @@
 
 - [[SIMCOM-AT-DAT]]
 
-- [[simcom-at-sscom-dat.exe]] - [[SSCOM51.ini]]
+- [[simcom-at-sscom-dat.exe]] - preconfig == [[SSCOM51.ini]]
+
+
+
 
 ## Basic 
+
+boot log 
+
+    *ATREADY: 1
+
+    +CPIN: READY
+
+    SMS DONE
+
+    +CGEV: EPS PDN ACT 1
+
+    +CGEV: ME PDN ACT 8,1
+
+    +CGEV: NW PDN DEACT 1
+
+    +CGEV: ME DETACH
+
+    +CGEV: EPS PDN ACT 1
+
+    +CGEV: ME PDN ACT 8,1
+
+    +CMTI: "SM",1
+
+    +CMTI: "SM",2
 
 ### AT+CREG
 
@@ -28,23 +55,6 @@
 
 
 
-#### log 
-
-
-    AT+CEREG?
-    +CEREG: 0,1
-
-    OK
-
-    +CGEV: ME PDN DEACT 8
-
-    +CGEV: ME PDN ACT 8,1
-
-
-    +CGEV: ME PDN DEACT 8
-
-    +CGEV: ME PDN ACT 8,1
-
 ### AT+CGMM
 
     AT+CGMM
@@ -52,21 +62,6 @@
 
     OK
 
-
-## web ping 
-
-    AT+CPING="www.baidu.com",1,4,64,1000,10000,255
-    OK
-
-    +CPING: 1,157.148.69.186,92,170,52
-
-    +CPING: 1,157.148.69.186,92,130,52
-
-    +CPING: 1,157.148.69.186,92,840,52
-
-    +CPING: 1,157.148.69.186,92,125,52
-
-    +CPING: 3,4,4,0,125,840,310
 
 
 
