@@ -1,7 +1,7 @@
 
 # HLW8032-reg-dat.md
 
-
+[setup demo video](https://x.com/electro_phoenix/status/1933032154772222440)
 
 - python code processing, based on [[parse_data.py]]
 
