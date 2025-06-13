@@ -16,7 +16,7 @@
 
 - [[battery-discharge-dat]]
 
-
+- [[spot-welding-dat]]
 
 
 ## coin battery dat 

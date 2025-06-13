@@ -38,11 +38,13 @@
 
 - [[LED-dat]] - [[LED-strip-dat]]
 
-- [[display-dat]] - [[LCD-dat]] - [[OLED-dat]] - [[TFT-dat]] - [[nokia-5110-dat]]
+- [[display-dat]] - [[LCD-dat]] - [[TFT-dat]] - [[nokia-5110-dat]]
 
 - [[touchscreen-dat]] - [[touch-sensor-dat]]
 
 - [[button-dat]] - [[switching-dat]] - [[switch-dat]]
+
+- [[OLED-dat]] - [[oled-driver-dat]]
 
 ### Sensors and actuator 
 

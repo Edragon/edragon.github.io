@@ -65,4 +65,6 @@ Common soldering tips system: (C1151), ESD(C1152), 900, 900M, 907, 933, 936, 937
 
 - [[desoldering-dat]]
 
+- [[welding-dat]] - [[spot-welding-dat]]
+
 - [[ICT-testing]]
