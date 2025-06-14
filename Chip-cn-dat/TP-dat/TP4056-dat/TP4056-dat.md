@@ -3,10 +3,12 @@
 
 - [legacy wiki page](https://w.electrodragon.com/w/TP4056)
 
+- [[battery-dat]] - [[battery-pack-dat]]
+
 
 ## boards 
 
-- [[OPM1156-dat]]
+- [[OPM1156-dat]] - [[OPM1083-dat]]
 
 
 
