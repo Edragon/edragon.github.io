@@ -168,6 +168,13 @@ Table 22: LTE mode NETLIGHT pin status
 
 - [[diode-dat]] - [[dcdc-buck-dat]] -
 
+
+
+## reference design 
+
+- [[GNSS-dat]] - [[antenna-dat]] - [[SIM-dat]]
+
+
 ## ref 
 
 - [[M2M]]

@@ -11,7 +11,7 @@ type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]]
 
 type of antennas by connector == [[antenna-SMA-dat]] - [[antenna-IPEX-dat]] - [[antenna-UFL-dat]]
 
-
+- [[3in1-antenna-dat]]
 
 
 # Antenna Comparison Table
@@ -125,5 +125,7 @@ It works by using inductors and capacitors. The inductor blocks the RF signal bu
 
 
 ## ref
+
+- [[M2M-dat]]
 
 - [[antenna]]

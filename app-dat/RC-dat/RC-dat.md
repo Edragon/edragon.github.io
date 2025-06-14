@@ -33,3 +33,7 @@
 ## RC - manufacturers
 
 - [[Wfly-dat]] - [[betaFPV-dat]] - [[speedybee-dat]]
+
+## Teardown post 
+
+[Tear down and Learn a good-build $20 RC Toy Car](https://www.electrodragon.com/disassemble-and-learn-a-good-build-20-rc-toy-car/)

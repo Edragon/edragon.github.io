@@ -1,6 +1,10 @@
 
 # solar-power-dat
 
+app - [[power-storage-dat]]
+
+
+
 ## direction protection diodes
 
 - direction protection diodes for [[solar-panel-dat]] power supply 

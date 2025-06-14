@@ -1,6 +1,26 @@
 
 # Lead-acid-battery-dat
 
+
+
+Batteries store the energy produced by your solar panels for later use.
+
+##  Types:
+
+### General Lead-Acid Batteries:
+ 
+Common in automotive applications. They are relatively inexpensive and the technology is mature. However, they are heavy, have a shorter lifespan (approx. 3 years), require maintenance, and are not suitable for frequent deep discharge (recommended depth of discharge is ~20%).
+
+### Deep Cycle Lead-Acid Batteries:
+
+Designed for deep discharge (up to 80% or more) without significantly affecting lifespan. They have thicker plates and durable materials, making them well-suited for solar power systems, electric vehicles, and campers requiring continuous, stable power.
+ 
+
+**Capacity:** Measured in Amp-hours (Ah). A 12V 100Ah battery stores 12V * 100Ah = 1200 Watt-hours (Wh) of energy.
+
+![](2025-06-15-01-53-06.png)
+
+
 ## lead-acid-battery-dat
 
 - LAB: Lead-Acid Battery
@@ -74,6 +94,11 @@ This calculation estimates how long the ANJING 12V 2.6Ah battery can power a 5V 
 **Conclusion:**
 
 The **ideal calculated runtime is approximately 5.3 hours**. However, due to the higher discharge current (0.49A vs. the 0.13A rating), the actual runtime will be **noticeably less than 5.3 hours**. The exact reduction depends on the specific Peukert exponent of this battery model, which is not provided.
+
+
+## app 
+
+- [[power-storage-dat]]
 
 ## ref 
 
