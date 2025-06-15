@@ -43,6 +43,8 @@ The PCA9685 is an I²C-bus controlled 16-channel LED controller optimized for Re
 
 ## ref 
 
+- [[TLC5940-dat]]
+
 - [[I2C-dat]]
  
 - [[NXP-dat]]
