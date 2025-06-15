@@ -3,6 +3,11 @@
 
 common brand: 	Chemi-Con, Vishay, TDK, Pansonic, KEMET, Nichicon
 
+
+- [[decoupling-capacitor-dat]]
+
+
+
 ## Aluminum Electrolytic Capacitors - Radial Leaded
 
 UPM1C102MPD

@@ -19,6 +19,8 @@
 
 - [[TB6612-dat]] - [[SDR1059-dat]] - [[SDR1087-dat]] - [[MPC1114-dat]]
 
+- [[arduino-shields-dat]]
+
 ## chips 
 
 - [[ti-motor-dat]] 
@@ -48,8 +50,6 @@
 
 - [[ULN2003-dat]]
 
-- [[PCA9685-dat]]
-
 
 ## and more 
 
@@ -59,6 +59,9 @@
 
 - overcurrent / thermal shutdown protection / microstepping / precise motor control
 
+## advanced control 
+
+- [[PCA9685-dat]]
 
 ## Comparison 
 

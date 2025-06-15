@@ -18,6 +18,16 @@ https://ardupilot.org/rover/index.html
 
 - [[SDR1064-dat]]
 
+## Rover Version 
+
+Very basic version 
+
+![](2025-06-15-12-56-47.png)
+
+plastic chassis 4WD
+
+![](2025-06-15-13-03-31.png)
+
 ## 3D printed 
 
 - [[markus-rover-dat]]
@@ -42,6 +52,6 @@ Parts - [[TT-motor-dat]] - [[mecanum-wheel-dat]]
 
 ## ref 
 
-- [[dc-motor-dat]]
+- [[dc-motor-dat]] - [[motor-driver-dat]]
 
 - [[rc-car]] - [[maker]]
