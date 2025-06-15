@@ -2,7 +2,9 @@
 # Infrared 
 
 
+## APP 
 
+- [[IR-distance-measurer-dat]] - [[line-finder-dat]]
 
 ## Boards
 
@@ -10,6 +12,7 @@
 
 arduino shield - [[DAS1013-dat]]
 
+controller - [[SIR1003-dat]]
 
 ## RPI-SCH 
 
@@ -37,6 +40,9 @@ legacy wiki page - [Infrared for RPI](https://www.electrodragon.com/w/index.php?
 ## Demo code 
 
 - https://github.com/Edragon/Infrared
+
+- [[IR-rover-rc.ino]]
+
 
 ## ref 
 

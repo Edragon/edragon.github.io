@@ -36,8 +36,11 @@ most simple motion sensor
 | [[SMO1013-dat]] | [[MAX30102-dat]] | [[pulse-rate-dat]]     |                |                                                      |  
 
 
+## other 
 
+Principle of Tilt Sensors
 
+Tilt sensors are often used for horizontal measurement in systems. Based on their working principles, they can be divided into three types: "solid pendulum" type, "liquid pendulum" type, and "gas pendulum" type tilt sensors. Their working principles are introduced below.
 
 
 
