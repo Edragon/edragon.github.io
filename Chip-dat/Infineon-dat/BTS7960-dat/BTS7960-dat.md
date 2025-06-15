@@ -22,7 +22,9 @@ Product Features:
 ![](2025-06-03-01-04-03.png)
 
 
-## Wiring 
+## Wiring == 2x4 == 8pin 
+
+except feedback R_IS and L_IS and power supply , actual control is 4 pin 
 
 - 1. R_PWM: Forward rotation level or PWM signal input, high level active
 - 2. L_PWM: Reverse rotation level or PWM signal input, high level active

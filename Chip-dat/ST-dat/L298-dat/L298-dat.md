@@ -13,6 +13,12 @@ chip info, datasheet, etc.
 ![](2025-04-01-14-38-39.png)
 
 
+## SCH 
+
+SCH with [[LM2596-dat]]
+
+![](2025-06-15-14-30-14.png)
+
 ## App. 
 
 - [[SDR1093-dat]] - [[SDR1034-dat]] - [[SDR1048-dat]] - [[SDR1053-dat]]

@@ -9,6 +9,8 @@
 
 - [[STC-dat]] - [[PIC-dat]] - [[nuvoton-dat]] - [[WCH-dat]]
 
+- [[8051-dat]]
+
 ## Common-used MCU 
 
 | model             | price       | category       | footprint                      | features               | boards          |

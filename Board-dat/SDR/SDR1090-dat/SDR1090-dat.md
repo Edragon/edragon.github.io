@@ -26,9 +26,12 @@ chip == [[PCA9685-dat]]
 - Stackable design for arduino
 - 220ohm resistors for all the output, protective design for driving LEDs.
 
+## functions 
+
+- [[PCA9685-dat]] - [[servo-dat]] - [[I2C-dat]] - [[arduino-shields-dat]] - [[motor-driver-dat]]
+
 
 ## ref 
 
 == [[DAS1072-dat]]
 
-- [[PCA9685-dat]] - [[servo-dat]] - [[I2C-dat]] - [[arduino-shields-dat]]

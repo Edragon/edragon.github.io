@@ -22,18 +22,28 @@ https://ardupilot.org/rover/index.html
 
 Very basic version 
 
+including functions == [[ultrasonic-sensor-dat]], [[interactive-dat]] - [[infrared-dat]] - [[line-finder-dat]] - [[MCU-dat]]
+
 ![](2025-06-15-12-56-47.png)
 
 plastic chassis 4WD
 
 ![](2025-06-15-13-03-31.png)
 
+![](2025-06-15-14-10-56.png)
+
+![](2025-06-15-14-22-34.png)
+basic demo code 1 here == [[RC-code-dat]]
+
+## code 
+
+- [[RC-code-dat]]
 ## 3D printed 
 
 - [[markus-rover-dat]]
 
 
-## 3D files 
+### 3D files 
 
 ![](2025-05-23-15-11-02.png)
 
@@ -48,10 +58,14 @@ plastic chassis 4WD
 
 - [[SDR1064-dat]] 
 
+chip based [[PCA9685-dat]], [[L293-dat]], [[L298-dat]], [[TB6612-dat]] see more at [[motor-driver-dat]]
+
 Parts - [[TT-motor-dat]] - [[mecanum-wheel-dat]]
+
+
 
 ## ref 
 
-- [[dc-motor-dat]] - [[motor-driver-dat]]
+- [[dc-motor-dat]] - [[motor-driver-dat]] - [[motor-dat]] - [[servo-dat]]
 
 - [[rc-car]] - [[maker]]
