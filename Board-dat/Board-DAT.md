@@ -437,6 +437,8 @@ Darlinton driver - [[SCU1024-dat]]
 
 - [[SDR1087-dat]]
 
+- [[PCA9685-dat]] - [[SDR1090-dat]] - [[SDR1087-dat]]
+
 ### SMO
 
 - [[SMO1011-dat]] - [[SMO1013-dat]]

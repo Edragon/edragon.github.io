@@ -26,9 +26,20 @@
 
 ## breakout board schematic 
 
+control pins group A: PWMA, AIN1, AIN2
+
+control pins group B: PWMB, BAIN1, BIN2
+
+extra control : STBY
+
+![](2025-06-15-13-27-08.png)
+
 ![](2025-06-01-17-46-15.png)
 
-- [[power-protection-dat]]
+- [[power-protection-Vmotor-dat]]
+
+
+
 
 ## tutorial 
 

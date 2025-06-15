@@ -4,22 +4,13 @@
 
 # power-protection-dat
 
+- [[power-protection-Vmotor-dat]]
+
 ## reverse-votlage-protection
 
 ![](2025-03-24-19-39-56.png)
 
 
-## Example 2. for Motor Power Input 
-
-
-
-![](2025-06-01-17-51-12.png)
-
-- reverse-votlage-protection
-- voltage [[diode-zener-dat]] 6.8V - [[diode-dat]] == [[OVP-dat]] == over-voltage protection
-- inrush-protection 
-
-- ref == [[TB6612-dat]]
 
 
 ### Inrush Protection 

@@ -10,6 +10,9 @@
 
 - [[74HC590-dat]] - [[74HC595-dat]] - [[74HC126-dat]]
 
+- [[XOR-dat]]
+
+
 ## ref 
 
 - [[Logic-shifter-dat]] - [[74xx-dat]]
