@@ -22,7 +22,7 @@ https://ardupilot.org/rover/index.html
 
 Very basic version 
 
-including functions == [[ultrasonic-sensor-dat]], [[interactive-dat]] - [[infrared-dat]] - [[line-finder-dat]] - [[MCU-dat]]
+including functions == [[ultrasonic-sensor-dat]], [[interactive-dat]] - [[infrared-dat]] - [[line-finder-dat]] - [[MCU-dat]] - [[chassis-dat]] - [[cad-dat]] - [[wheels-dat]]
 
 ![](2025-06-15-12-56-47.png)
 
@@ -34,6 +34,8 @@ plastic chassis 4WD
 
 ![](2025-06-15-14-22-34.png)
 basic demo code 1 here == [[RC-code-dat]]
+
+
 
 ## code 
 
