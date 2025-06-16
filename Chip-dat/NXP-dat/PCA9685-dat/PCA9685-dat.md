@@ -39,6 +39,9 @@ The PCA9685 is an I²C-bus controlled 16-channel LED controller optimized for Re
 - [[servo-dat]]
 
 
+## demo code 
+
+- https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
 
 
 ## ref 

@@ -12,7 +12,9 @@
 
 [[MCU-dat]] - [[STC-dat]] - [[nuvoton-dat]]
 
-- [[fairchild-dat]] - [[NXP-dat]]
+- [[fairchild-dat]] 
+
+- [[NXP-dat]] - [[PCA9685-dat]]
 
 [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]]
 
