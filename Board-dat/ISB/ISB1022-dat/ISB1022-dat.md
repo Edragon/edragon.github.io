@@ -1,8 +1,11 @@
 
 # ISB1022-dat
 
-https://www.electrodragon.com/product/omron-b3f-microswitch-switch-button-with-cap/
+[10Kits Omron B3F Push Button w/Cap (Square Head)](https://www.electrodragon.com/product/omron-b3f-microswitch-switch-button-with-cap/)
 
+button type == PTH 
+
+PTH button + button blue cap + transparent cap 
 
 ## param
 
@@ -10,6 +13,6 @@ https://www.electrodragon.com/product/omron-b3f-microswitch-switch-button-with-c
 
 ## ref 
 
-- [[button-dat]]
+- [[button-dat]] - [[ISB1022]]
 
 

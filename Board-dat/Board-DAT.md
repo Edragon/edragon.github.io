@@ -164,7 +164,7 @@ LED control - [[ILC1063-dat]]
 
 ### ISB
 
-- [[ISB1016-dat]] - [[ISB1033-dat]]
+- [[ISB1016-dat]] - [[ISB1022-dat]] - [[ISB1033-dat]]
 
 ### ITF
 
@@ -246,7 +246,7 @@ MPC cable
 
 - [[MSP1046-dat]] - [[MSP1061-DAT]] - [[MSP1076-dat]]
 
-- [[MSP1025-dat]]
+- [[MSP1025-dat]] - [[MSP1032-dat]]
 
 
 ### NAN
