@@ -7,9 +7,11 @@
 
 - [[fab-stencil-dat]]
 
-- [[fab-mech-dat]] - [[sheet-metal-fab-dat]] - [[3d-print-dat]] - [[CNC-dat]] - [[case-dat]]
+- [[fab-mech-dat]] - [[3d-print-dat]] - [[CNC-dat]] - [[case-dat]]
 
+- [[sheet-metal-fab-dat]]
 
+- [[CAD-dat]] - [[onshape-dat]] - [[drawing-dat]] - [[assembly-dat]] - [[step-dat]]
 
 ## ref 
 
