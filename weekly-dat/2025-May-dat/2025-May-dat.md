@@ -9,6 +9,9 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[NGS1141-dat]] and [[NGS1142-dat]] upgraded from [[NGS1131-dat]]  [[NGS1132-dat]], [[A7670-dat]] supported GNSS, bluetooth, and LTE CAT-1, bare GNSS locating time is around 5-15 seconds in open area
 
+- [[NGS1144-dat]] and [[NGS1149-dat]] are the full pin lead out version of [[A7670-dat]], greate for prototyping and development, with GNSS, bluetooth, LTE CAT-1, and SIM. [[NGS1144-dat]] price as cheap as $7, but limited LTE bands please note.
+
+
 - [[NWL1116-dat]] is a TXD and RXD transceiver module for [[POF]] plastic fiber cable, with TTL serial interface, it can be used for long distance communication, up to 2KM
 
 - [[SVC1041-dat]] is another [[HLW8032-32]] fully isolated version, with power isolation and [[optical-coupler-dat]] isolated signals 
