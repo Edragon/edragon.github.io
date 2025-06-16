@@ -14,7 +14,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[NWL1116-dat]] is a TXD and RXD transceiver module for [[POF]] plastic fiber cable, with TTL serial interface, it can be used for long distance communication, up to 2KM. [product link](https://www.electrodragon.com/product/pof-plastic-fiber-cable-ttl-serial-transceiver-board/)
 
-- [[SVC1041-dat]] is another [[HLW8032-32]] fully isolated version, with power isolation and [[optical-coupler-dat]] isolated signals. [product link](https://www.electrodragon.com/product/energy-meter-hlw8032-breakout-board/)
+- [[SVC1041-dat]] is another [[HLW8032-dat]] fully isolated version, with power isolation and [[optical-coupler-dat]] isolated signals. [product link](https://www.electrodragon.com/product/energy-meter-hlw8032-breakout-board/)
 
 - [[SVC1038-dat]] is the V2 version of [[SVC1035-dat]], [[HLW8032-dat]] support up new types of [[current-transformer-dat]] up to 30A. [product link](https://www.electrodragon.com/product/vac-energy-meter-power-sensor-board-hlw8032-isolated-version/)
 
