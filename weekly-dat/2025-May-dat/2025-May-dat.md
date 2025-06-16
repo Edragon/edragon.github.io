@@ -9,6 +9,15 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[NGS1141-dat]] and [[NGS1142-dat]] upgraded from [[NGS1131-dat]]  [[NGS1132-dat]], [[A7670-dat]] supported GNSS, bluetooth, and LTE CAT-1, bare GNSS locating time is around 5-15 seconds in open area
 
+- [[NWL1116-dat]] is a TXD and RXD transceiver module for [[POF]] plastic fiber cable, with TTL serial interface, it can be used for long distance communication, up to 2KM
+
+- [[SVC1041-dat]] is another [[HLW8032-32]] fully isolated version, with power isolation and [[optical-coupler-dat]] isolated signals 
+
+- [[SVC1038-dat]] is the V2 version of [[SVC1035-dat]], [[HLW8032-dat]] support up new types of [[current-transformer-dat]] up to 30A
+
+- [[SDR1117-dat]] is the V2 version of [[SDR1064-dat]], with enhanced motor driving chip [[DRV8871-dat]]
+
+- [[BAT1005-dat]] and [[BAT1009-dat]], handy USB port charger for lithium battery, with prebuild cable connectors [[XH2.54-dat-dat]], [[PH2.0-dat]], [[SM2.54-dat]], etc
 
 
 ## Development, Documents Updates
