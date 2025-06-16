@@ -1,9 +1,16 @@
 
 # sheet-metal-fab-dat
 
-支持3D（必须）格式：.step, .stp ; 支持2D格式：dwg, dxf, pdf ; 可压缩包（zip、rar）直接上传
-支持多零件压缩统一下单，2D文件、BOM清单等文件名称需要一致（单次上传文件数≤20个，单个文件大小<100M）
-若零件之间具有装配关系，强烈建议您以装配体STEP文件上传
+- Supported 3D (required) formats: .step, .stp; Supported 2D formats: dwg, dxf, pdf; Compressed packages (zip, rar) can be uploaded directly.
+- Supports unified ordering for multiple parts in a compressed package; file names for 2D files, BOM lists, etc., need to be consistent (number of files per upload ≤20, individual file size <100M).
+- If there are assembly relationships between parts, it is strongly recommended that you upload an assembly STEP file.
+
+
+## Examples 
+
+- the following bending rack price == 20RM == 3 USD 
+
+![](2025-06-16-12-38-08.png)
 
 
 ## ref 
