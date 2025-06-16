@@ -3,6 +3,10 @@
 
 - [[fab-dat]]
 
+- [[step-dat]]
+
+- [[assembly-dat]] - [[onshape-dat]] - [[drawing-dat]]
+
 ## Cloud-based Tools:
 
 
