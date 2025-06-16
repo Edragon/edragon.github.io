@@ -1,6 +1,8 @@
 
 # location-dat
 
+[all location boards here. ](https://www.electrodragon.com/product-category/network/tracker/)
+
 ## tech 
 
 - [[GNSS-dat]] - [[GPS-dat]] - [[AGPS-dat]] - [[NEMA-dat]]

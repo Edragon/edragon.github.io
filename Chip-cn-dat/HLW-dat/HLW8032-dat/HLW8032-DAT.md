@@ -1,12 +1,24 @@
 # HLW8032 DAT
 
-- [[SVC1031-dat]] - [[SVC1035-dat]] - [[SVC1038-dat]] - [[SVC1041-dat]]
-
-python serial demo code refer to page - [[HLW8032-reg-dat]]
+[[python-dat]] serial demo code refer to page - [[HLW8032-reg-dat]]
 
 - [[HLW8032-faq-dat]] 
 
-- [[HLW8032-ISO-Version-dat]]
+
+[legacy wiki page.](https://www.electrodragon.com/w/Energy_meter) 
+
+
+## boards 
+
+- [[SVC1035-dat]] - [[SVC1038-dat]] - [[HLW8032-ISO-Version-dat]] by [[current-transformer]] and [[ac-voltage-transformer-dat]]
+
+- basic isolated version [[SVC1031-dat]]
+
+- [[ACDC-dat]] integrated [[SVC1041-dat]]
+
+retired version  - [[SVC1045-dat]]
+
+- [[HLW8012-dat]]
 
 ## Chip Info
 
@@ -58,6 +70,11 @@ Data format of HLW8032:
 - PDU equipment
 - LED lighting
 - Street light control
+
+## demo video 
+
+- [wiring and sensing](https://youtube.com/shorts/gFZTB0sYQD8?si=YbiH0ox_tiHjacsh) == [[SVC1041-dat]]
+- same video on twitter == [setup demo video](https://x.com/electro_phoenix/status/1933032154772222440)
 
 ## Demo code 
 

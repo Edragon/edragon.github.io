@@ -11,6 +11,11 @@
 
 Application: Router Heat Sink, CPU Heat Sink
 
+
+
+
+- [[PCB-accesories-dat]]
+
 ## ref 
 
 - [[mechanics-dat]]
