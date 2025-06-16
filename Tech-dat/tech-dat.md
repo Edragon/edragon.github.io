@@ -15,7 +15,7 @@
 
 - [[robot-dat]]
 
-- [[network-dat]] - [[M2M-dat]]
+- [[network-dat]] - [[M2M-dat]] - [[fiber-optic-dat]] - [[location-dat]]
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
 

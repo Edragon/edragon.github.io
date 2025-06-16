@@ -341,6 +341,10 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 
 [[PS2-console-dat]] - [[NWL1093-dat]] - [[NWL1097-dat]]
   
+- [[NWL1116-dat]]
+
+
+
 ### NWI
 - [[NWI1050-DAT]] - [[NWI1053-dat]] - [[NWI1070-DAT]] 
 - [[NWI1072-DAT]] - [[NWI1115-DAT]]
@@ -431,13 +435,15 @@ Darlinton driver - [[SCU1024-dat]]
 
 - [[SDR1040-DAT]] - [[SDR1041-DAT]] - [[SDR1096-DAT]] - [[SDR1106-dat]] - [[SDR1113-DAT]] - [[sdr1070-dat]]
 
-- [[sdr1062-dat]] - [[SDR1060-dat]] - [[SDR1064-dat]]
+- [[sdr1062-dat]] - [[SDR1060-dat]] 
 
 - [[L298-dat]]: - [[SDR1093-dat]] - [[SDR1034-dat]] - [[SDR1048-dat]] - [[SDR1053-dat]]
 
 - [[SDR1087-dat]]
 
 - [[PCA9685-dat]] - [[SDR1090-dat]] - [[SDR1087-dat]]
+
+- [[SDR1064-dat]] - [[SDR1117-dat]]
 
 ### SMO
 

@@ -1,7 +1,6 @@
 
 # HLW8032-reg-dat.md
 
-[setup demo video](https://x.com/electro_phoenix/status/1933032154772222440)
 
 - python code processing, based on [[parse_data.py]]
 
@@ -11,7 +10,7 @@
 - Sample data, copied from serial port read [[data-SVC1038.txt]]
 - some more analysis process [[HLW8032-analysis-SVC1038]]
 
-
+- see demo video at [[HLW8032-dat]]
 
 ## Info Guide 
 
