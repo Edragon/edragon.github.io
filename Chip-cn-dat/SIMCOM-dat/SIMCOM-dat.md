@@ -12,25 +12,28 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 ## boards 
 
-- [[SIM800-dat]] - [[NGS1070-dat]] - [[NGS1071-dat]] - [[NGS1074-dat]]
+- [[A7670-dat]] - [[NGS1144-dat]] - [[NGS1149-dat]] - [[NGS1141-dat]] - [[NGS1042-dat]]
 
-- [[NGS1072-dat]]
+- [[SIM7600-dat]]
 
-- [[SIM868-dat]] - [[NGS1089-dat]]
+- [[SIM808-dat]] - [[NGS1024-dat]]
   
-- [[A7670-dat]]
+- [[SIM868-dat]] - [[NGS1089-dat]]
 
+- [[SIM800-dat]] - [[NGS1070-dat]] - [[NGS1071-dat]] - [[NGS1074-dat]]
+  
+- [[NGS1072-dat]]
+  
 - [[SIM7000-dat]]
   
 - [[SIM7020-dat]] - [[NGS1094-dat]] - [[NGS1095-dat]] - [[NGS1096-dat]]
+
+- [[SIM7060-dat]]
 
 - [[SIM7070-dat]]
   
 - [[SIM7080-dat]]
 
-- [[SIM7600-dat]]
-
-- [[SIM808-dat]] 
 
 ## Module Comparision 
 
