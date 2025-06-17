@@ -1,6 +1,16 @@
 # SDR1073-dat
 
-![](2023-09-28-18-30-28.png)
+[High Power MOSFET Drive Module, PWM Control](https://www.electrodragon.com/product/high-power-mosfet-drive-module-pwm-control/)
+
+
+- [[AOD4184-dat]]
+
+
+## functions 
+
+
+![](2025-06-17-14-11-18.png)
+
 
 ### Two Control Mode
 

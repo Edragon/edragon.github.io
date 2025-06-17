@@ -9,9 +9,13 @@
 
 - [[cable-dat]] - [[conn-cable-terminal-dat]] - [[wire-2-wire-dat]]
 
+## tech 
+
+- [[PWM-chopper-type-motor-driver]] - [[FOC-dat]] - [[CC-CCW-control-dat]]
+
 ## Board 
 
-- [[SDR1040-dat]] - [[SDR1102-dat]] - [[SDR1109-dat]] - [[SDR1048-dat]] - [[SDR1059-dat]] - [[SDR1050-dat]]
+- [[SDR1102-dat]] - [[SDR1109-dat]] - [[SDR1048-dat]] - [[SDR1059-dat]] - [[SDR1050-dat]]
 
 - [[SDR1090-dat]] - [[SDR1079-dat]] - [[SDR1062-dat]]
 
@@ -22,6 +26,14 @@
 - [[TB6612-dat]] - [[SDR1059-dat]] - [[SDR1087-dat]] - [[MPC1114-dat]]
 
 - [[arduino-shields-dat]]
+
+- [[L298-dat]] - [[SDR1093-dat]] - [[SDR1048-dat]]
+
+- [[DRV8871-dat]] - [[SDR1117-dat]]
+
+- [[DRV8825-dat]] - [[SDR1040-dat]] - [[SDR1113-dat]]
+
+- [[L293-dat]] - [[SDR1064-dat]]
 
 ## chips 
 
@@ -40,7 +52,7 @@
 
 - [[stepper-dat]]
 
-- [[TB67H450-dat]] - [[TB6612-dat]]
+- [[TB67H450-dat]] - [[TB6612-dat]] - [[toshiba-dat]]
  
 - [[A4988-dat]]
 

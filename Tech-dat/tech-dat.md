@@ -7,7 +7,7 @@
   
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[mosfet-dat]] - [[resistor-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
@@ -50,9 +50,9 @@
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]] - [[dc-gear-motor-dat]] 
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[relay-dat]]
 
-- [[relay-dat]]
+- [[relay-dat]] - [[SSR-dat]]
 
 - [[laser-dat]]
 
@@ -63,9 +63,13 @@
 
 ### Interface and signals 
 
-- [[interface-dat]] - [[serial-dat]] - [[serial-wireless-dat]]
+- [[interface-dat]] 
 
+- [[serial-dat]] - [[serial-wireless-dat]]
+  
 - [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]]
+
+- [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]]
 
 
 ## Utilities 
@@ -78,7 +82,7 @@
 
 ## Code and SDK 
 
-- [[arduino-ide-dat]] - [[PWM-dat]]
+- [[arduino-ide-dat]] 
 
 - [[logic-dat]]
 
