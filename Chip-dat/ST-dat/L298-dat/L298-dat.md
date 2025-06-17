@@ -19,10 +19,12 @@ SCH with [[LM2596-dat]]
 
 ![](2025-06-15-14-30-14.png)
 
-## App. 
+## Boards. 
 
 - [[SDR1093-dat]] - [[SDR1034-dat]] - [[SDR1048-dat]] - [[SDR1053-dat]]
- 
+
+
+
 ## ref 
  
 - [[L298]] 

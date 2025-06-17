@@ -2,7 +2,18 @@
 
 - arduino code example  - [[arduino-fading.ino]]
 
-## read RC signal 
+- [[mosfet-dat]]
+
+
+## boards 
+
+- [[SCU1063-dat]]
+
+- [[SG3525-dat]] - [[MSP1046-dat]]
+
+
+
+## code - read RC signal 
 
 - [[RC-link-dat]] - [[PPM-dat]]
 
@@ -97,8 +108,3 @@ Description:
 - **HIGH**: Measure the duration of the HIGH part of the PWM pulse.
 - **25000**: Timeout value in microseconds (25 ms). If no pulse is detected within this time, the function returns 0.
 
-## boards 
-
-- [[SCU1063-dat]]
-
-- [[SG3525-dat]]

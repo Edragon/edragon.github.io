@@ -5,6 +5,16 @@
 
 - [[mosfet-driver-dat]] for high speed usage 
 
+- [[PWM-dat]]
+
+
+## board 
+
+- [[SCU1063-dat]]
+
+- [[PWM-dat]] generator - [[MSP1046-dat]]
+
+- [[SDR1073-dat]] - [[AOD4184-dat]]
 
 ## brand 
 

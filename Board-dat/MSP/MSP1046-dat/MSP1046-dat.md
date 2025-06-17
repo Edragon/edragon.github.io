@@ -1,7 +1,9 @@
 
 # MSP1046-dat
 
-https://www.electrodragon.com/product/sg3525-pulse-width-modulator-breakout/
+
+[SG3525 PWM Pulse Width Modulator Breakout](https://www.electrodragon.com/product/sg3525-pulse-width-modulator-breakout/)
+
 
 ## Board map 
 
@@ -9,7 +11,7 @@ https://www.electrodragon.com/product/sg3525-pulse-width-modulator-breakout/
 
 - left potentiometer = no int. input 
 - right potentiometer = RT
-- output = VC 
+- 2x 2-pin output = OUT/OUT/GND/GND
 
 ## Usage Guide 
 
@@ -31,15 +33,19 @@ The effect is as shown in the figure:
 
 ### Adjusting the duty cycle and frequency
 
-Among them, adjusting potentiometer R5 is to adjust the duty cycle, and adjusting potentiometer R6 is to adjust the frequency. The output frequency is adjusted to more than 700 Hz, as shown in the figure below:
+Among them, 
+- adjusting potentiometer R5 is to adjust the duty cycle, 
+- and adjusting potentiometer R6 is to adjust the frequency. 
+
+The output frequency is adjusted to more than 700 Hz, as shown in the figure below:
 
 ![](2025-01-09-17-54-29.png)
+
+
 
 ### PWM drive
 
 After adjusting the required frequency and duty cycle, directly connect OUT to the positive input of the circuit to be driven, and GND to the negative input of the driving circuit.
-
-
 
 
 ## ref 

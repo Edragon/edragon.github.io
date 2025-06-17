@@ -8,6 +8,15 @@
 - [[APA102-2020-dat]]
 
 
+## led 
+
+[20PCs 3mm Super-light Transparent LED [Bright Color]](https://www.electrodragon.com/product/basic-led-100-pcs-3mm/)
+
+- [[ILE1016-dat]] - [[ILE1017-dat]] - [[ILE1018-dat]] - [[ILE1019-dat]] - [[ILE1020-dat]] - [[ILE1021-dat]]
+== - yellow - red - blue - white - purple - green 
+
+
+
 ## drive high brightness LED 
 
 GPIO4: 
