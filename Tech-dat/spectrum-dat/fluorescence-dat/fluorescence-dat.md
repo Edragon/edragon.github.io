@@ -17,12 +17,11 @@ You cannot see ultraviolet light itself, but when it shines on fluorescent subst
 It's like striking a bell (ultraviolet light) → the bell sounds (fluorescence)
 Ultraviolet light provides the energy, and fluorescence is the visible light "emitted" by the substance after being excited.
 
+✅ Brief Differences:
 
-✅ 简要区别：
-
-| 项目     | 荧光 (Fluorescence)      | 紫外线 (Ultraviolet, UV)   |
-| -------- | ------------------------ | -------------------------- |
-| 是什么   | 一种现象（发光现象）     | 一种电磁波（光的一种）     |
-| 波长     | 发出的是可见光           | 波长比可见光短，肉眼看不见 |
-| 来源     | 需要被激发，如紫外线激发 | 自然存在于阳光中、紫外灯   |
-| 是否可见 | 荧光是可见的             | 紫外线肉眼看不见           |
+| Feature         | Fluorescence                      | Ultraviolet (UV)                     |
+| --------------- | --------------------------------- | ------------------------------------ |
+| What it is      | A phenomenon (light emission)     | A type of electromagnetic wave (light) |
+| Wavelength      | Emits visible light               | Shorter wavelength than visible light, invisible to the naked eye |
+| Source          | Needs excitation, e.g., by UV light | Naturally present in sunlight, UV lamps |
+| Visibility      | Fluorescence is visible           | UV light is invisible to the naked eye |
