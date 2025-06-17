@@ -1,7 +1,10 @@
 
 # rocker-switch-dat
 
-- [[KCD4-dat]]
+based on - [[KCD4-dat]] 
+
+
+
 
 ## 6P 3-Position Rocker Switch Overview == K4D 
 
