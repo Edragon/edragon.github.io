@@ -25,3 +25,6 @@ Ultraviolet light provides the energy, and fluorescence is the visible light "em
 | Wavelength      | Emits visible light               | Shorter wavelength than visible light, invisible to the naked eye |
 | Source          | Needs excitation, e.g., by UV light | Naturally present in sunlight, UV lamps |
 | Visibility      | Fluorescence is visible           | UV light is invisible to the naked eye |
+
+
+## spectrum-dat
