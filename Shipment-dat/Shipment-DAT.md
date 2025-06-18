@@ -52,7 +52,9 @@ Normal Post, worldwide delivery
 
 ### Express Shipment 
 
-- [[FEDEX-CN-dat]] - [[DHL-dat]] - UPS
+- use [[DHL-dat]] [[UPS-dat]] for high value and larget pacakge, use [[Fedex-dat]] for small express package delivery
+
+- [[FEDEX-CN-dat]] - [[DHL-dat]] - [[UPS-dat]]
 
 - [[remote-address-dat]] sometimes will be extrally applied
 
