@@ -9,7 +9,10 @@
 
 Pin Definitions 5V / VCC / TXD / RXD / GND 
 
+note the wiring 
 
+- target TX - to on board TX
+- target RX - to on board RX
 
 
 ## Applications, category, tags, etc. 
