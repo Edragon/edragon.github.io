@@ -65,4 +65,6 @@ Using plastic optical fiber (POF) to transmit UART serial data provides EMI resi
 
 ## ref 
 
+- [[fiber-optic-serial]] - [[fiber-optic]]
+
 - [[fiber-optic-app-dat]]

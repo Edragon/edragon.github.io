@@ -18,6 +18,17 @@ Use Case: **Data centers**, backbone cabling, high-speed interconnects.
 
 You’ll need an MTP/MPO adapter or cassette to fan out into **LC or SC connectors** if you're patching it to more standard fiber connections.
 
+## use guide 
+
+- [MPO housing remove guide](https://www.youtube.com/shorts/soxnNBGLyRI)
+
+
+![](2025-06-19-16-59-05.png)
+
+![](2025-06-19-17-00-09.png)
+
+![](2025-06-19-17-00-44.png)
+
 
 ## ref 
 

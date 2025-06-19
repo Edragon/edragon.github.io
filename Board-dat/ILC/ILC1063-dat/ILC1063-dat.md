@@ -14,6 +14,14 @@
 
 ## control 
 
+Use a special light tuning IC SJT83, supports two ways of controlling:
+- press once to turn ON, hold for speedless tuning light from low to high, press once to turn off
+- press once to turn ON, hold for speedless tuning light from high to low, press once to turn off
+- press once to turn ON, press each three times for low, medium, high light intensity, press once to turn off
+- press once to turn ON, press each three times for low, medium, high light intensity, press once to turn off
+
+
+
 Chip function simply based on mosfet output control, it is a pre-programmed chip.
 
 | pin 1 | pin 8 | pin 6 | function                     |                                                                                         |
@@ -32,29 +40,7 @@ Chip function simply based on mosfet output control, it is a pre-programmed chip
 ## demo video 
 
 - https://www.youtube.com/watch?v=2B5snq0Ek3s
-
-
-## SJT83-dat 
-
-### features 
-
-- ● 1 capacitive touch sensing button
-- ● Operating voltage: 2.5V～5.5V
-- ● Power consumption: VDD=5V without load
-- Operating current 700uA, standby current 12uA
-- ● Provides two modes: stepless dimming and three-stage dimming
-- Provides stepless dimming mode with single-button dual-channel output
-- ● With brightness memory function and gradual dimming effect
-- ● Automatic adaptation function to changes in ambient temperature and humidity
-- ● Super strong anti-radio and anti-EMC interference capabilities
-
-### APP 
-
-Applications:
-
-Touch LED dimming desk lamp, touch LED dimming wall lamp, touch LED flashlight, metal shell touch dimming desk lamp, other
-
-LED dimming lighting or touch products that require PWM output control.
+- speedless control, note the LED has a lens on it
 
 
 ## ref 
