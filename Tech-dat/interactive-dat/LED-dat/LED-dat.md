@@ -1,6 +1,8 @@
 
 # LED-dat
 
+- [[LED-strip-dat]] - [[led-driver-dat]]
+
 ## Boards 
 
 - [[ILE1073-dat]]
@@ -22,6 +24,11 @@
 GPIO4: 
 
 ![](2024-12-28-17-42-41.png)
+
+
+
+
+
 
 
 ## ref 
