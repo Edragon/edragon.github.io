@@ -2,6 +2,8 @@
 
 # WCH dat
 
+- [[WCH]]
+
 ## MCU types 
 - [[CH55x-DAT]]
 - [[CH551-dat]]
@@ -31,6 +33,10 @@
 ## IO-expander
 
 - [[CH423-dat]]
+
+## from USB 
+
+- [[CH9340-dat]]
 
 ## USB Android HOST
 

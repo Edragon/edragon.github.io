@@ -233,6 +233,8 @@ Matrix panel control - [[MPC1073-DAT]] - [[MPC1119-DAT]] - [[MPC1130-dat]]
 
 - [[MPC1111-dat]]
 
+[[motor-driver-dat]] - [[MPC1114-dat]]
+
 MPC cable
 
 - [[MPCS051-dat]]

@@ -87,6 +87,8 @@ can use commands nohup to run script in background for long term.
 
 ### Boards and Shields 
 
+- [[RPI-shields-dat]]
+
 - [[MPC1029-dat]] - [[MPC1056-dat]] - [[MPC1123-dat]] - [[MPC1073-dat]] - [[MPC1119-dat]] - [[MPC1130-dat]]
 
 - [[MPC1091-dat]]
