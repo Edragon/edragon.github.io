@@ -11,7 +11,18 @@
 
 - [[8051-dat]]
 
+## Common-used MCU support OTA and configure 
+
+- [[nrf52840-dat]] 
+
+- [[ESP32-dat]]
+
+
+
 ## Common-used MCU 
+
+
+
 
 | model             | price       | category       | footprint                      | features               | boards          |
 | ----------------- | ----------- | -------------- | ------------------------------ | ---------------------- | --------------- |
@@ -31,7 +42,7 @@
 | ATSAMD21-G18A     |             | [[SAMD21-dat]] |                                |                        | [[SDR1096-dat]] |
 | ATSAMD21-E15L-MNT | 1 : 7.39000 | [[SAMD21-dat]] |                                | (USART+I2C+SPI+LIN) x6 |                 |
 | HC32F00X          |             | [[HDSC-dat]]   | QFN x20                        | USART x2               | [[NBL1107-dat]] |
-| RP2040            | 30+: 5.24   | [[RPI-dat]]    |                                |                        |                 |
+| [[RP2040-dat]]    | 30+: 5.24   | [[RPI-dat]]    |                                |                        |                 |
 
 
 
@@ -49,12 +60,12 @@ SAMD21
 
 ## Cheap High-operating temperature MCUs 
 
-| MCU Model           | Core            | Operating Temp | Operating Current | Power Supply | Pins | Interfaces (SPI, UART, RTC) |
-|---------------------|----------------|---------------|------------------|--------------|------|-----------------------------|
-| Texas Instruments TMS570LS0432 | ARM Cortex-R4F | -40°C to 175°C | ~5-10mA       | 1.2V–3.3V  | 64   | SPI, UART (RX/TX), RTC     |
-| Microchip ATSAMC21J18A | ARM Cortex-M0+ | -40°C to 180°C | ~5-8mA         | 1.62V–3.6V  | 64   | SPI, UART (RX/TX), RTC     |
-| NXP S32K144 | ARM Cortex-M4F | -40°C to 175°C | ~7-10mA       | 1.71V–3.6V  | 64   | SPI, UART (RX/TX), RTC     |
-| GigaDevice GD32A5xx           | ARM Cortex-M33   | -40°C to 125°C | ~5-8 mA           | 1.62V–3.6V   | 64   | SPI, UART (RX/TX), RTC      | 
+| MCU Model                      | Core           | Operating Temp | Operating Current | Power Supply | Pins | Interfaces (SPI, UART, RTC) |
+| ------------------------------ | -------------- | -------------- | ----------------- | ------------ | ---- | --------------------------- |
+| Texas Instruments TMS570LS0432 | ARM Cortex-R4F | -40°C to 175°C | ~5-10mA           | 1.2V–3.3V    | 64   | SPI, UART (RX/TX), RTC      |
+| Microchip ATSAMC21J18A         | ARM Cortex-M0+ | -40°C to 180°C | ~5-8mA            | 1.62V–3.6V   | 64   | SPI, UART (RX/TX), RTC      |
+| NXP S32K144                    | ARM Cortex-M4F | -40°C to 175°C | ~7-10mA           | 1.71V–3.6V   | 64   | SPI, UART (RX/TX), RTC      |
+| GigaDevice GD32A5xx            | ARM Cortex-M33 | -40°C to 125°C | ~5-8 mA           | 1.62V–3.6V   | 64   | SPI, UART (RX/TX), RTC      |
 
 
 - TMS570LS0432
@@ -71,12 +82,17 @@ SAMD21
 Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter.
 
 
-| MCU              | Internal DC-DC | Cost (approx) | Simplicity | Notes                            |
-|------------------|----------------|----------------|------------|----------------------------------|
-| nRF52810         | ✅ Yes         | $1.5–2         | ⭐⭐         | BLE-capable, efficient           |
-| STM32L412        | ✅ Yes         | ~$2.5          | ⭐⭐         | General-purpose low-power        |
-| RP2040 (Pico)    | ❌ (Pico: ✅)   | $1–4           | ⭐⭐⭐        | Easy, cheap, DC-DC on module     |
-| ATmega328P + DC-DC | External     | ~$1.5 total    | ⭐⭐⭐        | Classic and cheap combo          |
+| MCU                | Internal DC-DC | Cost (approx) | Simplicity | Notes                        |
+| ------------------ | -------------- | ------------- | ---------- | ---------------------------- |
+| nRF52810           | ✅ Yes          | $1.5–2        | ⭐⭐         | BLE-capable, efficient       |
+| STM32L412          | ✅ Yes          | ~$2.5         | ⭐⭐         | General-purpose low-power    |
+| RP2040 (Pico)      | ❌ (Pico: ✅)    | $1–4          | ⭐⭐⭐        | Easy, cheap, DC-DC on module |
+| ATmega328P + DC-DC | External       | ~$1.5 total   | ⭐⭐⭐        | Classic and cheap combo      |
+
+
+## APP 
+
+- [[opensource-dat]]
 
 
 
