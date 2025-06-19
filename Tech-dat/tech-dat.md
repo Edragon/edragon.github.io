@@ -1,6 +1,8 @@
 
 # tech 
 
+- [[board-dat]]
+
 - [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]]
 
 - [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]] - [[battery-pack-dat]]

@@ -1,7 +1,10 @@
 
-# MSP1098-dat
+# MPC1098-dat
 
-https://www.electrodragon.com/product/raspberry-pi-gpio-shield-v2/
+
+[raspberry-pi-gpio-shield-v2](https://www.electrodragon.com/product/raspberry-pi-gpio-shield-v2/)
+
+
 
 - [[RS232-dat]], wiring as below 
 
