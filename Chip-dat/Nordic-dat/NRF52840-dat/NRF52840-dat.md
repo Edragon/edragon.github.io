@@ -26,6 +26,17 @@
 - 8/9/10/11/12-bit ADC, 200 ksps
 - 4x 32-bit timers, RTC, watchdog, and more
 
+
+## module info 
+
+- free GPIO == 29 
+- flash = 1MB 
+
+![](2025-06-19-13-53-11.png)
+
+
 ## ref 
+
+- [[bluetooth-dat]]
 
 - [[nordic-dat]]

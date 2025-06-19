@@ -7,6 +7,12 @@ chip version == A7670C
 
 ![](2025-06-14-22-41-05.png)
 
+## power supply 
+
+- [[TPS54302-dat]]
+
+
+
 ## Pin Definitions 
 
 bottom pins 
