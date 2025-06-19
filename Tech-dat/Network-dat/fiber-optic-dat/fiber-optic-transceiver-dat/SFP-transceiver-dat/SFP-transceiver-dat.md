@@ -139,16 +139,7 @@ Key Pin Groups:
 While this pinout is standard, the datasheet for the specific SFP module model (like the Avago AFBR-709SMZ from your first image) is always the definitive source. However, for standard SFP/SFP+ functions, this MSA pinout is reliable.
 
 
-## TE/AMP 1367073-1 20-pin connector 
 
-![](2025-04-22-14-17-07.png)
-
-![](2025-04-22-14-15-58.png)
-
-![](2025-04-22-14-16-14.png)
-
-![](2025-04-22-14-16-28.png)
-## APPs 
 
 SFP to [[RJ45-dat]]
 
@@ -184,12 +175,6 @@ SFP+ 单模: 1310nm到1550nm波长，可传10~80千米。
 
 ![](2025-03-27-18-03-01.png)
 
-
-## customized analog-video plus serial data fiber-optic transceiver
-
-![](2025-03-27-18-17-54.png)
-
-![](2025-03-27-18-19-08.png)
 
 
 

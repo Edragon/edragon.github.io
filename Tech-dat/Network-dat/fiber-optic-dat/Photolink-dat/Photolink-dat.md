@@ -22,10 +22,7 @@ https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5335/PLT237-T10WH_R
 | **Package**     | Photo-link Connector             | Photo-link Connector             |
 | **Manufacturer**| Everlight (Likely)               | Everlight                        |
 
-
-### matched connectors 
-
-![](2025-04-24-18-39-29.png)
+- compatible with [[toslink-dat]]
 
 [[TOSLINK-dat]] [[SPDIF-dat]] connector - [[interface-dat]]
 
