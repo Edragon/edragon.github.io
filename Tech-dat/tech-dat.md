@@ -28,9 +28,11 @@
 
 ## network 
 
-- [[network-dat]] - [[fiber-optic-dat]] - [[location-dat]]
+- [[network-dat]] - [[location-dat]]
 
 - [[network-system-dat]]
+
+- [[fiber-optic-dat]]
 
 ### MCU / CTRL / Processing 
 

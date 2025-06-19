@@ -2,21 +2,22 @@
 # fiber-optic-transceiver-dat
 
 
+**SFPs** in the network switch can offer alarming and failure reporting (DOM) so that technicians can check the network failure by the information. 
 
-## LC/UPC, SC/UPC, LC/APC, SC/APC, FC/APC, FC/UPC Connector
+**Media converters** are a solution where a switch or connected device does not support optical or needs to extend the transmission distance.
 
-![](2025-04-22-12-19-33.png)
+- [[fiber-optic-dat]] to [[ethernet-dat]]
 
+![](2025-06-19-15-08-03.png)
 
-## SC/APC connector installation 
+![](2025-06-19-15-16-26.png)
 
-[Installation Instruction for SC/APC FUSEConnect® Fusion-Spliced Connectors](https://www.youtube.com/watch?v=JnqhVENXHjU)
-
-![](2025-04-22-12-22-34.png)
-
+- connector type = [[SC-connector-dat]] 
 
 
 ## ref 
+
+- [[fiber-optic-connector-dat]]
 
 - [[SFP-transceiver-dat]]
 
