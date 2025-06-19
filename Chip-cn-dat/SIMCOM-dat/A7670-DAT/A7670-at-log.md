@@ -1,7 +1,7 @@
 
 # A7670-at-log.md
 
-- use pre-build SIMCOM AT here [[simcom-at-sscom-dat]]
+- use pre-build SIMCOM AT here [[simcom-at-basic-dat]]
 
 - [[A7670-dat]]
 
