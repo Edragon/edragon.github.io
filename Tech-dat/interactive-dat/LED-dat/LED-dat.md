@@ -1,21 +1,42 @@
 
 # LED-dat
 
-- [[LED-strip-dat]] - [[led-driver-dat]]
-
-## Boards 
-
-- [[ILE1073-dat]]
-
-- [[APA102-2020-dat]]
+- [[LED-strip-dat]] 
+ 
+- general led driver [[led-driver-dat]] - [[ILC1063-dat]] - [[IDD1002-dat]]
 
 
-## led 
+## LED driver boards  
+
+- [[ILE1073-dat]] - [[NWI1124-dat]] - [[NWI1126-dat]]
+
+
+## general single PTH led 
 
 [20PCs 3mm Super-light Transparent LED [Bright Color]](https://www.electrodragon.com/product/basic-led-100-pcs-3mm/)
 
 - [[ILE1016-dat]] - [[ILE1017-dat]] - [[ILE1018-dat]] - [[ILE1019-dat]] - [[ILE1020-dat]] - [[ILE1021-dat]]
 == - yellow - red - blue - white - purple - green 
+
+## SMD LED with / without internal chips
+
+SMD LED with internal chips [[WS2812-dat]]
+
+pre-programmed USB driving cable for [[WS2812-dat]] - [[IDD1011-dat]]
+
+SMD LED without internal chips - [[ILE1002-dat]]
+
+other types - [[APA102-2020-dat]]
+
+
+
+## high power LED 
+
+- [[high-power-led-dat]]
+
+- 100W == [[ILE1044-dat]] - 20W == [[ILE1041-dat]]
+
+
 
 
 

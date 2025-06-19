@@ -1,7 +1,9 @@
 
 # ILC1063-dat
 
-https://www.electrodragon.com/product/light-tuner-controller-sjt83-breakout/
+
+[light-tuner-controller-sjt83-breakout](https://www.electrodragon.com/product/light-tuner-controller-sjt83-breakout/)
+
 
 
 ## board map 

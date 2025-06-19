@@ -3,7 +3,9 @@
 
 - DC 4-7V 
 
-https://www.electrodragon.com/product/ws2812-neopixels-ring-leds/
+[WS2812 5050 RGB LED Ring Board [LEDs]](https://www.electrodragon.com/product/ws2812-neopixels-ring-leds/)
+
+
 
 
 ## ref 

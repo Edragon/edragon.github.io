@@ -17,7 +17,7 @@
 | **Wavelength**     | ~650 nm (red light)  | 850, 1310, or 1550 nm    |
 | **Use Case**       | Home audio systems   | Enterprise, telecom, ISP |
 
-
+in market the maximium length toslink cable is 30 meters 
 
 
 ## Are SPDIF and TOSLINK the Same?

@@ -21,10 +21,16 @@ https://www.electrodragon.com/?product=wall-adapter-power-supply
 
 
 ## control box 
+
 - [[ILSS001-dat]]
 - [[NWI1126-dat]]
 
 https://www.electrodragon.com/?product=led-strips-control-box-and-remote-controller
+
+## pre-programmed USB driving cable 
+
+- [[IDD1011-dat]]
+
 
 ## Modify / cutting or connecting 
 
