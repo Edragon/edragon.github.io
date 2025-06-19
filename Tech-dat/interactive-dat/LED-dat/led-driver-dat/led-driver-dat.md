@@ -37,7 +37,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 ### high speed switching 
 
-- writing ..
+- writing .. == [[mosfet-driver-dat]]
 
 
 

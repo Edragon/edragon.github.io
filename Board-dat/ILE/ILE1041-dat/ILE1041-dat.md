@@ -1,7 +1,8 @@
 
 # ILE1041-dat
 
-https://www.electrodragon.com/product/high-power-full-white-led-variable100w30w50w20w/
+[high-power-full-white-led-variable](https://www.electrodragon.com/product/high-power-full-white-led-variable100w30w50w20w/)
+
 
 Current: 500-600MA
 
