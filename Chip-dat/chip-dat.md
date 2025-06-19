@@ -2,11 +2,16 @@
 
 # chip-dat 
 
-- [[bosch-dat]]
+from a to z 
+
+- [[74xx-dat]]
 
 - [[allegro-dat]]: [[ACS712-dat]]
 
-- [[74xx-dat]]
+- [[bosch-dat]]
+
+
+
 
 - [[microchip-dat]] - [[avr-sdk-dat]] - [[AVR-dat]]
 
@@ -15,6 +20,8 @@
 - [[fairchild-dat]] 
 
 - [[NXP-dat]] - [[PCA9685-dat]]
+
+- [[nordic-dat]]
 
 [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]]
 

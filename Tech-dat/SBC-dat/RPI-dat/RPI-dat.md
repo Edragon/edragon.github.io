@@ -9,11 +9,7 @@
 
 ## hardware 
 
-- [[rpi-pin-dat]]
-
-- [[raspbian-os-dat]]
-
-- [[RPI-HDK-dat]]
+- [[raspberry-pi-dat]]
 
 ### power delivery 
 
