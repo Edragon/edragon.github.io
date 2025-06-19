@@ -176,7 +176,9 @@ SFP+ 单模: 1310nm到1550nm波长，可传10~80千米。
 ![](2025-03-27-18-03-01.png)
 
 
+## chip solutions 
 
+- [[realtek-dat]]
 
 ## ref 
 

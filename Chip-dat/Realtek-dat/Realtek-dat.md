@@ -4,10 +4,15 @@
 
 ## chips 
 
+- [[RTL8201-dat]]
+
 - [[RTL8192-dat]] - [[RTL8211-dat]] - [[RTL8305-dat]]
 
 - [[RTL8188-dat]]
 
+- [[RTL8213-dat]]
+
+- [[RTL8367-dat]]
 
 
 ## Boards 
@@ -34,6 +39,10 @@ Supported Chipsets
 
 ## ref 
 
+- [[realtek]]
+
 - [[802.11-dat]] - [[wifi-dat]]
 
 - [[chip-dat]]
+
+- [[TI-power-dat]]
