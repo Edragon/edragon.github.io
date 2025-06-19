@@ -1,8 +1,13 @@
 # RGB matrix panel dat
 
+
+- [[led-full-panel-installation-dat]] - [[flexible-led-rgb-panel-dat]] - [[led-rgb-panel-chip-dat]]
+
 We sell the highly reliable, high quality panels. Probably the top quality from local top factory.
 
-https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/
+[rgb-full-color-led-matrix-panel](https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/)
+
+
 
 
 ## Panel Specifications
