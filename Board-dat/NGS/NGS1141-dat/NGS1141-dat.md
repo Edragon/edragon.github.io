@@ -17,7 +17,9 @@ Update logs
 
 - well supported for [[GNSS-dat]] and [[bluetooth-dat]], at open area locating timing by GNSS is around 5-15 seconsds
 
-- [[SIMCOM-AT-location-dat]]
+- [[SIMCOM-AT-location-dat]] - [[SIMCOM-at-dat]]
+
+Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
 ## Applications, category, tags, etc. 
 

@@ -21,7 +21,7 @@ from a to z
 
 - [[NXP-dat]] - [[PCA9685-dat]]
 
-- [[nordic-dat]]
+- [[nordic-dat]] - [[nrf52840-dat]]
 
 [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]]
 

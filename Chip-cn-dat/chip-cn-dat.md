@@ -3,11 +3,14 @@
 
 - [[chip-dat]]
 
+
 - [[Espressif-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ESP-SDK-dat]]
 
 - [[esp8266-modules-dat]]
 
-- [[SIMCOM-dat]] - [[quectel-dat]] - [[A7670-dat]]
+- [[SIMCOM-dat]]  - [[A7670-dat]]
+
+- [[quectel-dat]]
 
 - [[WCH-dat]]
 
@@ -22,3 +25,10 @@
 - [[DJI-dat]]
 
 - [[TP-dat]] - [[TP4056-dat]]
+
+
+
+
+## ref 
+
+- [[chip-cn]] - [[chip]]

@@ -42,8 +42,21 @@ demo video
 - [[NBL1055-dat]] - [[NBL1089-dat]]
 
 
-## APPs
+## phone APPs
 
 - BlueSPP
 - nRF connect 
 
+## APPs 
+
+- [[iBeacon-dat]]
+
+
+## Chip 
+
+- [[TI-network-dat]] - [[nordic-dat]]
+
+
+## ref 
+
+- [[bluetooth]]
