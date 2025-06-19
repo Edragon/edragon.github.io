@@ -15,7 +15,7 @@
 
 - [[robot-dat]]
 
-- [[network-dat]] - [[fiber-optic-dat]] - [[location-dat]]
+
 
 - [[M2M-dat]]
 
@@ -25,6 +25,14 @@
 
 
 ## Category
+
+## network 
+
+- [[network-dat]] - [[location-dat]]
+
+- [[network-system-dat]]
+
+- [[fiber-optic-dat]]
 
 ### MCU / CTRL / Processing 
 
