@@ -1,6 +1,8 @@
 
 # EDC-dat
 
+== [[portable-lights-dat]]
+
 An "EDC light" refers to an **Everyday Carry flashlight**.
 
 It's a small, portable flashlight designed to be carried on one's person daily, typically in a pocket, on a keychain, or in a bag.

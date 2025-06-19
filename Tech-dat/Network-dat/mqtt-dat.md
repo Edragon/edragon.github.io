@@ -14,10 +14,13 @@
 
 ## MQTT broker on ubuntu 
 
-sudo apt install -y mosquitto
+install service and check status 
 
-sudo systemctl status mosquitto
+    sudo apt install -y mosquitto
 
+    sudo systemctl status mosquitto
+
+more systemctl check 
 
 - Stop the mosquitto service:
     - $ sudo systemctl stop mosquitto
@@ -26,8 +29,9 @@ sudo systemctl status mosquitto
 - Restart the mosquitto service:
     - $ sudo systemctl restart mosquitto
 
-###  Log file 
-* cat /var/log/mosquitto/mosquitto.log
+Log file 
+
+    cat /var/log/mosquitto/mosquitto.log
 
 ## Conf Setup list
 allow_anonymous false  // not allow anonymous
