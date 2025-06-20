@@ -30,6 +30,6 @@ https://www.semtech.com/products/wireless-rf
 
 ## ref 
 
-- [[meshtastic-dat]]
+- [[meshtastic-dat]] - [[opensource-dat]]
 
-- [[lora-dat]] - [[opensource-dat]]
+- [[lora-dat]] 

@@ -23,7 +23,7 @@ from a to z
 
 - [[nordic-dat]] - [[nrf52840-dat]]
 
-[[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]]
+[[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]]
 
 [[realtek-dat]] - [[RTL8211-dat]]
 
