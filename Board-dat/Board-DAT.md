@@ -447,6 +447,9 @@ Darlinton driver - [[SCU1024-dat]]
 
 - [[SDR1064-dat]] - [[SDR1117-dat]]
 
+- [[mosfet-dat]] == [[SDR1073-dat]]
+
+
 ### SMO
 
 - [[SMO1011-dat]] - [[SMO1013-dat]]
