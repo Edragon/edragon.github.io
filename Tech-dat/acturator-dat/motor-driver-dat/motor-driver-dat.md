@@ -35,6 +35,10 @@
 
 - [[L293-dat]] - [[SDR1064-dat]]
 
+- [[relay-dat]] control == 
+
+- [[mosfet-dat]] and [[PWM-dat]] control == [[SDR1073-dat]]
+
 ## chips 
 
 - [[ti-motor-dat]] 
