@@ -9,6 +9,8 @@ AIT lora
 
 - [[lorawan-dat]]
 
+- [[samtech-dat]]
+
 ## Info 
 
 - LoRa is the physical layer or in simple words is the modulation, the modem or radio, the hardware.
@@ -25,9 +27,11 @@ LoRa ™ is a long-range radio technology "Lo ng- Ra nge" its main features:
 
 ## Board 
 
-- [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] - [[MPC1056-dat]]
+- [[arduino-dat]] == [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] 
 
 - [[DAS1069-dat]]
+
+- [[MPC1056-dat]]
 
 ## Module 
 
@@ -50,6 +54,8 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 - [[semtech-dat]] - [[SX1278-dat]] - [[SX1262-dat]]
 
 - [[semtech-dat]] 3'rd generation Lora Chip == [[LR1121-dat]]
+
+- [[crystal-dat]]
 
 ## wiring to ESP32
 
@@ -76,6 +82,8 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 
 ## ref
+
+- [[meshtastic-dat]] - [[opensource-dat]]
 
 https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
 

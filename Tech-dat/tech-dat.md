@@ -3,6 +3,8 @@
 
 - [[board-dat]]
 
+- [[chip-dat]] - [[chip-cn-dat]]
+
 - [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]]
 
 - [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]] - [[battery-pack-dat]]
@@ -11,7 +13,7 @@
 
 - [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
 
-- [[chip-dat]] - [[chip-cn-dat]]
+
 
 - [[interface-dat]] - [[audio-dat]] 
 
@@ -35,6 +37,8 @@
 - [[network-system-dat]]
 
 - [[fiber-optic-dat]]
+
+- [[lora-dat]]
 
 ### MCU / CTRL / Processing 
 

@@ -1,14 +1,19 @@
 
-# NE555 DAT
+# NE555-DAT
 
 partner: [[LM317-dat]]
+
+[[6102350-dat]] == [[NE555-dat]]
 
 ## Boards 
 
 - [[SCU1044-dat]]
 
+- [[MSP1017-dat]]
+
 ## Function  
 
+![](2025-06-20-18-06-53.png)
 
 The NE555 timer IC can generate:
 
@@ -118,5 +123,7 @@ T = 1.1C = 1.1 * 500 000 * 0.000047 = 25.85 seconds
 - output control by [[D4184-dat]] [[mosfet-dat]]
 
 ## ref 
+
+- http://www.sparkfun.com/datasheets/Components/General/ne555.pdf
 
 - [[pulse-generator-dat]]
