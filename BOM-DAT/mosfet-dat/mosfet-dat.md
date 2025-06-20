@@ -1,6 +1,10 @@
 
 # mosfet-dat
 
+drive [[motor-dat]], [[LED-dat]]
+
+control by [[arduino-dat]] - [[MCU-dat]]
+
 ## tech 
 
 - [[mosfet-driver-dat]] for high speed usage 
@@ -184,7 +188,9 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 - [[NWI1126-dat]]
 
 
+## demo video 
 
+- [[SDR1073-dat]] + [[ILE1039-dat]] == [Electric tools battery + 10W high power led #ILE1039 + Arduino + MOSFET control #SDR1073, resistor 3W will smoke after 2 minutes at 51R, 0.75A, 20V](https://t.me/electrodragon3/377)
 
 
 

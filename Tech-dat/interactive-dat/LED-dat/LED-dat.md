@@ -36,8 +36,9 @@ other types - [[APA102-2020-dat]]
 
 - 100W == [[ILE1044-dat]] - 20W == [[ILE1041-dat]]
 
+- 10W == [[ILE1039-dat]]
 
-
+- 1W 3W 5W 
 
 
 ## drive high brightness LED 
