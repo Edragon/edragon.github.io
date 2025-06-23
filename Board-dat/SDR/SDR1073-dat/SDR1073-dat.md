@@ -22,6 +22,11 @@
 
 - PWM mode, pwm frequency 0 ~ 20Khz
 
+## demo video 
+
+- see at [[mosfet-dat]] page 
+
+
 ### legacy wiki page
 
 - https://w.electrodragon.com/w/Category:Mosfet

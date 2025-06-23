@@ -1,0 +1,4 @@
+
+# STM32-lora-dat
+
+STM32WLE5CCU6

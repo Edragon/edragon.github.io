@@ -1,5 +1,7 @@
 # lora-dat
 
+- [[lora-hdk-dat]] - [[Lora-SDK-dat]]
+
 legacy wiki page
 - https://w.electrodragon.com/w/Lora_Tech
 - https://www.electrodragon.com/w/Category:Wireless
@@ -47,39 +49,32 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 ## Chip 
 
-- LLCC68
+- [[semtech-dat]]
 
 - [[ASR6500-dat]] - [[ASR-dat]]
 
-- [[semtech-dat]] - [[SX1278-dat]] - [[SX1262-dat]]
-
-- [[semtech-dat]] 3'rd generation Lora Chip == [[LR1121-dat]]
 
 - [[crystal-dat]]
 
-## wiring to ESP32
 
-| Lora Module | ESP32   |
-| ----------- | ------- |
-| ANA         | Antenna |
-| GND         | GND     |
-| DIO3        | -       |
-| DIO4        | -       |
-| 3.3V        | 3.3V    |
-| DIO0        | IO 2    |
-| DIO1        | -       |
-| DIO2        | -       |
-| GND         | -       |
-| DIO5        | -       |
-| RESET       | IO 14   |
-| NSS         | IO 5    |
-| SCK         | IO 18   |
-| MOSI        | IO 23   |
-| MISO        | IO 19   |
-| GND         | -       |
+## lora power and tranmission 
 
-- based on [[ESP32-SPI-dat]]
+| dbm    | mW   | range (km) | range (miles) |
+| ------ | ---- | ---------- | ------------- |
+| 30 dbm | 5000 | 10         | 6.2           |
+| 22 dbm | 500  | 5          | 3.1           |
 
+
+
+## lora APP 
+
+- USB + Lora = [[Lora-USB-dat]]
+- [[loraduino-dat]]
+
+
+## museum module 
+
+- [[RFM92-dat]]
 
 ## ref
 
@@ -91,7 +86,7 @@ https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
 
 - [[crystal-dat]]
 
-
+- [[frequency-dat]]
 
 - [[lora]]
 

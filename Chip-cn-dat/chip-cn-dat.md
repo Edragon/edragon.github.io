@@ -12,7 +12,7 @@
 
 - [[quectel-dat]]
 
-- [[WCH-dat]]
+- [[WCH-dat]] - [[CH55x-dat]]
 
 - [[RDA-dat]]
 

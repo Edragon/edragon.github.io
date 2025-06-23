@@ -31,6 +31,8 @@ from a to z
 
 - [[STM32-dat]]
 
+- [[semtech-dat]] - [[SX1262-dat]] - [[sx1278-dat]] - [[LLCC68-dat]]
+
 - [[FTDI-dat]]
 
 - [[MPS-dat]]

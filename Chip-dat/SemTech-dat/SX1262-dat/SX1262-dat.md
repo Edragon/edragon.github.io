@@ -20,22 +20,23 @@
 - Digital RSSI == [[RSSI-dat]]
 - Packet engine to perform CRC, FEC, whitening, and address filtering
 
+![](2025-06-23-17-10-05.png)
 
 ## SX1262 vs SX1278 Comparison
 
-| Feature                     | SX1262                                  | SX1278                                  |
-|-----------------------------|-----------------------------------------|-----------------------------------------|
-| **Frequency Range**         | 150 MHz to 960 MHz                      | 137 MHz to 525 MHz                      |
-| **Modulation**              | LoRa®, FSK                               | LoRa®, FSK, OOK                          |
-| **Max. TX Power**           | +22 dBm                                 | +20 dBm                                 |
-| **RX Sensitivity**          | Down to -148 dBm                         | Down to -139 dBm                         |
-| **Current Consumption (RX)**| 4.2 mA                                  | 10.5 mA                                 |
-| **Current Consumption (TX)**| 28 mA @ +14 dBm                          | 120 mA @ +20 dBm                         |
-| **TCXO Integration**        | Integrated                              | External                                  |
-| **Package**                 | 4x4 mm QFN                               | 6x6 mm QFN                               |
-| **LoRaWAN Compliance**      | Yes                                     | Yes                                     |
-| **IEEE 802.15.4g Compliance**| Yes                                     | No                                      |
-| **Typical Applications**    | Long-range IoT, asset tracking, smart metering | Wireless sensor networks, remote control |
+| Feature                       | SX1262                                         | SX1278                                   |
+| ----------------------------- | ---------------------------------------------- | ---------------------------------------- |
+| **Frequency Range**           | 150 MHz to 960 MHz                             | 137 MHz to 525 MHz                       |
+| **Modulation**                | LoRa®, FSK                                     | LoRa®, FSK, OOK                          |
+| **Max. TX Power**             | +22 dBm                                        | +20 dBm                                  |
+| **RX Sensitivity**            | Down to -148 dBm                               | Down to -139 dBm                         |
+| **Current Consumption (RX)**  | 4.2 mA                                         | 10.5 mA                                  |
+| **Current Consumption (TX)**  | 28 mA @ +14 dBm                                | 120 mA @ +20 dBm                         |
+| **TCXO Integration**          | Integrated                                     | External                                 |
+| **Package**                   | 4x4 mm QFN                                     | 6x6 mm QFN                               |
+| **LoRaWAN Compliance**        | Yes                                            | Yes                                      |
+| **IEEE 802.15.4g Compliance** | Yes                                            | No                                       |
+| **Typical Applications**      | Long-range IoT, asset tracking, smart metering | Wireless sensor networks, remote control |
 
 **Summary:**
 
@@ -43,3 +44,12 @@
 *   The **SX1278** is an older, more established chip that is still suitable for many LoRa applications, particularly where cost is a primary concern and the advanced features of the SX1262 are not required.
 *   
 
+
+
+## ref 
+
+- [[semtech-dat]] - [[semtech]] - [[lora-dat]]
+
+- [[STM32-dat]]
+
+- [[SX1262]]
