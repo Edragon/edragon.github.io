@@ -18,3 +18,8 @@
 ## SCH 
 
 ![](2025-06-19-17-48-49.png)
+
+
+## ref 
+
+- [[kicad-footprint-dat]]

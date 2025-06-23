@@ -3,7 +3,9 @@
 
 info and knowledge 
 
-- [[SFP-transceiver-dat]] - [[fiber-optic-transceiver-dat]]
+- [[SFP-transceiver-dat]] - [[SFP-housing-dat]]
+
+-  [[fiber-optic-transceiver-dat]]
 
 - [[fiber-optic-cable-dat]] - [[POF-dat]]
 
@@ -12,9 +14,7 @@ info and knowledge
 
 already to go systems  - [[toslink-dat]] - [[photolink-dat]]
 
-apps and solutions 
-
-- [[fiber-optic-app-dat]] - [[fiber-optic-solutions-dat]]
+apps and solutions - [[fiber-optic-app-dat]] 
   
 Signal == [[SerDes-dat]]
 

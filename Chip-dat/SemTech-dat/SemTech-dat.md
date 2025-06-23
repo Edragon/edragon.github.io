@@ -9,22 +9,28 @@ https://www.semtech.com/products/wireless-rf
 
 - [[SX1262-dat]] == [[Lora-front-end-dat]]
 
-| Feature                   | SX1262                                 | SX1302                                    |
-| ------------------------- | -------------------------------------- | ----------------------------------------- |
-| **Type**                  | LoRa Transceiver (RF front-end)        | LoRa Baseband Gateway Chip                |
-| **Application**           | End devices (nodes, sensors, modules)  | Gateways (concentrators, base stations)   |
-| **Frequency Bands**       | 150–960 MHz (sub-GHz ISM bands)        | 400–510 MHz, 862–1020 MHz                 |
-| **Modulation**            | LoRa, (G)FSK, (G)MSK, BPSK             | LoRa, FSK                                 |
-| **Transmit Power**        | Up to +22 dBm                          | N/A (no RF front-end, baseband only)      |
-| **Receive Sensitivity**   | Down to -148 dBm (LoRa)                | N/A (handled by external RF front-end)    |
-| **Channels**              | Single channel                         | 8 LoRa channels + 2 FSK channels          |
-| **LoRa Spreading Factor** | SF5 to SF12                            | SF5 to SF12                               |
-| **Data Rate**             | Up to 62.5 kbps (LoRa)                 | Up to 500 kbps (aggregate, multi-channel) |
-| **Current Consumption**   | 4.2 mA RX, 28 mA TX @ +14 dBm          | <16 mA (core), <70 mA (full gateway)      |
-| **Package**               | QFN 24                                 | QFN 68                                    |
-| **Key Features**          | Low power, integrated TCXO, small size | Multi-channel, high capacity, low power   |
-| **Typical Use**           | IoT sensors, remote controls, trackers | LoRaWAN gateways, network infrastructure  |
+- [[LLCC68-dat]] == https://www.semtech.com/products/wireless-rf/lora-connect/llcc68
 
+[LoRa RF Transceiver Module RA-01SC LLCC68](https://www.electrodragon.com/product/lora-rf-transceiver-module-ra-01sc-llcc68/)
+
+- [[SX1278-dat]] == [[SX1276-dat]]
+
+- [[SX1268-dat]]
+
+- [[SX1272-dat]] == [[RFM92-dat]]
+
+## Compare 
+
+| Chip   | IP Generation | Frequency Bands              | Max Tx Power | Rx Sensitivity (LoRa) | Modulation     | Key Features / Generation                                                                               |
+| :----- | :------------ | :--------------------------- | :----------- | :-------------------- | :------------- | :------------------------------------------------------------------------------------------------------ |
+| LR2021 | 4st gen       | 150-960, 1600-2500           | N/A          | N/A                   | N/A            | Data not available.                                                                                     |
+| LR1121 | 3st gen       | 150-960 MHz, 2.4 GHz, S-Band | +22 dBm      | -144 dBm              | LoRa, (G)FSK   | LoRa Edge™: Multi-band, includes GNSS (GPS/BeiDou) and Wi-Fi passive scanner for low-power geolocation. |
+| SX1262 | 2nd Gen       | 150-960 MHz                  | +22 dBm      | -148 dBm              | LoRa, (G)FSK   | 2nd Gen: Significantly lower power consumption and higher link budget than SX127x series.               |
+| SX1268 | 2nd Gen       | 410-810 MHz                  | +22 dBm      | -148 dBm              | LoRa, (G)FSK   | 2nd Gen: Regional variant of SX1262, optimized for Chinese frequency bands.                             |
+| LLCC68 | 2nd Gen       | 150-960 MHz                  | +22 dBm      | -129 dBm              | LoRa, (G)FSK   | 2nd Gen: Optimized for LoRaWAN end-nodes using lower spreading factors (SF5-SF9). Not for SF10-SF12.    |
+| SX1276 | 1st Gen       | 137-1020 MHz                 | +20 dBm      | -148 dBm              | LoRa, FSK, OOK | 1st Gen (Legacy): Higher power consumption than SX126x/LLCC68 series.                                   |
+| SX1278 | 1st Gen       | 137-525 MHz                  | +20 dBm      | -148 dBm              | LoRa, FSK, OOK | 1st Gen (Legacy): Variant of SX1276, optimized for 433/470 MHz bands.                                   |
+| SX1272 | 1st Gen       | 860-1020 MHz                 | +20 dBm      | -137 dBm              | LoRa, FSK, OOK | 1st Gen (Legacy): Predecessor to SX1276 with lower sensitivity.                                         |
 
 
 
@@ -33,3 +39,7 @@ https://www.semtech.com/products/wireless-rf
 - [[meshtastic-dat]] - [[opensource-dat]]
 
 - [[lora-dat]] 
+
+- [[STM32-dat]]
+
+- [[semtech]]

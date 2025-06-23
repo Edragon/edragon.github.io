@@ -11,6 +11,8 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
 - [[STM8-dat]] - [[STM32-clone-dat]]
 
+- [[STM32-lora-dat]]
+
 ## Boards 
 
 STM32-F0 - [[STM1001-dat]] 

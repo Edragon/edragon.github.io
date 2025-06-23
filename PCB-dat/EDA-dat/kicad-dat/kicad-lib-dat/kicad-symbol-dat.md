@@ -21,6 +21,7 @@
     - R == [[resistor-dat]]
     - LED == [[LED-dat]]
 - interface_USB
+    - CH340N
 - Jumper
     - SolderingJumper
 - Mechanicals
@@ -30,6 +31,10 @@
     - GND 
 - RF_Module
 - Switch 
+    - SW_DPDP_2x
+- Interface_Optical 
+    - SFP+
+    - SFP
 
 ## ref 
 
