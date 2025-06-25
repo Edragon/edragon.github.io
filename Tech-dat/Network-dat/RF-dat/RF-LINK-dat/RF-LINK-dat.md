@@ -3,7 +3,7 @@
 
 - [more info please find at legacy wiki page](https://w.electrodragon.com/w/Category:RF-Link)
 
-
+[legacy wiki page 2](https://www.electrodragon.com/w/Category:Wireless)
 
 ## products 
 
@@ -20,19 +20,56 @@ https://www.electrodragon.com/product/433m-rf-wireless-module-a-pair-of-receiver
 
 ### snap button 
 
-- [[NRF1003-dat]]
+- [[NRF1003-dat]] == https://www.electrodragon.com/product/press-button-round-rf-ask-transmitter-433mhz-w-adhesive/
 
-https://www.electrodragon.com/product/press-button-round-rf-ask-transmitter-433mhz-w-adhesive/
+
 
 ### RF-LINK relay 
 
-[[SCU1001-dat]]
+[[SCU1001-dat]] == https://www.electrodragon.com/product/wireless-relay-kit-learning-code/
 
-https://www.electrodragon.com/product/wireless-relay-kit-learning-code/
 
-## Decode 
 
-- [[NWL1068-dat]] - [[NWL1070-dat]]
+## EDRF1 and EDRF2 Decoder
+
+- [[NWL1089-dat]] - [[NWL1068-dat]] / [[NWL1070-dat]]
+
+
+
+
+## tech 
+
+Manchester encoding
+
+- [[PT2262-dat]] - [[PT2272-dat]] - [[EV1527-dat]]
+
+learning code 
+ 
+fixed (welding code) code
+
+## working mode 
+
+### Jog (M4) Single Working Mode Description:
+
+When the transmitter button is pressed, the corresponding channel outputs a high level. When the button is released, it returns to a low level, with a VT (valid transmission) pulse output.  
+Example: If button A has been learned by channel D0, pressing button A will make channel D0 output a high level; releasing the button will return it to a low level. Other channels are not affected.
+
+### Interlock (H4)
+
+### Self-lock (T4)
+
+
+## schematic and APP 
+
+Application Fields
+Wireless remote control switches, sockets, wireless burglar alarms, wireless remote control door locks, wireless doorbells, wireless remote control electric rolling doors and windows, wireless LED lighting, industrial remote control products, etc.
+
+![](2025-06-25-15-15-27.png)
+
+
+min. SCH 
+
+![](2025-06-25-15-19-01.png)
 
 ## Note 
 
