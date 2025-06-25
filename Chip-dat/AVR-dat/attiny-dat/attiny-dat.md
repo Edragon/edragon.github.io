@@ -1,13 +1,14 @@
 
 # attiny-dat 
 
+## chips 
 
+- [[attiny13-dat]]
 
-### Attiny 13A 
+## programmer 
 
-![](2023-12-13-16-08-55.png)
+- [[DPR1045-dat]] - [[DPR1009-dat]]
 
-- PB3 = D3 = 3
 
 ### attiny85
 
@@ -24,6 +25,10 @@ Key features:
 
 
 ## SDK
+
+== https://github.com/MCUdude/MicroCore
+
+
 
 - arduino attiny - http://code.google.com/p/arduino-tiny/
 
@@ -52,6 +57,6 @@ DIY Attiny
 
 ## ref
 
-- [[arduino-ide-dat]]
+- [[arduino-dat]]
 
 - [[DPR1045-dat]]
