@@ -7,6 +7,9 @@
 
 ![](2025-06-25-15-06-03.png)
 
+## Features 
+
+- sensitivity == -110dBm； 
 
 ## supported chips 
 
