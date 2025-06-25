@@ -3,75 +3,24 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Arduino
 
+- [[arduino-boards-dat]] - [[arduino-ide-dat]] - [[arduino-lib-dat]]
 
-## boards 
+- [[avr-dat]]
 
-- [[arduino-uno-dat]] - [[arduino-pro-mini-dat]] - [[arduino-nano-dat]] - [[arduino-leonardo-dat]]
+## arduino DEV Boards 
 
-- [[arduino-zero-dat]]
+- [[DAR1053-dat]] == [EDarduino Nano Dev. Board, Arduino Compatible](https://www.electrodragon.com/product/ed-nano-dev-board-arduino-compatible/)
 
-- [[edarduino-dat]] 
+- [[DAR1040-dat]] == [EDArduino Nano CH340, Arduino-Compatible](https://www.electrodragon.com/product/edarduino-nano-c-new-usb-ch340/)
 
-- [[arduino-ide-dat]] - [[arduinoISP-dat]]
+- [[DOD1092-dat]] == [ATTINY88 Mini DEV Board, Arduino AVR VUSB Compatible](https://www.electrodragon.com/product/attiny88-mini-development-arduino-nano-compatible/)
 
-- [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
+- [[DAR1064-dat]]
 
-- [[arduino-code-v1-dat]] - [[arduino-lib-dat]]
-
-- [[usbasp-dat]] - [[avr-dat]] - [[avr-sdk-dat]]
-
-
-## Boards 
-
-- [[DAR1053-dat]]
-
-## LIB 
-
-- [[arduino-lib-dat]] 
+- [[DAR1010-dat]] - [[DAR1007-dat]] == [Arduino Compatible Pro Mini EDArduino [Volts, ICs]](https://www.electrodragon.com/product/pro-mini/)
 
 
-## Programmer 
 
-- [[DPR1009-dat]] - [[DPR1088-dat]]
+## ref 
 
-## Chip Map 
-
-![](2024-07-01-21-13-30.png)
-
-
-| arduino | pin | Funcs | Funcs2     | customize |
-| ------- | --- | ----- | ---------- | --------- |
-| 13      | 17  | PB5   | SCK/PCINT5 |           |
-| 12      | 16  | PB4   | MISO       |           |
-| 11      | 15  | PB3   | MOSI/PWM   |           |
-| 10      | 14  | PB2   |            |           |
-| 9       | 13  | PB1   | PWM        |           |
-| 8       | 12  | PB0   |            |           |
-| 7       | 11  | PD7   |            |           |
-| 6       | 10  | PD6   | PWM        |           |
-| 5       | 9   | PD5   | PWM        |           |
-| 4       | 2   | PD4   |            |           |
-| 3       | 1   | PD3   | PWM        |           |
-| 2       | 32  | PD2   |            |           |
-| 1       | 31  | PD1   | TX         |           |
-| 0       | 30  | PD0   | RX         |           |
-
-
-## Simplified = arduino pin template 
-
-| arduino | Note | customize |
-| ------- | ---- | --------- |
-| 13      |      |           |
-| 12      |      |           |
-| 11      |      |           |
-| 10      |      |           |
-| 9       |      |           |
-| 8       |      |           |
-| 7       |      |           |
-| 6       |      |           |
-| 5       |      |           |
-| 4       |      |           |
-| 3       |      |           |
-| 2       | INT0 |           |
-| 1       | TXD  |           |
-| 0       | RXD  |           |
+- [[mcu-dat]] - [[dev-board-dat]]

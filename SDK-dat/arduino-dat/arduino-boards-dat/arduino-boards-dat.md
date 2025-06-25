@@ -1,4 +1,29 @@
 
+# arduino-boards-dat
+
+## boards 
+
+- [[arduino-uno-dat]] - [[arduino-pro-mini-dat]] - [[arduino-nano-dat]] - [[arduino-leonardo-dat]]
+
+- [[arduino-zero-dat]]
+
+- [[edarduino-dat]] 
+
+- [[arduino-ide-dat]] - [[arduinoISP-dat]]
+
+- [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
+
+- [[arduino-code-v1-dat]] - [[arduino-lib-dat]]
+
+- [[usbasp-dat]] - [[avr-dat]] - [[avr-sdk-dat]]
+
+
+
+
+
+
+## obseleted logs 
+
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
 https://mcudude.github.io/MegaCoreX/package_MCUdude_MegaCoreX_index.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
@@ -10,12 +35,12 @@ https://raw.githubusercontent.com/sleemanj/optiboot/master/dists/package_gogo_di
 http://digistump.com/package_digistump_index.json
 
 
-## note 
+### note 
 
 megaTinyCore by Spence Konde
 http://drazzy.com/package_drazzy.com_index.json
 
-## removed 
+### removed 
 
 
 下载 http://digistump.com/package_digistump_index.json 时出错

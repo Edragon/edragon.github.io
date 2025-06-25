@@ -3,8 +3,8 @@
 
 
 ## info 
-- https://www.electrodragon.com/product/arduino-zero-samd21-compatible-motor-drive-board/
 
+[Arduino Zero Samd21 Compatible Motor Drive Board M21](https://www.electrodragon.com/product/arduino-zero-samd21-compatible-motor-drive-board/)
 
 
 ## hardware 
@@ -62,5 +62,5 @@ Other peripheral
 ### other info 
 - [[power-flow-control-dat]]
 - [[SDR1096]]
-- legacy wiki page link: https://w.electrodragon.com/w/SDR1096_Motor_Drive_Board
+- [legacy wiki page link](https://w.electrodragon.com/w/SDR1096_Motor_Drive_Board)
 

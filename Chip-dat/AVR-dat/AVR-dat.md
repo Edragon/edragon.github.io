@@ -1,38 +1,29 @@
 
 # AVR-dat
 
-- [[tinyAVR-dat]] - [[avr128-dat]] - [[attiny-dat]] - [[atmega328-DAT]] - [[atmega32u4-dat]]
+- [[tinyAVR-dat]] 
 
-## PROG AVR 
+- [[avr128-dat]]
 
-a common DIP28 socket 
+- [[atmega-dat]] - [[atmega4808-dat]] - [[atmega328-DAT]] - [[atmega32u4-dat]]
 
-|         | atmega | Left | Right |      | atmega |
-| ------- | ------ | ---- | ----- | ---- | ------ |
-| D10     | RST    | 1    | 28    |      |        |
-|         |        | 2    | 27    |      |        |
-|         |        | 3    | 26    |      |        |
-|         |        | 4    | 25    |      |        |
-|         |        | 5    | 24    |      |        |
-|         |        | 6    | 23    |      |        |
-| +5V     | VCC    | 7    | 22    | GND  | GND    |
-| GND     | GND    | 8    | 21    |      |        |
-| crystal | X1     | 9    | 20    | +5V  | VCC    |
-| crystal | X2     | 10   | 19    | SCK  | D13    |
-|         |        | 11   | 18    | MISO | D12    |
-|         |        | 12   | 17    | MOSI | D11    |
-|         |        | 13   | 16    |      |        |
-|         |        | 14   | 15    |      |        |
+- [[attiny-dat]] 
 
+- [[atsamd21-dat]]
 
-![](2025-02-19-16-56-02.png)
+- [[LGT-dat]]
 
 
 ## repro 
 
 - https://bitbucket.org/e_dragon/attiny88
+- https://github.com/Edragon/Arduino-attiny
+- https://github.com/Edragon/AVR-attiny
+- https://github.com/Edragon/MCU-AVR-ATSAM
+
+
 
 
 ## ref 
 
-- 
+- [[mcu-dat]]

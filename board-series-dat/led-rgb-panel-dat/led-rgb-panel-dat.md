@@ -8,7 +8,7 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 [rgb-full-color-led-matrix-panel](https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/)
 
 
-
+- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]]
 
 ## Panel Specifications
 
