@@ -5,28 +5,20 @@
 
 ### megaTinyCore Series 
 
-- env setup [[megaTinyCore]]
+- env setup [[megaTinyCore]] - [[megaCoreX-dat]]
 
-- [[attiny1604-dat]] - [[attiny1616-dat]]
+- [[attiny1604-dat]] 
+  
+- [[attiny1616-dat]]
 
-- [[tinyavr-ATtiny1616-3216-ds.pdf]]
-
-QFN
-- [[ATtiny416-dat]]
-
+- [[attiny416-dat]] == QFN
 
 
-- [[megaCoreX-dat]]
+## our APP boards 
+
+- [[ILE1073-dat]] - [[SVC1039-dat]]
 
 
-
-
-# tinyAVR-dat
-
-
-## our boards 
-
-- [[ILE1073-dat]] - [[dar1060-dat]]
 
 ## 0-series 
 
@@ -41,3 +33,8 @@ ATtiny202/204/402/404/406 Automotive tinyAVR 0-series
 ## programming 
 
 - [[UPDI-dat]] - [[avrdude-dat]]
+
+
+## ref 
+
+- [[avr-dat]]

@@ -22,9 +22,6 @@ Key features:
 - Simplicity: Known for its ease of use, small size, and low cost, making it ideal for simple embedded projects, wearables, and learning purposes. It's often programmed using the Arduino IDE with appropriate core libraries installed.
 
 
-### attiny416-dat
-
-- [[attiny416-dat]]
 
 ## SDK
 

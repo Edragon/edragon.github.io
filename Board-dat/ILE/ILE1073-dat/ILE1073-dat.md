@@ -3,6 +3,9 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/HP25_LED_Panel
 
+[High Power Interactive LED Panel 25W](https://www.electrodragon.com/product/high-power-interactive-led-panel-25w/)
+
+
 ## hardware 
 
 ![](2023-10-11-15-24-50.png)
