@@ -8,6 +8,10 @@ brand - [[st-dat]]
 | SS14   | SMA       | SS14/SL |
 | 1N4007 | SMA       | M7      |
 
+
+- [[diode-zener-dat]] - [[flyback-diode-dat]]
+
+
 ## Schottky diode
 
 Schottky diode SS14 DO-214AC SMA
@@ -65,6 +69,8 @@ Schottky diode ES2D DO-214AA (SMB) == [ES2A, ES2B, ES2C, ES2D](https://www.visha
 
 
 1N5401 
+
+MBR0520L
 
 ## ref 
 
