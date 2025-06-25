@@ -5,6 +5,9 @@ https://www.electrodragon.com/product/usbasp-programmer-r2-53-3v-supported-avr-a
 
 - [[USBASP-dat]]
 
+- [[arduino-programmer-dat]]
+
+
 ## SCH 
 
 ![](2024-06-13-17-43-55.png)

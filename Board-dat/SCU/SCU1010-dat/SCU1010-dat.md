@@ -5,7 +5,10 @@
 
 - more information about this series read at page [[N20-motor-dat]]
 
-current selling version == 300 rpm / 12V / 5kg/cm
+current selling version == 
+- 300 rpm 
+- 12V 
+- 5kg/cm
 
 
 ## ref 

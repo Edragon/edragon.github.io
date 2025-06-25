@@ -1,12 +1,28 @@
 # DPR1045-dat
 
-- board order - https://www.electrodragon.com/product/attiny-1385-programming-shield/
-- attiny chip order [[6001274-dat]] - https://www.electrodragon.com/product/attiny13-8-pin-10mhz-1k-4ad/
+[ATtiny Series 13 85 2313 Programming Shield](https://www.electrodragon.com/product/attiny-1385-programming-shield/)
+
+- attiny chip order [[6001274-dat]] 
 
 
-- legacy wiki page - https://w.electrodragon.com/w/Category:Arduino
-- legacy wiki page2 - https://w.electrodragon.com/w/AVR_PROG_Shield#Flash_Bootloader_Programming_Guide_and_Note
+- [legacy wiki page - arduino](https://w.electrodragon.com/w/Category:Arduino)
 
+- [[attiny13-dat]] - [[attiny85-dat]] - [[attiny2313-dat]]
+
+- [[arduino-programmer-dat]]
+
+## pin deifinitions 
+
+| target pin | interface | arduino shield pin     |
+| ---------- | --------- | ---------------------- |
+| PB5        | RST       | *D10                   |
+| PB4        |           | ~side D4               |
+| PB3        |           | ~side D3, on-board LED |
+| PB2        | SCK       | *D13                   |
+| PB1        | MISO      | *D12                   |
+| PB0        | MOSI      | *D11                   |
+
+\* for programming pin \~ for lead out pin
 
 ## Board Map 
 

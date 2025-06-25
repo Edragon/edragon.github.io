@@ -5,6 +5,8 @@
 
 - [[arduino-boards-dat]] - [[arduino-ide-dat]] - [[arduino-lib-dat]]
 
+- [[arduino-programmer-dat]]
+
 - [[avr-dat]]
 
 ## arduino DEV Boards 

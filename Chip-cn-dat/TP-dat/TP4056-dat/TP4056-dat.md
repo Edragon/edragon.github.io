@@ -42,7 +42,9 @@ cacultation:
 ![](2023-12-21-16-08-42.png)
 
 
+## batter options than 
 
+- [[MCP73871-dat]] - [[CN3791-dat]]
 
 
 ## ref 

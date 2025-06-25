@@ -5,7 +5,7 @@
 
 - [[STM32-dat]]
 
-- [[AVR-dat]] - [[tinyAVR-dat]]
+- [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
 - [[STC-dat]] - [[PIC-dat]] - [[nuvoton-dat]] - [[WCH-dat]]
 
