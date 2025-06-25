@@ -1,6 +1,17 @@
-
 # network-dat.md
 
+## Network tech by range 
+
+| Technology      | Range                        | Data Rate        | Notes                                      |
+|-----------------|-----------------------------|------------------|---------------------------------------------|
+| [[M2M-dat]]     | Almost infinite (provider)  | Varies           | Limited by service provider network         |
+| [[lora-dat]]    | Long, up to 10 km           | Low              |                                            |
+| [[RF-link-dat]] | Medium, up to 1 km          | Low              |                                            |
+| [[ELRS-dat]]    | Medium, up to 1 km (5 km)   | High             |                                            |
+
+
+
+## main category
 
 - [[M2M-dat]] - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
 

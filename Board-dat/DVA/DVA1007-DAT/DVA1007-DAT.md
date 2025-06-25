@@ -6,65 +6,67 @@ legacy wiki page
 - https://w.electrodragon.com/w/Loraduino
 
 
-## hardware setup 
-
-| Function Pin | category | Arduino |
-| ------------ | -------- | ------- |
-| Flash_CS     | D8       | Flash   |
-| LED          | D7       | LED     |
-| RF_CS        | D10      | SX1278  |
-| RF_INT       | D2       | SX1278  |
-| RF_RST       | D8       | SX1278  |
-| Voltage-Dect | A7       |         |
-
 ### Board Map 
 
 ![](2023-11-06-16-04-30.png)
+
 ![](2023-11-06-16-06-22.png)
+
+Pin Definitions 
+
+| Function Pin | SPI | category | Arduino |
+| ------------ | --- | -------- | ------- |
+| Flash_CS     | CS  | D8       | Flash   |
+| LED          |     | D7       | LED     |
+| RF_CS        | CS  | D10      | SX1278  |
+| RF_INT       |     | D2       | SX1278  |
+| RF_RST       |     | D8       | SX1278  |
+| Voltage-Dect |     | A7       |         |
+
+
+
 
 ### Pin Definitions
 
-FT232 Programming Port 
-- VBAT
+[[FT232-dat]] FT232 Programming Port 
+
+- VBAT (optional)
 - DTR
 - TXD
 - RXD
 - +5V
-- GND
-- --
+- GND (CTS)
+- -- (GND)
 
 
 
-## Radio Lora Network 
-- arduino library radiohead
-- [[arduino-lib]]
+## demo code 
 
-## flash 
-- must well initiated flash into low power mode 
-- 0xEF40 manufactuer ID for 16mbit
-- [[flash]] - user lowpower lab flash arduino library 
+- arduino library **radiohead** - [[arduino-lib-dat]]
+- [[spi-flash-dat]] - user lowpower lab flash arduino library 
 
 ## bootloader 
-- arduino pro mini 3.3V/8M 
+
+- arduino pro mini 3.3V/8M == [[arduino-dat]]
 
 ## Functions 
 
-- [[spi-flash-dat]] - [[memory-dat]] - [[low-power-dat]] - [[lora-dat]]
+- [[memory-dat]] - [[low-power-dat]] - [[lora-dat]]
 
-## Lora Modules 
+- [[battery-charger-dat]] - [[LDO-dat]]
 
-- [[NWL1071-dat]] - [[NWL1072-dat]]
+Lora Modules - [[NWL1071-dat]] - [[NWL1072-dat]]
 
-- [[LDO-dat]]
+- [[spi-flash-dat]]
+- must well initiated flash into low power mode to save power 
+- 0xEF40 manufactuer ID for 16mbit
 
-- [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
 
+## demo video 
 
-## demo 
-
-- low power - https://x.com/electro_phoenix/status/1639160253811142656
+- [low power test](https://x.com/electro_phoenix/status/1639160253811142656)
 
 
 ## ref 
 
-- [[DVA1007]]
+- [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
