@@ -79,7 +79,9 @@ brushless
 ![](2025-04-02-17-28-34.png)
 
 
+## mechanical parts 
 
+- [[shaft-coupler-dat]]
 
 
 ## ref 

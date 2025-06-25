@@ -37,6 +37,15 @@ For [[mesh-node-dat]] - [[NBL1107-dat]]
 - [[I2C-dat]]: I2C data write and read 
 - [[GPIO-dat]]: read write GPIO relay 
 
+## repo 
+
+- https://github.com/Edragon/MCU-HDSC-basic
+- https://github.com/Edragon/MCU-HDSC-SDK
+- https://github.com/Edragon/MCU-HDSC-HC32L110
+- https://github.com/Edragon/MCU-HDSC-HC32F00X
+- https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
+- https://github.com/Edragon/MCU-HDSC-APP
+- E:\Git-category\git-MCU-HDSC
 
 
 ## ref 
