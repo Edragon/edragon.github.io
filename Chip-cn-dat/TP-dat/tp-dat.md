@@ -40,6 +40,9 @@ The fully charged voltage can be set to four levels: 4.35V, 4.2V, 3.7V, and 2.8V
 
 When the input voltage (AC adapter or USB power) is removed, the TP4067 automatically enters a low current state, with battery leakage current below 1μA. Other features of the TP4067 include power adaptation, undervoltage lockout, automatic recharge, and two status pins for indicating charging completion and input voltage connection.
 
+**Schematic is the same as TP4057 as below**
+
+
 
 ## TP4057 
 
@@ -60,6 +63,10 @@ When the battery reaches the preset voltage, the charging current drops to 1/10 
 When the input voltage (AC adapter or USB power) is removed, the TP4057X automatically enters a low current state, with battery leakage current below 1μA.
 
 Other features of the TP4057X include power adaptation, undervoltage lockout, automatic recharge, and two status pins for indicating charging completion and input voltage connection.
+
+![](2025-06-25-18-29-59.png)
+
+注：建议接R1耗散电阻（0.3Ω），可获得较大的充电电流，又可提高整机的可靠性。阻值根据实际情况选取（0~0.6Ω）。
 
 
 ## ref 

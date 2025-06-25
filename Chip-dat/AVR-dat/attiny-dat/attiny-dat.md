@@ -9,6 +9,10 @@
 
 - [[DPR1045-dat]] - [[DPR1009-dat]]
 
+## functions 
+
+- [[VUSB-dat]] == [[DAR1047-dat]] - [ATTiny85 ATTiny USB Board EDAtiny](https://www.electrodragon.com/product/attiny85-mini-dev-board-lilytiny-digispark-edatiny/)
+
 
 ### attiny85
 

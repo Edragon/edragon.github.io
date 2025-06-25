@@ -3,6 +3,8 @@
 
 - [[USB-cable-dat]] - [[USB-ESD-dat]] 
 
+- [[CONN-USB-dat]]
+
 - libusb-win32
 - https://zadig.akeo.ie/
 
