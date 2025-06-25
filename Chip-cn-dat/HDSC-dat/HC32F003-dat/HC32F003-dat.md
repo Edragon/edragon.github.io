@@ -37,6 +37,9 @@ For [[mesh-node-dat]] - [[NBL1107-dat]]
 - [[I2C-dat]]: I2C data write and read 
 - [[GPIO-dat]]: read write GPIO relay 
 
+- [keil support lib ](https://www.keil.arm.com/devices/hdsc-hc32f003c4pa/features/)
+
+
 ## repo 
 
 - https://github.com/Edragon/MCU-HDSC-basic
