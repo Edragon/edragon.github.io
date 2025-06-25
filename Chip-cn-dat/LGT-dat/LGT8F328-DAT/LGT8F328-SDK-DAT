@@ -1,27 +1,15 @@
-# LGT8F328 DAT
 
-- [legacy wiki page](https://www.electrodragon.com/w/Logicgreen)
+# LGT8F328-SDK-DAT
 
 
-## comparison to arduino atmega328
-
-| pin   | LGT     | arduino | note      |
-| ----- | ------- | ------- | --------- |
-| pin3  | PE4     | GND     | extra pin |
-| pin6  | PE5     | VCC     | extra pin |
-| pin18 | PE0/SWC | AVCC    | prog port |
-| pin21 | PE2/SWD | GND     | prog port |
-
-common pin 
-- pin 4 = VCC
-- pin 5 = GND
-
-![](58-57-15-14-02-2023.png)
 
 ## Sketch uploads By Arduino IDE
 - Pre-loaded bootloder. Just select corresponding board to upload sketch, refer to bootloader sketch below
 - Programming pin port same as FTDI [[FT232-dat]], same as arduino pro mini
 - A backup method for without DTR, just hold down RESET button when "compiling", then release when "uploading".
+
+
+
 
 
 
@@ -62,11 +50,7 @@ Installation:
 - arduino UNO can pretend as a chip programmer
 - please contact us if you need to order original programmer
 
-## demo 
 
-https://www.youtube.com/shorts/CL2-iH4KWQQ
+## ref 
 
-
-## ref
-
-- [[LGT8F328]]
+- [[LGT8F328-dat]] - [[LGT-dat]]

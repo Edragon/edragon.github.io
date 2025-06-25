@@ -14,6 +14,8 @@
 
 - [[WCH-dat]] - [[CH55x-dat]]
 
+- [[LGT-dat]] - [[LGT8F328-DAT]]
+
 - [[RDA-dat]]
 
 - [[CONSONANCE-dat]] - [[JDY-dat]]
