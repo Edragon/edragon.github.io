@@ -114,6 +114,16 @@ LoRa devices and networks (such as LoRaWAN) enable smart IoT applications to hel
 | HF      | 850~930 MHz     | Europe, America, Oceania |
 | LF      | 410~510 MHz     | Asia, Europe             |
 
+LoRa工作在不同地区的频段范围如下：
+
+- 中国：470mhz
+- 美国：902-928mhz
+- 印度：865-867MHz
+- 欧洲：863-870/873MHz
+- 澳大利亚：915MHz
+- 韩国：920-923MHz
+- 部分亚洲地区：923MHz
+
 
 ## common configuration 
 
@@ -123,7 +133,7 @@ LoRa devices and networks (such as LoRaWAN) enable smart IoT applications to hel
 | Bandwidth                | 0: 125KHz         | 1: 250KHz, 2: 500KHz                           |
 | Coding Rate              | 4/5               | 4/5, 4/6, 4/7, 4/8                             |
 | Transmit Power           | 22dBm             | 10~22dBm                                       |
-| Network ID               | 0                 | 0~255                                          |
+| **Network ID**               | 0                 | 0~255                                          |
 | LBT (Listen Before Talk) | 0: Disabled       | 1: Enabled                                     |
 | **Working Mode**         | 1: Stream Mode    | 2: Packet Mode, 3: Relay Mode                  |
 | **TX Channel (HF)**      | 18 (868MHz)       | 0~80 (850~930MHz or 410~490MHz)                |
@@ -141,6 +151,8 @@ LoRa devices and networks (such as LoRaWAN) enable smart IoT applications to hel
 
 - [[RFM92-dat]]
 
+
+## demo code 
 
 
 
