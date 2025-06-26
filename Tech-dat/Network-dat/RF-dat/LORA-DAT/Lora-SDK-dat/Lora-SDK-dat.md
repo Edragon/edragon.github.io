@@ -1,5 +1,14 @@
 # Lora-SDK-dat
 
+## network ID and address 
+
+For LoRa coding, the network ID and address (often called device address or node address) are typically set in the software/firmware of the device, not in the data payload or by hardware switches.
+
+**LoRaWAN**: The device address (DevAddr), network session keys, and other identifiers are set in the device firmware and used by the LoRaWAN protocol stack. These are not sent in the application data payload; instead, they are part of the protocol headers.
+
+**Raw LoRa (non-LoRaWAN)**: If you are implementing your own protocol, you can choose to include a node address or network ID in the data payload, or you can set it in the firmware and use it as part of your packet structure.
+
+
 ## stm32 code
 
 ![](2025-06-23-18-46-43.png)
@@ -22,12 +31,57 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
 
 
 
-## code
+## code repro
 
 - info for EE22, EE32, EE2 == https://github.com/Edragon/lora
 - lora2 designs == https://github.com/Edragon/Lora2
 - https://github.com/Edragon/alios-asr-lora
 - E:\Git-category\git-lora
+
+## lora encrpytion 
+
+To encrypt data for LoRa by coding, you typically use a symmetric encryption algorithm like AES before sending the data. Here’s a general approach:
+
+1. Choose an Encryption Library
+Most platforms (Arduino, STM32, Raspberry Pi, etc.) have AES libraries available. For example, on Arduino you can use [AESLib](https://github.com/DavyLandman/AESLib).
+
+2. Encrypt Data Before Sending
+Encrypt your payload before passing it to the LoRa send function.
+
+Example (Arduino, using AESLib):
+
+    #include <AESLib.h>
+
+    AESLib aesLib;
+
+    byte aes_key[] = { 0x00, 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07,
+                    0x08, 0x09, 0x0A, 0x0B, 0x0C, 0x0D, 0x0E, 0x0F }; // 16 bytes key
+
+    char plainText[] = "Hello, LoRa!";
+    byte encrypted[32];
+
+    int dataLen = strlen(plainText);
+    int encLen = aesLib.encrypt((byte*)plainText, dataLen, encrypted, aes_key, 128);
+
+    LoRa.beginPacket();
+    LoRa.write(encrypted, encLen);
+    LoRa.endPacket();
+
+3. Decrypt on Receiver Side
+On the receiver, use the same key to decrypt the received data.
+
+Example (Arduino, using AESLib):
+
+    byte decrypted[32];
+    int decLen = aesLib.decrypt(receivedData, receivedLen, decrypted, aes_key, 128);
+    // Now 'decrypted' contains your original message
+
+
+### Notes
+
+- Key Management: Both sender and receiver must use the same key.
+- LoRaWAN: If you use LoRaWAN, encryption is handled by the protocol stack automatically.
+- Raw LoRa: You must implement encryption/decryption yourself as shown above.
 
 ## ref
 
