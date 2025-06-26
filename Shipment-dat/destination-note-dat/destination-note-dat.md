@@ -44,7 +44,7 @@
 | Iceland        | 06-15  | [[Europe]]          | [[NLRPOST]]                      | [[szfedex-ip]]                     |                |                                                       |
 | Korea          | 06-30  | [[asia]]            | [[EURPOST-cn-dat]] / [[PFCEXPRESS]] | [[SZFEDEX-IE]] / [[HKFEDEXIP-C]]   | tax_id needed! |                                                       |
 | Chile          | 09-06  | [[America-South]]   | [[PFCEXPRESS]]                   | ~~[[SZFED-PAK]] / [[HKDHLX-old]]~~ | tax_id needed! |                                                       |
-| United States  |        | [[America-North]]   | [[USPS-DAT]]                     | [[szfedex-ip]] / [[HKUPS]]         |                |                                                       |
+| United States  |        | [[America-North]]   | [[USPS-DAT]]                     | [[szfedex-ip]] / [[HKUPS2]]         |                |                                                       |
 | Vietam         |        | [[asia]]            | [[VNEXPRESS]]                    |                                    | -              |                                                       |
 
 韩国必须填写P+12位数字的个人通关码，欧盟国家填写ioss税号。

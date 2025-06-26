@@ -1,8 +1,18 @@
 
 # PIC-dat 
 
+
+## boards 
+
 - [[DOD1049-dat]] - [[DOD1074-dat]]
 
+## PIC16 series 
+
+PIC16F1823
+
+## PIC12 series 
+
+PIC12F1572
 
 ## Chips 
 

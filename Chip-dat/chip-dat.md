@@ -13,9 +13,11 @@ from a to z
 
 
 
-- [[microchip-dat]] - [[avr-sdk-dat]] 
+- [[microchip-dat]] 
 
-- [[AVR-dat]] - [[attiny13-dat]]
+- [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] 
+
+- [[PIC-dat]]
 
 [[MCU-dat]] - [[STC-dat]] - [[nuvoton-dat]]
 
