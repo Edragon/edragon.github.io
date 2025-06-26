@@ -155,7 +155,9 @@ If you're using **common learning-code RF modules**:
   - Use **directional antennas** or **RF amplifiers**
 
 
+## chip options 
 
+- [[SYN480-dat]] - [[SYN115-dat]]
 
 
 

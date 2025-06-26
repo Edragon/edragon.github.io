@@ -1,6 +1,9 @@
 
 # attiny13-dat
 
+[datasheet ](https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny13A-Data-Sheet-DS40002307A.pdf)
+
+- package == SOIC8 
 
 ## Attiny 13A 
 
