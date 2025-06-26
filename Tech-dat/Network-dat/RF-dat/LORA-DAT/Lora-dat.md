@@ -82,7 +82,7 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 ## Chip 
 
-- [[semtech-dat]]
+- [[semtech-dat]] - [[sx1262-dat]]
 
 - [[ASR6500-dat]] - [[ASR-dat]]
 
@@ -172,7 +172,7 @@ https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
 
 - [[frequency-dat]]
 
-- [[lora]]
+- [[lora]] - [[USB-lora-dev]]
 
 
 
