@@ -1,6 +1,8 @@
 
 # tech 
 
+## Main tech 
+
 - [[board-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
@@ -26,6 +28,10 @@
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
 
 - [[app-dat]] - [[mechanics-dat]] 
+
+## New Tech And Updates 
+
+- [[lora-dat]]
 
 
 ## Category

@@ -40,12 +40,16 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
 
 ## lora encrpytion 
 
+- [[encryption-dat]]
+
 To encrypt data for LoRa by coding, you typically use a symmetric encryption algorithm like AES before sending the data. Here’s a general approach:
 
 1. Choose an Encryption Library
+   
 Most platforms (Arduino, STM32, Raspberry Pi, etc.) have AES libraries available. For example, on Arduino you can use [AESLib](https://github.com/DavyLandman/AESLib).
 
 2. Encrypt Data Before Sending
+   
 Encrypt your payload before passing it to the LoRa send function.
 
 Example (Arduino, using AESLib):
@@ -68,6 +72,7 @@ Example (Arduino, using AESLib):
     LoRa.endPacket();
 
 3. Decrypt on Receiver Side
+
 On the receiver, use the same key to decrypt the received data.
 
 Example (Arduino, using AESLib):

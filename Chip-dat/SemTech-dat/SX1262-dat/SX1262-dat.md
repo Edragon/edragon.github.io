@@ -3,6 +3,18 @@
 
 - [[lora-dat]] - [[semtech-dat]]
 
+
+- LLCC68ZTR4 (433MHz)
+- LLCC68ZTR8 (868MHz)
+
+- SX1262ZTR8 (868MHz)
+- SX1262ZTR4 (433MHz)
+
+- SX1278ZTR4 (433MHz)
+- SX1278TR4-Y (433MHz)
+
+
+
 ## SX1262 Main Features
 
 - [[LoRa-dat]]® and [[FSK-dat]] modulation
