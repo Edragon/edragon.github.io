@@ -1,6 +1,8 @@
 
 # led-rgb-panel-chip-dat
 
+- [[led-rgb-panel-chip-log-dat]]
+
 ## direct ABCDE addressing
 
 ### DP5125D

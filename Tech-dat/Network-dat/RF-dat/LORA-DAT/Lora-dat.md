@@ -51,6 +51,18 @@ The main LoRa RF chips are the SX127X series, SX126X series, and SX130X series. 
 
 - [[RSSI-dat]]
 
+frequency hopping, spread spectrum, and other technologies are used to improve anti-interference and anti-collision capabilities.
+
+![](2025-06-27-13-25-29.png)
+
+- [[low-power-dat]] == LORA CAD Mode 
+
+Flexible configuration
+
+![](2025-06-27-13-26-55.png)
+
+
+
 #### LBT 
 
 The module actively monitors channel environmental noise before transmitting. If the noise exceeds a threshold, transmission is delayed. 
@@ -82,12 +94,14 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 ## Chip 
 
-- [[semtech-dat]] - [[sx1262-dat]]
+- [[semtech-dat]] - [[sx1262-dat]] - [[LLCC68-dat]] - [[SX1278-dat]] - [[SX1268-dat]]
 
 - [[ASR6500-dat]] - [[ASR-dat]]
 
 
 - [[crystal-dat]]
+
+- [[PAN3031-dat]]
 
 
 ## lora power and tranmission 

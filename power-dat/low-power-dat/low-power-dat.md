@@ -35,6 +35,14 @@
 - https://www.arduino.cc/reference/en/libraries/arduino-low-power/
 
 
+
+## LORA CAD Mode 
+
+![](2025-06-27-13-26-22.png)
+
+
+
+
 ## ref 
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Low_Power
