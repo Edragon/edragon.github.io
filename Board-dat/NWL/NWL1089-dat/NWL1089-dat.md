@@ -11,6 +11,9 @@ https://w.electrodragon.com/w/EDRF1
 
 Compatible with most learning codes and fixed (welded code) code chips in the market, including EV1527, PT2262, HX2262, SC2260, SC5211, HS2240, etc.
 
+output high TTL when signal received 
+
+
 ## dimension
 
 ![](2025-06-26-14-19-53.png)
