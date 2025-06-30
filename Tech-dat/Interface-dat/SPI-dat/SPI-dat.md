@@ -1,6 +1,8 @@
 
 # SPI-dat
 
+- [[74HC125-dat]] == [[logic-level-shifter-dat]]
+
 
 | pin  | function | note       |
 | ---- | -------- | ---------- |
@@ -9,5 +11,6 @@
 | MOSI |          | 3-wire SPI |
 | CS   |          | 4-wire SPI |
 
+## ref 
 
-- [[interface-dat]]
+- [[interface-dat]] - [[ref-design-dat]]
