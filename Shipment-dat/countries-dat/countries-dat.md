@@ -48,7 +48,7 @@
 - [[Serbia-dat]]
 - [[Slovakia-dat]]
 - [[Slovenia-dat]]
-- [[Spain-dat]]
+- [[spain-dat]]
 - [[Sweden-dat]]
 - [[Switzerland-dat]]
 - [[Turkey-dat]]

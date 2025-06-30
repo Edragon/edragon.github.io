@@ -441,7 +441,7 @@ MT7688
 
 [[servo-dat]] - [[SCU1030-DAT]]
 
-- [[SCU1012-DAT]] - [[SCU1015-dat]] [[SCU1017-dat]] - [[SCU1033-DAT]] - [[SCU1034-dat]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
+- [[SCU1012-DAT]] - [[SCU1015-dat]] [[SCU1017-dat]]  - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
 - [[SCU1010-dat]]
 
@@ -449,6 +449,7 @@ Darlinton driver - [[SCU1024-dat]] == [[stepper-dat]]
 
 [[mcu-relay]] - [[SCU1044-dat]] - [[SCU1047-dat]] - [[SCU1048-dat]] - [[SCU1050-dat]]
 
+[[TEC12706-dat]] - [[SCU1033-DAT]] - [[SCU1034-dat]]
 
 
 
