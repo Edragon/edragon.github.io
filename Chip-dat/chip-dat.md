@@ -15,7 +15,7 @@ from a to z
 
 - [[microchip-dat]] 
 
-- [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] 
+- [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] - [[attiny-dat]]
 
 - [[PIC-dat]]
 
