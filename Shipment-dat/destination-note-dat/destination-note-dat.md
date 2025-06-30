@@ -17,7 +17,7 @@
 | Canada         |        | [[America-North]]   | [[CAEXPRESS]]                    |                                    |                |                                                       |
 | United Kingdom | 06-07  | [[Europe]]          | [[CZUK]] / [[YODEL-UK]]          |                                    |                |                                                       |
 | Kazakhstan     | 06-02  | [[asia]]            | [[DGEUB]]                        |                                    |                |                                                       |
-| [[Spain-dat]]          |        |                     | [[EUEX-V-dat]]                   | [[SZFED-PAK]]                      |                |  |
+| [[spain-dat]]          |        |                     | [[EUEX-V-dat]]                   | [[SZFED-PAK]]                      |                |  |
 | Portugal       |        | [[Europe]]          | [[EUEX-V-dat]]                   | [[SZFED-PAK]]                      |                |                                                       |
 | Hungray        | 09-06  | [[Europe]]          | [[EUEX-V-dat]]                   | [[szfedex-ip]]                     |                |                                                       |
 | Belgium        | 09-06  |                     | [[EUEX-V-dat]]                   | [[szfedex-ip]]                     |                |                                                       |
