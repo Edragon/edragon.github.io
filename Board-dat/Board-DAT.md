@@ -48,6 +48,8 @@
 
 - [[DAS1010-dat]]
 
+[[DAS1022-dat]] 
+
 ### DAR
 
 - [[DARS016-dat]]
@@ -134,6 +136,8 @@ RPI LCD
 [[LCD-12864-dat]] - [[ILC1016-dat]]
 
 LED control - [[ILC1063-dat]]
+
+[[ILC1022-dat]]
 
 
 ### ILE
