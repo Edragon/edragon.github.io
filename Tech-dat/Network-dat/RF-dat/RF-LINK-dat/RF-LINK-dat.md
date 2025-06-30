@@ -77,7 +77,9 @@ When a valid signal is present, VT outputs a high level; when the valid signal d
 
 Pairing Method:
 
-Press the button on the receiver board and release it when the indicator light turns on; this means it has entered learning mode. Then, press any button on the remote control to transmit. If the indicator light on the receiver board flashes, pairing is successful, and the output pins are matched accordingly. Exit learning mode.
+Press the button on the receiver board and release it when the indicator light turns on; this means it has entered learning mode. 
+
+Then, press any button on the remote control to transmit. If the indicator light on the receiver board flashes, pairing is successful, and the output pins are matched accordingly. Exit learning mode.
 
 Note:
 
