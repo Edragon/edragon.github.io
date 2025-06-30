@@ -24,6 +24,8 @@
 
 \* for programming pin \~ for lead out pin
 
+
+
 ## Board Map 
 
 ![](2023-12-13-14-49-25.png)
@@ -34,6 +36,11 @@
   - digitalWrite(3, HIGH);
 - VCC / GND
 
+## soldeing by yourself 
+
+![](2025-06-30-18-03-06.png)
+
+
 ## Using Guide
 
 Flash Bootloader Programming Guide and Note
@@ -42,20 +49,42 @@ Flash Bootloader Programming Guide and Note
 - Some version of ArduinoIDE is not working well, for example, 1.61, 1.00, etc, better version approved 1.05, 1.56-r2
 - Burn bootloader twice, sometimes it seems the arduinoIDE bug: the IC will fail on uploading sketch when moved to arduino board
 
-- If you see the problem "programmer of out sync", get the easy solution here. [[arduinoISP-dat]]
+- If you see the problem "programmer of out sync", get the easy solution here. [[arduino-as-ISP-dat]]
 - Find all the unofficial attiny board files here. [[attiny-dat]]
 
-* upload arduino sketch using "programmer" options in the menu, DO NOT use "upload" button
-  ![](2023-12-13-14-38-35.png)
+setup 
 
-* Program hex file into target IC with AVRDUDESS
-  ![](2023-12-13-14-39-13.png)
+![](2025-06-30-18-13-12.png)
 
-## Demo with using Guide 
+upload arduino sketch using "upload using programmer" options in the menu, DO NOT use "upload" button
+
+![](2023-12-13-14-38-35.png)
+
+- mess uploading by [[AVRDUDE-dat]]
+
+
+## Demo with using Guide
 
 - [please see here. ](https://www.youtube.com/watch?v=6SlruQVLcK4)
 
+blink PB3 == 3 
+
+  void setup() {
+    // initialize digital pin LED_BUILTIN as an output.
+    pinMode(3, OUTPUT);
+  }
+
+  // the loop function runs over and over again forever
+  void loop() {
+    digitalWrite(3, HIGH);   // turn the LED on (HIGH is the voltage level)
+    delay(1000);                       // wait for a second
+    digitalWrite(3, LOW);    // turn the LED off by making the voltage LOW
+    delay(1000);                       // wait for a second
+  }
+
+![](2025-06-30-18-16-32.png)
+
 ## ref 
 
-- [[arduinoISP-dat]]
+- [[arduino-as-ISP-dat]]
 - [[attiny-dat]]

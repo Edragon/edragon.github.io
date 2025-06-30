@@ -27,6 +27,8 @@
 ### CCO 
 - [[CCO3626-dat]] - [[CCO3627-dat]] - [[CCO3515-dat]]
 
+- [[CCO3647-dat]]
+
 ### CKI
 - [[CKI1047-dat]]
   
@@ -439,7 +441,7 @@ MT7688
 
 [[servo-dat]] - [[SCU1030-DAT]]
 
-- [[SCU1012-DAT]] - [[SCU1015-dat]] [[SCU1017-dat]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
+- [[SCU1012-DAT]] - [[SCU1015-dat]] [[SCU1017-dat]] - [[SCU1033-DAT]] - [[SCU1034-dat]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
 - [[SCU1010-dat]]
 

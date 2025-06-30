@@ -9,7 +9,9 @@
 
 - [[PMP1016-dat]] - [[PMP1019-dat]] - [[PMP1021-dat]] == https://www.electrodragon.com/product/m3-brazz-bolt-different-length-available/
 
+- PCB electric isolation 
 
+- 三防漆 == Conformal Coating
 
 ## ref 
 

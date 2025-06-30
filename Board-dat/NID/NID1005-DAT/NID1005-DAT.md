@@ -46,3 +46,5 @@ The arduino connection:<br />
 - [[EM4100-dat]] - [[125khz-dat]]
 
 - [[RFID-dat]]
+
+- [[NID1005]]
