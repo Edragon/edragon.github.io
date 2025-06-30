@@ -313,11 +313,15 @@ SIMCOM - Location - [[SIM868-dat]]
 
 SIMCOM
 
-- SIM7070G - [[NGS1111-DAT]] - [[NGS1112-DAT]] - [[SIM7070-dat]]
+- [[SIM7070-dat]] - [[NGS1111-DAT]] - [[NGS1112-DAT]] - [[SIM7070-dat]]
 
-- SIM7080G - [[NGS1128-DAT]] - [[NGS1129-DAT]] - [[SIM7080-dat]]
+- [[SIM7080-dat]] - [[NGS1128-DAT]] - [[NGS1129-DAT]] - [[SIM7080-dat]]
 
-- [[A7670-dat]] - [[NGS1131-DAT]] - [[NGS1140-DAT]]
+- [[A7670-dat]]
+
+- full version [[NGS1144-dat]] - [[NGS1149-dat]] 
+
+- V2 == [[NGS1144-dat]] - [[NGS1149-dat]]  V1 == - [[NGS1131-dat]] - [[NGS1132-dat]]
 
 - [[NGS1119-dat]]
 

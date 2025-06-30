@@ -74,7 +74,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 - https://github.com/Edragon/SIMCOM-A7670
 - https://github.com/Edragon/simcom_sim7060
 - https://bitbucket.org/e_dragon/simcom
-
+- E:\Git-category\Git-SIMCOM
 
 
 ## ref 

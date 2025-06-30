@@ -12,9 +12,16 @@ https://www.ti.com/lit/ds/symlink/lm2596.pdf
 
 https://www.ti.com/lit/ds/symlink/lm2596.pdf?ts=1696891822162
 
+
+
 ## Efficiency 
 
 ![](2024-01-31-15-52-03.png)
+
+
+## ref sch 
+
+![](2025-06-30-14-53-51.png)
 
 
 ## Modules 

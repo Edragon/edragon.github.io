@@ -8,6 +8,8 @@
 - libusb-win32
 - https://zadig.akeo.ie/
 
+
+
 ## USB variations 
 
 - [[USB2.0-dat]] - [[type-c-dat]]
