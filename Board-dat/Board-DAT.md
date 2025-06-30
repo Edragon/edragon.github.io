@@ -124,6 +124,9 @@ see more ESP32 apps at NWI section
 
 
 ### ILC 
+
+- [[interactive-dat]]
+
 FPC LCD - [[ILC1075-dat]] - [[ilc1078-dat]]
 
 RPI LCD
@@ -433,13 +436,19 @@ MT7688
 
 
 ### SCU
-- [[SCU1012-DAT]] - [[SCU1015-dat]] [[SCU1017-dat]] - [[SCU1030-DAT]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
+
+[[servo-dat]] - [[SCU1030-DAT]]
+
+- [[SCU1012-DAT]] - [[SCU1015-dat]] [[SCU1017-dat]] - [[SCU1033-DAT]] - [[SCU1035-DAT]] - [[SCU1038-DAT]] - [[SCU1041-DAT]]
 
 - [[SCU1010-dat]]
 
-Darlinton driver - [[SCU1024-dat]]
+Darlinton driver - [[SCU1024-dat]] == [[stepper-dat]]
 
 [[mcu-relay]] - [[SCU1044-dat]] - [[SCU1047-dat]] - [[SCU1048-dat]] - [[SCU1050-dat]]
+
+
+
 
 ### SDR
 
@@ -457,6 +466,10 @@ Darlinton driver - [[SCU1024-dat]]
 
 - [[mosfet-dat]] == [[SDR1073-dat]]
 
+- [[relay-dat]]
+
+- [[SDR1050-dat]]
+
 
 ### SMO
 
@@ -469,6 +482,9 @@ PIR Sensors
 
 Motion sensor 
 - [[SMO1020-dat]]
+
+- [[SMO1073-dat]]
+
 
 ### STH
 
