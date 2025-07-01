@@ -3,6 +3,8 @@
 
 ## zipcode checklist 
 
+- remote shipping address 2025 == [[dhl_express_remote_areas_en.pdf]]
+
 [DHL remote address list](https://www.dhl.de/content/dam/images/Express/downloads/dhl-express-remote-areas-service.pdf)
 
 - no remote address for US for DHL

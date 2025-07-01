@@ -5,11 +5,16 @@
 
 - how to use [[internal-tracking-dat]] internal tracking number
 
+
+
+
 ## Important Note 
 
 - **Brazil, Chile, Argentina, South Africa**, customers please MUST provide tax id / or personal ID number for shipment - [[shipment-requirement-dat]]
 
 - Shipment is not cancellable or editable after you place the order 24 hours, please see the procedures below
+
+
 
 ## Shipping Procudures  
 
