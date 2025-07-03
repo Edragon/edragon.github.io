@@ -1,9 +1,13 @@
 
 
-# DVA1007 DAT
+# DVA1007-DAT
 
-legacy wiki page
-- https://w.electrodragon.com/w/Loraduino
+[legacy wiki page](https://w.electrodragon.com/w/Loraduino)
+
+[Loraduino Lora RF Wireless Dev. Board, Arduino Compatible](https://www.electrodragon.com/product/atmega328p-arduino-plus-lora-sx1278-board-loraduino/)
+
+
+- 433MHZ version [[DVA1007-DAT]] - 915Mhz version [[DVA1008-DAT]]
 
 
 ### Board Map 
@@ -60,6 +64,13 @@ Lora Modules - [[NWL1071-dat]] - [[NWL1072-dat]]
 - [[spi-flash-dat]]
 - must well initiated flash into low power mode to save power 
 - 0xEF40 manufactuer ID for 16mbit
+
+## bulk order 
+
+Buck order price: 
+
+- 16% discount for 100-499pcs order, 
+- 20% for 500pcs+ order. Auto update price.
 
 
 ## demo video 
