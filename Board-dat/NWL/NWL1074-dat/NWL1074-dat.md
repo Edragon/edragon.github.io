@@ -7,12 +7,12 @@
 
 ![](36-58-16-26-07-2023.png)
 
-
+size 16 x 17 
 
 ## ref 
 
 - [[lora-dat]]
 
 
-- legacy wiki page - https://www.electrodragon.com/w/Category:HPD_Lora_MOD
+- [legacy wiki page](https://www.electrodragon.com/w/Category:HPD_Lora_MOD)
 
