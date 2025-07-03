@@ -11,11 +11,11 @@
 
 - [[ti-signal-dat]]
 
-- [[TXB0108-dat]] - [[TXS0108-dat]] - [[BSS138-dat]] 
+- [[TXB0108-dat]] - [[BSS138-dat]] 
 
 - [[LSF0102-dat]]
 
-
+- [[TXS0102-dat]] - [[TXS0108-dat]] - [[TI-logic-dat]]
 
 
 ### one-direction logic shifter
