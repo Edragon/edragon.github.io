@@ -252,6 +252,8 @@ MPC cable
 
 [[display-dat]] - [[MPC1091-dat]]
 
+[[RPI-accesories-dat]] - [[MPCS007-dat]]
+
 
 ### MSP 
 
