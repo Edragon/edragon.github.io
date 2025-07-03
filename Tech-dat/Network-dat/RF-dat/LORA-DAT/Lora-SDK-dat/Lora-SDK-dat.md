@@ -30,6 +30,12 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
 
 
 
+## arduino library 
+
+- https://github.com/sandeepmistry/arduino-LoRa
+- [[radiohead-dat]]
+
+
 
 ## code repro
 
@@ -37,6 +43,18 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
 - lora2 designs == https://github.com/Edragon/Lora2
 - https://github.com/Edragon/alios-asr-lora
 - E:\Git-category\git-lora
+
+## LORA STM32 code 
+
+    sx126x_mod_params_lora_t params;
+    params.bw = SX126X_LORA_BW_125;      // Set bandwidth to 125 kHz
+    params.sf = SX126X_LORA_SF9;         // Set spreading factor to 9
+    params.cr = SX126X_LORA_CR_4_6;      // Set coding rate to 4/6
+    params.ldro = 0x00;                  // Low Data Rate Optimization disabled
+    sx126x_set_lora_mod_params(NULL, &params); // Apply these parameters to the radio
+
+
+
 
 ## lora encrpytion 
 

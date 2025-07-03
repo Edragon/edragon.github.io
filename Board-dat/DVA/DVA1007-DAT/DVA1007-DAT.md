@@ -72,6 +72,32 @@ Buck order price:
 - 16% discount for 100-499pcs order, 
 - 20% for 500pcs+ order. Auto update price.
 
+## coding config 
+
+    const int csPin = 10;          // LoRa radio chip select
+    const int resetPin = 8;       // LoRa radio reset
+    const int irqPin = 2;         // change for your board; must be a hardware interrupt pin
+    ...
+
+    LoRa.setPins(csPin, resetPin, irqPin); // set CS, reset, IRQ pin
+
+    if (!LoRa.begin(868E6)) {             // initialize ratio at 915 MHz
+    Serial.println("LoRa init failed. Check your connections.");
+    while (true);                       // if failed, do nothing
+    }
+
+    LoRa.setSignalBandwidth(125E3);
+    LoRa.setSpreadingFactor(9);           // ranges from 6-12,default 7 see API docs
+    LoRa.setCodingRate4(4/6);
+
+    Serial.println("LoRa init succeeded.");
+
+- from USB Lora Board to [[DVA1008-dat]] running at 868mhz 
+
+ ![](2025-07-03-19-31-14.png)
+
+ ![](2025-07-03-19-31-32.png)
+
 
 ## demo video 
 
@@ -81,3 +107,5 @@ Buck order price:
 ## ref 
 
 - [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
+
+- [[radiohead-dat]] - [[lora-sdk-dat]]
