@@ -1,6 +1,15 @@
 
 # bearing-dat
 
+## linear bearing 
+
+![](2025-07-03-16-41-47.png)
+
+
+## bearing wtih vertical stand 
+
+![](2025-07-03-17-03-47.png)
+
 
 ## 608_Bearing
 
