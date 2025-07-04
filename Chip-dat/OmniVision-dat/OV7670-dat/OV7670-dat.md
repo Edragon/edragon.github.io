@@ -36,7 +36,7 @@ w/ESP32
 - https://github.com/bitluni/ESP32CameraI2S
 - https://github.com/igrr/esp32-cam-demo (archieved, merge into main esp32 repo)
 - https://github.com/LilyGO/ESP32-Camera-OV7725/blob/master/ESP32_Camera/ESP32_I2S_Camera.ino
-
+- [[C8051F330_OV7670-V3.0-controlkeil.rar]]
 
 setup 
 
@@ -70,6 +70,8 @@ setup
 
     #define ssid1        "TP-LINK_888"  //Your wiff id
     #define password1    "Zhang520521" //Your wiff password
+
+
 
 
 ## ref 

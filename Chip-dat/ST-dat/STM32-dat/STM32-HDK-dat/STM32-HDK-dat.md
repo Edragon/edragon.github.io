@@ -49,6 +49,9 @@ To enter system bootloader mode (UART download mode), set the BOOT pins as follo
 stm32flash -w firmware.bin -v -g 0x0 /dev/ttyUSB0
 
 
+## hardware programmer 
+
+- [[ST-Link-dat]]
 
 ## ref 
 
