@@ -10,7 +10,7 @@
 
 - [[battery-charger-dat]] - [[2S-lithium-battery-charger-dat]]
 
-- [[alkaline-battery-dat]] - [[9V-battery-dat]]
+- [[battery-alkaline-dat]] - [[battery-9V-dat]]
 
 - [[battery-soldering-dat]] - [[battery-tester-dat]]
 
