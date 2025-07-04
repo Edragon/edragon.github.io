@@ -73,9 +73,9 @@ When a valid signal is received, the corresponding output channel turns on, and 
 When a valid signal is present, VT outputs a high level; when the valid signal disappears, VT outputs a low level.
 
 
-## Common Pairing 
+## Common Pairing 1 
 
-Pairing Method:
+### Pairing Method 1  (board with learning button)
 
 Press the button on the receiver board and release it when the indicator light turns on; this means it has entered learning mode. 
 
@@ -88,6 +88,31 @@ You only need to pair one button; the other buttons will also be paired and matc
 清码方法:
 
 持续按住学习键,指示灯会常亮，按住不放大约8秒后指示灯熄灭，表示代码已全部清除成功。
+
+
+### Pairing Method 2 (board without learning button)
+
+1. Remote control button learning identification and control channel setting:
+
+- Within 6 seconds of module power-on, long press the button you want to learn for more than 2 seconds, until the learning indicator light flashes twice quickly - this indicates successful button learning. Then within 6 seconds after this button learning success,
+- Press this button different numbers of times to set control for different channels:
+  - If this button is pressed once (learning indicator flashes once), this button controls D0 channel;
+  - If pressed twice (learning indicator flashes twice), this button controls D1 channel;
+  - If pressed 3 times (learning indicator flashes 3 times), this button controls D2 channel;
+  - If pressed 4 times or more than 4 times (learning indicator flashes 4 times), this button controls D3 channel;
+- According to your needs, after pressing the corresponding number of times, long press this button again (about 0.5 seconds, as confirmation signal) until the indicator light flashes twice - this indicates successful setting;
+- At this point you can immediately proceed to learn and set the next button's identification and control channel; if no operation is performed, it will automatically exit learning mode after 6 seconds;
+
+Example: To set remote control button A to control D3 channel, the learning setup process is as follows:
+- Within 6 seconds of chip power-on, long press button A until the learning indicator flashes twice - button learning is successful,
+- Immediately within the following 6 seconds, press button A 4 times (learning indicator flashes 4 times),
+- Long press button A once more until the learning indicator flashes twice for confirmation - channel setting is successful;
+
+2. Clear remote control codes
+
+EDRF can store up to 32 remote control buttons (each channel can learn and identify 8 buttons, 4 channels total 32 buttons); when each channel exceeds 8 buttons, the first learned button code will be overwritten; The method to clear button codes is: long press the learned button before module power-on, then power on the module until the learning indicator flashes twice quickly, then release the button, then long press this button for more than 3 seconds until the learning indicator flashes twice quickly - this clears all button codes stored in the module; if clearing fails, repeat the above operation.
+
+
 
 
 ## schematic and APP 
