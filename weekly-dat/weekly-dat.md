@@ -25,19 +25,19 @@
 | 16          | Apr 14       | Apr 20      | [[2024-April-dat]] |
 | 17          | Apr 21       | Apr 27      | [[2024-April-dat]] |
 | 18          | Apr 28       | May 4       | [[2025-May-dat]]   |
-| 19          | May 5        | May 11      |                    |
-| 20          | May 12       | May 18      |                    |
-| 21          | May 19       | May 25      |                    |
-| 22          | May 26       | Jun 1       |                    |
-| 23          | Jun 2        | Jun 8       |                    |
-| 24          | Jun 9        | Jun 15      |                    |
-| 25          | Jun 16       | Jun 22      |                    |
-| 26          | Jun 23       | Jun 29      |                    |
-| 27          | Jun 30       | Jul 6       |                    |
-| 28          | Jul 7        | Jul 13      |                    |
-| 29          | Jul 14       | Jul 20      |                    |
-| 30          | Jul 21       | Jul 27      |                    |
-| 31          | Jul 28       | Aug 3       |                    |
+| 19          | May 5        | May 11      | [[2025-May-dat]]   |
+| 20          | May 12       | May 18      | [[2025-May-dat]]   |
+| 21          | May 19       | May 25      | [[2025-May-dat]]   |
+| 22          | May 26       | Jun 1       | [[2025-06-07-dat]] |
+| 23          | Jun 2        | Jun 8       | [[2025-06-07-dat]] |
+| 24          | Jun 9        | Jun 15      | [[2025-06-07-dat]] |
+| 25          | Jun 16       | Jun 22      | [[2025-06-07-dat]] |
+| 26          | Jun 23       | Jun 29      | [[2025-06-07-dat]] |
+| 27          | Jun 30       | Jul 6       | [[2025-06-07-dat]] |
+| 28          | Jul 7        | Jul 13      | [[2025-06-07-dat]] |
+| 29          | Jul 14       | Jul 20      | [[2025-06-07-dat]] |
+| 30          | Jul 21       | Jul 27      | [[2025-06-07-dat]] |
+| 31          | Jul 28       | Aug 3       | [[2025-06-07-dat]] |
 | 32          | Aug 4        | Aug 10      |                    |
 | 33          | Aug 11       | Aug 17      |                    |
 | 34          | Aug 18       | Aug 24      |                    |
