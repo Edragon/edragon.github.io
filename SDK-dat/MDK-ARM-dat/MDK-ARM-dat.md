@@ -54,6 +54,21 @@ D:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Includ
 
 D:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core_A\Include
 
+C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSIS\Include
+
+- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers{CMSIS)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers{CMSIS\ Core_A)
+- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSIS) Core)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.4\Drivers\CMSIS)
+- Include (C:\Users\Administrator\STM32Cube\Repository^\STM32Cube_FW_F1_V1.8.4\Drivers\(CMSIS\ Core_A)
+- Include (C:\Users\,Administrator(STM32Cube\Repository\STM32Cube_FW_F1_V1.8.4\Drivers(CMSIS\ Core)
+- Include (C:\Users\Administrator(STM32Cube\Repository\STM32Cube_FW_G0_V1.6.1\Drivers\(CMSIS)
+- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_G0_V1.6.1\Drivers{CMSIS) Core)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_G0_V1.6.0\Drivers\(CMSIS)
+- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_G0_V1.6.0\Drivers{CMSIS) Core)
+- Include (C:\Users\,Administrator\,AppData\Local\Arm\Packs\ARM(CMSIS)5.7.0\CMSIS) Core)
+- Include (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\(CMSIS\5.7.0\CMSIS) Core_A)
+- Include (C:\Users\Administrator\,AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS)
 
 ### '#pragma import' is an Arm Compiler 5 extension
 
