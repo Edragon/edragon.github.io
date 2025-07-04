@@ -11,6 +11,8 @@
 
 - sensitivity == -110dBm； 
 
+- on board chip [[SYN470-dat]]
+
 ## supported chips 
 
 On board Decoder, support and match with other encoder chip like

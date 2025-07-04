@@ -5,7 +5,7 @@
 
 [legacy wiki page 2](https://www.electrodragon.com/w/Category:Wireless)
 
-
+- [[RF-Modulation-dat]]
 
 ## products 
 
@@ -15,14 +15,24 @@
 https://www.electrodragon.com/product/433m-rf-wireless-module-a-pair-of-receiver-and-transmitter/
 
 
+Clasic RF LINK 
+
 - [[NWL1021-dat]] - [[NWL1022-dat]]
 
 - [[NWL1026-dat]] - [[NWL1027-dat]]
 
-## Transmitter 
+## Transmitter == Sender 
 
 - [[NWL1007-dat]] - [[NWL1008-dat]]
 
+
+
+
+## Receiver == EDRF1 and EDRF2 Decoder
+
+- [[NWL1089-dat]] == EDRF1 
+
+- [[NWL1068-dat]] / [[NWL1070-dat]] == EDRF2
 
 ### snap button 
 
@@ -31,12 +41,8 @@ https://www.electrodragon.com/product/433m-rf-wireless-module-a-pair-of-receiver
 
 
 
-
-## Receiver == EDRF1 and EDRF2 Decoder
-
-- [[NWL1089-dat]] - [[NWL1068-dat]] / [[NWL1070-dat]]
-
 ## APP 
+
 
 ### RF-LINK relay 
 
