@@ -184,9 +184,9 @@ If you're using **common learning-code RF modules**:
 
 ## chip options 
 
-- [[SYN480-dat]] - [[SYN115-dat]]
+- [[SYN480-dat]] - [[SYN115-dat]] - [[SYN470-dat]]
 
-
+- [[EV1527-dat]]
 
 
 ## code

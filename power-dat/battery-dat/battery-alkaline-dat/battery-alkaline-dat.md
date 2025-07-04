@@ -1,7 +1,7 @@
 
-# alkaline-battery-dat
+# battery-alkaline-dat
 
-
+- [[AA-battery-dat]] - [[AAA-battery-dat]] - [[A27-battery-dat]]
 
 ## explosion and fire 
 
