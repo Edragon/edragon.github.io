@@ -108,4 +108,4 @@ Example (Arduino, using AESLib):
 
 ## ref
 
-- [[lora-dat]]
+- [[lora-dat]] - [[lora-HDK-dat]] - [[lora-SDK-dat]]

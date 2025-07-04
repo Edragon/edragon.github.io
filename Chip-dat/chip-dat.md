@@ -27,13 +27,15 @@ from a to z
 
 - [[nordic-dat]] - [[nrf52840-dat]]
 
+- [[omniVision-dat]]
+
 [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]]
 
 [[realtek-dat]] - [[RTL8211-dat]]
 
 [[richtek-dat]]
 
-- [[STM32-dat]]
+- [[STM32-dat]] - [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
 
 - [[semtech-dat]] - [[SX1262-dat]] - [[sx1278-dat]] - [[LLCC68-dat]]
 

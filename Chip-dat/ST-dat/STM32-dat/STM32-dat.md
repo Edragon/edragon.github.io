@@ -1,7 +1,9 @@
 
 # STM32-dat
 
-legacy wiki page - https://w.electrodragon.com/w/Category:STM32
+[legacy wiki page](https://w.electrodragon.com/w/Category:STM32)
+
+- [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
 
 ## chips 
 
@@ -13,6 +15,7 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32
 
 - [[STM32-lora-dat]]
 
+
 ## Boards 
 
 STM32-F0 - [[STM1001-dat]] 
@@ -20,6 +23,8 @@ STM32-F0 - [[STM1001-dat]]
 STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
 
 STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]]
+
+
 
 ## Programmer 
 
