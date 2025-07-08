@@ -72,6 +72,11 @@ Gen-3: Advanced grayscale panels using chips like MBI5153 or ICND2153 that suppo
 
 - chips perforamcne issues [[led-rgb-panel-chip-dat]]
 
+## Control board 
+
+- [[MPC1073-dat]] - [[MPC1120-dat]]
+
+
 ## Links
 
 - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]

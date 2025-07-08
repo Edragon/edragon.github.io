@@ -52,6 +52,10 @@
 
 - [[M2M-dat]]
 
+- [[RFID-dat]] - [[NFC-dat]]
+
+- [[ethernet-dat]] - [[USB-dat]]
+
 ### MCU / CTRL / Processing 
 
 - [[mcu-dat]] - [[development-board-dat]]
@@ -78,7 +82,9 @@
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]- [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[relay-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[relay-dat]]
+
+- [[motor-driver-dat]]
 
 - [[relay-dat]] - [[SSR-dat]]
 
@@ -99,6 +105,7 @@
 
 - [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]]
 
+- [[ADC-dat]] - [[DAC-dat]]
 
 ## Utilities 
 

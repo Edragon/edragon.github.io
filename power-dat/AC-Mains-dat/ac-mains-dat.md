@@ -5,6 +5,7 @@
   
 - [[acdc-adapter-dat]] - [[acdc-dat]]
 
+- [[RC-Snubber-dat]]
 
 [[BOM-dat]] - [[power-isolated-Module-dat]] - [[sample-resistor-dat]]
 

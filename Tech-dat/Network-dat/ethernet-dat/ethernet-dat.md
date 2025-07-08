@@ -3,6 +3,15 @@
 
 - [[TCPUDP-dat]]
 
+- [[PHY-dat]]
+
+
+## chip 
+
+- [[W5500-dat]] - [[ENC28J60-dat]]
+
+
+
 ## RJ45 breakout board 
 
 ![](2025-04-25-04-49-35.png)
@@ -29,6 +38,6 @@ RJ-45 w/[[CH579-dat]]
 ![](2025-04-25-02-07-43.png)
 
 
-
+## ref 
 
 - [[ethernet]]
