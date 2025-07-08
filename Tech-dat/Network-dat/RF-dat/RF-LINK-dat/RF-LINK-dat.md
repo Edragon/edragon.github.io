@@ -7,8 +7,9 @@
 
 - [[RF-Modulation-dat]]
 
-## products 
+- learning code RF link, rolling code RF link, fixed code RF link, etc.
 
+## products
 
 - [[NWL1016-dat]] - [[NWL1017-dat]]
 
@@ -60,6 +61,8 @@ Manchester encoding
 learning code 
  
 fixed (welding code) code
+
+- [[rolling-code-dat]] - [[rolling-code-encoder-dat]] - [[rolling-code-decoder-dat]]
 
 ## working mode 
 
@@ -194,6 +197,57 @@ If you're using **common learning-code RF modules**:
 
 - [[EV1527-dat]]
 
+- [[RF600-dat]] 
+
+2264、2262、2260、2240、1527、527、SMC918
+
+-  clones of the PIC12xxx == [[PIC12-dat]] - [[PIC-dat]]
+
+
+## Copier 
+
+![](2025-07-08-13-40-47.png)
+
+
+### 1️⃣ Clear Existing Codes (Code Erase)
+
+> **Purpose:**  
+> Remove all previously stored codes from the remote.  
+> **Note:** Only perform this on a new remote. Do **not** clear your original remote unless necessary.
+
+**Steps:**
+1. **Press and hold** the two upper buttons on the remote **simultaneously** (regardless of their symbols).
+2. **Keep holding** until the indicator LED flashes rapidly and continuously.
+3. **Release** both buttons.  
+   → The remote's memory is now cleared.
+
+---
+
+### 2️⃣ Copy (Pair) Codes from Old Remote to New Remote
+
+> **Purpose:**  
+> Clone the code from your original remote to the new remote.
+
+**Steps:**
+1. Hold the **old** and **new** remotes close together.
+2. **Press and hold** the same button on both remotes at the same time.
+3. Wait until the indicator LED on the new remote flashes rapidly.
+4. **Release** both buttons.  
+   → The code is copied successfully.
+
+**Notes:**
+- Repeat the process **for each button** (all four buttons must be copied individually).
+- Button symbols may differ between remotes, but the function will be copied as per the original.
+
+---
+
+### ⚠️ Important Reminders
+
+- Only clear codes on a new remote, not your original one.
+- Each button must be paired separately, even if the symbols are different.
+- Keep remotes close together during the copying process for best results.
+
+---
 
 ## code
 
