@@ -14,7 +14,11 @@ PIC16F1823
 
 PIC12F1572
 
+- [[PIC12-dat]]
+
 ## Chips 
+
+
 
 - [[PIC16F1933-DAT]] - [[PIC16F72-dat]]
 
