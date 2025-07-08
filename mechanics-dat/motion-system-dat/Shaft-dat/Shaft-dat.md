@@ -3,6 +3,9 @@
 
 ## 8mm 
 
+## 6mm 
+
+- [[limit-ring-dat]]
 
 ## related 
 
