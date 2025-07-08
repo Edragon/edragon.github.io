@@ -1,6 +1,15 @@
 
 # power-flow-contro-dat
 
+
+## 12/24V to 3.3V
+
+
+- It is more reliable to use a 5V DC-DC converter first, then use a linear regulator chip to step down to 3.3V. Directly outputting 3.3V from a DC-DC converter can easily damage the microcontroller due to surge voltage.
+- The output of a DC-DC module is not regulated; when powered on with a light load, the output voltage is higher than 3.3V. A load must be added to stabilize it at 3.3V, so an LDO should be connected afterward.
+- My usual approach is to step down from 24V to 5V first, then use a [[B0505-dat]] module for isolation, and finally step down to 3.3V. The 0505 module is much cheaper than an isolated 24V-to-5V module.
+
+
 ## USB Logic control for [[SDR1096-DAT]]
 
 [[logic-gate-dat]]

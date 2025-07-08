@@ -1,6 +1,8 @@
 
 # FOC-dat
 
+- [[FOC]]
+
 **Field-Oriented Control (FOC)** is an advanced control strategy for electric motors, particularly permanent magnet synchronous motors (PMSM) and AC induction motors. It allows for precise and efficient control of motor torque and speed.
 
 Here's a breakdown:

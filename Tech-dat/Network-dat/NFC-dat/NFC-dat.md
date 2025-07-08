@@ -4,6 +4,10 @@
 
 - [legacy wiki page ](https://w.electrodragon.com/w/Category:NFC)
 
+- [CLRC66303 == CLRC663 plus Family: High-Performance NFC Frontends](https://www.nxp.com/products/CLRC66303HN)
+
+
+
 ## Boards 
 
 - [[NID1026-dat]] - [[NID1017-dat]]

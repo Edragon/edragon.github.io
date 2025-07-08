@@ -6,6 +6,8 @@ The most following charger options are for the lithium-ion battery
 
 - [[2S-lithium-battery-charger-dat]]
 
+- [[battery-charger]]
+
 ## Chip Info
 
 - [[LTC4054-dat]] - [[MCP73831-dat]]
