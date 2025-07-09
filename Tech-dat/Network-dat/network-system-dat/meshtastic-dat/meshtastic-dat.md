@@ -6,6 +6,8 @@ https://github.com/meshtastic/firmware
 
 ## flash 
 
+https://meshtastic.org/docs/getting-started/
+
 https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/
 
 🗃️ ESP32 Device == [[ESP32-dat]]
