@@ -10,11 +10,14 @@ https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/
 
 🗃️ ESP32 Device == [[ESP32-dat]]
 
-🗃️ nRF52/RP2040 Device = [[NRF52-dat]] - [[RP2040-dat]]
+🗃️ nRF52/RP2040 Device = [[NRF52-dat]] - [[RP2040-dat]] - [[NRF52840-dat]]
 
 - [[MCU-dat]]
 
 [Web Flasher](https://flasher.meshtastic.org/)
+
+
+
 
 ## configuration 
 
@@ -33,3 +36,7 @@ Install Meshtastic PythonCLI
 ## hardware 
 
 - [[nRF52840-dat]] - [[SX1262-dat]] - [[Semtech-dat]]
+
+## ref 
+
+- [[lora-dat]]
