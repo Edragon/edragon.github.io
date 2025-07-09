@@ -5,12 +5,24 @@
 
 The module can be connected to a dedicated passive or an active single-band GNSS antenna in order to track the GNSS satellite signals. 
 
-- [[quectel_l76_series_hardware_design_v3-3.pdf]] - [[L76-LB Hardware Design.pdf]]
+- [[quectel_l76_series_hardware_design_v3-3.pdf]] 
 
 - [[quectel_l76_seriesl96_gnss_raw_measurements_application_note_v1-0.pdf]]
 
 - [[GNSS-EVB_SCH_V2.01_130614.pdf]] - [[quectel_l76_series_evb_user_guide_v2-1.pdf]]
 
+## variations 
+
+- [[L76-K-dat]] - [[L76-B-dat]] - [[L76-LB-dat]] - [[L76-L-dat]] - [[L76-LL-dat]]
+
+## L76 features 
+
+- Compact GNSS module
+- 10.1 mm × 9.7 mm × 2.3 mm
+- 0.5 g
+- GPS, GLONASS, BeiDou, Galileo and QZSS
+- 99 acquisition channels and 33 tracking channels
+- Operating temperature of -40°C to +85°C
 
 
 ## L76 VS L76-L VS L76-B
@@ -18,7 +30,7 @@ The module can be connected to a dedicated passive or an active single-band GNSS
 
 | model | status    | systems                                 | channels      |
 | ----- | --------- | --------------------------------------- | ------------- |
-| L76K  |           | GPS/GLONASS/BDS/QZSS                    |
+| L76-K |           | GPS/GLONASS/BDS/QZSS                    |               |
 | L76-L | available | GPS, GLONASS (or BDS), Galileo and QZSS | 33track/99acq |
 | L76   |           |                                         |               |
 | L76-B | available | GPS/BDS/QZSS                            |               |
@@ -26,15 +38,11 @@ The module can be connected to a dedicated passive or an active single-band GNSS
 | L70-R | available | GPS + QZSS                              |               |
 
 
-- [[Quectel_L76B_GNSS_Specification_V1.1.pdf]]
-- [[L76-LB.pdf]]
-
-
 - L76-L supports: Additional LNA, I2C
 
 | model    | LNA | Vio      | extra |
 | -------- | --- | -------- | ----- |
-| L76      | x   | 2.7-2.9V |       |
+| L76      |     | 2.7-2.9V |       |
 | L76-L    | y   | 2.7-2.9V | I2C   |
 | L76-L(L) | y   | 1.7-1.9V |       |
 
@@ -66,7 +74,7 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 
 ### antenna design 
 
-1. There is no need to use an additional LNA for L76-L and L76-L(L) modules, because there isalready an embedded LNA inside these two modules.
+1. There is no need to use an additional LNA for L76-L and L76-L(L) modules, because there is already an embedded LNA inside these two modules.
 2. The selected LNA should support both GPS and GLONASS system. For more information, pleasecontact Quectel technical supports.
 3. The power consumption of the device can be reduced by controlling the LNA ENABLE pin throughthe ANTON pin of the modules. If ANTON function is not used, please connect the LNA ENABLEpin to VCC and keep LNA always on.
 
@@ -75,9 +83,6 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 - $PQVERNO,R*3f
 
 
-## modules 
-
-- L76-K: [[Quectel_L76K_GNSS_V1.5-1.pdf]]
 
 ## boards 
 

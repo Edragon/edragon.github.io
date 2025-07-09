@@ -15,9 +15,11 @@
 
 - [[u-blox-dat]] - [[NEO-7-dat]]
 
-- [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]]
+- [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]] - [[L70-dat]] - [[L76-dat]]
 
-- [[simcom-dat]]
+- [[simcom-dat]] - [[A7670-dat]] - [[SIM868-dat]]
+
+
 
 ## Common Locating Issues 
 
