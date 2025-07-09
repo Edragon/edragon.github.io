@@ -13,7 +13,7 @@
 
 ## main category
 
-- [[M2M-dat]] - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface]]
+- [[M2M-dat]] - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface-dat]]
 
 - [[bluetooth-dat]]
 

@@ -13,11 +13,13 @@
 
 ## companies 
 
-- [[u-blox-dat]] - [[NEO-7-dat]]
+- [[u-blox-dat]] - [[NEO-7-dat]] - [[NEO-6M-dat]]
 
-- [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]] - [[L70-dat]] - [[L76-dat]]
+- [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]] - [[L86-dat]] - [[L76-dat]] - [[ED20-dat]] - [[EC20-dat]] - [[BC20-dat]]
 
-- [[simcom-dat]] - [[A7670-dat]] - [[SIM868-dat]]
+- [[simcom-dat]] - [[A7670-dat]] - [[SIM7080-dat]] - [[SIM7000-dat]] - [[SIM868-dat]] - [[SIM808-dat]]
+
+- [[ATGM336H-dat]]
 
 
 
@@ -65,4 +67,7 @@ foward signal to GPS NEMA serial port
 
 ## ref 
 
+- [[STM32-dat]]
+
 - [[location]] - [[network]]
+

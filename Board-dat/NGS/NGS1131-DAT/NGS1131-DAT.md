@@ -24,16 +24,17 @@ Board size 32.5 x 34 mm.
 
 | Pin  | Functions                                    |
 | ---- | -------------------------------------------- |
-| RST  | gpio_control_reset                           |
-| GND  | board power supply ground                    |
-| PEN  | on board dcdc power supply enable default on |
-| RXD  | UART receive via logic shifter               |
-| TXD  | UART send via logic shifter                  |
-| ~RI  | UART RI pin                                  |
-| DTR  | UART DRT pin                                 |
-| 3V3  | on board 3.3V LDO output                     |
-| VIN  | Power input up to ~18V                       |
 | VBUS | Power supply from USB port                   |
+| VIN  | Power input up to ~18V                       |
+| 3V3  | on board 3.3V LDO output                     |
+| DTR  | UART DRT pin                                 |
+| ~RI  | UART RI pin                                  |
+| RXD  | UART receive via logic shifter                  |
+| TXD  | UART send via logic shifter               |
+| PEN  | on board dcdc power supply enable default on |
+| GND  | board power supply ground                    |
+| RST  | gpio_control_reset                           |
+
 
 Pin Definitions:
 

@@ -79,6 +79,8 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 ## ref 
 
+- [[solutions-dat]]
+
 - [[antenna-dat]]
 
 - [2G](https://www.simcom.com/module/2g.html#place) - 
