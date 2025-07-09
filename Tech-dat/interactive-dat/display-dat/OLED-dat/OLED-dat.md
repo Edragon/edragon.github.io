@@ -157,9 +157,15 @@ code
 
 ## SCH 
 
-using with STM32 SPI2 
+### using with STM32 SPI2 
 
 ![](2024-01-13-17-43-38.png)
+
+
+### SCH 2 I2C+RESET 
+
+![](2025-07-09-18-51-53.png)
+
 
 
 ## repositories 
@@ -169,6 +175,9 @@ using with STM32 SPI2
 - demo code - https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/driver-interactive/OLED/SSD1306SimpleDemo
 
 - [oled](https://github.com/Edragon/Interactive-Display_OLED)
+
+
+
 
 
 ## ref 

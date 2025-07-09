@@ -8,7 +8,7 @@
 
 - [[ESP32+SX1278-dat]]
 
-- [[ESP32+SX1262-dat]]
+- [[ESP32+SX1278-dat]]
 
 ## ref 
 

@@ -18,6 +18,8 @@
 
 - [[LM317-dat]]
 
+CE6260 == 500mA CMOS LDO Regulator, Low Dropout Voltage
+
 
 ## 9742 
 

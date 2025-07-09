@@ -20,6 +20,7 @@ Using an N-type transistor for high-side switching is possible but requires a co
 
 
 
+
 ## ref 
 
 - [[mosfet-dat]] - [[PWM-dat]]
