@@ -19,6 +19,21 @@
 
 - RMC - Recommended Minimum Specific GNSS Data. Time, date, position, course, and speed data provided by a GNSS receiver.
 
+## tech 
+
+### What is a POT GNSS Module?
+
+A **POT GNSS module** refers to a GNSS (Global Navigation Satellite System) module that uses a **Patch On Top (POT)** antenna design.
+
+- **POT** stands for **Patch On Top**.
+- The module integrates a ceramic patch antenna directly on top of the GNSS receiver.
+- This design makes the module compact, easy to integrate, and suitable for space-constrained applications.
+- POT GNSS modules are commonly used for GPS, GLONASS, Galileo, and BeiDou navigation systems.
+
+**Summary:**  
+A POT GNSS module is a navigation module with a built-in patch antenna mounted on top, providing a simple and compact solution for satellite positioning.
+
+
 ## GNSS Start 
 
 COLD start GNSS:
