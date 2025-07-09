@@ -3,7 +3,11 @@
 
 - [[M2M-HDK-Ref-dat]] - [[M2M-interface-dat]]
 
-- [[SIMCOM-dat]] - [[quectel-dat]]
+## Module manufacturer
+
+- [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
+
+## tech 
 
 - 2G
 - LWPA
@@ -166,11 +170,7 @@ Table 22: LTE mode NETLIGHT pin status
 
 
 
-## Module manufacturer
 
-- [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
-
-- [[diode-dat]] - [[dcdc-buck-dat]] -
 
 
 
@@ -178,7 +178,11 @@ Table 22: LTE mode NETLIGHT pin status
 
 - [[GNSS-dat]] - [[antenna-dat]] - [[SIM-dat]]
 
+- [[diode-dat]] - [[dcdc-down-dat]] -
+
 
 ## ref 
+
+- [[solutions-dat]]
 
 - [[M2M]]

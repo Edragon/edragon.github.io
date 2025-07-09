@@ -1,6 +1,6 @@
 # GNS1112 DAT
 
-STM32 Low-Power Wireless System Board
+[STM32 Low-Power Wireless System Board](https://www.electrodragon.com/product/stm32-nb-iot-rs-232-wireless-control-board-stm32l151-bc35g/)
 
 
 ## Hardware
@@ -8,12 +8,15 @@ STM32 Low-Power Wireless System Board
 ![](51-19-17-18-04-2023.png)
 
 ### Board Features 
+
 - Pre-included board RS-232 [[DPR1084-DAT]]
 - Optional stack board:
   - based on our current [[M2M-interface-dat]]
-  - SIM7020G
-  - SIM7070G
-  - SIM7080G
+  - [[SIM7020-dat]]
+  - [[SIM7070-dat]]
+  - [[SIM7080-dat]]
+
+
 
 ### Pin Definitions 
 
@@ -38,7 +41,12 @@ Programming Interface: CLK DIO GND 3V3 BOOT
 
 ![](36-12-18-18-04-2023.png)
 
+- [[SIM7070-dat]]
+
+
 
 ### Ref 
 
 - [[STM32L151]]
+
+- [[NGS1112]]
