@@ -9,7 +9,7 @@ legacy wiki page
 AIT lora
 - https://w.electrodragon.com/w/AIT_LORA_MOD
 
-- [[lorawan-dat]]
+- [[lorawan-dat]] - [[LORA-node-dat]]
 
 - [[samtech-dat]]
 
