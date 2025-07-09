@@ -65,6 +65,16 @@ ETH.h
 - C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6\libraries\Ethernet\src\eth.cpp
 
 
+## arduino15 
+
+You can open it by pressing Win + R, typing: %LOCALAPPDATA%\Arduino15
+
+Cut the Arduino15 folder.
+
+Paste it somewhere on D drive, for example: D:\Arduino15
+
+Open Command Prompt as Administrator and run: mklink /D "%LOCALAPPDATA%\Arduino15" "D:\Arduino15"
+
 
 ## ref 
 
