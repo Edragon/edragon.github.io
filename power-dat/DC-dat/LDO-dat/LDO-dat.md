@@ -3,6 +3,8 @@
 
 - [[microne-dat]] - [[silergy-dat]] - [[ti-power-dat]]
 
+- [[LDO]]
+
 ## comparable table 
 
 | chip              | package | VIN |
@@ -18,7 +20,7 @@
 
 - [[LM317-dat]]
 
-CE6260 == 500mA CMOS LDO Regulator, Low Dropout Voltage
+CE6260 == 500mA CMOS LDO Regulator, Low Dropout Voltage, Dropout Voltage: 120mV@100mA（3.0V Typ.）, ~200–300mV @ 250mA
 
 
 ## 9742 

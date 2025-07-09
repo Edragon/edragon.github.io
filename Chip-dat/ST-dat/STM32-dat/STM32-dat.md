@@ -25,7 +25,11 @@ STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
 
 STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]]
 
+## Applications 
 
+[[CAN-dat]] - [[MSP1061-dat]]
+
+M2M - [[NGS1112-dat]]
 
 ## Programmer 
 
@@ -35,11 +39,7 @@ offline-supported - [[DPR1130-dat]]
 
 [[ST-LINK-dat]] - [[DPR1004-dat]] 
 
-## Applications 
 
-[[CAN-dat]] - [[MSP1061-dat]]
-
-M2M - [[NGS1112-dat]]
 
 ## software 
 
