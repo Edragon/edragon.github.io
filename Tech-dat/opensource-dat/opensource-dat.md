@@ -14,7 +14,9 @@
 
 - [[openhab-dat]] - [[home-assistant-dat]] - [[openwrt-dat]] - [[freertos-dat]]
 
- 
+## new projects 
+
+- ESP32-Paxcounter == https://github.com/cyberman54/ESP32-Paxcounter
 
 
 ## ref 
