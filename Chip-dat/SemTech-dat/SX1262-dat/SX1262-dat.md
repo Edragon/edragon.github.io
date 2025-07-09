@@ -3,6 +3,7 @@
 
 - [[lora-dat]] - [[semtech-dat]]
 
+- datasheet - [[DS_SX1261_2 V2-2.pdf]]
 
 - LLCC68ZTR4 (433MHz)
 - LLCC68ZTR8 (868MHz)
@@ -33,6 +34,8 @@
 - Packet engine to perform CRC, FEC, whitening, and address filtering
 
 ![](2025-06-23-17-10-05.png)
+
+
 
 ## SX1262 VS LLCC68 
 
@@ -68,7 +71,17 @@
 *   The **SX1262** generally offers better performance in terms of power consumption, sensitivity, and size, and supports a wider frequency range and IEEE 802.15.4g. It's a newer generation chip.
 *   The **SX1278** is an older, more established chip that is still suitable for many LoRa applications, particularly where cost is a primary concern and the advanced features of the SX1262 are not required.
 
- 
+## Pin Definitions 
+
+![](2025-07-09-14-14-19.png)
+
+
+### SX1262 SCH
+
+![](2025-07-09-12-47-23.png)
+
+
+
 ## solutions 
 
 - [[NRF52840+SX1262-dat]]

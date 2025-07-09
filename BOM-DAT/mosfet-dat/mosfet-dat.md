@@ -5,13 +5,15 @@ drive [[motor-dat]], [[LED-dat]]
 
 control by [[arduino-dat]] - [[MCU-dat]]
 
+
+
 ## tech 
 
 - [[mosfet-driver-dat]] for high speed usage 
 
 - [[PWM-dat]]
 
-- [[n-mosfet-control-dat]]
+- [[n-mosfet-control-dat]] - [[P-mos-dat]]
 
 ## board 
 
@@ -153,14 +155,6 @@ The LED flashing when switched by a MOSFET can be caused by several issues. Here
 ## Parallel using Mosfet for higher performance 
 
 ![](2024-08-28-14-44-40.png)
-
-
-## P-mosfet 
-
-| gate | status | source | drain |
-| ---- | ------ | ------ | ----- |
-| OFF  | ON     | -      | -     |
-| ON   | OFF    | -      | -     |
 
 
 

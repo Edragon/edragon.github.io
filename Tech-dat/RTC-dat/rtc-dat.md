@@ -14,6 +14,9 @@ Dallas
 
 NXP
 - PCF85063A
+- PCF8563 Real-time clock/calendar
+
+
 
 BL
 
