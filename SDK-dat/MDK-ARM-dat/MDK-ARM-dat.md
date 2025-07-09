@@ -10,6 +10,8 @@
 - 5.3.8
 - 5.3.4
 
+install from official websites 
+
 - https://armkeil.blob.core.windows.net/eval/MDK539.EXE
 - https://armkeil.blob.core.windows.net/eval/MDK538a.EXE
 - https://armkeil.blob.core.windows.net/eval/MDK538.EXE
@@ -26,11 +28,12 @@
 - https://armkeil.blob.core.windows.net/eval/MDK527.EXE
 - https://armkeil.blob.core.windows.net/eval/MDK526.EXE
 
+## install workflow 
 
-## Output file 
-
-
-
+- install MDK-ARM 
+- install ARM Compilier 5 (optionally) == [[AC5-dat]]
+  - create a folder in installation folder, for example "AC5" in D:\MDK\Keil_v5\ARM
+  - install into "AC5"
 
 ## Supports 
 
@@ -94,7 +97,7 @@ correct file
 
 D:\MDK\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include
 
-### '#pragma import' is an Arm Compiler 5 extension
+### '#pragma import' is an Arm Compiler 5 extension == install [[AC5-dat]]
 
     ../Driver/driver_usart.c(137): error: '#pragma import' is an Arm Compiler 5 extension, and is not supported by Arm Compiler for Embedded 6 [-Warmcc-pragma-import]
     #pragma import(__use_no_semihosting)
@@ -114,17 +117,7 @@ D:\MDK\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include
 static uint8_t rxbuff[SIZE_DATA] = {0};
                ^
 
-### Missing Complier Version 5 
 
-https://developer.arm.com/documentation/ka005198/latest
-
-download 
-
-Arm Compiler 5.06 update 7 (build 960) -- r5p6-07rel1 -- 14 Sep 2020
-
-install into 
-
-D:\MDK\Complier\
 
 #### select complier for project 
 

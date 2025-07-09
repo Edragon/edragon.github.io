@@ -44,7 +44,10 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
 - https://github.com/Edragon/alios-asr-lora
 - E:\Git-category\git-lora
 
-## LORA STM32 code 
+
+## Config 
+
+### STM32 code 
 
     sx126x_mod_params_lora_t params;
     params.bw = SX126X_LORA_BW_125;      // Set bandwidth to 125 kHz
@@ -53,7 +56,19 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
     params.ldro = 0x00;                  // Low Data Rate Optimization disabled
     sx126x_set_lora_mod_params(NULL, &params); // Apply these parameters to the radio
 
+### arduino sandeepmistry/arduino-LoRa Config 
 
+    LoRa.setPins(csPin, resetPin, irqPin); // set CS, reset, IRQ pin
+
+    if (!LoRa.begin(915E6)) {             // initialize ratio at 915 MHz
+    Serial.println("LoRa init failed. Check your connections.");
+    while (true);                       // if failed, do nothing
+    }
+
+    LoRa.setSignalBandwidth(125E3);
+    LoRa.setSpreadingFactor(9);           // ranges from 6-12,default 7 see API docs
+    LoRa.setCodingRate4(4/6);
+  
 
 
 ## lora encrpytion 
@@ -105,6 +120,9 @@ Example (Arduino, using AESLib):
 - Key Management: Both sender and receiver must use the same key.
 - LoRaWAN: If you use LoRaWAN, encryption is handled by the protocol stack automatically.
 - Raw LoRa: You must implement encryption/decryption yourself as shown above.
+
+
+
 
 ## ref
 
