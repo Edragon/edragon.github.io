@@ -38,6 +38,12 @@
 The SX1278 and SX1276 are very similar LoRa transceivers. In most applications, they are functionally interchangeable. Any differences are usually minor and related to specific manufacturing revisions or slight variations in performance characteristics that are not typically significant in most use cases.
 
 
+## SCH 
+
+![](2025-07-09-18-33-51.png)
+
+- [[PE4259-dat]] - [[switch-dat]]
+
 
 ## ref 
 

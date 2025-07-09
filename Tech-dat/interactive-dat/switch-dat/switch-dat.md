@@ -30,6 +30,9 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 ### SPDT
 
+## chip switch 
+
+- [[PE4259-dat]] - [[UPG2179-dat]]
 
 
 ## ref 

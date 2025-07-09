@@ -47,6 +47,10 @@
 `ADC Ctrl` enables or disables the battery voltage divider connection to the ADC
 
 
+### 2x mosfet 2x ADC measurement 
+
+![](2025-07-09-18-39-12.png)
+
 
 ## ref 
 

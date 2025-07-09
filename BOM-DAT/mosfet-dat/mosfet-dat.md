@@ -5,8 +5,6 @@ drive [[motor-dat]], [[LED-dat]]
 
 control by [[arduino-dat]] - [[MCU-dat]]
 
-
-
 ## tech 
 
 - [[mosfet-driver-dat]] for high speed usage 
@@ -14,6 +12,9 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[PWM-dat]]
 
 - [[n-mosfet-control-dat]] - [[P-mos-dat]]
+
+- [[dual-mosfet-dat]]
+
 
 ## board 
 

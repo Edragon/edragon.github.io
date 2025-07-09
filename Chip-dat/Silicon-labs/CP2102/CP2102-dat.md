@@ -19,6 +19,14 @@ driver
 
 
 
+## SCH 
+
+![](2025-07-09-18-40-54.png)
+
+2x mosfet == 2N7002
+
+- [[dual-mosfet-dat]] - [[mosfet-dat]]
+
 ## ref 
 
 - [[serial-dat]]
