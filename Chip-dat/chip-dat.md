@@ -2,6 +2,8 @@
 
 # chip-dat 
 
+- [[chip-cn-dat]]
+
 from a to z 
 
 - [[74xx-dat]]
@@ -25,7 +27,7 @@ from a to z
 
 - [[NXP-dat]] - [[PCA9685-dat]]
 
-- [[nordic-dat]] - [[nrf52840-dat]]
+- [[nordic-dat]] - [[nrf52840-dat]] - [[nrf52840-mod-dat]]
 
 - [[omniVision-dat]]
 
