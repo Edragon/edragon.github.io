@@ -1,6 +1,8 @@
 
 # MDK-ARM-dat
 
+- [[MDK-ARM]]
+
 
 ## KEIL-MDK
 
@@ -74,19 +76,23 @@ D:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core_A\Incl
 
 C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSIS\Include
 
-- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers{CMSIS)
-- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers{CMSIS\ Core_A)
-- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSIS) Core)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSIS)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSIS\Core_A)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSIS\Core)
 - Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.4\Drivers\CMSIS)
-- Include (C:\Users\Administrator\STM32Cube\Repository^\STM32Cube_FW_F1_V1.8.4\Drivers\(CMSIS\ Core_A)
-- Include (C:\Users\,Administrator(STM32Cube\Repository\STM32Cube_FW_F1_V1.8.4\Drivers(CMSIS\ Core)
-- Include (C:\Users\Administrator(STM32Cube\Repository\STM32Cube_FW_G0_V1.6.1\Drivers\(CMSIS)
-- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_G0_V1.6.1\Drivers{CMSIS) Core)
-- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_G0_V1.6.0\Drivers\(CMSIS)
-- Include (C:\Users\Administrator,STM32Cube\Repository\STM32Cube_FW_G0_V1.6.0\Drivers{CMSIS) Core)
-- Include (C:\Users\,Administrator\,AppData\Local\Arm\Packs\ARM(CMSIS)5.7.0\CMSIS) Core)
-- Include (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\(CMSIS\5.7.0\CMSIS) Core_A)
-- Include (C:\Users\Administrator\,AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.4\Drivers\CMSIS\Core_A)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.4\Drivers(CMSIS\Core)
+- Include (C:\Users\Administrator(STM32Cube\Repository\STM32Cube_FW_G0_V1.6.1\Drivers\CMSIS)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_G0_V1.6.1\Drivers\CMSIS\Core)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_G0_V1.6.0\Drivers\CMSIS)
+- Include (C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_G0_V1.6.0\Drivers\CMSIS\Core)
+- Include (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core)
+- Include (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core_A)
+- Include (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS)
+
+correct file 
+
+D:\MDK\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include
 
 ### '#pragma import' is an Arm Compiler 5 extension
 
@@ -102,10 +108,39 @@ C:\Users\Administrator\STM32Cube\Repository\STM32Cube_FW_F0_V1.11.3\Drivers\CMSI
     2 errors generated.
 
 
+### static uint8_t remove static
+
+../Main/main.c(14): error: static declaration of 'rxbuff' follows non-static declaration
+static uint8_t rxbuff[SIZE_DATA] = {0};
+               ^
+
+### Missing Complier Version 5 
+
+https://developer.arm.com/documentation/ka005198/latest
+
+download 
+
+Arm Compiler 5.06 update 7 (build 960) -- r5p6-07rel1 -- 14 Sep 2020
+
+install into 
+
+D:\MDK\Complier\
+
+#### select complier for project 
+
+
+
 ## DIR 
 
 - D:\Keil_v5\UV4\UV4.exe
 - D:\KEIL\Keil_v5\UV4\UV4.exe
+
+Destination Folders
+- Core:d:\Keil_v5
+- Pack:C:\Users\Administrator\AppData\Local\Arm\Packs
+
+
+
 
 ## Config 
 
@@ -127,7 +162,7 @@ ARM Compiler:
 
 ARM Compiler 5.06 update 7 Setup
 
-
+D:\MDK\Complier\
 
 ## License
 
@@ -136,6 +171,13 @@ ARM Compiler 5.06 update 7 Setup
 ![](2025-07-04-15-18-54.png)
 
 
+## packs 
+
+Packs -> STM32F1xx_DFP == Version 2.4.1: May 12, 2023
+
+    https://www.keil.arm.com/packs/stm32f1xx_dfp-keil/versions/
+
+Destination Folder: d:\MDK\Arm\Packs\KeilSTM32F1xx_DFP\2.4.1
 
 ## ref 
 
