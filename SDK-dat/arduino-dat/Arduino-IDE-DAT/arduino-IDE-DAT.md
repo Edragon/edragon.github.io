@@ -76,6 +76,18 @@ Paste it somewhere on D drive, for example: D:\Arduino15
 Open Command Prompt as Administrator and run: mklink /D "%LOCALAPPDATA%\Arduino15" "D:\Arduino15"
 
 
+
+## export compiled binary 
+
+    cmd /C copy C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_572672\rf-motor.ino_attiny13a_4800000L.lst E:\Git-category\Git-Arduino\arduino-main2\Sketchbook\attiny-app\rf-motor 
+            1 file(s) copied.
+
+    rf-motor.ino.with_bootloader_attiny13a_4800000L.hex
+    rf-motor.ino_attiny13a_4800000L.hex
+    rf-motor.ino_attiny13a_4800000L.lst
+
+- [[avrdude-dat]]
+
 ## ref 
 
 
