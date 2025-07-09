@@ -41,12 +41,6 @@
 - 4x 32-bit timers, RTC, watchdog, and more
 
 
-## module info 
-
-- free GPIO == 29 
-- flash = 1MB 
-
-![](2025-06-19-13-53-11.png)
 
 ## drive 
 
@@ -123,12 +117,14 @@
 - button == P1.10 
 - REST == P0.18/RESET 
 
+## SCH2 Module 
 
+![](2025-07-09-15-30-56.png)
 
 
 
 ## ref 
 
-- [[bluetooth-dat]]
+- [[bluetooth-dat]] - [[nrf52840]]
 
 - [[nordic-dat]]

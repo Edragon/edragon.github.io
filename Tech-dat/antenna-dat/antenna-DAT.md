@@ -123,6 +123,14 @@ A Bias-T consists of three ports:
 It works by using inductors and capacitors. The inductor blocks the RF signal but allows DC to pass, while the capacitor blocks DC but allows the RF signal to pass. This way, the antenna can operate without interference from the power supply.
 
 
+## Antenna on PCB reference design 
+
+Therefore, the layout of the module antenna location and routing is recommended as follows:
+1. Place the antenna on the edge (corner) of the PCB. 
+2. Make sure that there is no signal line or copper foil in each layer below the antenna. 
+3. It is best to hollow out the antenna position in the following figure to ensure that the S11 of themoduleisminimally affected.
+
+![](2025-07-09-15-34-06.png)
 
 ## ref
 
