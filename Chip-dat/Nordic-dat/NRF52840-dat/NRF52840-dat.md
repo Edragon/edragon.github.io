@@ -3,6 +3,20 @@
 
 - [[NRF52832-dat]]
 
+
+| Feature                     | nRF52805 | nRF52810 | nRF52811 | nRF52820 | nRF52832 | nRF52833 | nRF52840 | nRF5340 |
+| --------------------------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :-----: |
+| Bluetooth 5.3               |    X     |    X     |    X     |    X     |    X     |    X     |    X     |    X    |
+| Bluetooth 2 Mbps            |    X     |    X     |    X     |    X     |    X     |    X     |    X     |    X    |
+| Bluetooth Long Range        |          |          |    X     |    X     |          |    x     |    x     |    x    |
+| Bluetooth Direction Finding |          |          |    X     |    X     |          |    X     |          |    x    |
+| Bluetooth LE Audio          |          |          |          |          |          |          |          |    X    |
+| Bluetooth mesh              |          |          |          |    x     |    x     |    x     |    x     |    X    |
+| Thread                      |          |          |    X     |    X     |          |    x     |    x     |    X    |
+| Zigbee                      |          |          |          |    X     |          |    x     |    x     |    X    |
+| Matter                      |          |          |          |          |          |          |    X     |    X    |
+
+
 ## nRF52840 Features
 
 - 32-bit ARM® Cortex®-M4F processor, 64 MHz
@@ -38,10 +52,80 @@
 
 - [[LCD-dat]]
 
+## Pin Definitions 
+
+![](2025-07-09-14-30-21.png)
+
+## NRF52840 Pinout Table
+
+| Pin Name | Default Func | Alternate Functions  | Notes              |
+|----------|--------------|----------------------|--------------------|
+| P0.00    | GPIO         | *XL1, Analog In, NFC |                    |
+| P0.01    | GPIO         | *XL2, Analog In, NFC |                    |
+| P0.02    | GPIO         | Analog In, NFC       |                    |
+| P0.03    | GPIO         | Analog In, NFC       |                    |
+| P0.04    | GPIO         | Analog In, NFC       |                    |
+| P0.05    | GPIO         | Analog In, NFC       |                    |
+| P0.06    | GPIO         | Analog In, NFC       |                    |
+| P0.07    | GPIO         | Analog In, NFC       |                    |
+| P0.08    | GPIO         |                      |                    |
+| P0.09    | GPIO         | NFC1                 | NFC antenna option |
+| P0.10    | GPIO         | NFC2                 | NFC antenna option |
+| P0.11    | GPIO         |                      |                    |
+| P0.12    | GPIO         |                      |                    |
+| P0.13    | GPIO         |                      |                    |
+| P0.14    | GPIO         |                      |                    |
+| P0.15    | GPIO         |                      |                    |
+| P0.16    | GPIO         |                      |                    |
+| P0.17    | GPIO         |                      |                    |
+| P0.18    | RESET        | GPIO                 | REST pin           |
+| P0.19    | GPIO         |                      |                    |
+| P0.20    | GPIO         |                      |                    |
+| P0.21    | GPIO         |                      |                    |
+| P0.22    | GPIO         |                      |                    |
+| P0.23    | GPIO         |                      |                    |
+| P0.24    | GPIO         |                      |                    |
+| P0.25    | GPIO         |                      |                    |
+| P0.26    | GPIO         |                      |                    |
+| P0.27    | GPIO         |                      |                    |
+| P0.28    | GPIO         | Analog In            |                    |
+| P0.29    | GPIO         | Analog In            |                    |
+| P0.30    | GPIO         | Analog In            |                    |
+| P0.31    | GPIO         | Analog In            |                    |
+| P1.00    | GPIO         |                      |                    |
+| P1.01    | GPIO         |                      |                    |
+| P1.02    | GPIO         |                      |                    |
+| P1.03    | GPIO         |                      |                    |
+| P1.04    | GPIO         |                      |                    |
+| P1.05    | GPIO         |                      |                    |
+| P1.06    | GPIO         |                      |                    |
+| P1.07    | GPIO         |                      |                    |
+| P1.08    | GPIO         |                      |                    |
+| P1.09    | GPIO         |                      |                    |
+| P1.10    | GPIO         |                      | Button             |
+| P1.11    | GPIO         |                      |                    |
+| P1.12    | GPIO         |                      |                    |
+| P1.13    | GPIO         |                      |                    |
+| P1.14    | GPIO         |                      |                    |
+| P1.15    | GPIO         |                      |                    |
+
+
 
 ## solutions 
 
 - [[NRF52840+SX1262-dat]]
+
+## NRF52840 SCH 
+
+
+![](2025-07-09-12-46-39.png)
+
+- button == P1.10 
+- REST == P0.18/RESET 
+
+
+
+
 
 ## ref 
 
