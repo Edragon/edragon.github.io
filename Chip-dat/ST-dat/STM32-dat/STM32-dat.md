@@ -15,6 +15,7 @@
 
 - [[STM32-lora-dat]]
 
+- [[STM32L151-dat]] == [[NGS1111-dat]] - [[NGS1112-dat]]
 
 ## Boards 
 

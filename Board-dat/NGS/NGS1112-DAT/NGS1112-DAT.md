@@ -10,7 +10,7 @@ STM32 Low-Power Wireless System Board
 ### Board Features 
 - Pre-included board RS-232 [[DPR1084-DAT]]
 - Optional stack board:
-  - based on our current [[M2M-interface]]
+  - based on our current [[M2M-interface-dat]]
   - SIM7020G
   - SIM7070G
   - SIM7080G

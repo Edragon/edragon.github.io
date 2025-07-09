@@ -33,7 +33,7 @@ based on chip [[SIM7080G-dat]]
 - 3/5 jumper: select on board 3.3V or external logic/USB_5V power
 - 5V jumper: 5V to external logic power pin 
 
-- [[M2M-interface]]
+- [[M2M-interface-dat]]
 
 
 ## Use Guide 
