@@ -1,9 +1,7 @@
 
 # STM32-SDK-dat.md
 
-- [[STM32-cube-programmer-dat]]
-
-- [[STM32-CubeMX-dat]]
+- [[STM32-Cube-programmer-dat]] - [[STM32-CubeMX-dat]] - [[STM32-CubeIDE-dat]]
 
 - [[STM32-HDK-dat]]
 

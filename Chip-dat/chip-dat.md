@@ -35,7 +35,7 @@ from a to z
 
 [[richtek-dat]]
 
-- [[STM32-dat]] - [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
+- [[ST-dat]] - [[STM32-dat]] - [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
 
 - [[semtech-dat]] - [[SX1262-dat]] - [[sx1278-dat]] - [[LLCC68-dat]]
 

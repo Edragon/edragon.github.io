@@ -35,6 +35,10 @@
 ![](2025-06-19-13-53-11.png)
 
 
+## solutions 
+
+- [[NRF52840+SX1262-dat]]
+
 ## ref 
 
 - [[bluetooth-dat]]

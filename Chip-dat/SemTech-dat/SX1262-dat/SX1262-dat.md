@@ -67,8 +67,11 @@
 
 *   The **SX1262** generally offers better performance in terms of power consumption, sensitivity, and size, and supports a wider frequency range and IEEE 802.15.4g. It's a newer generation chip.
 *   The **SX1278** is an older, more established chip that is still suitable for many LoRa applications, particularly where cost is a primary concern and the advanced features of the SX1262 are not required.
-*   
 
+ 
+## solutions 
+
+- [[NRF52840+SX1262-dat]]
 
 
 ## ref 
