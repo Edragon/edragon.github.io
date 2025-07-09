@@ -42,6 +42,11 @@ cacultation:
 ![](2023-12-21-16-08-42.png)
 
 
+## Solar Type-C Solutions 
+
+![](2025-07-09-12-51-28.png)
+
+
 ## batter options than 
 
 - [[MCP73871-dat]] - [[CN3791-dat]]
