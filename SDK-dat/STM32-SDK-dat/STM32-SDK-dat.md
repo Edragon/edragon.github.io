@@ -22,4 +22,4 @@
 
 ## ref 
 
-- [[STM32-dat]] - [[info]]
+- [[STM32-dat]] - [[Info/info]]
