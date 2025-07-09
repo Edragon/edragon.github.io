@@ -12,16 +12,24 @@
 
 - [[ESP32+SX1262-dat]]
 
+## M2M 
+
+- [[STM32-M2M-dat]] == [[NGS1111-dat]] - [[NGS1112-dat]]
+
 
 
 ## other 
 
-- [[M2M-interface]]
+- [[M2M-interface-dat]]
+
+
 
 ## ref 
 
 - [[opensource-dat]]
 
 - [[IOT-dat]] - [[lora-dat]]
+
+- [[STM32-dat]]
 
 - [[m]]
