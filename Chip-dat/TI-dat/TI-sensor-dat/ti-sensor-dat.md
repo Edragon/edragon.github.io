@@ -3,6 +3,8 @@
 
 [[dc-current-sensor-dat]] 
 
+- [[INA330-dat]]
+
 - [[INA219-dat]] 
 - [[INA226-dat]] 
 - [[INA240-dat]] 

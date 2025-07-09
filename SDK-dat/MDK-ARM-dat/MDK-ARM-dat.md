@@ -6,7 +6,25 @@
 
 ## KEIL-MDK
 
+- 5.4 
 - 5.3.8
+- 5.3.4
+
+- https://armkeil.blob.core.windows.net/eval/MDK539.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK538a.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK538.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK537.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK536.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK535.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK534.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK533.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK532.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK531.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK530.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK529.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK528.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK527.EXE
+- https://armkeil.blob.core.windows.net/eval/MDK526.EXE
 
 
 ## Output file 
