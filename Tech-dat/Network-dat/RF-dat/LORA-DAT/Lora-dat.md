@@ -16,7 +16,7 @@ AIT lora
 
 ## Board 
 
-- [[arduino-dat]] == [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] 
+- [[arduino-dat]] == [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] == [[lora-node-dat]]
 
 - [[DAS1069-dat]]
 

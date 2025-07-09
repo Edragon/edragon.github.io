@@ -37,6 +37,7 @@ proramming
 - ATtiny13A leg 8 -> 5v
 - ATtiny13A leg 4 -> Ground (GND)
 
+- [[arduino-boards-dat]] - [[diy-attiny-dat]] - [[microcore-dat]]
 
 
 ## ref 

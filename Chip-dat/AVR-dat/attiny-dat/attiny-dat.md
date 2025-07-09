@@ -30,19 +30,7 @@ Key features:
 
 ## SDK
 
-- [[arduino-boards-dat]]
-
-== https://github.com/MCUdude/MicroCore == star 580
-
-Enter the following URL in Additional Boards Manager URLs: 
-
-    https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
-
-- Open the Tools > Board > Boards Manager... menu item.
-- Wait for the platform indexes to finish downloading.
-- Scroll down until you see the MicroCore entry and click on it.
-- Click Install.
-- After installation is complete close the Boards Manager window.
+- [[arduino-boards-dat]] - [[diy-attiny-dat]] - [[microcore-dat]]
 
 
 - arduino attiny - http://code.google.com/p/arduino-tiny/
@@ -55,17 +43,14 @@ Enter the following URL in Additional Boards Manager URLs:
 
 - [[DAR1047-dat]]
 
+
+
 ## other LIBs 
 
-ATTinyCore
+ATTinyCore (not support attiny 13)
 - by Spence Konde
 - attiny 85
 - https://github.com/SpenceKonde/ATTinyCore == 1.7k stars
-
-
-
-DIY Attiny 
-- https://raw.githubusercontent.com/sleemanj/optiboot/master/dists/package_gogo_diy_attiny_index.json
 
 
 

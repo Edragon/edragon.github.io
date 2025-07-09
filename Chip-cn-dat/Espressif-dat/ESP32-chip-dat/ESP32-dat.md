@@ -43,16 +43,16 @@
 
 Most ESP32 chips are dual-core. Here’s a summary:
 
-| Chip Series | Cores  | Core Type            |
-| ----------- | ------ | -------------------- |
-| ESP32       | Dual   | Tensilica Xtensa LX6 |
-| ESP32-S2    | Single | Tensilica Xtensa LX7 |
-| ESP32-S3    | Dual   | Tensilica Xtensa LX7 |
-| ESP32-C3    | Single | RISC-V               |
-| ESP32-C6    | Single | RISC-V               |
-| ESP32-C5    | Single | RISC-V               |
-| ESP32-H2    | Single | RISC-V               |
-| ESP32-P4    | Dual   | RISC-V               |
+| Chip Series | Cores  | Core Type            | Pin Count |
+| ----------- | ------ | -------------------- | --------- |
+| ESP32       | Dual   | Tensilica Xtensa LX6 |           |
+| ESP32-S2    | Single | Tensilica Xtensa LX7 |           |
+| ESP32-S3    | Dual   | Tensilica Xtensa LX7 | 57        |
+| ESP32-C3    | Single | RISC-V               |           |
+| ESP32-C6    | Single | RISC-V               |           |
+| ESP32-C5    | Single | RISC-V               |           |
+| ESP32-H2    | Single | RISC-V               |           |
+| ESP32-P4    | Dual   | RISC-V               |           |
 
 **Dual-core ESP32 chips:**  
 - ESP32 (original)
