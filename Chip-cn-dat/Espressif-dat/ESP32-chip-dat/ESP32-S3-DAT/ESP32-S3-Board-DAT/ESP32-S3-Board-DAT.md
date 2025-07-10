@@ -11,8 +11,21 @@
 
 ![](2025-01-06-15-50-00.png)
 
+- GPIO 3 == pull-up 
+- GPIO 35 == LED 
+- EN == button, pull-up, filter-cap 
+- IO0 == button, pull-up
+
+## peripharals 
+
+- [[WS2812-dat]], - [[USB-dat]]
 
 
+## USB OTG 
+
+IO19, IO20, CC1 CC2 pull-down 
+
+![](2025-07-10-17-28-15.png)
 
 
 
