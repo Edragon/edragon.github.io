@@ -6,6 +6,31 @@
 
 - [[power-protection-Vmotor-dat]]
 
+- inrush + anti-reverse protection 
+
+
+## Input protection 
+
+![](2025-07-10-18-53-28.png)
+
+- [[SB1045-dat]] - [[sensor-NTC-dat]] == NTC10D-11
+
+- [[sensor-dat]]
+
+The input protection circuit uses two main components:
+
+- **NTC10D-11 (NTC Thermistor):**  
+  When power is first applied, this thermistor has a high resistance, which limits the inrush current to downstream components (such as large capacitors or sensitive ICs). As it heats up from current flow, its resistance drops, allowing normal operation with minimal voltage drop.
+
+- **SB1045L (Schottky Diode):**  
+  This diode is oriented to allow current to flow only in the correct direction. If the power supply is connected in reverse, the diode blocks the current, preventing damage to the rest of the circuit.
+
+**Summary:**  
+- The NTC thermistor protects against inrush current at power-on.
+- The Schottky diode protects against reverse polarity.
+- Together, they ensure only safe, properly oriented power reaches the back end of the circuit.
+
+
 ## reverse-votlage-protection
 
 ![](2025-03-24-19-39-56.png)

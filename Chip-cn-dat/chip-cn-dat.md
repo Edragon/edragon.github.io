@@ -4,7 +4,7 @@
 - [[chip-dat]]
 
 
-- [[Espressif-dat]] - [[ESP32-dat]] - [[ESP-SDK-dat]]
+- [[Espressif-dat]] - [[ESP32-dat]] - [[ESP32-S3-dat]] - [[ESP32-C3-dat]] - [[ESP32-P4-dat]]
 
 - [[ESP8266-dat]] - [[esp8266-modules-dat]]
 

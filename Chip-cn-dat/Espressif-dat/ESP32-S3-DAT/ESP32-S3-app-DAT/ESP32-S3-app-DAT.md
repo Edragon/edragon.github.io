@@ -5,6 +5,9 @@
 
 - [[interface-interactive-dat]]
 
+- [[ESP32-I2S-dat]]
+
+
 ## ESP-EYE 
 
 - [[ESP-EYE-dat]]
@@ -27,8 +30,15 @@ https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP32-S3-EY
 
 - [[serial-dat]] - [[DVP-camera-dat]]
 
+- [[dcdc-down-dat]]
+
 ![](ESP32-S3-AI-CAM.jpg)
 
+## ethernet and ADC read 
+
+- [[ADC-dat]] - [[W5500-dat]]
+
+![](ESP32-S3-ethernet-ADC-reader-board.jpg)
 
 ## ref 
 

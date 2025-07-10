@@ -1,3 +1,0 @@
-
-# NTC-sensor-dat
-

@@ -11,6 +11,8 @@
 
 - [[ESP8685-dat]]
 
+- [[ESP-SDK-dat]]
+
 ## Software and SDK 
 
 - [[ESP-SDK-dat]]
