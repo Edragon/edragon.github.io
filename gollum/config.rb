@@ -200,7 +200,7 @@
     #
     # Equivalent to --template-dir [PATH]
 
-    template_dir: 'templates',
+    template_dir: '/root/edragon.github.io/gollum/templates',
 
     #-----------------------------------------------------------------------------
     # Use _Template in root as a template for new pages. Must be committed.
