@@ -233,9 +233,9 @@
     #-----------------------------------------------------------------------------
     # Global metadata. Arbitrary metadata that will be applied to each page.
 
-    metadata: {
-      electrodragon: 'https://www.electrodragon.com'
-    },
+    # metadata: {
+    #   electrodragon: 'https://www.electrodragon.com'
+    # },
 
     ##############################################################################
     # Tips
