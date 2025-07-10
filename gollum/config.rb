@@ -200,7 +200,7 @@
     #
     # Equivalent to --template-dir [PATH]
 
-    template_dir: 'gollum/',
+    # template_dir: './gollum',
 
     #-----------------------------------------------------------------------------
     # Use _Template in root as a template for new pages. Must be committed.
