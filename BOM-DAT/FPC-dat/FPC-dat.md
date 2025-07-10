@@ -1,6 +1,7 @@
 
 # FPC dat 
 
+
 ## Info 
 - common pitch 0.5 mm
 
@@ -30,3 +31,5 @@ Use low-temperature solder [[soldering-paste-dat]] to tin the pads first, then c
 ## ref 
 
 - [[soldering-dat]]
+
+- [[FPC-fab-dat]]

@@ -1,7 +1,14 @@
 
 # BTB dat 
 
+- [[FPC-dat]]
+
 - [[ESP32-SPI-dat]]
+
+mount the concave part on the bottom, and convex part on the top
+
+
+## BTB 12 pins connector 
 
 | ESP32 Pin | Function | Lora       |
 | --------- | -------- | ---------- |
@@ -23,13 +30,18 @@
 ![](2024-10-02-20-05-52.png)
 
 ## base board
+
 ![](40-27-15-02-08-2023.png)
 
 
 
 ## supported boards 
 
-- [[NWI1230-dat]] - [[NGS1128-DAT]]
+- [[NWI1230-dat]] == [[ESP8266-dat]]
+
+- [[NGS1128-DAT]] == [[SIM7080-dat]]
+
+
 
 ## attach board ref 
 
