@@ -7,6 +7,8 @@
 
 mount the concave part on the bottom, and convex part on the top
 
+https://www.electrodragon.com/w/ED-BTB
+
 
 ## BTB 12 pins connector 
 
