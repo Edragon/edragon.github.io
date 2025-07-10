@@ -1,4 +1,3 @@
-
 # STM32-HDK-dat
 
 - [[STM32F103-dat]]
@@ -20,6 +19,21 @@
 
 - [[USB-sys-dat]]
 
+## Pin Definitions 
+
+### USB Pins (STM32F103C8T6)
+
+| Function | Pin  | Description               |
+| -------- | ---- | ------------------------- |
+| USB_DM   | PA11 | USB Data Minus            |
+| USB_DP   | PA12 | USB Data Plus             |
+| USB_ID   | PA10 | USB OTG ID (if using OTG) |
+| VBUS     | PA9  | USB Bus Power Detection   |
+
+**Notes:**
+- PA11 and PA12 are the primary USB differential pair
+- External pull-up resistor (1.5kΩ) on DP (PA12) required for USB device mode
+- VBUS sensing on PA9 is optional for self-powered devices
 
 ## 🔧 Boot Configuration
 

@@ -11,6 +11,8 @@
 
 ## 2025 [[SX1262-dat]] with [[STM32-dat]] - [[STM32-HDK-dat]]
 
+- [[STM32-HDK-dat]]
+
 ![](2025-06-23-17-59-05.png)
 
 - [[auto-serial-dat]]
