@@ -1,6 +1,7 @@
 
 # NWI1230-dat
 
+[ESP8266 Mini-Dev BTB Platform Board](https://www.electrodragon.com/product/esp8266-mini-dev-platform-board/)
 
 ![](2024-02-23-18-44-53.png)
 
@@ -23,8 +24,13 @@
 
 [Detailed use guide here.](https://www.electrodragon.com/w/Category:ED_Platform)
 
+File:Esp8266_esp-link_base_board.gif
+
+Reserved resistor connection IO16-RST
 
 
 ## ref 
+
+- [[ESP8266-dat]]
 
 - [[BTB-dat]] - [[NWI1230]]

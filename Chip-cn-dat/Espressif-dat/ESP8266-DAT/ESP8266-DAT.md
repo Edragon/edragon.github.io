@@ -1,19 +1,12 @@
 
-# ESP8266 
+# ESP8266-dat
 
 find modules here - [[esp8266-modules-dat]]
 
-## dev board 
+- [[ESP8266-board-dat]]
 
-- [[NWI1044-dat]] - orignally design for [[nodemcu-dat]]
+- [[espressif-dat]] - [[ESP8266-dat]] - [[ESP32-dat]] - [[ESP-dat]]
 
-- [[NWI1083-dat]] small size mini board, pro version [[NWI1122-dat]]
-
-- [[ESP8266-modules-dat]] holder board - [[NWI1050-dat]] - [[NWI1053-dat]] - [[NWI1130-dat]]
-
-## APP Board 
-
-- [[esp-relay-board-dat]] - [[NWI1072-dat]] - [[NWI1124-dat]]
 
 ## Modules and Boards 
 
@@ -21,9 +14,8 @@ find modules here - [[esp8266-modules-dat]]
 
 - [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
 
-- [[espressif-dat]] - [[ESP8266-dat]] - [[ESP32-dat]] - [[ESP-dat]]
 
-- [[NWI1230-dat]]
+
 
 
 ## Hardware 
