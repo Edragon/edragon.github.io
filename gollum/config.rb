@@ -1,4 +1,4 @@
-  # Launch Gollum using a specific git adapter. See https://github.com/gollum/gollum/wiki/Git-adapters
+# Launch Gollum using a specific git adapter. See https://github.com/gollum/gollum/wiki/Git-adapters
   # Default: rugged
   #
   # Equivalent to --adapter [ADAPTER]
@@ -271,3 +271,20 @@
   #Precious::App.set(:default_markup, :asciidoc)
 
   Precious::App.set(:wiki_options, wiki_options)
+
+  Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
+    # Any post-commit hooks if needed
+  end
+
+  # Configure Gollum to use custom template
+  Gollum::Page.send :remove_const, :FORMAT_NAMES if defined? Gollum::Page::FORMAT_NAMES
+
+  # Set custom template path
+  require 'gollum'
+  require 'gollum/app'
+
+  Precious::App.set(:gollum_path, '/root/edragon.github.io')
+  Precious::App.set(:template_dir, '/root/edragon.github.io/gollum')
+
+  # Set custom layout template
+  Precious::App.set(:template, 'custom')
