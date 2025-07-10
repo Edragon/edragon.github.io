@@ -1,6 +1,9 @@
 
 # ambient-light-sensor-dat
 
+
+- [[infrared-led-dat]] - [[liteon-dat]]
+
 ## board 
 
 - [[SMO1090-dat]] - [[SSL1034-dat]] 

@@ -7,7 +7,8 @@
 
 - classic common options - [[CH340-dat]]
 
-- [[USB-sys-dat]]
+- [[USB-sys-dat]] - [[Logic-level-shifter-dat]]
+
 
 ## Usage 
 

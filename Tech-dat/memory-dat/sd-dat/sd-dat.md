@@ -42,6 +42,14 @@ This is how I connected my SD card:
 https://github.com/espressif/arduino-esp32/tree/master/libraries/SD
 
 
+## 1-bit microSD 
+
+![](2025-07-10-17-57-06.png)
+
+- CMD 
+- CLK 
+- DATA == D0
+
 
 ## SDIO interface for ESP32 
 

@@ -1,6 +1,8 @@
 
 # LED-dat
 
+- [[infrared-led-dat]]
+
 - [[LED-strip-dat]] 
  
 - general led driver [[led-driver-dat]] - [[ILC1063-dat]] - [[IDD1002-dat]]
@@ -46,8 +48,6 @@ other types - [[APA102-2020-dat]]
 GPIO4: 
 
 ![](2024-12-28-17-42-41.png)
-
-
 
 
 

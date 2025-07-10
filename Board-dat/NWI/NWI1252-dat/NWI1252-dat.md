@@ -99,7 +99,7 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 
 ## ref 
 
-- [[arduino-dat]] - [[ESP32-C3-dat]] - [[ESP32-C3-USB-dat]] - [[esp32-dat]]
+- [[arduino-dat]] - [[ESP32-C3-dat]] - [[ESP32-C3-USB-dat]] - [[ESP32-dat]]
 
 - [[RS232-dat]] - [[DCDC-dat]] - [[USB-dat]] - [[case-dat]]
 
