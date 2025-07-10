@@ -54,6 +54,14 @@ LED has a low voltage driving, high energy saving and environmental protection, 
 - VSS  Ground 
 - DIN Data In 
 
+
+## SCH 
+
+ESP32 
+
+![](2025-07-10-17-29-15.png)
+
+
 ## ref 
 
 - [[led-strip-dat]] - [[ws2812-dat]]

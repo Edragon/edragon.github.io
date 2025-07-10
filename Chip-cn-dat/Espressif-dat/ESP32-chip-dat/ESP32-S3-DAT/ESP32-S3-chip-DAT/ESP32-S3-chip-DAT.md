@@ -5,6 +5,8 @@
 
 ![](2024-08-16-18-27-43.png)
 
+- [[peripherals-dat]]
+
 ## Pin definitions 
 
 ![](2025-07-09-15-45-22.png)
@@ -68,6 +70,18 @@
 | 55    | VDDA       | Analog_PWR               | x     |
 | 56    | VDDA       | Analog_PWR               | x     |
 | 57    | GND        | Ground                   | x     |
+
+### USB OTG 
+
+When using the on-chip PHY, the differential signal pins USB_D- and USB_D+ of the USB OTG are multiplexed
+with GPIO19 ~ GPIO20, RTC_GPIO19 ~ RTC_GPIO20, UART1 interface, and SAR ADC2 interface via IO
+MUX.
+
+### UART0 
+
+- | 49    | U0TXD      | UART0 TX, GPIO           | UART0 |
+- | 50    | U0RXD      | UART0 RX, GPIO           | UART0 |
+
 
 
 ## ref 

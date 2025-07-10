@@ -7,6 +7,8 @@
 
 - [[USB-STM32-dat]]
 
+- [[USB-OTG-dat]]
+
 - libusb-win32
 - https://zadig.akeo.ie/
 
@@ -35,6 +37,9 @@
 
 ![](2024-05-06-17-38-37.png)
 
+### USB with a diode 
+
+![](2025-07-10-17-31-16.png)
 
 ## Terms 
 

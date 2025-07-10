@@ -1,6 +1,10 @@
 
 # programming-dat
 
+- [[JTAG-dat]] - [[JLINK-dat]]
+
+- [[ISP-dat]] - [[ICP-dat]]
+
 | Feature                    | ICP (In-Circuit Programming)                                | ISP (In-System Programming)                                    |
 | -------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
 | **Full Name**              | In-Circuit Programming                                      | In-System Programming                                          |
@@ -21,11 +25,6 @@
 If ISP fails or UART is unavailable, consider using ICP via SWD with Nuvoton's Nu-Link debugger.
 
 
-
-
-## methods  
-
-- [[ISP-dat]] - [[ICP-dat]]
 
 
 ## Target 

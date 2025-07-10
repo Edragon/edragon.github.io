@@ -1,6 +1,8 @@
 
 # interface dat 
-  
+
+- [[peripherals-dat]]
+
 - [[RS485-DAT]] - [[modbus-dat]]
 
 - [[RS232-dat]] - [[RS422-dat]] - [[can-dat]]
@@ -24,6 +26,8 @@ long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] -
 - [[analog-dat]] - [[digital-dat]]
 
 - [[USB-dat]] - [[USB-sys-dat]]
+
+- [[interface-interactive-dat]]
 
 ## Breakout boards 
 
