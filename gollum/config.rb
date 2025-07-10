@@ -102,7 +102,7 @@
     #
     # Equivalent to --js
 
-    js: true,
+    #js: true,
 
     #-----------------------------------------------------------------------------
     # Compatibility with 4.x
@@ -252,7 +252,7 @@
     # Move the sidebar to the left of the page
     # https://github.com/gollum/gollum/issues/1450#issuecomment-599124384
 
-    sidebar: :left,
+    #sidebar: :left,
 
     #-----------------------------------------------------------------------------
     # Change the home page name
