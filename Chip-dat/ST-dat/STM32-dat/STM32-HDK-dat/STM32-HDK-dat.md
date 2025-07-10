@@ -14,25 +14,21 @@
 
 
 
-## download 
+## peripherals 
 
-NRST - DTR#, BOOT0 - RST# 
+- [[auto-serial-dat]] - [[type-c-hdk-dat]]
 
-![](2025-06-23-18-00-49.png)
+- [[USB-sys-dat]]
 
-
-## power supply and download via USB 
-
-![](2025-06-23-18-01-31.png)
 
 ## 🔧 Boot Configuration
 
 To enter system bootloader mode (UART download mode), set the BOOT pins as follows:
 
-| BOOT0 | BOOT1 | Mode                           |
-|-------|-------|--------------------------------|
+| BOOT0 | BOOT1 | Mode                            |
+| ----- | ----- | ------------------------------- |
 | 1     | 0     | **System Memory (USART1 boot)** |
-| 0     | x     | Flash memory (normal startup)  |
+| 0     | x     | Flash memory (normal startup)   |
 
 **Set:**
 - `BOOT0 = 1` (connect to 3.3V)

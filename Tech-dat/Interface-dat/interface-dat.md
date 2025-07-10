@@ -23,6 +23,8 @@ long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] -
 
 - [[analog-dat]] - [[digital-dat]]
 
+- [[USB-dat]] - [[USB-sys-dat]]
+
 ## Breakout boards 
 
 [[RS232-dat]] breakout

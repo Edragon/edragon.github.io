@@ -13,6 +13,8 @@
 
 ![](2025-06-23-17-59-05.png)
 
+- [[auto-serial-dat]]
+
 def in UserConfig.h
 
     //spi

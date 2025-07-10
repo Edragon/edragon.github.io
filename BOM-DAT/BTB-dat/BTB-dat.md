@@ -26,6 +26,11 @@
 ![](40-27-15-02-08-2023.png)
 
 
+
+## supported boards 
+
+- [[NWI1230-dat]] - [[NGS1128-DAT]]
+
 ## attach board ref 
 
 ### lora
