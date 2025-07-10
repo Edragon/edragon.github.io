@@ -200,7 +200,7 @@
     #
     # Equivalent to --template-dir [PATH]
 
-    # template_dir: './gollum',
+    # template_dir: 'templates',
 
     #-----------------------------------------------------------------------------
     # Use _Template in root as a template for new pages. Must be committed.
@@ -264,13 +264,10 @@
     # Change the number of changes in the rss feed
 
     pagination_count: 15,
-    template: 'custom'
+
   }
 
   Precious::App.set(:wiki_options, wiki_options)
-
-  # Remove this line since it's now in wiki_options:
-  # wiki_options[:template] = 'custom'
 
   Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
     # Any post-commit hooks if needed
