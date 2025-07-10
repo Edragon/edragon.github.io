@@ -263,18 +263,14 @@
     #-----------------------------------------------------------------------------
     # Change the number of changes in the rss feed
 
-    pagination_count: 15
+    pagination_count: 15,
+    template: 'custom'
   }
 
   Precious::App.set(:wiki_options, wiki_options)
 
-  # Remove these lines - they might be conflicting:
-  # Precious::App.set(:gollum_path, '/root/edragon.github.io')
-  # Precious::App.set(:template_dir, '/root/edragon.github.io/gollum')
-  # Precious::App.set(:template, 'custom')
-  
-  # Instead, add the custom template to wiki_options:
-  wiki_options[:template] = 'custom'
+  # Remove this line since it's now in wiki_options:
+  # wiki_options[:template] = 'custom'
 
   Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
     # Any post-commit hooks if needed
