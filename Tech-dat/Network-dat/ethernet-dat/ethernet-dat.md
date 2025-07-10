@@ -11,7 +11,7 @@
 
 - [[W5500-dat]] - [[ENC28J60-dat]]
 
-
+- [[LAN8720-dat]]
 
 ## RJ45 breakout board 
 
