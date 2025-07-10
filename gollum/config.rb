@@ -200,7 +200,7 @@
     #
     # Equivalent to --template-dir [PATH]
 
-    #template_dir: '/root/edragon.github.io/gollum',
+    template_dir: '/root/edragon.github.io/gollum',
 
     #-----------------------------------------------------------------------------
     # Use _Template in root as a template for new pages. Must be committed.
@@ -264,7 +264,7 @@
     # Change the number of changes in the rss feed
 
     pagination_count: 15,
-    #template: 'custom'
+    template: 'custom'
   }
 
   Precious::App.set(:wiki_options, wiki_options)
