@@ -29,7 +29,7 @@ find modules here - [[esp8266-modules-dat]]
 
 - Batch Brogramming for ESP8266 modules, use [[OPM1095-dat]] and [[DPR1120-dat]] - https://t.me/electrodragon3/331
 
-
+- [[DPR1106-dat]] == [ESP-12 Programmer Debugger](https://www.electrodragon.com/product/esp-12-programmer-debugger/)
 
 
 

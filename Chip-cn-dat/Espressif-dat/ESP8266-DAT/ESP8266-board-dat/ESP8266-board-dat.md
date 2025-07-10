@@ -15,6 +15,9 @@
 
 - [[NWI1066-dat]] == [D1 R1 WiFi Board, Arduino, NodeMCU Compatible](https://www.electrodragon.com/product/d1wifi-arduino-based-board-arduino-nodemcu-compatible/)
 
+- [[NWI1083-dat]] == [D1 Mini WIFI Dev Board, ESP8266 ESP-12F](https://www.electrodragon.com/product/d1-mini-wifi-dev-board-esp8266-esp12f/)
+
+- [[NWI1203-dat]] == [ESP8266-DevKitC Mini DEV. Board, ESP8266-DevKitC-02D-F](https://www.electrodragon.com/product/esp8266-devkitc-mini-development-board-esp8266-devkitc-02d-f/)
 
 
 ## APP Board 
