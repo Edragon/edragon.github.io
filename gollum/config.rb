@@ -266,25 +266,16 @@
     pagination_count: 15
   }
 
-  #-------------------------------------------------------------------------------
-  # Change default markup
-  #Precious::App.set(:default_markup, :asciidoc)
-
   Precious::App.set(:wiki_options, wiki_options)
+
+  # Remove these lines - they might be conflicting:
+  # Precious::App.set(:gollum_path, '/root/edragon.github.io')
+  # Precious::App.set(:template_dir, '/root/edragon.github.io/gollum')
+  # Precious::App.set(:template, 'custom')
+  
+  # Instead, add the custom template to wiki_options:
+  wiki_options[:template] = 'custom'
 
   Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
     # Any post-commit hooks if needed
   end
-
-  # Configure Gollum to use custom template
-  Gollum::Page.send :remove_const, :FORMAT_NAMES if defined? Gollum::Page::FORMAT_NAMES
-
-  # Set custom template path
-  require 'gollum'
-  require 'gollum/app'
-
-  Precious::App.set(:gollum_path, '/root/edragon.github.io')
-  Precious::App.set(:template_dir, '/root/edragon.github.io/gollum')
-
-  # Set custom layout template
-  Precious::App.set(:template, 'custom')
