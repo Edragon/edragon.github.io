@@ -1,24 +1,75 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{title}}</title>
-  <link rel="stylesheet" href="{{assets_path}}/gollum.css">
-  
-  <!-- Google Analytics (gtag.js) -->
+  <meta http-equiv="Content-type" content="text/html;charset=utf-8">
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="viewport" content="width=device-width">
+  {{#sprockets_stylesheet_tag}}app{{/sprockets_stylesheet_tag}}
+  {{#sprockets_stylesheet_tag}}print print{{/sprockets_stylesheet_tag}}
+
+  {{#css}}<link rel="stylesheet" type="text/css" href="{{custom_css}}" media="all">{{/css}}
+  {{#noindex}}<meta name="robots" content="noindex, nofollow" />{{/noindex}}
+
+  <script>
+  var criticMarkup = '{{critic_markup}}';
+	var baseUrl = '{{base_url}}';
+  var showLocalTime = {{{show_local_time}}};
+	var uploadDest = 'uploads';
+	var perPageUploads = '{{per_page_uploads}}';
+	if (perPageUploads == 'true') {
+	  uploadDest = uploadDest + window.location.pathname.replace(/.*gollum\/[-\w]+\//, "/").replace(/\.[^/.]+$/, "").replace(baseUrl, "")
+	}
+	{{#page}}
+	  var pageFullPath = '{{escaped_url_path}}';
+    var pageFormat   = '{{format}}';
+	{{/page}}
+  {{#has_search_terms}}
+    var searchTerms  = [{{#search_terms}}'{{.}}', {{/search_terms}}
+    ];
+  {{/has_search_terms}}
+  {{#is_create_page}}
+    var default_markup = '{{default_markup}}';
+  {{/is_create_page}}
+
+  </script>
+  {{#sprockets_javascript_tag}}app{{/sprockets_javascript_tag}}
+  {{#has_editor}}
+  {{#sprockets_javascript_tag}}editor{{/sprockets_javascript_tag}}
+  {{/has_editor}}
+  {{#mathjax}}
+  <script type="text/javascript">
+    window.MathJax = {
+      tex2jax: {
+        inlineMath:  [ ['$','$'], ['\\(','\\)'] ],
+        displayMath: [ ['$$','$$'], ['\\[','\\]'] ],
+        processEscapes: true
+      },
+      TeX: { extensions: ["autoload-all.js"] }
+    };
+  </script>
+  {{#mathjax_config}}
+  <script type="text/javascript" src="{{mathjax_config_path}}"></script>
+  {{/mathjax_config}}
+  <script defer src="{{mathjax_js}}"></script>
+  {{/mathjax}}
+  {{#js}}<script type="text/javascript" src="{{custom_js}}"></script>{{/js}}
+
+  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZCWWBBG7BH"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-ZCWWBBG7BH', {
-      'anonymize_ip': true,
-      'cookie_expires': 63072000  // 2 years
-    });
+
+    gtag('config', 'G-ZCWWBBG7BH');
   </script>
+
+  <title>{{title}}</title>
 </head>
 <body>
-  {{{yield}}}
+<div class="container-lg clearfix">
+{{{yield}}}
+</div>
 </body>
 </html>
