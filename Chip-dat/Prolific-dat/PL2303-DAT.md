@@ -1,6 +1,12 @@
 
 # PL2303 DAT
 
+
+- [[PL2303-dat]] - PL2303TA - [[DPR1041-dat]] 
+
+- [[PL2303-dat]] - PL2303HX - https://w.electrodragon.com/w/PL2303HX
+
+
 ## brief 
 This is a newly designed product, with a prolific production company PL2303TA Taiwan chip, PL2303TA provides a full-duplex asynchronous serial RS232-like device to connect to any Universal Serial Bus (USB) host can be a convenient solution. PL2303TA perfectly compatible win XP / VISTA / 7/8 / 8.1 system can be simulated in most operating systems allow existing applications based on COM ports can be easily ported and USB connectivity, and COM port without rewriting the software Application of the traditional COM port.
 

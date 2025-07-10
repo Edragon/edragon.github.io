@@ -7,6 +7,8 @@
 
 - classic common options - [[CH340-dat]]
 
+- [[USB-sys-dat]]
+
 ## Usage 
 
 from the perspective of the cable to the perspective of the target
@@ -23,13 +25,17 @@ from the perspective of the cable to the perspective of the target
 
 ## Product links 
 
-- [[PL2303-dat]] - PL2303TA - [[DPR1041-dat]] 
+- [[PL2303-dat]]
 
-- [[PL2303-dat]] - PL2303HX - https://w.electrodragon.com/w/PL2303HX
+- [[CH340-dat]] - [[DPR1042-dat]] - [[DPR1039-dat]] - [[WCH-dat]] 
 
-- [[CH340-dat]] - [[DPR1042-dat]] - [[DPR1039-dat]] - [[WCH-dat]] - [[CH9102-dat]] - [[CH9104-dat]] - [[CH343-dat]]
+- [[CH343-dat]]
+
+- [[CH9102-dat]] - [[CH9104-dat]]
 
 - [[CP2102-dat]] - [[DPR1003-dat]], [[DPR1005-dat]] == replaceable by [[WCH-dat]] 
+
+- [[CP2104-dat]]
 
 - [[FT232-dat]] - [[DPR1029-dat]] - [[FTDI-dat]]
 
