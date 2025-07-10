@@ -30,6 +30,8 @@ Reset your device then try again.
 
 based on the APP [[lora-HDK-dat]]
 
+flash USB LORA 
+
 | config               | value  |
 | -------------------- | ------ |
 | PortCOM              | 244    |
