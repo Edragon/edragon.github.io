@@ -12,7 +12,7 @@
 - STA = station 
 
 
-- [[espressif-dat]] - [[esp8266-dat]] - [[esp32-dat]] 
+- [[espressif-dat]] - [[esp8266-dat]] - [[ESP32-dat]] 
 
 - [[BL616-dat]]
 

@@ -48,6 +48,10 @@ OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM10
 
 [[analog-video-dat]]: - NA
 
+- [[DVP-camera-dat]]
+
+
+
 ## Camera Functionalities
 
 - [[Camera-Functionalities-dat]]

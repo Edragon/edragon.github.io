@@ -1,6 +1,12 @@
 
 # ESP32-S3-Board-DAT
 
+- [[ESP32-S3-APP-dat]]
+
+- [[peripherals-dat]]
+
+
+
 ## Cloned Core Board SCH 
 
 - [[NWI1243-dat]]
@@ -60,3 +66,5 @@ https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devk
 ## ref 
 
 - [[Arduino-ESP32-dat]]
+
+- [[m]]

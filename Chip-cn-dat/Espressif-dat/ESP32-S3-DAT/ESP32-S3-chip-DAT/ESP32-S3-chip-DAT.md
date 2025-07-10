@@ -1,6 +1,8 @@
 
 # ESP32-S3-chip-DAT
 
+- [[esp32-s3_datasheet_en.pdf]]
+
 ## function map 
 
 ![](2024-08-16-18-27-43.png)

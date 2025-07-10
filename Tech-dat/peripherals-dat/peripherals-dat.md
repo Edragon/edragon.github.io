@@ -20,3 +20,7 @@
 ## other categories
 
 - [[network-dat]] - [[encryption-dat]]
+
+- [[power-dat]] - [[LDO-dat]]
+
+- [[led-driver-dat]]

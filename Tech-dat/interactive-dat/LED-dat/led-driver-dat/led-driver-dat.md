@@ -4,6 +4,9 @@
 
 https://w.electrodragon.com/w/LED_Drive
 
+
+
+
 ## boards 
 
 - [[ILC1063-dat]] - [[IDD1002-dat]]
@@ -39,6 +42,11 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - writing .. == [[mosfet-driver-dat]]
 
+
+
+## chip 
+
+- [[SY7200-dat]] - [[silergy-dat]]
 
 
 

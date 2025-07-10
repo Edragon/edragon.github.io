@@ -44,6 +44,12 @@ Make sure the VCCA ≤VCCB.
 
 ![](2025-04-18-18-57-43.png)
 
+## logic level shifter for UART 
+
+![](2025-07-10-18-34-29.png)
+
+- Diode + pull-up resistor on RXD 
+
 
 ## ref 
 
