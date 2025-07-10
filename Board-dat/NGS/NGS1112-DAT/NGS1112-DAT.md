@@ -7,6 +7,10 @@
 
 ![](51-19-17-18-04-2023.png)
 
+- [[STM32L151-dat]] == STM32L151C8T6
+
+
+
 ### Board Features 
 
 - Pre-included board RS-232 [[DPR1084-DAT]]
