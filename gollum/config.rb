@@ -72,7 +72,7 @@
     #
     # Equivalent to --emoji
 
-    emoji: true,
+    #emoji: true,
 
     #-----------------------------------------------------------------------------
     # Tell Gollum to use the first <h1> as page title.
@@ -233,9 +233,9 @@
     #-----------------------------------------------------------------------------
     # Global metadata. Arbitrary metadata that will be applied to each page.
 
-    #metadata: {
-    #  monkeyboys: 'are loose in the facility'
-    #},
+    metadata: {
+      electrodragon: 'https://www.electrodragon.com'
+    },
 
     ##############################################################################
     # Tips
