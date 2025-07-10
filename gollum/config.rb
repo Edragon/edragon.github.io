@@ -72,7 +72,7 @@
     #
     # Equivalent to --emoji
 
-    #emoji: true,
+    emoji: true,
 
     #-----------------------------------------------------------------------------
     # Tell Gollum to use the first <h1> as page title.
@@ -139,7 +139,7 @@
     #
     # Equivalent to --no-display-metadata
 
-    #display_metadata: false,
+    display_metadata: true,
 
     #-----------------------------------------------------------------------------
     # Disable the feature of editing pages.
@@ -200,7 +200,7 @@
     #
     # Equivalent to --template-dir [PATH]
 
-    template_dir: '/root/edragon.github.io/gollum',
+    template_dir: 'gollum/',
 
     #-----------------------------------------------------------------------------
     # Use _Template in root as a template for new pages. Must be committed.
@@ -252,7 +252,7 @@
     # Move the sidebar to the left of the page
     # https://github.com/gollum/gollum/issues/1450#issuecomment-599124384
 
-    #sidebar: :left,
+    sidebar: :left,
 
     #-----------------------------------------------------------------------------
     # Change the home page name
