@@ -1,16 +1,6 @@
 
-# light-sensor-dat
+# ams-osram-dat
 
-- legacy wiki page - https://w.electrodragon.com/w/Category:Light_Sensor
-
-
-## UV light sensor 
-
-- [[STH1024-dat]]
-
-## light sensor 
-
-- [[SMO1090-dat]] - [[SSL1034-dat]] - [[SSL1053-dat]]
 
 ## AS7341 
 
@@ -36,9 +26,20 @@ The device can also be synchronized to external signals via pin GPIO.
 
 ![](2025-07-13-02-31-41.png)
 
+
+
+
+
+## TSL2584
+
+
+ams TSL2584TSV Ambient Light Sensor
+
+The TSL2584TSV is a very high sensitivity light-to-digital converter that transforms light intensity into a digital signal output with a fast mode I²C interface. The device combines one broadband photodiode (visible plus infrared), one infrared-responding photodiode, and a photopic infrared-blocking filter on a single CMOS integrated circuit. 
+
+Two integrating analog-to-digital converters (ADCs) convert the photodiode currents into a digital output that represents the irradiance measured on each channel. This digital output can be input to a microprocessor where illuminance (ambient light level) in lux is derived using an empirical formula to approximate the human eye response. The TSL2584TSV supports a traditional level style interrupt that remains asserted until the firmware clears it.
+
+
 ## ref 
 
-- [[sensor-dat]]
-
-
-- [legacy wiki page ](https://w.electrodragon.com/w/Photosensitive_sensor)
+- [[sensor-light-dat]]
