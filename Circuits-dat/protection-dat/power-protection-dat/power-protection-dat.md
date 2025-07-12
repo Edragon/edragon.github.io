@@ -4,9 +4,28 @@
 
 # power-protection-dat
 
-- [[power-protection-Vmotor-dat]]
+- [[protection-dat]]
+
+
+## Power Protection 
+
+- overload
+- short circuit - [[SCP-protection-dat]]
+
+- over-current protection. - [[OCP-protection-dat]]
+- over-temperature protection == overheat - [[OTP-protection-dat]]
+- over-voltage protection - [[OVP-protection-dat]]
+- reverse-direction protection - ? [[RDP-protection-dat]]
+
+
+
+- [[power-protection-Vmotor-dat]] - [[battery-protection-dat]]
 
 - inrush + anti-reverse protection 
+
+## chip solutions 
+
+- [[SY6280-dat]]
 
 
 ## Input protection 

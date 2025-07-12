@@ -19,7 +19,7 @@ http://www.tpwic.com/
 
 ## TP4083
 
-3mA-500mA Linear Li-ion Battery Charger with OVP
+3mA-500mA Linear Li-ion Battery Charger with OVP == [[power-protection-dat]]
 
 The TP4083 is a single-cell lithium battery charger with OVP (over-voltage protection), battery reverse polarity protection, and input power reverse polarity protection, all in a single chip. It supports a wide charging current range from 3mA to 500mA. Using trickle, constant current, and constant voltage control, the SOT23-6 or DFN2*2-6 package and minimal external components make the TP4083 an ideal choice for portable applications. The TP4083 is suitable for both USB power and adapter power sources.
 
