@@ -1,12 +1,19 @@
 
 # motion-sensor-dat
 
+
+
+## board 
+
 most simple motion sensor 
 
 - [[SMO1040-dat]]
 
 
+
 ## Chip 
+
+- [[VI5300-dat]]
 
 | Models   | price      |
 | -------- | ---------- |
@@ -45,6 +52,8 @@ Tilt sensors are often used for horizontal measurement in systems. Based on thei
 
 
 ## ref 
+
+- [[sensor]]
 
 - [[motion-sensor]]
 

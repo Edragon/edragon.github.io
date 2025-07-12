@@ -3,7 +3,7 @@
 
 - [[6-axis-dat]] - [[BMI270-dat]]
 
-- [[BME280-dat]] 
+- [[BME280-dat]] - [[BMP580-dat]] - [[BMP680-dat]] 
 
 - [[BNO055-dat]]
 

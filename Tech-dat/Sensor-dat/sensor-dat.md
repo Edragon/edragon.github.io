@@ -4,7 +4,9 @@
 
 - [[Camera-dat]] - [[microphone-sensor-dat]]
 
-- [[motion-sensor-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]]
+- [[motion-sensor-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]] - [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-axis-magnetic-dat]] - [[6-axis-dat]]
+
+- [[RCWL-dat]] - [[TOF-dat]]
 
 - [[gas-sensor-dat]] - [[liquid-sensor-dat]]
 
@@ -80,3 +82,10 @@ Here’s a list of 30 commonly used types of sensors, categorized by their typic
 - pH Sensors
 - RFID Sensors
 - Biosensors (e.g., Glucose Sensors)
+
+
+## ref 
+
+- [[sensor]]
+
+- [[tech-dat]]
