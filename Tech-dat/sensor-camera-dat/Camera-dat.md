@@ -23,6 +23,8 @@
 
 [[OmniVision-dat]]
 
+- [[OV9281-dat]]
+
 - [[OV2710-dat]]
 
 - [[ov5659-dat]] - [[ov2659-dat]] 
@@ -33,6 +35,11 @@
 
 OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] - [[SCM1020-dat]] - [[SCM1004-dat]] 
 
+- [[SONY-dat]]
+
+## selection table 
+
+![](2025-07-13-01-58-00.png)
 
 ## Camera Interface 
 

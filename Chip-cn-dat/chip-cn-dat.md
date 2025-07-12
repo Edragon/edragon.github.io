@@ -30,6 +30,11 @@
 
 - [[injoinic-dat]] - [[IP5306-dat]]
 
+- [[3peak-dat]]
+
+- [[chipsea-dat]]
+
+
 - [[DJI-dat]]
 
 

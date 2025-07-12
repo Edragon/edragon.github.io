@@ -5,6 +5,8 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
 ## Chip Overview
 
+- [[OV9281-dat]]
+
 | Type           | Mega pixels | Replace old version | Specs           |
 | -------------- | ----------- | ------------------- | --------------- |
 | [[OV7670-dat]] | 30 MP       |                     |                 |

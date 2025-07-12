@@ -5,6 +5,9 @@
 
 - [[MSP1007-dat]]
 
+
+
+
 ## Chip and solutions
 
 ### bidirection logic shifter
@@ -39,16 +42,28 @@ For the same reason, the TXB0108 should not be used in applications such as I2C 
 
 Make sure the VCCA ≤VCCB.
 
-## Simple logic shifter for VBAT 
+### Simple logic shifter for VBAT 
 
 
 ![](2025-04-18-18-57-43.png)
+
+
+
 
 ## logic level shifter for UART 
 
 ![](2025-07-10-18-34-29.png)
 
 - Diode + pull-up resistor on RXD 
+
+
+## Simple I2C shifter 
+
+- [[I2C-dat]]
+
+![](2025-07-13-01-24-51.png)
+
+![](2025-07-13-02-12-39.png)
 
 
 ## ref 

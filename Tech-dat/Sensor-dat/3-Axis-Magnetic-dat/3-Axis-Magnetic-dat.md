@@ -5,6 +5,10 @@
 
 - [[HMC5983-dat]] - [[HMC5883-dat]] - [[honeywell-dat]]
 
+- [[bosch-dat]] - [[BMM350-dat]]
+
+- [[I2C-dat]]
+
 
 ## compass sensor 
 
@@ -54,3 +58,19 @@ When a drone is in a "loiter" or "position hold" mode, it tries to stay in one s
 Many advanced flight modes, like "Point of Interest" (where the drone circles an object) or "Follow Me," rely on accurate heading information from the compass to execute maneuvers correctly.
 
 In summary, the compass sensor tells the drone which way it's pointing, which is fundamental for controlled flight, navigation, and many of its automated features. Interference with the compass (e.g., from nearby metal objects or strong magnetic fields) can lead to erratic flight behavior, often called a "toilet bowl effect" where the drone circles uncontrollably.
+
+
+## applications 
+
+Applications
+- AR/VR: Enhances spatial orientation in augmented and virtual reality environments.
+- E-compass: Offers reliable directional data for navigation devices.
+- AGV Geomagnetic Navigation: Supports automated guided vehicles with precise positioning.
+- Drones: Improves stability and navigation accuracy in aerial applications.
+
+![](2025-07-13-02-11-47.png)
+
+
+## ref 
+
+- [[sensor-dat]]

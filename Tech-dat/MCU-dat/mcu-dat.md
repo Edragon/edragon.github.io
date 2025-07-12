@@ -3,7 +3,7 @@
 
 - [[CPLD-dat]] - [[RISC-V-dat]]
 
-- [[STM32-dat]]
+- [[STM32-dat]] - [[STM32-clone-dat]]
 
 - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
@@ -11,7 +11,7 @@
 
 - [[8051-dat]]
 
-
+- [[raspberry-pi-dat]]
 
 
 ## Common-used MCU support OTA and configure 

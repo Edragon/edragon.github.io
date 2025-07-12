@@ -12,5 +12,12 @@
 - [[RPI-HDK-dat]]
 
 
+## chips 
 
-- [[RP2040-dat]]
+- [[RP2040-dat]] - [[RP2350-dat]]
+
+## ref 
+
+- [[chip-dat]]
+
+- [[MCU-dat]]
