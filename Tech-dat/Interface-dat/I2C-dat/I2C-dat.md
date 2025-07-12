@@ -15,7 +15,9 @@ for [[ESP32-CAM-dat]]
 // I2C device found at address 0x38  ! // AHT20
 
 
+## tech 
 
+- [[I2C-switch-dat]] - [[qwiic-dat]]
 
 ## Boards 
 

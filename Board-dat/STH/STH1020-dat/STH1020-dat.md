@@ -12,4 +12,4 @@
 
 - [[AM2322-dat]] - [[AM2322]]
 
-- [[temperature-sensor-dat]]
+- [[sensor-temperature-dat]]

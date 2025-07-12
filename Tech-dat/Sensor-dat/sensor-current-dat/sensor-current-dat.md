@@ -7,6 +7,7 @@
 - [[ACS712-dat]]
 
 
+
 ## alternative to [[ACS712-dat]]
 
 - Original CC6920 BSO-5A SOP-8 High-performance Hall effect current sensor, isolation voltage 3.5kV

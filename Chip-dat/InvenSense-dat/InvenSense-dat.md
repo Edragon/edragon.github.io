@@ -7,6 +7,11 @@
 
 - [[ICS-43434-dat]]
 
+## 9axis
+
+- [[9-axis-IMU-dat]] == [[MPU9255-dat]]
+
+ 
 ## ref 
 
 - [[chip-dat]]

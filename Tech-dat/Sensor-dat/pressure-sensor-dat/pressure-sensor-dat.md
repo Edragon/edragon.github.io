@@ -6,3 +6,8 @@
 - [[BME280-dat]] - [[bosch-dat]]
 
 - [[goermicro-dat]]
+
+
+## ref 
+
+- [[sensor-dat]]

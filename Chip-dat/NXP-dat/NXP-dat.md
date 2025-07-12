@@ -7,7 +7,8 @@
 
 - [PCF8591 8-bit A/D and D/A converter](https://www.nxp.com/docs/en/data-sheet/PCF8591.pdf)
 
-
+- TCA9548 
+- PCA9548
 
 
 ## ref 

@@ -10,4 +10,4 @@
 
 - [[AM2301-DS.pdf]]
 
-- [[temperature-sensor-dat]]
+- [[sensor-temperature-dat]]

@@ -47,4 +47,4 @@ https://www.electrodragon.com/product/amt1001-module-resistive-temperature-humid
 
 ## ref 
 
-- [[temperature-sensor-dat]]
+- [[sensor-temperature-dat]]

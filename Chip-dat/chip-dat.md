@@ -49,6 +49,8 @@ from a to z
 
 - [[InvenSense-dat]]
 
+- [[novosense-dat]]
+
 
 ## function 
 

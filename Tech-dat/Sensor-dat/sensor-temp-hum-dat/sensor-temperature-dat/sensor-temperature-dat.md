@@ -1,9 +1,24 @@
 
-# temperature-sensor-dat
+# sensor-temperature-dat
 
-- [[STH-dat]]
-  
+
+- [[thermocouple-dat]] - [[thermostat-dat]]
+
+- [[sensor-NTC-dat]]
+
+
+
+## boards 
+
 - [[STH1040-dat]] - [[STH1046-dat]] - [[STH1071-dat]]
+
+wireless measurement 
+
+- [[STH1065-dat]]
+
+
+
+## chips 
 
 - [[aosong-dat]]
 
@@ -15,13 +30,20 @@
 
 - [[BMP280-dat]]
 
-- [[NTC-sensor-dat]]
+
+
+
+
+
 
 ## common use 
 
 - mini size: [[AHT20-dat]] - [[SHT4x-dat]] - [[SHT30-dat]]
 
 
-## wireless measurement 
 
-- [[STH1065-dat]]
+
+
+## ref 
+
+- [[STH-dat]]

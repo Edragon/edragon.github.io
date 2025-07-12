@@ -10,7 +10,7 @@
 - [[INA240-dat]] 
 - [[INA231-dat]]
 
-[[temperature-sensor-dat]] - [[LM75-dat]]
+[[sensor-temperature-dat]] - [[LM75-dat]]
 
 - INA240 –4-V to 80-V, Bidirectional, Ultra-Precise Current Sense Amplifier With Enhanced PWM Rejection
 

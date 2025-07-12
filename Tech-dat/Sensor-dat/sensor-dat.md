@@ -1,14 +1,13 @@
 
 # sensor-dat 
 
-
 - [[Camera-dat]] - [[microphone-sensor-dat]]
 
 - [[motion-sensor-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]] - [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-axis-magnetic-dat]] - [[6-axis-dat]]
 
-- [[RCWL-dat]] - [[TOF-dat]]
+- [[RCWL-dat]] - [[TOF-sensor-dat]] - [[angle-encoder-dat]]
 
-- [[gas-sensor-dat]] - [[liquid-sensor-dat]]
+- [[gas-sensor-dat]]
 
 - [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[temperature-sensor-dat]] - [[humidity-sensor]] - [[pressure-sensor-dat]] - [[temp-hum-sensor-dat]]
 
@@ -16,6 +15,15 @@
 
 
 - [[actuator-dat]] - [[relay-dat]]
+
+- [[hall-sensor-dat]] - [[angle-encoder-dat]]
+
+- [[liquid-sensor-dat]] 
+
+- [[pressure-sensor-dat]]
+
+
+
 
 ## Sell 
 

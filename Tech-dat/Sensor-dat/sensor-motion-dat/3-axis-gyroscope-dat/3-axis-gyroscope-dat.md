@@ -3,7 +3,7 @@
 
 
 
-- [[InverSense-dat]]
+- [[InvenSense-dat]]
 
 
 

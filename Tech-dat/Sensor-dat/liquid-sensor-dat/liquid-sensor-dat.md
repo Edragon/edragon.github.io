@@ -11,6 +11,9 @@
 
 - rain drop sensor - [[STH1049-dat]]
 
+- liquid pressure == XGZP040
+
+
 ## ref 
 
 - [[sensor-dat]]

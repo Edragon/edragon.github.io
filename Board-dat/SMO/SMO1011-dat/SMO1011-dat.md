@@ -14,7 +14,7 @@
 
 ## Applications, category, tags, etc. 
 
-- [[compass-sensor-dat]] - [[pressure-sensor-dat]] - [[temperature-sensor-dat]]
+- [[compass-sensor-dat]] - [[pressure-sensor-dat]] - [[sensor-temperature-dat]]
 
 
 ## Demo Code and Video

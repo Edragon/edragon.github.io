@@ -14,4 +14,4 @@
 
 - [[AMT1001-DS.pdf]]
 
-- [[temperature-sensor-dat]]
+- [[sensor-temperature-dat]]

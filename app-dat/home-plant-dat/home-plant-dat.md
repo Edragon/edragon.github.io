@@ -22,7 +22,7 @@ The water will slowly evaporate, increasing the humidity. You can add a small fa
 
 ### sensing 
 
-sening by [[sensor-dat]] - [[temperature-sensor-dat]] and [[humidity-sensor-dat]]
+sening by [[sensor-dat]] - [[sensor-temperature-dat]] and [[humidity-sensor-dat]]
 
 [[actuator-dat]] to generate [[humidity-dat]]
 

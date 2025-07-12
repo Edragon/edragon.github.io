@@ -11,6 +11,6 @@ https://www.electrodragon.com/product/lm75-temperature-sensor-breakout/
 
 - https://github.com/Edragon/Arduino-main/tree/master/libraries/Temperature_LM75_Derived
 
-- [[LM75-dat]] - [[I2C-dat]] - [[temperature-sensor-dat]]
+- [[LM75-dat]] - [[I2C-dat]] - [[sensor-temperature-dat]]
 
 - [[STH1071]]

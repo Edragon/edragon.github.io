@@ -1,14 +1,16 @@
 
 # PIR-sensor-dat
 
-- legacy wiki page - https://w.electrodragon.com/w/PIR_sensor
+- [legacy wiki page](https://w.electrodragon.com/w/PIR_sensor)
 
 ## Boards 
 
 - mini type [[SMO1088-dat]] - panel integrated [[SMOS026-dat]] - classic type [[SMO1060-dat]]
 
 
+## chip 
 
+- [[D203S-dat]]
 
 
 ## Working priciple 

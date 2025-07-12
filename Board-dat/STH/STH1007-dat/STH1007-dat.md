@@ -7,7 +7,7 @@
 
 ## Applications, category, tags, etc. 
 
-- [[temperature-sensor-dat]]
+- [[sensor-temperature-dat]]
 
 
 ## Specs 

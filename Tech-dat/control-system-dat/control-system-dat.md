@@ -15,7 +15,7 @@
 
 ![](2025-06-05-19-07-49.png)
 
-- [[temperature-sensor-dat]] - [[sensor-dat]] - [[78L05-dat]]
+- [[sensor-temperature-dat]] - [[sensor-dat]] - [[78L05-dat]]
 
 - [[NTC-sensor-dat]] 
 

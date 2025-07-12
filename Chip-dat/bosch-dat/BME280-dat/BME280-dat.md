@@ -1,7 +1,7 @@
 
 # BME280-dat
 
-- [[humidity-sensor-dat]] - [[pressure-sensor-dat]] - [[temperature-sensor-dat]]
+- [[humidity-sensor-dat]] - [[pressure-sensor-dat]] - [[sensor-temperature-dat]]
 
 - [[temp-hum-sensor-dat]]
 

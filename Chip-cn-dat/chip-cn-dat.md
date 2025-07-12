@@ -12,7 +12,7 @@
 
 - [[quectel-dat]]
 
-- [[WCH-dat]] - [[CH55x-dat]]
+- [[WCH-dat]] - [[CH55x-dat]] - [[CH582-dat]]
 
 - [[LGT-dat]] - [[LGT8F328-DAT]]
 
