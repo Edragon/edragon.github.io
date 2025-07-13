@@ -3,11 +3,13 @@
 
 - [[thermal-imaging-camera-dat]]
 
-
+- [[D1S-dat]]
 
 ## SCH 
 
 ![](T113-thermal-1.png)
+
+![](T113-SCH2.jpg)
 
 
 ## Note 
