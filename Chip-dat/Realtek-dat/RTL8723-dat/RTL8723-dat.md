@@ -1,6 +1,8 @@
 
 # RTL8723-dat
 
+- [[wifi-dat]] + [[bluetooth-dat]]
+
 ![](2025-07-13-22-32-52.png)
 
 ![](2025-07-13-22-33-38.png)
@@ -13,6 +15,8 @@
 
 
 - [[allwinner-dat]]
+
+- [[ipex-dat]]
 
 ## ref 
 

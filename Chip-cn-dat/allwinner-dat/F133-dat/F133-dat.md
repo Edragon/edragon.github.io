@@ -7,6 +7,8 @@
 
 - [[FPC-dat]] - [[switch-dat]]
 
+- [[RTL8723-dat]]
+
 
 ## version 
 
