@@ -13,6 +13,8 @@ using with STM32 SPI2
 
 ![](2024-01-13-17-41-14.png)
 
+
+
 ## NRF52840 1.14 TFT LCD 
 
 ![](2025-07-09-13-48-36.png)
@@ -29,9 +31,17 @@ using with STM32 SPI2
 - [[NRF52840-dat]]
 
 
+## driver 
 
+- [[ILI9342-dat]]
+
+2.4" LCD 
+
+![](2025-07-13-21-51-55.png)
 
 
 ## ref 
 
 - [[interactive-dat]]
+
+- [[LCD]]

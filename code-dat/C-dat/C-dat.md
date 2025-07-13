@@ -19,5 +19,6 @@ https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8 == LLVM-18.1.8-
 
 "clang-format.executable": "C:\\Program Files (x86)\\LLVM\\bin\\clang-format.exe"
 
+D:\Program Files\LLVM\bin\clang-format.exe
 
 - [[MSYS2-dat]]
