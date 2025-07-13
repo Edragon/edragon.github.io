@@ -19,7 +19,22 @@ FPC upper flip
 
 ![](32-14-18-03-08-2023.png)
 
+## footprint 
+
+THD0510－xxCL－GF == datasheet [[THD0510-xxCL-GF.pdf]]
+
+
+- FPC-SMD_9P-P0.50_THD0510-09CL-GF
+- FPC-SMD_5P-P0.50_THD0510-05CL-GF == 间距:0.5mm P数:5P 翻盖式 下接
+
+![](2025-07-14-01-04-01.png)
+
+![](2025-07-14-01-04-59.png)
+
+
+
 ## dimension 
+
 ![](05-55-16-17-07-2023.png)
 
 

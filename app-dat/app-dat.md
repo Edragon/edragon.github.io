@@ -2,6 +2,11 @@
 
 - [[tech-dat]]
 
+
+## Power 
+
+- [[UPS-dat]]
+
 ## Mechanical 
 
 [[pnp-machine-dat]] - [[openpnp-dat]] - [[PixiePlacer-dat]] - [[reprap-dat]] - 
@@ -80,6 +85,10 @@ tech based - [[camera-dat]] - [[audio-dat]]
 - [[industrial-tablet-dat]] - [[industrial-monitor-dat]] - [[industrial-commputer-dat]]
 
 - [[industrial-power-supply-dat]] - [[industrial-sensor-dat]]
+
+
+
+
 
 ## ref 
 

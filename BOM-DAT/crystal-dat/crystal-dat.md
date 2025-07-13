@@ -7,9 +7,17 @@
 
 ### 3225 
 
-- 24 mhz 
+
 - 14.7456 mhz
 
+
+- 24 mhz 
+- OSC-SMD_4P-L3.2-W2.5-BL-1
+
+## 32K 
+
+- OSC-SMD_L3.2-W1.5 NSK
+- DST310S 32.768KHz
 
 
 ## TXCO 
