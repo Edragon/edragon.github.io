@@ -34,8 +34,14 @@
 
 - [[chipsea-dat]]
 
+- [[allwinner-dat]]
 
-- [[DJI-dat]]
+- [[hikvision-dat]]
+
+
+
+
+- [[DJI-dat]] - [[xiaomi-dat]]
 
 
 ## ref 

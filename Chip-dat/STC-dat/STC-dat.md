@@ -5,8 +5,9 @@
 
 - [[STC-STC15.pdf]] (very large file, better download to view)
 
+STC8G1K08A-36I-DFN8
 
-- 
+
 
 ## STC15W100, STC15F100 series 
 
@@ -16,6 +17,20 @@
 ## APP 
 
 - [[SCU1047-dat]]
+
+## repo 
+
+- https://github.com/Edragon/STC
+
+## SDK 
+
+STC ISP programming software (v6.95U)
+
+install keil header files 
+
+![](2025-07-13-20-50-41.png)
+
+- [[Keil-C51-dat]] 
 
 
 

@@ -13,6 +13,7 @@
 
 - [[raspberry-pi-dat]]
 
+- [[allwinner-dat]]
 
 ## Common-used MCU support OTA and configure 
 
