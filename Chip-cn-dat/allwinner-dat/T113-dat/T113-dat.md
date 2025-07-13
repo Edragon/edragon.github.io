@@ -5,6 +5,12 @@
 
 - [[D1S-dat]]
 
+
+## chip version 
+
+- T113-S3 
+
+
 ## SCH 
 
 ![](T113-thermal-1.png)

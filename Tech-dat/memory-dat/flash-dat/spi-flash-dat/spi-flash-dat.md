@@ -1,7 +1,14 @@
 
 
+# spi-flash-dat
 
-## SPI Flash 
+
+## WSON 
+
+![](2025-07-14-01-14-33.png)
+
+
+## SPI Flash SCH
 
 w/STM32
 ![](2024-01-13-17-38-48.png)

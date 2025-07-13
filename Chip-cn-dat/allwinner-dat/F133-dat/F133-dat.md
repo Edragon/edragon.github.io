@@ -7,6 +7,14 @@
 
 - [[FPC-dat]] - [[switch-dat]]
 
+
+## version 
+
+- F133-A == TQFP-128-EP(14x14)
+- F133-B == ELQFP-128(14x14)
+
+
+
 ## SCH 
 
 ![](F133-SCH-1.png)
@@ -21,6 +29,6 @@
 
 ## ref 
 
-- [[0402-dat]]
+- [[0402-dat]] - [[allwinner-dat]]
 
 - [[F133]] - [[allwinner]]

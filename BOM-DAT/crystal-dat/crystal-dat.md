@@ -18,6 +18,7 @@
 
 - OSC-SMD_L3.2-W1.5 NSK
 - DST310S 32.768KHz
+- footprint == SMD3215-2P
 
 
 ## TXCO 
