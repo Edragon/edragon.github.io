@@ -4,7 +4,7 @@
 
 - [[PCB-cleaner-dat]]
 
-- [[soldering-paste-dat]]
+- [[solder-paste-dat]]
 
 ## Soldering Iron and Tips 
 
