@@ -1,6 +1,8 @@
 
 # MPC1119 DAT
 
+new tested version of this board please see here: [[MPC1120-dat]] - [[RMP-driver-dat]]
+
 A board new design problem please see here!! == [[MPC1119-error-dat]]
 
 First version please see here. [[MPC1073-dat]]
