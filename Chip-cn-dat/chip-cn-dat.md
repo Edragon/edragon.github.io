@@ -34,7 +34,7 @@
 
 - [[chipsea-dat]]
 
-- [[allwinner-dat]]
+- [[allwinner-dat]] - [[F133-dat]]
 
 - [[hikvision-dat]]
 

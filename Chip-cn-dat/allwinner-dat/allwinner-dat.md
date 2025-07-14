@@ -6,6 +6,14 @@
 - [[T113-dat]]
 - [[F133-dat]]
 
+
+- [[D1-H-dat]]
+
+- [[V3S-dat]]
+
+
+## periperhals 
+
 - [[RTL8723-dat]] - [[realtek-dat]]
 
 
@@ -13,12 +21,15 @@
 
 - [全志在线论坛](https://bbs.aw-ol.com/)
 - [WhyCan论坛](https://whycan.com/)
-
+- [东山哪吒STU交流社区板块](https://forums.100ask.net/c/rv64/)
 
 
 ## SDK 
 
 - [[TINA-dat]] - [[SDK-dat]]
+
+- https://github.com/xboot/xfel == Tiny FEL tools for allwinner SOC.
+
 
 ## repo 
 
