@@ -4,6 +4,30 @@
 - [[NWI1139-dat]]
 
 
+## AC inductive load snubber 
+
+A basic design rule of thumb:
+
+> C: 0.01 μF to 0.1 μF (typical for 230V AC applications).
+> R: Between 100 Ω to 1 kΩ, depending on load and C.
+
+You want the RC time constant (τ = R × C) to be long enough to absorb the energy but short enough to reset before the next cycle.
+
+For more accurate design, you'd:
+
+Measure or estimate the load's inductance.
+
+Calculate the energy stored:
+
+    𝐸 = 1/2 * 𝐿 * 𝐼^2
+ 
+Ensure the snubber can absorb and dissipate this energy safely.
+
+
+
+
+
+
 
 
 ## Three-Phase Electronic Arc Suppressor (RC Snubber)

@@ -2,6 +2,11 @@
 
 ## Hardware 
 
+This is a board similar to [[NWI1172-dat]], but more suitable for inductive load control, such as motor, solenoid, etc. - [[inductive-load-dat]]
+
+
+## pin definitions 
+
     #define onModule_LED 2
     #define relay1 12
     #define relay2 13
@@ -32,10 +37,14 @@
     http://192.168.4.1/m1 # turn on module led to 1  (GPIO2)
     http://192.168.4.1/b1 # turn on board led to 1  (GPIO16)
 
+## store BOM 
 
+- [[OPM1110-dat]] 
 
 
 ## ref 
+
+- [[relay-dat]]
 
 - [[OPM1143-dat]] - [[RC-snubber-dat]] - [[inductive-load-dat]]
 

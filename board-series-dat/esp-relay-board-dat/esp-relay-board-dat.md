@@ -57,6 +57,7 @@ Demo code available, open source, and support smartconfig and MQTT, please find 
 
 https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
 
+- [[rf-link-dat]]
 
 ## new 
 
@@ -74,18 +75,18 @@ https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/
 
 ### AC-DC Power Unit 
 
-- [[OPM1110-dat]]
+- [[OPM1110-dat]] - [[ac-mains-dat]]
 
 ### acurator 
 
-- [[actuator-dat]] - [[songle-dat]] - [[OPM1041-dat]]
+- [[actuator-dat]] - [[songle-dat]] - [[OPM1041-dat]] - [[relay-dat]]
 
 
 
 
 ## ref
 
-- used enclosure [[case-led/case-led-dat]]
+- used enclosure [[case-led-dat]]
 
 - [[relay-dat]] - [[inductive-load-dat]]
 
