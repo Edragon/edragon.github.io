@@ -38,7 +38,7 @@
 
 - [[hikvision-dat]]
 
-
+- [[BL616-dat]] - [[bouffalolab-dat]] - [[BL602-dat]] - [[BL808-dat]]
 
 
 - [[DJI-dat]] - [[xiaomi-dat]]
