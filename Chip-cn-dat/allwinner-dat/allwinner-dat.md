@@ -32,7 +32,7 @@
 
 - [[XR32F429-dat]]
 
-- [[F1C200-dat]]
+- [[F1C200-dat]] QFN - [[F1C100-dat]] QFN 
 
 - [[virtualbox-dat]]
 
