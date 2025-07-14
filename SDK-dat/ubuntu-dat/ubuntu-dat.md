@@ -17,6 +17,13 @@
 - 进入到 share 目录 (Enter the share directory).
 - 使用 ls 命令查看挂载结果 (Use the ls command to check the mounted folder).
 
+## basic 
+
+apt-get update
+apt-get upgrade
+apt-get install <package_name>
+
+
 ## ref 
 
 - [[virtualbox-dat]]

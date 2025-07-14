@@ -1,6 +1,12 @@
 
 # virtualbox-dat
 
+## supported SDK 
+
+- [[TINA-dat]]
+
+## install 
+
 下载安装
 官网下载地址：https://www.virtualbox.org/
 
@@ -16,6 +22,7 @@ VirtualBox安装Ubuntu
 参考链接： Oracle VM VirtualBox安装Ubuntu14.04环境的教程： https://blog.csdn.net/weixin_42135087/article/details/108193641
 
 增强功能
+
 安装增强功能可以实现共享剪切板功能共享文件夹功能。共享粘贴板可在PC和虚拟机之间互相粘贴复制内容。文件夹共享可以在本地主机下创建一个文件夹，然后VirtualBOX将该文件夹映射到虚拟机下指定的文件夹中，这样我们就可以访问该文件夹下的子文件夹以及文件了。这两个功能都能极大地提高我们的开发效率
 
 注意： 在共享文件夹的路径中如果是挂在的windows系统的文件夹，可能无法成功地下载Tina的SDK代码，注意SDK的下载目录不要设置在共享文件夹中。
@@ -97,3 +104,33 @@ sudo usermod -aG vboxsf $(whoami)
 # Replace $(whoami) with your Ubuntu username if needed
 ```
 
+    sudo usermod -aG vboxsf vb
+    reboot 
+
+## proxy 
+
+preferences -> network -> proxy == socks5://127.0.0.1:7897
+
+- turn on TUN mode
+
+## root 
+
+    su 
+    usermod -aG sudo vb
+
+
+
+## common error 
+
+-  Use VBoxVGA Display Controller (Fix for Older Ubuntu)
+
+
+
+
+## usage
+
+### scale mode 
+
+The virtual machine window will be now switched to Scale mode. You can go back to windowed mode at any time by pressing Host+C. Note that the Host key is currently defined as Right Ctrl.
+
+Note that the main menu bar is hidden in scaled mode. You can access it by pressing Host+Home.

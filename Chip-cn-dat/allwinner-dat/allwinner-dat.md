@@ -1,13 +1,22 @@
 
 # allwinner-dat
 
+
 - [[Thermal-imaging-camera-dat]]
 
 - [[T113-dat]]
 - [[F133-dat]]
 
 
-- [[D1-H-dat]]
+- [[D1-H-dat]] == C906 
+- [[D1S-dat]]
+
+- [[R128-dat]] - [[R329-dat]] 
+
+- [[V821-dat]] - [[V853-dat]] 
+  
+- [[XR806-dat]]
+
 
 - [[V3S-dat]]
 
@@ -27,9 +36,10 @@
 
 ## SDK 
 
-- [[TINA-dat]] - [[SDK-dat]]
+- [[allwinner-SDK-dat]] - [[TINA-dat]] - [[SDK-dat]]
 
 - https://github.com/xboot/xfel == Tiny FEL tools for allwinner SOC.
+
 
 
 ## repo 
@@ -47,5 +57,7 @@
 
 
 ## ref 
+
+- [[allwinner]]
 
 - [[chip-cn-dat]]
