@@ -8,7 +8,7 @@
 
 - [[PSO1030]]
 
-- [[prototyping-dat]] - [[soldering-dat]]
+- [[PCBA-dat]] - [[soldering-dat]]
 
 
 

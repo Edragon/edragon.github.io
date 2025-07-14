@@ -6,58 +6,22 @@
 
 - [[solder-paste-dat]]
 
-## Soldering Iron and Tips 
-
-soldering iron 
-- [[PTOS009-dat]]
-
-usb soldering iron - [[PSO1055-dat]]
-
-- [[PSO1025-dat]] - [[PSO1024-dat]] - [[PSO1023-dat]]
-
-all soldering tips family 1 
-
-![](2025-03-04-14-13-55.png)
-
-Common soldering tips system: (C1151), ESD(C1152), 900, 900M, 907, 933, 936, 937, 942
-
-
-## soldering wires 
-
-- [[PSO1030-dat]]
+- [[soldering-tools-dat]]
 
 
 
-
-## Soldering Flux 
-
-- [[PSO1046-dat]]
-
-
-
-
-
-
-
-
-## Common type Solder Paste 
-
-| melting point | tin content | Note                                                        |
-| ------------- | ----------- | ----------------------------------------------------------- |
-| 183 C         | 63%         | best for most common PCB, small spacing, high parts density |
-
-
-![](2024-02-17-16-19-00.png)
-
-![](2024-02-17-16-20-20.png)
-
-![](2024-02-17-16-20-38.png)
-
-![](2024-02-17-16-20-49.png)
 
 ## soldering skills 
 
 ### soldering chip with pads underneath, such as QFN, BGA, LGA, etc.
+
+- [[allwinner-dat]]
+
+T113 soldering note: 务必先焊接除T113以外的元器件，烧录51单片机固件，按下面的说明，测量3.3V、1.5V、0.9V全部正常再焊T113，否则若EA3036的FB虚焊将会直接烧坏T113。
+
+T113 soldering note (English): Be sure to solder all components except T113 first, program the 51 MCU firmware, and follow the instructions below to measure 3.3V, 1.5V, and 0.9V to ensure they are all normal before soldering T113. Otherwise, if the FB pin of EA3036 is poorly soldered, T113 may be directly damaged.
+
+
 
 ### FPC soldering 
 

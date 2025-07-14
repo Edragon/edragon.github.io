@@ -36,6 +36,29 @@ Low temperature soldering paste is a type of solder paste designed to melt and f
 - [[FPC-dat]] 
 
 
+
+## Common type Solder Paste 
+
+| melting point | tin content | Note                                                                 |
+| ------------- | ----------- | -------------------------------------------------------------------- |
+| 138 C         | 42%         | ultra-low temperature, bismuth-based, for special low-temp soldering |
+| 150 C         | 42%         | low temperature, bismuth-based, for temperature-sensitive components |
+| 183 C         | 63%         | best for most common PCB, small spacing, high parts density          |
+| 217 C         | 99.3%       | lead-free, SAC305 alloy, standard for RoHS compliant PCBs            |
+
+
+- [[solder-paste]]
+
+![](2024-02-17-16-19-00.png)
+
+![](2024-02-17-16-20-20.png)
+
+![](2024-02-17-16-20-38.png)
+
+![](2024-02-17-16-20-49.png)
+
+
+
 ## ref 
 
 - [[soldering-dat]]
