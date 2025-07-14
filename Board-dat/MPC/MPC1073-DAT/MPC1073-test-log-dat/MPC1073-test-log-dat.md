@@ -1,6 +1,7 @@
 
 # MPC1073-test-log-dat.md
 
+- all instructions here [[RMP-driver-dat]]
 
 ## Make first 
 
@@ -8,13 +9,42 @@ make it
 
     make -C examples-api-use
 
+## MPC1120 
 
+### P4 == HJCLPCB-P4RGB-2121-06D = 64x64 
+
+![](2025-07-14-20-02-40.png)
+
+2x 64x64 panels, multiplexing=0
+
+    ./examples-api-use/demo -D 0 --led-cols=64 --led-rows=64 --led-multiplexing=0 --led-chain=2 --led-slowdown-gpio=2
+
+    ./examples-api-use/demo -D 0 --led-cols=64 --led-rows=64 --led-multiplexing=1 --led-chain=2 --led-slowdown-gpio=2
+
+
+### P6-2727-8S-3232-S2 == 32x32 == outdoor 
+
+![](2025-07-14-20-02-10.png)
+
+2x 32x32 panels, multiplexing=1
+
+    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=32 --led-multiplexing=1 --led-chain=2 --led-slowdown-gpio=2
+
+CMD
+
+    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=32 --led-multiplexing=1 --led-chain=2 --led-slowdown-gpio=2
+    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=32 --led-multiplexing=2 --led-chain=2 --led-scan-mode=0
+    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=32 --led-multiplexing=2 --led-chain=2
+
+--led-no-hardware-pulse
+
+    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=32 --led-multiplexing=2 --led-chain=2 --led-no-hardware-pulse
 
 ## P8 P10 Outdoor 32x16 == tested = OK
 
 Run example for our selling 32x16 panel
 
-P10 - 32x16
+## P10 - 32x16
 
     ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=8
 
@@ -110,3 +140,6 @@ Exiting; fix the above first or use --led-no-hardware-pulse
 
 
     ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=8 --led-no-hardware-pulse
+
+
+

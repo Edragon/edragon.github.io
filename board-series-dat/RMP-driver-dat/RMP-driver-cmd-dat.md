@@ -1,19 +1,23 @@
 
 # RMP-driver-cmd-dat.md
 
-| params                    | note |
-| ------------------------- | ---- |
-| --led-row-addr-type       |      |
-| --led-slowdown-gpio       |      |
-| --led-panel-type          |      |
-| --led-rows                |      |
-| --led-cols                |      |
-| --led-chain               |      |
-| --led-parallel            |      |
-| --led-show-refresh        |      |
-| --led-scan-mode           |      |
-| --led-pwm-bits            |      |
-| --led-pwm-lsb-nanoseconds |      |
+- [[RMP-driver-dat]]
+
+- [[MPC1073-test-log-dat]] - [[MPC1073-multiplexing-dat]]
+
+| params                    | range  | note          |
+| ------------------------- | ------ | ------------- |
+| --led-row-addr-type       |        |               |
+| --led-slowdown-gpio       | 2      | if flickering |
+| --led-panel-type          |        |               |
+| --led-rows                |        |               |
+| --led-cols                |        |               |
+| --led-chain               |        |               |
+| --led-parallel            |        |               |
+| --led-show-refresh        |        |               |
+| --led-scan-mode           | 0 or 1 |               |
+| --led-pwm-bits            |        |               |
+| --led-pwm-lsb-nanoseconds |        |               |
 
 
 ## examples 
@@ -27,5 +31,7 @@
 
 
 ## ref 
+
+- [[MPC1073-dat]]
 
 - [[RMP-driver-dat]]

@@ -1,6 +1,11 @@
 # RGB Matrix Panel Driver Board
 
-- with raspberry pi - [[MPC1073-dat]] - [[MPC1119-dat]]
+- [[RMP-driver-dat-setup]] - [[RMP-driver-cmd-dat]]
+
+- [[MPC1073-test-log-dat]] - [[MPC1073-multiplexing-dat]]
+
+
+- with raspberry pi - [[MPC1073-dat]] - [[MPC1119-dat]] - [[MPC1120-dat]]
 - with ESP32 - [[IDD1013-dat]] - [[IDD1016-dat]]
 - with esp8266 - [[IDD1007-dat]]
 - with arduino - [[DAS1087-dat]]
@@ -75,6 +80,9 @@ ref
 ## ref images 
 
 - please find dietpi at [[RPI-OS-dat]]
+
+
+
 
 ## ref github 
 

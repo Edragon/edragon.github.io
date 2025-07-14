@@ -7,7 +7,7 @@
 
 - [[esp-relay-board-dat]] - [[ESP-DAT]]
 
-- [[RMP-driver-dat]]
+- [[RMP-driver-dat]] - [[led-rgb-panel-dat]]
 
 
 ## LGT8F328

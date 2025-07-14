@@ -121,6 +121,8 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 
 ## ref
 
+- [[USB-OTG-dat]]
+
 - [[ESP32-C3-DAT]] 
 
 - [[ESP32-C3]] 

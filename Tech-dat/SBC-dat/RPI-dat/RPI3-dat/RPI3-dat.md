@@ -27,7 +27,9 @@ Version 1 from [[MPC1111-dat]]
 - sketchup - https://3dwarehouse.sketchup.com/model/b709cb4f71b8864fbfc5d4ab5e803838/Raspberry-Pi-Model-B-Ethernet
 
 
+## ref 
 
+- [[RPI3]] - [[RPI]]
 
 
 

@@ -1,6 +1,8 @@
 
 # MPC1073-multiplexing-dat
 
+## when and how to setup the E-line == panel is oversize (64x64 is needed)
+
 
 * E-Line buffer to either PIN4 or PIN8, refer to the image
 

@@ -1,6 +1,8 @@
 
 # RPI-setup-dat
 
+- [[RMP-driver-dat-setup]]
+
 
 ## version check 
 
@@ -127,3 +129,6 @@ https://mirrors.tuna.tsinghua.edu.cn/help/raspbian/
 - ref https://mirrors.tuna.tsinghua.edu.cn/help/raspberrypi/
 
 
+## ref 
+
+- [[RPI-dat]]

@@ -5,6 +5,8 @@
 
 - [[ESP32-dat]] - [[ESP32-compare-dat]]
 
+- [[ESP32-S3-dat]] - [[ESP32-C3-dat]]
+
 - [[ESP8266-dat]]
 
 - [[ESP8684-dat]]
