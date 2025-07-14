@@ -37,6 +37,8 @@
 
 ## ref 
 
+- [[OPM1143-dat]] - [[RC-snubber-dat]] - [[inductive-load-dat]]
+
 - [[esp-relay-board-dat]]
 
 - [[NWI1139]]

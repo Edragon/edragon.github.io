@@ -1,6 +1,11 @@
 
 # RC-Snubber-dat
 
+- [[NWI1139-dat]]
+
+
+
+
 ## Three-Phase Electronic Arc Suppressor (RC Snubber)
 
 三相电子灭弧器，也叫RC灭弧器或电弧抑制器，它的本质是一个 RC串联电路（电阻+电容），并联在接触器触点的两端，通常用于三相交流电机控制回路中，目的是在接触器断开时**抑制电弧（火花）**的产生和传播。
@@ -47,3 +52,9 @@ For a 380V AC three-phase motor:
 - C = 0.22μF, 630V AC
 
 One RC network per phase, installed across the contactor terminals.
+
+
+
+## ref 
+
+- [[AC-mains-dat]]

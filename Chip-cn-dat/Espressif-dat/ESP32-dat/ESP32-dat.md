@@ -8,6 +8,10 @@
 
 - [[ESP32-FAQ]]
 
+- [[ESP32-boot-log-dat]]
+
+- [[OTA-dat]]
+
 ## Hardware 
 
 - [[ESP32-HDK-dat]] 
