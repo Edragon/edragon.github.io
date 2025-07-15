@@ -11,4 +11,5 @@ buildroot中可以方便地加入第三方软件包（其实已经内置了很�
     wget https://buildroot.org/downloads/buildroot-2021.02.4.tar.gz
     tar xvf buildroot-2021.02.4.tar.gz
     cd buildroot-2021.02.4/
+    
     make menuconfig
