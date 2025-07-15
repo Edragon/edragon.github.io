@@ -34,6 +34,10 @@
 
 - [[buildroot-dat]]
 
+- [[lvgl-dat]] - [[openwrt-dat]] - [[wifi-dat]]
+
+
+
 ### image == Nano_pub_V*.zip
 
 为了让大家上手即食，**Nano_pub_V*.zip** 是我们给出的解决方案。
