@@ -5,12 +5,9 @@
 
 - [[ams-osram-dat]] - [[ambient-light-sensor-dat]]
 
+- [[sensor-UV-light-dat]]
 
 
-
-## UV light sensor 
-
-- [[STH1024-dat]]
 
 
 ## light sensor 
