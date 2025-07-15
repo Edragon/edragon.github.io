@@ -14,6 +14,18 @@ This is a board similar to [[NWI1172-dat]], but more suitable for inductive load
 
 ![](36-17-17-31-03-2023.png)
 
+pin header: 
+
+![](2025-07-15-15-01-07.png)
+
+| L   | R    |
+| --- | ---- |
+| +5V | GND  |
+| TXD | RXD  |
+| IO5 | IO4  |
+| 3V3 | IO2  |
+| ADC | IO15 |
+| --- | IO14 |
 
 
 ## SCH 

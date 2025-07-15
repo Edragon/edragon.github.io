@@ -19,7 +19,7 @@ protocol output -  - [[CRSF-dat]]
 
 - [[CC2500-dat]]
 
-- [[ELRS-TX-dat]] - [[ELRS-915M-dat]] - [[ELRS-PWM-dat]] - [[ELRS-2.4Ghz-dat]] 
+- [[ELRS-TX-dat]] - [[ELRS-RX-dat]] - [[ELRS-915M-dat]] - [[ELRS-PWM-dat]] - [[ELRS-2.4Ghz-dat]] 
 
 - [[ELRS]]
 

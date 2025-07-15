@@ -29,9 +29,27 @@ We have released 3 types of RX receiver modules. All use the [[ESP8285-dat]] [[M
 
 Typically, after powering the receiver and with the remote controller turned off, the ExpressLRS hotspot can be found after a default of 60 seconds. Connect to this hotspot using a computer or mobile phone.
 
-The password is "expresslrs", and then you can access 10.0.0.1 to upload the receiver firmware.
+The password is "**expresslrs**", and then you can access **10.0.0.1** to upload the receiver firmware.
 
 ![](2025-05-08-18-22-08.png)
+
+check the firmware version: 
+
+    Generic ESP8285 6xPWM 2.4Ghz RX
+    Firmware Rev. 3.5.3 (40555e) ISM2G4
+
+
+## hardware default output value 
+
+![](2025-07-15-13-24-08.png)
+
+middle value should be 1500 for CH1, CH2, etc 
+
+## modify the binding phase for binding 
+
+![](2025-07-15-13-24-57.png)
+
+
 
 ## serial 
 
