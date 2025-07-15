@@ -11,9 +11,12 @@ SPI Speed
 - 80 Mhz  
 
 SPI Mode 
-- QIO
-- DIO
-- DOUT
+
+- QIO (Quad I/O): Uses 4 data lines for input/output, allowing faster data transfer between the microcontroller and flash memory.
+- DIO (Dual I/O): Uses 2 data lines for input/output, offering a balance between speed and compatibility.
+- DOUT (Dual Output): Uses 2 data lines but only for output (reading from flash), typically slower than DIO and QIO.
+
+
 
 | Model   | SPI Speed | SPI Mode | Speed     |
 | ------- | --------- | -------- | --------- |
@@ -23,12 +26,15 @@ SPI Mode
 
 ## NWI1139 
 
-SPI = 40Mhz, SPI Mode = DOUT, speed up to 1.5M (1 500 000, for CH340)
+SPI = 40Mhz, SPI Mode = DOUT, speed up to ~1.5M (1 500 000, for CH340)
 
 ![](11-51-17-17-04-2023.png)
 
+- [[NWI1139-dat]]
 
 ## NWI1126 
+
+- [[NWI1126-dat]] - [[ESP32-C3-dat]]
 
 ### ESP32-C3 Factory Mode 
 
@@ -55,6 +61,13 @@ wiring with USB-TTL cable
 
 ![](36-05-18-06-02-2023.png)
 
+## Upload 
+
+ESP32-C3 
+- flash speed 80M 
+- flash mode DIO
+![](2024-01-24-16-49-18.png)
+
 
 
 ## Common Error 
@@ -63,13 +76,6 @@ wiring with USB-TTL cable
 
 5-chip efuse check fail
 
-
-## Upload 
-
-ESP32-C3 
-- flash speed 80M 
-- flash mode DIO
-![](2024-01-24-16-49-18.png)
 
 
 
