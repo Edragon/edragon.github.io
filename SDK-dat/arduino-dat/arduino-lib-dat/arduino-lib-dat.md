@@ -43,6 +43,8 @@ https://github.com/esp8266/Arduino
 - https://github.com/madsci1016/Arduino-PS2X
 - https://www.arduino.cc/reference/en/libraries/ps2keyadvanced/
 
+- [[network-dat]]
+
 
 ## sensors 
 
@@ -59,3 +61,15 @@ https://github.com/esp8266/Arduino
 - TinyGSM 
 - StreamDebugger
 - ArduinoHttpClient
+
+
+## motor control 
+
+- [[motor-dat]] - [[motor-driver-dat]]
+
+- Adafruit PuM Servo DriverLibrary
+
+
+## ref 
+
+- [[arduino-dat]]

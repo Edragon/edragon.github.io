@@ -1,6 +1,6 @@
 # MPS-dat
 
-legacy wiki page - https://w.electrodragon.com/w/Category:MPS
+[legacy wiki page](https://w.electrodragon.com/w/Category:MPS)
 
 
 ## Chips 

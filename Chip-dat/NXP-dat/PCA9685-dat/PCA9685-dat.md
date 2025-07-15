@@ -3,6 +3,12 @@
 
 
 
+## board 
+
+- [[SDR1090-dat]] - [[SDR1087-dat]] 
+
+- [[SDR1062-dat]] 
+
 
 
 ## Info 
@@ -26,12 +32,6 @@ The PCA9685 is an I²C-bus controlled 16-channel LED controller optimized for Re
 
 ![](2025-06-15-13-24-30.png)
 
-
-## board 
-
-- [[SDR1090-dat]] - [[SDR1087-dat]] 
-
-- [[SDR1062-dat]] 
 
 
 ## App. 
