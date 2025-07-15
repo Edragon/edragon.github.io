@@ -2,13 +2,15 @@
 
 
 
-# ESP32 SDK
+# ESP32-SDK
 
-- [[ESP-dat]]
+- [[ESP-dat]] - [[ESP32-dat]] - [[ESP8266-dat]]
 
 ## Official SDK 
 
 - [[esp-idf-dat]] - [[esp-idf-vscode]]
+
+- [[platformIO-dat]]
 
 
 ## ESP Arduino code and firmware 
@@ -18,19 +20,20 @@
 
 - arduino firmware - https://github.com/Edragon/esp_firmware
 
-## Other Firmware 
+## Firmware 
 
-- [[ESPHome-dat]] - [[tasmota-dat]] - [[ESP-now-dat]]
+- [[ESPHome-dat]] - [[tasmota-dat]]
+
+- [[ESP-now-dat]] - [[ESP-EYE-dat]]
+
+- [[Nodemcu-dat]] - [[luat-dat]]
 
 - ??: [[MicroPython-dat]] - [[MongooseOS-dat]] - [[FreeRTOS-dat]] - [[Zephyr-dat]]
-
-- [[Nodemcu-dat]]
-
 
 
 ## Flashing 
 
-- [[esptool]] - [[flash-download-tool]]
+- [[esptool-dat]] - [[flash-download-tool-dat]]
   
 ### Serial Connect 
 Wirings use [[USB-TTL-dat]]

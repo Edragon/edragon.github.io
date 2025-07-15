@@ -1,7 +1,7 @@
 
-# Flash Download Tool
+# flash-download-tool-dat
 
-- download from - https://www.espressif.com.cn/en/support/download/other-tools
+- [download from](https://www.espressif.com.cn/en/support/download/other-tools)
 
 
 ## ESP8266
@@ -70,3 +70,9 @@ ESP32-C3
 - flash speed 80M 
 - flash mode DIO
 ![](2024-01-24-16-49-18.png)
+
+
+
+## ref 
+
+- [[ESP8266-dat]]

@@ -20,7 +20,7 @@ find modules here - [[esp8266-modules-dat]]
 
 ## Hardware 
 
-- [[ESP8266-HDK-dat]]
+- [[ESP8266-HDK-dat]] - [[ESP8266-SDK-dat]]
 
 
 ### programmer and programming 

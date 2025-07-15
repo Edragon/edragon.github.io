@@ -3,7 +3,7 @@
 
 - [[ESP32-S3-dat]]
 
-- [[ESP32-C3-usb-dat]]
+- [[ESP32-C3-usb-dat]] - [[ESP32-USB-dat]]
 
 - [[STM32-USB-dat]]
 
