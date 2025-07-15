@@ -14,6 +14,9 @@ github.com/Lichee-Pi
 
 - [[V3S-dat]]
 
+## lichhe nano 
+
+- [[F1C100-dat]]
 
 ## ref 
 

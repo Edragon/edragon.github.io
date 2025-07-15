@@ -32,7 +32,7 @@
 
 - [[XR32F429-dat]]
 
-- [[F1C200-dat]] QFN - [[F1C100-dat]] QFN 
+- [[F1C600-dat]] - [[F1C200-dat]] QFN - [[F1C100-dat]] QFN 
 
 - [[virtualbox-dat]]
 
@@ -75,3 +75,5 @@
 - [[allwinner]]
 
 - [[chip-cn-dat]]
+
+- [[sipeed-dat]]
