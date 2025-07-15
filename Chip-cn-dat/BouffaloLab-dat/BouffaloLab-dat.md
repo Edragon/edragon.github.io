@@ -3,6 +3,8 @@
 
 - [[BL602-dat]]
 
+- [[XT-BL602-DAT]]
+
 ## docs  
 
 - [BL616_BL818](BL616_BL618_DS_1.5_en.pdf) - [[BL616_BL618_DS_1.5_en.pdf]]

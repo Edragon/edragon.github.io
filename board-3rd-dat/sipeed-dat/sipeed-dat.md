@@ -3,6 +3,7 @@
 
 - [[K210-dat]]
 
+- [[allwinner-dat]]
 
 ## lichee zero 
 
