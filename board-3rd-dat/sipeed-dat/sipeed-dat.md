@@ -20,4 +20,8 @@ github.com/Lichee-Pi
 
 ## ref 
 
+- https://wiki.sipeed.com
+
+- https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA
+
 - [[sipeed]]
