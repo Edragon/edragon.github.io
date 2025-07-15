@@ -134,3 +134,8 @@ preferences -> network -> proxy == socks5://127.0.0.1:7897
 The virtual machine window will be now switched to Scale mode. You can go back to windowed mode at any time by pressing Host+C. Note that the Host key is currently defined as Right Ctrl.
 
 Note that the main menu bar is hidden in scaled mode. You can access it by pressing Host+Home.
+
+
+
+## ref 
+

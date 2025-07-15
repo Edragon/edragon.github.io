@@ -11,6 +11,11 @@
 
     make && sudo make install
 
+check 
+
+    root@ubuntu14:/home/vb/lpi/sunxi-tools# sunxi-fel
+    sunxi-fel v1.4.1-104-g11a9d20
+
 查看芯片信息
 
     sudo sunxi-fel ver

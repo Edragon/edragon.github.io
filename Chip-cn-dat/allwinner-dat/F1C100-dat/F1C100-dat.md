@@ -26,9 +26,17 @@
 
 ## SDK 
 
+system 
+
 - [[Linux-dat]]、[[RT-Thread-dat]] (CN)、[[Xboot-dat]] (CN)
 
-- [[uboot-dat]] - [[sunxi-tools-dat]]
+use 
+
+- [[sunxi-tools-dat]]
+
+build 
+
+- [[uboot-dat]] 
 
 - [[ubuntu-dat]]
 
