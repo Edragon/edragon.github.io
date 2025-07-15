@@ -18,6 +18,9 @@
 
 ## ref 
 
+- [[bouffalolab]] - [[BL616-dat]] - [[BL602-dat]] - [[BL808-dat]]
+
+
 - [datasheets](https://github.com/Edragon/BouffaloLab-DS)
 
 - [[embedded-dat]]
