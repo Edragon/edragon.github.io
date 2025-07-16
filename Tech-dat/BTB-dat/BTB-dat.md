@@ -44,13 +44,23 @@ wiring for [[SX1262-dat]]
 
 | ESP8266 | func     | conn.L | conn.R | func   | ESP8266 |
 | ------- | -------- | ------ | ------ | ------ | ------- |
-| io16    | BUSY     | L-1    | R-1    | serial | TXD     |
-| io14    | SPI_SCK  | L-2    | R-2    | serial | RXD     |
-| io12    | SPI_MISO | L-3    | R-3    | TXEN   | io5     |
-| io13    | SPI_MOSI | L-4    | R-4    | RXEN   | io4     |
-| IO0     | DIO1_irq | L-5    | R-5    | SPI_CS | io15_d  |
-| 3V3     | power    | L-6    | R-6    | power  | GND     |
+| io16    | BUSY     | 11     | 12     | serial | TXD     |
+| io14    | SPI_SCK  | 9      | 10     | serial | RXD     |
+| io12    | SPI_MISO | 7      | 8      | TXEN   | io5     |
+| io13    | SPI_MOSI | 5      | 6      | RXEN   | io4     |
+| IO0     | DIO1_irq | 3      | 4      | SPI_CS | io15_d  |
+| 3V3     | power    | 1      | 2      | power  | GND     |
 
+rotate to fit physically
+
+|                | 1         | 2         | 3         | 4         | 5         | 6         |
+|----------------|-----------|-----------|-----------|-----------|-----------|-----------|
+| ESP8266        | 3V3       | IO0       | io13      | io12      | io14      | io16      |
+| func           | power     | DIO1_irq  | SPI_MOSI  | SPI_MISO  | SPI_SCK   | BUSY      |
+| conn.L         | 1         | 3         | 5         | 7         | 9         | 11        |
+| conn.R         | 2         | 4         | 6         | 8         | 10        | 12        |
+| func           | power     | SPI_CS    | RXEN      | TXEN      | serial    | serial    |
+| ESP8266        | GND       | io15_d    | io4       | io5       | RXD       | TXD       |
 
 ## connectors 
 
