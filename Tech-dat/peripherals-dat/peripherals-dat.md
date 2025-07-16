@@ -1,6 +1,9 @@
 
 # peripherals-dat
 
+
+
+
 - [[interface-dat]]
 
 - [[CPU-dat]] - [[memory-dat]] - [[programming-dat]]
@@ -24,3 +27,10 @@
 - [[power-dat]] - [[LDO-dat]]
 
 - [[led-driver-dat]]
+
+
+
+
+## ref 
+
+read more at - [[V3S-dat]]

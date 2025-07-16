@@ -11,6 +11,10 @@ SPI interface LCDs - [[EDS-LCD-dat]]
 - [[Nokia-5110-dat]]
 
 
+## display interface 
+
+- [[RGB-LCD-dat]] - [[HDMI-dat]] - [[LVDS-dat]] - [[VGA-dat]]
+
 ## repositories 
 
 - https://github.com/Edragon/Display-temp

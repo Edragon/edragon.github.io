@@ -6,7 +6,7 @@
 - digital types camera 
 - analog types camera
 
-
+- [[interface-dat]]
 
 ### Standard Camera Output that Can Be Read by Android
 

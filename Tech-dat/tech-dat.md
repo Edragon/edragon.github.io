@@ -70,13 +70,17 @@
 
 - [[LED-dat]] - [[LED-strip-dat]]
 
-- [[display-dat]] - [[LCD-dat]] - [[TFT-dat]] - [[nokia-5110-dat]]
+- [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] 
 
-- [[touchscreen-dat]] - [[touch-sensor-dat]]
+- [[LCD-dat]] - [[RGB-LCD-dat]]
+
+- [[OLED-dat]] - [[oled-driver-dat]]
+
+- [[touchpanel-dat]] - [[touch-sensor-dat]]
 
 - [[button-dat]] - [[switching-dat]] - [[switch-dat]]
 
-- [[OLED-dat]] - [[oled-driver-dat]]
+- [[keyboard-dat]] - [[keypad-dat]] - [[mouse-dat]]
 
 ### Sensors and actuator 
 

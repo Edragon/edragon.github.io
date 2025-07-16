@@ -1,6 +1,10 @@
 
 # LCD-dat 
 
+- [[display-dat]] 
+
+- [[RGB-LCD-dat]]
+
 - [[LCD1602-dat]] - [[LCD-12864-dat]]
 
 

@@ -12,7 +12,7 @@
 
 - a problem of the wrong module 
 
-
+![](2025-07-16-14-27-05.png)
 
 ## prebuilt image
 
