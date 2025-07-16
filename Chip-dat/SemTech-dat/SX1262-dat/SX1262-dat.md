@@ -1,6 +1,8 @@
 
 # SX1262-dat
 
+- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]] - [[SX1262-dat]]
+
 - [[lora-dat]] - [[semtech-dat]]
 
 - datasheet - [[DS_SX1261_2 V2-2.pdf]]

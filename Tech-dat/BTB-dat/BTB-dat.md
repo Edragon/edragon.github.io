@@ -21,7 +21,7 @@ https://www.electrodragon.com/w/ED-BTB
 | IO4       | IO       | LORA_IRQ   |
 | IO27      | IO       | LORA_RESET |
 
-
+general wiring 
 
 | ESP8266 | func     | conn.L | conn.R | func         | ESP8266 |
 | ------- | -------- | ------ | ------ | ------------ | ------- |
@@ -38,7 +38,19 @@ https://www.electrodragon.com/w/ED-BTB
 
 - [[ESP8266-HDK-dat]]
 
-- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]]
+- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]]
+
+wiring for [[SX1262-dat]]
+
+| ESP8266 | func     | conn.L | conn.R | func   | ESP8266 |
+| ------- | -------- | ------ | ------ | ------ | ------- |
+| io16    | BUSY     | L-1    | R-1    | serial | TXD     |
+| io14    | SPI_SCK  | L-2    | R-2    | serial | RXD     |
+| io12    | SPI_MISO | L-3    | R-3    | TXEN   | io5     |
+| io13    | SPI_MOSI | L-4    | R-4    | RXEN   | io4     |
+| IO0     | DIO1_irq | L-5    | R-5    | SPI_CS | io15_d  |
+| 3V3     | power    | L-6    | R-6    | power  | GND     |
+
 
 ## connectors 
 

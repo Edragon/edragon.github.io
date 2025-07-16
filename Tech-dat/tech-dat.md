@@ -44,7 +44,7 @@
 
 - [[fiber-optic-dat]]
 
-- [[lora-dat]]
+- [[lora-dat]] - [[SX1262-dat]]
 
 - [[rf-link-dat]]
 

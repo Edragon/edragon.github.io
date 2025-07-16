@@ -82,24 +82,38 @@ The ESP8266EX schematics include seven aspects:
 
 ### ❌ What GPIO16 **Cannot** Do
 
-| Feature                   | Support | Notes                                                                 |
-|---------------------------|---------|-----------------------------------------------------------------------|
-| PWM (analogWrite)         | ❌ No   | GPIO16 does **not support hardware PWM**.                            |
-| Interrupts (attachInterrupt) | ❌ No   | Cannot be used for interrupts.                                       |
-| I²C / SPI / UART          | ❌ No   | Not multiplexed for any peripheral functions.                        |
-| Analog input              | ❌ No   | ESP8266 has only one ADC (ADC0), not on GPIO16.                      |
-| Open-drain / Pull-up/down | ❌ No   | Limited internal resistor configuration.                             |
-| Output during deep sleep  | ⚠️ Caution | When used for deep sleep wake, it must not be driven externally.     |
+| Feature                      | Support   | Notes                                                            |
+| ---------------------------- | --------- | ---------------------------------------------------------------- |
+| PWM (analogWrite)            | ❌ No      | GPIO16 does **not support hardware PWM**.                        |
+| Interrupts (attachInterrupt) | ❌ No      | Cannot be used for interrupts.                                   |
+| I²C / SPI / UART             | ❌ No      | Not multiplexed for any peripheral functions.                    |
+| Analog input                 | ❌ No      | ESP8266 has only one ADC (ADC0), not on GPIO16.                  |
+| Open-drain / Pull-up/down    | ❌ No      | Limited internal resistor configuration.                         |
+| Output during deep sleep     | ⚠️ Caution | When used for deep sleep wake, it must not be driven externally. |
 
 ---
 
 ### ✅ What GPIO16 **Can** Do
 
-| Feature               | Support | Notes                                                           |
-|-----------------------|---------|-----------------------------------------------------------------|
-| Digital output        | ✅ Yes  | Use with `digitalWrite()`.                                     |
-| Digital input         | ✅ Yes  | Use with `digitalRead()`.                                      |
-| Deep sleep wake       | ✅ Yes  | Connect GPIO16 to RST to enable timed wake from deep sleep. 
+| Feature         | Support | Notes                                                       |
+| --------------- | ------- | ----------------------------------------------------------- |
+| Digital output  | ✅ Yes   | Use with `digitalWrite()`.                                  |
+| Digital input   | ✅ Yes   | Use with `digitalRead()`.                                   |
+| Deep sleep wake | ✅ Yes   | Connect GPIO16 to RST to enable timed wake from deep sleep. |
+
+## interrrupt 
+
+## ✅ Recommended GPIOs for Interrupts
+
+| GPIO | Usable for Interrupts? | Notes                            |
+|------|-------------------------|----------------------------------|
+| **GPIO0**  | ✅ Yes              | Must be HIGH at boot (pulled LOW enters flash mode) |
+| **GPIO2**  | ✅ Yes              | Must be HIGH at boot             |
+| **GPIO4**  | ✅ Yes              | Safe                             |
+| **GPIO5**  | ✅ Yes              | Safe                             |
+| **GPIO12** | ✅ Yes              | Safe                             |
+| **GPIO13** | ✅ Yes              | Safe                             |
+| **GPIO14** | ✅ Yes              | Safe                             |
 
 
 ## peripherals 

@@ -1,6 +1,7 @@
 
 # SX1262-MD1-dat
 
+- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]] - [[SX1262-dat]]
 
 ## pin definitions 
 

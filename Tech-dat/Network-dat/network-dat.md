@@ -20,7 +20,7 @@
 
 - [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
 
-- long distance = [[lora-dat]] - [[lorawan-dat]]
+- long distance = [[lora-dat]] - [[lorawan-dat]] - [[rf-switch-dat]]
 
 - [[RFID-dat]] - [[wiegand-dat]]
 
