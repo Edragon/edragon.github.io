@@ -395,6 +395,8 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 
 [[ESP8266-dat]] - [[esp8266-modules-dat]] - [[NWI1059-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1127-dat]] - [[NWI1075-dat]] - [[NWI1044-dat]]
 
+- [[ESP8266-board-dat]] - [[NWI1230-dat]] - [[NWI1130-dat]]
+
 [[ESP32-C3-dat]]
 
 - [[NWI1239-dat]] - [[NWI1238-dat]] - [[NWI1126-dat]]

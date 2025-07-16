@@ -51,7 +51,10 @@ Note: The current module uses a non-temperature-compensated crystal oscillator. 
 ![](2025-06-23-18-03-55.png)
 
 
+- 4-line [[SPI-dat]] + BUSY + RESET + DIO1 + DIO3
+
 DIO1, DIO2, and DIO3 are general-purpose IO ports that can be configured for multiple functions;
+
 Among them, DIO2 can be connected to TXEN, not to the MCU's IO port, to control the RF switch transmission. See the SX1262 manual for details. If not used, it can be left floating;
 
 

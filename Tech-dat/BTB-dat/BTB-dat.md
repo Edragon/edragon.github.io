@@ -21,6 +21,25 @@ https://www.electrodragon.com/w/ED-BTB
 | IO4       | IO       | LORA_IRQ   |
 | IO27      | IO       | LORA_RESET |
 
+
+
+| ESP8266 | func     | conn.L | conn.R | func         | ESP8266 |
+| ------- | -------- | ------ | ------ | ------------ | ------- |
+| io16    | IO0      | L-1    | R-1    | serial / IO5 | TXD     |
+| io14    | SPI_SCK  | L-2    | R-2    | serial / IO4 | RXD     |
+| io12    | SPI_MISO | L-3    | R-3    | SCL / IO3    | io5     |
+| io13    | SPI_MOSI | L-4    | R-4    | SDA / IO2    | io4     |
+| +5V     | power    | L-5    | R-5    | SPI_CS       | io15_d  |
+| 3V3     | power    | L-6    | R-6    | power        | GND     |
+
+- 1x 4-line [[SPI-dat]] + 5x [[GPIO-dat]]
+- 1x 4-line [[SPI-dat]] + 1x [[Serial-dat]] + 1x [[I2C-dat]] + 1x [[GPIO-dat]]
+- 1x 4-line [[SPI-dat]] + 1x [[Serial-dat]] + 3x [[GPIO-dat]]
+
+- [[ESP8266-HDK-dat]]
+
+- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]]
+
 ## connectors 
 
 - total height = 3.0
@@ -33,13 +52,18 @@ https://www.electrodragon.com/w/ED-BTB
 
 ## base board
 
+- [[ESP32-dat]]
+
 ![](40-27-15-02-08-2023.png)
 
+- [[NWI1230-dat]] == [[ESP8266-dat]]
+
+![](2025-07-16-15-24-50.png)
 
 
 ## supported boards 
 
-- [[NWI1230-dat]] == [[ESP8266-dat]]
+
 
 - [[NGS1128-DAT]] == [[SIM7080-dat]]
 

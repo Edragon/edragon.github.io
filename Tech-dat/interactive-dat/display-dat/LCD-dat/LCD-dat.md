@@ -5,6 +5,9 @@
 
 - [[RGB-LCD-dat]]
 
+- [[fpc-ips-lcd]]
+
+
 - [[LCD1602-dat]] - [[LCD-12864-dat]]
 
 

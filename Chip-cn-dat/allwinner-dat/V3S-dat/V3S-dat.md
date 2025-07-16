@@ -23,7 +23,7 @@
 
 ## APP 
 
-- [[laptop-dat]] == [[V3S-dat]] + [[battery-dat]] + [[keyboard-dat]] + [[LCD-dat]]
+- [[laptop-dat]] == [[V3S-dat]] + [[battery-dat]] + [[keyboard-dat]] + [[LCD-dat]] == [[SBC-dat]]
 
 
 ## HDK 

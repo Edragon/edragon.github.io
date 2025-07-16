@@ -1,5 +1,5 @@
 
-# fpc ips lcd 
+# fpc-ips-lcd
 
 
 | Common Size | Status | Pins  | Drive   | Specs W x H | Installation | Pins                                                     |
