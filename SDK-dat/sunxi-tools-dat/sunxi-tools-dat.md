@@ -3,6 +3,11 @@
 
 - [[uboot-dat]]
 
+![](2025-07-16-12-35-43.png)
+
+- [[F1C100-SDK-dat]] - [[V3S-dat]]
+
+
 ## for F1C100 
 
 - [[F1C100-dat]] - [[ubuntu-dat]]
@@ -25,6 +30,10 @@ check
 列出所有芯片的信息
 
     sudo sunxi-fel -l
+
+    root@ubuntu14:/home/vb# sunxi-fel -l
+    USB device 002:004   Allwinner F1C100s 
+
 
 加载并执行uboot的spl
 

@@ -11,7 +11,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - good example of [[STM32-HDK-dat]] hardware board [[LORA-HDK-dat]], run [[serial-dat]] programming easily, programming tool is [[STM32-cube-programmer-dat]].
 
-
+- documentaion of [[F1C100-dat]] in [[allwinner-dat]]
 
 ## Dissusion, Feedback, To-do
 

@@ -13,3 +13,12 @@ buildroot中可以方便地加入第三方软件包（其实已经内置了很�
     cd buildroot-2021.02.4/
     
     make menuconfig
+
+
+编译完成的镜像包，是
+
+    buildroot-2021.02.4/output/images/rootfs.tar
+
+## ref 
+
+- [[F1c100-sdk-dat]]
