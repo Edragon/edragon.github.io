@@ -16,6 +16,12 @@ The EA3036C is a 3CH power management IC for applications powered by one Li-Ion 
 - 680K
 - 10UF 0603
 
+
+## SCH 2 
+
+![](2025-07-16-13-09-50.png)
+
+
 ## ref 
 
 - [[chip-dat]]

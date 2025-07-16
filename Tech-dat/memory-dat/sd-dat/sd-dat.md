@@ -173,6 +173,10 @@ Note:  The SPI pins can be manually configured by using `SPI.begin(sck, miso, mo
     }
 
 
+## SD SCH 2 
+
+![](2025-07-16-13-12-19.png)
+
 ## ref 
 
 - [[memory-dat]] - [[interface-dat]] - [[sd-card-holder-dat]] - [[microsd-card-holder-dat]]

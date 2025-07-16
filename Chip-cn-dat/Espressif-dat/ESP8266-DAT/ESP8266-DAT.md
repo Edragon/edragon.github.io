@@ -5,7 +5,6 @@ find modules here - [[esp8266-modules-dat]]
 
 - [[ESP8266-board-dat]]
 
-- [[espressif-dat]] - [[ESP8266-dat]] - [[ESP32-dat]] - [[ESP-dat]]
 
 
 ## Modules and Boards 
@@ -36,6 +35,11 @@ find modules here - [[esp8266-modules-dat]]
 ## ref 
 
 - Module datasheet please see here: https://github.com/Edragon/ESP8266-HDK/tree/master/MOD
+
+- [[espressif-dat]] - [[ESP8266-dat]] - [[ESP32-dat]] - [[ESP-dat]]
+
+
+
 
 - [[ESP8266]]
 

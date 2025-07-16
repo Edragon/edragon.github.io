@@ -6,18 +6,19 @@
 
 - DS [[0a-esp8266ex_datasheet_en.pdf]]
 
+module HDK == [[ESP-12F-DAT]]
 
 ## common pins 
 
 
-| pin   | name   | GPIO | function | Note    | note                                  |
-| ----- | ------ | ---- | -------- | ------- | ------------------------------------- |
-| 25    | U0_RXD | 3    | IO3      |         | I/O UART Rx during flash programming  |
-| 26    | U0_TXD | 1    | IO1      | SPI_CS1 | I/O UART TX during flash programming; |
-| 14    | IO2    | 2    | U1_TXD   |         | Flash debug output                    |
-| 13    | MTDO   | 15   | U0_RTS   | HSPI_CS |                                       |
-| 18~23 | SDIO   |      |          |         |                                       |
-
+| pin   | name     | GPIO | function | Note    | note                                                         |
+| ----- | -------- | ---- | -------- | ------- | ------------------------------------------------------------ |
+| 25    | U0_RXD   | 3    | IO3      |         | I/O UART Rx during flash programming                         |
+| 26    | U0_TXD   | 1    | IO1      | SPI_CS1 | I/O UART TX during flash programming;                        |
+| 14    | IO2      | 2    | U1_TXD   |         | Flash debug output                                           |
+| 13    | MTDO     | 15   | U0_RTS   | HSPI_CS |                                                              |
+| 18~23 | SDIO     |      |          |         |                                                              |
+| 8     | XPD_DCDC | IO16 |          |         | Deep-sleep wakeup (need to be connected to EXT_RSTB); GPIO16 |
 
 
 ## bootstrap

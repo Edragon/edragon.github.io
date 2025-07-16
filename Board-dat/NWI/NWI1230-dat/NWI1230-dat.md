@@ -28,6 +28,7 @@ File:Esp8266_esp-link_base_board.gif
 
 Reserved resistor connection IO16-RST
 
+- [[battery-dat]] - [[CR123-dat]]
 
 ## ref 
 

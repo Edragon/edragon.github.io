@@ -39,6 +39,18 @@ using with STM32 SPI2
 
 ![](2025-07-13-21-51-55.png)
 
+## backlight SCH 
+
+- [[PT4103-dat]]
+
+![](2025-07-16-13-10-57.png)
+
+
+## LCD 40Pin 
+
+LCD data 24-bit 
+
+![](2025-07-16-13-13-33.png)
 
 ## ref 
 

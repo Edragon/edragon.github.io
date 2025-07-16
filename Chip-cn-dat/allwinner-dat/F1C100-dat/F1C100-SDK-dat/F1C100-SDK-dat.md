@@ -41,6 +41,15 @@ build
 
 ## Image Flashing 
 
+### uboot spl 
+
+以 uboot file-with-spl形式进行（单次运行，测试时个人推荐）
+
+    sunxi-fel uboot /your/path/to/u-boot-sunxi-with-spl.bin
+    sunxi-fel uboot Nano_flash_800600.bin
+    sunxi-fel uboot Nano_flash_800480.bin
+    sunxi-fel uboot Nano_flash_480272.bin
+
 ### TF card == linux 
 
 镜像包中的image文件夹下的dd文件，已包含了相应的Bootloader、Kernel、文件系统等等，只需简单两步即可完成烧录；
@@ -60,13 +69,14 @@ build
 
 ### Flash Empty 
 
+- [[sunxi-tools-dat]]
+
 在flash内容为空的情况下（fel模式下的一种情况）进行烧录时，通过micro-usb数据线将Nano与电脑连接，执行
 
     sudo sunxi-fel -p spiflash-write 0 Your-Flash-BIN
 
     cd /media/sf_share-folder/Nano_pub_V4/image
 
-    sunxi-fel -p spiflash-write 0 Nano_flash_800480.bin
 
 ### Flash NOT Empty 
 

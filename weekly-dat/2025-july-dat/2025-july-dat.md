@@ -1,5 +1,5 @@
 
-# 2025-06-07-dat
+# 2025-july-dat
 
 This a weekly update newsletter, to briefly tell you whats new and whats fun we are working at, hope you like
 
@@ -22,3 +22,6 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 - [teardown 3d print drone claw ](https://www.electrodragon.com/teardown-a-3d-printed-drone-claw/)
 
 
+## ref 
+
+- [[weekly-dat]]

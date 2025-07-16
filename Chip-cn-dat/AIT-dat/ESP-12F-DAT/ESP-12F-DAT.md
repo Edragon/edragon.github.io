@@ -28,19 +28,18 @@
 
 ## Pin Definitions 
 
-| left | boot mode                  | right | boot mode          | func        |
-| ---- | -------------------------- | ----- | ------------------ | ----------- |
-| RST  | external pull-up, with cap | TXD   |                    |             |
-| ADC  |                            | RXD   |                    |             |
-| EN   | external pull-up           | IO5   |                    |             |
-| IO16 |                            | IO4   |                    |             |
-| IO14 |                            | IO0   | external pull-up   | mode select |
-| IO12 |                            | IO2   | external pull-up   |             |
-| IO13 |                            | IO15  | external pull-down |             |
-| VCC  |                            | GND   |                    |             |
+| left | boot mode           | func | right | boot mode      | func         |
+| ---- | ------------------- | ---- | ----- | -------------- | ------------ |
+| RST  | ext. pull-up, w/cap |      | TXD   |                |              |
+| ADC  |                     |      | RXD   |                |              |
+| EN   | ext. pull-up        |      | IO5   |                | I2C          |
+| IO16 |                     |      | IO4   |                | I2C          |
+| IO14 |                     | SCK  | IO0   | ext. pull-up   | mode select  |
+| IO12 |                     | MI   | IO2   | ext. pull-up   | on-board LED |
+| IO13 |                     | MO   | IO15  | ext. pull-down | SS           |
+| VCC  |                     |      | GND   |                |              |
 
-
-- on module LED IO2: low to on
+- [[NWI1083-dat]]
 
 
 ## Periperhal design 
