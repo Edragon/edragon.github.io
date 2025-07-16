@@ -3,6 +3,14 @@
 # F1C100-image-dat.md
 
 
+## boot 
+
+![](2025-07-16-13-56-44.png)
+
+    ***** EAGLE DRIVER USER:bdf5087c3deb *****
+    esp_sdio_init ----- RETRY -----
+
+- a problem of the wrong module 
 
 
 
@@ -14,10 +22,10 @@
 
 Nano_pub_V4\image
 
-- Nanoflash480272.bin
-- Nanoflash800480.bin
-- Nanoflash800480.bin.old
-- Nanoflash800600.bin
+- Nano_flash_480272.bin
+- Nano_flash_800480.bin
+- Nano_flash_800480.bin.old
+- Nano_flash_800600.bin
 - Nanotf480272.dd
 - Nano tf8800480.dd
 - Nano tf800600.dd
@@ -93,3 +101,4 @@ build
 ## ref 
 
 - [[F1C100-SDK-dat]]
+

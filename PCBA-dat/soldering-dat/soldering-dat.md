@@ -13,6 +13,10 @@
 
 ## soldering skills 
 
+
+
+
+
 ### soldering chip with pads underneath, such as QFN, BGA, LGA, etc.
 
 - [[allwinner-dat]]
@@ -36,10 +40,14 @@ T113 soldering note (English): Be sure to solder all components except T113 firs
 > When soldering temperature-sensitive components like FPC (Flexible Printed Circuit) connectors, you generally do not need to use any special type of solder paste. The most important thing is to avoid applying hot air or direct heat to the FPC connector itself, as it can be easily damaged by high temperatures. 
 > Instead, use a hot air gun or soldering tool to heat the solder joints from the back side of the PCB. This approach helps protect the delicate connector and ensures a reliable solder joint.
 
+
+
 ## ref 
 
 - [[desoldering-dat]]
 
-- [[welding-dat]] - [[spot-welding-dat]]
+- [[welding-dat]] - [[spot-welding-dat]] - [[PTC-dat]]
 
 - [[ICT-testing]]
+
+- [[soldering]]

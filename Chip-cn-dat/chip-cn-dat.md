@@ -8,6 +8,8 @@
 
 - [[ESP8266-dat]] - [[esp8266-modules-dat]] - [[ESP8266-board-dat]]
 
+- [[ESP8089-dat]]
+
 - [[SIMCOM-dat]]  - [[A7670-dat]]
 
 - [[quectel-dat]]
