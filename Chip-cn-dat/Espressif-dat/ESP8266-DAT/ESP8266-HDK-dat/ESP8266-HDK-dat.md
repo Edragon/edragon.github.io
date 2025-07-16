@@ -76,7 +76,30 @@ The ESP8266EX schematics include seven aspects:
 • External resistor 
 • UART
 
+## GPIO 16 
 
+
+
+### ❌ What GPIO16 **Cannot** Do
+
+| Feature                   | Support | Notes                                                                 |
+|---------------------------|---------|-----------------------------------------------------------------------|
+| PWM (analogWrite)         | ❌ No   | GPIO16 does **not support hardware PWM**.                            |
+| Interrupts (attachInterrupt) | ❌ No   | Cannot be used for interrupts.                                       |
+| I²C / SPI / UART          | ❌ No   | Not multiplexed for any peripheral functions.                        |
+| Analog input              | ❌ No   | ESP8266 has only one ADC (ADC0), not on GPIO16.                      |
+| Open-drain / Pull-up/down | ❌ No   | Limited internal resistor configuration.                             |
+| Output during deep sleep  | ⚠️ Caution | When used for deep sleep wake, it must not be driven externally.     |
+
+---
+
+### ✅ What GPIO16 **Can** Do
+
+| Feature               | Support | Notes                                                           |
+|-----------------------|---------|-----------------------------------------------------------------|
+| Digital output        | ✅ Yes  | Use with `digitalWrite()`.                                     |
+| Digital input         | ✅ Yes  | Use with `digitalRead()`.                                      |
+| Deep sleep wake       | ✅ Yes  | Connect GPIO16 to RST to enable timed wake from deep sleep. 
 
 
 ## peripherals 

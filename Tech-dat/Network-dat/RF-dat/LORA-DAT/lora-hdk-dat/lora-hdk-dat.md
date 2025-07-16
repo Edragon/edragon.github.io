@@ -17,6 +17,8 @@
 
 - [[auto-serial-dat]]
 
+(NSS_d + SCK + MOSI + MISO) + RESET + BUSY + DIO1 + RXEN + TXEN
+
 def in UserConfig.h
 
     //spi
@@ -31,7 +33,6 @@ def in UserConfig.h
 
     #define LCC68_MISO_PORT  GPIOA
     #define LCC68_MISO_PIN   GPIO_PIN_6
-
 
     #define LCC68_NRST_PORT GPIOA
     #define LCC68_NRST_PIN  GPIO_PIN_3
