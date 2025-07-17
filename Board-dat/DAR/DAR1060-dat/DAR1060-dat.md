@@ -30,6 +30,12 @@ Serial port sketch uploading via USB
     - bootloader - Optiboot UART2 alternative pins
     - programmer JTAG2UPDI
 
+## BTB 
+
+![](2025-07-17-15-53-07.png)
+
+![](2025-07-17-15-53-56.png)
+
 
 ## ref 
 

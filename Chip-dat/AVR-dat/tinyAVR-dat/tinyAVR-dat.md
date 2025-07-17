@@ -9,10 +9,11 @@
 
 - [[attiny1604-dat]] 
   
-- [[attiny1616-dat]]
+- [[attiny1616-dat]] - [[attiny1617-dat]]
 
 - [[attiny416-dat]] == QFN
 
+- attiny404
 
 ## our APP boards 
 

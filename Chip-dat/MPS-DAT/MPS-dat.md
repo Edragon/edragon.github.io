@@ -5,6 +5,8 @@
 
 ## Chips 
 
+MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated Inductor
+
 - [[MPS-ACDC-dat]]
 
 - [[MP1584-DAT]]

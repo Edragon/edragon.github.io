@@ -3,7 +3,11 @@
 
 ## chips 
 
+- attiny85
+
 - [[attiny13-dat]]
+
+
 
 ## programmer 
 
