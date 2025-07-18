@@ -50,7 +50,7 @@ Design and optmized to specific country, internional + local delivery.
 
 - [[USPS-dat]] - [[EUEX-V-dat]]
 
-- [[YODEL-dat]] - [[EURPOST-cn-dat]] - [[CAEXPRESS-dat]] - [[AURPOST-dat]]
+- [[YODEL-dat]] - [[EURPOST-dat]] - [[CAEXPRESS-dat]] - [[AURPOST-dat]]
 
 Normal Post, worldwide delivery
 
