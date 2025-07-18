@@ -170,6 +170,7 @@ GPIO PINS: (from alanesq/esp32cam-demo) - [[sd-dat]]
 
 - default factory firmware demo [[ai-thinker_ESP32-CAM_DIO_V1.0_20180825.bin]]
 
+- [[camera-dat]]
 
 - [[SCM1030]]
 - https://wiki.ai-thinker.com/esp32-cam

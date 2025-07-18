@@ -7,6 +7,8 @@
 
 ## Sensor Comparison Table
 
+- [[sensor-radar-dat]]
+
 |                   | **PIR**                                                                                                             | **RCWL**                                                                                      | **Radar**                                                                                                 | **Lidar**                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Features**      | - Detects infrared radiation from warm objects<br>- Simple motion sensor                                            | - Microwave Doppler radar<br>- Detects motion through some materials                          | - Uses radio waves<br>- Measures distance, speed, direction                                               | - Uses laser pulses<br>- Creates 3D maps<br>- High accuracy                                                     |
@@ -86,8 +88,6 @@ Tilt sensors are often used for horizontal measurement in systems. Based on thei
 
 ## ref 
 
-- [[sensor]]
-
-- [[motion-sensor]]
+- [[sensor]] - [[motion-sensor]] - [[m]]
 
 
