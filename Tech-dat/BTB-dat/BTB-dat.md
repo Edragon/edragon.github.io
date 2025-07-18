@@ -72,6 +72,9 @@ rotate to fit physically
 
 ![](2024-10-02-20-05-52.png)
 
+
+
+
 ## base board == bottom board 
 
 - [[ESP32-dat]]

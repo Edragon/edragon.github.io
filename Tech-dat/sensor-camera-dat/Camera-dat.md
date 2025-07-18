@@ -25,6 +25,8 @@
 
 [[OmniVision-dat]] == [[DVP-dat]] - [[CSI-dat]]
 
+- [[OV3660-dat]]
+
 - [[OV9281-dat]]
 
 - [[OV2710-dat]]

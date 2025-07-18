@@ -18,6 +18,7 @@
 
 - [[spot-welding-dat]]
 
+- [[battery-supply-dat]]
 
 ## coin battery dat 
 
