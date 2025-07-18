@@ -2,6 +2,15 @@
 # RCWL-sensor-dat
 
 
+The RCWL microwave sensor is a motion detection sensor that uses microwave Doppler radar technology. 
+
+It emits microwave signals and detects changes caused by moving objects, such as people or animals. 
+
+The RCWL sensor is commonly used for non-contact motion sensing in lighting, security, and automation systems. 
+
+It can detect motion through certain materials (like plastic or glass) and works in various lighting conditions.
+
+
 
 
 ## Advantages of RCWL Sensors Compared to PIR Sensors

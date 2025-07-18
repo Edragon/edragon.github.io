@@ -6,6 +6,7 @@
 
 - [[power-dat]] - [[battery-dat]]
 
+- [[sensor-PIR-dat]] - [[sensor-lidar-dat]]
 
 ## ref 
 
