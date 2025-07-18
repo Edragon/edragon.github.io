@@ -1,6 +1,6 @@
 
 # chile-dat.md
 
-- [[chile]] - [[EURPOST-dat]]
+- [[chile]] - [[EURPOST-en-dat]]
 
 - [[shipment]]

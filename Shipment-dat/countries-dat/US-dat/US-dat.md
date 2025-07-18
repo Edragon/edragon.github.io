@@ -65,7 +65,7 @@ US Special Line
 | method             | status | set   | max. | row     | pre-tax | title                                                                         |
 | ------------------ | ------ | ----- | ---- | ------- | ------- | ----------------------------------------------------------------------------- |
 | [[PFCEXPRESS-dat]] | x      |       |      |         | 30%     |                                                                               |
-| [[EURPOST-dat]]    | x      | price | 120  | 7.5     | 30%     | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days)                     |
+| [[EURPOST-en-dat]]    | x      | price | 120  | 7.5     | 30%     | EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days)                     |
 | [[USPST-dat]]      |        | price | 120  | 4.5+1.5 | 30%     | USPST: Intl. + USPS Post (Ref. ETA: 15-20 days, 50% pre-tax)                  |
 | [[USPS-dat]]       |        | price | 120  | 11+1.5  | 30%     | USPS: Intl. + USPS and Multiple Local Post (Ref. ETA: 8-15 days, 50% pre-tax) |
 

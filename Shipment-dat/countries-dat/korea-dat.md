@@ -1,4 +1,4 @@
 
 # korea-dat.md
 
-- [[korea]] - [[EURPOST-dat]] - [[shipment]]
+- [[korea]] - [[EURPOST-en-dat]] - [[shipment]]

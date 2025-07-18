@@ -1,7 +1,7 @@
 
 # mexico-dat.md
 
-- [[tax-id-mx]]
+
 
 ## Express shipment
 
@@ -17,6 +17,8 @@
 
 ## EURPOST
 
+tax id need for [[EURPOST-en-dat]] fast shipment 
+
 - [[EURPOST-cn-dat]]
 
 | set   | max. | row | tax | title                                                     | note                            |
@@ -27,3 +29,6 @@
 
 ## Other shipment
 
+## ref 
+
+- [[tax-id-mx]]

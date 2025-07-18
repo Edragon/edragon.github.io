@@ -37,7 +37,7 @@
 | Greece         |        | [[Europe]]          | [[EURPOST-cn-dat]]                  | [[SZFED-PAK]]                      |                |                                                       |
 | Norway         | 06-20  | [[Europe]]          | [[EURPOST-cn-dat]]                  |                                    |                |                                                       |
 | Mexico         |        | [[America-South]]   | [[EURPOST-cn-dat]] << [[MXEXPRESS]] |                                    |                |                                                       |
-| South Africa   | X      | [[Africa]]          | [[EURPOST-cn-dat]] << [[ZAEXPRESS]] |                                    | tax_id needed! |                                                       |
+| South Africa   | X      | [[Africa]]          | [[EURPOST-cn-dat]] << [[ZAEXPRESS-dat]] |                                    | tax_id needed! |                                                       |
 | Switzerland    | 06-15  | [[Europe]]          | [[EURPOST-cn-dat]] ~~[[SWRPOST]]~~  |                                    |                |                                                       |
 | Malaysia       | 06-15  | [[asia]]            | [[MYEXPRESS-BA]]                 |                                    |                |                                                       |
 | Costa Rica     | 06-09  | [[America-Central]] | [[NLRPOST]]                      | [[SZFED-PAK]]                      |                |                                                       |

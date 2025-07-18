@@ -1,5 +1,17 @@
 
-# EURPOST-za.md
+# EURPOST-za-dat
+
+
+# ZAEXPRESS-dat
+
+ZAEXPRESS: Buffaloex Express Shipment (Ref. ETA 11-20 Days, personal ID 13-digits needed!!)
+
+
+- 转为 [[EURPOST]]
+- 可能需要补收 税费
+
+
+
 
 ## EN Note 
 
@@ -15,7 +27,7 @@
 - When placing an order, you need to provide the recipient’s name and ID number.
 - The declaration fee shall not be higher than or equal to US$40 per kilogram. If the declared value per kilogram exceeds US$40, the sender shall bear 50% tax on the declared value.
 
-- [[ZAEXPRESS]]
+- [[ZAEXPRESS-dat]]
 
 The declared value per kilogram shall not be higher than or equal to US$40. If the declared value per kilogram exceeds US$40, the sender shall bear 50% of the tax on the declared value.
 For example: the declared value of 0.2KG cannot be higher than or equal to US$8; any product price tags or invoices of any form are prohibited in the express, otherwise taxes will be paid additionally;
