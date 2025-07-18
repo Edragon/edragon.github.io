@@ -1,6 +1,7 @@
 
 # arduino-esp8266-dat
 
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ## boards 
 

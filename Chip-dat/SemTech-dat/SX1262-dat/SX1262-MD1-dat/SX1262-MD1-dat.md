@@ -86,3 +86,12 @@ Differences between SX1262/SX1268 and LLCC68:
 - The antenna installation structure has a great impact on the module's performance. Be sure to keep the antenna exposed, preferably vertically upwards. When the module is installed inside a case, a high-quality antenna extension cable can be used to extend the antenna to the outside of the case;
 - The antenna must not be installed inside a metal case, as this will greatly reduce the transmission distance;
 - It is recommended to add a 200R protection resistor to the RXD/TXD of the external MCU.
+
+
+## ref 
+
+- [[BTB-dat]]
+
+- [[sx1262-dat]]
+
+- [[SX1262-MD1]] - [[sx1262]]

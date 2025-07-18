@@ -1,6 +1,10 @@
 
 ## arduino-ide-dat
 
+- [[arduino-boards-dat]] - [[arduino-app-dat]]
+
+- [[arduino-lib-dat]]
+
 ## Library list 
 
 multi-task 
@@ -15,13 +19,7 @@ https://github.com/arkhipenko/TaskScheduler
 - [[arduino-lib]]
 
 
-## Core list 
 
-- [[logicgreen-dat]]
-
-## Attiny 
-
-- [[attiny-dat]] - [[tinyAVR-dat]]
 
 ## ESP32
 

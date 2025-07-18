@@ -72,7 +72,7 @@ rotate to fit physically
 
 ![](2024-10-02-20-05-52.png)
 
-## base board
+## base board == bottom board 
 
 - [[ESP32-dat]]
 
@@ -87,13 +87,13 @@ rotate to fit physically
 
 
 
-## supported boards 
+## supported boards == module board == top board 
 
 
 
 - [[NGS1128-DAT]] == [[SIM7080-dat]]
 
-
+- [[SX1262-MD1-dat]] - [[SX1262-dat]]
 
 ## attach board ref 
 
