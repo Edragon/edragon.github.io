@@ -34,15 +34,11 @@
 ## Flashing 
 
 - [[esptool-dat]] - [[flash-download-tool-dat]]
-  
+
+- [[ESP-prog-dat]] using ESP-Prog official programmer - [[DPR1109-dat]]
+
 ### Serial Connect 
 Wirings use [[USB-TTL-dat]]
-
-
-### using ESP-Prog official programmer 
-
-- [[DPR1109-dat]]
-
 
 
 ## Functions 

@@ -1,6 +1,31 @@
 
 # video-dat
 
+
+- [[vision-dat]] - [[video-dat]] - [[camera-dat]]
+
+
+## tech 
+
+- [[video-baluns-dat]]
+
+- [[VOIP-dat]] 
+
+
+
+## APPS
+
+- [[video-RC-car-dat]] - [[video-transmission-dat]] - [[esp32-app-dat]]
+
+- [[qc-code-reader-dat]]
+
+
+
+
+
+
+## compress 
+
 ![](2025-04-11-14-18-19.png)
 
 

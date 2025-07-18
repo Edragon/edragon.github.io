@@ -6,12 +6,22 @@ https://www.electrodragon.com/product-category/prototype/proto-case/
 
 - [[plate-dat]]
 
-- [[PENS019-dat]]
+## Case used for our boards 
+
+- [[esp-relay-board-dat]]
+
+- [[header-case-dat]] - [[IMS1044-dat]] - [[IMS1038-dat]] - [[IMS1030-dat]] - [[3201586-dat]]
+
+- [[NWI1252-dat]]
 
 
-## pre-built cases 
+## pre-built cases by material and manufacturing method
 
-- [[case-led-dat]] - [[layered-case-dat]] - [[waterproof-case-dat]]
+- [[case-led-dat]] 
+
+- [[layered-case-dat]] 
+
+- [[waterproof-case-dat]]
 
 - normal plastic case - [[PENS005-dat]] - [[PENS007-dat]] - retired - [[PENS001-dat]]
 
@@ -26,6 +36,30 @@ https://www.electrodragon.com/product-category/prototype/proto-case/
 - [[arduino-dat]] - [[PENS020-dat]]
 
 - [[RPI-dat]] - [[MPCS039-dat]]
+
+- industrial PLC purpose - [[PENS019-dat]]
+
+## Case list 
+
+### fully-transaparent case 
+
+100-68-50
+
+![](2025-07-18-14-13-02.png)
+
+### semi-transaparent - retangular case 
+
+- industrial PLC purpose - [[PENS019-dat]]
+
+two side open, size 50 x 50 mm
+
+- [[NWI1252-dat]]
+
+![](2025-07-18-13-53-12.png)
+
+49-27-14
+
+![](2025-07-18-13-57-39.png)
 
 
 

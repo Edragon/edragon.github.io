@@ -16,9 +16,12 @@
 
 - [[USB-dat]] - [[USB-OTG-dat]]
 
-- [[sensor-dat]] - [[sensor-touch-dat]]
+- [[sensor-dat]] - [[sensor-touch-dat]] - [[camera-dat]]
 
 - [[interface-interactive-dat]]
+
+
+
 
 ## other categories
 

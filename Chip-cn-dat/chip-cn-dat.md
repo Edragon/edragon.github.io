@@ -30,6 +30,8 @@
 
 - [[TP-dat]] - [[TP4056-dat]] - [[TP4067-dat]]
 
+- [[TITAN-dat]]
+
 - [[injoinic-dat]] - [[IP5306-dat]]
 
 - [[3peak-dat]]

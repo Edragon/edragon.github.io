@@ -80,7 +80,7 @@ solar charge and battery function please refer to [[BAT1002-dat]]
 
 - [[ESP32-dat]] - [[SCM1030-dat]]
 
-
+- [[peripherals-dat]]
 
 ## Not in Use  
 
@@ -119,5 +119,7 @@ pin definitions:
 
 
 ## ref 
+
+- [[case-dat]]
 
 - [[ESP1000]] - [[PIR-sensor]]
