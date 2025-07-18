@@ -7,6 +7,11 @@
 
 ![](2025-07-14-01-14-33.png)
 
+## Octal SPI and QIO Flash 
+
+Yes, 8-bit SPI flash does exist in the context of the ESP32 and similar chips. This refers to "Octal SPI" flash, which uses 8 data lines for higher-speed data transfer. However, most ESP32 modules—including the ESP32-WROOM-32E—typically use Quad SPI (4 data lines). The ESP32 chip supports up to 8 data lines for SPI flash, but most modules only connect 4 lines (QIO mode). Octal SPI flash is less common and usually found in high-performance or special applications.
+
+
 
 ## SPI Flash SCH
 

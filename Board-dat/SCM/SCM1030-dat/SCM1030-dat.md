@@ -70,10 +70,18 @@ pin define
     // 4 for flash led or 33 for normal led
     #define LED_GPIO_NUM   4
 
+    //microSD
+
+    #define CLK 14 
+    #define CMD 15
+    #define DAT2 12
+    #define DAT3 13
+    #define DAT0 2
+    #define DAT1 4
 
 ## HDK 
 
-## SCH 
+### SCH 
 
 ![](2024-12-28-16-37-39.png)
 
@@ -125,6 +133,7 @@ to get free pins, remove card in [[SD-dat]]
 
 ## Demo code 
 
+- [[arduino-esp32-dat]] 
 - https://github.com/alanesq/esp32cam-demo
 
 
@@ -138,8 +147,21 @@ see my sketch below which demonstrates using 1 bit mode and the gpio pins
 
 https://forum.arduino.cc/t/esp32-cam-connection-with-hc-sr04-ultrasonic-sensor/958087/3
 
+GPIO PINS: (from alanesq/esp32cam-demo) - [[sd-dat]]
 
-## Board Issues 
+- 13 free (used by sd card but free if using 1 bit mode)
+- 12 free (must be low at boot, used by sd card but free if using 1 bit mode)
+- 14 used by sd card (usable is SPI clock?)
+- 2 used by sd card (usable as SPI MISO?)
+- 15 used by sd card (usable as SPI CS?)
+- 1 serial - output only?
+- 3 serial - input only?
+- 4 has the illumination/flash led on it - led could be removed and use as output?
+- 33 onboard led - use as output?
+
+
+
+## Board Issues == V1701
 
 - For board version v1701, note do not connect pin "GND/R" aka GND3 to ground, otherwise it won't boot
 - [refer for more information here. ](https://esp32.com/viewtopic.php?f=12&t=29647&sid=fed114d9e4f87cf6634c7ad145a5d8df&start=10)

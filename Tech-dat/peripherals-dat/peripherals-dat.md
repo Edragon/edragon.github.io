@@ -20,7 +20,7 @@
 
 - [[interface-interactive-dat]]
 
-
+- [[memory-dat]] - [[sd-dat]]
 
 
 ## other categories
@@ -37,3 +37,5 @@
 ## ref 
 
 read more at - [[V3S-dat]]
+
+- [[ESP32-HDK-dat]]

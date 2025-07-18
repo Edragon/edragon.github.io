@@ -6,7 +6,14 @@
 
 - [[power-dat]] - [[battery-dat]]
 
-- [[sensor-PIR-dat]] - [[sensor-lidar-dat]]
+- [[sensor-motion-dat]] - [[sensor-lidar-dat]]
+
+
+
+## APPs 
+
+- [[ESP1000-dat]]
+
 
 ## ref 
 

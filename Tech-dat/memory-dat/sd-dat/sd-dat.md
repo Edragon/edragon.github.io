@@ -51,7 +51,7 @@ https://github.com/espressif/arduino-esp32/tree/master/libraries/SD
 - DATA == D0
 
 
-## SDIO interface for ESP32 
+## SDIO interface for ESP32 == 4-bit mode
 
 SD (Secure Digital) card interface, specifically the SDIO (Secure Digital Input Output) or 4-bit SD mode.
 

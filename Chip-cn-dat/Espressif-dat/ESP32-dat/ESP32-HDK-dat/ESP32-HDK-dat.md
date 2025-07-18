@@ -2,7 +2,7 @@
 
 - [[ESP-SDK-dat]]
   
-- [[ESP32-modules-dat]] 
+- [[ESP32-modules-dat]] - [[ESP32-WROOM-DAT]]
 
 
 ### RMT

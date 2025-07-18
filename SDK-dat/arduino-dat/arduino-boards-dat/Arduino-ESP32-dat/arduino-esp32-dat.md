@@ -81,8 +81,9 @@ Get Board Info
 
 ## version 
 
-version 2.0.6 - 2022/2/3
-version 2.0.4
+- 2.0.14 
+- 2.0.6 - 2022/2/3
+- 2.0.4
 
 ## repository
 - https://github.com/espressif/arduino-esp32
@@ -99,11 +100,11 @@ includes
 
 - [[ESP-SDK-dat]]
 
-## Version 
+[[camera-dat]] 
 
-- 2.0.14 
+- ESP32 - camera - CameraWebServer.ino
 
-
+- [[peripherals-dat]]
 
 ## Common error 
 
@@ -118,3 +119,9 @@ C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32
     compiler.warning_flags.default=
     compiler.warning_flags.more=-Wall
     compiler.warning_flags.all=-Wall -Wextra
+
+
+
+## ref 
+
+- [[arduino-boards-dat]]

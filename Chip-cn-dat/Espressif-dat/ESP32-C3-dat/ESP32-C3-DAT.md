@@ -53,7 +53,11 @@
 | [[ESP-C3-12F-dat]] | x        | [[ESP-12f-dat]] |
 
 
+## C2 / C3 
 
+- [[ESP32-­C3-­WROOM-­02-DAT]]
+
+obselete - [[ESP-C3-32S-dat]] - [[ESP-C3-12F-DAT]]
 
 ## Software 
 

@@ -7,6 +7,9 @@
 
 - [[ESP32-S3-app-DAT]]
 
+## S2 / S3 modules 
+
+- [[ESP-12K-dat]] - [[NWI1226-dat]]
 
 
 

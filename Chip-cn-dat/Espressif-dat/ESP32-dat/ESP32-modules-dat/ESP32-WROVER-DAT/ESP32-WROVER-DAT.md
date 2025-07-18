@@ -34,7 +34,7 @@ About ESP32 chips and modules Espressif company's recommendation description
 | Module         | model built-in ESP32 chip model | built-in sram | built-in rom | Espressif recommended status        |
 | -------------- | ------------------------------- | ------------- | ------------ | ----------------------------------- |
 | ESP32-WROVER-B | ESP32-D0WD                      | 512K          | 448K         | Not recommended for new designs     |
-| ESP32-WR0VER-E | ESP32-D0WD-V3                   | 512K          | 448K         | Recommended for new designs in 2024 |
+| ESP32-WROVER-E | ESP32-D0WD-V3                   | 512K          | 448K         | Recommended for new designs in 2024 |
 
 | Board Link      | Description               |          | Memory | Notes               |
 | :-------------- | :------------------------ | -------- | ------ | :------------------ |
