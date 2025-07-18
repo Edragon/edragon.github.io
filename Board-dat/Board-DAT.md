@@ -436,6 +436,8 @@ MT7688
 
 - [[PPB1080-dat]]
 
+- [[PPB1061-dat]] - [[PPB1062-dat]]
+
 ### PTO
 - [[PTOS031-DAT]] - [[PTOS032-DAT]] - [[PTOS033-DAT]]
 

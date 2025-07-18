@@ -6,6 +6,14 @@
 
 ## Notifications
 
+0718 
+
+香港DHL渠道美国邮编32和33以及34开头的邮编申报都需要提供交易证明（客户务必确保真实）才能接收托运，无法确认后果自负出货。否则香港DHL会拒收。另外强烈建议客户托运美国32-34开头邮编的货物选择我司UPS或者联邦渠道出货。
+
+For shipments via Hong Kong DHL to US zip codes starting with 32, 33, or 34, a transaction proof (customers must ensure authenticity) is required for declaration and acceptance. If this cannot be confirmed, shipment is at your own risk. Otherwise, Hong Kong DHL will refuse to accept the shipment. Additionally, it is strongly recommended that customers shipping to US zip codes starting with 32-34 use our UPS or FedEx channels instead.
+
+
+
 US and Puerto Rico Express
 
 1.  **Hong Kong DHL Small Parcel Rate (HKDHLX) Channel**
