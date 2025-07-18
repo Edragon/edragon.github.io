@@ -1,5 +1,9 @@
 # network-dat.md
 
+- [[protocols-dat]]
+
+
+
 ## Network tech by range 
 
 | Technology      | Range                        | Data Rate        | Notes                                      |
@@ -30,6 +34,10 @@
 
 - [[radio-dat]]
 
+
+
+- [[ethernet-dat]]
+
 ## RC apps protocols 
 
 - [[RC-dat]] - [[RF-DAT]] - [[CRSF-dat]] - [[GFSK-dat]] - [[ardupilot-dat]] - [[SBUS-dat]]
@@ -50,6 +58,9 @@ and more - [[IBUS-dat]] - [[PPM-dat]] - [[FPort-dat]] - [[SPEKTRUM-dat]] - [[SUM
 - [[ardupilot-dat]]
 
 - [[openwrt-dat]]
+
+- [[zigbee-dat]] - [[openthread-dat]] - [[micropython-dat]]
+
 
 ## RF boards 
 

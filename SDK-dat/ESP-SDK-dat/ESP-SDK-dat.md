@@ -4,11 +4,11 @@
 
 # ESP32-SDK
 
-- [[ESP-dat]] - [[ESP32-dat]] - [[ESP8266-dat]]
+- [[ESP-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]]
 
 ## Official SDK 
 
-- [[esp-idf-dat]] - [[esp-idf-vscode]]
+- [[esp-idf-dat]] 
 
 - [[platformIO-dat]]
 

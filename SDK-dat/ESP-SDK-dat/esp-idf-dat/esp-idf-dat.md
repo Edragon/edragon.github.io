@@ -11,18 +11,18 @@
 
 - https://idf.espressif.com/
 
+[windows installation](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/windows-setup.html)
 
 
-### windows-setup
-- https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/get-started/windows-setup.html
+- [[esp-idf-vscode-dat]]
 
+[Standard Toolchain Setup for Linux and macOS](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/get-started/linux-macos-setup.html)
 
-### Standard Toolchain Setup for Linux and macOS
-- https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/get-started/linux-macos-setup.html
+[examples ](https://github.com/espressif/esp-idf/tree/master/examples)
 
-### vs-code extension 
-- https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md
+[project tamplate ](https://github.com/espressif/esp-idf-template)
 
+- [[protocols-dat]]
 
 ### offline installer 
 https://dl.espressif.cn/dl/esp-idf/

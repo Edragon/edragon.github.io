@@ -3,6 +3,16 @@
 
 - [[peripherals-dat]]
 
+## realtime system 
+
+- [[FreeRTOS-dat]] - [[Zephyr-dat]] - [[MongooseOS-dat]]
+
+- [[openthread-dat]] - [[micropython-dat]]
+
+
+
+
+
 ## intelligent-system
 
 

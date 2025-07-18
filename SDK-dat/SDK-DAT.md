@@ -3,7 +3,7 @@
 
 - [[STM32-dat]]
 
-- [[ESP-IDF-dat]]
+- [[ESP-SDK-dat]]
 
 - [[arduino-ide-dat]]
 
