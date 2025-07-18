@@ -17,22 +17,54 @@ the coverage
 ![](2025-07-18-16-33-15.png)
 
 
+### Radar Note 
+
+★如果雷达需要安装外壳，则外壳必须在24GHz频段具有良好的透波特性，且不能含有金属或对电磁波有屏蔽作用的材料：
+
+### Radar Installation & Usage Notes
+
+- If the radar needs to be installed in a housing, make sure the housing allows 24GHz signals to pass through easily. Do not use metal or materials that block electromagnetic waves.
+
+- Install the radar in a suitable environment. Detection may be affected in these cases:
+  - There are moving non-human objects in the sensing area (e.g., animals, moving curtains, large plants near air vents).
+  - There are large, highly reflective surfaces facing the radar antenna (these can cause interference).
+  - For wall-mounted installation, consider interference from air conditioners, fans, or other devices near the ceiling.
+
+#### Installation Tips
+
+- Point the radar antenna directly at the area to be detected, and keep the surroundings open and unobstructed.
+- Make sure the sensor is mounted firmly and stably. Movement or shaking of the radar will affect detection.
+- Avoid movement or vibration behind the radar. Radar waves can penetrate, so the antenna may detect motion behind it. Use a metal shield or backplate to block unwanted signals from the rear.
+- If multiple 24GHz radars are used, do not point their beams directly at each other. Install them far apart to avoid interference.
+- Power supply: Ripple should be minimal (no obvious peaks below 100kHz). This design is for reference only; users should consider ESD and lightning surge protection for electromagnetic compatibility.
+
+### Radar Application 
+
+This product is suitable for various AIoT scenarios, such as smart lighting control, advertising display activation, life safety protection, energy-saving for smart appliances, and security/intrusion detection.
+
+![](2025-07-18-16-46-34.png)
+
 
 ## FMCW Radar 
 
 millimeter wave radar == 毫米波雷达
 
--频率：24G-24.25GHz
--扫频带宽：25OMHz(符合CE/FCC认证标准)
--调制方式：FMCW
--探测角度：±60°
--检测距离：存在&微动5m/运动7m(Typ.)
--距离分辨率：0.15m(Typ.)
--供电电压：3.3V(Typ.)
--外形尺寸：20×20mm
--环境温度：-40C~+85°℃
--数据格式：串口ASCII输出
--接口形式：默认2.54mm×5Pin
+
+### FMCW Radar Specifications
+
+| Parameter             | Value                                             |
+| --------------------- | ------------------------------------------------- |
+| Frequency             | 24G–24.25GHz                                      |
+| Sweep Bandwidth       | 250MHz (CE/FCC compliant)                         |
+| Modulation            | FMCW                                              |
+| Detection Angle       | ±60°                                              |
+| Detection Distance    | Presence & micro-motion: 5m; Motion: 7m (typical) |
+| Distance Resolution   | 0.15m (typical)                                   |
+| Supply Voltage        | 3.3V (typical)                                    |
+| Dimensions            | 20 × 20 mm                                        |
+| Operating Temperature | -40°C ~ +85°C                                     |
+| Data Format           | Serial ASCII output                               |
+| Interface             | Default 2.54mm × 5Pin                             |
 
 
 Here’s a comparison between RCWL and FMCW radar sensors:

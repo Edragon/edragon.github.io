@@ -6,7 +6,7 @@
 
 - [[power-dat]] - [[battery-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-lidar-dat]]
+- [[sensor-motion-dat]] - [[sensor-lidar-dat]] - [[sensor-radar-dat]]
 
 
 

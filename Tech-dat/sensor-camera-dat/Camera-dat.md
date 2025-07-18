@@ -10,7 +10,7 @@
 
 - [[camera-analog-dat]] - [[camera-digital-dat]] - [[camera-action-dat]]
 
-- [[camera-SDK-dat]]
+- [[camera-SDK-dat]] - [[camera-sys-dat]]
 
 ## boards 
 
