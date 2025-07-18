@@ -12,6 +12,8 @@
 
 ## ref 
 
+- [[ESP32-dat]] - [[ESP32-HDK-dat]]
+
 - [[ESP32-S3-SDK-dat]] - [[ESP32-S3-dat]]
 
 - [[ESP-SDK-dat]]

@@ -7,7 +7,7 @@
 
 - [[dns-dat]]
 
-- [[mqtt-dat]]
+- [[mqtt-dat]] - [[mqtt5-dat]]
 
 - [[ICMP-dat]] - [[L2TAP-dat]]
 

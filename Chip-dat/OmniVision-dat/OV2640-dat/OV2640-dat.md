@@ -1,6 +1,8 @@
 
 # OV2640-dat
 
+- [[camera-dat]]
+
 - [[OV2640DS.pdf]]
 
 

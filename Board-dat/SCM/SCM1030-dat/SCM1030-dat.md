@@ -5,7 +5,7 @@
 ## Info 
 
 
-ESP32-CAM WiFi + Bluetooth Camera Module Development Board ESP32 With Camera Module OV2640
+ESP32-CAM WiFi + Bluetooth Camera Module Development Board ESP32 With Camera Module [[OV2640-dat]]
  
  ![](2023-12-04-18-15-59.png)
 
@@ -17,7 +17,7 @@ ESP32-CAM WiFi + Bluetooth Camera Module Development Board ESP32 With Camera Mod
 - Up to 240MHz, up to 600 DMIPS
 - Built-in 520 KB SRAM, external 4M PSRAM
 - Supports interfaces such as UART/SPI/I2C/PWM/ADC/DAC
-- Support OV2640 and OV7670 cameras with built-in flash
+- Support [[OV2640-dat]] and ~~[[OV7670-dat]]~~ cameras with built-in flash
 - Support for images WiFI upload
 -Support TF card
 - Support multiple sleep modes
