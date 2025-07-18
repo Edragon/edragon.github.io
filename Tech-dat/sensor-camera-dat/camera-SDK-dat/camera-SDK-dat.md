@@ -13,6 +13,14 @@
 - https://github.com/ArduCAM/Arduino
 
 
+[[micropython-dat]] - [[script-based-SDK]]
+
+- https://github.com/namato/micropython-ov2640
+
+
+
+
+
 ## dependency
 
 - [[freeRTOS-dat]]

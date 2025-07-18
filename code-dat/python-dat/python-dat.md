@@ -2,6 +2,17 @@
 # python-dat.md
 
 
+## install 
+
+windows 
+
+https://www.python.org/downloads/release/python-3135/
+
+    C:\Users\Administrator>python -V
+    Python 3.13.5
+
+## pi74HC595
+
 pi74HC595-1.2.3-py3-none-any.whl
 
 pip install pi74HC595-1.2.3-py3-none-any.whl

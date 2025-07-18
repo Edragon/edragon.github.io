@@ -1,6 +1,11 @@
 
 # NWI1243-dat
 
+
+[ESP32-S3 Development Board, Dual USB, Wifi + BLE5](https://www.electrodragon.com/product/esp32-s3-development-board-dual-usb-wifi-ble5/)
+
+
+
 ![](2023-11-29-18-54-03.png)
 
 ![](2023-11-29-18-54-26.png)

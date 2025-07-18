@@ -3,8 +3,83 @@
 
 ## python CLI version 
 
-### ESP32C3
-C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\4.2.1/esptool.exe --chip esp32c3 --port COM12 --baud 921600 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size 4MB 0x0 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.bootloader.bin 0x8000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.partitions.bin 0xe000 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6/tools/partitions/boot_app0.bin 0x10000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.bin 
+- [[python-dat]]
+
+
+## install python 3 
+
+  pip3 install esptool
+
+or python2 == pip install esptool
+
+
+
+
+## basic usage 
+
+first erase the entire flash using:
+
+  esptool.py erase_flash
+
+log 
+
+  C:\Users\Administrator>esptool erase_flash
+  Warning: Deprecated: Command 'erase_flash' is deprecated. Use 'erase-flash' instead.
+  esptool v5.0.1
+  Connected to ESP32-S3 on COM3:
+  Chip type:          ESP32-S3 (QFN56) (revision v0.2)
+  Features:           Wi-Fi, BT 5 (LE), Dual Core + LP Core, 240MHz, Embedded PSRAM 8MB (AP_3v3)
+  Crystal frequency:  40MHz
+  USB mode:           USB-Serial/JTAG
+  MAC:                f0:9e:9e:22:1d:d0
+
+  Stub flasher running.
+
+  Flash memory erased successfully in 28.6 seconds.
+
+  Hard resetting via RTS pin...
+
+
+
+esptool.py will try to detect the serial port with the ESP32 automatically, but if this fails or there might be more than one Espressif-based device attached to your computer then pass the --port option with the name of the target serial port. For example:
+
+Flashing
+
+Then deploy the firmware to the board, starting at address 0:
+
+  esptool.py --baud 460800 write_flash 0 ESP32_BOARD_NAME-DATE-VERSION.bin
+  esptool --baud 460800 write_flash 0 ESP32_GENERIC_S3-20250415-v1.25.0.bin
+
+log 
+
+  esptool --baud 460800 write-flash 0 ESP32_GENERIC_S3-20250415-v1.25.0.bin
+  esptool v5.0.1
+  Connected to ESP32-S3 on COM3:
+  Chip type:          ESP32-S3 (QFN56) (revision v0.2)
+  Features:           Wi-Fi, BT 5 (LE), Dual Core + LP Core, 240MHz, Embedded PSRAM 8MB (AP_3v3)
+  Crystal frequency:  40MHz
+  USB mode:           USB-Serial/JTAG
+  MAC:                f0:9e:9e:22:1d:d0
+
+  Stub flasher running.
+  Changing baud rate to 460800...
+  Changed.
+
+  Configuring flash size...
+  Flash will be erased from 0x00000000 to 0x00198fff...
+  Compressed 1673008 bytes to 1096502...
+  Writing at 0x0006b8d1 [====>                         ]  17.9% 196608/1096502 bytes...
+
+Troubleshooting
+
+  If flashing starts and then fails partway through, try removing the --baud 460800 option to flash at the slower default speed.
+
+
+### ESP32C3 log 
+
+  C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\4.2.1/esptool.exe --chip esp32c3 --port COM12 --baud 921600 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size 4MB 0x0 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.bootloader.bin 0x8000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.partitions.bin 0xe000 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.6/tools/partitions/boot_app0.bin 0x10000 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_867944/NWI1119-AP-1.ino.bin 
+
+segmented 
 
 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\4.2.1/
 
