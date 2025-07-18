@@ -12,6 +12,7 @@ from a to z
 
 - [[bosch-dat]]
 
+- [[FTDI-dat]]
 
 - [[analog-device-dat]]
 

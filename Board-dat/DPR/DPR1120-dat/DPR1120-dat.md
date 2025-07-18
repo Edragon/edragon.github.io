@@ -29,6 +29,10 @@ https://www.electrodragon.com/product/usb-to-four-4x-serial-ttl-uart-module-ft42
 
 ## ref 
 
-- [[FT4232-dat]] - [[USB-TTL-dat]]
+- [[FT4232-dat]] [[FTDI-dat]] 
+
+- [[USB-TTL-dat]] - [[serial-dat]]
   
+
+
 - [[ft4232]] - [[DPR1120]]

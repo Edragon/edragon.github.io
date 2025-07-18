@@ -1,7 +1,7 @@
 
 # FTDI-dat.md
 
-- [[FT232-dat]] - [[FT4232-dat]]
+- [[FT232-dat]] 
 
 - [[FT311d-dat]]
 
@@ -19,3 +19,7 @@
 ### App note 
 
 - [[AN_208_FT311D_Demo_APK_User_Guide.pdf]]
+
+## ref 
+
+- [[chip-dat]]
