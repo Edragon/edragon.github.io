@@ -1,4 +1,4 @@
-  # Launch Gollum using a specific git adapter. See https://github.com/gollum/gollum/wiki/Git-adapters
+# Launch Gollum using a specific git adapter. See https://github.com/gollum/gollum/wiki/Git-adapters
   # Default: rugged
   #
   # Equivalent to --adapter [ADAPTER]
@@ -344,3 +344,88 @@
   #Precious::App.set(:default_markup, :asciidoc)
 
   Precious::App.set(:wiki_options, wiki_options)
+
+# EMERGENCY MEMORY OPTIMIZATION for 2GB systems
+
+# Force aggressive garbage collection
+class MemoryManager
+  def self.setup
+    # Force GC every 50 requests
+    @request_count = 0
+    
+    # Hook into Rack to trigger GC
+    Rack::Builder.new do |builder|
+      builder.use Rack::Runtime
+      builder.use Class.new do
+        def initialize(app)
+          @app = app
+        end
+        
+        def call(env)
+          @request_count = (@request_count || 0) + 1
+          
+          # Force GC every 50 requests
+          if @request_count % 50 == 0
+            GC.start(full_mark: true)
+            @request_count = 0
+          end
+          
+          @app.call(env)
+        end
+      end
+    end
+  end
+end
+
+MemoryManager.setup
+
+# Extremely aggressive GC thread
+Thread.new do
+  loop do
+    sleep 120  # Every 2 minutes
+    GC.start(full_mark: true)
+    GC.compact if GC.respond_to?(:compact)
+  end
+end
+
+# Limit search results drastically
+Gollum::Page.class_eval do
+  def self.search(repo, query, path = nil)
+    results = super(repo, query, path)
+    results.take(20)  # Only 20 results max
+  end
+end
+
+# Memory-efficient Git configuration
+ENV['GIT_PAGER'] = ''
+ENV['GIT_EDITOR'] = 'true'
+ENV['GIT_CONFIG_NOSYSTEM'] = '1'
+ENV['GIT_CONFIG_GLOBAL'] = '/dev/null'
+
+# Use rugged adapter
+module Gollum
+  Gollum::GIT_ADAPTER = "rugged"
+end
+
+wiki_options = {
+  h1_title: true,
+  hyphened_tag_lookup: true,
+  case_insensitive_tag_lookup: true,
+  global_tag_lookup: true,
+  allow_editing: false,
+  template_dir: '/root/edragon.github.io/gollum',
+  
+  # EXTREME memory conservation
+  pagination_count: 5,  # Reduced from 10
+  follow_renames: false,
+  display_metadata: false,
+  cache_enabled: false,  # Disable caching to save memory
+  
+  # Disable expensive features
+  emoji: false,
+  mathjax: false,
+  css: false,
+  js: false
+}
+
+Precious::App.set(:wiki_options, wiki_options)
