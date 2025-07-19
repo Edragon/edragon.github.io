@@ -1,7 +1,56 @@
-# Launch Gollum using a specific git adapter. See https://github.com/gollum/gollum/wiki/Git-adapters
+  # Launch Gollum using a specific git adapter. See https://github.com/gollum/gollum/wiki/Git-adapters
   # Default: rugged
   #
   # Equivalent to --adapter [ADAPTER]
+
+  # Memory optimization settings
+  Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
+    # Minimal post-commit hook to avoid memory leaks
+    GC.start
+  end
+
+  # Configure rack middleware for performance
+  use Rack::Deflater
+  use Rack::ConditionalGet
+  use Rack::ETag
+
+  # Set cache headers for better performance
+  class CacheHeaders
+    def initialize(app)
+      @app = app
+    end
+
+    def call(env)
+      status, headers, body = @app.call(env)
+      
+      # Add cache headers for static assets
+      if env['PATH_INFO'] =~ /\.(css|js|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot)$/
+        headers['Cache-Control'] = 'public, max-age=86400'
+      elsif env['PATH_INFO'] =~ /^\/gollum\/search/
+        headers['Cache-Control'] = 'public, max-age=300'
+      else
+        headers['Cache-Control'] = 'public, max-age=60'
+      end
+      
+      [status, headers, body]
+    end
+  end
+
+  use CacheHeaders
+
+  # Memory-conscious search configuration
+  Gollum::Page.class_eval do
+    # Limit search results to prevent memory issues
+    def self.search(repo, query, path = nil)
+      results = super(repo, query, path)
+      # Limit to first 50 results to prevent memory issues
+      results.take(50)
+    end
+  end
+
+  # Configure Git to be memory efficient
+  ENV['GIT_PAGER'] = ''
+  ENV['GIT_EDITOR'] = 'true'
 
   module Gollum
     # to require 'my_adapter':
@@ -139,7 +188,7 @@
     #
     # Equivalent to --no-display-metadata
 
-    display_metadata: true,
+    #display_metadata: false,
 
     #-----------------------------------------------------------------------------
     # Disable the feature of editing pages.
@@ -200,7 +249,7 @@
     #
     # Equivalent to --template-dir [PATH]
 
-    template_dir: '/root/edragon.github.io/gollum/templates',
+    template_dir: '/root/edragon.github.io/gollum',
 
     #-----------------------------------------------------------------------------
     # Use _Template in root as a template for new pages. Must be committed.
@@ -233,9 +282,9 @@
     #-----------------------------------------------------------------------------
     # Global metadata. Arbitrary metadata that will be applied to each page.
 
-    # metadata: {
-    #   electrodragon: 'https://www.electrodragon.com'
-    # },
+    #metadata: {
+    #  monkeyboys: 'are loose in the facility'
+    #},
 
     ##############################################################################
     # Tips
@@ -263,12 +312,11 @@
     #-----------------------------------------------------------------------------
     # Change the number of changes in the rss feed
 
-    pagination_count: 15,
-
+    pagination_count: 15
   }
 
-  Precious::App.set(:wiki_options, wiki_options)
+  #-------------------------------------------------------------------------------
+  # Change default markup
+  #Precious::App.set(:default_markup, :asciidoc)
 
-  Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
-    # Any post-commit hooks if needed
-  end
+  Precious::App.set(:wiki_options, wiki_options)
