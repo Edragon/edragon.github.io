@@ -5,6 +5,13 @@
 
 # EMERGENCY MEMORY OPTIMIZATION for 2GB systems
 
+# Additional Ruby memory optimizations
+GC.start(full_mark: true)  # Start with clean slate
+ObjectSpace.garbage_collect if defined?(ObjectSpace.garbage_collect)
+
+# Configure Ruby GC to be more aggressive
+GC::Profiler.enable if defined?(GC::Profiler)
+
 # Enhanced memory optimization settings
 Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
   # Force garbage collection after commits to prevent memory leaks
@@ -19,7 +26,7 @@ use Rack::ConditionalGet
 use Rack::ETag
 # Remove Deflater as nginx handles compression
 
-# Force aggressive garbage collection every 20 requests
+# Force aggressive garbage collection every 10 requests (reduced from 20)
 class MemoryManager
   @@request_count = 0
   
@@ -30,11 +37,16 @@ class MemoryManager
   def call(env)
     @@request_count += 1
     
-    # Force GC every 20 requests for extreme memory control
-    if @@request_count % 20 == 0
+    # Force GC every 10 requests for extreme memory control (more frequent)
+    if @@request_count % 10 == 0
       GC.start(full_mark: true)
       GC.compact if GC.respond_to?(:compact)
       @@request_count = 0
+    end
+    
+    # Emergency memory check - force GC if memory usage is too high
+    if @@request_count % 5 == 0
+      GC.start
     end
     
     @app.call(env)
@@ -43,12 +55,20 @@ end
 
 use MemoryManager
 
-# Extremely aggressive GC thread
+# More aggressive GC thread with memory monitoring
 Thread.new do
   loop do
-    sleep 60  # Every 1 minute
+    sleep 30  # Every 30 seconds (more frequent)
     GC.start(full_mark: true)
     GC.compact if GC.respond_to?(:compact)
+    
+    # Force additional cleanup every 3rd cycle
+    @gc_cycle_count = (@gc_cycle_count || 0) + 1
+    if @gc_cycle_count % 3 == 0
+      # Clear any cached objects
+      ObjectSpace.garbage_collect
+      @gc_cycle_count = 0
+    end
   end
 end
 
@@ -56,7 +76,15 @@ end
 Gollum::Page.class_eval do
   def self.search(repo, query, path = nil)
     results = super(repo, query, path)
-    results.take(15)  # Only 15 results max
+    results.take(10)  # Reduced to only 10 results max
+  end
+end
+
+# Limit file list results to prevent memory issues
+Gollum::Wiki.class_eval do
+  def pages(treeish = nil, limit = nil)
+    limit ||= 50  # Hard limit of 50 pages per request
+    super(treeish, limit)
   end
 end
 
@@ -74,14 +102,14 @@ end
   wiki_options = {
     # Basic settings
     h1_title: true,
-    hyphened_tag_lookup: true,
-    case_insensitive_tag_lookup: true,
-    global_tag_lookup: true,
+    hyphened_tag_lookup: false,  # Disabled for memory saving
+    case_insensitive_tag_lookup: false,  # Disabled for memory saving
+    global_tag_lookup: false,  # Disabled for memory saving
     allow_editing: false,
     template_dir: '/root/edragon.github.io/gollum',
     
     # EXTREME memory conservation settings
-    pagination_count: 5,  # Very small pagination
+    pagination_count: 3,  # Reduced from 5 to 3
     follow_renames: false,
     display_metadata: false,
     cache_enabled: false,  # Disable caching to save memory
@@ -91,7 +119,12 @@ end
     mathjax: false,
     css: false,
     js: false,
-    critic_markup: false
+    critic_markup: false,
+    
+    # Additional memory-saving options
+    show_all: false,
+    live_preview: false,
+    allow_uploads: false
   }
 
   #-------------------------------------------------------------------------------
