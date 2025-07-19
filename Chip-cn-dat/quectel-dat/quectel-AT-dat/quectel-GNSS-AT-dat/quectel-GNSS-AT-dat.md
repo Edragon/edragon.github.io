@@ -2,6 +2,8 @@
 
 ## AT+QGNSSC GNSS Module Power Control
 
+- [[quectel-SSCOM-AT-GNSS-dat]]
+
 - [[quectel-CME-error-code-dat]]
 
 ## 3.1. Turn On and Off the GNSS Engine

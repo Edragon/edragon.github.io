@@ -2,11 +2,13 @@
 ## quectel AT 
 
 
-- [[quectel-at-sscom-dat.exe]]
+- [[quectel-GNSS-AT-dat]] - [[quectel-SSCOM-AT-GNSS-dat]]
+
+- [[quectel-SSCOM-at-basic-dat]]
 
 
 
-legacy wiki page - https://w.electrodragon.com/w/Category:Quectel_AT
+[legacy wiki page](https://w.electrodragon.com/w/Category:Quectel_AT)
 
 | CMD | enquiry or notification | Set enable | feedback       | description             | CN                                      |
 | --- | ----------------------- | ---------- | -------------- | ----------------------- | --------------------------------------- |

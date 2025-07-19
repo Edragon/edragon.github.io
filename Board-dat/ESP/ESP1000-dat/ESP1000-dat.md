@@ -89,6 +89,8 @@ solar charge and battery function please refer to [[BAT1002-dat]]
 
 ## Demo Code 
 
+- [[camera-SDK-dat]]
+
 - BSP/ESP/ESP1000-ESP32-tori @ https://github.com/Edragon/Arduino-ESP32
 
 code test: 
