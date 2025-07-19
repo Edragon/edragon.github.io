@@ -3,16 +3,19 @@
   #
   # Equivalent to --adapter [ADAPTER]
 
-  # Memory optimization settings
+  # Enhanced memory optimization settings
   Gollum::Hook.register(:post_commit, :hook_id) do |committer, sha1|
-    # Minimal post-commit hook to avoid memory leaks
+    # Force garbage collection after commits to prevent memory leaks
     GC.start
+    # Also run full GC every 10 commits
+    @commit_counter = (@commit_counter || 0) + 1
+    GC.start(full_mark: true) if @commit_counter % 10 == 0
   end
 
-  # Configure rack middleware for performance
-  use Rack::Deflater
+  # Memory-efficient middleware configuration
   use Rack::ConditionalGet
   use Rack::ETag
+  # Remove Deflater as nginx handles compression
 
   # Set cache headers for better performance
   class CacheHeaders
@@ -38,23 +41,33 @@
 
   use CacheHeaders
 
-  # Memory-conscious search configuration - increased limits for better performance
+  # Memory-conscious search configuration - reduced limits for better memory management
   Gollum::Page.class_eval do
-    # Limit search results - increased from 50 to 200 for better user experience
+    # Limit search results to 50 for better memory usage
     def self.search(repo, query, path = nil)
       results = super(repo, query, path)
-      # Limit to first 200 results to balance performance and functionality
-      results.take(200)
+      # Limit to first 50 results to reduce memory usage
+      results.take(50)
+    end
+  end
+
+  # Add periodic garbage collection for long-running processes
+  Thread.new do
+    loop do
+      sleep 300  # Every 5 minutes
+      GC.start(full_mark: true)
     end
   end
 
   # Configure Git to be memory efficient
   ENV['GIT_PAGER'] = ''
   ENV['GIT_EDITOR'] = 'true'
+  ENV['GIT_CONFIG_NOSYSTEM'] = '1'  # Skip system git config
+  ENV['GIT_CONFIG_GLOBAL'] = '/dev/null'  # Skip global git config
 
+  # Use rugged adapter for better memory management
   module Gollum
-    # to require 'my_adapter':
-    Gollum::GIT_ADAPTER = "my"
+    Gollum::GIT_ADAPTER = "rugged"
   end
 
   wiki_options = {
@@ -311,8 +324,19 @@
 
     #-----------------------------------------------------------------------------
     # Change the number of changes in the rss feed
+    # Reduced for memory efficiency
 
-    pagination_count: 50
+    pagination_count: 10,
+    
+    #-----------------------------------------------------------------------------
+    # Additional memory optimization settings
+    
+    # Disable features that consume memory
+    follow_renames: false,
+    display_metadata: false,
+    
+    # Enable memory-efficient caching
+    cache_enabled: true
   }
 
   #-------------------------------------------------------------------------------
