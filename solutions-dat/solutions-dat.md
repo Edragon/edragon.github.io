@@ -1,6 +1,9 @@
 
 # solutions-dat.md
 
+- [[system-dat]] - [[oepnsource-dat]]
+
+
 ## break by - [[meshtastic-dat]]
 
 - [[NRF52840+SX1262-dat]]
@@ -11,6 +14,10 @@
 - [[ESP32+SX1278-dat]]
 
 - [[ESP32+SX1262-dat]]
+
+## break by [[ESP32-S3-dat]]
+
+- [[ESP32-S3-app-dat]]
 
 ## M2M 
 

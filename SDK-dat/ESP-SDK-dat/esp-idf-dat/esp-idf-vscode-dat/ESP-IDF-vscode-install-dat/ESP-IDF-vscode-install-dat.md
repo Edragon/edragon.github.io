@@ -1,5 +1,6 @@
 
-### VS extension install 
+# ESP-IDF-vscode-install-dat
+
 configure esp-idf extension
 
 ![](41-25-15-19-12-2022.png)
@@ -16,7 +17,9 @@ https://github.com/espressif/vscode-esp-idf-extension
 
 
 
+## ref 
 
+- [[ESP-IDF-dat]]
 
 
 

@@ -6,6 +6,11 @@
 - [[AC-isolation-dat]] - [[everlight-dat]] - [[EL357-dat]]
 
 
+## brands 
+
+- [[broadcom-dat]] - [[sharp-dat]] - [[liteon-dat]] - [[renesas-dat]] - [[Toshiba-dat]] - [[vishay-dat]]
+
+- CPC5902G == Logic Output Optocouplers Dual Opto Isolated I2C Bus Repeater
 
 ## PC817 vs EL357 
 

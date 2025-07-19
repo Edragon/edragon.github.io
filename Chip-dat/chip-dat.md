@@ -10,11 +10,15 @@ from a to z
 
 - [[allegro-dat]]: [[ACS712-dat]]
 
+- [[analog-device-dat]]
+
 - [[bosch-dat]]
 
 - [[FTDI-dat]]
 
 - [[analog-device-dat]]
+
+- [[NVE-dat]]
 
 - [[microchip-dat]] 
 
@@ -37,6 +41,8 @@ from a to z
 [[realtek-dat]] - [[RTL8211-dat]]
 
 [[richtek-dat]]
+
+- [[Renesas-dat]]
 
 - [[ST-dat]] - [[STM32-dat]] - [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
 

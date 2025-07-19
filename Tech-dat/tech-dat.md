@@ -179,7 +179,7 @@
 
 - [[control-system-dat]]
 
-- [[opensource-dat]]
+- [[opensource-dat]] - [[flipper-zero-dat]] - [[openpnp-dat]] - [[ardupilot-dat]] - [[meshtastic-dat]] - [[home-assistant-dat]]
 
 - [[solutions-dat]]
 
