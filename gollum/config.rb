@@ -38,13 +38,13 @@
 
   use CacheHeaders
 
-  # Memory-conscious search configuration
+  # Memory-conscious search configuration - increased limits for better performance
   Gollum::Page.class_eval do
-    # Limit search results to prevent memory issues
+    # Limit search results - increased from 50 to 200 for better user experience
     def self.search(repo, query, path = nil)
       results = super(repo, query, path)
-      # Limit to first 50 results to prevent memory issues
-      results.take(50)
+      # Limit to first 200 results to balance performance and functionality
+      results.take(200)
     end
   end
 
@@ -312,7 +312,7 @@
     #-----------------------------------------------------------------------------
     # Change the number of changes in the rss feed
 
-    pagination_count: 15
+    pagination_count: 50
   }
 
   #-------------------------------------------------------------------------------
