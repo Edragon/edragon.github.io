@@ -30,7 +30,7 @@ wiki_options = {
   
   # Git optimizations
   # repo_is_bare: false,
-  # ref: 'main'               # Use specific branch instead of scanning all
+  ref: 'master'               # Use specific branch instead of scanning all
 }
 
 Precious::App.set(:wiki_options, wiki_options)
