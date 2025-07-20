@@ -31,6 +31,7 @@
 
 - [[avr-dat]]
 
+- [[camera-sdk-dat]] - [[display-sdk-dat]]
 
 
 ## ref 
