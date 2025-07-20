@@ -21,16 +21,16 @@ wiki_options = {
   template_dir: '/root/edragon.github.io/gollum/templates',
   
   # Performance optimizations
-  show_all: false,           # Don't show all files by default
-  collapse_tree: false,      # Don't expand tree by default
-  per_page_limit: 10,        # Limit files per page
-  history_limit: 20,         # Limit history entries
-  mathjax: false,           # Disable MathJax if not needed
-  live_preview: false,      # Disable live preview
+  # show_all: false,           # Don't show all files by default
+  # collapse_tree: false,      # Don't expand tree by default
+  # per_page_limit: 10,        # Limit files per page
+  # history_limit: 20,         # Limit history entries
+  # mathjax: false,           # Disable MathJax if not needed
+  # live_preview: false,      # Disable live preview
   
   # Git optimizations
-  repo_is_bare: false,
-  ref: 'main'               # Use specific branch instead of scanning all
+  # repo_is_bare: false,
+  # ref: 'main'               # Use specific branch instead of scanning all
 }
 
 Precious::App.set(:wiki_options, wiki_options)
