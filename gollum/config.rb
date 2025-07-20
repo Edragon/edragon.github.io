@@ -18,7 +18,7 @@ wiki_options = {
   #case_insensitive_tag_lookup: true,
   global_tag_lookup: true,
   pagination_count: 5,
-  template_dir: '/root/edragon.github.io/gollum/templates',
+  template_dir: '/var/edragon.github.io/gollum/templates',
   
   # Performance optimizations
   # show_all: false,           # Don't show all files by default
