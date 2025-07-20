@@ -17,6 +17,7 @@ wiki_options = {
   hyphened_tag_lookup: true,
   #case_insensitive_tag_lookup: true,
   global_tag_lookup: true,
+  pagination_count: 5,
   template_dir: '/root/edragon.github.io/gollum'
 
 }
