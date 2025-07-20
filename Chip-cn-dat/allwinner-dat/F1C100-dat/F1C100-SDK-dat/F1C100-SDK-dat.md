@@ -9,7 +9,7 @@
 
 system 
 
-- [[Linux-dat]]、[[RT-Thread-dat]] (CN)、[[Xboot-dat]] (CN)
+- [[code-dat/linux-dat/linux-dat]]、[[RT-Thread-dat]] (CN)、[[Xboot-dat]] (CN)
 
 use 
 
@@ -91,9 +91,9 @@ build
 
 including 
 - [[uboot-dat]] file
-- [[linux-dat]] DTB file
-- [[linux-dat]] kernel file
-- [[linux-dat]] modules file
+- [[code-dat/linux-dat/linux-dat]] DTB file
+- [[code-dat/linux-dat/linux-dat]] kernel file
+- [[code-dat/linux-dat/linux-dat]] modules file
 - [[buildroot-dat]] rootfs file
 
 

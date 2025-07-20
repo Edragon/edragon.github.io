@@ -19,7 +19,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
   
-- [[Tech-DAT]] - [[app-dat]] - [[SDK-DAT]] 
+- [[Tech-DAT]] - [[app-dat]] - [[SDK-DAT]] - [[circuits-dat]] - [[PCB-dat]] - [[PCBA-dat]] - [[tools-dat]]
   
 - [[mechanics-dat]] - [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] 
 
