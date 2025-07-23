@@ -4,7 +4,7 @@
 
 ## software 
 
-- [[ESP-SDK-dat]] - [[arduino-ESP32-dat]]
+- [[ESP-SDK-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]] - [[arduino-ESP32-dat]]
 
 - [[ESP32-FAQ]]
 

@@ -12,6 +12,8 @@ from a to z
 
 - [[analog-device-dat]]
 
+- [[AMD-dat]]
+
 - [[bosch-dat]]
 
 - [[FTDI-dat]]
