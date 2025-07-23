@@ -6,10 +6,12 @@
 
 
 
-- [[SIM7028-dat]] - [[SIM7020-dat]]
+- [[SIM7028-dat]] 
 
 - [[SIMCOM-AT-dat]]
 
 ## ref 
+
+- [[SIM7020-dat]]
 
 - [[NGS1135]]
