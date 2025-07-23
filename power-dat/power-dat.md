@@ -9,6 +9,7 @@
 
 - [[battery-dat]] - [[lithium-battery-dat]]- [[BMS-dat]]
 
+- [[battery-pack-dat]]
 
 ## workflow
 

@@ -16,6 +16,8 @@
 - [[shipment-dat]] - [[service-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
+
+- [[power-dat]]
   
 - [[Tech-DAT]] - [[app-dat]] - [[SDK-DAT]] - [[circuits-dat]] - [[PCB-dat]] - [[PCBA-dat]] - [[tools-dat]]
   

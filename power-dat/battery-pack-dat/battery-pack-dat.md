@@ -124,6 +124,15 @@ How it ruins other paralleled batteries:
 - Upgrade from 2200mAh to 5000mAh for more endurance
 
 
+## reference images 
+
+![](2025-07-23-19-30-54.png)
+
+![](2025-07-23-19-31-29.png)
+
+![](2025-07-23-19-32-19.png)
+
+![](2025-07-23-19-32-32.png)
 
 
 

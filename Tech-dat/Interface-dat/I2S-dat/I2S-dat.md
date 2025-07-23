@@ -11,7 +11,9 @@ One of the key features of I2S interfaces is their ability to support full-duple
 
 This makes I2S a popular choice for high-speed data transfer applications.
 
-- [[I2S-microphone-dat]]
+- [[I2S-microphone-dat]] - [[I2S-speaker-dat]]
+
+- [[everest-semi-dat]]
 
 ## Pin 
 

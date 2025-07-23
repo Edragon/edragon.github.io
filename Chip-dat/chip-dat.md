@@ -36,6 +36,8 @@ from a to z
 
 - [[fairchild-dat]] 
 
+- [[MPS-dat]]
+
 - [[NXP-dat]] - [[PCA9685-dat]]
 
 - [[nordic-dat]] - [[nrf52840-dat]] - [[nrf52840-mod-dat]]
@@ -59,8 +61,6 @@ from a to z
 - [[semtech-dat]] - [[SX1262-dat]] - [[sx1278-dat]] - [[LLCC68-dat]]
 
 - [[FTDI-dat]]
-
-- [[MPS-dat]]
 
 
 

@@ -34,6 +34,25 @@ MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated 
 | MP4462 | 36V | 3.5A  |       |
 | MP2482 | 24V | 5A    |       |
 
+## MP3202 
+
+1.3A Fixed Frequency White LED Driver
+
+
+###  FEATURES
+• 2.5V to 6V Input Voltage Range
+• On Board Power MOSFET
+• Drives up to 39 White LEDs at 5V Input
+• Up to 92% Efficiency
+• Over 1MHz Fixed Switching Frequency
+• Open Load Shutdown
+• Low 104mV Feedback Voltage
+• Soft-Start/PWM Dimming
+• UVLO, Thermal Shutdown
+• Internal 1.3A Current Limit
+• Available in TSOT23-6 and QFN8 Packages
+
+
 
 ## DCDC-bulk 
 
