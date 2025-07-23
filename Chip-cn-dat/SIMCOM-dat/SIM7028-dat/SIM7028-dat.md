@@ -12,6 +12,8 @@ It is designed for applications that need low latency, Low throughput datacommun
 
 - [[SIM7028-dat]] will be a successor of module [[SIM7020-dat]]
 
+based on [[qualcomm-dat]] - [[A212-dat]] platform
+
 
 ## Product advantages
 
@@ -72,20 +74,20 @@ compare to [[SIM7020-dat]]
 - USB in progress, early version 
 - extra IO_1833_sel
 
-| **Feature**                | **SIM7028**                                                                 | **SIM7020**                                                |
-|----------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
-| **Network Support**        | LTE Cat M1 (eMTC), LTE Cat NB2 (NB-IoT), EGPRS (2G fallback)              | LTE Cat NB1 (NB-IoT), LTE Cat NB2 (NB-IoT)                |
-| **2G Support**             | Yes                                                                      | No                                                        |
-| **Maximum Uplink Speed**   | - LTE Cat M1: **375 kbps**<br>- LTE Cat NB2: **127 kbps**<br>- EGPRS: **85.6 kbps** | - LTE Cat NB1: **62.5 kbps**<br>- LTE Cat NB2: **62.5 kbps** |
-| **Maximum Downlink Speed** | - LTE Cat M1: **375 kbps**<br>- LTE Cat NB2: **158 kbps**<br>- EGPRS: **85.6 kbps** | - LTE Cat NB1: **27.2 kbps**<br>- LTE Cat NB2: **27.2 kbps** |
-| **Power Consumption**      | Moderate (higher due to Cat M1 and 2G)                                    | Very low (optimized for NB-IoT applications)              |
-| **Best Use Cases**         | - Asset tracking<br>- Wearables<br>- Smart metering                     | - Smart agriculture<br>- Environmental monitoring<br>- Basic sensors |
-| **Cost**                   | Higher (due to wider network support)                                     | Lower (optimized for cost-sensitive IoT applications)     |
-| **Module Size**            | Similar form factor for both modules                                     | Similar form factor for both modules                      |
-| **Physical Interfaces**    | UART, I2C, GPIOs                                                         | UART, I2C, GPIOs                                          |
-| **AT Command Compatibility** | Yes (standard SIMCom AT commands)                                       | Yes (standard SIMCom AT commands)                        |
-| **Market Availability**    | More expensive but offers broader coverage                               | Lower cost and tailored for NB-IoT-only markets           |
-| **Data Rate Comparison**   | Higher data rates (Cat M1 and 2G support)                                | Lower data rates (NB-IoT only)                            |
+| **Feature**                  | **SIM7028**                                                                         | **SIM7020**                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Network Support**          | LTE Cat M1 (eMTC), LTE Cat NB2 (NB-IoT), EGPRS (2G fallback)                        | LTE Cat NB1 (NB-IoT), LTE Cat NB2 (NB-IoT)                           |
+| **2G Support**               | Yes                                                                                 | No                                                                   |
+| **Maximum Uplink Speed**     | - LTE Cat M1: **375 kbps**<br>- LTE Cat NB2: **127 kbps**<br>- EGPRS: **85.6 kbps** | - LTE Cat NB1: **62.5 kbps**<br>- LTE Cat NB2: **62.5 kbps**         |
+| **Maximum Downlink Speed**   | - LTE Cat M1: **375 kbps**<br>- LTE Cat NB2: **158 kbps**<br>- EGPRS: **85.6 kbps** | - LTE Cat NB1: **27.2 kbps**<br>- LTE Cat NB2: **27.2 kbps**         |
+| **Power Consumption**        | Moderate (higher due to Cat M1 and 2G)                                              | Very low (optimized for NB-IoT applications)                         |
+| **Best Use Cases**           | - Asset tracking<br>- Wearables<br>- Smart metering                                 | - Smart agriculture<br>- Environmental monitoring<br>- Basic sensors |
+| **Cost**                     | Higher (due to wider network support)                                               | Lower (optimized for cost-sensitive IoT applications)                |
+| **Module Size**              | Similar form factor for both modules                                                | Similar form factor for both modules                                 |
+| **Physical Interfaces**      | UART, I2C, GPIOs                                                                    | UART, I2C, GPIOs                                                     |
+| **AT Command Compatibility** | Yes (standard SIMCom AT commands)                                                   | Yes (standard SIMCom AT commands)                                    |
+| **Market Availability**      | More expensive but offers broader coverage                                          | Lower cost and tailored for NB-IoT-only markets                      |
+| **Data Rate Comparison**     | Higher data rates (Cat M1 and 2G support)                                           | Lower data rates (NB-IoT only)                                       |
 
 ![](2025-01-18-14-40-49.png)
 
