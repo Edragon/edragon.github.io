@@ -3,6 +3,7 @@
 
 - [[Cirrus]]
 
+- [[adc-dat]] - [[i2s-dat]]
 
 ## CS4344 
 
@@ -40,7 +41,17 @@ As far as I know esp32 can only generate MCLK on GPIO0:
 Define CONFIG_I2S_BCK_PIN CONFIG_I2S_LRCK_PIN CONFIG_I2S_DATA_PIN as your connected GPIO pins. Connect CS4344 MCLK to IO0. It should work that way, at least it works perfectly for me.
 
 
+## CS5532 
 
+16/24-Bit A/D Converters with Ultra-Low-Noise PGIA
+
+The CS5531/32/33/34 family of highly integrated, Delta Sigma analog-to-digital (A/D) converters use charge-balance techniques to achieve 16-bit (CS5531/33) and 24-bit (CS5532/34) performance. 
+
+The A/D converters are optimized for measuring low-level unipolar or bipolar signals in weigh scale, process control, scientific and medical applications. To accommodate these applications, the A/D converters come as 2-channel (CS5531/32) or 4-channel (CS5533/34) devices and include a very low noise, chopper-stabilized instrumentation amplifier (6 nV/√Hz at 0.1 Hz) with selectable gains of 1x, 2x, 4x, 8x, 16x, 32x and 64x. 
+
+These A/D converters also include a fourth-order Delta Sigma modulator followed by a digital filter, which provides 20 selectable-output word rates of 6.25, 7.5, 12.5, 15, 25, 30, 50, 60, 100, 120, 200, 240, 400, 480, 800, 960, 1600, 1920, 3200 and 3840 samples per second (SPS) (MCLK = 4.9152 MHz). To communicate with a microcontroller, the converters include a simple, 3-wire serial interface (SPI and Microwire compatible) with a Schmitt Trigger input (SCLK). 
+
+High dynamic range, programmable output rates, and flexible power supply options make these A/D converters ideal solutions for weigh scale and process control applications.
 
 ## ref 
 

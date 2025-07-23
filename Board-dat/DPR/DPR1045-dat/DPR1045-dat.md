@@ -86,5 +86,7 @@ blink PB3 == 3
 
 ## ref 
 
+- [[DPR1045]] - [[board]]
+
 - [[arduino-as-ISP-dat]]
 - [[attiny-dat]]

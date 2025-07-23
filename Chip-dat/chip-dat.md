@@ -18,13 +18,17 @@ from a to z
 
 - [[analog-device-dat]]
 
+- [[IXYS-dat]]
+
+- [[linear-technology-dat]]
+
 - [[NVE-dat]]
 
 - [[microchip-dat]] 
 
 - [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] - [[attiny-dat]]
 
-- [[PIC-dat]]
+
 
 [[MCU-dat]] - [[STC-dat]] - [[nuvoton-dat]]
 
@@ -36,11 +40,15 @@ from a to z
 
 - [[omniVision-dat]]
 
+- [[PIC-dat]]
+
 [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]]
 
 [[realtek-dat]] - [[RTL8211-dat]]
 
 [[richtek-dat]]
+
+- [[raspberry-pi-dat]]
 
 - [[Renesas-dat]]
 
@@ -52,7 +60,7 @@ from a to z
 
 - [[MPS-dat]]
 
-- [[raspberry-pi-dat]]
+
 
 - [[InvenSense-dat]]
 

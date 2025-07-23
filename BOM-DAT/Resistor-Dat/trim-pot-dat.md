@@ -1,5 +1,5 @@
 
-# trim pot dat 
+# trim-pot-dat 
 
 ## Potentiometer, trim-pot 
 
@@ -18,6 +18,19 @@
 - https://www.electrodragon.com/product/5pcs-rotary-encoder/
 
 
+## factory seetings 
+
+2. Factory Setting (Default Wiper Position)
+
+From the factory, the wiper is typically set to the midpoint, so for a 10k potentiometer, it may be close to 5kΩ between the wiper and one end.
+
+However, this is not guaranteed, and you should always calibrate or measure the actual resistance before use in sensitive circuits.
+
+
+
+## ref 
+
+- [[SSL1027-dat]]
 
 - [[encoder-dat]]
 
