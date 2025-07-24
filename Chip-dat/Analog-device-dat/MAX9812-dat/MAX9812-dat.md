@@ -1,7 +1,7 @@
 
 # MAX9812-dat
 
-
+- [[analog-device-dat]]
 
 Tiny, Low-Cost, Single/Dual-Input, Fixed-Gain Microphone Amplifiers with Integrated Bias
 

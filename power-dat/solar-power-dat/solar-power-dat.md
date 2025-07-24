@@ -3,7 +3,7 @@
 
 app - [[power-storage-dat]]
 
-
+relevant - [[generator-dat]]
 
 ## direction protection diodes
 
@@ -20,7 +20,15 @@ app - [[power-storage-dat]]
 
 - [[OPM1146-dat]] - [[BAT1002-dat]]
 
+## solar panel 
 
+- [[OPS1009-dat]]
+
+## tech 
+
+- [[MPPT-dat]]
+
+- [[solar-charge-controller-dat]]
 
 ## ref 
 

@@ -4,7 +4,7 @@
 
 - [[OPS1009-dat]]
 
-
+- [[MPPT-dat]] - [[solar-charge-controller-dat]]
 
 #### 1. Solar Panels
 
@@ -73,18 +73,22 @@ This allows good sunlight absorption while keeping the solar panel lightweight (
 
 ![](2024-01-16-18-26-15.png)
 
+other lamination 
+
+![](2025-07-24-15-05-46.png)
+
 ### PROCESS:
 
 The PET laminated solar panel is made by placing layers of PET, EVA, solar cell and PCB together. They are then laminated by machine at a temperature of 135 degrees Celcius which will melt the encapsulating materials together to form a watertight bond.
 
 #### HIGHLIGHTS:
 
-High clarity
-UV resistant
-Humidity resistant
-Good scratch resistant
-Consistent textured surface
-Attractive appearance
+- High clarity
+- UV resistant
+- Humidity resistant
+- Good scratch resistant
+- Consistent textured surface
+- Attractive appearance
 
 ### APPLICATIONS:
 
@@ -106,6 +110,19 @@ This can happen when some solar cells are shaded or not working properly, causin
 To prevent this, bypass diodes are used. These diodes allow the electricity to flow around the underperforming cells, protecting the panel. Typically, one bypass diode is used for every twenty solar cells.
 
 
+
+## installation 
+
+on the window of the car
+
+![](2025-07-24-14-54-44.png)
+
+on the top of the car 
+
+![](2025-07-24-14-56-15.png)
+
 ## ref 
+
+- [[conn-dat]]
 
 - [[solar-panel]]
