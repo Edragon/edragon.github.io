@@ -11,7 +11,7 @@
 
 ## UV light sensor 
 
-- [[STH1024-dat]]
+- [[STH1024-dat]] - [[STH1023-dat]]
 
 
 

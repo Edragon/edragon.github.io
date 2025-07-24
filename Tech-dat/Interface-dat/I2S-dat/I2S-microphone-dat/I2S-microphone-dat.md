@@ -116,4 +116,6 @@ LGA8
 
 ## ref 
 
+- [[sensor-microphone-dat]]
+
 - [[I2S-dat]] - [[I2S-microphone]] - [[I2S]]

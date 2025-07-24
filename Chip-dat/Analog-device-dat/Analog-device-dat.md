@@ -26,6 +26,8 @@ The first notch of this digital filter can be programmed via the on-chip control
 
 - [[MAX232-dat]] == MAX232CPE+
 
+- [[max9813-dat]] - [[MAX9812-dat]]
+
 
 
 

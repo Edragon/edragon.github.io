@@ -6,6 +6,9 @@
 
 [product url - ML8511 UV Ultraviolet Light Sensor Breakout Board](https://www.electrodragon.com/product/ml8511-uv-sensor-breakout-board-analog/)
 
+
+- [[ML8511-dat]] -  [[VEML6070-dat]]
+
 ## Specs 
 
 
@@ -17,6 +20,9 @@
 - Serial TTL level output, analog voltage output.
 - Light Intensity Range: (0-150,000 lux)
 - Ultraviolet Range: (0-15) UVB measurement
+
+serial output chip GDE230F8 
+
 
 ## ref 
 
