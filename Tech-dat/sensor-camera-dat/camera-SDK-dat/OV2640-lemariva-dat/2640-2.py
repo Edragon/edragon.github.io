@@ -1,12 +1,26 @@
+# mpremote connect COM6 run 2640-2.py
+# mpremote connect COM6 reset 
+# mpremote connect COM6 fs cp 2640-2.py :main.py
 
 import camera
 import machine
 import time
 import gc
+import uos
+
+# uos.dupterm(None, 1)  # Disable REPL on UART0
 
 # Initialize IO4 (GPIO4) as output
 led = machine.Pin(4, machine.Pin.OUT)
-# Initialize IO3 (GPIO3) as input trigger
+
+# IO3 (GPIO3) is also RXD0 of UART0. If UART0 is not used, we can safely use it as GPIO.
+# If UART0 is active, this may cause conflicts. Deinitialize UART0 if necessary.
+try:
+    uart0 = machine.UART(0)
+    uart0.deinit()  # Deinitialize UART0 to free GPIO3 for input use
+except Exception:
+    pass  # UART0 may not be initialized, ignore errors
+
 trigger = machine.Pin(3, machine.Pin.IN, machine.Pin.PULL_DOWN)
 
 # Flag to indicate capture request

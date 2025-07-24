@@ -23,6 +23,7 @@
 
 ## chips 
 
+- [[ESP32-chip-error-dat]]
 
 - [[ESP32-S3-dat]] - [[ESP32-S2-dat]] 
 
@@ -108,6 +109,10 @@ DEV Baords
 
 - ESP32 Chip Revision v3.0 - User Guid
 - https://www.espressif.com/sites/default/files/documentation/esp32_chip_revision_v3_0_user_guide_en.pdf
+
+
+
+
 
 
 ## coding 

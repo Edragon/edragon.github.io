@@ -1,6 +1,7 @@
 
 # OV2640-lemariva-dat.md
 
+- [[camera-sdk-dat]] - [[micropython-dat]]
 
 ## for ESP1000 - ESP32-CAM
 
