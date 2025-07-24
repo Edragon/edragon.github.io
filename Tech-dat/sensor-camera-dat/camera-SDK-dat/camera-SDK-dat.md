@@ -1,6 +1,13 @@
 
 # camera-SDK-dat
 
+- [[ESP1000-dat]] - [[SCM1030-dat]]
+
+- [[camera-dat]]
+
+[[micropython-dat]] - [[script-based-SDK]]
+
+
 ## repro 
 
 - https://github.com/alanesq/esp32cam-demo
@@ -12,19 +19,33 @@
 - https://github.com/donny681/ESP32_CAMERA_QR
 - https://github.com/ArduCAM/Arduino
 
+## OV2640 
 
-[[micropython-dat]] - [[script-based-SDK]]
+- [[OV2640-lemariva-dat]]
+
+
+
+
+
+
+### namato/micropython-ov2640 == only support SPI OV2640 camera 
+
 
 - https://github.com/namato/micropython-ov2640
 
   git clone https://github.com/namato/micropython-ov2640
-  cd micropython-ov2640
+![OV2640-lemariva-dat/capture0724.jpg](OV2640-lemariva-dat/capture0724.jpg)640
   sudo ampy -p /dev/ttyUSB0 put boot.py
   sudo ampy -p /dev/ttyUSB0 put main.py
   sudo ampy -p /dev/ttyUSB0 put ov2640_constants.py
   sudo ampy -p /dev/ttyUSB0 put ov2640_hires_constants.py
   sudo ampy -p /dev/ttyUSB0 put ov2640_lores_constants.py
   sudo ampy -p /dev/ttyUSB0 put ov2640.py
+
+
+
+
+
 
 Then initialize and capture still frames using code like this. The included main.py contains an example.
 

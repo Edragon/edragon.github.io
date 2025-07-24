@@ -49,6 +49,7 @@ ESP-32CAM is packaged in DIP and can be directly plugged into the backplane for 
 pin define 
 
     #elif defined(CAMERA_MODEL_AI_THINKER)
+    
     #define PWDN_GPIO_NUM  32
     #define RESET_GPIO_NUM -1
     #define XCLK_GPIO_NUM  0
@@ -87,6 +88,7 @@ pin define
 
 - [[OV2640-dat]]
 
+module pin to board pin 
 
 | L_Pin | custom  | M_Pin | custom  | R_Pin | custom         |
 |-------|---------|-------|---------|-------|----------------|
@@ -130,6 +132,11 @@ LEDs - [[LED-dat]]
 
 to get free pins, remove card in [[SD-dat]] 
 
+programming connect 5V, GND, RXD0, TXD0
+
+jumper set IO0 + GND into flashing boot mode 
+
+
 
 ## Demo code 
 
@@ -159,12 +166,23 @@ GPIO PINS: (from alanesq/esp32cam-demo) - [[sd-dat]]
 - 4 has the illumination/flash led on it - led could be removed and use as output?
 - 33 onboard led - use as output?
 
+## chip version 
+
+- esptool v5.0.1
+- Connected to ESP32 on COM6:
+- Chip type:          ESP32-D0WDQ6 (revision v1.0)
+- Features:           Wi-Fi, BT, Dual Core + LP Core, 240MHz, Vref calibration in eFuse, Coding Scheme None
+- Crystal frequency:  40MHz
+- MAC:                10:52:1c:69:53:a8
+
 
 
 ## Board Issues == V1701
 
 - For board version v1701, note do not connect pin "GND/R" aka GND3 to ground, otherwise it won't boot
 - [refer for more information here. ](https://esp32.com/viewtopic.php?f=12&t=29647&sid=fed114d9e4f87cf6634c7ad145a5d8df&start=10)
+
+
 
 ## ref 
 

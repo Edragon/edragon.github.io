@@ -2,8 +2,22 @@
 # MP-ESP32-dat
 
 
+## For ESP32
 
-## Microptyhon for ESP32-S3 
+
+https://micropython.org/resources/firmware/ESP32_GENERIC-20250415-v1.25.0.bin
+
+### boot.esp32: PRO CPU has been reset by WDT.
+
+ESP32D0WDQ6 (revision 1) boards
+
+https://github.com/orgs/micropython/discussions/10521
+
+
+solder a 10UF capacitor between EN and GND pins to prevent the watchdog timer from resetting the board.
+
+
+## For ESP32-S3 
 
 - [[ESP32-S3-dat]]
 

@@ -3,6 +3,14 @@
 
 - [[putty-dat]] - [[SSCOM-dat]]
 
+screen, putty, minicom, or TeraTerm
+
+
+Serial Monitor
+
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor
+
+toggle terminal mode 
 
 
 ## demo test for esp32-C2
