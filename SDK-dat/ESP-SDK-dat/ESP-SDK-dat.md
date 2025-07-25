@@ -6,6 +6,9 @@
 
 - [[ESP-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]]
 
+
+
+
 ## Official SDK 
 
 - [[esp-idf-dat]] 
@@ -52,6 +55,8 @@ Wirings use [[USB-TTL-dat]]
 自己搭建环境：https://esp-idf.readthedocs.io/zh_CN/latest/get-started/index.html
 
 现成虚拟机下载地址：http://wiki.ai-thinker.com/esp32/lubuntu
+
+
 
 ## ref 
 

@@ -23,6 +23,8 @@ module HDK == [[ESP-12F-DAT]]
 
 ## bootstrap
 
+- [[ESP8266-boot-log-dat]]
+
 | pin    | default boot         | Against Mode        | [[ESP-12F-dat]] | [[ESP-12S-dat]] | func              |
 | ------ | -------------------- | ------------------- | --------------- | --------------- | ----------------- |
 | RESET  | pull up + cap 0.1 UF | Reboot              | ext.            | int.            |                   |
@@ -34,23 +36,6 @@ module HDK == [[ESP-12F-DAT]]
 - reference from chip datasheet section "Pin Definitions" Note part
 
 ![](15-46-00-28-03-2023.png)
-
-Baud rate 74880 is what the ESP8266 bootloader uses. The apps on top of the Espressif SDK (e.g. Arduino sketch) talk at 115200 if not specified otherwise.
-
-the normal reset boot 
-
-    ets Jan  8 2013,rst cause:2, boot mode:(3,6)
-
-    load 0x40100000, len 28740, room 16 
-    tail 4
-    chksum 0xef
-    load 0x33333333, len 858993459, room 4 
-
-the prog mode boot 
-
-    ets Jan  8 2013,rst cause:2, boot mode:(1,7)
-
-![](2025-06-11-18-18-29.png)
 
 
 ## ADC

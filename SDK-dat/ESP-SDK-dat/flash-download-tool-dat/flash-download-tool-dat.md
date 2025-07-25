@@ -3,6 +3,7 @@
 
 - [download from](https://www.espressif.com.cn/en/support/download/other-tools)
 
+- [[esptool-dat]]
 
 ## ESP8266
 
@@ -77,7 +78,9 @@ ESP32-C3
 5-chip efuse check fail
 
 
+## download to mulitple addresses
 
+![](2025-07-25-18-56-19.png)
 
 ## ref 
 
