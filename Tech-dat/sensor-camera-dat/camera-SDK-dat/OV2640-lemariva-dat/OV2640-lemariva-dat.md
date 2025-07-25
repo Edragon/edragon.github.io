@@ -14,6 +14,8 @@ https://github.com/lemariva/micropython-camera-driver
 https://github.com/lemariva/upyCam
 https://github.com/lemariva/upyCam/tree/timelapse-camera
 
+- [[MP-ESP32-dat]]
+
 flash camera driver firmware 
 
     esptool --port COM6 --baud 460800 write-flash 0x1000 micropython_camera_feeeb5ea3_esp32_idf4_4.bin

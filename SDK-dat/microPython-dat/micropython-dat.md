@@ -2,6 +2,8 @@
 # micropython dat
 
 
+- [[CircuitPython-dat]]
+
 - [[MP-ESP32-dat]] - [[MP-STM32-dat]]
 
 
@@ -45,37 +47,7 @@ Open the USB flash drive, edit the main.py file, click Save, and reset the MCU t
 
 ## relevant other useful tools 
 
-- [[ampy-dat]]
-
-pip install mpremote
-
-mpremote connect COM6 fs ls
-
-mpremote connect COM6 fs cp 2640-1.py :
-mpremote connect COM6 fs cp :capture.jpg .
-
-mpremote connect COM6 fs rm :capture.jpg
-
-mpremote connect COM6
-
-mpremote connect COM6 run 2640-1.py
-
-    mpremote connect COM6           
-    Connected to MicroPython at COM6
-    Use Ctrl-] or Ctrl-x to exit this shell
-
-capture script run 
-
-    import test2
-    >>> print(os.listdir())
-    ['boot.py', 'capture.jpg', 'test2.py']
-    >>> 
-
-rename a file == mpremote connect COM6 fs mv :2640-2.py :main.py
-
-    mpremote connect COM6 fs cp :2640-2.py :main.py
-
-reboot == mpremote connect COM6 reset
+- [[ampy-dat]] - [[rshell-dat]] - [[mpremote-dat]]
 
 
 ## flash 
@@ -128,6 +100,27 @@ List Files in Current Directory
     ↓
     Run main.py
 
+- [[boot.py]] - [[main.py]]
+
+## hardware 
+
+- [[I2C-dat]] - [[ESP32-HDK-dat]]
+
+📌 Common ESP32 I2C Pins
+
+| Function | GPIO | Notes |
+|----------|------|-------|
+| SDA | 21 | Common default SDA pin |
+| SCL | 22 | Common default SCL pin |
+
+- [[mp-i2c-1-dat.py]]
+
+- [[mp-ssd1306-1-dat.py]] 
+
+
+## code library 
+
+https://github.com/micropython-Chinese-Community/mpy-lib
 
 
 ## ref 

@@ -1,6 +1,10 @@
 
 # I2C Dat 
 
+
+## common I2C devices address 
+
+
 // I2C device found at address 0x40  !  // INA219, INA226
 
 for [[IOD1001-dat]]
@@ -37,6 +41,20 @@ for [[ESP32-CAM-dat]]
 testing scan I2C
     Wire.begin(4,13);
     Wire.begin(2, 3);
+
+## I2C usage in Micropython 
+
+- [[micropython-dat]]
+
+    from machine import I2C, Pin
+
+    # Define I2C on GPIO 15 (SDA) and GPIO 13 (SCL)
+
+    i2c = I2C(0, scl=Pin(13), sda=Pin(15), freq=400000)
+    i2c = I2C(0, scl=Pin(13), sda=Pin(15), freq=100000)
+
+
+    print("I2C scan:", i2c.scan())
 
 ## code library 
 

@@ -18,13 +18,24 @@ Module based on [[SCM1030-dat]]
 | 34          | CAM       |          | CLK         |           |        | 21          | CAM            |      |
 | 35          | CAM       |          | SD0         | PSRAM     |        | --          |                |      |
 | 32          | CAM_PWR   |          | SD1         | PSRAM     |        | 19          | CAM            |      |
-| 33          |           |          | 15          | microSD   | SDA    | 18          | CAM            |      |
-| 25          |           |          | 2           | microSD   | I2S_WS | 5           | CAM            |      |
+| 33          | LED2      |          | 15          | microSD   | SDA    | 18          | CAM            |      |
+| 25          | CAM       |          | 2           | microSD   | I2S_WS | 5           | CAM            |      |
 | 26          | CAM       |          |             |           |        | 17          | PSRAM          |      |
 | 27          | CAM       |          |             |           |        | 16          | PSRAM          |      |
 | 14          | microSD   | I2S_SD   |             |           |        | 4           | microSD, flash |      |
 | 12          | microSD   | I2S_SCLK |             |           |        | 0           | CAM            |      |
 
+pin definitions: 
+
+    #define I2S_WS 02
+    #define I2S_SD 14
+    #define I2S_SCK 12
+    SSD1306Wire display(0x3c, 15, 13);
+    BMx280I2C bmx280(0x76, 15, 13);
+
+    #define flash 4
+    #define PIR 3
+    #define obLED 33
 
 ## Board map 
 
@@ -68,7 +79,7 @@ Verion 1.0
 
 ## In Use 
 
-- [[I2S-dat]] - [[I2S-microphone-dat]]
+- [[I2S-dat]] - [[I2S-microphone-dat]] - [[MSM261S4030H0R-dat]]
 
 - [[PIR-sensor-dat]]  - [[OLED-dat]] 
   
@@ -100,16 +111,7 @@ code test:
 - T2: T2-CameraWebServer.ino == Camera test please use official code 
 - T3: T3-I2S-mem-mic.ino == test for [[I2S-microphone-dat]]
 
-pin definitions: 
 
-    #define I2S_WS 02
-    #define I2S_SD 14
-    #define I2S_SCK 12
-    SSD1306Wire display(0x3c, 15, 13);
-    BMx280I2C bmx280(0x76);
-
-    #define flash 4
-    #define PIR 3
 
 ## Demo Video 
 

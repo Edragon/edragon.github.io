@@ -19,7 +19,16 @@ I2S Output Digital Microphone - [[INMP441-dat]] - [[MSM261S4030H0R-dat]]
 | [[SPH0645-dat]]        | yes        | yes              | yes  | yes   |
 
 
+## wiring reference 
 
+| Signal | Connection                                      |
+| ------ | ----------------------------------------------- |
+| SEL    | unconnected (only one channel, apparently left) |
+| LRCL   | #15                                             |
+| DOUT   | #32                                             |
+| BCKL   | #14                                             |
+| GND    | GND                                             |
+| 3V     | 3V                                              |
 
 
 ## go advance 

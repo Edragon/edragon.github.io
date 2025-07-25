@@ -4,6 +4,15 @@
   
 - [[ESP32-modules-dat]] - [[ESP32-WROOM-DAT]]
 
+- [[esp32-chip-error-dat]]
+
+## pins 
+
+You can use almost any GPIO, except:
+
+GPIO6–11: used for flash
+
+GPIO34–39: input-only (not usable as output like SCL)
 
 ### RMT
 
@@ -32,15 +41,6 @@ ref
 - https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 
-
-
-## NC Pins 
-
-V3 Chips 
--  Pins GPIO6 to GPIO11 on the ESP32-D0WD-V3/ESP32-D0WDR2-V3 chip are connected to the SPI flash integrated on the module and are not led out.
-
-V2 Chips 
-- Pins SCK/CLK, SDO/SD0, SDI/SD1, SHD/SD2, SWP/SD3, and SCS/CMD, i.e. GPIO6 to GPIO11 are used to connect to the module integrated SPI flash, not recommended for other functions.
 
 
 ## Module Compare 

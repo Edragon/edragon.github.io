@@ -5,10 +5,15 @@
 
 - [[camera-dat]]
 
-[[micropython-dat]] - [[script-based-SDK]]
+
 
 
 ## repro 
+
+- [[openMV-dat]]
+
+- [[circuitpython-dat]] - better support for [[ESP32-S3-dat]] not well support for ESP32-CAM == [[SCM1030-dat]] == https://github.com/adafruit/Adafruit_CircuitPython_OV2640/issues/22
+
 
 - https://github.com/alanesq/esp32cam-demo
 - https://github.com/espressif/esp32-camera
@@ -18,6 +23,11 @@
   - https://github.com/emannuell/ESP32-CAM-OV2640
 - https://github.com/donny681/ESP32_CAMERA_QR
 - https://github.com/ArduCAM/Arduino
+
+
+
+
+[[micropython-dat]] - [[script-based-SDK]]
 
 ## OV2640 
 

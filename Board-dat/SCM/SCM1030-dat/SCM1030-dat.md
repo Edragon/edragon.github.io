@@ -91,7 +91,7 @@ pin define
 module pin to board pin 
 
 | L_Pin | custom  | M_Pin | custom  | R_Pin | custom         |
-|-------|---------|-------|---------|-------|----------------|
+| ----- | ------- | ----- | ------- | ----- | -------------- |
 | GND   |         | GND2  |         | GND   |                |
 | 3V3   |         | 13    | microSD | 23    | CAM            |
 | EN    |         | SD2   | PSRAM   | 22    | CAM            |
@@ -100,7 +100,7 @@ module pin to board pin
 | 34    | CAM     | CLK   |         | 21    | CAM            |
 | 35    | CAM     | SD0   | PSRAM   | --    |                |
 | 32    | CAM_PWR | SD1   | PSRAM   | 19    | CAM            |
-| 33    |         | 15    | microSD | 18    | CAM            |
+| 33    | LED2    | 15    | microSD | 18    | CAM            |
 | 25    |         | 2     | microSD | 5     | CAM            |
 | 26    | CAM     |       |         | 17    | PSRAM          |
 | 27    | CAM     |       |         | 16    | PSRAM          |
