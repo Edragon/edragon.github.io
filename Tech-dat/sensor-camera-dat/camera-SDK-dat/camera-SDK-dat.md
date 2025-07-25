@@ -6,6 +6,11 @@
 - [[camera-dat]]
 
 
+- https://github.com/espressif/esp32-camera
+
+Arduino IDE
+
+If you are using the arduino-esp32 core in Arduino IDE, no installation is needed! You can use esp32-camera right away.
 
 
 ## repro 
@@ -16,7 +21,7 @@
 
 
 - https://github.com/alanesq/esp32cam-demo
-- https://github.com/espressif/esp32-camera
+
 - https://github.com/yoursunny/esp32cam
   - WifiCam
   - AsyncCam

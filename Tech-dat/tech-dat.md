@@ -123,7 +123,7 @@
 
 ## Code and SDK 
 
-- [[arduino-ide-dat]] 
+- [[arduino-ide-dat]] - [[platform.io-dat]]
 
 - [[logic-dat]]
 
@@ -133,7 +133,7 @@
 
 - [[MDK-ARM-dat]]
 
-- [[SDK-dat]]
+- [[SDK-dat]] - [[camera-sdk-dat]]
 
 ## PROG
 
