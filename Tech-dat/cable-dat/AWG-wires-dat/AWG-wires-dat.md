@@ -4,7 +4,7 @@
 20 AWG for 11A Power, Cross-Sect == 0.52 mm
 22 AWG for 7A Power , Cross-Sect == 0.33 mm
 
-
+- [[lab-power-dat]]
 
 # AWG Wire Specifications
 

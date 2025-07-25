@@ -25,6 +25,8 @@
 
 - [[solar-power-dat]] - [[power-storage-dat]]
   
+- [[generator-dat]]
+
 ## topics 
 
 - [[home-plant-dat]] - [[Apocalypse-dat]] - [[surveillance-dat]]

@@ -19,7 +19,8 @@ or python2 == pip install esptool
 
 first erase the entire flash using:
 
-  esptool.py erase_flash
+    esptool erase_flash
+    esptool.py erase_flash
 
 log 
 
