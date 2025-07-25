@@ -3,6 +3,8 @@
 
 - 74HC14D 
 
+
+
 ## SN74LVC2G04 Dual Inverter Gate
 
 ![](2025-03-25-15-51-07.png)
@@ -16,3 +18,8 @@ Table 1. Function Table (Each Inverter)
 | --------- | ---------- |
 | H         | L          |
 | L         | H          |
+
+
+## ref 
+
+- [[logic-dat]]

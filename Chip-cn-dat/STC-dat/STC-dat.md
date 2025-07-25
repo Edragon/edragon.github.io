@@ -5,13 +5,21 @@
 
 
 
-- [[STC-STC15.pdf]] (very large file, better download to view)
 
 STC8G1K08A-36I-DFN8
 
+## STC12 
+
+STK12C68
+STK12C68
+STK12C68
+
+## STC15 
+
+- [[STC-STC15.pdf]] (very large file, better download to view)
 
 
-## STC15W100, STC15F100 series 
+### STC15W100, STC15F100 series 
 
 ![](2024-10-27-13-36-15.png)
 

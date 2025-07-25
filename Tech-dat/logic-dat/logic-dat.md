@@ -12,6 +12,9 @@
 
 - [[XOR-dat]]
 
+- [[logic-gate-dat]] - [[shift-register-dat]] - [[buffer-dat]] - [[logic-inverter-dat]]
+
+
 
 ## ref 
 
