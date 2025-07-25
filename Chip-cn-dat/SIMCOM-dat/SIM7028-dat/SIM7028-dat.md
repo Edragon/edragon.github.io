@@ -73,6 +73,10 @@ compare to [[SIM7020-dat]]
 - no I2C, SPI
 - USB in progress, early version 
 - extra IO_1833_sel
+- NET LED will not blink 
+- Module automatically ON when power supplied 
+
+
 
 | **Feature**                  | **SIM7028**                                                                         | **SIM7020**                                                          |
 | ---------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
