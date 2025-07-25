@@ -22,11 +22,15 @@ relevant - [[generator-dat]]
 
 ## solar panel 
 
-- [[OPS1009-dat]]
+- [[solar-panel-dat]] - [[OPS1009-dat]]
+
+
+
+
 
 ## tech 
 
-- [[MPPT-dat]]
+- [[MPPT-dat]] - [[solar-panel-busbar-dat]]
 
 - [[solar-charge-controller-dat]]
 
