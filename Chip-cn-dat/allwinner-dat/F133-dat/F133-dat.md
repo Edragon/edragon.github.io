@@ -24,6 +24,11 @@ Allwinner D1s (also known as F133) is based on a RISC-V core, and is a cheaper v
 
 https://d1s.docs.aw-ol.com/
 
+
+## flash 
+
+![](2025-07-26-12-23-54.png)
+
 ## version 
 
 - F133-A == TQFP-128-EP(14x14)

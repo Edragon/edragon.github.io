@@ -6,7 +6,7 @@
 
 - [[ESP-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]]
 
-
+- [[SPIFFS-dat]]
 
 
 ## Official SDK 
@@ -23,7 +23,7 @@
 
 - arduino firmware - https://github.com/Edragon/esp_firmware
 
-## Firmware 
+## Firmware and APPs 
 
 - [[ESPHome-dat]] - [[tasmota-dat]]
 

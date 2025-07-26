@@ -5,6 +5,8 @@
 
 - [[python-dat]]
 
+https://github.com/espressif/esptool
+
 
 ## install python 3 
 

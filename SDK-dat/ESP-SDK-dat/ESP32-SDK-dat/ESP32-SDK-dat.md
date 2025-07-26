@@ -1,14 +1,14 @@
-
 # ESP32-SDK-dat
 
 
 
 - [[esp-idf-dat]] - [[ESP-dat]]
 
-- [[flash-download-tool-dat]]
+- [[flash-download-tool-dat]] - [[esptool-dat]]
 
 - [[ESP32-debug-log-dat]]
 
+- [[SPIFFS-dat]]
 
 ## other reference 
 

@@ -5,6 +5,9 @@
 
 - [[arduino-lib-dat]]
 
+https://github.com/arduino/arduino-ide
+
+
 ## Library list 
 
 multi-task 
@@ -85,6 +88,67 @@ Open Command Prompt as Administrator and run: mklink /D "%LOCALAPPDATA%\Arduino1
     rf-motor.ino_attiny13a_4800000L.lst
 
 - [[avrdude-dat]]
+
+## arduino IDE 2.x 
+
+compare to arduino version 1.x
+
+
+![](2025-07-26-12-12-24.png)
+
+
+
+### LittleFS
+
+LittleFS is a lightweight filesystem created for microcontrollers that lets you access the flash memory as you do in a standard file system on your computer, but it’s simpler and more limited. You can read, write, close, and delete files. Using LittleFS with the ESP32 boards is useful to:
+
+- Create configuration files with settings;
+- Save data permanently;
+- Create files to save small amounts of data instead of using a microSD card;
+- Save HTML, CSS, and JavaScript files to build a web server;
+- Save images, figures, and icons;
+- And much more.
+
+download from release https://github.com/earlephilhower/arduino-littlefs-upload/releases
+
+
+On your computer, go to the following path: C:\Users\<username>\.arduinoIDE\. Create a new folder called **plugins** if you haven’t already.
+
+C:\Users\Administrator\.arduinoIDE\plugins\arduino-littlefs-upload-1.5.4.vsix
+
+Move the .vsix file you downloaded previously to the plugins folder (remove any other previous versions of the same plugin if that’s the case).
+
+![](2025-07-26-12-05-03.png)
+
+
+test code 
+
+    #include "LittleFS.h"
+    
+    void setup() {
+    Serial.begin(115200);
+    
+    if(!LittleFS.begin()){
+        Serial.println("An Error has occurred while mounting LittleFS");
+        return;
+    }
+    
+    File file = LittleFS.open("/test_example.txt", "r");
+    if(!file){
+        Serial.println("Failed to open file for reading");
+        return;
+    }
+    
+    Serial.println("File Content:");
+    while(file.available()){
+        Serial.write(file.read());
+    }
+    file.close();
+    }
+    
+    void loop() {
+
+    }
 
 ## ref 
 
