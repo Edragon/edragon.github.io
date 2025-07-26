@@ -76,7 +76,7 @@ Most ESP32 chips are dual-core. Here’s a summary:
 
 ### Boards and APP 
 
-- [[IDD1023-dat]] - [[SCM1030-dat]]
+- [[IDD1023-dat]] - [[SCM1030-dat]] - [[ESP1000-dat]]
 
 DEV Baords 
 - [[NWI1100-dat]] - [[NWI1145-dat]] - [[NWI1206-dat]] 
@@ -84,6 +84,8 @@ DEV Baords
 - [[ESP32-S3-dat]] == [[NWI1243-dat]]
 
 - [[SCM1030-dat]]
+
+
 
 ### Shields (stack boards) 
 - [[NWI1245-dat]]

@@ -62,12 +62,34 @@ compile and upload
     arduino-cli compile --fqbn arduino:samd:mkr1000 MyFirstSketch
     arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:samd:mkr1000 MyFirstSketch
 
+for esp32 dev module 
 
-    arduino-cli compile --fqbn arduino:samd:mkr1000 0220-BMx280_I2C
+    arduino-cli compile --fqbn esp32:esp32:esp32 rtos-cam-web-2
 
 
 ## library 
 
 arduino-cli lib search debouncer
+arduino-cli lib search SSD1306Wire
+
+    E:\Git-category\Git-Arduino\Arduino-ESP32\BSP\ESP\ESP1000-ESP32-tori>arduino-cli lib search SSD1306Wire
+    Name: "SSD1306wire"
+    Author: Alexander Pronin <Alexander.Pronin@gmail.com>
+    Maintainer: Alexander Pronin <Alexander.Pronin@gmail.com>
+    Sentence: Display text on OLED module SSD1306 with I2C.
+    Paragraph: It allow dipslay text on SSD1306 communication with I2C.
+    Website: https://gitlab.com/alexpr0/ssd1306wire.git
+    Category: Display
+    Architecture: avr
+    Types: Contributed
+    Versions: [2.0.1]
 
 arduino-cli lib install FTDebouncer
+
+arduino-cli lib install SSD1306Wire
+
+    arduino-cli lib install SSD1306Wire
+    Downloading SSD1306wire@2.0.1...
+    SSD1306wire@2.0.1 downloaded
+    Installing SSD1306wire@2.0.1...
+    Installed SSD1306wire@2.0.1
