@@ -138,6 +138,19 @@
 
 - [[protection-dat]]
 
+## Code and SDK 
+
+- [[arduino-ide-dat]] - [[platform.io-dat]]
+
+- [[logic-dat]]
+
+- [[ESP-SDK-dat]]
+
+- [[STM32-SDK-dat]]
+
+- [[MDK-ARM-dat]]
+
+- [[SDK-dat]] - [[camera-sdk-dat]]
 
 ## PROG
 
