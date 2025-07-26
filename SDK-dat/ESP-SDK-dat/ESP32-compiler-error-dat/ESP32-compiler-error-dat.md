@@ -1,6 +1,13 @@
 
 # ESP32-compiler-error-dat
 
+
+## common errors 
+
+better store file in [[sd-dat]] - [[memory-dat]]
+
+## watchdog 
+
     rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
     configsip: 0, SPIWP:0xee
     clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
@@ -20,6 +27,25 @@
     E (158) task_wdt: esp_task_wdt_reset(705): task not found
     E (185) task_wdt: esp_task_wdt_reset(705): task not found
     E (186) task_wdt: esp_task_wdt_reset(705): task not found
+
+
+## 4 
+
+I see the issue! There's a conflict between the camera and I2S driver trying to use the same interrupt resources. The ESP32-CAM without PSRAM has limited interrupt resources, and both the camera and I2S are trying to allocate interrupts.
+
+    E (2198) intr_alloc: No free interrupt inputs for I2S0 interrupt (flags 0x40E)
+    E (2199) cam_hal: cam_config(407): cam intr alloc failed
+    E (2200) camera: Camera config failed with error 0xffffffff
+    Camera init failed with error 0xffffffff
+    === System Status ===
+    Free heap: 271820 bytes
+    Camera task stack high water mark: 5356
+    Display task stack high water mark: 5356
+    Sensor task stack high water mark: 5356
+    Audio task stack high water mark: 5356
+    WiFi status: Disconnected
+
+
 
 ## 3 
 

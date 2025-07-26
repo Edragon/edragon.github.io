@@ -13,7 +13,9 @@ promote
 
 ## hardware 
 
-amera type = OV2640
+main controller == esp32
+
+camera type = OV2640
 
 - pin definitions 
 
@@ -27,3 +29,10 @@ add GPIO 33 and GPIO4, when capture image, both LED trigger to blink shortly twi
 
 
 
+## ref 
+
+- [[ESP32-SDK-dat]]
+
+- [[ESP1000-code-dat]]
+
+- [[SDK]]

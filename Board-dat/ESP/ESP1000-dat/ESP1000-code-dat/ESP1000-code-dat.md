@@ -17,7 +17,7 @@ rtos-cam-web-2.ino
 ### ESP32-CAM + BMP280 Project Functions
 
 #### Core Functions
-• **Image Capture** - Auto (60s), manual web button, GPIO3 trigger
+• **Image Capture** - ~~Auto (60s)~~, manual web button, GPIO3 trigger
 • **File Storage** - LittleFS with chunked writing (no PSRAM optimization)
 • **LED Feedback** - Dual blink on GPIO33/GPIO4 during capture
 • **Environmental Monitor** - BMP280 temp/pressure every 5s
@@ -42,3 +42,32 @@ rtos-cam-web-2.ino
 • **Pressure** - Pa + hPa conversion
 • **Web Dashboard** - Dark theme with thumbnails
 • **System Monitor** - Heap usage, task
+
+
+
+| Task             | Function                    | Priority | Core  | Notes                             |
+|------------------|-----------------------------|----------|-------|-----------------------------------|
+| `SensorTask`     | Read BMP280 sensor          | Low      | Core 1| Uses I2C mutex                    |
+| `DisplayTask`    | Update SSD1306 OLED         | Low      | Core 1| Queue-based display update        |
+| `AudioTask`      | Capture I2S mic audio       | High     | Core 0| DMA or ring buffer                |
+| `CameraTask`     | Handle camera capture       | Medium   | Core 0| Uses esp32-camera driver          |
+| `WebServerTask`  | Serve HTTP requests         | Medium   | Core 1| REST API endpoints                |
+| `WiFiTask`       | Manage Wi-Fi connection     | Medium   | Core 1| Reconnect on drop                 |
+| `OTATask`        | Check/start OTA update      | Medium   | Core 1| Optional endpoint or timed check  |
+
+
+
+
+## 📌 Tips for Success
+
+Use PSRAM if available (needed for camera and large buffers).
+
+Use core affinity to avoid overloading one CPU core.
+
+Profile RAM usage: camera + audio + Wi-Fi can be memory heavy.
+
+Use non-blocking HTTP server (e.g., AsyncWebServer).
+
+Monitor task stack usage with uxTaskGetStackHighWaterMark().
+
+

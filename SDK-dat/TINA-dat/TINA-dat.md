@@ -47,6 +47,25 @@ V1.0 版本硬件安装 D1s Nezha 补丁包
 下载下来的 SDK 默认是不支持 D1s Nezha v1.0 开发板的，需要额外安装补丁包以支持 D1s Nezha v1.0 开发板。
 
 
+## ADB login 
+
+- [[adb-dat]]
+
+    C:\System> adb shell
+    * daemon not running. starting it now on port 5037 *
+    * daemon started successfully *
+
+    _____  _              __     _
+    |_   _||_| ___  _ _   |  |   |_| ___  _ _  _ _
+    | |   _ |   ||   |  |  |__ | ||   || | ||_'_|
+    | |  | || | || _ |  |_____||_||_|_||___||_,_|
+    |_|  |_||_|_||_|_|  Tina is Based on OpenWrt!
+    ----------------------------------------------
+    Tina Linux
+    ----------------------------------------------
+    root@TinaLinux:/#
+
+
 
 ## ref 
 
