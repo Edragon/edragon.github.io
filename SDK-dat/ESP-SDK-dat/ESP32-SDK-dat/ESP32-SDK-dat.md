@@ -5,7 +5,7 @@
 
 - [[ESP32-debug-log-dat]]
 
-
+- [[esp32-compiler-error-dat]]
 
 
 ## other reference 

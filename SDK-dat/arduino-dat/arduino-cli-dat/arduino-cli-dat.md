@@ -18,6 +18,9 @@ Create a configuration file and a new sketch:
     $ arduino-cli config init
     Config file written: /home/luca/.arduino15/arduino-cli.yaml
 
+    C:\Users\Administrator>arduino-cli config init
+    Config file written to: C:\Users\Administrator\AppData\Local\Arduino15\arduino-cli.yaml
+
     $ arduino-cli sketch new MyFirstSketch
     Sketch created in: /home/luca/MyFirstSketch
 
@@ -60,11 +63,23 @@ search and udpate
 compile and upload 
 
     arduino-cli compile --fqbn arduino:samd:mkr1000 MyFirstSketch
+
     arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:samd:mkr1000 MyFirstSketch
 
-for esp32 dev module 
+    
+
+compile for esp32 dev module 
 
     arduino-cli compile --fqbn esp32:esp32:esp32 rtos-cam-web-2
+
+    arduino-cli compile --fqbn esp32:esp32:esp32 --verbose rtos-cam-web-2
+
+upload 
+
+    esptool earese flash
+
+    arduino-cli upload -p COM7 --fqbn esp32:esp32:esp32 --verbose rtos-cam-web-2
+
 
 
 ## library 
@@ -93,3 +108,42 @@ arduino-cli lib install SSD1306Wire
     SSD1306wire@2.0.1 downloaded
     Installing SSD1306wire@2.0.1...
     Installed SSD1306wire@2.0.1
+
+"ESP8266 and ESP32 OLED driver for SSD1306 displays"
+
+    arduino-cli lib install "ESP8266 and ESP32 OLED driver for SSD1306 displays"
+    Downloading ESP8266 and ESP32 OLED driver for SSD1306 displays@4.6.1...
+    ESP8266 and ESP32 OLED driver for SSD1306 displays@4.6.1 downloaded
+    Installing ESP8266 and ESP32 OLED driver for SSD1306 displays@4.6.1...
+    Installed ESP8266 and ESP32 OLED driver for SSD1306 displays@4.6.1
+
+    arduino-cli lib search BMx280MI
+    Name: "BMx280MI"
+    Author: Gregor Christandl <christandlg@yahoo.com>
+    Maintainer: Gregor Christandl <christandlg@yahoo.com>
+    Sentence: A library for the Bosch Sensortec BME280 and BMP280 Digital Pressure Sensors.
+    Paragraph: The library supports both the SPI (via the SPI Library) and I2C (via the Wire Library) interfaces. Use of other I2C / SPI libraries (e.g. software I2C) is supported by inheritance. Supports 64 bit pressure calculation.
+    Website: https://bitbucket.org/christandlg/bmx280mi
+    Category: Sensors
+    Architecture: *
+    Types: Contributed
+    Versions: [0.0.1, 0.0.2, 1.0.0, 1.1.0, 1.1.1, 1.1.2, 1.2.0, 1.2.1, 1.2.2, 1.2.3]
+
+
+### lib manage 
+
+    If you're managing libraries manually (e.g., cloned to ~/Arduino/libraries/), make sure it's in the default path or explicitly reference it in your arduino-cli.yaml config if you moved it.
+
+    Let me know if you need help installing manually or verifying the include paths.
+
+
+### list lib 
+
+arduino-cli lib list
+
+    Name                                               Installed Available    Location Description
+    BMx280MI                                           1.2.3     -            user     -
+    ESP8266 and ESP32 OLED driver for SSD1306 displays 4.6.1     -            user     -
+    SSD1306wire                                        2.0.1     -            user     -
+
+== D:\HE\Documents\Arduino\libraries

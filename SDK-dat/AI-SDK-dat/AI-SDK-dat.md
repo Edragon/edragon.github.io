@@ -23,7 +23,7 @@ add hardware I2C BMP280, address 0x76, SCL is pin 13 and SDA is pin 15
 
 another task to read bmp280 data and print by OLED display
 
-add GPIO 33 and GPIO4, when capture image, both LED trigger to blink twice 
+add GPIO 33 and GPIO4, when capture image, both LED trigger to blink shortly twice 
 
 
 

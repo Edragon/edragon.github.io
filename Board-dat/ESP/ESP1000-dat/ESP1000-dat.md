@@ -111,7 +111,16 @@ code test:
 - T2: T2-CameraWebServer.ino == Camera test please use official code 
 - T3: T3-I2S-mem-mic.ino == test for [[I2S-microphone-dat]]
 
-- SSD1306Wire
+- libs
+
+    Alternatives for SSD1306Wire.h: [ESP8266 and ESP32 OLED driver for SSD1306 displays@4.6.1]
+    ResolveLibrary(SSD1306Wire.h)
+      -> candidates: [ESP8266 and ESP32 OLED driver for SSD1306 displays@4.6.1]
+
+    Alternatives for BMx280I2C.h: [BMx280MI@1.2.3]
+    ResolveLibrary(BMx280I2C.h)
+      -> candidates: [BMx280MI@1.2.3]
+
 
 ## Demo Video 
 
