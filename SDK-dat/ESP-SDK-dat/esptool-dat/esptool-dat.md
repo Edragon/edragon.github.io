@@ -19,6 +19,25 @@ or python2 == pip install esptool
 
 ## basic usage 
 
+
+### erase ESP32 
+
+  Connected to ESP32 on COM7:
+  Chip type:          ESP32-D0WDQ6 (revision v1.0)
+  Features:           Wi-Fi, BT, Dual Core + LP Core, 240MHz, Vref 
+  calibration in eFuse, Coding Scheme None
+  Crystal frequency:  40MHz
+  MAC:                10:52:1c:69:53:a8
+
+  Stub flasher running.
+
+  Flash memory erased successfully in 6.4 seconds.
+
+  Hard resetting via RTS pin...
+
+
+### erase 
+
 first erase the entire flash using:
 
     esptool erase_flash

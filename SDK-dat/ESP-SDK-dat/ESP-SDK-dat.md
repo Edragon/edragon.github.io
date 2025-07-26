@@ -2,11 +2,23 @@
 
 
 
-# ESP32-SDK
+# ESP-SDK-dat
 
-- [[ESP-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]]
+- [[ESP-dat]] - [[ESP-SDK-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]]
 
 - [[SPIFFS-dat]]
+
+- [[script-based-SDK-dat]] - [[circuitpython-dat]]
+
+- [[flash-download-tool-dat]] - [[esptool-dat]]
+
+- [[arduino-ide-dat]] - [[platformio-dat]] - [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
+
+- [[esp-idf-dat]] 
+
+- [[openOCD-dat]] 
+
+- [[freertos-dat]]
 
 
 ## Official SDK 

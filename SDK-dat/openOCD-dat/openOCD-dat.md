@@ -2,6 +2,16 @@
 # openOCD-dat
 
 
+## ESP32 arduino 
+
+
+### 1. 🔌 Check Hardware Connections
+- Verify JTAG wiring: `TDI`, `TDO`, `TCK`, `TMS`, `GND`, and `3.3V`.
+- Ensure ESP32 board is powered.
+- Use a reliable USB cable and avoid USB hubs.
+
+
+
 ## STM32 Linux 
 
 ### Debugger OpenOCD 
