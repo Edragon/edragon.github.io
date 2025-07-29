@@ -2,11 +2,14 @@
 
 - [[ESP-SDK-dat]]
   
-- [[ESP32-modules-dat]] - [[ESP32-WROOM-DAT]]
+- [[ESP32-modules-dat]] - [[ESP32-board-dat]]
 
-- [[esp32-chip-error-dat]]
+- [[ESP32-chip-error-dat]]
 
 - [[ESP-prog-dat]]
+
+
+
 
 ## pins 
 
@@ -100,7 +103,35 @@ ESP32 has **520 KB SRAM** split into multiple regions:
 
 - [[ESP32_Series_datasheet_v4.7.pdf]]
 
+
+
+### Shields (stack boards) 
+- [[NWI1245-dat]]
+
+### In Development
+- [[ESP32-ISO-dat]]
+
+
+
 ## ref
+
+
+## Chip Info 
+
+### datasheet
+
+- chip datasheet
+- https://www.espressif.com.cn/sites/default/files/documentation/esp32_datasheet_en.pdf
+
+- esp32 technical_reference_manual CN
+- https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf
+
+- ESP32 Chip Revision v3.0 - User Guid
+- https://www.espressif.com/sites/default/files/documentation/esp32_chip_revision_v3_0_user_guide_en.pdf
+
+
+
+
 
 - [[BTB-dat]]
 

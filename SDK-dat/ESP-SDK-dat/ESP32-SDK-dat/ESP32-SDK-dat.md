@@ -1,11 +1,16 @@
 # ESP32-SDK-dat
 
-- [[ESP32-dat]] - [[ESP32-HDK-dat]] - [[ESP-SDK-dat]]
+- [[ESP32-dat]] 
+
+- [[ESP32-HDK-dat]] - [[ESP-SDK-dat]]
 
 
-- [[ESP32-debug-log-dat]]
+- [[ESP32-debug-log-dat]] - [[ESP32-boot-log-dat]]
 
 - [[esp32-compiler-error-dat]]
+
+- [[JTAG-dat]] - [[OTA-dat]]
+
 
 
 ## coding 
