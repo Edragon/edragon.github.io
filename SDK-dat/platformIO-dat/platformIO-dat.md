@@ -3,6 +3,10 @@
 
 https://w.electrodragon.com/w/PlatformIO
 
+
+create a new project in PlatformIO IDE:
+
+
 platformio project structure: 
 
 
@@ -20,3 +24,24 @@ platformio project structure:
     ├── test/                  # Unit tests
     │   └── test_main.cpp
     ├── platformio.ini         # PlatformIO project configuration file
+
+default code template 
+
+    #include <Arduino.h>
+
+    // put function declarations here:
+    int myFunction(int, int);
+
+    void setup() {
+    // put your setup code here, to run once:
+    int result = myFunction(2, 3);
+    }
+
+    void loop() {
+    // put your main code here, to run repeatedly:
+    }
+
+    // put function definitions here:
+    int myFunction(int x, int y) {
+    return x + y;
+    }

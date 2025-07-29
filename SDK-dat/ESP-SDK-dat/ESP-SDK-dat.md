@@ -4,6 +4,8 @@
 
 # ESP-SDK-dat
 
+- [[ESP32-HDK-dat]]
+
 - [[ESP-dat]] - [[ESP-SDK-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]]
 
 - [[SPIFFS-dat]]
@@ -27,6 +29,9 @@
 - [[memory-dat]] - [[DRAM-dat]]
 
 - [[stack-trace-decoder-dat]]
+
+
+
 
 ## Official SDK 
 

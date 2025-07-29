@@ -6,6 +6,8 @@
 
 - [[esp32-chip-error-dat]]
 
+- [[ESP-prog-dat]]
+
 ## pins 
 
 You can use almost any GPIO, except:

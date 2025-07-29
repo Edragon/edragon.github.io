@@ -2,6 +2,8 @@
 # NWI1186-dat 
 
 
+ESP32-Sense Kit w/ESP-Prog
+
 
 ![](2023-10-05-16-10-28.png)
 
