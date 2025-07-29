@@ -2,6 +2,11 @@
 
 # esp-idf-vscode-dat
 
+e:\work-data\IDF
+e:\work-data\IDF_tools
+
+![](2025-07-29-17-50-56.png)
+
 ### vs-code extension 
 
 

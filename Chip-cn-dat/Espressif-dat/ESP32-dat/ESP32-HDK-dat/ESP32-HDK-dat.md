@@ -33,15 +33,29 @@ GPIO34–39: input-only (not usable as output like SCL)
 
 - [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] - [[sd-dat]]
 
+## RAM 
+
+### ESP32 DRAM Configuration
+
+ESP32 has **520 KB SRAM** split into multiple regions:
+
+- **DRAM0**: 192 KB - Main data RAM for variables and heap
+- **DRAM1**: 128 KB - Instruction RAM cache (can be used as data RAM)  
+- **DRAM2**: 200 KB - Used by WiFi/Bluetooth stack and DMA buffers
+
+**Key Points:**
+- **Internal DRAM**: Fast access, used for critical data and stack
+- **External PSRAM**: Optional 4-8MB external RAM (via SPI)
+- **DMA Capable**: Some regions support DMA operations
+- **Shared Memory**: WiFi/BT libraries consume significant DRAM
+
+**Memory Management:**
+- Heap allocation uses internal DRAM first
+- Large buffers should use PSRAM when available
+- Use `esp_get_free_heap_size()` to monitor usage
 
 
-ref 
-
-- https://electropeak.com/learn/full-guide-to-esp32-pinout-reference-what-gpio-pins-should-we-use/
-- https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
-
-
-
+- [[memory-dat]]
 
 ## Module Compare 
 
@@ -91,3 +105,12 @@ ref
 - [[ESP32-HDK]]
 
 EMAC = Ethernet 
+
+
+ref 
+
+- https://electropeak.com/learn/full-guide-to-esp32-pinout-reference-what-gpio-pins-should-we-use/
+- https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+
+
+

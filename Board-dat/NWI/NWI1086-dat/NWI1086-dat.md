@@ -22,18 +22,7 @@ Price will automatically update in cart when the order quantity is changed.
 
 
 
-- [[ESP-12S]]
 
-- 信泰微 300 = 2370 = 7.9
-
-
-## 发货 
-
-一盘 1200 个 3盘 3600 个
-
-三箱需要纸箱 40 x 40 x 30 cm
-
-- [[纸箱]]
 
 ## ref 
 

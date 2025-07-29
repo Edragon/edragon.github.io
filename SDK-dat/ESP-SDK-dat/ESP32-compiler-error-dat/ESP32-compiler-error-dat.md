@@ -4,7 +4,25 @@
 
 ## common errors 
 
+
 better store file in [[sd-dat]] - [[memory-dat]]
+
+This error E (1183) intr_alloc: No free interrupt inputs indicates a hardware interrupt conflict between the I2S audio driver and the camera driver on your ESP32. Both peripherals are competing for the same system resources.
+
+To resolve this, you need to modify the interrupt allocation flags when initializing the I2S driver. This ensures it doesn't conflict with the interrupt required by the camera.
+
+Locate the i2s_config_t structure in your setup() function.
+Change the value of .intr_alloc_flags from 0 to ESP_INTR_FLAG_LEVEL1.
+
+
+    E (1183) intr_alloc: No free interrupt inputs for I2S0 interrupt (flags 0x40E)
+    E (1183) cam_hal: cam_config(407): cam intr alloc failed
+    E (1184) camera: Camera config failed with error 0xffffffff
+    Camera init failed with error 0xffffffff
+
+
+
+
 
 ## watchdog 
 

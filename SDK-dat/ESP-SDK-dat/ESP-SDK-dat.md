@@ -24,7 +24,9 @@
 
 - [[DMA-dat]]
 
-- [[memory-dat]]
+- [[memory-dat]] - [[DRAM-dat]]
+
+- [[stack-trace-decoder-dat]]
 
 ## Official SDK 
 

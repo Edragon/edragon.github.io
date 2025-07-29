@@ -53,4 +53,6 @@ For customized version please contact info@electrodragon.com, MOQ for this one i
 
 ## ref 
 
+- [[DS18B20-dat]]
+
 - [[STH1040]]

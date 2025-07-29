@@ -8,6 +8,11 @@
 - [[esp32-compiler-error-dat]]
 
 
+## coding 
+
+- [[micropython-dat]] - [[c-dat]]
+
+- [[arduino-ide-dat]] - [[arduino-ESP32-dat]]
 
 ## other reference 
 
