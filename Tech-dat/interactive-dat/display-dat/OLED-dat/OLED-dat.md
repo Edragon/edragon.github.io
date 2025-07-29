@@ -18,6 +18,14 @@ drive interface - [[I2C-dat]] - [[SPI-dat]]
 
 
 
+## OLED Libs for arduino 
+
+    Name                                               Installed Available   Location Description
+    ACROBOTIC SSD1306                                  1.0.1     -           user     -
+    ESP8266 and ESP32 OLED driver for SSD1306 displays 4.6.1     -           user     -
+    SSD1306wire                                        2.0.1     -           user     -
+
+
 
 
 ## PCB OLED 

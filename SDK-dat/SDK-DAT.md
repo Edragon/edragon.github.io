@@ -5,7 +5,7 @@
 
 - [[ESP-SDK-dat]]
 
-- [[arduino-ide-dat]]
+- [[arduino-ide-dat]] - [[arduino-cli-dat]]
 
 - [[python-dat]]
 
@@ -13,6 +13,10 @@
 
 - [[VSCODE-dat]] - [[platformIO-dat]]
 
+
+## hardware 
+
+- [[camera-sdk-dat]] - [[display-sdk-dat]]
 
 
 ## more 

@@ -19,10 +19,11 @@
 
 - [[power-dat]]
   
-- [[Tech-DAT]] - [[app-dat]] - [[SDK-DAT]] - [[circuits-dat]] - [[PCB-dat]] - [[PCBA-dat]] - [[tools-dat]]
+- [[Tech-DAT]] - [[app-dat]] - [[circuits-dat]] - [[PCB-dat]] - [[PCBA-dat]] - [[tools-dat]]
   
 - [[mechanics-dat]] - [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] 
 
+- [[SDK-DAT]]
 
 ## Weekly Updates 
 
