@@ -15,3 +15,12 @@ https://github.com/Microsoft/vscode-arduino.git
 
 
 https://github.com/microsoft/vscode-serial-monitor.git
+
+
+
+## developer extensions 
+
+- arduino 
+- platformio
+- esp-idf
+- 
