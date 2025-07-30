@@ -1,6 +1,22 @@
 
 # ESP32-debug-log-dat
 
+
+## serial read 
+
+串口接收有一个buffer，每次read其实是从buffer中读取数据，并不是直接从串口读入的
+
+## Interrupt Control Issues Troubleshooting
+
+**Arduino examples wiki link:** https://docs.espressif.com/projects/arduino-esp32/en/latest/libraries.html
+
+### Common Issues and Solutions:
+
+1. **Interrupt functions need the `ARDUINO_ISR_ATTR` macro**
+2. **Use serial debugging**
+3. **Program crashes due to incorrect flash size settings**
+
+
 ## boot log  
 
 

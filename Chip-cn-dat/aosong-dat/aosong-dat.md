@@ -3,7 +3,7 @@
 ![](2024-02-28-16-16-27.png)
 
 
-- [[STH1010-dat]] - [[STH1046-dat]] - [[STH1036-dat]] - [[STH1033-dat]] - [[STH1020-dat]]
+- [[STH1010-dat]] - [[STH1046-dat]] == [[DHT11-dat]] - [[STH1036-dat]] - [[STH1033-dat]] - [[STH1020-dat]]
 
 - [[STH1063-dat]]
 
@@ -22,11 +22,14 @@ https://www.electrodragon.com/product/amt1001-module-resistive-temperature-humid
 - [[AM2320-dat]] - [[AM2322-dat]]
 
 
+
+
+
 ## Specs 
 
 | Model   | func    | status    | Interface   | temperature range | temperature precisions | humidity range | humidity precisions | SKU             |
 | ------- | ------- | --------- | ----------- | ----------------- | ---------------------- | -------------- | ------------------- | --------------- |
-| DHT11   | T+H     | yes       | 1-wire      | -20~60 C          | +/-2 C                 | 5~95 % RH      | +/-5 % RH           | [[STH1046-dat]] |
+| [[DHT11-dat]]   | T+H     | yes       | 1-wire      | -20~60 C          | +/-2 C                 | 5~95 % RH      | +/-5 % RH           | [[STH1046-dat]] |
 | AM2301  | T+H     | yes       | 1-wire      | -40~80 C          | +/-0.5 C               | 0~99.9 % RH    | +/-3 % RH           | [[STH1036-dat]] |
 | AM2302  | T+H     | yes       | 1-wire      | -40~80 C          | +/-0.5 C               | 0~99.9 % RH    | +/-3 % RH           | [[STH1010-dat]] |
 | AM2320  | T+H     | yes       | IIC         | -40~80 C          | +/-0.5 C               | 0~99.9 % RH    | +/-3 % RH           | [[STH1024-dat]] |

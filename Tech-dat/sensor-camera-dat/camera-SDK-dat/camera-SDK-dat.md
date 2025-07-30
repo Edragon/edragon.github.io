@@ -85,6 +85,14 @@ This will copy the newly created image locally for viewing.
 - [[freeRTOS-dat]]
 
 
+
+## repo 
+
+- https://github.com/Edragon/Camera
+- https://github.com/Edragon/esp32-camera-series
+- https://github.com/Edragon/esp32-camera-screen
+
+
 ## ref 
 
 - [[camera-dat]]

@@ -3,7 +3,7 @@
 
 - legacy wiki page - https://www.electrodragon.com/w/index.php?title=DHT11
 
-- DHT11
+- [[DHT11-dat]]
 
 ## Specs 
 
@@ -26,3 +26,5 @@ Resolution = 0.1 C
 ## ref 
 
 - [[aosong-dat]]
+
+- [[peripherals-dat]]

@@ -43,3 +43,14 @@ Example (send TCP):
 
     conn.close()
 
+
+1）	tcp通讯过程
+
+![](2025-07-30-16-43-17.png)
+
+2）	tcp client
+
+![](2025-07-30-16-43-33.png)
+
+
+[[http-dat]]、[[mqtt-dat]] 这些协议都是在tcp之上的协议。

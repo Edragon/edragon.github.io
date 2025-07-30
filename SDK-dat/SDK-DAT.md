@@ -3,11 +3,18 @@
 
 - [[STM32-dat]]
 
-- [[ESP-SDK-dat]]
+- [[ESP-SDK-dat]] - [[ESP-IDF-dat]]
 
 - [[arduino-ide-dat]] - [[arduino-cli-dat]]
 
 - [[python-dat]] - [[script-based-SDK-dat]] - [[micropython-dat]] - [[circuitpython-dat]]
+
+- [[LVGL-dat]]
+
+- [[freertos-dat]]
+
+
+
 
 ## VS-code
 

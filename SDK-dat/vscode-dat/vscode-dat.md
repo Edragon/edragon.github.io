@@ -23,4 +23,11 @@ https://github.com/microsoft/vscode-serial-monitor.git
 - arduino 
 - platformio
 - esp-idf
-- 
+- C/C++ 
+- Cmake 
+- makefile tools 
+- python - jupyter
+- serial monitor 
+- code runner 
+
+

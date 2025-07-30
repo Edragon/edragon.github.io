@@ -1,11 +1,21 @@
 
 # ESP32-S3-dat 
 
-- [[ESP32-S3-chip-DAT]] - [[ESP32-S3-module-DAT]] - [[ESP32-S3-Board-DAT]] - [[ESP32-S3-app-DAT]]
+- [[ESP32-S3-chip-DAT]] - [[ESP32-S3-module-DAT]] - [[ESP32-S3-app-DAT]]
 
 - [[ESP32-SDK-dat]] - [[ESP-SDK-dat]]
 
 - [[ESP32-S3-SDK-dat]]
+
+
+## board 
+
+- [[ESP32-S3-Board-DAT]]
+
+- [[NWI1243-dat]]
+
+- [[ESP32-S3-cam-dat]]
+
 
 
 

@@ -18,14 +18,16 @@
 
 - [[sensor-dat]] - [[sensor-touch-dat]] - [[camera-dat]]
 
-- [[interface-interactive-dat]]
+- [[interface-interactive-dat]] - [[display-dat]]
 
 - [[memory-dat]] - [[sd-dat]]
 
 
+
+
 ## other categories
 
-- [[network-dat]] - [[encryption-dat]]
+- [[network-dat]] - [[encryption-dat]] - [[wifi-dat]] - [[BLE-dat]]
 
 - [[power-dat]] - [[LDO-dat]]
 

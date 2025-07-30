@@ -1,6 +1,8 @@
 
 # circuitpython-dat
 
+- [[circuitpython-esp32-s3-dat]]
+
 circuitpython 
 - board
 - digitalio

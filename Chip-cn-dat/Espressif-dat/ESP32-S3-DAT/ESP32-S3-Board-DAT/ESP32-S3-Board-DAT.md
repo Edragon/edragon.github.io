@@ -13,14 +13,7 @@
 
 ![](2025-01-06-15-26-25.png)
 
-## Cloned Core Board SCH with CAM 
 
-![](2025-01-06-15-50-00.png)
-
-- GPIO 3 == pull-up 
-- GPIO 35 == LED 
-- EN == button, pull-up, filter-cap 
-- IO0 == button, pull-up
 
 ## peripharals 
 

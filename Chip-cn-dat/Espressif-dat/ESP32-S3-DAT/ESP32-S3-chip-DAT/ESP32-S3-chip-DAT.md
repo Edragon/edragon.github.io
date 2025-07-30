@@ -3,6 +3,8 @@
 
 - [[esp32-s3_datasheet_en.pdf]]
 
+- [[esp32-s3_规格说明书-中文版.pdf]] - [[esp32-s3_技术手册-中文版.pdf]]
+
 ## function map 
 
 ![](2024-08-16-18-27-43.png)

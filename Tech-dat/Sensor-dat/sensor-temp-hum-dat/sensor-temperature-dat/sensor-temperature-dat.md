@@ -20,8 +20,6 @@ wireless measurement
 
 ## chips 
 
-- [[aosong-dat]]
-
 - [[LM75-dat]] - [[STH1071-dat]]
 
 - [[sensirion-dat]] - [[SHT4x-dat]]
@@ -31,17 +29,13 @@ wireless measurement
 - [[BMP280-dat]]
 
 
+## chip brands 
 
-
-
-
+- [[aosong-dat]]
 
 ## common use 
 
 - mini size: [[AHT20-dat]] - [[SHT4x-dat]] - [[SHT30-dat]]
-
-
-
 
 
 ## ref 
