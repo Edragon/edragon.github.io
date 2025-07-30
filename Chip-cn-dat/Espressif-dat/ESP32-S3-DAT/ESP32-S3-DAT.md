@@ -5,6 +5,9 @@
 
 - [[ESP32-SDK-dat]] - [[ESP-SDK-dat]]
 
+- [[ESP32-S3-SDK-dat]]
+
+
 
 ## built-in USB JTAG 
 

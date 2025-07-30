@@ -15,3 +15,11 @@
 - [[logic-gate-dat]] - [[buffer-dat]]
 
 - [[switching-dat]] - [[switch-dat]]
+
+## repo 
+
+- https://github.com/Edragon/logic-shifter
+
+
+## ref 
+

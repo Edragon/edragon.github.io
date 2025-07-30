@@ -35,6 +35,14 @@ https://www.electrodragon.com/w/Usbasp
 System wide configuration file is "C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/etc/avrdude.conf"
 
 
+
+## repo
+
+https://github.com/Edragon/USBaspLoader
+
+
+
+
 ## ref 
 
 - [[driver-dat]] - [[avr-dat]] 

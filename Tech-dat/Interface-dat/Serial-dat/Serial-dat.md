@@ -122,6 +122,12 @@ Booting Mode select
 - [[Arduino-ide-dat]] == [[CH9102-dat]] - [[CH9104-dat]] - [[FT232RL-dat]] - [[CP2102-dat]] - [[CP2104-dat]]
 
 
+## driver 
+
+- https://github.com/Edragon/COM-Driver
+- https://github.com/Edragon/Tools
+- https://github.com/Edragon/git-Debug
+
 
 
 ## ref 

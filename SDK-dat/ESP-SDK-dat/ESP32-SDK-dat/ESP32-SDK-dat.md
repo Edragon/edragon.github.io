@@ -1,9 +1,10 @@
 # ESP32-SDK-dat
 
+- [[ESP-SDK-dat]]
+
 - [[ESP32-dat]] 
 
-- [[ESP32-HDK-dat]] - [[ESP-SDK-dat]]
-
+- [[ESP32-HDK-dat]] 
 
 - [[ESP32-debug-log-dat]] - [[ESP32-boot-log-dat]]
 

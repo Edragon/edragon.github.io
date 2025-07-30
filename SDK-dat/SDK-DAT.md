@@ -1,5 +1,5 @@
 
-# SDK DAT
+# SDK-DAT
 
 - [[STM32-dat]]
 
@@ -7,7 +7,7 @@
 
 - [[arduino-ide-dat]] - [[arduino-cli-dat]]
 
-- [[python-dat]]
+- [[python-dat]] - [[script-based-SDK-dat]] - [[micropython-dat]] - [[circuitpython-dat]]
 
 ## VS-code
 
@@ -18,6 +18,7 @@
 
 - [[camera-sdk-dat]] - [[display-sdk-dat]]
 
+- [[avr-sdk-dat]]
 
 ## more 
 

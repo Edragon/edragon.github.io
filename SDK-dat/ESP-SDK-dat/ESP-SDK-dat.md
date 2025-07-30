@@ -18,7 +18,6 @@
 
 - [[esp-idf-dat]] 
 
-- [[openOCD-dat]] 
 
 - [[freertos-dat]]
 
@@ -30,7 +29,11 @@
 
 - [[stack-trace-decoder-dat]]
 
+## interface 
 
+- [[serial-dat]]
+
+- [[openOCD-dat]] - [[jtag-dat]]
 
 
 ## Official SDK 
