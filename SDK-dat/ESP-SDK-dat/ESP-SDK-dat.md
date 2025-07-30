@@ -6,20 +6,44 @@
 
 - [[ESP32-HDK-dat]]
 
-- [[ESP-dat]] - [[ESP-SDK-dat]] - [[ESP32-SDK-dat]] - [[ESP8266-SDK-dat]]
+- [[ESP-dat]] 
 
-- [[SPIFFS-dat]]
-
-- [[script-based-SDK-dat]] - [[circuitpython-dat]]
-
-- [[flash-download-tool-dat]] - [[esptool-dat]]
+## IDE 
 
 - [[arduino-ide-dat]] - [[platformio-dat]] - [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
 
 - [[esp-idf-dat]] 
 
+- [[script-based-SDK-dat]] - [[circuitpython-dat]] - [[micropython-dat]]
+
+- [[c-dat]]
+
+
+
+## SUB SDK 
+
+- [[ESP-SDK-dat]]  
+
+- [[ESP8266-SDK-dat]]
+
+- [[ESP32-SDK-dat]] - [[ESP32-S3-SDK-dat]] - [[ESP32-C3-SDK-dat]]
+
+
+## programming and debugging interface 
+
+- [[serial-dat]]
+
+- [[openOCD-dat]] - [[jtag-dat]]
+
+- [[stack-trace-decoder-dat]]
+
+- [[flash-download-tool-dat]] - [[esptool-dat]]
+
+## System and functions 
 
 - [[freertos-dat]]
+
+- [[SPIFFS-dat]]
 
 - [[nework-sdk-dat]] - [[camera-sdk-dat]]
 
@@ -27,28 +51,14 @@
 
 - [[memory-dat]] - [[DRAM-dat]]
 
-- [[stack-trace-decoder-dat]]
-
-## interface 
-
-- [[serial-dat]]
-
-- [[openOCD-dat]] - [[jtag-dat]]
+- [[OTA-dat]]
 
 
-## Official SDK 
+## logs 
 
-- [[esp-idf-dat]] 
-
-- [[platformIO-dat]]
+- [[ESP-debug-log-dat]] - [[ESP-Compile-log-dat]] - [[ESP-boot-log-dat]]
 
 
-## ESP Arduino code and firmware 
-
-
-- [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
-
-- arduino firmware - https://github.com/Edragon/esp_firmware
 
 ## Firmware and APPs 
 

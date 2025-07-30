@@ -2,6 +2,8 @@
 
 # ESP IDF
 
+- [[C-dat]] - [[cmake-dat]]
+
 ## install 
 
 - [[esp-idf-vscode-dat]] - [[vscode-dat]]

@@ -1,6 +1,8 @@
 
 # C-dat
 
+- [[ccache-dat]]
+
 command example 
 
     ./epd
@@ -17,8 +19,14 @@ http://llvm.org/
 
 https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8 == LLVM-18.1.8-woa64.exe
 
-"clang-format.executable": "C:\\Program Files (x86)\\LLVM\\bin\\clang-format.exe"
+    "clang-format.executable": "C:\\Program Files (x86)\\LLVM\\bin\\clang-format.exe"
 
 D:\Program Files\LLVM\bin\clang-format.exe
 
 - [[MSYS2-dat]]
+
+- [[rpi-c-dat]]
+
+## ref 
+
+- [[sdk-dat]]

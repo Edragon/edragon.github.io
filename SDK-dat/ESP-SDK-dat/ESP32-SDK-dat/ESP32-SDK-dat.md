@@ -6,19 +6,7 @@
 
 - [[ESP32-HDK-dat]] 
 
-- [[ESP32-debug-log-dat]] - [[ESP32-boot-log-dat]]
 
-- [[esp32-compiler-error-dat]]
-
-- [[JTAG-dat]] - [[OTA-dat]]
-
-
-
-## coding 
-
-- [[micropython-dat]] - [[c-dat]]
-
-- [[arduino-ide-dat]] - [[arduino-ESP32-dat]]
 
 ## other reference 
 
