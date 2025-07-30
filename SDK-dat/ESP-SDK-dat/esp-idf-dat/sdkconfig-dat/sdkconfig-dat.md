@@ -1,0 +1,7 @@
+
+
+
+# sdkconfig-dat
+
+
+- CONFIG_ESPTOOLPY_MONITOR_BAUD=74880

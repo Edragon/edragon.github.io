@@ -73,6 +73,8 @@
 
 - [[ethernet-dat]] - [[USB-dat]]
 
+- [[bluetooth-dat]] - [[ble-dat]]
+
 ### MCU / CTRL / Processing 
 
 - [[mcu-dat]] - [[development-board-dat]]

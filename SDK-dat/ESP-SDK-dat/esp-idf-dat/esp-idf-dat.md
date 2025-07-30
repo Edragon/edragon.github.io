@@ -2,7 +2,9 @@
 
 # ESP IDF
 
-- [[esp-idf-vscode-dat]]
+## install 
+
+- [[esp-idf-vscode-dat]] - [[vscode-dat]]
 
 * [esp-idf github](https://github.com/espressif/esp-idf)
 
@@ -62,6 +64,11 @@ Setting up Python environment
 Creating a new Python environment in C:\Users\Administrator\.espressif\python_env\idf5.0_py3.10_env
 
 
+## start a project 
+
+- [[template-app-dat]]
+
+
 
 ## example - blink 
 
@@ -99,6 +106,21 @@ Advanced
 
 ## compile 
 
+
+
+
+
+
+    *******************************************************************************
+    # ESP-IDF Partition Table
+    # Name, Type, SubType, Offset, Size, Flags
+    nvs,data,nvs,0x9000,24K,
+    phy_init,data,phy,0xf000,4K,
+    factory,app,factory,0x10000,1M,
+    *******************************************************************************
+    [75/1063] Building C object esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_tdm.c.obj
+
+
 ### compile ninja 
 
  *  Executing task: e:\work-data\IDF_tools\tools\ninja\1.12.1\ninja.EXE  
@@ -109,7 +131,6 @@ Advanced
     [1/1] C:\WINDOWS\system32\cmd.exe /C "cd /D E:\Git-category\Git-Arduino\esp-idf-code\blink\blink\build\bootloader\esp-idf\esptool_py && e:\work-data\IDF_tools\python_env\idf5.5_py3.11_env\Scripts\python.exe E:/work-data/IDF/v5.5/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 E:/Git-category/Git-Arduino/esp-idf-code/blink/blink/build/bootloader/bootloader.bin"
     Bootloader binary size 0x6680 bytes. 0x980 bytes (8%) free.
     [4/4] Completed 'bootloader'
-
 
 
 ### compile summary 
@@ -163,4 +184,42 @@ UART == [[serial-dat]]
     --- Using \\.\COM1 instead...
     --- esp-idf-monitor 1.7.0 on \\.\COM1 115200
     --- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+
+
+
+
+## SDKCONFIG 
+
+- sdkconfig
+- sdkconfig.defaults
+- sdkconfig.defaults.esp32
+- sdkconfig.defaults.esp32c3
+- sdkconfig.defaults.esp32c5
+- sdkconfig.defaults.esp32c6
+- sdkconfig.defaults.esp32c61
+- sdkconfig.defaults.esp32h2
+- sdkconfig.defaults.esp32p4
+- sdkconfig.defaults.esp32s2
+- sdkconfig.defaults.esp32s3
+
+### ✅ Required Files (For ESP32-S3 Only)
+
+| File Name                    | Required | Description                                               |
+|-----------------------------|----------|-----------------------------------------------------------|
+| `sdkconfig.defaults.esp32s3`| ✅       | Default configuration specific to ESP32-S3               |
+| `sdkconfig`                 | ✅       | Generated after `idf.py menuconfig` or first build       |
+
+
+✅ Optional Simplification
+
+If you're only working with ESP32-S3, you can rename:
+
+    mv sdkconfig.defaults.esp32s3 sdkconfig.defaults
+
+Then build normally:
+
+    idf.py build
+
+## IDF.py 
+
 

@@ -17,6 +17,8 @@ For Android devices, you can directly install the following apps:
 
 ![](2025-07-30-16-44-50.png)
 
+- [[BLE蓝牙调试助手.apk.1]] - [[BT-Connect.apk]]
+
 ## BLE Operations Guide
 
 ### Reading and Writing Bluetooth Data
@@ -46,7 +48,7 @@ For Android devices, you can directly install the following apps:
 
 - https://play.google.com/store/apps/dev?id=7265678888812659353&hl=en_US
 
-- [[JDY-dat]] - [[JDY-25M-dat]] - [[BT Connect.apk]]
+- [[JDY-dat]] - [[JDY-25M-dat]] 
 
 - Wireshark 
 
