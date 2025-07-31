@@ -13,9 +13,10 @@ Arduino IDE
 If you are using the arduino-esp32 core in Arduino IDE, no installation is needed! You can use esp32-camera right away.
 
 
+
 ## repro 
 
-- [[openMV-dat]]
+- [[opencv-dat]] - [[openMV-dat]]
 
 - [[circuitpython-dat]] - better support for [[ESP32-S3-dat]] not well support for ESP32-CAM == [[SCM1030-dat]] == https://github.com/adafruit/Adafruit_CircuitPython_OV2640/issues/22
 
@@ -94,6 +95,8 @@ This will copy the newly created image locally for viewing.
 
 
 
+
+
 ## repo 
 
 - https://github.com/Edragon/Camera
@@ -101,8 +104,91 @@ This will copy the newly created image locally for viewing.
 - https://github.com/Edragon/esp32-camera-screen
 
 
+
+
+
+
+
 ## ref 
 
 - [[camera-dat]]
 
 - [[camera-SDK]] - [[SDK]]
+
+
+## setup 
+
+AI-Thinker esp32-cam board
+
+    ai_thinker = {PIN_PWDN:32,
+                  PIN_RESET:-1,
+                  PIN_XCLK:0,
+                  PIN_SIOD:26,
+                  PIN_SIOC:27,
+                  PIN_D7:35,
+                  PIN_D6:34,
+                  PIN_D5:39,
+                  PIN_D4:36,
+                  PIN_D3:21,
+                  PIN_D2:19,
+                  PIN_D1:18,
+                  PIN_D0:5,
+                  PIN_VSYNC:25,
+                  PIN_HREF:23,
+                  PIN_PCLK:22,
+                  XCLK_MHZ:16,
+                  PIXFORMAT:5,
+                  FRAMESIZE:10,
+                  JPEG_QUALITY:10,
+                  FB_COUNT:1,
+    }
+
+Electrodragon esp32s3-cam board (default in firmware)
+
+    Electrodragon = {PIN_PWDN:-1,
+                PIN_RESET:-1,
+                PIN_XCLK:15,
+                PIN_SIOD:4,
+                PIN_SIOC:5,
+                PIN_D7:16,
+                PIN_D6:17,
+                PIN_D5:18,
+                PIN_D4:12,
+                PIN_D3:10,
+                PIN_D2:8,
+                PIN_D1:9,
+                PIN_D0:11,
+                PIN_VSYNC:6,
+                PIN_HREF:7,
+                PIN_PCLK:13,
+                XCLK_MHZ:14,
+                PIXFORMAT:5,
+                FRAMESIZE:10,
+                JPEG_QUALITY:12,
+                FB_COUNT:2, 
+    }
+
+Lilygo T-camera V1.6 esp32s3-cam board (default in firmware)
+
+    lilygo = {PIN_PWDN:-1,
+            PIN_RESET:39,
+            PIN_XCLK:38,
+            PIN_SIOD:5,
+            PIN_SIOC:4,
+            PIN_D7:9,
+            PIN_D6:10,
+            PIN_D5:11,
+            PIN_D4:13,
+            PIN_D3:21,
+            PIN_D2:48,
+            PIN_D1:47,
+            PIN_D0:14,
+            PIN_VSYNC:8,
+            PIN_HREF:18,
+            PIN_PCLK:12,
+            XCLK_MHZ:14,
+            PIXFORMAT:5,
+            FRAMESIZE:10,
+            JPEG_QUALITY:12,
+            FB_COUNT:2, 
+    }
