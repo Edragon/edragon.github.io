@@ -1,13 +1,21 @@
 
 # OPM1178 dat 
 
-https://www.electrodragon.com/product/mini-ac-dc-isolated-power-module-5vout-700ma-3-5w/
+
+[mini-ac-dc-isolated-power-module-5vout-700ma-3-5w](https://www.electrodragon.com/product/mini-ac-dc-isolated-power-module-5vout-700ma-3-5w/)
+
+
 
 Output voltage: 5V
 
 Input voltage range: AC50V-277V; DC70V-390v
 
 Module size 23.5 x 15 x 13.5 mm.
+
+![](2025-07-31-18-40-33.png)
+
+![](2025-07-31-18-40-47.png)
+
 
 ## specs 
 
