@@ -30,9 +30,14 @@ If you are using the arduino-esp32 core in Arduino IDE, no installation is neede
 - https://github.com/donny681/ESP32_CAMERA_QR
 - https://github.com/ArduCAM/Arduino
 
+
+esp32-cam-micropython-2022
+
 https://github.com/shariltumin/esp32-cam-micropython-2022
 
 https://github.com/shariltumin/esp32-cam-micropython-2022/blob/main/Christmas-2023-Edition/scripts/cam_config.py
+
+https://github.com/Edragon/esp32-cam-micropython-2022
 
 
 [[micropython-dat]] - [[script-based-SDK-dat]]

@@ -75,28 +75,30 @@ rotate to fit physically
 
 
 
-## base board == bottom board 
+## BOT PLUG board 
 
-- [[ESP32-dat]]
+- [[ESP32-dat]] - [[ESP32-Socket-Energy-dat]]
 
 ![](40-27-15-02-08-2023.png)
+
+
+
+- [[DAR1060-dat]]
 
 - [[NWI1230-dat]] == [[ESP8266-dat]]
 
 ![](2025-07-16-15-24-50.png)
 
-- [[DAR1060-dat]]
 
-
-
-
-## supported boards == module board == top board 
-
+## TOP Base board module board
 
 
 - [[NGS1128-DAT]] == [[SIM7080-dat]]
 
 - [[SX1262-MD1-dat]] - [[SX1262-dat]]
+
+
+
 
 ## attach board ref 
 
