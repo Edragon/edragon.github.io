@@ -1,6 +1,26 @@
 
 # C-dat
 
+
+IntelliSense Configurations
+
+${config:idf.toolsPathWin}\tools\xtensa-esp-elf\esp-13.2.0_20240530\xtensa-esp-elf\bin\xtensa-esp32s3-elf-gcc.exe
+
+    Cannot find: d:\Espressif\tools\tools\xtensa-esp-elf\esp-13.2.0_20240530\xtensa-esp-elf\bin\xtensa-esp32s3-elf-gcc.exe
+
+Include path
+
+One include path per line.
+
+${config:idf.espIdfPath}/components/**
+${config:idf.espIdfPathWin}/components/**
+${workspaceFolder}/**
+C:/Users/flushddd/Desktop/esp32projects/esp32cam/components/cam_driver/**
+
+    Cannot find: d:/Espressif/frameworks/esp-idf-v5.4.1/components/
+    Cannot find: C:/Users/flushddd/Desktop/esp32projects/esp32cam/components/cam_driver/
+
+
 - [[ccache-dat]]
 
 command example 

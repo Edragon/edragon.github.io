@@ -2,7 +2,26 @@
 
 # ESP IDF
 
-- [[C-dat]] - [[cmake-dat]]
+- [[C-dat]] - [[cmake-dat]] - [[esp-CMakelists-dat]] 
+
+- [[sdkconfig-dat]] - [[menuconfig-dat]]
+
+- [[esp-idf-vscode-dat]] 
+
+- [[esp-idf-error-dat]] 
+
+## demo code 
+
+- https://github.com/Edragon/esp-idf-code
+
+## how to use a downloaded project 
+
+- replace .vscode/settings.json with your own .vscode/settings.json
+- optionally replace .vsconde/c_cpp_properties.json with your own .vscode/c_cpp_properties.json
+
+
+
+
 
 ## install 
 
@@ -46,6 +65,11 @@ Attached to this release is an esp-idf-v5.0.zip archive. It includes .git direct
 
 This archive can also be downloaded from Espressif's download server:
 https://dl.espressif.com/github_assets/espressif/esp-idf/releases/download/v5.0/esp-idf-v5.0.zip
+
+
+- idf install python 3.11
+- idf-vs install python 3.8.7
+
 
 
 ### installer
