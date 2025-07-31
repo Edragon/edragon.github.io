@@ -14,7 +14,7 @@
 
 - [[esp-idf-dat]] 
 
-- [[script-based-SDK-dat]] - [[circuitpython-dat]] - [[micropython-dat]]
+- [[script-based-SDK-dat]] - [[circuitpython-dat]] - [[circuitpython-esp32-s3-dat]] - [[micropython-dat]]
 
 - [[c-dat]]
 

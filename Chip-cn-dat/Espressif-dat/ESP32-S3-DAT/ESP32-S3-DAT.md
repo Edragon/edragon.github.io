@@ -23,7 +23,11 @@
 
 - [[JTAG-dat]]
 
-IDF list 
+![](2025-07-31-13-03-47.png)
+
+
+
+## IDF list 
 
 - ESP32-S3 chip (via builtin USB-JTAG)
 - ESP32-S3 chip (via builtin USB-JTAG)

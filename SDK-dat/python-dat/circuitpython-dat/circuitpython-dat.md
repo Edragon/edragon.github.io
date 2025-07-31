@@ -3,6 +3,8 @@
 
 - [[circuitpython-esp32-s3-dat]]
 
+- [[settings.toml]] setup and print wifi info [[w.py]]
+
 circuitpython 
 - board
 - digitalio
@@ -12,7 +14,12 @@ circuitpython
 https://github.com/adafruit/circuitpython
 
 
-Start the UF2 Bootloader
+
+
+## UF2 bootloader 
+
+
+### Start the UF2 Bootloader
 
 Nearly all CircuitPython boards ship with a bootloader called UF2 (USB Flashing Format) that makes installing and updating CircuitPython a quick and easy process. The bootloader is the mode your board needs to be in for the CircuitPython .uf2 file you downloaded to work. If the file you downloaded that matches the board name ends in uf2 then you want to continue with this section. However, if the file ends in .bin, you have to do a more complex installation - go to this page for details.
 
@@ -82,12 +89,31 @@ mpremote connect COM6 fs cp settings.toml :
     My IP address is 192.168.79.226
 
 
+## driver and libs 
 
-## OV2640 
+https://docs.circuitpython.org/projects/bundle/en/latest/drivers.html
+
+Warning
+
+This module requires the CircuitPython imagecapture module which is only in the unreleased development version ("Absolute Newest") of CircuitPython and is only supported on specific boards.
+
+The CircuitPython build for your board must support the ``imagecapture`` module.
+
+### OV2640 
+
+- [[adafruit_ov2640.py]] - [[ov2640_micropython_test.py]] - [[ov2640_simpletest.py]]
 
 - https://github.com/adafruit/Adafruit_CircuitPython_OV2640
 
 - https://docs.circuitpython.org/projects/ov2640/en/latest/
+
+
+### pycamera
+
+- https://github.com/adafruit/Adafruit_PyCamera
+
+
+
 
 
 
