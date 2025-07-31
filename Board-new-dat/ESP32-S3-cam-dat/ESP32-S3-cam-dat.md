@@ -1,6 +1,10 @@
 
 # ESP32-S3-cam-dat
 
+- [[camera-sdk-dat]]
+
+
+![](2025-07-31-15-24-30.png)
 
 ## pin map 
 
@@ -53,6 +57,34 @@
 | GPIO19 | USB_D+   | ADC2_CH8 | URTS  |
 | GND    |          |          |       |
 
+
+## miropython setup 
+
+== esp32s3-freenove
+
+esp32-s3 = {
+    PIN_PWDN: -1,
+    PIN_RESET: -1,
+    PIN_XCLK: 15,      # CAM_XCLK: GPIO15
+    PIN_SIOD: 4,       # CAM_SIOD: GPIO4
+    PIN_SIOC: 5,       # CAM_SIOC: GPIO5
+    PIN_D7: 16
+    PIN_D6: 17
+    PIN_D5: 18
+    PIN_D4: 12
+    PIN_D3: 10
+    PIN_D2: 8
+    PIN_D1: 9
+    PIN_D0: 11
+    PIN_VSYNC: 6,      # CAM_VSYNC: GPIO6
+    PIN_HREF: 7,       # CAM_HREF: GPIO7
+    PIN_PCLK: 13,      # CAM_PCLK: GPIO13
+    XCLK_MHZ: 12,
+    PIXFORMAT: 5,
+    FRAMESIZE: 10,
+    JPEG_QUALITY: 10,
+    FB_COUNT: 1,
+}
 
 
 

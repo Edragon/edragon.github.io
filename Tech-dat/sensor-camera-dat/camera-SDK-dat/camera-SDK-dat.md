@@ -29,10 +29,18 @@ If you are using the arduino-esp32 core in Arduino IDE, no installation is neede
 - https://github.com/donny681/ESP32_CAMERA_QR
 - https://github.com/ArduCAM/Arduino
 
+https://github.com/shariltumin/esp32-cam-micropython-2022
+
+https://github.com/shariltumin/esp32-cam-micropython-2022/blob/main/Christmas-2023-Edition/scripts/cam_config.py
 
 
+[[micropython-dat]] - [[script-based-SDK-dat]]
 
-[[micropython-dat]] - [[script-based-SDK]]
+- [[esp-idf-dat]]
+
+- https://github.com/Edragon/esp-idf-code
+
+
 
 ## OV2640 
 
@@ -96,3 +104,5 @@ This will copy the newly created image locally for viewing.
 ## ref 
 
 - [[camera-dat]]
+
+- [[camera-SDK]] - [[SDK]]

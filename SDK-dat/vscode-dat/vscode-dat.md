@@ -6,10 +6,12 @@ https://github.com/Microsoft/vscode-cpptools.git
 C/C++ Configurations 
 
 Include path: 
-${workspaceFolder}/**
+
+    ${workspaceFolder}/**
 
 Extra path: 
-D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\arduino\avr\libraries\**
+
+    D:\arduino-1.8.19-windows\arduino-1.8.19\hardware\arduino\avr\libraries\**
 
 https://github.com/Microsoft/vscode-arduino.git
 
@@ -31,3 +33,11 @@ https://github.com/microsoft/vscode-serial-monitor.git
 - code runner 
 - [[vs-cpp-dat]]
 
+
+## setup formatter 
+
+Option 2: Through GUI (Search)
+
+    Go to File > Preferences > Settings
+
+Search for “Python Formatting Provider”

@@ -49,37 +49,16 @@ Open the USB flash drive, edit the main.py file, click Save, and reset the MCU t
 
 - [[ampy-dat]] - [[rshell-dat]] - [[mpremote-dat]]
 
+- [[esptool-dat]]
 
-## flash 
 
-    sudo esptool.py --port /dev/ttyUSB0 erase_flash
-    sudo esptool.py --port /dev/ttyUSB0 --baud 460800 write-flash --flash-size=detect 0 ~/Downloads/esp8266
-
-    esptool --port COM6 erase_flash
+flash by [[esptool-dat]]
 
 esp8266
     esptool --port COM6 --baud 460800 write-flash --flash-size=detect 0 ~/Downloads/esp8266
 
 esp32 
-
     esptool --port COM6 --baud 460800 write-flash 0x1000 ESP32_GENERIC-20250415-v1.25.0.bin
-
-and after flash 
-
-    rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
-    configsip: 0, SPIWP:0xee
-    clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
-    mode:DIO, clock div:2
-    load:0x3fff0030,len:4892
-    ho 0 tail 12 room 4
-    load:0x40078000,len:14896
-    load:0x40080400,len:4
-    load:0x40080404,len:3372
-    entry 0x400805b0
-    Performing initial setup
-    MicroPython v1.25.0 on 2025-04-15; Generic ESP32 module with ESP32
-    Type "help()" for more information.
-    >>> 
 
 
 
