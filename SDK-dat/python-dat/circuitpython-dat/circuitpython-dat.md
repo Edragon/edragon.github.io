@@ -93,6 +93,8 @@ mpremote connect COM6 fs cp settings.toml :
 
 https://docs.circuitpython.org/projects/bundle/en/latest/drivers.html
 
+pip3 install adafruit-circuitpython-busdevice
+
 Warning
 
 This module requires the CircuitPython imagecapture module which is only in the unreleased development version ("Absolute Newest") of CircuitPython and is only supported on specific boards.
