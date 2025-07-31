@@ -18,7 +18,7 @@ and more at [[espressif-dat]]
 
 - [[ESP32-chip-dat]] - [[ESP32-compare-dat]] - [[ESP32-old-dat]] - [[ESP32-chip-error-dat]]
   
-- [[ESP32-SDK-dat]] - [[ESP-SDK-dat]]
+- [[ESP-SDK-dat]] - [[ESP32-SDK-dat]]
 
 - [[ESP32-HDK-dat]] - [[ESP32-modules-dat]] - [[ESP32-board-dat]]
 

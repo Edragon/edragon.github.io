@@ -2,13 +2,37 @@
 
 - single core
 
+- ESP32-S2FH4
+
+ Ordering CodeEmbedded FlashEEmbedded PSRAM Ambient Temperature (°C)
+| Ordering Code   | Embedded Flash | Embedded PSRAM | Ambient Temperature (°C) |
+|----------------|----------------|---------------|-------------------------|
+| ESP32-S2       |                |               | 40~105                  |
+| ESP32-S2FH2    | 2MB            |               | 40~105                  |
+| ESP32-S2FH4    | 4MB            |               | 40~105                  |
+| ESP32-S2FN4R2  | 4MB            | 2MB           | 40~85                   |
+| ESP32-S2R2     |                | 2MB           | 40~85                   |
+
+
+
 ## Common module
+
+
 
 Official
 - ESP32-S2-SOLO
 - ESP32-S2-SOLO-2
+
+EOL 
+
+- ESP32-S2-WROOM
+- ESP32-S2-WROOM-I
 * [ESP32-S2-WROOM DS](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_cn.pdf)
 * [ESP32-S2-WROVER DS](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_cn.pdf)
+
+
+
+
 * ESP32-S2-SOLO (old? )
 * ESP32-S2-MINI (old? )
 
