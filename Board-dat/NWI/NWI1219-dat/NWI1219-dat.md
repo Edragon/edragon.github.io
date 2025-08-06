@@ -3,7 +3,7 @@
 
 legacy wiki page - https://w.electrodragon.com/w/WY7688
 
-- [[MT7688-dat]]
+- [[MT7688-dat]] - [[openwrt-dat]]
 
 This product is a network-standard embedded module based on a universal serial interface, with a built-in TCP/IP protocol stack. It enables conversion between user serial port, Ethernet, and wireless network (WiFi) interfaces.
 
