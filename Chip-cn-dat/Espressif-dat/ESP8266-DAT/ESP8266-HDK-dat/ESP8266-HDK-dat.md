@@ -105,6 +105,14 @@ The ESP8266EX schematics include seven aspects:
 
 - [[serial-dat]] - [[LDO-dat]]
 
+### programmer and programming 
+
+- [[DPR1150-dat]] - [[NWI1070-dat]] for ESP-01/01S 
+
+- Batch Brogramming for ESP8266 modules, use [[OPM1095-dat]] and [[DPR1120-dat]] - https://t.me/electrodragon3/331
+
+- [[DPR1106-dat]] == [ESP-12 Programmer Debugger](https://www.electrodragon.com/product/esp-12-programmer-debugger/)
+
 
 
 ## ref 

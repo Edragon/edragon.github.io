@@ -1,7 +1,7 @@
 
 # OPM1126-dat 
 
-
+- [[HLW8012-dat]] 
 
 ## Pin Definitions 
 
@@ -36,9 +36,13 @@ Output Side
 
 ![](2023-10-24-13-10-51.png)
 
+on board [[sample-resistor-dat]] == 2mR
+
+
+
 ## ref 
 
-- [[HLW8012-dat]] - [[HLW8032-dat]] - [[HLW-dat]] - [[ac-mains-dat]] - [[power-meter-dat/power-sensor-dat]]
+- [[HLW8032-dat]] - [[HLW-dat]] - [[ac-mains-dat]] - [[power-sensor-dat]]
 
 Boards - [[OPM1126-dat]]
 

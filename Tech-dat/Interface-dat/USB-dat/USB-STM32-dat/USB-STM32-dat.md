@@ -24,6 +24,14 @@ In other boot try:
 * In case of SLCAN software connect UCCB and type in terminal '''boot''' device should reset and new device should connect to Your pc
 
 
+## CMSIS-DAP USB 
+
+![](2025-08-06-15-47-41.png)
+
+
+
 ## ref 
 
 - [[STM32-dat]] - [[USB-dat]]
+
+- [[CMSIS-DAP-dat]] - [[MDK-ARM-dat]] - [[DAPLINK-dat]]

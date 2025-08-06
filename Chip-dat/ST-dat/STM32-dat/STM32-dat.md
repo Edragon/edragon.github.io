@@ -33,13 +33,12 @@ M2M - [[NGS1112-dat]]
 
 ## Programmer 
 
-offline-supported - [[DPR1130-dat]]
 
-[[CMSIS-DAP-dat]] - [[DPR1100-dat]] 
+- [[CMSIS-DAP-dat]] - [[DPR1100-dat]] 
 
-[[ST-LINK-dat]] - [[DPR1004-dat]] 
+- [[ST-LINK-dat]] - [[DPR1004-dat]] 
 
-
+- [[DAPlink-dat]] - [[DPR1116-dat]] - offline-supported [[DPR1157-dat]]
 
 ## software 
 
