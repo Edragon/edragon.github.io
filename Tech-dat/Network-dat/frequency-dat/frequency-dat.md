@@ -11,3 +11,53 @@ China has several ISM (Industrial, Scientific, and Medical) bands available for 
 - 5.8 GHz: The global 5.8 GHz band is also available.
 
 For LoRaWAN applications, the 470-510 MHz band is the most significant and widely deployed in China.
+
+
+
+## 🔐 1. Anti-Theft Tags (EAS – Electronic Article Surveillance)
+
+These are common in retail stores to prevent theft. They are **not** RFID but use simpler tech.
+
+- **Frequency:** **8.2 MHz** (RF system, most common)
+- **Other types:**
+  - **58 kHz** (AM system – Acousto-Magnetic)
+  - **Radio Frequency (RF):** 8.2 MHz
+  - **Microwave:** 2.45 GHz (rare)
+
+---
+
+## 📡 2. RFID Tags in Clothing
+
+Used for inventory, supply chain, smart fitting rooms, etc.
+
+### 🔸 a. **UHF (Ultra High Frequency) RFID**
+- **Frequency:** **860–960 MHz**
+- **Most common** in retail for clothing
+- **Read range:** Up to 10 meters
+- **Standard:** EPC Gen 2 / ISO 18000-6C
+
+### 🔸 b. **HF (High Frequency) RFID**
+- **Frequency:** **13.56 MHz**
+- **Used in smart labels, near-field communication (NFC)**
+- **Read range:** ~10 cm
+- **Standard:** ISO 14443 or ISO 15693
+
+---
+
+## ✅ Summary Table
+
+| Tag Type           | Frequency     | Use                          |
+|--------------------|---------------|-------------------------------|
+| EAS RF             | 8.2 MHz       | Anti-theft (retail)          |
+| EAS AM             | 58 kHz        | Anti-theft (retail)          |
+| RFID HF            | 13.56 MHz     | Inventory, NFC, smart tags   |
+| RFID UHF           | 860–960 MHz   | Inventory, long-range scans  |
+| Microwave RFID     | 2.45 GHz      | Rare, high-speed systems     |
+
+---
+
+## 👕 In Clothing Retail Today
+
+Most clothing stores use:
+- **EAS RF (8.2 MHz)** for anti-theft
+- **UHF RFID (860–960 MHz)** for inventory tracking
