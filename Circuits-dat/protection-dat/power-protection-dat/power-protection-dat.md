@@ -161,6 +161,42 @@ There are integrated circuits specifically designed for power protection, offeri
 
 
 
+## 🐢 Slew Rate Controlled
+
+- **Slew Rate**: How quickly the voltage goes from 0V to full power.
+- **Slew Rate Controlled**: The switch turns **on gradually**, not instantly.
+
+### 🟢 Why is this useful?
+
+- Prevents **large current spikes**.
+- Protects sensitive components.
+- Reduces **electrical noise** or interference.
+
+💡 Think of it like **slowly turning on a water faucet** instead of opening it fully right away — less splashing!
+
+
+
+
+## solutions 
+
+### AP2280 
+
+Single Channel Slew Rate Controlled Load Switch
+
+- Wide input voltage range: 1.5V – 6V
+- Low RDS(ON): 80mΩ typical @ 5V
+- Turn-on slew rate controlled
+- AP2280-1: 100us turn-on rise time
+- AP2280-2: 1ms turn-on rise time
+- Very low turn-on quiescent current: << 1uA
+- Fast load discharge pin
+- Temperature range -40ºC to 85°C
+- SOT25 and DFN2018-6: Available in “Green” Molding Compound (No Br, Sb)
+- Lead Free Finish/ RoHS Compliant (Note 1) 
+
+
+
+
 
 ## ref 
 

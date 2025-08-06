@@ -256,7 +256,7 @@ MPC cable
 
 - [[MPC1018-dat]]
 
-[[display-dat]] - [[MPC1091-dat]]
+[[display-dat]] - [[MPC1091-dat]] - [[MPC1090-dat]]
 
 [[RPI-accesories-dat]] - [[MPCS007-dat]]
 

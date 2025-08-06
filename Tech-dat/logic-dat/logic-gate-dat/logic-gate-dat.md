@@ -26,3 +26,21 @@ The NC7SZ00 is a single two−input NAND gate from onsemi’s Ultra−High Speed
 
 
 
+- NAND gate use [[logic-gate-dat]] 
+
+- LM temperature Limit ALRAM (NAND_A)
+- GPIO12 (NAND_B either gate )
+- Manual switch (NAND_B either gate )
+
+| A =temp. alarm | B = IO12 or switch | out |
+| -------------- | ------------------ | --- |
+| L              | L                  | H   |
+| L              | H                  | H   |
+| H              | L                  | H   |
+| H              | H                  | L   |
+
+
+
+## ref 
+
+- [[logic-dat]]

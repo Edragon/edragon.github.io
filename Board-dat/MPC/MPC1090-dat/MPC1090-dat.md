@@ -1,11 +1,12 @@
 
 # MPC1090-dat
 
-- [[OLED-dat]]
+- [[OLED-dat]] == 1.3" RAW OLED 
 
 https://www.electrodragon.com/product/1-3-oled-display-mini-shield-for-raspberry-pi/
 
 - [legacy wiki page](https://www.electrodragon.com/w/Category:OLED#RPI_OLED)
+
 
 
 ## Board map 
@@ -50,4 +51,4 @@ https://www.electrodragon.com/product/1-3-oled-display-mini-shield-for-raspberry
 
 ## ref 
 
-- [[MPC1090]]
+- [[MPC1090]] - [[MPC]]
