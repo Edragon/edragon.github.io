@@ -120,6 +120,8 @@ see more ESP32 apps at NWI section
 
 ### IDD
 
+- [[IDD1002-dat]]
+
 - [[IDO1005-dat]] - [[IDO1006-dat]]
 
 - [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]]
