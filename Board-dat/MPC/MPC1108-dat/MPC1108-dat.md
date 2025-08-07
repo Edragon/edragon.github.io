@@ -4,7 +4,12 @@
 https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspberry-pi/
 
 
-![](2024-07-08-18-28-25.png)
+
+![](2025-08-07-19-07-16.png)
+
+- left-top RED SPDT witch == ON/OFF 12V power IN 
+- right-bottom RED SPDT switch == fan manual ON/OFF 
+
 
 
 ![](2025-08-07-18-53-33.png)
@@ -35,10 +40,10 @@ https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspbe
 
 
 
-### Temperature sensor 
+## demo code 
 
-- [[LM75-dat]]
-
+- Temperature sensor == [[LM75-dat]]
+- GPIO12 code to run == [[RPI-python-dat]]
 
 ## Note 
 
@@ -51,7 +56,7 @@ Note when use this board and external 12V power supply to DC jack, you should NO
 
 ## ref 
 
-- [[RPI-SDK-dat]] - [[RPI-dat]]
+- [[RPI-SDK-dat]] - [[RPI-dat]] - [[RPI-python-dat]]
 
 - [[power-protection-dat]] - [[DFK-dat]]
 

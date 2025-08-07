@@ -36,6 +36,14 @@ https://github.com/Edragon/RPI
 
 - [[py-LM75-dat.py]]
 
+read out 
+
+    (test) root@raspberrypi:/home/pi# python lm75.py 
+    Temperature: 34.50 °C
+    Temperature: 34.50 °C
+    Temperature: 34.50 °C
+    Temperature: 34.50 °C
+
 
 
 ## ref 

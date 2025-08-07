@@ -3,19 +3,14 @@
 
 - [[RPI-SDK-dat]] - [[RPI-HDK-dat]] 
 
+- [[python-env-dat]]
+
 apt-get install pip 
 
     Note, selecting 'python3-pip' instead of 'pip'
 
 - [[rpi-python-gpio-demo-1.py]]
 
-## setup env
-
-    python3 -m venv .venv
-    source .venv/bin/activate
-
-    pip install RPi.GPIO
-    pip install SN74HC165
 
 
 ## rpi library 
@@ -32,6 +27,10 @@ apt-get install pip
 build-in library: 
 - time, threading, 
 
+install 
+
+    pip install smbus, RPi
+
 ### error 
 
 - ~~SN74HC165 ?? ~~
@@ -41,9 +40,17 @@ build-in library:
 
 - [[74HC595-dat]] - [[74HC165-dat]]
 
+## demo code 
+
+- [[MPC1108-dat]] == IO12 run every 5 seconds == [[rpi-py-io12.py]]
+
+
+
 
 ## ref 
 
 - [[rpi-dat]]
 
 - [[python-dat]]
+
+

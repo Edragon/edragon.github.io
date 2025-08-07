@@ -18,3 +18,13 @@
 
     pip install luma.oled
     
+
+## and more 
+
+## setup env
+
+    python3 -m venv .venv
+    source .venv/bin/activate
+
+    pip install RPi.GPIO
+    pip install SN74HC165
