@@ -9,8 +9,11 @@ https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspbe
 
 - left-top RED SPDT witch == ON/OFF 12V power IN 
 - right-bottom RED SPDT switch == fan manual ON/OFF 
-
-
+- orange jumper - set to 5V, less important, keep default 
+- left-top BLUE connector - [[DC-barrel-jack-dat]] - 12V power IN
+- right-bottom BLUE connector - external 5V output supply (SJ2)
+- SJ1 == less important, keep default 
+- SJ3 == IO12 control or manual switch control 
 
 ![](2025-08-07-18-53-33.png)
 
