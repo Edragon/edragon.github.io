@@ -5,6 +5,8 @@
 
 - [[aosong-dat]]
 
+- [[allwinner-dat]] - [[F133-dat]] - [[V3S-dat]] - [[F1C200-dat]] - [[F1C100-dat]] - [[D1S-dat]]
+
 - [[Espressif-dat]] - [[ESP32-dat]] - [[ESP32-S3-dat]] - [[ESP32-C3-dat]] - [[ESP32-P4-dat]]
 
 - [[ESP8266-dat]] - [[esp8266-modules-dat]] - [[ESP8266-board-dat]]
@@ -38,8 +40,6 @@
 - [[3peak-dat]]
 
 - [[chipsea-dat]]
-
-- [[allwinner-dat]] - [[F133-dat]] - [[V3S-dat]] - [[F1C200-dat]] - [[F1C100-dat]] - [[D1S-dat]]
 
 - [[hikvision-dat]]
 

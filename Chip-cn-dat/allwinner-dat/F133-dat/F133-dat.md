@@ -53,6 +53,10 @@ https://d1s.docs.aw-ol.com/
 
 ![](F133-SCH-1.png)
 
+misc 
+
+![](2025-08-07-12-39-31.png)
+
 ## bootsel 
 
 - SPI_MOSI
@@ -106,3 +110,4 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 - [[F133]] - [[allwinner]]
 
+- [[memory-dat]]

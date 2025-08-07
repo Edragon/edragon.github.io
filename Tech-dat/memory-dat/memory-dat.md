@@ -5,6 +5,8 @@
 
 - [[SDIO-dat]]
 
+
+
 ## DRAM 
 
 - [[ESP32-HDK-dat]]
@@ -51,9 +53,21 @@
 | EEPROM | Very Low | High   | Low     | Non-volatile | Not Required |
 
 
+## SDRAM - Synchronous Dynamic Random Access Memory == H5TQ4G63CFR-RDC
+
+![](2025-08-07-12-42-03.png)
+
+SCH 
+
+![](2025-08-07-12-41-17.png)
+
+
 ## use a tools instead of fat fingers 
 
 ![](2025-04-08-17-14-23.png)
+
+
+
 
 
 ## ref 
