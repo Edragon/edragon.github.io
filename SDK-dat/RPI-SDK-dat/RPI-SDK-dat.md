@@ -3,7 +3,7 @@
 
 - [[RPI-OS-dat]]
 
-- [[python-dat]] 
+- [[python-dat]] - [[python-error-dat]]
 
 - [[rpi-python-dat]] - [[rpi-c-dat]]
 
@@ -12,6 +12,8 @@
 - [[raspi-config-dat]]
 
 - [[RPI-tools-dat]]
+
+- [[interface-SDK-dat]] - [[SDK-dat]]
 
 ## Usage and Software 
 
@@ -62,3 +64,5 @@ can use commands nohup to run script in background for long term.
 ## ref 
 
 - [[RPI-dat]]
+
+- [[RPI]]

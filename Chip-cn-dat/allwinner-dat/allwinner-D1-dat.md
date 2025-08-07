@@ -50,6 +50,15 @@ e0d72713565f4424ea43c07e15a38139  tina-d1-h.tar.bz2.08
 - TF卡完整烧写工具： win32diskimager-1.0.0-install.exe
 - TF卡格式化工具：SDCardFormatterv5_WinEN.zip
 
+
+## after flash 
+
+烧录完成以后，就可以弹出TF卡，并将其插到开发板正面 黑色字体序号 11.TF卡卡槽位置处，此时可以使用 杜邦线 连接 PE2 PE3 GND使用串口进行登录，也可以使用 adb shell 直接连接 ADB进行登录访问。
+
+注意：D1s因TF卡和CKlink引脚存在复用关系，需将拨码开关 SW1 拨至数字方向，才可以支持TF卡启动
+
 ## ref 
+
+- https://dongshanpi.com/DongshanPI-D1s/03-1_FlashSystem/#_7
 
 - [[allwinner-dat]]

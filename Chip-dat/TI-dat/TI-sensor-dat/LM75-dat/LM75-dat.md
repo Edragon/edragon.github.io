@@ -34,6 +34,9 @@ https://github.com/Edragon/RPI
 
 - [[RPI-dat]]
 
+- [[py-LM75-dat.py]]
+
+
 
 ## ref 
 

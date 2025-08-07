@@ -7,7 +7,7 @@ https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspbe
 ![](2024-07-08-18-28-25.png)
 
 
-
+![](2025-08-07-18-53-33.png)
 
 ## Function 
 

@@ -1,9 +1,9 @@
 
 
-# display 
+# display-sdk-dat
 
 
-## FTF 
+## TFT
 
 TFT_eSPI
 
@@ -12,3 +12,27 @@ TFT_eSPI
 
 
 - [[oled-dat]]
+
+run c file oled_1in3
+
+    root@raspberrypi:/home/pi/1.3-OLED-SH106/bcm2835# ./oled_1in3 
+    bcm2835 init success  !!! 
+    USE_SPI
+    **********Init OLED**********
+    OLED Show 
+    OLED Clear 
+    OLED Draw Line 
+    OLED Draw Rectangle 
+    OLED Draw Rings 
+    OLED Display String 
+    Showing 
+
+![](2025-08-07-18-41-32.png)
+
+
+
+
+
+## ref 
+
+- [[SDK-dat]]

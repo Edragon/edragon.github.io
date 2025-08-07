@@ -7,7 +7,7 @@ https://www.electrodragon.com/product/1-3-oled-display-mini-shield-for-raspberry
 
 - [legacy wiki page](https://www.electrodragon.com/w/Category:OLED#RPI_OLED)
 
-
+- [[display-SDK-dat]]
 
 ## Board map 
 
@@ -50,5 +50,7 @@ https://www.electrodragon.com/product/1-3-oled-display-mini-shield-for-raspberry
 - https://github.com/Edragon/RPI, In Display folder
 
 ## ref 
+
+- [[RPI-SDK-dat]]
 
 - [[MPC1090]] - [[MPC]]

@@ -1,6 +1,9 @@
 
 # python-error-dat.md
 
+
+## error 1 
+
     root@raspberrypi:/home/pi# pip install Image
     error: externally-managed-environment
 
@@ -20,11 +23,16 @@
     hint: See PEP 668 for the detailed specification.
 
 
-how to solve 
+### how to solve 
 
+    pip3 install luma.oled --break-system-packages
+    
     pip3 install Pillow --break-system-packages
 
 
     The error lgpio.error: 'GPIO not allocated' usually indicates an issue with accessing the GPIO pins on your Raspberry Pi. Here are the common solutions:
 
 **apt-get install python3-rpi.gpio**
+
+
+
