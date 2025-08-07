@@ -97,12 +97,18 @@ Could use https://etcher.balena.io/#download-etcher for flash image to SD card.
 image == https://github.com/ylyamin/allwinner_d1_hal
 
 
+## repo 
+
+
+
 
 ## ref 
 
 - [[virtualbox-dat]]
 
-- [[0402-dat]] - [[allwinner-dat]]
+- [[0402-dat]] 
+
+- [[allwinner-dat]]
 
 - [[flash-dat]]
 

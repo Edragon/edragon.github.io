@@ -11,6 +11,17 @@ https://github.com/XUANTIE-RV/openc906
 
 https://github.com/DongshanPI/Awesome_RISCV-AllwinnerD1
 
+
+## stack up 
+
+![](2025-08-07-14-45-25.png)
+
+- [[PCF8574-dat]] - [[nxp-dat]]
+
+- [[memory-dat]]
+
+- [[power-dat]]
+
 ## ref 
 
 - [[RISC-V-dat]] - [[allwinner-dat]]

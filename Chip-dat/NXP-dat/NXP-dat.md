@@ -16,6 +16,8 @@ PCF85176 == 40 x 4 universal LCD driver for low multiplex rates
 
 [PCF8523 == Real-Time Clock (RTC) and calendar](https://www.nxp.com.cn/docs/en/data-sheet/PCF8523.pdf)
 
+- [[PCF8574-dat]]
+
 ### PCF8566 
 
 ![](2025-07-23-15-01-27.png)

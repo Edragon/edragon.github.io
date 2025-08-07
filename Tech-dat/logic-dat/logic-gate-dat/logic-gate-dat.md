@@ -1,6 +1,12 @@
 
 # logic gate 
 
+- [[buffer-dat]]
+
+## implementation 
+
+- [[MPC1108-dat]]
+
 
 ## 74AHC1G125 = SINGLE BUFFER GATE WITH 3-STATE OUTPUT
 

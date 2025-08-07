@@ -35,6 +35,10 @@ type of antennas by connector == [[antenna-SMA-dat]] - [[antenna-IPEX-dat]] - [[
 
 antenna connectors - [[ufl-dat]] - [[ipdex-dat]] - [[SMA-dat]]
 
+SMA 
+
+- Amphenol SMA6251A1-3GT50G-50
+
 - [[antenna-location-dat]]
 
 GSM
