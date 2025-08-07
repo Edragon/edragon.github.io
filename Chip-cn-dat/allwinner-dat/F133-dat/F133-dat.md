@@ -111,3 +111,9 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 - [[F133]] - [[allwinner]]
 
 - [[memory-dat]]
+
+- [[ethernet-dat]]
+
+- [[HDMI-dat]]
+
+- [[USB-dat]]

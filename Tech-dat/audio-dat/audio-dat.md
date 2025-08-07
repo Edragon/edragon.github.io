@@ -44,7 +44,12 @@ Different Frequencies: If you'd like to test other audible frequencies, try valu
 - 262 Hz (C4) – A lower-pitched tone.
 
 
+## SCH 
 
+wiring to [[D1-dat]] - [[F133-dat]]
+
+
+![](2025-08-07-12-47-41.png)
 
 ## code library 
 
@@ -53,5 +58,6 @@ Different Frequencies: If you'd like to test other audible frequencies, try valu
 
 ## ref 
 
+- [[video-dat]] - [[HDMI-dat]]
 
 - https://www.arduino.cc/reference/en/libraries/arduinofft/

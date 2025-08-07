@@ -37,3 +37,8 @@ NOR flash is a type of non-volatile memory that allows random read access. It is
 - SPI NOR Flash sacrifices speed and flexibility for **lower cost, lower pin count, and small size**.
 - **Parallel NOR Flash** is better for **code execution** and high-speed access.
 
+
+## SPI NAND 
+
+![](2025-08-07-12-50-03.png)
+

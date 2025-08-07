@@ -62,6 +62,18 @@ SCH
 ![](2025-08-07-12-41-17.png)
 
 
+## DDR4 - Double Data Rate 4
+
+260P
+
+![](2025-08-07-12-49-24.png)
+
+
+## SDIO 
+
+![](2025-08-07-12-49-50.png)
+
+
 ## use a tools instead of fat fingers 
 
 ![](2025-04-08-17-14-23.png)

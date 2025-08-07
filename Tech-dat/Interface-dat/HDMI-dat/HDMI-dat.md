@@ -37,9 +37,15 @@ HDMI_HOTPLUG
 
 ![](2025-02-21-13-19-09.png)
 
+## SCH 
 
+wiring to [[D1-dat]] - [[F133-dat]]
+
+![](2025-08-07-12-46-51.png)
 
 
 ## Display Interface 
 
 - [[HDMI-dat]] - [[VGA-dat]] - [[DVI-dat]]
+
+- [[audio-dat]]

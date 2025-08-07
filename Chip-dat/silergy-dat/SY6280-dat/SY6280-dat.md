@@ -18,3 +18,8 @@ Features
 - At shutdown, OUT can be forced higher than IN
 - Automatic output discharge at shutdown
 - Compact SOT23 packages minimize the board space. 
+
+
+## ref 
+
+- [[silergy-dat]]

@@ -34,11 +34,20 @@ RJ-45 w/[[CH579-dat]]
 
 ![](2024-03-22-17-34-40.png)
 
+transfomer == G2406S_C507595 and RJ45
+
+
+![](2025-08-07-12-43-02.png)
+
 ## CAT6
 
 ![](2025-04-25-02-07-43.png)
 
 
 ## ref 
+
+- [[RGMII-dat]] - [[PHY-dat]] - [[TCPUDP-dat]] - [[TCPIP-dat]]
+
+- [[RTL8211-dat]]
 
 - [[ethernet]]
