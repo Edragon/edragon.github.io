@@ -1,8 +1,20 @@
 
 # EDA-dat.md
 
-- [[eaglecad-dat]] - [[kicad-dat]] - [[protel-dat]] 
+- [[eaglecad-dat]] 
 
-- [[easyeda.com-dat]]
+- [[kicad-dat]] 
+
+- [[lceda-dat]]
 
 - [[altium-designer-dat]]
+
+- [[protel-dat]] 
+
+
+
+
+
+## ref 
+
+- [[PCB-dat]] - [[PCBA-dat]] - [[EDA-dat]]

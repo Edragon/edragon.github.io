@@ -19,7 +19,7 @@
 
 - [[Tech-DAT]] - [[power-dat]]
 
-- [[app-dat]] - [[circuits-dat]] - [[PCB-dat]] - [[PCBA-dat]] - [[tools-dat]]
+- [[app-dat]] - [[circuits-dat]] - [[tools-dat]]
   
 - [[mechanics-dat]] 
 
@@ -27,7 +27,7 @@
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]]
 
-
+- [[PCB-dat]] - [[PCBA-dat]] - [[EDA-dat]]
 
 
 ## Weekly Updates 
