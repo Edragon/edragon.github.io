@@ -59,6 +59,6 @@ e0d72713565f4424ea43c07e15a38139  tina-d1-h.tar.bz2.08
 
 ## ref 
 
-- https://dongshanpi.com/DongshanPI-D1s/03-1_FlashSystem/#_7
-
 - [[allwinner-dat]]
+
+- [[allwinner]]

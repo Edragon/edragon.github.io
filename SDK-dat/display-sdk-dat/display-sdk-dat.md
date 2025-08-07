@@ -31,8 +31,13 @@ run c file oled_1in3
 
 
 
+## code repo 
 
+- display - https://github.com/Edragon/RPI_Display
+- display 2 - https://github.com/Edragon/Display-E-paper
 
 ## ref 
 
 - [[SDK-dat]]
+
+- [[RPI-dat]]
