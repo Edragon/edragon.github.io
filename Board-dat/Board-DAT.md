@@ -260,6 +260,8 @@ MPC cable
 
 [[RPI-accesories-dat]] - [[MPCS007-dat]]
 
+- [[MPC1108-dat]]
+
 
 ### MSP 
 

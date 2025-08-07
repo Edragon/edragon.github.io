@@ -2,7 +2,9 @@
 # logic gate 
 
 
-## 74AHC1G125
+## 74AHC1G125 = SINGLE BUFFER GATE WITH 3-STATE OUTPUT
+
+The 74AHC1G125 is a single non-inverting buffer/bus driver with a 3-state output. The output enters a high impedance state when a HIGH-level is applied to the output enable (OE) pin. The device is designed for operation with a power supply range of 2.0V to 5.5V.
 
 https://www.diodes.com/assets/Datasheets/74AHC1G125.pdf
 
@@ -25,19 +27,40 @@ The NC7SZ00 is a single two−input NAND gate from onsemi’s Ultra−High Speed
 ![](2024-07-08-18-34-43.png)
 
 
+## AND 
 
-- NAND gate use [[logic-gate-dat]] 
+### SN74AHC1G08
 
-- LM temperature Limit ALRAM (NAND_A)
-- GPIO12 (NAND_B either gate )
-- Manual switch (NAND_B either gate )
+SN74AHC1G08 Single 2-Input Positive-AND Gate
 
-| A =temp. alarm | B = IO12 or switch | out |
-| -------------- | ------------------ | --- |
-| L              | L                  | H   |
-| L              | H                  | H   |
-| H              | L                  | H   |
-| H              | H                  | L   |
+The SN74AHC1G08 device is a single 2-input positive-AND gate. The device performs the Boolean function 
+
+    Y = A ● B 
+    or Y = A + B 
+
+in positive logic.
+
+| A   | B   | Y   |
+| --- | --- | --- |
+| H   | H   | H   |
+| L   | X   | L   |
+| X   | L   | L   |
+
+
+| Input A | Input B | Output |
+| ------- | ------- | ------ |
+| 0       | 0       | 0      |
+| 0       | 1       | 0      |
+| 1       | 0       | 0      |
+| 1       | 1       | 1      |
+
+
+
+| Term              | Meaning                                                              |
+| ----------------- | -------------------------------------------------------------------- |
+| AND gate          | Basic logic gate: output is 1 only if both inputs are 1              |
+| Positive-AND gate | Same thing — "positive" means using standard logic levels (high = 1) |
+| Negative logic    | Less common, where high voltage = logic 0                            |
 
 
 

@@ -18,14 +18,17 @@
 
 This summary highlights the key differences in functionality and application based on fan wiring types.
 
+## FAN 3007 
+
+![](2025-08-07-13-20-45.png)
+
 
 ## order 
 
 - https://www.electrodragon.com/product/dc-brushless-fan-50x50x10mm/
 
-- https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspberry-pi/
 
-
+- [[MPC1108-dat]]
 
 
 

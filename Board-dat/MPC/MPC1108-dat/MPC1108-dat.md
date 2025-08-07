@@ -13,12 +13,27 @@ https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspbe
 
 ### Fan control by three options 
 
-- [[logic-gate-dat]]
+- NAND gate use [[logic-gate-dat]] 
+
+- LM temperature Limit ALRAM (NAND_A)
+- GPIO12 (NAND_B either gate )
+- Manual switch (NAND_B either gate )
+
+
+| A   | B   | output mosfet | fan |
+| --- | --- | ------------- | --- |
+| L   | L   | H             | ON  |
+| L   | H   | H             | ON  |
+| H   | L   | H             | ON  |
+| H   | H   | L             | OFF |
 
 
 ![](2025-02-03-17-08-52.png)
 
 - [[Fan-dat]] drive by [[mosfet-dat]], only turn on or off
+
+
+
 
 ### Temperature sensor 
 
@@ -37,6 +52,8 @@ Note when use this board and external 12V power supply to DC jack, you should NO
 ## ref 
 
 - [[power-protection-dat]] - [[DFK-dat]]
+
+- [[fan-dat]] == FAN 3007 
 
 - [[dcdc-buck-dat]]
 
