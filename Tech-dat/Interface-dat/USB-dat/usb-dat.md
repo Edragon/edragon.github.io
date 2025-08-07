@@ -7,7 +7,7 @@
 
 - [[USB-STM32-dat]]
 
-- [[USB-OTG-dat]]
+- [[USB-OTG-dat]] - [[USB-Hub-dat]]
 
 - libusb-win32
 - https://zadig.akeo.ie/

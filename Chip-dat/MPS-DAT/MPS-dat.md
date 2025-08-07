@@ -60,3 +60,12 @@ MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated 
 
 
 - [[dcdc-down-dat]]
+
+
+## MPS1495 
+
+![](2025-08-07-13-05-43.png)
+
+
+
+## ref 

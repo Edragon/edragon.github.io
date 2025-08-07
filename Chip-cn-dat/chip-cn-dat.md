@@ -45,6 +45,7 @@
 
 - [[BL616-dat]] - [[bouffalolab-dat]] - [[BL602-dat]] - [[BL808-dat]]
 
+- [[NSIway-dat]] - [[NS4150-dat]]
 
 - [[DJI-dat]] - [[xiaomi-dat]]
 

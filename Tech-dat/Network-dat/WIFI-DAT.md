@@ -14,9 +14,11 @@
 
 - [[espressif-dat]] - [[esp8266-dat]] - [[ESP32-dat]] 
 
-- [[BL616-dat]]
+- [[bouffalolab-dat]] - [[BL616-dat]]
 
 - [[realtek-dat]] - [[RTL8188-dat]]
+
+- [[xradiotech-dat]] - [[XR829-dat]]
 
 ## boards 
 

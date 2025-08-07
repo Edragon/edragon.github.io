@@ -17,9 +17,9 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[power-dat]]
-  
-- [[Tech-DAT]] - [[app-dat]] - [[circuits-dat]] - [[PCB-dat]] - [[PCBA-dat]] - [[tools-dat]]
+- [[Tech-DAT]] - [[power-dat]]
+
+- [[app-dat]] - [[circuits-dat]] - [[PCB-dat]] - [[PCBA-dat]] - [[tools-dat]]
   
 - [[mechanics-dat]] - [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] 
 

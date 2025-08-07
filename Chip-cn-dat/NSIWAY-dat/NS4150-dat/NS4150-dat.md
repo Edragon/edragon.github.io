@@ -29,7 +29,18 @@ Look for beads with DC resistance in the range of 10-100 mΩ.
 
 The ferrite bead must handle the maximum current of your speaker system without saturating. For the NS4150, consider the peak output current, which depends on the amplifier’s load and power rating.
 
+## SCH 2 
+
+
+![](2025-08-07-13-03-33.png)
+
+to the audio 3.5mm jack 
+
+![](2025-08-07-13-03-56.png)
+
 
 ## ref 
+
+- [[I2S-microphone-dat]]
 
 - [[NS4150]]

@@ -28,6 +28,8 @@ from a to z
 
 - [[microchip-dat]] 
 
+- [[MPS-dat]]
+
 - [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] - [[attiny-dat]]
 
 
@@ -36,7 +38,7 @@ from a to z
 
 - [[fairchild-dat]] 
 
-- [[MPS-dat]]
+
 
 - [[NXP-dat]] - [[PCA9685-dat]]
 

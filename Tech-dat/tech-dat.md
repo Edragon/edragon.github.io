@@ -75,6 +75,8 @@
 
 - [[bluetooth-dat]] - [[ble-dat]]
 
+- [[wifi-dat]]
+
 ### MCU / CTRL / Processing 
 
 - [[mcu-dat]] - [[development-board-dat]]
