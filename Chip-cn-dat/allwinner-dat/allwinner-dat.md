@@ -2,15 +2,12 @@
 # allwinner-dat
 
 
+- [[allwinner-D1-dat]]
+
 - [[Thermal-imaging-camera-dat]]
 
 - [[T113-dat]]
 
-
-
-- [[D1-H-dat]] == C906 
-
-- [[D1S-dat]] - [[F133-dat]]
 
 - [[R128-dat]] - [[R329-dat]] 
 

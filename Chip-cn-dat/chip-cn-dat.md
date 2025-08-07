@@ -5,7 +5,7 @@
 
 - [[aosong-dat]]
 
-- [[allwinner-dat]] - [[F133-dat]] - [[V3S-dat]] - [[F1C200-dat]] - [[F1C100-dat]] - [[D1S-dat]]
+- [[allwinner-dat]] - [[allwinner-D1-dat]] - [[V3S-dat]] - [[F1C200-dat]] - [[F1C100-dat]] 
 
 - [[Espressif-dat]] - [[ESP32-dat]] - [[ESP32-S3-dat]] - [[ESP32-C3-dat]] - [[ESP32-P4-dat]]
 
@@ -13,7 +13,7 @@
 
 - [[ESP8089-dat]]
 
-- [[SIMCOM-dat]]  - [[A7670-dat]]
+- [[SIMCOM-dat]]  - [[A7670-dat]] - [[SIM800-dat]]
 
 - [[quectel-dat]]
 

@@ -108,7 +108,7 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 - [[0402-dat]] 
 
-- [[allwinner-dat]]
+- [[allwinner-dat]] - [[allwinner-D1-dat]]
 
 - [[flash-dat]]
 
