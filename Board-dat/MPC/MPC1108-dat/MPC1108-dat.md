@@ -16,7 +16,7 @@ https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspbe
 - NAND gate use [[logic-gate-dat]] 
 
 - LM temperature Limit ALRAM (NAND_A)
-- GPIO12 (NAND_B either gate ) - [[RPI-pin-dat]]
+- GPIO12 (NAND_B either gate ) - [[RPI-pin-dat]] - [[rpi-python-dat]]
 - Manual switch (NAND_B either gate )
 
 

@@ -115,13 +115,11 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 - [[allwinner-dat]] - [[allwinner-D1-dat]]
 
-- [[flash-dat]]
-
 - [[dongshanpi-dat]]
 
 - [[F133]] - [[allwinner]]
 
-- [[memory-dat]]
+- [[memory-dat]] - [[flash-dat]]
 
 - [[ethernet-dat]]
 
