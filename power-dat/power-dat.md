@@ -11,6 +11,8 @@
 
 - [[battery-pack-dat]]
 
+- [[CONN-power-dat]]
+
 ## workflow
 
 1. design: [[power-dat]] 

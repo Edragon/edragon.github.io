@@ -2,11 +2,13 @@
 
 # allwinner-D1-dat.md
 
-- [[F133-dat]] - [[D1-H-dat]] - [[C906-dat]]
+- [[F133-dat]] == [[D1-S-dat]] 
+
+- [[D1-H-dat]] - [[C906-dat]]
 
 - [[D1-H-dat]] == C906 
 
-- [[D1S-dat]] - [[F133-dat]]
+
 
 
 
@@ -15,8 +17,10 @@
 1. 将所有文件拷贝到 Ubuntu系统的 ~ 目录下
 
 2. 执行如下解压缩命令，等待解压缩 完成
-> cat tina-d1-h.tar.bz2.* | tar -jxv
-3. 解压缩完成后 继续参考 http://riscv64.dongshanpi.com/ 页面 Tina-SDK-V2.0相关资料
+
+>   cat tina-d1-h.tar.bz2.* | tar -jxv
+> 
+1. 解压缩完成后 继续参考 http://riscv64.dongshanpi.com/ 页面 Tina-SDK-V2.0相关资料
 
 ## 所有文件MD5校验值
 
@@ -36,6 +40,15 @@ e0d72713565f4424ea43c07e15a38139  tina-d1-h.tar.bz2.08
 ## system image and SDK 
 
 - contact and find in our google drive 
+
+## flash 
+
+全志官方工具
+- 全志系统TF卡烧写工具：PhoenixCardv4.2.7.7z.7z
+- 全志系统OTG烧写工具：AllwinnertechPhoeniSuitRelease20201225.zip.zip
+社区版本烧写工具
+- TF卡完整烧写工具： win32diskimager-1.0.0-install.exe
+- TF卡格式化工具：SDCardFormatterv5_WinEN.zip
 
 ## ref 
 

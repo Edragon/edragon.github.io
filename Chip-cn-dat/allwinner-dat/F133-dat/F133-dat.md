@@ -97,7 +97,12 @@ Could use https://etcher.balena.io/#download-etcher for flash image to SD card.
 image == https://github.com/ylyamin/allwinner_d1_hal
 
 
-## repo 
+## flash 
+
+硬件：TypeC线 X2
+软件：全志线刷工具：[AllwinnertechPhoeniSuit](https://gitlab.com/dongshanpi/tools/-/raw/main/AllwinnertechPhoeniSuit.zip)
+软件：SPI Nor系统镜像：[tina_d1s-nezha_nor_uart0_nor](https://gitlab.com/dongshanpi/tools/-/raw/main/tina_d1s-nezha_nor_uart0_nor.zip)
+软件：全志USB烧录驱动：[AllwinnerUSBFlashDeviceDriver](https://gitlab.com/dongshanpi/tools/-/raw/main/AllwinnerUSBFlashDeviceDriver.zip)
 
 
 
@@ -123,3 +128,5 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 - [[HDMI-dat]]
 
 - [[USB-dat]]
+
+

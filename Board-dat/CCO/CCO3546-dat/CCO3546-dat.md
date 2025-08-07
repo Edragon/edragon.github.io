@@ -3,6 +3,8 @@
 
 https://www.electrodragon.com/product/20pcs-dc-5-5mm-female-pcb-power-jack-pole/
 
+- [[DC-barrel-jack-dat]] - [[CONN-power-dat]]
+
 ## Params 
 
 ![](2024-01-22-15-50-53.png)

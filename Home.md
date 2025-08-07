@@ -25,7 +25,7 @@
 
 - [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] 
 
-- [[SDK-DAT]]
+- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]]
 
 
 

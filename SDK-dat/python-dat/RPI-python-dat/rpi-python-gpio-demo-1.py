@@ -19,3 +19,7 @@ for i in range(10):
     print('Switch status = ', GPIO.input(switch))
 
 GPIO.cleanup()
+
+
+
+

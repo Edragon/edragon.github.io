@@ -1,11 +1,13 @@
 
 # RPI-python-dat
 
+- [[RPI-SDK-dat]] - [[RPI-HDK-dat]] 
+
 apt-get install pip 
 
     Note, selecting 'python3-pip' instead of 'pip'
 
-
+- [[rpi-python-gpio-demo-1.py]]
 
 ## setup env
 

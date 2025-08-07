@@ -77,4 +77,6 @@ solar extension cable
 
 ## ref 
 
+- [[power-dat]]
+
 - [[BOM-dat]]

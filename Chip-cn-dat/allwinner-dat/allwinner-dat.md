@@ -69,6 +69,10 @@
 
 - https://github.com/lindenis-org
 
+- https://gitlab.com/dongshanpi/tools
+- https://gitlab.com/users/dongshanpi/projects
+
+
 ## ref 
 
 - [[allwinner]]

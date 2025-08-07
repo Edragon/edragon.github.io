@@ -1,6 +1,50 @@
 
 # RPI-HDK-dat
 
+- [[RPI-dat]] - [[RPI-SDK-dat]] - [[RPI-HDK-dat]]
+
+- [[RPI-pin-dat]] - [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board]]
+
+- [[RPI-I2S-dat]] 
+
+- [[RPI-shields-dat]] 
+
+- [[RPI-zero-dat]] 
+
+- [[RPI3-dat]]
+
+
+### chip 
+
+- [[BCM2835-dat]] - [[BCM2711-dat]]
+
+
+## RPI4 
+
+- BCM2711B0: cortex-A72 
+
+
+
+### Boards and Shields 
+
+- [[RPI-shields-dat]]
+
+- [[MPC1029-dat]] - [[MPC1056-dat]] - [[MPC1123-dat]] - [[MPC1073-dat]] - [[MPC1119-dat]] - [[MPC1130-dat]]
+
+- [[MPC1091-dat]]
+
+- [[MPC1108-dat]]
+
+- [[RMP-driver-dat]]
+
+## Competitors 
+
+- [[RK3588-dat]] - [[rocketchip-dat]]
+
+
+
+
+
 ## Models with MIPI CSI and DSI Support:
 
 | **Raspberry Pi Model**        | **MIPI CSI (Camera Interface)** | **MIPI DSI (Display Interface)** |
