@@ -51,6 +51,8 @@ Note when use this board and external 12V power supply to DC jack, you should NO
 
 ## ref 
 
+- [[RPI-SDK-dat]] - [[RPI-dat]]
+
 - [[power-protection-dat]] - [[DFK-dat]]
 
 - [[fan-dat]] == FAN 3007 
