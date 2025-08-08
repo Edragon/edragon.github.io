@@ -1,7 +1,7 @@
 
 # huawei-dat
 
-- [[NGS1075-dat]] - [[CONN-PCIE-dat]]
+- [[NGS1075-dat]] - [[conn-pcie-dat]]
 
 ## HUAWEI MU709s-2
 

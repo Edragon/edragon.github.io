@@ -190,7 +190,7 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 ## ref 
 
-- [[CONN-PCIE-dat]]
+- [[conn-pcie-dat]]
 
 - [[F133-dev]]
 

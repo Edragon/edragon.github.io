@@ -3,7 +3,9 @@
 
 - [[crimp-terminal-dat]]
 
-- [[conn-PCIE-dat]] - [[conn-pin-header-dat]]
+
+
+- [[conn-pin-header-dat]]
 
 - [[Conn-IPEX-dat]] - [[CONN-SMA-dat]]
 
@@ -21,6 +23,13 @@
 
 - [[conn-audio-dat]] - [[conn-video-dat]]
 
+## standard connector 
+
+- [[mini-pcie-dat]] == 52P
+
+- [[pcie-dat]] == 52P
+
+- [[M2-dat]] == 67P 
 
 ## BOM 
 

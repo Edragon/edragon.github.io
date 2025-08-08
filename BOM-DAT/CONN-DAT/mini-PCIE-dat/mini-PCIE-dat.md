@@ -1,6 +1,21 @@
 
-# CONN-PCIE-dat 
+# mini-PCIE-dat
 
+
+## Standard MINI-PCIE specs
+
+| Specification       | Value                              |
+|---------------------|-------------------------------------|
+| **PCB Thickness**   | **0.8 mm** (standard)               |
+| **Edge Connector**  | ~**0.8 mm**, beveled                |
+| **Card Width**      | 30 mm                               |
+| **Card Length**     | 30 mm (Half-size) / 50.95 mm (Full-size) |
+
+
+
+- [[M2-dat]]
+
+- [[Msata-dat]]
 
 ## board 
 

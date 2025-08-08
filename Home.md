@@ -23,7 +23,7 @@
   
 - [[mechanics-dat]] 
 
-- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] 
+- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] - [[CONN-dat]]
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]]
 
