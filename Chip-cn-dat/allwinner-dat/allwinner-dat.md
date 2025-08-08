@@ -1,40 +1,42 @@
 
 # allwinner-dat
 
-- [[H618-dat]]
+- [[H618-dat]] - [[H616-dat]] - [[H618-dat]] 
 
-- [[allwinner-D1-dat]] - [[D1-S-dat]] - [[F133-dat]]
-
-- [[Thermal-imaging-camera-dat]]
 
 - [[T113-dat]]
 
+- [[allwinner-D1-dat]] - [[D1-S-dat]] - [[F133-dat]] - [[D1-H-dat]]
 
-- [[R128-dat]] - [[R329-dat]] 
-
-- [[V821-dat]] - [[V853-dat]] - [[V851-dat]] - [[V536-dat]]
+- [[V853-dat]] - [[V851-dat]] - [[V821-dat]] - [[V536-dat]]
   
+- [[F1C600-dat]] - [[F1C200-dat]] QFN - [[F1C100-dat]] QFN 
+
+- [[V3S-dat]]
+
+
+
+
 - [[XR806-dat]]
 
-- [[H616-dat]] - [[H618-dat]] 
+- [[R128-dat]] - [[R329-dat]] 
 
 - [[A733-dat]] - [[A523-dat]]
 
 - [[H135-dat]] - [[H3-dat]]
 
-- [[V3S-dat]]
-
 - [[R11-dat]]
 
 - [[T527-dat]]
 
-- [[XR32F429-dat]]
-
-- [[F1C600-dat]] - [[F1C200-dat]] QFN - [[F1C100-dat]] QFN 
-
-- [[virtualbox-dat]]
+- [[XR32F429-dat]] == [[MCU-dat]]
 
 - [[X3-dat]]
+
+## app 
+
+- [[Thermal-imaging-camera-dat]]
+
 
 
 ## periperhals 
@@ -56,13 +58,18 @@
 - https://github.com/xboot/xfel == Tiny FEL tools for allwinner SOC.
 
 
-## allwinner boards 
-
-- [[OPI-DAT]] - [[dongshanpi-dat]]
 
 
 
 ## ref 
+
+- RVV
+
+- [[DSP-dat]] - [[RISC-V-dat]] - [[RISC-dat]]
+
+- [[video-dat]] - [[video-decodec-dat]]
+
+- [[virtualbox-dat]]
 
 - [[allwinner-SDK-dat]]
 
@@ -70,6 +77,6 @@
 
 - [[chip-cn-dat]]
 
-- [[sipeed-dat]] - [[orange-pi-dat]]
+
 
 - [[m]]

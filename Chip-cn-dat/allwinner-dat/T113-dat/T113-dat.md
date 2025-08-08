@@ -10,6 +10,35 @@
 
 - T113-S3 
 
+![](2025-08-09-00-56-13.png)
+
+![](2025-08-09-00-56-26.png)
+
+![](2025-08-09-00-56-37.png)
+
+
+## solutions 
+
+- [[HMI-dat]] - [[PLC-dat]] - [[app-dat]] - [[Car-instrument-dat]] - [[Car-MP5-dat]]
+
+Industrial Control HMI Solution
+
+![](2025-08-09-00-56-54.png)
+
+Industrial Control PLC Solution
+
+![](2025-08-09-00-57-44.png)
+
+
+Car MP5 Solution
+
+![](2025-08-09-00-58-06.png)
+
+
+Car Instrument Solution
+
+![](2025-08-09-00-58-33.png)
+
 
 ## SCH 
 

@@ -3,6 +3,32 @@
 
 - [[Allwinner_V3s_User_Manual_V1.0.pdf]]
 
+
+## info 
+
+主要规格：
+- Arm A7 1.2GHz CPU
+- Sip 64M DDR
+
+- 强劲的编解码性能
+- 丰富的音视频接口
+- 行车记录仪、智能家居、工业控制常用
+- 支持全志官方 Tina Linux
+
+![](2025-08-09-01-04-30.png)
+
+![](2025-08-09-01-04-43.png)
+
+![](2025-08-09-01-04-55.png)
+
+![](2025-08-09-01-05-34.png)
+
+
+## function diagram 
+
+![](2025-08-09-01-05-15.png)
+
+
 ## test 
 
     vb@ubuntu14:~$ sudo sunxi-fel -l

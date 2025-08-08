@@ -73,6 +73,7 @@
 - [[solar-power-dat]]
 
 
+
 ## done or on-hold
 
 tech based - [[camera-dat]] - [[audio-dat]]
@@ -88,6 +89,7 @@ tech based - [[camera-dat]] - [[audio-dat]]
 
 - [[industrial-power-supply-dat]] - [[industrial-sensor-dat]]
 
+- [[HMI-dat]] - [[PLC-dat]]
 
 
 
