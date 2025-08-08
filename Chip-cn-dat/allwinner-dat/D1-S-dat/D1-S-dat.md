@@ -10,6 +10,21 @@ CPU
     32 KB I-cache + 32 KB D-cache
 
 
+
+Allwinner D1s (also known as F133) is based on a RISC-V core, and is a cheaper version of the D1 with the following differences:
+
+- 64 MB of DDR2 memory included in the same package, instead of requiring external memory.
+- No Tensilica HiFi4 DSP.
+- No HDMI output.
+- One less I2S port.
+
+- [[D1s_User Manual_V1.0.pdf]]
+
+https://d1s.docs.aw-ol.com/
+
+- [[sunxi-tools-dat]]
+
+
 ## flash 
 
 ### 操作步骤

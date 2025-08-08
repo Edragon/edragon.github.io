@@ -16,7 +16,7 @@
 
 - [[bouffalolab-dat]] - [[BL616-dat]]
 
-- [[realtek-dat]] - [[RTL8188-dat]]
+- [[realtek-dat]] - [[RTL8188-dat]] - [[RTL8189-dat]] - [[RTL8723-dat]]
 
 - [[xradiotech-dat]] - [[XR829-dat]]
 

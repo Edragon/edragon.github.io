@@ -7,6 +7,10 @@
 
 - [[F1C100-SDK-dat]] - [[V3S-dat]]
 
+[linux-sunxi.org](https://linux-sunxi.org/D1s)
+
+
+
 ### Using `sunxi-fel` (u-boot / generic FEL):
 ```bash
 sunxi-fel -v spl u-boot-spl.bin

@@ -10,7 +10,7 @@
 
 - [[RTL8192-dat]] - [[RTL8211-dat]] - [[RTL8305-dat]]
 
-- [[RTL8188-dat]]
+- [[RTL8188-dat]] - [[RTL8189-dat]] - [[TL8189FQB2-DS.pdf]]
 
 - [[RTL8213-dat]]
 

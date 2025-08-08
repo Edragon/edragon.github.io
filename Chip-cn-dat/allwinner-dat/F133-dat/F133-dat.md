@@ -1,11 +1,14 @@
 
 # F133-dat
 
-- [[allwinner-dat]] - [[allwinner-D1-dat]]
+- [[allwinner-dat]] - [[allwinner-D1-dat]] - [[D1-S-dat]] - [[D1-H-dat]]
 
 - [[allwinner-sdk-dat]]
 
 D1S == F133 == C906 
+
+
+## selection 
 
 F133 is essentially a rebranded D1s, also known as V851s, targeting AI camera and audio/video applications.
 
@@ -17,12 +20,80 @@ If you're building a smart camera or want Allwinner's AI SDKs: F133/V851s is pre
 
 
 
-Allwinner D1s (also known as F133) is based on a RISC-V core, and is a cheaper version of the D1 with the following differences:
+## Allwinner F133 (D1S) Main Features
 
-- 64 MB of DDR2 memory included in the same package, instead of requiring external memory.
-- No Tensilica HiFi4 DSP.
-- No HDMI output.
-- One less I2S port.
+### Overview
+
+- High-performance display processor
+- Also known as D1S
+- 64-bit RISC-V architecture (C906 core)
+- Supports H.265 decoding up to 1080p@60fps and G2D rotation
+- Supports RGB/LVDS/MIPI mainstream display interfaces, up to 1920x1080@60fps
+- Simultaneous output to screen and analog video signal
+
+---
+
+### CPU
+
+- RISC-V 64-bit CPU
+- 32 KB I-cache + 32 KB D-cache
+
+---
+
+### Memory
+
+- SIP 64 MB DDR2
+- SD3.0 / eMMC 5.1
+- SPI Nor / NAND Flash
+
+---
+
+### Video Engine
+
+**Decoding:**
+- H.265 up to 1080p@60fps
+- H.264 up to 1080p@60fps
+- MPEG-1/2/4, JPEG, VC1 up to 1080p@60fps
+
+**Encoding:**
+- JPEG / MJPEG up to 1080p@60fps
+- Supports input picture scaler (up/down)
+
+---
+
+### Display Engine
+
+- Allwinner SmartColor2.0 post-processing for enhanced display quality
+- Supports de-interlace (DI) up to 1080p@60fps
+- G2D hardware accelerator: rotate, mixer, lbc decompression
+
+---
+
+### Video Output
+
+- CVBS OUT interface (NTSC and PAL formats)
+- RGB LCD output interface up to 1920x1080@60fps
+- Dual-link LVDS interface up to 1920x1080@60fps
+
+---
+
+### Video Input
+
+- 8-bit parallel CSI interface
+- CVBS IN interface (NTSC and PAL formats, only for F133-B)
+
+
+
+
+## application diagram 
+
+
+![](2025-08-08-15-26-46.png)
+
+![](2025-08-08-15-26-15.png)
+
+
+
 
 - [[RISC-V-dat]]
 
@@ -33,14 +104,10 @@ Allwinner D1s (also known as F133) is based on a RISC-V core, and is a cheaper v
 
 - [[FPC-dat]] - [[switch-dat]]
 
-- [[RTL8723-dat]]
+- [[wifi-dat]]
 
-[linux-sunxi.org](https://linux-sunxi.org/D1s)
 
-- [[D1s_User Manual_V1.0.pdf]]
-
-https://d1s.docs.aw-ol.com/
-
+datasheet - [[F133_Datasheet_V1.0_whycan.pdf]]
 
 ## flash 
 
@@ -65,7 +132,6 @@ https://d1s.docs.aw-ol.com/
 
 - dongshanpi == https://github.com/DongshanPI/Awesome_RISCV-AllwinnerD1
 
-[开发板原理图 DongshanPI-D1s_SCH-V2.pdf](https://dongshanpi.com/DongshanPI-D1s/DongshanPI-D1s_SCH-V2.pdf)
 
 
 
@@ -95,6 +161,18 @@ Could use https://etcher.balena.io/#download-etcher for flash image to SD card.
 image == https://github.com/ylyamin/allwinner_d1_hal
 
 
+## F133-boot 
+
+插入烧写好的TF卡，使用串口连接，PE2接串口RX，PE3接串口TX。接入5V供电，如果使用屏幕建议插入TYPE-C线，防止电流不足。
+
+[[serial-dat]] - 波特率115200
+
+![](2025-08-08-15-56-03.png)
+
+- [[linux-dat]]
+
+- [[display-sdk-dat]]
+
 
 ## extend 
 
@@ -103,6 +181,11 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 ## SCH 
 
 ![](LCPI-PC-F133(303F133D1S3).png)
+
+[开发板原理图 DongshanPI-D1s_SCH-V2.pdf](https://dongshanpi.com/DongshanPI-D1s/DongshanPI-D1s_SCH-V2.pdf)
+
+
+
 
 
 ## ref 
@@ -120,6 +203,8 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 - [[memory-dat]] - [[flash-dat]]
 
 - [[ethernet-dat]]
+
+- [[wifi-dat]]
 
 - [[HDMI-dat]]
 

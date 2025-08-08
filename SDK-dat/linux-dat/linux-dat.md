@@ -64,6 +64,60 @@ compile
 
 密码：licheepi
 
+## setup 
+
+### wifi 
+
+- [[wifi-dat]]
+
+
+#### WiFi Setup (English)
+
+##### 1. Enable the Wireless Network Card
+
+```sh
+ifconfig wlan0 up
+```
+
+##### 2. Scan for Nearby WiFi Networks
+
+```sh
+iw wlan0 scan | grep SSID
+```
+
+##### 3. Configure WiFi SSID and Password
+
+Edit and run the following to set your WiFi credentials:
+
+```sh
+echo "
+update_config=1
+network={
+    ssid="your_ssid"      # WiFi name
+    psk="your_password"   # WiFi password
+}" > /etc/wpa_supplicant.conf
+```
+
+##### 4. Connect to the Wireless Network
+
+```sh
+wpa_supplicant -Dnl80211 -iwlan0 -c/etc/wpa_supplicant.conf -B
+```
+
+##### 5. Obtain IP Address via DHCP
+
+```sh
+udhcpc -i wlan0
+```
+
+##### 6. Test Connection
+
+```sh
+ping www.baidu.com
+```
+
+
+![](2025-08-08-15-56-58.png)
 
 ## ref 
 
