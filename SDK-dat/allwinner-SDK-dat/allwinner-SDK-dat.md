@@ -1,6 +1,10 @@
 
 # allwinner-SDK-dat.md
 
+- [[xboot-dat]] - [[xfel-dat]]
+
+- [[TINA-dat]]
+
 ## compile
 
 ![](2025-07-15-01-47-37.png)
@@ -31,6 +35,23 @@
 （3）PhoenixUSBpro：基于Windows的系统的烧写工具，通过数据线将PC和开发板连接，把固件烧到开发板上，一台PC可同时连接8台设备，分别控制其进行烧写，适用于产线批量生产。（如下图）
 
 
+## repo 
+
+
+- https://github.com/Edragon/allwinner == [[T113-dat]]
+- https://github.com/Edragon/Allwinner-V831
+- https://github.com/Edragon/allwinner-nano
+
+- https://bitbucket.org/e_dragon/allwinner-f1c200s-hdk
+- https://bitbucket.org/e_dragon/allwinner-f1c200s-sdk
+- https://bitbucket.org/e_dragon/allwinner-h2
+- https://bitbucket.org/e_dragon/allwinner-v3s-sdk
+
+- https://github.com/lindenis-org
+
+- https://gitlab.com/dongshanpi/tools
+- https://gitlab.com/users/dongshanpi/projects
+
 
 
 
@@ -38,3 +59,5 @@
 ## ref 
 
 - [[allwinner-dat]] - [[TINA-dat]] - [[SDK-dat]]
+
+- [[allwinner-SDK]] - [[allwinner]] - [[SDK]]

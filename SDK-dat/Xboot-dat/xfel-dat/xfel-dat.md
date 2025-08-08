@@ -1,11 +1,20 @@
 
 # xfel-dat
 
+- [[ubuntu-dat]]
+
 Usually comes with the xboot tools:
 
     git clone https://github.com/xboot/xfel.git
     cd xfel
     make
+
+- [[C-dat]]
+
+[discussion CN ](https://whycan.com/t_6546.html)
+
+https://github.com/xboot/xfel
+
 
 ## for F133-A 
 

@@ -1,6 +1,7 @@
 
 # allwinner-dat
 
+- [[H618-dat]]
 
 - [[allwinner-D1-dat]]
 
@@ -54,26 +55,15 @@
 - https://github.com/xboot/xfel == Tiny FEL tools for allwinner SOC.
 
 
+## allwinner boards 
 
-## repo 
+- [[OPI-DAT]] - [[dongshanpi-dat]]
 
-
-- https://github.com/Edragon/allwinner == [[T113-dat]]
-- https://github.com/Edragon/Allwinner-V831
-- https://github.com/Edragon/allwinner-nano
-
-- https://bitbucket.org/e_dragon/allwinner-f1c200s-hdk
-- https://bitbucket.org/e_dragon/allwinner-f1c200s-sdk
-- https://bitbucket.org/e_dragon/allwinner-h2
-- https://bitbucket.org/e_dragon/allwinner-v3s-sdk
-
-- https://github.com/lindenis-org
-
-- https://gitlab.com/dongshanpi/tools
-- https://gitlab.com/users/dongshanpi/projects
 
 
 ## ref 
+
+- [[allwinner-SDK-dat]]
 
 - [[allwinner]]
 

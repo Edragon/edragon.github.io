@@ -40,7 +40,7 @@ from a to z
 
 
 
-- [[NXP-dat]] - [[PCA9685-dat]] - [[PCF8574-dat]]
+- [[NXP-dat]] - [[PCA9685-dat]] - [[PCF8574-dat]] - [[i.MX6ULL-dat]]
 
 - [[nordic-dat]] - [[nrf52840-dat]] - [[nrf52840-mod-dat]]
 

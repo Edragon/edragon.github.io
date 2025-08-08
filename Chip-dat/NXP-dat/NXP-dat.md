@@ -3,6 +3,9 @@
 
 [[NXP-CAN-dat]] - [[TJA1050-dat]]
 
+- [[i.MX6ULL-dat]]
+
+
 - [[PCA9685-dat]]
 
 - PCF8566 == Universal LCD driver for low multiplex rates - Rev. 07 — 25 February 2009
