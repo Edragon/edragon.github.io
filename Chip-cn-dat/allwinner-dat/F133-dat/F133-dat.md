@@ -163,7 +163,12 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 ## F133-boot 
 
-插入烧写好的TF卡，使用串口连接，PE2接串口RX，PE3接串口TX。接入5V供电，如果使用屏幕建议插入TYPE-C线，防止电流不足。
+插入烧写好的TF卡，使用串口连接，
+
+- PE2接串口RX，
+- PE3接串口TX。
+
+接入5V供电，如果使用屏幕建议插入TYPE-C线，防止电流不足。
 
 [[serial-dat]] - 波特率115200
 

@@ -12,8 +12,16 @@
 | **Card Length**     | 30 mm (Half-size) / 50.95 mm (Full-size) |
 
 
+4-layer PCB in the Mini PCIe form factor — and it’s actually common practice in commercial designs, especially for:
 
-- [[M2-dat]]
+- Wireless cards (Wi-Fi/BT)
+- 3G/4G/5G modem modules
+- Industrial I/O modules
+- Embedded controllers
+
+- [[PCB-dat]]
+
+- [[PCIE-dat]] - [[M2-dat]]
 
 - [[Msata-dat]]
 
@@ -81,6 +89,8 @@ mini PCIe
 
 ## F133 plug 
 
+- [[f133-dat]]
+
 ![](2025-08-08-18-27-26.png)
 
 | function | chip | left pin | right pin | chip | function |
@@ -88,8 +98,8 @@ mini PCIe
 | GND      | GND  | 1        | 2         | GND  | GND      |
 |          | PE13 | 3        | 4         | GND  | GND      |
 |          | PE12 | 5        | 6         | GND  | GND      |
-| UART0    | PE3  | 7        | 8         | GND  | GND      |
-| UART0    | PE2  | 9        | 10        | D0+  | D0+      |
+| UART0 rx   | PE3  | 7        | 8         | GND  | GND      |
+| UART0 tx    | PE2  | 9        | 10        | D0+  | D0+      |
 |          | PE11 | 11       | 12        | D0-  | D0-      |
 |          | PE10 | 13       | 14        | PD19 |          |
 |          | PE9  | 15       | 16        | PD18 |          |
