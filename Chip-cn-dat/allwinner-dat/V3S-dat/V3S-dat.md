@@ -42,6 +42,9 @@ base-board
 
 ## images 
 
+
+https://gitlab.com/hechaogm/allwinner-v3s-sdk/-/tree/master?ref_type=heads
+
 - https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA
 - https://dl.sipeed.com/shareURL/LICHEE/Zero/Images
 
@@ -60,5 +63,7 @@ base-board
 
 
 ## ref 
+
+- [[allwinner-sdk-dat]]
 
 - [[allwinner-dat]]

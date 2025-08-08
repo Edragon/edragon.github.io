@@ -47,7 +47,7 @@
 
 - [[NSIway-dat]] - [[NS4150-dat]]
 
-- [[DJI-dat]] - [[xiaomi-dat]]
+- [[DJI-dat]] - [[xiaomi-dat]] - [[huawei-dat]]
 
 
 ## ref 

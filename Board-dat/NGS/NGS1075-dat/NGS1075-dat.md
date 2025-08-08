@@ -4,7 +4,7 @@
 
 ## A support list of most modules:
 
-Huawei:
+Huawei: - [[huawei-dat]]
 
 MU609 PCIE MU709S-2 PCIE MU709S-6 PCIE MU509-B PCIE MC509-A EM770 770J 770W EM820U 820W MU909-521 MU909s-821 MU909S-120 And so on.
 
