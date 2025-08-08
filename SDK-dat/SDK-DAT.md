@@ -46,6 +46,13 @@
 - [[camera-sdk-dat]] - [[display-sdk-dat]]
 
 
+## tools 
+
+- [[xboot-dat]] - [[uboot-dat]] 
+
+- [[adb-dat]]
+
+
 ## ref 
 
 - [[tech-dat]]
