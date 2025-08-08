@@ -3,6 +3,8 @@
 
 - [[virtualbox-dat]]
 
+- [[ubuntu-14-dat]] - [[C-dat]]
+
 ![](2025-07-14-23-09-16.png)
 
 ![](2025-07-14-23-09-43.png)
@@ -35,6 +37,18 @@ apt-get install <package_name>
 
     sudo apt install libz libusb-1.0-0-dev
 
+
+## disable 
+
+打开终端 (Open the terminal).
+关闭锁屏 (Disable lock screen):
+
+    gsettings set org.gnome.desktop.screensaver lock-enabled false
+
+关闭自动挂起 (Disable automatic suspend):
+
+    gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'nothing'
+    gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type 'nothing'
 
 ## SDK 
 

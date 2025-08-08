@@ -68,6 +68,8 @@ Add -std=c99 (or -std=gnu99) to your gcc or make command:
 
     make CFLAGS="-std=c99"
 
+    make clean && make CFLAGS="-std=c99"
+
 ## Q2 
 
     vb@ubuntu14:~/xfel$ make CFLAGS="-std=c99"

@@ -1,7 +1,7 @@
 
 # xfel-dat
 
-- [[ubuntu-dat]]
+- [[ubuntu-dat]] - [[c-errors-dat]]
 
 Usually comes with the xboot tools:
 
