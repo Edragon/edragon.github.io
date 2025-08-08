@@ -1,9 +1,14 @@
 
 # allwinner-SDK-dat.md
 
+- [[allwinner-dat]]
+
 - [[xboot-dat]] - [[xfel-dat]]
 
 - [[TINA-dat]]
+
+
+
 
 ## compile
 
@@ -35,7 +40,21 @@
 （3）PhoenixUSBpro：基于Windows的系统的烧写工具，通过数据线将PC和开发板连接，把固件烧到开发板上，一台PC可同时连接8台设备，分别控制其进行烧写，适用于产线批量生产。（如下图）
 
 
+
+
+## flash 
+
+硬件：TypeC线 X2
+软件：全志线刷工具：[AllwinnertechPhoeniSuit](https://gitlab.com/dongshanpi/tools/-/raw/main/AllwinnertechPhoeniSuit.zip)
+软件：SPI Nor系统镜像：[tina_d1s-nezha_nor_uart0_nor](https://gitlab.com/dongshanpi/tools/-/raw/main/tina_d1s-nezha_nor_uart0_nor.zip)
+软件：全志USB烧录驱动：[AllwinnerUSBFlashDeviceDriver](https://gitlab.com/dongshanpi/tools/-/raw/main/AllwinnerUSBFlashDeviceDriver.zip)
+
+
+
+
 ## repo 
+
+- images and tools - https://github.com/Edragon/allwinner-tools
 
 
 - https://github.com/Edragon/allwinner == [[T113-dat]]

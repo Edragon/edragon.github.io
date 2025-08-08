@@ -3,6 +3,8 @@
 
 - [[allwinner-dat]] - [[allwinner-D1-dat]]
 
+- [[allwinner-sdk-dat]]
+
 D1S == F133 == C906 
 
 F133 is essentially a rebranded D1s, also known as V851s, targeting AI camera and audio/video applications.
@@ -93,20 +95,19 @@ Could use https://etcher.balena.io/#download-etcher for flash image to SD card.
 image == https://github.com/ylyamin/allwinner_d1_hal
 
 
-## flash 
-
-硬件：TypeC线 X2
-软件：全志线刷工具：[AllwinnertechPhoeniSuit](https://gitlab.com/dongshanpi/tools/-/raw/main/AllwinnertechPhoeniSuit.zip)
-软件：SPI Nor系统镜像：[tina_d1s-nezha_nor_uart0_nor](https://gitlab.com/dongshanpi/tools/-/raw/main/tina_d1s-nezha_nor_uart0_nor.zip)
-软件：全志USB烧录驱动：[AllwinnerUSBFlashDeviceDriver](https://gitlab.com/dongshanpi/tools/-/raw/main/AllwinnerUSBFlashDeviceDriver.zip)
-
 
 ## extend 
 
 驱动 1.9 寸 AMOLED 240*536 高分屏
 
+## SCH 
+
+![](LCPI-PC-F133(303F133D1S3).png)
+
 
 ## ref 
+
+- [[F133-dev]]
 
 - [[virtualbox-dat]]
 

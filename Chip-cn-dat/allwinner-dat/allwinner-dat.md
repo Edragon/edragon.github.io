@@ -3,7 +3,7 @@
 
 - [[H618-dat]]
 
-- [[allwinner-D1-dat]]
+- [[allwinner-D1-dat]] - [[D1-S-dat]] - [[F133-dat]]
 
 - [[Thermal-imaging-camera-dat]]
 

@@ -9,9 +9,6 @@
 
 - [[USB-OTG-dat]] - [[USB-Hub-dat]]
 
-- libusb-win32
-- https://zadig.akeo.ie/
-
 - [[keyboard-dat]] - [[USB-HID-dat]] - [[mouse-dat]]
 
 ## USB variations 
