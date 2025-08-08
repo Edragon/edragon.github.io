@@ -1,6 +1,8 @@
 
 # F133-dat
 
+- [[allwinner-dat]] - [[allwinner-D1-dat]]
+
 D1S == F133 == C906 
 
 F133 is essentially a rebranded D1s, also known as V851s, targeting AI camera and audio/video applications.
@@ -42,20 +44,14 @@ https://d1s.docs.aw-ol.com/
 
 ![](2025-07-26-12-23-54.png)
 
+- [[sunxi-tools-dat]]
+
 ## version 
 
 - F133-A == TQFP-128-EP(14x14)
 - F133-B == ELQFP-128(14x14)
 
 
-
-## SCH 
-
-![](F133-SCH-1.png)
-
-misc 
-
-![](2025-08-07-12-39-31.png)
 
 ## bootsel 
 
@@ -105,6 +101,9 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 软件：全志USB烧录驱动：[AllwinnerUSBFlashDeviceDriver](https://gitlab.com/dongshanpi/tools/-/raw/main/AllwinnerUSBFlashDeviceDriver.zip)
 
 
+## extend 
+
+驱动 1.9 寸 AMOLED 240*536 高分屏
 
 
 ## ref 
@@ -112,8 +111,6 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 - [[virtualbox-dat]]
 
 - [[0402-dat]] 
-
-- [[allwinner-dat]] - [[allwinner-D1-dat]]
 
 - [[dongshanpi-dat]]
 

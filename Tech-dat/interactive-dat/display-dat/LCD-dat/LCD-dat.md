@@ -52,12 +52,19 @@ using with STM32 SPI2
 
 ![](2025-07-16-13-10-57.png)
 
+## parallel interface LCDs
 
-## LCD 40Pin 
+### LCD 40Pin 
 
 LCD data 24-bit 
 
 ![](2025-07-16-13-13-33.png)
+
+### RGB888 LCD 
+
+
+
+
 
 ## ref 
 

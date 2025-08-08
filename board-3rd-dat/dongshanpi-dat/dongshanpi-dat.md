@@ -22,3 +22,7 @@ https://linux-sunxi.org/DongshanPi_Nezha_STU
 
 - SOC主控: STM32MP157DAC （双核CorteX A7 800Mhz + 209Mhz M4 + 3D GPU ） == 东山Pi柒号
 
+
+## dongshanpi-no.1 
+
+![](2025-08-08-12-35-15.png)

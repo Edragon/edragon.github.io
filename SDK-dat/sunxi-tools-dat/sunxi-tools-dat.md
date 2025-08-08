@@ -7,6 +7,15 @@
 
 - [[F1C100-SDK-dat]] - [[V3S-dat]]
 
+### Using `sunxi-fel` (u-boot / generic FEL):
+```bash
+sunxi-fel -v spl u-boot-spl.bin
+sunxi-fel -v write 0x4A000000 u-boot.bin
+sunxi-fel -v exe 0x4A000000
+```
+
+
+
 
 ## for F1C100 
 

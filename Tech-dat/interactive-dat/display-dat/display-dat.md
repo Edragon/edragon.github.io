@@ -5,6 +5,8 @@ parallel interface LCDs - [[EDL-LCD-dat]]
 
 SPI interface LCDs - [[EDS-LCD-dat]]
 
+- [[LCD-dat]]
+
 - [[OLED-dat]]
 
 - [[e-paper-dat]]
@@ -14,6 +16,12 @@ SPI interface LCDs - [[EDS-LCD-dat]]
 ## display interface 
 
 - [[RGB-LCD-dat]] - [[HDMI-dat]] - [[LVDS-dat]] - [[VGA-dat]]
+
+
+
+
+
+
 
 ## repositories 
 

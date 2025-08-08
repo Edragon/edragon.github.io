@@ -47,7 +47,7 @@ Low temperature soldering paste is a type of solder paste designed to melt and f
 | 217 C         | 99.3%       | lead-free, SAC305 alloy, standard for RoHS compliant PCBs            |
 
 
-- [[solder-paste]]
+
 
 ![](2024-02-17-16-19-00.png)
 
@@ -57,8 +57,14 @@ Low temperature soldering paste is a type of solder paste designed to melt and f
 
 ![](2024-02-17-16-20-49.png)
 
+## solder paste printer 
+
+![](2025-08-08-12-11-20.png)
+
 
 
 ## ref 
+
+- [[solder-paste]]
 
 - [[soldering-dat]]
