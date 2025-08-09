@@ -7,10 +7,13 @@
 
 - [[ethernet-dat]] - [[ethernet-SDK-dat]]
 
+- [[memory-dat]] - [[SD-dat]] - [[SD-SDK-dat]]
 
+- [[wifi-dat]] - [[wifi-SDK-dat]]
 
+- [[I2S-dat]] - [[I2S-SDK-dat]]
 
-
+- [[display-dat]] - [[display-SDK-dat]] - [[MIPI-DSI-SDK-dat]]
 
 ## python on RPI 
 

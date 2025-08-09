@@ -1,6 +1,27 @@
 
 # sd-dat
 
+- [[microsd-dat]] - [[sd-flashing-dat]]
+
+- [[SD-SDK-dat]]
+
+## 4. 📍 Embedded vs. Removable == SD VS SDMMC 
+
+| Feature     | SD Card                      | eMMC / SDMMC-connected storage |
+| ----------- | ---------------------------- | ------------------------------ |
+| Removable   | ✅ Yes                        | ❌ No (soldered)                |
+| Typical use | Cameras, laptops, dev boards | Phones, tablets, SBC eMMC boot |
+| Speed       | Good, but depends on class   | Higher with HS200/HS400 modes  |
+| Interface   | SPI or SD native             | SD/MMC native only             |
+
+📝 Key Points
+
+- **SDMMC** usually refers to the **native high-speed SD/MMC bus** on MCUs/SoCs.  
+- Normal **SD card** can use that SDMMC bus — or just SPI mode — depending on the hardware.  
+- In embedded boards (like STM32, ESP32-S3, Raspberry Pi), **SDMMC peripheral** = faster, multi-bit parallel bus.  
+- **eMMC** is basically an MMC chip soldered permanently, always accessed via the SDMMC interface.
+
+
 ## Comparison: SDIO vs. SPI Interface
 
 Both **SDIO (Secure Digital Input Output)** and **SPI (Serial Peripheral Interface)** are used for communication with SD cards and other peripherals, but they have key differences in speed, complexity, and use cases.

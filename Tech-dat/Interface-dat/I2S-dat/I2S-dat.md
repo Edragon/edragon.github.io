@@ -16,7 +16,6 @@ This makes I2S a popular choice for high-speed data transfer applications.
 - [[everest-semi-dat]]
 
 
-
 ## Common Microphone, Speaker Wiring 
 
 ![](2025-01-06-14-07-17.png)
