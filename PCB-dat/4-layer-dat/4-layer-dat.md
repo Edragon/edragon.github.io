@@ -1,6 +1,13 @@
 
 # 4-layer-dat
 
+## specs 
+
+- inner layer == 0.5 oz 
+
+
+## lamination 
+
 The typical lamination order for a 4-layer PCB is:
 
 - Top Layer: Signal layer
@@ -8,7 +15,7 @@ The typical lamination order for a 4-layer PCB is:
 - Inner Layer 2: Ground plane (e.g., GND or VCC)
 - Bottom Layer: Signal layer
 
-## lamination order 
+### lamination order 
 
 "4-layer PCB stack-up:
 
@@ -19,7 +26,7 @@ The typical lamination order for a 4-layer PCB is:
 
 Please follow this lamination order for manufacturing."
 
-## 🔄 Typical 4-Layer Stackup (Example)
+### 🔄 Typical 4-Layer Stackup (Example)
 
 | Layer | Purpose                     |
 |-------|-----------------------------|
