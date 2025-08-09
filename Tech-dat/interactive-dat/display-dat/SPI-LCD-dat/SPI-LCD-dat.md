@@ -2,6 +2,8 @@
 # SPI-LCD-dat
 
 
+## EDL 160x128 1.8 SPI LCD
+
 ## Setup 
 
 Obsolete, Pin definition of EDL 160x128 1.8 SPI LCD
@@ -27,5 +29,6 @@ Obsolete, Pin definition of EDL 160x128 1.8 SPI LCD
 ## ref 
 
 
-* Reference Setup [link 1 by simtronyx.de](http://blog.simtronyx.de/en/a-1-8-inch-tft-color-display-hy-1-8-spi-and-an-arduino/) and [link 2 by benbarbour.com](http://www.benbarbour.com/arduinolcd)
+* Reference Setup [link 1 by simtronyx.de](http://blog.simtronyx.de/en/a-1-8-inch-tft-color-display-hy-1-8-spi-and-an-arduino/) 
+* and [link 2 by benbarbour.com](http://www.benbarbour.com/arduinolcd)
 

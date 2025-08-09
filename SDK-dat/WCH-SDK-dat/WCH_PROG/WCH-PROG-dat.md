@@ -38,3 +38,16 @@
 ![](33-43-14-25-07-2023.png)
 
 
+## WCHISPTool
+
+serial CH552 download 
+
+![](2025-08-09-18-22-22.png)
+
+USB CH552 download 
+
+![](2025-08-09-18-22-39.png)
+
+## ref 
+
+- [[WCH-SDK-dat]]

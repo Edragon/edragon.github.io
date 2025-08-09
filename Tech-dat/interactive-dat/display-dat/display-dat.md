@@ -12,13 +12,18 @@
 
 - [[parallel-display-dat]] - [[DVP-display-dat]] - [[RGB-LCD-dat]]
 
-- [[segment-LCD-dat]]
-
 parallel interface LCDs - [[EDL-LCD-dat]]
 
-SPI interface LCDs - [[EDS-LCD-dat]]
+SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 
+
+- [[segment-LCD-dat]]
+
+
+## boards 
+
+- [[NWI1241-dat]]
 
 ## other 
 
@@ -58,5 +63,6 @@ SPI interface LCDs - [[EDS-LCD-dat]]
 
 - [[RPI-LCD-dat]]
 
+- [[WCH-dat]]
 
 

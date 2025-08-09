@@ -36,6 +36,28 @@ legacy wiki page
 Note: The 2.2-inch SPI module has no touch pins and has 9 PINs. The 2.4/2.8/3.2/3.5/4.0 modules with touch have 14 PIN standard pins.
 
 
+## LCD Raw 
+
+### 3.2" ILI9341 // 37 pin or 18 pin 
+
+![](2025-08-09-18-03-17.png)
+
+### 2.2" ILI9341 14 pin 
+
+尺寸：2.2 inch
+分辨率：240(RGB) x 320 
+接口： 4-Wire SPI （支持硬件SPI）
+Color Depth： 262K/65K
+CM (W x H x D) (mm) ：40.10x55.20x2.35
+Active Area(mm) ：33.84x45.12
+LED Numbers ： 4 LEDs 
+Driver IC ：ILI9341V
+
+![](2025-08-09-18-05-42.png)
+
+
+![](2025-08-09-18-04-58.png)
+
 ## repo 
 
 - https://github.com/Edragon/Display-LCD-SPI
@@ -48,3 +70,5 @@ Note: The 2.2-inch SPI module has no touch pins and has 9 PINs. The 2.4/2.8/3.2/
 - [[ILC0011-dat]]
 
 - [[EDS-LCD]]
+
+- [[display]]
