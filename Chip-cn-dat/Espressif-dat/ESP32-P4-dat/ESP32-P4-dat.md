@@ -1,6 +1,11 @@
 
 # ESP32-P4-dat
 
+- [[ESP32-P4-SDK-dat]] - [[SDK-dat]]
+
+## info 
+
+
 The ESP32-P4 is a high-performance microcontroller in Espressif's ESP32 series, aimed at advanced applications that require robust processing power and efficient communication. Here are its most significant features:
 
 ### **1. High-Performance Processor**
@@ -42,3 +47,25 @@ The ESP32-P4 is a high-performance microcontroller in Espressif's ESP32 series, 
 - Works as a companion processor to wireless-enabled ESP32 devices for offloading compute-heavy tasks.
 
 The ESP32-P4’s performance-oriented design sets it apart, catering to applications where processing power and versatile peripherals are more critical than wireless connectivity. 
+
+
+## review 1 
+
+Personal impressions:
+
+- This chip is neither outstanding nor lacking—somewhere in the middle.
+- MIPI only supports 2 lanes.
+- For Wi-Fi, you need to add a C6 module.
+- Currently does not support Arduino.
+
+Advantages:
+
+- Mainly depends on future ecosystem development.
+- Currently, there are quite a few comprehensive ESP-IDF examples, but individual module tests are still relatively few.
+
+   
+## ref 
+
+- [[ESP32-P4]] - [[ESPressif]]
+
+- [[esp-dat]]

@@ -3,7 +3,7 @@
 
 - [[thermal-imaging-camera-dat]]
 
-- [[D1S-dat]]
+- [[D1-S-dat]]
 
 
 ## chip version 

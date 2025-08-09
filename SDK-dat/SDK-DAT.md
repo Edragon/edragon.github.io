@@ -52,6 +52,15 @@
 
 - [[adb-dat]]
 
+- [[linux-dat]]
+
+📂 Listing Folder Structures (Easy-to-Read)
+
+```bash
+tree -L 2
+```
+
+
 
 ## ref 
 

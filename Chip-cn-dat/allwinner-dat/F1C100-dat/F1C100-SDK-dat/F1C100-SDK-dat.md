@@ -138,3 +138,5 @@ folder rootfs for [[buildroot-dat]]
 - https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA
 
 - [[sipeed-dat]]
+
+- Nano_pub_V4.zip

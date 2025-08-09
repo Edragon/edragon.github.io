@@ -1,6 +1,8 @@
 
 # allwinner-dat
 
+## chips 
+
 - [[H618-dat]] - [[H616-dat]] - [[H618-dat]] 
 
 
@@ -32,6 +34,12 @@
 - [[XR32F429-dat]] == [[MCU-dat]]
 
 - [[X3-dat]]
+
+## use 
+
+- [[allwinner-SDK-dat]] - [[virtualbox-dat]]
+
+- [[allwinner]]
 
 ## app 
 
@@ -68,12 +76,6 @@
 - [[DSP-dat]] - [[RISC-V-dat]] - [[RISC-dat]]
 
 - [[video-dat]] - [[video-decodec-dat]]
-
-- [[virtualbox-dat]]
-
-- [[allwinner-SDK-dat]]
-
-- [[allwinner]]
 
 - [[chip-cn-dat]]
 

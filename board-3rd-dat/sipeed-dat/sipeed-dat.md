@@ -5,7 +5,7 @@
 
 - [[allwinner-dat]]
 
-## lichee zero 
+## lichee zero == V3S
 
 ![](2025-07-15-02-01-05.png)
 
@@ -15,9 +15,11 @@ github.com/Lichee-Pi
 
 - [[V3S-dat]]
 
-## lichhe nano 
+## lichhe nano = F1C100 
 
 - [[F1C100-dat]]
+
+
 
 ## ref 
 
