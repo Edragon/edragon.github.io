@@ -1,5 +1,5 @@
 
-# LCD-12864-dat
+# LCD12864-dat
 
 ## specs 
 - Product name LCD module
