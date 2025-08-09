@@ -34,6 +34,8 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[Nokia-5110-dat]]
 
+- [[touchpanel-dat]]
+
 ## tech 
 
 - [[image-dat]] - [[display-SDK-dat]]
