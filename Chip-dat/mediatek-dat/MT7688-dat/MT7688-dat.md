@@ -1,6 +1,13 @@
 
 # MT7688-dat
 
+- [[openwrt-dat]]
+
+## board 
+
+- [[NWI1219-dat]]
+
+
 ## Specs 
 
 Support 
@@ -13,3 +20,7 @@ Support
 
 
 - [[memory-dat]] - [[SD-dat]] - [[spi-flash-dat]]
+
+
+
+

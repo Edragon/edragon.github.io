@@ -22,6 +22,8 @@
 
 ## SUB SDK 
 
+- [[ESP32-P4-SDK-dat]]
+
 - [[ESP-SDK-dat]]  
 
 - [[ESP8266-SDK-dat]]
@@ -95,6 +97,39 @@ Wirings use [[USB-TTL-dat]]
 
 现成虚拟机下载地址：http://wiki.ai-thinker.com/esp32/lubuntu
 
+
+## repo 
+
+- https://github.com/Edragon/ESP-ESP32
+
+## bk repo
+
+- https://github.com/Edragon/Arduino-ESP32
+- https://github.com/Edragon/arduino-esp8266
+- https://github.com/Edragon/esp-idf-code
+- https://github.com/Edragon/ESP32-S3-I2Saudio
+
+
+
+- https://github.com/Edragon/esp_firmware
+
+- https://github.com/Edragon/proj-ESP_LED
+- https://github.com/Edragon/proj-esp32
+- https://github.com/Edragon/ESP32-APP
+
+- https://github.com/Edragon/ESP-ESP8266-HDK
+- https://github.com/Edragon/ESP-ESP8266-SDK
+- https://github.com/Edragon/ESP-ESP8266
+- https://github.com/Edragon/ESP8266-proj
+
+folk 
+- https://github.com/Edragon/ESP32wavdac
+- https://github.com/Edragon/esp32-cam-micropython-2022
+- https://github.com/Edragon/ESPLink
+- https://github.com/Edragon/esp32_MusicPlayer
+- https://github.com/Edragon/esp32_SoundRecorder
+- https://github.com/Edragon/esp32-camera-series
+- https://github.com/Edragon/esp32-camera-screen
 
 
 ## ref 

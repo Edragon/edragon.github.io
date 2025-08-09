@@ -1,7 +1,7 @@
 
 # ESP32-P4-dat
 
-- [[ESP32-P4-SDK-dat]] - [[SDK-dat]]
+- [[ESP32-P4-SDK-dat]] - [[ESP-SDK-dat]] - [[SDK-dat]]
 
 ## info 
 
@@ -63,8 +63,14 @@ Advantages:
 - Mainly depends on future ecosystem development.
 - Currently, there are quite a few comprehensive ESP-IDF examples, but individual module tests are still relatively few.
 
+
+## SCH
+
+![](ESP32-P4-SCH-1.png)
+
    
 ## ref 
+
 
 - [[ESP32-P4]] - [[ESPressif]]
 
