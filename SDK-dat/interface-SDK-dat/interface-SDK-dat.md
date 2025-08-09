@@ -15,6 +15,9 @@
 
 - [[display-dat]] - [[display-SDK-dat]] - [[MIPI-DSI-SDK-dat]]
 
+- [[display-dat]] - [[LVGL-dat]] - [[LVGL-SDK-dat]]
+
+
 ## python on RPI 
 
 - [[RPI-sdk-dat]] - [[python-dat]] - [[python-env-dat]]

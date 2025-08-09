@@ -35,6 +35,8 @@
 
 - [[ov5659-dat]] - [[ov2659-dat]] 
 
+- [[OV5647-dat]]
+
 - [[OV7670-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[OV7725-dat]]
 
 - [[OV7740-dat]] - [[OV5642-dat]]
@@ -44,6 +46,8 @@
 OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] - [[SCM1020-dat]] - [[SCM1004-dat]] 
 
 - [[SONY-dat]]
+
+- [[SC2336-dat]]
 
 ### more cameras 
 
