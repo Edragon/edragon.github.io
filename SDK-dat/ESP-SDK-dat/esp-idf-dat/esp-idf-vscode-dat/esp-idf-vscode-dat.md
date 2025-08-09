@@ -2,6 +2,10 @@
 
 # esp-idf-vscode-dat
 
+- [[esp-idf-vscode-install-dat]] - [[esp-idf-vscode-compile-dat]] 
+
+- [[I2C-dat]] - [[ethernet-dat]]
+
 e:\work-data\IDF
 
 e:\work-data\IDF_tools
@@ -16,7 +20,7 @@ e:\work-data\IDF_tools
 https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/
 
 
-- [[esp-idf-vscode-install-dat]] - [[esp-idf-vscode-compile-dat]] 
+
 
 
 - [[ESP-IDF-dat]]
