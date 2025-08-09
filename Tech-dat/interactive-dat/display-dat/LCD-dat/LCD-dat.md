@@ -7,6 +7,7 @@
 
 - [[fpc-ips-lcd]]
 
+- [[parallel-display-dat]]
 
 - [[LCD1602-dat]] - [[LCD-12864-dat]]
 
@@ -67,6 +68,8 @@ LCD data 24-bit
 
 
 ## ref 
+
+- [[LED-driver-dat]]
 
 - [[interactive-dat]]
 

@@ -183,6 +183,11 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 驱动 1.9 寸 AMOLED 240*536 高分屏
 
+- [[oled-dat]] - [[amoled-dat]] - [[display-dat]] - [[DVP-display-dat]]
+
+
+
+
 ## SCH 
 
 ![](LCPI-PC-F133(303F133D1S3).png)
@@ -195,13 +200,13 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 ## ref 
 
-- [[conn-pcie-dat]]
+- [[mini-pcie-dat]]
 
 - [[F133-dev]]
 
 - [[virtualbox-dat]]
 
-- [[0402-dat]] 
+- [[PCB-dat]]
 
 - [[dongshanpi-dat]]
 
@@ -217,4 +222,6 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 - [[USB-dat]]
 
+- [[power-dat]]
 
+- [[audio-dat]]

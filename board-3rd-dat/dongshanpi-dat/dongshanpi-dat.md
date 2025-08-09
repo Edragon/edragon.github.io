@@ -26,3 +26,8 @@ https://linux-sunxi.org/DongshanPi_Nezha_STU
 ## dongshanpi-no.1 
 
 ![](2025-08-08-12-35-15.png)
+
+
+## ref 
+
+- [[dongshanpi]]

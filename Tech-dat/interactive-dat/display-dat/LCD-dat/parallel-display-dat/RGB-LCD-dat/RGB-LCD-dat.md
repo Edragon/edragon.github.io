@@ -60,3 +60,61 @@ THINE： THC63LVDM83C/83R/83D
 DOESTEK: DTC34LM85A
 
 NationalSemiconductor: DS90C385
+
+
+
+
+## RGB LCD 40P 
+
+![](2025-08-09-17-16-12.png)
+
+power 
+- LEDK
+- LEDA
+- GND
+- VCC
+
+red 
+- R0 - GND
+- R1 - GND
+- R2
+- R3
+- R4
+- R5
+- R6
+- R7
+
+green 
+- G0 - GND
+- G1 - GND
+- G2
+- G3
+- G4
+- G5
+- G6 
+- G7
+
+blue
+- B0 - GND
+- B1 - GND
+- B2
+- B3
+- B4
+- B5
+- B6
+- B7
+
+- GND 
+- CLK
+- DISP - 3V3
+- HSYNC
+- VSYNC
+- DEN == LCD_DE
+- NC - 3V3
+- GND
+
+touch 
+- XR
+- YD
+- XL
+- YU

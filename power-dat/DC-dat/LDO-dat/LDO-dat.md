@@ -50,6 +50,10 @@ CE6260 == 500mA CMOS LDO Regulator, Low Dropout Voltage, Dropout Voltage: 120mV@
 
 
 
+## LDO array 
+
+![](2025-08-09-17-21-03.png)
+
 ## ref 
 
 - [[DC-dat]]

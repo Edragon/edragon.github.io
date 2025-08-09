@@ -48,6 +48,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[SY7200-dat]] - [[silergy-dat]]
 
+- [[powtech-dat]] - [[PT4103-dat]] - [[PT4115-dat]]
 
 
 ### ref 

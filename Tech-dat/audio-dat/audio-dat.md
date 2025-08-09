@@ -56,6 +56,16 @@ wiring to [[D1-dat]] - [[F133-dat]]
 - https://github.com/kosme/arduinoFFT
 
 
+## analog audio SCH 
+
+- [[sensor-microphone-dat]]
+
+- [[PAM8301-dat]]
+
+![](2025-08-09-17-21-45.png)
+
+
+
 ## ref 
 
 - [[video-dat]] - [[HDMI-dat]]

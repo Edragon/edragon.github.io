@@ -38,6 +38,8 @@
 
 - [[OPA1641-dat]] - [[NE5532-dat]] - [[AD828-dat]] - [[TL072-dat]]
 
+- [[PAM-dat]] - [[diodes-dat]] - [[PAM8302-dat]]
+
 ## Voltage Reference
 
 LM258, LM358, LM358A, LM358E, LM2904, LM2904A, LM2904E, LM2904V, NCV2904

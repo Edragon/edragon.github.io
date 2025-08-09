@@ -1,6 +1,8 @@
 
 # display-dat
 
+- [[display-SDK-dat]]
+
 parallel interface LCDs - [[EDL-LCD-dat]]
 
 SPI interface LCDs - [[EDS-LCD-dat]]
