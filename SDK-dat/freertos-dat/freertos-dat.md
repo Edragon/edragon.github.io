@@ -1,6 +1,24 @@
 
 # freertos-dat
 
+
+## freeRTOS debug 
+
+Your sketch is written for ESP32 but you’re compiling it for ESP8266, and that’s why it’s failing.
+
+Why
+
+SemaphoreHandle_t, xSemaphoreCreateBinary(), xSemaphoreGive(), xSemaphoreTake(), and portMAX_DELAY are FreeRTOS API calls.
+
+ESP32 Arduino comes with FreeRTOS by default.
+
+ESP8266 Arduino does not use FreeRTOS — so those types and functions don’t exist unless you add a separate RTOS layer.
+
+
+
+
+
+
 ## ✅ When is it a Good Time to Use FreeRTOS?
 
 **FreeRTOS** is a real-time operating system designed for microcontrollers. It lets you split your application into multiple tasks that run seemingly in parallel.

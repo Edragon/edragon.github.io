@@ -28,6 +28,13 @@ Create a configuration file and a new sketch:
 install boards 
 
     arduino-cli board list
+
+
+Port Protocol Type              Board Name       FQBN                         Core       
+COM1 serial   Serial Port       Unknown
+COM8 serial   Serial Port (USB) LilyGo T-Display esp32:esp32:lilygo_t_display esp32:esp32
+
+
     arduino-cli core list
     arduino-cli core install arduino:samd
     arduino-cli board listall mkr
@@ -39,6 +46,8 @@ install boards
     esp32:esp32          3.2.1     3.2.1  esp32
     esp8266:esp8266      3.1.2     3.1.2  ESP8266 Boards (3.1.2)
     megaTinyCore:megaavr 2.6.10    2.6.10 megaTinyCore
+
+
 
 board manager 
 
@@ -60,7 +69,18 @@ search and udpate
     ID              Version Name
     esp8266:esp8266 2.5.2   esp8266
 
-compile and upload 
+
+
+
+## compile and upload 
+
+
+    # Generic ESP8266 Module
+    arduino-cli compile --fqbn esp8266:esp8266:generic esp8266-SX126x_Transmit
+
+    arduino-cli compile --fqbn esp32:esp32:lilygo_t_display esp8266-PingPong
+
+    arduino-cli compile --fqbn esp8266:esp8266 esp8266-PingPong
 
     arduino-cli compile --fqbn arduino:samd:mkr1000 MyFirstSketch
 
@@ -86,6 +106,7 @@ upload
 
 arduino-cli lib search debouncer
 arduino-cli lib search SSD1306Wire
+arduino-cli lib search RadioLib
 
     E:\Git-category\Git-Arduino\Arduino-ESP32\BSP\ESP\ESP1000-ESP32-tori>arduino-cli lib search SSD1306Wire
     Name: "SSD1306wire"
@@ -98,6 +119,9 @@ arduino-cli lib search SSD1306Wire
     Architecture: avr
     Types: Contributed
     Versions: [2.0.1]
+
+
+arduino-cli lib install "RadioLib"
 
 arduino-cli lib install FTDebouncer
 

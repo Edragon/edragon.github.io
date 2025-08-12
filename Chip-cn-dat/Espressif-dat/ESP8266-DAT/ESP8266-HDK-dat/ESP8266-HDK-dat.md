@@ -21,6 +21,13 @@ module HDK == [[ESP-12F-DAT]]
 | 8     | XPD_DCDC | IO16 |          |         | Deep-sleep wakeup (need to be connected to EXT_RSTB); GPIO16 |
 
 
+Hardware SPI Pins (Default)
+- MOSI (Master Out Slave In): GPIO13 (NodeMCU D7)
+- MISO (Master In Slave Out): GPIO12 (NodeMCU D6)
+- SCK (Serial Clock): GPIO14 (NodeMCU D5)
+- CS/SS (Chip Select): GPIO15 (NodeMCU D8) - but you can use any GPIO pin for CS
+
+
 ## bootstrap
 
 - [[ESP8266-boot-log-dat]]

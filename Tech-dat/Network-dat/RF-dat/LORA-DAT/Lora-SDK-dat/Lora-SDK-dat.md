@@ -1,5 +1,7 @@
 # Lora-SDK-dat
 
+- [[Lora-HDK-dat]] - [[12P-BTB-dat]]
+
 ## network ID and address 
 
 For LoRa coding, the network ID and address (often called device address or node address) are typically set in the software/firmware of the device, not in the data payload or by hardware switches.
@@ -34,7 +36,88 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
 
 - https://github.com/sandeepmistry/arduino-LoRa
 
+    #else
+    #define LORA_DEFAULT_SPI           SPI
+    #define LORA_DEFAULT_SPI_FREQUENCY 8E6 
+    #define LORA_DEFAULT_SS_PIN        10
+    #define LORA_DEFAULT_RESET_PIN     9
+    #define LORA_DEFAULT_DIO0_PIN      2
+    #endif
+
+
 - [[radiohead-dat]]
+
+- https://jgromes.github.io/RadioLib/
+
+    // ESP8266  -- [[12P-BTB-dat]]
+    SX1262 lora = new Module(15, 0, 16);
+
+
+- https://github.com/beegee-tokyo/SX126x-Arduino
+
+
+
+    #ifdef ESP8266
+    // ESP32 - SX126x pin configuration
+    int PIN_LORA_RESET = 0;	  // LORA RESET
+    int PIN_LORA_DIO_1 = 15;  // LORA DIO_1
+    int PIN_LORA_BUSY = 16;	  // LORA SPI BUSY
+    int PIN_LORA_NSS = 2;	  // LORA SPI CS
+    int PIN_LORA_SCLK = SCK;  // LORA SPI CLK
+    int PIN_LORA_MISO = MISO; // LORA SPI MISO
+    int PIN_LORA_MOSI = MOSI; // LORA SPI MOSI
+    int RADIO_TXEN = -1;	  // LORA ANTENNA TX ENABLE
+    int RADIO_RXEN = -1;	  // LORA ANTENNA RX ENABLE
+    #endif
+
+
+custom setup 
+
+    #ifdef ESP8266
+    // ESP8266 - SX126x pin configuration
+    int PIN_LORA_RESET = -1;	  // LORA RESET (GPIO 4 / D2)
+    int PIN_LORA_DIO_1 = 0;   // LORA DIO_1 (GPIO 2 / D4)
+    int PIN_LORA_BUSY = 16;	  // LORA SPI BUSY (GPIO 5 / D1)
+    int PIN_LORA_NSS = 15;	  // LORA SPI CS (GPIO 15 / D8)
+    int PIN_LORA_SCLK = 14;   // LORA SPI CLK (GPIO 14 / D5)
+    int PIN_LORA_MISO = 12;   // LORA SPI MISO (GPIO 12 / D6)
+    int PIN_LORA_MOSI = 13;   // LORA SPI MOSI (GPIO 13 / D7)
+    int RADIO_TXEN = 5;	  // LORA ANTENNA TX ENABLE (not used)
+    int RADIO_RXEN = 4;	  // LORA ANTENNA RX ENABLE (not used)
+    #endif
+
+
+    // Define LoRa parameters
+    #define RF_FREQUENCY 916100000	// Hz
+    #define TX_OUTPUT_POWER 22		// dBm
+    #define LORA_BANDWIDTH 0		// [0: 125 kHz, 1: 250 kHz, 2: 500 kHz, 3: Reserved]
+    #define LORA_SPREADING_FACTOR 7 // [SF7..SF12]
+    #define LORA_CODINGRATE 1		// [1: 4/5, 2: 4/6,  3: 4/7,  4: 4/8]
+    #define LORA_PREAMBLE_LENGTH 8	// Same for Tx and Rx
+    #define LORA_SYMBOL_TIMEOUT 0	// Symbols
+    #define LORA_FIX_LENGTH_PAYLOAD_ON false
+    #define LORA_IQ_INVERSION_ON false
+    #define RX_TIMEOUT_VALUE 3000
+    #define TX_TIMEOUT_VALUE 5000
+
+
+    SDK:2.2.2-dev(38a443e)/Core:3.1.2=30102000/lwIP:STABLE-2_1_3_RELEASE/glue:1.2-65-g06164fb/BearSSL:b024386
+    =====================================
+    SX126x PingPong test
+    =====================================
+    BoardId: 00-0A-04-4D-00-0A-04-4D
+    Starting lora_hardware_init
+    LoRa init success
+
+
+
+- [[FreeRTOS-dat]]
+
+
+- [Single Channel LoRaWAN Gateway == SX1262-SC-GW](https://github.com/beegee-tokyo/SX1262-SC-GW)
+
+
+
 
 
 
@@ -127,4 +210,8 @@ Example (Arduino, using AESLib):
 
 ## ref
 
+- [[arduino-ide-dat]]
+
 - [[lora-dat]] - [[lora-HDK-dat]] - [[lora-SDK-dat]]
+
+- [[RAKwireless-dat]]
