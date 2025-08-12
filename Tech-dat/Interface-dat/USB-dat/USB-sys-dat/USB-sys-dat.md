@@ -2,6 +2,13 @@
 # USB-sys-dat
 
 
+- [[power-distribution-dat]]
+
+
+
+
+
+
 - [[type-c-dat]] - [[battery-charger-dat]]
 
 - [[serial-dat]] - [[LDO-dat]]

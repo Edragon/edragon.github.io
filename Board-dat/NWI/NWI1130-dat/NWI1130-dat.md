@@ -10,17 +10,16 @@
 
 ![](2025-08-12-15-05-56.png)
 
+- support auto flashing and Reset 
+
+
 ## Applications, category, tags, etc. 
 
 - [[ESP8266-dat]]
-
-## Demo Code and Video
-
-
 
 
 ## ref 
 
 - [[NWI1130]] 
 
-- legacy wiki page 
+- [legacy wiki page ](https://www.electrodragon.com/w/Category:ESP8266_Boards)

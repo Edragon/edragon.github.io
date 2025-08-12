@@ -24,6 +24,7 @@
 
 - [[serial-dat]] - [[auto-serial-dat]]
 
+- [[interactive-dat]] - [[button-dat]] - [[switch-dat]] - [[keyboard-dat]]
 
 
 ## other categories

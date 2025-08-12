@@ -38,7 +38,7 @@ general wiring
 
 - [[ESP8266-HDK-dat]]
 
-- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]]
+- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]] - [[Lora-SDK-dat]]
 
 wiring for [[SX1262-dat]]
 

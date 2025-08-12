@@ -1,6 +1,14 @@
 
 # voltage-divider-dat
 
+
+## applications 
+
+- [[button-dat]] - [[ADC-bat-monitor-dat]]
+
+
+## how works 
+
 == voltage ladder 
 
 ![](2024-02-01-18-36-27.png)

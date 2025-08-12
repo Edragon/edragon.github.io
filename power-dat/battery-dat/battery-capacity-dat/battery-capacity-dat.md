@@ -2,6 +2,32 @@
 # battery-capacity-dat
 
 
+- [[18650-dat]] - [[26650-dat]] 
+
+
+
+
+
+## battery test 
+
+### 2. Example for a Typical Li-ion 26650 (5000 mAh)
+- Discharge Current: **0.5 A** (500 mA)
+- Expected Capacity: **5000 mAh**
+Time = 5000 mAh ÷ 500 mA = 10 hours
+
+
+### 3. Practical Notes
+- **Cutoff Voltage**:  
+  - Li-ion NMC/NCA: ~2.5–3.0 V  
+  - LiFePO₄: ~2.0–2.5 V  
+- **Temperature**: Test at room temp (~25 °C) for rated results.
+- **CC Test**: Your tester should log voltage & time; capacity is the area under the discharge curve.
+
+
+
+
+
+
 ## Car Sedan Lead-Acid battery 
 
 - [[lead-acid-battery-dat]]

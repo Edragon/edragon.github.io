@@ -13,7 +13,7 @@
 | [[ESP-12S-DAT]]          | [[NWI1086-dat]] | optimized from [[ESP-12F-dat]]                                   |
 | [[ESP-WROOM-02-dat]]     | [[NWI1112-dat]] | Most certificated, best design by original [[Espressif-dat]].    |
 
-
+- common on board LED == IO2 
 
 
 
