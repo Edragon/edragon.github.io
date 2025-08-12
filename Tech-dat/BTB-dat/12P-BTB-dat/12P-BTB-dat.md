@@ -47,6 +47,8 @@ general wiring
 
 V2 
 
+
+
 |         | 1   | 2      | 3        | 4        | 5       | 6      |
 | ------- | --- | ------ | -------- | -------- | ------- | ------ |
 | func    | 3V3 | RESET  | SPI_MOSI | SPI_MISO | SPI_SCK | BUSY   |
@@ -54,7 +56,7 @@ V2
 | conn.L  | 1   | 3      | 5        | 7        | 9       | 11     |
 | conn.R  | 2   | 4      | 6        | 8        | 10      | 12     |
 | ESP8266 | GND | io15   | io4      | io5      | RXD     | TXD    |
-| func    | GND | D1_IRQ |          |          | serial  | serial |
+| func    | GND | D1_IRQ | NSS      |          | serial  | serial |
 
 
 V1 
