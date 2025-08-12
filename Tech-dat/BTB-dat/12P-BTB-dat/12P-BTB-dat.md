@@ -33,7 +33,7 @@ general wiring
 | ESP8266 | GND | io15(d)      | io4 (u) | io5 (u) | RXD  | TXD  |
 | func    | GND | -            | -       | -       | -    | -    |
 
-
+- note only IO2 not lead out to the connecor
 
 - 1x 4-line [[SPI-dat]] + 5x [[GPIO-dat]]
 - 1x 4-line [[SPI-dat]] + 1x [[Serial-dat]] + 1x [[I2C-dat]] + 1x [[GPIO-dat]]
