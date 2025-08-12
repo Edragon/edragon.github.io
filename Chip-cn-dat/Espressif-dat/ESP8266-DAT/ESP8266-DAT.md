@@ -11,6 +11,23 @@ hardware and software - [[ESP8266-HDK-dat]] - [[ESP8266-SDK-dat]]
 
 - [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
 
+## mini development boards
+
+- [[NWI1050-dat]] - [[NWI1053-dat]] - [[NWI1130-dat]] - [[NWI1083-dat]]
+
+- module system based on [[BTB-dat]] == [[NWI1230-dat]]
+
+
+## peripherals 
+
+- [[peripherals-dat]]
+
+- [[serial-dat]] - [[auto-serial-dat]]
+
+- [[power-dat]] - [[LDO-dat]]
+
+
+
 
 
 

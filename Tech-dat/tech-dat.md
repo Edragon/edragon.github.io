@@ -7,27 +7,22 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]]
-
-- [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]] - [[battery-pack-dat]]
-  
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
 - [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
 
-
-
 - [[interface-dat]] - [[audio-dat]] 
 
 - [[robot-dat]]
-
-
 
 - [[M2M-dat]]
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
 
 - [[app-dat]] - [[mechanics-dat]] 
+
+
+
 
 ## New Tech And Updates 
 
@@ -38,7 +33,18 @@
 
 
 
-## Code and SDK 
+
+### power and battery
+
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]]
+
+- [[battery-dat]] - [[battery-charger-dat]] - [[battery-rechargerable-dat]] - [[BMS-dat]] - [[18650-dat]] - [[battery-pack-dat]]
+
+- [[ac-mains-dat]]
+
+
+
+### Code and SDK 
 
 - [[arduino-ide-dat]] - [[platform.io-dat]]
 
@@ -53,7 +59,7 @@
 - [[SDK-dat]] - [[camera-sdk-dat]] - [[freertos-dat]]
 
 
-## network 
+### network 
 
 - [[network-dat]] - [[location-dat]]
 

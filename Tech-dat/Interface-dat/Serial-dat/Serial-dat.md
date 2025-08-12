@@ -1,7 +1,12 @@
 
 # USB TTL Dat 
 
-- [[serial-monitor-dat]] - [[serial-circuits-dat]]
+- [[serial-monitor-dat]] 
+
+- [[serial-circuits-dat]] - [[auto-serial-dat]]
+
+
+
 
 - [legacy wiki page](https://w.electrodragon.com/w/Serial)
 
@@ -10,6 +15,9 @@
 - [[USB-sys-dat]] - [[Logic-level-shifter-dat]]
 
 - [[USB-dat]]
+
+
+
 
 ## Usage 
 
@@ -120,7 +128,7 @@ Booting Mode select
 
 ## categorized by target friendly
 
-- [[Arduino-ide-dat]] == [[CH9102-dat]] - [[CH9104-dat]] - [[FT232RL-dat]] - [[CP2102-dat]] - [[CP2104-dat/CP2104-dat]]
+- [[Arduino-ide-dat]] == [[CH9102-dat]] - [[CH9104-dat]] - [[FT232RL-dat]] - [[CP2102-dat]] - [[CP2104-dat]]
 
 
 ## driver 
@@ -138,6 +146,7 @@ software [[com-monitor-dat]]
 - [[ESP-SDK-dat]]
 
 ### other interface 
+
 - [[RS485-DAT]] - [[RS232-dat]] - [[I2C-dat]]
 
 

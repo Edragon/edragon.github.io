@@ -1,6 +1,9 @@
 
 # ADC-dat
 
+- [[ADC-bat-monitor-dat]]
+
+
 ## chips 
 
 - [[ADS1100-dat]]

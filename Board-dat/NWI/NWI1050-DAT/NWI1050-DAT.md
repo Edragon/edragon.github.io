@@ -1,6 +1,8 @@
 
 # NWI1050-DAT
 
+this is the bare board version soldered with OUT [[ESP-12F-dat]] module 
+
 
 ## SCH
 
@@ -39,3 +41,8 @@ back side optional functions:
 - R2 version support not only ESP-07, ESP-12 but also new ESP-12F, which has extra 6 pis (SPI and I/Os)
 - Fixed: Note pin IO4 and IO5 is switched, not same as ESP-12F pinout (we used early version pinout).
 
+
+
+## ref 
+
+- [[ESP8266-dat]]

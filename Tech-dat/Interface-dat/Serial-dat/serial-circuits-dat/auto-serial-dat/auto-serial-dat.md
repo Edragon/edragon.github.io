@@ -1,6 +1,15 @@
 # auto-serial-dat
 
+
+
+## auto serial ESP32 
+
+- PROG pin (IO0 / IO9) and EN / RST
+
 ![](2023-11-30-17-20-37.png)
+
+![](2025-08-12-15-15-33.png)
+
 
 by 2x SS8050
 
