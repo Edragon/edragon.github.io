@@ -1,5 +1,5 @@
 
-# Optical Coupler DAT
+# Optical-Coupler-DAT
 
 - [[PC817-DAT]]
 
@@ -42,6 +42,9 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 ![](2025-05-29-16-00-18.png)
 
 
+## un-sort chip options 
+
+- CPC5902G == Logic Output Optocouplers Dual Opto Isolated I2C Bus Repeater
 
 
 ## ref 
