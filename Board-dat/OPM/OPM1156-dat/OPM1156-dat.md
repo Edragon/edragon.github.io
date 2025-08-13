@@ -18,9 +18,12 @@
 - default charging current 360mA by 3k3 R8 resistor 
 
 
+on board power jack connector == 2P1.25 (2P), note not soldered 
+
+
 
 ## ref 
 
 - [[TP4056-dat]]
 
-- [[battery-charger-dat]]
+- [[battery-charger-dat]] - [[battery-protection-dat]] - [[power-protection-dat]]
