@@ -181,9 +181,9 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 ## extend 
 
-驱动 1.9 寸 AMOLED 240*536 高分屏
 
-- [[oled-dat]] - [[amoled-dat]] - [[display-dat]] - [[DVP-display-dat]]
+
+- [[oled-dat]] - [[amoled-dat]] - [[display-dat]] - [[DVP-display-dat]] 
 
 
 
@@ -216,7 +216,7 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 - [[ethernet-dat]]
 
-- [[wifi-dat]]
+- [[wifi-dat]] compatible modules == [[RTL8723-dat]]
 
 - [[HDMI-dat]]
 

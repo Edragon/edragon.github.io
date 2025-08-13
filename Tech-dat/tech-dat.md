@@ -97,7 +97,7 @@
 
 - [[LED-dat]] - [[LED-strip-dat]]
 
-- [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] 
+- [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] - [[LCD-dat]]
 
 - [[LCD-dat]] - [[RGB-LCD-dat]]
 

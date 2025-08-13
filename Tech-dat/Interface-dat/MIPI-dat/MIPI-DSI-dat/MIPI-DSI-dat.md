@@ -7,6 +7,13 @@ MIPI serial display
 
 
 
+**DSI** stands for **Display Serial Interface**.  
+
+It’s a high-speed serial interface standard defined by **MIPI** (Mobile Industry Processor Interface) for connecting a display module (like an LCD or AMOLED panel) to a host device (like a smartphone SoC or single-board computer).
+
+
+
+
 ### MIPI-DSI  
 
 1. **Physical Layer (D-PHY)**
@@ -32,3 +39,11 @@ MIPI serial display
 
 📌 **Flow in simple terms**:  
 **SoC** prepares pixel data → wraps it in DSI packets → sends over differential lanes (HS mode) → **Display controller** unpacks → drives LCD pixels.
+
+
+
+## ref 
+
+- [[display-dat]]
+
+- [[display]]

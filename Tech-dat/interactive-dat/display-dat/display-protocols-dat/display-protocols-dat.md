@@ -18,7 +18,7 @@
 
 - [[parallel-display-dat]] - [[RGB-LCD-dat]]
 
-- [[MIPI-CSI-DAT]] - [[MIPI-dat]]
+- [[MIPI-dat]] - [[MIPI-CSI-dat]] - [[MIPI-DSI-dat]]
 
 ### Other Display Interfaces
 

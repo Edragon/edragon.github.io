@@ -14,7 +14,7 @@ AT050TN43
 
 
 
-## RGB LCD 40P 
+## standard RGB LCD 40P == RGB24Bit
 
 available size == 5" 
 
@@ -76,6 +76,9 @@ touch
 - YU
 
 
+## working board 
+
+- [[F133-dat]]
 
 ## ref 
 
