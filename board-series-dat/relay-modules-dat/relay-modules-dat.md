@@ -1,8 +1,7 @@
 
 # relay-modules-dat
 
-legacy wiki page
-- https://w.electrodragon.com/w/Category:Relay
+[legacy wiki page](https://w.electrodragon.com/w/Category:Relay)
 
 ## Boards 
 
@@ -14,6 +13,13 @@ legacy wiki page
 ## SCH 
 
 ![](2023-11-06-17-23-07.png)
+
+
+
+
+
+
+
 
 ## supported RF module
 

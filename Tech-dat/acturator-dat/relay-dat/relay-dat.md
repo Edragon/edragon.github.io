@@ -1,5 +1,5 @@
 
-# relay dat 
+# relay-dat 
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Relay
 
@@ -24,15 +24,33 @@ HF32F-G-5-HS
 
 ## relay control schematic 
 
+- isolation by [[Optical-Coupler-DAT]]
+
+- sell modules - [[relay-modules-dat]] using PNP transitor drive relay - [[transistor-dat]]
+
+
+
 ## using N-mos mosfet control 
 
 ![](2024-09-18-17-41-35.png)
+
+
+
 
 ## using NPN transistor drive 
 
 ![](2024-10-01-19-16-11.png)
 
 - [[transistor-dat]]
+
+
+
+
+
+
+
+
+
 
 
 ### fly back diode 
