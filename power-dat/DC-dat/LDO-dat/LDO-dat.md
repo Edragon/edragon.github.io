@@ -5,6 +5,8 @@
 
 - [[LDO]]
 
+- [[LDO-2CH-dat]]
+
 ## comparable table 
 
 | chip              | package | VIN |

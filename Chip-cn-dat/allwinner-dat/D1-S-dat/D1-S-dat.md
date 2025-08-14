@@ -37,7 +37,9 @@ Note: On the D1s, since the TF card and CKlink pins are multiplexed, you need to
 
 ## SCH 
 
-- [[DongshanPI-D1s_SCH-V2.pdf]]
+- [[DongshanPI-D1s_SCH-V2.pdf]] 
+
+- [[mini-PCIE-dat]]
 
 | Pins / Signals         | Function    | Notes                              |
 | ---------------------- | ----------- | ---------------------------------- |
