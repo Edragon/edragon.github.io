@@ -182,10 +182,9 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 ## extend 
 
 
+- [[oled-dat]] - [[amoled-dat]] - [[display-dat]] 
 
-- [[oled-dat]] - [[amoled-dat]] - [[display-dat]] - [[DVP-display-dat]] 
-
-
+- [[camera-dat]] - [[DVP-display-dat]] 
 
 
 ## SCH 

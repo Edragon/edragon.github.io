@@ -15,11 +15,6 @@
 ![](2025-07-16-13-12-53.png)
 
 
-## touchpanel-SDK-dat 
-
-https://github.com/alex-code/GT911
-
-
 
 
 ## ref 

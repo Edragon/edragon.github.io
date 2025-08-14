@@ -6,6 +6,29 @@ MIPI serial display
 ![](2023-11-30-15-49-17.png)
 
 
+## MIPI-DSI Interface Pinout
+
+| Pin No. | Symbol   | Description                              | When Not in Use      |
+|---------|----------|------------------------------------------|----------------------|
+| 1       | LEDA     | B/L positive pin                         |                      |
+| 2       | LEDK     | B/L negative pin                         |                      |
+| 3       | VDD      | Power supply, 2.8–3.3V type              |                      |
+| 4       | GND      | Power Ground                             |                      |
+| 5       | DON      | MIPI DSI differential data pair (N)      |                      |
+| 6       | DOP      | MIPI DSI differential data pair (P)      |                      |
+| 7       | GND      | Power Ground                             |                      |
+| 8       | CLKN     | MIPI DSI differential clock pair (N)     |                      |
+| 9       | CLKP     | MIPI DSI differential clock pair (P)     |                      |
+| 10      | GND      | Power Ground                             |                      |
+| 11      | D1N      | MIPI DSI differential data pair 1 (N)    |                      |
+| 12      | D1P      | MIPI DSI differential data pair 1 (P)    |                      |
+| 13–33   | GND      | Power Ground                             |                      |
+| 34      | RESET    | Reset the LCM                            |                      |
+| 35–37   | GND      | Power Ground                             |                      |
+| 38      | VDD      | Power supply, 2.8–3.3V type              |                      |
+| 39      | GND      | Power Ground                             |                      |
+| 40      | NC       | Dummy                                    |                      |
+
 
 **DSI** stands for **Display Serial Interface**.  
 

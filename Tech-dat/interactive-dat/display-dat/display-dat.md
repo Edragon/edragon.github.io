@@ -6,7 +6,7 @@
 
 ## LCD 
 
-- [[LCD-dat]] 
+- [[LCD-dat]] - [[led-driver-dat]]
 
 - [[FPC-IPS-LCD-dat]] - [[LCD1602-dat]] - [[LCD2004-dat]] - [[LCD12864-dat]]
 
@@ -36,11 +36,34 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[touchpanel-dat]]
 
+
+
+
 ## tech 
 
 - [[image-dat]] - [[display-SDK-dat]]
 
 - [[display-protocols-dat]] - [[display-interfaces-dat]]
+
+
+
+## driver 
+
+- [[ILI9341-dat]]
+
+- [[ST7789-dat]] - [[ST7735-dat]]
+
+- [[SSD1681-dat]] - [[SSD1315-dat]] - [[SSD1306-dat]] - [[SSD1312-dat]] - [[SSH1106-dat]] - [[CH1106-dat]]
+
+- [[GC9107-dat]] - [[GC9A01-dat]]
+
+- [[ILI9488-dat]] - [[ILI9486-dat]] - [[ILI9481-dat]]
+
+- [[SSD1963-dat]]
+
+- [[RA8875-dat]]
+
+- [[HX8357-dat]]
 
 
 ## repositories 

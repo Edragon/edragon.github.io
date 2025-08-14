@@ -1,7 +1,31 @@
 
 # PCIE-dat
 
+
 Low-profile PCIe cards still use 1.57 mm thickness; only the bracket changes.
+
+
+- [[mini-PCIE-dat]]
+
+
+## PCIE 1x 
+
+A PCIe x1 slot is a type of expansion slot on a computer motherboard, primarily designed for low-bandwidth devices. It has a single PCIe lane, offering the lowest data transfer rate among different PCIe slot types. Despite its limitations, it's useful for various low-power peripheral cards. 
+
+![](2025-08-14-15-10-45.png)
+
+18 *2 = 36 pins
+
+
+
+
+
+## ref 
+
+- [[interface-dat]]
+
+
+
 
 
 ## PCIE vs mini-PCIE

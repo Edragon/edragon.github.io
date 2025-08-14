@@ -1,4 +1,3 @@
-
 # D1-S-dat
 
 
@@ -40,6 +39,18 @@ Note: On the D1s, since the TF card and CKlink pins are multiplexed, you need to
 
 - [[DongshanPI-D1s_SCH-V2.pdf]]
 
+| Pins / Signals         | Function    | Notes                              |
+| ---------------------- | ----------- | ---------------------------------- |
+| PG1 ~ PG6 ~ PG9 ~ PG15 | BT / Wi‑Fi  | Bluetooth and Wi‑Fi signals        |
+| PF0–PF6                | SDC0        | SD controller 0                    |
+| PC2–PC7                | SPI0        | SPI bus 0                          |
+| PE0–PE13               | Camera      | Camera interface pins              |
+| PD                     | LCD display | LCD interface signals              |
+| audio                  | FPC 9P      | Audio via FPC 9-pin connector      |
+| touchpanel             | FPC 5P      | Touchpanel via FPC 5-pin connector |
+| SPI0_MOSI              | Button 1    | MOSI repurposed as Button 1        |
+| RESET                  | Button 2    | Reset button                       |
+
 ![](F133-SCH-1.png)
 
 misc 
@@ -54,3 +65,4 @@ misc
 
 ## ref 
 
+- [[F133-dat]]

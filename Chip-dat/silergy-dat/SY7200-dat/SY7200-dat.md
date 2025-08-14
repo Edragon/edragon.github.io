@@ -5,3 +5,22 @@
 
 MHP3528IRCT-D -- [[LED-dat]]
 
+
+
+## SY7201-dat 
+
+![](2025-08-14-15-24-29.png)
+
+
+
+
+
+
+
+
+
+## ref 
+
+- [[LCD-dat]]
+
+- [[silergy-dat]]

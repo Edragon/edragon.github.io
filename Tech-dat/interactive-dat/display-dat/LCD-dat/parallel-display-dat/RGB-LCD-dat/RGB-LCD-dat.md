@@ -16,6 +16,33 @@ AT050TN43
 
 ## standard RGB LCD 40P == RGB24Bit
 
+
+
+## RGB LCD 40-Pin Interface Pinout
+
+| Pin No. | Symbol | Description                                    | When Not in Use |
+| ------- | ------ | ---------------------------------------------- | --------------- |
+| 1       | LEDA   | B/L positive pin                               |                 |
+| 2       | LEDK   | B/L negative pin                               |                 |
+| 3       | VDD    | Power supply, 2.8–3.3V type                    |                 |
+| 4–13    | GND    | Power Ground                                   |                 |
+| 14      | VS     | Frame synchronizing signal                     |                 |
+| 15      | HS     | Line synchronizing signal                      |                 |
+| 16      | Pclk   | Dot clock signal                               |                 |
+| 17      | DE     | Data enable signal for RGB interface operation | Power Ground    |
+|         |        | Low: access enabled; High: access inhibited    |                 |
+| 18–22   | B0–B4  | 5-bit Blue data input                          |                 |
+| 23–28   | G0–G5  | 6-bit Green data input                         |                 |
+| 29–33   | R0–R4  | 5-bit Red data input                           |                 |
+| 34      | RESET  | Reset the LCM                                  |                 |
+| 35      | CSA    | Chip select signal                             |                 |
+| 36      | SCL    | Serial clock                                   |                 |
+| 37      | SDA    | Serial data input/output (bidirectional pin)   |                 |
+| 38      | GND    | Power Ground                                   |                 |
+| 39      | VDD    | Power supply, 2.8–3.3V type                    |                 |
+| 40      | NC     | Dummy                                          |                 |
+
+
 available size == 5" 
 
 IPS / 800*480
@@ -74,6 +101,46 @@ touch
 - YD
 - XL
 - YU
+
+## 8-bit parallel RGB LCD
+
+# Typical 8-bit Parallel TFT LCD Pinout (Example: ILI9341, ST7789V, HX8357)
+
+| Pin | Name | Function                              |
+| --- | ---- | ------------------------------------- |
+| 1   | A    | LED anode (backlight +)               |
+| 2   | K    | LED cathode (backlight –)             |
+| 3   | NC   | No connection                         |
+| 4   | NC   | No connection                         |
+| 5   | NC   | No connection                         |
+| 6   | VCC  | Power supply (usually 3.3 V or 5 V)   |
+| 7   | D7   | Data bit 7                            |
+| 8   | D6   | Data bit 6                            |
+| 9   | D5   | Data bit 5                            |
+| 10  | D4   | Data bit 4                            |
+| 11  | D3   | Data bit 3                            |
+| 12  | D2   | Data bit 2                            |
+| 13  | D1   | Data bit 1                            |
+| 14  | D0   | Data bit 0                            |
+| 15  | RD   | Read strobe (MCU reads data from LCD) |
+| 16  | WR   | Write strobe (MCU writes data to LCD) |
+| 17  | RS   | Register select / Data-Command (DC)   |
+| 18  | CS   | Chip select                           |
+| 19  | TE   | Tearing effect signal (sync)          |
+| 20  | RST  | Reset                                 |
+| 21  | GND  | Ground                                |
+| 22  | GND  | Ground                                |
+
+**Notes:**
+- **Interface type:** 8-bit parallel MCU (8080 or 6800 mode)
+- **Typical driver ICs:** ILI9341, ST7789V, HX8357
+- `A` & `K` are for LED backlight, powered separately
+- `TE` is optional and used for synchronizing to avoid tearing
+
+
+
+
+
 
 
 ## working board 
