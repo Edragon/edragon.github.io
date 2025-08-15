@@ -5,7 +5,7 @@
 
 - [[kicad-dat]] 
 
-- [[lceda-dat]]
+- [[LCEDA]]
 
 - [[altium-designer-dat]]
 
