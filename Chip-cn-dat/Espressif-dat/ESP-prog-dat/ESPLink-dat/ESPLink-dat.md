@@ -3,8 +3,11 @@
 
 - [[espressif]]
 
+- [[ESP32-S2-dat]] - [[ESP32-S2-WROOM-dat]]
 
-JTAG Debugging with ESPLink
+
+
+## JTAG Debugging with ESPLink
 
 ESPLink supports JTAG debugging for ESP series chips, making it easy to diagnose system crashes. The following instructions use ESP32-S2 as an example.
 
@@ -87,8 +90,11 @@ Debug with telnet
     0x10000 bridge.bin
 
 
-## ref 
 
+esptool -p (PORT) -b 460800 --before default_reset --after hard_reset --chip esp32s2  write_flash --flash_mode dio --flash_size detect --flash_freq 40m 0x1000 bootloader.bin 0x8000 partition-table.bin 0x10000 bridge.bin
+
+## ref 
+[[ESPLink]]
 - https://github.com/Edragon/ESPLink
 
 - [[esplink]]

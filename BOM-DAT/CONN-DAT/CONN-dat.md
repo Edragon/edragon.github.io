@@ -23,6 +23,10 @@
 
 - [[conn-audio-dat]] - [[conn-video-dat]]
 
+- [[BTB-dat]] - [[12P-BTB-dat]]
+
+
+
 ## standard connector 
 
 - [[mini-pcie-dat]] == 52P
@@ -30,6 +34,8 @@
 - [[pcie-dat]] == 52P
 
 - [[M2-dat]] == 67P 
+
+
 
 ## BOM 
 

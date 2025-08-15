@@ -3,6 +3,11 @@
 
 - [[KP182-dat]] - [[IT8511A-dat]]
 
+- [[internal-resistance-meter-dat]]
+
+
+
+
 ## mode: CC, CV, CW, CR
 
 ![](2025-05-30-18-30-59.png)

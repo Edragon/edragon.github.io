@@ -78,6 +78,8 @@ search and udpate
     # Generic ESP8266 Module
     arduino-cli compile --fqbn esp8266:esp8266:generic esp8266-SX126x_Transmit
 
+    arduino-cli compile --fqbn esp8266:esp8266:generic PingPong
+
     arduino-cli compile --fqbn esp32:esp32:lilygo_t_display esp8266-PingPong
 
     arduino-cli compile --fqbn esp8266:esp8266 esp8266-PingPong
@@ -92,14 +94,14 @@ compile for esp32 dev module
 
     arduino-cli compile --fqbn esp32:esp32:esp32 rtos-cam-web-2
 
-    arduino-cli compile --fqbn esp32:esp32:esp32 --verbose rtos-cam-web-2
 
-upload 
+## upload 
 
     esptool erase-flash
 
-    arduino-cli upload -p COM7 --fqbn esp32:esp32:esp32 --verbose rtos-cam-web-2
+    arduino-cli upload -p COM8 --fqbn esp8266:esp8266:generic --verbose PingPong
 
+    arduino-cli upload -p COM8 --fqbn esp32:esp32:esp32 --verbose rtos-cam-web-2
 
 
 ## library 
@@ -107,6 +109,7 @@ upload
 arduino-cli lib search debouncer
 arduino-cli lib search SSD1306Wire
 arduino-cli lib search RadioLib
+arduino-cli lib search SX126x
 
     E:\Git-category\Git-Arduino\Arduino-ESP32\BSP\ESP\ESP1000-ESP32-tori>arduino-cli lib search SSD1306Wire
     Name: "SSD1306wire"
@@ -126,6 +129,8 @@ arduino-cli lib install "RadioLib"
 arduino-cli lib install FTDebouncer
 
 arduino-cli lib install SSD1306Wire
+
+arduino-cli lib install "SX126x-Arduino"
 
     arduino-cli lib install SSD1306Wire
     Downloading SSD1306wire@2.0.1...
@@ -152,6 +157,7 @@ arduino-cli lib install SSD1306Wire
     Architecture: *
     Types: Contributed
     Versions: [0.0.1, 0.0.2, 1.0.0, 1.1.0, 1.1.1, 1.1.2, 1.2.0, 1.2.1, 1.2.2, 1.2.3]
+
 
 
 ### lib manage 
