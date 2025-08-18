@@ -61,3 +61,8 @@ Used for inventory, supply chain, smart fitting rooms, etc.
 Most clothing stores use:
 - **EAS RF (8.2 MHz)** for anti-theft
 - **UHF RFID (860–960 MHz)** for inventory tracking
+
+
+## ref 
+
+- [[RF-dat]]
