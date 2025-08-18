@@ -7,6 +7,7 @@
 
 
 ## type 
+
 FPC down flip 
 
 ![](53-53-16-17-07-2023.png)
@@ -18,6 +19,9 @@ FPC upper flip
 ![](41-53-16-17-07-2023.png)
 
 ![](32-14-18-03-08-2023.png)
+
+
+
 
 ## footprint 
 
@@ -48,3 +52,5 @@ Use low-temperature solder [[solder-paste-dat]] to tin the pads first, then clea
 - [[soldering-dat]]
 
 - [[FPC-fab-dat]]
+
+- [[FPC]]
