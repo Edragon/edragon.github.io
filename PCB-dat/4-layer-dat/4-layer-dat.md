@@ -65,3 +65,7 @@ This stackup helps with:
 ## ref 
 
 - [[PCB-dat]]
+
+- [[camera-dat]]
+
+- [[c]]

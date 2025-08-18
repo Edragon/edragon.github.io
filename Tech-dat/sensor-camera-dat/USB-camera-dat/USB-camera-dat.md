@@ -20,4 +20,4 @@ an image capture of nescafe and PC
 
 ## ref
 
-- [[camera-dat]]
+- [[camera-dat]] - [[USB-dat]]
