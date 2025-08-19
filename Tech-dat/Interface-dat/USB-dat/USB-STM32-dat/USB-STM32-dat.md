@@ -29,6 +29,9 @@ In other boot try:
 ![](2025-08-06-15-47-41.png)
 
 
+## ST-LINK USB part 
+
+![](2025-08-19-15-49-44.png)
 
 ## ref 
 

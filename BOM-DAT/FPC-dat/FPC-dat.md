@@ -5,6 +5,9 @@
 ## Info 
 - common pitch 0.5 mm
 
+overview 
+
+![](2025-08-19-15-24-47.png)
 
 ## type 
 
@@ -50,9 +53,11 @@ Use low-temperature solder [[solder-paste-dat]] to tin the pads first, then clea
 ## manu code 
 
 - AFC01-S06FCA-00 == 下接
+- AFC01-S18FCA-00 == 下接
 - THD0510-05CL-GF == 上接
 - THD0510-09CL-GF == 上接
 
+- 34P 上接 
 
 
 

@@ -34,6 +34,10 @@ for [[ESP32-CAM-dat]]
 
 - [[NBL1107-dat]]
 
+- [[trim-dat]] - [[resistor-dat]] - [[digital-pot-dat]]
+
+
+
 
 ## Set custom I2C 
 

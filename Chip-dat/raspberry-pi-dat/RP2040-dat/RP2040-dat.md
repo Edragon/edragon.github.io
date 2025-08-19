@@ -18,6 +18,11 @@
 - 2 × timer peripherals
 - 3.3V operation
 
+
+逻辑分析仪采用的是基于树莓派RP2040的方案，支持八通道（原方案是24通道，本项目引出了八通道）最大100MHz采样率，外挂FLASH为W25Q16JVSSIQ，2MB容量。
+
+
+
 ## ref 
 
 - [[raspberry-pi-dat]]

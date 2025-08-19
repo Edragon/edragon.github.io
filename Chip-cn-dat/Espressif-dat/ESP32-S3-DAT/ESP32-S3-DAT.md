@@ -77,7 +77,9 @@ Use GDB, VS Code, or Eclipse for debugging.
 - [[ESP-12K-dat]] - [[NWI1226-dat]]
 
 
+## min. Core 
 
+![](2025-08-19-16-53-29.png)
 
 ## ref 
 

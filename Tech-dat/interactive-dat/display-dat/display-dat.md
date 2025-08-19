@@ -84,6 +84,13 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 - https://github.com/Edragon/Interactive-Display_OLED
 
 
+
+## examples 
+
+- 屏幕采用的是1.69寸的电容触摸屏，驱动芯片为 [[ST7789-dat]]（spi接口），触摸驱动为 [[CST816-dat]]（i2c接口），采样排线插接的方式安装。
+
+- [[touchpanel-dat]]
+
 ## ref 
 
 - [[ascii-dat]]

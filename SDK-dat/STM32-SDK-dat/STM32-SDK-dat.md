@@ -1,7 +1,7 @@
 
 # STM32-SDK-dat.md
 
-- [[STM32-Cube-programmer-dat]] - [[STM32-CubeMX-dat]] - [[STM32-CubeIDE-dat]]
+- [[STM32-CubeMX-dat]] - [[STM32-CubeIDE-dat]]
 
 - [[STM32-HDK-dat]]
 
@@ -12,6 +12,17 @@
 - STM32 Flash loader demonstrator (UM0462) (replaced by STM32CubeProgrammer)
 
 
+
+
+
+## programmer 
+
+- [[STM32-Cube-programmer-dat]]
+
+
+STM32 ST-LINK Utility的功能比STM32CubeProg要稍微简单一些，其主要功能也是编程（下载）。
+
+![](2025-08-19-15-54-15.png)
 
 ## IDE 
 

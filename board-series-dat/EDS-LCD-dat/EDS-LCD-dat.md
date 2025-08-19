@@ -133,6 +133,21 @@ The 8x16 font bitmap is already provided in the sample file `lcdfont.h`, as show
 - [[image2Lcd-2.9.zip]] - [[PCtoLCD2002.zip]]
 
 
+### image2LCD for epaper 
+
+2.13 寸墨水屏的分辨率为 250x122，先用 PS 或者画图软件制作一张 250x122 像素的.bmp 格式的图像。
+
+打开取模软件，扫描模式设置为垂直扫描，宽度和高度设置为 250x122，取消勾选包含图像头数据，勾选颜色反转，设置为上下颠倒，点击保存为 .c 文件。
+
+![](2025-08-19-15-28-01.png)
+
+将取模软件生产的 .c 文件里面｛｝里面的内容复制到图传程序 imagedata.cpp 文件里 gImage 数组的大括号里。
+
+![](2025-08-19-15-28-27.png)
+
+output 
+
+![](qumo-1.gif)
 
 ## ref
 
