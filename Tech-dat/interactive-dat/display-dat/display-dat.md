@@ -30,7 +30,7 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[OLED-dat]]
 
-- [[e-paper-dat]]
+- [[epaper-dat]]
 
 - [[Nokia-5110-dat]]
 
@@ -51,16 +51,18 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[ILI9341-dat]]
 
+- [[ILI9488-dat]] - [[ILI9486-dat]] - [[ILI9481-dat]]
+
+- [[ILI9325-dat]] - [[ILI9328-dat]]
+
 - [[ST7789-dat]] - [[ST7735-dat]]
 
 - [[SSD1681-dat]] - [[SSD1315-dat]] - [[SSD1306-dat]] - [[SSD1312-dat]] - [[SSH1106-dat]] - [[CH1106-dat]]
 
-- [[GC9107-dat]] - [[GC9A01-dat]]
-
-- [[ILI9488-dat]] - [[ILI9486-dat]] - [[ILI9481-dat]]
-
 - [[SSD1963-dat]]
 
+- [[GC9107-dat]] - [[GC9A01-dat]]
+  
 - [[RA8875-dat]]
 
 - [[HX8357-dat]]
@@ -82,7 +84,16 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 - https://github.com/Edragon/Interactive-Display_OLED
 
 
+
+## examples 
+
+- 屏幕采用的是1.69寸的电容触摸屏，驱动芯片为 [[ST7789-dat]]（spi接口），触摸驱动为 [[CST816-dat]]（i2c接口），采样排线插接的方式安装。
+
+- [[touchpanel-dat]]
+
 ## ref 
+
+- [[ascii-dat]]
 
 - [[display]]
 

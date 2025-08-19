@@ -7,7 +7,7 @@
 
 onboard available sensors 
 
-- [[BMP280-dat]] - [[barometer-sensor-dat]] - [[pressure-sensor-dat]]
+- [[BMP280-dat]] - [[barometer-sensor-dat]] - [[sensor-pressure-dat]]
 
 - [[BH1750FVI-dat]] - [[light-sensor-dat]]
 

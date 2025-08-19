@@ -1,6 +1,7 @@
 
 # ESP8266-HDK-dat.md
 
+- [[ESP8266-SDK-dat]]
 
 ## chip info 
 
@@ -119,6 +120,9 @@ The ESP8266EX schematics include seven aspects:
 - Batch Brogramming for ESP8266 modules, use [[OPM1095-dat]] and [[DPR1120-dat]] - https://t.me/electrodragon3/331
 
 - [[DPR1106-dat]] == [ESP-12 Programmer Debugger](https://www.electrodragon.com/product/esp-12-programmer-debugger/)
+
+
+## ESP8266 pins table 
 
 
 

@@ -6,7 +6,11 @@ The most following charger options are for the lithium-ion battery
 
 - [[2S-lithium-battery-charger-dat]]
 
-- [[battery-charger]]
+
+
+- [[BMS-dat]]
+
+- [[battery-pack-dat]]
 
 ## Chip Info
 
@@ -59,9 +63,6 @@ request
 * SIM800 -> 2.8V RTC LDO
 
 
-## ref
-
-- [[battery-dat]]
 
 ## voltage map
 
@@ -76,3 +77,11 @@ request
 ## battery cables 
 
 - [[SM2.54-dat]] - [[JST-dat]] - [[15EDGRKP-3.81mm-dat]] - [[XT-dat]] - [[cable-dat]]
+
+
+
+## ref
+
+- [[battery-dat]]
+
+- [[battery-charger]]

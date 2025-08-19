@@ -18,3 +18,9 @@
 ## Demo video
 
 https://www.youtube.com/shorts/bYAMpQTe3k0
+
+
+
+## ref 
+
+- [[PCB-accesories-dat]]

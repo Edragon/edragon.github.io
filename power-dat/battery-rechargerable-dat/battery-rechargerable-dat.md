@@ -4,6 +4,8 @@
 # rechargerable-battery-dat
 
 
+
+
 | **Battery Type**     | **Typical Charge Time** | **Notes**                                             |
 |----------------------|-------------------------|-------------------------------------------------------|
 | **Lead-acid**         | 8-12 hours              | Slow charge time, can be faster with a fast charger.  |
@@ -17,4 +19,13 @@
 
 ## Types 
 
-- [[Lead-Acid-Battery-dat]] - [[lithium-battery-dat]]
+- [[Lead-Acid-Battery-dat]] - [[li-battery-dat]]
+
+- [[LFP-dat]] 
+  
+- [[NCA-dat]] - [[NCM-dat]] - [[Ternary-Lithium-Battery-dat]]
+
+
+## ref 
+
+- [[battery-dat]]

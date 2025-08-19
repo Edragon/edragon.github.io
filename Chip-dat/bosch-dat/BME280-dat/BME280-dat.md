@@ -1,7 +1,7 @@
 
 # BME280-dat
 
-- [[humidity-sensor-dat]] - [[pressure-sensor-dat]] - [[sensor-temperature-dat]]
+- [[humidity-sensor-dat]] - [[sensor-pressure-dat]] - [[sensor-temperature-dat]]
 
 - [[temp-hum-sensor-dat]]
 
@@ -96,4 +96,4 @@ https://github.com/Edragon/Arduino/blob/master/Sketchbook/04_sensor/bme280test/b
 
 ## ref 
 
-- [[bosch-dat]] - [[sensor-dat]] - [[pressure-sensor-dat]]
+- [[bosch-dat]] - [[sensor-dat]] - [[sensor-pressure-dat]]

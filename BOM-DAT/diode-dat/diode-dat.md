@@ -72,6 +72,13 @@ Schottky diode ES2D DO-214AA (SMB) == [ES2A, ES2B, ES2C, ES2D](https://www.visha
 
 MBR0520L
 
+## BAV99S == High-speed switching diode
+
+https://assets.nexperia.com/documents/data-sheet/BAV99S.pdf
+
+![](2025-08-19-16-51-09.png)
+
+
 ## ref 
 
 - [[BOM-dat]]

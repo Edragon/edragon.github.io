@@ -3,6 +3,15 @@
 
 - [[led-rgb-panel-chip-log-dat]]
 
+
+- ICND2012
+- RUC7258
+- ICN2038S
+- SM5266P
+- ICN2037
+
+
+
 ## direct ABCDE addressing
 
 ### DP5125D
@@ -46,3 +55,5 @@ https://github.com/hzeller/rpi-rgb-led-matrix/issues/1774
 ## ref 
 
 - [more chip list reference list DMD_STM32](https://github.com/board707/DMD_STM32/wiki/Led_drivers)
+
+- [[RMP-driver-dat]]

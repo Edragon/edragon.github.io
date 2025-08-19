@@ -48,6 +48,17 @@ fixed 5V output and little periperals
 
 - [[richtek-dat]] - [[RT9266-dat]]
 
+
+## MPS 
+
+- MP28167 == 2.8V-22V VIN, 3A IOUT, 4-Switch Integrated Buck-Boost Converter with Fixed 5V Output
+
+![](2025-08-19-16-21-07.png)
+
+
+
+
+
 ## ref 
 
 - [[dcdc-boost-dat]]

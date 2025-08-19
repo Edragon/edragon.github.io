@@ -47,5 +47,12 @@ A passive buzzer requires an external oscillating signal to produce sound. It of
 | Sound Control       | Limited (fixed tone)          | Fully customizable             |
 | Power Requirement   | DC voltage                    | Oscillating signal             |
 
+
+
+## SCH 
+
+![](2025-08-19-16-54-01.png)
+
+
 ## Related Links
 - [[SSL1019-dat]]

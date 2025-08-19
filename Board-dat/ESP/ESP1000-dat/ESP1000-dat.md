@@ -56,7 +56,7 @@ pin definitions:
 
 Version 1.1 
 
-- Simplfied Power Supply, connect [[serial-dat]] 5V / GND / TXD / RXD to use, [[lithium-battery-dat]] can be charged by USB cable or [[serial-dat]]
+- Simplfied Power Supply, connect [[serial-dat]] 5V / GND / TXD / RXD to use, [[li-battery-dat]] can be charged by USB cable or [[serial-dat]]
 
 Verion 1.0 
 

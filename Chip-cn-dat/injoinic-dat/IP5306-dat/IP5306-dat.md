@@ -67,6 +67,12 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 ![](2024-12-28-15-01-01.png)
 
 
+SCH 2 
+
+![](2025-08-19-16-44-53.png)
+
+
+
 
 ## ref 
 

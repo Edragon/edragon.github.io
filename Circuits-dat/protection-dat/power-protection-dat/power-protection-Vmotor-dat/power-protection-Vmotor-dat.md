@@ -1,8 +1,16 @@
 
+
+# general battery protection 
+
+- low voltage detection 
+- [[battery-protection-dat]] - short circuit - [[SCP-protection-dat]]
+- reverse-direction protection - ? [[RDP-protection-dat]]
+
+- [[CN3305-dat]]
+
 # power-protection-Vmotor-dat
 
-
-## Example 2. for Motor Power Input 
+Example 2. for Motor Power Input 
 
 
 
@@ -12,6 +20,8 @@
 - voltage [[diode-zener-dat]] 6.8V - [[diode-dat]] == [[OVP-dat]] == over-voltage protection
 - inrush-protection == 1R + 10UF 
 - [[decoupling-capacitor-dat]]:  C3 = 0.1UF + C4 == 0.47UF
+
+
 
 - ref == [[TB6612-dat]]
 

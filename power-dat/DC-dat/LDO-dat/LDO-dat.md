@@ -7,6 +7,8 @@
 
 - [[LDO-2CH-dat]]
 
+- [[LDO-3CH-dat]]
+
 ## comparable table 
 
 | chip              | package | VIN |
@@ -27,6 +29,10 @@ CE6260 == 500mA CMOS LDO Regulator, Low Dropout Voltage, Dropout Voltage: 120mV@
 [SGM2036 == SGM2036, 300mA, Low Power, and Low Dropout RF Linear Regulator](https://www.sg-micro.com/rect/assets/efa85993-263c-41aa-9274-b488f59f85d5/SGM2036.pdf)
 
 [HM6245 ==1A Low Power LDO, Low voltage drop: 0.06V@100mA](https://dfimg.dfrobot.com/5d57611a3416442fa39bffca/wiki/6f630301d84caf0e92266e3c5cf11edc.PDF)
+
+SC622K == 500mA Low Dropout Regulator, Low voltage drop: 0.1V@100mA
+
+- [[me6206-dat]] - [[microne-dat]]
 
 ## 9742 
 

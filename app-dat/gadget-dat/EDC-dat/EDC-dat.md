@@ -20,6 +20,11 @@ Key characteristics of EDC lights usually include:
 EDC lights are popular among people who value preparedness, outdoor enthusiasts, and anyone who might need a reliable light source unexpectedly.
 
 
+## LEDs 
+
+- [[LED-dat]] 
+
+
 ## ref 
 
 - [[gadget-dat]]

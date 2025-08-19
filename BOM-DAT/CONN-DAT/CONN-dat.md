@@ -1,6 +1,9 @@
 
 # Conn-dat 
 
+
+- [[conn-power-dat]]
+
 - [[crimp-terminal-dat]]
 
 
@@ -90,8 +93,18 @@ solar extension cable
 - Number of rows : 2-row
 - Number of contacts : 8
 
+
+## manu code 
+
+- DEALON DW127R-11-08-34
+
+
+
+
+
+
 ## ref 
 
-- [[power-dat]]
+- [[power-dat]] - [[current-dat]]
 
 - [[BOM-dat]]

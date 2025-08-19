@@ -11,6 +11,12 @@
 
 - [[keyboard-dat]] - [[USB-HID-dat]] - [[mouse-dat]]
 
+- [[USB-FC-trigger-dat]] - [[USB-FC-dat]]
+
+- [[WCH-dat]]
+
+- [[IP5306-dat]]
+
 ## USB variations 
 
 - [[USB2.0-dat]] - [[type-c-dat]]

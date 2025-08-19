@@ -47,6 +47,22 @@ If you encounter issues as a regular user, try switching to the root user with `
     gcc version 7.2.1 20171011 (Linaro GCC 7.2-2017.11) 
 
 
+
+## setup for uboot 
+
+在上章节中，我们已经配置好了交叉编译器arm-linux-gnueabi，我们只需要修改U-Boot的Makefile，添加以下内容就可以配置好交叉编译环境：
+
+ARCH ?= arm
+
+CROSS_COMPILE ?= arm-linux-gnueabi-
+
+ARCH CROSS_COMPLIE为编译中使用到的架构和编译器，?=指的是如果变量已经被指定则不使用此处提供的变量，修改完的文件可参考下方截图：
+
+![](2025-08-19-14-32-16.png)
+
+图4.x U-Boot编译器的设置
+
+
 ## ref 
 
 - [[ubuntu-dat]]

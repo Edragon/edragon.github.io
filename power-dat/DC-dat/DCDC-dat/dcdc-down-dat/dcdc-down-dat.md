@@ -89,7 +89,11 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 - [[dcdc-down-output-dat]]
 
 
+## TP5450 plus MCP4017 
 
+- [[MCP4017-dat]] - [[digital-pot-dat]]
+
+![](2025-08-19-16-45-55.png)
 
 
 ## circuits 

@@ -28,16 +28,16 @@
 
 ## Pin Definitions 
 
-| left | boot mode           | func | right | boot mode      | func         |
-| ---- | ------------------- | ---- | ----- | -------------- | ------------ |
-| RST  | ext. pull-up, w/cap |      | TXD   |                |              |
-| ADC  |                     |      | RXD   |                |              |
-| EN   | ext. pull-up        |      | IO5   |                | I2C          |
-| IO16 |                     |      | IO4   |                | I2C          |
-| IO14 |                     | SCK  | IO0   | ext. pull-up   | mode select  |
-| IO12 |                     | MI   | IO2   | ext. pull-up   | on-board LED |
-| IO13 |                     | MO   | IO15  | ext. pull-down | SS           |
-| VCC  |                     |      | GND   |                |              |
+| left | template | boot mode    | func | right | template | boot mode | func         |
+| ---- | -------- | ------------ | ---- | ----- | -------- | --------- | ------------ |
+| RST  |          | ext.u, w/cap |      | TXD   |          |           |              |
+| ADC  |          |              |      | RXD   |          |           |              |
+| EN   |          | ext.u        |      | IO5   |          |           | I2C          |
+| IO16 |          |              |      | IO4   |          |           | I2C          |
+| IO14 |          |              | SCK  | IO0   |          | ext.u     | boot         |
+| IO12 |          |              | MI   | IO2   |          | ext.u     | on-board LED |
+| IO13 |          |              | MO   | IO15  |          | ext.d     | SS           |
+| VCC  |          |              |      | GND   |          |           |              |
 
 - [[NWI1083-dat]]
 

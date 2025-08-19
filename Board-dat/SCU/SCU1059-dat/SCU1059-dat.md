@@ -5,6 +5,8 @@
 
 [product url - 720 Coreless Micro Motor High Speed + Propeller Kit](https://www.electrodragon.com/product/720-coreless-micro-motor-high-speed-propeller-kit/)
 
+== [[coreless-motor-dat]]
+
 ### Board Map, Dimension, Pins, etc.
 
 - Voltage: 3.7 V
@@ -17,6 +19,6 @@
 
 ## ref 
 
-- [[]] 
+- [[SCU1059]] 
 
 - legacy wiki page 

@@ -25,6 +25,17 @@ Please note that providing code for INA226 without any specific requirements wou
 
 
 
+
+功率监测芯片采用的是INA226，最大支持20v的电压测量，我这里使用的采样电阻为0.05欧姆，改变采样电阻会改变采样电流分辨率，同时需要修改电流计算部分的代码。
+
+
+## SCH 2 
+
+- [[AON7403-dat]]
+
+![](2025-08-19-16-48-21.png)
+
+
 ## ref 
 
 - [[power-meter-dat/power-sensor-dat]]

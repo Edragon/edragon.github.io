@@ -5,7 +5,7 @@
 
 - [[peripherals-dat]]
 
-- [[RS485-DAT]] - [[modbus-dat]]
+- [[RS485-DAT]] - [[modbus-dat]] == board [[MSP1076-dat]]
 
 - [[RS232-dat]] - [[RS422-dat]] - [[can-dat]]
 

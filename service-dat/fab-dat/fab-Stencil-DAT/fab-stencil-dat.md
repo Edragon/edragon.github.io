@@ -25,3 +25,13 @@
 - "cutting" precision 0.005 mm
 - or 0.01 mm
 - "machine" bias 0.05 mm
+
+
+## stencil printer 
+
+![](2025-08-19-17-53-38.png)
+
+
+## ref 
+
+- [[stencil]] - [[stencil-print]]
