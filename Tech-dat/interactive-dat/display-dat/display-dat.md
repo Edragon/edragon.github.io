@@ -51,16 +51,18 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[ILI9341-dat]]
 
+- [[ILI9488-dat]] - [[ILI9486-dat]] - [[ILI9481-dat]]
+
+- [[ILI9325-dat]] - [[ILI9328-dat]]
+
 - [[ST7789-dat]] - [[ST7735-dat]]
 
 - [[SSD1681-dat]] - [[SSD1315-dat]] - [[SSD1306-dat]] - [[SSD1312-dat]] - [[SSH1106-dat]] - [[CH1106-dat]]
 
-- [[GC9107-dat]] - [[GC9A01-dat]]
-
-- [[ILI9488-dat]] - [[ILI9486-dat]] - [[ILI9481-dat]]
-
 - [[SSD1963-dat]]
 
+- [[GC9107-dat]] - [[GC9A01-dat]]
+  
 - [[RA8875-dat]]
 
 - [[HX8357-dat]]
@@ -83,6 +85,8 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 
 ## ref 
+
+- [[ascii-dat]]
 
 - [[display]]
 

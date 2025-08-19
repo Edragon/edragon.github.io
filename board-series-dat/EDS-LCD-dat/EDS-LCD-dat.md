@@ -3,6 +3,7 @@
 legacy wiki page 
 - https://w.electrodragon.com/w/Category:TFT_LCDs
 
+- [[display-dat]]
 
 ## Versions 
 
@@ -58,17 +59,88 @@ Driver IC ：ILI9341V
 
 ![](2025-08-09-18-04-58.png)
 
+
+## SCH drive by ESP8266
+
+- [[ESP8266-HDK-dat]]
+
+![](2025-08-19-12-26-54.png)
+
+
+
+
 ## repo 
 
 - https://github.com/Edragon/Display-LCD-SPI
 
-- https://github.com/lcdwiki/LCDWIKI_gui.git
+- https://github.com/Edragon/LCDWIKI_gui
+
+Basic functionally of this library was origianlly based on the demo-code of Adafruit GFX lib and Adafruit TFTLCD lib.  
+
+Adafruit GFX lib: https://github.com/adafruit/Adafruit-GFX-Library
+
+Adafruit TFTLCD lib: https://github.com/adafruit/TFTLCD-Library
+
+    // LCD controller chip identifiers
+    #define ID_932X 0
+    #define ID_7575 1
+    #define ID_9341 2
+    #define ID_HX8357D 3
+    #define ID_UNKNOWN 0xFF
+
+
+## PCtoLCD2002 
+
+- [[ascii-dat]]
+
+### How to Generate 8x16 ASCII Font Bitmaps with PCtoLCD2002
+
+**Step 1: Set the Dot Matrix Size**
+
+When choosing the dot matrix size, make sure the value is greater than the number of bytes each character uses. For example, an 8x16 character uses 8x16/8 = 16 bytes, so select a dot matrix size greater than 16.
+
+![](2025-08-19-13-07-31.png)
+
+**Step 2: Configure Character Width and Height**
+
+For 8x16 ASCII, set both the character width and height to 16.
+
+![](2025-08-19-13-07-54.png)
+
+This means each ASCII character will be 8x16 pixels, and the width will be half the value you set (since each byte represents 8 pixels horizontally).
+
+**Step 3: Input the ASCII Table**
+
+Paste the ASCII character table into the input field.
+
+![](2025-08-19-13-08-04.png)
+
+**Step 4: Generate the Font Bitmap**
+
+Click the button to generate the font bitmap. The result will look like this:
+
+![](2025-08-19-13-08-39.png)
+
+**Step 5: Use the Generated Font in Code**
+
+The 8x16 font bitmap is already provided in the sample file `lcdfont.h`, as shown below:
+
+![](2025-08-19-13-08-54.png)
+
+
+## tools 
+
+- [[image2Lcd-2.9.zip]] - [[PCtoLCD2002.zip]]
+
 
 
 ## ref
 
 - [[ILC0011-dat]]
 
-- [[EDS-LCD]]
+- [[display-dat]]
 
-- [[display]]
+
+
+- [[EDS-LCD]] - [[display]]
+
