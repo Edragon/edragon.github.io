@@ -9,7 +9,7 @@
 
 - [[gas-sensor-dat]]
 
-- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[sensor-temperature-dat]] - [[humidity-sensor]] - [[pressure-sensor-dat]] - [[temp-hum-sensor-dat]]
+- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[sensor-temperature-dat]] - [[humidity-sensor]] - [[sensor-pressure-dat]] - [[temp-hum-sensor-dat]]
 
 - [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
 
@@ -20,7 +20,7 @@
 
 - [[liquid-sensor-dat]] 
 
-- [[pressure-sensor-dat]]
+- [[sensor-pressure-dat]]
 
 
 

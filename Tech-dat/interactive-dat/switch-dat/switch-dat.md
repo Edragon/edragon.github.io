@@ -40,6 +40,11 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 - [[PE4259-dat]] - [[UPG2179-dat]]
 
+## thumbwheel switch
+
+![](2025-08-19-16-58-06.png)
+
+
 
 ## ref 
 

@@ -64,4 +64,7 @@ ESP32
 
 ## ref 
 
+
+- smd3535
+
 - [[led-strip-dat]] - [[ws2812-dat]]

@@ -12,3 +12,9 @@ RTT官方已经给出由 uestczyh222 所维护的 Nano固件详细的编译、�
 https://github.com/RT-Thread/rt-thread/blob/master/bsp/allwinner_tina/README.md
 
 git clone https://github.com/RT-Thread/rt-thread.git
+
+
+
+## ref 
+
+- [[system-dat]]

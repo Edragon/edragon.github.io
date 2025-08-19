@@ -32,6 +32,15 @@ https://www.st.com/en/microcontrollers-microprocessors/stm32f103c6.html
 
 - [[Lora-HDK-dat]]
 
+
+## min. Core SCH 
+
+![](2025-08-19-17-07-36.png)
+
+
+![](2025-08-19-17-23-10.png)
+
+
 ## ref 
 
 - [[STM32-dat]]

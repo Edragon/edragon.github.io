@@ -70,11 +70,22 @@ with arduino
 
 ![](2024-09-05-17-24-52.png)
 
+## Core SCH 
+
+![](2025-08-19-17-10-38.png)
+
+
 ## demo code 
 
 - http://electrodragon.com/?p=1134
 
+
+
+
+
 ## ref 
+
+- [[antenna-dat]]
 
 - [legacy wiki page](https://w.electrodragon.com/w/Category:NRF24)
 

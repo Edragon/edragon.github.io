@@ -136,6 +136,15 @@ Therefore, the layout of the module antenna location and routing is recommended 
 
 ![](2025-07-09-15-34-06.png)
 
+
+
+## ceramic antenna 
+
+![](2025-08-19-17-27-28.png)
+
+
+
+
 ## ref
 
 - [[M2M-dat]]

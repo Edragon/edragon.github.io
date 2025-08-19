@@ -103,7 +103,11 @@ Usage: Devices that require more energy or have higher power consumption tend to
 
 
 
+## battery stable circuit 
 
+- [[SX1308-dat]] - [[ME6206-dat]]
+
+![](2025-08-19-17-12-34.png)
 
 ## ref 
 
