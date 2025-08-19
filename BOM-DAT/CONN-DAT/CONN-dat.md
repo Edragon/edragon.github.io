@@ -1,6 +1,9 @@
 
 # Conn-dat 
 
+
+- [[conn-power-dat]]
+
 - [[crimp-terminal-dat]]
 
 
@@ -102,6 +105,6 @@ solar extension cable
 
 ## ref 
 
-- [[power-dat]]
+- [[power-dat]] - [[current-dat]]
 
 - [[BOM-dat]]

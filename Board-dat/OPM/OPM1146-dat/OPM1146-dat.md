@@ -36,7 +36,7 @@ Setup for V_fb
 | Lithium ion Li+ | 3x     | 12.6V              | 3.3K                                      |
 
 
-- [[LFP-dat]] - [[Lithium-Battery-dat]]
+- [[LFP-dat]] - [[li-battery-dat]]
 
 
 

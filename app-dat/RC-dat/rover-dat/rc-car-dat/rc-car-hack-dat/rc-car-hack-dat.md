@@ -4,7 +4,7 @@
 
 ## 1. battery Enlargement 
 
-- [[lithium-battery-dat]] - [[battery-pack-dat]]
+- [[li-battery-dat]] - [[battery-pack-dat]]
 
 
 ## 2. RC Signal Extension

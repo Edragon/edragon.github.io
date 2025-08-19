@@ -22,8 +22,6 @@
 - [[app-dat]] - [[mechanics-dat]] 
 
 
-
-
 ## New Tech And Updates 
 
 - [[lora-dat]]
@@ -105,9 +103,15 @@
 
 - [[touchpanel-dat]] - [[touch-sensor-dat]]
 
+- [[led-driver-dat]]
+
 - [[button-dat]] - [[switching-dat]] - [[switch-dat]]
 
 - [[keyboard-dat]] - [[keypad-dat]] - [[mouse-dat]]
+
+- [[matrix-display-dat]]
+
+
 
 ### Sensors and actuator 
 

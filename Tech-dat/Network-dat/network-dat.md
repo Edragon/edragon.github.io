@@ -34,9 +34,10 @@
 
 - [[radio-dat]]
 
+- [[ethernet-dat]] - [[wifi-dat]]
 
 
-- [[ethernet-dat]]
+
 
 ## RC apps protocols 
 

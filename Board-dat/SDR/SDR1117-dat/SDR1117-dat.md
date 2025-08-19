@@ -33,7 +33,7 @@ expanding PCB by [[PCB-accesories-dat]]
 
 - [loading 5KG rover](https://youtube.com/shorts/swxmQqGnBrU?si=fHXPVpV-As7fMK2J)
 
-- tested 12V power supply == 5S [[lithium-battery-dat]] - [[battery-dat]]
+- tested 12V power supply == 5S [[li-battery-dat]] - [[battery-dat]]
 
 
 

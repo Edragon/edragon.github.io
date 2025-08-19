@@ -3,6 +3,8 @@
 
 - [[heatsink-dat]] 
 
+- [[magnetic-screw-dat]]
+
 - PCB stand == [[PMP1036-dat]] - [[PMP1037-dat]]
 
 - hexgon spacer == [[PMP1033-dat]] == https://www.electrodragon.com/product/common-used-m3-hexgon-spacing-bar-screw-kit/
@@ -12,6 +14,11 @@
 - PCB electric isolation 
 
 - 三防漆 == Conformal Coating
+
+
+
+
+
 
 ## ref 
 

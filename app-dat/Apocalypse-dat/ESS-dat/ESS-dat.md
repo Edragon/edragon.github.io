@@ -9,7 +9,7 @@ Energy storage system (ESS)
 
 ## Power sotage 
 
-- [[Lead-acid-battery-dat]] - [[Lithium-battery-dat]]
+- [[Lead-acid-battery-dat]] - [[li-battery-dat]]
 
 ### And more 
 

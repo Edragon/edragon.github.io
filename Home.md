@@ -17,7 +17,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[Tech-DAT]] - [[power-dat]] - [[display-dat]]
+- [[Tech-DAT]] - [[power-dat]] - [[display-dat]] - [[battery-dat]] - [[network-dat]]
 
 - [[app-dat]] - [[circuits-dat]] - [[tools-dat]]
   
@@ -28,6 +28,9 @@
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]]
 
 - [[PCB-dat]] - [[PCBA-dat]] - [[EDA-dat]]
+
+
+
 
 
 ## Weekly Updates 

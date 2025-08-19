@@ -4,7 +4,7 @@
 
 - [[BMS-dat]]
 
-- [[battery-rechargerable-dat]] - [[lithium-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
+- [[battery-rechargerable-dat]] - [[li-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
 
 - [[battery-pack-dat]] - [[battery-holder-dat]]
 
@@ -19,6 +19,9 @@
 - [[spot-welding-dat]]
 
 - [[battery-supply-dat]]
+
+
+
 
 ## coin battery dat 
 
@@ -109,7 +112,16 @@ Usage: Devices that require more energy or have higher power consumption tend to
 
 ![](2025-08-19-17-12-34.png)
 
+
+
+## BL-5C nokia battery 
+
+![](2025-08-19-18-20-56.png)
+
+
 ## ref 
+
+- [[current-dat]] - [[voltage-dat]]
 
 - [[battery]] - [[l76-dat]] - [[super-cap-dat]]
 

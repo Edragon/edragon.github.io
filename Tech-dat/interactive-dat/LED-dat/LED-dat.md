@@ -57,6 +57,29 @@ GPIO4:
 ![](2025-08-19-15-51-31.png)
 
 
+## Q5 LED Bead 
+
+### Key Features
+- **LED Type**: Cree XR-E Q5 (from Cree XR-E series)
+- **Light Output**: ~200–230 lumens (depending on drive current)
+- **Drive Current**: Typically 350mA to 1000mA
+- **Voltage (Forward Voltage)**: ~3.2–3.7V
+- **Luminous Efficiency**: Around 80–100 lm/W
+- **Color Temperature**: Available in cool white (6000–7000K) and neutral white options
+- **Package Size**: ~7mm × 9mm
+- **Beam Angle**: ~90°–100° (depending on lens/reflector design)
+- **Lifetime**: >50,000 hours (under proper thermal management)
+
+---
+
+### Advantages
+- High brightness in compact size
+- Energy efficient compared to older LED generations
+- Reliable and durable (long lifespan)
+- Widely adopted in **flashlights**, **bike lamps**, **spotlights**, and **DIY lighting projects**
+
+
+
 
 
 

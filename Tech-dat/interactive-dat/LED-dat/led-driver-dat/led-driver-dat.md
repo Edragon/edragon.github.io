@@ -53,6 +53,8 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[powtech-dat]] - [[PT4103-dat]] - [[PT4115-dat]]
 
+- [[CN5711-dat]] - [[consonance-dat]]
+
 ### option 3 
 
 背光驱动
