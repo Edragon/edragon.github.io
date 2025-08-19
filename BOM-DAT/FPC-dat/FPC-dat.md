@@ -47,6 +47,15 @@ THD0510－xxCL－GF == datasheet [[THD0510-xxCL-GF.pdf]]
 Use low-temperature solder [[solder-paste-dat]] to tin the pads first, then clean the pads with board cleaning solution, brush on BGA soldering flux, and finally use a hot plate. The result is almost as good as factory production.
 
 
+## manu code 
+
+- AFC01-S06FCA-00 == 下接
+- THD0510-05CL-GF == 上接
+- THD0510-09CL-GF == 上接
+
+
+
+
 ## ref 
 
 - [[soldering-dat]]

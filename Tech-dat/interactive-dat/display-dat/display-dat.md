@@ -30,7 +30,7 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[OLED-dat]]
 
-- [[e-paper-dat]]
+- [[epaper-dat]]
 
 - [[Nokia-5110-dat]]
 
