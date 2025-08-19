@@ -1,5 +1,12 @@
 # battery-tester-dat
 
+## testing tools 
+
+- capacity - [[electronic-loader-dat]]
+- internal resistance == discharge current - [[internal-resistance-meter-dat]]
+
+
+
 
 ## Q: Can I determine a lead‑acid battery's capacity by measuring its voltage with a multimeter for a fixed short time (e.g., 5 minutes)?
 
@@ -112,11 +119,6 @@ Detecting capacity and health of used lead‑acid batteries can be divided into 
 | Scrap    | ≤ 12.0 V                        | ≥ 25 mΩ                              | < 50%             | Replace   |
 
 
-
-## testing tools 
-
-- capacity - [[electronic-loader-dat]]
-- internal resistance == discharge current - [[internal-resistance-meter-dat]]
 
 
 
