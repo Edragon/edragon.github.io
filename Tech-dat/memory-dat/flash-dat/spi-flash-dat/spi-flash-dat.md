@@ -76,6 +76,21 @@ SW2为FEL模式开关，将SPI_MISO短路到地后，F1C200S将无法检测到SP
 此处由于SPI Nor Flash内部默认设置，/HOLDor/RESET和/WP引脚即使不拉高，芯片也会照样运作。
 
 
+
+## winbond size and ids 
+
+MANUFACTURER_ID - OPTIONAL, 
+- 0x1F44 for adesto(ex atmel) 4mbit flash
+- 0xEF30: 4mbit
+- 0xEF40: 64mbit, 16mbit = tested
+
+
+16mbit
+
+
+
+
+
 ## ref 
 
 - [[memory]]

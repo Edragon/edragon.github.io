@@ -1,6 +1,45 @@
 
 # openOCD-dat
 
+- download bin at release page == https://github.com/espressif/openocd-esp32/releases/tag/v0.12.0-esp32-20250707
+
+https://github.com/espressif/openocd-esp32
+
+# Quickstart for the impatient
+
+    openocd -f board/stm32f4discovery.cfg
+
+## ESP32-S3 Configuration
+
+    openocd -f board/esp32s3-builtin.cfg
+
+Or for custom ESP32-S3 boards:
+
+    openocd -f interface/ftdi/esp32_devkitj_v1.cfg -f target/esp32s3.cfg
+
+wiring, If using an external ESP32 USB bridge (like ESP-Prog), connect:
+
+- TDI (JTAG Data In) → ESP32-S3 GPIO18
+- TDO (JTAG Data Out) → ESP32-S3 GPIO19
+- TCK (JTAG Clock) → ESP32-S3 GPIO20
+- TMS (JTAG Mode Select) → ESP32-S3 GPIO21
+- GND → GND
+- 3.3V → 3.3V (if needed for powering the target)
+
+test: 
+
+    openocd-esp32\bin>openocd -f interface/ftdi/esp32_devkitj_v1.cfg -f target/esp32s3.cfg
+    Open On-Chip Debugger v0.12.0-esp32-20250707 (2025-07-06-17:44)
+    Licensed under GNU GPL v2
+    For bug reports, read
+            http://openocd.org/doc/doxygen/bugs.html
+    embedded:startup.tcl:72: Error: Can't find interface/ftdi/esp32_devkitj_v1.cfg
+    Traceback (most recent call last):
+    File "embedded:startup.tcl", line 72, in script
+        find interface/ftdi/esp32_devkitj_v1.cfg
+
+
+
 
 ## ESP32 arduino 
 
