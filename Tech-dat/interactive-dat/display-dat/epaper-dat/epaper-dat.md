@@ -1,6 +1,10 @@
 
 # e-paper-dat
 
+## controller 
+
+- [[TELINK-dat]] - [[da14585-dat]]
+
 
 ## working principle 
 

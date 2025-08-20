@@ -15,7 +15,7 @@
 
 - [[C-dat]]
 
-- [[JTAG-dat]]
+- [[JTAG-dat]] - [[Jlink-dat]]
 
 
 ## VS-code

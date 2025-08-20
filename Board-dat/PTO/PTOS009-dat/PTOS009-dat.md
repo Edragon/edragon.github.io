@@ -1,6 +1,8 @@
 
 # PTOS009-dat
 
+- [[soldering-iron-dat]]
+
 ## Info 
  
 [product url](https://www.electrodragon.com/product/220v60w-internally-heated-soldering-iron-adjustable-temperature-220-450c/)
@@ -26,6 +28,9 @@ In addition, the adjustable constant temperature soldering iron usually has the 
 In addition, adjustable constant temperature soldering irons usually have safety protection functions, such as overload protection, overheating protection, etc., which can effectively protect the safety of users and equipment.
 
 In general, adjustable constant temperature soldering irons are powerful, easy to operate, safe and reliable welding tools, suitable for various welding occasions and requirements, and are one of the indispensable tools in the field of modern electronic manufacturing and maintenance.
+
+
+
 
 
 
