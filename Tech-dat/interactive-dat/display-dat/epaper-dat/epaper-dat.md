@@ -127,6 +127,6 @@ arduino library == esp8266-waveshare-epd
 
 ## ref 
 
-- [[display-dat]] - [[e-paper]]
+- [[display-dat]] - [[epaper]]
 
 - [[FPC-dat]]

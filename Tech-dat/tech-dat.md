@@ -111,6 +111,7 @@
 
 - [[matrix-display-dat]]
 
+- [[epaper-dat]]
 
 
 ### Sensors and actuator 
