@@ -16,7 +16,7 @@
 
 - [[USB-dat]] - [[USB-OTG-dat]]
 
-- [[sensor-dat]] - [[sensor-touch-dat]] - [[camera-dat]]
+- [[sensor-dat]] - [[sensor-touch-dat]] - [[camera-dat]] - [[DHT11-dat]] - [[sensor-light-dat]]
 
 - [[interface-interactive-dat]] - [[display-dat]]
 
@@ -25,6 +25,10 @@
 - [[serial-dat]] - [[auto-serial-dat]]
 
 - [[interactive-dat]] - [[button-dat]] - [[switch-dat]] - [[keyboard-dat]]
+
+- [[acturator-dat]] - [[buzzer-dat]]
+
+
 
 
 ## other categories

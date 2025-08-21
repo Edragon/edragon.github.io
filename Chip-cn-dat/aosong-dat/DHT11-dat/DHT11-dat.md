@@ -43,6 +43,16 @@ The DHT11 sensor outputs data in the following format:
 时序总结：无论是主机向DHT11发送还是DHT11向主机发送，都是拉低再拉高引脚完成一个动作，包括命令、应答、发送1bit数据，不同的是拉低的时间和拉高的时间
 
 
+
+## SCH 
+
+ESP32 - IO21 
+
+![](2025-08-21-18-51-32.png)
+
+
+
+
 ## ref 
 
 - [[STH1046-dat]]

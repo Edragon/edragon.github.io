@@ -23,11 +23,6 @@ Current V2
 Old V1 version:
 - Lead out all pins for devkitc, but only used pins for driving matrix panel for PICO.
 
-## Demos
-
-- V2 version 
-- https://twitter.com/electro_phoenix/status/1635248053392375808
-
 
 ## hardware setup 
 
@@ -36,14 +31,6 @@ Old V1 version:
 - Please notice for PCIO, CLK = 32, D = 33
 
 
-### Library Setup 
-
-- lib: https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
-- tested sketch: https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/Matrix-panel/IDD1013
-
-Please notice the library updated default setup file
-- new setup file: esp32-default-pins.cpp
-- old setup file: #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
 
 
 ### DEVKITC Board pin definitions 
@@ -133,8 +120,25 @@ Updated by customer:
 - https://t.me/electrodragon3/57 == pico board 
 - https://t.me/electrodragon3/41 == more demo, how to plug in 
 
+V2 version 
+
+- https://twitter.com/electro_phoenix/status/1635248053392375808
+
+### Library Setup 
+
+- lib: https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
+- tested sketch: https://github.com/Edragon/Arduino-ESP32/tree/master/Sketchbook/Matrix-panel/IDD1013
+
+Please notice the library updated default setup file
+- new setup file: esp32-default-pins.cpp
+- old setup file: #include <ESP32-HUB75-MatrixPanel-I2S-DMA.h>
+
+some more new added demo code at == https://github.com/Edragon/Arduino-ESP32/tree/master/ESP32-clock
+
+
 
 ## ref 
 
 - [[CCO3546-dat]] - [[RMP-driver-dat]]
 
+- [[ESP32-hub75]]
