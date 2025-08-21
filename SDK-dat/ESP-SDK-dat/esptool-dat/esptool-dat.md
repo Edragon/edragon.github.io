@@ -16,6 +16,23 @@ or python2 == pip install esptool
 
 
 
+## command errors 
+
+- Wrong option names: you used hyphens in option values (default-reset, hard-reset) and in flash options (--flash-mode, --flash-freq, --flash-size). esptool expects underscores (default_reset, hard_reset, --flash_mode, --flash_freq, --flash_size).
+- The whole command must be run as one line (don’t split with backslashes in PowerShell).
+- Quote filenames/paths with spaces and ensure the .bin files exist in the current directory (or use full paths).
+
+  esptool --chip esp32 --port COM21 --baud 921600 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size 4MB 0xe000 "boot_app0.bin" 0x1000 "DAOLEDCLOCK-SPFF.ino.bootloader.bin" 0x10000 "DAOLEDCLOCK-SPFF.2023-5-2-v6.2.bin" 0x8000 "DAOLEDCLOCK-SPFF.ino.partitions.bin"
+
+## memory structure 
+
+| Address | File Name                           | Description               |
+| ------- | ----------------------------------- | ------------------------- |
+| 0xe000  | boot_app0.bin                       | Boot application          |
+| 0x1000  | DAOLEDCLOCK-SPFF.ino.bootloader.bin | Bootloader                |
+| 0x8000  | DAOLEDCLOCK-SPFF.ino.partitions.bin | Partition table           |
+| 0x10000 | DAOLEDCLOCK-SPFF.2023-5-2-v6.2.bin  | Main firmware/application |
+
 
 ## basic usage 
 
