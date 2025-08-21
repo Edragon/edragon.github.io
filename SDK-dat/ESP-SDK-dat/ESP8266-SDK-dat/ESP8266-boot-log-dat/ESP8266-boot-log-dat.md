@@ -3,7 +3,7 @@
 
 ## normal flash boot log 
 
-Baud rate 74880 is what the ESP8266 bootloader uses. The apps on top of the Espressif SDK (e.g. Arduino sketch) talk at 115200 if not specified otherwise.
+Baud rate **74880** is what the ESP8266 bootloader uses. The apps on top of the Espressif SDK (e.g. Arduino sketch) talk at 115200 if not specified otherwise.
 
 **the normal reset boot ** == CORRECT
 
@@ -73,6 +73,7 @@ or in 74880 baud rate output
     SPI Speed      : 40MHz
     SPI Mode       : DIO
     SPI Flash Size & Map: 32Mbit(512KB+512KB)
+    
     jump to run user1 @ 1000
 
     rf[112] : 03

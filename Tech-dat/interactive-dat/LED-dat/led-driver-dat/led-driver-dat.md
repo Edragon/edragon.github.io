@@ -49,7 +49,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 ### chip 
 
-- [[silergy-dat]] - [[SY7200-dat]] - [[SY7201-dat]]
+- [[silergy-dat]] - [[SY7200-dat]] - [[SY7201-dat]] - [[SY7301-dat]]
 
 - [[powtech-dat]] - [[PT4103-dat]] - [[PT4115-dat]]
 
