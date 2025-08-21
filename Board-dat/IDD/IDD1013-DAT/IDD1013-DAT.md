@@ -137,6 +137,20 @@ some more new added demo code at == https://github.com/Edragon/Arduino-ESP32/tre
 
 
 
+### update error 
+
+#### i2s_dev_t
+
+you're encountering a compatibility issue between the ESP32-HUB75-MatrixPanel-DMA library and the newer ESP32 board package (version 3.2.1). The error shows that i2s_dev_t type is not recognized because ESP-IDF v5.4 has deprecated the old I2S APIs.
+
+Option 1: Update the Library == ESP32 HUB75 LED MATRIX PANEL DMA Display >>> 3.0.12
+
+Downgrade your ESP32 board package to version 2.0.17 which is compatible with the ESP32-HUB75-MatrixPanel-DMA library version 3.0.5 you're using:
+
+
+
+
+
 ## ref 
 
 - [[CCO3546-dat]] - [[RMP-driver-dat]]
