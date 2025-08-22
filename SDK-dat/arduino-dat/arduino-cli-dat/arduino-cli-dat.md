@@ -1,6 +1,8 @@
 
 # arduino-cli-dat
 
+- [[esp32-sdk-dat]]
+
 
 https://github.com/arduino/arduino-cli
 
@@ -24,8 +26,17 @@ Create a configuration file and a new sketch:
     $ arduino-cli sketch new MyFirstSketch
     Sketch created in: /home/luca/MyFirstSketch
 
+## work flow 
 
-install boards 
+- Search library for example - arduino-cli lib search TimeLib
+- Install library - arduino-cli lib install "ArduinoJson" "Time" "ESP32 HUB75 LED MATRIX PANEL DMA Display" "Adafruit GFX Library" "SimpleDHT"
+- CD into sketch folder - cd MyFirstSketch
+- compile arduino-cli compile --fqbn esp32:esp32:esp32 .
+
+
+
+
+## install boards 
 
     arduino-cli board list
 
@@ -80,6 +91,10 @@ search and udpate
 
     arduino-cli compile --fqbn esp8266:esp8266:generic PingPong
 
+    arduino-cli compile --fqbn esp32:esp32:esp32 .
+
+    arduino-cli compile --fqbn esp32:esp32:esp32:PartitionScheme=huge_app .
+
     arduino-cli compile --fqbn esp32:esp32:lilygo_t_display esp8266-PingPong
 
     arduino-cli compile --fqbn esp8266:esp8266 esp8266-PingPong
@@ -98,6 +113,10 @@ compile for esp32 dev module
 ## upload 
 
     esptool erase-flash
+
+    arduino-cli upload -p COM21 --fqbn esp32:esp32:esp32 --verbose --upload-field speed=921600 .
+
+    # --upload-field speed=921600 (fastest)
 
     arduino-cli upload -p COM8 --fqbn esp8266:esp8266:generic --verbose PingPong
 
