@@ -153,6 +153,8 @@
 
 - [[protection-dat]]
 
+- [[pogo-pin-dat]]
+
 
 ## PROG
 
