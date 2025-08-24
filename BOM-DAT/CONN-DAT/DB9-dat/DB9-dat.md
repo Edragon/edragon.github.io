@@ -28,7 +28,11 @@
 ![](2024-08-09-16-21-14.png)
 
 
+D Sub Connector, DB9, Standard, Receptacle, 9 Contacts, DE, Solder
 
+![](2025-08-24-13-30-36.png)
+
+![](2025-08-24-13-31-28.png)
 
 
 ## ref 
