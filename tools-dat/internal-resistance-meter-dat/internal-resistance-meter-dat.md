@@ -36,6 +36,17 @@ UT70A
 
 ## TS457
 
+## ED1035 
+
+testing - [[18650-dat]] 
+
+80m ohm is really bad  
+
+![](2025-08-24-16-31-21.png)
+
+25m ohm is not bad  
+
+![](2025-08-24-16-31-32.png)
 
 
 

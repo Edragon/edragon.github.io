@@ -1,7 +1,7 @@
 
 # RPI-setup-dat
 
-- [[RMP-driver-dat-setup]]
+- [[RMP-driver-setup-dat]]
 
 
 ## version check 

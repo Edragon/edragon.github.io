@@ -1,15 +1,20 @@
 
 # sensor-dat 
 
-- [[Camera-dat]] - [[microphone-sensor-dat]]
+- [[Camera-dat]] - [[sensor-microphone-dat]]
 
-- [[motion-sensor-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]] - [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-axis-magnetic-dat]] - [[6-axis-dat]]
+- [[sensor-motion-dat]] - [[sensor-PIR-dat]] - [[radar-sensor]] - [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-axis-magnetic-dat]] - [[6-axis-dat]]
 
 - [[RCWL-dat]] - [[sensor-TOF-dat]] - [[angle-encoder-dat]]
 
 - [[gas-sensor-dat]]
 
-- [[thermocouple-dat]] - [[thermostat-dat]] - [[Peltier-dat]] - [[sensor-temperature-dat]] - [[humidity-sensor]] - [[sensor-pressure-dat]] - [[temp-hum-sensor-dat]]
+- [[Peltier-dat]] - [[sensor-pressure-dat]] 
+
+- [[sensor-temp-hum-dat]] - [[humidity-sensor]]
+
+- [[sensor-temperature-dat]] - [[thermocouple-dat]] - [[thermostat-dat]] - [[sensor-RTD-dat]]
+
 
 - [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
 
@@ -38,7 +43,7 @@ Here’s a list of 30 commonly used types of sensors, categorized by their typic
 ### Temperature Sensors
 
 - Thermocouples
-- RTDs (Resistance Temperature Detectors)
+- RTDs (Resistance Temperature Detectors) - [[sensor-RTD-dat]]
 - Thermistors
 - Infrared (IR) Temperature Sensors
 

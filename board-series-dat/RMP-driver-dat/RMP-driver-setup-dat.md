@@ -1,6 +1,11 @@
 
 # RMP-driver-dat-setup.md
 
+find out more at troubleshooting section: https://github.com/hzeller/rpi-rgb-led-matrix#troubleshooting
+
+
+
+
 
 ## improve display update 
 
@@ -33,6 +38,9 @@ After reboot, the built-in sound card should be disabled. You can verify with:
 sudo nano /etc/modprobe.d/raspi-blacklist.conf
 
 blacklist snd_bcm2835
+
+
+
 
 ## ref 
 
