@@ -23,6 +23,7 @@
 - [[battery-supply-dat]]
 
 
+- [[super-cap-dat]]
 
 
 ## coin battery dat 

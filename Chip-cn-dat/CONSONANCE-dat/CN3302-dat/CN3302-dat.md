@@ -22,3 +22,9 @@ The CN3302 is available in an 8-pin SOP8 package.
 ## SCH App 
 
 ![](2024-12-29-14-57-24.png)
+
+
+
+## ref 
+
+- - [[Consonance-dat]]
