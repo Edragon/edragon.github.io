@@ -23,8 +23,11 @@ The CN3302 is available in an 8-pin SOP8 package.
 
 ![](2024-12-29-14-57-24.png)
 
+- [[AO4468-dat]] - [[mosfet-dat]]
 
 
 ## ref 
 
-- - [[Consonance-dat]]
+- [[Consonance-dat]]
+
+- [[CN3302]]

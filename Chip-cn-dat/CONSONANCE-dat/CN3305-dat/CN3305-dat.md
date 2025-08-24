@@ -7,6 +7,8 @@
 
 - RCS 
 
+- [[mosfet-dat]]
+
 ## FB 
 
 VBAT = 1.205 ⅹ (1+R4∕R5)

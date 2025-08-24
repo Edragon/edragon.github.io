@@ -17,12 +17,22 @@
 
 - [[BAT1002-dat]] - [[DSE-CN3065.pdf]]
 
-- [datasheet in github](https://github.com/Edragon/Datasheet/tree/master/consonance)  
 
 - [[CN5711-dat]]
 
 - CN3305 
 - CN3705 == 5A, Multi-Chemistry Battery Charger
+
+
+
+
+## repo 
+
+https://github.com/Edragon/consonance
+
+- [datasheet in github](https://github.com/Edragon/Datasheet/tree/master/consonance)  
+
+
 
 
 
