@@ -1,6 +1,11 @@
 
 # e-paper-dat
 
+
+## board
+
+- [[MPC1091-dat]]
+
 ## controller 
 
 - [[TELINK-dat]] - [[da14585-dat]]
@@ -102,6 +107,23 @@ the main control part
 | 7.5                | 0.47R    |   |
 | 以及所有尺寸三色屏 | 0.47R    |   |
 
+When RESE is set to 0.47 :
+
+1.54 inch ：GDEW0154T8、GDEW0154I9F、GDEW0154Z17、GDEW0154Z04、GDEW0154C39
+2.13 inch ：GDEW0213T5、GDEW0213I5F、GDEW0213Z16、GDEW0213C38
+2.6 inch ：GDEW026T0、GDEW026Z3
+2.7 inch ：GDEW027W3、GDEW027C44
+2.9 inch ：GDEW029T5、GDEW029I6F、GDEW029Z10、GDEW029C32
+3.71 inch ：GDEW0371W7、GDEW0371Z80
+4.2 inch ：GDEW042T2、GDEW042Z15、GDEW042C375.83 inch ：GDEW0583T8、GDEW0583Z21、GDEW0583Z83、GDEW0583C64
+7.5 inch ：GDEW075T7、GDEW075Z08、GDEW075Z09、GDEW075C21、GDEW075C64
+
+When RESE is set to 3 :
+
+1.54 inch ：GDEP015OC1、GDEH0154D67、GDEM0154E97LT2.04 inch ：GDE021A1
+2.13 inch ：GDEH0213B73、GDEH0213D30LT、GDEM0213E28LT2.9 inch ：GDEH029A1、GDEH029D56LT、GDEM029E27LT5.83 inch ：GDEW0583T7
+7.5 inch ：GDEW075T8
+
 ## ESP8266 
 
 | EPD      | ESP8266 |
@@ -116,8 +138,107 @@ the main control part
 | GND      | GND     |
 
 
+    /* SPI pin definition --------------------------------------------------------*/
+    // SPI pin definition
+    #define CS_PIN 15
+    #define RST_PIN 2
+    #define DC_PIN 4
+    #define BUSY_PIN 5
+
+    /* Pin level definition ------------------------------------------------------*/
+    #define LOW 0
+    #define HIGH 1
+
+    #define GPIO_PIN_SET 1
+    #define GPIO_PIN_RESET 0
+
+
+## e-paper versions 
+
+l"54
+- 1"54_V2
+- 1"54b_V2
+- 1"54b
+- l"54c
+- l"54
+
+2"7
+- 2"7b_V2
+- 2"7b
+- 2"7
+
+2"9
+- 2"9_V2
+- 2"9b_V2
+- 2"9bc
+- 2"9d
+- 2"9
+
+2"13
+- 2"13_V2
+- 2"13_V3
+- 2"13b_V3
+- 2"13bc
+- 2"13d
+- 2"13
+
+2"66
+- 2"66b
+- 2"66
+
+3"7
+- 3"7
+
+4"01
+- 4"01f
+
+4"2
+- 4"2b_V2
+- 4"2bc
+- 4"2
+
+5"65
+- 5"65f
+
+5"83
+- 5"83_V2
+- 5"83_V2
+- 5"83b_V2
+- 5"83bc
+- 5"83
+
+7"5
+
+- 7"5_HD
+- 7"5_V2
+- 7"5b_HD
+- 7"5bc_V2
+- 7"5bc
+- 7"5
+
+
+
+
+## common pins 
+
+
+**GDR (Gate Driver Reset)**: This pin is typically used to reset the gate driver circuitry inside the ePaper module. It helps initialize or clear the gate driver logic before starting a new display update.
+
+**RESET**: This pin resets the entire ePaper display controller, putting it into a known default state. It is usually toggled during power-up or before communication to ensure reliable operation.
+
+VOM 
+
+PRE-VGL 
+
+PRE-VGH
+
+
+
 
 ## repo 
+
+
+
 
 - display - https://github.com/Edragon/RPI_Display
 - display 2 - https://github.com/Edragon/Display-E-paper
@@ -125,12 +246,26 @@ the main control part
 
 arduino library == esp8266-waveshare-epd
 
+https://github.com/CursedHardware/epd-datasheet/tree/main
+
+## 4.Problems of designing drive circuit
+
+- 4.1 Self-made drive board cannot drive e-papers
+- Measure the voltage of PREVGH and PREVGL to see if it boost successfully. If it doesn’t boost successfully, check if the boostpart of the schematic is correct and the components meet therequirements. (Make sure the max voltage of the booster capacitor is adequate. If it is not enough, the capacitor will beburned out during boost.) Check the welding, the most likelyproblem is the MOS tube. If it boost successfully, please checkwhether there is virtual welding in FPC socket and so on, andfinally check the software.
+- 4.2 Inductors selection for e-paper drive circuit
+- A 10uH 1A winding inductor is recommended.
+- 4.3 MOS tube selection for e-paper drive circuit
+- Si1304BDL or Si1308EDL is recommended. If these two aredifficult to get, AO3400 can be a substitute.
+- 4.4 Diode selection for e-paper drive circuit
+- A schottky diode equivalent to the MBR0530 parameters isrecommended. And the switching frequency should meet theactual requirements.
 
 
+
+- [[epaper-database-dat.csv]]
 
 
 ## ref 
 
 - [[display-dat]] - [[epaper]]
 
-- [[FPC-dat]]
+- [[FPC-dat]] - [[test-point-dat]] - [[diode-dat]]

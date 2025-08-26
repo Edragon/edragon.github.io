@@ -8,6 +8,8 @@
 
 - [[EDA-dat]] - [[EDA-simulation-dat]]
 
+- [[test-point-dat]]
+
 
 ## basic 
 
@@ -29,6 +31,9 @@
 | 10  | 0.254  |
 | 12  | 0.3048 |
 | 16  | 0.4064 |
+
+
+
 
 
 ## ref 

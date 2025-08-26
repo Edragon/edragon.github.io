@@ -87,6 +87,9 @@ search and udpate
 
 
     # Generic ESP8266 Module
+
+    arduino-cli compile --fqbn esp8266:esp8266:generic . 
+
     arduino-cli compile --fqbn esp8266:esp8266:generic esp8266-SX126x_Transmit
 
     arduino-cli compile --fqbn esp8266:esp8266:generic PingPong
@@ -109,12 +112,30 @@ compile for esp32 dev module
 
     arduino-cli compile --fqbn esp32:esp32:esp32 rtos-cam-web-2
 
+## compile add extra includes 
+
+    arduino-cli compile --fqbn esp8266:esp8266:generic --build-property compiler.cpp.extra_flags="-I../include" .
+    arduino-cli compile --fqbn esp8266:esp8266:generic --build-property compiler.cpp.extra_flags="-IE:\Git-category\Git-Arduino\arduino-esp8266\Libraries\EPD_Libraries-master\epd2in13" .
+
+## add extra libraries path 
+
+Create or edit arduino-cli.yaml (by default it lives in %USERPROFILE%\AppData\Local\Arduino15\arduino-cli.yaml on Windows).
+
+Add a directories.libraries section pointing to your folder, e.g.:
+
+    directories:
+        data: C:\Users\Administrator\AppData\Local\Arduino15
+        downloads: C:\Users\Administrator\AppData\Local\Arduino15\staging
+        user: C:\Users\Administrator\Documents\Arduino
+        libraries:
+            - E:\Git-category\Git-Arduino\arduino-esp8266\Libraries
 
 ## upload 
 
     esptool erase-flash
 
     arduino-cli upload -p COM21 --fqbn esp32:esp32:esp32 --verbose --upload-field speed=921600 .
+    arduino-cli upload -p COM19 --fqbn esp32:esp32:esp32 --verbose --upload-field speed=921600 .
 
     # --upload-field speed=921600 (fastest)
 

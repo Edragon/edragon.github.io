@@ -34,6 +34,13 @@ SC622K == 500mA Low Dropout Regulator, Low voltage drop: 0.1V@100mA
 
 - [[me6206-dat]] - [[microne-dat]]
 
+## pins 
+
+| mode            | footprint | 1   | 2    | 3    |
+| --------------- | --------- | --- | ---- | ---- |
+| [[AMS1117-dat]] | SOT-89    | GND | VOUT | VIN  |
+| [[HT7333-dat]]  | SOT-89    | GND | VIN  | VOUT |
+
 ## 9742 
 
 ![](2024-01-18-18-11-53.png)
@@ -69,3 +76,5 @@ SC622K == 500mA Low Dropout Regulator, Low voltage drop: 0.1V@100mA
 - [[LDO]]
 
 - [[silergy]]
+
+- [[PCB-design]]
