@@ -44,6 +44,8 @@ common brand: [[Vishay-dat]]
 | AO3400            | A0T0 | [[AOSMD-dat]]    | 5.8A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
 | AO3401            | A19T | [[AOSMD-dat]]    | 4.3A  | SOT-23   | P       | 30V P-Channel MOSFET                        |
 | 2N7002            | 7002 | [[NXP-dat]]      | 115mA | SOT-23   | N       | 60V N-Channel MOSFET                        |
+| SI1304            |      | [[Vishay-dat]]   | 5.1A  | SOT-23   | N       | 20V N-Channel MOSFET                        |
+| SI1308            |      | [[Vishay-dat]]   | 8.7A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
 | SI2300            |      | [[Vishay-dat]]   | 2.8A  | SOT-23   | P       | 20V P-Channel MOSFET                        |
 | SI2301            |      | [[Vishay-dat]]   | 2.8A  | SOT-23   | P       | 20V P-Channel MOSFET                        |
 | SI2302            |      | [[Vishay-dat]]   | 3.1A  | SOT-23   | N       | 20V N-Channel MOSFET                        |

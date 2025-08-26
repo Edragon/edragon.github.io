@@ -1,6 +1,33 @@
 
 # C-errors-dat.md
 
+
+## ./epd: error while loading shared libraries: libstdc++.so.6: cannot open shared object file: No such file or directory
+
+sudo apt-get update
+
+sudo apt-get install libstdc++6
+
+## On 64-bit Raspberry Pi OS, you need 32-bit compatibility libs:
+
+- sudo dpkg --add-architecture armhf
+- sudo apt-get update
+- sudo apt-get install libstdc++6:armhf libc6:armhf
+
+Check if the library exists
+
+ls -l /usr/lib/arm-linux-gnueabihf/libstdc++.so.6*
+
+## check executable file type 
+
+So your epd is **ARM 32-bit**, which is correct for Raspberry Pi (so not the x86 problem).
+
+    root@raspberrypi:/home/pi/213/2.13inch_e-Paper_HAT-code/raspberrypi/bcm2835# file ./epd 
+    ./epd: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-armhf.so.3, for GNU/Linux 2.6.32, BuildID[sha1]=5b18f0d3a3082f11f624df8ee0dd0cdfa1a02c92, with debug_info, not stripped
+
+
+
+
 ## Q1
 
     vb@ubuntu14:~/xfel$ make

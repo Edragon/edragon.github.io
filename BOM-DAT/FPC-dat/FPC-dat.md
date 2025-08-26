@@ -1,5 +1,7 @@
 
-# FPC dat 
+# FPC-dat 
+
+- add [[test-point-dat]] for debugging 
 
 
 ## Info 

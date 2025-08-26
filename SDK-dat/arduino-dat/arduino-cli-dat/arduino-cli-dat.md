@@ -139,6 +139,8 @@ Add a directories.libraries section pointing to your folder, e.g.:
 
     # --upload-field speed=921600 (fastest)
 
+    arduino-cli upload -p COM17 --fqbn esp8266:esp8266:generic --verbose --upload-field speed=921600 .
+
     arduino-cli upload -p COM8 --fqbn esp8266:esp8266:generic --verbose PingPong
 
     arduino-cli upload -p COM8 --fqbn esp32:esp32:esp32 --verbose rtos-cam-web-2

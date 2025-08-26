@@ -1,4 +1,3 @@
-
 # e-paper-dat
 
 
@@ -128,12 +127,12 @@ When RESE is set to 3 :
 
 | EPD      | ESP8266 |
 | -------- | ------- |
-| EPD_BUSY | 105     |
-| EPD_RST  | 102     |
-| EPD_DC   | 104     |
-| EPD_CS   | 1015    |
-| EPD_CLK  | 1014    |
-| EPD_DIN  | 1013    |
+| EPD_BUSY | 5     |
+| EPD_RST  | 2     |
+| EPD_DC   | 4     |
+| EPD_CS   | 15    |
+| EPD_CLK  | 14    |
+| EPD_DIN  | 13    |
 | 3V3      | 3V3     |
 | GND      | GND     |
 
@@ -181,6 +180,28 @@ l"54
 - 2"13bc
 - 2"13d
 - 2"13
+
+- QYEG0213BNS800
+
+| Brand         | Model           | Type | Size | Color   | Note   | Resolution   | Interface | Pins | Controller | Extra     |
+|---------------|----------------|------|------|---------|--------|--------------|-----------|------|------------|-----------|
+| Good Display  | GDEW0213C38    | EINK | 2.13 | B/W/Y   |        | 212 x 104    | SPI       | 24   | IL0373     |           |
+| Good Display  | GDEW0213Z16    | EINK | 2.13 | B/W/R   |        | 212 x 104    | SPI       | 24   | IL0373     |           |
+| Good Display  | GDEH0213B72    | EINK | 2.13 | B/W     |        | 250 x 122    | SPI       | 24   | SSD1675A   | EOL       |
+| Good Display  | GDEH0213B1     | EINK | 2.13 | B/W     |        | 250 x 122    | SPI       | 24   | SSD1675B   |           |
+| Good Display  | GDEH0213B73    | EINK | 2.13 | B/W     |        | 250 x 122    | SPI       | 24   | SSD1675B   | EOL       |
+| Good Display  | GDEH0213D30LT  | EINK | 2.13 | B/W     |        | 212 x 104    | SPI       | 24   | SSD1675B   | Freezer   |
+| Good Display  | GDEH0213Z98    | EINK | 2.13 | B/W/R   |        | 250 x 122    | SPI       | 24   | SSD1680    |           |
+| Good Display  | GDEM0213B74    | EINK | 2.13 | B/W/R   |        | 250 x 122    | SPI       | 24   | SSD1680    |           |
+| Good Display  | GDEM0213C90    | EINK | 2.13 | B/W/Y   |        | 250 x 122    | SPI       | 24   | SSD1680    |           |
+| Good Display  | GDEW0213I5F    | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151c    | Flexible  |
+| Good Display  | GDEW0213I5FV1  | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151c    |           |
+| Good Display  | GDEH0213Z19    | EINK | 2.13 | B/W/R   |        | 212 x 104    | SPI       | 24   | UC8151d    |           |
+| Good Display  | GDEW0213M21    | DES  | 2.13 | B/W/R   |        | 212 x 104    | SPI       | 24   | UC8151d    |           |
+| Good Display  | GDEW0213T5     | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151d    |           |
+| Good Display  | GDEW0213T5D    | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151d    |           |
+| Good Display  | GDEW0213V7LT   | EINK | 2.13 | B/W     |        | 212 x 104    | SPI       | 24   | UC8151d    | Freezer   |
+
 
 2"66
 - 2"66b
@@ -241,12 +262,17 @@ PRE-VGH
 
 
 - display - https://github.com/Edragon/RPI_Display
-- display 2 - https://github.com/Edragon/Display-E-paper
 - epaper - https://github.com/Edragon/Display-E-paper
 
 arduino library == esp8266-waveshare-epd
 
 https://github.com/CursedHardware/epd-datasheet/tree/main
+
+https://github.com/waveshareteam/e-Paper
+
+https://github.com/adafruit/Adafruit_EPD
+- support SSD1675B / SSD1675 / SSD1680
+
 
 ## 4.Problems of designing drive circuit
 
@@ -264,8 +290,16 @@ https://github.com/CursedHardware/epd-datasheet/tree/main
 - [[epaper-database-dat.csv]]
 
 
+
+## basic SCH 
+
+![](2025-08-26-20-59-36.png)
+
+
 ## ref 
 
 - [[display-dat]] - [[epaper]]
 
-- [[FPC-dat]] - [[test-point-dat]] - [[diode-dat]]
+- [[FPC-dat]] - [[test-point-dat]] - [[diode-dat]] - [[mosfet-dat]]
+
+- [[arduino-cli-dat]]
