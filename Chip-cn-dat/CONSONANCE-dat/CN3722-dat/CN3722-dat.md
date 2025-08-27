@@ -56,9 +56,16 @@ The regulation voltage range that can be set is from 3V to 25V.
 - [[resistor-feedback-dat]]
 
 
+### inductor selection
+
+![](2025-08-27-18-30-39.png)
+
+- 10 ~ 33uh 
+
+
 
 ## ref 
 
 - [[CN3722.pdf]]
 
-- [[diode-dat]]
+- [[diode-dat]] - [[inductor-dat]]

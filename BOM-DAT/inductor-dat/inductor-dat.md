@@ -43,7 +43,17 @@ CDRH2D14NP-2R2NC
 - CDRH2D14
 - SMD 2.2uH 1.60A 75ohms
 
-CDRH127/LDNP-101MC
+#### CDRH127/LDNP-101MC
+
+The CDRH127 is a series of SMD power inductors from Sumida, commonly used for power supply circuits, DC-DC converters, and filtering applications. Its capabilities typically include:
+
+- Inductance Range: 1.0 µH to 100 µH (varies by part number)
+- Rated Current: Up to ~10 A (depends on inductance value)
+- DCR (DC Resistance): Low, typically from a few mΩ to hundreds of mΩ
+- Size: 12.5 mm × 12.5 mm × 7.5 mm (nominal)
+- Shielded Construction: Reduces EMI
+- SMD Package: Suitable for automated assembly
+
 
 ### WE-LQS SMT Semi-Shielded Power Inductor == 74404052220
 
