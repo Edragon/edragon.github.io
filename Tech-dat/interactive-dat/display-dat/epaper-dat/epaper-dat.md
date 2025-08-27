@@ -5,9 +5,11 @@
 
 - [[MPC1091-dat]]
 
-## controller 
+## controller mainly by bluetooth
 
 - [[TELINK-dat]] - [[da14585-dat]]
+
+- [[NRF5x-dat]] - [[nordic-dat]]
 
 
 ## working principle 
@@ -78,13 +80,6 @@ please find demo code in epaper repo above, we have V1, V2, V3 versions, current
 
 
 
-## SCH 
-
-ESP8266 drive 
-
-![](2025-08-19-15-06-08.png)
-
-![](2025-08-19-15-06-34.png)
 
 
 ### BS 
@@ -247,13 +242,7 @@ l"54
 
 **RESET**: This pin resets the entire ePaper display controller, putting it into a known default state. It is usually toggled during power-up or before communication to ensure reliable operation.
 
-VOM 
-
-PRE-VGL 
-
-PRE-VGH
-
-
+- [[test-point-dat]]
 
 
 ## repo 
@@ -291,10 +280,26 @@ https://github.com/adafruit/Adafruit_EPD
 
 
 
-## basic SCH 
+## SCH 
+
+ESP8266 drive 
+
+![](2025-08-19-15-06-08.png)
+
+![](2025-08-19-15-06-34.png)
+
+### basic SCH 
 
 ![](2025-08-26-20-59-36.png)
 
+## driver chip 
+
+[[SSD1673A]] 
+- Holitech,HINK-E0213A01,EINK,2.13,B/W,,250 x 122,SPI,24,SSD1673A,,
+
+[[SSD1675B]]
+- Holitech,HINK-E0213A09,EINK,2.13,B/W,,212 x 104,SPI,24,SSD1675B,,
+- Holitech,HINK-E0213A07,EINK,2.13,B/W/R,,212 x 104,SPI,24,SSD1675B,,
 
 ## ref 
 

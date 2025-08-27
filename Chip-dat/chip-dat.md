@@ -58,7 +58,7 @@ from a to z
 
 - [[raspberry-pi-dat]]
 
-- [[Renesas-dat]]
+- [[Renesas-dat]] - [[DA14585-dat]]
 
 - [[ST-dat]] - [[STM32-dat]] - [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
 

@@ -12,6 +12,9 @@ brand - [[st-dat]]
 - [[diode-zener-dat]] - [[flyback-diode-dat]]
 
 
+## diode info 
+
+![](2025-08-27-12-53-45.png)
 
 ## Schottky diode
 
@@ -96,6 +99,19 @@ https://assets.nexperia.com/documents/data-sheet/BAV99S.pdf
 ## directions 
 
 ![](2025-08-26-18-22-24.png)
+
+
+## To test if a diode is good using a multimeter:
+
+- Set the multimeter to diode mode (look for the diode symbol).
+- Connect the red probe to the anode and the black probe to the cathode.
+- Read the display:
+    - A good diode shows a voltage drop (typically 0.5–0.8V for silicon diodes).
+    - If it shows “OL” or no reading, reverse the probes.
+    - In reverse, a good diode shows “OL” (open circuit).
+    - If both directions show 0V or both show “OL”, the diode is faulty.
+
+
 
 
 ## ref 

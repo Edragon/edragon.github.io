@@ -24,3 +24,8 @@ for power supply - [[power-dat]]
 - PREVGL: Negative voltage, often around -15V to -20V.
 - PREVGH: Positive voltage, often around +15V to +20V.
 
+VOM 
+
+PRE-VGL == -20V
+
+PRE-VGH == 20V 
