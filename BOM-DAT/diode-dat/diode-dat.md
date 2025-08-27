@@ -122,6 +122,8 @@ For lower power consumption and higher efficiency, the rectifier diode (D1 in Fi
 - The current handling capability should be greater than the maximum output current (I<sub>F</sub> > I<sub>OUT,max</sub>).
 - The peak forward current should be greater than the peak current of the inductor (I<sub>FSM,peak</sub> > I<sub>L,peak</sub>).
 
+alternatives: SS14 / SS34 / SS54 
+
 
 
 ## ref 

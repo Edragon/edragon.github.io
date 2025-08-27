@@ -17,6 +17,8 @@ legacy wiki page - https://www.electrodragon.com/w/Battery_Charge
 - All the rest SMD resistors are included in the package.
 - Supply VCC should be +2V > Vbat
 
+Notice the import solar panel voltage is set to 15V, based on [[MPPT-dat]]
+
 
 ## Board Functions 
 
@@ -50,3 +52,9 @@ Setup for V_fb
 ## ref 
 
 - [[CN3722-dat]] - [[battery-dat]]
+
+- [[mosfet-dat]]
+
+- [[MPPT-dat]]
+
+- [[CN3722]] - [[consonance]]

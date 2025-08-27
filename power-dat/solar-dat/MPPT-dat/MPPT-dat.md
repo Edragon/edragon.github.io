@@ -15,6 +15,9 @@ The solar panel maximum power point voltage is determined by the following formu
 
 **if R6 == 100K and Vmpp == 18V, then R5 = 1.4M**
 
+for Vmpp = 1.04 × (1 + R5 / R6) in [[CN3722-dat]]
+
+**if R6 = 16K, and R5 = 220K, then Vmpp = 14.3V**
 
 MPPT pin for adaptive charging current
 
