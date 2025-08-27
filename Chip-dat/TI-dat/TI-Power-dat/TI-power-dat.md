@@ -17,6 +17,14 @@ DCDC降压芯片用Ti的TPS54335A，支持4.5V-28V宽电压输入。
 
 ![](2025-06-19-17-47-13.png)
 
+
+
+
+BQxx 
+
+- [[BQ24650-dat]] == Standalone 1-6 cell Buck battery charge controller with solar input and integrated MPPT
+
+
 ## ref 
 
 - [[TI-dat]]

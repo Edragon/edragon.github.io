@@ -15,6 +15,9 @@
 
 - battery isolation == rack (specially when have movement or vibration), Insulating Gasket
 
+- FB design - [[resistor-feedback-dat]]
+
+
 
 ## 🔋 Common Lithium Battery Pack Combinations
 

@@ -112,6 +112,16 @@ https://assets.nexperia.com/documents/data-sheet/BAV99S.pdf
     - If both directions show 0V or both show “OL”, the diode is faulty.
 
 
+## Rectifier Diode
+
+### 肖特基二极管
+
+For lower power consumption and higher efficiency, the rectifier diode (D1 in Figure 1) should be a Schottky diode.
+
+- The breakdown voltage of the diode should be several volts higher than the output voltage (V<sub>BR</sub> > V<sub>OUT</sub>).
+- The current handling capability should be greater than the maximum output current (I<sub>F</sub> > I<sub>OUT,max</sub>).
+- The peak forward current should be greater than the peak current of the inductor (I<sub>FSM,peak</sub> > I<sub>L,peak</sub>).
+
 
 
 ## ref 

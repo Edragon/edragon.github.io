@@ -7,6 +7,9 @@
 
 - [[burden-resistor-dat]] - [[sample-resistor-dat]]
 
+- [[resistor-feedback-dat]]
+
+
 
 Shunt Resistor:
 
@@ -56,6 +59,10 @@ Purpose: To provide a load for the secondary winding of a current transformer (C
 C = 1K 
 
 - 30C = 20K 
+
+
+
+
 
 ## ref 
 
