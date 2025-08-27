@@ -3,7 +3,7 @@
 
 find out more at troubleshooting section: https://github.com/hzeller/rpi-rgb-led-matrix#troubleshooting
 
-
+and how to setup the E-sel multiplexing - [[MPC1073-multiplexing-dat]]
 
 
 

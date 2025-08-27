@@ -35,26 +35,30 @@ common brand: [[Vishay-dat]]
 ## model selections 
 
 
-| Model             | Mark | Manufacturers    | Id    | Package  | CH type | Descriptions                                |
-| ----------------- | ---- | ---------------- | ----- | -------- | ------- | ------------------------------------------- |
-| AOD403            | D403 | [[AOSMD-dat]]    | 40A   | TO-252   | N       | 40V N-Channel MOSFET                        |
-| AOD4184A          | 4184 | [[AOSMD-dat]]    | 50A   | TO-252   | N       | 40V N-Channel MOSFET                        |
-| IRF540N           | 540N | [[Infineon-dat]] | 33A   | TO-220AB | N       | 100V N-Channel MOSFET                       |
-| NCE6050           |      | [[ncepower-dat]] | 50A   | TO-252-2 | N       | 60V N-Channel Enhancement Mode Power MOSFET |
-| AO3400            | A0T0 | [[AOSMD-dat]]    | 5.8A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
-| AO3401            | A19T | [[AOSMD-dat]]    | 4.3A  | SOT-23   | P       | 30V P-Channel MOSFET                        |
-| 2N7002            | 7002 | [[NXP-dat]]      | 115mA | SOT-23   | N       | 60V N-Channel MOSFET                        |
-| SI1304            |      | [[Vishay-dat]]   | 5.1A  | SOT-23   | N       | 20V N-Channel MOSFET                        |
-| SI1308            |      | [[Vishay-dat]]   | 8.7A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
-| SI2300            |      | [[Vishay-dat]]   | 2.8A  | SOT-23   | P       | 20V P-Channel MOSFET                        |
-| SI2301            |      | [[Vishay-dat]]   | 2.8A  | SOT-23   | P       | 20V P-Channel MOSFET                        |
-| SI2302            |      | [[Vishay-dat]]   | 3.1A  | SOT-23   | N       | 20V N-Channel MOSFET                        |
-| SI2304            |      | [[Vishay-dat]]   | 3.7A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
-| SI2307            |      | [[Vishay-dat]]   | 3.7A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
-| SI2308            |      | [[Vishay-dat]]   | 5.6A  | SOT-23   | N       | 30V N-Channel MOSFET                        |
-| IR F5305          | 5305 | [[Infineon-dat]] | 31A   | TO-220AB | P       | 55V P-Channel MOSFET                        |
-| IR [[FR1205-dat]] |      | [[Infineon-dat]] | 33A   | D2PAK    | N       | 55V N-Channel MOSFET                        |
+| Model             | Mark | Manufacturers    | Id    | Package         | CH type | VDS max |
+| ----------------- | ---- | ---------------- | ----- | --------------- | ------- | ------- |
+| AOD403            | D403 | [[AOSMD-dat]]    | 40A   | TO-252          | N       | 40V     |
+| AOD4184A          | 4184 | [[AOSMD-dat]]    | 50A   | TO-252          | N       | 40V     |
+| NCE6050           |      | [[ncepower-dat]] | 50A   | TO-252          | N       | 60V     |
+| IRF540N           | 540N | [[Infineon-dat]] | 33A   | TO-263 / TO-220 | N       | 100V    |
+| IR F5305          | 5305 | [[Infineon-dat]] | -31A  | TO-220          | P       | 55V     |
+| IR [[FR1205-dat]] |      | [[Infineon-dat]] | 44A   | TO-252          | N       | 55V     |
+| AO4435            |      | [[AOSMD-dat]]    | -10.5 | SO-8            | P       | 30V     |
+| AO4468            |      | [[AOSMD-dat]]    | 10.5  | SO-8            | N       | 30V     |
+| AO3400            | A0T0 | [[AOSMD-dat]]    | 5.8A  | SOT-23          | N       | 30V     |
+| AO3401            | A19T | [[AOSMD-dat]]    | 4.3A  | SOT-23          | P       | 30V     |
+| 2N7002            | 7002 | [[NXP-dat]]      | 115mA | SOT-23          | N       | 60V     |
+| SI1304            |      | [[Vishay-dat]]   | 5.1A  | SOT-23          | N       | 20V     |
+| SI1308            |      | [[Vishay-dat]]   | 8.7A  | SOT-23          | N       | 30V     |
+| SI2300            |      | [[Vishay-dat]]   | 2.8A  | SOT-23          | P       | 20V     |
+| SI2301            |      | [[Vishay-dat]]   | 2.8A  | SOT-23          | P       | 20V     |
+| SI2302            |      | [[Vishay-dat]]   | 3.1A  | SOT-23          | N       | 20V     |
+| SI2304            |      | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
+| SI2307            |      | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
+| SI2308            |      | [[Vishay-dat]]   | 5.6A  | SOT-23          | N       | 30V     |
 
+
+D2PAK == TO252
 
 
 ### dual channel 
@@ -197,5 +201,7 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 ## ref 
 
 - [[vishay-dat]]
+
+- [[transistor-dat]]
 
 - [[mosfet]] - [[mos-p]] - [[mos-n]]

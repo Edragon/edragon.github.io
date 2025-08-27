@@ -59,6 +59,34 @@ common brand: 	Infineon
 
 - IRLML9303 
 
+
+## BSS138 
+
+# Differences Between BSS138 and BSS138W
+
+| Feature                  | BSS138                          | BSS138W                          |
+|--------------------------|---------------------------------|----------------------------------|
+| Device Type              | N-Channel MOSFET                | N-Channel MOSFET                 |
+| V_DS (Drain–Source) Max  | 50 V                            | 50 V                             |
+| I_D (Continuous Drain)   | ~200 mA (at 25°C)               | ~200 mA (at 25°C)                |
+| R_DS(on)                 | ~3–5 Ω @ V_GS = 4.5 V           | ~3–5 Ω @ V_GS = 4.5 V            |
+| Gate Threshold (V_GS(th))| 0.7–1.3 V                       | 0.7–1.3 V                        |
+| Package                  | **SOT-23 (larger)**             | **SOT-323 / SC-70 (smaller)**    |
+| Size / Footprint         | 2.9 × 1.3 mm (approx.)          | 2.0 × 1.25 mm (approx.)          |
+| Thermal Dissipation      | Better (due to bigger package)  | Lower (due to smaller package)   |
+| Pinout                   | Same function (G, D, S)         | Same function (G, D, S)          |
+
+## Key Points
+- **Electrical specs are essentially identical** → Both are 50V N-channel enhancement MOSFETs.  
+- **Main difference = package size**:  
+  - **BSS138** → SOT-23, larger, easier to hand-solder, better thermal handling.  
+  - **BSS138W** → SOT-323 (SC-70), much smaller, designed for high-density PCBs.  
+- **Thermal performance**: BSS138 can dissipate a bit more heat than BSS138W.  
+
+👉 If space is tight → **BSS138W**.  
+👉 If you want easier soldering and better heat dissipation → **BSS138**.
+
+
 ## ref 
 
 - [[kicad-dat]]

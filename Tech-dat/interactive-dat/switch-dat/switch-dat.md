@@ -7,6 +7,10 @@
 
 - [[KCD4-dat]] - [[KCD3-dat]] - [[KCD1-dat]]
 
+- [[hall-switch-dat]]
+
+
+
 
 ## SMD Switch 
 

@@ -8,13 +8,15 @@ https://www.electrodragon.com/w/RCL_List
 
 ## passive
 
-- [[mosfet-dat]] - [[P-mos-dat]]
+- [[mosfet-dat]] - [[P-mos-dat]] - [[n-mos-dat]]
 
 - [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[capacitor-dat]] - [[inductor-dat]] - [[resistor-dat]] 
 
 - [[crystal-dat]] - [[ferrite-bead-dat]] - [[fuse-dat]] - [[varistor-dat]]
 
 - [[antenna-dat]]
+
+- [[switch-dat]] - [[interactive-dat]]
 
 ## Chip 
 
