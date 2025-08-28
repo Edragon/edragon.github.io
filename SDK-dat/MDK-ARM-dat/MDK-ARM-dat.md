@@ -28,11 +28,21 @@ install from official websites
 - https://armkeil.blob.core.windows.net/eval/MDK527.EXE
 - https://armkeil.blob.core.windows.net/eval/MDK526.EXE
 
+
+
+
+
 ## install workflow 
 
-- install MDK-ARM 
+![](2025-08-28-13-49-30.png)
+
+- install MDK-ARM - mdk538a.exe
+  - core d:\Keil_v5
+  - pack d:\Keil_v5\Packs
 - install ARM Compilier 5 (optionally) == [[AC5-dat]]
-  - create a folder in installation folder, for example "AC5" in D:\MDK\Keil_v5\ARM
+  - create a folder in installation folder, for example "AC5" in 
+    - D:\MDK\Keil_v5\ARM
+    - D:\Keil_v5\ARM
   - install into "AC5"
 
 ## Supports 
