@@ -34,6 +34,20 @@ SC622K == 500mA Low Dropout Regulator, Low voltage drop: 0.1V@100mA
 
 - [[me6206-dat]] - [[microne-dat]]
 
+
+### SOT23-5
+
+
+SOT23-5 
+
+| mode   | volt  | current | 1   | 2   | 3   | 4   | 5    |
+| ------ | ----- | ------- | --- | --- | --- | --- | ---- |
+| XC6204 | 2-10V | 150ma   | VIN | VSS | CE  | NC  | Vout |
+| ME6214 | 2-18V | 300ma   | VIN | VSS | CE  | NC  | Vout |
+
+
+
+
 ## pins 
 
 | mode            | footprint | 1   | 2    | 3    |
@@ -68,6 +82,11 @@ SC622K == 500mA Low Dropout Regulator, Low voltage drop: 0.1V@100mA
 ## LDO array 
 
 ![](2025-08-09-17-21-03.png)
+
+
+
+
+
 
 ## ref 
 

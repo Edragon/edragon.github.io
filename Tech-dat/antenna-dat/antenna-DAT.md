@@ -104,8 +104,7 @@ https://www.electrodragon.com/product/spring-coil-antenna-433-mhz/
 
 - [[antenna-dat]]
 
-ceramic mini antenna
-https://www.electrodragon.com/product/gps-ceramic-antenna-build/
+- [[antenna-ceramic-dat]]
 
 large outdoor antenna
 https://www.electrodragon.com/product/gsm-magenatic-external-antenan-3m-5dbi/
