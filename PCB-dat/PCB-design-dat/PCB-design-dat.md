@@ -37,6 +37,11 @@
 | 16  | 0.4064 |
 
 
+## experiences 
+
+ground protected crystals for [[RP2040-dat]] - [[RPI-dat]]
+
+![](2025-08-28-16-29-41.png)
 
 
 

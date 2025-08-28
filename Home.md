@@ -27,7 +27,7 @@
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 
-- [[PCB-dat]] - [[PCBA-dat]] - [[EDA-dat]]
+- [[PCB-dat]] - [[PCBA-dat]] - [[EDA-dat]] - [[PCB-design-dat]]
 
 
 

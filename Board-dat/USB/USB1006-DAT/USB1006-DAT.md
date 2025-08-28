@@ -15,6 +15,7 @@
 
 
 ## Mode Setup
+
 * All Jumper off: Mode 0
 * #1 Jumper on:   Mode 1
 * #2 Jumper on:   Mode 2
@@ -79,5 +80,7 @@ For example,
 - https://x.com/electro_phoenix/status/1654749466929553411
 
 ## ref 
+
+- [[USB-HID-dat]] - [[USB-dat]]
 
 - [[USB1006]]

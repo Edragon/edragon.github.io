@@ -60,6 +60,7 @@
 - USB Power Delivery (PD) is a specification that allows devices to negotiate power requirements and deliver higher power levels over USB connections. It enables faster charging and power delivery to devices like laptops and smartphones.
 - USB Audio is a specification that allows audio devices to connect to computers and other peripherals using USB connections. It supports high-quality audio streaming and can replace traditional audio connectors like 3.5mm jacks.
 - USB HID (Human Interface Device) is a class of USB devices that includes keyboards, mice, and game controllers. It allows these devices to communicate with computers without the need for custom drivers.
+
 - USB Mass Storage is a class of USB devices that allows storage devices like flash drives and external hard drives to connect to computers and other peripherals. It enables easy file transfer and access to storage media.
 - USB Serial is a class of USB devices that allows serial communication over USB connections. It is commonly used for connecting microcontrollers and other embedded systems to computers for debugging and data transfer.
 - USB CDC (Communications Device Class) is a class of USB devices that allows devices to emulate serial ports over USB connections. It is commonly used for connecting modems, network adapters, and other communication devices to computers.
