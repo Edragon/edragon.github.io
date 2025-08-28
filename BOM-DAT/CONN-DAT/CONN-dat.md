@@ -12,13 +12,13 @@
 
 - [[Conn-IPEX-dat]] - [[CONN-SMA-dat]]
 
-- board to board [[BTB-dat]]
+
 
 - [[RJ-11-dat]] - [[RJ-45-dat]]
 
 - [[DB9-dat]]
 
-- [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-dat]]
+- [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-dat]] - [[SH1.0-dat]] - [[1.25-dat]] - [[ZH1.5-dat]] - [[XH2.0-dat]]
 
 - [[CONN-Plug-dat]]
 
@@ -26,9 +26,9 @@
 
 - [[conn-audio-dat]] - [[conn-video-dat]]
 
-- [[BTB-dat]] - [[12P-BTB-dat]]
+- [[BTB-dat]] - [[12P-BTB-dat]] - board to board [[BTB-dat]]
 
-
+- [[FPC-dat]]
 
 ## standard connector 
 
@@ -44,6 +44,7 @@
 
 - [[CCO3515-dat]] - [[CCO3612-dat]] - [[CCO3587-dat]] 
 
+- [[footprint-dat]]
 
 
 

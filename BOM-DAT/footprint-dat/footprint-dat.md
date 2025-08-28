@@ -1,6 +1,46 @@
 
 # footprint-dat.md
 
+- [[EDA-dat]] - [[kicad-dat]]
+
+- [[kicad-footprint-dat]]
+
+## common footprint libraries 
+
+- nettie
+- [[test-point-dat]]
+- Connector_FFC-FPC
+- Connector_PinHeader_1.00mm
+- Connector_PinSocket_1.00mm
+- Connector_JST
+- Connector_Molex
+- Jumper 
+- Connector_Wire
+- Package_CSP 
+
+
+## general footprint guide
+
+### overal setup 
+
+| Setting       | 1   | 2    | 3     | 4        |
+| ------------- | --- | ---- | ----- | -------- |
+| Grid Size     | 1.0 | 0.5  | 1.27  | 2.54 mm  |
+| Snap Size     | 0.1 | 0.05 | 0.127 | 0.254 mm |
+| Alt Snap Size | 0.1 | 0.05 | 0.127 | 0.254 mm |
+
+
+- units == mm 
+
+### create new footprint 
+
+- pad 
+- layer select 
+  - for SMD part == top / bottom layer only 
+  - for THT part == all layer
+      - also check the hole size and shape
+
+
 
 ## generate footprint descriptions 
 
@@ -25,6 +65,13 @@ LED SMD VERMELHO, 0805, 2V, 25MA, 624NM, 60MCD, 140°, ROHS
 - "VERMELHO" is Portuguese for red.
 - 624nm wavelength corresponds to red light on the visible spectrum.
 - Other details like 2V, 25mA, and 60mcd just describe electrical and luminous specs.
+
+
+
+
+
+
+
 
 ### Electronic Industries Alliance (EIA)
 

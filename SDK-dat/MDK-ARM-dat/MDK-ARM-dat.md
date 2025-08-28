@@ -5,6 +5,16 @@
 
 - setup new compiler in KEIL-MDK [[AC5-dat]] - [[AC6-dat]]
 
+## supported device 
+
+- [[STM32-dat]] 
+
+- [[DA14585-dat]]
+
+## programmer 
+
+- [[Jlink-dat]]
+
 ## KEIL-MDK
 
 - 5.4 

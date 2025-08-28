@@ -25,14 +25,16 @@
 
 | Pin | Function    | Pin | Function    |
 | --- | ----------- | --- | ----------- |
-|     | R-1         |     | G-1         |
-|     | B-1         |     | GND (SEL)   |
-|     | R-2         |     | G-2         |
-|     | B-2         |     | GND (E)     |
+|     | R1          |     | G1          |
+|     | B1          |     | GND (SEL)   |
+|     | R2          |     | G2          |
+|     | B2          |     | GND (E)     |
 |     | A           |     | B           |
 |     | C           |     | D           |
-|     | CLOCK       |     | LATCH / STB |
+|     | CLOCK       |     | LATCH / STB | F |
 |     | OE / ENABLE |     | GND         |
+
+- [[MPC1120-dat]] - [[MPC1119-dat]] - [[MPC1073-dat]]
 
 
 | ESP32DEV | Function    | ESP32DEV | Function    |

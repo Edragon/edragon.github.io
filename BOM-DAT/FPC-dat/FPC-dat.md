@@ -1,15 +1,20 @@
 
 # FPC-dat 
 
+FFC usually means “Flat Flex Cable”
+
 - add [[test-point-dat]] for debugging 
 
 
 ## Info 
+
 - common pitch 0.5 mm
 
 overview 
 
 ![](2025-08-19-15-24-47.png)
+
+- common pitch 1.0 mm
 
 ## type 
 
@@ -62,6 +67,14 @@ Use low-temperature solder [[solder-paste-dat]] to tin the pads first, then clea
 - 34P 上接 
 
 
+
+## stiffener
+
+For ordering at JLCPCB, define a seperate layer for your stiffeners, like I did here:
+
+![](2025-08-28-15-39-53.png)
+
+This design actually has an FR4 and a polyimide stiffener, so two layers.
 
 ## ref 
 
