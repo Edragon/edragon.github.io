@@ -3,6 +3,8 @@
 
 - [[antenna-active-amplifier-dat]]
 
+PA + LNA == Power Amplifier + Low Noise Amplifier
+
 ## What is LNA?
 
 **LNA** stands for **Low-Noise Amplifier**.

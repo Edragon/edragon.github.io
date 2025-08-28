@@ -5,7 +5,12 @@
 
 - SI24R1 - [[NWL1032-dat]]
 
-- [[NWL1010-dat]] 
+- niushi - [[NWL1010-dat]] 
+
+- Ci24R1 == SO-8
+
+
+
 
 ## ref 
 

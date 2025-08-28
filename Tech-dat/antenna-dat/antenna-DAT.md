@@ -142,7 +142,13 @@ Therefore, the layout of the module antenna location and routing is recommended 
 ![](2025-08-19-17-27-28.png)
 
 
+## impedence matching chipset 
 
+BAL-NRF01D3
+
+50 ohm balun transformer for 2G45 ISM matched Nordic’s chipset: nRF24LE1 QFN
+
+- [[BAL-NRF01D3.PDF]]
 
 ## ref
 

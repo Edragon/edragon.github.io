@@ -2,6 +2,10 @@
 
 https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 
+- [[LNA-dat]]
+
+- [[NRF24L01-clone-dat]]
+
 ## Feature of NRF24L01:
 
 - 2.4Ghz worldwide free open ISM band
@@ -96,4 +100,8 @@ with arduino
 
 - [legacy wiki page](https://w.electrodragon.com/w/Category:NRF24)
 
-[[A7105-dat]]: - [[NWL1058-dat]]
+[[A7105-dat]] - [[NWL1058-dat]]
+
+- [[MD7105-dat]]
+
+- [[RF-2.4Ghz-dat]] - [[RF-dat]]
