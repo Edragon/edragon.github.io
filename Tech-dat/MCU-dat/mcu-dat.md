@@ -15,6 +15,10 @@
 
 - [[allwinner-dat]]
 
+## other types 
+
+- [[FPGA-dat]] - [[CPLD-dat]] - [[DSP-dat]] - [[ARM-dat]] - [[RISC-V-dat]]
+
 ## Common-used MCU support OTA and configure 
 
 - [[nrf52840-dat]] 

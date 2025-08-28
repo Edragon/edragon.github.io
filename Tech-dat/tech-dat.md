@@ -87,7 +87,7 @@
 
 - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
-- [[CPLD-dat]] - [[FPGA-dat]]
+- [[CPLD-dat]] - [[FPGA-dat]] - [[DSP-dat]]
 
 
 
