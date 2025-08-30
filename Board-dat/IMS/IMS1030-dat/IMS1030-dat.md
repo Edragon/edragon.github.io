@@ -18,6 +18,10 @@ and extra VCC and GND power supply pins
 
 ![](2024-10-25-14-45-28.png)
 
+
+
+
+
 ## demo 
 
 https://www.youtube.com/shorts/wiDk-X6urJ4
@@ -29,5 +33,10 @@ https://www.youtube.com/shorts/wiDk-X6urJ4
 ## ref 
 
 - [[74HC595-dat]] - [[74xx-dat]]
+
+- [[7-segment-display-dat]]
+
+- [[case-header-dat]]
+
 
 - [[IMS1030]]

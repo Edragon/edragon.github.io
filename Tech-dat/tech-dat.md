@@ -109,7 +109,7 @@
 
 - [[keyboard-dat]] - [[keypad-dat]] - [[mouse-dat]]
 
-- [[matrix-display-dat]]
+- [[matrix-display-driver-dat]]
 
 - [[epaper-dat]]
 

@@ -10,7 +10,7 @@ https://www.electrodragon.com/product-category/prototype/proto-case/
 
 - [[esp-relay-board-dat]]
 
-- [[header-case-dat]] - [[IMS1044-dat]] - [[IMS1038-dat]] - [[IMS1030-dat]] - [[3201586-dat]]
+- [[case-header-dat]] - [[IMS1044-dat]] - [[IMS1038-dat]] - [[IMS1030-dat]] - [[3201586-dat]]
 
 - [[NWI1252-dat]]
 
@@ -19,9 +19,9 @@ https://www.electrodragon.com/product-category/prototype/proto-case/
 
 - [[case-led-dat]] 
 
-- [[layered-case-dat]] 
+- [[case-layered-dat]] 
 
-- [[waterproof-case-dat]]
+- [[case-waterproof-dat]]
 
 - normal plastic case - [[PENS005-dat]] - [[PENS007-dat]] - retired - [[PENS001-dat]]
 
