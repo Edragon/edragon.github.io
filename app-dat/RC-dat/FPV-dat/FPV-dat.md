@@ -235,13 +235,13 @@ In FPV drones, the **wheelbase** refers to the **diagonal distance between the c
 
 ### 📏 Common FPV Drone Wheelbase Categories
 
-| Size Category  | Typical Wheelbase | Prop Size | Usage                            |                    |
-| -------------- | ----------------- | --------- | -------------------------------- | ------------------ |
-| **Tiny Whoop** | 65–75 mm          | 31–40 mm  | Indoor, safe micro flying        | Meteor75, Aquila16 |
-| **Micro**      | 85–120 mm         | 2"–2.5"   | Indoor/outdoor, cinewhoop        | BEE25, Pavo25, Pavo20 = 90mm      |
-| **Mini**       | 130–180 mm        | 3"–4"     | Freestyle, racing                |                    |
-| **Standard**   | 200–250 mm        | 5"        | Freestyle, long-range, cinematic |                    |
-| **Large**      | 250+ mm           | 6"+       | Long-range, heavy payloads       |                    |
+| Size Category  | Typical Wheelbase | Prop Size | Usage                            |                              |
+| -------------- | ----------------- | --------- | -------------------------------- | ---------------------------- |
+| **Tiny Whoop** | 65–75 mm          | 31–40 mm  | Indoor, safe micro flying        | Meteor75, Aquila16           |
+| **Micro**      | 85–120 mm         | 2"–2.5"   | Indoor/outdoor, cinewhoop        | BEE25, Pavo25, Pavo20 = 90mm |
+| **Mini**       | 130–180 mm        | 3"–4"     | Freestyle, racing                |                              |
+| **Standard**   | 200–250 mm        | 5"        | Freestyle, long-range, cinematic |                              |
+| **Large**      | 250+ mm           | 6"+       | Long-range, heavy payloads       |                              |
 
 
 ---
@@ -254,6 +254,20 @@ In FPV drones, the **wheelbase** refers to the **diagonal distance between the c
 
 
 - [[FPV-load-dat]]
+
+
+
+## FPV by size 
+
+| model                | wheelbase | prop size | description | price | carry weight |
+| -------------------- | --------- | --------- | ----------- | ----- | ------------ |
+| [[Meteor75-dat]]     | 75        | 1.6-inch  | micro-whoop |       |              |
+| [[Meteor75-dat]] pro |           | 2-inch    | micro-whoop |       |              |
+| [[Pavo20-dat]]       | 90        | 2-inch    | micro-whoop |       | ~35–45 g     |
+| [[mobula8-dat]]      | 85        | 2.3-inch  | micro-whoop |       | ~35–45 g     |
+| [[BEE25-dat]]        | 120       | 2.5-inch  | cinewhoop   |       | ~60–120 g    |
+| [[Pavo25-dat]]       | 108       | 2.5-inch  | cinewhoop   |       | ~60–120 g    |
+
 
 ## ref 
 

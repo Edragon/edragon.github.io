@@ -35,6 +35,20 @@ R3 = 13.633K or below 13.3K for 5.2V
 
 https://www.digikey.cn/zh/resources/conversion-calculators/conversion-calculator-parallel-and-series-resistor
 
+
+## 1.205 x ( 1 + R4 ∕ R5) parallel 
+
+| R1   | R2   | Rsum     |
+| ---- | ---- | -------- |
+| 2M   | 820K | 581K     |
+| **2M**   | **845K** | **594K** |
+| 1.8M | 845K | 575K     |
+| 1.6M | 910K | 580K     |
+| 2M   | **1.8M** | **947K**     |
+| **1.2M** |      | 1.2M     |
+| 2M   |      | 2M       |
+
+
 2x 1.88 MΩ in parallel ≈ 940 kΩ.
 
 1 MΩ and 15.67 MΩ in parallel ≈ 940 kΩ.
@@ -43,6 +57,7 @@ https://www.digikey.cn/zh/resources/conversion-calculators/conversion-calculator
 
 3x 3.9 MΩ resistors in parallel = 1.3 MΩ
 
+## 1.205 x ( 1 + R4 ∕ R5) series 
 
 for - [[LFP-dat]] 
 
@@ -57,6 +72,29 @@ for - [[li-battery-dat]]
     = 16.8 / 1.205 - 1 = 12.93, R4 = 12.93 ⅹ R5, if R5 = 100k, R4 = 1293k, use 1.2M + 100k in series
     = 25.2 / 1.205 - 1 = 19.9, R4 = 19.9 ⅹ R5, if R5 = 100k, R4 = 1990k, use 2M
 
+8.4V 
+- if R5 = 100k, R4 = 576k, voltage = 1.205 x (1 + 576k / 100k) = 8.14V 
+- if R5 = 100k, R4 = 604k, voltage = 1.205 x (1 + 604k / 100k) = 8.48V
+
+- if R5 = 110k, R4 = 576k, voltage = 1.205 x (1 + 576k / 110k) = 7.515V
+- if R5 = 95.3k, R4 = 576k, voltage = 1.205 x (1 + 576k / 95.3k) = 8.488V
+- if R5 = 97.6k, R4 = 576k, voltage = 1.205 x (1 + 576k / 97.6k) = 8.316
+
+12.6V 
+- if R5 = 97.6k, voltage = 12.6V, R4 = (12.6 / 1.205 - 1) * R5 = 946k, use 923k
+- if R5 = 97.6k, R5 = 910K, voltage = 1.205 x (1 + 910k / 97.6k) = 12.44V
+
+16.8V 
+- if R5 = 97.6k, voltage = 16.8V, R4 = (16.8 / 1.205 - 1) * R5 = 1263k, use 1.2M 
+- if R5 = 97.6k, R4 = 1.2M, voltage = 1.205 x (1 + 1200k / 97.6k) = 16.02V
+
+| R4                | R5      | target Vout | actual Vout |
+| ----------------- | ------- | ----------- | ----------- |
+| 576K 1% + 13K 5%  | 100K 1% | 8.4V        | 8.3         |
+| 940K 1% + 4.7K 5% | 100K 1% | 12.6V       | 12.59       |
+| 1.2M 1% + 47K 5%  | 100K 1% | 16.8V       | 16.26       |
+| 1.9M 1% + 47K 5%  | 100K 1% | 25.2V       | 24.1        |
+
 
 ## CN3722 
 
@@ -65,7 +103,7 @@ Vbat = 2.416 × (1 + R7 / R6)
 where R7 = 14K 
 
 | Battery Type | Vfb (kΩ) | Output Voltage (V) |
-|--------------|----------|--------------------|
+| ------------ | -------- | ------------------ |
 | LIFEPO4      | 28.7     | 3.6                |
 | LIFEPO4      | 7.5      | 7.2                |
 | LIFEPO4      | 4.02     | 10.8               |

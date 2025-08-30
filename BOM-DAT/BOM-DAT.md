@@ -10,13 +10,18 @@ https://www.electrodragon.com/w/RCL_List
 
 - [[mosfet-dat]] - [[P-mos-dat]] - [[n-mos-dat]]
 
-- [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[capacitor-dat]] - [[inductor-dat]] - [[resistor-dat]] 
+- [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[inductor-dat]] 
 
 - [[crystal-dat]] - [[ferrite-bead-dat]] - [[fuse-dat]] - [[varistor-dat]]
 
 - [[antenna-dat]]
 
 - [[switch-dat]] - [[interactive-dat]]
+
+- [[resistor-dat]] - [[resistor-feedback-dat]]
+
+- [[capacitor-dat]] 
+
 
 ## Chip 
 

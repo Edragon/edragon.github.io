@@ -21,6 +21,10 @@
 
 ## 🔋 Common Lithium Battery Pack Combinations
 
+- 2S = 8.4V 
+- 3S = 12.6V
+- 4S = 16.8V
+
 
 | Configuration | Voltage (V)     | Full Charge Voltage (V) | Description                           |
 | ------------- | --------------- | ----------------------- | ------------------------------------- |

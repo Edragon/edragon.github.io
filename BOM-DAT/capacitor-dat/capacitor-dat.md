@@ -162,6 +162,22 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 - 4.7uF_±10%_50V (50只)
 
 
+## C0805 
+
+- **100NF / 50V**
+- **1UF / 16V**
+- **10UF / 10V**
+
+
+## C1206 
+
+- **22UF / 35V**
+- **22UF / 50V**
+- **100UF / 10V**
+
+
+
+
 ## ref 
 
 

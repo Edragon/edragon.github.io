@@ -18,7 +18,7 @@
 - including low voltage detection 
 - [[battery-protection-dat]] - short circuit - [[SCP-protection-dat]]
 
-
+输入电压范围：2.7V 到 6.5V
 
 
 ## ref 
