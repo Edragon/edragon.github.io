@@ -11,7 +11,7 @@
 other un-common size frameless
 
 - 10 x 15 cm
-
+- 15 x 20 cm
 
 
 ### all size framed 
@@ -22,6 +22,19 @@ other un-common size frameless
 - 45*55CM（有框）
 - 55*65CM（有框）
 - 73.6*73.6CM（有框）
+
+
+
+25 X 30 CM
+30 X 40 CM
+37 X 47 CM
+42 X 52 CM
+45 x 55 CM
+40 x 60 CM
+40 x 70 CM
+40 x 80 CM
+58 X 58 CM
+55 x 65 CM
 
 
 
