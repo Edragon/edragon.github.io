@@ -19,7 +19,7 @@ display
 
 - [[7-segment-display-dat]]
 
-- [[WS2812-dat]] - [[LED-dat]]
+- [[WS2812-dat]] - [[LED-dat]] - [[led-strip-dat]] - [[LED-tube-dat]]
 
 - [[ascii-dat]]
 
