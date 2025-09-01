@@ -34,6 +34,6 @@
 
 ## ref 
 
-- [[relay-dat]] - [[opto-dat]]
+- [[relay-dat]] - [[optical-coupler-dat]]
 
 - [[relay]] - [[opto]]

@@ -3,6 +3,9 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Relay
 
+
+
+
 ### SPST relay 
 
 HF32F-G-5-HS
@@ -29,15 +32,14 @@ HF32F-G-5-HS
 - sell modules - [[relay-modules-dat]] using PNP transitor drive relay - [[transistor-dat]]
 
 
-
-## using N-mos mosfet control 
+### using N-mos mosfet control 
 
 ![](2024-09-18-17-41-35.png)
 
 
 
 
-## using NPN transistor drive 
+### using NPN transistor drive 
 
 ![](2024-10-01-19-16-11.png)
 
@@ -59,7 +61,7 @@ A flyback diode (also known as a freewheeling diode or reverse protection diode)
 
 To prevent this, a flyback diode is typically placed in parallel with the relay coil. The diode allows normal current to flow through the coil when the relay is energized, but when the relay is turned off, the diode provides a low-resistance path for the stored energy to dissipate, preventing the high voltage spike from damaging the circuit.
 
-### how to choose fly back diode 
+#### how to choose fly back diode 
 
 - [[diode-dat]]
 

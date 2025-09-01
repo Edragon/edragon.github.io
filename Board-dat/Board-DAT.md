@@ -214,7 +214,7 @@ battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
 
 Battery charger - [[OPM1181-dat]]
 
-[[relay-modules-dat]] - [[OPM1046-dat]]
+[[relay-modules-dat]] - [[OPM1046-dat]] - [[OPM1047-dat]] - [[OPM1048-dat]] - [[OPM1049-dat]]
 
 USB
 [[OPM1160-dat]]

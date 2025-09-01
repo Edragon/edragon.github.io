@@ -64,7 +64,28 @@ other un-common size frameless
 
 ## stencil printer 
 
+table printer 
+
+![](2025-09-01-17-56-12.png)
+
+screwed printer 
+
+![](2025-09-01-17-57-01.png)
+
+
+
+
+3D printed holder 
+
 ![](2025-08-19-17-53-38.png)
+
+
+
+## other ideas 
+
+cruved printer 
+
+![](2025-09-01-17-57-49.png)
 
 
 ## ref 
