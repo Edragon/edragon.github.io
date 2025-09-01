@@ -80,8 +80,11 @@ other un-common size frameless
 ![](2025-08-19-17-53-38.png)
 
 
+![](2025-09-01-20-40-00.png)
 
+![](2025-09-01-20-40-26.png)
 
+![](2025-09-01-20-40-37.png)
 
 
 
@@ -93,6 +96,8 @@ cruved printer
 ![](2025-09-01-17-57-49.png)
 
 
+
+
 ## ref 
 
-- [[stencil]] - [[stencil-print]]
+- [[fab-stencil]] - [[fab-stencil-print]]

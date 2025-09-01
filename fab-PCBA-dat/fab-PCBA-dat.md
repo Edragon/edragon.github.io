@@ -27,7 +27,7 @@
 
 ## PCBA Design 
 
-- [[fab-PCB-dat/PCB-fab-dat]]
+- [[PCB-dat]]
 
 - [[penalization-dat]] - [[EDA-dat]]
 
