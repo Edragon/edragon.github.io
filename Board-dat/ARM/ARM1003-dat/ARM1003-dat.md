@@ -22,7 +22,7 @@ power distributation please see this page [[Power-distribution-dat]]
 
 - [[ethernet-dat]] - [[BLE-dat]] - [[USB-dat]]
 
-- [[WCH-dat]] - [[CH579-dat]]
+- [[WCH-dat]] - [[CH579-dat]] - [[WCH-MCU-dat]] - [[WCH-PROG-dat]]
 
 - official SDK - https://www.wch.cn/products/ch579.html
 - https://github.com/Edragon/WCH_CH579.git

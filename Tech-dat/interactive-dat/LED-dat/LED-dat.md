@@ -79,8 +79,13 @@ GPIO4:
 - Widely adopted in **flashlights**, **bike lamps**, **spotlights**, and **DIY lighting projects**
 
 
+## commerial LED panels 
 
+![](2025-09-01-20-27-22.png)
 
+![](2025-09-01-20-28-25.png)
+
+- [[ACDC-dat]]
 
 
 ## ref 

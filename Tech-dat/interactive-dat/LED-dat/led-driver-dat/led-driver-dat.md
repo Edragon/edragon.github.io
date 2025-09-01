@@ -86,6 +86,16 @@ R5为芯片的反馈电阻，用于调节输出的电流，计算公式可参考
 如上图，下方说明了LED为2并5串，额定电流为40ma，我们为了保险，选择了20ma，亮度会有所损失。
 
 
+## 12V button-MCU-transistor driver 
+
+button buttons on the back side, low-side control white and warm white LED strips
+
+![](2025-09-01-20-32-40.png)
+
+driver AOA3 ?
+
+![](2025-09-01-20-33-21.png)
+
 ### ref 
 
 - https://tigoe.github.io/LightProjects/led-strips.html

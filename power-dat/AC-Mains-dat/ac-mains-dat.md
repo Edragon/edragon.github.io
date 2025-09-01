@@ -1,6 +1,9 @@
 
 # ac-mains-dat
 
+
+## tech 
+
 - [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]]
   
 - [[acdc-adapter-dat]] - [[acdc-dat]]
@@ -14,6 +17,10 @@
 - [[ac-plug-dat]]
 
 - [[ground-wire-dat]]
+
+- [[ACDC-RC_buck-dat]]
+
+
 
 ## Note 
 

@@ -1,6 +1,19 @@
 
 # PCBA-dat
 
+
+- [[soldering-dat]] - [[desoldering-dat]]
+  
+- [[spot-welding-dat]] 
+
+- [[solder-paste-dat]]
+
+- [[PCB-dat]]
+
+
+
+
+
 - [[PNP-machine-dat]] - [[reflow-machine-dat]] 
 
 - [[PCB-cleaner-dat]]
@@ -35,4 +48,10 @@
 - for this module, consider add - Adhesive Solutions on PCBs - [[PCB-Adhesive-dat]]
 - or layered plastic case [[layered-case-dat]]
 - more simple soltuion - [[PMP1037-dat]]
+
+## ref 
+
+- [[fab-dat]] 
+
+- [[fab]]
 

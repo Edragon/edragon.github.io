@@ -27,9 +27,9 @@
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 
-- [[PCB-dat]] - [[PCBA-dat]] - [[EDA-dat]] - [[PCB-design-dat]]
+- [[PCB-dat]]  - [[EDA-dat]] - [[PCB-design-dat]]
 
-
+- [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[PCB-adhesive-dat]] - [[export-coordinate-dat]] - [[mark-point-dat]] - [[SMT-Red-Adhesive-dat]] - [[solder-paste-dat]]
 
 
 
