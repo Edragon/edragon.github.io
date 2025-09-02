@@ -16,7 +16,26 @@ firmwares - https://www.radiomasterrc.com/pages/firmware-updates
 
 ![](2025-05-16-12-45-54.png)
 
+
+    RadioMaster Pocket Internal 2.4GHz TX
+    Firmware Rev. 3.5.4 (a6f9a2) ISM2G4
+
+
 ## wifi 
+
+
+turn on wifi mode: 
+
+1) Power on your Radiomaster transmitter.
+2) Long-press SYS to open the System Menu.
+3) Navigate to the TOOLS tab.
+4) Run “ExpressLRS.lua”.
+5) Select “WiFi Connectivity” → “Enable Wi-Fi”.
+6) Wait for the module to restart into Wi-Fi mode.
+7) On your phone/PC, connect to SSID: ExpressLRS TX (password: expresslrs).
+8) Open a browser and go to: http://10.0.0.1
+9) Update firmware or adjust settings in the ELRS WebUI.
+10) Exit Wi-Fi mode by backing out of the script or power-cycling the radio.
 
 better use this wifi option to connect your devices to your local network: 
 
@@ -30,6 +49,34 @@ find firmware version
     ExpressLRS
     RadioMaster Pocket Internal 2.4GHz TX
     Firmware Rev. 3.5.4 (a6f9a2) ISM2G4
+
+
+## module downloads 
+
+1) Power off your Radiomaster Pocket.
+2) Remove the SD card (or plug in USB-C in storage mode).
+3) Download the correct EdgeTX SD card pack for Radiomaster Pocket:
+   - From: https://edgetx.org/sdcard
+   - Choose the same EdgeTX version as your radio.
+4) Download the latest ExpressLRS Lua script:
+   - From: https://github.com/ExpressLRS/ExpressLRS
+   - Copy `ExpressLRS.lua` into `/SCRIPTS/TOOLS/` on your SD card.
+5) Safely eject the SD card (or USB storage) and restart the radio.
+6) Go to [SYS] → TOOLS → Run ExpressLRS.lua.
+7) The script should now load instead of freezing.
+
+## bind with mobula8 setup 
+
+- Packet Rate == 250Hz (-108d)
+- telem Ratio == STD 
+- Switch Mode == Hybrid 
+- Link Mode == Off
+
+
+![](2025-09-02-13-11-15.png)
+
+
+
 
 
 ## flash 

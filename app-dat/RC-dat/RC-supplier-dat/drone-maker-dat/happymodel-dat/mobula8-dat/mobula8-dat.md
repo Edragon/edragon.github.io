@@ -3,6 +3,29 @@
 
 - [[FPV-dat]]
 
+
+## pre-note 
+
+REMOVE PROPS before first flight !! 
+
+install propeller - [[propeller-dat]] - [[motor-dat]]
+
+
+
+## how to use 
+
+config by [[USB-dat]] USB port 
+
+![](2025-09-02-13-10-40.png)
+
+- [[betaflight-dat]]
+
+[user manual](https://www.happymodel.cn/wp-content/uploads/2023/04/Manual-for-Mobula8-SPI-ELRS-1-2S-85mm-Micro-FPV-whoop-drone.pdf) 
+
+- [[radiomaster-dat]] how to bind with it
+
+## info 
+
 Mobula8 
 - 1-2S 
 - 85mm无刷穿越机 

@@ -1,9 +1,9 @@
 
 # ARM1007-dat
 
-HC32L136 Low-Power Cortex-M0+ Mini Dev. Board
+[HC32L136 Low-Power Cortex-M0+ Mini Dev. Board](https://www.electrodragon.com/product/hc32l136-low-power-cortex-m0-mini-dev-board/)
 
-https://www.electrodragon.com/product/hc32l136-low-power-cortex-m0-mini-dev-board/
+
 
 - legacy wiki page - https://w.electrodragon.com/w/HDSC_SDK
 
