@@ -83,9 +83,9 @@ ExpressLRS250Hz
 
 ## Modes 
 
-- ARM == AUX 3 
+- ARM == AUX 1 
 - angle == AUX 2 
-- Horizon == AUX 1 
+- Horizon == AUX 2 
 - Air Mode == AUX 1, air mode only in arco mode 
 - beeper - also in AUX 1 
 
@@ -94,6 +94,8 @@ Arco mode is very stable, good for beginners
 
 ## motors 
 
+- mixer 
+
 ### ✅ Recommended ESC/Motor Protocol for Mobula8
 - **DSHOT600** → most common, reliable, and default for Mobula8.
 
@@ -101,8 +103,22 @@ Arco mode is very stable, good for beginners
 - **DSHOT300** → safer fallback if you experience desyncs or motor twitching.  
 - **DSHOT1200** → possible on some boards, but not necessary (no real benefit on Mobula8).  
 
+test 
+- [x] DSHOT 300
+- [x] DSHOT 600
 
+### settings 
 
+DSHOT300 -- ESC/Motor protocol
+
+[] - MOTOR_STOP Don't spin the motors when armed 
+[] - ESC_SENSOR Use KISS/BLHeli_32 ESC telemetry over a separate wlre
+[x] - Bidirectional Dshot (requires supported ESC firmware)
+12 - Motor poles (number of magnets on the motor bell)
+0 - Dynamic Idle Value [* 100 RPM]
+8% - Motor Idle ( %, static)
+
+EX1103 - KV11000 == Standard tiny whoop motors like EX1103 11000KV have 6 poles / 3-phase, but some high-torque variations may use 12 poles.
 
 ## reset 
 

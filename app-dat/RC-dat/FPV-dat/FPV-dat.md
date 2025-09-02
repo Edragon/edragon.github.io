@@ -9,7 +9,11 @@
   
 - [[FPV-controller-dat]] - [[Goggles-dat]] - [[BMS-dat]] - [[camera-dat]] - [[VTX-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
 
+- [[RC-controller-dat]]
+
 - [[FPV]]
+
+- [[battery-pack-dat]]
 
 ## The best overall FPV drone Starting Kit 
 
@@ -22,7 +26,7 @@
 
 ## configuration
 
-- [[betaflight-dat]] - [[BLHeli-Configurator-dat]]
+- [[betaflight-configurator-dat]] - [[BLHeli-Configurator-dat]]
 
 
 ## first flight 

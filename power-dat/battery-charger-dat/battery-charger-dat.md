@@ -79,6 +79,12 @@ request
 - [[SM2.54-dat]] - [[JST-dat]] - [[15EDGRKP-3.81mm-dat]] - [[XT-dat]] - [[cable-dat]]
 
 
+## 2S charger 
+
+![](2025-09-02-20-25-45.png)
+
+- [[battery-pack-dat]]
+
 
 ## ref
 
