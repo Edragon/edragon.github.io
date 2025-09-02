@@ -22,20 +22,31 @@
 
 ## configuration
 
-- [[betaflight-dat]]
+- [[betaflight-dat]] - [[BLHeli-Configurator-dat]]
+
+
+## first flight 
+
+1) Never run Mobula8 on USB for a long time; limit to a few minutes for configuration.
+2) Always remove propellers before powering via USB.
+3) For extended testing or Betaflight tuning, use a small 1S LiPo instead of USB — it provides proper current.
+4) If the board feels hot to touch (>50°C), unplug immediately and let it cool.
+5) Do not attempt to fly while USB is plugged in.
+6) Configure and test sticks, switches, and modes in Betaflight quickly, then disconnect USB.
 
 
 ## parts of the FPV drones
 
-- **Flight Controller**: The brain of the drone, responsible for stabilizing and controlling the flight. It processes data from sensors and executes commands from the pilot or autopilot system.
 
-- **Electronic Speed Controller (ESC)**: Controls the speed of the motors by adjusting the power supplied to them. ESCs are essential for smooth and responsive flight.
+- [[flight-controller-dat]]
+
+- [[ESC-dat]]
 
 - **Motors**: Provide the thrust needed for flight. Brushless motors are commonly used in FPV drones due to their efficiency and power.
 
 - **Propellers**: Generate lift by spinning rapidly. The size and pitch of the propellers can significantly affect the drone's performance and flight characteristics.
 
-- [[SCU1059-dat]]
+- [[SCU1059-dat]] - [[propeller-dat]]
 
 - **Camera**: Captures real-time video for FPV flying. FPV cameras are designed to provide low-latency video transmission to the pilot's goggles or screen.
 

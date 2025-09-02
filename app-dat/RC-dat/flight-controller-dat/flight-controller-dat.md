@@ -1,6 +1,13 @@
 
 # flight-controller-dat
 
+
+
+- **Flight Controller**: The brain of the drone, responsible for stabilizing and controlling the flight. It processes data from sensors and executes commands from the pilot or autopilot system.
+
+
+
+
 ALL-in-One Option == [[ELRS-dat]] + [[Flight-controller-dat]] + [[ESC-dat]]
 
 - [[X12-dat]]

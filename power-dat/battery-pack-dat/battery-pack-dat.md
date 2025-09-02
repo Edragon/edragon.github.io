@@ -90,6 +90,18 @@ How it ruins other paralleled batteries:
 ![](2025-05-12-16-09-09.png)
 
 
+## FPV power battery 
+
+**Balance Connector**
+
+- 2S battery = 2 cells in series → total 2 voltages to monitor (Cell 1 & Cell 2).
+- The 3 pins are:
+ - **Pin 1 (B-)** → negative of first cell / main ground.
+ - **Pin 2 (C1)** → middle point between cell 1 and cell 2.
+ - **Pin 3 (B+)** → positive of second cell / total pack voltage.
+- This lets a **balance charger** measure each cell individually.
+
+
 
 ## "Powerful" battery
 

@@ -3,6 +3,7 @@
 
 - [[FPV-dat]]
 
+- [[battery-pack-dat]]
 
 ## pre-note 
 
@@ -14,15 +15,31 @@ install propeller - [[propeller-dat]] - [[motor-dat]]
 
 ## how to use 
 
+[[RC-binding-mode-dat]]
+
 config by [[USB-dat]] USB port 
+
 
 ![](2025-09-02-13-10-40.png)
 
-- [[betaflight-dat]]
+- [[betaflight-configurator-dat]]
 
 [user manual](https://www.happymodel.cn/wp-content/uploads/2023/04/Manual-for-Mobula8-SPI-ELRS-1-2S-85mm-Micro-FPV-whoop-drone.pdf) 
 
 - [[radiomaster-dat]] how to bind with it
+
+
+## correct setup to match [[radiomaster-dat]]
+
+![](2025-09-02-18-32-18.png)
+
+modes setup 
+
+![](2025-09-02-18-32-34.png)
+
+motors setup 
+
+![](2025-09-02-18-32-50.png)
 
 ## info 
 

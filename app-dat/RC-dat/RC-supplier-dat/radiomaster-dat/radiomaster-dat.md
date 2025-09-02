@@ -124,3 +124,9 @@ find firmware version
 
     UPLOAD SUCCESS
     [32mUpdate complete. Please wait for a few seconds while the device reboots.[0m
+
+
+
+## ref 
+
+- [[console-dat]]

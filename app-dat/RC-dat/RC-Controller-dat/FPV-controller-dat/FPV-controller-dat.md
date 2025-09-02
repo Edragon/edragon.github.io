@@ -6,6 +6,21 @@
 
 - [[NRF24L01-dat]]
 
+## control 
+
+- [[radiomaster-dat]]
+
+rest at exact 1500 
+
+
+- right - L/R == roll 
+- right - U/D == pitch 
+- left - L/R == yaw
+- left - U/D == throttle 
+- AUX 1
+- AUX 2 
+
+
 ## common calibration methods 
 
 校准遥控器：左摇杆油门拉到最低，右摇杆往左下方打，遥控器出现 calibrating....  ，释放右摇杆
