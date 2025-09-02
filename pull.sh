@@ -1,2 +1,2 @@
-cd /root/edragon.github.io/
+cd /var/edragon.github.io/
 git pull
