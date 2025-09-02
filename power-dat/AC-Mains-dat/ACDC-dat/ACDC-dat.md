@@ -14,6 +14,9 @@
 
 - [[AP8022-dat]] - [[AP8012-dat]]
 
+- [[ZSpowerIC-dat]]
+
+
 
 ## Board Function diagram 
 

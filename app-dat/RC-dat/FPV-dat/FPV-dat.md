@@ -20,6 +20,10 @@
 - [[drone-maker-dat]] == [[mobula8-dat]] == [[happymodel-dat]] == 120 USD
 
 
+## configuration
+
+- [[betaflight-dat]]
+
 
 ## parts of the FPV drones
 

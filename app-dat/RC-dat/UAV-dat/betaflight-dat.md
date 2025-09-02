@@ -7,7 +7,34 @@ Betaflight is an open-source firmware for drones and other unmanned aerial vehic
 - [[FPV-dat]]
 
 
+## CLI 
 
+    # version
+    # Betaflight / STM32F411 (S411) 4.4.2 Jun  1 2023 / 02:20:34 (23d066d08) MSP API: 1.45
+
+    # config: YES
+    # board: manufacturer_id: HAMO, board_name: CRAZYBEEF4SX1280
+
+
+board == CRAZY BEE F4SX1280
+
+## flash 
+
+- CRAZYBEEF4SX1280
+- 4.5.2 [19-Mar-2025]
+
+- Radio Protocol == CRSF
+- Other Options ==  xAcro Trainer / xGPS / xLED Strip / xOSD (Analog) / xOSD (Digital) / xPin 10 / xVTX
+- Telemetry Protocol == Automatically Included
+- Motor Protocol == DSHOT
+
+
+## ports 
+
+
+## Configuration
+
+- ESC/Motor Features == ONE SHOT 125
 
 
 ## commerlized projects 
