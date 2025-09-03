@@ -8,7 +8,7 @@ from a to z
 
 - [[74xx-dat]]
 
-- [[allegro-dat]]: [[ACS712-dat]]
+- [[allegro-dat]]: [[ACS712-dat]] - [[ACS773-dat]] - [[A4988-dat]] - [[A4954-dat]] - [[A3967-dat]]
 
 - [[analog-device-dat]]
 
