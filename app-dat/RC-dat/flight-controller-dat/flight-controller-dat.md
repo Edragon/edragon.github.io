@@ -10,7 +10,7 @@
 
 ALL-in-One Option == [[ELRS-dat]] + [[Flight-controller-dat]] + [[ESC-dat]]
 
-- [[X12-dat]]
+- [[X12-dat]] - [[CRAZYBEEF4SX1280-dat]]
 
 
 

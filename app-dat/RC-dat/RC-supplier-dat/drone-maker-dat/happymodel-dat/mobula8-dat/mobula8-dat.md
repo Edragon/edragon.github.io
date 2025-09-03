@@ -3,7 +3,9 @@
 
 - [[FPV-dat]]
 
-- [[battery-pack-dat]]
+- [[battery-pack-dat]] - [[flight-controller-dat]]
+
+
 
 ## pre-note 
 
@@ -31,15 +33,30 @@ config by [[USB-dat]] USB port
 
 ## correct setup to match [[radiomaster-dat]]
 
-![](2025-09-02-18-32-18.png)
+### configuration
 
-modes setup 
+![](2025-09-03-12-13-05.png)
 
-![](2025-09-02-18-32-34.png)
+![](2025-09-03-12-13-17.png)
 
-motors setup 
 
-![](2025-09-02-18-32-50.png)
+### receiver 
+
+![](2025-09-03-12-11-32.png)
+
+- AETR1234 
+
+- [[RC-controller-dat]]
+
+### modes setup 
+
+![](2025-09-03-12-11-51.png)
+
+### motors setup 
+
+![](2025-09-03-12-12-21.png)
+
+
 
 ## info 
 

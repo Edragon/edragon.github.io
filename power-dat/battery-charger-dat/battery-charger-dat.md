@@ -81,10 +81,10 @@ request
 
 ## 2S charger 
 
-![](2025-09-02-20-25-45.png)
 
 - [[battery-pack-dat]]
 
+![](2025-09-03-14-16-10.png)
 
 ## ref
 

@@ -68,6 +68,13 @@ other un-common size frameless
 
 ![](2025-09-01-17-56-12.png)
 
+![](2025-09-03-14-15-01.png)
+
+![](2025-09-03-14-15-14.png)
+
+![](2025-09-03-14-15-24.png)
+
+
 ### screwed printer 
 
 ![](2025-09-01-17-57-01.png)
@@ -89,7 +96,7 @@ other un-common size frameless
 
 
 
-## other ideas 
+### other ideas 
 
 cruved printer 
 
