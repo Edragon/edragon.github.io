@@ -7,7 +7,7 @@
 
 - [[USB-STM32-dat]]
 
-- [[USB-OTG-dat]] - [[USB-Hub-dat]]
+- [[USB-OTG-dat]] 
 
 - [[keyboard-dat]] - [[USB-HID-dat]] - [[mouse-dat]]
 
@@ -16,6 +16,11 @@
 - [[WCH-dat]]
 
 - [[IP5306-dat]]
+
+
+
+- [[USB-Hub-dat]] - [[USB-Switch-dat]]
+
 
 ## USB variations 
 

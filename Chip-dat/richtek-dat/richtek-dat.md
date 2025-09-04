@@ -3,6 +3,19 @@
 
 - [[dcdc-down-dat]]
 
+## RT9742
+
+70mΩ/55mΩ, 3A/2.5A/2A/1.5A/1A/0.5A High-Side Power Switches with Flag
+
+The RT9742 is a cost-effective, low-voltage, single N-MOSFET high-side Power Switch IC for USB application. Low switch-on resistance and low supply current are realized in this IC.
+
+The RT9742 integrates an over-current protection circuit, a short fold back circuit, a thermal shutdown circuit and an under-voltage lockout circuit for overall protection.
+
+![](2025-09-04-19-02-55.png)
+
+- [[power-protection-dat]]
+
+
 ## RT9080 
 
 - RT9080 - 2μA IQ, 600mA Low-Dropout Linear Regulator

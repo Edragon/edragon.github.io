@@ -79,7 +79,7 @@
 
 ## ref
 
-- [[diodes-dat]]
+- [[diodes-dat]] - [[richtek-dat]]
 
 - [[power-protection-dat]]
 

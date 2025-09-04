@@ -27,7 +27,9 @@
 
 - [[SY6280-dat]]
 
-## Input protection 2 
+- [[richtek-dat]]
+
+## Input protection 2 for +12V 
 
 ![](2025-09-04-18-43-10.png)
 

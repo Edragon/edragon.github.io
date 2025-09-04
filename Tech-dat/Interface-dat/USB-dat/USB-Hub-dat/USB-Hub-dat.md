@@ -4,14 +4,6 @@
 - [[microchip-dat]]
 
 
-## FSUSB42
-
-Low-Power, Two-Port, High-Speed, USB2.0 (480Mbps) UART Switch
-
-- [[RPI-CM4-expansion-board]]
-
-![](2025-09-04-18-46-13.png)
-
 
 
 ## FE1.1 
