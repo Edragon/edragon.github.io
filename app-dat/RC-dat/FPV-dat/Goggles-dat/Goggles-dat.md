@@ -24,6 +24,14 @@
 - battery 
 
 
+## Analog FPV drones:
+
+- If your drone transmits on **5.8 GHz analog** (common for micro/Whoop drones), Aquila16 can receive it.
+- support OSD or digital link.
+
+
+
+
 ## mechanical Gimbal 
 
 - GM1 
@@ -32,7 +40,14 @@
 
 ![](2025-09-04-15-39-13.png)
 
-## Rotorama 008D Pro
+
+
+
+
+
+
+
+## Rotorama 008D Pro == 朗视特
 
 
 Rotorama 008D are basic FPV goggles for starting FPV pilots. The basis is a 4.3" IPS display with an aspect ratio of 16:9 and a resolution of 800x480 pixels, which is sufficient for displaying an analog video signal. The reception is taken care of by a dual receiver supporting all the usual 40 channels. In the package you can find two basic antennas with circular polarization. The goggles support the DVR function, when the received image can be recorded on an SD card of up to 32GB (FAT32). It is possible to connect headphones or an external video receiver.  Power is provided by an integrated battery with a capacity of 2000mAh, which is enough for 2-3 hours of operation. The battery is charged via USB connector. The goggles are delivered in a hard case with a zipper.

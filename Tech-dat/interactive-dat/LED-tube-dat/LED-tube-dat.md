@@ -10,3 +10,12 @@
 | T12       | 1.5"            | ~38 mm        | 600, 1200, 1500             | G13                    |
 
 
+## T5 
+
+- the center of the pins' pole is 8~9 mm
+
+
+
+## ref 
+
+- [[led-tube]] - [[interactive]]

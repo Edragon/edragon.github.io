@@ -271,17 +271,8 @@ In FPV drones, the **wheelbase** refers to the **diagonal distance between the c
 
 
 
-## FPV by size 
 
-| model                | wheelbase | prop size | description | price | carry weight |
-| -------------------- | --------- | --------- | ----------- | ----- | ------------ |
-| [[Meteor75-dat]]     | 75        | 1.6-inch  | micro-whoop |       |              |
-| [[Meteor75-dat]] pro |           | 2-inch    | micro-whoop |       |              |
-| [[Pavo20-dat]]       | 90        | 2-inch    | micro-whoop |       | ~35–45 g     |
-| [[mobula8-dat]]      | 85        | 2.3-inch  | micro-whoop |       | ~35–45 g     |
-| [[BEE25-dat]]        | 120       | 2.5-inch  | cinewhoop   |       | ~60–120 g    |
-| [[Pavo25-dat]]       | 108       | 2.5-inch  | cinewhoop   |       | ~60–120 g    |
-
+- [[drone-maker-dat]]
 
 ## ref 
 
