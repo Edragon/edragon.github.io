@@ -38,6 +38,11 @@ board == CRAZY BEE F4SX1280
 - Accelerometer Roll Trim
 - Accelerometer Pitch Trim
 
+| roll | roll trim | pitch | pitch trim |
+| ---- | --------- | ----- | ---------- |
+| left | --        | back  | --         |
+| right | ++       | front | ++         |
+
 #### 1. Accelerometer Trim
 - General setting that shifts the "zero level" of the accelerometer.  
 - Used if your quad drifts in Angle/Horizon mode even after calibration.  
@@ -58,6 +63,7 @@ board == CRAZY BEE F4SX1280
 - Example:
   - Drone drifts **forward** in Angle Mode → add **positive Pitch Trim**.  
   - Drone drifts **backward** → add **negative Pitch Trim**.  
+
 
 ### Board and Sensor Alignment
 - Roll Degrees 
@@ -99,11 +105,69 @@ RX_SETBeeps when aux channel is set for beep
 - reiceiver == Serial-based receiver
 
 
+
+## PID
+
+- [[PID-dat]]
+
+## rateprofile settings 
+
+Rates Type？ == Betaflight BETAFLIGHT
+
+| set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
+| ---------------- | ------- | ------- | ---- | --------------- |
+| Basic/Acro Rates |         |         |      |                 |
+| ROLL             | 1.06    | 0.56    | 0.15 | 482             |
+| PITCH            | 1.06    | 0.56    | 0.15 | 482             |
+| YAW              | 1.06    | 0.56    | 0.05 | 482             |
+
+Rates Type？ == Actual
+
+| set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
+| ---------------- | ------- | ------- | ---- | --------------- |
+| Basic/Acro Rates |         |         |      |                 |
+| ROLL             | 70      | 670     | 0    | 670             |
+| PITCH            | 70      | 670     | 0    | 670             |
+| YAW              | 70      | 670     | 0    | 670             |
+
+**Expo** (Exponential) adjusts the sensitivity of your stick inputs around the center position.
+
+- **Expo** = 0: Stick response is linear—movements are directly proportional.
+- **Higher Expo**: Makes the center of the stick less sensitive (smoother, easier for small corrections), while the ends remain more responsive.
+
+This helps pilots make precise, gentle movements without sacrificing full stick authority for fast maneuvers.
+
+optimized 
+
+| set              | RC Rate  | Rate RC    | Expo     | Max Vel [deg/s] |
+| ---------------- | -------- | ---------- | -------- | --------------- |
+| Basic/Acro Rates |          |            |          |                 |
+| ROLL             | 10 or 20 | 720 or 800 | 0 or 0.5 | 670             |
+| PITCH            | 10 or 20 | 720 or 800 | 0 or 0.5 | 670             |
+| YAW              | 10 or 20 | 720 or 800 | 0 or 0.5 | 670             |
+
+
+![](2025-09-04-12-38-55.png)
+
+| Throttle Limit | Throttle Limit %0 |
+| -------------- | ----------------- |
+| OFF            | 80                |
+
+for the smooth indoor flying 
+| Throttle MID | Throttle EXPO |
+| ------------ | ------------- |
+| 0.20         | 0.70          |
+
+![](2025-09-04-12-45-34.png)
+
+
 ## presents 
+
+- freestyle 
 
 ExpressLRS250Hz
 
-
+AOS Cine25 tune by Chris Rosser
 
 ## failsafe 
 

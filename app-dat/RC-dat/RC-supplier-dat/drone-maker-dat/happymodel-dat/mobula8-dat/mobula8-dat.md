@@ -85,6 +85,132 @@ Mobula8
     - Gemfan 2023 Three-blade Propellers (4CW+4CCW)
 
 
+## battery 
+
+95C 2S1P 550mAH 
+
+2S 厚17× 宽13× 长80mm 34克 
+
+XT30
+
+- ✅ 2S (7.4V LiPo / 8.7V LiHV) → Official recommended setup
+- ⚠️ 3S (11.1V LiPo / 13.05V LiHV)
+  - Technically possible but **NOT recommended** with 11000KV motors
+  - Motors will run hot, risk of burning out
+  - Frame is very light → too much power, hard to control indoors
+- ❌ 4S (14.8V LiPo / 17.4V LiHV)
+  - **Not supported**
+  - Will instantly overheat or fry ESC/motors
+
+
+## problems 
+
+### 🚁 Why Throttle Feels Jumpy on Mobula8
+
+1. **No Altitude Hold**
+   - Mobula8 + Betaflight does not have barometer/alt-hold.
+   - Throttle is fully manual: up = climb, down = descend.
+
+2. **Throttle Center**
+   - Hover point is usually not at 50%.
+   - For Mobula8 (2S), hover is often around **30–40% throttle**.
+
+3. **Tiny Quad Sensitivity**
+   - Small quads react fast to throttle changes.
+   - Even small stick movement = big altitude change.
+
+
+### 🛠️ How to Make Hovering Easier
+
+1. Enable Angle Mode
+
+Betaflight Configurator → Modes Tab.
+
+Add ANGLE mode to a switch on your Radiomaster Pocket.
+
+Angle mode keeps the quad level so you only need to manage throttle.
+
+2. Adjust Throttle Curve / Expo
+
+On Radiomaster Pocket (EdgeTX):
+
+Go to Model Setup → Inputs → Throttle.
+
+Add Expo (20–30%) or a custom curve.
+
+This makes mid-throttle less sensitive, easier to hover.
+
+3. Set Proper Motor Idle
+
+Betaflight → Configuration Tab.
+
+Motor Idle Throttle Value: ~5% (default too low/high can cause jumps).
+
+4. Practice Hover
+
+Hover indoors at waist height.
+
+Slowly adjust throttle until you find the "sweet spot".
+
+Remember: FPV drones require constant micro-adjustments.
+
+
+##  Best Preset Build for Mobula8 — Tuning Overview
+
+### 1. Base Tune (Factory Defaults)
+- Stick with the **factory PID and rates** unless you fly aggressively past stock performance.  
+  - Many experienced pilots, including reviewers, report that “the default PIDs and rates felt dialed” for smooth flight :contentReference[oaicite:0]{index=0}.
+
+---
+
+### 2. Recommended Flight Modes
+- **Angle Mode** for stable, slow, and cinematic flight.  
+- Optional: **Motor Beacon** (helps find your quad when disarmed) :contentReference[oaicite:1]{index=1}.
+
+---
+
+### 3. Essential Configuration Settings
+- **Configuration →**
+  - **Arming Angle**: Set to **180** to allow arming from uneven ground
+  - **Thrust Linearization**: Useful for smooth low-throttle response; a small boost (~20%) helps
+
+---
+
+### 4. PID Adjustments (Optional, For Smoother Flight)
+If you want even smoother, gentle flight:
+- On Mobula6 users reported:
+  - **Roll / Pitch** P: ~18–20
+  - **I**: 30
+  - **Feedforward / Damping tweaks** apply similarly well to Mobula8
+
+---
+
+### 5. Rate Settings for Smooth Control
+- Custom builds often use **higher rates** (e.g. roll & pitch ~850, yaw ~700) with expo to mellow control lines :contentReference[oaicite:5]{index=5}.  
+- Adjust RC Expo to around **0.5** for soft response at stick center (common for smooth flight profiles).
+
+---
+
+### 6. Filtering and RPM Output
+- Many users dial down **gyro/D-term filter multipliers** (e.g., from 0.9 → 0.8 → 0.7) to reduce vibration and jello :contentReference[oaicite:6]{index=6}.  
+- Stick with **DSHOT300 or 600**, add some **RPM filtering** if your ESC supports it :contentReference[oaicite:7]{index=7}.
+
+---
+
+### 7. Preset Summary (In One Table)
+
+| Feature             | Recommendation                            |
+|--------------------|--------------------------------------------|
+| PID               | Stock factory (default)                    |
+| Flight Modes       | Angle mode + Motor Beacon                  |
+| Arming Angle       | Max: 180°                                  |
+| Thrust Linear      | ~20% boost for smooth low throttle         |
+| Optional PID tweak | P ≈ 18–20, I = 30 for gentle flight        |
+| Rates              | Roll/Pitch ~850, Yaw ~700, Expo ~0.5       |
+| Filtering          | Gyro/D-term filter ~0.8 multiplier         |
+
+
+
 
 ## sorted English 
 
