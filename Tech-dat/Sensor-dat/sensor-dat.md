@@ -97,6 +97,34 @@ Here’s a list of 30 commonly used types of sensors, categorized by their typic
 - Biosensors (e.g., Glucose Sensors)
 
 
+
+## Barometer for FPV Indoor Hovering
+
+### ✅ What works
+- Barometer measures **air pressure** → estimates altitude.
+- Indoors, it can detect vertical movement and stabilize height.
+- If Mobula8 flight controller has a baro, Betaflight/INAV can enable **Altitude Hold**.
+
+### ⚠️ Limitations Indoors
+1. **Air pressure fluctuations**  
+   - Fans, air conditioning, or doors opening can confuse baro.
+2. **Ground effect**  
+   - Prop wash near the floor disturbs readings.
+3. **No position hold**  
+   - Baro only helps with *up/down*, not sideways drift.
+
+### 🚀 Better Indoor Hovering Solutions
+- **Optical Flow sensor (PMW3901)** → reduces drift.
+- **Ultrasonic / LiDAR sensor** → more accurate low-altitude hold.
+- **Angle Mode + Throttle Curve** → simplest option for smooth hover.
+
+### 👉 Conclusion
+- Barometer can help indoors, but not very stable.
+- For DJI-like hands-free hover, you need **optical flow** (indoor) or **GPS** (outdoor). - [[sensor-optical-flow-dat]]
+- Manual tuning in Angle Mode is usually best for Mobula8.
+
+
+
 ## ref 
 
 - [[sensor]]

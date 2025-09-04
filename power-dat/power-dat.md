@@ -50,6 +50,21 @@ By switching from 5V to 3.3V, you can achieve up to 34% power savings in circuit
 
 ![](2025-08-07-14-48-23.png)
 
+
+
+## Integrated PDB (Power Distribution Board)
+
+An **Integrated PDB** is a circuit board built **into a drone’s flight controller or frame** that distributes power from the battery to all electronic components, such as:
+
+- ESCs (Electronic Speed Controllers)
+- Motors
+- Flight Controller (FC)
+- Video Transmitter (VTX)
+- LEDs and other accessories
+
+
+
+
 ## ref 
 
 - [[power]]

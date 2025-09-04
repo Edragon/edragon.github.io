@@ -4,8 +4,14 @@
 
 - [[DJI-dat]] - [[fat-shark-dat]] - [[sky-zone-dat]]
 
+- [[walksnail-dat]]
+
+- GogglesX 
+- Goggles L
 
 
+
+## Features 
 
 - eye view == 155 degree 
 
@@ -18,6 +24,13 @@
 - battery 
 
 
+## mechanical Gimbal 
+
+- GM1 
+- GM2 
+- GM3 
+
+![](2025-09-04-15-39-13.png)
 
 ## Rotorama 008D Pro
 

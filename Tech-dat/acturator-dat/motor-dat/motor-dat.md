@@ -86,6 +86,46 @@ brushless
 - [[shaft-coupler-dat]]
 
 
+
+## Using Lower KV Motors on Mobula8
+
+### 1. What KV Means
+- KV = Motor RPM per volt (without load)
+- Higher KV → faster motor spin → more aggressive flight
+- Lower KV → slower spin → smoother, more controllable flight
+
+---
+
+### 2. Advantages of Lower KV Motors
+- **Smoother indoor flight:** Slower response makes hovering and gentle maneuvers easier
+- **Less vibration:** Easier to tune PID for stable flight
+- **Lower heat & power draw:** Motors and ESCs run cooler, extending life
+- **Longer flight time:** Less energy wasted on high-speed spinning
+
+---
+
+### 3. Disadvantages / Considerations
+- **Less thrust:** Mobula8 might struggle with fast flips or aggressive maneuvers
+- **Battery voltage match:** Lower KV may require slightly higher voltage (2S→3S) to maintain comparable thrust
+- **Propeller size & pitch:** Lower KV works better with slightly larger or higher-pitch props, but Mobula8 frame limits size
+
+---
+
+### 4. Practical Notes
+- Stock Mobula8 motors: **EX1103 KV11000**
+- Lower KV options: **KV9000–KV10000** for smoother indoor flight
+- ESCs must handle motor current; check your 4A–5A rating is sufficient
+
+---
+
+### 5. Summary
+- ✅ **Indoor/cinematic flying:** Lower KV preferred
+- ⚠️ **Freestyle/acro flying:** Might reduce agility
+- Adjust **PID and throttle curves** in Betaflight after motor swap
+
+
+
+
 ## ref 
 
 - [[acturator-dat]]
