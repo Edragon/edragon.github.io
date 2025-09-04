@@ -13,9 +13,15 @@ MCP1253 == Low Noise, Positive-Regulated Charge Pump
 
 
 
+## fan control 
 
+EMC2301/2/3/5
 
+Single/Multiple RPM-Based PWM Fan Controller
 
+![](2025-09-04-21-47-57.png)
+
+- TACH 1 == Tach 1 Input
 
 
 ## ref 

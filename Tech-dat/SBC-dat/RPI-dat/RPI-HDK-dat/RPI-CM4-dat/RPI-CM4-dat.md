@@ -25,6 +25,13 @@ CM4 also has GPIOs 44&45 from Bank 1 exposed for the I2C bus normally connected 
 default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 
+## memory 
+
+✅ So, whether the CM4 has on-module eMMC depends on the exact SKU you buy.
+
+- If you see "Lite" → no eMMC.
+- If not "Lite" → it has 8/16/32 GB eMMC soldered on the module.
+
 
 
 ## Specs 

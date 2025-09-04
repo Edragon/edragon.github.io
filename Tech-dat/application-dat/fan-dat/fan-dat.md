@@ -2,6 +2,15 @@
 # fan-dat
 
 
+
+## small fan control 
+
+- [[RPI-CM4-expansion-board-dat]]
+
+- [[microchip-dat]]
+
+
+
 ### Summary of PC Case Fan Types Based on Wiring
 
 - **2-Pin Fans**: Fixed-speed fans without monitoring or control features. Used in basic or low-cooling scenarios and is the most affordable option.

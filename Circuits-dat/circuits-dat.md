@@ -1,6 +1,10 @@
 
 # circuits-dat 
 
+- [[protection-dat]]
+
+
+
 - [[MMA7660-dat]] - [[SD-card-dat]]
 
 - [[mosfet-dat]] - [[logic-gate-dat]]
@@ -23,3 +27,4 @@
 
 ## ref 
 
+- [[tech-dat]]

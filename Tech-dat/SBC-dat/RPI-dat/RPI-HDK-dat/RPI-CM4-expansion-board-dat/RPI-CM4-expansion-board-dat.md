@@ -9,6 +9,41 @@
 
 ![](2023-10-27-16-53-47.png)
 
+diagram 
+
+![](2025-09-04-21-33-14.png)
+
+- USB2_HUB
+  - nEXTRST
+  - USB2_P
+  - USB2_N
+  - USBOTG
+- CM4_HighSpeed
+  - GPIO_VREF
+  - CAM_GPIO
+  - TV_OUT
+  - ID_SD (cam/display)
+  - IS_SC (cam/display)
+- PCIe-connector
+- RTC, wakeup, fan
+    - SDA
+    - SCL
+    - global_EN
+- CM4_GPIO 
+  - GPIO_VREF
+  - CAM_GPIO
+  - TV_OUT
+  - ID_SD (cam/display)
+  - IS_SC (cam/display)
+- PSUs
+
+
+- [[kicad-dat]]
+
+
+
+
+
 #### Functions 
 
 ![](2024-11-22-19-26-09.png)
@@ -79,9 +114,9 @@
 
 ## ref
 
-- [[diodes-dat]] - [[richtek-dat]]
+- [[diodes-dat]] - [[richtek-dat]] - [[RTC-dat]]
 
-- [[power-protection-dat]]
+- [[power-protection-dat]] - [[fan-dat]]
 
 - [[USB-hub-dat]] - [[USB-switch-dat]]
 

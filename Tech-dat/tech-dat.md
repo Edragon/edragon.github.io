@@ -5,6 +5,8 @@
 
 - [[board-dat]]
 
+- [[circuits-dat]]
+
 - [[chip-dat]] - [[chip-cn-dat]]
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]

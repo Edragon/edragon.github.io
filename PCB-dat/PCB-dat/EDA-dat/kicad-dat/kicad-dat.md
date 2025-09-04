@@ -11,7 +11,20 @@
 
 - [[kicad-simulation-dat]]
 
+- [[kicad-sch-dat]] - [[kicad-pcb-dat]]
 
+
+
+## files 
+
+- .kicad_pro - project file
+- .kicad_sch - schematic file
+- .kicad_pcb - PCB layout file
+- .kicad_sym - symbol library file
+- .kicad_mod - footprint library file
+- .dcm - documentation file
+- .wrl - 3D model file
+- .pretty - folder for footprint libraries
 
 
 ## Glossary

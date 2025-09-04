@@ -3,6 +3,25 @@
 
 
 
+- [[kicad-symbol-dat]]
+
+
+## shortcut 
+
+- D == datasheet 
+- G == drag 
+- M == move
+- R == rotate
+
+
+## add new hierarchy sheet
+
+- click tool icon - draw hierarchy sheets 
+
+
+
+
+
 ### add symbol 
 
 - search based on components type and footprint
@@ -32,4 +51,10 @@
 
 - add symbols and assign footprint 
   - enter "E" for properties, and assign the footprint 
+
+
+
+## ref 
+
+- [[kicad-dat]]
 
