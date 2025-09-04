@@ -14,7 +14,7 @@ Low-Power, Two-Port, High-Speed, USB2.0 (480Mbps) UART Switch
 
 
 
-- [[RPI-CM4-expansion-board]]
+- [[RPI-CM4-expansion-board-dat]]
 
 ![](2025-09-04-18-46-13.png)
 

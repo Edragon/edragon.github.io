@@ -83,7 +83,7 @@
 
 - [[power-protection-dat]]
 
-- [[USB-hub-dat]]
+- [[USB-hub-dat]] - [[USB-switch-dat]]
 
 - [[RPI-CM4-expansion-board]]
 
