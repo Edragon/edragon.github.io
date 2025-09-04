@@ -10,6 +10,7 @@
 * [Another Breathalyzer Design](http://nootropicdesign.com/projectlab/2010/09/17/arduino-breathalyzer/)
 
 
+all the sensors are 6-pin, sensor socket is 7-pin
 
 - [[MQ-2-dat]] - [[STH1042-dat]]
 
@@ -17,17 +18,32 @@
 
 - [[MQ-5-dat]] - [[STH1044-dat]]
 
+- sensor socket - [[STH1057-dat]]
+
+
+
+
 ## Gas type and models 
 
 # Selection Guide
 
 | Model | Detect Type                                                                                                                                                |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | MQ-2  | LPG, i-butane, propane, methane, alcohol, Hydrogen, smoke                                                                                                  |
 | MQ-3  | Alcohol                                                                                                                                                    |
 | MQ-5  | High sensitivity to LPG, natural gas, town gas  <br>   Small sensitivity to alcohol, smoke. <br> **Combustible gases**: Butane, propane, methane, hydrogen |
 
 
+
+- MQ-2 Smoke Gas Sensor
+- MQ-3 Alcohol Sensor
+- MQ-4 Methane Sensor
+- MQ-5 Liquefied Gas, Natural Gas, City Gas Sensor
+- MQ-6 Isobutane Propane Sensor
+- MQ-7 Carbon Monoxide Sensor Module
+- MQ-8 Hydrogen Sensor
+- MQ-9 Carbon Monoxide and Combustible Gas Sensor
+- MQ-135 Air Quality Detection Sensor
 
 
 ## Note of use 
@@ -44,6 +60,10 @@ Initiation check<br />
 
 ## ref 
 
+- [[MQ-series]] - [[sensor]]
+
+
 ### obseleted 
 
 * [Arduino Tutorial in Portuguese](http://lusorobotica.com/index.php/topic,111.0.html)
+
