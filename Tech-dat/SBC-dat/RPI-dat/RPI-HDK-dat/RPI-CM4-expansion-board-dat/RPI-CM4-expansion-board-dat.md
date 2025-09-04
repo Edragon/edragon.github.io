@@ -79,6 +79,12 @@
 
 ## ref
 
+- [[diodes-dat]]
+
+- [[power-protection-dat]]
+
+- [[USB-hub-dat]]
+
 - [[RPI-CM4-expansion-board]]
 
 - official clone - https://oshwlab.com/stateblood/compute-module-4

@@ -2,6 +2,15 @@
 # RPI-CM4-gpio-dat
 
 
+4. Stacking height either:
+
+a. 1.5mm with mating connector (clearance under CM4 0mm): DF40C-100DS-0.4v
+
+b. 3.0mm with mating connector (clearance under CM4 1.5mm): DF40HC(3.0)-100DS-0.4v
+
+
+
+
 reference extra pins - https://docs.google.com/spreadsheets/d/1m27caMlk2gofswU9ZlBD_y3y81Y_0ARSmmQgm0i1AdQ/edit?gid=0#gid=0
 
 pin definitions - [[cm4-datasheet.pdf]] - Chapter 4. Pinout
@@ -36,6 +45,68 @@ Summary
 
 
 - [[RPI-CM4]]
+
+
+| use | fun.L                   | CONN.L | CONN.R | fun.R                  | use |
+| --- | ----------------------- | ------ | ------ | ---------------------- | --- |
+|     | GND                     | 2      | 1      | GND                    |     |
+|     | Ethernet_Pair1_P        | 4      | 3      | Ethernet_Pair3_P       |     |
+|     | Ethernet_Pair1_N        | 6      | 5      | Ethernet_Pair3_N       |     |
+|     | GND                     | 8      | 7      | GND                    |     |
+|     | Ethernet_Pair0_N        | 10     | 9      | Ethernet_Pair2_N       |     |
+|     | Ethernet_Pair0_P        | 12     | 11     | Ethernet_Pair2_P       |     |
+|     | GND                     | 14     | 13     | GND                    |     |
+|     | Ethernet_SYNC_IN(1.8V)  | 16     | 15     | Ethernet_nLED3(3.3V)   |     |
+|     | Ethernet_SYNC_OUT(1.8V) | 18     | 17     | Ethernet_nLED2(3.3V)   |     |
+|     | EEPROM_nWP              | 20     | 19     | Ethernet_nLED1(3.3V)   |     |
+|     | GND                     | 22     | 21     | Pi_nLED_Activity(3.3V) |     |
+|     | GPIO26                  | 24     | 23     | GND                    |     |
+|     | GPIO19                  | 26     | 25     | GPIO21                 |     |
+|     | GPIO13                  | 28     | 27     | GPIO20                 |     |
+|     | GPIO6                   | 30     | 29     | GPIO16                 |     |
+|     | GND                     | 32     | 31     | GPIO12                 |     |
+|     | GPIO5                   | 34     | 33     | GND                    |     |
+|     | ID_SD                   | 36     | 35     | ID_SC                  |     |
+|     | GPIO11                  | 38     | 37     | GPIO7                  |     |
+|     | GPIO9                   | 40     | 39     | GPIO8                  |     |
+|     | GND                     | 42     | 41     | GPIO25                 |     |
+|     | GPIO10                  | 44     | 43     | GND                    |     |
+|     | GPIO22                  | 46     | 45     | GPIO24                 |     |
+|     | GPIO27                  | 48     | 47     | GPIO23                 |     |
+|     | GPIO17                  | 50     | 49     | GPIO18                 |     |
+|     | GND                     | 52     | 51     | GPIO15                 |     |
+|     | GPIO4                   | 54     | 53     | GND                    |     |
+|     | GPIO3                   | 56     | 55     | GPIO14                 |     |
+|     | GPIO2                   | 58     | 57     | SD_CLK                 |     |
+|     | GND                     | 60     | 59     | GND                    |     |
+|     | SD_CMD                  | 62     | 61     | SD_DAT3                |     |
+|     | SD_DAT5                 | 64     | 63     | SD_DAT0                |     |
+|     | GND                     | 66     | 65     | GND                    |     |
+|     | SD_DAT4                 | 68     | 67     | SD_DAT1                |     |
+|     | SD_DAT7                 | 70     | 69     | SD_DAT2                |     |
+|     | SD_DAT6                 | 72     | 71     | GND                    |     |
+|     | GND                     | 74     | 73     | SD_VDD_Override        |     |
+|     | Reserved                | 76     | 75     | SD_PWR_ON              |     |
+|     | GPIO_VREF               | 78     | 77     | +5V_Input              |     |
+|     | SCL0                    | 80     | 79     | +5V_Input              |     |
+|     | SDA0                    | 82     | 81     | +5V_Input              |     |
+|     | +3V3_Output             | 84     | 83     | +5V_Input              |     |
+|     | +3V3_Output             | 86     | 85     | +5V_Input              |     |
+|     | +1.8V_output            | 88     | 87     | +5V_Input              |     |
+|     | +1.8V_output            | 90     | 89     | WL_nDisable            |     |
+|     | RUN_PG                  | 92     | 91     | BL_nDisable            |     |
+|     | AnalogIP1               | 94     | 93     | nRPIBOOT               |     |
+|     | AnalogIP0               | 96     | 95     | nPI_LED_PWR            |     |
+|     | GND                     | 98     | 97     | Camera_GPIO            |     |
+|     | nEXTRST                 | 100    | 99     | Global_EN              |     |
+
+
+
+
+
+
+
+
 
 
 ## pin note 
@@ -211,7 +282,7 @@ Summary
 | 146 |        | HDMI1_TX2_P       | Output HDMI1 TX2 positive                                                                                                                                                                                                                                                      |
 | 147 |        | HDMI1_SCL         | Bidirectional HDMI1 SCL. Internally pulled up with a 1.8kΩ. 5V tolerant. (It can beconnected directly to a HDMI connector; a small amount of ESD protection is provided onthe CM4 by an on-board HDMI05-CL02F3)                                                                |
 | 148 |        | HDMI1_TX2_N       | Output HDMI1 TX2 negative                                                                                                                                                                                                                                                      |
-| 149 |  GPIO28      | HDMI1_CEC         | Input HDMI1 CEC. Internally pulled up with a 27kΩ. 5V tolerant. (It can be connecteddirectly to a HDMI connector; a small amount of ESD protection is provided on the CM4by an on-board HDMI05-CL02F3)                                                                         |
+| 149 | GPIO28 | HDMI1_CEC         | Input HDMI1 CEC. Internally pulled up with a 27kΩ. 5V tolerant. (It can be connecteddirectly to a HDMI connector; a small amount of ESD protection is provided on the CM4by an on-board HDMI05-CL02F3)                                                                         |
 | 150 |        | GND               | Ground (0V)                                                                                                                                                                                                                                                                    |
 | 151 |        | HDMI0_CEC         | Input HDMI0 CEC. Internally pulled up with a 27kΩ. 5V tolerant (It can be connecteddirectly to a HDMI connector; a small amount of ESD protection is provided on the CM4by an on-board HDMI05-CL02F3)                                                                          |
 | 152 |        | HDMI1_TX1_P       | Output HDMI1 TX1 positive                                                                                                                                                                                                                                                      |

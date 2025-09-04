@@ -1,6 +1,6 @@
 
 
-# RPI-CM-dat
+# RPI-CM4-dat
 
 - [[RPI-dat]]
 
@@ -8,31 +8,10 @@
 
 - [[README-CM-dat]]
 
-## CM3 
 
-The Raspberry Pi Compute Module is a small, powerful, and customizable single-board computer designed for embedded applications. It is based on the same architecture as the Raspberry Pi boards but in a more compact form factor. The Compute Module provides a more flexible and modular approach compared to the standard Raspberry Pi boards.
+- [[RPI-CM4-dat]] - [[RPI-CM3-dat]]
 
-Here are some key features of the Raspberry Pi Compute Module:
-
-- Broadcom BCM2835 processor with ARM Cortex-A7 CPU
-- 512MB/1GB RAM options
-- 4GB eMMC flash memory (optional)
-- 200-pin SODIMM connector for easy integration
-- HDMI and USB interfaces via breakout board
-- Camera and display interfaces
-- Support for industrial temperature range (-20°C to +70°C)
-- Support for various operating systems, including Linux and Windows 10 IoT Core
-
-To learn more about the Raspberry Pi Compute Module, you can visit the official Raspberry Pi website:
-
-- Compute Module: https://www.raspberrypi.org/products/compute-module-3-plus/
-- Compute Module Datasheet: https://datasheets.raspberrypi.org/compute/CM3Plus/CM3Plus-datasheet.pdf
-- If you are looking for code examples and projects related to the Raspberry Pi Compute Module, you can explore the Raspberry Pi GitHub repository: Raspberry Pi GitHub: https://github.com/raspberrypi
-
-
-![](2023-10-27-16-45-37.png)
-
-CM3+: https://datasheets.raspberrypi.com/cm/cm3-plus-datasheet.pdf
+- [[RPI-CM4-expansion-board-dat]]
 
 ## CM4 
 
@@ -44,6 +23,7 @@ CM4 also has GPIOs 44&45 from Bank 1 exposed for the I2C bus normally connected 
 
 
 default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
+
 
 
 

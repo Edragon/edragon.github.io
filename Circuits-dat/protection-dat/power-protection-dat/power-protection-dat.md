@@ -27,6 +27,12 @@
 
 - [[SY6280-dat]]
 
+## Input protection 2 
+
+![](2025-09-04-18-43-10.png)
+
+Ideal diode to prevent reverse polarity at the input
+
 
 ## Input protection 
 

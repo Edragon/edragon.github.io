@@ -1,8 +1,11 @@
 
 # raspberry pi dat 
 
-- [[RPI-SDK-dat]] - [[RPI-HDK-dat]]
+- [[RPI-SDK-dat]] 
 
+- [[RPI-HDK-dat]] - [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board]]
+
+- [[RPI3-dat]] - [[RPI4-dat]] - [[RPI-zero-dat]] - [[RPI-zero-w-dat]] - [[RPI-zero-2w-dat]]
 
 - official documentation - https://www.raspberrypi.com/documentation/
 

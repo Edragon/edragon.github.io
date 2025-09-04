@@ -31,6 +31,17 @@
 
 - [[ULN2803-dat]]
 
+
+- [[USB-ESD-dat]] - TPD2EUSB30, TPD2EUSB30A, TPD4EUSB30
+
+TPDxEUSB30 2-, 4-Channel ESD Protection for Super-Speed USB 3.0 Interface
+
+
+
+
+
+
+
 ## ref 
 
 - [[chip-dat]]

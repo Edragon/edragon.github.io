@@ -15,7 +15,7 @@ most same information refer to page [[MPC1119-dat]]
 | P0    | R2  | 08      | P0    | G2  | 09      | P0    | B2  | 10      |
 | P1    | R1  | 12      | P1    | G1  | 05      | P1    | B1  | 06      |
 | P1    | R2  | 19      | P1    | G2  | 13      | P1    | B2  | 20      |
-| P2    | R1  | 14      | P1    | G1  | 02      | P2    | B1  | 03      |
+| P2    | R1  | 14      | P2    | G1  | 02      | P2    | B1  | 03      |
 | P2    | R2  | 26      | P2    | G2  | 16      | P2    | B2  | 21      |
 
 subtotal == 18 pins 
@@ -37,7 +37,7 @@ subtotal == 8 pins
 | ----- | ------------ | ----------- | ------ |
 | x     | 1            | 3.3V        |        |
 | x     | 2            | 5V          |        |
-|       | 3            | 2           | P1-G1  |
+|       | 3            | 2           | P2-G1  |
 | x     | 4            | 5V          |        |
 |       | 5            | 3           | P2-B1  |
 | x     | 6            | GND         |        |
@@ -79,7 +79,7 @@ subtotal == 8 pins
 | setup  | GPIO Number | Physical Pin | usage | usage | Physical Pin | GPIO Number | setup |
 | ------ | ----------- | ------------ | ----- | ----- | ------------ | ----------- | ----- |
 |        | 3.3V        | 1            | x     | x     | 2            | 5V          |       |
-| P1-G1  | GPIO2       | 3            |       | x     | 4            | 5V          |       |
+| P2-G1  | GPIO2       | 3            |       | x     | 4            | 5V          |       |
 | P2-B1  | GPIO3       | 5            |       | x     | 6            | GND         |       |
 | StrobE | GPIO4       | 7            |       |       | 8            | GPIO14      | P2-R1 |
 |        | GND         | 9            | x     |       | 10           | GPIO15      | E     |
