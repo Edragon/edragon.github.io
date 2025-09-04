@@ -28,12 +28,12 @@
 
 - [[acturator-dat]] - [[buzzer-dat]]
 
-
+- [[ESD-dat]]
 
 
 ## other categories
 
-- [[network-dat]] - [[encryption-dat]] - [[wifi-dat]] - [[BLE-dat]]
+- [[network-dat]] - [[encryption-dat]] - [[wifi-dat]] - [[BLE-dat]] - [[ethernet-dat]]
 
 - [[power-dat]] - [[LDO-dat]]
 

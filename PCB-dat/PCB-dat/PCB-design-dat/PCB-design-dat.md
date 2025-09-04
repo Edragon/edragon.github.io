@@ -10,6 +10,9 @@
 
 - [[test-point-dat]]
 
+- [[peripherals-dat]]
+
+
 
 ## special  
 

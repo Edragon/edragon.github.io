@@ -45,6 +45,15 @@ The ESP32-P4 network model can be explained as follows:
 
 ![](2025-04-25-04-49-35.png)
 
+
+
+## SCH RPI CM4 
+
+- [[RPI-CM4-expansion-board-dat]] - [[ESD-dat]]
+
+![](2025-09-04-21-08-01.png)
+
+
 ## SCH 
 
 - [[RJ45-dat]]
