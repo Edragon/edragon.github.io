@@ -89,6 +89,21 @@
 - [[NRF52840+SX1262-dat]]
 
 
+
+## pins 
+
+|     | Lora     |      | status   |
+| --- | -------- | ---- | -------- |
+|     | SPI_MOSI |      |          |
+|     | SPI_MISO |      |          |
+|     | SPI_SCK  |      |          |
+|     | SPI_CS   | low  | active   |
+|     | BUSY     | high | busy     |
+|     | IRQ      | high | asserted |
+|     | RESET    | low  | reset    |
+
+
+
 ## ref 
 
 - [[semtech-dat]] - [[semtech]] - [[lora-dat]]

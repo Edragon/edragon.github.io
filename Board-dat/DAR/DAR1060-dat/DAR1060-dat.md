@@ -32,6 +32,8 @@ Serial port sketch uploading via USB
 
 ## BTB 
 
+blue mark pin 1 - [[12P-BTB-dat]] - [[BTB-dat]] == Version V1 
+
 ![](2025-07-17-15-53-07.png)
 
 ![](2025-07-17-15-53-56.png)

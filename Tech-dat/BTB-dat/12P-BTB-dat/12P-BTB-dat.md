@@ -12,26 +12,49 @@ https://www.electrodragon.com/w/ED-BTB
 
 ## BTB 12 pins connector 
 
-| ESP32 Pin | Function | Lora       |
-| --------- | -------- | ---------- |
-| IO14      | SPI_SCK  |            |
-| IO12      | SPI_MISO |            |
-| IO13      | SPI_MOSI |            |
-| IO15      | SPI_CS   |            |
-| IO4       | IO       | LORA_IRQ   |
-| IO27      | IO       | LORA_RESET |
+lead out pins 
 
-general wiring 
+| ESP32 Pin | ESP8266 Pin V2 | ESP8266 set | Function  |
+| --------- | -------------- | ----------- | --------- |
+| +5V       | IO0            | u           | +5V or IO |
+| IO13      | IO13           |             | SPI_MOSI  |
+| IO12      | IO12           |             | SPI_MISO  |
+| IO14      | IO14           |             | SPI_SCK   |
+| IO27      | IO16           |             | IO        |
+| IO15      | IO15           | d           | SPI_CS    |
+| IO21      | IO4            | u           | SDA       |
+| IO22      | IO5            | u           | SCL       |
 
 
-| -       | -   | -            | -       | -       | -    | -    |
-| ------- | --- | ------------ | ------- | ------- | ---- | ---- |
-| func    | 3V3 | -            | -       | -       | -    | -    |
-| ESP8266 | 3V3 | 5V / IO0 (u) | io13    | io12    | io14 | io16 |
-| conn.T  | 1   | 3            | 5       | 7       | 9    | 11   |
-| conn.B  | 2   | 4            | 6       | 8       | 10   | 12   |
-| ESP8266 | GND | io15(d)      | io4 (u) | io5 (u) | RXD  | TXD  |
-| func    | GND | -            | -       | -       | -    | -    |
+Version V2 
+
+
+| -       | -   | -       | -       | -       | -    | -    |
+| ------- | --- | ------- | ------- | ------- | ---- | ---- |
+| func    | 3V3 | -       | -       | -       | -    | -    |
+| ESP8266 | 3V3 | IO0 (u) | io13    | io12    | io14 | io16 |
+| conn.T  | 1   | 3       | 5       | 7       | 9    | 11   |
+| conn.B  | 2   | 4       | 6       | 8       | 10   | 12   |
+| ESP8266 | GND | io15(d) | io4 (u) | io5 (u) | RXD  | TXD  |
+| func    | GND | -       | -       | -       | -    | -    |
+
+
+
+Version V1 
+
+
+| -       | -   | -       | -       | -       | -    | -    |
+| ------- | --- | ------- | ------- | ------- | ---- | ---- |
+| func    | 3V3 | -       | -       | -       | -    | -    |
+| ESP8266 | 3V3 | 5V      | io13    | io12    | io14 | io16 |
+| conn.T  | 1   | 3       | 5       | 7       | 9    | 11   |
+| conn.B  | 2   | 4       | 6       | 8       | 10   | 12   |
+| ESP8266 | GND | io15(d) | io4 (u) | io5 (u) | RXD  | TXD  |
+| func    | GND | -       | -       | -       | -    | -    |
+
+
+
+
 
 - note only IO2 not lead out to the connecor
 
@@ -43,11 +66,28 @@ general wiring
 
 - [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]] - [[Lora-SDK-dat]]
 
+
+
+
 ## wiring for [[SX1262-dat]] 
 
+
+- [[SPI-dat]] - [[SX1262-dat]]
+
+| ESP38266 Pin | set | Function | Lora V2   | Lora V1  |
+| ------------ | --- | -------- | --------- | -------- |
+| IO0          | u   | IO       | **RESET** | IRQ      |
+| IO13         |     | SPI_MOSI | SPI_MOSI  | SPI_MOSI |
+| IO12         |     | SPI_MISO | SPI_MISO  | SPI_MISO |
+| IO14         |     | SPI_SCK  | SPI_SCK   | SPI_SCK  |
+| IO16         | -   | IO       | BUSY      | BUSY     |
+| IO15         | d   | IO       | IRQ       | CS       |
+| IO4          | u   | IO       | CS        | TXEN     |
+| IO5          | u   | IO       | -         | RXEN     |
+
+
+
 V2 
-
-
 
 |         | 1   | 2      | 3        | 4        | 5       | 6      |
 | ------- | --- | ------ | -------- | -------- | ------- | ------ |
