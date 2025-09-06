@@ -1,8 +1,9 @@
 
 # kicad-pcb-dat
 
-- [[kicad-footprint-dat]]
+- [[kicad-footprint-dat]] 
 
+- [[footprint-dat]] - [[DRC-dat]] - [[PCB-design-dat]]
 
 
 ## shortkey 
