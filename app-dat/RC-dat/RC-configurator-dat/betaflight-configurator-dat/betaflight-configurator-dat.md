@@ -27,6 +27,15 @@ board == CRAZY BEE F4SX1280
 - Telemetry Protocol == Automatically Included
 - Motor Protocol == DSHOT
 
+## SETUP 
+
+- THE MOST IMPORTANT STEP: CALIBRATE ACCELEROMETER
+- **NO NOT CALIBRATE ON A TABLE**, PUT THE WHOOP ON THE FLOOR, MAKE SURE IT IS LEVEL
+- AFTER CALIBRATION, TURN ON MOTORS OR HOLD BY FINGERS, RECHECK
+- IF NEEDED, REPEAT CALIBRATION PROCESS UNTIL SATISFIED
+- 
+
+
 
 ## ports 
 
@@ -38,10 +47,10 @@ board == CRAZY BEE F4SX1280
 - Accelerometer Roll Trim
 - Accelerometer Pitch Trim
 
-| roll | roll trim | pitch | pitch trim |
-| ---- | --------- | ----- | ---------- |
-| left | --        | back  | --         |
-| right | ++       | front | ++         |
+| roll  | roll trim | pitch | pitch trim |
+| ----- | --------- | ----- | ---------- |
+| left  | --        | back  | --         |
+| right | ++        | front | ++         |
 
 #### 1. Accelerometer Trim
 - General setting that shifts the "zero level" of the accelerometer.  
@@ -90,7 +99,28 @@ Beacon Tone
 RX_LOSTBeeps when TX is turned off or signal lost (repeat until TX is okay)
 RX_SETBeeps when aux channel is set for beep
 
+### other features 
 
+- air mode - consider turn this off, it may cause the whoop bump (hop round) when touch the ground
+
+- [] INFLIGHT_ACC_CAL
+- [] SERVO_TILT
+- [x] SOFT SERIAL
+- [] SONAR
+- [] LED_STRIP
+- [] DISPLAY
+- [x] OSD
+- [] CHANNEL_FORWARDING
+- [] TRANSPONDER
+- [] AIRMODE
+- [?] DYNAMIC_FILTER
+
+
+### Beeper Configuration
+
+
+
+### logs 
 
 - ESC/Motor Features == ONE SHOT 125
 
@@ -110,7 +140,7 @@ RX_SETBeeps when aux channel is set for beep
 
 - [[PID-dat]]
 
-## rateprofile settings 
+### rateprofile settings 
 
 Rates Type？ == Betaflight BETAFLIGHT
 
@@ -120,6 +150,18 @@ Rates Type？ == Betaflight BETAFLIGHT
 | ROLL             | 1.06    | 0.56    | 0.15 | 482             |
 | PITCH            | 1.06    | 0.56    | 0.15 | 482             |
 | YAW              | 1.06    | 0.56    | 0.05 | 482             |
+
+Rates Type？ == Betaflight BETAFLIGHT == cinewhoop
+
+| set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
+| ---------------- | ------- | ------- | ---- | --------------- |
+| Basic/Acro Rates |         |         |      |                 |
+| ROLL             | 0.6     | 0.6     | 0.3  | 300             |
+| PITCH            | 0.6     | 0.6     | 0.3  | 300             |
+| YAW              | 0.6     | 0.6     | 0.3  | 300             |
+
+![](2025-09-06-12-32-30.png)
+
 
 Rates Type？ == Actual
 
@@ -160,6 +202,22 @@ for the smooth indoor flying
 
 ![](2025-09-04-12-45-34.png)
 
+#### optimized version 2 for indoor flying 
+
+| Throttle Limit | Throttle Limit %0 |
+| -------------- | ----------------- |
+| SCALE          | 55                |
+| Throttle MID   | Throttle EXPO     |
+| ------------   | -------------     |
+| 0.50           | 0.50              |
+
+### filter settings 
+
+Profile dependent Filter Settings
+
+D Term Lowpass Filters
+
+
 
 ## presents 
 
@@ -182,13 +240,17 @@ AOS Cine25 tune by Chris Rosser
 ## Modes 
 
 - ARM == AUX 1 
-- angle == AUX 2 
+- angle == AUX 2 HIGH
 - Horizon == AUX 2 
 - Air Mode == AUX 1, air mode only in arco mode 
 - beeper - also in AUX 1 
 
 Arco mode is very stable, good for beginners
 
+- beeper == AUX3
+- Air Mode == AUX2 LOW
+- FPV ANGLE MIX == AUX2 HIGH
+- FLIP OVER AFTER CLASH == AUX4 HIGH
 
 ## motors 
 
@@ -261,3 +323,30 @@ Arming disable flags: BADRX ANGLE CLI ARMSWITCH
 
 
 Arming disable flags: THROTTLE CLI MSP
+
+
+
+
+
+
+## Other setup 
+
+### What is Air Mode?
+- Air Mode is a **Betaflight flight feature** that keeps the motors active and responsive even at **zero throttle**.  
+- Without Air Mode:  
+  - When you cut throttle, motors almost stop spinning.  
+  - The quad loses control authority and can "fall" or tumble.  
+- With Air Mode ON:  
+  - Motors always maintain some thrust (idle speed).  
+  - You can still control pitch, roll, and yaw when throttle stick is at minimum.  
+
+### Why Use Air Mode on Whoops?
+- ✅ Smoother hovering and stable control, even at low throttle.  
+- ✅ Prevents sudden drop when you release throttle indoors.  
+- ✅ Essential for flips, rolls, or freestyle tricks.  
+- ⚠️ For very small **brushed whoops**, it can make them bounce indoors (too sensitive).  
+
+## black box 
+
+Outboard serial logging device
+You can log to an external logging device (such as an OpenLager) by using a serial port. Configure the port on the Ports tab.

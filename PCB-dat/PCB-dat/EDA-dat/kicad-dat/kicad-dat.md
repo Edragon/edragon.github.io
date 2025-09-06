@@ -7,11 +7,13 @@
 
 - [[kicad-lib-dat]] - [[kicad-data-dat]] - [[kicad-setup-dat]]
 
-- [[kicad-symbol-dat]] - [[kicad-footprint-dat]]
+
 
 - [[kicad-simulation-dat]]
 
-- [[kicad-sch-dat]] - [[kicad-pcb-dat]]
+- [[kicad-sch-dat]] - [[kicad-symbol-dat]] 
+
+- [[kicad-pcb-dat]] - [[kicad-footprint-dat]]
 
 
 

@@ -1,6 +1,25 @@
 
 # kicad-pcb-dat
 
+- [[kicad-footprint-dat]]
+
+
+
+## shortkey 
+
+- V == place through via 
+
+- page UP/DM == change layers 
+
+
+Move without grid (free placement)
+
+Hold Ctrl while dragging → ignores grid snap (lets you place anywhere).
+
+Useful when aligning visually or placing text/graphics
+
+
+
 ## import from other template projects 
 
 pre-defined file: D:\Program Files\KiCad\8.0\share\kicad\template\Arduino_Nano
@@ -60,11 +79,21 @@ commom layers
 - 网格 1.0 mm 
 - 缩放 
 
-## Layout setup 
+## layers 
+
+### Layout setup 
 
 Simply Only use Trace x.CU, Silkscreen layer x.Silkscreen, and Edge.Cuts 
 
 ![](2025-04-29-16-22-13.png)
+
+
+
+### layer display options 
+
+- normal / dim 
+
+
 
 
 ## routing PCB
@@ -106,3 +135,21 @@ layer
 - x.Fab
 - Edge.Cuts
 ![alt text](95e854b5209f226b023ebe7765500e9.png)
+
+
+
+## mimic to eagleCAD
+
+- [[eagleCAD-dat]]
+
+
+Custom shortcut (KiCad 6/7/8)
+
+Go to Preferences → Preferences → Hotkeys → Edit Hotkeys.
+
+Search for Add Via or Place Via.
+
+You can bind it to a keyboard key (e.g. Space, Tab, Q).
+
+Unfortunately, KiCad doesn’t allow binding mouse buttons directly in hotkeys.
+

@@ -7,7 +7,7 @@
 
 ## common footprint libraries 
 
-- nettie
+- [[nettie-dat]]
 - [[test-point-dat]]
 - Connector_FFC-FPC
 - Connector_PinHeader_1.00mm

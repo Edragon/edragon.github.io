@@ -49,6 +49,18 @@ Master Multiplier:
 | Horizon     | 75       | 75         |
 | Angle Limit | 60       |            |
 
+optimized for indoor fly 
+
+| set         | Strength | Transition |
+| ----------- | -------- | ---------- |
+| Angle       | 32       |            |
+| Horizon     | 50       | 75         |
+| Angle Limit | 45       |            |
+
+- angle mode == can not full roll or flip 
+- Angle == less respone 
+- Angle Limit == less speed and angle, but inability to fly in wind
+
 ### screenshort 
 ![](2025-09-03-14-41-34.png)
 

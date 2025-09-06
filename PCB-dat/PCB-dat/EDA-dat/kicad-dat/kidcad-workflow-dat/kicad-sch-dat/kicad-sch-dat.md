@@ -12,6 +12,7 @@
 - G == drag 
 - M == move
 - R == rotate
+- ctrl+D == duplicate 
 
 
 ## add new hierarchy sheet

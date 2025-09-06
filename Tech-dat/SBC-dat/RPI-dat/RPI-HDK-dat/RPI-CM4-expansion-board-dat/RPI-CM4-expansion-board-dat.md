@@ -112,6 +112,42 @@ diagram
 ![](2023-11-30-15-55-03.png)
 
 
+## board note 
+
+- Board thickness  : 1.56mm
+- Finished copper weight inners : 1oz
+- Finished copper weight outers : 1oz
+
+- Board finish : OSP
+- Material type : FR4
+- Colour of solder resists : Green
+- Colour of silk screens : White Only on the top side
+- Board to : UL94-V0
+- TG >=130
+
+- 50R trace width 0.13mm@ 3GHz
+- 90R diff pair width 0.147 spacing 0.253mm @ 2.5GHz
+- 100R diff pair width 0.127 spacing 0.253mm @ 2GHz
+
+
+- on board SDCARD slot == NB uSDCARD only used for CM4 modules without eMMC
+
+
+
+## jumpers 
+
+- GND - nRPIBOOT == Fit jumper to disable eMMC Boot
+- GND - EEPROM_nWP == Fit jumper to disable writing to EEPROM
+- J3 - GND - BT_nDis == Fit jumper to disable Bluetooth
+
+J2 
+- A button between pins 13-14 can be used to wake up compute module from power down
+- If compute modules is awake RUN_PG will be high so the button doesn't do anything
+- If the compute module is asleep then RUN_PG will be at 0v and so pull global enable low
+
+
+
+
 ## ref
 
 - [[diodes-dat]] - [[richtek-dat]] - [[RTC-dat]]

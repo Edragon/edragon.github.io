@@ -3,13 +3,21 @@
 
 - [[kicad-symbol-dat]] - [[kicad-pcb-dat]]
 
+- [[footprint-dat]]
+
 ## custom build footprint guide 
 
 ![](2025-04-29-15-16-53.png)
 
 ## common used global library 
 
+- Connector_Pin 
+    - Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
+- Connector_PinSocket
+    - PinSocket_D1.4mm_L8.5mm_W2.8mm_FlatFork
 - Connector_pinheader 
+- Connector_Wago == 3.5mm 
+- Connector_Wuerth == 2.54 / 1.5 
 - Connector_Wire
     - SolderingWirePad_1x01_SMD_1x2mm
 - Connector_USB
@@ -22,7 +30,11 @@
     - SOIC-16_10.3x7.5mm_P1.27mm
     - SOP-8_3.9x4.9mm_P1.27mm
     - SOP-8_3.76x4.96mm_P1.27mm
+- TerminalBlock
+    - TerminalBlock_2x02_Screw_5.08mm
 
+- nettie 
+  - [[nettie-dat]]
 
 
 ## other collections 

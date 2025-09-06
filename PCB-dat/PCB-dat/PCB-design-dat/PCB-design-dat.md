@@ -51,3 +51,5 @@ ground protected crystals for [[RP2040-dat]] - [[RPI-dat]]
 ## ref 
 
 - [[PCB-dat]]
+
+- [[circuits-dat]]
