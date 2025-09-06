@@ -45,7 +45,7 @@ Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
 ## ref 
 
-- old version [[NGS1131-dat]]
+- old version [[NGS1131-dat]] - [[NGS1132-dat]]
 
 - [[NGS1141]] 
 

@@ -1,4 +1,3 @@
-
 # kicad-pcb-dat
 
 - [[kicad-footprint-dat]] 
@@ -11,6 +10,52 @@
 - V == place through via 
 
 - page UP/DM == change layers 
+- W (by default) to cycle through track width 
+
+
+
+| Action                              | Hotkey      |
+| ----------------------------------- | ----------- |
+| Rotate Counterclockwise             | R           |
+| Custom Track/Via Size               | Q           |
+| Switch to Component (F.Cu) layer    | PgUp        |
+| Switch to Copper (B.Cu) Layer       | PgDn        |
+| Pack and Move Footprints            | P           |
+| Select All Unconnected Footprints   | O           |
+| Move                                | M           |
+| Toggle Lock                         | L           |
+| Sketch Tracks                       | K           |
+| Create Corner                       | Ins         |
+| Drag Free Angle                     | G           |
+| Change Side / Flip                  | F           |
+| Attempt Finish                      | F           |
+| Properties                          | E           |
+| Drag 45 Degree Mode                 | D           |
+| Clear Net Highlighting              | ~           |
+| Increase Layer Opacity              | {           |
+| Decrease Layer Opacity              | }           |
+| Highlight Net                       | `           |
+| Decrease Via Size                   | \           |
+| Route Single Track                  | X           |
+| Switch Track Width to Next          | W           |
+| Place Through Via                   | V           |
+| Toggle Layer                        | V           |
+| Select/Expand Connection            | U           |
+| Skip                                | Tab         |
+| Get and Move Footprint              | T           |
+| Route Selected                      | Shift+X     |
+| Switch Track Width to Previous      | Shift+W     |
+| Cycle Layer Pair Presets            | Shift+V     |
+| Constrain to H, V, 45               | Shift+Space |
+| Rotate Clockwise                    | Shift+R     |
+| Position Relative To                | Shift+P     |
+| Grab Nearest Unconnected Footprints | Shift+O     |
+| Move Exactly                        | Shift+M     |
+| Attempt Finish Selected (Autoroute) | Shift+F     |
+| Route Selected From Other End       | Shift+E     |
+| Delete Full Track                   | Shift+Del   |
+| Add a Zone Cutout                   | Shift+C     |
+
 
 
 Move without grid (free placement)
@@ -18,6 +63,9 @@ Move without grid (free placement)
 Hold Ctrl while dragging → ignores grid snap (lets you place anywhere).
 
 Useful when aligning visually or placing text/graphics
+
+
+
 
 
 
