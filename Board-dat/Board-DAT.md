@@ -340,7 +340,7 @@ SIMCOM
 
 - full version [[NGS1144-dat]] - [[NGS1149-dat]] 
 
-- V2 == [[NGS1144-dat]] - [[NGS1149-dat]]  V1 == - [[NGS1131-dat]] - [[NGS1132-dat]]
+- V2 == [[NGS1141-dat]] - [[NGS1142-dat]]  V1 == - [[NGS1131-dat]] - [[NGS1132-dat]]
 
 - [[NGS1119-dat]]
 

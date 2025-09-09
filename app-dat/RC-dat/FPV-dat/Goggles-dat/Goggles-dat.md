@@ -9,6 +9,11 @@
 - GogglesX 
 - Goggles L
 
+## pair 
+
+3. **Enter auto-scan mode on goggles**  
+   - Press the **Band/Channel button** (short press or long press, depending on goggles model) to start **auto-search/scan**.  
+   - The goggles will automatically scan through all frequencies to lock onto the strongest signal.  
 
 
 ## Features 

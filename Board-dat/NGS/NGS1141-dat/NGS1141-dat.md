@@ -36,6 +36,15 @@ Update logs
 
 Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
+
+## jumper list 
+
+- GCT == GPIO4 -> GNSS_PWR_CTRL
+- GBK == GNSS_VBKP  (voltage backup)-> VDD_EXT
+- GPW == 1V8_GNSS -> VDD_EXT
+- 3/5V == logic level 3V3 or 5V
+- PEN == Power led indicator enable 
+
 ## Applications, category, tags, etc. 
 
 
@@ -44,6 +53,8 @@ Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
 
 ## ref 
+
+- [[A7670-dat]]
 
 - old version [[NGS1131-dat]] - [[NGS1132-dat]]
 
