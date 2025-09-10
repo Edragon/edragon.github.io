@@ -3,7 +3,7 @@
 
 
 
-## Setup 
+## Set charged current at 
 
 0.15V / 0.05 R = 2.4A
 

@@ -1,6 +1,27 @@
 
 # CN3768-dat
 
+
+## Features
+
+- Wide Input Voltage: 6.6V to 30V 
+- Complete Charger Controller for 12V Lead-Acid Battery 
+- Charge Current Up to 4A 
+- High PWM Switching Frequency: 315KHz 
+- Fixed Over-Charge Voltage 
+- Charging Current is programmed with a sense resistor 
+- Automatic Conditioning of Deeply Discharged Batteries 
+- Automatic Recharge 
+- Charger Status Indication 
+- Soft Start 
+- Battery Overvoltage Protection 
+- Operating Ambient Temperature －40°C to  ＋85°C 
+- Available in 8 Pin SOP Package 
+- Pb-free , RoHS Compliant,   and Halogen Free
+
+
+## info 
+
 The CN3768 charging system incorporates several automatic features to optimize battery health and longevity. 
 
 **Deeply discharged batteries** are initially trickle charged at 17.5% of the programmed constant charge current. This continues until the cell voltage reaches 75% of the regulation voltage in over-charge mode. 

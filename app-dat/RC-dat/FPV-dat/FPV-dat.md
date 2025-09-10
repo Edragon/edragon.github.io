@@ -17,7 +17,7 @@
 
 - [[battery-pack-dat]] - [[power-dat]]
 
-- [[sensor-dat]] 
+- [[sensor-dat]]  - [[motor-dat]] - [[motor-FPV-dat]]
 
 - [[FPV-accesories-dat]]
 
