@@ -1,7 +1,7 @@
 
-# RDA5981 dat 
+# RDA5981-dat 
 
-legacy wiki page - https://w.electrodragon.com/w/RDA5981
+[legacy wiki page](https://w.electrodragon.com/w/RDA5981)
 
 github sdk - https://github.com/Edragon/RDA-RDA5981
 

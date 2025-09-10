@@ -4,7 +4,7 @@
 
 - [[PCB-cleaner-dat]]
 
-- [[solder-paste-dat]]
+- [[solder-paste-dat]] - [[fab-PCBA-dat]]
 
 - [[soldering-tools-dat]]
 
@@ -41,6 +41,18 @@ T113 soldering note (English): Be sure to solder all components except T113 firs
 > Instead, use a hot air gun or soldering tool to heat the solder joints from the back side of the PCB. This approach helps protect the delicate connector and ensures a reliable solder joint.
 
 
+
+## tips 
+
+焊接注意事项
+
+1. 确保焊接的部位干燥干净无油污无氧化；
+
+2. 选择60W或更大功率的电烙铁，保证温度足够高，烙铁头可选尖头或马蹄头等以便传热和焊接（软包电池需要200W起的电烙铁，大单体需要500W起的电烙铁)
+
+3. 先加热被焊接部位 (烙铁头紧贴焊接部位几秒钟）再同时快速送锡至焊点，焊接完成；
+
+4. 注意：焊接过程烙铁不要离开金属表面，保持加热趁热焊接，锡丝尽量连续不断。
 
 ## ref 
 

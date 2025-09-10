@@ -37,14 +37,19 @@ Summary:
 **74HC245** is a high-speed **bi-directional bus buffer**, typically used for **bus-oriented communication** and interfacing between microcontrollers and peripherals.
 
 
-## SINGLE BUFFER/DRIVER WITH OPEN DRAIN OUTPUT
+## 1ch SINGLE BUFFER/DRIVER WITH OPEN DRAIN OUTPUT
 
 74LVC1G07
 
 **SN74LVC1G07** – Single Buffer/Driver with Open-Drain Output
 
+- SN74LVC1G07 Single Buffer/Driver With Open-Drain Output
 
 ![](2024-01-18-18-16-22.png)
+
+
+
+
 
 
 ## SINGLE SCHMITT-TRIGGER INVERETER
@@ -61,10 +66,7 @@ Summary:
 ## SN74LVC2G04 Dual Inverter Gate
 
 
-# buffer-dat 
 
-
-- SN74LVC1G07 Single Buffer/Driver With Open-Drain Output
 
 ## Inverter 
 
@@ -73,3 +75,9 @@ SN74LVC1G14 Single Schmitt-Trigger Inverter - https://www.ti.com/lit/ds/symlink/
 - [[74hc541-dat]] - [[74hct245-dat]]
 
 **74AHC1G125** – Single Bus Buffer Gate with **3-State Output**
+
+
+
+## ref 
+
+- [[logic-gate-dat]]

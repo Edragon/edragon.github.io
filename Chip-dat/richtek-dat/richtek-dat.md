@@ -16,6 +16,8 @@ The RT9742 integrates an over-current protection circuit, a short fold back circ
 - [[power-protection-dat]]
 
 
+
+
 ## RT9080 
 
 - RT9080 - 2μA IQ, 600mA Low-Dropout Linear Regulator

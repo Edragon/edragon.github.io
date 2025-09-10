@@ -2,11 +2,11 @@
 # PCBA-dat
 
 
-- [[soldering-dat]] - [[desoldering-dat]]
+- [[PCB-soldering-dat]] - [[desoldering-dat]]
   
 - [[spot-welding-dat]] 
 
-- [[solder-paste-dat]]
+- [[solder-paste-dat]] - [[soldering-tools-dat]]
 
 - [[PCB-dat]]
 
