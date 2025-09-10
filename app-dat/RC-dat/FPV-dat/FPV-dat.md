@@ -7,15 +7,19 @@
 
 - [[ELRS-dat]] - [[FrSky-dat]] - [[ArduPilot-dat]] - [[CRSF-dat]]
   
-- [[FPV-controller-dat]] - [[BMS-dat]] - [[camera-dat]] - [[VTX-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
+- [[BMS-dat]] - [[camera-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
 
 - [[RC-controller-dat]]
+
+- [[VTX-dat]]
 
 - [[FPV]]
 
 - [[battery-pack-dat]] - [[power-dat]]
 
 - [[sensor-dat]] 
+
+- [[FPV-accesories-dat]]
 
 ## The best overall FPV drone Starting Kit 
 

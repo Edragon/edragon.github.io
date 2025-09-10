@@ -4,6 +4,8 @@
 
 - [[DJI-dat]] - [[fat-shark-dat]] - [[sky-zone-dat]]
 
+- [[DJI-goggles-dat]]
+
 - [[walksnail-dat]]
 
 - GogglesX 

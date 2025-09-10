@@ -12,8 +12,15 @@ DM3058 / DM3058E is an economical 5.5-digit digital multimeter. It is designed f
 https://eu.rigol.com/eu/products/DM_Detail/DM3058
 
 
+## bad list 
 
+- UT116C SMD tester == very slow response speed 
+- winAPEX 118A pen-style multimeter == very slow response speed 
+- UT89XD general multimeter == can not well measure capacitors
 
+## good list 
+
+- LIYIGAO UA6013L == good for capacitor measurement 
 
 ## ref 
 

@@ -13,6 +13,7 @@ type of antennas by connector == [[antenna-SMA-dat]] - [[antenna-IPEX-dat]] - [[
 
 - [[3in1-antenna-dat]]
 
+- [[antenna-lolipop-dat]]
 
 # Antenna Comparison Table
 
