@@ -44,10 +44,11 @@ read current value on the right side
 
 ## SCH 
 
-![](2025-02-02-17-36-47.png)
+![](2025-02-02-17-36-59.png)
 
 
 ## demos 
+
 - https://twitter.com/electro_phoenix/status/1651909594900467712 
 
 

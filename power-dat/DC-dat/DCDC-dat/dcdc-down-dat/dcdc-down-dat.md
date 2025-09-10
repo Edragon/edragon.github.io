@@ -108,6 +108,11 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 ![](2025-06-01-17-39-05.png)
 
 
+## more 
+
+[ltm4691 == Low VIN, High Efficiency, Dual 2A Step-Down DC/DC µModule Regulator ](https://www.analog.com/media/en/technical-documentation/data-sheets/ltm4691.pdf)
+
+- [[analog-device-dat]]
 
 
 ## ref 

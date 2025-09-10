@@ -84,6 +84,9 @@ SOT23-5
 ![](2025-08-09-17-21-03.png)
 
 
+## others 
+
+TPS7A89 == Small, Dual, 2-A, Low-Noise (3.8 μVRMS), LDO Voltage Regulator
 
 
 

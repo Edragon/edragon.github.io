@@ -48,7 +48,7 @@
 
 - [[arduino-ide-dat]] - [[platform.io-dat]]
 
-- [[logic-dat]]
+- [[logic-dat]] - [[buffer-dat]]
 
 - [[ESP-SDK-dat]] - [[esp32-sdk-dat]] - [[esp8266-sdk-dat]]
 
@@ -114,6 +114,9 @@
 - [[matrix-display-driver-dat]]
 
 - [[epaper-dat]]
+
+
+
 
 
 ### Sensors and actuator 

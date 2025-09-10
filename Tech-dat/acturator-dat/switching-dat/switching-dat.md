@@ -14,6 +14,12 @@
 - switching chips: 
 
 
+## load switch 
+
+TPS22916CYFPR == TPS22916xx 1-V–5.5-V, 2-A, 60-mΩ Ultra-Low Leakage Load Switch
+
+
+
 ## methods - DC 
 
 ✅ Recommended Method by Use Case
@@ -28,6 +34,10 @@
 
 
 - [[motor-driver-dat]]
+
+
+
+
 
 ## ref 
 

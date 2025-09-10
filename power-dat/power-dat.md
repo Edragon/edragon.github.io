@@ -15,6 +15,9 @@
 
 - [[power-isolated-module-dat]]
 
+- [[ti-power-dat]] - [[diodes-dat]]
+
+- [[current-limit-switch-dat]]
 
 
 ## workflow
@@ -65,6 +68,10 @@ An **Integrated PDB** is a circuit board built **into a drone’s flight control
 - LEDs and other accessories
 
 
+
+## other chips 
+
+[LM3880 == LM3880 Three-Rail Simple Power Supply Sequencer](https://www.ti.com/lit/ds/symlink/lm3880.pdf?ts=1757470644079&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fja-jp%252FLM3880%252Fpart-details%252FLM3880MF-1AE%252FNOPB)
 
 
 ## ref 

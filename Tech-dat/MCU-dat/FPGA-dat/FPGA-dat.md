@@ -1,5 +1,8 @@
 # FPGA-dat
 
+XC7A200T
+
+
 
 ## codes 
 

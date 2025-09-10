@@ -1,6 +1,10 @@
 
 # analog-dat
 
+- [[analog-device-dat]]
+
+
+
 - [[digital-dat]] - [[digitizes-dat]]
 
 - [[analog-dat]]
