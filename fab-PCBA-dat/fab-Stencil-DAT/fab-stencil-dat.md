@@ -93,7 +93,15 @@ other un-common size frameless
 
 ![](2025-09-01-20-40-37.png)
 
+![](2025-09-10-13-46-30.png)
 
+
+
+double side printer for - [[NGS1141-dat]]
+
+![](2025-09-10-13-47-22.png)
+
+![](2025-09-10-13-46-56.png)
 
 
 ### other ideas 
