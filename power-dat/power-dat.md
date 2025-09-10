@@ -7,11 +7,13 @@
 
 - [[low-power-dat]]
 
-- [[battery-dat]] - [[lithium-battery-dat]]- [[BMS-dat]]
+- [[battery-dat]] - [[li-battery-dat]]- [[BMS-dat]]
 
 - [[battery-pack-dat]]
 
 - [[CONN-power-dat]]
+
+- [[power-isolated-module-dat]]
 
 
 

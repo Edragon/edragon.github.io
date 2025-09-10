@@ -6,6 +6,13 @@
 
 - [[DOD1049-dat]] - [[DOD1074-dat]]
 
+
+## PIC18 series 
+
+- PIC18F2550
+
+
+
 ## PIC16 series 
 
 PIC16F1823
@@ -17,6 +24,10 @@ PIC16F877A == The PIC16F877A is a popular 8-bit microcontroller known for its ve
 PIC12F1572
 
 - [[PIC12-dat]]
+
+
+
+
 
 ## Chips 
 

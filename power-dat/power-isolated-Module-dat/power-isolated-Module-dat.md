@@ -3,6 +3,9 @@
 
 - [[morsun-dat]] - [[B-S-1W-dat]]
 
+- MGS30505 == Isolated Module DC DC Converter 1 Output 5V 600mA 4.5V - 9V Input
+
+
 - [[HLW8032-dat]]
 
 
