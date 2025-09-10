@@ -17,7 +17,9 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[Tech-DAT]] - [[power-dat]] - [[display-dat]] - [[battery-dat]] - [[network-dat]] - [[usb-dat]] - [[interactive-dat]]
+- [[Tech-DAT]] - [[display-dat]]  - [[network-dat]] - [[usb-dat]] - [[interactive-dat]]
+
+- [[power-dat]] - [[battery-dat]]
 
 - [[app-dat]] - [[FPV-dat]]
 

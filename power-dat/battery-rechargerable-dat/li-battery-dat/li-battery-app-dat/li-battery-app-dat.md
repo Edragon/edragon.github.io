@@ -25,6 +25,12 @@ for electric-bike, electric-kart, electric-scooter, electric-skateboard, etc
 
 ![](2025-09-10-21-35-39.png)
 
+power tool battery == 3S=3P/6P/6P == 15 batteries
+
+![](2023-11-08-16-40-20.png)
+
+- [[battery-pack-dat]]
+
 
 single-unit large battery 
 
@@ -32,9 +38,11 @@ single-unit large battery
 
 ![](2025-03-04-17-42-39.png)
 
+3S10P == 30 batteries == 12V 30000 mAH 
 
+![](2025-09-10-22-03-23.png)
 
-
+3S5P == 15 batteries == 12V 15000 mAH 
 
 
 

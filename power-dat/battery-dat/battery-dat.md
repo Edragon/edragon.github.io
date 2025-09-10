@@ -4,9 +4,12 @@
 
 - [[battery-size-dat]]
 
-- [[BMS-dat]]
+- [[BMS-dat]] - [[active-BMS-dat]] - [[passive-BMS-dat]]
 
-- [[battery-rechargerable-dat]] - [[li-battery-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
+- [[battery-rechargerable-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
+
+- [[li-battery-dat]] - [[li-battery-app-dat]]
+
 
 - [[battery-pack-dat]] - [[battery-holder-dat]]
 
@@ -49,13 +52,6 @@ Both button cells provide very low discharge rate that can work for 1-3 years.
 | **Cutoff Voltage**            | Minimum safe voltage during discharge                                 | 3.0V (Li-ion)                              |
 | **Max Charge Voltage**        | Voltage at full charge                                                | 4.2V per cell (Li-ion)                     |
 | **Temperature Range (°C)**    | Safe operating/charging temperature range                             | -20°C to 60°C (discharge), 0–45°C (charge) |
-
-
-
-## Power battery 
-
-![](2023-11-08-16-40-20.png)
-
 
 
 

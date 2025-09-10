@@ -169,7 +169,52 @@ YR1035+
 
 - [[internal-resistance-meter-dat]]
 
+## unbalance Series and Parallel 
 
+You have a battery configuration: **3P + 6P + 6P in series**.  
+- **3P group** = 3 cells in parallel  
+- **6P groups** = 6 cells in parallel  
+- **Series connection** → pack is 3S  
+
+Even though some groups have more cells, the **smallest parallel group (3P)** limits the total usable capacity.  
+
+---
+
+### 1. Discharge Behavior
+- Current is **the same through all series groups**.  
+- Example: load draws 9A total:  
+  - 3P group → 9A ÷ 3 = 3A per cell (high stress)  
+  - 6P groups → 9A ÷ 6 = 1.5A per cell (lighter load)  
+- ✅ 3P cells drain faster.  
+- ❌ Pack is considered “empty” when 3P group is fully discharged, even if 6P groups still have charge.  
+
+---
+
+### 2. Charge Behavior
+- Charger applies current evenly through series groups.  
+- Example: 9A charging current:  
+  - 3P group → 9A ÷ 3 = 3A per cell  
+  - 6P groups → 9A ÷ 6 = 1.5A per cell  
+- ✅ 3P group reaches full voltage first.  
+- ❌ Charger stops when 3P group is full → extra cells in 6P groups aren’t fully used.  
+
+---
+
+### 3. Key Effects
+1. **Capacity wasted**: Extra cells in larger parallel groups are underutilized.  
+2. **Unbalanced stress**: Smaller parallel group wears out faster.  
+3. **Reduced lifespan**: Smallest group limits whole pack life and capacity.  
+
+---
+
+### 4. Best Practice
+- Ensure **all parallel groups in series have the same number of cells**.  
+- Example: redesign as **3S6P** → full 18Ah usable capacity instead of being limited to 9Ah.  
+
+---
+
+### ✅ **Summary**:  
+In series packs, **the smallest parallel group determines the usable capacity**. Extra cells in larger groups are underused, and the smaller group experiences higher current stress, reducing overall pack efficiency and lifespan.
 
 
 ## ref 

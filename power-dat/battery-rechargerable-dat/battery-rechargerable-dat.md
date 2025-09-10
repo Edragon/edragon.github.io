@@ -3,7 +3,7 @@
 
 # rechargerable-battery-dat
 
-- [[battery-protection-dat]]
+- [[battery-protection-dat]] - [[BMS-dat]]
 
 
 
