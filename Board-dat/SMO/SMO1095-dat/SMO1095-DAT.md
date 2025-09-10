@@ -21,12 +21,12 @@ https://www.electrodragon.com/product/non-contact-liquid-level-sensor/
 
 | Model             | Output Type | Voltage Range | active |
 | ----------------- | ----------- | ------------- | ------ |
-| SMO1095-V         | TTL           | 5V–24V        |        |
-| SMO1095-NPN-12V       | NPN         | 5V–12V        | low    |
-| SMO1095-PNP-12V       | PNP         | 5V–12V        | high   |
+| SMO1095-V         | TTL         | 5V–24V        |        |
+| SMO1095-NPN-12V   | NPN         | 5V–12V        | low    |
+| SMO1095-PNP-12V   | PNP         | 5V–12V        | high   |
 | SMO1095-NPN-24V   | NPN         | 24V           | low    |
 | SMO1095-PNP-24V   | PNP         | 24V           | high   |
-| SMO1095-RS485-12V     | RS485       | 5V–12V        |        |
+| SMO1095-RS485-12V | RS485       | 5V–12V        |        |
 | SMO1095-RS485-24V | RS485       | 24V           |        |
 
 - [[drive-dat]]

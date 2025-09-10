@@ -1,21 +1,26 @@
 
 # ESP1008-dat
 
-old called esp32-i2s-board
+
 
 ## Info
 
-product url - 
+[product url - Record and Playback Audio Assist Board, ESP32-Based](https://www.electrodragon.com/product/record-and-playback-audio-assist-board-esp32-based/)
 
 ### Board Map, Dimension, Pins, etc.
 
 ![](2025-04-08-17-08-20.png)
 
-- set purple pin jumpers to left for audio amplifier, and right for direct output 
-- yellow pin to set to mute the amplifier 
-- red to set left or right channels for two microphones 
-- orange leds for power indication and IO15 programmer led
-- blue pins for SD MMC high speed SD card setup IO2 
+- **purple** pin jumpers to left for audio amplifier, and right for direct output 
+- **yellow** pin to set to mute the amplifier 
+- **red** to set left or right channels for two microphones 
+- **orange** leds for power indication and IO15 programmer led
+- **blue** pins for SD MMC high speed SD card setup IO2 
+
+
+
+
+
 
 
 ## Applications, category, tags, etc. 
@@ -99,3 +104,4 @@ or
 
 - [[ESP1008]] 
 
+old called esp32-i2s-board
