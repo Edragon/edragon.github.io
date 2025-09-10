@@ -1,6 +1,10 @@
 
 # battery-protection-dat
 
+- [] over-discharge protection 
+- [] short-circuit-protection - [[SCP-protection-dat]]
+- [] over-current protection - [[OCP-protection-dat]]
+
 
 
 ## DW01 + FS8205 
@@ -24,4 +28,4 @@ OC OD mosfet control - to cut of  BAT- to GND
 
 ## ref 
 
-- [[protection-dat]]
+- [[protection-dat]] - [[power-protection-dat]]

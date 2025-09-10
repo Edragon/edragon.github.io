@@ -1,6 +1,45 @@
 
 # li-battery-app-dat
 
+### By Apps 
+
+Robot tank battery
+
+3x 3000mAH x 3.7 == 33.3 Wh / 12.5V == **2.66 Ah (2660 mAh)
+
+![](2025-03-28-15-59-52.png)
+
+![](2025-03-28-16-00-03.png)
+
+
+
+for electric-bike, electric-kart, electric-scooter, electric-skateboard, etc
+
+![](2025-04-03-18-42-45.png)
+
+- [[power-tools-dat]]
+
+3x 18650 
+
+![](2025-09-10-21-35-20.png)
+
+![](2025-09-10-21-35-39.png)
+
+
+single-unit large battery 
+
+48V / 200AH
+
+![](2025-03-04-17-42-39.png)
+
+
+
+
+
+
+
+
+
 
 ## calculata density 
 

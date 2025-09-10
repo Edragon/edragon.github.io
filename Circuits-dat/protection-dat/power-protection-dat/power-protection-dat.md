@@ -13,7 +13,7 @@
 ## Power Protection 
 
 - overload
-- short circuit - [[SCP-protection-dat]]
+- short-circuit-protection - [[SCP-protection-dat]]
 
 - over-current protection. - [[OCP-protection-dat]]
 - over-temperature protection == overheat - [[OTP-protection-dat]]

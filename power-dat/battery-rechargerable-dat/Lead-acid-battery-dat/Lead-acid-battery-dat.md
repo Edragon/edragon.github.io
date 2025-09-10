@@ -8,6 +8,10 @@
 
 - [[OPM1181-dat]]
 
+
+
+
+
 Batteries store the energy produced by your solar panels for later use.
 
 ##  Types:
@@ -45,6 +49,9 @@ Designed for deep discharge (up to 80% or more) without significantly affecting 
 ## LAB Example 
 
 ![](2025-04-21-16-25-17.png)
+
+2.6 Ah = 2.6 × 1000 = **2600 mAh**
+
 
 *   **Brand:** ANJING
 *   **Type:** Sealed Rechargeable Battery (Likely SLA/VRLA) Sealed Lead-Acid (a specific type, but often used generally)
@@ -107,4 +114,4 @@ The **ideal calculated runtime is approximately 5.3 hours**. However, due to the
 
 ## ref 
 
-- [[Lead-acid-battery]]
+- [[Lead-acid-battery]] - [[battery-rechargerable]] - [[power]]

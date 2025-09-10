@@ -5,9 +5,11 @@
 
 - [[BMS-dat]] - [[battery-charger-dat]]
 
-- [[active-battery-balancing-board-dat]] - [[battery-soldering-dat]]
+- [[battery-soldering-dat]]
 
 - high current wires == [[AWG-wires-dat]]
+
+- [[li-battery-app-dat]]
 
 ## Classification Summary 
 
@@ -18,13 +20,8 @@ By Electrode Materials Status - [[li-ion-battery-dat]] - [[lipo-battery-dat]]
 By size - [[18650-dat]] - [[26650-dat]]
 
 
-### By Apps 
 
-Robot tank battery 
 
-![](2025-03-28-15-59-52.png)
-
-![](2025-03-28-16-00-03.png)
 
 ## Classification 
 
@@ -233,13 +230,6 @@ Unprotected cells: Require careful handling but are often used in custom battery
 
 
 
-
-## large battery 
-
-48V 
-200AH
-
-![](2025-03-04-17-42-39.png)
 
 ## ref 
 
