@@ -5,7 +5,7 @@
 
 - [[Darlington-transistor-array-dat]] - [[transistor-array-dat]] - [[transistor-dat]] - [[MOSFET-dat]] - [[IGBT-dat]]
 
-- [[L9110S-dat]]
+- [[L9110-dat]]
 
 - [[L298-dat]] - [[L293-dat]]
 
