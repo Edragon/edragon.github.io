@@ -3,9 +3,16 @@
 
 - [[mosfet-dat]]
 
+
+- IRLML6402 TRPBF
+- SI2318 A
+
 ## control 
 
 - [[adc-dat]]
+
+
+
 
 ## P-mosfet 
 

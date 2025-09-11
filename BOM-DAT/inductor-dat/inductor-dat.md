@@ -17,6 +17,49 @@
 
 
 
+## footprint 
+
+- SWRH1207
+- SWRB1204
+- CDRH127
+- CDRH104R 
+- CDRH74R 
+- CDRH4D28
+- CD43
+- CD105  
+- SWPA6045
+- SWPA5040 
+- SWPA4030 
+- SWPA4020 
+- SWPA3015
+- SWPA252012
+- 1770
+- 1265
+- 1050
+- 1040
+- 0850
+- 0650
+- 0630
+- 0420
+- 0320
+
+
+
+## SMMS
+
+https://item.szlcsc.com/datasheet/SMMS1360-220M/7812824.html?spm=sc.gbn.xds.a___sc.hm.hd.ss&lcsc_vid=Q1ENBVZVQlMKAgIFEQVaVQIARQALVlFQElAPX1wAE1MxVlNTQFRXVlZWR1haUTtW
+
+
+- SMMS1360
+- SMMS1350
+
+## CYA 
+
+CYA1265-22UH == SMD,13.8x12.8mm == 14A 
+
+
+
+
 ## Choke
 
 "Choke" in electronics typically refers to an inductor, not a ferrite bead. However, its function may be similar to that of a ferrite bead. Here’s the key difference:
