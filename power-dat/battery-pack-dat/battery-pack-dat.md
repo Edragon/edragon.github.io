@@ -5,7 +5,7 @@
 
 
 
-- battery upgrade by [[battery-holder-dat]]
+- battery upgrade by [[battery-holder-dat]] - [[battery-pack-kit-dat]]
 
 - battery upgrade by [[cable-dat]] (Series And Parallel Connection Cable)
 
@@ -17,7 +17,7 @@
 
 - FB design - [[resistor-feedback-dat]]
 
-
+- soldering by [[spot-welding-dat]]
 
 ## 🔋 Common Lithium Battery Pack Combinations
 

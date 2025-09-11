@@ -1,8 +1,11 @@
 
 # vehicle-dat
 
-- [[e-bike-dat]] - [[ATV-dat]] - [[motorcycle-dat]] - [[scooter-dat]] - [[electric-kart-dat]] - [[AGV-dat]]
+- [[e-bike-dat]] - [[ATV-dat]] - [[motorcycle-dat]] - [[scooter-dat]] - [[AGV-dat]]
 
+- [[electric-dirt-bike-dat]]
+
+- [[electric-kart-dat]]
 
 ## AGV
 

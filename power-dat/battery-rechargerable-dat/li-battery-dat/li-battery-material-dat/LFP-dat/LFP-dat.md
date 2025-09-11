@@ -1,6 +1,9 @@
 
 # LFP-dat
 
+- [[blade-battery-dat]]
+
+
 == LFP == LiFePO4-Battery == Lithium Iron Phosphate == LiFePO₄
 
 LiFePO₄ (Lithium Iron Phosphate) is a type of Lithium-ion (Li-ion) battery, but it uses iron phosphate (FePO₄) as the cathode material instead of more commonly used materials like cobalt, manganese, or nickel.
@@ -131,3 +134,6 @@ The safest batteries to use, especially in terms of preventing fires or explosio
 - LiFePO4 - https://www.youtube.com/watch?v=07BS6QY3wI8&ab_channel=HighTechLab
 
 
+## ref 
+
+- [[LFP]] - [[li-battery-material]] - [[li-battery]]

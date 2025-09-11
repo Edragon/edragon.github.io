@@ -17,7 +17,7 @@ for electric-bike, electric-kart, electric-scooter, electric-skateboard, etc
 
 ![](2025-04-03-18-42-45.png)
 
-- [[power-tools-dat]]
+- [[power-tools-dat]] - [[Electric-tools-battery-dat]]
 
 3x 18650 
 

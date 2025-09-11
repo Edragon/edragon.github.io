@@ -1,7 +1,9 @@
 
 # Electric-tools-dat
 
-## electric tools battery pack 
+- [[li-battery-app-dat]]
+
+## electric tools battery pack == 5S
 
 
 - actually only 5S, each battery is 2500mAH 

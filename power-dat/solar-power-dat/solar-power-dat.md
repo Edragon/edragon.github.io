@@ -34,6 +34,13 @@ relevant - [[generator-dat]]
 
 - [[solar-charge-controller-dat]]
 
+
+
+## system diagram
+
+![](2025-09-11-12-07-50.png)
+
+
 ## ref 
 
 - [[solar-panel-dat]] - [[solar-power]]
