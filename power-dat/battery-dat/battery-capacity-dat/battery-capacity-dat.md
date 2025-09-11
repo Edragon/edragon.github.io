@@ -10,6 +10,12 @@
 
 ## battery test 
 
+| voltage | cutoff voltage | min.VOLT | ad. capacity | time | current |
+| ------- | -------------- | -------- | ------------ | ---- | ------- |
+| 12V     | 9V             | 7.5V     | 20000 mAH    | 10h  | 2A      |
+| 3.7V    | 3V             | 2.5V     |
+
+
 ### 2. Example for a Typical Li-ion 26650 (5000 mAh)
 - Discharge Current: **0.5 A** (500 mA)
 - Expected Capacity: **5000 mAh**

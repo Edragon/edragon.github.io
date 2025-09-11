@@ -11,6 +11,7 @@
     C-rate × Capacity (Ah) = Current (A)
     
 ### 🧮 Examples:
+
 - For a **500mAh (0.5Ah)** battery:
   - **1C** = 0.5A
   - **2C** = 1A

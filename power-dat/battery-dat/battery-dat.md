@@ -13,13 +13,13 @@
 
 - [[battery-pack-dat]] - [[battery-holder-dat]]
 
-- [[battery-charger-dat]] - [[2S-lithium-battery-charger-dat]]
+- [[battery-charger-dat]] - [[2S-lithium-battery-charger-dat]] - [[battery-discharge-dat]]
 
 - [[battery-alkaline-dat]] - [[battery-9V-dat]]
 
 - [[battery-soldering-dat]] - [[battery-tester-dat]]
 
-- [[battery-discharge-dat]]
+
 
 - [[spot-welding-dat]]
 
