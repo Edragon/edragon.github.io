@@ -19,6 +19,18 @@
 
 - soldering by [[spot-welding-dat]]
 
+
+## battery pack examples 
+
+- 48V 15Ah == 703 RMB - - [[32125-dat]] [[li-battery-dat]]  
+
+- 36V 9AH == 1269 RMB 
+
+- [[e-bike-dat]]
+
+
+
+
 ## 🔋 Common Lithium Battery Pack Combinations
 
 - 2S = 8.4V 
