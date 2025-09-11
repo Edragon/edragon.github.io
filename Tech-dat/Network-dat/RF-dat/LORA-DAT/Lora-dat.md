@@ -201,7 +201,7 @@ https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
 
 - [[frequency-dat]]
 
-- [[lora]] - [[USB-lora-dev]]
+- [[lora]] - [[USB-lora]]
 
 
 

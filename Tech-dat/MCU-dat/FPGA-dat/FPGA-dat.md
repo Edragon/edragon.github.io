@@ -2,6 +2,8 @@
 
 XC7A200T
 
+A3PE1500-PQG208 - ProASIC3E Field Programmable Gate Array (FPGA) IC 147 276480 208-BFQFP
+https://www.digikey.com/en/products/detail/microchip-technology/A3PE1500-PQG208/2744984
 
 
 ## codes 
