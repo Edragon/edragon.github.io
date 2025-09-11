@@ -11,6 +11,23 @@
 - [[2S-lithium-battery-charger-dat]]
 
 
+
+## common passive BMS charger 
+
+![](2025-09-11-20-17-24.png)
+
+
+
+- [[injoinic-dat]] - [[IP2326-dat]]
+
+
+![](2025-09-11-20-23-46.png)
+
+
+
+
+
+
 ## ref 
 
 - [[BMS-dat]]

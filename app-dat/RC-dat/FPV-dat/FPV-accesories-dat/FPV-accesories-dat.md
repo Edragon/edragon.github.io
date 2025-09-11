@@ -4,8 +4,15 @@
 
 ## mobula 8 
 
+- [[mobula8-dat]] - [[3d-print-dat]]
+
 - landing Gears
 https://www.printables.com/model/915475-mobula-8-landing-gears
+
+- landing legs 
+https://makerworld.com/en/models/701610-mobula-8-landing-legs#profileId-631151
+1.1*1.4*1.4cm
+
 
 - hard case 
 https://www.printables.com/model/517225-mobula-8-hard-case
@@ -21,6 +28,9 @@ https://www.printables.com/model/774692-mobula-7-8-hawkeye-thumb-camera-mount
 
 Hawkeye thumb 4k camera
 
+RunCam Thumb Pro
+
+https://www.reddit.com/r/TinyWhoop/comments/11t4yw6/so_impressed_by_runcam_thumb_pro_4k30_on_my/
 
 ## lollipop antenna mount 
 

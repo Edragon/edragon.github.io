@@ -5,6 +5,9 @@
 
 - [[battery-pack-dat]] - [[flight-controller-dat]] - [[PID-dat]]
 
+- [[FPV-accesories-dat]]
+
+- [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]]
 
 
 ## pre-note 
@@ -14,6 +17,17 @@ REMOVE PROPS before first flight !!
 install propeller - [[propeller-dat]] - [[motor-dat]]
 
 
+
+## tuning 
+
+- [total default stock tuning, running 1S? ](https://www.reddit.com/r/TinyWhoop/comments/146r0v6/happymodel_mobula_8_first_test_flights/)
+
+
+## hack 
+
+battery holder to strap 
+
+![](2025-09-11-21-33-48.png)
 
 ## how to use 
 
@@ -31,7 +45,9 @@ config by [[USB-dat]] USB port
 - [[radiomaster-dat]] how to bind with it
 
 
-## correct setup to match [[radiomaster-dat]]
+## betaflight correct setup to match [[radiomaster-dat]]
+
+- [[betaflight-configurator-dat]]
 
 ### configuration
 
@@ -473,4 +489,4 @@ Dnr: 3d Dnr
 
 ## ref 
 
-- [[happymodel-dat]]
+- [[happymodel-dat]] - [[mobula8]]

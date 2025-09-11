@@ -52,6 +52,15 @@
 | **Long Range**  | 6–7 inch                 | 400–800g+       | Large props, GPS, big batteries       | Long-distance cruising, mountains     | iFlight Chimera7, Flywoo Explorer LR |
 | **X-Class**     | 10–13 inch+              | >2kg            | Huge, heavy lift, pro cameras         | Professional filming, commercial work | Shendrones Siccario, custom builds   |
 
+- **Whoop**:  
+  - Smallest class, typically **65mm–85mm** frames.  
+  - Ducted props (prop guards).  
+  - Prop size: ~31–40 mm.  
+- **Micro (2"–4")**:  
+  - Larger, **90mm–150mm** frames.  
+  - Open props (no ducts, usually).  
+  - Prop size: **2"–4"**.  
+
 
 
 ## parts of the FPV drones

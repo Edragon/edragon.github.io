@@ -1,6 +1,8 @@
 
 # 3d-print-dat.md
 
+
+
 ## common 3d printer websites 
 
 
@@ -18,3 +20,12 @@
 
 
 ## drone claw
+
+
+## common errors 
+
+- 存在多壳体结构
+- 存在反向三角面
+- 存在坏边
+- 不存在孔洞缺陷
+- 不存在薄壁结构

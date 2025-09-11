@@ -19,7 +19,7 @@
 
 - [[Tech-DAT]] - [[display-dat]]  - [[network-dat]] - [[usb-dat]] - [[interactive-dat]]
 
-- [[power-dat]] - [[battery-dat]]
+- [[power-dat]] - [[battery-dat]] - [[BMS-dat]]
 
 - [[app-dat]] - [[FPV-dat]]
 

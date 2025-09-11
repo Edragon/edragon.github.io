@@ -5,6 +5,10 @@
 
 - [[radiomaster-dat]]
 
+- [[betaflight-presents-dat]] - [[PID-dat]]
+
+
+
 
 ## CLI 
 
@@ -136,96 +140,6 @@ RX_SETBeeps when aux channel is set for beep
 
 
 
-## PID
-
-- [[PID-dat]]
-
-### rateprofile settings 
-
-Rates Type？ == Betaflight BETAFLIGHT
-
-| set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
-| ---------------- | ------- | ------- | ---- | --------------- |
-| Basic/Acro Rates |         |         |      |                 |
-| ROLL             | 1.06    | 0.56    | 0.15 | 482             |
-| PITCH            | 1.06    | 0.56    | 0.15 | 482             |
-| YAW              | 1.06    | 0.56    | 0.05 | 482             |
-
-Rates Type？ == Betaflight BETAFLIGHT == cinewhoop
-
-| set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
-| ---------------- | ------- | ------- | ---- | --------------- |
-| Basic/Acro Rates |         |         |      |                 |
-| ROLL             | 0.6     | 0.6     | 0.3  | 300             |
-| PITCH            | 0.6     | 0.6     | 0.3  | 300             |
-| YAW              | 0.6     | 0.6     | 0.3  | 300             |
-
-![](2025-09-06-12-32-30.png)
-
-
-Rates Type？ == Actual
-
-| set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
-| ---------------- | ------- | ------- | ---- | --------------- |
-| Basic/Acro Rates |         |         |      |                 |
-| ROLL             | 70      | 670     | 0    | 670             |
-| PITCH            | 70      | 670     | 0    | 670             |
-| YAW              | 70      | 670     | 0    | 670             |
-
-**Expo** (Exponential) adjusts the sensitivity of your stick inputs around the center position.
-
-- **Expo** = 0: Stick response is linear—movements are directly proportional.
-- **Higher Expo**: Makes the center of the stick less sensitive (smoother, easier for small corrections), while the ends remain more responsive.
-
-This helps pilots make precise, gentle movements without sacrificing full stick authority for fast maneuvers.
-
-optimized 
-
-| set              | RC Rate  | Rate RC    | Expo     | Max Vel [deg/s] |
-| ---------------- | -------- | ---------- | -------- | --------------- |
-| Basic/Acro Rates |          |            |          |                 |
-| ROLL             | 10 or 20 | 720 or 800 | 0 or 0.5 | 670             |
-| PITCH            | 10 or 20 | 720 or 800 | 0 or 0.5 | 670             |
-| YAW              | 10 or 20 | 720 or 800 | 0 or 0.5 | 670             |
-
-
-![](2025-09-04-12-38-55.png)
-
-| Throttle Limit | Throttle Limit %0 |
-| -------------- | ----------------- |
-| OFF            | 80                |
-
-for the smooth indoor flying 
-| Throttle MID | Throttle EXPO |
-| ------------ | ------------- |
-| 0.20         | 0.70          |
-
-![](2025-09-04-12-45-34.png)
-
-#### optimized version 2 for indoor flying 
-
-| Throttle Limit | Throttle Limit %0 |
-| -------------- | ----------------- |
-| SCALE          | 55                |
-| Throttle MID   | Throttle EXPO     |
-| ------------   | -------------     |
-| 0.50           | 0.50              |
-
-### filter settings 
-
-Profile dependent Filter Settings
-
-D Term Lowpass Filters
-
-
-
-## presents 
-
-- freestyle 
-
-ExpressLRS250Hz
-
-AOS Cine25 tune by Chris Rosser
 
 ## failsafe 
 
@@ -290,7 +204,7 @@ Cautlon: Selecting a motor output protocolthat is notsupported by your ESCs can 
 always make sure to remove the props before connectlng a battery for the first tlme after changlng the motor output protocol.
 
 
-o the accelerometer Is enabled but It Is not callbrated.
+![../../../../Tech-dat/PID-dat/2025-09-04-12-45-34.png](../../../../Tech-dat/PID-dat/2025-09-04-12-45-34.png)ed but It Is not callbrated.
 If you plan to use the accelerometer, please follow the instructions for 'Calibrate Accelerometer' on the 'Setup' tab. If any function that requires the accelerometer (auto
 level modes, GPS rescue, .) is enabled, arming of the craft will be disabled until the accelerometer has been calibrated.
 If you are not planning on using the accelerometer it is recommended that you disable it in 'System configuration' on the 'Configuration' tab.

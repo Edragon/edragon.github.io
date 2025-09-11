@@ -12,6 +12,7 @@
 
 - [[TP4083-dat]]
 
+- [[TP5100-dat]] == 20V input, BAT : -8.4V ~ 20V
 
 http://www.tpwic.com/
 

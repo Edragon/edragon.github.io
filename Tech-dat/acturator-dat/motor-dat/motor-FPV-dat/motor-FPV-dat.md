@@ -13,6 +13,14 @@
 - 4x 1504 3800KV a set (3 mounting holes)
 - 4x 1504 3800KV + insurance a set (3 mounting holes)
 
+
+## how to prevent motor burning
+
+- Don’t run **96 kHz** unless you’re sure your ESC can handle it.  
+- Set **Motor Idle Throttle ~6%** to prevent stalling.  
+- Keep an eye on **motor temperature after indoor flights** (touch test). Warm = ok, too hot to touch = dangerous.  
+- Avoid flying with props bent / rubbing ducts indoors (adds load).  
+
 ## What Does 1400KV Mean in an FPV Motor?
 
 In FPV drones, **KV** is a motor specification that indicates the motor’s speed constant.  
