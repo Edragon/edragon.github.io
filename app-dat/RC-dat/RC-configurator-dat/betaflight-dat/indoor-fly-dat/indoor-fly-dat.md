@@ -2,7 +2,33 @@
 # indoor-fly-dat
 
 
-## presents-test for indoor-fly 
+## setup test 
+
+### filters 
+
+- [] [[Chris-Rosser-filter-AOS-cine20-dat]]
+
+### tune 
+
+- [] [[mobula8-presents-dat]] == default not for indoor fly 
+
+- [] [[uav-tech-tune-cinewhoop-dat]] 
+
+- [] [[Chris-Rosser-filter-AOS-cine20-dat]]
+
+- [] [[reddit-cine-present]]
+
+### rates 
+
+- [] [[uav-tech-rates-dat]]
+
+- [] [[Chris-Rosser-rates-AOS-dat]]
+
+### RC_LINK
+
+- [] [[bf-presents-rc_link-dat]]
+
+
 
 
 

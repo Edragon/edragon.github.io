@@ -23,6 +23,7 @@
 
 board == CRAZY BEE F4SX1280
 
+
 ## flash 
 
 - CRAZYBEEF4SX1280 - [[CRAZYBEEF4SX1280-dat]]

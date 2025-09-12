@@ -5,13 +5,21 @@
 
 - [[Chris-Rosser-presents-dat]] - [[UAV-tech-presents-dat]]
 
-- [[FPV-dat]]
+- [[FPV-dat]] 
 
-## filters 
+## FPV purpose 
+
+- [[indoor-fly-dat]]
+
+## setup 
+
+### filters 
 
 - [[Chris-Rosser-filter-AOS-cine20-dat]]
 
-## tune 
+### tune 
+
+- [[mobula8-presents-dat]]
 
 - [[uav-tech-tune-cinewhoop-dat]] 
 
@@ -19,13 +27,13 @@
 
 - [[reddit-cine-present]]
 
-## rates 
+### rates 
 
 - [[uav-tech-rates-dat]]
 
 - [[Chris-Rosser-rates-AOS-dat]]
 
-## RC_LINK
+### RC_LINK
 
 - [[bf-presents-rc_link-dat]]
 

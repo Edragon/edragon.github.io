@@ -39,6 +39,14 @@
 
 - [[CONN-dat]]
 
+## popular whoops 
+
+- [[aquila16]]
+
+- indoor build 65mm - [[mobula6-dat]] - meteor65 
+
+
+
 ## FPV by purposes 
 
 - [[indoor-fly-dat]]
