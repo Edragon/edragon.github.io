@@ -126,6 +126,12 @@ alternatives: SS14 / SS34 / SS54
 
 
 
+## other more diodes 
+
+- High Power Switching and Attenuation Silicon PIN Diodes - The **MMP7060** - 69 Series of PIN diodes are fast switching, low series resistance, low capacitance PIN diode chips.
+
+
+
 ## ref 
 
 - [[BOM-dat]] - [[mosfet-dat]]

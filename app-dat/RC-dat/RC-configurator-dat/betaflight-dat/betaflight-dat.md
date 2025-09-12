@@ -12,6 +12,20 @@
 - [[indoor-fly-dat]]
 
 
+## betaflight supports 
+
+| model                   | supported | from               |
+| ----------------------- | --------- | ------------------ |
+| [[Mobula8-dat]] / 7 / 6 | yes       | [[happymodel-dat]] |
+| [[aquila16-dat]]        | no        | [[betaFPV-dat]]    |
+| [[Meteor65-Pro-dat]]    | yes       | [[betaFPV-dat]]    |
+
+
+
+
+
+
+
 ## CLI 
 
     # version

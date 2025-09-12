@@ -26,3 +26,5 @@ common width
 ## ref 
 
 - [[cable-dat]]
+
+- [[ribbon-cable]] - [[cable]]
