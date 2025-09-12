@@ -21,6 +21,8 @@
 
 - [[FPV-accesories-dat]]
 
+- [[betaflight-dat]] - [[indoor-fly-dat]]
+
 ## build
 
 | parts                     | cost RMB | cost USD/7      | eg. common select |
