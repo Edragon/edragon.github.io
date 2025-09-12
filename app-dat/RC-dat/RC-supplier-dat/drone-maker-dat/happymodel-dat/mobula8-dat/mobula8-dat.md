@@ -5,9 +5,11 @@
 
 - [[battery-pack-dat]] - [[flight-controller-dat]] - [[PID-dat]]
 
+- [[betaflight-presents-dat]]
+
 - [[FPV-accesories-dat]]
 
-- [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]]
+- [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]] - [[motor-FPV-dat]]
 
 
 ## pre-note 
@@ -102,6 +104,14 @@ Mobula8
     - EX1103 KV11000 Brushless Motor
     - Gemfan 2023 Three-blade Propellers (4CW+4CCW)
 
+
+
+- **Frame wheelbase:** 85 mm (motor-to-motor diagonal)
+- **Typical prop size:** 2 inches
+- **Reason:**  
+  - 65 mm whoops → ~31 mm props (≈1.2 inch)  
+  - 75 mm whoops → ~40 mm props (≈1.6 inch)  
+  - 85 mm whoops → ~48 mm props (≈2 inch)  
 
 ## battery 
 

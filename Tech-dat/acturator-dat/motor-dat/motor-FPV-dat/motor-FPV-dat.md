@@ -14,6 +14,8 @@
 - 4x 1504 3800KV + insurance a set (3 mounting holes)
 
 
+- [Benefits [and down sides] of HIGHER PWM Frequency! 🙀💪](https://www.youtube.com/watch?v=v3806Incpvo)
+
 ## how to prevent motor burning
 
 - Don’t run **96 kHz** unless you’re sure your ESC can handle it.  
