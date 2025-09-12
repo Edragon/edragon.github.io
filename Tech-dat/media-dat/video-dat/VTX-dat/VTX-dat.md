@@ -3,6 +3,10 @@
 
 The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly transmitting camera images to FPV goggles.
 
+- [[FPV-dat]]
+
+
+
 ## integrated solutions
 
 - [[DJI-air-unit-dat]] - [[DJI-O4-dat]] == 100 usd - [[DJI-O3-dat]] 
@@ -23,6 +27,20 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 - [[video-transmission-dat]]
 
 - [[goggles-dat]]
+
+
+## caddx 
+
+- [[mobula8-dat]] == Caddx ANT 1200TVL == 4:3
+
+![](2025-09-12-12-29-58.png)
+
+![](2025-09-12-12-30-18.png)
+
+- [[caddx-dat]]
+
+- Caddx ANT 1200TVL
+- caddx nano 
 
 
 

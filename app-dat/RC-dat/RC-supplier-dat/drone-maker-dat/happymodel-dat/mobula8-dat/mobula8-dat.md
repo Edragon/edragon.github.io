@@ -16,7 +16,9 @@ REMOVE PROPS before first flight !!
 
 install propeller - [[propeller-dat]] - [[motor-dat]]
 
+## dimension of the frame 
 
+![](2025-09-12-12-31-55.png)
 
 ## tuning 
 
@@ -38,7 +40,7 @@ config by [[USB-dat]] USB port
 
 ![](2025-09-02-13-10-40.png)
 
-- [[betaflight-configurator-dat]]
+- [[betaflight-configurator-dat/betaflight-dat]]
 
 [user manual](https://www.happymodel.cn/wp-content/uploads/2023/04/Manual-for-Mobula8-SPI-ELRS-1-2S-85mm-Micro-FPV-whoop-drone.pdf) 
 
@@ -47,7 +49,7 @@ config by [[USB-dat]] USB port
 
 ## betaflight correct setup to match [[radiomaster-dat]]
 
-- [[betaflight-configurator-dat]]
+- [[betaflight-configurator-dat/betaflight-dat]]
 
 ### configuration
 
@@ -89,9 +91,9 @@ Mobula8
 - 400mw VTX, 1103 Motor, ELRS
 - **Packing List & Product Parameters:**
     - Mobula8 Frame * 1, Brand Name: Happymodel
-    - EX1103 KV11000 Brushless Motor, Item Name: Mobula8 1-2S 85mm
+    - EX1103 KV11000 Brushless Motor, Item Name: Mobula8 1-2S 85mm - [[EX1103-dat]]
     - Gemfan 2023 Three-blade Propellers (4CW+4CCW), Wheelbase: 85mm
-    - Caddx ANT 1200TVL Camera, Size: 120mm*120mm*50mm
+    - Caddx ANT 1200TVL Camera, Size: 120mm*120mm*50mm - [[VTX-dat]]
     - Onboard 5.8G OpenVTX 0mw~400mw VTX * 1, Weight: 43g
     - Canopy for 14mmx14mm camera * 1
     - Screwdriver * 1

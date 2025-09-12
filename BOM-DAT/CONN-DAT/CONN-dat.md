@@ -47,6 +47,10 @@
 - [[footprint-dat]]
 
 
+## CONN by purpose 
+
+- [[XT30-dat]] - [[XT60-dat]] - [[PH2.0-dat]] - T-插 - [[JST-dat]]
+
 
 
 
@@ -98,8 +102,6 @@ solar extension cable
 ## manu code 
 
 - DEALON DW127R-11-08-34
-
-
 
 
 

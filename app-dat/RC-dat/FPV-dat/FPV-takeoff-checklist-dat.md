@@ -34,7 +34,7 @@ Configuration → **Minimum Command / Motor Idle**. - Set to ~5–10% (~1050–1
 - [[RC-controller-dat]]
 
 
-- [[betaflight-configurator-dat]]
+- [[betaflight-configurator-dat/betaflight-dat]]
 
 - [[mobula8-dat]]
 

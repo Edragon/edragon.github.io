@@ -45,4 +45,4 @@ AOS Cine25 tune by Chris Rosser
 
 ## ref 
 
-- [[betaflight-configurator-dat]]
+- [[betaflight-configurator-dat/betaflight-dat]]

@@ -13,7 +13,7 @@
 
 - [[VTX-dat]]
 
-- [[FPV]]
+- [[FPV]] - [[DJI-dat]]
 
 - [[battery-pack-dat]] - [[power-dat]]
 
@@ -21,18 +21,105 @@
 
 - [[FPV-accesories-dat]]
 
+## build
+
+| parts                     | cost RMB | cost USD/7      | eg. common select |
+| ------------------------- | -------- | --------------- | ----------------- |
+| [[frame-dat]]             | 22.5     | 3               | [[mobula8-dat]]   |
+| [[flight-controller-dat]] | 383      | 55              | [[X12-dat]]       |
+| [[motor-FPV-dat]] x4      | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
+| [[propeller-dat]] x4      | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
+| [[VTX-dat]]               | 81       | 11.6            | Caddx ANT 1200TVL |
+| [[XT30-dat]] cable        | 4        | 0.6             |                   |
+| [[battery-dat]]  x2       | 55       | 7.9 x2 = 15.8   |                   |
+| [[mobula8-dat]]           |          | 100             |                   |
+
+
+- [[CONN-dat]]
+
+## FPV by purposes 
+
+- [[indoor-fly-dat]]
+
+- Tinywhoop = indoor fun.
+- Cinewhoop = cinematic close shots.
+- Racing = pure speed.
+- Freestyle = tricks & acro.
+- Long-range = exploration.
+- Heavy-lift = pro filmmaking.
+
+### 1. Tiny Whoop
+
+- [[tinywhoop-dat]]
+
+- **Size:** 65–85 mm wheelbase, 1S battery
+- **Purpose:** Indoor flying, safe around people/pets, practice
+- **Features:** Ducted props, very light, low risk
+
+### 2. Cinewhoop
+
+- [[cinewhoop-dat]]
+
+- **Size:** 85–150 mm wheelbase, 2.5–3.5 inch props
+- **Purpose:** Smooth, stable cinematic footage (close proximity / indoors)
+- **Features:** Ducted props for safety, carries small action camera (GoPro, Naked GoPro, Insta360)
+
+### 3. Racing Drones
+
+- [[racing-drones-dat]]
+
+- **Size:** 3–5 inch props (120–250 mm wheelbase)
+- **Purpose:** Maximum speed and agility for competition
+- **Features:** Lightweight, optimized for acceleration, high thrust-to-weight ratio
+
+### 4. Freestyle Quads
+
+- [[freestyle-drones-dat]]
+
+- **Size:** Typically 5 inch props
+- **Purpose:** Acrobatics, tricks, expressive flying outdoors
+- **Features:** Durable frame, strong motors, smooth response
+
+### 5. Long-Range FPV
+
+- [[long-range-drones-dat]]
+
+- **Size:** 4–7 inch props
+- **Purpose:** Extended range flights (kilometers away), exploration
+- **Features:** Larger battery, GPS, efficient motors, sometimes wings
+
+### 6. Micro / Toothpick
+
+- [[toothpick-drones-dat]]
+
+- **Size:** 2.5–4 inch props, very light frame
+- **Purpose:** Outdoor fun flying, mix of agility and portability
+- **Features:** No ducts, higher power-to-weight than Tiny Whoop, still safe-ish
+
+### 7. Heavy-Lift / Cinematic
+
+- [[heavy-lift-drones-dat]]
+
+- **Size:** 6–12 inch props (custom builds)
+- **Purpose:** Professional film-making, carrying big cinema cameras (RED, Blackmagic)
+- **Features:** Very stable, high payload, expensive
+
+
+
 ## The best overall FPV drone Starting Kit 
 
 - [[RC-dat]] == [[radiomaster-dat]] = 50 USD
 
 - [[goggles-dat]] == [[walksnail-dat]] = 180 USD
 
-- [[drone-maker-dat]] == [[mobula8-dat]] == [[happymodel-dat]] == 120 USD
+- [[drone-maker-dat]] == [[mobula8-dat]] == [[happymodel-dat]] == 100 USD
+
+- [[betaFPV-dat]] - [[Aquila16-dat]]
 
 
-## configuration
+## RC configurator 
 
-- [[betaflight-configurator-dat]] - [[BLHeli-Configurator-dat]]
+- [[betaflight-dat]] - [[BLHeli-Configurator-dat]]
 
 - [[FPV-takeoff-checklist-dat]]
 
