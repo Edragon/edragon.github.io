@@ -25,16 +25,16 @@
 
 ## build
 
-| parts                     | cost RMB | cost USD/7      | eg. common select |
-| ------------------------- | -------- | --------------- | ----------------- |
-| [[frame-dat]]             | 22.5     | 3               | [[mobula8-dat]]   |
-| [[flight-controller-dat]] | 383      | 55              | [[X12-dat]]       |
-| [[motor-FPV-dat]] x4      | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
-| [[propeller-dat]] x4      | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
-| [[VTX-dat]]               | 81       | 11.6            | Caddx ANT 1200TVL |
-| [[XT30-dat]] cable        | 4        | 0.6             |                   |
-| [[battery-dat]]  x2       | 55       | 7.9 x2 = 15.8   |                   |
-| [[mobula8-dat]]           |          | 100             |                   |
+| indx | parts                     | cost RMB | cost USD/7      | eg. common select |
+| ---- | ------------------------- | -------- | --------------- | ----------------- |
+| 1    | [[frame-dat]]             | 22.5     | 3               | [[mobula8-dat]]   |
+| 2    | [[flight-controller-dat]] | 383      | 55              | [[X12-dat]]       |
+| 3    | [[motor-FPV-dat]] x4      | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
+| 4    | [[propeller-dat]] x4      | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
+| 5    | [[VTX-dat]]               | 81       | 11.6            | Caddx ANT 1200TVL |
+|      | [[XT30-dat]] cable        | 4        | 0.6             |                   |
+|      | [[battery-dat]]  x2       | 55       | 7.9 x2 = 15.8   |                   |
+|      | [[mobula8-dat]]           |          | 100             |                   |
 
 
 - [[CONN-dat]]

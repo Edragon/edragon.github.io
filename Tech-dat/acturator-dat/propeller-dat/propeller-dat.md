@@ -3,6 +3,13 @@
 
 
 
+## propeller options 
+
+![](2025-09-13-13-55-01.png)
+
+![](2025-09-13-13-56-08.png)
+
+
 ## the number of the propeller 
 
 # Propeller Blade Count vs Flight Stability in FPV Drones

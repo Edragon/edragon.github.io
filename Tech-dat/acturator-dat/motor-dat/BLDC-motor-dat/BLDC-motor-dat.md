@@ -1,6 +1,29 @@
 
 # BLDC-motor-dat
 
+- [[ESC-dat]] - [[motor-driver-dat]]
+
+## specs 
+
+- sensored / sensorless
+- outrunner / inrunner
+- brushless / brushed
+
+- Advanced ESCs use **Field-Oriented Control (FOC)** or **sensored feedback** for smooth torque at low RPM, perfect for crawlers.  
+
+
+## types 
+
+- 3525
+- 3650
+- 3660
+- 4274
+
+
+
+
+## specs 
+
 | Feature        | Details                                       |
 | -------------- | --------------------------------------------- |
 | **Power**      | 500W – 3000W+ (easily scalable)               |
@@ -58,8 +81,10 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 - **Industrial Automation:** Used in robotics, CNC machines, and power tools.  
 - **Home Appliances:** Found in inverter air conditioners and high-end fans.  
 
-- [[hall-sensor-dat]]
+- [[sensor-hall-dat]]
 
 ## ref 
 
-- [[motor-dat]]
+- [[motor-dat]] 
+
+- [[BLDC]]

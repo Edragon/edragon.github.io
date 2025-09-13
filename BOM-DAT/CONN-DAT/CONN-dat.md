@@ -30,6 +30,9 @@
 
 - [[FPC-dat]]
 
+
+
+
 ## standard connector 
 
 - [[mini-pcie-dat]] == 52P
@@ -49,9 +52,12 @@
 
 ## CONN by purpose 
 
+
+### power connector 
+
 - [[XT30-dat]] - [[XT60-dat]] - [[PH2.0-dat]] - T-插 - [[JST-dat]]
 
-
+- [[BT2.0-dat]] == BT2.0 (BetaFPV’s low-resistance connector, better than PH2.0 for higher current draw) - [[aquila16-dat]]
 
 
 ## unlisted 

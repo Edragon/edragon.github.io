@@ -13,6 +13,9 @@ https://ardupilot.org/rover/index.html
 - ARK FPV Flight Controller Overview == STM32H743IIK6 MCU
 - CUAV V5 Plus Overview == STM32F765
 
+- [[motor-rover-dat]]
+
+
 
 ## boards 
 
@@ -79,5 +82,7 @@ subtotal == $77
 ## ref 
 
 - [[dc-motor-dat]] - [[motor-driver-dat]] - [[motor-dat]] - [[servo-dat]]
+
+- [[motor-rover-dat]]
 
 - [[rc-car]] - [[maker]]

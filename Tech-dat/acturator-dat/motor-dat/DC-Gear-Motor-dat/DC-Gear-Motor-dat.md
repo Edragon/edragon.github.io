@@ -1,6 +1,10 @@
 
 # DC-Gear-Motor-dat
 
+- [[BLDC-motor-dat]] + [[gearbox-dat]]
+
+
+
 ## planetary gear motor
 
 ## Planetary Gear Motor vs. Normal Reduction Gear Motor Comparison
