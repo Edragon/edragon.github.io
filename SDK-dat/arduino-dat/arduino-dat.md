@@ -12,6 +12,16 @@
 - [[arduino-app-dat]]
 
 
+## repo 
+
+- https://github.com/Edragon/Arduino-ESP32
+- https://github.com/Edragon/arduino-esp8266
+- https://github.com/Edragon/arduino-main2
+- https://github.com/Edragon/Arduino-main
+
+
+
+
 
 ## arduino DEV Boards 
 
