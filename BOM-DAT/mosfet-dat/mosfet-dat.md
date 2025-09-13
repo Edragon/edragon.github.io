@@ -53,7 +53,7 @@ common brand: [[Vishay-dat]]
 | SI2300            |      | [[Vishay-dat]]   | 2.8A  | SOT-23          | P       | 20V     |
 | SI2301            |      | [[Vishay-dat]]   | 2.8A  | SOT-23          | P       | 20V     |
 | SI2302            |      | [[Vishay-dat]]   | 3.1A  | SOT-23          | N       | 20V     |
-| SI2304            |      | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
+| SI2304            | A04  | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
 | SI2307            |      | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
 | SI2308            |      | [[Vishay-dat]]   | 5.6A  | SOT-23          | N       | 30V     |
 
