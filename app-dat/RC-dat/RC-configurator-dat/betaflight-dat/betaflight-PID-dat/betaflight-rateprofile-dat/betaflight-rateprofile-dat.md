@@ -1,8 +1,12 @@
 
 # betaflight-rateprofile-dat
 
+- Controls **stick sensitivity** and **how fast the quad responds**  
+- Lower values = slower, smoother indoor control  
+- Higher values = faster, more aggressive control  
 
-## Rates Type？ == Betaflight BETAFLIGHT
+
+## Rates Type == Betaflight
 
 | set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
 | ---------------- | ------- | ------- | ---- | --------------- |
@@ -32,13 +36,14 @@ Lower **RC Rate** → overall slower stick response.
 
 
 
-## Rates Type？ == Actual
+## Rates Type == Actual
 
 - **Center Sensitivity** → how responsive the quad is around stick center.  
 - **Max Rate (deg/s)** → maximum rotation speed at full stick deflection.  
 - **Expo** → how much the curve softens near center stick.  
 
 ### 1. Center Sensitivity
+
 - Controls responsiveness near stick center.  
 - Indoor flying → set **lower** than outdoor to avoid twitchiness.  
 - Example: `Center Sensitivity = 120` (instead of 200+ for outdoors).
@@ -112,6 +117,7 @@ for the smooth indoor flying
 | Throttle Limit | Throttle Limit %0 |
 | -------------- | ----------------- |
 | SCALE          | 55                |
+
 | Throttle MID   | Throttle EXPO     |
 | ------------   | -------------     |
 | 0.50           | 0.50              |
@@ -121,6 +127,23 @@ Throttle Limit
 
 - `Scale`: reduces power evenly across whole range.  
 - `Clip`: cuts off only top-end throttle.  
+
+
+## hover == throttle mid 
+
+→ **Throttle MID** controls how stick input translates to motor power  
+- Lower = more sensitive at low throttle  
+- Higher = more stable at low throttle  
+
+→ **Test Flight**  
+- Arm the quad, hover at mid-throttle  
+- If drone rises too fast → increase Throttle MID slightly  
+- If drone feels sluggish → decrease Throttle MID slightly  
+
+
+
+
+
 
 
 ## ref 

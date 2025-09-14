@@ -26,16 +26,16 @@ tuned profile
 | PITCH      | 41           | 105      | 48    | 48         | 149         |
 | YAW        | 53           | 95       | 00    | 0          | 143         |
 
-| set                                  | value |
-| ------------------------------------ | ----- |
-| Damping: D Gains                     | 1.4   |
-| Tracking: P & I Gains                | 1     |
-| Stick Response: FF Gains             | 1     |
-| Dynamic Damping: D Max               | 0     |
-| Drift - Wobble: /Gains               |       |
-| Pitch Damping: Pitch:Roll D          |       |
-| Pitch Tracking: Pitch:Roll P, I & FF |       |
-| Master Multiplier:                   | 1.6   |
+| set                                  | value |                                              |
+| ------------------------------------ | ----- | -------------------------------------------- |
+| Damping: D Gains                     | 1.4   |                                              |
+| Tracking: P & I Gains                | 1     |                                              |
+| Stick Response: FF Gains             | 1     |                                              |
+| Dynamic Damping: D Max               | 0     |                                              |
+| Drift - Wobble: /Gains               |       |                                              |
+| Pitch Damping: Pitch:Roll D          |       |                                              |
+| Pitch Tracking: Pitch:Roll P, I & FF |       |                                              |
+| Master Multiplier:                   | 1.6   | Indoor: keep lower to avoid twitchy behavior |
 
 
 

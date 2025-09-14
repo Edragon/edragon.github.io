@@ -1,8 +1,14 @@
 
 # indoor-fly-dat
 
+- the way to fly indoor = do not control your throttle 
 
-## setup test 
+## presents combination test 
+
+
+== filters + tune + rates + RC_LINK
+
+
 
 ### filters 
 
@@ -73,7 +79,23 @@
 
 ### 5. PID / Rate Profiles (Indoor Smooth)
 
-**Rate Profile: Indoor Smooth**
+
+- Lower **Roll / Pitch / Yaw rates** for smooth, slow indoor flight  
+
+
+#### Tune PID*
+
+- Indoor: **slightly lower P** to avoid twitchy oscillations  -- 以避免抖动和震荡  
+- Indoor: **keep moderate I** → prevents slow drift without overcompensating   -- 防止慢速漂移且不过度补偿  
+- Indoor: **lower D** slightly → avoids jitter from small prop wash   -- 可减少小范围螺旋桨气流引起的抖动
+
+- Start with stock values  
+- Reduce **P / D** slightly to avoid oscillation  
+- Test hover → watch for drift or tilt  
+- Adjust **I term** to reduce slow drift  
+
+
+#### Rate Profile: Indoor Smooth
 
 - RC Rate: 0.60
 - Super Rate: 0.45
@@ -89,11 +111,23 @@ YAW P: 55 / I: 50 / D: 0
 - Adjust slightly if oscillation occurs.
 - Lower values = smoother, less twitchy flight.
 
-### 6. Filters Tab
+
+
+
+
+#### 6. Filters Tab
+
+
+→ **Check Filters**  
+- Low-pass filters reduce high-frequency jitters  
+- Keep aggressive filtering low to maintain smooth control  
+
 - **Gyro Lowpass / Dynamic Filter**: default
 - **Dterm Lowpass**: default
 - **Motor Lowpass / Boost**: default
 - Avoid aggressive filtering indoors (may introduce lag).
+
+
 
 ### 7. Receiver Tab
 - **Channel Map**: usually `AETR1234`
