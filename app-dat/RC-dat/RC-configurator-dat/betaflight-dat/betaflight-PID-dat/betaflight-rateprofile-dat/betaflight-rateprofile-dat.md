@@ -8,7 +8,7 @@
 
 ## Rates Type == Betaflight
 
-| set              | RC Rate | Rate RC | Expo | Max Vel [deg/s] |
+| set              | RC Rate | Rate  | Expo | Max Vel [deg/s] |
 | ---------------- | ------- | ------- | ---- | --------------- |
 | Basic/Acro Rates |         |         |      |                 |
 | ROLL             | 1.06    | 0.56    | 0.15 | 482             |

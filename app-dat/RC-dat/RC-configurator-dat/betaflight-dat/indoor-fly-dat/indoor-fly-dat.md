@@ -1,7 +1,23 @@
 
 # indoor-fly-dat
 
-- the way to fly indoor = do not control your throttle 
+- the way to fly indoor = do not control your throttle, use pitch 
+
+
+## updates 
+
+- RC smoothing == [PT3 based RC smoothing](https://betaflight.com/docs/wiki/tuning/4-3-Tuning-Notes)
+
+    set rc_smoothing = ON
+    set rc_smoothing_setpoint_cutoff = 10
+    set rc_smoothing_feedforward_cutoff = 10
+
+- Random wobbles in HD footage == [PT3 based RC smoothing](https://betaflight.com/docs/wiki/tuning/4-3-Tuning-Notes)
+
+- turn off air mode indoor
+
+- airmode strengh = 10 in [[betaflight-PID-dat]] - https://www.youtube.com/shorts/PBAo4fW7DDQ
+
 
 ## presents combination test 
 
@@ -34,7 +50,7 @@
 
 - [] [[bf-presents-rc_link-dat]]
 
-
+- [] expressLRS 250Hz
 
 
 
@@ -155,6 +171,25 @@ YAW P: 55 / I: 50 / D: 0
 - **Battery Beeper**: low voltage alert.
 - **LED Strip**: orientation aid indoors.
 
+
+## tune 2 - Indoor Cinematic Whoop PID Tuning
+
+
+| Category           | Parameter         | Value / Tip                 | Purpose                      |
+| ------------------ | ----------------- | --------------------------- | ---------------------------- |
+| **Basic Setup**    | AirMode           | Enabled                     | Control at low throttle      |
+|                    | Throttle MID      | 0.48–0.52                   | Balanced hover               |
+|                    | RC Rate           | 0.7–0.9                     | Smooth stick response        |
+|                    | Super Rate        | 0.5–0.7                     | Prevent overshoot            |
+|                    | Expo              | 0.2–0.4                     | Soft center stick            |
+| **PID Gains**      | P Gains           | Slightly lower than stock   | Reduce twitchiness           |
+|                    | I Gains           | Moderate                    | Correct slow drift           |
+|                    | D Gains           | Lower than stock            | Reduce propwash oscillations |
+|                    | Feedforward (FF)  | 0.8–1.0                     | Smooth stick response        |
+|                    | Master Multiplier | 1.5–1.6                     | Global PID/FF scale          |
+| **Filters & Axis** | Filters           | Moderate (dynamic optional) | Reduce propwash              |
+|                    | Pitch = Roll      | Keep equal                  | Balanced indoor control      |
+|                    | Yaw               | Slightly lower rates & D    | Smooth cinematic turns       |
 
 
 ## ref 

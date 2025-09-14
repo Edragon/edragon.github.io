@@ -13,7 +13,7 @@
 
 - [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-blackbox-dat]]
 
-- [[betaflight-PID-dat]] - [[indoor-fly-dat]]
+- [[betaflight-PID-dat]] - [[betaflight-rateprofile-dat]] - [[indoor-fly-dat]]
 
 
 ## betaflight supports 
@@ -26,6 +26,17 @@
 
 
 
+
+## betaflight features 
+
+- RC smoothing - [[indoor-fly-dat]]
+- crash recovery - [[betaflight-configuration-dat]]
+
+## betaflight HDK features 
+
+- [[GPS-dat]] 
+
+- [[optic-flow-dat]] sensor 
 
 
 

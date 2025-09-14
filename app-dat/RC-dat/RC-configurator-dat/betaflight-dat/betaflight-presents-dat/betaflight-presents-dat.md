@@ -37,7 +37,7 @@
 
 - [[bf-presents-rc_link-dat]]
 
-
+- expressLRS 250Hz
 
 ## category 
 
