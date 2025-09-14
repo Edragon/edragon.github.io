@@ -1,6 +1,12 @@
 
 # radiomaster-dat
 
+basic information vist at - [[RC-controller-dat]]
+
+## all buttons 
+
+![](2025-09-15-00-53-56.png)
+
 
 ## binding 
 

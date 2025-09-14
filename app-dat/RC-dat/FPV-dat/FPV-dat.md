@@ -21,7 +21,7 @@
 
 - [[FPV-accesories-dat]]
 
-- [[betaflight-dat]] - [[indoor-fly-dat]]
+- [[betaflight-dat]] - [[indoor-fly-dat]] - [[RC-configurator-dat]]
 
 ## build
 
