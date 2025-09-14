@@ -74,6 +74,11 @@ Lower **RC Rate** → overall slower stick response.
 | PITCH            | 70      | 670     | 0    | 670             |
 | YAW              | 70      | 670     | 0    | 670             |
 
+
+RC Rate == Center Sensitivity
+
+Rate RC == Max Rate == how many degree per second
+
 **Expo** (Exponential) adjusts the sensitivity of your stick inputs around the center position.
 
 - **Expo** = 0: Stick response is linear—movements are directly proportional.
@@ -93,14 +98,13 @@ optimized
 
 ![](2025-09-04-12-38-55.png)
 
-| Throttle Limit | Throttle Limit %0 |
-| -------------- | ----------------- |
-| OFF            | 80                |
 
-for the smooth indoor flying 
-| Throttle MID | Throttle EXPO |
-| ------------ | ------------- |
-| 0.20         | 0.70          |
+## Throttle Limit / Throttle Limit % / Throttle MID / Throttle EXPO
+
+| Throttle Limit | Throttle Limit % | Throttle MID | Throttle EXPO |
+| -------------- | ---------------- | ------------ | ------------- |
+| OFF            | 80               | 0.20         | 0.70          |
+
 
 ![](2025-09-04-12-45-34.png)
 
@@ -114,19 +118,25 @@ for the smooth indoor flying
 
 ## optimized version 2 for indoor flying 
 
-| Throttle Limit | Throttle Limit %0 |
-| -------------- | ----------------- |
-| SCALE          | 55                |
+| Throttle Limit | Throttle Limit % | Throttle MID | Throttle EXPO |
+| -------------- | ---------------- | ------------ | ------------- |
+| SCALE          | 55               | 0.5          | 0.5           |
 
-| Throttle MID   | Throttle EXPO     |
-| ------------   | -------------     |
-| 0.50           | 0.50              |
 
 
 Throttle Limit
 
 - `Scale`: reduces power evenly across whole range.  
 - `Clip`: cuts off only top-end throttle.  
+
+
+
+## TPA / TPA Breakpoint 
+
+
+- TPA = smooths high-throttle behavior  
+- Breakpoint = throttle point where TPA starts  
+- Indoor: minimal effect, focus more on PID, Rates, and Throttle MID  
 
 
 ## hover == throttle mid 
