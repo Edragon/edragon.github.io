@@ -94,4 +94,6 @@ Short answer: Yes — the EX1103 motor itself can run while the ESC is switching
 
 ## ref 
 
-- [[motor-FPV-dat]]
+CW【黑线带红点】,CCW【黑线不带红点】
+
+- [[motor-FPV-dat]] - [[ex1103]] - [[motor-fpv]]

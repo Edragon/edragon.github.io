@@ -16,6 +16,25 @@
 
 - [Benefits [and down sides] of HIGHER PWM Frequency! 🙀💪](https://www.youtube.com/watch?v=v3806Incpvo)
 
+
+
+## How to Reverse a 3-Wire Brushless Motor
+
+### 1. Identify the motor wires
+
+- Typically **3 wires** connected to ESC  
+- Colors may vary → A, B, C (or random colors)  
+
+---
+
+### 2. Swap any **two wires**
+
+- Example: swap **A and B**, leave C unchanged  
+- This reverses motor rotation direction  
+
+
+
+
 ## how to prevent motor burning
 
 - Don’t run **96 kHz** unless you’re sure your ESC can handle it.  
