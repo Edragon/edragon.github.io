@@ -72,7 +72,7 @@ use PIDtoolbox to find the best value
 
 
 
-### Throttle and Motor Settings in betaflight
+### Throttle and Motor Settings 
 
 | set                   | value | expalination                                                                            |
 | --------------------- | ----- | --------------------------------------------------------------------------------------- |
@@ -81,6 +81,17 @@ use PIDtoolbox to find the best value
 | Dynamic Idle          | 35    | Sets a minimum motor RPM (as a percentage of throttle) when the throttle is at zero.    |
 | Vbat Sag Compensation | 100%  | Compensates for voltage drop (“sag”) as the battery drains.                             |
 | Thrust Linearization  | 40%   | Adjusts throttle curve to make thrust output more linear (proportional) to stick input. |
+
+indoor 
+
+  set throttle_limit_percent = 75
+
+  set throttle_boost = 7 
+  # set throttle_boost = 0
+  set dyn_idle_min_rpm = 30
+  set dshot_idle_value = 600
+  set motor_output_limit = 90
+  save
 
 
 #### dynamic idle
@@ -155,6 +166,26 @@ A feature that reduces (relaxes) the effect of the I-term (integral) in the PID 
   - 10 - Gain - [[indoor-fly-dat]]
 
 A feature that temporarily boosts the I-term (integral) of the PID controller during rapid throttle changes to help maintain stable flight and prevent sudden altitude drops or surges.
+
+
+
+## PID Controller Settings
+
+### feed-foward in PID Controller Settings
+
+  set f_pitch = 160
+  set f_roll  = 155
+  set f_yaw   = 150
+  set feedforward_boost = 20
+  save
+
+If you prefer a softer, more stable indoor tune
+
+  set f_pitch = 135
+  set f_roll  = 130
+  set f_yaw   = 130
+  set feedforward_boost = 10
+  save
 
 ## ref 
 
