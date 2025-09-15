@@ -25,7 +25,9 @@ Air mode is very stable, good for beginners
 
 
 ### What is Air Mode?
-- Air Mode is a **Betaflight flight feature** that keeps the motors active and responsive even at **zero throttle**.  
+
+Air Mode is a **Betaflight flight feature** that keeps the motors active and responsive even at **zero throttle**.  
+
 - Without Air Mode:  
   - When you cut throttle, motors almost stop spinning.  
   - The quad loses control authority and can "fall" or tumble.  
@@ -38,3 +40,11 @@ Air mode is very stable, good for beginners
 - ✅ Prevents sudden drop when you release throttle indoors.  
 - ✅ Essential for flips, rolls, or freestyle tricks.  
 - ⚠️ For very small **brushed whoops**, it can make them bounce indoors (too sensitive).  
+
+
+
+In the standard mixer/ mode, when the roll, pitch and yaw gets calculated and saturates a motor, all motors will be reduced equally. 
+
+When a motor goes below minimum it gets clipped off. Say you had your throttle just above minimum and tried to pull a quick roll - since two motors can't go any lower, you essentially get half the power (half of your PID gain). 
+
+If your inputs would have asked for more than a 100% difference between the high and low motors, the low motors would get clipped, breaking the Symmetry of the motor balance by unevenly reducing the gain
