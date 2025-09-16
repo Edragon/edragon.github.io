@@ -3,6 +3,8 @@
 
 
 
+== [[TX800-dat]] + [[MS-519-dat]] + [[camera-action-dat]] = RMB 250 + 500 = 750
+
 
 ## Can the BetaFPV Pavo25 (Bee25) Carry a 120g GoPro?
 

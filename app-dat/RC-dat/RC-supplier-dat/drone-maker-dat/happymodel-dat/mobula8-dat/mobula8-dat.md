@@ -20,6 +20,10 @@ install propeller - [[propeller-dat]] - [[motor-dat]]
 
 ## dimension of the frame 
 
+
+- PCB dimension == 25.4 
+- motor bottom hole == 1.8 
+
 ![](2025-09-12-12-31-55.png)
 
 ## tuning 

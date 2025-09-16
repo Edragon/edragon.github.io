@@ -33,23 +33,13 @@ for insta360 go 2
 
 ![](2025-09-12-13-19-59.png)
 
-
-## thumb camera 
-
-Hawkeye thumb 4k camera
-
-RunCam Thumb Pro
-
-https://www.reddit.com/r/TinyWhoop/comments/11t4yw6/so_impressed_by_runcam_thumb_pro_4k30_on_my/
-
-hawkeye 
-
+- [[camera-FPV-dat]]
 
 
 
 ## lollipop antenna mount 
 
-- [[ antenna-lolipop-dat]]
+- [[antenna-lolipop-dat]]
 
 https://makerworld.com/en/models/689978-mobula8-reinforced-canopy-with-lollipop-mount#profileId-618749
 

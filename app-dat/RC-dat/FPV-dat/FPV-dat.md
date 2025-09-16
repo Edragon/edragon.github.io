@@ -9,11 +9,9 @@
   
 - [[BMS-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
 
-- [[camera-dat]] - [[camera-digital-dat]] - [[camera-analog-dat]]
+- [[camera-FPV-dat]] - [[VTX-dat]]
 
 - [[RC-controller-dat]]
-
-- [[VTX-dat]]
 
 - [[FPV]] - [[DJI-dat]]
 
@@ -23,9 +21,13 @@
 
 - [[FPV-accesories-dat]]
 
-- [[betaflight-dat]] - [[indoor-fly-dat]] - [[RC-configurator-dat]]
+- [[betaflight-dat]] - [[RC-configurator-dat]]
+
+- [[indoor-fly-dat]] - [[FPV-load-dat]]
 
 - [[CaddxFPV-dat]] - [[DJI-dat]]
+
+- [[conn-dat]] - [[antenna-dat]]
 
 
 

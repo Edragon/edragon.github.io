@@ -91,6 +91,12 @@ The **RunCam WiFiLink 2** is based on the **OpenIPC** firmware/platform and uses
 | Caddx Vista/Nebula | ❌ (mostly)      | Yes            | ~20–30 ms  | Racing, freestyle; some Nebula Pro may stream to phone (higher latency) |
 
 
+
+
+
+
+
+
 ## ref 
 
 - [[VTX-dat]]

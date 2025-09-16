@@ -1,6 +1,8 @@
 
 # MS-519-dat
 
+camera
+
 - Model: MINI MS-519
 - Backlight Compensation (BLC): YES
 - Sensor: 1/3'CMOS
