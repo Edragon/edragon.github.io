@@ -91,6 +91,7 @@
 
 - [[CPLD-dat]] - [[FPGA-dat]] - [[DSP-dat]]
 
+- [[CPU-dat]] - [[GPU-dat]] - [[processer-dat]]
 
 
 ### Interactive

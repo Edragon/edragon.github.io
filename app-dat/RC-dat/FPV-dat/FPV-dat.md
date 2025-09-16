@@ -25,7 +25,7 @@
 
 - [[betaflight-dat]] - [[indoor-fly-dat]] - [[RC-configurator-dat]]
 
-
+- [[CaddxFPV-dat]] - [[DJI-dat]]
 
 
 
