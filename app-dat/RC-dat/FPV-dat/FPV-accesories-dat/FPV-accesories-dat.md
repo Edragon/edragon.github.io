@@ -42,6 +42,11 @@ RunCam Thumb Pro
 
 https://www.reddit.com/r/TinyWhoop/comments/11t4yw6/so_impressed_by_runcam_thumb_pro_4k30_on_my/
 
+hawkeye 
+
+
+
+
 ## lollipop antenna mount 
 
 - [[ antenna-lolipop-dat]]
@@ -52,6 +57,6 @@ https://makerworld.com/en/models/689978-mobula8-reinforced-canopy-with-lollipop-
 
 ## ref 
 
-- [[FPV-dat]]
+- [[FPV-dat]] - [[FPV]]
 
 - [[antenna-dat]]

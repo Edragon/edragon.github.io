@@ -8,7 +8,7 @@
 
 ## RC Specified Camera 
 
-- [[camera-analog-dat]] - [[Caddx-dat]] - [[runCam-dat]]
+- [[camera-analog-dat]] - [[CaddxFPV-dat]] - [[runCam-dat]]
 
 
 

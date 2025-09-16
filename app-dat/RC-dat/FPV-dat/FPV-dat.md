@@ -7,7 +7,9 @@
 
 - [[ELRS-dat]] - [[FrSky-dat]] - [[ArduPilot-dat]] - [[CRSF-dat]]
   
-- [[BMS-dat]] - [[camera-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
+- [[BMS-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
+
+- [[camera-dat]] - [[camera-digital-dat]] - [[camera-analog-dat]]
 
 - [[RC-controller-dat]]
 

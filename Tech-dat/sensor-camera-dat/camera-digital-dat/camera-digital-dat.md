@@ -7,33 +7,16 @@
 
 - [[RUNcam-dat]] - [[caddxFPV-dat]]
 
+- [[HDZero-dat]]
+
 - [[FPV-dat]]
 
 
 ## Digital FPV Cameras Available Beyond DJI O4
 
-Several companies make digital FPV systems that can compete with or complement DJI O4. Here’s a detailed overview:
+- [[caddxFPV-dat]]
 
----
 
-### 1. **Caddx FPV Systems**
-
-| Model | Features | Notes |
-|-------|----------|-------|
-| **Caddx Nebula Pro / Vista** | HD 1080p or 4K video, low-latency digital feed, small form factor | Requires compatible goggles (Fat Shark or Caddx) |
-| **Caddx Nebula Nano** | Ultra-lightweight for micro quads | Limited range (~500–800 m) |
-| **Caddx Vista HD** | HDMI input, supports OSD | Compatible with multiple cameras, low latency (~30 ms) |
-
----
-
-### 2. **Walksnail Avatar Series**
-
-| Model | Features | Notes |
-|-------|----------|-------|
-| **Walksnail Avatar Kit / Module** | HD digital video, Wi-Fi phone viewing, low-latency (~100–200 ms) | Works with phone or tablet directly; good for casual FPV |
-| **Walksnail Avatar Nano** | Micro lightweight module | For 2–3” frames, similar features |
-
----
 
 ### 3. **Fat Shark Digital / Shark Byte**
 
@@ -51,6 +34,23 @@ Several companies make digital FPV systems that can compete with or complement D
 | **Eachine** | Pro / TX modules | Budget digital FPV options, moderate latency |
 | **ImmersionRC** | RapidFIRE + DJI Digital Compatibility | Hybrid systems, often used for analog-to-digital transitions |
 | **Walksnail Mini** | Very small FPV digital | For cinewhoops, 2–3” quads |
+
+
+
+## RunCam WiFiLink 2 wifilink 
+
+
+The **RunCam WiFiLink 2** is based on the **OpenIPC** firmware/platform and uses **5.8 GHz digital HD video transmission**.  
+
+---
+
+## 1. Practical Transmission Distance
+
+- **User reports:**  
+  - Stable **0.5–1 km** for casual FPV in urban environments.  
+  - **Up to 5–7 km** possible in **line-of-sight, open-field conditions** with high-gain antennas.  
+- **Realistic expectation:** 1–3 km for consistent video feed with low latency.  
+- Beyond 3 km, **signal becomes unstable**; video may freeze or disconnect.
 
 
 
