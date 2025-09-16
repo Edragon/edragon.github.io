@@ -10,6 +10,40 @@
 ![](2025-09-13-13-56-08.png)
 
 
+
+## Ground Effect
+
+- When quad is close to surface → prop wash bounces air → airflow becomes turbulent  
+- Creates unstable lift → drift or wobble sideways  
+
+→ **PID Sensitivity**  
+- Too high P/D gains → overreact in turbulence  
+- Too low I gain → can't hold position → drift  
+
+→ **Throttle Resolution**  
+- Small throttle change indoors = big lift difference  
+- Harder to keep steady near ground  
+
+
+
+## prop wash 
+
+### 📌 What is Prop Wash?
+
+- Prop wash is the **turbulent/dirty air** created by a drone’s propellers.
+- When the drone flies into this disturbed airflow, the flight controller struggles to stabilize, causing:
+  - Wobbles
+  - Vibrations
+  - Shaky footage
+
+
+### 🔍 Typical Signs
+- Shaking after a quick throttle drop → sudden throttle punch.
+- Jitter when coming out of sharp turns.
+- Visible oscillations in blackbox logs.
+
+
+
 ## the number of the propeller 
 
 # Propeller Blade Count vs Flight Stability in FPV Drones

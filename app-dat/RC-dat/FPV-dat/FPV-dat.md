@@ -23,6 +23,10 @@
 
 - [[betaflight-dat]] - [[indoor-fly-dat]] - [[RC-configurator-dat]]
 
+
+
+
+
 ## build
 
 | indx | parts                     | cost RMB | cost USD/7      | eg. common select |

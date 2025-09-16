@@ -9,6 +9,8 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 
 ## integrated solutions
 
+
+
 - [[DJI-air-unit-dat]] - [[DJI-O4-dat]] == 100 usd - [[DJI-O3-dat]] 
 
 - [[runCAM-dat]]
@@ -27,6 +29,9 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 - [[video-transmission-dat]]
 
 - [[goggles-dat]]
+
+
+
 
 
 ## caddx 
@@ -51,14 +56,6 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 
 - [[camera-analog-dat]] - [[TX800-dat]] - [[MS-519-dat]]
 
-
-
-## common pin out Analog 
-
-- MENU 
-- Video 
-- GND 
-- 5-36V 
 
 
 

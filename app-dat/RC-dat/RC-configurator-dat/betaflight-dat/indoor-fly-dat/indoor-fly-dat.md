@@ -1,7 +1,7 @@
 
 # indoor-fly-dat
 
-- [[mobula8-dat]]
+- [[mobula8-dat]] - [[indoor-fly-PID-tuning-dat]]
 
 - the way to fly indoor = do not control your throttle, use pitch 
 

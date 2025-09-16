@@ -6,6 +6,8 @@
 - [[betaflight-rateprofile-dat]]
 
 
+- [[indoor-fly-PID-tuning-dat]]
+
 ## works 
 
 ![](2025-09-15-03-20-15.png)
@@ -109,8 +111,6 @@ For HD or cinematic quads, instability in forward flight is best addressed by mo
 For freestyle quads, especially heavier builds, moving this slider to the **right** may help control overshoot in flips and rolls.
 
 Note: Generally overshoot in flips and rolls is due to not enough 'i-Term Relax', or motor desyncs, or inadequate authority (a.k.a. Motor Saturation). If you find that moving the Damping Boost slider to the right doesn't improve flip or roll overshoot, put it back to the normal position, and seek out the reason for the overshoot or wobble.
-
-
 
 
 
@@ -254,6 +254,27 @@ indoor
 - 2" == 30
 
 ![](2025-09-15-03-29-48.png)
+
+
+
+
+## TPA (Throttle PID Attenuation) Explained
+
+→ **TPA = Throttle PID Attenuation**  
+- Reduces the influence of **P, I, D** at high throttle  
+- Prevents aggressive PID corrections when motors are near full power  
+
+→ **TPA Breakpoint**  
+- Defines the **throttle point (%)** where TPA starts reducing PID  
+- Example: TPA Breakpoint = 1500 → above 1500/2000 throttle, PID attenuation begins  
+
+→ **How it Works**  
+- At low/mid throttle → full PID control → precise, stable hover  
+- At high throttle → PID reduced → prevents oscillations caused by strong motor output  
+
+→ **Indoor Fly Recommendation**  
+- TPA can be **0–0.1** for small indoor quads → usually not needed  
+- Breakpoint → not critical for indoor hover, keep default  
 
 
 

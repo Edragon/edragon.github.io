@@ -82,4 +82,4 @@ This design actually has an FR4 and a polyimide stiffener, so two layers.
 
 - [[FPC-fab-dat]]
 
-- [[FPC]]
+- [[FPC]] - [[FPC-socket]] - [[FPC-pin]]
