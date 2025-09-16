@@ -41,3 +41,11 @@ AD8221BRZ-R7 ADI 2024+ 2usd
 ADUM3402ARWZ-RL ADI 2021+ 2.7usd
 
 ADUM5000ARWZ-RL ADI 2022+ 2.52usd
+
+
+
+## 4CH DCDC 
+
+	
+[LTM4644 / LTM4644-1 == Quad DC/DC µModule Regulator with Configurable 4A Output Array](https://www.analog.com/media/en/technical-documentation/data-sheets/ltm4644-4644-1.pdf)
+

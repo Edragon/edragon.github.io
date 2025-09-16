@@ -214,6 +214,13 @@
 
 
 
+## more 
+
+AP12-1-71-502 == Circuit Breakers Cir Brkr Hyd Mag == HYDRAULIC MAGNETIC CIRCUIT PROTECTORS
+
+The Airpax™ AP series are fully sealed, magnetic circuit protectors that combine power switching and accurate, reliable circuit protection with inverse time delays and trip free features.
+
+
 ## Info  
 
 Any interetest demo please contact me to enquiry.
