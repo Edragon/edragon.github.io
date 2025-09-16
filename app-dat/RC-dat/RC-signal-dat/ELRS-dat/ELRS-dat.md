@@ -4,6 +4,11 @@
 Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]]
 
 
+## ELRS frequency 
+
+- 900MHz generally for much long range
+
+
 ## ELRS-link 
 
 ELRS-remote-console-tx 

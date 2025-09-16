@@ -88,11 +88,12 @@ https://assets.nexperia.com/documents/data-sheet/BAV99S.pdf
 ## Schottky rectifier
 
 
-| Part    | Type              | Max Forward Current (IF) | Reverse Voltage (VR) | Forward Voltage (VF) | Package         | Notes |
-|---------|-----------------|-------------------------|--------------------|--------------------|----------------|-------|
-| SS14    | Schottky Rectifier | 1 A                     | 40 V               | 0.3–0.5 V          | DO-214AC (SMD) | Surface-mount, common for low-voltage power |
-| 1N5819  | Schottky Rectifier | 1 A                     | 40 V               | 0.3–0.6 V          | DO-41 (Through-hole) | Through-hole, widely used in DIY circuits |
-| MBR0530 | Schottky Rectifier | 0.5 A                   | 30 V               | 0.45 V typical     | DO-214AC (SMD) | Half the current of SS14, used in low-power applications |
+| Part    | Type               | Max Forward Current (IF) | Reverse Voltage (VR) | Forward Voltage (VF) | Package              | Notes                                                    |
+| ------- | ------------------ | ------------------------ | -------------------- | -------------------- | -------------------- | -------------------------------------------------------- |
+| SS14    | Schottky Rectifier | 1 A                      | 40 V                 | 0.3–0.5 V            | DO-214AC (SMD)       | Surface-mount, common for low-voltage power              |
+| 1N5819  | Schottky Rectifier | 1 A                      | 40 V                 | 0.3–0.6 V            | DO-41 (Through-hole) | Through-hole, widely used in DIY circuits                |
+| MBR0530 | Schottky Rectifier | 0.5 A                    | 30 V                 | 0.45 V typical       | DO-214AC (SMD)       | Half the current of SS14, used in low-power applications |
+
 
 
 
@@ -130,6 +131,32 @@ alternatives: SS14 / SS34 / SS54
 
 - High Power Switching and Attenuation Silicon PIN Diodes - The **MMP7060** - 69 Series of PIN diodes are fast switching, low series resistance, low capacitance PIN diode chips.
 
+
+
+## diode compare 
+
+| Feature                         | **1N4007**                                | **SS34**                                                          |
+| ------------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
+| **Type**                        | Standard silicon rectifier diode          | Schottky barrier rectifier diode                                  |
+| **Reverse Voltage (VRRM)**      | 1000 V max                                | 40 V max                                                          |
+| **Forward Current (IF avg)**    | 1 A continuous                            | 3 A continuous                                                    |
+| **Peak Surge Current (IFSM)**   | ~30 A                                     | ~100 A                                                            |
+| **Forward Voltage Drop (VF)**   | ~0.7 – 1.1 V @ 1 A                        | ~0.2 – 0.5 V @ 3 A                                                |
+| **Reverse Recovery Time (trr)** | Slow (~2–30 µs)                           | Very fast (nanoseconds, <100 ns)                                  |
+| **Power Dissipation**           | Higher due to VF and switching losses     | Lower, very efficient                                             |
+| **Frequency Use**               | Low frequency rectification (50/60 Hz AC) | High frequency SMPS, DC-DC converters                             |
+| **Package**                     | Through-hole (DO-41)                      | Surface-mount (SMA/SMB/SMC)                                       |
+| **Temperature Range**           | –65 to +150 °C                            | –55 to +150 °C                                                    |
+| **Typical Applications**        | Power supply rectifier (mains, chargers)  | Buck/boost converters, freewheeling diode in switching regulators |
+
+
+For **low-voltage DC** power paths (e.g., 5V, 12V, battery systems, USB, DC-DC converters):
+→ SS34 is much better (low drop, higher current, efficiency).
+
+For **high-voltage AC** rectification (like 220V/110V mains power supplies):
+→ 1N4007 is safer (handles up to 1000 V).
+
+⚡ In most modern “power-through” / **series protection** roles at DC (5–24 V), SS34 wins because the low voltage drop keeps the system efficient and avoids unnecessary heating.
 
 
 ## ref 

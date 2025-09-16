@@ -71,8 +71,7 @@ set dyn_notch_min_hz = 150
 set gyro_lpf1_dyn_min_hz = 120
 set gyro_lpf1_dyn_max_hz = 360
 set acc_lpf_hz = 10
-set acc_trim_pitch = 1
-set acc_calibration = 1,-38,27,1
+set acc_calibration = 18,40,-22,1
 set rc_smoothing_auto_factor = 25
 set rc_smoothing_auto_factor_throttle = 25
 set serialrx_provider = SPEK1024
@@ -205,7 +204,8 @@ profile 0
 rateprofile 0
 
 # rateprofile 0
-set thr_expo = 70
+set thr_mid = 25
+set thr_expo = 60
 set roll_rc_rate = 1
 set pitch_rc_rate = 1
 set yaw_rc_rate = 1
@@ -223,6 +223,7 @@ rateprofile 1
 rateprofile 2
 
 # rateprofile 2
+set thr_mid = 30
 set thr_expo = 50
 set rates_type = BETAFLIGHT
 set roll_rc_rate = 30
@@ -235,7 +236,7 @@ set roll_srate = 56
 set pitch_srate = 56
 set yaw_srate = 56
 set throttle_limit_type = SCALE
-set throttle_limit_percent = 75
+set throttle_limit_percent = 65
 
 rateprofile 3
 

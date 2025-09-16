@@ -34,19 +34,9 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 
 
 
-## caddx 
+- [[caddxFPV-dat]]
 
-- [[mobula8-dat]] == Caddx ANT 1200TVL == 4:3
 
-![](2025-09-12-12-29-58.png)
-
-![](2025-09-12-12-30-18.png)
-
-- [[caddx-dat]]
-
-- Caddx ANT 1200TVL
-- caddx nano 
-- Baby Ratel2
 
 
 
