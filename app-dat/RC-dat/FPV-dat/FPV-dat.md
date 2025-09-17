@@ -13,7 +13,7 @@
 
 - [[RC-controller-dat]]
 
-- [[FPV]] - [[DJI-dat]]
+- [[FPV]] - [[DJI-dat]] - [[RC-supplier-dat]]
 
 - [[battery-pack-dat]] - [[power-dat]]
 

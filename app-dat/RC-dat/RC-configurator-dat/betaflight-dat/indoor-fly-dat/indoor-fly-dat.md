@@ -6,6 +6,29 @@
 - the way to fly indoor = do not control your throttle, use pitch 
 
 
+
+## Motor Output Limit
+
+
+Many pilots set Motor Output Limit around 65–75% for whoops.
+
+50% is safe if you’re flying indoor cruising / training.
+
+
+✅ Benefits
+
+Much easier to hover and cruise smoothly indoors.
+
+Prevents sudden “rocket up” when you accidentally push throttle too much.
+
+Extends battery life (you don’t spike current as hard).
+
+Motors run cooler.
+
+
+
+
+
 ## updates 
 
 - RC smoothing == [PT3 based RC smoothing](https://betaflight.com/docs/wiki/tuning/4-3-Tuning-Notes)
@@ -194,6 +217,29 @@ YAW P: 55 / I: 50 / D: 0
 |                    | Yaw               | Slightly lower rates & D    | Smooth cinematic turns       |
 
 
+
+## Motor Output Limit
+
+
+Many pilots set Motor Output Limit around 65–75% for whoops.
+
+50% is safe if you’re flying indoor cruising / training.
+
+
+✅ Benefits
+
+Much easier to hover and cruise smoothly indoors.
+
+Prevents sudden “rocket up” when you accidentally push throttle too much.
+
+Extends battery life (you don’t spike current as hard).
+
+Motors run cooler.
+
+
+
 ## ref 
 
 - [[betaflight-dat]]
+
+- [[indoor-fly]]
