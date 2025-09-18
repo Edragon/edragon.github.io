@@ -3,7 +3,7 @@
 
 - [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
   
-- [[dcdc-dat]] - [[dcdc-buck-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
+- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
 
 - [[low-power-dat]]
 
