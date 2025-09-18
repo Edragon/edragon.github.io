@@ -84,9 +84,9 @@ set dshot_bitbang = AUTO
 set motor_poles = 12
 set failsafe_delay = 4
 set failsafe_recovery_delay = 20
-set vbat_max_cell_voltage = 450
-set vbat_min_cell_voltage = 310
-set vbat_warning_cell_voltage = 320
+set vbat_max_cell_voltage = 420
+set vbat_min_cell_voltage = 350
+set vbat_multiplier = 2
 set ibata_scale = 470
 set small_angle = 180
 set gps_provider = NMEA
@@ -132,6 +132,7 @@ set osd_canvas_height = 13
 set debug_mode = DUAL_GYRO_SCALED
 set vtx_band = 5
 set vtx_channel = 8
+set vtx_power = 3
 set vtx_low_power_disarm = ON
 set vtx_freq = 5917
 set vcd_video_system = NTSC
@@ -173,7 +174,7 @@ set horizon_level_strength = 50
 set d_min_roll = 0
 set d_min_pitch = 0
 set d_max_advance = 0
-set motor_output_limit = 75
+set motor_output_limit = 50
 set thrust_linear = 20
 set feedforward_jitter_factor = 5
 set feedforward_boost = 10
@@ -204,8 +205,8 @@ profile 0
 rateprofile 0
 
 # rateprofile 0
-set thr_mid = 25
-set thr_expo = 60
+set thr_mid = 100
+set thr_expo = 100
 set roll_rc_rate = 1
 set pitch_rc_rate = 1
 set yaw_rc_rate = 1
@@ -216,27 +217,26 @@ set roll_srate = 10
 set pitch_srate = 10
 set yaw_srate = 10
 set throttle_limit_type = SCALE
-set throttle_limit_percent = 65
+set throttle_limit_percent = 90
 
 rateprofile 1
 
 rateprofile 2
 
 # rateprofile 2
-set thr_mid = 30
-set thr_expo = 50
+set thr_mid = 100
+set thr_expo = 100
 set rates_type = BETAFLIGHT
-set roll_rc_rate = 30
-set pitch_rc_rate = 30
-set yaw_rc_rate = 30
+set roll_rc_rate = 10
+set pitch_rc_rate = 10
+set yaw_rc_rate = 10
 set roll_expo = 30
 set pitch_expo = 30
-set yaw_expo = 20
-set roll_srate = 56
-set pitch_srate = 56
-set yaw_srate = 56
+set yaw_expo = 30
+set roll_srate = 30
+set pitch_srate = 30
+set yaw_srate = 50
 set throttle_limit_type = SCALE
-set throttle_limit_percent = 65
 
 rateprofile 3
 
