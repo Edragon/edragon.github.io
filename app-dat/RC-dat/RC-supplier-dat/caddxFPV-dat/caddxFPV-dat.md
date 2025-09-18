@@ -27,9 +27,10 @@ Several companies make digital FPV systems that can compete with or complement D
 | **Walksnail Avatar Kit / Module** | HD digital video, Wi-Fi phone viewing, low-latency (~100–200 ms) | Works with phone or tablet directly; good for casual FPV |
 | **Walksnail Avatar Nano** | Micro lightweight module | For 2–3” frames, similar features |
 
-- moonlight kit 
+### moonlight kit 
 
----
+
+![](2025-09-18-21-54-45.png)
 
 
 ### Walksnail Avatar HD
@@ -114,6 +115,12 @@ Caddx蜗牛平头哥二代穿越机摄像头fpv摄像机夜视镜头无人机rat
 ![](2025-09-16-18-55-45.png)
 
 
+lens diameter 15mm 
+
+body dimesnion ~20mm 
+
+
+![](2025-09-18-21-02-28.png)
 
 
 

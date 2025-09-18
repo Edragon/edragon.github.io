@@ -1,7 +1,9 @@
 
 # FPV-accesories-dat
 
-- [[gimbal-dat]]
+- [[RC-gimbal-dat]]
+
+- [[3d-dat]]
 
 ## mobula 8 
 
