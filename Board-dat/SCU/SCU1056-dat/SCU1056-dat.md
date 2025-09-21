@@ -3,6 +3,9 @@
 
 ![](2024-01-17-15-57-56.png)
 
+https://www.electrodragon.com/product/12vdc-medium-size-water-pump-6w-tube/
+
+
 ### Scope of use:
 
 1. Tea sets, tea stoves, tea trays, water dispensers, etc. are used for example: branded tea sets, Tea Supreme. New merit. A good heart and a hemisphere. Shenhua. Jun Lake New Fly. Royalstar. The king Suoyang. Fuyi family. High-flying Oaks. Meiling. Dongzao Deyuan. Nine rings. Jin Kangshi. Wait for the first-class brand.
@@ -33,3 +36,12 @@
 ### Please note: 
 
 The 365 diaphragm pump is a diaphragm pump that allows long-term idling. There are no mechanical parts and no wear in the pump body. Large water output, with self-priming function! It can be used as a water pump, fish tank water change, experimental model, inflatable swimming pool, tea set machine, oil pumping at grain and oil stations, car scrubbing, notebook water cooling, mineral water canning, etc. Air pump, aquarium gas and oxygen pump! Lower the voltage and use 3-5V voltage to make a computer heat circulation pump!
+
+
+
+
+## ref 
+
+- [[pump-dat]]
+
+
