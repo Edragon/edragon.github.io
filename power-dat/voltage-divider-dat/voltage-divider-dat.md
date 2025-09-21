@@ -48,6 +48,12 @@ cut off SJ3 first to use the ADC ladder.
 
 - [[ESP8266-dat]]
 
+  
+## common use
+
+VIN = 12V, R_up == 390K, R_down == 120K, Vout_mid == 2.8235V
+VIN = 11V, R_up == 390K, R_down == 120K, Vout_mid == 2.5882V
+
 ## ref 
 
 - https://learn.sparkfun.com/tutorials/voltage-dividers/all#:~:text=A%20voltage%20divider%20is%20a,most%20fundamental%20circuits%20in%20electronics.

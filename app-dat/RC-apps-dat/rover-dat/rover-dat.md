@@ -19,7 +19,7 @@
 
 ## boards 
 
-- [[SDR1064-dat]]
+- [[SDR1064-dat]] - [[SDR1117-dat]]
 
 
 
