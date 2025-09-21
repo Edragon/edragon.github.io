@@ -35,7 +35,7 @@
 
 ## RC Electrified in the air
 
-- [[ardupilot-dat]] - [[RC-dat]]
+- [[RC-apps-dat]]
 
 - [[rover-dat]] - [[rc-car-dat]] - [[tank-dat]]
 
@@ -44,8 +44,6 @@
 - [[parachute-dat]] - [[rocket-dat]] - [[blimp-dat]]
   
 ## RC lectrified on the ground  
-
-- [[ardupilot-dat]] - [[RC-dat]]
   
 - [[rover-dat]] - [[RC-car-dat]] - [[RC-car-hack-dat]] - [[submarine-dat]] - [[RC-boat-dat]]
 
