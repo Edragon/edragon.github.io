@@ -41,6 +41,14 @@ customized common:
 ![](2025-02-18-17-07-04.png)
 
 
+
+## more chip solutions 
+
+- ADM3202ARNZ == 	2/2 Transceiver Full RS232 16-SOIC
+
+
+
+
 ## ref 
 
 - [[DPR1084-dat]] - [[DPR1054-dat]] - [[DPR1073-dat]]

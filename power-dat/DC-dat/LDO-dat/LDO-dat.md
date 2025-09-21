@@ -88,6 +88,9 @@ SOT23-5
 
 TPS7A89 == Small, Dual, 2-A, Low-Noise (3.8 μVRMS), LDO Voltage Regulator
 
+MC7824BD2TG == Linear Voltage Regulators 24V 1A Positive
+
+Nisshinbo Micro Devices Inc. **NJM78L05UA-TE2** == Fixed Positive Standard Regulator, 5VBIPolar, PSSO3, MINI, PLASTIC, SOT-89, 3 PIN
 
 
 

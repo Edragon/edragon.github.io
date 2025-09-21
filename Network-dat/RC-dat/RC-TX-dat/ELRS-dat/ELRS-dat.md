@@ -140,6 +140,8 @@ Load the Web UI on your browser using these addresses:
 
 http://10.0.0.1/ - If you have connected to the ExpressLRS RX Access Point
 
+pass == expresslrs
+
 ### Via button press 
 
 ![](2025-05-04-15-31-56.png)

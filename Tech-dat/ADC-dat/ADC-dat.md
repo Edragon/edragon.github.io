@@ -62,6 +62,19 @@
 
 - [[BAT54S-dat]]
 
+
+
+## other 
+
+- [ADS7046 12-Bit, 3-MSPS, Single-Ended Input, Small-Size, Low-Power SAR ADC](https://www.ti.com/lit/ds/symlink/ads7046.pdf?ts=1758413865175)
+
+- ADS1015
+
+- AD9854ASTZ == CMOS 300 MSPS Quadrature Complete DDS == Data Acquisition ADCs/DACs - Specialized 200 MHZ QUADRATURE DDS SYNTHESIZER PBFre == 
+
+- AD8561ARZ
+
+
 ## ref 
 
 - [[tech-dat]]

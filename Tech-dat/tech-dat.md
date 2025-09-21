@@ -23,6 +23,8 @@
 
 - [[app-dat]] - [[mechanics-dat]] 
 
+- [[clock-dat]]
+
 
 ## New Tech And Updates 
 
@@ -150,6 +152,10 @@
 - [[ADC-dat]] - [[DAC-dat]]
 
 - [[USB-dat]] - [[USB-sys-dat]]
+
+- [[amplifier-dat]]
+
+
 
 ## Utilities 
 

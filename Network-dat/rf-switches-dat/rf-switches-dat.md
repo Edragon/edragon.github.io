@@ -1,0 +1,12 @@
+
+# rf-switches-dat.md
+
+HMC241AQS16 == GaAs MMIC SP4T Non-Reflective Switch, DC - 3.5 GHz
+
+HMC253AQS24E == RF Switch IC CDMA SP8T 2.5 GHz 50Ohm 24-QSOP
+
+- HMC443LP4E
+- HMC441LP3E
+- HMC830LP6GE
+- HMC976LP3E
+

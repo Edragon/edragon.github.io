@@ -7,7 +7,7 @@
 
 - [[ESP8266-dat]]
 
-- [[ESP8684-dat]]
+- [[ESP8684-dat]] - [[ESP8684-DEVKITC-dat]]
 
 - [[ESP8685-dat]]
   

@@ -176,6 +176,10 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 - **100UF / 10V**
 
 
+## feed through capacitor 
+
+657-PSM1-402Z-10B == Feed Through Capacitors 4000PF 10A PI - Surface Mount Low Pass Filters PSM Series
+
 
 
 ## ref 

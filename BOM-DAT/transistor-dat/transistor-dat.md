@@ -1,6 +1,10 @@
 
 # transistor-dat
 
+
+- [[FET-dat]]
+
+
 common brand: 	Infineon
 
 - similar - [[mosfet-dat]]

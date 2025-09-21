@@ -105,6 +105,11 @@ Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter
 
 
 
+## old MCU 
+
+- M16C/62P
+
+
 ## ref 
 
 - [[MCU]]

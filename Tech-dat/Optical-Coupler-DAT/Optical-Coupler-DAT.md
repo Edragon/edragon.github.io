@@ -46,6 +46,12 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 
 - CPC5902G == Logic Output Optocouplers Dual Opto Isolated I2C Bus Repeater
 
+- ILD206T
+- TLP2270
+- ILD206T
+
+
+
 
 ## ref 
 

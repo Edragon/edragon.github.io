@@ -105,3 +105,5 @@ subtotal == $77
 - [[motor-rover-dat]]
 
 - [[rc-car]] - [[maker]]
+
+- [[rover-v2]]

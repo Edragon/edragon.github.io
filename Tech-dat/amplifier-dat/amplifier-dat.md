@@ -105,6 +105,9 @@ Active Low Pass filter with Amplification
 - [Op-Amps – Analog Building Blocks](https://dronebotworkshop.com/op-amps/)
 
 
+## more chips 
+
+- TL071CP
 
 
 ## ref 

@@ -24,7 +24,9 @@ and more at [[espressif-dat]]
   
 - [[ESP-SDK-dat]] - [[ESP32-SDK-dat]]
 
-- [[ESP32-HDK-dat]] - [[ESP32-modules-dat]] - [[ESP32-board-dat]]
+- [[ESP32-HDK-dat]] - [[ESP32-serial-dat]]
+
+- [[ESP32-modules-dat]] - [[ESP32-board-dat]]
 
 
 ## Boards and APP 
