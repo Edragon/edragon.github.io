@@ -3,7 +3,7 @@
 
 - [[ardupilot-dat]] - [[rc-dat]]
 
-https://ardupilot.org/rover/index.html
+
 
 - [[RC-car-dat]] - [[rover-dat]] - [[RC-car-hack-dat]]
 
@@ -20,6 +20,9 @@ https://ardupilot.org/rover/index.html
 ## boards 
 
 - [[SDR1064-dat]]
+
+
+
 
 ## Rover Version 
 
@@ -43,6 +46,9 @@ basic demo code 1 here == [[RC-code-dat]]
 ## code 
 
 - [[RC-code-dat]]
+
+
+
 ## 3D printed 
 
 - [[markus-rover-dat]]
@@ -58,6 +64,13 @@ basic demo code 1 here == [[RC-code-dat]]
 
 [Another TT Motor 4WD Car Mecanum wheel](https://cad.onshape.com/documents/3fc9a68709b7b211c126b7b0/w/fd59e3cfbe0cf012d3264ef8/e/f35859a1e063a8642be26811?renderMode=0&uiState=68302088624d574aaab00cc0)
 
+
+
+
+
+## board 2 
+
+- [[ESP32-dat]] - [[ELRS-dat]]
 
 ## board 
 
@@ -78,6 +91,12 @@ Parts - [[TT-motor-dat]] - [[mecanum-wheel-dat]]
 - 1x [[battery-charger-dat]] == $1
 
 subtotal == $77
+
+
+
+
+
+
 
 ## ref 
 

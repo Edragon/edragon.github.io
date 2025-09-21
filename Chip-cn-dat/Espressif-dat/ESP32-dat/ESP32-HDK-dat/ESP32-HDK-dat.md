@@ -8,7 +8,7 @@
 
 - [[ESP-prog-dat]]
 
-
+- [[ESP32-ADC-dat]] - [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] 
 
 
 ## pins 
@@ -36,7 +36,7 @@ GPIO34–39: input-only (not usable as output like SCL)
 - use [[PDM-dat]] instead of [[I2S-dat]] on [[ESP32-S3-dat]]
 
 
-- [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] - [[sd-dat]]
+- [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[ESP32-GPIOs-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] - [[sd-dat]]
 
 ## RAM 
 

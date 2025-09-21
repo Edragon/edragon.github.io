@@ -17,7 +17,7 @@ ALL-in-One Option
 
 - [[X12-dat]] - [[CRAZYBEEF4SX1280-dat]]
 
-
+- [[pixelhawk-6c-dat]]
 
 ## FC AIO = flight controller all in one
 
@@ -29,3 +29,6 @@ ALL-in-One Option
 
 - [[motor-dat]] - [[VTX-dat]]
 
+- [[FPV-dat]]
+
+- [[RC]]

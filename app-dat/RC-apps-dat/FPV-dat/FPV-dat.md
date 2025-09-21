@@ -40,6 +40,7 @@
 | 3    | [[motor-FPV-dat]] x4      | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
 | 4    | [[propeller-dat]] x4      | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
 | 5    | [[VTX-dat]]               | 81       | 11.6            | Caddx ANT 1200TVL |
+|      | PCB vibration absorber    | 0        | 0               |                   |
 |      | [[XT30-dat]] cable        | 4        | 0.6             |                   |
 |      | [[battery-dat]]  x2       | 55       | 7.9 x2 = 15.8   |                   |
 |      | [[mobula8-dat]]           |          | 100             |                   |

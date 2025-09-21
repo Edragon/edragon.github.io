@@ -21,6 +21,8 @@
 
 - [[power-dat]] - [[battery-dat]] - [[BMS-dat]]
 
+- [[network-dat]] - [[RC-dat]]
+
 - [[app-dat]] - [[FPV-dat]] - [[rover-dat]]
 
 - [[circuits-dat]] - [[tools-dat]]

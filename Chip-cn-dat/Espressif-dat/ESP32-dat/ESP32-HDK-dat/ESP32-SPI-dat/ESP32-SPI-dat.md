@@ -1,5 +1,5 @@
 
-# ESP32 SPI 
+# ESP32-SPI-dat 
 
 | Pin  | VSPI  | HSPI    |
 | ---- | ----- | ------- |

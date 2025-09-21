@@ -122,8 +122,30 @@ Some filaments (like PETG or nylon) may feel **greasy** or attract **oil/dust**,
 - For tricky materials like nylon or TPU, use **heat welding**, **mechanical fasteners**, or **special plastic adhesives**
 
 
+## For high-strength bonding of mechanical transmission components (e.g., gears, bearings, linkages, metal or hard plastic parts), the recommended adhesives are:
+
+| Adhesive Type              | Suitable Materials                 | Features & Recommendations                                                   |
+|----------------------------|-----------------------------------|----------------------------------------------------------------------------|
+| AB Glue (Epoxy Resin, 2-part) | Metal, ceramics, hard plastics, composites | Extremely strong, gap-filling, rigid after curing, heat and chemical resistant, good for shear and pressure loads |
+| MMA Adhesive (Methyl Methacrylate) | Metal, composites, hard plastics    | Industrial-grade, strong and slightly flexible, vibration-resistant, suitable for high-speed or vibrating environments |
+| Structural Acrylic Adhesive | Metal-to-metal, composites        | High shear strength, commonly used in automotive or mechanical structural parts |
+| PU Adhesive (Polyurethane Structural Glue) | Metal, hard plastic, composites | Flexible, absorbs vibration, good for impact or minor vibration, slightly lower strength than AB glue |
+
+⚙️ **Selection Recommendations**:  
+1. **High load, requires rigidity** → **AB Glue (Epoxy Resin)**  
+2. **High load with vibration or impact** → **MMA Glue / Structural Acrylic**  
+3. **Moderate load, requires flexibility, minor vibration absorption** → **PU Structural Glue**
+
+💡 **Tips**:  
+- Ensure bonding surfaces are **clean, dry, and oil-free**  
+- Lightly sanding metal or hard plastic surfaces can improve friction and adhesion  
+- For high-speed rotating or precision transmission components, even after curing, **stress distribution** should be considered; using **mechanical alignment pins/bolts** can reinforce the joint
+
+
 
 
 ## ref 
 
 - [[mechanics-dat]]
+
+- [[glue]] - [[mechanics]]
