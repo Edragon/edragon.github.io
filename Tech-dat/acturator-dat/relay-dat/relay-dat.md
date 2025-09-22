@@ -36,7 +36,7 @@ HF32F-G-5-HS
 
 ![](2024-09-18-17-41-35.png)
 
-
+- [[mosfet-dat]] - [[n-mosfet-control-dat]]
 
 
 ### using NPN transistor drive 

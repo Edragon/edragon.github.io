@@ -1,6 +1,62 @@
 
 # ESP32-ADC-dat
 
+
+
+
+## 1. ADC Channels on ESP32
+
+The ESP32 has **two ADCs**:
+
+| ADC   | Channels    | Default GPIOs                       |
+|-------|------------|------------------------------------|
+| ADC1  | 8 channels (0–7)  | GPIO32–39                        |
+| ADC2  | 10 channels (0–9) | GPIO0, 2, 4, 12–15, 25–27, 32–33 |
+
+---
+
+## 2. Recommended Pins for ADC
+
+- **ADC1 pins are preferred**, because ADC2 is shared with Wi-Fi and can cause conflicts if Wi-Fi is active.  
+
+### ADC1 Pins
+
+| Channel  | GPIO |
+|----------|------|
+| ADC1_CH0 | GPIO36 |
+| ADC1_CH1 | GPIO37 |
+| ADC1_CH2 | GPIO38 |
+| ADC1_CH3 | GPIO39 |
+| ADC1_CH4 | GPIO32 |
+| ADC1_CH5 | GPIO33 |
+| ADC1_CH6 | GPIO34 |
+| ADC1_CH7 | GPIO35 |
+
+> ✅ Safe to use for analog input while Wi-Fi is active.
+
+---
+
+## 3. Notes / Caveats
+
+1. **ADC2 pins (GPIO0, 2, 4, 12–15, 25–27, 32–33)**  
+   - Using these while Wi-Fi is active may cause conflicts.
+
+2. **Voltage Range**  
+   - ADC input: 0–3.3V (default)  
+   - Exceeding 3.3V may damage the pin.
+
+3. **Resolution**  
+   - Default resolution: 12-bit (0–4095)  
+   - Configurable via `analogReadResolution()` in Arduino.
+
+4. **Input Impedance**  
+   - ESP32 ADCs have relatively high impedance  
+   - For high-impedance sensors, use a buffer/op-amp for accuracy.
+
+
+
+
+
 ## ESP32 ADC Input on IO33
 
 ### ✅ Can I Use IO33 for ADC Input?

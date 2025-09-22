@@ -19,6 +19,11 @@
 
 ![](2025-07-09-14-48-52.png)
 
+- [[voltage-divider-dat]] 
+
+- [[ESP32-ADC-dat]]
+
+
 1. **ADC Ctrl LOW (0V):**
     - Q8 is **OFF** (no base current).
     - The gate of Q7 is pulled up to VBAT via R30.
