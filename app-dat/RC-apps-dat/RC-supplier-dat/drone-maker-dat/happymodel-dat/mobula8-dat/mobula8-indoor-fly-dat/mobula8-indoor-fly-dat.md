@@ -4,6 +4,20 @@
 - [[betaflight-PID-dat]]
 
 
+## build 2 
+
+- [[caddxFPV-dat]] ratel pro camera 
+- new canopy 
+- stand 
+
+include the battery, total weight is 88.22g 
+
+![](2025-09-22-19-05-25.png)
+
+
+
+## setup 
+
 1. Flight Modes
 
 Enable Angle or Horizon Mode for self-leveling and easy control indoors.

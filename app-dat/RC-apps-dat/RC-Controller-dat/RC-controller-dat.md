@@ -16,7 +16,7 @@ Roll Pitch Yaw Throttle
 
 
 
-- [[radiomaster-dat]]
+- [[radiomaster-dat]] - [[lightradio-dat]]
 
 - [[mobula8-dat]]
 

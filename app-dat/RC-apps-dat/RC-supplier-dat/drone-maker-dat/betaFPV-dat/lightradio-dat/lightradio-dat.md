@@ -1,6 +1,14 @@
 
 # lightradio-dat
 
+
+## inside 
+
+![](2025-09-22-19-07-59.png)
+
+![](2025-09-22-19-08-14.png)
+
+
 ## Lightradio 3 Pro 
 
 - professional version 
