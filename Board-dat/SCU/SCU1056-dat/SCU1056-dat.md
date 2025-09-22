@@ -38,6 +38,47 @@ https://www.electrodragon.com/product/12vdc-medium-size-water-pump-6w-tube/
 The 365 diaphragm pump is a diaphragm pump that allows long-term idling. There are no mechanical parts and no wear in the pump body. Large water output, with self-priming function! It can be used as a water pump, fish tank water change, experimental model, inflatable swimming pool, tea set machine, oil pumping at grain and oil stations, car scrubbing, notebook water cooling, mineral water canning, etc. Air pump, aquarium gas and oxygen pump! Lower the voltage and use 3-5V voltage to make a computer heat circulation pump!
 
 
+## analysis 
+
+### 1. Basic Specifications
+
+| Parameter | Value | Notes |
+|-----------|-------|-------|
+| Operating Voltage | DC 12V | Standard for small pumps, easy to drive |
+| No-load Current | 0.23 A | Low power consumption |
+| Load Current | 0.45 A | Current under load |
+| Max Flow Rate | 2–3 L/min | Moderate to small flow |
+| Max Outlet Pressure | 1–2.5 kg/cm² (~0.1–0.25 MPa) | Determines spray height and distance |
+| Max Head (Lift) | 1–2.5 m | Theoretical maximum water column height |
+| Max Suction | 2 m | Maximum suction distance |
+| Inlet/Outlet Diameter | Ø8 mm | Small diameter limits flow and spray force |
+
+---
+
+### 2. Spray Performance Analysis
+
+1. **Spray Height**:  
+   The maximum head of 1–2.5 m means the theoretical water column can reach about 2 m high, but this is under static conditions (ignoring nozzle resistance). Using a nozzle may slightly increase range but will not achieve long-distance spraying.
+
+2. **Pressure Capability**:  
+   Maximum pressure 1–2.5 kg/cm² (0.1–0.25 MPa) is low. This pump can only provide **light spraying**, unsuitable for high-pressure applications like water guns or fire-fighting spray.
+
+3. **Flow Rate Limitation**:  
+   2–3 L/min is moderate to small. The spray stream will not be strong, suitable for **continuous small-flow spraying** (e.g., desktop fountains, plant watering), not for high-impact spraying.
+
+4. **Pump Type**:  
+   Being a diaphragm pump, it has good self-priming, dry-run tolerance, and can handle minor particulates, but the small pump size and low pressure limit spray force.
+
+---
+
+### 3. Conclusion
+
+- **Feasible**: Can be used for **small-scale spraying**, such as desktop water features, plant misting, or light water guns.  
+- **Not Feasible**: Not suitable for long-distance, high-pressure, or strong-impact spraying.  
+- **Recommendations**:
+  - Use a small-diameter nozzle to concentrate the stream;
+  - Consider series connection of pumps or using a high-pressure miniature pump for stronger spray;
+  - Ensure suction distance does not exceed 2 m, otherwise the pump may fail to draw water.
 
 
 ## ref 

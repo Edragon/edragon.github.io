@@ -6,6 +6,10 @@
 
 - [[tank-track-dat]]
 
+
+
+
+
 ## tank platform 1 
 
 - Each wheel has an independent suspension spring 
@@ -14,6 +18,8 @@
 ![](2025-05-22-00-49-44.png)
 
 ![](2025-05-22-00-50-12.png)
+
+
 
 
 

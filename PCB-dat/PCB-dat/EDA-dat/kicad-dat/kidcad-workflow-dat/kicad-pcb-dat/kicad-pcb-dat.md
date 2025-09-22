@@ -65,7 +65,14 @@ Hold Ctrl while dragging → ignores grid snap (lets you place anywhere).
 Useful when aligning visually or placing text/graphics
 
 
+## text 
 
+
+
+## filled zone and polygon 
+
+- click corner to create chamber
+- duplicate the filled zone into polygon, and move to **Mask layer** to stop it being filled
 
 
 
