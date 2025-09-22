@@ -68,6 +68,11 @@ in positive logic.
 | Positive-AND gate | Same thing — "positive" means using standard logic levels (high = 1) |
 | Negative logic    | Less common, where high voltage = logic 0                            |
 
+## more gate chips 
+
+- CDx4HC11 == Triple 3-Input AND Gates 
+
+- CD4001B, CD4002B, CD4025B == CMOS NOR Gates
 
 
 ## ref 

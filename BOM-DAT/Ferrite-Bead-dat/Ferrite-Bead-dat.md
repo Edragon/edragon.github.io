@@ -34,10 +34,14 @@ Applications:
 
 ### 21PG331SN1D 
 
-### more 
+## more 
 
 - BLM18EG601SN1D
 - BLM18SG331TZ1D
+
+MH1608-101Y == 	100 Ohms @ 100 MHz 1 Power, Signal Line Ferrite Bead 0603 (1608 Metric) 3A 40mOhm
+ 
+
 
 ## ref 
 

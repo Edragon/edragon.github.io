@@ -29,6 +29,16 @@
     https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade
     */
 
+
+
+## drive chip 
+
+- TL494 == Pulse-Width-Modulation Control Circuits
+
+
+
+
+
 ## ref 
 
 - [[tech-dat]]

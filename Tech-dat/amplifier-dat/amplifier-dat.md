@@ -109,6 +109,9 @@ Active Low Pass filter with Amplification
 
 - TL071CP
 
+- TL082 == Wide Bandwidth Dual JFET Input Operational Amplifier
+
+
 
 ## ref 
 

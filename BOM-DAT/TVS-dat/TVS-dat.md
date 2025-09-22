@@ -27,6 +27,14 @@ Conclusion:
 
 
 
+
+## more TVS 
+
+STS321070U162  == Eaton TVS diode ESD supp. SOD-323 size, 7 op. voltage, 165 pF, 30 kV, Unidirectional
+
+
+
+
 ## ref 
 
 - [[TVS]]

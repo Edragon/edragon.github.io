@@ -50,11 +50,10 @@ from a to z
 
 - [[PIC-dat]]
 
-[[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]]
 
 [[realtek-dat]] - [[RTL8211-dat]]
 
-[[richtek-dat]]
+
 
 - [[raspberry-pi-dat]]
 
@@ -64,8 +63,13 @@ from a to z
 
 - [[semtech-dat]] - [[SX1262-dat]] - [[sx1278-dat]] - [[LLCC68-dat]]
 
-- [[FTDI-dat]]
+- [[toshiba-dat]] 
 
+- [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]]
+
+
+
+- [[FTDI-dat]]
 
 
 - [[InvenSense-dat]]
@@ -74,9 +78,14 @@ from a to z
 
 - [[ever-analog-dat]]
 
-## function 
 
-- [[comparator-dat]]
+
+
+
+
+## relevant 
+
+- [[circuits-dat]]
 
 ## ref 
 

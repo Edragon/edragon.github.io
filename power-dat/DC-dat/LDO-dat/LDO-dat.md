@@ -92,6 +92,9 @@ MC7824BD2TG == Linear Voltage Regulators 24V 1A Positive
 
 Nisshinbo Micro Devices Inc. **NJM78L05UA-TE2** == Fixed Positive Standard Regulator, 5VBIPolar, PSSO3, MINI, PLASTIC, SOT-89, 3 PIN
 
+MIC5365 == High Performance Single 150mA LDO
+
+MIC5528 == Single High Performance 500mA LDO w/ Auto Discharge & Internal Enable Pulldown
 
 
 ## ref 
