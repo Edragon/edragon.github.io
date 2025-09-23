@@ -17,7 +17,12 @@ For Android devices, you can directly install the following apps:
 
 ![](2025-07-30-16-44-50.png)
 
+
+- lightBlue in google store 
+
 - [[BLE蓝牙调试助手.apk.1]] - [[BT-Connect.apk]]
+
+
 
 - nRF Connect for Mobile by [[nordic-dat]]
 
