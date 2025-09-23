@@ -17,6 +17,7 @@
 
 - [[JTAG-dat]] - [[Jlink-dat]]
 
+- [[renesas-dat]] - [[e2-studio-dat]]
 
 ## VS-code
 

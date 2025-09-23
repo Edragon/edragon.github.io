@@ -301,6 +301,13 @@ ESP8266 drive
 - Holitech,HINK-E0213A09,EINK,2.13,B/W,,212 x 104,SPI,24,SSD1675B,,
 - Holitech,HINK-E0213A07,EINK,2.13,B/W/R,,212 x 104,SPI,24,SSD1675B,,
 
+
+## tools 
+
+设计工具 https://epd.eled.top/
+
+
+
 ## ref 
 
 - [[display-dat]] - [[epaper]]
@@ -308,3 +315,5 @@ ESP8266 drive
 - [[FPC-dat]] - [[test-point-dat]] - [[diode-dat]] - [[mosfet-dat]]
 
 - [[arduino-cli-dat]]
+
+

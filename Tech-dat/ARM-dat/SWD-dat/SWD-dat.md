@@ -12,6 +12,71 @@ https://stm32-base.org/guides/connecting-your-debugger.html
 ![](2024-07-05-17-37-28.png)
 
 
+## connect to DA14585 
+
+- [[DA14585-dat]]
+
+
+For basic SWD programming/debugging, the minimum required connections are:
+
+- SWDCLK -> Debug clock
+- SWDIO -> Debug data
+- VCC -> Target power supply (or reference voltage)
+- GND -> Ground
+
+
+### Additional Recommendations
+
+1. **NRST (Reset)** – Optional but recommended:
+   - Allows the debugger to reset the chip during programming or debug sessions.
+   - Some programmers/debuggers can operate without it, but including it improves reliability.
+
+2. **Power Considerations**:
+   - Ensure your SWD programmer/debugger voltage level matches the DA14585 I/O voltage (usually 1.8V–3.3V).
+
+3. **Pull-ups/Pull-downs**:
+   - Verify if SWDIO/SWDCLK lines need pull-ups; some boards already include them.
+
+**Summary**:  
+- **Required**: `SWDCLK + SWDIO + VCC + GND`  
+- **Recommended**: Add `NRST` for better stability and full debug control.
+
+
+## pins 
+
+![](2025-09-23-13-51-11.png)
+
+simplified connectors 
+
+- Vtref 
+- SWDIO
+- SWCLK
+- GND 
+
+simplified connectors V2
+
+- Vtref
+- SWDIO
+- SWCLK
+- SWO
+- NRST
+- GND
+
+simplified connectors V3
+
+- Vtref - Vtref 
+- NRST - NRST 
+- TDO - TDI
+- P8 - TMS
+- GND - TCK 
+
+
+CONN 3 
+
+- GND
+- TCK
+- RTCK 
+
 ## wiring 
 
 ![](2025-09-23-13-27-22.png)

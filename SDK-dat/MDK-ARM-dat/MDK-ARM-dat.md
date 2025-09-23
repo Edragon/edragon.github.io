@@ -95,9 +95,94 @@ setup run-time enviornment
 
 ![](2025-09-23-13-01-15.png)
 
+## path resolve 
+
+1. Close Keil.
+2. Open `<project_name>.uvprojx` in a text editor (Notepad++, VSCode, etc.).
+
+3. Search for old path entries like:
+
+lie this 
+
+    .\..\..\..\..\..\\sdk\platform\arch\boot\system_DA14585_586.c
+
+    .\..\..\..\..\..\\sdk\
+
+replace 
+
+    .\..\..\..\..\..\\
+
+    ..\..\
+
+note 
+    ..\..\sdk\ == E:\Git-category\git-ARM\MDK-ARM\DA14585\sdk
+
+    simple_beacon.uvprojx == E:\Git-category\git-ARM\MDK-ARM\DA14585\simple_beacon\Keil_5
+
+    E:\Git-category\git-ARM\MDK-ARM\SDK_6.0.22.1401\DA145xx_SDK\6.0.22.1401\sdk\
+
+In the **Options for Target** window, select the **Linker** tab.
+
+    ..\..\..\..\..\sdk\common_project_files\scatterfiles\DA14535_armclang.sct
+
+    ..\..\sdk\common_project_files\scatterfiles\DA14535_armclang.sct
+
+so also replace 
+
+    ..\..\..\..\..  // level 5 to level 2 
+
+    ..\..
+
 
 
 ## Error log 
+
+### L6236E: No section matches selector - no section to be FIRST/LAST.
+
+- include path imcomplete, include startup files 
+
+
+
+
+### L3900U: Unrecognized option '--cpreproc' | ARMCC 5 option used with ARM Compiler 6 | Remove `--cpreproc` and any ARMCC-specific flags from **Misc Controls** |
+
+delete --cpreproc 
+
+--cpreproc_opts=-I"..\src\config";-I"....\sdk\common_project_files"
+
+--cpreproc_opts=-I"....\sdk\common_project_files"
+
+
+### L6636E path include error 
+
+'da1458x_stack_config.h' file not found == 
+
+    In file included from C:\Users\ADMINI~1\AppData\Local\Temp\p44ac-2:26:
+    .\out_DA14535\Objects\simple_beacon_535.axf: error: 'da1458x_stack_config.h' file not found
+    #include "da1458x_stack_config.h"
+    .\out_DA14535\Objects\simple_beacon_535.axf: Error: L6636E: Pre-processor step failed for '..\..\sdk\common_project_files\scatterfiles\DA14535_armclang.sct'
+    .\out_DA14535\Objects\simple_beacon_535.axf: Error: L6372E: Image needs at least one load region.
+
+| Error                                          | Likely Cause                            | Fix                                            |
+| ---------------------------------------------- | --------------------------------------- | ---------------------------------------------- |
+| `'da1458x_stack_config.h' file not found`      | Scatter file includes header, not found | Add header path to **Assembler Include Paths** |
+| `L6636E: Pre-processor step failed`            | Scatter preprocessing failed            | Fix include paths                              |
+| `L6372E: Image needs at least one load region` | Scatter file not processed              | Fix include errors first                       |
+
+solve 
+
+In Keil uVision: Project → Options for Target → Linker → Misc Controls, append: 
+
+  --cpreproc --cpreproc_opts=-I"..\src\config";-I"....\sdk\common_project_files"
+
+Rebuild. This adds include paths for the scatter-file preprocessor.
+
+
+
+
+### .\out_DA14535\Objects\simple_beacon_535.axf: error: L6031U: Could not open scatter description file ..\..\..\..\..\sdk\common_project_files\scatterfiles\DA14535_armclang.sct: No such file or directory
+
+- path in linker setup 
 
 ### --locale=english
 

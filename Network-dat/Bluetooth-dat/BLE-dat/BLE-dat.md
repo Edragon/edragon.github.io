@@ -19,6 +19,14 @@ For Android devices, you can directly install the following apps:
 
 - [[BLE蓝牙调试助手.apk.1]] - [[BT-Connect.apk]]
 
+- nRF Connect for Mobile by [[nordic-dat]]
+
+  - https://play.google.com/store/apps/dev?id=7265678888812659353&hl=en_US
+
+- or download at https://t.me/electrodragon3/397
+
+
+
 ## BLE Operations Guide
 
 ### Reading and Writing Bluetooth Data
