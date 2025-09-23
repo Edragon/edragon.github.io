@@ -1,9 +1,11 @@
 
 # usb-dat 
 
+- [[USB-driver-dat]] - [[libusb-dat]]
+
 - [[USB-cable-dat]] - [[USB-ESD-dat]] 
 
-- [[CONN-USB-dat]]
+- [[CONN-USB-dat]] - [[conn-dat]]
 
 - [[USB-STM32-dat]]
 

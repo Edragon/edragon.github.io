@@ -1,19 +1,31 @@
 
 # MDK-ARM-dat
 
-- [[MDK-ARM]]
 
 - setup new compiler in KEIL-MDK [[AC5-dat]] - [[AC6-dat]]
 
-## supported device 
+- [[ARM-dat]]
 
-- [[STM32-dat]] 
-
-- [[DA14585-dat]]
 
 ## programmer 
 
-- [[Jlink-dat]]
+- [[Jlink-dat]] - [[MDK-ARM-dat]]
+
+
+- ULINK2/ME Cortex Debugger
+- ULINK Pro Cortex Debugger
+- ULINKplus Debugger
+- CMSIS-DAP Debugger
+- J-LINK/J-TRACE Cortex - [[Jlink-dat]]
+- Models Cortex-M Debugger
+- ST-Link Debugger
+- Pemicro Debugger
+- NULink Debugger
+- SiLabs UDA Debugger
+- Altera Blaster Cortex Debugger
+- TI XDS Debugger
+
+
 
 ## KEIL-MDK
 
@@ -56,17 +68,34 @@ install from official websites
     - D:\Keil_v5\ARM
   - install into "AC5"
 
-## Supports 
+
+
+## supported device 
+
+- [[STM32-dat]] 
+
+- [[DA14585-dat]] == https://s3.eu-central-1.amazonaws.com/lpccs-docs.renesas.com/CMSIS/DialogSemiconductor.DA1458x_DFP.1.1.3.pack == https://www.keil.arm.com/packs/da1458x_dfp-dialogsemiconductor/devices/
 
 - [[HDSC-SDK-dat]] - [[STM32-SDK-dat]]
 
 Supported Device
+
 * https://w.electrodragon.com/w/WCH - CH579
 * https://w.electrodragon.com/w/HDSC - HC32L136
 * https://w.electrodragon.com/w/Nordic - NRF52832
 * https://w.electrodragon.com/w/ST - STM32F103
 * https://w.electrodragon.com/w/NXP - LPC1100, RT1021
 * https://w.electrodragon.com/w/ARM - Cortex A5 A7 A9
+
+
+
+## usage 
+
+setup run-time enviornment
+
+![](2025-09-23-13-01-15.png)
+
+
 
 ## Error log 
 
@@ -196,3 +225,5 @@ Destination Folder: d:\MDK\Arm\Packs\KeilSTM32F1xx_DFP\2.4.1
 ## ref 
 
 - [[keil]] - [[MDK-ARM]]
+
+
