@@ -18,6 +18,9 @@ Click "SPI Flash/EEPROM" and configure according to the steps below.
 
 7. After the board connects successfully, click "Erase" to erase the Flash once.
 
+在擦除时要确保读回来的数据全为FF.
+
+
 ![](2025-09-24-15-47-04.png)
 
 Next, import the hex firmware to be programmed. Click "Browse", then select the path of the firmware to be programmed, select it, and click "Open".

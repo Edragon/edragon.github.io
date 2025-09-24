@@ -60,6 +60,13 @@ There is also this type of NFC passive smart tag, which can refresh its display 
 墨水屏内置驱动器 IC，采用 COG 封装， IC 厚度 300um，根据 FPC（柔性电路板）宽度的不同，分为 24P 和 34P。墨水屏正面朝向自己，排线朝左边，从上往下分别是引脚 1-24。
 
 
+## SDK 
+
+分析墨水屏驱动，
+
+墨水屏只需要io控制高低和读取，就能驱动，所以移植需要有io设置电平的读取电平的函数还有延时函数
+
+
 ## E-paper 2.13"
 
 please find demo code in epaper repo above, we have V1, V2, V3 versions, currently selling version is V3. If not working please try from the V3 version to the V1.
