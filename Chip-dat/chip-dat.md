@@ -42,7 +42,7 @@ from a to z
 
 - [[NXP-dat]] - [[PCA9685-dat]] - [[PCF8574-dat]] - [[i.MX6ULL-dat]]
 
-- [[nordic-dat]] - [[nrf52840-dat]] - [[nrf52840-mod-dat]]
+- [[nordic-dat]] - [[nrf52840-dat]] - [[nrf52840-mod-dat]] - [[nrf52832-dat]]
 
 - [[mediatek-dat]] - [[MT7688-dat]] - [[MT7628-dat]]
 
@@ -57,7 +57,7 @@ from a to z
 
 - [[raspberry-pi-dat]]
 
-- [[Renesas-dat]] - [[DA14585-dat]]
+- [[Renesas-dat]] - [[dialog-dat]] - [[DA14585-dat]]
 
 - [[ST-dat]] - [[STM32-dat]] - [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
 

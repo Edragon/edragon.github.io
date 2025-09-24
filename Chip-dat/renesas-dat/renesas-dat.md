@@ -24,9 +24,17 @@ DA14580 is selected by Xiaomi Bracelet. DA14580 is the world's smallest, lowest 
 
 ## tools 
 
+- [[SmartSnippets-Toolbox-dat]] - [[E2-studio-dat]]
+
+- [[SDK-dat]]
+
 Renesas Flash Programmer V3.20.00
 
 ![](2025-09-23-20-48-48.png)
 
 
 
+
+## ref 
+
+- [[chip-dat]]
