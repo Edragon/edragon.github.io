@@ -10,6 +10,22 @@ https://toshiba.semicon-storage.com/ap-en/semiconductor/product/motor-driver-ics
 
 ![](2024-01-13-11-14-53.png)
 
+
+
+## VREF 
+
+- on board RS == 0.15R 
+
+- I_LIMIT ≈ VREF / (3 × RS)
+
+- if Vref = 5V, I_LIMIT = 5 / (3 * 0.15) = 11.11A (theoretically), but max current capability of this chip is 3.5A
+
+- if Vref = 1.5V, I_LIMIT = 1.5 / (3 * 0.15) = 3.33A (preferable setup )
+
+
 ## ref 
 
+- [[motor-driver-dat]] 
+
 - [[SDR1109]]
+
