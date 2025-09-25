@@ -21,7 +21,7 @@
 - [[switching-dat]] - [[switch-dat]]
 
 
-- [[comparator-dat]]
+- [[comparator-dat]] - [[latch-dat]]
 
 - [[PPL-dat]]
 
@@ -32,6 +32,14 @@
 
 
 - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]]
+
+- [[Multivibrator-dat]]
+
+- [[mosfet-dat]]
+
+- [[Optical-Coupler-DAT]]
+
+- [[Vref-dat]]
 
 
 

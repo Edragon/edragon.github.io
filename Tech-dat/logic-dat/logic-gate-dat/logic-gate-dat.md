@@ -3,6 +3,11 @@
 
 - [[buffer-dat]]
 
+## Inverters
+
+SN54HC14, SN74HC14 == SNx4HC14 Hex Inverters with Schmitt-Trigger Inputs
+
+
 ## implementation 
 
 - [[MPC1108-dat]]
@@ -25,6 +30,8 @@ The output enters a high impedance state when a HIGH-level is applied to the out
 
 ## NAND 
 
+SN74HC00N ==  'NAND' GATE QUAD, 2 -INPUT
+
 ### NC7SZ00
 
 
@@ -34,6 +41,8 @@ The NC7SZ00 is a single two−input NAND gate from onsemi’s Ultra−High Speed
 
 
 ## AND 
+
+SN74HC11N ==  'AND' GATE TRIPLE, 3-INPUT
 
 ### SN74AHC1G08
 
@@ -73,6 +82,12 @@ in positive logic.
 - CDx4HC11 == Triple 3-Input AND Gates 
 
 - CD4001B, CD4002B, CD4025B == CMOS NOR Gates
+
+### dual 
+
+DS75451/2/3 Series Dual Peripheral Drivers
+
+The DS75451, DS75452 and DS75453 are dual peripheral AND, NAND and NOR drivers, respectively, (positive logic) with the output of the logic gates internally connected to the bases of the NPN output transistors.
 
 
 ## ref 

@@ -19,17 +19,19 @@
 
 - [[Tech-DAT]] - [[display-dat]]  - [[network-dat]] - [[usb-dat]] - [[interactive-dat]]
 
-- [[power-dat]] - [[battery-dat]] - [[BMS-dat]] - [[ldo-dat]]
+- [[power-dat]] - [[battery-dat]] - [[BMS-dat]] - [[ldo-dat]] - [[dcdc-down-dat]]
 
 - [[network-dat]] - [[RC-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
-- [[circuits-dat]] - [[tools-dat]]
+- [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]]
+
+- [[tools-dat]]
   
 - [[mechanics-dat]] 
 
-- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] - [[CONN-dat]] - [[BTB-dat]]
+- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]]
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 
@@ -37,7 +39,7 @@
 
 - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[PCB-adhesive-dat]] - [[export-coordinate-dat]] - [[mark-point-dat]] - [[SMT-Red-Adhesive-dat]] - [[solder-paste-dat]]
 
-
+- [[ADC-dat]]
 
 ## Weekly Updates 
 

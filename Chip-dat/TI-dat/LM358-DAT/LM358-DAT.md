@@ -181,4 +181,6 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 - [[amplifier-dat]]
 
+- [[multisim-dat]] - [[EDA-simulation-dat]]
+
 [[LM358]]

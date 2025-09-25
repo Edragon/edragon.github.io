@@ -45,15 +45,26 @@ common brand: 	Infineon
 - [irlml6244-DS](https://www.infineon.com/cms/en/product/power/mosfet/n-channel/irlml6244/)
 - 20V Single N-Channel StrongIRFET™ Power MOSFET in a SOT-23 package
 
-## dual transistor package 
 
-### BCR 10PN H6327
+## transistor array 
+
+### dual transistor package 
+
+#### BCR 10PN H6327
 
 - Two (galvanic) internal isolated NPN/PNP Transistors in one package
 - Built in bias resistor NPN and PNP (R1=10 kΩ, R2 =10 kΩ)
 - [URL](https://www.mouser.jp/datasheet/2/196/bcr10pn-223935.pdf)
 
 ![](2025-03-06-22-43-10.png)
+
+### other 
+
+1HT251 NPN Silicon Planar Low Power Transistor Array == 4x
+
+![](2025-09-25-13-53-17.png)
+
+
 
 ## un-sorted 
 

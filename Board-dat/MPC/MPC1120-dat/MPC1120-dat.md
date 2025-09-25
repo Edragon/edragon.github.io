@@ -100,6 +100,20 @@ subtotal == 8 pins
 |        | GND         | 39           | x     |       | 40           | GPIO21      | P2-B2 |
 
 
+
+## board update log 
+
+# V1.2 
+
+pre-connected SMD jumpers positioned under the PTH jumpers : 
+
+- RPI buffered ROW-E  == pin8 (GND (E) )
+- GND == pin4 (GND (SEL)) 
+- refer to [[HUB75-dat]]
+
+![](2025-09-25-18-00-39.png)
+
+
 ## ref 
 
 - [[HUB75-dat]]

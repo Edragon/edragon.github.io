@@ -159,6 +159,12 @@ For **high-voltage AC** rectification (like 220V/110V mains power supplies):
 ⚡ In most modern “power-through” / **series protection** roles at DC (5–24 V), SS34 wins because the low voltage drop keeps the system efficient and avoids unnecessary heating.
 
 
+## unsort 
+
+- BYV26A, BYV26B, BYV26C, BYV26D, BYV26E == Ultra-Fast Avalanche Sinterglass Diode
+
+
+
 ## ref 
 
 - [[BOM-dat]] - [[mosfet-dat]]

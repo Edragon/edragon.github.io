@@ -113,6 +113,11 @@ solar extension cable
 - DEALON DW127R-11-08-34
 
 
+## waterproof connector 
+
+M12A-12PMMR-SF8001 == M12 Metric Circular Connector, A-Coded, Metal Non-shielded, 1.5A, 12 pins, Male Connector, Male Contact, Hexagonal, PG9, Screw Thread, PCB 90°, Receptacle, Front Fastened, IP68 / IP69K
+
+![](2025-09-25-13-58-34.png)
 
 
 ## ref 

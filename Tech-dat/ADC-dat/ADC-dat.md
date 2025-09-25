@@ -9,7 +9,7 @@
 - [[ADS1100-dat]]
 - AD7606
 - AD7799
-
+- AD7880 == LC2 MOS Single +5 V Supply, Low Power, 12-Bit Sampling ADC
 
 ## SCH 
 

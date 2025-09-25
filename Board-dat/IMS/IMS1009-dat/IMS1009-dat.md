@@ -11,7 +11,7 @@
 
 ![](2024-11-19-15-34-42.png)
 
-
+- [[matrix-display-dat]]
 
 
 ## Kit BOM 
@@ -27,4 +27,6 @@
 
 ## ref 
 
-- [[IMS1009-fab]]
+- [[MAX7219-dat]] 
+
+- [[IMS1009]]

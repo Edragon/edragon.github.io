@@ -50,6 +50,9 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 - TLP2270
 - ILD206T
 
+- [[avago-dat]] - HCPL-2400, HCPL-2430 == 20 MBd High CMR Logic Gate Optocouplers
+
+- [[IXYS-dat]] - 
 
 
 

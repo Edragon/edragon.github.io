@@ -1,6 +1,13 @@
 
 # EDA-simulation-dat
 
+- [[SPICE-dat]]
+
+- [[kicad-simulation-dat]] - [[eagle-simulation-dat]]
+
+- [[falstad-dat]] - [[multisim-dat]]
+
+
 ## software 
 
 | Software               | Features & Use Case                                              | Free Version Available?         |
@@ -14,7 +21,6 @@
 | **OrCAD PSpice**       | High-end analog and mixed-signal simulation                      | ❌ Paid (Lite version available) |
 | **Fusion 360 (Eagle)** | PCB design with simulation tools (by Autodesk)                   | ✅ Free for hobbyists            |
 
-- [[kicad-simulation-dat]] - [[eagle-simulation-dat]]
 
 
 ## ngspice

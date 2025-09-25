@@ -22,6 +22,7 @@ https://toshiba.semicon-storage.com/ap-en/semiconductor/product/motor-driver-ics
 
 - if Vref = 1.5V, I_LIMIT = 1.5 / (3 * 0.15) = 3.33A (preferable setup )
 
+- if Vref = 1V, I_LIMIT = 1 / (3 * 0.15) = 2.22A
 
 ## ref 
 

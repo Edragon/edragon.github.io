@@ -13,6 +13,13 @@
 
 - [[hex-key-dat]]
 
+## common combination 
+
+- [[screws-dat]] + [[nut-dat]] + [[washer-spring-dat]] + [[washer-flat-dat]]
+
+![](2025-09-25-18-25-15.png)
+
+
 ## bolt and screw
 
 | Feature               | Bolt                                               | Screw                                                               |

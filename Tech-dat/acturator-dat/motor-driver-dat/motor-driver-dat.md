@@ -13,6 +13,8 @@
 
 - [[PWM-chopper-type-motor-driver]] - [[FOC-dat]] - [[CC-CCW-control-dat]]
 
+- [[AC-mains-dat]] - [[motor-dat]] drive - [[IGBT-dat]]
+
 ## Board 
 
 - [[SDR1102-dat]] - [[SDR1109-dat]] - [[SDR1048-dat]] - [[SDR1059-dat]] - [[SDR1050-dat]]
