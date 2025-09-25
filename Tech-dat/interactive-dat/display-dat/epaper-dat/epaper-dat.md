@@ -66,6 +66,13 @@ There is also this type of NFC passive smart tag, which can refresh its display 
 
 墨水屏只需要io控制高低和读取，就能驱动，所以移植需要有io设置电平的读取电平的函数还有延时函数
 
+init epaper 
+
+![](2025-09-25-13-12-12.png)
+
+main method 
+
+![](2025-09-25-13-13-06.png)
 
 ## E-paper 2.13"
 

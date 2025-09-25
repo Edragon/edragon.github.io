@@ -7,7 +7,7 @@ HIN202E, HIN206E, HIN207E, HIN208E, HIN211E, HIN213E, HIN232E
 https://www.renesas.com/en/document/dst/hin202e-hin206e-hin207e-hin208e-hin211e-hin213e-hin232e-datasheet
 
 
-- [[da14585-dat]]
+- [[da14585-dat]] - [[da14580-dat]]
 
 - [[dialog-dat]]
 
@@ -24,7 +24,10 @@ DA14580 is selected by Xiaomi Bracelet. DA14580 is the world's smallest, lowest 
 
 ## tools 
 
-- [[SmartSnippets-Toolbox-dat]] - [[E2-studio-dat]]
+- [[SmartSnippets-Toolbox-dat]] 
+- [[E2-studio-dat]]
+- Renesas Electronics Utilities - Renesas Flash Programmer V3.20
+- Renesas SmartBond Flash Programmer v1.0.14
 
 - [[SDK-dat]]
 

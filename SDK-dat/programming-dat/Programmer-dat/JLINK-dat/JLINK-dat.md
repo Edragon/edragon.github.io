@@ -8,6 +8,11 @@
 
 JLink is a the SEGGER company launched JTAG emulator for ARM core chip to support simulation. IAR EWARM, ADS, KEIL, WINARM, RealView and other integrated development environment with the support all ARM7/ARM9 kernel chip simulation and seamless connectivity through the RDI interface and the integrated development environment, easy to operate, easy to connect, easy to learn, learning to develop ARM the best and most practical development tools.
 
+path 
+- D:\Program Files\SEGGER\JLink\
+- C:\Program Files\SEGGER\JLink_V782
+
+
 
 
 ## interface 
@@ -17,7 +22,17 @@ JLink is a the SEGGER company launched JTAG emulator for ARM core chip to suppor
 ![](2025-09-23-13-55-07.png)
 
 
-## driver 
+## driver installation 
+
+
+https://www.segger.com/downloads/jlink/
+
+https://www.segger.com/downloads/jlink/JLink_Windows_V782_x86_64.exe
+
+2 applications found that can be updated to V7.82 of the J-Link software:
+- Ozone - The J-Link Debugger V328e (DLL V7. 86e in *c:\Program Files\SEccER\0zone*)
+- Keil MDK-ARM (DLL V7. 54d in *d: (Keil_v5\ARM\Segger*)
+
 
 - JLink_Windows_V754d_x86_64.exe
 

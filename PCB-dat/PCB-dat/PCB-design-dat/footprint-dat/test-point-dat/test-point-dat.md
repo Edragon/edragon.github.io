@@ -6,6 +6,15 @@
 add points like 
 
 
+## test rig v2 
+
+0.8mm diameter pin 
+
+![](2025-09-25-12-36-28.png)
+
+![](2025-09-25-12-36-56.png)
+
+![](2025-09-25-12-39-13.png)
 
 ## test rig 
 

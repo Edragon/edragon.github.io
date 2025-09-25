@@ -17,7 +17,10 @@
 
 - [[JTAG-dat]] - [[Jlink-dat]]
 
-- [[renesas-dat]] - [[e2-studio-dat]]
+- [[renesas-dat]] - [[e2-studio-dat]] - [[SmartSnippets-Toolbox-dat]]
+
+- [[java-dat]] - [[Eclipse-dat]]
+
 
 ## VS-code
 
@@ -48,6 +51,9 @@
 
 - [[camera-sdk-dat]] - [[display-sdk-dat]]
 
+## complier 
+
+- [[GCC-dat]] - [[LLVM-dat]] - [[minGW-dat]] - [[GNU-dat]]
 
 ## tools 
 
@@ -56,6 +62,9 @@
 - [[adb-dat]]
 
 - [[linux-dat]]
+
+
+## commands 
 
 📂 Listing Folder Structures (Easy-to-Read)
 
