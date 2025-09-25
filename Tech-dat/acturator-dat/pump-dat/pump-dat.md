@@ -5,6 +5,8 @@
 
 ## tech 
 
+- [[fitting-dat]] - [[nozzle-dat]]
+
 ### water pump 
 
 - [[diaphragm-dat]] - [[peristaltic-pump-dat]] - [[submersible-pump]]
@@ -34,6 +36,9 @@ A jet pump (also called an ejector pump) belongs to the jet pump category, which
 Unlike diaphragm pumps and peristaltic pumps, it has no elastic diaphragm or tube-squeezing mechanical structure.
 
 Unlike submersible pumps, it does not rely on an impeller for direct pressurization, but instead uses the nozzle jet principle.
+
+
+
 
 
 

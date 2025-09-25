@@ -17,7 +17,7 @@ DCDC降压芯片用Ti的TPS54335A，支持4.5V-28V宽电压输入。
 
 ![](2025-06-19-17-47-13.png)
 
-
+PUCC33421QDHARQ1 == UCC33421-Q1 Ultra-Small, 1.5W, 5.0V, 5kVRMS Isolation, Automotive DC/DC Module
 
 
 BQxx 
