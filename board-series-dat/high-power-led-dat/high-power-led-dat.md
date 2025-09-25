@@ -4,6 +4,15 @@
 [legacy wiki page](https://w.electrodragon.com/w/Category:LEDs#Another_general_info)
 
 
+## with protection 
+
+temperature 75 degree protection swtich 
+
+![](2025-09-25-18-49-21.png)
+
+
+
+
 
 ## Dimension 
 

@@ -126,7 +126,7 @@
 
 - [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
   
-- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[relay-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[relay-dat]] - [[pump-dat]]
 
 - [[motor-driver-dat]]
 
