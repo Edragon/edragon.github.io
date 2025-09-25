@@ -1,6 +1,26 @@
 
 # nozzle-dat
 
+- [[fitting-dat]] - [[mechanism-dat]]
+
+## spray nozzle
+
+- tube locker 
+
+
+
+## 3D printer nozzle
+
+M6 outter thread
+
+![](2025-09-25-19-44-16.png)
+
+
+
+
+
+## PCB nozzole 
+
 ![](2025-04-02-13-57-20.png)
 
 | Nozzle | Application                                                        |
@@ -14,9 +34,6 @@
 | CN400  | SOP16, QFP32, QFP64, QFP100, QFP144 and components of similar size |
 | CN600  | QFP32, QFP64, QFP100, QFP144 and components of similar size         |
 | CN800  | QFP100, QFP144, QFP208 and components of similar size               |
-
-
-
 
 ## ref 
 
