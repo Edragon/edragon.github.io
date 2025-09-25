@@ -31,13 +31,19 @@ Click "Board Setup" and configure according to the steps below.
 
 ![](2025-09-25-12-58-42.png)
 
-### flash setup
+### flash step by step 
 
 Click "SPI Flash/EEPROM" and configure according to the steps below.
 
 ![](2025-09-24-15-46-23.png)
 
 [INFO     Flash Code@25-09-25 13:00:13] Detected flash with jedec id: 0x00A14013. It couldn't be matched to any of the supported memories.
+
+### other note 
+
+- mac address manual setup 
+
+![](2025-09-25-13-14-12.png)
 
 
 
@@ -91,6 +97,16 @@ Next, import the hex firmware to be programmed. Click "Browse", then select the 
 After programming is complete, power cycle the development board. Open the nRF Connect APP to scan for the device, and you should be able to find it.
 
 ![](2025-09-24-15-47-59.png)
+
+
+
+## power consumption test 
+
+无连接广播间隔1S 平均13uA
+
+![](2025-09-25-13-14-45.png)
+
+
 
 ## log of flash 
 
