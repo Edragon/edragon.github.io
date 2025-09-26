@@ -18,6 +18,8 @@
 
 - [[DB9-dat]]
 
+- [[JST-dat]]
+
 - [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-dat]] - [[SH1.0-dat]] - [[1.25-dat]] - [[ZH1.5-dat]] - [[XH2.0-dat]]
 
 - [[CONN-Plug-dat]]

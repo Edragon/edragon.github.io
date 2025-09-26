@@ -31,15 +31,13 @@
   
 - [[mechanics-dat]] 
 
-- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[fab-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]]
+- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]]
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 
-- [[PCB-dat]]  - [[EDA-dat]] - [[PCB-design-dat]] - [[kicad-dat]]
+- [[PCB-dat]] - [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] 
 
-- [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[PCB-adhesive-dat]] - [[export-coordinate-dat]] - [[mark-point-dat]] - [[SMT-Red-Adhesive-dat]] - [[solder-paste-dat]]
 
-- [[ADC-dat]]
 
 ## Weekly Updates 
 

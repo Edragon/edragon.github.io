@@ -428,6 +428,13 @@ MT7688
 
 - [[NRF2001-dat]] - [[NRF2004-dat]] - [[NRF2007-dat]]
 
+
+### PCA 
+
+- [[PCA1032-dat]]
+
+- [[PCA1012-dat]] - [[PCA1042-dat]] - [[PCA1044-dat]] - [[PCA1047-dat]] - [[PCA1052-dat]] - [[PCA1059-dat]] - [[PCA1094-dat]]
+
 ### PEN
 
 - [[PENS007-dat]]
@@ -439,8 +446,6 @@ MT7688
 ### PMP
 
 - [[PMP1010-dat]]
-
-
 
 
 ### PPB 

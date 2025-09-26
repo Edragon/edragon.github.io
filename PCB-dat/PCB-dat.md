@@ -12,3 +12,7 @@
 
 - [[PCB-accesories-dat]]
 
+- [[EDA-dat]] - [[PCB-design-dat]] - [[kicad-dat]]
+
+
+
