@@ -1,8 +1,6 @@
 
 # PCB-design-dat
 
-## design 
-
 - [[footprint-dat]] - [[thermal-disppation-dat]] - [[heatsink-dat]] - [[PCB-installation-dat]]
 
 
@@ -13,10 +11,17 @@
 - [[peripherals-dat]]
 
 
+- [[4-layer-dat]] - [[0402-dat]] 
+
+- [[PCB-form-dat]]
+
+- [[BTB-dat]]
+
+- [[PCB-layout-dat]]
 
 ## special  
 
-- [[flex-PCB-dat]]
+- [[PCB-flex-dat]]
 
 ## basic 
 

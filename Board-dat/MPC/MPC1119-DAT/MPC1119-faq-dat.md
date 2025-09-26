@@ -9,3 +9,9 @@ Both versions have no functions problem anymore
 - and free a few IOs to use. 
 - Also the direction of the output connector is changed too. 
 
+
+
+
+## ref 
+
+- [[MPC1119-dat]]

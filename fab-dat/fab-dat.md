@@ -14,6 +14,19 @@
 - [[CAD-dat]] - [[onshape-dat]] - [[drawing-dat]] - [[assembly-dat]] - [[step-dat]]
 
 
+- [[fab-PCBA-dat]] - [[fab-PCB-dat]]
+
+- [[PCB-format-dat]] - [[PCB-output-common-error-dat]] - [[PCB-penalization-dat]]
+
+
+- [[fab-stencil-dat]]
+
+
+
+
+## fab 
+
+- [[fab-dat]]
 
 
 
