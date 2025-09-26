@@ -3,6 +3,9 @@
 
 
 
+- [[tank-wheels-supporting-dat]]
+
+
 ## Tracked Vehicle Powertrain Components
 
 A tracked vehicle uses continuous tracks instead of wheels to move over difficult terrain. Its powertrain consists of several key components that transmit engine power to the tracks efficiently:

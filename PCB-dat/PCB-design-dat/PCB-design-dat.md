@@ -19,6 +19,9 @@
 
 - [[PCB-layout-dat]]
 
+- [[test-point-dat]]
+
+
 ## special  
 
 - [[PCB-flex-dat]]
