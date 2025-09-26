@@ -4,7 +4,16 @@
 - legacy wiki page - https://w.electrodragon.com/w/Category:Relay
 
 
+## relays 
 
+- [[OPM1041-dat]]
+
+## relay modules 
+
+- [[relay-modules-dat]]
+
+
+- [[OPM1046-dat]] - [[OPM1047-dat]] - [[OPM1048-dat]] - [[OPM1049-dat]]
 
 ### SPST relay 
 
@@ -95,5 +104,7 @@ For fast-switching applications, a 1N5819 Schottky diode (rated 40V, 1A) might b
 
 
 ## ref 
+
+- [[transistor-dat]]
 
 - [[relay]]

@@ -1,9 +1,9 @@
 
 # songle-dat
 
-- [[OPM1041-dat]]
+- [[OPM1041-dat]] - [[OPM1042-dat]]
 
-- [[SRD-songle-relay.PDF]]
+- [[SRD-songle-relay.PDF]
 
 - [[SRA-songle-relay.PDF]]
 
@@ -39,6 +39,15 @@ form A == 4pin
 | SRSB-24VDC-SL-A     | 1 NO                 | 4    | 5A      |
 
 
+## OPM1041 
+
+- [[OPM1041-dat]]
+
+![](2024-01-22-16-54-59.png)
+
+![](2024-01-22-16-55-15.png)
+
+![](2024-01-22-16-55-28.png)
 
 
 ## ref
@@ -54,3 +63,7 @@ form A == 4pin
 
 ![](2025-09-22-17-42-18.png)
 
+
+SRA-05V/12V/24VDC-AL 
+
+![](2025-09-26-17-53-46.png)

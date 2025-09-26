@@ -2,7 +2,7 @@
 # transistor-dat
 
 
-- [[FET-dat]]
+- [[FET-dat]] - [[transistor-array-dat]] - [[S8050-dat]]
 
 
 common brand: 	Infineon
@@ -106,4 +106,4 @@ common brand: 	Infineon
 
 - [[kicad-dat]]
 
-- [[transistor]]
+- [[transistor]] - [[mosfet-dat]]

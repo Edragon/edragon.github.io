@@ -8,7 +8,7 @@ https://www.electrodragon.com/w/RCL_List
 
 ## passive
 
-- [[mosfet-dat]] - [[P-mos-dat]] - [[n-mos-dat]]
+- [[mosfet-dat]] - [[P-mos-dat]] - [[mos-n-dat]]
 
 - [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[inductor-dat]] 
 

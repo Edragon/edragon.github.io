@@ -1,7 +1,7 @@
 
 # ADC-dat
 
-- [[ADC-bat-monitor-dat]]
+- [[ADC-bat-monitor-dat]] - [[voltage-divider-dat]]
 
 
 ## chips 
