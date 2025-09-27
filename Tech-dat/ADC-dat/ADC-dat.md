@@ -79,6 +79,7 @@
 
 - AD8561ARZ
 
+- AD7864 == 4-Channel, Simultaneous Sampling, High Speed, 12-Bit ADC
 
 ## ref 
 

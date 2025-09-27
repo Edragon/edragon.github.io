@@ -56,6 +56,7 @@ https://www.altera.com/products/cpld/max-series/max-ii/overview.html
 * EPM3032
 * EPM3064
 
+- EPM7512AEBI256 == IC CPLD 512MC 10NS 256FBGA
 
 ### MAX10 
 

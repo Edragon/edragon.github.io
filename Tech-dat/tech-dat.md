@@ -153,7 +153,7 @@
 
 - [[USB-dat]] - [[USB-sys-dat]]
 
-- [[amplifier-dat]]
+- [[amplifier-dat]] - [[codec-dat]]
 
 
 
