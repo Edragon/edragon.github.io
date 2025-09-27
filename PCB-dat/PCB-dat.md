@@ -8,11 +8,16 @@
 
 - [[PCB-tools-dat]] - [[PCB-soldering-dat]]
 
-- [[desoldering-dat]] - [[PCB-fix-dat]]
+
 
 - [[PCB-accesories-dat]]
 
 - [[EDA-dat]] - [[PCB-design-dat]] - [[kicad-dat]]
+
+## PCB edit 
+
+- [[desoldering-dat]] - [[PCB-fix-dat]]
+
 
 
 ## ref 
