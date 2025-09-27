@@ -27,7 +27,7 @@
 
 - [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]]
 
-- [[tools-dat]]
+- [[tools-dat]] - [[multimeter-dat]]
   
 - [[mechanics-dat]] 
 

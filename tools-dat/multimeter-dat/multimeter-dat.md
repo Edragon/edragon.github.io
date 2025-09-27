@@ -21,7 +21,7 @@ https://eu.rigol.com/eu/products/DM_Detail/DM3058
 | [[UT-trend-dat]] | UT89XD       | General multimeter   | bad  | Cannot well measure capacitors |
 | [[vitor-dat]]    | VC9808+      | General multimeter   |
 | [[vitor-dat]]    | VC830L       | General multimeter   |
-|                  |
+| [[vitor-dat]]    | VC921        | General multimeter   | bad  | respone slow                   |
 
 
 

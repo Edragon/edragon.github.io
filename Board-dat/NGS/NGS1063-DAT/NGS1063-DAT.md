@@ -17,7 +17,6 @@ legacy wiki info
 
 ![](2025-03-24-17-25-06.png)
 
-for old version see here - [[NGS1063-old-dat]]
 
 Setup by jumpers 
 
@@ -46,6 +45,10 @@ Test commands
     OK
 
 
+for old version see here - [[NGS1063-old-dat]]
+
+
+
 ## Firmware Code 
 
 - default [[quectel-at-dat]] firmware also in the [github](https://github.com/Edragon/Quectel_ED20.git), you can flash it back to use AT commands 
@@ -57,6 +60,9 @@ Test commands
 - and Custom SDK List 
 
 ![](2023-12-11-19-02-13.png)
+
+
+
 
 
 ## demo video 
@@ -87,3 +93,5 @@ Test commands
 - [[NGS1063]] - [[NGS1063-fab]]
 
 - [[network-dat]] - [[location-dat]]
+
+- [[NGS1063-old-dat]]
