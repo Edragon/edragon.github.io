@@ -3,7 +3,7 @@
 
 - [[ESP32-S3-dat]]
 
-- [[ESP-SDK-dat]]
+- [[ESP-SDK-dat]] - [[ESP32-SDK-dat]]
 
 - [[micropython-dat]] - [[circuitpython-dat]] - [[circuitpython-ESP32-s3-dat]]
 

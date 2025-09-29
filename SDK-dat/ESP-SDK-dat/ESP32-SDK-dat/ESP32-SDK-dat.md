@@ -8,7 +8,11 @@
 
 - [[esptool-dat]]
 
-- [[data-storage-dat]] - [[USB-MSC-dat]]
+- [[data-storage-dat]] - [[USB-MSC-dat]] - [[SPIFF-dat]] - [[memory-dat]]
+
+- [[partition-table-dat]]
+
+
 
 
 ## other reference 
@@ -18,6 +22,9 @@
 
 
 
+## arduino 
+
+- C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32
 
 
 

@@ -1,6 +1,37 @@
 
 # SPIFF-dat
 
+- [[spiffsgen-dat]]
+
+
+
+## arduino read and print partition table 
+
+
+code 
+
+    void printPartitionTable() {
+    Serial.println("\n--- Partition Table ---");
+    esp_partition_iterator_t it = esp_partition_find(ESP_PARTITION_TYPE_ANY, ESP_PARTITION_SUBTYPE_ANY, NULL);
+    
+    while (it != NULL) {
+        const esp_partition_t* part = esp_partition_get(it);
+        Serial.printf("Label: %-10s Type: 0x%02x SubType: 0x%02x Address: 0x%06x Size: 0x%06x\n",
+                    part->label, part->type, part->subtype, part->address, part->size);
+        it = esp_partition_next(it);
+    }
+    esp_partition_iterator_release(it);
+    }
+
+output 
+
+    --- Partition Table ---
+    Label: nvs        Type: 0x01 SubType: 0x02 Address: 0x009000 Size: 0x005000
+    Label: otadata    Type: 0x01 SubType: 0x00 Address: 0x00e000 Size: 0x002000
+    Label: app0       Type: 0x00 SubType: 0x10 Address: 0x010000 Size: 0x140000
+    Label: app1       Type: 0x00 SubType: 0x11 Address: 0x150000 Size: 0x140000
+    Label: spiffs     Type: 0x01 SubType: 0x82 Address: 0x290000 Size: 0x160000
+    Label: coredump   Type: 0x01 SubType: 0x03 Address: 0x3f0000 Size: 0x010000
 
 
 
