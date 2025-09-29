@@ -1,5 +1,8 @@
 
-# SPIFFS-dat
+# SPIFF-dat
+
+
+
 
 
 ## file system arduino ide 
@@ -16,6 +19,9 @@ https://github.com/me-no-dev/arduino-esp32fs-plugin
 It does these things using two command line tools:
 
 - [mkspiffs](https://github.com/igrr/mkspiffs)
+
+
+
 - [[esptool-dat]]
 
 
@@ -64,6 +70,30 @@ Here are the most common methods to download files from SPIFFS on ESP32:
 #### 4. Third-Party Tools (ESP-IDF)
 - Tools like [`octopus-framework/spiffs-dumper`](https://github.com/octopus-framework/spiffs-dumper) can extract files from SPIFFS partitions using ESP-IDF.
 - Useful if you prefer not to use web servers or need offline access.
+
+
+
+
+## me-no-dev/arduino-esp32fs-plugin
+
+- https://github.com/me-no-dev/arduino-esp32fs-plugin
+
+
+Usage
+
+Open a sketch (or create a new one and save it).
+
+Go to sketch directory (choose Sketch > Show Sketch Folder).
+
+Create a directory named data and any files you want in the file system there.
+
+Make sure you have selected a board, port, and closed Serial Monitor.
+
+~~Select Tools > ESP32 Sketch Data Upload menu item.~~ This should start uploading the files into ESP32 flash file system.
+
+When done, IDE status bar will display SPIFFS Image Uploaded message. Might take a few minutes for large file system sizes.
+
+
 
 ## ref 
 

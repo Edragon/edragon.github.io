@@ -60,6 +60,12 @@ esptool --chip esp8266 --port COM8 --baud 460800 write-flash -z --flash-mode dio
 
 - https://github.com/Edragon/esp_firmware
 
+
+
+
 ## ref 
+
+
+- [[memory-dat]]
 
 - [[ESP8266-dat]]
