@@ -5,13 +5,8 @@
 
 - [[ESP-SDK-dat]] - [[ESP32-SDK-dat]]
 
-- [[micropython-dat]] - [[circuitpython-dat]] - [[circuitpython-ESP32-s3-dat]]
+- [[circuitpython-ESP32-s3-dat]]
 
-- [[ESP-IDF-dat]]
-
-- [[LVGL-dat]]
-
-- [[BLE-dat]] - [[memory-dat]] - [[data-storage-dat]] 
 
     esptool erase-flash
     esptool v5.0.1

@@ -12,7 +12,13 @@
 
 - [[partition-table-dat]]
 
+- [[BLE-dat]] 
 
+- [[LVGL-dat]]
+
+- [[ESP-IDF-dat]]
+
+- [[micropython-dat]] - [[circuitpython-dat]] 
 
 
 ## other reference 
