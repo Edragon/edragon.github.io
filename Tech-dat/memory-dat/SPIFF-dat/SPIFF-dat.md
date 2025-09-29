@@ -9,6 +9,8 @@
 
 - [[arduino-ide-dat]]
 
+Note: at the time of writing this post, the ESP32 Filesystem Uploader plugin is not supported on Arduino 2.0.
+
 
 the most simple solution is to use Arduino IDE 1.x when you need to upload a filesystem to your ESP32 board. The download links for Arduino IDE 1.x are listed here:
 
@@ -25,14 +27,18 @@ It does these things using two command line tools:
 - [[esptool-dat]]
 
 
-### arduino-littlefs-upload
+## spiffsgen.py
+
+
+
+## arduino-littlefs-upload
 
 and more spiffs support (new)
 
 https://github.com/earlephilhower/arduino-littlefs-upload
 
 
-### ESP32FS
+## ESP32FS
 
 https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/
 
@@ -98,3 +104,7 @@ When done, IDE status bar will display SPIFFS Image Uploaded message. Might take
 ## ref 
 
 - [[SDK-dat]] - [[ESP-SDK-dat]]
+
+- [[memory-dat]]
+
+

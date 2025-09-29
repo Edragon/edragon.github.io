@@ -28,6 +28,14 @@ REPL is on the USB-OTG connector.
 - [[protocols-dat]]
 
 
+## features 
+
+- [[USB-MSC-dat]] - [[USB-MTP-dat]] - [[USB-dat]] - [[USB-OTG-dat]]
+
+
+
+
+
 ## error log 
 
     E (291) quad_psram: PSRAM ID read error: 0x00ffffff, PSRAM chip not found or not supported, or wrong PSRAM line mode

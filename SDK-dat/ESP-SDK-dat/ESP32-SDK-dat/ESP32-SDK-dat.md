@@ -8,7 +8,7 @@
 
 - [[esptool-dat]]
 
-- [[data-storage-dat]]
+- [[data-storage-dat]] - [[USB-MSC-dat]]
 
 
 ## other reference 

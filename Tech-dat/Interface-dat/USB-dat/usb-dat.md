@@ -9,9 +9,11 @@
 
 - [[USB-STM32-dat]]
 
-- [[USB-OTG-dat]] 
+- [[USB-OTG-dat]] - [[USB-CDC-dat]] - [[USB-HID-dat]] - [[USB-MSC-dat]] - [[USB-DFU-dat]] - [[WebSerial-dat]]
 
-- [[keyboard-dat]] - [[USB-HID-dat]] - [[mouse-dat]]
+- [[USB-MTP-dat]]
+
+- [[keyboard-dat]] - [[mouse-dat]]
 
 - [[USB-FC-trigger-dat]] - [[USB-FC-dat]]
 
