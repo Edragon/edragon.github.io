@@ -276,7 +276,9 @@ MPC cable
 
 ### NBL 
 
-- [[bluetooth-dat]] - [[bt-audio-dat]]
+- [[bluetooth-dat]] 
+
+- [[bt-audio-dat]] - [[NBL1111-dat]] - [[NBL1115-dat]]
 
 audio bluetooth Speaker - [[NBL1089-DAT]] 
 

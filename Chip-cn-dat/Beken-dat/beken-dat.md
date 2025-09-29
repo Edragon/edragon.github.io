@@ -1,6 +1,16 @@
 
 # beken-dat 
 
+
+- [[Walkie-talkie-dat]] - [[wireless-microphone-dat]] - [[ETC-dat]]
+
+
+## 	Proprietary
+
+- BK5812
+- BK2481/2/3
+- BK5813
+
 ## modules 
 
 - [[NBL1037-dat]] - [[NBL1038-dat]]

@@ -7,6 +7,8 @@
 
 - [[allwinner-dat]] - [[allwinner-D1-dat]] - [[V3S-dat]] - [[F1C200-dat]] - [[F1C100-dat]] - [[F133-dat]]
 
+- [[beken-dat]]
+
 - [[Espressif-dat]] - [[ESP32-dat]] - [[ESP32-S3-dat]] - [[ESP32-C3-dat]] - [[ESP32-P4-dat]]
 
 - [[ESP8266-dat]] - [[esp8266-modules-dat]] - [[ESP8266-board-dat]]

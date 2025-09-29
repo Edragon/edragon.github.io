@@ -3,6 +3,7 @@
 
 - [[fab-PCBA-dat]]
 
+- [[high-precise-printing-dat]]
 
 ## common size frameless
 
@@ -64,6 +65,9 @@ other un-common size frameless
 - "machine" bias 0.05 mm
 
 
+
+
+
 ## stencil printer 
 
 ### table printer 
@@ -111,6 +115,10 @@ double side printer for - [[NGS1141-dat]]
 cruved printer 
 
 ![](2025-09-01-17-57-49.png)
+
+
+
+
 
 
 
