@@ -1,9 +1,11 @@
 
 # NBL1111-dat
 
-https://www.electrodragon.com/product/bluetooth-5-2-stereo-audio-data-transmission-module-bk3266/
 
-breakout board - [[NBL1115-dat]]
+board - [Bluetooth Audio Breakout Board, w/Amp., Car Receiver, Bluetooth 5.0, BK3266](https://www.electrodragon.com/product/bluetooth-5-2-stereo-audio-data-transmission-module-bk3266/)
+
+
+breakout board - [[NBL1115-dat]]s
 
 - [[bt-audio-dat]]
 
@@ -242,4 +244,6 @@ This module is mainly used for short-distance music transmission. It can be easi
 
 ## ref 
 
-- [[bt-audio-dat]]
+- [[bt-audio-dat]] - [[BK3266-dat]]
+
+- [[NBL1111]]

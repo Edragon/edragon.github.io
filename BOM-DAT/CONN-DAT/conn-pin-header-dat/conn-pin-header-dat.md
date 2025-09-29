@@ -35,6 +35,8 @@ dimension
 
 ## bended 90-degree pin header
 
+- [[CCO3515-dat]]
+
 material version: 
 
 - Iron needle (nickel-plated)
@@ -45,6 +47,9 @@ material version:
 note below three version available, we only sell "right-bend" version here [[CCO3515-dat]]
 
 ![](2025-04-08-15-15-22.png)
+
+
+
 
 ### reversed bend 
 

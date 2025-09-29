@@ -5,6 +5,11 @@
 
 - [[kicad-footprint-dat]]
 
+- [[QFN-dat]] 
+
+- [[QFP-dat]] - [[SSOP-dat]] - [[SOP-dat]]
+
+
 ## common footprint libraries 
 
 - [[nettie-dat]]
