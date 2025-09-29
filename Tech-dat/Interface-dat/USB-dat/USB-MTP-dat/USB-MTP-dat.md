@@ -1,6 +1,10 @@
 
 # USB-MTP-dat
 
+
+
+
+
 ## What is MTP?
 - **MTP (Media Transfer Protocol)** is a USB class protocol.
 - Lets a PC (Windows/macOS/Linux) access ESP32 files (SPIFFS, LittleFS, SD card).
@@ -24,7 +28,12 @@
 - Compatible with Windows Explorer, macOS Finder, Linux file managers.
 - ESP32 firmware stays in control of FS.
 
+## ESP32-S3 Core and MTP Support Availability
 
+- **ESP-IDF**: MTP is supported via TinyUSB component.
+- **Arduino-ESP32 core (v2.0.5 and newer)**: Includes MTP classes (`MTP.h`).
+- Works on **ESP32-S2** and **ESP32-S3** (chips with native USB OTG).
+- Not supported on original ESP32 or ESP32-C3 (no native USB device).
 
 
 ## ref 

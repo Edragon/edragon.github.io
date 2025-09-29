@@ -5,16 +5,6 @@
 - USB Mass Storage Class (MSC) for SPIFFS/LittleFS
 
 
-## ESP32-S3
-
-USB Mode 
-
-- Hardware CDC and JTAG
-- USB-OTG (TinyUSB)
-
-Upload Mode 
-- UARTO / Hardware CDC
-- USB-OTG CDC (TinyUSB)
 
 
 ## portable devices 
