@@ -44,6 +44,62 @@
 
 
 
+BLE server code example (Arduino):
+
+```cpp
+   #include <BLEDevice.h>
+   #include <BLEUtils.h>
+   #include <BLEServer.h>
+   #include <SPIFFS.h>
+
+   #define SERVICE_UUID        "1234"
+   #define CHARACTERISTIC_UUID "5678"
+
+   File dataFile;
+   String buffer = "";
+
+   class MyCallbacks: public BLECharacteristicCallbacks {
+   void onWrite(BLECharacteristic *pCharacteristic) {
+      std::string rxValue = pCharacteristic->getValue();
+      if (rxValue.length() > 0) {
+         buffer += rxValue.c_str();
+      }
+   }
+   };
+
+   void setup() {
+   Serial.begin(115200);
+   SPIFFS.begin(true);
+
+   BLEDevice::init("ESP32");
+   BLEServer *pServer = BLEDevice::createServer();
+   BLEService *pService = pServer->createService(SERVICE_UUID);
+   BLECharacteristic *pCharacteristic = pService->createCharacteristic(
+      CHARACTERISTIC_UUID,
+      BLECharacteristic::PROPERTY_WRITE
+   );
+   pCharacteristic->setCallbacks(new MyCallbacks());
+   pService->start();
+   BLEAdvertising *pAdvertising = BLEDevice::getAdvertising();
+   pAdvertising->addServiceUUID(SERVICE_UUID);
+   pAdvertising->start();
+
+   Serial.println("Waiting for BLE data...");
+   }
+
+   void loop() {
+   // Example: once data transfer finished, write to SPIFFS
+   if (buffer.endsWith("EOF")) {   // simple marker
+      dataFile = SPIFFS.open("/data.txt", FILE_WRITE);
+      dataFile.print(buffer);
+      dataFile.close();
+      buffer = "";
+      Serial.println("File updated!");
+   }
+   }
+```
+
+
 ## ref 
 
 - [[memory-dat]]

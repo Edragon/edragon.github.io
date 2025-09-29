@@ -1,6 +1,8 @@
 
 # high-precise-printing-dat
 
+- [[solder-bridging-dat]]
+
 ## 1. Stencil Thickness
 - **Recommended**: 0.10 mm (4 mil) stainless steel
 - Sometimes 0.12 mm (5 mil) can work, but **risk of bridging increases**

@@ -11,6 +11,7 @@
 
 - [[LVGL-dat]]
 
+- [[BLE-dat]] - [[memory-dat]] - [[data-storage-dat]] 
 
     esptool erase-flash
     esptool v5.0.1
@@ -30,8 +31,8 @@ REPL is on the USB-OTG connector.
 
 ## features 
 
-- [] [[USB-MSC-dat]] 
-- [] [[USB-MTP-dat]] 
+- [[USB-MSC-dat]] 
+- [[USB-MTP-dat]] 
 
 - [[USB-dat]] - [[USB-OTG-dat]] - [[tinyUSB-dat]]
 
