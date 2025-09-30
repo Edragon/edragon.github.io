@@ -49,3 +49,13 @@ ADUM5000ARWZ-RL ADI 2022+ 2.52usd
 	
 [LTM4644 / LTM4644-1 == Quad DC/DC µModule Regulator with Configurable 4A Output Array](https://www.analog.com/media/en/technical-documentation/data-sheets/ltm4644-4644-1.pdf)
 
+
+
+## AD 
+
+- [AD9244BSTZ - 14-Bit, 40 MSPS/65 MSPS A/D Converter - AD9244](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9244.pdf)
+
+
+## ref 
+
+- [[chip-dat]]

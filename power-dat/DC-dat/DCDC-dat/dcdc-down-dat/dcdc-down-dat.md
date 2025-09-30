@@ -8,11 +8,16 @@
 
 - [[silergy-dat]]
 
+
+## chips 
+
 - [[XL-dat]] - [[XL4015-dat]] - [[XL1509-dat]]
 
 - [[OPM1192-dat]] - [[OPM1152-dat]]
 
 - [[richtek-dat]] - [[RT8279-dat]]
+
+- [[MPS-dat]] - [[intel-dat]]
 
 
 ## DCDC down module 
@@ -127,7 +132,7 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 
 - [[TI-power-dat]] 
 
-
+- [[craneae-dat]] - MOR2805S == MOR Single and Dual DC-DC Converters == 16 to 40 Volt Input - 66 to 120 Watt
 
 ## ref 
 

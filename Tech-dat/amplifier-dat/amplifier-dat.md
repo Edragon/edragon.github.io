@@ -111,7 +111,7 @@ Active Low Pass filter with Amplification
 
 - TL082 == Wide Bandwidth Dual JFET Input Operational Amplifier
 
-
+- [[TI-signal-dat]] - [[TI-AMP-dat]]
 
 ## ref 
 

@@ -21,6 +21,12 @@ DA14580 is selected by Xiaomi Bracelet. DA14580 is the world's smallest, lowest 
 - [[MDK-ARM-dat]]
 
 
+## digitizer-dat
+
+- [ISL98001 == Triple Video Digitizer with Digital PLL](https://www.renesas.com/en/document/dst/isl98001-datasheet?srsltid=AfmBOorcxnZOdJ4UY-C2hDSI7Bo7-zJHZQ8r79fzwhDIWpt-yjGB9aKx)
+
+The ISL98001 3-Channel, 8-bit Analog Front-End (AFE) contains all the functions necessary to digitize analog YPbPr video signals and RGB graphics signals from DVD players, digital VCRs, video set-top boxes, and personal computers. This product family’s conversion rates support HDTV resolutions up to 1080p and PC monitor resolutions up to UXGA and QXGA, while the front end's programmable input bandwidth ensures sharp, clear images at all resolutions.
+
 
 ## tools 
 

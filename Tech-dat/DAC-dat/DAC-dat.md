@@ -3,6 +3,8 @@
 
 - [[amplifier-dat]] - [[ESP32-DAC-dat]]
 
+- [[TI-DAC-dat]] - [[TI-dat]] - [[TI-signal-dat]]
+
 
 ## ref 
 

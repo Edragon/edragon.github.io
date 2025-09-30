@@ -3,6 +3,9 @@
 
 - [[ADC-bat-monitor-dat]] - [[voltage-divider-dat]]
 
+- [[Analog-device-dat]]
+
+
 
 ## chips 
 

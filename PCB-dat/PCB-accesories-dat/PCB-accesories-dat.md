@@ -26,7 +26,9 @@ PCB holder
 
 ![](2025-09-30-10-14-51.png)
 
+magnetic plate 
 
+![](2025-09-30-10-15-40.png)
 
 
 ## ref 
