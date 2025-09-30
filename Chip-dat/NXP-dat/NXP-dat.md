@@ -30,6 +30,17 @@ PCF85176 == 40 x 4 universal LCD driver for low multiplex rates
 
 - [[UDA1334-dat]]
 
+## RTC
+
+- [[RTC-dat]]
+
+- PCF85063A
+- PCF8563 Real-time clock/calendar
+PCF8563T/5,518
+
+
+
+
 ## ref 
 
 - [[CAN-dat]]

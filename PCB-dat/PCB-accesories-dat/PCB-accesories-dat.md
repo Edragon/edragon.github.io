@@ -20,6 +20,15 @@
 - [[PCB-installation-dat]]
 
 
+PCB holder 
+
+![](2025-09-30-10-14-28.png)
+
+![](2025-09-30-10-14-51.png)
+
+
+
+
 ## ref 
 
 - [[PCB-dat]] - [[rover-dat]]

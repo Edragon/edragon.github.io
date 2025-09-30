@@ -10,24 +10,16 @@ Boards
 
 ## chip 
 
-Dallas 
-- [[DS1302-DAT]]
-- [[DS1307-DAT]]
-- [[DS3231-DAT]]
+[[Dallas-dat]] 
 
-NXP
-- PCF85063A
-- PCF8563 Real-time clock/calendar
-
-
+[[NXP-dat]]
 
 BL
 
+- [[microchip-dat]] 
 
-- [[NXP-dat]]
+MCP7940N == Battery-Backed I2C™ Real-Time Clock/Calendar with SRAM
 
-
-PCF8563T/5,518
 
 ## SCH 
 
