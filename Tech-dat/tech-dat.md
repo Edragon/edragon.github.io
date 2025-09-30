@@ -127,7 +127,7 @@
 
 ### Sensors and actuator 
 
-- [[sensor-dat]] - [[current-sensor-dat]] - [[current-transformer-dat]]
+- [[sensor-dat]] - [[sensor-motion-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]]
   
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[pump-dat]]
 
@@ -148,7 +148,7 @@
 
 - [[serial-dat]] - [[serial-wireless-dat]]
   
-- [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]]
+- [[memory-dat]] - [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]]
 
 - [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]]
 

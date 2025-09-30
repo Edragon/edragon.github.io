@@ -1,8 +1,18 @@
 
 # motion-sensor-dat
 
+- [[3-axis-gyroscope-dat]] - [[3-axis-Accelerometer-dat]] - [[3-Axis-Magnetic-dat]]
+ 
+- [[6-axis-dat]]
 
-## motion sensor 
+
+
+
+## chips 
+
+- [[isentek-dat]] - [[st-sensor-dat]] - [[bosch-dat]] - [[InvenSense-dat]] - [[amsys-sensor-dat]]
+
+
 
 
 ## Sensor Comparison Table
@@ -63,7 +73,9 @@ most simple motion sensor
 - [[ultrasonic-sensor-dat]]
 
 
-## Motion sensor types [[sensor-TOF-dat]]
+## Motion sensor types 
+
+[[sensor-TOF-dat]]
 
 - [[accelerometer-dat]] - [[gyroscope-dat]] - [[magnetometer-dat]] - [[PIR-sensor-dat]] - [[radar-sensor]] - [[TOF-sensor-dat]] - [[LiDAR-sensor-dat]] - [[compass-sensor-dat]]
 
