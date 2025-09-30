@@ -65,14 +65,25 @@ Hold Ctrl while dragging → ignores grid snap (lets you place anywhere).
 Useful when aligning visually or placing text/graphics
 
 
+
+
+
+
 ## text 
 
 
+## stop mask - trace 
 
-## filled zone and polygon 
+- turn on - soldermask 
+
+## stop mask - filled zone and polygon 
+
+
+- duplicate the filled zone into polygon, and move to **Mask layer** to stop it being filled
+
+details 
 
 - click corner to create chamber
-- duplicate the filled zone into polygon, and move to **Mask layer** to stop it being filled
 
 
 

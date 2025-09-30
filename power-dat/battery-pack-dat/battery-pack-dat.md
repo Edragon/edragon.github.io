@@ -28,7 +28,15 @@
 
 - [[e-bike-dat]]
 
+### laptop internal battery pack
 
+3S-3P == 11V - [[lenovo-dat]]
+
+![](2025-09-30-21-25-57.png)
+
+![](2025-09-30-21-26-17.png)
+
+![](2025-09-30-21-26-41.png)
 
 
 ## 🔋 Common Lithium Battery Pack Combinations

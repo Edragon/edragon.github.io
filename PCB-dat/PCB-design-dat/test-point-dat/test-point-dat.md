@@ -6,6 +6,14 @@
 add points like 
 
 
+
+## press test rig V3 
+
+![](2025-09-30-21-24-36.png)
+
+- test OK with [[JLINK-dat]]
+
+
 ## test rig v2 
 
 0.8mm diameter pin 

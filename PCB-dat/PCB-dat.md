@@ -14,7 +14,7 @@
 
 - [[EDA-dat]] - [[PCB-design-dat]] - [[kicad-dat]]
 
-
+- [[test-point-dat]]
 
 
 ## PCB edit 
