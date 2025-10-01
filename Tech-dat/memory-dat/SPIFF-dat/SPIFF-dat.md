@@ -1,9 +1,17 @@
 
 # SPIFF-dat
 
+
+
+**SPIFFS** (**SPI Flash File System**) is a lightweight filesystem designed for microcontrollers with **SPI flash memory**.  
+It allows storing files (configuration, logs, web pages, etc.) on flash memory in a way similar to how a computer uses a filesystem.
+
+
+
+
 - [[spiffsgen-dat]]
 
-
+- [[littleFS-dat]]
 
 ## arduino read and print partition table 
 
