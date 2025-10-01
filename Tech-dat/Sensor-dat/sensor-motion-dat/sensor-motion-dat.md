@@ -3,7 +3,7 @@
 
 - [[3-axis-gyroscope-dat]] - [[3-axis-Accelerometer-dat]] - [[3-Axis-Magnetic-dat]]
  
-- [[6-axis-dat]]
+- [[6-axis-dat]] - [[bosch-dat]]
 
 
 
@@ -12,7 +12,7 @@
 
 - [[isentek-dat]] - [[st-sensor-dat]] - [[bosch-dat]] - [[InvenSense-dat]] - [[amsys-sensor-dat]]
 
-
+- [[qstcorp-dat]]
 
 
 ## Sensor Comparison Table

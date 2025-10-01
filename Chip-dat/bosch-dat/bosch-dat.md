@@ -5,9 +5,11 @@
 
 - [[BME280-dat]] - [[BMP580-dat]] - [[BMP680-dat]] 
 
-
+- [[sensor-motion-dat]]
 
 - [[BNO055-dat]]
+
+
 
 Smart sensor combining accelerometer, gyroscope, magnetometer and orientation software
 
@@ -16,7 +18,14 @@ Integrated MCU + flash. Integrated sensor fusion.
 https://www.bosch-sensortec.com/products/smart-sensor-systems/bno055/
 
 
-BMI055 == 6-axis inertial sensor
+
+## BMI088 == Inertial Measurement Unit
+
+Accelerometer (A): 16-bit
+Gyroscope (G): 16-bit
+
+
+## BMI055 == 6-axis inertial sensor
 
 The BMI055 is a very small, 6 axis inertial sensor, consisting of: A digital, triaxial 12bit acceleration sensor and a digital, triaxial 16bit, ±2000°/s gyroscope. The BMI055 allows very low-noise measurement of angular rates and accelerations in 3 perpendicular axes and thus senses tilt, motion, shock and vibration in mobile phones, handhelds, computer peripherals, man-machine interfaces, remote and game controllers.
 
