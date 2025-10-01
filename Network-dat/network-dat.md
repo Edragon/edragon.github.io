@@ -10,12 +10,12 @@
 
 ## Network tech by range 
 
-| Technology      | Range                        | Data Rate        | Notes                                      |
-|-----------------|-----------------------------|------------------|---------------------------------------------|
-| [[M2M-dat]]     | Almost infinite (provider)  | Varies           | Limited by service provider network         |
-| [[lora-dat]]    | Long, up to 10 km           | Low              |                                            |
-| [[RF-link-dat]] | Medium, up to 1 km          | Low              |                                            |
-| [[ELRS-dat]]    | Medium, up to 1 km (5 km)   | High             |                                            |
+| Technology      | Range                      | Data Rate | Notes                               |
+| --------------- | -------------------------- | --------- | ----------------------------------- |
+| [[M2M-dat]]     | Almost infinite (provider) | Varies    | Limited by service provider network |
+| [[lora-dat]]    | Long, up to 10 km          | Low       |                                     |
+| [[RF-link-dat]] | Medium, up to 1 km         | Low       |                                     |
+| [[ELRS-dat]]    | Medium, up to 1 km (5 km)  | High      |                                     |
 
 
 
@@ -109,7 +109,45 @@ EtherCAT (Ethernet for Control Automation Technology) is a high-performance, rea
 - [[RTU-dat]] - [[modbus-dat]]
 
 
+## info 
 
+### What is DTE and DCE?  
+
+**DCE** = **Data Circuit-terminating Equipment** (also called Data Communications Equipment).  
+
+- In the context of modems, the **DCE** is the modem itself.  
+- It connects to a **DTE** (**Data Terminal Equipment**), which is typically your computer, microcontroller, or router.  
+
+**Roles:**
+
+| Device Type | Meaning                                                                        | Example                                |
+| ----------- | ------------------------------------------------------------------------------ | -------------------------------------- |
+| **DTE**     | Data Terminal Equipment — device that generates/uses data                      | PC, microcontroller, router            |
+| **DCE**     | Data Circuit-terminating Equipment — device that provides a communication path | Modem, serial adapter, cellular module |
+
+
+- The DTE and DCE sides determine **who provides clock signals**, and how cables are wired (TX/RX pins).  
+- In UART serial communication, for example:  
+  - DTE sends data to DCE, which modulates/transmits it.  
+  - DCE receives data from DTE, demodulates it, and sends it to the remote device.  
+
+
+
+## What is PPP?  
+
+**PPP** (**Point-to-Point Protocol**) is a data link layer protocol used to establish a **direct connection between two network nodes**.  
+It allows the transmission of **multi-protocol datagrams** (e.g., IP, IPv6, IPX) over serial links, phone lines, or other point-to-point connections.
+
+---
+
+### 2. Key Uses of PPP  
+- Connecting two devices over a serial link.  
+- Dial-up Internet access (historical).  
+- VPN connections (PPP over SSH or PPP over Ethernet).  
+- Cellular data connections (PPP over UART for modems).  
+
+Example:  
+A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often uses PPP to establish an IP connection.
 
 
 
