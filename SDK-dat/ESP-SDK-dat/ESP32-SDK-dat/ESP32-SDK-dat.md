@@ -14,7 +14,7 @@
 
 - [[BLE-dat]] 
 
-- [[LVGL-dat]]
+- [[LVGL-dat]] - [[RTOS-dat]]
 
 - [[ESP-IDF-dat]]
 

@@ -189,6 +189,160 @@ Core 1: APP_CPU (often used for your application)
 | **Trace & Debug**       | Tools: SystemView, Tracealyzer    | Zephyr logging & tracing                 | NetX, ThreadX tracing tools        | Manual logging                 |
 | **Community Support**   | Huge, mature ecosystem            | Growing fast, backed by Linux Foundation | Good, backed by Microsoft          | None (solo dev)                |
 
+
+
+
+## example 3 
+
+FreeRTOS Example Explanations
+
+✅ In short:
+
+- `Queue examples` → show how to pass data safely.
+- `Mutex/Notifications` → show synchronization methods.
+- `AnalogRead/Blink` → show multitasking with hardware.
+- `TaskStatus/Utilities` → show debugging and monitoring.
+- `Interrupts` → show ISR to task communication.
+
+
+### 1. AnalogRead_DigitalRead
+- Shows how to create tasks that perform **analog input** and **digital output**.
+- One task periodically reads an analog pin (ADC).
+- Another task toggles a digital pin (e.g., LED).
+- Demonstrates how multiple tasks run independently without blocking.
+
+---
+
+### 2. ArrayQueue
+- Demonstrates using a **FreeRTOS queue** to pass an **array of data** between tasks.
+- For example: Task A fills an array → sends via queue → Task B receives and processes.
+- Useful for handling data buffers (sensor readings, UART packets).
+
+---
+
+### 3. Assert
+- Shows how **configASSERT()** works in FreeRTOS.
+- Asserts help catch programming errors (e.g., stack overflow, bad API usage).
+- Example demonstrates failing conditions to show how assert is triggered.
+
+---
+
+### 4. Blink_AnalogRead
+- Combines two common Arduino tasks:
+  - One task **blinks an LED**.
+  - Another task **reads analog input**.
+- Demonstrates that FreeRTOS allows both to run concurrently without delay() blocking.
+
+---
+
+### 5. GoldilocksAnalogueTestSuite
+- Specific test suite for the **Goldilocks Analogue board** (Arduino-compatible with audio-grade ADC/DAC).
+- Shows how to use FreeRTOS tasks with more advanced ADC/DAC hardware.
+- Mostly relevant if you use that hardware.
+
+---
+
+### 6. IntegerQueue
+- Demonstrates using a **queue of integers** between producer/consumer tasks.
+- Example: one task generates numbers, another task prints them.
+- Basic introduction to queues in FreeRTOS.
+
+---
+
+### 7. Interrupts
+- Shows how FreeRTOS interacts with **hardware interrupts**.
+- Example: An ISR (interrupt service routine) gives a semaphore or sends data to a queue.
+- Demonstrates safe communication between interrupts and tasks.
+
+---
+
+### 8. Mutex
+- Demonstrates a **mutex (mutual exclusion lock)**.
+- Ensures only one task at a time accesses a shared resource (like Serial or an I²C bus).
+- Prevents data corruption when multiple tasks try to use the same peripheral.
+
+---
+
+### 9. Notifications
+- Shows how to use **task notifications** instead of semaphores/queues.
+- Lightweight way to signal a task from another task or from an ISR.
+- Example: ISR notifies a task when a button is pressed.
+
+---
+
+### 10. StructArray
+- Demonstrates passing an **array of structs** between tasks.
+- Useful when you have structured data (like sensor packets).
+- Similar to ArrayQueue, but with custom struct types.
+
+---
+
+### 11. StructQueue
+- Demonstrates using a **queue of structs**.
+- Example: Task A sends a struct `{temperature, humidity, timestamp}` to Task B.
+- More real-world than IntegerQueue because data usually comes in structs.
+
+---
+
+### 12. TaskStatus
+- Demonstrates retrieving **task runtime statistics**.
+- Uses FreeRTOS APIs (`uxTaskGetSystemState`, `vTaskGetRunTimeStats`) to show:
+  - Task names
+  - CPU usage %
+  - Stack high-water marks
+- Useful for debugging and optimization.
+
+---
+
+### 13. TaskUtilities
+- Shows helper functions that make FreeRTOS task management easier.
+- Examples: delaying tasks (`vTaskDelay`), checking stack usage, suspending/resuming tasks.
+- A "toolbox" demo for common task patterns.
+
+
+
+## example 2 
+
+queues + shared state
+
+```
+    struct ControlData {
+        uint16_t throttle;
+        uint16_t steering;
+        uint16_t battery_mv;
+    };
+
+    // Shared global (protected with mutex if multiple tasks write to it)
+    volatile ControlData control;
+```
+
+✅ Recommendation: Use FreeRTOS with 3–4 tasks (ELRS, motors, ADC, BLE) + one shared struct. It gives you the best modularity and avoids blocking.
+
+**ELRS Task (high priority)**
+
+- Reads UART (CRSF packets).
+- Parses channel values.
+- Updates control.throttle and control.steering.
+
+**Motor Control Task (medium/high priority)**
+
+- Runs periodically (e.g. every 10–20 ms).
+- Reads latest control.throttle / steering.
+- Writes PWM to motors (non-blocking).
+
+**Battery ADC Task (low priority / slow loop)**
+
+- Reads ADC every 500–1000 ms.
+- Updates control.battery_mv.
+
+**BLE Task (lowest priority)**
+
+- Takes control.battery_mv and updates BLE advertising packet.
+- Runs every 1–2 seconds.
+
+
+
+
 ## simple example 1 
 
     #include "FreeRTOS.h"
@@ -216,3 +370,7 @@ Core 1: APP_CPU (often used for your application)
         vTaskStartScheduler();  // Start FreeRTOS
         while (1);
     }
+
+## ref 
+
+- [[system-dat]]
