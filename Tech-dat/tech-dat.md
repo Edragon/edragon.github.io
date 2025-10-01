@@ -86,7 +86,7 @@
 
 - [[bluetooth-dat]] - [[ble-dat]]
 
-- [[WIFI-DAT]]
+- [[WIFI-DAT]] - [[mqtt-dat]] - [[TCPIP-dat]]
 
 ### MCU / CTRL / Processing 
 

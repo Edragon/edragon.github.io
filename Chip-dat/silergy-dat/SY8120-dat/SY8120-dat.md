@@ -27,6 +27,7 @@ High Efficiency, Fast Response, 2.0A, 18V Input Synchronous Step Down Regulator
 
 100K / 22.1K = 3.3V
 100K / 16.6K = 4.2V
+100K / 15K = 4.6V
 100K / 13K = 5V
 
 
@@ -38,3 +39,8 @@ Rl = 0.6V / (Vout - 0.6V) * Rh
       = 0.6V / (5.1V - 0.6V) * 100K = **12.8K**
       = 0.6V / (4.2V - 0.6V) * 100K = 16.6K
       = 0.6V / (4.3V - 0.6V) * 100K = **16.1K**
+
+
+## ref 
+
+- [[HDK]] - [[HDK-dat]]
