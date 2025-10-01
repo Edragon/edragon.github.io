@@ -33,7 +33,7 @@
 
 ## other categories
 
-- [[network-dat]] - [[encryption-dat]] - [[wifi-dat]] - [[BLE-dat]] - [[ethernet-dat]]
+- [[network-dat]] - [[encryption-dat]] - [[WIFI-DAT]] - [[BLE-dat]] - [[ethernet-dat]]
 
 - [[power-dat]] - [[LDO-dat]]
 

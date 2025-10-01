@@ -111,7 +111,7 @@ It is not simple to setup the WiFiCar with the provided software. You should hav
  
 - [[SDR1064]] 
 
-- [[L293-dat]] - [[dc-motor-dat]] - [[wifi-dat]] - [[rover-dat]]
+- [[L293-dat]] - [[dc-motor-dat]] - [[WIFI-DAT]] - [[rover-dat]]
  
 - [[logic-dat]]
 

@@ -19,7 +19,7 @@ product url - [2PCs 2.4G Soft FPC PCB Antenna, IPX, ROHS](https://www.electrodra
 
 - Suitable for all WIFI modules, Bluetooth and other wireless devices.
 
-- [[RF-dat]] - [[wifi-dat]]
+- [[RF-dat]] - [[WIFI-DAT]]
 
 ## Demo Code and Video
 

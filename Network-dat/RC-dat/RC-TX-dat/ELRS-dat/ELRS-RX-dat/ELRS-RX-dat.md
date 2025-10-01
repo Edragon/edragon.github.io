@@ -23,7 +23,7 @@ Paired with an external dipole T-antenna (customized by a professional factory, 
 
 The CYCLONE series receivers are based on the open-source architecture and program of ExpressLRS.
 
-We have released 3 types of RX receiver modules. All use the [[ESP8285-dat]] [[MCU-dat]]. You can upgrade the firmware via [[WIFI-dat]], which is very user-friendly.
+We have released 3 types of RX receiver modules. All use the [[ESP8285-dat]] [[MCU-dat]]. You can upgrade the firmware via [[WIFI-DAT]], which is very user-friendly.
 
 ## hotspot 
 

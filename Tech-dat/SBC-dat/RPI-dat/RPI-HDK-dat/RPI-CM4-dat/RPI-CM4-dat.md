@@ -52,7 +52,7 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 - [[BCM2711-dat]]
 
-- [[EMMC-dat]] - [[WIFI-dat]] - [[PHY-dat]] - [[ethernet-dat]]
+- [[EMMC-dat]] - [[WIFI-DAT]] - [[PHY-dat]] - [[ethernet-dat]]
 
 - Connector - 【 DF40HC (3.0)-100DS-0.4V(51)】
 

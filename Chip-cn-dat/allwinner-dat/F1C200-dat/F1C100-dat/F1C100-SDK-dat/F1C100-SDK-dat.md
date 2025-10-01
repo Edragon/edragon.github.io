@@ -23,7 +23,7 @@ build
 
 - [[buildroot-dat]]
 
-- [[lvgl-dat]] - [[openwrt-dat]] - [[wifi-dat]]
+- [[lvgl-dat]] - [[openwrt-dat]] - [[WIFI-DAT]]
 
 
 ## Note 

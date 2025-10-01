@@ -5,7 +5,7 @@
 
 - [[serial-dat]] - [[ESP32-dat]] - [[ESP8266-dat]]
 
-- [[MQTT-dat]]
+- [[mqtt-dat]]
 
 - [[NWI1126-dat]]
 

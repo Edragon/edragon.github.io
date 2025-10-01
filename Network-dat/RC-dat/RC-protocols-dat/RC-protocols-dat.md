@@ -23,7 +23,7 @@
 
 ## RC-signals
 
-- [[WIFI-dat]]
+- [[WIFI-DAT]]
 
 
 ### Proprietary modulation schemes（专有调制方案）

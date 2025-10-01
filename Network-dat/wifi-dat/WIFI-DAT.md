@@ -1,9 +1,9 @@
 
 # Wifi  
 
-- [[wifi-sdk-dat]]
+- [[wifi-sdk-dat]] 
 
-
+- [[usb-wifi-dat]]
 
 ## tech 
 

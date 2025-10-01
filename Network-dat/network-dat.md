@@ -38,9 +38,13 @@
 
 - [[radio-dat]]
 
-- [[ethernet-dat]] - [[wifi-dat]]
+- [[ethernet-dat]] - [[WIFI-DAT]]
 
+## internet 
 
+- [[network-system-dat]]
+
+- [[WIFI-DAT]] - [[HTTP-dat]] - [[UDP-dat]] - [[MQTT-dat]] - [[TCPIP-dat]]
 
 
 ## RC apps protocols 
@@ -86,7 +90,7 @@ and more - [[IBUS-dat]] - [[PPM-dat]] - [[FPort-dat]] - [[SPEKTRUM-dat]] - [[SUM
 
 - [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[AGPS-dat]]
 
-- [[NGS1089-dat]]
+- [[NGS1089-dat]][[mqtt-dat]]
 
 ## IOT 
 

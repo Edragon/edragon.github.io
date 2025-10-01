@@ -104,7 +104,7 @@ If you're building a smart camera or want Allwinner's AI SDKs: F133/V851s is pre
 
 - [[FPC-dat]] - [[switch-dat]]
 
-- [[wifi-dat]]
+- [[WIFI-DAT]]
 
 
 datasheet - [[F133_Datasheet_V1.0_whycan.pdf]]
@@ -215,7 +215,7 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 - [[ethernet-dat]]
 
-- [[wifi-dat]] compatible modules == [[RTL8723-dat]]
+- [[WIFI-DAT]] compatible modules == [[RTL8723-dat]]
 
 - [[HDMI-dat]]
 

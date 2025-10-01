@@ -43,7 +43,7 @@ Supported Chipsets
 
 - [[realtek]]
 
-- [[802.11-dat]] - [[wifi-dat]]
+- [[802.11-dat]] - [[WIFI-DAT]]
 
 - [[chip-dat]]
 

@@ -68,7 +68,7 @@ compile
 
 ### wifi 
 
-- [[wifi-dat]]
+- [[WIFI-DAT]]
 
 
 #### WiFi Setup (English)

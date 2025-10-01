@@ -9,7 +9,7 @@
 
 - [[memory-dat]] - [[SD-dat]] - [[SD-SDK-dat]]
 
-- [[wifi-dat]] - [[wifi-SDK-dat]]
+- [[WIFI-DAT]] - [[wifi-SDK-dat]]
 
 - [[I2S-dat]] - [[I2S-SDK-dat]]
 

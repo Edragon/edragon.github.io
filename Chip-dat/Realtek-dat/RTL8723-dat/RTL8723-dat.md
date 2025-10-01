@@ -1,7 +1,7 @@
 
 # RTL8723-dat
 
-- [[wifi-dat]] + [[bluetooth-dat]]
+- [[WIFI-DAT]] + [[bluetooth-dat]]
 
 ![](2025-07-13-22-32-52.png)
 
