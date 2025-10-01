@@ -1,12 +1,22 @@
 
 # cap-dat 
 
+- [[ESR-capacitor-dat]] - [[MLCC-dat]] - [[Electrolytic-cap-dat]] - [[tantalum-dat]]
+
+
+
+
+## brands 
+
 common brand: 	Chemi-Con, Vishay, TDK, Pansonic, KEMET, Nichicon
 
 
-- [[decoupling-capacitor-dat]]
 
+## function 
 
+- [[capacitor-decoupling-dat]]
+
+- [[start-capacitor-dat]] - [[CBB-capacitor-dat]]
 
 ## Aluminum Electrolytic Capacitors - Radial Leaded
 
@@ -65,13 +75,6 @@ Tantium PTH capacitor
 
 
 
-## TAJ Series 
-
-![](2023-10-17-16-19-42.png)
-
-
-
-
 
 ## Specs 
 
@@ -87,13 +90,7 @@ The three-character code with the letter-number-letter format is used for capaci
 
 
 
-## electrolyte 
 
-![](2025-03-14-20-31-28.png)
-
-## Functional Capacitors
-
-- [[start-capacitor-dat]] - [[CBB-capacitor-dat]]
 
 
 ### DC blocking capacitor

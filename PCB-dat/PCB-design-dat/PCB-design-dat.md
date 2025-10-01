@@ -3,6 +3,8 @@
 
 - [[footprint-dat]] - [[thermal-disppation-dat]] - [[heatsink-dat]] - [[PCB-installation-dat]]
 
+- [[PCB-layout-dat]] - [[PCB-trace-dat]]
+
 
 - [[EDA-dat]] - [[EDA-simulation-dat]]
 
@@ -16,8 +18,6 @@
 - [[PCB-form-dat]]
 
 - [[BTB-dat]]
-
-- [[PCB-layout-dat]]
 
 - [[test-point-dat]]
 
