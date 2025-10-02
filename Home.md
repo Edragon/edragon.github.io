@@ -31,7 +31,7 @@
   
 - [[mechanics-dat]] 
 
-- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]]
+- [[BOM-DAT]] - [[service-dat]] - [[case-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]]
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 
