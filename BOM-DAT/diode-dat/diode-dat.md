@@ -178,6 +178,10 @@ For **high-voltage AC** rectification (like 220V/110V mains power supplies):
 
 
 
+## ESD protection 
+
+- [[protection-dat]]
+
 
 ## ref 
 

@@ -24,6 +24,13 @@ Single/Multiple RPM-Based PWM Fan Controller
 - TACH 1 == Tach 1 Input
 
 
+## MCP4017 
+
+MCP4017 == 7-Bit Single Digital POT in SC70 w/I2C™
+
+- [[TI-power-dat]]
+
+
 ## ref 
 
 - [[chip-dat]]

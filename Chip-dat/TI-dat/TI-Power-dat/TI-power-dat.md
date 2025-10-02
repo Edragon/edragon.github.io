@@ -24,6 +24,15 @@ BQxx
 
 - [[BQ24650-dat]] == Standalone 1-6 cell Buck battery charge controller with solar input and integrated MPPT
 
+## TPS5450
+
+
+TPS5450 5-A, Wide Input Range, Step-Down Converter
+
+- [[MCP4017-dat]] - [[microchip-dat]]
+
+![](2025-10-02-19-04-40.png)
+
 
 ## ref 
 
