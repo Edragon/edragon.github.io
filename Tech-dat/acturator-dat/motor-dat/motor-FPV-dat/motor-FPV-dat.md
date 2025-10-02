@@ -1,6 +1,10 @@
 
 # FPV-motor-dat
 
+- [[motor-dat]]
+
+- [[motor-coreless-dat]] - [[propeller-dat]]
+
 - 1x 1504 2300KV (4 mounting holes)
 - 4x 1504 2300KV a set (4 mounting holes)
 - 4x 1504 2300KV + insurance a set (4 mounting holes)

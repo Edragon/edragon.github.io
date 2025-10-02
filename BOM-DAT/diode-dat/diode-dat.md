@@ -165,7 +165,22 @@ For **high-voltage AC** rectification (like 220V/110V mains power supplies):
 
 
 
+
+## Rectifier Diode vs Schottky Diode
+
+- **Rectifier diode**: A general family; includes standard silicon rectifiers, fast recovery diodes, and Schottky diodes.  
+- **Schottky diode**: A subtype of rectifier diode, with low voltage drop and fast switching, but limited voltage rating.
+
+---
+
+✅ **Conclusion**  
+**All Schottky diodes can be used for rectification, but not all rectifier diodes are Schottky.**
+
+
+
+
 ## ref 
 
 - [[BOM-dat]] - [[mosfet-dat]]
 
+- [[diode]]

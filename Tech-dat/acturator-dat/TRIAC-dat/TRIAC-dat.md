@@ -4,6 +4,39 @@
 - compare to - [[SSR-relay-dat]]
 
 
+- [[Thyristor-dat]]
+
+- **Type**: Bidirectional semiconductor device.  
+- **Structure**: Basically two thyristors connected in inverse parallel in a single package.  
+- **Operation**: Can conduct current in **both directions** when triggered.  
+- **Turn-off**: Turns off when AC current crosses zero (natural commutation).  
+- **Applications**:
+  - AC light dimmers  
+  - Fan speed control  
+  - AC motor control  
+  - Household appliance controllers  
+
+
+## 3. Key Differences Table
+
+| Feature        | Thyristor (SCR)           | TRIAC                          |
+|----------------|---------------------------|--------------------------------|
+| Current flow   | One direction (unidirectional) | Both directions (bidirectional) |
+| Main use       | DC or controlled rectifiers | AC control (dimmers, speed control) |
+| Gate trigger   | Positive gate with respect to cathode | Triggerable in both polarities |
+| Structure      | PNPN (4 layers)           | Two SCRs in anti-parallel       |
+| Commutation    | Needs forced or natural   | Natural at AC zero-crossing     |
+
+---
+
+✅ **Summary**:  
+- **Thyristor = one-way switch** (mainly for DC).  
+- **TRIAC = two-way switch** (mainly for AC).  
+
+
+
+
+
 # TRIAC Comparison Table
 
 | Feature                     | BT136                  | BTA12                  | BTA16                  | BT138                  |

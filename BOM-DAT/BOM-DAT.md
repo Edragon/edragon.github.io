@@ -22,6 +22,8 @@ https://www.electrodragon.com/w/RCL_List
 
 - [[capacitor-dat]] 
 
+- [[thyristor-dat]] - [[triac-dat]]
+
 
 ## Chip 
 
