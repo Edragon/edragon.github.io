@@ -16,6 +16,32 @@
 - [[motor-rover-dat]]
 
 
+## features 
+
+- [[servo-dat]] - [[gimbal-dat]] to take action or control [[camera-dat]]
+
+- [[DCDC-down-dat]]
+
+- [[ELRS-dat]] - [[RC-dat]]
+
+- [[relay-dat]] - [[mosfet-dat]] - [[acturator-dat]] conrol 
+  
+- [[pump-dat]] - water shoot 
+
+- [[buzzer-dat]] - sound alarm
+
+- [[selfie-stick-dat]]
+
+- [[USB-dat]] - [[power-dat]] charge 
+
+- [[ADC-dat]] - [[battery-dat]] monitor 
+
+- [[network-dat]] - communication - [[A7670-dat]] 
+
+- [[location-dat]]
+
+
+
 
 ## boards 
 
