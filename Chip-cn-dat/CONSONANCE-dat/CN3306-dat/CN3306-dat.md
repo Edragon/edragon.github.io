@@ -16,6 +16,10 @@ Features:
 
 - [[resistor-feedback-dat]]
 
+- [[resistor-dat]]
+
+- [[CN3306-CONSONANCE.pdf]]
+
 ## ref 
 
 - [[diode-dat]] - [[DCDC-down-dat]] - [[resistor-feedback-dat]] - [[resistor-dat]]

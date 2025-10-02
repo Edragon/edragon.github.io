@@ -3,6 +3,9 @@
 
 - 1N4007
 
+SMC
+
+- GS12M - 12A 1000V 
 
 - S10AC THRU S10MC - SMC Surface Mount General Purpose Rectifier
 

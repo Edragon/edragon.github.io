@@ -12,6 +12,8 @@ https://www.electrodragon.com/product/two-wires-voltmeter-3-2-30v/
 
 ## ref 
 
+- [[meter-voltage-dat]]
+
 - review - https://www.electrodragon.com/product-review-of-ammeter-and-voltmeter/
 
 
