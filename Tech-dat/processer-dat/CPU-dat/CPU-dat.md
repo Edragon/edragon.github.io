@@ -6,7 +6,23 @@
 晶晨 S905L3A 芯片
 
 
-## rank 
+
+## SOC 
+
+- [[ARM-dat]] - [[cortex-A9-dat]] - [[Xilinx-dat]]
+
+
+
+
+
+
+## PC CPU rank 
 
 Intel Xeon E5-2630 v4 @ 2.20GHz - 11,486 
 i5-520M == 1,727
+
+
+
+## ref 
+
+- [[FPGA-dat]]

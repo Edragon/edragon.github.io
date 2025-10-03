@@ -105,6 +105,10 @@ TPS7A89 == Small, Dual, 2-A, Low-Noise (3.8 μVRMS), LDO Voltage Regulator
 MC7800, MC7800A, MC7800AE, NCV7800 == Voltage Regulators – Positive 1.0 A
 
 
+LM109,LM309 == LM109/LM309 5-Volt Regulator
+
+
+
 
 ## ref 
 
