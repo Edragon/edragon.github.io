@@ -7,6 +7,7 @@
 
 - [[bootloader-dat]]
 
+- [[F133]]
 
 D1S == F133 == C906 
 

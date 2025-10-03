@@ -33,8 +33,10 @@ We recommend using our ADB tool for file transfer. It requires no extra connecti
 
 ## Flash Tools
 
-1. PhoenixSuit: A Windows-based flashing tool, the most commonly used. Connect the PC and development board via a data cable to flash firmware onto the board. Supports partition flashing, suitable for development and small-scale production. Developers are advised to use this tool for firmware upgrades.
-2. LiveSuit: An Ubuntu-based flashing tool. Connect the PC and development board via a data cable to flash firmware onto the board. It is the Ubuntu version of PhoenixSuit, suitable for Ubuntu developers.
+- SD card flash == https://www.balena.io/etcher/
+
+1. **PhoenixSuit**: A Windows-based flashing tool, the most commonly used. Connect the PC and development board via a data cable to flash firmware onto the board. Supports partition flashing, suitable for development and small-scale production. Developers are advised to use this tool for firmware upgrades.
+2. **LiveSuit**: An Ubuntu-based flashing tool. Connect the PC and development board via a data cable to flash firmware onto the board. It is the Ubuntu version of PhoenixSuit, suitable for Ubuntu developers.
 3. PhoenixUSBpro: A Windows-based flashing tool. Connect the PC and development board via a data cable to flash firmware onto the board. One PC can connect up to 8 devices simultaneously for batch flashing, suitable for mass production.
 
 ## Flash

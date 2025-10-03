@@ -71,9 +71,9 @@ https://github.com/Edragon/allwinner-F133
 
 image == https://github.com/ylyamin/allwinner_d1_hal
 
-https://github.com/YuzukiHD/Buildroot-YuzukiSBC/releases/tag/YuzukiCK1N.0.0.1
+https://github.com/YuzukiHD/Buildroot-YuzukiSBC
 
-
+- image flash tools - [[allwinner-sdk-dat]] - https://github.com/Edragon/allwinner-tools
 
 ## ref 
 
