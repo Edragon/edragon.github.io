@@ -3,6 +3,8 @@
 
 - [[sunxi-log-dat]]
 
+- [[bootloader-dat]]
+
 ## Unable to mount root fs on unknown-block
 
 

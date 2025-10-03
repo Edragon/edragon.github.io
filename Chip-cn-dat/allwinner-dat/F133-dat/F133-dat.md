@@ -3,7 +3,10 @@
 
 - [[allwinner-dat]] - [[allwinner-D1-dat]] - [[D1-S-dat]] - [[D1-H-dat]]
 
-- [[allwinner-sdk-dat]]
+- [[F133-SDK-dat]] - [[allwinner-sdk-dat]]
+
+- [[bootloader-dat]]
+
 
 D1S == F133 == C906 
 
@@ -109,11 +112,6 @@ If you're building a smart camera or want Allwinner's AI SDKs: F133/V851s is pre
 
 datasheet - [[F133_Datasheet_V1.0_whycan.pdf]]
 
-## flash 
-
-![](2025-07-26-12-23-54.png)
-
-- [[sunxi-tools-dat]]
 
 ## version 
 
@@ -122,61 +120,12 @@ datasheet - [[F133_Datasheet_V1.0_whycan.pdf]]
 
 
 
-## bootsel 
-
-- SPI_MOSI
-- SPI_MISO
-
 
 ## boards 
 
 - dongshanpi == https://github.com/DongshanPI/Awesome_RISCV-AllwinnerD1
 
-
-
-
 - https://linux-chenxing.org/infinity2/dongshanpione/
-
-## SDK 
-
-- [Allwinner SDK](https://github.com/allwinner-zh/Allwinner-RTOS)
-
-- [[sunxi-tools-dat]]
-
-sudo sunxi-fel -l
-
-    Warning: no 'soc_sram_info' data for your SoC (id=1859)
-    USB device 002:003   Allwinner 0x1859  
-
-
-- The tool (e.g. `sunxi-fel`) does not recognize the SoC with ID `0x1859`.
-- It lacks **SRAM layout data** (`soc_sram_info`) for this SoC.
-- Likely causes:
-  - Using a **new or uncommon Allwinner SoC** (e.g., F133, V853).
-  - Using an **outdated version** of the tool.
-
-
-Could use https://etcher.balena.io/#download-etcher for flash image to SD card.
-
-image == https://github.com/ylyamin/allwinner_d1_hal
-
-
-## F133-boot 
-
-插入烧写好的TF卡，使用串口连接，
-
-- PE2接串口RX，
-- PE3接串口TX。
-
-接入5V供电，如果使用屏幕建议插入TYPE-C线，防止电流不足。
-
-[[serial-dat]] - 波特率115200
-
-![](2025-08-08-15-56-03.png)
-
-- [[linux-dat]]
-
-- [[display-sdk-dat]]
 
 
 ## extend 
@@ -201,15 +150,13 @@ image == https://github.com/ylyamin/allwinner_d1_hal
 
 - [[mini-pcie-dat]]
 
-- [[F133-dev]]
+- [[F133-dev]] - [[F133]] - [[allwinner]]
 
 - [[virtualbox-dat]]
 
 - [[PCB-dat]]
 
 - [[dongshanpi-dat]]
-
-- [[F133]] - [[allwinner]]
 
 - [[memory-dat]] - [[flash-dat]]
 
