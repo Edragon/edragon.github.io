@@ -1,8 +1,10 @@
 
 # PCB-design-dat
 
-- [[PCB-dat]] - [[PCB-design]] - [[PCB]]
+- [[PCB-dat]] 
 
+- [[PCB-design]] - [[PCB]]
+  
 - [[footprint-dat]] - [[thermal-disppation-dat]] - [[heatsink-dat]] - [[PCB-installation-dat]]
 
 - [[PCB-layout-dat]] - [[PCB-trace-dat]]

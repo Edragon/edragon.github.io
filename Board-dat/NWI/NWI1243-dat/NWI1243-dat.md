@@ -25,6 +25,9 @@
 
 ## ref 
 
+- [[NWI1206-dat]]
+
+
 - [[ESP32-S3-dat]] - [[NWI1243]]
 
 - [[kicad-sch-dat]]

@@ -32,13 +32,21 @@ CE6260 == 500mA CMOS LDO Regulator, Low Dropout Voltage, Dropout Voltage: 120mV@
 
 SC622K == 500mA Low Dropout Regulator, Low voltage drop: 0.1V@100mA
 
+
+SOT23-3 
+
 - [[me6206-dat]] - [[microne-dat]]
+
+
+
 
 
 ### SOT23-5
 
 
 SOT23-5 
+
+- [[ME6211-dat]]
 
 | mode   | volt  | current | 1   | 2   | 3   | 4   | 5    |
 | ------ | ----- | ------- | --- | --- | --- | --- | ---- |
