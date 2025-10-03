@@ -13,7 +13,7 @@
 - [[peripherals-dat]]
 
 
-- [[4-layer-dat]] - [[0402-dat]] 
+- [[4-layer-dat]] - [[0402-dat]] - [[double-side-PCB-dat]]
 
 - [[PCB-form-dat]]
 

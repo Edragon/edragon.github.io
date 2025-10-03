@@ -9,6 +9,7 @@
 
 - [[QFP-dat]] - [[SSOP-dat]] - [[SOP-dat]]
 
+- [[fab-PCBA-dat]]
 
 ## common footprint libraries 
 
@@ -22,6 +23,80 @@
 - Jumper 
 - Connector_Wire
 - Package_CSP 
+
+
+## IC Package Footprintscategorized by pitch 
+
+
+| Pitch (mm) | Package Types & Examples                                                                 |
+|------------|-------------------------------------------------------------------------------------------|
+| **0.3 mm** | WLCSP (Wafer Level Chip Scale Package), uBGA (Ultra Fine Pitch BGA), QFN (fine pitch)     |
+| **0.35 mm**| DFN (small pitch variants), QFN (ultra fine pitch), LGA                                   |
+| **0.4 mm** | QFN (fine pitch), CSP (Chip Scale Package), BGA (fine pitch), DFN                        |
+| **0.5 mm** | QFN (common pitch), TQFP (fine pitch), LGA, DFN                                          |
+| **0.635 mm** | SSOP (Shrink Small Outline Package), TSSOP (Thin Shrink SOP)                          |
+| **0.8 mm** | QFP (Quad Flat Package), TQFP (standard pitch), LQFP, BGA (medium pitch)                 |
+| **1.0 mm** | QFP (larger pitch), LQFP, PLCC (Plastic Leaded Chip Carrier), SOIC (narrow pitch)        |
+| **1.27 mm**| SOIC (Small Outline IC), DIP (Dual In-line Package), PLCC                                |
+| **1.5 mm** | Older DIP variants, larger SIP (Single In-line Package)                                  |
+| **2.0 mm** | Some DIP, SIP, Power Packages (TO-220 multi-pin)                                         |
+| **2.54 mm (0.1")** | Standard DIP (most common), SIP, headers, through-hole connectors                |
+
+
+## Methods to Examine Hidden Solder Bridges Under Packages
+
+| Method                         | Description                                                                 | Pros                                     | Cons / Limitations                     |
+|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------|-----------------------------------------|
+| **X-Ray Inspection**           | Uses 2D or 3D X-ray (AXI/CT) to image solder joints under the package.      | Most reliable, can see voids, bridges, opens | Expensive equipment, not DIY friendly  |
+| **Microscope with Oblique Light** | Tilted inspection around chip edges, sometimes you can see solder "squeeze-out". | Cheap, immediate check                   | Only shows gross defects near edges     |
+| **Electrical Continuity Test** | Use multimeter to check resistance between adjacent pins/pads.              | Simple, effective for shorts              | Cannot detect open joints or cold solder|
+| **Boundary Scan (JTAG)**       | IC self-tests connectivity if supported.                                    | Automated, precise                       | Only available if IC has JTAG support   |
+| **Thermal Camera / IR Imaging**| Power up board, shorts often cause local hot spots.                         | Non-contact, quick check                 | Needs power-on, risk of damage          |
+| **Flying Probe / ICT Test**    | Automated test system probes nets for shorts/opens.                         | Precise, production use                  | Expensive, setup time                   |
+| **Acoustic Microscopy (SAM)**  | Ultrasound imaging can detect voids or poor solder bonding.                 | High resolution for reliability testing  | Very expensive, lab equipment only      |
+
+
+For hobbyist / small-lab use:
+
+**Best option**: Electrical continuity check with a **multimeter** (between power rails, adjacent pins).
+
+Second best: If you suspect hidden bridges, try **thermal camera** (small USB IR cameras are affordable).
+
+Pro-level: Use an **X-ray machine** (common in professional PCB assembly houses).
+
+👉 If you’re debugging **why the IC doesn’t work after reflow**, I’d suggest:
+
+Check for shorts with multimeter.
+
+Power briefly, then feel for **overheating** (carefully) or use thermal camera.
+
+If nothing obvious, suspect **opens (unsoldered pads)**, which can only be 100% confirmed by X-ray or functional testing.
+
+
+
+## DIY Methods to Detect Hidden Solder Bridges Under Packages (No X-Ray)
+
+| Method                         | How It Works                                                                 | Notes / Tips |
+|--------------------------------|-------------------------------------------------------------------------------|--------------|
+| **Multimeter Continuity Check**| With power off, measure resistance between power rails (VCC–GND) and between suspect pins. | If you read ~0Ω or very low resistance, there may be a bridge. |
+| **Current-Limited Power Test** | Power board with a bench supply set to current limit (e.g. 50–100mA). If supply immediately hits limit, there’s likely a short. | Use low limit to avoid chip damage. |
+| **Thermal Finger Test / IR Camera** | Briefly power on with current limit. A solder bridge often causes a tiny hot spot. | Safer with cheap USB thermal cameras. |
+| **Rosin / Alcohol Wetting**    | Apply isopropyl alcohol or rosin flux around package edges, then power board. If there is a short, liquid may boil or show bubbles near bridged pads. | Not very precise, but sometimes works. |
+| **Resistance Mapping**         | Compare resistance between ground and each I/O pin versus a known-good board. | Detects anomalies indirectly. |
+| **Functional "Wiggle Test"**   | Gently press down or heat package with hot air. If circuit suddenly works or fails, some pads may be bridged or floating. | Risky — only use for debugging prototypes. |
+
+Practical DIY Workflow
+
+**First step**: Check resistance between **VCC and GND** before powering. If it’s suspiciously low, suspect a bridge.
+
+**Second step**: Use **current-limited bench supply** to power on — check for overheating.
+
+**Third step**: If possible, use **cheap thermal camera** (even phone add-ons) to find hot spots.
+
+**Last resort**: Rework package with **flux + hot air and reflow** — often fixes hidden bridges without even finding them.
+
+👉 This way you don’t need expensive X-ray, just a multimeter, alcohol/flux, and maybe a thermal camera.
+
 
 
 ## general footprint guide
