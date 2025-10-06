@@ -1,6 +1,8 @@
 
 # circuits-dat 
 
+- [[74xx-dat]]
+
 - [[protection-dat]]
 
 

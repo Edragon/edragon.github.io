@@ -141,6 +141,8 @@
 
 - [[camera-dat]] - [[vision-dat]]
 
+- [[triac-dat]] - [[thyristor-dat]]
+
 
 ### Interface and signals 
 

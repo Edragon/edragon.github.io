@@ -31,7 +31,7 @@
 
 - [[home-plant-dat]] - [[Apocalypse-dat]] - [[surveillance-dat]]
 
-- [[E-Bike-dat]]
+- [[E-Bike-dat]] - [[gun-dat]]
 
 ## RC Electrified in the air
 

@@ -1,6 +1,12 @@
 
 # TRIAC-dat
 
+## board 
+
+- [[SCU1041-dat]]
+
+## info 
+
 - compare to - [[SSR-relay-dat]]
 
 
@@ -110,3 +116,8 @@ It is a type of semiconductor device used for controlling high-power electric si
 | **Isolation Voltage**       | 5,000 Vrms                                             | 5,000 Vrms                                             | 5,000 Vrms                                                  |
 | **Off-State Output Voltage**| Minimum 400 V                                          | Minimum 400 V                                          | Minimum 400 V                                               |
 | **dV/dt Rating**            | Typically ≥1000 V/µs                                   | Typically ≥1000 V/µs                                   | May be optimized for zero–cross switching (check datasheet for specifics) |
+
+
+
+## ref 
+
