@@ -37,6 +37,8 @@ NOR flash is a type of non-volatile memory that allows random read access. It is
 - SPI NOR Flash sacrifices speed and flexibility for **lower cost, lower pin count, and small size**.
 - **Parallel NOR Flash** is better for **code execution** and high-speed access.
 
+S29GL128P90TFIR10 - NOR Flash 128Mb 3V 90ns Parallel NOR Flash
+
 
 ## SPI NAND 
 
@@ -83,6 +85,11 @@ They vary by **capacity**, **voltage**, **speed**, and **features** like Dual/Qu
 
 
 
+## un-sort 
+
+TC58FVM7(T/B)2AFT(65/80) - 128-MBIT (16M × 8 BITS / 8M × 16 BITS) CMOS FLASH MEMORY
+
+AM29LV116DT-90EI - 	IC FLASH 16MBIT PARALLEL 40TSOP
 
 ## ref 
 

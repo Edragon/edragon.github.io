@@ -34,6 +34,16 @@ TPS5450 5-A, Wide Input Range, Step-Down Converter
 ![](2025-10-02-19-04-40.png)
 
 
+
+
+## prebuild module 
+
+PTH04T231WAD - Non-Isolated DC/DC Converters 6A 2.2V-5.5Vin Non- Iso Adj Pwr Module
+
+
+
+
+
 ## ref 
 
 - [[TI-dat]]

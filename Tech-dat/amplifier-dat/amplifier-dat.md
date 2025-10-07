@@ -113,6 +113,11 @@ Active Low Pass filter with Amplification
 
 - [[TI-signal-dat]] - [[TI-AMP-dat]]
 
+- [[Analog-device-dat]]
+
+
+
+
 ## ref 
 
 - [[tech-dat]] - [[DAC-dat]] - [[audio-dat]]

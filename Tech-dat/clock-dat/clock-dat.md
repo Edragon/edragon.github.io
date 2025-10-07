@@ -6,6 +6,9 @@
 	
 [DSC400-1111Q0085KI1-ND == Clock Generator IC 170MHz 1 20-VFQFN Exposed Pad](https://clockworks.microchip.com/microchip/DatasheetsPDF/DSC400-1111Q0085.pdf)
 
+SI5340B-D-GM - Clock Generators & Support Products Ultra low-jitter, 4-output, any-frequency (< 350 MHz), any output clock generator
+
+
 
 ## prescaler 
 

@@ -6,6 +6,7 @@
 
 - [[sensor-NTC-dat]]
 
+- [[sensor-non-contact-temperature-dat]]
 
 
 ## boards 

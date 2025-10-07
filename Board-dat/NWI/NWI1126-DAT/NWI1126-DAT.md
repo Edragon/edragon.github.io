@@ -90,6 +90,15 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - in which, IO is 10 and IO voltage level is 0
 
 
+## Addon-ons 
+
+-  sensors - [[sensor-motion-dat]]
+
+- [[tasmota-dat]] use guide please see here.
+
+- [[ESPhome-dat]]
+
+
 ## Note
 
 - [[ESP32-USB-dat]] failed on code testing, may work or not, consider it is not working if you buy.
@@ -134,6 +143,9 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 ![](2024-04-03-15-29-43.png)
 
 - [[tasmota-dat]] use guide please see here.
+
+- [[ESPhome-dat]]
+
 
 
 

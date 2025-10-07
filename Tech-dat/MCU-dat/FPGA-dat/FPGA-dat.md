@@ -47,14 +47,16 @@ https://github.com/Edragon/fpga_max10
 - Basys 3 - https://digilent.com/reference/programmable-logic/basys-3/start?redirect=1
 
 
+## unsort 
+
+- EP2S15F484I4N - FPGA - Field Programmable Gate Array FPGA - Stratix II 780 LABs 342 IOs
+
+- EPCS64SI16N - Altera - IC PROGRAMMABLE CONFIG 64MBIT SPI 16SOIC
 
 ## ref 
 
 - [[logic-dat]]
 
 - [[tech-dat]]
-
-
-## ref 
 
 - [[CPLD-dat]] - [[FPGA-dat]]
