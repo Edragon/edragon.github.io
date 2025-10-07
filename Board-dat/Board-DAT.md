@@ -370,7 +370,7 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
   
 - [[NWL1116-dat]]
 
-
+[[NRF24L01-dat]] - [[NWL1010-dat]] - [[NWL1050-dat]]
 
 ### NWI
 - [[NWI1050-DAT]] - [[NWI1053-dat]] - [[NWI1070-DAT]] 

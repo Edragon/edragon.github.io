@@ -7,7 +7,7 @@
 
 - [[FCP-dat]] - [[SCP-dat]] - [[VOOC-dat]] - [[PE-dat]] - [[AFC-dat]] - [[MTK-PE-dat]]
 
-
+- [[wireless-charge-dat]]
 
 ### ⚡ Most Common Fast Charging Methods (as of 2025)
 

@@ -125,7 +125,7 @@ A4 03 09 05 0001008B08 49
 
 ![](2025-07-24-13-14-49.png)
 
-- Use [GY_UVI.zip] for Windows.
+- Use [[GY_UVI.zip]] for Windows.
 - Select the COM port connected to the module, baud rate, and ID (default 0xA4, or 0x00 if unknown).
 - **Config reg:** This section corresponds to configurable registers. After changing any register, press Enter or click elsewhere to write the config to the module.
 - **Read reg:** This section is for reading module registers. Set the start register and number of registers to read, then click "read" to send the command.
@@ -145,14 +145,14 @@ A4 03 09 05 0001008B08 49
 
 ## 6. Arduino Example
 
-- See [arduino_usart.ino] for sample code.
+- See [[arduino_usart.ino]] for sample code.
 
 ---
 
 ## Related
 
-- [VEML6070-dat]
-- [sensor-UV-light-dat]
+- [[VEML6070-dat]]
+- [[sensor-UV-light-dat]]
 d:每次查询，进行一次a步骤，即每次发送读寄存器指令帧；
 
 

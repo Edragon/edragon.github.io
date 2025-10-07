@@ -5,7 +5,9 @@
 
 - [[OPM1175-dat]] 
 
-- [[ME6208-dat]] 
+- [[ME6208-dat]] == 150 mA, high input voltage LDO Linear Regulators ME6208 Series
+
+
 - [[ME2108-dat]] 
 
 

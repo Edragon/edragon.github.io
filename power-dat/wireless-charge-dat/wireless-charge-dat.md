@@ -7,4 +7,15 @@
 
 ## standards 
 
-- [[WPC-1.2-dat]]
+- [[WPC-1.2-dat]] - [[QI-wireless-charge-dat]]
+
+- [[fast-charge-methods-dat]]
+
+
+
+
+
+
+## ref 
+
+- [[wireless-charge]]

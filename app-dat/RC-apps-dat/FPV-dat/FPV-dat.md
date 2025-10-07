@@ -409,6 +409,77 @@ In FPV drones, the **wheelbase** refers to the **diagonal distance between the c
 
 - [[drone-maker-dat]]
 
+
+
+## FPV tech 
+
+### Multi-Sensor Fusion
+- **IMU (Inertial Measurement Unit)**: Detects acceleration and angular velocity changes.  
+- **GPS / GLONASS / Galileo**: Provides precise global positioning for drift correction.  
+- **Barometer**: Measures altitude changes due to vertical wind.  
+- **Vision Positioning System (VPS)**: Assists in holding position when GPS is weak or unavailable.  
+
+All sensor data are fused together for real-time position and attitude correction.
+
+
+Drones estimate wind speed using GPS drift and IMU feedback.
+
+If it exceeds safe thresholds (e.g., >12 m/s), the system:
+
+- Limits tilt angles.
+- Warns the pilot.
+- Plans **energy-efficient return routes** considering wind direction.
+
+
+
+### 🧰 How to Improve Betaflight Wind Handling
+
+If you want DJI-like stability in a Betaflight-based drone, you can try:
+
+- **Use “Angle” or “Horizon” mode** — these self-level automatically.
+- **Tune PID properly** — higher D-term helps fight oscillations caused by gusts.
+- **Use a heavier frame** — more mass = less effect from wind.
+- **Add GPS + switch to iNav or Ardupilot** — they support position hold and altitude hold.
+- **Use high-quality ESCs and motors** for faster response.
+
+
+
+### DJI VS betaflight 
+
+
+# DJI vs Betaflight Comparison Table
+
+| Feature / Capability | **DJI Drones** | **Betaflight (Typical FPV Quad)** | Explanation |
+|-----------------------|----------------|----------------------------------|--------------|
+| **Main Purpose** | Aerial photography, autonomous flight | FPV racing, freestyle acrobatics | DJI focuses on automation and stability, Betaflight on agility and control. |
+| **Flight Control Algorithm** | PID + MPC (Model Predictive Control) + Sensor Fusion | PID only | DJI uses predictive and adaptive control; Betaflight uses classic PID. |
+| **Sensor Fusion** | Yes (IMU + GPS + Barometer + Vision Sensors) | Limited (IMU only) | DJI fuses multiple sensors for precision control; Betaflight relies mainly on IMU. |
+| **GPS Position Hold** | ✅ Built-in | ⚠️ Requires external GPS + iNav/Ardupilot | Betaflight doesn’t handle position hold natively. |
+| **Vision Positioning (VPS)** | ✅ Yes | ❌ No | DJI uses downward cameras for indoor stability. |
+| **Altitude Hold** | ✅ Precise (barometer + GPS + VPS) | ⚠️ Basic (Angle mode only) | DJI maintains accurate height even in wind; Betaflight does not. |
+| **Wind Resistance / Compensation** | ✅ Automatic | ❌ Manual (pilot controlled) | DJI detects and corrects wind drift automatically. |
+| **Return to Home (RTH)** | ✅ Smart, automatic | ⚠️ Only with GPS add-ons | DJI calculates safe routes; Betaflight doesn’t. |
+| **Wind Estimation & Feedforward Control** | ✅ Yes | ❌ No | DJI predicts wind disturbance and adjusts preemptively. |
+| **IMU Attitude Stabilization** | ✅ Yes | ✅ Yes | Both can stabilize attitude, but DJI integrates more sensors. |
+| **Motor Control Response** | High-speed ESCs with adaptive algorithms | High-speed ESCs (pilot-driven) | DJI adjusts motor speeds automatically; Betaflight follows pilot commands. |
+| **User Control Focus** | Semi/fully autonomous | Fully manual | DJI reduces workload; Betaflight gives full manual control. |
+| **System Complexity** | High (proprietary flight controller, AI algorithms) | Moderate (open-source firmware) | DJI uses closed systems with advanced computation. |
+| **Tuning Requirement** | Minimal (auto-calibration) | Manual PID tuning needed | DJI tunes itself; Betaflight requires user tuning. |
+| **Firmware Platform** | Proprietary DJI Flight Controller | Open-source Betaflight | DJI closed system vs Betaflight open community. |
+| **Use Case Summary** | Stable, cinematic, automated | Fast, agile, pilot-skill-based | Different design goals and priorities. |
+
+---
+
+### 🧭 Summary
+
+- **DJI** = Stability, automation, wind resistance, and ease of use.  
+- **Betaflight** = Agility, manual control, and racing performance.  
+
+If you want DJI-like wind compensation on a custom drone, use **iNav** or **Ardupilot** instead of Betaflight — they support GPS position hold, altitude hold, and auto-leveling with similar logic to DJI.
+
+
+
+
 ## ref 
 
 - [[FPV]]
