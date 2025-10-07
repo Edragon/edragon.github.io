@@ -1,8 +1,7 @@
 
 # USB-FC-trigger-dat
 
-
-- [[CH224-dat]]
+- [[fast-charge-methods-dat]]
 
 
 - [[USB-PD-dat]] - [[USB-BC-dat]]
@@ -30,7 +29,9 @@ A USB Type-C 12V fast charging trigger is a small device or circuit that negotia
 
 The trigger automatically handles the PD negotiation, making it easy to use with compatible
 
+## boards 
 
+- [[OPM1185-dat]]
 
 ## ref 
 

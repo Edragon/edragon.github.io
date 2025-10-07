@@ -26,7 +26,10 @@ Features
 
 ![](2025-08-19-16-44-14.png)
 
+![](2025-10-07-18-21-38.png)
 
 ## ref 
 
 - [[USB-PD-dat]] - [[USB-BC-dat]]
+
+- [[CONN-power-dat]]

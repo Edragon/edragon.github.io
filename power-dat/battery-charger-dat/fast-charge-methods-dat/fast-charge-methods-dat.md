@@ -9,6 +9,11 @@
 
 - [[wireless-charge-dat]]
 
+- [[USB-FC-dat]] - [[USB-FC-trigger-dat]] - [[BC1.2-dat]] - [[Apple-2.4A-dat]] - [[DCP-dat]] - [[CDP-dat]] - [[SDP-dat]]
+
+
+
+
 ### ⚡ Most Common Fast Charging Methods (as of 2025)
 
 | Charging Standard                                              | Used By                                      | Protocol Type              | Max Power                    | Notes                                                                                                 |

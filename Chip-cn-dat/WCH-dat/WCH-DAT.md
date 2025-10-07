@@ -47,7 +47,7 @@
 - [[CH213-dat]] == CH213 CH213K 低压降二极管芯片
 
 
-
+- [[CH224-dat]]
 
 ## repository 
 
