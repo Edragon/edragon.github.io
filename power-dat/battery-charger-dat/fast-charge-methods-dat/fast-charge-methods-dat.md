@@ -3,6 +3,10 @@
 
 - [[USB-PD-dat]] - [[PD3.0-dat]] - [[PD2.0-dat]] 
 
+- [[USB-QC-dat]] 
+
+- [[USB-PPS-dat]]
+
 - [[QC-charge-dat]] - [[PPS-dat]] 
 
 - [[FCP-dat]] - [[SCP-dat]] - [[VOOC-dat]] - [[PE-dat]] - [[AFC-dat]] - [[MTK-PE-dat]]
@@ -10,6 +14,61 @@
 - [[wireless-charge-dat]]
 
 - [[USB-FC-dat]] - [[USB-FC-trigger-dat]] - [[BC1.2-dat]] - [[Apple-2.4A-dat]] - [[DCP-dat]] - [[CDP-dat]] - [[SDP-dat]]
+
+
+
+
+
+# ⚡ Most Popular Fast-Charging Protocols (2025)
+
+## 🧩 Universal / Cross-Brand Standards
+
+| Protocol                                   | Organization / Brand | Max Power (Typical)                    | Notes                                                                                                              |
+| ------------------------------------------ | -------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **USB Power Delivery (USB-PD)**            | USB-IF               | Up to **240W** (48V⎓5A)                | Widely adopted across laptops, phones, tablets. Supports PPS (Programmable Power Supply) for fine voltage control. |
+| **USB PD PPS (Programmable Power Supply)** | USB-IF               | Typically **25–45W** for phones        | Used by Samsung, Google, etc. Allows dynamic voltage adjustment for efficiency.                                    |
+| **Qualcomm Quick Charge (QC)**             | Qualcomm             | QC 3.0: 18W<br>QC 4+/5: up to 100–240W | Backward-compatible, integrated in many Snapdragon phones. QC5 supports PD.                                        |
+
+---
+
+## 📱 Brand-Specific Protocols
+
+| Protocol                                  | Brand                   | Max Power             | Compatible With                   | Notes                                                                  |
+| ----------------------------------------- | ----------------------- | --------------------- | --------------------------------- | ---------------------------------------------------------------------- |
+| **Samsung Adaptive Fast Charging (AFC)**  | Samsung                 | 15W–25W               | USB PD PPS (partially compatible) | Older Galaxy models. Replaced by PD PPS.                               |
+| **Apple Fast Charge (PD-based)**          | Apple                   | Up to 27W (iPhone 15) | USB PD PPS                        | Apple uses PD standard, Lightning or USB-C.                            |
+| **OPPO VOOC / SuperVOOC / SuperVOOC 2.0** | OPPO / OnePlus / Realme | Up to **240W**        | Proprietary                       | Very high current (e.g., 10V⎓24A). Requires special cable and charger. |
+| **OnePlus Warp / SuperVOOC**              | OnePlus                 | Up to **150–240W**    | OPPO VOOC ecosystem               | Rebranded VOOC with special USB-C pins.                                |
+| **Xiaomi HyperCharge / Mi Turbo Charge**  | Xiaomi                  | Up to **210W**        | Proprietary                       | One of the fastest commercial protocols.                               |
+| **Huawei SuperCharge**                    | Huawei                  | Up to **100W**        | Proprietary                       | Smart voltage/current adjustment (e.g., 10V⎓4A).                       |
+| **vivo FlashCharge**                      | vivo                    | Up to **120W**        | Proprietary                       | Similar to VOOC but not compatible.                                    |
+| **MediaTek Pump Express (PE / PE+)**      | MediaTek                | Up to **30W**         | USB PD                            | Older MTK-based phones; now replaced by PD PPS.                        |
+
+---
+
+## 🔌 Laptop / High-Power Devices
+
+| Protocol                                         | Devices           | Max Power | Notes                                     |
+| ------------------------------------------------ | ----------------- | --------- | ----------------------------------------- |
+| **USB PD 3.1 EPR (Extended Power Range)**        | Laptops, monitors | **240W**  | Supports 28V, 36V, 48V levels.            |
+| **Lenovo / Dell / HP Proprietary PD Extensions** | Laptops           | 65–240W   | PD-compatible but add vendor-specific ID. |
+
+---
+
+## 💡 Summary
+
+| Category                        | Typical Devices             | Typical Power |
+| ------------------------------- | --------------------------- | ------------- |
+| Universal (USB-PD / QC)         | Most modern phones, laptops | 18–100W       |
+| Proprietary (VOOC, SuperCharge) | Chinese brand phones        | 30–240W       |
+| Legacy (AFC, Pump Express)      | Older phones                | <25W          |
+
+---
+
+✅ **Most common in 2025:**
+- **USB Power Delivery (PD + PPS)** → Global standard  
+- **Qualcomm Quick Charge 4/5** → Common with PD support  
+- **VOOC / SuperVOOC / HyperCharge** → Popular in Asia
 
 
 
@@ -36,9 +95,25 @@
 
 ## boards 
 
-- [[OPM1185-dat]]
+- [[OPM1185-dat]] - [[wch-dat]]
+
+
+## chips 
+
+- [[injoinic-dat]]
+
+- [[ISW-dat]]
+
+
 
 
 ## apps 
 
 - [[pixel-phone-dat]]
+
+
+
+
+## ref 
+
+- [[battery-charger-dat]] - [[battery-dat]]

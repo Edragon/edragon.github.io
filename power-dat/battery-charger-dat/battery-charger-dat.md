@@ -12,6 +12,8 @@ The most following charger options are for the lithium-ion battery
 
 - [[battery-pack-dat]]
 
+- [[fast-charge-methods-dat]]
+
 ## Chip Info
 
 - [[LTC4054-dat]] - [[MCP73831-dat]]
@@ -85,6 +87,14 @@ request
 - [[battery-pack-dat]]
 
 ![](2025-09-03-14-16-10.png)
+
+
+## test tools 
+
+- [[internal-resistance-meter]] - [[capacity-meter-dat]]
+
+
+
 
 ## ref
 

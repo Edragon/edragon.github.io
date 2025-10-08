@@ -53,6 +53,10 @@ https://github.com/Edragon/fpga_max10
 
 - EPCS64SI16N - Altera - IC PROGRAMMABLE CONFIG 64MBIT SPI 16SOIC
 
+- [[AMD-dat]]
+
+
+
 ## ref 
 
 - [[logic-dat]]

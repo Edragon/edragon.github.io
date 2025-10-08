@@ -9,6 +9,13 @@ AMD Ryzen Embedded 8000 SoCs
 
 
 
+
+## unsort 
+
+FPGA 
+
+XCZU42DR-L2FSVE1156I - SoC FPGA XCZU42DR-L2FSVE1156I
+
 ## ref 
 
 - [[SBC]]

@@ -14,7 +14,9 @@
 
 ## chips 
 
-- [[RP2040-dat]] - [[RP2350-dat]]
+- [[RP2040-dat]] 
+
+- [[RP2350-dat]]
 
 ## ref 
 

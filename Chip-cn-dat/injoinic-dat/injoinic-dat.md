@@ -7,6 +7,10 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP2326-dat]]
 
+- [[IP5306-dat]]
+
+- IP2721 - TYPEC/PD2.0/PD3.0 Physical Layer IC for USB TYPEC input Interfaces
+
 
 ## Chip Series 
 
@@ -20,3 +24,5 @@ https://w.electrodragon.com/w/Injoinic
 ## ref 
 
 - [[injoinic]]
+
+- [[m]]

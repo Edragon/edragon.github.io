@@ -30,6 +30,9 @@
 
 - [[ESD-dat]]
 
+- [[DMA-dat]]
+
+- [[clock-dat]]
 
 ## other categories
 

@@ -119,6 +119,19 @@ The CDRH127 is a series of SMD power inductors from Sumida, commonly used for po
 
 common brand: Bourns
 
+## FX series 
+
+- Inductor, Changjiang, FXL0840, 8.25x8.2x3.8mm
+- Inductor, Changjiang, FXL1030, 10.95x10.0x2.8mm
+- Inductor, Changjiang, FXL1040, 10.95x10.0x3.8mm
+- Inductor, Changjiang, FXL1050, 10.95x10.0x4.8mm
+- Inductor, Changjiang, FXL1340, 12.9x12.8x4.0mm
+- Inductor, Changjiang, FXL1350, 12.9x12.6x4.8mm
+- Inductor, Changjiang, FXL1360, 12.9x12.6x5.8mm
+- Inductor, Changjiang, FXL1365, 12.9x12.6x6.5mm
+- Inductor, Changjiang, FXL1770, 16.6x17.15x7.0mm
+- Inductor, Changjiang, FXL2213, 22.95x22.0x12.6mm
+
 
 ## ref 
 
