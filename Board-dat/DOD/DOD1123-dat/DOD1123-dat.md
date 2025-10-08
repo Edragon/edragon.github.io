@@ -1,4 +1,4 @@
-# RP2350-board-dat
+# DOD1123-dat
 
 - [[RP2350-dat]]
 

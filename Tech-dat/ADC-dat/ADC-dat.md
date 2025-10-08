@@ -90,6 +90,9 @@
 
 - AD7864 == 4-Channel, Simultaneous Sampling, High Speed, 12-Bit ADC
 
+- [[maxim-dat]] - MAX196/MAX198 - Multirange, Single +5V, 12-Bit DAS with 12-Bit Bus Interface
+
+
 ## ref 
 
 - [[tech-dat]]

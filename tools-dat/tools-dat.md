@@ -7,7 +7,7 @@
 
 - [[lab-power-dat]]
 
-- [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-inductor-dat]] - [[internal-resistance-meter-dat]]
+- [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-inductor-dat]] - [[internal-resistance-meter-dat]] - [[meter-power-dat]]
 
 
 - [[multimeter-dat]] - [[oscilloscope-dat]] - [[signal-generator-dat]] 

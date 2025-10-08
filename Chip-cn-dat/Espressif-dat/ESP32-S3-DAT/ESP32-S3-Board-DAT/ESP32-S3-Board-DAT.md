@@ -5,7 +5,7 @@
 
 - [[peripherals-dat]]
 
-
+- [[NWI1243-dat]] - [[NWI1249-dat]]
 
 ## Cloned Core Board SCH 
 
@@ -31,7 +31,6 @@ IO19, IO20, CC1 CC2 pull-down
 
 ## dev board 
 
-- [[NWI1243-dat]]
 
 ###  official ESP32-S3-DevKitM-1
 

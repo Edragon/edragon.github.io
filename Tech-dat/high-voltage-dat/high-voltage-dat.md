@@ -2,7 +2,12 @@
 # high-voltage-dat
 
 
-- [[HV-module-dat]]
+## board 
+
+- [[ODC1002-dat]]
+
+- [[meter-voltage-dat]]
+
 
 ## apps 
 

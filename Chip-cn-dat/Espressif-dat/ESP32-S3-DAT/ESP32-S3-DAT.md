@@ -11,9 +11,7 @@
 
 - [[ESP32-S3-Board-DAT]]
 
-- [[NWI1243-dat]]
-
-- [[ESP32-S3-cam-dat]]
+- [[NWI1243-dat]] - [[NWI1249-dat]]
 
 
 

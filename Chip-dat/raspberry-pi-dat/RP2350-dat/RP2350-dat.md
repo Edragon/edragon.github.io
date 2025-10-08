@@ -3,7 +3,7 @@
 
 ## board 
 
-- [[RP2350-board-dat]]
+- [[DOD1123-dat]]
 
 ## info 
 
