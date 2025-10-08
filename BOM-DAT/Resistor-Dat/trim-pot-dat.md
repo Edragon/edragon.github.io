@@ -1,6 +1,9 @@
 
 # trim-pot-dat 
 
+
+- [[peripherals-dat]]
+
 ## Potentiometer, trim-pot 
 
 - [[CCO3647-dat]] 

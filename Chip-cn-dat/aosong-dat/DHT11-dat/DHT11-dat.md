@@ -3,6 +3,9 @@
 
 - [[STH1046-dat]]
 
+- [[peripherals-dat]]
+
+
 ## DHT11 Output Data Format
 
 The DHT11 sensor outputs data in the following format:

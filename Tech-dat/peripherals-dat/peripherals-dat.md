@@ -6,6 +6,9 @@
 
 - [[interface-dat]]
 
+- [[indicator-dat]] - [[WS2812-dat]] - [[LED-dat]] - [[7-seg-dat]] - [[LCD-dat]] - [[OLED-dat]] - [[interactive-dat]]
+
+
 - [[CPU-dat]] - [[memory-dat]] - [[programming-dat]]
 
 - [[SPI-dat]] - [[I2C-dat]] - [[I2S-dat]] - [[GPIO-dat]] - [[UART-dat]] - [[PWM-dat]] - [[pulse-dat]]
@@ -43,6 +46,16 @@
 - [[led-driver-dat]]
 
 
+## basic 
+
+LEDs, buttons, [[trim-pot-dat]], [[DHT11-dat]] 
+
+
+![](2025-10-08-13-48-32.png)
+
+- [[AMS1117-dat]] - [[type-c-dat]] - [[servo-dat]]
+
+![](2025-10-08-13-49-04.png)
 
 
 ## ref 

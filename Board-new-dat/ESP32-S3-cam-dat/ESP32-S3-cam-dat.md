@@ -1,10 +1,20 @@
 
 # ESP32-S3-cam-dat
 
-- [[camera-sdk-dat]]
+- [[camera-sdk-dat]] - [[camera-dat]] - [[OV2640-dat]]
 
+- [[ESP32-SDK-dat]] - [[serial-dat]]
+
+- [[peripherals-dat]]
+
+## board functions and demo 
+
+![](2025-10-08-13-41-14.png)
 
 ![](2025-07-31-15-24-30.png)
+
+
+
 
 ## pin map 
 
@@ -62,6 +72,7 @@
 
 == esp32s3-freenove
 
+```
 esp32-s3 = {
     PIN_PWDN: -1,
     PIN_RESET: -1,
@@ -85,7 +96,7 @@ esp32-s3 = {
     JPEG_QUALITY: 10,
     FB_COUNT: 1,
 }
-
+```
 
 
 
@@ -97,6 +108,8 @@ esp32-s3 = {
 - GPIO 35 == LED 
 - EN == button, pull-up, filter-cap 
 - IO0 == button, pull-up
+
+- [[SD-dat]]
 
 ## Extension board SCH 
 
@@ -174,9 +187,8 @@ esp32-s3 = {
 
 - [[circuitpython-esp32-s3-dat]] - [[camera-sdk-dat]]
 
-- [[demo1.py]]
 
-
+- [[ESP32-S3-cam-code-dat]]
 
 
 ## ref 

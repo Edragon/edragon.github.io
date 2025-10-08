@@ -1,6 +1,8 @@
 
 # AMS1117-dat 
 
+- [[peripherals-dat]]
+
 
 ![](2023-10-18-14-41-35.png)
 

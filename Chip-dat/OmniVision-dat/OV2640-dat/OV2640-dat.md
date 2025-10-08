@@ -2,6 +2,9 @@
 
 - [[camera-dat]]
 
+
+- [[ESP32-S3-cam-dat]]
+
 - [[OV2640DS.pdf]]
 
 

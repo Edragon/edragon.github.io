@@ -1,6 +1,12 @@
 
 # indicator-dat
 
+- [[peripherals-dat]]
+
+- [[WS2812-dat]] - [[LED-dat]] - [[7-seg-dat]] - [[LCD-dat]] - [[OLED-dat]]
+
+
+
 - [[status-dat]]
 
 ![](2024-07-05-19-06-28.png)
@@ -13,3 +19,11 @@
 ## 1PPS 
 
 ![](2024-07-10-12-54-48.png)
+
+
+
+
+
+## ref 
+
+- [[circuits-dat]]

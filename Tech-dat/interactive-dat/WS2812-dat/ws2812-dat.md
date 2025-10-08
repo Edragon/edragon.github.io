@@ -22,6 +22,10 @@
 pre-programmed USB driving cable - [[IDD1011-dat]]
 
 
+
+
+
+
 ## About WS2812:
 
 **WS2812** is a set of control circuit and lighting circuit in one of the smart external control LED light source. Its shape and a same 5050LED lamp beads, each element is a pixel. Pixels contained within an intelligent digital interface data latch signal shaping amplification drive circuit further includes a high-precision internal oscillator and programmable 12V high voltage constant current control section, effectively ensuring the color pixel light highly consistent.
@@ -60,6 +64,13 @@ LED has a low voltage driving, high energy saving and environmental protection, 
 ESP32 
 
 ![](2025-07-10-17-29-15.png)
+
+
+## 2020 size WS2812 
+
+![](2025-10-08-14-07-51.png)
+
+![](2025-10-08-14-08-13.png)
 
 
 ## ref 

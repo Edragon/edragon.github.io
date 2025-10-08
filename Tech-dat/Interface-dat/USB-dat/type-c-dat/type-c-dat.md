@@ -4,6 +4,10 @@
 
 - [[type-c-hdk-dat]]
 
+- [[peripherals-dat]]
+
+
+
 ## history 
 
 USB Type-C encompasses many protocols such as USB 3, USB4, Thunderbolt 3, Thunderbolt 4, etc. Different product applications correspond to different USB version speeds, as shown in the table below:

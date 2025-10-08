@@ -3,6 +3,9 @@
 
 - [[servo-gimbal-dat]]
 
+- [[peripherals-dat]]
+
+
 
 ## feature of servos 
 
