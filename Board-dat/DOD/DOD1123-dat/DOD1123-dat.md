@@ -4,7 +4,7 @@
 
 - [[RP2040-dat]]
 
-
+[product link - RP2350A PICO2 Mini Development Board, 16M Flash](https://www.electrodragon.com/product/rp2350a-pico2-mini-development-board-16m-flash/)
 
 ## board map 
 

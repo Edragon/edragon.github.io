@@ -1,6 +1,9 @@
 
 # NWI1249-dat
 
+
+[product link - ESP32-S3 Mini CAM Development Board OV2640 N16R8](https://www.electrodragon.com/product/esp32-s3-mini-cam-development-board-ov2640-n16r8/)
+
 ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 
 - [[camera-sdk-dat]] - [[camera-dat]] - [[OV2640-dat]]
@@ -8,6 +11,10 @@ ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 - [[ESP32-SDK-dat]] - [[serial-dat]]
 
 - [[peripherals-dat]]
+
+
+
+
 
 ## board functions and demo 
 

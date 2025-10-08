@@ -2,7 +2,9 @@
 
 - [[high-voltage-dat]]
 
-- High Voltage Boost Module
+- High Voltage Boost Module 
+
+- [product link - DCDC Booster Step-Up High Voltage Generator Module ADJ. 45~390V](https://www.electrodragon.com/product/dcdc-booster-step-up-high-voltage-generator-module-adj-45390v/)
 
 
 ## potention quality issue 
