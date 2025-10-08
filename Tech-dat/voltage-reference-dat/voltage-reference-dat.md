@@ -19,10 +19,16 @@ Output voltage options
 
 - [[ADC-dat]]
 
+for ADC-AVDD 
 
+![](2025-10-08-15-54-45.png)
 
 
 - [[peripherals-dat]]
+
+
+
+
 
 ## TL431
 

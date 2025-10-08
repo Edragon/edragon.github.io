@@ -4,6 +4,24 @@
 - [[camera-sdk-dat]] 
 
 
+Using OpenCV with Python on Android (via Termux or Pydroid3)
+
+Install Pydroid3 from Play Store.
+
+Inside Pydroid3, run: pip install opencv-python
+
+Then you can run normal OpenCV Python scripts:
+
+```
+import cv2
+img = cv2.imread("photo.jpg")
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.imshow("Gray", gray)
+cv2.waitKey(0)
+```
+
+
+
 ## demo code 
 
     # run this on Linux PC with opencv-python module

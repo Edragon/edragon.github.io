@@ -5,6 +5,12 @@
 - High Voltage Boost Module
 
 
+## potention quality issue 
+
+- please double check the large capacitor, if the withstand voltage is not enough, it may explode
+
+
+
 ## Module Function 
 
 ![](2025-10-08-15-19-42.png)

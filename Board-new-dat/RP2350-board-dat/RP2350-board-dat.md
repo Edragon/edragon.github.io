@@ -61,8 +61,21 @@ Main features include:
 | Programming Method      | Recognized as mass storage device, drag-and-drop upload     |
 | Development Environment | Visual Studio Code, Eclipse                                 |
 
+## SCH 
 
+core chip 
 
+![](2025-10-08-15-51-17.png)
+
+![](2025-10-08-15-51-43.png)
+
+- [[flash-dat]] - [[LDO-dat]]
+
+- button GPIO24 and RUN 
+
+- [[WS2812-dat]] at GPIO23 
+
+- [[voltage-reference-dat]]
 
 ## ref 
 
