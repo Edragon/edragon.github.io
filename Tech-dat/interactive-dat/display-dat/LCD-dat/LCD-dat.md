@@ -73,6 +73,13 @@ LCD data 24-bit
 
 
 
+## LCD ports 
+
+8-pin 
+
+![](2025-10-08-15-22-38.png)
+
+
 
 ## ref 
 

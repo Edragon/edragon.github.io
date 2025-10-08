@@ -1,6 +1,8 @@
 
 # amplifier-dat
 
+- [[I2S-daC-dat]]
+
 
 
 ## operational amplifiers (op-amps)
@@ -34,11 +36,19 @@
 
 - [[OP07-dat]] - [[LM386-dat]]
 
-- [[MS6002-dat]] - [[LM358-DAT]] - [[NS4150-dat]] - [[MCP6002-dat]]
+- [[MS6002-dat]] - [[LM358-DAT]] 
+
+- [[NS4150-dat]] 
+  
+- [[MCP6002-dat]]
 
 - [[OPA1641-dat]] - [[NE5532-dat]] - [[AD828-dat]] - [[TL072-dat]]
 
 - [[PAM-dat]] - [[diodes-dat]] - [[PAM8302-dat]]
+
+
+
+
 
 ## Voltage Reference
 

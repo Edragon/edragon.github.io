@@ -11,9 +11,12 @@
 
 - [[8051-dat]]
 
-- [[raspberry-pi-dat]]
+- [[raspberry-pi-dat]] - [[RP2350-dat]]
 
 - [[allwinner-dat]]
+
+
+
 
 ## other types 
 

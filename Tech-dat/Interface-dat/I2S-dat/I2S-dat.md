@@ -1,6 +1,10 @@
 
 # I2S-dat 
 
+
+
+## info 
+
 An I2S (Interactive Two-Way Serial) interface is a type of serial communication protocol used for transferring data between devices. 
 
 It is commonly used in computer networking, as well as in audio processing and digital electronics. 
@@ -11,27 +15,28 @@ One of the key features of I2S interfaces is their ability to support full-duple
 
 This makes I2S a popular choice for high-speed data transfer applications.
 
-- [[I2S-microphone-dat]] - [[I2S-DAC-dat]]
+
+
+## category 
+
+- [[I2S-microphone-dat]] 
+
+- speaker == [[I2S-DAC-dat]]
+
+- [[sensor-dat]] 
+
+
+
+## chips 
 
 - [[everest-semi-dat]]
 
 
-## Common Microphone, Speaker Wiring 
-
-![](2025-01-06-14-07-17.png)
-
-
-
-![](2025-01-06-14-07-43.png)
 
 
 ## Other combine use with ESP32-S3 
 
 ![](2025-01-06-17-07-16.png)
-
-
-
-
 
 
 
@@ -65,11 +70,8 @@ https://github.com/miketeachman/micropython-i2s-examples
 https://github.com/miketeachman/micropython-i2s-examples
 
 
-## I2S sesnors 
 
-[SPL06-MEMS-barometer-micropython](https://github.com/ChangboBro/SPL06-MEMS-barometer-micropython)
 
-The SPL06 is a high precision MEMS barometer, its resolution of altitude can up to 5cm! (but I think maybe +-10cm, still very good)
 
 ## ref
 
@@ -89,9 +91,6 @@ audio amplifer - [[audio-dat]] - [[amplifier-dat]] - [[CS4344-dat]]
 - [[software-i2s-dat]]
 
 
-
-
-## ref 
 
 https://en.wikipedia.org/wiki/I%C2%B2S
 

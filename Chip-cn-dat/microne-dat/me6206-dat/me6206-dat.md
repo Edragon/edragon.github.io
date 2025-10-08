@@ -1,6 +1,9 @@
 
 # me6206-dat
 
+
+- [[TP4054-dat]]
+
 available in 1.5V, 2.5V, 2.8V, 3.3V
 
 SOT23-3, SOT89-3

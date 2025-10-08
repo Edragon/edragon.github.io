@@ -7,6 +7,18 @@ I2S Output Digital Microphone - [[INMP441-dat]] - [[MSM261S4030H0R-dat]]
 
 - [[SPH0645-dat]]
 
+
+
+
+
+- [[INMP441-dat]]
+
+![](2025-01-06-14-07-17.png)
+
+
+
+
+
 ## Common pins 
 
 

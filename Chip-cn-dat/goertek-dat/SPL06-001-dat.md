@@ -14,6 +14,15 @@ coefficients. The coefficients are used in the application to convert the measur
 pressure and temperature values. 
 
 
+
+[SPL06-MEMS-barometer-micropython](https://github.com/ChangboBro/SPL06-MEMS-barometer-micropython)
+
+The SPL06 is a high precision MEMS barometer, its resolution of altitude can up to 5cm! (but I think maybe +-10cm, still very good)
+
+
+
+
+
 ## SCH 
 
 ![](2025-10-02-05-36-27.png)

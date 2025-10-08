@@ -20,6 +20,7 @@
 
 ![](2025-07-30-16-50-00.png)
 
+board left side 
 
 | touch | Pin Name | Function  | Signal     |
 | ----- | -------- | --------- | ---------- |
@@ -43,6 +44,9 @@
 | T13   | ADC2_CH2 | CAM_PCLK  | GPIO13     |
 | T14   | ADC2_CH3 |           | GPIO14     |
 |       |          | 5V        | Power 5V   |
+
+
+board right side 
 
 | singal | function | pin name | touch |
 | ------ | -------- | -------- | ----- |
@@ -114,6 +118,14 @@ esp32-s3 = {
 ## Extension board SCH 
 
 ![](2025-07-30-16-52-51.png)
+
+extension board V2 
+
+- [[SX1308-dat]] - [[LCD-dat]] - [[TP4054-dat]]
+
+- [[I2S-dat]] - [[MAX98357-dat]]
+
+
 
 ## init debug boot log 
 

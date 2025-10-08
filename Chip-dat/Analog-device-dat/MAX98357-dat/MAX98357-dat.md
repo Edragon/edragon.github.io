@@ -12,6 +12,12 @@
 - 05 Plug and play: only a single power supply is needed, 35 different clocks and 128 digital audio formats can be automatically configured
 - 06 Suitable for microcontrollers or development board systems with I2S audio output such as RaspberryPi, ArduinoL and ESP32
 
+## footprint 
+
+![](2025-10-08-15-42-01.png)
+
+- [[WLP-dat]] - [[QFN-dat]] - [[footprint-dat]]
+
 
 ## SCH
 
@@ -21,6 +27,11 @@
 
 ![](2025-07-10-18-22-52.png)
 
+chip footprint == - [[WLP-dat]]
+
+
+
+![](2025-10-08-15-41-41.png)
 
 ## Pins 
 

@@ -14,6 +14,12 @@
 - AD7799
 - AD7880 == LC2 MOS Single +5 V Supply, Low Power, 12-Bit Sampling ADC
 
+- [[ADS7822-dat]] - 12-Bit, 200 kSPS, SPI Interface, Micro Power, Single Supply, Rail-to-Rail I/O ADC with Internal Reference
+
+
+
+
+
 ## SCH 
 
 ### ADC with measure MOSFET control 

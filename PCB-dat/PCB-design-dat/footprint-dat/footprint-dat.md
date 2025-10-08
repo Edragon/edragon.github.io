@@ -9,6 +9,8 @@
 
 - [[QFP-dat]] - [[SSOP-dat]] - [[SOP-dat]]
 
+- [[WLP-dat]] - [[QFN-dat]] == [[MAX98357-dat]]
+
 - [[fab-PCBA-dat]]
 
 ## common footprint libraries 

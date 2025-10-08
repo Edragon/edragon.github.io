@@ -19,7 +19,7 @@
 
 - [[quectel-dat]]
 
-- [[WCH-dat]] - [[CH55x-dat]] - [[CH582-dat]]
+- [[WCH-dat]] - [[WCH-MCU-dat]] 
 
 - [[LGT-dat]] - [[LGT8F328-DAT]]
 

@@ -1,7 +1,12 @@
 
-# DOD1119-dat mini-toy-board-dat
+# DOD1119-dat 
+
+
+mini-toy-board-dat
 
 This board is a copy from a commerial toy product, so based on a real selling product, but used a more advanced [[RISC-V-dat]] chip
+
+
 
 ## Board map 
 

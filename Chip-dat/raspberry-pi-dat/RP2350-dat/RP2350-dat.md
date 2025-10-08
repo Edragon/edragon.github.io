@@ -1,5 +1,12 @@
 # RP2350-dat
 
+
+## board 
+
+- [[RP2350-board-dat]]
+
+## info 
+
 [datasheet](https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf) 
 
 
@@ -25,22 +32,6 @@ RP2350 is a stateless device that supports execute-in-place (XIP) from external 
 
 RP2350 is manufactured using a modern 40nm process node, featuring high performance, low dynamic power consumption, and low leakage. It also offers multiple low-power modes to support long-term operation on battery power.
 
-Main features include:
-
-- **Dual Cortex-M33 or Hazard3 processors, up to 150MHz**
-- 520KB multi-bank high-performance SRAM
-- Supports up to 16MB external flash via dedicated QSPI bus
-- DMA controller
-- Fully connected AHB crossbar switch
-- On-chip programmable LDO for core voltage generation
-- 2 on-chip PLLs for generating USB and core clocks
-- 30 GPIO pins, 4 of which can be used as analog inputs
-- 2 UARTs
-- 2 SPI controllers
-- 2 I2C controllers
-- 24 PWM channels
-- USB 1.1 controller and PHY, supporting host and device modes
-- 3 Programmable IO (PIO) blocks, with a total of 12 state machines
 
 Security:
 

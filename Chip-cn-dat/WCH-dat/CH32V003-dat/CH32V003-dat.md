@@ -3,7 +3,9 @@
 
 - [[CH32V103-dat]]
 
+## board 
 
+- [[DOD1119-dat]]
 
 
 
@@ -23,7 +25,9 @@
 
 - SWIO = PD1 / PD4 / PD5 
 - 调试模式：串行单线调试接口
-- [[WCHLink-dat]] - [[SWIO-dat]] - [[MounRiver-dat]] - [[WCH-PROG-dat]]
+
+- [[WCH-sdk-dat]]
+
 
 
 ### Compile project

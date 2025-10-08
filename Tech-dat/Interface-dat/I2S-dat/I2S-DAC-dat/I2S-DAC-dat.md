@@ -1,6 +1,9 @@
 
 # I2S-DAC-dat
 
+
+- [[amplifier-dat]]
+
 I2S DAC Decoder speaker 
 
 - [[PCM5122-dat]] - [[MPC1083-dat]] 
@@ -10,6 +13,18 @@ I2S DAC Decoder speaker
 - [[MAX98357-dat]] 
 
 - [[UDA1334-dat]] - [[AMP1013-dat]] - [[NXP-dat]]
+
+
+
+
+## Common Microphone, Speaker Wiring 
+
+
+
+![](2025-01-06-14-07-43.png)
+
+
+
 
 ## Pin 
 
