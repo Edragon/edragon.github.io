@@ -8,7 +8,6 @@
 ![](2025-10-02-11-27-33.png)
 
 
-
 ## high voltage meter 
 
 - [[high-voltage-dat]]
