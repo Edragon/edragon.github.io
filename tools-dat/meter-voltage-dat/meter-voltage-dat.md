@@ -9,6 +9,18 @@
 
 
 
+## high voltage meter 
+
+- [[high-voltage-dat]]
+
+![](2025-10-08-16-59-10.png)
+
+
+
+
+
+
+
 ## ref 
 
 - [[meter-current-dat]] - [[meter-voltage-dat]]

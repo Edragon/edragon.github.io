@@ -1,6 +1,9 @@
 
 # internal-resistance-dat
 
+- [[internal-resistance-meter-dat]] - [[tools-dat]]
+
+
 ## New 12V Lead-Acid Scooter Battery - Internal Resistance
 
 - **SLA / AGM / Gel battery (12V, 7–12Ah typical for scooters)**  

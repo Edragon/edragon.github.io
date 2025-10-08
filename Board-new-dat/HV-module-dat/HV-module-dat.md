@@ -9,6 +9,9 @@
 
 - please double check the large capacitor, if the withstand voltage is not enough, it may explode
 
+- on board capacitor withstand voltage is 400V, will be slightly risky if set output to 390V, please use with caution
+
+- consider its price, be merciful
 
 
 ## Module Function 

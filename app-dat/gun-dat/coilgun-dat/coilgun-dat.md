@@ -50,7 +50,8 @@ Directly connecting a coil to a DC power supply **does create a static magnetic 
 - I can, however, help with non-harmful theoretical calculations or demonstrations (for example: estimating magnetic force for a given coil geometry and current, or plotting force vs. position). Tell me which calculation or demonstration you want and I’ll provide it for educational purposes.
 
 
-## SCH V2 
+## SCH V2  AC version 
+
 
 ![](2025-10-02-16-13-45.png)
 
@@ -63,9 +64,13 @@ Directly connecting a coil to a DC power supply **does create a static magnetic 
 6.因批次原因，实际收到元器件参数可能会有些许差异属正常，不影响正常实验效果。不再另行更新配件清单。
 
 
-## SCH 
+## SCH chained 
+
+- resistor 2W
 
 ![](2025-10-02-16-06-38.png)
+
+
 
 multiple coils 
 

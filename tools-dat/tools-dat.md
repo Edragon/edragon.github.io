@@ -1,23 +1,24 @@
 
 # tools-dat
 
-- [[tools-PCB-dat]] 
+- [[PCB-tools-dat]] 
 
 - [[soldering-tools-dat]]
 
 - [[lab-power-dat]]
 
-## testing tools 
+- [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-inductor-dat]] - [[internal-resistance-meter-dat]]
 
-- [[electronic-loader-dat]] 
+
+- [[multimeter-dat]] - [[oscilloscope-dat]] - [[signal-generator-dat]] 
+
+- [[electronic-loader-dat]] - [[battery-tester-dat]] - [[KP182-dat]]
+
 - [[logic-analyzer-dat]]
-- [[internal-resistance-dat]]
+
+- [[prototyping-tools-dat]]
 
 
-
-## EDA tools 
-
-- [[EDA-simulation-dat]] - [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]] - [[fritzing.org-dat]]
 
 ## stock 
 
@@ -30,11 +31,7 @@
 
 
 
-## more tools 
 
-- [[multimeter-dat]] - [[oscilloscope-dat]] - [[logic-analyzer-dat]] - [[signal-generator-dat]] 
-
-- [[electronic-loader-dat]] - [[battery-tester-dat]] - [[KP182-dat]]
 
 
 

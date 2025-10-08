@@ -12,6 +12,9 @@
 - [[protel-dat]] 
 
 
+## EDA tools 
+
+- [[EDA-simulation-dat]] - [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]] - [[fritzing.org-dat]]
 
 
 
