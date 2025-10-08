@@ -2,7 +2,13 @@
 # high-voltage-dat
 
 
+- [[HV-module-dat]]
+
 ## apps 
+
+It's suitable for capacitor charging, hunting, rodent control, and Nixie tube power supplies.
+
+- [[capacitor-ZVS-dat]] - [[capacitor-dat]]
 
 - [[coilgun-dat]] 
 - [[nixie-tube-dat]]

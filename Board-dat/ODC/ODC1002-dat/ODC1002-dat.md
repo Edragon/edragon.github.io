@@ -22,6 +22,11 @@ dimension
 
 ![](2025-10-08-15-20-14.png)
 
+## usage 
+
+- CW tune to increase output voltage, CCW tune to decrease output voltage
+
+
 ## Module Info 
 
 - Non-isolated Boost Converter

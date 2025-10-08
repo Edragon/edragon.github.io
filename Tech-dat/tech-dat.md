@@ -28,6 +28,8 @@
 
 ## New Tech And Updates 
 
+- [[high-voltage-dat]]
+
 - [[lora-dat]]
 
 
