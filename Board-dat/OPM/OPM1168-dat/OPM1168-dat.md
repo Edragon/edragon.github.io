@@ -23,6 +23,9 @@ BQ51050 supports 4.2V lithium battery up to 1A charge management.
 ![](2025-10-10-21-40-53.png)
 
 
+
+
+
 ## demo 
 
 https://www.youtube.com/shorts/D4PBTednAjU
