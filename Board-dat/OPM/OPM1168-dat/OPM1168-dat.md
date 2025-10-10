@@ -11,6 +11,10 @@ BQ51050 supports 4.2V lithium battery up to 1A charge management.
 - First two pads = + positive BAT
 - seconds two pads right = - negative GND
 
+- [[coil-dat]] includes isolation pad, the side without the isolation pad should be face to the power transmitter coil.
+
+
+
 
 ## demo 
 
@@ -29,4 +33,4 @@ https://www.youtube.com/shorts/D4PBTednAjU
 - [[coil-dat]]
 
 
-- [[OPM1168]] - [[OPN1168-fab]]
+- [[OPM1168]] - [[OPM1168-fab]]

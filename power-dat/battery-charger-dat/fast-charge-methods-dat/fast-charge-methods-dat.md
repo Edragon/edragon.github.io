@@ -11,7 +11,7 @@
 
 - [[FCP-dat]] - [[SCP-dat]] - [[VOOC-dat]] - [[PE-dat]] - [[AFC-dat]] - [[MTK-PE-dat]]
 
-- [[wireless-charge-dat]]
+- [[wireless-charge-dat]] - [[QI-dat]]
 
 - [[USB-FC-dat]] - [[USB-FC-trigger-dat]] - [[BC1.2-dat]] - [[Apple-2.4A-dat]] - [[DCP-dat]] - [[CDP-dat]] - [[SDP-dat]]
 
