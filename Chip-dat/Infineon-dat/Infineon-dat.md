@@ -8,7 +8,13 @@ IRF3205
 
 ## mosfet 
 
-- [[FR1205-dat]] - [[IRF8313-dat]]
+- [[FR1205-dat]] == [[IRFR1205-dat]]
+  
+  
+- [[IRF8313-dat]]
+
+
+
 
 ## motor contorl 
 

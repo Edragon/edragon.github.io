@@ -38,3 +38,7 @@ Common Applications:
 - Motor drivers
 - Load switches
 - General-purpose switching
+
+## ref 
+
+- [[infineon-dat]]

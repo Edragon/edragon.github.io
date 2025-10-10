@@ -1,17 +1,23 @@
 
 # footprint-dat.md
 
-- [[EDA-dat]] - [[kicad-dat]]
+- [[EDA-dat]] 
 
-- [[kicad-footprint-dat]]
+- [[kicad-dat]] - [[kicad-footprint-dat]]
 
-- [[QFN-dat]] 
+- [[QFN-dat]] - [[WLP-dat]] == [[MAX98357-dat]] - [[BQ51050-dat]]
 
-- [[QFP-dat]] - [[SSOP-dat]] - [[SOP-dat]]
+- [[QFP-dat]] 
 
-- [[WLP-dat]] - [[QFN-dat]] == [[MAX98357-dat]]
+- [[SSOP-dat]] 
+
+- [[SOP-dat]]
 
 - [[fab-PCBA-dat]]
+
+
+
+
 
 ## common footprint libraries 
 

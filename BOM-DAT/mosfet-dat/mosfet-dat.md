@@ -205,3 +205,5 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 - [[transistor-dat]]
 
 - [[mosfet]] - [[mos-p]] - [[mos-n]]
+
+- [[control-dat]]
