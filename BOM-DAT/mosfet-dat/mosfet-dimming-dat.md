@@ -37,14 +37,14 @@ That means the MOSFET is **not fully turning off** — it’s still leaking or p
    - MCU pin should be actively set LOW (push-pull mode), not input or open-drain.
 
 4. **Check wiring**
-   - Correct low-side wiring:  
-     ```
-     +12V ─ LED +  
-            LED − ─ Drain (IRFR1205)  
-     Source ─ GND  
-     MCU GND ─ same GND
-     ```
-   - If you connected it high-side, flip it as above.
+- Correct low-side wiring:  
+  ```
+  +12V ─ LED +  
+         LED − ─ Drain (IRFR1205)  
+  Source ─ GND  
+  MCU GND ─ same GND
+  ```
+- If you connected it high-side, flip it as above.
 
 ---
 
