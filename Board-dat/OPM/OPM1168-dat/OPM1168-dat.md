@@ -11,9 +11,16 @@ BQ51050 supports 4.2V lithium battery up to 1A charge management.
 - First two pads = + positive BAT
 - seconds two pads right = - negative GND
 
+
+
+## note 
+
 - [[coil-dat]] includes isolation pad, the side without the isolation pad should be face to the power transmitter coil.
 
+- the output 5V should be a stable 5V load, otherwise the receiver will turn off in a few seconds 
 
+
+![](2025-10-10-21-40-53.png)
 
 
 ## demo 
