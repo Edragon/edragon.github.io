@@ -1,4 +1,3 @@
-
 # servo-dat
 
 - [[servo-gimbal-dat]]
@@ -37,6 +36,17 @@ The MG90S is essentially an enhanced version of the SG90 with metal gears, thoug
 The 90-degree and 180-degree servos have identical physical dimensions and torque specifications, differing only in their maximum rotation angles. The 360-degree servo allows continuous rotation.
 
 The fixed-wing S-version servo (with 25cm wire length) is not the helicopter version. Compared to helicopter servos, it has lower pull strength, performance, and motor lifespan. It's suitable for electric fixed-wing aircraft made of foamboard or foam (recommended) and offers good value for money.
+
+
+## test note
+
+- user a [[servo-tester]] to get the range of the servo first 
+
+- test without a load first 
+
+- the internal [[gearbox-dat]] can be burned if too high load used 
+
+
 
 
 ## wiring 
@@ -93,13 +103,45 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 ## servo calibration 
 
 
-## 1. Mechanical Calibration
+## Mechanical Calibration
 
 1. Power the servo and send 1500 µs signal (center pulse).
 2. Remove the servo horn (the arm).
 3. Reattach the horn so it points exactly to the middle.
 
 ✅ Best method — keeps full 0–180° movement range.
+
+## FIND A SERVO'S PHYSICAL MIDDLE WITHOUT POWERING IT
+
+### METHOD 1: Gentle Manual Rotation
+
+1. Hold the servo body firmly in one hand.
+2. Gently rotate the output shaft with your fingers.
+
+⚠️ IMPORTANT RULES:
+- SG90 and most servos are geared; never force rotation beyond stops.
+- You will feel two hard mechanical limits (one on each side).
+- The total range is usually about 180° or a bit less.
+- The *middle* is approximately halfway between those two stops.
+
+Example steps:
+  a. Turn fully to one end (gently).
+  b. Mark that position (e.g., note horn orientation).
+  c. Turn fully to the other end.
+  d. Move the horn halfway back to the middle of that range.
+
+✅ This gives a close estimate of the neutral angle.
+
+
+### 📏 METHOD 2: Remove the Horn and Reinstall at Mid
+
+1. Unscrew and remove the servo horn (the plastic arm).
+2. Rotate the output spline gently until it’s roughly centered
+   (halfway between stops as found above).
+3. Reattach the horn pointing straight (e.g., vertical).
+
+💡 When you later power the servo, it should be close to neutral.
+Fine-tune by sending 1500 µs and adjusting slightly if needed.
 
 
 
@@ -124,6 +166,13 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 ## Apps and Extensions 
 
 - [[worm-gear-dat]]
+
+
+
+## demo 
+
+
+
 
 
 ## ref 

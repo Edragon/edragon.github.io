@@ -3,6 +3,14 @@
 
 - ESP32Servo 
 
+
+ESP32 LEDC official libarry 
+
+https://docs.espressif.com/projects/arduino-esp32/en/latest/api/ledc.html?highlight=ledcWrite
+
+
+
+
 ## 'ledcSetup' was not declared in this scope
 
 
