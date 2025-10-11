@@ -89,6 +89,21 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
     }
 
 
+
+## servo calibration 
+
+
+## 1. Mechanical Calibration
+
+1. Power the servo and send 1500 µs signal (center pulse).
+2. Remove the servo horn (the arm).
+3. Reattach the horn so it points exactly to the middle.
+
+✅ Best method — keeps full 0–180° movement range.
+
+
+
+
 ## FAQs 
 
 ### Can a Servo Hold Position When Power Is Off?
