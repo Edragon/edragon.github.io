@@ -17,11 +17,11 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[Tech-DAT]] - [[display-dat]]  - [[network-dat]] - [[usb-dat]] - [[interactive-dat]]
+- [[Tech-DAT]] - [[display-dat]] - [[usb-dat]] - [[interactive-dat]]
 
 - [[power-dat]] - [[battery-dat]] - [[BMS-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]]
 
-- [[network-dat]] - [[RC-dat]]
+- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
