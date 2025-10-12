@@ -7,6 +7,7 @@
 
 - [[MQTT-dat]]
 
+- [[A7670-dat]]
 
 log start 
 
