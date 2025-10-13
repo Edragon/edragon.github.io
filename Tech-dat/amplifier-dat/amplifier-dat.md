@@ -3,7 +3,9 @@
 
 - [[I2S-daC-dat]]
 
+- ISL3283EFHZ - Miniature Broadband Gain Stage 70 - 3000 MHz
 
+M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-free SOT-89 surface mount plastic package. It can be operated from a single 3 to 5 volt supply.
 
 ## operational amplifiers (op-amps)
 

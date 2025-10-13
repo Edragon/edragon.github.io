@@ -25,7 +25,7 @@
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
-- [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]]
+- [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] 
 
 - [[tools-dat]] - [[multimeter-dat]]
   

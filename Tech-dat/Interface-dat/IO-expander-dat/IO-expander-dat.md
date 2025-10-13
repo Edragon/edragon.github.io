@@ -10,6 +10,10 @@
 
 - [[MCP23S08]]
 
+PCA9555DBR - PCA9555 Remote 16-bit I2C and SMBus I/O Expander with Interrupt Output and Configuration Registers
+
+
+
 ## ref 
 
 - [[I2C-dat]]

@@ -151,6 +151,12 @@ A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often 
 
 
 
+## unsort 
+
+- ET5171 - EMI RFI FILTER 10A ELCOM AC 115V 230V single phase ET5171
+
+
+
 ## ref 
 
 - [[antenna-dat]]

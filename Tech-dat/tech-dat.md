@@ -156,7 +156,7 @@
 
 ### Interface and signals 
 
-- [[interface-dat]] 
+- [[interface-dat]] - [[IO-expander-dat]]
 
 - [[serial-dat]] - [[serial-wireless-dat]]
   

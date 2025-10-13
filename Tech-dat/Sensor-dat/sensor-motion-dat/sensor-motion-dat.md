@@ -5,7 +5,7 @@
  
 - [[6-axis-dat]] - [[bosch-dat]]
 
-
+- [[sensor-hall-dat]]
 
 
 ## chips 

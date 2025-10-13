@@ -67,6 +67,10 @@
 
 ## unlisted 
 
+BNC Connector Jack Panel Mount
+
+Black 4mm Banana Plug Jack Socket
+
 ### MC4 CONN 
 
 https://en.wikipedia.org/wiki/MC4_connector

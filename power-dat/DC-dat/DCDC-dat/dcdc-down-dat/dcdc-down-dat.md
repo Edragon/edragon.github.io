@@ -138,6 +138,9 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 
 The MGDM-25 series is a full family of high performance DC/DC power modules designed for aerospace, military and high-end industrial applications. These modules use a frequency fixed swiching technic at 250 KHz providing excellent reliability, low noise characteristics and high power density. Standard models are available with nominal input voltage of 28 volts in a voltage range of 9-36, 16-40 volts. The series include single, bi and triple output voltage choices of 3.3, 5, 12, 15 volts.
 
+- [[Analog-device-dat]]
+
+
 
 ## ref 
 

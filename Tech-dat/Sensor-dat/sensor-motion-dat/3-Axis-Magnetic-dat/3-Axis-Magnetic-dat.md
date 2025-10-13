@@ -71,6 +71,12 @@ Applications
 ![](2025-07-13-02-11-47.png)
 
 
+
+
+## unsort 
+
+- RM3100 - Thank you for purchasing PNI Sensor Corporation’s RM2100 or RM3100 Geomagnetic Sensor, pn 90052 or pn 90053, respectively. The RM2100 is comprised of two Sen-XY-f sensor coils, pn 13104, and a MagI2C ASIC controller, pn 13156, which forms the basis for a 2-axis digital compass. The RM3100 is the same as the RM2100 but adds a Sen-Z-f sensor coil, pn 13101, such that compassing measurements are not constricted to the horizontal plane
+
 ## ref 
 
 - [[sensor-dat]]

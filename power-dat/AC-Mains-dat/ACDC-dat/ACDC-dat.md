@@ -80,6 +80,8 @@
 
 TOP254EN == Enhanced EcoSmart, Integrated Off-Line Switcher with Advanced Feature Set and Extended Power Range == TOPSwitch-HX is a highly integrated monolithic off-line switcher IC designed for off-line power supplies. 
 
+- [[meanwell-dat]]
+
 
 
 ## ref 

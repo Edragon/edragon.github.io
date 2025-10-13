@@ -62,6 +62,12 @@ AD524BDZ
 ADA4077
 
 
+## DCDC 
+
+- [[dcdc-down-dat]]
+
+- MAXM15068 - 7.5V to 60V, 200mA Himalaya uSLIC Step-Down Power Module 
+
 
 
 ## ref 

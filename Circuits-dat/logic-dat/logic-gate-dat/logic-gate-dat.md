@@ -3,6 +3,9 @@
 
 - [[buffer-dat]]
 
+- [[XOR-dat]]
+
+
 ## Inverters
 
 SN54HC14, SN74HC14 == SNx4HC14 Hex Inverters with Schmitt-Trigger Inputs
@@ -31,6 +34,8 @@ The output enters a high impedance state when a HIGH-level is applied to the out
 ## NAND 
 
 SN74HC00N ==  'NAND' GATE QUAD, 2 -INPUT
+
+SN74HCS30DR - SN74HCS30 Single 8-Input NAND Gate with Schmitt-Trigger Inputs
 
 ### NC7SZ00
 
@@ -76,6 +81,10 @@ in positive logic.
 | AND gate          | Basic logic gate: output is 1 only if both inputs are 1              |
 | Positive-AND gate | Same thing — "positive" means using standard logic levels (high = 1) |
 | Negative logic    | Less common, where high voltage = logic 0                            |
+
+## OR gate
+
+74HCT32D - Quad 2-Input OR Gate
 
 ## more gate chips 
 

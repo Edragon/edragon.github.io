@@ -18,6 +18,12 @@ TS24CA == 4.55*1.8*3.5mm 卧贴 轻触开关
 
 ![](2025-07-14-01-08-00.png)
 
+
+## KCD1 
+
+	
+Red Light 6A@250VAC ON/OFF DPST Snap in Panel
+
 ## KCD3 
 
 ![](2025-06-17-17-43-08.png)
