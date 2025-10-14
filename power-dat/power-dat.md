@@ -1,13 +1,15 @@
 
 # power-dat.md
 
-- [[power-dat]] - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
+- [[power-dat]] 
+
+- [[battery-dat]] - [[li-battery-dat]]- [[BMS-dat]]
+
+- [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
   
 - [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
 
 - [[low-power-dat]]
-
-- [[battery-dat]] - [[li-battery-dat]]- [[BMS-dat]]
 
 - [[battery-pack-dat]]
 
@@ -22,6 +24,7 @@
 - [[AC-mains-dat]] - [[ACDC-dat]]
 
 - [[solar-dat]] - [[solar-power-dat]]
+
 
 ## workflow
 

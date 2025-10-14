@@ -11,6 +11,11 @@
 - [[ESP32-ADC-dat]] - [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] 
 
 
+## hardware design guidelines 
+
+- [esp-hardware-design-guidelines](https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32s3/schematic-checklist.html#overview)
+
+
 ## pins 
 
 You can use almost any GPIO, except:

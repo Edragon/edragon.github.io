@@ -5,7 +5,7 @@
 
 
 
-- legacy wiki page - https://w.electrodragon.com/w/HDSC_SDK
+- [legacy wiki page ](https://w.electrodragon.com/w/HDSC_SDK)
 
 
 ## Board map 
@@ -51,6 +51,11 @@ SDK
 - HC32L136_IDE_Rev1.0.0.zip
 
 available at - https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
+
+
+
+
+
 
 
 ## demo video 

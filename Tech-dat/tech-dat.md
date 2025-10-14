@@ -96,6 +96,8 @@
 
 - [[WIFI-DAT]] - [[mqtt-dat]] - [[TCPIP-dat]]
 
+- [[SFP-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
+
 ### MCU / CTRL / Processing 
 
 - [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]]
@@ -140,6 +142,9 @@
 - [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
   
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[pump-dat]]
+
+- [[servo-dat]]
+
 
 - [[motor-driver-dat]]
 
