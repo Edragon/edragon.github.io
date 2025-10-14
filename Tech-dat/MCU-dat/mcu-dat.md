@@ -1,6 +1,10 @@
 
 # MCU-dat 
 
+
+- [[peripherals-dat]]
+
+
 - [[CPLD-dat]] - [[RISC-V-dat]]
 
 - [[STM32-dat]] - [[STM32-clone-dat]]

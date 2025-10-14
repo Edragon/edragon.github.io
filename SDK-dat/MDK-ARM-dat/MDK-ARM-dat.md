@@ -76,7 +76,7 @@ install from official websites
 
 - [[DA14585-dat]] == https://s3.eu-central-1.amazonaws.com/lpccs-docs.renesas.com/CMSIS/DialogSemiconductor.DA1458x_DFP.1.1.3.pack == https://www.keil.arm.com/packs/da1458x_dfp-dialogsemiconductor/devices/
 
-- [[HDSC-SDK-dat]] - [[STM32-SDK-dat]]
+- [[HDSC-SDK-dat]] - [[STM32-SDK-dat]] - [[HDSC-dat]]
 
 Supported Device
 
