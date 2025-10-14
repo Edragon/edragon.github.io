@@ -143,6 +143,9 @@
   
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[pump-dat]]
 
+- [[servo-dat]]
+
+
 - [[motor-driver-dat]]
 
 - [[relay-dat]] - [[SSR-dat]]

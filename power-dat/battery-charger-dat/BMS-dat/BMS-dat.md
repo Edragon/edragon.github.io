@@ -3,6 +3,9 @@
 
 - [[passive-BMS-dat]] - [[active-BMS-dat]]
 
+- [[fast-charge-methods-dat]] - [[USB-PD-dat]]
+
+
 ## 3. Protection Features
 
 Look for these essential protections:
