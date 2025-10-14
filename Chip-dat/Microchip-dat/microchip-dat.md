@@ -1,7 +1,8 @@
 
 # microchip-dat
 
-- [[avr-dat]]
+
+- [[microchip-MCU-dat]]
 
 LAN8710A/8720A - SMSC
 
@@ -31,6 +32,9 @@ Single/Multiple RPM-Based PWM Fan Controller
 MCP4017 == 7-Bit Single Digital POT in SC70 w/I2C™
 
 - [[TI-power-dat]]
+
+
+
 
 
 ## ref 

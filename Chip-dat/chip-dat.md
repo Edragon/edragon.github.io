@@ -63,6 +63,8 @@ from a to z
 
 - [[semtech-dat]] - [[SX1262-dat]] - [[sx1278-dat]] - [[LLCC68-dat]]
 
+- [[silicon-labs-dat]]
+
 - [[toshiba-dat]] 
 
 - [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]]

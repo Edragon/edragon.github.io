@@ -96,6 +96,8 @@
 
 - [[WIFI-DAT]] - [[mqtt-dat]] - [[TCPIP-dat]]
 
+- [[SFP-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
+
 ### MCU / CTRL / Processing 
 
 - [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]]

@@ -82,6 +82,13 @@ solar extension cable
 ![](2025-07-24-15-07-36.png)
 
 
+### TBR-6028XF-5-30-0000
+
+Two Piece Blade Connector_5Pin_3.0mm Pitch_Through Hole_Water Proof Series
+
+![](2025-10-14-17-17-30.png)
+
+
 ### JOINT TECH
 
 #### A1001WR-S-2P
@@ -114,6 +121,11 @@ solar extension cable
 - Number of contacts : 8
 
 
+
+
+
+
+
 ## manu code 
 
 - DEALON DW127R-11-08-34
@@ -124,6 +136,13 @@ solar extension cable
 M12A-12PMMR-SF8001 == M12 Metric Circular Connector, A-Coded, Metal Non-shielded, 1.5A, 12 pins, Male Connector, Male Contact, Hexagonal, PG9, Screw Thread, PCB 90°, Receptacle, Front Fastened, IP68 / IP69K
 
 ![](2025-09-25-13-58-34.png)
+
+
+
+
+
+
+
 
 
 ## ref 
