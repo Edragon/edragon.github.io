@@ -21,6 +21,8 @@
 
 - [[AC-mains-dat]] - [[ACDC-dat]]
 
+- [[solar-dat]] - [[solar-power-dat]]
+
 ## workflow
 
 1. design: [[power-dat]] 
