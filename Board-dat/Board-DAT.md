@@ -227,6 +227,7 @@ USB
 
 [[DCDC-down-dat]] - [[OPM1192-dat]]
 
+[[battery-charge-dat]] - [[fast-charge-methods-dat]] - [[OPM1185-dat]]
 
 ### OPS 
 

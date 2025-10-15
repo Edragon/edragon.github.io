@@ -113,6 +113,11 @@
 
 
 
+## demo video 
+
+- [[USB-PD-dat]]
+
+
 
 ## ref 
 

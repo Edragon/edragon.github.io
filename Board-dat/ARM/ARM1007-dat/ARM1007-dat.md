@@ -17,6 +17,9 @@
 - [[peripherals-dat]] - [[MCU-dat]]
 
 
+![](2025-10-15-18-57-27.png)
+
+
 
 
 ## USB-TTL selection (on the top left pins)
