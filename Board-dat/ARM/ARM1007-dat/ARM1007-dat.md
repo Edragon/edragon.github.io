@@ -16,6 +16,7 @@
 ## USB-TTL selection (on the top left pins)
 
 [[SWD-dat]]
+
 - PA13 - UART0_RXD
 - PA14 - UART0_TXD
 
