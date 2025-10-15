@@ -4,9 +4,9 @@
 
 PN532 NFC/RFID card read development board
 
-PN532 NFC RFID Easy Module R2
+[PN532 NFC RFID Easy Module R2](https://www.electrodragon.com/product/pn532-nfc-rfid-easy-module-r2/)
 
-https://www.electrodragon.com/product/pn532-nfc-rfid-easy-module-r2/
+
 
 - [legacy wiki page](https://www.electrodragon.com/w/NFC)
 
@@ -15,3 +15,8 @@ https://www.electrodragon.com/product/pn532-nfc-rfid-easy-module-r2/
 
 
 - [[nfc-dat]] - [[PN532-dat]]
+
+
+## ref 
+
+- [[NID1017]]
