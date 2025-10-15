@@ -23,6 +23,9 @@
 
 - [[AC-mains-dat]] - [[ACDC-dat]]
 
+- [[solar-dat]] - [[solar-power-dat]]
+
+- [[Power-distribution-dat]]
 
 
 ## workflow

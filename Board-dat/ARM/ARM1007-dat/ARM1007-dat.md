@@ -5,12 +5,18 @@
 
 
 
-- legacy wiki page - https://w.electrodragon.com/w/HDSC_SDK
+- [legacy wiki page ](https://w.electrodragon.com/w/HDSC_SDK)
 
 
 ## Board map 
 
 ![](2024-03-22-16-21-34.png)
+
+- [[segment-LCD-dat]] - [[battery-charger-dat]] - [[serial-dat]] - [[LDO-dat]]
+
+- [[peripherals-dat]] - [[MCU-dat]]
+
+
 
 
 ## USB-TTL selection (on the top left pins)
@@ -36,6 +42,7 @@ BOOT0
 - power ON/OFF: by backside top right switch 
 - [[Power-distribution-dat]]: select power via USB or battery 
 
+- [[power-dat]]
 
 ## Programmer IOs 
 
@@ -53,7 +60,7 @@ SDK
 
 available at - https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
 
-
+- [[MDK-ARM-dat]]
 
 
 
@@ -66,6 +73,6 @@ available at - https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
 
 ## ref 
 
-- [[HC32L136-dat]]
+- [[HC32L136-dat]] - [[HDSC-dat]]
 
 - [[Power-distribution]]

@@ -18,7 +18,7 @@ The most following charger options are for the lithium-ion battery
 
 - [[LTC4054-dat]] - [[MCP73831-dat]]
 
-[[TP-dat]] - [[TP4056-dat]] - [[TP5000-dat]] - [[TP4054-dat]]
+[[TP-dat]] - [[TP4056-dat]] - [[TP5000-dat]] - [[TP4054-dat]] - [[TP4067-dat]]
 
 [[injoinic-dat]]
 - [[IP5306-dat]]
