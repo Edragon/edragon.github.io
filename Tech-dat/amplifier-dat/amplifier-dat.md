@@ -129,6 +129,8 @@ Active Low Pass filter with Amplification
 
 MC4558 - Wide bandwidth dual bipolar operational amplifier
 
+- LM324DR2G - Operational Amplifiers - Op Amps 3-32V Quad 5mV VIO Commercial Temp
+
 
 ## ref 
 

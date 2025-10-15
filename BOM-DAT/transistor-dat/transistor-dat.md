@@ -66,15 +66,6 @@ common brand: 	Infineon
 
 
 
-## un-sorted 
-
-- [BCR116E6327](https://www.mouser.com/ProductDetail/Infineon-Technologies/BCR-116-E6327?qs=OWKQh20churs%252Bj9jXRGlFg%3D%3D&srsltid=AfmBOoq-frf2cIVFR5tG9npa_zhflZxKBJ_wqftDIDK69ALQzAtPfXW6) == Built in bias resistor (R1=4.7 kΩ, R2=47 kΩ) == Infineon == BCR 116 E6327
-
-- IRFML8244TRPBF
-
-- IRLML9303 
-
-
 ## BSS138 
 
 # Differences Between BSS138 and BSS138W
@@ -100,6 +91,25 @@ common brand: 	Infineon
 
 👉 If space is tight → **BSS138W**.  
 👉 If you want easier soldering and better heat dissipation → **BSS138**.
+
+
+
+
+
+
+
+## un-sorted 
+
+- [BCR116E6327](https://www.mouser.com/ProductDetail/Infineon-Technologies/BCR-116-E6327?qs=OWKQh20churs%252Bj9jXRGlFg%3D%3D&srsltid=AfmBOoq-frf2cIVFR5tG9npa_zhflZxKBJ_wqftDIDK69ALQzAtPfXW6) == Built in bias resistor (R1=4.7 kΩ, R2=47 kΩ) == Infineon == BCR 116 E6327
+
+- IRFML8244TRPBF
+
+- IRLML9303 
+
+- BC817-40W - 45 V, 0.5 A, General Purpose NPN Transistor
+
+
+
 
 
 ## ref 

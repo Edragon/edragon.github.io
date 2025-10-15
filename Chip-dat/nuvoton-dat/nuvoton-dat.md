@@ -10,6 +10,7 @@
 
 - [[n76e003-dat]]
 
+N79E825A/824A/823A/822A DataSheet
 
 8051
 * MS51FB9AE
