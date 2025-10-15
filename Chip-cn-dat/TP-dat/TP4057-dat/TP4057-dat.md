@@ -71,6 +71,13 @@ Other features of the TP4057X include **power adaptation, undervoltage lockout, 
 注：建议接R1耗散电阻（0.3Ω），可获得较大的充电电流，又可提高整机的可靠性。阻值根据实际情况选取（0~0.6Ω）。
 
 
+## PROG 
+
+- 2.1K
+- 3K 
+- 3.3K 
+
+![](2025-10-15-16-19-47.png)
 
 ## ref 
 

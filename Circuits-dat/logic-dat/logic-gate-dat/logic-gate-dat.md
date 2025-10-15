@@ -37,6 +37,8 @@ SN74HC00N ==  'NAND' GATE QUAD, 2 -INPUT
 
 SN74HCS30DR - SN74HCS30 Single 8-Input NAND Gate with Schmitt-Trigger Inputs
 
+MC14093BCP - Quad 2-Input “NAND" Schmitt Trigger 
+
 ### NC7SZ00
 
 

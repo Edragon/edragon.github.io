@@ -111,6 +111,8 @@
 
 ### Interactive
 
+- [[interactive-dat]]
+
 - [[LED-dat]] - [[LED-strip-dat]]
 
 - [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] - [[LCD-dat]]
@@ -141,7 +143,7 @@
 
 - [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
   
-- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[pump-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[pump-dat]] - [[triac-dat]]
 
 - [[servo-dat]]
 
@@ -157,6 +159,10 @@
 - [[camera-dat]] - [[vision-dat]]
 
 - [[triac-dat]] - [[thyristor-dat]]
+
+- [[switch-dat]] - [[switching-dat]]
+
+
 
 
 ### Interface and signals 

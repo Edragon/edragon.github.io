@@ -54,7 +54,7 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 
 - [[IXYS-dat]] - 
 
-
+- [[OnSemi-dat]]
 
 ## ref 
 

@@ -4,12 +4,16 @@
 ![](50-41-17-07-07-2023.png)
 
 
+
+
+
 ## boards 
 
 - [[MSP1023-dat]]
 
 ## datasheet 
 
+Single Supply Dual Operational Amplifiers - LM258, LM358, LM358A, LM358E, LM2904, LM2904A, LM2904E, LM2904V, NCV2904
 
 [LMx58-N Low-Power, Dual-Operational Amplifiers](https://www.ti.com/lit/ds/snosbt3j/snosbt3j.pdf?ts=1688712730211&ref_url=https%253A%252F%252Fwww.google.com%252F)
 

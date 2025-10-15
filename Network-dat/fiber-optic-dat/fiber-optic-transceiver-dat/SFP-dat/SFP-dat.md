@@ -182,7 +182,7 @@ SFP+ 单模: 1310nm到1550nm波长，可传10~80千米。
 
 ISL35111DRZ - Avaya AA1419048-E6 Compatible 1000BASE-SX SFP 850nm 550m DOM Duplex LC/UPC MMF Optical Transceiver Module (Industrial)
 
-
+FTLX8574D3BCL - 10Gb/s 850nm Multimode Datacom SFP+ Transceiver
 
 
 

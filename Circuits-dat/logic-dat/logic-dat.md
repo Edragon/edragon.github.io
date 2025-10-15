@@ -16,8 +16,13 @@
 
 - [[flipflop-dat]] - [[counter-dat]] - [[decoder-dat]] - [[mux-dat]] - [[shiftreg-dat]] - [[pll-dat]] - [[timing-dat]] - [[voltage-level-dat]] - [[adc-dat]] - [[dac-dat]] - [[opamp-dat]] - [[comparator-dat]] - [[sensor-interface-dat]] - [[driver-dat]] - [[motor-driver-dat]] - [[led-driver-dat]] - [[relay-driver-dat]] - [[audio-amplifier-dat]] - [[power-amplifier-dat]]
 
+- [[multiplexer-dat]]
 
+- [[timer-dat]]
 
+- [[amplifier-dat]]
+
+- [[voltage-reference-dat]]
 
 ## ref 
 

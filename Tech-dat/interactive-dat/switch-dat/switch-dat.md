@@ -56,6 +56,11 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 
 
+## switching ICs 
+
+MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
+
+
 ## ref 
 
 

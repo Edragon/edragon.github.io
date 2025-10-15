@@ -1,5 +1,5 @@
 
-# 7-segment-display-dat
+# segment-display-dat
 
 - [[IMS1030-dat]] == 0.56"
 
@@ -24,6 +24,12 @@
 
 - [[74HC595-dat]]
 
+
+
+## unsort 
+
+MC14511BCPG - IC DRVR 7 SEGMENT 16DIP - 	
+LED, LCD, Vacuum Fluorescent (VF) Driver 16-PDIP
 
 
 

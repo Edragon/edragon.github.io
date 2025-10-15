@@ -32,7 +32,7 @@ M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-f
 | [[LM358-dat]]   | Similar voltage range but not rail-to-rail        |
 | **TSV912**      | Lower voltage noise, better for precision applications |
 
-
+OP07x Precision Operational Amplifiers
 
 ## Solutions 
 
@@ -127,7 +127,7 @@ Active Low Pass filter with Amplification
 
 - [[Analog-device-dat]]
 
-
+MC4558 - Wide bandwidth dual bipolar operational amplifier
 
 
 ## ref 

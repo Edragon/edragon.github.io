@@ -9,7 +9,9 @@
 
 - [[motor-dat]] - [[vibrator-dat]] - [[dc-motor-dat]]
 
-- [[motor-driver-dat]] - [[mosfet-dat]] - [[switching-dat]] - [[TRIAC-dat]] 
+- [[motor-driver-dat]] - [[mosfet-dat]] - [[switching-dat]] 
+
+- [[TRIAC-dat]] 
 
 - [[Linear-Rail-dat]] - [[solenoid-valve-dat]]
 

@@ -34,6 +34,10 @@ for ADC-AVDD
 
 
 
+## more 
+
+- Voltage References | LM336Z25 - 2.49 V, 2% Programmable Shunt Regulator
+
 
 ## ref 
 

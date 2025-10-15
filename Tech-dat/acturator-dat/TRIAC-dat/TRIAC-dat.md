@@ -119,5 +119,12 @@ It is a type of semiconductor device used for controlling high-power electric si
 
 
 
+## unsort 
+
+BT137-600E - 4Q Triac
+
+
+
 ## ref 
 
+- [[acturator-dat]]
