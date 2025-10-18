@@ -22,12 +22,12 @@
 
 ## soldering rack 
 
-- [[PSOS033-dat]]
+- [[PSOS033-dat]] - [[PSOS010-dat]]
 
 
 ## soldering wires 
 
-- [[PSO1030-dat]]
+- [[PSO1030-dat]] 
 
 
 

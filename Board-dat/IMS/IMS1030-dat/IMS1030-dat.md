@@ -32,6 +32,8 @@ https://www.youtube.com/shorts/wiDk-X6urJ4
 
 ## ref 
 
+- [[display-header-dat]]
+
 - [[74HC595-dat]] - [[74xx-dat]]
 
 - [[7-segment-display-dat]]

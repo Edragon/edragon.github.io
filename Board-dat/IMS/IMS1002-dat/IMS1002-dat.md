@@ -1,5 +1,6 @@
 # IMS1002-dat
 
+- [[I2C-dat]]
 
 ## SCH 
 
@@ -36,6 +37,10 @@ Positioning holes: 4 M2 screw positioning holes with a hole diameter of 2.2mm, m
 
 ## ref
 
+- [[display-header-dat]]
+
+
 - classic arduino library DigitalTubeforArduino 1.0+ --- [[DigitalTubeforArduino1.0+.rar]]
 - or search [[TM1637-dat]] in arduino IDE
+
 - [[IMS1002]]

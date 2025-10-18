@@ -27,8 +27,6 @@
 
 - [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] 
 
-- [[tools-dat]] - [[multimeter-dat]]
-  
 - [[mechanics-dat]] 
 
 - [[BOM-DAT]] - [[case-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]]
@@ -37,6 +35,8 @@
 
 - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-soldering-dat]]
 
+- [[tools-dat]] - [[multimeter-dat]]
+  
 - [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] 
 
 - [[service-dat]] 

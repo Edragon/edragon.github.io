@@ -10,3 +10,10 @@ https://www.electrodragon.com/product/casting-metal-soldering-rack/
 
 ![](2024-10-03-18-27-15.png)
 
+
+
+
+
+## ref 
+
+- [[soldering-tools-dat]]
