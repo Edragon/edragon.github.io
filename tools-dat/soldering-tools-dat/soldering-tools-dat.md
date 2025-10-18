@@ -5,8 +5,6 @@
 
 - [[preheat-bed-dat]]
 
-- [[soldering-flux-dat]] 
-
 - [[solder-paste-dat]]
 
 - [[fab-stencil-dat]]
@@ -22,6 +20,11 @@
 - [[PCB-cleaner-dat]]
 
 
+## soldering rack 
+
+- [[PSOS033-dat]]
+
+
 ## soldering wires 
 
 - [[PSO1030-dat]]
@@ -30,7 +33,13 @@
 
 ## Soldering Flux 
 
+- [[soldering-flux-dat]] 
+
 - [[PSO1046-dat]]
+
+
+
+
 
 
 ## ref 
