@@ -97,6 +97,12 @@ TC58FVM7(T/B)2AFT(65/80) - 128-MBIT (16M × 8 BITS / 8M × 16 BITS) CMOS FLASH M
 
 AM29LV116DT-90EI - 	IC FLASH 16MBIT PARALLEL 40TSOP
 
+spansion - S29GL-P MirrorBit® Flash Family - S29GL01GP, S29GL512P, S29GL256P, S29GL128P 1 Gigabit, 512 Megabit, 256 Megabit and 128 Megabit 3.0 Volt-only Page Mode Flash Memory featuring 90 nm MirrorBit Process Technology
+
+IC FLASH 32MBIT PARALLEL 48TSOP - SST39VF3202-70-4I-EKE - FLASH Memory IC 32Mbit Parallel 70 ns 48-TSOP
+
+## ref
+
 ## ref 
 
 - [[flash-dat]]

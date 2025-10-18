@@ -181,6 +181,8 @@ LED control - [[ILC1063-dat]]
 
 - [[ISB1016-dat]] - [[ISB1022-dat]] - [[ISB1033-dat]]
 
+- [[ISB1036-dat]] - [[switch-dat]]
+
 ### ITF
 
 - [[ITF1000-dat]]

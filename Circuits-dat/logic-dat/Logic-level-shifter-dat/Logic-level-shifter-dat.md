@@ -66,6 +66,15 @@ Make sure the VCCA ≤VCCB.
 ![](2025-07-13-02-12-39.png)
 
 
+
+## unsort 
+
+- MAX3372E–MAX3379E/MAX3390E–MAX3393E - ±15kV ESD-Protected, 1μA, 16Mbps, Dual/Quad Low-Voltage Level Translators in UCSP
+
+
+
+
+
 ## ref 
 
 - [[logic-shifter]]

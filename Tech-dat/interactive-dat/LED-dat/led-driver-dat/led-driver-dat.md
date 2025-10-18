@@ -96,6 +96,15 @@ driver AOA3 ?
 
 ![](2025-09-01-20-33-21.png)
 
+
+
+## unsort 
+
+- MIC2871YMK-T5 - LED Driver IC 1 Output DC DC Regulator Step-Up (Boost) Single-Wire Dimming 1.2A (Flash) 14-LDFN (3x2)
+
+
+
+
 ### ref 
 
 - https://tigoe.github.io/LightProjects/led-strips.html

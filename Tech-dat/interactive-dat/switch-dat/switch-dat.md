@@ -28,6 +28,9 @@ Red Light 6A@250VAC ON/OFF DPST Snap in Panel
 
 ![](2025-06-17-17-43-08.png)
 
+![](2025-10-18-16-47-02.png)
+
+- [[ISB1036-dat]] - [[ISB-dat]]
 
 ## types 
 

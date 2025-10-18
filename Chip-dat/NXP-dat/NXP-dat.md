@@ -1,6 +1,9 @@
 
 # NXP-dat
 
+- [[NXP-sensor-dat]]
+
+
 [[NXP-CAN-dat]] - [[TJA1050-dat]]
 
 - [[i.MX6ULL-dat]]

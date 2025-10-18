@@ -9,14 +9,16 @@
 
 - [[gas-sensor-dat]]
 
-- [[Peltier-dat]] - [[sensor-pressure-dat]] 
+- [[Peltier-dat]] - [[sebeck-dat]]
 
 - [[sensor-temp-hum-dat]] - [[humidity-sensor]]
 
 - [[sensor-temperature-dat]] - [[thermocouple-dat]] - [[thermostat-dat]] - [[sensor-RTD-dat]]
 
 
-- [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
+- [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
+
+- [[sensor-voltage-dat]]
 
 
 - [[actuator-dat]] - [[relay-dat]]

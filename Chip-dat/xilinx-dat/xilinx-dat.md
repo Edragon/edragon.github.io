@@ -33,6 +33,18 @@ XC7A200T - FPGA - Field Programmable Gate Array XC7A200T-1FFG1156I
 
 
 
+
+## unsort 
+
+- XC4005E
+- XC95108
+- XC95288XL
+- XC95144
+
+
+
+
+
 ## ref 
 
 - [[CPU-dat]]
