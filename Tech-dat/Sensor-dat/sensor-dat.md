@@ -23,8 +23,6 @@
 
 - [[hall-sensor-dat]] - [[angle-encoder-dat]]
 
-- [[liquid-sensor-dat]] 
-
 - [[sensor-pressure-dat]]
 
 
@@ -33,6 +31,13 @@
 ## Sell 
 
 - [[SVC1010-dat]]
+
+
+## objection sensors 
+
+- [[sensor-objection-dat]]
+
+- [[sensor-moisture-dat]] - [[liquid-sensor-dat]]  - [[sensor-TDS-dat]] - [[TDS-dat]]
 
 
 

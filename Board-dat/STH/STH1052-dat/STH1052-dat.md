@@ -4,7 +4,11 @@
 ## Info 
  
 [product url](https://www.electrodragon.com/product/soildust-humiditywatermoisture-sensor/)
- 
+
+
+
+
+
 ## Applications, category, tags, etc. 
 
 - [[home-plant-dat]]
@@ -21,6 +25,8 @@ Pin definitiions:
 
 ![](2024-03-26-15-50-48.png)
 
+
+
 ## SCH 
 
 ![](2024-03-26-15-53-06.png)
@@ -32,4 +38,6 @@ Pin definitiions:
  
 - comparator - [[LM393-dat]]
   
+- [[sensor-moisture-dat]] - [[sensor-dat]]
+
 - [[STH1052]]

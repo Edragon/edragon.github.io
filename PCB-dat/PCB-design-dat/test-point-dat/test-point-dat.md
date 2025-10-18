@@ -7,6 +7,10 @@ add points like
 
 
 
+## pre-designed test hook 
+
+![](2025-10-15-21-08-05.png)
+
 ## press test rig V3 
 
 ![](2025-09-30-21-24-36.png)
