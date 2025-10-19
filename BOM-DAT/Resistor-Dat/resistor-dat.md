@@ -37,6 +37,10 @@ Purpose: To provide a load for the secondary winding of a current transformer (C
 
 ## EIA-96 SMD Resistor Code Chart (1% Precision)
 
+- 30E == 2000K 
+- 30D == 200K 
+
+
 ### Multiplier Letters
 | Letter | Multiplier |
 |--------|------------|
@@ -53,6 +57,9 @@ Purpose: To provide a load for the secondary winding of a current transformer (C
 ---
 
 ### Base Values (01–96)
+
+
+
 | Code | Value | Code | Value | Code | Value | Code | Value |
 |------|-------|------|-------|------|-------|------|-------|
 | 01   | 100   | 25   | 178   | 49   | 316   | 73   | 562   |

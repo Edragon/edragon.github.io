@@ -20,8 +20,26 @@ Features:
 
 - [[CN3306-CONSONANCE.pdf]]
 
+
+## setup 
+
+output voltage setting: == VREG ＝ 1.205 × (1＋R1／R2) == 24.8
+
+output charge current == Ich == 120mV / Rcs == 2A 
+
+The Maximum Power Point Tracking  == VMPPT ＝ 1.205×(1＋R5／R6) == 13.3V 
+
+MPPT Pin Used for Adaptive Charge Current ==  VL ＝ 1.205×(1＋R5／R6) 
+
+
+
+
 ## ref 
+
+- [[MPPT-dat]]
 
 - [[diode-dat]] - [[DCDC-down-dat]] - [[resistor-feedback-dat]] - [[resistor-dat]]
 
-- [[consonance-dat]]
+- [[consonance-dat]] - [[consonance]]
+
+- [[CN3306]]
