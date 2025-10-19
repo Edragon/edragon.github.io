@@ -1,6 +1,11 @@
 
 # PENS014-dat
 
+**Note the book is empty, no components included.** Images for demo only. 
+ 
+
+
+
 ## Info
 
 [product url - SMD Collecting booklet / Sample Book](https://www.electrodragon.com/product/smd-collecting-booklet-sample-book/)
@@ -15,7 +20,17 @@ Inner pages: Length 17.2 cm x Width 11.8 cm (covered area 7.4 cm)
 
 Specification 1: Divided into 6 rows on average, each row about 28mm high, especially suitable for slightly wider SMD tape components
 
+
+
+
+
 the current selling version is **12-row per page**
+
+
+
+
+
+
 
 ### small size version == 12-row per page 
 

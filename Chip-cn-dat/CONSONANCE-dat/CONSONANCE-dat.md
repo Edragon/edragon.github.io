@@ -13,7 +13,6 @@
 
 
 
-
 ## battery management 
 
 - [[CN3302-dat]] - PFM Boost Dual-Cell Lithium Battery Charging Control IC

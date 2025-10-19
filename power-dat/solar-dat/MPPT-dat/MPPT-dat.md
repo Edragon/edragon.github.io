@@ -3,6 +3,10 @@
 
 
 
+## board 
+
+- [[CN3306-dat]] - [[CN3722-dat]]
+
 ## 1. MPPT: Maximum Power Point Tracking
 
 **Definition:**  
@@ -59,3 +63,5 @@ CN3306太阳能板最大功率点跟踪端MPPT管脚的电压被调制在1.205V(
 ## ref 
 
 - [[solar-dat]]
+
+- [[resistor-feedback-dat]]
