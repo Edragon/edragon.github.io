@@ -1,5 +1,7 @@
 
-# CC1101 LSS
+# NWL1037-dat
+
+CC1101 LSS
 
 CC1101-LSS: Low Power, SPI interface, Spring Coil
 
@@ -14,8 +16,10 @@ CC1101-LSS: Low Power, SPI interface, Spring Coil
 ![](2023-09-05-16-21-33.png)
 
 
-- [[CC1101-dat]]
+## ref 
 
+
+- [[CC1101-dat]]
 
 
 

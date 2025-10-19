@@ -3,6 +3,12 @@
 # CC1101 DAT
 
 
+
+## board 
+
+- [[NWL1037-dat]] - [[NWL1039-dat]]
+
+
 Low-Power Sub-1 GHz RF Transceiver 
 
 ## CC1101 Chip Features 

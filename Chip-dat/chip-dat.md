@@ -67,7 +67,7 @@ from a to z
 
 - [[toshiba-dat]] 
 
-- [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]]
+- [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]] - [[TI-network-dat]]
 
 
 
