@@ -5,7 +5,7 @@
 board - [Bluetooth Audio Breakout Board, w/Amp., Car Receiver, Bluetooth 5.0, BK3266](https://www.electrodragon.com/product/bluetooth-5-2-stereo-audio-data-transmission-module-bk3266/)
 
 
-breakout board - [[NBL1115-dat]]s
+breakout board - [[NBL1115-dat]]
 
 - [[bt-audio-dat]]
 
