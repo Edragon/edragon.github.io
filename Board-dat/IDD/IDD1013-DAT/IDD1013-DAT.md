@@ -149,6 +149,9 @@ Downgrade your ESP32 board package to version 2.0.17 which is compatible with th
 
 
 
+## buck order discount 
+
+- 15% for 100pcs order - [[discount-dat]]
 
 
 ## ref 

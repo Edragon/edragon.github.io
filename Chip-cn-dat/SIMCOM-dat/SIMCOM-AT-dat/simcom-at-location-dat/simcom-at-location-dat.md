@@ -3,6 +3,26 @@
 # SIMCOM AT GNSS
 
 
+## A7670A 
+
+    AT+CGNSSPWR=1
+    OK
+
+    long wait == 15 ~ 30 seconds 
+
+    +CGNSSPWR: READY!
+
+
+    AT+CGPSINFO
+    +CGPSINFO: 2234.26947,N,11353.24671,E,211025,073352.00,2.2,0.713,
+
+    OK
+
+
+
+## logs 
+
+
 ### AT+SGNSCMD=1,0
 
 ### AT+SGNSCFG
@@ -82,6 +102,7 @@ my location: 22.571717,113.887426
 ## GPIO Control (optinally)
 
     AT+CGDRT=4,1
+
     AT+CGSETV=4,1
 
 
