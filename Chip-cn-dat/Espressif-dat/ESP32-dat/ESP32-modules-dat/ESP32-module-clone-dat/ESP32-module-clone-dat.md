@@ -3,6 +3,19 @@
 
 all RSSI test run in 3 meters wifi connection distance, same environment.
 
+
+## stock board 
+
+test code [[I2C-dat]] is not running properly for [[ESP32-S3-dat]]
+
+- [[NWI1249-dat]] - [[NWI1243-dat]]
+
+
+
+## XXSR series External antenna U version RSSI test
+
+![](2025-10-23-16-27-17.png)
+
 ## XXSR69 series RSSI test
 
 ![](2025-10-23-14-02-44.png)
@@ -72,7 +85,15 @@ X2
 
 - 93 ~ 96 Dbm 
 
+add external antenna 
 
+![](2025-10-23-16-36-54.png)
+
+- 48 ~ 53 Dbm 
+
+![](2025-10-23-16-40-49.png)
+
+- 44 - 50 Dbm
 
 
 
@@ -85,7 +106,7 @@ X2
 
 - [[signal-dat]] - [[RSSI-dat]]
 
-
+- [[oled-dat]]
 
 
 - [[esptool-dat]]
