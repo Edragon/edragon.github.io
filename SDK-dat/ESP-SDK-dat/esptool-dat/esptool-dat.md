@@ -42,6 +42,29 @@ or python2 == pip install esptool
   esptool --port COM31 --chip esp32 chip_id
 
 
+- [[ESP32-S3-dat]]
+
+```
+esptool v5.0.1
+Connected to ESP32-S3 on COM16:
+Chip type:          ESP32-S3 (QFN56) (revision v0.2)
+Features:           Wi-Fi, BT 5 (LE), Dual Core + LP Core, 240MHz, Embedded PSRAM 8MB (AP_3v3)
+Crystal frequency:  40MHz
+MAC:                30:ed:a0:20:97:90
+
+Stub flasher running.
+
+Warning: ESP32-S3 has no chip ID. Reading MAC address 
+instead.
+MAC:                30:ed:a0:20:97:90
+
+Hard resetting via RTS pin...
+```
+
+
+
+for [[ESP32-chip-dat]]
+
 ```
 Connected to ESP32 on COM31:
 Chip type:          ESP32-D0WD-V3 (revision v3.1)
@@ -49,6 +72,10 @@ Features:           Wi-Fi, BT, Dual Core + LP Core, 240MHz, Vref calibration in 
 Crystal frequency:  40MHz
 MAC:                ec:e3:34:0a:71:20
 ```
+
+
+
+
 
 ### flash 
 

@@ -1,7 +1,7 @@
 
 # ESP32-module-clone-dat
 
-all RSSI test run in 3 meters wifi connection distance, same environment.
+all [[RSSI-dat]] test run in **3 meters wifi connection distance**, same environment.
 
 
 ## stock board 
@@ -16,9 +16,14 @@ test code [[I2C-dat]] is running properly for [[ESP32-S3-dat]]
 - 49 Dbm
 
 
-## XXSR series External antenna U version RSSI test
+## XXSR69 series External antenna U version RSSI test
+
+un-finished yet 
 
 ![](2025-10-23-16-27-17.png)
+
+
+
 
 ## XXSR69 series RSSI test
 
