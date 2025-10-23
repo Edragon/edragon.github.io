@@ -1,13 +1,19 @@
 
 # ESP32-module-clone-dat
 
-- XXSR69
+all RSSI test run in 3 meters wifi connection distance, same environment.
+
+## XXSR69 series RSSI test
 
 ![](2025-10-23-14-02-44.png)
 
-- middle == ESP32-D0WD-V3 (revision v3.1)
+### middle == ESP32-D0WD-V3 (revision v3.1)
 
-- right == ESP32-D0WD-V3 (revision v3.1)
+![](2025-10-23-15-54-18.png)
+
+- 49 Dbm
+
+### right == ESP32-D0WD-V3 (revision v3.1)
 
 ```
 Connected to ESP32 on COM31:
@@ -24,22 +30,60 @@ MAC:                20:e7:c8:9f:30:3c
 Hard resetting via RTS pin...
 ```
 
-- left == unreadable == 
+![](2025-10-23-15-55-06.png)
+
+- 52 ~ 53 Dbm
+
+### left == unreadable == defective unit == can not upload code 
+
 ```
 Connected to ESP32 on COM31:
 
 A fatal error occurred: Invalid head of packet (0x65): Possible serial noise or corruption.
 ```
-- [[esptool-dat]]
 
-- [[ESP32-chip-dat]]
+![](2025-10-23-15-53-29.png)
 
 
-## close look 
+
+### close look 
 
 ![](2025-10-23-15-10-36.png)
+
+## other more old versions 
+
+X1 
+
+![](2025-10-23-15-55-39.png)
+
+![](2025-10-23-15-55-51.png)
+
+- 58 Dbm 
+
+![](2025-10-23-15-58-04.png)
+
+
+
+X2 
+
+![](2025-10-23-15-56-16.png)
+
+![](2025-10-23-16-00-34.png)
+
+- 93 ~ 96 Dbm 
+
 
 
 ## ref 
 
 - [[NWI1100-dat]] - [[esp32-modules-dat]]
+
+- [[signal-dat]]
+
+
+
+
+- [[esptool-dat]]
+
+- [[ESP32-chip-dat]]
+
