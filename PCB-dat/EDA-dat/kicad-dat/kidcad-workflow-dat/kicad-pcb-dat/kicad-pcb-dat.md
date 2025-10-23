@@ -220,3 +220,11 @@ You can bind it to a keyboard key (e.g. Space, Tab, Q).
 
 Unfortunately, KiCad doesn’t allow binding mouse buttons directly in hotkeys.
 
+
+## kicad drawing print 
+
+paste / edge / fab 
+
+## ref 
+
+- [[kicad-dat]]

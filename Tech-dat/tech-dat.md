@@ -13,7 +13,7 @@
 
 - [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
 
-- [[interface-dat]] - [[audio-dat]] 
+- [[interface-dat]] - [[audio-dat]] - [[USB-dat]]
 
 - [[robot-dat]]
 
@@ -25,6 +25,7 @@
 
 - [[clock-dat]]
 
+- [[CONN-USB-dat]]
 
 ## New Tech And Updates 
 

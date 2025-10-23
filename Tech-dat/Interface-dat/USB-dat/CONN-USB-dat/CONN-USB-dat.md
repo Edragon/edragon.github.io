@@ -6,4 +6,7 @@
 
 - [[USB-B-dat]]
 
-- [[type-C-dat]]
+- [[USB-type-C-dat]]
+
+- [[USB-micro-dat]]
+

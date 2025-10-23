@@ -38,8 +38,8 @@ or python2 == pip install esptool
 
 ### chip id 
 
-  esptool.py  --chip esp32 chip_id
-  esptool --port COM31 --chip esp32 chip_id
+  esptool.py  --chip esp32 chip-id
+  esptool --port COM31 --chip esp32 chip-id
 
 
 - [[ESP32-S3-dat]]
