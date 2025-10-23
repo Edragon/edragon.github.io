@@ -39,7 +39,7 @@
   
 - [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] 
 
-- [[service-dat]] 
+- [[service-dat]] - [[discount-dat]]
 
 
 

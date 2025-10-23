@@ -32,13 +32,13 @@ Thank you.
 
 ## discount log 
 
-| SKU             | MOQ    | discount |
-| --------------- | ------ | -------- |
-| [[ILC1031-dat]] | 30pcs  | 10%      |
-| [[DPR1157-dat]] | 30pcs  | 15%      |
-| [[MPC1073-dat]] | 100pcs | 15%      |
-| [[IDD1013-dat]] | 100pcs | 15%      |
-
+| SKU                               | MOQ    | discount |
+| --------------------------------- | ------ | -------- |
+| [[ILC1031-dat]]                   | 30pcs  | 10%      |
+| [[DPR1157-dat]]                   | 30pcs  | 15%      |
+| [[MPC1073-dat]]                   | 100pcs | 15%      |
+| [[IDD1013-dat]]                   | 100pcs | 15%      |
+| [[NWI1100-dat]] / [[NWI1101-dat]] | 50pcs  | 15%      |
 
 
 ## ref 

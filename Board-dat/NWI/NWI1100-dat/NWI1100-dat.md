@@ -17,6 +17,8 @@ legacy wiki page
 
 - broken link - https://www.espressif.com.cn/en/support/download/documents?keys&field_type_tid%5B%5D=13
 
+- clone version please see here - [[ESP32-module-clone-dat]]
+
 
 ## Schematic 
 

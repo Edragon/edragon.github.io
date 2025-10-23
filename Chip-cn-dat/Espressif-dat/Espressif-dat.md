@@ -38,4 +38,4 @@ New design should use ESP8684, also called ESP32-C2, I will try to add more info
 
 ## ref 
 
-- [[ESP-SDK-dat]]
+- [[ESP-SDK-dat]] - [[espressif]]

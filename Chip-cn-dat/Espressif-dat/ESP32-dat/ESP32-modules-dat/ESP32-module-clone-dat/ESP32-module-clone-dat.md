@@ -33,3 +33,13 @@ A fatal error occurred: Invalid head of packet (0x65): Possible serial noise or 
 - [[esptool-dat]]
 
 - [[ESP32-chip-dat]]
+
+
+## close look 
+
+![](2025-10-23-15-10-36.png)
+
+
+## ref 
+
+- [[NWI1100-dat]] - [[esp32-modules-dat]]
