@@ -36,8 +36,21 @@ or python2 == pip install esptool
 
 ## basic usage 
 
+### chip id 
 
-## flash 
+  esptool.py  --chip esp32 chip_id
+  esptool --port COM31 --chip esp32 chip_id
+
+
+```
+Connected to ESP32 on COM31:
+Chip type:          ESP32-D0WD-V3 (revision v3.1)
+Features:           Wi-Fi, BT, Dual Core + LP Core, 240MHz, Vref calibration in eFuse, Coding Scheme None
+Crystal frequency:  40MHz
+MAC:                ec:e3:34:0a:71:20
+```
+
+### flash 
 
     sudo esptool.py --port /dev/ttyUSB0 erase_flash
     sudo esptool.py --port /dev/ttyUSB0 --baud 460800 write-flash --flash-size=detect 0 ~/Downloads/esp8266

@@ -4,7 +4,7 @@
 
 ## modules
 
-- [[ESP32-WROOM-dat]] - [[ESP32-WROVER-dat]]
+- [[ESP32-WROOM-dat]] - [[ESP32-WROVER-dat]] - [[ESP32-module-clone-dat]]
 
 Models selector 选型工具 
 - https://products.espressif.com/#/product-selector?language=zh&names=

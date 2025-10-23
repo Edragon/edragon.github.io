@@ -40,3 +40,11 @@ Most ESP32 chips are dual-core. Here’s a summary:
 - ESP32-C6
 - ESP32-C5
 - ESP32-H2
+
+
+## chip versions 
+
+- ESP32-D0WD-V3
+- ESP32-D0WD (revision v1.0)
+
+- [[esptool-dat]]
