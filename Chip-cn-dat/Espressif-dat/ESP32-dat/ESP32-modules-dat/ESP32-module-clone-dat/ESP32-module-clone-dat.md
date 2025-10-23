@@ -6,10 +6,14 @@ all RSSI test run in 3 meters wifi connection distance, same environment.
 
 ## stock board 
 
-test code [[I2C-dat]] is not running properly for [[ESP32-S3-dat]]
+test code [[I2C-dat]] is running properly for [[ESP32-S3-dat]]
 
 - [[NWI1249-dat]] - [[NWI1243-dat]]
 
+
+![](2025-10-23-17-20-47.png)
+
+- 49 Dbm
 
 
 ## XXSR series External antenna U version RSSI test
@@ -89,11 +93,11 @@ add external antenna
 
 ![](2025-10-23-16-36-54.png)
 
-- 48 ~ 53 Dbm 
+- 48 ~ 53 Dbm - bio-side wing
 
 ![](2025-10-23-16-40-49.png)
 
-- 44 - 50 Dbm
+- 44 - 50 Dbm - pcb antenna 
 
 
 

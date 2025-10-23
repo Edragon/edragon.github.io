@@ -38,6 +38,13 @@ code
 
 - 0x3C = the version we are selling
 
+## library
+
+```
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+```
+
 
 ## ref 
 

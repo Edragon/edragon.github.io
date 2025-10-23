@@ -17,9 +17,13 @@
 - pins = 2x21 = 42 pins 
 - available GPIOs = 42 - 6 = 36 pins 
 
+
+
 - schematic see here: [[ESP32-S3-Board-DAT]]
 
+resources 
 
+- [[WS2812-dat]] - GPIO48 
 
 
 
