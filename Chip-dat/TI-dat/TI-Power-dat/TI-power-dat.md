@@ -40,7 +40,9 @@ TPS5450 5-A, Wide Input Range, Step-Down Converter
 
 PTH04T231WAD - Non-Isolated DC/DC Converters 6A 2.2V-5.5Vin Non- Iso Adj Pwr Module
 
+## step-down 
 
+TLV62130RGTR - TLV62130x 3-V to 17-V 3-A Step-Down Converter In 3x3 QFN Package - Buck Switching Regulator IC Positive Adjustable 0.9V 1 Output 3A 16-VFQFN Exposed Pad
 
 
 

@@ -81,6 +81,12 @@ transfomer == G2406S_C507595 and RJ45
 ![](2025-04-25-02-07-43.png)
 
 
+
+## unsort 
+
+- KSZ8041TL/FTL/MLL - 10BASE-T/100BASE-TX/100BASE-FX Physical Layer Transceiver
+
+
 ## ref 
 
 - [[RGMII-dat]] - [[PHY-dat]] - [[TCPUDP-dat]] - [[TCPIP-dat]]

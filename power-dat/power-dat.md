@@ -7,7 +7,9 @@
 
 - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
   
-- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
+- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] 
+
+- [[LDO-dat]]
 
 - [[low-power-dat]]
 
@@ -27,6 +29,7 @@
 
 - [[Power-distribution-dat]]
 
+- [[supervisory-dat]]
 
 ## workflow
 
@@ -90,6 +93,10 @@ An **Integrated PDB** is a circuit board built **into a drone’s flight control
 AP22652/AP22653/AP22652A/AP22653A - PRECISION ADJUSTABLE CURRENT-LIMITED POWER SWITCHES
 
 
+## Sink and Source DDR Termination Regulator
+
+
+- [[ti-power-dat]] == TPS51200DRC - TPS51200 Sink and Source DDR Termination Regulator - The TPS51200 device is a sink and source double data rate (DDR) termination regulator specifically designed for low input voltage, low-cost, low-noise systems where space is a key consideration.
 
 
 ## ref 

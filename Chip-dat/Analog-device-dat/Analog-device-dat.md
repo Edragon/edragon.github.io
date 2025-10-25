@@ -61,6 +61,11 @@ AD524BDZ
 
 ADA4077
 
+## ADC 
+
+- MAX22530–MAX22532 - Field-Side Self-Powered, 4-Channel, 12-bit, Isolated ADC
+
+- LTC2225IUH - 12-Bit, 10Msps Low Power 3V ADC
 
 ## DCDC 
 

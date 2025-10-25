@@ -71,6 +71,14 @@ Useful when aligning visually or placing text/graphics
 
 ## text 
 
+Edit Text & Graphics Properties.. 
+
+- > Scope
+    - Reference designators
+    - Values
+- > set text size 0.6 mm height and width
+
+
 
 ## stop mask - trace 
 
@@ -194,17 +202,6 @@ output folder
     for the sub folder "gerber" in current folder == ./gerber
 
 
-## export info 
-
-
-layer 
-- x.Mask 
-- x.Fab
-- Edge.Cuts
-![alt text](95e854b5209f226b023ebe7765500e9.png)
-
-
-
 ## mimic to eagleCAD
 
 - [[eagleCAD-dat]]
@@ -224,6 +221,21 @@ Unfortunately, KiCad doesn’t allow binding mouse buttons directly in hotkeys.
 ## kicad drawing print 
 
 paste / edge / fab 
+
+
+## export info 
+
+
+layer 
+- x.Mask 
+- x.Fab
+- Edge.Cuts
+![alt text](95e854b5209f226b023ebe7765500e9.png)
+
+
+
+
+
 
 ## ref 
 

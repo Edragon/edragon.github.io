@@ -24,6 +24,9 @@
 
 ![](2025-09-18-18-56-08.png)
 
+- [[RP2040-dat]]
+
+
 ## PCBA 
 
 - include extra assembly, files 

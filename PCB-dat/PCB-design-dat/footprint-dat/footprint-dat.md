@@ -5,17 +5,23 @@
 
 - [[kicad-dat]] - [[kicad-footprint-dat]]
 
+- [[fab-PCBA-dat]]
+
+## pitch large footprint
+
+- [[SOP-dat]]
+
+## pitch 0.5mm footprint
+
 - [[QFN-dat]] - [[WLP-dat]] == [[MAX98357-dat]] - [[BQ51050-dat]]
 
 - [[QFP-dat]] 
 
 - [[SSOP-dat]] 
 
-- [[SOP-dat]]
+## pitch 0.4mm footprint
 
-- [[fab-PCBA-dat]]
-
-
+- pitch 0.5mm [[DF40-dat]]
 
 
 
@@ -191,3 +197,5 @@ SOD-123 is a small SMD package used for diodes, transistors, and other component
 ## ref 
 
 - [[BOM-dat]]
+
+- [[kicad-pcb-dat]]

@@ -80,4 +80,9 @@ Use GDB, VS Code, or Eclipse for debugging.
 
 ## ref 
 
+
+https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32s3/schematic-checklist.html
+
+https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32s3/esp-hardware-design-guidelines-en-master-esp32s3.pdf
+
 - [[ESP32-S3]] - [[ESP32-I2S-dat]]

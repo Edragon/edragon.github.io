@@ -93,6 +93,10 @@
 - [[maxim-dat]] - MAX196/MAX198 - Multirange, Single +5V, 12-Bit DAS with 12-Bit Bus Interface
 
 
+- [[analog-device-dat]] 
+
+
+
 ## ref 
 
 - [[tech-dat]]

@@ -1,4 +1,13 @@
 
 # RAM-dat
 
-- [[DRAM-dat]] - [[PSRAM-dat]] - [[SRAM-dat]]
+- [[DRAM-dat]] - [[PSRAM-dat]] - [[SDRAM-dat]]
+
+
+
+
+
+
+## ref 
+
+- [[ram-dat]]

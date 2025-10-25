@@ -22,6 +22,12 @@ SCH
 ![](2025-08-07-12-49-24.png)
 
 
+## unsort 
+
+
+MT41K256M16TW-107 XIT:P TR - SDRAM - DDR3L Memory IC 4Gbit Parallel 933 MHz 20 ns 96-FBGA (8x14)
+
+
 
 
 ## ref 

@@ -7,6 +7,9 @@
 
 ![](2024-11-20-11-19-18.png)
 
+
+
+
 ## DF40 
 
 The Hirose DF40 series comes in multiple pin counts — it’s not fixed.
