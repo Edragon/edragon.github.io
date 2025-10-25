@@ -33,11 +33,6 @@
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 
-- [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-soldering-dat]]
-
-- [[tools-dat]] - [[multimeter-dat]]
-  
-- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] 
 
 - [[service-dat]] - [[discount-dat]]
 

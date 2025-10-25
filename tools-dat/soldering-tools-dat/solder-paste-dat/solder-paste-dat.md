@@ -3,6 +3,19 @@
 
 - [[high-precise-printing-dat]]
 
+
+## “Solder paste should be more viscous so it doesn’t spread or drip.”
+
+- **More viscous** → thicker, stickier, flows slowly  
+  → Good for solder paste — it stays where you apply it.
+
+- **Diluted** → thinned by adding liquid (like flux or solvent)  
+  → Not good — it becomes too runny and won’t hold components well.
+
+
+
+
+
 ## Low temperature soldering paste
 
 Low temperature soldering paste is a type of solder paste designed to melt and flow at lower temperatures than standard solder pastes. Here are its main features:
