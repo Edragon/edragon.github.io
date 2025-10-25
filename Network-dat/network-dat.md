@@ -151,6 +151,23 @@ A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often 
 
 
 
+## network protocols and standards 
+
+- [[network-dat]] - [[xbee-dat]] - [[btbee-dat]] - [[nrf24l01-dat]] - [[CC1101-dat]] - [[sensor-dat]]
+
+- [[zigbee-dat]]
+
+- [[wifi-dat]]
+
+- [[IEEE-dat]]
+
+
+## network system
+
+- [[network-system-dat]]
+
+
+
 ## unsort 
 
 - ET5171 - EMI RFI FILTER 10A ELCOM AC 115V 230V single phase ET5171

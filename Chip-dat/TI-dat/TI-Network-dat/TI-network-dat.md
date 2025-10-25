@@ -22,6 +22,10 @@ Low Cost, Low-Power 2.4 GHz RF Transceiver Designed for Low-Power Wireless Apps 
 - [[CC2541-dat]]
 
 
+## zigbee 
+
+- [[CC2530-dat]] - [[CC2630-dat]] - [[zigbee-dat]]
+
 
 ## ref 
 

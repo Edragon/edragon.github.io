@@ -1,13 +1,17 @@
 
 # Wifi  
 
-- [[wifi-sdk-dat]] 
+- [[wifi-sdk-dat]] - [[network-system-dat]]
 
 - [[usb-wifi-dat]]
+
+
 
 ## tech 
 
 - [[IEEE-dat]] - [[WIFI-Halow-dat]]
+
+- [[WIFI6-dat]]
 
 
 ## cheatsheet 

@@ -101,7 +101,7 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]]
+- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]]
 
 - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
