@@ -10,11 +10,8 @@
 
 - [[OPM1113-dat]]
 
-## Chip Solutions 
+- [[OPM1068-dat]]
 
-- [[AP8022-dat]] - [[AP8012-dat]]
-
-- [[ZSpowerIC-dat]]
 
 
 
@@ -81,6 +78,19 @@
 TOP254EN == Enhanced EcoSmart, Integrated Off-Line Switcher with Advanced Feature Set and Extended Power Range == TOPSwitch-HX is a highly integrated monolithic off-line switcher IC designed for off-line power supplies. 
 
 - [[meanwell-dat]]
+
+
+## chips
+
+- [[depuw-dat]]
+
+
+
+## Chip Solutions 
+
+- [[AP8022-dat]] - [[AP8012-dat]]
+
+- [[ZSpowerIC-dat]]
 
 
 

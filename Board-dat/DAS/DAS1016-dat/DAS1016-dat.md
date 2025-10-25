@@ -5,6 +5,11 @@
 
 [product url - Wireless NRF24 Controlled Relays Arduino Shield](https://www.electrodragon.com/product/arduino-2-channels-relay-extension-shield-wireless-supported-btbeexbee-nrf24l01/)
 
+refer for more demo code in legacy wiki page here: - [legacy wiki page ](https://w.electrodragon.com/w/2_Channels_Relay_Extension_Shield_(Wireless_%26_Arduino_Supported))
+
+
+![](2025-10-25-17-37-07.png)
+
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
@@ -17,6 +22,9 @@ SCH
 ![](Relay_Shield_Schematic.png)
 
 ## Applications, category, tags, etc. 
+
+- [[network-dat]] - [[xbee-dat]] - [[btbee-dat]] - [[nrf24l01-dat]] - [[CC1101-dat]] - [[sensor-dat]]
+
 
 
 
@@ -59,4 +67,4 @@ Here we used a Android phone with our [[bluetooth-dat]] as client to paired with
 
 - [[DAS1016]] 
 
-- [legacy wiki page ](https://w.electrodragon.com/w/2_Channels_Relay_Extension_Shield_(Wireless_%26_Arduino_Supported))
+

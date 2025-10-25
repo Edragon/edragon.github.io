@@ -31,7 +31,7 @@
 
 - [[supervisory-dat]]
 
-## workflow
+## power design workflow
 
 1. design: [[power-dat]] 
 
@@ -39,6 +39,11 @@
 
 2. [[power-protection-dat]]
 
+
+## over power protocols 
+
+- [[POE-dat]] - Power Over Ethernet (POE)
+- [[powerbus-dat]] - PowerBus - [[ITF1009-dat]]
 
 ## Info 
 
