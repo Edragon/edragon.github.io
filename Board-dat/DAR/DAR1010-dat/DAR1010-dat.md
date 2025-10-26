@@ -20,6 +20,13 @@ DAR1010 - crystal 16mhz marked as AR, and regulartor silk print is S8MF
 
 ![](2024-01-12-10-05-44.png)
 
+
+
+
+
 ## ref 
+
+
+
 
 - [[DAR1010]]

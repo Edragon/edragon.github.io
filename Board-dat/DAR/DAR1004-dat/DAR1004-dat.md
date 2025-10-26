@@ -7,6 +7,10 @@ Series - [[edarduino-dat]]
 
 [legacy wiki page](https://www.electrodragon.com/w/Arduino-Compatible_EDArduino_Pro_Micro_(5V_16MHz_-_ATmega32u4))
 
+
+
+
+
 ## ref 
 
 - [[ATmega32u4-dat]]

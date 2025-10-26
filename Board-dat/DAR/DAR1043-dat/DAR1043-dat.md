@@ -10,6 +10,9 @@ Lilypad compatible USB board
 
 - [[atmega32u4-dat]]
 
+- [[edarduino-dat]]
+
+
 
 ## ref
 
