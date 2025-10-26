@@ -11,7 +11,7 @@
 
 - [[RPI-CM4-dat]] - [[RPI-CM3-dat]]
 
-- [[RPI-CM4-expansion-board-dat]]
+- [[RPI-CM4-expansion-board-dat]] - [[RPI-CM4-expansion-board]]
 
 ## CM4 
 
