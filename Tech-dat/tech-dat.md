@@ -122,7 +122,7 @@
 
 - [[OLED-dat]] - [[oled-driver-dat]]
 
-- [[touchpanel-dat]] - [[touch-sensor-dat]]
+- [[touchpanel-dat]] - [[touch-sensor-dat]] - [[touch-dat]]
 
 - [[led-driver-dat]]
 
@@ -143,7 +143,9 @@
 - [[sensor-dat]] - [[sensor-motion-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
-  
+
+- [[sensor-photoelectric-dat]]
+
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[pump-dat]] - [[triac-dat]]
 
 - [[servo-dat]]

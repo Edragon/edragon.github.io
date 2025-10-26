@@ -1,6 +1,12 @@
 
 # thyristor-dat
 
+
+
+
+A **thyristor (SCR)** gate is triggered by a positive (high) voltage pulse applied to the gate terminal relative to the cathode.
+
+
 ## 70TPS12
 
 **70TPS12** is a **Thyristor (SCR)**, manufactured by companies like **Vishay** (part of the TPS series of power thyristors).

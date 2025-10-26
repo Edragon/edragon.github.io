@@ -17,6 +17,9 @@
 
 ## ref 
 
+- [[sensor-photoelectric-dat]]
+
+
 - [[ITR9608-dat]] - [[everlight-dat]]
  
 - [[SCU1020]] 

@@ -3,7 +3,16 @@
 
 == Gauss gun
 
-- [[coil-dat]]
+- [[coil-dat]] - [[23-coilgun]]
+
+
+## revolved tech 
+
+- [[sensor-photoelectric-dat]]
+
+- [[diode-dat]] - [[diode-rectifier-dat]] - [[BOM-dat]]
+
+
 
 
 ## multiple stages coilgun design tips 

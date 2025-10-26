@@ -38,6 +38,8 @@ full module SCH
 
 ## ref 
 
+- [[sensor-photoelectric-dat]]
+
 - [[sensor-IR-reflective-dat]]
 
 

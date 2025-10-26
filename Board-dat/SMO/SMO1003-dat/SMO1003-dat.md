@@ -12,6 +12,9 @@
 
 ## ref 
 
+- [[sensor-photoelectric-dat]]
+
+
 - [[sensor-IR-reflective-dat]]
 
 - [[SMO1003]]
