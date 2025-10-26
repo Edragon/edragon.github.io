@@ -16,6 +16,11 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[dual-mosfet-dat]]
 
 
+similar  
+
+- [[SCR-dat]] - [[triac-dat]] - [[thyristor-dat]]
+
+
 ## board 
 
 - [[SCU1063-dat]]

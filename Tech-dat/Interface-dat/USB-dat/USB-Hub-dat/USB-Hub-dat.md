@@ -5,6 +5,9 @@
 
 - [[diodes-dat]] - [[power-protection-dat]]
 
+- [[onsemi-dat]] - [[FSUSB42-dat]]
+
+
 
 ## FE1.1 
 

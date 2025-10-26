@@ -29,7 +29,7 @@
 
 - [[Power-distribution-dat]]
 
-- [[supervisory-dat]]
+- [[supervisory-dat]] - [[power-switch-dat]]
 
 ## power design workflow
 
@@ -91,17 +91,17 @@ An **Integrated PDB** is a circuit board built **into a drone’s flight control
 
 
 
-## power switch 
-
-- [[switch-dat]] 
-
-AP22652/AP22653/AP22652A/AP22653A - PRECISION ADJUSTABLE CURRENT-LIMITED POWER SWITCHES
 
 
 ## Sink and Source DDR Termination Regulator
 
 
 - [[ti-power-dat]] == TPS51200DRC - TPS51200 Sink and Source DDR Termination Regulator - The TPS51200 device is a sink and source double data rate (DDR) termination regulator specifically designed for low input voltage, low-cost, low-noise systems where space is a key consideration.
+
+
+
+
+
 
 
 ## ref 

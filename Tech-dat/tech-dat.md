@@ -146,7 +146,9 @@
 
 - [[sensor-photoelectric-dat]]
 
-- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] - [[mosfet-dat]] - [[pump-dat]] - [[triac-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] 
+
+- [[mosfet-dat]] - [[pump-dat]] - [[triac-dat]]
 
 - [[servo-dat]]
 

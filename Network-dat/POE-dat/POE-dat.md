@@ -8,6 +8,18 @@
 
 - https://www.youtube.com/shorts/DEzd7XtT4Cw
 
+- [[ESD-protection]]
+
+
+## SCH 
+
+![](2025-10-26-20-00-58.png)
+
+
+- [[ethernet-dat]] 
+
+- [[RJ45-dat]]
+
 
 
 

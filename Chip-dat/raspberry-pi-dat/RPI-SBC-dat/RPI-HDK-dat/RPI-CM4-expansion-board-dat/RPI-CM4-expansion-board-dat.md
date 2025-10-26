@@ -3,6 +3,48 @@
 
 
 
+## use guide 
+
+set jumper to boot 
+
+Force RPIBOOT = Jumper Pins 1-2 
+
+EEPROM write protect = Jumper Pins 3-4
+
+
+![](2025-10-26-20-41-56.png)
+
+
+
+
+[[BCM2711-dat]] boot
+
+![](2025-10-26-20-42-15.png)
+
+[[power-dat]] by 12V and [[USB-dat]] connected
+
+![](2025-10-26-20-45-00.png)
+
+
+## jumpers 
+
+![](2025-10-26-20-52-53.png)
+
+boot mode 
+
+| nRPIBOOT | boot                 | USB_SEL | USB              |
+| -------- | -------------------- | ------- | ---------------- |
+| high     | normal               | high    | [[USB-HOST-dat]] |
+| Low      | [[BCM2711-dat]] BOOT | low     | [[USB-OTG-dat]]  |
+
+- [[mos-n-dat]]
+
+## hardware 
+
+- [[microsd-dat]] - [[RJ45-dat]] - [[USB-hub-dat]] - [[FSUSB42-dat]] - [[mos-n-dat]]
+
+
+
 
 
 

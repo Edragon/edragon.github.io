@@ -1,9 +1,13 @@
 
 # raspberry pi dat 
 
+
+- [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board-dat]]
+
+
 - [[RPI-SDK-dat]] 
 
-- [[RPI-HDK-dat]] - [[RPI-CM4-dat]] - [[RPI-CM4-expansion-board]]
+- [[RPI-HDK-dat]] 
 
 - [[RPI3-dat]] - [[RPI4-dat]] - [[RPI-zero-dat]] - [[RPI-zero-w-dat]] - [[RPI-zero-2w-dat]]
 
