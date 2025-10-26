@@ -6,6 +6,26 @@
 - [[coil-dat]]
 
 
+## multiple stages coilgun design tips 
+
+1. try using some kind of **ferrite washer caps at the both wnds of each coil**, to help focusing the magnetic field.
+
+2. the main issue and also misunderstanding about your design is that theoretically adding more stages to the design won't increase the speed.
+   
+- Here is why: as the bullet passes through the stages it gains more speed, thus the required run time of each coil will be different. the early stages need more run time thus bigger inductance and capacitor values, **and the few last stages will have a lot less run time due to the high speed of the bullet, so you should use smaller values of inductors and capacitors values.**
+
+- If you apply the same values to each stage, adventually the last stages will reduce the speed and efficiency of the coilgun drastically, because of the suck back effect that they cause due to exceeding the required run time of the coil.
+
+3. try to minimize the airgap between the bullet and the barrel, aslo use **non-conductive barrel** to get rid of induced current losses.
+
+4. The pcb traces add a noticable amount of resistance to the current path, so using a thicker and wider trackes covered with solder is a better choice.
+
+5. calculate the values for the capacitor and inductor of each stage based on the bullet speed of the previous stage.
+
+6. try using a stepped coil geometry for the coil of the first stage.
+
+
+
 ## why a simple coil connected to DC power supply cannot launch an iron projectile
 
 Directly connecting a coil to a DC power supply **does create a static magnetic field**, but this **will not launch** an iron projectile. Reasons: (1) a steady DC field **pulls the projectile into the coil and holds it**, rather than pushing it out; (2) launching requires **a short, large-current pulse plus precise timing (cut-off after the projectile passes the coil center)** and enough energy — an ordinary DC supply and simple coil cannot do that.

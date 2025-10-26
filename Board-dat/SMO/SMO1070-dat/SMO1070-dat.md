@@ -1,7 +1,7 @@
 
 # SMO1070-dat
 
-
+[legacy wiki page](https://www.electrodragon.com/w/TCRT5000)
 
 
 ## TCRT5000 Module SCH 
@@ -33,9 +33,12 @@ full module SCH
 - [[ITR9608-dat]]
 * ITR9909
 
+- [[TCRT5000-dat]]
+
 
 ## ref 
 
-- [[IR-reflective-sensor-dat]]
+- [[sensor-IR-reflective-dat]]
+
 
 - [[SMO1070]]

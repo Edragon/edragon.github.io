@@ -15,6 +15,12 @@
 - **Package**: Stud type (high-power package for heatsinking)
 
 
+
+
+
+
+
+
 ## BTW69 Series - 55A SCRs - Standard SCRs
 
 IT(RMS):55A VGT: 1.5V VDRM VRRM:1000Vand1200V
