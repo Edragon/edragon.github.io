@@ -7,6 +7,8 @@
 
 - [[74ACT00-dat]] == Quad 2-Input NAND Gate
 
+74HC00D == General. The 74HC00D is a high speed CMOS 2-INPUT NAND GATE fabricated with silicon gate C2MOS technology.
+
 ## 74xx04-dat
 
 - [[74xx04-dat]] == Hex Inverter
