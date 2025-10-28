@@ -76,6 +76,8 @@ WV-V
 
 - [[ESP32-S3-Board]] - [[ESP32-S3]] - [[espressif]]
 
+- [[esp32-devkitc-dat]] - [[NWI1100-dat]]
+
 - [[espressif-dat]]
 
 - [[Arduino-ESP32-dat]]
