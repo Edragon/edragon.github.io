@@ -48,6 +48,9 @@ The ESP32-P4 is a high-performance microcontroller in Espressif's ESP32 series, 
 
 The ESP32-P4’s performance-oriented design sets it apart, catering to applications where processing power and versatile peripherals are more critical than wireless connectivity. 
 
+本产品是一款基于ESP32-P4的多媒体开发板，并集成ESP32-C6，支持Wi-Fi6和BLE5无线连接。它提供丰富的人机交互接口，包括MIPI-CSI(集成图像信号处理器ISP)、MIPI-DSI、SPI、I2S、I2C、LEDPWM、MCPWM、RMT、ADC、UART和TWAI等。此外，支持USB OTG2.0HS，并板载4OPINGPIO扩展接口，兼容部分树莓派PicoHAT扩展板，实现更广泛的应用适配。ESP32-P4采用400MHz双核RISC-V处理器，支持最大32MBPSRAM，具备USB2.0、MIPI-CSI/DSI和H.264编码等外设，满足低成本、高性能和低功耗的多媒体开发需求。此外，ESP32-P4集成数字签名外设和专用密钥管理单元，确保数据与操作安全。ESP32-P4-WIFI6专为高性能和高安全应用设计，满足嵌入式系统在人机交互、边缘计算和IO扩展等方面的需求。
+
+
 
 ## review 1 
 

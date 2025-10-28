@@ -7,6 +7,8 @@
 
 - [[NWI1243-dat]] - [[NWI1249-dat]]
 
+
+
 ## Cloned Core Board SCH 
 
 - [[NWI1243-dat]]
@@ -44,11 +46,16 @@ IO19, IO20, CC1 CC2 pull-down
 
 ###  official ESP32-S3-DevKitC-1
 
+2x22 
+
 https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/index.html
 
 
 ![](2025-01-06-16-07-21.png)
 
+WV-V 
+
+![](2025-10-28-16-58-01.png)
 
 ## Other DEV board for reference 
 
@@ -57,6 +64,8 @@ https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devk
 
 
 ## ref 
+
+- [[ESP32-S3-Board]] - [[ESP32-S3]] - [[espressif]]
 
 - [[Arduino-ESP32-dat]]
 

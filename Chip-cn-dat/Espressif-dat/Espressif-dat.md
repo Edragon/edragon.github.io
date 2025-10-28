@@ -3,7 +3,7 @@
 
 ## Chip Series 
 
-- [[ESP32-S3-dat]] - [[ESP32-S2-dat]]
+- [[ESP32-S3-dat]] - [[ESP32-S2-dat]] - [[NWI1243-dat]]
 
 - [[ESP32-C6-dat]] - [[ESP32-C3-dat]] - [[ESP32-C2-dat]]
 
