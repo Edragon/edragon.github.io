@@ -46,16 +46,25 @@ IO19, IO20, CC1 CC2 pull-down
 
 ###  official ESP32-S3-DevKitC-1
 
-2x22 
+2x22, pitch pitch == 22.86 / 25.4 mm  
 
 https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/index.html
+
+https://docs.espressif.com/projects/esp-dev-kits/zh_CN/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html#id11
 
 
 ![](2025-01-06-16-07-21.png)
 
+![](https://docs.espressif.com/projects/esp-dev-kits/zh_CN/latest/esp32s3/_images/ESP32-S3_DevKitM-1_pinlayout.jpg)
+
+![](2025-10-28-17-03-38.png)
+
+
 WV-V 
 
 ![](2025-10-28-16-58-01.png)
+
+![](2025-10-28-17-01-37.png)
 
 ## Other DEV board for reference 
 
@@ -66,6 +75,8 @@ WV-V
 ## ref 
 
 - [[ESP32-S3-Board]] - [[ESP32-S3]] - [[espressif]]
+
+- [[espressif-dat]]
 
 - [[Arduino-ESP32-dat]]
 
