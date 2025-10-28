@@ -15,7 +15,7 @@ The RT9742 integrates an over-current protection circuit, a short fold back circ
 
 - [[power-protection-dat]]
 
-
+GGJ5 == 1A 
 
 
 ## RT9080 

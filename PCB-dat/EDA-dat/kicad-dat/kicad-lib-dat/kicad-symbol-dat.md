@@ -14,6 +14,7 @@
 - Connector 
     - Conn_01x01_Pin
     - USB_C_Plug
+    - USB_C_Receptacle_USB2.0_16P
     - USB_A == type A plugger == [[USB-A-dat]]
 - Connector_generic_MountingPin
 - Device 

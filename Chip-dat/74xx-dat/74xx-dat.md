@@ -14,6 +14,18 @@
 - [[74xx04-dat]] == Hex Inverter
 
 
+## 74LVC1G07SE-7
+
+SINGLE BUFFER/DRIVER WITH OPEN DRAIN OUTPUT
+
+```
+Function Table
+Input Output
+A Y
+H Z
+L L
+```
+
 ## 74HC165D
 
 ![](2024-09-20-11-33-37.png)

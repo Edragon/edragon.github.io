@@ -1,7 +1,7 @@
 
 # RPI-CM4-expansion-board-dat
 
-
+- [[RPI-CM4-dat]] - [[RPI-CM4-HDK-dat]]
 
 ## use guide 
 
@@ -41,9 +41,9 @@ boot mode
 
 ## hardware 
 
-- [[microsd-dat]] - [[RJ45-dat]] - [[USB-hub-dat]] - [[FSUSB42-dat]] - [[mos-n-dat]]
+- [[microsd-card-holder-dat]] - [[RJ45-dat]] - [[USB-hub-dat]] - [[FSUSB42-dat]] - [[mos-n-dat]]
 
-
+- [[power-switch-dat]]
 
 
 
@@ -105,12 +105,6 @@ diagram
 
 - full scale large size image - https://pi4j.com/1.3/images/pi4j-rpi-cm4-header.png
 
-### ref 
-
-
-- https://www.raspberrypi.com/products/compute-module-4-io-board/
-- datasheet https://datasheets.raspberrypi.com/cm4/cm4-datasheet.pdf
-- kicad file - 
 
 
 ## Variation Board 
@@ -206,3 +200,11 @@ J2
 - [[RPI-CM4-expansion-board]]
 
 - official clone - https://oshwlab.com/stateblood/compute-module-4
+
+
+### ref 
+
+
+- https://www.raspberrypi.com/products/compute-module-4-io-board/
+- datasheet https://datasheets.raspberrypi.com/cm4/cm4-datasheet.pdf
+- kicad file - 

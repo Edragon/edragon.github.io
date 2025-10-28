@@ -7,6 +7,20 @@
 - [[kicad-sch-dat]] -> [[kicad-pcb-dat]]
 
 
+
+- create root 
+- Draw Hierarchical Sheets
+- add sub circuits to sheets 
+
+
+## label 
+
+- Hierarchical lable
+- Global label
+
+- Net label
+- Directive label 
+
 ## kicad PCB modify 
 
 example [[RPI-CM4-expansion-board-dat]], we are going to make a new PCB based on the scheamtic 
@@ -30,3 +44,5 @@ example [[RPI-CM4-expansion-board-dat]], we are going to make a new PCB based on
 - [[PCB-fab-dat]]
 
 - [[kicad-workflow]] - [[kicad]]
+
+- [[RPI-CM4-expansion-board-dat]] - [[RPI-CM4-expansion-board]]

@@ -2,6 +2,8 @@
 # microsd-card-holder-dat
 
 
+
+
 ## molex microsd holder 
 
 - [[molex-dat]]
@@ -13,9 +15,14 @@
 
 ![](2025-03-14-18-41-54.png)
 
+
+
+
 ## microSD 9P w/dect
 
 ### standard 
+
+![](2025-10-28-18-48-08.png)
 
 ![](2025-03-14-18-52-37.png)
 
