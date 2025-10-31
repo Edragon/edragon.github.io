@@ -12,7 +12,7 @@ MCP1253 == Low Noise, Positive-Regulated Charge Pump
 
 - [[USB-hub-dat]] - [[USB2514B-dat]]
 
-
+- [[mosfet-driver-dat]]
 
 ## fan control 
 

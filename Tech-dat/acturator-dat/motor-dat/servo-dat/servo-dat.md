@@ -174,6 +174,12 @@ Fine-tune by sending 1500 µs and adjusting slightly if needed.
 https://t.me/electrodragon3/401
 
 
+## unsort 
+
+Hitec 海泰克 HS-5565MH 高压数字标准舵机 速度快 空心杯电机 G1可编程电路 不防水
+
+
+
 
 ## ref 
 

@@ -34,6 +34,9 @@ M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-f
 
 OP07x Precision Operational Amplifiers
 
+
+
+
 ## Solutions 
 
 - [[OP07-dat]] - [[LM386-dat]]
@@ -119,7 +122,12 @@ Active Low Pass filter with Amplification
 
 ## more chips 
 
-- TL071CP
+
+- TL062, TL062A, TL062B == Low-power JFET dual operational amplifiers
+
+
+- [[TI-amp-dat]]
+
 
 - TL082 == Wide Bandwidth Dual JFET Input Operational Amplifier
 
@@ -130,6 +138,9 @@ Active Low Pass filter with Amplification
 MC4558 - Wide bandwidth dual bipolar operational amplifier
 
 - LM324DR2G - Operational Amplifiers - Op Amps 3-32V Quad 5mV VIO Commercial Temp
+
+
+
 
 
 ## ref 

@@ -1,5 +1,8 @@
 
-# ds1302 dat 
+# ds1302-dat 
+
+- [[RTC-dat]]
+
 
 ## Features:
 - Real-time clock can calculate the year 2100 second, minute, hour, day, week, month, year capacity, as well as the ability to leap year adjustment
@@ -13,3 +16,9 @@
 - Vcc = 5V TTL-compatible
 - Optional industrial temperature range -40 85
 - Dual-supply pipe for the main power supply and backup power supply
+
+
+
+## ref 
+
+- [[dallas-dat]]

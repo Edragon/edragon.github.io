@@ -1,5 +1,8 @@
 # Audio-amplifier-dat
 
+- [[ST-audio-amp-dat]] - [[ST-dat]]
+
+
 - [[OPA1622-dat]] == SoundPlus™ Audio Operational Amplifier with High Performance, Low THD+N and Bipolar Input
 
 Low-Power Audio Amplifiers

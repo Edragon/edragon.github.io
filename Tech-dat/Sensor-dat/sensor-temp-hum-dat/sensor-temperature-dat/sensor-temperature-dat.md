@@ -17,6 +17,8 @@ wireless measurement
 
 - [[STH1065-dat]]
 
+- [[MOT1007-dat]]
+
 
 
 ## chips 
@@ -28,6 +30,9 @@ wireless measurement
 - [[microphone-sensor-dat]] - [[Electret-Condenser-Microphone-dat]]
 
 - [[BMP280-dat]]
+
+- [[DS18B20-dat]]
+
 
 
 ## chip brands 

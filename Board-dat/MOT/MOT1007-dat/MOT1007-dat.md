@@ -3,6 +3,9 @@
 
 - [[ds1307-dat]]
 
+- [[EEPROM-dat]]
+
+- [[DS18B20-dat]] - [[dallas-dat]] - [[sensor-temperature-dat]]
 
 ## SCH 
 
