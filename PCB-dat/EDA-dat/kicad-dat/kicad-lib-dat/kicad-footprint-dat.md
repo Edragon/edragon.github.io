@@ -11,6 +11,8 @@
 
 ## common used global library 
 
+- assign footprint to symbol
+
 - Connector_Pin 
     - Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
 - Connector_PinSocket
@@ -22,7 +24,8 @@
     - SolderingWirePad_1x01_SMD_1x2mm
 - Connector_USB
     - USB_C_Receptacle_G-Switch_GT-USB-7010ASV
-    - USB_A_CNCTech_1001-011-01101_Horizontal == [[USB-A-dat]]
+    - USB_A_Connfly_DS1095 == USB type A receptacle, THT, horizontal, https://en.connfly.com/static/upload/file/DS1095.pdf
+    - USB_A_CNCTech_1001-011-01101_Horizontal == [[USB-A-dat]] == USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
 - MountingHole 
     - MountingHole_3.2mm_M3  
 - Package_SO

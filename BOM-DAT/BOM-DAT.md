@@ -24,6 +24,7 @@ https://www.electrodragon.com/w/RCL_List
 
 - [[thyristor-dat]] - [[triac-dat]]
 
+- [[74xx-dat]]
 
 ## Chip 
 

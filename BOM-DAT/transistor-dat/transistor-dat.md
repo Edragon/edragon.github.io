@@ -108,7 +108,7 @@ common brand: 	Infineon
 
 - BC817-40W - 45 V, 0.5 A, General Purpose NPN Transistor
 
-
+PBSS5350Z - 50 V, 3 A PNP low VCEsat transistor
 
 
 

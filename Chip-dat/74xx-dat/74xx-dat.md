@@ -2,6 +2,8 @@
 
 - [[logic-dat]]
 
+- [[74hct245-dat]]
+
 
 ## 74ACT00-dat
 
