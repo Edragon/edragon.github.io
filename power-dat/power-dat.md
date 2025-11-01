@@ -93,11 +93,16 @@ An **Integrated PDB** is a circuit board built **into a drone’s flight control
 
 
 
-## Sink and Source DDR Termination Regulator
+### Sink and Source DDR Termination Regulator
 
 
 - [[ti-power-dat]] == TPS51200DRC - TPS51200 Sink and Source DDR Termination Regulator - The TPS51200 device is a sink and source double data rate (DDR) termination regulator specifically designed for low input voltage, low-cost, low-noise systems where space is a key consideration.
 
+### Power Supply Sequencer 
+
+LM3880-Q1 Three-Rail Simple Power Supply Sequencer 
+
+The LM3880-Q1 simple power supply sequencer offers the easiest method to control powerup sequencing and powerdown sequencing of multiple Independent voltage rails. By staggering the startup sequence, it is possible to avoid latch conditions or large in-rush currents that can affect the reliability of the system.
 
 
 

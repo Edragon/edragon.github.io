@@ -59,8 +59,6 @@
 
 - [[arduino-ide-dat]] - [[platform.io-dat]]
 
-- [[logic-dat]] - [[buffer-dat]]
-
 - [[ESP-SDK-dat]] - [[esp32-sdk-dat]] - [[esp8266-sdk-dat]]
 
 - [[STM32-SDK-dat]]
@@ -233,7 +231,9 @@
 
 ## Circuits 
 
-- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]]
+- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] 
+
+- [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]]
 
 - [[DC-blocking-dat]] 
 

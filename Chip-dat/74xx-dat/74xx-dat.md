@@ -58,9 +58,11 @@ L L
 
 - 74HC240
 
-- [[74HC595]]
+- [[74HC595-dat]]
 
-- [[74HCT245]]
+- [[74HCT245-dat]]
+
+- 74LVC126ABQ == Quad buffer/line driver with 5 V tolerant input/outputs; 3-state
 
 - SMD SN74HC74DR SOIC-14 Dual D-type positive-edge triggered flip-flop logic chip
 
