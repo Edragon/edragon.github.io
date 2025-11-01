@@ -2,6 +2,9 @@
 
 # ITF1003-DAT
 
+
+- [[industrial-measurement-dat]]
+
 - [[resistance-dat]] - [[current-dat]]
 
 ![](52-18-17-31-03-2023.png)

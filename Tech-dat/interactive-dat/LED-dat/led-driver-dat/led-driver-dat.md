@@ -45,7 +45,11 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 ## LCD backlight drive
 
+## option 1
 
+- [[JW5060-dat]]
+
+![](2025-11-01-19-26-57.png)
 
 ### chip 
 

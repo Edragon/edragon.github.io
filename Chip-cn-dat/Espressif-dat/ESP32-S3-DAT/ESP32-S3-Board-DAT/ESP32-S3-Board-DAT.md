@@ -70,6 +70,13 @@ WV-V
 
 ![](2025-01-06-16-11-53.png)
 
+ESP32-S3-ETH plus
+
+- [[W5500-dat]] - [[ws2812-dat]] - [[OV2640-dat]]
+
+![](ESP32-S3-ETH-Schematic.png)
+
+
 
 
 ## ref 

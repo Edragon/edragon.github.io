@@ -22,10 +22,19 @@ OV2640 Camera Module 2 Million Pixels HDF3M-811
 
 ## SCH w/ESP32
 
+power supply - [[LDO-dat]] - [[LDO-2CH-dat]]
+
 ![](2024-12-28-16-39-44.png)
 
 ![](2025-03-28-16-33-04.png)
 
+SCH3 
+
+![](2025-11-01-19-30-22.png)
+
+
+
+## pin mapping w/ESP32 
 
 - [[SCM1030-dat]]
 
@@ -83,6 +92,9 @@ in a table :
 | DVDD         | 1.2V ? | 1.2-1.5V      |
 | AVDD         | 2.8V ? | 2.5-3.0V      |
 | DOVDD IO     | 2.8V ? | 1.7-3.3V      |
+
+
+
 
 
 ## ref 

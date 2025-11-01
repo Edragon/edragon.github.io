@@ -1,6 +1,8 @@
 
 # ITF1006-DAT
 
+- [[industrial-measurement-dat]]
+
 
 ## Pins 
 
