@@ -5,7 +5,10 @@
 
 - [[kicad-simulation-dat]] - [[eagle-simulation-dat]]
 
-- [[falstad-dat]] - [[multisim-dat]]
+- [[falstad-dat]] - [[multisim-dat]] - [[circuit-lab-dat]]
+
+
+- [[Proteus-dat]]
 
 
 ## software 
