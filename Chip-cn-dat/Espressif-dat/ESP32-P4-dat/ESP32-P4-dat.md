@@ -67,10 +67,24 @@ Advantages:
 - Currently, there are quite a few comprehensive ESP-IDF examples, but individual module tests are still relatively few.
 
 
+
+## HDK 
+
+- [[ES8311-dat]]
+
+- [[DSI-dat]] - [[CSI-dat]]
+
+- [[display-dat]] - [[audio-dat]]
+
 ## SCH
 
 ![](ESP32-P4-SCH-1.png)
 
+
+
+SCH 2 
+
+![](ESP32-P4-WIFI6-datasheet.png)
    
 ## ref 
 

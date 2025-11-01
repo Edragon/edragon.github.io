@@ -13,3 +13,13 @@ Supports Raspberry Pi Camera Module v1, v2, and v3, as well as the High-Quality 
 
 Provides lower latency and better performance compared to USB.
 
+
+## SCH 1 DSI + CSI interface 
+
+![](2025-11-01-19-39-05.png)
+
+## ref 
+
+- [[DSI-dat]] - [[CSI-dat]] 
+
+- [[camera-dat]]

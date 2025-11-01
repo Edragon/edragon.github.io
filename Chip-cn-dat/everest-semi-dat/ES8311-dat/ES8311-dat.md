@@ -19,6 +19,12 @@ System
 http://www.everest-semi.com/pdf/ES8311%20PB.pdf
 
 
+
+
+## SCH 2 
+
+![](2025-11-01-19-36-04.png)
+
 ## ref 
 
 - [[everest-semi-dat]]

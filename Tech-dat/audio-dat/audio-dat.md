@@ -51,6 +51,14 @@ wiring to [[D1-dat]] - [[F133-dat]]
 
 ![](2025-08-07-12-47-41.png)
 
+
+SCH2 
+
+- PA [[audio-amplifier-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]]
+
+![](2025-11-01-19-39-39.png)
+
+
 ## code library 
 
 - https://github.com/kosme/arduinoFFT

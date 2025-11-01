@@ -80,6 +80,7 @@ Use GDB, VS Code, or Eclipse for debugging.
 
 ## ref 
 
+- [[ESP32-S3-dat]] - [[ESP32-P4-dat]] - [[ESP32-C6-dat]]
 
 https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32s3/schematic-checklist.html
 
