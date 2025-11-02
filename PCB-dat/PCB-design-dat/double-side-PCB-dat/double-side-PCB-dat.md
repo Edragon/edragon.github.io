@@ -1,6 +1,9 @@
 
 # double-side-PCB-dat
 
+- [[fab-stencil-double-side]]
+
+
 ## General Rules
 
 | Factor                            | Rule of Thumb                                                                 | Reason                                                           |
@@ -10,3 +13,14 @@
 | **BGA, QFN, Fine-pitch ICs**      | Usually go on the **primary (top) side**.                                     | Better solder joint reliability and inspection access.           |
 | **Connectors, mechanical parts**  | Preferably on the **primary side**.                                           | Reduces stress during use.                                       |
 | **Assembly process optimization** | PCB side with **more components** usually chosen as **first (primary) side**. | Reduces machine setup time and cost.                             |
+
+
+- [[fab-stencil]]
+
+
+
+
+
+## ref 
+
+- [[double-side-PCB]] - [[PCB-design]]
