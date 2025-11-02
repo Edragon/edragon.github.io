@@ -1,8 +1,14 @@
 
 # Thermal-imaging-camera-dat
 
+## apps
 
 ![](2025-06-06-18-56-47.png)
+
+![](2025-11-02-14-57-49.png)
+
+
+
 
 ## tech 
 
@@ -17,6 +23,9 @@
 - [[LCD-dat]]
 
 - [[RTL8723-dat]]
+
+
+
 
 
 ## ref 
