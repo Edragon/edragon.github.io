@@ -141,6 +141,12 @@ The MGDM-25 series is a full family of high performance DC/DC power modules desi
 - [[Analog-device-dat]]
 
 
+## low input / simple circuit 
+
+- NCP1529MUTBG - Buck Converter - DC-DC, High Efficiency, Adjustable Output Voltage, Low Ripple 1.7 MHz, 1 A
+
+
+
 
 ## ref 
 

@@ -4,6 +4,8 @@
 
 - [[usb-hub-dat]]
 
+- [[dcdc-down-dat]]
+
 ## Triac Driver Optocoupler
 
 6-Pin DIP Zero-Cross Triac Driver Optocoupler (600 Volt Peak)
