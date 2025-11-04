@@ -48,8 +48,10 @@ The interface is a serial SPI interface. This site provides driver routines for 
 
 ## ref 
 
-- [[ILC1020]] 
+- [[nokia-dat]] 
+
+- [[nokia-5110-dat]] - [[nokia-3310-dat]]
 
 - [legacy wiki page ](https://w.electrodragon.com/w/5110_Display)
 
-
+- [[ILC1020]] 

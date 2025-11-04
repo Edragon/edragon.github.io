@@ -4,3 +4,11 @@
 ## arduino Interfacing with logic buffer
 
 ![](2025-05-21-17-54-16.png)
+
+
+
+
+
+## ref 
+
+- [[ILC1020-dat]]
