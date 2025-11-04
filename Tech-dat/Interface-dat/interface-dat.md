@@ -1,5 +1,5 @@
 
-# interface dat 
+# interface-dat 
 
 - [[interface-SDK-dat]]
 
@@ -19,11 +19,11 @@
 
 - [[MIDI-dat]] - [[BNC-dat]]
 
-- [[OTG-dat]]
-
 - [[parallel-dat]]
 
 - [[camera-interface-dat]]
+
+- [[PCIE-dat]] - [[mini-PCIE-dat]]
 
 
 more at [[cable-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
@@ -32,9 +32,11 @@ long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] -
 
 - [[analog-dat]] - [[digital-dat]]
 
-- [[USB-dat]] - [[USB-sys-dat]]
+- [[USB-dat]] - [[USB-sys-dat]] - [[USB-OTG-dat]]
 
 - [[interface-interactive-dat]]
+
+- [[footprint-dat]] - [[DC40-dat]]
 
 ## Breakout boards 
 

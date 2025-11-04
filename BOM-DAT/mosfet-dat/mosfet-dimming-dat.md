@@ -114,3 +114,5 @@ Your LED dimming when the gate is low means:
 ## ref 
 
 - [[mosfet-dat]]
+
+- [[mosfet]] - [[mosfet-dimming]]
