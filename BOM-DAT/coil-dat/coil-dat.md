@@ -8,6 +8,15 @@
 
 47*32mm -- 12.6uH
 
+## coil long 
+
+3.5 ~ 4.5mh / 8mm / 28mm 
+
+![](2025-11-04-15-18-21.png)
+
+for bullet diameter 5mm 
+
+
 ## coil magenetic 
 
 - [[coilgun-dat]]
@@ -27,5 +36,7 @@
 
 
 ## ref 
+
+- [[tube-dat]]
 
 - [[coil]] - [[BOM]]

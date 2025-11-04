@@ -25,6 +25,7 @@
 
 - [[test-point-dat]]
 
+- [[bom-dat]]
 
 ## special  
 
