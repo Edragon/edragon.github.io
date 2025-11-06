@@ -86,6 +86,18 @@ transfomer == G2406S_C507595 and RJ45
 
 - KSZ8041TL/FTL/MLL - 10BASE-T/100BASE-TX/100BASE-FX Physical Layer Transceiver
 
+- IC Plus IP175G ==	5 Port 10/100 Ethernet Integrated Switch
+
+
+
+
+
+
+
+
+
+
+
 
 ## ref 
 

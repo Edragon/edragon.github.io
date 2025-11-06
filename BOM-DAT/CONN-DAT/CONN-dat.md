@@ -34,7 +34,6 @@
 
 
 
-
 ## standard connector 
 
 - [[mini-pcie-dat]] == 52P
@@ -66,6 +65,13 @@
 
 
 ## unlisted 
+
+D-SUB
+
+DD44M4000C == D-Sub High Density Connectors D-Sub Male Connector 44P Solder Tail Right Angle Cadmium Shell
+
+TV06RW25E6S == Standard Circular Connector PWSF PLUG ODCAD SZ25 P 1-16 P&N 4-6 PR 1-6 SOCKET CODEN
+
 
 BNC Connector Jack Panel Mount
 
