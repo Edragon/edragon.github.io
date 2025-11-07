@@ -258,7 +258,7 @@
 
 - [[effects-dat]]
 
-- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] 
+- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-workspace-dat]]
 
 - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-soldering-dat]]
 

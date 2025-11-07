@@ -26,6 +26,12 @@ Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 
 
 
+## 1.27mm pre-build pin header kits 
+
+![](2025-11-07-16-19-07.png)
+
+
+
 ## straight pin header
 
 dimension 
