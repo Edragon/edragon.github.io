@@ -4,7 +4,7 @@
 
 - [[Alu_Extrusion]] - [[screws-dat]] - [[t-nut-dat]]
 
-- [[aluminium-extrusion-case-dat]]
+- [[case-aluminium-extrusion-dat]]
 
 ## Aluminum Extrusion Profiles
 
