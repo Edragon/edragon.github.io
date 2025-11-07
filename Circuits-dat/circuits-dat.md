@@ -1,6 +1,9 @@
 
 # circuits-dat 
 
+
+- [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[logic-level-shifter-dat]]
+
 - [[74xx-dat]]
 
 - [[protection-dat]]
@@ -33,7 +36,6 @@
 
 
 
-- [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]]
 
 - [[Multivibrator-dat]]
 

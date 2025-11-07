@@ -1,6 +1,11 @@
 
 # opensource-dat
 
+
+
+
+
+
 ## best projects
 
 
@@ -18,9 +23,16 @@
 
 ## new projects 
 
+https://github.com/T-vK/ESP32-BLE-Mouse
+
+https://github.com/lahirunirmalx/PS2Keyboard
+
+https://github.com/Te-update/Esp32-Hoverboard-Lawnmower
+
+
 - ESP32-Paxcounter == https://github.com/cyberman54/ESP32-Paxcounter
 
 
 ## ref 
 
-- [[opensource]]
+- [[opensource]]s

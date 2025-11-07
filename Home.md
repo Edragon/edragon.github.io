@@ -43,6 +43,8 @@
 
 - [[weekly-dat]] - [[2025-july-dat]] - [[2025-May-dat]]
 
+- [[info-dat]]
+
 ## This wiki changes
 
 - [Latest Changes (Globally)](https://w2.electrodragon.com/gollum/latest_changes)

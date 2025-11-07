@@ -27,6 +27,12 @@ BOOT_EN == LOW, BOOT == LOW, PI_BOOT (nRPIBOOT) == HIGH, USB_SEL == HIGH
 
 ![](2025-10-26-21-07-09.png)
 
+## EOF 
+
+FQD3N60CTM - MOSFET N-CH 600V 2.4A DPAK - N-Channel 600 V 2.4A (Tc) 50W (Tc) Surface Mount TO-252AA - 	
+FQD3N60CTM-WSTR-ND - Tape & Reel (TR)
+
+
 
 ## ref 
 

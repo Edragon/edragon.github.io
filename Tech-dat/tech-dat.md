@@ -146,7 +146,7 @@
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] 
 
-- [[mosfet-dat]] - [[pump-dat]] - [[triac-dat]]
+- [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
 - [[servo-dat]]
 

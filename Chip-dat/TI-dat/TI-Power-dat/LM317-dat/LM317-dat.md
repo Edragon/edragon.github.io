@@ -4,6 +4,10 @@ partner: [[Inrush-resistor-dat]]
 
 The LM317 device is an adjustable three-terminal positive-voltage regulator capable of supplying more than 1.5 A over an output-voltage range of 1.25 V to 37 V. I
 
+[LM217T-DG](https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/a0/db/e6/9b/6f/9c/45/7b/CD00000455/files/CD00000455.pdf/jcr:content/translations/en.CD00000455.pdf) -  1.2 V to 37 V adjustable voltage regulators
+
+
+LM217, LM317
 
 
 ## board 
