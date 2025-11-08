@@ -23,8 +23,18 @@ controller - [[SIR1003-dat]]
 
 ![](2025-11-08-18-15-11.png)
 
+movement detection using in [[coilgun-dat]]
+
+![](2025-11-08-19-36-14.png)
+
+
+
 ![](2025-11-08-18-16-54.png)
 
+
+receivers specifications 
+
+![](2025-11-08-18-46-59.png)
 
 
 
@@ -35,7 +45,6 @@ controller - [[SIR1003-dat]]
 
 ![](2025-02-18-17-05-16.png)
 
-![](2025-11-08-18-46-59.png)
 
 
 - Note RPI signal input better at 3V3 
