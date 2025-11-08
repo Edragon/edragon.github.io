@@ -35,6 +35,9 @@ controller - [[SIR1003-dat]]
 
 ![](2025-02-18-17-05-16.png)
 
+![](2025-11-08-18-46-59.png)
+
+
 - Note RPI signal input better at 3V3 
 - refer to board [[MPC1098-dat]]
 

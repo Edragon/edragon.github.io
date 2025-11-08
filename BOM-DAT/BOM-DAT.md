@@ -8,8 +8,6 @@ https://www.electrodragon.com/w/RCL_List
 
 ## passive
 
-- [[mosfet-dat]] - [[P-mos-dat]] - [[mos-n-dat]]
-
 - [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[inductor-dat]] 
 
 - [[crystal-dat]] - [[ferrite-bead-dat]] - [[fuse-dat]] - [[varistor-dat]]
@@ -22,7 +20,9 @@ https://www.electrodragon.com/w/RCL_List
 
 - [[capacitor-dat]] 
 
-- [[thyristor-dat]] - [[triac-dat]]
+- [[mosfet-dat]] - [[mos-P-dat]] - [[mos-n-dat]]
+
+- [[thyristor-dat]] - [[triac-dat]] - [[IGBT-dat]] - [[darlington-dat]]
 
 - [[74xx-dat]]
 
