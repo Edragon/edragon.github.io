@@ -142,7 +142,7 @@
 
 - [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
 
-- [[sensor-photoelectric-dat]]
+- [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[dc-gear-motor-dat]] 
 

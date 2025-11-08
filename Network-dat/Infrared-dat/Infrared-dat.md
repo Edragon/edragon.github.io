@@ -11,11 +11,23 @@
 
 ## Boards
 
+infrared pairs 
+
 - [[SIR1008-dat]] 
 
 arduino shield - [[DAS1013-dat]]
 
 controller - [[SIR1003-dat]]
+
+## infrared pairs - 2 Pin 
+
+![](2025-11-08-18-15-11.png)
+
+![](2025-11-08-18-16-54.png)
+
+
+
+
 
 ## RPI-SCH 
 
