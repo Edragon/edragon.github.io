@@ -14,7 +14,7 @@ Three sensing measurement in one module:
 
 Specs: 
 - Current selling version == DN8 
-- Customizable == DN10
+- Optional Customizable == DN10
 
 ### Board Map 
 

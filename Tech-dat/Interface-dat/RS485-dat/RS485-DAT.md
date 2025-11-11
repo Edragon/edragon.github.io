@@ -95,4 +95,4 @@ If your goal is **long-range video transmission**, consider:
 
 - [[interface-dat]] - [[video-dat]]
 
-- [[RS485]]
+- [[RS485]] - [[RS232]]

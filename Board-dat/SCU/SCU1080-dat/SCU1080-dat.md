@@ -14,8 +14,12 @@ common application
  
 [product url](https://www.electrodragon.com/product/self-drive-pizeo-buzzer-alarm/)
 
+
+
+
+
 ## ref 
 
-- [[piezo-dat]]
+- [[piezo-dat]] - [[buzzer-dat]]
 
 - [[SCU1080]]

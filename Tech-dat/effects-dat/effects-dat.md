@@ -2,6 +2,14 @@
 
 # effects-dat
 
+- [[thermoelectric-dat]]
+
+- [[Seebeck-dat]] - [[Peltier-dat]] 
+
+- [[piezo-dat]]
+
+
+
 ## thermoelectric system
 
 - **Seebeck Effect** — Temperature difference generates voltage.  - [[Seebeck-dat]]

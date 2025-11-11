@@ -3,6 +3,9 @@
 
 RS485 auto board 1 
 
+[RS-485 Breakout Board, Auto Direction, MAX13487](https://www.electrodragon.com/product/rs-485-breakout-board-auto-direction-max13487/)
+
+
 ## Board Features 
 
 - TXD / RXD data indicator LEDs 
@@ -58,4 +61,4 @@ Right Side Pins
 
 - [[eagle-cad-dat]]
 
-- [[interface-dat]]
+- [[interface-dat]] - [[RS485-dat]]

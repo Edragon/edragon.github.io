@@ -8,6 +8,9 @@ active buzzer
 passive buzzer 
 - [[SSL1011-dat]] - [[SSL1012-dat]]
 
+[[piezo-dat]] buzzer 
+- [[SCU1080-dat]]
+
 
 ## Types of Buzzers
 

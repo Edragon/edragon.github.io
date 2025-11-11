@@ -52,4 +52,7 @@ The side with words are the cooling side, and other side is the warm side.
 
 ## Ref 
 
+- [[effects-dat]]
+
+
 - [Product link](https://www.electrodragon.com/product/tec1-12706-thermoelectric-peltier-cooler-12v-60w/)
