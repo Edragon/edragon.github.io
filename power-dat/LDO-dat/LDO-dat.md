@@ -110,9 +110,6 @@ MIC5528 == Single High Performance 500mA LDO w/ Auto Discharge & Internal Enable
 
 TPS == - [[TI-power-dat]]
 
-TPS74401-EP == 3.0-A ULTRA-LDO WITH PROGRAMMABLE SOFT-START
-
-TPS7A89 == Small, Dual, 2-A, Low-Noise (3.8 μVRMS), LDO Voltage Regulator
 
 MC7800, MC7800A, MC7800AE, NCV7800 == Voltage Regulators – Positive 1.0 A
 
@@ -120,6 +117,10 @@ MC7800, MC7800A, MC7800AE, NCV7800 == Voltage Regulators – Positive 1.0 A
 LM109,LM309 == LM109/LM309 5-Volt Regulator
 
 - [[analog-device-dat]] - LT1763 Series - 500mA, Low Noise, LDO Micropower Regulators
+
+
+
+
 
 
 ## maker 

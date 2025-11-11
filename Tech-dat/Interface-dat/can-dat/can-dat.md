@@ -61,6 +61,15 @@ SPI to CAN - [[MCP2551-dat]]
 
 
 
+
+## chips 
+
+- [[analog-device-dat]]
+
+ADM3053BRWZ - Signal and Power Isolated CAN Transceiver with Integrated Isolated DC-to-DC Converter
+
+
+
 ## ref 
 
 - [[CAN]]

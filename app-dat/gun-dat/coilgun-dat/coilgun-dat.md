@@ -12,7 +12,7 @@
 
 - [[diode-dat]] - [[diode-rectifier-dat]] - [[BOM-dat]]
 
-
+- [[transistor-dat]]
 
 
 ## multiple stages coilgun design tips 

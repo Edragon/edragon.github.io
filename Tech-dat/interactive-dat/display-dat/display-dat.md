@@ -21,6 +21,9 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 - [[segment-LCD-dat]]
 
 
+- [[display-Solid-state-dat]] - [[avago-dat]]
+
+
 ## boards 
 
 - [[NWI1241-dat]]

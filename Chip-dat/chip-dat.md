@@ -6,7 +6,7 @@
 
 from a to z 
 
-- [[74xx-dat]]
+- [[74xx-dat]] - [[circuits-dat]] - [[logic-dat]]
 
 - [[allegro-dat]]: [[ACS712-dat]] - [[ACS773-dat]] - [[A4988-dat]] - [[A4954-dat]] - [[A3967-dat]]
 
@@ -32,7 +32,7 @@ from a to z
 
 - [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] - [[attiny-dat]]
 
-
+- [[dallas-dat]]
 
 [[MCU-dat]] - [[STC-dat]] - [[nuvoton-dat]]
 

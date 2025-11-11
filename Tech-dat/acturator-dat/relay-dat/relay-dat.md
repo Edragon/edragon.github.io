@@ -4,6 +4,11 @@
 - legacy wiki page - https://w.electrodragon.com/w/Category:Relay
 
 
+## relay types 
+
+- [[relay-solid-dat]] == [[relay-SSR-dat]] - [[relay-signal-dat]]
+
+
 ## relays 
 
 - [[OPM1041-dat]]

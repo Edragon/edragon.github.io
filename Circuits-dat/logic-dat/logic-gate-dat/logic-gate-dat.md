@@ -88,6 +88,10 @@ in positive logic.
 
 74HCT32D - Quad 2-Input OR Gate
 
+
+[NC7SZ32 - TinyLogic UHS Two-Input OR Gate](https://www.onsemi.com/download/data-sheet/pdf/nc7sz32-d.pdf)
+
+
 ## more gate chips 
 
 - CDx4HC11 == Triple 3-Input AND Gates 

@@ -68,6 +68,12 @@ Choosing between the two depends on your network requirements, data rate needs, 
 - TJA1051: Includes a wake-up feature, making it similar to the TJA1042 in this aspect and enabling it to be used in applications requiring this feature.
 
 
+## 24V system 
+
+- PCA82C251 - CAN transceiver for 24 V systems
+
+
+
 
 ## ref 
 

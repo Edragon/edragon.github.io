@@ -33,7 +33,9 @@ MCP4017 == 7-Bit Single Digital POT in SC70 w/I2C™
 
 - [[TI-power-dat]]
 
+## ethernet
 
+- [[ethernet-dat]]
 
 
 

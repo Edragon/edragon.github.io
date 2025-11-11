@@ -107,6 +107,10 @@ The LM3880-Q1 simple power supply sequencer offers the easiest method to control
 
 
 
+### transfomer driver 
+
+- [[TI-power-dat]] SN6501DBVT - Low-noise, 350-mA, 410-kHz transformer driver for isolated power supplies
+
 
 
 ## ref 

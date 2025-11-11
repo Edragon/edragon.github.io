@@ -11,6 +11,9 @@
 
 74HC00D == General. The 74HC00D is a high speed CMOS 2-INPUT NAND GATE fabricated with silicon gate C2MOS technology.
 
+
+
+
 ## 74xx04-dat
 
 - [[74xx04-dat]] == Hex Inverter
@@ -52,7 +55,7 @@ L L
 
 ## more chips 
 
-- 74HC244 == Octal 3-State Noninverting Buffer/Line Driver/Line Receiver MC74HC244A, MC74HCT244A
+- `74HC244` == Octal 3-State Noninverting Buffer/Line Driver/Line Receiver MC74HC244A, MC74HCT244A
 
 
 
@@ -61,6 +64,8 @@ L L
 - [[74HC595-dat]]
 
 - [[74HCT245-dat]]
+
+- `74LS259` == SN54259, SN54LS259B, SN74259, SN74LS259B == 8-BIT ADDRESSABLE LATCHES
 
 - 74LVC126ABQ == Quad buffer/line driver with 5 V tolerant input/outputs; 3-state
 
@@ -78,7 +83,9 @@ L L
 
 - SMD SN74HC157DR SOIC-16 Data selector / multiplexer chip
   
-- 74HC04D,653 SOIC-14 Hex inverter SMD logic chip
+- 74HC04D,653 SOIC-14 Hex inverter SMD logic chip == 74HCT04BQ
+
+
 
 - 74HC4040D 74HC4040 SMD SOP-16 counter — brand new imported
 

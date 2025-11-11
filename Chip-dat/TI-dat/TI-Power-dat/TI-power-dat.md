@@ -46,6 +46,15 @@ TLV62130RGTR - TLV62130x 3-V to 17-V 3-A Step-Down Converter In 3x3 QFN Package 
 
 
 
+## LDO 
+
+TPS74401-EP == 3.0-A ULTRA-LDO WITH PROGRAMMABLE SOFT-START
+
+TPS7A89 == Small, Dual, 2-A, Low-Noise (3.8 μVRMS), LDO Voltage Regulator
+
+TPS76350DBVR == 150-mA, 10-V, low-dropout voltage regulator with enable
+
+
 ## ref 
 
 - [[TI-dat]]

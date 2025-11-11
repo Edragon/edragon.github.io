@@ -67,6 +67,9 @@ ADA4077
 
 - LTC2225IUH - 12-Bit, 10Msps Low Power 3V ADC
 
+- MAX22530AWE - Field-Side Self-Powered, 4-Channel, 12-bit, Isolated ADC
+
+
 ## DCDC 
 
 - [[dcdc-down-dat]]

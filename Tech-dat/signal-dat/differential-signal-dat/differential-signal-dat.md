@@ -88,3 +88,18 @@ Typical resistor values:
 - MAX490 includes **receiver failsafe** features, but **external biasing is still standard practice**.
 - In **point-to-point** setups, biasing might be optional but is still recommended for stability.
 - In **multi-drop** (multi-device) RS-485 networks, biasing is essential for reliable communication.
+
+
+
+## differential line driver 
+
+- [[TI-dat]]
+
+DS26LS31MJ/883 - Quad High Speed Differential Line Driver
+
+The DS26LS31MQML is a quad differential line driver designed for digital data transmission over balanced lines. The DS26LS31MQML meets all the requirements of EIA Standard RS-422 and Federal Standard 1020. It is designed to provide unipolar differential drive to twisted-pair or parallel-wire transmission lines.
+
+
+AM26C32ID - Quadruple Differential Line Receiver
+
+AM26LS31 Quadruple Differential Line Driver

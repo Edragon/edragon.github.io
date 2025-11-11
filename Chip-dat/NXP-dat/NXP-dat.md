@@ -4,9 +4,11 @@
 - [[NXP-sensor-dat]]
 
 
-[[NXP-CAN-dat]] - [[TJA1050-dat]]
+[[NXP-CAN-dat]] - [[TJA1050-dat]] - [[CAN-dat]]
 
 - [[i.MX6ULL-dat]]
+
+LPC1768FBD100 -  LPC1700 Arm Cortex-M3 - 512kB flash, 64kB SRAM, Ethernet, USB, LQFP100 package
 
 
 - [[PCA9685-dat]]
@@ -23,6 +25,9 @@ PCF85176 == 40 x 4 universal LCD driver for low multiplex rates
 [PCF8523 == Real-Time Clock (RTC) and calendar](https://www.nxp.com.cn/docs/en/data-sheet/PCF8523.pdf)
 
 - [[PCF8574-dat]]
+
+
+
 
 ### PCF8566 
 
