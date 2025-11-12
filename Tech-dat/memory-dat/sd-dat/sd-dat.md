@@ -224,6 +224,14 @@ SHELL引脚为SDMMC连接器固定引脚，此处接地处理，CD引脚用于�
 
 
 
+
+## test tools 
+
+- CrystalDiskMark
+
+- [h2testw](https://h2testw.org/) - [[h2testw_1.4.zip]]
+
+
 ## ref 
 
 - [[memory-dat]] - [[interface-dat]] - [[sd-card-holder-dat]] - [[microsd-card-holder-dat]]
