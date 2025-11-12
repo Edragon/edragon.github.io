@@ -1,6 +1,9 @@
 
 # pixel-phone-dat
 
+- [[pixel-7-dat]]
+
+
 ## 📱 Google Pixel 7 — Charging Support Overview
 
 - [[battery-charger-dat]]
@@ -24,3 +27,6 @@
 - [[QI-wireless-charge-dat]]
 
 
+## ref 
+
+- [[app-dat]]
