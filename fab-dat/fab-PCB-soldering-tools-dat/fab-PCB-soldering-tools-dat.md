@@ -13,7 +13,7 @@
 
 ## soldering skills 
 
-
+- training board - [[PPB0021-dat]]
 
 
 
