@@ -40,6 +40,11 @@
   - [[nettie-dat]]
 
 
+- Connector_Card
+    - [ ] microSD_HC_Hirose_DM3BT-DSF-PEJS
+
+
+
 ## other collections 
 
 [Kicad_FPC_board_ends](https://github.com/mikeWShef/Kicad_FPC_board_ends)

@@ -37,5 +37,7 @@
 
 ## ref 
 
+- [[desoldering]] - [[soldering]]
+
 
 - [[soldering-dat]] - [[tech-dat]]

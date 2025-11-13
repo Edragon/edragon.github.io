@@ -98,6 +98,12 @@ https://www.electrodragon.com/w/RCL_List
 | **Capping**      | May include a top-entry cap, locking feature, or closed housing design  |
 
 
+## common used 
+
+- [[microsd-card-holder-dat]]
+
+- [[kicad-footprint-dat]]
+
 
 ## ref 
 
