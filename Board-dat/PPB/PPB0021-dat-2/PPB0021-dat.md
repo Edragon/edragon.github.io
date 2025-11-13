@@ -17,11 +17,24 @@ https://www.electrodragon.com/product/smd-soldering-skills-training-board/
 
 
 
+## V2 - red board (current selling version)
+
+R2 red board details:
+
+Maybe you are already a master of programmer, but how about the tiny SMD soldering, it's might be pretty hard for many people. Now we got this kit for you to practice your SMD soldering skills.This kits includes:
+
+- PCB board size 48*60MM
+- SMD conponents 102pcs, varies from 0402, 0603, 0805, 1206
+- Includes ICs CD4017,  NE555, etc. All common parts.
+- One side for loop LEDs, has schematic. Power supply 3.3-12V.
+- One side for exercise, has testing points.
 
 
-## V1 
+## V1 - green board (add order note to order this version)
 
 ![](2024-10-04-18-00-19.png)
+
+![](2025-11-13-19-56-10.png)
 
 ## Shipping list:
 
