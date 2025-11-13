@@ -22,6 +22,11 @@ https://forums.autodesk.com/t5/eagle-forum/slotted-pads/td-p/7487203
 
 
 
+## BOM 
+
+- schematic - export - BOM - by values / csv
+
+
 
 ## ref 
 
