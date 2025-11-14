@@ -1,9 +1,44 @@
-
 # coilgun-dat
 
 == Gauss gun
 
 - [[coil-dat]] - [[23-coilgun]]
+
+
+
+## basic toy version 
+
+![](2025-11-14-18-58-48.png)
+
+![](2025-11-14-18-59-01.png)
+
+
+### Basic Operation Steps
+
+1. Turn on the power switch (rocker switch K1). The green LED will light up.
+2. Wait about 10–30 seconds. The blue LED will light up, indicating the charge is about halfway.
+3. Insert the projectile into the rear of the barrel. Press the fire button (round button K2) to launch the projectile.
+
+**Note:**
+- When the coilgun is fully charged, the red LED will light up. Because charging takes a long time and battery power decreases, the red LED may not light. If the blue LED is on, you can fire. **High voltage—danger**!
+- Before installing capacitors or if you need to re-solder during use, always discharge the capacitors first. Use a wire with plastic insulation, exposing copper at both ends. Hold the plastic part and touch both capacitor terminals with the copper ends to discharge. Otherwise, the capacitor may short-circuit and cause danger!
+
+![](2025-11-14-19-00-02.png)
+
+### Main Technologies of Coilgun
+
+- **Power System:** Provides high-voltage power for strong electromagnetic force. Common systems include capacitors or battery packs.
+- **Electromagnetic Accelerator:** Accelerates the projectile using coils and supports. When current flows through the coil, a strong magnetic field is generated to accelerate the projectile.
+- **Control System:** Precisely controls the firing process, including trigger and speed monitoring.
+
+![](2025-11-14-19-00-25.png)
+
+BOM list 
+
+![](2025-11-14-19-00-45.png)
+
+
+
 
 
 ## revolved tech 

@@ -1,5 +1,8 @@
 # PPB0021-dat
 
+[board link](https://www.electrodragon.com/product/smd-soldering-skills-training-board/)
+
+
 ## PTH version V3 
 
 ![](2025-11-13_194534.png)
@@ -11,9 +14,6 @@
 price is 0.8 usd, please order below 1pcs for 2 pcs of this PTH V3 board 
 
 and add order note "order for PPB0021 V3"
-
-https://www.electrodragon.com/product/smd-soldering-skills-training-board/
-
 
 
 
@@ -82,6 +82,8 @@ In order to improve the soldering skills of electronic professional students and
 
 
 ## ref 
+
+- [[training-board-dat]] - [[app-dat]]
 
 - [[fab-dat]]
 
