@@ -42,17 +42,6 @@ Pin Definitions
 - GND (CTS)
 - -- (GND)
 
-
-
-## demo code 
-
-- arduino library **radiohead** - [[arduino-lib-dat]]
-- [[spi-flash-dat]] - user lowpower lab flash arduino library 
-
-## bootloader 
-
-- arduino pro mini 3.3V/8M == [[arduino-dat]]
-
 ## Functions 
 
 - [[memory-dat]] - [[low-power-dat]] - [[lora-dat]]
@@ -65,17 +54,46 @@ Lora Modules - [[NWL1071-dat]] - [[NWL1072-dat]]
 - must well initiated flash into low power mode to save power 
 - 0xEF40 manufactuer ID for 16mbit
 
-## bulk order 
+Pins table
 
-Buck order price: 
+| arduino | pin | Funcs | Funcs2         | customize |
+| ------- | --- | ----- | -------------- | --------- |
+| D13     | 17  | PB5   | SPI_SCK/PCINT5 | SPI_SCK   |
+| D12     | 16  | PB4   | SPI_MISO       | SPI_MISO  |
+| D11     | 15  | PB3   | SPI_MOSI/PWM   | SPI_MOSI  |
+| D10     | 14  | PB2   |                | LORA_CS   |
+| D9      | 13  | PB1   | PWM            | LORA_RST  |
+| D8      | 12  | PB0   |                | Flash_CS  |
+| D7      | 11  | PD7   |                | LED       |
+| D6      | 10  | PD6   | PWM            |           |
+| D5      | 9   | PD5   | PWM            |           |
+| D4      | 2   | PD4   |                |           |
+| D3      | 1   | PD3   | PWM            |           |
+| D2      | 32  | PD2   | irq            | LORA_IRQ  |
+| D1      | 31  | PD1   | TX             |           |
+| D0      | 30  | PD0   | RX             |           |
+| A5      |     | PC5   | SCL            |           |
+| A4      |     | PC4   | SDA            |           |
+| A3      |     | PC3   |                |           |
+| A2      |     | PC2   |                |           |
+| A1      |     | PC1   |                |           |
+| A0      |     | PC0   |                |           |
 
-- 16% discount for 100-499pcs order, 
-- 20% for 500pcs+ order. Auto update price.
 
-## coding config 
+
+## demo code 
+
+- [[lora-SDK-dat]] == https://github.com/sandeepmistry/arduino-LoRa
+- arduino library **radiohead** - [[arduino-lib-dat]]
+- [[spi-flash-dat]] - user lowpower lab flash arduino library 
+
+bootloader - arduino pro mini 3.3V/8M == [[arduino-dat]]
+
+
+### coding config 
 
     const int csPin = 10;          // LoRa radio chip select
-    const int resetPin = 8;       // LoRa radio reset
+    const int resetPin = 9;       // LoRa radio reset
     const int irqPin = 2;         // change for your board; must be a hardware interrupt pin
     ...
 
@@ -104,8 +122,20 @@ Buck order price:
 - [low power test](https://x.com/electro_phoenix/status/1639160253811142656)
 
 
+
+## bulk order 
+
+Buck order price: 
+
+- 16% discount for 100-499pcs order, 
+- 20% for 500pcs+ order. Auto update price.
+
+
+
 ## ref 
 
 - [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
 
 - [[radiohead-dat]] - [[lora-sdk-dat]]
+
+- [[arduino-hdk-dat]] - [[arduino-dat]]

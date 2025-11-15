@@ -21,24 +21,33 @@
 
 ![](2024-07-01-19-46-59.png)
 
-Pins 
+Pins table
 
-| arduino | pin | Funcs | Funcs2     | customize |
-| ------- | --- | ----- | ---------- | --------- |
-| 13      | 17  | PB5   | SCK/PCINT5 |           |
-| 12      | 16  | PB4   | MISO       |           |
-| 11      | 15  | PB3   | MOSI/PWM   |           |
-| 10      | 14  | PB2   |            |           |
-| 9       | 13  | PB1   | PWM        |           |
-| 8       | 12  | PB0   |            |           |
-| 7       | 11  | PD7   |            |           |
-| 6       | 10  | PD6   | PWM        |           |
-| 5       | 9   | PD5   | PWM        |           |
-| 4       | 2   | PD4   |            |           |
-| 3       | 1   | PD3   | PWM        |           |
-| 2       | 32  | PD2   |            |           |
-| 1       | 31  | PD1   | TX         |           |
-| 0       | 30  | PD0   | RX         |           |
+| arduino | pin | Funcs | Funcs2         | customize |
+| ------- | --- | ----- | -------------- | --------- |
+| D13     | 17  | PB5   | SPI_SCK/PCINT5 |           |
+| D12     | 16  | PB4   | SPI_MISO       |           |
+| D11     | 15  | PB3   | SPI_MOSI/PWM   |           |
+| D10     | 14  | PB2   |                |           |
+| D9      | 13  | PB1   | PWM            |           |
+| D8      | 12  | PB0   |                |           |
+| D7      | 11  | PD7   |                |           |
+| D6      | 10  | PD6   | PWM            |           |
+| D5      | 9   | PD5   | PWM            |           |
+| D4      | 2   | PD4   |                |           |
+| D3      | 1   | PD3   | PWM            |           |
+| D2      | 32  | PD2   | irq            |           |
+| D1      | 31  | PD1   | TX             |           |
+| D0      | 30  | PD0   | RX             |           |
+| A5      |     | PC5   | SCL            |           |
+| A4      |     | PC4   | SDA            |           |
+| A3      |     | PC3   |                |           |
+| A2      |     | PC2   |                |           |
+| A1      |     | PC1   |                |           |
+| A0      |     | PC0   |                |           |
+
+
+
 
 
 ## atmega328PB

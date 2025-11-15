@@ -12,7 +12,10 @@
 ## microchip-MCU 
 
 
+### PIC24 
 
+PIC24FJ128GB106-I/PT - PIC PIC® 24F Microcontroller IC 16-Bit 32MHz 128KB (43K x 24) FLASH 64-TQFP (10x10)
+ 
 
 ### PIC32 
 
