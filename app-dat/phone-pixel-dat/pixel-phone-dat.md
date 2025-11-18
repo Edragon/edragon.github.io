@@ -1,5 +1,5 @@
 
-# pixel-phone-dat
+# phone-pixel-dat
 
 - [[pixel-7-dat]]
 
@@ -25,6 +25,15 @@
   - Can charge accessories like earbuds or other phones (up to ~5 W)
 
 - [[QI-wireless-charge-dat]]
+
+
+## fix note 
+
+screen is very fragile, be careful when prying it open.
+
+![](2025-11-18-17-05-46.png)
+
+
 
 
 ## ref 

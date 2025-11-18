@@ -118,6 +118,30 @@ Usage: Devices that require more energy or have higher power consumption tend to
 ![](2025-08-19-18-20-56.png)
 
 
+
+## integrated battery 
+
+![](2025-11-18-17-02-15.png)
+
+![](2025-11-18-17-04-32.png)
+
+
+battery pins 
+
+
+| Pin | Name         | Function                                                                                   |
+|-----|--------------|--------------------------------------------------------------------------------------------|
+| AL  | Alarm/Alert/Allow | Used for signaling battery status (faults, over-temp, etc.) or enabling/disabling battery functions. |
+| TH  | Thermistor/Temperature | Connects to a thermistor for monitoring battery temperature, ensuring safe charging/discharging. |
+| SC  | Sense/Serial Clock | Used for voltage/current sensing or as a clock line in communication protocols (e.g., I²C/SMBus).   |
+| SD  | Serial Data/Shutdown | Used for data communication (I²C/SMBus data line) or to control battery shutdown.                  |
+| ID  | Identification | Identifies battery type/capacity via resistor or chip, ensuring device compatibility and correct charging. |
+
+These pins are typical in smart/integrated batteries, supporting safety, communication, and
+
+- [[pixel-phone-dat]]
+
+
 ## ref 
 
 - [[current-dat]] - [[voltage-dat]]
