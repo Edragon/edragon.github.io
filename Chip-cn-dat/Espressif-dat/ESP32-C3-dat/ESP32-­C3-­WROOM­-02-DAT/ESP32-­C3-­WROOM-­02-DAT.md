@@ -23,6 +23,9 @@
 ## datasheet 
 https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_cn.pdf
 
+
+[hardware design guidelines and module design guidelines ](https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/pcb-layout-design.html#general-principles-of-pcb-layout-for-modules-positioning-a-module-on-a-base-board)
+
 https://docs.espressif.com/projects/esp-at/en/latest/esp32c3/Get_Started/Hardware_connection.html
 
 
@@ -45,3 +48,4 @@ https://docs.espressif.com/projects/esp-idf/en/stable/esp32c3/get-started/establ
 
 - [[ESP32-C3]] - [[ESP-SDK-dat]] - [[ESP32-dat]]
 
+- [[antenna-dat]]
