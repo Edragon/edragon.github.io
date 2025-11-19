@@ -1,7 +1,7 @@
 
 # phone-pixel-dat
 
-- [[pixel-7-dat]]
+- [[pixel-7-dat]] - [[pixel-3xl-dat]]
 
 
 ## 📱 Google Pixel 7 — Charging Support Overview
@@ -34,6 +34,13 @@ screen is very fragile, be careful when prying it open.
 ![](2025-11-18-17-05-46.png)
 
 
+
+
+## pixel 4xl 
+
+power ic 
+
+![](2025-11-19-16-21-45.png)
 
 
 ## ref 

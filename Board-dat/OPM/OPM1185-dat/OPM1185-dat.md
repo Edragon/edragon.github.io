@@ -33,7 +33,7 @@ setup:
 
 ## Applications, category, tags, etc. 
 
-- [[pixel-phone-dat]] - [[fast-charge-methods-dat]]
+- [[phone-pixel-dat]] - [[fast-charge-methods-dat]]
 
 ## Demo Code and Video
 

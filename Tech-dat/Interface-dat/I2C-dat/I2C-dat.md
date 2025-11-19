@@ -61,6 +61,32 @@ testing scan I2C
 
     print("I2C scan:", i2c.scan())
 
+
+## command line readout 
+
+Command Line Readout
+
+With the included i2cdump and i2cget tools it is possible to read data out from a shell. The dump reads a range of bytes, here again 
+
+with -y to disable interactive confirmation, range 0x02-0x2d for the standard registers, 
+
+bus 0 and address 0x55. W for 16 bit words, because the chip returns directly 2 bytes, no need to send request for every single address.
+
+```
+orangepipc2:~:# i2cdump -y -r 0x02-0x2d 0 0x55 W
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f    0123456789abcdef
+00:       00 00 ff ff 71 0b 66 0f 80 01 13 06 27 09      ....q?f???????
+10: 02 05 16 08 00 00 ff ff ff ff ff ff ff ff 8a f8    ????..........??
+20: 28 00 46 12 00 00 ff ff 6f 0b c0 03 3e 00          (.F?....o???>.  
+
+orangepipc2:~:# i2cget -y 0 0x55 0x08 w
+0x0f66
+
+orangepipc2:~:# i2cget -y 0 0x55 0x2c w
+0x003e
+```
+
+
 ## code library 
 
 the most easy to use library for ESP
