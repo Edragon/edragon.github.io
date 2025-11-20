@@ -17,6 +17,11 @@ https://www.electrodragon.com/product/triac-switching-drive-board-optical-isolat
 ### to use it on 3.3V input 
 - by removing the LED, that was taking power from the GPIO dropping it below the minimum current required to open the gate. 
 
+- questions: no need extra power supply
+
+
+
+
 ## Ref 
 
 - [[BT136-dat]]
@@ -27,3 +32,4 @@ https://www.electrodragon.com/product/triac-switching-drive-board-optical-isolat
 - demo video please see at [[TRIAC-dat]]
 
 - [[SCU1041]]
+

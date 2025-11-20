@@ -7,6 +7,23 @@ and how to setup the E-sel multiplexing - [[MPC1073-multiplexing-dat]]
 
 
 
+## sound card 
+
+```
+Suggestion: to slightly improve display update, add
+	isolcpus=3
+at the end of /boot/cmdline.txt and reboot (see README.md)
+
+=== snd_bcm2835: found that the Pi sound module is loaded. ===
+Don't use the built-in sound of the Pi together with this lib; it is known to be
+incompatible and cause trouble and hangs (you can still use external USB sound adapters).
+
+See Troubleshooting section in README how to disable the sound module.
+You can also run with --led-no-hardware-pulse to avoid the incompatibility,
+but you will have more flicker.
+Exiting; fix the above first or use --led-no-hardware-pulse
+```
+
 ## improve display update 
 
 

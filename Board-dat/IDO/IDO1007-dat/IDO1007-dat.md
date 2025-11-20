@@ -1,5 +1,5 @@
 
-# IDO1005-dat
+# IDO1007-dat
 
 https://www.electrodragon.com/product/mini-thermal-receipt-printer-serial-5v/
 
@@ -58,5 +58,7 @@ Type:
 
 
 ## ref 
+
+- [[IDO1005-dat]]
 
 - [[IDO1007]]

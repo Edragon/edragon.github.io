@@ -8,6 +8,8 @@
 
 - [[USB-dat]]
 
+
+
 ## functions 
 
 - [[USB-charging-dat]] - [[USB-PD-dat]]
@@ -15,6 +17,18 @@
 - [[USB-OTG-dat]] 
 
 - [[displayPort-dat]]
+
+- [[thunderbolt-dat]]
+
+
+## hardware 
+
+- [[iphone-17-dat]] 20pins [[usb-type-c-dat]] - [[usb-type-c]] - [[usb]]
+
+![](2025-11-20-14-56-28.png)
+
+线材eMarker信息，方案为Coaxial（0x367e）,具备50V5A 240W EPR供电能力，速率规格为USB4 Gen4（80Gb）。
+
 
 
 ## history 

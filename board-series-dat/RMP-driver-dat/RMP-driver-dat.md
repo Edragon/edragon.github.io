@@ -22,11 +22,17 @@
 
 - [[led-rgb-panel-dat]] - [[RPI-pin-dat]] - [[rpi-dat]]
 
+
+
+
+
+
 ## knowledge 
 
-- [[HUB75-dat]]
+- [[HUB75-dat]] - [[MPC1120-dat]]
 
 ## Typical wiring with RPI - for MPC1073 
+
 
 | Connection | Pin | Pin | Connection                      |
 | ---------: | :-: | :-: | :------------------------------ |
@@ -61,7 +67,7 @@ corresponding pin number:
 * OE = GPIO 18
 * CLK = GPIO 17
 * LAT (STROKE) = GPIO 4
-* P0 R1/G1/B1 = 11 / 27 / 26 
+* P0 R1/G1/B1 = 11 / 27 / 7 
 * P0 R2/G2/B2 = 8 / 9 / 10
 
 * P1 R1/G1/B1 = 12 / 5 / 6 
@@ -102,9 +108,12 @@ ref
 
 [[RPI-dat]] based 
 
+
+### RPI software 
+
 [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix/)
 
-
+- use log see here - [[MPC1073-test-log-dat]] - [[RMP-driver-setup-dat]] - [[RMP-driver-cmd-dat]]
 
 ## ref
 
@@ -124,5 +133,6 @@ forum - https://rpi-rgb-led-matrix.discourse.group/t/looking-for-a-small-form-fa
 
 - development for [[RMP-RPI-CM4-dat]] will not work
 
+- [[hub75-dat]]
 
-
+- [[raspberry-pi-dat]]
