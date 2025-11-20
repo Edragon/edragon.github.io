@@ -104,6 +104,52 @@ MicroA_2_A_Female
 - USB CDC / Serial
 - USB JTAG 
 
+## functions 
+
+## 📌 What Is **MHL**?
+**MHL (Mobile High-Definition Link)** is an older technology that allows a phone’s **micro-USB port** to output video to a TV via **HDMI**.
+
+### Key Features
+- Uses **micro-USB → HDMI** adapters
+- Requires **hardware support** inside the phone
+- Needs **external power** (adapter has a power input)
+- Supported mostly from **2012–2016**
+- Max output usually **1080p**, later versions support 4K
+
+### Commonly Supported On
+- Older Samsung Galaxy phones  
+- Sony Xperia  
+- HTC and LG phones  
+
+### Not Supported On
+- **Any Google Pixel model**  
+- Most modern USB-C phones
+
+---
+
+## 📌 What Is **SlimPort**?
+**SlimPort** is another wired video output standard, similar to MHL but more flexible.
+
+### Key Features
+- Converts phone’s USB into:
+  - **HDMI**
+  - **DisplayPort**
+  - **VGA**
+  - **DVI**
+- Often **no external power** needed
+- Supported roughly from **2013–2017**
+- Max output up to **4K @ 30Hz**
+
+### Commonly Supported On
+- Nexus 4  
+- Nexus 5  
+- Nexus 7 (2013)  
+- LG G2 / G3  
+- Some tablets & Chromebooks  
+
+
+
+
 
 
 ## ref 

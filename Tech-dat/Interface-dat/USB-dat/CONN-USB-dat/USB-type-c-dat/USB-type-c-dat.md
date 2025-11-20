@@ -6,6 +6,8 @@
 
 - [[peripherals-dat]]
 
+- [[USB-dat]]
+
 ## functions 
 
 - [[USB-charging-dat]] - [[USB-PD-dat]]
