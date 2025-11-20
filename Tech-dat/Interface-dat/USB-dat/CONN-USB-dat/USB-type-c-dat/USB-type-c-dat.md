@@ -6,6 +6,13 @@
 
 - [[peripherals-dat]]
 
+## functions 
+
+- [[USB-charging-dat]] - [[USB-PD-dat]]
+
+- [[USB-OTG-dat]] 
+
+- [[displayPort-dat]]
 
 
 ## history 

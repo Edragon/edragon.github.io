@@ -1,6 +1,15 @@
 
 # HDMI-dat
 
+
+## usage 
+
+- [[HDMI-dat]] - [[usb-type-C-dat]] - need [[displayport-dat]]
+
+- [[USB-dat]]
+
+## SCH 
+
 ![](2023-11-30-15-54-05.png)
 
 ![](2023-11-30-15-54-16.png)

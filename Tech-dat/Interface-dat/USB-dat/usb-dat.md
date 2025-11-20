@@ -28,7 +28,7 @@
 
 ## USB variations 
 
-- [[USB2.0-dat]] - [[type-c-dat]]
+- [[USB-2.0-dat]] - [[usb-type-c-dat]]
 
 ## Devices 
 

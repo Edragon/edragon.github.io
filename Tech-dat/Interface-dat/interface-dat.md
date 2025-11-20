@@ -25,6 +25,8 @@
 
 - [[PCIE-dat]] - [[mini-PCIE-dat]]
 
+- [[HDMI-dat]] - [[displayport-dat]]
+
 
 more at [[cable-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
 
