@@ -21,6 +21,17 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 
 - [[MPC1073-DAT]]
 
+
+## unsort 
+
+- [[Xilinx-dat]] - XCF16PVOG48C == [[FPGA-dat]] - Configuration Memory Flash 16Mb PROM (ST Micro), Lead Free
+
+
+
+
+
+
+
 ## ref 
 
 - [[memory-dat]] - [[EEPROM]]

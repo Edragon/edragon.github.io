@@ -39,6 +39,28 @@ for ADC-AVDD
 - Voltage References | LM336Z25 - 2.49 V, 2% Programmable Shunt Regulator
 
 
+
+## voltage reference 
+
+- ADR435BRZ - Ultralow Noise XFET Voltage References with Current Sink and Source Capability
+
+- [[TL431-dat]] - [[voltage-reference-dat]]
+
+- [[supervisory-dat]]
+
+| Feature                  | Voltage Reference         | Supervisory IC                     |
+| ------------------------ | ------------------------- | ---------------------------------- |
+| Purpose                  | Provide precise voltage   | Monitor power & generate reset     |
+| Output type              | Analog voltage            | Digital reset                      |
+| Accuracy                 | Very high (ppm/°C)        | Moderate (1–3%)                    |
+| Noise                    | Very low                  | Not relevant                       |
+| Used in                  | Analog precision circuits | MCU, CPU, digital systems          |
+| Extra functions          | None                      | Watchdog, manual reset, sequencing |
+| Affects system start-up? | No                        | Yes                                |
+
+
+
+
 ## ref 
 
 - [[tech-dat]] 

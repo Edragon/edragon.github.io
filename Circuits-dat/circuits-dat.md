@@ -2,7 +2,7 @@
 # circuits-dat 
 
 
-- [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[logic-level-shifter-dat]]
+- [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[logic-level-shifter-dat]] - [[multiplexer-dat]]
 
 - [[74xx-dat]]
 
@@ -45,7 +45,7 @@
 
 - [[Vref-dat]]
 
-
+- [[Multiplexer-dat]]
 
 
 
