@@ -3,11 +3,11 @@
 
 ## specs 
 
-20 - M5 - 10 - 6 == for groove width 6.2 mm 2020 [[Alu_Extrusion-dat]]
+20 - M5 - 10 - 6 == for groove width 6.2 mm 2020 [[Alu-Extrusion-dat]]
 
 ![](2025-03-13-17-28-08.png)
 
-40 - M5 - 19.5 - 8 == for groove width 8.2 mm 4040 [[Alu_Extrusion-dat]]
+40 - M5 - 19.5 - 8 == for groove width 8.2 mm 4040 [[Alu-Extrusion-dat]]
 
 ![](2025-03-13-17-29-21.png)
 

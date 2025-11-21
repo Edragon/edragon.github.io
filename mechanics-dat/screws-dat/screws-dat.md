@@ -32,6 +32,18 @@
 | **Common Example**    | Hex bolt with nut on the other end                 | Wood screw going into wood directly                                 |
 
 
+
+## fit size 
+
+### Common Screw Size Reference
+
+| Item                                 | M3         | M4      |
+| ------------------------------------ | ---------- | ------- |
+| **Screw Shaft Diameter**             | 3.0 mm     | 4.0 mm  |
+| **Button/Socket Head Diameter**      | 5.5–6.0 mm | 7.0 mm  |
+| **Countersunk Head Diameter**        | ~5.6 mm    | ~7.5 mm |
+| **Washer Outer Diameter (standard)** | 6.0 mm     | 8.0 mm  |
+
 ## common used bolt 
 
 - hex head bolt 

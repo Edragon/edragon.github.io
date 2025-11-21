@@ -2,7 +2,7 @@
 # PixiePlacer-Y-dat.md
 
 
-- [[motion-system-dat]] - [[alu_extrusion-dat]]
+- [[motion-system-dat]] - [[Alu-Extrusion-dat]]
 
 ## 3D View 
 

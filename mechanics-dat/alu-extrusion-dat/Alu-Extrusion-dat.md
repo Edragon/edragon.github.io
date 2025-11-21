@@ -1,10 +1,13 @@
 
-# Alu_Extrusion-dat
+# Alu-Extrusion-dat
 
 
-- [[Alu_Extrusion]] - [[screws-dat]] - [[t-nut-dat]]
+- [[Alu-Extrusion]] - [[screws-dat]] - [[t-nut-dat]]
 
 - [[case-aluminium-extrusion-dat]]
+
+
+- [[ALU-extrusion-1515-sys-dat]]
 
 ## Aluminum Extrusion Profiles
 
@@ -37,18 +40,6 @@ M3 T-nut + M3*10
 ![](2025-02-26-19-37-15.png)
 
 groove size 5.5 mm
-
-### extra profiles: 
-
-- 15x15
-
-thickness version 1.0 mm, other versions include 1.5 mm, 0.8 mm
-
-![](2025-02-19-14-30-08.png)
-
-![](2025-02-19-14-31-59.png)
-
-
 
 
 
@@ -83,4 +74,4 @@ If you want to use M3 screws with larger extrusions like 1515, 2020, or 4040, yo
 
 - [[mechanics-dat]] - [[mechanics]]
 
-- [[Alu_Extrusion]]
+- [[Alu-Extrusion]]

@@ -9,7 +9,7 @@
 
 - raw BOM file [[PixiePlacer-BOM-dat]]
 
-- [[PixiePlacer-Frame-dat]] - [[ALU_extrusion-dat]]
+- [[PixiePlacer-Frame-dat]] - [[Alu-Extrusion-dat]]
 
 - [[PixiePlacer-Y-dat]]
 

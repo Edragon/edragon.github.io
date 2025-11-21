@@ -38,7 +38,7 @@ already had a steering system.
 
 ## electric go-kart
 
-with suspension system, and [[Alu_Extrusion-dat]] [[frame-dat]]
+with suspension system, and [[Alu-Extrusion-dat]] [[frame-dat]]
 
 highly customizable, you can add a seat, and a steering wheel, and even a brake system.
 

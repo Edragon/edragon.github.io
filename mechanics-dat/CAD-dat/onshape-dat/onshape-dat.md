@@ -1,6 +1,13 @@
 
 # onshape-dat
 
+
+## relevant 
+
+- [[ALU-extrusion-dat]] - [[Alu_Extrusion-dat]]
+
+## commands 
+
     shift + enter
     Accept & repeat command
     enter
@@ -80,3 +87,8 @@
     ctrl/cmd
     z
     Undo
+
+
+## ref 
+
+- [[cad-dat]]

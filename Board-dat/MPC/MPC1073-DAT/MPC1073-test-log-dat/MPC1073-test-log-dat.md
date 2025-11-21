@@ -75,6 +75,8 @@ multiplexing =1
 Tested panel is 64x32 P4-256x128-2121-A1, multiplexing=0
 
     ./examples-api-use/demo -D 0 --led-cols=64 --led-rows=32 --led-multiplexing=0
+    ./examples-api-use/demo -D 0 --led-cols=64 --led-rows=32 --led-multiplexing=0 --led-no-hardware-pulse
+    ./demo -D 1 runtext.ppm --led-slowdown-gpio=4 --led-cols=64 --led-rows=32 --led-no-hardware-pulse 
 
 ![](2024-11-07-18-11-15.png)
 
