@@ -23,3 +23,11 @@ For 3.3V systems, use the **MAX3490**:
 - Fully compatible with 3.3V logic levels
 - Drop-in solution for RS-485/RS-422 communication
 - Low-power and ESD-protected
+
+![](2025-11-23-18-27-33.png)
+
+
+## ref 
+
+- [[MAX490-dat]] - [[maxim-dat]] - [[analog-device-dat]]
+

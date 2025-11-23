@@ -10,3 +10,4 @@
 ## Receiver Input Voltage Range
 - **Common-mode voltage range:** -7V to +12V
 
+- [[RS422-dat]]
