@@ -1,6 +1,10 @@
 
 # tools-dat
 
+- [[fab-workspace-dat]] - [[multimeter-dat]] - [[SMD-tester-dat]]
+
+
+
 - [[PCB-tools-dat]] 
 
 - [[soldering-tools-dat]]

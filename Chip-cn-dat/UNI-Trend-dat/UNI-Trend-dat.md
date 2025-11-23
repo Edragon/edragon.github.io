@@ -3,6 +3,12 @@
 
 Uni-Trend Technology (China) Co., Ltd. is one of the well-known test and measurement solutions provider in Asia. Uni-Trend is an ISO9001 and ISO14001 certified company, with T&M products meeting certifications including CE, ETL, UL, GS, etc.
 
+
+## UT118C Digital Multimeter
+
+
+
+
 ## UT118B Pen Type Digital Multimeter
 
 ![](2025-08-13-14-33-12.png)
@@ -28,4 +34,4 @@ Products and Solutions Provider”
 
 ## ref 
 
-- [[NI-Trend]] - [[multimeter]]
+- [[UNI-Trend]] - [[multimeter]]

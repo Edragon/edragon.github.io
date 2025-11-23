@@ -2,7 +2,19 @@
 # multimeter-dat
 
 
-- [[UNI-Trend-dat]]
+
+
+## good list 
+
+
+- [[fluke-dat]] - [[Agilent-dat]] Agilent (安捷伦)
+
+- [[Klein-tools-dat]] - [[Extech-dat]] - [[Amprobe-dat]]
+
+- [[UNI-Trend-dat]] - [[mastech-dat]]
+
+
+
 
 
 ## prerequisite
@@ -12,14 +24,14 @@
 
 ## bad list 
 
-|                  | Model        | Type/Style           | mark | Issue/Note                     |
-| ---------------- | ------------ | -------------------- | ---- | ------------------------------ |
-| [[UT-trend-dat]] | UT116C       | SMD tester           | bad  | Very slow response speed       |
-|                  | winAPEX 118A | Pen-style multimeter | bad  | Very slow response speed       |
-| [[UT-trend-dat]] | UT89XD       | General multimeter   | ??  | ?? |
-| [[vitor-dat]]    | VC9808+      | General multimeter   |
-| [[vitor-dat]]    | VC830L       | General multimeter   |
-| [[vitor-dat]]    | VC921        | General multimeter   | bad  | respone slow                   |
+|                  | Model        | Type/Style           | mark | Issue/Note    |
+| ---------------- | ------------ | -------------------- | ---- | ------------- |
+| [[UT-trend-dat]] | UT116C       | SMD tester           | bad  | slow response |
+|                  | winAPEX 118A | Pen-style multimeter | bad  | slow response |
+| [[UT-trend-dat]] | UT89XD       | General multimeter   | ??   | ??            |
+| [[vitor-dat]]    | VC9808+      | General multimeter   |      |               |
+| [[vitor-dat]]    | VC830L       | General multimeter   |      |               |
+| [[vitor-dat]]    | VC921        | General multimeter   | bad  | slow respone  |
 
 [[UT-trend-dat]] - UT70B/UT70A/UT70C/UT70D
 
@@ -27,14 +39,7 @@
 
 
 
-## good list 
 
-| Model           | Type/Style       | Issue/Note                     |
-| --------------- | ---------------- | ------------------------------ |
-| LIYIGAO UA6013L | Capacitor tester | Good for capacitor measurement |
-
-
-- [[fluke-dat]] - [[Agilent-dat]]
 
 
 ## function check list 
