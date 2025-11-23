@@ -13,7 +13,7 @@
 
 - [[UNI-Trend-dat]] - [[mastech-dat]]
 
-
+- [[victor-dat]]
 
 
 
@@ -29,9 +29,9 @@
 | [[UT-trend-dat]] | UT116C       | SMD tester           | bad  | slow response |
 |                  | winAPEX 118A | Pen-style multimeter | bad  | slow response |
 | [[UT-trend-dat]] | UT89XD       | General multimeter   | ??   | ??            |
-| [[vitor-dat]]    | VC9808+      | General multimeter   |      |               |
-| [[vitor-dat]]    | VC830L       | General multimeter   |      |               |
-| [[vitor-dat]]    | VC921        | General multimeter   | bad  | slow respone  |
+| [[victor-dat]]    | VC9808+      | General multimeter   |      |               |
+| [[victor-dat]]    | VC830L       | General multimeter   |      |               |
+| [[victor-dat]]    | VC921        | General multimeter   | bad  | slow respone  |
 
 [[UT-trend-dat]] - UT70B/UT70A/UT70C/UT70D
 
