@@ -5,13 +5,25 @@
 
 ## Power Supply Board 
 
-- [[OPM1027-dat]] - [[OPM1028-dat]]
+- [[OPM1027-dat]] - [[OPM1185-dat]] - [[OPM1028-dat]]
 
 ## Bread baord 
 
 https://www.electrodragon.com/product/breadboard-wside-power-channels/
 
 
+
 ## SCH 
 
 ![](2023-12-19-15-42-01.png)
+
+
+
+
+
+
+
+
+## ref 
+
+- [[breadboard-dat]]

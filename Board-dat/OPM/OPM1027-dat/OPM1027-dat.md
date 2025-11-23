@@ -9,4 +9,11 @@
 - The upper and lower channels are independently controlled and can be switched to 0V, 3.3V, and 5V.
 - There are two sets of 3.3V and 5V DC output pins on the board for easy external use.
 
+
+
+## ref 
+
 - [[OPM1027-dat]] - [[OPM1028-dat]] - [[breadboard-power-dat]]
+
+
+- [[breadboard-dat]]

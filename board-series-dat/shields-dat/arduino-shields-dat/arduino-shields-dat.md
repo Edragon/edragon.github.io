@@ -12,6 +12,13 @@ pin header: - [[CCO3507-dat]] - [[CCO3509-dat]] - [[CCO3510-dat]] - [[arduino-pi
 
 
 
+
+[[breadboard-dat]] - [[DAS1058-dat]]
+
+
+
+
+
 ## ref 
 
 https://w.electrodragon.com/w/Category:Arduino_Shields
