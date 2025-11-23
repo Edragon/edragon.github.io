@@ -4,15 +4,14 @@
 ![](2024-10-04-17-44-42.png)
 
 
-https://www.electrodragon.com/product/mutiple-output-dc-power-module/
-
+[DC Power Supply Buck Module, VIN, 5V, 3.3V R3](https://www.electrodragon.com/product/mutiple-output-dc-power-module/)
 
 
 ## Input Output 
 
 - Input = 7-12V from DC barrel Jack or pin headers 
   - idealy using 9V 1A power plug
-  - 12V power plug is working but will be a little hot 
+  - 12V power plug is working but will be HOT, depends on the load current
 - Ouput1 = 5V 1A
 - Output2 = 3.3V 2A 
 
@@ -27,6 +26,8 @@ https://www.electrodragon.com/product/mutiple-output-dc-power-module/
 ## ref 
 
 - [[AMS1117-dat]] - [[LDO-dat]]
+
+- [[power-supply-lab-dat]]
 
 - [[ESP8266-dat]]
 

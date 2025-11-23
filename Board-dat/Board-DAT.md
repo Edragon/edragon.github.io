@@ -486,7 +486,7 @@ MT7688
 
 Darlinton driver - [[SCU1024-dat]] == [[stepper-dat]]
 
-[[mcu-relay]] - [[SCU1044-dat]] - [[SCU1047-dat]] - [[SCU1048-dat]] - [[SCU1050-dat]]
+[[MCU-relay-dat]] - [[SCU1044-dat]] - [[SCU1047-dat]] - [[SCU1048-dat]] - [[SCU1050-dat]]
 
 [[TEC12706-dat]] - [[SCU1033-DAT]] - [[SCU1034-dat]]
 

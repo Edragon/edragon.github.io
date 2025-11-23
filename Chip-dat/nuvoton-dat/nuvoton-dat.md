@@ -1,7 +1,7 @@
 
 # nuvoton-dat
 
-- legacy wiki page - https://w.electrodragon.com/w/Category:Nuvoton
+- [legacy wiki page](https://w.electrodragon.com/w/Category:Nuvoton)
 
 
 
@@ -101,9 +101,16 @@ https://github.com/OpenNuvoton/ISPTool/releases/tag/v4.15
 - https://github.com/Edragon/Nuvoton
 - https://github.com/Edragon/nuc505
 - https://github.com/Edragon/nuvoton-8051 - [[N76E003-dat]]
-- https://github.com/Edragon/nuvoton-app
+
+- https://github.com/Edragon/nuvoton-app - [[private-repo-dat]]
+
 - https://github.com/Edragon/nuvoton-ARM9
-- 
+
+
+
+
+
+
 ## ref 
 
 - [[8051-dat]]

@@ -19,7 +19,7 @@
 
 - [[allwinner-dat]]
 
-
+- [[STC-dat]]
 
 
 ## other types 

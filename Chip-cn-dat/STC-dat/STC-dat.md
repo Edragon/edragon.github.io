@@ -34,6 +34,11 @@ STK12C68
 
 - https://github.com/Edragon/STC
 
+
+
+
+
+
 ## SDK 
 
 STC ISP programming software (v6.95U)
@@ -43,6 +48,10 @@ install keil header files
 ![](2025-07-13-20-50-41.png)
 
 - [[Keil-C51-dat]] 
+
+
+
+
 
 
 
