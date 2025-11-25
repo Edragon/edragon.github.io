@@ -29,6 +29,12 @@ un-finished yet
 
 ![](2025-10-23-14-02-44.png)
 
+- [[NWI1101-dat]]
+
+more unsort modules 
+
+![](2025-11-25-17-01-03.png)
+
 ### middle == ESP32-D0WD-V3 (revision v3.1)
 
 ![](2025-10-23-15-54-18.png)

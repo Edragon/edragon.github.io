@@ -30,6 +30,11 @@ Models selector 选型工具
 - [[AIT-ESP32-modules-dat]]
 
 
+## genius modules packaging 
+
+![](2025-11-25-17-01-49.png)
+
+
 
 
 
