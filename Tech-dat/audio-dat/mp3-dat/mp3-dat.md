@@ -2,6 +2,10 @@
 # mp3-dat
 
 
+- [[mp3-decoder-dat]]
+
+- [[raspberry-pi-dat]]
+
 ## raspberry pi audio test 
 
 ### speaker-test
@@ -23,3 +27,10 @@
 web stream: 
 
     audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.mp3"); // 128k mp3 stream
+
+
+
+
+## ref 
+
+- [[audio-dat]]

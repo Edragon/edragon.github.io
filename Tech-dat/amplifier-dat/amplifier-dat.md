@@ -20,7 +20,7 @@ M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-f
 | **Input Impedance**   | High (audio optimized)          | High                         |
 | **Best for**          | Audio applications              | Battery-powered, general use |
 
-- [[Audio-amplifier-dat]]
+- [[amplifier-audio-dat]]
 
 
 | Alternative Chip | Key Differences/Advantages                         |

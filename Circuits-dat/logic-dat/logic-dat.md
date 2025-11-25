@@ -14,7 +14,7 @@
 
 - [[logic-gate-dat]] - [[shift-register-dat]] - [[buffer-dat]] - [[logic-inverter-dat]]
 
-- [[flipflop-dat]] - [[counter-dat]] - [[decoder-dat]] - [[mux-dat]] - [[shiftreg-dat]] - [[pll-dat]] - [[timing-dat]] - [[voltage-level-dat]] - [[adc-dat]] - [[dac-dat]] - [[opamp-dat]] - [[comparator-dat]] - [[sensor-interface-dat]] - [[driver-dat]] - [[motor-driver-dat]] - [[led-driver-dat]] - [[relay-driver-dat]] - [[audio-amplifier-dat]] - [[power-amplifier-dat]]
+- [[flipflop-dat]] - [[counter-dat]] - [[decoder-dat]] - [[mux-dat]] - [[shiftreg-dat]] - [[pll-dat]] - [[timing-dat]] - [[voltage-level-dat]] - [[adc-dat]] - [[dac-dat]] - [[opamp-dat]] - [[comparator-dat]] - [[sensor-interface-dat]] - [[driver-dat]] - [[motor-driver-dat]] - [[led-driver-dat]] - [[relay-driver-dat]] - [[amplifier-audio-dat]] - [[power-amplifier-dat]]
 
 - [[multiplexer-dat]]
 

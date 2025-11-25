@@ -64,7 +64,7 @@ see demo video of frequency below
 
 see microSD read wav file and play demo video below 
 
-[[Audio-amplifier-dat]]
+[[amplifier-audio-dat]]
 
     #define I2S_DOUT      26  // I2S Data Output
     #define I2S_BCLK      5  // I2S Bit Clock

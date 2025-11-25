@@ -18,4 +18,4 @@ https://www.diodes.com/assets/Datasheets/PAM8908.pdf
 
 ## ref 
 
-- [[Audio-amplifier-dat]]
+- [[amplifier-audio-dat]]

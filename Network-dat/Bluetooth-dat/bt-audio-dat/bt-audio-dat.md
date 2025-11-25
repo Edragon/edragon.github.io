@@ -83,3 +83,5 @@ Bluetooth 5.0 does support longer range but with a 10 meters range this solution
 - [[I2S-dat]] - [[Analog-audio-dat]] - [[TP6132-dat]]
 
 - [[NBL1050-dat]] - [[NBL1054-dat]] - [[NBL1055-dat]]
+
+- [[audio-dat]] - [[amplifier-audio-dat]]

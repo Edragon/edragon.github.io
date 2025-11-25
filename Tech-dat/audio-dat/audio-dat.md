@@ -1,14 +1,14 @@
 
 # audio-dat
 
-- [[mp3-dat]] - [[wav-dat]]
+- [[mp3-dat]] - [[wav-dat]] - [[mp3-decoder-dat]]
 
-- [[amplifier-dat]] - [[dac-dat]]
+- [[amplifier-dat]] - [[dac-dat]] - [[amplifier-audio-dat]]
 
 
 - [[I2S-dac-dat]] - [[I2S-microphone-dat]] - [[I2S-speaker-dat]] - [[I2S-amplifier-dat]]
 
-
+- [[bt-audio-dat]]
 
 
 ## chip 
@@ -54,7 +54,7 @@ wiring to [[D1-dat]] - [[F133-dat]]
 
 SCH2 
 
-- PA [[audio-amplifier-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]]
+- PA [[amplifier-audio-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]]
 
 ![](2025-11-01-19-39-39.png)
 
