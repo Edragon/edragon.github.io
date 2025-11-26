@@ -9,6 +9,8 @@
 
 - [[tools-dat]] - [[mechanic-tools-dat]] - [[mechanic-tools]]
 
+- [[cable-dat]]
+
 - [[glue-dat]]
 
 - [[motion-system-dat]]
