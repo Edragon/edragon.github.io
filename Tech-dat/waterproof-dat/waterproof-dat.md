@@ -5,6 +5,8 @@
 
 - [[waterproof-tape-dat]] == 布基胶带 
 
+- [[waterproof-connector-dat]]
+
 
 ## waterproof level 
 
@@ -16,9 +18,15 @@
 
 - IPX68 
 
+## tech 
+
+- [[pressure-dat]]
 
 
 
+## apps 
+
+- [[submarine-dat]]
 
 
 ## ref 
