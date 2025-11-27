@@ -41,6 +41,9 @@
 - [[location-dat]]
 
 
+## mechanics 
+
+- [[suspension-dat]] - [[mechanics-dat]] - [[chassis-dat]] - [[wheels-dat]] - [[shaft-connector-dat]] 
 
 
 ## boards 
@@ -48,6 +51,16 @@
 - [[SDR1064-dat]] - [[SDR1117-dat]]
 
 
+
+## rover info 
+
+![](2025-11-27-15-32-34.png)
+
+## stroller version 
+
+![](2025-11-27-15-33-49.png)
+
+![](2025-11-27-15-34-08.png)
 
 
 ## Rover Version 

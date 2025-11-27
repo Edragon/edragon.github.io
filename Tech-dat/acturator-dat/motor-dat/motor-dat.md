@@ -25,7 +25,7 @@ brushless
 
 - [[stepper-dat]] - [[servo-dat]]
 
-- [[Drum-brake-motor-dat]]
+- [[motor-Drum-brake-dat]]
 
 - [[vibrator-dat]]
 

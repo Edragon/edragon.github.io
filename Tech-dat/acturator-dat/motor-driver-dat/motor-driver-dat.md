@@ -9,11 +9,18 @@
 
 - [[cable-dat]] - [[conn-cable-terminal-dat]] - [[wire-2-wire-dat]]
 
+
+
+- [[BLDC-dat]]
+
 ## tech 
 
 - [[PWM-chopper-type-motor-driver]] - [[FOC-dat]] - [[CC-CCW-control-dat]]
 
 - [[AC-mains-dat]] - [[motor-dat]] drive - [[IGBT-dat]]
+
+
+
 
 ## Board 
 

@@ -3,6 +3,21 @@
 
 - [[ESC-dat]] - [[motor-driver-dat]]
 
+- [[Imperial-dat]]
+
+
+
+## control methods 
+
+- [[ESC-dat]]
+
+- [[sensor-hall-dat]]
+
+- [[simpleFOC-dat]] 
+
+- [[FOC-dat]]
+
+
 ## specs 
 
 - sensored / sensorless
