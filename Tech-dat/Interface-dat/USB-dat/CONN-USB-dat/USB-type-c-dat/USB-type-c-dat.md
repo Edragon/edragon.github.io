@@ -20,6 +20,7 @@
 
 - [[thunderbolt-dat]]
 
+- [[type-c-to-ethernet-dat]]
 
 ## hardware 
 

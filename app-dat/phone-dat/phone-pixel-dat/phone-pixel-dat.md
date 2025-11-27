@@ -2,6 +2,12 @@
 # phone-pixel-dat
 
 - [[pixel-7-dat]] - [[pixel-3xl-dat]]
+ 
+- [[usb-type-c-dat]] - [[type-c-to-ethernet-dat]] - [[displayPort-dat]]
+
+
+
+
 
 
 ## 📱 Google Pixel 7 — Charging Support Overview
