@@ -57,3 +57,10 @@
      - Then a 6–8 mm intermediate hole
      - Finish with the final hole (hole saw/step bit/large drill bit)
    - ⚠️ Drilling large holes in one go → 90% chance of cracking or chipping.
+
+
+
+
+## ref 
+
+- [[PMMA]] - [[material]]
