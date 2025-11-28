@@ -12,7 +12,9 @@
 
 - IP69 
 
-- IP68 
+- [[IP68-dat]] 
+
+
 
 - PA66 - [[plastic-dat]]
 
@@ -22,11 +24,11 @@
 
 - [[pressure-dat]]
 
-
+- [[case-waterproof-dat]]
 
 ## apps 
 
-- [[submarine-dat]]
+- [[submarine-dat]] - [[submersible-dat]]
 
 
 ## ref 

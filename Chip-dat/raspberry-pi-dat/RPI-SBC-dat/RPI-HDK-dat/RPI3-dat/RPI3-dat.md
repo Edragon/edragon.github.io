@@ -10,6 +10,7 @@
 
 ## Pin Definitions 
 
+board dimension == 85.6 x 56.5 mm
 
 ![](2023-11-30-15-41-45.png)
 

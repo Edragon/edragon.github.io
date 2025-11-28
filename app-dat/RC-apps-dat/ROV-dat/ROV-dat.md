@@ -19,6 +19,15 @@
 
 
 
+## opensources 
+
+https://github.com/OpenROV
+
+https://github.com/UoM-Robotics-Society/ROV-project
+
+[topic ROV == https://github.com/topics/rov?l=javascript&o=desc&s=stars](https://github.com/topics/rov?l=javascript&o=desc&s=stars)
+
+
 ## ref 
 
 - [[RC-apps-dat]]
