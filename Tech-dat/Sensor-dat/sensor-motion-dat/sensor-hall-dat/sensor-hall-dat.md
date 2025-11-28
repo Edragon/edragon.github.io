@@ -1,6 +1,9 @@
 
 # sensor-hall-dat
 
+- [[sensor-hall-swtich-dat]]
+
+
 WCS2800 - Hall Effect Base Linear Current Sensor
 
 

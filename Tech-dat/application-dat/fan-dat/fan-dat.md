@@ -3,6 +3,12 @@
 
 
 
+## apps 
+
+- [[hot-air-station-dat]]
+
+
+
 ## small fan control 
 
 - [[RPI-CM4-expansion-board-dat]]

@@ -7,7 +7,10 @@
 
 - [[KCD4-dat]] - [[KCD3-dat]] - [[KCD1-dat]]
 
-- [[hall-switch-dat]]
+- [[sensor-hall-switch-dat]]
+
+- [[sensor-tilt-switch-dat]] - [[sensor-dat]]
+
 
 
 
