@@ -6,9 +6,14 @@
 
 - [[BMS-dat]] - [[active-BMS-dat]] - [[passive-BMS-dat]]
 
-- [[battery-rechargerable-dat]] - [[lead-acid-battery-dat]] - [[LFP-dat]]
+- [[battery-rechargerable-dat]] 
 
-- [[li-battery-dat]] - [[li-battery-app-dat]]
+- [[lead-acid-battery-dat]] - [[LFP-dat]]
+
+
+
+
+- [[li-battery-dat]] - [[li-battery-app-dat]] - [[18650-dat]]
 
 
 - [[battery-pack-dat]] - [[battery-holder-dat]]

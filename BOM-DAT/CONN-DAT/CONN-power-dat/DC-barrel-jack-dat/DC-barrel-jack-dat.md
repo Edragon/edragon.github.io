@@ -31,59 +31,42 @@
 
 ![](2024-11-20-13-38-45.png)
 
-DC-099 DC电源插座 5.5*2.1（1个）
+| Part Number | Outer | Inner | Specification                       |
+| ----------- | ----- | ----- | ----------------------------------- |
+| DC-099      | 5.5   | 2.1   | DC Power Socket                     |
+| DC-099      | 5.5   | 2.5   | DC Power Socket                     |
+| DC-099      | 5.5   | 2.1   | DC Power Socket with Thread         |
+| DC-099      | 5.5   | 2.5   | DC Power Socket with Thread         |
+| DC003A      | 3.5   | 1.3   | DC Power Socket                     |
+| DC003       | 3.5   | 1.3   | DC Power Socket Flat                |
+| DC005       | 5.5   | 2.1   | SMD 4-Pin                           |
+| DC005       | 5.5   | 2.5   | SMD 4-Pin                           |
+| DC-099      | 5.5   | 2.1   | DC Power Socket with Waterproof Cap |
+| DC-099      | 5.5   | 2.5   | DC Power Socket with Waterproof Cap |
+| DC-044      | 5.5   | 2.1   | Power Connector                     |
+| DC023       | `4.4` | 1.65  | Power Socket (ID: 4.0×1.7)          |
+| DC-007B     | 5.5   | 2.1   | Iron Shell Bracket                  |
+| DC-007B     | 5.5   | 2.5   | Iron Shell Bracket                  |
+| DC44A       | 5.5   | 2.1   | DC Power Socket                     |
+| DC-015      | 5.5   | 2.1   | Power Socket                        |
+| DC031A      | N/A   | N/A   | SMD 4-Pin Power Socket              |
+| DC-011C     | `2.5` | 0.7   | 5-Pin SMD Socket                    |
+| DC-012      | 5.5   | 2.5   | Power Socket                        |
+| DC-005      | 5.5   | 2.1   | 2-Pin Power Socket                  |
+| DC-015      | 5.5   | 2.5   | Power Socket                        |
+| N/A         | 5.5   | 2.1   | Power Socket with Cable (15cm)      |
+| N/A         | 5.5   | 2.1   | Spring Contact Power Plug (Yellow)  |
+| N/A         | 5.5   | 2.5   | Spring Contact Power Plug (Yellow)  |
+| N/A         | `4.0` | 1.7   | Power Plug (Yellow)                 |
+| N/A         | `4.8` | 1.7   | Power Plug (Yellow)                 |
 
-DC-099 DC电源插座 5.5*2.5（1个）
 
-DC-099 DC电源插座 5.5*2.1 螺纹扁口（1个）
 
-DC-099 DC电源插座 5.5*2.5 螺纹扁口（1个）
+## uncommon jack 
 
-DC003A 3.5*1.3 DC电源插座（10个）
+Positive negative and extra earth pin in center (white)
 
-DC003/3.5*1.3mm 平口（10个）
-
-DC005 四脚贴片 5.5-2.1（5个）
-
-DC005 四脚贴片 5.5-2.5（5个）
-
-DC-099 DC电源插座 5.5*2.1带防水帽（1个）
-
-DC-099 DC电源插座 5.5*2.5带防水帽（1个）
-
-DC-044 电源接口 5.5*2.1MM(10个）
-
-DC023 电源座 4.4*1.65mm 内径4.0*1.7(5个）
-
-DC-007B带铁壳支架5.5*2.1（1个）
-
-DC-007B带铁壳支架5.5*2.5（1个）
-
-DC44A 5.5*2.1 DC电源插座（2个）
-
-![](2024-11-20-13-39-29.png)
-
-DC-015插座 5.5-2.1MM（10个）
-
-DC031A 四脚贴片 DC电源插座（5个）
-
-DC-011C 2.5-0.7 DC011CDC座 5脚贴片（5个）
-
-5.5*2.5 DC-012插座(10个)
-
-5.5*2.1 DC-005插座2脚（20个）
-
-DC-015插座 5.5-2.5MM(5个）
-
-电源插座带线5.5*2.1MM 长15CM (2个)
-
-DC5.5*2.1 弹片式 电源插头 黄头（2个）
-
-DC5.5*2.5 弹片式 电源插头 黄头（2个）
-
-DC4.0*1.7 电源插头 黄头（2个）
-
-DC4.8*1.7 电源插头 黄头（2个）
+![](2025-11-28-15-29-58.png)
 
 
 ## ref 

@@ -5,7 +5,7 @@
 
 - [[battery-protection-dat]] - [[BMS-dat]]
 
-
+- [[battery-charger-dat]]
 
 
 ## charge time 

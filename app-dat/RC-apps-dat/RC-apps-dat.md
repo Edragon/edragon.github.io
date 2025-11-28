@@ -5,6 +5,8 @@
 
 - [[rover-dat]] - [[RC-car-dat]] - [[RC-car-hack-dat]] - [[video-rc-car-dat]]
 
+- [[Curiosity-rover-dat]]
+
 - [[quadcopter-dat]] - [[FPV-dat]]
 
 - [[airplane-dat]]
