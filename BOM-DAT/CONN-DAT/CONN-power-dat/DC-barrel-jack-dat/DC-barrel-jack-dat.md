@@ -1,6 +1,9 @@
 
 # DC-barrel-jack-dat
 
+
+
+
 - [[CCO3548-dat]] == 5.5-2.1mm DC barrel jack, 5.5mm outer diameter, 2.1mm inner diameter == https://www.electrodragon.com/product/dc-power-jack-male/
 
 - [[CCO3546-dat]] 5.5-2.1mm - [[CCO3547-dat]] 3.5-1.35mm DC barrel jack, 3.5mm outer diameter, 1.35mm inner diameter == https://www.electrodragon.com/product/20pcs-dc-5-5mm-female-pcb-power-jack-pole/
@@ -12,7 +15,9 @@
 
 
 
+- [[fab-workspace-dat]]
 
+- [[DC-barrel-jack]] - [[CONN]]
 
 # power-jack-dat
 
@@ -22,8 +27,23 @@
 
 
 - [[CPP1012-dat]] - [[CCO3546-dat]] - [[CCO3548-dat]] - [[CCO3527-dat]] 
-  
+
+
+## common kit 
+
+
+ten in one 
+
+![](2025-11-28-15-35-50.png)
+
+comprehensive [[laptop-dat]] [[dc-barrel-jack-dat]] kit 34 in 1 
+
+
+![](2025-11-28-15-39-03.png)
+
 ## Power Jack List 
+
+![](2025-11-28-15-38-25.png)
 
 ![](2024-11-20-13-37-54.png)
 

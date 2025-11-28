@@ -8,6 +8,9 @@
 
 
 
+- [[power-dat]] - [[DC-barrel-jack-dat]]
+
+
 ## ref 
 
 - [[workspace]]
