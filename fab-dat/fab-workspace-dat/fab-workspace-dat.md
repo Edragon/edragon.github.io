@@ -10,7 +10,20 @@
 
 - [[power-dat]] - [[DC-barrel-jack-dat]]
 
+- [[hot-air-station-dat]] - [[hot-air-station]]
+
+- [[soldering-iron-dat]] 
+
+- [[preheat-bed-dat]]
+
+
+
+- [[microscope-dat]]
+
+- [[logic-analyzer-dat]]
+
+
 
 ## ref 
 
-- [[workspace]]
+- [[fab-workspace]]

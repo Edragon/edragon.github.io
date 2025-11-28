@@ -27,7 +27,7 @@
 
 - [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] 
 
-- [[mechanics-dat]] - [[materials-dat]]
+- [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]]
 
 - [[BOM-DAT]] - [[case-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]]
 

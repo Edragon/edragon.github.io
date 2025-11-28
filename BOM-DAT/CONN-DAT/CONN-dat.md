@@ -12,7 +12,7 @@
 
 - [[Conn-IPEX-dat]] - [[CONN-SMA-dat]]
 
-
+- [[CONN-waterproof-dat]]
 
 - [[RJ-11-dat]] - [[RJ-45-dat]]
 

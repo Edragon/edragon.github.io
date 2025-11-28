@@ -1,4 +1,4 @@
-# RGB Matrix Panel Driver Board
+# RMP-driver-dat
 
 - [[RMP-driver-setup-dat]] - [[RMP-driver-cmd-dat]]
 
@@ -31,7 +31,7 @@
 
 - [[HUB75-dat]] - [[MPC1120-dat]]
 
-- [[RPI3-I2C0-dat.md]]
+- [[RPI3-I2C0-dat]]
 
 
 ## Typical wiring with RPI - for MPC1073 

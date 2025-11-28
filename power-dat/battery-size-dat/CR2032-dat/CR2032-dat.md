@@ -8,3 +8,8 @@ The CR2032 lithium coin cell battery typically supports the following continuous
 Range: 0.2 mA to 0.3 mA
 
 This current is ideal for low-power devices like remote controls, medical devices, and calculators that operate steadily over long periods.
+
+
+## ref 
+
+- [[battery-size-dat]]
