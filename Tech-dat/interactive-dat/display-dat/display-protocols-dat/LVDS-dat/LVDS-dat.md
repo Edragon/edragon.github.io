@@ -27,6 +27,10 @@ Whether it’s "parallel" or "serial" depends on how it’s used:
 
 
 
+## chip 
+
+- [[TI-signal-dat]]
+
 ## ref 
 
 - [[display-dat]]

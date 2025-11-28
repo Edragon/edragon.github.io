@@ -54,6 +54,7 @@ TPS7A89 == Small, Dual, 2-A, Low-Noise (3.8 μVRMS), LDO Voltage Regulator
 
 TPS76350DBVR == 150-mA, 10-V, low-dropout voltage regulator with enable
 
+TPS7A45xx Low-Noise Fast-Transient-Response 1.5-A Low-Dropout Voltage Regulators - TPS7A4501, TPS7A4515, TPS7A4518, TPS7A4525, TPS7A4533
 
 ## ref 
 

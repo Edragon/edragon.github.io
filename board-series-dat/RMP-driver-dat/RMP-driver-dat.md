@@ -31,6 +31,9 @@
 
 - [[HUB75-dat]] - [[MPC1120-dat]]
 
+- [[RPI3-I2C0-dat.md]]
+
+
 ## Typical wiring with RPI - for MPC1073 
 
 

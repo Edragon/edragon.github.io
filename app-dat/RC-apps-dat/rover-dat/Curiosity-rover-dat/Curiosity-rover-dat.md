@@ -8,6 +8,10 @@
 
 - [CAD animated video](https://www.youtube.com/watch?v=bP7p5Bd2d50&t=74s) 
 
+
+
+
+
 ## chassis 
 
 - [[rocker-bogie-suspension-dat]]

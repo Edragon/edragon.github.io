@@ -15,3 +15,15 @@
 
 
 
+## LVDS
+
+- [[LVDS-dat]] 
+
+SN65LVDS33, SN65LVDT33, SN65LVDS34, SN65LVDT34 - HIGH-SPEED DIFFERENTIAL RECEIVERS
+
+This family of four LVDS data line receivers offers the widest common-mode input voltage range in the industry. These receivers provide an input voltage range specification compatible with a 5-V PECL signal as well as an overall increased ground-noise tolerance. They are in industry standard footprints with integrated termination as an option.
+
+## ref 
+
+- [[TI-dat]]
+
