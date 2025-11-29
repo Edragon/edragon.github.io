@@ -29,6 +29,9 @@ this probably wrong or not P2P type
 | A         | RXD-        | TXD-         |Z      | 
 
 
+
+
+
 ## Use with arduino
 
 ## Demo video 
@@ -96,6 +99,16 @@ MAX490 will drive the line at all times → never floating.
 | Multi-drop RS-485-like bus | ✔️ Yes | Bus can float when idle |
 | Driver always enabled | ❌ No | Never tri-states |
 | Receiver-only use | ❌ No | Internal fail-safe exists |
+
+
+
+## chips 
+
+dual channels 
+
+- SN65C1167E, SN65C1168E - SN65C116xE Dual Differential Drivers and Receivers With ±15kV ESD Protection
+
+- [[TI-signal-dat]]
 
 
 ## ref

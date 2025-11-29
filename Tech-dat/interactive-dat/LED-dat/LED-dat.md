@@ -96,6 +96,15 @@ GPIO4:
 ![](2025-09-01-20-39-08.png)
 
 
+## panel LED indicator 
+
+ED PNL IND RGB DIF 13.80MM SLDR - 6211122304F
+
+LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15mA Blue Solder Lug
+
+![](2025-11-29-20-16-26.png)
+
+
 ## tech 
 
 - [[ACDC-dat]]

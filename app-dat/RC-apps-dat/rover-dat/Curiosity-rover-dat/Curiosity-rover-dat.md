@@ -14,6 +14,8 @@
 
 ## chassis 
 
+![](2025-11-29-20-10-44.png)
+
 - [[rocker-bogie-suspension-dat]]
 
 The **Curiosity rover** uses a special mobility system based on the famous NASA **“Rocker–Bogie Suspension”** design.  

@@ -145,7 +145,9 @@ The MGDM-25 series is a full family of high performance DC/DC power modules desi
 
 - NCP1529MUTBG - Buck Converter - DC-DC, High Efficiency, Adjustable Output Voltage, Low Ripple 1.7 MHz, 1 A
 
+## sealed prebuild module 
 
+- [[traco-power-dat]]
 
 
 ## ref 
