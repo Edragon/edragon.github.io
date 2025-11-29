@@ -13,7 +13,7 @@
 
 - [[glue-dat]]
 
-- [[motion-system-dat]]
+- [[mechanical-structure-dat/motion-system-dat/motion-system-dat]]
 
 - [[mechnical-structure-dat]]
 
@@ -35,6 +35,10 @@
 
 - [[plastic-dat]]
 
+- [[mechanical-structure-dat]] - [[PVC-tube-dat]] - [[aluminum-profile-dat]] - [[turnover-box-dat]] - [[cardboard-dat]] - [[shaft-plain-dat]] - [[shaft-dat]]
+
+- [[alu-extrusion-dat]]
+
 
 
 ## category 2.0 
@@ -44,7 +48,7 @@ mechanics-dat
 
 [[glue-dat]]
 
-[[motion-system-dat]]
+[[mechanical-structure-dat/motion-system-dat/motion-system-dat]]
 
 [[mechnical-structure-dat]]
 

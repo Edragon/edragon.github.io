@@ -17,7 +17,19 @@ yellow wires 220VAC
 
 ![](2025-11-28-19-11-41.png)
 
+wires 
 
+✅ In a hot-air handle with only heater + temperature sensor, no fan and no reed switch
+
+The internal parts are:
+
+Heating element (ceramic heater) → always 2 wires
+
+Temperature sensor → usually 2 wires
+
+Protective ground wire → 1 wire
+
+This adds up to 5 wires, matching your description.
 
 ## ref 
 
