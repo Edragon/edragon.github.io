@@ -27,7 +27,7 @@
 
 - [[copper-spacer-dat]]
 
-- [[Pneumatic-cylinder-dat]]
+
 
 - [[Lead-screw-dat]]
 
@@ -37,6 +37,7 @@
 
 - [[alu-extrusion-dat]] - [[motion-system-dat]]
 
+- [[mechanical-parts-dat]]
 
 
 ## category 2.0 
