@@ -1,6 +1,13 @@
 
 # bearing-dat
 
+
+## bearing stand 
+
+SK series 
+
+![](2025-11-30-01-07-43.png)
+
 ## linear bearing 
 
 ![](2025-07-03-16-41-47.png)
@@ -24,6 +31,9 @@ Basic Dimensions of a 608 bearing:
 - Inner diameter (bore): 8 mm
 - Outer diameter: 22 mm
 - Width (thickness): 7 mm
+
+
+
 
 ## block the bearing 
 
