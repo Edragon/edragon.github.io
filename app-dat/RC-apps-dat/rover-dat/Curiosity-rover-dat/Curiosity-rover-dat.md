@@ -84,3 +84,36 @@ Curiosity’s chassis is optimized for:
 - durability  
 - obstacle handling  
 - accurate scientific operation  
+
+
+## gearbox 
+
+### Curiosity Rover Drive System and Differential Gearbox
+
+#### 1. Drive System Overview
+- Curiosity has **6-wheel independent drive**; each wheel has its own motor.
+- The wheels are connected via the **rocker-bogie suspension system**, ensuring obstacle climbing and load distribution.
+- Wheel motors use **planetary gear reduction boxes** to provide high torque.
+
+#### 2. Differential Gearbox Function
+- In traditional vehicles, a **differential** allows left and right wheels to rotate at different speeds to prevent slipping.
+- For Curiosity:
+  - Each wheel is **independently driven** → no need for a traditional mechanical differential.
+  - **Electronic control** adjusts wheel speed individually, achieving the same effect as a differential.
+  - Small internal gears in the motor gearbox may distribute torque and protect the motor.
+
+#### 3. Summary
+- Curiosity does **not have a conventional mechanical differential**; electronic control replaces it.
+- **Planetary gearboxes** provide high torque to each wheel.
+- Each wheel's speed is independently adjusted based on terrain and suspension.
+- For RC or small rover design: **6 independent motors + electronic control** can replace a mechanical differential.
+
+> Note: This setup allows precise control over each wheel and enables stable motion on uneven terrain.
+
+
+- [[gearbox-dat]]
+
+
+## ref 
+
+- [[rover-dat]] - [[rc-apps-dat]]
