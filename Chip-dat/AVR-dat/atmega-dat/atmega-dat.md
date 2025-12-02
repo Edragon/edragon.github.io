@@ -1,6 +1,9 @@
 
 # atmega-dat
 
+- [[atmega328-dat]]
+
+
 ## PROG AVR 
 
 a common DIP28 socket 
@@ -24,6 +27,14 @@ a common DIP28 socket
 
 
 ![](2025-02-19-16-56-02.png)
+
+
+
+
+## unsort 
+
+- ATMEGA48PA
+
 
 
 ## ref 
