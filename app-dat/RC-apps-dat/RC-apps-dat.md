@@ -73,4 +73,7 @@ but **500 Hz is the highest stable rate** supported by the Mobula8 SPI receiver.
 
 ## ref 
 
+- [[rc-apps]]
+
 - [[mechanics-dat]]
+

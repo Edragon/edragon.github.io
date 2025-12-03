@@ -1,5 +1,5 @@
 
-# waterproof case dat
+# waterproof-case-dat
 
 ![](41-02-17-07-02-2023.png)
 
@@ -24,7 +24,16 @@ inner space == 72 x 49 x 32 mm
 
 
 
+## IP68 case 
+
+semi transparent 
+
+![](2025-12-04-01-29-50.png)
+
+
 
 ## ref 
 
 - [[case-dat]]
+
+- [[waterproof-case]] - [[case]]
