@@ -37,4 +37,4 @@
 
 - [[solar-power-dat]]
 
-- [[app]]
+- [[app]] - [[generator]]

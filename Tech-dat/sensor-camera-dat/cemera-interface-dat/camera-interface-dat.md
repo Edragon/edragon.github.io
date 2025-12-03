@@ -3,6 +3,9 @@
 
 - [[SCCB-dat]] - [[CSI-dat]] - [[UVC-dat]] - [[analog-video-dat]] - [[HDMI-dat]]
 
+- [[GMSL2-dat]]
+
+
 - digital types camera 
 - analog types camera
 

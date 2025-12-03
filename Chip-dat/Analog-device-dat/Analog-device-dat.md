@@ -76,7 +76,15 @@ ADA4077
 
 - MAXM15068 - 7.5V to 60V, 200mA Himalaya uSLIC Step-Down Power Module 
 
+## GMSL2 
 
+MAX9295D - GMSL2 Dual CSI-2 Serializer with GMSL1 Compatibility
+
+MAX96717 - CSI-2 to GMSL2 Serializer
+
+- [[GMSL2-dat]]
+
+- [[CSI-dat]]
 
 ## ref 
 

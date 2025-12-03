@@ -3,6 +3,9 @@
 
 - [[gimbal-dat]]
 
+![](2025-12-04-01-10-28.png)
+
+
 ## installation steps 
 
 ![](2025-10-02-17-58-58.png)
@@ -15,5 +18,7 @@
 ## ref 
 
 - [[servo-dat]] 
+
+- [[servo]]
 
 
