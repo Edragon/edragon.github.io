@@ -14,6 +14,15 @@
 
 
 
+## phone connector 
+
+- [[phone-pixel-dat]]
+
+![](2025-12-04-01-04-59.png)
+
+
 ## ref 
 
 - [[CONN-dat]]
+
+- [[conn-power]] - [[conn]]

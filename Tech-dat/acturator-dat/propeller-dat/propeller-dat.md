@@ -141,6 +141,15 @@ Gemfan2925-5
 ![](2025-09-02-13-09-57.png)
 
 
+
+
+## boat propeller
+
+- [[rc-boat-dat]]
+
+![](2025-12-04-00-15-42.png)
+
+
 ## ref 
 
 - [[propeller]]

@@ -12,7 +12,9 @@
 
 ## 📱 Google Pixel 7 — Charging Support Overview
 
-- [[battery-charger-dat]]
+- [[battery-charger-dat]] - [[CONN-power-dat]] - [[conn-dat]]
+
+
 
 ### ⚡ Wired Charging
 - **Connector:** USB-C (USB-PD 3.0 compliant)

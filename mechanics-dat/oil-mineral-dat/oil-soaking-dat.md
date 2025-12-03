@@ -2,7 +2,15 @@
 # oil-soaking-dat.md
 
 
+
+
+## power burned 
+
+![](2025-12-04-00-46-41.png)
+
+
 It looks like your 12V camera, after being soaked in mineral oil for a while, fails to start up after being powered off and on again.  
+
 This situation is very common in electronics "oil immersion" experiments. Let me help you analyze the most likely causes and troubleshooting methods.
 
 ✅ Why does soaking in mineral oil cause startup failure?

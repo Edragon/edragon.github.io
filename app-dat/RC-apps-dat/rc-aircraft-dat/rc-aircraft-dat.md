@@ -4,9 +4,15 @@
 
 - basic - [[RC-kits-dat]]
 
+
+
+
+
 ## types 
 
 - 遥控扑翼机 Ornithopter [[Ornithopter-dat]]
+
+- [[fixed-wing-dat]]
 
 
 ## control channels channels 

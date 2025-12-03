@@ -46,3 +46,5 @@ damper is a mechanical device that resists motion via viscous friction. It is us
 - [[mechanical-parts-dat]]
 
 - [[force-dat]]
+
+- [[damper]] - [[mechanical-parts]] - [[mechanics]]
