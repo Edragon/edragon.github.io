@@ -39,7 +39,9 @@
 
 - [[mechanical-parts-dat]]
 
-- [[oil-dat]]
+- [[oil-mineral-dat]]
+
+- [[physics-dat]] - [[optical-design-dat]]
 
 
 ## category 2.0 
