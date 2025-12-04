@@ -5,13 +5,20 @@
 
 
 
+## size 
+
+- 3mm [[ABS-dat]] [[shaft-dat]] - weak 
+
+- 3mm [[stainless-steel-dat]] - [[shaft-dat]] - ?
+
+
+
+
+
 ## common parts 
 
-limiter / position locker 
+- [[shaft-limit-ring-dat]] - [[shaft-coupler-dat]]
 
-ID == 6 / OD == 12 / Thickness == 6
-
-![](2025-12-04-00-53-15.png)
 
 
 ## ref 

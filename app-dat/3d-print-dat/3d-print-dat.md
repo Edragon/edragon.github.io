@@ -2,6 +2,11 @@
 # 3d-print-dat.md
 
 
+## features 
+
+- placement
+
+
 
 ## common 3d printer websites 
 
@@ -29,3 +34,10 @@
 - 存在坏边
 - 不存在孔洞缺陷
 - 不存在薄壁结构
+
+
+
+
+## ref 
+
+- [[3d-print]]

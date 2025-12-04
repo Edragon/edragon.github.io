@@ -227,7 +227,7 @@
 
 - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
 
-- [[3D-dat]]
+- [[3D-dat]] - [[3d-print-dat]]
 
 - [[mechanic-tools-dat]]
 
