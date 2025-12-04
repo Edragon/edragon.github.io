@@ -28,6 +28,9 @@
 
 - [[CONN-waterproof-dat]] - [[CONN-dat]]
 
+- [[silicon-grease-dat]]
+
+
 
 
 ## apps 
@@ -46,3 +49,4 @@
 - [[onshape-dat]]
 
 
+- [[waterproof-dat]] - [[silicon-grease-dat]]
