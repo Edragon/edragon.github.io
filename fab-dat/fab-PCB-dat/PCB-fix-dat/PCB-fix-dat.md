@@ -1,11 +1,7 @@
 
 # PCB-fix-dat
 
-## simple fixing 
-
-- PCB knife cutter 
-
-- [[PSO1060-dat]] == [PCB Trace Cutter Editor Knife](https://www.electrodragon.com/product/pcb-cutterknife/)
+- [[PCB-cutter-dat]]
 
 ## mess fixing 
 
