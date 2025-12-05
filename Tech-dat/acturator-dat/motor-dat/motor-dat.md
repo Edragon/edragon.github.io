@@ -5,9 +5,16 @@
 
 - [[RC-kits-dat]]
 
+
+
+
 ## motor specs 
 
 - [[torque-dat]] - [[start-capacitor-dat]]
+
+- [[RPM-dat]]
+
+- [[physics-dat]]
 
 ## motor type 
 
@@ -122,6 +129,9 @@ brushless
 - ✅ **Indoor/cinematic flying:** Lower KV preferred
 - ⚠️ **Freestyle/acro flying:** Might reduce agility
 - Adjust **PID and throttle curves** in Betaflight after motor swap
+
+
+
 
 
 

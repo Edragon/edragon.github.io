@@ -1,5 +1,5 @@
 
-# DC-Gear-Motor-dat
+# reduction-Gear-Motor-dat
 
 - [[BLDC-motor-dat]] + [[gearbox-dat]]
 
@@ -34,6 +34,9 @@
 
 # reduction-gear-motor-dat
 
+- high torque / low RPM motores 
+
+
 
 - [[N20-motor-dat]] - [[MG513-dat]] - [[MG540-dat]] - [[MG545-dat]]
 
@@ -42,6 +45,8 @@
 - [[encoder-dat]]
 
 - [[TT-motor-dat]]
+
+- [[32GP-31ZY-dat]]
 
 
 ## Apps and Specs Selection 
@@ -86,4 +91,4 @@ If your 895 motor lacks torque even with a gearbox, consider:
 
 - [[motor-dat]]
 
-- [[DC-Gear-Motor]] - [[motor]]
+- [[reduction-Gear-Motor]] - [[motor]]

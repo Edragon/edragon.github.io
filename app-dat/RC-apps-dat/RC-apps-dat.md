@@ -21,6 +21,8 @@
 
 - [[rc-aircraft-dat]]
 
+- [[RC-kits-dat]]
+
 ## RC - signal 
 
 - [[RC-signal-dat]]
