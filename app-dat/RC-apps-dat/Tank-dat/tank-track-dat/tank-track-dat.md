@@ -6,6 +6,14 @@
 - [[tank-wheels-supporting-dat]]
 
 
+## muddy track 
+
+![](2025-12-05-13-30-35.png)
+
+- [[rc-submersible-tank-dat]]
+
+
+
 ## Tracked Vehicle Powertrain Components
 
 A tracked vehicle uses continuous tracks instead of wheels to move over difficult terrain. Its powertrain consists of several key components that transmit engine power to the tracks efficiently:
