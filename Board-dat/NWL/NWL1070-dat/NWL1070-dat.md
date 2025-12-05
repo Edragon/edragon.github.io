@@ -7,6 +7,9 @@
 
 ![](2025-06-25-15-06-03.png)
 
+
+- [[NWL1068-dat]] - [[NWL1070-dat]] - 433/315 mhz
+
 ## Features 
 
 - sensitivity == -110dBm； 
@@ -27,3 +30,5 @@ On board Decoder, support and match with other encoder chip like
 ## ref 
 
 - [[RF-link-dat]]
+
+- [[NWL1070]] - [[NWL1068]]

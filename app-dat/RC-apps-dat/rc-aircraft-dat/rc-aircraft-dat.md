@@ -50,6 +50,26 @@ The angle adjustingof the flaperon isfor the airplane state,and the adjustingof 
 screw-pitch is forhelicopter state.
 
 
+
+
+## concept 
+
+### Differential-Thrust Aircraft (Differential Control)
+
+“Differential” aircraft use the thrust difference between left and right propulsion units (usually motor + propeller) to control direction. This control method is called differential thrust.
+
+#### What is a differential-thrust aircraft?
+A differential-thrust aircraft does not rely on a conventional rudder to turn. Instead, it produces a yaw moment by creating a thrust difference between the left and right motors/propellers.
+
+#### How it works
+- Left thrust > Right thrust → aircraft yaws right  
+- Right thrust > Left thrust → aircraft yaws left  
+- Left thrust = Right thrust → aircraft flies straight
+
+This is similar to the steering method used by twin-motor RC boats or differential-drive
+
+
+
 ## ref 
 
 - [[RC-dat]] - [[airplane]] - [[RC]]

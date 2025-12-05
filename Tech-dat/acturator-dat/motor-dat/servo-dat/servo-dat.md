@@ -4,6 +4,12 @@
 
 - [[peripherals-dat]]
 
+- [[PWM-dat]]
+
+
+
+
+
 
 
 ## feature of servos 
@@ -23,8 +29,9 @@
 
 ## products 
 
-- Micro servo - [[SCU1030-DAT]] - [[SCU1031-dat]]
-- MG995 micro servo - [[SCU1012-DAT]]
+- Micro servo - [[SCU1030-DAT]] - [[SCU1031-dat]] == SG90 / MG90
+
+- MG995 / MG996R micro servo - [[SCU1012-DAT]]
 
 
 These servo models differ primarily in terms of gear material, torque, and rotation angle. 

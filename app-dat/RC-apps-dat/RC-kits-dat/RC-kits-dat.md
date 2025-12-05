@@ -12,7 +12,7 @@
 - [[rc-kits-dat]] - [[diy-materials-dat]]
 
 
-basic RC link - [[rc-link-dat]]
+basic RC link - [[rf-link-dat]]
 
 
 ![](2025-12-04-00-13-11.png)

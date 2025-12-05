@@ -13,6 +13,7 @@
 
 - [[WIFI6-dat]]
 
+- [[wifi-distance-dat]]
 
 ## cheatsheet 
 
@@ -52,6 +53,10 @@
 数据最终通过数据链路层+物理层传输到硬件网络，在数据链路层和物理层上的数据都是通过层层数据封装实现的。
 
 - [[TCPIP-dat]] - [[TCPUDP-dat]]
+
+
+
+## wifi distance 
 
 
 

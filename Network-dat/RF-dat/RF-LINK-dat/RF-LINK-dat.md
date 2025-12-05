@@ -35,7 +35,7 @@ Clasic RF LINK
 
 ## Receiver == EDRF1 and EDRF2 Decoder
 
-- [[NWL1089-dat]] == EDRF1 
+- [[NWL1089-dat]] == EDRF1 (retired)
 
 - [[NWL1068-dat]] / [[NWL1070-dat]] == EDRF2
 
