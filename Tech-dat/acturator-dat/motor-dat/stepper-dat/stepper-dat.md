@@ -47,6 +47,14 @@ The driver board automatically identifies 3-wire or 4-wire brushless motors,
 | NEMA 42   | 110 x 110            | 10 – 20+             | 5.0 – 10.0           | Large industrial machinery                  |
 
 
+## apps 
+
+- [[TPlink-dat]]
+
+[dissembled TP LINK security camera post ](https://www.electrodragon.com/teardown-a-tplink-security-camera-after-oil-soaking/)
+
+
+
 ## ref 
 
 - [[stepper]]
