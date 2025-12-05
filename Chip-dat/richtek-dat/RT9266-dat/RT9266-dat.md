@@ -1,6 +1,8 @@
 
 # RT9266-dat
 
+- [[dcdc-boost-dat]]
+
 - [[OPM1000-dat]]
 
 https://www.richtek.com/assets/product_file/RT9266/DS9266-16.pdf
