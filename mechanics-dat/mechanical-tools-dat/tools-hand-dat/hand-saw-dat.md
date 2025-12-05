@@ -16,7 +16,9 @@ Weight 250 g → light and easy to control.
 ✅ Overall: This saw is suitable for cutting 4 mm ABS or acrylic sheets by hand, especially for straight cuts or small curves.
 
 
+## saw brand 
 
+- 田岛 - tajima 
 
 
 ## ref 

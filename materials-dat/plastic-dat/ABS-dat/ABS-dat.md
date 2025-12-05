@@ -4,40 +4,7 @@
 
 - [[mechanic-tool-dat]]
 
-
-## plastic cutter 
-
-cut with scissors or knife - [[PCB-cutter-dat]] - [[fab-PCB-soldering-tools-dat]]
-
-![](2025-12-04-19-14-46.png)
-
-![](2025-12-04-19-17-45.png)
-
-
-
-
-✅ Much safer ways to cut 4 mm plastic sheet
-
-These are tools that are far safer for teens to use:
-
-1) Utility knife + score & snap
-
-For ABS / acrylic → clean and fast.
-(Just score many times along a ruler, then snap.)
-
-2) Hand saw (fine tooth)
-
-Like a small hacksaw → slow but safe.
-
-3) Jigsaw (with adult supervision)
-
-Use a fine-tooth blade → works well for curves and straight cuts.
-
-4) Small circular cutter for plastic
-
-If you have a hobby cutter or mini saw, they usually work safely.
-
-
+- [[plastic-dat]]
 
 ## plastic glue 
 
