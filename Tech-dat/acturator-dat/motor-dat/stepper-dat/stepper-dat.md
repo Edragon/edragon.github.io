@@ -3,6 +3,12 @@
 
 - [[stepper-driver-dat]]
 
+
+## boards 
+
+- [[SCU1024-dat]]
+
+
 ## common options 
 
 - dual shaft 

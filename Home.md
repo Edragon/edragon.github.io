@@ -19,7 +19,7 @@
 
 - [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]]
 
-- [[power-dat]] - [[battery-dat]] - [[BMS-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]]
+- [[power-dat]] - [[battery-dat]] - [[BMS-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]]
 
 - [[network-dat]] - [[RC-dat]] - [[MQTT-dat]]
 
