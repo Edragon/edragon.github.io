@@ -2,6 +2,12 @@
 # 3d-print-dat.md
 
 
+
+
+## tech 
+
+- [[Lithophane-dat]]
+
 ## features 
 
 - placement

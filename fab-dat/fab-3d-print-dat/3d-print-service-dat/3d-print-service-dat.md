@@ -19,25 +19,7 @@ Special reminder: Wall thickness should be greater than 1.2mm, with the thinnest
 ### embedded nuts 
 
 
-## material 
-
-### 9600 
-
-适用范围: 适用于管道，卡扣，电子产品外壳，汽车壳体，仪表盘组件等。
-
-优点: 颜色更白，样件纹路佳，表面光滑，韧性、耐用性强，机械性能好。
-
-缺点: 不适宜放置高温及强太阳光环境。
-
-成型工艺: SLA立体光固化
-
-材料精度: ±0.2mm或0.3%以内
-
-颜色: 哑光白
-
-热变形温度: 59°C
-
-
+- [[fab-3d-print-materials-dat]]
 
 ## ref 
 
