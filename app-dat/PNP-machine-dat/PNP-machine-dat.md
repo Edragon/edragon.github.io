@@ -14,9 +14,16 @@
 
 - [[pnp-machine]]
   
+
+
+
+
 ## BOM overview 
 
 - compoennts [[nozzle-dat]] - [[feeder-dat]] - [[XYZ-frame-dat]]
+
+
+
 
 ## electronics parts 
 
