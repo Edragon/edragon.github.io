@@ -1,5 +1,5 @@
 
-# BLDC-motor-dat
+# motor-brushless-dat.md
 
 - [[ESC-dat]] - [[motor-driver-dat]]
 
@@ -97,6 +97,15 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 - **Home Appliances:** Found in inverter air conditioners and high-end fans.  
 
 - [[sensor-hall-dat]]
+
+
+
+
+## compare brushed motor 
+
+相比 普通有刷直流电机（Brushed DC Motor），BLDC 电机更耐用且效率更高，但需要电子控制器才能工作。
+
+
 
 ## ref 
 

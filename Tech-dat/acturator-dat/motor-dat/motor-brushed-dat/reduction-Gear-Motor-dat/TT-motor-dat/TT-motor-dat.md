@@ -3,6 +3,21 @@
 
 A TT motor is a type of DC motor commonly used in hobbyist robotics and DIY electronics projects. It's characterized by its yellow plastic gearbox and is often paired with a plastic wheel.
 
+
+![](2025-12-05-13-47-53.png)
+
+
+## specs 
+
+![](2025-12-05-13-49-01.png)
+
+
+## dimension 
+
+![](2025-12-05-15-49-49.png)
+
+
+
 ## Key features mentioned include:
 
 - Gearbox: It typically has a plastic gearbox, often with a 1:48 or 1:120 gear ratio.
@@ -14,6 +29,10 @@ A TT motor is a type of DC motor commonly used in hobbyist robotics and DIY elec
 - Torque: Stall torque is also voltage and gear ratio dependent (e.g., 0.8 kg.cm).
 - Shaft: Often has a dual shaft design.
 - EMF: Some versions may have built-in electromagnetic shielding or capacitors for EMF suppression.
+
+
+
+
 
 ## ref 
 

@@ -1,5 +1,5 @@
 
-# DC-motor-DAT
+# motor-brushed-dat
 
 ## Small Brushed DC Motor Series
 
@@ -20,7 +20,15 @@
 | **775**      | ~70 mm length   | 12V – 24V     | ~150–350 W    | High-power drills, CNC, mobility projects |
 | **895**      | ~80 mm length   | 12V – 36V     | ~200–500 W    | High torque, heavy loads                  |
 
-- more powerful motors - [[BLDC-motor-dat]] - [[DC-Gear-Motor-dat]]
+
+
+
+
+- more powerful motors - [[BLDC-motor-dat]] - [[reduction-Gear-Motor-dat]]
+
+
+
+
 
 ## 1. 45T / 55T Motors
 
