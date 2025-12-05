@@ -2,7 +2,7 @@
 # rc-aircraft-dat
 
 
-- basic - [[RC-kits-dat]]
+- basic - [[RC-kits-dat]] - [[landing-gear-dat]]
 
 
 
@@ -14,6 +14,7 @@
 
 - [[fixed-wing-dat]]
 
+- [[helicopter-dat]]
 
 ## control channels channels 
 

@@ -1,7 +1,7 @@
 
 # diy-materials-dat
 
-
+- [[foam-dat]] - [[carbon-rods-dat]]
 
 - [[rc-kits-dat]] - [[diy-materials-dat]]
 

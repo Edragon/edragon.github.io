@@ -17,7 +17,9 @@
 
 - [[ROV-dat]] - [[rc-boat-dat]]
 
+- [[mechanics]] - [[materials-dat]]
 
+- [[rc-aircraft-dat]]
 
 ## RC - signal 
 
@@ -77,3 +79,4 @@ but **500 Hz is the highest stable rate** supported by the Mobula8 SPI receiver.
 
 - [[mechanics-dat]]
 
+- [[physics-dat]]
