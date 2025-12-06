@@ -1,16 +1,24 @@
 
 # Shaft-dat
 
-## 8mm 
 
-## 6mm 
+## dimension 
 
-- [[limit-ring-dat]]
+- 8mm 
 
-
-
+- 6mm - [[3d-printer-dat]]
 
 
-## related 
+
+## smooth shaft accessories 
+
+- [[shaft-limit-ring-dat]]
 
 - [[shaft-coupler-dat]]
+
+- [[Shaft-Cross-Connector-dat]]
+
+
+## ref 
+
+- [[rod-system-dat]]

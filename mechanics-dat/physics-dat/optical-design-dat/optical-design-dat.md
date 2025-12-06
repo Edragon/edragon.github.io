@@ -1,7 +1,10 @@
 
 # optical-design-dat
 
-- [[microscope-dat]]
+- [[microscope-dat]] - [[Periscope-dat]]
+
+
+
 
 ## filling materials 
 

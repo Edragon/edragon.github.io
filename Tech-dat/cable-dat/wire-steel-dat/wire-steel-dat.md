@@ -1,7 +1,12 @@
 
 # wire-steel-dat
 
-- [[steel-wire-rope-fitting-dat]]
+- [[wire-steel-fitting-dat]]
+
+- [[wire-steel-holder-dat]]
+
+
+## info 
 
 - diameter 2mm == carry 50KGs 
 
@@ -17,7 +22,7 @@
 
 ## ref 
 
-- [[cable-iron]] - [[cable]]
+- [[wire-steel]] - [[cable]]
 
 
 

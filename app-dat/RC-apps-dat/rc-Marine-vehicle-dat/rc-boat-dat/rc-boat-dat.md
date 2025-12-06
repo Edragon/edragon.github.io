@@ -12,7 +12,12 @@
 
 ![](2025-12-04-00-32-03.png)
 
+
+## DIY level build 
+
 ![](2025-12-04-00-33-16.png)
+
+![](2025-12-06-13-24-36.png)
 
 ## air-propelled 
 
@@ -30,5 +35,7 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 
 
 ## ref 
+
+- [[rc-apps-dat]]
 
 - [[rc-apps]] - [[rc-boat]]

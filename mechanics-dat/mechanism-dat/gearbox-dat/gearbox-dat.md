@@ -1,6 +1,7 @@
 
 # gearbox-dat
 
+- [[gear-dat]] - [[gear-worm-dat]] - [[gearbox-dat]]
 
 ## common gearbox 
 

@@ -1,5 +1,14 @@
 # mechanical-parts-dat
 
+
+
+
+
+
+- [[gear-dat]] - [[bearing-dat]] - [[bracket-dat]]
+
+
+
 Common standard mechanical parts are roughly divided into:
 
 Transmission parts (gears, sprockets, couplings)
