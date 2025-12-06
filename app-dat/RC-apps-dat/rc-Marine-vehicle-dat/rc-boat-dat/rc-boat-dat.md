@@ -84,9 +84,20 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 ![](2025-12-06-15-26-26.png)
 
 
+## propeller version 1 
+
+![](2025-12-06-15-31-53.png)
+
+
+![](2025-12-06-15-32-57.png)
+
+
+
 
 ## ref 
 
 - [[rc-apps-dat]]
 
 - [[rc-apps]] - [[rc-boat]]
+
+- [[waterproof-container-dat]]

@@ -18,6 +18,10 @@ inside
 
 ![](2025-12-06-15-28-44.png)
 
+## tube seal by screw and o-ring
+
+![](2025-12-06-15-33-44.png)
+
 
 ## aluminum canister
 
