@@ -2,6 +2,9 @@
 # hinge-dat
 
 
+- [[rod-system-dat]] - [[hinge-dat]] - [[rod-tie-dat]]
+
+
 ## info 
 
 ![](2025-12-04-00-48-46.png)

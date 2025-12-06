@@ -13,7 +13,7 @@
 
 - [[RC-kits-dat]]
 
-- [[rc-marine-vehicle-dat]] - [[ROV-dat]] - [[rc-boat-dat]]
+- [[rc-marine-vehicle-dat]] - [[ROV-dat]] - [[rc-boat-dat]] - [[rc-submersible-dat]] - [[rc-submersible-tank-dat]] 
 
 
 

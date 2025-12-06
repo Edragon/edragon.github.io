@@ -1,9 +1,40 @@
 
 # rc-boat-dat
 
+- [[rc-boat-accessories-dat]]
+
+- [[pump-dat]] - [[pump-jet-dat]] - [[propeller-dat]]
+
+- [[motor-waterproof-dat]] - [[motor-dat]]
+
+
+
+
+## jet pump vs propeller 
+
+| Feature              | Jet Pump                  | Propeller                 |
+|---------------------|---------------------------|---------------------------|
+| Safety              | High (no exposed blades)  | Low (blades exposed)      |
+| Shallow water use   | Excellent                 | Poor                      |
+| Efficiency          | Lower                     | Higher                    |
+| Top Speed           | Moderate                  | Higher                    |
+| Maintenance         | Moderate                  | Easy                      |
+| Debris handling     | Better                    | Worse                     |
+| Low-speed thrust    | Weaker                    | Stronger                  |
+
+**Conclusion:**  
+- **Jet pump:** Safer and better for shallow water, maneuverability, and RC boats running in ponds/lakes.  
+- **Propeller:** Better for speed, efficiency, and simpler builds, especially in deeper water.
+
+
+
+![](2025-12-06-13-55-25.png)
+
+
 ## propeller setup 
 
 - [[propeller-dat]]
+
 
 
 ![](2025-12-04-00-14-33.png)
