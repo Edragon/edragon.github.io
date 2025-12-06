@@ -31,7 +31,7 @@
 
 - Micro servo - [[SCU1030-DAT]] - [[SCU1031-dat]] == SG90 / MG90
 
-- MG995 / MG996R micro servo - [[SCU1012-DAT]]
+- MG995 / MG996R micro servo - [[SCU1012-DAT]] == 13KG 
 
 
 These servo models differ primarily in terms of gear material, torque, and rotation angle. 
@@ -192,6 +192,14 @@ lock and unlock system
 
 ![](2025-12-06-14-23-10.png)
 
+
+## high torque servo 
+
+35KG version 
+![](2025-12-06-14-56-46.png)
+
 ## ref 
 
 - [[motor-dat]]
+
+- [[servo]]
