@@ -15,6 +15,17 @@
 
 
 
+## working principle
+
+![](2025-12-06-16-05-53.png)
+
+![](2025-12-06-16-08-32.png)
+
+credit - https://www.youtube.com/watch?v=FCcKeOmYHFY
+
+
+
+
 ## ref 
 
 - [[rc-sailboat]] - [[rc-marine-vehicle]] - [[rc-apps]]
