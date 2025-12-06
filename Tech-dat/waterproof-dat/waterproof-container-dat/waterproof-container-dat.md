@@ -13,6 +13,12 @@
 
 ![](2025-12-06-14-37-54.png)
 
+
+inside 
+
+![](2025-12-06-15-28-44.png)
+
+
 ## aluminum canister
 
 - Theoretical minimum: <1 mm for a tiny cylinder.  

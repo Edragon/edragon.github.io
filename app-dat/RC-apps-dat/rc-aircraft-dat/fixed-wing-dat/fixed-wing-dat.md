@@ -77,6 +77,16 @@ standard toy fixed wing
 ![](2025-12-05-01-44-49.png)
 
 
+## 3d printed 
+
+- [[3d-print-dat]]
+
+
+F14 
+
+![](2025-12-06-15-24-40.png)
+
+![](2025-12-06-15-25-18.png)
 
 ## tools 
 
@@ -85,5 +95,7 @@ center of gravity and balance checker
 ![](2025-12-06-14-24-56.png)
 
 ## ref 
+
+- [[fixed-wing]]
 
 - [[rc-apps-dat]]

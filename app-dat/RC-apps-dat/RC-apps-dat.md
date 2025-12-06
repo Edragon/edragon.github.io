@@ -15,7 +15,7 @@
 
 - [[rc-marine-vehicle-dat]] - [[ROV-dat]] - [[rc-boat-dat]] - [[rc-submersible-dat]] - [[rc-submersible-tank-dat]] - [[rc-submarine-dat]]
 
-
+- [[motor-dat]] - [[servo-dat]]
 
 
 

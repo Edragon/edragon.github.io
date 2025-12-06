@@ -6,6 +6,9 @@
 
 - [[Heat-Dissipation-dat]]
 
+- [[waterproof-sealant-dat]]
+
+
 ## Heat-Dissipation
 
 Thermal Conductivity
@@ -66,3 +69,5 @@ Thermal Conductivity
 ## ref 
 
 - [[waterproof-dat]]
+
+- [[material]] - [[silicon-grease]]

@@ -77,6 +77,11 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 ![](2025-12-04-00-30-35.png)
 
 
+## air-propelled 2
+
+- [[3d-print-dat]] - [[hinge-dat]] connect blue part 
+
+![](2025-12-06-15-26-26.png)
 
 
 
