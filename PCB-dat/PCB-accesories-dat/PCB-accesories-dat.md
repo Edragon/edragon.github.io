@@ -13,7 +13,7 @@
 
 - PCB electric isolation 
 
-- 三防漆 == Conformal Coating
+- [[Conformal-Coating-dat]]
 
 
 

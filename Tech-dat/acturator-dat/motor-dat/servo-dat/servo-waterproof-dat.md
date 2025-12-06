@@ -31,12 +31,7 @@ If the servo is not inherently waterproof:
 
 ---
 
-## 4. Shaft and Linkage Sealing
-- The servo horn/output shaft must exit the housing. Options:  
-  - **Magnetic coupling** to transfer motion without shaft penetration.  
-  - **Sealed rotary feedthrough** with O-ring.
-
----
+- [[shaft-waterproof-dat]]
 
 ## 5. Pressure Considerations
 - At **deep depths** (>50 m), water pressure can crush the servo or housing.  

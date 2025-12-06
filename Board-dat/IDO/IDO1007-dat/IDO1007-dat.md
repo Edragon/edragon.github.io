@@ -9,6 +9,9 @@ https://www.electrodragon.com/product/mini-thermal-receipt-printer-serial-5v/
 - 5V 2A or 9V 1A, up to 10W is requireted to print
 - there is a small stepper motor inside to print
 
+- 5-9V TTL interface
+
+![](2025-12-06-19-57-20.png)
 
 ## ref demo code 
 
@@ -23,9 +26,7 @@ https://www.electrodragon.com/product/mini-thermal-receipt-printer-serial-5v/
 
 - [[thermal-printer-dat]] 
 
-- [[IDO1005-dat]] - [[IDO1006-dat]]
-  
-- [[ido1005]] 
+
 
 
 
@@ -59,6 +60,9 @@ Type:
 
 ## ref 
 
-- [[IDO1005-dat]]
 
 - [[IDO1007]]
+
+- [[IDO1005-dat]] - [[IDO1006-dat]]
+  
+- [[ido1005]] 

@@ -19,6 +19,12 @@
 - [[Shaft-Cross-Connector-dat]]
 
 
+
+
+## tech 
+
+- [[shaft-dat]] - [[shaft-waterproof-dat]] - [[waterproof-dat]]
+
 ## ref 
 
 - [[rod-system-dat]]
