@@ -6,6 +6,12 @@
 - acrylic box
 
 
+## PMMA tube 
+
+- [[PMMA-dat]]
+
+
+![](2025-12-06-14-37-54.png)
 
 ## aluminum canister
 

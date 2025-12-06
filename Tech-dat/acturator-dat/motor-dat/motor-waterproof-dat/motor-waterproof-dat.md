@@ -12,6 +12,8 @@ You place the motor *outside the water* by sealing it in a waterproof enclosure.
 
 ![](2025-12-06-13-57-31.png)
 
+![](2025-12-06-14-02-07.png)
+
 ### Requirements:
 - A sealed plastic/metal container (PVC tube, acrylic box, aluminum canister)
 - Rubber O-rings

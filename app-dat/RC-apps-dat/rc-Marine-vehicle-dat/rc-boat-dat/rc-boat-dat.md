@@ -1,11 +1,26 @@
 
 # rc-boat-dat
 
-- [[rc-boat-accessories-dat]]
+- [[rc-boat-accessories-dat]] - - [[rc-boat-accessories]]
 
 - [[pump-dat]] - [[pump-jet-dat]] - [[propeller-dat]]
 
 - [[motor-waterproof-dat]] - [[motor-dat]]
+
+
+- [[shaft-supporter-dat]] - [[servo-dat]]
+
+
+![](2025-12-06-14-07-33.png)
+
+## Wave Deflector / Wave Breaker Plate (压浪板)
+
+A **wave deflector** is a structure or plate used to **redirect, reduce, or break incoming waves**, protecting a surface, structure, or vessel from direct impact.  
+
+- In **boats or ships**, it is usually installed at the bow or deck to **prevent water from splashing onto the deck**.  
+- In **coastal or marine engineering**, similar structures help **reduce wave energy hitting seawalls, docks, or harbors**.
+
+
 
 
 

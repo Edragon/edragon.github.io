@@ -77,6 +77,13 @@ standard toy fixed wing
 ![](2025-12-05-01-44-49.png)
 
 
+
+## tools 
+
+center of gravity and balance checker 
+
+![](2025-12-06-14-24-56.png)
+
 ## ref 
 
 - [[rc-apps-dat]]
