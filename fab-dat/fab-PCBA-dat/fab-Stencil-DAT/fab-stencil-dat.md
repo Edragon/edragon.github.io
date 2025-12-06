@@ -76,7 +76,36 @@ other un-common size frameless
 
 ## stencil printer 
 
+## good printer 
+
+1. lock [[PCB-dat]] on X and Y axis 
+
+![](2025-12-06-17-19-43.png)
+
+2. stencil should able to lock on both left and right side 
+
+![](2025-12-06-17-20-25.png)
+
+
+3. no any other moving part except stencil and PCB holder
+
+![](2025-12-06-17-20-48.png)
+
+specially the rotating part 
+
+![](2025-12-06-17-21-12.png)
+
+
+## bad printer  
+
+
+### tape plus ruler printer 
+
+- loosen 
+
 ### table printer 
+
+has gap 
 
 ![](2025-09-01-17-56-12.png)
 
@@ -86,8 +115,7 @@ other un-common size frameless
 
 ![](2025-09-03-14-15-24.png)
 
-
-### screwed printer 
+screwed printer 
 
 ![](2025-09-01-17-57-01.png)
 
@@ -95,6 +123,8 @@ other un-common size frameless
 
 
 ### 3D printed holder 
+
+- hinge has moving space
 
 ![](2025-08-19-17-53-38.png)
 
@@ -116,14 +146,12 @@ double side printer for - [[NGS1141-dat]]
 ![](2025-09-10-13-46-56.png)
 
 
+
 ### other ideas 
 
 cruved printer 
 
 ![](2025-09-01-17-57-49.png)
-
-
-
 
 
 
