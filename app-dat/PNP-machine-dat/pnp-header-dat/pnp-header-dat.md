@@ -12,6 +12,7 @@ thick plastic sleeve / 3 ball bearing / [[nozzle-dat]]
 
 - 2x vacum pump port
 - 2x picker port 
+- 2x light indicator port on the shell 
 - 1x Z axis motor port
 - ...
 

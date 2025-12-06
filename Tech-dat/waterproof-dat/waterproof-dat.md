@@ -7,6 +7,12 @@
 
 - [[waterproof-connector-dat]]
 
+- [[waterpoof-motor-dat]] - [[motor-dat]]
+
+- [[waterproof-container-dat]]
+
+- [[waterproof-sealant-dat]]
+
 
 ## waterproof level 
 

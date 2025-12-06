@@ -1,15 +1,21 @@
 
 # rod-system-dat
 
-- [[shaft-dat]] - [[PVC-tube-dat]] 
+- [[shaft-dat]] 
+
+- [[PVC-tube-dat]] 
 
 - [[carbon-rods-dat]]
+
+- [[stainless-steel-solid-tube-dat]]
+
+- [[stainless-steel-hallow-tube-dat]]
 
 ## size 
 
 - 3mm [[ABS-dat]] [[shaft-dat]] - weak 
 
-- 3mm [[stainless-steel-dat]] - [[shaft-dat]] - ?
+- 3mm [[stainless-steel-solid-tube-dat]] - [[shaft-dat]] - ?
 
 
 
@@ -18,6 +24,13 @@
 ## common parts 
 
 - [[shaft-limit-ring-dat]] - [[shaft-coupler-dat]]
+
+- [[flange-dat]]
+
+
+
+
+
 
 
 ## compare 
@@ -33,9 +46,8 @@
 | **Weight-to-Strength Ratio** | Extremely high (very strong per gram) | Low (heavier for same strength) |
 | **Practical Notes** | Ideal for **lightweight reinforcement**, RC aircraft spars, hobby robotics | Better for **impact-heavy or load-bearing metal parts**, mechanical shafts |
 
----
 
-## Summary
+### Summary
 
 - **Carbon rod** is **much lighter** and very stiff; for **bending stiffness** or lightweight structure, it is stronger per weight.  
 - **Stainless steel rod** is **heavier but tougher**; it can withstand impact and bending better without snapping.  

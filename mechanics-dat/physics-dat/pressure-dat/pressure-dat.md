@@ -2,6 +2,39 @@
 
 # pressure-dat
 
+
+- [[pressure-design-dat]]
+
+- [[waterproof-dat]]
+
+
+## ✔ What Are PN16 and PN10?
+
+PN = Pressure Nominal
+
+It indicates the maximum working pressure a pipe or fitting can handle at 20°C.
+
+PN10 → Rated for 10 bar pressure (≈ 1.0 MPa)
+
+PN16 → Rated for 16 bar pressure (≈ 1.6 MPa)
+
+1 bar ≈ atmospheric pressure at sea level.
+
+### ✔ Meaning in Practical Use
+
+Rating	Max Pressure	Typical Use
+PN10	10 bar	Low–medium pressure water, irrigation, drainage
+PN16	16 bar	Higher pressure water systems, pumps, industrial use
+
+### ✔ PN Rating Applies To:
+
+- PVC pipes
+- PPR pipes
+- HDPE pipes
+- Metal fittings
+- Valves and connectors
+
+
 ## math 
 
 ### 1. Pressure at 10 m depth (clear numbers)

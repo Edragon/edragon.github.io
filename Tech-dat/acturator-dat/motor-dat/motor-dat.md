@@ -16,6 +16,8 @@
 
 - [[physics-dat]]
 
+
+
 ## motor type 
 
 brushed
@@ -58,6 +60,7 @@ brushless
 | Stepper motor    | Harmonic / Worm  | Precision gear movement      |
 
 
+
 ## coreless Motor vs. Brushless Motor
 
 ## ⚙️ Coreless Motor vs. Brushless Motor
@@ -77,6 +80,16 @@ brushless
 | **Typical Voltage**    | Low (e.g. 3V, 6V, 12V)                           | Can handle higher voltages (12V–60V+)        |
 | **Cost**               | Generally cheaper                                | More expensive due to controller and design  |
 | **Best For**           | Micro motors, medical devices, toys, robotics    | Drones, RC vehicles, electric tools, e-bikes |
+
+
+## motor by purpose 
+
+- [[motor-dat]] - [[waterpoof-dat]] - [[motor-waterproof-dat]]
+
+
+
+
+
 
 
 ## commerlized motor system demo 
