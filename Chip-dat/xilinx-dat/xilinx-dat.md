@@ -6,7 +6,8 @@ HW-USB-II-G == Platform Cable USB II == EEPROM, FPGA, PLD - Programmer (In-Circu
 - [[AMD-dat]]
 
 
-
+XC7K325T-1FBG676C - IC FPGA 400 I/O 676FCBGA - 	
+Kintex®-7 Field Programmable Gate Array (FPGA) IC 400 16404480 326080 676-BBGA, FCBGA
 
 XC7Z045-1FFG900I - IC SOC CORTEX-A9 667MHZ 900FCBGA
 

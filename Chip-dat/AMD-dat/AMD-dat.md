@@ -16,6 +16,9 @@ FPGA
 
 XCZU42DR-L2FSVE1156I - SoC FPGA XCZU42DR-L2FSVE1156I
 
+- [[xilinx-dat]]
+
+
 ## ref 
 
 - [[SBC]]
