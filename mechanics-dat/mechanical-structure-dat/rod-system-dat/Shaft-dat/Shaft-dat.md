@@ -2,6 +2,8 @@
 # Shaft-dat
 
 
+
+
 ## dimension 
 
 - 8mm 
@@ -18,7 +20,7 @@
 
 - [[Shaft-Cross-Connector-dat]]
 
-
+![](2025-12-10-01-54-55.png)
 
 
 ## tech 

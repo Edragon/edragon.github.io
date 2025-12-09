@@ -1,6 +1,12 @@
 
 # flange-dat.md
 
+
+
+flange with [[reduction-gear-motor-dat]]
+
+![](2025-12-10-01-49-30.png)
+
 A flange is a protruding rim, lip, or ridge used for various purposes, including fixing, strengthening, guiding, or connecting. It can be a flat surface sticking out from an object, or a decorative edge on clothing. 
 
 ![](2025-06-07-13-12-02.png)

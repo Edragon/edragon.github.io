@@ -13,7 +13,14 @@
 
 - [[cable-dat]] - [[wire-steel-dat]]
 
+
+
+- [[sheet-dat]] - [[rod-system-dat]] == [[flange-dat]]
+
 ### turnover box
 
 
 
+## ref 
+
+- [[mechanics-dat]]

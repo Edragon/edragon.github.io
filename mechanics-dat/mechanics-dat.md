@@ -3,19 +3,13 @@
 
 - [[fab-dat]] - [[case-dat]]
 
-- [[materials-dat]] - [[glass-dat]]
 
 - [[Rivet-dat]] - [[Expansion-bolt-dat]]
-
-- [[tools-dat]] - [[mechanic-tools-dat]] - [[mechanic-tools]]
 
 - [[cable-dat]]
 
 - [[glue-dat]]
 
-
-
-- [[bearing-dat]] - [[nut-dat]]
 
 - [[CNC-dat]] - [[CAD-dat]]
 
@@ -23,21 +17,26 @@
 
 - [[PCB-installation-dat]]
 
-- [[mechanic-tools-dat]]
-
 - [[copper-spacer-dat]]
 
 
 
 - [[Lead-screw-dat]]
 
-- [[plastic-dat]]
+- [[materials-dat]] - [[plastic-dat]]
 
-- [[mechanical-structure-dat]] - [[PVC-tube-dat]] - [[aluminum-profile-dat]] - [[turnover-box-dat]] - [[cardboard-dat]] - [[shaft-plain-dat]] - [[shaft-dat]]
+- [[mechanical-structure-dat]] - [[PVC-tube-dat]] - [[aluminum-profile-dat]] - [[turnover-box-dat]] - [[cardboard-dat]] - [[shaft-plain-dat]] 
 
-- [[alu-extrusion-dat]] - [[motion-system-dat]]
+- [[rod-system-dat]] - [[shaft-dat]] - - [[alu-extrusion-dat]] - [[motion-system-dat]]
 
-- [[mechanical-parts-dat]]
+- [[mechanical-parts-dat]] - [[bearing-dat]] - [[nut-dat]] - [[flange-dat]] - [[crank-dat]] - [[hinge-dat]]
+  
+- [[mechanical-tools-dat]] - [[tools-dat]] - [[mechanical-tools]]
+
+- [[mechanism-dat]]
+
+
+
 
 - [[oil-mineral-dat]]
 

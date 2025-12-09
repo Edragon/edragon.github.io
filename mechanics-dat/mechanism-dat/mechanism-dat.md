@@ -15,6 +15,7 @@
 
 - [[chassis-dat]]
 
+- [[gear-worm-dat]]
 
 ## differential 
 

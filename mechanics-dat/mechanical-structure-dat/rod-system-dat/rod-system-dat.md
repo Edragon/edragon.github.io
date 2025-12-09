@@ -11,7 +11,13 @@
 
 - [[stainless-steel-hallow-tube-dat]]
 
-- [[rod-system-dat]] - [[hinge-dat]] - [[rod-tie-dat]]
+- [[rod-system-dat]] 
+
+- [[hinge-dat]] - [[rod-tie-dat]] - [[crank-dat]] - [[rod-dat]]
+
+- [[shaft-coupler-dat]]
+
+
 
 ## size 
 
@@ -56,6 +62,25 @@
 - **Conclusion:**  
   - For **lightweight RC planes, drones, or aerospace applications** → **3mm carbon rod** is preferred.  
   - For **mechanical shafts or parts under heavy impact** → **3mm stainless steel rod** is safer.
+
+
+
+
+
+## other 
+
+cantilevel 
+
+![](2025-12-10-02-17-22.png)
+
+tube cross locker 
+
+![](2025-12-10-02-33-45.png)
+
+vertical tube connector == water pipe joint
+
+
+![](2025-12-10-02-45-20.png)
 
 
 ## ref 
