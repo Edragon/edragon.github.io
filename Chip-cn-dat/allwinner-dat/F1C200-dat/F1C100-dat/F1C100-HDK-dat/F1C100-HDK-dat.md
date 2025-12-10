@@ -13,7 +13,7 @@
 
 - [[LCD-dat]] - [[touchpanel-dat]]
 
-- [[VGA-dat]] - [[camera-dat]]
+- [[VGA-dat]] - [[sensor-Camera-dat]]
 
 ## SCH 
 

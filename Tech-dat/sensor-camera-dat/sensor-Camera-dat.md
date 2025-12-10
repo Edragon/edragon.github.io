@@ -15,6 +15,9 @@
 
 - [[lens-dat]] - [[optical-design-dat]]
 
+
+
+
 ## boards 
 
 - [[ESP1000-dat]]
@@ -25,6 +28,12 @@
 
 - [[SCM1000-dat]] - [[SCM1002-dat]] - [[SCM1012-dat]] - [[SCM1013-dat]] - [[SCMS015-dat]]
 
+
+## sensor look like 
+
+![](2025-12-10-15-19-46.png)
+
+- [[TPLINK-dat]]
 
 ## Chip 
 

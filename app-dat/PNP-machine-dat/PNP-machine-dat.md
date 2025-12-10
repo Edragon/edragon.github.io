@@ -10,7 +10,7 @@
 - [[pnp-machine-software-dat]] - [[serial-dat]]
 
 
-- [[vacuum-pump-dat]] - [[motor-dat]] - [[camera-dat]] - [[vision-dat]]
+- [[vacuum-pump-dat]] - [[motor-dat]] - [[sensor-Camera-dat]] - [[vision-dat]]
 
 - [[pnp-machine]]
   

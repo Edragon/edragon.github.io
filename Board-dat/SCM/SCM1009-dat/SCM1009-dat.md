@@ -7,7 +7,7 @@
  
 ## Applications, category, tags, etc. 
 
-- [[Camera-dat]]
+- [[sensor-Camera-dat]]
 
 ## Demo Code and Video
 

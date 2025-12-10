@@ -100,7 +100,7 @@ includes
 
 - [[ESP-SDK-dat]]
 
-[[camera-dat]] 
+[[sensor-Camera-dat]] 
 
 - ESP32 - camera - CameraWebServer.ino
 

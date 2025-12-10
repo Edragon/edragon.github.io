@@ -19,7 +19,7 @@
 
 - [[USB-dat]] - [[USB-OTG-dat]]
 
-- [[sensor-dat]] - [[sensor-touch-dat]] - [[camera-dat]] - [[DHT11-dat]] - [[sensor-light-dat]]
+- [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-Camera-dat]] - [[DHT11-dat]] - [[sensor-light-dat]]
 
 - [[interface-interactive-dat]] - [[display-dat]]
 

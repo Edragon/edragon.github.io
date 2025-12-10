@@ -3,6 +3,10 @@
 
 - [[gear-dat]] - [[gear-worm-dat]] - [[gearbox-dat]]
 
+
+
+
+
 ## common gearbox 
 
 
@@ -21,6 +25,12 @@ ratio 1:1 dimension 50x50x25mm
 - [[gearbox-differential-dat]]
 
 
+
+## apps
+
+RC clawer gearbox 
+
+![](2025-12-10-15-21-24.png)
 
 ## ref 
 

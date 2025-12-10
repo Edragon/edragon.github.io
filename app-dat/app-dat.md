@@ -75,7 +75,7 @@
 
 ## done or on-hold
 
-tech based - [[camera-dat]] - [[audio-dat]]
+tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 
 ## industrial 

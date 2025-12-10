@@ -1,7 +1,7 @@
 
 # interface-interactive-dat
 
-- [[LCD-dat]] - [[camera-dat]]
+- [[LCD-dat]] - [[sensor-Camera-dat]]
 
 - [[RMT-dat]]
 

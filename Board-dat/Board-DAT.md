@@ -471,7 +471,7 @@ MT7688
 
 ### SCM 
 
-[[camera-dat]]
+[[sensor-Camera-dat]]
 
 - [[SCM1030-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]] - [[SCM1008-dat]]
 

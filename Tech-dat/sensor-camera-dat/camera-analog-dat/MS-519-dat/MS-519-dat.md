@@ -34,5 +34,5 @@ camera
 
 ## ref 
 
-- [[camera-dat]] - [[bee25-dat]]
+- [[sensor-Camera-dat]] - [[bee25-dat]]
 

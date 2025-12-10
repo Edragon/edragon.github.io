@@ -13,7 +13,7 @@ ALL-in-One Option
 - [[ELRS-dat]] - [[radio-dat]]
 - [[Flight-controller-dat]] 
 - [[ESC-dat]] - [[motor-FPV-dat]]
-- [[VTX-dat]] - [[camera-dat]]
+- [[VTX-dat]] - [[sensor-Camera-dat]]
 
 - [[X12-dat]] - [[CRAZYBEEF4SX1280-dat]]
 

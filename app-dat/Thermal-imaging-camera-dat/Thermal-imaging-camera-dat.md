@@ -30,6 +30,6 @@
 
 ## ref 
 
-- [[infrared-dat]] - [[camera-dat]]
+- [[infrared-dat]] - [[sensor-Camera-dat]]
 
 - [[Thermal-imaging-camera]]

@@ -7,6 +7,10 @@
 
 
 
+## microphone and front leds 
+
+![](2025-12-10-15-22-12.png)
+
 
 
 ## ref 

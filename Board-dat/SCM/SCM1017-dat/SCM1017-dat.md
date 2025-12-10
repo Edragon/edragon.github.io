@@ -9,7 +9,7 @@
  
 ## Applications, category, tags, etc. 
 
-- [[Camera-dat]] - [[OV7725-dat]]
+- [[sensor-Camera-dat]] - [[OV7725-dat]]
 
 ## Demo Code and Video
  

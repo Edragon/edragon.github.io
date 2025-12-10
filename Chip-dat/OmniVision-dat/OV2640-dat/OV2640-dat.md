@@ -1,6 +1,6 @@
 # OV2640-dat
 
-- [[camera-dat]]
+- [[sensor-Camera-dat]]
 
 
 - [[ESP32-S3-cam-dat]]
@@ -99,6 +99,6 @@ in a table :
 
 ## ref 
 
-- [[MIPI-CSI-dat]] - [[Camera-dat]]
+- [[MIPI-CSI-dat]] - [[sensor-Camera-dat]]
 
 - [[LDO-2CH-dat]]

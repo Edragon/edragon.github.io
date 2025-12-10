@@ -6,7 +6,7 @@
 
 ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 
-- [[camera-sdk-dat]] - [[camera-dat]] - [[OV2640-dat]]
+- [[camera-sdk-dat]] - [[sensor-Camera-dat]] - [[OV2640-dat]]
 
 - [[ESP32-SDK-dat]] - [[serial-dat]]
 

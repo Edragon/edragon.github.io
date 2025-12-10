@@ -3,7 +3,7 @@
 
 ## Camera 
 
-- [[camera-dat]]
+- [[sensor-Camera-dat]]
 
 ### IMX219 
 

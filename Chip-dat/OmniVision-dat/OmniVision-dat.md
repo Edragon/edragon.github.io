@@ -32,6 +32,6 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
 ## ref
 
-- [[Camera-dat]] - [[omnivision-dat]]
+- [[sensor-Camera-dat]] - [[omnivision-dat]]
 
 - [[SCM1009]] - [[SCM1008]] - [[SCM1030]]

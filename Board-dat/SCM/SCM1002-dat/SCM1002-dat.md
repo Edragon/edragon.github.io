@@ -13,7 +13,7 @@
 
 ## Applications, category, tags, etc. 
 
-- [[camera-dat]] - [[UVC-dat]]
+- [[sensor-Camera-dat]] - [[UVC-dat]]
 
 ## Demo Code and Video
 

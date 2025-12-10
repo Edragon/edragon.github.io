@@ -2,7 +2,7 @@
 # video-dat
 
 
-- [[vision-dat]] - [[video-dat]] - [[camera-dat]]
+- [[vision-dat]] - [[video-dat]] - [[sensor-Camera-dat]]
 
 
 ## tech 
@@ -49,4 +49,4 @@ It is possible to transmit **720p analog video** over a **1 Mbps** data bandwidt
 
 ## ref 
 
-- [[camera-dat]]
+- [[sensor-Camera-dat]]

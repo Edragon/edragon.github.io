@@ -41,7 +41,7 @@
 
 ## suport 
 
-- [[camera-dat]] == OV7670，OV2640等
+- [[sensor-Camera-dat]] == OV7670，OV2640等
 
 
 - [[keyboard-dat]] == support wireless keyboard

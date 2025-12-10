@@ -5,7 +5,7 @@
 
 [[control-system-dat]] - [[RPI-dat]] - [[PS2-console-dat]]
 
-[[sensor-dat]] - [[camera-dat]] - [[RPI-camera-dat]]
+[[sensor-dat]] - [[sensor-Camera-dat]] - [[RPI-camera-dat]]
 
 [[power-dat]] - [[lithium-battery-dat]]
 

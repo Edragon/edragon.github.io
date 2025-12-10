@@ -2,7 +2,7 @@
 # video-RC-car-dat
 
 
-[[tech-dat]] - [[Camera-dat]] - [[rc-car-dat]] - [[video-transmission-dat]] - [[robot-dat]]
+[[tech-dat]] - [[sensor-Camera-dat]] - [[rc-car-dat]] - [[video-transmission-dat]] - [[robot-dat]]
 
 - [[rc-car-hack-dat]]
 

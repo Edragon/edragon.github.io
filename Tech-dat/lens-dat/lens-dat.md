@@ -4,8 +4,116 @@
 
 - [[glue-lens-dat]] - [[glue-dat]]
 
+- [[sensor-camera-dat]]
+
+
+## lens with infrared 
+
+![](2025-12-10-15-22-41.png)
+
+![](2025-12-10-15-23-07.png)
+
+![](2025-12-10-15-23-50.png)
+
+![](2025-12-10-15-24-08.png)
+
+inside of the lens 
+
+![](2025-12-10-15-24-28.png)
+
+
+
 ## camera lens
 
+
+### 1G6P structure
+
+    Front (facing object)
+    ────────────────────────────
+    1 × Glass lens (G)
+    6 × Plastic lenses (P)
+    Spacer rings
+    Long rear barrel (tube structure)
+    Rear protective window (your breakable piece)
+    M12 metal housing
+
+in chinese 
+
+    前方（朝向物体）
+    ─────────────────────
+    | 第1片：玻璃透镜（1G 的 G，即唯一一片玻璃） |
+    | 第2片：塑料透镜（P）                         |
+    | 第3片：塑料透镜（P）                         |
+    | 第4片：塑料透镜（P）                         |
+    | 第5片：塑料透镜（P）                         |
+    | 第6片：塑料透镜（P）                         |
+    | 第7片：塑料透镜（P）                         |
+    ─────────────────────
+    | 后组保护片（可被损坏的那片，多叫 Shield 或 IR） |
+    | IR-cut filter（红外截止滤光片） *
+    | Spacer（间隔环）                              |
+    | Rear Barrel（后镜筒）                          |
+    ─────────────────────
+    传感器
+
+
+### lens structure 
+
+#### **1. Glass + plastic lenses**
+- 1 glass lens in the front  
+- 6 plastic lenses behind  
+- Held by the long tubular structure (rear barrel)
+
+#### **2. Rear Barrel ("the long tube inside")**
+- The long cylindrical module inside the metal housing  
+- Holds and aligns all lenses  
+- Controls internal light path  
+- Not itself a lens
+
+#### **3. Rear Protective Window (the breakable piece)**
+- Flat optical-grade glass or clear polymer  
+- Always placed at the very back of the lens  
+- Easy to remove or break  
+- Does not change FOV or focus significantly  
+- Only protects, not part of the lens formula
+
+---
+
+#### What Happens if You Remove the Protective Window?
+
+##### ✔ Image still works normally  
+Because it is **not part of the optical design**.
+
+##### ✔ More dust risk  
+Dust may settle on the last lens surface, causing spots.
+
+#### ✔ Last optical element becomes exposed  
+Plastic lenses scratch very easily.
+
+##### ✔ You may need to improve sealing  
+Especially if you plan to waterproof the lens.
+
+
+
+
+
+### 🟥 (A) IR‑Cut Filter (Infrared Cut Filter)
+
+Most M12 lenses have a small IR‑cut piece near the sensor:
+
+- IR‑cut (infrared cut filter)
+- Very thin
+- Looks like glass
+- Breaks if pressed
+- Shows a slight blue‑green reflection
+- Purpose: block infrared light to improve white balance and color accuracy
+
+📌 Note: this is the most common “fragile small lens.”
+
+If you break it:
+- Daytime colors shift toward pink / red
+- Night view becomes brighter  
+  (Many night‑vision cameras intentionally omit this filter.)
 
 
 

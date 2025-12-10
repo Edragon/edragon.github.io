@@ -2,6 +2,8 @@
 # glue-lens-dat
 
 
+⚠️注意：胶水只能涂在 镜头金属外壳的螺纹区域、外壁、固定环位置, 绝不能涂在镜片表面，否则必然毁掉成像。
+
 ## **A. Optical-grade Epoxy (Best + Most Common)**
 Examples:
 - **EPO-TEK 301**
@@ -20,6 +22,7 @@ Examples:
 - Must be applied carefully
 
 ---
+
 
 ## **B. Optical UV Adhesives**
 Examples:

@@ -134,7 +134,7 @@ datasheet - [[F133_Datasheet_V1.0_whycan.pdf]]
 
 - [[oled-dat]] - [[amoled-dat]] - [[display-dat]] 
 
-- [[camera-dat]] - [[DVP-display-dat]] 
+- [[sensor-Camera-dat]] - [[DVP-display-dat]] 
 
 
 ## SCH 

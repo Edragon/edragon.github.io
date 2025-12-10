@@ -169,6 +169,6 @@ The TBS Unify Pro32 Nano 5.8GHz VTX is a compact and feature-rich video transmit
 
 ## ref 
 
-- [[VTX-dat]] - [[camera-dat]] - [[wireless-camera-dat]]
+- [[VTX-dat]] - [[sensor-Camera-dat]] - [[wireless-camera-dat]]
 
 - [[FPV-dat]]

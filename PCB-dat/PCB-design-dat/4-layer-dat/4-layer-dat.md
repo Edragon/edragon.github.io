@@ -66,6 +66,6 @@ This stackup helps with:
 
 - [[PCB-dat]]
 
-- [[camera-dat]]
+- [[sensor-Camera-dat]]
 
 - [[c]]

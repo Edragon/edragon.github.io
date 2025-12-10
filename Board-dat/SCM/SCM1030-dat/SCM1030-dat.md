@@ -44,7 +44,7 @@ ESP-32CAM is packaged in DIP and can be directly plugged into the backplane for 
 
 ### Setup with official codes 
 
-- [[Camera-dat]] - [[OV2640-dat]]
+- [[sensor-Camera-dat]] - [[OV2640-dat]]
 
 pin define 
 
@@ -188,7 +188,7 @@ GPIO PINS: (from alanesq/esp32cam-demo) - [[sd-dat]]
 
 - default factory firmware demo [[ai-thinker_ESP32-CAM_DIO_V1.0_20180825.bin]]
 
-- [[camera-dat]]
+- [[sensor-Camera-dat]]
 
 - [[SCM1030]]
 - https://wiki.ai-thinker.com/esp32-cam

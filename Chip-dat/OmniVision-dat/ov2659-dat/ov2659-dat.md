@@ -3,6 +3,6 @@
 
 - 1600*1200
 
-- [[UVC-dat]] - [[camera-dat]]
+- [[UVC-dat]] - [[sensor-Camera-dat]]
 
 

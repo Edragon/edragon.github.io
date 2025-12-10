@@ -86,7 +86,7 @@ This example, based on ESP_Brookesia, demonstrates an Android-like interface wit
 
 **Required Hardware:**
 - 10.1-inch display and accessories
-- OV5647 or SC2336 camera and ribbon cable - [[camera-dat]]
+- OV5647 or SC2336 camera and ribbon cable - [[sensor-Camera-dat]]
 - 8Ω 2W speaker
 - ESP32-P4  (host)
 
