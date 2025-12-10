@@ -21,7 +21,70 @@ inside of the lens
 
 ![](2025-12-10-15-24-28.png)
 
+## lens and oil 
 
+How mineral oil affects lens materials
+
+### ● Glass elements  
+Mineral oil **does not damage glass**. No dissolving or warping.
+
+### ● Optical coatings (multi-coatings)  
+Mineral oil does **not chemically attack coatings**, but it can leave an **oil film**.  
+This causes:
+- lower contrast  
+- foggy look  
+- ghosting  
+
+### ● Optical glue (UV glue / epoxy glue)  
+Most lens groups use **epoxy-based optical cement**.  
+- Short-term contact: usually **safe**  
+- Long-term soaking: may **soften**, **yellow**, or **release stress**
+
+### ● Plastic parts (ABS, PC, nylon)  
+Usually **stable** in mineral oil.  
+Some plastics may swell after many months.
+
+
+## lens tuning
+
+![](2025-12-10-19-40-21.png)
+
+### Six keys to maintain clarity after oil immersion
+
+- Use oil with a consistent, stable refractive index
+- Avoid any trapped air bubbles
+- Ensure every lens surface is completely clean
+- Lens elements must not be decentered or loose
+- Use oil that stays clear long-term (no discoloration or precipitation)
+- Re-focus after oiling to restore optimal imaging
+
+🔹 Step 3: Loosen M12 lens lock
+
+Most M12 lenses have a locking ring / small set screw.
+
+Loosen just enough to rotate the lens for focus adjustment.
+
+Keep the lens barrel supported.
+
+🔹 Step 4: Adjust focus
+
+Rotate the lens barrel slowly while observing the live camera feed.
+
+Look for the sharpest image on your test target.
+
+Zoom in on the LCD or PC and check multiple points (center + edges).
+
+Fine-tune until center and corners are acceptably sharp.
+
+Note: Oil can slightly change corner distortion, so prioritize center sharpness.
+
+🔹 Step 5: Lock the lens
+
+Tighten the M12 locking ring or set screw after final focus.
+
+Avoid over-tightening (plastic threads may strip).
+
+Make sure the lens does not move after locking.
 
 ## camera lens
 
