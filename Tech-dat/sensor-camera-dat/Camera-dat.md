@@ -12,6 +12,9 @@
 
 - [[camera-SDK-dat]] - [[camera-sys-dat]]
 
+
+- [[lens-dat]] - [[optical-design-dat]]
+
 ## boards 
 
 - [[ESP1000-dat]]

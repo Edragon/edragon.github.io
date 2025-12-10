@@ -30,6 +30,14 @@
 
 
 
+## water tube standard 
+
+- 1/4 
+- 1/8 
+- 3/8
+- 1/2
+
+
 
 ## PVC DN standard 
 

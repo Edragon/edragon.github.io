@@ -8,7 +8,9 @@
 
 - [[materials-dat]] - [[foam-dat]]
 
+- [[cardboardboard-dat]]
 
+![](2025-12-10-12-53-18.png)
 
 ## MDF sheet 
 
