@@ -5,6 +5,7 @@
 
 [High Power Interactive LED Panel 25W](https://www.electrodragon.com/product/high-power-interactive-led-panel-25w/)
 
+- software - [[megatinycore-dat]]
 
 ## hardware 
 
@@ -13,10 +14,26 @@
 ![](2023-10-11-15-42-45.png)
 
 
+- [[led-dat]] - [[tinyAVR-dat]]
+
+power supply - [[li-battery-dat]] 4.2V 
+
 
 
 
 ## Pin Definitions 
+
+board == - [] ATtiny412/402/212/202
+
+SOP 8 
+
+|     |      | arduino | index | left | right | index | arduino |      |          |
+| --- | ---- | ------- | ----- | ---- | ----- | ----- | ------- | ---- | -------- |
+|     |      |         | 1     | VCC  | GND   | 8     |         |      |          |
+| IR  | TXD0 | 0       | 2     | PA6  | PA3   | 7     | 4       |      | LED_CTRL |
+| BTN | RXD0 | 1       | 3     | PA7  | PA0   | 6     | 5       | UPDI |          |
+| TXD | TXD2 | 2       | 4     | PA1  | PA2   | 5     | 3       | RXD2 | GND_DET  |
+
 
 Solar Panel Input = un-regulated higher DC input
 - SO+
@@ -27,7 +44,7 @@ Solar Panel Input = un-regulated higher DC input
 - G = GND
 - R = Infrared input 
 
-Battery In  
+[[Battery-dat]] In  
 - B+ = LED+
 - B- = GND
 
@@ -60,7 +77,7 @@ Other Pins
 
 - demo code - https://github.com/Edragon/Arduino-attiny
 
-
+- [[arduino-dat]]
 
 
 

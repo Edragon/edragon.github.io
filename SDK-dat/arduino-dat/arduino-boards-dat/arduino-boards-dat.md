@@ -31,7 +31,14 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 https://nulllab.coding.net/p/lgt/d/nulllab_lgt_arduino/git/raw/master/package_nulllab_boards_index_zh.json
 
+
+
+
+
 ## Attiny 
+
+
+- [[megaTinyCore]]
 
 - [[attiny-dat]] - [[attiny13-dat]]
 
@@ -40,6 +47,10 @@ https://nulllab.coding.net/p/lgt/d/nulllab_lgt_arduino/git/raw/master/package_nu
 
 megaTinyCore by Spence Konde
 http://drazzy.com/package_drazzy.com_index.json
+
+
+
+
 
 ## obseleted logs 
 

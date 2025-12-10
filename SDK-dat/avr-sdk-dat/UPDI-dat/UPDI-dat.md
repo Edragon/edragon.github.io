@@ -36,6 +36,14 @@ https://github.com/SpenceKonde/jtag2updi/
 original - https://github.com/ElTangas/jtag2updi
 
 
+## case 2 prgrammering 
+
+- [[ILE1073-dat]] 
+
+
+
+## case 1 
+
 ![](2024-05-31-18-25-27.png)
 
 Common Errors 
