@@ -40,7 +40,7 @@ original - https://github.com/ElTangas/jtag2updi
 
 - [[ILE1073-dat]] 
 
-
+![](2025-12-10-18-22-25.png)
 
 ## case 1 
 
