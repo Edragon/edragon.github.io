@@ -19,6 +19,11 @@ arduino shield - [[DAS1013-dat]]
 
 controller - [[SIR1003-dat]]
 
+[[LED-dat]] panel - [[ILE1073-dat]]
+
+
+
+
 ## infrared pairs - 2 Pin 
 
 ![](2025-11-08-18-15-11.png)

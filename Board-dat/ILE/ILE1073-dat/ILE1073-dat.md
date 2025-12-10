@@ -12,13 +12,17 @@
 
 ![](2023-10-11-15-42-45.png)
 
+
+
+
+
 ## Pin Definitions 
 
 Solar Panel Input = un-regulated higher DC input
 - SO+
 - SO-
 
-Infrared Control
+[[Infrared-dat]] Control
 - V = VCC
 - G = GND
 - R = Infrared input 
@@ -46,11 +50,19 @@ Other Pins
 
 ![](2023-10-11-15-31-05.png)
 
+
+
+
+
 ## Demo 
 
 - https://www.electrodragon.com/w/Demo_Video
 
 - demo code - https://github.com/Edragon/Arduino-attiny
+
+
+
+
 
 ## ref 
 

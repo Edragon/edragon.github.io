@@ -1,0 +1,6 @@
+
+# magnetic-dat
+
+
+- [[motor-dat]]
+- 
