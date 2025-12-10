@@ -1,4 +1,3 @@
-
 # glue-lens-dat
 
 
@@ -20,6 +19,24 @@ Examples:
 **Cons**
 - Long curing time  
 - Must be applied carefully
+
+Recommended models:
+
+- EPO-TEK 301
+- EPO-TEK 301-2
+- EPO-TEK OG142 / OG159-2
+- Loctite 3771 (Optical Epoxy)
+
+Advantages:
+- Does not whiten (no blooming)
+- Safe for plastic lens elements
+- Very high transparency
+- High mechanical strength after cure
+- Can be used for waterproof sealing
+
+Suitable for:
+- Bonding a dust/protective cover to the rear of the lens
+- Sealing the lens rear for waterproofing
 
 ---
 
@@ -44,3 +61,5 @@ Examples:
 ## ref 
 
 - [[glue-dat]] - [[lens-dat]]
+
+- [[glue-lens]]
