@@ -7,6 +7,33 @@
 - [[sensor-camera-dat]]
 
 
+
+## 1️⃣ 光学参数
+
+| 参数                                             | 作用 / 注意点                                                  |
+| ------------------------------------------------ | -------------------------------------------------------------- |
+| **焦距 (Focal Length, f)**                       | 镜头的主成像能力；液体中有效焦距会增加，焦点远离镜头           |
+| **光学总长 (TTL, Total Track Length)**           | 镜头前端到后焦点的物理长度；液体中焦平面位置会变化，需要留余量 |
+| **光学后焦距 (Optical Back Focal Length, OBFL)** | 后焦长度决定光线聚焦位置；液体中 OBFL 会明显增加，是最关键参数 |
+| **最近对焦距离 (Minimum Object Distance, MOD)**  | 液体中物距增加，需要确保对焦范围覆盖目标                       |
+| **镜片材料折射率 (n_glass / n_plastic)**         | 与液体折射率接近可减少焦距漂移和像差                           |
+| **镜片组数 / 结构 (Lens Groups / Elements)**     | 多组多片镜头在液体中像差大，单组或双组结构更易适应             |
+| **视场 (FOV / Field of View)**                   | 超广角镜头液体中畸变更严重，需要考虑容忍度                     |
+| **畸变 / TV Distortion**                         | 高畸变镜头在液体中更难校正，鱼眼/全景镜头敏感性高              |
+
+---
+
+## 2️⃣ 机械参数
+
+| 参数                                    | 注意点                                     |
+| --------------------------------------- | ------------------------------------------ |
+| **总长度与安装余量**                    | 聚焦后光学长度必须在安装空间范围内         |
+| **对焦调整范围 (Focus Travel)**         | 液体中焦点远离原设计位置，需要足够调焦余量 |
+| **螺纹或安装接口 (M12, C-Mount, etc.)** | 稳固安装且不易漏液                         |
+| **镜头与传感器夹紧力矩**                | 防止液体压力下镜头旋转或移位               |
+
+
+
 ## lens with infrared 
 
 ![](2025-12-10-15-22-41.png)
@@ -185,15 +212,85 @@ If you break it:
 ![](2025-12-10-15-12-33.png)
 
 
-### Specifications - M12 小型 3.9mm 焦距、F1.0 大光圈镜头
+
+comparison table
+
+| Parameter / Lens model                | lens 1                                                                                  | U1.56mm 5MP panoramic                                | 1.78mm                                                         |
+| ------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------- |
+| Focal length (mm)                     | 3.9 ±5%                                                                                 | 1.56                                                 | 1.78                                                           |
+| Optical back focal length (OBFL) (mm) | 3.94 ±0.2                                                                               | Not provided                                         | Not provided                                                   |
+| Total optical length (TTL) (mm)       | 22.24 ±0.2                                                                              | Not provided                                         | Not provided                                                   |
+| Minimum object distance (M.O.D)       | 2 m                                                                                     | Not provided                                         | Not provided                                                   |
+| Lens construction                     | 1G6P                                                                                    | Not provided                                         | Not provided                                                   |
+| FOV H / V (°)                         | 88.1 / 47.5 (1/2.7")                                                                    | ~180°                                                | ~160–170°                                                      |
+| Liquid immersion suitability          | Moderate (requires oil correction or air + flat port)                                   | Poor (large focus shift, severe edge blur)           | Slightly better than 1.56mm, but still too short               |
+| Remarks                               | Focus range sufficient, but multiple plastic lens groups will distort when oil-immersed | Ultra-wide short-focus; difficult to focus in liquid | Focus shift still severe; only suitable for center observation |
+
+
+
+| 参数                    | 你的镜头 M12 3.9mm F1.0                | 推荐液体浸泡镜头规格                           |
+| ----------------------- | -------------------------------------- | ---------------------------------------------- |
+| 焦距 (mm)               | 3.9 ±5%                                | 3–6 mm（中焦偏广角）                           |
+| 光学后焦距 OBFL (mm)    | 3.94 ±0.2                              | 5–8 mm（保证液体中焦点可调到传感器）           |
+| 光学总长 TTL (mm)       | 22.24 ±0.2                             | 25–35 mm（包含机械调焦余量，适应液体焦点漂移） |
+| 最近对焦距离 M.O.D      | 2 m                                    | ≥0.5 m（液体中焦点偏移增加）                   |
+| 镜片结构                | 1G6P                                   | 单组或双组玻璃/耐油塑料，避免多片塑料组        |
+| FOV 水平 / 垂直 (°)     | 88.1 / 47.5 (1/2.7")                   | 70–90°（避免超广角液体畸变严重）               |
+| 液体中焦点漂移估算 (mm) | ≈ 1.9 mm                               | ≤2 mm（可通过机械调节补偿）                    |
+| 液体浸泡适应性          | 中等偏好（需要油校正或空气+平面端口）  | 高（设计用于油浸或水下，折射率匹配）           |
+| 备注                    | 聚焦范围足够，但多组塑料镜片油浸会畸变 | 专用油浸或水下镜头，确保清晰成像全画面         |
+
+
+
+### lens 2 
+
+  相对孔径<Aperture D/f'> == F1:2.2
+  焦距<Focal-Length (mm)> == 25mm
+  像面大小<lmage circle> == 1/3"
+
+  机械后焦<Flange Bake Focal-Length （mm)> == 6mm
+  光学总长<TTL> == 25
+  最近焦距<M.0. D(M) == 0.2
+
+
+| Parameter                       | Value |
+| ------------------------------- | ----: |
+| Aperture (D / f')               |  F2.2 |
+| Focal length (mm)               | 25 mm |
+| Image circle                    |  1/3" |
+| Flange back focal length (mm)   |  6 mm |
+| Total optical length (TTL) (mm) | 25 mm |
+| Minimum object distance (M.O.D) | 0.2 m |
+
+✅ 总结
+
+优点：
+
+焦距 25 mm 属于中焦偏广角 → 液体中焦点漂移比例小
+
+TTL 25 mm + 后焦 6 mm → 可以通过机械调焦补偿液体折射引起的焦点移动
+
+最近对焦距离短 → 可以对近景拍摄
+
+适合液体浸泡：
+
+相比超短焦 1.5–3.9 mm 镜头，这款镜头在油浸或水下使用更稳定
+
+成像清晰度更好，畸变小
+
+结论：这款镜头是一个适合油浸或水泡环境的选择，尤其是追求全画面清晰、可调焦的场景。
+
+
+
+### lens 1 - Specifications - M12 小型 3.9mm 焦距、F1.0 大光圈镜头
 
 - Aperture (F No.): 1.0 ±10%
 - Focal length (焦距): 3.9 ±5%
-- Optical back focal length (Optical Back Focal Length): 3.94 ±0.2 mm (in air)
-- Mechanical back focal length (Mechanical Back Focal Length): 3.85 ±0.2 mm (in air)
-- Total lens length (TTL): 22.24 ±0.2 mm (in air)
+- Optical back focal length (Optical Back Focal Length): **3.94 ±0.2 mm (in air)**
+- Mechanical back focal length (Mechanical Back Focal Length): **3.85 ±0.2 mm (in air)**
+- Total lens length (TTL): **22.24 ±0.2 mm (in air)**
 - Image circle (像面大小): Ø6.9 mm (MAX)
-- Lens structure (镜片构成): 1G6P — note: if the first element is a plastic lens, wipe with alcohol only up to 3 times
+- Lens structure (镜片构成): **1G6P** — note: if the first element is a plastic lens, wipe with alcohol only up to 3 times
 - Mount (接口): M12 × P0.5
 - Lens-to-base clamp torque (镜头与底座螺纹配合扭力): 60–600 gf·cm
 - Minimum object distance (近摄距 / M.O.D): 2 m
@@ -251,6 +348,12 @@ Notes:
 
 ![](2025-12-10-15-11-17.png)
 
+
+## infrared lens 
+
+红外镜头，就是晚上有红外灯光时能看见，换镜头时先确认原装镜头底部有没有加650（镜头底部有片发红玻璃片，如下图示意）红外载止滤光片等一些特别的差异地方，如果有加而你没有备注加上，回去换上画面可能会偏红，颜色偏灰，绿色偏紫
+
+![](2025-12-11-19-47-20.png)
 
 
 ## ref 
