@@ -7,9 +7,16 @@
 
 - [[fab-PCBA-dat]]
 
+
+
+
 ## pitch large footprint
 
 - [[SOP-dat]]
+
+## pitch 0.8mm 
+
+- [[TQFP-dat]]
 
 ## pitch 0.5mm footprint
 
@@ -18,6 +25,8 @@
 - [[QFP-dat]] 
 
 - [[SSOP-dat]] 
+
+
 
 ## pitch 0.4mm footprint
 

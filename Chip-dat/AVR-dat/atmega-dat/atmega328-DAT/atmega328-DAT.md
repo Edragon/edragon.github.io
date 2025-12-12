@@ -7,6 +7,7 @@
 - chips offer - without bootloader [[CIC1042-dat]] - with bootloader [[CIC1013-dat]]
 
 
+- [[TQFP-dat]]
 
 ## DIP 28
 
