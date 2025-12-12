@@ -1,6 +1,10 @@
 
 # CCO3627-dat
 
+
+- [[footprint-dat]]
+
+
 - 150 mil = 3.81
 
 - 适用机器：

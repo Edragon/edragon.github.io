@@ -25,7 +25,7 @@
 
 - [[pump-dat]]
 
-
+- [[thermal-printer-dat]]
 
 ## Boards 
 

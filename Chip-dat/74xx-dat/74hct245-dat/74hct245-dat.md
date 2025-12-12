@@ -13,6 +13,10 @@ Octal bus transceiver with direction pin with 5 V tolerant input/outputs (3-stat
 
 - [[74HC245-dat]]
 
+SN74LVCH16T245 16-bit Dual-supply Bus Transceiver - With Configurable Level-Shifting/Voltage Translation and Tri-State Outputs
+
+SN74AVC2T245 Dual-Bit Dual-Supply Bus Transceiver with Configurable LevelShifting / Voltage Translation and Tri-State Outputs
+
 
 ## ref 
 

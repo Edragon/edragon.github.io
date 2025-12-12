@@ -137,6 +137,22 @@ Here’s a list of 30 commonly used types of sensors, categorized by their typic
 - Manual tuning in Angle Mode is usually best for Mobula8.
 
 
+## repo-data 
+
+https://github.com/Edragon/proj-sensor
+
+https://github.com/Edragon/sensor-SGP30
+
+https://github.com/Edragon/sensor-aosong
+
+https://github.com/Edragon/sensor-motion
+
+https://github.com/Edragon/sensor-TDS
+
+https://github.com/Edragon/Sensor
+
+https://github.com/hechao/Camera
+
 
 ## ref 
 

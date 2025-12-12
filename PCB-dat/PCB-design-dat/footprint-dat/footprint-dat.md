@@ -9,6 +9,19 @@
 
 
 
+## boards 
+
+- [[CCO3628-dat]] - [[CCO3627-dat]]
+
+- [[DPR1016-dat]]
+
+- [[CCO3626-dat]] - [[CCO3629-dat]] - [[prog-socket-SMD2DIP-dat]]
+
+
+## footprints 
+
+- [[PLCC-dat]]
+
 
 ## pitch large footprint
 

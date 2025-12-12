@@ -7,6 +7,10 @@
 
 - [[DS18B20-dat]] - [[dallas-dat]] - [[sensor-temperature-dat]]
 
+
+
+
+
 ## SCH 
 
 ![](2023-12-28-16-13-37.png)
