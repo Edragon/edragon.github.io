@@ -23,7 +23,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - [[wireless-camera-dat]] == two types of FPV camera research 
   
-- [[Millimeter-wave-radar-dat]] advantages compare to [[PIR-sensor-dat]]
+- [[sensor-radar-Millimeter-wave-dat]] advantages compare to [[PIR-sensor-dat]]
 
 - new shipping rules find out for US [[US-dat]]
 

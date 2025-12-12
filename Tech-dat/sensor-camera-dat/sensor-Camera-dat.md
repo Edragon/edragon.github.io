@@ -160,3 +160,5 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 - [[SCM1009]] - [[SCM1008]] - [[SCM1030]]
 
 - [[camera]]
+
+- [[oil-soaking-dat]]

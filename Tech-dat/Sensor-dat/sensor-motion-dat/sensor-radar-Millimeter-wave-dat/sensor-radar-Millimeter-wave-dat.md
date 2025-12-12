@@ -1,5 +1,5 @@
 
-# Millimeter-wave-radar-dat
+# sensor-radar-Millimeter-wave-dat
 
 - compare to [[PIR-sensor-dat]]
 

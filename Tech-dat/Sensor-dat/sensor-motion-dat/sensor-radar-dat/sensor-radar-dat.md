@@ -1,7 +1,7 @@
 
 # radar-sensor-dat
 
-- [[RCWL-sensor-dat]] - [[SMO1090-dat]]
+- [[sensor-RCWL-dat]] - [[SMO1090-dat]]
 
 **A radar sensor** uses radio waves to detect objects, measure their distance, speed, and direction. It works well in various weather and lighting conditions and is commonly used in automotive, industrial, and security applications.
 

@@ -33,8 +33,25 @@
 | **镜头与传感器夹紧力矩**                | 防止液体压力下镜头旋转或移位               |
 
 
+## lens tuning issue 
 
-## lens with infrared 
+focus is not positioned on the sensor after immersion in oil or water
+
+
+![](2025-12-12-18-19-56.png)
+
+![](2025-12-12-18-20-23.png)
+
+
+## lens 2 
+
+M12 screw mount lens, 
+
+![](2025-12-12-18-18-46.png)
+
+![](2025-12-12-18-18-58.png)
+
+## lens with infrared filter 
 
 ![](2025-12-10-15-22-41.png)
 

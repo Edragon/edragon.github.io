@@ -14,6 +14,14 @@
 
 - [[qstcorp-dat]]
 
+## sensor proximity 
+
+- [[sensor-lidar-dat]] - [[sensor-radar-dat]] - [[sensor-pir-dat]] - [[sensor-ultrasonic-dat]] - [[sensor-TOF-dat]] 
+
+- [[sensor-radar-Millimeter-wave-dat]]
+
+- [[sensor-camera-dat]]
+
 
 ## Sensor Comparison Table
 

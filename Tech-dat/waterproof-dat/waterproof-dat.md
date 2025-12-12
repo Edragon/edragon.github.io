@@ -21,7 +21,9 @@
 
 
 
+## boards 
 
+- [[SMO1085-dat]]
 
 ## waterproof level 
 
@@ -52,7 +54,17 @@
 
 
 
+## demo 
 
+- [[sensor-camera-dat]] - [[power-dat]] - [[network-dat]] - [[ethernet-dat]] - [[TPLINK-dat]]
+
+![](2025-12-12-18-17-13.png)
+
+![](2025-12-12-18-17-21.png)
+
+![](2025-12-12-18-17-53.png)
+
+![](2025-12-12-18-18-05.png)
 
 
 ## ref 
