@@ -4,10 +4,12 @@
 - [[stepper-driver-dat]]
 
 
+
 ## boards 
 
 - [[SCU1024-dat]]
 
+[[motor-driver-dat]] - [[SDR1050-dat]]
 
 ## common options 
 

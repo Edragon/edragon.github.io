@@ -1,6 +1,14 @@
 
 # microphone-sensor-dat
 
+
+
+## boards 
+
+- [[SSL1032-dat]]
+
+## types 
+
 - [[I2S-microphone-dat]]
 
 - [[Analog-microphone-dat]] - [[Electret-Condenser-Microphone-dat]]

@@ -22,6 +22,14 @@
 
 - [[logic-analyzer-dat]]
 
+## cables 
+
+- [[cable-dat]] - [[conn-dat]] 
+
+
+- [[CONN-Banana-plug-dat]] - [[CONN-Alligator-clip-dat]] - [[PCG1012-dat]] - [[CONN-dat]]
+
+
 
 
 ## ref 

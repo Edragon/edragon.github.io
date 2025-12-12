@@ -34,6 +34,10 @@
 
 
 
+- [[CONN-Banana-plug-dat]] - [[CONN-Alligator-clip-dat]] - [[PCG1012-dat]] - [[CONN-dat]]
+
+
+
 ## standard connector 
 
 - [[mini-pcie-dat]] == 52P

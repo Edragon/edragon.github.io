@@ -46,6 +46,6 @@ Pin definitiions:
  
 - comparator - [[LM393-dat]]
   
-- [[sensor-moisture-dat]] - [[sensor-dat]]
+- [[sensor-moisture-dat]] - [[sensor-dat]] - [[sensor-ambient-dat]]
 
 - [[STH1052]]

@@ -238,6 +238,10 @@ USB
 
 - [[OPS1009-DAT]] - [[OPS1013-dat]]
 
+### PCG 
+
+- [[PCG1012-dat]]
+
 ### MOT
 
 - [[MOT1009-DAT]] - [[MOT1022-dat]]
@@ -549,7 +553,7 @@ Motion sensor
 
 - [[SSL1042-dat]] - [[SSL1045-dat]] - [[SSL1034-dat]] - [[SSL1050-dat]]
 
-
+[[sensor-microphone-dat]] - [[SSL1032-dat]]
 
 ### SVC
 
