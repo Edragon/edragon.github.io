@@ -8,7 +8,7 @@ legacy wiki page - https://www.electrodragon.com/w/Category:Pressure_sensor
 
 - [[BMP280-dat]] - [[BME280-dat]]
 
-
+- [[sensor-pressure-dat]]
 
 
 

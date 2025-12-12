@@ -1,19 +1,18 @@
 
 # sensor-dat 
 
-- [[Camera-dat]] - [[sensor-microphone-dat]]
+- [[sensor-Camera-dat]] - [[sensor-microphone-dat]]
 
 - [[sensor-motion-dat]] - [[sensor-PIR-dat]] - [[radar-sensor]] - [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-axis-magnetic-dat]] - [[6-axis-dat]]
 
-- [[RCWL-dat]] - [[sensor-TOF-dat]] - [[angle-encoder-dat]]
+- [[sensor-RCWL-dat]] - [[sensor-TOF-dat]] - [[angle-encoder-dat]]
 
 - [[gas-sensor-dat]]
 
-- [[Peltier-dat]] - [[sebeck-dat]]
+- [[Peltier-dat]] - [[seebeck-dat]]
 
-- [[sensor-temp-hum-dat]] - [[humidity-sensor]]
 
-- [[sensor-temperature-dat]] - [[thermocouple-dat]] - [[thermostat-dat]] - [[sensor-RTD-dat]]
+
 
 
 - [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
@@ -21,13 +20,20 @@
 - [[sensor-voltage-dat]]
 
 
-- [[actuator-dat]] - [[relay-dat]]
+- [[acturator-dat]] - [[relay-dat]]
 
-- [[hall-sensor-dat]] - [[angle-encoder-dat]]
+- [[sensor-hall-dat]] - [[angle-encoder-dat]]
 
-- [[sensor-pressure-dat]]
 
-- [[sensor-water-level-dat]]
+
+- [[sensor-ambient-dat]] - [[sensor-water-level-dat]] - [[sensor-temp-hum-dat]] - [[sensor-humidity-dat]] - [[sensor-pressure-dat]]
+
+- [[sensor-moisture-dat]]
+
+- [[sensor-temperature-dat]] - [[thermocouple-dat]] - [[thermostat-dat]] - [[sensor-RTD-dat]]
+
+
+
 
 
 ## Sell 

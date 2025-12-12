@@ -527,6 +527,8 @@ Motion sensor
 
 - [[SMO1073-dat]]
 
+[[sensor-ultrasonic-dat]]
+
 
 ### STH
 

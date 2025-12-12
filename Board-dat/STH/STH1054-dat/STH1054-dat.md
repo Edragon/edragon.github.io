@@ -38,6 +38,8 @@ Features:
 
 ## ref 
 
-- [[STH1054-dat]] - [[gas-sensor-dat]]
+- [[STH1054-dat]] - [[sensor-gas-dat]]
 - datasheet [[File_MQ-3.pdf]]
+
+
 - [[STH1054]]

@@ -3,7 +3,11 @@
 
 [legacy wiki page](https://w.electrodragon.com/w/Category:Pressure_Sensor)
 
-- [[BME280-dat]] - [[bosch-dat]]
+- [[BME280-dat]] - [[bosch-dat]] - [[BMP280-dat]] - [[STH1060-dat]]
+
+
+
+
 
 - [[goermicro-dat]]
 
