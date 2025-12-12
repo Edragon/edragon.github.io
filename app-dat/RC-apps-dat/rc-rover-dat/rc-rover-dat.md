@@ -16,6 +16,13 @@
 - [[motor-rover-dat]]
 
 
+## build types 
+
+- [[rc-car-toy-dat]] - [[rc-car-dat]] - [[Curiosity-rover-dat]] - [[app-remote-rover-dat]] - [[tank-dat]] - [[rc-vehicles-dat]]
+
+
+
+
 ## features 
 
 - [[servo-dat]] - [[gimbal-dat]] to take action or control [[sensor-Camera-dat]]
@@ -65,24 +72,6 @@
 ![](2025-11-27-15-33-49.png)
 
 ![](2025-11-27-15-34-08.png)
-
-
-## Rover Version 
-
-Very basic version 
-
-including functions == [[ultrasonic-sensor-dat]], [[interactive-dat]] - [[infrared-dat]] - [[line-finder-dat]] - [[MCU-dat]] - [[chassis-dat]] - [[cad-dat]] - [[wheels-dat]] - [[PCB-accesories-dat]]
-
-![](2025-06-15-12-56-47.png)
-
-plastic chassis 4WD
-
-![](2025-06-15-13-03-31.png)
-
-![](2025-06-15-14-10-56.png)
-
-![](2025-06-15-14-22-34.png)
-basic demo code 1 here == [[RC-code-dat]]
 
 
 

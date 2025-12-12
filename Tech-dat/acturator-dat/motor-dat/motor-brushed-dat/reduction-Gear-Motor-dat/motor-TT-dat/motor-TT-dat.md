@@ -1,16 +1,35 @@
 
-# TT-motor-dat
+# motor-TT-dat
 
 A TT motor is a type of DC motor commonly used in hobbyist robotics and DIY electronics projects. It's characterized by its yellow plastic gearbox and is often paired with a plastic wheel.
 
 
 ![](2025-12-05-13-47-53.png)
 
+![](2025-12-12-15-51-12.png)
+
+![](2025-12-12-15-51-21.png)
+
+based on motor [[motor-130-dat]]
 
 ## specs 
 
+- [[shaft-dat]] == single /dual shaft
+
+- [[gearbox-dat]] 
+  - plastic
+  - metal
+
+- reduction ratio == 1:48 / 1:90 / 1:120 / 1:220
+
+
 ![](2025-12-05-13-49-01.png)
 
+## TT motor with hall sensor 
+
+![](2025-12-12-16-09-37.png)
+
+- [[sensor-hall-dat]]
 
 ## dimension 
 

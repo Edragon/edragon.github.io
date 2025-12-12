@@ -6,6 +6,47 @@
 - [[glue-waterproof-dat]]
 
 
+
+PU PTFE PP PA6 PE PVC FR4 PEEK Bakelite PVDF ABS NBR POM 6mm
+
+stainless steel / copper rod 3mm 
+
+| Material (Rod) | Tensile Strength (MPa) | Yield Strength (MPa) | Toughness (Impact) |
+|----------------|-------------------------|------------------------|----------------------|
+| **Stainless Steel (3 mm, 304/316)** | 520–620 | 200–300 | ★★★★★ Very high |
+| **Copper (3 mm)** | 200–250 | 70–120 | ★★★★ Good |
+| **PEEK (6 mm)** | 90–100 | 80–95 | ★★★★ Good |
+| **FR4 (Fiberglass, 6 mm)** | 300–350 (in fiber direction) | ~250 | ★★★ Medium (brittle) |
+| **POM / Acetal (6 mm)** | 60–70 | 55–65 | ★★★★ Good |
+| **PA6 / Nylon 6 (6 mm)** | 60–80 | 45–70 | ★★★★ Good (better when moist) |
+| **PVC (6 mm)** | 45–55 | 40–50 | ★★★ Medium |
+| **PVDF (6 mm)** | 45–55 | 40–50 | ★★★ Medium |
+| **ABS (6 mm)** | 35–50 | 30–40 | ★★★ Medium–High |
+| **PU (Polyurethane, 6 mm)** | 25–55 | 25–45 | ★★★★★ Very tough/elastic |
+| **PP (6 mm)** | 25–40 | 20–35 | ★★★ Medium (brittle when cold) |
+| **PTFE (6 mm)** | 20–30 | 10–20 | ★★ Low, very soft |
+| **PE (HDPE, 6 mm)** | 20–35 | 15–30 | ★★★ Medium |
+| **Bakelite (Phenolic, 6 mm)** | 50–100 | 40–60 | ★★ Very brittle |
+| **NBR (Rubber, 6 mm)** | ~15 | N/A (elastomer) | ★★★★★ Extremely tough but soft |
+
+
+
+Ranking by Tensile Strength (highest → lowest)
+
+- Stainless steel (3 mm)
+- FR4 (6 mm)
+- Copper (3 mm)
+- PEEK (6 mm)
+- PA6 / POM / PVC / PVDF (6 mm)
+- ABS / PP / PU / PE (6 mm)
+- PTFE (6 mm) (very soft, creeps heavily)
+- NBR (rubber) (not for structural load)
+
+
+
+
+
+
 PA66: This stands for Polyamide 66, which is a type of nylon. It's a common engineering thermoplastic known for its high mechanical strength, rigidity, and excellent resistance to heat and chemicals. It's often used to make durable enclosures for electronics, some of which are designed to be waterproof.
 
 - [[ABS-dat]]

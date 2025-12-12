@@ -1,7 +1,16 @@
 
 # motor-brushed-dat
 
+
+
+
+
 ## Small Brushed DC Motor Series
+
+
+
+- [[motor-130-dat]]
+
 
 | Motor Series | Size (approx.)  | Voltage Range | Typical Power | Common Use                                |
 | ------------ | --------------- | ------------- | ------------- | ----------------------------------------- |
@@ -24,9 +33,9 @@
 
 
 
-- more powerful motors - [[BLDC-motor-dat]] - [[reduction-Gear-Motor-dat]]
+- more powerful motors  - [[reduction-Gear-Motor-dat]] - [[motor-TT-dat]]
 
-
+- [[motor-brushless-dat]]
 
 
 
