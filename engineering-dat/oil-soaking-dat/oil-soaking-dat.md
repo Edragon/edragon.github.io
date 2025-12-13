@@ -2,7 +2,7 @@
 # oil-soaking-dat.md
 
 
-
+- [[electrochemical-corrosion-dat]]
 
 ## power burned 
 

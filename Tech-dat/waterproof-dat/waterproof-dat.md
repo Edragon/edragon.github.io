@@ -25,6 +25,10 @@
 
 - [[SMO1085-dat]]
 
+- [[led-strip-dat]]
+
+
+
 ## waterproof level 
 
 - IP69 
