@@ -85,6 +85,13 @@ https://github.com/SpenceKonde/megaTinyCore/blob/master/megaavr/extras/ATtiny_x0
 - [[UPDI-dat]] - [[avrdude-dat]]
 
 
+## repo code 
+
+- https://github.com/Edragon/Arduino-attiny
+
+
 ## ref 
+
+- [[arduino-dat]]
 
 - [[avr-dat]]

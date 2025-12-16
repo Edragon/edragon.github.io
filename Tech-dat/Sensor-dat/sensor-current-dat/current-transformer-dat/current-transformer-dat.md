@@ -1,4 +1,3 @@
-
 # current-transformer-dat
 
 - [[current-sensor-dat]]
@@ -46,9 +45,36 @@ Here's a breakdown:
 ![](2025-05-20-13-02-25.png)
 
 
+
+## ZHT103U 
+
+ZHT103U series, current output type, with wire leads
+
+**Specifications:**
+- Accuracy class: 0.5
+- Case material: Engineering plastic, flame retardant
+- Dielectric strength: MQ / V/min
+- Features: Fully potted, strong environmental resistance, high accuracy, good consistency, flexible installation, wide linear range
+- Frequency range: KHz
+- Input type: Single pass-through input, secondary wire output
+- Insulation resistance: ≤35'32001000MQ / 500V/min
+- Linear range: 0~10A
+- Load resistance: 100Ω
+- Operating temperature: -35℃~+75℃
+- Output current (rated): 5mA
+- Output type: Lead wire
+- Rated input current: 5A
+- Storage temperature: -40℃~+80℃
+- Transformation ratio: 1000:1
+- Typical applications: Power network meters, power transmitters, ammeters, measurement and control devices, etc.
+
+![](2025-12-16-19-38-32.png)
+
 ## ref 
 
 
 - [[current-sensor-dat]] 
 
 - [[current-transformer]]
+
+- [[AI]]
