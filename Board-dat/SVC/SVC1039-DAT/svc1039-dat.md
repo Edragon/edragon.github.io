@@ -30,7 +30,7 @@ main function
 - Input voltage sensor = 10 == [[dc-voltage-sensor-dat]]
 - relay = PA4 D0 - [[relay-dat]] - [[mcu-relay-dat]]
 
-genernal usage - [[peripherals-dat]]
+genernal usage - [[peripherals-dat]] - [[led-dat]] - [[button-dat]]
 - Buttons = 8
 - led = PA5 D1 1
 - UPDI = PA0 
