@@ -15,6 +15,10 @@
 - Original CC6904 SO-10A SOP-8 Single-chip Hall effect current sensor, isolation voltage 2kV
 
 
+
+
+
+
 ## ref 
 
 - [[sensor-dat]]

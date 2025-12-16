@@ -61,8 +61,9 @@ HF32F-G-5-HS
 
 ![](2025-10-25-17-27-02.png)
 
+partially isolated relay control 
 
-
+![](2025-12-16-19-31-03.png)
 
 
 
