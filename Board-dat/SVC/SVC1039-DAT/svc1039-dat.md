@@ -8,7 +8,11 @@
 
 ## pin definitions 
 
+
+
 ![](2025-12-16-19-10-06.png)
+
+chip all pin lead out, free to hack 
 
 - core chip - [[attiny1604-dat]] - [[tinyAVR-dat]]
 
@@ -55,6 +59,8 @@ UART - [[serial-dat]]
     #define led 0 
 
 ## Library
+
+demo code please find at [[tinyAvR-dat]]
 
 - [[arduino-OLED]]
 
