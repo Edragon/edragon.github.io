@@ -66,7 +66,9 @@ you can ingnore the cables, and just focuse on the pin to pin, it wont match
 ![](2025-12-16-18-31-15.png)
 
 
-1. flipped connector + nonflipped cable install 
+The follwoing content show the two methods of the cable installation, either normal or flipped, neither them can match above setup 
+
+2. flipped connector + nonflipped cable install 
 
 ![](2025-12-16-18-33-30.png)
 
