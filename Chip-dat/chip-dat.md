@@ -26,7 +26,7 @@ from a to z
 
 - [[NVE-dat]]
 
-- [[microchip-dat]] - [[microchip-mcu-dat]]
+- [[microchip-dat]] - [[microchip-mcu-dat]] - [[macom-dat]]
 
 - [[MPS-dat]]
 

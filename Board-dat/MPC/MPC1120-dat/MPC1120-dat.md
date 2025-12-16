@@ -9,6 +9,9 @@ most same information refer to page [[MPC1119-dat]]
 
 - [[I2C-dat]] - [[RPI3-I2C0-dat.md]]
 
+if you want to customized the connector to the bottom side, please see why does it not work here: [[HUB75-dat]]
+
+
 
 ## pin map 
 

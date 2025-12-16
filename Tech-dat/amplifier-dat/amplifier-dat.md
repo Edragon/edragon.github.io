@@ -125,10 +125,6 @@ Active Low Pass filter with Amplification
 
 - TL062, TL062A, TL062B == Low-power JFET dual operational amplifiers
 
-
-- [[TI-amp-dat]]
-
-
 - TL082 == Wide Bandwidth Dual JFET Input Operational Amplifier
 
 - [[TI-signal-dat]] - [[TI-AMP-dat]]
@@ -140,6 +136,10 @@ MC4558 - Wide bandwidth dual bipolar operational amplifier
 - LM324DR2G - Operational Amplifiers - Op Amps 3-32V Quad 5mV VIO Commercial Temp
 
 ths9000 - 50 MHz to 750 MHz CASCADEABLE AMPLIFIER
+
+THS4150, THS4151 - HIGH-SPEED DIFFERENTIAL I/O AMPLIFIERS
+
+SN54LVC138A, SN74LVC138A - SN74LVC138A 3-Line to 8-Line Decoders Demultiplexers
 
 
 

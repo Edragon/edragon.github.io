@@ -69,6 +69,13 @@ ADA4077
 
 - MAX22530AWE - Field-Side Self-Powered, 4-Channel, 12-bit, Isolated ADC
 
+AD8221 - Precision Instrumentation Amplifier
+
+AD8250 - 10 MHz, 20 V/μs, G = 1, 2, 5, 10 iCM0S Programmable Gain Instrumentation Amplifier
+
+
+
+
 
 ## DCDC 
 
@@ -85,6 +92,23 @@ MAX96717 - CSI-2 to GMSL2 Serializer
 - [[GMSL2-dat]]
 
 - [[CSI-dat]]
+
+## LDO 
+
+LT3042 - 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator
+
+LT3094 - -20V, 500mA, Ultralow Noise, Uitrahigh PSRR Negative Linear Regulator
+
+
+
+## switching 
+
+ADG1433/ADG1434 - 4 Ω RON, Triple/Quad SPDT ±15 V/+12 V/±5 V iCMOS Switches
+
+
+
+
+
 
 ## ref 
 

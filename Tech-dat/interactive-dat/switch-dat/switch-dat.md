@@ -73,12 +73,17 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
 
+- [[analog-device-dat]]
 
 ## power switch 
 
 - [[power-dat]] 
 
 AP22652/AP22653/AP22652A/AP22653A - PRECISION ADJUSTABLE CURRENT-LIMITED POWER SWITCHES
+
+
+
+
 
 
 ## ref 

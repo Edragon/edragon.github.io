@@ -52,6 +52,11 @@ L L
 | [[74xx1G08-dat]] | AND                  |                           |                   |
 | [[74xx1G14-dat]] | inverting buffer     |                           |                   |
 
+## 9152 
+
+74VHC9151FT,74VHC9152FT - The 74VHC9151FT/74VHC9152FT are an ultra-high-speed 9-bit Schmitt Buffer / Inverter fabricated using silicon-gate CMOS technology. The 74VHC9151FT/74VHC9152FT combines low power consumption of CMOS with Schottky TTL speeds.
+
+
 
 ## more chips 
 

@@ -1,5 +1,5 @@
 
-# HUB75 DAT 
+# HUB75-DAT 
 
 
 
@@ -52,3 +52,29 @@
 In some HUB75 variants, "SEL" (Select) may be used to enable or select specific rows or features, but in most standard HUB75 pinouts, this pin is simply a ground (GND) connection.
 
 The LATCH / STB pin on a HUB75 RGB matrix display is used to latch (store) the row data into the display's internal registers. When you send pixel data for a row, you pulse the LATCH/STB pin to signal the display to capture and hold that data. This ensures the correct row is displayed when the output is enabled. "STB" stands for "Strobe," which is another term for this latching action. In summary, it synchronizes the transfer of row data from the controller to the display.
+
+
+
+
+## customized connection 
+
+
+you can ingnore the cables, and just focuse on the pin to pin, it wont match 
+
+1. normal install - cable on the top side == standard install 
+
+![](2025-12-16-18-31-15.png)
+
+
+1. flipped connector + nonflipped cable install 
+
+![](2025-12-16-18-33-30.png)
+
+3. flipped connector + flipped    cable install 
+
+![](2025-12-16-18-37-16.png)
+
+
+## ref 
+
+- [[MPC1120-dat]]
