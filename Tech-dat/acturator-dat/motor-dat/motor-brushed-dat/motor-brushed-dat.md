@@ -33,7 +33,7 @@
 
 
 
-- more powerful motors  - [[reduction-Gear-Motor-dat]] - [[motor-TT-dat]]
+- more powerful motors  - [[Motor-reduction-Gear-dat]] - [[motor-TT-dat]]
 
 - [[motor-brushless-dat]]
 

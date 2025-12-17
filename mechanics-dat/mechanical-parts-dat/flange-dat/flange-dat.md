@@ -3,7 +3,7 @@
 
 
 
-flange with [[reduction-gear-motor-dat]]
+flange with [[Motor-reduction-Gear-dat]]
 
 ![](2025-12-10-01-49-30.png)
 

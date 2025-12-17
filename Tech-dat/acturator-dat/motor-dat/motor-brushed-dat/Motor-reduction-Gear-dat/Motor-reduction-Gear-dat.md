@@ -1,9 +1,9 @@
 
-# reduction-Gear-Motor-dat
+# Motor-reduction-Gear-dat
 
-- [[reduction-Gear-Motor-dat]] == [[motor-brushed-dat]] + [[gearbox-dat]] 
+- [[Motor-reduction-Gear-dat]] == [[motor-brushed-dat]] + [[gearbox-dat]] 
   
-- [[reduction-Gear-Motor]]
+- [[Motor-reduction-Gear]]
 
 
 
@@ -93,4 +93,4 @@ If your 895 motor lacks torque even with a gearbox, consider:
 
 - [[motor-dat]]
 
-- [[reduction-Gear-Motor]] - [[motor]]
+- [[Motor-reduction-Gear]] - [[motor]]

@@ -116,7 +116,7 @@ Parts - [[TT-motor-dat]] - [[mecanum-wheel-dat]]
 ## Rover Price and BOM cost 4WD
 
 - 4x 125mm [[wheel-dat]] plus [[shaft-connector-dat]] = 4x $3 == $12 
-- 4x 100KG [[reduction-gear-motor-dat]] == 4x $11 = $44 
+- 4x 100KG [[Motor-reduction-Gear-dat]] == 4x $11 = $44 
 - [[sheet-dat]] built frame == $5
 - 4x [[motor-driver-dat]] plus [[MCU-dat]] == 4x $2 + 1x $2 == $10
 - 1x [[battery-dat]] == $5
