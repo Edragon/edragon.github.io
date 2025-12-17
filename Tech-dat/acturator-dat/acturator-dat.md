@@ -7,7 +7,7 @@
 
 - [[servo-dat]] - [[stepper-dat]]
 
-- [[motor-dat]] - [[vibrator-dat]] - [[dc-motor-dat]]
+- [[motor-dat]] - [[vibrator-dat]] - [[motor-brushed-dat]] - [[reduction-Gear-Motor-dat]]
 
 - [[motor-driver-dat]] - [[mosfet-dat]] - [[switching-dat]] 
 

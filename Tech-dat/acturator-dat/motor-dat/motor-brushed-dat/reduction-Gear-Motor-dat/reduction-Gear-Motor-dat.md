@@ -1,7 +1,9 @@
 
 # reduction-Gear-Motor-dat
 
-- [[BLDC-motor-dat]] + [[gearbox-dat]]
+- [[reduction-Gear-Motor-dat]] == [[motor-brushed-dat]] + [[gearbox-dat]] 
+  
+- [[reduction-Gear-Motor]]
 
 
 
