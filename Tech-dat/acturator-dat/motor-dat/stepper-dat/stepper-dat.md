@@ -11,6 +11,12 @@
 
 [[motor-driver-dat]] - [[SDR1050-dat]]
 
+
+
+## tech 
+
+-standard - [[NEMA-dat]] - [[NEMA17-dat]] - [[NEMA-23-dat]]
+
 ## common options 
 
 - dual shaft 

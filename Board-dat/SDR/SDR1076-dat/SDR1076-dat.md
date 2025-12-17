@@ -5,6 +5,9 @@
 
 [product url - TB6600 Stepper Drive Mstep-32, 4A, 42VDC](https://www.electrodragon.com/product/tb6600/)
 
+
+- [[TB6600-dat]]
+
 ### Board Map, Dimension, Pins, etc.
 
 
@@ -14,9 +17,9 @@
 #### Product Features
 
 - DC 9-42V power supply (recommended 12-24V)
-- Control signal input voltage 3.3V-24V universal
+- Control signal input voltage **3.3V-24V universal**
 - 6 subdivision precisions available
-- Output peak current up to 4.0A (suitable for 1.8NM and below 57, 42 stepper motors)
+- Output peak current up to **4.0A** (suitable for 1.8NM and below 57, 42 stepper motors) - [[torque-dat]]
 - H-bridge bipolar constant current drive
 - Input signal high-speed optocoupler isolation
 - Built-in temperature protection and overcurrent protection

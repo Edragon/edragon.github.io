@@ -30,15 +30,17 @@
 
 - [[stepper-driver-dat]]
 
-- [[SDR1102-dat]] - [[SDR1109-dat]] - [[SDR1048-dat]] - [[SDR1059-dat]] - [[SDR1050-dat]]
+- [[SDR1102-dat]] - [[SDR1048-dat]] - [[SDR1059-dat]] - [[SDR1050-dat]]
 
 - [[SDR1090-dat]] - [[SDR1079-dat]] - [[SDR1062-dat]]
 
 - [[SDR1060-dat]] - [[SDR1076-dat]]
 
-- [[SDR1096-dat]]
+- high voltage control - [[SDR1109-dat]]
 
-- [[TB6612-dat]] - [[SDR1059-dat]] - [[SDR1087-dat]] - [[MPC1114-dat]]
+- easy to use - [[TB6612-dat]] - [[SDR1059-dat]] - [[SDR1087-dat]] - [[MPC1114-dat]]
+
+- low voltage and high efficient - [[DRV8833-dat]]
 
 - [[arduino-shields-dat]]
 
@@ -52,9 +54,11 @@
 
 - [[mosfet-dat]] and [[PWM-dat]] control == [[SDR1073-dat]]
 
-- [[stepper-driver-dat]]
+- [[stepper-driver-dat]] - [[stepper-dat]]
 
+- control included board - [[SDR1117-dat]] - [[SDR1064-dat]] 
 
+- [[SAMD21-dat]] - [[SDR1096-dat]]
 
 ## chips 
 

@@ -7,6 +7,43 @@ and stall torque is the maximum torque that the motor can deliver at zero speed.
 
 
 
+N·m and kg·cm (kgf·cm) are both used to express torque, but they come from different unit systems.
+
+What they mean
+
+N·m (Newton·meter)
+
+SI (metric) standard unit
+
+Based on force in newtons
+
+kg·cm (kgf·cm)
+
+Engineering / motor specs unit
+
+Based on kilogram-force, not mass
+
+1 kgf = force exerted by 1 kg under Earth gravity
+
+
+Which one to use?
+
+Engineering / physics / calculations → N·m
+
+RC motors, servos, hobby electronics → kg·cm
+
+
+    Torque (N·m)     Torque (kg·cm)
+    --------------------------------
+    0.1             ≈ 1.02
+    0.5             ≈ 5.10
+    1.0             ≈ 10.20
+    2.0             ≈ 20.39
+    5.0             ≈ 50.99
+    10.0            ≈ 101.97
+
+
+
 
 ## what is torque 
 

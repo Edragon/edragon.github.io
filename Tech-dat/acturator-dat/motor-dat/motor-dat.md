@@ -145,6 +145,12 @@ brushless
 
 
 
+## motor by voltage 
+
+- [[li-battery-dat]] - [[4.2V-dat]] - [[motor-130-dat]]
+
+- [[12V-dat]] - [[reduction-Gear-Motor-dat]]
+
 
 
 
