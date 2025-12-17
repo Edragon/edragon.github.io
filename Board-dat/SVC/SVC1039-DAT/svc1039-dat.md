@@ -58,7 +58,7 @@ UART - [[serial-dat]]
     #define relay 1
     #define led 0 
 
-## Library
+## demo code / video 
 
 demo code please find at [[tinyAvR-dat]]
 

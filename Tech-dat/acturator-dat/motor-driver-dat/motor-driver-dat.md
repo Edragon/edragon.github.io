@@ -19,10 +19,16 @@
 
 - [[AC-mains-dat]] - [[motor-dat]] drive - [[IGBT-dat]]
 
+- [[PWM-dat]] - [[mosfet-dat]] - [[relay-dat]] control
 
+- control method - [[PWM-motor-control-dat]] - [[wifi-motor-control-dat]]
 
+- [[motor-driver-code-dat]]
 
 ## Board 
+
+
+- [[stepper-driver-dat]]
 
 - [[SDR1102-dat]] - [[SDR1109-dat]] - [[SDR1048-dat]] - [[SDR1059-dat]] - [[SDR1050-dat]]
 
@@ -40,13 +46,15 @@
 
 - [[DRV8871-dat]] - [[SDR1117-dat]]
 
-- [[DRV8825-dat]] - [[SDR1040-dat]] - [[SDR1113-dat]]
-
 - [[L293-dat]] - [[SDR1064-dat]]
 
 - [[relay-dat]] control == 
 
 - [[mosfet-dat]] and [[PWM-dat]] control == [[SDR1073-dat]]
+
+- [[stepper-driver-dat]]
+
+
 
 ## chips 
 
@@ -59,23 +67,6 @@
 - [[allegro-dat]] - [[A4988-dat]] - [[A4954-dat]]
 
 - [[Infineon-dat]] - [[BTS7960-dat]]
-
-
-## stepper motor 
-
-- [[stepper-dat]]
-
-- [[TB67H450-dat]] - [[TB6612-dat]] - [[toshiba-dat]]
- 
-- [[A4988-dat]]
-
-- [[LV8729-dat]] 
-
-- [[L293-dat]] - [[L298-dat]] 
-
-- [[TI-motor-dat]] - [[DRV8833-dat]] - [[DRV8825-dat]] - [[drv8837-dat]] - [[drv8313-dat]] - [[DRV8871-dat]] - [[DRV8876-dat]] - [[DRV84x2-dat]]
-
-- [[ULN2003-dat]]
 
 
 ## and more 
@@ -91,6 +82,8 @@
 - [[PCA9685-dat]]
 
 ## Comparison 
+
+
 
 TB6612FNG vs. L298N
 
@@ -110,15 +103,15 @@ TB6612FNG vs. L298N
 
 more options
 
-| Chip/Module   | Voltage Range | Continuous Current  | PWM Freq.    | Features & Notes                                                           |
-| ------------- | ------------- | ------------------- | ------------ | -------------------------------------------------------------------------- |
-| **TB6612FNG** | 2.5V – 13.5V  | 1.2A/ch (3.2A peak) | Up to 100kHz | Efficient CMOS, low heat, great for small robots                           |
-| **DRV8833**   | 2.7V – 10.8V  | 1.5A/ch (2A peak)   | Up to 250kHz | Compact, efficient, built-in protection, ideal for small DC motors         |
-| **DRV8871**   | 6.5V – 45V    | 3.6A (6A peak)      | ~100kHz      | Single-channel, robust, good for mid-power motors                          |
-| **DRV8876**   | 4.5V – 37V    | 3.5A (5A peak)      | ~100kHz      | Smart current regulation, overtemp/short protection                        |
-| **MC33926**   | 5V – 28V      | 3A (5A peak)        | Up to 20kHz  | Automotive-grade, robust with fault reporting                              |
-| **VNH5019**   | 5.5V – 24V    | 12A (30A peak)      | ~20kHz       | High-power, onboard protection, great for large motors                     |
-| **BTN7960B**  | 5.5V – 27V    | 43A (55A peak)      | ~25kHz       | High-current half-bridge, excellent for industrial/heavy-duty applications |
+| Chip/Module   | Voltage Range | Continuous Current  | PWM Freq.    | pros                         | Features & Notes                                                           |
+| ------------- | ------------- | ------------------- | ------------ | ---------------------------- | -------------------------------------------------------------------------- |
+| **TB6612FNG** | 2.5V – 13.5V  | 1.2A/ch (3.2A peak) | Up to 100kHz | easy to use                  | Efficient CMOS, low heat, great for small robots                           |
+| **DRV8833**   | 2.7V – 10.8V  | 1.5A/ch (2A peak)   | Up to 250kHz | low volts, high efficiencies | Compact, efficient, built-in protection, ideal for small DC motors         |
+| **DRV8871**   | 6.5V – 45V    | 3.6A (6A peak)      | ~100kHz      |                              | Single-channel, robust, good for mid-power motors                          |
+| **DRV8876**   | 4.5V – 37V    | 3.5A (5A peak)      | ~100kHz      |                              | Smart current regulation, overtemp/short protection                        |
+| **MC33926**   | 5V – 28V      | 3A (5A peak)        | Up to 20kHz  |                              | Automotive-grade, robust with fault reporting                              |
+| **VNH5019**   | 5.5V – 24V    | 12A (30A peak)      | ~20kHz       |                              | High-power, onboard protection, great for large motors                     |
+| **BTN7960B**  | 5.5V – 27V    | 43A (55A peak)      | ~25kHz       |                              | High-current half-bridge, excellent for industrial/heavy-duty applications |
 
 
 
@@ -263,17 +256,17 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 
 ## ✅ Quick Comparison Table
 
-| Chip/Module                     | Current      | Voltage   | Type            | Notes                        |
-| ------------------------------- | ------------ | --------- | --------------- | ---------------------------- |
-| [[BTS7960-dat]]                 | 43A peak     | ~24V      | Half-Bridge     | Needs 2 for full H-Bridge    |
-| [[VNH2SP30-dat]]                | 14A/30A peak | 5.5–16V   | Full H-Bridge   | Compact, good protection     |
-| [[MC33932-dat]]                 | 5A/8A peak   | 5–28V     | Dual H-Bridge   | Diagnostics and protection   |
-| [[DRV84x2-dat]] | 6–12A        | Up to 50V | Dual H-Bridge   | High-efficiency PWM          |
-| [[L298N-dat]]                   | 2A           | Up to 46V | Dual H-Bridge   | NOT for high current         |
-| Sabertooth                      | Up to 120A   | 6–30V     | Dual H-Bridge   | Best for industrial/robotics |
-| Cytron MD30C                    | 30A          | 5–30V     | Single H-Bridge | Reliable and simple          |
-| IBT-2                           | 43A          | 6–27V     | Full H-Bridge   | BTS7960 module variant       |
-| AMC8832                         | 15A+         | Up to 50V | Full H-Bridge   | Advanced high-efficiency     |
+| Chip/Module      | Current      | Voltage   | Type            | Notes                        |
+| ---------------- | ------------ | --------- | --------------- | ---------------------------- |
+| [[BTS7960-dat]]  | 43A peak     | ~24V      | Half-Bridge     | Needs 2 for full H-Bridge    |
+| [[VNH2SP30-dat]] | 14A/30A peak | 5.5–16V   | Full H-Bridge   | Compact, good protection     |
+| [[MC33932-dat]]  | 5A/8A peak   | 5–28V     | Dual H-Bridge   | Diagnostics and protection   |
+| [[DRV84x2-dat]]  | 6–12A        | Up to 50V | Dual H-Bridge   | High-efficiency PWM          |
+| [[L298N-dat]]    | 2A           | Up to 46V | Dual H-Bridge   | NOT for high current         |
+| Sabertooth       | Up to 120A   | 6–30V     | Dual H-Bridge   | Best for industrial/robotics |
+| Cytron MD30C     | 30A          | 5–30V     | Single H-Bridge | Reliable and simple          |
+| IBT-2            | 43A          | 6–27V     | Full H-Bridge   | BTS7960 module variant       |
+| AMC8832          | 15A+         | Up to 50V | Full H-Bridge   | Advanced high-efficiency     |
 
 
 - [[NE555-motor-driver-dat]] - [[NE555-dat]] 

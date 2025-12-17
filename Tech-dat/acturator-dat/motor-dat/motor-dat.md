@@ -24,7 +24,7 @@ brushed
 
 - [[motor-brushed-dat]] == Permanent Magnet Brushed DC Motor
 
-- [[reduction-Gear-Motor-dat]] - [[TT-motor-dat]] - [[MG540-dat]] - [[MG513-dat]]
+- [[reduction-Gear-Motor-dat]] - [[TT-motor-dat]] - [[MG540-dat]] - [[MG513-dat]] - [[reduction-Gear-Motor]]
 
 - [[coreless-motor-dat]] 
   

@@ -11,6 +11,16 @@ pin definitions
 
 ![](2025-06-01-17-45-55.png)
 
+dimension 
+
+![](2025-12-17-12-30-38.png)
+
+
+schematic 
+
+![](2025-12-17-12-32-25.png)
+
+
 
 
 ## Applications, category, tags, etc. 
