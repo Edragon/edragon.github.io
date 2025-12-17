@@ -1,13 +1,17 @@
 
 # ESP8266-SDK-dat
 
-- [[esp-idf-dat]] - [[ESP-dat]] - [[esp-sdk-dat]]
+- [[esp-idf-dat]] - [[ESP-dat]] - [[esp-sdk-dat]] - [[esptool-dat]]
 
 - [[ESP8266-HDK-dat]]
 
 - [[flash-download-tool-dat]] - [[ESP8266-boot-log-dat]]
 
 - [[display-SDK-dat]]
+
+- [[nodemcu-dat]]
+
+- [[serial-dat]]
 
 Bootloader / ROM output	74880	Default ESP8266 boot messages (after reset).
 

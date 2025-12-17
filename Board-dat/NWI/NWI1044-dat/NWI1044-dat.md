@@ -8,6 +8,8 @@
 - [[nodemcu-dat]]
 
 
+- [[ESP-12F-dat]] - [[SDR1064-dat]]
+
 ## Note 
 
 - NO need to install driver for CH341 (replaced by CP2102)
@@ -23,6 +25,8 @@
 ESPlorer 
 
 ![](2023-10-18-13-21-48.png)
+
+
 
 
 ## ref 

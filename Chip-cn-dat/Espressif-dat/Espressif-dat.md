@@ -14,7 +14,7 @@
 
 
 
-- [[ESP8266-dat]]
+- [[ESP8266-dat]] - [[ESP8266-HDK-dat]] - [[ESP8266-SDK-dat]]
 
 - [[ESP8684-dat]] - [[ESP8684-DEVKITC-dat]]
 

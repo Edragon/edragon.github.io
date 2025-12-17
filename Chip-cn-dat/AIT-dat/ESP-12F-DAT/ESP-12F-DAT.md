@@ -28,16 +28,60 @@
 
 ## Pin Definitions 
 
-| left | template | boot mode    | func | right | template | boot mode | func         |
-| ---- | -------- | ------------ | ---- | ----- | -------- | --------- | ------------ |
-| RST  |          | ext.u, w/cap |      | TXD   |          |           |              |
-| ADC  |          |              |      | RXD   |          |           |              |
-| EN   |          | ext.u        |      | IO5   |          |           | I2C          |
-| IO16 |          |              |      | IO4   |          |           | I2C          |
-| IO14 |          |              | SCK  | IO0   |          | ext.u     | boot         |
-| IO12 |          |              | MI   | IO2   |          | ext.u     | on-board LED |
-| IO13 |          |              | MO   | IO15  |          | ext.d     | SS           |
-| VCC  |          |              |      | GND   |          |           |              |
+- [[ESP8266-HDK-dat]]
+
+
+chip table 
+
+| pin | name      | sytem           | usage  | custom  | custom2 |
+| --- | --------- | --------------- | ------ | ------- | ------- |
+| 1   | VDDA      | power.          |        |         |         |
+| 2   | LNA       | [[Antenna-dat]] |        |         |         |
+| 3   | VDD3P3    | power.          |        |         |         |
+| 4   | VDD3P3    | power.          |        |         |         |
+| 5   | VDD_RTC   | x               |        |         |         |
+| 6   | TOUT      | [[ADC-dat]]     |        |         |         |
+| 7   | CHIP_EN   |                 |        |         |         |
+| 8   | XPD_DCDC  |                 | IO16   |         |         |
+| 9   | MTMS      |                 | IO14   |         |         |
+| 10  | MTDI      |                 | IO12   |         |         |
+| 11  | VDDPST    | power.          |        |         |         |
+| 12  | MTCK      |                 | IO13   |         |         |
+| 13  | MTDO      | boot - L        | IO15   |         |         |
+| 14  | GPIO2     | boot - H        | IO2    |         |         |
+| 15  | GPIO0     | boot - H        | IO0    | mod.led |         |
+| 16  | GPIO4     |                 | IO4    |         |         |
+| 17  | VDDPST    | power.          |        |         |         |
+| 18  | SD_DATA_2 | flash           | x-IO9  |         |         |
+| 19  | SD_DATA_3 | flash           | x-IO10 |         |         |
+| 20  | SD_CMD    | flash           | x-IO11 |         |         |
+| 21  | SD_CLK    | flash           | x-IO6  |         |         |
+| 22  | SD_DATA_0 | flash           | x-IO7  |         |         |
+| 23  | SD_DATA_1 | flash           | x-IO8  |         |         |
+| 24  | GPIO5     |                 | IO5    |         |         |
+| 25  | U0RXD     |                 | UART   |         |         |
+| 26  | U0TXD     |                 | UART   |         |         |
+| 27  | XTAL_OUT  | x               |        |         |         |
+| 28  | XTAL_IN   | x               |        |         |         |
+| 29  | VDDD      | power.          |        |         |         |
+| 30  | VDDA      | power.          |        |         |         |
+| 31  | RES12K    | x               |        |         |         |
+| 32  | EXT_RSTB  | [[reset-dat]]   |        |         |         |
+| pad | GND       | power.          |        |         |         |
+
+
+
+
+| custom | left | boot mode    | func | right | boot mode | func         | custom |
+| ------ | ---- | ------------ | ---- | ----- | --------- | ------------ | ------ |
+|        | RST  | ext.u, w/cap |      | TXD   |           |              |        |
+|        | ADC  |              |      | RXD   |           |              |        |
+|        | EN   | ext.u        |      | IO5   |           |              | (I2C)  |
+|        | IO16 |              |      | IO4   |           |              | (I2C)  |
+|        | IO14 |              | SCK  | IO0   | ext.u     | boot         |        |
+|        | IO12 |              | MI   | IO2   | ext.u     | on-board LED |        |
+|        | IO13 |              | MO   | IO15  | ext.d     | SS           |        |
+|        | 3V3  |              |      | GND   |           |              |        |
 
 - [[NWI1083-dat]]
 

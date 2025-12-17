@@ -78,3 +78,16 @@
 - [[NWI1044-dat]]
 
 - [[NWI1074-dat]]
+
+
+
+## output 
+
+    NodeMCU custom build by frightanic.com
+        branch: master
+        commit: c8037568571edb5c568c2f8231e4f8ce0683b883
+        SSL: false
+        modules: cjson,file,gpio,net,node,pwm,tmr,uart,wifi
+    build 	built on: 2016-03-14 02:10
+    powered by Lua 5.1.4 on SDK 1.4.0
+    lua: cannot open init.lua

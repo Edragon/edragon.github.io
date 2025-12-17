@@ -3,6 +3,8 @@
 
 - [[ESP8266-SDK-dat]]
 
+- [[ESP8266-board-dat]] - [[serial-dat]] - [[CH9102-dat]]
+
 ## chip info 
 
 - DS [[0a-esp8266ex_datasheet_en.pdf]]
@@ -126,41 +128,41 @@ The ESP8266EX schematics include seven aspects:
 
 - [[nodemcu-dat]]
 
-| pin | name      | sytem           | usage  | custom | custom2 |
-| --- | --------- | --------------- | ------ | ------ | ------- |
-| 1   | VDDA      | power.          |        |        |         |
-| 2   | LNA       | [[Antenna-dat]] |        |        |         |
-| 3   | VDD3P3    | power.          |        |        |         |
-| 4   | VDD3P3    | power.          |        |        |         |
-| 5   | VDD_RTC   | x               |        |        |         |
-| 6   | TOUT      | [[ADC-dat]]     |        |        |         |
-| 7   | CHIP_EN   |                 |        |        |         |
-| 8   | XPD_DCDC  |                 | IO16   |        |         |
-| 9   | MTMS      |                 | IO14   |        |         |
-| 10  | MTDI      |                 | IO12   |        |         |
-| 11  | VDDPST    | power.          |        |        |         |
-| 12  | MTCK      |                 | IO13   |        |         |
-| 13  | MTDO      | boot - L        | IO15   |        |         |
-| 14  | GPIO2     | boot - H        | IO2    |        |         |
-| 15  | GPIO0     | boot - H        | IO0    |        |         |
-| 16  | GPIO4     |                 | IO4    |        |         |
-| 17  | VDDPST    | power.          |        |        |         |
-| 18  | SD_DATA_2 | flash           | x-IO9  |        |         |
-| 19  | SD_DATA_3 | flash           | x-IO10 |        |         |
-| 20  | SD_CMD    | flash           | x-IO11 |        |         |
-| 21  | SD_CLK    | flash           | x-IO6  |        |         |
-| 22  | SD_DATA_0 | flash           | x-IO7  |        |         |
-| 23  | SD_DATA_1 | flash           | x-IO8  |        |         |
-| 24  | GPIO5     |                 | IO5    |        |         |
-| 25  | U0RXD     |                 | UART   |        |         |
-| 26  | U0TXD     |                 | UART   |        |         |
-| 27  | XTAL_OUT  | x               |        |        |         |
-| 28  | XTAL_IN   | x               |        |        |         |
-| 29  | VDDD      | power.          |        |        |         |
-| 30  | VDDA      | power.          |        |        |         |
-| 31  | RES12K    | x               |        |        |         |
-| 32  | EXT_RSTB  | [[reset-dat]]   |        |        |         |
-| pad | GND       | power.          |        |        |         |
+| pin | name      | sytem           | usage  | custom  | custom2 |
+| --- | --------- | --------------- | ------ | ------- | ------- |
+| 1   | VDDA      | power.          |        |         |         |
+| 2   | LNA       | [[Antenna-dat]] |        |         |         |
+| 3   | VDD3P3    | power.          |        |         |         |
+| 4   | VDD3P3    | power.          |        |         |         |
+| 5   | VDD_RTC   | x               |        |         |         |
+| 6   | TOUT      | [[ADC-dat]]     |        |         |         |
+| 7   | CHIP_EN   |                 |        |         |         |
+| 8   | XPD_DCDC  |                 | IO16   |         |         |
+| 9   | MTMS      |                 | IO14   |         |         |
+| 10  | MTDI      |                 | IO12   |         |         |
+| 11  | VDDPST    | power.          |        |         |         |
+| 12  | MTCK      |                 | IO13   |         |         |
+| 13  | MTDO      | boot - L        | IO15   |         |         |
+| 14  | GPIO2     | boot - H        | IO2    |         |         |
+| 15  | GPIO0     | boot - H        | IO0    | mod.led |         |
+| 16  | GPIO4     |                 | IO4    |         |         |
+| 17  | VDDPST    | power.          |        |         |         |
+| 18  | SD_DATA_2 | flash           | x-IO9  |         |         |
+| 19  | SD_DATA_3 | flash           | x-IO10 |         |         |
+| 20  | SD_CMD    | flash           | x-IO11 |         |         |
+| 21  | SD_CLK    | flash           | x-IO6  |         |         |
+| 22  | SD_DATA_0 | flash           | x-IO7  |         |         |
+| 23  | SD_DATA_1 | flash           | x-IO8  |         |         |
+| 24  | GPIO5     |                 | IO5    |         |         |
+| 25  | U0RXD     |                 | UART   |         |         |
+| 26  | U0TXD     |                 | UART   |         |         |
+| 27  | XTAL_OUT  | x               |        |         |         |
+| 28  | XTAL_IN   | x               |        |         |         |
+| 29  | VDDD      | power.          |        |         |         |
+| 30  | VDDA      | power.          |        |         |         |
+| 31  | RES12K    | x               |        |         |         |
+| 32  | EXT_RSTB  | [[reset-dat]]   |        |         |         |
+| pad | GND       | power.          |        |         |         |
 
 
 - XPD_DCDC - Deep-sleep wakeup (need to be connected to EXT_RSTB);

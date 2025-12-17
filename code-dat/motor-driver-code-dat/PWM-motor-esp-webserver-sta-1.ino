@@ -8,9 +8,9 @@ const char* ssid = "YOUR_SSID";
 const char* password = "YOUR_PASSWORD";
 
 // ===== GPIO 定义 =====
-const int PWM_PIN = D1;    // PWM 控制速度 IO5
-const int DIR_PIN1 = D2;   // 方向引脚1 IO4
-const int DIR_PIN2 = D3;   // 方向引脚2 IO0
+const int PWM_PIN = 5;    // PWM 控制速度 IO5
+const int DIR_PIN1 = 4;   // 方向引脚1 IO4
+const int DIR_PIN2 = 0;   // 方向引脚2 IO0
 
 // ===== Web Server =====
 ESP8266WebServer server(80);

@@ -285,7 +285,11 @@ esptool.exe --baud 115200 --port COM66 --baud 921600 read_flash 0 2097152 output
 
 
 
-### ESP8266
+## ESP8266
 
 C:\Users\Administrator\AppData\Local\Arduino15\packages\esp8266\tools\python3\3.7.2-post1/python3 -I C:\Users\Administrator\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.2/tools/upload.py --chip esp8266 --port COM162 --baud 921600 --before default_reset --after hard_reset write_flash 0x0 C:\Users\ADMINI~1\AppData\Local\Temp\arduino_build_397525/webserver-path-1.ino.bin
 
+
+
+
+"C:\Users\Administrator\AppData\Local\Arduino15\packages\esp8266\tools\python3\3.7.2-post1/python3" -I "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2/tools/upload.py" --chip esp8266 --port "COM18" --baud "115200" "" erase_flash --before default_reset --after hard_reset write_flash 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\2D2D6E632091F2AB5E91938F7E8449F8/PWM-motor-esp-webserver-ap-1.ino.bin"

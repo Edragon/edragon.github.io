@@ -1,0 +1,61 @@
+
+# ESP8266-error-log-dat
+
+
+
+
+## slow down the baud rate to 57600 
+
+
+an issue from [[NWI1044-dat]] - [[CH9102-dat]]
+
+    A fatal esptool.py error occurred: Invalid head of packet (0x49)
+    Chip is ESP8266EX
+    Features: WiFi
+    Crystal is 26MHz
+    MAC: f4:cf:a2:d9:74:3a
+    Uploading stub...
+    Running stub...
+
+solved 
+
+    Serial port COM18
+    Connecting....
+    Chip is ESP8266EX
+    Features: WiFi
+    Crystal is 26MHz
+    MAC: f4:cf:a2:d9:74:3a
+    Uploading stub...
+    Running stub...
+    Stub running...
+    Configuring flash size...
+    Auto-detected Flash size: 4MB
+    Erasing flash (this may take a while)...
+    Chip erase completed successfully in 7.4s
+    Flash params set to 0x0240
+    Compressed 307328 bytes to 223573...
+    Writing at 0x00000000... (7 %)
+    Writing at 0x00004000... (14 %)
+    Writing at 0x00008000... (21 %)
+    Writing at 0x0000c000... (28 %)
+    Writing at 0x00010000... (35 %)
+    Writing at 0x00014000... (42 %)
+    Writing at 0x00018000... (50 %)
+    Writing at 0x0001c000... (57 %)
+    Writing at 0x00020000... (64 %)
+    Writing at 0x00024000... (71 %)
+    Writing at 0x00028000... (78 %)
+    Writing at 0x0002c000... (85 %)
+    Writing at 0x00030000... (92 %)
+    Writing at 0x00034000... (100 %)
+    Wrote 307328 bytes (223573 compressed) at 0x00000000 in 38.9 seconds (effective 63.3 kbit/s)...
+    Hash of data verified.
+
+    Leaving...
+    Hard resetting via RTS pin...
+
+
+
+## ref 
+
+- [[esp8266-dat]]

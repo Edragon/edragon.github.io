@@ -20,6 +20,17 @@
 - [[NWI1203-dat]] == [ESP8266-DevKitC Mini DEV. Board, ESP8266-DevKitC-02D-F](https://www.electrodragon.com/product/esp8266-devkitc-mini-development-board-esp8266-devkitc-02d-f/)
 
 
+
+
+## mini development boards
+
+- [[NWI1050-dat]] - [[NWI1053-dat]] - [[NWI1130-dat]] - [[NWI1083-dat]]
+
+- module system based on [[BTB-dat]] - [[12P-BTB-dat]] == [[NWI1230-dat]]
+
+
+
+
 ## APP Board 
 
 - [[esp-relay-board-dat]] - [[NWI1072-dat]] - [[NWI1124-dat]]
