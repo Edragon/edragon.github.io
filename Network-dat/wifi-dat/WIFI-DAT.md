@@ -17,10 +17,12 @@
 
 ## cheatsheet 
 
-- AP = access point 
-- STA = station 
+- AP = access point - Access point (ap) is the thing you connect to, e.g. wireless router. 
+- STA = station - wireless/mobile station (sta) is your end user device, e.g. your phone.
 
-Access point (ap) is the thing you connect to, e.g. wireless router. wireless/mobile station (sta) is your end user device, e.g. your phone.
+
+
+
 
 
 - [[espressif-dat]] - [[esp8266-dat]] - [[ESP32-dat]] 
