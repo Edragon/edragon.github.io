@@ -58,6 +58,7 @@ The LATCH / STB pin on a HUB75 RGB matrix display is used to latch (store) the r
 
 ## customized connection 
 
+- [[cable-ribbon-dat]]
 
 you can ingnore the cables, and just focuse on the pin to pin, it wont match 
 
