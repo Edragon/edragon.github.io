@@ -13,6 +13,8 @@
 
 - [[L293-dat]]
 
+
+
 ## Board map 
 
 ![](2025-03-25-15-56-06.png)
@@ -26,23 +28,26 @@ Motor Control: Phase_A, Phase_B, VIN, V_Motor
 
 ### Pins 
 
-| nodemcu | right | func1 | func2 | [[SDR1064-dat]] |
-| ------- | ----- | ----- | ----- | --------------- |
-| D0      | I016  | USER  | WAKE  |                 |
-| D1      | I05   |       |       | PWM_ A          |
-| D2      | I04   |       |       | PWM_B           |
-| D3      | I00   | FLASH |       | Motor_1         |
-| D4      | I02   | TXD1  |       | Motor_2         |
-|         | 3.3V  |       |       |                 |
-|         | GND   |       |       |                 |
-| D5      | I014  |       | HSCLK |                 |
-| D6      | I012  |       | HMISO |                 |
-| D7      | I013  | RXD2  | HMOSI |                 |
-| D8      | I015  | TXD2  | HCS   |                 |
-| D9      | I03   | RXDe  |       |                 |
-| D10     | I01   | TXDE  |       |                 |
-|         | GND   |       |       |                 |
-|         | 3.3V  |       |       |                 |
+D1-D4 motor control 
+
+
+| nodemcu | right | func1 | func2 | [[SDR1064-dat]]        |
+| ------- | ----- | ----- | ----- | ---------------------- |
+| D0      | I016  | USER  | WAKE  | Lead out [[Servo-dat]] |
+| D1      | I05   |       |       | PWM_A                  |
+| D2      | I04   |       |       | PWM_B                  |
+| D3      | I00   | FLASH |       | Motor_1                |
+| D4      | I02   | TXD1  |       | Motor_2                |
+|         | 3.3V  |       |       |                        |
+|         | GND   |       |       |                        |
+| D5      | I014  |       | HSCLK | Lead out [[Servo-dat]] |
+| D6      | I012  |       | HMISO | Lead out [[Servo-dat]] |
+| D7      | I013  | RXD2  | HMOSI | Lead out [[Servo-dat]] |
+| D8      | I015  | TXD2  | HCS   | Lead out [[Servo-dat]] |
+| D9      | I03   | RXDe  |       |                        |
+| D10     | I01   | TXDE  |       |                        |
+|         | SD2   |       |       | Lead out [[Servo-dat]] |
+|         | SD3   |       |       | Lead out [[Servo-dat]] |
 
 
 ### Shield setup

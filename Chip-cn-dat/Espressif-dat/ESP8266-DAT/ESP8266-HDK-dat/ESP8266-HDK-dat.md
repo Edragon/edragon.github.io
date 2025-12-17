@@ -98,15 +98,15 @@ The ESP8266EX schematics include seven aspects:
 
 ## ✅ Recommended GPIOs for Interrupts
 
-| GPIO | Usable for Interrupts? | Notes                            |
-|------|-------------------------|----------------------------------|
-| **GPIO0**  | ✅ Yes              | Must be HIGH at boot (pulled LOW enters flash mode) |
-| **GPIO2**  | ✅ Yes              | Must be HIGH at boot             |
-| **GPIO4**  | ✅ Yes              | Safe                             |
-| **GPIO5**  | ✅ Yes              | Safe                             |
-| **GPIO12** | ✅ Yes              | Safe                             |
-| **GPIO13** | ✅ Yes              | Safe                             |
-| **GPIO14** | ✅ Yes              | Safe                             |
+| GPIO       | Usable for Interrupts? | Notes                                               |
+| ---------- | ---------------------- | --------------------------------------------------- |
+| **GPIO0**  | ✅ Yes                  | Must be HIGH at boot (pulled LOW enters flash mode) |
+| **GPIO2**  | ✅ Yes                  | Must be HIGH at boot                                |
+| **GPIO4**  | ✅ Yes                  | Safe                                                |
+| **GPIO5**  | ✅ Yes                  | Safe                                                |
+| **GPIO12** | ✅ Yes                  | Safe                                                |
+| **GPIO13** | ✅ Yes                  | Safe                                                |
+| **GPIO14** | ✅ Yes                  | Safe                                                |
 
 
 ## peripherals 
@@ -124,7 +124,46 @@ The ESP8266EX schematics include seven aspects:
 
 ## ESP8266 pins table 
 
+- [[nodemcu-dat]]
 
+| pin | name      | usage | sytem           | custom |
+| --- | --------- | ----- | --------------- | ------ |
+| 1   | VDDA      |       | power.          |        |
+| 2   | LNA       |       | [[Antenna-dat]] |        |
+| 3   | VDD3P3    |       | power.          |        |
+| 4   | VDD3P3    |       | power.          |        |
+| 5   | VDD_RTC   |       | x               |        |
+| 6   | TOUT      |       | [[ADC-dat]]     |        |
+| 7   | CHIP_EN   |       |                 |        |
+| 8   | XPD_DCDC  | IO16  |                 |        |
+| 9   | MTMS      | IO14  |                 |        |
+| 10  | MTDI      | IO12  |                 |        |
+| 11  | VDDPST    |       | power.          |        |
+| 12  | MTCK      | IO13  |                 |        |
+| 13  | MTDO      | IO15  | boot - L        |        |
+| 14  | GPIO2     | IO2   | boot - H        |        |
+| 15  | GPIO0     | IO0   | boot - H        |        |
+| 16  | GPIO4     | IO4   |                 |        |
+| 17  | VDDPST    |       | power.          |        |
+| 18  | SD_DATA_2 | IO9   | flash           |        |
+| 19  | SD_DATA_3 | IO10  | flash           |        |
+| 20  | SD_CMD    | IO11  | flash           |        |
+| 21  | SD_CLK    | IO6   | flash           |        |
+| 22  | SD_DATA_0 | IO7   | flash           |        |
+| 23  | SD_DATA_1 | IO8   | flash           |        |
+| 24  | GPIO5     | IO5   |                 |        |
+| 25  | U0RXD     | UART  |                 |        |
+| 26  | U0TXD     | UART  |                 |        |
+| 27  | XTAL_OUT  |       | x               |        |
+| 28  | XTAL_IN   |       | x               |        |
+| 29  | VDDD      |       | power.          |        |
+| 30  | VDDA      |       | power.          |        |
+| 31  | RES12K    |       | x               |        |
+| 32  | EXT_RSTB  |       | [[reset-dat]]   |        |
+| pad | GND       |       | power.          |        |
+
+
+- XPD_DCDC - Deep-sleep wakeup (need to be connected to EXT_RSTB);
 
 ## ref 
 

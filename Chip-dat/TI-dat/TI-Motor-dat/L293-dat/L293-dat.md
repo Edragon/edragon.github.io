@@ -30,6 +30,8 @@ The L293D is a 16-pin motor driver IC, also known as a quad half-H driver, capab
 
 ![](2025-06-15-12-57-58.png)
 
+![](2025-12-17-13-41-34.png)
+
 ## demo code 
 
 - single DC motor control [[afMotor-1.ino]]

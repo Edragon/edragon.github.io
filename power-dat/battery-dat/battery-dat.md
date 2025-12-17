@@ -126,10 +126,13 @@ Usage: Devices that require more energy or have higher power consumption tend to
 
 - [[battery-smartphone-dat]]
 
-![../battery-app-dat/battery-smartphone-dat/2025-11-18-17-02-15.png](../battery-app-dat/battery-smartphone-dat/2025-11-18-17-02-15.png)
-
-![../battery-app-dat/battery-smartphone-dat/2025-11-18-17-04-32.png](../battery-app-dat/battery-smartphone-dat/2025-11-18-17-04-32.png)e-dat]]
 
 - [[battery]] - [[l76-dat]] - [[super-cap-dat]]
 
 - [[XH-414H]] - [[ohm-dat]]
+
+
+
+## ref 
+
+- [[voltage-dat]] - [[power-level-dat]]
