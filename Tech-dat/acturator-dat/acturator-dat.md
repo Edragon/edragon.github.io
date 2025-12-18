@@ -27,6 +27,8 @@
 
 - [[thermal-printer-dat]]
 
+- [[Humidifier-dat]]
+
 ## Boards 
 
 - [[SCU1080-dat]] - [[SCU1030-dat]]

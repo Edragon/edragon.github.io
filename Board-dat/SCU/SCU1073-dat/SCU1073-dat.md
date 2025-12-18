@@ -4,12 +4,21 @@
 
 - level safety protection
 
+- watch the demo video, pay attention to the pad side direction
+
+
 ## Danger!
 
 The water level monitoring feet are not resistant to high pressure and there is no risk when placed in the water normally.
 Do not directly contact the water level monitoring pin with high-voltage circuit parts such as the atomizer sheet.
 
-## Pin definitions
+
+
+
+
+
+
+## Pin definitions (for the chip only )
 
 Vws = Withstand voltage value (V)
 
@@ -34,6 +43,12 @@ Vws = Withstand voltage value (V)
 - Changes in the power supply voltage will cause changes in the chip's operating frequency, thereby affecting the working effect of the atomizer.
 - The frequency error of the chip mainly comes from the oscillation resistor, so try to use a resistor with a precision of 1% to reduce the frequency deviation.
 - And when laying out the board, the oscillation resistors should be laid out strictly according to the anti-interference drawing method. The resistors should be placed as close to the pins of the chip as possible to reduce the resistance brought by the PCB board and the frequency changes caused by environmental interference.
+
+
+
+## demo video 
+
+https://t.me/electrodragon3/415
 
 ## ref
 
