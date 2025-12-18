@@ -235,7 +235,7 @@
 
 ## Circuits 
 
-- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] 
+- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]]
 
 - [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]]
 

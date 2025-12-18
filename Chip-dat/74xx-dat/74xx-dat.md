@@ -121,6 +121,13 @@ L L
 - Original SN74LS90N DIP14 Decimal counter / divide-by-2/5 counter through-hole IC
 
 
+	
+SN74LVC138APWR - Decoder/Demultiplexer 1 x 3  8 16-TSSOP
+
+
+
+
+
 ## CD 
 
 - CD4094B - 8 Bit Shift Register w/ 3 State Output - 8-Stage Shift-and-Store Bus Register
@@ -136,6 +143,10 @@ L L
 - Brand new imported CD40192 CD40192BE DIP-16 Synchronous up/down counter through-hole
 
 - Brand new original CD4510 CD4510BE DIP-16 Counter logic IC
+
+
+
+
 
 ## other 
 

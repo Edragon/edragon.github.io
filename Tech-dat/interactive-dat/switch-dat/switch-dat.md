@@ -75,6 +75,10 @@ MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
 
 - [[analog-device-dat]]
 
+- [[ti-dat]]
+
+
+
 ## power switch 
 
 - [[power-dat]] 

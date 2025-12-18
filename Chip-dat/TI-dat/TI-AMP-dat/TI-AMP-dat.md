@@ -21,6 +21,10 @@ OPA189, OPA2189, OPA4189 - OPAx189 Precision, Lowest-Noise, 36-V, Zero-Drift, 14
 ISO224 Reinforced Isolated Amplifier With Single-Ended Input of ±12 V and Differential Output of ±4 V
 
 
+THS4150IDGN - Differential Amplifier 1 Circuit Differential 8-HVSSOP
+
+
+
 
 
 ## ref 

@@ -42,6 +42,7 @@ ADUM3402ARWZ-RL ADI 2021+ 2.7usd
 
 ADUM5000ARWZ-RL ADI 2022+ 2.52usd
 
+ADUM3400BRWZRL
 
 
 ## 4CH DCDC 
@@ -74,6 +75,9 @@ AD8221 - Precision Instrumentation Amplifier
 AD8250 - 10 MHz, 20 V/μs, G = 1, 2, 5, 10 iCM0S Programmable Gain Instrumentation Amplifier
 
 
+## AMP 
+
+AD8250ARMZ - Instrumentation Amplifier 1 Circuit Push-Pull
 
 
 
@@ -99,15 +103,18 @@ LT3042 - 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator
 
 LT3094 - -20V, 500mA, Ultralow Noise, Uitrahigh PSRR Negative Linear Regulator
 
+LT1963AEST-3.3 - Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A SOT-223-3
+
+LT3029IDE - Linear Voltage Regulator IC Positive Adjustable 2 Output 500mA, 500mA
 
 
 ## switching 
 
 ADG1433/ADG1434 - 4 Ω RON, Triple/Quad SPDT ±15 V/+12 V/±5 V iCMOS Switches
 
+ADG1409YRUZREEL7
 
-
-
+ADG1434YRUZ
 
 
 ## ref 

@@ -76,6 +76,12 @@ SN74LVC1G14 Single Schmitt-Trigger Inverter - https://www.ti.com/lit/ds/symlink/
 
 **74AHC1G125** – Single Bus Buffer Gate with **3-State Output**
 
+## buffer 
+
+FAST CMOS OCTAL BUFFER/LINE DRIVER - IDT54/74FCT244/A/C
+
+
+
 
 
 ## ref 
