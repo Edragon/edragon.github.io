@@ -12,26 +12,7 @@
 
 - 勾刀
 
-
-
-## power tools 
-
-- [[saw-dat]] - [[Rotary-Tool-dat]] - [[saw-blade-dat]]
-
-- [[mechanical-tools]]
-
-- 电热刀
-
-- 车床：lathe
-
-- 弓臂锯床：power hacksaw（也可说 hacksaw machine）
-
-- 磨床：grinding machine / grinder
-
-- 钻床：drilling machine / drill press
-
-- [[drill-electric-dat]]
-
+- [[tools-power-dat]]
 
 
 
