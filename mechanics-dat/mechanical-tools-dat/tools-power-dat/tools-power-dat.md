@@ -3,13 +3,22 @@
 
 
 
+- [[grinder-dat]]
+
 - [[saw-dat]] 
 
 - [[rotary-tool-dat]] 
 
-- [[drill-bit-dat]]
+- [[grinder-angle-dat]]
 
-- [[angle-grinder-dat]]
+- [[grinder-angle-dat]]
+
+
+## target 
+
+- [[profile-dat]] - [[sheet-dat]] - [[rod-system-dat]]
+
+
 
 ## ref 
 
