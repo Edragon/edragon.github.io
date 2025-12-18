@@ -5,6 +5,7 @@
 
 [RPI Passive 3CH RGB Matrix Drive Board V0](https://www.electrodragon.com/product/rpi-passive-3ch-rgb-matrix-drive-board-v0/)
 
+- a good option for [[RPI-zero-dat]] - [[RPI-SBC-dat]]
 
 
 ## Board map 
@@ -20,9 +21,17 @@
 - ROW_E GND Sel_8 Sel_8 SC
 - ROW_E GND Sel_8 Sel_8 SC
 
+
+
+
+
 ## demo video 
 
 - https://www.youtube.com/shorts/7zcytJmziE4
+
+
+
+
 
 ## Summary of LED Control Board Feedback
 
@@ -57,6 +66,12 @@ Board map V2
 - clear instruction how to connect the board 
 - added slik print to mark clearly of the orders of the connectors 
 - have two pins on the board to easily attach 5 volts
+
+
+
+
+
+
 
 
 ## ref 

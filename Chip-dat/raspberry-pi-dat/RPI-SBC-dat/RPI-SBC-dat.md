@@ -13,6 +13,10 @@
 
 - official documentation - https://www.raspberrypi.com/documentation/
 
+
+
+
+
 ## hardware 
 
 - [[raspberry-pi-dat]]

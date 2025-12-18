@@ -5,7 +5,12 @@
 - [[MPC1073-test-log-dat]] - [[MPC1073-multiplexing-dat]]
 
 
-- with raspberry pi - [[MPC1073-dat]] - [[MPC1119-dat]] - [[MPC1120-dat]]
+- with raspberry pi - original version [[MPC1073-dat]] - drawback fixed version [[MPC1119-dat]] - optimized final version [[MPC1120-dat]]
+
+- for raspberry pi passive 3CH - [[MPC1130-dat]]
+
+- for raspberry pi CM4 module - ongoing 
+
 
 - with ESP32 - [[IDD1013-dat]] - [[IDD1016-dat]]
 
@@ -16,6 +21,8 @@
 - Mono Color Drive with ESP32 - [[IDD1023-dat]]
 
 - with Orange Pi - [[MPC1123-dat]]
+
+
 
 
 ## matrix panel
