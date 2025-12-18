@@ -5,7 +5,7 @@
 
 - [[glue-waterproof-dat]]
 
-
+- [[injection-molding-dat]]
 
 PU PTFE PP PA6 PE PVC FR4 PEEK Bakelite PVDF ABS NBR POM 6mm
 

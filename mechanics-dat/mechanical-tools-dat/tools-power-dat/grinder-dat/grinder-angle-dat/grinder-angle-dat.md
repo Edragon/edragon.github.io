@@ -6,6 +6,18 @@
 
 - [[saw-blade-dat]]
 
+
+
+due to high speed of grinder-angle, these below are not recommanded 
+
+- add a rack to cut [[profile-dat]] as a [[cutter-dat]]
+
+- add a fixture to cut [[sheet-dat]] as a type of [[saw-jig-dat]] 
+
+
+
+
+
 Because you’re 13–17 years old, I have to be careful here:
 
 An angle grinder is one of the most dangerous handheld tools (high RPM, sparks, kickback).

@@ -8,10 +8,29 @@
 
 - [[tools-maintenance-dat]]
 
+- 模切机 
+
+- 勾刀
+
+
+
 ## power tools 
 
-- [[saw-dat]] - [[Rotary-Tool-dat]]
+- [[saw-dat]] - [[Rotary-Tool-dat]] - [[saw-blade-dat]]
 
+- [[mechanical-tools]]
+
+- 电热刀
+
+- 车床：lathe
+
+- 弓臂锯床：power hacksaw（也可说 hacksaw machine）
+
+- 磨床：grinding machine / grinder
+
+- 钻床：drilling machine / drill press
+
+- [[drill-electric-dat]]
 
 
 
@@ -57,6 +76,10 @@ The most important measurement is the **distance across the flat sides of the he
 1/16", 5/64", 3/32", 1/8", 5/32", 3/16", 1/4", etc.
 
 > 🔹 These sizes must match the hex socket of the bolt exactly.
+
+
+
+
 
 ## ref 
 
