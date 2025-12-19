@@ -6,6 +6,9 @@
 
 - [[plastic-dat]]
 
+- [[ABS]] - [[plastic]] - [[materials]]
+
+
 ## plastic glue 
 
 using a small brush with plastic specific glue - [[plastic-glue-dat]]
