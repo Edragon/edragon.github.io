@@ -1,5 +1,6 @@
+# Saw - Cutting Plastics (saw-dat)
 
-# saw-dat
+
 
 - [[saw-blade-dat]]
 
@@ -12,145 +13,145 @@
 
 
 
-要精准、高效地切割 2–6 mm 塑料板材，关键取决于材料类型、精度要求、切割长度与数量。下面按最佳方案优先级给你一个实用总结 👇
+## Quick summary (recommended by priority)
 
-✅ 最推荐方案（通用 & 高精度）
-1️⃣ 台式锯（台锯 / 小型精密锯）— 最优解
+1. Table saw (best for straight cuts, repeatability, and batch work)
+2. Jigsaw / Scroll saw (best for curves and low-volume custom shapes)
+3. Score and snap (very low cost, high straight-line accuracy for thin sheets)
+4. Laser cutting (high-quality complex contours — limited to compatible plastics) - [[laser-dat]] - [[laser-cutting-dat]]
 
-适合：
+---
 
-PMMA（亚克力）、PVC、ABS、PC、PE、PP
+## 1. Table saw — Recommended for most use cases
 
-直线切割、批量加工、±0.2 mm 精度
+When to use:
 
-配置要点：
+- Straight cuts and long cuts
+- Batch production or when repeatability matters
+- Tight tolerances (around ±0.2 mm)
 
-锯片：
+Suitable materials:
 
-80–120 齿
+- PMMA (acrylic), ABS, PVC, PC, PE, PP (but note special handling below)
 
-负前角（–5° ~ 0°）
+Key setup and blade selection:
 
-专用塑料 / 亚克力锯片
+- Blade teeth: 80–120 teeth for thin plastics
+- Negative hook angle (around –5° to 0°) helps reduce chipping and tear-out
+- Use blades specifically designed for plastics / acrylic
+- Medium to high blade RPM; avoid slow RPM which can melt edges
+- Feed uniformly and continuously—do not stop on the cut
 
-转速：中高速（避免烧边）
+Advantages:
 
-进给：匀速推进，不能停顿
+- Very straight, clean cuts
+- High throughput and good dimensional repeatability
+- Minimal post-processing when set up correctly
 
-优点：
+Precautions:
 
-切口直、效率最高
+- Secure the sheet firmly; use clamps and fences
+- For acrylic, keep protective film on during cutting
 
-尺寸重复性好
+---
 
-后处理少
+## 2. Jigsaw / Scroll saw (curves and single pieces)
 
-注意：
+When to use:
 
-必须固定材料
+- Irregular contours or detailed cutouts
+- Prototyping and small quantities
 
-亚克力要贴保护膜切割
+Blade recommendations and technique:
 
-✅ 小量 & 高灵活方案
-2️⃣ 曲线锯 / 线锯（配塑料专用锯条）
+- Use fine-tooth blades (e.g. T101A / T101B style or equivalent)
+- Small tooth pitch and sharp teeth reduce chipping
+- Use low or reduced pendulum action on the jigsaw to avoid melting
+- Slow cutting speed and steady feed — let the blade do the work
 
-适合：
+Expected accuracy:
 
-不规则轮廓
+- Approximately ±0.5 mm; some edge finishing usually required
 
-单件 / 打样
+---
 
-锯条选择：
+## 3. Score-and-snap (very low-cost, straight cuts, thin sheets)
 
-T101A / T101B（细齿）
+When to use:
 
-齿距小、锋利
+- Thin sheets (typically ≤ 4 mm)
+- Straight short cuts where a clean edge is needed on a budget
+- Materials: acrylic (PMMA), PVC, PS
 
-技巧：
+Tools and method:
 
-开启低摆动
+- Acrylic scoring knife or tungsten carbide scoring tool
+- Use a steel straightedge or ruler as a guide
+- Score the sheet multiple times (≥ 8–10 passes) until a visible groove is formed
+- Clamp the sheet on the table edge and snap down firmly for a clean break
 
-慢速切割，防止融边
+Advantages and limits:
 
-精度：
+- Extremely low cost, minimal finishing
+- Not suitable for thick sheets (> 4 mm) or complex shapes
+- Not recommended for PC or flexible plastics like PE
 
-±0.5 mm（需后修）
+---
 
-✅ 低成本但很精准（薄板优选）
-3️⃣ 划线 + 折断（≤4 mm）
+## 4. Laser cutting (high-precision complex shapes)
 
-适合：
+When to use:
 
-亚克力、PVC、PS
+- Complex contours, fine detail, or many internal cutouts
+- High edge quality required for compatible materials
 
-短直线
+Best materials:
 
-工具：
+- PMMA (acrylic) — excellent results, optical-quality edges possible
 
-亚克力划刀 / 钨钢刀
+Materials to avoid by default:
 
-方法：
+- PVC — releases toxic chlorine gas when lasered
+- PC (polycarbonate) — tends to burn, blacken, and form poor melt edges
 
-用钢尺多次划线（≥10 次）
+Notes:
 
-放在桌边
+- Use proper ventilation and filtration for any laser cutting
+- Power and speed settings must be tuned for thickness and plastic type
 
-一次性快速下压折断
+---
 
-优点：
+## Materials notes and exceptions
 
-成本极低
+- PVC: avoid laser cutting (toxic gas). Mechanical cutting is ok with proper precautions.
+- PC (polycarbonate): difficult to laser; mechanical cutting often causes melting and rough edges — prefer careful mechanical methods and good blade selection.
+- PE / PP: flexible and can deform — secure firmly and use blades that minimise friction heating.
 
-边缘非常直
+---
 
-限制：
+## Accessories & finishing tips
 
-不适合 >4 mm
+- Clamps and guides: F-clamps, quick clamps, and an aluminium extrusion or steel ruler as a guide/fence
+- Sanding sequence for edge finishing: 400 → 800 → 1200 grit
+- Acrylic edge finish: flame polishing can give optical clarity but risks warping — practice on scrap first
+- Keep protective film on acrylic until finishing is complete
 
-不适合 PC / PE
+---
 
+## Quick selection table
 
+| Need / Scenario | Recommended method |
+|---|---:|
+| Batch straight high-precision cuts | Table saw |
+| Small quantity, complex shapes | Jigsaw / scroll saw |
+| Low-cost straight cuts (thin sheet) | Score & snap |
+| High-precision complex contours (only PMMA) | Laser cutter |
 
+---
 
+## References
 
-
-
-
-⚠️ 特殊高质量方案
-4️⃣ 激光切割（仅限部分塑料）
-
-适合：
-
-PMMA（亚克力）——效果极佳
-
-复杂轮廓、孔位
-
-不适合：
-
-❌ PVC（有毒氯气）
-
-❌ PC（发黑、融边严重）
-
-🧰 辅助与后处理（提升“精准感”）
-夹紧 & 导向
-
-F 夹 / 快速夹
-
-铝型材 / 钢尺作导轨
-
-边缘处理
-
-400 → 800 → 1200 砂纸
-
-亚克力可火焰抛光（注意变形）
-
-📊 快速选型表
-需求	推荐方案
-批量直线高精度	台锯
-少量复杂形状	曲线锯
-低成本直线	划线折断
-高精度复杂轮廓	激光（仅 PMMA）
-
+- Internal notes and AI-assisted summary
 
 
 ## ref 

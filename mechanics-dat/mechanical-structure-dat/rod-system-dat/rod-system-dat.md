@@ -17,7 +17,7 @@
 
 - [[shaft-coupler-dat]]
 
-
+- [[stainless-steel-dat]] - [[stainless-steel-solid-rod-dat]] - [[metal-dat]]
 
 ## size 
 
