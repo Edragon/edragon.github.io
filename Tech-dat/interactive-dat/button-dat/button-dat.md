@@ -2,25 +2,6 @@
 # button-dat 
 
 
-## press button 
-
-press to connect, release to diconnect 
-
-- [[ISB1014-dat]] - [[ISB1007-dat]] - [[ISB1016-dat]]
-
-
-
-## inter-lock button 
-
-- [[ISB1033-dat]]
-
-
-17 x 12 x 9.5
-
-![](2025-01-09-16-12-42.png)
-
-![](2025-01-09-16-13-42.png)
-
 
 ## Buttons Circuits 
 

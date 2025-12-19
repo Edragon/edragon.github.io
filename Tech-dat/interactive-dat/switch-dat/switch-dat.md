@@ -1,11 +1,39 @@
 
 # switch-dat 
 
-- [[rocker-switch-dat]]
+
+
+
+- [[switch-spst-button-push-dat]] - [[KCD4-dat]] - [[KCD3-dat]] - [[KCD1-dat]]
+
+
+- [[switch-rocker-dat]]
+
+- [[switch-keypad-dat]]
+
+- [[switch-functional-dat]] - [[switch-navigation-dat]] - [[switch-limit-dat]] - [[switch-emergancy-dat]] - [[switch-thumbwheel-dat]]
+
+switch status - ON / OFF, momentary / latching, toggle / push button, DPDT / SPDT / SPST
+
+basic types - toggle switch / momentary push button / SPST / SPDT
+
+mounting == through hole or SMD
+
+
+
+- [[switch-pushbutton-dat]]
+
+mounting - panel == through hole or PCB 
+- [[switch-pushbutton-panel-dat]] - [[switch-pushbutton-PCB-dat]] 
+
+
+
+
+- [[switch-PCB-tactile-dat]] - [[switch-pushbutton-PCB-dat]] 
 
 - [[toggle-switch-dat]]
 
-- [[KCD4-dat]] - [[KCD3-dat]] - [[KCD1-dat]]
+
 
 - [[sensor-hall-switch-dat]]
 
@@ -22,27 +50,6 @@ TS24CA == 4.55*1.8*3.5mm 卧贴 轻触开关
 ![](2025-07-14-01-08-00.png)
 
 
-## KCD1 
-
-	
-Red Light 6A@250VAC ON/OFF DPST Snap in Panel
-
-## KCD3 
-
-![](2025-06-17-17-43-08.png)
-
-![](2025-10-18-16-47-02.png)
-
-- [[ISB1036-dat]] - [[ISB-dat]]
-
-## types 
-
-
-### SPST 
-
-1TL1-2D
-
-![](2025-11-29-20-11-07.png)
 
 
 ### DPDT
@@ -63,7 +70,7 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 - [[PE4259-dat]] - [[UPG2179-dat]]
 
-## thumbwheel switch
+![switch-spst-button-push-dat/2025-11-29-20-11-07.png](switch-spst-button-push-dat/2025-11-29-20-11-07.png)
 
 ![](2025-08-19-16-58-06.png)
 
