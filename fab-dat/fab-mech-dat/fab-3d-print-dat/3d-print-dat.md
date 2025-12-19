@@ -1,7 +1,7 @@
 
 # 3d-print-dat.md
 
-
+- [[3d-print]]
 
 
 ## tech 
