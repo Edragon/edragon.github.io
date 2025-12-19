@@ -107,7 +107,58 @@ Use a fine-tooth blade → works well for curves and straight cuts.
 If you have a hobby cutter or mini saw, they usually work safely.
 
 
+## choose same type of plastic for guling 
 
+
+你遇到的现象其实很常见，这涉及 ABS塑料的配方差异 和 溶剂型胶水的溶解机理。分析如下：
+
+1️⃣ ABS的基本组成
+
+ABS = Acrylonitrile (AN) + Butadiene (B) + Styrene (S)
+
+配方比例不同，会影响 溶剂敏感性：
+
+Styrene 含量高 → 更易被苯类或氯化溶剂溶解
+
+Butadiene 含量高 → 更韧，但对溶剂耐受性强
+
+2️⃣ 颜色添加剂的影响
+
+米黄色ABS里可能含有：
+
+填料（如钛白之外的矿物）
+
+色母粒或染料（某些颜料会阻碍溶剂渗透）
+
+这些添加剂会改变表面溶解性，导致专用胶无法溶解表面，从而无法粘合
+
+3️⃣ 专用胶的溶解机理
+
+一般ABS胶（如丙酮型胶）通过溶解表面塑料，然后两面塑料融合固化
+
+现象说明：
+
+亮白色ABS → 表面容易被溶解 → 胶水有效
+
+米黄色ABS → 表面不溶或溶解慢 → 胶水不起作用
+
+4️⃣ 解决思路
+
+换胶水
+
+选择更强的ABS溶剂型胶（如含甲苯、二氯甲烷等）
+
+需注意安全，通风和手套必须
+
+表面处理
+
+轻微砂纸打磨 → 增加表面粗糙度 → 增加胶水机械附着
+
+可尝试预处理溶剂擦拭，帮助胶水溶解
+
+热熔焊接或超声焊
+
+对不起反应的ABS，可用加热方式粘接，不是溶剂型胶水
 
 ## ref 
 
