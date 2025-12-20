@@ -25,7 +25,7 @@
 
 ## features 
 
-- [[servo-dat]] - [[gimbal-dat]] to take action or control [[sensor-Camera-dat]]
+- [[servo-dat]] - [[gimbal]] to take action or control [[sensor-Camera-dat]]
 
 - [[DCDC-down-dat]]
 

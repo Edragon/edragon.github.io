@@ -11,6 +11,11 @@
 - GogglesX 
 - Goggles L
 
+
+
+
+- [[head-track-dat]] - [[head-track]]
+
 ## pair 
 
 3. **Enter auto-scan mode on goggles**  

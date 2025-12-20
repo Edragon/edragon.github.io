@@ -1,7 +1,7 @@
 
 # servo-gimbal-dat
 
-- [[gimbal-dat]]
+- [[gimbal]]
 
 ![](2025-12-04-01-10-28.png)
 
