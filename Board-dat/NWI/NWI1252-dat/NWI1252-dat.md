@@ -22,17 +22,21 @@ Wide input voltage range: 5.5V to 36V - [[dcdc-dat]]
 
 ## Board maps 
 
-### V1 
+- [[dcdc-down-dat]]
+
+### V2 - NWI1254 
+
+- [[NWI1254-dat]]
 
 ![](2024-09-26-22-14-43.png)
 
-- set red and yellow jumpers for RS485
-- set blue jumpers for RS232
+- set red and yellow jumpers for [[RS485-dat]]
+- set blue jumpers for [[RS232-dat]]
 
 - [[DB9-dat]]
 
 
-### V0 (obseleted)
+### V1 (obseleted)
 
 ![](2024-08-29-01-37-01.png)
 
@@ -87,12 +91,12 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 
 | updates                                      | status    | version |
 | -------------------------------------------- | --------- | ------- |
-| changed and moved a few pins                 | added     | V2      |
-| seperated RS-232 / RS-485 data LED indicator | added     | V2      |
-| simutaniously RS-232 / RS-485 data           | added     | V2      |
-| flipped side DB-9                            | added     | V2      |
-| power reverse protection                     | added     | V1      |
-| DC barrel 2.1mm barrel plug                  | not added | V1      |
+| changed and moved a few pins                 | added     | V2 - [[NWI1254-dat]]     |
+| seperated RS-232 / RS-485 data LED indicator | added     | V2 - [[NWI1254-dat]]      |
+| simutaniously RS-232 / RS-485 data           | added     | V2 - [[NWI1254-dat]]      |
+| flipped side DB-9                            | added     | V2 - [[NWI1254-dat]]      |
+| power reverse protection                     | added     | V1 - [[NWI1252-dat]]      |
+| DC barrel 2.1mm barrel plug                  | not added | V1 - [[NWI1252-dat]]      |
 
 
 
