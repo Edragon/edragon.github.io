@@ -1,6 +1,6 @@
 # sheet-dat
 
-== [[sheet-metal-fab-dat]] - [[fab-dat]]
+== [[fab-sheet-metal-dat]] - [[fab-dat]]
 
 
 ## sheet materials 

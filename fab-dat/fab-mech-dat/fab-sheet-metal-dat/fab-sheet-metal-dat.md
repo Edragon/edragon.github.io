@@ -1,23 +1,110 @@
-
-# sheet-metal-fab-dat
+# Sheet Metal Fabrication Data
 
 - Supported 3D (required) formats: .step, .stp; Supported 2D formats: dwg, dxf, pdf; Compressed packages (zip, rar) can be uploaded directly.
-- Supports unified ordering for multiple parts in a compressed package; file names for 2D files, BOM lists, etc., need to be consistent (number of files per upload ≤20, individual file size <100M).
+- Supports unified ordering for multiple parts in a compressed package; file names for 2D files, BOM lists, etc., need to be consistent (number of files per upload 20, individual file size <100M).
 - If there are assembly relationships between parts, it is strongly recommended that you upload an assembly STEP file.
 
+Sheet Metal Fabrication typically refers to cold working processes on metal sheets, mainly including the following major categories ??
+
+## 1. Cutting / Blanking
+
+Cut the sheet to size for blanks
+
+- Shearing
+- Laser cutting
+- CNC punching / Turret punch
+- Plasma cutting
+- Waterjet cutting
+- Saw cutting
+
+## 2. Stamping / Punching
+
+Forming locally or entirely through molds
+
+- Punching
+- Blanking
+- Trimming
+- Flanging / Extrusion
+- Deep drawing
+- Embossing / Beading
+- Forming stamping
+
+## 3. Bending / Forming
+
+Change the angle or shape of the sheet
+
+- Press brake bending
+- Air bending / Bottoming / Coining
+- Roll bending
+- Hemming
+- Curling
+
+## 4. Forming
+
+Change the overall or local shape of the sheet
+
+- Deep drawing
+- Hydroforming
+- Flanging
+- Necking / Expanding
+
+## 5. Joining
+
+Combine multiple sheet metal parts
+
+- Spot welding
+- TIG / MIG welding
+- Riveting
+- Blind rivet
+- Screw fastening
+- PEM fasteners
+- Clinching
+
+## 6. Surface Treatment
+
+Improve appearance, corrosion resistance, or functionality
+
+- Powder coating
+- Painting
+- Plating
+- Anodizing (aluminum)
+- Brushing
+- Polishing
+- Black oxide
+- Passivation
+
+## 7. Finishing
+
+Improve dimensional and assembly quality
+
+- Deburring
+- Chamfering
+- Leveling
+- Tapping
+- Reaming / Countersinking
+
+## 8. Common Materials (Sheet Metal)
+
+- Cold rolled steel (SPCC)
+- Galvanized sheet (GI / SECC)
+- Stainless steel (304 / 316)
+- Aluminum sheet (5052 / 6061)
+- Copper / Brass
+
+## 9. One-sentence Summary
+
+Sheet Metal Fabrication = Cutting  Stamping  Bending  Forming  Joining  Surface Treatment  Finishing
 
 ## Examples Stainless Steel 201
 
-- the following bending rack price == 20RM == 3 USD 
+- The following bending rack price == 20RM == 3 USD
 
 ![](2025-06-16-12-38-08.png)
 
-## Example Plastic PP PE Sheet 
-
-
+## Example Plastic PP PE Sheet
 
 unit == mm, color == black
 
-## ref 
+## ref
 
-- [[CAD-dat]]
+- [[CAD-dat]] - [[AI]]
