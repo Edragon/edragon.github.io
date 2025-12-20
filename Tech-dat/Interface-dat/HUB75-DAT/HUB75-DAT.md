@@ -83,15 +83,15 @@ flipped cable 1 == horizontally flipped pin
 
 ![](2025-12-20-18-56-26.png)
 
-flipped cable 2 == horizontally flipped pin
+flipped connector 1 == horizontally flipped pin
 
 ![](2025-12-20-18-52-13.png)
 
-flipped cable 3 == horizontally flipped pin
+flipped connector 2 == horizontally flipped pin
 
 ![](2025-12-20-18-55-37.png)
 
-flipped cable + flipped connector == horizontally + vertically flipped pin
+flipped cable + flipped connector == horizontally + vertically flipped pin ??
 
 ![](2025-12-20-19-01-47.png)
 

@@ -14,9 +14,11 @@ made for same direction
 
 ## install methods 6 types 
 
-cable types from A1~A6, same mapping from PCB to PCB, no matter the directions
+cable types from A1~A6
 
-see how it mapped here [[HUB75-dat]]
+the result is always the same that mapping same pins from PCB to PCB, no matter the cable directions
+
+see how it mapped here [[HUB75-dat]], either horizontally flipped or horizontally + vertically flipped
 
 ![](2025-12-17-17-47-31.png)
 
