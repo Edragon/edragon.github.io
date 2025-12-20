@@ -64,10 +64,48 @@ you can ingnore the cables, and just focuse on the pin to pin, it wont match
 
 1. normal install - cable on the top side == standard install 
 
+correct connection pin to pin
+
+![](2025-12-20-18-39-02.png)
+
+
+
+![](2025-12-20-18-48-02.png)
+
+
+![](2025-12-20-18-46-06.png)
+
+
+
+
+
+flipped cable 1 == horizontally flipped pin
+
+![](2025-12-20-18-56-26.png)
+
+flipped cable 2 == horizontally flipped pin
+
+![](2025-12-20-18-52-13.png)
+
+flipped cable 3 == horizontally flipped pin
+
+![](2025-12-20-18-55-37.png)
+
+flipped cable + flipped connector == horizontally + vertically flipped pin
+
+![](2025-12-20-19-01-47.png)
+
+
+
+## pin mapped on the cable (obseleted)
+
+on the data cable, connect to the pin as below 
+
 ![](2025-12-16-18-31-15.png)
 
 
 The follwoing content show the two methods of the cable installation, either normal or flipped, neither them can match above setup 
+
 
 2. flipped connector + nonflipped cable install 
 
@@ -76,6 +114,7 @@ The follwoing content show the two methods of the cable installation, either nor
 3. flipped connector + flipped    cable install 
 
 ![](2025-12-16-18-37-16.png)
+
 
 
 ## ref 

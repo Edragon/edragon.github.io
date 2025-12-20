@@ -14,9 +14,12 @@ made for same direction
 
 ## install methods 6 types 
 
-cable types from A1~A6 
+cable types from A1~A6, same mapping from PCB to PCB, no matter the directions
+
+see how it mapped here [[HUB75-dat]]
 
 ![](2025-12-17-17-47-31.png)
+
 
 
 
