@@ -16,7 +16,7 @@
 
 - [[MAX98357-dat]] - [[MSM261S4030H0R-dat]]
 
-- [[ambient-light-sensor-dat]] - [[led-driver-dat]]
+- [[sensor-ambient-light-dat]] - [[led-driver-dat]]
 
 - [[serial-dat]] - [[DVP-camera-dat]]
 

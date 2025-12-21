@@ -3,7 +3,7 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Light_Sensor
 
-- [[ams-osram-dat]] - [[ambient-light-sensor-dat]]
+- [[ams-osram-dat]] - [[sensor-ambient-light-dat]]
 
 - [[sensor-UV-light-dat]]
 

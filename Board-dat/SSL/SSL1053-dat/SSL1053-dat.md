@@ -22,7 +22,7 @@ SCH2
 
 ## ref 
 
-- [[SSL1053]] - [[TSL2561-dat]] - [[ambient-light-sensor-dat]]
+- [[SSL1053]] - [[TSL2561-dat]] - [[sensor-ambient-light-dat]]
 
 - [legacy wiki page ](https://w.electrodragon.com/w/Photosensitive_sensor)
 

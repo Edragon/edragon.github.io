@@ -1,16 +1,24 @@
 
-# ambient-light-sensor-dat
+# sensor-ambient-light-dat
 
 
 - [[infrared-led-dat]] - [[liteon-dat]]
+
+- [[LDR-dat]] 
 
 ## board 
 
 - [[SMO1090-dat]] - [[SSL1034-dat]] 
 
 
-## chip 
+
+## light density 
+ 
 - [[BH1750FVI-dat]]
+
+- [[TSL2561-dat]] - [[SSL1053-dat]]
+
+
 
 ## ref 
 
