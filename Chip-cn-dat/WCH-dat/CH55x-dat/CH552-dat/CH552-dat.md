@@ -1,6 +1,7 @@
 
 # CH552-dat
 
+- [[DOD1067-dat]]
 
 - [[WCH-MCU-dat]]
 
@@ -15,6 +16,12 @@
 
 ![](2025-12-21-17-49-58.png)
 
+## bad USB 
+
+![](2025-12-21-18-18-50.png)
+
+![](2025-12-21-18-19-40.png)
+
 ## keyboard and touchpad
 
 - [[interactive-dat]] - [[USB-hub-dat]] - [[keypad-dat]]
@@ -22,6 +29,13 @@
 ![](2025-12-21-18-14-55.png)
 
 
+## deej 
+
+https://github.com/omriharel/deej
+
+- [[WS2812-dat]] - [[trim-pot-dat]]
+
+- [[CH552]]
 
 
 ## DAPLINK 

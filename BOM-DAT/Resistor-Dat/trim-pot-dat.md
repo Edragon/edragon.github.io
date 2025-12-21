@@ -4,6 +4,12 @@
 
 - [[peripherals-dat]]
 
+
+## SCH 
+
+![](2025-12-21-18-23-18.png)
+
+
 ## Potentiometer, trim-pot 
 
 - [[CCO3647-dat]] 
