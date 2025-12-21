@@ -64,6 +64,14 @@
 
 
 
+## wifi IEEE standard 
+
+Wireless-N USB 2.0
+
+Wireless-N USB 2.0 Adapter allows you to connect your laptop or desktop to any Wireless-N networks in your home or office. The Wireless-N (802.11n) USB 2.0 Adapter is great for those who want to upgrade older computers to be able to access the internet over a Wireless-N network.
+
+At 5 times faster than traditional Wireless-G (802.11b) networks, Wireless-N networks allow for high speed data transfers, online gaming, and lightning fast downloads. The Wireless-N USB 2.0 Adapter gives you access to all the high-speed features of Wireless-N networks on older and newer computers. Its simple and easy setup means you'll be surfing the internet, downloading movies, and e-mail in no time.
+
 
 
 
