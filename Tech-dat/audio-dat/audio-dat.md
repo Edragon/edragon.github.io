@@ -10,6 +10,7 @@
 
 - [[bt-audio-dat]]
 
+- [[voice-detection-dat]]
 
 ## chip 
 

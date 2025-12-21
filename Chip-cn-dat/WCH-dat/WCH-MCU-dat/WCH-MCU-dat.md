@@ -26,6 +26,19 @@
 - [[WCH-SDK-dat]]
 
 
+## repo 
+
+https://github.com/Edragon/WCH_CH55X-APP
+https://github.com/Edragon/WCH_CH55X
+
+
+
+## apps 
+
+- badusd - [[USB-HID-dat]]
+- [[DAPLINK-dat]] - [[CH552-dat]]
+
+
 ## ref 
 
 - [[WCH-dat]]
