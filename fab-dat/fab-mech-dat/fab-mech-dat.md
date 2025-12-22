@@ -3,6 +3,21 @@
 - [[3d-print-dat]] - [[3d-prototype-dat]]
 
 
+
+
+## fab-mech 
+
+- [[fab-sheet-metal-dat]] 
+
+## small scale and prototype preparation  
+
+- [[fab-drilling-dat]]
+
+
+
+
+
+
 ## fab mech compare 
 
 ### CNC Aluminium (per piece pricing)
