@@ -4,7 +4,7 @@
 
 - [[infrared-led-dat]] - [[liteon-dat]]
 
-- [[LDR-dat]] 
+- [[sensor-LDR-dat]] 
 
 ## board 
 

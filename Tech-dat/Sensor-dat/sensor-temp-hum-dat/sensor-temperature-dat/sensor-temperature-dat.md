@@ -4,9 +4,11 @@
 
 - [[thermocouple-dat]] - [[thermostat-dat]]
 
-- [[sensor-NTC-dat]]
+- [[sensor-NTC-dat]] - [[sensor-RTD-dat]]
 
 - [[sensor-non-contact-temperature-dat]]
+
+
 
 
 ## boards 
@@ -19,6 +21,8 @@ wireless measurement
 
 - [[MOT1007-dat]]
 
+
+- [[SSL1022-dat]]
 
 
 ## chips 
