@@ -7,6 +7,23 @@
 
 - [[injection-molding-dat]]
 
+
+## frication compare 
+
+1️⃣ NBR（丁腈橡胶）
+
+PU (Polyurethane) 
+
+| Material                       | Typical Friction Coefficient (Dry vs Metal) | Wear Resistance | Hardness Range          | Key Characteristics                                              | Typical Applications                                |
+| ------------------------------ | ------------------------------------------- | --------------- | ----------------------- | ---------------------------------------------------------------- | --------------------------------------------------- |
+| NBR (Nitrile Butadiene Rubber) | High (≈ 0.7 – 1.0)                          | Low–Medium      | Shore A 40–90           | Very high grip, soft, good oil resistance, poor heat resistance  | Drive rollers, anti-slip pads, friction seals       |
+| PU (Polyurethane)              | Medium–High (≈ 0.5 – 0.8)                   | High            | Shore A 60 – Shore D 75 | High friction with excellent wear resistance, good load capacity | Friction wheels, conveyor rollers, pressure rollers |
+| PVC (Polyvinyl Chloride)       | Medium (≈ 0.4 – 0.6)                        | Medium          | Shore A 70 – Shore D 85 | Relatively rough surface, stable, low cost                       | Guide rails, low-speed friction parts               |
+
+
+
+## materials compare 
+
 PU PTFE PP PA6 PE PVC FR4 PEEK Bakelite PVDF ABS NBR POM 6mm
 
 stainless steel / copper rod 3mm 

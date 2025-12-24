@@ -2,6 +2,14 @@
 
 - R7 ESP32-C3 Version
 
+
+
+
+
+
+## hardware 
+
+
 ### Pin Definitions
 
 | Pin       | Function                          | Note       |
@@ -14,6 +22,19 @@
 | IO10      | programmerable LED                | via jumper |
 
 ![](39-39-16-07-02-2023.png)
+
+
+### functions 
+
+ADC port  - [[ADC-dat]]
+
+
+![](2025-12-24-19-07-05.png)
+
+
+
+
+
 
 ### demo video
 
