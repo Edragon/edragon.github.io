@@ -31,9 +31,20 @@ raspberry pi 2 semi-transparent case
 - [[case-waterproof-dat]]
 
 
+外尺寸60*40*20mm
 
+![](2025-12-27-15-46-34.png)
+
+
+![](2025-12-27-15-47-33.png)
+
+
+
+![](2025-12-27-15-48-24.png)
 ## ref 
 
 - [[case-gadget-dat]]
 
 - [[case-dat]]
+
+- [[case-gadget]]

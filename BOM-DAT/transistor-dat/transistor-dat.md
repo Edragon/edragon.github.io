@@ -20,6 +20,12 @@ common brand: 	Infineon
 
 ## common used 
 
+
+- S8550 == 2TY 
+- S9012 == 2T1 
+- SS8050 == Y1 
+
+
 ### S8050 
 
 - [[relay-dat]] drive 

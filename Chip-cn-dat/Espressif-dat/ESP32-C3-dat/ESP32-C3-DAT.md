@@ -79,6 +79,20 @@ obselete - [[ESP-C3-32S-dat]] - [[ESP-C3-12F-DAT]]
   * Partion Scheme: Default 4MB with Spiffs
   * Core Debug Level: None
 
+
+- USB CDC On Boot: **"Disabled"**
+- CPU Frequency: ***160MHz (WiFi)***
+- Core Debug Level: ***None"**
+- Erase All Flash Before Sketch Upload: **"Enabled"**
+- Flash Frequency: ***80MHz"**
+- Flash Mode: **"QIO"**
+- Flash Size: **"4MB (32Mb)"**
+- JTAG Adapter: **"Disabled"**
+- Partition Scheme: **"Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)"**
+- Upload Speed: *921600"*
+- Zigbee Mode: **"Disabled"**
+
+
 ### Open Issues
 
 I2C
