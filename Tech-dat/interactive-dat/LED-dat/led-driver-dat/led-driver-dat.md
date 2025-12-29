@@ -12,6 +12,7 @@ https://w.electrodragon.com/w/LED_Drive
 - [[ILC1063-dat]] - [[PWM-dat]]
 - [[IDD1002-dat]] - [[PT4115-dat]]
 - [[XL4015-dat]]
+- [[CN5711-dat]]
 
 ## Common questions 
 
