@@ -1,6 +1,19 @@
 # Shaft-dat
 
+- [[mechanical-structure-dat]] - [[materials-dat]]
 
+## shaft connector 
+
+- [[rivet-dat]] - [[screws-dat]]
+
+
+✅ 方案 3：钎焊 / 焊接（非烙铁）
+
+铝钎焊（>500°C）
+
+激光焊 / TIG（专业设备）
+
+⚠️ 这是完全不同工艺，非 DIY 范畴
 
 
 ## dimension 
@@ -79,6 +92,38 @@ How to make it safer
 - Cut gently, do not force
 
   Keep a steady motion; do not rock the shaft.
+
+
+
+
+
+## shaft assembly 
+
+芯轴加热 / 冷冻的本质作用只有一个：
+——利用热胀冷缩，让“本来很紧的过盈配合在装配瞬间变得好装”。
+下面我用直观 + 定量给你解释清楚。
+一、一句话核心原理
+加热孔 → 孔变大
+冷冻轴 → 轴变小
+👉 装配瞬间从“硬压”变成“顺滑插入”，
+冷却后恢复尺寸，形成非常牢固的过盈配合。
+
+
+
+
+## shaft connection 
+
+### large tube hold small shaft 
+
+三、可行的解决方案
+方案 1：开槽 + 喉箍（薄壁首选）
+
+薄壁 1.5 mm 攻丝不可靠
+
+改用喉箍或外夹方式
+
+可加 2 条喉箍提高稳定性
+
 
 
 

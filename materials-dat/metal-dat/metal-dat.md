@@ -8,6 +8,46 @@
 
 
 
+
+## metal soldering 
+
+普通电烙铁的世界里：
+铜是王，镀层是桥，铝是禁区。
+
+五、实操建议（很有用）
+🔹 如果你想“让任何金属都好焊”
+
+👉 先镀锡 / 镀铜
+
+方法：
+
+化学镀
+
+电镀
+
+喷涂焊锡层
+
+
+二、为什么“铜系最好焊”？
+1️⃣ 氧化膜容易被助焊剂破坏
+2️⃣ 锡对铜润湿性极好
+3️⃣ 形成 Cu–Sn 金属间化合物
+
+→ 是真正“结合”
+
+
+一、结论速览：哪些金属“能用电烙铁焊”？
+
+前提：普通电烙铁（≈300–400°C）+ 锡基焊料
+
+✅ 非常容易焊（标准焊接）
+金属	可行性	说明
+铜（Cu）	⭐⭐⭐⭐⭐	最理想
+黄铜	⭐⭐⭐⭐⭐	含铜高
+紫铜	⭐⭐⭐⭐⭐	同上
+镀锡铜	⭐⭐⭐⭐⭐	一碰就上锡
+
+
 ## metal dust 
 
 一、从「源头」减少粉尘（最有效）
@@ -28,3 +68,42 @@
 | Brass (黄铜)    | ⭐⭐⭐⭐☆ (Easy)          | Low–Medium | Clean chips           | Medium          | Free-cutting, stable; less grabbing than aluminum  |
 | Copper (紫铜)   | ⭐⭐⭐☆☆ (Medium)        | Medium     | Long, sticky chips    | Medium–High     | Very ductile; tends to smear and stick to tools    |
 | Stainless Steel | ⭐⭐☆☆☆ (Hard)          | High       | Fine chips + dust     | High            | Tough, work-hardens; needs low speed and coolant   |
+
+
+
+
+
+## metal glue 
+
+- [[glue-dat]]
+
+四、粘得牢的关键步骤（比胶水本身还重要）
+1️⃣ 打磨（必须）
+
+铝合金：用 400~600 号砂纸
+
+不锈钢：同样打磨
+
+目的：破坏氧化层 + 增加粗糙度
+
+2️⃣ 脱脂（必须）
+
+酒精 / 丙酮
+
+彻底擦干
+
+3️⃣ 控制胶层厚度
+
+最佳厚度：0.1 ~ 0.3 mm
+
+太薄强度下降
+
+太厚会脆
+
+4️⃣ 固化时夹紧
+
+不要挤干胶
+
+只是定位、对齐
+
+

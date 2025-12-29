@@ -19,6 +19,12 @@
 
 - [[stainless-steel-dat]] - [[stainless-steel-solid-rod-dat]] - [[metal-dat]]
 
+
+- [[clamp-dat]]
+
+
+
+
 ## size 
 
 - 3mm [[ABS-dat]] [[shaft-dat]] - weak 

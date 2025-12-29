@@ -17,6 +17,10 @@ cross connector 3 - purpose for water tube
 
 ![](2025-12-12-12-37-08.png)
 
+![](2025-12-29-15-23-58.png)
+
+
+
 
 ## apps 
 
@@ -24,6 +28,10 @@ cross connector 3 - purpose for water tube
 
 ![](2025-12-10-01-52-28.png)
 
+
+
+
+
 ## ref 
 
-- [[shaft-dat]]
+- [[shaft-dat]] - [[shaft]]
