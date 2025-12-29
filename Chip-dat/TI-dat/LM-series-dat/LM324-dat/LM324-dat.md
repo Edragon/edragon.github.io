@@ -5,6 +5,9 @@
 
 LMx24, LMx24x, LMx24xx, LM2902, LM2902x, LM2902xx, LM2902xxx Quadruple Operational Amplifiers
 
+LM2902M - IC QUAD OPERATIONAL AMP(14SOP)
+
+- [[amplifier-dat]]
 
 ## Info 
 

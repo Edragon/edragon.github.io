@@ -7,7 +7,7 @@
 
 information about photodetectors wiki page: [Photodetectors](https://en.wikipedia.org/wiki/Photodetector)
 
-- [[LDR-dat]]
+- [[sensor-LDR-dat]]
 
 
 ### Board Map, Dimension, Pins, etc.

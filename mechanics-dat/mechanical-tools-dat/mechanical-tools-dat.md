@@ -59,7 +59,9 @@ The most important measurement is the **distance across the flat sides of the he
 > 🔹 These sizes must match the hex socket of the bolt exactly.
 
 
+## the bad brand
 
+- [[delixi-dat]]
 
 
 ## ref 

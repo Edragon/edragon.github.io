@@ -3,21 +3,28 @@
 
 - [[ADC-bat-monitor-dat]] - [[voltage-divider-dat]]
 
-- [[Analog-device-dat]]
+- not this is chip [[Analog-device-dat]]
+
+- [[sensor-analog-dat]] - [[sensor-dat]]
 
 
 
-## chips 
+## relevant boards 
 
-- [[ADS1100-dat]]
-- AD7606
-- AD7799
-- AD7880 == LC2 MOS Single +5 V Supply, Low Power, 12-Bit Sampling ADC
+- [[NWI1119-dat]]
 
-- [[ADS7822-dat]] - 12-Bit, 200 kSPS, SPI Interface, Micro Power, Single Supply, Rail-to-Rail I/O ADC with Internal Reference
+- [[SSL1071-dat]] - [[SSL1072-dat]] == Load Cell Amplifier, Weight Sensor Kit, HX711 [KG] - [[HX711-dat]]
 
-	
-- AD9224ARSZ - 12 Bit Analog to Digital Converter 1 Input 1 Pipelined 28-SSOP
+## apps to build 
+
+- [[sensor-analog-dat]]
+
+- [[sensor-temperature-dat]] - [[sensor-light-dat]]
+
+- [[sensor-voltage-dat]]
+
+
+
 
 
 
@@ -79,7 +86,24 @@
 
 
 
-## other 
+
+## chips 
+
+- [[INA219-dat]] - [[INA226-dat]]
+
+- [[ADS1100-dat]]
+- AD7606
+- AD7799
+- AD7880 == LC2 MOS Single +5 V Supply, Low Power, 12-Bit Sampling ADC
+
+- [[ADS7822-dat]] - 12-Bit, 200 kSPS, SPI Interface, Micro Power, Single Supply, Rail-to-Rail I/O ADC with Internal Reference
+
+	
+- AD9224ARSZ - 12 Bit Analog to Digital Converter 1 Input 1 Pipelined 28-SSOP
+
+
+
+## other chips 
 
 - [ADS7046 12-Bit, 3-MSPS, Single-Ended Input, Small-Size, Low-Power SAR ADC](https://www.ti.com/lit/ds/symlink/ads7046.pdf?ts=1758413865175)
 

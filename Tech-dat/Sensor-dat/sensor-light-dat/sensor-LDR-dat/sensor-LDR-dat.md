@@ -1,5 +1,5 @@
 
-# LDR-dat
+# sensor-LDR-dat
 
 ## "CDS photoresistor" or "CDS LDR (Light Dependent Resistor)".
 
@@ -10,3 +10,18 @@ Photoresistor or LDR (Light Dependent Resistor) are common names for this compon
 ## boards 
 
 - [[SSL1022-dat]]
+
+
+
+## SCH 
+
+to the [[ESP32-dat]] pin 34
+
+![](2025-12-24-19-15-48.png)
+
+
+
+
+## ref 
+
+- [[sensor-light-dat]]

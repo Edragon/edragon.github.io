@@ -19,3 +19,13 @@
 
 ## type-A male 
 
+![](2025-12-22-21-17-54.png)
+
+board sinked 
+
+![](2025-12-22-21-18-12.png)
+
+
+## ref 
+
+- [[CONN-USB]] - [[USB-A]] - [[CONN]]

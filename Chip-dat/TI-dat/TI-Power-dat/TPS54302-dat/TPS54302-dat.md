@@ -15,6 +15,7 @@ TPS54302 4.5-V to 28-V Input, 3-A Output, EMI-Friendly Synchronous Step-Down Con
 | Cfb   | 75pf         |      |
 | Co    | 22uf x2      |      |
 
+SOT-23 (6) package
 
 
 ![](2024-04-29-16-00-08.png)
