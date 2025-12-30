@@ -1,109 +1,100 @@
-
 # metal-dat
 
+- [[brass-copper-dat]]
+
+- [[Shaft-dat]]
+
+## metal connection 
 
 
-- [[brass-copper-dat]] 
+### Metal Soldering
 
+Context: standard soldering iron (~300–400°C) + tin-based solder.
 
+Summary: Copper-based metals are the easiest to solder with a regular iron. Aluminum is difficult without special methods. If you need to make a hard-to-solder metal solderable, plating (tin or copper) is an effective approach.
 
+Quick reference — which metals can be soldered with a regular iron:
+- Very easy (standard soldering): Copper and high-copper alloys (brass, red copper, tin-plated copper).
 
+Why copper alloys are best for soldering:
+1. Oxide film is easy to break down with flux.
+2. Tin wets copper extremely well.
+3. Copper and tin form Cu–Sn intermetallics → a true metallurgical bond.
 
-## metal soldering 
+Practical suggestion: To make almost any metal solderable
+- First plate with tin or copper (methods):
+  - Chemical plating
+  - Electroplating
+  - Solder spray / tin coating
 
-普通电烙铁的世界里：
-铜是王，镀层是桥，铝是禁区。
+Useful tips
+- Use appropriate flux for the base metal.
+- Ensure mechanical cleaning (brushing/sanding) before soldering when possible.
+- For aluminum, use special fluxes and/or aluminum-specific solders or plate the joint first.
 
-五、实操建议（很有用）
-🔹 如果你想“让任何金属都好焊”
+---
 
-👉 先镀锡 / 镀铜
+## Metal Dust — Control at the Source
 
-方法：
+Best strategy: reduce dust generation at the cutting stage.
 
-化学镀
+Recommended cutting methods (from least to most dust):
+| Cutting method        | Dust amount | Notes |
+| --------------------- | ----------- | ----- |
+| Cold saw / band saw   | ⭐ lowest   | Produces chips/strips rather than fine dust |
+| Hand saw (hacksaw)    | ⭐⭐ low     | Low airborne dust; slower |
+| Angle grinder cutting | ❌ high     | High speed creates fine powder |
+| Cutting wheel / abrasive | ❌❌ very high | Produces fine dust and sparks; worst for airborne particles |
 
-电镀
+Practical controls
+- Prefer sawing with coolant or low-speed blade when possible.
+- Use local exhaust ventilation and masks for abrasive cutting.
+- Wet cutting or vacuum extraction reduces airborne dust.
 
-喷涂焊锡层
+---
 
+## Cutting: Ease, Tool Wear, and Chips
 
-二、为什么“铜系最好焊”？
-1️⃣ 氧化膜容易被助焊剂破坏
-2️⃣ 锡对铜润湿性极好
-3️⃣ 形成 Cu–Sn 金属间化合物
+| Material         | Relative Cutting Ease | Tool Wear | Dust / Chips Produced    | Heat Generation | Notes |
+| ---------------- | --------------------- | --------- | ------------------------ | --------------- | ----- |
+| Aluminum alloy   | ⭐⭐⭐⭐⭐ (Very easy)     | Low       | Chips (few fine dust)    | Low–Medium      | Soft; can clog blades at high RPM |
+| Brass (黄铜)     | ⭐⭐⭐⭐☆ (Easy)          | Low–Medium| Clean chips              | Medium          | Free-cutting; stable |
+| Copper (紫铜)    | ⭐⭐⭐☆☆ (Medium)        | Medium    | Long, sticky chips       | Medium–High     | Ductile; tends to smear |
+| Stainless steel  | ⭐⭐☆☆☆ (Hard)          | High      | Fine chips + dust        | High            | Work-hardens; use low speed and coolant |
 
-→ 是真正“结合”
+Notes
+- Match blade type and speed to material.
+- Use coolant for steels and stainless to reduce heat and tool wear.
+- Control chip evacuation to prevent blade clogging.
 
+---
 
-一、结论速览：哪些金属“能用电烙铁焊”？
+## Metal Adhesives (Glue)
 
-前提：普通电烙铁（≈300–400°C）+ 锡基焊料
+Key steps to get a strong bond—more important than the adhesive brand:
 
-✅ 非常容易焊（标准焊接）
-金属	可行性	说明
-铜（Cu）	⭐⭐⭐⭐⭐	最理想
-黄铜	⭐⭐⭐⭐⭐	含铜高
-紫铜	⭐⭐⭐⭐⭐	同上
-镀锡铜	⭐⭐⭐⭐⭐	一碰就上锡
+1. Surface preparation — sanding (required)
+   - Aluminum alloys: use 400–600 grit sandpaper.
+   - Stainless steel: also sand to remove oxide and increase surface roughness.
+   - Purpose: remove oxide layer and increase mechanical keying.
 
+2. Degrease (required)
+   - Use isopropyl alcohol or acetone.
+   - Wipe thoroughly and let dry.
 
-## metal dust 
+3. Control adhesive layer thickness
+   - Recommended thickness: 0.1–0.3 mm
+   - Too thin → lower strength; too thick → more brittle
 
-一、从「源头」减少粉尘（最有效）
-✅ 1️⃣ 选对切割方式（优先级很高）
-| 切割方式      | 粉尘量    | 说明            |
-| ------------- | --------- | --------------- |
-| 冷切锯 / 带锯 | ⭐ 最少    | 切屑是颗粒/条状 |
-| 手锯（钢锯）  | ⭐⭐ 少     | 粉尘不飞        |
-| 角磨机切割片  | ❌ 多      | 高速产生细粉    |
-| 砂轮切割      | ❌❌ 非常多 | 粉尘 + 火花     |
+4. Clamp during curing
+   - Clamp for alignment and pressure, but do not squeeze all adhesive out.
+   - Ensure even contact and correct gap thickness.
 
+General adhesive notes
+- Choose an adhesive suitable for the material and environment (temperature, load, chemical exposure).
+- For metals, epoxy and structural acrylics are common choices.
 
-## easy for cutting 
+---
 
-| Material        | Relative Cutting Ease | Tool Wear  | Dust / Chips Produced | Heat Generation | Notes                                              |
-| --------------- | --------------------- | ---------- | --------------------- | --------------- | -------------------------------------------------- |
-| Aluminum Alloy  | ⭐⭐⭐⭐⭐ (Very Easy)     | Low        | Chips (few fine dust) | Low–Medium      | Soft, cuts easily; may clog blades if RPM too high |
-| Brass (黄铜)    | ⭐⭐⭐⭐☆ (Easy)          | Low–Medium | Clean chips           | Medium          | Free-cutting, stable; less grabbing than aluminum  |
-| Copper (紫铜)   | ⭐⭐⭐☆☆ (Medium)        | Medium     | Long, sticky chips    | Medium–High     | Very ductile; tends to smear and stick to tools    |
-| Stainless Steel | ⭐⭐☆☆☆ (Hard)          | High       | Fine chips + dust     | High            | Tough, work-hardens; needs low speed and coolant   |
-
-
-
-
-
-## metal glue 
-
-- [[glue-dat]]
-
-四、粘得牢的关键步骤（比胶水本身还重要）
-1️⃣ 打磨（必须）
-
-铝合金：用 400~600 号砂纸
-
-不锈钢：同样打磨
-
-目的：破坏氧化层 + 增加粗糙度
-
-2️⃣ 脱脂（必须）
-
-酒精 / 丙酮
-
-彻底擦干
-
-3️⃣ 控制胶层厚度
-
-最佳厚度：0.1 ~ 0.3 mm
-
-太薄强度下降
-
-太厚会脆
-
-4️⃣ 固化时夹紧
-
-不要挤干胶
-
-只是定位、对齐
-
-
+## References
+- [[AI]]
