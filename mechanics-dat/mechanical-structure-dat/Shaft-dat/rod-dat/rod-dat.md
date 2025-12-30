@@ -23,6 +23,11 @@
 - [[clamp-dat]]
 
 
+rod hinge 
+
+![](2025-12-10-02-00-40.png)
+
+
 
 
 ## size 
@@ -94,3 +99,11 @@ vertical tube connector == water pipe joint
 - [[mechanical-structure-dat]]
 
 - [[mechanical-structure]] - [[mechanics]]
+
+
+
+## ref 
+
+- [[rod]]
+
+- [[mechanics]]

@@ -124,7 +124,9 @@ How to make it safer
 
 可加 2 条喉箍提高稳定性
 
+methods 
 
+![](2025-12-30-14-08-06.png)
 
 
 ## ref 
