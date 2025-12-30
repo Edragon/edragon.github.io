@@ -17,6 +17,6 @@ case used by [[NWI1072-dat]] - [[NWI1126-dat]]
 
 ## ref 
 
-- [[screws-dat]] - [[case-led]]
+- [[screw-dat]] - [[case-led]]
 
 

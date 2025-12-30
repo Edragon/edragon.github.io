@@ -20,7 +20,7 @@
 
 - [[Wrench-dat]]
 
-- [[screws-dat]] - [[hex-socket-screw-dat]] 
+- [[screw-dat]] - [[hex-socket-screw-dat]] 
 
 - [[hex-socket-screwdriver-dat]]
 
