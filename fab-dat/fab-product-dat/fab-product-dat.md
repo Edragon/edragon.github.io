@@ -1,8 +1,8 @@
-# fab-mech-dat.md
+# fab-product-dat
 
 - [[3d-prototype-dat]] - [[CAD-dat]]
 
-
+- [[fab-mech]]
 
 ## small scale and prototype preparation  
 
