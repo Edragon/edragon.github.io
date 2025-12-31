@@ -4,6 +4,8 @@
 
 - [[Shaft-dat]]
 
+- [[sheet-metal-fab-dat]] - [[fab-sheet-metal-dat]]
+
 ## metal connection 
 
 
