@@ -16,7 +16,7 @@ RPI with a magnetic stand holder M2 [[pmp1036-dat]]
 
 
 
-- [[screws-dat]] - [[magnet-dat]]
+- [[screw-dat]] - [[magnet-dat]]
 
 
 ## ref 

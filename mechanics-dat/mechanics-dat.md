@@ -29,7 +29,7 @@
 
 - [[mechanical-structure-dat]] - [[PVC-tube-dat]] - [[aluminum-profile-dat]] - [[turnover-box-dat]] - [[cardboard-dat]] - [[shaft-plain-dat]] 
 
-- [[rod-system-dat]] - [[shaft-dat]] - - [[alu-extrusion-dat]] - [[motion-system-dat]]
+- [[Shaft-dat]] - [[rod-system-dat]] - [[alu-extrusion-dat]] - [[motion-system-dat]] - [[rod-dat]]
 
 - [[mechanical-parts-dat]] - [[bearing-dat]] - [[nut-dat]] - [[flange-dat]] - [[crank-dat]] - [[hinge-dat]]
   
@@ -71,7 +71,7 @@ mechanics-dat
 
 [[Pneumatic-cylinder-dat]]
 
-[[Lead-screw-dat]] - [[screws-dat]]
+[[Lead-screw-dat]] - [[screw-dat]]
 
 - [[flange-dat]]
 

@@ -6,3 +6,9 @@
 ## 18650 battery holder 
 
 ![](2025-08-30-16-22-09.png)
+
+
+
+## ref 
+
+- [[battery-dat]]

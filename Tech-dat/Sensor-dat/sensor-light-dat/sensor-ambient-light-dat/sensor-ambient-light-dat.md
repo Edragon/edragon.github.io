@@ -2,6 +2,8 @@
 # sensor-ambient-light-dat
 
 
+- [[sensor-light-dat]]
+
 - [[infrared-led-dat]] - [[liteon-dat]]
 
 - [[sensor-LDR-dat]] 
@@ -18,7 +20,7 @@
 
 - [[TSL2561-dat]] - [[SSL1053-dat]]
 
-
+- [[TEMT6000-dat]]
 
 ## ref 
 

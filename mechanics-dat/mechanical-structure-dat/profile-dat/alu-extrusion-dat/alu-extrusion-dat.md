@@ -2,7 +2,7 @@
 # Alu-Extrusion-dat
 
 
-- [[Alu-Extrusion]] - [[screws-dat]] - [[t-nut-dat]]
+- [[Alu-Extrusion]] - [[screw-dat]] - [[t-nut-dat]]
 
 - [[case-aluminium-extrusion-dat]]
 

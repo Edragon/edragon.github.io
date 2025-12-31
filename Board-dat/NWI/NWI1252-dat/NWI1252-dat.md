@@ -2,7 +2,7 @@
 # NWI1252-dat
 
 
-- [[ESP32-C3-dat]]
+- [[ESP32-C3-dat]] - new board information [[NWI1254-dat]]
 
 
 ## usage 

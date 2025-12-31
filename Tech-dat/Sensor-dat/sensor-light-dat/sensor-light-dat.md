@@ -5,7 +5,11 @@
 
 - [[ams-osram-dat]] - [[sensor-ambient-light-dat]]
 
-- [[sensor-UV-light-dat]]
+- [[sensor-UV-light-dat]] - [[LDR-dat]]
+
+- [[infrared-reflective-dat]]
+
+
 
 
 

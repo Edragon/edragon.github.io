@@ -5,11 +5,26 @@
 https://w.electrodragon.com/w/LED_Drive
 
 
-
+- [[constant-current-dat]]
 
 ## boards 
 
-- [[ILC1063-dat]] - [[IDD1002-dat]]
+- [[ILC1063-dat]] - [[PWM-dat]]
+- [[IDD1002-dat]] - [[PT4115-dat]]
+- [[XL4015-dat]]
+- [[CN5711-dat]]
+
+## Common questions 
+
+This is a buck (step-down) constant-current LED driver. Input: 5–32 V.
+
+- The input voltage must be at least 1 V higher than the LED string voltage required. This is a constant-current driver, not a constant-voltage regulator.
+- People often ask "what is the output voltage?" — the board controls current, not voltage. The output voltage will adjust to whatever the LEDs require.
+  - Example: if one LED requires ~3 V, the LED voltage stays ~3 V. Two in series ~6 V, etc.
+  - Do not measure output voltage with no load. No-load output reads the input voltage (a phantom voltage).
+- This is a step-down (buck) constant-current driver, not a boost driver.
+  - If two LEDs in series require 6 V to light, and you supply 5 V, they will not light. You must supply at least ~7 V (6 V + ~1 V headroom).
+- Output current formula: I = 0.1 / R_CS (R_CS = current sense resistor).
 
 
 ## driver options 
@@ -108,8 +123,71 @@ driver AOA3 ?
 
 
 
+## driving method 
+
+Current Push vs Pull: Power Supply & LED
+
+### 1️⃣ Conceptual difference
+
+| Term             | Meaning                                        | Direction of Current     | Notes                                                                                                |
+| ---------------- | ---------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Current Push** | Source **actively drives current into a load** | From power supply → load | Standard operation of most DC power supplies: source “pushes” electrons into the device.             |
+| **Current Pull** | Load **draws current from the source**         | From load → source       | Seen when load is voltage-controlled, like LEDs with a series resistor on a constant voltage supply. |
+
+> In practice:
+> - **Power supply**: pushes current.
+> - **LED**: draws (pulls) current according to its forward voltage and series resistor/driver.
+
+---
+
+### 2️⃣ Relation to LEDs
+
+- **LED is a current-driven device**:
+  - Brightness is determined by **current**, not voltage.
+  - Excess current → LED damage.
+
+- **Power supply types**:
+  1. **Constant Voltage (CV, e.g., 12V)**  
+     - Supply pushes voltage → LED pulls current through series resistor.  
+     - Resistor needed to **limit current**.
+  2. **Constant Current (CC, e.g., 350mA)**  
+     - Supply pushes fixed current → LED sets voltage automatically.  
+     - Stable brightness, no extra resistor needed.
+
+---
+
+### 3️⃣ Practical Examples
+
+**12V LED with resistor:**
+
+12V (push) → resistor → LED (pull)
+
+- Power supply pushes 12V.
+- LED pulls current: I = (12V - Vf) / R
+- If R too small → LED pulls too much → burns out.
+
+**Constant current driver:**
+
+12V CC driver (pushes 350mA) → LED (accepts 350mA)
+
+- Driver maintains current automatically.
+- LED adjusts voltage accordingly.
+- No resistor needed.
+
+---
+
+### 4️⃣ Key Takeaways
+
+1. **LEDs are current-driven**; control current rather than voltage.  
+2. **Push vs Pull is perspective**: supply pushes, LED pulls.  
+3. **Use constant current drivers** to protect LEDs.  
+4. With voltage supply, **always use a series resistor** to limit current.
+
+
+
 
 ### ref 
 
 - https://tigoe.github.io/LightProjects/led-strips.html
 
+- [[led-driver]] - [[led]]

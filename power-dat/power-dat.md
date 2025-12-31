@@ -31,6 +31,7 @@
 
 - [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]]
 
+- [[constant-current-dat]]
 
 ## power design workflow
 

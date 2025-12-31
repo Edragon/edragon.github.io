@@ -60,7 +60,7 @@ In summary, the locking effect is the result of the screw creating a compressive
 
 ### Hex Head (Hexagonal Head):
 
-- [[screws-dat]]
+- [[screw-dat]]
 
 Description: A hexagonal-shaped head that requires a wrench or a socket driver for tightening.
 

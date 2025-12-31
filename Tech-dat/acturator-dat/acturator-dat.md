@@ -29,6 +29,16 @@
 
 - [[Humidifier-dat]]
 
+
+
+## motor relevant 
+
+- [[motor-driver-dat]] - [[motor-misc-dat]] - [[motor-dat]]
+
+
+
+
+
 ## Boards 
 
 - [[SCU1080-dat]] - [[SCU1030-dat]]

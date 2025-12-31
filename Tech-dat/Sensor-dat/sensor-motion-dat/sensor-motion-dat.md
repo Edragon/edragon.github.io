@@ -7,6 +7,7 @@
 
 - [[sensor-hall-dat]]
 
+- [[sensor-gesture-dat]] - [[sensor-touch-dat]] - 
 
 ## chips 
 

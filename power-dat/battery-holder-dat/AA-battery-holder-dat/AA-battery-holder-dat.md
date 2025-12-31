@@ -18,6 +18,13 @@
 
 ![](2024-09-22-00-21-47.png)
 
+
+## cylindar battery holder 
+
+![](2025-12-30-15-02-43.png)
+
+
+
 ## ref 
 
 - [[AA-battery-holder]]

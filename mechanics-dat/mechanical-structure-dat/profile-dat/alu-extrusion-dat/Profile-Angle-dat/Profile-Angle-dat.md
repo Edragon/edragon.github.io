@@ -41,7 +41,7 @@ width == 20
 | ------------------ | ----- |
 | angle              | 1515  |
 | t-nut              | 15M4  |
-| hex [[screws-dat]] |       |
+| hex [[screw-dat]] |       |
 | washers            |       |
 
 
