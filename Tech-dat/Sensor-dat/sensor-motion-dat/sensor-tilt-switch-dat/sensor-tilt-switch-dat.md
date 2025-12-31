@@ -2,15 +2,25 @@
 
 # sensor-tilt-switch-dat
 
+== [[sensor-vibration-dat]]
+
+
+- [[SMO1040-dat]] - [[SMO1045-dat]] - [[SMO1048-dat]]
+
+
+
 
 ## mercury type tilt switch sensor 
 
-- [[smo1040-dat]]
+- [[smo1040-dat]] 
 
 
 ## Reed Tilt Switch Sensor 
 
 ![](2025-11-28-19-39-51.png)
+
+
+
 
 ### Structure
 

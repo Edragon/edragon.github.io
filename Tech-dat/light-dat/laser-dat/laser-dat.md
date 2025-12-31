@@ -17,6 +17,11 @@ Lasers can be used in sensors through the following key principles:
 | **Laser interferometry** | Measures phase change of reflected laser light        | Ultra-high precision displacement          |
 
 
+激光的发射原理及产生过程的特殊性决定了激光具有普通光所不具有的特点：即三好（单色性好、相干性好、方向性好）一高（亮度高）。
+
+- [[SMO1050-dat]]
+
+
 ## ref 
 
 - [[TOF-dat]]

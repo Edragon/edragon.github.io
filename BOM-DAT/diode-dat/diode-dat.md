@@ -165,6 +165,9 @@ For **high-voltage AC** rectification (like 220V/110V mains power supplies):
 
 MPC555LFMZP40NXP - 3300V, 90A, Silicon Carbide (SiC) Schottky Diode, 2-lead T-MAX® package.
 
+1N5619
+
+
 
 ## Rectifier Diode vs Schottky Diode
 
