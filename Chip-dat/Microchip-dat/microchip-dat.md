@@ -38,6 +38,19 @@ MCP4017 == 7-Bit Single Digital POT in SC70 w/I2C™
 - [[ethernet-dat]]
 
 
+## module 
+
+RNWF11
+
+RNWF11PC-I100 - 
+
+The RNWF11 Module is a low-power 2.4 GHz IEEE® 802.11b/g/n compliant, fully RF certified wireless module
+designed for Internet of Things (IoT) applications. This module is interfaced via a Two-Wire UART interface
+with Microchip’s simple ASCII-based AT commands for easy integration into most of the applications. The host
+microcontroller can dynamically configure the RNWF11 Module with a few simple ASCII commands.
+
+
+- [[IOT-dat]]
 
 ## ref 
 

@@ -25,6 +25,8 @@ STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
 
 STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]]
 
+
+
 ## Applications 
 
 [[CAN-dat]] - [[MSP1061-dat]]
@@ -172,6 +174,12 @@ The embedded bootloader mode is used to reprogram the Flash memory using one of 
 * USART3 (PB10/11 and PC10/11)
 * CAN2 (PB5/13)
 * USB OTG FS (PA11/12) in Device mode (DFU: device firmware upgrade).
+
+
+## more chips 
+
+STM32-H - STM32H563 ZIT6
+
 
 
 ## repro 
