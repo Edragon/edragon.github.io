@@ -18,7 +18,13 @@ BSO-M3-6
 4x M4 BSO-M4-6 背面安装
 
 
+## pull tool 
+
+![](2026-01-01-13-40-10.png)
+
 
 ## ref 
 
-- [[rivet-dat]]
+- [[rivet-dat]] - [[rivet]] - [[mechanical-structure]]
+
+- [[rivet-nut]]

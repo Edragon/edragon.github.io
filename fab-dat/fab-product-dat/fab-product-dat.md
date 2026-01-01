@@ -14,7 +14,7 @@
 
 - [[fab-3d-print-dat]] == [[plastic-dat]]
 
-- [[molding-dat]]
+- [[fab-molding-dat]]
 
 | Process          | Startup Cost | Unit Cost | Appearance | Strength | Recommendation |
 | ---------------- | ------------ | --------- | ---------- | -------- | -------------- |
