@@ -1,9 +1,38 @@
-# Sheet Metal Fabrication Data
+# fab-sheet-metal-dat
 
 - [[fab-sheet-metal-annotation-dat]]
 
 - [[rivet-dat]] - [[rivet-nut-dat]]
 
+
+## common to use sheet metal products 
+
+- Aluminum can | 易拉罐 | 0.08–0.12 mm | 深拉伸成型，极薄 |
+
+3️⃣ 铝制路牌 / 广告牌边角料 == 厚度：0.5–1.0 mm
+
+- 加工：
+  - 手钻
+  - 台钳折弯
+  - 拉铆钉
+
+✅ 非常适合：  
+- 小型钣金件  
+- 结构件  
+- 可反复使用  
+
+4️⃣ 电脑机箱侧板（Steel / SECC）
+- 厚度：0.6–0.8 mm
+- 来源：旧电脑
+- 特点：
+  - 真·钣金材料
+  - 可点焊 / 铆接
+- 适合：
+  - 支架
+  - 底板
+  - 承力结构
+
+⚠ 比铝硬，加工略费力
 
 
 
