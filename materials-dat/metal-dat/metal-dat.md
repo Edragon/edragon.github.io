@@ -4,6 +4,12 @@
 
 - [[Shaft-dat]]
 
+- [[fab-sheet-metal-dat]]
+
+- [[rivet-dat]] - [[nut-dat]] 
+
+
+
 ## metal connection 
 
 
@@ -39,11 +45,11 @@ Useful tips
 Best strategy: reduce dust generation at the cutting stage.
 
 Recommended cutting methods (from least to most dust):
-| Cutting method        | Dust amount | Notes |
-| --------------------- | ----------- | ----- |
-| Cold saw / band saw   | ⭐ lowest   | Produces chips/strips rather than fine dust |
-| Hand saw (hacksaw)    | ⭐⭐ low     | Low airborne dust; slower |
-| Angle grinder cutting | ❌ high     | High speed creates fine powder |
+| Cutting method           | Dust amount  | Notes                                                       |
+| ------------------------ | ------------ | ----------------------------------------------------------- |
+| Cold saw / band saw      | ⭐ lowest     | Produces chips/strips rather than fine dust                 |
+| Hand saw (hacksaw)       | ⭐⭐ low       | Low airborne dust; slower                                   |
+| Angle grinder cutting    | ❌ high       | High speed creates fine powder                              |
 | Cutting wheel / abrasive | ❌❌ very high | Produces fine dust and sparks; worst for airborne particles |
 
 Practical controls
@@ -55,12 +61,12 @@ Practical controls
 
 ## Cutting: Ease, Tool Wear, and Chips
 
-| Material         | Relative Cutting Ease | Tool Wear | Dust / Chips Produced    | Heat Generation | Notes |
-| ---------------- | --------------------- | --------- | ------------------------ | --------------- | ----- |
-| Aluminum alloy   | ⭐⭐⭐⭐⭐ (Very easy)     | Low       | Chips (few fine dust)    | Low–Medium      | Soft; can clog blades at high RPM |
-| Brass (黄铜)     | ⭐⭐⭐⭐☆ (Easy)          | Low–Medium| Clean chips              | Medium          | Free-cutting; stable |
-| Copper (紫铜)    | ⭐⭐⭐☆☆ (Medium)        | Medium    | Long, sticky chips       | Medium–High     | Ductile; tends to smear |
-| Stainless steel  | ⭐⭐☆☆☆ (Hard)          | High      | Fine chips + dust        | High            | Work-hardens; use low speed and coolant |
+| Material        | Relative Cutting Ease | Tool Wear  | Dust / Chips Produced | Heat Generation | Notes                                   |
+| --------------- | --------------------- | ---------- | --------------------- | --------------- | --------------------------------------- |
+| Aluminum alloy  | ⭐⭐⭐⭐⭐ (Very easy)     | Low        | Chips (few fine dust) | Low–Medium      | Soft; can clog blades at high RPM       |
+| Brass (黄铜)    | ⭐⭐⭐⭐☆ (Easy)          | Low–Medium | Clean chips           | Medium          | Free-cutting; stable                    |
+| Copper (紫铜)   | ⭐⭐⭐☆☆ (Medium)        | Medium     | Long, sticky chips    | Medium–High     | Ductile; tends to smear                 |
+| Stainless steel | ⭐⭐☆☆☆ (Hard)          | High       | Fine chips + dust     | High            | Work-hardens; use low speed and coolant |
 
 Notes
 - Match blade type and speed to material.
