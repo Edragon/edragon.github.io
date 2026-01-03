@@ -2,6 +2,7 @@
 
 # switching-dat
 
+- [[switch-dat]]
 
 [[ACDC-dat]] + [[speed-controller-dat]] + [[dc-gear-motor-dat]]
 
@@ -9,6 +10,29 @@
 ![](2025-06-02-22-59-30.png)
 
 - [[mosfet-dat]]
+
+
+
+
+## chip switch 
+
+- [[PE4259-dat]] - [[UPG2179-dat]]
+
+![](2025-08-19-16-58-06.png)
+
+
+
+## switching ICs 
+
+MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
+
+- [[analog-device-dat]]
+
+- [[ti-dat]]
+
+
+
+
 
 
 - switching chips: 

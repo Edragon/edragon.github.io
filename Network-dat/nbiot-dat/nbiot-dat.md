@@ -18,9 +18,9 @@
 
 
 
-[[SIM7020-dat]]
+[[SIM7020-dat]] - [[SIM7028-dat]]
 
-- [[NGS1096-dat]]
+- [[NGS1096-dat]] - [[NGS1095-dat]] - [[NGS1135-dat]]
 
 [[SIM7080-dat]]
 
@@ -32,6 +32,10 @@
 
 
 legacy wiki page - https://w.electrodragon.com/w/Category:NBIOT
+
+
+
+
 
 ## ref 
 

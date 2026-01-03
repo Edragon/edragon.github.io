@@ -1,5 +1,5 @@
 
-# NGS1095 Dat 
+# NGS1095-Dat 
 
 * Pin pitch 2.0 mm 
 
@@ -7,11 +7,19 @@
 ![](55-39-13-18-07-2023.png)
 
 - Power VIN input = option 231 @ [[LDO-dat]]
+- min. input voltage 4.3V, 1V higher than the module usage voltage 3.3V
+
+- [[NBIOT-dat]]
+
+[[SIM7020-dat]] - [[SIM7028-dat]]
+
+- [[NGS1096-dat]] - [[NGS1095-dat]] - [[NGS1135-dat]]
 
 
 ## pin definitions 
 
 Pin Definitions R2:
+
 
 
 | Left | note left                     | Right | note right      |
@@ -77,3 +85,5 @@ Compare the version back to 2021, on the image below "new" is actually the old o
 - [[low-power-dat]] - [[LDO-dat]]
 
 - [[SIM7020]]
+
+- [[microne]]

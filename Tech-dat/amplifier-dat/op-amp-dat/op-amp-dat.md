@@ -18,7 +18,9 @@
 - class AB amplifier
 
 
+## unsort 
 
+- [[LM358-dat]] - LM158
 
 ## ref 
 

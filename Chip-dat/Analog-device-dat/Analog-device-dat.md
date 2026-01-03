@@ -97,6 +97,19 @@ MAX96717 - CSI-2 to GMSL2 Serializer
 
 - [[CSI-dat]]
 
+
+[ltm4691 == Low VIN, High Efficiency, Dual 2A Step-Down DC/DC µModule Regulator ](https://www.analog.com/media/en/technical-documentation/data-sheets/ltm4691.pdf)
+
+- [LTM4702IY#PBF - 16VIN, 8A Ultralow Noise Silent Switcher 3 µModule Regulator](https://www.analog.com/media/en/technical-documentation/data-sheets/ltm4702.pdf)
+
+The LTM®4702 is a complete 8A step-down Silent Switcher® 3 µModule® regulator in a tiny 6.25mm × 6.25mm × 5.07mm BGA package. Included in the package are the switching controller, the power MOSFETs, an inductor, and support components. Operating over an input voltage range of 3V to 16V, the LTM4702 supports an output range of 0.3V to 5.7V. A single resistor sets the output voltage, providing unity gain operation over the output range and resulting in virtually constant output noise independent of the output voltage. Only bulk input and output capacitors are needed to finish the design. 
+
+	
+LTM4707IY - 18VIN, 16A SILENT SWITCHER REGUL
+
+
+
+
 ## LDO 
 
 LT3042 - 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator

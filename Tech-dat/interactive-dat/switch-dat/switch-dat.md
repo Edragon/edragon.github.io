@@ -66,25 +66,6 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 ### SPDT
 
-## chip switch 
-
-- [[PE4259-dat]] - [[UPG2179-dat]]
-
-![switch-spst-button-push-dat/2025-11-29-20-11-07.png](switch-spst-button-push-dat/2025-11-29-20-11-07.png)
-
-![](2025-08-19-16-58-06.png)
-
-
-
-## switching ICs 
-
-MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
-
-- [[analog-device-dat]]
-
-- [[ti-dat]]
-
-
 
 ## power switch 
 
@@ -93,7 +74,9 @@ MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
 AP22652/AP22653/AP22652A/AP22653A - PRECISION ADJUSTABLE CURRENT-LIMITED POWER SWITCHES
 
 
+## toggle switch 
 
+633-M2012LL1W01-C - M2012LL1W01-C - Toggle Switches ON-ON LOCKING LEVER 1/4" BUSHNG RED CAP
 
 
 

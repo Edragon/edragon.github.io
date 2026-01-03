@@ -2,6 +2,14 @@
 
 # Board Info 
 
+
+[[SIM7020-dat]] - [[SIM7028-dat]]
+
+- [[NGS1096-dat]] - [[NGS1095-dat]] - [[NGS1135-dat]]
+
+
+
+
 ### Pin Definitions 
 
 BOOT 3V3 GND PIN RXD TXD
