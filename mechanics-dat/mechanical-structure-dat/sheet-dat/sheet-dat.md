@@ -1,17 +1,14 @@
 # sheet-dat
 
-== [[fab-sheet-metal-dat]] - [[fab-dat]]
+[[sheet-metal-dat]] == [[fab-sheet-metal-dat]] - [[fab-dat]]
 
+- [[sheet-wood-dat]] 
 
-## sheet materials 
+- [[sheet-cardboard-dat]]
 
-- [[materials-dat]] - [[foam-dat]]
+- [[sheet-plastic-dat]] 
 
-- [[cardboardboard-dat]]
-
-![](2025-12-10-12-53-18.png)
-
-
+- [[sheet-foam-dat]]
 
 
 ## MDF sheet 
@@ -60,3 +57,10 @@ Plexiglas Cover refers to a protective cover made of Plexiglas, a brand name for
 ## ref 
 
 - [[sheet]] - [[mechanics]]
+
+
+## ref 
+
+- [[materials-dat]]
+
+

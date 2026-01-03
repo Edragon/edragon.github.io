@@ -1,7 +1,11 @@
 
 
-# ESP32-C3-WROOM-02 dat
+# ESP32-C3-WROOM-02-dat
 
+2x9 pins 
+
+- GPIO == 13 
+- TXD / RXD
 
 ## Versions
 
