@@ -4,6 +4,7 @@
 
 - [[rivet-dat]] - [[rivet-nut-dat]]
 
+- [[metal-dat]] - [[tube-dat]]
 
 ## common to use sheet metal products 
 
@@ -50,13 +51,10 @@ flange hold line
 
 ![](2026-01-01-01-13-20.png)
 
-
-hem 
-
-![](2026-01-01-01-05-52.png)
+- [[fab-sheet-metal-hem-dat]]
 
 tab 
-
+![fab-sheet-metal-hem-dat/2026-01-01-01-05-52.png](fab-sheet-metal-hem-dat/2026-01-01-01-05-52.png)
 ![](2026-01-01-01-23-07.png)
 
 ![](2026-01-01-01-23-40.png)
