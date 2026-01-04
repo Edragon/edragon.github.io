@@ -7,3 +7,8 @@
 - [[Motor-reduction-Gear]] 
 
 - [[code-dat]]
+
+
+- [[Mechanical-Synchronization-dat]]
+
+- [[belt-dat]]
