@@ -116,6 +116,13 @@ GPIO0 = SDA0, GPIO7 = SCL0
 GPIO15, ROW_E pin, can be set to ground
 
 
+
+## logs 
+
+- R5-2020.02 - Add installations holes, fix E-line
+- R4-2018.09 - Optimized board layout
+- R1-R3 - Initiate
+
 ## ref 
 
 - [[MPC1073-ref-dat]] - [[RMP-driver-dat]]

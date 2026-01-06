@@ -22,6 +22,42 @@ https://forums.autodesk.com/t5/eagle-forum/slotted-pads/td-p/7487203
 
 
 
+## DRC 
+
+### distance 
+
+信号层内的对象（焊盘、SM 以及任何连接到它们的铜箔)与印制板外框之间、钻孔之间的最小距离;
+
+设置 Copper/Dinension 为 0；以禁止该项检查。
+
+
+### sizes 
+
+- Minimun Width - 8mil
+- Minimum Drill - 12mil
+- Min. Micro Via - 9. 99mm
+- Min. Blind Via Ratio - 0.5
+
+Minimun Sizes of objects in signal layers and of drill holes.
+
+
+
+
+### supply thermal isolation 
+
+12 mil 
+
+![](2026-01-06-17-34-51.png)
+
+thermal for vias 
+
+![](2026-01-06-17-33-57.png)
+
+thermal only for holes 
+
+![](2026-01-06-17-34-18.png)
+
+
 ## BOM 
 
 - schematic - export - BOM - by values / csv
@@ -31,3 +67,5 @@ https://forums.autodesk.com/t5/eagle-forum/slotted-pads/td-p/7487203
 ## ref 
 
 - [[eagle-cad]]
+
+- [[MPC1073-dat]]
