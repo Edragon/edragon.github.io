@@ -1,7 +1,7 @@
 
 # OPM1181-dat 
 
-
+read more information at chip page [[CN3768-dat]]
 
 ## Set charged current at 
 
@@ -20,10 +20,12 @@ Notice if you run high charging current, add heat sink on backside would be good
 
 ## ref
 
-- [[consonance-dat]]
+
+
+- [[consonance-dat]] - [[CN3768-dat]]
 
 - [[rechargerable-battery-dat]] - [[battery-dat]]
 
 - [[Lead-Acid-Battery-dat]]
 
-- [[OPM1181]]
+- [[OPM1181]] 

@@ -1,6 +1,11 @@
 
 # CN3768-dat
 
+- [[DSE-CN3768.pdf]]
+
+
+VFLOAT BAT pin , Float Charge mode 13.35      13.55      13.75 V
+
 
 ## Features
 
