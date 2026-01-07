@@ -9,7 +9,11 @@
   
 - [[KF350-dat]]
 
-- [[KF15EDG-dat]] 
+- [[KF15EDG-dat]] - 两边需要预留间隙
+
+
+
+
 
 ## 5.0mm pitch 
 

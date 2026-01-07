@@ -1,6 +1,12 @@
 
 # construction-dat
 
+- [[construction-dat]] - [[rod-wood-dat]] - [[tube-steel-square-dat]]
+
+
+
+
+
 ## II. Basic Capacity of 60mm Steel Pipes (Core Data)
 
 Assuming circular steel pipe Ø60 mm, common wall thicknesses are as follows:

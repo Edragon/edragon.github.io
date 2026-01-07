@@ -9,7 +9,7 @@
 
 - 8mm 
 
-- 6mm - [[3d-printer-dat]]
+- 6mm - [[3d-printer-dat]] use shaft holder == 6.35 with screws 
 
 
 
