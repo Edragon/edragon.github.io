@@ -2,6 +2,10 @@
 # timing-pulley-dat
 
 
+
+- [[pulley-dat]] - [[pulley-drive-dat]] - [[pulley-drive-dat]]
+
+
 | modes          | category | teeth | inner diameter | belt width | note  |
 | :------------- | :------- | :---- | :------------- | :--------- | :---: |
 | GT2_20T_8B_6mm | 2GT      | 20    | 8              | 6         |   -   |
