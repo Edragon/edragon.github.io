@@ -186,7 +186,7 @@
 
 - [[USB-dat]] - [[USB-sys-dat]]
 
-- [[amplifier-dat]] - [[codec-dat]]
+- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]]
 
 
 

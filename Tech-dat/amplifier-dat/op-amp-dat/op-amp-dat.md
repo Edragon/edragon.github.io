@@ -22,6 +22,12 @@
 
 - [[LM358-dat]] - LM158
 
+OPA244
+OPA340
+OPA340
+
+
+
 ## ref 
 
 - [[amplifier-dat]]

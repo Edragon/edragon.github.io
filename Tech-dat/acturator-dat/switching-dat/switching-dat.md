@@ -30,7 +30,7 @@ MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
 
 - [[ti-dat]]
 
-
+ADG636YRUZ
 
 
 
@@ -58,9 +58,6 @@ TPS22916CYFPR == TPS22916xx 1-V–5.5-V, 2-A, 60-mΩ Ultra-Low Leakage Load Swit
 
 
 - [[motor-driver-dat]]
-
-
-## switching ics 
 
 
 
