@@ -10,11 +10,18 @@
 
 ## boards 
 
-- [[NBL1064-dat]] == [Bluetooth IO Control Board EDR 2.0, BLK_IO](https://www.electrodragon.com/product/bluetooth-io-control-board-edr-2-0-blk_io/)
 
 - [[NBL1101-dat]] == [JDY-25M Bluetooth 5.0 BLE5.0 Mesh Networking Module](https://www.electrodragon.com/product/jdy-25m-bluetooth-5-0-ble5-0-mesh-networking-module/)
 
+- [[NBL1100-dat]] == [EDBT6 Bluetooth Data Transmission Module, BLE SPP Dual](https://www.electrodragon.com/product/edbt6-bluetooth-data-transmission-module-ble-spp-dual/)
+
 - [[NBL1107-dat]] == [BLE 5.0 Mesh Sensor Node Mini Board Mesh-Node](https://www.electrodragon.com/product/ble-5-0-mesh-sensor-node-mini-board-mesh-node/)
+
+- high price == [[NBL1064-dat]] == [Bluetooth IO Control Board EDR 2.0, BLK_IO](https://www.electrodragon.com/product/bluetooth-io-control-board-edr-2-0-blk_io/)
+
+
+
+
 
 ## Mode 
 
@@ -31,7 +38,8 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 ### classical bluetooth
 
-board - [[NBL1018-dat]] - [[NBL1057-dat]]
+board - [[NBL1018-dat]] - [[NBL1057-dat]] - [[NBL1064-dat]]
+
 module - [[NBL1012-dat]] - [[NBL1022-dat]] 
 
 demo video 

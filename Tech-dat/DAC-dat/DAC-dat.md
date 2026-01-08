@@ -6,6 +6,20 @@
 - [[TI-DAC-dat]] - [[TI-dat]] - [[TI-signal-dat]]
 
 
+
+
+
+
+## unsort 
+
+The AD9736, AD9735, and AD9734 are high performance, high frequency DACs that provide sample rates of up to 1200 MSPS, permitting multicarrier generation up to their Nyquist frequency. 
+
+AD9734/AD9735/AD9736 - 10-/12-/14-Bit, 1200 MSPS DACS
+
+AD9772AASTZ
+
+
+
 ## ref 
 
 - [[ADC-dat]] - [[audio-dat]]

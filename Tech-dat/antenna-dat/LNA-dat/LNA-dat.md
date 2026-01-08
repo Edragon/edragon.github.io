@@ -36,6 +36,13 @@ Weak incoming signals need to be amplified early in the signal chain. A low-nois
 - Radio telescopes  
 - SDR (Software Defined Radio)
 
+
+## unsort 
+
+HMC564LC4 - IC GAAS LNA 7-14GHz
+
+
+
 ## ref 
 
 - [[antenna-dat]]

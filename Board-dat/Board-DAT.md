@@ -424,7 +424,7 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 - [[NWI1223-dat]] - [[NWI1226-dat]] - [[NWI1235-DAT]] - [[NWI1243-dat]] 
 
 ESP32-APP
-- [[NWI1241-dat]] - [[NWI1245-DAT]] - [[NWI1252-dat]] 
+- [[NWI1241-dat]] - [[NWI1245-DAT]] - [[NWI1252-dat]] - [[NWI1254-dat]]
 
 other 
 
