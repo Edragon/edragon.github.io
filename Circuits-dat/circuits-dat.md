@@ -1,6 +1,7 @@
 
 # circuits-dat 
 
+- [[interface-dat]] - [[power-dat]]
 
 - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[logic-level-shifter-dat]] - [[multiplexer-dat]]
 
@@ -49,6 +50,13 @@
 
 - [[Multiplexer-dat]]
 
+- [[switching-dat]]
+
+- [[amplifier-dat]] 
+
+- [[LNA-dat]]
+
+- [[digital-dat]]
 
 
 ## repo 

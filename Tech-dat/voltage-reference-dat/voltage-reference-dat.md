@@ -34,11 +34,6 @@ for ADC-AVDD
 
 
 
-## more 
-
-- Voltage References | LM336Z25 - 2.49 V, 2% Programmable Shunt Regulator
-
-
 
 ## voltage reference 
 
@@ -58,6 +53,13 @@ for ADC-AVDD
 | Extra functions          | None                      | Watchdog, manual reset, sequencing |
 | Affects system start-up? | No                        | Yes                                |
 
+
+
+## more 
+
+- Voltage References | LM336Z25 - 2.49 V, 2% Programmable Shunt Regulator
+
+ADM708SARZ
 
 
 
