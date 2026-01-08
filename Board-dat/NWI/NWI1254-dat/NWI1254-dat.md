@@ -3,6 +3,8 @@
 
 - this is a succsessor of [[NWI1252-dat]], further add [[RS232-dat]] interface
 
+- [[RS485-dat]]
+
 ## Info
 
 product url - [[NWI1252-dat]]
@@ -11,7 +13,9 @@ product url - [[NWI1252-dat]]
 
 - [[resistor-feedback-dat]]
 
+main controller part SCH 
 
+![](2026-01-08-16-01-20.png)
 
 ## Applications, category, tags, etc. 
 

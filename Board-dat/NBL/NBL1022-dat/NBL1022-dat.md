@@ -22,3 +22,5 @@ For board setup please read [[NBL1057-dat]]
 - based on module - [[NBL1018-dat]] - [[NBL1022-dat]] - [[NBL1057-dat]]
 
 - [[NBL1022]]
+
+- [[bluetooth-dat]]
