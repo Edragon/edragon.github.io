@@ -17,6 +17,35 @@ product url - [[NWI1252-dat]]
 - set red and yellow jumpers for [[RS485-dat]]
 - set blue jumpers for [[RS232-dat]]
 
+
+red box 
+- data communication LED indicator 
+- spare pins 
+  - IO6 IO7 IO8 
+  - ADC IO2 D+ TXD 3V3
+  - IO1 IO3 D- RXD GND
+- EN button and flash button = IO10
+- power LED
+- flash button programmable LED = IO9
+
+yello box
+- Power input 
+
+Green Box 
+- USB A native USB
+- micro USB native USB, same
+
+Blue box 
+- jumper, RS232 / RS485 output selector 
+- GND / +5V 
+- DB9 connector, includes a jumper selector for pin2 
+- cable terminal output RS232 / RS485, 
+
+
+
+
+
+
 - [[DB9-dat]] 
 
 - [[dcdc-down-dat]] == 3A, Wide Input Range, Step-Down Converter 
