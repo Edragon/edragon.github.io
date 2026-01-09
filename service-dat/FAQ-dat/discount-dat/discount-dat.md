@@ -1,6 +1,8 @@
 
 # discount-dat
 
+- [[discount-dat]] - [[board-stock-out]] - [[board-discount]] - [[drop-orders-dat]]
+
 ## Discount 
 
 Our profit margin is normally at 30% for all products. 
@@ -44,3 +46,5 @@ Thank you.
 ## ref 
 
 - [[contact-dat]]
+
+- [[cooperation]]

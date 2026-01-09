@@ -1,9 +1,9 @@
 
 # buzzer-dat
 
+- [[wave-dat]]
 
-active buzzer 
-- [[SSL1019-dat]]
+active buzzer - [[SSL1019-dat]]
 
 passive buzzer 
 - [[SSL1011-dat]] - [[SSL1012-dat]]
@@ -59,6 +59,11 @@ A passive buzzer requires an external oscillating signal to produce sound. It of
 simple drive 
 
 ![](2025-08-21-18-53-59.png)
+
+
+
+
+
 
 ## Related Links
 - [[SSL1019-dat]]

@@ -29,8 +29,8 @@
 | 2   | antenna 2                                                                | **MUST CONNECT**     |
 | 3   | high-level election serial port, low-level selection of [[Wiegand-dat]], | **THIS MUST SELECT** |
 | 4   | buzzer output, no card low, a card output 2.7k square wave               |                      |
-| 5   | Serial TX output or Wigan 26 data D1                                     | data out             |
-| 6   | Wigan 26 data D0                                                         |                      |
+| 5   | Serial TX output or [[Wiegand-26-dat]] data D1                                     | data out             |
+| 6   | [[Wiegand-26-dat]] data D0                                                         |                      |
 | 7   | reset terminal, active low to repeat reading                             |                      |
 | 8   | ground                                                                   | **MUST CONNECT**     |
 | 9   | power supply = 3.3V-6V                                                   | **MUST CONNECT**     |
@@ -42,6 +42,8 @@
 - pin 8/9 power supply 
 
 also support [[Wiegand-26-dat]] by set pin 3 
+
+support [[buzzer-dat]] and LED indicator on pin 4
 
 ## read info 
 
