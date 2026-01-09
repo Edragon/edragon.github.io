@@ -34,6 +34,10 @@ Here's a breakdown:
 In essence, a TXCO is a crystal oscillator with extra circuitry to keep its output frequency stable over a range of temperatures. This makes it more accurate than a standard crystal oscillator when temperature variations are a concern.
 
 
+## maker 
+
+- [[SITIME-dat]] - [[vectron-dat]]
+
 
 ## ref 
 

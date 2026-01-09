@@ -98,6 +98,12 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 - [[resistor-feedback-dat]]
 
 
+## mutiple output 
+
+- [[Infineon-dat]] - multi-phase buck controller
+
+
+
 ## TP5450 plus MCP4017 
 
 - [[MCP4017-dat]] - [[digital-pot-dat]]
@@ -151,6 +157,9 @@ The MGDM-25 series is a full family of high performance DC/DC power modules desi
 ## sealed prebuild module 
 
 - [[traco-power-dat]]
+
+
+
 
 
 ## ref 
