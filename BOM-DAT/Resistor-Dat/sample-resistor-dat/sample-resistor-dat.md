@@ -34,6 +34,6 @@ R0003 = 0.3 mR
 
 ## ref 
 
-- [[resistor-dat]] - [[sample-resistor]] - [[resistor]]
+- [[resistor-dat]] - [[resistor-sample]] - [[resistor]]
 
 -

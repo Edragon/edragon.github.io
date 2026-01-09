@@ -11,6 +11,11 @@ read more information at chip page [[CN3768-dat]]
 
 Notice if you run high charging current, add heat sink on backside would be good.
 
+- fully charged voltage at around 13.55V
+- over-charged voltage at around 14.8V
+
+Please note it may take a long time to fully charge a battery.
+
 ## Dimension 
 
 ![](2023-10-25-14-57-35.png)
@@ -28,4 +33,4 @@ Notice if you run high charging current, add heat sink on backside would be good
 
 - [[Lead-Acid-Battery-dat]]
 
-- [[OPM1181]] 
+- [[OPM1181]] - [[CN3768]]
