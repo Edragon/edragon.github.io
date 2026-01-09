@@ -24,6 +24,13 @@ readers [[USB-dat]] based - [[NID1024-dat]]
 
 
 
+## interface types 
+
+- [[EM4100]] - [[TK4100]] - [[4001]]
+
+- [[EM4305]]
+
+
 
 ## ref 
 

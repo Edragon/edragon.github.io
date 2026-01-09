@@ -10,25 +10,30 @@
 
 
 
-## Notice:
+## Notice about the distance:
 
 **Notice demo video shows the BEST ideal setup**, different setup can not get the same good result. Read more details in our wiki instructions.
 
-**Please ONLY use with high quality cards**, if you use other cards, it may not work as expected distance.
+- **Please ONLY use with high quality cards**, if you use other cards, it may not work as expected distance.
+- only large and high quality card, not key fab tag (10~20CM), can get the best distance.
+- MUST use pure power supply, preferrable battery, or linear regulator output (not DCDC), to avoid interferences.  
+
+
+
 
 ## pin definitions 
 
-| pin | name                                                           | note                 |
-| --- | -------------------------------------------------------------- | -------------------- |
-| 1   | antenna 1                                                      | **MUST CONNECT**     |
-| 2   | antenna 2                                                      | **MUST CONNECT**     |
-| 3   | high-level election serial port, low-level selection of Wigan, | **THIS MUST SELECT** |
-| 4   | buzzer output, no card low, a card output 2.7k square wave     |                      |
-| 5   | Serial TX output or Wigan 26 data D1                           | data out             |
-| 6   | Wigan 26 data D0                                               |                      |
-| 7   | reset terminal, active low to repeat reading                   |                      |
-| 8   | ground                                                         | **MUST CONNECT**     |
-| 9   | power supply                                                   | **MUST CONNECT**     |
+| pin | name                                                                     | note                 |
+| --- | ------------------------------------------------------------------------ | -------------------- |
+| 1   | antenna 1                                                                | **MUST CONNECT**     |
+| 2   | antenna 2                                                                | **MUST CONNECT**     |
+| 3   | high-level election serial port, low-level selection of [[Wiegand-dat]], | **THIS MUST SELECT** |
+| 4   | buzzer output, no card low, a card output 2.7k square wave               |                      |
+| 5   | Serial TX output or Wigan 26 data D1                                     | data out             |
+| 6   | Wigan 26 data D0                                                         |                      |
+| 7   | reset terminal, active low to repeat reading                             |                      |
+| 8   | ground                                                                   | **MUST CONNECT**     |
+| 9   | power supply = 3.3V-6V                                                   | **MUST CONNECT**     |
 
 
 - pin 1/2 antenna 
@@ -36,7 +41,7 @@
 - pin 5 tx output data
 - pin 8/9 power supply 
 
-
+also support [[Wiegand-26-dat]] by set pin 3 
 
 ## read info 
 
@@ -69,6 +74,7 @@
 - https://w.electrodragon.com/w/Category:EL125
 - or Arduino demo code here: https://github.com/Edragon/arduino-main2/tree/main/0-BSP/NID/NID1020-EL-125
 
+- [[atmega-serial-dat.c]]
 
 ## demo video 
 

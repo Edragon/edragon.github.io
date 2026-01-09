@@ -1,6 +1,9 @@
 
 # wiegand-dat
 
+- [[wiegand-dat]] [[Wiegand-26-dat]] - [[Wiegand-34-dat]] - [[Wiegand-37-dat]]
+
+
 A **Wiegand device** typically refers to a component in an access control system that uses the **Wiegand interface** to communicate. This interface is a de facto standard for transmitting data from a card reader (like those for ID badges) to an access control panel.
 
 Key characteristics:
