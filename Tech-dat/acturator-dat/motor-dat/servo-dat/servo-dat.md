@@ -7,24 +7,10 @@
 - [[PWM-dat]]
 
 
+- [[servo-connector-dat]]
 
+- [[servo-HDK-dat]] - [[servo-SDK-dat]]
 
-
-
-
-## feature of servos 
-
-- The servo is a device that can control the angle of rotation of the motor shaft. It consists of a DC motor, a gear set, and a position feedback system.
-- The servo can be controlled by a PWM signal, which determines the angle of rotation of the motor shaft.
-- The servo can be used in various applications, such as robotics, RC vehicles, and automation systems.
-- The servo can be classified into different types based on its construction and operation, such as analog servos, digital servos, and continuous rotation servos.
-- The servo can be powered by different voltage levels, typically ranging from 4.8V to 6V for standard servos and up to 7.4V for high-performance servos.
-- The servo can be controlled by different protocols, such as PWM, I2C, and UART, depending on the application and the controller used.
-- The servo can be equipped with different types of gears, such as plastic gears, metal gears, and ceramic gears, depending on the torque and speed requirements of the application.
-- The servo can be used in various configurations, such as standard servos, mini servos, micro servos, and high-torque servos, depending on the size and weight constraints of the application.
-- The servo can be used in different environments, such as indoor, outdoor, and underwater, depending on the sealing and protection features of the servo.
-- The servo can be used in different applications, such as robotics, automation, and control systems, depending on the requirements of the application.
-- The servo can be used in different industries, such as automotive, aerospace, and consumer electronics, depending on the requirements of the application.
 
 
 ## products 
@@ -43,6 +29,20 @@ The MG90S is essentially an enhanced version of the SG90 with metal gears, thoug
 The 90-degree and 180-degree servos have identical physical dimensions and torque specifications, differing only in their maximum rotation angles. The 360-degree servo allows continuous rotation.
 
 The fixed-wing S-version servo (with 25cm wire length) is not the helicopter version. Compared to helicopter servos, it has lower pull strength, performance, and motor lifespan. It's suitable for electric fixed-wing aircraft made of foamboard or foam (recommended) and offers good value for money.
+
+## feature of servos 
+
+- The servo is a device that can control the angle of rotation of the motor shaft. It consists of a DC motor, a gear set, and a position feedback system.
+- The servo can be controlled by a PWM signal, which determines the angle of rotation of the motor shaft.
+- The servo can be used in various applications, such as robotics, RC vehicles, and automation systems.
+- The servo can be classified into different types based on its construction and operation, such as analog servos, digital servos, and continuous rotation servos.
+- The servo can be powered by different voltage levels, typically ranging from 4.8V to 6V for standard servos and up to 7.4V for high-performance servos.
+- The servo can be controlled by different protocols, such as PWM, I2C, and UART, depending on the application and the controller used.
+- The servo can be equipped with different types of gears, such as plastic gears, metal gears, and ceramic gears, depending on the torque and speed requirements of the application.
+- The servo can be used in various configurations, such as standard servos, mini servos, micro servos, and high-torque servos, depending on the size and weight constraints of the application.
+- The servo can be used in different environments, such as indoor, outdoor, and underwater, depending on the sealing and protection features of the servo.
+- The servo can be used in different applications, such as robotics, automation, and control systems, depending on the requirements of the application.
+- The servo can be used in different industries, such as automotive, aerospace, and consumer electronics, depending on the requirements of the application.
 
 
 ## test note
@@ -192,6 +192,14 @@ lock and unlock system
 
 ![](2025-12-06-14-23-10.png)
 
+
+to linear output 
+
+![](2026-01-09-21-11-41.png)
+
+connector to a [[crank-dat]]
+
+![](2026-01-09-21-12-45.png)
 
 ## high torque servo 
 
