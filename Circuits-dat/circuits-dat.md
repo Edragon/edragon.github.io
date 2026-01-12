@@ -52,12 +52,13 @@
 
 - [[switching-dat]]
 
-- [[amplifier-dat]] 
+- [[amplifier-dat]] - [[op-amp-dat]]
 
 - [[LNA-dat]]
 
 - [[digital-dat]]
 
+- [[frequency-dat]]
 
 ## repo 
 

@@ -8,6 +8,9 @@ The ADRF5019 is a nonreflective, single pole, double throw (SPDT) RF switch manu
 The ADRF5019 operates from 100 MHz to 13 GHz with better than 0.8 dB insertion loss and 45 dB of isolation at 8 GHz. The ADRF5019 has a nonreflective design, and the RF ports are internally terminated to 50 Ω.
 
 
+HMC241AQS16 - RF Switch ICs GaAs MMIC SP4T Non-Reflective Switch, DC - 3.5 GHz
+
+
 
 ## ref 
 

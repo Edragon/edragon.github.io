@@ -35,7 +35,7 @@ AD8313 ARMZ - 0.1 GHz to 2.5 GHz 70 dB Logarithmic Detector/Controller
 
 ADL8150ACPZN - 	IC AMPLIFIER 6-14GHz 6LFCSP
 
-
+OP27 - Low Noise, Precision Operational Amplifier
 
 ## ref 
 

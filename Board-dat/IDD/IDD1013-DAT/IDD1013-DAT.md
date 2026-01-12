@@ -1,5 +1,5 @@
 
-# IDD1013 DAT
+# IDD1013-DAT
 
 
 ## info 
@@ -30,7 +30,9 @@ Old V1 version:
 - Please notice for devkitc, CLK = IO16, D = IO17
 - Please notice for PCIO, CLK = 32, D = 33
 
+jumper set on the diode 
 
+![](2026-01-12-15-07-47.png)
 
 
 ### DEVKITC Board pin definitions 

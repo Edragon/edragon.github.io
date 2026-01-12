@@ -1,6 +1,8 @@
 
 # frequency-dat
 
+- [[PPL-dat]] - [[PLL-dat]]
+
 China has several ISM (Industrial, Scientific, and Medical) bands available for low-power, short-range devices. The primary bands are:
 
 - 470-510 MHz: This is the main band designated for LoRaWAN and other LPWAN technologies in China.
@@ -61,6 +63,26 @@ Used for inventory, supply chain, smart fitting rooms, etc.
 Most clothing stores use:
 - **EAS RF (8.2 MHz)** for anti-theft
 - **UHF RFID (860–960 MHz)** for inventory tracking
+
+
+
+
+## frequency operator 
+
+HMC189AMS8E - Signal Conditioning Passive SMT Freq. Doubler, 2 - 4 GHz
+
+HMC443LP4 / 443LP4E - The HMC443LP4 & HMC443LP4E are active miniature x4 frequency multipliers utilizing InGaP GaAs HBT technology in 4x4 mm leadless surface mount packages.
+
+## PLL Frequency Synthesizer
+
+AD4106 
+
+
+## frequency multipiler 
+
+HMC443LP4 / 443LP4E - SMT GaAs HBT MMIC x4 ACTIVE FREQUENCY MULTIPLIER, 9.8 - 11.2 GHz OUTPUT 
+
+
 
 
 ## ref 

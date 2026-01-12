@@ -33,7 +33,7 @@
 
 - [[constant-current-dat]]
 
-- [[power-detector-dat]]
+- [[power-detector-dat]] - [[power-amplifier-dat]]
 
 ## power design workflow
 

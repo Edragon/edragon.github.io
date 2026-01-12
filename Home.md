@@ -17,7 +17,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[cable-dat]]
+- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[cable-dat]] - [[circuits-dat]]
 
 - [[power-dat]] - [[battery-dat]] - [[BMS-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]]
 

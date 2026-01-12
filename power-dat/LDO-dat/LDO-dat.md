@@ -96,6 +96,8 @@ SOT23-5
 ![](2025-08-09-17-21-03.png)
 
 
+HMC860LP3E - QUAD LOW NOISE HIGH PSRR LINEAR VOLTAGE REGULATOR
+
 ## others 
 
 
@@ -124,6 +126,9 @@ LM109,LM309 == LM109/LM309 5-Volt Regulator
 ## negative output 
 
 MAX1735 - 200mA, Negative-Output, Low-Dropout Linear Regulator in SOT23
+
+
+
 
 ## maker 
 

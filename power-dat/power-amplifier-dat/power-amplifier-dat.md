@@ -1,0 +1,4 @@
+
+# power-amplifier-dat
+
+MC441LP3 / 441LP3E - GaAs pHEMT MMIC MEDIUM POWER AMPLIFIER, 6.5 - 13.5 GHz
