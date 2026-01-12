@@ -7,6 +7,12 @@
 - [[metal-dat]] - [[tube-dat]]
 
 
+## molds need process methods 
+
+- [[fab-sheet-metal-hem-dat]] 
+
+![](2026-01-12-19-37-21.png)
+
 
 
 ## common to use sheet metal products 
@@ -57,7 +63,7 @@ flange hold line
 - [[fab-sheet-metal-hem-dat]]
 
 tab 
-![fab-sheet-metal-hem-dat/2026-01-01-01-05-52.png](fab-sheet-metal-hem-dat/2026-01-01-01-05-52.png)
+
 ![](2026-01-01-01-23-07.png)
 
 ![](2026-01-01-01-23-40.png)
