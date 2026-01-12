@@ -21,6 +21,8 @@
 
 - schematic see here: [[ESP32-S3-Board-DAT]]
 
+
+
 resources 
 
 - [[WS2812-dat]] - GPIO48 
@@ -35,3 +37,6 @@ resources
 - [[ESP32-S3-dat]] - [[NWI1243]]
 
 - [[kicad-sch-dat]]
+
+
+
