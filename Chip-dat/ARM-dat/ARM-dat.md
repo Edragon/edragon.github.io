@@ -1,16 +1,33 @@
 
-## ARM 
+## ARM-dat
 
-- [[ARM1007-dat]]
+
+
+
+
+- [[HDSC-dat]] - [[ARM1007-dat]]
+
+- [[SAMD21-dat]]
+
+- [[STM32-dat]]
+
+- [[NRF5x-dat]] - [[NRF52840-dat]] - [[NRF52832-dat]]
+
+
 
 ## programmer 
 
 - [[jlink-dat]] - [[st-link-dat]] - [[dap-link-dat]] - [[CMSIS-DAP-dat]]
 
+- [[DPR1100-dat]]
+
+
 
 ## protocol / interface 
 
 - [[JTAG-dat]] - [[SWD-dat]]
+  
+- [[EDBG-dat]]
 
 
 

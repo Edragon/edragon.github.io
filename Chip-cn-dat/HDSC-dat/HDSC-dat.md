@@ -1,6 +1,9 @@
 
 # HDSC-dat
 
+
+- [[ARM-dat]]
+
 ## board 
 
 - [[ARM1007-dat]] - [[MDK-ARM-dat]]
@@ -20,3 +23,6 @@
 - https://github.com/Edragon/MCU-HDSC-SDK
 - https://github.com/Edragon/MCU-HDSC
 - https://github.com/Edragon/HDSC-APP
+
+
+

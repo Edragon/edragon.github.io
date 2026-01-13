@@ -11,11 +11,17 @@ matching [[SDK-dat]] - [[MDK-ARM-dat]]
 
 - [[USB-STM32-dat]]
 
+
+
+
 ## target board 
 
-- [[NRF51822-dat]] 
+- [[NRF51822-dat]] - [[nordic-dat]]
 
 - [[STM32-dat]]
+
+
+
 
 ## Wiring 
 

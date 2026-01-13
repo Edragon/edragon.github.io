@@ -12,3 +12,8 @@ Software Setup
 - Programmer: Atmel EDBG
 - Board: Arduino Zero (Programming Port)
 
+
+
+## ref 
+
+- [[SAMD21-dat]]
