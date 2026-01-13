@@ -74,7 +74,7 @@ h2 { text-align:center; color:#333; }
   <div class="servo-panel">
     <div style="align-self:center;font-weight:bold">Servo14:</div>
     <button class="sml-btn s90-btn" onclick="sendCmd('s90')">90°</button>
-    <button class="sml-btn s180-btn" onclick="sendCmd('s180')">180°</button>
+    <button class="sml-btn s180-btn" onclick="sendCmd('s-90')">-90°</button>
   </div>
   <div class="relay-panel">
     <div class="relay-item"><div style="font-weight:bold">Relay1:</div><button class="relay-btn on-btn" onclick="sendCmd('r1_on')">ON</button><button class="relay-btn off-btn" onclick="sendCmd('r1_off')">OFF</button></div>
@@ -99,7 +99,7 @@ void handleRoot() {
 }
 
 void handleControl() {
-  // Simple command-based control: cmd=fw|rv|st|s90|s180|rX_on|rX_off
+  // Simple command-based control: cmd=fw|rv|st|s90|s-90|rX_on|rX_off
   if (server.hasArg("cmd")) {
     String c = server.arg("cmd");
     if (c == "fw") {
@@ -121,10 +121,10 @@ void handleControl() {
       // Servo4 to 90 degrees
       servo4.write(90);
       Serial.println("Servo14: 90°");
-    } else if (c == "s180") {
-      // Servo4 to 180 degrees
-      servo4.write(180);
-      Serial.println("Servo14: 180°");
+    } else if (c == "s-90") {
+      // Servo4 to -90 degrees
+      servo4.write(-90);
+      Serial.println("Servo14: -90°");
     } else if (c == "r1_on") {
       digitalWrite(RELAY1_PIN, HIGH);
       Serial.println("Relay1: ON");
