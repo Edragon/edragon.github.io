@@ -34,20 +34,23 @@ MG995 / MG996R are metal-gear servos with high torque suitable for RC cars, boat
 
 ### Specifications
 
-| Item | Specification |
-|---|---|
-| Model | MG995 / MG996R |
-| Gear material | Metal (copper) gears |
-| Cable length | 30 cm (Signal = yellow, V+ = red, GND = brown) |
-| Dimensions (L×W×H) | 40.7 × 19.7 × 42.9 mm |
-| Weight | 66.2 g |
-| No-load speed | 0.17 s / 60° @ 4.8 V; 0.13 s / 60° @ 6.0 V |
-| Stall torque (working torque) | 13 kg·cm |
-| Deadband | 4 µs |
-| Connector | JR / FUTABA compatible |
-| Operating voltage | 3.0–7.2 V |
-| Operating temperature | -30 to +60 °C |
-| Accessories included | Servo horns, mounting screws, vibration-damping sleeves, aluminum adapter |
+| Item                          | Specification                                                             |
+| ----------------------------- | ------------------------------------------------------------------------- |
+| Model                         | MG995 / MG996R                                                            |
+| Gear material                 | Metal (copper) gears                                                      |
+| Cable length                  | 30 cm (Signal = yellow, V+ = red, GND = brown)                            |
+| Dimensions (L×W×H)            | 40.7 × 19.7 × 42.9 mm                                                     |
+| Weight                        | 66.2 g                                                                    |
+| No-load speed                 | 0.17 s / 60° @ 4.8 V; 0.13 s / 60° @ 6.0 V                                |
+| Stall torque (working torque) | 13 kg·cm                                                                  |
+| Deadband                      | 4 µs                                                                      |
+| Connector                     | JR / FUTABA compatible                                                    |
+| Operating voltage             | 3.0–7.2 V                                                                 |
+| Operating temperature         | -30 to +60 °C                                                             |
+| Accessories included          | Servo horns, mounting screws, vibration-damping sleeves, aluminum adapter |
+
+![](2026-01-13-16-52-23.png)
+
 
 ## Accessories
 

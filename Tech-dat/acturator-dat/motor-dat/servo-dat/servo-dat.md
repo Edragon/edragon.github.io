@@ -78,6 +78,10 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 
 ![](2025-06-15-14-21-31.png)
 
+
+
+
+
 ## code 
 
 ### arduino 
@@ -177,11 +181,28 @@ Fine-tune by sending 1500 µs and adjusting slightly if needed.
 
 ## servo 360 degree 
 
-360度舵机：实际相当于无极变速的减速电机，可以控制速度和方向。没有0-360度角度控制的功能。控制方式和一般舵机的控制信号相同。是瓦力改装的合适动力源
- 
+360° (continuous-rotation) servo
+A 360° servo is effectively a geared DC motor with continuous-variable speed and direction control — it does not provide absolute angle positioning. It uses the same PWM control signal as a regular hobby servo, but the pulse width controls motor speed and direction instead of shaft angle. (Commonly used as a power source for modified robots and drivetrains.)
 
-- 高电平为1毫秒~1.5毫秒时，舵机正转(1毫秒时正转速度最快，越接近1.5毫秒越慢，1.5毫秒时舵机停转)，
-- 高电平为1.5毫秒~2毫秒时舵机反转(1.5毫秒时舵机停转，越接近2毫秒反转的速度越快，2毫秒时以最快的速度反转)
+Control notes
+
+- Typical PWM time base: ~20 ms period (50 Hz). Pulse width (high time) is usually in the ~0.5–2.5 ms range; 1.5 ms is the neutral/stop point for many servos.
+- Behavior for continuous-rotation servos:
+    - Pulse < center (e.g., 0.5 ms → 1.5 ms): forward rotation. The smaller the pulse, the faster the forward speed (0.5 ms → fastest forward).
+    - ~1.5 ms: stop / neutral.
+    - Pulse > center (e.g., 1.5 ms → 2.5 ms): reverse rotation. The larger the pulse, the faster the reverse speed (2.5 ms → fastest reverse).
+- Some servos use narrower ranges (e.g., 1.0–2.0 ms). Always check with a servo-tester or measure the actual response for the specific model.
+
+Example mapping (typical)
+
+- 0.5 ms — fastest forward
+- 1.0 ms — moderate forward
+- 1.5 ms — stop
+- 2.0 ms — moderate reverse
+- 2.5 ms — fastest reverse
+
+Arduino tip: use Servo.writeMicroseconds(x) to send precise pulse widths (e.g., 1000–2000 µs) and calibrate the stop point for your servo.
+
 
 - [[N20-motor-dat]]
 

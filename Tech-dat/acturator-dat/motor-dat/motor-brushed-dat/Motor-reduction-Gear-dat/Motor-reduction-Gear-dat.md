@@ -5,7 +5,7 @@
   
 - [[Motor-reduction-Gear]]
 
-
+- [[stepper-dat]]
 
 ## planetary gear motor
 
@@ -39,9 +39,9 @@
 - high torque / low RPM motores 
 
 
-- [[N20-motor-dat]] 
+- [[N20-motor-dat]] based on [[motor-130-dat]]
 
-- [[motor-TT-dat]]
+- [[motor-TT-dat]] based on [[motor-130-dat]]
 
 - [[MG513-dat]] - [[MG540-dat]] - [[MG545-dat]]
 
