@@ -3,9 +3,14 @@
 
 
 
-- [[InvenSense-dat]]
+- [[InvenSense-dat]] - [[MPU6050-dat]]
+
+
 
 - [[st-sensor-dat]]
+
+
+
 
 ## ref 
 
