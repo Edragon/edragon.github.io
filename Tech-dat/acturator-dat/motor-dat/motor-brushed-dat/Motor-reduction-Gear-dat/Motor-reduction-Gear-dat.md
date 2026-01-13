@@ -34,19 +34,22 @@
 - [[TB6612-dat]] - [[L298-dat]]
 
 
-# reduction-gear-motor-dat
+# motor-reduction-gear-dat
 
 - high torque / low RPM motores 
 
 
+- [[N20-motor-dat]] 
 
-- [[N20-motor-dat]] - [[MG513-dat]] - [[MG540-dat]] - [[MG545-dat]]
+- [[motor-TT-dat]]
+
+- [[MG513-dat]] - [[MG540-dat]] - [[MG545-dat]]
 
 - [[torque-dat]]
 
 - [[encoder-dat]]
 
-- [[TT-motor-dat]]
+
 
 - [[32GP-31ZY-dat]]
 
