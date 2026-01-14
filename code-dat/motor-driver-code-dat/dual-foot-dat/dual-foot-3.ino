@@ -1,5 +1,7 @@
 // add IO35 == LED, IO48 == WS2812 to code, and apply functions: LED for motors, IO48 for servos 
 
+// for my servo, 90 degree is stop, 180 degree and 0 degree are two directions, set servo default output pwm at 90 degree for stop
+
 #include <WiFi.h>
 #include <WebServer.h>
 #include <ESP32Servo.h>
@@ -29,8 +31,8 @@ const int RELAY2_PIN = 6;
 const int RELAY3_PIN = 19;
 const int RELAY4_PIN = 20;
 
-// New: motor status input (IO35 is input-only on many ESP32 boards)
-const int MOTOR_STATUS_PIN = 35; // read-only, used to observe motor/driver state
+// LED pin for motor status (active LOW - on when LOW)
+const int MOTOR_STATUS_PIN = 35; // IO35 LED output
 
 // New: WS2812 (NeoPixel) for servo status
 const int WS2812_PIN = 48; // user requested IO48
@@ -119,23 +121,22 @@ void handleControl() {
       digitalWrite(IN1_PIN, HIGH);
       digitalWrite(IN2_PIN, LOW);
       Serial.println("Motor: Forward");
-      // read motor status input and log
-      int mstat = digitalRead(MOTOR_STATUS_PIN);
-      Serial.print("MOTOR_STATUS (IO35): "); Serial.println(mstat==HIGH?"HIGH":"LOW");
+      // Turn on motor status LED (active LOW)
+      digitalWrite(MOTOR_STATUS_PIN, LOW);
     } else if (c == "rv") {
       // Reverse: IN1=LOW, IN2=HIGH
       digitalWrite(IN1_PIN, LOW);
       digitalWrite(IN2_PIN, HIGH);
       Serial.println("Motor: Reverse");
-      int mstat = digitalRead(MOTOR_STATUS_PIN);
-      Serial.print("MOTOR_STATUS (IO35): "); Serial.println(mstat==HIGH?"HIGH":"LOW");
+      // Turn on motor status LED (active LOW)
+      digitalWrite(MOTOR_STATUS_PIN, LOW);
     } else if (c == "st") {
       // Stop: both LOW
       digitalWrite(IN1_PIN, LOW);
       digitalWrite(IN2_PIN, LOW);
       Serial.println("Motor: Stop");
-      int mstat = digitalRead(MOTOR_STATUS_PIN);
-      Serial.print("MOTOR_STATUS (IO35): "); Serial.println(mstat==HIGH?"HIGH":"LOW");
+      // Turn off motor status LED (active LOW, so HIGH = OFF)
+      digitalWrite(MOTOR_STATUS_PIN, HIGH);
     } else if (c == "s90") {
       // Servo4 to 90 degrees
       servo4.write(90);
@@ -149,7 +150,7 @@ void handleControl() {
       // indicate servo action on WS2812 (purple)
       setServoPixel(150, 0, 150);
     } else if (c == "s0") {
-      // Servo4 to 0 degrees (center/stop)
+      // Servo4 to 0 degrees (direction)
       servo4.write(0);
       Serial.println("Servo14: 0°");
       // turn pixel off
@@ -206,8 +207,8 @@ void setup() {
   pinMode(RELAY3_PIN, OUTPUT);
   pinMode(RELAY4_PIN, OUTPUT);
 
-  // New: motor status pin as input
-  pinMode(MOTOR_STATUS_PIN, INPUT);
+  // Motor status LED pin as output
+  pinMode(MOTOR_STATUS_PIN, OUTPUT);
 
   // New: init NeoPixel for servo status
   pixels.begin();
@@ -220,17 +221,21 @@ void setup() {
   digitalWrite(RELAY2_PIN, LOW);
   digitalWrite(RELAY3_PIN, LOW);
   digitalWrite(RELAY4_PIN, LOW);
+  
+  // Motor status LED OFF (active LOW, so HIGH = OFF)
+  digitalWrite(MOTOR_STATUS_PIN, HIGH);
 
-  // Attach servos and set to center (0°)
+  // Attach servos and set to stop position (90°)
   servo1.attach(SERVO1_PIN);
   servo2.attach(SERVO2_PIN);
   servo3.attach(SERVO3_PIN);
   servo4.attach(SERVO4_PIN);
 
-  servo1.write(0);
-  servo2.write(0);
-  servo3.write(0);
-  servo4.write(0);
+  // Set servos to stop position (90°) by default
+  servo1.write(90);
+  servo2.write(90);
+  servo3.write(90);
+  servo4.write(90);
 
   // 启动为 WiFi AP 模式，使用固定 IP
   
