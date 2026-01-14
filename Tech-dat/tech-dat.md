@@ -99,6 +99,8 @@
 
 - [[SFP-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
 
+- [[frequency-dat]]
+
 ### MCU / CTRL / Processing 
 
 - [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]]

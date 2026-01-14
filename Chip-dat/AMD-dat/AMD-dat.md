@@ -1,6 +1,10 @@
 
 # AMD-dat
 
+
+- [[ZYNQ-dat]]
+
+
 AMD Ryzen Embedded 8000 SoCs 
 
 - up to the 8-core Ryzen Embedded 8845HS SKU with up to 39 TOPS of AI performance, 

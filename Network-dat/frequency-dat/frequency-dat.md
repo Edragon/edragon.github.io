@@ -66,6 +66,12 @@ Most clothing stores use:
 
 
 
+## Synthesizer
+
+ADF4377BCCZ - Microwave Wideband Synthesizer with Integrated VCO
+
+
+
 
 ## frequency operator 
 
