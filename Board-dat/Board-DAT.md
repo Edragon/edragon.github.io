@@ -436,6 +436,7 @@ MT7688
 
 [[LAN8720-dat]] - [[NWI1199-DAT]]
 
+[[ESP32-S3-dat]] - [[NWI1243-dat]]
 
 ### NRF 
 

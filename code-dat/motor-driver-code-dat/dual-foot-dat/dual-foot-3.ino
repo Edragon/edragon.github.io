@@ -1,6 +1,9 @@
+// add IO35 == LED, IO48 == WS2812 to code, and apply functions: LED for motors, IO48 for servos 
+
 #include <WiFi.h>
 #include <WebServer.h>
 #include <ESP32Servo.h>
+#include <Adafruit_NeoPixel.h>
 
 // ===== WiFi 配置 =====
 const char* ssid = "motor_control";
@@ -25,6 +28,14 @@ const int RELAY1_PIN = 5;
 const int RELAY2_PIN = 6;
 const int RELAY3_PIN = 19;
 const int RELAY4_PIN = 20;
+
+// New: motor status input (IO35 is input-only on many ESP32 boards)
+const int MOTOR_STATUS_PIN = 35; // read-only, used to observe motor/driver state
+
+// New: WS2812 (NeoPixel) for servo status
+const int WS2812_PIN = 48; // user requested IO48
+const int NUM_PIXELS = 1;
+Adafruit_NeoPixel pixels(NUM_PIXELS, WS2812_PIN, NEO_GRB + NEO_KHZ800);
 
 // ===== Web Server =====
 WebServer server(80);
@@ -108,28 +119,41 @@ void handleControl() {
       digitalWrite(IN1_PIN, HIGH);
       digitalWrite(IN2_PIN, LOW);
       Serial.println("Motor: Forward");
+      // read motor status input and log
+      int mstat = digitalRead(MOTOR_STATUS_PIN);
+      Serial.print("MOTOR_STATUS (IO35): "); Serial.println(mstat==HIGH?"HIGH":"LOW");
     } else if (c == "rv") {
       // Reverse: IN1=LOW, IN2=HIGH
       digitalWrite(IN1_PIN, LOW);
       digitalWrite(IN2_PIN, HIGH);
       Serial.println("Motor: Reverse");
+      int mstat = digitalRead(MOTOR_STATUS_PIN);
+      Serial.print("MOTOR_STATUS (IO35): "); Serial.println(mstat==HIGH?"HIGH":"LOW");
     } else if (c == "st") {
       // Stop: both LOW
       digitalWrite(IN1_PIN, LOW);
       digitalWrite(IN2_PIN, LOW);
       Serial.println("Motor: Stop");
+      int mstat = digitalRead(MOTOR_STATUS_PIN);
+      Serial.print("MOTOR_STATUS (IO35): "); Serial.println(mstat==HIGH?"HIGH":"LOW");
     } else if (c == "s90") {
       // Servo4 to 90 degrees
       servo4.write(90);
       Serial.println("Servo14: 90°");
+      // indicate servo action on WS2812 (green)
+      setServoPixel(0, 200, 0);
     } else if (c == "s180") {
       // Servo4 to 180 degrees
       servo4.write(180);
       Serial.println("Servo14: 180°");
+      // indicate servo action on WS2812 (purple)
+      setServoPixel(150, 0, 150);
     } else if (c == "s0") {
       // Servo4 to 0 degrees (center/stop)
       servo4.write(0);
       Serial.println("Servo14: 0°");
+      // turn pixel off
+      setServoPixel(0, 0, 0);
     } else if (c == "r1_on") {
       digitalWrite(RELAY1_PIN, HIGH);
       Serial.println("Relay1: ON");
@@ -160,6 +184,12 @@ void handleControl() {
   server.send(200, "text/plain", "OK");
 }
 
+// helper: set single pixel color
+void setServoPixel(uint8_t r, uint8_t g, uint8_t b) {
+  pixels.setPixelColor(0, pixels.Color(r, g, b));
+  pixels.show();
+}
+
 // ===== 初始化 =====
 void setup() {
   Serial.begin(115200);
@@ -175,6 +205,13 @@ void setup() {
   pinMode(RELAY2_PIN, OUTPUT);
   pinMode(RELAY3_PIN, OUTPUT);
   pinMode(RELAY4_PIN, OUTPUT);
+
+  // New: motor status pin as input
+  pinMode(MOTOR_STATUS_PIN, INPUT);
+
+  // New: init NeoPixel for servo status
+  pixels.begin();
+  pixels.show(); // clear
 
   // Default: stop motor and relays OFF (LOW)
   digitalWrite(IN1_PIN, LOW);
