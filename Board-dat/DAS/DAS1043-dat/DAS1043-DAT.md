@@ -22,11 +22,12 @@ External limiter
 
 - D3, D4, #D2, D5: Pin Connector 
 
-Sensor I2C
+Sensor [[I2C-dat]]
 
-- [[MPU-6050-DAT]]
+- [[MPU6050-DAT]] - [[sensor-motion-dat]]
 
-Xbee
+
+[[Xbee-dat]]
 
 - Serial output to Arduino D0, D1 (jumpers)
 
