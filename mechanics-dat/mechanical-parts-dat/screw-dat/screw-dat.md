@@ -6,6 +6,8 @@
 
 - [[screw-large-head-dat]]
 
+- [[screw-uncommon-dat]]
+
 - M3x10
 - M5x10 
 
@@ -204,6 +206,7 @@ Screws can be categorized based on their **drive type**, which refers to the sha
 - **Common Names:** Clutch Head  
 - **Description:** Bowtie-shaped recess used in heavy machinery.  
 - **Usage:** Found in buses, trailers, and some older appliances.  
+
 
 
 
