@@ -3,7 +3,7 @@
 
 - interface [[I2C-dat]] 
 
-- [[sensor-motion-dat]]
+- [[sensor-motion-dat]] - [[6-axis-dat]]
 
 https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/
 
@@ -12,10 +12,21 @@ https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/
 - Gyroscope (GX/GY/GZ) — converted to °/s by: gyro_dps = raw / 131.0
 - Temperature — converted to °C by: T = (raw / 340.0) + 36.53
 
+Plus derived values computed in the code:
+
+Roll and Pitch from accelerometer (tilt relative to gravity).
+
+Notes:
+
+- Raw values are signed 16-bit (two registers per axis).
+- For stable orientation you must fuse accel + gyro (complementary, Madgwick, Kalman) because accel gives inclination (no yaw) and gyro integrates to angle but drifts over time.
+- You can change full-scale ranges (ACCEL_CONFIG / GYRO_CONFIG) — if you do, update the scale factors.
+
+
 
 ## boards 
 
-- [[MPU6050-dat]]
+- [[DAS1043-dat]]
 
 
 

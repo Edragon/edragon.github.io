@@ -49,7 +49,17 @@ DIMENSION:(UNIT:mm)
 ## Applications, category, tags, etc. 
  
 ## Demo Code and Video
- 
+
+
+
+## SCH 
+
+- connect to D6 [[arduino-dat]]
+
+![](2026-01-15-20-53-28.png)
+
+
+
 
 ## ref 
 
