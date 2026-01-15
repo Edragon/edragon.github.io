@@ -43,6 +43,12 @@ Notes:
 
 - [[MPU6050-code-1.ino]]
 
+
+## demo video 
+
+- https://t.me/electrodragon3/428
+
+
 ## ref 
 
 - [[sensor-motion-dat]] - [[invensense-dat]]

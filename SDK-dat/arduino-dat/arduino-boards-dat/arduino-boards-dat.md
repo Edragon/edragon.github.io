@@ -1,9 +1,15 @@
 
 # arduino-boards-dat
 
+legacy wiki page - https://www.electrodragon.com/w/Category:Arduino
+
+
 ## boards 
 
 - [[arduino-uno-dat]] - [[arduino-pro-mini-dat]] - [[arduino-nano-dat]] - [[arduino-leonardo-dat]]
+
+- [[arduino-mega-dat]]
+
 
 - [[arduino-zero-dat]]
 

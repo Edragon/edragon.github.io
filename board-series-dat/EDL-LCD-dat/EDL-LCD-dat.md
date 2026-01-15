@@ -1,5 +1,17 @@
 # EDL-LCD-dat
 
+## board 
+
+- [[arduino-dat]] - [[arduino-mega-dat]]
+
+- [[LCD-dat]]
+
+
+## HDK 
+
+- [[XPT2046-dat]]
+
+
 
 ## Product Overview
 
@@ -59,7 +71,6 @@
 
 ![](2025-08-09-18-29-57.png)
 
-# EDL-LCD Pin Mapping and Description
 
 ## Notes
 
@@ -109,7 +120,7 @@
 
 ![](2023-10-31-22-57-48.png)
 
-## Size
+## Board Size
 
 This series include size:
 
@@ -124,14 +135,7 @@ This series include size:
 
 ## Code
 
-- arduino library - UTFT
-
-- in /08-LCD
-- https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/08-LCD
-- https://github.com/Edragon/Arduino-main/tree/master/Sketchbook/Interactive
-
-
-
+- [[code-LCD-dat]]
 
 ## demo
 
@@ -143,7 +147,7 @@ This series include size:
 
 
 
-## ref
+##[[XPT2046.pdf]]
 
 - [[SSD1963-dat]]
 

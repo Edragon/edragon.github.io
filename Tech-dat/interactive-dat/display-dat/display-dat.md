@@ -94,6 +94,13 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[touchpanel-dat]]
 
+
+## code 
+
+- [[code-interactive-dat]] - [[code-LCD-dat]]
+
+
+
 ## ref 
 
 - [[ascii-dat]]
