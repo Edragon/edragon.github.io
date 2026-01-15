@@ -10,6 +10,11 @@ https://www.electrodragon.com/product/tft01-lcd-tft-display-3-2-65kcolors-320240
 
 main series - [[EDL-LCD-dat]] 
 
+chip - [[SSD1963-dat]] - [[XPT2046-dat]]
+
+shield - [[DAS1030-dat]]
+
+- resolutions 800 x 480
 
 ## appearnace 
 
@@ -32,6 +37,32 @@ main series - [[EDL-LCD-dat]]
 - The pins starting with F_ are flash control pins.
 - The others are TFT control pins,
 - The flash chip is reserved and not soldered on the board. If the buyer needs it, please solder the SPI interface FLASH chip by yourself.
+
+
+| left    | no. | no. | right  |
+| ------- | --- | --- | ------ |
+| GND     | 1   | 21  | DB0    |
+| VCC3.3V | 2   | 22  | DB1    |
+| X       | 3   | 23  | DB2    |
+| RS      | 4   | 24  | DB3    |
+| WR      | 5   | 25  | DB4    |
+| RD      | 6   | 26  | DB5    |
+| DB8     | 7   | 27  | DB6    |
+| DB9     | 8   | 28  | DB7    |
+| DB10    | 9   | 29  | TCLK   |
+| DB11    | 10  | 30  | T_CS   |
+| DB12    | 11  | 31  | TDIN   |
+| DB13    | 12  | 32  | X      |
+| DB14    | 13  | 33  | T_DO   |
+| DB15    | 14  | 34  | TIRQ   |
+| cS      | 15  | 35  | SD DO  |
+| F_CS    | 16  | 36  | SD CLK |
+| REST    | 17  | 37  | SD DIN |
+| X       | 18  | 38  | SD_CS  |
+| LED-A   | 19  | 39  | X      |
+| X       | 20  | 40  | X      |
+
+
 
 
 ## Testing C8051 

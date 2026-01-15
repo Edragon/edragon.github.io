@@ -6,6 +6,7 @@
 
 - [[LCD-dat]]
 
+- [[code-LCD-dat]]
 
 ## HDK 
 
@@ -112,6 +113,10 @@
 | 39  | NC/SDA    | No definition when using resistive touchscreen; acts as I2C data for capacitive              |
 | 40  | NC/SCL    | No definition when using resistive touchscreen; acts as I2C clock for capacitive             |
 
+
+
+
+
 ## Pin Usage Reference
 
 
@@ -119,6 +124,10 @@
 ![](2023-10-31-22-56-47.png)
 
 ![](2023-10-31-22-57-48.png)
+
+
+
+
 
 ## Board Size
 
