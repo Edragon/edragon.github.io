@@ -151,6 +151,8 @@ This series include size:
 - touch screen - https://www.youtube.com/watch?v=iyxXIpoznUA
 - https://www.youtube.com/watch?v=7wr8uLYX0T0
 
+- https://t.me/electrodragon3/429
+
 
 ## repo 
 

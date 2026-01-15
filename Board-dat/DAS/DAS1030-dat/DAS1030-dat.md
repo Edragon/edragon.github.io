@@ -5,6 +5,8 @@
 
 - [[arduino-mega-dat]] - [[CODE-LCD-dat]]
 
+- [[EDL-LCD-dat]]
+
 
 - [the legacy wiki page](https://w.electrodragon.com/w/EDL_LCD_HDK#Schematic)
 
