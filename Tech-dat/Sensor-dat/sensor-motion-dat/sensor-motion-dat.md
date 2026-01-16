@@ -5,9 +5,12 @@
  
 - [[6-axis-dat]] - [[bosch-dat]]
 
+- [[9-axis-IMU-dat]]
+
 - [[sensor-hall-dat]]
 
 - [[sensor-gesture-dat]] - [[sensor-touch-dat]] - 
+
 
 ## chips 
 
@@ -22,6 +25,8 @@
 - [[sensor-radar-Millimeter-wave-dat]]
 
 - [[sensor-camera-dat]]
+
+- [[angle-encoder-dat]]
 
 
 ## Sensor Comparison Table
@@ -63,7 +68,9 @@ most simple motion sensor
 
 - [[SMO1040-dat]]
 
+## APP 
 
+- [[motor-driver-dat]]
 
 ## Chip 
 
@@ -108,6 +115,8 @@ Tilt sensors are often used for horizontal measurement in systems. Based on thei
 
 
 ## ref 
+
+- [[sensor-dat]] 
 
 - [[sensor]] - [[motion-sensor]] - [[m]]
 

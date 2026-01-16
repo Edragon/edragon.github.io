@@ -1,11 +1,16 @@
 
 # InvenSense-dat
 
+- [[sensor-motion-dat]] - [[6-axis-dat]]
+
 - [[MPU6500-dat]] - [[MPU6050-dat]]- [[MPU6000-dat]]
 
 - [[INMP441-dat]]
 
 - [[ICS-43434-dat]]
+
+- [[MPU9250-dat]]
+
 
 
 `ICM-20948` == World's Lowest-Power 9‑Axis MEMS MotionTracking® Device

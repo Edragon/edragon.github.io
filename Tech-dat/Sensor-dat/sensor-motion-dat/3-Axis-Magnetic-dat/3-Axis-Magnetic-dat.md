@@ -10,6 +10,8 @@
 - [[I2C-dat]]
 
 
+
+
 ## compass sensor 
 
 A compass sensor, also known as a magnetometer, is an electronic device that measures the direction and strength of magnetic fields.

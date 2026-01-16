@@ -3,7 +3,7 @@
 
 - [[6-axis-dat]] - [[BMI270-dat]]
 
-- [[BME280-dat]] - [[BMP580-dat]] - [[BMP680-dat]] 
+- [[BMP280-dat]] - [[BMP580-dat]] - [[BME580-dat]] - [[BMP180-dat]] - [[bosch-dat]]
 
 - [[sensor-motion-dat]]
 

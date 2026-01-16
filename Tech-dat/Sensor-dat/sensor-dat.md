@@ -32,7 +32,7 @@
 
 - [[sensor-temperature-dat]] - [[thermocouple-dat]] - [[thermostat-dat]] - [[sensor-RTD-dat]]
 
-
+- [[sensor-light-dat]] - [[sensor-UV-light-dat]]
 
 
 

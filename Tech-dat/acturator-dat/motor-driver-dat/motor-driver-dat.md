@@ -13,6 +13,8 @@
 
 - [[BLDC-dat]]
 
+
+
 ## tech 
 
 - [[PWM-chopper-type-motor-driver]] - [[FOC-dat]] - [[CC-CCW-control-dat]]
@@ -25,6 +27,13 @@
 
 - [[motor-driver-code-dat]]
 
+- [[angle-encoder-dat]]
+
+
+
+
+
+
 ## Board 
 
 
@@ -36,13 +45,14 @@
 
 - [[SDR1060-dat]] - [[SDR1076-dat]]
 
+- [[arduino-dat]] based - [[arduino-shields-dat]] - [[DAS1043-dat]]
+
 - high voltage control - [[SDR1109-dat]]
 
 - easy to use - [[TB6612-dat]] - [[SDR1059-dat]] - [[SDR1087-dat]] - [[MPC1114-dat]]
 
 - low voltage and high efficient - [[DRV8833-dat]]
 
-- [[arduino-shields-dat]]
 
 - [[L298-dat]] - [[SDR1093-dat]] - [[SDR1048-dat]]
 
@@ -59,6 +69,9 @@
 - control included board - [[SDR1117-dat]] - [[SDR1064-dat]] 
 
 - [[SAMD21-dat]] - [[SDR1096-dat]]
+
+
+
 
 ## chips 
 
@@ -284,6 +297,9 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 ## Other Tech
 
 - [[FOC-dat]]
+
+
+
 
 ## ref 
 

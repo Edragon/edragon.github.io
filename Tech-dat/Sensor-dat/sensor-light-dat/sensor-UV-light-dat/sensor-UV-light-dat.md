@@ -9,6 +9,11 @@
 
 - [[Si1145-dat]]
 
+- GUVA-S12SD
+
+
+
+
 ## UV light sensor 
 
 - [[STH1024-dat]] - [[STH1023-dat]]

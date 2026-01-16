@@ -33,10 +33,11 @@ wireless measurement
 
 - [[microphone-sensor-dat]] - [[Electret-Condenser-Microphone-dat]]
 
-- [[BMP280-dat]]
+- [[BMP280-dat]] - [[BMP580-dat]] - [[BME580-dat]] - [[BMP180-dat]] - [[bosch-dat]]
 
 - [[DS18B20-dat]]
 
+- [[SHT30-dat]] - [[SHT31-dat]]
 
 
 ## chip brands 
