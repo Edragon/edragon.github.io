@@ -1,8 +1,80 @@
 # STH1029-dat
 
+
+## board 
+
+[Heart Rate Monitor, ECG, Single Lead, AD8232](https://www.electrodragon.com/product/single-lead-heart-rate-monitor-ad8232/)
+
+
+
+
+## info 
+
 - [[AD8232-dat]]
 
 [[sensor-bio-ECG-dat]] - [[sensor-bio-heart-rate-dat]] - [[sensor-bio-dat]]
+
+
+
+![](2026-01-17-14-49-33.png)
+
+FEATURES
+- Small Form Factor (1inch X 1inch)
+- Specially Designed For Microcontrollers
+- Adjustable Gain – Improved Ruggedness
+- New On‐board 3.5mm Cable Port
+- Pins Fit Easily on Standard Breadboards
+
+APPLICATIONS
+- Video games
+- Robots
+- Medical Devices
+- Wearable/Mobile Electronics
+- Powered Exoskeleton suits
+
+What is electromyography?
+
+Measuring muscle activation via electric potential, referred to as electromyography (EMG), has
+traditionally been used for medical research and diagnosis of neuromuscular disorders. However,
+with the advent of ever shrinking yet more powerful microcontrollers and integrated circuits, EMG
+circuits and sensors have found their way into prosthetics, robotics and other control systems.
+
+![](2026-01-17-14-51-12.png)
+
+
+
+1) Connect the power supply (two 9V batteries)
+- a. Connect the positive terminal of the first 9V battery to the +Vs pin on your sensor.
+- b. Connect the negative terminal of the first 9V battery to the positive terminal of the  second 9V battery. Then connect to the GND pin on your sensor.
+- c. Connect the negative terminal of the second 9V battery to the –Vs pin of your sensor.
+
+2) Connect the electrodes
+- a. After determining which muscle group you want to target (e.g. bicep, forearm, calf),  clean the skin thoroughly.
+- b. Place one electrode in the middle of the muscle body, connect this electrode to the  RED Cable’s snap connector.
+- c. Place a second electrode at one end of the muscle body, connect this electrode to  the Blue Cable’s snap connector. 
+- d. Place a third electrode on a bony or non‐muscular part of your body near the  targeted muscle, connect this electrode to the Black Cable’s snap connector.
+
+3) Connect to a Microcontroller (e.g. Arduino)
+- a. Connect the SIG pin of your sensor to an analog pin on the Arduino (e.g. A0)
+- b. Connect the GND pin of your sensor to a GND pin on the Arduino.
+
+![](2026-01-17-14-52-25.png)
+
+- [[TL08-dat]] - [[amplifier-dat]]
+
+## Electrical Specifications
+
+| Parameter                                    | Min             | TYP             | Max              |
+| -------------------------------------------- | --------------- | --------------- | ---------------- |
+| Power Supply Voltage (Vs)                    | ±3V             | ±5V             | ±30V             |
+| Gain Setting, Gain = 207*(X /1 kΩ)           | 0.01 Ω (0.002x) | 50 kΩ (10,350x) | 100 kΩ (20,700x) |
+| Output Signal Voltage (Rectified & Smoothed) | 0V              | -               | +Vs              |
+| Differential Input Voltage                   | 0 mV            | 2-5 mV          | +Vs/Gain         |
+
+## EMG 
+
+![](2026-01-17-14-53-00.png)
+
 
 ## AD8232 Sensor Module
 
@@ -57,7 +129,9 @@ The guaranteed performance temperature range is 0°C to 70°C, and the operating
 | EP     | Exposed Pad | Exposed pad. The exposed pad should be connected to GND or left unconnected.                                                                                                                                                                                |
 
 
+## demo code 
 
+- [[bitalino-android-example-master.zip]] - [[MuscleSensor_Arduino.zip]] - [[MuscleSensor_Processing.zip]]
 
 
 ## ref 
