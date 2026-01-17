@@ -18,7 +18,7 @@ A7670SA
 
 - LASE: 4G+GPRS network, supports diversity antenna, does not support GPS
 - FASE: 4G+GPRS network, supports diversity antenna, supports GPS
-
+- LABE:   , does not support GPS
 
 - [[LTE-dat]] - [[M2M-dat]]
 
