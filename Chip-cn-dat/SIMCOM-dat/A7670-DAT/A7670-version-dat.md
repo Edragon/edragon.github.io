@@ -16,9 +16,15 @@ A7670SA
 
 ## suffix 2 
 
+- LASC: support 2G 
 - LASE: 4G+GPRS network, supports diversity antenna, does not support GPS
+- LANS: 
+- LNNV: 
+- LNNY: 
 - FASE: 4G+GPRS network, supports diversity antenna, supports GPS
 - LABE:   , does not support GPS
+
+
 
 - [[LTE-dat]] - [[M2M-dat]]
 
