@@ -20,6 +20,20 @@ Does not transmit RF (safe, non-invasive)
 
 
 
+## output 
+
+test demo output 
+
+    root@raspberrypi:/home/pi/RPI-SDK# python rpi-py-spi.py 
+    Warning: Failed to add edge detection: Failed to add edge detection
+    Note: GPIO interrupts may require running the script with sudo
+    SX1278 LoRa SPI Demo Start
+    SX1278 VERSION = 0x12
+    SX1278 detected successfully
+    LoRa mode enabled
+    Waiting for DIO0 interrupt (Ctrl+C to exit)
+
+
 
 ## disable CE1 
 

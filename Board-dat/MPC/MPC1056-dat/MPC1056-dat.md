@@ -24,6 +24,8 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 - [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[nema-dat]]
 
+- [[antenna-GNSS-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]]
+
 
 
 ## Dimension 
@@ -36,10 +38,20 @@ version 2.1
 
 - 1PPS == LED / optional 27 
 - GPS_INT == 22 
-- SD_CS == IO8 
-- LORA_CS == IO7 
+
+CS pin setup 
+- SD_CS == IO8 == CE1 == via 3-way SMD jumper
+- LORA_CS == IO7 == CE0 == via 3-way SMD jumper
+- LORA_CS == IO25 == optionally via 2-way SMD jumper
+
 - LORA_INT == DIO0 == RPI_IO4
 - LORA_RESET == RPI_IO17
+
+other default setup 
+
+- default antenna port == - [[CONN-IPEX-dat]]
+- default [[lora-dat]] antenna == pre-included antenna 
+
 
 
 ## update logs 
@@ -50,7 +62,7 @@ Update Logs V2.1:
 
 ## demo video 
 
-
+https://t.me/electrodragon3/435
 
 ## ref 
 
