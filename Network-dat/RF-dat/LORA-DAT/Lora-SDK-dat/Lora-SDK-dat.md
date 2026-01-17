@@ -2,6 +2,10 @@
 
 - [[Lora-HDK-dat]] - [[12P-BTB-dat]]
 
+- [[SPI-dat]] - [[SPI-CMD-dat]]
+
+
+
 ## network ID and address 
 
 For LoRa coding, the network ID and address (often called device address or node address) are typically set in the software/firmware of the device, not in the data payload or by hardware switches.

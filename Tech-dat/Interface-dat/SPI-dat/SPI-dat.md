@@ -4,6 +4,8 @@
 - [[74HC125-dat]] == [[logic-level-shifter-dat]]
 
 
+- [[RPI-HDK-dat]]
+
 | pin  | active | function | note       |
 | ---- | ------ | -------- | ---------- |
 | CLK  |        |          | 3-wire SPI |

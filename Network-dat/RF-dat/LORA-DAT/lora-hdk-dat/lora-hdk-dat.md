@@ -30,6 +30,26 @@
 ![](2025-06-23-18-19-02.png)
 
 
+## wiring to RPI
+
+- [[MPC1056-dat]]
+
+table 
+
+    Raspberry Pi 3 (BCM)     SX1278
+    --------------------------------
+    3.3V                  → VCC
+    GND                   → GND
+    GPIO10 (MOSI)         → MOSI
+    GPIO9  (MISO)         → MISO
+    GPIO11 (SCLK)         → SCK
+    GPIO7  (CS / NSS)     → NSS
+    GPIO17 (RESET)        → RESET
+    GPIO4  (DIO0 / INT)   → DIO0
+
+
+
+
 ## wiring to ESP32
 
 | Lora Module | ESP32   |

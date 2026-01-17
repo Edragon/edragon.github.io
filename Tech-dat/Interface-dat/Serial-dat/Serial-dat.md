@@ -5,7 +5,7 @@
 
 - [[serial-circuits-dat]] - [[auto-serial-dat]]
 
-
+- [[serial-cmd-dat]]
 
 
 - [legacy wiki page](https://w.electrodragon.com/w/Serial)
@@ -138,6 +138,9 @@ Booting Mode select
 - https://github.com/Edragon/COM-Driver
 - https://github.com/Edragon/git-Debug
 - https://github.com/Edragon/Tools
+
+
+
 
 
 

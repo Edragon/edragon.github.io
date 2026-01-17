@@ -20,8 +20,11 @@ https://www.electrodragon.com/product/neo-6m-gps-module-r2/
 | 5   | PPS         | clock pulse output pin                                                                          |
 
 
+
+
+
 ## ref 
 
-- [[GPS-dat]] - [[NEO-6M-dat]] - [[u-blox-dat]]
+- [[GPS-dat]] - [[NEO-6-dat]] - [[u-blox-dat]]
 
 - [[NGS1052]]

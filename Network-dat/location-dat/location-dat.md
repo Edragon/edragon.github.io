@@ -13,7 +13,7 @@
 
 ## companies 
 
-- [[u-blox-dat]] - [[NEO-7-dat]] - [[NEO-6M-dat]]
+- [[u-blox-dat]] - [[NEO-7-dat]] - [[NEO-6-dat]]
 
 - [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]] - [[L86-dat]] - [[L76-dat]] - [[ED20-dat]] - [[EC20-dat]] - [[BC20-dat]]
 

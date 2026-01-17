@@ -19,6 +19,9 @@
 - [[BCM2835-dat]] - [[BCM2711-dat]]
 
 
+
+
+
 ## RPI4 
 
 - BCM2711B0: cortex-A72 
@@ -42,6 +45,26 @@
 - [[RK3588-dat]] - [[rocketchip-dat]]
 
 
+## function pins 
+
+- [[RPI-pin-dat]] 
+
+- [[SPI-dat]]
+
+- GPIO8 == SPI CE0 
+- GPIO7 == SPI CE1
+- GPIO10 == SPI MOSI
+- GPIO9 == SPI MISO
+- GPIO11 == SPI SCLK
+
+GPIO check 
+
+    root@raspberrypi:/home/pi/RPI-SDK# pinctrl get 4
+    4: ip    -- | lo // GPIO4 = input
+    root@raspberrypi:/home/pi/RPI-SDK# pinctrl get 8
+    8: op -- -- | hi // GPIO8 = output
+    root@raspberrypi:/home/pi/RPI-SDK# pinctrl get 7
+    7: op -- -- | hi // GPIO7 = output
 
 
 

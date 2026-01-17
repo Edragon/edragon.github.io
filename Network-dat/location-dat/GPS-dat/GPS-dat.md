@@ -3,6 +3,10 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Location#GNSS
 
+
+- [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[nema-dat]]
+
+
 ## Functions 
 
 - [[GNSS-dat]]
