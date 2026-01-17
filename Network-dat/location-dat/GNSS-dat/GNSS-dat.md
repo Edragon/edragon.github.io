@@ -4,6 +4,8 @@
 
 - [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[nema-dat]]
 
+- [[serial-CMD-dat]]
+
 ## info 
 
 - [[simcom-at-sscom-location-dat]]

@@ -6,6 +6,7 @@
 
 - [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[nema-dat]]
 
+- [[serial-CMD-dat]]
 
 ## Functions 
 
