@@ -74,6 +74,14 @@ dimension == 17 x 16 x 3.2
 - A: Yes, but you need to port the relevant LoRaWAN protocol code yourself; we have LoRaWAN module Ra-08, which can be used directly.
 
 
+
+
+## module make 
+
+- [[HopeRF-dat]] - [[AIT-dat]]
+
+
+
 ## ref 
 
 
