@@ -38,7 +38,37 @@ Path: The UserConfig.c file in LR_driver is a common file generated when adaptin
 
 ## arduino library 
 
+
+LoRaduplex output 
+
+    error: message length does not match length
+    Sending HeLoRa World!
+    Sending HeLoRa World!
+    Sending HeLoRa World!
+    error: message length does not match length
+    Sending HeLoRa World!
+    Sending HeLoRa World!
+
+
 ### sandeepmistry/arduino-LoRa
+
+
+
+
+reference setup 
+
+    const long frequency = 915E6;  // LoRa Frequency
+
+    const int csPin = 10;          // LoRa radio chip select
+    const int resetPin = 9;        // LoRa radio reset
+    const int irqPin = 2;          // change for your board; must be a hardware interrupt pin
+
+    void setup() {
+    Serial.begin(9600);                   // initialize serial
+    while (!Serial);
+
+    LoRa.setPins(csPin, resetPin, irqPin);
+
 
 frequency in Hz (`433E6`, `868E6`, `915E6`)
 

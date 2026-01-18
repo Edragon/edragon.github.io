@@ -11,6 +11,12 @@
 
 - 433MHZ version [[DVA1007-DAT]] - 915Mhz version [[DVA1008-DAT]]
 
+- [[lora-SDK-dat]]
+
+
+
+
+
 
 ### Board Map 
 
@@ -44,7 +50,7 @@ Pin Definitions
 - GND (CTS)
 - -- (GND)
 
-## Functions 
+## Functions and tech 
 
 - [[memory-dat]] - [[low-power-dat]] - [[lora-dat]]
 
@@ -88,6 +94,8 @@ Pins table
 - [[lora-SDK-dat]] == https://github.com/sandeepmistry/arduino-LoRa
 - arduino library **radiohead** - [[arduino-lib-dat]]
 - [[spi-flash-dat]] - user lowpower lab flash arduino library 
+
+
 
 bootloader - arduino pro mini 3.3V/8M == [[arduino-dat]]
 

@@ -26,6 +26,9 @@ classic SX127x:
 
 - [[NWL1074-dat]] == hole antenna CONN
 
+- [[serial-dat]] output = [[NWL1079-dat]] - [[NWL1081-dat]] 
+
+
 
 ## compare 
 
