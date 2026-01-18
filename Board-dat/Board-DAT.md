@@ -181,6 +181,10 @@ LED control - [[ILC1063-dat]]
 
 - [[IKE1007-dat]] - [[IKE1009-dat]] - [[IKE1011-dat]] - [[IKE1013-dat]] 
 
+[[keypad-dat]] - [[IKE1020-dat]]
+
+
+
 ### ISB
 
 - [[ISB1016-dat]] - [[ISB1022-dat]] - [[ISB1033-dat]]

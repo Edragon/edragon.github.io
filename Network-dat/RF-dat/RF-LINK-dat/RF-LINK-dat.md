@@ -11,18 +11,16 @@
 
 ## products
 
-- [[NWL1016-dat]] - [[NWL1017-dat]]
+Clasic RF LINK - [[RF-LINK-dat]]
 
-https://www.electrodragon.com/product/433m-rf-wireless-module-a-pair-of-receiver-and-transmitter/
+- pair [[NWL1016-dat]] - [[NWL1017-dat]]
+
+- pair - [[NWL1060-dat]]
 
 
-Clasic RF LINK 
+- transmitter - [[NWL1021-dat]] - [[NWL1022-dat]]
 
-- [[NWL1021-dat]] - [[NWL1022-dat]]
-
-- [[NWL1026-dat]] - [[NWL1027-dat]]
-
-- [[NWL1060-dat]]
+- receiver - [[NWL1025-dat]] - [[NWL1026-dat]] - [[NWL1027-dat]]
 
 
 

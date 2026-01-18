@@ -5,6 +5,16 @@
 Accelerometer + Gyroscope == Inertial Measurement Unit
 
 
+## board 
+
+
+- [[DAS1043-dat]]
+
+- [[SMO1020-dat]] - [[MPU6050-dat]]
+
+
+## chip 
+
 - [[bosch-dat]] - [[BMI270-dat]]
 
 - [[MPU6050-dat]] - [[MPU9250-dat]] - [[invensense-dat]]

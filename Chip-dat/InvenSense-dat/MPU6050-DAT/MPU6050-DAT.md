@@ -1,5 +1,5 @@
 
-# MPU6050 DAT
+# MPU6050-DAT
 
 - interface [[I2C-dat]] 
 
@@ -27,6 +27,8 @@ Notes:
 ## boards 
 
 - [[DAS1043-dat]]
+
+- [[SMO1020-dat]] - [[MPU6050-dat]]
 
 
 
