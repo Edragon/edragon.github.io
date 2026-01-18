@@ -27,13 +27,8 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 - [[antenna-dat]] - [[3in1-antenna-dat]] == default connector for [[GNSS-dat]] is - [[CONN-IPEX-dat]]
 
+- [[RPI-SBC-dat]] - [[RPI-SDK-dat]] - [[SPI-CMD-dat]] - [[serial-CMD-dat]]
 
-
-## Dimension 
-
-version 2.1 
-
-![](2024-08-05-16-48-14.png)
 
 ## default pin setup 
 
@@ -67,6 +62,9 @@ V2.2:
 
 V2.1:
 - On board jumper change to SMD soldering jumper. To ease the soldering for Lora module.
+
+
+![](2024-08-05-16-48-14.png)
 
 
 ## demo video 
