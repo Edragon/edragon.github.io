@@ -4,6 +4,8 @@
 
 - [[MPC1056-dat]]
 
+lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw/
+
 ## Info 
 
 * Compatible with RFM95, RFW95W, RFM96W, RFM98, etc. Lead out two extra DIO3 and DIO4

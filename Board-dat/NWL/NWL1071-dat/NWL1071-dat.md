@@ -11,14 +11,19 @@
 
 [Lora RF Wireless Transceiver EE1, 100mW [Freq]](https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw)
 
-- ANT - GND
-- GND - NSS 
-- 3.3V - MOSI 
-- RESET - MISO 
-- D0 - SCK 
-- D1 - D5
-- D2 - D4
-- D3 - GND
+
+dimension == 17 x 16 x 3.2
+
+| SX1278-L | SX1278-R |
+| -------- | -------- |
+| ANT      | GND      |
+| GND      | NSS      |
+| 3.3V     | MOSI     |
+| RESET    | MISO     |
+| D0       | SCK      |
+| D1       | D5       |
+| D2       | D4       |
+| D3       | GND      |
 
 
 

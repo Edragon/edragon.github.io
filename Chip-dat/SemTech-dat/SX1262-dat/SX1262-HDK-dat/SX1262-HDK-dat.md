@@ -7,6 +7,38 @@
 
 - [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]] - [[SX1262-dat]]
 
+
+
+
+## wiring 
+
+
+### Typical Minimum Connections (MCU)
+
+| SX1262 | MCU              |
+| ------ | ---------------- |
+| VDD_IN | 3.3V             |
+| VSS    | GND              |
+| NSS    | GPIO             |
+| SCK    | SPI SCK          |
+| MOSI   | SPI MOSI         |
+| MISO   | SPI MISO         |
+| BUSY   | GPIO (input)     |
+| DIO1   | GPIO (interrupt) |
+| NRST   | GPIO (reset)     |
+
+---
+
+### Important Wiring Notes
+
+- **BUSY pin must be monitored** before any SPI command
+- **DIO1 is mandatory** for RX/TX interrupt handling
+- RF pins **require impedance matching** (do not connect antenna directly)
+- Use **short traces and good grounding** for RF stability
+
+
+
+
 ## wiring while NOT using DIO2 control TXEN / RXEN of RF switch
 
 (NSS_d + SCK + MOSI + MISO) + BUSY + DIO1_irq + RXEN + TXEN + RESET_optional 

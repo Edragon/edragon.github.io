@@ -3,8 +3,8 @@
 
 - [[infrared-reflective-dat]]
 
-
-
+- [[infrared-receiver-dat]] - [[infrared-sender-dat]] - [[IR-SDK-dat]]
+ 
 ## APP 
 
 - [[IR-distance-measurer-dat]] - [[line-finder-dat]]
@@ -17,11 +17,11 @@ infrared pairs
 
 arduino shield - [[DAS1013-dat]]
 
-controller - [[SIR1003-dat]]
+controller - [[SIR1003-dat]] - [[infrared-sender-dat]]
 
 [[LED-dat]] panel - [[ILE1073-dat]]
 
-
+[[LED-dat]] - [[SIR1013-dat]] - [[SIR1012-dat]]
 
 
 ## infrared pairs - 2 Pin 

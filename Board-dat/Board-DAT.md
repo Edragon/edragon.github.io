@@ -372,8 +372,8 @@ Quectel - 2G
 [[CC1101-dat]]
 - [[NWL1039-dat]] - [[NWL1042-DAT]] 
 
-lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw/
-- [[NWL1071-dat]] - [[NWL1072-dat]] - [[NWL1074-dat]]
+
+[[lora-dat]] - [[NWL1071-dat]] - [[NWL1072-dat]] - [[NWL1074-dat]]
 
 [[Lora-dat]] - [[NWL1103-dat]]
 

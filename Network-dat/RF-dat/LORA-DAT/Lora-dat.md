@@ -2,16 +2,16 @@
 
 - [[lora-hdk-dat]] - [[Lora-SDK-dat]]
 
+- [[lora-modules-dat]] - [[lora-chip-dat]]
+
+
+
 
 
 legacy wiki page
 - https://w.electrodragon.com/w/Lora_Tech
 - https://www.electrodragon.com/w/Category:Wireless
 
-
-
-AIT lora
-- https://w.electrodragon.com/w/AIT_LORA_MOD
 
 - [[lorawan-dat]] - [[LORA-node-dat]]
 
@@ -20,19 +20,16 @@ AIT lora
 
 ## Board 
 
+- [[lora-modules-dat]]
+
 - [[arduino-dat]] == [[DVA1007-dat]] - [[DVA1008-dat]] - [[loraduino-dat]] == [[lora-node-dat]]
 
 - [[DAS1069-dat]]
 
 - [[MPC1056-dat]]
 
-- [[NWL1103-dat]] - [[LLCC68-dat]]
-
 - [[DAS1069-dat]] - [[ESP8266-dat]] - [[LORA-dat]] - [[arduino-shields-dat]]
 
-- [[NWL1071-dat]] - [[NWL1072-dat]]
-
-- [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 
 
@@ -107,17 +104,6 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 ### high power lora series 
 - [[EE2-dat]] - [[NWL1078-dat]] - [[NWL1081-dat]] - [[NWL1079-dat]]
 - antenna connection type = 内孔 = internal hole
-
-## Chip 
-
-- [[semtech-dat]] - [[sx1262-dat]] - [[LLCC68-dat]] - [[SX1278-dat]] - [[SX1268-dat]]
-
-- [[ASR6500-dat]] - [[ASR-dat]]
-
-
-- [[crystal-dat]]
-
-- [[PAN3031-dat]]
 
 
 ## lora power and tranmission 
