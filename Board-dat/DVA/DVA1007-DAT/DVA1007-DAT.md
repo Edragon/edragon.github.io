@@ -2,6 +2,8 @@
 
 # DVA1007-DAT
 
+- relevant [[MPC1056-dat]]
+
 [legacy wiki page](https://w.electrodragon.com/w/Loraduino)
 
 [Loraduino Lora RF Wireless Dev. Board, Arduino Compatible](https://www.electrodragon.com/product/atmega328p-arduino-plus-lora-sx1278-board-loraduino/)

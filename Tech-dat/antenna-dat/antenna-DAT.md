@@ -3,17 +3,20 @@
 
 
 
+- [[VSWR-dat]] - [[bands-dat]] - [[frequency-dat]]
 
 
 - [[antenna-type-dat]] - [[antenna-design-dat]]
 
-type of antennas by shape == [[antenna-T-dat]] - [[antenna-Whip-dat]]
+type of antennas by shape == [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] 
 
 type of antennas by power == [[antenna-active-dat]] - [[antenna-passive-dat]]
 
 type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]] - [[GSM-antenna-GPS-dat]] - [[antenna-RF-dat]] - [[antenna-2.4G-dat]]
 
 type of antennas by connector == [[antenna-SMA-dat]] - [[antenna-IPEX-dat]] - [[antenna-UFL-dat]]
+
+- [[CONN-SMA-dat]] - [[CONN-IPEX-dat]] 
 
 - [[3in1-antenna-dat]]
 
@@ -154,6 +157,16 @@ BAL-NRF01D3
 50 ohm balun transformer for 2G45 ISM matched Nordic’s chipset: nRF24LE1 QFN
 
 - [[BAL-NRF01D3.PDF]]
+
+
+## antanna installation 
+
+- [[antenna-spring-dat]]
+
+better NO PCB under the antenna 
+
+![](2026-01-18-12-37-39.png)
+
 
 ## ref
 

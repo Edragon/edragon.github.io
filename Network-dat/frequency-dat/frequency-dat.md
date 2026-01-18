@@ -1,7 +1,32 @@
 
 # frequency-dat
 
+
+- [[VSWR-dat]] - [[bands-dat]] - [[frequency-dat]]
+
+
+
+
+- [[antenna-dat]] - [[antenna-spring-dat]]
+
 - [[PPL-dat]] - [[PLL-dat]]
+
+
+## common frequency 
+
+- 315 - [[RF-dat]]
+- 868 915 == [[lora-dat]] - [[CDMA-dat]] - [[RFID-dat]]
+- 433 - [[lora-dat]] - [[RF-dat]]
+- 470 / 490 mhz - [[lora-dat]]
+- 800 / 1800 mhz == [[4G-dat]] - [[3G-dat]] - [[LTE-dat]] - [[GPRS-dat]] - [[NBIOT-dat]] - [[GSM-dat]]
+- 2200 - [[LTE-dat]]
+- 2400 - [[wifi-dat]] - [[bluetooth-dat]] - [[RF-dat]] - [[zigbee-dat]]
+- [[GPS-dat]] - [[GNSS-dat]] - [[location-dat]]
+
+
+
+
+## ISM bands 
 
 China has several ISM (Industrial, Scientific, and Medical) bands available for low-power, short-range devices. The primary bands are:
 

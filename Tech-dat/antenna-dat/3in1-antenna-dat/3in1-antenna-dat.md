@@ -13,6 +13,15 @@ The default populated antenna socket by us will be IPEX
 
 
 
+## Versions 
+
+V2 
+- support pin-hole solder-in [[antenna-spring-dat]]
+- further optimized layout 
+
+
+V1 
+- support - [[CONN-SMA-dat]] - [[CONN-ipex-dat]]
 
 
 

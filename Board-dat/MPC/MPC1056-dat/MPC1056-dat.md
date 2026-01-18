@@ -1,4 +1,3 @@
-
 # MPC1056-dat
 
 https://www.electrodragon.com/product/gps-addon-shield-for-raspberry-pi-b2/
@@ -26,6 +25,8 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 - [[antenna-GNSS-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]]
 
+- [[antenna-dat]] - [[3in1-antenna-dat]] == default connector for [[GNSS-dat]] is - [[CONN-IPEX-dat]]
+
 
 
 ## Dimension 
@@ -36,16 +37,15 @@ version 2.1
 
 ## default pin setup 
 
-- 1PPS == LED / optional 27 
-- GPS_INT == 22 
-
-CS pin setup 
-- SD_CS == IO8 == CE1 == via 3-way SMD jumper
-- LORA_CS == IO7 == CE0 == via 3-way SMD jumper
-- LORA_CS == IO25 == optionally via 2-way SMD jumper
-
-- LORA_INT == DIO0 == RPI_IO4
-- LORA_RESET == RPI_IO17
+| Function   | Pin             | alternatives | Description                     |
+| ---------- | --------------- | ------------ | ------------------------------- |
+| 1PPS       | LED             | IO7          |                                 |
+| GPS_INT    | 22              |              |                                 |
+| SD_CS      | IO8@CE1         | IO7@CE0      | via 3-way SMD jumper            |
+| LORA_CS    | IO7@CE0         | IO8@CE1      | via 3-way SMD jumper            |
+| LORA_CS    | IO25            |              | optionally via 2-way SMD jumper |
+| LORA_INT   | DIO0@RPI_IO4 |              |                                 |
+| LORA_RESET | RPI_IO17        |              |                                 |
 
 other default setup 
 
@@ -56,13 +56,38 @@ other default setup
 
 ## update logs 
 
-Update Logs V2.1:
+V2.2:
+- support both [[NWL1074-dat]] and [[NWL1071-dat]] [[Lora-dat]] modules 
+- support - [[CONN-USB-dat]] 
+- improved - [[3in1-antenna-dat]]
+- lead out the [[neo-7-dat]] - [[I2C-dat]] - [[interface-dat]]
+
+
+V2.1:
 - On board jumper change to SMD soldering jumper. To ease the soldering for Lora module.
 
 
 ## demo video 
 
 https://t.me/electrodragon3/435
+
+
+## relevant / demo code 
+
+- [[DVA1008-dat]]
+
+Support our type loraduino board, SX1278/76. Also use low cost lora gateway folder aruduino -> ping-pong sketch, see demo gif in wiki page.
+
+## packaging 
+
+- Not include Lora module.
+- Not include GPS antenna.
+- Include 
+  - Main board assembled 
+  - one 90-dgree SMA connector jack
+  - one IPEX connetor jack (default soldered).
+
+
 
 ## ref 
 

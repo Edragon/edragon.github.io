@@ -2,6 +2,14 @@
 # bands-dat
 
 
+
+- [[VSWR-dat]] - [[bands-dat]] - [[frequency-dat]]
+
+B5 + B8 == 915mhz 
+
+
+
+
 - [[SIM7020-dat]] - [[SIM7022-dat]] - [[SIM7028-dat]]
 
 | bands | SIM7028 | SIM7022 | SIM7020G@Cat-M | SIM7020G@NBIOT | SIM7020E | SIM7020C |
