@@ -6,7 +6,7 @@
 
 [Lora RF Wireless Transceiver EE1, 100mW [Freq]](https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw)
 
-
+- [[lora-chip-dat]] - [[lora-modules-dat]] - [[lora-dat]] 
 
 
 

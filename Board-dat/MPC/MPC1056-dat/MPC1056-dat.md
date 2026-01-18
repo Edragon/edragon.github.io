@@ -29,6 +29,8 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 - [[RPI-SBC-dat]] - [[RPI-SDK-dat]] - [[SPI-CMD-dat]] - [[serial-CMD-dat]]
 
+- [[RPI-HDK-dat]]
+
 
 ## default pin setup 
 
