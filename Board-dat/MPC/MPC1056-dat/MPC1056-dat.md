@@ -61,7 +61,9 @@ V2.2:
 - support - [[CONN-USB-dat]] 
 - improved - [[3in1-antenna-dat]]
 - lead out the [[neo-7-dat]] - [[I2C-dat]] - [[interface-dat]]
+- smaller PCB size 40 x 60 
 
+![](2026-01-18-13-00-45.png)
 
 V2.1:
 - On board jumper change to SMD soldering jumper. To ease the soldering for Lora module.
