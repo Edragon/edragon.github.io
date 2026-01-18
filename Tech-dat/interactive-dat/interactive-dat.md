@@ -3,9 +3,11 @@
 
 - [[button-dat]] - [[switch-dat]] 
 
-- [[keyboard-dat]] - [[keypad]] - [[joystick-dat]]
+- [[keyboard-dat]] - [[keypad-dat]] - [[joystick-dat]]
 
 - [[touch-dat]]
+
+
 
 display 
 

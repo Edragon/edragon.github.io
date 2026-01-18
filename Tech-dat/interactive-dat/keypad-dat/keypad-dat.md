@@ -1,11 +1,11 @@
 
 # keypad-dat
 
-
+- [[interactive-dat]] - [[keypad-dat]] - [[keyboard-dat]] - [[bluetooth-dat]] control - [[MPCS007]]
 
 ## board 
 
-- [[IKE1020-dat]]
+- [[IKE1020-dat]] - PCB keypad 4*4 matrix
 
 - [[membrane-keyboard-dat]] - [[IKE1011-dat]] 
 
@@ -65,3 +65,6 @@ https://w.electrodragon.com/w/Category:Keypad
 
 
 https://w.electrodragon.com/w/Category:Input
+
+
+[[interactive-dat]]
