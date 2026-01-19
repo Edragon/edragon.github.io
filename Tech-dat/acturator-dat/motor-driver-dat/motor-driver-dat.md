@@ -36,11 +36,11 @@
 - [[arduino-shields-dat]]
 
 
+
+
 ## functions 
 
-- [[LED-dat]] - [[buzzer-dat]]
-
-
+- [[LED-dat]] - [[buzzer-dat]] - [[sensor-voltage-dat]]
 
 
 
@@ -313,7 +313,9 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 
 ## ref 
 
-- [[motor-dat]]
+- [[motor-dat]] - [[PCB-design]]
+
+
 
 - [[motor-driver]] - [[motor]]
 

@@ -66,4 +66,11 @@ simple drive
 
 
 ## Related Links
+
 - [[SSL1019-dat]]
+
+
+
+## ref 
+
+- [[buzzer]] - [[acturator]]
