@@ -6,6 +6,10 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 - [[3-axis-Accelerometer-dat]] + [[3-axis-gyroscope-dat]]
 
+[legacy wiki page ](https://w.electrodragon.com/w/MPU)
+
+
+
 ## board 
 
 
@@ -16,15 +20,15 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 ## chip 
 
-- [[bosch-dat]] - [[BMI270-dat]]
+- [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] 
 
-- [[MPU6050-dat]] - [[invensense-dat]] 
+- [[bosch-dat]] - [[BMI270-dat]] - [[BMI160-dat]]
+
+- [[MPU6500-dat]] - [[MPU6050-dat]] - [[invensense-dat]] 
 
 - [[MPU9250-dat]] 
 
-- [[MPU6500-dat]] 
 
-- [[BMI160-dat]]
 
 - [[LSM6DS3-dat]] - [[ST-dat]] - [[ST-sensor-dat]] 
 

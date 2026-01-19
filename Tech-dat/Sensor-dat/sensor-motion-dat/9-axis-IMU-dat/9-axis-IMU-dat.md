@@ -5,6 +5,8 @@
 
 - [[MPU9255-dat]] - [[invensense-dat]]
 
+- [[MPU9250-dat]]
+
 - LSM9DS1
 
 
