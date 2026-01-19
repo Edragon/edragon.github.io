@@ -46,6 +46,9 @@ extra pins
 - P0.02 AN0 PPM-IN P0.30
 - P0.29 AN3 GND
 
+![](2026-01-19-19-20-41.png)
+
+
 
 ## ref 
 
