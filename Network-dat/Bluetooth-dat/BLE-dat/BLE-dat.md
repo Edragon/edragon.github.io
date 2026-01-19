@@ -12,6 +12,10 @@
 
 - [[NRF52840-dat]]
 
+- [[ESP32-dat]]
+
+
+
 
 
 ## Mobile Apps for BLE Debugging

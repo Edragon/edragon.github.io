@@ -17,7 +17,7 @@ The Nano 33 BLE + Nano 33 BLE Sense are now both obsolete. Their replacements ar
 
 - [[PWM-dat]] - [[PPM-dat]]
 
-- [[BLE-dat]] - [[webBLE-dat]]
+- [[BLE-dat]] - [[webBLE-dat]] - [[NRF52840-dat]]
 
 - [[power-dat]] - [[BEC-dat]]
 
@@ -25,7 +25,7 @@ The Nano 33 BLE + Nano 33 BLE Sense are now both obsolete. Their replacements ar
 
 - [[radiomaster-dat]] - [[servo-DSC-dat]] - [[servo-dat]]
 
-- [[NRF52840-dat]]
+
 
 
 ## user manual 
