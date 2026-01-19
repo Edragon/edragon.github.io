@@ -41,7 +41,9 @@ Notes:
 
 
 
-## code 
+## code and datasheet 
+
+- [[RM-MPU-6000A.pdf]] - [[PS-MPU-6000A.pdf]]
 
 - [[MPU6050-code-1.ino]]
 

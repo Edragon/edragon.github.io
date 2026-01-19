@@ -4,6 +4,7 @@
 
 Accelerometer + Gyroscope == Inertial Measurement Unit
 
+- [[3-axis-Accelerometer-dat]] + [[3-axis-gyroscope-dat]]
 
 ## board 
 
@@ -17,7 +18,9 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 - [[bosch-dat]] - [[BMI270-dat]]
 
-- [[MPU6050-dat]] - [[MPU9250-dat]] - [[invensense-dat]]
+- [[MPU6050-dat]] - [[invensense-dat]] 
+
+- [[MPU9250-dat]] 
 
 - [[MPU6500-dat]] 
 

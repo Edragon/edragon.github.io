@@ -11,9 +11,9 @@
 
 - [[9-axis-IMU-dat]]
 
-- [[InvenSense-dat]] - [[MPU6050-dat]]
+- [[6-axis-dat]] - [[InvenSense-dat]] - [[MPU6050-dat]]
 
-
+- [[MPU3050-dat]]
 
 - [[st-sensor-dat]]
 
