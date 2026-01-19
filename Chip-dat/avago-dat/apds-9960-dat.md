@@ -1,6 +1,14 @@
 
 # apds-9960-dat
 
+
+
+## boards 
+
+- [[SSL1045-dat]]
+
+
+
 ## APDS-9960
 
 With this RGB and Gesture Sensor you will be able to control a computer, microcontroller, robot, and more with a simple swipe of your hand! This is, in fact, the same sensor that the Samsung Galaxy S5 uses and is probably one of the best gesture sensors on the market for the price.

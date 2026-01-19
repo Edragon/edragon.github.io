@@ -8,10 +8,13 @@
 - [[ibeacon-dat]] - [[BLE5-dat]]
 
 
+## options 
+
+- [[NRF52840-dat]]
 
 
 
-### Mobile Apps for BLE Debugging
+## Mobile Apps for BLE Debugging
 
 ### iOS Apps
 
@@ -72,6 +75,18 @@ For Android devices, you can directly install the following apps:
 - [[JDY-dat]] - [[JDY-25M-dat]] 
 
 - Wireshark 
+
+
+
+
+
+## APP 
+
+- [[head-track-dat]]
+
+
+
+
 
 
 ## ref 

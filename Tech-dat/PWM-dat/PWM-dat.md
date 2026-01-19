@@ -7,6 +7,31 @@
 - [[pulse-in-dat]]
 
 
+## understand PWM 
+
+PWM (Pulse Width Modulation) - [[PPM-dat]]
+
+**What changes:**  
+👉 **Pulse width (duty cycle)**
+
+**What stays fixed:**  
+
+Frequency
+
+Pulse position
+
+
+    |■■■■■■      |  60% duty
+    |■■■         |  30% duty
+    |■■■■■■■■    |  80% duty
+
+Used for
+
+- SMPS regulation
+- Motor speed control
+- LED dimming
+
+
 ## boards 
 
 - [[SCU1063-dat]]
