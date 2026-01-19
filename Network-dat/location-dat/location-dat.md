@@ -63,6 +63,30 @@ foward signal to GPS NEMA serial port
     制造商：SimTechIncorporated
     位置：0000.001d.0000.001.002.002.000.000.000
 
+## test tools NEMA 
+
+- [[NMEA GPS Demo V2.10.zip]]
+
+- [[GNSSToolKit_Lite.exe]]
+
+- u-center_v8.22.exe === search online 
+
+
+
+## SCH 
+
+arduino shield with [[neo-6-dat]] + [[SD-dat]]
+
+- [[Logic-level-shifter-dat]]
+
+![](2026-01-19-13-30-15.png)
+
+
+
+[[NEO-6-dat]] to [[RS232-dat]]
+
+
+![](2026-01-19-13-31-13.png)
 
 
 ## ref 

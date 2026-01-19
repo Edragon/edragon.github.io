@@ -66,6 +66,20 @@ Make sure the VCCA ≤VCCB.
 ![](2025-07-13-02-12-39.png)
 
 
+## 5V-3.3V 
+
+- [[arduino-dat]] to 3.3V [[location-dat]] == [[serial-dat]]
+
+![](2026-01-19-13-32-16.png)
+
+- [[arduino-dat]] to 3.3V [[location-dat]] == [[SPI-dat]]
+
+![](2026-01-19-13-32-40.png)
+
+
+
+
+
 
 ## unsort 
 

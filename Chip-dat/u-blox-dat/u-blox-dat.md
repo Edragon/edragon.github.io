@@ -43,4 +43,17 @@
 - [[NEO-7-dat]]
 
 
+## driver 
+
+- [[u-blox_GPS_Receiver_drv_1206.exe]]
+
+
+## documents 
+
+
+- [[UBLOX-GPS-design-guidelines.pdf]]
+
+## ref 
+
+- [[chip-dat]]
 
