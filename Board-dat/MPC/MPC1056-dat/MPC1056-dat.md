@@ -31,6 +31,7 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 - [[RPI-HDK-dat]]
 
+- [[LED-dat]]
 
 ## default pin setup 
 
@@ -72,6 +73,8 @@ V2.1:
 ## demo video 
 
 https://t.me/electrodragon3/435
+
+[[loraduino-dat]] + [[MPC1056-dat]] == https://youtube.com/shorts/PcWlz_NGX2M?si=udUcH1YYXvHYvbp2
 
 
 ## relevant / demo code 

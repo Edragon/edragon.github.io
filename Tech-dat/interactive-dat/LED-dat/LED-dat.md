@@ -105,6 +105,13 @@ LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15m
 ![](2025-11-29-20-16-26.png)
 
 
+
+## LED control SCH 
+
+- [[mosfet-dat]] 
+
+![](2026-01-19-13-14-43.png)
+
 ## tech 
 
 - [[ACDC-dat]]

@@ -13,6 +13,10 @@
 
 - [[servo-360-dat]]
 
+- [[PCA9685-dat]]
+
+
+
 ## products 
 
 - Micro servo - [[SCU1030-DAT]] - [[SCU1031-dat]] == SG90 / MG90

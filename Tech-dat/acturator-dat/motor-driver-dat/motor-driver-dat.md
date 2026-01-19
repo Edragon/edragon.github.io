@@ -29,6 +29,16 @@
 
 - [[angle-encoder-dat]]
 
+- [[servo-dat]] - [[stepper-dat]]
+
+- [[PCA9685-dat]]
+
+- [[arduino-shields-dat]]
+
+
+## functions 
+
+- [[LED-dat]] - [[buzzer-dat]]
 
 
 

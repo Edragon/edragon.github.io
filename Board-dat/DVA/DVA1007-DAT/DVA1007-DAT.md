@@ -131,7 +131,7 @@ bootloader - arduino pro mini 3.3V/8M == [[arduino-dat]]
 
 - [low power test](https://x.com/electro_phoenix/status/1639160253811142656)
 
-
+[[loraduino-dat]] + [[MPC1056-dat]] == https://youtube.com/shorts/PcWlz_NGX2M?si=udUcH1YYXvHYvbp2
 
 ## bulk order 
 
@@ -144,8 +144,12 @@ Buck order price:
 
 ## ref 
 
+- [[DVA1008-dat]]
+
 - [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
 
 - [[radiohead-dat]] - [[lora-sdk-dat]]
 
 - [[arduino-hdk-dat]] - [[arduino-dat]]
+
+- [[mpc1056-dat]]
