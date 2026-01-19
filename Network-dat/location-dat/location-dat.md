@@ -89,6 +89,10 @@ arduino shield with [[neo-6-dat]] + [[SD-dat]]
 ![](2026-01-19-13-31-13.png)
 
 
+
+
+
+
 ## ref 
 
 - [[STM32-dat]]
