@@ -4,7 +4,7 @@
 
 - [[peripherals-dat]]
 
-- [[PWM-dat]]
+- [[PWM-dat]] - [[PPM-dat]]
 
 
 - [[servo-connector-dat]]

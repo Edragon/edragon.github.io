@@ -1,6 +1,8 @@
 
 # PPM-dat
 
+- [[servo-dat]]
+
 - [[Wfly-dat]] - [[RC-code-dat]]
 
 - [[PWM-dat]]
@@ -56,6 +58,19 @@ So, instead of needing a separate wire for each control channel, PPM combines th
 
     Vout ──R──┬── Zener ── GND
             └──→ PWM control pin
+
+
+## high voltage control 
+
+![](2026-01-19-19-29-56.png)
+
+![](2026-01-19-19-30-19.png)
+
+For 5V PPM signal, R1 = (5*10,000)/3.3 - 10,000 = 5151ohms Round the value UP to the nearest commonly available resistor, which is 5600ohm or 5.6k
+
+For 7V PPM Signal, R1 = 7*10,000/3.3 - 10,000 = 11,212 ohms ==> Rounded Up ==> 12,000ohm or 12Kohm
+
+
 
 
 
