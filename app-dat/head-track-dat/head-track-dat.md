@@ -23,7 +23,10 @@ The Nano 33 BLE + Nano 33 BLE Sense are now both obsolete. Their replacements ar
 
 - [[audio-dat]] - [[CONN-audio-dat]]
 
-- [[radiomaster-dat]] - [[servo-DSC-dat]]
+- [[radiomaster-dat]] - [[servo-DSC-dat]] - [[servo-dat]]
+
+- [[NRF52840-dat]]
+
 
 ## user manual 
 

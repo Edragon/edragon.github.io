@@ -15,6 +15,8 @@
 
 - [[PCA9685-dat]]
 
+
+
 ## tech 
 
 - [[servo-DSC-dat]]
@@ -158,9 +160,6 @@ Fine-tune by sending 1500 µs and adjusting slightly if needed.
 
 - used for robot joint
 
-## Apps and Extensions 
-
-- [[worm-gear-dat]]
 
 
 ## demo 
@@ -173,7 +172,12 @@ https://t.me/electrodragon3/401
 Hitec 海泰克 HS-5565MH 高压数字标准舵机 速度快 空心杯电机 G1可编程电路 不防水
 
 
-## app 
+
+## Apps 
+
+- [[worm-gear-dat]] - [[servo-gimbal-dat]]
+
+
 
 lock and unlock system 
 
@@ -187,6 +191,9 @@ to linear output
 connector to a [[crank-dat]]
 
 ![](2026-01-09-21-12-45.png)
+
+
+
 
 ## high torque servo 
 
