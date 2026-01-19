@@ -1,7 +1,7 @@
 
 # SSL1045-dat
 
-- [[APDS-9960-dat]]
+- [[APDS-9960-dat]] - [[sensor-gesture-dat]]
 
 https://www.electrodragon.com/product/apds9960-apds9930-sensor-breakout-board/
 
@@ -16,6 +16,9 @@ https://www.electrodragon.com/product/apds9960-apds9930-sensor-breakout-board/
 ## SCH 
 
 ![](2023-11-15-18-31-07.png)
+
+
+
 
 ## ref cn 
 

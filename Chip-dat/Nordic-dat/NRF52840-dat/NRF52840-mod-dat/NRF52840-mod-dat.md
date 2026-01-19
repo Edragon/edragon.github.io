@@ -1,5 +1,5 @@
 
-# NRF52840-mod-dat
+# NRF52840-mod-1-dat
 
 - [[NRF52840-dat]]
 

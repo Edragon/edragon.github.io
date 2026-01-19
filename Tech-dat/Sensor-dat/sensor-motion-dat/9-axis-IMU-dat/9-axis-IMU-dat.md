@@ -1,6 +1,18 @@
 
 # 9-axis-IMU-dat.md
 
+
+- [[6-axis-dat]] + - [[3-Axis-Magnetic-dat]]
+
+
+MPU6500 6 axis, Gyrometer & Accelerometer + QMC588s 3 axis, Magnetometer - [[3-Axis-Magnetic-dat]]
+
+BMI270 6 axis, Gyrometer & Accelerometer + BMM150 3 axis, Magnetometer
+
+
+
+LSM9DS1 9 Axis, Gyrometer, Accelerometer and Magnetometer
+
 - BNO055
 
 - [[MPU9255-dat]] - [[invensense-dat]]
@@ -16,6 +28,10 @@ The [[ITG320-dat]] (often paired as ITG3205) refers to a MEMS gyroscope IC, comm
 
 
 
+
+## app 
+
+- [[head-track]]
 
 
 ## ref 

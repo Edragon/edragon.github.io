@@ -14,3 +14,11 @@ The APDS-9930 provides an I2C interface-compatible ambient light sensor (ALS) an
 The proximity sensor is fully calibrated for 100 mm object detection, eliminating factory calibration requirements for the terminal and secondary components. From the bright sunlight to the dark room, close to the detection function can work well.
 
 The addition of a micro-optical lens to the module provides efficient transmission and reception of infrared energy, which reduces overall power consumption. In addition, the internal state machine allows the device to enter the low-power mode, bringing a very low average power consumption.
+
+
+
+## ref 
+
+- [[avago-dat]] 
+
+
