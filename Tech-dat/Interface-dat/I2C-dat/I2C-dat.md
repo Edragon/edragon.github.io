@@ -159,6 +159,19 @@ initiate check
     }
   
 
+
+## pin arrangement 
+
+- [[MPU6050-dat]]
+
+- SDA
+- SCL
+- GND
+- +5V 
+
+
+
+
 ## ref 
 
 - https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/#1

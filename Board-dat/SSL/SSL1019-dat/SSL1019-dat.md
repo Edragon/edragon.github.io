@@ -4,7 +4,12 @@
 ## Info
  
 [product url - 5PCs 5V Active Continous Beeper/Buzzer](https://www.electrodragon.com/product/3v-active-buzzer-continous-beep-12095-type/)
- 
+
+
+== [[kicad-dat]] == Generic Buzzer, D12mm height 9.5mm with RM7.6mm
+
+
+
 SPECIFICATION OF R/TMB12D05
 
 FEATURES

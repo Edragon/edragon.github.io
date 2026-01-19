@@ -36,12 +36,15 @@
 - [[arduino-shields-dat]]
 
 
+## driver 
 
+- [[ESP32-dat]] - [[ESP32-S3-dat]]
 
 ## functions 
 
 - [[LED-dat]] - [[buzzer-dat]] - [[sensor-voltage-dat]]
 
+- [[interface-dat]]
 
 
 ## Board 
@@ -81,7 +84,7 @@
 - [[SAMD21-dat]] - [[SDR1096-dat]]
 
 
-
+- [[25-rover]]
 
 ## chips 
 
@@ -313,7 +316,7 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 
 ## ref 
 
-- [[motor-dat]] - [[PCB-design]]
+- [[motor-dat]] - [[PCB-design-dat]] - [[PCB-design]]
 
 
 
