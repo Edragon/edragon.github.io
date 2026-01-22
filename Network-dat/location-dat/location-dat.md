@@ -95,6 +95,8 @@ arduino shield with [[neo-6-dat]] + [[SD-dat]]
 
 ## ref 
 
+- [[amplifier-GNSS-dat]] - [[amplifier-dat]]
+
 - [[STM32-dat]]
 
 - [[location]] - [[network]]
