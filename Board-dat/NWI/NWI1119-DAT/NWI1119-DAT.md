@@ -51,6 +51,10 @@ ADC port  - [[ADC-dat]]
 
 
 
+## update logs and issues 
+
+- [[CONN-USB-micro-vertical-dat]]
+
 
 
 ### ref

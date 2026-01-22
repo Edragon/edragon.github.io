@@ -61,7 +61,9 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 | DC barrel 2.1mm barrel plug                  | not added | V1 - [[NWI1252-dat]]      |
 
 
+## update logs and issues 
 
+- [[CONN-USB-micro-vertical-dat]]
 
 ## ref 
 

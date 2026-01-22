@@ -136,6 +136,10 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 - Now it is enter into flash mode 
 
 
+## update logs and issues 
+
+- [[CONN-USB-micro-vertical-dat]]
+
 
 ## ref
 

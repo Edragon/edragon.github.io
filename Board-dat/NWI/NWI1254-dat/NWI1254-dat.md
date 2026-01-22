@@ -74,7 +74,9 @@ main controller part SCH
 
 note the [[RS232-dat]] interface should be twisted, wire as TX-RX and RX-TX
 
+## update logs and issues 
 
+- [[CONN-USB-micro-vertical-dat]]
 
 ## ref 
 

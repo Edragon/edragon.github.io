@@ -63,6 +63,9 @@ V2.2:
 
 ![](2026-01-18-13-00-45.png)
 
+![](2026-01-23-02-45-49.png)
+
+
 V2.1:
 - On board jumper change to SMD soldering jumper. To ease the soldering for Lora module.
 
@@ -82,6 +85,10 @@ https://t.me/electrodragon3/435
 - [[DVA1008-dat]]
 
 Support our type loraduino board, SX1278/76. Also use low cost lora gateway folder aruduino -> ping-pong sketch, see demo gif in wiki page.
+
+
+
+
 
 ## packaging 
 
