@@ -7,6 +7,8 @@
 
 - [[RAM-dat]]
 
+legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Memory
+
 ## USB
 
 - [[USB-dat]] - [[USB-OTG-dat]]

@@ -6,8 +6,24 @@
 - [[TI-DAC-dat]] - [[TI-dat]] - [[TI-signal-dat]]
 
 
+legacy wiki page == https://www.electrodragon.com/w/AD/DA
 
 
+## boards 
+
+- [[MSP1050-dat]]
+
+
+
+## chips 
+
+- [[MCP4725-dat]] - [[microchip-dat]]
+
+
+
+## apps 
+
+- [[audio-dat]] - [[analog-dat]]
 
 
 ## unsort 

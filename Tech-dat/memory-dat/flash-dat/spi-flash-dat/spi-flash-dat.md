@@ -3,6 +3,13 @@
 # spi-flash-dat
 
 
+
+## boards 
+
+- [[MOT1020-dat]] 
+
+
+
 ## WSON 
 
 ![](2025-07-14-01-14-33.png)
