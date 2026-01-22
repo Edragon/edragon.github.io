@@ -9,6 +9,17 @@
 - [[MOT1020-dat]] 
 
 
+## chip 
+
+- [[W25Q64-dat]] == https://www.winbond.com/resource-files/w25q64fv%20revq%2006142016.pdf
+
+![](2026-01-23-03-40-49.png)
+
+
+## tech 
+
+- [[SPI-dat]]
+
 
 ## WSON 
 
@@ -21,6 +32,11 @@ Yes, 8-bit SPI flash does exist in the context of the ESP32 and similar chips. T
 
 
 ## SPI Flash SCH
+
+general design 
+
+![](2026-01-23-03-42-16.png)
+
 
 w/STM32
 ![](2024-01-13-17-38-48.png)

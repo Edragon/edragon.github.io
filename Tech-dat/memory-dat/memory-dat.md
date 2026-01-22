@@ -1,11 +1,14 @@
 
 # memory-dat
 
-- [[sd-dat]] - [[flash-dat]] - [[spi-flash-dat]] - [[eeprom-dat]]
+- [[sd-dat]] - [[flash-dat]] - [[spi-flash-dat]] - [[EEPROM-dat]]
 
 - [[SDIO-dat]]
 
 - [[RAM-dat]]
+
+
+
 
 legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Memory
 

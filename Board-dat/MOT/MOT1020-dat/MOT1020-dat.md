@@ -11,6 +11,9 @@
 
 ![](2026-01-23-03-39-09.png)
 
+schematic in - [[spi-flash-dat]] general use 
+
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video

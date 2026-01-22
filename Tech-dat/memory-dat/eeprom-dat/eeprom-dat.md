@@ -1,6 +1,31 @@
 
 # eeprom-dat
 
+
+## tech 
+
+wiki documentation == https://en.wikipedia.org/wiki/EEPROM
+
+arduino library == http://playground.arduino.cc/Main/LibraryForI2CEEPROM
+
+- [[I2C-dat]]
+
+## boards 
+
+- [[MOT1005-dat]]
+
+- [[MPC1073-DAT]]
+
+
+
+## SCH 
+
+
+SCH1 
+
+![](2026-01-23-03-48-35.png)
+
+
 ID EEPROM: (No soldering on-board )
 
 ![](2024-12-20-18-09-27.png)
@@ -17,9 +42,6 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 
 - cheaper alternatives == [[BL24C256-dat]] in [[beling-dat]]
 
-## boards 
-
-- [[MPC1073-DAT]]
 
 
 ## unsort 
