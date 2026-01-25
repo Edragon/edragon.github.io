@@ -1,9 +1,9 @@
 
 # power-dat.md
 
-- [[power-dat]] 
+- [[power-dat]] - [[battery-dat]] 
 
-- [[battery-dat]] - [[li-battery-dat]]- [[BMS-dat]]
+- [[li-battery-dat]]- [[battery-BMS-dat]]
 
 - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
   
