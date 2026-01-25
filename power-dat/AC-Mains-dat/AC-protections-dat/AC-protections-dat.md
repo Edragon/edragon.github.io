@@ -1,6 +1,10 @@
 
 # AC-protections-dat
 
+
+
+## tech 
+
 - [[diode-rectifier-dat]]
 
 - [[capacitor-x-y-dat]] - [[capacitor-dat]]
@@ -9,7 +13,16 @@
 
 - [[fuse-dat]]
 
-- [[NTC-dat]] - [[resistor-dat]]
+- [[thermistor-dat]] - [[resistor-dat]]
+
+
+
+## boards 
+
+- [[OPM1114-dat]] - [[OPM1113-dat]]
+
+
+
 
 
 
