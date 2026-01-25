@@ -4,7 +4,9 @@
 
 ## turtle button 
 
-- normally all manually tested 
+- normally all manually tested
+- Still has low rate that the button has no response while pushing
+- issue still analyzing but not a big problem, we tested all the buttons before shipping
 
 ![](2026-01-25-15-05-12.png)
 
