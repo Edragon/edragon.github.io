@@ -20,6 +20,7 @@ BL
 
 MCP7940N == Battery-Backed I2C™ Real-Time Clock/Calendar with SRAM
 
+- [[Maxim-dat]]
 
 ## SCH 
 
@@ -40,6 +41,10 @@ Tiny Real-Time Clock/Calendar with Alarm Function and I2C-Bus
 The above circuit generates a pulse for GLOBAL_EN when nRTC_INT goes low
 
 GLOBAL_EN needs to be pulse low for >1mS
+
+
+
+
 
 ## ref board 
 

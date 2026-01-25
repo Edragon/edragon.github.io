@@ -2,6 +2,15 @@
 # button-dat 
 
 
+## turtle button 
+
+- normally all manually tested 
+
+![](2026-01-25-15-05-12.png)
+
+
+
+
 
 ## Buttons Circuits 
 

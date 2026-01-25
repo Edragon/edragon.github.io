@@ -27,6 +27,11 @@ PCF85176 == 40 x 4 universal LCD driver for low multiplex rates
 - [[PCF8574-dat]]
 
 
+## processer 
+
+MK81FN256VDC15 - Kinetis K81-150 MHz HW Cryptographic Co-Processor, Anti-Tamper and QuadSPI Microcontrollers (MCUs) Based on Arm® Cortex®-M4 Core
+
+XFBGA121: XFBGA121, plastic, extremely thin fine-pitch ball grid array; 121 bumps; 0.65 mm pitch; 8 mm x 8 mm x 0.43 mm body
 
 
 ### PCF8566 
