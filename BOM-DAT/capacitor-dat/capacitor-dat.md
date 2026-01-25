@@ -16,7 +16,26 @@ common brand: 	Chemi-Con, Vishay, TDK, Pansonic, KEMET, Nichicon
 
 - [[capacitor-decoupling-dat]]
 
-- [[start-capacitor-dat]] - [[CBB-capacitor-dat]]
+- [[capacitor-start-dat]] - [[capacitor-CBB-dat]]
+
+- [[capacitor-x-y-dat]]
+
+
+
+
+## capacitor CBB and types 
+
+CBB capacitors are non-polarized, metallized polypropylene film capacitors known for high stability, low loss, and excellent self-healing properties. Operating commonly between \(63V\) to \(2000V\), they are ideal for high-frequency, AC motor running, filtering, and power supply applications. They come in various types, including CBB22 (general film) and CBB60/CBB61 (motor run). 
+
+
+| Marking   | Dielectric         | Typical Use                  |
+| --------- | ------------------ | ---------------------------- |
+| CBB / MKP | Polypropylene (PP) | Audio, timing, AC, precision |
+| MKT       | Polyester (PET)    | General-purpose              |
+| X7R       | Ceramic            | Decoupling, compact size     |
+| C0G/NP0   | Ceramic            | RF, precision                |
+
+
 
 ## Aluminum Electrolytic Capacitors - Radial Leaded
 
@@ -24,7 +43,7 @@ UPM1C102MPD
 
 - Capacitance:	1000 uF	
 - Voltage Rating DC:	16 VDC	
-- Diameter:	10 mm	
+![capacitor-x-y-dat/2026-01-25-20-38-52.png](capacitor-x-y-dat/2026-01-25-20-38-52.png)
 - Length:	31.5 mm	
 - Lead Spacing:	5 mm
 - Product:	Low Impedance Electrolytic Capacitors
@@ -176,6 +195,28 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 ## feed through capacitor 
 
 657-PSM1-402Z-10B == Feed Through Capacitors 4000PF 10A PI - Surface Mount Low Pass Filters PSM Series
+
+
+
+## JNC JN 222M 
+
+
+| Parameter        | Value (typical)          |
+|------------------|--------------------------|
+| Capacitance      | 2.2 nF (2200 pF)         |
+| Tolerance        | ±20%                     |
+| Dielectric       | Ceramic (disc type)      |
+| Voltage rating   | ~400 VAC (may vary)      |
+| Package          | Radial ceramic disc      |
+
+
+### Common applications
+
+- EMI / noise suppression
+- Snubber or filtering circuits
+- High-voltage signal coupling
+- Non-precision timing circuits
+
 
 
 

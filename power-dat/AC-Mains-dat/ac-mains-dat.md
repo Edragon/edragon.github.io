@@ -20,7 +20,16 @@
 
 - [[ACDC-RC_Buck-dat]]
 
-- [[varistor-dat]]
+
+
+
+## parts 
+
+- [[diode-rectifier-dat]]
+
+- [[ac-protections-dat]]
+
+
 
 ## Note 
 
@@ -79,6 +88,13 @@
 
 
 - [[ground-wire-dat]]
+
+
+
+## solutions 
+
+- [[CR6842S-dat]] - [[chip-rail-dat]] - [[AC-mains-dat]] - [[OPM1114-dat]]
+
 
 ## ref 
 

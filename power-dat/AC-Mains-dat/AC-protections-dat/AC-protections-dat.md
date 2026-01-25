@@ -1,6 +1,17 @@
 
 # AC-protections-dat
 
+- [[diode-rectifier-dat]]
+
+- [[capacitor-x-y-dat]] - [[capacitor-dat]]
+
+- [[varistor-dat]]
+
+- [[fuse-dat]]
+
+- [[NTC-dat]] - [[resistor-dat]]
+
+
 
 ## burnt current limit resistor 
 

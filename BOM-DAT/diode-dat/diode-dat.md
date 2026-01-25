@@ -1,6 +1,13 @@
 
 # diode-dat
 
+
+
+- [[diode-rectifier-dat]] - [[diode-zener-dat]] - [[flyback-diode-dat]]
+
+- [[diode-bridge-rectifier-dat]]
+
+
 brand - [[st-dat]]
 
 | model  | footprint | mark    |
@@ -8,8 +15,6 @@ brand - [[st-dat]]
 | SS14   | SMA       | SS14/SL |
 | 1N4007 | SMA       | M7      |
 
-
-- [[diode-zener-dat]] - [[flyback-diode-dat]]
 
 
 ## diode info 

@@ -30,3 +30,15 @@ Maximum Forward Voltage (Vf): 1.1V
 ## FAST RECOVERY RECTIFIERS
 
 FR601G THRU FR607G - GLASS PASSIVATED FAST RECOVERY RECTIFIERS
+
+
+
+## chips 
+
+- [[onsemi-dat]]
+
+
+
+## ref 
+
+- [[diode-dat]]

@@ -28,11 +28,13 @@ MOC3061M, MOC3062M, MOC3063M, MOC3162M, MOC3163M
 - H11L1M, H11L2M, H11L3M - 6-Pin DIP Schmitt Trigger Output Optocoupler
 
 
+## diode 
 
+[MBRF20100CTG - Switch-mode Schottky Power Rectifier - SCHOTTKY BARRIER RECTIFIER 20 AMPERES, 100 VOLTS](https://www.onsemi.com/pdf/datasheet/mbrf20100ct-d.pdf)
 
+The Switch−mode Power Rectifier employs the Schottky Barrier principle in a large area metal−to−silicon power diode. State−of−the−art geometry features epitaxial construction with oxide passivation and metal overlay contact. Ideally suited for use as rectifiers in very low−voltage, high−frequency switching power supplies, free wheeling diodes and polarity protection diodes.
 
-
-
+![](2026-01-25-20-29-23.png)
 
 ## ref 
 
