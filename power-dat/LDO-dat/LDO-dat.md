@@ -9,6 +9,8 @@
 
 - [[LDO-3CH-dat]]
 
+
+
 ## comparable table 
 
 
@@ -98,9 +100,14 @@ SOT23-5
 
 HMC860LP3E - QUAD LOW NOISE HIGH PSRR LINEAR VOLTAGE REGULATOR
 
-## others 
 
 
+
+
+
+## others unsort 
+
+- [[3peak-dat]]
 
 MC7824BD2TG == Linear Voltage Regulators 24V 1A Positive
 

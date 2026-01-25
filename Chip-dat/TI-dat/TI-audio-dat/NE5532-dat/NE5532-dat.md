@@ -8,7 +8,7 @@
 NE5532x, SA5532x Dual Low-Noise Operational Amplifiers
 
 
-
+![](2026-01-25-18-36-09.png)
 
 ## boards 
 
@@ -29,6 +29,9 @@ VCC+ Supply voltage: 5 ~ 15 V
 the gain is 15K / 2.2K 
 
 ![](2024-10-27-14-27-33.png)
+
+
+
 
 
 ## ref

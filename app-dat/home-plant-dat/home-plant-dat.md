@@ -14,6 +14,8 @@
 
 ## system 
 
+- [[home-plant-dat]] - [[full-spectrum-light-dat]] - [[ph-tester-dat]]
+
 ### Temperature and Humidity 
 
 Humidity Tray: Place a shallow tray of water with some pebbles or stones in the growing area. 
@@ -55,7 +57,7 @@ The term "fresh air" for plants, in a technical sense, generally refers to an op
 
 - timing relay - [[mcu-relay]]
 
-### light 
+##[[full-spectrum-light-dat]]
 
 - [[full-spetrum-light-dat]] 
 

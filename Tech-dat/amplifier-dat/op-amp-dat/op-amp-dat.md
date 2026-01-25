@@ -40,6 +40,7 @@ OP27 - Low Noise, Precision Operational Amplifier
 
 LM6142 - Series Operational Amplifiers - Op Amps
 
+- [[3peak-dat]]
 
 ## ref 
 

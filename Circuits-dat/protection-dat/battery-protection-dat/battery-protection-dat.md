@@ -28,4 +28,6 @@ OC OD mosfet control - to cut of  BAT- to GND
 
 ## ref 
 
+- [[battery-protection]] - [[battery]]
+
 - [[protection-dat]] - [[power-protection-dat]]

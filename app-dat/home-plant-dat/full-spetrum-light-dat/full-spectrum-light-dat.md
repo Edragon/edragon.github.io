@@ -1,6 +1,12 @@
 
 # full-spetrum-light-dat
 
+
+
+- [[home-plant-dat]] - [[full-spectrum-light-dat]] - [[ph-tester-dat]]
+
+
+
 # Why Do Plants Need Full-Spectrum Light?
 
 Plants need **full-spectrum light** for growth because it closely mimics natural sunlight, providing the essential wavelengths required for **photosynthesis and healthy development**. Here’s why full-spectrum light is important for plants:
