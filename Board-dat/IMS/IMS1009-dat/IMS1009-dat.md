@@ -3,6 +3,9 @@
 
 - https://w.electrodragon.com/w/Parola
 
+- [[IMS1008-dat]] == 2 - [[IMS1009-dat]] == 3
+
+- [[Parola-dat]]
 
 ## Uni Map 
 
