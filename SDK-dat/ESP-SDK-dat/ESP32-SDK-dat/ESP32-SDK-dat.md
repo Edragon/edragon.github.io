@@ -20,7 +20,11 @@
 
 - [[micropython-dat]] - [[circuitpython-dat]] 
 
+- [[arduino-dat]]
 
+## arduino 
+
+- API ==  Arduino-ESP32 3.x
 
 
 # ESP32 Examples
@@ -95,3 +99,5 @@
 - [[ESP32-S3-SDK-dat]] - [[ESP32-S3-dat]]
 
 - [[ESP-SDK-dat]]
+
+- [[AI]]

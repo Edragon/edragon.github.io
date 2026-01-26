@@ -21,11 +21,11 @@ or python2 == pip install esptool
 
 get the raw command like [[NWI1254-dat]] 
 
-    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM15" --baud 921600  --before default-reset --after hard-reset write-flash  -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.bin" 
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bin" 
 
 find out the temperory folder like, call it sub folder  
 
-    C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223
+    C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338
 
 copy and replace 
 
@@ -35,12 +35,16 @@ copy and replace
 
 now the full commands to 
 
-    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM15" --baud 921600  --before default-reset --after hard-reset write-flash  -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 ".\NWI1254-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.partitions.bin" 0xe000 ".\boot_app0.bin" 0x10000 ".\NWI1254-3.ino.bin" 
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "basic-3.ino.bootloader.bin" 0x8000 "basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "basic-3.ino.bin" 
 
 
 
 
+## logs 
 
+default partitions flash command for [[esp32-C3-SDK-dat]]: 
+
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bin" 
 
 ## command errors 
 

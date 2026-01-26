@@ -4,7 +4,7 @@
 
 ## tech 
 
-- [[ESP32-C3-dat]] - [[ESP32-C3-SDK-dat]]
+- [[ESP32-C3-dat]] - [[ESP32-C3-SDK-dat]] - [[ESP32-SDK-dat]]
 
 - [[dcdc-down-dat]] - [[mosfet-dat]] - [[mosfet-dimming-dat]]
 
@@ -35,6 +35,13 @@ on board [[ESP32-C3-WROOM-02-dat]] version == 4MB  - [[ESP-debug-log-dat]]
 
 ![](13-39-15-09-06-2023.png)
 
+PWM driving 
+
+    const int ch = ledcAttach(pin, LEDC_BASE_FREQ, LEDC_TIMER_BIT);
+    ...
+    pwmWritePin(G_LED, 0);
+        ...
+        ledcWrite(pin, actualDuty); // core 3.x: pin-based write
 
 
 
@@ -173,12 +180,13 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 - [[ESPhome-dat]]
 
 
-flash command: 
+- [[esptool-dat]]
 
-    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bin" 
+4MB flash - 2MB APP x2, basic-3.ino.partitions.bin file changed 
 
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "basic-3.ino.bootloader.bin" 0x8000 "basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "basic-3.ino.bin"
 
-
+- [[basic-3.ino.partitions.bin]] - [[basic-3.ino.bootloader.bin]] - [[basic-3.ino.bin]]
 
 ## ref
 
