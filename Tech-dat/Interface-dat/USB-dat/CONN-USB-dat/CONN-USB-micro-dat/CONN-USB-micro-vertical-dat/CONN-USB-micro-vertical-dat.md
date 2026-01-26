@@ -1,7 +1,12 @@
 
 # CONN-USB-micro-vertical-dat
 
-this vertical micro usb is easily to loose, add more soldering on the sides to reinforce the connection.
+
+This connector needs to be soldered on both side to ensure good connection to prevent plug in and out foce. 
+
+this vertical micro usb is easily to loose (10~20% chance) if only back side soldered
+
+add more soldering on the sides to reinforce the connection from the front side too. 
 
 ![](2026-01-23-01-39-18.png)
 
