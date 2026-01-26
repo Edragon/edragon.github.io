@@ -10,6 +10,7 @@
 
 - [[bluetooth-dat]] - [[wifi-dat]] - [[zigbee-dat]] - [[USB-dat]] - [[ESP32-C3-USB-dat]]
 
+- [[arduino-dat]] - [[serial-dat]]
 
 
 Arduino-ESP32 core version (2.x vs 3.x)

@@ -8,12 +8,16 @@
 
 - [[dcdc-down-dat]] - [[mosfet-dat]] - [[mosfet-dimming-dat]]
 
-- [[led-driver-dat]]
+- [[led-driver-dat]] - [[arduino-dat]] - [[serial-dat]]
 
 
 
 
 ## Pin Definitions
+
+
+on board [[ESP32-C3-WROOM-02-dat]] version == 4MB  - [[ESP-debug-log-dat]]
+
 
     #define OM_LED 10 // on module led
     #define WS_LED 9 // WS2812, select by jumper
@@ -30,6 +34,9 @@
 - programmable LED pin 10
 
 ![](13-39-15-09-06-2023.png)
+
+
+
 
 ## Wiring Diagram
 
@@ -151,6 +158,10 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 - [[tasmota-dat]]
 
+
+
+
+
 ### Default test firmware 
 
 Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to blink
@@ -160,6 +171,11 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 - [[tasmota-dat]] use guide please see here.
 
 - [[ESPhome-dat]]
+
+
+flash command: 
+
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bin" 
 
 
 

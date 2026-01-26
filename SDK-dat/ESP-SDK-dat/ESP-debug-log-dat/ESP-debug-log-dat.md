@@ -2,6 +2,44 @@
 # ESP32-debug-log-dat
 
 
+
+
+## partitions error 
+
+    ESP-ROM:esp32c3-api1-20210207
+    Build:Feb  7 2021
+    rst:0x3 (RTC_SW_SYS_RST),boot:0xd (SPI_FAST_FLASH_BOOT)
+    Saved PC:0x40048b82
+    SPIWP:0xee
+    mode:DIO, clock div:1
+    load:0x3fcd5820,len:0x1174
+    load:0x403cbf10,len:0xb34
+    load:0x403ce710,len:0x2fb4
+    entry 0x403cbf10
+    E (35) flash_parts: partition 3 invalid - offset 0x340000 size 0x330000 exceeds flash chip size 0x400000
+    E (35) boot: Failed to verify partition table
+    E (37) boot: load partition table error!
+
+
+That boot log is not a sketch bug. It means the firmware you flashed contains a partition table that doesn�t fit your chip�s flash size.
+
+Key line:
+
+- exceeds flash chip size 0x400000 ? your module has 4MB flash
+- but the partition table expects partitions going past 4MB (offset 0x340000 + size 0x330000).
+
+Fix (Arduino core 3.x / Arduino IDE)
+
+- Select the correct board (you�re booting as ESP32-C3).
+- In Tools ? Flash Size, set it to 4MB (or the actual size if different).
+- In Tools ? Partition Scheme, pick a layout that fits 4MB (examples: �Default 4MB�, �No OTA (2MB APP/2MB SPIFFS)�, etc.).
+- Avoid any scheme intended for 8MB/16MB.
+
+
+
+
+## GPIO_PIN mask error left shift count >= width of type
+
 How to fix:
 Change this line in led.c:
 
@@ -27,7 +65,7 @@ warning:
             
 ## serial read 
 
-串口接收有一个buffer，每次read其实是从buffer中读取数据，并不是直接从串口读入的
+串坣接收有一个buffer，毝次read其实是从buffer中读坖数杮，并丝是直接从串坣读入的
 
 ## Interrupt Control Issues Troubleshooting
 
