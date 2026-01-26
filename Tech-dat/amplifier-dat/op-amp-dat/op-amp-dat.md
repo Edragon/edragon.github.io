@@ -1,6 +1,9 @@
 
 # op-amp-dat
 
+
+- output to - [[ADC-dat]]
+
 - [[3peak-dat]] - TP5551
 
 
@@ -16,6 +19,19 @@
 - class A amplifier 
 - class B amplifier 
 - class AB amplifier
+
+
+
+## APPs 
+
+- [[sensor-current-dat]] - [[thermistor-dat]]
+
+- [[ph-tester-dat]]
+
+![](2026-01-26-16-25-41.png)
+
+
+
 
 
 ## unsort 

@@ -4,6 +4,9 @@
 - [[home-plant-dat]] - [[full-spectrum-light-dat]] - [[ph-tester-dat]]
 
 
+- the output should go to [[ADC-dat]]
+
+
 ## apps 
 
 ![](2026-01-25-18-25-51.png)

@@ -30,7 +30,9 @@
 
 ## topics 
 
-- [[home-plant-dat]] - [[Apocalypse-dat]] - [[surveillance-dat]]
+- [[home-plant-dat]] 
+
+- [[Apocalypse-dat]] - [[surveillance-dat]]
 
 - [[E-Bike-dat]] - [[gun-dat]]
 

@@ -1,7 +1,14 @@
 
 # home-plant-dat
 
-- [[humidifier]]
+
+
+
+## system and sub tech 
+
+- [[home-plant-dat]] - [[full-spectrum-light-dat]] - [[ph-tester-dat]]
+
+- [[humidifier-dat]]
 
 
 ## type 
@@ -12,9 +19,6 @@
 
 - The temperature range for growing mushrooms is typically between 15°C to 24°C
 
-## system 
-
-- [[home-plant-dat]] - [[full-spectrum-light-dat]] - [[ph-tester-dat]]
 
 ### Temperature and Humidity 
 
@@ -55,13 +59,12 @@ The term "fresh air" for plants, in a technical sense, generally refers to an op
 
 #### timing system 
 
-- timing relay - [[mcu-relay]]
+- timing relay - [[mcu-relay-dat]]
 
-##[[full-spectrum-light-dat]]
 
-- [[full-spetrum-light-dat]] 
+- [[full-spectrum-light-dat]] 
 
-## mechnical structure 
+## mechanical structure
 
 - [[mechnical-structure-dat]]
 
