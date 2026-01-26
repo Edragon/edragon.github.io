@@ -11,6 +11,11 @@
 
 - [[mixer-dat]] - [[timing-dat]]
 
+- [[AD8605-dat]] - [[AD8607-dat]] - [[OP-amp-dat]]
+
+
+
+
 - ad7190-dat
 
 - AD7715 == 3 V/5 V, 450 µA 16-Bit, Sigma-Delta ADC

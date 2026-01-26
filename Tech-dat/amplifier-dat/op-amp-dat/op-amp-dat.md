@@ -30,9 +30,14 @@
 
 ![](2026-01-26-16-25-41.png)
 
+- IN+ IN- 
+- VS- VS+ 
+- OUT
 
-
-
+- Out A Out B
+- −In A +In A
+- +Vs −Vs
+- −In B +In B
 
 ## unsort 
 
@@ -56,7 +61,7 @@ OP27 - Low Noise, Precision Operational Amplifier
 
 LM6142 - Series Operational Amplifiers - Op Amps
 
-- [[3peak-dat]]
+- [[3peak-dat]] - [[3peak]]
 
 ## ref 
 

@@ -51,7 +51,8 @@ You need an **electrometer-grade or FET-input op-amp**.
 > **Rule of thumb:**  
 > Input bias current should be **< 1/1000 of electrode current**
 
----
+- [[AD8607-dat]] - [[analog-device-dat]]
+
 
 Typical pH front-end architecture
 
