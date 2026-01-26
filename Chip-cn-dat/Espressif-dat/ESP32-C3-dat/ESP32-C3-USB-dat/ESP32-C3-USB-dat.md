@@ -1,6 +1,7 @@
 
 # ESP32-C3-USB-dat
 
+- [[USB-dat]]
 
 https://stackoverflow.com/questions/77141547/serial-monitoring-esp32c3
 

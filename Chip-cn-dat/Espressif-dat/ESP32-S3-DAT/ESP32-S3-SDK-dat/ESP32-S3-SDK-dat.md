@@ -3,7 +3,17 @@
 
 - [[ESP32-S3-dat]]
 
-- [[ESP-SDK-dat]] - [[ESP32-SDK-dat]]
+
+- [[ESP-SDK-dat]] - [[ESP32-SDK-dat]] - [[ESP32-C3-SDK-dat]] - [[ESP32-S3-SDK-dat]]
+
+- [[SPIFFS-dat]] - [[OTA-dat]]
+
+- [[rainmaker-dat]] 
+
+- [[bluetooth-dat]] - [[wifi-dat]] - [[zigbee-dat]] - [[USB-dat]] - [[ESP32-C3-USB-dat]]
+
+
+
 
 - [[circuitpython-ESP32-s3-dat]]
 

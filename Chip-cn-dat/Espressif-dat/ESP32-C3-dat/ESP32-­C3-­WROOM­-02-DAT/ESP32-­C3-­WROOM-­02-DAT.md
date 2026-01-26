@@ -2,6 +2,14 @@
 
 # ESP32-C3-WROOM-02-dat
 
+
+- 2.4 GHz Wi-Fi (802.11b/g/n) and Bluetooth® 5 module
+- Built around ESP32-C3 series of SoCs, RISC-V single-core microprocessor
+- Flash up to 16 MB
+- 15 GPIOs
+- On-board PCB antenna or external antenna connector
+
+
 2x9 pins 
 
 - GPIO == 13 
@@ -18,6 +26,7 @@
 
 
 ## Dimensions 
+
 ![](22-24-13-29-12-2022.png)
 
 ## Pin Definitions 
@@ -25,6 +34,8 @@
 
 
 ## datasheet 
+
+https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
 https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_cn.pdf
 
 

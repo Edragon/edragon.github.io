@@ -1,17 +1,32 @@
 
 
 
-# ESP32-C3 DAT
+# ESP32-C3-DAT
+
+
     - RISC-V 
     - 160MHz 
     - RAM：400KB
     - QFN32_5x5
 
+
+
+## tech 
+
+- [[RISC-V-dat]] - [[zigbee-dat]] - [[wifi-dat]]
+
+- [[USB-dat]] - [[USB-CDC-dat]] 
+
+- [[jtag-dat]]
+
+
+
+
 ## Chip 
 
 - ESP32-C3FH4 QFN-32 
 
-- [[ESP32-­C3-­WROOM-0­2-DAT]]
+- [[ESP32-­C3-­WROOM-­02-DAT]]
 
 
 ## IPEX Antenna Version 
@@ -44,6 +59,9 @@
 
 - ESP32 C3 super mini ?
 
+- [[NWI1254-dat]]
+
+
 ## modules 
 
 - [[ESP32-C3-Mini-1-DAT]] - [[ESP-C3-32S-dat]] - [[ESP-C3-12F-dat]] - [[ESP32-­C3-­WROOM-0­2-DAT]]
@@ -55,7 +73,7 @@
 
 ## C2 / C3 
 
-- [[ESP32-­C3-­WROOM-­02-DAT]]
+- [[ESP32-­C3-­WROOM-­2-DAT]]
 
 obselete - [[ESP-C3-32S-dat]] - [[ESP-C3-12F-DAT]]
 

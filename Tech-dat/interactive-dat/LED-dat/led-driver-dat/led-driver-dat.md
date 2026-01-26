@@ -14,6 +14,17 @@ https://w.electrodragon.com/w/LED_Drive
 - [[XL4015-dat]]
 - [[CN5711-dat]]
 
+
+
+## tech 
+
+- [[mosfet-dat]]
+
+- [[constant-current-dat]]
+
+
+
+
 ## Common questions 
 
 This is a buck (step-down) constant-current LED driver. Input: 5–32 V.

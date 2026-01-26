@@ -5,6 +5,11 @@
 
 - [[RS485-dat]]
 
+- [[ESP32-C3-dat]] - [[ESP32-C3-SDK-dat]]
+
+
+
+
 ## Info
 
 product url - [[NWI1252-dat]]
@@ -74,11 +79,29 @@ main controller part SCH
 
 note the [[RS232-dat]] interface should be twisted, wire as TX-RX and RX-TX
 
+
+## default flash data 
+
+[[esptool-dat]] 
+
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM15" --baud 921600  --before default-reset --after hard-reset write-flash  -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.bin" 
+
+
+
+
 ## update logs and issues 
 
 - [[CONN-USB-micro-vertical-dat]]
 
+
+
+
+
+
+
 ## ref 
+
+- [[NWI1254-fab]]
 
 - [[NWI1254]] - [[NWI1252]]
 

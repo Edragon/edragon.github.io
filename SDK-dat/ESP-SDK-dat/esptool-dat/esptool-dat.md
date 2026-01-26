@@ -16,6 +16,32 @@ or python2 == pip install esptool
 
 
 
+
+## arduino demo to esptool batch flashing 
+
+get the raw command like [[NWI1254-dat]] 
+
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM15" --baud 921600  --before default-reset --after hard-reset write-flash  -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.bin" 
+
+find out the temperory folder like, call it sub folder  
+
+    C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223
+
+copy and replace 
+
+    .\NWI1254-3.bootloader.bin
+    .\NWI1254-3.partitions.bin
+    .\NWI1254-3.ino.bin
+
+now the full commands to 
+
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM15" --baud 921600  --before default-reset --after hard-reset write-flash  -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 ".\NWI1254-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\45267CD3CF422CD163E590AF8B86E223/NWI1254-3.ino.partitions.bin" 0xe000 ".\boot_app0.bin" 0x10000 ".\NWI1254-3.ino.bin" 
+
+
+
+
+
+
 ## command errors 
 
 - Wrong option names: you used hyphens in option values (default-reset, hard-reset) and in flash options (--flash-mode, --flash-freq, --flash-size). esptool expects underscores (default_reset, hard_reset, --flash_mode, --flash_freq, --flash_size).

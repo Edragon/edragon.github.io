@@ -1,5 +1,18 @@
 # NWI1126-DAT
 
+
+
+## tech 
+
+- [[ESP32-C3-dat]] - [[ESP32-C3-SDK-dat]]
+
+- [[dcdc-down-dat]] - [[mosfet-dat]] - [[mosfet-dimming-dat]]
+
+- [[led-driver-dat]]
+
+
+
+
 ## Pin Definitions
 
     #define OM_LED 10 // on module led
@@ -157,7 +170,7 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 
 - a few common mosfet driver issues can be found in the review and causes here: [[mosfet-dat]]
 
-- read more information regarding how to use the chip here [[ESP32-C3-dat]] - [[ESP32-­C3-­WROOM-­02-DAT]]
+- read more information regarding how to use the chip here [[ESP32-C3-dat]] - [[ESP32-­C3-­WROOM-­2-DAT]]
 
 - [[NWI1124-DAT]]
 - [[NWI1125-DAT]]

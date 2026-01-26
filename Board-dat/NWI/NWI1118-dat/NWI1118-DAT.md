@@ -52,7 +52,7 @@
 
 - [[esp-relay-board-dat]]
 
-- [[ESP-12F-DAT]] - [[ESP32-­C3-­WROOM-­02-DAT]] - [[ESP8266-dat]]
+- [[ESP-12F-DAT]] - [[ESP32-­C3-­WROOM-­2-DAT]] - [[ESP8266-dat]]
 
 - [[ACDC-SM]] - [[voltage-divider-dat]]
 

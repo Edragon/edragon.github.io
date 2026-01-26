@@ -7,7 +7,6 @@
 
 - [[CONN-USB-dat]] - [[conn-dat]]
 
-- [[USB-STM32-dat]]
 
 - [[USB-OTG-dat]] - [[USB-CDC-dat]] - [[USB-HID-dat]] - [[USB-MSC-dat]] - [[USB-DFU-dat]] - [[WebSerial-dat]]
 
@@ -33,6 +32,9 @@
 - [[lightning-dat]]
 
 
+
+
+
 ## signal conversion 
 
 - [[USB-SPI-dat]]
@@ -42,6 +44,8 @@
 - [[ARM1003-dat]] - [[MOT1022-dat]]
 
 ![](2024-05-07-16-19-57.png)
+
+- [[ESP32-C3-USB-dat]] - [[USB-STM32-dat]]
 
 
 ## Schematic
