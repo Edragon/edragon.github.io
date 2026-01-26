@@ -10,7 +10,7 @@
 
 - [[conn-pin-header-dat]]
 
-- [[Conn-IPEX-dat]] - [[CONN-SMA-dat]]
+- [[conn-IPEX-dat]] - [[conn-SMA-dat]]
 
 - [[CONN-waterproof-dat]]
 
@@ -34,6 +34,12 @@
 
 
 - [[CONN-Banana-plug-dat]] - [[CONN-Alligator-clip-dat]] - [[PCG1012-dat]] - [[CONN-dat]]
+
+## by functions 
+
+- [[waterproof-dat]] - [[CONN-MC4-dat]] - [[conn-waterproof-dat]]
+
+
 
 
 
@@ -80,22 +86,11 @@ BNC Connector Jack Panel Mount
 
 Black 4mm Banana Plug Jack Socket
 
-### MC4 CONN 
-
-https://en.wikipedia.org/wiki/MC4_connector
-
-![](2025-07-24-15-02-24.png)
-
-solar extension cable 
-
-![](2025-07-24-15-07-36.png)
-
-
 ### TBR-6028XF-5-30-0000
 
 Two Piece Blade Connector_5Pin_3.0mm Pitch_Through Hole_Water Proof Series
 
-![](2025-10-14-17-17-30.png)
+![CONN-MC4-dat/2025-07-24-15-02-24.png](CONN-MC4-dat/2025-07-24-15-02-24.png)
 
 
 ### JOINT TECH

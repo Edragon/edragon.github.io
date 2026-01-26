@@ -2,7 +2,7 @@
 
 # CONN-IPEX-dat 
 
-- [[antenna-GNSS-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]]
+- [[antenna-GNSS-dat]] - [[conn-SMA-dat]] - [[CONN-IPEX-dat]]
 
 
 

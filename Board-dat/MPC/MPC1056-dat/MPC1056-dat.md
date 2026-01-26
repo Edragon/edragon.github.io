@@ -23,9 +23,9 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 - [[location-dat]] - [[GNSS-dat]] - [[GPS-dat]] - [[nema-dat]]
 
-- [[antenna-GNSS-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]]
+- [[antenna-GNSS-dat]] - [[conn-SMA-dat]] - [[conn-IPEX-dat]]
 
-- [[antenna-dat]] - [[3in1-antenna-dat]] == default connector for [[GNSS-dat]] is - [[CONN-IPEX-dat]]
+- [[antenna-dat]] - [[3in1-antenna-dat]] == default connector for [[GNSS-dat]] is - [[conn-IPEX-dat]]
 
 - [[RPI-SBC-dat]] - [[RPI-SDK-dat]] - [[SPI-CMD-dat]] - [[serial-CMD-dat]]
 
@@ -47,7 +47,7 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 other default setup 
 
-- default antenna port == - [[CONN-IPEX-dat]]
+- default antenna port == - [[conn-IPEX-dat]]
 - default [[lora-dat]] antenna == pre-included antenna 
 
 
