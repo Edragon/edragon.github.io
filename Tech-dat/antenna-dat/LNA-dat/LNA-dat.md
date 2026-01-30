@@ -42,6 +42,17 @@ Weak incoming signals need to be amplified early in the signal chain. A low-nois
 HMC564LC4 - IC GAAS LNA 7-14GHz
 
 
+## noise amplifier 
+
+- [[qorvo-dat]] - [[QPL9504-dat]] - Ultra Low Noise, Flat Gain LNA
+
+- The QPL9504 is a flat gain, high-linearity, ultra-low noise amplifier in a small 2 x 2 mm surface-mount package. At 5.5 GHz, the amplifier provides 0.76 dB noise figure with 21.6 dB gain and +34 dBm OIP3 while drawing 55 mA bias current. The LNA can be biased from a single positive supply ranging from 3.3 to 5 volts. The device is housed in a green/RoHS-compliant industry-standard 2x2 mm DFN package.
+
+
+
+
+
+
 
 ## ref 
 

@@ -58,7 +58,46 @@ TPS7A45xx Low-Noise Fast-Transient-Response 1.5-A Low-Dropout Voltage Regulators
 
 [LM78L - LM78L 100-mA Fixed Output Linear Regulator](https://www.ti.com/lit/ds/symlink/lm78l.pdf?ts=1769674083676)
 
+LM3940 1-A Low-Dropout Regulator for 5-V to 3.3-V Conversion
 
+The LM3940 is a 1-A low-dropout regulator designed to provide 3.3 V from a 5-V supply.
+
+
+## design 
+
+### parallel 
+
+Two LDOs cannot simply be paralleled to get double the current unless they are specifically designed for current sharing.
+
+Workaround - Add small ballast resistors (common workaround)
+
+    LDO1 ──0.1Ω──┐
+                ├── Vout
+    LDO2 ──0.1Ω──┘
+
+Resistors force current sharing
+
+Typical values: 50–200 mΩ
+
+Trade-offs:
+- Voltage drop
+- Worse load regulation
+- Extra heat
+
+⚠️ Still not ideal for high precision or high current
+
+Better solutions (recommended)
+
+Use one higher-current LDO
+- Simplest
+- Most reliable
+
+Use a switching regulator + LDO
+- Buck converter for current
+- LDO for low noise
+
+Use a regulator family designed for paralleling
+- Some PMICs allow this
 
 ## ref 
 

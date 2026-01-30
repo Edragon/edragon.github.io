@@ -188,7 +188,7 @@
 
 - [[USB-dat]] - [[USB-sys-dat]]
 
-- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]]
+- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]]
 
 
 
