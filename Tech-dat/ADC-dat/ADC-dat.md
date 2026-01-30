@@ -121,10 +121,13 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 - [[maxim-dat]] - MAX196/MAX198 - Multirange, Single +5V, 12-Bit DAS with 12-Bit Bus Interface
 
-
+- [[renesas-dat]]
 
 
 - [[analog-device-dat]] 
+
+
+
 
 
 

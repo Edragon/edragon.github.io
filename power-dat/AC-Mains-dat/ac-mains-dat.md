@@ -99,6 +99,8 @@
 
 - [[CR6842S-dat]] - [[chip-rail-dat]] - [[AC-mains-dat]] - [[OPM1114-dat]]
 
+- [[power-integrations-dat]]
+
 
 ## ref 
 

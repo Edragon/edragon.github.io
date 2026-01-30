@@ -15,3 +15,15 @@ dual mosfet template
 
 
 == [[auto-serial-dat]]
+
+
+## unsort 
+
+dual P mosfet 
+
+Dual P-Channel 30-V (D-S) MOSFET
+
+
+## ref 
+
+- [[mosfet-dat]]

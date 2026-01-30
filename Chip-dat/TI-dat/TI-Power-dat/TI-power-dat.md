@@ -56,6 +56,10 @@ TPS76350DBVR == 150-mA, 10-V, low-dropout voltage regulator with enable
 
 TPS7A45xx Low-Noise Fast-Transient-Response 1.5-A Low-Dropout Voltage Regulators - TPS7A4501, TPS7A4515, TPS7A4518, TPS7A4525, TPS7A4533
 
+[LM78L - LM78L 100-mA Fixed Output Linear Regulator](https://www.ti.com/lit/ds/symlink/lm78l.pdf?ts=1769674083676)
+
+
+
 ## ref 
 
 - [[TI-dat]]

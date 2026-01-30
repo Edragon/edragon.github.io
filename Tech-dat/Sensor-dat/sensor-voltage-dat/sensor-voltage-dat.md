@@ -8,6 +8,13 @@
 - [[TI-sensor-dat]]
 
 
+
+- [[comparator-dat]]
+
+
+
+
+
 ## ref 
 
 - [[sensor-dat]]

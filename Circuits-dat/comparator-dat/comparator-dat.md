@@ -42,6 +42,14 @@ Low-power single voltage comparator
 IC SINGLE SUP COMPARATOR(SO8) - AD8561ARZ
 
 
+## voltage comparator 
+
+MAX9202 - Low-Cost, 7ns, Low-Power Voltage Comparators
+
+![](2026-01-30-14-17-34.png)
+
+
+
 ## ref 
 
 - [[chip-dat]]

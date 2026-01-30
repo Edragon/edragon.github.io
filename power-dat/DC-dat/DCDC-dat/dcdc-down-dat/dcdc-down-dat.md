@@ -131,6 +131,8 @@ ME3116AM6G - 最高输入 40V 带载可达 1A 的 DC/DC 降压型稳压器 ME311
 
 ## other prebuild module 
 
+- [[renesas-dat]]
+
 - [[meanwell-dat]] 
 
 - [[Vicor-dat]]
@@ -158,6 +160,10 @@ The MGDM-25 series is a full family of high performance DC/DC power modules desi
 
 - [[traco-power-dat]]
 
+
+## high power dcdc-down regulator 
+
+[CBS350](https://docs.rs-online.com/9c4d/0900766b81389eef.pdf) == DC-DC Converters Power Module type == 300W - 350W - 12V 25A ~ 48V 7.3A
 
 
 

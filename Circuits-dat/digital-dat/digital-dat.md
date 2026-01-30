@@ -7,10 +7,13 @@
 
 - [[interface-dat]]
 
-- [[FPGA-dat]] - [[LVDS-dat]]
+- [[FPGA-dat]] - [[CPLD-dat]] - [[DSP-dat]] - [[LVDS-dat]] - [[CPU-dat]]
 
 
 - [[WCH-dat]]
+
+
+
 
 
 ## differential TX+/TX- RX+/RX-
