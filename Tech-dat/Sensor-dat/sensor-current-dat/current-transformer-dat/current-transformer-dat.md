@@ -2,10 +2,27 @@
 
 - [[current-sensor-dat]]
 
+
+
+## tech 
+
+
+- [[ZMCT103-dat]] == 1000:1 [[current-dat]] - [[current-transformer-dat]]
+  
+- [[ZMPT107-dat]] == 1000:1000 [[voltage-dat]] - [[ac-voltage-transformer-dat]] 
+
+
+
+## boards 
+
+- [[SVC1038-dat]] - [[SVC1042-dat]]
+
+
 ## PCB Mount 
 
 - [[zeming-dat]] - [[EDCT-dat]]
 
+- [[ZMCT103-dat]] == 1000:1 [[current-dat]] // - [[ZMPT107-dat]] == 1000:1000 [[voltage-dat]] || - [[current-transformer-dat]]
 
 ## Open Split Core Current Transformer
 

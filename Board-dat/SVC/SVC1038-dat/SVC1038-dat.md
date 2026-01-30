@@ -3,6 +3,22 @@
 
 This is an upgradion board from the old board [[SVC1035-dat]] 
 
+## tech 
+
+
+- [[ZMCT103-dat]] == 1000:1 [[current-dat]] - [[current-transformer-dat]]
+  
+- [[ZMPT107-dat]] == 1000:1000 [[voltage-dat]] - [[ac-voltage-transformer-dat]] 
+
+
+
+## boards 
+
+- [[SVC1038-dat]] - [[SVC1042-dat]] - [[SVC1035-dat]]
+
+
+
+
 ## Info
 
 [product url - VAC Energy Meter Power Sensor Board, HLW8032 Isolated V2 [Amp]](https://www.electrodragon.com/product/vac-energy-meter-power-sensor-board-hlw8032-isolated-version/)
@@ -36,7 +52,14 @@ Old Wiring
 
 - [[HLW8032-dat]]
 
+
+
+
+
+
 ## ref 
+
+- [[SVC1038-dat]] - [[SVC1042-dat]]
 
 - [[SVC1038]] 
 

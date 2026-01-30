@@ -8,9 +8,19 @@
 [legacy wiki page.](https://www.electrodragon.com/w/Energy_meter) 
 
 
+
+## tech 
+
+
+- [[ZMCT103-dat]] == 1000:1 [[current-dat]] - [[current-transformer-dat]]
+  
+- [[ZMPT107-dat]] == 1000:1000 [[voltage-dat]] - [[ac-voltage-transformer-dat]] 
+
+
+
 ## boards 
 
-- [[SVC1035-dat]] - [[SVC1038-dat]] - [[HLW8032-ISO-Version-dat]] by [[current-transformer]] and [[ac-voltage-transformer-dat]]
+- [[SVC1035-dat]] - [[SVC1038-dat]] - [[HLW8032-ISO-Version-dat]] - [[SVC1042-dat]]
 
 - basic isolated version [[SVC1031-dat]]
 
@@ -19,6 +29,10 @@
 retired version  - [[SVC1045-dat]]
 
 - [[HLW8012-dat]]
+
+
+
+
 
 ## Chip Info
 
