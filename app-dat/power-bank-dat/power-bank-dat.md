@@ -2,7 +2,15 @@
 # power-bank-dat
 
 
+
+## QC 
+
 digital display + [[QC-dat]] == 22.5W 
+
+
+
+
+- [[SW6201-dat]] - [[ismartware-dat]]
 
 - [[IP5356-dat]] - [[injoinic-dat]]
 
