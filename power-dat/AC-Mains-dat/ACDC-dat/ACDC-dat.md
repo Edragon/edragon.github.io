@@ -1,7 +1,8 @@
 
-# ACDC dat 
+# ACDC-dat 
 
 
+- [[ac-mains-dat]] - [[ACDC-dat]]
 
 ## tech 
 

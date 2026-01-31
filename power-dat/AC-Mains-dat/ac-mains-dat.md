@@ -2,6 +2,9 @@
 # ac-mains-dat
 
 
+- [[ac-mains-dat]] - [[ACDC-dat]]
+
+
 ## tech 
 
 - [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]]

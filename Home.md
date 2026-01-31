@@ -13,19 +13,20 @@
 
 - [[board-dat]] - [[board-series-dat]] - [[board-new-dat]] - [[board-3rd-dat]]
 
-- [[shipment-dat]] - [[service-dat]]
-
 - [[chip-dat]] - [[chip-cn-dat]]
 
 - [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[cable-dat]] - [[circuits-dat]]
 
-- [[power-dat]] - [[battery-dat]] - [[BMS-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]]
+- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]]
+
+- [[battery-dat]] - [[battery-BMS-dat]] 
+
 
 - [[network-dat]] - [[RC-dat]] - [[MQTT-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
-- [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] 
+- [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[PCB-design-dat]]
 
 - [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]]
 
@@ -34,7 +35,7 @@
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 
 
-- [[service-dat]] - [[discount-dat]]
+- [[service-dat]] - [[discount-dat]] - [[shipment-dat]] 
 
 
 
