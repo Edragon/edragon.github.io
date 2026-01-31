@@ -1,6 +1,12 @@
 
 # chemistry-dat
 
+
+- [[chemistry-dat]] - [[periodic-table-dat]]
+
+
+
+
 - [[PCB-cleaner-dat]]
 
 - [[battery-leakage-dat]]
