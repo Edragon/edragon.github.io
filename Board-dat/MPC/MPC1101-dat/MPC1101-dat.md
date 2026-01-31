@@ -5,13 +5,15 @@
 
 [product url - MISC Expander Shield for Raspberry Pi](https://www.electrodragon.com/product/misc-expander-shield-for-raspberry-pi/)
 
+
+
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
 - [[PCF8591-dat]] - [[DS3231-dat]] - [[RTC-dat]]
 
 - [[OLED-dat]]
 
-- [[PCF8574-dat]]
+- [[PCF8574-dat]] - [[io-expander-dat]]
 
 - [[interactive-dat]] - [[joystick-dat]]
 
@@ -19,7 +21,9 @@
 
 - [[ds18B20-dat]]
 
-- [[infrared-dat]]
+- [[infrared-dat]] - [[led-dat]] - [[L293-dat]]
+
+- [[74xx-dat]]
 
 ## Applications, category, tags, etc. 
 
@@ -42,6 +46,7 @@
 - 0x68
 - 0xUU
 
+https://github.com/Edragon/RPI
 
 ## ref 
 

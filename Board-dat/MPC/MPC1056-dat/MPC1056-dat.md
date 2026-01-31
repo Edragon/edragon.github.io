@@ -33,6 +33,8 @@ lora legacy wiki page https://www.electrodragon.com/w/SX1278#Lora_Shield_for_RPI
 
 - [[LED-dat]]
 
+
+
 ## default pin setup 
 
 | Function   | Pin             | alternatives | Description                     |
@@ -71,6 +73,10 @@ V2.1:
 
 
 ![](2024-08-05-16-48-14.png)
+
+Default 
+
+- support [[OLED-dat]] via [[I2C-dat]] interface 
 
 
 ## demo video 

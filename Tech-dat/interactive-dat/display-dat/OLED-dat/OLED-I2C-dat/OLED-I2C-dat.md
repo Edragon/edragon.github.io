@@ -1,3 +1,4 @@
 
 # OLED-I2C-dat
 
+- GND VCC SCL SDA 

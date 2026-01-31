@@ -40,6 +40,13 @@ long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] -
 
 - [[footprint-dat]] - [[DC40-dat]]
 
+- [[io-expander-dat]] 
+
+- [[ADC-dat]] - [[DAC-dat]]
+
+
+
+
 ## Breakout boards 
 
 [[RS232-dat]] breakout

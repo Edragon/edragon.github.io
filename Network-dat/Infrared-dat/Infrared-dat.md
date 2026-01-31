@@ -53,6 +53,12 @@ demo
 
 ![](2024-12-20-18-08-22.png)
 
+drive 2 
+
+![](2026-01-31-16-37-23.png)
+
+drive 3 
+
 ![](2025-02-18-17-05-16.png)
 
 
@@ -79,6 +85,8 @@ legacy wiki page - [Infrared for RPI](https://www.electrodragon.com/w/index.php?
 - https://github.com/Edragon/Infrared
 
 - [[IR-rover-rc.ino]]
+
+- LIRC 
 
 
 ## ref 

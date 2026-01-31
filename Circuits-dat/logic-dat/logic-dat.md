@@ -3,14 +3,7 @@
 
 - [[circuits-dat]]
 
-- Tri-State buffers = 74HC126 = SN74HC126DR - SOIC-14
-- PISO = 74HC165 = 0.04 - SOIC 16 - Package_SO:SOIC-16_3.9x9.9mm_P1.27mm - SOIC-16 - Nexperia(安世)
-- SIPO = 74HC595 = 0.035 - Nexperia(安世) 封装: SOIC-16
-- 74HC590 - ?? 
-
-- 7404
-
-- [[74HC590-dat]] - [[74HC595-dat]] - [[74HC126-dat]]
+- [[74xx-dat]]
 
 
 
@@ -32,6 +25,29 @@
 - [[ADC-dat]] - [[DAC-dat]]
 
 - [[Digital-Synthesizer-dat]]
+
+
+## logic 
+
+- [[TTL-dat]] - [[CMOS-dat]] - [[logic-dat]]
+
+TTL vs CMOS (quick comparison)
+
+| Feature           | TTL         | CMOS             |
+| ----------------- | ----------- | ---------------- |
+| Supply voltage    | Fixed ~5 V  | Wide (1.8–5 V+)  |
+| Power consumption | High        | Very low         |
+| Speed             | Medium–High | Medium–Very High |
+| Input impedance   | Low         | Very high        |
+| Noise margin      | Smaller     | Larger           |
+| Modern usage      | Rare        | Dominant         |
+
+**3.3 V logic is CMOS, not TTL.**
+
+**CMOS = Complementary Metal-Oxide-Semiconductor**
+
+**TTL = Transistor-Transistor Logic**
+
 
 
 

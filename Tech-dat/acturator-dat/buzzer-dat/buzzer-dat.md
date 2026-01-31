@@ -60,7 +60,9 @@ simple drive
 
 ![](2025-08-21-18-53-59.png)
 
+high drive - [[transistor-dat]]
 
+![](2026-01-31-16-35-14.png)
 
 
 

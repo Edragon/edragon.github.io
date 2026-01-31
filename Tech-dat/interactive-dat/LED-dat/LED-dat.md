@@ -112,6 +112,12 @@ LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15m
 
 ![](2026-01-19-13-14-43.png)
 
+- [[logic-dat]] convert for [[RPI-SBC-dat]]
+
+![](2026-01-31-16-22-50.png)
+
+
+
 ## tech 
 
 - [[ACDC-dat]]

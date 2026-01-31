@@ -99,6 +99,10 @@ the most easy to use library for ESP
 ![](2024-07-10-01-21-40.png)
 
 
+## RPI-I2C
+
+GPIO2 and GPIO3 
+
 ## setup for RPI I2C 
 
 Driver Installing

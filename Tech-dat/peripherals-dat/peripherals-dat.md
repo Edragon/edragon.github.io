@@ -2,11 +2,14 @@
 # peripherals-dat
 
 
-- [[PCB-design-dat]] - [[peripherals-dat]]
+- [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]
+
 
 - [[interface-dat]]
 
 - [[indicator-dat]] - [[WS2812-dat]] - [[LED-dat]] - [[7-seg-dat]] - [[LCD-dat]] - [[OLED-dat]] - [[interactive-dat]]
+
+- [[interface-interactive-dat]] - [[display-dat]] - [[OLED-dat]]
 
 
 - [[CPU-dat]] - [[memory-dat]] - [[programming-dat]]
@@ -15,19 +18,18 @@
 
 - [[ADC-dat]]
 
-- [[RTC-dat]]
+- [[RTC-dat]] - [[clock-dat]] 
 
 - [[USB-dat]] - [[USB-OTG-dat]]
 
 - [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-Camera-dat]] - [[DHT11-dat]] - [[sensor-light-dat]]
 
-- [[interface-interactive-dat]] - [[display-dat]]
 
 - [[memory-dat]] - [[sd-dat]]
 
 - [[serial-dat]] - [[auto-serial-dat]]
 
-- [[interactive-dat]] - [[button-dat]] - [[switch-dat]] - [[keyboard-dat]]
+- [[interactive-dat]] - [[button-dat]] - [[switch-dat]] - [[keyboard-dat]] - [[infrared-dat]]
 
 - [[acturator-dat]] - [[buzzer-dat]]
 
@@ -35,7 +37,11 @@
 
 - [[DMA-dat]]
 
-- [[clock-dat]]
+- [[io-expander-dat]]
+
+
+
+
 
 ## other categories
 
