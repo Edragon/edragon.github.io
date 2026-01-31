@@ -1,6 +1,9 @@
 
 # Logic-shifter-dat
 
+
+
+
 ## board 
 
 - [[MSP1007-dat]]
@@ -76,9 +79,9 @@ Make sure the VCCA ≤VCCB.
 
 ![](2026-01-19-13-32-40.png)
 
+3.3V tolerant to [[RPI-SBC-dat]]
 
-
-
+![](2026-01-31-13-07-52.png)
 
 
 ## unsort 

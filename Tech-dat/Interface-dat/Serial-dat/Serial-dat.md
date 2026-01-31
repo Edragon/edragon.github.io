@@ -45,7 +45,7 @@ from the perspective of the cable to the perspective of the target
 
 - [[CP2102-dat]] - [[DPR1003-dat]], [[DPR1005-dat]] == replaceable by [[WCH-dat]] 
 
-- [[CP2104-dat/CP2104-dat]]
+- [[CP2104-dat]]
 
 - [[FT232-dat]] - [[DPR1029-dat]] - [[FTDI-dat]]
 

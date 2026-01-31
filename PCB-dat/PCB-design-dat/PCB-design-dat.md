@@ -3,7 +3,9 @@
 
 - [[PCB-design]] - [[PCB]]
 
-- [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]]
+- [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]]
+
+
 
 - [[PCB-dat]] 
 

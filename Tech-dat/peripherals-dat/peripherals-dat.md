@@ -2,7 +2,7 @@
 # peripherals-dat
 
 
-
+- [[PCB-design-dat]] - [[peripherals-dat]]
 
 - [[interface-dat]]
 
