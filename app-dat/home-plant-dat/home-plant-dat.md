@@ -8,7 +8,7 @@
 
 - [[home-plant-dat]] - [[full-spectrum-light-dat]] - [[ph-tester-dat]]
 
-- [[sensor-moisture-dat]]
+- [[sensor-soil-dat]] - [[sensor-moisture-dat]]
 
 - [[humidifier-dat]]
 
