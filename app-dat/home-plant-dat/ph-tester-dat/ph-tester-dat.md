@@ -179,6 +179,21 @@ Important: this is not a true pH measurement because the system lacks a glass me
 | Durability                | Metals oxidize, especially the non-coated (darker) probe, reducing lifetime                                 |
 
 
+如果你一定要用金属棒 + ADC：
+
+银棒 → 尽量做成 Ag/AgCl（表面氯化）
+
+不锈钢 → 作为测量电极
+
+前端必须加 超高阻缓冲运放
+
+用 2–3 个已知 pH 缓冲液做校准
+
+接受 ±1~2 pH 的巨大误差
+
+这仍然 不是标准 pH 计。
+
+
 
 ## ref
 

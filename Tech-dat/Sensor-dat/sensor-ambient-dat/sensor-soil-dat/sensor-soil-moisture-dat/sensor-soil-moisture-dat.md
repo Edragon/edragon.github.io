@@ -1,5 +1,10 @@
 
-# sensor-moisture-dat
+# sensor-soil-moisture-dat
+
+
+- [[sensor-soil-dat]]
+
+
 
 ## board 
 
