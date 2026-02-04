@@ -74,7 +74,7 @@ SMA to IPEX converter cable
 ## Connection Type 
 
 - Wire or Pin Soldering
-- u.FL IPEX  - [[ipex-dat]]
+- u.FL IPEX  - [[CONN-ipex-dat]]
 - SMA inner-hole or inner-pin
 
 该SMT型同轴带开关连接器
