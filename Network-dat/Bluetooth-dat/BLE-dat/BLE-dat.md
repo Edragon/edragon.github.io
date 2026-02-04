@@ -76,7 +76,7 @@ For Android devices, you can directly install the following apps:
 
 - https://play.google.com/store/apps/dev?id=7265678888812659353&hl=en_US
 
-- [[JDY-dat]] - [[JDY-25M-dat]] 
+- [[JDY-dat/EY-dat]] - [[JDY-25M-dat]] 
 
 - Wireshark 
 

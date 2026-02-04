@@ -1,7 +1,7 @@
 
-# JDY-25M-dat
+# EY-25M-dat
 
-legacy wiki page - https://www.electrodragon.com/w/JDY-25M
+[legacy wiki page](https://www.electrodragon.com/w/EY-25M)
 
 
 - 电源（1.8-3.6V）
@@ -59,7 +59,7 @@ legacy wiki page - https://www.electrodragon.com/w/JDY-25M
 | 2    | AT+RESET     | 复位                                | -                |
 | 3    | AT+VERSION   | 固件版本                            | -                |
 | 4    | AT+LADDR     | 读 MAC 地址                         | -                |
-| 5    | AT+NAME      | 广播名读写                          | JDY-25M          |
+| 5    | AT+NAME      | 广播名读写                          | EY-25M          |
 | 6    | AT+PIN       | 连接密码设置                        | 123456           |
 | 7    | AT+TYPE      | 是否打开密码连接方式                | 0                |
 | 8    | AT+BAUD      | 波特率                              | 9600             |
@@ -161,7 +161,7 @@ UUID List
 
 ## FAQ 
 
-If the transmission distance is relatively long, will it extend the network transmission distance if JDY-24M/25M is placed every several dozen meters?
+If the transmission distance is relatively long, will it extend the network transmission distance if EY-24M/25M is placed every several dozen meters?
 - Answer: Yes
 
 ![](2024-06-07-15-11-10.png)
@@ -209,8 +209,7 @@ Control the OUT1 pin of target 0008 to be low level, and there is an ACK respons
 
 - [[BLE-dat]]
 
-- https://github.com/Edragon/JDY-25M
 
-- [[JDY-25M Super Bluetooth Module Manual.pdf]]
+- [[EY-25M Super Bluetooth Module Manual.pdf]]
 
-- [[JDY-dat]]
+- [[EY-dat]]

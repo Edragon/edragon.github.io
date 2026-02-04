@@ -9,6 +9,8 @@
 
 - [[STM32-dat]] - [[STM32-clone-dat]]
 
+- [[STM8-dat]]
+
 - [[microchip-MCU-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
 - [[STC-dat]] - [[PIC-dat]] - [[nuvoton-dat]] - [[WCH-dat]]
@@ -20,6 +22,8 @@
 - [[allwinner-dat]]
 
 - [[STC-dat]]
+
+
 
 
 ## other types 

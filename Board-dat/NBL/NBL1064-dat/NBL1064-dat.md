@@ -9,13 +9,17 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
+- [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]]
+
 ![](2026-01-08-15-46-06.png)
 
-on board chip [[STM8-dat]]
 
-main bluetooth chip: BC417143B1 - [[BC04-dat]] - https://w.electrodragon.com/w/Category:BC-04 - [[NBL1022-dat]]
+on board chip [[STM8-dat]] - [[MCU-dat]]
 
-SCH 
+
+
+
+#### SCH 
 
 ![](2026-01-08-15-51-43.png)
 

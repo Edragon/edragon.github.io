@@ -27,6 +27,9 @@ Main advantage: high-speed communication. When connected via SPP to a phone or P
 ![](2026-02-04-18-13-55.png)
 
 
+## boards 
+
+- [[NBL1064-dat]]
 
 ## ref 
 

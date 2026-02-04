@@ -27,7 +27,7 @@
 
 - high price == [[NBL1064-dat]] == [Bluetooth IO Control Board EDR 2.0, BLK_IO](https://www.electrodragon.com/product/bluetooth-io-control-board-edr-2-0-blk_io/)
 
-
+- [[NBL1022-dat]]
 
 
 
