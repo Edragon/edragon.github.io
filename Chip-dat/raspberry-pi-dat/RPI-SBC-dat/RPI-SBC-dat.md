@@ -21,6 +21,9 @@
 
 - [[raspberry-pi-dat]]
 
+- [[3D-dat]]
+
+
 ### power delivery 
 
 In summary, the Raspberry Pi 3 can deliver a maximum of 50 mA to 150 mA from the 3.3V GPIO pins, but care should be taken not to exceed the individual pin limit of 16 mA for each GPIO pin. Always ensure that the total current drawn does not exceed the recommended limits to avoid damaging the board.
@@ -37,6 +40,11 @@ All Raspberry Pi since the Model B+ can provide quite a bit more, up to 500mA to
 ## I2C 
 
 - turn on I2C functions at [[raspi-config]]
+
+
+
+
+
 
 
 ## ref 

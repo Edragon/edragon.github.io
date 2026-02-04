@@ -12,8 +12,9 @@
 
 - [[glue-dat]]
 
+- [[CAD-dat]]
 
-- [[CNC-dat]] - [[CAD-dat]]
+
 
 - [[heatsink-dat]]
 
@@ -59,7 +60,7 @@ mechanics-dat
 
 [[bearing-dat]] - [[nut-dat]]
 
-[[CNC-dat]] - [[CAD-dat]]
+[[CNC-dat]] 
 
 [[heatsink-dat]]
 

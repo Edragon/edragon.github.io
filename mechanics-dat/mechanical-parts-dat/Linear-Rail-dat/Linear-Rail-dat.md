@@ -1,6 +1,10 @@
 
 # Linear-Rail-dat
 
+
+- HGR20 - https://grabcad.com/library/hgr20-linear-guide-subassembly-configurable-rail-length-150-4000-mm-1
+
+
 ## MGN12H_600mm
 
 - length = 600m 

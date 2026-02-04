@@ -45,4 +45,4 @@ Specs:
 
 - read tds hex data: https://github.com/Edragon/Arduino-main/blob/master/Sketchbook/Sensor/TF-TDS/TF-TDS-01/TF-TDS-01.ino
 
-- [[water-sensor-dat]]
+- [[sensor-water-dat]]

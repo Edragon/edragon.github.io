@@ -5,6 +5,14 @@
 
 - [[bt-debug-dat]]
 
+- [[BT-dual-mode-dat]]
+
+- [[BLE-dat]] - [[BT-SPP-dat]] - [[BT4.0-dat]] - [[ibeacon-dat]] - [[mesh-node-dat]]
+
+- [[BLE-SDK-dat]]
+
+
+
 
 
 
@@ -76,6 +84,29 @@ demo video
 
 - [[TI-network-dat]] - [[nordic-dat]]
 
+
+## working mode 
+
+- [[MCU-dat]] - [[serial-dat]] - [[NBL1064-dat]]
+
+![](2026-02-04-17-58-10.png)
+
+
+
+
+## master and slave mode 
+
+![](2026-02-04-18-06-48.png)
+
+
+master connect to multiple slave mode 
+
+![](2026-02-04-18-09-37.png)
+
+
+slave connect to multiple master mode 
+
+![](2026-02-04-18-10-39.png)
 
 ## ref 
 

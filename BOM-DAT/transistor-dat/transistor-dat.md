@@ -116,7 +116,7 @@ common brand: 	Infineon
 
 PBSS5350Z - 50 V, 3 A PNP low VCEsat transistor
 
-
+MMBT3904
 
 ## ref 
 

@@ -12,6 +12,8 @@
 
 - [[humidifier-dat]]
 
+- [[sensor-water-dat]] - [[STH1078-dat]]
+
 
 ## type 
 

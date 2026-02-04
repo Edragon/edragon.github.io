@@ -4,6 +4,9 @@
 legacy wiki page - https://www.electrodragon.com/w/Category:Arduino
 
 
+
+
+
 ## boards 
 
 - [[arduino-uno-dat]] - [[arduino-pro-mini-dat]] - [[arduino-nano-dat]] - [[arduino-leonardo-dat]]
@@ -27,6 +30,12 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 - [[arduino-code-v1-dat]] - [[arduino-lib-dat]]
 
 - [[usbasp-dat]] - [[avr-dat]] - [[avr-sdk-dat]]
+
+
+- arduino pro micro - [[3D-dat]] - https://grabcad.com/library/arduino-pro-micro-4
+
+
+
 
 
 ## arduino nano BLE 33
