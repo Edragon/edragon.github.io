@@ -1,7 +1,7 @@
 
 # LED-dat
 
-- [[infrared-led-dat]]
+- [[led-infrared-dat]]
 
 - [[LED-strip-dat]] 
  
@@ -9,11 +9,21 @@
 
 
 
+## types 
+
+- [[LED-dat]] - [[LED-dual-dat]] - [[LED-5730-dat]]
+
+- [[rgb-led-dat]]
+
+- [[WS2812-dat]]
+
+
+
 ## functional LEDs 
 
 - [[LED-UVA-dat]]
 
-- [[RGB-led-dat]]
+
 
 
 ## LED driver boards  
