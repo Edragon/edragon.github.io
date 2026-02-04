@@ -14,3 +14,8 @@
     - Cost-effective
   - Appearance:
     - Slim vertical rod inside heat shrink tubing
+
+
+## ref 
+
+- [[antenna-dat]]

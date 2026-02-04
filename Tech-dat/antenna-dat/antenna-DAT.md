@@ -14,13 +14,16 @@ type of antennas by power == [[antenna-active-dat]] - [[antenna-passive-dat]]
 
 type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]] - [[GSM-antenna-GPS-dat]] - [[antenna-RF-dat]] - [[antenna-2.4G-dat]]
 
-type of antennas by connector == [[antenna-SMA-dat]] - [[antenna-IPEX-dat]] - [[antenna-UFL-dat]]
-
-- [[CONN-SMA-dat]] - [[CONN-IPEX-dat]] 
+type of antennas by connector == - [[CONN-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]] - [[antenna-UFL-dat]]
 
 - [[3in1-antenna-dat]]
 
 - [[antenna-lolipop-dat]]
+
+
+
+
+
 
 # Antenna Comparison Table
 
@@ -166,6 +169,18 @@ BAL-NRF01D3
 better NO PCB under the antenna 
 
 ![](2026-01-18-12-37-39.png)
+
+
+
+## external antenan 
+
+- [[anteann-external-dat]]
+
+![](2026-02-04-20-18-55.png)
+
+- [[antenan-PCB-dat]]
+
+![](2026-02-04-20-18-45.png)
 
 
 ## ref
