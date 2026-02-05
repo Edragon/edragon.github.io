@@ -69,7 +69,7 @@ and more - [[IBUS-dat]] - [[PPM-dat]] - [[FPort-dat]] - [[SPEKTRUM-dat]] - [[SUM
 
 - [[openwrt-dat]]
 
-- [[zigbee-dat]] - [[openthread-dat]] - [[micropython-dat]]
+- [[zigbee-dat]] - [[openthread-dat]] - [[micropython-dat]] - [[thread-dat]]
 
 
 ## RF boards 

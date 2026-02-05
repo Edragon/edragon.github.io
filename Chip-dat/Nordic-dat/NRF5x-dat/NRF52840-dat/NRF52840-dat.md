@@ -6,7 +6,8 @@
 
 
 
-- [[NRF52832-dat]]
+- [[NRF5x-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]] - [[nordic-dat]]
+
 
 
 | Feature                     | nRF52805 | nRF52810 | nRF52811 | nRF52820 | nRF52832 | nRF52833 | nRF52840 | nRF5340 |
@@ -113,7 +114,19 @@
 | P1.14    | GPIO         |                |                    |
 | P1.15    | GPIO         |                |                    |
 
+The nRF52840 has two TWI (Two-Wire Interface/I2C) master instances: TWIM0 and TWIM1. You can configure them to use any pins through the Pin Selection Registers (PSEL). - [[I2C-dat]]
 
+If you are using a development board, the software libraries (like Arduino or Zephyr) usually default to these:
+
+nRF52840 Development Kit (PCA10056):
+
+- SDA: P0.26
+- SCL: P0.27
+
+Adafruit Feather nRF52840:
+
+- SDA: P0.25 (Physical Pin 25)
+- SCL: P0.26 (Physical Pin 26)
 
 ## solutions 
 
@@ -130,6 +143,10 @@
 
 - button == P1.10 
 - REST == P0.18/RESET 
+
+- I2C == P0.26 / P0.27 
+- BAT_ADC == P0.04
+- SPI == P1.12 ~ P1.15 
 
 ## SCH2 Module 
 
