@@ -180,6 +180,10 @@ https://github.com/dragino/Lora
 
 
 
+## build apps 
+
+- [[NRF52840+SX1262-dat]] - [[lora-dat]] - [[bluetooth-dat]]
+
 
 ## ref
 

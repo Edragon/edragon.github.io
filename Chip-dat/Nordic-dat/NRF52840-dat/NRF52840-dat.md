@@ -117,7 +117,11 @@
 
 ## solutions 
 
-- [[NRF52840+SX1262-dat]]
+- [[NRF52840+SX1262-dat]] - [[lora-dat]] - [[bluetooth-dat]]
+
+
+
+
 
 ## NRF52840 SCH 
 

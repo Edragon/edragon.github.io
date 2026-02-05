@@ -79,6 +79,14 @@ demo video
 
 - [[iBeacon-dat]]
 
+- [[NRF52840+SX1262-dat]] - [[lora-dat]] - [[bluetooth-dat]]
+
+- [[head-track-dat]]
+
+
+
+
+
 
 ## Chip 
 

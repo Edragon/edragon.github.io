@@ -75,6 +75,13 @@ Make sure the VCCA ≤VCCB.
 
 ![](2026-01-19-13-32-16.png)
 
+
+general 5V-3V3 logic 
+
+![](2026-02-05-20-24-24.png)
+
+
+
 - [[arduino-dat]] to 3.3V [[location-dat]] == [[SPI-dat]]
 
 ![](2026-01-19-13-32-40.png)
