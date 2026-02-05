@@ -13,6 +13,11 @@
 - [[silergy-dat]]
 
 
+
+
+
+
+
 ## chips 
 
 - [[XL-dat]] - [[XL4015-dat]] - [[XL1509-dat]]
@@ -24,9 +29,12 @@
 - [[MPS-dat]] - [[intel-dat]]
 
 
-## DCDC down module 
+## DCDC down module boards 
 
-- [[OPM1153-dat]]
+- [[OPM1153-dat]] - [[OPM1104-dat]]
+
+
+
 
 
 ### LM2596 = input 3~40V

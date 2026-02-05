@@ -11,6 +11,10 @@ board - red
 https://www.electrodragon.com/product/mp2315-mini-dc-step-power-module-1224v-5v3a/
 
 
+[[OPM1104-dat]] - the USB version - [[OPM1106-dat]]
+
+## ref 
+
 - [[MPS-dat]] - [[MP2315-dat]]
 
 - [[OPM1106]]
