@@ -4,7 +4,7 @@
 
 - [[MAX3241-dat]] == 3.0V to 5.5V, Low-Power, Up to 1Mbps, True RS-232 Transceivers
 
-- [{RS232-dat}]
+- [[RS232-dat]] - [[RS422-dat]] - [[RS485-dat]]
 
 
 - [[ds3231-dat]] - [[max30102-dat]] - [[max31865-dat]] - [[max98357-dat]] - [[LTC4054-dat]] - [[MAX6675-dat]] - [[MAX31855-dat]]
@@ -13,7 +13,7 @@
 
 - [[AD8605-dat]] - [[AD8607-dat]] - [[OP-amp-dat]]
 
-
+- [[LVDT-dat]] - [[signal-dat]]
 
 
 - ad7190-dat

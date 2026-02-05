@@ -7,8 +7,6 @@
 
 - [[circuits-dat]]
 
-- [[chip-dat]] - [[chip-cn-dat]]
-
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
 - [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
@@ -193,6 +191,7 @@
 
 - [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]]
 
+- [[filter-dat]]
 
 
 ## Utilities 
@@ -261,6 +260,13 @@
 - [[opensource-dat]] - [[flipper-zero-dat]] - [[openpnp-dat]] - [[ardupilot-dat]] - [[meshtastic-dat]] - [[home-assistant-dat]]
 
 - [[solutions-dat]]
+
+
+## chips 
+
+- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]]
+
+- [[chip-cn-dat]]
 
 
 

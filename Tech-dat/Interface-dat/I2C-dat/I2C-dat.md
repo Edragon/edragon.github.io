@@ -189,6 +189,8 @@ initiate check
 
 ## ref 
 
+[legacy wiki page](https://www.electrodragon.com/w/IIC)
+
 - https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/#1
 
 

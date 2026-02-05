@@ -2,6 +2,8 @@
 # ADC-dat
 
 
+- [[DAC-dat]]
+
 normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 
@@ -132,7 +134,7 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 - [[analog-device-dat]] 
 
-
+AD7366/AD7367 - True Bipolar Input, Dual 12-Bit/14-Bit, 2-Channel, Simultaneous Sampling SAR ADC
 
 
 

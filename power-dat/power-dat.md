@@ -29,11 +29,11 @@
 
 - [[Power-distribution-dat]]
 
-- [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]]
+- [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]] - [[power-detector-dat]] - [[power-amplifier-dat]]
 
 - [[constant-current-dat]]
 
-- [[power-detector-dat]] - [[power-amplifier-dat]]
+
 
 ## power design workflow
 

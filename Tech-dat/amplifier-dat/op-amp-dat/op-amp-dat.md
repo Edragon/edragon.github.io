@@ -63,6 +63,9 @@ LM6142 - Series Operational Amplifiers - Op Amps
 
 - [[3peak-dat]] - [[3peak]]
 
+OPA2277UA - OPAx277 High Precision Operational Amplifiers
+
+
 ## ref 
 
 - [[logic-dat]]

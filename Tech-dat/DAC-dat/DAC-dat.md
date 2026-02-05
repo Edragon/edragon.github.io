@@ -38,8 +38,10 @@ AD9734/AD9735/AD9736 - 10-/12-/14-Bit, 1200 MSPS DACS
 
 AD9772AASTZ
 
-
+AD7564 - LC2MOS +3.3 V/+5 V, Low Power, Quad 12-Bit DAC
 
 ## ref 
 
 - [[ADC-dat]] - [[audio-dat]]
+
+- [[signal-dat]]

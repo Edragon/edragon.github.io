@@ -1,6 +1,11 @@
 
 # voltage-reference-dat
 
+
+- [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]] - [[power-detector-dat]] - [[power-amplifier-dat]]
+
+
+
 == V_ref 
 
 
@@ -61,10 +66,15 @@ for ADC-AVDD
 
 ADM708SARZ
 
-
+ADR01/ADR02/ADR03/ADR06 - Ultracompact, Precision 10.0 V/5.0 V/2.5 V/3.0 V Voltage References
 
 ## ref 
 
 - [[tech-dat]] 
 
 - [[voltage-reference]]
+
+- [[power-dat]]
+
+
+

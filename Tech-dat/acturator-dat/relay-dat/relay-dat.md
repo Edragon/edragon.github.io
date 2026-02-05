@@ -109,6 +109,12 @@ For fast-switching applications, a 1N5819 Schottky diode (rated 40V, 1A) might b
 
 
 
+
+## chips 
+
+- [[relay-dat]] - [[IOR-dat]] - [[chip-dat]]
+
+
 ## ref 
 
 - [[transistor-dat]]

@@ -1,6 +1,9 @@
 
 # Infineon-dat.md
 
+
+- [[IOR-dat]]
+
 - [[IRF540N-dat]] - [[IRF8313-dat]] - [[F5305-dat]] 
 
 IRF1404
@@ -13,7 +16,7 @@ IRF3205
   
 - [[IRF8313-dat]]
 
-
+IRF530N - IRF530NPbF HEXFETÆ Power MOSFET
 
 
 ## motor contorl 

@@ -13,6 +13,12 @@
 
 - [[LVDS-dat]]
 
+- [[adc-dat]] - [[dac-dat]]
+
+- [[comparator-dat]] - [[circuits-dat]]
+
+
+
 
 ## unsort 
 

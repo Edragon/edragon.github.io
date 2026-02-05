@@ -1,6 +1,31 @@
 
 # xilinx-dat
 
+
+## CPLD 
+
+
+
+* XC9572XL
+
+XILINX - CPLD 
+
+* XC9536xl - 10
+* XL9572xl - 12
+
+* XC2C64 - 22
+* XC2C32A - 32/44 pin
+
+XC3S700A-4FG400C == Spartan®-3A Field Programmable Gate Array (FPGA) IC 311 368640 13248 400-BGA
+
+XCR3064XL 64 Macrocell CPLD
+
+
+
+
+
+## FPGA 
+
 HW-USB-II-G == Platform Cable USB II == EEPROM, FPGA, PLD - Programmer (In-Circuit/In-System)
 
 - [[AMD-dat]]

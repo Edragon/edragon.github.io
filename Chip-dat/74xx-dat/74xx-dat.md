@@ -93,6 +93,8 @@ L L
 
 - `74HC244` == Octal 3-State Noninverting Buffer/Line Driver/Line Receiver MC74HC244A, MC74HCT244A
 
+74HC244D
+
 
 
 - 74HC240

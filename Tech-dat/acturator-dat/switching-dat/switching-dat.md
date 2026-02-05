@@ -68,6 +68,8 @@ ADRF5019BCPZN
 
 HMC349AMS8GE
 
+ADG436 - Dual SPDT Switch
+
 
 
 ## ref 

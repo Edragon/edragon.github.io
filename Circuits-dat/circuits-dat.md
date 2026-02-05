@@ -9,7 +9,7 @@
 
 - [[protection-dat]]
 
-- [[differential-signal-dat]]
+- [[differential-signal-dat]] - [[signal-dat]]
 
 - [[MMA7660-dat]] - [[SD-card-dat]]
 

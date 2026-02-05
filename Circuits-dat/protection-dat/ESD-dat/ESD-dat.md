@@ -42,3 +42,24 @@ This creates a **clamp/protection circuit**:
 👉 This is often used as an **ESD protection** or **logic level protection** for sensitive inputs.
 
 ![](2025-10-02-18-59-04.png)
+
+
+## chip 
+
+- [[onsemi-dat]] 
+
+NUP4201MR6T1G - Transient Voltage Suppressors
+
+ESD Protection Diodes with Low Clamping Voltage
+
+The NUP4201MR6 transient voltage suppressor is designed to protect high speed data lines from ESD, EFT, and lighting.
+
+TSOP−6 LOW CAPACITANCE DIODE TVS ARRAY 500 WATTS PEAK POWER 6 VOLTS
+
+
+
+
+
+## ref 
+
+- [[protection-dat]]

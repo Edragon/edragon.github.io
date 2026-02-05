@@ -1,6 +1,48 @@
 
 # TI-power-dat
 
+
+## LDO 
+
+LP3853/LP3856 3A Fast Response Ultra Low Dropout Linear Regulators
+
+FEATURES
+- Ultra Low Dropout Voltage
+- Stable with Selected Ceramic Capacitors
+- Low Ground Pin Current
+- Load Regulation of 0.08%
+- 10nA Quiescent Current in Shutdown Mode
+- Ensured Output Current of 3A DC
+- Available in TO-263 and TO-220 Packages
+- Output Voltage Accuracy ± 1.5%
+- Error Flag Indicates Output Status
+- Sense Option Improves Load Regulation 
+- Overtemperature/overcurrent Protection 
+- -40°℃ to +125°C Junction Temperature Range
+
+
+## buck regulator 
+
+LM2853 3-A 550-kHz Synchronous Buck Regulator 
+
+- • Input Voltage Range of 3 V to 5.5 V
+- • Factory EEPROM Set Output Voltages From 0.8 V to 3.3 V in 100 mV Increments
+- • Maximum Load Current of 3A
+- • Voltage Mode Control
+- • Internal Type-Three Compensation
+- • Switching Frequency of 550 kHz
+- • Low Standby Current of 12 µA
+- • Internal 40 mΩ MOSFET Switches
+- • Standard Voltage Options – 0.8/1.0/1.2/1.5/1.8/2.5/3.0/3.3 Volts
+- • Exposed Pad 14-Lead HTSSOP (PWP) Package
+
+
+## info 
+
+- [[DCDC-down-dat]] - [[LDO-dat]]
+
+
+
 - [[TPS54302-dat]] - [[LM2596-dat]]
 
 - [[TPS5430-dat]]

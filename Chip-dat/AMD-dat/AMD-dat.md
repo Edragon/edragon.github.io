@@ -2,7 +2,7 @@
 # AMD-dat
 
 
-- [[ZYNQ-dat]]
+- [[ZYNQ-dat]] - [[CPLD-dat]]
 
 
 AMD Ryzen Embedded 8000 SoCs 
@@ -21,6 +21,10 @@ FPGA
 XCZU42DR-L2FSVE1156I - SoC FPGA XCZU42DR-L2FSVE1156I
 
 - [[xilinx-dat]]
+
+
+
+
 
 
 ## ref 

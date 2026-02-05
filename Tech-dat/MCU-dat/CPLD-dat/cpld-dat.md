@@ -1,6 +1,10 @@
 
 # cpld dat 
 
+
+- [[XILINX-dat]]
+
+
 ## boards 
 
 - [[DODS044-dat]] - [[DODS042-dat]]
@@ -29,17 +33,6 @@ do NOT plug the JTAG cable while powering UP !!
 - [[EPM240-dat]] - [[EPM570-dat]]
 
 
-### Xilinx
-
-* XC9572XL
-
-XILINX - CPLD 
-
-* XC9536xl - 10
-* XL9572xl - 12
-
-* XC2C64 - 22
-* XC2C32A - 32/44 pin
 
 
 ### Intel / Altera

@@ -31,6 +31,9 @@ PIC16F18877
 
 ![](2025-10-23-14-45-28.png)
 
+PIC16F84A - 18-pin Enhanced FLASH/EEPROM 8-bit Microcontroller
+
+
 
 ## ref 
 
