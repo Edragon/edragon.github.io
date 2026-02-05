@@ -61,4 +61,7 @@ Pin out
 
 ## ref 
 
+
+[legacy wiiki page](https://w.electrodragon.com/w/1602_LCD)
+
 - [[LCD-dat]]

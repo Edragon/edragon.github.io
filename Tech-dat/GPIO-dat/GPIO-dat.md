@@ -14,7 +14,13 @@ GPIOS (Giant Pixel Interleaved Octal Shifts) is a method used in data storage an
 
 - [[MSP1072-dat]] - [[MSP1064-dat]] - [[MSP1069-dat]]
 
+- [[ADC-DAT]] - [[DAC-dat]] - [[IO-expander-dat]] - [[GPIO-dat]] - [[I2C-dat]]
 
+- [[MSP1064-dat]] - [[PCF8591-dat]]
+
+- [[MPC1101-dat]] - [[RPI-SBC-dat]]
+
+- [[MSP1072-dat]] - [[CH423-dat]]
 
 
 ## ref 

@@ -6,13 +6,28 @@
 
 ## boards 
 
-- [[MSP1064-dat]]
+- [[ADC-DAT]] - [[DAC-dat]] - [[IO-expander-dat]] - [[GPIO-dat]] - [[I2C-dat]]
+
+- [[MSP1064-dat]] - [[PCF8591-dat]]
+
+- [[MPC1101-dat]] - [[RPI-SBC-dat]]
+
+- [[MSP1072-dat]] - [[CH423-dat]]
+
+
+
+
+
 
 ## tech 
 
 - [[PCF8574-dat]] - [[IO-expander-dat]] - [[MCP23008-dat]] - [[I2C-dat]]
 
-- [[PCF8591-dat]]
+- [[PCF8591-dat]] - [[MSP1029-dat]]
+
+- [[MSP1072-dat]] - [[CH423-dat]]
+
+- [[ILC1025-dat]] - [[ILC1047-dat]] - [[PCF8574-dat]] - [[LCD1602-dat]]
 
 
 

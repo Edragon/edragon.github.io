@@ -13,7 +13,7 @@
 
 - [[LCD1602-dat]] - [[LCD12864-dat]] - [[ILC1025-dat]] 
 
-
+- [[ILC1025-dat]] - [[ILC1047-dat]] - [[PCF8574-dat]] - [[LCD1602-dat]]
 
 
 
