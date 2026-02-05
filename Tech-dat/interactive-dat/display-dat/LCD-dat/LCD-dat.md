@@ -9,7 +9,7 @@
 
 - [[parallel-display-dat]]
 
-- [[LCD1602-dat]] - [[LCD-12864-dat]]
+- [[LCD1602-dat]] - [[LCD12864-dat]]
 
 
 - [[LCD2004-dat]] == [2004A 20*4 Char LCD LCM Display](https://www.electrodragon.com/product/2004a-char-lcdlcm-204-words-support-5v/)

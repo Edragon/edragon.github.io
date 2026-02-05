@@ -4,6 +4,16 @@
 
 
 
+## boards 
+
+- [[MSP1064-dat]]
+
+## tech 
+
+- [[PCF8574-dat]] - [[IO-expander-dat]] - [[MCP23008-dat]] - [[I2C-dat]]
+
+- [[PCF8591-dat]]
+
 
 
 
@@ -16,6 +26,12 @@
 ## PCF8574 
 
 ![](2026-01-31-16-39-58.png)
+
+
+
+
+
+
 
 
 ## other 

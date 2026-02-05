@@ -26,6 +26,11 @@
 - [[PINS001-dat]] == [[Retired]Capacitor Inductor Meter (Kit)](https://www.electrodragon.com/product/capacitor-inductor-meter-kit/)
 
 
+
+
+
+
+
 ## wiring 
 
 ![](2025-06-15-14-07-39.png)

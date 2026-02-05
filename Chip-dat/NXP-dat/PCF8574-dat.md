@@ -7,6 +7,22 @@ PCF8574 Remote 8-Bit I/O Expander for I2C Bus
 
 
 
+
+## boards 
+
+- [[ILC1025-dat]]
+
+- [[MSP1064-dat]]
+
+
+
+## tech 
+
+- [[IO-expander-dat]]
+
+
+
+
 ## ref 
 
 - [[NXP-dat]]

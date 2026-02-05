@@ -7,7 +7,7 @@ more test log please see here: - [[MPC1073-test-log-dat]]
 
 most same information refer to page [[MPC1119-dat]]
 
-- [[I2C-dat]] - [[RPI3-I2C0-dat.md]]
+- [[I2C-dat]] - [[RPI3-I2C0-dat.md]] - [[RPI-pin-dat]]
 
 if you want to customized the connector to the bottom side, please see why does it not work here: [[HUB75-dat]]
 

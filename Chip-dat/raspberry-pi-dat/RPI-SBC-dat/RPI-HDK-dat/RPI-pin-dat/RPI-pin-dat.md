@@ -1,6 +1,10 @@
 
 # RPI-pin-dat
 
+- [[MPC1120-dat]]
+
+- [[I2C-dat]] - [[RPI3-I2C0-dat.md]] - [[RPI-pin-dat]]
+
 
 
 ## RPI-26P-dat
@@ -35,6 +39,28 @@
 
 ![](2024-10-03-20-12-54.png)
 
+
+## GPIO 27 28 
+
+The Primary Function: HAT Identification
+
+These pins are reserved for the I2C ID EEPROM. When you attach a "HAT" (Hardware Attached on Top) to a Raspberry Pi, the system uses these pins to communicate with a small memory chip on the HAT.
+
+Pin 27 (ID_SD): I2C ID Data
+
+Pin 28 (ID_SC): I2C ID Clock
+
+This allows the Raspberry Pi to automatically identify the board, load the correct drivers, and configure the GPIOs accordingly during the boot process.
+
+**Usage Precautions**
+
+- **Avoid General Use**: It is strongly recommended not to use these pins for general-purpose tasks (like connecting LEDs or switches) or for your own I2C sensors.
+- **Boot Interference**: Since the Pi probes these pins at startup to look for a HAT, connecting hardware to them can occasionally cause the Pi to hang or fail to boot if it misinterprets the signals.
+- **No Internal Pull-ups**: Unlike the default I2C pins (GPIO 2 and 3), these do not have physical 1.8 kΩ pull-up resistors on the board.
+
+**When should you use them?**
+
+You should only focus on these pins if you are designing your own HAT and want it to be "Plug and Play" compliant with Raspberry Pi standards. In that case, you would wire them to an AT24C32 (or similar) EEPROM.
 
 
 

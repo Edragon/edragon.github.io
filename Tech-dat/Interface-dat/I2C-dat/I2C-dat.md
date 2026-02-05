@@ -3,6 +3,14 @@
 
 - [[I2C-SDK-dat]] - [[interface-SDK-dat]]
 
+- [[PCF8574-dat]] - [[IO-expander-dat]] - [[MCP23008-dat]] - [[I2C-dat]]
+
+
+
+
+
+
+
 ## common I2C devices address 
 
 
@@ -23,6 +31,9 @@ for [[ESP32-CAM-dat]]
 ## tech 
 
 - [[I2C-switch-dat]] - [[qwiic-dat]]
+
+- [[IO-expander-dat]]
+
 
 ## Boards 
 

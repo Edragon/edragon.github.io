@@ -9,6 +9,8 @@
 - This bus is known as **I2C bus 0** (I2C0).
 
 ## ⚠ Important limitations
+
+
 1. **Reserved for HAT identification**
    - On official Raspberry Pi boards, I2C0 on ID_SD/ID_SC is used exclusively to read the **HAT EEPROM**.
    - The OS may lock or restrict this bus.

@@ -14,6 +14,10 @@ legacy wiki page == https://www.electrodragon.com/w/AD/DA
 - [[MSP1050-dat]]
 
 
+- [[MSP1064-dat]] - [[PCF8591-dat]]
+
+
+
 
 ## chips 
 

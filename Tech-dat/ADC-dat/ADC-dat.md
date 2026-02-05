@@ -19,6 +19,12 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 - [[SSL1071-dat]] - [[SSL1072-dat]] == Load Cell Amplifier, Weight Sensor Kit, HX711 [KG] - [[HX711-dat]]
 
+
+- [[MSP1064-dat]] - [[PCF8591-dat]]
+
+
+
+
 ## apps to build 
 
 - [[sensor-analog-dat]]
