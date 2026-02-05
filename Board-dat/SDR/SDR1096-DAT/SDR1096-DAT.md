@@ -11,6 +11,10 @@
 
 ![](48-28-16-17-04-2023.png)
 
+
+- [[power-dat]] - [[power-distribution-dat]]
+
+
 ### Pin Info 
 
 Middle 4 columns * 3 rows pins, column from left to right : 

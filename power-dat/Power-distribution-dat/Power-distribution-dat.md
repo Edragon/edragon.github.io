@@ -50,3 +50,24 @@ working table
 
 
 ![](2025-02-03-17-18-57.png)
+
+
+- Charge Solar + Charge Pin + Use 
+
+- Data USB + Charge USB + Charge Solar + Charge Pin + Use 
+
+
+
+## use boards 
+
+- [[ARM1003-dat]] - [[ARM1007-dat]] - [[SDR1096-DAT]] - [[DVA1010-dat]]
+
+- [[power-dat]] - [[power-distribution-dat]]
+
+
+
+
+
+## ref 
+
+- [[power-dat]]
