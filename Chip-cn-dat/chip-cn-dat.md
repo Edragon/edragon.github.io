@@ -15,6 +15,8 @@
 
 - [[ESP8089-dat]]
 
+- [[EY-dat]]
+
 - [[SIMCOM-dat]]  - [[A7670-dat]] - [[SIM800-dat]]
 
 - [[quectel-dat]]

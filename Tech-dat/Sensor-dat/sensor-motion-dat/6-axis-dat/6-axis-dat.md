@@ -20,9 +20,18 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 ## chip 
 
-- [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] 
 
-- [[bosch-dat]] - [[BMI270-dat]] - [[BMI160-dat]]
+- [[BMI323-dat]]
+
+- [[ICM45686-dat]]
+
+- [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] - [[ICM20689-dat]]
+
+- [[BMI270-dat]] == 3-4 usd 
+
+- [[BMI160-dat]] == 1 usd
+  
+- [[bosch-dat]] 
 
 - [[MPU6500-dat]] - [[MPU6050-dat]] - [[invensense-dat]] 
 
@@ -45,11 +54,37 @@ The BMI160 integrates:
 
 
 
+
+## BMI160 BMI323 
+
+The **BMI323** is the direct technological successor to the **BMI160**. While they share the same physical footprint, the BMI323 offers significant improvements in power efficiency, data handling, and ease of integration—especially for battery-operated projects like your Rover V2.
+
+Expanded Comparison Table
+
+| Feature              | **BMI160**     | **BMI323**          | **MPU6500**        | **LSM6DS3**     |
+| :------------------- | :------------- | :------------------ | :----------------- | :-------------- |
+| **Resolution**       | **16-bit**     | **16-bit**          | **16-bit**         | **16-bit**      |
+| **Current (Active)** | ~925 µA        | **~790 µA**         | ~3.4 mA            | ~1.25 mA        |
+| **FIFO Buffer**      | 1024 Bytes     | 2048 Bytes          | 512 Bytes          | **8000 Bytes**  |
+| **Gyro Noise**       | 0.007 dps/√Hz  | **0.007 dps/√Hz**   | 0.01 dps/√Hz       | 0.008 dps/√Hz   |
+| **Interface**        | I2C, SPI       | I2C, SPI, **I3C**   | I2C, SPI           | I2C, SPI        |
+| **Self-Calibration** | Manual         | **Self-Trim (CRT)** | Factory Trim       | Manual          |
+| **Key Advantage**    | Legacy support | Power efficiency    | **Onboard Fusion** | **Buffer Size** |
+
+
+
 ## APP 
 
 - [[sensor-gesture-dat]]
 
+## tech 
 
+- [[I2C-dat]] - [[SPI-dat]]
+
+
+## relevant 
+
+- [[3-axis-gyroscope-dat]]
 
 
 ## ref 

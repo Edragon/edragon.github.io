@@ -5,7 +5,9 @@
 
 - QMC6309 - QMC5883P
 
-- [[L3G4200D-dat]]
+- [[L3G4200D-dat]] - [[TDK-dat]] - [[3-axis-gyroscope-dat]]
+
+
 
 - [[ITG320-dat]]
 

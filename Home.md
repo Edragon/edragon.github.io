@@ -15,7 +15,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[cable-dat]] - [[circuits-dat]]
+- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[cable-dat]] - [[circuits-dat]] - [[MCU-dat]]
 
 - [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]]
 
@@ -30,7 +30,11 @@
 
 - [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]]
 
-- [[BOM-DAT]] - [[case-dat]] - [[CONN-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]]
+- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]]
+
+- [[CONN-dat]] - [[CONN-cable-terminal-dat]]
+
+- [[cable-dat]]
 
 - [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
 

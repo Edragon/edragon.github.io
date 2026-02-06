@@ -15,6 +15,15 @@ STM8S103F3P6
 
 
 
+## STM8L - 0x0 
+
+STM8L052C6T6 LQFP-48 16MHz/32KB Flash/8-bit Microcontroller - MCU
+
+
+
+
+
+
 ## ref 
 
 - [[MCU-dat]] - [[ST-dat]]

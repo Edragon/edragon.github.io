@@ -5,13 +5,15 @@
 
 - [[sensor-motion-dat]] - [[sensor-PIR-dat]] - [[radar-sensor]] - [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-axis-magnetic-dat]] - [[6-axis-dat]]
 
+- [[sensor-hall-dat]]
+
 - [[sensor-RCWL-dat]] - [[sensor-TOF-dat]] - [[angle-encoder-dat]]
 
 - [[gas-sensor-dat]]
 
 - [[Peltier-dat]] - [[seebeck-dat]]
 
-
+- [[infrared-dat]] - [[led-infrared-dat]] - [[infrared-reflective-dat]]
 
 
 

@@ -185,6 +185,11 @@ The LED flashing when switched by a MOSFET can be caused by several issues. Here
 
 - [[AGM-Semi-AGM30P05A_C6719407.pdf]]
 
+- SC8205 - [[battery-BMS-dat]]
+
+
+
+
 
 ## mosfet driver 
 
@@ -197,6 +202,13 @@ Using a design that inherently minimizes shootthrough current, these drivers del
 A unique bipolar and MOSFET hybrid output stage in parallel also allows efficient current sourcing and sinking at low supply voltages.
 
 - [[NWI1126-dat]]
+
+
+
+
+
+
+
 
 
 ## demo video 

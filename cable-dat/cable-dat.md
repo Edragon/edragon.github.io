@@ -3,6 +3,11 @@
 
 - [[AWG-wires-dat]] - [[cable-warp-dat]]
 
+- [[cable-power-dat]] 
+
+- [[cable-data-dat]] - [[cable-FPC-dat]] - [[cable-ribbon-dat]]
+
+
 
 
 - [[PTO1021-dat]] - wire cutter tool

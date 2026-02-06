@@ -16,6 +16,16 @@ output current up to 5A
 
 
 
+
+
+## chip 
+
+`IP2721` Fast Charging Deception Module PDC004-PD, PD3.0/2.0 Protocol, Output 9/12/15/20V
+
+- [[injoinic-dat]]
+
+
+
 ## ref 
 
 - [[dcdc-boost-dat]]

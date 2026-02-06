@@ -3,15 +3,17 @@
 
 - [[BT-dual-mode-dat]]
 
-- [[EY-23A-dat]]
+- [[EY-23A-dat]] - [[serial-dat]]
 
-- [[EY-34-dat]]
+- [[EY-34-dat]] - [[serial-dat]]
 
 - [[EY-08-dat]] 
 
 - [[EY-25-dat]]
 
 - [[EY-40-dat]]
+
+- [[EY-41-dat]] - [[serial-dat]]
 
 - [[EY-30-dat]] - [[BT-SPP-dat]]
 

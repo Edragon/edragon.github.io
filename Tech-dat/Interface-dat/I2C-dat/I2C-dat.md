@@ -9,8 +9,6 @@
 
 
 
-
-
 ## common I2C devices address 
 
 
@@ -33,6 +31,8 @@ for [[ESP32-CAM-dat]]
 - [[I2C-switch-dat]] - [[qwiic-dat]]
 
 - [[IO-expander-dat]]
+
+- [[sensor-dat]]
 
 
 ## Boards 

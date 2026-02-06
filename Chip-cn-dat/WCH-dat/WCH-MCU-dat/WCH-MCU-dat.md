@@ -15,12 +15,21 @@
 
 - [[CH32V003-dat]] - [[CH32V103-dat]]
 
+Genuine CH32V003F4P6 TSSOP-20 RISC-V core 32-bit microcontroller (MCU)
+
+
 - [[CH582-dat]]
+
+
+
 
 
 ## board 
 
 - [[DOD1067-dat]] - [[DOD1068-dat]] - [[DOD1071-dat]]
+
+
+
 
 ## info 
 

@@ -4,7 +4,7 @@
 
 
 
-
+## chip and companies
 
 - [[MPS-dat]] - [[MP1658-dat]]
 
@@ -12,7 +12,7 @@
 
 - [[silergy-dat]]
 
-
+- [[XL-dat]] - [[XL1509-dat]]
 
 
 
@@ -172,6 +172,13 @@ The MGDM-25 series is a full family of high performance DC/DC power modules desi
 ## high power dcdc-down regulator 
 
 [CBS350](https://docs.rs-online.com/9c4d/0900766b81389eef.pdf) == DC-DC Converters Power Module type == 300W - 350W - 12V 25A ~ 48V 7.3A
+
+
+## unsort 
+
+MT2492 SOT-23-6 2A 4.5V-16V 600kHz regulator 
+
+
 
 
 
