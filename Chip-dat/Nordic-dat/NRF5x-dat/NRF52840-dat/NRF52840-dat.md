@@ -47,6 +47,13 @@
 - 4x 32-bit timers, RTC, watchdog, and more
 
 
+The nRF52840 is quite generous with its I/O compared to many other Bluetooth SoCs. It features a total of 48 GPIO pins.
+
+These pins are organized into two separate "ports":
+
+- Port 0 (P0): Consists of 32 pins (P0.00 to P0.31).
+- Port 1 (P1): Consists of 16 pins (P1.00 to P1.15).
+
 
 ## SDK 
 
@@ -128,11 +135,11 @@ Adafruit Feather nRF52840:
 - SDA: P0.25 (Physical Pin 25)
 - SCL: P0.26 (Physical Pin 26)
 
-## solutions 
+## solutions and apps
 
 - [[NRF52840+SX1262-dat]] - [[lora-dat]] - [[bluetooth-dat]]
 
-
+- [[head-track-dat]] - [[head-track]]
 
 
 

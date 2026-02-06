@@ -264,7 +264,7 @@
 
 ## chips 
 
-- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]]
+- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]]
 
 - [[chip-cn-dat]]
 

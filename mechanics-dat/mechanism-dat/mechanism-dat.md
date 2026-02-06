@@ -17,6 +17,14 @@
 
 - [[gear-worm-dat]]
 
+
+## structure
+
+- [[gantry-system-dat]] - [[x-y-dat]]
+
+
+
+
 ## differential 
 
 A **differential** is an essential device in a vehicle’s drivetrain, usually located in the drive axle.  

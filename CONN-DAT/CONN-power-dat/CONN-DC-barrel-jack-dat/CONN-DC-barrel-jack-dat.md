@@ -100,6 +100,10 @@ Positive negative and extra earth pin in center (white)
 ![](2025-11-28-15-29-58.png)
 
 
+## 90-degree DC connector 
+
+![](2026-02-06-16-47-17.png)
+
 ## ref 
 
 - [[power-jack]]

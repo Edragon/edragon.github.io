@@ -38,6 +38,13 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 
 
+The BMI160 integrates:
+
+- 16 bit digital, triaxial accelerometer  
+- 16 bit digital, triaxial gyroscope
+
+
+
 ## APP 
 
 - [[sensor-gesture-dat]]

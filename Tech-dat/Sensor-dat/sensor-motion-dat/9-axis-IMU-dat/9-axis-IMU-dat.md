@@ -7,24 +7,28 @@
 
 
 ## info 
+
 - [[6-axis-dat]] + - [[3-Axis-Magnetic-dat]]
 
 
-MPU6500 6 axis, Gyrometer & Accelerometer + QMC588s 3 axis, Magnetometer - [[3-Axis-Magnetic-dat]]
+combination options 
 
-BMI270 6 axis, Gyrometer & Accelerometer + BMM150 3 axis, Magnetometer
+- [[6-axis-dat]]
+
+- MPU6500 6 axis, Gyrometer & Accelerometer + QMC5883L 3 axis, Magnetometer - [[3-Axis-Magnetic-dat]]
+- BMI270 6 axis, Gyrometer & Accelerometer + BMM150 3 axis, Magnetometer
+
+single chip options
+
+- LSM9DS1 - LSM9DS1 9 Axis, Gyrometer, Accelerometer and Magnetometer
+
+- [[BNO055-dat]] - [[ASHR-dat]]
+
+- [[MPU9255-dat]] - [[invensense-dat]] - [[MPU9250-dat]]
 
 
 
-LSM9DS1 9 Axis, Gyrometer, Accelerometer and Magnetometer
 
-- BNO055
-
-- [[MPU9255-dat]] - [[invensense-dat]]
-
-- [[MPU9250-dat]]
-
-- LSM9DS1
 
 
 - [[3-axis-gyroscope-dat]] - [[3-Axis-Magnetic-dat]] - [[3-axis-Accelerometer-dat]]
@@ -59,7 +63,9 @@ While an Inertial Measurement Unit (IMU) only outputs raw data (acceleration/ang
 
 ## app 
 
-- [[head-track]]
+- [[head-track-dat]]
+
+- [[robot-dat]]
 
 
 ## ref 
