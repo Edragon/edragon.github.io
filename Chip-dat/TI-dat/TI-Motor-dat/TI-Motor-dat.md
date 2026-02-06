@@ -13,6 +13,50 @@
 
 - [[ULN2003-dat]]
 
+
+DRV8701 Brushed DC Motor Full-Bridge Gate Driver
+
+Features
+-  Single H-Bridge Gate Driver
+-  Drives Four External N-Channel MOSFETs
+-  Supports 100% PWM Duty Cycle
+-  5.9-V to 45-V Operating Supply Voltage Range Two Control Interface Options
+- PH/EN (DRV8701E)
+- PWM (DRV8701P)
+- Adjustable Gate Drive (5 Levels) 6-mA to 150-mA Source Current
+- 12.5-mA to 300-mA Sink Current
+- Supports 1.8-V, 3.3-V, and 5-V Logic Inputs
+-  Current Shunt Amplifier (20 V/V)
+- Integrated PWM Current Regulation
+- Limits Motor Inrush CurrentLow-Power Sleep Mode (9 μA)
+- Two LDO Voltage Regulators to Power External
+- Components
+-  AVDD: 4.8 V, up to 30-mA Output Load
+-  DVDD: 3.3 V, up to 30-mA Output Load
+-  Small Package and Footprint  24-Pin VQFN (PowerPADTM)
+- 4.0 x 4.0 x 0.9 mm
+- Protection Features:
+- VM Undervoltage Lockout (UVLO)
+- Charge Pump Undervoltage (CPUV)
+-  Overcurrent Protection (OCP)
+- Pre-Driver Fault (PDF)
+- Thermal Shutdown (TSD)
+- Fault Condition Output (nFAULT)
+
+![](2026-02-06-20-27-03.png)
+
+Motor/Load Current (System Dependent)
+
+Because the DRV8701 uses external MOSFETs, the maximum current can pull is limited only by the MOSFETs you choose and your PCB's thermal design.
+
+* **DRV8701 Evaluation Module (EVM):** Rated for **15A continuous** and **20A peak**.
+* **Theoretical Limit:** With high-performance MOSFETs and heavy copper traces (e.g., 2oz or 3oz copper), users have successfully pushed this driver to handle **30A to 50A+** continuous loads.
+
+
+
+
+
+
 ## compare 
 
 

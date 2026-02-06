@@ -1,6 +1,14 @@
 # 74xx-dat
 
-- [[logic-dat]]
+
+## functions 
+
+- [[logic-dat]] - [[circuits-dat]]
+
+- [[74xx-dat]] - [[logic-inverter-dat]]
+
+
+## types 
 
 - [[74hct245-dat]]
 

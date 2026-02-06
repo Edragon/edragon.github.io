@@ -29,8 +29,11 @@
 | **775**      | ~70 mm length   | 12V – 24V     | ~150–350 W    | High-power drills, CNC, mobility projects |
 | **895**      | ~80 mm length   | 12V – 36V     | ~200–500 W    | High torque, heavy loads                  |
 
+365 type motor : 12V - 11600rpm
 
+385 type motor : 12V - 10000rpm
 
+![](2026-02-06-20-04-35.png)
 
 
 - more powerful motors  - [[Motor-reduction-Gear-dat]] - [[motor-TT-dat]]

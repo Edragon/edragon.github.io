@@ -104,6 +104,37 @@
 
 - [[power-integrations-dat]]
 
+### DK112 
+
+
+1. DESCRIPTION
+
+The DK112 is specially design for low power switch mode control, it is widely use in small household
+electrical appliances.
+
+2. APPLICATIONS
+
+- Battery charger ·DVD/VCD power supply
+- Power AC/DC adapters ·Air conditioner power supply
+- STB power supply ·AC/DC LED driver applications
+- Electromagnetic oven power supply ·TV/Monitor power supply
+
+3. MAIN FEATURES
+
+- · 85V—265V wide range AC power input.
+- · 65KHz Oscillation Frequency.
+- · Double chip design with Bipolar Junction Transistor (BJT) to save cost.
+- · Large scale MOS digital circuit design with E class BJT driving, so that to enhance its High Voltage Resistance capability.
+- · Self-power supply design, no need for additional IC to supply the electricity.
+- · Internal integrated constant high voltage current driving circuit, no need for additional resistance.
+- · Over current, Over loading, Over temperature, Over voltage, Output short circuit and photo-coupler Failure Protection.
+- · Internal Ramp Compensation circuit to keep the stability of the circuit in low voltage and high power condition.
+- · Internal PMW oscillation circuit with Frequency jittering control to keep EMC characteristics.
+- · Internal Frequency Conversion. Frequency-down in low load condition, comply with the Europe Standard (stand power<0.3W), also reduce the output voltage ripple.
+- · Ramp current drive circuit included to reduce IC power loss and raise circuit efficiency.
+- · 4KV Anti-Static ESD test. 
+
+![](2026-02-06-20-22-15.png)
 
 ## ref 
 

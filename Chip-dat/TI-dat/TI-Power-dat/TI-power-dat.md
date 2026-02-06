@@ -4,6 +4,11 @@
 
 ## LDO 
 
+
+
+
+
+
 LP3853/LP3856 3A Fast Response Ultra Low Dropout Linear Regulators
 
 FEATURES
@@ -23,7 +28,12 @@ FEATURES
 
 ## buck regulator 
 
-LM2853 3-A 550-kHz Synchronous Buck Regulator 
+
+### TLV62569 2-A High Efficiency Synchronous Buck Converter in SOT Package
+
+
+
+### LM2853 3-A 550-kHz Synchronous Buck Regulator 
 
 - • Input Voltage Range of 3 V to 5.5 V
 - • Factory EEPROM Set Output Voltages From 0.8 V to 3.3 V in 100 mV Increments
@@ -35,6 +45,13 @@ LM2853 3-A 550-kHz Synchronous Buck Regulator
 - • Internal 40 mΩ MOSFET Switches
 - • Standard Voltage Options – 0.8/1.0/1.2/1.5/1.8/2.5/3.0/3.3 Volts
 - • Exposed Pad 14-Lead HTSSOP (PWP) Package
+
+
+### TPS56320x 4.5V to 17V Input, 3A Synchronous Step-Down Voltage Regulator in SOT-23
+
+The TPS563201 and TPS563208 are simple, easy-to-use, 3A synchronous step-down converters in SOT-23 package.
+
+
 
 
 ## info 
@@ -71,10 +88,20 @@ BQxx
 
 TPS5450 5-A, Wide Input Range, Step-Down Converter
 
-- [[MCP4017-dat]] - [[microchip-dat]]
 
-![](2025-10-02-19-04-40.png)
+1 Features
 
+- • Wide input voltage range: 5.5 V to 36 V
+- • Up to 5-A continuous (6-A peak) output current
+- • High efficiency greater than 90% enabled by 110- mΩ integrated MOSFET switch
+- • Wide output voltage range: adjustable down to 1.22 V with 1.5% initial accuracy
+- • Internal compensation minimizes external part count
+- • Fixed 500-kHz switching frequency for small filter size
+- • 18-μA shutdown supply current
+- • Improved line regulation and transient response by input voltage feedforward
+- • System protected by overcurrent limiting, overvoltage protection, and thermal shutdown
+- • –40°C to 125°C operating junction temperature range
+- • Available in small thermally enhanced 8-pin SOIC PowerPAD™ package
 
 
 

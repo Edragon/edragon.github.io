@@ -41,7 +41,9 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 
 
+## chips 
 
+- [[HX711-dat]]
 
 
 ## SCH 

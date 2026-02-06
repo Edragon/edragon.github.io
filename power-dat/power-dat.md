@@ -79,6 +79,7 @@ By switching from 5V to 3.3V, you can achieve up to 34% power savings in circuit
 
 ## Integrated PDB (Power Distribution Board)
 
+
 An **Integrated PDB** is a circuit board built **into a drone’s flight controller or frame** that distributes power from the battery to all electronic components, such as:
 
 - ESCs (Electronic Speed Controllers)
@@ -110,12 +111,34 @@ The LM3880-Q1 simple power supply sequencer offers the easiest method to control
 
 
 
-
 ### transfomer driver 
 
 - [[TI-power-dat]] SN6501DBVT - Low-noise, 350-mA, 410-kHz transformer driver for isolated power supplies
 
 
+## other power chips 
+
+### MT9700 
+
+80 mΩ, Adjustable Fast Response
+
+Current-Limited Power-Distribution Switch
+
+The MT9700 is a cost-effective, low voltage,single P-MOSFET load switch,optimized for self-poweredand bus-powered Universal Serial Bus (USB)applications. This switch operates with inputs ranging from 2.4V to 5.5V, making it ideal for both 3V and 5V systems. 
+
+The switch's low Rpson.80mQ ,meets USB voltage drop requirements. The MT9700 is also protected from thermal overload which limits power dissipation and junction temperatures. 
+
+Current  limit   threshold  programmed with a resistor from SET to ground. The quiescent supply current is typically 15pA at switch on state. 
+
+At switch off state the supply current decreases to less than 1μA.The MT9700 is available in S0T23-5 package. 
+
+### ME1502
+
+70mΩ， 5V USB 高侧可调门限限流负载开关
+
+ME1502 是一款适用于5V应用的可调限流门限的USB接口输出保护芯片。芯片内部集成了过流保护、短路保护、过温保护、欠压保护等功能，在输出发生过流、短路或带大电容负载启动等情况时可以限制电流输出从而保护前级电源。
+
+ME1502 70mΩ, 5V USB High-Side Adjustable Threshold Current Limit Load Switch
 
 
 

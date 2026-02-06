@@ -23,6 +23,8 @@
 
 - [[TXS0102-dat]] - [[TXS0108-dat]] - [[TI-logic-dat]]
 
+Surface Mount TXS0102DCUR VSSOP-8 2-bit Bidirectional Voltage Level Shifter Chip
+
 
 ### one-direction logic shifter
 

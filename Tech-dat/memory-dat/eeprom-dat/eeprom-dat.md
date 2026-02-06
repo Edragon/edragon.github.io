@@ -49,7 +49,7 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 - [[Xilinx-dat]] - XCF16PVOG48C == [[FPGA-dat]] - Configuration Memory Flash 16Mb PROM (ST Micro), Lead Free
 
 
-
+Original and genuine `AT24C02C` -SSHM-T surface mount memory chip (EEPROM, serial port, SOIC-8)
 
 
 

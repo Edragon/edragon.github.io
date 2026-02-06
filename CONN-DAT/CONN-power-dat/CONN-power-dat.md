@@ -24,6 +24,13 @@ MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM
 ![](2025-12-04-01-04-59.png)
 
 
+## AC power CONN 
+
+![](2026-02-06-20-08-53.png)
+
+
+
+
 ## ref 
 
 - [[CONN-dat]]

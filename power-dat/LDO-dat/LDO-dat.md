@@ -98,6 +98,14 @@ SOT23-5
 
 [LD1086DT33TR](https://www.mouser.com/ProductDetail/STMicroelectronics/LD1086DT33TR?qs=ZqrNm9%252BX9x495avHxGunSw%3D%3D&srsltid=AfmBOoo8TbJZVeh8Kv_urL5uG9JMlbgNaeSaF4P_AzeEG9Svc2ydWkUq) == LDO Voltage Regulators 3.3V 1.5A Positive
 
+## high voltage 
+
+The SGM2200 series is a set of low power high voltage regulators implemented in CMos technology. These devices allow input voltages as high as 26.4V. The SGM2200 series is available in several fixed and adjustable output voltages. CMoS technology ensures low dropout voltage and low quiescent current.
+
+Although designed primarily as fixed voltage regulators, these devices can be used with external components to obtain variable voltages and currents.
+
+The SGM2200 serles Is avallable in Green SOT-89-3. SOT-23. TSOT-23-5 and SC70-5 packages. It operates over an amblent temperature range of -40'℃ to +85'℃.
+
 
 
 ## LDO array 
@@ -140,6 +148,9 @@ LM109,LM309 == LM109/LM309 5-Volt Regulator
 ## negative output 
 
 MAX1735 - 200mA, Negative-Output, Low-Dropout Linear Regulator in SOT23
+
+
+
 
 
 

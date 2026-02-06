@@ -4,7 +4,7 @@
 ![](50-41-17-07-07-2023.png)
 
 
-
+- [[amplifier-dat]]
 
 
 ## boards 

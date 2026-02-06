@@ -1,5 +1,11 @@
 
-# FPC-dat 
+# CONN-FPC-dat 
+
+
+- [[CONN-FPC-dat]] - [[FPC-dat]]
+
+
+
 
 FFC usually means “Flat Flex Cable”
 

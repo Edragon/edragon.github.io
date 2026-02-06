@@ -12,7 +12,7 @@
 
 - [[silergy-dat]]
 
-- [[XL-dat]] - [[XL1509-dat]]
+- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 
 
 

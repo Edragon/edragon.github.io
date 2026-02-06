@@ -37,9 +37,12 @@ TYPICAL APPLICATION
 
 ![](2026-02-06-19-15-15.png)
 
-## 3144 
+## more chips  
 
-Surface mount 44E SOT23 Hall element A3144E sensor, unipolar HAL3144E switch type
+3144 - Surface mount 44E SOT23 Hall element A3144E sensor, unipolar HAL3144E switch type
+
+
+CC6207ST SOT-23 Omnipolar Low-Power Hall Effect Switch Sensor
 
 
 

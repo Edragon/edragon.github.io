@@ -40,6 +40,15 @@ wireless measurement
 - [[SHT30-dat]] - [[SHT31-dat]]
 
 
+
+## chip type temperature sensor 
+
+TMP235A2DBZR SOT-23-3 Analog Temperature Sensor Chip
+
+SHT31-DIS-B DFN-8 Digital Temperature and Humidity Sensor IC
+
+
+
 ## chip brands 
 
 - [[aosong-dat]]

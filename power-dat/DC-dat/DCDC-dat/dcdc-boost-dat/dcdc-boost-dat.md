@@ -12,7 +12,7 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[type-c-sniffer-dat]] - [[OPM1185-dat]] - [[usb-type-c-dat]]
 
-
+- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 
 ## compare 
 
@@ -53,6 +53,25 @@ fixed 5V output and little periperals
 
 
 - [[MPS-dat]]
+
+
+## MT3608 
+
+High Efficiency 1.2MHz 2A Step Up Converter
+
+FEATURES
+
+- · Integrated 80mQ Power MOSFET
+- · 2V to 24V Input Voltage
+- · 1.2MHz Fixed Switching Frequency
+- · Internal 4A Switch Current Limit
+- · Adjustable Output Voltage
+- · Internal Compensation
+- · Up to 28V Output Voltage
+- · Automatic Pulse Frequency Modulation Mode at Light Loads
+- · up to 97% Efficiency
+- · Available in a 6-Pin SOT23-6 Package
+
 
 ## common application
 

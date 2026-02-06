@@ -29,6 +29,11 @@ TPS3820,TPS3823,TPS3824,TPS3825,TPS3828
 ADM706P/ADM706R/ADM706S/ADM706T, ADM708R/ADM708S/ADM708T - 3 V, Voltage Monitoring Microprocessor Supervisory Circuits
 
 
+
+## chips 
+
+- Genuine MAX809T SOT-23 MCU monitoring chip, microprocessor voltage detection and reset chip.
+
 ## ref 
 
 - [[power-dat]]

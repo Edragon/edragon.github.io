@@ -6,7 +6,6 @@
 
 
 
-STC8G1K08A-36I-DFN8
 
 ## STC12 
 
@@ -24,6 +23,16 @@ STK12C68
 ![](2024-10-27-13-36-15.png)
 
 ![](2025-07-15-12-34-22.png)
+
+
+
+## STC8H 
+
+STC8H1K08-36I-QFN20 Enhanced 1T 8051 Microcontroller (MCU)
+
+STC8G1K08A-36I-DFN8
+
+
 
 
 ## APP 

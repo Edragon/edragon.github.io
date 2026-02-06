@@ -1,6 +1,19 @@
 
 # capacitor-start-dat
 
+
+
+
+## fan starting 
+
+CBB61 Fan Starting Capacitor 450V 1/1.2/1.5/1.8/2/2.5/3/3.5/4/4.5-20UF
+
+![](2026-02-06-20-18-27.png)
+
+
+
+## toy 
+
 ![](2025-05-04-13-13-48.png)
 
 ![](2025-12-10-15-20-47.png)

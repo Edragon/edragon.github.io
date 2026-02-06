@@ -13,14 +13,17 @@
 
 - [[board-dat]] - [[board-series-dat]] - [[board-new-dat]] - [[board-3rd-dat]]
 
-- [[chip-dat]] - [[chip-cn-dat]]
+- [[chip-dat]] - [[chip-cn-dat]] - [[74xx-dat]]
 
-- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[sensor-dat]] - [[acturator-dat]] - [[cable-dat]] - [[circuits-dat]] - [[MCU-dat]]
+- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]]
 
-- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]]
+- [[sensor-dat]] - [[sensor-touch-dat]]
+
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]
+
+- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
 
 - [[battery-dat]] - [[battery-BMS-dat]] 
-
 
 - [[network-dat]] - [[RC-dat]] - [[MQTT-dat]]
 
@@ -30,7 +33,7 @@
 
 - [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]]
 
-- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]]
+- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]]
 
 - [[CONN-dat]] - [[CONN-cable-terminal-dat]]
 

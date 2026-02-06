@@ -52,6 +52,18 @@ microcontroller can dynamically configure the RNWF11 Module with a few simple AS
 
 - [[IOT-dat]]
 
+
+## power 
+
+
+- [[MCP4017-dat]] - [[microchip-dat]]
+
+![](2025-10-02-19-04-40.png)
+
+
+
+
+
 ## ref 
 
 - [[chip-dat]]

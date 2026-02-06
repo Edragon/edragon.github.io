@@ -1,6 +1,15 @@
 
 # JST-dat
 
+types 
+
+XHB2.54 connector, 2.54mm connector with buckle, straight pin, bent pin, socket, housing, plug, spring contacts, and terminals.
+
+- [[XH2.54-dat]]
+
+
+## info 
+
 https://en.wikipedia.org/wiki/JST_connector
 
 
