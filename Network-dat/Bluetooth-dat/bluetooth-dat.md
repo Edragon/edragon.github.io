@@ -1,15 +1,15 @@
 
 # bluetooth-dat 
 
-- [[bt-audio-dat]]
+- [[bluetooth-dat]] - [[BLE4-dat]] - [[BLE5-dat]] - [[BT-dual-mode-dat]] - [[BT-SPP-dat]] - [[bt-audio-dat]] - [[BLE-dat]]
 
-- [[bt-debug-dat]]
 
-- [[BT-dual-mode-dat]]
 
-- [[BLE-dat]] - [[BT-SPP-dat]] - [[BT4.0-dat]] - [[ibeacon-dat]] - [[mesh-node-dat]]
+- [[ibeacon-dat]] - [[mesh-node-dat]]
 
-- [[BLE-SDK-dat]]
+- [[BLE-SDK-dat]] - [[bt-debug-dat]]
+
+
 
 
 
@@ -30,6 +30,14 @@
 - [[NBL1022-dat]]
 
 module - [[EY-dat]]
+
+
+## module board 
+
+- [[NBL1076-dat]]
+
+
+
 
 ## Mode 
 

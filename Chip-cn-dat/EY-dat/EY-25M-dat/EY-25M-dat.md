@@ -1,6 +1,9 @@
 
 # EY-25M-dat
 
+
+- [[BLE-dat]] - [[BLE5-dat]] - [[ibeacon-dat]]
+
 [legacy wiki page](https://www.electrodragon.com/w/EY-25M)
 
 
@@ -14,6 +17,9 @@
 ![](2024-05-15-18-59-17.png)
 
 - [[NBL1101-dat]] - [[NBL1107-dat]]
+
+
+
 
 ## Pins 
 

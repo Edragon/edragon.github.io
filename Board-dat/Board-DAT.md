@@ -302,7 +302,7 @@ audio bluetooth player - [[NBL1037-dat]] - [[NBL1038-dat]]
 
 classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
-[[BT4.0-dat]] 
+[[BLE4-dat]] 
 
 - [[NBL1050-dat]] - [[NBL1054-dat]]
 

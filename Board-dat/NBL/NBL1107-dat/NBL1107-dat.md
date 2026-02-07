@@ -7,11 +7,34 @@ legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
 
 ## Board Map 
 
-![](2024-05-15-17-38-57.png)
+
+
+
+board version V2
+
+
+![](2026-02-07-16-16-56.png)
+
 
 - SJ1 setup button output to either Reset or P32
 
-## Pin Definitiosn 
+
+
+### Pin Definitions
+
+| left 1     |     | left 2 |              | right 1 |     | right 2 |     |
+| ---------- | --- | ------ | ------------ | ------- | --- | ------- | --- |
+| RESETB/P00 |     | R_O    | relay open   | P36     | MCU | P35     | MCU |
+| OUT4       | BT  | R_M    | relay middle | P31     | MCU | P27     | MCU |
+| OUT3       | BT  | R_C    | relay close  | IN5     | BT  | IN3     | BT  |
+| BT_TXD     |     | UO_RXD |              | I2C_SCL |     | I2C_SDA |     |
+| BT_RXD     |     | UO_TXD |              | VCC     |     | GND     |     |
+| OUT1       | BT  | OUT5   | BT           | IN4     | BT  | OUT2    | BT  |
+
+
+
+
+
 
 | MCU pins   | BT Modules | Sensors    | Other                |
 | ---------- | ---------- | ---------- | -------------------- |
@@ -35,12 +58,20 @@ legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
 
 
 
+## logs 
+
+
+
+board version V1 
+
+![](2024-05-15-17-38-57.png)
+
 ## ref 
 
 - [[AHT20-dat]] - [[KX023-1025-dat]] - [[I2C-dat]]
 
 - [[HC32F003-dat]] - [[HDSC-dat]]
 
-- [[JDY-25M-dat]] - [[signal-relay-dat]]
+- [[EY-25M-dat]] - [[relay-signal-dat]] - [[relay-dat]]
 
 - [[NBL1107]]
