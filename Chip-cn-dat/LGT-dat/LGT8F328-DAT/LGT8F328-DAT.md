@@ -3,6 +3,8 @@
 - [legacy wiki page](https://www.electrodragon.com/w/Logicgreen)
 
 
+- [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT8F328-SDK-DAT]]
+
 ## comparison to arduino atmega328
 
 | pin   | LGT     | arduino | note      |
@@ -21,17 +23,14 @@ common pin
 ## LGT8F328-QFP MIN SYS 
 
 ![](2025-06-25-14-53-56.png)
-## LGT8F328P-SSOP20 
 
-![](2025-06-25-14-39-49.png)
 
-[[arduino-dat]] compatible design 
 
-![](2025-06-25-14-42-46.png)
+
 
 ## periperhals 
 
-- [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[GPIO-dat]] - [[PWM-dat]] - [[ADC-dat]] - [[DAC-dat]]
+![LGT8F328-SSOP20-dat/2025-06-25-14-42-46.png](LGT8F328-SSOP20-dat/2025-06-25-14-42-46.png)- [[UART-dat]] - [[GPIO-dat]] - [[PWM-dat]] - [[ADC-dat]] - [[DAC-dat]]
 
 
 ## LGT8F88A-QFP32 MIN System 
