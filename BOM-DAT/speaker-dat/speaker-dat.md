@@ -27,3 +27,22 @@ There is no inherent sound quality difference between 4-ohm and 8-ohm speakers. 
 
 - A 4-ohm speaker may be slightly louder if the amplifier can handle it because it draws more power from the amplifier.
 - Matching the amplifier's power output with the speaker's impedance ensures optimal sound quality and avoids distortion or damage.
+
+
+## tech 
+
+- [[amplifier-dat]] - [[amplifier-audio-dat]]
+
+- [[signal-dat]] - [[signal-differential-dat]]
+
+- [[I2S-dat]] 
+
+- [[speaker-dat]] - [[headphone-dat]]
+
+
+
+
+
+## ref 
+
+

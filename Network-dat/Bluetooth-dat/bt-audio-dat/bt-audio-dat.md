@@ -5,6 +5,13 @@
 
 [legacy wiki page](https://www.electrodragon.com/w/Category:BT_Audio) 
 
+## tech 
+
+- [[bluetooth-dat]] 
+
+- [[amplifier-audio-dat]]
+
+
 ## boards 
 
 - [[NBL1037-dat]] - [[NBL1038-dat]] - [[NBL1097-dat]]

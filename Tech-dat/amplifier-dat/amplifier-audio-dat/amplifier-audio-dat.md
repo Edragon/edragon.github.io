@@ -1,7 +1,35 @@
-# Audio-amplifier-dat
+# amplifier-audio-dat
+
+
+
+
+## tech 
+
+- [[amplifier-dat]] - [[amplifier-audio-dat]]
+
+- [[signal-dat]] - [[signal-differential-dat]]
+
+- [[I2S-dat]] 
+
+- [[speaker-dat]] - [[headphone-dat]]
+
+
+## boards 
+
+- [[AMP1024-dat]]
+
+
+
+## chip 
+
 
 - [[ST-audio-amp-dat]] - [[ST-dat]]
 
+- [[analog-device-dat]] - [[AD-audio-dat]]
+
+- [[diodes-dat]] - [[PAM-dat]] 
+
+- [[TI-AMP-dat]]
 
 - [[OPA1622-dat]] == SoundPlus™ Audio Operational Amplifier with High Performance, Low THD+N and Bipolar Input
 
@@ -13,7 +41,7 @@ Low-Power Audio Amplifiers
 
 
 
-- [[diodes-dat]] - [[PAM-dat]] 
+
 
 - [[heroic-dat]]
 
@@ -36,6 +64,11 @@ Low-Power Audio Amplifiers
 - LM1036
 
 - [[HT6872-dat]]
+
+
+
+
+
 
 ## more chip 
 

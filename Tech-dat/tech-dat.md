@@ -94,7 +94,7 @@
 
 - [[ethernet-dat]] - [[USB-dat]]
 
-- [[bluetooth-dat]] - [[ble-dat]]
+- [[bluetooth-dat]] - [[ble-dat]] - [[bt-audio-dat]]
 
 - [[WIFI-DAT]] - [[mqtt-dat]] - [[TCPIP-dat]]
 

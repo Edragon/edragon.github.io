@@ -1,7 +1,7 @@
 
 # PCB-trace-dat
 
-- [[differential-signal-dat]]
+- [[signal-differential-dat]]
 
 ### Quick reference table (External trace, 1 oz copper, ΔT = 10°C):
 

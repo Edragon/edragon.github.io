@@ -4,7 +4,7 @@
 - [[digital-dat]] - [[analog-dat]]
 
 
-- [[differential-signal-dat]]
+- [[signal-differential-dat]]
 
 
 - [[digitizer-dat]]
