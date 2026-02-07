@@ -12,10 +12,6 @@
 
 
 
-
-
-
-
 ## boards 
 
 
@@ -27,14 +23,45 @@
 
 - high price == [[NBL1064-dat]] == [Bluetooth IO Control Board EDR 2.0, BLK_IO](https://www.electrodragon.com/product/bluetooth-io-control-board-edr-2-0-blk_io/)
 
-- [[NBL1022-dat]]
-
-module - [[EY-dat]]
 
 
-## module board 
 
-- [[NBL1076-dat]]
+- [[NBL1100-dat]] - [[GPIO-dat]]
+
+- module - [[bt-audio-dat]] - [[NBL1037-dat]] - [[NBL1038-dat]] - [[BK8000-dat]]
+
+- module - [[bt-audio-dat]] - [[NBL1111-dat]] - [[NBL1115-dat]] - [[BK3266-dat]]
+
+- module - [[qualcomm-dat]] - [[BT-audio-dat]] - [[NBL1080-dat]] - [[CSRA64215-dat]]
+
+- module - [[qualcomm-dat]] - [[BT-audio-dat]] - [[CSRA64215-dat]] - [[NBL1079-dat]] - [[NBL1080-dat]]
+
+- module - [[beken-dat]] - [[BK8000-dat]] - [[NBL1097-dat]]
+
+- module - [[BT-SPP-dat]] - [[NBL1012-dat]] - [[NBL1014-dat]]
+
+- [[EY-25M-dat]] - [[NBL1101-dat]] - [[BLE-dat]] 
+
+- [[EY-08-dat]] - [[NBL1060-dat]] - [[NBL1061-dat]]
+
+- [[NRF51822-dat]] - [[NBL1037-dat]] - [[NBL1038-dat]]
+
+- [[NRF51822-dat]]  - [[NBL1072-dat]] - [[NBL1073-dat]]
+  
+- module board - [[NBL1076-dat]] 
+
+- board - [[BT-SPP-dat]] - [[NBL1064-dat]] - [[BT-dual-mode-dat]]
+
+
+- module board - [[NBL1022-dat]]
+
+- module board - [[NBL1107-dat]] - [[mesh-node-dat]]
+
+- [[NBL1080-dat]]
+
+- module board - [[bt-audio-dat]] - [[NBL1067-dat]] - [[NBL1089-dat]] - [[NBL1069-dat]] - [[NBL1070-dat]]
+
+- module board with [[MCU-dat]] - [[ARM1003-dat]]
 
 
 
@@ -52,21 +79,7 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 ## BT Types 
 
-### classical bluetooth
 
-board - [[NBL1018-dat]] - [[NBL1057-dat]] - [[NBL1064-dat]]
-
-module - [[NBL1012-dat]] - [[NBL1022-dat]] 
-
-demo video 
-- [new video](https://www.youtube.com/watch?v=d3qrE-TmKoE&ab_channel=Electrodragon)
-- [old video](https://www.youtube.com/watch?v=CmMGhHMciu8)
-
-
-
-### BT4.0
-
-- [[NBL1060-dat]] - [[NBL1061-dat]]
 
 ### BT5.0
 
@@ -83,6 +96,9 @@ demo video
 - BlueSPP
 - nRF connect 
 
+
+
+
 ## APPs 
 
 - [[iBeacon-dat]]
@@ -98,7 +114,17 @@ demo video
 
 ## Chip 
 
-- [[TI-network-dat]] - [[nordic-dat]]
+- [[TI-network-dat]] - [[CC5241-dat]] - [[CC2640-dat]] - [[CC2652-dat]]
+
+- [[nordic-dat]] - [[NRF51822-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]] - [[NRF5x-dat]]
+
+- [[EY-dat]]
+
+- [[beken-dat]]
+
+- [[qualcomm-dat]] - [[CSRA64215-dat]]
+
+
 
 
 ## working mode 

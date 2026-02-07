@@ -1,6 +1,12 @@
 
 # BLE-SDK-dat
 
+- programmer - [[BT-SDK-dat]] - [[DPR1112-dat]] - [[qualcomm-dat]]
+
+- [[CSR8635-dat]] - [[CSR-dat]] - [[BT-SDK-dat]]
+
+
+
 ## Which BLE Example to Use for Sending ADC Voltage to Phone
 
 Your goal:  
@@ -39,3 +45,10 @@ Your goal:
 - **Server_multiconnect / Server_secure_authorization / Server_secure_static_passkey** ❌  
   - Variants of the Server example with multi-client or security features.  
   - Only needed if you want multiple phones connected or secure pairing.  
+
+
+
+
+## ref 
+
+- [[bluetooth-dat]]

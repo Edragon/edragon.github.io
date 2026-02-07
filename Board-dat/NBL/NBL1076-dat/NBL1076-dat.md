@@ -11,6 +11,8 @@
 
 - [[PWM-dat]] - [[GPIO-dat]] - [[I2C-dat]]
 
+- [[bluetooth-dat]]
+
 ![](2026-02-07-15-58-52.png)
 
 - JP1 == wake 

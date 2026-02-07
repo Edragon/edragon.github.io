@@ -3,7 +3,7 @@
 
 
 
-
+[legacy wiki page](https://www.electrodragon.com/w/Category:BT_Audio) 
 
 ## boards 
 
@@ -27,17 +27,12 @@
 
 - [[CSR8645-dat]] - [[CSR8635-dat]] == [[NBL1050-dat]] - [[NBL1051-dat]] - [[NBL1054-dat]] - [[NBL1055-dat]]
 
-- [[CSR64215-dat]] == [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
+
+
+- [[CSRA64215-dat]] == [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
 
 - [[beken-dat]] - [[NBL1111-dat]] - [[NBL1115-dat]]
 
-
-
-### CS64215 
-
-- [[CSR64215-dat]] - [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
-
-- https://www.electrodragon.com/product/csra64215-breakout-board-version/
 
 
 

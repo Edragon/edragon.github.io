@@ -3,6 +3,12 @@
 
 https://www.electrodragon.com/product/30ft-3-3vdc-wireless-bluetooth-rf-transceiver-module-rs232-ttl/
 
+
+- [[BC04-B-dat]] - [[BC417-dat]] - [[NBL1018-dat]]
+
+
+
+
 ## Features:
 
 - BQB certificated
@@ -33,6 +39,11 @@ https://www.electrodragon.com/product/30ft-3-3vdc-wireless-bluetooth-rf-transcei
 - Enter into serial UART mode (AT commands)  BEFORE paired.
 - Before bluetooth connection established, it's supported by AT commands to set the baud rate, name, pairing password, parameters setting will save after power-down.  
 - Automatically switches to transparent mode after the Bluetooth connection set.
+
+
+
+
+
 
 
 ## ref 

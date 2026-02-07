@@ -9,7 +9,7 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-- [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]]
+- [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]] - [[EY-23A-dat]]
 
 ![](2026-01-08-15-46-06.png)
 

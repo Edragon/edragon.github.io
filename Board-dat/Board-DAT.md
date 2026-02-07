@@ -308,7 +308,7 @@ classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
 - [[NBL1060-dat]] - [[NBL1061-dat]]
 
-- [[CSR64215-dat]] - [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
+- [[CSR6A4215-dat]] - [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
 
 [[BLE-dat]]
 
