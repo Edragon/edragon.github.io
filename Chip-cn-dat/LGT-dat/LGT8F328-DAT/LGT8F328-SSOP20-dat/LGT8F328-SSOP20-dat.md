@@ -2,9 +2,18 @@
 # LGT8F328-SSOP20-dat
 
 
-- [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]]
+- [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]] - [[LGT8F328-SDK-DAT]]
 
 - [[]]
+
+
+
+
+## board 
+
+- [[DVA1014-dat]] - [[DVA1018-dat]]
+
+
 
 
 ## LGT8F328P-SSOP20 

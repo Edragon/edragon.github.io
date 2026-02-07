@@ -1,6 +1,5 @@
 
-# DVA9999-dat
-
+# DVA1014-dat
 
 ## Info
 
@@ -8,25 +7,11 @@ product url -
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-- [[arduino-dat]]
+- [[NRF24L01-dat]] - [[NRF24L01-clone-dat]]
 
-- [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]]
+- [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]] - [[arduino-dat]] - [[LGT8F328-SDK-DAT]]
 
-- [[]]
-
-
-
-- [[EYGC4-dat]] pins 
-
-- D7_RX 
-- D9_TX
-- D2_INT
-- BT_STATUS - BT6
-- D11_WAKEUP
-- GPIO0
-- GPIO1
-
-
+![](2026-02-07-17-55-41.png)
 
 
 ## Applications, category, tags, etc. 
@@ -38,5 +23,7 @@ product url -
 - [[]] 
 
 - legacy wiki page 
+
+
 
 

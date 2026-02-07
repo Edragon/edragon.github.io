@@ -3,6 +3,24 @@
 
 
 
+
+
+## programming interface 
+
+- GND2/AREF/`SWD`/PE2
+- AVCCI/`SWC`/PEO
+- PC6(/RESET)
+- +3V3
+- GND
+
+
+
+
+
+
+
+
+
 ## Sketch uploads By Arduino IDE
 - Pre-loaded bootloder. Just select corresponding board to upload sketch, refer to bootloader sketch below
 - Programming pin port same as FTDI [[FT232-dat]], same as arduino pro mini
@@ -20,6 +38,19 @@
 - most compatible, please use this one
 - Nullab Nano/ Maker Nano
 - install by this - https://nulllab.coding.net/p/lgt/d/nulllab_lgt_arduino/git/raw/master/package_nulllab_boards_index_zh.json
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### old 1

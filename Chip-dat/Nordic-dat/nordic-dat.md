@@ -1,7 +1,7 @@
 
 # nordic-dat.md
 
-- [[NRF24L01-dat]]
+- [[NRF24L01-dat]] - [[NRF24L01-clone-dat]]
 
 
 

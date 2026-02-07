@@ -1,6 +1,15 @@
 
 # LGT-dat 
 
+
+
+- [[LGT8F328-dat]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]] - [[atmega328-dat]]
+
+- [[LGT8F328-SDK-DAT]]
+
+
+
+
 ## LGT8x 
 
 ![](2025-06-25-14-39-24.png)
@@ -10,7 +19,6 @@
 
 
 
-- [[LGT8F328-dat]] - [[LGT-dat]]
 
 
 ## repo 
