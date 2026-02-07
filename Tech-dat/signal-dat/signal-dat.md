@@ -17,7 +17,7 @@
 
 - [[comparator-dat]] - [[circuits-dat]]
 
-
+- [[signal-dat]] - [[DDS-dat]]
 
 
 ## unsort 

@@ -1,6 +1,9 @@
 
 # AD-signal-dat
 
+
+- [[DDS-dat]]
+
 - [[RS232-dat]] - [[RS422-dat]] - [[RS485-dat]]
 
   
