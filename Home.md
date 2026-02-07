@@ -25,7 +25,7 @@
 
 - [[battery-dat]] - [[battery-BMS-dat]] 
 
-- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]]
+- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 

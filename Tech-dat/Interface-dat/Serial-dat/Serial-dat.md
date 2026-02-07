@@ -17,6 +17,11 @@
 - [[USB-dat]]
 
 
+## on board USB to TTL serial adapters check 
+
+below is the variation of [[CH340-dat]]
+
+![](2026-02-07-18-57-06.png)
 
 
 ## Usage 

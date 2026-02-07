@@ -29,7 +29,7 @@
 
 - [[diodes-dat]] - [[PAM-dat]] 
 
-- [[TI-AMP-dat]]
+- [[TI-AMP-dat]] - [[TI-audio-dat]]
 
 - [[OPA1622-dat]] == SoundPlus™ Audio Operational Amplifier with High Performance, Low THD+N and Bipolar Input
 

@@ -30,20 +30,30 @@
 | Power Supply of Vdd_io2 | to Vdd                                 | to Vdd            |
 | USART of Programming    | PB0 PB1 (USART 3) or PE0 PE1 (USART 4) | PB0 PB1 (USART 3) |
 
+- check back board jumper is set to USART 3 
+
+## precheck  
+
+- double check if the [[serial-dat]] recognized correctly , install Driver for [[CH340-DAT]], check CH340K
+- Power LED indicator should be light up next to the PCB 
+- default sketch: press button, another LED should be light up == sketch https://github.com/Edragon/arduino-main2/blob/main/0-BSP/DAR/DAR1064/Button/Button.ino
+- click "upload the sketch" to upload, not flash bootloader, the bootloader is already pre-flashed.
+
+sketch upload 
+
+- Clock `-24 mhz internal`
+- Bootloader serial port: `PB0 / PB1`
+- Reset pin: `default` 
 
 
-## Usage 
-
-- Install Driver for [[CH340-DAT]], check CH340K
-- Power LED indicator should be light up
 
 
 
-## bootloader settings 
 
-- Clock -24 mhz internal 
-- Bootloader serial port: PB0 / PB1
-- Reset pin: default 
+
+## bootloader settings for the board
+
+
 
 ![](55-05-18-02-02-2023.png)
 
