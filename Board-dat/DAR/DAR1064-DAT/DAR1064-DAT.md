@@ -107,6 +107,7 @@ keep alll the unused options as default
 
 - [[UPDI-DAT]] - [[atmel-ice-dat]] - [[CH340-DAT]] - [[CH341-DAT]] - [[avr128-dat]]
 
+- [[button-dat]]
 
 - [[arduino-dat]]
 
