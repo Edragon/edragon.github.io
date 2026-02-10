@@ -1,6 +1,19 @@
 
 # vision-dat
 
+
+## function 
+
+- [[camera-dat]] 
+- tracking
+- face-detection
+- object-detection 
+- pose-estimation 
+
+
+
+## projects 
+
 Open source vision project: 
 
 ## 1. OpenCV (Open Source Computer Vision Library)

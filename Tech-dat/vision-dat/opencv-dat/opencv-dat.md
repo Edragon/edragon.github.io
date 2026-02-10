@@ -1,8 +1,15 @@
 
 # opencv-dat
 
-- [[camera-sdk-dat]] 
+- [[camera-sdk-dat]]  - [[Android-dat]]
 
+
+
+
+
+
+
+## android 
 
 Using OpenCV with Python on Android (via Termux or Pydroid3)
 
