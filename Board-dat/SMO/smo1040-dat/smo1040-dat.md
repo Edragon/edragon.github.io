@@ -10,4 +10,6 @@
 
 ## ref 
 
+- [[SMO1040-dat]] - [[SMO1045-dat]] - [[SMO1048-dat]] - [[SMO1052-dat]] - [[sensor-tilt-switch-dat]]
+
 - [[SMO1040]]
