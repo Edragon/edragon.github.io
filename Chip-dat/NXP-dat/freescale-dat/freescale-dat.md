@@ -10,6 +10,12 @@
 
 [compare - Compare freescale sensors on this page.](http://www.freescale.com/webapp/sps/site/taxonomy.jsp?nodeId=01126911184209#60)
 
+## MMA8452 
+
+SCH 
+
+![](2026-02-11-00-31-47.png)
+
 ## Features of MMA7361: (Old type)
 
 - Use MMA7361(instead of MMA7260) cheap and micro capacitor version accelerometer.
