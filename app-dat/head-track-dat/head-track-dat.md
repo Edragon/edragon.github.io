@@ -45,12 +45,55 @@ extra pins
 
 - GND RX P0.10
 - 3V3 TX P0.09 
-- P0.28 AN4 GND
+
 - P0.02 AN0 PPM-IN P0.30
 - P0.29 AN3 GND
+- P0.28 AN4 GND
 
 ![](2026-01-19-19-20-41.png)
 
+HeadTracker\firmware\src\src\boards
+
+    #define PIN_X \
+    PIN(CENTER_BTN,   NRFPIN(1, 13), "") \
+    PIN(VOLTMON,      NRFPIN(0,  3), "") \
+    PIN(AN0,          NRFPIN(0, 29), "Analog 0 (AIN_5)") \
+    PIN(AN1,          NRFPIN(0,  2), "Analog 1 (AIN_0)") \
+    PIN(AN2,          NRFPIN(0, 28), "Analog 2 (AIN_4)") \
+    PIN(LEDWS,        NRFPIN(1, 10), "") \
+    PIN(LED,          NRFPIN(0, 13), "") \
+    PIN(PPMOUT,       NRFPIN(0, 31), "") \
+    PIN(PPMIN,        NRFPIN(0, 30), "") \
+    PIN(BUZZ,         NRFPIN(1, 11), "") \
+    PIN(TX,           NRFPIN(0,  9), "")  \
+    PIN(RX,           NRFPIN(0, 10), "") \
+    PIN(TXINV,        NRFPIN(0,  4), "") \
+    PIN(RXINVO,       NRFPIN(0,  0), "") \
+    PIN(RXINVI,       NRFPIN(0,  1), "") \
+    PIN(I2CSDA,       NRFPIN(0,  5), "") \
+    PIN(I2CSCL,       NRFPIN(1,  9), "")
+
+
+V2 
+
+    #define PIN_X \
+    PIN(CENTER_BTN,   NRFPIN(1, 13), "") \
+    PIN(VOLTMON,      NRFPIN(0,  3), "") \
+    PIN(AN0,          NRFPIN(0, 29), "Analog 0 (AIN_5)") \
+    PIN(AN1,          NRFPIN(0,  2), "Analog 1 (AIN_0)") \
+    PIN(AN2,          NRFPIN(0, 28), "Analog 2 (AIN_4)") \
+    PIN(LEDWS,        NRFPIN(1, 10), "") \
+    PIN(LED,          NRFPIN(0, 13), "") \
+    PIN(PPMOUT,       NRFPIN(0, 31), "") \
+    PIN(PPMIN,        NRFPIN(0, 30), "") \
+    PIN(BUZZ,         NRFPIN(1, 11), "") \
+    PIN(TX,           NRFPIN(0,  9), "")  \
+    PIN(RX,           NRFPIN(0, 10), "") \
+    PIN(TXINV,        NRFPIN(0,  4), "") \
+    PIN(RXINVO,       NRFPIN(0,  0), "") \
+    PIN(RXINVI,       NRFPIN(0,  1), "") \
+    PIN(I2CSDA,       NRFPIN(0,  5), "") \
+    PIN(I2CSCL,       NRFPIN(1,  9), "")
 
 
 ## ref 

@@ -27,11 +27,11 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 - [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] - [[ICM20689-dat]]
 
-- [[BMI270-dat]] == 3-4 usd 
+
 
 - [[BMI160-dat]] == 1 usd
   
-- [[bosch-dat]] 
+- [[bosch-dat]] - [[BMI270-dat]] == 3-4 usd 
 
 - [[MPU6886-dat]] - [[MPU6500-dat]] - [[MPU6050-dat]] - [[invensense-dat]] 
 

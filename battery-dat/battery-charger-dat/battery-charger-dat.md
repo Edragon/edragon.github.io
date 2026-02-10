@@ -28,6 +28,8 @@ The most following charger options are for the lithium-ion battery
 
 - [[CN3722-dat]] - [[CN3768-dat]]
 
+- [[battery-charger-dat]] - [[BT24075-dat]] - [[TI-power-dat]]
+
 
 ## Board
 

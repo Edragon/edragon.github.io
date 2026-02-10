@@ -17,6 +17,21 @@
 ## SDK and bootloader 
 
 
+
+### command line 
+
+windows: 
+
+    adafruit-nrfutil.exe --verbose dfu serial --package feather_nrf52840_express_bootloader-0.8.0_s140_6.1.1.zip --port COMxx -b 115200 --singlebank --touch 1200
+
+    
+### arduino 
+
+- Adafruit nRF52 by Adafruit - https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
+
+
+### UF2 
+
 particle.iot 
 
 - nrf5_sdk - https://github.com/particle-iot/nrf5_sdk
@@ -48,6 +63,21 @@ There are two pins, DFU and FRST that bootloader will check upon reset/power:
 ## Nordic's nRF5x Command Line Tools 
 
 https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF-Command-Line-Tools
+
+
+
+
+## NRFutil 
+
+Nordic nrfutil - https://github.com/NordicSemiconductor/pc-nrfutil
+
+
+DFU via serial/CDC requires adafruit-nrfutil, a modified version of Nordic nrfutil. Install python3 if it is not installed already and run this command to install adafruit-nrfutil from PyPi:
+
+pip3 install --user adafruit-nrfutil
+
+- [[DFU-dat]] - [[serial-dat]] - [[CDC-dat]] - [[NRF5x-sdk-dat]] - [[python-dat]]
+
 
 
 

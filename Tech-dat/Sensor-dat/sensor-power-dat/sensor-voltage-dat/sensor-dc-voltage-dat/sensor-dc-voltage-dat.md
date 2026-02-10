@@ -9,7 +9,9 @@
 - [[sensot-dat]]
 
 
+## battery read 
 
+![](2026-02-10-16-41-40.png)
 
 
 ## ref 

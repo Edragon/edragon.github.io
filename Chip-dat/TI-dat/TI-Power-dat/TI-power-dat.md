@@ -2,6 +2,12 @@
 # TI-power-dat
 
 
+
+
+- [[battery-charger-dat]] - [[BT24075-dat]] - [[TI-power-dat]]
+
+
+
 ## LDO 
 
 
@@ -167,6 +173,17 @@ Use a switching regulator + LDO
 
 Use a regulator family designed for paralleling
 - Some PMICs allow this
+
+
+
+
+
+## battery charger 
+
+- [[BT24075-dat]] - [[TI-power-dat]]
+
+![](2026-02-10-16-44-18.png)
+
 
 ## ref 
 
