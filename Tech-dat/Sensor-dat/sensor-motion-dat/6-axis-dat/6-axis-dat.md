@@ -33,7 +33,7 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
   
 - [[bosch-dat]] 
 
-- [[MPU6500-dat]] - [[MPU6050-dat]] - [[invensense-dat]] 
+- [[MPU6886-dat]] - [[MPU6500-dat]] - [[MPU6050-dat]] - [[invensense-dat]] 
 
 - [[MPU9250-dat]] 
 

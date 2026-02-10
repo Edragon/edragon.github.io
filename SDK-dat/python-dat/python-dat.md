@@ -2,6 +2,15 @@
 # python-dat.md
 
 
+
+- [[Python-IntelHex-dat]] 
+
+https://pypi.org/project/IntelHex/
+
+
+
+
+
 ## install 
 
 windows 

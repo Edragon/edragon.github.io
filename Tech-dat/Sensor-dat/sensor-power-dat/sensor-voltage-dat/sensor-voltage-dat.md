@@ -3,7 +3,10 @@
 
 - [[ac-voltage-transformer-dat]] 
 
-- [[dc-voltage-transformer-dat]] - [[sensor-dc-voltage-dat]]
+- [[dc-voltage-transformer-dat]] 
+
+- [[sensor-dc-voltage-dat]]
+
 
 - [[TI-sensor-dat]]
 
