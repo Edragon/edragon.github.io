@@ -11,12 +11,20 @@ AVR firmware - https://github.com/Edragon/AVR_firmware/tree/master/avrdude
 ![](2023-12-13-14-39-13.png)
 
 
+- in [[arduino-dat]]
 
+files 
 
+    D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\bin\avrdude.exe
+    D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\etc\avrdude.conf
 
+D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\bin\avrdude.exe -C D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\etc\avrdude.conf -v -p m328p -c avrispmkii -P usb -D -Uflash:w:optiboot_lgt8f328p.hex:i
+
+- [[USB-SDK-dat]]
+    
 ## Version
 
-- avrdudess 
+- [[avrdudess-dat]] 
 
 ## examples
 
