@@ -5,6 +5,7 @@ https://www.electrodragon.com/product/ps2-wireless-console-receiver-r2-integrate
 
 - [[NWL1093-dat]] - [[NWL1097-dat]] - [[PS2-console-dat]]
 
+- [[CIC1053-dat]] - [[LGT8F328-DAT]]
 
 - board type arduino pro mini 3.3V/8M
 

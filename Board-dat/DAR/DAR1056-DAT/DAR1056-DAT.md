@@ -4,7 +4,7 @@
 ![](10-01-18-17-03-2023.png)
 
 
-
+- [[CIC1053-dat]] - [[LGT8F328-DAT]]
 
 ### backside jumper setup
 

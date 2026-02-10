@@ -1,9 +1,23 @@
-# LGT8F328 DAT
+# LGT8F328-DAT
 
 - [legacy wiki page](https://www.electrodragon.com/w/Logicgreen)
 
 
-- [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT8F328-SDK-DAT]]
+- [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT8F328-SDK-DAT]] - [[LGT-dat]]
+
+- [[arduino-dat]]
+
+
+## chip and board 
+
+- [[CIC1053-dat]] - [[LGT8F328-DAT]]
+
+- [[DVA1009-dat]] - [[DAR1056-dat]] - [[NWL1097-dat]]
+
+- [[DVA1014-dat]] - [[DVA1018-dat]]
+
+
+
 
 ## comparison to arduino atmega328
 
