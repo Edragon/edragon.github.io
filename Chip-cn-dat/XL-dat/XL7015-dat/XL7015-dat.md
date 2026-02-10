@@ -25,6 +25,19 @@ Features
 -  SOP8-EP (Exposed PAD) package
 
 
+
+![](2026-02-10-14-40-58.png)
+
+- 47UH or 100UH 1A 
+- 33UF/100V 
+- 100UF/35V
+- S310 
+- 30K / 2.7K 
+- 33NF 
+
+- [[resistor-feedback-dat]] - [[resistor-dat]]
+
+
 ## ref 
 
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]

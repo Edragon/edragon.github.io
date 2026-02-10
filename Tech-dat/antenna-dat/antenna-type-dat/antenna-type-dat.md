@@ -1,5 +1,10 @@
 
-# 
+# antenna-type-dat
+
+
+- [[antenna-dat]]
+
+- [[antenna-ceramic-dat]] - [[antenna-lolipop-dat]] - [[antenna-spring-dat]] - [[antenna-T-dat]] - [[antenna-whip-dat]]
 
 
 
@@ -27,5 +32,8 @@
 ![](2024-11-08-19-16-45.png)
 
 
+
+
 ## ref 
 
+- [[antenna-dat]]

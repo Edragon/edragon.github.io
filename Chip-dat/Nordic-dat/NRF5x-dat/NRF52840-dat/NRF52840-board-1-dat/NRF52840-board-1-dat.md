@@ -3,6 +3,19 @@
 
 - [[arduino-pro-micro-dat]] - [[arduino-dat]]
 
+- [[NRF52840-dat]]
+
+ProMicro NRF52840是一款Pro Micro替代开发板,兼容Nice!Nano，他的引脚与ProMicro相同，意味着他几乎可以与任何ProMicro键盘配合使用。NRF5280开发板上有一个3.7V锂电池接口，和一个软件开关，可以切断LED的电源，在关闭的情况下，待机可以达到1mA的功耗。
+
+强大的无线功能：蓝牙5.0，板载天线
+强大的 CPU：nRF52840芯片采用ARM Cortex-M4F处理器，主频为64MHz，内置1MB的闪存和256KB的RAM
+电池充电芯片：支持锂电池充放电
+功耗：待机可以达到~20uA的功耗
+
+- [[battery-charger-dat]] - [[antenna-dat]]
+
+
+
 ![](2026-01-19-17-09-30.png)
 
 GPIO == 16 
@@ -67,3 +80,6 @@ right side
 ## ref 
 
 - [[NRF52840-dat]]
+
+
+- [[m]]

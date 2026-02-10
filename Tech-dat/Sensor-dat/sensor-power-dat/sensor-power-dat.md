@@ -3,6 +3,14 @@
 
 - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
 
+
+- [[sensor-power-dat]] - [[sensor-current-dat]] - [[sensor-voltage-dat]] - [[sensor-energy-dat]]
+
+
+
+
+
+
 ## DC-DC
 
 - [[SVC1027-dat]] - [[INA226-dat]]

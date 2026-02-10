@@ -8,6 +8,7 @@
 
 - [[NRF5x-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]] - [[nordic-dat]]
 
+nRF52840是一款高性能、低功耗的无线SoC芯片，由挪威Nordic Semiconductor公司推出。它支持多种无线协议，包括Bluetooth 5、Thread、Zigbee、ANT和2.4GHz。nRF52840芯片采用ARM Cortex-M4F处理器，主频为64MHz，内置1MB的闪存和256KB的RAM。它还具有多种外设，包括ADC、PWM、SPI、I2C、UART、USB和GPIO等。此外，nRF52840还支持多种安全功能，如AES加密、SHA-256哈希和True Random Number Generator（TRNG）等。
 
 
 | Feature                     | nRF52805 | nRF52810 | nRF52811 | nRF52820 | nRF52832 | nRF52833 | nRF52840 | nRF5340 |

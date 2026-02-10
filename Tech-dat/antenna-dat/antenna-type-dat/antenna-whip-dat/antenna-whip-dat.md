@@ -1,5 +1,5 @@
 
-# whip-antenna-dat
+# antenna-whip-dat
 
 - **Type:** Whip Antenna (Monopole)
 

@@ -98,6 +98,11 @@ request
 
 
 
+## lower current 
+
+当BOOST连接时，充电电流从100ma增加到300ma，只有当电容容量大于500mAh时才可以连接（避免爆炸💥）。
+
+
 
 ## ref
 
