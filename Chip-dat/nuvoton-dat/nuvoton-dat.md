@@ -8,7 +8,7 @@
 
 ## Chips 
 
-- [[n76e003-dat]]
+- [[nuvoton-dat]] - [[N76E003-dat]] - [[DOD1077-dat]]
 
 N79E825A/824A/823A/822A DataSheet
 
@@ -90,6 +90,7 @@ https://github.com/OpenNuvoton/ISPTool/releases/tag/v4.15
 
 ![](2025-05-16-17-14-34.png)
 
+![](2026-02-11-01-10-24.png)
 
 ## repo
 

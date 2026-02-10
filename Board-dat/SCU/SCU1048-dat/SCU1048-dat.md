@@ -106,6 +106,11 @@ loop back to top of while
 
 ## ref 
 
+
+- [[nuvoton-dat]] - [[N76E003-dat]] - [[MCU-dat]]
+
+- [[SCU1048-dat]] - [[DOD1077-dat]] - [[SCU1050-dat]]
+
 - [[MCU-relay-dat]]
 
 - [[SCU1048]]

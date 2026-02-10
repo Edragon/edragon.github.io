@@ -84,8 +84,9 @@ CH32V003 - SOP8
 [[STM32-dat]]
 - [[DOD1096-dat]]
 
-[[CPLD-dat]] / [[FPGA-dat]]
-- [[DODS040-dat]] - [[DODS042-dat]] - [[DODS044-dat]]
+[[CPLD-dat]] / [[FPGA-dat]] - [[DODS040-dat]] - [[DODS042-dat]] - [[DODS044-dat]]
+
+[[nuvoton-dat]] - [[DOD1077-dat]]
 
 ### DPR
 
