@@ -23,12 +23,14 @@
 
 ## comparison to arduino atmega328
 
-| pin   | LGT     | arduino | note      |
-| ----- | ------- | ------- | --------- |
-| pin3  | PE4     | GND     | extra pin |
-| pin6  | PE5     | VCC     | extra pin |
-| pin18 | PE0/SWC | AVCC    | prog port |
-| pin21 | PE2/SWD | GND     | prog port |
+| pin | LGT     | arduino | note      |
+| --- | ------- | ------- | --------- |
+| 3   | PE4     | GND     | extra pin |
+| 6   | PE5     | VCC     | extra pin |
+| 18  | PE0/SWC | AVCC    | prog port |
+| 21  | PE2/SWD | GND     | prog port |
+| 4   | VCC     | VCC     | common    |
+| 5   | GND     | GND     | common    |
 
 common pin 
 - pin 4 = VCC
