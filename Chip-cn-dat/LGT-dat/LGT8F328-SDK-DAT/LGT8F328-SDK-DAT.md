@@ -7,6 +7,65 @@
 
 - [[VisualGDB]]
 
+- [[programmer-socket-dat]]
+
+- [[CH55x-dat]]
+
+## SWDICE
+
+![](2026-02-11-02-42-37.png)
+
+Connect your new programming device to the board to be programmed (“target”) as follows:
+
+| Programmer   | Target |
+| ------------ | ------ |
+| GND          | GND    |
+| 5V           | VCC    |
+| Pin 12 (D12) | SWD    |
+| Pin 10 (D10) | RST    |
+| Pin 13 (D13) | SWC    |
+
+
+- [[SWDICE-dat]]
+
+![](2026-02-11-02-45-22.png)
+
+![](2026-02-11-02-58-41.png)
+
+### SISP
+
+- connect pin 18 AVCC and pin 21 GND 
+ SISP 模式为在线烧写模式，  可以支持 LGT 目前除 LGT8F08A 以为的所有芯片，也将
+支持 LGT 未来发布的芯片。这种模式下，SWDICE_mkII Pro 为 WinUSB 设备，只能够通过
+LGTMix_ISP 工具访问，但需要使用 3.x 以上的版本。 
+
+
+  SISP 模式下，SWDICE_mkII Pro 在 Windows 8/10 系统下无需驱动，操作系统自带 winusb
+设备驱动。在 Windows XP/7 系统下，  需要安装 SWDISP_mkII 驱动程序。SWDISP_mkII 驱动
+可通过官网下载，  或者与我们联系获得。   
+ 
+  另外两种模式为调试器模式。分别用于调试 LGT8X/AVR 内核以及 MIC8X/PIC 内核系列芯
+片。调试器模式下，SWDICE_mkII Pro 工作于专用 USB 设备，需要由相应的开发环境以及调
+试器驱动支持。一般安装开发环境会同时安装调试器所需驱动，无需单独安装。 
+
+### SICE
+
+  SICE 模式用于调试 LGT8X/AVR 内核芯片。包括 LGT8F08A，LGT8F88A/B，LGT8FX8D 系
+列芯片，以及未来所有 LGT 基于 LGT8X/AVR 内核的所有芯片。 
+  SICE 模式下，  SWDICE_mkII Pro 将会被枚举为 JTAGICE_mkII 设备，可以配合 AVRStudio 
+4/5/6/7 或者 IAR workbench for AVR 实现芯片的在线调试。安装开发环境后，将同时安装调
+试器相关驱动。如果需要单独安装，可以在我们的官网下载 driver-atmel--bundle-7.0.888 驱
+动安装程序。 
+
+### ICSP 
+
+  ICSP 模式用于调试 MIC8X/PIC 内核芯片。目前 LGT 基于 MIC8X/PIC 内核的芯片包括
+LGT8P653A/663A，LGT8F684A。但这些芯片都不支持在线调试。因此此功能暂时不可用。在
+LGT 后续发布支持在线调试的 MIC8X 内核芯片，我们将提供固件升级以支持 ICSP 在线调试
+功能。因此对于目前的 LGT8P653/663A 以及 LGT8F684A 芯片，请使用 SISP 在线烧写模式。
+
+
+
 ## programming interface 
 
 - GND2/AREF/`SWD`/PE2

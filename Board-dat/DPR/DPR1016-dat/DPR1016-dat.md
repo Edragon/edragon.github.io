@@ -9,6 +9,14 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
+- [[CCO3626-dat]] - [[CCO3627-dat]] - [[CCO3628-dat]] - [[CCO3629-dat]] - [[DPR1016-dat]]
+
+https://www.electrodragon.com/product-category/modules/programmer/ic-socket-programmer/
+
+
+
+
+
 - [[TQFP32-dat]] - [[TQFP-dat]] - [[footprint-dat]]
 
 covert map 
