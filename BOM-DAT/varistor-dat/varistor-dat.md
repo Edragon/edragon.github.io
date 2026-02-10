@@ -1,6 +1,19 @@
 
 # varistor-dat
 
+10D471K 
+
+07D471K
+
+Using `10D471K` as the primary example:
+
+`10 (or 07)`: This indicates the disk diameter in millimeters.
+
+`10D` = 10mm diameter.
+
+`07D` = 7mm diameter.
+
+
 
 ## GMOV-14D151K 
 

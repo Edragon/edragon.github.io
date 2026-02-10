@@ -4,11 +4,19 @@
 
 - [[ac-mains-dat]] - [[ACDC-dat]]
 
+[legacy wiki page](https://www.electrodragon.com/w/AC-DC)
+
+
+
 ## tech 
 
 - [[transformer-dat]]
 
 - [[power-protection-dat]]
+
+
+
+
 
 ## Modules 
 
