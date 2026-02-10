@@ -35,6 +35,10 @@ single chip options
 
 The [[ITG320-dat]] (often paired as ITG3205) refers to a MEMS gyroscope IC, commonly found on the GY-85 sensor module, which integrates a 3-axis gyro (ITG3205), a 3-axis accelerometer ([[ADXL345-dat]]), and a 3-axis magnetometer ([[HMC5883L-dat]]) into a single 9-Degrees-of-Freedom (9DOF) Inertial Measurement Unit (IMU) for motion sensing in electronics projects, communicating via I2C. 
 
+
+
+
+
 ## AHRS VS IMU 
 
 An AHRS (Attitude and Heading Reference System) sensor integrates 3-axis gyroscopes, accelerometers, and magnetometers to provide precise 3D orientation (pitch, roll, and yaw) for drones, robotics, and aircraft. These MEMS-based devices use sensor fusion algorithms (e.g., Kalman filters) to calculate orientation and correct for drift. 
@@ -60,6 +64,8 @@ Applications
 
 While an Inertial Measurement Unit (IMU) only outputs raw data (acceleration/angular rate), an AHRS uses on-board processing to calculate and output actual orientation data (quaternions or Euler angles). 
 
+
+example - [x-IMU3](https://x-io.co.uk/x-imu3/)
 
 ## app 
 
