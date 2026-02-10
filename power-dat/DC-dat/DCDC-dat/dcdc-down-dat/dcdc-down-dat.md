@@ -6,7 +6,7 @@
 
 ## chip and companies
 
-- [[MPS-dat]] - [[MP1658-dat]]
+- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]]
 
 - [[TI-power-dat]] - [[TPS54302-dat]]
 

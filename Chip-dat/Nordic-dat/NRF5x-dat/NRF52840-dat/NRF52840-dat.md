@@ -2,11 +2,12 @@
 # NRF52840-dat
 
 
+- [[u-blox-dat]]
 
 - [[NRF5x-dat]] - [[NRF5x-SDK-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]]
 
 
-- [[NRF52840-mod-dat]] - [[NRF52840-board-1-dat]]
+- [[NRF52840-mod-dat]] - [[NRF52840-board-1-dat]] - [[arduino-nano-33-ble-dat]] 
 
 
 

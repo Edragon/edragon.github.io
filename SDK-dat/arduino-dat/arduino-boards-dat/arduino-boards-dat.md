@@ -13,6 +13,8 @@ legacy wiki page - https://www.electrodragon.com/w/Category:Arduino
 
 - [[arduino-mega-dat]]
 
+- [[arduino-nano-33-ble-dat]] - [[arduino-boards-dat]]
+
 
 - [[arduino-zero-dat]]
 

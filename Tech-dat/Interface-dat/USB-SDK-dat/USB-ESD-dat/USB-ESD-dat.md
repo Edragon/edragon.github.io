@@ -2,6 +2,11 @@
 # USB-ESD-dat
 
 
+
+## PRTR5V
+
+
+
 ## TPD7EUSB30
 
 ![](2025-09-04-18-52-50.png)

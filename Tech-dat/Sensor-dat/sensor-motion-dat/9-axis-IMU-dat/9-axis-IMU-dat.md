@@ -20,14 +20,18 @@ combination options
 
 single chip options
 
-- LSM9DS1 - LSM9DS1 9 Axis, Gyrometer, Accelerometer and Magnetometer
+- [[LSM9DS1-dat]] - LSM9DS1 9 Axis, Gyrometer, Accelerometer and Magnetometer - [[st-sensor-dat]]
+
+
+![](2026-02-10-17-46-38.png)
+
+
+
+
 
 - [[BNO055-dat]] - [[ASHR-dat]]
 
 - [[MPU9255-dat]] - [[invensense-dat]] - [[MPU9250-dat]]
-
-
-
 
 
 

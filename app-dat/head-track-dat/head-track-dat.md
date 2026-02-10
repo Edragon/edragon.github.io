@@ -8,6 +8,7 @@
 
 https://github.com/headtracker/HeadTracker
 
+https://headtracker.gitbook.io/head-tracker-v2.2/
 
 The Nano 33 BLE + Nano 33 BLE Sense are now both obsolete. Their replacements are
 **Nano 33 BLE Rev 2 and Nano 33 BLE Rev 2 Sense**
