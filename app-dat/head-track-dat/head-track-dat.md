@@ -27,7 +27,7 @@ The Nano 33 BLE + Nano 33 BLE Sense are now both obsolete. Their replacements ar
 - [[radiomaster-dat]] - [[servo-DSC-dat]] - [[servo-dat]]
 
 
-- [[9-axis-IMU-dat]] - [[LSM9DS1-dat]]
+- [[9-axis-IMU-dat]] - [[LSM9DS1-dat]] - [[sensor-motion-dat]]
 
 - MPU6500 6 axis, Gyrometer & Accelerometer - [[6-axis-dat]] - [[LSM6DS3-dat]] - [[BMI270-dat]]
 - QMC588s 3 axis, Magnetometer - [[3-Axis-Magnetic-dat]] - [[BMM150-dat]] - [[HMC5883-dat]] - [[honeywell-dat]]

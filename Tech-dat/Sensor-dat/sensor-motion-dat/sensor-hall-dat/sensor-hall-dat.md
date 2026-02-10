@@ -1,10 +1,40 @@
 
 # sensor-hall-dat
 
-- [[sensor-hall-swtich-dat]]
 
 
-WCS2800 - Hall Effect Base Linear Current Sensor
+
+
+
+## board 
+
+- [[SMO1063-dat]] - [[SMO1016-dat]] - [[sensor-hall-dat]]
+
+
+
+
+## hall-switch-dat
+
+- **Omnipolar Operation (North or South Pole)**
+
+AH1911/AH1921
+
+ULTRA-LOW POWER DIGITAL OMNIPLOAR HALL-EFFECT SWITCH
+
+https://www.diodes.com/datasheet/download/AH1911.pdf
+
+The AH1911/AH1921 is an ultra-low power digital Omnipolar Hall Effect switch IC from Diodes broad Hall Effect switches family. 
+
+Thanks to the hibernating clocking system, the average supply current is only 1.6μA at 3V, which makes the AH1911/AH1921 perfectly fit battery-powered consumer products, Gas or water meter, smoke detectors and IoT devices. 
+
+The wider range of supply voltage (1.6V to 5.5V) extends battery operating time and supports low voltage system microcontrollers, which provides great flexibility for system design. 
+
+The advanced chopper stabilized design provides superior stability on switch operating point over temperature and supply voltage. The high ESD level up to 6kV helps to improve the system robustness. 
+
+
+
+
+
 
 
 ## motor with hall sensor 
@@ -37,10 +67,24 @@ TYPICAL APPLICATION
 
 ![](2026-02-06-19-15-15.png)
 
+
+
+## chip 
+
+WCS2800 - Hall Effect Base Linear Current Sensor
+
+
+* A3212
+* EST248
+
+
+
+
 ## more chips  
 
 3144 - Surface mount 44E SOT23 Hall element A3144E sensor, unipolar HAL3144E switch type
 
+- datasheet == [[3144_datasheet.pdf]]
 
 CC6207ST SOT-23 Omnipolar Low-Power Hall Effect Switch Sensor
 
@@ -50,3 +94,5 @@ CC6207ST SOT-23 Omnipolar Low-Power Hall Effect Switch Sensor
 ## ref 
 
 - [[sensor-motion-dat]]
+
+- [[switch-dat]]

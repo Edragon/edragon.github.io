@@ -8,6 +8,21 @@
 - [[74xx-dat]] - [[logic-inverter-dat]]
 
 
+
+
+## 74HC14
+
+- [[74HC14-dat]] - [[inverter-dat]]
+
+Hex Schmitt−Trigger Inverter
+
+High−Performance Silicon−Gate CMOS
+
+The 74HC14 is identical in pinout to the LS14, LS04 and the HC04.
+
+The device inputs are compatible with Standard CMOS outputs; with pullup resistors, they are compatible with LSTTL outputs.
+
+
 ## types 
 
 - [[74hct245-dat]]

@@ -16,7 +16,7 @@
 
 3轴MEMS加速度计，超低功耗，±2g/±4g/±8g/±16g满量程，高速I2C/SPI数字输出，内置FIFO和高性能加速度传感器，LLGA 16 3x3x1.0封装
 
-- [[MMA8452-dat]]
+- [[MMA8452-dat]] - [MMA8452Q 3-axis, 12-bit/8-bit digital accelerometer](https://www.nxp.com/docs/en/data-sheet/MMA8452Q.pdf)
 
 - [[MMA7361-dat]]
 
