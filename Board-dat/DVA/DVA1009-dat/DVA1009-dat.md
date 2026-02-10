@@ -8,13 +8,16 @@
 
 ## tech 
 
-- [[LGT-dat]] - [[lgt8f328-dat]]
+- [[LGT-dat]] - [[lgt8f328-dat]] - [[lgt8f328-sdk-dat]]
 
 - [[lora-dat]]
 
 
+## programming 
 
+![](2026-02-11-01-52-55.png)
 
+- [[LGT8F328-SDK-DAT]]
 
 
 ## ref 

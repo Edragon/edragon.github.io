@@ -5,10 +5,12 @@
 
 - [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT8F328-SDK-DAT]] - [[LGT-dat]]
 
-- [[arduino-dat]]
+- [[arduino-dat]] - [[arduino-uno-dat]]
 
 
 ## chip and board 
+
+
 
 - [[CIC1053-dat]] - [[LGT8F328-DAT]]
 
@@ -33,6 +35,10 @@ common pin
 - pin 5 = GND
 
 ![](58-57-15-14-02-2023.png)
+
+![](2026-02-11-01-37-41.png)
+
+![](2026-02-11-01-42-24.png)
 
 ## LGT8F328-QFP MIN SYS 
 

@@ -53,12 +53,10 @@ Notes:
 
 
 
-## ref 
 
-- datasheet - https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf
-- SCH - https://docs.arduino.cc/resources/schematics/A000066-schematics.pdf
+## SCH 
 
-
+![](2026-02-11-02-25-37.png)
 
 ## ref 
 
@@ -67,6 +65,9 @@ Notes:
 - [[arduino-dat]]
 
 
-## ref 
+
+- datasheet - https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf
+- SCH - https://docs.arduino.cc/resources/schematics/A000066-schematics.pdf
+
 
 - [[atmega328-dat]]

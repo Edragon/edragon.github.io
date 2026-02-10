@@ -9,6 +9,15 @@
 
 
 
+## chip 
+
+- LGT8F328P-LQFP32
+- LGT8F328D 
+- LGT8F88B (88A改) QFP32L 8位单片机
+- LGT8F684A-SOP16
+- LGT8F684A-SOP8
+
+
 
 ## LGT8x 
 
