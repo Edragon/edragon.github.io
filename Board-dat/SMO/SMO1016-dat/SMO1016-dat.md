@@ -15,6 +15,10 @@ SCH
 
 - [[74HC14-dat]] - [[74xx-dat]]
 
+Words:
+
+- 电源指示: Power Indicator; 
+- 开关是指示: status Indicator
 
 ## Applications, category, tags, etc. 
 

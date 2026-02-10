@@ -7,7 +7,7 @@
 
 - [[9-axis-IMU-dat]]
 
-- [[sensor-hall-dat]]
+- [[sensor-hall-dat]] - [[sensor-speed-dat]] - [[sensor-tilt-switch-dat]] - [[sensor-motion-dat]] - [[sensor-dat]]
 
 - [[sensor-gesture-dat]] - [[sensor-touch-dat]] - 
 
