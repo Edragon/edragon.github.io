@@ -1,6 +1,13 @@
 
 # speaker-dat
 
+
+
+- [[amplifier-audio-dat]] - [[8002-dat]] - [[speaker-dat]] - [[bt-audio-dat]]
+
+
+
+
 The terms 4-ohm and 8-ohm refer to the impedance of the speaker. Impedance is a measure of the resistance the speaker provides to the electrical current coming from the amplifier. It is measured in ohms (Ω) and directly impacts how the speaker interacts with an amplifier.
 
 Key Points about 4-Ohm and 8-Ohm Speakers:

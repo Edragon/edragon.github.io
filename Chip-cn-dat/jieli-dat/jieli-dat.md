@@ -16,6 +16,25 @@ https://doc.zh-jieli.com/vue/#/home
 - [[amplifier-audio-dat]]
 
 
+## AC20CM 
+
+![](2026-02-11-16-11-50.png)
+
+- [[amplifier-audio-dat]] - [[8002-dat]] - [[speaker-dat]] - [[bt-audio-dat]]
+
+- [[MP3-dat]] - [[mp3-decoder-dat]] - [[microsd-dat]]
+
+- 1、TF卡MP3解码板，不带TF卡，支持播放MP3音乐文件，目前测试16GTF卡支持，再大的还没试过，3.7锂电池或USB5V可供电。
+- 2、板子右上角3组白色方框为3组轻触按键，中间一组为播放暂停键，上下2组短按为上下区键，上下2组长按为音量+-调节。
+- 3、带2W单声道功放，5V供电时功放最大输出3W，建议搭配4欧3W插卡小音箱上的小喇叭，音质好，声音很大，如果觉得音量还不够大，请直接换4欧5瓦的喇叭，但要注意散热，要加散热片。
+- 4、有顾客反映功放在播放音乐时，会有发热现象，功放芯片或功放管发热是正常的，只要不把功放开到大音量之后，短路喇叭的输出端（阻值0欧）是不会烧功放芯片的，可放心使用。
+- 5、如不需要这款板子的功放，自己接功放，可按如下改装，把板子的功放芯片（8脚的芯片）去掉，然后从主控的第4脚和第6脚，（这两个脚是主控芯片左右声道输出）各串联一个104或224的电容去功放的输入端即可（电容起隔离作用，以防同一电源供电时烧前级主控芯片或后期的功放管）剩下一根线从负极去功放输入的公共端。
+- 6、如要把这个板子改装用耳机听音乐的，把板子的功放芯片（8脚的芯片）去掉，然后从主控的第4脚和第6脚（这两个脚是主控芯片的左右声道输出）各串联一个104或224的电容去耳机的左右声道，剩下一根线从负极接去耳机的公共端。
+
+
+
+
+
 ## AC410N
 
 AC410N: AC410N series is a Bluetooth audio chip series, with low power consumption and high performance microprocessor of 96KB SRAM, integrated 32-bit RISC CPU and rich peripheral circuits. The characteristics of this series are chips, which are launched for low power consumption applications, and the Bluetooth version is 2.0+EDR.

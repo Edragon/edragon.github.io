@@ -7,6 +7,9 @@
 
 - [[amplifier-dat]] - [[amplifier-audio-dat]]
 
+- [[amplifier-audio-dat]] - [[8002-dat]] - [[speaker-dat]] - [[bt-audio-dat]]
+
+
 - [[signal-dat]] - [[signal-differential-dat]]
 
 - [[I2S-dat]] 

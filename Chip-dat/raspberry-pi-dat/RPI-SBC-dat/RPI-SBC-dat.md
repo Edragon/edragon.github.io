@@ -9,7 +9,9 @@
 
 - [[RPI-HDK-dat]] 
 
-- [[RPI3-dat]] - [[RPI4-dat]] - [[RPI-zero-dat]] - [[RPI-zero-w-dat]] - [[RPI-zero-2w-dat]]
+- [[RPI3-dat]] - [[RPI4-dat]] 
+  
+- [[RPI-zero-dat]] - [[RPI-zero-w-dat]] - [[RPI-zero-2w-dat]]
 
 - official documentation - https://www.raspberrypi.com/documentation/
 

@@ -1,6 +1,16 @@
 
 # RPI-zero-dat
 
+
+
+## USB Extent 
+
+![](2026-02-11-16-16-28.png)
+
+
+## info Zero 2W
+
+
 【Raspberry Pi Zero 2W Features】
 
 - Broadcom BCM2710A1, 1GHz quad-core 64-bit Arm Cortex-A53 CPU
@@ -28,3 +38,6 @@
 
 
 
+## ref 
+
+- [[RPI-HDK-dat]] - [[RPI-SBC-dat]]
