@@ -13,7 +13,7 @@
 
 - [[wireless-charge-dat]] - [[QI-dat]]
 
-- [[USB-FC-dat]] - [[USB-FC-trigger-dat]] - [[BC1.2-dat]] - [[Apple-2.4A-dat]] - [[DCP-dat]] - [[CDP-dat]] - [[SDP-dat]]
+- [[USB-FC-dat]] - [[USB-FC-trigger-dat/USB-sniffer-dat]] - [[BC1.2-dat]] - [[Apple-2.4A-dat]] - [[DCP-dat]] - [[CDP-dat]] - [[SDP-dat]]
 
 
 

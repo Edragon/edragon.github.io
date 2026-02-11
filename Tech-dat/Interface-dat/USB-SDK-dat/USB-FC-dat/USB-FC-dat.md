@@ -1,7 +1,7 @@
 
 # USB-FC-dat
 
-- [[USB-FC-trigger-dat]]
+- [[USB-sniffer-dat]]
 
 
 ## USB-PD-dat

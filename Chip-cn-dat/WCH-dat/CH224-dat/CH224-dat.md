@@ -1,7 +1,7 @@
 
 # CH224-dat
 
-- [[USB-FC-trigger-dat]]
+- [[USB-FC-trigger-dat/USB-sniffer-dat]]
 
 - datasheet == [[ch224ds1.pdf]]
 

@@ -25,7 +25,7 @@
 
 - [[clock-dat]]
 
-- [[CONN-USB-dat]]
+- [[CONN-USB-dat]] - [[USB-SDK-dat]]
 
 
 

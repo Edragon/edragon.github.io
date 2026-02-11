@@ -40,8 +40,11 @@ mounting - panel == through hole or PCB
 - [[sensor-tilt-switch-dat]] - [[sensor-dat]]
 
 
+## SMD 3P-2T Switch 
 
+![](2026-02-11-17-12-35.png)
 
+![](2026-02-11-17-13-26.png)
 
 ## SMD Switch 
 

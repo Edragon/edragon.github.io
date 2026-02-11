@@ -3,6 +3,9 @@
 [legacy wiki page](https://w.electrodragon.com/w/Category:MPS)
 
 
+- [[MPS-dat]] - [[MP28167-dat]] - [[MPM3610-dat]]
+
+
 ## Chips 
 
 MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated Inductor
@@ -78,3 +81,6 @@ MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated 
 
 
 ## ref 
+
+
+

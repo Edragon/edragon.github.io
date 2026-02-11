@@ -4,7 +4,7 @@
 
 - [[CH549-dat]] == [[DAPlink-dat]]
 
-- [[USB-FC-trigger-dat]] - [[CH224-dat]]
+- [[USB-FC-trigger-dat/USB-sniffer-dat]] - [[CH224-dat]]
 
 
 

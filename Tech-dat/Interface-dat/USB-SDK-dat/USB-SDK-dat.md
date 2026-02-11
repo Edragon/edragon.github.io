@@ -22,7 +22,9 @@
 
 - [[keyboard-dat]] - [[mouse-dat]]
 
-- [[USB-FC-trigger-dat]] - [[USB-FC-dat]]
+- [[USB-sniffer-dat]] - [[USB-Hub-dat]] - [[USB-Switch-dat]]
+
+- [[USB-FC-dat]] 
 
 - [[WCH-dat]]
 
@@ -30,7 +32,7 @@
 
 
 
-- [[USB-Hub-dat]] - [[USB-Switch-dat]]
+
 
 
 ## USB variations 
