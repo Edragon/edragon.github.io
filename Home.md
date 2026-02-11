@@ -17,9 +17,9 @@
 
 - [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]]
 
-- [[sensor-dat]] - [[sensor-touch-dat]]
+- [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]]
 
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]]
 
 - [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
 
@@ -39,7 +39,7 @@
 
 - [[cable-dat]]
 
-- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]] - [[ISP-dat]]
+- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]] - [[ISP-dat]] - [[JLINK-dat]]
 
 
 - [[service-dat]] - [[discount-dat]] - [[shipment-dat]] 

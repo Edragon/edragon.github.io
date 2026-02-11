@@ -10,7 +10,7 @@
 
 ## ref 
 
-- [[trim-pot-dat]]
+- [[resistor-trim-pot-dat]]
 
 ## types 
 

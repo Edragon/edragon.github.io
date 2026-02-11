@@ -1,6 +1,11 @@
 
 # OPMS080-dat 
 
+
+
+- [[thyristor-dat]] - [[ST-power-dat]]
+
+
 - The voltage regulator has been upgraded again, and the voltage regulation range can be truly smoothly adjusted from 10v to 220v.
 - More suitable for industrial enterprises that require low voltage driving heating wires.
 - Such as cutting styrofoam, pearl cotton, raincoat making, etc.
@@ -19,6 +24,12 @@
 
 - [[ST-power-dat]]
 
+
+## Note:
+
+- Connect the load first then do the tuning
+- SCR is mainly used for resistive loads (incandescent electric wire, etc.), most of the single-phase AC motor can, but can not guarantee, other types of loads buyer to confirm their own. Fuse is not a panacea, there is reaction time, if the current is too large, in addition to burn the fuse, the module may also be burned.
+- Note fitting plastic cover due to the installation of the housing, can not be completely open, screwdriver to tighten the side with the point, the other to be careful when opened, excessive force easily snapping the lid, express transportation may also crushed for wearing parts, but does not affect the module uses, any plastic cover issues related to the restaurant is not responsible for the return.
 
 
 ## ref 

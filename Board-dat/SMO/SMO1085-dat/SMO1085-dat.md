@@ -1,6 +1,8 @@
 # SMO1085-dat
 
 
+[legacy wiki page](https://w.electrodragon.com/w/Proximity_SR04T)
+
 ## Info
 
 [product url - Integrated Ultrasonic Proximity Sensor, Reversing radar, SR04T](https://www.electrodragon.com/product/integrated-ultrasonic-proximity-sensor-reversing-radar-sr04t/)

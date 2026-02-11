@@ -33,7 +33,7 @@
 
 https://github.com/omriharel/deej
 
-- [[WS2812-dat]] - [[trim-pot-dat]]
+- [[WS2812-dat]] - [[resistor-trim-pot-dat]]
 
 - [[CH552]]
 

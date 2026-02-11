@@ -3,7 +3,7 @@
 
 - [[sensor-humidity-dat]] - [[sensor-pressure-dat]] - [[sensor-temperature-dat]]
 
-- [[temp-hum-sensor-dat]]
+- [[sensor-temp-hum-dat]] - [[BME280-dat]] - [[bosch-dat]] - [[BME580-dat]]
 
 ## BME280 Features
 

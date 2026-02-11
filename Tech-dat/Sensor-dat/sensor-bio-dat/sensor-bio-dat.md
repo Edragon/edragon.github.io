@@ -4,13 +4,30 @@
 
 - [[sensor-bio-heart-rate-dat]]
 
-- [[sensor-ecg-dat]] - [[ECG-dat]] - Electrocardiogram (ECG) Sensors and Modules
+- [[pulse-rate-dat]]
 
-- [[feel-sensor-dat]] - [[pulse-rate-dat]]
+- Blood Oxygen
 
 
-[[sensor-bio-ECG-dat]] - [[sensor-bio-heart-rate-dat]]
 
+- [[sensor-bio-ECG-dat]] - [[sensor-ecg-dat]] - [[ECG-dat]] - Electrocardiogram (ECG) Sensors and Modules
+
+- [[feel-sensor-dat]] 
+
+
+
+## chip 
+
+- [[MAX30100-dat]] - [[MAX30102-dat]] - [[sensor-bio-dat]]
+
+
+## boards 
+
+- [[SMO1013-dat]]
+
+## apps 
+
+Pulse Oximeter
 
 
 ## un-sort 

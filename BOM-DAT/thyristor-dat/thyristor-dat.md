@@ -6,6 +6,14 @@
 
 A **thyristor (SCR)** gate is triggered by a positive (high) voltage pulse applied to the gate terminal relative to the cathode.
 
+- [[thyristor-dat]] - [[ST-power-dat]]
+
+
+## BTA41-600B
+
+- [[OPMS080-dat]]
+
+
 
 ## 70TPS12
 

@@ -1,8 +1,19 @@
 
-# trim-pot-dat 
+# resistor-trim-pot-dat 
 
+
+- [[resistor-dat]] - [[resistor-trim-pot-dat]]
 
 - [[peripherals-dat]]
+
+
+
+
+## presision trim pot 
+
+WXD3-13-2W 220R470欧 1K 2.2K 4.7K 5.6K 10K 47K
+
+- [[CKI1080-dat]] - [[CKI1081-dat]] - [[CKI1082-dat]] - [[CKI1083-dat]] - [[resistor-trim-pot-dat]]
 
 
 ## SCH 

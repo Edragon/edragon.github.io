@@ -1,6 +1,14 @@
 
 # sensor-temp-hum-dat
 
+
+
+
+## solutions list 
+
+- [[BME280-dat]] - [[bosch-dat]] 
+
+
 - HDC1080 
 
 - HTU21D

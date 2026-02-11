@@ -15,6 +15,7 @@ legacy wiki page - https://www.electrodragon.com/w/Category:Arduino
 
 - [[arduino-nano-33-ble-dat]] - [[arduino-boards-dat]]
 
+- [[arduino-pro-mini-dat]]
 
 - [[arduino-zero-dat]]
 
