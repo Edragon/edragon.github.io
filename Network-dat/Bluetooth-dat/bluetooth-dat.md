@@ -4,7 +4,6 @@
 - [[bluetooth-dat]] - [[BLE4-dat]] - [[BLE5-dat]] - [[BT-dual-mode-dat]] - [[BT-SPP-dat]] - [[bt-audio-dat]] - [[BLE-dat]]
 
 
-
 - [[ibeacon-dat]] - [[mesh-node-dat]]
 
 - [[BLE-SDK-dat]] - [[bt-debug-dat]]

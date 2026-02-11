@@ -14,6 +14,8 @@
 - [[speaker-dat]] - [[headphone-dat]]
 
 
+- [[8002-dat]]
+
 ## boards 
 
 - [[AMP1024-dat]]

@@ -9,6 +9,10 @@
 - [[PT2262-dat]] - [[PT2272-dat]] - [[RF-link-dat]] - [[network-dat]]
 
 
+
+
+
+
 ## Network tech by range 
 
 | Technology      | Range                      | Data Rate | Notes                               |
@@ -21,6 +25,13 @@
 
 
 ## main category
+
+
+
+- [[LTE-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[GPRS-dat]] - [[network-dat]]
+
+- [[RTU-dat]] - [[DTU-dat]]
+
 
 - [[M2M-dat]] - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface-dat]]
 

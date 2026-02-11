@@ -7,6 +7,9 @@
 module - [[NBL1012-dat]] - [[NBL1022-dat]] == [[beken-dat]]
 
 
+- [[RF-dat]] - [[radio-dat]] - [[BK1080-dat]]
+
+
 
 
 ## 	Proprietary
@@ -14,6 +17,10 @@ module - [[NBL1012-dat]] - [[NBL1022-dat]] == [[beken-dat]]
 - BK5812
 - BK2481/2/3
 - BK5813
+
+
+
+
 
 ## modules 
 

@@ -3,9 +3,19 @@
 
 - [[M2M-HDK-Ref-dat]] - [[M2M-interface-dat]]
 
+
+- [[LTE-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[GPRS-dat]] - [[network-dat]]
+
+- [[RTU-dat]] - [[DTU-dat]]
+
+
+
 ## Module manufacturer
 
 - [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
+
+
+
 
 ## tech 
 
