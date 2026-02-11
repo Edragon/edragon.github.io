@@ -1,7 +1,7 @@
 
 # audio-dat
 
-- [[mp3-dat]] - [[wav-dat]] - [[mp3-decoder-dat]]
+- [[mp3-dat]] - [[wav-dat]] - [[mp3-decoder-dat]] - [[wave-dat]]
 
 - [[amplifier-dat]] - [[dac-dat]] - [[amplifier-audio-dat]]
 

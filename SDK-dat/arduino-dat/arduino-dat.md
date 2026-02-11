@@ -3,7 +3,9 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Arduino
 
-- [[arduino-boards-dat]] - [[arduino-ide-dat]] - [[arduino-lib-dat]]
+- [[arduino-boards-dat]] 
+  
+- [[arduino-ide-dat]] - [[arduino-lib-dat]]
 
 - [[arduino-programmer-dat]]
 

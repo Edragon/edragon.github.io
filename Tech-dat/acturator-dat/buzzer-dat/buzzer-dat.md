@@ -1,7 +1,11 @@
 
 # buzzer-dat
 
-- [[wave-dat]]
+- [[wave-dat]] - [[audio-dat]]
+
+- [[buzzer-mems-dat]]
+
+## boards 
 
 active buzzer - [[SSL1019-dat]]
 
@@ -10,6 +14,11 @@ passive buzzer
 
 [[piezo-dat]] buzzer 
 - [[SCU1080-dat]]
+
+
+
+
+
 
 
 ## Types of Buzzers
