@@ -37,8 +37,10 @@
 
 - [[bluetooth-dat]]
 
+- [[fiber-optic-dat]]
 
-- [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
+
+- [[cable-dat]] - [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
 
 - long distance = [[lora-dat]] - [[lorawan-dat]] - [[rf-switch-dat]]
 

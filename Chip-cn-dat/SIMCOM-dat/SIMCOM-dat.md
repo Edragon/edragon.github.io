@@ -9,6 +9,8 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 - [[bands-dat]] - [[SIMCOM-size-dat]]
 
+- [[A7670-dat]] - [[SIMCOM-dat]] - [[LTE-dat]] - [[M2M-dat]]
+
 
 ## boards 
 
@@ -26,7 +28,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
   
 - [[SIM7000-dat]]
   
-- [[SIM7020-dat]] - [[NGS1094-dat]] - [[NGS1095-dat]] - [[NGS1096-dat]]
+- [[SIM7020-dat]] - [[NGS1094-dat]] - [[NGS1095-dat]] - [[NGS1096-dat]] - [[SIM7028-dat]]
 
 - [[SIM7060-dat]]
 

@@ -14,7 +14,7 @@
 
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 
-
+- [[XL-dat]] - [[XL4015-dat]] - [[dcdc-down-dat]] - [[XL6009-dat]] 
 
 
 

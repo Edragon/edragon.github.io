@@ -16,6 +16,8 @@ MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM
 - [[Spade-Terminal-dat]]
 
 
+- [[DJI-dat]] - [[SDC-dat]]
+
 
 ## phone connector 
 

@@ -17,7 +17,7 @@
 
 
 
-- [[power-sensor-dat]] - [[dc-current-sensor-dat]] - [[AC-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
+- [[sensor-power-dat]] - [[sensor-dc-current-dat]] - [[AC-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
 
 - [[sensor-voltage-dat]]
 
@@ -28,15 +28,18 @@
 
 
 
-- [[sensor-ambient-dat]] - [[sensor-water-level-dat]] - [[sensor-temp-hum-dat]] - [[sensor-humidity-dat]] - [[sensor-pressure-dat]]
+- [[sensor-ambient-dat]] - [[sensor-temp-hum-dat]] - [[sensor-humidity-dat]] - [[sensor-pressure-dat]]
 
-- [[sensor-moisture-dat]]
+- [[sensor-water-level-dat]] - [[sensor-liquid-dat]]
+
+
+- [[sensor-moisture-dat]] - [[sensor-soil-dat]]
 
 - [[sensor-temperature-dat]] - [[thermocouple-dat]] - [[thermostat-dat]] - [[sensor-RTD-dat]]
 
 - [[sensor-light-dat]] - [[sensor-UV-light-dat]]
 
-
+- [[sensor-temp-hum-dat]]
 
 ## Sell 
 

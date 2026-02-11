@@ -16,13 +16,14 @@
 
 - [[STH1033-dat]]
 
-- [[sensor-temp-hum-dat]] - [[aosong-dat]] - [[AM1011-dat]]
+- [[sensor-temp-hum-dat]] - [[aosong-dat]] 
 
-- [[sensor-temp-hum-dat]] - [[AHT20-dat]] - [[NBL1107-dat]] - [[aosong-dat]]
-
-
+- [[AHT20-dat]] - [[NBL1107-dat]] - [[aosong-dat]] - [[AM2322-dat]] - [[AM1011-dat]]
 
 - [[SHT30-dat]] - [[SHT4x-dat]] - [[sensor-temp-hum-dat]] - [[SHT40-dat]] - [[Sensirion-dat]]
+
+
+
 
 
 HTS221 

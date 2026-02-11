@@ -7,6 +7,14 @@
 
 
 
+
+## board 
+
+- [[SDR1106-dat]]
+
+
+
+
 ## control methods 
 
 - [[ESC-dat]]

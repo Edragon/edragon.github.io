@@ -19,6 +19,12 @@
 - [[mediatek-dat]] - [[MT7628-dat]] - [[MT7688-dat]] - [[MT7620-dat]]
 
 
+
+- SSD202D
+
+
+
+
 ## Compare 
 
 | Device                   | CPU                        | Clock Speed   | NPU           | GPU                             | RAM                                          | Multimedia                    | Connectivity                            | Target Use Case             | Power Efficiency | Price Range |

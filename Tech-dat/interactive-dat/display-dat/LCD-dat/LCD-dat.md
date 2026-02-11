@@ -18,7 +18,7 @@
 
 - [[MIPI-dat]]
 
-
+- [[segment-lcd-dat]]
 
 
 

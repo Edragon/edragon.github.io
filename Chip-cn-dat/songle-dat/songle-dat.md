@@ -1,7 +1,16 @@
 
 # songle-dat
 
-- [[OPM1041-dat]] - [[OPM1042-dat]]
+
+
+- [[OPM1046-dat]] - [[OPM1047-dat]] - [[OPM1048-dat]] - [[OPM1049-dat]] - [[relay-dat]] - [[songle-dat]] - [[relay-modules-dat]]
+
+
+
+## relays 
+
+- [[OPM1041]] - [[OPM1042]] - [[OPM1043]] - [[songle-dat]] - [[relay-dat]]
+
 
 - [[SRD-songle-relay.PDF]
 

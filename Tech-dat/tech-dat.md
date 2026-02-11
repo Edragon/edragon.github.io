@@ -104,7 +104,7 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]]
+- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]]
 
 - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
@@ -117,7 +117,7 @@
 
 - [[interactive-dat]]
 
-- [[LED-dat]] - [[LED-strip-dat]]
+- [[LED-dat]] - [[LED-strip-dat]] - [[led-driver-dat]]
 
 - [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] - [[LCD-dat]]
 

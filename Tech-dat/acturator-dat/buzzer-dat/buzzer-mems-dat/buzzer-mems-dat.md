@@ -2,6 +2,8 @@
 
 # buzzer-mems-dat
 
+- [[I2S-microphone-dat]] - [[buzzer-mems-dat]] - [[sensor-mems-dat]]
+
 
 SMD402 微型电磁式无源蜂鸣器4mm*3mm*2mm DET402 高颜值
 

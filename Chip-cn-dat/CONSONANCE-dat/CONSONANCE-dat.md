@@ -35,6 +35,12 @@
 
 
 
+
+贴片 CN3052A SOP-8 电源芯片/锂电池充电管理芯片
+
+
+
+
 ## repo 
 
 https://github.com/Edragon/consonance

@@ -19,13 +19,17 @@
 
 - [[STM32L151-dat]] == [[NGS1111-dat]] - [[NGS1112-dat]]
 
+- STM32F401CCU6 
+
+
+
 ## Boards 
 
 STM32-F0 - [[STM1001-dat]] 
 
 STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
 
-STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]]
+STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]] 
 
 
 

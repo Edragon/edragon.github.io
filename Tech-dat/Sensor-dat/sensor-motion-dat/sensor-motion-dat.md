@@ -11,9 +11,9 @@
 
 - [[sensor-gesture-dat]] - [[sensor-touch-dat]] - 
 
-
 - [[sensor-proximity-dat]]
 
+- [[sensor-TOF-dat]]
 
 ## chips 
 

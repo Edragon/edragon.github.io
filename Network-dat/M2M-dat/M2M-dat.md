@@ -4,17 +4,19 @@
 - [[M2M-HDK-Ref-dat]] - [[M2M-interface-dat]]
 
 
-- [[LTE-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[GPRS-dat]] - [[network-dat]]
+- [[LWPA-dat]] - [[NBIOT-dat]] - [[GPRS-dat]] - [[network-dat]]
 
 - [[RTU-dat]] - [[DTU-dat]]
+
+- [[A7670-dat]] - [[SIMCOM-dat]] - [[LTE-dat]] - [[M2M-dat]]
 
 
 
 ## Module manufacturer
 
-- [[fibocom-dat]] - [[simcom-dat]] - [[quectel-dat]]
+- [[fibocom-dat]] - [[quectel-dat]]
 
-
+- [[simcom-dat]] - [[SIM808-dat]]
 
 
 ## tech 

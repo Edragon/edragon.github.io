@@ -238,9 +238,13 @@ USB
 
 [[LDO-dat]] - [[LM317-dat]] - [[OPM1087-dat]]
 
-[[DCDC-down-dat]] - [[OPM1192-dat]]
+[[DCDC-down-dat]] - [[OPM1192-dat]] - [[OPM1171-dat]]
 
 [[battery-charge-dat]] - [[fast-charge-methods-dat]] - [[OPM1185-dat]]
+
+
+
+
 
 ### OPS 
 

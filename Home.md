@@ -17,15 +17,15 @@
 
 - [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]]
 
-- [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]] - [[sensor-motion-dat]]
+- [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]] - [[sensor-motion-dat]] - [[sensor-camera-dat]]
 
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]] - [[buzzer-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]] - [[buzzer-dat]] - [[relay-dat]]
 
 - [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
 
 - [[battery-dat]] - [[battery-BMS-dat]] 
 
-- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]]
+- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
@@ -35,7 +35,7 @@
 
 - [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]]
 
-- [[CONN-dat]] - [[CONN-cable-terminal-dat]]
+- [[CONN-dat]] - [[CONN-cable-terminal-dat]] - [[CONN-power-dat]]
 
 - [[cable-dat]]
 

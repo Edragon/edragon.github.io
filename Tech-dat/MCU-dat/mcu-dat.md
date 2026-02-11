@@ -25,6 +25,8 @@
 
 - [[nuvoton-dat]] - [[N76E003-dat]] - [[MCU-dat]]
 
+- [[arduino-boards-dat]] - [[arduino-dat]]
+
 
 ## other types 
 
