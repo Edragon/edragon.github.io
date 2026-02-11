@@ -18,7 +18,7 @@ digital display + [[QC-dat]] == 22.5W
 
 - [[battery-protection-dat]] - [[battery-dat]]
 
-
+- [[IP5306-dat]]
 
 
 
