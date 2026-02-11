@@ -14,6 +14,12 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 
+
+
+
+high power - [[OPMS080-dat]]
+
+
 ## compare 
 
 | model        | description                                                          | peripherals | type        |

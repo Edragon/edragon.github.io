@@ -15,7 +15,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]] - [[74xx-dat]]
 
-- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]]
+- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]] - [[SBC-dat]]
 
 - [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]] - [[sensor-motion-dat]] - [[sensor-camera-dat]]
 
@@ -85,5 +85,5 @@
 
 - [[edragon]] - [[board]] - [[edragon-fab]] - [[edragon-dev]] - [[HDK]]
 
-- [[m]] - [[app]]
+- [[m]] - [[app]] - [[items]]
 

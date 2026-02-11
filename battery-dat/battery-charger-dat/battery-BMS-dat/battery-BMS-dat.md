@@ -6,6 +6,16 @@
 - [[fast-charge-methods-dat]] - [[USB-PD-dat]]
 
 
+- [[BMS]]
+
+## charge and supply 2in1 
+
+- CD42
+
+
+
+
+
 ## 3. Protection Features
 
 Look for these essential protections:

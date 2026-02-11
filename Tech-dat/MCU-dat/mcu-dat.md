@@ -40,6 +40,20 @@
 
 
 
+## MCU with [[network-dat]] 
+
+
+- [[ESP32-dat]] 
+
+- [[nrf52840-dat]] 
+
+- [[RDA-dat]] - [[bouffalolab-dat]]
+
+- [[BL616-dat]]
+s
+- [[u-blox-dat]]
+
+- [[ASR6500-dat]]
 
 
 ## Common-used MCU 
