@@ -5,6 +5,13 @@
 
 
 
+## solutions 
+
+- [[xysemi-dat]] == 12A 
+
+- [[dcdc-boost-dat]] - [[xysemi-dat]]
+
+
 ## UPS example product 1. 
 
 

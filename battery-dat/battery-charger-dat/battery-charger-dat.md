@@ -47,6 +47,9 @@ The most following charger options are for the lithium-ion battery
 - [[CD42-dat]]
 
 
+- [[XL-dat]]
+
+
 
 ## Board
 

@@ -20,6 +20,9 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[MT3608-dat]] - [[dcdc-boost-dat]] - [[OPM1089-dat]]
 
+- [[dcdc-boost-dat]] - [[xysemi-dat]]
+
+
 
 
 high power - [[OPMS080-dat]]
