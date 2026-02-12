@@ -23,7 +23,7 @@
 - [[keyboard-dat]] - [[mouse-dat]]
 
 
-- [[USB-FC-dat]] 
+- [[USB-FC-dat]] - [[USB-PD-dat]] - [[USB-QC-dat]] - [[USB-PPS-dat]] - [[fast-charge-methods-dat]]
 
 - [[WCH-dat]]
 

@@ -2,14 +2,25 @@
 # TI-power-dat
 
 
-## DCDC boost 
-
-- [[LM2577-dat]]
-
+- [[ti-power-dcdc-boost-dat]]
 
 ## battery charger 
 
-- [[battery-charger-dat]] - [[BT24075-dat]] - [[TI-power-dat]]
+- [[battery-charger-dat]] - [[BQ24075-dat]] - [[TI-power-dat]]
+
+1.5A USB-FRIENDLY Li-Ion BATTERY CHARGER AND POWER-PATH MANAGEMENT IC
+
+![](2026-02-12-19-20-12.png)
+
+
+
+
+
+- [[BQ24650-dat]] - BQ24650RVAR 丝印PAS VQFN-16 电池充电控制器芯片 - [[MPPT-dat]] == PAS TI71W 
+
+BQ24650 Stand-Alone Synchronous Buck Battery Charge Controller for Solar Power With Maximum Power Point Tracking
+
+![](2026-02-12-19-17-09.png)
 
 
 

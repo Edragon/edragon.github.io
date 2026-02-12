@@ -26,6 +26,11 @@ high power - [[OPMS080-dat]]
 
 10A 150W == [[OPM1013-dat]]
 
+
+
+
+
+
 ## compare 
 
 | model        | description                                                          | peripherals | type        |

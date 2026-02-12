@@ -3,7 +3,10 @@
 
 - [[USB-PD-dat]] - [[PD3.0-dat]] - [[PD2.0-dat]] 
 
-- [[USB-QC-dat]] 
+
+Quick Charge 2.0
+
+- [[USB-QC-dat]]  - [[fitipower-dat]]
 
 - [[USB-PPS-dat]]
 

@@ -1,5 +1,12 @@
 # battery-charge-dat
 
+
+
+
+
+
+## info 
+
 https://w.electrodragon.com/w/Category:Battery_Charge
 
 The most following charger options are for the lithium-ion battery
@@ -27,12 +34,16 @@ The most following charger options are for the lithium-ion battery
 
 [[TP-dat]] - [[TP4056-dat]] - [[TP5000-dat]] - [[TP4054-dat]] - [[TP4067-dat]]
 
-[[injoinic-dat]]
-- [[IP5306-dat]]
+[[injoinic-dat]] - [[IP5306-dat]]
 
 - [[CN3722-dat]] - [[CN3768-dat]]
 
 - [[battery-charger-dat]] - [[BT24075-dat]] - [[TI-power-dat]]
+
+- [[TI-power-dat]]
+
+
+
 
 
 ## Board
