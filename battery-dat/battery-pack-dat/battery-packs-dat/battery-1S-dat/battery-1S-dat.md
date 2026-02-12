@@ -1,9 +1,9 @@
 
 # battery-1S-dat
 
-- [[li-battery-dat]] - [[battery-BMS-dat]] - [[battery-pack-dat]] - [[battery-dat]]
+- [[li-battery-dat]] - [[battery-BMS-dat]] - [[battery-pack-dat]] - [[battery-dat]] - [[battery-packs-dat]]
 
-
+- [[protection-battery-dat]]
 
 ## BMS protection 
 

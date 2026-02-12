@@ -12,6 +12,8 @@
 
 - [[BMS]]
 
+
+
 ## charge and supply 2in1 
 
 - CD42
@@ -34,6 +36,15 @@ Look for these essential protections:
 | Temperature protection    | Monitors temperature to avoid overheating |
 
 - also check the board's temperature rising when dishcarging 
+
+
+## BMS
+
+- 锂电池保护板是对串联锂电池组的充放电保护；
+- 在充满电时能保证各单体电池之间的电压差异小于设定值，之实现电池组各单体电池的均充，有效地改善了串联充电方式下的充电效果；
+- 同时检测电池组中各个单体电池的过压欠压、过流、短路、过温状态，保护并延长电池使用寿命
+- 欠压保护使每一单节电池在放电使用时避免电池因过放电而损坏。
+
 
 ## 🔋 Active vs. Passive BMS
 
@@ -195,48 +206,6 @@ A protection board fault typically results in: inability to charge, or the batte
 
 
 
-## example BMS for 3S1P 18650
-
-[[18650-dat]]
-
-### ⚙️ What is a 3S1P Pack?
-
-- **3S** = 3 cells in **series** → 11.1V nominal (12.6V fully charged)
-- **1P** = 1 cell in **parallel** → Capacity = 1 cell's capacity
-- Common cell type: **18650** or **LiPo pouch**
-  - Example: 18650, 3.7V, 3000mAh, max 5A–10A discharge
-
----
-
-### ✅ Recommended BMS Current Ratings
-
-| **Battery Type**       | **Max Cell Discharge** | **Recommended BMS Current** |
-| ---------------------- | ---------------------- | --------------------------- |
-| Standard 18650 (3A–5A) | 5A–10A                 | 10A–15A                     |
-| High-Drain 18650 (10A) | 10A–15A                | 15A–20A                     |
-| LiPo Pouch (10C+)      | Varies                 | 15A+                        |
-
-> ⚠️ Tip: Choose a BMS with a **trip current slightly above** your system's max current (about 1.2×).
-
----
-
-### 🔐 Ideal Protection Settings
-
-- **Continuous current**: 10–15A
-- **Overcurrent trip**: 20–25A
-- **Short-circuit protection**: Yes (fast cut-off)
-- **Overvoltage cutoff**: ~4.25V/cell
-- **Undervoltage cutoff**: ~2.5V/cell
-- **Charge current**: ~5A or as per charger rating
-
-
-## 🔧 Example
-
-If using 3000mAh 18650 cells rated at 10A max:
-- **Use BMS rated for 10A–15A continuous**
-- **Trip limit around 20A–25A**
-
-
 
 ## CN 
 
@@ -268,6 +237,25 @@ If using 3000mAh 18650 cells rated at 10A max:
 - 有时包含 SOH（State of Health，健康状态）
 
 👉 告诉系统 **“还剩多少电、还能不能用”**
+
+
+
+## BMS use guide note 
+
+
+
+- To reliably start a power tool (for example an electric drill), use either 2 high‑current cells rated 10C–20C, or 4 cells rated 5C–10C in appropriate parallel/series combinations. Recommended cells: Sony VTC4, VTC4A, VTC5, VTC6. Use wiring capable of the current (use >2 mm² copper wire; do not use thin foil or traces).
+- On first-time assembly, charge the cells before use to ensure the pack provides output. Follow the wiring diagram exactly: connect 0 V, mid-point (4.2 V), and 8.4 V as shown. When soldering battery wires, avoid touching any board components and do not short the pack.
+- During initial soldering or while charging, whenever a single cell exceeds ~4.2 V the resistor labeled “430” on the board will heat as it bleeds/discharges the cell (it will stop heating when the cell discharges to ~4.19 V). If the “430” resistor becomes excessively hot (too hot to touch), immediately check for wiring errors.
+
+- 1.严格按图接线0V、4.2V、8.4V、12.6V，注意检查不要短路。
+- 2.串联3组电池时，请保证每组电池的电压一样，如果不一样，请单独充满每组电池再串联使用。放电测试时，电压下降较快的那组电池是差电池，请用好的替换掉。
+- 3.千万不要把好电池和差电池混在一起使用，新、旧电池也不能混在一起使用。
+- 4.成功启动电钻需要3个15C-20C的动力电池，或6个10C-15C的动力电池（普通的18650不能启动电钻！！！）。
+- 5.带有刷电机类的负载时，必须在电机的正负接线端并联一个无极性电容（耐压25V以上，容量10uF-100uF），防止电机产生的反向尖峰电压干扰保护板或击穿MOS管。
+
+
+
 
 
 ## ref 
