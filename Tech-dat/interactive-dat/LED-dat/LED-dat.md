@@ -26,7 +26,9 @@
 
 ## LED matrix 
 
-- [[led-mono-matrix-dat]] - [[LED-segment-display-dat]]
+- [[led-mono-matrix-dat]] - [[LED-matrix-driver-dat]]]]
+
+- [[LED-segment-display-dat]] 
 
 - [[led-strip-dat]]
 

@@ -15,6 +15,9 @@
 
 - [[EC20-dat]] - [[EC25-dat]]
 
+- [[SIM7000-dat]]
+
+
 
 
 ## CAT vs. CAT M

@@ -28,6 +28,8 @@ https://w.electrodragon.com/w/Category:ESP8266_HDK
 | p-d  | SS   | 16   | io15  | D8      | G       | G     | 15    |      |      |
 |      |      | 8    | 3V3   | 3V3     | 5V      | 5V    | 5V    |      |      |
 
+![](2026-02-12-16-18-05.png)
+
 - [[ESP8266-HDK-dat]]
 
 - [[arduino-esp8266-dat]]

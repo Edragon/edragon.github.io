@@ -1,6 +1,17 @@
 
 # modbus-dat
 
+
+## hardware 
+
+- [[RS485-dat]] 
+
+## software 
+
+- ModBusPoll
+
+- [[modbus-dat]] - [[encryption-dat]] 
+
 ## Modbus: An Overview
 
 Modbus is a serial communication protocol originally published by Modicon (now Schneider Electric) in 1979 for use with its programmable logic controllers (PLCs). It has since become a de facto standard communication protocol in industry and is now one of the most commonly available means of connecting industrial electronic devices.

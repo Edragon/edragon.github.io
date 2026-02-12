@@ -25,6 +25,8 @@ legacy wiki page - https://www.electrodragon.com/w/Category:Arduino
 
 - [[arduino-esp32-dat]] - [[arduino-esp8266-dat]]
 
+- [[arduino-due-dat]]
+
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 https://arduino.esp8266.com/stable/package_esp8266com_index.json

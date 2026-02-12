@@ -5,13 +5,16 @@
 - [[peripherals-dat]] - [[serial-dat]] - [[dev-board-dat]]
 
 
+
+
 - [[STM32-dat]] - [[STM32-clone-dat]]
 
 - [[STM8-dat]]
 
-- [[microchip-MCU-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
-- [[PIC-dat]] - [[microchip-dat]]
+- [[arduino-boards-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
+
+- [[PIC-dat]] - [[microchip-dat]] - [[microchip-MCU-dat]] 
 
 - [[WCH-dat]]
 
@@ -33,6 +36,9 @@
 - [[TI-dat]] - [[MSP430-dat]] - [[TMS320-dat]]
 
 
+
+
+
 ## other types 
 
 - [[FPGA-dat]] - [[CPLD-dat]] - [[DSP-dat]] - [[ARM-dat]] - [[RISC-V-dat]]
@@ -41,7 +47,7 @@
 ## MCU with [[network-dat]] 
 
 
-- [[ESP32-dat]] 
+- [[ESP32-dat]] - [[ESP8266-dat]]
 
 - [[nrf52840-dat]] - [[nordic-dat]]
 

@@ -1,6 +1,8 @@
 
 # PAM-dat.md
 
+- [[pam8610-dat]] - [[pam-dat]] - [[amplifier-audio-dat]]
+
 - [[PAM8908-dat]]
 - [[PAM8610-dat]]
 - [[PAM8406-dat]]

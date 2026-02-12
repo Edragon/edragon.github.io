@@ -4,6 +4,10 @@
 CD4541B - CMOS Programmable Timer
 
 
+- [[NE555-dat]]
+
+
+
 ## ref 
 
-- [[logic-dat]]
+- [[logic-dat]] - [[circuits-dat]]

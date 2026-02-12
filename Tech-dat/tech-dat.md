@@ -189,7 +189,7 @@
 
 - [[USB-dat]] - [[USB-sys-dat]]
 
-- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]]
+- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]]
 
 - [[filter-dat]]
 

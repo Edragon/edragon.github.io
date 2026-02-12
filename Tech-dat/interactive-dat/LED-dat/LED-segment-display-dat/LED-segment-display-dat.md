@@ -1,6 +1,11 @@
 
 # segment-display-dat
 
+
+- [[LED-matrix-driver-dat]]
+
+
+
 - [[IMS1030-dat]] == 0.56"
 
 ## common 7-segment display size 
@@ -19,17 +24,6 @@
 ![](2025-08-30-18-11-41.png)
 
 
-
-## common driver 
-
-- [[74HC595-dat]]
-
-
-
-## unsort 
-
-MC14511BCPG - IC DRVR 7 SEGMENT 16DIP - 	
-LED, LCD, Vacuum Fluorescent (VF) Driver 16-PDIP
 
 
 

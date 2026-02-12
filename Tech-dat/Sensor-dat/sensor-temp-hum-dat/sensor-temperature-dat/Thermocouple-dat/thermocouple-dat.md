@@ -1,5 +1,9 @@
 # thermocouple-dat
 
+
+- [[thermocouple-dat]] - [[sensor-RTD-dat]]
+
+
 - also named RTD sensor 
 
 

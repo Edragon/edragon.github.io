@@ -1,8 +1,8 @@
 
-# matrix-display-driver-dat
+# LED-matrix-driver-dat
 
 
-- [[matrix-display-driver-dat]] - [[led-mono-matrix-dat]]
+- [[LED-matrix-driver-dat]] - [[led-mono-matrix-dat]]
 
 
 - [[MAX7219-dat]] - [[Maxim-dat]]
@@ -36,6 +36,30 @@
 
 3、AiP1948/1944与AiP1628指令兼容，程序移植简单。
  3. AiP1948/1944 is compatible with AiP1628 instructions, making program migration simple.
+
+
+
+
+## segment display driver
+
+
+## common driver 
+
+- [[74HC595-dat]]
+
+- [[TITAN-dat]] - [[TM1637-dat]] - [[TM1650-dat]]
+
+
+
+
+
+
+### unsort 
+
+MC14511BCPG - IC DRVR 7 SEGMENT 16DIP - 	
+LED, LCD, Vacuum Fluorescent (VF) Driver 16-PDIP
+
+
 
 
 

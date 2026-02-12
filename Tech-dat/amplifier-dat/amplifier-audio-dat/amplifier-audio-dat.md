@@ -17,11 +17,30 @@
 - [[speaker-dat]] - [[headphone-dat]]
 
 
+
+
+
+
+## chip and boards 
+
+- [[AMP1024-dat]] - [[max97220-dat]] - [[ad-audio-dat]] - [[analog-device-dat]] - [[amplifier-audio-dat]]
+
+- [[MSP1014-dat]] - [[LM386-dat]] - [[amplifier-audio-dat]]
+
 - [[8002-dat]]
 
-## boards 
+- [[LM358-dat]]
 
-- [[AMP1024-dat]]
+- [[NE5532-dat]]
+
+- [[pam8610-dat]] - [[pam-dat]] - [[amplifier-audio-dat]]
+
+- [[PAM8908-dat]]
+- [[PAM8610-dat]]
+- [[PAM8406-dat]]
+- [[PAM8403-dat]]
+- [[PAM8302-dat]]
+
 
 
 

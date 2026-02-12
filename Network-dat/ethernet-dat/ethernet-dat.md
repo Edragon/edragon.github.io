@@ -3,7 +3,7 @@
 
 - [[TCPUDP-dat]]
 
-- [[PHY-dat]]
+- [[PHY-dat]] - [[MAC-dat]]
 
 - [[ethernet-SDK-dat]]
 
@@ -46,6 +46,9 @@ The ESP32-P4 network model can be explained as follows:
 - [[LAN8720-dat]]
 
 - [[realtek-dat]]
+
+- [[WCH-dat]] - [[CH9121-dat]]
+
 
 
 ## RJ45 breakout board 
