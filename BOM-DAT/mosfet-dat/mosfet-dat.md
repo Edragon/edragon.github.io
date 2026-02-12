@@ -67,6 +67,7 @@ common brand: [[Vishay-dat]]
 
 D2PAK == TO252
 
+P0903BDL-VB Datasheet - N-Channel 30-V (D-S) MOSFET
 
 ### dual channel 
 

@@ -61,3 +61,4 @@ OC OD mosfet control - to cut of  BAT- to GND
 
 ## ref 
 
+- [[battery-1s]] - [[battery-2s]]

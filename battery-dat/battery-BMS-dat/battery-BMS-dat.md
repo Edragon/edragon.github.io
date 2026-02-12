@@ -4,6 +4,7 @@
 
 - [[li-battery-dat]] - [[battery-BMS-dat]] - [[battery-pack-dat]] - [[battery-dat]]
 
+- [[battery-packs-dat]]
 
 - [[passive-BMS-dat]] - [[active-BMS-dat]]
 

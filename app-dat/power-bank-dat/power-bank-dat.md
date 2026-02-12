@@ -5,7 +5,10 @@
 
 ## QC 
 
-digital display + [[QC-dat]] == 22.5W 
+- 100W
+  - [[IP2368-dat]] - [[IP236x-dat]]
+- 65W 
+- digital display + [[QC-dat]] == 22.5W 
 
 
 

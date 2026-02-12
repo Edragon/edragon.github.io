@@ -2,6 +2,17 @@
 
 - [[battery-pack-dat]]
 
+
+## charge solutions 
+
+- [[IP2326-dat]] - [[IP236x-dat]] - [[injoinic-dat]]
+
+- [[CONSONANCE-dat]]
+
+
+
+
+
 ## BMS 
 
 ![](2026-02-12-17-58-35.png)
@@ -61,3 +72,6 @@ The figure below shows the battery charging configuration for a 2S pack. Fully c
 ## ref 
 
 - [[battery-pack-dat]]
+
+
+- [[battery-2s]] - [[battery-packs]] - [[battery-pack]] - [[battery]]

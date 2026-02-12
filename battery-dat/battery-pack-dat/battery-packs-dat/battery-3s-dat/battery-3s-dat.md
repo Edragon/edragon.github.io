@@ -2,8 +2,22 @@
 
 # battery-3s-dat
 
-- [[battery-2s-dat]]
+- [[battery-3s-dat]] - [[battery-2s-dat]] 
 
+- [[battery-1s-dat]]
+
+
+
+## solutions 
+
+- [[IP2326-dat]] - [[IP236x-dat]] - [[injoinic-dat]]
+
+- [[CN3300-dat]] - [[CN3306-dat]] - [[Consonance-dat]]
+
+
+
+
+## wiring 
 
 ![](2026-02-12-18-09-17.png)
 
