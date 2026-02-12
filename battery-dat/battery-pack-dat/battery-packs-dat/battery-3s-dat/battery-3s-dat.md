@@ -15,6 +15,17 @@
 - [[CN3300-dat]] - [[CN3306-dat]] - [[Consonance-dat]]
 
 
+
+## version 3 
+
+![](2026-02-12-21-32-20.png)
+
+
+normal and balanced version
+
+![](2026-02-12-21-33-09.png)
+
+
 ## version 2 
 
 ![](2026-02-12-21-29-27.png)
