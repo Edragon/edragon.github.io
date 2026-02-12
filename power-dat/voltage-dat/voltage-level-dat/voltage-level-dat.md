@@ -1,5 +1,5 @@
 
-# power-level-dat
+# voltage-level-dat
 
 - [[12V-dat]] - [[motor-dat]]
   

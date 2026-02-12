@@ -33,6 +33,7 @@
 
 - [[constant-current-dat]]
 
+[[voltage-dat]]
 
 
 ## power design workflow
