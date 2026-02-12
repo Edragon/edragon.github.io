@@ -23,12 +23,19 @@ https://www.hycontek.com
 HY2122 - Two-Cell Li-ion/Polymer Battery Protection
 
 
+## 3-5S 
 
-## multple S 
+HY2540
+
+HY2550 Series Features - High-accuracy voltage detection circuit for 3/4/5 Cell Application
 
 - [[battery-3s-dat]]
 
-HY2550 Series Features - High-accuracy voltage detection circuit for 3/4/5 Cell Application
+Small package: 16-pin TSSOP
+
+## balance IC
+
+
 
 ### HY2213 
 

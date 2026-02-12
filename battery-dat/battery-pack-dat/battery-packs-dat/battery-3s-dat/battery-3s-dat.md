@@ -6,7 +6,7 @@
 
 - [[battery-1s-dat]]
 
-
+- [[battery-BMS-dat]]
 
 ## solutions 
 
@@ -18,6 +18,9 @@
 
 
 ## wiring 
+
+
+- [[DW01-dat]] - [[chip-unsort-dat]]
 
 ![](2026-02-12-20-51-16.png)
 

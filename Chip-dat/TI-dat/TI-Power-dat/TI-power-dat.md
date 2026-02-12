@@ -29,9 +29,16 @@ BQ24650 Stand-Alone Synchronous Buck Battery Charge Controller for Solar Power W
 
 
 
+## LP2985 
+
+![](2026-02-12-21-26-21.png)
+
+[LP2985 150mA, Low-Noise, Low-Dropout Regulator With Shutdown](https://www.ti.com/lit/ds/symlink/lp2985.pdf)
 
 
-LP3853/LP3856 3A Fast Response Ultra Low Dropout Linear Regulators
+
+
+## LP3853/LP3856 3A Fast Response Ultra Low Dropout Linear Regulators
 
 FEATURES
 - Ultra Low Dropout Voltage
