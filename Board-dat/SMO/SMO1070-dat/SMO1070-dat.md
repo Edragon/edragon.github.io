@@ -1,6 +1,10 @@
 
 # SMO1070-dat
 
+
+
+
+
 [legacy wiki page](https://www.electrodragon.com/w/TCRT5000)
 
 
@@ -27,6 +31,11 @@ full module SCH
 * A. = Anode (VCC)
 * Cath. = Cathode (GND)
 
+Reflective Optical Sensor with Transistor Output
+
+Description
+
+The TCRT5000 and TCRT500L are reflective sensors which include an infrared emitter and phototransistor in a leaded package which blocks visible light. The package includes two mounting clips. TCRT5o0oL is the long lead version.
 
 ## ITR Series 
 

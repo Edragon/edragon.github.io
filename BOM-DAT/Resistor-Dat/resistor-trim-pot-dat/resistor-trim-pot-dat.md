@@ -47,6 +47,41 @@ From the factory, the wiper is typically set to the midpoint, so for a 10k poten
 However, this is not guaranteed, and you should always calibrate or measure the actual resistance before use in sensitive circuits.
 
 
+## RK097G 双联 B1K/5K/10K/20K/50K/100/500K 功放/密封电位器 6脚
+
+![](2026-02-12-14-19-24.png)
+
+
+- RK097N/B5K/单联3脚
+- RK097N_B10K_单联3脚
+- RK097N_B20K_单联3脚
+- RK097N_B50K_单联3脚
+- RK097N_B100K_单联3脚
+- RK097N_B1K_单联3脚
+- RK097N_B500K_单联3脚
+- RK097N(立式)_B5K_单联3脚
+- RK097N(立式)_B10K_单联3脚
+- RK097N(立式)_B20K_单联3脚
+- RK097N(立式)_B50K_单联3脚
+- RK097N(立式)_B100K_单联3脚
+- RK097N(立式)_B500K_单联3脚
+- RV097NS_B5K_单联5脚(带开关)
+- RV097NS_B10K_单联5脚(带开关)
+- RV097NS_B20K_单联5脚(带开关)
+- RV097NS_B50K_单联5脚(带开关)
+- RV097NS_B100K_单联5脚(带开关)
+- RV097NS_B500K_单联5脚(带开关)
+- RK097G_B1K_双联6脚
+- RK097G_B500K_双联6脚
+- RK097G_B5K_双联6脚
+- RK097G_B10K_双联6脚
+- RK097G_B20K_双联6脚
+
+![](2026-02-12-14-20-14.png)
+
+![](2026-02-12-14-20-23.png)
+
+
 
 ## ref 
 

@@ -1,11 +1,17 @@
 
 # sensor-IR-reflective-dat
 
-- [[sensor-photoelectric-dat]]
+
+
+- [[sensor-photoelectric-dat]] - [[sensor-Infrared-dat]] - [[sensor-IR-reflective-dat]] - [[sensor-reflective-dat]]
+
+
 
 ## board 
 
-- [[SMO1070-dat]] - [[SMO1003-dat]]
+- [[SMO1070-dat]] - [[TCRT50000-dat]]
+  
+- [[SMO1003-dat]]
 
 
 ## working principles
@@ -29,6 +35,37 @@
 ![](2023-11-20-14-14-00.png)
 
 ![](2025-10-26-17-27-04.png)
+
+
+
+
+# infrared-reflective-dat
+
+- [[infrared-dat]] - [[led-infrared-dat]] - [[infrared-reflective-dat]]
+
+
+- [[QRE1113-dat]]
+
+
+
+
+
+## APP 
+
+- [[IR-distance-measurer-dat]] - [[line-finder-dat]]
+
+
+## chip 
+
+ITR9909 Plug-in Reflective Photoelectric Switch Photoelectric Sensor
+
+
+
+
+## ref 
+
+- [[sensor-dat]]
+
 
 
 

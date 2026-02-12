@@ -12,7 +12,9 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[type-c-sniffer-dat]] - [[OPM1185-dat]] - [[usb-type-c-dat]]
 
-- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
+- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[XL6009-dat]]
+
+- [[OPM1009-dat]] - [[OPM1019-dat]] - [[dcdc-boost-dat]] - [[XL-dat]]
 
 - [[TI-power-dat]] - [[TPS61088-dat]] - [[LM2577-dat]]
 
@@ -22,6 +24,7 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 high power - [[OPMS080-dat]]
 
+10A 150W == [[OPM1013-dat]]
 
 ## compare 
 
@@ -74,6 +77,17 @@ fixed 5V output and little periperals
 
 
 
+
+## apps 
+
+
+Applications
+
+- `DIY an output adjustable vehicle power supply`, only need access to your 12V power input, the output voltage can (14-35V)  continuously adjust, but the output voltage can not be lower than the input voltage.
+- `Universal on-vehicle laptop power supply`. Input connector on your 12V power supply, the output voltage is adjusted to your laptop to work.
+- `Boost charger`, you can use the 12V power supply is higher than 12V battery charging, for example, 24V battery.
+- `Power for your electronic devices`, as long as the voltage and current of the voltage regulator to your needs can not exceed the rated current is working properly.
+- `Primary front level system power supply`, when you do a project at the time of 10-18V input when the system board and you need to supply 24V and about its great power, with ordinary DC-DC module power is too small , then you choose this module we will be your best choice, do not debug directly on the machine to work, easy to do and efficient power boost.
 
 
 

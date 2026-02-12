@@ -88,6 +88,14 @@ The SOT-223 package is designed for surface-mounting using vapor phase, infrared
 
 - [sihfl210](https://www.vishay.com/docs/91193/sihfl210.pdf)
 
+
+#### IRF4905PbF HEXFET® Power MOSFET
+
+- VDSS = -55V
+- RDS(on) = 0.02Ω
+- ID = -74A
+
+
 ## un-sorted 
 
 
@@ -232,3 +240,5 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 - [[mosfet]] - [[mos-p]] - [[mos-n]]
 
 - [[control-dat]]
+
+[[items]]

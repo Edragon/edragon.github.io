@@ -16,6 +16,7 @@
 
 - [[XL-dat]] - [[XL4015-dat]] - [[dcdc-down-dat]] - [[XL6009-dat]] 
 
+- [[XL4015-dat]] - [[dcdc-down-dat]] - [[CV&CC-dat]] - [[OPM1085-dat]] 
 
 
 ## chips 
