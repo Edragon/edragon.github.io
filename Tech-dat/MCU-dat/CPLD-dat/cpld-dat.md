@@ -12,6 +12,10 @@
 https://www.electrodragon.com/w/Altera_CPLD_EPM240_EPM570_Dev._Board
 
 
+
+
+
+
 ## programmer 
 
 - https://www.electrodragon.com/product/usb-blaster-ed-revsion-altera-cpldfpga-programmer/

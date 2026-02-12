@@ -8,6 +8,10 @@
 - [[ethernet-SDK-dat]]
 
 
+
+
+
+
 ## info
 
 
@@ -40,6 +44,9 @@ The ESP32-P4 network model can be explained as follows:
 - [[W5500-dat]] - [[ENC28J60-dat]]
 
 - [[LAN8720-dat]]
+
+- [[realtek-dat]]
+
 
 ## RJ45 breakout board 
 

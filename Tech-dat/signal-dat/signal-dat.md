@@ -1,6 +1,8 @@
 
 # signal-dat.md
 
+- [[PWM-dat]]
+
 - [[digital-dat]] - [[analog-dat]]
 
 

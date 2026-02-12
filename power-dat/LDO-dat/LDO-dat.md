@@ -106,7 +106,7 @@ Although designed primarily as fixed voltage regulators, these devices can be us
 
 The SGM2200 serles Is avallable in Green SOT-89-3. SOT-23. TSOT-23-5 and SC70-5 packages. It operates over an amblent temperature range of -40'℃ to +85'℃.
 
-
+- [[LDO-HV]] - [[LDO]]
 
 ## LDO array 
 

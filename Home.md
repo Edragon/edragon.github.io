@@ -15,7 +15,7 @@
 
 - [[chip-dat]] - [[chip-cn-dat]] - [[74xx-dat]]
 
-- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]] - [[SBC-dat]]
+- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]] - [[SBC-dat]] - [[signal-dat]] - [[interface-dat]]
 
 - [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]] - [[sensor-motion-dat]] - [[sensor-camera-dat]]
 
@@ -25,7 +25,7 @@
 
 - [[battery-dat]] - [[battery-BMS-dat]] 
 
-- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]]
+- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]] - [[lora-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
@@ -39,12 +39,12 @@
 
 - [[cable-dat]]
 
-- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]] - [[ISP-dat]] - [[JLINK-dat]]
+- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]] - [[ISP-dat]] - [[JLINK-dat]] - [[programmer-socket-dat]]
 
 
 - [[service-dat]] - [[discount-dat]] - [[shipment-dat]] 
 
-
+- [[fab-dat]] - [[fab-qc-dat]]
 
 
 ## Weekly Updates 

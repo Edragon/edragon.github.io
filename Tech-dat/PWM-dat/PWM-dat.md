@@ -7,6 +7,10 @@
 - [[pulse-in-dat]]
 
 
+
+
+
+
 ## understand PWM 
 
 PWM (Pulse Width Modulation) - [[PPM-dat]]
@@ -61,6 +65,10 @@ Used for
 - TL494 == Pulse-Width-Modulation Control Circuits
 
 
+
+## apps 
+
+- [[tuner-dat]]
 
 
 

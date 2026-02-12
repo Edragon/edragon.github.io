@@ -183,7 +183,7 @@
 
 - [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]]
 
-- [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]]
+- [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]] - [[I2S-dat]]
 
 - [[ADC-dat]] - [[DAC-dat]]
 

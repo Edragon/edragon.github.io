@@ -32,6 +32,10 @@ more at [[cable-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
 
 long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] - [[ethernet-dat]], see more comparsion in page [[fiber-optic-dat]] - [[SFP-transceiver-dat]]
 
+- [[ethernet-dat]]
+
+
+
 - [[analog-dat]] - [[digital-dat]]
 
 - [[USB-dat]] - [[USB-sys-dat]] - [[USB-OTG-dat]]

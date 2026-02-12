@@ -2,10 +2,8 @@
 # MCU-dat 
 
 
-- [[peripherals-dat]]
+- [[peripherals-dat]] - [[serial-dat]]
 
-
-- [[CPLD-dat]] - [[RISC-V-dat]]
 
 - [[STM32-dat]] - [[STM32-clone-dat]]
 
@@ -13,7 +11,10 @@
 
 - [[microchip-MCU-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
-- [[STC-dat]] - [[PIC-dat]] - [[nuvoton-dat]] - [[WCH-dat]]
+- [[PIC-dat]] - [[microchip-dat]]
+
+- [[WCH-dat]]
+
 
 - [[8051-dat]]
 
@@ -27,10 +28,36 @@
 
 - [[arduino-boards-dat]] - [[arduino-dat]]
 
+- [[HDSC-dat]]
+
+
+
 
 ## other types 
 
 - [[FPGA-dat]] - [[CPLD-dat]] - [[DSP-dat]] - [[ARM-dat]] - [[RISC-V-dat]]
+
+
+## MCU with [[network-dat]] 
+
+
+- [[ESP32-dat]] 
+
+- [[nrf52840-dat]] - [[nordic-dat]]
+
+- [[RDA-dat]] 
+
+- [[BL616-dat]] - [[bouffalolab-dat]]
+s
+- [[u-blox-dat]]
+
+- [[ASR6500-dat]]
+
+- [[WCH-dat]] - [[CH579-dat]]
+
+- [[silicon-labs-dat]]
+
+
 
 ## Common-used MCU support OTA and configure 
 
@@ -40,20 +67,7 @@
 
 
 
-## MCU with [[network-dat]] 
 
-
-- [[ESP32-dat]] 
-
-- [[nrf52840-dat]] 
-
-- [[RDA-dat]] - [[bouffalolab-dat]]
-
-- [[BL616-dat]]
-s
-- [[u-blox-dat]]
-
-- [[ASR6500-dat]]
 
 
 ## Common-used MCU 

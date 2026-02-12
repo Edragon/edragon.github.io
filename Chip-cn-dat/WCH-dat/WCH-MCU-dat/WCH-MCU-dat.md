@@ -28,6 +28,8 @@ Genuine CH32V003F4P6 TSSOP-20 RISC-V core 32-bit microcontroller (MCU)
 
 - [[DOD1067-dat]] - [[DOD1068-dat]] - [[DOD1071-dat]]
 
+- programmer - [[WCHlink-dat]] == [[DPR1132-dat]] - [[DPR1133-dat]]
+
 
 
 
