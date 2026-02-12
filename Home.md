@@ -21,9 +21,9 @@
 
 - [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]] - [[buzzer-dat]] - [[relay-dat]]
 
-- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
+- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
 
-- [[battery-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]]
+- [[battery-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]] - [[battery-3s-dat]] - [[battery-pack-dat]] 
 
 - [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]] - [[lora-dat]] - [[location-dat]] - [[LTE-dat]] - [[ethernet-dat]]
 
