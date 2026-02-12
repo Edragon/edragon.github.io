@@ -1,6 +1,11 @@
 
 # 2S-lithium-battery-charger-dat
 
+
+
+- [[tp-dat]]
+
+
 ## IF the 2S pack battery does NOT have the BMS board 
 
 These chargers are designed to charge 2S packs with balanced charging and proper voltage/current control.

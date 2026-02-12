@@ -22,7 +22,7 @@
 
 - [[SHT30-dat]] - [[SHT4x-dat]] - [[sensor-temp-hum-dat]] - [[SHT40-dat]] - [[Sensirion-dat]]
 
-
+- [[DHT22-dat]] - [[aosong-dat]] 
 
 
 

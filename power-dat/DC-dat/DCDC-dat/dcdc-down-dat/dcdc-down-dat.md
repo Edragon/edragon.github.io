@@ -10,16 +10,13 @@
 
 - [[TI-power-dat]] - [[TPS54302-dat]]
 
-- [[silergy-dat]]
+- [[silergy-dat]] - [[SY8205-dat]] - [[OPM1192-dat]]
 
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 
 - [[XL-dat]] - [[XL4015-dat]] - [[dcdc-down-dat]] - [[XL6009-dat]] 
 
 - [[XL4015-dat]] - [[dcdc-down-dat]] - [[CV&CC-dat]] - [[OPM1085-dat]] 
-
-
-## chips 
 
 - [[XL-dat]] - [[XL4015-dat]] - [[XL1509-dat]]
 
@@ -28,6 +25,10 @@
 - [[richtek-dat]] - [[RT8279-dat]]
 
 - [[MPS-dat]] - [[intel-dat]]
+
+
+
+
 
 
 ### CHIP SIL 

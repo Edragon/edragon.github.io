@@ -24,7 +24,7 @@ legacy wiki page
 
 - [[LLCC68-dat]]
 
-- [[SX1278-dat]] - [[SX1262-dat]]
+- [[SX1278-dat]] - [[SX1276-dat]] - [[SX1262-dat]]
 
 
 

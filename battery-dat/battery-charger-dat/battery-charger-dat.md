@@ -17,6 +17,10 @@ The most following charger options are for the lithium-ion battery
 - 1S common option == [[TP4056-dat]]
 
 
+
+
+
+
 ## Chip Info
 
 - [[LTC4054-dat]] - [[MCP73831-dat]]
