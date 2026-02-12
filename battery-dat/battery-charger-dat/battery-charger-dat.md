@@ -24,7 +24,7 @@ The most following charger options are for the lithium-ion battery
 - 1S common option == [[TP4056-dat]]
 
 
-
+- [[usb-sniffer-dat]]
 
 
 
@@ -42,7 +42,9 @@ The most following charger options are for the lithium-ion battery
 
 - [[TI-power-dat]]
 
+- [[battery-charger-dat]] - [[ETA-solutions-dat]]
 
+- [[CD42-dat]]
 
 
 
