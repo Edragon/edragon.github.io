@@ -6,6 +6,15 @@
 - [[AC-isolation-dat]] - [[everlight-dat]] - [[EL357-dat]]
 
 
+
+## wiring 
+
+![](2026-02-12-15-25-21.png)
+
+![](2026-02-12-15-25-33.png)
+
+![](2026-02-12-15-25-42.png)
+
 ## brands 
 
 - [[broadcom-dat]] - [[sharp-dat]] - [[liteon-dat]] - [[renesas-dat]] - [[Toshiba-dat]] - [[vishay-dat]]

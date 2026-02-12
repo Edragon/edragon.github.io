@@ -25,7 +25,7 @@
 
 - [[battery-dat]] - [[battery-BMS-dat]] 
 
-- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]] - [[lora-dat]] - [[location-dat]]
+- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]] - [[lora-dat]] - [[location-dat]] - [[LTE-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
@@ -35,7 +35,7 @@
 
 - [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[]]
 
-- [[CONN-dat]] - [[CONN-cable-terminal-dat]] - [[CONN-power-dat]]
+- [[CONN-dat]] - [[CONN-cable-terminal-dat]] - [[CONN-power-dat]] - [[CONN-audio-dat]]
 
 - [[cable-dat]]
 

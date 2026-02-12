@@ -55,6 +55,13 @@ PIC12F1572
 | **Low-Power Features**              | Basic Low-Power Modes                   | nanoWatt XLP Technology               |
 
 
+## program
+
+- [[PIC-sdk-dat]] - [[pickit-dat]] - [[PIC-dat]]
+
+
+
+
 ## ref 
 
 - [[MCU-dat]]

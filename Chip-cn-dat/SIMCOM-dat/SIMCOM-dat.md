@@ -34,7 +34,7 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 - [[SIM7070-dat]]
   
-- [[SIM7080-dat]]
+- [[SIM7080-dat]] - [[Y7080E-dat]]
 
 
 ## Module Comparision 

@@ -25,9 +25,19 @@ and analogWrite(127) is a 50% duty cycle (on half the time) for example.
 
 - [[SCU1063-dat]]
 
+
+
+
+
 ## other possible boards 
 
 - [[OPMS080-dat]]
+
+
+
+## wave generator 
+
+![](2026-02-12-15-20-21.png)
 
 
 ## ref 

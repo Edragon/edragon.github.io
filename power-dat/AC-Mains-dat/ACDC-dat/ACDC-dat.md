@@ -28,6 +28,12 @@
 
 
 
+## output 
+
+- 12V/2A
+- 5V/2A 
+- 
+
 
 ## Board Function diagram 
 

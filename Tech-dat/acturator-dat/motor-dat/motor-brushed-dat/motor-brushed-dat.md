@@ -157,7 +157,7 @@ So, a **230 motor** typically has:
 
 - [[VNH2SP30-dat]] - [[BTS7960-dat]]
 
-
+- [[ST-dat]]
 
 
 ## 🔄 3. 1000W+ Brushed DC Motors – ✅ *Direct power jump*

@@ -2,6 +2,10 @@
 # peripherals-dat
 
 
+- [[protection-dat]] - [[protection-power-dat]]
+
+
+
 - [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]
 
 

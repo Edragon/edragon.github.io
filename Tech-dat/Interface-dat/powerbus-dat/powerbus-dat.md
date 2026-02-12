@@ -2,6 +2,10 @@
 # powerbus-dat
 
 
+- [[interface-dat]] + [[power-dat]]
+
+
+
 ## about powerbus
 
 ![](2024-08-28-13-21-38.png)

@@ -22,7 +22,6 @@
 
 - [[keyboard-dat]] - [[mouse-dat]]
 
-- [[USB-sniffer-dat]] - [[USB-Hub-dat]] - [[USB-Switch-dat]] - [[USB-APP-dat]]
 
 - [[USB-FC-dat]] 
 
@@ -31,8 +30,11 @@
 - [[IP5306-dat]]
 
 
+## USB functions and enhance 
 
+- [[USB-sniffer-dat]] - [[USB-Hub-dat]] - [[USB-Switch-dat]] - [[USB-APP-dat]]
 
+- [[USB-extension-dat]] - [[USB-hid-dat]]
 
 
 ## USB variations 
@@ -48,6 +50,8 @@
 ## signal conversion 
 
 - [[USB-SPI-dat]]
+
+
 
 ## Devices 
 

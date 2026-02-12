@@ -15,10 +15,22 @@ CAN Transceiver - [[NXP-CAN-dat]]
 
 SPI to CAN - [[MCP2551-dat]]
 
+[[TJA1021-dat]] 
+
+[[TJA1050-dat]]
+
+
 
 ## board 
 
 - [[ITF1000-dat]]
+
+- [[STC-dat]]
+
+
+
+
+
 
 ## common software 
 

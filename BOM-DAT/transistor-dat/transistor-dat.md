@@ -100,8 +100,13 @@ common brand: 	Infineon
 
 
 
+## high power transistor 
 
+- B1204 == [[2SB1204.pdf]]
 
+用于继电器驱动电路，高速转换电路，及其它大电流开关电路。
+
+Relay drivers, high-speed inverters, general high-current switching applications. 
 
 
 ## un-sorted 
@@ -117,6 +122,11 @@ common brand: 	Infineon
 PBSS5350Z - 50 V, 3 A PNP low VCEsat transistor
 
 MMBT3904
+
+
+
+
+
 
 ## ref 
 

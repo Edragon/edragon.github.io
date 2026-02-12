@@ -1,9 +1,9 @@
 
 # USB1003 DAT
 
-USB HID to UART, RS-485 Extension Board
+[USB HID to UART, RS-485 Extension Board](https://www.electrodragon.com/product/usb-hid-to-uart-rs-485-extension-board/)
 
-https://www.electrodragon.com/product/usb-hid-to-uart-rs-485-extension-board/
+
 
 - 5V/GND external power supply
 - blue box: chip output to USB

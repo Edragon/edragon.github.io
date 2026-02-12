@@ -5,7 +5,8 @@
 - legacy wiki page - https://w.electrodragon.com/w/PIC_SDK
 
 
-- [[pickit-dat]]
+- [[PIC-sdk-dat]] - [[pickit-dat]] - [[PIC-dat]]
+
 
 ## Boards 
 

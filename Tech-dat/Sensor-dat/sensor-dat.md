@@ -15,6 +15,7 @@
 
 - [[infrared-dat]] - [[led-infrared-dat]] - [[infrared-reflective-dat]]
 
+- [[sensor-object-dat]] - [[sensor-dat]] - [[SMO1095-dat]] - [[sensor-color-dat]]
 
 
 - [[sensor-power-dat]] - [[sensor-dc-current-dat]] - [[AC-voltage-monitor-dat]] - [[voltage-supervisor-dat]]

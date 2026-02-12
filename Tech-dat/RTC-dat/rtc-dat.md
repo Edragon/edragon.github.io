@@ -13,7 +13,7 @@ Boards
 
 ## chip 
 
-[[Dallas-dat]] 
+[[Dallas-dat]] - [[DS1307-dat]] - [[DS3231-dat]] - [[DS1302-dat]]
 
 [[NXP-dat]]
 

@@ -19,7 +19,11 @@
 
 - [[comparator-dat]] - [[circuits-dat]]
 
-- [[signal-dat]] - [[DDS-dat]]
+- [[signal-dat]] - [[DDS-dat]] - [[wave-dat]]
+
+- [[audio-dat]]
+
+- [[pulse-generator-dat]]
 
 
 ## unsort 

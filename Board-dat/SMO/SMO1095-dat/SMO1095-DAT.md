@@ -1,8 +1,12 @@
 
 
-# SMO1095 Non-contact Water Liquid Level Sensor
+# SMO1095-dat 
 
-https://www.electrodragon.com/product/non-contact-liquid-level-sensor/
+
+- [[sensor-object-dat]] - [[sensor-dat]] - [[SMO1095-dat]]
+
+[Non-contact Water Liquid Level Sensor](https://www.electrodragon.com/product/non-contact-liquid-level-sensor/)
+
 
 ## Use with metal containter
 - need to drill hole(s) on the container
