@@ -41,6 +41,8 @@
 
 - [[power-bank-dat]] - [[power-tools-dat]] - [[power-storage-dat]]
 
+- [[power-usb-charger-dat]]
+
 
 ## coin battery dat 
 
