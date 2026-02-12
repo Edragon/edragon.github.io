@@ -98,3 +98,5 @@ from a to z
 - [[chip]] - [[chip-cn]]
 
 - [[board-dat]]
+
+- [[IC-dat]]
