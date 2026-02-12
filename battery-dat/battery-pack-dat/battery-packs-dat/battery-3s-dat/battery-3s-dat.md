@@ -15,6 +15,11 @@
 - [[CN3300-dat]] - [[CN3306-dat]] - [[Consonance-dat]]
 
 
+## version 2 
+
+![](2026-02-12-21-29-27.png)
+
+- B254 
 
 
 ## wiring 
@@ -71,3 +76,4 @@ If using 3000mAh 18650 cells rated at 10A max:
 
 ## ref 
 
+- [[hycontek-dat]]
