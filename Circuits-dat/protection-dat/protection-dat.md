@@ -1,7 +1,7 @@
 
 # protection-dat
 
-- [[power-protection-dat]] 
+- [[protection-power-dat]] 
 
 - [[power-protection-Vmotor-dat]]
 

@@ -6,7 +6,10 @@
 
 - [[battery-size-dat]]
 
-- [[BMS-dat]] - [[active-BMS-dat]] - [[passive-BMS-dat]]
+- [[battery-BMS-dat]] - [[active-BMS-dat]] - [[passive-BMS-dat]] - [[protection-battery-dat]] - [[protection-dat]]
+
+- [[battery-dat]] - [[battery-BMS-dat]] - [[protection-battery-dat]]
+
 
 - [[battery-rechargerable-dat]] 
 
@@ -18,7 +21,7 @@
 - [[li-battery-dat]] - [[li-battery-app-dat]] - [[18650-dat]]
 
 
-- [[battery-pack-dat]] - [[battery-holder-dat]]
+- [[battery-pack-dat]] - [[battery-holder-dat]] - [[battery-packs-dat]]
 
 - [[battery-charger-dat]] - [[2S-lithium-battery-charger-dat]] - [[battery-discharge-dat]]
 

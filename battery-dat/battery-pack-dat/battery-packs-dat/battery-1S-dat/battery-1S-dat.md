@@ -18,9 +18,15 @@
 - 过放电检测电压：2.54±0.1V
 - 过流检测电流：1-3A
 
-主要功能：- [[protection-dat]]
+主要功能：- [[protection-battery-dat]]
 
-过充保护功能、过放保护功能、短路保护功能、过流保护功能.
+- [] 过放保护功能 - over-discharge protection - [[ODP-protection-dat]]
+- [] 短路保护功能 - short-circuit protection - [[SCP-protection-dat]]
+- [] 过流保护功能 - over-current protection - [[OCP-protection-dat]]
+- [] 过充保护功能 - over-charge protection - [[OVP-protection-dat]]
+
+
+
 
 接线说明：
 
@@ -33,4 +39,25 @@
 
 ![](2026-02-12-17-42-36.png)
 
+
+## solutions 
+
+
+
+### DW01 + FS8205 
+
+OC OD mosfet control - to cut of  BAT- to GND 
+
+
+
+![](2024-09-13-16-56-57.png)
+
+
+### DW06D 
+
+![](2025-07-13-01-15-32.png)
+
+
+
+## ref 
 
