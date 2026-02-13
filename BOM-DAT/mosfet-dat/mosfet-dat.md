@@ -97,6 +97,16 @@ The SOT-223 package is designed for surface-mounting using vapor phase, infrared
 - ID = -74A
 
 
+#### HJ 
+
+HJ3080A 貼片 TO-252 場效電晶體 替代 SE3080K WP3080K CMD3080M
+
+- 品牌：HJ郎帅华晶型号：HJ3080A封装：TO-252
+- 批号：全新环保
+- 包装：2500个/盘，可拆散出售。
+- 功能：30V/80A，N沟道场效应管。
+
+
 ## un-sorted 
 
 

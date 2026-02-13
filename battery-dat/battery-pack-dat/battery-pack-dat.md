@@ -245,6 +245,14 @@ Even though some groups have more cells, the **smallest parallel group (3P)** li
 In series packs, **the smallest parallel group determines the usable capacity**. Extra cells in larger groups are underused, and the smaller group experiences higher current stress, reducing overall pack efficiency and lifespan.
 
 
+
+
+## build 
+
+![](2026-02-13-13-41-23.png)
+
+
+
 ## ref 
 
 - [[battery-dat]] - [[battery-charger-dat]]
