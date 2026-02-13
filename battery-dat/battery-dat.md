@@ -4,12 +4,29 @@
 
 - [[power-dat]] - [[battery-dat]] 
 
-- [[battery-size-dat]]
+- [[battery-tools-dat]]
+
+## BMS 
 
 - [[battery-BMS-dat]] - [[active-BMS-dat]] - [[passive-BMS-dat]] - [[protection-battery-dat]] - [[protection-dat]]
 
-- [[battery-dat]] - [[battery-BMS-dat]] - [[protection-battery-dat]]
+### protector 
 
+- [[battery-protector-dat]] 
+
+- [[battery-packs-dat]] - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - - [[battery-5s-dat]] - [[battery-6s-dat]]
+
+
+
+
+
+## types 
+
+
+- [[battery-size-dat]] - [[18650-dat]] - [[26650-dat]]
+
+
+- [[battery-dat]] 
 
 - [[battery-rechargerable-dat]] 
 
@@ -46,6 +63,7 @@
 
 - [[power-usb-charger-dat]]
 
+- [[battery-power-tools-dat]]
 
 ## coin battery dat 
 
@@ -149,3 +167,5 @@ Usage: Devices that require more energy or have higher power consumption tend to
 ## ref 
 
 - [[voltage-dat]] - [[power-level-dat]]
+
+- [[info]]

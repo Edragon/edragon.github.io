@@ -1,6 +1,8 @@
 
-# super-cap-dat
+# capacitor-super-dat
 
+
+== super-cap == super cap 
 
 ## 2.7v super capacitor
 
