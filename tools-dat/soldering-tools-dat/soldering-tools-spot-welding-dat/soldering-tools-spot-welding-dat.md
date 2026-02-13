@@ -9,6 +9,10 @@
 
 - [[capacitor-super-dat]] - [[capacitor-dat]]
 
+
+- 可焊0.25mm
+
+
 ![](2025-06-13-13-43-52.png)
 
 specifically for [[battery-dat]]

@@ -14,7 +14,7 @@
 
 - [[tools-dat]] - [[soldering-tools-spot-welding-dat]]
 
-- Nickel Strip / copper strip == 铝片和铜片，电池点焊用的，铝片适合铝壳电池，铜片适合铁壳电池
+- Nickel Strip / copper strip == 铝片和铜片，电池点焊用的，铝片适合铝壳电池，铜片适合铁壳电池 - [[soldering-materials-dat]]
 
 - [[internal-resistance-meter-dat]]
 
