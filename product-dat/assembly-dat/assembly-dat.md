@@ -1,6 +1,27 @@
 
 # assembly-dat
 
+
+
+## assembly-real
+
+
+- [[plastic-dat]]
+
+- [[asm-plastic-Snap-fit-dat]] - [[plastic-dat]]
+
+- [[screw-Self-tapping-dat]] - [[plastic-dat]] - [[screw-dat]]
+
+
+long through thread 
+
+![](2026-02-13-19-13-26.png)
+
+
+
+
+## assembly-CAD
+
 fastened
 revolute 
 slider mate 
@@ -17,3 +38,6 @@ Pin slot mate
 Ball mate 
 Parallel mate 
 
+## ref 
+
+- [[product-dat]]
