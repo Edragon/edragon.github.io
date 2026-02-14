@@ -30,6 +30,13 @@ Power supply VIN via [[LM317-dat]]
 
 ## ref 
 
+
+- [[nuvoton-dat]] - [[N76E003-dat]] - [[MCU-dat]]
+
+- [[SCU1048-dat]] - [[DOD1077-dat]] - [[SCU1050-dat]]
+
+
+
 - [[n76e003-dat]] - [[LM7805-dat]]
 
 

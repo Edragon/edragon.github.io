@@ -2,18 +2,22 @@
 # MCU-dat 
 
 
-- [[peripherals-dat]]
+- [[peripherals-dat]] - [[serial-dat]] - [[dev-board-dat]]
 
 
-- [[CPLD-dat]] - [[RISC-V-dat]]
+
 
 - [[STM32-dat]] - [[STM32-clone-dat]]
 
 - [[STM8-dat]]
 
-- [[microchip-MCU-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
-- [[STC-dat]] - [[PIC-dat]] - [[nuvoton-dat]] - [[WCH-dat]]
+- [[arduino-boards-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
+
+- [[PIC-dat]] - [[microchip-dat]] - [[microchip-MCU-dat]] 
+
+- [[WCH-dat]]
+
 
 - [[8051-dat]]
 
@@ -21,7 +25,16 @@
 
 - [[allwinner-dat]]
 
-- [[STC-dat]]
+- [[STC-dat]] - [[STC8H-dat]] - [[STC32-dat]]
+
+- [[nuvoton-dat]] - [[N76E003-dat]] - [[MCU-dat]]
+
+- [[arduino-boards-dat]] - [[arduino-dat]]
+
+- [[HDSC-dat]]
+
+- [[TI-dat]] - [[MSP430-dat]] - [[TMS320-dat]]
+
 
 
 
@@ -30,11 +43,34 @@
 
 - [[FPGA-dat]] - [[CPLD-dat]] - [[DSP-dat]] - [[ARM-dat]] - [[RISC-V-dat]]
 
+
+## MCU with [[network-dat]] 
+
+
+- [[ESP32-dat]] - [[ESP8266-dat]]
+
+- [[nrf52840-dat]] - [[nordic-dat]]
+
+- [[RDA-dat]] 
+
+- [[BL616-dat]] - [[bouffalolab-dat]]
+s
+- [[u-blox-dat]]
+
+- [[ASR6500-dat]]
+
+- [[WCH-dat]] - [[CH579-dat]] - [[CH582-dat]]
+
+- [[silicon-labs-dat]]
+
+
+
 ## Common-used MCU support OTA and configure 
 
 - [[nrf52840-dat]] 
 
 - [[ESP32-dat]]
+
 
 
 
@@ -125,6 +161,14 @@ Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter
 - MPC5200 - The MPC5200 integrates a high performance MPC603e series G2_LE core with a rich set of peripheral functions focused on communications and systems integration. The G2_LE core design is based on the PowerPCTM core architecture. MPC5200 incorporates an innovative BestComm I/O subsystem, which isolates routine maintenance of peripheral functions from the embedded G2_LE core. The MPC5200 contains a SDRAM/DDR Memory Controller, a flexible External Bus Interface, PCI Controller, USB, ATA, Ethernet, six Programmable Serial Controllers (PSC), I2C, SPI, CAN, J1850, Timers, and GPIOs
 
 - AT89S52-24PC
+
+
+
+
+
+
+
+
 
 ## ref 
 

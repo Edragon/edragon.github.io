@@ -5,7 +5,7 @@
 
 - [[HMC5983-dat]] - [[HMC5883-dat]] - [[honeywell-dat]]
 
-- [[bosch-dat]] - [[BMM350-dat]]
+- [[bosch-dat]] - [[BMM350-dat]] - [[BMM150-dat]]
 
 - [[I2C-dat]]
 

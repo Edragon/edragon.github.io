@@ -2,14 +2,16 @@
 # sensor-temperature-dat
 
 
-- [[thermocouple-dat]] - [[thermostat-dat]]
+- [[thermocouple-dat]] - [[sensor-RTD-dat]]
 
-- [[sensor-NTC-dat]] - [[sensor-RTD-dat]]
+- [[sensor-NTC-dat]] 
 
 - [[sensor-non-contact-temperature-dat]]
 
 
+## apps 
 
+- [[thermostat-dat]]
 
 ## boards 
 
@@ -27,7 +29,6 @@ wireless measurement
 
 ## chips 
 
-- [[LM75-dat]] - [[STH1071-dat]]
 
 - [[sensirion-dat]] - [[SHT4x-dat]]
 
@@ -43,6 +44,8 @@ wireless measurement
 
 ## chip type temperature sensor 
 
+- [[LM75-dat]] - [[STH1071-dat]]
+
 TMP235A2DBZR SOT-23-3 Analog Temperature Sensor Chip
 
 SHT31-DIS-B DFN-8 Digital Temperature and Humidity Sensor IC
@@ -56,6 +59,9 @@ SHT31-DIS-B DFN-8 Digital Temperature and Humidity Sensor IC
 ## common use 
 
 - mini size: [[AHT20-dat]] - [[SHT4x-dat]] - [[SHT30-dat]]
+
+
+
 
 
 ## ref 

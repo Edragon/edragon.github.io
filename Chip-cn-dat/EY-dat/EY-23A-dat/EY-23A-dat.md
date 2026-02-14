@@ -1,6 +1,16 @@
-# EY-23A
+# EY-23A-dat
+
+
+- [[bt-dual-mode-dat]] - [[EY-23A-dat]] - [[EY-33-dat]]
+
+- [[CC2541-dat]] - [[EY-23A-dat]]
+
+
 
 The EY-23A module has clear advantages: it supports SPP for PC Bluetooth communication and BLE 5.0 for mobile apps or WeChat mini programs. It can work with an EY-34 as a master to form master-slave communication with EY-23A as slaves. In EY-34 multi-connect mode, one EY-34 can connect to up to seven EY-23A slave modules simultaneously.
+
+
+
 
 ## EY-23A — Bluetooth 3.0 SPP + BLE 5.0
 
@@ -47,3 +57,6 @@ Common AT commands supported by the module:
 ## References
 
 - [[EY-dat]]
+
+
+- [[EY-23A]] - [[EY]]

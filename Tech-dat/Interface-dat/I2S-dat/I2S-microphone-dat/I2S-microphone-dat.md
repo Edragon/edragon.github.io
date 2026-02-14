@@ -1,6 +1,11 @@
 
 # I2S-microphone-dat
 
+
+
+- [[I2S-microphone-dat]] - [[buzzer-mems-dat]] - [[sensor-mems-dat]]
+
+
 I2S Output Digital Microphone - [[INMP441-dat]] - [[MSM261S4030H0R-dat]]
 
 - [[ICS-43432-dat]] - [[ICS-43434-dat]]
@@ -16,6 +21,15 @@ I2S Output Digital Microphone - [[INMP441-dat]] - [[MSM261S4030H0R-dat]]
 ![](2025-01-06-14-07-17.png)
 
 
+- [[MP34DT06JTR-dat]] - [[sensor-microphone-dat]] - [[st-sensor-dat]] - [[I2S-microphone]]
+
+MEMS audio sensor omnidirectional digital microphone
+
+https://www.st.com/resource/en/datasheet/mp34dt06j.pdf
+
+![](2026-02-10-17-43-37.png)
+
+![](2026-02-10-17-44-36.png)
 
 
 

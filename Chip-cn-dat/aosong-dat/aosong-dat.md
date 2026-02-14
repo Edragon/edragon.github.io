@@ -1,7 +1,15 @@
 # aosong-dat
 
+
+
+
+## portfolio 
+
 ![](2024-02-28-16-16-27.png)
 
+
+
+- [[DHT22-dat]] - [[aosong-dat]]
 
 - [[STH1010-dat]] - [[STH1046-dat]] == [[DHT11-dat]] - [[STH1036-dat]]  - [[STH1020-dat]]
 

@@ -47,6 +47,9 @@ TPS22916CYFPR == TPS22916xx 1-V–5.5-V, 2-A, 60-mΩ Ultra-Low Leakage Load Swit
 
 ## switching ICs 
 
+switching IC - SN75451BDR - SN5545xB, SN7545xB Dual-Peripheral Drivers for High-Current, High-Speed Switching
+
+
 - [[PE4259-dat]] - [[UPG2179-dat]]
 
 

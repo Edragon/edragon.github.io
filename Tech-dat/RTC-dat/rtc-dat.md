@@ -1,6 +1,9 @@
 
 # RTC-DAT
 
+
+
+
 Boards 
 
 - [[MOT1007-dat]] - [[MOT1032-dat]]
@@ -10,7 +13,7 @@ Boards
 
 ## chip 
 
-[[Dallas-dat]] 
+[[Dallas-dat]] - [[DS1307-dat]] - [[DS3231-dat]] - [[DS1302-dat]]
 
 [[NXP-dat]]
 

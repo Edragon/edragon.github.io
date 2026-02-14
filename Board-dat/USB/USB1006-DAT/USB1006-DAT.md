@@ -1,5 +1,11 @@
 
-# USB1006 
+# USB1006-dat 
+
+
+
+
+[Serial to HID Keyboard Emulator](https://www.electrodragon.com/product/serial-to-hid-keyboard-emulator/)
+
 
 - output interface serial. default baudrate 9600 - [[USB-TTL-dat]]
 

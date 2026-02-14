@@ -8,11 +8,31 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[cable-dat]] style - [[PCA1093-dat]] - [[PCA1094-dat]]
 
-- [[TPS61088-dat]]
+
 
 - [[type-c-sniffer-dat]] - [[OPM1185-dat]] - [[usb-type-c-dat]]
 
-- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
+- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[XL6009-dat]]
+
+- [[OPM1009-dat]] - [[OPM1019-dat]] - [[dcdc-boost-dat]] - [[XL-dat]]
+
+- [[TI-power-dat]] - [[TPS61088-dat]] - [[LM2577-dat]]
+
+- [[MT3608-dat]] - [[dcdc-boost-dat]] - [[OPM1089-dat]]
+
+- [[dcdc-boost-dat]] - [[xysemi-dat]]
+
+
+
+
+high power - [[OPMS080-dat]]
+
+10A 150W == [[OPM1013-dat]]
+
+
+
+
+
 
 ## compare 
 
@@ -55,23 +75,8 @@ fixed 5V output and little periperals
 - [[MPS-dat]]
 
 
-## MT3608 
 
-High Efficiency 1.2MHz 2A Step Up Converter
-
-FEATURES
-
-- · Integrated 80mQ Power MOSFET
-- · 2V to 24V Input Voltage
-- · 1.2MHz Fixed Switching Frequency
-- · Internal 4A Switch Current Limit
-- · Adjustable Output Voltage
-- · Internal Compensation
-- · Up to 28V Output Voltage
-- · Automatic Pulse Frequency Modulation Mode at Light Loads
-- · up to 97% Efficiency
-- · Available in a 6-Pin SOT23-6 Package
-
+- [[MT3608-dat]]
 
 ## common application
 
@@ -80,6 +85,17 @@ FEATURES
 
 
 
+
+## apps 
+
+
+Applications
+
+- `DIY an output adjustable vehicle power supply`, only need access to your 12V power input, the output voltage can (14-35V)  continuously adjust, but the output voltage can not be lower than the input voltage.
+- `Universal on-vehicle laptop power supply`. Input connector on your 12V power supply, the output voltage is adjusted to your laptop to work.
+- `Boost charger`, you can use the 12V power supply is higher than 12V battery charging, for example, 24V battery.
+- `Power for your electronic devices`, as long as the voltage and current of the voltage regulator to your needs can not exceed the rated current is working properly.
+- `Primary front level system power supply`, when you do a project at the time of 10-18V input when the system board and you need to supply 24V and about its great power, with ordinary DC-DC module power is too small , then you choose this module we will be your best choice, do not debug directly on the machine to work, easy to do and efficient power boost.
 
 
 

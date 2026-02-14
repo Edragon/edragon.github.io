@@ -1,5 +1,10 @@
 # STH1052-dat
 
+
+
+- [[STH1052-dat]] - [[STH1016-dat]] - [[sensor-soil-dat]]
+
+
 ## Info 
  
 [product url](https://www.electrodragon.com/product/soildust-humiditywatermoisture-sensor/)

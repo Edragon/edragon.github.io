@@ -84,8 +84,9 @@ CH32V003 - SOP8
 [[STM32-dat]]
 - [[DOD1096-dat]]
 
-[[CPLD-dat]] / [[FPGA-dat]]
-- [[DODS040-dat]] - [[DODS042-dat]] - [[DODS044-dat]]
+[[CPLD-dat]] / [[FPGA-dat]] - [[DODS040-dat]] - [[DODS042-dat]] - [[DODS044-dat]]
+
+[[nuvoton-dat]] - [[DOD1077-dat]]
 
 ### DPR
 
@@ -114,7 +115,9 @@ WCH - [[DPR1133-dat]]
 
 - [[DVA1005-dat]]
 
-- [[DVA1007-dat]] - [[DVA1008-dat]] - [[lora-dat]]
+- [[DVA1007-dat]] - [[DVA1008-dat]] - [[lora-dat]] - [[DVA1009-dat]]
+
+
 
 ### ESP 
 
@@ -235,9 +238,13 @@ USB
 
 [[LDO-dat]] - [[LM317-dat]] - [[OPM1087-dat]]
 
-[[DCDC-down-dat]] - [[OPM1192-dat]]
+[[DCDC-down-dat]] - [[OPM1192-dat]] - [[OPM1171-dat]]
 
 [[battery-charge-dat]] - [[fast-charge-methods-dat]] - [[OPM1185-dat]]
+
+
+
+
 
 ### OPS 
 
@@ -302,13 +309,13 @@ audio bluetooth player - [[NBL1037-dat]] - [[NBL1038-dat]]
 
 classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
-[[BT4.0-dat]] 
+[[BLE4-dat]] 
 
 - [[NBL1050-dat]] - [[NBL1054-dat]]
 
 - [[NBL1060-dat]] - [[NBL1061-dat]]
 
-- [[CSR64215-dat]] - [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
+- [[CSR6A4215-dat]] - [[NBL1083-dat]] - [[NBL1084-dat]] - [[NBL1084-dat]]
 
 [[BLE-dat]]
 

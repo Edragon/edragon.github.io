@@ -2,14 +2,43 @@
 # TI-power-dat
 
 
+- [[ti-power-dcdc-boost-dat]]
+
+## battery charger 
+
+- [[battery-charger-dat]] - [[BQ24075-dat]] - [[TI-power-dat]]
+
+1.5A USB-FRIENDLY Li-Ion BATTERY CHARGER AND POWER-PATH MANAGEMENT IC
+
+![](2026-02-12-19-20-12.png)
+
+
+
+
+
+- [[BQ24650-dat]] - BQ24650RVAR 丝印PAS VQFN-16 电池充电控制器芯片 - [[MPPT-dat]] == PAS TI71W 
+
+BQ24650 Stand-Alone Synchronous Buck Battery Charge Controller for Solar Power With Maximum Power Point Tracking
+
+![](2026-02-12-19-17-09.png)
+
+
+
 ## LDO 
 
 
 
 
+## LP2985 
+
+![](2026-02-12-21-26-21.png)
+
+[LP2985 150mA, Low-Noise, Low-Dropout Regulator With Shutdown](https://www.ti.com/lit/ds/symlink/lp2985.pdf)
 
 
-LP3853/LP3856 3A Fast Response Ultra Low Dropout Linear Regulators
+
+
+## LP3853/LP3856 3A Fast Response Ultra Low Dropout Linear Regulators
 
 FEATURES
 - Ultra Low Dropout Voltage
@@ -167,6 +196,17 @@ Use a switching regulator + LDO
 
 Use a regulator family designed for paralleling
 - Some PMICs allow this
+
+
+
+
+
+## battery charger 
+
+- [[BT24075-dat]] - [[TI-power-dat]]
+
+![](2026-02-10-16-44-18.png)
+
 
 ## ref 
 

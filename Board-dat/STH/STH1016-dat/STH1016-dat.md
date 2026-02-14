@@ -1,6 +1,10 @@
 
 # STH1016-dat
 
+
+
+- [[STH1052-dat]] - [[STH1016-dat]] - [[sensor-soil-dat]]
+
 - internal SHT30 I2C output 
 
 ## Main Features: 

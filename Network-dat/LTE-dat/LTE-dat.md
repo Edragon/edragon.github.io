@@ -1,7 +1,31 @@
 
 
-# CAT vs. CAT M
+# LTE-dat
+
+
+## chip 
+
+- [[A7670-dat]] - [[SIMCOM-dat]] - [[LTE-dat]] - [[M2M-dat]]
+
+
+- full pin version [[NGS1144-dat]] - [[NGS1149-dat]] 
+
+- V2 == [[NGS1141-dat]] - [[NGS1142-dat]] 
+- V1 == [[NGS1131-dat]] - [[NGS1132-dat]]
+
+- [[EC20-dat]] - [[EC25-dat]]
+
+- [[SIM7000-dat]]
+
+
+
+
+## CAT vs. CAT M
+
 ![](50-30-13-07-03-2023.png)
+
+
+
 
 
 

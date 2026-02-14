@@ -3,6 +3,10 @@
 
 how to select a suitable inverter 
 
+- [[74HC14-dat]] - [[inverter-dat]]
+
+
+
 
 
 ## 4. Inverters

@@ -2,6 +2,10 @@
 # peripherals-dat
 
 
+- [[protection-dat]] - [[protection-power-dat]]
+
+
+
 - [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]
 
 
@@ -39,7 +43,7 @@
 
 - [[io-expander-dat]]
 
-
+- [[resistor-dat]] - [[resistor-trim-pot-dat]]
 
 
 
@@ -57,7 +61,7 @@
 
 ## basic 
 
-LEDs, buttons, [[trim-pot-dat]], [[DHT11-dat]] 
+LEDs, buttons, [[resistor-trim-pot-dat]], [[DHT11-dat]] 
 
 
 ![](2025-10-08-13-48-32.png)

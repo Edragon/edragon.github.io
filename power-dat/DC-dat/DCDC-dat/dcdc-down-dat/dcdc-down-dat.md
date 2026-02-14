@@ -6,19 +6,17 @@
 
 ## chip and companies
 
-- [[MPS-dat]] - [[MP1658-dat]]
+- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]]
 
 - [[TI-power-dat]] - [[TPS54302-dat]]
 
-- [[silergy-dat]]
+- [[silergy-dat]] - [[SY8205-dat]] - [[OPM1192-dat]]
 
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 
+- [[XL-dat]] - [[XL4015-dat]] - [[dcdc-down-dat]] - [[XL6009-dat]] 
 
-
-
-
-## chips 
+- [[XL4015-dat]] - [[dcdc-down-dat]] - [[CV&CC-dat]] - [[OPM1085-dat]] 
 
 - [[XL-dat]] - [[XL4015-dat]] - [[XL1509-dat]]
 
@@ -27,6 +25,32 @@
 - [[richtek-dat]] - [[RT8279-dat]]
 
 - [[MPS-dat]] - [[intel-dat]]
+
+
+
+
+
+
+### CHIP SIL 
+
+TPS82084(2-A)/TPS82085(3-A) 高效降压转换器MicroSiPTM模块
+
+TPS82084/5是经优化的2A/3A降压转换器MicroSiP模块，兼具小型解决方案尺寸和高效率优势。该电源模块集成有同步降压转换器和电感，可简化设计、减少外部元件并节省印刷电路板（PCB）面积。该器件采用紧凑的薄型封装，适合通过标准表面贴装设备进行自动组装。
+
+![](2026-02-12-15-27-45.png)
+
+![](2026-02-12-15-28-02.png)
+
+![](2026-02-12-15-28-16.png)
+
+
+
+
+
+
+
+
+
 
 
 ## DCDC down module boards 

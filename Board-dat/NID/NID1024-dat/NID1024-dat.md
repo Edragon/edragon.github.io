@@ -1,6 +1,13 @@
 
 # NID1024-dat
 
+
+- [[RFID-dat]] - [[USB-HID-dat]]
+
+[USB Card Reader HID, Text Output, 125Khz](https://www.electrodragon.com/product/usb-card-reader-hid-text-output-125khz/)
+
+
+
 The RFID card reader is easy to operate and has a fast card reading speed. If it is a standard HID device, there is no need to install a driver. The card number can be read in any edit box (for example: Notepad, WORD and other text editing software). This function is suitable for expanding functions on existing software without making any modifications to the original software;
 
 ## Main features 

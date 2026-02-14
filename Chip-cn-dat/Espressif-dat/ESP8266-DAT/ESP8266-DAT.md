@@ -8,13 +8,6 @@ hardware and software - [[ESP8266-HDK-dat]] - [[ESP8266-SDK-dat]]
 - [[QFN-dat]] - [[footprint-dat]]
 
 
-## Modules and Boards 
-
-- [[ESP8266-modules-dat]] - [[NWI1086-dat]] - [[NWI1077-dat]] - [[NWI1059-dat]] - [[NWI1075-dat]]
-
-- [[ESP-12F-dat]] - [[ESP-12S-dat]] - [[ESP-01-dat]] - [[ESP-01S-dat]]
-
-
 
 
 ## peripherals 

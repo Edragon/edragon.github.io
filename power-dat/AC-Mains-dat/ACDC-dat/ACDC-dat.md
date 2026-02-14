@@ -4,11 +4,19 @@
 
 - [[ac-mains-dat]] - [[ACDC-dat]]
 
+[legacy wiki page](https://www.electrodragon.com/w/AC-DC)
+
+
+
 ## tech 
 
 - [[transformer-dat]]
 
 - [[power-protection-dat]]
+
+
+
+
 
 ## Modules 
 
@@ -19,6 +27,12 @@
 - [[OPM1068-dat]]
 
 
+
+## output 
+
+- 12V/2A
+- 5V/2A 
+- 
 
 
 ## Board Function diagram 

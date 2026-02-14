@@ -2,6 +2,18 @@
 # I2S-dat 
 
 
+## tech 
+
+- [[DAC-dat]] - [[amplifier-audio-dat]] - [[speaker-dat]]
+
+
+- [[I2S-microphone-dat]] 
+
+- speaker == [[I2S-DAC-dat]]
+
+- [[sensor-dat]] 
+
+
 
 ## info 
 
@@ -17,19 +29,22 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 
 
-## category 
-
-- [[I2S-microphone-dat]] 
-
-- speaker == [[I2S-DAC-dat]]
-
-- [[sensor-dat]] 
 
 
 
-## chips 
+
+
+## chips and chips 
 
 - [[everest-semi-dat]]
+
+- [[ES9023-dat]] - [[MPC1111-dat]] - [[ES9018-dat]]
+
+- [[PCM5121-dat]]
+
+PCM512x 2-VRMS DirectPath™ , 112-dB and 106-dB Audio Stereo DACs With 32-Bit, 384-kHz PCM Interface
+
+- [[PCM5122-dat]] - [[MPC1083-dat]]
 
 
 

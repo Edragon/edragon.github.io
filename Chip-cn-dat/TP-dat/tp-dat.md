@@ -2,7 +2,7 @@
 
 # TP-dat
 
-- [[TP]]
+
 
 - [[TP4055-dat]]
 
@@ -15,6 +15,11 @@
 - [[TP4083-dat]]
 
 - [[TP5100-dat]] == 20V input, BAT : -8.4V ~ 20V
+
+- [[TP5400-dat]]
+
+TP5400 1000mA Li-lon Battery Charger and 5V 1A boost
+
 
 http://www.tpwic.com/
 
@@ -34,5 +39,7 @@ When the input voltage (AC adapter or USB power) is removed, the TP4083 automati
 
 
 ## ref 
+
+- [[TP]]
 
 - [[battery-charger-dat]]

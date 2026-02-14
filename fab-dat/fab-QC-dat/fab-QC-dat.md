@@ -8,7 +8,9 @@
 
 - [[button-dat]]
 
+- [[CONN-USB-type-c-dat]] 
 
+- [[pogo-pin-dat]]
 
 
 ## progress 

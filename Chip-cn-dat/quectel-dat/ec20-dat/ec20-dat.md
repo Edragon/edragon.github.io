@@ -2,9 +2,14 @@
 
 ## EC20
 
+
+
+
+
+
 - module available here: https://www.electrodragon.com/product/ec20-network-module-lte-4g-3g-2g-usb-mini-dongle/
 
-
+- [[NGS1109-dat]] - [[NGS1108-dat]]
 
 ## About EC20 Modules
 

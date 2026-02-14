@@ -86,6 +86,9 @@
 
 - [[25-rover]]
 
+- [[motor-brushless-dat]] - [[motor-three-phase-BLDC-dat]] - [[SDR1106-dat]] - [[FOC-dat]]
+
+
 ## chips 
 
 - [[ti-motor-dat]] 
@@ -97,6 +100,9 @@
 - [[allegro-dat]] - [[A4988-dat]] - [[A4954-dat]]
 
 - [[Infineon-dat]] - [[BTS7960-dat]]
+
+
+
 
 
 ## and more 

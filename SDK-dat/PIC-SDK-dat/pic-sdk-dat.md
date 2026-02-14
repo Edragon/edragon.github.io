@@ -5,6 +5,9 @@
 - legacy wiki page - https://w.electrodragon.com/w/PIC_SDK
 
 
+- [[PIC-sdk-dat]] - [[pickit-dat]] - [[PIC-dat]]
+
+
 ## Boards 
 
 - [[DOD1049-dat]]
@@ -34,6 +37,10 @@
 ![](10-53-12-29-12-2022.png)
 
 ![](31-53-12-29-12-2022.png)
+
+
+
+
 
 ### Programming PIC16F72
 

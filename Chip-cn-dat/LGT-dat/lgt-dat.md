@@ -1,11 +1,33 @@
 
 # LGT-dat 
 
+
+
+- [[LGT8F328-dat]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]] - [[atmega328-dat]]
+
+- [[LGT8F328-SDK-DAT]]
+
+
+
+## chip 
+
+- LGT8F328P-LQFP32
+- LGT8F328D 
+- LGT8F88B (88A改) QFP32L 8位单片机
+- LGT8F684A-SOP16
+- LGT8F684A-SOP8
+
+
+
 ## LGT8x 
 
 ![](2025-06-25-14-39-24.png)
 
-- [[LGT8F328-dat]]
+
+
+
+
+
 
 
 ## repo 

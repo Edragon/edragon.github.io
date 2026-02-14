@@ -2,6 +2,9 @@
 # RV1103-dat
 
 1.1 Overview
+
+
+
 RV1103 is a highly integrated vision processor SoC for IPC, especially for AI related applications.
 
 It is based on a single-core ARM Cortex-A7 32-bit core which integrates NEON and FPU.
@@ -27,3 +30,7 @@ RV1103 has a build-in 16-bit DRAM DDR2 capable of sustaining demanding memory ba
 - [[Rockchip RV1103 Datasheet V1.1-20220427.pdf]]
 
 - luckfox pico SCH - [[Luckfox-Pico-SCH.pdf]]
+
+
+
+

@@ -5,6 +5,11 @@
 Wiring: 3.3V or 5V, GND, UPDI 
 
 
+## supported board 
+
+- [[ILE1073-dat]] - [[DAR1064-dat]]
+
+
 ## programmers
 
 ## atmel ICE 

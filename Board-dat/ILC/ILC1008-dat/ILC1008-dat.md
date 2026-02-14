@@ -1,6 +1,11 @@
 
 # ILC1008-dat
 
+
+
+- [[ILC1007-dat]] - [[ILC1008-dat]] - [[LCD12864-dat]]
+
+
 [product link ](https://www.electrodragon.com/product/12864min-graphic-lcd/)
 
 

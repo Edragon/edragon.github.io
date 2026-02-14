@@ -12,6 +12,8 @@ with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 
 - https://blog.electrodragon.com/acs712-current-sensor-read/
 
+
+
 ## boards 
 
 - [[SVC1002-dat]] - [[SVC1004-dat]]

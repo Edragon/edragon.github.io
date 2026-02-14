@@ -4,6 +4,13 @@
 
 - [[Walkie-talkie-dat]] - [[wireless-microphone-dat]] - [[ETC-dat]]
 
+module - [[NBL1012-dat]] - [[NBL1022-dat]] == [[beken-dat]]
+
+
+- [[RF-dat]] - [[radio-dat]] - [[BK1080-dat]]
+
+
+
 
 ## 	Proprietary
 
@@ -11,9 +18,13 @@
 - BK2481/2/3
 - BK5813
 
+
+
+
+
 ## modules 
 
-- [[NBL1037-dat]] - [[NBL1038-dat]]
+- [[NBL1037-dat]] - [[NBL1038-dat]] - [[BK8000-dat]]
 
 ## chips 
 

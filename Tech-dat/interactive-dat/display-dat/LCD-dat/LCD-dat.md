@@ -1,7 +1,7 @@
 
 # LCD-dat 
 
-- [[display-dat]] 
+- [[display-dat]] - [[LCD-driver-dat]]
 
 - [[RGB-LCD-dat]]
 
@@ -18,7 +18,7 @@
 
 - [[MIPI-dat]]
 
-
+- [[segment-lcd-dat]]
 
 
 

@@ -3,6 +3,9 @@
 
 - [[I2C-dat]]
 
+- [[sensor-temp-hum-dat]] - [[AHT20-dat]] - [[NBL1107-dat]]
+
+
 
 ## code 
 
@@ -19,3 +22,8 @@ output
 
 
 - [[AHT20-datasheet-2020-4-16.pdf]]
+
+
+
+## ref 
+

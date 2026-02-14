@@ -4,7 +4,18 @@
 - Any questions please email to info@eletrodragon.com, light speed and free stlye reply!
 - Social platform reply will be slow! Thank you. 
 
+
+- International Phone Contact: +86 18576608994
+- Manager: Chao He
+- Address: #508 Yijing Factory Building Ziyou Road, Baoban China 518111
+- Registered Chinese Company Name: SHENZHENSHI BAOANQU XINAN QIANYOUDIANZI SHANGHANG
+- Registered Chinese Company Number: 92440300L91302639E
+
+
 - whatsapp - +1 7026803006
+
+
+
 
 ## Demo Channels 
 

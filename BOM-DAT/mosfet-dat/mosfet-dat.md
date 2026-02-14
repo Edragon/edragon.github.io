@@ -67,6 +67,7 @@ common brand: [[Vishay-dat]]
 
 D2PAK == TO252
 
+P0903BDL-VB Datasheet - N-Channel 30-V (D-S) MOSFET
 
 ### dual channel 
 
@@ -87,6 +88,30 @@ Third generation power MOSFETs from Vishay provide the designer with the best co
 The SOT-223 package is designed for surface-mounting using vapor phase, infrared, or wave soldering techniques. Its unique package design allows for easy automatic pick-and-place as with other SOT or SOIC packages but has the added advantage of improved thermal performance due to an enlarged tab for heatsinking. Power dissipation of greater than 1.25 W is possible in a typical surface mount application.
 
 - [sihfl210](https://www.vishay.com/docs/91193/sihfl210.pdf)
+
+
+#### IRF4905PbF HEXFET® Power MOSFET
+
+- VDSS = -55V
+- RDS(on) = 0.02Ω
+- ID = -74A
+
+
+#### HJ 
+
+HJ3080A 貼片 TO-252 場效電晶體 替代 SE3080K WP3080K CMD3080M
+
+- 品牌：HJ郎帅华晶型号：HJ3080A封装：TO-252
+- 批号：全新环保
+- 包装：2500个/盘，可拆散出售。
+- 功能：30V/80A，N沟道场效应管。
+
+#### high power mosfet design 
+
+![](2026-02-13-14-45-27.png)
+
+
+
 
 ## un-sorted 
 
@@ -232,3 +257,5 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 - [[mosfet]] - [[mos-p]] - [[mos-n]]
 
 - [[control-dat]]
+
+[[items]]

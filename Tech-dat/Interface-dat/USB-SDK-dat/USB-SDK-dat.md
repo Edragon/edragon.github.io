@@ -22,15 +22,19 @@
 
 - [[keyboard-dat]] - [[mouse-dat]]
 
-- [[USB-FC-trigger-dat]] - [[USB-FC-dat]]
+
+- [[USB-FC-dat]] - [[USB-PD-dat]] - [[USB-QC-dat]] - [[USB-PPS-dat]] - [[fast-charge-methods-dat]]
 
 - [[WCH-dat]]
 
 - [[IP5306-dat]]
 
 
+## USB functions and enhance 
 
-- [[USB-Hub-dat]] - [[USB-Switch-dat]]
+- [[USB-sniffer-dat]] - [[USB-Hub-dat]] - [[USB-Switch-dat]] - [[USB-APP-dat]]
+
+- [[USB-extension-dat]] - [[USB-hid-dat]]
 
 
 ## USB variations 
@@ -46,6 +50,8 @@
 ## signal conversion 
 
 - [[USB-SPI-dat]]
+
+
 
 ## Devices 
 

@@ -1,7 +1,7 @@
 
 # AMP1000-dat
 
-- [[PAM8610-dat]] - [[diodes-dat]]
+- [[PAM8610-dat]] - [[diodes-dat]] - [[amplifier-audio-dat]]
 
 ![](2024-01-23-15-23-53.png)
 
@@ -12,6 +12,11 @@
 - 电源指示灯 = power indicator
 - 静音开关 = mute
 - 电源开关 = power on/off 
+
+
+
+
+
 
 ## ref 
 

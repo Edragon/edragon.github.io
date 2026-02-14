@@ -3,6 +3,19 @@
 
 
 
+## BLE5 module 
+
+NINA-B3
+
+- [[u-blox-dat]] - u-blox NINA-B3 Stand-Alone Bluetooth 5 Low Energy Modules
+
+https://www.mouser.com/pdfDocs/NINA-B3_DataSheet_UBX-17052099.pdf
+
+![](2026-02-10-17-48-12.png)
+
+
+- [[arduino-nano-33-ble-dat]] - [[arduino-boards-dat]]
+
 
 ## info 
 

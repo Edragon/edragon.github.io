@@ -15,17 +15,17 @@
 
 - [[chip-dat]] - [[chip-cn-dat]] - [[74xx-dat]]
 
-- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]]
+- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]] - [[SBC-dat]] - [[signal-dat]] - [[interface-dat]]
 
-- [[sensor-dat]] - [[sensor-touch-dat]]
+- [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]] - [[sensor-motion-dat]] - [[sensor-camera-dat]]
 
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]] - [[buzzer-dat]] - [[relay-dat]]
 
-- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[battery-pack-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
+- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
 
-- [[battery-dat]] - [[battery-BMS-dat]] 
+- [[battery-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]] - [[battery-3s-dat]] - [[battery-pack-dat]] 
 
-- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]]
+- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]] - [[lora-dat]] - [[location-dat]] - [[LTE-dat]] - [[ethernet-dat]]
 
 - [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
 
@@ -33,18 +33,18 @@
 
 - [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]]
 
-- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]]
+- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[]]
 
-- [[CONN-dat]] - [[CONN-cable-terminal-dat]]
+- [[CONN-dat]] - [[CONN-cable-terminal-dat]] - [[CONN-power-dat]] - [[CONN-audio-dat]]
 
 - [[cable-dat]]
 
-- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]]
+- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]] - [[ISP-dat]] - [[JLINK-dat]] - [[programmer-socket-dat]]
 
 
 - [[service-dat]] - [[discount-dat]] - [[shipment-dat]] 
 
-
+- [[fab-dat]] - [[fab-qc-dat]]
 
 
 ## Weekly Updates 
@@ -85,5 +85,5 @@
 
 - [[edragon]] - [[board]] - [[edragon-fab]] - [[edragon-dev]] - [[HDK]]
 
-- [[m]] - [[app]]
+- [[m]] - [[app]] - [[items]]
 

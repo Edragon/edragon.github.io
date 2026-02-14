@@ -1,10 +1,12 @@
 
 # signal-dat.md
 
+- [[PWM-dat]]
+
 - [[digital-dat]] - [[analog-dat]]
 
 
-- [[differential-signal-dat]]
+- [[signal-differential-dat]]
 
 
 - [[digitizer-dat]]
@@ -17,7 +19,11 @@
 
 - [[comparator-dat]] - [[circuits-dat]]
 
+- [[signal-dat]] - [[DDS-dat]] - [[wave-dat]]
 
+- [[audio-dat]]
+
+- [[pulse-generator-dat]]
 
 
 ## unsort 

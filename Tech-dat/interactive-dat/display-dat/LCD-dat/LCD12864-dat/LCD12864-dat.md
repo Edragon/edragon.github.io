@@ -1,6 +1,14 @@
 
 # LCD12864-dat
 
+
+
+![](2026-02-11-18-34-15.png)
+
+- [[ILC1007-dat]] - [[ILC1008-dat]] - [[LCD12864-dat]]
+
+
+
 ## specs 
 - Product name LCD module
 - Model 12864G

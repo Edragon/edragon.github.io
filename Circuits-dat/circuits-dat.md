@@ -9,7 +9,7 @@
 
 - [[protection-dat]]
 
-- [[differential-signal-dat]] - [[signal-dat]]
+- [[signal-differential-dat]] - [[signal-dat]]
 
 - [[MMA7660-dat]] - [[SD-card-dat]]
 
@@ -37,7 +37,7 @@
 
 - [[PWM-dat]]
 
-
+- [[timer-dat]]
 
 
 - [[Multivibrator-dat]]

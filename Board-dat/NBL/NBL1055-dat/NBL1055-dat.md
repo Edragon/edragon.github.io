@@ -3,6 +3,8 @@
 
 - [[NBL1050-dat]] - [[NBL1051-dat]] - [[NBL1054-dat]] - [[NBL1055-dat]]
 
+- [[qualcomm-dat]]
+
 ## Info
 
 [product url - EB8635 EB8645 Bluetooth BT4.0 Audio Board [Type]](https://www.electrodragon.com/product/exbt-ex8635-ex8645-bluetooth-bt4-0-audio-board/?attribute_pa_attributes=ex8645-breakout-board)

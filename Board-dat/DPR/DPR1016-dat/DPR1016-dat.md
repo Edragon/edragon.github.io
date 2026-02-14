@@ -9,6 +9,14 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
+- [[CCO3626-dat]] - [[CCO3627-dat]] - [[CCO3628-dat]] - [[CCO3629-dat]] - [[DPR1016-dat]] - [[programmer-socket-dat]]
+
+https://www.electrodragon.com/product-category/modules/programmer/ic-socket-programmer/
+
+
+
+
+
 - [[TQFP32-dat]] - [[TQFP-dat]] - [[footprint-dat]]
 
 covert map 
@@ -25,7 +33,9 @@ bottom side view
 
 ## Applications, category, tags, etc. 
 
+- [[LGT8F328-SDK-DAT]] - [[LGT-dat]]
 
+![](2026-02-11-03-27-15.png)
 
 
 ## Demo Code and Video

@@ -31,7 +31,7 @@ chip all pin lead out, free to hack
 
 main function 
 - Current sensor = 9 == [[dc-current-sensor-dat]]
-- Input voltage sensor = 10 == [[dc-voltage-sensor-dat]]
+- Input voltage sensor = 10 == [[sensor-dc-voltage-dat]]
 - relay = PA4 D0 - [[relay-dat]] - [[mcu-relay-dat]]
 
 genernal usage - [[peripherals-dat]] - [[led-dat]] - [[button-dat]]

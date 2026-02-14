@@ -2,6 +2,8 @@
 # constant-current-dat
 
 
+- [[constant-current-dat]] - [[CV&CC-dat]]
+
 
 ## apps 
 

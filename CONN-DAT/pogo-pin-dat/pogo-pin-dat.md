@@ -1,6 +1,8 @@
 
 # pogo-pin-dat
 
+- [[fab-ICT-dat]] - [[fab-QC-dat]]
+
 ## TH178 
 
 ![](2024-12-30-14-03-45.png)
@@ -55,6 +57,40 @@ through-hole == 0.7 ~ 0.8 mm
 ![](2025-08-24-18-11-16.png)
 
 ![](2025-08-24-18-11-27.png)
+
+
+
+## battery pogo style connector 
+
+![](2026-02-12-12-56-56.png)
+
+![](2026-02-12-12-58-19.png)
+
+- TH184-2pin（间距可以备注）
+- TH073-2pin
+- TH162-2PIN
+- 塑胶不带针
+- 2*6.0-3pin
+- TH176-4pin
+- TH176-5pin
+- 2*8.0-6pin
+- 2*5.0-6pin双排
+- 2*8.0-7pin
+- TH178 -8pin
+- 2*9.0-8pin双排
+- TH176-9pin
+- TH176-10pin双排
+- TH194 -12pin双排
+- P070-2pin母头
+- H1533-1-3pin
+- H1533-1-4pin
+- 其它款订制母头
+- TH050 2pin 3PH
+- TH176-双排14PIN
+- 4PIN 弯针母头P128
+- 4P4.0PH
+- TH302
+
 
 ## demo video 
 

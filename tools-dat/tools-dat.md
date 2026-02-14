@@ -3,6 +3,8 @@
 
 - [[fab-workspace-dat]] - [[multimeter-dat]] - [[SMD-tester-dat]]
 
+- [[instrument-dat]] - [[oscilloscope-dat]] - [[multimeter-dat]] - [[tools-dat]] - [[fab-workspace-dat]]
+
 
 
 - [[PCB-tools-dat]] 

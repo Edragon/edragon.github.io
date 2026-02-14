@@ -2,8 +2,11 @@
 # ac-mains-dat
 
 
-- [[ac-mains-dat]] - [[ACDC-dat]]
+- [[ac-mains-dat]] - [[ACDC-dat]] - [[DC-dat]]
 
+
+
+[legacy wiki page](https://www.electrodragon.com/w/AC-DC)
 
 ## tech 
 
@@ -104,6 +107,10 @@
 
 - [[power-integrations-dat]]
 
+
+
+
+
 ### DK112 
 
 
@@ -135,6 +142,15 @@ electrical appliances.
 - · 4KV Anti-Static ESD test. 
 
 ![](2026-02-06-20-22-15.png)
+
+
+
+## APP 
+
+- [[power-booster-dat]]
+
+
+
 
 ## ref 
 

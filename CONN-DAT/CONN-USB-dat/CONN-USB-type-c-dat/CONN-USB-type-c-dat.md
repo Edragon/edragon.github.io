@@ -116,6 +116,15 @@ Note:
 ![](2023-11-30-15-27-29.png)
 
 
+
+
+## common problem 
+
+- data lines are not well connected 
+
+
+
+
 ## ref 
 
 - [[usb]] - [[type-c]] - [[type-c-cable]]

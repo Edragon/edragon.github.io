@@ -17,6 +17,10 @@
 - [[RTL8367-dat]]
 
 
+- RTL8152B - [[RPI-SBC-dat]] - friendly 
+
+
+
 ## Boards 
 
 - [[MPC1070-dat]] - [[MPC1003-dat]]

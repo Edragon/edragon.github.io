@@ -1,6 +1,11 @@
 
 # ILC1007-dat
 
+
+
+- [[ILC1007-dat]] - [[ILC1008-dat]] - [[LCD12864-dat]]
+
+
 legacy wiki page - https://www.electrodragon.com/w/12864min_LCD
 
 with back PCB, 5VIN 

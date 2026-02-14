@@ -28,4 +28,4 @@ Encoder parameters and comparison
 
 https://www.electrodragon.com/product/5pcs-rotary-encoder/
 
-- [[SCU1007-dat]] - [[trim-pot-dat]]
+- [[SCU1007-dat]] - [[resistor-trim-pot-dat]]

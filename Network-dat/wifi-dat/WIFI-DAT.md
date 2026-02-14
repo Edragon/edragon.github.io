@@ -15,6 +15,9 @@
 
 - [[wifi-distance-dat]]
 
+
+
+
 ## cheatsheet 
 
 - AP = access point - Access point (ap) is the thing you connect to, e.g. wireless router. 
@@ -35,7 +38,7 @@
 
 - PHY6222, EWM110 
 
-
+- [[wifi-dat]] - [[nufront-dat]]
 
 
 ## boards 

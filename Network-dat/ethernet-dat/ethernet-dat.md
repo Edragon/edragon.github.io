@@ -3,9 +3,13 @@
 
 - [[TCPUDP-dat]]
 
-- [[PHY-dat]]
+- [[PHY-dat]] - [[MAC-dat]]
 
 - [[ethernet-SDK-dat]]
+
+
+
+
 
 
 ## info
@@ -40,6 +44,12 @@ The ESP32-P4 network model can be explained as follows:
 - [[W5500-dat]] - [[ENC28J60-dat]]
 
 - [[LAN8720-dat]]
+
+- [[realtek-dat]]
+
+- [[WCH-dat]] - [[CH9121-dat]]
+
+
 
 ## RJ45 breakout board 
 

@@ -25,7 +25,7 @@
 
 - [[clock-dat]]
 
-- [[CONN-USB-dat]]
+- [[CONN-USB-dat]] - [[USB-SDK-dat]]
 
 
 
@@ -94,7 +94,7 @@
 
 - [[ethernet-dat]] - [[USB-dat]]
 
-- [[bluetooth-dat]] - [[ble-dat]]
+- [[bluetooth-dat]] - [[ble-dat]] - [[bt-audio-dat]]
 
 - [[WIFI-DAT]] - [[mqtt-dat]] - [[TCPIP-dat]]
 
@@ -104,7 +104,7 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]]
+- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]]
 
 - [[SBC-dat]] - [[RPI-dat]] (raspberry pi)
 
@@ -117,7 +117,7 @@
 
 - [[interactive-dat]]
 
-- [[LED-dat]] - [[LED-strip-dat]]
+- [[LED-dat]] - [[LED-strip-dat]] - [[led-driver-dat]]
 
 - [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] - [[LCD-dat]]
 
@@ -183,13 +183,13 @@
 
 - [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]]
 
-- [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]]
+- [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]] - [[I2S-dat]]
 
 - [[ADC-dat]] - [[DAC-dat]]
 
 - [[USB-dat]] - [[USB-sys-dat]]
 
-- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]]
+- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]]
 
 - [[filter-dat]]
 

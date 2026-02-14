@@ -2,6 +2,14 @@
 # apds-9960-dat
 
 
+- [[sensor-gesture-dat]] - [[apds-9960-dat]]
+
+
+
+## SCH 
+
+![](2026-02-10-17-36-46.png)
+
 
 ## boards 
 

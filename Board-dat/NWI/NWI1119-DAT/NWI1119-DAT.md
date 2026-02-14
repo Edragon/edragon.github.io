@@ -4,6 +4,18 @@
 
 
 
+## tech 
+
+
+- [[ESP-SDK-dat]] - [[ESP32-C3-WROOM-02-DAT]] - [[ESP32-dat]]
+
+- [[esp-relay-board-dat]]
+
+- [[relay-dat]] - [[OPM1041-dat]] 
+
+- [[ACDC-dat]] - [[ac-mains-dat]] - [[AC-protections-dat]] - [[OPM1110-dat]] 
+
+Tested with arduino code, flash tested with [[ESPHome-dat]], but not further function tests
 
 
 
@@ -59,14 +71,6 @@ ADC port  - [[ADC-dat]]
 
 ### ref
 
-Tested with arduino code, flash tested with ESPHome, but not further function tests
 
-- [[ESP-SDK-dat]] - [[ESP32-C3-WROOM-02-DAT]] - [[ESP32-dat]]
-
-- [[esp-relay-board-dat]]
 
 - [[NWI1119]]
-
-- [[OPM1041-dat]] - [[OPM1110-dat]] 
-
-- [[ACDC-dat]]

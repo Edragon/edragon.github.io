@@ -12,6 +12,15 @@ pin header: - [[CCO3507-dat]] - [[CCO3509-dat]] - [[CCO3510-dat]] - [[arduino-pi
 [[breadboard-dat]] - [[DAS1058-dat]]
 
 
+## network shields 
+
+- [[network-dat]] - [[DAS1069-dat]] - [[lora-dat]] - [[esp8266-dat]]
+
+
+
+
+
+
 ## motor drive shields 
 
 - [[SDR1060-dat]]

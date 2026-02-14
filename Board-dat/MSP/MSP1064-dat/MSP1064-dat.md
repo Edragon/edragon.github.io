@@ -16,7 +16,7 @@
 
 - [[joystick-dat]]
 
-- [[trim-pot-dat]]
+- [[resistor-trim-pot-dat]]
 
 - [[ADC-dat]] - [[DAC-dat]]
 

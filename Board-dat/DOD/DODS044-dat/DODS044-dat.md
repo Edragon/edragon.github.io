@@ -2,6 +2,12 @@
 # DODS044 dat 
 
 
+
+
+- [[EPM240-dat]] - [[EPM570-dat]] - [[altera-dat]] - [[DODS044]] - [[DODS044-dat]] - [[CPLD-dat]] - [[FPGA-dat]]
+
+
+
 https://www.electrodragon.com/product/altera-cpld-epm240-epm570-dev-board/
 
 

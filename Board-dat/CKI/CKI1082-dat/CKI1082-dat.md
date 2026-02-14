@@ -2,17 +2,8 @@
 # CKI1082-dat
 
 
-https://www.electrodragon.com/product/wxd3-13-2w-10k-ohm-multiple-circles-potentiometer/
-
-WXD3-13-2W 10K
-
-
-![](2025-02-16-18-36-53.png)
-
-
-![](2025-02-16-18-37-18.png)
-
+- refer to [[CKI1083-dat]]
 
 ## ref 
 
-- [[CKI1082]]
+- [[CKI1082]]![../CKI1083-dat/2025-02-16-18-36-53.png](../CKI1083-dat/2025-02-16-18-36-53.png)![../CKI1083-dat/2025-02-16-18-37-18.png](../CKI1083-dat/2025-02-16-18-37-18.png)

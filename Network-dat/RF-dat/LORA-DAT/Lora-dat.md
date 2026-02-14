@@ -18,6 +18,20 @@ legacy wiki page
 - [[samtech-dat]]
 
 
+
+
+## chip 
+
+- [[LLCC68-dat]]
+
+- [[SX1278-dat]] - [[SX1276-dat]] - [[SX1262-dat]]
+
+- [[PAN3029-dat]]
+
+
+
+
+
 ## Board 
 
 - [[lora-modules-dat]]

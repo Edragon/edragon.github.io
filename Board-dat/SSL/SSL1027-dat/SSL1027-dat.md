@@ -18,7 +18,7 @@
 ## Note: 
 * make sure VCC and GND is not reverse
 * Use adjust resistor, make sure the indicating LED off and then start to use, since there is noise in the environment, so you have to set the noise to a small frequency area.
-* default factory trim-pot value - [[trim-pot-dat]]
+* default factory trim-pot value - [[resistor-trim-pot-dat]]
 
 
 ## Use Guide 
@@ -66,4 +66,4 @@ https://twitter.com/electro_phoenix/status/1001750412347650048
 
 ## ref 
 
-- [[trim-pot-dat]]
+- [[resistor-trim-pot-dat]]

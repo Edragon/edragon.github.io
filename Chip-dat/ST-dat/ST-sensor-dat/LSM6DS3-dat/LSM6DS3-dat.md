@@ -2,6 +2,11 @@
 # LSM6DS3-dat
 
 
+
+https://github.com/STMicroelectronics/LSM6DS3TR-C-PID
+
+## info 
+
 iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope
 
 

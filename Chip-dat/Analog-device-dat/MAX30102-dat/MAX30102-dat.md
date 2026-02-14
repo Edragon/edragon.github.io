@@ -22,7 +22,7 @@ Because of its excellent performance, the chip is widely used in the Samsung Gal
 - Communication interface voltage: 1.8, 3.3V, 5V (optional)
 - Board reserved assembly hole size: 0.5 × 8.5 mm
 
-- [[pulse-rate-dat]] - [[human-sensor-dat]]
+- [[pulse-rate-dat]] - [[sensor-human-dat]] - [[sensor-bio-dat]]
 
 
 ## SCH 

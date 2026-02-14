@@ -1,7 +1,59 @@
-# Audio-amplifier-dat
+# amplifier-audio-dat
+
+
+
+
+## tech 
+
+- [[amplifier-dat]] - [[amplifier-audio-dat]]
+
+- [[amplifier-audio-dat]] - [[8002-dat]] - [[speaker-dat]] - [[bt-audio-dat]]
+
+
+- [[signal-dat]] - [[signal-differential-dat]]
+
+- [[I2S-dat]] 
+
+- [[speaker-dat]] - [[headphone-dat]]
+
+
+
+
+
+
+## chip and boards 
+
+- [[AMP1024-dat]] - [[max97220-dat]] - [[ad-audio-dat]] - [[analog-device-dat]] - [[amplifier-audio-dat]]
+
+- [[MSP1014-dat]] - [[LM386-dat]] - [[amplifier-audio-dat]]
+
+- [[8002-dat]]
+
+- [[LM358-dat]]
+
+- [[NE5532-dat]]
+
+- [[pam8610-dat]] - [[pam-dat]] - [[amplifier-audio-dat]]
+
+- [[PAM8908-dat]]
+- [[PAM8610-dat]]
+- [[PAM8406-dat]]
+- [[PAM8403-dat]]
+- [[PAM8302-dat]]
+
+
+
+
+## chip 
+
 
 - [[ST-audio-amp-dat]] - [[ST-dat]]
 
+- [[analog-device-dat]] - [[AD-audio-dat]]
+
+- [[diodes-dat]] - [[PAM-dat]] 
+
+- [[TI-AMP-dat]] - [[TI-audio-dat]]
 
 - [[OPA1622-dat]] == SoundPlus™ Audio Operational Amplifier with High Performance, Low THD+N and Bipolar Input
 
@@ -13,7 +65,7 @@ Low-Power Audio Amplifiers
 
 
 
-- [[diodes-dat]] - [[PAM-dat]] 
+
 
 - [[heroic-dat]]
 
@@ -36,6 +88,11 @@ Low-Power Audio Amplifiers
 - LM1036
 
 - [[HT6872-dat]]
+
+
+
+
+
 
 ## more chip 
 

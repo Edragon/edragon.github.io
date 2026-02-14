@@ -1,13 +1,16 @@
 
 # resistor-dat.md
 
-- [[shunt-resistor-dat]] - [[trim-pot-dat]]
+- [[shunt-resistor-dat]] - [[resistor-trim-pot-dat]]
 
 - [[Thermistor-dat]]（thermal + resistor)
 
 - [[burden-resistor-dat]] - [[sample-resistor-dat]]
 
-- [[resistor-feedback-dat]]
+
+
+
+- [[resistor-dat]] - [[resistor-trim-pot-dat]] - [[resistor-feedback-dat]]
 
 
 

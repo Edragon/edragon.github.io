@@ -1,9 +1,18 @@
 
 # CN3306-dat
 
+
+
+- [[battery-3s-dat]] - [[battery-2s-dat]] 
+
+
+
 - [[MPPT-dat]] - [[solar-dat]]
 
 CN3306 is a current-mode, fixed-frequency PWM boost-type multi-battery charging management IC. The CN3306 features an input voltage range of 4.5V to 32V, requires few external components, and is simple and flexible to use. It can be applied to charging management for lithium batteries, lithium iron phosphate batteries, or lithium titanate batteries.
+
+
+
 
 Features:
 - PWM boost mode charging management

@@ -2,6 +2,8 @@
 # SIM808-dat
 
 
+- [[location-dat]] + [[GPRS-dat]] - [[SIMCOM-dat]]
+
 
 
 ## boards 

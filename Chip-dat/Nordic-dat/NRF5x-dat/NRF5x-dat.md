@@ -5,7 +5,7 @@
 
 - [[ARM-dat]]
 
-- [[NRF5x-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]]
+- [[NRF5x-dat]] - [[NRF5x-SDK-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]]
 
 
 
@@ -27,6 +27,9 @@ Also supports custom mapping of e-paper display pins to the MCU, sleep/wake (NFC
 original code - https://github.com/tsl0922/EPD-nRF5
 
 folk version - https://github.com/Edragon/EPD-nRF5
+
+
+
 
 ## ref 
 

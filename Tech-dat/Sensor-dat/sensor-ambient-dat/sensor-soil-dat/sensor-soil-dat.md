@@ -11,6 +11,13 @@
 
 
 
+## boards 
+
+- [[STH1052-dat]] - [[STH1016-dat]] - [[sensor-soil-dat]]
+
+
+
+
 ## ref 
 
 - [[home-plant-dat]]

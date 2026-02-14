@@ -9,6 +9,10 @@
 - [[PT2262-dat]] - [[PT2272-dat]] - [[RF-link-dat]] - [[network-dat]]
 
 
+
+
+
+
 ## Network tech by range 
 
 | Technology      | Range                      | Data Rate | Notes                               |
@@ -22,12 +26,21 @@
 
 ## main category
 
+
+
+- [[LTE-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[GPRS-dat]] - [[network-dat]]
+
+- [[RTU-dat]] - [[DTU-dat]]
+
+
 - [[M2M-dat]] - [[LTE-dat]] - [[POE-dat]] - [[low-power-test-dat]] - [[M2M-interface-dat]]
 
 - [[bluetooth-dat]]
 
+- [[fiber-optic-dat]]
 
-- [[cable-dat]] - [[fiber-optic-dat]]- [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
+
+- [[cable-dat]] - [[coaxial-cable-dat]] - [[POF-dat]] - [[toslink-dat]]
 
 - long distance = [[lora-dat]] - [[lorawan-dat]] - [[rf-switch-dat]]
 
@@ -176,7 +189,7 @@ A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often 
 
 - [[APC220-dat]]
 
-
+- [[TI-network-dat]]
 
 
 

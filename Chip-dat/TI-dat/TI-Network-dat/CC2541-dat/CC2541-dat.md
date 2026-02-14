@@ -1,6 +1,20 @@
 
 # CC2541-dat 
 
+
+
+
+
+## chip 
+
+- [[CC2541-dat]] - [[EY-23A-dat]]
+
+
+
+
+## info 
+
+
 CC2541 is a Bluetooth Low Energy (BLE) System-on-Chip (SoC) developed by Texas Instruments. It is widely used in various applications such as wireless sensor networks, wearable devices, health and fitness devices, and home automation.
 
 The CC2541 offers low power consumption and a small form factor, making it suitable for battery-powered and energy-efficient devices. It includes a powerful 8051 microcontroller unit (MCU), along with an integrated Bluetooth radio and a range of peripherals.

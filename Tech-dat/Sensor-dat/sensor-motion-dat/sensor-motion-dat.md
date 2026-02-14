@@ -7,10 +7,13 @@
 
 - [[9-axis-IMU-dat]]
 
-- [[sensor-hall-dat]]
+- [[sensor-hall-dat]] - [[sensor-speed-dat]] - [[sensor-tilt-switch-dat]] - [[sensor-motion-dat]] - [[sensor-dat]]
 
 - [[sensor-gesture-dat]] - [[sensor-touch-dat]] - 
 
+- [[sensor-proximity-dat]]
+
+- [[sensor-TOF-dat]]
 
 ## chips 
 
@@ -18,15 +21,7 @@
 
 - [[qstcorp-dat]]
 
-## sensor proximity 
 
-- [[sensor-lidar-dat]] - [[sensor-radar-dat]] - [[sensor-pir-dat]] - [[sensor-ultrasonic-dat]] - [[sensor-TOF-dat]] 
-
-- [[sensor-radar-Millimeter-wave-dat]]
-
-- [[sensor-camera-dat]]
-
-- [[angle-encoder-dat]]
 
 
 ## Sensor Comparison Table

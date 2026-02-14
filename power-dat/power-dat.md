@@ -7,7 +7,7 @@
 
 - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
   
-- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] 
+- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]]
 
 - [[LDO-dat]]
 
@@ -33,6 +33,7 @@
 
 - [[constant-current-dat]]
 
+[[voltage-dat]]
 
 
 ## power design workflow
@@ -58,12 +59,6 @@
 - [[dcdc-down-dat]] - [[dcdc-dat]]
 
 - [[LDO-dat]]
-
-- charger-pump
-
-
-| Parts | Common Value | Note |
-| ----- | ------------ | ---- |
 
 
 ## Power selection 

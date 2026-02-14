@@ -12,7 +12,9 @@ Built in current limit function
 
 ## Boards 
 
-- [[OPM1085-dat]]
+- [[OPM1085-dat]] - [[OPM1171-dat]] - [[dcdc-down-dat]] - [[CV&CC-dat]] - [[XL4015-dat]]
+
+
 
 
 ## SCH

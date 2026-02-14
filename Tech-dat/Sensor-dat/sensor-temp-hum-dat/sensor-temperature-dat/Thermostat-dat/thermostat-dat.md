@@ -30,6 +30,11 @@ These are two versions of the thermostat, both version have the temperature prob
 
 ![](photo_2025-02-23_15-11-51.jpg)
 
+![](2026-02-11-18-43-05.png)
+
+
+
+
 ## ref 
 
 - [[app-dat]]
