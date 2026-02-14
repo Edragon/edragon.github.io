@@ -1,9 +1,32 @@
 
 # robot-dat
 
+
+
+
+## types 
+
+- indoor vision robot
+- robot arm 
+- palm 
+- vision rover 
+- educational robot 
+- Humanoid robot
+- robot dog 
+
+## system 
+
+- [[ROS2-dat]] - [[docker-dat]] - [[ubuntu-dat]] - [[RPI-SBC-5-dat]]
+
+- [[ROS1-dat]]
+
+- other system == [[python-dat]]
+
+
+
 ## tech 
 
-[[control-system-dat]] - [[RPI-dat]] - [[PS2-console-dat]]
+[[control-system-dat]] - [[RPI-dat]] - [[PS2-console-dat]] - [[SBC-dat]]
 
 [[sensor-dat]] - [[sensor-Camera-dat]] - [[RPI-camera-dat]]
 
@@ -42,3 +65,5 @@ In the context of the Robot Operating System (ROS), "Robot Control" usually refe
 
 
 - [[tech-dat]]
+
+- [[robot]]
