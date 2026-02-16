@@ -87,3 +87,9 @@ Useful if frequent disconnection is needed.
 | Compression   | High pressure capable, removable | Requires fitting & nut             |
 | Threaded      | Versatile                        | Needs adapter                      |
 | Quick-Connect | Fast disconnection               | Higher cost                        |
+
+
+
+## common tube fitting 
+
+![](2026-02-16-12-02-13.png)
