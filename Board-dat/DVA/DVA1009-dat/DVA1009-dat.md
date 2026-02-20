@@ -20,6 +20,17 @@
 - [[LGT8F328-SDK-DAT]]
 
 
+
+## package 
+
+For LGT Version:
+
+- Main loraduino board without pre-mounted lora modules
+- RF: NOT mounted and NOT included RF Lora module, please [buy alone here and solder](https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw/), soldering skills are needed
+- Battery 1.25mm cable
+
+
+
 ## ref 
 
 - [[DVA1009]] - [[dva1009-fab]]

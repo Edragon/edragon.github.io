@@ -133,6 +133,16 @@ bootloader - arduino pro mini 3.3V/8M == [[arduino-dat]]
 
 [[loraduino-dat]] + [[MPC1056-dat]] == https://youtube.com/shorts/PcWlz_NGX2M?si=udUcH1YYXvHYvbp2
 
+
+
+## package 
+
+For Standard Version:
+
+- Main loraduino board with pre-mounted lora modules
+- Battery 1.25mm cable
+
+
 ## bulk order 
 
 Buck order price: 
@@ -144,7 +154,7 @@ Buck order price:
 
 ## ref 
 
-- [[DVA1008-dat]]
+- [[DVA1008-dat]] - [[DVA1009-dat]]
 
 - [[DVA1007]] - [[DVA1008]] - [[DVA1009]]
 
