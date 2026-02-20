@@ -27,7 +27,7 @@
 
 - [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]] - [[lora-dat]] - [[location-dat]] - [[LTE-dat]] - [[ethernet-dat]]
 
-- [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]]
+- [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]] - [[robot-dat]]
 
 - [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[PCB-design-dat]]
 
