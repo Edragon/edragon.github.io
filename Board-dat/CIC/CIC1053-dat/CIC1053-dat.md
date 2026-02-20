@@ -10,7 +10,9 @@ https://www.electrodragon.com/product/5pcs-logicgreen-lgt8f328p/
 - 1.2 now 
 - 1.8
 
-[[LGT8F328-DAT]] - [[DAR1056-DAT]] - [[CIC1053-dat]] - [[NWL1097-dat]]
+- [[LGT-dat]] - [[LGT8F328-DAT]] - [[DAR1056-DAT]] - [[CIC1053-dat]] - [[NWL1097-dat]]
+
+
 
 
 ## board 

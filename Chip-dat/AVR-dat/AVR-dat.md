@@ -19,7 +19,7 @@
 
 - [[DCDC-down-dat]]
 
-- [[AVR-app-dat]]
+- [[AVR-app-dat]] - [[avr-fuse-dat]]
 
 - [[avr-sdk-dat]]
 

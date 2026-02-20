@@ -95,16 +95,24 @@ LGT 后续发布支持在线调试的 MIC8X 内核芯片，我们将提供固件
 - +3V3
 - GND
 
+| pin | LGT   | extra |
+| --- | ----- | ----- |
+| 4   | VCC   |       |
+| 5   | GND   |       |
+| 18  | SWC   | PE0   |
+| 21  | SWD   | PE2   |
+| 29  | Reset |       |
 
-
-
+- [[TQFP-dat]]
 
 ## Sketch uploads By Arduino IDE
+
+
 - Pre-loaded bootloder. Just select corresponding board to upload sketch, refer to bootloader sketch below
 - Programming pin port same as FTDI [[FT232-dat]], same as arduino pro mini
 - A backup method for without DTR, just hold down RESET button when "compiling", then release when "uploading".
 
-
+![](2026-02-20-18-10-45.png)
 
 ## ISP 
 
@@ -191,6 +199,28 @@ Installation:
 
 ![](2026-02-11-02-21-36.png)
 
+
+
+## bootloader 
+
+C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8e\optiboot_lgt8f328d.hex
+
+C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8p\optiboot_lgt8f328p.hex
+
+
+## LGT8F328D 
+
+- error blink LED 
+- optiboot_lgt8f328d_intosc.hex
+
+
+![](2026-02-20-19-24-14.png)
+
+
 ## ref 
 
 - [[LGT8F328-dat]] - [[LGT-dat]]
+
+- [[avr-dat]]
+
+- [[fab-dat]]
