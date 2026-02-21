@@ -1,6 +1,8 @@
 
 # HDSC-SDK-dat
 
+- [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
+
 ## HDSC ISP 
 
 ![](2024-05-15-17-46-45.png)
@@ -34,3 +36,19 @@
 - hc32f005_ddl_Rev1.9.0 Lite
 
 - [[HDSC-dat]]
+
+
+
+## CCID writer 
+
+![](2026-02-21-15-54-34.png)
+
+
+
+## repo
+
+- [[HDSC-dat]]
+
+
+## ref 
+

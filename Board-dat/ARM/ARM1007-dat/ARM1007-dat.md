@@ -7,6 +7,9 @@
 
 - [legacy wiki page ](https://w.electrodragon.com/w/HDSC_SDK)
 
+- [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
+
+
 
 ## Board map 
 

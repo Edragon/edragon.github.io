@@ -4,9 +4,12 @@
 
 - [[ARM-dat]]
 
+- [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
+
+
 ## board 
 
-- [[ARM1007-dat]] - [[MDK-ARM-dat]]
+- [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
 
 
 ## MCU 
@@ -21,7 +24,7 @@
 - https://github.com/Edragon/MCU-HDSC-HC32F00X
 - https://github.com/Edragon/MCU-HDSC-HC32L110
 - https://github.com/Edragon/MCU-HDSC-SDK
-- https://github.com/Edragon/MCU-HDSC
+- ~~https://github.com/Edragon/MCU-HDSC~~
 - https://github.com/Edragon/HDSC-APP
 
 

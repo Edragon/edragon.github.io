@@ -3,9 +3,10 @@
 
 
 
-- [[LGT8F328-dat]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]] - [[atmega328-dat]]
+- [[LGT-dat]] - [[LGT-SDK-DAT]] - [[LGT8F328-SDK-DAT]] - [[LGT8F328-DAT]]
 
-- [[LGT8F328-SDK-DAT]]
+- [[LGT8F328-dat]] - [[LGT8F328-SSOP20-dat]] - [[atmega328-dat]] 
+
 
 
 

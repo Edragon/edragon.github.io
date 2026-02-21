@@ -17,6 +17,6 @@ legacy documentation pages:
 
 - [[NBL1050-dat]] - [[NBL1054-dat]]
 
-- [[CSR-dat]] - [[bluetooth-dat]]
+- [[CSR-dat]] - [[bluetooth-dat]] - [[CSR8635-dat]]
   
 - [[NBL1050]] - [[NBL1054]]
