@@ -34,7 +34,7 @@ https://community.simplefoc.com
 
 - [[LDO-dat]] - [[ST-power-dat]] - [[L78xx-dat]]
 
-
+- [[encoder-dat]] - [[AS5600-dat]]
 
 
 ## control board 

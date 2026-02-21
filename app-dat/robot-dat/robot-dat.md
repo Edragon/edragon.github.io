@@ -3,7 +3,10 @@
 
 
 - [[robot-Two-wheeled-self-balancing-dat]] 
-  
+
+- [[robot-joint-dat]] == [[motor-gimbal-dat]] - [[encoder-dat]]
+
+
 
 ## types 
 

@@ -1,7 +1,10 @@
 
 # novosense-dat
 
-- [[MT6701-dat]]
+- [[MT6701-dat]] - [[MT6816-dat]] - [[novosense-dat]]
+
+
+
 
 ## MT6816：14-bit Magnetic Angle Encoder
 

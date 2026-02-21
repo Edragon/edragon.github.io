@@ -1,6 +1,9 @@
 
 
-# AS5047 DAT
+# AS5047-DAT
+
+
+- [[AMS-dat]] - [[AS5047-DAT]] - [[AS5600-dat]] - [[encoder-dat]]
 
 // define a led pin.
 #define LED_PIN 13
@@ -26,6 +29,16 @@
     - MAG too high:    0
     - MAG too low:     1
     #########################
+
+
+
+
+### demo 
+
+
+[AS5047D - Optical Encoder Replacement](https://www.youtube.com/watch?v=Gl-DiOqXXJ8)
+
+
 
 
 ## ref 

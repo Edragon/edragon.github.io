@@ -1,6 +1,46 @@
 
 # encoder dat 
 
+
+
+- [[magnetic-sensor-dat]] - [[encoder-dat]] - [[sensor-hall-dat]]
+
+
+## magnetic-sensor
+
+- [[AS5047-dat]]
+- [[AS5600-dat]]
+
+- [[AMS-dat]] - [[AS5047-DAT]] - [[AS5600-dat]] - [[encoder-dat]]
+
+- [[MT6701-dat]]
+
+- [[MT6701-dat]] - [[MT6816-dat]] - [[novosense-dat]]
+
+
+Magnetic position sensors have many benefits over encoders:
+
+- Very efficient position calculation ( no counting )
+- Time of execution doesn’t depend on velocity or number of sensors
+- No need for interrupt hardware
+- Absolute position value
+- Lower price than encoders
+- Simple to mount
+
+### demo 
+
+
+[AS5047D - Optical Encoder Replacement](https://www.youtube.com/watch?v=Gl-DiOqXXJ8)
+
+
+
+## encoder 
+
+- Optical encoder - 2400cpr
+- Optical encoder AMT103 - configurable cpr 48-8192
+
+
+
 ## motor encoder 
 
 - hall encoder 
@@ -29,3 +69,9 @@ Encoder parameters and comparison
 https://www.electrodragon.com/product/5pcs-rotary-encoder/
 
 - [[SCU1007-dat]] - [[resistor-trim-pot-dat]]
+
+
+
+## ref 
+
+- https://docs.simplefoc.com/position_sensors

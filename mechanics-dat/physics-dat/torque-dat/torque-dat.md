@@ -1,6 +1,19 @@
 
 # torque-dat
 
+
+## 0.35Nm vs 1200-1800 g·cm
+
+$1200\text{--}1800$ $g\cdot cm$ becomes $1.2\text{--}1.8$ $kg\cdot cm$.
+
+1200–1800 g⋅cm becomes  1.2–1.8 kg⋅cm.
+
+
+- $1.2$ $kg\cdot cm \times 0.09807 \approx \mathbf{0.118}$ $N\cdot m$
+- $1.8$ $kg\cdot cm \times 0.09807 \approx \mathbf{0.176}$ $N\cdot m$
+
+## N·m and kg·cm
+
 note the rated torque of a motor is the maximum torque that the motor can deliver at its rated speed.
 
 and stall torque is the maximum torque that the motor can deliver at zero speed.
