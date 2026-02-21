@@ -20,7 +20,7 @@
 
 ## projects
 
-- [[CUS1190]]
+- [[cus1190]]
 
 
 ## ref 
