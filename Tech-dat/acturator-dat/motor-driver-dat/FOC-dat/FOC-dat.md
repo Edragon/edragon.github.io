@@ -146,3 +146,5 @@ You can use existing MCU FOC libraries (like SimpleFOC, ST FOC library) to great
 ## ref 
 
 - [[motor-driver-dat]]
+
+- [[FOC]]

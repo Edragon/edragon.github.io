@@ -23,6 +23,7 @@ For a 17mm mounting plate, **1.0mm (Fine Pitch)** is the superior choice over 2.
 | **Security**          | Better resistance to vibration        | Higher risk of stripping             |
 | **Compatibility**     | **Standard** for mobile optics        | Non-standard for this size           |
 
+via custom script - internal thread 
 
 ![](2026-02-21-19-04-05.png)
 
