@@ -13,6 +13,7 @@ in system programming
 
 - [[USB-blaster-dat]] - [[DPR1077-dat]]
 
+- [[JTAG-dat]]
 
 
 ## for 

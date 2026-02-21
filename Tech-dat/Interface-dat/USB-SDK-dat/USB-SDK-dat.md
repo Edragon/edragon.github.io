@@ -1,6 +1,8 @@
 
 # usb-dat 
 
+- [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[cable-USB-dat]]
+
 
 - [[USB-SDK-dat]] - [[CONN-USB-HDK-dat]] 
 
@@ -181,4 +183,4 @@ MicroA_2_A_Female
 
 - [[USB-A-dat]]
   
-- [[USB]]
+- [[usb-SDK]]

@@ -24,7 +24,7 @@
 
 ## hardware 
 
-- [[iphone-17-dat]] 20pins [[usb-type-c-dat]] - [[usb-type-c]] - [[usb]]
+- [[iphone-17-dat]] 20pins [[usb-type-c-dat]] - [[usb-type-c]] - [[usb-SDK]]
 
 ![](2025-11-20-14-56-28.png)
 
@@ -127,4 +127,4 @@ Note:
 
 ## ref 
 
-- [[usb]] - [[type-c]] - [[type-c-cable]]
+- [[usb-SDK]] - [[type-c]] - [[type-c-cable]]
