@@ -2,9 +2,17 @@
 # DOD1017-dat
 
 
+[ATtiny Mini Dev board Series [IC]](https://www.electrodragon.com/product/attiny-mini-dev-board-series-variable85442313/)
+
+
+
 ## boards dimension 
 
 ![](2026-02-22-21-21-09.png)
+
+
+
+
 
 ## ref 
 

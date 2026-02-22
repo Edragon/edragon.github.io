@@ -88,6 +88,9 @@ CH32V003 - SOP8
 
 [[nuvoton-dat]] - [[DOD1077-dat]]
 
+[[attiny-dat]] - [[DOD1016-dat]] - [[DOD1017-dat]] - [[DOD1018-dat]]
+
+
 ### DPR
 
 - [[DPR1060-dat]]

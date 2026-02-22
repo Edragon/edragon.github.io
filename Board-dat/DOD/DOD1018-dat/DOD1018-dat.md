@@ -1,9 +1,15 @@
 
 # DOD1018-dat
 
+
+[ATtiny Mini Dev board Series [IC]](https://www.electrodragon.com/product/attiny-mini-dev-board-series-variable85442313/)
+
 ## Board map 
 
 ![](2024-08-27-17-16-32.png)
+
+
+
 
 ## ref 
 
