@@ -4,10 +4,11 @@
 
 
 
-- [[switch-spst-button-push-dat]] - [[KCD4-dat]] - [[KCD3-dat]] - [[KCD1-dat]]
+
+- [[switch-dat]] - [[button-dat]]
 
 
-- [[switch-rocker-dat]]
+
 
 - [[switch-keypad-dat]]
 
@@ -21,23 +22,33 @@ mounting == through hole or SMD
 
 
 
-- [[switch-pushbutton-dat]]
 
-mounting - panel == through hole or PCB 
-- [[switch-pushbutton-panel-dat]] - [[switch-pushbutton-PCB-dat]] 
+
 
 
 
 
 - [[switch-PCB-tactile-dat]] - [[switch-pushbutton-PCB-dat]] 
 
-- [[toggle-switch-dat]]
+- [[switch-toggle-dat]]
 
 
 
 - [[sensor-hall-switch-dat]]
 
 - [[sensor-tilt-switch-dat]] - [[sensor-dat]]
+
+
+## switch type 
+
+- [[switch-spst-button-push-dat]] - [[KCD4-dat]] - [[KCD3-dat]] - [[KCD1-dat]]
+
+- [[switch-rocker-dat]]
+
+- [[switch-limit-dat]]
+
+mounting - panel == through hole or PCB - [[switch-pushbutton-panel-dat]] - [[switch-pushbutton-PCB-dat]] - [[switch-pushbutton-dat]]
+
 
 
 ## SMD 6P-2T Switch
