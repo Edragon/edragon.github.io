@@ -56,6 +56,17 @@ left‑angled pins
 
 pins == VCC / GND / digital_OUT 
 
+
+
+## CAD 
+
+https://grabcad.com/library/tag/limit%20switch
+
+https://grabcad.com/library/tag/limitswitch
+
+
+- [[CAD-dat]]
+
 ## ref
 
 

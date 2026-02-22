@@ -105,6 +105,17 @@ note below three version available, we only sell "right-bend" version here [[CCO
 ![](2025-09-26-16-04-51.png)
 
 
+
+## CAD 
+
+- angled == https://grabcad.com/library/angled-parametric-pinheader-2-54-fusion-360-1
+
+
+
+
+
+
+
 ## ref 
 
 - [[conn-pin-header]]

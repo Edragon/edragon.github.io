@@ -15,6 +15,28 @@
 
 - [[sensor-reflective-dat]]
 
+## boards 
+
+- pull up and status LEDs 
+- hole size == 3mm 
+- hole center distance  == 19mm
+
+
+![](2026-02-22-14-18-03.png)
+
+add - [[glue-hot-dat]] - [[glue-dat]]
+
+![](2026-02-22-15-48-42.png)
+
+
+
+## version V2 
+
+![](2026-02-22-15-37-14.png)
+
+![](2026-02-22-15-48-22.png)
+
+
 
 
 ## ref 

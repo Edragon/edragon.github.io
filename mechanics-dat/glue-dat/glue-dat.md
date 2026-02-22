@@ -3,12 +3,13 @@
 
 
 
-- [[hot-gun-glue-dat]] - [[502-glue-dat]] - [[epoxy-glue-dat]] (AB Glue) - [[uv-glue-dat]]
+- [[glue-hot-dat]] - [[502-glue-dat]] - [[epoxy-glue-dat]] (AB Glue) - [[uv-glue-dat]]
 
 - [[glue-ABS-dat]] 
 
 - [[glue-PVC-dat]]
 
+- [[glue-dat]] - [[glue-hot-dat]]
 
 # 🔍 Comparison of Adhesives
 
