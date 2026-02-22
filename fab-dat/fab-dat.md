@@ -2,7 +2,9 @@
 # fab-dat.md
 
 
-- [[fab-tools-dat]] - [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-tools-dat]]
+- [[fab-tools-dat]] - [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-tools-dat]] - [[fab-workspace-dat]]
+
+
 
 - [[fab-standard-dat]]
 

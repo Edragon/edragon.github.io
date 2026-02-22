@@ -1,5 +1,5 @@
 
-# CH55x DAT 
+# CH55x-DAT 
 
 * WCH MCU Page - http://www.wch.cn/productcenter/3.html
 
@@ -23,9 +23,11 @@ https://w.electrodragon.com/w/Category:CH55X
 
 - [[DOD1064-dat]] - [[DOD1067-dat]] - [[DOD1068-DAT]] - [[DOD1071-DAT]] - [[USB1000-dat]]
 
+- [[WCH-MCU-dat]] - [[MCU-dat]]
+
 ## Chips 
 
-- [[CH551-dat]] - [[CH552-dat]] - [[CH554-DAT]] - [[CH559-DAT]]
+- [[CH55x-DAT]] - [[CH551-dat]] - [[CH552-dat]] - [[CH554-DAT]] - [[CH559-DAT]] - [[WCH-MCU-dat]]
 
 
 ### DEV Boards Links

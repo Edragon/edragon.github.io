@@ -12,11 +12,11 @@
 - [[STM8-dat]]
 
 
-- [[arduino-boards-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
+- [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
 - [[PIC-dat]] - [[microchip-dat]] - [[microchip-MCU-dat]] 
 
-- [[WCH-dat]]
+- [[WCH-MCU-dat]] - [[MCU-dat]]
 
 
 - [[8051-dat]]

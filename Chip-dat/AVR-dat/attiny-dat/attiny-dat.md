@@ -1,9 +1,18 @@
 
 # attiny-dat 
 
+
+
+
+
+## boards 
+
+- [[attiny-dev-dat]] - [[DOD1016-dat]] - [[DOD1017-dat]] - [[DOD1018-dat]] - [[attiny-dat]] - [[MCU-dat]]
+
+
 ## chips 
 
-- attiny85
+- [[attiny85-dat]]
 
 - [[attiny13-dat]]
 
@@ -12,6 +21,9 @@
 ## programmer 
 
 - [[DPR1045-dat]] - [[DPR1009-dat]]
+
+
+
 
 ## functions 
 
