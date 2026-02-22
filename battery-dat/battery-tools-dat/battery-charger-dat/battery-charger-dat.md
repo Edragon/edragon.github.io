@@ -13,6 +13,7 @@ The most following charger options are for the lithium-ion battery
 
 - [[2S-lithium-battery-charger-dat]]
 
+- [[battery-1S-dat]] - [[battery-2S-dat]] - [[battery-3S-dat]] - [[battery-4S-dat]] - [[battery-5S-dat]] - [[battery-packs-dat]]
 
 
 - [[BMS-dat]]
@@ -55,16 +56,16 @@ The most following charger options are for the lithium-ion battery
 
 - [[OPM1193-dat]] - [[OPM1156-dat]]
 
-
+- [[OPM1093-dat]]
 
 ## Compare
 
-| Type     | Feature                           | charge-current |
-| -------- | --------------------------------- | -------------- |
-| TP5000   | Li-MnO2, LiFePO4(LFP) charger IC, | 0.5A           |
-| MCP73831 | 0LED indicator                    | 0.5A           |
-| TP4056   | Linear charging                   | ~1A            |
-| TP4054   |
+| Type             | Feature                           | charge-current |
+| ---------------- | --------------------------------- | -------------- |
+| TP5000           | Li-MnO2, LiFePO4(LFP) charger IC, | 0.5A           |
+| [[MCP73831-dat]] | 0LED indicator                    | 0.5A           |
+| TP4056           | Linear charging                   | ~1A            |
+| TP4054           |
 
 
 

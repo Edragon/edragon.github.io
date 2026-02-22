@@ -1,6 +1,9 @@
 
 # fab-dat.md
 
+
+- [[fab-tools-dat]] - [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-tools-dat]]
+
 - [[fab-standard-dat]]
 
 - [[fab-PCB-dat]] - [[PCB-format-dat]] - [[PCB-output-common-error-dat]] - [[PCB-penalization-dat]]

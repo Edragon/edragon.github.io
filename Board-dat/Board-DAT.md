@@ -240,7 +240,7 @@ USB
 
 [[DCDC-down-dat]] - [[OPM1192-dat]] - [[OPM1171-dat]]
 
-[[battery-charge-dat]] - [[fast-charge-methods-dat]] - [[OPM1185-dat]]
+[[battery-charge-dat]] - [[fast-charge-methods-dat]] - [[OPM1185-dat]] - [[OPM1093-dat]]
 
 
 
