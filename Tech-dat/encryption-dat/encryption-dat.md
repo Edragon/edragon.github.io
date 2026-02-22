@@ -3,6 +3,12 @@
 
 - [[lora-sdk-dat]]
 
+[[USB-dat]] - [[encryption-key-dat]] - [[encryption-dat]]
+
+
+RSA/ECC, DES/3DES, AES, SHA1/256/384/512
+
+
 ## AES encryption 
 
 ![](2025-06-26-19-15-28.png)

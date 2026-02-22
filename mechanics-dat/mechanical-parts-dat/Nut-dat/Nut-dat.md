@@ -1,6 +1,8 @@
 
 # Nut-dat
 
+- [[nut-t-dat]] - [[nut-thumb-dat]] - [[nut-dat]]
+
 - 螺母
 
 

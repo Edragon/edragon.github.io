@@ -72,7 +72,7 @@ mechanics-dat
 
 [[Pneumatic-cylinder-dat]]
 
-[[Lead-screw-dat]] - [[screw-dat]]
+[[Lead-screw-dat]] - [[screw-dat]] - [[screw-thumb-dat]]
 
 - [[flange-dat]]
 

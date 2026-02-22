@@ -6,7 +6,7 @@
 
 - [[robot-joint-dat]] == [[motor-gimbal-dat]] - [[encoder-dat]]
 
-
+- [[robot]]
 
 ## types 
 
@@ -15,8 +15,10 @@
 - palm 
 - vision rover 
 - educational robot 
-- Humanoid robot
-- robot dog 
+- [[robot-Humanoid-dat]]
+- [[robot-dog-dat]] 
+
+
 
 ## system 
 
