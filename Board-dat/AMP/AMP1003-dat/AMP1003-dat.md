@@ -18,7 +18,10 @@ bottom
 
 ![](2023-09-28-16-26-44.png)
 
-- [[TPA3116-dat]]
+- [[TPA3116-dat]] - [[ti-audio-dat]] - [[AMP1003-dat]]
+
+
+
 
 ## ref 
 

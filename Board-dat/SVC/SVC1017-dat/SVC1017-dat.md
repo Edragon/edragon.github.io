@@ -2,6 +2,10 @@
 # SVC1017-dat 
 
 
+- [[sensor-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] - [[SVC1017-dat]]
+
+
+
 https://www.electrodragon.com/product/two-wires-voltmeter-3-2-30v/
 
 

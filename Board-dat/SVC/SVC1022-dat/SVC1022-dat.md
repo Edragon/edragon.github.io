@@ -1,6 +1,12 @@
 
 # SVC1022-dat
 
+
+
+- [[sensor-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] - [[SVC1017-dat]]
+
+
+
 ## Info
 
 [product url - Digits Display Header, DC Current Meter Ammeter [Current]](https://www.electrodragon.com/product/dc-digital-current-meter-ammeter-10a/)

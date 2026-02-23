@@ -15,6 +15,8 @@
 ## Boards 
 
 ### AMP
+
+
 - [[AMP1021-dat]] - [[AMP1000-dat]] - [[AMP1003-dat]]
 
 ### ARM
@@ -26,6 +28,9 @@
 - [[BAT1002-dat]]
 
 ### CCO 
+
+- [[CONN-dat]] - [[CONN-pin-header-dat]] - [[CCO3590-dat]]
+
 - [[CCO3626-dat]] - [[CCO3627-dat]] - [[CCO3515-dat]]
 
 - [[CCO3647-dat]]
@@ -288,6 +293,11 @@ MPC cable
 - [[MPC1108-dat]]
 
 [[dev-board-dat]] - [[MPC1101-dat]]
+
+- [[prototyping-PCB-dat]] - [[MPC1033-dat]]
+
+- [[prototyping-cable-dat]] - [[cable-prototyping-dat]] - [[protyping-dat]]
+
 
 ### MSP 
 
@@ -589,9 +599,9 @@ Tools
 
 - [[SVC1029-dat]]
 
-DC current voltage 
+DC current voltage - [[sensor-voltage-dat]]
 
-- [[SVC1022-dat]] - [[SVC1023-dat]]
+- [[sensor-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] - [[SVC1017-dat]]
 
 
 ### USB

@@ -24,6 +24,7 @@ Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 |      | [[CCO3590-dat]] | common    | M           | yes           |              |             |
 |      | [[CCO3515-dat]] | common    | M           | yes           |              |             |
 
+- [[CONN-dat]] - [[CONN-pin-header-dat]] - [[CCO3590-dat]] - [[CCO3587-dat]]
 
 
 ## 1.27mm pre-build pin header kits 

@@ -16,6 +16,13 @@
 
 
 
+## boards 
+
+- [[sensor-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]]
+
+DC current voltage - [[sensor-voltage-dat]]
+
+
 
 
 ## ref 
