@@ -2,6 +2,11 @@
 # analog-device-dat.md
 
 
+
+
+- [[ADMP404-dat]] - [[analog-device-dat]] - [[AD-audio-dat]]
+
+
 - [[MAX3241-dat]] == 3.0V to 5.5V, Low-Power, Up to 1Mbps, True RS-232 Transceivers
 
 - [[RS232-dat]] - [[RS422-dat]] - [[RS485-dat]]

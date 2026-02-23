@@ -23,6 +23,8 @@
 
 ## chip and boards 
 
+- [[CD7379-dat]]
+
 - [[AMP1024-dat]] - [[max97220-dat]] - [[ad-audio-dat]] - [[analog-device-dat]] - [[amplifier-audio-dat]]
 
 - [[MSP1014-dat]] - [[LM386-dat]] - [[amplifier-audio-dat]]
@@ -47,7 +49,7 @@
 ## chip 
 
 
-- [[ST-audio-amp-dat]] - [[ST-dat]]
+- [[amplifier-audio-dat]] - [[ST-audio-amp-dat]] - [[TDA7377-dat]] - [[TDA7375-dat]] - [[TDA7294-dat]]
 
 - [[analog-device-dat]] - [[AD-audio-dat]]
 
@@ -56,6 +58,8 @@
 - [[TI-AMP-dat]] - [[TI-audio-dat]]
 
 - [[OPA1622-dat]] == SoundPlus™ Audio Operational Amplifier with High Performance, Low THD+N and Bipolar Input
+
+
 
 Low-Power Audio Amplifiers
 

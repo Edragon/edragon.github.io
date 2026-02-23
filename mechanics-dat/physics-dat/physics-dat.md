@@ -11,3 +11,10 @@
 - [[optical-design-dat]]
 
 - [[torque-dat]] - [[RPM-dat]]
+
+
+
+
+## research 
+
+- [[Resonance-Schumann-dat]]

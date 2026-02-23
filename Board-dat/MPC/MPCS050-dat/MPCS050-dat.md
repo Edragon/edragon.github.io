@@ -12,7 +12,15 @@
 
 version [[CONN-USB-micro-dat]] 
 
+Versions:
+- USB-A-Male — Micro USB, current   ~ up to 2A, length 1.5 meter
+- USB-A-Male — Type-C USB, current ~ up to 3A, length 1.5 meter
 
+
+![](2026-02-23-16-19-48.png)
+
+
+![](2026-02-23-16-20-33.png)
 
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.

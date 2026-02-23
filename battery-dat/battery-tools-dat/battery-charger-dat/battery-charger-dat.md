@@ -7,6 +7,10 @@
 
 ## info 
 
+
+[[battery-protector-dat]] + all-S [[battery-charger-dat]] - [[injoinic-dat]]
+
+
 https://w.electrodragon.com/w/Category:Battery_Charge
 
 The most following charger options are for the lithium-ion battery
@@ -27,7 +31,7 @@ The most following charger options are for the lithium-ion battery
 
 - [[usb-sniffer-dat]]
 
-
+[[Coulomb-Counter-dat]] - [[battery-charger-dat]] - Coulomb Counter/Battery Gas Gauge - [[LTC4150-dat]] - [[linear-technology-dat]]
 
 ## Chip Info
 

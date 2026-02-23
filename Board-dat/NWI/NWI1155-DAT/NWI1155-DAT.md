@@ -1,4 +1,18 @@
 
 
-ESP-WROOM-32, ESP32 WIFI+BT+BLE Module-ESP32-WROOM-32D
+# NWI1155-dat
 
+- [[ESP32-dat]] - [[ESP32-modules-dat]] - [[ESP32-WROOM-dat]]
+
+- [[NWI1194-dat]] - [[NWI1155-dat]] - [[NWI1110-dat]]
+
+
+
+
+[ESP-WROOM-32, ESP32 WIFI+BT+BLE Module-ESP32-WROOM-32D](https://www.electrodragon.com/product/wroom-32/)
+
+
+
+## ref 
+
+- [[NWI1155]]

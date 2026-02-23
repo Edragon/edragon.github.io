@@ -13,6 +13,19 @@ LT1963A Series - 1.5A, Low Noise, Fast Transient Response LDO Regulators
 LT3029 - Dual 500mA/500mA Low Dropout, Low Noise, Micropower Linear Regulator
 
 
+
+Coulomb Counter/Battery Gas Gauge - [[LTC4150-dat]] 
+
+
+[[Coulomb-Counter-dat]] - [[battery-charger-dat]] - Coulomb Counter/Battery Gas Gauge - [[LTC4150-dat]] - [[linear-technology-dat]]
+
+
+The LTC®4150 measures battery depletion and charging in handheld PC and portable product applications. The device monitors current through an external sense resistor between the battery’s positive terminal and the battery’s load or charger. A voltage-to-frequency converter transforms the current sense voltage into a series of output pulses at the interrupt pin. These pulses correspond to a fi xed quantity of charge fl owing into or out of the battery. The part also indicates charge polarity as the battery is depleted or charged.
+
+The LTC4150 is intended for 1-cell or 2-cell Li-Ion and 3-cell to 6-cell NiCd or NiMH applications.
+
+![](2026-02-23-16-44-12.png)
+
 ## ref 
 
 - [[chip-dat]]

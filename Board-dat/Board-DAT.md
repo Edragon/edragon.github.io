@@ -297,7 +297,7 @@ MPC cable
 
 - [[prototyping-PCB-dat]] - [[MPC1033-dat]]
 
-- [[prototyping-cable-dat]] - [[cable-prototyping-dat]] - [[protyping-dat]]
+- [[prototyping-cable-dat]] - [[cable-prototyping-dat]] - [[protyping-dat]] - [[MPCS050-dat]] - [[MPCS051-dat]]
 
 
 ### MSP 

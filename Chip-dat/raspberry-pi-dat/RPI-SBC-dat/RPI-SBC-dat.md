@@ -26,6 +26,15 @@
 - [[3D-dat]]
 
 
+### boards 
+
+- [[MPC1033-dat]]
+
+- [[MPC1073-dat]] - [[MPC1120-dat]]
+
+
+
+
 ### power delivery 
 
 In summary, the Raspberry Pi 3 can deliver a maximum of 50 mA to 150 mA from the 3.3V GPIO pins, but care should be taken not to exceed the individual pin limit of 16 mA for each GPIO pin. Always ensure that the total current drawn does not exceed the recommended limits to avoid damaging the board.

@@ -70,7 +70,7 @@ boards specs for reference only
 
 ## solutions 
 
-- [[FM-dat]] - [[icm-semi-dat]] - [[hycontek-dat]] - [[sinowealth-dat]] - [[ablic-dat]] - [[cellwise-dat]]
+- [[Fine-Made-dat]] - [[icm-semi-dat]] - [[hycontek-dat]] - [[sinowealth-dat]] - [[ablic-dat]] - [[cellwise-dat]]
 
 - [[DW01-dat]]
 

@@ -9,6 +9,12 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP2326-dat]] - [[injoinic-dat]]
 
+
+[[battery-protector-dat]] + all-S [[battery-charger-dat]] - [[injoinic-dat]] == [[IP2365-dat]]
+
+
+
+
 - [[IP236x-dat]]
 
 
