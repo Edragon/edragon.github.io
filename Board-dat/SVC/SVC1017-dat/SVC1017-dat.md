@@ -2,7 +2,9 @@
 # SVC1017-dat 
 
 
-- [[sensor-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] - [[SVC1017-dat]]
+- [[sensor-voltage-dat]] - [[meter-voltage-dat]] - [[SVC1049-dat]] - [[SVC1017-dat]] 
+
+- [[sensor-current-dat]] - [[meter-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] 
 
 
 

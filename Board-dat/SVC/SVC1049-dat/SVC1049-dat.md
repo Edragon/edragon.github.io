@@ -1,9 +1,15 @@
 
 # SVC1049-dat
 
-- [[meter-voltage-dat]]
+- [[sensor-voltage-dat]] - [[meter-voltage-dat]] - [[SVC1049-dat]] - [[SVC1017-dat]] 
+
+- [[sensor-current-dat]] - [[meter-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] 
+
+
+
 
 [product links - Voltage Meter Header, HV 0~1000V Three-Wire 0.56″](https://www.electrodragon.com/product/voltage-meter-header-hv-01000v-three-wire-0-56/)
+
 
 
 ## features 

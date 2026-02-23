@@ -1,6 +1,15 @@
 
 # OPM1070-dat 
 
+
+
+- [[ACDC-dat]] - [[depuw-dat]] - [[OPM1068-dat]] - [[OPM1070-dat]]
+
+[AC-DC 5V/2A 10W Power Module](https://www.electrodragon.com/product/ac-dc-5v2a-10w-power-module/)
+
+
+
+
 ## Specs 
 
 - Working temperature (°C) Normal conditions meet the following figure derating -25°~+70°

@@ -67,7 +67,7 @@
 
 - [[DAR1053-DAT]] - [[DAR1060-dat]] - [[DAR1064-DAT]] - [[DAR1019-dat]]
 
-- [[DAR1040-dat]]
+- [[DAR1040-dat]] - [[arduino-dat]]
   
 - [[DAR1056-DAT]]
 
@@ -225,6 +225,7 @@ LED control - [[ILC1063-dat]]
 
 - [[OPM1068-dat]]
 
+
 battery holder - [[OPM1189-dat]]
 
 battery drainer - [[OPM1133-dat]] - [[OPM1134-dat]]
@@ -246,7 +247,7 @@ USB
 
 [[LDO-dat]] - [[LM317-dat]] - [[OPM1087-dat]]
 
-[[DCDC-down-dat]] - [[OPM1192-dat]] - [[OPM1171-dat]]
+[[DCDC-down-dat]] - [[OPM1192-dat]] - [[OPM1171-dat]] - [[OPM1104-dat]] - [[OPM1106-dat]]
 
 [[battery-charge-dat]] - [[fast-charge-methods-dat]] - [[OPM1185-dat]] - [[OPM1093-dat]]
 
@@ -409,6 +410,9 @@ Quectel - 2G
 [[NRF24L01-dat]] - [[NWL1010-dat]] - [[NWL1050-dat]]
 
 ### NWI
+
+
+
 - [[NWI1050-DAT]] - [[NWI1053-dat]] - [[NWI1070-DAT]] 
 
 - [[NWI1072-DAT]] - [[NWI1115-DAT]] - [[NWI1139-dat]]
@@ -601,7 +605,7 @@ Tools
 
 DC current voltage - [[sensor-voltage-dat]]
 
-- [[sensor-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] - [[SVC1017-dat]]
+- [[sensor-current-dat]] - [[SVC1022-dat]] - [[SVC1023-dat]] - [[SVC1017-dat]] - [[SVC1049-dat]]
 
 
 ### USB
