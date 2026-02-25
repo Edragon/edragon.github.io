@@ -12,7 +12,7 @@ add more soldering on the sides to reinforce the connection from the front side 
 
 influenced products: [[NWI1119-dat]] - [[NWI1126-dat]] - [[NWI1252-dat]] - [[NWI1254-dat]] == [[ESP32-C3-dat]]
 
-log in [[QC-dat]]
+log in [[fab-QC-dat]]
 
 
 
