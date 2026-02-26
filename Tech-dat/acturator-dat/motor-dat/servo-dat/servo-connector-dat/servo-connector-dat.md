@@ -1,6 +1,8 @@
 
 # servo-connector-dat
 
+- [[servo-connector-dat]] - [[servo-horn-dat]]
+
 
 normal servo output tooth == 25T 
 

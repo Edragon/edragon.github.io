@@ -5,7 +5,7 @@
 
 ## working product 
 
-- [[[[RadioMaster-dat]]-dat]] - [[head-track-dat]]
+- [[RadioMaster-dat]] - [[head-track-dat]]
 
 
 

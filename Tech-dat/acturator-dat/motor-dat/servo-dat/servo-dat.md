@@ -7,7 +7,7 @@
 - [[PWM-dat]] - [[PPM-dat]]
 
 
-- [[servo-connector-dat]]
+- [[servo-connector-dat]] - [[servo-horn-dat]]
 
 - [[servo-HDK-dat]] - [[servo-SDK-dat]]
 
@@ -15,7 +15,7 @@
 
 - [[PCA9685-dat]]
 
-
+- [[servo]]
 
 ## tech 
 
