@@ -13,6 +13,8 @@
 
 - [[RC-apps-dat]] - [[rc-controller-dat]]
 
+- [[rc-gimbal-dat]]
+
 
 
 - [[rc-kits-dat]]

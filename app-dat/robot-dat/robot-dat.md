@@ -2,6 +2,10 @@
 # robot-dat
 
 
+- [[robotics-mobile-dat]] - [[robot-dog-dat]] 
+
+- [[robotics-arm-dat]]
+
 - [[robot-Two-wheeled-self-balancing-dat]] 
 
 - [[robot-joint-dat]] == [[motor-gimbal-dat]] - [[encoder-dat]]
@@ -32,9 +36,7 @@
 
 ## system 
 
-- [[ROS2-dat]] - [[docker-dat]] - [[ubuntu-dat]] - [[RPI-SBC-5-dat]]
-
-- [[ROS1-dat]]
+- [[ROS-dat]]
 
 - other system == [[python-dat]]
 
@@ -55,12 +57,10 @@
 
 - [[robot-dat]] - [[motor-driver-dat]]
 
+- [[voice-control-dat]] - [[voice-dat]] - [[sound-dat]] - [[audio-dat]] - [[voice-detection-dat]]
 
-ROS 
+- [[CAD-dat]]
 
-In the context of the Robot Operating System (ROS), "Robot Control" usually refers to ros_control. This is a powerful software framework that acts as the "nervous system" of a robot, connecting the high-level brain (which plans movements) to the low-level muscles (the motors and actuators).
-
-- [[voice-control-dat]] - [[voice-dat]] - [[sound-dat]] - [[audio-dat]]
 
 
 
