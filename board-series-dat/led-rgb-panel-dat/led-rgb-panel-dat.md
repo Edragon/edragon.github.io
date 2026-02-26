@@ -13,6 +13,9 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 
 - [[RMP-driver-dat]] 
 
+
+
+
 ## Panel Specifications
 
 ![](39-44-14-03-08-2023.png)
@@ -58,6 +61,25 @@ for outdoor ONLY P6 and P8
 
 
 
+- main display - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
+
+- [[cable-ribbon-dat]] - [[HUB75-dat]] == 26P
+
+- [[cable-power-dat]] - [[conn-cable-terminal-dat]] - [[CONN-VH3.96-dat]] - [[conn-cable-terminal-crimp-dat]]
+
+![](2026-02-26-17-49-49.png)
+
+![](2026-02-26-17-50-05.png)
+
+
+- [[screw-dat]] - [[screw-magnetic-dat]]
+
+- [[waterproof-dat]]
+
+
+
+
+
 
 ## Matrix Panels Development 
 
@@ -71,7 +93,7 @@ Gen-3: Advanced grayscale panels using chips like MBI5153 or ICND2153 that suppo
 
 ## read more
 
-- [[magnetic-screw-dat]] - [[led-full-panel-installation]]
+- [[screw-magnetic-dat]] - [[led-full-panel-installation]]
 
 - chips perforamcne issues [[led-rgb-panel-chip-dat]]
 

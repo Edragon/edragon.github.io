@@ -12,7 +12,7 @@ product link - [RGB LED Matrix Panel Drive Board For Raspberry Pi](https://www.e
 
 this is the original version - [[MPC1073-dat]], this is the optimized version - [[MPC1120-dat]], this is the discounted flaw version - [[MPC1119-dat]]
 
-display panel here - [[ILE1060-dat]]
+display panel here - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
 
 
 ## Board Map 
