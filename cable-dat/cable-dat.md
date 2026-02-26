@@ -78,22 +78,7 @@
 
 ![](2025-05-12-14-11-12.png)
 
-
-## categorized by pitch 
-
-- [[SH1.0-dat]] - [[X12-dat]]: [] 3P / [x] 4P 1.0 mm pitch
-
-- [[1.23-cable-dat]] - [[GH1.25-dat]]
-
-- xh2.54
-
-- ph2.0
-  
-- mx1.25
-
-- sh1.0
-  
-- vh3.96
+- [[CONN-cable-dat]]
 
 ## apps 
 

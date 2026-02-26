@@ -11,7 +11,7 @@
 ![](2026-02-22-21-21-09.png)
 
 
-
+- [[attiny44-dat]]
 
 
 ## ref 
@@ -24,5 +24,6 @@
 
 - [[DOD1018-dat]] - [[attiny2313-dat]]
 
+- [[USBASP-dat]] - [[avrdude-dat]] - [[driver-dat]]
 
 - [[DOD1017]]

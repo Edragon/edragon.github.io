@@ -13,6 +13,23 @@
 
 
 
+## packages 
+
+- main display - [[ILE1060-dat]]
+
+- [[cable-ribbon-dat]] - [[HUB75-dat]] == 26P
+
+- [[cable-power-dat]] - [[conn-cable-terminal-dat]] - [[CONN-VH3.96-dat]] - [[conn-cable-terminal-crimp-dat]]
+
+![](2026-02-26-17-49-49.png)
+
+![](2026-02-26-17-50-05.png)
+
+
+- [[screw-dat]] - [[screw-magnetic-dat]]
+
+- [[waterproof-dat]]
+
 ## ref 
 
 - [[ILE1060]]

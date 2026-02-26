@@ -79,3 +79,18 @@ But I can explain safely whether it’s a good idea and offer safer alternatives
 后处理	砂纸打磨去毛刺
 
 👉 这样做仍然只能算“应急 / 粗切”，而不是精准、高效切割。
+
+
+
+
+## cut 6mm solid stain rod 
+
+Using an angle grinder (角磨机) to cut a 6mm solid stainless steel rod is a very reliable and common professional method. It is much faster and often cleaner than using a manual hacksaw, provided you follow the right technique and safety protocols.
+
+The Right Disc (Crucial)
+
+Do not use a thick grinding disc. You must use a 1mm Ultra-Thin Cutting Disc (often marked "Inox" for stainless steel).
+
+Why: A thin disc removes less material, generates less heat, and leaves a much smaller "burr" (sharp edge).
+
+Stainless Steel Tip: Ensure the disc is labeled for stainless steel to prevent contaminating the rod with iron, which can cause it to rust later.

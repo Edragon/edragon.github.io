@@ -138,6 +138,9 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - New USB footprint to simplified the production process and reduce failure rate
 - Tested USB Functions working fine by customers feedback
 
+
+
+
 ## Version Logs
 
 ### 2023-1101
@@ -207,4 +210,4 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 - [[ESP32-ADC-dat]]
 
 
-- [[USB-micro-dat]]
+- [[conn-USB-micro-dat]]

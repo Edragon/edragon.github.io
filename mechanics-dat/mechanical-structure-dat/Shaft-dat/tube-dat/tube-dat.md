@@ -8,6 +8,8 @@
 
 - [[shaft-dat]]
 
+- [[fab-tools-dat]] - [[grinder-dat]]
+
 6mm 以下 
 
 聚氨酯管
@@ -21,12 +23,12 @@ PA6尼龙管
 
 以下为 **≤6 mm 管径** 常见材料的**典型物理属性对比**（工程常用范围，具体数值会随配方/厂家变化）：
 
-| 材料 | 常见英文 | 密度 (g/cm³) | 硬度 | 抗拉强度 (MPa) | 工作温度 (°C) | 柔韧性 | 耐化学性 | 典型特点 |
-|---|---|---|---|---|---|---|---|---|
-| 聚氨酯管 | PU / TPU Tube | 1.10–1.25 | Shore A 80–98 | 30–55 | -40 ~ +80 | ⭐⭐⭐⭐ | ⭐⭐⭐ | 高弹性、耐磨、回弹好，气动常用 |
-| 氟管 / 铁氟龙管 | PTFE Tube | 2.10–2.30 | Shore D 50–65 | 20–35 | -200 ~ +260 | ⭐ | ⭐⭐⭐⭐⭐ | 极强耐腐蚀、低摩擦、不老化 |
-| PA6 尼龙管 | PA6 / Nylon 6 Tube | 1.12–1.15 | Shore D 70–80 | 50–80 | -40 ~ +120 | ⭐⭐ | ⭐⭐⭐⭐ | 强度高、耐压好、尺寸稳定 |
-| 硅胶软管 | Silicone Tube | 1.10–1.20 | Shore A 30–70 | 5–12 | -60 ~ +200 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 极柔软、耐高低温、生物惰性 |
+| 材料            | 常见英文           | 密度 (g/cm³) | 硬度          | 抗拉强度 (MPa) | 工作温度 (°C) | 柔韧性 | 耐化学性 | 典型特点                       |
+| --------------- | ------------------ | ------------ | ------------- | -------------- | ------------- | ------ | -------- | ------------------------------ |
+| 聚氨酯管        | PU / TPU Tube      | 1.10–1.25    | Shore A 80–98 | 30–55          | -40 ~ +80     | ⭐⭐⭐⭐   | ⭐⭐⭐      | 高弹性、耐磨、回弹好，气动常用 |
+| 氟管 / 铁氟龙管 | PTFE Tube          | 2.10–2.30    | Shore D 50–65 | 20–35          | -200 ~ +260   | ⭐      | ⭐⭐⭐⭐⭐    | 极强耐腐蚀、低摩擦、不老化     |
+| PA6 尼龙管      | PA6 / Nylon 6 Tube | 1.12–1.15    | Shore D 70–80 | 50–80          | -40 ~ +120    | ⭐⭐     | ⭐⭐⭐⭐     | 强度高、耐压好、尺寸稳定       |
+| 硅胶软管        | Silicone Tube      | 1.10–1.20    | Shore A 30–70 | 5–12           | -60 ~ +200    | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐     | 极柔软、耐高低温、生物惰性     |
 
 ---
 
@@ -117,6 +119,43 @@ PA6尼龙管
 - outter == 50mm * thickness 2.4 mm
 - outter == 63mm * thickness 3.0 mm
 - outter == 75mm * thickness 3.6 mm
+
+
+## S-shaped shaft 
+
+Based on your diagram, you have an S-shaped shaft with a **6mm outer diameter** and a **2mm wall thickness**. This leaves a very small **2mm hollow center**. While a 2mm wall is relatively thick for a 6mm tube, the S-bend creates significant "leverage points" that concentrate stress at the curves.
+
+Here are the best ways to improve the strength of this specific component for your **Rover V2**:
+
+---
+
+### 1. Internal Reinforcement (The "Core" Method)
+Since your tube has a 2mm internal hole, you can significantly increase its resistance to bending and snapping by filling that void.
+* **Steel Core:** Insert a **2mm stainless steel wire** or rod into the center before bending. This creates a "composite" shaft where the aluminum provides the shape and the steel provides the structural backbone.
+* **High-Strength Epoxy:** If a solid rod won't fit through the curves, inject a high-strength structural epoxy into the tube. While not as strong as steel, it prevents the tube walls from buckling inward.
+
+### 2. Material Upgrade
+Aluminum (likely 6061 or similar) is prone to "work hardening" and cracking at the bend points.
+* **Switch to Stainless Steel Tubing:** A 6mm stainless steel tube with a 1mm or 1.5mm wall will be significantly stiffer and stronger than your current 2mm-wall aluminum tube.
+* **Carbon Fiber Sleeving:** If weight is a major concern for your rover, you can slide a carbon fiber sleeve over the straight sections of the shaft and epoxy it in place to prevent flexing.
+
+### 3. Geometry Adjustments
+The "S" shape naturally wants to twist (torsion) and straighten out under load.
+* **Increase Bend Radius:** Your drawing shows an **R15** bend. If your chassis allows it, increasing this radius to R20 or R25 reduces the stress concentration at the curve and makes the metal less likely to fatigue.
+* **Support Bearings:** The best way to "strengthen" a shaft is to take the load off it. Add a **flange bearing** as close to the bends as possible. This prevents the shaft from acting like a long lever arm that pries against your motor.
+
+
+---
+
+### 4. Comparison of Stiffness
+
+| Material/Setup                | Stiffness (Relative) | Failure Risk                       |
+| :---------------------------- | :------------------- | :--------------------------------- |
+| **Current (2mm Alu Tube)**    | Baseline             | High (Bending/Snapping at R15)     |
+| **Alu Tube + 2mm Steel Core** | **2x Higher**        | Low (Steel prevents total failure) |
+| **Solid 6mm Steel Rod**       | **5x Higher**        | Very Low                           |
+| **6mm Stainless Tube**        | **3x Higher**        | Moderate                           |
+
 
 ## ref 
 

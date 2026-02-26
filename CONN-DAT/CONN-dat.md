@@ -6,7 +6,7 @@
 
 - [[conn-power-dat]]
 
-- [[crimp-terminal-dat]]
+- [[CONN-terminal-crimp-dat]]
 
 
 

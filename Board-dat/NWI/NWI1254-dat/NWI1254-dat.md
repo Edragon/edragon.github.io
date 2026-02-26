@@ -40,6 +40,14 @@ Green Box
 - USB A native USB
 - micro USB native USB, same
 
+Blue Box DB9 - V2 
+
+![](2026-02-26-02-01-02.png)
+
+- set DB9_VIN jumper to give supply to pin 6 (from bottom left 1)
+- set shared to left 2 for RS232, for share pin 2 (from top right 2)
+- set shared to left 2 for RS485, for share pin 2 (from top right 2)
+
 Blue box 
 - jumper, RS232 / RS485 output selector 
 - GND / +5V 

@@ -150,6 +150,11 @@ extra loop for debugging:
 - [[arduino-code-v2-dat]]
 
 
+## potential issue
+
+- if connection has a problem, try to use better quality etherner cable, we do not yet know the cause, but reported by some users. 
+
+
 
 
 

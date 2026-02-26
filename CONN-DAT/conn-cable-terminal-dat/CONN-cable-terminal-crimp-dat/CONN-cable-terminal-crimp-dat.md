@@ -1,5 +1,5 @@
 
-# crimp-terminal-dat
+# CONN-terminal-crimp-dat
 
 ## VE-type tubular crimp terminal
 
@@ -10,9 +10,14 @@ VE-type tubular crimp terminals are designed for use with stranded wire and are 
 ![](2025-06-06-19-28-52.png)
 
 
-## Fork-type insulated crimp terminal
+## SNB U-shape Fork-type insulated crimp terminal
 
 ![](2025-06-06-19-30-32.png)
+
+![](2026-02-26-17-38-08.png)
+
+
+
 
 ## OT-type ring terminal
 
