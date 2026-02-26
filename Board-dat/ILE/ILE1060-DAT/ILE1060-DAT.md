@@ -13,6 +13,17 @@
 
 
 
+## packages 
+
+- main display - [[ILE1060-dat]]
+
+- [[cable-ribbon-dat]] - [[HUB75-dat]] == 26P
+
+- [[cable-power-dat]]
+
+- [[screw-dat]]
+
+
 ## ref 
 
 - [[ILE1060]]

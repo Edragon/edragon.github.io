@@ -1,11 +1,19 @@
 
 ## hardware
 
-https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/
+
+product link - [RGB LED Matrix Panel Drive Board For Raspberry Pi](https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/)
+
 
 - legacy wiki page - https://w.electrodragon.com/w/RPI_RMP_Guide
 
 - Pin Definitions, Product Series please refer to page - [[RMP-driver-dat]]
+
+
+this is the original version - [[MPC1073-dat]], this is the optimized version - [[MPC1120-dat]], this is the discounted flaw version - [[MPC1119-dat]]
+
+display panel here - [[ILE1060-dat]]
+
 
 ## Board Map 
 
