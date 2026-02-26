@@ -55,6 +55,9 @@ ROS
 
 In the context of the Robot Operating System (ROS), "Robot Control" usually refers to ros_control. This is a powerful software framework that acts as the "nervous system" of a robot, connecting the high-level brain (which plans movements) to the low-level muscles (the motors and actuators).
 
+- [[voice-control-dat]] - [[voice-dat]] - [[sound-dat]] - [[audio-dat]]
+
+
 
 ## APP 
 

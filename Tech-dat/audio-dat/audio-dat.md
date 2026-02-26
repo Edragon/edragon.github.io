@@ -10,13 +10,19 @@
 
 - [[bt-audio-dat]]
 
-- [[voice-detection-dat]]
+
 
 ## chip 
 
 - [[TDA-dat]] - [[TI-audio-dat]] - [[VLSI-dat]] - [[cirrus-dat]] - [[ISD-dat]]
 
 - [[Maxim-dat]]
+
+
+## tech 
+
+- [[voice-detection-dat]] - [[voice-control-dat]] - [[voice-dat]] - [[sound-dat]] - [[audio-dat]]
+
 
 ## sound frequency 
 

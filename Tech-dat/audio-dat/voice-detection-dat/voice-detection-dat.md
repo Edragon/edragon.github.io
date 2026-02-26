@@ -9,6 +9,15 @@ CH552G基于Arduino框架编写USB控制程序
 
 ![](2025-12-21-18-06-47.png)
 
+
+
+- [[LD3320-dat]] - [[LD3320-dat]] - [[voice-detection-dat]]
+
+- [[ASR-pro-dat]]
+
+
+
+
 ## ref 
 
 - [[audio-dat]]
