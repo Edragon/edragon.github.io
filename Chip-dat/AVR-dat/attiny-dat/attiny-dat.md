@@ -12,15 +12,13 @@
 
 ## chips 
 
-- [[attiny85-dat]]
-
-- [[attiny13-dat]]
+- [[attiny85-dat]] - [[attiny13-dat]] - [[attiny44-dat]]
 
 
 
 ## programmer 
 
-- [[DPR1045-dat]] - [[DPR1009-dat]]
+- [[DPR1045-dat]] - [[DPR1009-dat]] - [[USBASP-dat]] - [[DPR1088-dat]]
 
 
 

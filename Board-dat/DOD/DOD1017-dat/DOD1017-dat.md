@@ -24,5 +24,6 @@
 
 - [[DOD1018-dat]] - [[attiny2313-dat]]
 
+- [[USBASP-dat]] - [[avrdude-dat]] - [[driver-dat]]
 
 - [[DOD1017]]

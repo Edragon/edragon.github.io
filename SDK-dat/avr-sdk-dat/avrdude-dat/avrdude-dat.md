@@ -13,21 +13,64 @@ AVR firmware - https://github.com/Edragon/AVR_firmware/tree/master/avrdude
 
 - in [[arduino-dat]]
 
-files 
+
+## common files location  
+
+
+### ver ?? 
+
+    C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17\bin\avrdude.exe
+    C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17\etc\avrdude.conf
+
+set variable - first
+
+    set ad=C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17\bin\avrdude.exe
+    set conf=C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17\etc\avrdude.conf
+
+then run 
+
+    %ad% -C %conf% -v -p m328p -c avrispmkii -P usb -D -Uflash:w:optiboot_lgt8f328p.hex:i
+
+- set the permanent environment variables The Command Line Way (setx) [[win-dat]] - [[OS-dat]] 
+
+### version 1.8.19
 
     D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\bin\avrdude.exe
     D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\etc\avrdude.conf
 
-D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\bin\avrdude.exe -C D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\etc\avrdude.conf -v -p m328p -c avrispmkii -P usb -D -Uflash:w:optiboot_lgt8f328p.hex:i
+run 
+
+    D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\bin\avrdude.exe -C D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\etc\avrdude.conf -v -p m328p -c avrispmkii -P usb -D -Uflash:w:optiboot_lgt8f328p.hex:i
+
+set variable - first
+
+    set ad=D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\bin\avrdude.exe
+    set conf=D:\soft-work\arduino-1.8.19-windows\arduino-1.8.19\hardware\tools\avr\etc\avrdude.conf
+
+then run 
+
+    %ad% -C %conf% -v -p m328p -c avrispmkii -P usb -D -Uflash:w:optiboot_lgt8f328p.hex:i
+
 
 - [[USB-SDK-dat]]
     
+
 ## Version
 
 - [[avrdudess-dat]] 
 
 ## examples
 
+
+### read general chip 2 
+
+- [[DOD1017-dat]] - [[USBASP-dat]]
+
+    %avrdude% -C %avrdude_conf% -c usbasp -p t44 -v
+    %avrdude% -C %avrdude_conf% -c usbtiny -p m328p -v
+
+
+### read chip 1 
 
 * Arduino as ISP (UNO) = programmer
 * target customized board atmega328p
