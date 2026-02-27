@@ -38,21 +38,24 @@ key board
 
 #### interface 
 
-
-- RCA1 - AV Input
-- TP1 - AV Signal Input and Reverse Voltage Input Port
-- J4 - VGA Input
-- DB15 - VGA Input
-- HDMI - HDMI Input - HDMI standard is 1.1
-- DCIN - Power Input
-- J3 - Power Input
-- J1 - External High Voltage Board Port
-- J7 - LED Backlight Socket
-- CON1 - TTL-50PIN Signal Output
-- CN1 - LVDS Signal Output
-- J6 - Button, Remote Control, LED Indicator Interface
+| CONN name | info                                            | pin                            |
+| --------- | ----------------------------------------------- | ------------------------------ |
+| RCA1      | AV Input                                        |                                |
+| TP1       | AV Signal Input and Reverse Voltage Input Port  |                                |
+| J4        | VGA Input                                       |                                |
+| DB15      | VGA Input                                       |                                |
+| HDMI      | HDMI Input - HDMI standard is 1.1               |                                |
+| DCIN      | Power Input                                     |                                |
+| J3        | Power Input                                     | 4P - DCIN 电源接口             |
+| J1        | External High Voltage Board Port                | 6P - 高压板接口                |
+| J7        | LED Backlight Socket                            | 2P                             |
+| CON1      | TTL-50PIN Signal Output                         | 50PIN                          |
+| CN1       | LVDS Signal Output                              | 30PIN                          |
+| J6        | Button, Remote Control, LED Indicator Interface | 10PIN - 按键板，遥控器输入接口 |
 
 refer detailed pin definitions in datasheet [[MPCS044-DS.pdf]]
+
+J5 - 5PIN - AV 信号和倒车控制电源接口 == AV2 
 
 #### jumper setup 
 
