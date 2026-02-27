@@ -47,7 +47,7 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 - [[TI-ADC-dat]] - [[TI-dat]]
 
-
+- [[AD-ADC-dat]] - [[analog-device-dat]]
 
 ## SCH 
 
