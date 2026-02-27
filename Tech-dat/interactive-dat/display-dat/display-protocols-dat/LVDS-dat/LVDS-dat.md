@@ -1,6 +1,12 @@
 
 # LVDS-dat
 
+
+[general LVDS interface LCD](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling)
+
+
+
+
 **LVDS** (Low-Voltage Differential Signaling) is an **electrical signaling standard**, not a specific video protocol.  
 Whether it’s "parallel" or "serial" depends on how it’s used:
 
