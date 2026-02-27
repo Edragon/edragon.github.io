@@ -7,6 +7,8 @@
 
 - [[resistance-dat]] - [[current-dat]]
 
+- [[ITF1003-dat]] - [[ITF1006-dat]] - [[transmitter-current-dat]] - [[ITF1012-DAT]] - [[industrial-measurement-dat]]
+
 ![](52-18-17-31-03-2023.png)
 
 - tune R5 for minimium current loop value to 4 mA

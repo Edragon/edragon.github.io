@@ -33,6 +33,8 @@ PIC16F18877
 
 PIC16F84A - 18-pin Enhanced FLASH/EEPROM 8-bit Microcontroller
 
+PIC16C505 - 14-Pin, 8-Bit CMOS Microcontroller
+
 
 
 ## ref 

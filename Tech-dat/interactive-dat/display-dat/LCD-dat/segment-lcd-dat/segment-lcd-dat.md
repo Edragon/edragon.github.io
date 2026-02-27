@@ -5,6 +5,14 @@
 
 
 
+## segment LCD driver ICs
+
+AY0438 - 32-Segment CMOS LCD Driver
+
+- [[HT1621-dat]] - [[ILC1067-dat]] - [[ILC1066-dat]] 
+
+
+
 ## dimension 
 
 
@@ -14,6 +22,10 @@
 ## UA level power consumption 
 
 ![](2024-07-07-12-25-47.png)
+
+
+
+
 
 
 ## ref 
