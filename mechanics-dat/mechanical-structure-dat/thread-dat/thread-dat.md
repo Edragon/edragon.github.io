@@ -1,9 +1,14 @@
 
 # thread-dat
 
+- [[motor-brushless-dat]]
+
+## thread adapter 
+
+![](2026-02-28-02-38-16.png)
 
 
-1. The "Rule of Three" Threads
+## The "Rule of Three" Threads
 
 For a secure connection in engineering, it is standard practice to have at least 3 full thread rotations engaged.
 
