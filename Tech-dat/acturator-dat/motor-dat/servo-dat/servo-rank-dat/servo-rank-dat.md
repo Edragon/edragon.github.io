@@ -13,21 +13,28 @@
 | MG996R                 | 9~15                   |                      |         | [[SCU1012-DAT]] |
 | MG995 / MG946R / MG945 | 9~13                   |                      |         | [[SCU1012-DAT]] |
 | PTK 7465 7465W         | 5.8 @ 8.4V             |                      |         |                 |
-| SG92R                  | 2.5                    |                      |         |                 |
-| ES08MA                 | 1.8 @ 6V               |                      | 55g     |                 |
+| SG92R                  | 2.5                    |                      | 9g      |                 |
+| EMAX ES08MA            | 1.8 @ 6V               |                      | 9g     |                 |
 | SG90                   | 1.6                    |                      |         | [[SCU1030-DAT]] |
 | MG90S / MG90           | 2.0                    |                      |         | [[SCU1031-dat]] |
+| PTK 7350MG-D 5.5g      |
+
+
 
 - [[current-dat]]
 
 
 ## nangu 
 
-steel gears 
+steel gears, gears number == x4 or x5
 
 ![](2026-02-28-01-13-38.png)
+
+![](2026-02-28-01-24-21.png)
 
 
 ## ref 
 
-- [[servo-dat]]
+- [[servo-dat]] - [[servo]]
+
+- [[robot]]
