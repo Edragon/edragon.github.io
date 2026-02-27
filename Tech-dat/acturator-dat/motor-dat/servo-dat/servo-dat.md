@@ -1,6 +1,6 @@
 # servo-dat
 
-- [[servo-gimbal-dat]]
+- [[servo-gimbal-dat]] 
 
 - [[peripherals-dat]]
 
@@ -11,7 +11,7 @@
 
 - [[servo-HDK-dat]] - [[servo-SDK-dat]]
 
-- [[servo-360-dat]]
+- [[servo-360-dat]] - [[servo-rank-dat]]
 
 - [[PCA9685-dat]]
 
@@ -23,9 +23,16 @@
 
 ## products 
 
+- [[servo-rank-dat]]
+
 - Micro servo - [[SCU1030-DAT]] - [[SCU1031-dat]] == SG90 / MG90
 
 - MG995 / MG996R micro servo - [[SCU1012-DAT]] == 13KG 
+
+
+![](2026-02-28-00-57-43.png)
+
+![](2026-02-28-00-57-59.png)
 
 
 These servo models differ primarily in terms of gear material, torque, and rotation angle. 
@@ -201,6 +208,11 @@ connector to a [[crank-dat]]
 ![](2025-12-06-14-56-46.png)
 
 
+## servo installation 
+
+- [[servo-connector-dat]] - [[servo-horn-dat]]
+
+![](2026-02-28-01-19-43.png)
 
 
 ## code 
