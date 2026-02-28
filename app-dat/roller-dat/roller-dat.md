@@ -34,7 +34,13 @@ Since 775 motors are high-speed/low-torque, a gear reduction is mandatory:
 If your budget allows, a **Brushless DC (BLDC) Hoverboard Motor** is much better for carrying humans. They have internal Hall sensors and much higher torque without needing gears.
 
 
+## tech 
+
+- [[alu-extrusion-dat]] 
 
 ## ref 
 
 - [[robot-dat]] - [[robotics-dat]] - [[RC-dat]] - [[roller-dat]] - [[motor-dat]]
+
+
+- [[roller]]

@@ -2,6 +2,11 @@
 # bearing-dat
 
 
+- [[bearing-pillow-dat]] - [[bearing-dat]]
+
+
+
+
 ## 6202 / 6302 
 
 ## 6201-2RS / 6301 Bearing Specifications

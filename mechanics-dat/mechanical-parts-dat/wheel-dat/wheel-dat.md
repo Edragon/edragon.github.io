@@ -30,11 +30,20 @@
 
 
 
+## wheel front == Driven Wheel / Idler Wheel
+
+![](2026-03-01-00-14-25.png)
+
+
+wheel without motor 
+
+bearing 6302
+
+![](2025-04-03-15-42-28.png)
 
 
 
-
-## wheel with motor 
+## wheel with motor / rear wheel == Driving Wheel
 
 mostly used for balancer kart, electric go-kart, and electric tri-cycle,
 
@@ -48,12 +57,9 @@ mostly used for balancer kart, electric go-kart, and electric tri-cycle,
 
 12-inch 3000W 18-shaft + Mingzhe semi-molten tire
 
+## wheels with hub 
 
-## wheel without motor 
-
-bearing 6302
-
-![](2025-04-03-15-42-28.png)
+- [[wheel-hub-dat]]
 
 
 ## ref 
