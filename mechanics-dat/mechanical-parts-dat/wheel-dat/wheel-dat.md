@@ -8,6 +8,7 @@
 
 - [[RPM-dat]] - [[physics-dat]] - [[gear-dat]] - [[Sprocket-dat]] - [[chain-dat]]
 
+- [[wheel-hub-dat]] - [[wheel-dat]] - [[bearing-dat]]
 
 97 dia mm 
 

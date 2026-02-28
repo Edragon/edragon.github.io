@@ -153,8 +153,6 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
-- [[servo-dat]]
-
 
 - [[motor-driver-dat]]
 

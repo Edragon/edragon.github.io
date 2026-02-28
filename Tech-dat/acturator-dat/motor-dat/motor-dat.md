@@ -12,8 +12,9 @@
 
 - [[torque-dat]] - [[start-capacitor-dat]]
 
-- [[RPM-dat]] - [[physics-dat]] - [[gear-dat]] - [[Sprocket-dat]] - [[wheel-dat]]
+- [[RPM-dat]] - [[physics-dat]] - [[gear-dat]] - [[Sprocket-dat]] 
 
+- [[wheel-hub-dat]] - [[wheel-dat]] - [[bearing-dat]]
 
 
 ## motor type 
