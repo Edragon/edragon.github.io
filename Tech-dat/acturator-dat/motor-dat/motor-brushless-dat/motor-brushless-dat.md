@@ -6,12 +6,24 @@
 - [[Imperial-dat]]
 
 
+- [[motor-dat]] - [[motor-brushless-dat]] - [[ruiyi-dat]]
 
+- [[gear-dat]] - [[thread-dat]]
 
 ## board 
 
 - [[SDR1106-dat]]
 
+
+## specs 
+
+### 🛴 Scooter BLDC Comparison: Weight vs. Performance
+
+| Motor Weight     | Typical Power | Ideal Voltage | Estimated RPM | Torque Profile                     |
+| :--------------- | :------------ | :------------ | :------------ | :--------------------------------- |
+| **200g (Drone)** | 300W          | 11.1V         | 15,000+       | Low (Needs 15:1 Gearbox)           |
+| **600g (Mid)**   | 750W          | 24V           | 6,000         | Medium (Needs 5:1 Gearbox)         |
+| **3000g (Hub)**  | 1000W         | 36V           | 400 - 600     | **High (Direct Drive - No Gears)** |
 
 
 
@@ -92,11 +104,11 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 
 #### Comparison: Sensored vs. Sensorless BLDC Motors  
 
-| **Type** | **Sensored BLDC (With Hall Sensors)** | **Sensorless BLDC (Without Hall Sensors)** |
-|---------|----------------------------------|---------------------------------|
-| **Startup Performance** | Smooth startup, stable at low speeds | Difficult startup, vibrations at low speed |
-| **Control Complexity** | Easier control, good for high-load applications | Requires advanced algorithms |
-| **Common Applications** | E-bikes, electric scooters, industrial tools | High-speed, low-load applications like drones & fans |
+| **Type**                | **Sensored BLDC (With Hall Sensors)**           | **Sensorless BLDC (Without Hall Sensors)**           |
+| ----------------------- | ----------------------------------------------- | ---------------------------------------------------- |
+| **Startup Performance** | Smooth startup, stable at low speeds            | Difficult startup, vibrations at low speed           |
+| **Control Complexity**  | Easier control, good for high-load applications | Requires advanced algorithms                         |
+| **Common Applications** | E-bikes, electric scooters, industrial tools    | High-speed, low-load applications like drones & fans |
 
 #### Typical Applications  
 
@@ -112,6 +124,21 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 ## compare brushed motor 
 
 相比 普通有刷直流电机（Brushed DC Motor），BLDC 电机更耐用且效率更高，但需要电子控制器才能工作。
+
+
+
+## Centrifugal Pump hack 
+
+🛠️ DIY Hack: ZL4815 Pump Motor to Scooter Drive
+
+| Component        | Hack/Solution                                     | Why it's needed                                              |
+| :--------------- | :------------------------------------------------ | :----------------------------------------------------------- |
+| **Shaft Prep**   | Grind a **D-Flat** or use a **Threaded Adapter**. | Prevents the 10T sprocket from slipping under load.          |
+| **Transmission** | **1:5 Ratio** (10T Motor / 50T Wheel).            | Converts high RPM to useful torque for a human.              |
+| **Linkage**      | #25 or T8F Steel Chain.                           | Belts will snap; strings/wires will not work.                |
+| **Cooling**      | Keep the **Air Inlets/Outlets** open.             | This motor is Class F; it needs its internal fan to breathe. |
+| **Load Support** | Use a **Pillow Block Bearing** on the shaft.      | Protects the motor bearings from the chain's tension.        |
+
 
 
 

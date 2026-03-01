@@ -12,10 +12,9 @@
 
 - [[torque-dat]] - [[start-capacitor-dat]]
 
-- [[RPM-dat]]
+- [[RPM-dat]] - [[physics-dat]] - [[gear-dat]] - [[Sprocket-dat]] 
 
-- [[physics-dat]]
-
+- [[wheel-hub-dat]] - [[wheel-dat]] - [[bearing-dat]]
 
 
 ## motor type 
@@ -28,7 +27,8 @@ brushed
 
 - [[coreless-motor-dat]] 
   
-brushless
+
+[[motor-brushless-dat]]
 
 - [[BLDC-motor-dat]]
 
@@ -61,9 +61,9 @@ brushless
 
 
 
+
 ## coreless Motor vs. Brushless Motor
 
-## ⚙️ Coreless Motor vs. Brushless Motor
 
 | Feature                | Coreless Motor (Coreless DC Motor)               | Brushless Motor (BLDC)                       |
 | ---------------------- | ------------------------------------------------ | -------------------------------------------- |
@@ -80,6 +80,40 @@ brushless
 | **Typical Voltage**    | Low (e.g. 3V, 6V, 12V)                           | Can handle higher voltages (12V–60V+)        |
 | **Cost**               | Generally cheaper                                | More expensive due to controller and design  |
 | **Best For**           | Micro motors, medical devices, toys, robotics    | Drones, RC vehicles, electric tools, e-bikes |
+
+
+## brushed vs brushless 
+
+Brushed PMDC vs. Brushless (BLDC) Motors
+
+| Feature              | Brushed PMDC Motor (e.g., 775)         | Brushless DC Motor (BLDC)                        |
+| :------------------- | :------------------------------------- | :----------------------------------------------- |
+| **Commutation**      | Mechanical (via Carbon Brushes)        | Electronic (via ESC/Controller)                  |
+| **Lifespan**         | Shorter (Brushes wear out over time)   | Very Long (Limited only by bearings)             |
+| **Efficiency**       | Lower (Friction and heat from brushes) | Higher (Lower energy loss)                       |
+| **Maintenance**      | Brushes may need replacement           | Maintenance-free                                 |
+| **Complexity**       | Simple (Connect to DC power to run)    | Complex (Requires a specialized driver)          |
+| **EMI/Noise**        | High (Arcing/sparks from brushes)      | Low (Clean electronic switching)                 |
+| **Heat Dissipation** | Heat builds on the internal rotor      | Heat builds on the outer stator (easier to cool) |
+| **Cost**             | Inexpensive                            | More Expensive                                   |
+
+
+more comprehansive Brushed vs. Brushless DC Motors
+
+| Feature               | Brushed PMDC Motor                  | Brushless DC Motor (BLDC)                        |
+| :-------------------- | :---------------------------------- | :----------------------------------------------- |
+| **Visual - Wires**    | **2 Wires** (Positive & Negative)   | **3 Wires** (Phases) + optional 5 sensor wires   |
+| **Visual - Rotation** | Inrunner (Only the shaft spins)     | Inrunner or **Outrunner** (External shell spins) |
+| **Commutation**       | Mechanical (Carbon Brushes)         | Electronic (Transistors/ESC)                     |
+| **Internal View**     | Visible commutator and brush sparks | Copper coils (stator) and magnets (rotor)        |
+| **Efficiency**        | ~75% - 80% (Lower due to friction)  | **~85% - 95%** (High efficiency)                 |
+| **Lifespan**          | ~1,000 - 3,000 hours (Brushes wear) | **10,000+ hours** (Limited only by bearings)     |
+| **Top Speed**         | Limited by brush friction/heat      | **Very High** (Limited by balance/bearings)      |
+| **Torque/Weight**     | Moderate                            | **Superior** (High torque-to-weight ratio)       |
+| **Control System**    | Simple DC Switch / PWM MOSFET       | Complex **ESC (Electronic Speed Controller)**    |
+| **Cost**              | Low (Economy choice)                | Higher (Investment in controller + motor)        |
+| **Example Models**    | 775, 550, 370 Motors                | Drone motors, Hoverboard Hubs, E-bike motors     |
+
 
 
 ## motor by purpose 
@@ -152,6 +186,11 @@ brushless
 - [[12V-dat]] - [[reduction-Gear-Motor-dat]]
 
 
+
+
+## apps 
+
+- [[vacuum-cleaner-dat]] - [[robot-dat]] - [[roller-dat]]
 
 
 

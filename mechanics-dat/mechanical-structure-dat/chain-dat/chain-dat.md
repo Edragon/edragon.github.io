@@ -8,6 +8,15 @@
 ![](2026-01-08-13-45-31.png)
 
 
+## chain types ? 
+
+| Chain Type     | Pitch (P) | Internal Width (W) | Avg. Tensile Strength | Best Use Case                      |
+| :------------- | :-------- | :----------------- | :-------------------- | :--------------------------------- |
+| **#25 (1/4")** | 6.35 mm   | 3.18 mm            | ~4,000 N              | Small, high-speed, lightweight.    |
+| **T8F (8mm)**  | 8.00 mm   | 4.80 mm            | ~6,000 N              | Heavy-duty scooters (High Torque). |
+| **#35 (3/8")** | 9.53 mm   | 4.77 mm            | ~9,500 N              | Go-karts / Heavy loads.            |
+
+
 ## main specs 
 
 - 06B 
@@ -18,29 +27,29 @@
 
 ### 1. Chain — Main Parameters
 
-| Parameter | Description | Unit / Example |
-| --- | --- | --- |
-| Pitch (p) | Distance between adjacent roller centers | mm (e.g., 12.7, 15.875) |
-| Roller Diameter (d₁) | Roller outer diameter | mm |
-| Inner Width (b₁) | Inner width between chain plates (sprocket tooth fit) | mm |
-| Chain Length | Total number of links × pitch | mm |
-| Plate Thickness | Determines load capacity | mm |
-| Tensile Strength / Rated Load | Maximum allowable tension the chain can carry | N or kN |
-| Type / Series | Standard or series (ANSI, ISO, DIN, light/medium/heavy) | e.g., ANSI 40, DIN 08B-1 |
+| Parameter                     | Description                                             | Unit / Example           |
+| ----------------------------- | ------------------------------------------------------- | ------------------------ |
+| Pitch (p)                     | Distance between adjacent roller centers                | mm (e.g., 12.7, 15.875)  |
+| Roller Diameter (d₁)          | Roller outer diameter                                   | mm                       |
+| Inner Width (b₁)              | Inner width between chain plates (sprocket tooth fit)   | mm                       |
+| Chain Length                  | Total number of links × pitch                           | mm                       |
+| Plate Thickness               | Determines load capacity                                | mm                       |
+| Tensile Strength / Rated Load | Maximum allowable tension the chain can carry           | N or kN                  |
+| Type / Series                 | Standard or series (ANSI, ISO, DIN, light/medium/heavy) | e.g., ANSI 40, DIN 08B-1 |
 
 > ⚠️ Pitch is the most critical parameter. The chain and sprocket must have the same pitch to mesh correctly.
 
 ### 2. Sprocket — Main Parameters
 
-| Parameter | Description | Unit / Example |
-| --- | --- | --- |
-| Number of Teeth (z) | Sprocket tooth count; determines gear ratio | 10–120 teeth |
-| Pitch (p) | Must match the chain pitch | mm |
-| Tooth Profile Standard | Defines the tooth shape for proper engagement | ANSI, ISO, DIN |
-| Outside Diameter (OD) | Useful for layout and clearance calculations | mm |
-| Mounting Bore / Pin Hole Diameter | Sprocket mounting for shaft or bolts | mm |
-| Thickness / Tooth Width | Must be compatible with chain inner width | mm |
-| Material / Strength | Determines wear resistance and load capacity | Steel, cast iron, aluminum alloy |
+| Parameter                         | Description                                   | Unit / Example                   |
+| --------------------------------- | --------------------------------------------- | -------------------------------- |
+| Number of Teeth (z)               | Sprocket tooth count; determines gear ratio   | 10–120 teeth                     |
+| Pitch (p)                         | Must match the chain pitch                    | mm                               |
+| Tooth Profile Standard            | Defines the tooth shape for proper engagement | ANSI, ISO, DIN                   |
+| Outside Diameter (OD)             | Useful for layout and clearance calculations  | mm                               |
+| Mounting Bore / Pin Hole Diameter | Sprocket mounting for shaft or bolts          | mm                               |
+| Thickness / Tooth Width           | Must be compatible with chain inner width     | mm                               |
+| Material / Strength               | Determines wear resistance and load capacity  | Steel, cast iron, aluminum alloy |
 
 > ⚠️ Tooth count and sprocket diameter set the drive ratio but do not affect mesh compatibility as long as the pitch is the same.
 

@@ -183,4 +183,5 @@ So, a **230 motor** typically has:
 
 - [tear-down info of a RC car](https://www.electrodragon.com/disassemble-and-learn-a-good-build-20-rc-toy-car/)
 
-- [[motor-dat]]
+- [[motor-dat]] - [[robot-dat]]
+

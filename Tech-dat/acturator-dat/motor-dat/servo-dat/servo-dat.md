@@ -1,6 +1,6 @@
 # servo-dat
 
-- [[servo-gimbal-dat]]
+- [[servo-gimbal-dat]] 
 
 - [[peripherals-dat]]
 
@@ -11,7 +11,7 @@
 
 - [[servo-HDK-dat]] - [[servo-SDK-dat]]
 
-- [[servo-360-dat]]
+- [[servo-360-dat]] - [[servo-rank-dat]]
 
 - [[PCA9685-dat]]
 
@@ -23,9 +23,16 @@
 
 ## products 
 
+- [[servo-rank-dat]]
+
 - Micro servo - [[SCU1030-DAT]] - [[SCU1031-dat]] == SG90 / MG90
 
 - MG995 / MG996R micro servo - [[SCU1012-DAT]] == 13KG 
+
+
+![](2026-02-28-00-57-43.png)
+
+![](2026-02-28-00-57-59.png)
 
 
 These servo models differ primarily in terms of gear material, torque, and rotation angle. 
@@ -67,6 +74,58 @@ The fixed-wing S-version servo (with 25cm wire length) is not the helicopter ver
 ## wiring 
 
 ![](2025-04-09-15-37-30.png)
+
+
+### servo with five wires 
+
+![](2026-02-28-01-37-32.png)
+
+A 5-wire servo consists of a **DC Motor** and a **Potentiometer** (feedback sensor) without an internal control board. To use it, you must provide an external motor driver and a microcontroller.
+
+---
+
+#### 1. Wiring Diagram
+
+##### The Potentiometer (Feedback)
+The three wires connected to the potentiometer act as a **Voltage Divider**.
+
+* **Wire 1 (Outer):** Connect to **VCC** (3.3V or 5V from MCU).
+* **Wire 2 (Center/Wiper):** Connect to an **Analog Input Pin (ADC)** on your Microcontroller.
+* **Wire 3 (Outer):** Connect to **GND**.
+
+##### The DC Motor (Power)
+* **Wire 4:** Connect to **Motor Driver Output A** (e.g., OUT1 on DRV8701).
+* **Wire 5:** Connect to **Motor Driver Output B** (e.g., OUT2 on DRV8701).
+
+
+
+#### 2. Technical Specifications & Calculations
+
+##### Potentiometer Feedback
+The voltage read by the ADC tells you the current position.
+$$V_{out} = V_{cc} \times \frac{R_{lower}}{R_{total}}$$
+As the motor turns the gears, the resistance changes, and the voltage shifts linearly with the angle.
+
+##### Control Logic (The Feedback Loop)
+Since there is no internal IC, your code must perform **Closed-Loop Control**:
+
+1.  **Read Position:** Get the current analog value ($Current\_Pos$).
+2.  **Calculate Error:** $Error = Target\_Pos - Current\_Pos$.
+3.  **Drive Motor:** * If **Error > Threshold**: Drive Motor CW (Clockwise).
+    * If **Error < -Threshold**: Drive Motor CCW (Counter-Clockwise).
+    * If **Error ≈ 0**: Stop Motor (Brake).
+
+
+
+#### 3. Why Use This Setup?
+
+| Feature | Standard 3-Wire Servo | Raw 5-Wire Servo |
+| :--- | :--- | :--- |
+| **Control Board** | Internal (Built-in) | External (MCU + Driver) |
+| **Customization** | Limited by internal IC | Fully programmable PID |
+| **Current/Torque** | Limited by tiny internal MOSFETs | Limited only by your external driver |
+| **Response** | Fixed 50Hz PWM | High-speed real-time control |
+
 
 
 ## Knowledge
@@ -201,6 +260,43 @@ connector to a [[crank-dat]]
 ![](2025-12-06-14-56-46.png)
 
 
+## servo installation 
+
+- [[servo-connector-dat]] - [[servo-horn-dat]]
+
+![](2026-02-28-01-19-43.png)
+
+
+### servo shaft 
+
+#### 1. Standard Servo Shaft (25T Spline)
+
+The most common standard for hobbyist and robotics servos is the **25T (25-tooth)** spline, often referred to as the "Futaba" or "PowerHD" standard.
+
+* **Outer Diameter (OD):** **5.90 mm to 6.00 mm** (measured at the peaks of the teeth).
+* **Inner Diameter (ID):** Approximately **5.40 mm** (measured at the valleys of the teeth).
+* **Spline Count:** **25 Teeth**.
+* **Center Screw:** Typically requires an **M3** machine screw.
+
+
+
+#### 2. Micro Servo Shaft (e.g., SG90, MG90S)
+
+If you are using smaller servos for the **Rover V2** (for sensors or light mechanisms), the dimensions are smaller:
+
+* **Outer Diameter (OD):** **4.80 mm to 4.90 mm**.
+* **Spline Count:** Usually **21 Teeth** (21T) or sometimes **20T**.
+* **Center Screw:** Typically requires an **M2** or **M2.5** screw.
+
+
+
+#### 3. Comparison Table for Design
+
+| Servo Class | Typical Model | Shaft OD (mm) | Spline Count | Screw Size |
+| :--- | :--- | :--- | :--- | :--- |
+| **Micro** | SG90 / MG90S | ~4.85 mm | 21T | M2 / M2.5 |
+| **Standard** | MG996R / S3003 | ~5.95 mm | 25T | M3 |
+| **Large/Giant** | HS-805BB | ~8.00 mm | 15T / 17T | M4 |
 
 
 ## code 

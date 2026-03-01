@@ -10,7 +10,11 @@
 - [[ALU-extrusion-1515-sys-dat]]
 
 
-### aluminum profile
+## ALU profile accessories 
+
+- [[bearing-pillow-dat]] - [[bearing-dat]]
+
+## aluminum profile
 
 3030 Profile: This refers to an aluminum profile that is 30mm x 30mm in cross-section.
 - It is often used for smaller frames, workstations, and lighter structural applications.

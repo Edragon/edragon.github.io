@@ -2,6 +2,35 @@
 # bearing-dat
 
 
+- [[bearing-pillow-dat]] - [[bearing-dat]]
+
+
+
+
+## 6202 / 6302 
+
+## 6201-2RS / 6301 Bearing Specifications
+
+Technical Breakdown of the Name: 6201-2RS
+
+- 6: Indicates a Deep Groove Ball Bearing (the most common type).
+- 2: Represents the Series (Light series; provides a balance between size and load capacity).
+- 01: This is the Bore Code. For codes 01, 02, and 03, the sizes are fixed:
+- 00 = 10mm
+- 01 = 12mm
+- 02 = 15mm
+- 2RS: Stands for Two Rubber Seals.
+
+`Pro-tip`: If you see ZZ, it means metal shields. For an electric scooter (outdoor use), 2RS is superior because it keeps water and grime out of the internal grease.
+
+`Axle Fit`: Ensure your axle is exactly 12mm. If the axle is slightly undersized (e.g., 11.8mm), you may experience "play" or wobbling.
+
+`Hub Housing`: The hole in your wheel hub must be machined to 32mm. This is usually a "press-fit," meaning it should be tight enough that you need a tool or a rubber mallet to seat it.
+
+
+## 6200 / 6300 
+
+
 ## bearing stand 
 
 SK series 
@@ -82,3 +111,14 @@ These use balls or rollers to reduce friction.
 ✅ **Support Loads** → Radial (sideways) & axial (thrust) loads  
 ✅ **Improve Precision** → Smooth motion & alignment  
 ✅ **Enhance Durability** → Reduces wear on components  
+
+
+
+## bearing apps 
+
+![](2026-02-28-20-07-00.png)
+
+
+
+## ref 
+
