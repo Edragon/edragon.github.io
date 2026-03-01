@@ -14,3 +14,16 @@ Pilot hole: 引导孔。
 Thread pitch: 螺距。
 
 Course thread: 粗牙螺纹（塑料件常用）。
+
+
+
+
+## screw into 3d printed parts 
+
+![](2026-03-01-19-08-57.png)
+
+
+
+## ref 
+
+- [[screw-dat]]
