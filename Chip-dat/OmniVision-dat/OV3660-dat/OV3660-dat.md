@@ -39,33 +39,88 @@
 
 
 
-| camera | ESP32     |
-| ------ | --------- |
-| NC     |           |
-| AGND   | GND       |
-| SDA    | IO8 SDA   |
-| AVDD   | 2V8       |
-| SCL    | IO9 SCL   |
-| RST    | pull-up   |
-| VSYNC  | IO1       |
-| PWDN   | pull-down |
-| HSYNC  | IO2       |
-| DVDD   | 1V5       |
-| DOVDD  | 2V8       |
-| Y9     | IO4       |
-| XMCLK  | IO5       |
-| Y8     | IO6       |
-| GND    | GND       |
-| Y7     | IO7       |
-| PCLK   | 32K_P     |
-| Y6     | IO14      |
-| Y2     | 32K_N     |
-| Y5     | IO17      |
-| Y3     | IO18      |
-| Y4     | IO21      |
-| NC     |           |
-| NC     |           |
-| GND    | GND       |
+| pin | camera | ESP32     |
+| --- | ------ | --------- |
+| 1   | NC     |           |
+| 2   | AGND   | GND       |
+| 3   | SDA    | IO8 SDA   |
+| 4   | AVDD   | 2V8       |
+| 5   | SCL    | IO9 SCL   |
+| 6   | RST    | pull-up   |
+| 7   | VSYNC  | IO1       |
+| 8   | PWDN   | pull-down |
+| 9   | HSYNC  | IO2       |
+| 10  | DVDD   | 1V5       |
+| 11  | DOVDD  | 2V8       |
+| 12  | Y9     | IO4       |
+| 13  | XMCLK  | IO5       |
+| 14  | Y8     | IO6       |
+| 15  | GND    | GND       |
+| 16  | Y7     | IO7       |
+| 17  | PCLK   | 32K_P     |
+| 18  | Y6     | IO14      |
+| 19  | Y2     | 32K_N     |
+| 20  | Y5     | IO17      |
+| 21  | Y3     | IO18      |
+| 22  | Y4     | IO21      |
+| 23  | NC     |           |
+| 24  | NC     |           |
+| 25*  | GND    | GND       |
+
+
+
+
+
+Connector
+
+24Pins Description for - [[OV3660-dat]]
+
+| Pin No. | Name     | Description            |
+| ------- | -------- | ---------------------- |
+| 01      | NC       | -                      |
+| 02      | AGND     | Analog Ground          |
+| 03      | SIO_D    | Serial Data            |
+| 04      | AVDD_28  | Analog Voltage 2.8V    |
+| 05      | SIO_C    | Serial Clock           |
+| 06      | RESET    | Reset                  |
+| 07      | VSync    | Vertical Sync          |
+| 08      | PWDN     | Power Down             |
+| 09      | HS(HREF) | Horizontal Sync (HREF) |
+| 10      | DVDD_15  | Digital Voltage 1.5V   |
+| 11      | DOVDD    | Digital Output Voltage |
+| 12      | D9       | Data Bit 9             |
+| 13      | MCLK     | Master Clock           |
+| 14      | D8       | Data Bit 8             |
+| 15      | DGND     | Digital Ground         |
+| 16      | D7       | Data Bit 7             |
+| 17      | PCLK     | Pixel Clock            |
+| 18      | D6       | Data Bit 6             |
+| 19      | D2       | Data Bit 2             |
+| 20      | D5       | Data Bit 5             |
+| 21      | D3       | Data Bit 3             |
+| 22      | D4       | Data Bit 4             |
+| 23      | NC       | -                      |
+| 24      | NC       | -                      |
+
+![](2025-07-10-17-59-28.png)
+
+- DVP Y2 ~ Y9
+- DVP_PCLK
+- XMCLK
+- DVP_HREF
+- DVP_VSYNC
+- I2C SDA / SCL
+
+Power supply 2V8 and 1V5 
+
+![](2025-07-10-18-35-24.png)
+
+
+- [[LDO-dat]]
+
+
+
+
 
 ## ref 
 

@@ -34,6 +34,26 @@
 
 
 
+## DVP vs. MIPI-CSI Camera Interfaces
+
+- [[camera-interface-dat]] - [[camera-DVP-dat]] - [[camera-CSI-dat]] 
+
+| Feature         | **DVP (Parallel)**           | **MIPI-CSI (Serial)**           |
+| :-------------- | :--------------------------- | :------------------------------ |
+| **Data Flow**   | All bits (8-12) sent at once | Data sent in high-speed packets |
+| **Wiring**      | High pin count (15+ wires)   | Low pin count (4-10 wires)      |
+| **Signal Type** | Standard CMOS (Single-ended) | Differential Pairs (Low Noise)  |
+| **Complexity**  | Simple; easy to debug        | High; requires dedicated PHY    |
+| **Best For**    | **Rover V2**, ESP32, STM32   | Raspberry Pi, Jetson, 4K Video  |
+
+---
+
+### Key Takeaways for Your Project
+
+* **DVP (What you are using):** Uses pins like **Y0-Y9**. You can leave **Y0/Y1 NC** to treat it as an 8-bit bus. It is perfect for microcontrollers but sensitive to motor noise (EMI) from your **DRV8701**.
+* **CSI:** Used for high-definition AI tasks. It uses "Lanes" instead of individual data bits, making it much harder to wire manually but better for long cables.
+
+
 ## sensor look like 
 
 ![](2025-12-10-15-19-46.png)
@@ -42,9 +62,9 @@
 
 ## Chip 
 
-[[OmniVision-dat]] == [[DVP-dat]] - [[CSI-dat]]
+[[OmniVision-dat]] == [[camera-DVP-dat]] - [[camera-CSI-dat]] 
 
-- [[OV3660-dat]]
+- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] 
 
 - [[OV9281-dat]]
 
@@ -54,7 +74,7 @@
 
 - [[OV5647-dat]]
 
-- [[OV7670-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[OV7725-dat]]
+- [[OV7670-dat]] - [[OV7725-dat]]
 
 - [[OV7740-dat]] - [[OV5642-dat]]
 

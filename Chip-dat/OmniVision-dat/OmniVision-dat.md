@@ -5,9 +5,11 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
 - [[sensor-camera-dat]] - [[sensor-camera-HDK-dat]] - [[OmniVision-dat]] - [[LDO-2CH-dat]]
 
+
+
 ## Chip Overview
 
-- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[omnivision-dat]]
+- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[omnivision-dat]] - [[camera-DVP-dat]]
 
 
 - [[OV3660-dat]] - [[omnivision-dat]]
@@ -66,6 +68,70 @@ Would you like me to provide the specific initialization code for the OV5640 to 
 
 
 
+## 24 pins compare 
+
+- [[OV2640-dat]] 
+
+## pins 
+
+- [[OV2640-dat]]
+
+| NO. | SYMBOL |
+| --- | ------ |
+| 1   | STORBE |
+| 2   | AGND   |
+| 3   | SIO_D  |
+| 4   | AVDD   |
+| 5   | SIO_C  |
+| 6   | RESET  |
+| 7   | VSYNC  |
+| 8   | PWDN   |
+| 9   | HREF   |
+| 10  | DVDD   |
+| 11  | DOVDD  |
+| 12  | Y9     |
+| 13  | XCLK   |
+| 14  | Y8     |
+| 15  | DGND   |
+| 16  | Y7     |
+| 17  | PCLK   |
+| 18  | Y6     |
+| 19  | Y2     |
+| 20  | Y5     |
+| 21  | Y3     |
+| 22  | Y4     |
+| 23  | Y1     |
+| 24  | YO     |
+
+- [[OV3660-dat]]
+
+| pin | camera       | ESP32     |
+| --- | ------------ | --------- |
+| 1   | NC           |           |
+| 2   | AGND         | GND       |
+| 3   | SDA / SIO_D  | IO8 SDA   |
+| 4   | AVDD         | 2V8       |
+| 5   | SCL / SIO_C  | IO9 SCL   |
+| 6   | RESET        | pull-up   |
+| 7   | VSYNC        | IO1       |
+| 8   | PWDN         | pull-down |
+| 9   | HSYNC / HREF | IO2       |
+| 10  | DVDD         | 1V5       |
+| 11  | DOVDD        | 2V8       |
+| 12  | Y9           | IO4       |
+| 13  | XMCLK / XCLK | IO5       |
+| 14  | Y8           | IO6       |
+| 15  | GND          | GND       |
+| 16  | Y7           | IO7       |
+| 17  | PCLK         | 32K_P     |
+| 18  | Y6           | IO14      |
+| 19  | Y2           | 32K_N     |
+| 20  | Y5           | IO17      |
+| 21  | Y3           | IO18      |
+| 22  | Y4           | IO21      |
+| 23  | NC           |           |
+| 24  | NC           |           |
+| 25* | GND          | GND       |
 
 
 ## Modules

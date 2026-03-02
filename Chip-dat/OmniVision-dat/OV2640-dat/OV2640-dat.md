@@ -87,14 +87,43 @@ in a table :
 
 ## OV2640-dat
 
-| Voltage Type | set   | Voltage Range |
-| ------------ | ----- | ------------- |
+| Voltage Type | set    | Voltage Range |
+| ------------ | ------ | ------------- |
 | DVDD         | 1.2V ? | 1.2-1.5V      |
 | AVDD         | 2.8V ? | 2.5-3.0V      |
 | DOVDD IO     | 2.8V ? | 1.7-3.3V      |
 
 
+## pins 
 
+- [[OV2640-dat]]
+
+| NO. | SYMBOL |
+| --- | ------ |
+| 1   | STORBE |
+| 2   | AGND   |
+| 3   | SIO_D  |
+| 4   | AVDD   |
+| 5   | SIO_C   |
+| 6   | RESET  |
+| 7   | VSYNC  |
+| 8   | PWDN   |
+| 9   | HREF   |
+| 10  | DVDD   |
+| 11  | DOVDD  |
+| 12  | Y9     |
+| 13  | XCLK   |
+| 14  | Y8     |
+| 15  | DGND   |
+| 16  | Y7     |
+| 17  | PCLK   |
+| 18  | Y6     |
+| 19  | Y2     |
+| 20  | Y5     |
+| 21  | Y3     |
+| 22  | Y4     |
+| 23  | Y1     |
+| 24  | YO     |
 
 
 ## ref 
