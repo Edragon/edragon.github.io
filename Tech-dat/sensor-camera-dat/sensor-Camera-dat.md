@@ -1,6 +1,6 @@
 
 
-# camera-dat 
+# sensor-camera-dat 
 
 - [[video-dat]] - [[image-dat]]
 
@@ -16,7 +16,7 @@
 - [[lens-dat]] - [[optical-design-dat]]
 
 
-
+- [[]]
 
 ## boards 
 
@@ -27,6 +27,11 @@
 - [[MPC1080-dat]]
 
 - [[SCM1000-dat]] - [[SCM1002-dat]] - [[SCM1012-dat]] - [[SCM1013-dat]] - [[SCMS015-dat]]
+
+- [[ESP32-S3-APP-dat]]
+
+
+
 
 
 ## sensor look like 

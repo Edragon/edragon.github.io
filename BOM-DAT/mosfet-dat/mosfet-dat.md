@@ -5,6 +5,10 @@ drive [[motor-dat]], [[LED-dat]]
 
 control by [[arduino-dat]] - [[MCU-dat]]
 
+- [[motor-BLDC-driver-dat]] 
+
+- [[mosfet-dat]] - [[mosfet-arrary-dat]] - [[mosfet-driver-dat]] - [[mosfet-rank-dat]]
+
 ## tech 
 
 - [[mosfet-driver-dat]] for high speed usage 

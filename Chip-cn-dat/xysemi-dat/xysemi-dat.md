@@ -2,14 +2,25 @@
 
 - [[dcdc-boost-dat]] - [[xysemi-dat]]
 
-
+- [[capacitor-dat]]
 
 
 ## XR2981
 
 https://cdn.hackaday.io/files/1829407826904960/Xysemi_XR2981.pdf
 
-The XR2981 is a high frequency, high efficiency DC to DC converter with an integrated 12A, 25mΩ power switch capable of providing an output voltage up to 24V. The fixed 600KHz allows the use of small external inductions and capacitors and provides fast transient response. It integrates Soft start, Comp,. only need few components outside. It can output 6V 3.5A、9V 2A when 3.3V Battery input and output 6V 4.5A、9V 3A when 3.6V Battery input at good heat dissipation condition
+3.3V~5V Input 24W Output Step-up DC/DC Converter
+
+
+The XR2981 is a high frequency, high efficiency DC to DC converter with an integrated 12A, 25mΩ power switch capable of providing an output voltage up to 24V. 
+
+The fixed 600KHz allows the use of small external inductions and capacitors and provides fast transient response. 
+
+It integrates Soft start, Comp,. only need few components outside. It can output 6V 3.5A、9V 2A when 3.3V Battery input and output 6V 4.5A、9V 3A when 3.6V Battery input at good heat dissipation condition
+
+
+![](2026-03-01-15-16-07.png)
+
 
 ![](2026-02-12-20-16-37.png)
 

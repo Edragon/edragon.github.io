@@ -29,6 +29,9 @@
 
 ## footprint 
 
+- OP 1040 == 10.0x10.0mm
+- OP 0630 == 7.4 x 6.6 mm 
+
 - SWRH1207
 - SWRB1204
 - CDRH127
@@ -36,7 +39,11 @@
 - CDRH74R 
 - CDRH4D28
 - CD43
-- CD105  
+- CD105
+- CD75 = 7.8 x 7.0  == OP 0630 
+
+
+
 - SWPA6045
 - SWPA5040 
 - SWPA4030 

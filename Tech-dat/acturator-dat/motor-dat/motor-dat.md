@@ -40,7 +40,7 @@ brushed
 
 - [[FPV-motor-dat]]
 
-- [[motor-linear-dat]]
+- [[motor-linear-dat]] - [[motor-rank-dat]]
 
 | Type                           | Brushed / Brushless | Key Traits                                     | Application                              |
 | ------------------------------ | ------------------- | ---------------------------------------------- | ---------------------------------------- |

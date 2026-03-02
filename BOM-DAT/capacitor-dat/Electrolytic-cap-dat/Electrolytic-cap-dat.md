@@ -1,7 +1,0 @@
-
-# Electrolytic-cap-dat
-
-
-## electrolyte 
-
-![](2025-03-14-20-31-28.png)
