@@ -13,7 +13,7 @@ https://store.arduino.cc/products/arduino-nano-33-ble
 
 - [[MPM3610-dat]] - [[dcdc-down-dat]] - [[MPS-dat]]
 
-- [[MP34DT06JTR-dat]] - [[sensor-microphone-dat]] - [[st-sensor-dat]] - [[I2S-microphone]]
+- [[MP34DT06JTR-dat]] - [[sensor-microphone-dat]] - [[st-sensor-dat]] - [[sensor-microphone-I2S]]
 
 - [[ESD-dat]] - [[USB-ESD-dat]]
 

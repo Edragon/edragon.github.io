@@ -5,7 +5,7 @@
 
 - [[interface-interactive-dat]]
 
-- [[ESP32-I2S-dat]]
+- [[ESP32-I2S-dat]] - [[ESP32-S3-dat]]
 
 
 

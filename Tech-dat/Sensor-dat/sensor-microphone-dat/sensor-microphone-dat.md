@@ -1,5 +1,11 @@
 
-# microphone-sensor-dat
+# sensor-microphone-dat
+
+- [[sensor-microphone-I2S-dat]] - [[microphone-Analog-dat]]
+
+- [[microphone-Analog-dat]] - [[Electret-Condenser-Microphone-dat]]
+
+- [[sensor-microphone-I2S]]
 
 
 
@@ -7,15 +13,6 @@
 
 - [[SSL1032-dat]]
 
-
-
-
-
-## types 
-
-- [[I2S-microphone-dat]]
-
-- [[Analog-microphone-dat]] - [[Electret-Condenser-Microphone-dat]]
 
 | Feature           | Electret Condenser Microphone (ECM)           | MAX9812                                  | ICS-41434                                   |
 | ----------------- | --------------------------------------------- | ---------------------------------------- | ------------------------------------------- |

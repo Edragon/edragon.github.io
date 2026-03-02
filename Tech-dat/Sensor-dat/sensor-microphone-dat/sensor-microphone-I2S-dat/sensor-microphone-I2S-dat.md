@@ -1,16 +1,21 @@
 
-# I2S-microphone-dat
+# sensor-microphone-I2S-dat
 
 
 
-- [[I2S-microphone-dat]] - [[buzzer-mems-dat]] - [[sensor-mems-dat]]
+- [[sensor-microphone-I2S-dat]] - [[sensor-mems-dat]]
 
-
+- [[buzzer-mems-dat]] 
 
 - [[ADMP404-dat]] - [[analog-device-dat]]
 
 
-I2S Output Digital Microphone - [[INMP441-dat]] - [[MSM261S4030H0R-dat]]
+I2S Output Digital Microphone - [[INMP441-dat]] 
+
+- [[mems-dat]] - [[zilltek-dat]]
+
+- [[MSM261S4030H0R-dat]]
+
 
 - [[ICS-43432-dat]] - [[ICS-43434-dat]]
 

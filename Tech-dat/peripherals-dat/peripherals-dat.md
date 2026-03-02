@@ -2,6 +2,15 @@
 # peripherals-dat
 
 
+
+
+## AI relevant 
+
+- [[camera-dat]] - [[sensor-microphone-dat]]
+
+## basic 
+
+
 - [[protection-dat]] - [[protection-power-dat]]
 
 

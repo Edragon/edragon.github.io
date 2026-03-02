@@ -13,6 +13,7 @@
 
 - [[sensor-dat]] 
 
+- [[ESP32-S3-dat]]
 
 
 ## info 
@@ -29,7 +30,22 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 
 
+### 1. Pin Mapping Logic
 
+To get this working, you simply need to map your microphone's pins to the ESP32’s I2S peripheral. Here is how they correspond:
+
+| Microphone Label | I2S Standard Name | ESP32 Function | Role |
+| :--- | :--- | :--- | :--- |
+| **CLK** (or BCLK) | **SCK** (Bit Clock) | Output | The heartbeat that times every individual bit. |
+| **L/R** (or WS) | **WS** (Word Select) | Output | Toggles to define the start of Left/Right frames. |
+| **DATA** (or SD) | **SDIN** (Data In) | Input | The digital audio stream entering the ESP32. |
+
+
+### 2. Why "MCLK" is Missing
+
+If you are looking at ESP32 documentation, you might see a fourth signal called **MCLK (Master Clock)**. 
+* **The Good News:** Most I2S MEMS microphones (like the INMP441 or SPH0645) do **not** require an MCLK signal. They derive their internal timing directly from the Bit Clock (CLK).
+* **The Setup:** You can simply leave the MCLK configuration in your code as "unused" or -1.
 
 
 
