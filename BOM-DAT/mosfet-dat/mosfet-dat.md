@@ -7,7 +7,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 - [[motor-BLDC-driver-dat]] 
 
-- [[mosfet-dat]] - [[mosfet-arrary-dat]] - [[mosfet-driver-dat]]
+- [[mosfet-dat]] - [[mosfet-arrary-dat]] - [[mosfet-driver-dat]] - [[mosfet-rank-dat]]
 
 ## tech 
 

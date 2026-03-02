@@ -4,6 +4,7 @@
 
 - [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
 
+- [[mosfet-driver-dat]] - [[mosfet-dat]]
 
 **VESC** (Vedder Electronic Speed Controller) is an open-source, professional-grade **Motor Controller** specifically designed for high-performance BLDC (Brushless DC) motors. Unlike standard hobbyist ESCs, it is optimized for **reliability**, **precision**, and **high torque**.
 
@@ -29,7 +30,17 @@
 | **Safety Features** | Minimal | **Temperature & Overcurrent Protection** |
 | **Data Logging** | None | **Real-time Telemetry via USB/Bluetooth** |
 
+## VESC boards 
+
+![](2026-03-02-22-09-43.png)
+
 
 ## ref 
 
+- [[INA240-dat]]
 
+
+- [[VESC]] - [[motor-driver]]
+
+
+- [[LM339-dat]] - [[LM393-dat]]
