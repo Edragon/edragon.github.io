@@ -14,8 +14,11 @@ I2S Output Digital Microphone - [[INMP441-dat]]
 
 - [[mems-dat]] - [[zilltek-dat]]
 
-- [[MSM261S4030H0R-dat]]
+- [x] - [[MSM261S4030H0R-dat]]
 
+- MSM261 S3526
+
+- MSM321 A3729H9BP
 
 - [[ICS-43432-dat]] - [[ICS-43434-dat]]
 
