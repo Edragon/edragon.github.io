@@ -48,6 +48,12 @@ RC clawer gearbox
 
 ![](2025-12-10-15-21-24.png)
 
+
+work with [[motor-stepper-dat]] - [[motor-brushless-dat]] - [[motor-servo-dat]]
+
+![](2026-03-02-21-05-32.png)
+
+
 ## ref 
 
 - [[gearbox]] - [[mechanism]]

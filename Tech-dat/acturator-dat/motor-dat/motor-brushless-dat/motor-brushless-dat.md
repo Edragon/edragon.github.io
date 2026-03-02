@@ -149,6 +149,9 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 
 ![](2026-03-02-20-49-56.png)
 
+single direction control mechanism 
+
+![](2026-03-02-21-00-49.png)
 
 ## brushless motor with hall sensor for mobility 
 
