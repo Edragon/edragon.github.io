@@ -4,7 +4,7 @@
 
 - [[OV2640-dat]] - [[OV3660-dat]] - [[OV560-dat]] - [[omnivision-dat]]
 
-
+- [[camera-DVP-dat]] - [[camera-CSI-dat]] - [[camera-interface-dat]]
 
 ## DVP Pin Mapping & Functional Equivalents
 
