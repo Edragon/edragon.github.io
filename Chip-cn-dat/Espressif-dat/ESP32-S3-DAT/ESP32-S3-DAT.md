@@ -21,8 +21,14 @@
 
 
 
+## interface 
 
-## built-in USB JTAG 
+- [[interface-dat]] - [[I2S-dat]] - [[PDM-dat]] - [[sensor-microphone-dat]] - [[sensor-microphone-I2S-dat]]
+
+- [[camera-dat]]
+
+
+### built-in USB JTAG 
 
 - [[JTAG-dat]]
 

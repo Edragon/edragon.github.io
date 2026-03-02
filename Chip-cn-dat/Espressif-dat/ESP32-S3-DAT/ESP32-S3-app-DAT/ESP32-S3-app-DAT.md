@@ -9,10 +9,17 @@
 
 
 
+## app boards 
+
+- [[ESP32-S3-eye-dat]] 
+
+
+
+
 
 ## Camera Board 
 
-![](XIAO_ESP32S3_ExpBoard_v1.0_SCH107-10-2025.jpg)
+- [[sensor-camera-dat]]
 
 - [[MAX98357-dat]] - [[MSM261S4030H0R-dat]]
 
@@ -22,13 +29,23 @@
 
 - [[dcdc-down-dat]]
 
+### SCH 
+
+
 ![](ESP32-S3-AI-CAM.jpg)
+
+![](XIAO_ESP32S3_ExpBoard_v1.0_SCH107-10-2025.jpg)
+
+
 
 ## ethernet and ADC read 
 
 - [[ADC-dat]] - [[W5500-dat]]
 
 ![](ESP32-S3-ethernet-ADC-reader-board.jpg)
+
+
+
 
 ## ref 
 

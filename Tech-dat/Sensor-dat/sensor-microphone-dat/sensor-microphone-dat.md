@@ -9,6 +9,16 @@
 
 
 
+
+- [[interface-dat]] - [[I2S-dat]] - [[PDM-dat]] - [[sensor-microphone-dat]]
+
+
+
+## chips 
+
+- [[mems-dat]] - [[zilltek-dat]] - [[linkmems-dat]]
+
+
 ## boards 
 
 - [[SSL1032-dat]]

@@ -1,7 +1,7 @@
 
 # sensor-microphone-I2S-dat
 
-
+- [[sensor-microphone-dat]]
 
 - [[sensor-microphone-I2S-dat]] - [[sensor-mems-dat]]
 
@@ -12,7 +12,7 @@
 
 I2S Output Digital Microphone - [[INMP441-dat]] 
 
-- [[mems-dat]] - [[zilltek-dat]]
+- [[mems-dat]] - [[zilltek-dat]] - [[linkmems-dat]]
 
 - [x] - [[MSM261S4030H0R-dat]]
 
