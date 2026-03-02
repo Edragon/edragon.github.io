@@ -10,6 +10,10 @@
 
 - [[gear-dat]] - [[thread-dat]]
 
+- [[sensor-hall-dat]] 
+
+
+
 ## board 
 
 - [[SDR1106-dat]]
@@ -141,6 +145,39 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 
 
 
+## internal of a brushelss motor 
+
+![](2026-03-02-20-49-56.png)
+
+
+## brushless motor with hall sensor for mobility 
+
+![](2026-03-02-20-55-47.png)
+
+- A 款电机引线长 ：大约 800 MM
+- A 款电机重量 :2.573 KG
+- B 款电机引线长 ：大约 80 MM
+- B 款电机重量 ：2.429 KG
+- （电机的外壳尺寸基本一样）
+- 我们用一款小无刷电机驱动电机（八线）驱动电机，实测转速和电流如下：
+- 电压 ：DC30V
+  - 空载电流 :0.91 A
+  - 空载最高转速 :304 RPM
+- 电压 ：DC36V
+  - 空载电流 :1 A
+  - 空载最高转速 :365 RPM
+- 电压 ：DC42V
+  - 空载电流 :1.1 A
+  - 空载最高转速 :426 RPM
+- 电压 ：DC48V
+  - 空载电流 :1.2 A
+  - 空载最高转速 :485 RPM
+
+
+
+## apps 
+
+- [[electric-scooter-dat]] - [[roller-dat]]
 
 ## ref 
 

@@ -15,6 +15,22 @@
 
 - [[SSL1045-dat]]
 
+## I/O Pins Configuration
+
+| Pin | Name | Type | Description |
+|-----|------|------|-------------|
+| 1 | SDA | I/O | I2C serial data I/O terminal |
+| 2 | INT | Output | Interrupt - open drain (active low) |
+| 3 | LDR | Input | LED driver input for proximity IR LED, constant current source |
+| 4 | LEDK | Output | LED driver LED Cathode, connect to LDR pin when using internal LED driver circuit |
+| 5 | LEDA | Input | LED Anode, connect to VLEDA on PCB |
+| 6 | GND | Power | Power supply ground. All voltages are referenced to GND |
+| 7 | SCL | Input | I2C serial clock input terminal - clock signal for I2C serial data |
+| 8 | VDD | Power | Power supply voltage |
+
+
+![](2026-03-02-19-32-06.png)
+
 
 
 ## APDS-9960

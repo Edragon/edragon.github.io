@@ -91,6 +91,16 @@ CC6207ST SOT-23 Omnipolar Low-Power Hall Effect Switch Sensor
 
 
 
+## integrated hall sensor in motor 
+
+- 6 wires 
+
+![](2026-03-02-20-54-07.png)
+
+
+
+
+
 ## ref 
 
 - [[sensor-motion-dat]]

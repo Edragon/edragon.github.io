@@ -7,6 +7,8 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
 ## Chip Overview
 
+- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[omnivision-dat]]
+
 
 - [[OV3660-dat]] - [[omnivision-dat]]
 
@@ -17,11 +19,49 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 | -------------- | ----------- | ------------------- | --------------- |
 | [[OV7670-dat]] | 30 MP       |                     |                 |
 | [[OV7725-dat]] | 30 MP       | OV7670              |                 |
-| [[OV2640-dat]]         | 200 MP      |                     |                 |
+| [[OV2640-dat]] | 200 MP      |                     |                 |
 | OV2710         | 200 MP      |                     | 1920X1080@30fps |
 | OV5640         |             |                     |                 |
 | OV9712         |             |                     |                 |
 | OV9732         |             |                     |                 |
+
+
+## common option Camera Sensor Comparison: OV2640 vs. OV3660 vs. OV5640
+
+The following table compares the three most popular image sensors used with the ESP32 and ESP32-S3 platforms.
+
+| Feature             | OV2640                    | OV3660                     | OV5640                     |
+| :------------------ | :------------------------ | :------------------------- | :------------------------- |
+| **Max Resolution**  | 2 MP (1600 x 1200)        | 3 MP (2048 x 1536)         | **5 MP** (2592 x 1944)     |
+| **Optical Size**    | 1/4"                      | 1/5"                       | 1/4"                       |
+| **Pixel Size**      | 2.2 $\mu m$ x 2.2 $\mu m$ | 1.4 $\mu m$ x 1.4 $\mu m$  | 1.4 $\mu m$ x 1.4 $\mu m$  |
+| **Architecture**    | FSI (Front Side Illum.)   | **BSI** (Back Side Illum.) | **BSI** (Back Side Illum.) |
+| **Interface**       | DVP (Parallel)            | DVP (Parallel)             | DVP & MIPI                 |
+| **Max Frame Rate**  | 15 fps @ UXGA             | 15 fps @ QXGA              | 15 fps @ QSXGA             |
+| **720p HD Video**   | N/A (Sub-sampled)         | 45 fps                     | **60 fps**                 |
+| **1080p Video**     | No                        | 20 fps                     | **30 fps**                 |
+| **Autofocus**       | No (Fixed/Manual)         | No (Fixed/Manual)          | **Yes** (Optional AF)      |
+| **JPEG Encoder**    | Built-in                  | Built-in                   | Built-in                   |
+| **Low Light Perf.** | Average                   | **Excellent**              | Good                       |
+| **Sensitivity**     | 0.6 V/Lux-sec             | 0.67 V/Lux-sec             | 0.6 V/Lux-sec              |
+| **Dynamic Range**   | 50 dB                     | **70 dB**                  | 68 dB                      |
+
+---
+
+### Summary Recommendation
+
+* **OV2640 (The Reliable Standard):** Best for basic streaming and general IoT. It is the most widely supported sensor for the original **ESP32-CAM (AI-Thinker)** and consumes the least power.
+* **OV3660 (The AI/Low-Light Specialist):** Highly recommended for **ESP32-S3** projects involving computer vision or face detection. Its **BSI (Back Side Illumination)** architecture and higher dynamic range make it significantly better in dim environments.
+* **OV5640 (The Photographer):** Choose this if you need high-resolution still photos or QR code scanning. The **Autofocus (AF)** version is a game-changer for macro photography or reading documents. Note that it runs much hotter than the OV2640.
+
+
+
+---
+
+### Technical Implementation Tip
+When switching between these sensors on an ESP32, you usually only need to change the `PIXFORMAT` and `FRAMESIZE` in your `camera_config_t`. However, the **OV5640** often requires a more robust power supply (at least 500mA) to handle the peak current during initialization and autofocus.
+
+Would you like me to provide the specific initialization code for the OV5640 to enable its autofocus features?
 
 
 
