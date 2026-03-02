@@ -9,7 +9,8 @@
 
 - [[cable-dat]] - [[conn-cable-terminal-dat]] - [[wire-2-wire-dat]]
 
-- [[ESC-dat]] 
+- [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
+
 
 - [[BLDC-dat]]
 

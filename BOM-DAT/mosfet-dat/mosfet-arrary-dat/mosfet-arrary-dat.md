@@ -2,7 +2,7 @@
 
 # mosfet-arrary-dat
 
-- [[motor-BLDC-driver-dat]] - [[mosfet-dat]] - [[mosfet-arrary-dat]]
+- [[motor-BLDC-driver-dat]] - [[mosfet-dat]] - [[mosfet-arrary-dat]] - [[mosfet-driver-dat]]
 
 
 
