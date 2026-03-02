@@ -1,13 +1,28 @@
 
 # wheel-hub-dat
 
-- [[wheel-dat]] - [[wheel-hub-dat]] - [[bearing-dat]] - [[gear-dat]]
+- [[wheel-dat]] - [[wheel-hub-dat]] - [[bearing-dat]] - [[gear-dat]] - [[inch-dat]]
 
 ![](2026-02-28-19-59-13.png)
 
 
 - 14 x 2.125 
 - 16 x 2.125 
+
+
+
+## The "2.4" — Tire Width
+
+
+When you see a tire size labeled as **12 x 2.4**, it is using the Imperial system (inches). Here is the breakdown:
+
+
+The second number represents the **Width** of the tire at its widest point when inflated.
+* **Measurement:** 2.4 inches.
+* **Metric Conversion:** $2.4 \times 25.4 = \mathbf{60.96\text{ mm}}$ (approx. 61mm).
+* **Significance:** A 2.4-inch tire is considered a "Wide" or "Fat" tire. For your **human-carrying scooter**, this is excellent because:
+    * **Stability:** A wider contact patch provides better balance.
+    * **Cushioning:** Larger air volume acts as a natural shock absorber for a smoother ride.
 
 
 - 12~20 inch
@@ -58,6 +73,11 @@ in almost all modern bicycles, the axle itself does not rotate.
 3. The **hub** (the middle of the wheel) sits on the bearings.
 4. When you pedal, the **sprockets** push the hub, and the whole wheel spins around that fixed center axis.
 
+
+
+## 塔基 / 卡式 花鼓  / 旋式花鼓
+
+![](2026-03-01-01-07-01.png)
 
 ## ref 
 

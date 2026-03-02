@@ -98,9 +98,18 @@ How to make it safer
 冷却后恢复尺寸，形成非常牢固的过盈配合。
 
 
+## jack shaft 
 
+![](2026-03-01-01-14-56.png)
+
+== 中间轴
+
+![](2026-03-01-01-16-55.png)
+
+![](2026-03-01-01-20-20.png)
 
 ## ref 
 
 - [[rod-system-dat]]
-![shaft-connection-dat/2025-12-30-14-08-06.png](shaft-connection-dat/2025-12-30-14-08-06.png)
+
+- [[m]]
