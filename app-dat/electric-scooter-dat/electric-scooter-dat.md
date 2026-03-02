@@ -4,7 +4,7 @@
 - [[electric-scooter-dat]] - [[roller-dat]]
 
 
-
+- [[motor-BLDC-driver-dat]] - [[motor-brushless-dat]] - [[motor-driver-dat]] - [[motor-dat]]
 
 ## Electric Scooter RPM at 20 km/h
 

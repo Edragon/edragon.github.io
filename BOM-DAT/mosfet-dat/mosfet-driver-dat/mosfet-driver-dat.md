@@ -9,6 +9,15 @@ The TC4451/TC4452 are single-output MOSFET drivers. These devices are high-curre
 - [[microchip-dat]]
 
 
+
+
+- [[mosfet-dat]] - [[mosfet-driver-dat]] - [[FD6287-dat]] - [[fortior-dat]] - [[FD6288-dat]]
+
+SCH 
+
+![](2026-03-02-21-29-03.png)
+
+
 ## ref 
 
 - [[mosfet-dat]]
