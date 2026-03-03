@@ -1,6 +1,8 @@
 
 # dcdc-boost-dat 
 
+- [[dcdc-boost]]
+
 legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 
