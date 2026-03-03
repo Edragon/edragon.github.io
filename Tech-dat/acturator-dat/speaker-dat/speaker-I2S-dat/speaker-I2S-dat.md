@@ -1,5 +1,5 @@
 
-# I2S-DAC-dat
+# speaker-I2S-dat
 
 
 - [[amplifier-dat]]

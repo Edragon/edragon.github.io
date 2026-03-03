@@ -2,7 +2,7 @@
 
 # ZILLTEK-dat
 
-- [[mems-dat]] - [[zilltek-dat]]
+- [[memsensing-dat]] - [[zilltek-dat]]
 
 - [[I2S-dat]]
 

@@ -12,7 +12,7 @@
 
 I2S Output Digital Microphone - [[INMP441-dat]] 
 
-- [[mems-dat]] - [[zilltek-dat]] - [[linkmems-dat]]
+- [[memsensing-dat]] - [[zilltek-dat]] - [[linkmems-dat]]
 
 - [x] - [[MSM261S4030H0R-dat]]
 

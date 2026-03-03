@@ -19,7 +19,7 @@
 
 - [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]] - [[sensor-motion-dat]] - [[sensor-camera-dat]]
 
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]] - [[buzzer-dat]] - [[relay-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]] - [[buzzer-dat]] - [[relay-dat]] 
 
 - [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
 
