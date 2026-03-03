@@ -14,7 +14,7 @@
 
 - [[sensor-dat]] 
 
-- [[ESP32-S3-dat]]
+- [[ESP32-S3-dat]] - [[ESP32-S3-chip-dat]]
 
 
 ## info 
@@ -148,6 +148,10 @@ https://github.com/miketeachman/micropython-i2s-examples
 
 
 
+
+## app 
+
+- [[robot-dat]] - [[robot]]
 
 
 ## ref
