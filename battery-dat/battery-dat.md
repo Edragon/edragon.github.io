@@ -16,7 +16,7 @@
 
 - [[battery-packs-dat]] - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - - [[battery-5s-dat]] - [[battery-6s-dat]]
 
-
+- [[sensor-voltage-dat]]
 
 
 

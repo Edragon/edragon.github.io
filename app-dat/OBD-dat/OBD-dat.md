@@ -15,12 +15,19 @@ https://github.com/Edragon/OBD == Repository unavailable due to DMCA takedown.
 
 - ELM327
 
-- scanmaster ELM 
+- scanmaster ELM / torque (apk apps)
 
 ![](2026-03-04-18-37-52.png)
 
 
+## function 
 
+- examine the enginee's error code 
+
+
+
+
+## interface 
 
 OBD-II Pinout (SAE J1962 Connector)
 

@@ -141,7 +141,7 @@ for [[DVA1009-dat]]
 
 ![](2026-02-11-01-53-41.png)
 
-
+firmware - SSOP20 - C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8ps20\optiboot_lgt8f328ps20.hex
 
 
 

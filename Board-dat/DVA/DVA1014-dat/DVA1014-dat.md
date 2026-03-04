@@ -16,6 +16,21 @@ product url -
 
 ![](2026-02-07-17-55-41.png)
 
+pin definitions 
+
+- DTR
+- A5 
+- A4
+- A0 
+- D2
+- D6 / TXD
+- D5 / RXD
+- VIN
+- GND 
+
+on board LED == D3 
+
+programmer pin G / V / R / C / D == GND / VIN / RST / SWC / SWD
 
 
 

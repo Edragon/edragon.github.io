@@ -6,6 +6,8 @@
 
 - [CLRC66303 == CLRC663 plus Family: High-Performance NFC Frontends](https://www.nxp.com/products/CLRC66303HN)
 
+- [[NRF5x-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]] - [[nordic-dat]] - [[NFC-dat]] - [[bluetooth-dat]]
+
 
 
 ## Boards 

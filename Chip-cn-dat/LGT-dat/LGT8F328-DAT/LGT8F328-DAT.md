@@ -52,7 +52,7 @@ common pin
 
 ## periperhals 
 
-![LGT8F328-SSOP20-dat/2025-06-25-14-42-46.png](LGT8F328-SSOP20-dat/2025-06-25-14-42-46.png)- [[UART-dat]] - [[GPIO-dat]] - [[PWM-dat]] - [[ADC-dat]] - [[DAC-dat]]
+- [[UART-dat]] - [[GPIO-dat]] - [[PWM-dat]] - [[ADC-dat]] - [[DAC-dat]]
 
 
 ## LGT8F88A-QFP32 MIN System 
