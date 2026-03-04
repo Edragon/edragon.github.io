@@ -218,6 +218,9 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 - Non-precision timing circuits
 
 
+## decouple 
+
+![](2026-03-04-20-26-20.png)
 
 
 ## ref 

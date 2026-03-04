@@ -24,7 +24,9 @@ debug connector
 
 ![](2026-03-04-19-59-30.png)
 
-SWDIO / SWDCLK / P0.18 / reset 
+SWDIO  (pad) / SWDCLK  (pad) / P0.18 == SWO / P0.21 == reset 
+
+P0.22 == FRST (pad)
 
 module MDBT 42 
 

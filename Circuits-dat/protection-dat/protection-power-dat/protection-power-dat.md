@@ -34,6 +34,9 @@
 
 
 
+## reversed protection 
+
+![](2026-03-04-20-24-02.png)
 
 
 ## inrush protection 
