@@ -11,7 +11,7 @@
 
 - [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[USB-dat]]
+- [[interface-dat]] - [[audio-dat]] - [[USB-dat]] - [[mp3-decoder-dat]] - [[playback-dat]]
 
 - [[robot-dat]]
 
@@ -125,7 +125,7 @@
 
 - [[OLED-dat]] - [[oled-driver-dat]]
 
-- [[touchpanel-dat]] - [[touch-sensor-dat]] - [[touch-dat]]
+- [[touchpanel-dat]] - [[touch-dat]] - [[touch-dat]]
 
 - [[led-driver-dat]]
 

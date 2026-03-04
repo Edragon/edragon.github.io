@@ -6,10 +6,17 @@
 
 - [[playback-dat]] - [[audio-dat]]
 
-- [[aplus-dat]]
+- [[aplus-dat]] - [[playback-dat]] - [[audio-dat]]
 
 
+## ISD1820 / ISD1800 
 
+![](2026-03-05-02-20-17.png)
+
+
+![](2026-03-05-02-20-58.png)
+
+- [[LM386-dat]]
 
 ## ref 
 
