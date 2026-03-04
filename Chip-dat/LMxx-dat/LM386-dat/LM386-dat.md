@@ -1,6 +1,8 @@
 
 # LM386-dat
 
+- [[LMxx-dat]]
+
 legacy wiki page - https://w.electrodragon.com/w/LM386
 
 
@@ -19,6 +21,15 @@ legacy wiki page - https://w.electrodragon.com/w/LM386
 | 100x |                    | ?    | 10uF | 10UF |
 | 200x |                    | 0    | 10uF | 10UF |
 
+
+## SCH 
+
+
+SCH 4 
+
+![](2026-03-05-02-23-30.png)
+
+SCH 3 
 ![](2025-04-03-14-07-36.png)
 
 ![](2024-03-26-15-35-38.png)

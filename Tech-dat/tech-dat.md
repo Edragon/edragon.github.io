@@ -70,6 +70,7 @@
 
 - [[SDK-dat]] - [[camera-sdk-dat]] - [[freertos-dat]]
 
+- [[encryption-dat]]
 
 ### network 
 
@@ -126,8 +127,6 @@
 - [[OLED-dat]] - [[oled-driver-dat]]
 
 - [[touchpanel-dat]] - [[touch-dat]] - [[touch-dat]]
-
-- [[led-driver-dat]]
 
 - [[button-dat]] - [[switching-dat]] - [[switch-dat]]
 

@@ -9,6 +9,13 @@
 - [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
 
 
+
+
+
+- [[UCC27324-dat]] - [[mosfet-driver-dat]]
+
+UCC27324-Q1 Dual 4-A Peak High-Speed Low-Side Power MOSFET Driver
+
 ## TC4451/TC4452
 
 

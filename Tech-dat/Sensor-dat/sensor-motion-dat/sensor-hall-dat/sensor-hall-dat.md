@@ -89,7 +89,11 @@ WCS2800 - Hall Effect Base Linear Current Sensor
 CC6207ST SOT-23 Omnipolar Low-Power Hall Effect Switch Sensor
 
 
+## SCH 
 
+hall sensor module 
+
+![](2026-03-05-02-25-56.png)
 
 ## integrated hall sensor in motor 
 
