@@ -6,7 +6,7 @@
 
 ## chip and companies
 
-- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]]
+- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]]
 
 - [[TI-power-dat]] - [[TPS54302-dat]]
 
@@ -28,7 +28,7 @@
 
 - [[joulwatt-dat]] - [[JW3510-dat]] - [[JW3651-dat]] - [[JW5359-dat]] - [[dcdc-down-dat]]
 
-
+- [[AD-power-dat]] - [[analog-device-dat]]
 
 
 

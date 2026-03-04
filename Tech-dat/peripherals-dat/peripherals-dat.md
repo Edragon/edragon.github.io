@@ -9,11 +9,21 @@
 - [[camera-dat]] - [[sensor-microphone-dat]]
 
 
+## network 
+
+- [[SIM-dat]]
+
+## interactive 
+
+- [[touch-pad-dat]] - [[interactive-dat]]
+
+
 
 ## power 
 
 - [[solar-dat]] - [[solar-panel-dat]] - [[solar-charger-dat]]
 
+- [[dcdc-down-dat]]
 
 
 ## basic 

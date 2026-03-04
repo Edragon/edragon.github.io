@@ -38,6 +38,13 @@
 ![](2024-09-05-17-49-34.png)
 
 
+
+## I2C expander 
+
+- [[NXP-dat]] - [[PCA9570-dat]] == Remote 4-bit general purpose outputs for 1 MHz I2C-bus
+
+![](2026-03-05-01-27-41.png)
+
 ## PCF8574 
 
 ![](2026-01-31-16-39-58.png)

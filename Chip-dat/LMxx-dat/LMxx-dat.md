@@ -1,7 +1,10 @@
 
-# LM-series-dat
+# LMxx-dat
 
-- [[74xx-dat]]
+
+
+
+- [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]]
 
 - [[LM324-dat]] - [[LM358-dat]] - [[LM386-dat]] - [[LM393-dat]] - [[LM7705-dat]]
 

@@ -2,7 +2,9 @@
 # touch-dat
 
 
-- [[touch-dat]] - [[touchpanel-dat]]
+- [[touch-dat]] - [[touch-panel-dat]]
+
+
 
 
 ## ref 

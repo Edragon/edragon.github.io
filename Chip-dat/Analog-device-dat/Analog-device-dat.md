@@ -2,7 +2,7 @@
 # analog-device-dat.md
 
 
-
+- [[AD-power-dat]] - [[analog-device-dat]]
 
 - [[ADMP404-dat]] - [[analog-device-dat]] - [[AD-audio-dat]]
 

@@ -14,7 +14,9 @@ legacy wiki page - https://www.electrodragon.com/w/MP3_Decoder
 
 
 
+## other options 
 
+- yx5200 
 
 
 ## ref 

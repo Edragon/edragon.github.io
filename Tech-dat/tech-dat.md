@@ -168,7 +168,7 @@
 
 - [[switch-dat]] - [[switching-dat]]
 
-
+- [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[sensor-energy-dat]]
 
 
 ### Interface and signals 
@@ -238,7 +238,7 @@
 
 ## Circuits 
 
-- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]]
+- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]] - [[isolator-dat]]
 
 - [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]]
 
