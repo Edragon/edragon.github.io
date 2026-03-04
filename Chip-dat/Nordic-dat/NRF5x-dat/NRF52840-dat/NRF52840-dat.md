@@ -141,6 +141,46 @@ Adafruit Feather nRF52840:
 - SDA: P0.25 (Physical Pin 25)
 - SCL: P0.26 (Physical Pin 26)
 
+
+external QSPI flash 
+
+- [[flash-dat]]
+
+- QSPI DATA0  -- PO.17
+- QSPI SCK -- P0.19 
+- QSPI DATA3  -- PO.21
+- QSPI CS -- PO.20
+- QSPI DATA2 -- P0.23
+- QSPI DATA1 -- PO.22
+
+peripherals  - [[peripherals-dat]]
+
+- Switch P1.02 BUTTON
+- Reset  P0.18 BUTTON
+
+- LED1 P1.15 
+- LED2 P1.10 
+- WS2812  P0.16 
+  
+- VDIV P0.29 
+
+- SCK  P0.14 
+- MOSI P0.13 
+- MISO P0.15 
+
+- SWO P1.00
+
+- RXD P0.24
+- TXD P0.25
+
+- P0.09 NF1
+- P0.10 NF2
+
+- P0.11 SCL
+- P0.12 SDA 
+- P0.09 NFC / P0.10 NFC
+
+
 ## solutions and apps
 
 - [[NRF52840+SX1262-dat]] - [[lora-dat]] - [[bluetooth-dat]]
@@ -151,6 +191,7 @@ Adafruit Feather nRF52840:
 
 ## NRF52840 SCH 
 
+### SCH1 
 
 ![](2025-07-09-12-46-39.png)
 
@@ -161,10 +202,14 @@ Adafruit Feather nRF52840:
 - BAT_ADC == P0.04
 - SPI == P1.12 ~ P1.15 
 
-## SCH2 Module 
+### SCH2 Module 
 
 ![](2025-07-09-15-30-56.png)
 
+
+### SCH3 module 
+
+![](2026-03-04-20-22-25.png)
 
 
 ## ref 
@@ -172,3 +217,7 @@ Adafruit Feather nRF52840:
 - [[bluetooth-dat]] - [[nrf52840]]
 
 - [[nordic-dat]]
+
+- [[flash-dat]]
+
+- [[protection-dat]] - [[capacitor-dat]]

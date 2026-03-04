@@ -3,7 +3,7 @@
 
 - [[AWG-wires-dat]] - [[cable-warp-dat]]
 
-- [[cable-power-dat]] 
+- [[cable-power-dat]] - [[cable-USB-dat]]
 
 - [[cable-data-dat]] - [[cable-FPC-dat]] - [[cable-ribbon-dat]]
 

@@ -43,7 +43,13 @@ S29GL128P90TFIR10 - NOR Flash 128Mb 3V 90ns Parallel NOR Flash
 
 - flash with bypass button 
 
+- QSPI 
+
 ![](2025-10-08-15-52-28.png)
+
+data bit 0~3 
+
+![](2026-03-04-20-27-04.png)
 
 
 ## SPI NAND 

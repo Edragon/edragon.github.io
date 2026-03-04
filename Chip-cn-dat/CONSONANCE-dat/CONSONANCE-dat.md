@@ -4,6 +4,9 @@
 
 
 
+## boards 
+
+- [[BAT1002-dat]]
 
 
 ## LED Driver
@@ -39,7 +42,9 @@
 贴片 CN3052A SOP-8 电源芯片/锂电池充电管理芯片
 
 
+## charger 
 
+- [[CN3065-dat]] - [[consonance-dat]]
 
 ## repo 
 

@@ -3,11 +3,18 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/CH579
 
+
+
+
+
 ## Board Map 
 
 ![](2024-03-22-17-16-36.png)
 
 power distributation please see this page [[Power-distribution-dat]]
+
+- [[solar-dat]] - [[solar-panel-dat]] - [[solar-charger-dat]]
+
 
 ## Pin Definitions 
 
@@ -17,6 +24,10 @@ power distributation please see this page [[Power-distribution-dat]]
 - LED2 - next to PB19, connect by a jumper
 - UART1 = PB8 / PB9 
 - UART0 = 
+
+
+
+
 
 ## ref 
 

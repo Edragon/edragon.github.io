@@ -3,6 +3,11 @@
 
 ![](2024-05-06-17-35-19.png)
 
+
+## boards 
+
+- [[ARM1003-dat]] 
+
 ## Power supply 
 
 

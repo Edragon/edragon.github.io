@@ -105,33 +105,36 @@ Would you like me to provide the specific initialization code for the OV5640 to 
 
 - [[OV3660-dat]]
 
-| pin | camera       | ESP32     |
-| --- | ------------ | --------- |
-| 1   | NC           |           |
-| 2   | AGND         | GND       |
-| 3   | SDA / SIO_D  | IO8 SDA   |
-| 4   | AVDD         | 2V8       |
-| 5   | SCL / SIO_C  | IO9 SCL   |
-| 6   | RESET        | pull-up   |
-| 7   | VSYNC        | IO1       |
-| 8   | PWDN         | pull-down |
-| 9   | HSYNC / HREF | IO2       |
-| 10  | DVDD         | 1V5       |
-| 11  | DOVDD        | 2V8       |
-| 12  | Y9           | IO4       |
-| 13  | XMCLK / XCLK | IO5       |
-| 14  | Y8           | IO6       |
-| 15  | GND          | GND       |
-| 16  | Y7           | IO7       |
-| 17  | PCLK         | 32K_P     |
-| 18  | Y6           | IO14      |
-| 19  | Y2           | 32K_N     |
-| 20  | Y5           | IO17      |
-| 21  | Y3           | IO18      |
-| 22  | Y4           | IO21      |
-| 23  | NC           |           |
-| 24  | NC           |           |
-| 25* | GND          | GND       |
+
+| pin | camera | ESP32 | extra     |
+|-----|--------|-------|-----------|
+| 1   | NC     |       |           |
+| 2   | AGND   |       | GND       |
+| 3   | SDA    | IO8   | SDA       |
+| 4   | AVDD   |       | 2V8       |
+| 5   | SCL    | IO9   | SCL       |
+| 6   | RST    |       | pull-up   |
+| 7   | VSYNC  | IO1   |           |
+| 8   | PWDN   |       | pull-down |
+| 9   | HSYNC  | IO2   |           |
+| 10  | DVDD   |       | 1V5       |
+| 11  | DOVDD  |       | 2V8       |
+| 12  | Y9     | IO4   |           |
+| 13  | XMCLK  | IO5   |           |
+| 14  | Y8     | IO6   |           |
+| 15  | GND    |       | GND       |
+| 16  | Y7     | IO7   |           |
+| 17  | PCLK   | IO15  | 32K_P     |
+| 18  | Y6     | IO14  |           |
+| 19  | Y2     | IO16  | 32K_N     |
+| 20  | Y5     | IO17  |           |
+| 21  | Y3     | IO18  |           |
+| 22  | Y4     | IO21  |           |
+| 23  | NC     |       |           |
+| 24  | NC     |       |           |
+| 25* | GND    |       | GND       |
+
+
 
 
 ## Modules

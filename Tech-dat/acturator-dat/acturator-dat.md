@@ -1,7 +1,7 @@
 
 # actuator 
 
-- [[piezo-dat]]
+- [[piezo-dat]] - [[buzzer-dat]] - [[speaker-dat]] - [[SSL1019-dat]]
 
 - [[relay-dat]] - [[SSR-relay-dat]]
 
@@ -19,7 +19,7 @@
 
 - [[laser-module-dat]]
 
-- [[buzzer-dat]] - [[speaker-dat]] - [[SSL1019-dat]]
+
 
 - [[belt-dat]] - [[belt-sys-dat]] - [[pulley-dat]] - [[mechanics-dat]]
 

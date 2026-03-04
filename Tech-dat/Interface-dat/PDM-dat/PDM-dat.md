@@ -11,6 +11,14 @@ https://www.atomic14.com/2024/01/05/esp32-s3-no-pins
 - [[interface-dat]] - [[I2S-dat]] - [[PDM-dat]] - [[sensor-microphone-dat]]
 
 
+## chip 
+
+- [[SPM1423-dat]]
+
+- [[mems-dat]] - [[zilltek-dat]] - [[linkmems-dat]]
+
+
+
 ### wiring 
 
 Unlike standard I2S which requires 3 signal wires (BCLK, WS, DATA), **PDM only requires 2 signal wires**. 

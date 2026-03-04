@@ -3,6 +3,10 @@
 
 - PCM Input Class D Audio Power Amplifiers
 
+- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[PDM-dat]]
+
+- [[MAX98357]] - [[analog-device]]
+
 ## Features 
 
 - 01 Output power: 3.2W at 4Ω, THD 10% 1.8W at 8Q, THD 10%

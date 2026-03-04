@@ -8,6 +8,14 @@
 
 - [[camera-dat]] - [[sensor-microphone-dat]]
 
+
+
+## power 
+
+- [[solar-dat]] - [[solar-panel-dat]] - [[solar-charger-dat]]
+
+
+
 ## basic 
 
 

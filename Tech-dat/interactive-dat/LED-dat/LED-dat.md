@@ -137,6 +137,11 @@ LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15m
 
 
 
+## multiple functions led via jumpers set 
+
+![](2026-03-04-19-13-03.png)
+
+
 ## tech 
 
 - [[ACDC-dat]]

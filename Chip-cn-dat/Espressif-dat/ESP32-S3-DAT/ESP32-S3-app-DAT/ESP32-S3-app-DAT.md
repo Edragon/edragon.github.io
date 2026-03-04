@@ -29,7 +29,13 @@
 
 - [[dcdc-down-dat]]
 
+
+
+
 ### SCH 
+
+
+- [[omnivision-dat]] - [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]]
 
 
 ![](ESP32-S3-AI-CAM.jpg)

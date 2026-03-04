@@ -4,16 +4,17 @@
 
 ## tech 
 
+
+- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[PDM-dat]]
+
 - [[DAC-dat]] - [[amplifier-audio-dat]] - [[speaker-dat]]
 
-
-- [[I2S-microphone-dat]] 
 
 - speaker == [[I2S-DAC-dat]]
 
 - [[sensor-dat]] 
 
-- [[ESP32-S3-dat]]
+- [[ESP32-S3-dat]] - [[ESP32-S3-chip-dat]]
 
 
 ## info 
@@ -34,11 +35,11 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 To get this working, you simply need to map your microphone's pins to the ESP32’s I2S peripheral. Here is how they correspond:
 
-| Microphone Label | I2S Standard Name | ESP32 Function | Role |
-| :--- | :--- | :--- | :--- |
-| **CLK** (or BCLK) | **SCK** (Bit Clock) | Output | The heartbeat that times every individual bit. |
-| **L/R** (or WS) | **WS** (Word Select) | Output | Toggles to define the start of Left/Right frames. |
-| **DATA** (or SD) | **SDIN** (Data In) | Input | The digital audio stream entering the ESP32. |
+| Microphone Label  | I2S Standard Name    | ESP32 Function | Role                                              |
+| :---------------- | :------------------- | :------------- | :------------------------------------------------ |
+| **CLK** (or BCLK) | **SCK** (Bit Clock)  | Output         | The heartbeat that times every individual bit.    |
+| **L/R** (or WS)   | **WS** (Word Select) | Output         | Toggles to define the start of Left/Right frames. |
+| **DATA** (or SD)  | **SDIN** (Data In)   | Input          | The digital audio stream entering the ESP32.      |
 
 
 ### 2. Why "MCLK" is Missing
@@ -93,6 +94,29 @@ PCM512x 2-VRMS DirectPath™ , 112-dB and 106-dB Audio Stereo DACs With 32-Bit, 
 
 
 
+## pins I2S and PDM 
+
+
+
+* **I2S (Inter-IC Sound):** Uses a **3-wire** bus (Bit Clock, Word Select/Left-Right Clock, and Data). It transmits pulse-code modulation (PCM) data.
+* **PDM (Pulse Density Modulation):** Uses a **2-wire** bus (Clock and Data). It transmits a high-frequency stream of single bits where the "density" of the bits represents the amplitude.
+
+The ESP32-S3 has **two independent I2S peripherals** (I2S0 and I2S1). This allows you to use one for output and one for input.
+
+#### Recommended Wiring Strategy:
+To save pins, you can sometimes share the **Clock** pin, but it is technically difficult because PDM and I2S usually require different clock frequencies. It is much safer to use dedicated pins for each:
+
+| Component                         | Signal             | Suggested ESP32-S3 GPIO |
+| :-------------------------------- | :----------------- | :---------------------- |
+| **I2S Speaker (e.g., MAX98357A)** | BCLK (Bit Clock)   | GPIO 14                 |
+|                                   | LRCK (Word Select) | GPIO 15                 |
+|                                   | DIN (Data In)      | GPIO 16                 |
+| **PDM Mic (e.g., SPM1423)**       | CLK (Clock)        | GPIO 4                  |
+|                                   | DAT (Data Out)     | GPIO 5                  |
+
+- [[ESP32-S3-dat]]
+
+
 ## demo video 
 
 - [[MAX98357-dat]] works with [[ESP32-dat]] - https://x.com/electro_phoenix/status/1877255863846465989
@@ -124,6 +148,10 @@ https://github.com/miketeachman/micropython-i2s-examples
 
 
 
+
+## app 
+
+- [[robot-dat]] - [[robot]]
 
 
 ## ref

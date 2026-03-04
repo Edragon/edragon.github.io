@@ -28,7 +28,18 @@
 - [[camera-dat]]
 
 
-### built-in USB JTAG 
+
+## pins 
+
+The ESP32-S3 features a **GPIO Matrix**. This internal switching fabric allows you to route almost any internal peripheral signal (like I2S, PWM, or UART) to almost any physical GPIO pin (GPIO 0 through 48).
+
+* **I2S0:** Can be mapped to any available GPIO.
+* **I2S1:** Can also be mapped to any available GPIO.
+
+
+
+
+## built-in USB JTAG 
 
 - [[JTAG-dat]]
 
@@ -43,6 +54,9 @@
 - ESP32-S3 chip (via ESP-PROG)
 - ESP32-S3 chip (via ESP-PROG-2)
 - Custom board
+
+
+
 
 ### ✅ Supported Features
 
@@ -86,11 +100,22 @@ Use GDB, VS Code, or Eclipse for debugging.
 - [[ESP-12K-dat]] - [[NWI1226-dat]]
 
 
+
+
+
+
 ## min. Core 
 
 ![](2025-08-19-16-53-29.png)
 
+
+
+
+
+
+
 ## ref 
+
 
 - [[ESP32-S3-dat]] - [[ESP32-P4-dat]] - [[ESP32-C6-dat]]
 

@@ -44,9 +44,12 @@
 
 ## tech 
 
+
+- [[sensor-gesture-dat]]
+
 [[control-system-dat]] - [[RPI-dat]] - [[PS2-console-dat]] - [[SBC-dat]]
 
-[[sensor-dat]] - [[sensor-Camera-dat]] - [[RPI-camera-dat]] - [[sensor-gesture-dat]]
+[[sensor-dat]] - [[sensor-Camera-dat]] - [[RPI-camera-dat]] 
 
 
 [[power-dat]] - [[lithium-battery-dat]]
