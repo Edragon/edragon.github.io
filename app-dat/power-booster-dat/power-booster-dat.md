@@ -5,7 +5,7 @@
 
 ## tech 
 
-- [[DCDC-dat]]
+- [[dcdc-dat]]
 
 
 ## boards 

@@ -6,6 +6,10 @@
 
 - [[camera-DVP-dat]] - [[camera-CSI-dat]] - [[camera-interface-dat]]
 
+
+
+
+
 ## DVP Pin Mapping & Functional Equivalents
 
 In DVP (Digital Video Port) camera sensors, many pins have synonymous names depending on whether the manufacturer uses industry-standard or proprietary labels.

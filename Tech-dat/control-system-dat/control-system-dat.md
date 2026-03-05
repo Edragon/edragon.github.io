@@ -7,7 +7,7 @@
 
 - [[RC-dat]]
 
-- [[DCDC-dat]] - [[ACDC-dat]] - [[power-dat]]
+- [[dcdc-dat]] - [[ACDC-dat]] - [[power-dat]]
 
 ## DCDC control system 
 

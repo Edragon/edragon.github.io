@@ -16,6 +16,13 @@
 
 
 
+## VDD and VDD_A 
+
+![](2026-03-05-17-50-28.png)
+
+
+- [[camera-DVP-dat]] - [[STM32-dat]] - [[LDO-2ch-dat]]
+
 ## ref 
 
 - [[LDO-2CH]]

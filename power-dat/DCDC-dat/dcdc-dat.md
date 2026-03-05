@@ -1,4 +1,20 @@
 
+# dcdc-dat 
+
+
+- [[dcdc-down-dat]] - [[dcdc-boost-dat]]
+
+- [[ti-power-dat]] - [[silergy-dat]]
+
+- [[dcdc-inverting-regulator-dat]]
+
+
+
+## ref 
+
+- [[dcdc]]
+
+
 # DC-dat
 
 legacy wiki page - https://w.electrodragon.com/w/Category:DC-DC#Schematic

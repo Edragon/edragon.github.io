@@ -18,7 +18,7 @@ Based on powerbus slave chip PB331.
 - right bottom terminal - 12V - GND on board DCDC switcher output  
 
 
-- based on option 401: [[DCDC-dat]] 
+- based on option 401: [[dcdc-dat]] 
 
 - based on option 231: [[LDO-dat]]
 

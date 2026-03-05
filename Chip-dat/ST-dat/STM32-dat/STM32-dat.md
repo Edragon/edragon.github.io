@@ -72,6 +72,9 @@ IDE - [[STM32-Cube-G0]] - [[MDK-ARM-dat]] - [[platformIO-dat]]
 
 ## Periperals list 
 
+- [[STM32-dat]] - [[LDO-2ch-dat]]
+
+
 SPI3
 - [[flash-dat]] 
 
@@ -209,6 +212,14 @@ STM32-H - STM32H563 ZIT6
 - https://bitbucket.org/e_dragon/stm32f7
 - https://bitbucket.org/e_dragon/stm32_minif401
 - https://bitbucket.org/e_dragon/stm32_mylib
+
+
+
+## 3rd board 
+
+- [[STM32-maple-mini-dat]]
+
+
 
 ## ref 
 

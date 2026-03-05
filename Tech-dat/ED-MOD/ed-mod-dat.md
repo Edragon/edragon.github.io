@@ -2,7 +2,7 @@
 
 # ED Mod 
 
-[[DCDC-dat]] - [[OPM1192-dat]] - [[OPM1152-dat]] - [[OPM1153-dat]]
+[[dcdc-dat]] - [[OPM1192-dat]] - [[OPM1152-dat]] - [[OPM1153-dat]]
 
 [[acdc-dat]]
 
