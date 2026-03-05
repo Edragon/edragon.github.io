@@ -36,6 +36,9 @@ FEATURES
 SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]]
 
 
+- [[BP9022-dat]] - [[BPS-dat]]
+
+
 ## boards 
 
 - [[ILC1063-dat]] - [[PWM-dat]]

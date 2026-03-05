@@ -30,6 +30,14 @@ MCP7940N == Battery-Backed I2C™ Real-Time Clock/Calendar with SRAM
 
 - [[Maxim-dat]]
 
+- [[DS1302-dat]] - [[RTC-dat]] - [[PCF8563-dat]]
+
+
+## PCF8563
+
+
+![](2026-03-05-19-03-16.png)
+
 ## SCH 
 
 INT and wakeup 

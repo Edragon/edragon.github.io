@@ -115,6 +115,9 @@ L L
 ## more chips 
 
 
+- 74LVC1G125DCK - [[74xx1G125-dat]]
+
+
 - 74HC541 
 
 

@@ -3,6 +3,14 @@
 
 
 
+
+TPA6205A1 1.25-W Mono Fully Differential Audio Power Amplifier With 1.8-V Input logic Thresholds
+
+![](2026-03-05-18-45-57.png)
+
+- [[DAC-dat]]
+
+
 - [[TI-AMP-dat]] - [[TI-audio-dat]]
 
 

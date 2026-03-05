@@ -180,7 +180,16 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 ### spindle signal amplifier control 
 
+- [[sensor-microphone-dat]] - [[motor-driver-dat]] - [[LM358-dat]]
+
 ![](2026-03-05-13-51-27.png)
+
+
+### microphone driver 
+
+
+
+![](2026-03-05-19-00-42.png)
 
 
 

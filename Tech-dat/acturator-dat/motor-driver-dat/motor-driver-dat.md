@@ -41,6 +41,11 @@
 
 - [[ESP32-dat]] - [[ESP32-S3-dat]]
 
+
+- [[sensor-microphone-dat]] - [[motor-driver-dat]] - [[LM358-dat]]
+
+
+
 ## functions 
 
 - [[LED-dat]] - [[buzzer-dat]] - [[sensor-voltage-dat]]

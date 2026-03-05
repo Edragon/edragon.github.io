@@ -54,7 +54,7 @@ Clasic RF LINK - [[RF-LINK-dat]]
 
 
 
-## tech 
+## tech / chip 
 
 Manchester encoding
 
@@ -65,6 +65,12 @@ learning code
 fixed (welding code) code
 
 - [[rolling-code-dat]] - [[rolling-code-encoder-dat]] - [[rolling-code-decoder-dat]]
+
+
+
+
+
+
 
 ## working mode 
 
