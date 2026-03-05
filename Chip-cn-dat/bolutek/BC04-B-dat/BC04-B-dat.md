@@ -1,9 +1,17 @@
 # BC04-B-dat
 
 
+
+
+- [[BC417-dat]] - [[CSR-dat]] - [[qualcomm-dat]]
+
+- [[BC04-B-dat]]
+
+
+
 ## board 
 
-
+board - [[NBL1018-dat]] - [[NBL1057-dat]] - [[NBL1064-dat]] - [[BC04-B-dat]] - [[BC417-dat]] - [[NBL1018-dat]]
 
 
 ## Specifications

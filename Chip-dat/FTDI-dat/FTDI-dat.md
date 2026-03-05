@@ -1,7 +1,7 @@
 
 # FTDI-dat.md
 
-- [[FT232-dat]] - [[FT230-dat]]
+- [[FT232-dat]] - [[FT230-dat]] - FT231XS
 
 - [[FT311d-dat]]
 

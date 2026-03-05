@@ -58,7 +58,7 @@ from the perspective of the cable to the perspective of the target
 
 [[DPR1153-dat]]
 
-
+- [[holtek-dat]] - [[HT42B534-dat]]
 
 ## Use case 
 

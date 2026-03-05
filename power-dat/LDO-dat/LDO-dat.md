@@ -31,9 +31,11 @@
 | SPX3819           |         |     |
 | RT9013 / RT9193   |         |     |
 | SGM2028 / SGM2019 |         |     |
-| MIC5219           |         |     |
+| [[MIC5219-dat]]           |         |     |
 | XC6219            |         |     |
 | LP2985            |         |     |
+
+- [[AP2112-dat]] - [[diodes-dat]]
 
 - [[LM317-dat]]
 
@@ -51,7 +53,9 @@ SOT23-3
 - [[me6206-dat]] - [[microne-dat]]
 
 
+- [[LP2985-dat]]
 
+- [[MIC5225-dat]] - [[MIC5219-dat]] - [[microchip-power-dat]] - [[micrel-dat]]
 
 
 ### SOT23-5

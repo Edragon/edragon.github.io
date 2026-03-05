@@ -19,6 +19,8 @@
 
 - [[SIMCOM-dat]]  - [[A7670-dat]] - [[SIM800-dat]]
 
+- [[holtek-dat]]
+
 - [[quectel-dat]]
 
 - [[WCH-dat]] - [[WCH-MCU-dat]] 

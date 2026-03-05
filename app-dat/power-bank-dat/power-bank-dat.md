@@ -29,7 +29,7 @@
 
 - [[TPS6123x-dat]] - [[TI-power-dcdc-boost-dat]]
 
-
+- [[LDR5108-dat]] - [[Legendary-dat]] - [[power-bank-dat]]
 
 
 
