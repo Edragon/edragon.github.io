@@ -12,10 +12,16 @@ legacy wiki page - https://www.electrodragon.com/w/MP3_Decoder
 
 - [[SSL1059-dat]] - [[SSL1040-dat]]
 
+- [[sd-dat]]
+
+## other options 
+
+- yx5200 
 
 
+- WTV020SD
 
-
+![](2026-03-05-02-13-13.png)
 
 ## ref 
 

@@ -13,6 +13,11 @@ Boards
 
 ## chip 
 
+- [[PCF8523-dat]] Real-Time Clock (RTC) and calendar
+
+![](2026-03-05-01-35-10.png)
+
+
 [[Dallas-dat]] - [[DS1307-dat]] - [[DS3231-dat]] - [[DS1302-dat]]
 
 [[NXP-dat]]

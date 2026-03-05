@@ -228,7 +228,11 @@ Current Push vs Pull: Power Supply & LED
 4. With voltage supply, **always use a series resistor** to limit current.
 
 
+## SCH 
 
+- [[UCC27324-dat]] - [[mosfet-driver-dat]] - [[mosfet-dat]]
+
+![](2026-03-05-02-37-49.png)
 
 ### ref 
 

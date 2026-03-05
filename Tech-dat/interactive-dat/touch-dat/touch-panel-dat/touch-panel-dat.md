@@ -1,8 +1,8 @@
 
-# touchpanel-dat
+# touch-panel-dat
 
 
-- [[touch-dat]] - [[touchpanel-dat]]
+- [[touch-dat]] - [[touch-panel-dat]]
 
 ## driver 
 

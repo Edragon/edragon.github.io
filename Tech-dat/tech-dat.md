@@ -11,7 +11,7 @@
 
 - [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[USB-dat]]
+- [[interface-dat]] - [[audio-dat]] - [[USB-dat]] - [[mp3-decoder-dat]] - [[playback-dat]]
 
 - [[robot-dat]]
 
@@ -70,6 +70,7 @@
 
 - [[SDK-dat]] - [[camera-sdk-dat]] - [[freertos-dat]]
 
+- [[encryption-dat]]
 
 ### network 
 
@@ -125,9 +126,7 @@
 
 - [[OLED-dat]] - [[oled-driver-dat]]
 
-- [[touchpanel-dat]] - [[touch-sensor-dat]] - [[touch-dat]]
-
-- [[led-driver-dat]]
+- [[touchpanel-dat]] - [[touch-dat]] - [[touch-dat]]
 
 - [[button-dat]] - [[switching-dat]] - [[switch-dat]]
 
@@ -168,7 +167,7 @@
 
 - [[switch-dat]] - [[switching-dat]]
 
-
+- [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[sensor-energy-dat]]
 
 
 ### Interface and signals 
@@ -238,7 +237,7 @@
 
 ## Circuits 
 
-- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]]
+- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]] - [[isolator-dat]]
 
 - [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]]
 

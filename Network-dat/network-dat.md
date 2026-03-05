@@ -191,6 +191,8 @@ A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often 
 
 - [[TI-network-dat]]
 
+[Digital Terrestrial Multimedia Broadcast](https://en.wikipedia.org/wiki/Digital_Terrestrial_Multimedia_Broadcast) - DTMB (Digital Terrestrial Multimedia Broadcast) (Chinese: 数字地面多媒体广播) is the digital TV standard for mobile and fixed devices, developed in the People's Republic of China. It is used there and in both of their special administrative regions (Hong Kong and Macau), and also in Cambodia, the Comoros, Cuba, East Timor, Laos and Pakistan. In Pakistan, as part of the China–Pakistan Economic Corridor Project, ZTE Corporation will provide Pakistan Television Corporation collaboration across several digital terrestrial television technologies, staff training, and content creation, including partnerships with Chinese multinational companies in multiple areas, such as television sets and set top boxes, as a form of "International Cooperation".
+
 
 
 ## ref 

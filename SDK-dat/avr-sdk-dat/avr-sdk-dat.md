@@ -76,3 +76,10 @@ ICSP 6pins
 # AVR SDK dat 
 
 https://github.com/micronucleus/micronucleus
+
+
+## AVR pocket programmer 
+
+![](2026-03-05-02-28-12.png)
+
+## ref 

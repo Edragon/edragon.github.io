@@ -200,3 +200,5 @@ initiate check
 - [[arduino-dat]]
 
 - [[I2C-scan-dat.ino]]
+
+- [[IO-expander-dat]]

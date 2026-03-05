@@ -24,7 +24,9 @@
 
 
 
+## simple voltage meter
 
+![](2026-03-05-02-12-04.png)
 
 
 

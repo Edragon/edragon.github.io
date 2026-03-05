@@ -7,7 +7,7 @@
 
 - [[dcdc-down-dat]]
 
-- [[TI-power-dat]]
+- [[TI-power-dat]] - [[TI-LDO-dat]]
 
 
 
