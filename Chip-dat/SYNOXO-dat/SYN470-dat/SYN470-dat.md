@@ -7,9 +7,20 @@
 
 - datasheet == [[SYN470-RF.pdf]]
 
+
+
+
+## SCH 
+
+![](2026-03-05-20-14-37.png)
+
+
 # SYN470 RF Transmitter Chip
 
 The SYN470 is a single-chip RF (Radio Frequency) transmitter IC manufactured by Synoxo (now part of RFIC Solutions).
+
+
+
 
 ## Key Features
 

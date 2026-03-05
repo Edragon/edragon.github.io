@@ -1,6 +1,8 @@
 
 # RFM95-dat
 
+- [[lora-dat]] - [[RFM95-dat]]
+
 - RFM92
 - RFM93
 - RFM95 
@@ -12,3 +14,8 @@
 ## pin Diagram 
 
 ![](2024-11-19-17-36-52.png)
+
+
+
+## ref 
+
