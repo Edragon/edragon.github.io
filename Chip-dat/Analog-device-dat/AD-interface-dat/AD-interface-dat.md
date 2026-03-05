@@ -1,8 +1,8 @@
 
-# AD-signal-dat
+# AD-interface-dat
 
+- [[max3485-dat]] - [[AD-interface-dat]] - [[analog-device-dat]]
 
-- [[DDS-dat]]
 
 - [[RS232-dat]] - [[RS422-dat]] - [[RS485-dat]]
 
@@ -18,6 +18,7 @@ ADM202EARN - EMI/EMC-Compliant, ±15 kV, ESD-Protected RS-232 Line Drivers/Recei
 AD7306AN == +5 V Powered RS-232/RS-422 Transceiver
 
 
+- [[max3485-dat]]
 
 
 

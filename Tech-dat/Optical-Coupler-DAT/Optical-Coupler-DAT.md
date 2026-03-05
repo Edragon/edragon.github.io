@@ -5,6 +5,7 @@
 
 - [[AC-isolation-dat]] - [[everlight-dat]] - [[EL357-dat]]
 
+- [[isolator-dat]] - [[signal-input-dat]] - [[optical-coupler-dat]]
 
 
 ## wiring 

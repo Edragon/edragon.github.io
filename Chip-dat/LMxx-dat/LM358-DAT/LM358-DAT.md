@@ -174,12 +174,29 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 ![](2025-03-19-03-22-26.png)
 
 
+
+## apps 
+
+
+### spindle signal amplifier control 
+
+![](2026-03-05-13-51-27.png)
+
+
+
 ## read more 
 
 - For a single-supply inverting op amp (in this case 9V), [resistor connecting input to virtual ground](https://www.reddit.com/r/AskElectronics/comments/rmeyj0/for_a_singlesupply_inverting_op_amp_in_this_case/)
 
 
 - [LM358 Op-Amp Integrator Circuit Analysis with single and dual power supply](https://www.ee-diary.com/2021/11/lm358-op-amp-integrator-circuit.html)
+
+
+
+
+
+
+
 
 ## ref 
 

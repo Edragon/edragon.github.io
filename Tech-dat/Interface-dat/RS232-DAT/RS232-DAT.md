@@ -53,7 +53,7 @@ customized common:
 
 - [[maxim-dat]]
 
-- [[analog-device-dat]] - [[AD-signal-dat]]
+- [[analog-device-dat]] - [[AD-interface-dat]]
 
 
 

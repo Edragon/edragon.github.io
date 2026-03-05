@@ -1,6 +1,14 @@
 
 # interface-dat 
 
+
+
+
+- [[signal-output-dat]] - [[signal-input-dat]] - [[interface-dat]] - [[74hct245-dat]] - [[74xx-dat]]
+
+- [[LMxx-dat]]
+
+
 - [[interface-SDK-dat]]
 
 - [[peripherals-dat]]

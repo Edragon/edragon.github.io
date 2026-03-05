@@ -71,7 +71,9 @@ partially isolated relay control
 ![](2025-12-16-19-31-03.png)
 
 
+### spindle motor drive 
 
+![](2026-03-05-13-45-25.png)
 
 
 
@@ -118,6 +120,11 @@ For fast-switching applications, a 1N5819 Schottky diode (rated 40V, 1A) might b
 ## chips 
 
 - [[relay-dat]] - [[IOR-dat]] - [[chip-dat]]
+
+
+
+
+
 
 
 ## ref 

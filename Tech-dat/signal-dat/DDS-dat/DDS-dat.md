@@ -24,7 +24,7 @@ Unlike old-school analog generators that use physical capacitors and inductors t
 ### AD9833 — Programmable Waveform Generator
 
 - Module: AD9833 Programmable Waveform Generator Module (Sine, Triangle, Square)
-- Link: [[AD-signal-dat]]
+- Link: [[AD-interface-dat]]
 
 Short description: The AD9833 from Analog Devices is a low-power (≈12.65 mW) programmable DDS waveform generator that produces sine, triangle and square waves. It operates from 2.3 V to 5.5 V and is controlled over a simple 3-wire SPI-compatible interface for easy microcontroller integration.
 

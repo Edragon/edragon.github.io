@@ -2,6 +2,10 @@
 # analog-device-dat.md
 
 
+
+- [[max3485-dat]] - [[AD-interface-dat]] - [[analog-device-dat]] - [[RS485-dat]]
+
+
 - [[AD-power-dat]] - [[analog-device-dat]]
 
 - [[ADMP404-dat]] - [[analog-device-dat]] - [[AD-audio-dat]]
