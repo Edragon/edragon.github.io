@@ -11,7 +11,7 @@
 
 - [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[USB-dat]] - [[mp3-decoder-dat]] - [[playback-dat]]
+- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]]
 
 - [[robot-dat]]
 

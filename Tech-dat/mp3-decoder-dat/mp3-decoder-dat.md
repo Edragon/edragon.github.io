@@ -5,7 +5,8 @@ legacy wiki page - https://www.electrodragon.com/w/MP3_Decoder
 
 - [[SSL1056-dat]] - [[SSL1075-dat]] - [[SSL1056-dat]]
 
-
+- [[codec-dat]] - [[mp3-decoder-dat]]
+ 
 
 
 - [[VS1053-dat]] - [[VS1003-dat]]

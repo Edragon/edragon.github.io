@@ -1,6 +1,10 @@
 
 # VS1053-dat
 
+
+
+
+
 ## Info 
  
 chip info - datasheet [[VS1053B-DS.pdf]]
@@ -12,8 +16,18 @@ Ogg Vorbis/MP3/AAC/WMA/FLAC/MIDI AUDIO CODEC CIRCUIT
 
 ## App. 
 
-- [[codec-dat]]
+- [[codec-dat]] - [[mp3-decoder-dat]]
  
+
+## SCH 
+
+- [[NE5532-dat]]
+
+
+![](2026-03-05-14-49-00.png)
+
+
+
 ## ref 
 
 - [[I2S-dat]]
