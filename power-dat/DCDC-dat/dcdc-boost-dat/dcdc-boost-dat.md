@@ -24,7 +24,7 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[dcdc-boost-dat]] - [[xysemi-dat]]
 
-
+- LY1038 - https://w.electrodragon.com/w/images/b/b0/LY1038.pdf
 
 
 high power - [[OPMS080-dat]]

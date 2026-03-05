@@ -55,11 +55,11 @@ SOT23-3
 
 - [[LP2985-dat]]
 
-- [[MIC5225-dat]] - [[MIC5219-dat]] - [[microchip-power-dat]] - [[micrel-dat]]
+- [[MIC5225-dat]] - [[MIC5219-dat]] - [[microchip-power-dat]] - [[micrel-dat]] - [[MIC2930-dat]] - [[MIC5205-dat]] == [[arduino-pro-mini-dat]]
 
 - [[MCP1703-dat]] - [[LDO-2CH-dat]]
 
-
+- [[MCP1700-dat]]
 
 
 ### SOT23-5

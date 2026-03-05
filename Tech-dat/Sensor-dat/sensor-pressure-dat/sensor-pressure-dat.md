@@ -27,6 +27,13 @@ SSCDRRN160MDAA5 - [[honeywell-dat]]
 
 
 
+## MPS20N0040D-S
+
+![](2026-03-05-18-36-09.png)
+
+SCH 
+
+![](2026-03-05-18-37-11.png)
 
 ## unsort 
 
