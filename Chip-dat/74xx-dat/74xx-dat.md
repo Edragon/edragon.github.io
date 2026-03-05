@@ -1,6 +1,8 @@
 # 74xx-dat
 
 
+- [[CDxx-dat]] - [[74xx-dat]] - [[LMxx-dat]]
+
 ## functions 
 
 - [[logic-dat]] - [[circuits-dat]]
@@ -9,9 +11,10 @@
 
 
 
-- [[CDxx-dat]] - [[74xx-dat]] - [[LMxx-dat]]
 
 - [[74HC4050-dat]] - [[74xx-dat]]
+
+- [[74HC595-dat]]
 
 
 ## 74HC14

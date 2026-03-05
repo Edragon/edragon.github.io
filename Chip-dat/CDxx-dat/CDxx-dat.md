@@ -5,6 +5,9 @@
 
 - [[CDxx-dat]] - [[74xx-dat]] - [[LMxx-dat]]
 
+- [[CD4001-dat]] 
+
+
 * **4161 (4-Bit Synchronous Counter):** Acts as the **Binary Address Generator**. It receives pulses from the NE555 and counts from 0 to 15 in binary ($0000$ to $1111$).
 
 

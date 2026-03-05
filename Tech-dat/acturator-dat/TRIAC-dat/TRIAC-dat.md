@@ -1,6 +1,11 @@
 
 # TRIAC-dat
 
+
+- [[MOC3063-dat]] - [[triac-dat]] - [[triac-driver-dat]]
+
+
+
 ## board 
 
 - [[SCU1041-dat]]
