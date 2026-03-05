@@ -33,6 +33,10 @@ SOT23 packages
 - 5-pin ZXCT1110
 
 
+
+- [[LM358-dat]]
+
+
 ## ref 
 
 - [[sensor-current-dat]]

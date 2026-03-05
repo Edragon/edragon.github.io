@@ -184,6 +184,11 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 
 
+### current meter 
+
+![](2026-03-05-14-11-48.png)
+
+
 ## read more 
 
 - For a single-supply inverting op amp (in this case 9V), [resistor connecting input to virtual ground](https://www.reddit.com/r/AskElectronics/comments/rmeyj0/for_a_singlesupply_inverting_op_amp_in_this_case/)

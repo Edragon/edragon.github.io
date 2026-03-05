@@ -9,7 +9,10 @@
 == V_ref 
 
 
-- [[TI-dat]]
+- [[voltage-reference-dat]] - [[TI-voltage-reference-dat]] - [[TI-dat]]
+
+- [[sensor-dc-voltage-dat]]
+
 
 ## REF30
 

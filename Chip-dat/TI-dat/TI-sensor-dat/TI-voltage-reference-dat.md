@@ -2,7 +2,13 @@
 
 # TI-voltage-reference-dat.md
 
+- [[voltage-reference-dat]] - [[TI-voltage-reference-dat]] - [[TI-dat]]
+
 - [[amplifier-dat]] - [[ti-amp-dat]]
+
+
+
+
 
 ## ref50xx 
 

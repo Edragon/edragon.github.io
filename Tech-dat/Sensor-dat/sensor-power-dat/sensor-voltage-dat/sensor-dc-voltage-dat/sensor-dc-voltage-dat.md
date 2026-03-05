@@ -9,6 +9,9 @@
 - [[sensot-dat]]
 
 
+- [[sensor-dc-voltage-dat]] - [[sensor-dc-current-dat]] - [[multimeter-dat]]
+
+
 ## battery read 
 
 ![](2026-02-10-16-41-40.png)
@@ -16,6 +19,15 @@
 ![](2026-03-04-20-12-22.png)
 
 - 2M / 806K 1% 
+
+
+## SCH 
+
+voltage meter - digital 
+
+![](2026-03-05-14-13-30.png)
+
+
 
 ## ref 
 

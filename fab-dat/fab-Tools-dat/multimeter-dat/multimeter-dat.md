@@ -60,8 +60,11 @@ https://eu.rigol.com/eu/products/DM_Detail/DM3058
 
 ## design 
 
-- [[voltage-reference-dat]]
+- [[voltage-reference-dat]] - [[TI-voltage-reference-dat]] - [[TI-dat]]
 
+- [[sensor-dc-voltage-dat]] - [[sensor-dc-current-dat]] - [[multimeter-dat]]
+
+- [[meter-resistance-dat]] 
 
 ## ref 
 
