@@ -66,7 +66,9 @@ Pin 2 (SAE J1850 Bus+): Carries the signal for both PWM and VPW protocols.
 Pin 10 (SAE J1850 Bus-): Used only for the PWM protocol (Ford).
 
 
+## connection and demo 
 
+https://t.me/electrodragon3/440
 
 ## ref 
 
