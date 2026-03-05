@@ -58,10 +58,13 @@ DM3058 / DM3058E is an economical 5.5-digit digital multimeter. It is designed f
 https://eu.rigol.com/eu/products/DM_Detail/DM3058
 
 
+## design 
+
+- [[voltage-reference-dat]]
 
 
 ## ref 
 
 - 优利德旗下品牌 - 米尼帕ET-2652数字万用表
 
-- [[instrument-dat]]
+- [[instrument-dat]] - [[fab-tools-dat]]

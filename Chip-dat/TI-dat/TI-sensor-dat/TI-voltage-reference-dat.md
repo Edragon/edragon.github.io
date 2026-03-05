@@ -1,0 +1,19 @@
+
+
+# TI-voltage-reference-dat.md
+
+- [[amplifier-dat]] - [[ti-amp-dat]]
+
+## ref50xx 
+
+REF50xx Low-Noise, Very Low Drift, Wide VIN Precision Voltage Reference
+
+ref5040 
+
+REF5045
+
+![](2026-03-05-14-01-30.png)
+
+
+## ref 
+

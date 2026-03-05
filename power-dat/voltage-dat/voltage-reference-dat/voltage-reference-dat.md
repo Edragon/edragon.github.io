@@ -60,6 +60,10 @@ for ADC-AVDD
 
 
 
+
+
+
+
 ## more 
 
 - Voltage References | LM336Z25 - 2.49 V, 2% Programmable Shunt Regulator
@@ -67,6 +71,12 @@ for ADC-AVDD
 ADM708SARZ
 
 ADR01/ADR02/ADR03/ADR06 - Ultracompact, Precision 10.0 V/5.0 V/2.5 V/3.0 V Voltage References
+
+
+- [[TI-sensor-dat]]
+
+
+
 
 ## ref 
 

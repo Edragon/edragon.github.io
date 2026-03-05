@@ -1,6 +1,9 @@
 
 # LM224-dat
 
+
+- [[LMxx-dat]] - [[LM224-dat]]
+
 [LM124, LM224x, LM324x == Low-power quad operational amplifiers](https://www.st.com/resource/en/datasheet/lm224a.pdf)
 
 ![](2025-07-10-18-45-24.png)

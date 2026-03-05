@@ -7,6 +7,13 @@
 - [[TI-AMP-dat]] - [[TI-audio-dat]]
 
 
+## OPA 
+
+OPAx365 50-MHz, Zerø-Crossover, Low-Distortion, High-CMRR, RRI/O, Single-Supply Operational Amplifiers
+
+![](2026-03-05-14-03-06.png)
+
+
 OPA2188 == OPA2188 0.03-μV/°C Drift, Low-Noise, Rail-to-Rail Output, 36-V, Zero-Drift Operational Amplifiers
 
 OPA2197

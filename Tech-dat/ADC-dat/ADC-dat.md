@@ -101,7 +101,7 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 ![](2025-07-10-18-43-18.png)
 
-- [[LM224-dat]] - [[TI-signal-dat]]
+- [[LM224-dat]] - [[TI-interface-dat]]
 
 - [[BAT54S-dat]]
 

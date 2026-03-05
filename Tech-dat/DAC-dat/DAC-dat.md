@@ -3,7 +3,7 @@
 
 - [[amplifier-dat]] - [[ESP32-DAC-dat]]
 
-- [[TI-DAC-dat]] - [[TI-dat]] - [[TI-signal-dat]]
+- [[TI-DAC-dat]] - [[TI-dat]] - [[TI-interface-dat]]
 
 
 legacy wiki page == https://www.electrodragon.com/w/AD/DA

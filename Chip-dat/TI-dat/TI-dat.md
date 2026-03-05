@@ -27,7 +27,7 @@
 
 - [[TI-sensor-dat]]
 
-- [[TI-signal-dat]]
+- [[TI-interface-dat]]
 
 - [[ULN2803-dat]]
 

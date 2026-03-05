@@ -108,7 +108,7 @@ dual channels
 
 - SN65C1167E, SN65C1168E - SN65C116xE Dual Differential Drivers and Receivers With ±15kV ESD Protection
 
-- [[TI-signal-dat]]
+- [[TI-interface-dat]]
 
 
 ## ref

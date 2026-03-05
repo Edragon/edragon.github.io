@@ -35,7 +35,7 @@ Whether it’s "parallel" or "serial" depends on how it’s used:
 
 ## chip 
 
-- [[TI-signal-dat]]
+- [[TI-interface-dat]]
 
 ## ref 
 

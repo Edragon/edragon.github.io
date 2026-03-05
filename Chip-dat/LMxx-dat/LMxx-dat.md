@@ -2,7 +2,7 @@
 # LMxx-dat
 
 
-
+- [[LMxx-dat]] - [[LM224-dat]]
 
 - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]]
 

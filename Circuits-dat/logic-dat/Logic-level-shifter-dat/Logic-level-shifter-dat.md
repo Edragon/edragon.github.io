@@ -15,7 +15,7 @@
 
 ### bidirection logic shifter
 
-- [[ti-signal-dat]]
+- [[TI-interface-dat]]
 
 - [[TXB0108-dat]] - [[BSS138-dat]] 
 

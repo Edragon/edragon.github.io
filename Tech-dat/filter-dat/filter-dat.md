@@ -17,7 +17,7 @@ FGDS-10A-50V : up to 10A CURRENT
 
 ## chips 
 
-- [[TI-signal-dat]] 
+- [[TI-interface-dat]] 
 
 UAF42AU - UNIVERSAL ACTIVE FILTER
 
