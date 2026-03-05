@@ -10,7 +10,7 @@ legacy documentation pages:
 - [Check the demo video of EB8645 working with HT6872 amplifier board and speaker here.](https://www.youtube.com/watch?v=TsrxvTzW7so)
 
 
-
+- [[CSR8645-dat]] - [[CSR8635-dat]] == [[NBL1050-dat]] - [[NBL1051-dat]] - [[NBL1054-dat]] - [[NBL1055-dat]] - [[bt-audio-dat]]
 
 
 ## ref 

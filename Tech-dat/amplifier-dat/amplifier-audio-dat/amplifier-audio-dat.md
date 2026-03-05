@@ -43,7 +43,7 @@
 - [[PAM8403-dat]]
 - [[PAM8302-dat]]
 
-
+- [[maxim-dat]]
 
 
 ## chip 

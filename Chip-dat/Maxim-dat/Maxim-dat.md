@@ -12,6 +12,10 @@
 
 - [[MAX7219-dat]] 
 
+MAX9722A/MAX9722B - 5V, Differential Input, DirectDrive, 130mW Stereo Headphone Amplifiers with Shutdown
+
+![](2026-03-05-14-17-49.png)
+
 ## RS232 
 
 - [[RS232-dat]]

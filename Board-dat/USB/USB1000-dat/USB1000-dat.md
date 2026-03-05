@@ -12,6 +12,14 @@
 
 ![](2023-09-05-17-04-38.png)
 
+
+
+
+## tech 
+
+- [[SJT83-dat]] - [[soujet-dat]] - [[touch-pad-dat]]
+
+
 ## ref 
 
 - [[CH55x-DAT]]

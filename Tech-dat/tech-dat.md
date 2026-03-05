@@ -126,7 +126,7 @@
 
 - [[OLED-dat]] - [[oled-driver-dat]]
 
-- [[touchpanel-dat]] - [[touch-dat]] - [[touch-dat]]
+- [[touch-panel-dat]] - [[touch-dat]] - [[touch-pad-dat]]
 
 - [[button-dat]] - [[switching-dat]] - [[switch-dat]]
 

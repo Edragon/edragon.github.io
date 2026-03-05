@@ -44,6 +44,7 @@
 
 
 
+
 ### chip compare 
 
 | Chip Model      | Manufacturer        | Ver. | aptX          | Codec                       | Power Efficiency | Lifetime Status | Notable Features                               | Ideal Use Case               |

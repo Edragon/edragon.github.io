@@ -33,27 +33,6 @@ The most following charger options are for the lithium-ion battery
 
 [[Coulomb-Counter-dat]] - [[battery-charger-dat]] - Coulomb Counter/Battery Gas Gauge - [[LTC4150-dat]] - [[linear-technology-dat]]
 
-## Chip Info
-
-- [[LTC4054-dat]] - [[MCP73831-dat]]
-
-[[TP-dat]] - [[TP4056-dat]] - [[TP5000-dat]] - [[TP4054-dat]] - [[TP4067-dat]]
-
-[[injoinic-dat]] - [[IP5306-dat]]
-
-- [[CN3722-dat]] - [[CN3768-dat]]
-
-- [[battery-charger-dat]] - [[BT24075-dat]] - [[TI-power-dat]]
-
-- [[TI-power-dat]]
-
-- [[battery-charger-dat]] - [[ETA-solutions-dat]]
-
-- [[CD42-dat]]
-
-
-- [[XL-dat]]
-
 
 
 ## Board
@@ -128,6 +107,42 @@ request
 ## lower current 
 
 当BOOST连接时，充电电流从100ma增加到300ma，只有当电容容量大于500mAh时才可以连接（避免爆炸💥）。
+
+
+
+
+## chips 
+
+- [[battery-charger-dat]] - [[natlinear-dat]]
+
+- [[tp-dat]]
+
+- [[MCP73831-dat]] - [[MCP73871-dat]] - [[microchip-power-dat]]
+
+- [[XL-dat]]
+
+## Chip Info
+
+- [[LTC4054-dat]] - [[MCP73831-dat]]
+
+[[TP-dat]] - [[TP4056-dat]] - [[TP5000-dat]] - [[TP4054-dat]] - [[TP4067-dat]]
+
+[[injoinic-dat]] - [[IP5306-dat]]
+
+- [[CN3722-dat]] - [[CN3768-dat]]
+
+- [[battery-charger-dat]] - [[BT24075-dat]] - [[TI-power-dat]]
+
+- [[TI-power-dat]]
+
+- [[battery-charger-dat]] - [[ETA-solutions-dat]]
+
+- [[CD42-dat]]
+
+
+- [[XL-dat]]
+
+
 
 
 
