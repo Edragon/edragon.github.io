@@ -20,6 +20,10 @@
 - [[robot-dat]] - [[robotics-dat]] - [[RC-dat]] - [[roller-dat]]
 
 
+[DWA == Dynamic window approach](https://en.wikipedia.org/wiki/Dynamic_window_approach)
+
+
+- [[screw-dat]] - [[screw-Self-tapping-dat]]
 
 
 ## types 
