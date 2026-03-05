@@ -12,6 +12,13 @@
 - [[dcdc-boost-dat]] - [[xysemi-dat]]
 
 
+
+- [[power-UPS-dat]] - [[MCP73871-dat]] - [[microchip-power-dat]] - [[TPS6123x-dat]] - [[TI-power-dcdc-boost-dat]]
+
+
+
+
+
 ## UPS example product 1. 
 
 

@@ -12,6 +12,10 @@ C8051F320/1 == Full Speed USB, 16 k ISP FLASH MCU Family
 https://www.silabs.com/documents/public/data-sheets/C8051F32x.pdf
 
 
+## EFM8 
+
+EFM8BB10F2G-QFN20 == EFM8 Busy Bee 8-bit Microcontrollers (MCUs)
+
 
 
 

@@ -6,7 +6,7 @@
 - [[MCP73831-dat]] - [[MCP73871-dat]] - [[microchip-power-dat]]
 
 
-- [[ti-power-dcdc-boost-dat]]
+- [[TI-power-dcdc-boost-dat]]
 
 ## ref 
 
