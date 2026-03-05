@@ -33,7 +33,7 @@
 
 - [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]]
 
-- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[]]
+- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[diode-dat]]
 
 - [[CONN-dat]] - [[CONN-cable-terminal-dat]] - [[CONN-power-dat]] - [[CONN-audio-dat]]
 

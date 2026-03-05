@@ -2,6 +2,15 @@
 
 # TI-LDO-dat
 
+- [[LDO-dat]] - [[TI-LDO-dat]] - [[TI-dat]]
+
+
 TPS78225-Q1, TPS78227-Q1, TPS78228-Q1, 1TPS78230-Q1
 
 150-mA, ULTRA-LOW QUIESCENT CURRENT, 1-μA IQ LOW-DROPOUT LINEAR REGULATOR
+
+
+TLV431BCDBZTG4 - TLV431x Low-Voltage Adjustable Precision Shunt Regulator
+
+
+## ref 

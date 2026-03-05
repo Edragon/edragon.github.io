@@ -7,7 +7,7 @@
 
 - [[dcdc-down-dat]]
 
-- [[TI-power-dat]] - [[TI-LDO-dat]]
+- [[TI-power-dat]] - [[TI-LDO-dat]] - [[TI-dat]]
 
 
 
@@ -79,6 +79,9 @@ SOT23-5
 
 
 LD2980 - Ultra low drop voltage regulators compatible with low ESR output - [[ST-dat]] - [[ST-power-dat]]
+
+
+
 
 ## pins 
 

@@ -42,6 +42,11 @@ TPDxEUSB30 2-, 4-Channel ESD Protection for Super-Speed USB 3.0 Interface
 - [[signal-differential-dat]]
 
 
+- [[LDO-dat]] - [[TI-LDO-dat]] - [[TI-dat]]
+
+
+
+
 ## ref 
 
 - [[chip-dat]]

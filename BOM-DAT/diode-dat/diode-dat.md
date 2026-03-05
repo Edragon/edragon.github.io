@@ -175,6 +175,11 @@ MPC555LFMZP40NXP - 3300V, 90A, Silicon Carbide (SiC) Schottky Diode, 2-lead T-MA
 
 1N5619
 
+B140HB - 1.0A SURFACE MOUNT SCHOTTKY BARRIER RECTIFIER 
+
+MICROCHIP LSM115JE3/TR13 - Diode 15V 1A Surface Mount DO-214BA
+
+
 
 
 ## Rectifier Diode vs Schottky Diode

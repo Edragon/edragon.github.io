@@ -76,6 +76,9 @@ D2PAK == TO252
 
 P0903BDL-VB Datasheet - N-Channel 30-V (D-S) MOSFET
 
+DMP2066LSN - P-CHANNEL ENHANCEMENT MODE MOSFET
+
+
 ### dual channel 
 
 | Model   | Mark | Manufactuers     | Descriptions |

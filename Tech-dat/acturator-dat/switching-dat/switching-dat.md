@@ -47,6 +47,9 @@ TPS22916CYFPR == TPS22916xx 1-V–5.5-V, 2-A, 60-mΩ Ultra-Low Leakage Load Swit
 
 ## switching ICs 
 
+SN74CB3Q3244 - 8-BIT FET BUS SWITCH - 2.5-V/3.3-V LOW-VOLTAGE HIGH-BANDWIDTH BUS SWITCH
+
+
 switching IC - SN75451BDR - SN5545xB, SN7545xB Dual-Peripheral Drivers for High-Current, High-Speed Switching
 
 

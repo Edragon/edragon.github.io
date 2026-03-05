@@ -7,6 +7,13 @@
 - [[TI-AMP-dat]] - [[TI-audio-dat]]
 
 
+
+## unsort 
+
+LMC6482 / LMC6484 - LMC648x CMOS Rail-to-Rail Input and Output Operational Amplifiers
+
+
+
 ## OPA 
 
 
@@ -25,7 +32,7 @@ OPA317, OPA2317, OPA4317 - `OPAx317` Zerø-Drift, Low-Offset, Rail-to-Rail I/O O
 OPA189, OPA2189, OPA4189 - `OPAx189` Precision, Lowest-Noise, 36-V, Zero-Drift, 14-MHz, MUX-Friendly, Rail-to-Rail Output Operational Amplifiers
 
 
-
+`OPA4188` - OPA4188 0.03-μV/°C Drift, Low-Noise, Rail-to-Rail Output, 36-V, Zero-Drift Operational Amplifiers
 
 
 ## TL 

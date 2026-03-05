@@ -9,7 +9,7 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]] - [[mosfet-dat]]
 
 - [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]]
 

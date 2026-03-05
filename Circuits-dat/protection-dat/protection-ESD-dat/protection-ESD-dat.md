@@ -13,6 +13,12 @@
 
 
 
+## DMP2066LSN
+
+- [[DMP2066LSN-dat]] - [[panjit-dat]]
+
+Ultra Low Capacitance ESD Protection
+Voltage 5V
 
 
 
