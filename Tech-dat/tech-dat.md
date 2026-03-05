@@ -142,7 +142,7 @@
 
 ### Sensors and actuator 
 
-- [[sensor-dat]] - [[sensor-motion-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]]
+- [[sensor-dat]] - [[sensor-motion-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[meter-resistance-dat]] - [[sensor-energy-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
 

@@ -6,7 +6,7 @@
 
 ## chip and companies
 
-- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]]
+- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]]
 
 - [[TI-power-dat]] - [[TPS54302-dat]]
 
@@ -24,13 +24,20 @@
 
 - [[richtek-dat]] - [[RT8279-dat]]
 
-- [[MPS-dat]] - [[intel-dat]]
+- [[intel-dat]] 
 
 - [[joulwatt-dat]] - [[JW3510-dat]] - [[JW3651-dat]] - [[JW5359-dat]] - [[dcdc-down-dat]]
 
 - [[AD-power-dat]] - [[analog-device-dat]]
 
 - [[active-semi-dat]] - [[ACT4088-dat]]
+
+- [[Feeling-Technology-dat]]
+
+
+
+
+
 
 ### CHIP SIL 
 

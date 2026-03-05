@@ -39,6 +39,16 @@ SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]]
 - [[BP9022-dat]] - [[BPS-dat]]
 
 
+## fan5333b-d
+
+- [[display-dat]] - [[led-driver-dat]]
+
+High Efficiency, High Current Serial LED Driver with 30 V Integrated Switch FAN5333A, FAN5333B
+
+![](2026-03-05-19-23-40.png)
+
+
+
 ## boards 
 
 - [[ILC1063-dat]] - [[PWM-dat]]

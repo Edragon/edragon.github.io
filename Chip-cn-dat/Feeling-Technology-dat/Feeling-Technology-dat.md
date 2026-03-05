@@ -5,6 +5,21 @@
 
 - [[FP6291-dat]] - [[FP6293-dat]] - [[Feeling-Technology-dat]]
 
+## FP6293 
+
+1MHz, 3.5A Step-Up Current Mode PWM Converter
+
+Features
+
+- Adjustable Output up to 13V
+- Internal Fixed PWM frequency: 1.0MHz
+- Precision Feedback Reference Voltage: 0.6V (±2%)
+- Internal 0.14Q, 3.5A, 18V Power MOSFET
+- Shutdown Current: 0.1μA
+- Over Temperature Protection> Over Voltage Protection
+- Adjustable Over Current Protection: 0.5A ~ 3.5A> Package: DFN-8L, SOP-8L(EP)
+
+
 
 
 

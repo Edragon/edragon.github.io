@@ -23,6 +23,8 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[display-Solid-state-dat]] - [[avago-dat]]
 
+- [[display-dat]] - [[led-driver-dat]]
+
 
 ## boards 
 

@@ -26,6 +26,8 @@
 
 - inrush + anti-reverse protection 
 
+
+
 ## chip solutions 
 
 - [[SY6280-dat]]
@@ -37,6 +39,10 @@
 ## reversed protection 
 
 ![](2026-03-04-20-24-02.png)
+
+- [[battery-protector-1s-dat]]
+
+
 
 
 ## inrush protection 
