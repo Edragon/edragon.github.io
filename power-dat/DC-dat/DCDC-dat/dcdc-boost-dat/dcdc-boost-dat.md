@@ -18,7 +18,7 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 - [[OPM1009-dat]] - [[OPM1019-dat]] - [[dcdc-boost-dat]] - [[XL-dat]]
 
-- [[TI-power-dat]] - [[TPS61088-dat]] - [[LM2577-dat]]
+- [[TI-power-dat]] - [[TPS61088-dat]] - [[LM2577-dat]] - [[TI-boost-dat]]
 
 - [[MT3608-dat]] - [[dcdc-boost-dat]] - [[OPM1089-dat]]
 

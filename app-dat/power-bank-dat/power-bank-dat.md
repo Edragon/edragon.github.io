@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 ## QC 
 
 - 100W
@@ -22,6 +26,12 @@
 - [[battery-protection-dat]] - [[battery-dat]]
 
 - [[IP5306-dat]]
+
+- [[TPS6123x-dat]] - [[TI-power-dcdc-boost-dat]]
+
+
+
+
 
 
 

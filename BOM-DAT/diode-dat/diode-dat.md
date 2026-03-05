@@ -17,6 +17,9 @@ brand - [[st-dat]]
 
 
 
+
+
+
 ## diode info 
 
 ![](2025-08-27-12-53-45.png)

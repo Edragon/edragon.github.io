@@ -67,7 +67,7 @@ SOT23-5
 | ME6214 | 2-18V | 300ma   | VIN | VSS | CE  | NC  | Vout |
 
 
-
+LD2980 - Ultra low drop voltage regulators compatible with low ESR output - [[ST-dat]] - [[ST-power-dat]]
 
 ## pins 
 
@@ -98,7 +98,9 @@ SOT23-5
 
 [LD1086DT33TR](https://www.mouser.com/ProductDetail/STMicroelectronics/LD1086DT33TR?qs=ZqrNm9%252BX9x495avHxGunSw%3D%3D&srsltid=AfmBOoo8TbJZVeh8Kv_urL5uG9JMlbgNaeSaF4P_AzeEG9Svc2ydWkUq) == LDO Voltage Regulators 3.3V 1.5A Positive
 
-## high voltage 
+## high voltage HV
+
+### SGM2200
 
 The SGM2200 series is a set of low power high voltage regulators implemented in CMos technology. These devices allow input voltages as high as 26.4V. The SGM2200 series is available in several fixed and adjustable output voltages. CMoS technology ensures low dropout voltage and low quiescent current.
 
@@ -107,6 +109,15 @@ Although designed primarily as fixed voltage regulators, these devices can be us
 The SGM2200 serles Is avallable in Green SOT-89-3. SOT-23. TSOT-23-5 and SC70-5 packages. It operates over an amblent temperature range of -40'℃ to +85'℃.
 
 - [[LDO-HV]] - [[LDO]]
+
+### 100V ZXTR2005K
+
+- [[ZXTR2005K-dat]] - [[diodes-dat]] - [[XL4301-dat]] - [[AQY212-dat]] - [[dcdc-down-dat]] - [[XL-dat]]
+
+100V INPUT, 5V 50mA REGULATOR TRANSISTOR
+
+
+![](2026-03-05-13-09-30.png)
 
 ## LDO array 
 

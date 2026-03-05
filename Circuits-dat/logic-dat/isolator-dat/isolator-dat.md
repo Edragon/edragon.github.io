@@ -6,7 +6,7 @@ ADuM3400/ADuM3401/ADuM3402 - Quad-Channel, Digital Isolators, Enhanced System-Le
 Quad-Channel Digital Isolators
 
 
-
+- [[mosfet-photo-dat]]
 
 
 ## ref 

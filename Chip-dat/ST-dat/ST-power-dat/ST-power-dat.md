@@ -7,6 +7,14 @@ BTA40, BTA41, BTB41
 
 - [[L78xx-dat]] - [[L7805-dat]]
 
+
+
+
+LD2980 - Ultra low drop voltage regulators compatible with low ESR output - [[ST-dat]] - [[ST-power-dat]]
+
+
+
+
 ## ref 
 
 - [[OPMS080-dat]]

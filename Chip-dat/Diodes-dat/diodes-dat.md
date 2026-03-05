@@ -37,3 +37,10 @@ These devices offer a programmable current-limit threshold between 125mA and 266
 ## led drivers 
 
 - [[AL8805-dat]]
+
+
+## LDO 
+
+- [[ZXTR2005K-dat]] - [[diode-dat]] - [[LDO-dat]]
+
+## ref 

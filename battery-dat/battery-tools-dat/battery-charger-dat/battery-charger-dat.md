@@ -71,7 +71,7 @@ The most following charger options are for the lithium-ion battery
 | TP4056           | Linear charging                   | ~1A            |
 | TP4054           |
 
-
+- [[MCP73831-dat]] - [[MCP73871-dat]] - [[microchip-power-dat]]
 
 
 ## Quick-Charge QC Options 

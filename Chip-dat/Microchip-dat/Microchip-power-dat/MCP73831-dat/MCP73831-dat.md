@@ -17,6 +17,10 @@
 
 Our pre-solder board [[OPM1193-dat]] use 2K for 500mA charging speed 
 
+
+
+
+
 ## ref 
 
 - [[battery-charger-dat]]

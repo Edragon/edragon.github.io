@@ -2,12 +2,18 @@
 # XL-dat 
 
 
-- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
+- [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[LDO-dat]]
+
 
 ### DC-DC Bulk 
 
 - [[XL4015-dat]] 
 
+
+- [[XL4301-dat]] - 3A 180KHz 45V Buck DC/DC Converter With Constant Current Loop 
+
+
+![](2026-03-05-13-07-30.png)
 
 ### DC-DC Boost 
 
