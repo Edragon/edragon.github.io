@@ -103,9 +103,7 @@ Quick Charge 2.0
 
 ## chips 
 
-- [[injoinic-dat]]
-
-- [[ISW-dat]]
+- [[injoinic-dat]] - [[ismartware-dat]]
 
 
 

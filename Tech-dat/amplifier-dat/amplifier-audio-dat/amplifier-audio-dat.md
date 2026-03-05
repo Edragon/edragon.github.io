@@ -51,6 +51,10 @@
 
 - [[amplifier-audio-dat]] - [[ST-audio-amp-dat]] - [[TDA7377-dat]] - [[TDA7375-dat]] - [[TDA7294-dat]]
 
+- [[TDA1308-dat]] - [[NXP-dat]]  Class-AB stereo headphone driver
+
+![](2026-03-05-19-48-32.png)
+
 - [[analog-device-dat]] - [[AD-audio-dat]]
 
 - [[diodes-dat]] - [[PAM-dat]] 

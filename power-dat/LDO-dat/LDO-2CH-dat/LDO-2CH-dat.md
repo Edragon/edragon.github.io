@@ -15,6 +15,11 @@
 
 
 
+## MIC5504 + MIC6365 
+
+- [[MIC5504-dat]] - [[MIC6365-dat]] - [[LDO-dat]] - [[LDO-2CH-dat]]
+
+![](2026-03-05-19-55-55.png)
 
 ## VDD and VDD_A 
 
@@ -22,6 +27,9 @@
 
 
 - [[camera-DVP-dat]] - [[STM32-dat]] - [[LDO-2ch-dat]]
+
+
+
 
 ## ref 
 

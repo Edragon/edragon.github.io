@@ -85,7 +85,7 @@ PCM512x 2-VRMS DirectPath™ , 112-dB and 106-dB Audio Stereo DACs With 32-Bit, 
 
 - [[PCM5122-dat]] - [[MPC1083-dat]]
 
-
+- [[cirrus-dat]]
 
 
 ## Other combine use with ESP32-S3 

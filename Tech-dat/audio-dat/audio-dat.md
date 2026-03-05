@@ -12,7 +12,12 @@
 
 - [[playback-dat]] - [[audio-dat]]
 
+- [[MIDI-dat]]
+
+
+
 ## chip 
+
 
 - [[TDA-dat]] - [[TI-audio-dat]] - [[VLSI-dat]] - [[cirrus-dat]] - [[ISD-dat]]
 

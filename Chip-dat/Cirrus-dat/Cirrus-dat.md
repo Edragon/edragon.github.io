@@ -3,9 +3,15 @@
 
 - [[Cirrus]]
 
-- [[adc-dat]] - [[i2s-dat]]
+- [[adc-dat]] - [[i2s-dat]] - [[DAC-dat]] - [[amplifier-audio-dat]]
+
+
 
 ## CS4344 
+
+10-Pin, 24-Bit, 192 kHz Stereo D/A Converter
+
+
 
 Hi, i2s driver let you map LRCLK BCLK and DATA to any GPIO pins you specify.
 
