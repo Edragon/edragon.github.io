@@ -18,4 +18,11 @@ Applications
 - Power Banks, Battery Backup Units
 - Industrial Metering Equipments
 
+
+## SCH 
+
+![](2026-03-05-13-30-51.png)
+
+
+
 ## ref 

@@ -4,6 +4,9 @@
 
 - [[MCP73831-dat]] - [[MCP73871-dat]] - [[microchip-power-dat]]
 
+Stand-Alone System Load Sharing and Li-Ion/Li-Polymer Battery Charge Management Controller
+
+
 
 ## SCH 
 
