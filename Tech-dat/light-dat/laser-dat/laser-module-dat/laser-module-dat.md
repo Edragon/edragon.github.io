@@ -3,7 +3,14 @@
 
 ![](2025-06-06-19-08-29.png)
 
+
+
+
+
+
 ## ref 
+
+- [[laser]] - [[laser-module]] - [[light]]
 
 - [[actuator-dat]]
 
