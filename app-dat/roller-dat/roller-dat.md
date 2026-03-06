@@ -40,7 +40,7 @@ If your budget allows, a **Brushless DC (BLDC) Hoverboard Motor** is much better
 
 ## ref 
 
-- [[robot-dat]] - [[robotics-dat]] - [[RC-dat]] - [[roller-dat]] - [[motor-dat]]
+- [[robot-dat]] - [[robotic-dat]] - [[RC-dat]] - [[roller-dat]] - [[motor-dat]]
 
 
 - [[roller]]

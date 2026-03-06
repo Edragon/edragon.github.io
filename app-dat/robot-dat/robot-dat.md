@@ -17,7 +17,7 @@
 - [[robot-pet-dat]]
 
 
-- [[robot-dat]] - [[robotics-dat]] - [[RC-dat]] - [[roller-dat]]
+- [[robot-dat]] - [[robotic-dat]] - [[RC-dat]] - [[roller-dat]]
 
 
 [DWA == Dynamic window approach](https://en.wikipedia.org/wiki/Dynamic_window_approach)

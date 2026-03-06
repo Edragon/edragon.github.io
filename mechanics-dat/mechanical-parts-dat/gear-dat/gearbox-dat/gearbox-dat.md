@@ -1,6 +1,9 @@
 
 # gearbox-dat
 
+
+
+
 - [[gear-dat]] - [[gear-worm-dat]] - [[gearbox-dat]]
 
 - [[gear-dat]] - [[gearbox-dat]]
@@ -55,9 +58,16 @@ ratio 1:1 dimension 50x50x25mm
 
 - [[gearbox-differential-dat]]
 
-plate gearbox - this specially for motor 5555 - [[metal-dat]] - [[metal-molded-dat]]
+### plate gearbox 
+
+- this specially for motor 5555 - [[metal-dat]] - [[metal-molded-dat]]
 
 ![](2026-03-06-16-55-12.png)
+
+
+### angular gearbox 
+
+![](2026-03-06-16-56-32.png)
 
 
 ## apps
