@@ -13,7 +13,7 @@
 
 - [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]]
 
-- [[robot-dat]]
+- [[robot-dat]] - [[robotic-dat]]
 
 - [[M2M-dat]]
 

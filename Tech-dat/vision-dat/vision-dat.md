@@ -52,6 +52,14 @@ Open source vision project:
 - 🎯 **OpenMV** is a *self-contained smart camera project* designed for embedded systems and robotics — simpler but more practical for real-time low-power vision at the edge.
 
 
+## chip 
+
+- [[RPI-SBC-dat]] 
+
+- [[ESP32-S3-dat]] 
+
+- [[K230-dat]] - [[K210-dat]]
+
 
 
 

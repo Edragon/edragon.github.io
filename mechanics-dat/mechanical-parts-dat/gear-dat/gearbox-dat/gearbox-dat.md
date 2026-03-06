@@ -35,6 +35,11 @@ inner gear == "Clutch" gear
 
 ![](2026-03-06-16-52-10.png)
 
+inner and outter pair 
+
+![](2026-03-06-17-06-34.png)
+
+
 ### Worm Gearbox: 
 
 These provide massive reduction in a small space (e.g., 60:1) and have a "self-locking" feature, meaning the output shaft won't turn unless the motor is spinning.
@@ -67,7 +72,10 @@ ratio 1:1 dimension 50x50x25mm
 
 ### angular gearbox 
 
+- [[gear-bevel-dat]]
+
 ![](2026-03-06-16-56-32.png)
+
 
 
 ## apps
@@ -89,6 +97,20 @@ meta cutting full metal gears
 
 ![](2026-03-06-16-34-27.png)
 
+### gearbox to sprocket 
+
+- [[sprocket-dat]]
+
+![](2026-03-06-17-05-11.png)
+
+![](2026-03-06-17-05-42.png)
+
+### gearbox assembly 
+
+- 25:1 
+- 37型减速箱
+
+![](2026-03-06-17-07-30.png)
 
 
 
