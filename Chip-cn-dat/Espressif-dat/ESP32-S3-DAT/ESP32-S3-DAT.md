@@ -1,11 +1,13 @@
 
 # ESP32-S3-dat 
 
+- [[ESP32-S3-chip-DAT]] 
+
 
 - [[ESP32-S3-SDK-dat]] - [[ESP32-SDK-dat]] - [[ESP-SDK-dat]] 
 
 
-- [[ESP32-S3-HDK-dat]]  - [[ESP32-S3-chip-DAT]] 
+- [[ESP32-S3-HDK-dat]] 
 
 - [[ESP32-S3-module-DAT]] - [[ESP32-S3-WROOM-1-dat]] - [[ESP32-S3-board-dat]]
 

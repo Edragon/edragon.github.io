@@ -20,6 +20,7 @@ type of antennas by connector == - [[CONN-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX
 
 - [[antenna-lolipop-dat]]
 
+- [[impedance-dat]] - [[antenna-dat]] - [[antenna-HDK-dat]]
 
 
 

@@ -1,5 +1,7 @@
 # ESP32-S3-WROOM-1-dat
 
+
+
 - [[ESP32-S3-dat]] - [[ESP32-S3-app-dat]]
 
 - ESP32-S3-WROOM-1
@@ -19,6 +21,12 @@ total pins 40
 
 ![](14-31-22-05-03-2023.png)
 
+
+- 型号: ESP32-S3-WR00M-1-N8R2 -- 8MFlash -- 2MPSRAM
+- 型号：ESP32-S3-WR00M-1-N8R8 -- 8MFlash -- 8MPSRAM
+- 型号：ESP32-S3-WR00M-1-N16R8 -- 16MFlash -- 8MPSRAM
+
+![](2026-03-06-16-22-53.png)
 
 ## Module SCH 
 

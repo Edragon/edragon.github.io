@@ -3,7 +3,7 @@
 
 
 
-
+- [[cortex-dat]] - [[ARM-dat]] 
 
 - [[HDSC-dat]] - [[ARM1007-dat]]
 
@@ -12,6 +12,8 @@
 - [[STM32-dat]]
 
 - [[NRF5x-dat]] - [[NRF52840-dat]] - [[NRF52832-dat]]
+
+- [[NXP-MCU-dat]]
 
 
 

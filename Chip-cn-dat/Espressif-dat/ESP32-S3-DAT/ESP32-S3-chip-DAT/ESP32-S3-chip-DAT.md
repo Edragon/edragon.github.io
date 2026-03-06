@@ -1,9 +1,29 @@
 
 # ESP32-S3-chip-DAT
 
+- [[ESP32-S3-module-dat]]
+
 - [[esp32-s3_datasheet_en.pdf]]
 
 - [[esp32-s3_规格说明书-中文版.pdf]] - [[esp32-s3_技术手册-中文版.pdf]]
+
+
+
+## ESP32 Vs STM32 
+
+- [[STM32-dat]]
+
+关于ESP32-S3芯片优势
+
+首先ESP32-S3是双核的并且带有WIFI和蓝牙BLE5.0无线功能，忽略双核、WIFI和蓝牙功能，与比较流行的ST的系列F1对比性能如下所示。
+
+![](2026-03-06-16-25-58.png)
+
+
+上述对比都是核心对比，ESP32-S3通过可以外扩RAM和FLASH例如N8R2就是外扩的标识，N8R2即外扩8MFLaSh与2MRAMN16R8即外扩16MFlash与8MRAM。
+性能方面可以说锤爆对比选项。
+源地VCC
+heVCC-GND
 
 ## function map 
 

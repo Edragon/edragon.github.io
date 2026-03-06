@@ -13,7 +13,7 @@
 
 - [[board-dat]] - [[board-series-dat]] - [[board-new-dat]] - [[board-3rd-dat]]
 
-- [[chip-dat]] - [[chip-cn-dat]] - [[74xx-dat]]
+- [[chip-dat]] - [[chip-cn-dat]] - [[74xx-dat]] - [[ESP32-S3-dat]]
 
 - [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]] - [[SBC-dat]] - [[signal-dat]] - [[interface-dat]]
 
@@ -44,7 +44,7 @@
 
 - [[service-dat]] - [[discount-dat]] - [[shipment-dat]] 
 
-- [[fab-dat]] - [[fab-qc-dat]]
+- [[fab-dat]] - [[fab-qc-dat]] - [[fab-PCB-dat]] - [[PCB-standards-dat]]
 
 
 ## Weekly Updates 

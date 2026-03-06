@@ -12,7 +12,7 @@ ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 
 - [[peripherals-dat]]
 
-
+- [[ESP32-S3-board-dat]]
 
 
 

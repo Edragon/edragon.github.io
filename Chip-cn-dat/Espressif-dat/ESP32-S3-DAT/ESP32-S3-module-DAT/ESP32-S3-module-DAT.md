@@ -3,6 +3,13 @@
 
 
 
+## why genius module 
+
+- [[impedance-dat]] - [[antenna-dat]] - [[antenna-HDK-dat]]
+
+![](2026-03-06-16-28-11.png)
+
+
 ## module 
 
 - [[ESP32-S3-WROOM-1-dat]]
