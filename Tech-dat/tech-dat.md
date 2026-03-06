@@ -157,7 +157,7 @@
 
 - [[relay-dat]] - [[SSR-dat]]
 
-- [[laser-dat]]
+- [[laser-dat]] - [[laser-module-dat]]
 
 - [[sensor-color-dat]]
 
