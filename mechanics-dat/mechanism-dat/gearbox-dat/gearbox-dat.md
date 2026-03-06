@@ -17,6 +17,21 @@ These are highly efficient and keep the output shaft in line with the motor shaf
 
 ![](2026-03-02-20-51-45.png)
 
+
+![](2026-03-06-16-35-06.png)
+
+outter gear == "sun" gear 
+
+inner gear == "Clutch" gear
+
+- [[wheel-dat]] - [[wheel-hub-dat]] - [[gearbox-dat]] inside
+
+![](2026-03-06-16-40-11.png)
+
+![](2026-03-06-16-40-30.png)
+
+![](2026-03-06-16-52-10.png)
+
 ### Worm Gearbox: 
 
 These provide massive reduction in a small space (e.g., 60:1) and have a "self-locking" feature, meaning the output shaft won't turn unless the motor is spinning.
@@ -40,9 +55,16 @@ ratio 1:1 dimension 50x50x25mm
 
 - [[gearbox-differential-dat]]
 
+plate gearbox - this specially for motor 5555 - [[metal-dat]] - [[metal-molded-dat]]
+
+![](2026-03-06-16-55-12.png)
 
 
 ## apps
+
+- [[motor-N20-dat]] - [[Motor-reduction-Gear-dat]]
+
+- [[motor-TT-dat]]
 
 RC clawer gearbox 
 
@@ -52,6 +74,12 @@ RC clawer gearbox
 work with [[motor-stepper-dat]] - [[motor-brushless-dat]] - [[motor-servo-dat]]
 
 ![](2026-03-02-21-05-32.png)
+
+meta cutting full metal gears 
+
+![](2026-03-06-16-34-27.png)
+
+
 
 
 ## ref 

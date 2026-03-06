@@ -31,7 +31,7 @@
 
 - [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[PCB-design-dat]]
 
-- [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]]
+- [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]] - [[gearbox-dat]]
 
 - [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[diode-dat]]
 

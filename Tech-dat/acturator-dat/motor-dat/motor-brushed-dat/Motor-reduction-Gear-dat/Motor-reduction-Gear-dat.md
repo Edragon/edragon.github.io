@@ -1,11 +1,19 @@
 
 # Motor-reduction-Gear-dat
 
+
+
+
 - [[Motor-reduction-Gear-dat]] == [[motor-brushed-dat]] + [[gearbox-dat]] 
   
 - [[Motor-reduction-Gear]]
 
 - [[stepper-dat]]
+
+
+
+
+
 
 ## planetary gear motor
 
