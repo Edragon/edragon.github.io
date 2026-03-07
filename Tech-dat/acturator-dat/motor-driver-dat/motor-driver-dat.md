@@ -319,6 +319,18 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 
 - [[mosfet-motor-control-dat]] - [[relay-motor-control-dat]]
 
+## power rail for servo 
+
+- [[power-dat]] - [[motor-servo-dat]]
+
+
+If you find your ESP32 keeps restarting when the servos move, try these fixes:
+
+Separate the Power Rails: Use the 18650 to power the servos directly (if they can handle the raw 3.7V–4.2V range, which most SG90s can, though they'll be slightly slower) and use the boost converter only for the ESP32.
+
+Add a Large Capacitor: Place a large electrolytic capacitor (e.g., 1000µF or higher) across the 5V and GND rails near the servos. This acts as a "buffer" to handle the initial current spike when the motors start.
+
+
 ## Other Tech
 
 - [[FOC-dat]]

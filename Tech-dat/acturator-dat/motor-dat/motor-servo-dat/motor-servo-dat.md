@@ -331,6 +331,29 @@ If you are using smaller servos for the **Rover V2** (for sensors or light mecha
 | **Large/Giant** | HS-805BB       | ~8.00 mm      | 15T / 17T    | M4         |
 
 
+
+
+
+## # Troubleshooting SG90 Servo "Chattering" and Noise
+
+The "滋滋" (humming) or "jittering" sound in an SG90 servo is usually caused by the internal motor trying to correct its position due to mechanical resistance, electrical noise, or signal instability.
+
+
+* **Mechanical Stalling:** The servo is commanded to an angle (like 0° or 180°) that it cannot physically reach because of the internal plastic stops or your robot's chassis.
+* **Signal Jitter:** The PWM signal from the microcontroller is unstable, causing the analog control chip to rapidly oscillate.
+* **Power Sag:** If your power supply cannot provide enough current (SG90 needs ~500mA peak), the voltage drops, causing the control logic to glitch.
+* **Deadband Hunting:** The servo's internal potentiometer is "hunting" for the exact center of a position it can't quite maintain.
+
+
+## 2. Recommended Code Solution (Arduino/C++)
+A professional trick to silence SG90 servos is to **"Detach"** the PWM signal once the movement is finished. This stops the motor from trying to micro-correct and eliminates the hum.
+
+
+
+
+
+
+
 ## code 
 
 - [[code-dat]]
