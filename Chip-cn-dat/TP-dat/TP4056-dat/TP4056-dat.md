@@ -5,6 +5,11 @@
 
 - [[battery-dat]] - [[battery-pack-dat]]
 
+- [[battery-protector-1s-dat]] - [[battery-charger-1s-dat]] - [[battery-1s-dat]]
+
+- [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-packs-dat]]
+
+
 
 ## boards 
 
@@ -32,7 +37,7 @@ cacultation:
 | 120 R | 10 A   | 1.20.12 = 10  |
 | 2.4K  | 500 mA | 1.2/2.4 = 0.5 |
 
-
+![](2026-03-07-13-02-20.png)
 
 
 ## SCH 

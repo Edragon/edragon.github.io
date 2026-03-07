@@ -5,15 +5,18 @@
 
 - [[protection-battery-dat]]
 
+
+- [[battery-protector-1s-dat]] - [[battery-charger-1s-dat]] - [[battery-1s-dat]]
+
+- [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-packs-dat]]
+
+
 ## BMS protection 
 
 描述：
 主IC 具有过充，过放，过流，短路等保护功能，用于各种容量各种形状3.7V锂电芯。采用保护IC，VISHAY、AOS、IR等高质量MOSFET，FR-4低温度系数板材，设计、做工精细，测试全面。体积小巧，适合于许多要求高集成度、低成本的场合，可以满足多方面的性能要求，保证电池组的安全可靠。
  
-
-技术参数:
-
-- 过充电检测电压：4.25±0.05V
+[[battery-charger-1s]]5±0.05V
 - 过充电解除电压：4.23±0.05V
 - 过放电检测电压：2.54±0.1V
 - 过流检测电流：1-3A

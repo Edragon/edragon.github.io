@@ -10,7 +10,7 @@
 
 ## motor specs 
 
-- [[torque-dat]] - [[start-capacitor-dat]]
+- [[torque-dat]] - [[capacitor-start-dat]]
 
 - [[RPM-dat]] - [[physics-dat]] - [[gear-dat]] - [[Sprocket-dat]] 
 
@@ -23,22 +23,24 @@ brushed
 
 - [[motor-brushed-dat]] == Permanent Magnet Brushed DC Motor
 
-- [[reduction-Gear-Motor-dat]] - [[TT-motor-dat]] - [[MG540-dat]] - [[MG513-dat]] - [[reduction-Gear-Motor]]
+- [[Motor-reduction-Gear-dat]] - [[motor-TT-dat]] - [[MG540-dat]] - [[MG513-dat]] - [[reduction-Gear-Motor]]
 
-- [[coreless-motor-dat]] 
+- [[motor-coreless-dat]] 
   
 
 [[motor-brushless-dat]]
 
-- [[BLDC-motor-dat]]
+- [[motor-brushless-dat]]
 
-- [[stepper-dat]] - [[servo-dat]]
+- [[motor-stepper-dat]] 
+
+- [[motor-servo-dat]]
 
 - [[motor-Drum-brake-dat]]
 
 - [[vibrator-dat]]
 
-- [[FPV-motor-dat]]
+- [[motor-FPV-dat]]
 
 - [[motor-linear-dat]] - [[motor-rank-dat]]
 

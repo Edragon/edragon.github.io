@@ -15,7 +15,12 @@
 
 - [[PCA9685-dat]]
 
+- [[servo-tuner-dat]]
+
 - [[servo]]
+
+
+
 
 ## tech 
 
@@ -45,6 +50,9 @@ The 90-degree and 180-degree servos have identical physical dimensions and torqu
 
 The fixed-wing S-version servo (with 25cm wire length) is not the helicopter version. Compared to helicopter servos, it has lower pull strength, performance, and motor lifespan. It's suitable for electric fixed-wing aircraft made of foamboard or foam (recommended) and offers good value for money.
 
+
+
+
 ## feature of servos 
 
 - The servo is a device that can control the angle of rotation of the motor shaft. It consists of a DC motor, a gear set, and a position feedback system.
@@ -58,6 +66,30 @@ The fixed-wing S-version servo (with 25cm wire length) is not the helicopter ver
 - The servo can be used in different environments, such as indoor, outdoor, and underwater, depending on the sealing and protection features of the servo.
 - The servo can be used in different applications, such as robotics, automation, and control systems, depending on the requirements of the application.
 - The servo can be used in different industries, such as automotive, aerospace, and consumer electronics, depending on the requirements of the application.
+
+
+
+## info of servo 
+
+### Servo Neutral (Center) Position
+
+The **Neutral Position** is the "home" or "zero-point" of a servo motor, typically at the **90°** mark of a 180° range.
+
+* **PWM Signal:** Standard servos define the center at a pulse width of **1500µs** (1.5ms).
+* **Physical Alignment:** It ensures your robot's steering or limbs have equal travel range to both the left and right.
+* **The Rule:** Always power the servo and send the 1500µs signal **before** mounting the control horn (the plastic arm).
+
+
+
+| Position    | Pulse Width     | Angle   |
+| :---------- | :-------------- | :------ |
+| Min         | 500µs - 1000µs  | 0°      |
+| **Neutral** | **1500µs**      | **90°** |
+| Max         | 2000µs - 2500µs | 180°    |
+
+
+
+
 
 
 ## test note
@@ -119,12 +151,12 @@ Since there is no internal IC, your code must perform **Closed-Loop Control**:
 
 #### 3. Why Use This Setup?
 
-| Feature | Standard 3-Wire Servo | Raw 5-Wire Servo |
-| :--- | :--- | :--- |
-| **Control Board** | Internal (Built-in) | External (MCU + Driver) |
-| **Customization** | Limited by internal IC | Fully programmable PID |
+| Feature            | Standard 3-Wire Servo            | Raw 5-Wire Servo                     |
+| :----------------- | :------------------------------- | :----------------------------------- |
+| **Control Board**  | Internal (Built-in)              | External (MCU + Driver)              |
+| **Customization**  | Limited by internal IC           | Fully programmable PID               |
 | **Current/Torque** | Limited by tiny internal MOSFETs | Limited only by your external driver |
-| **Response** | Fixed 50Hz PWM | High-speed real-time control |
+| **Response**       | Fixed 50Hz PWM                   | High-speed real-time control         |
 
 
 
@@ -292,11 +324,11 @@ If you are using smaller servos for the **Rover V2** (for sensors or light mecha
 
 #### 3. Comparison Table for Design
 
-| Servo Class | Typical Model | Shaft OD (mm) | Spline Count | Screw Size |
-| :--- | :--- | :--- | :--- | :--- |
-| **Micro** | SG90 / MG90S | ~4.85 mm | 21T | M2 / M2.5 |
-| **Standard** | MG996R / S3003 | ~5.95 mm | 25T | M3 |
-| **Large/Giant** | HS-805BB | ~8.00 mm | 15T / 17T | M4 |
+| Servo Class     | Typical Model  | Shaft OD (mm) | Spline Count | Screw Size |
+| :-------------- | :------------- | :------------ | :----------- | :--------- |
+| **Micro**       | SG90 / MG90S   | ~4.85 mm      | 21T          | M2 / M2.5  |
+| **Standard**    | MG996R / S3003 | ~5.95 mm      | 25T          | M3         |
+| **Large/Giant** | HS-805BB       | ~8.00 mm      | 15T / 17T    | M4         |
 
 
 ## code 
