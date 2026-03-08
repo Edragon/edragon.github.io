@@ -1,7 +1,7 @@
 
 # diode-dat
 
-
+- [[diode-dat]] - [[Diode-Schottky-dat]]
 
 - [[diode-rectifier-dat]] - [[diode-zener-dat]] - [[flyback-diode-dat]]
 
