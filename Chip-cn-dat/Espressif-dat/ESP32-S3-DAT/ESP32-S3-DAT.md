@@ -75,10 +75,10 @@ The **ESP32-S3** includes a **USB Serial/JTAG Controller**, meaning:
 
 Make sure the native USB pins are used:
 
-| Function     | GPIO Pin |
-|--------------|----------|
-| USB D+       | GPIO19   |
-| USB D−       | GPIO20   |
+| Function | GPIO Pin |
+| -------- | -------- |
+| USB D+   | GPIO19   |
+| USB D−   | GPIO20   |
 
 > ⚠️ These pins must not be remapped or disabled in software if using USB JTAG.
 
@@ -111,7 +111,23 @@ Use GDB, VS Code, or Eclipse for debugging.
 ![](2025-08-19-16-53-29.png)
 
 
+## common issues
 
+### Quad vs. Octal SPI
+
+| Feature         | Quad SPI (Standard) | Octal SPI (OPI)       |
+| :-------------- | :------------------ | :-------------------- |
+| **Data Lines**  | 4 ($D_0$–$D_3$)     | 8 ($D_0$–$D_7$)       |
+| **GPIOs 33–37** | Often available     | Reserved / Internal   |
+| **Performance** | Standard            | High-speed throughput |
+
+**Note:** If you are using a standard Quad SPI module (like the basic N4 or N8 models without the "R8" suffix), these pins might be physically broken out to the header, but it is still best practice to check the specific datasheet for your module variant to ensure they aren't tied to internal PSRAM.
+
+
+
+However, GPIO 33–37 are reserved for the Octal SPI flash interface on many ESP32-S3 modules (e.g. ESP32-S3-WROOM-1 with OPI flash). This means GPIO 37 (LF_PIN) likely conflicts with the flash bus and cannot be used for servo output.
+
+GPIO 38 (LR_PIN) should be fine on most ESP32-S3 modules.
 
 
 

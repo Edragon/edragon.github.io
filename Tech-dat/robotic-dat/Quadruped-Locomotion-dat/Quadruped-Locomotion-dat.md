@@ -22,6 +22,52 @@ This is the smoothest and fastest way to move. You move diagonal pairs in a "cir
 
 
 
+
+
+Trot Gait
+
+
+LR and RR are mirrored, and LF and RF are mirrored,
+
+LR and LF are swing in the same direction, LF and RF are swing in the same direction, 
+
+but pair of LR + LF and pair of RR + RF are swing in opposite direction
+
+
+
+
+
+
+1. The 2-Step Forward Sequence
+
+Here is how your diagonal pairs should coordinate:
+
+Step A (Diagonal Pair 1):
+
+Front-Left & Rear-Right swing Forward.
+
+(At the same time, the other two legs push Backward).
+
+Step B (Diagonal Pair 2):
+
+Front-Right & Left-Rear swing Forward.
+
+(At the same time, the other two legs push Backward).
+
+
+
+
+What happens if you "Pulse" them together?
+
+If you want them to move together, you have to do a "Gait" (步态). A common way to move "together" is the Trot Gait:
+
+Diagonal Pair A: Front Left and Rear Right move forward.
+
+Diagonal Pair B: Front Right and Rear Left move forward.
+
+By moving diagonals together, the robot stays balanced on a line, and you get a much faster, smoother walk than moving one leg at a time.
+
+
 ---
 
 ### 2. The "Crawl" (High Stability)
@@ -32,9 +78,26 @@ If your robot is top-heavy or the servo horns are very long, a Trot might be too
 * **Action:** Only one "foot" moves forward at a time while the other three stay on the ground.
 * **Benefit:** The Center of Mass (CoM) is always supported by a triangle of legs, making it nearly impossible to tip over.
 
+
+
+The Walking Sequence (Crawl Gait)
+
+The safest way to move is to move one leg at a time while the other three form a stable triangle on the ground.
+
+The Pattern:
+
+Rear Left (RL) moves forward (Lift and swing).
+
+Front Left (FL) moves forward.
+
+Rear Right (RR) moves forward.
+
+Front Right (FR) moves forward.
+
+
 ---
 
-3. Mechanical Implementation Tips
+1. Mechanical Implementation Tips
 
 
 | Foot Design | Benefit | Best For |
