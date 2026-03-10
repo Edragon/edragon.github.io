@@ -7,6 +7,22 @@
 
 ## XR2981
 
+
+FEATURES
+
+- 2.7V to 5.5V input voltage Range
+- Efficiency up to 96%
+- 24V Boost converter with 12A switch current Limit
+- 600KHz fixed Switching Frequency
+- Integrated soft-start
+- Thermal Shutdown
+- Under voltage Lockout
+- Support external LDO auxiliary power supply
+- 8-Pin SOP-PP Package
+
+
+
+
 https://cdn.hackaday.io/files/1829407826904960/Xysemi_XR2981.pdf
 
 3.3V~5V Input 24W Output Step-up DC/DC Converter
