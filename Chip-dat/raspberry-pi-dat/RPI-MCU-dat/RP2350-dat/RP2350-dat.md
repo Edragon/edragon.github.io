@@ -5,6 +5,8 @@
 
 - [[DOD1123-dat]]
 
+![](2026-03-10-19-59-01.png)
+
 ## info 
 
 [datasheet](https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf) 

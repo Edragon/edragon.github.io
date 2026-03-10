@@ -21,6 +21,9 @@ Genuine INA199B1DCKR SC-70-6 Bidirectional Current Sensing Amplifier Chip
 
 - [[INA128-dat]] - [[INA129-dat]]
 
+- INA332
+
+
 ## diodes 
 
 - [[diodes-dat]] 

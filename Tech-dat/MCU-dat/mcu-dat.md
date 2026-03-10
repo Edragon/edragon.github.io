@@ -37,6 +37,7 @@
 
 - [[NXP-dat]]
 
+- [[holtek-dat]] - [[holtek-MCU-dat]]
 
 
 ## other types 

@@ -47,6 +47,24 @@ It supports I2C/SPI communication for real-time data collection and is compatibl
 
 - [[logic-level-shifter-dat]]
 
+
+## CJ125 - Oxygen sensor control & evaluation IC
+
+CJ125 is the ideal companion for Bosch oxygen sensor LSU4.x. It includes all circuitry for accurate sensor operation.
+
+CJ125 supports the continuous regulation of Lambda in the range of ʎ= 0.65 to ∞ (air).
+
+- Type
+- Oxygen sensor control & evaluation IC
+- Package
+- LQFP32
+- Features
+- Lambda measurement
+- Probe temperature measurement
+- Programmable reference pump current Diagnostics
+- Recommmended for new applications
+
+
 ## BMM350 
 
 - [[3-Axis-Magnetic-dat]]
@@ -81,6 +99,14 @@ Comparison Table of BMM150 and BMM350
 ### SCH 
 
 ![](2025-07-13-02-13-16.png)
+
+
+
+
+
+
+
+
 
 ## ref 
 
