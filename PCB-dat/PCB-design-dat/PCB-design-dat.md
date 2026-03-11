@@ -5,9 +5,9 @@
 
 - [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]
 
+- [[reverse-engineering-dat]] - [[PCB-design-dat]]
 
-
-- [[PCB-dat]] 
+- [[PCB-customized-dat]] - [[PCB-design-dat]] - [[PCB-dat]]
 
   
 - [[footprint-dat]] - [[thermal-disppation-dat]] - [[heatsink-dat]] - [[PCB-installation-dat]]

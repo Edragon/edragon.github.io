@@ -5,6 +5,15 @@
 - [[pcb-design-basic-dat]] - [[dev-board-dat]] - [[peripherals-dat]]
 
 
+
+## silkscreen
+
+- clear silkscreen for connectors, interface, test points, etc.
+- watermark / logo / artwork 
+
+
+
+
 ## LEDs 
 
 - 电源指示灯 - 用于 检测 电源状态 - [[LED-dat]] 
