@@ -68,6 +68,33 @@ thermal only for holes
 
 
 
+## artwork 
+
+1. invert the color, only left black to use, white to left out, saved as BMP, tools is opensource photodemon  
+
+![](2026-03-12-02-11-13.png)
+
+saved file size is 430 x 150 px 
+
+![](2026-03-12-02-13-20.png)
+
+
+2. import in eagleCAD brd, 
+
+![](2026-03-12-02-12-19.png)
+
+PCB size rougly 90 x 60 mm  
+
+import only color black to use 
+
+![](2026-03-12-02-14-57.png)
+
+scale 1 will be too big for this PCB size, size scale 0.1 looks good 
+
+![](2026-03-12-02-18-02.png)
+
+finally copy paste to layer 21 tplace 
+
 ## ref 
 
 - [[eagle-cad]]
@@ -75,3 +102,6 @@ thermal only for holes
 - [[MPC1073-dat]]
 
 https://forums.autodesk.com/t5/eagle-forum
+
+
+- [[PCB-design-dat]]
