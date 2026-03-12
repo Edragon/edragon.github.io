@@ -15,7 +15,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 - [[PWM-dat]]
 
-- [[n-mosfet-control-dat]] - [[P-mos-dat]] - [[mos-n-dat]]
+- [[n-mosfet-control-dat]] - [[mos-P-dat]] - [[mos-n-dat]]
 
 - [[dual-mosfet-dat]]
 

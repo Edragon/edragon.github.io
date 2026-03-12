@@ -8,8 +8,13 @@
 
 - [[ESP-prog-dat]]
 
-- [[ESP32-ADC-dat]] - [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] 
+- [[ESP32-ADC-dat]] - [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] - [[ESP32-PDM-dat]] 
 
+- [[ESP32-dat]] - [[HDK-dat]] - [[peripherals-dat]] - [[ADC-dat]] - [[DAC-dat]] - [[I2C-dat]] - [[serial-dat]] - [[gpio-dat]] - [[usb-sdk-dat]] - [[SPI-dat]] - [[I2S-dat]] - [[PDM-dat]] - [[DMA-dat]] - [[ISR-dat]]
+
+
+
+- [[GPIO-dat]]
 
 ## hardware design guidelines 
 

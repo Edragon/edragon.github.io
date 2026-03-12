@@ -6,8 +6,14 @@
 
 - [[IRF540N-dat]] - [[IRF8313-dat]] - [[F5305-dat]] 
 
-IRF1404
-IRF3205
+- IRF1404
+- IRF3205
+- IRFR1205 - [[infineon-dat]]
+- IRFR5305 - [[infineon-dat]]
+
+- IRF540N
+
+
 
 ## mosfet 
 

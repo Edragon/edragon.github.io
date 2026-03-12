@@ -4,12 +4,29 @@
 - [[mosfet-dat]]
 
 
-- IRLML6402 TRPBF
-- SI2318 A
+
+
 
 ## control 
 
 - [[adc-dat]]
+
+
+## parts 
+
+- [[AO3401-dat]]
+
+- IRLML6402 TRPBF
+- SI2318 A
+
+- IRF4905
+- IRF9540N
+
+SI4435 - SOIC-8 P沟道 -30V/-8.1A 贴片MOSFET
+
+SI2307
+
+IRLML6402TRPBF
 
 
 
@@ -36,10 +53,6 @@ Explanation:
 Low-side drive is typically used with N-channel MOSFETs, not P-channel.
 
 
-
-## parts 
-
-- [[AO3401-dat]]
 
 
 ## ref 

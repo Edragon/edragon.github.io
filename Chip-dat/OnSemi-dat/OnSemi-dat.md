@@ -39,6 +39,9 @@ The Switch−mode Power Rectifier employs the Schottky Barrier principle in a la
 
 ![](2026-01-25-20-29-23.png)
 
+
+
+
 ## ref 
 
 - [[chip-dat]]

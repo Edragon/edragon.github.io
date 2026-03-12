@@ -2,6 +2,8 @@
 
 # ESP32 
 
+
+
 ## new chip info 
 
 - [[ESP32-S3-dat]] - [[ESP32-S2-dat]] 
@@ -24,7 +26,8 @@ and more at [[espressif-dat]]
   
 - [[ESP-SDK-dat]] - [[ESP32-SDK-dat]]
 
-- [[ESP32-HDK-dat]] - [[ESP32-serial-dat]]
+- [[ESP32-HDK-dat]] - [[ESP32-serial-dat]] - [[ESP32-ADC-dat]] - [[ESP32-DAC-dat]] - [[ESP32-I2C-dat]] - [[esp32-serial-dat]] - [[esp32-gpios-dat]] - [[esp32-usb-dat]] - [[ESP32-SPI-dat]] - [[ESP32-I2S-dat]] - [[ESP32-PDM-dat]] - [[ESP32-ISR-dat]] - [[ESP32-DMA-dat]] - [[DMA-dat]]
+
 
 - [[ESP32-modules-dat]] - [[ESP32-board-dat]]
 
