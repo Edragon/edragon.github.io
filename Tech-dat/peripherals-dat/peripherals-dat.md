@@ -17,7 +17,7 @@
 
 - [[touch-pad-dat]] - [[interactive-dat]]
 
-
+- [[WS2812-dat]]
 
 ## power 
 
