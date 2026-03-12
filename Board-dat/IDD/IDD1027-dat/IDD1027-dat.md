@@ -22,8 +22,8 @@ suitable boards - [[ESP32-S3-board-VCC-dat]] - [[ESP32-S3-board-WV-dat]] - [[ESP
 - IO18_E
 
 - IO08_LDR
-- IO3
-- IO46
+- IO3_x
+- IO46_x
 
 - IO9_G1
 - IO10_B1

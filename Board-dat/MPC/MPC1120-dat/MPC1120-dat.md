@@ -125,3 +125,5 @@ pre-connected SMD jumpers positioned under the PTH jumpers :
 - [[HUB75-dat]]
 
 - [[RPI3-dat]]
+
+- [[MPC1120]] - [[MPC1119]]
