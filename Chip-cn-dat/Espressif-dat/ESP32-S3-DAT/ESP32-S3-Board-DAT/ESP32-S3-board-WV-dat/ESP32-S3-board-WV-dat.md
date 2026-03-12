@@ -6,8 +6,9 @@
 
 - [[NWI1243-dat]] - [[NWI1249-dat]] - [[ESP32-S3-DevKitC-1-dat]] - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-WV-dat]]
 
+- [[ESP32-S3-board-VCC-dat]] - [[ESP32-S3-board-dat]]
 
-WV-V 
+## WV-V 
 
 ![](2025-10-28-16-58-01.png)
 

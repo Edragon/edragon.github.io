@@ -11,9 +11,9 @@
 
 - PIC18F2550
 
-PIC18F97J60-I/PF - PIC PIC    18J Microcontroller IC 8-Bit 41.667MHz 128KB (64K x 16)
+PIC18 F97J60-I/PF - PIC PIC    18J Microcontroller IC 8-Bit 41.667MHz 128KB (64K x 16)
 
-
+PIC18 F4685
 
 ## PIC16 series 
 

@@ -2,7 +2,17 @@
 # IDD1013-DAT
 
 
+- [[ESP32-dat]] - [[HUB75-dat]] - [[RGB-matrix-driver-da]]
+
+- [[MPC1073-dat]]
+
+- Pin Definitions, Product Series please refer to page - [[RMP-driver-dat]]
+
+- display panel here - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
+
+
 ## info 
+
 ![](2022-07-26-17-41-46.png)
 
 ![](58-08-22-29-03-2023.png)
@@ -10,6 +20,9 @@
 - DMA version 
 - https://w.electrodragon.com/w/ESP32_DMA_RMP
 - https://www.electrodragon.com/product/rgb-matrix-panel-drive-interface-board-for-esp32-dma/
+
+
+
 
 
 ## Versions:

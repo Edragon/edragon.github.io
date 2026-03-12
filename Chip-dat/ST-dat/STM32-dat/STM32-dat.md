@@ -25,14 +25,16 @@
 - STM32F401CCU6 
 
 
-## STM32-F0x
+## STM32 F0x0
 
 - 030
 - 042
 - 070
 
 
+## STM32 G070 
 
+STM32 G070CBT6
 
 ## Boards 
 
