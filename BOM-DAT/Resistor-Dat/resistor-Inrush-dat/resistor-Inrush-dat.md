@@ -1,5 +1,12 @@
 
-# Inrush-resistor-dat
+# resistor-Inrush-dat
+
+== PTC
+
+- [[resistor-dat]] - [[resistor-Inrush-dat]] - [[thermistor-dat]]
+
+
+
 
 ## 🔍 Purpose of 2W 300Ω Resistor Before LM317 Input
 

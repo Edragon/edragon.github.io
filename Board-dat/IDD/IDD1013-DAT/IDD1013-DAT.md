@@ -174,3 +174,5 @@ Downgrade your ESP32 board package to version 2.0.17 which is compatible with th
 - [[CCO3546-dat]] - [[RMP-driver-dat]]
 
 - [[ESP32-hub75]]
+
+- [[IDD1013-dat]] - [[IDD1013]]

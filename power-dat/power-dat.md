@@ -42,9 +42,9 @@
 
 1. design: [[power-dat]] 
 
-1. consider power jack [[power-jack-dat]]
+1. consider power jack [[CONN-power-jack-dat]]
 
-2. [[power-protection-dat]]
+2. [[protection-power-dat]]
 
 
 ## over power protocols 

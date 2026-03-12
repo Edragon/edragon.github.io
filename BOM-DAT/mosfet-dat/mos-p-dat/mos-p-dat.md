@@ -21,6 +21,8 @@
 | OFF  | ON     | -      | -     |
 | ON   | OFF    | -      | -     |
 
+
+
 ## high-side drive by P-mos
 
 To use a P-channel MOSFET (P-MOS), you should use it as a high-side switch.

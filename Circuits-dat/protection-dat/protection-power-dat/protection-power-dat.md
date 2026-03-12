@@ -10,21 +10,26 @@
 
 - [[ac-mains-dat]]
 
+
+- [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
+
+
 ## Power Protection 
 
 - overload
-- short-circuit-protection - [[SCP-protection-dat]]
+- short-circuit-protection - [[SCP-protection-dat]] - [[fuse-dat]]
 
-- over-current protection. - [[OCP-protection-dat]]
-- over-temperature protection == overheat - [[OTP-protection-dat]]
-- over-voltage protection - [[OVP-protection-dat]]
-- reverse-direction protection - ? [[RDP-protection-dat]]
+- over-current protection. - [[OCP-protection-dat]] - [[fuse-dat]]
+- over-temperature protection == overheat - [[OTP-protection-dat]] - [[resistor-dat]] - [[resistor-Inrush-dat]] - [[thermistor-dat]]
 
+- over-voltage protection - [[OVP-protection-dat]] - [[TVS-dat]]
+- reverse-direction protection - ? [[RDP-protection-dat]] - [[mosfet-dat]]
 
+- inrush + anti-reverse protection 
 
 - [[power-protection-Vmotor-dat]] - [[battery-protection-dat]]
 
-- inrush + anti-reverse protection 
+- discharge == [[resistor-dat]]
 
 
 

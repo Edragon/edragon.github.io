@@ -1,6 +1,9 @@
 
 # ESP32-S3-Board-DAT
 
+- [[ESP32-S3-board-dat]] - [[ESP32-S3-chip-dat]] - [[ESP32-S3-module-dat]]
+
+
 - [[ESP32-S3-APP-dat]]
 
 - [[peripherals-dat]]
@@ -48,6 +51,11 @@ ESP32-S3-ETH plus
 
 ![](ESP32-S3-ETH-Schematic.png)
 
+
+
+## app boards 
+
+- [[IDD1013-dat]]
 
 
 
