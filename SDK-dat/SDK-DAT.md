@@ -23,6 +23,7 @@
 
 - [[java-dat]] - [[Eclipse-dat]]
 
+- [[openocd-dat]]
 
 
 ## VS-code
