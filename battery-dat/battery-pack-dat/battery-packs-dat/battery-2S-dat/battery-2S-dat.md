@@ -2,6 +2,9 @@
 
 - [[battery-pack-dat]]
 
+- [[2S-lithium-battery-charger-dat]]
+
+
 
 ## charge solutions 
 
@@ -13,26 +16,10 @@
 
 - [[hycontek-dat]]
 
-## BMS 
+- [[battery-protector-dat]] - [[battery-protector-2s-dat]]
 
-![](2026-02-12-20-52-35.png)
+- [[battery-charger-dat]] - [[battery-charger-2s-dat]]
 
-![](2026-02-12-21-10-52.png)
-
-
-![](2026-02-12-17-58-35.png)
-
-
-
-
-
-
-![](2026-02-12-17-58-49.png)
-
-
-## wiring 
-
-![](2026-02-12-17-59-08.png)
 
 
 

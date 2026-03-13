@@ -6,6 +6,8 @@
 
 - [[battery-tools-dat]]
 
+
+
 ## BMS 
 
 - [[battery-BMS-dat]] - [[active-BMS-dat]] - [[passive-BMS-dat]] - [[protection-battery-dat]] - [[protection-dat]]
@@ -18,7 +20,7 @@
 
 - [[sensor-voltage-dat]]
 
-
+- [[voltage-low-alarm-dat]] - [[voltage-dat]]
 
 ## types 
 
@@ -35,10 +37,13 @@
 - [[battery-protection-dat]]
 
 
-- [[li-battery-dat]] - [[li-battery-app-dat]] - [[18650-dat]]
+- [[battery-li-dat]] - [[li-battery-app-dat]] - [[18650-dat]]
 
 
 - [[battery-pack-dat]] - [[battery-holder-dat]] - [[battery-packs-dat]]
+
+- [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - [[battery-5s-dat]] - [[battery-6s-dat]]
+
 
 - [[battery-charger-dat]] - [[2S-lithium-battery-charger-dat]] - [[battery-discharge-dat]]
 
