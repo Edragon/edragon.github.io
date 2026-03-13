@@ -6,6 +6,8 @@
 
 ![](17-10-17-21-06-2023.png)
 
+- [[SCU1030-dat]] - [[SG90-dat]]
+
 - Model: SG90 
 - Weight 13 grams Angle 
 - 90-180 degrees universal
@@ -43,14 +45,7 @@
 
 
 
-## TS90 
-
-- TS90A motor gears are made of metal, ensuring smooth rotation and preventing deformation under heat.
-- TS90A potentiometer gear shafts are also made of metal, resisting deformation under stress.
-- TS90A gears have stop points for limiting movement.
-
-
 
 ## ref 
 
-- [[servo-dat]]
+- [[motor-servo-dat]]

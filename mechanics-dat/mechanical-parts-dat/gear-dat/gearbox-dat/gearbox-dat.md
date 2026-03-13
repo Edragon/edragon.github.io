@@ -12,6 +12,10 @@
 
 ## type of gearbox 
 
+
+- [[motor-servo-dat]] - [[gearbox-dat]] == - [[SG90-dat]]
+
+
 ### Planetary Gearbox: 
 
 These are highly efficient and keep the output shaft in line with the motor shaft. They are great for high-torque applications like robotics or electric vehicles.
