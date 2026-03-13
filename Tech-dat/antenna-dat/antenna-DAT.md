@@ -22,7 +22,7 @@ type of antennas by connector == - [[CONN-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX
 
 - [[impedance-dat]] - [[antenna-dat]] - [[antenna-HDK-dat]]
 
-
+- [[antenna-wifi-dat]] - [[antenna-dat]]
 
 
 

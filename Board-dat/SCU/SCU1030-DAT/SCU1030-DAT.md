@@ -41,6 +41,16 @@
 - Scope of application Small and medium-sized electric model airplanes and other models.
 
 
+
+
+## TS90 
+
+- TS90A motor gears are made of metal, ensuring smooth rotation and preventing deformation under heat.
+- TS90A potentiometer gear shafts are also made of metal, resisting deformation under stress.
+- TS90A gears have stop points for limiting movement.
+
+
+
 ## ref 
 
 - [[servo-dat]]
