@@ -1,7 +1,7 @@
 # battery-charge-dat
 
 
-- [- [[battery-protector-1s-dat]] - [[battery-charger-1s-dat]] - [[battery-1s-dat]]
+- [[battery-protector-1s-dat]] - [[battery-charger-1s-dat]] - [[battery-1s-dat]]
 
 - [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-packs-dat]]
 
@@ -23,7 +23,7 @@ The most following charger options are for the lithium-ion battery
 - [[battery-1S-dat]] - [[battery-2S-dat]] - [[battery-3S-dat]] - [[battery-4S-dat]] - [[battery-5S-dat]] - [[battery-packs-dat]]
 
 
-- [[BMS-dat]]
+- [[battery-BMS-dat]] - [[BMS-passive-dat]]
 
 - [[battery-pack-dat]]
 
