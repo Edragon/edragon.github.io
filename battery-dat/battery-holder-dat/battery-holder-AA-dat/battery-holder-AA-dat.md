@@ -1,5 +1,5 @@
 
-# AA-battery-holder-dat 
+# battery-holder-AA-dat
 
 
 - [[battery-AA-dat]] - [[battery-size-dat]]
@@ -11,6 +11,24 @@
 
 
 
+## 1x battery-holder-AA-dat
+
+### 1x PCB clip type 
+
+![](2024-03-28-18-04-58.png)
+
+
+
+
+
+## 2x battery-holder-AA-dat
+
+
+### PCB PTH soldering holder 
+
+![](2024-09-22-00-21-47.png)
+
+
 ## 3X AA battery holder 
 
 == 1.5*3 = 4.5V 
@@ -18,13 +36,7 @@
 ![](2025-05-08-18-06-19.png)
 
 
-## PCB type 
 
-![](2024-03-28-18-04-58.png)
-
-## PCB PTH soldering 
-
-![](2024-09-22-00-21-47.png)
 
 
 ## cylindar battery holder 

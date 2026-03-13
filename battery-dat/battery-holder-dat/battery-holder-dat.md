@@ -4,7 +4,7 @@
 
 - [[battery-dat]]
 
-- [[CR2032-holder-dat]] - [[AA-battery-holder-dat]] 
+- [[CR2032-holder-dat]] - [[battery-holder-AA-dat]] 
 
 - [[battery-size-dat]] - [[18650-dat]] - [[18350-dat]] - [[26650-dat]] - [[14450-dat]]
 
@@ -31,3 +31,5 @@
 ## ref 
 
 - [[battery-dat]]
+
+- [[battery]] - [[battery-holder]]
