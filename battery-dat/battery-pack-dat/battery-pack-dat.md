@@ -28,6 +28,23 @@
 - soldering by [[spot-welding-dat]]
 
 
+
+## how to choose correct battery pack 
+
+- [[battery-packs-dat]] - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - [[battery-5s-dat]] - [[battery-6s-dat]] - [[battery-7s-dat]] - [[battery-10s-dat]] - [[battery-13s-dat]] - [[battery-14s-dat]]
+
+- [[battery-size-dat]] - [[battery-holder-dat]]
+
+If your device needs a peak of 40 Watts:
+
+- At 3.7V (1S): The battery must push \approx `10.8A`.
+- At 7.4V (2S): The batteries only need to push \approx `5.4A`.
+
+so for high current, always GOOD to use higher voltage pack 
+
+
+
+
 ## battery pack examples 
 
 - 48V 15Ah == 703 RMB - - [[32125-dat]] [[li-battery-dat]]  
