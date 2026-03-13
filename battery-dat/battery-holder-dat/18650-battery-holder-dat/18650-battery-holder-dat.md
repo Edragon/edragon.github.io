@@ -1,5 +1,5 @@
 
-# 18650-battery-holder-dat
+# battery-holder-18650-dat
 
 
 
@@ -48,3 +48,5 @@
 ## ref 
 
 - [[battery-dat]]
+
+- [[battery-holder]] - [[battery-holder-18650]]
