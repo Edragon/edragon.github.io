@@ -5,40 +5,28 @@
 
 
 
-- [[ti-power-dat]] - [[ti-power-dcdc-down-dat]] - [[ti-battery-charger-dat]] - [[ti-power-dcdc-boost-dat]] 
+- [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-battery-charger-dat]] - [[ti-power-dcdc-boost-dat]] 
 
 - [[power-dat]] - [[battery-dat]]
 
-
+- [[dcdc-down-dat]]
 
 
 ## buck regulator 
 
+TPS62933DRLR SOT-5X3-8 3.8V至30V、3A 低IQ 同步降压转换器
+
+
+贴片 TPS61088RHLR QFN-20 10A 同步升压转换器芯片
+
+TPS56637RPAR VQFN-10具有ULQ-Mode的4.5V至28V 6A降压转换器
+
+
+- [[TPS54560-dat]] 30V 5V
+
 - [[TPS62088-dat]]
 
-## TPS5450
-
 - [[TPS5450-dat]]
-
-TPS5450 5-A, Wide Input Range, Step-Down Converter
-
-
-1 Features
-
-- • Wide input voltage range: 5.5 V to 36 V
-- • Up to 5-A continuous (6-A peak) output current
-- • High efficiency greater than 90% enabled by 110- mΩ integrated MOSFET switch
-- • Wide output voltage range: adjustable down to 1.22 V with 1.5% initial accuracy
-- • Internal compensation minimizes external part count
-- • Fixed 500-kHz switching frequency for small filter size
-- • 18-μA shutdown supply current
-- • Improved line regulation and transient response by input voltage feedforward
-- • System protected by overcurrent limiting, overvoltage protection, and thermal shutdown
-- • –40°C to 125°C operating junction temperature range
-- • Available in small thermally enhanced 8-pin SOIC PowerPAD™ package
-
-
-
 
 
 - [[TPS54302-dat]] == TPS54302 4.5-V to 28-V Input, 3-A Output, EMI-Friendly Synchronous Step-Down Converter

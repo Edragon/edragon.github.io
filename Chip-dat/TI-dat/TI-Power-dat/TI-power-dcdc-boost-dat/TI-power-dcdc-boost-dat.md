@@ -7,6 +7,10 @@
 
 # TI-Power-dcdc-boost-dat
 
+
+TPS61023DRLR SOT-5X3-6具有0.5V低输入电压的3.7A升压转换器
+
+
 - [[TPS6123x-dat]] - [[TI-power-dcdc-boost-dat]]
 
 - [[power-bank-dat]]

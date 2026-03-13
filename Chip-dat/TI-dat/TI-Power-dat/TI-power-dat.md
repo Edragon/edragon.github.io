@@ -2,7 +2,10 @@
 # TI-power-dat
 
 
-- [[ti-power-dcdc-boost-dat]]
+- [[ti-power-dcdc-boost-dat]] - [[TI-power-dcdc-down-dat]]
+
+
+
 
 ## battery charger 
 

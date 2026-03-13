@@ -6,6 +6,14 @@
 
 
 
+
+## build solution == removable and 1S charge 
+
+![](2026-03-13-17-44-38.png)
+
+
+![](2026-03-13-17-52-40.png)
+
 ## charge solutions 
 
 - [[IP2326-dat]] - [[IP236x-dat]] - [[injoinic-dat]]
