@@ -24,6 +24,26 @@
 ## 2x battery-holder-AA-dat
 
 
+### PCB clip 
+
+product list 
+
+![](2026-03-13-19-55-32.png)
+
+back side 
+
+![](2026-03-13-19-51-31.png)
+
+
+connected side == series connection side 
+
+![](2026-03-13-19-51-43.png)
+
+seperated side == output side 
+
+![](2026-03-13-19-51-57.png)
+
+
 ### PCB PTH soldering holder 
 
 ![](2024-09-22-00-21-47.png)
@@ -47,4 +67,4 @@
 
 ## ref 
 
-- [[AA-battery-holder]]
+- [[battery-holder-AA]]
