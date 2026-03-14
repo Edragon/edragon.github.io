@@ -13,7 +13,7 @@
 
 - [[USB-driver-dat]] - [[libusb-dat]]
 
-- [[USB-cable-dat]] - [[USB-ESD-dat]] 
+- [[cable-USB-dat]] - [[USB-ESD-dat]] 
 
 - [[CONN-USB-dat]] - [[conn-dat]]
 
@@ -41,7 +41,9 @@
 
 ## USB variations 
 
-- [[USB-2.0-dat]] - [[usb-type-c-dat]]
+- [[usb-type-c-dat]]
+
+- [[USB-2.0-dat]] - [[USB-3.0-dat]]
 
 - [[lightning-dat]]
 
