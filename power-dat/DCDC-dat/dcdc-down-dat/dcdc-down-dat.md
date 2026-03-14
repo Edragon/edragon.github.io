@@ -2,6 +2,7 @@
 
 - [[dcdc-down]] - [[LDO-dat]]
 
+- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[constant-current-dat]] - [[CV&CC-dat]] 
 
 
 ## chip and companies
