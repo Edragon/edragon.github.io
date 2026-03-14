@@ -1,11 +1,28 @@
 
 # linear-technology-dat
 
+
+## filter 
+
+LTC1060 - Universal Dual Filter Building Block
+
+The LTC® 1060 consists of two high performance, switched capacitor filters. 
+
+Each filter, together with 2 to 5 resistors, can produce various 2nd order filter functions such as lowpass, bandpass, highpass notch and allpass. 
+
+The center frequency of these functions can be tuned by an external clock or by an external clock and resistor ratio. Up to 4th order full biquadratic functions can be achieved by cascading the two filter blocks. 
+
+Any of the classical filter configurations (like Butterworth, Chebyshev, Bessel, Cauer) can be formed.
+
+
+## bandgap reference
+
 LT1460 - Micropower Precision Series Reference Family
 
 The LT®1460 is a micropower bandgap reference that combines very high accuracy and low drift with low power dissipation and small package size. 
 
 
+## Power 
 
 LT1963A Series - 1.5A, Low Noise, Fast Transient Response LDO Regulators
 
@@ -13,6 +30,7 @@ LT1963A Series - 1.5A, Low Noise, Fast Transient Response LDO Regulators
 LT3029 - Dual 500mA/500mA Low Dropout, Low Noise, Micropower Linear Regulator
 
 
+## Coulomb Counter
 
 Coulomb Counter/Battery Gas Gauge - [[LTC4150-dat]] 
 
