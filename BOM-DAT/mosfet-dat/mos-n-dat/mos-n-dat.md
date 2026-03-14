@@ -2,6 +2,9 @@
 # n-mos-dat
 
 
+- [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
+
+
 - [[vishay-dat]]
 
 
@@ -25,7 +28,8 @@
 
 NCE6050KA - The NCE6050KA is a 60V, 50A N-channel enhancement mode power MOSFET from NCE Power, typically available in a TO-252 (DPAK) surface-mount package. It features low on-resistance and is designed for high-current applications such as power switching, motor drivers, and industrial systems.
 
-SI2302DS
+`SI2302DS` == N-Channel 20 V (D-S) MOSFET
+
 
 SI2304
 
@@ -36,6 +40,9 @@ SI2308 A8SHB MOS管 N沟道场效应管晶体管
 RQ3E080BNTB
 
 AO3400A
+
+
+`P3055LDG` - T0-252 (DPAK) - Lead-Free == 25V / 12A == `NIKO-SEM` - N-Channel Logic Level Enhancement Mode Field Effect Transistor
 
 ## dual mos-N 
 

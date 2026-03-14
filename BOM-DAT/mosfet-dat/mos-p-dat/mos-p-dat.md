@@ -1,7 +1,7 @@
 
 # P-MOS-dat
 
-- [[mosfet-dat]]
+- [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
 
 
 
@@ -13,6 +13,13 @@
 
 
 ## parts 
+
+- [[Alpha-omega-dat]]
+
+- `AO4407A` == 30V P-Channel MOSFET == SOP8
+    - VDS = -30V
+    - ID = -12A
+
 
 - [[AO3401-dat]]
 

@@ -13,11 +13,14 @@
 
 - [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-packs-dat]]
 
+
+
+
 ## workaround 
 
 - 1x 18650 
-- 2x 18350
-- 2x 14500
+- 2x parallel 18350
+- 2x parallel 14500
 
 ## BMS protection 
 

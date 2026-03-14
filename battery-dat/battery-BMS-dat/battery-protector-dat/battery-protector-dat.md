@@ -13,7 +13,7 @@
 - [[battery-protector-primary-dat]] - [[battery-protector-secondary-dat]] -[[battery-balance-dat]]
 
 
-
+- [[battery-protector-3s-dat]] - [[battery-protector-dat]]
 
 ## full protector 
 

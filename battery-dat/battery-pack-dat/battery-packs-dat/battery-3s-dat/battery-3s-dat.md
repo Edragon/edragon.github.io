@@ -8,39 +8,21 @@
 
 - [[battery-BMS-dat]]
 
-## solutions 
+- [[battery-protector-3s-dat]] - [[battery-protector-dat]]
+
+
+
+- [[battery-3s-dat]] - [[battery-protector-3s-dat]] - [[battery-charger-3s-dat]] - [[battery-charger-dat]]
+
+
+
+
+## general solutions 
 
 - [[IP2326-dat]] - [[IP236x-dat]] - [[injoinic-dat]]
 
 - [[CN3300-dat]] - [[CN3306-dat]] - [[Consonance-dat]]
 
-
-
-## version 3 
-
-![](2026-02-12-21-32-20.png)
-
-
-normal and balanced version
-
-![](2026-02-12-21-33-09.png)
-
-
-## version 2 
-
-![](2026-02-12-21-29-27.png)
-
-- B254 
-
-
-## wiring 
-
-
-- [[DW01-dat]] - [[chip-unsort-dat]]
-
-![](2026-02-12-20-51-16.png)
-
-![](2026-02-12-18-09-17.png)
 
 
 
