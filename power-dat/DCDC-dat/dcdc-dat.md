@@ -8,11 +8,7 @@
 
 - [[dcdc-inverting-regulator-dat]]
 
-
-
-## ref 
-
-- [[dcdc]]
+- [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[power-dat]]
 
 
 # DC-dat
@@ -40,6 +36,9 @@ legacy wiki page - https://w.electrodragon.com/w/Category:DC-DC#Schematic
 
 - [[high-voltage-dat]]
 
+
+
 ## ref 
 
+- [[dcdc]]
 

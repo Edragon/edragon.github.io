@@ -44,6 +44,14 @@ inner and outter pair
 ![](2026-03-06-17-06-34.png)
 
 
+just more nice examples 
+
+![](2026-03-14-13-18-38.png)
+
+double planetary gearbox 
+
+![](2026-03-14-13-18-54.png)
+
 ### Worm Gearbox: 
 
 These provide massive reduction in a small space (e.g., 60:1) and have a "self-locking" feature, meaning the output shaft won't turn unless the motor is spinning.
