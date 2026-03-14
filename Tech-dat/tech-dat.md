@@ -93,7 +93,7 @@
 
 - [[RFID-dat]] - [[NFC-dat]]
 
-- [[ethernet-dat]] - [[USB-dat]]
+- [[ethernet-dat]] - [[USB-SDK-dat]]
 
 - [[bluetooth-dat]] - [[ble-dat]] - [[bt-audio-dat]]
 
