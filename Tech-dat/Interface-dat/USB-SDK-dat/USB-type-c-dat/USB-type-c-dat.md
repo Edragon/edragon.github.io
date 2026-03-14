@@ -14,6 +14,8 @@
 
 - [[fast-charge-protocols-dat]] - [[USB-PD-dat]]
 
+- [[USB-OTG-dat]]
+
 ## apps 
 
 - [[type-c-to-ethernet-dat]]
