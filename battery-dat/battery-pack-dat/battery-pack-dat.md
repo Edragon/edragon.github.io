@@ -27,6 +27,9 @@
 
 - soldering by [[spot-welding-dat]]
 
+## accessories
+
+- [[sensor-dc-voltage-dat]]
 
 
 ## how to choose correct battery pack 

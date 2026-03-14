@@ -12,6 +12,14 @@
 - [[sensor-dc-voltage-dat]] - [[sensor-dc-current-dat]] - [[multimeter-dat]]
 
 
+
+## board / gadget 
+
+- [[meter-voltage-dat]] - [[meter-current-dat]]
+
+- [[meter-resistance-dat]] - [[multimeter-dat]]
+
+
 ## battery read 
 
 ![](2026-02-10-16-41-40.png)
