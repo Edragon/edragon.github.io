@@ -66,6 +66,7 @@ negotiation capabilities.
 
 ![](2026-03-15-02-05-38.png)
 
+![](2026-03-15-02-10-41.png)
 
 USB-C Single CC Wire Behavior (CC1 only)
 
@@ -81,7 +82,34 @@ Since there is no CC2 wire to provide "redundancy," the cable is only active in 
 
 - **High Power:** It is unlikely to support ultra-fast "Extended Power Range" (like 100W+) because those high-wattage cables require an "E-Marker" chip that usually communicates across both CC channels or needs a specific wiring standard
 
+## 5-pin SBU cable USB 
+
+![](2026-03-15-02-10-59.png)
+
+USB-C (Power + Sideband) Cable Signal Reference
+
+This cable is optimized for Power Delivery and Analog Sideband signals. 
+
+It lacks standard USB 2.0/3.0 data wires.
+
+### 1. Power & Logic
+- **VCC (VBUS)**: Main power rail. High-current capable.
+- **GND**: Common ground for power and logic.
+
+### 2. Configuration (The "Smart" Part)
+- **CC1 / CC2**: Configuration Channels. These allow the cable to:
+  - Work in any orientation (no "flipping" required).
+  - Negotiate high current (up to 3A or 5A) from PD power banks.
+
+### 3. SBU (Sideband Use)
+- **SBU1 / SBU2**: These are auxiliary wires. 
+  - **In Audio:** They often carry microphone or ground signals for headsets.
+  - **In Video:** They carry the "handshake" data for DisplayPort.
+  - **In DIY:** These can be used as extra signal wires for sensors, 
+    but they are very thin and NOT for power.
+
 
 
 ## ref 
 
+- [[cable-USB-type-c]] - [[cable-USB]]
