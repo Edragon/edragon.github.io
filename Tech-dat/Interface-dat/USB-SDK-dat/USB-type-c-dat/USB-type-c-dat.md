@@ -16,6 +16,8 @@
 
 - [[USB-OTG-dat]]
 
+- [[displayport-dat]] - [[audio-dat]]
+
 ## apps 
 
 - [[type-c-to-ethernet-dat]]
@@ -133,6 +135,64 @@ If you are DIY-ing a power source and want the phone to recognize the 5V supply,
 #### ⚠️ Potential Risks
 * **Voltage Sag:** If your 5V source isn't stable, the phone might repeatedly connect and disconnect as the voltage drops under load.
 * **Heat:** Cheap DIY connections can have high resistance, leading to heat at the connector.
+
+
+### SBU SDK info 
+
+Repurposing USB-C SBU Wires
+
+In the USB-C standard, **SBU1** and **SBU2** are "extra" wires. While they were originally intended for DisplayPort or Analog Audio, they are perfect for adding custom features to a small robot like your [[ESP32-S3-dat]] quadruped. - [[robotic-dat]]
+
+#### 1. Electrical Constraints (Safety First)
+| Constraint | Limit | Reason |
+| :--- | :--- | :--- |
+| **Max Voltage** | **3.3V** | SBU wires connect to ESP32 GPIOs; 5V will fry them. |
+| **Max Current** | **< 50mA** | These wires are extremely thin (30-32 AWG). |
+| **Best For** | **Logic Signals** | Buttons, I2C, UART, or Analog Sensors. |
+| **Avoid** | **Power Delivery** | Never use SBU to power servos or bright LEDs. |
+
+---
+
+#### 2. Practical DIY Examples
+
+##### A. External "Kill-Switch" (Safety)
+If your robot's gait code fails and it starts running into a wall:
+- **Wiring:** Connect a button between **SBU1** and **GND** at the cable end.
+- **Code:** Set the ESP32 pin to `INPUT_PULLUP`. 
+- **Action:** If the pin goes `LOW`, the code stops all servos immediately.
+
+##### B. Remote I2C Debugging Screen
+Since your robot is small and space is limited, you can keep the screen outside the robot:
+- **Wiring:** Use **SBU1 for SDA** and **SBU2 for SCL**.
+- **Usage:** Connect a tiny 0.91" OLED display to the end of your USB cable.
+- **Benefit:** You can read real-time "Leg Degrees" or "Battery Voltage" while the robot moves.
+
+##### C. Remote "Boot" or "Reset" Button
+If the ESP32-S3 is hidden inside a chassis:
+- **Wiring:** Connect **SBU1** to the **EN (Reset)** pin or **BOOT (GPIO 0)** pin.
+- **Benefit:** You can put the robot into "Upload Mode" or Reset it without opening the shell.
+
+---
+
+#### 3. Using SBU for Audio (Important Logic)
+While a PC will not "read" analog audio from SBU pins automatically, you can 
+build a custom point-to-point system:
+
+- **Legacy Audio Mode:** In custom hardware, **SBU1** is often used for the 
+  **Microphone** signal and **SBU2** for **Analog Ground**.
+- **DIY Implementation:** 1. Send a low-voltage analog signal from a microphone through SBU1.
+  2. Use an ADC (Analog-to-Digital Converter) pin on the ESP32-S3 to read it.
+  3. **Note:** You must use a **0.1µF capacitor** to filter out the electrical 
+     noise caused by your SG90 servos, as they share the same ground.
+
+---
+
+#### 4. How to Identify SBU Wires
+Since manufacturers use different colors, use a Multimeter in "Continuity Mode":
+1. Touch one probe to **Pin A8 (SBU1)** or **Pin B8 (SBU2)** on the USB-C plug.
+2. Touch the other probe to the stripped wires until you hear a "Beep."
+3. **Label them immediately** with tape to avoid mixing them up with VCC/GND.
+
 
 ## ref 
 
