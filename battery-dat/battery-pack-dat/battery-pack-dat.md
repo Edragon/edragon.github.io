@@ -31,6 +31,12 @@
 
 - [[sensor-dc-voltage-dat]]
 
+- [[meter-voltage-dat]] - [[meter-current-dat]]
+
+- [[cable-power-dat]]
+
+- [[12V-dat]] - [[5V-dat]] - [[9V-dat]]
+
 
 ## how to choose correct battery pack 
 

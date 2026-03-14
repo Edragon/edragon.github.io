@@ -3,6 +3,15 @@
 # cable-power-dat
 
 
+
+## voltage convert cable 
+
+- [[12V-dat]] - [[5V-dat]] - [[9V-dat]]
+
+- [[cable-power-dat]] [[PCA1094-dat]] - [[PCA1093-dat]] - [[PCA1092-dat]] - [[PCA1091-dat]]
+
+
+
 ## DC barrel jack
 
 - [[CONN-power-dat]] - [[CONN-DC-barrel-jack-dat]]
