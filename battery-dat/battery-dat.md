@@ -46,7 +46,7 @@
 - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - [[battery-5s-dat]] - [[battery-6s-dat]]
 
 
-- [[battery-charger-dat]] - [[2S-lithium-battery-charger-dat]] - [[battery-discharge-dat]]
+- [[battery-charger-dat]] - [[battery-charger-2s-dat]] - [[battery-discharge-dat]]
 
 - [[battery-alkaline-dat]] - [[battery-9V-dat]]
 

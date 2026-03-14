@@ -33,7 +33,7 @@
 
 ![](2025-05-08-18-07-17.png)
 
-- [[2S-lithium-battery-charger-dat]]
+- [[battery-charger-2s-dat]] 
 
 
 

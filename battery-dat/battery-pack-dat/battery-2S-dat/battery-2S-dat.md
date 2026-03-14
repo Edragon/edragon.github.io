@@ -2,8 +2,12 @@
 
 - [[battery-pack-dat]]
 
-- [[2S-lithium-battery-charger-dat]]
 
+- [[battery-charger-2s-dat]]
+
+## Simple 1S to 2S management Solutions 
+
+![](2025-05-12-16-09-09.png)
 
 
 

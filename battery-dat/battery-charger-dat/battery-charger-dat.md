@@ -18,7 +18,8 @@ https://w.electrodragon.com/w/Category:Battery_Charge
 
 The most following charger options are for the lithium-ion battery
 
-- [[2S-lithium-battery-charger-dat]]
+- [[battery-charger-2s-dat]] - [[2S-lithium-battery-charger-dat]]
+
 
 - [[battery-1S-dat]] - [[battery-2S-dat]] - [[battery-3S-dat]] - [[battery-4S-dat]] - [[battery-5S-dat]] - [[battery-packs-dat]]
 

@@ -8,7 +8,7 @@
 
 
 
-- [[2S-lithium-battery-charger-dat]]
+- [[battery-charger-2s-dat]]
 
 
 How Passive Balancing Works: "Bleeding off the Top"
