@@ -18,6 +18,9 @@ for [[ESP32-S3-dat]] - [[ESP32-dat]] - [[HDK-dat]] - [[peripherals-dat]] - [[int
 - [[wifi-dat]] - [[antenna-wifi-dat]] - [[antenna-dat]]
 
 
+- [[ESP32-C6-dat]]
+
+
 ## board 
 
 - [[ESP32-S3-Board-DAT]]
