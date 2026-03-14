@@ -7,4 +7,21 @@
 - [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-packs-dat]]
 
 
+## simutaniously charge and use 
+
+- [[ETA-solutions-dat]]
+
+- [[injoinic-dat]] - [[IP5306-dat]]
+
+
+
+
+## chip 
+
+
+
+
 - most common used but maybe not the best == [[TP4056-dat]] - [[TP-dat]]
+
+
+

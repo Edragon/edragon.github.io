@@ -3,6 +3,20 @@
 
 - [[battery-charger-dat]] - [[ETA-solutions-dat]]
 
+- [[battery-charger-1s-dat]]
+
+## apps 
+
+- [[power-UPS-dat]] - [[power-bank-dat]]
+
+
+## chip 
+
+- [[ETA9640-dat]]
+
+## ETA6093
+
+
 ETA6093 - 1.2A Switching Charger and 1.2A Boost in One Sot23-5 with Single Inductor
 
 
@@ -28,3 +42,7 @@ APPLICATIONS
 -  Tablet, MID
 -  Smart Phone
 -  Power Bank
+
+
+
+## ref 

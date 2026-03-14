@@ -1,6 +1,7 @@
 
 # P-MOS-dat
 
+
 - [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
 
 
@@ -13,6 +14,10 @@
 
 
 ## parts 
+
+
+
+
 
 - [[Alpha-omega-dat]]
 
@@ -29,9 +34,10 @@
 - IRF4905
 - IRF9540N
 
-SI4435 - SOIC-8 P沟道 -30V/-8.1A 贴片MOSFET
+`SI4435` - SOIC-8 P沟道 -30V/-8.1A 贴片MOSFET
 
-SI2307
+`SI2307` - P-CHANNEL MOSFET == 2.7A -30V == `A7SHB` 
+
 
 IRLML6402TRPBF
 
