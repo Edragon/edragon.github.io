@@ -1,6 +1,13 @@
 
 # antenna-whip-dat
 
+
+type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] 
+
+
+
+== antenna rod 
+
 - **Type:** Whip Antenna (Monopole)
 
 - **Features:**
@@ -14,6 +21,20 @@
     - Cost-effective
   - Appearance:
     - Slim vertical rod inside heat shrink tubing
+
+
+
+
+## antenna shape, size and gain 
+
+| type     | rod                          | paddle                       |
+| -------- | ---------------------------- | ---------------------------- |
+| style    | ![](2023-10-27-15-41-39.png) | ![](2023-10-27-15-42-27.png) |
+| gain     | 2dbi                         | 8dbi                         |
+| Features | -                            | foldable                     |
+
+
+
 
 
 ## ref 

@@ -19,7 +19,7 @@
 
 ## tutorial
 
-how to use single [[TP4056-dat]] to charge - [[2S-lithium-battery-charger-dat]]
+how to use single [[TP4056-dat]] to charge - [[battery-charger-2s-dat]] - [[2S-lithium-battery-charger-dat]]
 
 ## Parameters 
 

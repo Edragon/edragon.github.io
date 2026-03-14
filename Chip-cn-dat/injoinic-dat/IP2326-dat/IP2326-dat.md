@@ -3,9 +3,9 @@
 
 - IP2326 - 支持 15W 快充的 2 节/3 节串联锂电池升压充电 IC == Boost Charging IC for 2/3 Serial Lithium Battery With 15W Fast Charge
 
-- [[passive-BMS-dat]]
+- [[BMS-passive-dat]]
 
-- [[battery-2s-dat]] - [[battery-3s-dat]] 
+- [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-dat]]
 
 - [[IP2326-dat]] - [[injoinic-dat]]
 
@@ -33,6 +33,13 @@
 SCH 
 
 ![](2026-02-12-18-36-51.png)
+
+
+## board 
+
+![](2026-03-13-15-41-01.png)
+
+
 
 ## ref 
 

@@ -6,13 +6,12 @@
 - [[VSWR-dat]] - [[bands-dat]] - [[frequency-dat]]
 
 
-- [[antenna-type-dat]] - [[antenna-design-dat]]
+- [[antenna-type-dat]] - [[antenna-design-dat]] - [[antenna-HDK-dat]]
 
-type of antennas by shape == [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] 
+type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] 
 
 type of antennas by power == [[antenna-active-dat]] - [[antenna-passive-dat]]
 
-type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]] - [[GSM-antenna-GPS-dat]] - [[antenna-RF-dat]] - [[antenna-2.4G-dat]]
 
 type of antennas by connector == - [[CONN-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]] - [[antenna-UFL-dat]]
 
@@ -22,7 +21,11 @@ type of antennas by connector == - [[CONN-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX
 
 - [[impedance-dat]] - [[antenna-dat]] - [[antenna-HDK-dat]]
 
+- [[antenna-wifi-dat]] - [[antenna-dat]]
 
+type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]] - [[GSM-antenna-GPS-dat]] - [[antenna-RF-dat]] - [[antenna-2.4G-dat]]
+
+- [[antenna-function-dat]] - [[antenna-location-dat]] - [[antenna-wifi-dat]]
 
 
 
@@ -63,13 +66,6 @@ SMA to IPEX converter cable
 
 - [[antenna-design-dat]]
 
-## antenna shape, size and gain 
-
-| type     | rod                          | paddle                       |
-| -------- | ---------------------------- | ---------------------------- |
-| style    | ![](2023-10-27-15-41-39.png) | ![](2023-10-27-15-42-27.png) |
-| gain     | 2dbi                         | 8dbi                         |
-| Features | -                            | foldable                     |
 
 
 ## Connection Type 

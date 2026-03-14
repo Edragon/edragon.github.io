@@ -42,7 +42,7 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 
 - cheaper alternatives == [[BL24C256-dat]] in [[beling-dat]]
 
-
+`24AA04`/24LC04B/24FC04 - 4K I2C Serial EEPROM
 
 ## unsort 
 

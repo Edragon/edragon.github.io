@@ -3,7 +3,7 @@
 
 
 
-- [[battery-holder-dat]] - [[18650-battery-holder-dat]] - [[AA-battery-holder-dat]]
+- [[battery-holder-dat]] - [[18650-battery-holder-dat]] - [[battery-holder-AA-dat]]
 
 - [[battery-pack-dat]] - [[battery-pack-kit-dat]]
 
@@ -27,6 +27,32 @@
 
 - soldering by [[spot-welding-dat]]
 
+## accessories
+
+- [[sensor-dc-voltage-dat]]
+
+- [[meter-voltage-dat]] - [[meter-current-dat]]
+
+- [[cable-power-dat]]
+
+- [[12V-dat]] - [[5V-dat]] - [[9V-dat]]
+
+
+## how to choose correct battery pack 
+
+- [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - [[battery-5s-dat]] - [[battery-6s-dat]] - [[battery-7s-dat]] - [[battery-10s-dat]] - [[battery-13s-dat]] - [[battery-14s-dat]]
+
+- [[battery-size-dat]] - [[battery-holder-dat]]
+
+If your device needs a peak of 40 Watts:
+
+- At 3.7V (1S): The battery must push \approx `10.8A`.
+- At 7.4V (2S): The batteries only need to push \approx `5.4A`.
+
+so for high current, always GOOD to use higher voltage pack 
+
+
+
 
 ## battery pack examples 
 
@@ -35,6 +61,10 @@
 - 36V 9AH == 1269 RMB 
 
 - [[e-bike-dat]]
+
+
+
+
 
 ### laptop internal battery pack
 
@@ -47,6 +77,41 @@
 ![](2025-09-30-21-26-41.png)
 
 
+
+
+# battery-packs-dat
+
+- [[li-battery-dat]] - [[battery-BMS-dat]] - [[battery-pack-dat]] - [[battery-dat]]
+
+- [[passive-BMS-dat]]
+
+- [[battery-1S-dat]] == 4V
+- [[battery-2S-dat]] == 8V
+- [[battery-3S-dat]] == 12V
+
+- [[battery-4S-dat]] == 16.8V
+- [[battery-5S-dat]] == 21V
+
+
+- [[active-BMS-dat]]
+
+- [[battery-6S-dat]] == 24V
+
+- [[battery-12S-dat]] == 48V
+
+- [[battery-16S-dat]] == 64V
+
+- [[battery-18S-dat]] == 72V
+
+
+
+## ref 
+
+- [[li-battery-dat]] - [[battery-BMS-dat]] - [[battery-pack-dat]] - [[battery-dat]]
+
+
+
+
 ## 🔋 Common Lithium Battery Pack Combinations
 
 - 2S = 8.4V 
@@ -54,28 +119,29 @@
 - 4S = 16.8V
 
 
-| Configuration | Voltage (V)     | Full Charge Voltage (V) | Description                           |
-| ------------- | --------------- | ----------------------- | ------------------------------------- |
-| 1S1P          | 3.7V            | 4.2V                    | Single cell                           |
-| 1S2P          | 3.7V            | 4.2V                    | 2 cells in parallel                   |
-| 2S1P          | 7.4V            | 8.4V                    | 2 cells in series                     |
-| 2S2P          | 7.4V            | 8.4V                    | 4 cells total (2 series × 2 parallel) |
-| **3S1P**      | **11.1V = 12V** | **12.6V**               | **Common for RC and drones**          |
-| 3S2P          | 11.1V           | 12.6V                   | 6 cells total                         |
-| 4S1P          | 14.8V           | 16.8V                   | Laptop batteries, [[power-tools-dat]] |
-| 4S2P          | 14.8V           | 16.8V                   | Higher capacity variant               |
-| 5S1P          | 18.5V           | 21.0V                   | Electric tools                        |
-| 5S2P          | 18.5V           | 21.0V                   | Longer runtime tools                  |
-| 6S1P          | 22.2V           | 25.2V                   | Drones, high-power packs              |
-| 6S2P          | 22.2V           | 25.2V                   | More capacity, same voltage           |
-| 7S1P          | 25.9V           | 29.4V                   | E-bikes, mid-size packs               |
-| 7S2P          | 25.9V           | 29.4V                   | E-bikes, scooters                     |
-| 10S1P         | 37V             | 42.0V                   | Standard for e-bike packs             |
-| 10S2P         | 37V             | 42.0V                   | Common e-bike configuration           |
-| 13S1P         | 48.1V           | 54.6V                   | High-voltage e-bike pack              |
-| **13S2P**     | **48.1V**       | **54.6V**               | **E-bikes, scooters**                 |
-| 14S1P         | 51.8V           | 58.8V                   | Some 52V e-bike packs                 |
-| 14S2P         | 51.8V           | 58.8V                   | Higher capacity                       |
+| Configuration | Voltage (V)     | Full Charge Voltage (V) |                    | Description                           |
+| ------------- | --------------- | ----------------------- | ------------------ | ------------------------------------- |
+| 1S1P          | 3.7V            | 4.2V                    | [[battery-1s-dat]] | Single cell                           |
+| 1S2P          | 3.7V            | 4.2V                    | [[battery-1s-dat]] | 2 cells in parallel                   |
+| 2S1P          | 7.4V            | 8.4V                    | [[battery-2s-dat]] | 2 cells in series                     |
+| 2S2P          | 7.4V            | 8.4V                    | [[battery-2s-dat]] | 4 cells total (2 series × 2 parallel) |
+| **3S1P**      | **11.1V = 12V** | **12.6V**               | [[battery-3s-dat]] | **Common for RC and drones**          |
+| 3S2P          | 11.1V           | 12.6V                   | [[battery-3s-dat]] | 6 cells total                         |
+| 4S1P          | 14.8V           | 16.8V                   |                    | Laptop batteries, [[power-tools-dat]] |
+| 4S2P          | 14.8V           | 16.8V                   |                    | Higher capacity variant               |
+| 5S1P          | 18.5V           | 21.0V                   |                    | Electric tools                        |
+| 5S2P          | 18.5V           | 21.0V                   |                    | Longer runtime tools                  |
+| 6S1P          | 22.2V           | 25.2V                   |                    | Drones, high-power packs              |
+| 6S2P          | 22.2V           | 25.2V                   |                    | More capacity, same voltage           |
+| 7S1P          | 25.9V           | 29.4V                   |                    | E-bikes, mid-size packs               |
+| 7S2P          | 25.9V           | 29.4V                   |                    | E-bikes, scooters                     |
+| 10S1P         | 37V             | 42.0V                   |                    | Standard for e-bike packs             |
+| 10S2P         | 37V             | 42.0V                   |                    | Common e-bike configuration           |
+| 13S1P         | 48.1V           | 54.6V                   |                    | High-voltage e-bike pack              |
+| **13S2P**     | **48.1V**       | **54.6V**               |                    | **E-bikes, scooters**                 |
+| 14S1P         | 51.8V           | 58.8V                   |                    | Some 52V e-bike packs                 |
+| 14S2P         | 51.8V           | 58.8V                   |                    | Higher capacity                       |
+
 
 common apps - [[Electric-tools-dat]] - [[drone-battery-dat]]
 
@@ -111,11 +177,6 @@ How it ruins other paralleled batteries:
 
 
 
-
-
-## Simple 1S to 2S management Solutions 
-
-![](2025-05-12-16-09-09.png)
 
 
 ## FPV power battery 

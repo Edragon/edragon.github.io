@@ -349,7 +349,11 @@ The "滋滋" (humming) or "jittering" sound in an SG90 servo is usually caused b
 A professional trick to silence SG90 servos is to **"Detach"** the PWM signal once the movement is finished. This stops the motor from trying to micro-correct and eliminates the hum.
 
 
+`Stripped Internal Gears`
 
+Since you mentioned "no friction," there is a physical possibility:
+
+If you can turn the horn 360 degrees without feeling any "bumps" or resistance, the plastic gears inside the SG90 are stripped. These tiny servos are famous for breaking if pushed too hard while powered off.
 
 
 

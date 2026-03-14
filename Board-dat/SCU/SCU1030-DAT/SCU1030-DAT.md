@@ -6,6 +6,8 @@
 
 ![](17-10-17-21-06-2023.png)
 
+- [[SCU1030-dat]] - [[SG90-dat]]
+
 - Model: SG90 
 - Weight 13 grams Angle 
 - 90-180 degrees universal
@@ -41,6 +43,9 @@
 - Scope of application Small and medium-sized electric model airplanes and other models.
 
 
+
+
+
 ## ref 
 
-- [[servo-dat]]
+- [[motor-servo-dat]]

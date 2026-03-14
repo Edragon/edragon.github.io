@@ -3,6 +3,11 @@
 
 - [[capacitor-dat]]
 
+
+
+
+## FGDS 
+
 FGDS-10A-50V == MIL-STD-461 EMI INPUT FILTER
 
 FGDS-10A-50V : up to 10A CURRENT
@@ -16,6 +21,11 @@ FGDS-10A-50V : up to 10A CURRENT
 
 
 ## chips 
+
+
+- [[linear-technology-dat]]
+
+
 
 - [[TI-interface-dat]] 
 

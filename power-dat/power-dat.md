@@ -7,7 +7,7 @@
 
 - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
   
-- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]]
+- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[constant-current-dat]] - [[CV&CC-dat]] 
 
 - [[LDO-dat]]
 

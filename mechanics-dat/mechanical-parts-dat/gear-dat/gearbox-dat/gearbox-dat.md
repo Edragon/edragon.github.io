@@ -12,6 +12,10 @@
 
 ## type of gearbox 
 
+
+- [[motor-servo-dat]] - [[gearbox-dat]] == - [[SG90-dat]]
+
+
 ### Planetary Gearbox: 
 
 These are highly efficient and keep the output shaft in line with the motor shaft. They are great for high-torque applications like robotics or electric vehicles.
@@ -39,6 +43,14 @@ inner and outter pair
 
 ![](2026-03-06-17-06-34.png)
 
+
+just more nice examples 
+
+![](2026-03-14-13-18-38.png)
+
+double planetary gearbox 
+
+![](2026-03-14-13-18-54.png)
 
 ### Worm Gearbox: 
 

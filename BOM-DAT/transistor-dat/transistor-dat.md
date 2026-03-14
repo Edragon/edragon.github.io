@@ -111,6 +111,10 @@ Relay drivers, high-speed inverters, general high-current switching applications
 
 ## un-sorted 
 
+- `G1` == 5551 2N5551 丝印G1 MMBT5551LT1G `NPN` 贴片三极管SOT-23
+
+- `2L` == 2N5401 丝印2L MMBT5401LT1G SOT-23 贴片三极管
+
 - [BCR116E6327](https://www.mouser.com/ProductDetail/Infineon-Technologies/BCR-116-E6327?qs=OWKQh20churs%252Bj9jXRGlFg%3D%3D&srsltid=AfmBOoq-frf2cIVFR5tG9npa_zhflZxKBJ_wqftDIDK69ALQzAtPfXW6) == Built in bias resistor (R1=4.7 kΩ, R2=47 kΩ) == Infineon == BCR 116 E6327
 
 - IRFML8244TRPBF

@@ -1,7 +1,8 @@
 
 # P-MOS-dat
 
-- [[mosfet-dat]]
+
+- [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
 
 
 
@@ -14,6 +15,17 @@
 
 ## parts 
 
+
+
+
+
+- [[Alpha-omega-dat]]
+
+- `AO4407A` == 30V P-Channel MOSFET == SOP8
+    - VDS = -30V
+    - ID = -12A
+
+
 - [[AO3401-dat]]
 
 - IRLML6402 TRPBF
@@ -22,9 +34,10 @@
 - IRF4905
 - IRF9540N
 
-SI4435 - SOIC-8 P沟道 -30V/-8.1A 贴片MOSFET
+`SI4435` - SOIC-8 P沟道 -30V/-8.1A 贴片MOSFET
 
-SI2307
+`SI2307` - P-CHANNEL MOSFET == 2.7A -30V == `A7SHB` 
+
 
 IRLML6402TRPBF
 

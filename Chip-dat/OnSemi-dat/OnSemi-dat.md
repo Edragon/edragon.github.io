@@ -9,6 +9,19 @@
 
 - [[dcdc-down-dat]]
 
+
+
+## mosfet 
+
+T14 
+
+MOSFET – Power, N-Channel, DPAK 14 A, 25 V NTD14N03R, NVD14N03R
+
+14 AMPERES, 25 VOLTS RDS(on) = 70.4 m (Typ)
+
+
+
+
 ## Triac Driver Optocoupler
 
 6-Pin DIP Zero-Cross Triac Driver Optocoupler (600 Volt Peak)

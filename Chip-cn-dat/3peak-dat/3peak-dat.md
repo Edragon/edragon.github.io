@@ -19,7 +19,7 @@ TPL810  == [[3peak]]
 https://www.3peak.com/hvldo/tpl810
 
 
-- [[battery-pack-dat]] -> [[AA-battery-holder-dat]]
+- [[battery-pack-dat]] -> [[battery-holder-AA-dat]]
 
 
 24-V Input, 180-mA Output High Voltage and Low Quiescent Current LDO

@@ -2,13 +2,18 @@
 
 - [[dcdc-down]] - [[LDO-dat]]
 
+- [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[constant-current-dat]] - [[CV&CC-dat]] 
 
 
 ## chip and companies
 
 - [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]]
 
-- [[TI-power-dat]] - [[TPS54302-dat]]
+- [[TI-power-dat]] 
+
+- [[ti-power-dat]] - [[ti-power-dcdc-down-dat]] - [[ti-battery-charger-dat]] - [[ti-power-dcdc-boost-dat]] 
+
+
 
 - [[silergy-dat]] - [[SY8205-dat]] - [[OPM1192-dat]]
 

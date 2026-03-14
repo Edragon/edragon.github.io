@@ -5,7 +5,11 @@
 
 [product url - USB Utility Cables [Types]](https://www.electrodragon.com/product/usb-utility-cables-types/)
 
-- [[PCA1094-dat]] - [[PCA1093-dat]] - [[PCA1092-dat]] - [[PCA1091-dat]]
+- [[12V-dat]] - [[5V-dat]] - [[9V-dat]]
+
+- [[cable-power-dat]] [[PCA1094-dat]] - [[PCA1093-dat]] - [[PCA1092-dat]] - [[PCA1091-dat]]
+
+
 
 - power == around 10W 9V 0.8~1A 
 - power == around 10W 12V 0.8~1A 

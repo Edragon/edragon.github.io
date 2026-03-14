@@ -4,7 +4,7 @@
 
 - [[battery-dat]] - [[battery-holder-dat]]
 
-- [[CR2032-holder-dat]] - [[AA-battery-holder-dat]] - [[18650-battery-holder-dat]]
+- [[CR2032-holder-dat]] - [[battery-holder-AA-dat]] - [[18650-battery-holder-dat]]
 
 - [[AG3-dat]] - [[AA-battery-dat]] - [[AAA-battery-dat]]
 
@@ -22,8 +22,8 @@
 
 - green box
   - 18650 battery on the backside of the baord - [[18650-battery-holder-dat]]
-  - 2x AA  - [[AA-battery-holder-dat]] - [[battery-AA-dat]]
-  - 1x AAA - [[AA-battery-holder-dat]]
+  - 2x AA  - [[battery-holder-AA-dat]] - [[battery-AA-dat]]
+  - 1x AAA - [[battery-holder-AA-dat]]
 
 - purple box 
   - serial connector jumper for 2x AA (will to change to 3-way jumper later)
