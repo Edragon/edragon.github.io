@@ -8,6 +8,9 @@
 - [[STM32-USB-dat]]
 
 
+
+
+
 ## SCH 1 
 
 - [[F1C100-HDK-dat]]
@@ -23,6 +26,21 @@ SCH 2
 
 
 ## USB OTG/USB TYPE-C
+
+USB-C OTG (On-The-Go) Hardware Requirements
+
+To enable OTG support on a USB-C DIY project, you must signal to the Host (the phone) that it should act as a Master and provide 5V power.
+
+**The Wiring:**
+* **Data:** Connect D+ and D- pins.
+* **Power:** Connect VBUS and GND.
+* **OTG Signal:** Place a **5.1kΩ resistor** between the **CC pin** and **GND**.
+
+**How it works:**
+1. The phone detects the **5.1kΩ Pull-down (Rd)** on the CC line.
+2. The phone's internal controller switches from **Sink** (receiving power) to **Source** (providing power).
+3. The phone outputs **5V** on the VBUS line to power your mouse, keyboard, or MIDI device.
+
 
 该部分连接到了芯片的DP/DM引脚，为芯片的USB接口。
 

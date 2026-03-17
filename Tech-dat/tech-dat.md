@@ -93,7 +93,7 @@
 
 - [[RFID-dat]] - [[NFC-dat]]
 
-- [[ethernet-dat]] - [[USB-dat]]
+- [[ethernet-dat]] - [[USB-SDK-dat]]
 
 - [[bluetooth-dat]] - [[ble-dat]] - [[bt-audio-dat]]
 
@@ -184,7 +184,7 @@
 
 - [[ADC-dat]] - [[DAC-dat]]
 
-- [[USB-dat]] - [[USB-sys-dat]]
+- [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-type-c-dat]]
 
 - [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]]
 

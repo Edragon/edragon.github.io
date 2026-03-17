@@ -12,6 +12,7 @@
 
 - [[Quadruped-Locomotion-dat]]
 
+- quadruped
 
 ## Electronics 
 

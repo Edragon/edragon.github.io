@@ -1,12 +1,13 @@
 
-# typec-dat
+# CONN-USB-type-c-dat
 
+- [[CONN-USB-type-c-dat]] - [[USB-type-c-dat]] - [[cable-USB-type-c-dat]]
 
 - [[type-c-hdk-dat]]
 
 - [[peripherals-dat]]
 
-- [[USB-dat]]
+- [[USB-SDK-dat]]
 
 
 
@@ -22,7 +23,38 @@
 
 - [[type-c-to-ethernet-dat]]
 
+
+## common connectors 
+
+type-C 6 pins == not D+ / D- data pins 
+
+![](2026-03-15-01-49-08.png)
+
+| PIN | SIGNAL NAME |
+| --- | ----------- |
+| B12 | GND         |
+| B9  | VBUS        |
+| B5  | CC2         |
+| A5  | CC1         |
+| A9  | VBUS        |
+| A12 | GND         |
+
+type-C 9 pins 
+
+![](2026-03-15-01-51-26.png)
+
+type-C 14 pins 
+
+type-C 16 pins == common used version 
+
+
+![](2026-03-15-01-52-20.png)
+
 ## hardware 
+
+
+
+
 
 - [[iphone-17-dat]] 20pins [[usb-type-c-dat]] - [[usb-type-c]] - [[usb-SDK]]
 
@@ -54,6 +86,7 @@ To improve this situation, in March 2022, USB-IF proposed certification combinin
 The USB Type-C connector has 24 pins. Here is the pinout for the receptacle:
 
 **Top Row:**
+
 | Pin | Name   | Description                                     |
 | --- | ------ | ----------------------------------------------- |
 | A1  | GND    | Ground                                          |
@@ -70,6 +103,7 @@ The USB Type-C connector has 24 pins. Here is the pinout for the receptacle:
 | A12 | GND    | Ground                                          |
 
 **Bottom Row:**
+
 | Pin | Name   | Description                                     |
 | --- | ------ | ----------------------------------------------- |
 | B12 | GND    | Ground                                          |
