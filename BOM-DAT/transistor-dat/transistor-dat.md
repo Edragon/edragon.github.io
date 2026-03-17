@@ -26,6 +26,10 @@ common brand: 	Infineon
 - SS8050 == Y1 
 
 
+### more NPN 
+
+`MMBTH10` - 25V NPN VHF/UHF TRANSISTOR IN SOT23
+
 ### S8050 
 
 - [[relay-dat]] drive 
@@ -55,6 +59,9 @@ common brand: 	Infineon
 ## transistor array 
 
 ### dual transistor package 
+
+
+
 
 #### BCR 10PN H6327
 

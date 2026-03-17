@@ -17,6 +17,9 @@ LMC6482 / LMC6484 - LMC648x CMOS Rail-to-Rail Input and Output Operational Ampli
 ## OPA 
 
 
+mc33078 - mc33078P - DUAL HIGH-SPEED LOW-NOISE OPERATIONAL AMPLIFIER
+
+
 OPA317, OPA2317, OPA4317 - `OPAx317` Zerø-Drift, Low-Offset, Rail-to-Rail I/O Operational Amplifier Precision Catalog
 
 `OPAx365` 50-MHz, Zerø-Crossover, Low-Distortion, High-CMRR, RRI/O, Single-Supply Operational Amplifiers

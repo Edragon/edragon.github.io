@@ -1,7 +1,11 @@
 
 # IXYS-dat
 
-CPC5902G-I2C
+
+
+- [[I2C-repeater-dat]]
+
+## CPC5902G-I2C
 
 CPC5902 Optically Isolated I2 C Bus Repeater
 
@@ -10,3 +14,8 @@ IXYS Integrated Circuits’ CPC5902 is a dual, optically isolated, bidirectional
 
 
 LOC110 == Single Linear Optocoupler
+
+
+
+
+## ref 

@@ -65,6 +65,7 @@ LM6142 - Series Operational Amplifiers - Op Amps
 
 OPA2277UA - OPAx277 High Precision Operational Amplifiers
 
+- [[TI-amp-dat]]
 
 ## ref 
 

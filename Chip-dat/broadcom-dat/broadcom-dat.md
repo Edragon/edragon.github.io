@@ -2,6 +2,10 @@
 # broadcom-dat
 
 
+- [[optical-coupler-dat]] - [[broadcom-dat]]
+
+
+
 HCPL-2231  == The dual-channel HCPL-2231 optocoupler is an optically-coupled logic gate. - [[optical-coupler-dat]]
 
 - [[HFBR-dat]]
@@ -13,6 +17,10 @@ HCPL-2231  == The dual-channel HCPL-2231 optocoupler is an optically-coupled log
 - [BCM1113 datasheet](https://datasheet.octopart.com/BCM1113RKPBG-Broadcom-datasheet-11551948.pdf)
 
 - BCM1115KPBGP30
+
+
+
+
 
 
 ## ref 

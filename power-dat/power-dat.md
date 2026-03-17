@@ -37,6 +37,7 @@
 
 - [[power-backfeeding-dat]]
 
+- [[isolator-dat]]
 
 ## power design workflow
 

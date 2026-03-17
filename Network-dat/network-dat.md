@@ -4,7 +4,7 @@
 
 - [[RC-dat]]
 
-- [[rf-switches-dat]]
+- [[rf-switches-dat]] - [[remote-control-dat]]
 
 - [[PT2262-dat]] - [[PT2272-dat]] - [[RF-link-dat]] - [[network-dat]]
 

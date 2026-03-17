@@ -240,7 +240,9 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 
 
+## mosfet high voltage 
 
+- SiHF080N60E - 600V / 14A == E Series Power MOSFET
 
 
 

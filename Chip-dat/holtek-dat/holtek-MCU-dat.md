@@ -2,6 +2,13 @@
 
 # holtek-MCU-dat
 
+
+HT66F002/HT66F0025 - Cost-Effective A/D Flash MCU with EEPROM
+
+
+
+## 32-bit 
+
 HT32F12365 / HT32F12366 / HT32F22366
 
 32-Bit Arm® Cortex®-M3 MCU

@@ -9,9 +9,9 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]] - [[mosfet-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]]
+- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]]
 
 - [[robot-dat]] - [[robotic-dat]]
 
@@ -148,7 +148,7 @@
 
 - [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 
-- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[stepper-dat]] - [[servo-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]]
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 

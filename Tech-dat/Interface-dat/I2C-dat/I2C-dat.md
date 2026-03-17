@@ -5,7 +5,7 @@
 
 - [[PCF8574-dat]] - [[IO-expander-dat]] - [[MCP23008-dat]] - [[I2C-dat]]
 
-
+- [[I2C-repeater-dat]] - [[I2C-switch-dat]] - [[qwiic-dat]]
 
 
 

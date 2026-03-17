@@ -12,8 +12,9 @@
 - [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
 
 
-- [[BLDC-dat]]
+- [[motor-BLDC-dat]] - [[motor-brushless-dat]]
 
+- [[driver-half-bridge-dat]] - [[control-dat]] - [[motor-driver-dat]]
 
 
 ## tech 
@@ -30,7 +31,7 @@
 
 - [[angle-encoder-dat]]
 
-- [[servo-dat]] - [[stepper-dat]]
+- [[motor-servo-dat]] - [[motor-stepper-dat]]
 
 - [[PCA9685-dat]]
 

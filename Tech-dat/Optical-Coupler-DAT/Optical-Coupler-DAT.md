@@ -8,6 +8,7 @@
 - [[isolator-dat]] - [[signal-input-dat]] - [[optical-coupler-dat]]
 
 
+
 ## wiring 
 
 ![](2026-02-12-15-25-21.png)
@@ -65,6 +66,8 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 - [[IXYS-dat]] - 
 
 - [[OnSemi-dat]]
+
+- [[broadcom-dat]]
 
 ## ref 
 
