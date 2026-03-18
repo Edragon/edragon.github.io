@@ -5,6 +5,10 @@ https://www.electrodragon.com/product/gpio-to-vga-convert-board-dpi-lcd-for-rasp
 
 legacy wiki page - https://w.electrodragon.com/w/RPI_Display
 
+
+
+- [[VGA-dat]] - [[DPI-dat]]
+
 ## Board maps 
 
 ![](2025-02-03-18-00-42.png)

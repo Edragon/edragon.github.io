@@ -18,7 +18,7 @@
 
 - [[RJ11-dat]] - [[RJ45-dat]]
 
-- [[DB9-dat]]
+- [[DB9-dat]] - [[DB15-dat]] - [[DB25-dat]] - [[CONN-dat]]
 
 - [[JST-dat]]
 
