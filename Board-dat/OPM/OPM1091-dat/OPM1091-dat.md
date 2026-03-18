@@ -34,4 +34,4 @@ Features: Using integrated power inductor and synchronous rectification control 
 
 - [[OPM1091]]
 
-- [[MP2307-dat]]
+- [[MP2307-dat]] - [[MPS-dat]]

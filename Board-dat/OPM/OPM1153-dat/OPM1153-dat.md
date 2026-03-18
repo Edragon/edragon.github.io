@@ -16,6 +16,14 @@ up to 3000mA output
 
 ![](2025-06-02-11-54-31.png)
 
+
+## apps 
+
+- [[USB-type-c-dat]]
+
+## ref 
+
 - [[opm1153]]
+  
 
 - [[MP1584-DAT]] - [[OPM1152-dat]]

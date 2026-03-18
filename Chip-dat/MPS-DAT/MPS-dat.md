@@ -6,7 +6,13 @@
 - [[MPS-dat]] - [[MP28167-dat]] - [[MPM3610-dat]]
 
 
+
+
+
 ## Chips 
+
+- [[MP2307-dat]] - [[OPM1091-dat]]
+
 
 MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated Inductor
 
@@ -15,9 +21,9 @@ MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated 
 
 - [[MPS-ACDC-dat]]
 
-- [[MP1584-DAT]] 
+- [[MP1584-DAT]] - [[OPM1153-dat]] - [[OPM1152-dat]]
 
-- [[MP2315-dat]]
+- [[MPS-dat]] - [[MP2315-dat]] - [[OPM1104-dat]] 
 
 - [[MP4560-dat]]
 
