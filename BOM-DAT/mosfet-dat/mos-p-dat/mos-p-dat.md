@@ -16,8 +16,13 @@
 ## parts 
 
 
+## SOT23-3 
+
+- IRLML6402 TRPBF 
+- [[AO3401-dat]]
 
 
+### SOP8
 
 - [[Alpha-omega-dat]]
 
@@ -26,9 +31,6 @@
     - ID = -12A
 
 
-- [[AO3401-dat]]
-
-- IRLML6402 TRPBF
 - SI2318 A
 
 - IRF4905

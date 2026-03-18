@@ -50,6 +50,8 @@ jumper set on the diode
 
 ### DEVKITC Board pin definitions 
 
+libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display\
+
 notice the differences of pin CLK and D
 
     #define R1_PIN_DEFAULT  25
