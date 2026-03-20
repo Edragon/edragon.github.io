@@ -1,4 +1,4 @@
-# RGB matrix panel dat
+# led-rgb-panel-dat
 
 
 - [[led-full-panel-installation-dat]] - [[flexible-led-rgb-panel-dat]] - [[led-rgb-panel-chip-dat]]
@@ -8,12 +8,12 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 [rgb-full-color-led-matrix-panel](https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/)
 
 
-- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]]
+- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
 
 
 - [[RMP-driver-dat]] 
 
-- [[HUB75-dat]] - [[HUB08-dat]]
+- [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - [[led-rgb-panel-dat]]
 
 
 ## Panel Specifications
@@ -54,6 +54,18 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 | 32x16   |       |     |      |     | [[ILE1058-dat]] |
 
 - [[ILE1060-dat]]
+
+chip list 
+
+64x64 - ICN2053 + ICN2012
+
+## 256 x 128 
+
+- chip == TC5020AP JC5020 
+
+![](2026-03-20-22-14-11.png)
+
+
 
 
 ## Code Documentation
