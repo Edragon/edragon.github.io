@@ -5,3 +5,9 @@ refer to [[NGS1141-dat]]
 
 - A7670SA 
 
+
+
+
+## ref 
+
+- [[NGS1142]]
