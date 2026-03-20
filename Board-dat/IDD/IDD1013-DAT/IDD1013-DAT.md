@@ -57,6 +57,7 @@ notice the differences of pin CLK and D
     #define R1_PIN_DEFAULT  25
     #define G1_PIN_DEFAULT  26
     #define B1_PIN_DEFAULT  27
+
     #define R2_PIN_DEFAULT  14
     #define G2_PIN_DEFAULT  12
     #define B2_PIN_DEFAULT  13
@@ -170,6 +171,19 @@ Downgrade your ESP32 board package to version 2.0.17 which is compatible with th
 
 - 15% for 100pcs order - [[discount-dat]]
 
+
+
+## supported panels 
+
+
+- ICND2012
+- RUC7258
+- FM6126A AKA ICN2038S, FM6124 (Refer to PatternPlasma example on how to use.)
+- SM5266P
+- DP3246 with SM5368 row addressing registers
+
+
+![](2026-03-20-21-34-34.png)
 
 ## ref 
 

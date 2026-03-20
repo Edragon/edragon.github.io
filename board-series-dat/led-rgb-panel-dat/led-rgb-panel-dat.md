@@ -13,7 +13,7 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 
 - [[RMP-driver-dat]] 
 
-
+- [[HUB75-dat]] - [[HUB08-dat]]
 
 
 ## Panel Specifications
@@ -43,6 +43,19 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 * Drive constant current, dynamic
 * Flash rate 2000Hz
 
+
+
+## common panels 
+
+| dots    | model | CM  | chip | SKU | port            |
+| ------- | ----- | --- | ---- | --- | --------------- |
+| 256x128 |       |     |      |     | [[HUB08-dat]]   |
+| 64x64   | P3    |     |      |     | [[ILE1060-dat]] |
+| 32x16   |       |     |      |     | [[ILE1058-dat]] |
+
+- [[ILE1060-dat]]
+
+
 ## Code Documentation
 
 - Demo code supported for Raspberry Pi, code revised from here https://github.com/hzeller/rpi-rgb-led-matrix, compatible and mostly same except transfomer part, original code can not well support our this type.
@@ -66,10 +79,6 @@ for outdoor ONLY P6 and P8
 - [[cable-ribbon-dat]] - [[HUB75-dat]] == 26P
 
 - [[cable-power-dat]] - [[conn-cable-terminal-dat]] - [[CONN-VH3.96-dat]] - [[conn-cable-terminal-crimp-dat]]
-
-![](2026-02-26-17-49-49.png)
-
-![](2026-02-26-17-50-05.png)
 
 
 - [[screw-dat]] - [[screw-magnetic-dat]]
