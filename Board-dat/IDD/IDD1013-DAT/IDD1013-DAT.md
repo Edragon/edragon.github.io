@@ -1,8 +1,9 @@
 
 # IDD1013-DAT
 
+- [[ESP32-S3-dat]] - [[IDD1013-dat]] - [[IDD1027-dat]] - [[led-rgb-panel-dat]]
 
-- [[ESP32-dat]] - [[HUB75-dat]] - [[RGB-matrix-driver-da]]
+- [[ESP32-dat]] - [[HUB75-dat]] - [[RMP-driver-dat]] 
 
 - [[MPC1073-dat]]
 
@@ -184,6 +185,16 @@ Downgrade your ESP32 board package to version 2.0.17 which is compatible with th
 
 
 ![](2026-03-20-21-34-34.png)
+
+
+Specific chips found NOT TO work
+
+- ANY panel that has S-PWM or PWM based chips (such as the RUL6024, MBI6024, HX6158SP, MBI5051, MBI5052, MBI5053, ICND2055CP etc.). There are LOTS of panels now which are 'self PWM generating'. Essentially these panel aren't just a dumb array of LEDs and a series of shift registers, but have a framebuffer that pixel colour data is sent to, and they generate the relevant PWM output for each LED, independantly. A more advanced LED panel technology, but not what this library supports.
+- SM1620B
+- RUL5358 / SHIFTREG_ABC_BIN_DE based panels are not supported.
+- ICN2053 / FM6353 based panels - Refer to this library, which is a fork of this library ( discussion link).
+- Any other panel not listed above.
+
 
 ## ref 
 

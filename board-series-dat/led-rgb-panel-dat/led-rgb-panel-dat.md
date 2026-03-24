@@ -66,7 +66,14 @@ chip list
 ![](2026-03-20-22-14-11.png)
 
 
+## 64 x 64
 
+- DP5125 / MV245B
+https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA/issues/645
+
+![](2026-03-24-16-40-47.png)
+
+![](2026-03-24-16-41-06.png)
 
 ## Code Documentation
 
@@ -130,6 +137,16 @@ Gen-3: Advanced grayscale panels using chips like MBI5153 or ICND2153 that suppo
 - [[mono-matrix-panel-dat]] 
 
 - [[led-rgb-panel]]
+
+
+
+
+## driver board 
+
+- [[IDD1027-dat]] - [[IDD1013-dat]]
+
+
+
 
 
 ## ref 
