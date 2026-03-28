@@ -19,6 +19,11 @@
 
 ## ref 
  
+- [[omnivision-dat]] - [[OV2640-dat]] - [[OV7725-dat]]
+
+
+
+
 - [[SCM1017]] 
  
 - [legacy wiki page ](https://www.electrodragon.com/w/OV_Camera)
