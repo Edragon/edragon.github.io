@@ -275,7 +275,7 @@
 
 - [[effects-dat]]
 
-- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-workspace-dat]] - [[fab-3d-print-dat]]
+- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-workspace-dat]] - [[fab-3d-print-dat]] - [[fab-soldering-dat]]
 
 - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-soldering-dat]] - [[footprint-dat]]
 

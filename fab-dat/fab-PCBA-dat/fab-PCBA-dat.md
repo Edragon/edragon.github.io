@@ -1,6 +1,9 @@
 
 # PCBA-dat
 
+- [[fab-PCBA-dat]] - [[fab-soldering-dat]] 
+
+- [[fab-PCB-dat]] - [[fab-PCB-tools-dat]]
 
 - [[PCB-soldering-dat]] - [[desoldering-dat]]
   
