@@ -6,11 +6,11 @@
 
 - [[NWI1100-dat]] - [[NWI1101-dat]] - [[ESP32-dat]] - [[ESP32-board-dat]] - [[ESP32-dev-board-dat]]
 
-
+board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
 
 ESP32-DevKitC
 
-https://www.electrodragon.com/product/esp32-devkitc/
+[product url - ESP32 Mini Core Dev. Board, ESP32-DevKitC, V4 [Ver.]](https://www.electrodragon.com/product/esp32-devkitc/)
 
 
 ![](20-34-18-09-08-2023.png)

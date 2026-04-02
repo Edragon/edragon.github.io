@@ -10,7 +10,7 @@ board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
 
 ## Info
 
-product url - 
+[product url - ESP32 Mini Core Dev. Board, ESP32-DevKitC, V4 [Ver.]](https://www.electrodragon.com/product/esp32-devkitc/)
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
@@ -26,7 +26,7 @@ product url -
 
 ## ref 
 
-- [[NWI1103]] 
+- [[NWI1103]] - [[NWI1102]]
 
 - legacy wiki page 
 

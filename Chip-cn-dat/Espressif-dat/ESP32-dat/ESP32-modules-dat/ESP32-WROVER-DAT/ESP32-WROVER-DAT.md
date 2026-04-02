@@ -2,9 +2,18 @@
 
 # ESP32-WROVER-DAT
 
+- [[ESP32-dat]] 
+
+- [[NWI1103-dat]]
+
+
 https://www.electrodragon.com/product/esp32-wrover-v4-module-based-esp32/
 
 - development board - [[NWI1100-dat]] by swaping the module
+
+- [[PSRAM-dat]]
+
+
 
 ## sale version 
 
