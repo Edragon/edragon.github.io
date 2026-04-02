@@ -3,6 +3,10 @@
 # IDD1016 DAT RGB Matrix Panel Drive Interface Board for ESP32
 
 
+- [[IDD1016-dat]] - [[IDD1013-dat]] - [[IDD1027-dat]]
+
+- [[cable-ribbon-dat]]
+
 https://w.electrodragon.com/w/ESP32_RMP
 
 
@@ -77,4 +81,6 @@ Note to connect the input HUB75 to input of the panel, and the output HUB75 to o
 
 ## ref 
 
-- [[RMP-driver-dat]] - [[IDD1016]]
+- [[RMP-driver-dat]] 
+
+- [[IDD1016]]
