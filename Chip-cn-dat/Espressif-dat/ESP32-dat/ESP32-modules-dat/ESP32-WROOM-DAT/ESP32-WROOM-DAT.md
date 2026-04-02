@@ -4,7 +4,7 @@
 
 
 
-- [[ESP32-dat]] - [[ESP32-modules-dat]] - [[ESP32-WROOM-dat]]
+- [[ESP32-WROOM-32E-dat]] - [[ESP32-dat]] - [[ESP32-modules-dat]] - [[ESP32-WROOM-dat]]
 
 - [[NWI1194-dat]] - [[NWI1195-dat]] - [[NWI1155-dat]] - [[NWI1110-dat]]
 
@@ -14,7 +14,18 @@
 
 https://www.electrodragon.com/product/wroom-32/
 
+board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
+
 ## Version compare 32E / 32D / 32U
+
+
+| Module Model | Built-in ESP32 Chip | SRAM | ROM | Espressif Recommendation |
+| ------------ | ------------------- | ---- | --- | ------------------------ |
+| ESP32-WROOM-32 | ESP32-D0WDQ6 | 512K | 512K | Not recommended for new designs |
+| ESP32-WROOM-32SE | ESP32-D0WD | 448K | 448K | Not recommended for new designs |
+| ESP32-WROOM-32D | ESP32-D0WD | 512K | 512K | Not recommended for new designs |
+| ESP32-WROOM-32E | ESP32-D0WD-V3 | 448K | 448K | Recommended for new designs since 2022 |
+
 
 The latest version among ESP32-WROOM-32D, ESP32-WROOM-32, ESP32-WROOM-32E, and ESP32-WROOM-32U is the ESP32-WROOM-32E. It uses the newest V3 silicon, offers improved RF performance, and is recommended for new designs.
 
@@ -49,7 +60,9 @@ If you are buying new, the 32D is recommended, as the original 32 is considered 
 
 ![](2024-01-09-14-50-52.png)
 
-### 32E 
+### ESP32-WROOM-32E 
+
+![](2026-04-02-20-38-00.png)
 
 The ESP32-WROOM-32E and ESP32-WROOM-32D are both modules based on the ESP32 system-on-a-chip (SoC) by Espressif Systems. They are very similar in terms of features and capabilities but have a few key differences.
 

@@ -18,6 +18,12 @@ PCB-ANT
 [[NWI1190-dat]] - RVB: ESP-WROVER, PCB-ANT, 8MB
 [[NWI1191-dat]] - RVB: ESP-WROVER, PCB-ANT, 16MB
 
+version ESP32-WRover-E
+
+![](2026-04-02-20-49-28.png)
+
+
+
 ## Pin map 
 
 ![](2024-12-26-18-38-26.png)

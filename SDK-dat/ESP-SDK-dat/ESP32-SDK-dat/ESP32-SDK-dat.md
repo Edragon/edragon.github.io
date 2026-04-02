@@ -6,8 +6,6 @@
 
 - [[ESP32-HDK-dat]] 
 
-- [[esptool-dat]]
-
 - [[data-storage-dat]] - [[USB-MSC-dat]] - [[SPIFF-dat]] - [[memory-dat]]
 
 - [[partition-table-dat]]
@@ -18,9 +16,17 @@
 
 - [[ESP-IDF-dat]]
 
-- [[micropython-dat]] - [[circuitpython-dat]] 
+- [[micropython-dat]] - [[circuitpython-dat]]  - [[thonny-dat]]
 
 - [[arduino-dat]]
+
+![](2026-04-02-20-42-06.png)
+
+- flash tool == [[flash-download-tool-dat]] - - [[esptool-dat]]
+
+- debug - [[stack-trace-decoder-dat]] - [[jtag-dat]]
+
+
 
 ## arduino 
 
