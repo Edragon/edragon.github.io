@@ -44,7 +44,7 @@
 
 - [[service-dat]] - [[discount-dat]] - [[shipment-dat]] 
 
-- [[fab-dat]] - [[fab-qc-dat]] - [[fab-PCB-dat]] - [[PCB-standards-dat]]
+- [[fab-dat]] - [[fab-qc-dat]] - [[fab-PCB-dat]] - [[PCB-standards-dat]] - [[fab-soldering-dat]]
 
 
 ## Weekly Updates 
