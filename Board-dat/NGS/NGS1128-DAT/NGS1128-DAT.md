@@ -2,6 +2,14 @@
 
 # NGS1128-DAT
 
+
+- [[SIMCOM-AT-dat]] - [[SIM7080-dat]] - [[SIMCOM-dat]]
+
+- [[network-dat]] - [[LTE-dat]] - [[LWPA-dat]] - [[MQTT-dat]] - [[GNSS-dat]]
+
+
+
+
 ## Hardware 
 
 ![](36-15-17-03-04-2023.png)
@@ -47,7 +55,7 @@ right column pins
 
 - [[mqtt-dat]]
 - [[NGS1128]] - [[SIM7080-dat]]
-- [[SIMCOM-AT]]
+- [[SIMCOM-AT-dat]]
 - [[SIMCOM-AT-GNSS-dat]]
 - https://w.electrodragon.com/w/SIM7080
 
