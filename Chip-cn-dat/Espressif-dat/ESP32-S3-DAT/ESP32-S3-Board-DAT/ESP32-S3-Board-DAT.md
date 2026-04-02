@@ -8,10 +8,10 @@
 
 - [[peripherals-dat]]
 
-- [[NWI1243-dat]] - [[NWI1249-dat]] - [[ESP32-S3-DevKitC-1-dat]] - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-WV-dat]]
+- [[NWI1243-dat]] - [[NWI1244-dat]] - [[NWI1249-dat]] - [[ESP32-S3-DevKitC-1-dat]] - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-WV-dat]] - [[ESP32-S3-board-VCC-dat]]
 
 
-
+- [[ESP32-dat]]
 
 
 ## Cloned Core Board SCH 

@@ -2,10 +2,22 @@
 # LWPA-dat (Low Power Wide Area)
 
 
+- common board == [[NGS1128-dat]] == CAT-M / [[NBIOT-dat]] module + [[GNSS-dat]]
+
+- [[LTE-dat]] - [[LWPA-dat]]
+
+
 **LWPA** stands for **Low Power Wide Area** network, a category of wireless communication technologies designed for long-range connectivity with low power consumption. It is commonly used in the context of Internet of Things (IoT) networks, where devices need to send small amounts of data over long distances while consuming minimal energy.
+
+
+The relationship between [[LTE-dat]] and **LPWA** (Low Power Wide Area) is that [[LTE-dat]] provides the specific technical standards (**LTE-M** and **NB-IoT**) that allow cellular networks to function as LPWA networks. 
+
+While standard [[LTE-dat]] is optimized for high-speed data for smartphones, LPWA-specific [[LTE-dat]] technologies are stripped-down versions designed for "machine-type communication" where battery life and coverage are more important than speed.
+
 
 - [[NBIOT-dat]] - [[LORA-dat]] - [[SIGFOX-dat]] - [[LTE-M-dat]]
 
+- [[LTE-dat]]
 
 ## Key Characteristics of LWPA (LPWAN):
 

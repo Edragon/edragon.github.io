@@ -19,11 +19,22 @@ PIC18 F252-I/SP
 
 PIC18 F452-I/P
 
+
+
+
+
 ## PIC16 series 
+
+PIC16F628A
+
 
 PIC16F1823
 
 PIC16F877A == The PIC16F877A is a popular 8-bit microcontroller known for its versatility and ease of use in embedded systems. It's a CMOS FLASH-based microcontroller with a RISC architecture, making it a good choice for various applications, especially those requiring analog-to-digital conversion and serial communication. 
+
+
+
+
 
 ## PIC12 series 
 

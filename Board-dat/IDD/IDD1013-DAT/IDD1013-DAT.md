@@ -1,14 +1,21 @@
 
 # IDD1013-DAT
 
+- [[ESP32-S3-dat]] - [[IDD1013-dat]] - [[IDD1027-dat]] - [[led-rgb-panel-dat]]
 
-- [[ESP32-dat]] - [[HUB75-dat]] - [[RGB-matrix-driver-da]]
+- [[ESP32-dat]] - [[HUB75-dat]] - [[RMP-driver-dat]] 
 
 - [[MPC1073-dat]]
 
 - Pin Definitions, Product Series please refer to page - [[RMP-driver-dat]]
 
 - display panel here - [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
+
+- [[RMP-driver-dat]] - [[IDD1013-dat]] - [[IDD1027-dat]] - [[IDD1016-dat]] - [[IDD1023-dat]] 
+
+
+- [[CONN-cable-Box-header-dat]] - [[HUB75-DAT]] - [[cable-ribbon-dat]]
+
 
 
 ## info 
@@ -57,6 +64,7 @@ notice the differences of pin CLK and D
     #define R1_PIN_DEFAULT  25
     #define G1_PIN_DEFAULT  26
     #define B1_PIN_DEFAULT  27
+
     #define R2_PIN_DEFAULT  14
     #define G2_PIN_DEFAULT  12
     #define B2_PIN_DEFAULT  13
@@ -169,6 +177,29 @@ Downgrade your ESP32 board package to version 2.0.17 which is compatible with th
 ## buck order discount 
 
 - 15% for 100pcs order - [[discount-dat]]
+
+
+
+## supported panels 
+
+
+- ICND2012
+- RUC7258
+- FM6126A AKA ICN2038S, FM6124 (Refer to PatternPlasma example on how to use.)
+- SM5266P
+- DP3246 with SM5368 row addressing registers
+
+
+![](2026-03-20-21-34-34.png)
+
+
+Specific chips found NOT TO work
+
+- ANY panel that has S-PWM or PWM based chips (such as the RUL6024, MBI6024, HX6158SP, MBI5051, MBI5052, MBI5053, ICND2055CP etc.). There are LOTS of panels now which are 'self PWM generating'. Essentially these panel aren't just a dumb array of LEDs and a series of shift registers, but have a framebuffer that pixel colour data is sent to, and they generate the relevant PWM output for each LED, independantly. A more advanced LED panel technology, but not what this library supports.
+- SM1620B
+- RUL5358 / SHIFTREG_ABC_BIN_DE based panels are not supported.
+- ICN2053 / FM6353 based panels - Refer to this library, which is a fork of this library ( discussion link).
+- Any other panel not listed above.
 
 
 ## ref 

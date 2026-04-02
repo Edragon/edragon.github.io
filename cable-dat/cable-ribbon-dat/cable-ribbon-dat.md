@@ -6,6 +6,8 @@
 
 - [[cable-ribbon-dat]] - [[PCA1009-dat]] - [[PCA1011-dat]] - [[PCA1012-dat]]
 
+- board - [[IDD1016-dat]]
+
 
 ## 2-row 2*8 pins 
 
@@ -14,6 +16,9 @@
 made for same direction 
 
 ![](2025-12-17-17-39-14.png)
+
+
+
 
 
 ## install methods 6 types 
@@ -33,3 +38,5 @@ see how it mapped here [[HUB75-dat]], either horizontally flipped or horizontall
 ## ref 
 
 - [[cable-dat]]
+
+- [[cable-ribbon]] - [[cable]]

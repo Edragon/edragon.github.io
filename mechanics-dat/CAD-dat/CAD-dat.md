@@ -9,6 +9,8 @@
 
 - [[CAD-dat]] - [[onshape-dat]] - [[drawing-dat]] - [[assembly-dat]] - [[step-dat]]
 
+- [[eaglecad-dat]] - [[kicad-dat]]
+
 - [[3D-dat]]
 
 - [[solidworks-dat]]

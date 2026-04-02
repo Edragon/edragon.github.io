@@ -139,7 +139,7 @@ see more ESP32 apps at NWI section
 
 - [[IDO1005-dat]] - [[IDO1006-dat]]
 
-- [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]]
+- [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]] - [[IDD1027-dat]]
 
 ### IMS 
 
@@ -422,7 +422,8 @@ Quectel - 2G
 - [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]]
 
 [[ESP32-dev-board-dat]]
-- [[NWI1100-dat]] - [[NWI1206-dat]] - [[NWI1145-dat]]
+- [[NWI1100-dat]] - [[NWI1206-dat]] - [[NWI1145-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
+
 - [[NWI1180-dat]]
 
 
@@ -513,7 +514,7 @@ MT7688
 
 [[sensor-Camera-dat]]
 
-- [[SCM1030-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]] - [[SCM1008-dat]]
+- [[SCM1030-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]] - [[SCM1008-dat]] - [[SCM1017-dat]]
 
 
 ### SCU

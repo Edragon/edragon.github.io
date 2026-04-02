@@ -148,6 +148,8 @@
 
 - [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 
+- [[sensor-camera-dat]]
+
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]]
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
@@ -273,7 +275,7 @@
 
 - [[effects-dat]]
 
-- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-workspace-dat]]
+- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-workspace-dat]] - [[fab-3d-print-dat]] - [[fab-soldering-dat]]
 
 - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-soldering-dat]] - [[footprint-dat]]
 

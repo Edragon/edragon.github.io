@@ -41,13 +41,9 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 
 
-## chips 
 
-- [[HX711-dat]]
 
-- [[TI-ADC-dat]] - [[TI-dat]]
 
-- [[AD-ADC-dat]] - [[analog-device-dat]]
 
 ## SCH 
 
@@ -106,6 +102,14 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 - [[BAT54S-dat]]
 
 
+## chips 
+
+- [[HX711-dat]]
+
+- [[TI-ADC-dat]] - [[TI-dat]]
+
+- [[AD-ADC-dat]] - [[analog-device-dat]]
+
 
 
 ## chips 
@@ -122,9 +126,7 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 	
 - AD9224ARSZ - 12 Bit Analog to Digital Converter 1 Input 1 Pipelined 28-SSOP
 
-- [[microchip-dat]] - MCP3201 == 2.7V 12-Bit A/D Converter with SPI Serial Interface
-
-
+- [[microchip-ADC-dat]] - [[microchip-dat]]
 
 ## other chips 
 

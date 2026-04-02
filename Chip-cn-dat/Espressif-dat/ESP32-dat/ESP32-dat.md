@@ -36,7 +36,7 @@ and more at [[espressif-dat]]
 
 DEV Baords 
 
-- [[NWI1100-dat]] - [[NWI1145-dat]] - [[NWI1206-dat]] 
+- [[NWI1103-dat]] - [[NWI1102-dat]] - [[NWI1101-dat]] - [[NWI1100-dat]] - [[NWI1145-dat]] - [[NWI1206-dat]] 
 
 - [[ESP32-S3-dat]] == [[NWI1243-dat]]
 

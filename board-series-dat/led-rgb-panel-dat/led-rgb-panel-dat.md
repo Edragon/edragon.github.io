@@ -1,4 +1,4 @@
-# RGB matrix panel dat
+# led-rgb-panel-dat
 
 
 - [[led-full-panel-installation-dat]] - [[flexible-led-rgb-panel-dat]] - [[led-rgb-panel-chip-dat]]
@@ -8,12 +8,12 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 [rgb-full-color-led-matrix-panel](https://www.electrodragon.com/product/rgb-full-color-led-matrix-panel/)
 
 
-- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]]
+- [[ILE1058-dat]] - [[ILE1059-dat]] - [[ILE1060-dat]] - [[led-rgb-panel-dat]]
 
 
 - [[RMP-driver-dat]] 
 
-
+- [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - [[led-rgb-panel-dat]]
 
 
 ## Panel Specifications
@@ -43,6 +43,38 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 * Drive constant current, dynamic
 * Flash rate 2000Hz
 
+
+
+## common panels 
+
+| dots    | model | CM  | chip | SKU | port            |
+| ------- | ----- | --- | ---- | --- | --------------- |
+| 256x128 |       |     |      |     | [[HUB08-dat]]   |
+| 64x64   | P3    |     |      |     | [[ILE1060-dat]] |
+| 32x16   |       |     |      |     | [[ILE1058-dat]] |
+
+- [[ILE1060-dat]]
+
+chip list 
+
+64x64 - ICN2053 + ICN2012
+
+## 256 x 128 
+
+- chip == TC5020AP JC5020 
+
+![](2026-03-20-22-14-11.png)
+
+
+## 64 x 64
+
+- DP5125 / MV245B
+https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA/issues/645
+
+![](2026-03-24-16-40-47.png)
+
+![](2026-03-24-16-41-06.png)
+
 ## Code Documentation
 
 - Demo code supported for Raspberry Pi, code revised from here https://github.com/hzeller/rpi-rgb-led-matrix, compatible and mostly same except transfomer part, original code can not well support our this type.
@@ -66,10 +98,6 @@ for outdoor ONLY P6 and P8
 - [[cable-ribbon-dat]] - [[HUB75-dat]] == 26P
 
 - [[cable-power-dat]] - [[conn-cable-terminal-dat]] - [[CONN-VH3.96-dat]] - [[conn-cable-terminal-crimp-dat]]
-
-![](2026-02-26-17-49-49.png)
-
-![](2026-02-26-17-50-05.png)
 
 
 - [[screw-dat]] - [[screw-magnetic-dat]]
@@ -109,6 +137,16 @@ Gen-3: Advanced grayscale panels using chips like MBI5153 or ICND2153 that suppo
 - [[mono-matrix-panel-dat]] 
 
 - [[led-rgb-panel]]
+
+
+
+
+## driver board 
+
+- [[IDD1027-dat]] - [[IDD1013-dat]]
+
+
+
 
 
 ## ref 

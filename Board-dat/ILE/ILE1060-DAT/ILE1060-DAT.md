@@ -26,9 +26,30 @@
 ![](2026-02-26-17-50-05.png)
 
 
+
+
 - [[screw-dat]] - [[screw-magnetic-dat]]
 
 - [[waterproof-dat]]
+
+
+
+
+## version logs - ignore for hack only 
+
+- P3匹配通用板
+- P3-RGB-32S-6464-V2.2
+- P3-M3
+- P3-32S-HL1.4/1.2
+- KSL-3-6464-V2.0
+- Q3F32V4.1(16237+2013)
+- Q3F32V4(16207+2013)
+- HUB30接口(2053+2012)
+- Q3F32V4.1(2053+2012)
+- Q3F32V4.1(2055+5266)
+
+
+
 
 ## ref 
 

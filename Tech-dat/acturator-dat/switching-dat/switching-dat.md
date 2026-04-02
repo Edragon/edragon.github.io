@@ -45,12 +45,29 @@ TPS22916CYFPR == TPS22916xx 1-V–5.5-V, 2-A, 60-mΩ Ultra-Low Leakage Load Swit
 
 - [[motor-driver-dat]]
 
+
+
+## Applications
+
+- Analog signal switching and multiplexing:signal gating, modulators, squelch controls,demodulators, choppers, commutating switches 
+- Digital signal switching and multiplexing
+- Analog-to-digital and digital-to-analog conversions 
+- Digital control of frequency, impedance, phase,and analog-signal gain
+- Building automation
+
+
+
 ## switching ICs 
 
-SN74CB3Q3244 - 8-BIT FET BUS SWITCH - 2.5-V/3.3-V LOW-VOLTAGE HIGH-BANDWIDTH BUS SWITCH
+
+`CD4066B` CMOS Quad Bilateral Switch - The CD4066B device is a quad bilateral switch intended for the transmission or multiplexing of analog or digital signals. 
+
+It is pin-for-pin compatible with the CD4016B device, but exhibits a much lower onstate resistance. In addition, the on-state resistance is relatively constant over the full signal-input range.
+
+`SN74CB3Q3244` - 8-BIT FET BUS SWITCH - 2.5-V/3.3-V LOW-VOLTAGE HIGH-BANDWIDTH BUS SWITCH
 
 
-switching IC - SN75451BDR - SN5545xB, SN7545xB Dual-Peripheral Drivers for High-Current, High-Speed Switching
+switching IC - `SN75451BDR` - `SN5545xB`, `SN7545xB` Dual-Peripheral Drivers for High-Current, High-Speed Switching
 
 
 - [[PE4259-dat]] - [[UPG2179-dat]]

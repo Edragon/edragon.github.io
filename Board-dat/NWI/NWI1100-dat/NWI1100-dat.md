@@ -2,9 +2,15 @@
 
 # NWI1100-dat 
 
+- [[esp32-module-clone-dat]]
+
+- [[NWI1100-dat]] - [[NWI1101-dat]] - [[ESP32-dat]] - [[ESP32-board-dat]] - [[ESP32-dev-board-dat]]
+
+board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
+
 ESP32-DevKitC
 
-https://www.electrodragon.com/product/esp32-devkitc/
+[product url - ESP32 Mini Core Dev. Board, ESP32-DevKitC, V4 [Ver.]](https://www.electrodragon.com/product/esp32-devkitc/)
 
 
 ![](20-34-18-09-08-2023.png)
@@ -34,10 +40,14 @@ legacy wiki page
 
 
 ## Pin 
+
+pin == 2x19 
+
 ![](13-37-18-09-08-2023.png)
 
 | L_assigned | left | right | R_assigned |
 | ---------- | ---- | ----- | ---------- |
+|            | 3V3  | GND   |            |
 |            | en   | 23    |            |
 |            | 36   | 22    |            |
 |            | 39   | TXD0  |            |
@@ -58,9 +68,14 @@ legacy wiki page
 |            | +5V  | 6     |            |
 
 
+## dimension 
 
 ![](2024-01-10-11-17-52.png)
 
+![](2026-04-02-20-41-15.png)
+
+
+## physical board 
 
 ![](2024-01-10-11-18-30.png)
 

@@ -2,6 +2,19 @@
 
 # NGS1128-DAT
 
+
+- common board == [[NGS1128-dat]] == CAT-M / [[NBIOT-dat]] module + [[GNSS-dat]]
+
+
+
+
+- [[SIMCOM-AT-dat]] - [[SIM7080-dat]] - [[SIMCOM-dat]]
+
+- [[network-dat]] - [[LTE-dat]] - [[LWPA-dat]] - [[MQTT-dat]] - [[GNSS-dat]]
+
+- [[antenna-dat]]
+
+
 ## Hardware 
 
 ![](36-15-17-03-04-2023.png)
@@ -23,10 +36,6 @@ right column pins
 - MCU_BOOT / EXT_3V3 / VBAT / GND / 5V / DM / DP / USB_V
 
 
-## Demo 
-
-![](2024-04-11-16-15-55.png)
-
 ## Quick Setup 
 
 | Functions            | Setup and Pins             |
@@ -40,6 +49,16 @@ right column pins
 | boot mode            | press-button / mcu-trigger |
 
 
+## package
+
+- please note antennas are not inlcuded in the package, you need to buy them separately
+
+
+## Demo 
+
+![](2024-04-11-16-15-55.png)
+
+
 ## ref 
 
 - Driver: [[git]] simcom_driver
@@ -47,7 +66,7 @@ right column pins
 
 - [[mqtt-dat]]
 - [[NGS1128]] - [[SIM7080-dat]]
-- [[SIMCOM-AT]]
+- [[SIMCOM-AT-dat]]
 - [[SIMCOM-AT-GNSS-dat]]
 - https://w.electrodragon.com/w/SIM7080
 

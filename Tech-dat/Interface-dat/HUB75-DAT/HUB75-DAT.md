@@ -4,6 +4,7 @@
 
 - [[cable-ribbon-dat]] - [[HUB75-dat]]
 
+- [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - [[led-rgb-panel-dat]]
 
 
 ## HUB75 with logic shifter on channel 0
@@ -15,6 +16,8 @@
 ## Real input connector 
 
 ![](2024-01-14-16-31-06.png)
+
+![](2026-03-20-19-32-41.png)
 
 
 ## Input 

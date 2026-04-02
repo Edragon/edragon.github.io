@@ -3,6 +3,13 @@
 # soldering-materials-dat
 
 
+- [[solder-paste-dat]] - [[soldering-flux-dat]]
+
+
+
+
+## soldering wire 
+
 Nickel, Copper, and Sandwich (For 18650/21700)
 
 | Material        | Best Use Case                      | Pros                                                                         | Cons                                                                   |

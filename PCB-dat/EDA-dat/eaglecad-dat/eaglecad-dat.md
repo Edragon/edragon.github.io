@@ -2,7 +2,7 @@
 # eagle-CAD-dat
 
 
-- [[bitmap-dat]] - [[dxf-dat]]
+- [[bitmap-dat]] - [[dxf-dat]] - [[software-dat]]
 
 - [[PCB-design-dat]] 
 
@@ -58,6 +58,20 @@ thermal only for holes
 
 
 ## artwork 
+
+
+some more notes: 
+
+- if print on the back side of the PCB, image must be mirrored, otherwise the image will be reversed after printing.
+
+size definitions 
+
+- define the pixels, for example your raw bitmap image size is 620 x 480 px 
+- define the import scale, for exmample 1.0 
+
+![](2026-04-02-16-59-10.png)
+
+
 
 1. invert the color, only left black to use, white to left out, saved as BMP, tools is opensource photodemon  
 

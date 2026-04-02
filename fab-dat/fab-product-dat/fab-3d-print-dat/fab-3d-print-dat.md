@@ -3,6 +3,11 @@
 
 - [[3d-print]]
 
+- [[plastic-dat]]
+
+- [[fab-3d-print-materials-dat]] - [[PLA-dat]] - [[3d-print-service-dat]]
+
+
 
 ## tech 
 

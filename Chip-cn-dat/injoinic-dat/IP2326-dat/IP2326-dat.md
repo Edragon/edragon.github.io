@@ -34,6 +34,39 @@ SCH
 
 ![](2026-02-12-18-36-51.png)
 
+| chip   | func      | set_mark | descrtiption                                 | default    |
+| ------ | --------- | -------- | -------------------------------------------- | ---------- |
+| pin 3  | RVSET     | VSET     |                                              | NC=8.4V    |
+| pin 4  | NTC       | NTC      | Charging temperature detection pin           | 51K = 40C? |
+| pin 7  | TIME_SET  | ROT      | Charging time-out protection setting pin     | NC=24H     |
+| pin 8  | VIN_UVSET | RUV      | Charging under-voltage threshold setting pin | 1K=4.25V   |
+| pin 9  | VIN_OVSET | ROV      | Charging over-voltage threshold setting pin  |            |
+| pin 10 | CON_SEL   |          | `battery select 2/3 series`                  |            |
+| pin 11 | ISET      | ISET     | Charging current setting pin                 |            |
+
+CON_SEL - Select that 2/3 series battery charging, floating select 2 series charge;select 3 series charge if it pull down to GND with a 1 kOhm resistor
+
+
+current setup 
+
+两个并联电阻共同设置电流
+
+- 100K提供0.9A
+- 180K提供0.5A
+
+总电流为两电阻设置相加
+
+![](2026-03-21-18-54-49.png)
+
+## setup 
+
+- VSET == NC
+- NTC == 51K about 40 C 
+- ROT == 1K 
+- RUV
+- ROV
+- ISET
+
 
 ## board 
 
@@ -43,5 +76,5 @@ SCH
 
 ## ref 
 
-- [[IP2326]]
+- [[IP2326]] - [[injoinic]]
 

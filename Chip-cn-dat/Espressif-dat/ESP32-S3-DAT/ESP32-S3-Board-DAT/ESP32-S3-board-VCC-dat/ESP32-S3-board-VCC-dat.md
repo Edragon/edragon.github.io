@@ -17,7 +17,10 @@
 
 ![](2026-03-12-14-05-47.png)
 
+pin == 2x22 
+
+
 
 ## ref 
 
-- [[ESP32-S3-board-VCC-dat]] - [[ESP32-S3-board-WV-dat]] - [[ESP32-S3-board-dat]]
+all boards info - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-VCC-dat]] - [[ESP32-S3-board-WV-dat]] - [[ESP32-S3-DevKitC-1-dat]] - [[NWI1243-dat]]

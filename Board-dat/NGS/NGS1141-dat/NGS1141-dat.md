@@ -1,11 +1,17 @@
 
 # NGS1141-dat
 
+- [[NGS1141-dat]] - [[NGS1142-dat]] - [[NGS1143-dat]] - [[A7670-mod-v2-dat]] - [[A7670-dat]]
+
+
+
 ## Info
 
 [product url - A7670 LTE CAT-1 GSM Mini Module V2](https://www.electrodragon.com/product/a7670-lte-cat-1-gsm-mini-module/)
 
 - refer to the full series here [[A7670-dat]]
+
+
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
@@ -36,6 +42,9 @@ Update logs
 
 Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
+![](2026-03-20-22-14-58.png)
+
+![](2026-03-20-22-15-08.png)
 
 ## jumper list 
 

@@ -4,7 +4,7 @@
 
 - [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]] - [[power-detector-dat]] - [[power-amplifier-dat]]
 
-
+- [[voltage-dat]]
 
 == V_ref 
 
@@ -68,6 +68,21 @@ for ADC-AVDD
 
 
 ## more 
+
+
+`MCP1525` / `MCP1541` - 2.5V and 4.096V Voltage References - The Microchip Technology Inc. MCP1525/41 devices are 2.5V and 4.096V precision voltage references that use a combination of an advanced CMOS circuit design and EPROM trimming to provide an initial tolerance of ±1% (max.) and temperature stability of ±50 ppm/°C (max.). 
+
+
+
+
+`LM336Z`-2.5/LFT3 - Voltage References Voltage reference diode 3-TO-92
+
+The LM136-2.5-N/LM236-2.5-N  and LM336-2.5-Nintegrated circuits are precision 2.5V shunt regulatordiodes. 
+
+These monolithic IC voltage references operate as a low-temperature-coefficient 2.5V zener with 0.2Q dynamic impedance. 
+
+A third terminal on the LM136-2.5-N allows the reference voltage and temperature coefficient to be trimmed easily.
+
 
 - Voltage References | LM336Z25 - 2.49 V, 2% Programmable Shunt Regulator
 
