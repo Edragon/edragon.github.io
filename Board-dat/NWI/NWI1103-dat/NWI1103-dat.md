@@ -14,7 +14,11 @@ product url -
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-- [[ESP32-wrover-dat]]
+- [[ESP32-wrover-dat]] - version == E 
+
+![](2026-04-02-20-56-10.png)
+
+![](2026-04-02-20-56-47.png)
 
 ## Applications, category, tags, etc. 
 
@@ -22,7 +26,7 @@ product url -
 
 ## ref 
 
-- [[]] 
+- [[NWI1103]] 
 
 - legacy wiki page 
 
