@@ -1,21 +1,29 @@
 
 # mechnical-structure-dat.md
 
+- [[structure-design-dat]] - [[engineering-dat]]
+
+
+common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-dat]]
+
+- [[power-transmission-dat]] - [[bel-sys-dat]]
+
+
 - [[alu-extrusion-dat]]
 
 - [[rod-system-dat]] 
 
 - [[motion-system-dat]] 
 
-- [[belt-sys-dat]]
-
-- [[sheet-dat]] 
 
 - [[cable-dat]] - [[wire-steel-dat]]
 
-- [[frame-dat]]
+
 
 - [[sheet-dat]] - [[rod-system-dat]] == [[flange-dat]]
+
+- [[fixture-dat]]
+
 
 ### turnover box
 
