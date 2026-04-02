@@ -5,7 +5,7 @@
 
 - [[IDD1016-dat]] - [[IDD1013-dat]] - [[IDD1027-dat]]
 
-- [[cable-ribbon-dat]]
+- [[CONN-cable-Box-header-dat]] - [[HUB75-DAT]] - [[cable-ribbon-dat]]
 
 https://w.electrodragon.com/w/ESP32_RMP
 
