@@ -25,6 +25,10 @@
 
 
 
+## AT89 
+
+`AT89C55WD` - 8-bit Microcontroller with 20K Bytes Flash
+
 ## repro 
 
 - https://bitbucket.org/e_dragon/attiny88

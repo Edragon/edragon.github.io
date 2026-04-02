@@ -2,7 +2,7 @@
 
 # sensor-camera-dat 
 
-- [[video-dat]] - [[image-dat]]
+- [[video-dat]] - [[image-dat]] - [[vision-dat]]
 
 - [[camera-interface-dat]] - [[camera]] - [[video-transmission-dat]]
 
@@ -17,6 +17,9 @@
 
 
 - [[camera-depth-dat]]
+
+- [[camera-installation-dat]] - [[sensor-camera-dat]] 
+
 
 ## boards 
 

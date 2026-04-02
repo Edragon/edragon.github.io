@@ -1,6 +1,7 @@
 
 # fitting-dat
 
+- [[hose-clamp-dat]] - [[fitting-dat]]
 
 
 ### Barbed fitting

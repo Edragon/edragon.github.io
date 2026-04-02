@@ -9,6 +9,10 @@
 
 - [[dcdc-dat]] - [[ACDC-dat]] - [[power-dat]]
 
+- [[triac-dat]] - [[triac-driver-dat]]
+
+
+
 ## DCDC control system 
 
 ![](2025-06-05-19-07-35.png)

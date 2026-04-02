@@ -2,7 +2,11 @@
 # microchip-dat
 
 
+- [[microchip-ADC-dat]] - [[microchip-dat]]
+
 - [[microchip-MCU-dat]] - [[ADC-dat]]
+
+- [[voltage-reference-dat]]
 
 LAN8710A/8720A - SMSC
 

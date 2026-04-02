@@ -12,6 +12,13 @@
 | MOC3063 | y          | 5000V       | min. 600V |
 | MOC3163 | y          |             |
 
+- [[MOC3061-dat]]
+
+- [[onsemi-dat]] - [[liteON-dat]]
+
+
+
+
 ## Applications 
 
 - AC Motor Drivers 
