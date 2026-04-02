@@ -1,7 +1,7 @@
 
 # SMT-Reflow-Soldering-dat
 
-- [[pnp-machine-dat]]
+- [[pnp-machine-dat]] - [[solder-paste-dat]]
 
 
 ## Reflow Solder Paste Comparison: 183°C vs 138°C
