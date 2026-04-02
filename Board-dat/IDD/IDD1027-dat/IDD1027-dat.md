@@ -13,10 +13,18 @@ suitable boards - [[ESP32-S3-board-VCC-dat]] - [[ESP32-S3-board-WV-dat]] - [[ESP
 
 - [[led-rgb-panel-dat]]
 
+- [[LDR-dat]] - [[photoresistor-dat]] - [[sensor-light-dat]]
+
+- [[protection-power-dat]]
 
 ## board map 
 
 ![](2026-03-12-15-40-24.png)
+
+
+E_BUFF(mid two pins) to SEL1_BUFF or SEL1 
+
+![](2026-04-02-21-51-45.png)
 
 
 
@@ -44,6 +52,9 @@ libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display\esp32s3-default-pins.hpp
 #define LAT_PIN_DEFAULT 40
 #define OE_PIN_DEFAULT  2
 #define CLK_PIN_DEFAULT 41
+
+
+in which E_PIN_DEFAULT optionally connect by 3-way-jumper to IO17 or IO46
 
 
 ## 64x64 test 
