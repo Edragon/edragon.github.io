@@ -70,9 +70,32 @@ current setup
 - ISET
 
 
+## status LED 
+
+LED 
+
+Battery charging LED indicator light, 
+
+- charging process LED light, 
+- full charge LED out, 
+- detected abnormal LED flashing.
+
+电池充电LED指示灯，充电过程LED亮，充电满后LED灭，检测到异常后LED闪烁。
+
+BAT_STAT 
+
+BAT_STAT指示充电状态，在涓流充电时输出低电平，进入恒流充电后输出高电平；
+
+
 ## board 
 
 ![](2026-03-13-15-41-01.png)
+
+LED指示灯：
+
+- 充电过程红灯亮，
+- 充电满后蓝亮， == 涓流充电
+- 检测到异常后蓝灯交叉闪烁。这时候测量电池电压是否在合适范围内。
 
 
 

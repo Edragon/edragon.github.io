@@ -15,8 +15,11 @@
 
 
 
+- [[battery-charger-1s-dat]]
 
 - [[dcdc-down-dat]] - [[IP236x-dat]] - [[dcdc-boost-dat]] - [[IP2326-dat]]
+
+- [[IP5306-dat]] - [[ETA9741-dat]] - [[ETA-solutions-dat]]
 
 
 ## workaround 
