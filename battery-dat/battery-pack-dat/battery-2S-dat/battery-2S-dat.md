@@ -5,6 +5,11 @@
 
 - [[battery-charger-2s-dat]]
 
+
+- [[dcdc-down-dat]] - [[IP236x-dat]] - [[dcdc-boost-dat]] - [[IP2326-dat]]
+
+
+
 ## Simple 1S to 2S management Solutions 
 
 ![](2025-05-12-16-09-09.png)

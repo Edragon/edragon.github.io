@@ -7,7 +7,9 @@
 
 - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-dat]]
 
-- [[IP2326-dat]] - [[injoinic-dat]]
+- [[IP2365-dat]] - [[IP2326-dat]] - [[injoinic-dat]]
+
+- boost only 
 
 特性
 -  15W 同步开关升压充电

@@ -19,6 +19,8 @@
 
 ## general solutions 
 
+- [[dcdc-down-dat]] - [[IP236x-dat]] - [[dcdc-boost-dat]] - [[IP2326-dat]]
+
 - [[IP2326-dat]] - [[IP236x-dat]] - [[injoinic-dat]]
 
 - [[CN3300-dat]] - [[CN3306-dat]] - [[Consonance-dat]]
