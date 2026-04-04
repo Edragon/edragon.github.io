@@ -4,7 +4,11 @@
 - [[camera-digital-dat]]
 
 
+## common analog sensor for car / truck surveillance
 
+![](2026-04-04-14-12-52.png)
+
+use - [[conn-audio-dat]] == signal normally == video out (CVBS) + power + GND
 
 ## RC Specified Camera 
 

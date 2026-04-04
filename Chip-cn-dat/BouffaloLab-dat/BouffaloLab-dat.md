@@ -1,6 +1,9 @@
 
 # BouffaloLab-dat
 
+
+- [[wifi-module-dat]]
+
 - [[BL602-dat]] - [[BL616-dat]]  - [[XT-BL602-DAT]]
 
 

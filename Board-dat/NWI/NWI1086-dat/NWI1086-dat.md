@@ -26,8 +26,8 @@ Price will automatically update in cart when the order quantity is changed.
 
 ## ref 
 
-- [[ESP8266-dat]] - [[ESP-12S-dat]]
+- [[ESP8266-dat]] - [[ESP-12S-dat]] - [[NWI1086-dat]] 
 
-- [[NWI1086-dat]] - [[NWI1059-dat]]
+- [[ESP-12F-dat]] - [[ESP8266-dat]]
 
 - [[NWI1086]]
