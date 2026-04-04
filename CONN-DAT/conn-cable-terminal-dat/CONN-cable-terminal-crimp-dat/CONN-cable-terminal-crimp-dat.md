@@ -24,6 +24,10 @@ VE-type tubular crimp terminals are designed for use with stranded wire and are 
 ![](2025-06-06-19-31-17.png)
 
 
+## 4.6mm / 6.3mm crimp 
+
+![](2026-04-04-19-03-28.png)
+
 ## ref 
 
 - [[conn-dat]]
