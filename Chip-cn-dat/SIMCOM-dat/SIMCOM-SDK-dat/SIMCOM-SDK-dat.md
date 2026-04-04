@@ -50,6 +50,6 @@ Note: **click the GO, then plug in the board**
 
 - [[A76XX_A79XX_Series_Upgrade_User_Guide.pdf]]
  
-- [[driver-dat]]
+- [[driver-software-dat]]
 
 - [[SIMCOM]]

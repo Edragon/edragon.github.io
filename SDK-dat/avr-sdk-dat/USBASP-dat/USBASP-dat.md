@@ -38,7 +38,7 @@ wiring with [[DOD1017-dat]] - [[attiny44-dat]]
 
 ![](2026-02-26-16-21-27.png)
 
-- [[driver-dat]] fixed by zadig - [[zadig-dat]]
+- [[driver-software-dat]] fixed by zadig - [[zadig-dat]]
 
 ## error Function not implemented - install driver 
 
@@ -83,12 +83,12 @@ System wide configuration file is "C:\Users\Administrator\AppData\Local\Arduino1
 
 https://github.com/Edragon/USBaspLoader
 
-driver - - [[driver-dat]] - [[avr-dat]] 
+driver - - [[driver-software-dat]] - [[avr-dat]] 
 
 
 ## ref 
 
-- [[driver-dat]] - [[avr-dat]] 
+- [[driver-software-dat]] - [[avr-dat]] 
 
 - [[avrdude-dat]]
 

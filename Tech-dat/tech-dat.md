@@ -44,7 +44,7 @@
 
 ### power and battery
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]]
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]] - [[POE-dat]]
 
 - [[battery-dat]] - [[battery-rechargerable-dat]] 
 
@@ -151,6 +151,8 @@
 - [[sensor-camera-dat]]
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]]
+
+- [[driver-dat]]
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
