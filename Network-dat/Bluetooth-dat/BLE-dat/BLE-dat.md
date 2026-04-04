@@ -91,7 +91,11 @@ For Android devices, you can directly install the following apps:
 
 - [[head-track-dat]]
 
+- [[smartband-dat]]
 
+## BLE chip options 
+
+- [[PHY-co-dat]]
 
 
 

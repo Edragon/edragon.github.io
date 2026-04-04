@@ -152,7 +152,7 @@ request
 
 - [[ismartware-dat]] - [[SW6124-dat]]
 
-
+- [[linear-technology-dat]] 
 
 ## ref
 

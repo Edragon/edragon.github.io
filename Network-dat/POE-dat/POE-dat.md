@@ -1,4 +1,8 @@
 
+# POE-dat
+
+
+- [[LAN-dat]]
 
 # ESP32 POE / RS485 test 
 
@@ -21,6 +25,21 @@
 - [[RJ45-dat]]
 
 
+## deqiao dq-1508 POE module 
+
+![](2026-04-04-14-56-26.png)
+
+![](2026-04-04-14-56-38.png)
+
+![](2026-04-04-14-56-52.png)
+
+interface POE and LAN 
+
+![](2026-04-04-14-57-10.png)
+
+name scrapped chip 
+
+![](2026-04-04-14-58-02.png)
 
 
 ## ref 
