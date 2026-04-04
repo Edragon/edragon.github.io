@@ -1,6 +1,17 @@
 
 # infrared-receiver
 
+
+## products 
+
+- integrated infrared antenna 
+
+![](2026-04-04-22-15-47.png)
+
+![](2026-04-04-22-15-55.png)
+
+
+
 ## Common Types 
 
 ### 0038 

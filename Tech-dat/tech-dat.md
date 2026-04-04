@@ -77,7 +77,7 @@
 == Proprietary
 
 
-- [[network-dat]] - [[location-dat]] - [[radio-FM-dat]]
+- [[network-dat]] - [[location-dat]] - [[radio-FM-dat]] - [[infrared-dat]]
 
 - [[network-system-dat]]
 
@@ -235,6 +235,8 @@
 ## Mechnicals 
 
 - [[mechanics-dat]] - [[CAD-dat]] - [[CNC-dat]] 
+
+- [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]]
 
 - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
 

@@ -8,7 +8,7 @@
 
 ![](2026-04-04-20-45-44.png)
 
-need screws M6 ~ M8
+need [[screw-dat]] or [[nail-dat]] M6 ~ M8
 
 
 ![](2026-03-14-17-59-45.png)

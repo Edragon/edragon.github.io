@@ -33,9 +33,13 @@ type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenn
 | gain     | 2dbi                         | 8dbi                         |
 | Features | -                            | foldable                     |
 
+## whip antenna inside 
 
+- [[PCB-dat]] or [[cable-dat]]
 
+![](2026-04-04-22-14-31.png)
 
+![](2026-04-04-22-14-46.png)
 
 ## ref 
 
