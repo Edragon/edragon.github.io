@@ -23,6 +23,8 @@
 
 ## chip and boards 
 
+- [[SGM4890-dat]] - [[SG-micro-dat]]
+
 - [[CD7379-dat]]
 
 - [[AMP1024-dat]] - [[max97220-dat]] - [[ad-audio-dat]] - [[analog-device-dat]] - [[amplifier-audio-dat]]

@@ -178,7 +178,7 @@
 
 - [[serial-dat]] - [[serial-wireless-dat]]
   
-- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]]
+- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]]
 
 - [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]]
 
