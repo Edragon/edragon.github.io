@@ -9,7 +9,7 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[conn-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]]
 
 - [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]]
 
@@ -27,7 +27,7 @@
 
 - [[CONN-USB-dat]] - [[USB-SDK-dat]]
 
-
+- [[conn-dat]] - [[conn-cable-jst-dat]]
 
 
 ## New Tech And Updates 

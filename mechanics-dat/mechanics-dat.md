@@ -148,4 +148,7 @@ Aluminum Profile - Profile Accessories - Conveyor Line and Functional Components
 
 ## ref 
 
+
+- [[mechanics]]
+
 - [[tech-dat]]

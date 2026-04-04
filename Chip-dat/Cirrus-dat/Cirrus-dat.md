@@ -49,6 +49,9 @@ Define CONFIG_I2S_BCK_PIN CONFIG_I2S_LRCK_PIN CONFIG_I2S_DATA_PIN as your connec
 
 ## CS5532 
 
+CS5531/32/33/34 - 16/24-Bit A/D Converters with Ultra-Low-Noise PGIA
+
+
 16/24-Bit A/D Converters with Ultra-Low-Noise PGIA
 
 The CS5531/32/33/34 family of highly integrated, Delta Sigma analog-to-digital (A/D) converters use charge-balance techniques to achieve 16-bit (CS5531/33) and 24-bit (CS5532/34) performance. 
