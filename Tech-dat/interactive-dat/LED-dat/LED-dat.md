@@ -17,11 +17,11 @@
 
 - [[WS2812-dat]]
 
-
+- [[LED-UV-dat]] - [[led-dat]]
 
 ## functional LEDs 
 
-- [[LED-UVA-dat]]
+- [[LED-UV-dat]]
 
 
 ## LED matrix 

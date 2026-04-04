@@ -28,6 +28,7 @@ common brand: 	Infineon
 
 ### more NPN 
 
+
 `MMBTH10` - 25V NPN VHF/UHF TRANSISTOR IN SOT23
 
 ### S8050 
@@ -47,6 +48,17 @@ common brand: 	Infineon
 
 
 ![](2024-10-01-19-17-24.png)
+
+### SOT89 transistor 
+
+D965A - LOW VOLTAGE HIGH CURRENT TRANSISTOR 2SD965A
+
+![](2026-04-04-16-48-48.png)
+
+FEATURES
+- Collector current up to 5A
+- Collector-Emitter voltage up to 30V
+
 
 ### infineon
 
