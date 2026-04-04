@@ -15,11 +15,11 @@
 
 #### How it Compares to Other Methods:
 
-| Driving Method | Control Waveform | Performance | Noise Level |
-| :--- | :--- | :--- | :--- |
-| **Trapezoidal (6-Step)** | Blocky "On/Off" steps | Good for high speed, jerky at low speed | **Loud** (High-pitched whine) |
-| **Sinusoidal** | Smooth Sine waves | Smoother than Trapezoidal | Quiet |
-| **FOC (Vector)** | Precise mathematical alignment | **Highest Torque & Efficiency** | **Silent** |
+| Driving Method           | Control Waveform               | Performance                             | Noise Level                   |
+| :----------------------- | :----------------------------- | :-------------------------------------- | :---------------------------- |
+| **Trapezoidal (6-Step)** | Blocky "On/Off" steps          | Good for high speed, jerky at low speed | **Loud** (High-pitched whine) |
+| **Sinusoidal**           | Smooth Sine waves              | Smoother than Trapezoidal               | Quiet                         |
+| **FOC (Vector)**         | Precise mathematical alignment | **Highest Torque & Efficiency**         | **Silent**                    |
 
 
 ### common motor-BLDC-driver 
@@ -72,6 +72,32 @@ common interface
 - 3pin == 3V3 AD GND == [[break-dat]]
 - 2pin == 
 - 5pin == 
+
+
+| Pin     | Name                     | Description          | Logic / Signal                                     |
+| :------ | :----------------------- | :------------------- | :------------------------------------------------- |
+| **VCC** | Voltage Common Collector | Main Power Input (+) | Connect to motor's rated voltage (e.g., 12V/24V).  |
+| **GND** | Ground                   | Common Ground (-)    | Connect to power supply (-) and controller ground. |
+| **PWM** | Pulse Width Modulation   | Speed Control        | Input signal to vary rotation speed.               |
+| **FR**  | Forward / Reverse        | Direction Control    | Digital signal to switch rotation direction.       |
+| **FG**  | Frequency Generator      | Speed Feedback       | Output pulses to measure real-time RPM.            |
+
+## products 
+
+a serie of BLDC motor driver
+
+![](2026-04-04-18-47-30.png)
+
+[[MCU-dat]] - C0816S103 - [[mosfet-dat]]
+
+![](2026-04-04-17-35-59.png)
+
+[[MCU-dat]] - MD108056 - [[mosfet-dat]]
+
+![](2026-04-04-17-36-44.png)
+
+![](2026-04-04-17-38-12.png)
+
 
 ## ref 
 

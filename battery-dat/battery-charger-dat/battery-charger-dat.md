@@ -95,7 +95,7 @@ request
 
 ## battery cables 
 
-- [[SM2.54-dat]] - [[JST-dat]] - [[15EDGRKP-3.81mm-dat]] - [[XT-dat]] - [[cable-dat]]
+- [[SM2.54-dat]] - [[CONN-cable-JST-dat]] - [[15EDGRKP-3.81mm-dat]] - [[XT-dat]] - [[cable-dat]]
 
 
 ## 2S charger 

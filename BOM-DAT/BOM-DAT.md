@@ -47,7 +47,7 @@ https://www.electrodragon.com/w/RCL_List
 
 ## CONN
 
-- [[CONN-dat]] - [[DB9-dat]] - [[JST-dat]]
+- [[CONN-dat]] - [[DB9-dat]] - [[CONN-cable-JST-dat]]
 
 - [[CONN-USB-dat]]
 

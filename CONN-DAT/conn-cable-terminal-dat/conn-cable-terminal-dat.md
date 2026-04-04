@@ -3,9 +3,10 @@
 
 
 
-- [[JST-dat]] - [[XH2.54-dat]]
+- [[CONN-cable-JST-dat]] - [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-SM-dat]]
 
-- [[conn-box-header-dat]] - [[CONN-dat]]
+- [[CONN-cable-box-header-dat]] - [[CONN-dat]]
+
 
 
 ## 3.5mm pitch 

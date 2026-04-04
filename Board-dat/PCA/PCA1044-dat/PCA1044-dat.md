@@ -19,7 +19,7 @@ https://www.electrodragon.com/product/jst-connector-set-female-male-with-14cm-wi
 
 ## ref 
 
-- [[JST-dat]]
+- [[CONN-cable-JST-dat]]
 
 - [[PCA1044]]
 

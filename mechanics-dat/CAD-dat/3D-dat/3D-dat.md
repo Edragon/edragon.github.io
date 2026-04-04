@@ -19,7 +19,7 @@
 
 - raspberry-pi-zero-2-w-1 == https://grabcad.com/library/raspberry-pi-zero-2-w-1
 
-- [[JST-dat]] - [[CONN-dat]]
+- [[CONN-cable-JST-dat]] - [[CONN-dat]]
 
 - [[XH2.54-dat]]
 

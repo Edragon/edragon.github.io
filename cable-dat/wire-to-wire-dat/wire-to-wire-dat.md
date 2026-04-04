@@ -1,5 +1,7 @@
 
-# wire-2-wire-dat
+# wire-to-wire-dat
+
+- [[CONN-cable-JST-dat]] 
 
 
 ## new type 
@@ -25,7 +27,7 @@
 | **Fishtail Connectors**     | Designed to connect two wires in a variety of configurations, typically with a flat, fork-like shape. |
 
 
-[[JST-dat]]
+[[CONN-cable-JST-dat]]
 
 - [[XH2.54-dat]]
 
@@ -48,3 +50,10 @@
 ## fast wire to wire connectors
 
 ![](2025-05-29-19-07-55.png)
+
+## bullet to bullet connector 
+
+![](2026-04-04-18-58-28.png)
+
+
+## ref 

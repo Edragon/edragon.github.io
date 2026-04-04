@@ -1,7 +1,11 @@
 
 # Conn-dat 
 
-- [[USB-dat]] - [[CONN-USB-dat]] - [[conn-dat]]
+- [[CONN-dat]] - [[cable-dat]]
+
+- [[conn-cable-terminal-dat]]
+
+- [[CONN-USB-dat]] - [[conn-dat]]
 
 
 - [[conn-power-dat]]
@@ -16,17 +20,15 @@
 
 - [[CONN-waterproof-dat]]
 
-- [[RJ11-dat]] - [[RJ45-dat]]
+- [[CONN-cable-JST-dat]]] - [[RJ45-dat]]
 
-- [[DB9-dat]] - [[DB15-dat]] - [[DB25-dat]] - [[CONN-dat]]
+- [[DB9-dat]] - [[DB15-dat]] - [[DB[[CONN-cable-JST-dat]][[CONN-dat]]
 
 - [[JST-dat]]
 
 - [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-dat]] - [[SH1.0-dat]] - [[1.25-dat]] - [[ZH1.5-dat]] - [[XH2.0-dat]]
 
 - [[CONN-Plug-dat]]
-
-- [[conn-cable-terminal-dat]]
 
 - [[conn-audio-dat]] - [[conn-video-dat]]
 
@@ -71,7 +73,7 @@
 ## CONN by purpose 
 
 
-### power connector 
+### power connector [[CONN-cable-JST-dat]]
 
 - [[XT30-dat]] - [[XT60-dat]] - [[PH2.0-dat]] - T-插 - [[JST-dat]]
 

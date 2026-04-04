@@ -12,7 +12,7 @@
 
 [legacy wiki page](https://www.electrodragon.com/w/Category:Driver_Board) 
 
-- [[cable-dat]] - [[conn-cable-terminal-dat]] - [[wire-2-wire-dat]]
+- [[cable-dat]] - [[conn-cable-terminal-dat]] - [[wire-to-wire-dat]]
 
 - [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
 

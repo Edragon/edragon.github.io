@@ -56,7 +56,7 @@
 
 ## Cable to Cable 
 
-- [[wire-2-wire-dat]]
+- [[wire-to-wire-dat]]
 
 ## Cable to Board 
 

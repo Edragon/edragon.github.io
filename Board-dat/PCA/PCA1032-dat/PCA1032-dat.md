@@ -23,6 +23,6 @@
 
 - [[PCA1032]] - [[PCA]]
 
-- [[CONN-dat]] - [[JST-SM-dat]] - [[cable-dat]] - [[wire-2-wire-dat]]
+- [[CONN-dat]] - [[JST-SM-dat]] - [[cable-dat]] - [[wire-to-wire-dat]]
 
 - legacy wiki page 
