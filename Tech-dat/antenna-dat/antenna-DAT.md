@@ -15,6 +15,23 @@ type of antennas by power == [[antenna-active-dat]] - [[antenna-passive-dat]]
 
 type of antennas by connector == - [[CONN-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]] - [[antenna-UFL-dat]]
 
+connector convert cable [[IPEX-to-SMA-dat]]
+
+IPEX-1st-gen or IPEX-4th-gen or cable bare end 
+
+![](2026-04-05-01-04-52.png)
+
+- 线材 RG0.81/1.13/ 178线
+- 线长 50-1000mm(可定制)
+- 接口型号 SMA内针/内孔
+- 配套配件 花片、弹片、螺母
+- 产品名称 IPEX/焊接头转SMA转接线
+- 适用频段 0-6G
+- 阻抗 - 500
+- 天线接口 - 1代IPEX/4代IPEX/焊接头
+
+![](2026-04-05-01-09-32.png)
+
 - [[3in1-antenna-dat]]
 
 - [[antenna-lolipop-dat]]
@@ -179,6 +196,19 @@ better NO PCB under the antenna
 
 ![](2026-02-04-20-18-45.png)
 
+
+## multiple frequencies 
+
+2.4G wifi + 5G wifi + 4G LTE / 8DBi / box-style
+
+![](2026-04-05-01-00-57.png)
+
+
+## dBi 
+
+![](2026-04-05-01-32-19.png)
+
+- [[GSM-dat]] - [[antenna-dat]]
 
 ## ref
 
