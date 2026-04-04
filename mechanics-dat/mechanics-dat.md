@@ -30,7 +30,7 @@
 
 - [[mechanical-structure-dat]] - [[PVC-tube-dat]] - [[aluminum-profile-dat]] - [[turnover-box-dat]] - [[cardboard-dat]] - [[shaft-plain-dat]] 
 
-- [[Shaft-dat]] - [[rod-system-dat]] - [[alu-extrusion-dat]] - [[motion-system-dat]] - [[rod-dat]]
+- [[Shaft-dat]] - [[rod-system-dat]] - [[alu-extrusion-dat]] - [[motion-system-dat]] - [[rod-dat]] - [[tube-dat]]
 
 - [[mechanical-parts-dat]] - [[bearing-dat]] - [[nut-dat]] - [[flange-dat]] - [[crank-dat]] - [[hinge-dat]]
   
