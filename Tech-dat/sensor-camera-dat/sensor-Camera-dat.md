@@ -21,6 +21,11 @@
 - [[camera-installation-dat]] - [[sensor-camera-dat]] 
 
 
+
+## camera
+
+- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]]
+
 ## boards 
 
 - [[ESP1000-dat]]
@@ -33,7 +38,7 @@
 
 - [[ESP32-S3-APP-dat]]
 
-
+- [[NWI1249-dat]]
 
 
 

@@ -1,10 +1,12 @@
 
 # camera-SDK-dat
 
-- [[ESP1000-dat]] - [[SCM1030-dat]]
+
+- [[I2C-dat]]
 
 - [[camera-dat]]
 
+- [[micropython-dat]]
 
 - https://github.com/espressif/esp32-camera
 
@@ -13,6 +15,14 @@ Arduino IDE
 If you are using the arduino-esp32 core in Arduino IDE, no installation is needed! You can use esp32-camera right away.
 
 
+## board 
+
+- [[ESP1000-dat]] - [[SCM1030-dat]]
+
+
+## ESP32 
+
+- official code camera - CameraWebServer.ino
 
 ## repro 
 

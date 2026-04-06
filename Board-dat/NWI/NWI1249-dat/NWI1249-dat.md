@@ -11,7 +11,7 @@ all boards info - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-VCC-dat]] - [[ESP32-
 
 ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 
-- [[camera-sdk-dat]] - [[sensor-Camera-dat]] - [[OV2640-dat]]
+- [[camera-sdk-dat]] - [[sensor-Camera-dat]] - [[OV2640-dat]] - [[camera-SDK-dat]]
 
 - [[ESP32-SDK-dat]] - [[serial-dat]]
 
@@ -85,6 +85,28 @@ board right side
 | GPIO19 | USB_D+   | ADC2_CH8 | URTS  |
 | GND    |          |          |       |
 
+camera pins CameraWebServer 
+
+    #define PWDN_GPIO_NUM  -1
+    #define RESET_GPIO_NUM -1
+
+    #define XCLK_GPIO_NUM  15
+    #define SIOD_GPIO_NUM  4
+    #define SIOC_GPIO_NUM  5
+
+    #define Y9_GPIO_NUM    16
+    #define Y8_GPIO_NUM    17
+    #define Y7_GPIO_NUM    18
+    #define Y6_GPIO_NUM    12
+    #define Y5_GPIO_NUM    10
+    #define Y4_GPIO_NUM    8
+    #define Y3_GPIO_NUM    9
+    #define Y2_GPIO_NUM    11
+    
+    #define VSYNC_GPIO_NUM 6
+    #define HREF_GPIO_NUM  7
+    #define PCLK_GPIO_NUM  13
+
 
 ## miropython setup 
 
@@ -128,6 +150,11 @@ esp32-s3 = {
 - IO0 == button, pull-up
 
 - [[SD-dat]]
+
+camera
+
+![](2026-04-07-01-40-22.png)
+
 
 ## Extension board SCH 
 
