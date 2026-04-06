@@ -2,6 +2,10 @@
 # antenna-dat
 
 
+选天线的原则：如果产品空间够的情况下，尽量选面积大的天线；研发前期，建议多拿一些款式做对比测试，从而可以选出匹配效果最佳的款式
+
+Antenna selection principles: If product space allows, choose an antenna with the largest possible area; in the early stages of R&D, it is recommended to conduct comparative tests on multiple models to select the one with the best matching performance.
+
 
 - [[VSWR-dat]] - [[bands-dat]] - [[frequency-dat]]
 
@@ -45,6 +49,9 @@ IPEX-1st-gen or IPEX-4th-gen or cable bare end
 type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]] - [[GSM-antenna-GPS-dat]] - [[antenna-RF-dat]] - [[antenna-2.4G-dat]]
 
 - [[antenna-function-dat]] - [[antenna-location-dat]] - [[antenna-wifi-dat]] - [[antenna-NFC-dat]] - [[antenna-bluetooth-dat]]
+
+- anntenna by installation - inside / outdoor 
+
 
 ## specs 
 
@@ -335,6 +342,17 @@ copper tube oscillator
 ![](2026-04-05-02-53-37.png)
 
 ![](2026-04-05-03-01-08.png)
+
+
+## antenna examples == high gain 
+
+see more high gain antennna at [[antenna-wifi-dat]]
+
+12DBI 
+
+![](2026-04-06-13-02-10.png)
+
+![](2026-04-06-13-05-01.png)
 
 
 ## ref
