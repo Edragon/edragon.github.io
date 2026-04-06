@@ -167,7 +167,7 @@ The **Radiation Pattern** is a graphical representation of the strength of the r
 | **Radiation Pattern** | Energy distribution in space. | Coverage area. | Don't point the "tip" of the antenna at the robot; use the "side" of the antenna. |
 
 
-### Practical Tips for your Projects
+### Practical Tips for your Projects == rules 
 1.  **Avoid the "Tip":** Since the radiation pattern of a standard antenna looks like a donut, the weakest signal is at the very tip. Never point the tip of your controller antenna directly at your Rover.
 2.  **Mounting Matters:** If your robot dog is made of **carbon fiber or metal**, do not mount the antenna flush against the frame. These materials will distort the polarization and "shield" the radiation pattern.
 3.  **Cross-Polarization:** If your Rover flips over or tilts significantly, your signal will drop because the polarization no longer matches your handheld controller.
