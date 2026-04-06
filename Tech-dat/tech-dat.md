@@ -17,7 +17,7 @@
 
 - [[M2M-dat]]
 
-- [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]]
+- [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]]
 
 - [[app-dat]] - [[rc-apps-dat]]
 

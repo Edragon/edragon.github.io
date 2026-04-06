@@ -4,6 +4,19 @@
 
 - [[antenna-dat]] - [[wifi-dat]] - [[antenna-wifi-dat]]
 
+
+
+## high gain anntenna 
+
+efficient high gain 8DBI wifi antenna 
+
+![](2026-04-06-12-50-48.png)
+
+![](2026-04-06-12-52-10.png)
+
+![](2026-04-06-12-53-34.png)
+
+
 ## rank 
 
 
@@ -33,6 +46,11 @@ When used with a USB Wi-Fi adapter, a Wi-Fi antenna is suitable for laptops or d
 https://x.com/i/status/2025020047861723433
 
 [[wifi-antenna-1.mp4]]
+
+## user test antenna result 
+
+![](2026-04-06-12-35-35.png)
+
 
 
 ## ref 

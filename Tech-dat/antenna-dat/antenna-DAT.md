@@ -8,7 +8,9 @@
 
 - [[antenna-type-dat]] - [[antenna-design-dat]] - [[antenna-HDK-dat]]
 
-type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] - [[antenna-SMD-dat]] - [[antenna-PCB-dat]]
+type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] 
+
+- [[antenna-SMD-dat]] - [[antenna-PCB-dat]] - [[antenna-ceramic-dat]]
 
 type of antennas by power == [[antenna-active-dat]] - [[antenna-passive-dat]]
 
@@ -42,7 +44,7 @@ IPEX-1st-gen or IPEX-4th-gen or cable bare end
 
 type of antennas by frequency == [[antenna-location-dat]] - [[antenna-GNSS-dat]] - [[GSM-antenna-GPS-dat]] - [[antenna-RF-dat]] - [[antenna-2.4G-dat]]
 
-- [[antenna-function-dat]] - [[antenna-location-dat]] - [[antenna-wifi-dat]]
+- [[antenna-function-dat]] - [[antenna-location-dat]] - [[antenna-wifi-dat]] - [[antenna-NFC-dat]] - [[antenna-bluetooth-dat]]
 
 ## specs 
 
@@ -69,7 +71,7 @@ The **Center Frequency** is the specific frequency point where the antenna is de
 * **Physical Dimension:** The center frequency is directly tied to the physical length of the antenna. For a standard dipole antenna, the length is approximately **1/2 of the wavelength ($\lambda$)** of the center frequency.
 * **Performance:** This is the "sweet spot." At $f_c$, the antenna radiates the maximum amount of power and reflects the minimum amount back to the transmitter.
 
-
+![](2026-04-06-12-44-59.png)
 
 ---
 
@@ -116,6 +118,7 @@ VSWR stands for Voltage Standing Wave Ratio. It is a numerical measurement that 
 
 In simple terms, it measures impedance matching.
 
+![](2026-04-06-12-40-50.png)
 
 ### Polarization and Radiation Pattern
 
@@ -145,6 +148,7 @@ The **Radiation Pattern** is a graphical representation of the strength of the r
     * **Usage:** Best for long-range stationary setups or point-to-point links.
 * **Gain (dBi):** High-gain antennas flatten the "donut" to push the signal further horizontally, but this makes the dead zones above and below the antenna much larger.
 
+![](2026-04-06-12-47-43.png)
 
 ---
 
@@ -277,10 +281,6 @@ Therefore, the layout of the module antenna location and routing is recommended 
 ![](2025-07-09-15-34-06.png)
 
 
-
-## ceramic antenna 
-
-![](2025-08-19-17-27-28.png)
 
 
 ## impedence matching chipset 
