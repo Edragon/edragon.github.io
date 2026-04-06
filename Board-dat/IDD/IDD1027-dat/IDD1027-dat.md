@@ -72,7 +72,15 @@ test chip DP5125 / MV245B
 ![](2026-03-24-18-09-29.png)
 
 
+## update log 
 
+v1.1 
+
+- [[CONN-DC-barrel-jack-dat]] = use lower version to fit on the back side 
+- 8.5mm power connector, leave to un-solder
+- add 3.96mm power connector, leave to un-solder (undefined yet)
+
+![](2026-04-06-21-39-20.png)
 
 ## ref 
 

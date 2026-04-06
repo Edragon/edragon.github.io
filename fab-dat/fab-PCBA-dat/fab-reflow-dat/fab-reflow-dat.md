@@ -166,3 +166,4 @@ To ensure high-quality solder joints and minimize "dross" or solder beads, your 
 
 ## ref 
 
+- [[fab-reflow]] - [[fab]]
