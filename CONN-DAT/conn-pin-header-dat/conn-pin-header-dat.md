@@ -13,6 +13,14 @@
 
 Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 
+
+## common height == plastic part 
+
+- 8.5mm
+- 5.7mm 
+- 5.0mm
+- 3.5mm 
+
 ## Common Pin headers 
 
 | name | SKU             | type      | male/female | breakable     | pin material | full length |

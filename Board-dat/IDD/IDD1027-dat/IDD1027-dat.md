@@ -76,6 +76,7 @@ test chip DP5125 / MV245B
 
 v1.1 
 
+- [[conn-pin-header-dat]] user higher 8.5mm pin header instead of 5.8mm header 
 - [[CONN-DC-barrel-jack-dat]] = use lower version to fit on the back side 
 - 8.5mm power connector, leave to un-solder
 - add 3.96mm power connector, leave to un-solder (undefined yet)
