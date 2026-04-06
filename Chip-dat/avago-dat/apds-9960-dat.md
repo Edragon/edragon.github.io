@@ -2,7 +2,10 @@
 # apds-9960-dat
 
 
-- [[sensor-gesture-dat]] - [[apds-9960-dat]]
+- [[SSL1045-dat]] - [[SSL1042-dat]] - [[APDS-9960-dat]] - [[APDS-9930-dat]] - [[sensor-gesture-dat]] - [[avago-dat]] 
+
+
+
 
 
 
@@ -13,7 +16,7 @@
 
 ## boards 
 
-- [[SSL1045-dat]]
+- [[SSL1045-dat]] - [[SSL1042-dat]] - [[APDS-9960-dat]] - [[APDS-9930-dat]]
 
 ## I/O Pins Configuration
 

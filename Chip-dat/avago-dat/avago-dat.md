@@ -2,7 +2,12 @@
 
 # avago-dat
 
-- [[apds-9960-dat]]
+
+
+
+
+
+- [[SSL1045-dat]] - [[SSL1042-dat]] - [[APDS-9960-dat]] - [[APDS-9930-dat]] - [[sensor-gesture-dat]] - [[avago-dat]] 
 
 
 - [[relay-SSR-dat]] - [[relay-dat]]

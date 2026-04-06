@@ -1,9 +1,39 @@
 
 # SSL1045-dat
 
-- [[APDS-9960-dat]] - [[sensor-gesture-dat]]
+
+
+- [[SSL1045-dat]] - [[SSL1042-dat]] - [[APDS-9960-dat]] - [[APDS-9930-dat]] - [[sensor-gesture-dat]] - [[avago-dat]] 
+
+- [[I2C-dat]]
+
 
 https://www.electrodragon.com/product/apds9960-apds9930-sensor-breakout-board/
+
+- [[counterfeit-dat]]
+
+
+## jumper 
+
+I2C-PU == I2C pull-up enable
+PS == VL (LEDA) to VCC 
+
+
+
+## demo 
+
+I2C scan == 
+
+    Scanning...
+    I2C device found at address 0x39  !
+    done
+
+counterfeit chip ID
+    APDS-9960 ID: 0xAB
+    APDS-9930 ID: 0xA8 
+
+
+![](2026-04-07-04-15-49.png)
 
 
 ## Dimension 

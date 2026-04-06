@@ -85,7 +85,13 @@ board right side
 | GPIO19 | USB_D+   | ADC2_CH8 | URTS  |
 | GND    |          |          |       |
 
-camera pins CameraWebServer 
+## arduino camera pins CameraWebServer.ino 
+
+board_config.h 
+
+#define CAMERA_MODEL_ESP32S3_EYE // Has PSRAM
+
+camera_pins.h
 
     #define PWDN_GPIO_NUM  -1
     #define RESET_GPIO_NUM -1
@@ -102,7 +108,7 @@ camera pins CameraWebServer
     #define Y4_GPIO_NUM    8
     #define Y3_GPIO_NUM    9
     #define Y2_GPIO_NUM    11
-    
+
     #define VSYNC_GPIO_NUM 6
     #define HREF_GPIO_NUM  7
     #define PCLK_GPIO_NUM  13

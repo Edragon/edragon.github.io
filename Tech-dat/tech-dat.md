@@ -27,7 +27,7 @@
 
 - [[CONN-USB-dat]] - [[USB-SDK-dat]]
 
-- [[conn-dat]] - [[conn-cable-jst-dat]]
+- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]]
 
 
 ## New Tech And Updates 
