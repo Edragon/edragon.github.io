@@ -12,7 +12,7 @@ Antenna selection principles: If product space allows, choose an antenna with th
 
 - [[antenna-type-dat]] - [[antenna-design-dat]] - [[antenna-HDK-dat]]
 
-type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] 
+type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-Whip-dat]] - [[antenna-spring-dat]] - [[antenna-FPC-dat]]
 
 - [[antenna-SMD-dat]] - [[antenna-PCB-dat]] - [[antenna-ceramic-dat]]
 
@@ -348,11 +348,16 @@ copper tube oscillator
 
 see more high gain antennna at [[antenna-wifi-dat]]
 
-12DBI 
+- [[antenna-FPC-dat]] - 12DBI 
 
 ![](2026-04-06-13-02-10.png)
 
 ![](2026-04-06-13-05-01.png)
+
+- [[antenna-Whip-dat]] - 12DBI 
+
+![](2026-04-06-13-09-04.png)
+
 
 
 ## ref

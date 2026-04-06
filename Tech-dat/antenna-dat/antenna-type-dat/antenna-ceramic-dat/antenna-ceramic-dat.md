@@ -1,6 +1,14 @@
 
 # antenna-ceramic-dat
 
+normally gain == 4DBI 
+
+![](2026-04-06-13-11-14.png)
+
+![](2026-04-06-13-11-25.png)
+
+![](2026-04-06-13-11-40.png)
+
 - [[antenna-SMD-dat]] - [[antenna-PCB-dat]] - [[antenna-ceramic-dat]]
 
 ## ceramic antenna 
