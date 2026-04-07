@@ -46,13 +46,13 @@
 
 - [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]] - [[POE-dat]]
 
-- [[battery-dat]] - [[battery-rechargerable-dat]] 
+- [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-LFP-dat]]
 
 - [[battery-BMS-dat]] 
 
 - [[battery-pack-dat]] - [[26650-dat]] - [[18650-dat]] 
 
-- [[battery-charger-dat]] - [[fast-charge-protocols-dat]]
+- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
 
 - [[ac-mains-dat]]
 

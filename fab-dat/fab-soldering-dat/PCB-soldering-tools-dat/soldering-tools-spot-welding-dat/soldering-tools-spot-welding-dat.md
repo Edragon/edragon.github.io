@@ -2,7 +2,13 @@
 # soldering-tools-spot-welding-dat
 
 
-- Nickel Strip
+
+- [[battery-dat]] - [[fab-tools-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
+
+
+- [[fab-soldering-materials-dat]]
+
+
 
 
 ## cap super spot soldering 

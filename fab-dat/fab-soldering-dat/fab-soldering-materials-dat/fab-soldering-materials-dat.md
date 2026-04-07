@@ -20,25 +20,13 @@ Nickel, Copper, and Sandwich (For 18650/21700)
 
 
 
----
-
-### 2. Al-Ni (Aluminum-Nickel) Composite Strips
-
-**Primary Purpose:** Transitioning between dissimilar metals.
-
-* **When to use:** Specifically for **Pouch Cells** or **Prismatic Cells** where the positive terminal (tab) is made of **Aluminum**.
-* **Why:** Aluminum and Nickel do not bond well through standard spot welding.
-* **How it works:** The strip is bi-metallic (half Al, half Ni).
-    * **Al side** is welded to the battery's Aluminum tab.
-    * **Ni side** provides a weldable surface for standard nickel busbars or wires.
-* **Summary:** It is a "bridge" material, not for 18650s (which use steel/nickel caps), but for batteries with raw aluminum electrodes.
-
-
-
 
 
 
 ## 18650 Interconnect Materials: Why vs. Why Not
+
+
+- Nickel Strip
 
 | Material        | Conductivity      | Weldability   | Best Used For...                                             |
 | :-------------- | :---------------- | :------------ | :----------------------------------------------------------- |
@@ -55,10 +43,30 @@ Nickel, Copper, and Sandwich (For 18650/21700)
 4. **Tool Compatibility:** Most hobbyist spot welders (Sunkko, Malectrics, Kweld) are designed specifically for the physics of nickel.
 
 
+---
+
+### 2. Al-Ni (Aluminum-Nickel) Composite Strips
+
+**Primary Purpose:** Transitioning between dissimilar metals.
+
+* **When to use:** Specifically for **Pouch Cells** or **Prismatic Cells** where the positive terminal (tab) is made of **Aluminum**.
+* **Why:** Aluminum and Nickel do not bond well through standard spot welding.
+* **How it works:** The strip is bi-metallic (half Al, half Ni).
+    * **Al side** is welded to the battery's Aluminum tab.
+    * **Ni side** provides a weldable surface for standard nickel busbars or wires.
+* **Summary:** It is a "bridge" material, not for 18650s (which use steel/nickel caps), but for batteries with raw aluminum electrodes.
+
+examples: 
+
+- 0.11mm镀镍 + 叠加0.2mm紫铜
+- 0.1mm镀镍 + 叠加0.15mm紫铜
+- 1.2mm复合带 镍 + 铝
+- 铜极材料
+
 
 ## ref 
 
-- [[soldering-tools-dat]]
+- [[PCB-soldering-tools-dat]]
 
 
 
