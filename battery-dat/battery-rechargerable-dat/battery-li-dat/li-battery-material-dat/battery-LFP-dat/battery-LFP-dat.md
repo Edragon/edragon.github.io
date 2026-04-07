@@ -1,8 +1,27 @@
 
-# LFP-dat
+# battery-LFP-dat
 
 - [[blade-battery-dat]]
 
+- [[32650-dat]] - [[battery-LFP-dat]]
+
+- [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-LFP-dat]]
+
+
+
+## LFP charger 
+
+- [[TP5000-dat]] - [[TP-dat]]
+
+
+
+## battery order link 
+
+https://www.electrodragon.com/product/special-offer-series-limited-qty-1/
+
+
+
+## info 
 
 == LFP == LiFePO4-Battery == Lithium Iron Phosphate == LiFePO₄
 

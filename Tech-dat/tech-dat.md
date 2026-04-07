@@ -48,11 +48,11 @@
 
 - [[battery-dat]] - [[battery-rechargerable-dat]] 
 
-- [[BMS-dat]] 
+- [[battery-BMS-dat]] 
 
 - [[battery-pack-dat]] - [[26650-dat]] - [[18650-dat]] 
 
-- [[battery-charger-dat]] - [[fast-charge-methods-dat]]
+- [[battery-charger-dat]] - [[fast-charge-protocols-dat]]
 
 - [[ac-mains-dat]]
 

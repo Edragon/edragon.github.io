@@ -9,6 +9,11 @@
 
 - [[li-battery-size-dat]]
 
+
+
+
+
+
 ## parallel coin batteries 
 
 ![](2025-08-24-18-46-42.png)

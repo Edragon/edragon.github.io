@@ -2,13 +2,13 @@
 # battery-BMS-dat
 
 
-- [[li-battery-dat]] - [[battery-BMS-dat]] - [[battery-pack-dat]] - [[battery-dat]]
+- [[battery-li-dat]] - [[battery-BMS-dat]] - [[battery-pack-dat]] - [[battery-dat]]
 
-- [[battery-packs-dat]]
+- [[battery-pack-dat]]
 
-- [[passive-BMS-dat]] - [[active-BMS-dat]]
+- [[BMS-passive-dat]] - [[BMS-active-dat]]
 
-- [[fast-charge-methods-dat]] - [[USB-PD-dat]]
+- [[fast-charge-protocols-dat]] - [[USB-PD-dat]]
 
 
 - [[BMS]]

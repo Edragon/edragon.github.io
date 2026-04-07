@@ -26,4 +26,4 @@ The FP6601 is available in a space-saving SOT-23-6 package.
 ![](2026-02-12-19-32-33.png)
 
 
-- [[fast-charge-methods-dat]] - [[USB-QC2.0-dat]]
+- [[fast-charge-protocols-dat]] - [[USB-QC2.0-dat]]

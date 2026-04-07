@@ -10,7 +10,6 @@
 
 
 
-
 - [[USB-driver-dat]] - [[libusb-dat]]
 
 - [[cable-USB-dat]] - [[USB-ESD-dat]] 
@@ -24,12 +23,15 @@
 
 - [[keyboard-dat]] - [[mouse-dat]]
 
-
-- [[USB-FC-dat]] - [[USB-PD-dat]] - [[USB-QC-dat]] - [[USB-PPS-dat]] - [[fast-charge-methods-dat]]
+## chips 
 
 - [[WCH-dat]]
 
 - [[IP5306-dat]]
+
+## fast charge 
+
+- [[USB-FC-dat]] - [[USB-PD-dat]] - [[USB-QC-dat]] - [[USB-PPS-dat]] - [[fast-charge-protocols-dat]]
 
 
 ## USB functions and enhance 
@@ -37,6 +39,9 @@
 - [[USB-sniffer-dat]] - [[USB-Hub-dat]] - [[USB-Switch-dat]] - [[USB-APP-dat]]
 
 - [[USB-extension-dat]] - [[USB-hid-dat]]
+
+
+
 
 
 ## USB variations 

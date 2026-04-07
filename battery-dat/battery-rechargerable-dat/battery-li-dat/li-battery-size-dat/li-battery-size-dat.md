@@ -24,7 +24,7 @@
 - 14500: 14mm diameter, 50mm length. Same physical size as a standard AA battery.
 - 16340: 16mm diameter, 34mm length. Same physical size as a CR123A battery.
 - 10440: 10mm diameter, 44mm length. Same physical size as a standard AAA battery.
-- 32650 / 32700: 32mm diameter, 65mm or 70mm length. Often used for LiFePO4 chemistry, providing high power and capacity.
+- `32650` / `32700`: 32mm diameter, 65mm or 70mm length. Often used for LiFePO4 chemistry, providing high power and capacity.
 
 
 ## ref 

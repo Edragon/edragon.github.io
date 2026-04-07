@@ -2,7 +2,7 @@
 # USB-QC-dat
 
 
-- [[fast-charge-methods-dat]] - [[USB-QC-dat]] - [[USB-PD-dat]]
+- [[fast-charge-protocols-dat]] - [[USB-QC-dat]] - [[USB-PD-dat]]
 
 - [[conn-usb-micro-dat]] - [[conn-usb-type-c-dat]]
 

@@ -3,9 +3,11 @@
 
 # rechargerable-battery-dat
 
-- [[battery-protection-dat]] - [[BMS-dat]]
 
-- [[battery-charger-dat]]
+- [[battery-li-dat]] - [[battery-LFP-dat]]
+
+
+- [[battery-protector-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]]
 
 
 ## charge time 
