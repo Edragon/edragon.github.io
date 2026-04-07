@@ -2,6 +2,10 @@
 
 # hose-clamp-dat
 
+
+- [[shaft-limit-ring-dat]] - [[hose-clamp-dat]]
+
+
 - [[hose-clamp-dat]] - [[fitting-dat]]
 
 - [[camera-installation-dat]] - [[sensor-camera-dat]] - [[Hose-Clamp-dat]]

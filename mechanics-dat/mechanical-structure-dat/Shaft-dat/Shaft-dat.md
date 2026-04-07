@@ -1,5 +1,8 @@
 # Shaft-dat
 
+
+- [[shaft-dat]] - [[tube-dat]] - [[rod-dat]]
+
 - [[mechanical-structure-dat]] - [[materials-dat]]
 
 - [[shaft-connection-dat]]
@@ -22,11 +25,9 @@
 
 ## smooth shaft accessories 
 
-- [[shaft-limit-ring-dat]] == Hose clamp
+- [[shaft-dat]] - [[shaft-limit-ring-dat]] - [[hose-clamp-dat]]
 
-- [[shaft-coupler-dat]]
-
-- [[Shaft-Cross-Connector-dat]]
+- [[shaft-coupler-dat]] - [[Shaft-Cross-Connector-dat]]
 
 ![](2025-12-10-01-54-55.png)
 
