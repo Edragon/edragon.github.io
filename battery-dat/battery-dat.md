@@ -4,7 +4,12 @@
 
 - [[power-dat]] - [[battery-dat]] 
 
-- [[battery-tools-dat]]
+
+- [[battery-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
+
+- [[battery-dat]] - [[battery-system-dat]]
+
+- [[battery-supply-dat]] - [[ti-battery-charger-dat]] - [[ti-dat]]
 
 
 
@@ -65,7 +70,7 @@
 
 ## APPs 
 
-- [[power-bank-dat]] - [[power-tools-dat]] - [[power-storage-dat]]
+- [[power-bank-dat]] - [[power-storage-dat]]
 
 - [[power-usb-charger-dat]]
 

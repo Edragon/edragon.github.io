@@ -1,6 +1,11 @@
 # battery-tester-dat
 
+- [[battery-dat]]
+
 ## testing tools 
+
+
+- [[battery-tools-dat]]
 
 - capacity - [[electronic-loader-dat]]
 - internal resistance == discharge current - [[internal-resistance-meter-dat]]
