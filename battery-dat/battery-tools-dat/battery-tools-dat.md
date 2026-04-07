@@ -4,7 +4,7 @@
 
 - [[battery-dat]] - [[fab-tools-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
 
-
+- [[battery-pack-dat]]
 
 
 
@@ -49,7 +49,7 @@
 
 - 4. [[battery-BMS-dat]] - [[battery-manager-dat]]
 
-- 5. [[case-dat]]
+- 5. [[case-dat]] or [[heat-shrink-tube-dat]] 
 
 
 ## ref 

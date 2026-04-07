@@ -7,6 +7,7 @@
 
 - [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-LFP-dat]]
 
+legacy wiki page == https://www.electrodragon.com/w/LFP_Battery
 
 
 ## LFP charger 

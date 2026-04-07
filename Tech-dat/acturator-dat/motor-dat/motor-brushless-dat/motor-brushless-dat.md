@@ -257,6 +257,14 @@ Because the advantages are obvious:
 Almost all modern scooters (Xiaomi, Ninebot, Kaabo, etc.) use this type.
 
 
+
+## gallery 
+
+![](2026-04-07-13-43-09.png)
+
 ## ref 
 
 - [[motor-BLDC-dat]] - [[motor-hub-dat]]
+
+
+- [[motor-brushless]] - [[2nd]]

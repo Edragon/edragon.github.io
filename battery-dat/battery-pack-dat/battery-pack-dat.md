@@ -7,7 +7,7 @@
 
 - [[battery-pack-dat]] - [[battery-pack-kit-dat]]
 
-
+- [[battery-pack]]
 
 - in the pack including [[BMS-dat]]
 
