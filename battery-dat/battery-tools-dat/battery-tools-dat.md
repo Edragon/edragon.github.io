@@ -36,7 +36,7 @@
 
 - [[battery-pack-kit-dat]]
 
-- 1. Nickel Strip / copper strip == `铝片和铜片`，电池点焊用的，铝片适合铝壳电池，铜片适合铁壳电池 - [[soldering-materials-dat]]
+- 1. Nickel Strip / copper strip == `铝片和铜片`，电池点焊用的，铝片适合铝壳电池，铜片适合铁壳电池 - [[fab-soldering-materials-dat]]
 
 
 - `青稞纸电池垫` == 使用在电池点焊前，贴在18650电池前，防止压迫导致电池塑料纸损坏，造成电池短路
