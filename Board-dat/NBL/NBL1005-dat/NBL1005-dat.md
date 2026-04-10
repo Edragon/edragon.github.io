@@ -8,7 +8,7 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-- products - [[NBL1005-dat]] - [[CSR8510-dat]] - [[CSR-dat]] - [[BT-SDK-dat]]
+- products - [[NBL1005-dat]] - [[CSR8510-dat]] - [[CSR-dat]] - [[BT-SDK-dat]] - [[qualcomm-dat]]
 
 [Need driver for audio streaming.](http://www.vck.com.cn/?page_id=8)
 

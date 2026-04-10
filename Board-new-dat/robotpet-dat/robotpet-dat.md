@@ -42,3 +42,23 @@ camera_pins.h
     #define HREF_GPIO_NUM  7
     #define PCLK_GPIO_NUM  13
 
+
+## code 
+
+- speaker - [[MAX98357-dat]] - [[speaker-I2S-dat]]
+
+    // MAX98357
+    #define MAX_DIN 36   
+    #define MAX_LRC 47   
+    #define MAX_BCLK 35  
+
+
+
+## demo 
+
+- speaker - [[MAX98357-dat]] - [[speaker-I2S-dat]] == https://t.me/electrodragon3/444
+
+
+
+## ref 
+

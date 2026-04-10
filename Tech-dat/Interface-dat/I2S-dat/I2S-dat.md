@@ -35,11 +35,11 @@ This makes I2S a popular choice for high-speed data transfer applications.
 
 To get this working, you simply need to map your microphone's pins to the ESP32’s I2S peripheral. Here is how they correspond:
 
-| Microphone Label  | I2S Standard Name    | ESP32 Function | Role                                              |
-| :---------------- | :------------------- | :------------- | :------------------------------------------------ |
-| **CLK** (or BCLK) | **SCK** (Bit Clock)  | Output         | The heartbeat that times every individual bit.    |
-| **L/R** (or WS)   | **WS** (Word Select) | Output         | Toggles to define the start of Left/Right frames. |
-| **DATA** (or SD)  | **SDIN** (Data In)   | Input          | The digital audio stream entering the ESP32.      |
+| Microphone Label  | I2S Standard Name    | variants   | ESP32 Function | Role                                              |
+|:------------------|:---------------------|---|:---------------|:--------------------------------------------------|
+| **CLK** (or BCLK) | **SCK** (Bit Clock)  | CLK  | Output         | The heartbeat that times every individual bit.    |
+| **L/R** (or WS)   | **WS** (Word Select) | FS  | Output         | Toggles to define the start of Left/Right frames. |
+| **DATA** (or SD)  | **SDIN** (Data In)   | TX  | Input          | The digital audio stream entering the ESP32.      |
 
 
 ### 2. Why "MCLK" is Missing
@@ -123,6 +123,9 @@ To save pins, you can sometimes share the **Clock** pin, but it is technically d
 
 
 ## code 
+
+- Adafruit_Zero_I2S_Library ==  SAMD MCUs only 
+
 
 https://github.com/sheaivey/ESP32-AudioInI2S
 

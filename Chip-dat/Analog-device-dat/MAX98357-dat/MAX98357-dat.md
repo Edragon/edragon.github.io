@@ -7,6 +7,9 @@
 
 - [[MAX98357]] - [[analog-device]]
 
+
+
+
 ## Features 
 
 - 01 Output power: 3.2W at 4Ω, THD 10% 1.8W at 8Q, THD 10%
@@ -95,12 +98,35 @@ Use the specified resistors or configurations:
 
 ## code 
 
-- [[MAX98357-code.ino]] - [[I2S-dat]]
+- [[MAX98357-1-sd.ino]] - [[I2S-dat]]
 
 ### code common error: 
 
 i2s_write_bytes((i2s_port_t)0, (const char *)data, numData, portMAX_DELAY);
 - 'i2s_write_bytes' was not declared in this scope
+
+
+FS_PIN
+SCK_PIN
+TX_PIN
+RX_PIN
+
+
+    /*!
+        @brief  Class Constructor
+            @param FS_PIN frame sync pin
+            @param SCK_PIN bit clock pin
+            @param TX_PIN data output pin
+            @param RX_PIN data input pin
+    */
+
+
+
+## demo video 
+
+- module == https://t.me/electrodragon3/443
+
+- [[robotpet-dat]]
 
 
 
