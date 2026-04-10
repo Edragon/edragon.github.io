@@ -33,6 +33,13 @@ This family of four LVDS data line receivers offers the widest common-mode input
 
 ## interface 
 
+### RS-485 
+
+`ISOW14x2` Isolated RS-485/RS-422 Transceiver with Integrated Low-Emissions, LowNoise, High-Efficiency DC-DC Converter
+
+`ISOW1412BDFMR` - Low-emissions, 500-kbps, reinforced isolated RS-485/RS-422 transceiver with integrated power
+
+
 ### RS-422 
 
 - [[RS422-dat]]

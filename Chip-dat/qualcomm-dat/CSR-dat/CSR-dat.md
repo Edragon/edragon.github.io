@@ -17,6 +17,8 @@
 
 - [[CSR8635-dat]] - [[CSR8645-dat]]
 
+- [[CSR8510-dat]]
+
 
 
 ## board 

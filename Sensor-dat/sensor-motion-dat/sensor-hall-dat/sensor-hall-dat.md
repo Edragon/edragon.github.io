@@ -71,6 +71,8 @@ TYPICAL APPLICATION
 
 ## chip 
 
+US1881LUA-AAA-000-BU - Board Mount Hall Effect / Magnetic Sensors 3 wire Latch
+
 WCS2800 - Hall Effect Base Linear Current Sensor
 
 
