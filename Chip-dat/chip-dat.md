@@ -2,7 +2,7 @@
 
 # chip-dat 
 
-- [[chip-cn-dat]]
+- [[chip-cn-dat]] - [[chip-dat]] - [[chip-unsort-dat]] - [[chip-counterfeit-dat]]
 
 - [[analog-device-dat]] - [[ti-dat]]
 

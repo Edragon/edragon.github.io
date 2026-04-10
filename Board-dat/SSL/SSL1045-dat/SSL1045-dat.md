@@ -20,7 +20,14 @@ PS == VL (LEDA) to VCC
 
 
 
-## demo 
+## demo counterfeit chip
+
+
+good chip 
+
+![](2026-04-10-12-28-19.png)
+
+bad chip 
 
 I2C scan == 
 
