@@ -3,7 +3,7 @@
 
 ## Main tech 
 
-- [[board-dat]]
+- [[board-dat]] - [[board-new-dat]]
 
 - [[circuits-dat]]
 

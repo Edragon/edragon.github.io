@@ -1,6 +1,6 @@
 
 
-# counterfeit-dat
+# chip-counterfeit-dat
 
 
 - read chip ID 

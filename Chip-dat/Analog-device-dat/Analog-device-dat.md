@@ -136,4 +136,6 @@ ADG1434YRUZ
 
 ## ref 
 
+- [[analog-device]]
+
 - [[chip-dat]]

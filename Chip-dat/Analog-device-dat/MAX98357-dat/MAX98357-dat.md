@@ -1,6 +1,8 @@
 
 # MAX98357
 
+- [[analog-device-dat]]
+
 - PCM Input Class D Audio Power Amplifiers
 
 - [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[PDM-dat]]
