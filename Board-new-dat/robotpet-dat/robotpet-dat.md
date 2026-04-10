@@ -58,6 +58,8 @@ camera_pins.h
 
 - speaker - [[MAX98357-dat]] - [[speaker-I2S-dat]] == https://t.me/electrodragon3/444
 
+- [[sensor-microphone-dat]] == https://t.me/electrodragon3/446
+
 
 
 ## ref 
