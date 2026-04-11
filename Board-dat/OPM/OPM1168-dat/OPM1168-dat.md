@@ -2,6 +2,8 @@
 # OPM1168-dat 
 
 
+- [[wireless-charge-dat]] - [[OPM1168-dat]] - [[OPM1167-dat]] - [[BQ51050-dat]]
+
 BQ51050 supports 4.2V lithium battery up to 1A charge management.
 
 [product url - BQ Wireless Charge Receiver Board QI](https://www.electrodragon.com/product/wireless-charge-receiver-board-qi/?attribute_pa_qi=bq51050)
