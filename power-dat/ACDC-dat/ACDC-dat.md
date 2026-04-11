@@ -106,7 +106,9 @@ TOP254EN == Enhanced EcoSmart, Integrated Off-Line Switcher with Advanced Featur
 
 - [[ICM-dat]]
 
-## Chip Solutions 
+- [[AP8012-dat]] - [[AIT-IC-dat]] - [[acdc-dat]] - [[OPM1110-dat]]
+
+Chip Solutions 
 
 - [[AP8022-dat]] - [[AP8012-dat]]
 

@@ -12,7 +12,7 @@
 
 - [[esp-relay-board-dat]]
 
-- [[relay-dat]] - [[OPM1041-dat]] 
+- [[NWI1072-dat]] - [[OPM1110-dat]] - [[relay-dat]] - [[OPM1041-dat]]
 
 - [[ACDC-dat]] - [[ac-mains-dat]] - [[AC-protections-dat]] - [[OPM1110-dat]] 
 
