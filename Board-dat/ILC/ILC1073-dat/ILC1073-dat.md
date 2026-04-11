@@ -1,5 +1,7 @@
 
-# ILC1073 dat 
+# ILC1073-dat 
+
+- [[LCD1602-dat]] - [[ILC1073-dat]]
 
 ## Info 
 * Automatically support 1602 or 2004 type [char LCDs](https://w.electrodragon.com/w/Category:Char_LCDs)

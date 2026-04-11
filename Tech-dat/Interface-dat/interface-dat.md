@@ -57,6 +57,8 @@ long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] -
 
 - [[ADC-dat]] - [[DAC-dat]]
 
+- [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - mono-color == [[HUB12-dat]] - [[led-rgb-panel-dat]]
+
 ## special interface 
 
 - [[powerbus-dat]]

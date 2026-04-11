@@ -3,6 +3,11 @@
 
 - [[LCD1602-code]]
 
+- [[LCD1602-dat]] - [[ILC1073-dat]]
+
+
+
+
 ## relevant boards 
 
 - [[ILC1022-dat]]

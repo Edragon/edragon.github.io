@@ -4,7 +4,7 @@
 
 - [[cable-ribbon-dat]] - [[HUB75-dat]]
 
-- [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - [[led-rgb-panel-dat]]
+- [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - mono-color == [[HUB12-dat]] - [[led-rgb-panel-dat]]
 
 
 ## HUB75 with logic shifter on channel 0
