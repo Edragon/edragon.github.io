@@ -8,14 +8,16 @@ board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
 
 
 
-- clone version of [[NWI1101-dat]]
+- clone version of [[NWI1100-dat]]
 
 - [[esp32-module-clone-dat]]
 
 - [[NWI1100-dat]] - [[NWI1101-dat]] - [[ESP32-dat]] - [[ESP32-board-dat]] - [[ESP32-dev-board-dat]]
 
 
+## board map 
 
+![](2026-04-12-17-00-20.png)
 
 ## ref 
 

@@ -15,6 +15,9 @@ ESP32-DevKitC
 
 ![](20-34-18-09-08-2023.png)
 
+![](2026-04-12-17-03-36.png)
+
+
 legacy wiki page
 
 - https://w.electrodragon.com/w/Category:ESP32#Specification_and_ordering_information
