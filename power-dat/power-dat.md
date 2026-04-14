@@ -3,7 +3,9 @@
 
 - [[power-dat]] - [[battery-dat]] 
 
-- [[li-battery-dat]]- [[battery-BMS-dat]]
+- [[PMIC-dat]]
+
+- [[battery-li-dat]]- [[battery-BMS-dat]]
 
 - [[battery-drainer-dat]] - [[acdc-dat]] - [[power-sensor-dat]]
   
@@ -38,6 +40,8 @@
 - [[power-backfeeding-dat]]
 
 - [[isolator-dat]]
+
+- [[DC-monitor-dat]] - [[Power-dat]] - [[DC-dat]]
 
 ## power design workflow
 

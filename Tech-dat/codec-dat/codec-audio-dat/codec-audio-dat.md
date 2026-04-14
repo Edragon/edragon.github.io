@@ -2,7 +2,7 @@
 
 # codec-audio-dat
 
-- [[codec-audio-dat]] - [[codec-dat]] - [[I2S-dat]]
+- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]]
 
 - [[ADC-dat]] - [[ADC-RECORD-dat]] - [[DAC-dat]] - [[DAC-PLAYBACK-dat]]
 

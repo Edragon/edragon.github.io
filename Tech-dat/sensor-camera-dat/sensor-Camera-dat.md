@@ -94,6 +94,16 @@ OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM10
 
 - [[SC2336-dat]]
 
+- [[pixart-dat]] - [[PS5268-dat]]
+
+- [[maxim-dat]] - [[serializer-dat]] - MAX96717F GMSL serializer
+
+The `MAX96717F` GMSL™ serializer receives video on a MIPI CSI-2 interface and outputs it on a GMSL2 serial link transceiver. Simultaneously, it sends and receives bidirectional control channel data across the same GMSL2 link.
+
+`MAX9296A` deserializer chip
+
+Maxim GMSL2 serializer (`MAX96717`)
+
 ### more cameras 
 
 | model          | max resolution | color type | output format                                                                      | Len Size |
