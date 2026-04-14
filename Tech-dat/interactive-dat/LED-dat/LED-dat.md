@@ -11,12 +11,13 @@
 
 # 3mm transparent LED
 
-- Red （红）- [[ILE1017-dat]]
-- White （白）- [[ILE1019-dat]]
-- Green  （绿）- [[ILE1021-dat]]
-- Blue （蓝）- [[ILE1018-dat]]
 - Yellow （黄）- [[ILE1016-dat]]
+- Red （红）- [[ILE1017-dat]]
+- Blue （蓝）- [[ILE1018-dat]]
+- White （白）- [[ILE1019-dat]]
 - Purple （紫）- [[ILE1020-dat]]
+- Green  （绿）- [[ILE1021-dat]]
+
 
 - [[CKI1028-dat]] - 5 colors 10 pcs each // dual color 3mm LED - [[ILE1000-dat]]
 

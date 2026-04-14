@@ -14,11 +14,13 @@
 
 The specifications are as follow:
 
+- Yellow （黄）- [[ILE1016-dat]]
 - Red （红）- [[ILE1017-dat]]
+- Blue （蓝）- [[ILE1018-dat]]
 - White （白）- [[ILE1019-dat]]
 - Green  （绿）- [[ILE1021-dat]]
-- Blue （蓝）- [[ILE1018-dat]]
-- Yellow （黄）- [[ILE1016-dat]]
+
+
 
 All color has 10 pcs
 
