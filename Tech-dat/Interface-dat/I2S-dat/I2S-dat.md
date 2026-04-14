@@ -16,6 +16,11 @@
 
 - [[ESP32-S3-dat]] - [[ESP32-S3-chip-dat]]
 
+- [[codec-audio-dat]] - [[codec-dat]] - [[I2S-dat]]
+
+- [[ADC-dat]] - [[ADC-RECORD-dat]] - [[DAC-dat]] - [[DAC-PLAYBACK-dat]]
+
+
 
 ## info 
 

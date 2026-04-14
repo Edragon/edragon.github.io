@@ -8,6 +8,9 @@
 
 - [[TI-DAC-dat]] - [[TI-dat]] - [[TI-interface-dat]]
 
+- [[codec-audio-dat]] - [[codec-dat]] - [[I2S-dat]]
+
+- [[ADC-dat]] - [[ADC-RECORD-dat]] - [[DAC-dat]] - [[DAC-PLAYBACK-dat]]
 
 legacy wiki page == https://www.electrodragon.com/w/AD/DA
 

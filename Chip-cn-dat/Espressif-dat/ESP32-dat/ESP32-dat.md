@@ -42,7 +42,7 @@ DEV Baords
 
 - [[SCM1030-dat]]
 
-
+- [[LCD-dat]] - [[NWI1241-dat]]
 
 ## ref 
 

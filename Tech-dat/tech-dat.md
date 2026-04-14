@@ -44,7 +44,7 @@
 
 ### power and battery
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]] - [[POE-dat]]
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]]
 
 - [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-LFP-dat]]
 
@@ -272,7 +272,7 @@
 
 ## chips 
 
-- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]]
+- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[ESP32-dat]]
 
 - [[chip-cn-dat]]
 

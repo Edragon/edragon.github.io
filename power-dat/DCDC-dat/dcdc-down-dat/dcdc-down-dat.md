@@ -15,7 +15,7 @@
 
 
 
-- [[silergy-dat]] - [[SY8205-dat]] - [[OPM1192-dat]]
+- [[silergy-dat]] - [[SY8205-dat]] - [[OPM1192-dat]] - [[SY8089-dat]]
 
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 

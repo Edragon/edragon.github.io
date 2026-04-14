@@ -13,7 +13,9 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 - [[sensor-analog-dat]] - [[sensor-dat]]
 
+- [[codec-audio-dat]] - [[codec-dat]] - [[I2S-dat]]
 
+- [[ADC-dat]] - [[ADC-RECORD-dat]] - [[DAC-dat]] - [[DAC-PLAYBACK-dat]]
 
 ## relevant boards 
 

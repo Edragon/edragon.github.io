@@ -12,9 +12,11 @@
 
 
 
-#### battery charger
+#### power and battery charger
 
-Jumper - SJ6 - [[battery-charger-dat]]
+- [[dcdc-down-dat]]
+
+Jumper - SJ6 - [[battery-charger-dat]] - [[IP5306-dat]]
 
 - reset of IP5306 together with ESP32 
 
@@ -37,7 +39,7 @@ I2C Port - [[I2C-dat]]
 
 #### USB 
 
-- [[Serial-dat]] - [[type-c-dat]]
+- [[Serial-dat]] - [[USB-type-c-dat]]
 
 #### Interactive LCD and audio 
 
