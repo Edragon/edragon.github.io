@@ -64,6 +64,7 @@ Used for
 
 - TL494 == Pulse-Width-Modulation Control Circuits
 
+- MIC38C42/43/44/45 - BiCMOS Current-Mode PWM Controllers - 20V, Current Mode SMPS Controller Family with Various UVLO and Max Duty Cycle - [[microchip-dat]]
 
 
 ## apps 

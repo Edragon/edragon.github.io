@@ -146,7 +146,7 @@ PBSS5350Z - 50 V, 3 A PNP low VCEsat transistor
 
 MMBT3904
 
-
+`LSF0204GU12` - 4-bit bidirectional multi-voltage level translator; open-drain; push-pull
 
 
 

@@ -30,6 +30,12 @@ High speed: 150 Mbps typical (S-Series)
 
 
 
+
+
+## digital isolator - cn 
+
+`CBMuD1200HAS8` - -40℃~+125℃ 0 150kV/us 2 2.5V~5.5V 2.5V~5.5V 3000 50Mbps 5ns High Level SOIC-8 Digital Isolators ROHS
+
 ## ref 
 
 - [[logic-dat]]

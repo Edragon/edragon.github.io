@@ -1,6 +1,7 @@
 
 # op-amp-dat
 
+- [[TI-dat]] - [[ti-amp-dat]]
 
 - output to - [[ADC-dat]]
 

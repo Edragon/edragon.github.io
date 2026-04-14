@@ -79,7 +79,7 @@ WCS2800 - Hall Effect Base Linear Current Sensor
 * A3212
 * EST248
 
-
+- [[ST-dat]]
 
 
 ## more chips  

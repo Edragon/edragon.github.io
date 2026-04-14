@@ -1,6 +1,7 @@
 
 # DRAM-dat
 
+- [[DDR4-dat]] - [[DDR3-dat]] - [[DDR5-dat]]
 
 - [[ESP32-HDK-dat]]
 
@@ -49,7 +50,7 @@
 
 ## DRAM chip 
 
-PMS307416A == Synchronous Dynamic RAM == 2048K Words x 16 Bits x 4 Banks (128-MBIT)
+`PMS307416A` == Synchronous Dynamic RAM == 2048K Words x 16 Bits x 4 Banks (128-MBIT)
 
 ![](2026-04-04-14-33-48.png)
 
@@ -70,6 +71,12 @@ Features
 - Lead-free package
 
 https://www.scribd.com/document/744434108/PMS307416A
+
+- [[micron-dat]] 
+
+8Gb: x4, x8, x16 DDR4 SDRAM - DDR4 SDRAM = `MT40A2G4` = `MT40A1G8` = `MT40A512M16`
+
+
 
 ## ref 
 

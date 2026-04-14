@@ -2,7 +2,7 @@
 # ST-sensor-dat.md
 
 
-
+`LIS2MDLTR` - Board Mount Hall Effect / Magnetic Sensors Digital output magnetic sensor: ultralow-power, high-performance 3-axis magnetom
 
 - [[LPS22HB-dat]] - [[st-sensor-dat]] - [[sensor-pressure-dat]] == MEMS nano pressure sensor: 260-1260 hPa absolute digital output barometer
 

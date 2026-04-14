@@ -1,7 +1,6 @@
 
 # voltage-reference-dat
 
-
 - [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]] - [[power-detector-dat]] - [[power-amplifier-dat]]
 
 - [[voltage-dat]]
@@ -33,6 +32,11 @@ for ADC-AVDD
 
 
 - [[peripherals-dat]]
+
+
+
+- REF3025AIDBZR
+- TL431
 
 
 

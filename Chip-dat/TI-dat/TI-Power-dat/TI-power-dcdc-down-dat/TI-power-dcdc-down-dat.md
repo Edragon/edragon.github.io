@@ -12,6 +12,8 @@
 - [[dcdc-down-dat]]
 
 
+TPS6211x 17-V, 1.5-A, Synchronous Step-Down Converter - `TPS62110`, TPS62111, TPS62112, TPS62113
+
 ## buck regulator 
 
 TPS62933DRLR SOT-5X3-8 3.8V至30V、3A 低IQ 同步降压转换器

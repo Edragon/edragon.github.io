@@ -23,6 +23,11 @@ i5-520M == 1,727
 
 
 
+
+## intel 
+
+- [[intel-dat]] - `FJ8071505380712` == CPU - Central Processing Units Intel Atom x7433RE processor (6M Cache, up to 3.40 GHz) FC-BGA16F, Tray
+
 ## ref 
 
 - [[FPGA-dat]]

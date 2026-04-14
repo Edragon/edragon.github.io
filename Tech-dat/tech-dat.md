@@ -105,7 +105,7 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]] 
+- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]] - [[CPU-dat]]
 
 - [[SBC-dat]] - [[RPI-SBC-dat]] (raspberry pi)
 
@@ -144,7 +144,7 @@
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[meter-resistance-dat]] - [[sensor-energy-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-hall-dat]]
+- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
 

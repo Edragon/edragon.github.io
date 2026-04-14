@@ -93,7 +93,7 @@ HMC349AMS8GE
 
 ADG436 - Dual SPDT Switch
 
-
+`TMUX1111`, TMUX1112, TMUX1113 - TMUX111x 5V, Low-Leakage-Current, 1:1 (SPST), 4-Channel Precision Switches
 
 ## ref 
 
