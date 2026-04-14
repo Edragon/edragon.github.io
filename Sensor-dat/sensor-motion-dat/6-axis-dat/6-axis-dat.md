@@ -20,6 +20,8 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 ## chip 
 
+- [[QST-dat]] - [[QMI8658A-dat]]
+
 
 - [[BMI323-dat]]
 

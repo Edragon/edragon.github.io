@@ -15,10 +15,14 @@
 
 - [[ETA9640-dat]]
 
-## ETA6093
+### ETA6096 
+
+![](2026-04-14-20-13-14.png)
+
+### ETA6093
 
 
-ETA6093 - 1.2A Switching Charger and 1.2A Boost in One Sot23-5 with Single Inductor
+`ETA6093` - 1.2A Switching Charger and 1.2A Boost in One Sot23-5 with Single Inductor
 
 
 ![](2026-02-12-19-45-11.png)

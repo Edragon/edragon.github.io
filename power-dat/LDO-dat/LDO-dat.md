@@ -50,8 +50,11 @@ SC622K == 500mA Low Dropout Regulator, Low voltage drop: 0.1V@100mA
 
 SOT23-3 
 
-- [[me6206-dat]] - [[microne-dat]]
+- [[me6206-dat]] - [[microne-dat]] - [[ME6217-dat]]
 
+ME6217 
+
+![](2026-04-14-20-13-49.png)
 
 - [[LP2985-dat]]
 

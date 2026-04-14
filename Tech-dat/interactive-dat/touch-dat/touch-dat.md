@@ -2,7 +2,7 @@
 # touch-dat
 
 
-- [[touch-dat]] - [[touch-panel-dat]]
+- [[touch-dat]] - [[touch-panel-dat]] - [[touch-pad-dat]]
 
 
 
@@ -28,6 +28,7 @@ TP223
 TP224 
 
 BS814A-1 MSOP-10 4-button capacitive touch detection chip
+
 
 
 

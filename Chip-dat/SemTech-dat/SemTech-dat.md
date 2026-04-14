@@ -1,7 +1,10 @@
 
 # SemTech-dat
 
-- [[LR1121-dat]]
+
+
+
+- [[LR1121-dat]] - LoRa Connect™ LR1121 for Multi-Band Global Connectivity
 
 - [[SX1302-dat]] == [[lora-gateway-dat]]
 

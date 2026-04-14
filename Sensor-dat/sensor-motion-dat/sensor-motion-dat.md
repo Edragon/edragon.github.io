@@ -3,7 +3,7 @@
 
 - [[3-axis-gyroscope-dat]] - [[3-axis-Accelerometer-dat]] - [[3-Axis-Magnetic-dat]]
  
-- [[6-axis-dat]] - [[bosch-dat]]
+- [[6-axis-dat]] - [[bosch-dat]] - [[QST-dat]]
 
 - [[9-axis-IMU-dat]]
 

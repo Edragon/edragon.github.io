@@ -4,9 +4,11 @@
 
 - [[lora-chip-dat]] - [[lora-modules-dat]] - [[lora-dat]] 
 
-- [[lora-dat]] - [[semtech-dat]]
+- [[lora-dat]] - [[semtech-dat]] - [[lorawan-dat]] - [[GNSS-dat]]
 
-The LR1121 is Semtech’s third generation ultra-low power LoRa® transceiver. It provides multi-band LoRa and Long Range - Frequency Hopping Spread Spectrum (LR-FHSS) communication over sub-GHz and 2.4GHz ISM bands as well as satellite S-Band and L-Band connectivity. The LR1121 is designed to comply with the physical layer requirements of the LoRaWAN® specification released by the LoRa Alliance®, while remaining configurable to meet different application requirements and proprietary protocols.
+The LR1121 is Semtech’s third generation ultra-low power LoRa® transceiver. It provides multi-band LoRa and Long Range - Frequency Hopping Spread Spectrum (LR-FHSS) communication over sub-GHz and 2.4GHz ISM bands as well as satellite S-Band and L-Band connectivity. 
+
+The LR1121 is designed to comply with the physical layer requirements of the LoRaWAN® specification released by the LoRa Alliance®, while remaining configurable to meet different application requirements and proprietary protocols.
 
 https://www.semtech.com/products/wireless-rf/lora-connect/lr1121
 
@@ -37,6 +39,11 @@ https://www.semtech.com/products/wireless-rf/lora-connect/lr1121
 *   The **SX1262** is a general-purpose, low-power LoRa transceiver suitable for a wide range of IoT applications where geolocation is not a primary requirement.
 *   
 
+
+
+## SCH 
+
+![](2026-04-14-20-10-47.png)
 
 
 ## ref 

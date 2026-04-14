@@ -1,9 +1,9 @@
 
 # everest-semi-dat
 
-- [[es8311-dat]]
+- [[ES8311-dat]]
 
-
+- [[ES8311-dat]] - [[ES7201-dat]] - [[everest-semi-dat]]
 
 
 ## ref 

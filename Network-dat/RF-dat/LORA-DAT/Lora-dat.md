@@ -15,7 +15,7 @@ legacy wiki page
 
 - [[lorawan-dat]] - [[LORA-node-dat]]
 
-- [[samtech-dat]]
+- [[semtech-dat]]
 
 
 
