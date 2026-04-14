@@ -22,7 +22,7 @@
 | [[RF-link-dat]] | Medium, up to 1 km         | Low       |                                     |
 | [[ELRS-dat]]    | Medium, up to 1 km (5 km)  | High      |                                     |
 
-
+- [[network-dat]] - [[lora-dat]] - [[IOT-dat]]
 
 ## main category
 
