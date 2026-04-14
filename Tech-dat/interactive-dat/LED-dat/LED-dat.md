@@ -9,6 +9,20 @@
 
 
 
+# 3mm transparent LED
+
+- Red （红）- [[ILE1017-dat]]
+- White （白）- [[ILE1019-dat]]
+- Green  （绿）- [[ILE1021-dat]]
+- Blue （蓝）- [[ILE1018-dat]]
+- Yellow （黄）- [[ILE1016-dat]]
+- Purple （紫）- [[ILE1020-dat]]
+
+- [[CKI1028-dat]] - 5 colors 10 pcs each // dual color 3mm LED - [[ILE1000-dat]]
+
+https://www.electrodragon.com/wp-content/uploads/2012/01/YSL-R542B5C-A11.pdf
+
+
 ## types 
 
 - [[LED-dat]] - [[LED-dual-dat]] - [[LED-5730-dat]]

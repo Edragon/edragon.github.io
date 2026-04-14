@@ -36,7 +36,7 @@
 - [[CCO3647-dat]]
 
 ### CKI
-- [[CKI1047-dat]]
+- [[CKI1047-dat]] - [[CKI1028-dat]]
   
 ### CIC 
 
