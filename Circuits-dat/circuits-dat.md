@@ -1,6 +1,13 @@
 
 # circuits-dat 
 
+
+
+- [[impedance-dat]] - [[virtual-ground-dat]] - [[circuits-dat]]
+
+
+
+
 - [[interface-dat]] - [[power-dat]]
 
 - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[logic-level-shifter-dat]] - [[multiplexer-dat]]
