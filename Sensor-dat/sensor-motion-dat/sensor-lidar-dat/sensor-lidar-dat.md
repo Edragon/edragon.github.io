@@ -16,7 +16,7 @@ LIDAR (Light Detection and Ranging) sensors use laser light to measure distances
 
 - [[STC-dat]] - 8G1K08
 
-
+interface == VCC / TXD / -- / GND == [[serial-dat]] == 5V
 
 
 ## demo 
