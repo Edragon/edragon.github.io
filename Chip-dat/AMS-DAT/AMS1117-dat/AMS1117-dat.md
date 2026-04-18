@@ -35,4 +35,6 @@ Lower input voltages may cause instability or failure to regulate correctly.
 
 ## ref 
 
-- [[AMS1117]]
+
+
+- [[AMS1117-dat]] - [[AMS1117-SOT89]] - [[AMS1117]]
