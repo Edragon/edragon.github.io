@@ -65,6 +65,19 @@ detailed wiring please refer to [pxmatrix code](https://github.com/2dom/PxMatrix
 
 Note to connect the input HUB75 to input of the panel, and the output HUB75 to output of the panel by cable.
 
+code setup 
+
+  // Define your display layout here, e.g. 1/8 step, and optional SPI pins begin(row_pattern, CLK, MOSI, MISO, SS)
+  display.begin(4);
+  //display.begin(8, 14, 13, 12, 4);
+
+  // Define multiplex implemention here {BINARY, STRAIGHT} (default is BINARY)
+  //display.setMuxPattern(BINARY);
+
+  // Set the multiplex pattern {LINE, ZIGZAG,ZZAGG, ZAGGIZ, WZAGZIG, VZAG, ZAGZIG} (default is LINE)
+  display.setScanPattern(ZIGZAG);
+
+
 ## demo code 
 
 - Github code https://github.com/2dom/PxMatrix
