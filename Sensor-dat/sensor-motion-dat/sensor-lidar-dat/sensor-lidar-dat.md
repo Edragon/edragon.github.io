@@ -15,3 +15,19 @@ LIDAR (Light Detection and Ranging) sensors use laser light to measure distances
 - EG393
 
 - [[STC-dat]] - 8G1K08
+
+
+
+
+## demo 
+
+https://t.me/electrodragon3/447
+
+
+## code 
+
+https://github.com/Edragon/sensor-lidar
+
+
+## ref 
+

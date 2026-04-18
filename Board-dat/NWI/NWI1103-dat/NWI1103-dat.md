@@ -20,6 +20,11 @@ board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
 
 ![](2026-04-02-20-56-47.png)
 
+- `N8R8 （8M flash / 8M PSRAM）(default)`
+- N16R8 （16M flash / 8M PSRAM）
+
+- [[serial-dat]] == [[CH343-dat]] (default)
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video

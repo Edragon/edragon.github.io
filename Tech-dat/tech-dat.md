@@ -144,7 +144,7 @@
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[meter-resistance-dat]] - [[sensor-energy-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]]
+- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
 

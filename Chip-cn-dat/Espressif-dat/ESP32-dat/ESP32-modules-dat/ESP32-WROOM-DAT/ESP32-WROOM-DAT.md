@@ -16,6 +16,14 @@ https://www.electrodragon.com/product/wroom-32/
 
 board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
 
+## specs 
+
+- N8R2 （8M flash / 2M PSRAM）
+- N8R8 （8M flash / 8M PSRAM）
+- N16R8 （16M flash / 8M PSRAM）
+
+
+
 ## Version compare 32E / 32D / 32U
 
 
