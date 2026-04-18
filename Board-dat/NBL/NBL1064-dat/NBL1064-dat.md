@@ -7,7 +7,7 @@
 
 
 
-### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
+## Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
 - [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]] - [[EY-23A-dat]]
 
@@ -17,9 +17,10 @@
 on board chip [[STM8-dat]] - [[MCU-dat]]
 
 
+### Board V2 
 
+- [[BT-dual-mode-dat]] supported 
 
-#### SCH 
 
 ![](2026-01-08-15-51-43.png)
 

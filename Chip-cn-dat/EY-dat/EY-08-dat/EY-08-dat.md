@@ -1,13 +1,16 @@
 # EY-08-dat
 
+
+
+
 - [[EY-08-dat]] - module data refer to [[NBL1060-dat]]
 
+- [[BLE-dat]] - [[BT-SPP-dat]]
 
-- [[NBL1076-dat]]
+- [[EY-08-dat]] - [[NBL1060-dat]] - [[NBL1061-dat]] - [[NBL1076-dat]] - [[CC2541-dat]]
 
-- [[CC2541-dat]] 
 
-- [[ibeacon-dat]] - [[airsync-dat]]
+- [[ibeacon-dat]] -[[BLE4-dat]]
 
 
 - [[bluetooth-dat]] - [[BLE4-dat]] - [[BLE5-dat]] - [[BT-dual-mode-dat]] - [[BT-SPP-dat]] - [[bt-audio-dat]]
@@ -21,4 +24,4 @@
 
 - [[EY-dat]]
 
-
+- [[EY-08]]
