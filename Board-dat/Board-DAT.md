@@ -321,7 +321,7 @@ MPC cable
 
 audio bluetooth Speaker - [[NBL1089-DAT]] 
 
-audio bluetooth player - [[NBL1037-dat]] - [[NBL1038-dat]]
+audio bluetooth player - [[NBL1037-dat]] - [[NBL1038-dat]] - [[bt-audio-dat]]
 
 classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 
@@ -336,6 +336,9 @@ classic - [[NBL1012-dat]] - [[NBL1022-dat]] - [[NBL1018-dat]]
 [[BLE-dat]]
 
 - [[NBL1101-dat]] - [[NBL1107-dat]]
+
+
+- [[NRF51822-dat]]  - [[NBL1072-dat]] == mini size // - [[NBL1073-dat]] == full size
 
 
 

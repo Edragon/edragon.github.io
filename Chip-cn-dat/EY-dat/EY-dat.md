@@ -58,7 +58,7 @@ https://github.com/Edragon/BT-JDY-1
 
 ## ref 
 
-- [[chip-cn-dat]] - [[EY]]
+- [[chip-cn-dat]] - [[EY]] - [[bluetooth]]
 
 
 

@@ -1,7 +1,6 @@
 
 # NRF51822-dat
 
-- [[NRF51822-dat]] - [[NBL1037-dat]] - [[NBL1038-dat]]
 
 - [[NRF51822-dat]]  - [[NBL1072-dat]] - [[NBL1073-dat]]
 
