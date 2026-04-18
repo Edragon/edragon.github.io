@@ -3,9 +3,9 @@
 
 - [[BT-dual-mode-dat]]
 
-- [[EY-23A-dat]] - [[serial-dat]]
 
-- [[EY-34-dat]] - [[serial-dat]]
+
+
 
 - [[EY-08-dat]] 
 
@@ -18,6 +18,25 @@
 - [[EY-30-dat]] - [[BT-SPP-dat]]
 
 - [[EY-25M]]
+
+
+
+## BT dual mode / serial 
+
+- [[EY-23A-dat]] - [[EY-dat]]
+
+- [[EY-33-dat]] 
+
+- [[EY-34-dat]] - [[serial-dat]]
+
+- [[EY-68A-dat]]
+
+
+
+
+
+
+
 
 
 ## repro 

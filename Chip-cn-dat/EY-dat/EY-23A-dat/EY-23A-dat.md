@@ -1,7 +1,7 @@
 # EY-23A-dat
 
 
-- [[bt-dual-mode-dat]] - [[EY-23A-dat]] - [[EY-33-dat]]
+- [[bt-dual-mode-dat]] - [[EY-23A-dat]] - [[EY-33-dat]] - [[EY-dat]]
 
 - [[CC2541-dat]] - [[EY-23A-dat]]
 

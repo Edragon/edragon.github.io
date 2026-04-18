@@ -2,7 +2,7 @@
 # EY-25M-dat
 
 
-- [[BLE-dat]] - [[BLE5-dat]] - [[ibeacon-dat]]
+- [[BLE-dat]] - [[BLE5-dat]] - [[ibeacon-dat]] - [[NBL1101-dat]]
 
 [legacy wiki page](https://www.electrodragon.com/w/EY-25M)
 
