@@ -1,6 +1,7 @@
 
 # speaker-I2S-dat
 
+- [[speaker-dat]] - [[speaker-I2S-dat]]
 
 - [[amplifier-dat]]
 

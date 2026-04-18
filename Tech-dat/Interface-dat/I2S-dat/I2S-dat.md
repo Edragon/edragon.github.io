@@ -7,6 +7,8 @@
 
 - [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[PDM-dat]]
 
+- [[audio-dat]] - [[codec-audio-dat]] - [[amplifier-audio-dat]] - [[speaker-dat]] - [[speaker-I2S-dat]] - [[DAC-dat]]
+
 - [[DAC-dat]] - [[amplifier-audio-dat]] - [[speaker-dat]]
 
 
@@ -20,7 +22,7 @@
 
 - [[ADC-dat]] - [[ADC-RECORD-dat]] - [[DAC-dat]] - [[DAC-PLAYBACK-dat]]
 
-
+- [[sensor-microphone-dat]] - [[sensor-microphone-I2S-dat]]
 
 ## info 
 

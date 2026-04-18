@@ -1,12 +1,17 @@
 
 # audio-dat
 
+
+
+- [[audio-dat]] - [[codec-audio-dat]] - [[amplifier-audio-dat]] - [[speaker-dat]] - [[speaker-I2S-dat]] - [[DAC-dat]]
+
+
 - [[mp3-dat]] - [[wav-dat]] - [[mp3-decoder-dat]] - [[wave-dat]]
 
 - [[amplifier-dat]] - [[dac-dat]] - [[amplifier-audio-dat]]
 
 
-- [[I2S-dac-dat]] - [[I2S-microphone-dat]] - [[I2S-speaker-dat]] - [[I2S-amplifier-dat]]
+- [[I2S-dac-dat]] - [[microphone-I2S-dat]] - [[speaker-I2S-dat]] - [[I2S-amplifier-dat]]
 
 - [[bt-audio-dat]]
 

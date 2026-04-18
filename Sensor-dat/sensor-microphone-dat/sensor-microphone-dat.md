@@ -3,10 +3,9 @@
 
 - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-Analog-dat]]
 
-- [[microphone-Analog-dat]] - [[Electret-Condenser-Microphone-dat]]
+- [[sensor-microphone-Analog-dat]] - [[Electret-Condenser-Microphone-dat]]
 
-- [[sensor-microphone-I2S]]
-
+- [[sensor-microphone-I2S-dat]]
 
 
 
