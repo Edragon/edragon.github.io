@@ -42,9 +42,17 @@ Purpose: To provide a load for the secondary winding of a current transformer (C
 
 - 30E == 2000K 
 - 30D == 200K 
+- 01C = 10K 
+- 01D = 100K 
+- 85C = 85K 
+- 124 = 120K 
+- 163 = 16K 
+- 393 = 39K 
 
 
-### Multiplier Letters
+Multiplier Letters
+
+
 | Letter | Multiplier |
 |--------|------------|
 | Z      | ×0.001     |
@@ -57,7 +65,6 @@ Purpose: To provide a load for the secondary winding of a current transformer (C
 | E      | ×10,000    |
 | F      | ×100,000   |
 
----
 
 ### Base Values (01–96)
 
