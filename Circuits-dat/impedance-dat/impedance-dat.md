@@ -5,7 +5,7 @@
 
 keep length short == under **75mm to 100mm**
 
-![](2026-04-15-18-24-51.png)
+![](2026-04-20-16-44-56.png)
 
 
 ## 1. Why Long Traces Are a Problem

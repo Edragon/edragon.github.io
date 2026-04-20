@@ -4,7 +4,7 @@
 
 ## usage 
 
-- [[HDMI-dat]] - [[usb-type-C-dat]] - need [[displayport-dat]]
+- [[HDMI-dat]] - [[USB-type-c-dat]] - need [[displayport-dat]]
 
 - [[USB-dat]]
 

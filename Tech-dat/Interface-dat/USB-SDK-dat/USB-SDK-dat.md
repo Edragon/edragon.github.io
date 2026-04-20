@@ -49,7 +49,7 @@
 
 ## USB variations 
 
-- [[usb-type-c-dat]]
+- [[USB-type-c-dat]]
 
 - [[USB-2.0-dat]] - [[USB-3.0-dat]]
 

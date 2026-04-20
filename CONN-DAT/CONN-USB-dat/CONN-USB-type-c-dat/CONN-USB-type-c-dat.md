@@ -1,32 +1,27 @@
 
 # CONN-USB-type-c-dat
 
-- [[CONN-USB-type-c-dat]] - [[USB-type-c-dat]] - [[cable-USB-type-c-dat]]
+- [[CONN-USB-type-c-dat]] - [[USB-SDK-type-c-dat]] - [[cable-USB-type-c-dat]]
 
-- [[type-c-hdk-dat]]
+- [[type-c-hdk-dat]] - [[EDA-footprint-dat]] - [[PCB-dat]]
 
 - [[peripherals-dat]]
 
 - [[USB-SDK-dat]]
 
+- [[impedance-dat]]
 
 
-## functions 
 
-- [[USB-charging-dat]] - [[USB-PD-dat]]
 
-- [[USB-OTG-dat]] 
 
-- [[displayPort-dat]]
-
-- [[thunderbolt-dat]]
-
-- [[type-c-to-ethernet-dat]]
 
 
 ## common connectors 
 
-type-C 6 pins == not D+ / D- data pins 
+### type-C 6 pins 
+
+== no D+ / D- data pins 
 
 ![](2026-03-15-01-49-08.png)
 
@@ -39,23 +34,36 @@ type-C 6 pins == not D+ / D- data pins
 | A9  | VBUS        |
 | A12 | GND         |
 
-type-C 9 pins 
+### type-C 9 pins 
 
 ![](2026-03-15-01-51-26.png)
 
 type-C 14 pins 
 
-type-C 16 pins == common used version 
+### type-C 16 pins == common used version 
 
 
 ![](2026-03-15-01-52-20.png)
+
+### type-C 16 pins vertical SMD 
+
+- difficult to manufacture / populate 
+
+![](2026-04-20-16-48-47.png)
+
+### type-C 16 pins vertical PTH 
+
+![](2026-04-20-16-51-52.png)
+
+![](2026-04-20-16-52-23.png)
+
 
 ## hardware 
 
 wiring 
 
 ![](2026-04-11-15-01-20.png)
-
+[[USB-type-c-dat]]
 
 
 - [[iphone-17-dat]] 20pins [[usb-type-c-dat]] - [[usb-type-c]] - [[usb-SDK]]

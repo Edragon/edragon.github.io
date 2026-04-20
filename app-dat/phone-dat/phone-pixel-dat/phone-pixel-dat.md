@@ -3,7 +3,7 @@
 
 - [[pixel-7-dat]] - [[pixel-3xl-dat]]
  
-- [[usb-type-c-dat]] - [[type-c-to-ethernet-dat]] - [[displayPort-dat]]
+- [[USB-type-c-dat]] - [[type-c-to-ethernet-dat]] - [[displayPort-dat]]
 
 
 

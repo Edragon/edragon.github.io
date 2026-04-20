@@ -1,8 +1,8 @@
 
 
-# USB-type-c-dat
+# USB-SDK-type-c-dat
 
-- [[CONN-USB-type-c-dat]] - [[USB-type-c-dat]] - [[cable-USB-type-c-dat]]
+- [[CONN-USB-type-c-dat]] - [[USB-SDK-type-c-dat]] - [[cable-USB-type-c-dat]]
 
 - [[cable-USB-dat]]
 
@@ -20,7 +20,19 @@
 
 
 
+## functions 
 
+- [[USB-charging-dat]] - [[USB-PD-dat]]
+
+- [[USB-OTG-dat]] 
+
+- [[displayPort-dat]]
+
+[[type-c-to-ethernet-dat]]
+
+- [[thunderbolt-dat]]
+
+- [[type-c-to-ethernet-dat]]
 
 
 ## apps 

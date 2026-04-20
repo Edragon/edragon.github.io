@@ -12,7 +12,7 @@ legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 
 
-- [[type-c-sniffer-dat]] - [[OPM1185-dat]] - [[usb-type-c-dat]]
+- [[type-c-sniffer-dat]] - [[OPM1185-dat]] - [[USB-type-c-dat]]
 
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[XL6009-dat]]
 

@@ -54,7 +54,7 @@ DisplayPort (DP) is a **digital video and audio interface standard** used to con
 ## 🖥️ What DisplayPort Does
 - Transmits **digital video** from computer to monitor.
 - Transmits **audio** through the same cable.
-- Supports **USB-C DisplayPort Alt Mode** for modern devices. - [[usb-type-c-dat]]
+- Supports **USB-C DisplayPort Alt Mode** for modern devices. - [[USB-type-c-dat]]
 
 ---
 
