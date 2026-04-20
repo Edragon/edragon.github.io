@@ -1,6 +1,9 @@
 
 # NBL1064-dat
 
+
+
+
 ## Info
 
 [product url - Bluetooth IO Control Board EDR 2.0, BLK_IO](https://www.electrodragon.com/product/bluetooth-io-control-board-edr-2-0-blk_io/)
@@ -9,7 +12,7 @@
 
 ## Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-- [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]] - [[EY-23A-dat]]
+- [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]] - [[EY-23A-dat]] - [[EY-34-dat]]
 
 ![](2026-01-08-15-46-06.png)
 

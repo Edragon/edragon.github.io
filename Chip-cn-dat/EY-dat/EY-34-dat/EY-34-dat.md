@@ -1,5 +1,16 @@
 # EY-34-dat
 
+- [[bluetooth-dat]]
+
+- Supports SPP Host mode
+- Simultaneous Host and Slave operation
+- Supports multiple connections
+- `SPP` communication speed: 40 KB/s; 
+- `BLE` communication speed: 14 KB/s
+- SPP Host supports connections with up to 7 devices
+- Slave mode supports connections with up to 8 Hosts
+
+
 The EY-34 transparent-transmission module is based on Bluetooth BLE 4.2 and Bluetooth 3.0 standards. It supports BLE and SPP operating simultaneously, and SPP supports multi-connection as well as master/slave operation at the same time—there is no need to separately configure the module as master or slave.
 
 In multi-connect mode SPP supports up to 7 SPP peer connections (Android or PC) plus 1 iOS phone. BLE also supports connections from Android or iOS devices.

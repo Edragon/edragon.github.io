@@ -1,11 +1,12 @@
 
 # NBL1100-dat
 
-EDBT6 Bluetooth Data Transmission Module, BLE SPP Dual (#NBL1100)
-
-https://www.electrodragon.com/product/edbt6-bluetooth-data-transmission-module-ble-spp-dual/
+[EDBT6 Bluetooth Data Transmission Module, BLE SPP Dual (#NBL1100)](https://www.electrodragon.com/product/edbt6-bluetooth-data-transmission-module-ble-spp-dual/)
 
 - legacy wiki page - https://w.electrodragon.com/w/EDBT6
+
+- [[EDBT6-dat]] - [[bluetooth-dat]]
+
 
 ## Board Map 
 

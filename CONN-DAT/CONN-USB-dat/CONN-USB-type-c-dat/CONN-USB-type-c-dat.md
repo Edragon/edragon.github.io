@@ -57,6 +57,12 @@ type-C 14 pins
 
 ![](2026-04-20-16-52-23.png)
 
+### type-C 16 pins board clipper and vertical PTH
+
+board thickness == 0.8 mm
+
+![](2026-04-20-19-06-44.png)
+
 
 ## hardware 
 

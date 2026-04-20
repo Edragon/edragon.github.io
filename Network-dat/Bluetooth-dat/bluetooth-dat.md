@@ -20,7 +20,7 @@
 
 - [[NBL1107-dat]] == [BLE 5.0 Mesh Sensor Node Mini Board Mesh-Node](https://www.electrodragon.com/product/ble-5-0-mesh-sensor-node-mini-board-mesh-node/)
 
-- high price == [[NBL1064-dat]] == [Bluetooth IO Control Board EDR 2.0, BLK_IO](https://www.electrodragon.com/product/bluetooth-io-control-board-edr-2-0-blk_io/)
+- [[NBL1064-dat]] == [Bluetooth IO Control Board EDR 2.0, BLK_IO](https://www.electrodragon.com/product/bluetooth-io-control-board-edr-2-0-blk_io/)
 
 
 
@@ -62,7 +62,7 @@
 
 - module board with [[MCU-dat]] - [[ARM1003-dat]]
 
-
+- [[EDBT6-dat]]
 
 
 ## Mode 
@@ -89,6 +89,11 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 - [[NBL1055-dat]] - [[NBL1089-dat]]
 
+## audio + BLE 
+
+[[audio-dat]] + [[BLE-dat]] == [[jielie-dat]] - [[JL-AF24-dat]] - [[bluetooth-dat]]
+
+
 
 ## phone APPs
 
@@ -111,15 +116,16 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 
 
+
+
+
 ## Chip 
 
 - [[TI-network-dat]] - [[CC5241-dat]] - [[CC2640-dat]] - [[CC2652-dat]]
 
 - [[nordic-dat]] - [[NRF51822-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]] - [[NRF5x-dat]]
 
-- [[EY-dat]]
-
-- [[beken-dat]]
+- [[EY-dat]] - [[beken-dat]] - [[JieLi-dat]] - [[chip-cn-dat]] - [[bluetooth-dat]]
 
 - [[qualcomm-dat]] - [[CSRA64215-dat]]
 

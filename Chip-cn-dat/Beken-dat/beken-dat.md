@@ -14,6 +14,8 @@ module - [[NBL1012-dat]] - [[NBL1022-dat]] == [[beken-dat]]
 
 ## 	Proprietary
 
+- [[BK3432-dat]]
+
 - BK5812
 - BK2481/2/3
 - BK5813

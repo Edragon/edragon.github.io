@@ -16,6 +16,36 @@ https://doc.zh-jieli.com/vue/#/home
 - [[amplifier-audio-dat]]
 
 
+## AC6939 
+
+AC6939B SOP16 
+
+ref == https://hackaday.io/project/184542-i-made-my-own-audio-bluetooth-module/details
+
+![](2026-04-20-19-56-03.png)
+
+## AF21? AF24 ? == 
+
+JL Jieli AF21BP0F355 B9D4 ? 
+
+![](2026-04-20-19-54-09.png)
+
+MP3 Player: The larger 16- or 24-pin audio decoder chip is usually a MH2024K-24SS, or one of the many compatible alternatives, such as MH2024K-16SS, YX5200-24SS, or clones like the AB23…, AB24…, AF24… series from Chinese manufacturers like Jieli Technology (JL).
+
+![](2026-04-20-19-58-23.png)
+
+- APP向串口通信最大速率12KBYTE/S
+- 串口向APP通信最大速率6KBYTE/S
+- BLE5.1
+- 双模蓝牙
+- 音频+BLE == [[audio-dat]] + [[BLE-dat]] == [[jielie-dat]] - [[JL-AF24-dat]] - [[bluetooth-dat]] - [[EY-68A-dat]]
+- 支持
+- 10控制
+- 串口透传
+- 音频播放
+
+also need [[audio-dat]] - [[amplifier-audio-dat]]
+
 ## AC20CM 
 
 ![](2026-02-11-16-11-50.png)
