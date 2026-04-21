@@ -11,6 +11,11 @@ legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
 
 - [[EY-25M-dat]] - [[BLE-dat]] - [[BLE5-dat]] - [[ibeacon-dat]] - [[mesh-node-dat]] - [[NBL1101-dat]]
 
+- [[HDSC-dat]]
+
+- [[AHT20-dat]] - [[KX023-1025-dat]] - [[I2C-dat]]
+
+- [[relay-signal-dat]] - [[relay-dat]]
 
 ## Board Map 
 

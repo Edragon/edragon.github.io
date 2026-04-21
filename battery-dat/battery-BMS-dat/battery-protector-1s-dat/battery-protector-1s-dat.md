@@ -64,6 +64,11 @@ $$I = \frac{0.15}{0.05} = 3\text{A}$$
 
 
 
+## option XB7608
+
+- [[xysemi-dat]]
+
+
 ## ref 
 
 - [[battery-dat]]

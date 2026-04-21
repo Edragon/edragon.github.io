@@ -11,6 +11,7 @@
 
 - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
 
+- [[NBL1107-dat]]
 
 ## MCU 
 

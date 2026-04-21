@@ -5,7 +5,7 @@
 
 - [[battery-charger-1s-dat]]
 
-
+- [[battery-protector-1s-dat]]
 
 ## board 
 
@@ -80,7 +80,9 @@ SCH 2
 ![](2025-08-19-16-44-53.png)
 
 
+## board 
 
+![](2026-04-21-21-11-52.png)
 
 ## ref 
 
