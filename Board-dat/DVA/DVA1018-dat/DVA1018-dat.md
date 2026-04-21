@@ -14,9 +14,27 @@ product url -
 
 - [[led-dat]]
 
+- [[LGT8F328-SSOP20-dat]] pins
 
+| arduino software | LGT8F328-SSOP20 pin | function           | Bluetooth Mod |
+| ---------------- | ------------------- | ------------------ | ------------- |
+| GND              | GND                 | GND                |               |
+| 3V3              | 3V3                 | 3.3V               |               |
+| RST              | RST                 | reset              |               |
+| RST + 0.1uf      | RST + 0.1uf         | rest + 0.1UF       |               |
+| D2               | D2                  | interrupt from BT  | INT           |
+| D3               | D3                  | interrrupt pull-up |               |
+| RXD              | D6                  | sys UART RX        |               |
+| TXD              | D5                  | sys UART TX        |               |
+| D7               | D7                  | send TX to BT      | RX            |
+| D9               | D9                  | receive RX from BT | TX            |
+| x                | PB6                 | status from BT     | BT_STATUS     |
+| D11              | D11                 | wakeup             |               |
+| x                | x                   | x                  | GPIO0         |
+| x                | x                   | x                  | GPIO1         |
 
 - [[EYGC4-dat]] pins 
+
 
 - D7_RX 
 - D9_TX
