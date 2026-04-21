@@ -11,6 +11,7 @@
 
 ## 2.4Ghz 
 
+- [[CC2652-dat]] - [[szrfstar]] - [[TI-RF-dat]] - [[TI-dat]] - [[TI-network-dat]]
 
 CC2500
 

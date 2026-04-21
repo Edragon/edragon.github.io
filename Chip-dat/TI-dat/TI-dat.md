@@ -31,6 +31,7 @@
 
 - [[ULN2803-dat]]
 
+- [[TI-network-dat]]
 
 - [[USB-ESD-dat]] - TPD2EUSB30, TPD2EUSB30A, TPD4EUSB30
 

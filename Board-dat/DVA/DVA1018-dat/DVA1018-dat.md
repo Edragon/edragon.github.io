@@ -33,7 +33,7 @@ product url -
 | x                | x                   | x                  | GPIO0         |
 | x                | x                   | x                  | GPIO1         |
 
-- [[EYGC4-dat]] pins 
+- [[GC4-dat]] pins 
 
 
 - D7_RX 
@@ -53,8 +53,9 @@ product url -
 
 ## ref 
 
-- [[]] 
+- [[DVA1018]] 
 
 - legacy wiki page 
 
 
+- [[GC]] - [[GC4]] - [[DVA1018-dat]] - [[GC4-dat]]

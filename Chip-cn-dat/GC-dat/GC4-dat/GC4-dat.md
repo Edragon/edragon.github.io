@@ -1,6 +1,6 @@
-# EYGC4-dat
+# GC4-dat
 
-EYGC40 is a low-power Bluetooth (BLE) module based on a cost-effective System-on-Chip (SoC). It supports Bluetooth 4.0.
+GC40 is a low-power Bluetooth (BLE) module based on a cost-effective System-on-Chip (SoC). It supports Bluetooth 4.0.
 
 ## Overview
 
@@ -278,7 +278,7 @@ TX power levels mapping (level -> dBm):
 | Characteristic | UUID | Properties | Length | Default / Notes |
 |---|---:|---|---:|---|
 | Module MAC address | 0x2A23 | Read | 8 bytes | Default: 0000xxxxxxxxxxxx (hex); physical address of the module |
-| Module model | 0x2A24 | Read | 15 bytes | Default: EYGC40 |
+| Module model | 0x2A24 | Read | 15 bytes | Default: GC40 |
 | Software version | 0x2A28 | Read | 4 bytes | Software/firmware version |
 | Manufacturer | 0x2A29 | Read | 10 bytes | Default: "BLE Module" |
 
@@ -288,3 +288,12 @@ TX power levels mapping (level -> dBm):
 - Use the `OUTPUT_IND` pulse to synchronize reads from UART if the host MCU sleeps or polls.
 - Before sending UART data while the module is in low-power mode, pull `WAKEUP` low for at least 10 μs.
 - After changing configuration values that require a reboot (for example the module name), cycle power or issue a software reboot to apply changes.
+
+
+
+
+## ref 
+
+- [[GC-dat]] 
+
+- [[GC4]]
