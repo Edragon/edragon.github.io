@@ -4,7 +4,7 @@
 
 - [[capacitor-dat]]
 
-
+- [[battery-protector-1s-dat]] - [[xysemi-dat]]
 
 ## XB7608
 

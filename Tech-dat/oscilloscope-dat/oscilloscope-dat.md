@@ -1,6 +1,14 @@
 
 
-# wave of UARTS Data
+# oscilloscope-dat
+
+
+
+
+arduino oscilloscope
+https://dbuezas.github.io/arduino-web-oscilloscope/
+
+wave of UARTS Data
 
 - 196678365
 
@@ -14,3 +22,10 @@
 ## Selection 
 
 $299 12bit == https://youtu.be/3hyp0-0ns9U?t=680
+
+
+
+
+## ref 
+
+- [[fab-tools-dat]]

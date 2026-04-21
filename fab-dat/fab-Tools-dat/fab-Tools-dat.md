@@ -5,7 +5,7 @@
 
 - [[instrument-dat]] - [[oscilloscope-dat]] - [[multimeter-dat]] - [[tools-dat]] - [[fab-workspace-dat]]
 
-
+- [[oscilloscope-dat]]
 
 - [[PCB-tools-dat]] 
 

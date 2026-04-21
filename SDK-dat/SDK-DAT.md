@@ -67,6 +67,7 @@
 
 - [[linux-dat]]
 
+- [[software-dat]]
 
 ## commands 
 

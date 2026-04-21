@@ -8,7 +8,11 @@ product url -
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
+![](2026-04-21-21-23-19.png)
 
+
+
+- [[charge-pump-dat]]
 
 - [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]] - [[arduino-dat]]
 

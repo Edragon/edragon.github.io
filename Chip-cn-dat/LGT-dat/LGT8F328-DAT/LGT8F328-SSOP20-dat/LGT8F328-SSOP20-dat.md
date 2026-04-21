@@ -7,7 +7,7 @@
 
 - [[]]
 
-
+- [[driver-dat]]
 
 
 ## board 
@@ -53,6 +53,24 @@
 ![](2025-06-25-14-42-46.png)
 
 
+## SDK 
+
+C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8ds20\optiboot_lgt8f88ds20.hex
+
+https://github.com/dbuezas/lgt8fx
+
+compile by - [[arduino-dat]]
+
+"C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\DxCore\\tools\\avr-gcc\\7.3.0-atmel3.6.1-azduino8a/bin/avr-objcopy" -O ihex -R .eeprom "C:\\Users\\Administrator\\AppData\\Local\\arduino\\sketches\\A205FB4B03B052BB263E3D031BDFA0CD/Blink.ino.elf" "C:\\Users\\Administrator\\AppData\\Local\\arduino\\sketches\\A205FB4B03B052BB263E3D031BDFA0CD/Blink.ino.hex"
+
+"C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\DxCore\\tools\\avr-gcc\\7.3.0-atmel3.6.1-azduino8a/bin/avr-size" -A "C:\\Users\\Administrator\\AppData\\Local\\arduino\\sketches\\A205FB4B03B052BB263E3D031BDFA0CD/Blink.ino.elf"
+
+
+    C:\Users\Administrator\AppData\Local\arduino\sketches\A205FB4B03B052BB263E3D031BDFA0CD\Blink.ino.hex
+
+upload by [[LGT-SWDICE_MKII-dat]] - [[LGT-dat]]
+
+![](2026-04-21-22-34-06.png)
 
 
 ## ref 

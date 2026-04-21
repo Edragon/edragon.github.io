@@ -16,6 +16,9 @@
 
 - [[DW01-dat]]
 
+- [[battery-protector-1s-dat]] - [[xysemi-dat]]
+
+
 ## solution 1 DW01 + 8205
 
 
