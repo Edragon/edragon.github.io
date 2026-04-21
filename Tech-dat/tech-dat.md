@@ -272,7 +272,7 @@
 
 ## chips 
 
-- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[ESP32-dat]]
+- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[ESP32-dat]] - [[realtek-dat]]
 
 - [[chip-cn-dat]]
 

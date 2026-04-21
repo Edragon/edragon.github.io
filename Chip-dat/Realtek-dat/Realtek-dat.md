@@ -19,7 +19,9 @@
 
 - RTL8152B - [[RPI-SBC-dat]] - friendly 
 
+- [[RTL9210-dat]]
 
+The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very high-capacity NVMe drive inside it, ensure you are using a high-quality cable, as some SSDs can "drop out" if they don't get enough power from a weak USB port.
 
 ## Boards 
 
