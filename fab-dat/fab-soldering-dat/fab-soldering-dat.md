@@ -1,5 +1,12 @@
 # fab-soldering-dat
 
+
+- [[fab-soldering-float]] - [[fab-soldering-float-dat]] - [[fab-soldering-dat]]
+
+
+
+
+
 - [[PCB-soldering-skills-dat]]
 
 - [[PCB-desoldering-dat]] 
@@ -16,4 +23,4 @@
 
 ## ref 
 
-
+- [[fab-soldering]]
