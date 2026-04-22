@@ -4,7 +4,7 @@
 
 - [[DCDC-boost-dat]] - [[LED-dat]] - [[backlight-dat]] - [[lcd-dat]] - [[lcd-driver-dat]] - [[led-driver-dat]]
 
-
+- [[LED-dat]] - [[portable-lights-dat]] - [[EDC-dat]]
 
 - [[led-infrared-dat]]
 

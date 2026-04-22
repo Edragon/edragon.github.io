@@ -2,6 +2,15 @@
 # RFID-Card-dat
 
 
+- [[RFID-dat]] - [[rfid-card-dat]] - [[EDC-dat]]
+
+[[RFID-card-dat]] 
+  - key - [[NID1009-dat]] - [[EM4100-dat]] - [[125khz-dat]]
+  - card - [[NID1010-dat]] - [[EM4100-dat]] - [[125khz-dat]]
+  - key - [[NID1014-dat]] - [[RC522-dat]] - [[13.56mhz-dat]]
+  - [[NID1022-dat]] - [[125khz-dat]] - [[NID1020-dat]] - [[NID1021-dat]]
+
+
 ## Types 
 
 - IC - read and write, higher security level 

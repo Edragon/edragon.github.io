@@ -72,6 +72,7 @@ upload by [[LGT-SWDICE_MKII-dat]] - [[LGT-dat]]
 
 ![](2026-04-21-22-34-06.png)
 
+- programming test D12 
 
 ## ref 
 
