@@ -24,9 +24,14 @@ readers [[USB-dat]] based - [[NID1024-dat]]
 
 
 [[RFID-card-dat]] 
+
+- [[125khz-dat]]
   - key - [[NID1009-dat]] - [[EM4100-dat]] - [[125khz-dat]]
   - card - [[NID1010-dat]] - [[EM4100-dat]] - [[125khz-dat]]
+- [[13.56mhz-dat]]
   - key - [[NID1014-dat]] - [[RC522-dat]] - [[13.56mhz-dat]]
+  - card - [[NID1007-dat]] - [[RC522-dat]] - [[13.56mhz-dat]]
+
   - [[NID1022-dat]] - [[125khz-dat]] - [[NID1020-dat]] - [[NID1021-dat]]
 
 
