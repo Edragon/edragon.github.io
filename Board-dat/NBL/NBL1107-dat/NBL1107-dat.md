@@ -5,9 +5,9 @@
 
 [BLE 5.0 Mesh Sensor Node Mini Board Mesh-Node](https://www.electrodragon.com/product/ble-5-0-mesh-sensor-node-mini-board-mesh-node/)
 
-legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
+[legacy wiki page](https://w.electrodragon.com/w/Mesh-Node) 
 
-- [[BLE-dat]] - [[bluetooth-dat]]
+- [[BLE-dat]] - [[bluetooth-dat]] - [[ibeacon-dat]] - [[mesh-node-dat]] - [[NBL1107-dat]] - [[NBL1101-dat]]
 
 - [[EY-25M-dat]] - [[BLE-dat]] - [[BLE5-dat]] - [[ibeacon-dat]] - [[mesh-node-dat]] - [[NBL1101-dat]]
 
