@@ -3,7 +3,9 @@
 
 - [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
 
-## HDSC ISP 
+
+
+## HDSC ISP == programmer 
 
 ![](2024-05-15-17-46-45.png)
 
@@ -21,6 +23,16 @@
 - VDD 3.3V or 5V 
 - Serial RXD to UART1_TXD_P35
 - Serial TXD to UART1_RXD_P36
+
+请确认目标芯片与串口模块的连接：
+    MCU.VCC           <--->    串口模块.VCC
+    MCU.GND           <--->    串口模块.GND
+    MCU.TXD(P31/P35)  <--->    串口模块.RXD
+    MCU.RXD(P27/P36)  <--->    串口模块.TXD
+    MCU.RESET         <--->    串口模块.RTS/DTR
+
+
+
 
 
 ## MDK Support 
@@ -44,10 +56,22 @@
 ![](2026-02-21-15-54-34.png)
 
 
+## demo 
+
+demo images == - [[HDSC-dat]] - [[HC32F003-dat]] - [[HDSC-SDK-dat]] - [[NBL1107-dat]]
 
 ## repo
 
 - [[HDSC-dat]]
+
+- https://github.com/Edragon/MCU-HDSC-basic
+- https://github.com/Edragon/MCU-HDSC-SDK
+- https://github.com/Edragon/MCU-HDSC-HC32L110
+- https://github.com/Edragon/MCU-HDSC-HC32F00X
+- https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
+- https://github.com/Edragon/MCU-HDSC-APP
+- E:\Git-category\git-MCU-HDSC
+
 
 
 ## ref 

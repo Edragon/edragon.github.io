@@ -7,6 +7,8 @@
 
 ## Features 
 
+![](2026-04-22-22-18-35.png)
+
 
 ### Low power
 
@@ -34,6 +36,9 @@ For [[mesh-node-dat]] - [[NBL1107-dat]]
 ![](2024-05-15-16-48-43.png)
 
 
+
+
+
 ## Demo codes 
 
 - AT: send AT commands to [[BLE-dat]] module [[NBL1101-dat]]
@@ -42,16 +47,16 @@ For [[mesh-node-dat]] - [[NBL1107-dat]]
 
 - [keil support lib ](https://www.keil.arm.com/devices/hdsc-hc32f003c4pa/features/)
 
+demo images == - [[HDSC-dat]] - [[HC32F003-dat]] - [[HDSC-SDK-dat]] - [[NBL1107-dat]]
+
+
 
 ## repo 
 
-- https://github.com/Edragon/MCU-HDSC-basic
-- https://github.com/Edragon/MCU-HDSC-SDK
-- https://github.com/Edragon/MCU-HDSC-HC32L110
-- https://github.com/Edragon/MCU-HDSC-HC32F00X
-- https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
-- https://github.com/Edragon/MCU-HDSC-APP
-- E:\Git-category\git-MCU-HDSC
+- [[HDSC-SDK-dat]]
+
+
+
 
 
 ## ref 

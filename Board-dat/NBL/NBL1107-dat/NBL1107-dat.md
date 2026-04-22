@@ -11,11 +11,13 @@ legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
 
 - [[EY-25M-dat]] - [[BLE-dat]] - [[BLE5-dat]] - [[ibeacon-dat]] - [[mesh-node-dat]] - [[NBL1101-dat]]
 
-- [[HDSC-dat]]
+- [[HDSC-dat]] - [[HC32F003-dat]] - [[HDSC-SDK-dat]] - [[NBL1107-dat]]
 
 - [[AHT20-dat]] - [[KX023-1025-dat]] - [[I2C-dat]]
 
 - [[relay-signal-dat]] - [[relay-dat]]
+
+
 
 ## Board Map 
 
@@ -24,9 +26,9 @@ legacy wiki page - https://w.electrodragon.com/w/Mesh-Node
 
 board version V2
 
+green box == [[relay-signal-dat]] // orange box == BT module [[NBL1101-dat]] // the rest == [[MCU-dat]] - [[HC32F003-dat]]
 
-![](2026-02-07-16-16-56.png)
-
+![](2026-04-22-21-52-01.png)
 
 - SJ1 setup button output to either Reset or P32
 
@@ -70,13 +72,19 @@ board version V2
 
 
 
-## logs 
-
-
-
-board version V1 
+## logs board version V1 
 
 ![](2024-05-15-17-38-57.png)
+
+
+## demo 
+
+![](2026-04-22-22-31-57.png)
+
+![](2026-04-22-22-32-09.png)
+
+![](2026-04-22-22-32-18.png)
+
 
 ## ref 
 
