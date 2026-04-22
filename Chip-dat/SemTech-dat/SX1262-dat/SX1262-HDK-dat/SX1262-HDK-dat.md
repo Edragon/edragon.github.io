@@ -5,9 +5,9 @@
 
 - [[lora-HDK-dat]]
 
-- [[LORA-HDK-dat]] - [[SX1262-MD1-dat]] - [[SX1262-HDK-dat]] - [[SX1262-dat]]
+- [[LORA-HDK-dat]]  - [[SX1262-HDK-dat]] - [[SX1262-dat]]
 
-
+- [[SX1262-MD1-dat]]
 
 
 ## wiring 
@@ -15,17 +15,20 @@
 
 ### Typical Minimum Connections (MCU)
 
-| SX1262 | MCU              |
-| ------ | ---------------- |
-| VDD_IN | 3.3V             |
-| VSS    | GND              |
-| NSS    | GPIO             |
-| SCK    | SPI SCK          |
-| MOSI   | SPI MOSI         |
-| MISO   | SPI MISO         |
-| BUSY   | GPIO (input)     |
-| DIO1   | GPIO (interrupt) |
-| NRST   | GPIO (reset)     |
+|      | SX1262 | MCU              | arduino | [[DVA1009-dat]] |
+| ---- | ------ | ---------------- | ------- | --------------- |
+|      | VDD_IN | 3.3V             |         |                 |
+|      | VSS    | GND              |         |                 |
+|      | NSS    | GPIO             |         |                 |
+|      | SCK    | SPI SCK          |         |                 |
+|      | MOSI   | SPI MOSI         |         |                 |
+|      | MISO   | SPI MISO         |         |                 |
+|      | BUSY   | GPIO (input)     | D3      | 3               |
+| DIO1 | DIO1   | GPIO (interrupt) | D5      | 2               |
+|      | NRST   | GPIO (reset)     | A0      | 9               |
+|      | DIO2   | x                |
+|      | DIO3   | x                |
+
 
 ---
 
