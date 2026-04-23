@@ -51,11 +51,21 @@ type-C 14 pins
 
 ![](2026-04-20-16-48-47.png)
 
-### type-C 16 pins vertical PTH 
+
+### type-C 16 pins vertical PTH - V1.1 
 
 ![](2026-04-20-16-51-52.png)
 
 ![](2026-04-20-16-52-23.png)
+
+### type-C 16 pins vertical PTH - V1.0 
+
+![](2026-04-23-19-01-39.png)
+
+
+### type-C 16 pins vertical PTH - V0.9
+
+![](2026-04-23-18-56-52.png)
 
 ### type-C 16 pins board clipper and vertical PTH
 
@@ -176,5 +186,9 @@ Note:
 
 
 ## ref 
+
+- [[CONN-usb-type-c]] - [[CONN-USB-type-c-V]]
+
+- [[CONN-USB-type-c]] - [[CONN-USB]]
 
 - [[usb-SDK]] - [[type-c]] - [[type-c-cable]]
