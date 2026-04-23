@@ -11,7 +11,7 @@
 
 - [[EY-25M-dat]] - [[BLE-dat]] - [[BLE5-dat]] - [[ibeacon-dat]] - [[mesh-node-dat]] - [[NBL1101-dat]]
 
-- [[HDSC-dat]] - [[HC32F003-dat]] - [[HDSC-SDK-dat]] - [[NBL1107-dat]]
+- [[HDSC-dat]] - [[HC32F003-dat]] - [[HDSC-SDK-dat]] - [[NBL1107-dat]] - [[C-dat]]
 
 - [[AHT20-dat]] - [[KX023-1025-dat]] - [[I2C-dat]]
 
@@ -50,25 +50,25 @@ green box == [[relay-signal-dat]] // orange box == BT module [[NBL1101-dat]] // 
 
 
 
-| MCU pins   | BT Modules | Sensors    | Other                |
-| ---------- | ---------- | ---------- | -------------------- |
-| Reset      |            |            | Button Reset or PROG |
-| U0_TXD     | BT_RXD     |            |                      |
-| U0_RXD     | BT_TXD     |            |                      |
-| P03        | -          | -          | NC                   |
-| P15        | BT_IN2     |            |                      |
-| P14        | BT_IN1     |            |                      |
-| P23        | BT_stat    |            |                      |
-| P24        |            |            | Button Alternative   |
-| P25        |            | Sensor SDA |                      |
-| P26        |            | Sensor SCL |                      |
-| P27        |            |            | lead out free        |
-| P31        |            |            | lead out free        |
-| P32        | BT_PWRC    |            |                      |
-| P33        |            |            | Bat_ADC              |
-| P34        |            |            | Relay                |
-| P35_U1_TXD |            |            | free or PROG         |
-| P36_U1_RXD |            |            | free or PROG         |
+| pin | MCU pins   | BT Modules | Sensors    | Other                |
+| --- | ---------- | ---------- | ---------- | -------------------- |
+| 1   | Reset      |            |            | Button Reset or PROG |
+| 2   | U0_TXD     | BT_RXD     |            |                      |
+| 3   | U0_RXD     | BT_TXD     |            |                      |
+| 7   | P03        | -          | -          | NC                   |
+| 8   | P15        | BT_IN2     |            |                      |
+| 9   | P14        | BT_IN1     |            |                      |
+| 10  | P23        | BT_stat    |            |                      |
+| 11  | P24        |            |            | Button Alternative   |
+| 12  | P25        |            | Sensor SDA |                      |
+| 13  | P26        |            | Sensor SCL |                      |
+| 14  | P27        |            |            | lead out free        |
+| 15  | P31        |            |            | lead out free        |
+| 16  | P32        | BT_PWRC    |            |                      |
+| 17  | P33        |            |            | Bat_ADC              |
+| 18  | P34        |            |            | Relay                |
+| 19  | P35_U1_TXD |            |            | free or PROG         |
+| 20  | P36_U1_RXD |            |            | free or PROG         |
 
 
 

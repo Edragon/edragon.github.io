@@ -3,6 +3,7 @@
 
 - [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
 
+- [[NBL1107-dat]]
 
 
 ## Features 
@@ -36,6 +37,12 @@ For [[mesh-node-dat]] - [[NBL1107-dat]]
 ![](2024-05-15-16-48-43.png)
 
 
+## pin table 
+
+| Pin Name | Function              | Description | signup |
+| -------- | --------------------- | ----------- | ------ |
+| P01      | UART1_TXD / UART0_RXD |             |        |
+| P02      | UART1_RXD / UART0_TXD |             |        |
 
 
 

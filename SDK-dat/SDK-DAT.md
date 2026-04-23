@@ -25,6 +25,12 @@
 
 - [[openocd-dat]]
 
+- [[clang-dat]] - [[vscode-dat]] - [[SDK-dat]]
+
+- [[gcc-dat]] - [[clang-dat]] - [[SDK-dat]]
+
+
+
 
 ## VS-code
 

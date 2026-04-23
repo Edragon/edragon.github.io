@@ -1,6 +1,14 @@
 
 # C-dat
 
+
+
+- [[gcc-dat]] - [[clang-dat]] - [[SDK-dat]] - [[C-dat]] - [[CPP-dat]] - [[mingw-w64-dat]] - [[Visual-Studio-Build-Tools-dat]] - [[vscode-dat]] - [[MDK-ARM-dat]]
+
+
+Clang on Windows is often just a front-end. If you don't have MinGW-w64 or Visual Studio Build Tools installed, `stdio.h` literally might not exist on your drive.
+
+
 - [[MSYS2-dat]] - [[Cmake-dat]] - [[Ccache-dat]]
 
 - [[RPI-C-dat]]

@@ -3,6 +3,7 @@
 
 - [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
 
+- [[clang-dat]] - [[vscode-dat]] - [[SDK-dat]] - [[C-dat]]
 
 
 ## HDSC ISP == programmer 
@@ -40,7 +41,26 @@
 - HDSC.HC32F003.1.0.1.pack
 - HDSC.HC32F005.1.0.1.pack
 
+"https:/raw.githubusercontent.com/hdscmcu/pack/master/HDSC.HC32F003.1.0.1.pack" - download - click - to install 
 
+Destination Folder
+
+d:\Keil_v5VPacks\HDSC\HC32F003V1.0.1
+
+D:\Keil_v5\Packs\HDSC\HC32F003\1.0.1\Device\Include\HC32F003.h
+
+    compiling core_uart0.c...
+    compiling core_uart1.c...
+    compiling int1.c...
+    compiling bsp_GPIO.c...
+    compiling ISR-prt.c...
+    compiling ddl.c...
+    compiling bsp_aht20.c...
+    linking...
+    Program Size: Code=2392 RO-data=224 RW-data=4 ZI-data=596  
+    FromELF: creating hex file...
+    ".\output\AHT20.axf" - 0 Error(s), 0 Warning(s).
+    Build Time Elapsed:  00:00:02
 
 ## SDK Driver and Examples 
 
@@ -59,6 +79,36 @@
 ## demo 
 
 demo images == - [[HDSC-dat]] - [[HC32F003-dat]] - [[HDSC-SDK-dat]] - [[NBL1107-dat]]
+
+
+
+## serial 
+
+UART1 -- core_uart1.c
+
+    void App_PortInit1(void)
+    {
+        // GPIO struct
+    stc_gpio_cfg_t stcGpioCfg;
+        
+        // DDL zero ?
+    DDL_ZERO_STRUCT(stcGpioCfg);
+        
+        // enable GPIO module clock
+    Sysctrl_SetPeripheralGate(SysctrlPeripheralGpio,TRUE); 
+
+    ///<TX
+        stcGpioCfg.enDir = GpioDirOut;
+        Gpio_Init(GpioPort3, GpioPin5, &stcGpioCfg);
+        Gpio_SetAfMode(GpioPort3, GpioPin5, GpioAf1);          //config P02 as URART1_TX
+
+        ///<RX
+        stcGpioCfg.enDir = GpioDirIn;
+        Gpio_Init(GpioPort3, GpioPin6, &stcGpioCfg);
+        Gpio_SetAfMode(GpioPort3, GpioPin6, GpioAf1);          //config P01 as URART1_RX
+
+    }
+
 
 ## repo
 
