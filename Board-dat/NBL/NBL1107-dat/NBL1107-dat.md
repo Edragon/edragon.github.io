@@ -19,12 +19,7 @@
 
 
 
-## Board Map 
-
-
-
-
-board version V2
+## Board Map board version V2
 
 green box == [[relay-signal-dat]] // orange box == BT module [[NBL1101-dat]] // the rest == [[MCU-dat]] - [[HC32F003-dat]]
 
@@ -50,25 +45,25 @@ green box == [[relay-signal-dat]] // orange box == BT module [[NBL1101-dat]] // 
 
 
 
-| pin | MCU pins   | BT Modules | Sensors    | Other                |
-| --- | ---------- | ---------- | ---------- | -------------------- |
-| 1   | Reset      |            |            | Button Reset or PROG |
-| 2   | U0_TXD     | BT_RXD     |            |                      |
-| 3   | U0_RXD     | BT_TXD     |            |                      |
-| 7   | P03        | -          | -          | NC                   |
-| 8   | P15        | BT_IN2     |            |                      |
-| 9   | P14        | BT_IN1     |            |                      |
-| 10  | P23        | BT_stat    |            |                      |
-| 11  | P24        |            |            | Button Alternative   |
-| 12  | P25        |            | Sensor SDA |                      |
-| 13  | P26        |            | Sensor SCL |                      |
-| 14  | P27        |            |            | lead out free        |
-| 15  | P31        |            |            | lead out free        |
-| 16  | P32        | BT_PWRC    |            |                      |
-| 17  | P33        |            |            | Bat_ADC              |
-| 18  | P34        |            |            | Relay                |
-| 19  | P35_U1_TXD |            |            | free or PROG         |
-| 20  | P36_U1_RXD |            |            | free or PROG         |
+| pin | MCU pins   | Peripherals | Note                 |
+| --- | ---------- | ----------- | -------------------- |
+| 1   | Reset      | alt._reset  | Button Reset or PROG |
+| 2   | U0_TXD     | BT_RXD      | via jumper           |
+| 3   | U0_RXD     | BT_TXD      | via jumper           |
+| 7   | P03        | -           | NC                   |
+| 8   | P15        | BT_IN2      |                      |
+| 9   | P14        | BT_IN1      |                      |
+| 10  | P23        | BT_stat     |                      |
+| 11  | P24        | alt._button | Button Alternative   |
+| 12  | P25        | Sensor SDA  |                      |
+| 13  | P26        | Sensor SCL  |                      |
+| 14  | P27        |             | NC                   |
+| 15  | P31        |             | NC                   |
+| 16  | P32        | BT_PWRC     |                      |
+| 17  | P33        | Bat_ADC     |                      |
+| 18  | P34        | Relay       |                      |
+| 19  | P35_U1_TXD |             | NC, free or PROG     |
+| 20  | P36_U1_RXD |             | NC, free or PROG     |
 
 
 
@@ -85,6 +80,7 @@ green box == [[relay-signal-dat]] // orange box == BT module [[NBL1101-dat]] // 
 
 ![](2026-04-22-22-32-18.png)
 
+demo code - [[HDSC-SDK-dat]] - [[HC32F003-dat]] - https://github.com/Edragon/MCU-HDSC-APP
 
 ## ref 
 

@@ -10,13 +10,17 @@
 - 电源（1.8-3.6V）
 - baudrate default 9600bps 
 
+- [[mesh-node-dat]] - [[EY-25M-mesh-dat.md]] - [[EY-25M-dat]]
+
+- [[ibeacon-dat]] - [[keyfab-dat]] - [[DTU-dat]] - [[IO-panel-dat]] - [[IOs-dat]] - [[GPIO-dat]]
+
 
 ## boards 
 
 
 ![](2024-05-15-18-59-17.png)
 
-- [[NBL1101-dat]] - [[NBL1107-dat]]
+- [[NBL1101-dat]] - [[NBL1107-dat]] - [[EY-25M-dat]]
 
 
 
@@ -129,6 +133,19 @@
 |            |                                           | AT+CUIO                                      | +CUIO=0,0,0,0,0,                                             |
 
 
+### mesh data send 
+
+Example: `41 54 2b 4d 45 53 48` 00 ff ff 11 22 33 `0d 0a`
+
+    41 54 2b 4d 45 53 48 00 ff ff 11 22 33 0d 0a
+
+Instruction: The red part (`41 54 2b 4d 45 53 48`) is hexadecimal data of AT+MESH. The example function is to
+send broadcast data to all devices in the target network. The broadcast data content is: `11 22 33`
+
+As there are too many functions of MESH network, it will not be described in detail in this document. Please refer
+to the document of Instructions for use of mesh. PDF.
+
+
 ## UUID 
 
 UUID List
@@ -210,6 +227,10 @@ Send 1122334455 data to device 0008 (00 08) in the network, the instructions are
 Control the OUT1 pin of target 0008 to be low level, and there is an ACK response, the instructions are as follows
 
     41 54 2b 4d 45 53 48 11 00 08 AA B2 E7 01 00
+
+
+
+
 
 ## ref 
 

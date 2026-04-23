@@ -17,7 +17,7 @@ legacy wiki page
 
 - [[semtech-dat]]
 
-
+- [[RSSI-dat]]
 
 
 ## chip 
@@ -136,6 +136,9 @@ HPD Series - [[NWL1074-dat]] - [[NWL1075-dat]] - [[NWL1077-dat]]
 
 
 LoRa devices and networks (such as LoRaWAN) enable smart IoT applications to help address major global challenges like energy management, depletion of natural resources, pollution control, infrastructure efficiency, and disaster prevention. Semtech’s LoRa devices have achieved hundreds of successful application cases in smart cities, homes and buildings, communities, metering, supply chain and logistics, agriculture, and more. LoRa networks now cover hundreds of millions of devices in over 100 countries/regions, aiming to create a smarter planet.
+
+- [[lora-app-dat]]
+
 
 ## lora frequency 
 

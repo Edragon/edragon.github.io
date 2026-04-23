@@ -2,6 +2,16 @@
 # GPIO-dat
 
 
+## apps 
+
+- [[IO-panel-dat]] - [[IOs-dat]] - [[GPIO-dat]]
+
+## info 
+
+
+
+
+
 GPIOS (Giant Pixel Interleaved Octal Shifts) is a method used in data storage and transfer used in several of Texas Instruments DSP chips. In these chips, the Gpio mode is used for general purpose applications. Here are some of the common GPIO (General Purpose Input/Output) modes:
 
 1. PP (Push-Pull): In this mode, the output pins are in a high impedance state and provide a high drive current when being driven.
@@ -22,6 +32,12 @@ GPIOS (Giant Pixel Interleaved Octal Shifts) is a method used in data storage an
 
 - [[MSP1072-dat]] - [[CH423-dat]]
 
+
+
+
+## tech 
+
+- [[NBL1101-dat]] - [[NBL1107-dat]]
 
 ## ref 
 

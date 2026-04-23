@@ -1,6 +1,10 @@
 
 # mesh-node-dat
 
+
+- [[mesh-node-dat]] - [[EY-25M-mesh-dat.md]] - [[EY-25M-dat]]
+
+
 ![](2024-05-15-16-52-35.png)
 
 ![](2024-05-15-16-53-46.png)
@@ -9,3 +13,8 @@
 - Low-power nodes: These nodes are usually battery powered and are typically in a power-saving sleep mode for the majority of the time.
 - Friend nodes: Low-power nodes are always associated with a friend node, which stores and forwards messages according to an agreed schedule. An ambient light sensor used to control outside lights at dusk and dawn is an example of a low-power node.
 - Proxy nodes: These nodes enable non-BLE-compliant devices to connect into the mesh through the use of the Bluetooth Generic Attribute (GATT) profile interface.
+
+
+
+## ref 
+
