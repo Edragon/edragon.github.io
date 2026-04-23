@@ -41,6 +41,17 @@
 
 
 
+## debug info 
+
+###  keeping dropping 
+
+`USB Serial/JTAG Internal Switch`
+
+The S3 has an internal USB Serial/JTAG controller. If your code (or the factory firmware) initializes the USB peripheral in a way that conflicts with the hardware connection, the PC will "drop" the device as soon as the code starts running (usually 1-2 seconds after boot).
+
+Test: Hold the `BOOT` button (`GPIO 0 to GND`), then press RESET, then release BOOT. If the device stays connected to the PC in this state, your hardware is fine, and the issue is your firmware or USB configuration.
+
+
 ## info and knowledge 
 
 ### USB-C vs. USB Type-C: Is There a Difference?

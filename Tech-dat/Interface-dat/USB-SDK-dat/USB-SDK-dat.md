@@ -7,7 +7,7 @@
 - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[cable-USB-dat]]
 
 
-- [[USB-SDK-dat]] - [[CONN-USB-HDK-dat]] 
+- [[USB-SDK-dat]] - [[CONN-USB-HDK-dat]] - [[USB-SDK-type-C-dat]]
 
 - [[CONN-USB-dat]] - [[conn-dat]]
 
