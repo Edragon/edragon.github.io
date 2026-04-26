@@ -2,6 +2,25 @@
 # NGS1075-dat
 
 
+[MINI PCI-E PCIE to USB Converter MotherBoard](https://www.electrodragon.com/product/minipci-e-usb-converter-3g-wwan-wifi-module-w-sim-slot/)
+
+
+- [[PCIE-dat]] - [[conn-pcie-dat]] - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[NGS1075-dat]]
+
+board with the carried module 
+
+![](2026-04-26-18-17-03.png)
+
+
+dimension 
+
+![](2026-04-26-18-16-22.png)
+
+pins 
+
+![](2026-04-26-18-18-07.png)
+
+
 ## A support list of most modules:
 
 Huawei: - [[huawei-dat]]

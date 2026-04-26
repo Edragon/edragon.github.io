@@ -395,7 +395,7 @@ Quectel - 4G - EC20
 Quectel - 2G
 - ED20 - [[NGS1063-DAT]]
 
-
+- [[NGS1075-dat]]
 
 
 ### NWL

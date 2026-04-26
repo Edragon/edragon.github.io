@@ -17,6 +17,13 @@ A PCIe x1 slot is a type of expansion slot on a computer motherboard, primarily 
 18 *2 = 36 pins
 
 
+## APPs 
+
+PCIE - USB SCH - [[NGS1075-dat]]
+
+![](2026-04-26-18-16-00.png)
+
+- [[PCIE-dat]] - [[conn-pcie-dat]] - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[NGS1075-dat]]
 
 
 
