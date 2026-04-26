@@ -40,6 +40,7 @@ wireless measurement
 
 - [[SHT30-dat]] - [[SHT31-dat]]
 
+- [[TI-sensor-dat]]
 
 
 ## chip type temperature sensor 

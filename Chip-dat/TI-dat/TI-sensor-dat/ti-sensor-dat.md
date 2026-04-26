@@ -15,3 +15,8 @@
 - INA240 –4-V to 80-V, Bidirectional, Ultra-Precise Current Sense Amplifier With Enhanced PWM Rejection
 
 INA332 / INA2332 - Low-Power, Single-Supply, CMOS INSTRUMENTATION AMPLIFIERS
+
+
+LM35 - LM35 Precision Centigrade Temperature Sensors
+
+

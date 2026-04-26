@@ -44,6 +44,9 @@ STM32-F1 - [[DOD1046-dat]] - [[DOD1084-dat]]
 
 STM32-F4 - [[DOD1096-dat]] - [[STM1004-dat]] 
 
+`STM32F427VIT6TR` - ARM Microcontrollers - MCU High-performance advanced line, Arm Cortex-M4 core DSP & FPU, 2 Mbytes of Flash
+
+
 
 
 ## Applications 

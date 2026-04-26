@@ -59,6 +59,8 @@ TPS22916CYFPR == TPS22916xx 1-V–5.5-V, 2-A, 60-mΩ Ultra-Low Leakage Load Swit
 
 ## switching ICs 
 
+TMUX1574PWR - TMUX1574 Low-Capacitance, 2:1 (SPDT) 4-Channel, Powered-Off Protected Switch with 1.8 V
+
 
 `CD4066B` CMOS Quad Bilateral Switch - The CD4066B device is a quad bilateral switch intended for the transmission or multiplexing of analog or digital signals. 
 

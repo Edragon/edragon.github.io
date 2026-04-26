@@ -2,6 +2,9 @@
 # vishay-dat
 
 
+- [[mosfet-dat]] - [[mosfet-power-dat]]
+
+
 ## Vishay TCPT Series / SFH Series
 
 Like SFH757V / SFH250V

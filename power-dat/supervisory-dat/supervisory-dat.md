@@ -26,7 +26,7 @@ TPS3820,TPS3823,TPS3824,TPS3825,TPS3828
 
 - [[analog-device-dat]]
 
-ADM706P/ADM706R/ADM706S/ADM706T, ADM708R/ADM708S/ADM708T - 3 V, Voltage Monitoring Microprocessor Supervisory Circuits
+`ADM706P` /ADM706R/ADM706S/ADM706T, ADM708R/ADM708S/ADM708T - 3 V, Voltage Monitoring Microprocessor Supervisory Circuits
 
 
 
