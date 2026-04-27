@@ -1,9 +1,9 @@
 
 # Shipment-dat 
 
-- [[countries-dat]] - [[US-dat]]
+- [[india-dat]] [[israel-dat]] - [[US-dat]] - [[Mexico-dat]] - [[south-africa-dat]] - [[Philippines-dat]]
 
-- [[Mexico-dat]]
+- [[countries-dat]] 
 
 - how to use [[internal-tracking-dat]] internal tracking number
 

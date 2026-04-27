@@ -1,7 +1,13 @@
 
 # Israel-dat.md
 
-## [[HKDHLX-dat]]
+
+- [[PFCTM-dat]] - init. $7 - processing 5% - PFCTM: Intl. Air + Local Delivery (ref. ETA 12-25 days)
+
+- [[HKDHL-dat]] - init. $100 - processing 5% - HKDHL: DHL Express (Ref. ETA 6-11 days)
+
+
+[[HKDHLX-dat]]
 
 - [[HKDHLX-dat]]
 

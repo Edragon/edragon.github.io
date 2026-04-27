@@ -1,6 +1,9 @@
 
 # soldering-flux-dat
 
+
+- [[solder-flux]]
+
 ![](2025-09-10-17-34-56.png)
 
 - helogen free == white 

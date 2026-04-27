@@ -19,7 +19,7 @@
 
 - [[PNP-machine-dat]] - [[reflow-machine-dat]] 
 
-- [[PCB-cleaner-dat]]
+- [[PCB-cleaner-dat]] - [[PCB-clean-dat]]
 
 
 

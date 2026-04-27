@@ -1,6 +1,17 @@
 
 # mexico-dat.md
 
+- [[HKDHL-dat]] - init. $35 - processing 5%
+
+- [[HKFEDEXIP-C-dat]] - init. $40 - processing 5%
+
+- [[CNUPS-dat]] - init. $40 - processing 5%
+
+- [[EURPOST-dat]] - init. $4.5 - processing 5%
+
+- [[Fexible-shipment-dat]] - init. $35 - processing 5%
+
+
 
 
 ## Express shipment
