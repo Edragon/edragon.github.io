@@ -9,9 +9,13 @@
 [Loraduino Lora RF Wireless Dev. Board, Arduino Compatible](https://www.electrodragon.com/product/atmega328p-arduino-plus-lora-sx1278-board-loraduino/)
 
 
-- 433MHZ version [[DVA1007-DAT]] - 915Mhz version [[DVA1008-DAT]]
+- 433MHZ version [[DVA1007-DAT]] - 915Mhz version [[DVA1008-DAT]] - [[atmega328-dat]]
 
-- [[lora-SDK-dat]]
+- [[DVA1009-dat]] - [[LGT8F328-dat]]
+
+
+
+- [[lora-SDK-dat]] - [[node-dat]]
 
 
 

@@ -207,6 +207,15 @@ C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.
 
 C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8p\optiboot_lgt8f328p.hex
 
+## flash with bootloader
+
+- upload sketch with bootloader version first by [[ISP-dat]] or [[programmer-dat]], then upload normally via [[serial-dat]]
+
+![](2026-04-28-03-38-46.png)
+
+
+
+
 
 ## LGT8F328D 
 

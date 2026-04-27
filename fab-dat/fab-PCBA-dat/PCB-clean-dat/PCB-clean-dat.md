@@ -9,7 +9,7 @@
 
 - clean the board before PTH soldering 
 
-
+- use tools like `kitchen brush` / `toothbrush` to clean the board, and use clean cloth to dry the board
 
 
 ## ref 

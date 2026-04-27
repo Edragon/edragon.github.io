@@ -5,7 +5,7 @@ NRF24duino - [nrf24duino-arduino-mini-plus-nrf24l01-board](https://www.electrodr
 
 [legacy wiki page](https://www.electrodragon.com/w/Nrf24Duino)
 
-series - [[edarduino-dat]] - [[RFduino-dat]]
+series - [[edarduino-dat]] - [[RFduino-dat]] - [[node-dat]]
 
 
 ## Board Map and Info 
