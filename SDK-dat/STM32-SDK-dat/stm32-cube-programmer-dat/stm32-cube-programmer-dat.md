@@ -2,7 +2,21 @@
 # stm32-cube-programmer-dat
 
 
+- [[STM8-SDK-dat]] - [[STM32-SDK-dat]]
+
+
+
+
 ## Programmer 
+
+
+https://www.st.com/en/development-tools/stm32cubeprog.html
+
+- STM32CubeProgrammer software for Win64 == 2.22
+
+https://www.st.com/cloudfront/publish/stm32cubeprg-win64-v2-22-0/2.22.0/en/SetupSTM32CubeProgrammer_win64.zip
+
+
 * X64 2.6 - https://my.st.com/content/ccc/resource/technical/software/utility/group0/d5/9b/ea/a8/cd/2d/4e/3c/stm32cubeprg-win64_v2-6-0/files/stm32cubeprg-win64_v2-6-0.zip/jcr:content/translations/en.stm32cubeprg-win64_v2-6-0.zip
 - STM32cubeprog 2.2.1 - https://my.st.com/content/ccc/resource/technical/software/utility/group0/e1/74/6e/13/97/d4/48/98/stm32cubeprog/files/stm32cubeprog.zip/jcr:content/translations/en.stm32cubeprog.zip 
 
