@@ -23,7 +23,13 @@ pin definitions, dimensions refer to general genius board - [[NWI1100-dat]]
 - N8R8 （8M flash / 8M PSRAM）
 - N16R8 （16M flash / 8M PSRAM）
 
-AIIOT / dual Type-C USB port / W2812gb == [[WS2812-dat]] / high-speed USB-serial == [[CH340-dat]] or [[CH343-dat]] (default) 
+AIIOT / dual Type-C USB port / W2812gb == [[WS2812-dat]] / high-speed USB-serial == [[CH340-dat]] or [[CH343-dat]] 
+
+
+## dimension differencs 
+
+![](2026-04-28-13-04-13.png)
+
 
 ## Applications, category, tags, etc. 
 
