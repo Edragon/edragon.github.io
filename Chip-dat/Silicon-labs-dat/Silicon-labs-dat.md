@@ -22,6 +22,8 @@ EFM8BB10F2G-QFN20 == EFM8 Busy Bee 8-bit Microcontrollers (MCUs)
 
 ## RF
 
+EFR32BG22
+
 - [[RF-dat]]
 
 Si4461

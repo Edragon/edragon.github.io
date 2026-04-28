@@ -1,13 +1,14 @@
 
 # TI-network-dat
 
-
+- [[CC2340-dat]]
 
 ## sub-1ghz
 
 - [[CC1101-dat]]
 
 
+- [[CC1352-dat]]
 
 ## 2.4Ghz 
 
@@ -18,9 +19,8 @@ CC2500
 Low Cost, Low-Power 2.4 GHz RF Transceiver Designed for Low-Power Wireless Apps in the 2.4 GHz ISM B
 
 
-- [[CC2530-dat]]
+- [[CC2530-dat]] - [[CC2541-dat]] - [[CC2640-dat]]
 
-- [[CC2541-dat]]
 
 
 ## zigbee 
