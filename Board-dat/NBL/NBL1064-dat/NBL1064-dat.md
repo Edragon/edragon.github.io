@@ -12,7 +12,7 @@
 
 ## Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-
+![](2026-04-28-15-14-00.png)
 
 
 

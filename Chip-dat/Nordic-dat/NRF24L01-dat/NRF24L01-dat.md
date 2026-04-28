@@ -6,6 +6,24 @@ https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 
 - [[NRF24L01-clone-dat]]
 
+
+## boards 
+
+[[arduino-dat]] integrated board - [[DVA1002-dat]]
+
+Genuine Chip - [[NWL1053-dat]]
+
+Long range version == +20 DBm - [[NWL1050-dat]]
+  
+NRF24L01-TW version == NRF24L01B == Power at +7Db - [[NWL1032-dat]] - [[NRF24L01-clone-dat]]
+
+cost-effective cheap SMD version == 24L01 - [[NWL1010-dat]] - [[NRF24L01-clone-dat]]
+
+- [[RF-dat]]
+
+
+
+
 ## Feature of NRF24L01:
 
 - 2.4Ghz worldwide free open ISM band
@@ -26,19 +44,6 @@ https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 *   **NRF24L01-TW / NRF24L01B:**  Appears to be the same as NRF24L01, but with +7dBm transmit power.
 *   **Long Range Versions (+20dBm):** Offers significantly extended range due to the higher transmit power. Example: [[NWL1050-dat]].
 
-## boards 
-
-[[arduino-dat]] integrated board - [[DVA1002-dat]]
-
-Genuine Chip - [[NWL1053-dat]]
-
-Long range version == +20 DBm - [[NWL1050-dat]]
-  
-NRF24L01-TW version == NRF24L01B == Power at +7Db - [[NWL1032-dat]] 
-
-cost-effective cheap version == 24L01 - [[NWL1010-dat]] 
-
-- [[RF-dat]]
 
 
 ## NRF24L01+ Info 
