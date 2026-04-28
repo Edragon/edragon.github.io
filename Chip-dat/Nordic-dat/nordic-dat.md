@@ -6,7 +6,7 @@
 
 
 
-- [[NRF5x-dat]] - [[NRF52840-dat]] - [[NRF52832-dat]]
+- [[NRF5x-dat]] - [[NRF52840-dat]] - [[NRF52832-dat]] - [[NRF52810-dat]]
 
 
 
@@ -18,4 +18,4 @@
 
 - [[bluetooth-dat]]
 
-- [[chip-dat]]
+- [[chip-dat]] - [[rf-star-dat]]

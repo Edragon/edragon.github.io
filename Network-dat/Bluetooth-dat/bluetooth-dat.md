@@ -157,6 +157,19 @@ slave connect to multiple master mode
 
 ![](2026-02-04-18-10-39.png)
 
+## master / slave unity 
+
+- [[NRF52840-dat]]
+
+![](2026-04-29-00-12-29.png)
+
+![](2026-04-29-00-13-54.png)
+
+
+
+## BLE 5 
+
+![](2026-04-29-00-21-38.png)
 ## ref 
 
 - [[bluetooth]]
