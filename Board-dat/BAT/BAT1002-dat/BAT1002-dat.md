@@ -24,6 +24,16 @@ The open drain status output that is not used should be tied to ground.
 
 - https://x.com/electro_phoenix/status/1662021326901739520
 
+charge by USB or [[solar-dat]]
+
+![](2026-04-28-13-08-44.png)
+
+
+not clearly show on this image, but it is working fine 
+
+![](2026-04-28-13-09-13.png)
+
+
 
 ## ref 
 

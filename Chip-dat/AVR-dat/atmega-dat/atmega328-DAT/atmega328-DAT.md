@@ -9,6 +9,8 @@
 
 - [[TQFP-dat]]
 
+- [[arduino-programmer-dat]] - [[USBASP-dat]]
+
 ## DIP 28
 
 ![](2024-10-03-18-38-54.png)

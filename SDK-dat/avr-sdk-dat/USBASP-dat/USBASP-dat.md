@@ -1,6 +1,10 @@
 
 # USBASP-dat
 
+
+- [[arduino-programmer-dat]] - [[USBASP-dat]] - [[serial-dat]]
+
+
 - usbasp driver - libusb - [[USBASP.zip]]
 
 - [[usbasp-driver-note.pdf]]
@@ -77,6 +81,12 @@ System wide configuration file is "C:\Users\Administrator\AppData\Local\Arduino1
 - [[attiny85-dat]] - [[attiny13-dat]] - [[attiny44-dat]] - [[attiny-dat]] - [[USBASP-dat]] - [[avrdude-dat]]
 
 - [[DOD1016-dat]] - [[DOD1017-dat]] - [[DOD1018-dat]]
+
+## more demos 
+
+- [[DVA1007-dat]] - [[DVA1008-dat]] - [[DVA1009-dat]] - [[DVA1010-dat]]
+
+![](2026-04-28-13-11-14.png)
 
 
 ## repo

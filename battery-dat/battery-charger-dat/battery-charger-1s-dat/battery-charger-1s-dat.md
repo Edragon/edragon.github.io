@@ -23,7 +23,7 @@
 
 - most common used but maybe not the best == [[TP4056-dat]] - [[TP-dat]]
 
-
+- [[BAT1002-dat]]
 
 ## apps 
 

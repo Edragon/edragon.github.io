@@ -150,7 +150,11 @@ Booting Mode select
 
 - [[serial-dat]] - [[DTU-dat]]
 
+## demo 
 
+serial flashing with DTR pin for [[arduino-dat]]
+
+![](2026-04-28-13-12-05.png)
 
 
 ## ref 

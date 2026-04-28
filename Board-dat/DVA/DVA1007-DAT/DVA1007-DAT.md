@@ -17,12 +17,14 @@
 
 - [[lora-SDK-dat]] - [[node-dat]]
 
+- [[DVA1007-dat]] - [[DVA1008-dat]] - [[DVA1009-dat]] - [[DVA1010-dat]]
+
+
+## board V2 
 
 
 
-
-
-### Board Map 
+### Board Map V1 
 
 ![](2023-11-06-16-04-30.png)
 

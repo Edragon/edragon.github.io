@@ -57,6 +57,10 @@ cacultation:
 - [[MCP73871-dat]] - [[CN3791-dat]]
 
 
+## demo 
+
+![](2026-04-28-13-07-41.png)
+
 ## ref 
 
 - datasheet - [[TP4056.pdf]]
