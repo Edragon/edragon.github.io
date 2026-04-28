@@ -44,9 +44,9 @@ legacy wiki page
 
 - [[DAS1069-dat]] - [[ESP8266-dat]] - [[LORA-dat]] - [[arduino-shields-dat]]
 
+- [[DVA1010-dat]] - [[atmega328-dat]] + [[SX1262-dat]] / [[LLCC68-dat]]
 
-
-
+- [[DVA1009-dat]] - [[LGT8F328-dat]] + [[SX1262-dat]] / [[LLCC68-dat]]
 
 
 ## Info 
@@ -186,7 +186,7 @@ LoRa工作在不同地区的频段范围如下：
 
 ## modules 
 
-- [[AIT-dat]] 
+- [[AIT-dat]] - [[lora-modules-dat]] - [[lora-dat]]
 
 - [[RA-01-dat]] - [[SX1278-dat]]
 

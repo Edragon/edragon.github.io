@@ -20,7 +20,7 @@ A9G - https://github.com/pulkin/csdtk42-linux
 
 ## lora 
 
-- [[AIT-dat]] 
+- [[AIT-dat]] - [[lora-modules-dat]] - [[lora-dat]]
 
 - [[RA-01-dat]] - [[SX1278-dat]]
 

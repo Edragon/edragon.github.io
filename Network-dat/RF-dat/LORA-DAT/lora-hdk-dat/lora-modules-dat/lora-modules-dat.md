@@ -1,6 +1,6 @@
 # lora-modules-dat
 
-- [[lora-chip-dat]] - [[lora-modules-dat]]
+- [[lora-chip-dat]] - [[lora-modules-dat]] - [[AIT-dat]]
 
 - [[LLCC68-dat]] - [[NWL1103-dat]]
 

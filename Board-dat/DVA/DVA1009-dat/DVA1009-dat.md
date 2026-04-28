@@ -13,8 +13,9 @@
 
 - [[lora-dat]] == 433MHZ version [[DVA1007-DAT]] - 915Mhz version [[DVA1008-DAT]] - [[atmega328-dat]]
 
-- [[lora-dat]] == [[DVA1009-dat]] - [[LGT8F328-dat]]
+- [[DVA1010-dat]] - [[atmega328-dat]] + [[SX1262-dat]] / [[LLCC68-dat]]
 
+- [[DVA1009-dat]] - [[LGT8F328-dat]] + [[SX1262-dat]] / [[LLCC68-dat]]
 
 
 
