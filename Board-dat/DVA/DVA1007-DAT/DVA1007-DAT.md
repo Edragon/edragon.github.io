@@ -19,6 +19,9 @@
 
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[DVA1009-dat]] - [[DVA1010-dat]]
 
+new board V2 images please see [[DVA1009-dat]]
+
+
 
 ## board V2 
 

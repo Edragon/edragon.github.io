@@ -8,8 +8,8 @@
 
 
 
-legacy wiki page
-- https://w.electrodragon.com/w/Lora_Tech
+[legacy wiki page](https://w.electrodragon.com/w/Lora_Tech)
+
 - https://www.electrodragon.com/w/Category:Wireless
 
 

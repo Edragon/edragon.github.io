@@ -17,7 +17,7 @@
 
 - [[DVA1009-dat]] - [[LGT8F328-dat]] + [[SX1262-dat]] / [[LLCC68-dat]]
 
-
+- [[DVA1007-dat]] - [[DVA1008-dat]]
 
 ## tech 
 
