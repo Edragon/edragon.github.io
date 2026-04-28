@@ -65,7 +65,9 @@ working table
 - [[power-dat]] - [[power-distribution-dat]]
 
 
+## distributed by two power sources 
 
+![](2026-04-28-06-34-16.png)
 
 
 ## ref 

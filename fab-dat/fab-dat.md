@@ -1,6 +1,7 @@
 
 # fab-dat.md
 
+- [[PCB-dat]]
 
 - [[fab-tools-dat]] - [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-tools-dat]] - [[fab-workspace-dat]]
 

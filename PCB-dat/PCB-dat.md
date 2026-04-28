@@ -2,9 +2,9 @@
 # PCB-dat 
 
 
-- [[PCB-design-dat]] 
+- [[PCB-design-dat]] - [[PCB-test-dat]] - [[]]
 
-- [[EDA-dat]] - [[kicad-dat]]
+- [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]] - [[EDA-simulation-dat]]
 
 - [[PCB-dat]] - [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-mech-dat]]
 
@@ -12,7 +12,7 @@
 
 - [[PCB-service-dat]]
 
-- [[PCB-accessories-dat]]
+- [[PCB-accesories-dat]]
 
 - [[test-point-dat]]
 

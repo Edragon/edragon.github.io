@@ -23,6 +23,11 @@ TPS61023DRLR SOT-5X3-6具有0.5V低输入电压的3.7A升压转换器
 
 ## DCDC boost 
 
+`TPS61252` Tiny 1.5-A Boost Converter With Adjustable Input Current Limit
+
+
+
+
 - [[LM2577-dat]]
 
 
