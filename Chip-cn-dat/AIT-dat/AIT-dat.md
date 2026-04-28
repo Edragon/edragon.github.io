@@ -10,6 +10,10 @@
 
 - [[AIT-ESP32-modules-dat]]
 
+
+
+
+
 ## obselete 
 
 A9G - https://github.com/pulkin/csdtk42-linux
@@ -24,8 +28,15 @@ A9G - https://github.com/pulkin/csdtk42-linux
 
 - [[RA-01-dat]] - [[SX1278-dat]]
 
-- [[RA-01SH-dat]] == [[SX1262-dat]]
+- [[RA-01SH-dat]] == [[SX1262-dat]] // - [[RA-01SH-P-dat]] == higher power 
 
 - [[RA-01SC-dat]] == [[LLCC68-dat]]
 
 - [[AIT]]
+
+
+
+
+
+## ref 
+

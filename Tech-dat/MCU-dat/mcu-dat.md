@@ -171,6 +171,11 @@ Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter
 
 - [[tinyAVR-dat]] - [[HDSC-dat]]
 
+## MCU SSOP 
+
+- [[STM8-dat]] - [[MCU-dat]] - [[LGT8F328-SSOP20-dat]]
+
+
 
 
 ## ref 

@@ -195,6 +195,9 @@ LoRa工作在不同地区的频段范围如下：
 - [[RA-01SC-dat]] == [[LLCC68-dat]]
 
 
+## tech 
+
+- [[RF-switch-dat]]
 
 ## demo code 
 

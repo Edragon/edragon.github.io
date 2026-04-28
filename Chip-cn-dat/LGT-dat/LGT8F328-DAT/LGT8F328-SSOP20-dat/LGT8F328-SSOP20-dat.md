@@ -5,7 +5,7 @@
 
 - [[LGT8F328-DAT]] - [[LGT8F328-SSOP20-dat]] - [[LGT-dat]] - [[LGT8F328-SDK-DAT]]
 
-- [[]]
+- [[STM8-dat]] - [[MCU-dat]] - [[LGT8F328-SSOP20-dat]]
 
 - [[driver-dat]]
 
