@@ -29,7 +29,7 @@
 ## SX1262 Main Features
 
 - [[LoRa-dat]]® and [[FSK-dat]] modulation
-- 150 MHz to 960 MHz frequency range
+- `150 MHz to 960 MHz` frequency range
 - High sensitivity: down to -148 dBm
 - +22 dBm maximum transmit power
 - Low current consumption: 4.2 mA RX, 28 mA TX @ +14 dBm
@@ -44,6 +44,12 @@
 - Packet engine to perform CRC, FEC, whitening, and address filtering
 
 ![](2025-06-23-17-10-05.png)
+
+Core Frequency Range
+
+The chip supports a continuous range from `150 MHz to 960 MHz`.  
+
+While the silicon itself can tune to any frequency in this range, actual hardware modules (like those from Electrodragon.com) are typically optimized for specific regional bands using specialized RF matching circuits.
 
 
 

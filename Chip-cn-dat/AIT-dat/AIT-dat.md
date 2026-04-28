@@ -14,3 +14,16 @@
 
 A9G - https://github.com/pulkin/csdtk42-linux
 
+
+
+
+
+## lora 
+
+- [[AIT-dat]] 
+
+- [[RA-01-dat]] - [[SX1278-dat]]
+
+- [[RA-01SH-dat]] == [[SX1262-dat]]
+
+- [[RA-01SC-dat]] == [[LLCC68-dat]]

@@ -6,7 +6,7 @@
 
 - [[DVA1007-dat]] - [[DVA1009-dat]] - [[DVA1009-dat]] - [[DVA1010-dat]]
 
-- [[power-dat]] - [[Power-distribution-dat]]
+- [[power-dat]] - [[Power-distribution-dat]] - [[consonance-dat]] - [[CN3065-dat]]
 
 - [[lora-dat]]
 

@@ -22,7 +22,7 @@ legacy wiki page
 
 ## chip 
 
-- [[LLCC68-dat]]
+- [[LLCC68-dat]] - [[SX1262-dat]] - [[lora-dat]] 
 
 - [[SX1278-dat]] - [[SX1276-dat]] - [[SX1262-dat]]
 
@@ -184,6 +184,17 @@ LoRa工作在不同地区的频段范围如下：
 
 - [[RFM92-dat]]
 
+## modules 
+
+- [[AIT-dat]] 
+
+- [[RA-01-dat]] - [[SX1278-dat]]
+
+- [[RA-01SH-dat]] == [[SX1262-dat]]
+
+- [[RA-01SC-dat]] == [[LLCC68-dat]]
+
+
 
 ## demo code 
 
@@ -200,6 +211,9 @@ https://github.com/dragino/Lora
 ## build apps 
 
 - [[NRF52840+SX1262-dat]] - [[lora-dat]] - [[bluetooth-dat]]
+
+- [[USB-lora-dat]] - [[USB-lora]]
+
 
 
 ## ref
@@ -218,5 +232,5 @@ https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/
 
 - [[lora]] - [[USB-lora]]
 
-
+https://docs.ai-thinker.com/lora
 

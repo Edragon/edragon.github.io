@@ -1,6 +1,26 @@
 
 # arduino-programmer-dat
 
+
+
+- Arduino as ISP
+- Arduino as ISP (ATmega32U4)
+- Arduino Gemma
+- ArduinolSP
+- ArduinoISP.org
+- Atmel JTAGICE3 (ISP mode)
+- Atmel JTAGICE3 (JTAG mode)
+- Atmel STK500 development board
+- Atmel-ICE (AVR)
+- AVR ISP
+- AVRISP mkIl
+- BusPirate as ISP
+- Parallel Programmer
+- [[USBasp-dat]]
+- USBtinyISP
+
+
+
 - legacy wiki page2 - https://w.electrodragon.com/w/AVR_PROG_Shield#Flash_Bootloader_Programming_Guide_and_Note
 
 
