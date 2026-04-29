@@ -7,7 +7,7 @@
 
 - [[current-loop-transmitter-dat]] - [[current-loop-receiver-dat]] - [[ITF1003-DAT]] - [[industrial-measurement-dat]] - [[transmitter-current-dat]]
 
-
+- from [[DAC-dat]] - [[MCP4725-dat]]
 
 
 ## chip 

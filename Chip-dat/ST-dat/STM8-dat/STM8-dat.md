@@ -11,6 +11,9 @@ STM8S003F3P6 - [[DOD1008-dat]]
 
 STM8S103F3P6 - [[DOD1014-dat]]
 
+app board - [[NBL1064-dat]] - [[EY-34-dat]]
+
+
 ## pins 
 
 https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.html
