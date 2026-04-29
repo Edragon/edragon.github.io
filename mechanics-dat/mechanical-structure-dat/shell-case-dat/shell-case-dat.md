@@ -1,7 +1,7 @@
 
-# shell-dat
+# shell-case-dat
 
-- [[shell-dat]] - [[mechnical-structure-dat]]
+- [[shell-case-dat]] - [[mechnical-structure-dat]]
 
 - [[plastic-dat]] - [[fab-sheet-metal-dat]]
 

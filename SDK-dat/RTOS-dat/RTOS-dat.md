@@ -3,6 +3,8 @@
 
 - [[peripherals-dat]]
 
+- [[Zephyr-dat]] - [[SDK-dat]] - [[RTOS-dat]]
+
 ## realtime system 
 
 - [[freertos-dat]] - [[Zephyr-dat]] - [[MongooseOS-dat]]

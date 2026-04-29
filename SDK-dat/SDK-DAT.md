@@ -31,6 +31,7 @@
 
 - [[SDCC-dat]] - [[IAR-dat]] - [[MDK-ARM-dat]] - [[SDK-dat]]
 
+- [[Zephyr-dat]] - [[SDK-dat]]
 
 ## VS-code
 

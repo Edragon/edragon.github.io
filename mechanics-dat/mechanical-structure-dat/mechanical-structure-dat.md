@@ -4,7 +4,7 @@
 - [[structure-design-dat]] - [[engineering-dat]]
 
 
-common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-dat]]
+common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-case-dat/shell-dat]]
 
 - [[power-transmission-dat]] - [[bel-sys-dat]]
 

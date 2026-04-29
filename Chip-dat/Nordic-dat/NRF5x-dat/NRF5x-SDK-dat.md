@@ -1,6 +1,25 @@
 
 # NRF5x-SDK-dat.md
 
+
+
+
+## programming guide 
+
+1. 模块内置ARM单片机，程序下载使用J-LINK下载器 ，不能使用串口或其他任何JTAG、ISP、ICP工具。
+2. 程序的烧录需要两部分完成，由于NORDIC官方提供的协议栈没有加载在程序中，因此在进行二次开发的时候，
+    
+    - 需要使用官方烧录工具 `nRFgo studio` 烧录协议栈，再用nRFgo studio烧录应用代码的hex；
+    
+    - 也可以先使用官方烧录工具nRFgo studio烧录协议栈，再用IAR或者KEIL下载。
+
+官网工具下载网址 :http://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52832/ (language)/eng-GB
+
+
+- [[nRFgo-studio-dat]] 
+
+- [[jlink-dat]]
+
 ## software 
 
 - nrfconnect
