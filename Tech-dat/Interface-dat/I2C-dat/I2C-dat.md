@@ -5,7 +5,7 @@
 
 - [[PCF8574-dat]] - [[IO-expander-dat]] - [[MCP23008-dat]] - [[I2C-dat]]
 
-- [[I2C-repeater-dat]] - [[I2C-switch-dat]] - [[qwiic-dat]]
+- [[I2C-repeater-dat]] - [[I2C-switch-dat]] - [[- [[CONN-dat]] - [[CONN-qwiic-dat]]]] - [[I2C-isolator-dat]]
 
 
 
@@ -28,7 +28,7 @@ for [[ESP32-CAM-dat]]
 
 ## tech 
 
-- [[I2C-switch-dat]] - [[qwiic-dat]]
+- [[I2C-switch-dat]] - [[- [[CONN-dat]] - [[CONN-qwiic-dat]]]]
 
 - [[IO-expander-dat]]
 

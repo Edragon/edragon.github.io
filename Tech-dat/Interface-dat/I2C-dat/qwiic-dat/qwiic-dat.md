@@ -1,3 +1,0 @@
-
-# qwiic-dat
-

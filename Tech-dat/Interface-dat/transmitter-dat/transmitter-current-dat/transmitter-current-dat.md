@@ -12,11 +12,11 @@
 
 ## chip 
 
-XTR106 `4mA to 20mA` Current Transmitter With Bridge Excitation and Linearizatio
+`XTR106` - `4mA to 20mA` Current Transmitter With Bridge Excitation and Linearizatio
 
-XTR105 `4-20mA` Current Transmitter With Sensor Excitation and Linearization
+`XTR105` - `4-20mA` Current Transmitter With Sensor Excitation and Linearization
 
-
+`XTR115` - 
 
 ## boards 
 
@@ -28,3 +28,6 @@ XTR105 `4-20mA` Current Transmitter With Sensor Excitation and Linearization
 
 
 ## ref 
+
+
+- [[I2C-dat]]

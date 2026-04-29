@@ -1,5 +1,5 @@
 
-# CONN-cable-JST-dat
+# CONN-JST-dat
 
 - [[CONN-cable-JST-dat]] - [[XH2.54-dat]] - [[PH2.0-dat]] - [[SM2.54-dat]]
 
@@ -8,6 +8,8 @@
 - [[VH3.96-dat]]
 
 - [[wire-to-wire-dat]]
+
+- [[CONN-qwiic-dat]]
 
 ![](2026-04-04-20-31-28.png)
 
