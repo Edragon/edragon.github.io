@@ -9,7 +9,9 @@
 
 - [[ibeacon-dat]] - [[BLE5-dat]]
 
+## debugs apps 
 
+- [[BLE蓝牙调试助手.apk.1]] - [[BT-Connect.apk]] @ [[BLE-dat]]
 
 
 

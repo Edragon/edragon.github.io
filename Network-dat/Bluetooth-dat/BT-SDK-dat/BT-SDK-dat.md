@@ -6,6 +6,11 @@
 - [[CSR8635-dat]] - [[CSR-dat]] - [[BT-SDK-dat]]
 
 
+## debugs apps 
+
+- [[BLE蓝牙调试助手.apk.1]] - [[BT-Connect.apk]] @ [[BLE-dat]]
+
+
 
 ## Which BLE Example to Use for Sending ADC Voltage to Phone
 
