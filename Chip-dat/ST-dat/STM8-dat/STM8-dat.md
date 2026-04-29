@@ -20,8 +20,8 @@ https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.html
 
 
 - 1 UART1_CK/TIM2_CH1/BEEP/(HS) PD4 
-- 2 UART1_TX/AIN5/HS PD5
-- 3 UART1_RX/AIN6/HS PD6
+- 2 `UART1_TX`/AIN5/HS PD5
+- 3 `UART1_RX`/AIN6/HS PD6
 - 4 NRST
 - 5 OSCIN/PA1
 - 6 OSCOUT/PA2

@@ -24,7 +24,9 @@
 
 
 
+## tech 
 
+- [[I2C-isolator-dat]] - [[I2C-dat]] - [[PLC-dat]]
 
 
 ## ref 

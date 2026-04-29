@@ -4,24 +4,32 @@
 
 ## chips 
 
+
+- [[RTL9210-dat]] - [[disk-driver-dat]]
+
+The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very high-capacity NVMe drive inside it, ensure you are using a high-quality cable, as some SSDs can "drop out" if they don't get enough power from a weak USB port.
+
+
+- [[RTL8761-dat]] - [[BLE5-dat]] - [[bluetooth-dat]] - [[BLE-dat]]
+
 - [[RTL8723-dat]]
-
-- [[RTL8201-dat]]
-
-- [[RTL8192-dat]] - [[RTL8211-dat]] - [[RTL8305-dat]]
-
-- [[RTL8188-dat]] - [[RTL8189-dat]] - [[TL8189FQB2-DS.pdf]]
-
-- [[RTL8213-dat]]
 
 - [[RTL8367-dat]]
 
+- [[RTL8305-dat]]
 
-- RTL8152B - [[RPI-SBC-dat]] - friendly 
+- [[RTL8201-dat]]
 
-- [[RTL9210-dat]]
+- [[RTL8213-dat]]
 
-The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very high-capacity NVMe drive inside it, ensure you are using a high-quality cable, as some SSDs can "drop out" if they don't get enough power from a weak USB port.
+- [[RTL8211-dat]]  - [[ethernet-dat]]
+
+- [[RTL8192-dat]] 
+
+- [[RTL8188-dat]] - [[RTL8189-dat]] - [[TL8189FQB2-DS.pdf]] - [[wifi-dat]]
+
+- RTL8152B - [[RPI-SBC-dat]] - friendly - [[RTL8152-dat]] - [[wifi-dat]]
+
 
 ## Boards 
 

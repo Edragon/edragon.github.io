@@ -18,7 +18,6 @@
 
 - [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]] - [[EY-23A-dat]] - [[EY-34-dat]]
 
-![](2026-01-08-15-46-06.png)
 
 
 on board chip [[STM8-dat]] - [[MCU-dat]]
@@ -31,6 +30,11 @@ on board chip [[STM8-dat]] - [[MCU-dat]]
 
 ![](2026-01-08-15-51-43.png)
 
+serial communications 
+
+- 2 `UART1_TX`/AIN5/HS PD5
+- 3 `UART1_RX`/AIN6/HS PD6
+- module ATC == - 17 PC7 (HS)/SPI_MISO [TIM1_CH2]1 
 
 
 
