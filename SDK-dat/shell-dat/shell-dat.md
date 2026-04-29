@@ -1,6 +1,28 @@
 
 # shell-dat
 
+
+winget install GNU.Wget
+
+PS C:\Users\Administrator> winget search wget
+Name  Id                  Version Match     Source
+--------------------------------------------------
+Wget  JernejSimoncic.Wget 1.21.4            winget
+Wget2 GNU.Wget2           2.2.1   Tag: wget winget
+
+winget install JernejSimoncic.Wget
+
+
+## powershell 
+
+(Invoke-WebRequest -Uri "https://api.ipify.org").Content
+
+notepad $PROFILE
+
+    $env:HTTP_PROXY = "http://127.0.0.1:7897"
+    $env:HTTPS_PROXY = "http://127.0.0.1:7897"
+
+
 ## bash 
 
 nano ~/.bashrc

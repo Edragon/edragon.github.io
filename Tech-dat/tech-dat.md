@@ -3,6 +3,8 @@
 
 ## Main tech 
 
+- [[SDK-dat]]
+
 - [[board-dat]] - [[board-new-dat]]
 
 - [[app-dat]] - [[rc-apps-dat]]

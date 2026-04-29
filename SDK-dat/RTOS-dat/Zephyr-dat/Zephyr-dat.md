@@ -21,16 +21,19 @@ In your Windows bash terminal, from the firmware folder:
     cd /e/git-DL/HeadTracker/firmware
     python -m pip install --upgrade pip
     python -m pip install west
-    west init zephyr
+    west init zephyr // long time 
     cd zephyr/zephyr
     git checkout v3.7.1
+
     cd ..
-    west update --narrow
+    west update --narrow  // long time 
     west -z "$PWD" zephyr-export
     python -m pip install -r zephyr/scripts/requirements.txt
     west blobs fetch hal_espressif
 
+Then install Zephyr SDK 0.17.0 globally to a fixed path such as E:\zephyr-sdk-0.17.0 or E:\git-DL\HeadTracker\firmware\zephyr-sdk, and run:
 
+    E:\zephyr-sdk-0.17.0\setup.cmd -t arm-zephyr-eabi -t xtensa-espressif_esp32_zephyr-elf -t riscv64-zephyr-elf -h
 
 ## venv 
 
