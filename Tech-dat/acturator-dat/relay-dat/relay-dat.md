@@ -3,6 +3,9 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/Category:Relay
 
+controlling AC contactors, intermediate relays, and electromagnetic devices
+
+
 
 ## relay types 
 

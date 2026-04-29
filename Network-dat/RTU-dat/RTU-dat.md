@@ -1,6 +1,14 @@
 
 # RTU-dat
 
+
+
+
+- [[PLC-dat]] - [[modbus-dat]]  - [[RTU-dat]] 
+
+
+
+
 A **Remote Terminal Unit (RTU)** is a microprocessor-controlled electronic device that interfaces objects in the physical world to a distributed control system or SCADA (Supervisory Control and Data Acquisition) system by transmitting telemetry data to a master system, and by using messages from the master supervisory system to control connected objects.
 
 Key functions and characteristics of an RTU include:

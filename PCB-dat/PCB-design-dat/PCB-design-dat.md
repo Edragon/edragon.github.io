@@ -34,6 +34,7 @@
 
 - [[PCB-ground-dat]]
 
+- [[PCB-design-dat]] - [[power-dat]] 
 
 ## special  
 

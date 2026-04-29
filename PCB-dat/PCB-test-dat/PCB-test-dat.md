@@ -2,6 +2,14 @@
 # PCB-test-dat
 
 
+## test workflow 
+
+- 1. power test 
+- 2. function test 
+
+
+
+
 ## trace the problem 
 
 - [[CN3065-dat]] == battery not present or not well connected 

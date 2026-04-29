@@ -31,6 +31,11 @@
 
 - discharge == [[resistor-dat]]
 
+## over power protocols 
+
+- [[POE-dat]] - Power Over Ethernet (POE)
+- [[powerbus-dat]] - PowerBus - [[ITF1009-dat]]
+
 
 
 ## chip solutions 
