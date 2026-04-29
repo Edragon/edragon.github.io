@@ -23,7 +23,7 @@
 
 - [[WCH-dat]] - [[WCH-MCU-dat]] 
 
-- [[LGT-dat]] - [[LGT8F328-DAT]]
+- [[LGT-dat]] - [[LGT8F328-DAT]] - [[LGT-SDK-dat]]
 
 - [[RDA-dat]]
 
@@ -53,6 +53,7 @@
 
 - [[DJI-dat]] - [[xiaomi-dat]] - [[huawei-dat]]
 
+- [[AIT-dat]] - [[rf-star-dat]]
 
 ## ref 
 

@@ -84,7 +84,7 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 - [[Thermal-imaging-camera-dat]]
 
-- [[PLC-dat]] - [[motion-controller-dat]]
+- [[PLC-dat]] - [[motion-controller-dat]] - [[modbus-dat]] - [[RTU-dat]]
 
 - [[industrial-tablet-dat]] - [[industrial-monitor-dat]] - [[industrial-commputer-dat]]
 
@@ -106,6 +106,17 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 ## MCU based 
 
 - [[ESP32-app-dat]]
+
+
+
+
+
+
+## repo 
+
+https://github.com/Edragon/APP1
+
+https://github.com/Edragon/app-c
 
 
 ## ref 

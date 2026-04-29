@@ -170,6 +170,15 @@ slave connect to multiple master mode
 ## BLE 5 
 
 ![](2026-04-29-00-21-38.png)
+
+## repo 
+
+https://github.com/Edragon/BT-BK
+
+https://github.com/Edragon/BT-SDK
+
+https://github.com/Edragon/BT-audio
+
 ## ref 
 
 - [[bluetooth]]

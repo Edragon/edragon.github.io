@@ -36,7 +36,9 @@ A9G - https://github.com/pulkin/csdtk42-linux
 
 
 
+## repo 
 
+https://github.com/Edragon/ai-thinker
 
 ## ref 
 

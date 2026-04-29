@@ -33,13 +33,42 @@
 
 ## ToolChain 
 
-### Guide for IAR STM8 
+- [[SDCC-dat]] - [[IAR-dat]] - [[MDK-ARM-dat]] - [[SDK-dat]]
+
+- better == [[MDK-ARM-dat]]
+
+Guide for IAR STM8 
 
 * Download standard stm8 library via google search, on st website.
 * Install st toolset (STVD + programmer ). Current version we provided is [http://dl.electrodragon.com/k/index.php?share/folder&user=1&sid=JMyabvNR sttoolset_pack29] (pass electrodragon0428)
 * Alternative install ST-link driver
 
 
+
+## repo 
+
+https://github.com/btc520/STM8-APP
+
+https://github.com/Edragon/stm8
+
+https://github.com/Edragon/STM8_SDK
+
+https://github.com/Edragon/STM8_DOCS
+
+https://github.com/Edragon/STM8-Tools
+
+https://github.com/Edragon/STM8_IAR
+
+https://github.com/Edragon/STM8_STVD
+
+
+STM8L152
+
+https://github.com/Edragon/STM8L152
+
+https://github.com/Edragon/stm8l152_stvd
+
+https://github.com/Edragon/STM8L_151
 
 
 

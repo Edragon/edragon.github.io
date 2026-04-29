@@ -14,6 +14,8 @@ The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very 
 
 - [[RTL8723-dat]]
 
+- [[RTL8710-dat]]
+
 - [[RTL8367-dat]]
 
 - [[RTL8305-dat]]
@@ -51,6 +53,16 @@ Supported Chipsets
 - SDIO: RTL8723CS, RTL8723DS, RTL8821CS, RTL8822BS, RTL8822CS
 - USB : RTL8723DU, RTL8811AU, RTL8811CU, RTL8812AU, RTL8812BU, RTL8812CU
 - USB : RTL8814AU, RTL8821AU, RTL8821CU, RTL8822BU, RTL8822CU
+
+
+
+
+
+
+## repo 
+
+https://github.com/Edragon/RTL8710
+
 
 
 ## ref 

@@ -52,7 +52,9 @@ A PLC might:
 3. If it’s too high, activate a **cooling fan** using a relay output.
 
 
+## repo 
 
+https://github.com/Edragon/PLC-OPEN
 
 
 ## ref 

@@ -20,7 +20,7 @@
 
 
 
-on board chip [[STM8-dat]] - [[MCU-dat]]
+on board chip [[STM8-dat]] - [[MCU-dat]] - [[STM8-SDK-dat]]
 
 
 ### Board V2 
@@ -50,9 +50,9 @@ serial communications
 
 - [[NBL1064]] 
 
-- legacy wiki page 
+- [legacy wiki page ](https://www.electrodragon.com/w/BLK_IO)
 
 https://www.electrodragon.com/w/Category:Bluetooth_2.0#AT_Commands
 
-https://www.electrodragon.com/w/BLK_IO
 
+- [[rf-star-dat]]

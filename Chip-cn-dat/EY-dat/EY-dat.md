@@ -55,6 +55,9 @@ https://github.com/Edragon/BT-JDY-2 == [[EY-08-dat]] - [[EY-25M-dat]]
 
 https://github.com/Edragon/BT-JDY-1
 
+https://github.com/Edragon/BLE-EY-08
+
+
 
 ## ref 
 

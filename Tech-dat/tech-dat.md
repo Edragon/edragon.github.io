@@ -5,6 +5,8 @@
 
 - [[board-dat]] - [[board-new-dat]]
 
+- [[app-dat]] - [[rc-apps-dat]]
+
 - [[circuits-dat]]
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
@@ -19,7 +21,6 @@
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]]
 
 - [[mechanics-dat]] - [[materials-dat]]
 

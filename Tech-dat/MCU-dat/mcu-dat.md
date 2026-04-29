@@ -2,21 +2,23 @@
 # MCU-dat 
 
 
+- [[MCU-dat]] - [[SDK-dat]] - [[board-dat]]
+
 - [[peripherals-dat]] - [[serial-dat]] - [[dev-board-dat]]
 
 
 
 
-- [[STM32-dat]] - [[STM32-clone-dat]]
+- [[STM32-dat]] - [[STM32-clone-dat]] - [[STM32-SDK-dat]]
 
-- [[STM8-dat]]
+- [[STM8-dat]] - [[STM8-SDK-dat]]
 
 
 - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
 - [[PIC-dat]] - [[microchip-dat]] - [[microchip-MCU-dat]] 
 
-- [[WCH-MCU-dat]] - [[MCU-dat]]
+- [[WCH-MCU-dat]] - [[MCU-dat]] - [[CH55x-dat]]
 
 
 - [[8051-dat]]
@@ -38,6 +40,8 @@
 - [[NXP-dat]]
 
 - [[holtek-dat]] - [[holtek-MCU-dat]]
+
+
 
 
 ## other types 
@@ -111,8 +115,7 @@ s
 ATtiny 
 - [[SVC1039-dat]] - [[ILE1073-dat]]
 
-SAMD21 
-[[SDR1096-dat]]
+[[SAMD21-dat]] - [[SDR1096-dat]]
 
 - [[dev-board-dat]]: [[STM32-dat]] - [[RP2040-dat]] - [[ESP32-dat]] - [[nRF-dat]] - [[SAMD21-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[HC32F00X-dat]] - [[HDSC-SDK-dat]]
 

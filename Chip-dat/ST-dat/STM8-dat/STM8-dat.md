@@ -98,6 +98,10 @@ STM8S005K6CTR LQFP32
 STM8S003F3P6 TSSOP20
 
 
+
+
+
+
 ## ref 
 
 - [[MCU-dat]] - [[ST-dat]]

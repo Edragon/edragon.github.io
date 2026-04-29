@@ -224,7 +224,7 @@ A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often 
 
 - [[TI-network-dat]] - [[silicon-labs-dat]] - [[nordic-dat]]
 
-- [[realtek-dat]]
+- [[realtek-dat]] - [[dialog-dat]]
 
 ## ref 
 
