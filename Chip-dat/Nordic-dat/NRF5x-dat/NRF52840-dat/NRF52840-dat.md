@@ -72,6 +72,8 @@ These pins are organized into two separate "ports":
 
 ## Pin Definitions 
 
+- [[NRF5x-HDK-dat]]
+
 ![](2025-07-09-14-30-21.png)
 
 ## NRF52840 Pinout Table
@@ -106,10 +108,10 @@ These pins are organized into two separate "ports":
 | P0.25    | GPIO         |                |                    |
 | P0.26    | GPIO         |                |                    |
 | P0.27    | GPIO         |                |                    |
-| P0.28    | GPIO         | ADC            |                    |
-| P0.29    | GPIO         | ADC            |                    |
-| P0.30    | GPIO         | ADC            |                    |
-| P0.31    | GPIO         | ADC            |                    |
+| P0.28    | GPIO         | ADC AIN4       |                    |
+| P0.29    | GPIO         | ADC AIN5       |                    |
+| P0.30    | GPIO         | ADC AIN6       |                    |
+| P0.31    | GPIO         | ADC AIN7       |                    |
 | P1.00    | GPIO         |                |                    |
 | P1.01    | GPIO         |                |                    |
 | P1.02    | GPIO         |                |                    |
@@ -209,7 +211,14 @@ peripherals  - [[peripherals-dat]]
 
 ### SCH3 module 
 
+- [[ebyte-dat]]
+
 ![](2026-03-04-20-22-25.png)
+
+
+
+## datasheet 
+
 
 
 ## ref 
@@ -221,3 +230,5 @@ peripherals  - [[peripherals-dat]]
 - [[flash-dat]]
 
 - [[protection-dat]] - [[capacitor-dat]]
+
+- [[rf-star-dat]]

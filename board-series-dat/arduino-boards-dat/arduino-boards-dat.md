@@ -9,6 +9,8 @@ legacy wiki page - https://www.electrodragon.com/w/Category:Arduino
 
 ## boards 
 
+- [[arduino-nano33-dat]]
+
 - [[arduino-uno-dat]] - [[arduino-pro-mini-dat]] - [[arduino-nano-dat]] - [[arduino-leonardo-dat]]
 
 - [[arduino-mega-dat]]
@@ -39,28 +41,6 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 - arduino pro micro - [[3D-dat]] - https://grabcad.com/library/arduino-pro-micro-4
 
-
-
-
-
-## arduino nano BLE 33
-
-- arduino nano BLE 33 - nrf52840 + 9-axis IMU == LSM9DS1 9 Axis, Gyrometer, Accelerometer and Magnetometer - [[sensor-motion-dat]] - [[ 9-axis-IMU-dat]]
-- SCH - https://content.arduino.cc/assets/NANO33BLE_V4.0_sch.pdf
-- app - [[head-track-dat]]
-
-
-## Arduino Nano 33 BLE Sense Revision 2
-
-BMI270 6 axis, Gyrometer & Accelerometer
-
-BMM150 3 axis, Magnetometer
-
-2-4s Input Voltage (21V max)
-
-APDS 9960 Proximity sensor that can be used to reset zero
-
-This is a very nice Gyrometer chip, it's very stable in no-magnetometer mode.
 
 
 
