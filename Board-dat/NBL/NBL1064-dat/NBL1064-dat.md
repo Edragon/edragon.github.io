@@ -20,7 +20,7 @@
 
 
 
-on board chip [[STM8-dat]] - [[MCU-dat]] - [[STM8-SDK-dat]]
+on board chip [[STM8-dat]] - [[MCU-dat]] - demo code find at [[STM8-SDK-dat]]
 
 
 ### Board V2 

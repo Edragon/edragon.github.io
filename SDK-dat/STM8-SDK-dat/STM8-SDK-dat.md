@@ -2,7 +2,7 @@
 # STM8-SDK-dat
 
 
-- [[STM8-SDK-dat]] - [[STM32-SDK-dat]]
+- [[STM32-Cube-programmer-dat]] - [[STM32-SDK-dat]] - [[STM8-SDK-dat]] - [[ST-LINK-dat]] - [[SDK-dat]]
 
 
 - [[SWIM-dat]] - 18 PD1 (HS)/`SWIM` - [[SDK-dat]] - [[ST-dat]] - [[STM8-SDK-dat]]
@@ -44,6 +44,15 @@ Guide for IAR STM8
 * Alternative install ST-link driver
 
 
+
+## boards 
+
+- [[NBL1064-dat]]
+
+
+## apps and demo code 
+
+- [[serial-foward.c]] == [[NBL1064-dat]]
 
 ## repo 
 
