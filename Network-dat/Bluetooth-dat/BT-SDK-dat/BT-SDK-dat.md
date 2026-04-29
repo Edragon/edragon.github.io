@@ -1,6 +1,9 @@
 
 # BLE-SDK-dat
 
+
+
+
 - programmer - [[BT-SDK-dat]] - [[DPR1112-dat]] - [[qualcomm-dat]]
 
 - [[CSR8635-dat]] - [[CSR-dat]] - [[BT-SDK-dat]]
@@ -9,6 +12,56 @@
 ## debugs apps 
 
 - [[BLE蓝牙调试助手.apk.1]] - [[BT-Connect.apk]] @ [[BLE-dat]]
+
+
+## BLE Operations Guide == BT-connect
+
+all steps done by `BT-connect `
+
+### BLE Reading and Writing Bluetooth Data
+
+![](2025-07-30-16-45-05.png)
+
+
+
+#### Connection Process
+
+1. **Auto Connection:** Click on the Bluetooth device name to automatically connect
+
+2. **Custom Characteristic Access:**
+   - Click on "Custom Characteristic"
+   - Click the **Read** button to read user-defined values
+   - After writing data, read it back to verify the written values
+
+#### Usage Steps
+
+1. Connect to the BLE device by tapping its name
+2. Navigate to "Custom Characteristic" section
+3. Use **Read** function to retrieve custom values
+4. Use **Write** function to send data
+5. **Verify** by reading back the written values BLE Tool
+
+select UUID `FFE1` == data transceiver 
+
+![](2026-04-29-13-02-48.png)
+
+![](2026-04-29-13-03-17.png)
+
+select UUID `FFE2` == IO Control 
+
+![](2026-04-29-13-03-40.png)
+
+
+### SPP 
+
+SPP send and receive 
+
+![](2026-04-29-13-04-12.png)
+
+
+
+
+
 
 
 

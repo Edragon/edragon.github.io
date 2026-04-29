@@ -16,7 +16,7 @@
 
 
 
-- [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]] - [[EY-23A-dat]] - [[EY-34-dat]]
+- [[BT-dual-mode-dat]] - [[bluetooth-dat]] - [[BT-SPP-dat]] - [[EY-23A-dat]] - [[EY-34-dat]] - [[BT-SDK-dat]]
 
 
 
