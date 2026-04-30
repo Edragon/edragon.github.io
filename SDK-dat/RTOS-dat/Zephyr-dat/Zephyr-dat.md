@@ -4,6 +4,64 @@
 
 - [[git-dat]] - [[bash-dat]] - [[shell-dat]]
 
+## final build 
+
+![](2026-04-30-03-11-05.png)
+
+![](2026-04-30-12-30-02.png)
+
+    -- Including generated dts.cmake file: E:/git-DL/HeadTracker/firmware/src/build/
+    zephyr/dts.cmake
+    Parsing E:/git-DL/HeadTracker/firmware/src/Kconfig
+    Loaded configuration 'E:/git-DL/HeadTracker/firmware/src/zephyr/boards/arm/dtqsy
+    s_ht/dtqsys_ht_defconfig'
+    Merged configuration 'E:/git-DL/HeadTracker/firmware/src/zephyr/nrf_prj.conf'
+    Merged configuration 'E:/git-DL/HeadTracker/firmware/src/build/zephyr/misc/gener
+    ated/extra_kconfig_options.conf'
+    Configuration saved to 'E:/git-DL/HeadTracker/firmware/src/build/zephyr/.config'
+    Kconfig header saved to 'E:/git-DL/HeadTracker/firmware/src/build/zephyr/include
+    /generated/zephyr/autoconf.h'
+    -- Found GnuLd: e:/zephyr-sdk-0.17.0/arm-zephyr-eabi/arm-zephyr-eabi/bin/ld.bfd.
+    exe (found version "2.38")
+    -- The C compiler identification is GNU 12.2.0
+    -- The CXX compiler identification is GNU 12.2.0
+    -- The ASM compiler identification is GNU
+    -- Found assembler: E:/zephyr-sdk-0.17.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc
+    .exe
+    CMake Warning at E:/git-DL/HeadTracker/firmware/zephyr/zephyr/CMakeLists.txt:915
+    (message):
+    No SOURCES given to Zephyr library:
+    ..__..__src__zephyr__boards__arm__dtqsys_ht
+
+    Excluding target from build.
+
+
+    -- Configuring done (128.1s)
+    -- Generating done (2.3s)
+    -- Build files have been written to: E:/git-DL/HeadTracker/firmware/src/build
+    -- west build: building application
+    [1/324] Generating include/generated/zephyr/version.h
+    -- Zephyr version: 3.7.1 (E:/git-DL/HeadTracker/firmware/zephyr/zephyr), build:
+    v3.7.1
+    [324/324] Linking CXX executable zephyr\dtqsys_ht-2_50pre-f9ac01b.elf
+    Memory region         Used Size  Region Size  %age Used
+            FLASH:      322144 B       944 KB     33.33%
+                RAM:       68704 B       256 KB     26.21%
+            IDT_LIST:          0 GB        32 KB      0.00%
+    Generating files from E:/git-DL/HeadTracker/firmware/src/build/zephyr/dtqsys_ht-
+    2_50pre-f9ac01b.elf for board: dtqsys_ht
+
+The warning about the DTQSYS board library having no sources is not fatal here; Zephyr continued, linked successfully, and generated the board output. The earlier missing Ninja issue is resolved.
+
+## DTQSYS 
+
+Your custom board directory (dtqsys_ht) likely contains a CMakeLists.txt file that calls zephyr_library(), but you haven't actually listed any .c or .cpp source files inside that specific folder (or the zephyr_library_sources() call is missing files).
+
+Should you worry?
+
+- **If your board works**: Probably not. Zephyr is just letting you know that the "library" it created for your board is empty and will be ignored.
+- **If you intended to have board-specific code**: Check your boards/arm/dtqsys_ht/CMakeLists.txt and ensure your source files are correctly linked.
+
 
 ## install 
 
@@ -77,3 +135,10 @@ After that, build from the app directory:
           cd /src/firmware/src
           west build -p -b dtqsys_ht
           cp ./build/zephyr/*.bin build_bins/
+
+
+## build 
+
+    export ZEPHYR_BASE=/e/git-DL/HeadTracker/firmware/zephyr/zephyr
+    cd /e/git-DL/HeadTracker/firmware/src
+    west build -p -b dtqsys_ht
