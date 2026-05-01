@@ -15,7 +15,7 @@
 
 - [[CONN-USB-B-dat]]
 
-- [[CONN-USB-type-C-dat]]
+- [[CONN-USB-type-C-dat]] - [[USB-SDK-type-c-dat]] - [[type-C-HDK-dat]]
 
 - [[CONN-USB-micro-dat]]
 

@@ -28,12 +28,11 @@
 
 - [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-dat]] - [[SH1.0-dat]] - [[1.25-dat]] - [[ZH1.5-dat]] - [[XH2.0-dat]]
 
-- [[CONN-Plug-dat]]
+- [[CONN-Plug-dat]] 
 
 - [[conn-audio-dat]] - [[conn-video-dat]]
 
 - [[CONN-BTB-dat]] - [[12P-BTB-dat]] - board to board [[BTB-dat]]
-
 
 
 
@@ -74,6 +73,8 @@
 
 
 ### power connector [[CONN-cable-JST-dat]]
+
+- [[CONN-power-dat]] - [[CONN-DC-barrel-jack-dat]]
 
 - [[XT30-dat]] - [[XT60-dat]] - [[PH2.0-dat]] - T-插 - [[JST-dat]]
 

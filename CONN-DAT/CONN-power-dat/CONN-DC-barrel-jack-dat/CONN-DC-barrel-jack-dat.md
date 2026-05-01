@@ -104,6 +104,15 @@ Positive negative and extra earth pin in center (white)
 
 ![](2026-02-06-16-47-17.png)
 
+
+
+## male-to-female female-to-male converter 
+
+![](2026-04-30-19-17-41.png)
+
+![](2026-04-30-19-17-51.png)
+
+
 ## ref 
 
 - [[power-jack]]
