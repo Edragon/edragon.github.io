@@ -1,5 +1,5 @@
 
-# qc-dat.md
+# fab-qc-dat.md
 
 
 ## QC issues log 
@@ -28,4 +28,4 @@
 
 ## ref 
 
-- [[qc]]
+- [[fab-qc]]

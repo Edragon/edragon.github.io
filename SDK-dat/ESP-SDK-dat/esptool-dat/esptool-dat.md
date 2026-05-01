@@ -19,7 +19,40 @@ or python2 == pip install esptool
 
 ## arduino demo to esptool batch flashing 
 
-get the raw command like [[NWI1254-dat]] 
+
+rename the port if necessary 
+
+![](2026-05-01-13-19-52.png)
+
+flash log 
+
+    esptool v5.1.0
+    Connected to ESP32-C3 on COM22:
+    Chip type:          ESP32-C3 (QFN32) (revision v0.4)
+    Features:           Wi-Fi, BT 5 (LE), Single Core, 160MHz
+    Crystal frequency:  40MHz
+    USB mode:           USB-Serial/JTAG
+    MAC:                ac:a7:04:96:20:bc
+
+    Stub flasher running.
+    Changing baud rate to 921600...
+    Changed.
+
+    Configuring flash size...
+    Flash memory erased successfully in 0.3 seconds.
+    Wrote 19632 bytes (12675 compressed) at `0x00000000` in 0.1 seconds (1333.8 kbit/s).
+    Hash of data verified.
+    Wrote 3072 bytes (146 compressed) at `0x00008000` in 0.0 seconds (2366.6 kbit/s).
+    Hash of data verified.
+    Wrote 8192 bytes (47 compressed) at `0x0000e000` in 0.0 seconds (3532.2 kbit/s).
+    Hash of data verified.
+    Wrote 319120 bytes (175223 compressed) at `0x00010000` in 1.0 seconds (2484.4 kbit/s).
+    Hash of data verified.
+
+    Hard resetting via RTS pin...
+
+
+get the raw command like [[NWI1254-dat]], do it again in cmd.exe 
 
     "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bootloader.bin" 0x8000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "C:\Users\Administrator\AppData\Local\arduino\sketches\1AE3EC11A265D1FC6F8FC3626AA4D338/basic-3.ino.bin" 
 
