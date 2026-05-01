@@ -16,20 +16,19 @@
 
 ## boards 
 
-- [[NGS1063-dat]]
 
-- [[NGS1100-dat]] - [[NGS1101-dat]] - [[NGS1102-dat]] - [[NGS1103-dat]] 
+- [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]] - [[L86-dat]] - [[L76-dat]] - [[ED20-dat]] - [[BC20-dat]] - [[NGS1100-dat]] - [[NGS1101-dat]] - [[NGS1102-dat]] - [[NGS1103-dat]] 
 
-
-## companies 
+- [[ATGM336H-dat]]
 
 - [[u-blox-dat]] - [[NEO-7-dat]] - [[NEO-6-dat]]
 
-- [[quectel-dat]] - [[quectel-gps-dat]] - [[quectel-GNSS-AT-dat]] - [[L86-dat]] - [[L76-dat]] - [[ED20-dat]] - [[EC20-dat]] - [[BC20-dat]]
+### composite function board 
 
-- [[simcom-dat]] - [[A7670-dat]] - [[SIM7080-dat]] - [[SIM7000-dat]] - [[SIM868-dat]] - [[SIM808-dat]]
 
-- [[ATGM336H-dat]]
+- [[simcom-dat]] - [[A7670-dat]] - [[SIM7080-dat]] - [[SIM7000-dat]] - [[SIM868-dat]] - [[SIM808-dat]] - [[SIM7600-dat]]
+
+- [[NGS1063-dat]] - [[EC20-dat]] 
 
 
 

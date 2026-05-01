@@ -26,28 +26,28 @@
 
 Pins table
 
-| arduino | pin | Funcs | Funcs2         | customize |
-| ------- | --- | ----- | -------------- | --------- |
-| D13     | 17  | PB5   | SPI_SCK/PCINT5 |           |
-| D12     | 16  | PB4   | SPI_MISO       |           |
-| D11     | 15  | PB3   | SPI_MOSI/PWM   |           |
-| D10     | 14  | PB2   |                |           |
-| D9      | 13  | PB1   | PWM            |           |
-| D8      | 12  | PB0   |                |           |
-| D7      | 11  | PD7   |                |           |
-| D6      | 10  | PD6   | PWM            |           |
-| D5      | 9   | PD5   | PWM            |           |
-| D4      | 2   | PD4   |                |           |
-| D3      | 1   | PD3   | PWM            |           |
-| D2      | 32  | PD2   | irq            |           |
-| D1      | 31  | PD1   | TX             |           |
-| D0      | 30  | PD0   | RX             |           |
-| A5      |     | PC5   | SCL            |           |
-| A4      |     | PC4   | SDA            |           |
-| A3      |     | PC3   |                |           |
-| A2      |     | PC2   |                |           |
-| A1      |     | PC1   |                |           |
-| A0      |     | PC0   |                |           |
+| pin | pin name | arduino | Funcs2         | customize |
+| --- | -------- | ------- | -------------- | --------- |
+| 17  | PB5      | D13     | SPI_SCK/PCINT5 |           |
+| 16  | PB4      | D12     | SPI_MISO       |           |
+| 15  | PB3      | D11     | SPI_MOSI/PWM   |           |
+| 14  | PB2      | D10     |                |           |
+| 13  | PB1      | D9      | PWM            |           |
+| 12  | PB0      | D8      |                |           |
+| 11  | PD7      | D7      |                |           |
+| 10  | PD6      | D6      | PWM            |           |
+| 9   | PD5      | D5      | PWM            |           |
+| 2   | PD4      | D4      |                |           |
+| 1   | PD3      | D3      | PWM            |           |
+| 32  | PD2      | D2      | irq            |           |
+| 31  | PD1      | D1      | TX             |           |
+| 30  | PD0      | D0      | RX             |           |
+|     | PC5      | A5      | SCL            |           |
+|     | PC4      | A4      | SDA            |           |
+|     | PC3      | A3      |                |           |
+|     | PC2      | A2      |                |           |
+|     | PC1      | A1      |                |           |
+|     | PC0      | A0      |                |           |
 
 
 

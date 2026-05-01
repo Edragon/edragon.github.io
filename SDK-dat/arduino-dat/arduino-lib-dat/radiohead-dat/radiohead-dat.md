@@ -3,16 +3,31 @@
 
 https://github.com/epsilonrt/RadioHead
 
+
+
+
     RH_RF95 rf95 (27, 6); // CS and DIO0 
 
-    // CE 16 CS 15
+
+
+
+## nrf24_client 
+
+
+// CE 16 CS 15
+
     RH_NRF24 nrf24(16, 15);
 
-    // DVA1002
+// DVA1002 (CE, CS)
+
     RH_NRF24 nrf24(7, 10);
 
+// DVA1014 
 
-nrf24_client 
+    RH_NRF24 nrf24(9, 7);
+
+
+output 
 
     init OK
 

@@ -4,6 +4,14 @@
 
 [NRF24 Mini SMD Wireless Module (NRF24L01 Compatible)](https://www.electrodragon.com/product/nrf24-mini-smd-wireless-module-nrf24l01-compatible/)
 
+
+
+## board 
+
+- [[DVA1014-dat]] - [[DVA1018-dat]]
+
+
+
 ## Pin Info 
 
 ![](2025-05-04-17-49-39.png)

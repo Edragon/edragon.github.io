@@ -18,8 +18,11 @@ product url -
 
 - [[LDO-dat]]
 
+- [[NWL1010-dat]]
 
-![](2026-02-07-17-55-41.png)
+board V2 
+
+![](2026-05-01-19-24-37.png)
 
 pin definitions 
 
@@ -35,7 +38,9 @@ pin definitions
 
 on board LED == D3 
 
-programmer pin G / V / R / C / D == GND / VIN / RST / SWC / SWD
+on board ADC VOL monitor == A1 
+
+programmer pin == G / V / R / C / D == GND / VIN / RST / SWC / SWD
 
 | arduino     | pin | LGT8F328-SSOP20 | function     | slave  |
 | ----------- | --- | --------------- | ------------ | ------ |

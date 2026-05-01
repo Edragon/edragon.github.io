@@ -144,8 +144,51 @@ for [[DVA1009-dat]]
 firmware - SSOP20 - C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8ps20\optiboot_lgt8f328ps20.hex
 
 
+![](2026-05-01-18-09-09.png)
+
+
+#### pin map 
+
+Interfaces
+
+- [x] UART0: ~~RX = D0 = PD0, TX = D1 = PD1~~
+- [] SPI: SS = D9 = PB1 on SSOP20, MOSI = D11 = PB3, MISO = D12 = PB4, SCK = D13 = PB5
+- [] I2C / Wire: SDA = D18 = PC4 = A4, SCL = D19 = PC5 = A5
+- [] External interrupts: INT0 = D2 = PD2, INT1 = D3 = PD3 
+- [] PWM pins: D3, D5, D6, D9, D10, D11 
+- [] Built-in LED: D13 = PB5 
+
+The key definitions are in lgtx8p.h:615, where:
+
+  RXD5 is bit 0
+  TXD6 is bit 1
+  PMXCR is the port-mux control register
+
+Then the SSOP20 startup path in main.cpp:93 does:
+
+  GPIOR0 = PMXCR | 0x07;
+  PMXCR = 0x80;
+  PMXCR = GPIOR0;
+
+0x07 sets:
+
+  bit 0 = RXD5
+  bit 1 = TXD6
+  bit 2 = SSB1
+
+So for this board, after startup:
+
+  UART0 RX is on PD5 = Arduino D5
+  UART0 TX is on PD6 = Arduino D6
+
+
 
 ### nullab board 
+
+- problem laoding in arduino IDE V2 
+
+https://github.com/nulllaborg/arduino_nulllab
+
 
 Nulllab_AVR_Compatible_Boards by nullab.org
 
@@ -167,6 +210,7 @@ compatible boards:avr@2.0.0: testing local archive integrity: testing archiveche
 ### old 1
 
 https://github.com/LGTMCU/Larduino_HSP
+
 Installation:
 
 - Unzip master.zip
