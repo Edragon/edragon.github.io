@@ -9,7 +9,7 @@
     - RAM：400KB
     - QFN32_5x5
 
-
+- [[ESP32-C3-wroom-02-dat]] - [[ESP32-C3-USB-dat]] - [[ESP32-SDK-dat]] - [[ESP32-C3-mini-1-dat]]
 
 ## tech 
 
@@ -139,7 +139,7 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 
 ## Hardware 
 
-- [[ESP32-C3-usb-dat]] - [[ESP32-C3-low-power-dat]]
+- [[ESP32-C3-USB-dat/ESP32-USB-dat]] - [[ESP32-C3-low-power-dat]]
 
 - notice [[DPR1039-dat]] more stable than common PL2303HX 
 

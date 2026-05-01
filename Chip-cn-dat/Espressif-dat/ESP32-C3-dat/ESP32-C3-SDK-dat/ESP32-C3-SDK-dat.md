@@ -8,7 +8,7 @@
 
 - [[rainmaker-dat]] 
 
-- [[bluetooth-dat]] - [[wifi-dat]] - [[zigbee-dat]] - [[USB-dat]] - [[ESP32-C3-USB-dat]]
+- [[bluetooth-dat]] - [[wifi-dat]] - [[zigbee-dat]] - [[USB-dat]] - [[ESP32-C3-USB-dat/ESP32-USB-dat]]
 
 - [[arduino-dat]] - [[serial-dat]]
 

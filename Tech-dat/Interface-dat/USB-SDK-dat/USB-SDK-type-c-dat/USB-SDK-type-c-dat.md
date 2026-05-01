@@ -39,7 +39,9 @@
 
 - [[type-c-to-ethernet-dat]]
 
+## chips / boards / modules 
 
+- [[ESP32-C3-dat]]
 
 ## debug info 
 

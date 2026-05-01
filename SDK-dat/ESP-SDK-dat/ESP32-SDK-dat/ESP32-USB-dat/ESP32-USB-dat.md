@@ -1,9 +1,18 @@
 
-# ESP32-C3-USB-dat
+# ESP32-USB-dat
 
-- [[USB-dat]]
+- [[ESP32-SDK-dat]] - [[ESP32-USB-dat]]
 
-https://stackoverflow.com/questions/77141547/serial-monitoring-esp32c3
+- [[conn-USB-dat]]
+
+
+- [[ESP32-USB-dat]] come up with three sub functions - [[Jtag-dat]] - [[serial-dat]] - [[USB-CDC-dat]]
+
+## boot flow V1 
+
+
+
+## debug 
 
 After a long debugging session with an ESP32-C3 Supermini, I have the following additional suggestions / information:
 
@@ -15,6 +24,7 @@ After a long debugging session with an ESP32-C3 Supermini, I have the following 
 - Serial.setTxTimeoutMs(0) may help if no serial monitor is active. See: https://github.com/espressif/arduino-esp32/pull/7583 . This can be used only if USB CDC On Boot is enabled.
 - Using Serial.flush may cause the application to hang. See: https://github.com/espressif/arduino-esp32/issues/9172
 
+https://stackoverflow.com/questions/77141547/serial-monitoring-esp32c3
 
 
 ## USB 
@@ -36,3 +46,9 @@ The USB on the ESP32-C3 uses the GPIO19 for D+ and GPIO18 for D-. The ESP32-C3 s
 The ESP32-C3 supports only USB CDC and JTAG.
 
 If you are flashing for the first time, you need to get the ESP32-C3 into the download mode manually. To do so, press and hold the BOOT button and then press the RESET button once. After that release the BOOT button.
+
+
+
+
+## ref 
+

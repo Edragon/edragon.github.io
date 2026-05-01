@@ -71,7 +71,7 @@
 
 ![](2024-05-07-16-19-57.png)
 
-- [[ESP32-C3-USB-dat]] - [[USB-STM32-dat]]
+- [[ESP32-C3-USB-dat/ESP32-USB-dat]] - [[USB-STM32-dat]]
 
 
 ## Schematic
