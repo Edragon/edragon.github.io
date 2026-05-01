@@ -15,9 +15,9 @@
 
 - [[RISC-V-dat]] - [[zigbee-dat]] - [[wifi-dat]]
 
-- [[USB-dat]] - [[USB-CDC-dat]] 
+- [[conn-USB-dat]] - [[ESP32-USB-dat]] - [[USB-CDC-dat]] - [[jtag-dat]] - [[USB-SDK-dat]]
 
-- [[jtag-dat]]
+
 
 
 
@@ -27,6 +27,14 @@
 - ESP32-C3FH4 QFN-32 
 
 - [[ESP32-­C3-­WROOM-­02-DAT]]
+
+
+## boards 
+
+- [[NWI1245-dat]] - [[NWI1254-dat]]
+
+- [[NWI1119-dat]] - [[NWI1126-dat]]
+
 
 
 ## IPEX Antenna Version 
