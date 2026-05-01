@@ -87,6 +87,7 @@ main controller part SCH
 
 note the [[RS232-dat]] interface should be twisted, wire as TX-RX and RX-TX
 
+[test demo ](https://t.me/electrodragon3/450)
 
 ## default flash data 
 
@@ -108,6 +109,8 @@ note the [[RS232-dat]] interface should be twisted, wire as TX-RX and RX-TX
 ## apps 
 
 - [[PLC-dat]] - [[modbus-dat]]  - [[RTU-dat]] 
+
+
 
 
 ## ref 

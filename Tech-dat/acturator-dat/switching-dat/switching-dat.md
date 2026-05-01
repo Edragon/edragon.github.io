@@ -97,6 +97,9 @@ ADG436 - Dual SPDT Switch
 
 `TMUX1111`, TMUX1112, TMUX1113 - TMUX111x 5V, Low-Leakage-Current, 1:1 (SPST), 4-Channel Precision Switches
 
+`TMUX1112PWR`  - 3-pA on-state leakage current, 5-V, 1:1 (SPST), 4-channel precision switch (4 active high) | PW | 16 | -40 to 125
+
+
 ## ref 
 
 - [[tech-dat]] 
