@@ -2,7 +2,7 @@
 # power-energy-harvest-dat
 
 
-- [[power-energy-harvest-dat]] - [[bq25570-dat]]
+- [[power-energy-harvest-dat]] - [[bq25570-dat]] - [[bq25505]] - [[ti-power-dat]]
 
 
 适用于能量收集器应用且带电池管理和自主电源复用器的 bq25505 超低功耗升压 充电器
