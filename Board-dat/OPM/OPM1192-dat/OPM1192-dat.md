@@ -7,7 +7,9 @@
 
 default output 3.3V, customized 5V 
 
-![](34-30-16-15-08-2023.png)
+
+![](2026-05-03-17-56-14.png)
+
 
 Pin Definitions: 
 - Top left: Input ground 
