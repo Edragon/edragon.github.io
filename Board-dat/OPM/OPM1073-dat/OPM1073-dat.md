@@ -18,6 +18,12 @@ SCH
 
 ![](2026-05-03-18-29-44.png)
 
+- 1x 5R == 1A 
+- 2x parallel 5R == 2A 
+- 4x parallel 5R == 4A (not supported by this module, but can be DIY)
+
+
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video
