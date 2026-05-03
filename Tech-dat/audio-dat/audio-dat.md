@@ -23,7 +23,14 @@
 
 
 
+
 ## chip 
+
+
+- [[ES9023-dat]] - [[ESS-technology-dat]] - [[DAC-dat]] - [[audio-dat]]
+
+- [[everest-semi-dat]] - [[ES8311-dat]] - [[ES7201-dat]]
+
 
 
 - [[TDA-dat]] - [[TI-audio-dat]] - [[VLSI-dat]] - [[cirrus-dat]] - [[ISD-dat]]

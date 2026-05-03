@@ -26,6 +26,24 @@ The L293D is a 16-pin motor driver IC, also known as a quad half-H driver, capab
 | **Protection**              | Needs external diodes | Protected against back EMF         |
 
 
+
+
+## SCH 2 
+
+- [[SDR1011-dat]] - [[L293-dat]]
+
+![](2026-05-03-16-13-15.png)
+
+drive pin 
+
+- 1-2EN == 
+- 3-4EN == 
+- 1A == 
+- 3A == 
+
+drive chip == [[74xx-dat]] - [[74HC06-dat]]
+
+
 ## Simple Schematic 
 
 ![](2025-06-15-12-57-58.png)

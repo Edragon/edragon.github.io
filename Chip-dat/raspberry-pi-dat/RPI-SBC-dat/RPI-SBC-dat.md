@@ -21,7 +21,7 @@
 
 ## hardware 
 
-- [[raspberry-pi-dat]]
+- [[raspberry-pi-dat]] - [[interface-dat]] - [[serial-dat]]
 
 - [[3D-dat]]
 

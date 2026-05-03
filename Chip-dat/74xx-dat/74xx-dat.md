@@ -63,11 +63,13 @@ The device inputs are compatible with Standard CMOS outputs; with pullup resisto
 - [[74xx04-dat]] == Hex Inverter
 
 
-## 74xx06
+## 74xx06 == inverter 
+
+- [[SDR1011-dat]] - [[L293-dat]]
 
 SN54LS06, SN74LS06
 
-SNx4LS06 Hex Inverter Buffers and Drivers With Open-Collector High-Voltage Outputs
+SNx4LS06 Hex `Inverter` Buffers and Drivers With Open-Collector High-Voltage Outputs
 
 The SNx4LS06 devices feature high-voltage, opencollector outputs to interface with high-level circuits (such as MOS), or for driving high-current loads, and also are characterized for use as inverter buffers for driving TTL inputs. The SNx4LS06 devices have a rated output voltage of 30 V.
 

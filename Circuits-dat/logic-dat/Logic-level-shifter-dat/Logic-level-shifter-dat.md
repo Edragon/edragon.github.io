@@ -58,6 +58,12 @@ Make sure the VCCA ≤VCCB.
 
 ## logic level shifter for UART 
 
+simple passive solutions 
+
+![](2026-05-03-16-08-41.png)
+
+via chip 
+
 ![](2025-07-10-18-34-29.png)
 
 - Diode + pull-up resistor on RXD 
