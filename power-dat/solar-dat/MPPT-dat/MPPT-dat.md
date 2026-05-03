@@ -7,6 +7,12 @@
 
 - [[CN3306-dat]] - [[CN3722-dat]]
 
+
+## chip 
+
+SPV1050TTR
+
+
 ## 1. MPPT: Maximum Power Point Tracking
 
 **Definition:**  
@@ -57,6 +63,10 @@ The MPPT pin can also be used to automatically adjust the charging current to su
 当太阳能板作为输入电源时，CN3306采用恒电压法跟踪太阳能板的最大功率点。在太阳能板的伏安特性曲线中，当环境温度一定时，在不同的日照强度下，输出最大功率点所对应的输出电压基本相同，亦即只要保持太阳能板的输出端电压为恒定电压，就可以保证在该温度下光照强度不同时，太阳能板输出最大功率。
 
 CN3306太阳能板最大功率点跟踪端MPPT管脚的电压被调制在1.205V(典型值)，配合片外的两个电阻(图1中的R5和R6)构成的分压网络，调制输入电压，实现对太阳能板最大功率点进行跟踪。
+
+
+
+
 
 
 

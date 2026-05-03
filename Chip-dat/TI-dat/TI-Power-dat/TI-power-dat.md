@@ -4,7 +4,7 @@
 
 - [[ti-power-dcdc-boost-dat]] - [[TI-power-dcdc-down-dat]]
 
-
+- [[power-energy-harvest-dat]] - [[bq25570-dat]] - [[bq25505]] - [[ti-power-dat]]
 
 
 ## battery charger 

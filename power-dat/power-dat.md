@@ -45,7 +45,7 @@
 
 - [[power-dat]] - [[24V-dat]] - [[12V-dat]]
 
-
+- [[power-energy-harvest-dat]]
 
 
 ## Info 

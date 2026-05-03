@@ -25,6 +25,12 @@
 - [[DVA1018-dat]]
 
 
+## chip 
+
+- PAM8904EGPR
+
+
+
 
 
 ## ref 
