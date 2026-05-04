@@ -1,6 +1,18 @@
 
 # TPLINK-dat
 
+
+
+## TPLINK router 
+
+http://tplogin.cn/
+
+http://192.168.1.1/
+
+
+
+## TPLINK camera 
+
 - [[stepper-dat]] 
 
 [dissembled TP LINK security camera post ](https://www.electrodragon.com/teardown-a-tplink-security-camera-after-oil-soaking/)

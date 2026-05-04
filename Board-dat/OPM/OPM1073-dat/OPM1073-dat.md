@@ -1,7 +1,43 @@
 
 # OPM1073-dat
 
-**Product Features:**
+
+
+
+## Info
+
+[product url - USB Load Resistor for testing, 2A/1A Constant Discharge](https://www.electrodragon.com/product/usb-load-resistor-for-testing-2a1a-constant-discharge/)
+
+
+
+### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
+
+- [[resistor-dat]] - [[OPM1073-dat]] - [[resistor-load-dat]]
+
+SCH 
+
+![](2026-05-03-18-29-44.png)
+
+- 1x 5R == 1A 
+- 2x parallel 5R == 2A 
+- 4x parallel 5R == 4A (not supported by this module, but can be DIY)
+
+
+
+## Applications, category, tags, etc. 
+
+## Demo Code and Video
+
+## ref 
+
+- [[OPM1073]] 
+
+- legacy wiki page 
+
+
+
+
+## Product Features:
 
 1. **Toggle Switch and Dual-Color Indicator Light**: Allows direct switching between 1A and 2A discharge currents. When switched to 1A, the green light is on. When switched to 2A, the red light is on.
 
