@@ -15,6 +15,7 @@
 
 - [[metal-dat]]
 
+- [[magnetic-dat]]
 
 ## ref 
 
