@@ -38,6 +38,11 @@ Also can be used to driver servo, set to 3A 5V max.
 - for 12V, R2 = 0.6/(12-0.6) * R1 = 5.26K
 
 
+
+## demo test 
+
+- [[resistor-load-dat]]
+
 ## ref
 
 - [[dcdc-dat]] - [[dcdc-down-dat]]

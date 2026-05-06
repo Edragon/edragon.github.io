@@ -6,11 +6,18 @@
 
 == dummy load 
 
+
+
+
+## load RX21-10W 5RJ
+
 RX21-10W 5RJ == 5R 
 
 ![](2026-05-03-18-32-20.png)
 
 The **RX21-10W 5RJ** is a high-power wirewound resistor commonly used in industrial circuits, power supplies, and motor control projects where heat dissipation is required.
+
+
 
 ### 1. Breakdown of Part Number
 
@@ -44,4 +51,16 @@ These resistors consist of a resistive wire (often Nichrome) wound around a cera
     * Dummy loads for testing power supplies.
 
 
+
+
+## demo test 
+
+- load 0.33R*3 = 1R // output 5V 2.77A // test board [[OPM1192-dat]]
+
+![](2026-05-06-20-19-44.png)
+
 ## ref 
+
+
+
+

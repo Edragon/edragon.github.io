@@ -66,7 +66,7 @@ programmer pin == G / V / R / C / D == GND / VIN / RST / SWC / SWD
 | A4          | 19  | PC4             | SCL          |        |
 | A5          | 20  | PC5             | SDA          |        |
 
-
+Please note all pins pitch are 2.0mm.
 
 
 ## Applications, category, tags, etc. 
