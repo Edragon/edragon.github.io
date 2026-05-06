@@ -1,6 +1,8 @@
 
 # ES8311-dat
 
+- [[adc-dat]] - [[dac-dat]] - [[record-dat]] - [[playback-dat]] - [[everest-semi-dat]]
+
 ## ES8311 
 
 refer use guide in [[I2S-SDK-dat]]
@@ -38,13 +40,13 @@ http://www.everest-semi.com/pdf/ES8311%20PB.pdf
 
 The ES8311 is a low-power mono audio codec with fully differential output and headphone amplifier, as well as analog inputs that are programmable in fully differential configurations.
 
-The record path of the ES8311 contains one fully differential input, analog digitally controlled mono microphone preamplifier,and automatic gain control (ALC). Programmable filters are available during record which can remove audible noise.
+The record path of the ES8311 contains `one fully differential input`, analog digitally controlled mono microphone `preamplifier`,and automatic gain control (`ALC`). Programmable filters are available during record which can remove audible noise.
 
-The playback path includes a mono DAC, through programmable volume controls, to the fully differential output. The fully differential output of ES8311 has a capability to drive 16Ω or 32Ω headphone load.
+The `playback` path includes a mono DAC, through programmable volume controls, to the fully differential output. The fully differential output of ES8311 has a capability to drive 16Ω or 32Ω headphone load.
 
 ES8311 is optimized for voice playback/record, so that it is very suitable for surveillance and voice application, such as car DV, IPCAMERNA, DVR, NVR, Baby monitor, intelligent toy, intelligent Robert, etc.
 
-ADC RECORD FUNCTIONS
+ADC `RECORD` FUNCTIONS
 
 3. 100dB SNR, -88dB THD+N
 4. Differential analog input
@@ -54,7 +56,7 @@ ADC RECORD FUNCTIONS
 8.  Supports analog and digital microphone interface
 
 
-DAC PLAYBACK FUNCTIONS
+DAC `PLAYBACK` FUNCTIONS
 
 9. 110dB SNR, -85dB THD+N
 10. Dynamic Range Compression for analog output
