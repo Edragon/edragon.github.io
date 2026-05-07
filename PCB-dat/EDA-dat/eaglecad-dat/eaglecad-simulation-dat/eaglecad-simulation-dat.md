@@ -1,5 +1,5 @@
 
-# eagle-simulation-dat
+# eaglecad-simulation-dat
 
 
 ## add model card for spice, examples 
