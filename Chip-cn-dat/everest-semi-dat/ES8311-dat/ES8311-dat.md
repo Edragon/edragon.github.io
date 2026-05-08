@@ -23,9 +23,7 @@ http://www.everest-semi.com/pdf/ES8311%20PB.pdf
 
 
 
-## SCH 2 
 
-![](2025-11-01-19-36-04.png)
 
 ## ref 
 
@@ -83,6 +81,13 @@ DAC `PLAYBACK` FUNCTIONS
 ![](2026-04-14-19-33-23.png)
 
 ![](2026-04-14-19-33-44.png)
+
+## SCH 2 
+
+![](2025-11-01-19-36-04.png)
+
+
+
 
 ## ref 
 

@@ -29,6 +29,9 @@ https://www.electrodragon.com/w/RCL_List
 
 - [[74xx-dat]]
 
+- [[gas-discharge-tube-dat]] - [[BOM-dat]]
+
+
 ## Chip 
 
 - [[chip-dat]] - [[chip-cn-dat]]
