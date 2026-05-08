@@ -25,7 +25,7 @@
 
 ## smooth shaft accessories 
 
-- [[shaft-dat]] - [[shaft-limit-ring-dat]] - [[hose-clamp-dat]]
+- [[shaft-dat]] - [[shaft-locking-dat]]
 
 - [[shaft-coupler-dat]] - [[Shaft-Cross-Connector-dat]]
 

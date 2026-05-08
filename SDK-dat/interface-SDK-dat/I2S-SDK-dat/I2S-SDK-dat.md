@@ -18,14 +18,14 @@ The ESP32-P4 includes one I2S peripheral. By configuring this peripheral, you ca
 
 ![](2025-08-09-13-16-02.png)
 
-| Function Pin | ESP32-P4 Pin |
-|--------------|-------------|
-| MCLK         | GPIO13      |
-| SCLK         | GPIO12      |
-| ASDOUT       | GPIO11      |
-| LRCK         | GPIO10      |
-| DSDIN        | GPIO9       |
-| PA_Ctrl (Amp Enable, High Active) | GPIO53 |
+| Function Pin                      |      | ESP32-P4 Pin |
+| --------------------------------- | ---- | ------------ |
+| MCLK                              | MCLK | GPIO13       |
+| SCLK                              | BCK  | GPIO12       |
+| ASDOUT                            | DO   | GPIO11       |
+| LRCK                              | WS   | GPIO10       |
+| DSDIN                             | DI   | GPIO9        |
+| PA_Ctrl (Amp Enable, High Active) |      | GPIO53       |
 
 The ES8311 driver for ESP32-P4 uses the ES8311 component, which can be added via the IDF Component Manager:
 

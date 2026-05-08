@@ -15,7 +15,7 @@
 
 ## chips 
 
-- [[mems-dat]] - [[zilltek-dat]] - [[linkmems-dat]]
+- [[memsensing-dat]] - [[sensor-microphone-dat]] - [[zilltek-dat]] - [[linkmems-dat]]
 
 
 - [[sensor-microphone-dat]] - [[motor-driver-dat]] - [[LM358-dat]]
