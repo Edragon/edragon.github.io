@@ -30,6 +30,25 @@ AIIOT / dual Type-C USB port / W2812gb == [[WS2812-dat]] / high-speed USB-serial
 
 ![](2026-04-28-13-04-13.png)
 
+- [[NWI1102-dat]] - [[NWI1103-dat]]
+
+The board can be soldered in an angle to fix the gap differences as below: 
+
+We will leave the pin headers unsolder for your own decision. 
+
+This is for [[NWI1245-dat]]
+
+![](2026-05-12-18-24-30.png)
+
+![](2026-05-12-18-24-39.png)
+
+This is for [[IDD1016-dat]]
+
+
+![](2026-05-12-18-22-57.png)
+
+![](2026-05-12-18-23-55.png)
+
 
 ## Applications, category, tags, etc. 
 
