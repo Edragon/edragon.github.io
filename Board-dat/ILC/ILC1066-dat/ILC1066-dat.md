@@ -1,6 +1,9 @@
 
 # ILC1066-dat
 
+- [[segment-lcd-dat]] - [[ILC1066-dat]] - [[ILC1067-dat]]
+
+
 ## Info
 
 [product url - 4 Digits Segment LCD Display, uA Low Power [Version]](https://www.electrodragon.com/product/2pcs-segment-lcd-4-digit/)
