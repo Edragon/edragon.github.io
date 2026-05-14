@@ -3,6 +3,8 @@
 
 - [[india-dat]] [[israel-dat]] - [[US-dat]] - [[Mexico-dat]] - [[south-africa-dat]] - [[Philippines-dat]]
 
+- [[columbia-dat]]
+
 - [[countries-dat]] 
 
 - how to use [[internal-tracking-dat]] internal tracking number

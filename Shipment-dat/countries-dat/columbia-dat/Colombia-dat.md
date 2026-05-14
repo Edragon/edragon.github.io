@@ -1,6 +1,20 @@
 
 # Colombia-dat.md
 
+
+[[EURPOST-dat]] 
+- LAX\JFK-BOG, business custom clearnace, delivery by SkyPostal Colombia. 
+- Not prepaid Custom Duty
+- EURPOST: Intl. Air + Local Delivery (ref. ETA 20-28 days) == Init. Cost 8 USD + 5% extra handling fee
+
+
+[[HKDHL-dat]]
+
+- HKDHL: DHL Express Shipment (Ref. ETA 5-15 days) == Init. Cost 32.5 USD + 5% extra handling fee
+
+Finally shipping cost is dynamic based on the handling fee. Please find the exact shipping cost at the checkout page. 
+
+
 - [[EURPOST-cn-dat]]
 
 EURPOST: Intl. Air + Local Delivery (ref. ETA 15-25 days) == price / 100 /
