@@ -172,6 +172,8 @@ LED control - [[ILC1063-dat]]
 
 - [[ILC1073-dat]]
 
+[[segment-LCD-dat]] - [[ILC1066-dat]] - [[ILC1067-dat]]
+
 ### ILE
 
 - [[ILE1001-dat]] - [[ILE1047-dat]]

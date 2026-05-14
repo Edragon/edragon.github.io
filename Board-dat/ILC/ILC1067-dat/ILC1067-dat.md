@@ -16,6 +16,11 @@ refer to [[ILC1066-dat]]
 
 ## Demo Code and Video
 
+working library - https://github.com/valerionew/ht1621-7-seg
+
+![](2026-05-14-17-18-41.png)
+
+
 ## ref 
 
 - [[ILC1067]] 
