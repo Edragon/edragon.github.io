@@ -27,6 +27,10 @@ AY0438 - 32-Segment CMOS LCD Driver
 ![](2024-07-07-12-25-34.png)
 
 
+## pins 
+
+![](2026-05-15-00-25-52.png)
+
 ## UA level power consumption 
 
 ![](2024-07-07-12-25-47.png)

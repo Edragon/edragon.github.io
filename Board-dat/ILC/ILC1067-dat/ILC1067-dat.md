@@ -28,6 +28,3 @@ working library - https://github.com/valerionew/ht1621-7-seg
 - legacy wiki page 
 
 
-## ref 
-
-
