@@ -1,6 +1,8 @@
 
 # attiny13-dat
 
+- [[attiny-dat]]
+
 [datasheet ](https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny13A-Data-Sheet-DS40002307A.pdf)
 
 - package == SOIC8 
@@ -26,7 +28,7 @@ GPIOs
 
 
 
-proramming 
+## Programming 
 
 - ATtiny13A leg 1 -> Arduino 10
 - ATtiny13A leg 5 -> Arduino 11
