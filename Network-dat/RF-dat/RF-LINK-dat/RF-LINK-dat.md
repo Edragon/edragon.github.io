@@ -22,22 +22,17 @@ Clasic RF LINK - [[RF-LINK-dat]]
 
 - receiver - [[NWL1025-dat]] - [[NWL1026-dat]] - [[NWL1027-dat]]
 
-
-
-## Transmitter == Sender 
+Transmitter == Sender 
 
 - [[NWL1007-dat]] - [[NWL1008-dat]]
 
-
-
-
-## Receiver == EDRF1 and EDRF2 Decoder
+Receiver == EDRF1 and EDRF2 Decoder
 
 - [[NWL1089-dat]] == EDRF1 (retired)
 
 - [[NWL1068-dat]] / [[NWL1070-dat]] == EDRF2
 
-### snap button 
+snap button 
 
 - [[NRF1003-dat]] == https://www.electrodragon.com/product/press-button-round-rf-ask-transmitter-433mhz-w-adhesive/
 
@@ -66,9 +61,15 @@ fixed (welding code) code
 
 - [[rolling-code-dat]] - [[rolling-code-encoder-dat]] - [[rolling-code-decoder-dat]]
 
-- [[syn470-dat]] - [[SYNOXO-dat]]
+- [[SYN480-dat]] - [[SYN115-dat]] - [[SYN470-dat]] - [[SYNOXO-dat]]
 
+- [[EV1527-dat]] - [[Vollgo-dat]]
 
+- [[RF600-dat]] 
+
+2264、2262、2260、2240、1527、527、SMC918
+
+-  clones of the PIC12xxx == [[PIC12-dat]] - [[PIC-dat]]
 
 
 
@@ -199,17 +200,7 @@ If you're using **common learning-code RF modules**:
   - Use **directional antennas** or **RF amplifiers**
 
 
-## chip options 
 
-- [[SYN480-dat]] - [[SYN115-dat]] - [[SYN470-dat]]
-
-- [[EV1527-dat]]
-
-- [[RF600-dat]] 
-
-2264、2262、2260、2240、1527、527、SMC918
-
--  clones of the PIC12xxx == [[PIC12-dat]] - [[PIC-dat]]
 
 
 ## Copier 

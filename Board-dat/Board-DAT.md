@@ -484,6 +484,7 @@ MT7688
 
 - [[NRF2001-dat]] - [[NRF2004-dat]] - [[NRF2007-dat]]
 
+- [[NRF1003-dat]]
 
 ### PCA 
 

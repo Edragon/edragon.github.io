@@ -82,7 +82,8 @@ connect to its AP address to setup
 
 - [[esp-relay-board-dat]] - [[ESP-SDK-dat]] 
 
-- [[acdc-dat]]
+- [[acdc-dat]] - [[OPM1110-dat]]
 
+- [[relay-dat]]
 
 - [[NWI1072]]

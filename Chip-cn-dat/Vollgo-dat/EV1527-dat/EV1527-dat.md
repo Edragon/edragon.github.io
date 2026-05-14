@@ -1,6 +1,10 @@
 
 # EV1527-dat
 
+- [[NRF1003-dat]] - [[RF-link-dat]]
+
+- [[EV1527-dat]] - [[vollgo-dat]]
+
 ## Info 
 
 chip info, datasheet == [[EV1527.pdf]], etc.
