@@ -106,6 +106,11 @@ https://www.electrodragon.com/w/Category:TRIAC
 - arduino control [[SCU1041-dat]] - https://t.me/electrodragon3/185
 
 
+simple ON OFF drive - [[TRIAC-dat]] drive by [[BT136-dat]] == https://x.com/electric_4u/status/2054848924779962638
+
+
+
+
 ## thyristor = 可控硅
 
 It is a type of semiconductor device used for controlling high-power electric signals, often in switching applications.

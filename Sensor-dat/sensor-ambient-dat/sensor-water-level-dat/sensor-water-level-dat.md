@@ -27,6 +27,12 @@ design a simple water level sensor, positive on the front and negative on the ba
 - [[CD4001-dat]]
 
 
+## simple water level sensor design - invasive 
+
+https://x.com/electric_4u/status/2054936312629887076
+
+
+
 ## ref 
 
 - [[sensor-dat]]

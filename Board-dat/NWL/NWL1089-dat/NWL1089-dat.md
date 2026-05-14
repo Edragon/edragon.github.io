@@ -1,6 +1,8 @@
 
 # NWL1089-dat
 
+- [[RF-link-dat]]
+
 [EDRF1 Wireless Remote Receiver Decoding Module 433Mhz](https://www.electrodragon.com/product/edrf01-wireless-remote-receiver-decoding-module-433mhz/)
 
 
