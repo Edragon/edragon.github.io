@@ -9,6 +9,7 @@ Direct-Drive Servos
 When your servo horns are the feet, the most efficient movement is a **coordinated rotation** that mimics a wheel but maintains the balance of a quadruped.
 
 ### 1. The Diagonal Trot (Recommended)
+
 This is the smoothest and fastest way to move. You move diagonal pairs in a "circular" or "elliptical" path.
 
 * **Group 1:** Front Left (FL) and Rear Right (RR)
