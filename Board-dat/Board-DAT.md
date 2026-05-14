@@ -473,12 +473,14 @@ other
 
 [[RDA5981-dat]]
 
-MT7688
-- [[NWI1219-dat]]
+[[MT7688-dat]] - [[NWI1219-dat]]
 
 [[LAN8720-dat]] - [[NWI1199-DAT]]
 
 [[ESP32-S3-dat]] - [[NWI1243-dat]]
+
+
+
 
 ### NRF 
 
