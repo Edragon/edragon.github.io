@@ -1,6 +1,11 @@
 
 # battery-LFP-dat
 
+
+- [[battery-NCM-NCA-dat]] - [[battery-LFP-dat]]
+
+- [[battery-pack-dat]]
+
 - [[blade-battery-dat]]
 
 - [[32650-dat]] - [[battery-LFP-dat]]
@@ -8,6 +13,9 @@
 - [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-LFP-dat]]
 
 legacy wiki page == https://www.electrodragon.com/w/LFP_Battery
+
+
+这种电池通常被称为“铁锂”。它的正极材料使用的是磷酸铁锂。
 
 
 ## LFP charger 

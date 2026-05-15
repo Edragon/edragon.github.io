@@ -1,4 +1,19 @@
 
+
+# battery-NCM-NCA-dat
+
+- [[NCM-dat]] - [[NCA-dat]] - [[battery-NCM-NCA-dat]] - [[Ternary-Lithium-Battery-dat]] - [[battery-LFP-dat]]
+
+Ternary Lithium (NCM / NCA)
+
+**Ternary batteries** use a combination of Nickel, Cobalt, and Manganese (or Aluminium) for the cathode.
+
+* **High Energy Density:** These batteries are **lighter and smaller** for the same capacity. For a 4-servo robot where weight is a critical factor for mobility, this is a major advantage.
+* **High Voltage & Power:** The nominal voltage is **3.7V** (charging up to 4.2V). This higher voltage allows servos to provide more torque and higher speeds.
+* **Better Cold Resistance:** They maintain efficiency much better than LFP in cold environments.
+* **Drawbacks:** They have lower thermal stability (higher fire risk if damaged) and a shorter cycle life, typically between **800 and 1,500 cycles**.
+
+
 # Ternary-Lithium-Battery-dat.md (NCM/NCA)
 
 
@@ -59,3 +74,8 @@ Ternary lithium batteries (**NCM or NCA**) are a type of **lithium-ion battery**
 - **High-Nickel Batteries** (Reducing cobalt to lower costs, e.g., NCM811)
 - **Solid-State Batteries** (Improving safety and energy density)
 - **Recycling and Sustainability** (Reducing environmental impact)
+
+
+
+## ref 
+
