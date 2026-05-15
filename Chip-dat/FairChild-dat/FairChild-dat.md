@@ -19,6 +19,11 @@ This regulator has various function such as peak current protection, thermal shu
 
 
 
+UC3842/UC3843/UC3844/UC3845 - [[fairchild-dat]] - [[SMPS-dat]]
+
+The UC3842/UC3843/UC3844/UC3845 are fixed frequencycurrent-mode PWM controller. They are specially designed for Off-Line and DC to DC converter applications with minimum external components. 
+
+
 
 ## ref 
 

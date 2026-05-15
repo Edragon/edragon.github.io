@@ -2,9 +2,9 @@
 # ACDC-dat 
 
 
-== SMPS 
+- [[SMPS-dat]] - [[power-dat]] - [[ACDC-dat]] - [[DCDC-dat]]
 
-- [[ac-mains-dat]] - [[ACDC-dat]]
+- [[ac-mains-dat]] - [[ACDC-dat]] - [[power-dat]]
 
 [legacy wiki page](https://www.electrodragon.com/w/AC-DC)
 
@@ -122,7 +122,11 @@ Chip Solutions
 
 - [[ST-ACDC-dat]] - [[ACDC-dat]] - [[VIPER22-dat]]
 
-- [[power-integrations-dat]] - [[LNK302-dat]] - [[TNY267-dat]] - [[ACDC-dat]] - [[ac-mains-dat]]
+- [[power-integrations-dat]] - [[LNK302-dat]] - [[TNY267-dat]] - [[ACDC-dat]] - [[ac-mains-dat]] 
+
+- [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]]
+
+
 
 
 
