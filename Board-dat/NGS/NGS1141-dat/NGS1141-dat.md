@@ -34,11 +34,11 @@ Board map
 | EAR_N    | PEN   |
 | EAR_P    | Reset |
 
-Update logs 
+Update logs - [[tech-dat]]
 
-- well supported for [[GNSS-dat]] and [[bluetooth-dat]], at open area locating timing by GNSS is around 5-15 seconsds
+- well supported for [[GNSS-dat]] and [[bluetooth-dat]], at open area locating timing by GNSS is around 5-15 seconsds - [[location-dat]] - [[M2M-dat]] - [[SIM-dat]]
 
-- [[SIMCOM-AT-location-dat]] - [[SIMCOM-at-dat]]
+- [[SIMCOM-AT-location-dat]] - [[SIMCOM-at-dat]] 
 
 Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
