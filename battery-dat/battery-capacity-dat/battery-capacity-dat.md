@@ -2,6 +2,8 @@
 # battery-capacity-dat
 
 
+- [[energy-dat]]
+
 - [[18650-dat]] - [[26650-dat]] 
 
 

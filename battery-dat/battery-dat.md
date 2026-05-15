@@ -38,7 +38,7 @@
 
 - [[battery-rechargerable-dat]] 
 
-- [[lead-acid-battery-dat]] - [[LFP-dat]]
+- [[lead-acid-battery-dat]] - [[battery-LFP-dat]]
 
 - [[battery-protection-dat]]
 
