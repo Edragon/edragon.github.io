@@ -160,6 +160,19 @@ multiple coils
 - 14500V电压表*1 (最少一个，可以每级都配一个)1
 - 15除此之外还可以配备激光头和炮弹若干
 
+
+## toy-level coilgun 
+
+button == 讯灵 KD2 - [[button-dat]]
+
+- [[dcdc-boost-dat]]
+
+![](2026-05-15-14-10-08.png)
+
+![](2026-05-15-14-10-22.png)
+
+
+
 ## ref 
 
 - [[app]] - [[gun]] - [[coilgun]]

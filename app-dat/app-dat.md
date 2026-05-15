@@ -80,6 +80,10 @@
 tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 
+## audio 
+
+- [[infrared-app-dat]] - [[LM386-dat]] - [[infrared-dat]] - [[audio-dat]] - [[app-dat]]
+
 ## industrial 
 
 - [[Thermal-imaging-camera-dat]]
