@@ -10,7 +10,9 @@ product url -
 
 wireless motor drive board 
 
-- [[L9110-dat]] - [[attiny13-dat]] 
+- [[L9110-dat]] 
+
+- [[attiny13-dat]] - [[MCU-dat]]
 
 - [[EDRF1-dat]] == [[NWL1089-dat]] - [[RF-LINK-dat]]
 
