@@ -9,7 +9,7 @@
 
 board width = 37 mm
 
-- [[BTB-dat]] - [[12P-BTB-dat]]
+- [[BTB-dat]] - [[BTB-12P-dat]]
 
 ## on board resources 
 

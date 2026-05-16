@@ -1,9 +1,9 @@
 
-# 12P-BTB-dat
+# BTB-12P-dat
 
 - [[ESP32-SPI-dat]]
 
-
+- [[SPI-dat]] - [[I2C-dat]]
 
 mount the concave part on the bottom, and convex part on the top
 
