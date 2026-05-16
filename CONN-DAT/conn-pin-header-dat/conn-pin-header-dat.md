@@ -119,11 +119,13 @@ note below three version available, we only sell "right-bend" version here [[CCO
 
 - angled == https://grabcad.com/library/angled-parametric-pinheader-2-54-fusion-360-1
 
+## CAD design 
 
+![](2026-05-16-20-53-39.png)
 
+![](2026-05-16-20-57-39.png)
 
-
-
+- [[eagleCAD-dat]]
 
 ## ref 
 

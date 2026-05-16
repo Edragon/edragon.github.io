@@ -25,6 +25,8 @@
 
 ## pitch large footprint
 
+- [[CONN-pin-header-dat]]
+
 - [[SOP-dat]]
 
 ## pitch 0.8mm 
