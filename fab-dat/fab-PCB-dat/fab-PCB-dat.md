@@ -5,7 +5,8 @@
 
 - [[PCB-adhesive-dat]] - [[export-coordinate-dat]] - [[mark-point-dat]] - [[SMT-Red-Adhesive-dat]] - [[solder-paste-dat]]
 
-- [[fab-stencil-dat]]
+- [[fab-stencil-dat]] - [[fab-stencil-printer-dat]] - [[fab-stencil-frameless-dat]] - [[fab-stencil-frame-dat]]
+
 
 
 
