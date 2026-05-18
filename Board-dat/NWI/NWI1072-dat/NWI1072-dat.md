@@ -86,4 +86,4 @@ connect to its AP address to setup
 
 - [[relay-dat]]
 
-- [[NWI1072]]
+- [[NWI1072]] - [[NWI1072-fab]]
