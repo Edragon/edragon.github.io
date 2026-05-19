@@ -6,6 +6,8 @@
 
 - [[battery-pack-materials-dat]] - [[cable-battery-dat]]
 
+- [[cable-JST-dat]] 
+
 
 ## voltage convert cable 
 
