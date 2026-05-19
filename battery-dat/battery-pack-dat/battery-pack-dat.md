@@ -5,7 +5,7 @@
 
 - [[battery-holder-dat]] - [[battery-holder-18650-dat]] - [[battery-holder-AA-dat]]
 
-- [[battery-pack-dat]] - [[battery-pack-kit-dat]] - [[battery-pack-materials-dat]]
+- [[battery-pack-dat]] - [[battery-pack-kit-dat]] - [[battery-pack-materials-dat]] - [[battery-pack-build-dat]]
 
 - [[battery-pack]] - [[battery-size-dat]] - [[battery-li-dat]]
 
