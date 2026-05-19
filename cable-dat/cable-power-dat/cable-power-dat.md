@@ -2,6 +2,9 @@
 
 # cable-power-dat
 
+- [[conn-power-dat]] - [[cable-power-dat]]
+
+
 - [[cable-XT-dat]] - [[cable-battery-dat]] - [[cable-AWG-dat]]
 
 - [[battery-pack-materials-dat]] - [[cable-battery-dat]]

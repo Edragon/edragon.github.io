@@ -29,6 +29,8 @@
 
 - soldering by [[spot-welding-dat]]
 
+- [[battery-charger-dat]]
+
 ## accessories
 
 - [[sensor-dc-voltage-dat]]

@@ -11,7 +11,7 @@
 - [[fast-charge-protocols-dat]] - [[USB-PD-dat]]
 
 
-- [[BMS]]
+- [[battery-BMS]]
 
 
 - [[battery-protector-dat]]
@@ -265,4 +265,4 @@ A protection board fault typically results in: inability to charge, or the batte
 
 
 
-- [[BMS]] - [[battery]]
+- [[battery-BMS]] - [[battery]]

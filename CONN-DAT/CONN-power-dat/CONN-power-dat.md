@@ -1,7 +1,9 @@
 
 # CONN-power-dat
 
-- [[DC-barrel-jack-dat]]
+- [[conn-power-dat]] - [[cable-power-dat]]
+
+- [[CONN-DC-barrel-jack-dat]]
 
 - [[copper-lug-dat]]
 
@@ -18,6 +20,9 @@ MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM
 
 - [[DJI-dat]] - [[SDC-dat]]
 
+## common battery header connector
+
+![](2026-05-20-02-34-47.png)
 
 ## phone connector 
 

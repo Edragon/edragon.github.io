@@ -1,5 +1,5 @@
 
-# active-BMS-dat
+# BMS-active-dat
 
 # active-battery-balancing-board-dat
 
@@ -77,4 +77,6 @@ note
 
 ## ref 
 
-- [[BMS-dat]]
+- [[BMS-dat]] - [[BMS-active-dat]]
+
+- [[battery-BMS]] - [[battery]]

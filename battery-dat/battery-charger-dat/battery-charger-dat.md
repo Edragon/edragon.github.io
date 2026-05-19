@@ -24,7 +24,7 @@ The most following charger options are for the lithium-ion battery
 - [[battery-1S-dat]] - [[battery-2S-dat]] - [[battery-3S-dat]] - [[battery-4S-dat]] - [[battery-5S-dat]] - [[battery-pack-dat]]
 
 
-- [[battery-BMS-dat]] - [[BMS-passive-dat]]
+- [[battery-BMS-dat]] - [[BMS-passive-dat]] - [[BMS-active-dat]]
 
 - [[battery-pack-dat]]
 
@@ -153,6 +153,12 @@ request
 - [[ismartware-dat]] - [[SW6124-dat]]
 
 - [[linear-technology-dat]] 
+
+## battery charger for multiple series 
+
+![](2026-05-20-02-37-25.png)
+
+- [[conn-power-dat]]
 
 ## ref
 
