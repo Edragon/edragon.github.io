@@ -7,7 +7,7 @@
 
 - [[cable-data-dat]] - [[cable-FPC-dat]] - [[cable-ribbon-dat]]
 
-
+- [[cable-binding-dat]] - [[cable-insulation-dat]]
 
 
 - [[PTO1021-dat]] - wire cutter tool
@@ -30,7 +30,7 @@
 
 - [[ribbon-cable-dat]] - [[usb-cable-dat]]
 
-- [[flywire-dat]] - [[jumper-wire-dat]] - [[awg-wires-dat]]
+- [[flywire-dat]] - [[jumper-wire-dat]] - [[AWG-wires-dat]]
 
 
 

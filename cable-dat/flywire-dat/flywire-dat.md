@@ -1,7 +1,7 @@
 
 # flywire-dat
 
-- [[PCA1047-dat]] - [[awg-wires-dat]]
+- [[PCA1047-dat]] - [[AWG-wires-dat]]
 
 
 ## ref 

@@ -9,6 +9,8 @@
 
 - [[battery-pack-materials-dat]] - [[battery-holder-pack-dat]]
 
+- [[cable-battery-dat]]
+
 
 ## battery tools == for battery pack build 
 
@@ -38,7 +40,7 @@
 
 - 3. `青稞纸` == 青稞纸基本都是最后出场，作为电池绝缘和减震的重要部分 - [[Nickel-strips-dat]] 
 
-- 4. `硅胶电线` == 链接电池用的，硅胶耐高温，相比一般电线胶皮的上锡的时候不会融化。
+- 4. `硅胶电线` == 链接电池用的，硅胶耐高温，相比一般电线胶皮的上锡的时候不会融化。 - [[cable-battery-dat]]
 
 - 5. [[battery-holder-dat]]
 

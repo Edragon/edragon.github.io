@@ -73,7 +73,7 @@ T113 soldering note (English): Be sure to solder all components except T113 firs
 
 ## wires 
 
-- [[flywire-dat]] - [[jumper-wire-dat]] - [[cable-dat]] - [[awg-wires-dat]]
+- [[flywire-dat]] - [[jumper-wire-dat]] - [[cable-dat]] - [[AWG-wires-dat]]
 
 
 

@@ -2,6 +2,9 @@
 
 # cable-power-dat
 
+- [[cable-XT-dat]] - [[cable-battery-dat]] - [[cable-AWG-dat]]
+
+- [[battery-pack-materials-dat]] - [[cable-battery-dat]]
 
 
 ## voltage convert cable 
@@ -37,7 +40,7 @@
 
 
 
-## ref 
+## ref ab
 
 - [[cable-dat]]
 
