@@ -13,7 +13,7 @@
 
 - in the pack including [[battery-BMS-dat]]
 
-
+- [[CONN-power-dat]] - [[CONN-dat]]
 
 - battery upgrade by [[battery-holder-dat]] - [[battery-pack-kit-dat]]
 

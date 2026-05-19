@@ -49,15 +49,17 @@
 
 - [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]]
 
-- [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-LFP-dat]]
+- [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-LFP-dat]] - [[Battery-li-Ternary-dat]]
 
 - [[battery-BMS-dat]] 
 
-- [[battery-pack-dat]] - [[battery-size-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]]
+- [[battery-pack-dat]] - [[battery-pack-kit]] - [[battery-pack-materials-dat]] 
+
+- [[battery-size-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]]
 
 - [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
 
-- [[ac-mains-dat]]
+- [[ac-mains-dat]] - [[acdc-dat]]
 
 
 
