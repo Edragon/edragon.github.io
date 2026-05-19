@@ -2,6 +2,10 @@
 
 # Kelvin-Clamp-dat
 
+- [[battery-dat]] - [[battery-tester-dat]] - [[battery-tools-dat]] - capacity - [[electronic-loader-dat]]
+
+- [[kelvin-clamp-dat]]
+
 - [[18650-dat]] - [[21700-dat]] - [[battery-li-size-dat]] - [[26650-dat]]
 
 **Crucial!** Standard 2-wire holders introduce voltage drops due to lead and contact resistance, causing premature cut-off readings. 

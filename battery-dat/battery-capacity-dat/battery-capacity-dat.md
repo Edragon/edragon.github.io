@@ -4,7 +4,7 @@
 
 - [[energy-dat]]
 
-- [[18650-dat]] - [[26650-dat]] 
+- [[18650-dat]] - [[26650-dat]] - [[battery-dat]]
 
 
 # Understanding "One Kilowatt-Hour" (1 kWh) vs "Ampere-Hour" (Ah)

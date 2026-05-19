@@ -4,7 +4,7 @@
 
 - [[battery-3s-dat]] - [[battery-protector-3s-dat]] - [[battery-charger-3s-dat]] - [[battery-charger-dat]]
 
-
+- see example build here == [[battery-pack-kit-dat]]
 
 ## wiring 
 
@@ -57,6 +57,9 @@ normal and balanced version
 ![](2026-03-14-15-05-52.png)
 
 ![](2026-03-14-15-08-46.png)
+
+
+
 ## protector version 2 
 
 - [[mos-p-dat]] - [[ablic-dat]] == - 82544A 

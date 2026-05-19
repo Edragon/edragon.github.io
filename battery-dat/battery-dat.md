@@ -5,7 +5,7 @@
 - [[power-dat]] - [[battery-dat]] 
 
 
-- [[battery-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
+- [[battery-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-capacity-dat]]
 
 - [[battery-dat]] - [[battery-system-dat]]
 

@@ -1,6 +1,6 @@
 # battery-2S-dat
 
-- [[battery-pack-dat]]
+- [[battery-pack-dat]] - [[energy-dat]] - [[battery-pack]]
 
 
 - [[battery-charger-2s-dat]]
@@ -8,6 +8,10 @@
 
 - [[dcdc-down-dat]] - [[IP236x-dat]] - [[dcdc-boost-dat]] - [[IP2326-dat]]
 
+
+## build 
+
+2S2P == 2 series, 2 parallel == 4 cells total == 7.4V nominal, 8.4V full charge, double capacity of a single cell == 6000mAh if using 3000mAh cells.
 
 
 ## Simple 1S to 2S management Solutions 

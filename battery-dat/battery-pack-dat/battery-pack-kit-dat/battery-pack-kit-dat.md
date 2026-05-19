@@ -3,7 +3,7 @@
 
 - [[battery-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-pack-kit-dat]]
 
-- [[active-BMS-dat]] 
+- [[BMS-active-dat]] - [[BMS-passive-dat]]
 
 - [[case-dat]]
 
@@ -14,6 +14,10 @@
 - Insulating Paper
 
 - [[18650-dat]] - [[18650]]
+
+- [[battery-3s-dat]] - [[battery-protector-3s-dat]]
+
+- [[battery-pack-dat]] - [[battery-pack-kit-dat]]
 
 ## 3S7P == 12V 8400 mAH == 12V 8.4 AH 
 
