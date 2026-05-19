@@ -5,7 +5,7 @@
 - [[battery-LFP-20S-dat]]
 
 
-- [[battery-NCM-NCA-dat]] - [[battery-LFP-dat]]
+- [[battery-NCM-NCA-dat]] - [[battery-li-LFP-dat]]
 
 - [[battery-pack-dat]]
 
