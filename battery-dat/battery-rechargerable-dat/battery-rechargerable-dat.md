@@ -6,6 +6,7 @@
 
 - [[battery-li-dat]] - [[battery-LFP-dat]]
 
+- [[battery-li-size-dat]] - [[18650-dat]]
 
 - [[battery-protector-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]]
 

@@ -7,7 +7,7 @@
 
 - [[CR1220-dat]] - [[CR2032-dat]] - [[CR2045-dat]] - [[CR2450-dat]]
 
-- [[li-battery-size-dat]]
+- [[battery-li-size-dat]]
 
 
 
