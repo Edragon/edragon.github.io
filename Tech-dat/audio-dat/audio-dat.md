@@ -21,7 +21,7 @@
 
 - [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]]
 
-
+- [[infrared-app-dat]] - [[LM386-dat]] - [[infrared-dat]] - [[audio-dat]] - [[app-dat]]
 
 
 ## chip 

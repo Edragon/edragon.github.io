@@ -3,7 +3,7 @@
 
 - [[serial-dat]] - [[holtek-dat]] - [[HT42B534-dat]]
 
-
+- [[HT1621-dat]]
 
 ## LDO 
 

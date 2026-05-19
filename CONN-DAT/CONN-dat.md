@@ -32,7 +32,7 @@
 
 - [[conn-audio-dat]] - [[conn-video-dat]]
 
-- [[CONN-BTB-dat]] - [[12P-BTB-dat]] - board to board [[BTB-dat]]
+- [[CONN-BTB-dat]] - [[BTB-12P-dat]] - board to board [[BTB-dat]]
 
 
 

@@ -44,4 +44,16 @@ These resistors consist of a resistive wire (often Nichrome) wound around a cera
     * Dummy loads for testing power supplies.
 
 
+## demo test 
+
+- load 0.33R*3 = 1R // output 5V 2.77A // test board [[OPM1192-dat]]
+
+![](2026-05-06-20-19-44.png)
+
+
 ## ref 
+
+
+
+
+

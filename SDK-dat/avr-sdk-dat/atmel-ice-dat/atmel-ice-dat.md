@@ -1,6 +1,8 @@
 
 # atmel-ice-dat
 
+- [[AVR-programmer-dat]] - [[avr-dat]] - [[atmel-ice-dat]] - [[USBASP-dat]]
+
 
 - [read the manual PDF here](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/UserGuides/Atmel-ICE_UserGuide.pdf)
 

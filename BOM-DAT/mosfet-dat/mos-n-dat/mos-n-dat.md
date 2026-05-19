@@ -24,6 +24,9 @@
 - IRFR1205 - [[infineon-dat]]
 - IRFR5305 - [[infineon-dat]]
 
+CS1N60
+
+
 - [[onsemi-dat]]
 
 NCE6050KA - The NCE6050KA is a 60V, 50A N-channel enhancement mode power MOSFET from NCE Power, typically available in a TO-252 (DPAK) surface-mount package. It features low on-resistance and is designed for high-current applications such as power switching, motor drivers, and industrial systems.

@@ -30,6 +30,9 @@ board - [[NWI1100-dat]] - [[NWI1101-dat]] - [[NWI1102-dat]] - [[NWI1103-dat]]
 
 ![](2026-04-28-13-05-32.png)
 
+please refer the fix in [[NWI1102-dat]]
+
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video

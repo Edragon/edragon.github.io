@@ -23,14 +23,20 @@ STK12C68
 
 ![](2024-10-27-13-36-15.png)
 
+
+
+## programming 
+
 ![](2025-07-15-12-34-22.png)
 
-
+![](2026-05-06-18-53-04.png)
 
 
 
 
 ## STC8H / STC8G 
+
+STC8G1K17A
 
 STC8H1K08-36I-QFN20 Enhanced 1T 8051 Microcontroller (MCU)
 

@@ -1,5 +1,5 @@
 
-# BTB dat 
+# BTB-dat 
 
 
 ## common used 
@@ -8,7 +8,7 @@
 
 - [[M2-dat]]
 
-- [[12P-BTB-dat]]
+- [[BTB-12P-dat]]
 
 - [[DF40-dat]]
 

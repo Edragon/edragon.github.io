@@ -2,8 +2,55 @@
 # battery-capacity-dat
 
 
+- [[energy-dat]]
+
 - [[18650-dat]] - [[26650-dat]] 
 
+
+# Understanding "One Kilowatt-Hour" (1 kWh) vs "Ampere-Hour" (Ah)
+
+The terms **"One kilowatt-hour" (一度电)** and **"Ampere-hour" (Ah)** belong to different physical dimensions. They **cannot be converted directly** without knowing the operational **Voltage (V)** of the system.
+
+*   **Kilowatt-hour (kWh):** This is a unit of **Energy (Electrical Work)**. It represents the total amount of electricity consumed by a 1000-watt appliance running for exactly 1 hour. (Note: 1 kWh = 1000 Wh).
+*   **Ampere-hour (Ah):** This is a unit of **Battery Capacity (Electric Charge)**. It indicates how much current a battery can deliver continuously for 1 hour.
+
+The formula linking these two units is defined by Ohm's Law and electrical power equations:
+
+Capacity (Ah) = Energy (Wh) / Voltage (V)
+
+---
+
+## 1. Calculation for Your 20S LFP Battery Pack
+
+Since you are assembling a **20-Series (20S) Lithium Iron Phosphate (LFP)** battery pack, we can calculate exactly how many Ampere-hours equal "one kilowatt-hour" of energy for your specific setup:
+
+*   **Nominal Cell Voltage:** 3.2 V
+*   **Total Pack Voltage (20S):** 3.2 V * 20 = 64 V
+*   **Conversion Calculation:**
+    Capacity = 1000 Wh / 64 V = 15.63 Ah
+
+**Conclusion:** For your custom 64V battery pack, **1 kWh (一度电) is equivalent to approximately 15.63 Ah**.
+
+---
+
+## 2. Reference Table Across Different Voltage Systems
+
+Because voltage acts as the multiplier, 1 kWh of energy translates to vastly different Ah ratings depending on the device or vehicle platform:
+
+| Device / Vehicle Type     | Nominal Voltage (V)  | Equivalent Ah for 1 kWh (一度电)        |
+| :------------------------ | :------------------- | :-------------------------------------- |
+| **Smartphone Power Bank** | 3.7 V (汇单一锂电池) | 1000 / 3.7 = 270.27 Ah (or 270,270 mAh) |
+| **Car Starter Battery**   | 12 V (标准铅酸电池)  | 1000 / 12 = 83.33 Ah                    |
+| **Electric Motorcycle**   | 72 V (高功率电摩)    | 1000 / 72 = 13.89 Ah                    |
+| **Electric Vehicle (EV)** | 400 V (标准电车平台) | 1000 / 400 = 2.5 Ah                     |
+
+
+
+## Summary for Your Project
+
+To find out how many Ampere-hours you need for any targeted energy storage level, simply divide your target Watt-hours (Wh) by your operating voltage (64 V). 
+
+Since you are configuring a 20S2P array, what is the rated Ah capacity of the individual 3.2V LFP cells you plan to use?
 
 
 

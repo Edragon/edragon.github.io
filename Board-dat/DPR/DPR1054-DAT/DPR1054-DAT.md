@@ -1,7 +1,10 @@
 
 # DPR1054
 
-driver please find on this page - [[CH340-dat]]
+driver please find on this page - [[CH340-dat]] == integrated [[serial-dat]]
+
+- [[RS232-dat]]
+
 
 ## SCH 
 

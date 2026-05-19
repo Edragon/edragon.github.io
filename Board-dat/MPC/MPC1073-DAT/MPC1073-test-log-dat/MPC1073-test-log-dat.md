@@ -44,13 +44,16 @@ Run example for our selling 32x16 panel
 
 ## P10 - 32x16
 
+    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=1
+
     ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=8
 
     ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=3
-    ./examples-api-use/runtext16.ppm -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=8
-    ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=32 --led-multiplexing=1
 
     ./examples-api-use/demo -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=8 --led-no-hardware-pulse
+
+    ./examples-api-use/runtext16.ppm -D 0 --led-cols=32 --led-rows=16 --led-multiplexing=8
+
 
 To chain other panel:
 

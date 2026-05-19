@@ -39,7 +39,7 @@
 
 - [[NWI1050-dat]] - [[NWI1053-dat]] - [[NWI1130-dat]] - [[NWI1083-dat]]
 
-- module system based on [[BTB-dat]] - [[12P-BTB-dat]] == [[NWI1230-dat]]
+- module system based on [[BTB-dat]] - [[BTB-12P-dat]] == [[NWI1230-dat]]
 
 
 

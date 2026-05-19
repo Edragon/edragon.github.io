@@ -13,6 +13,8 @@
 - [[sensor-dc-voltage-dat]]
 
 
+
+
 ## REF30
 
 REF30E and REF30, Low Current Voltage Reference in SOT-23-3
@@ -36,13 +38,9 @@ for ADC-AVDD
 
 
 - REF3025AIDBZR
-- TL431
 
+- [[TI-dat]] - [[TL431-dat]] - [[voltage-reference-dat]]
 
-
-
-
-## TL431
 
 
 
@@ -51,7 +49,7 @@ for ADC-AVDD
 
 - ADR435BRZ - Ultralow Noise XFET Voltage References with Current Sink and Source Capability
 
-- [[TL431-dat]] - [[voltage-reference-dat]]
+
 
 - [[supervisory-dat]]
 

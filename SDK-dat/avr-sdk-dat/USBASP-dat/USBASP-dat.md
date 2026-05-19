@@ -4,6 +4,8 @@
 
 - [[arduino-programmer-dat]] - [[USBASP-dat]] - [[serial-dat]]
 
+- [[AVR-programmer-dat]] - [[avr-dat]] - [[atmel-ice-dat]] - [[USBASP-dat]]
+
 
 - usbasp driver - libusb - [[USBASP.zip]]
 

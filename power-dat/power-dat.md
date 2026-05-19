@@ -47,6 +47,7 @@
 
 - [[power-energy-harvest-dat]]
 
+- [[SMPS-dat]] - [[power-dat]] - [[ACDC-dat]] - [[DCDC-dat]]
 
 ## Info 
 

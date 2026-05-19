@@ -1,6 +1,8 @@
 
 # sensor-temperature-dat
 
+https://www.electrodragon.com/product-category/sensors/ambient/temphumidity-etc/
+
 
 - [[thermocouple-dat]] - [[sensor-RTD-dat]]
 
@@ -26,6 +28,7 @@ wireless measurement
 
 - [[SSL1022-dat]]
 
+- [[STH1082-dat]]
 
 ## chips 
 

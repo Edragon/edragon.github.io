@@ -117,6 +117,8 @@ AVR
 
 WCH - [[DPR1133-dat]]
 
+[[RS232-dat]] - [[DPR1073-dat]] - [[NWI1254-dat]]
+
 ### DVA 
 
 - [[DVA1002-dat]] 
@@ -140,6 +142,9 @@ see more ESP32 apps at NWI section
 - [[IDO1005-dat]] - [[IDO1006-dat]]
 
 - [[IDD1013-DAT]] - [[IDD1016-DAT]] - [[IDD1023-dat]] - [[IDD1027-dat]]
+
+- [[IDO1007-dat]]
+
 
 ### IMS 
 
@@ -166,6 +171,8 @@ LED control - [[ILC1063-dat]]
 [[ILC1022-dat]]
 
 - [[ILC1073-dat]]
+
+[[segment-LCD-dat]] - [[ILC1066-dat]] - [[ILC1067-dat]] - [[HT1621-dat]]
 
 ### ILE
 
@@ -466,17 +473,20 @@ other
 
 [[RDA5981-dat]]
 
-MT7688
-- [[NWI1219-dat]]
+[[MT7688-dat]] - [[NWI1219-dat]]
 
 [[LAN8720-dat]] - [[NWI1199-DAT]]
 
 [[ESP32-S3-dat]] - [[NWI1243-dat]]
 
+
+
+
 ### NRF 
 
 - [[NRF2001-dat]] - [[NRF2004-dat]] - [[NRF2007-dat]]
 
+- [[NRF1003-dat]]
 
 ### PCA 
 

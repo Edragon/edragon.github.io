@@ -20,6 +20,8 @@
 
 - [[EDC-dat]] - [[OBD-dat]]
 
+- [[weight-dat]]
+
 ## Domestic Appliances 
 
 - [[logic-inverter-dat]] or [[data-logger-dat]], [[eneregy-meter-dat]]
@@ -35,6 +37,12 @@
 - [[Apocalypse-dat]] - [[surveillance-dat]]
 
 - [[E-Bike-dat]] - [[gun-dat]]
+
+
+## environment related 
+
+- [[Rodent-repeller-dat]]
+
 
 ## RC Electrified in the air
 
@@ -79,6 +87,10 @@
 
 tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
+
+## audio 
+
+- [[infrared-app-dat]] - [[LM386-dat]] - [[infrared-dat]] - [[audio-dat]] - [[app-dat]]
 
 ## industrial 
 

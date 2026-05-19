@@ -18,7 +18,7 @@ Enter the following URL in Additional Boards Manager URLs:
 
 
 
-- [[avrdude-dat]]
+- [[avrdude-dat]] - [[ISP-dat]]
 
 
 
@@ -32,12 +32,14 @@ avrdude -v -C %AVRDUDE_CONF% -c stk500v1 -P com245 -p t13 -b 19200
 > C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\bin\avrdude.exe -v -C "C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\etc\avrdude.conf" -c stk500v1 -P com245 -p t13 -b 19200
 
 
+pref == -c stk500v1 -P com245 -p t13 -b 19200
+
     C:\Users\Administrator>C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\bin\avrdude.exe -v -C "C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\etc\avrdude.conf" -c stk500v1 -P com245 -p t13 -b 19200
 
     Avrdude version 8.0-arduino.1
     Copyright see https://github.com/avrdudes/avrdude/blob/main/AUTHORS
 
-    System wide configuration file is C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\etc\avrdude.conf
+System wide configuration file is C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\etc\avrdude.conf
 
     Using port            : com245
     Using programmer      : stk500v1
@@ -61,11 +63,15 @@ avrdude -v -C %AVRDUDE_CONF% -c stk500v1 -P com245 -p t13 -b 19200
     Avrdude done.  Thank you.
 
 > Processing -U hfuse:w:0xeb:m
+
+
 Reading 1 byte for hfuse from input file 0xeb
 in 1 section [0, 0]
 Writing 1 byte (0xEB) to hfuse, 1 byte written, 1 verified
 
 write fuse 
+
+-c stk500v1 -P com245 -p t13 -b 19200 -U `hfuse:w:0xeb:m`
 
     C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\bin\avrdude.exe -v -C "C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\etc\avrdude.conf" -c stk500v1 -P com245 -p t13 -b 19200 -U hfuse:w:0xeb:m
 
@@ -75,4 +81,6 @@ C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\
 
 ![](2025-07-09-17-31-30.png)
 
+
+## ref 
 

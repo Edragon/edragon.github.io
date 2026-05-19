@@ -16,7 +16,7 @@
 - official documentation - https://www.raspberrypi.com/documentation/
 
 
-
+- [[RMP-driver-dat]]
 
 
 ## hardware 
@@ -63,4 +63,6 @@ All Raspberry Pi since the Model B+ can provide quite a bit more, up to 500mA to
 - [[SBC-dat]]
 
 - [[RPI]] - [[RPI-SBC]]
+
+- [[win10-dat]] - [[OS-dat]]
 

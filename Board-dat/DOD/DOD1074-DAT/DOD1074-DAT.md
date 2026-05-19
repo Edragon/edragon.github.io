@@ -1,6 +1,8 @@
 
 # DOD1074 DAT
 
+- [[segment-lcd-dat]]
+
 - [[PIC16F1933-DAT]]
 
 ## Pin Definitions 

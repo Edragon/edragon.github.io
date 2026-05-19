@@ -3,6 +3,10 @@
 
 - [[adc-dat]] - [[dac-dat]] - [[record-dat]] - [[playback-dat]] - [[everest-semi-dat]]
 
+- [[audio-dat]] - [[ES8311-dat]]
+
+- [[sensor-microphone-dat]] - [[sensor-microphone-Analog-dat]]
+
 ## ES8311 
 
 refer use guide in [[I2S-SDK-dat]]
@@ -21,11 +25,20 @@ System
 http://www.everest-semi.com/pdf/ES8311%20PB.pdf
 
 
+## pins 
+
+    ESP32S3开发板（16MFLASH) - ES8311-NS4150B-CODEC音频模块 - 说明
+    GPIO_NUM_5 -- SDA -- 串口数据信号线
+    GPIO_NUM_4 -- SCL -- 串行数据位时钟/DMIC位时钟
+    GPIO_NUM_6 -- MCLK -- 主时钟
+    GPIO_NUM_14 -- SCLK -- 位时钟
+    GPIO_NUM_11 -- DIN -- 数据输入
+    GPIO_NUM_12 -- LRCK -- 片选
+    GPIO_NUM_13 -- DOUT -- 数据输出
+    5V/5Vin（如有供电引脚） -- SV -- 电源，NS4150B音频功放供电
+    GND -- GND -- 负极/接地
 
 
-## SCH 2 
-
-![](2025-11-01-19-36-04.png)
 
 ## ref 
 
@@ -70,6 +83,7 @@ DAC `PLAYBACK` FUNCTIONS
 
 ![](2026-04-14-19-31-16.png)
 
+![](2026-05-08-16-31-13.png)
 ## SCH 
 
 ![](2026-04-14-19-30-55.png)
@@ -83,6 +97,13 @@ DAC `PLAYBACK` FUNCTIONS
 ![](2026-04-14-19-33-23.png)
 
 ![](2026-04-14-19-33-44.png)
+
+## SCH 2 
+
+![](2025-11-01-19-36-04.png)
+
+
+
 
 ## ref 
 

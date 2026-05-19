@@ -4,8 +4,9 @@
 
 product link - [RGB LED Matrix Panel Drive Board For Raspberry Pi](https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/)
 
+common issue to see how to setup the E-line to fix the problem displaying gap - [[MPC1073-multiplexing-dat]]
 
-- legacy wiki page - https://w.electrodragon.com/w/RPI_RMP_Guide
+- [legacy wiki page](https://w.electrodragon.com/w/RPI_RMP_Guide)
 
 - Pin Definitions, Product Series please refer to page - [[RMP-driver-dat]]
 

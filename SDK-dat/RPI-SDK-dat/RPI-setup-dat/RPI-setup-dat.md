@@ -3,6 +3,7 @@
 
 - [[RMP-driver-setup-dat]]
 
+- [[rmp-driver-dat]]
 
 ## version check 
 
@@ -19,6 +20,10 @@
 
 - 64 bit lite OS - https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz
 
+
+
+
+
 ## headless 
 
 ### login 
@@ -28,6 +33,9 @@
 - reset password - https://forums.raspberrypi.com/viewtopic.php?t=319398
 
 ![](2024-09-30-19-19-11.png)
+
+
+
 
 ### prewritten wifi config 
 
@@ -71,6 +79,16 @@ iwconfig
 
 - iwgetid will give you the SSID
 
+
+### command line config 
+
+    nmcli dev wifi rescan (updates the list)
+    nmcli dev wifi (lists available networks)
+
+Replace SSID_NAME and PASSWORD with your details:
+
+    sudo nmcli dev wifi connect "SSID_NAME" password "PASSWORD"
+    sudo nmcli dev wifi connect 222 password electrodragon
 
 #### multipe wifi 
 

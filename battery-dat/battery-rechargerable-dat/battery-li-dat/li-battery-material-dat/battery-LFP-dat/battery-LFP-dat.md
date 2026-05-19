@@ -1,6 +1,11 @@
 
 # battery-LFP-dat
 
+
+- [[battery-NCM-NCA-dat]] - [[battery-LFP-dat]]
+
+- [[battery-pack-dat]]
+
 - [[blade-battery-dat]]
 
 - [[32650-dat]] - [[battery-LFP-dat]]
@@ -8,6 +13,9 @@
 - [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-LFP-dat]]
 
 legacy wiki page == https://www.electrodragon.com/w/LFP_Battery
+
+
+这种电池通常被称为“铁锂”。它的正极材料使用的是磷酸铁锂。
 
 
 ## LFP charger 
@@ -154,6 +162,17 @@ The safest batteries to use, especially in terms of preventing fires or explosio
 - LiFePO4 - https://www.youtube.com/watch?v=07BS6QY3wI8&ab_channel=HighTechLab
 
 
+
+
+## example 
+
+xiaolu - 3.2V15AH == 48Wh // 20x 48wh == 1000 Wh == 1kWh == 64V
+
+![](2026-05-16-02-36-03.png)
+
+
 ## ref 
 
-- [[LFP]] - [[li-battery-material]] - [[li-battery]]
+- [[battery-pack]]
+
+- [[battery-LFP]] - [[li-battery-material]] - [[li-battery]]

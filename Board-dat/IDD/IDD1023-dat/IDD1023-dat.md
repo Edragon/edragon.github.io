@@ -4,7 +4,9 @@
 
 - [[fab-soldering-float]] - [[fab-soldering-float-dat]] - [[fab-soldering-dat]]
 
+- [[HUB12-dat]] - [[HUB75-dat]]
 
+- [[RMP-driver-dat]] - [[IDD1023-dat]]
 
 ## Board Map 
 
@@ -36,6 +38,18 @@ To program ESP32 (flashing mode):
 /DMD32-main/
 
 
+correct pin definitions in DMD32.h
+
+    #warning CHANGE THESE TO SEMI-ADJUSTABLE PIN DEFS!
+    //ESP32 pins used for the display connection (Using VSPI)
+
+    #define PIN_DMD_nOE		22 		// D22 active low Output Enable, setting this low lights all the LEDs in the selected rows. Can pwm it at very high frequency for brightness control.
+    #define PIN_DMD_A		19		// D19
+    #define PIN_DMD_B		21		// D21
+    #define PIN_DMD_CLK		18		// D18_SCK  is SPI Clock if SPI is used
+    #define PIN_DMD_SCLK		2		// D02
+    #define PIN_DMD_R_DATA    23	// D23_MOSI is SPI Master Out if SPI is used
+
 ## Demo Early Test 
 
 use guide - https://www.youtube.com/shorts/mtdM9uB3fyo
@@ -43,6 +57,10 @@ use guide - https://www.youtube.com/shorts/mtdM9uB3fyo
 correct test: https://twitter.com/electro_phoenix/status/1434776186354241536
 
 test in error: https://twitter.com/electro_phoenix/status/1427971402561327106
+
+
+
+
 
 ## demo video 
 

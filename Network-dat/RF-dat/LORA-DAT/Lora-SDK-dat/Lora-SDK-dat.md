@@ -1,6 +1,6 @@
 # Lora-SDK-dat
 
-- [[Lora-HDK-dat]] - [[12P-BTB-dat]]
+- [[Lora-HDK-dat]] - [[BTB-12P-dat]]
 
 - [[SPI-dat]] - [[SPI-CMD-dat]]
 
@@ -96,7 +96,7 @@ demo-code loraSender
 
 - https://jgromes.github.io/RadioLib/
 
-    // ESP8266  -- [[12P-BTB-dat]]
+    // ESP8266  -- [[BTB-12P-dat]]
     SX1262 lora = new Module(15, 0, 16);
 
 

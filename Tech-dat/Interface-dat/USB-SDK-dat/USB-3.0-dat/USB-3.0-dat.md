@@ -1,6 +1,11 @@
 
 # USB-3.0-dat
 
+
+- [[GL850-dat]] - [[gensys-logic-dat]] - [[GL3520-dat]] - [[GL823-dat]] - [[USB-hub-dat]] - [[USB-3.0-dat]]
+
+
+
 - [[superspeed-dat]]
 
 ## Key Functions and Features
@@ -13,3 +18,9 @@ USB 3.0, also known as SuperSpeed USB, introduced several significant improvemen
 *   **Increased Power Output:** Standard USB 3.0 ports can deliver more power to connected devices (up to 900mA compared to 500mA for USB 2.0), enabling faster charging for compatible devices and better support for power-hungry peripherals without needing an external power adapter.
 *   **Backward Compatibility:** USB 3.0 ports are designed to be backward compatible with USB 2.0 and USB 1.1 devices. When a slower device is connected to a USB 3.0 port, it will operate at the slower speed. Similarly, a USB 3.0 device connected to a USB 2.0 port will operate at USB 2.0 speeds.
 *   **New Physical Connections:** While maintaining compatibility with USB Type-A connectors (often colored blue to distinguish them), USB 3.0 introduced new connector types like USB 3.0 Micro-B for certain devices.
+
+
+
+## ref 
+
+

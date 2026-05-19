@@ -115,6 +115,8 @@ note the [[RS232-dat]] interface should be twisted, wire as TX-RX and RX-TX
 
 ## ref 
 
+- [[gas-discharge-tube-dat]] - [[BOM-dat]]
+
 - [[NWI1254-fab]]
 
 - [[NWI1254]] - [[NWI1252]]

@@ -127,6 +127,17 @@ ref
 
 - use log see here - [[MPC1073-test-log-dat]] - [[RMP-driver-setup-dat]] - [[RMP-driver-cmd-dat]]
 
+
+## trouble shooting 
+
+- plug board into the INPUT port of [[HUB75-dat]], not the OUTPUT port 
+- double check the plugin directions 
+- double check the pin definitions in the code, and make sure they are correct for your wiring
+- make sure code is running properly if you are using system like [[ESP32-dat]]
+- for certain board the panel chips are not supported, please read the board wiki page for details.
+- 
+
+
 ## ref
 
 - [[RPI-dat]] - [[RMP-driver]]

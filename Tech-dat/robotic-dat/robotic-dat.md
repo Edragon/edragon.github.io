@@ -2,7 +2,7 @@
 
 # robotic-dat
 
-- [[robot-dat]] 
+- [[robot-dat]] - [[AI-dat]]
 
 
 
@@ -13,6 +13,8 @@
 - [[Quadruped-Locomotion-dat]]
 
 - quadruped
+
+
 
 ## Electronics 
 

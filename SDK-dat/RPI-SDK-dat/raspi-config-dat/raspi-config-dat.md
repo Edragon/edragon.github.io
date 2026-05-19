@@ -12,6 +12,8 @@ cmd: raspi-config
 
 - [[serial-dat]] 
 
+## network 
+
 
 ## ref 
 

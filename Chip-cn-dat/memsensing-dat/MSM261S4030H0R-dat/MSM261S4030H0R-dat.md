@@ -1,8 +1,7 @@
 
-# 
+# MSM261S4030H0R-dat
 
-
-
+- [[memsensing-dat]] - [[sensor-microphone-dat]]
 
 - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-I2S]]
 

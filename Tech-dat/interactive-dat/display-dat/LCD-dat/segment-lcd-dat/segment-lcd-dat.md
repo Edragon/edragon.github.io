@@ -1,7 +1,15 @@
 
 # segment-lcd-dat
 
-- [[ILC1066-dat]] - [[ILC1067-dat]]
+- [[segment-lcd-dat]] - [[ILC1066-dat]] - [[ILC1067-dat]]
+
+- [[DOD1074-dat]]
+
+- [[HT1621-dat]]
+
+legacy wiki page 
+- https://www.electrodragon.com/w/Segment_LCD
+- https://www.electrodragon.com/w/HT1621
 
 
 
@@ -9,7 +17,7 @@
 
 AY0438 - 32-Segment CMOS LCD Driver
 
-- [[HT1621-dat]] - [[ILC1067-dat]] - [[ILC1066-dat]] 
+- [[HT1621-dat]] - [[ILC1067-dat]] - [[ILC1066-dat]] - [[holtek-dat]]
 
 
 
@@ -18,6 +26,10 @@ AY0438 - 32-Segment CMOS LCD Driver
 
 ![](2024-07-07-12-25-34.png)
 
+
+## pins 
+
+![](2026-05-15-00-25-52.png)
 
 ## UA level power consumption 
 
