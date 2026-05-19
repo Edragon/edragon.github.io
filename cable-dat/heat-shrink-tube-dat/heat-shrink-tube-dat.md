@@ -2,6 +2,10 @@
 # heat-shrink-tube-dat
 
 
+## for battery insulation and protection
+
+![](2026-05-20-00-59-03.png)
+
 ## color 
 
 - transparent 

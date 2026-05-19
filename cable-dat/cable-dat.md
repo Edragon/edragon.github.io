@@ -1,7 +1,7 @@
 
 # cable-dat
 
-- [[AWG-wires-dat]] - [[cable-warp-dat]]
+- [[cable-AWG-dat]] - [[cable-warp-dat]]
 
 - [[cable-power-dat]] - [[cable-USB-dat]]
 
@@ -30,7 +30,7 @@
 
 - [[ribbon-cable-dat]] - [[usb-cable-dat]]
 
-- [[flywire-dat]] - [[jumper-wire-dat]] - [[AWG-wires-dat]]
+- [[flywire-dat]] - [[jumper-wire-dat]] - [[cable-AWG-dat]]
 
 
 
