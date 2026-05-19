@@ -7,27 +7,27 @@ Robot tank battery
 
 3x 3000mAH x 3.7 == 33.3 Wh / 12.5V == **2.66 Ah (2660 mAh)
 
-![](../../battery-rechargerable-app-dat/2025-03-28-15-59-52.png)
+![](../battery-rechargerable-app-dat/2025-03-28-15-59-52.png)
 
-![](../../battery-rechargerable-app-dat/2025-03-28-16-00-03.png)
+![](../battery-rechargerable-app-dat/2025-03-28-16-00-03.png)
 
 
 
 for electric-bike, electric-kart, electric-scooter, electric-skateboard, etc
 
-![](../../battery-rechargerable-app-dat/2025-04-03-18-42-45.png)
+![](../battery-rechargerable-app-dat/2025-04-03-18-42-45.png)
 
 - [[power-tools-dat]] - [[Electric-tools-battery-dat]]
 
 3x 18650 
 
-![](../../battery-rechargerable-app-dat/2025-09-10-21-35-20.png)
+![](../battery-rechargerable-app-dat/2025-09-10-21-35-20.png)
 
-![](../../battery-rechargerable-app-dat/2025-09-10-21-35-39.png)
+![](../battery-rechargerable-app-dat/2025-09-10-21-35-39.png)
 
 power tool battery == 3S=3P/6P/6P == 15 batteries
 
-![](../../battery-rechargerable-app-dat/2023-11-08-16-40-20.png)
+![](../battery-rechargerable-app-dat/2023-11-08-16-40-20.png)
 
 - [[battery-pack-dat]]
 
@@ -36,11 +36,11 @@ single-unit large battery
 
 48V / 200AH
 
-![](../../battery-rechargerable-app-dat/2025-03-04-17-42-39.png)
+![](../battery-rechargerable-app-dat/2025-03-04-17-42-39.png)
 
 3S10P == 30 batteries == 12V 30000 mAH 
 
-![](../../battery-rechargerable-app-dat/2025-09-10-22-03-23.png)
+![](../battery-rechargerable-app-dat/2025-09-10-22-03-23.png)
 
 3S5P == 15 batteries == 12V 15000 mAH 
 
