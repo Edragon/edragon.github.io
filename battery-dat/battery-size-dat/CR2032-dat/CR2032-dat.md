@@ -12,4 +12,4 @@ This current is ideal for low-power devices like remote controls, medical device
 
 ## ref 
 
-- [[battery-size-dat]]
+- [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]]

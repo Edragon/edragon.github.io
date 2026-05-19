@@ -83,7 +83,7 @@ Time = 5000 mAh ÷ 500 mA = 10 hours
 
 ## Car Sedan Lead-Acid battery 
 
-- [[lead-acid-battery-dat]]
+- [[Lead-acid-battery-dat]]
 
 - Typical Voltage (V): 12 V
 - Typical Capacity Range (Ah): 40 Ah to 70 Ah

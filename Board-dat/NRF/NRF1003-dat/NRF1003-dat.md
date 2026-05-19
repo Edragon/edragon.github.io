@@ -18,7 +18,7 @@ note - install and prepare [[CR2032-dat]] coin battery before starting to use.
 
 on board chip refer to [[EV1527-dat]]
 
-- [[battery-size-dat]] - [[battery-dat]]
+- [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]] - [[battery-dat]]
 
 ![](2026-05-14-18-57-03.png)
 

@@ -2,7 +2,7 @@
 # battery-holder-AA-dat
 
 
-- [[battery-AA-dat]] - [[battery-size-dat]]
+- [[battery-AA-dat]] - [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]]
 
 
 - [[battery-holder-dat]] - [[18650-battery-holder-dat]] - [[AA-battery-holder-dat]]

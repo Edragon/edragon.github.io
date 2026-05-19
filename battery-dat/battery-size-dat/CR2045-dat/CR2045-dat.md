@@ -12,4 +12,4 @@ The CR2450 lithium coin cell battery supports higher discharge currents than sma
 
 ## ref 
 
-- [[battery-size-dat]]
+- [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]]

@@ -53,7 +53,7 @@
 
 - [[battery-BMS-dat]] 
 
-- [[battery-pack-dat]] - [[26650-dat]] - [[18650-dat]] 
+- [[battery-pack-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]]
 
 - [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
 

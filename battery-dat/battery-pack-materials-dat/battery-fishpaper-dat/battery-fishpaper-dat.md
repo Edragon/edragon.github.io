@@ -2,7 +2,7 @@
 
 # battery-fishpaper-dat
 
-- [[18650-dat]] - [[battery-li-size-dat]]
+- [[battery-size-dat/18650-dat/18650-dat]] - [[battery-li-size-dat]]
 
 ![](2026-05-19-23-38-21.png)
 

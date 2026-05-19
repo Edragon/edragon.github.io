@@ -6,7 +6,7 @@
 
 - [[battery-li-dat]] - [[battery-LFP-dat]]
 
-- [[battery-li-size-dat]] - [[18650-dat]]
+- [[battery-li-size-dat]] - [[battery-size-dat/18650-dat/18650-dat]]
 
 - [[battery-protector-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]]
 
@@ -48,11 +48,11 @@
 
 ## Types 
 
-- [[Lead-Acid-Battery-dat]] - [[li-battery-dat]]
+- [[Lead-acid-battery-dat]] - [[li-battery-dat]]
 
 - [[LFP-dat]] 
   
-- [[NCA-dat]] - [[NCM-dat]] - [[Ternary-Lithium-Battery-dat]]
+- [[battery-NCM-NCA-dat/NCA-dat/NCA-dat]] - [[battery-NCM-NCA-dat/NCM-dat/NCM-dat]] - [[battery-NCM-NCA-dat/Ternary-Lithium-Battery-dat/Ternary-Lithium-Battery-dat]]
 
 
 ## ref 

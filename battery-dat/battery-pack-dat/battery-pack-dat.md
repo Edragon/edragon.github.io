@@ -7,7 +7,7 @@
 
 - [[battery-pack-dat]] - [[battery-pack-kit-dat]]
 
-- [[battery-pack]]
+- [[battery-pack]] - [[battery-li-size-dat]]
 
 - in the pack including [[BMS-dat]]
 
@@ -42,7 +42,7 @@
 
 - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - [[battery-5s-dat]] - [[battery-6s-dat]] - [[battery-7s-dat]] - [[battery-10s-dat]] - [[battery-13s-dat]] - [[battery-14s-dat]]
 
-- [[battery-size-dat]] - [[battery-holder-dat]]
+- [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]] - [[battery-holder-dat]]
 
 If your device needs a peak of 40 Watts:
 
@@ -308,11 +308,9 @@ In series packs, **the smallest parallel group determines the usable capacity**.
 
 
 
-## build 
+## APPs 
 
-![](2026-02-13-13-41-23.png)
-
-
+![](2026-05-19-23-45-52.png)
 
 ## ref 
 

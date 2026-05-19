@@ -1,5 +1,5 @@
 
-# battery-li-size-dat
+# battery-size-dat
 
 
 - [[soldering-tools-spot-welding-dat]]

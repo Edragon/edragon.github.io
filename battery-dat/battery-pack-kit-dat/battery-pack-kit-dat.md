@@ -21,6 +21,13 @@
 
 - [[battery-pack-dat]] - [[battery-pack-kit-dat]]
 
+
+
+## build 
+
+![](2026-02-13-13-41-23.png)
+
+
 ## 3S7P == 12V 8400 mAH == 12V 8.4 AH 
 
 ![](2025-09-11-15-03-27.png)

@@ -31,12 +31,12 @@
 ## types 
 
 
-- [[battery-size-dat]] - [[18650-dat]] - [[18350-dat]] - [[26650-dat]] - [[14450-dat]]
+- [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]] - [[18650-dat]] - [[18350-dat]] - [[26650-dat]] - [[14450-dat]]
 
 
 - [[battery-dat]] 
 
-- [[battery-rechargerable-dat]] - [[lead-acid-battery-dat]] - [[battery-LFP-dat]] - [[battery-NCM-NCA-dat]]
+- [[battery-rechargerable-dat]] - [[Lead-acid-battery-dat]] - [[battery-LFP-dat]] - [[battery-NCM-NCA-dat]]
 
 - [[battery-protection-dat]]
 
