@@ -21,7 +21,7 @@
 
 - [[battery-pack-dat]] - [[battery-pack-kit-dat]]
 
-
+- [[battery-li-dat]]
 
 ## build 
 

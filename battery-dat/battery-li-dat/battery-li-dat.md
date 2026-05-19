@@ -6,7 +6,7 @@
 
 ## info 
 
-- [[BMS-dat]] - [[battery-charger-dat]]
+- [[battery-BMS-dat]] - [[battery-charger-dat]]
 
 - [[battery-soldering-dat]]
 
@@ -335,4 +335,4 @@ Unprotected cells: Require careful handling but are often used in custom battery
 
 ## ref 
 
-- [[lithium-battery]]
+- [[battery-li]] - [[battery]]
