@@ -1,8 +1,11 @@
 
-# li-battery-size-dat
+# battery-li-size-dat
 
 
 - [[soldering-tools-spot-welding-dat]]
+
+- [[32140-dat]] == 3.2V 15AH
+
 
 - [[32125-dat]]
 
@@ -30,3 +33,5 @@
 ## ref 
 
 - [[18650]]
+
+- [[battery-li-size]] - [[battery]]

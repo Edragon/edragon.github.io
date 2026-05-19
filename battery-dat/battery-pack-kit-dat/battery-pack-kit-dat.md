@@ -3,6 +3,8 @@
 
 - [[battery-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-pack-kit-dat]]
 
+- [[battery-tools-dat]] - [[battery-pack-materials-dat]]
+
 - [[BMS-active-dat]] - [[BMS-passive-dat]]
 
 - [[case-dat]]
@@ -107,3 +109,5 @@
 ## ref 
 
 - [[battery-pack-dat]]
+
+- [[battery]] - [[battery-pack-kit]]
