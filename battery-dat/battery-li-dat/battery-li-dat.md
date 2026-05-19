@@ -17,7 +17,7 @@
 
 - [[battery-li-dat]] - [[battery-1s-dat]]
 
-
+- [[battery-pack-dat]]
 
 ## battery li types 
 

@@ -3,13 +3,15 @@
 
 
 
-- [[battery-holder-dat]] - [[18650-battery-holder-dat]] - [[battery-holder-AA-dat]]
+- [[battery-holder-dat]] - [[battery-holder-18650-dat]] - [[battery-holder-AA-dat]]
 
-- [[battery-pack-dat]] - [[battery-pack-kit-dat]]
+- [[battery-pack-dat]] - [[battery-pack-kit-dat]] - [[battery-pack-materials-dat]]
 
-- [[battery-pack]] - [[battery-li-size-dat]]
+- [[battery-pack]] - [[battery-size-dat]] - [[battery-li-dat]]
 
-- in the pack including [[BMS-dat]]
+- [[battery-pack-materials-dat]] - [[battery-holder-pack-dat]]
+
+- in the pack including [[battery-BMS-dat]]
 
 
 
@@ -42,7 +44,7 @@
 
 - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]] - [[battery-4s-dat]] - [[battery-5s-dat]] - [[battery-6s-dat]] - [[battery-7s-dat]] - [[battery-10s-dat]] - [[battery-13s-dat]] - [[battery-14s-dat]]
 
-- [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]] - [[battery-holder-dat]]
+- [[battery-size-dat]] - [[battery-holder-dat]]
 
 If your device needs a peak of 40 Watts:
 
