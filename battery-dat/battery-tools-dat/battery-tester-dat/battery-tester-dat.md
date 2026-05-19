@@ -1,6 +1,6 @@
 # battery-tester-dat
 
-- [[battery-dat]]
+- [[battery-dat]] - [[battery-tester-dat]] - [[battery-tools-dat]]
 
 ## testing tools 
 

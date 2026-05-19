@@ -6,8 +6,11 @@
 
 - [[battery-pack-dat]]
 
+- [[Coulomb-Meter-dat]]
 
+- [[battery-drainer-dat]]
 
+- [[Kelvin-Clamp-dat]]
 
 ### charger 
 

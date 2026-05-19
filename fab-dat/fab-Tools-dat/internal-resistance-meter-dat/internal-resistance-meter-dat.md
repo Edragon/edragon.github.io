@@ -1,6 +1,6 @@
 # internal-resistance-meter-dat
 
-- [[internal-resistance-dat]] - [[resistor-dat]]
+- [[battery-tools-dat]] - [[internal-resistance-dat]] - [[resistor-dat]]
 
 
 ## Hioki Resistance Tester (Digital Low Resistance Tester / Micro-ohmmeter)
@@ -29,7 +29,7 @@ A professional instrument for precise measurement of low or high-precision resis
 
 - [[multimeter-dat]]
 
-UT70A
+UT70Acapa
 
 ![](2025-08-19-23-51-26.png)
 
