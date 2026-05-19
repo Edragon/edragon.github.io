@@ -6,7 +6,10 @@
 
 - [[battery-LFP-20S-dat]] - [[battery-LFP-pack-dat]]
 
-## 20S2P 
+== 3.2V * 20 = 64V
+
+
+## 20S-2P 
 
 ![](2026-05-16-01-54-18.png)
 

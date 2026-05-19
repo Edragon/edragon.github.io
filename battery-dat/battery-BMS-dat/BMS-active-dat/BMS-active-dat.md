@@ -3,6 +3,15 @@
 
 - [[battery-pack-dat]]
 
+- Overcharge Protection
+- `Active Balancing Voltage`
+- Over-discharge Voltage Protection
+- Over-discharge Current Protection
+- Short Circuit Protection
+- Temperature Control Protection
+
+![](2026-05-20-03-40-37.png)
+
 # active-battery-balancing-board-dat
 
 An **active battery balancing board** for lithium batteries ensures that all cells in a battery pack maintain the same voltage level during charging and discharging. It actively redistributes energy between cells, transferring charge from higher-voltage cells to lower-voltage ones. This helps:
@@ -18,13 +27,13 @@ This is especially important in applications like electric vehicles, power tools
 
 ## capacitive type active BMS 
 
-- 电容式主动均衡板
-- 修电池组压差·
-- 恢复电池组容量·
-- 延长电池组寿命
-- 24小时不间断·
-- 自动启动·
-- 整体均衡
+- Capacitive Active Balancing Board
+- Fixes battery pack voltage differential
+- Restores battery pack capacity
+- Extends battery pack lifespan
+- 24/7 continuous operation
+- Automatic startup
+- Overall balancing
 
 
 ![](2025-08-19-19-19-06.png)
@@ -48,7 +57,7 @@ For stable discharge, 2 series and 4 parallel (2S4P) are required, and attention
 - When welding the battery for the first time, you need to charge it first to get output. Strictly follow the diagram to connect 0V, 4.2V, and 8.4V. When welding wires, do not touch any components on the board, and do not intentionally short-circuit.
 - When welding the battery for the first time or while charging, as long as any single cell exceeds 4.2V, the "430" resistor will heat up to discharge (discharge stops when it drops to about 4.19V). If the "430" resistor becomes very hot (too hot to touch), please check if the wiring is incorrect.
 
-#### 故障处理：
+#### Troubleshooting:
 
 | Fault Phenomenon         | Fault Check & Cause                                                                                   |
 |--------------------------|------------------------------------------------------------------------------------------------------|

@@ -64,6 +64,11 @@ so for high current, always GOOD to use higher voltage pack
 4. **Verification**: After wiring, measure the voltage between each pair of adjacent balance pins. For Li-Po, it should be $<$ 4V; for LiFePO4, it should be $<$ 3.5V. Once verified, plug in the connector, then connect the charger and load negatives to C-. Use thick wires for B- and C- connections. The sequence is vital, regardless of wire colors.
 5. **Final Check**: Measure the total battery pack voltage versus the BMS output voltage. They must be equal for the protection board to be considered working normally.
 
+
+## wiring 
+
+![](2026-05-20-03-43-35.png)
+
 ![](2026-05-20-03-27-21.png)
 
 

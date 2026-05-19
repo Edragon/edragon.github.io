@@ -1,5 +1,8 @@
 
-# battery-LFP-dat
+# battery-li-LFP-dat
+
+
+- [[battery-LFP-20S-dat]]
 
 
 - [[battery-NCM-NCA-dat]] - [[battery-LFP-dat]]
