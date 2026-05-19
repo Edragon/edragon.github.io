@@ -1,6 +1,8 @@
 
 # BMS-active-dat
 
+- [[battery-pack-dat]]
+
 # active-battery-balancing-board-dat
 
 An **active battery balancing board** for lithium batteries ensures that all cells in a battery pack maintain the same voltage level during charging and discharging. It actively redistributes energy between cells, transferring charge from higher-voltage cells to lower-voltage ones. This helps:

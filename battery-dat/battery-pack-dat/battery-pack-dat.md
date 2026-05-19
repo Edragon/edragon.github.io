@@ -56,6 +56,15 @@ If your device needs a peak of 40 Watts:
 so for high current, always GOOD to use higher voltage pack 
 
 
+## Build Rules
+
+1. **Battery Matching**: Before installing the protection board (BMS), the batteries must be well-matched (voltage difference $\le$ 0.05V, internal resistance difference $\le$ 5m$\Omega$, capacity difference $<$ 30mAh). If the voltage is too high during power-up, the BMS may trigger protection and fail to operate. If cells are fully charged, discharge them to the required level before connecting the BMS. Batteries should be connected in parallel first, then in series.
+2. **Wiring Sequence**: Connect the B- wire to the main battery negative terminal first (use a short, thick wire for B-). Then connect the balance wires. **Crucial**: Unplug the balance wire connector from the BMS before soldering them to the pack.
+3. **Balance Wires**: Start from BC0 (connected to the main battery negative). BC1 connects to the positive terminal of the first cell series, BC2 to the second, BC3 to the third, and so on.
+4. **Verification**: After wiring, measure the voltage between each pair of adjacent balance pins. For Li-Po, it should be $<$ 4V; for LiFePO4, it should be $<$ 3.5V. Once verified, plug in the connector, then connect the charger and load negatives to C-. Use thick wires for B- and C- connections. The sequence is vital, regardless of wire colors.
+5. **Final Check**: Measure the total battery pack voltage versus the BMS output voltage. They must be equal for the protection board to be considered working normally.
+
+![](2026-05-20-03-27-21.png)
 
 
 ## battery pack examples 
@@ -248,12 +257,11 @@ How it ruins other paralleled batteries:
 ![](2025-07-23-19-32-32.png)
 
 
-## 分容
+## Capacity Grading (Testing)
 
-先并联充好电，再串联24串一组 恒流放电，需要接个极空保护板计量容量，每次触发保护时标计一个单体的容量， 并移走替换满电的，直到一轮一轮的测完
+First, connect the cells in parallel and charge them fully. Then connect them in series (e.g., in groups of 24) and perform constant current discharge. You will need a BMS (like JK BMS) to measure capacity. Each time a cell triggers protection (low voltage), mark its capacity, remove/replace it, and continue until all cells have been tested.
 
-
-分容可以有这个:  EBC-A10H 电池容量测试仪 充放电仪 电子负载 电源测试 5A充10A放
+Recommended tool: **EBC-A10H** Battery Capacity Tester (Charge/Discharge, Electronic Load, 5A Charge / 10A Discharge).
 
 
 YR1035+
