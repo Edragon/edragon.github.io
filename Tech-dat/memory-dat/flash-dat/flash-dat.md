@@ -94,7 +94,14 @@ They vary by **capacity**, **voltage**, **speed**, and **features** like Dual/Qu
 | **W25Q64JV**  | 64 Mbit  | 2.7–3.6V| Standard/Dual/Quad SPI       |
 | **W25Q128JV** | 128 Mbit | 2.7–3.6V| XIP, dual/quad SPI support   |
 | **W25Q256JV** | 256 Mbit | 2.7–3.6V| Larger firmware/data storage |
+ 
+- 25Q40 = 4 Mb = 512 KB
+- 25Q80 = 8 Mb = 1 MB
 
+- 25Q16 = 16 Mb = 2 MB
+- 25Q32 = 32 Mb = 4 MB
+- 25Q64 = 64 Mb = 8 MB
+- 25Q128 = 128 Mb = 16 MB
 
 
 ## un-sort 

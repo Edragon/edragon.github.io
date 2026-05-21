@@ -9,7 +9,7 @@
 
 - [legacy wiki page](https://w.electrodragon.com/w/STM32_OFF-PROG)
 
-
+- [[tech-dat]] - [[flash-dat]]
 
 ## Usage 
 

@@ -7,6 +7,9 @@
 
 ### Board Map, Dimension, Pins, etc.
 
+- [[STH1065-dat]] - [[STH1066-dat]] - [[STH1067-dat]] - [[MLX90614-dat]] - [[sensor-camera-dat]] - [[camera-thermal-dat]]
+
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video

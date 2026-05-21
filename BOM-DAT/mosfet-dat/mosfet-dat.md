@@ -20,6 +20,8 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[dual-mosfet-dat]]
 
 
+- [[3400-dat]] - [[3401-dat]]
+
 similar  
 
 - [[SCR-dat]] - [[triac-dat]] - [[thyristor-dat]]

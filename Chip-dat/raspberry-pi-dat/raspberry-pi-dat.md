@@ -3,7 +3,7 @@
 
 == [[RPI-dat]]
 
-
+- [[RPI-MCU-dat]] - [[RPI-SBC-dat]]
 
 - [[rpi-pin-dat]]
 
@@ -14,9 +14,7 @@
 
 ## chips 
 
-- [[RP2040-dat]] 
-
-- [[RP2350-dat]]
+- [[RP2040-dat]]  - [[RP2350-dat]]
 
 ## ref 
 

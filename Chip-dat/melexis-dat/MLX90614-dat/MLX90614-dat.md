@@ -18,7 +18,8 @@ datasheet - [[MLX90614-Datasheet-Melexis.pdf]]
 
 ## App. 
 
-- [[STH1065-dat]] - [[STH1066-dat]] - [[STH1067-dat]]
+
+- [[STH1065-dat]] - [[STH1066-dat]] - [[STH1067-dat]] - [[MLX90614-dat]] - [[sensor-camera-dat]] - [[camera-thermal-dat]]
 
 
 ## ref 
