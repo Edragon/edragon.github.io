@@ -14,12 +14,21 @@
 ## Usage 
 
 
-![](2024-03-22-16-32-57.png)
 
+![](2026-05-21-15-20-32.png)
 
+green: 
 
-- hold down PB0=OFF button and plug in USB cable into OFFLINE mode 
-- hold down PB1=ON button and plug in USB cable into  ONLINE mode 
+- hold down `PB0=OFF` button and plug in `USB cable` into OFFLINE mode 
+- hold down `PB1=ON` button and plug in `USB cable` into  ONLINE mode 
+
+- right-down button == reset 
+
+LED indicator == PB8 PB9 
+
+cyan == programming port 
+
+purple == target board connection 
 
 ### online mode 
 
