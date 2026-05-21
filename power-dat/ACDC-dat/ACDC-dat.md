@@ -16,10 +16,7 @@
 
 - [[transformer-dat]]
 
-- [[power-protection-dat]]
-
-
-
+- [[protection-power-dat]]
 
 
 ## Modules 
@@ -30,6 +27,7 @@
 
 - [[OPM1068-dat]]
 
+- [[OPM1178-dat]]
 
 
 ## output 
