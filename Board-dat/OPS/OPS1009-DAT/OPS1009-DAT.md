@@ -9,7 +9,10 @@
 
 ### R3 - polycrystalline silicon solar panel
 
-135 x 76 mm / Output 5V / 300mA / 1.5W
+- 135 x 76 mm 
+- Output 5V 
+- 300m
+- 1.5W
 
 ![](2024-01-16-18-29-03.png)
 
@@ -18,6 +21,12 @@
 ![](2024-01-16-18-29-43.png)
 
 ![](2024-01-16-18-30-00.png)
+
+
+- [[solar-panel-dat]] - [[solar-panel-wiring-dat]]
+
+
+
 
 ### R2 - PET laminated Board
 

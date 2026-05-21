@@ -1,10 +1,15 @@
 
 # solar-panel-dat
 
+- [[solar-panel-busbar-dat]] - [[solar-charge-controller-dat]]
+
+- [[solar-panel-wiring-dat]]
 
 - [[OPS1009-dat]]
 
 - [[MPPT-dat]] - [[solar-charge-controller-dat]]
+
+
 
 #### 1. Solar Panels
 

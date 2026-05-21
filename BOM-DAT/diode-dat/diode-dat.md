@@ -7,6 +7,7 @@
 
 - [[diode-bridge-rectifier-dat]]
 
+- [[diode-dat]] - [[1N4007-dat]] 
 
 brand - [[st-dat]]
 
