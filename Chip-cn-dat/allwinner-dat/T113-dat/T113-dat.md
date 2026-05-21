@@ -1,7 +1,7 @@
 
 # T113-dat.md
 
-- [[thermal-imaging-camera-dat]]
+- [[Thermal-imaging-camera-dat]]
 
 - [[D1-S-dat]]
 

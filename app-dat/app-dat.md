@@ -20,7 +20,7 @@
 
 - [[EDC-dat]] - [[OBD-dat]]
 
-- [[weight-dat]]
+- [[weight-dat]] - [[camera-thermal-dat]]
 
 ## Domestic Appliances 
 

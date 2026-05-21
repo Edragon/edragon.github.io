@@ -1,7 +1,9 @@
 
 # surveillance-dat
 
-- [[wifi-camera-dat]]
+
+- [[camera-wifi-dat]] - [[camera-surveillance-dat]] - [[camera-thermal-dat]]
+
 
 
 ## the ideas 

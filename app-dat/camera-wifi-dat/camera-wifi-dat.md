@@ -1,7 +1,7 @@
 
-# wifi-camera-dat
+# camera-wifi-dat.md
 
-
+- [[camera-wifi-dat]] - [[camera-surveillance-dat]] - [[camera-thermal-dat]]
 
 
 - Widely used in IoT:
