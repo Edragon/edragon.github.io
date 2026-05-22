@@ -262,6 +262,18 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 
 
+
+## MOSFET SOP-8
+
+The `AM9435` is the P-Channel logic enhancement mode power field effect transistor is produced using high cell density, advanced trench technology to provide excellent RDS(ON).
+
+This device is suitable for use as a load switch or in PWM and gate charge for most of the synchronous buck converter applications.
+
+The AM9435 is available in SOP8 Package
+
+
+
+
 ## ref 
 
 - [[vishay-dat]]

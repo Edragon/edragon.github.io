@@ -7,7 +7,7 @@
 
 - [[RAM-dat]]
 
-
+- [[DDR-dat]] - [[memory-dat]]
 
 
 legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Memory
