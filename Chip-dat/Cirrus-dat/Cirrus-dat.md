@@ -49,6 +49,8 @@ Define CONFIG_I2S_BCK_PIN CONFIG_I2S_LRCK_PIN CONFIG_I2S_DATA_PIN as your connec
 
 ## CS5532 
 
+
+
 CS5531/32/33/34 - 16/24-Bit A/D Converters with Ultra-Low-Noise PGIA
 
 

@@ -112,7 +112,7 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 - [[AD-ADC-dat]] - [[analog-device-dat]]
 
-- [[cirrus-dat]]
+- [[cirrus-dat]] - [[CS553x-dat]]
 
 
 ## chips 

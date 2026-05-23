@@ -7,7 +7,9 @@ https://w.electrodragon.com/w/LED_Drive
 
 - [[constant-current-dat]]
 
+- [[SGM3752-dat]] - [[sg-micro-dat]] 
 
+- [[led-driver-dat]] - [[dcdc-boost-dat]]
 
 
 ## chip 

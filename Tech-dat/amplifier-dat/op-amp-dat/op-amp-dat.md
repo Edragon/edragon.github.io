@@ -68,6 +68,13 @@ OPA2277UA - OPAx277 High Precision Operational Amplifiers
 
 - [[TI-amp-dat]]
 
+
+TLC226x, TLC226xA - Advanced LinCMOS RAIL-TO-RAIL OPERATIONAL AMPLIFIERS
+
+The TLC2262 and TLC2264 are dual and quadruple operational amplifiers from Texas Instruments. 
+
+
+
 ## ref 
 
 - [[logic-dat]]
