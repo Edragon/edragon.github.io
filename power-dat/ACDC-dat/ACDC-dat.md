@@ -129,6 +129,21 @@ Chip Solutions
 
 
 
+## board 
+
+![](2026-05-23-17-50-45.png)
+
+- [[capacitor-X2-dat]] - [[capacitor-dat]]
+
+![](2026-05-23-17-52-42.png)
+
+- [[fuse-dat]]
+
+
+![](2026-05-23-17-54-08.png)
+
+
+- [[resistor-ICL-dat]] - [[resistor-dat]]
 
 ## ref 
 

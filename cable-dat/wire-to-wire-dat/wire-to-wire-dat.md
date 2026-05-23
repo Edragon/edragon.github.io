@@ -1,16 +1,14 @@
 
 # wire-to-wire-dat
 
-- [[CONN-cable-JST-dat]] 
+
+- [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]] - [[cable-JST-2P-dat]] - [[wire-to-wire-dat]]
 
 
 ## new type 
 
 - [[cable-XT-dat]]
 
-- [[cable-JST-dat]]
-
-- [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]]
 
 
 ## Common wire-2-wire

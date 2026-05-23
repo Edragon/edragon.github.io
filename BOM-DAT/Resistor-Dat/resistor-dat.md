@@ -12,7 +12,7 @@
 
 - [[resistor-dat]] - [[resistor-trim-pot-dat]] - [[resistor-feedback-dat]]
 
-
+- [[resistor-ICL-dat]] - [[resistor-dat]]
 
 Shunt Resistor:
 

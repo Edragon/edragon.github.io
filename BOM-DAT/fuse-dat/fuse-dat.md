@@ -3,6 +3,12 @@
 
 
 
+## AC fuse 
+
+- [[ACDC-dat]] 3.15A 
+
+![](2026-05-23-17-53-42.png)
+
 
 ## fuse-glass-seal-dat // 250V
 

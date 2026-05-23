@@ -11,7 +11,7 @@
 
 
 
-- [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]] - [[cable-JST-2P-dat]] 
+- [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]] - [[cable-JST-2P-dat]] - [[wire-to-wire-dat]]
 
 
 ## cable JST 

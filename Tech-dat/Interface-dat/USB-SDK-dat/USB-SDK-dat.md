@@ -36,6 +36,9 @@
 
 - [[USB-FC-dat]] - [[USB-PD-dat]] - [[USB-QC-dat]] - [[USB-PPS-dat]] - [[fast-charge-protocols-dat]]
 
+- [[USB-FC4-dat]] - [[USB-PD3-dat]] - [[fast-charge-protocols-dat]]
+
+- [[weltrend-dat]]
 
 ## USB functions and enhance 
 

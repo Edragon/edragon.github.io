@@ -1,7 +1,10 @@
 
 # capacitor-x-y-dat
 
+- [[capacitor-X2-dat]] - [[capacitor-dat]] - [[capacitor-x-y-dat]]
 
+
+![](2026-05-23-17-51-56.png)
 
 ## X - Y capacitor 
 

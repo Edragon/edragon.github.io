@@ -1,10 +1,19 @@
 
-# resistor-Inrush-dat
+# resistor-ICL-dat
 
 == PTC
 
 - [[resistor-dat]] - [[resistor-Inrush-dat]] - [[thermistor-dat]]
 
+
+	
+ICL 2.5 OHM 20% 5A 13MM == inrush current suppression
+
+![](2026-05-23-17-56-14.png)
+
+Power NTC Thermistor. The MF72 series Power NTC Thermistors provide inrush current suppression for sensitive electronics. Connecting a MF72 in series with the power source will limit the current surges typically created at turn on. Once the circuit is energized the resistance of the MF72 will decrease rapidly to a very low value, power consumption can be ignored and there will be no effect on normal operating current. Using the MF72 Power NTC
+
+Thermistor is a most cost-effective way to curb surge current and protect sensitive electronics from damage.
 
 
 
