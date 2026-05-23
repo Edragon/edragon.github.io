@@ -2,6 +2,10 @@
 # robot-dat
 
 
+- [[Jansen-Linkage-dat]] - [[robot-wind-powered-dat]]
+
+
+
 - [[robotics-mobile-dat]] - [[robot-dog-dat]] 
 
 - [[robotics-arm-dat]]
