@@ -6,7 +6,11 @@
 
 ## new type 
 
-- [[XT-dat]]
+- [[cable-XT-dat]]
+
+- [[cable-JST-dat]]
+
+- [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]]
 
 
 ## Common wire-2-wire
