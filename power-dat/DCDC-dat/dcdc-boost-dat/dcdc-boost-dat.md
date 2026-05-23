@@ -6,6 +6,7 @@
 legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
 
+
 - [[OPM1117-dat]] - [[OPM1013-dat]] - [[OPM1032-dat]] - [[OPM1089-dat]] - [[OPM1133-dat]] - [[OPM1137-dat]] - [[OPM1175-dat]]
 
 - [[cable-dat]] style - [[PCA1093-dat]] - [[PCA1094-dat]]
@@ -33,7 +34,9 @@ high power - [[OPMS080-dat]]
 
 - [[battery-dat]]
 
+- [[SGM3752-dat]] - [[sg-micro-dat]] 
 
+- [[led-driver-dat]] - [[dcdc-boost-dat]]
 
 
 ## compare 

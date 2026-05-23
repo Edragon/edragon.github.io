@@ -14,7 +14,7 @@
 
 3415 - [[mosfet-dat]]
 
-G7CLF - high voltage provider chip ? 
+G7CLF - high voltage provider chip - [[SG-micro-dat]] - [[SGM3752-dat]] 
 
 12W04 12W 04 - [[mosfet-dat]] - [[2N7002-dat]]
 
