@@ -273,6 +273,15 @@ The AM9435 is available in SOP8 Package
 
 
 
+## mosfet DFN 
+
+SSC8029GN2 - P-Channel Enhancement Mode MOSFET
+
+This device is produced with high cell density DMOS trench technology, uses advanced trench technology and design to provide excellent RDSON with low gate charge. This device particularly suits low voltage applications such as portable equipment, power management and other battery powered circuits, and low in-line power dissipation are needed in a very small outline surface mount package.
+
+
+![](2026-05-23-15-04-15.png)
+
 
 ## ref 
 

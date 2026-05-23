@@ -15,6 +15,22 @@
 
 - [[ETA9640-dat]]
 
+- [[ETA6980-dat]] - [[ETA-solutions-dat]]
+
+
+### ETA6986 
+
+![](2026-05-23-14-43-07.png)
+
+ETA6986 is a switching Li-Ion battery charger capable of delivering up to 5A of charging current to the battery and also capable of delivering up to 3A in boost OTG operation. 
+
+It employs a charge pump to achieve a very fast input OVP, a For charging, it uses a proprietary control scheme that eliminates the current sense resistor for constant current control, thereby improving efficiency and reducing costs. 
+
+It can also output a 5V voltage in the reversed direction by boosting from the battery. Therefore, it only needs a single inductor to provide power bi-directionally. 
+
+ETA6986 is truly an ideal solution controlled by MCU for battery charging and discharge applications, such as power banks, smart phones, and tablets with only one USB port that can be used for both charging battery and USB OTG function.
+
+
 ### ETA6096 
 
 ![](2026-04-14-20-13-14.png)

@@ -11,6 +11,13 @@
 - [[SMO1063-dat]] - [[SMO1016-dat]] - [[sensor-hall-dat]]
 
 
+## apps 
+
+### lid-close 
+
+![](2026-05-23-15-18-55.png)
+
+- [[GH1248-dat]]
 
 
 ## hall-switch-dat
@@ -104,7 +111,11 @@ hall sensor module
 ![](2026-03-02-20-54-07.png)
 
 
-
+## Applications
+- Solid State Switch
+- Handheld Wireless Handset Awake Switch
+- Lid close sensor for battery-powered devices 
+- Magnet proximity sensor for reed switch replacement in low duty cycle applications
 
 
 ## ref 
