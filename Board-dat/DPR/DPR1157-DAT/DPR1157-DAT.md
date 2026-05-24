@@ -13,9 +13,11 @@ STM32 offline programmer
 
 - [[tech-dat]] - [[flash-dat]]
 
-- [[STM32F103C8T6-dat]]
+- [[STM32F103C8T6-dat]] - [[OLED-raw-0.91-dat]] - [[IOD1011-dat]]
 
 - [[DPR1157]]
+
+
 
 ## Usage 
 
@@ -140,6 +142,7 @@ The file list;
 
 ## demo video 
 
+![](2026-05-24-20-56-22.png)
 
 ### programming STM32F103
 
