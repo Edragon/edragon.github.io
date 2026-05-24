@@ -13,6 +13,13 @@
 
 
 
+## used board 
+
+- [[DPR1157-dat]] - [[MPC1101-dat]]
+
+
+
+
 ## ref 
 
 - [[OLED-dat]]
