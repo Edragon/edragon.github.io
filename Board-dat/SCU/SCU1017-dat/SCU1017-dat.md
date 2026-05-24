@@ -9,9 +9,12 @@
 
 Motor speed detection, position detection, pluse counting, etc
 
-- [[speed-sensor-dat]]
+- [[sensor-speed-dat]] - [[sensor-dat]] - [[SCU1017-dat]]
+
+- [[ITR9608-dat]]
 
 ## demo 
+
 https://x.com/electro_phoenix/status/1663834069824868353
 
 

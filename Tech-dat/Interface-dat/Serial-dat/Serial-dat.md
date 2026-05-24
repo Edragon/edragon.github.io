@@ -61,6 +61,13 @@ from the perspective of the cable to the perspective of the target
 
 - [[holtek-dat]] - [[HT42B534-dat]]
 
+### FT232 vs CP2102 
+
+![](2026-05-24-22-06-41.png)
+
+
+
+
 ## Use case 
 
 
