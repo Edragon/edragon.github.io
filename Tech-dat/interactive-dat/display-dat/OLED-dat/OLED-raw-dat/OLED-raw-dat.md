@@ -1,47 +1,15 @@
 
 # OLED-raw-dat
 
-- [[OLED-raw-0.91-dat]] - [[OLED-raw-dat]] - [[OLED-dat]]
+- [[OLED-raw-0.91-dat]] - [[OLED-raw-0.96-dat]] - [[OLED-raw-1.3-dat]] - [[OLED-raw-dat]] - [[OLED-dat]]
+
+
 
 ## RAW OLED 
 
-### 0.91"
+- [[OLED-raw-0.91-dat]] - [[OLED-raw-0.96-dat]] - [[OLED-raw-1.3-dat]]
 
-- [[IOD1011-dat]]
-
-
-
-
-### 0.96"
-
-- [[IOD1012-dat]]
-
-![](2025-06-13-12-47-55.png)
-
-#### Specs
-
-![](2025-06-13-12-48-39.png)
-
-#### Pin Definitions, dimensions 
-
-![](2025-06-13-12-49-07.png)
-
-![](2025-06-13-12-49-32.png)
-
-### 1.3"
-
-
-![](2025-06-13-12-52-44.png)
-
-#### Specs 
-
-![](2025-06-13-12-53-14.png)
-
-#### Pin Definitions, dimensions
-
-![](2025-06-13-12-54-41.png)
-
-![](2025-06-13-12-55-00.png)
+- [[IOD1011-dat]] - [[IOD1012-dat]]
 
 
 
