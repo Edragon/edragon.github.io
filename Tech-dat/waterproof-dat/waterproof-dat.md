@@ -5,7 +5,7 @@
 
 
 
-- [[waterproof-connector-dat]]
+- [[CONN-waterproof-dat]]
 
 - [[motor-waterproof-dat]] - [[motor-dat]] - [[servo-waterproof-dat]]
 
@@ -18,6 +18,11 @@
 - [[glue-waterproof-dat]] - [[waterproof-tape-dat]] == 布基胶带 
 
 - [[Conformal-Coating-dat]] - [[protection-dat]]
+
+
+## design reference 
+
+- [[waterproof-design-dat]] - [[waterproof-container-dat]]
 
 
 
