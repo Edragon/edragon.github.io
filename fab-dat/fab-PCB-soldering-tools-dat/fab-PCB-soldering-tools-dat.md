@@ -1,7 +1,7 @@
 
 # fab-soldering-tools-dat
 
-- [[fab-soldering-dat]] - [[fab-soldering-tools-dat]]
+- [[fab-PCB-dat]] - [[fab-PCB-soldering-dat]] - [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-desoldering-dat]] - [[fab-soldering-materials-dat]]
 
 main tools 
 
@@ -10,6 +10,9 @@ main tools
 best accessoeries 
 
 - [[soldering-wick-dat]] - [[PSO1038-dat]]
+
+soldering iron rack - https://www.electrodragon.com/product/casting-metal-soldering-rack/ - [[PSOS010-dat]]
+
 
 
 - [[preheat-bed-dat]]

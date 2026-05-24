@@ -290,7 +290,12 @@
 
 - [[effects-dat]]
 
-- [[fab-dat]] - [[fab-PCB-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-workspace-dat]] - [[fab-3d-print-dat]] - [[fab-soldering-dat]]
+- [[fab-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-3d-print-dat]]
+
+- [[fab-workspace-dat]] 
+
+- [[fab-PCB-dat]] - [[fab-PCB-soldering-dat]] - [[fab-soldering-tools-dat]] - [[fab-PCB-desoldering-dat]] - [[fab-soldering-materials-dat]]
+
 
 - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-soldering-dat]] - [[footprint-dat]]
 

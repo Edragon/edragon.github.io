@@ -1,21 +1,19 @@
 
 # fab-workspace-dat
 
-- [[heatbed-dat]]
+
+
+## soldering 
+
+- [[fab-PCB-dat]] - [[fab-PCB-soldering-dat]] - [[fab-soldering-tools-dat]] - [[fab-PCB-desoldering-dat]] - [[fab-soldering-materials-dat]]
+
+
+
+## instruments 
 
 - [[multimeter-dat]] - [[UNI-Trend-dat]] == [[UT118B-dat]] - [[PTOS035-dat]]
 
-
-
-
-- [[power-dat]] - [[DC-barrel-jack-dat]]
-
-- [[hot-air-station-dat]] - [[hot-air-station]]
-
-- [[soldering-iron-dat]] 
-
-- [[preheat-bed-dat]]
-
+- [[power-dat]] - [[CONN-DC-barrel-jack-dat]]
 
 
 - [[microscope-dat]]
