@@ -1,7 +1,16 @@
 
-# soldering-tools-dat
+# fab-soldering-tools-dat
+
+- [[fab-soldering-dat]] - [[fab-soldering-tools-dat]]
+
+main tools 
 
 - [[soldering-iron-dat]] - [[soldering-tip-dat]] - [[soldering-station-dat]]
+
+best accessoeries 
+
+- [[soldering-wick-dat]] - [[PSO1038-dat]]
+
 
 - [[preheat-bed-dat]]
 
