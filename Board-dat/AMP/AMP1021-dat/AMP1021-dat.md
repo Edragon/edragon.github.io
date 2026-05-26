@@ -14,7 +14,9 @@
 
 test current max. at ~ 250mA - 300mA
 
+## board map 
 
+2x [[HT6872-dat]]
 
 ![](2023-11-06-16-41-29.png)
 
@@ -30,9 +32,12 @@ IN+ for single-end input, IN- to ground
 
 ## demo 
 
-Esp32 tone test with amplifier ht6872 #demo
+Esp32 tone test with amplifier [[ht6872-dat]] #demo
 
 https://t.me/electrodragon3/332
+
+
+
 
 ## ref
 

@@ -19,7 +19,7 @@
 
 - [[AMP1021-dat]] - [[AMP1000-dat]] - [[AMP1003-dat]]
 
-- [[AMP1017-dat]]
+- [[AMP1017-dat]] - [[AMP1021-dat]]
 
 ### ARM
 
