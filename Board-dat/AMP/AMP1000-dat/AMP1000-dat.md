@@ -13,7 +13,7 @@
 - 静音开关 = mute
 - 电源开关 = power on/off 
 
-
+- [[audio-dat]] - [[amplifier-audio-dat]]
 
 
 

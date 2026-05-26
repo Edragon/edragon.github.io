@@ -14,7 +14,7 @@
 
 - [[I2S-dat]] 
 
-- [[speaker-dat]] - [[headphone-dat]]
+- [[speaker-dat]] - [[headphone-amplifier-dat]]
 
 
 
