@@ -3,6 +3,7 @@
 
 https://www.electrodragon.com/product/raspberry-pi-5-hdmi-lcd-display-wtouch/
 
+
 ## The appearance 
 
 ![](50-10-17-31-07-2023.png)
@@ -15,7 +16,7 @@ https://www.electrodragon.com/product/raspberry-pi-5-hdmi-lcd-display-wtouch/
 ## ref 
 
 - [[ILC1041]]
-- please find driver in our git repository 
+- please find driver in our git repository - [[RPI-SDK-dat]]
 - size lcd and version compare [[RPI-LCD-dat]]
 
 
@@ -65,4 +66,6 @@ commands:
 
 ### 3) After executing the above command and waiting for a while, you can use the corresponding Raspberry PiLCD.
 
+
+## ref 
 

@@ -1,6 +1,6 @@
 # RPI-LCD-dat
 
-legacy wiki page - https://w.electrodragon.com/w/RPI_Display
+[legacy wiki page ](https://w.electrodragon.com/w/RPI_Display)
 
 
 ## specs
@@ -23,10 +23,18 @@ legacy wiki page - https://w.electrodragon.com/w/RPI_Display
 - USB power and HDMI cable for only 7'' LCD
 
 
+
+
+
+
+
 ## ref 
 
 - [[ILC1043]]
 
 - [[display-dat]]
 
-- [[RPI-dat]]
+- [[RPI-dat]] - [[RPI-SBC-dat]] - [[RPI-LCD-dat]]
+
+
+- [[RPI-SDK-dat]] - [[RPI-HDK-dat]] 
