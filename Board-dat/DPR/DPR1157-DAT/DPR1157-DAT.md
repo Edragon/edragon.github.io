@@ -65,8 +65,8 @@ please make sure to use a good quality USB-cable, a different USB cable to try i
 
 ### work flow 
 
-- please hold down PB1 into online mode, and copy your target bin file into the root folder
-- hold down PB0 and re-enter into offline mode
+- please hold down `PB1` into online mode, and copy your target bin file into the root folder
+- hold down `PB0` and re-enter into offline mode
 - connect the target board, and programmer should show "connected"
 - choose the target board config file, and choose target flashing bin file 
 - hit the "start" to program
@@ -78,8 +78,8 @@ please make sure to use a good quality USB-cable, a different USB cable to try i
 - PA14 = target SWCLK
 - PB8 LED status 1
 - PB9 LED status 2
-- PB1 = button to online mode
-- PB0 = button to offline mode
+- **PB1** = button to online mode
+- **PB0** = button to offline mode
 - SW1 = boot0 self programming button 
 
 output 
@@ -90,8 +90,8 @@ output
 
 ## folder setup 
 
-- IVES: board config files, keep it default 
-- KEYS: cryption files, normally no need
+- `IVES`: board config files, keep it default 
+- `KEYS`: cryption files, normally no need
 - all the programming bin file, leave in the root folder 
 
 
@@ -103,7 +103,9 @@ output
 
 ## Supported devices:
 
-| target family | target ROM memory size | file    |
+- download devices files at [[IVS.zip]], save folder IVS in the disk 
+
+| target family | target ROM memory size | file .V |
 | ------------- | ---------------------- | ------- |
 | STM32 F0xx    | all                    | F0XX    |
 | STM32 F10x    | 512K or less           | F10X_MD |
