@@ -15,6 +15,7 @@ in system programming
 
 - [[JTAG-dat]]
 
+- [[AVR-SDK-dat]]
 
 ## for 
 

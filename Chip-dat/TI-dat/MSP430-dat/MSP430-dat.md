@@ -11,6 +11,8 @@ MSP430 is a family of microcontrollers designed and manufactured by Texas Instru
 MSP430 devices can run up to 25Mhz and the active power consumption of the most capable MSP430 chip is less than 500µA per MHz - that can be lowered even less if you disable the perihperals that you don't use or if you set up the different sleep modes. This makes them perfect for portable and hand-held devices.
 
 
+- [[MSP430-SDK-dat]]
+
 ## ref 
 
 - [[ti-dat]] - [[mcu-dat]]
