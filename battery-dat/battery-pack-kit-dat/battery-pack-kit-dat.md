@@ -112,6 +112,9 @@
    - Improves overall safety of the battery pack by minimizing risks of electrical arcing, leakage, or thermal runaway propagation.  
 
 
+## supporting tools 
+
+![](2026-05-27-15-55-28.png)
 
 ## ref 
 

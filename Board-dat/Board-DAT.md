@@ -384,9 +384,7 @@ Quectel - Location
 
 - [[NGS1078-dat]]
 
-SIMCOM - Location - [[SIM868-dat]]
-
-- [[NGS1089-dat]]
+SIMCOM - Location - [[SIM868-dat]] - [[NGS1089-dat]]
 
 SIMCOM
 
