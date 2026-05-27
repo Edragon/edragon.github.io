@@ -2,6 +2,7 @@
 
 - [[ISP-dat]] - [[AVR-SDK-dat]]
 
+legacy wiki page == https://www.electrodragon.com/w/SP200S%2B_USB_ISP_Programmer_(For_Microcontroller,_EEPROM,_ICs,_MCUs)
 
 **Applications:** Supports programming of Atmel, Microchip, SST, ST, WINBOND series MCUs and EEPROMs (see the supported model list below).
 
@@ -11,9 +12,13 @@
 ![](2026-05-27-12-59-33.png)
 
 
-software - [[WLPRO_V220.zip]] pasword electrodragon.com
+software - [[WLPRO_V220.zip]] password electrodragon.com
 
 - [[MSP430-dat]] - [[STC-SDK-dat]]
+
+- [[AVR-SDK-dat]]
+
+- [[serial-dat]] driver - [[CH340-dat]]
 
 **Features:**
 1. Supports USB 1.1 or USB 2.0 communication.

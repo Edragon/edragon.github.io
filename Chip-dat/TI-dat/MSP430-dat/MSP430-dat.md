@@ -1,6 +1,12 @@
 
 # MSP430-dat
 
+
+- [[MSP430-SDK-dat]] - [[MSP430-dat]] - [[TI-dat]]
+
+- [[DOD1060-dat]]
+
+
 MIXED SIGNAL MICROCONTROLLER
 
 https://www.ti.com/lit/ds/symlink/msp430g2553.pdf?ts=1770797613953

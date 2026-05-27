@@ -36,8 +36,6 @@ V3 pin
 
 - [[WCH-Jiangsu-Qin-Heng-CH340.pdf]]
 
-- [[CH340SER.zip]]
-
 ## SCH 
 
 此电路用于用户连接系统调试中断使用，其功能为将TTL串口转换为USB接口，使得用户可以在电脑中连接该串口进行调试。
@@ -50,6 +48,35 @@ V3 pin
 
 如上图所示，该部分除了串口转USB外，还兼顾的系统的供电，用户通过Type-C线缆连接该调试口后，将同时为开发板供电。板上的5.1K电阻用于双头Type-C线缆识别从机，为其提供供电，如果R12,R13不焊接会导致使用双头Type-C线时板子没有供电。D2为TVS瞬态抑制二极管用于保护PCB板上原件，防止静电击穿原件。
 
+
+
+## driver 
+
+- [[CH340SER.zip]]
+
+
+![](2026-05-27-13-29-08.png)
+
+for win 7 only to uninstall 
+
+![](2026-05-27-13-30-02.png)
+
+for win 7 may need patch please note:
+
+- [[WIN7-64bit-patch.zip]] - [[WIN7-32bit-patch.zip]]
+
+**1. Windows 7 (32-bit System)**
+Before installing the driver:
+- Copy the `serenum.sys` file from the "WIN7-32-bit Driver Patch" folder to `C:\WINDOWS\system32\drivers`.
+- *Note: For Windows XP and Vista, you can install the driver directly without this patch.*
+
+**2. Windows 7 (64-bit System)**
+- Copy the entire "WIN7-64-bit Driver" folder to the C: drive (e.g., `C:\WIN7-64-bit-Driver`).
+- Connect the USB-to-Serial cable to the computer (do not connect the other end to the board yet).
+- Open **Device Manager**, find the cable (often appears as an unknown device or under "Other devices" with a question mark), right-click and select **Update Driver**.
+- Choose "Browse my computer for driver software" and point to the `DRIVER` subdirectory in your copied folder (e.g., `C:\WIN7-64-bit-Driver\DRIVER`) to complete the manual installation.
+
+*Note: If Windows detects the new hardware automatically, simply point the wizard to the `DRIVER` directory.*
 
 
 ## ref 
