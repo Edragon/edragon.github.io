@@ -100,7 +100,7 @@ CH32V003 - SOP8
 
 ### DPR
 
-- [[DPR1060-dat]]
+- [[DPR1060-dat]] - [[DPR1057-dat]]
 
 - [[DPR1009-dat]] - [[DPR1041-DAT]] - [[DPR1084-DAT]] - [[DPR1097-DAT]] - [[DPR1116-dat]] - [[DPR1150-DAT]] - [[DPR1120-dat]]
 
