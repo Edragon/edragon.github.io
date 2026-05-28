@@ -63,7 +63,7 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 
 ![](2026-05-28-11-46-36.png)
 
-- [[frequency-dat]] - [[27mhz-dat]]
+- [[frequency-dat]] - [[27mhz-dat]] - [[frequency-rc-dat]]
 
 ![](2026-05-28-11-48-44.png)
 

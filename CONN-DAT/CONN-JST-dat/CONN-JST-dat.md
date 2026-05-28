@@ -20,6 +20,8 @@ XHB2.54 connector, 2.54mm connector with buckle, straight pin, bent pin, socket,
 
 - [[XH2.54-dat]]
 
+JST-RCY 
+
 
 ## info 
 

@@ -4,6 +4,47 @@
 
 - [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]]
 
+## transmitter and receiver board 
+
+- [[27mhz-dat]] + [[40mhz-dat]] combination - [[RF-link-dat]]
+
+
+### kit wiring 
+
+![](2026-05-28-13-09-36.png)
+
+![](2026-05-28-13-14-06.png)
+
+- [[RC-controller-dat]] - [[RC-receiver-dat]]
+
+![](2026-05-28-13-11-15.png)
+
+
+
+- 27mhz 玩具车遥控器，频率一样才能用
+- 40mhz 玩具车遥控器，频率一样才能用
+- 49mhz 玩具车遥控器，频率一样才能用
+- 27mhz ，左右反方向，不带灯
+- 27mhz 遥控器 - 加车子电路板
+- 40mhz 遥控器 - 加车子电路板
+- 49mhz 遥控器 - 加车子电路板
+
+![](2026-05-28-13-13-01.png)
+
+
+带壳四通遥控器套装27mhz(含接收)，可以同时控制2个小电机转动(电机1和电机2正转与反转），可以使用它轻松自制遥控车等遥控模型。套装包含遥控器，接收板，天线，简单方便，收到即用。两种外壳颜色可选。
+【遥控器电压】：3V（2节5号AA电池）
+【接收板电压】：DC3-4.5V(推荐4.5V)
+【参考距离】：约10米
+【遥控频率】：27MHZ
+【输出电压】：输出3V电压，因此适配电压是3v的电机
+【接线方式】：红线+电源正极，黑线-电源负极，L与R字符处的2根线接一个电机，B和F字符处的2根线接一个电机，带圆环金属片的白线是天线（可以点击这里购买加强版天线）。L、R表示接线转向电机，B、F表示接线前后电机（输出电流大）
+【外壳尺寸】：约85*45*118mm
+【接收尺寸】：PCB板尺寸42*27.2mm
+>>可选配件：电容（焊接后可以提遥控器灵敏度）
+电池盒
+
+
 ## 27 MHz
 
 The 27 MHz band is legal in most, if not all, countries for use with all types of RCs. Subject to interference from adjacent CB Operation. Note:cheap toys seem to usually use Channel 4 if there is no channel stated.
