@@ -46,6 +46,29 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 ![](2025-12-06-13-55-25.png)
 
 
+
+## build 1 
+
+![](2026-05-28-11-45-05.png)
+
+- [[UTC3361-dat]] - [[UTC358-dat]] - [[LM358-dat]]
+
+![](2026-05-28-11-46-21.png)
+
+![](2026-05-28-11-45-35.png)
+
+![](2026-05-28-11-45-47.png)
+
+![](2026-05-28-11-46-06.png)
+
+![](2026-05-28-11-46-36.png)
+
+- [[frequency-dat]] - [[27mhz-dat]]
+
+![](2026-05-28-11-48-44.png)
+
+- [[CONN-power-dat]]
+
 ## propeller setup 
 
 - [[propeller-dat]]

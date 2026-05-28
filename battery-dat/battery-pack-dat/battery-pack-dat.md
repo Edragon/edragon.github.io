@@ -161,8 +161,6 @@ so for high current, always GOOD to use higher voltage pack
 | 14S2P         | 51.8V           | 58.8V                   |                    | Higher capacity                       |
 
 
-common apps - [[Electric-tools-dat]] - [[drone-battery-dat]]
-
 
 ## why one bad 18650 battery will ruin other paralled batteries 
 
@@ -328,6 +326,11 @@ In series packs, **the smallest parallel group determines the usable capacity**.
 ## APPs 
 
 ![](2026-05-19-23-45-52.png)
+
+common apps - [[Electric-tools-dat]] - [[drone-battery-dat]]
+
+- [[RC-apps-dat]]
+
 
 ## ref 
 

@@ -1,7 +1,7 @@
 
 # Conn-dat 
 
-- [[CONN-dat]] - [[cable-dat]]
+- [[CONN-dat]] - [[cable-dat]] - [[pitch-dat]]
 
 - [[conn-cable-terminal-dat]]
 

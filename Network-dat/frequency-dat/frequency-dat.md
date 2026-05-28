@@ -5,7 +5,7 @@
 - [[VSWR-dat]] - [[bands-dat]] - [[frequency-dat]]
 
 
-
+- [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]]
 
 - [[antenna-dat]] - [[antenna-spring-dat]]
 
@@ -13,6 +13,9 @@
 
 
 ## common frequency 
+
+- [[27mhz-dat]]
+
 
 - 315 - [[RF-dat]]
 - 868 915 == [[lora-dat]] - [[CDMA-dat]] - [[RFID-dat]]
