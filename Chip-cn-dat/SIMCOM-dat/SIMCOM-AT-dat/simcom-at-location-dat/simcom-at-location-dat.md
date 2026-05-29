@@ -1,6 +1,35 @@
 
 
-# SIMCOM AT GNSS
+# simcom-at-location-dat
+
+- [[NGS1089]]
+
+    AT+CGPSPWR=1 // [[SIM868-dat]]
+    AT+CGNSSPWR=1
+    AT+CGNSPWR=1
+
+rad back 
+
+    AT+CGNSINF // [[SIM868-dat]]
+    AT+CGPSINFO
+
+
+    AT+CGPSSTATUS?
+
+
+    AT+CGPSSTATUS?
+    +CGPSSTATUS: Location 3D Fix // [[SIM868-dat]]
+
+    OK
+
+
+
+    AT+CGPSPWR=1
+    OK
+
+    ... 
+
+    +CGNSPWR: 1
 
 
 ## A7670SA
@@ -80,6 +109,11 @@ my location: 22.571717,113.887426
 ## SIM868 
 
 ![](2025-03-14-15-27-07.png)
+
+AT+CGNSINF
++CGNSINF: 1,1,20260529110726.000,22.571769,113.886766,293.828,2.07,68.6,1,,1.4,1.7,1.0,,7,5,9,,36,,
+
+OK
 
 
 ## ref 

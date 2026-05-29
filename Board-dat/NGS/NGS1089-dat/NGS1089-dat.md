@@ -3,6 +3,8 @@
 
 - [[SIM868-dat]] - [[SIMCOM-dat]] - [[SIMCOM-AT-dat]]
 
+- [[antenna-active-dat]]
+
 legacy wiki page 
 
 - https://www.electrodragon.com/w/SIM868_Debug
@@ -51,6 +53,9 @@ Antenna Ports
     OK
 
     +CGNSPWR: 1
+
+- [[SIMCOM-AT-location-dat]]
+
 
 ## Note 
 R1.1 version slightly optimize board layout, all antenna connectors on same side.

@@ -4,7 +4,7 @@
 
 - [[NGS1089-dat]] - [[SIM868-dat]] - [[SIMCOM-dat]] - [[location-dat]]
 
-- [[SIMCOM-AT-DAT]] 
+- [[SIMCOM-AT-DAT]] - [[SIMCOM-AT-location-DAT]] 
 
 ![](2024-07-03-17-09-19.png)
 
