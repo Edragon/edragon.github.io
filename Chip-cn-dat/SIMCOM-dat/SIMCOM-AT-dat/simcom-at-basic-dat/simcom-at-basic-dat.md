@@ -6,9 +6,46 @@
 - [[simcom-at-sscom-dat.exe]] - preconfig == [[SSCOM51.ini]]
 
 
-
+tested == [[SIM868-dat]] - [[NGS1089-dat]]
 
 ## Basic 
+
+
+AT+CGMR
+Revision:1418B06SIM868M32_BT
+
+OK
+
+1418B06 SIM868 M32_BT 
+- 1418B06: Represents the firmware version/revision.
+- SIM868M32_BT: Indicates the specific module model and hardware configuration.
+
+AT+CGSN
+868298067490038
+
+OK
+
+AT+GMM
+SIMCOM_SIM868
+
+OK
+
+AT+GMI 
+SIMCOM_Ltd
+
+OK
+AT+GMR
+Revision:1418B06SIM868M32_BT
+
+OK
+AT+GSN
+868298067490038
+
+OK
+AT+CGMI
+SIMCOM_Ltd
+
+OK
 
 boot log 
 

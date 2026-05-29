@@ -4,6 +4,7 @@
 
 - [[NGS1089-dat]] - [[SIM868-dat]] - [[SIMCOM-dat]] - [[location-dat]]
 
+- [[SIMCOM-AT-DAT]] 
 
 ![](2024-07-03-17-09-19.png)
 
@@ -12,6 +13,9 @@
 ## Pin map 
 
 ![](2024-07-05-18-46-35.png)
+
+
+
 
 
 
