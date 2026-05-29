@@ -1,7 +1,7 @@
 
 # CONN-power-dat
 
-- [[conn-power-dat]] - [[cable-power-dat]]
+- [[conn-power-dat]] - [[cable-power-dat]] - [[pitch-dat]]
 
 - [[CONN-DC-barrel-jack-dat]]
 

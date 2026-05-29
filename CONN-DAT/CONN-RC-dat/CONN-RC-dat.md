@@ -1,0 +1,35 @@
+
+
+# CONN-RC-dat
+
+- [[molex-dat]] - [[51006-0200-dat]] - [[pitch-dat]] - [[CONN-dat]] - [[CONN-RC-dat]]
+
+
+- 1.25MM公插头 - [[GH1.25-dat]] ??? 
+- 1.25MM母插头反向 - [[GH1.25-dat]] ??? 
+- 1.25MM母插头正向 - [[GH1.25-dat]] ??? 
+
+
+- 黑色SM插头 - [[SM2.54-dat]]
+- 红色JST插头 - [[CONN-JST-dat]]
+- 圆头2.5MM插头 - [[CONN-DC-barrel-jack-dat]] - [[CONN-power-dat]]
+- 51005白色2针插头 - [[51006-0200-dat]]
+
+- 5V USB充电座不带数据线 - [[CONN-USB-dat]]
+
+- 白色3针插头 - [[XH2.54-dat]]
+- 4针插头 - [[XH2.54-dat]]
+
+- 2.0MM插头 正向 - [[PH2.0-dat]]
+- 2.0MM插头 反向 - [[PH2.0-dat]]
+
+
+- 大田宫 - [[L6.2-dat]]
+- 小田宫 - [[EL4.5-dat]]
+
+## ref 
+
+
+
+
+
