@@ -58,4 +58,5 @@ Types: left 1st Gen, middle 4st Gen., right soldering wire.
 
 - [[conn-SMA-dat]]
 
+- [[CONN-IPEX]] - [[CONN]]
 

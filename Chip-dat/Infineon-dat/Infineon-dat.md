@@ -2,7 +2,7 @@
 # Infineon-dat.md
 
 
-- [[IOR-dat]]
+- [[IOR-dat]] - [[mosfet-dat]] - [[infineon-mosfet-dat]] - [[infineon-dat]]
 
 - [[IRF540N-dat]] - [[IRF8313-dat]] - [[F5305-dat]] 
 

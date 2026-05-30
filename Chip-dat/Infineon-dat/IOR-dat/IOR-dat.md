@@ -12,8 +12,20 @@ The PVG612 Series Photovoltaic Relay is a singlepole, normally open solid-state 
 
 It utilizes International Rectifier’s proprietary HEXFET power MOSFET as the output switch, driven by an integrated circuit photovoltaic generator of novel construction. 
 
-The output switch is controlled by radiation from a GaAlAs light emitting diode (LED) which is optically isolated from the photovoltaic generator.
+The output switch is controlled by radiation from a GaAlAs light emitting diode (LED) which 
+is optically isolated from the photovoltaic generator.
 
+
+
+## L2203N 
+
+- VDSS = 30V
+- RDS(on) = 7.0mΩ
+- ID = 116A
+
+HEXFET® Power MOSFET
+
+IRL2203NSPbF / IRL2203NLPbF
 
 
 ## ref 

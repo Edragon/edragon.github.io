@@ -55,6 +55,20 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 
 ![](2026-05-28-11-46-21.png)
 
+- [[RF-filter-dat]] - [[BOM-dat]]
+
+![](2026-05-30-15-23-18.png)
+
+![](2026-05-30-15-40-41.png)
+
+- [[mosfet-dat]] - [[infineon-mosfet-dat]] - [[infineon-dat]] - [[IOR-dat]]
+
+![](2026-05-30-15-40-55.png)
+
+
+
+inside 
+
 ![](2026-05-28-11-45-35.png)
 
 ![](2026-05-28-11-45-47.png)
@@ -63,11 +77,31 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 
 ![](2026-05-28-11-46-36.png)
 
+accessories 
+
+![](2026-05-30-15-43-22.png)
+
+plug in frequency 
+
+![](2026-05-30-15-22-33.png)
+
 - [[frequency-dat]] - [[27mhz-dat]] - [[frequency-rc-dat]]
 
 ![](2026-05-28-11-48-44.png)
 
 - [[CONN-power-dat]]
+
+
+rebuild 
+
+![](2026-05-30-15-23-06.png)
+
+
+## build 2 controller board 2 
+
+![](2026-05-30-15-32-35.png)
+
+![](2026-05-30-15-32-48.png)
 
 ## propeller setup 
 
@@ -99,6 +133,9 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 
 ![](2025-12-04-00-30-35.png)
 
+- 8D423TS - [[Fuman-dat]]
+
+![](2026-05-30-15-40-11.png)
 
 ## air-propelled 2
 
