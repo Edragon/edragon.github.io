@@ -12,6 +12,8 @@
 
 ## chip 
 
+- [[FM5088SS-dat]] - [[fuman-dat]] - [[battery-protector-1s-dat]]
+
 - [[ABLIC-dat]] - [[battery-1s-dat]] 
 
 - [[DW01-dat]]

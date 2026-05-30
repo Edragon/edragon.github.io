@@ -266,7 +266,7 @@ USB
 
 [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[OPM1185-dat]] - [[OPM1093-dat]]
 
-
+- [[OPM1197-dat]]
 
 
 
