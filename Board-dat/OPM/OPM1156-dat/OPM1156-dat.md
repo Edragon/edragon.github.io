@@ -24,6 +24,7 @@ on board power jack connector == 2P1.25 (2P), note not soldered
 
 ## ref 
 
-- [[TP4056-dat]]
+- [[TP4056-dat]] - [[battery-charger-1s-dat]]
 
-- [[battery-charger-dat]] - [[battery-protection-dat]] - [[power-protection-dat]]
+- [[battery-charger-dat]] - [[battery-protector-1s-dat]] - [[protection-power-dat]]
+
