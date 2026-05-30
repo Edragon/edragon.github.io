@@ -47,21 +47,17 @@ PWM driving
 
 ## Wiring Diagram
 
-### Wiring for RGBW LED Strips
-
-### Wiring for WS2812_5V
-
 ![](2023-09-04-17-03-33.png)
 
-### Jumpers
+Jumpers
 
-| Jumper Name   | Option 1              | Option 2      | Function                                | Note    |
-| ------------- | --------------------- | ------------- | --------------------------------------- | ------- |
-| JP_P          | 5V, 12V, etc (ws2812) | 6~28V         | board system power supply               |         |
-| JP_L          | 5V, 12V, etc (ws2812) | 6~28V         | led strip power supply                  |         |
-| JP 8 (top)    | DAT (ws2812)          | Green         | reused pins for WRGB channels or WS2812 |         |
-| JP 9 (bottom) | GND (ws2812)          | Red           | reused pins for WRGB channels or WS2812 |         |
-| back_jumper   | ws2812_dat_3.3V       | ws2812_dat_5V | set ws2812 dat pin to 5V output default | default |
+| Jumper Name   | Option 1              | Option 2                | Function                                | Note    |
+| ------------- | --------------------- | ----------------------- | --------------------------------------- | ------- |
+| JP_P          | 5V, 12V, etc (ws2812) | 6~28V (top)             | board system power supply               |         |
+| JP_L          | 5V, 12V, etc (ws2812) | 6~28V  (top)            | led strip power supply                  |         |
+| JP 8 (top)    | DAT (ws2812)          | Green  (bot)            | reused pins for WRGB channels or WS2812 |         |
+| JP 9 (bottom) | GND (ws2812)          | Red  (bot)              | reused pins for WRGB channels or WS2812 |         |
+| back_jumper   | ws2812_dat_3.3V       | ws2812_dat_5V (default) | set ws2812 dat pin to 5V output default | default |
 
 #### jumper setup cases
 
@@ -189,7 +185,11 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 
     "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "basic-3.ino.bootloader.bin" 0x8000 "basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "basic-3.ino.bin"
 
-- [[basic-3.ino.partitions.bin]] - [[basic-3.ino.bootloader.bin]] - [[basic-3.ino.bin]]
+- [[basic-3.ino.partitions.bin]] 
+- [[basic-3.ino.bootloader.bin]] 
+- [[basic-3.ino.bin]]
+- [[boot_app0.bin]]
+
 
 ## ref
 

@@ -28,6 +28,15 @@ HEXFET® Power MOSFET
 IRL2203NSPbF / IRL2203NLPbF
 
 
+## IRFHM9331
+
+IRFHM9331 - P-channel MOSFETs
+
+-30V Single P-Channel Power MOSFET in a PQFN 3mm x 3mm package
+
+
+
+
 ## ref 
 
 - [[chip-dat]]

@@ -50,6 +50,7 @@ common brand: [[Vishay-dat]]
 
 ## model selections 
 
+- [[IOR-dat]]
 
 | Model             | Mark | Manufacturers    | Id    | Package         | CH type | VDS max |
 | ----------------- | ---- | ---------------- | ----- | --------------- | ------- | ------- |
