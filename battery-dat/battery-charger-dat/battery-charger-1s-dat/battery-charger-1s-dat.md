@@ -7,6 +7,14 @@
 - [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-packs-dat]]
 
 
+
+## board 
+
+- [[OPM1156-dat]] - [[OPM1083-dat]] - [[OPM1093-dat]]
+
+- [[OPM1197-dat]] - [[TP4067-dat]] - [[battery-charger-1s-dat]] - [[battery-protector-1s-dat]]
+
+
 ## simutaniously charge and use 
 
 - [[ETA-solutions-dat]]
@@ -14,6 +22,8 @@
 - [[injoinic-dat]] - [[IP5306-dat]]
 
 - [[MPS-dat]] - [[MP2636-dat]]
+
+
 
 
 ## chip 

@@ -21,6 +21,8 @@
 
 ## solution 1 DW01 + 8205
 
+- reverse-direction protection - ? [[RDP-protection-dat]] - [[mosfet-dat]]
+
 
 ![](2026-03-05-19-36-20.png)
 
