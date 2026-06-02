@@ -13,7 +13,7 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]]
 
 - [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]]
 
@@ -238,7 +238,7 @@
 
 - [[soldering-dat]] - [[desoldering-dat]]
 
-- [[PCB-dat]] - [[PCBA-dat]]
+- [[PCB-dat]] - [[PCBA-dat]] - [[PCB-design-dat]] 
 
 - [[tools-dat]] - [[instrument-dat]]
 

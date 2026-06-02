@@ -6,7 +6,7 @@
 - [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-pack-dat]]
 
 
-
+- [[battery-charge-boost-dat]] - [[battery-charger-dat]]
 
 ## info 
 

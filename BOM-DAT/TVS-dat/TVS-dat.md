@@ -33,6 +33,13 @@ Conclusion:
 STS321070U162  == Eaton TVS diode ESD supp. SOD-323 size, 7 op. voltage, 165 pF, 30 kV, Unidirectional
 
 
+## chip and code 
+
+ESDU5V0H4 - U5H4 - ESD Protection Device
+
+![](2026-06-02-19-25-58.png)
+
+![](2026-06-02-19-26-28.png)
 
 
 ## ref 

@@ -284,6 +284,17 @@ This device is produced with high cell density DMOS trench technology, uses adva
 ![](2026-05-23-15-04-15.png)
 
 
+## chip code 
+
+Mf8i1 - Generic SOT23-6 MOSFETs
+
+![](2026-06-02-19-17-18.png)
+
+2M04
+
+![](2026-06-02-19-21-19.png)
+
+
 ## ref 
 
 - [[vishay-dat]]

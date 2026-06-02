@@ -41,6 +41,13 @@ NOR flash is a type of non-volatile memory that allows random read access. It is
 
 S29GL128P90TFIR10 - NOR Flash 128Mb 3V 90ns Parallel NOR Flash
 
+
+
+## code 
+
+T25S80 
+
+
 ## SCH 
 
 - flash with bypass button 
