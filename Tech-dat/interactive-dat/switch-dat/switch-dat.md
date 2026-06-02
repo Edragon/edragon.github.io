@@ -49,7 +49,7 @@ mounting == through hole or SMD
 
 mounting - panel == through hole or PCB - [[switch-pushbutton-panel-dat]] - [[switch-pushbutton-PCB-dat]] - [[switch-pushbutton-dat]]
 
-
+- [[switch-temperature-dat]]
 
 ## SMD 6P-2T Switch
 

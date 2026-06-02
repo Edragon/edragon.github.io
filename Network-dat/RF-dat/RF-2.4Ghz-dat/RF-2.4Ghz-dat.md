@@ -2,6 +2,8 @@
 # RF-2.4Ghz-dat
 
 
+
+
 - [[RF-1Ghz-dat]] - [[rf-2.4ghz-dat]] - [[rf-5.8ghz-dat]] - [[RF-dat]]
 
 - [[NRF24L01]]
@@ -29,6 +31,9 @@
 - LC-12S 
 
 
+## chip 
+
+- [[BK2425-dat]] - [[RF-2.4Ghz-dat]] - [[frequency-dat]] - [[beken-dat]] - [[RF-dat]]
 
 
 

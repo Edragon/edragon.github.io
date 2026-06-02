@@ -24,6 +24,9 @@ BK3437,上海博通ble5.2
 
 - [[BK3433-dat]]
 
+- [[BK2425-dat]]
+
+
 ## 	Proprietary
 
 - [[BK3432-dat]]

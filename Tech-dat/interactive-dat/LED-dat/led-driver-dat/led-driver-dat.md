@@ -133,6 +133,10 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
 
+- [[shiningic-dat]] - [[YX8113-dat]] - [[led-driver-dat]]
+
+
+
 ### option 3 
 
 背光驱动
