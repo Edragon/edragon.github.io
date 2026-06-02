@@ -74,6 +74,9 @@ common brand: [[Vishay-dat]]
 | SI2307            |      | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
 | SI2308            |      | [[Vishay-dat]]   | 5.6A  | SOT-23          | N       | 30V     |
 
+- [[AO3401-dat]]
+
+- [[2N7002-dat]]
 
 D2PAK == TO252
 
@@ -297,6 +300,9 @@ Mf8i1 - Generic SOT23-6 MOSFETs
 The PTQ45P02 is a surface-mount, P-Channel Power MOSFET. It is frequently used in battery management systems, power supplies, and consumer electronics requiring high current switching in a compact format.
 
 ![](2026-06-02-19-50-58.png)
+
+
+
 
 ## ref 
 

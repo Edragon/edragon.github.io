@@ -3,6 +3,25 @@
 
 - [[mini-PCIE-dat]]
 
+
+### slot board 5 == -/+ two pins / front and back side 
+
+- [[transistor-dat]]
+
+![](2026-06-02-20-40-53.png)
+
+### slot board 4 == -/+ two pins 
+
+- [[led-driver-dat]] - [[LED-dat]]
+
+- [[PCB-form-dat]] - [[LN2566-dat]]
+
+![](2026-06-02-20-26-04.png)
+
+### slot board 3 
+
+![](2026-06-02-20-25-36.png)
+
 ### stack board 
 
 - [[OLED-dat]]

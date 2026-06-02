@@ -7,6 +7,15 @@
 
 - [[jieli-dat]] - [[BK3513-dat]] 
 
+- [[CS5230-dat]] - [[chipstar-dat]] - [[jieli-dat]]
+
+- [[A3-DCGB14D9A-dat]]
+
+The term A3 DCGB14D9A likely refers to a microcontroller or power management chip (SoC) manufactured by JL (Bluetrum Technology), which is commonly found in budget Bluetooth audio devices and wireless earbuds.
+
+![](2026-06-02-20-14-50.png)
+
+![](2026-06-02-20-15-10.png)
 
 
 JL AC1522C6230Q
@@ -274,8 +283,13 @@ Or a *design name*, or a project name...
 - FR66 (fm receiver)
 
 
+## chip code 
 
+A3 B008BD or B0088D 
 
+![](2026-06-02-20-17-42.png)
+
+![](2026-06-02-20-17-54.png)
 ## repo 
 
 https://github.com/Edragon/BT-JL

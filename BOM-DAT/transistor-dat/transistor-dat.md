@@ -149,6 +149,9 @@ MMBT3904
 `LSF0204GU12` - 4-bit bidirectional multi-voltage level translator; open-drain; push-pull
 
 
+30BS transistor 
+
+![](2026-06-02-20-40-06.png)
 
 
 ## ref 

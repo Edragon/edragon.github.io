@@ -36,7 +36,7 @@
 
 - [[angle-encoder-dat]]
 
-- [[motor-servo-dat]] - [[motor-stepper-dat]]
+- [[motor-servo-dat]] - [[motor-stepper-dat]] - [[motor-driver-stepper-dat]]
 
 - [[PCA9685-dat]]
 

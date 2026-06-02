@@ -129,9 +129,9 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[CN5711-dat]] - [[consonance-dat]]
 
+- [[TI-dat]] - [[TI-LED-driver-dat]]
 
-
-
+- [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
 
 ### option 3 
 

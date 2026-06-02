@@ -162,7 +162,7 @@
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]]
 
-- [[driver-hardware-dat]] - [[motor-driver-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]]
+- [[driver-hardware-dat]] - [[motor-driver-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]] - [[motor-driver-stepper-dat]]
 
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
