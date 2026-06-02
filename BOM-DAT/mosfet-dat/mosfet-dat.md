@@ -301,7 +301,7 @@ The PTQ45P02 is a surface-mount, P-Channel Power MOSFET. It is frequently used i
 
 ![](2026-06-02-19-50-58.png)
 
-
+- [[fuman-dat]]
 
 
 ## ref 

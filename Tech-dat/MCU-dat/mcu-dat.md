@@ -107,6 +107,7 @@ s
 | [[RP2040-dat]]    | 30+: 5.24   | [[RPI-dat]]    |                                |                        |                 |
 
 
+- [[CS32L010-dat]] - [[chipsea-dat]] - [[STM32-clone-dat]] - [[MCU-dat]]
 
 ## Dev Boards 
 
@@ -118,6 +119,9 @@ ATtiny
 [[SAMD21-dat]] - [[SDR1096-dat]]
 
 - [[dev-board-dat]]: [[STM32-dat]] - [[RP2040-dat]] - [[ESP32-dat]] - [[nRF-dat]] - [[SAMD21-dat]] - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[HC32F00X-dat]] - [[HDSC-SDK-dat]]
+
+
+
 
 ## Cheap High-operating temperature MCUs 
 
@@ -151,6 +155,8 @@ Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter
 | ATmega328P + DC-DC | External       | ~$1.5 total   | ⭐⭐⭐        | Classic and cheap combo      |
 
 - [[nordic-dat]]
+
+
 
 ## APP 
 

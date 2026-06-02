@@ -13,7 +13,9 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]]
+
+- [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
 - [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]]
 
@@ -57,7 +59,7 @@
 
 - [[battery-size-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]]
 
-- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
+- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]]
 
 - [[ac-mains-dat]] - [[acdc-dat]]
 
@@ -163,9 +165,6 @@
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]]
 
 - [[driver-hardware-dat]] - [[motor-driver-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]] - [[motor-driver-stepper-dat]]
-
-
-- [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
 
 - [[motor-driver-dat]]

@@ -66,8 +66,17 @@
 - Operating temperature range: -20~60 degrees Celsius
 
 
+## board 
 
+![](2026-06-02-20-57-48.png)
 
+![](2026-06-02-20-58-03.png)
+
+FA0i == XC6225-3.6V 
+
+The FA0i marking code on a SOT23-5 (or SOT-25) package generally corresponds to the XC6225A362MR-G from Torex Semiconductor or a compatible device. - [[Torex-dat]] - [[XC6225-dat]]
+
+GV9T == ???
 
 ## ref 
 

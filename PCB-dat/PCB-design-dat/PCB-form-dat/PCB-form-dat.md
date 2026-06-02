@@ -4,6 +4,14 @@
 - [[mini-PCIE-dat]]
 
 
+### wired board 1
+
+![](2026-06-02-21-19-05.png)
+
+### compact socket 
+
+![](2026-06-02-20-57-02.png)
+
 ### slot board 5 == -/+ two pins / front and back side 
 
 - [[transistor-dat]]

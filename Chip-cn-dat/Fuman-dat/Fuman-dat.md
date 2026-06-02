@@ -6,7 +6,11 @@
 - [[FM5088SS-dat]] - [[fuman-dat]] - [[battery-protector-1s-dat]]
 
 
+## mosfet 
 
+- [[analog-device-dat]]
+
+![](2026-06-02-20-55-07.png)
 
 
 ## ref 

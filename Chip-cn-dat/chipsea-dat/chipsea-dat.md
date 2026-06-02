@@ -1,13 +1,12 @@
 
 # chipsea-dat
 
-CHIPSEA CS32L010F8U6(R)_QFN20 - datasheet == [[CHIPSEA-CS32L010F8U6-R-QFN20.pdf]]
+- [[CS32L010-dat]] - [[chipsea-dat]] - [[STM32-clone-dat]] - [[MCU-dat]]
 
-![](2025-07-13-01-37-41.png)
+- [[CS1237-dat]] - [[ADC-dat]] - [[chipsea-dat]]
 
-PROG test pins == NRST / SWDCLK / SWDIO / VCC / GND
 
-price == 0.5 RMB 
+
 
 ## ref 
 

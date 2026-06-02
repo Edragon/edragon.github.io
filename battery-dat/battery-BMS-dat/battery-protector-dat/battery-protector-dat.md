@@ -77,6 +77,7 @@ boards specs for reference only
 
 - [[DW01-dat]]
 
+- [[joulwatt-dat]] - [[JW3317-dat]]
 
 ## ref 
 

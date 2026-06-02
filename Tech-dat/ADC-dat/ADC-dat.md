@@ -44,9 +44,6 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 
 
-
-
-
 ## SCH 
 
 ### ADC with measure MOSFET control 
@@ -113,6 +110,8 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 - [[AD-ADC-dat]] - [[analog-device-dat]]
 
 - [[cirrus-dat]] - [[CS553x-dat]]
+
+- [[CS1237-dat]] - [[ADC-dat]] - [[chipsea-dat]]
 
 
 ## chips 
