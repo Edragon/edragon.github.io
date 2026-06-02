@@ -66,6 +66,17 @@ In general, although full-wave rectification yields slightly more current, the f
 ![](2025-09-01-20-31-10.png) ![](2025-09-01-20-31-20.png) ![](2025-09-01-20-31-32.png) ![](2025-09-01-20-31-47.png)
 
 
+## board 2 
+
+![](2026-06-02-20-06-10.png)
+
+![](2026-06-02-20-06-25.png)
+
+![](2026-06-02-20-06-44.png)
+
+![](2026-06-02-20-07-01.png)
+
+
 ## ref 
 
 - [[ACDC-dat]]

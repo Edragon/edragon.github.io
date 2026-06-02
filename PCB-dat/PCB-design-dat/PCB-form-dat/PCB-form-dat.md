@@ -3,9 +3,16 @@
 
 - [[mini-PCIE-dat]]
 
+### stack board 
+
+- [[OLED-dat]]
+
+![](2026-06-02-19-46-49.png)
+
+![](2026-06-02-19-47-26.png)
 
 
-triangle soldering slot plug board 
+### triangle soldering slot plug board 
 
 - two rows of soldering together 
 
@@ -21,17 +28,19 @@ triangle soldering slot plug board
 
 ![](2026-06-02-19-17-57.png)
 
-PCB slot plug board == [[weltrend-dat]]
+### PCB slot plug board 
+
+== [[weltrend-dat]]
 
 ![](2026-05-23-17-50-16.png)
 
-## card 
+### card 
 
 ![](2025-10-02-11-13-24.png)
 
 - TPA3100D2
 
-## chained board 
+### chained board 
 
 ![](2025-10-02-05-43-09.png)
 

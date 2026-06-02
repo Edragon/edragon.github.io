@@ -11,6 +11,9 @@
 
 - [[power-backfeeding-dat]]
 
+- [[holtek-dat]]
+
+
 ## boards 
 
 - [[OPM1028-dat]] - [[OPM1036-dat]] - [[AMS1117-dat]]

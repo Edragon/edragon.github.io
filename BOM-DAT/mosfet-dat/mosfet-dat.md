@@ -294,6 +294,9 @@ Mf8i1 - Generic SOT23-6 MOSFETs
 
 ![](2026-06-02-19-21-19.png)
 
+The PTQ45P02 is a surface-mount, P-Channel Power MOSFET. It is frequently used in battery management systems, power supplies, and consumer electronics requiring high current switching in a compact format.
+
+![](2026-06-02-19-50-58.png)
 
 ## ref 
 

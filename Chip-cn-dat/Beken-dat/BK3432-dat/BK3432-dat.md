@@ -50,8 +50,13 @@ The Flash program memory makes it suitable for customized applications.
 ## App. 
 
 
+## board 
 
+- [[LDO-dat]] 
 
+![](2026-06-02-19-40-40.png)
+
+![](2026-06-02-19-40-51.png)
 
 
 ## ref 
