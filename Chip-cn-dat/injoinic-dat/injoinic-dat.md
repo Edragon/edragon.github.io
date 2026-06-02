@@ -13,12 +13,12 @@ https://w.electrodragon.com/w/Injoinic
 [[battery-protector-dat]] + all-S [[battery-charger-dat]] - [[injoinic-dat]] == [[IP2365-dat]]
 
 
-
+- [[IP6806-dat]]
 
 - [[IP236x-dat]]
 
 
-- [[IP5306-dat]]
+- [[IP5306-dat]] 
 
 - IP2721 - TYPEC/PD2.0/PD3.0 Physical Layer IC for USB TYPEC input Interfaces
 

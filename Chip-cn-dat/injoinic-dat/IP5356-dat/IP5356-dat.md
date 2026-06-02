@@ -1,7 +1,16 @@
 
 # IP5356-dat
 
+- [[IP5356-dat]] - [[power-bank-dat]] - [[injoinic-dat]]
+
+## board 4 
+
 ![](2026-01-30-14-10-39.png)
+
+
+## board 3 
+
+![](2026-06-03-02-50-43.png)
 
 ## boards 
 

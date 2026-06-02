@@ -5,6 +5,7 @@
 
 - [[FM5088SS-dat]] - [[fuman-dat]] - [[battery-protector-1s-dat]]
 
+- [[XPD318-dat]] - [[fuman-dat]]
 
 ## mosfet 
 
