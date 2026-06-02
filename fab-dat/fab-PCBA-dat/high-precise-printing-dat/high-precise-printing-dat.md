@@ -3,6 +3,10 @@
 
 - [[solder-bridging-dat]]
 
+- [[fab-PCBA-dat]] - [[solder-paste-dat]] - [[soldering-flux-dat]] - [[soldering-tools-dat]] - [[desoldering-dat]]
+
+
+
 ## 1. Stencil Thickness
 - **Recommended**: 0.10 mm (4 mil) stainless steel
 - Sometimes 0.12 mm (5 mil) can work, but **risk of bridging increases**
@@ -33,3 +37,10 @@
 - Aperture width / stencil thickness ≥ 1.5
 - Area ratio (aperture area / aperture wall area) ≥ 0.66
   → With 0.20 mm × 1.4 mm aperture and 0.10 mm stencil → Area ratio ≈ 0.71 ✅ (good)
+
+
+
+
+
+## ref 
+

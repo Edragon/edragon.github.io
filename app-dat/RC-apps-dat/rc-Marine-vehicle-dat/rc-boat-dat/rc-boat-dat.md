@@ -11,6 +11,8 @@
 - [[shaft-supporter-dat]] - [[servo-dat]]
 
 
+- [[frequency-dat]] - [[frequency-rc-dat]] - [[27mhz-dat]]
+
 ![](2025-12-06-14-07-33.png)
 
 ## Wave Deflector / Wave Breaker Plate (压浪板)

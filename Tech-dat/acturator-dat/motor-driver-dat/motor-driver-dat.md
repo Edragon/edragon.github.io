@@ -115,6 +115,8 @@
 
 - [[st-motor-driver-dat]] - [[st-dat]]
 
+- [[TA6586-dat]] - [[motor-driver-dat]] - [[ruizhi-dat]]
+
 
 
 ## and more 
@@ -342,6 +344,11 @@ Add a Large Capacitor: Place a large electrolytic capacitor (e.g., 1000µF or hi
 - [[FOC-dat]]
 
 
+
+
+## apps 
+
+- [[motor-driver-dat]] - [[motor-driver-rc-dat]]
 
 
 ## ref 
