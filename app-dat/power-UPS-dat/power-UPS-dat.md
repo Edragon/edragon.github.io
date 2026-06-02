@@ -72,4 +72,4 @@ display and [[ADC-dat]] measurement
 
 ## ref 
 
-- [[UPS]] - [[APP]]
+- [[power-UPS]] - [[APP]]

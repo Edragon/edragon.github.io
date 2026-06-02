@@ -13,7 +13,7 @@
 
 https://www.electrodragon.com/w/Usbasp
 
-- [[DPR1088-dat]]
+- [[DPR1088-dat]] - [[USBASP-dat]]
 
 
 

@@ -6,7 +6,7 @@
 
 ## Power 
 
-- [[power-UPS-dat]]
+- [[power-UPS-dat]] - [[power-bank-dat]]
 
 ## Mechanical 
 

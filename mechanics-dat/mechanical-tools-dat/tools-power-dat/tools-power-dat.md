@@ -59,3 +59,5 @@
 ## ref 
 
 - [[power-tools]] - [[mechanical-tools]] - [[mechanics]]
+
+- [[tools]] - [[power-tools]]
