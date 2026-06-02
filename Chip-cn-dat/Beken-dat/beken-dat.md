@@ -10,7 +10,19 @@ module - [[NBL1012-dat]] - [[NBL1022-dat]] == [[beken-dat]]
 - [[RF-dat]] - [[radio-dat]] - [[BK1080-dat]]
 
 
+- [[BK3513-dat]] - [[beken-dat]] - [[BK3515-dat]] - [[BK3511-dat]]
 
+- [[BK3296-dat]] - [[BK3266-dat]]
+
+- [[BK3437-dat]] - [[BK3435-dat]] - [[BK3432-dat]] 
+
+BK3437,上海博通ble5.2
+
+2.4G无线麦克风方案——采用上海博通 [[BK32881-dat]]，高性价比
+
+- [[BK3633-dat]]
+
+- [[BK3433-dat]]
 
 ## 	Proprietary
 
