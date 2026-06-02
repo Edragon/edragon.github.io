@@ -5,7 +5,7 @@
 
 - [[SDK-dat]]
 
-- [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]]
+- [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[glob-top-dat]]
 
 - [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]]
 

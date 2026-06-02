@@ -52,6 +52,8 @@ The Flash program memory makes it suitable for customized applications.
 
 ## board 
 
+iwarm家的温控智能穿戴控制板，有app,ble通讯的，当然重写程序也可以玩别的
+
 - [[LDO-dat]] 
 
 ![](2026-06-02-19-40-40.png)

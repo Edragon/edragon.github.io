@@ -15,6 +15,8 @@
 ### slot board 5 == -/+ two pins / front and back side 
 
 - [[transistor-dat]]
+- 
+V+正极接电源V-负极接电源，F+和F-接散风扇，LH-和+接灯
 
 ![](2026-06-02-20-40-53.png)
 
@@ -32,7 +34,9 @@
 
 ### stack board 
 
-- [[OLED-dat]]
+- [[OLED-dat]] - [[portable-soldering-iron-dat]] 是驱动烙铁头的，输出有2~3伏的电压。没有烙铁头。没法实验
+
+这种电烙铁头的电阻值视电池电压和功率而定，一般在零点几欧姆到3欧姆，2.5欧姆正常。
 
 ![](2026-06-02-19-46-49.png)
 

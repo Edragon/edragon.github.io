@@ -285,11 +285,14 @@ Or a *design name*, or a project name...
 
 ## chip code 
 
-A3 B008BD or B0088D 
+A3 B008BD or B0088D  == 1：m-电容麦克风+ 2:接公共地 3:耳机 左 4:耳机 右 == 能发声水平，解析一般，没啥推力，低频弱且糊
 
 ![](2026-06-02-20-17-42.png)
 
 ![](2026-06-02-20-17-54.png)
+
+
+
 ## repo 
 
 https://github.com/Edragon/BT-JL

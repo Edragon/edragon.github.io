@@ -30,6 +30,8 @@ This design represents a classic example of modern, high-volume industrial manuf
 
 ## Disassembling a "Glob Top" (COB)
 
+热风枪吹5分钟拿小刀慢慢铲 
+
 ![](2026-06-02-19-56-50.png)
 Disassembling a "Glob Top" (COB) component is extremely difficult and almost always results in the permanent destruction of the device. Because the epoxy resin is chemically bonded to the PCB surface and the internal bond wires are finer than human hair, standard repair tools will not work.
 
