@@ -1,11 +1,14 @@
 
-# fab-soldering-tools-dat
+# fab-PCB-soldering-tools-dat
 
 - [[fab-PCB-dat]] - [[fab-PCB-soldering-dat]] - [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-desoldering-dat]] - [[fab-soldering-materials-dat]]
 
 main tools 
 
-- [[soldering-iron-dat]] - [[soldering-tip-dat]] - [[soldering-station-dat]]
+- [[soldering-iron-dat]] - [[soldering-iron-tip-dat]] - [[soldering-iron-tip-refresher-dat]]
+
+- [[soldering-station-dat]]
+
 
 best accessoeries 
 
@@ -59,4 +62,4 @@ soldering iron rack - https://www.electrodragon.com/product/casting-metal-solder
 
 ## ref 
 
-- [[soldering-dat]]
+- [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-soldering-tools]]

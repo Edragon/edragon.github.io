@@ -18,7 +18,7 @@
 
 
 
-- [[SW6201-dat]] - [[ismartware-dat]] - [[SW3518-dat]]
+- [[SW6201-dat]] - [[ismartware-dat]] - [[SW3518-dat]] - [[SW6106-dat]]
 
 - [[IP5356-dat]] - [[injoinic-dat]] - [[IP5306-dat]]
 

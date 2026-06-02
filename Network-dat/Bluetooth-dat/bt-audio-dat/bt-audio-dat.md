@@ -42,7 +42,9 @@
 
 - [[JieLi-dat]]
 
+- [[CSR8645-dat]] - [[CSR8635-dat]] - [[qualcomm-dat]] - [[BT-audio-dat]] - [[CSR8675-dat]]
 
+- [[QCC3084-dat]] - [[QCC5181-dat]] - [[QCC5125-dat]] - [[QCC3034-dat]] - [[QCC3095-dat]] - [[QCC3094-dat]] - [[qualcomm-dat]] - [[BT-audio-dat]]
 
 
 ### chip compare 

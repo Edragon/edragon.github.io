@@ -11,7 +11,7 @@
 - [[LM321-dat]] - [[LM358-dat]] - [[LM339-dat]]
 
 
-
+- [[LMxx-dat]] - [[LM3914-dat]]
 
 ## ref 
 

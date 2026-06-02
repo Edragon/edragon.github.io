@@ -7,7 +7,7 @@
 
 - [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[glob-top-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]]
+- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]]
 
 - [[circuits-dat]]
 
