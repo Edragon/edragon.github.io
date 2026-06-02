@@ -9,13 +9,7 @@ legacy wiki page - https://w.electrodragon.com/w/OV_Camera
 
 ## Chip Overview
 
-- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[omnivision-dat]] - [[camera-DVP-dat]]
-
-
-- [[OV3660-dat]] - [[omnivision-dat]]
-
-
-- [[OV9281-dat]]
+- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[OmniVision-dat]] - [[OV9760-dat]] - [[camera-DVP-dat]] - [[OV9281-dat]]
 
 | Type           | Mega pixels | Replace old version | Specs           |
 | -------------- | ----------- | ------------------- | --------------- |

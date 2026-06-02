@@ -57,7 +57,7 @@ from a to z
 
 [[realtek-dat]] - [[RTL8211-dat]]
 
-
+[[ralink-dat]]
 
 - [[raspberry-pi-dat]] - [[RPI-MCU-dat]] - [[RPI-SBC-dat]]
 

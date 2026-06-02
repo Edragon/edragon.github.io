@@ -53,6 +53,10 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 
 ![](2026-05-28-11-45-05.png)
 
+the [[motor-driver-rc-dat]] hack as below: 
+
+![](2026-06-02-16-41-46.png)
+
 - [[UTC3361-dat]] - [[UTC358-dat]] - [[LM358-dat]]
 
 ![](2026-05-28-11-46-21.png)

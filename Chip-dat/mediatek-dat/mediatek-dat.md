@@ -1,6 +1,9 @@
 
 # mediatek-dat
 
+- [[ralink-dat]] - [[Atheros-dat]] - [[Broadcom-dat]] - [[mediatek-dat]] 
+
+
 - [[MT7688-dat]]
 - [[MT7620-dat]]
 - [[MT7621-dat]]

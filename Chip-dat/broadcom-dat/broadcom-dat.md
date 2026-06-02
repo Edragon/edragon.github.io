@@ -1,7 +1,7 @@
 
 # broadcom-dat
 
-- [[ralink-dat]] - [[Atheros-dat]] - [[Broadcom-dat]]
+- [[ralink-dat]] - [[Atheros-dat]] - [[Broadcom-dat]] - [[mediatek-dat]] 
 
 
 - [[optical-coupler-dat]] - [[broadcom-dat]]

@@ -2,7 +2,12 @@
 
 # ralink-dat
 
-- [[ralink-dat]] - [[Atheros-dat]] - [[Broadcom-dat]]
+== 雷凌
+
+- [[ralink-dat]] - [[Atheros-dat]] - [[Broadcom-dat]] - [[mediatek-dat]] 
+
+- [[RT3505-dat]] - [[RT5350-dat]] - [[RT3092-dat]] - [[RT5372-dat]] - [[RT5392-dat]]
+
 
 ![](2026-05-22-19-12-10.png)
 
@@ -21,11 +26,6 @@ Ralink has few SOC chips that support 5G with 11n. The first `RT2880` could be u
 
 
 
-- [[RT3505-dat]]
-
-- [[RT5350-dat]]
-
-- [[RT3092-dat]]
 
 
 

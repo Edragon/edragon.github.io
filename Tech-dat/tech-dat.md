@@ -5,9 +5,9 @@
 
 - [[SDK-dat]]
 
-- [[board-dat]] - [[board-new-dat]]
+- [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]]
+- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]]
 
 - [[circuits-dat]]
 
