@@ -1,12 +1,16 @@
 
 # TP4054-dat
 
+- [[TP4054-dat]] - [[TP4067-dat]] - [[TP4057-dat]] - [[battery-charger-1s-dat]] - [[battery-protector-1s-dat]] - [[OPM1202-dat]]
+
+- [[shouding-dat]] - [[SD8001-dat]] - [[TP4054-dat]] - [[LTC4054-dat]]
+
 
 ## setup 
 
 - R_prog = 4.7K == 
-
-
+- R_prog = 1.65K == 
+- R_prog = 1.K == 0.6A
 
 ## APP 
 

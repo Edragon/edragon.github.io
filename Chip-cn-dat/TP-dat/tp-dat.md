@@ -8,7 +8,7 @@
 
 - [[TP4056-dat]]
 
-- [[TP4054-dat]]
+- [[LTC4054-dat]] - [[TP4054-dat]] - [[shouding-dat]]
 
 - [[TP4067-dat]] - [[TP4057-dat]] - [[TP4055-dat]] - [[TP4059-dat]] - [[TP4062-dat]] - [[TP4058-dat]]
 
