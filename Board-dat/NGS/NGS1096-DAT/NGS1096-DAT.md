@@ -3,9 +3,9 @@
 # Board Info 
 
 
-[[SIM7020-dat]] - [[SIM7028-dat]]
+[[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]]
 
-- [[NGS1096-dat]] - [[NGS1095-dat]] - [[NGS1135-dat]]
+- [[NGS1096-dat]] - [[NGS1095-dat]] - [[NGS1135-dat]] - [[NGS1094-dat]] (retired)
 
 
 
@@ -32,10 +32,13 @@ Pin Definitions of SIM7020-V:
 
 ## Dimension / Pins / Schematic 
 
-![](2024-03-20-15-18-02.png)
+![](2026-06-03-17-34-53.png)
 
 ![](2024-03-20-15-19-45.png)
 
 
 # reference 
+
 - [[SIM7020-DAT]]
+
+- [[NGS1096]]
