@@ -12,6 +12,8 @@
 
 - [[TP4067-dat]] - [[TP4057-dat]] - [[TP4055-dat]] - [[TP4059-dat]] - [[TP4062-dat]] - [[TP4058-dat]]
 
+- [[battery-charger-dat]] - [[TP4067-dat]] - [[TP-dat]]
+
 - [[TP4083-dat]]
 
 - [[TP5100-dat]] == 20V input, BAT : -8.4V ~ 20V

@@ -9,7 +9,7 @@
 
 - [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
 
-
+- [[battery-charger-dat]] - [[TP4067-dat]] - [[TP-dat]]
 
 ## Board map 
 
@@ -82,3 +82,5 @@ available at - https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
 - [[HC32L136-dat]] - [[HDSC-dat]]
 
 - [[Power-distribution]]
+
+- [[ARM1007-fab]]

@@ -1,6 +1,13 @@
 
 # TP4067-dat
 
+- 10K 100MA
+- 3K about 300~400mA
+- 2.2K 500mA
+- 1.8K 600mA
+
+- [[TP4054-dat]] - [[TP4067-dat]] - [[TP4057-dat]]
+
 ## TP4067 
 
 3mA-600mA Linear Li-ion Battery Charger
@@ -16,6 +23,9 @@ The fully charged voltage can be set to four levels: 4.35V, 4.2V, 3.7V, and 2.8V
 When the input voltage (AC adapter or USB power) is removed, the TP4067 automatically enters a low current state, with battery leakage current below 1μA. Other features of the TP4067 include power adaptation, undervoltage lockout, automatic recharge, and two status pins for indicating charging completion and input voltage connection.
 
 **Schematic is the same as TP4057 as below** == [[TP4057-dat]]
+
+
+
 
 
 ## ref 

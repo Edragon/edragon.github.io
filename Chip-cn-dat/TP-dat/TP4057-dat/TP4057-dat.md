@@ -1,6 +1,12 @@
 
 # TP4057-dat
 
+
+
+- [[TP4054-dat]] - [[TP4067-dat]] - [[TP4057-dat]]
+
+
+
 ## TP4057 Features Checklist
 
 ### Core Charging Features
@@ -78,6 +84,14 @@ Other features of the TP4057X include **power adaptation, undervoltage lockout, 
 - 3.3K 
 
 ![](2025-10-15-16-19-47.png)
+
+
+## SCH 
+
+![](2026-06-03-19-28-59.png)
+
+
+
 
 ## ref 
 
