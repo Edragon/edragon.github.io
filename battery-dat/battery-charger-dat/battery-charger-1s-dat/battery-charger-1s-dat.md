@@ -14,6 +14,7 @@
 
 - [[OPM1197-dat]] - [[TP4067-dat]] - [[battery-charger-1s-dat]] - [[battery-protector-1s-dat]]
 
+- [[OPM1202-dat]]
 
 ## simutaniously charge and use 
 
