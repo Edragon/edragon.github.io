@@ -13,6 +13,11 @@
 
 - [[holtek-dat]]
 
+- [[LDO-dat]] - [[SY2A27357A-dat]] - [[silergy-dat]]
+
+
+
+
 
 ## boards 
 
