@@ -3,9 +3,7 @@
 
 
 
-[[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]] - [[SIMCOM-dat]]
-
-- [[bands-dat]]
+- [[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]] - [[NBIOT-dat]] - [[SIMCOM-dat]] - [[bands-dat]]
 
 ## Product Advantages
 

@@ -3,7 +3,7 @@
 # LTE-dat
 
 
-- [[LTE-dat]] - [[LWPA-dat]]
+- [[LTE-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[M2M-dat]]
 
 
 ## chip 

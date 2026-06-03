@@ -1,6 +1,6 @@
 
 
-# Board Info 
+# NGS1096-DAT
 
 
 [[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]]
@@ -39,6 +39,8 @@ Pin Definitions of SIM7020-V:
 
 # reference 
 
+- [[capacitor-Tantalum-dat]]
+
 - [[SIM7020-DAT]]
 
-- [[NGS1096]]
+- [[NGS1096]] - [[NGS1096-fab]]

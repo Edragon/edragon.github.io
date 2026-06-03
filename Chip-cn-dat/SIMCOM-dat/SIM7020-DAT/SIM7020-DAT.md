@@ -1,11 +1,9 @@
 
-# SIM7020 DAT
+# SIM7020-DAT
 
 https://www.electrodragon.com/product/sim7020e-4g-nbiot-mini-development-board/
 
-[[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]]
-
-- [[NBIOT-dat]] 
+- [[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]] - [[NBIOT-dat]] - [[SIMCOM-dat]]
 
 
 ## SIM7020E VS SIM7020G

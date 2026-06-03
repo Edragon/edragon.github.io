@@ -30,9 +30,8 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
   
 - [[SIM7020-dat]] - [[NGS1094-dat]] - [[NGS1095-dat]] - [[NGS1096-dat]] - [[SIM7028-dat]]
 
-- [[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]] - [[SIMCOM-dat]]
+- [[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]] - [[NBIOT-dat]] - [[SIMCOM-dat]] - [[bands-dat]]
 
-- [[bands-dat]]
 
 - [[SIM7060-dat]]
 

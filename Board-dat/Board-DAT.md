@@ -373,9 +373,9 @@ SIMCOM - 2G - [[SIM800-dat]]
 
 - [[NGS1024-dat]]
 
-SIMCOM - NBIOT - [[SIM7020-dat]] - [[SIM7028-dat]]
+[[SIMCOM-dat]] - NBIOT - [[SIM7020-dat]] - [[SIM7028-dat]]
 
-- ~~[[NGS1094-dat]] (SIM7020E)~~ - [[NGS1095-dat]] - [[NGS1096-DAT]] - [[NGS1135-dat]]
+- [[NGS1095-dat]] - [[NGS1096-DAT]] - [[NGS1135-dat]] - [[NBIOT-dat]] - ~~[[NGS1094-dat]] (SIM7020E)~~ 
 
 
 Quectel - Location 
