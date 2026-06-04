@@ -12,6 +12,10 @@
 
 
 
+## board 
+
+- [[SSL1080-dat]]
+
 ## ES8311 
 
 refer use guide in [[I2S-SDK-dat]]

@@ -1,6 +1,6 @@
 # ES8311-SDK-dat
 
-- [[ES8311-SDK-dat]] - [[ES8311-dat]] - [[everest-semi-dat]] - [[ES7201-dat]] - [[codec-dat]]
+- [[ES8311-SDK-dat]] - [[ES8311-dat]] - [[everest-semi-dat]] - [[ES7201-dat]] - [[codec-audio-dat]] - [[I2S-dat]]
 
 ## Example 1: Music Playback
 
@@ -45,39 +45,46 @@ https://github.com/pschatzmann/arduino-audio-tools
 
 
     #include "AudioTools.h"
-    #include "AudioLibs/AudioBoardES8311.h"
+    #include "AudioBoard.h"
 
-    // Define your I2S pins for ESP32-S3
-    // Default I2S pins for ES8311 on many boards:
-    // BCLK: 5, LRCK: 4, DOUT: 6, DIN: 7, MCLK: 2
+    // 1. Define your pins clearly
     #define I2S_BCLK 5
     #define I2S_LRCK 4
     #define I2S_DOUT 6
-    #define I2S_DIN 7
     #define I2S_MCLK 2
 
-    // Create the driver instance
-    AudioBoardES8311 board;
+    #define I2C_SDA 18
+    #define I2C_SCL 19
+
+    using namespace audio_driver;
+
+    // 2. Use the correct class: DriverPins
+    DriverPins my_pins;
+
+    // 3. Initialize the board with the driver and pins
+    // AudioDriverES8311 is a static instance provided by the library
+    AudioBoard board(AudioDriverES8311, my_pins);
 
     void setup() {
-    Serial.begin(115200);
-    
-    // Configure the board
-    auto cfg = board.defaultConfig(TX_MODE);
-    cfg.bclk = I2S_BCLK;
-    cfg.lrck = I2S_LRCK;
-    cfg.dout = I2S_DOUT;
-    cfg.mclk = I2S_MCLK;
-    
-    board.begin(cfg);
+        Serial.begin(115200);
 
-    // Now you can use the board as a stream in AudioTools
-    // Example: Printing status or using a generator
-    Serial.println("ES8311 initialized");
+        // Define I2S Pins
+        my_pins.addI2S(PinFunction::CODEC, I2S_MCLK, I2S_BCLK, I2S_LRCK, I2S_DOUT);
+        
+        // Initialize Wire and add to pins
+        Wire.begin(I2C_SDA, I2C_SCL);
+        my_pins.addI2C(PinFunction::CODEC, Wire);
+
+        // Start the board
+        if (!board.begin()) {
+            Serial.println("Failed to initialize ES8311 Board!");
+            while (true);
+        }
+        Serial.println("ES8311 Initialized Successfully.");
     }
 
     void loop() {
-    // Your audio processing logic using board.getI2S() or similar
+        delay(1000);
     }
 
 

@@ -79,3 +79,11 @@ C:\Users\Administrator\.espressif
 
 Setting up Python environment
 Creating a new Python environment in C:\Users\Administrator\.espressif\python_env\idf5.0_py3.10_env
+
+
+
+
+
+## ref 
+
+- [[powershell-dat]] - [[proxy-dat]]
