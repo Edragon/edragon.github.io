@@ -4,8 +4,9 @@
 - [[CIC1057-dat]] - STC15F104W SOP-8 MCU == 1.2.STC15F100W系列单片机总体介绍(B版大批量现货供应中)
 
 
+- [[STC-SOP8-dat]] - [[STC-dat]]
 
-
+- [[STC-SDK-dat]]
 
 
 ## STC12 
@@ -32,24 +33,6 @@ STK12C68
 ![](2026-05-06-18-53-04.png)
 
 
-
-
-## STC8H / STC8G 
-
-STC8G1K17A
-
-STC8H1K08-36I-QFN20 Enhanced 1T 8051 Microcontroller (MCU)
-
-STC8G1K08A-36I-DFN8
-
-SOP8 - 8G1K08 - [[sensor-lidar-dat]]
-
-[[serial-dat]] interface 
-
-
-![](2026-04-04-17-29-51.png)
-
-![](2026-04-04-17-29-19.png)
 
 
 
@@ -96,24 +79,9 @@ SCH 6 == [[touch-dat]]
 
 - [[SCU1047-dat]]
 
-## repo 
-
-- https://github.com/Edragon/STC
 
 
 
-
-
-
-## SDK 
-
-STC ISP programming software (v6.95U)
-
-install keil header files 
-
-![](2025-07-13-20-50-41.png)
-
-- [[Keil-C51-dat]] 
 
 
 ## program 

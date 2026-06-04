@@ -4,6 +4,7 @@
 
 - [[CMSIS-dat]] - [[C-dat]]
 
+- [[KEIL-C51-dat]] - [[MDK-ARM-dat]] - [[KEIL-C251-dat]]
 
 - setup new compiler in KEIL-MDK [[AC5-dat]] - [[AC6-dat]]
 

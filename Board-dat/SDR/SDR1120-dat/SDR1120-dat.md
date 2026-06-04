@@ -12,7 +12,8 @@ wireless motor drive board
 
 - [[L9110-dat]] 
 
-- [[attiny13-dat]] - [[MCU-dat]]
+- [[attiny13-dat]] - [[MCU-dat]] - [[STC-dat]] == STC8G1K17A-36I-DIP8
+
 
 - [[EDRF1-dat]] == [[NWL1089-dat]] - [[RF-LINK-dat]]
 

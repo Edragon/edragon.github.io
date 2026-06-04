@@ -1,0 +1,28 @@
+
+
+
+# STC-SOP8-dat
+
+- [[STC-SOP8-dat]] - [[STC-dat]]
+
+## STC8H / STC8G 
+
+STC8G1K17A
+
+
+
+STC8H1K08-36I-QFN20 Enhanced 1T 8051 Microcontroller (MCU)
+
+STC8G1K08A-36I-DFN8
+
+SOP8 - 8G1K08 - [[sensor-lidar-dat]]
+
+[[serial-dat]] interface 
+
+
+![](2026-04-04-17-29-51.png)
+
+![](2026-04-04-17-29-19.png)
+
+## ref 
+
