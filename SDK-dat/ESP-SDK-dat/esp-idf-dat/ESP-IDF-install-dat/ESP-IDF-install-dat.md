@@ -12,6 +12,14 @@ winget install Espressif.EIM
 
 custom installation path set to `d:\esp`
 
+### offline installer == better
+
+https://dl.espressif.com/dl/idf-installer/esp-idf-tools-setup-offline-5.5.4.exe
+
+https://dl.espressif.com/dl/idf-installer/esp-idf-tools-setup-espressif-ide-3.1.0-with-esp-idf-5.3.1.exe
+
+https://dl.espressif.cn/dl/esp-idf/
+
 
 
 ## install 
@@ -41,9 +49,11 @@ custom installation path set to `d:\esp`
 
 - [[protocols-dat]]
 
-### offline installer 
-https://dl.espressif.cn/dl/esp-idf/
 
+
+## vscode 
+
+- [[vscode-dat]] - [[vs-cpp-dat]]
 
 ESP32-C3
 
