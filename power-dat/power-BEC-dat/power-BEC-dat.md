@@ -1,6 +1,11 @@
 
 # power-BEC-dat
 
+
+- [[ESC-dat]] - [[power-BEC-dat]]
+
+
+
 **BEC power** is a **low-voltage regulated power supply** that:
 - Takes power from a **main battery** (high voltage)
 - Converts it to a **safe, stable low voltage**
