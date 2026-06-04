@@ -1,6 +1,9 @@
 
 # HDSC-SDK-dat
 
+
+- [[MDK-ARM-dat]] - [[HDSC-dat]] - [[HDSC-SDK-dat]]
+
 - [[HDSC-dat]] - [[HDSC-SDK-dat]] - [[HDSC-downloader-dat]] - [[ARM1007-dat]] - [[MDK-ARM-dat]] - [[HC32F003-dat]]
 
 - [[clang-dat]] - [[vscode-dat]] - [[SDK-dat]] - [[C-dat]]
@@ -80,7 +83,7 @@ D:\Keil_v5\Packs\HDSC\HC32F003\1.0.1\Device\Include\HC32F003.h
 
 demo images == - [[HDSC-dat]] - [[HC32F003-dat]] - [[HDSC-SDK-dat]] - [[NBL1107-dat]]
 
-
+- [[ARM1007-dat]]
 
 ## serial 
 

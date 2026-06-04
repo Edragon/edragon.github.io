@@ -55,6 +55,19 @@ BOOT0
 - button: reset / PD4
 - LEDs: PD5
 
+## ISP programming 
+
+
+please note the jumper installations, yellow 4x boxese from left to right: 
+- BOOT0 set to HIGH
+- RESET set to [[serial-dat]] 
+- Chip [[serial-dat]] set to [[CH340-dat]] [[serial-dat]]
+
+use ISP for simple code uploading 
+
+![](2026-06-04-16-14-16.png)
+
+![](2026-06-04-16-17-58.png)
 
 ## demo code 
 
@@ -66,9 +79,7 @@ SDK
 
 available at - https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
 
-- [[MDK-ARM-dat]]
-
-
+- [[MDK-ARM-dat]] - [[HDSC-dat]] - [[HDSC-SDK-dat]]
 
 
 
@@ -84,3 +95,4 @@ available at - https://github.com/Edragon/MCU-HDSC-SDK-HC32L136
 - [[Power-distribution]]
 
 - [[ARM1007-fab]]
+

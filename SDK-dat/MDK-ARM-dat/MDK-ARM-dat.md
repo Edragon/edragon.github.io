@@ -81,6 +81,9 @@ install from official websites
 
 - [[HDSC-SDK-dat]] - [[STM32-SDK-dat]] - [[HDSC-dat]]
 
+- [[MDK-ARM-dat]] - [[HDSC-dat]] - [[HDSC-SDK-dat]]
+
+
 Supported Device
 
 * https://w.electrodragon.com/w/WCH - CH579
