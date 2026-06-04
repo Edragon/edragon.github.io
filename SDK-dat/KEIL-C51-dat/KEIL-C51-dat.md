@@ -5,6 +5,9 @@
 - [[KEIL-C51-dat]] - [[MDK-ARM-dat]] - [[KEIL-C251-dat]]
 
 
+## supported boards 
+
+- [[STC-dat]]
 
 
 ## version 

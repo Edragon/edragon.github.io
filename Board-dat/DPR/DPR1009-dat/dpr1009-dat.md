@@ -1,4 +1,4 @@
-# DPR1009 dat
+# DPR1009-dat
 
 - [legacy wiki page](https://w.electrodragon.com/w/AVR_PROG_Shield)
 - please refer for any missing info on legacy wiki

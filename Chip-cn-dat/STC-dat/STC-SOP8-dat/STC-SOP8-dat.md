@@ -5,6 +5,9 @@
 
 - [[STC-SOP8-dat]] - [[STC-dat]]
 
+- [[DIP8-dat]] - [[SOP8-dat]] - [[PCB-footprint-dat]] - [[PCB-dat]]
+
+
 ## STC8H / STC8G 
 
 STC8G1K17A
@@ -19,8 +22,14 @@ SOP8 - 8G1K08 - [[sensor-lidar-dat]]
 
 [[serial-dat]] interface 
 
+## pin definitions 
 
 ![](2026-04-04-17-29-51.png)
+
+
+
+
+## board 
 
 ![](2026-04-04-17-29-19.png)
 

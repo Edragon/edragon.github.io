@@ -1,5 +1,12 @@
 
-# footprint-dat.md
+# PCB-footprint-dat.md
+
+
+
+- [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]]
+
+- [[SDK-dat]] - [[STC-SDK-dat]]
+
 
 - [[EDA-dat]] 
 
@@ -7,7 +14,7 @@
 
 - [[fab-PCBA-dat]]
 
-
+- [[DIP8-dat]] - [[SOP8-dat]] - [[PCB-footprint-dat]] - [[PCB-dat]]
 
 ## boards 
 
@@ -20,7 +27,12 @@
 
 ## footprints 
 
-- [[PLCC-dat]]
+- [[PLCC-dat]] - [[DIP8-dat]] - [[SOP8-dat]]
+
+- [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]] - [[programmer-dat]]
+
+- [[TQFP-dat]] - [[PCB-footprint-dat]]
+
 
 
 ## pitch large footprint

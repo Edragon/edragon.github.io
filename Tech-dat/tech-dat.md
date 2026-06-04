@@ -237,7 +237,7 @@
 
 - [[soldering-dat]] - [[desoldering-dat]]
 
-- [[PCB-dat]] - [[PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]]
+- [[PCB-dat]] - [[PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]] - [[PCB-footprint-dat]]
 
 - [[tools-dat]] - [[instrument-dat]]
 

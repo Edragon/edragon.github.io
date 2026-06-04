@@ -43,3 +43,24 @@ If ISP fails or UART is unavailable, consider using ICP via SWD with Nuvoton's N
 - [[DPR1045-dat]] - [[DPR1009-dat]]
 
 - [[CCO3626-dat]] - [[CCO3627-dat]]
+
+
+### STC
+
+- [[STC-SDK-dat]] 
+
+
+
+## programmer 
+
+- [[SP200-dat]] - [[JLINK-dat]] 
+
+- [[DPR1009-dat]]
+
+- [[DPR1093-dat]] - [[CH341-dat]] - [[programmer-dat]]
+
+
+
+## ref 
+
+

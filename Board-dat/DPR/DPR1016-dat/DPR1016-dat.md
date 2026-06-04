@@ -17,7 +17,7 @@ https://www.electrodragon.com/product-category/modules/programmer/ic-socket-prog
 
 
 
-- [[TQFP32-dat]] - [[TQFP-dat]] - [[footprint-dat]]
+- [[TQFP32-dat]] - [[TQFP-dat]] - [[PCB-footprint-dat]]
 
 covert map 
 
