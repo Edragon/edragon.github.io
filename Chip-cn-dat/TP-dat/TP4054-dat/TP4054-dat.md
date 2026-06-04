@@ -6,6 +6,10 @@
 - [[shouding-dat]] - [[SD8001-dat]] - [[TP4054-dat]] - [[LTC4054-dat]]
 
 
+## note 
+
+- [[chip-counterfeit-dat]] available for this chip, mark `54b7`
+
 ## setup 
 
 - R_prog = 4.7K == 

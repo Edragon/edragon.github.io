@@ -12,6 +12,9 @@
 
 - [[SSL1045-dat]] 
 
+- [[TP4054-dat]] == no current flow when charging batteries
+
+
 
 
 ## ref 

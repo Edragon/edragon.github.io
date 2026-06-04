@@ -16,6 +16,9 @@
 
 - [[OPM1202-dat]]
 
+
+
+
 ## simutaniously charge and use 
 
 - [[ETA-solutions-dat]]
@@ -35,6 +38,8 @@
 - most common used but maybe not the best == [[TP4056-dat]] - [[TP-dat]]
 
 - [[BAT1002-dat]]
+
+- [[TP4054-dat]] - [[LTC4054-dat]] - [[shouding-dat]] - [[TP4067-dat]]
 
 ## apps 
 
