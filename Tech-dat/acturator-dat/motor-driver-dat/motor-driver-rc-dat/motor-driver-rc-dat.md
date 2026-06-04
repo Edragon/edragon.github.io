@@ -13,6 +13,15 @@
 
 - [[motor-dat]] - [[motor-driver-DC-dat]] - [[motor-driver-rc-dat]]
 
+
+## high current drive 
+
+- [[relay-dat]]
+
+![](2026-06-05-00-54-27.png)
+
+- SS510 
+
 ## ref 
 
 

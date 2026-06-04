@@ -303,6 +303,7 @@ The PTQ45P02 is a surface-mount, P-Channel Power MOSFET. It is frequently used i
 
 - [[fuman-dat]]
 
+03N07F == The 03N07F is a high-power, N-channel MOSFET most commonly used in heavy-duty switching circuits, DC-DC converters, and motor drives. Because of its extremely low on-resistance, it is specifically designed to maximize efficiency and minimize heat generation in high-current applications. - [[ESC-dat]]
 
 ## ref 
 

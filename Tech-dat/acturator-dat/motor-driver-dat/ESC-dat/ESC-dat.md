@@ -7,6 +7,17 @@
 - [[RC-kits-dat]]
 
 
+## mini ESC board 
+
+![](2026-06-05-00-57-48.png)
+
+fw5271 2110A ?? 
+
+03N07F - [[mosfet-dat]]
+
+
+## info 
+
 - **Electronic Speed Controller (ESC)**: Controls the speed of the motors by adjusting the power supplied to them. ESCs are essential for smooth and responsive flight.
 
 
