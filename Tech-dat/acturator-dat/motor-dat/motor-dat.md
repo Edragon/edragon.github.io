@@ -8,6 +8,10 @@
 - [[gearbox-dat]]
 
 
+## motor drive 
+
+- [[motor-dat]] - [[motor-driver-DC-dat]] - [[motor-driver-rc-dat]] - [[motor-driver-dat]]
+
 ## motor specs 
 
 - [[torque-dat]] - [[capacitor-start-dat]]

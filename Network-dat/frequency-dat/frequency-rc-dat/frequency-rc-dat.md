@@ -2,12 +2,14 @@
 
 # frequency-rc-dat
 
-- [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]]
+- [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]] - [[RF-dat]] - [[RF-2.4Ghz-dat]] - [[RF-1Ghz-dat]]
+
 
 ## transmitter and receiver board 
 
 - [[27mhz-dat]] + [[40mhz-dat]] combination - [[RF-link-dat]]
 
+- [[rf-2.4Ghz-dat]]
 
 ### kit wiring 
 

@@ -9,6 +9,7 @@
 
 https://github.com/Edragon/Datasheet/blob/master/LT8920%20%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C1.0.pdf
 
+- [[SSOP-dat]] == pin 16
 
 ## ref 
 

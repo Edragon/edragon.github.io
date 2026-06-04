@@ -1,5 +1,13 @@
 
-# flyback-diode-dat
+# diode-flyback-dat
+
+
+
+== SS510 == [[RZ7886-dat]] 
+
+
+
+
 
 ## exaple == MBRF20100 == 🔧 Role of MBRF20100 in a Motor Driver
 

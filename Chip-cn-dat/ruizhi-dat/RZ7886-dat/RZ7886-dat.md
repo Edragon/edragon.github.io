@@ -4,8 +4,9 @@
 
 - [[TA6586-dat]] - [[motor-driver-dat]] - [[ruizhi-dat]] - [[RZ7886-dat]]
 
-- [[rc-dat]]
+- [[rc-dat]] - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[capacitor-start-dat]]
 
+- datasheet == [[DS-electodragon-RZ7886.pdf]]
 
 Description
 
@@ -17,7 +18,7 @@ RZ7886 is suitable for toy vehicles, remote-controlled aircraft motor drive, aut
 
 Features
 - Low stand-by current: ≦2uA
-- Wide supply voltage range
+- Wide supply voltage range  3.0V~14V.
 - Built-in Brake Function
 - Thermal Shutdown protection
 - Over Current Limit and Short Circuit Protect Function
@@ -32,10 +33,15 @@ Features
 
 ![](2026-06-02-16-33-46.png)
 
+w/wireless chip - [[rf-2.4ghz-dat]]
+
 ![](2026-06-02-16-36-42.png)
 
+- [[diode-flyback-dat]] == SS510
 
+![](2026-06-05-00-48-14.png)
 
+- [[capacitor-dat]]
 
 
 

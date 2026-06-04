@@ -25,4 +25,4 @@ It is optimal for motor drive in 12V system products and can drive either two DC
 
 ## ref 
 
-- [[dc-motor-driver-dat]]
+- [[DC-motor-driver-dat]]
