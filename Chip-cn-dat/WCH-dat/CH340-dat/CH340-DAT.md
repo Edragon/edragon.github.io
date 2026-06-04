@@ -79,6 +79,13 @@ Before installing the driver:
 *Note: If Windows detects the new hardware automatically, simply point the wizard to the `DRIVER` directory.*
 
 
+
+## board and code 
+
+![](2026-06-04-17-00-24.png)
+
+- [[ARM1007-dat]]
+
 ## ref 
 
 - legacy wiki page https://w.electrodragon.com/w/Category:CH340

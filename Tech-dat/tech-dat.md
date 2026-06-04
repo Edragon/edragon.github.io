@@ -243,7 +243,7 @@
 
 ## Mechnicals 
 
-- [[mechanics-dat]] - [[CAD-dat]] - [[CNC-dat]] 
+- [[mechanics-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]]
 
 - [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]]
 

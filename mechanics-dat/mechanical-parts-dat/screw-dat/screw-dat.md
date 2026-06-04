@@ -4,7 +4,7 @@
 
 - [[screw-magnetic-dat]]
 
-- [[nail-dat]] - [[screw-dat]]
+- [[nail-dat]] - [[screw-dat]] - [[thread-dat]]
 
 ## drivers
 

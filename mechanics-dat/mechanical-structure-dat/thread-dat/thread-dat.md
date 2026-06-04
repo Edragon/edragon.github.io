@@ -3,6 +3,12 @@
 
 - [[motor-brushless-dat]]
 
+
+## thread holder 
+
+![](2026-06-04-16-58-31.png)
+
+
 ## thread adapter 
 
 ![](2026-02-28-02-38-16.png)

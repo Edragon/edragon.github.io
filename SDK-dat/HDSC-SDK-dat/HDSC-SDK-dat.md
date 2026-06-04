@@ -8,6 +8,7 @@
 
 - [[clang-dat]] - [[vscode-dat]] - [[SDK-dat]] - [[C-dat]]
 
+- [[serial-dat]] - [[CH340-dat]]
 
 ## HDSC ISP == programmer 
 
