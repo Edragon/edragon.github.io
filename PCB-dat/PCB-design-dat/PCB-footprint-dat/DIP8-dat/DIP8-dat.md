@@ -2,6 +2,10 @@
 
 # DIP8-dat
 
+- [[DIP8-dat]] - [[DIP16-dat]] - [[DIP28-dat]] - [[PCB-footprint-dat]]
+
+
+
 ## chip socket 
 
 ![](2026-06-04-18-27-10.png)
@@ -12,3 +16,14 @@
 
 - [[DPR1093-dat]] - [[CH341-dat]] - [[programmer-dat]]
 
+programmer design 
+
+![](2026-06-04-18-30-22.png)
+
+
+
+
+
+## ref 
+
+- [[PCB-footprint-dat]]

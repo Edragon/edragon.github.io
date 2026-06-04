@@ -33,5 +33,15 @@ SOP8 - 8G1K08 - [[sensor-lidar-dat]]
 
 ![](2026-04-04-17-29-19.png)
 
+
+
+## flash 
+
+- [[programmer-socket-dat]]
+
+![](2026-06-04-19-01-56.png)
+
+![](2026-06-04-19-05-15.png)
+
 ## ref 
 

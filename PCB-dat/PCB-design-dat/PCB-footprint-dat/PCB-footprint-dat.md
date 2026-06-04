@@ -3,7 +3,7 @@
 
 
 
-- [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]]
+- [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]] - [[programmer-dat]]
 
 - [[SDK-dat]] - [[STC-SDK-dat]]
 
@@ -32,6 +32,9 @@
 - [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]] - [[programmer-dat]]
 
 - [[TQFP-dat]] - [[PCB-footprint-dat]]
+
+- [[DIP8-dat]] - [[DIP16-dat]] - [[DIP28-dat]] - [[PCB-footprint-dat]]
+
 
 
 

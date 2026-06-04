@@ -14,7 +14,25 @@ https://www.electrodragon.com/product-category/modules/programmer/ic-socket-prog
 
 - [[SP200-dat]] - [[DPR1057-dat]]
 
+- [[DPR1093-dat]]
 
+
+## DIP28 narrow socket 
+
+using together with -- [[PPB0038-dat]]
+
+width == 7.62 
+
+- [[DIP28-dat]] 
+
+![](2026-06-04-18-41-51.png)
+
+
+## DIP wide socket 
+
+width == 18.5 
+
+![](2026-06-04-18-42-12.png)
 
 
 
