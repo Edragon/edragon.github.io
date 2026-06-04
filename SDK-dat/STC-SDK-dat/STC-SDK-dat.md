@@ -37,7 +37,7 @@ install keil header files
 
 ## repo 
 
-- https://github.com/Edragon/STC
+- https://github.com/Edragon/MCU-STC
 
 
 

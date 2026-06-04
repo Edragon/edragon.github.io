@@ -26,6 +26,16 @@ SOP8 - 8G1K08 - [[sensor-lidar-dat]]
 
 ![](2026-04-04-17-29-51.png)
 
+| pin | func | note                     | app |
+| --- | ---- | ------------------------ | --- |
+| 2   | VCC  | power                    |     |
+| 4   | GND  | power                    |     |
+| 1   | P5.4 | general purpose I/O      |     |
+| 3   | P5.5 | general purpose I/O      |     |
+| 5   | P3.0 | RXD, general purpose I/O |     |
+| 6   | P3.1 | TXD, general purpose I/O |     |
+| 7   | P3.2 | general purpose I/O      |     |
+| 8   | P3.3 | general purpose I/O      |     |
 
 
 

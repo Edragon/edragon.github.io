@@ -30,12 +30,28 @@ wireless motor drive board
 - Front side socket (with USB) == battery side 
 - Back side socket == motor side
 
+## drive chip 
+
+- [[STC-SOP8-dat]] - [[DIP8-dat]]
+
+| pin | func | note                     | app     |
+| --- | ---- | ------------------------ | ------- |
+| 2   | VCC  | power                    |         |
+| 4   | GND  | power                    |         |
+| 1   | P5.4 | general purpose I/O      | LED     |
+| 3   | P5.5 | general purpose I/O      | D2      |
+| 5   | P3.0 | RXD, general purpose I/O | D1      |
+| 6   | P3.1 | TXD, general purpose I/O | D0      |
+| 7   | P3.2 | general purpose I/O      | MOTOR_B |
+| 8   | P3.3 | general purpose I/O      | MOTOR_A |
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video
 
+#stc #rf tt motor control == https://t.me/electrodragon3/453
 
-
+demo code at - [[STC-SDK-dat]] repro
 
 ## ref 
 
