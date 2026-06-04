@@ -16,7 +16,7 @@
 - [[FTDI-dat]] - [[FT232-dat]] - [[serial-dat]]
 
 
-
+- [[audio-dat]] - [[codec-dat]] - [[arduino-audio-dat]] - [[arduino-dat]]
 
 ## repo 
 

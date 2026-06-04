@@ -4,6 +4,14 @@
 
 - [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]] - [[cable-JST-2P-dat]] - [[wire-to-wire-dat]]
 
+- [[cable-JST-dat]] - [[wire-to-wire-dat]]
+
+## board 
+
+- [[PCA1032-dat]] - [[PCA1044-dat]]
+
+
+
 
 ## new type 
 

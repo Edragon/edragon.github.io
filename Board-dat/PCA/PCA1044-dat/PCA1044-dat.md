@@ -16,6 +16,9 @@ https://www.electrodragon.com/product/jst-connector-set-female-male-with-14cm-wi
 | Outer skin diameter | 1.7mm                                            |
 | Wire number         | 1007#22AWG                                       |
 
+- [[cable-JST-dat]] - [[wire-to-wire-dat]] - [[PCA1032-dat]] - [[PCA1044-dat]]
+
+
 
 ## ref 
 

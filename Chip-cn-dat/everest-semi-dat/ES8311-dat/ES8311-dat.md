@@ -7,6 +7,11 @@
 
 - [[sensor-microphone-dat]] - [[sensor-microphone-Analog-dat]]
 
+
+- [[ES8311-SDK-dat]] - [[ES8311-dat]] - [[everest-semi-dat]] - [[ES7201-dat]] - [[codec-dat]]
+
+
+
 ## ES8311 
 
 refer use guide in [[I2S-SDK-dat]]
@@ -25,7 +30,7 @@ System
 http://www.everest-semi.com/pdf/ES8311%20PB.pdf
 
 
-## pins 
+## pins to ESP32-S3
 
     ESP32S3开发板（16MFLASH) - ES8311-NS4150B-CODEC音频模块 - 说明
     GPIO_NUM_5 -- SDA -- 串口数据信号线

@@ -3,15 +3,13 @@
 
 
 
-- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]]
+- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]]
 
 
-- [[VS1053-dat]]
 
 
-## MIDI codec 
 
-- SAM 2695 == SAM2695 LOW POWER SINGLE CHIP SYNTHESIZER WITH EFFECTS AND BUILT-IN CODEC
+
 
 
 ## ref 
