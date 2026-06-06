@@ -365,6 +365,7 @@ Long range [[RFID-dat]]
 
 ### NGS
 
+- [[location-dat]] - [[NGS1052-dat]]
 
 SIMCOM - 2G - [[SIM800-dat]]
 - arduino-compatible base board [[NGS1072-DAT]]

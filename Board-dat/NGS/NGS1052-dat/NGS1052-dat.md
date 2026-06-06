@@ -1,7 +1,10 @@
 
 # NGS1052-dat
 
-https://www.electrodragon.com/product/neo-6m-gps-module-r2/
+
+
+[NEO-6M GPS Module R2](https://www.electrodragon.com/product/neo-6m-gps-module-r2/)
+
 
 - [legacy wiki page](https://w.electrodragon.com/w/Ublox_GPS)
 

@@ -21,7 +21,7 @@
 
 - [[ATGM336H-dat]]
 
-- [[u-blox-dat]] - [[NEO-7-dat]] - [[NEO-6-dat]]
+- [[u-blox-dat]] - [[NEO-7-dat]] - [[NEO-6-dat]] - [[NGS1052-dat]]
 
 - [[NGS1089-dat]] - [[SIM868-dat]] - [[SIMCOM-dat]] - [[location-dat]]
 
