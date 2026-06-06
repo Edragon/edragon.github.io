@@ -25,9 +25,10 @@ $$RPM = \frac{Speed (km/h) \times 16.67}{Tire Circumference (meters)}$$
 
 - [[motor-brushless-dat]] - [[motor-dat]]
 
-
+- [[battery-dat]]
 
 
 ## ref 
 
 
+- [[electric-scooter]]

@@ -6,6 +6,32 @@
 
 - [[RC-kits-dat]]
 
+- [[ESC-dat]] - [[power-BEC-dat]]
+
+- [[ESC-dat]] - [[motor-brushless-dat]]
+
+## test demo wiring CN 
+
+![](2026-06-05-01-01-28.png)
+
+![](2026-06-05-01-03-41.png)
+
+![](2026-06-05-01-01-51.png)
+
+- 有的输入带SW端口是启动线要接电源正极
+- 有的带L端口是LED线接负极点亮
+
+## mini ESC board 
+
+![](2026-06-05-00-57-48.png)
+
+fw5271 2110A ?? 
+
+03N07F - [[mosfet-dat]]
+
+![](2026-06-05-01-00-07.png)
+
+## info 
 
 - **Electronic Speed Controller (ESC)**: Controls the speed of the motors by adjusting the power supplied to them. ESCs are essential for smooth and responsive flight.
 

@@ -5,7 +5,7 @@
 - [[VSWR-dat]] - [[bands-dat]] - [[frequency-dat]]
 
 
-- [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]]
+- [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]] - [[RF-dat]] - [[RF-2.4Ghz-dat]] - [[RF-1Ghz-dat]]
 
 - [[antenna-dat]] - [[antenna-spring-dat]]
 

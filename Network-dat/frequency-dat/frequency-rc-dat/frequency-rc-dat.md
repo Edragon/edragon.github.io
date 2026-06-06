@@ -2,11 +2,32 @@
 
 # frequency-rc-dat
 
-- [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]]
+- [[27mhz-dat]] - [[frequency-dat]] - [[frequency-rc-dat]] - [[RF-dat]] - [[RF-2.4Ghz-dat]] - [[RF-1Ghz-dat]]
+
+- [[RC-dat]]
 
 ## transmitter and receiver board 
 
 - [[27mhz-dat]] + [[40mhz-dat]] combination - [[RF-link-dat]]
+
+- [[rf-2.4Ghz-dat]]
+
+
+## customized chip TX RX
+
+2.4G-4T-RX-ESOP8
+
+![](2026-06-05-01-14-15.png)
+
+2.4G-4T-TX-ESOP8
+
+![](2026-06-05-01-15-03.png)
+
+
+## transmitter 
+
+![](2026-06-05-00-55-19.png)
+
 
 
 ### kit wiring 

@@ -1,7 +1,7 @@
 
 # capacitor-start-dat
 
-
+- [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[capacitor-start-dat]]
 
 
 ## fan starting 

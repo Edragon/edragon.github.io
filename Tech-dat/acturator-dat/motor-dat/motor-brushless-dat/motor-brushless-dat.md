@@ -15,6 +15,8 @@
 
 - [[motor-BLDC-driver-dat]] - [[motor-brushless-dat]] - [[motor-driver-dat]] - [[motor-dat]]
 
+- [[ESC-dat]] - [[motor-brushless-dat]]
+
 
 ## board 
 
