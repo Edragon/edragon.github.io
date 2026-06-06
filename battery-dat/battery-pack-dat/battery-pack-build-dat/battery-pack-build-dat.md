@@ -14,6 +14,19 @@
 
 ## build details 
 
+
+### laptop internal battery pack
+
+3S-3P == 11V - [[lenovo-dat]]
+
+![](2025-09-30-21-25-57.png)
+
+![](2025-09-30-21-26-17.png)
+
+![](2025-09-30-21-26-41.png)
+
+
+
 3x parallel 
 
 ![](2026-06-06-16-55-11.png)

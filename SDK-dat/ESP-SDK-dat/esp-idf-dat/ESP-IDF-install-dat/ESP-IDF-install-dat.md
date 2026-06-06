@@ -3,6 +3,31 @@
 # ESP-IDF-install-dat
 
 
+
+## install done 
+
+    Using Python in C:\ESP\python_env\idf5.5_py3.11_env\Scripts
+    Python 3.11.2
+    Using Git in C:\ESP\tools\idf-git\2.44.0\cmd
+    git version 2.44.0.windows.1
+    Activating ESP-IDF 5.5
+    Setting IDF_PATH to 'C:\ESP\frameworks\esp-idf-v5.5.4'.
+    * Checking python version ... 3.11.2
+    * Checking python dependencies ... OK
+    * Deactivating the current ESP-IDF environment (if any) ... OK
+    * Establishing a new ESP-IDF environment ... OK
+    * Identifying shell ... powershell.exe
+    * Detecting outdated tools in system ... Found tools that are not used by active ESP-IDF version.
+    For removing old versions of idf-driver, idf-python-wheels use command 'python.exe C:\ESP\frameworks\esp-idf-v5.5.4\tools\idf_tools.py uninstall'
+    To free up even more space, remove installation packages of those tools.
+    Use option python.exe C:\ESP\frameworks\esp-idf-v5.5.4\tools\idf_tools.py uninstall --remove-archives.
+
+    Done! You can now compile ESP-IDF projects.
+    Go to the project directory and run:
+
+    idf.py build
+
+
 ## install windows 2026 
 
 winget install Espressif.EIM
