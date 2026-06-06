@@ -26,6 +26,15 @@ BQ24650 Stand-Alone Synchronous Buck Battery Charge Controller for Solar Power W
 ![](2026-02-12-19-17-09.png)
 
 
+dq29330 + bq8030
+
+The bq80xx family of devices are not sold to the mass market so there is no public information available.
+
+![](2026-06-06-16-52-19.png)
+
+- [[toshiba-dat]]
+
+- [[battery-pack-dat]]
 
 ## LDO 
 
