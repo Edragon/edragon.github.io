@@ -13,6 +13,7 @@
 
 - [[battery-concept-dat]] - [[Battery-Graphene-dat]] - [[battery-dat]]
 
+- [[conn-dat]] - [[pitch-dat]]
 
 ## BMS 
 

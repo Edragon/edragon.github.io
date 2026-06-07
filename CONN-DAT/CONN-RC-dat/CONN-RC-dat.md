@@ -27,6 +27,14 @@
 - 大田宫 - [[L6.2-dat]]
 - 小田宫 - [[EL4.5-dat]]
 
+
+## VH3.96 
+
+- [[VH3.96-dat]] - [[pitch-dat]] - [[CONN-RC-dat]] - [[wire-to-board-dat]] - [[CONN-dat]]
+
+![](2026-06-07-13-18-25.png)
+
+
 ## ref 
 
 
