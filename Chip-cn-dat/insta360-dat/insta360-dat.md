@@ -6,7 +6,7 @@
 
 - [[insta360-go2-dat]]
 
-- [[insta360-go-rack-dat]] - [[insta360-dat]] - [[camera-rack-dat]]
+- [[insta360-go-rack-dat]] - [[insta360-dat]] - [[camera-rack-dat]] - [[gopro-dat]] - [[gopro-amount-dat]]
 
 
 ## ref 
