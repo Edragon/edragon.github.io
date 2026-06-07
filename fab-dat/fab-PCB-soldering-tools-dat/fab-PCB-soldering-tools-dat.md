@@ -21,7 +21,7 @@ best accessoeries
 
 soldering iron rack - https://www.electrodragon.com/product/casting-metal-soldering-rack/ - [[PSOS010-dat]]
 
-
+- [[heat-isolator-dat]]
 
 - [[preheat-bed-dat]]
 

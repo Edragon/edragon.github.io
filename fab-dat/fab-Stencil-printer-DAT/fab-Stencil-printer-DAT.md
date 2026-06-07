@@ -3,6 +3,8 @@
 
 - [[fab-stencil-dat]] - [[fab-stencil-printer-dat]] - [[fab-stencil-frameless-dat]] - [[fab-stencil-frame-dat]]
 
+- [[solder-paste-dat]]
+
 
 - [[fab-PCBA-dat]]
 
@@ -12,6 +14,9 @@
 - [[fab-stencil]]
 
 
+## solder paste printer 
+
+![](2025-08-08-12-11-20.png)
 
 
 ## Features 
