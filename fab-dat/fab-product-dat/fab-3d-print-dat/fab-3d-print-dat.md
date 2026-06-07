@@ -1,11 +1,14 @@
 
 # fab-3d-print-dat.md
 
+
+- [[fab-3d-print-dat]] - [[3d-print-service-dat]]
+
 - [[3d-print]]
 
 - [[plastic-dat]]
 
-- [[fab-3d-print-materials-dat]] - [[PLA-dat]] - [[3d-print-service-dat]]
+- [[fab-3d-print-materials-dat]] - [[PLA-dat]] 
 
 
 

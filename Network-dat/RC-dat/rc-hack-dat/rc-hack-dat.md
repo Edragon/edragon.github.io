@@ -38,6 +38,14 @@ fully fixed
 - long distance == [[elrs-dat]]
 
 
+## utilities 
+
+- [[sensor-camera-dat]] - 
+
+- [[pump-dat]] - [[relay-dat]] - [[buzzer-dat]]
+
+
+
 
 ## ref 
 
