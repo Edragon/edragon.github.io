@@ -47,3 +47,6 @@ SW3518S 是一款高集成度的多快充协议双口充电芯片， 支持 A+C 
 ## ref 
 
 - [[power-bank-dat]]
+
+
+- [[ismartware]]
