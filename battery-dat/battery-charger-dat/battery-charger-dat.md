@@ -8,6 +8,10 @@
 
 - [[battery-charge-boost-dat]] - [[battery-charger-dat]]
 
+- [[battery-charger-2s-dat]] - [[battery-charger-3s-dat]]
+
+- [[battery-dat]] - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]]
+
 ## info 
 
 

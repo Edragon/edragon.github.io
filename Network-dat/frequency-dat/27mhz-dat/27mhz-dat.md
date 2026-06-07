@@ -123,9 +123,21 @@ If your project is a medium-to-large boat, using a **plastic straw or a hollow c
 
 **Verdict:** 0.5m is more than "enough"—it is an **optimal height** that should yield near-maximum theoretical range for your 2.4GHz receiver.
 
-Are you using a dedicated mast design for this, or are you looking for a way to conceal the antenna while maintaining this height?
 
 
+
+
+## build 
+
+![](2026-06-07-14-24-41.png)
+
+![](2026-06-07-14-25-02.png)
+
+board - TX5 402 - SOP8
+
+![](2026-06-07-14-25-17.png)
+
+![](2026-06-07-14-26-24.png)
 
 ## ref 
 

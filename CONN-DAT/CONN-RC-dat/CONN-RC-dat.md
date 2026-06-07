@@ -30,7 +30,7 @@
 
 ## VH3.96 
 
-- [[VH3.96-dat]] - [[pitch-dat]] - [[CONN-RC-dat]] - [[wire-to-board-dat]] - [[CONN-dat]]
+- [[CONN-VH3.96-dat]] - [[pitch-dat]] - [[CONN-RC-dat]] - [[wire-to-board-dat]] - [[CONN-dat]]
 
 ![](2026-06-07-13-18-25.png)
 

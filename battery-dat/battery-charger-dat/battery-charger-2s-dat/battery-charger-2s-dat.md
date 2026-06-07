@@ -127,5 +127,20 @@ Since you are building a **scooter**, safety is paramount.
 
 
 
+
+## build 
+
+- output 7.2V 
+
+- [[acdc-dat]]
+
+![](2026-06-07-14-29-35.png)
+
+![](2026-06-07-14-30-04.png)
+
+![](2026-06-07-14-30-20.png)
+
+- [[mosfet-dat]] - [[samsung-dat]]
+
 ## ref 
 

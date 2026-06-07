@@ -33,6 +33,10 @@
 
 - [[rc-hack-dat]]
 
+- [[frequency-dat]]
+
+- [[battery-dat]] - [[battery-charger-dat]] 
+
 
 ## ref 
 
