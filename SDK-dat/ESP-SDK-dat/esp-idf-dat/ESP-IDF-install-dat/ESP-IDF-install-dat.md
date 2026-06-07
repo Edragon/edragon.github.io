@@ -6,6 +6,10 @@
 
 ## install done 
 
+
+C:\WINDOWS\system32\cmd.exe /k ""c:\ESP\idf_cmd_init.bat" esp-idf-3e8dc98b7d231dd052ee1d6c662c7aa8"
+
+
     Using Python in C:\ESP\python_env\idf5.5_py3.11_env\Scripts
     Python 3.11.2
     Using Git in C:\ESP\tools\idf-git\2.44.0\cmd
