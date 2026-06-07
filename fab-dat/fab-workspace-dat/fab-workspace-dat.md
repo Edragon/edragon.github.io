@@ -32,7 +32,14 @@
 
 
 
+## disassembly
+
+- [[fab-tools-dat]]
+
+- [[adhesive-dat]] - [[adhesive-remover-dat]] == [[glue-dat]]
+
+- [[adhesive-remover]]
 
 ## ref 
 
-- [[fab-workspace]]
+- [[fab-workspace]] - [[fab-PCB-soldering-tools]]

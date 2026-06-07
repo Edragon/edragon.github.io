@@ -11,6 +11,8 @@
 
 - [[glue-dat]] - [[glue-hot-dat]]
 
+- [[adhesive-remover-dat]]
+
 # 🔍 Comparison of Adhesives
 
 | Feature / Property        | 502 Glue (Cyanoacrylate)     | Epoxy Resin (AB Glue)            | Hot Glue (Thermoplastic)       | UV Glue (Light-Cured Adhesive)     |
