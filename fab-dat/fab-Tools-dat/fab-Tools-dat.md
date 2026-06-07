@@ -27,7 +27,7 @@
 
 - [[prototyping-tools-dat]]
 
-
+- [[fab-PCB-soldering-dat]] - [[fab-PCB-soldering-tools-dat]] - [[soldering-tools-spot-welding-dat]]
 
 ## stock 
 

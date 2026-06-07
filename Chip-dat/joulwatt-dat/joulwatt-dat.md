@@ -9,6 +9,7 @@
 - [[joulwatt-dat]] - [[JW3317-dat]] - [[battery-protector-dat]]
 
 
+- [[JW3313-dat]] - [[joulwatt-dat]] - [[battery-3s-build-dat]]
 
 
 

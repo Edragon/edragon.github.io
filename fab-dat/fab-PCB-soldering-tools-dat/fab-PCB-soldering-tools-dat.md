@@ -33,7 +33,7 @@ soldering iron rack - https://www.electrodragon.com/product/casting-metal-solder
 
 - [[soldering-dat]] - [[desoldering-dat]]
   
-- [[spot-welding-dat]] 
+- [[soldering-tools-spot-welding-dat]] 
 
 - [[PCB-dat]]
 

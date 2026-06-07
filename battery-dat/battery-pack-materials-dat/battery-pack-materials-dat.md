@@ -1,7 +1,7 @@
 
 # battery-pack-materials-dat
 
-- [[battery-tools-dat]] - [[battery-pack-materials-dat]]
+- [[fab-soldering-materials-dat]] - [[battery-pack-materials-dat]] - [[battery-tools-dat]] 
 
 - [[battery-strips-dat]] - [[battery-fishpaper-dat]]
 

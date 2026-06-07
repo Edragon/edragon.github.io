@@ -2,7 +2,7 @@
 
 # battery-dat 
 
-- [[power-dat]] - [[battery-dat]] 
+- [[power-dat]] - [[battery-dat]] - [[battery-pack-dat]]
 
 
 - [[battery-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-capacity-dat]]
@@ -14,6 +14,10 @@
 - [[battery-concept-dat]] - [[Battery-Graphene-dat]] - [[battery-dat]]
 
 - [[conn-dat]] - [[pitch-dat]]
+
+- [[fab-tools-dat]] - [[fab-PCB-soldering-dat]] - [[fab-PCB-soldering-tools-dat]] - [[soldering-tools-spot-welding-dat]]
+
+
 
 ## BMS 
 

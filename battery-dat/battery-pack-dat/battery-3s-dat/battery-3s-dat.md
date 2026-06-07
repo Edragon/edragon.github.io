@@ -2,7 +2,7 @@
 
 # battery-3s-dat
 
-- [[battery-3s-dat]] - [[battery-2s-dat]] - [[battery-1s-dat]]
+- [[battery-3s-dat]] - [[battery-2s-dat]] - [[battery-1s-dat]] - [[battery-dat]]
 
 - [[battery-3s-build-dat]] - [[battery-3s-dat]]
 
