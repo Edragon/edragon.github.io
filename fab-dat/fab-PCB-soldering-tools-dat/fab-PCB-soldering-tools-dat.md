@@ -4,7 +4,9 @@
 
 - [[fab-tools-dat]] - [[fab-workspace-dat]] - [[fab-PCB-soldering-tools-dat]]
 
+- [[PCB-cleaner-dat]] - [[PCB-clean-dat]] - [[PCB-adhesive-dat]] - [[fab-dat]]
 
+- [[tweezer-dat]]
 
 - [[fab-PCB-dat]] - [[fab-PCB-soldering-dat]] - [[fab-PCB-soldering-tools-dat]] - [[fab-PCB-desoldering-dat]] - [[fab-soldering-materials-dat]]
 

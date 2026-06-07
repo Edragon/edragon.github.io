@@ -2,6 +2,9 @@
 
 # PCB-clean-dat
 
+
+- [[fab-soldering-materials-dat]] - [[fab-PCB-soldering-tools-dat]]
+
 - [[PCB-cleaner-dat]] - [[PCB-clean-dat]] - [[PCB-adhesive-dat]] - [[fab-dat]]
 
 

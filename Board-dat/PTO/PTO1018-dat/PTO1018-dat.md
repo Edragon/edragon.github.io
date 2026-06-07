@@ -9,7 +9,9 @@
 
 ## Applications, category, tags, etc. 
 
-- [[fab-workspace-dat]]
+- [[fab-workspace-dat]] - [[fab-PCB-soldering-tools-dat]] - [[tweezer-dat]]
+
+
 
 ## Demo Code and Video
 

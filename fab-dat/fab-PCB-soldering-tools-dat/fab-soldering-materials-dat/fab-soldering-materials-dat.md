@@ -8,13 +8,13 @@
 
 
 
-- [[solder-paste-dat]] - [[soldering-flux-dat]]
+- [[solder-paste-dat]] - [[soldering-flux-dat]] - [[soldering-wires-dat]] - [[fab-soldering-materials-dat]]
 
 - [[battery-strips-dat]]
 
 
 
-
+- [[PCB-clean-dat]]
 
 ## ref 
 
