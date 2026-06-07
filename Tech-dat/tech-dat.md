@@ -53,7 +53,7 @@
 
 - [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]]
 
-- [[battery-BMS-dat]] - [[BMS-active-dat]] - [[BMS-passive-dat]]
+- [[battery-BMS-dat]] - [[BMS-active-dat]] - [[BMS-passive-dat]] - [[battery-protector-dat]]
 
 - [[battery-pack-dat]] - [[battery-pack-kit]] - [[battery-pack-materials-dat]] 
 

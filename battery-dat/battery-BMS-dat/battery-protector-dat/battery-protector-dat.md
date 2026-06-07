@@ -77,7 +77,10 @@ boards specs for reference only
 
 - [[DW01-dat]]
 
-- [[joulwatt-dat]] - [[JW3317-dat]]
+- [[joulwatt-dat]] - [[JW3317-dat]] == [[battery-protector-dat]] - [[JW3313-dat]] == [[battery-protector-3s-dat]]
+
+
+
 
 ## ref 
 
