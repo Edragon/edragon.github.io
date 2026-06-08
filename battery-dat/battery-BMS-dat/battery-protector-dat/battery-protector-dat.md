@@ -79,8 +79,9 @@ boards specs for reference only
 
 - [[joulwatt-dat]] - [[JW3317-dat]] == [[battery-protector-dat]] - [[JW3313-dat]] == [[battery-protector-3s-dat]]
 
+## protector board 3-5s
 
-
+![](2026-06-08-01-38-04.png)
 
 ## ref 
 

@@ -20,7 +20,7 @@ all the sensors are 6-pin, sensor socket is 7-pin
 
 - sensor socket - [[STH1057-dat]]
 
-
+![](2026-06-08-01-35-02.png)
 
 
 ## Gas type and models 

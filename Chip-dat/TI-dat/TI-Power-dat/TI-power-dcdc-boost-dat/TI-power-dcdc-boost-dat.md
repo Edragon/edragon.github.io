@@ -7,6 +7,7 @@
 
 # TI-Power-dcdc-boost-dat
 
+TPS61023 5V 1A 升压稳压器 升压模块
 
 TPS61023DRLR SOT-5X3-6具有0.5V低输入电压的3.7A升压转换器
 

@@ -1,11 +1,14 @@
 # MPS-dat
 
+
+
+
 [legacy wiki page](https://w.electrodragon.com/w/Category:MPS)
 
 
 - [[MPS-dat]] - [[MP28167-dat]] - [[MPM3610-dat]]
 
-
+- [[MPS-dat]] - [[MP1584-dat]] - [[MP4560-dat]]
 
 
 
