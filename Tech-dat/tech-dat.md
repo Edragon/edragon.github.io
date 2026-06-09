@@ -7,7 +7,7 @@
 
 - [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[glob-top-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]]
+- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]]
 
 - [[circuits-dat]]
 
@@ -289,7 +289,7 @@
 
 - [[effects-dat]]
 
-- [[fab-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-3d-print-dat]]
+- [[fab-dat]] - [[fab-PCBA-dat]] - [[fab-stencil-dat]] - [[fab-3d-print-dat]] - [[fab-qc-dat]]
 
 - [[fab-workspace-dat]] 
 

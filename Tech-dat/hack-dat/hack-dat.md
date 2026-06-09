@@ -12,6 +12,12 @@
 - [[glue-dat]] - [[velcro-dat]]
 
 
+## invasive hack 
+
+- [[screw-dat]] - [[Heat-Set-Insert-dat]]
+
+- [[plastic-dat]] - [[plastic-soldering-dat]]
+
 ## build materials 
 
 - [[sheet-dat]]

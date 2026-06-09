@@ -7,6 +7,9 @@
 
 - [[injection-molding-dat]]
 
+- [[plastic-soldering-dat]]
+
+
 
 ## frication compare 
 

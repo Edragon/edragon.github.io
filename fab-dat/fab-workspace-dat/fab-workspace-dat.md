@@ -40,6 +40,13 @@
 
 - [[adhesive-remover]]
 
+
+
+## testing 
+
+- [[pogo-pin-dat]]
+
+
 ## ref 
 
 - [[fab-workspace]] - [[fab-PCB-soldering-tools]]
