@@ -1,9 +1,19 @@
 
-# TI-Signal-dat
+# TI-interface-dat
+
+- [[ti-interface-dat]] - [[ti-dat]]
 
 - [[filter-dat]]
 
 
+
+## buffer 
+
+`SN74LVC8T245RHL` - SN74LVC8T245 8-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs
+
+The SN74LVC8T245 is an eight bit non-inverting bus transceiver with configurable dual power supply rails that enables bidirectional voltage level translation. The SN74LVC8T245 is optimized to operate with VCCA and VCCB set at 1.65V to 5.5V. The A port is designed to track VCCA. VCCA accepts any supply voltage from 1.65V to 5.5V. The B port is designed to track VCCB. VCCB accepts any supply voltage from 1.65V to 5.5V. This allows for universal low-voltage bidirectional translation between any of the 1.8V, 2.5V, 3.3V, and 5.5V voltage nodes.
+
+https://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf?ts=1780913696610
 
 
 ## signals 

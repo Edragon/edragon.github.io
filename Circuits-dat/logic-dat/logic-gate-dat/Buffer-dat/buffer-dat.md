@@ -3,7 +3,13 @@
 
 - [[octal-buffer]] - [[shift-register]]
 
+
+
+
+
 ## common used 
+
+- [[TI-interface-dat]] - [[TI-dat]]
 
 - [[74HC245-dat]] - [[74HCT245-dat]]
 

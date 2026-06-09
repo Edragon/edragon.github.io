@@ -13,6 +13,11 @@
 LMC6482 / LMC6484 - LMC648x CMOS Rail-to-Rail Input and Output Operational Amplifiers
 
 
+LM158J - Military-grade, dual, 32-V, 700-kHz op amp | NAB | 8 | -55 to 125
+
+https://www.ti.com/lit/ds/symlink/lm158-n.pdf?ts=1780902057786
+
+LMx58-N Low-Power, Dual-Operational Amplifiers
 
 ## OPA 
 
