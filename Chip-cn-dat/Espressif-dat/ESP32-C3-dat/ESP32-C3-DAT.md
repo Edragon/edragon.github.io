@@ -11,13 +11,15 @@
 
 - [[ESP32-C3-wroom-02-dat]] - [[ESP32-C3-USB-dat]] - [[ESP32-SDK-dat]] - [[ESP32-C3-mini-1-dat]]
 
+
+
 ## tech 
 
 - [[RISC-V-dat]] - [[zigbee-dat]] - [[wifi-dat]]
 
 - [[conn-USB-dat]] - [[ESP32-USB-dat]] - [[USB-CDC-dat]] - [[jtag-dat]] - [[USB-SDK-dat]]
 
-
+- [[ESP-SDK-dat]] - [[rc-code-dat]]
 
 
 
@@ -165,6 +167,13 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 ## update logs and issues 
 
 - [[CONN-USB-micro-vertical-dat]]
+
+
+
+
+
+进入下载模式：按住ESP32C3的BOOT按键，然后按下RESET按键，松开RESET按键，再松开B00T按键，此时ESP32C3会进入下载模式。（每次连接都需要重新进入下载模式，有时按一遍，端口不稳定会断开，可以通过端□识别声音来判断）
+
 
 
 ## ref

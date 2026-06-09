@@ -1,7 +1,11 @@
 
 # RC-apps-dat
 
-- [[RC-dat]]
+
+
+
+
+- [[RC-dat]] - [[rc-code-dat]]
 
 
 - [[UAV-dat]] 
@@ -70,6 +74,13 @@
 The **RC link update rate between your Radiomaster Pocket and Mobula8 SPI ELRS** can be set to **25 / 50 / 100 / 250 / 500 Hz**,  
 but **500 Hz is the highest stable rate** supported by the Mobula8 SPI receiver.
 
+
+
+
+
+## SDKs
+
+- [[ESP-NOW-dat]] - [[ESP-SDK-dat]]
 
 
 ## ref 

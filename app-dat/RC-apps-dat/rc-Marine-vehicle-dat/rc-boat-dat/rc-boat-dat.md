@@ -60,6 +60,9 @@ the [[motor-driver-rc-dat]] hack as below:
 
 ![](2026-06-02-16-41-46.png)
 
+
+- [[ESP32-C3-supermini-dat]] - [[rc-code-dat]]
+
 - [[UTC3361-dat]] - [[UTC358-dat]] - [[LM358-dat]]
 
 ![](2026-05-28-11-46-21.png)
