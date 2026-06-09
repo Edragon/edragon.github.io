@@ -27,3 +27,30 @@ The first notch of this digital filter can be programmed via the on-chip control
 
 
 
+AD7908/AD7918/AD7928
+
+https://www.analog.com/media/en/technical-documentation/data-sheets/ad7908_7918_7928.pdf
+
+8-Channel, 1 MSPS, 8-/10-/12-Bit ADCs with Sequencer in 20-Lead TSS0P
+
+FEATURES
+- Fast throughput rate: 1 MSPS
+- Specified for AVDD of 2.7 V to 5.25 V
+- Low power
+- 6.0 mW max at 1 MSPS with 3 V supply
+- 13.5 mW max at 1 MSPS with 5 V supply
+- Eight (single-ended) inputs with sequencer
+- Wide input bandwidth
+- AD7928, 70 dB min SINAD at 50 kHz input frequency
+- Flexible power/serial clock speed management
+- No pipeline delays
+- High speed serial interface SPI®/QSPI™/
+- MICROWIRE™/DSP compatible
+- Shutdown mode: 0.5 μA max
+- 20-lead TSSOP package
+- Qualified for automotive applications
+
+
+
+## ref 
+

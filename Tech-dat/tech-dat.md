@@ -111,7 +111,7 @@
 
 - [[SFP-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
 
-- [[frequency-dat]]
+- [[frequency-dat]] - [[bands-dat]]
 
 ### MCU / CTRL / Processing 
 
@@ -156,7 +156,7 @@
 
 - [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]]
 
-- [[sensor-temperature-dat]] - [[sensor-non-contact-temperature-dat]]
+- [[sensor-temperature-dat]] - [[sensor-temperature-non-contact-dat]]
 
 - [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 

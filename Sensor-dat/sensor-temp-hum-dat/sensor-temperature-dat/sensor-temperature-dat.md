@@ -4,11 +4,7 @@
 https://www.electrodragon.com/product-category/sensors/ambient/temphumidity-etc/
 
 
-- [[thermocouple-dat]] - [[sensor-RTD-dat]]
-
-- [[sensor-NTC-dat]] 
-
-- [[sensor-non-contact-temperature-dat]]
+- [[sensor-temperature-digital-dat]] - [[sensor-temperature-dat]] - [[sensor-temperature-non-contact-dat]] - [[sensor-NTC-dat]] - [[sensor-RTD-dat]] - [[thermocouple-dat]] - [[thermostat-dat]]
 
 
 ## apps 

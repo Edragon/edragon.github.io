@@ -8,7 +8,7 @@
 
 - [[Thermistor-dat]]（thermal + resistor)
 
-- [[burden-resistor-dat]] - [[sample-resistor-dat]]
+- [[resistor-burden-dat]] - [[sample-resistor-dat]]
 
 
 
