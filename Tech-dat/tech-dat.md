@@ -111,7 +111,7 @@
 
 - [[SFP-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
 
-- [[frequency-dat]] - [[bands-dat]]
+- [[frequency-dat]] - [[bands-dat]] - [[EMI-dat]] - [[LNA-dat]]
 
 ### MCU / CTRL / Processing 
 

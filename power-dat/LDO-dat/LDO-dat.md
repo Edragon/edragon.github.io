@@ -1,6 +1,10 @@
 
 # LDO-dat 
 
+
+
+
+
 - [[microne-dat]] - [[silergy-dat]] - [[ti-power-dat]]
 
 - [[LDO]] - [[LDO-2CH-dat]] - [[LDO-3CH-dat]]
@@ -191,9 +195,14 @@ MAX1735 - 200mA, Negative-Output, Low-Dropout Linear Regulator in SOT23
 
 
 
-## maker 
+## chips 
 
 - [[maxlinear-dat]]
+
+- [[maxim-dat]]
+
+
+
 
 
 ## ref 

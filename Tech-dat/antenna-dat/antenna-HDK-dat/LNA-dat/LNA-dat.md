@@ -41,6 +41,16 @@ Weak incoming signals need to be amplified early in the signal chain. A low-nois
 
 HMC564LC4 - IC GAAS LNA 7-14GHz
 
+SAC4012Q4 - GaAs MMIC Low Noise Amplifier 8GHz~11GHz
+
+Features
+- ➢ Frequency:8.5~11GHz
+- ➢ Gain:35dB
+- ➢ OP-1dB:11dBm typ. ,10dBm min.
+- ➢ Power supply: +3.3~5V
+- ➢ Package:4mm×4mm×1.25(Typ.) mm
+
+
 
 ## noise amplifier 
 

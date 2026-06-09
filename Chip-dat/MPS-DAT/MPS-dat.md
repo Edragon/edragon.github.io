@@ -10,6 +10,8 @@
 
 - [[MPS-dat]] - [[MP1584-dat]] - [[MP4560-dat]]
 
+- [[MP9843-dat]] - [[MPS-dat]]
+
 
 
 ## Chips 

@@ -9,6 +9,14 @@ LT8609/LT8609A/LT8609B == 42V, 3A Synchronous Step-Down Regulator with 2.5µA Qu
 - [[LTC4054-dat]]
 
 
+## LDO 
+
+
+## DCDC down 
+
+`MAX17577`, MAX17578 - 4.5V to 60V, 1A High-Efficiency, Synchronous, Inverting Output DC-DC Converters
+
+https://www.analog.com/media/en/technical-documentation/data-sheets/max17577-max17578.pdf
 
 
 ## ref 

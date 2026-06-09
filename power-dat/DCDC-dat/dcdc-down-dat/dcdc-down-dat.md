@@ -4,6 +4,7 @@
 
 - [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[constant-current-dat]] - [[CV&CC-dat]] 
 
+- [[dcdc-down-mulitple-dat]]
 
 ## chip and companies
 
@@ -214,6 +215,17 @@ The MGDM-25 series is a full family of high performance DC/DC power modules desi
 
 MT2492 SOT-23-6 2A 4.5V-16V 600kHz regulator 
 
+
+
+## apps 
+
+Applications
+● Industrial Control Power Supply
+● General-Purpose Point-of-Load
+● Gate-Drive Circuits
+● Motion Control
+● Wall-Transformer Regulation
+● High-Voltage, Single-Board System
 
 
 
