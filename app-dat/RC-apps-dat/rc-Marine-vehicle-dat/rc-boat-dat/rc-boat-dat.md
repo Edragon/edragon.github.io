@@ -15,6 +15,9 @@
 
 ![](2025-12-06-14-07-33.png)
 
+
+
+
 ## Wave Deflector / Wave Breaker Plate (压浪板)
 
 A **wave deflector** is a structure or plate used to **redirect, reduce, or break incoming waves**, protecting a surface, structure, or vessel from direct impact.  
@@ -158,6 +161,16 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 ![](2025-12-06-15-32-57.png)
 
 
+
+## build a dynamic propeller protector 
+
+cut a cross in a foam
+
+![](2026-06-09-14-06-42.png)
+
+roughly cover the [[propeller-dat]] and use type lock it 
+
+![](2026-06-09-14-07-15.png)
 
 
 ## ref 

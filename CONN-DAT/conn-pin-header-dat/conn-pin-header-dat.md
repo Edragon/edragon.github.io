@@ -1,7 +1,7 @@
 
 # conn-pin-header-dat
 
-- [[CONN-dat]]
+- [[CONN-dat]] - [[pitch-dat]]
 
 - dupont pin headers 
 

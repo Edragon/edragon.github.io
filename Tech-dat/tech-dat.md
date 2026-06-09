@@ -32,7 +32,7 @@
 
 - [[CONN-USB-dat]] - [[USB-SDK-dat]]
 
-- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]]
+- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]]
 
 
 ## New Tech And Updates 

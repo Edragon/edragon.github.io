@@ -7,11 +7,11 @@
 - [[molex-dat]] - [[51006-0200-dat]] - [[pitch-dat]] - [[CONN-dat]] - [[CONN-RC-dat]]
 
 - 1.0 mm - [[SH1.0-dat]]
-- 1.25 mm - [[GH1.25-dat]]
-- 1.27 mm - DC3-6/8/10/12/14/16-50P
-- 1.5 mm - [[ZH1.5-dat]]
-- 2.00 mm - [[PH2.0-dat]] - [[HY2.0-dat]] - [[PHD2.0-dat]], [[molex-dat]] - [[51006-0200-dat]] - Connector Housing, 51006, Plug, 2 Ways, 2 mm, Molex 50012 Series Pin Contacts
-- 2.54 mm - [[XH2.54-dat]] - [[KF2510-dat]] - [[XHB2.54-dat]] - [[SM2.54-dat]], KF250-2.54-2/3/4/5-8P-1/2 - [[conn-JST-dat]]
+- 1.25 mm - [[GH1.25-dat]] - [[conn-pin-header-dat]]
+- 1.27 mm - DC3-6/8/10/12/14/16-50P  - [[conn-pin-header-dat]]
+- 1.5 mm - [[ZH1.5-dat]] - [[conn-pin-header-dat]]
+- 2.00 mm - [[PH2.0-dat]] - [[HY2.0-dat]] - [[PHD2.0-dat]], [[molex-dat]] - [[51006-0200-dat]] - Connector Housing, 51006, Plug, 2 Ways, 2 mm, Molex 50012 Series Pin Contacts  - [[conn-pin-header-dat]]
+- 2.54 mm - [[XH2.54-dat]] - [[KF2510-dat]] - [[XHB2.54-dat]] - [[SM2.54-dat]], KF250-2.54-2/3/4/5-8P-1/2 - [[conn-JST-dat]] - [[conn-pin-header-dat]]
 - 3.5 mm - KF2EDGKRH/NH-3.5mm, KF250-2.54/3.5mm
 - 3.81 mm - KF2EDGV
 - 3.96 mm - [[CONN-VH3.96-dat]] - [[CONN-CH3.96-dat]] - [[CONN-HT3.96-dat]]

@@ -1,7 +1,7 @@
 
 # mechanics-dat
 
-- [[fab-dat]] - [[case-dat]]
+- [[fab-dat]] - [[case-dat]] - [[hack-dat]] 
 
 - [[engineering-dat]]
 
