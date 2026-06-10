@@ -1,5 +1,6 @@
 
 #include <WiFi.h>
+#define CONFIG_ASYNC_TCP_RUNNING_CORE 1 
 #include <AsyncTCP.h>          // Requires installing the AsyncTCP library
 #include <ESPAsyncWebServer.h> // Requires installing the ESPAsyncWebServer library
 
@@ -8,10 +9,9 @@ const char* ssid = "ESP32_C3_RC_Car";
 const char* password = "123456789"; // Minimum 8 characters
 
 // --- Pin Allocations ---
-const int M1_PWM = 6;
-const int M1_DIR = 7;
-const int M2_PWM = 9;
-const int M2_DIR = 10;
+const int M1_PWM = 2; // Left side
+const int M2_PWM = 3; // Right side
+const int LED_PIN = 8; // Indicator LED
 
 // --- PWM Settings ---
 const int PWM_FREQ = 5000;
@@ -119,22 +119,17 @@ void driveMotors(int16_t throttle, int16_t steering) {
     leftSpeed  = constrain(leftSpeed, -255, 255);
     rightSpeed = constrain(rightSpeed, -255, 255);
 
-    // Motor 1 (Left)
-    if (leftSpeed >= 0) {
-        digitalWrite(M1_DIR, LOW);
-        analogWrite(M1_PWM, leftSpeed);
-    } else {
-        digitalWrite(M1_DIR, HIGH);
-        analogWrite(M1_PWM, 255 + leftSpeed); 
-    }
+    // Motor 1 (Left side, unidirectional PWM)
+    analogWrite(M1_PWM, abs(leftSpeed));
 
-    // Motor 2 (Right)
-    if (rightSpeed >= 0) {
-        digitalWrite(M2_DIR, LOW);
-        analogWrite(M2_PWM, rightSpeed);
+    // Motor 2 (Right side, unidirectional PWM)
+    analogWrite(M2_PWM, abs(rightSpeed));
+
+    // LED indication for activity (lights up when moving)
+    if (abs(throttle) > 10 || abs(steering) > 10) {
+        digitalWrite(LED_PIN, HIGH);
     } else {
-        digitalWrite(M2_DIR, HIGH);
-        analogWrite(M2_PWM, 255 + rightSpeed);
+        digitalWrite(LED_PIN, LOW);
     }
 }
 
@@ -163,16 +158,15 @@ void onEvent(AsyncWebSocket *server, AsyncWebSocketClient *client, AwsEventType 
 void setup() {
     Serial.begin(115200);
 
-    // Initialize Motor Control Hardware
+    // Initialize Motor Control and LED Hardware
     pinMode(M1_PWM, OUTPUT);
-    pinMode(M1_DIR, OUTPUT);
     pinMode(M2_PWM, OUTPUT);
-    pinMode(M2_DIR, OUTPUT);
+    pinMode(LED_PIN, OUTPUT);
 
     analogWriteFrequency(M1_PWM, PWM_FREQ);
-    analogWriteResolution(M1_RES);
+    analogWriteResolution(M1_PWM, PWM_RES);
     analogWriteFrequency(M2_PWM, PWM_FREQ);
-    analogWriteResolution(PWM_RES);
+    analogWriteResolution(M2_PWM, PWM_RES);
 
     // Turn off driving pins initially
     driveMotors(0, 0);
@@ -189,7 +183,7 @@ void setup() {
 
     // Serve HTML page when phone connects to base address
     server.on("/", HTTP_GET, [](AsyncWebServerRequest *request){
-        request->send_P(200, "text/html", index_html);
+        request->send(200, "text/html", index_html);
     });
 
     server.begin();
