@@ -1,7 +1,7 @@
 
 # conn-pin-header-dat
 
-- [[CONN-dat]] - [[pitch-dat]]
+- [[CONN-dat]] - [[pitch-dat]] - [[conn-pin-header-dat]] - [[conn-pin-header-female-dat]] - [[conn-pin-header-SMD-dat]]
 
 - dupont pin headers 
 
@@ -106,7 +106,7 @@ note below three version available, we only sell "right-bend" version here [[CCO
 
 - plastic part height == mm 
 
-
+![](2026-06-11-02-38-36.png)
 
 ![](2025-09-26-16-08-49.png)
 
