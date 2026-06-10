@@ -17,7 +17,7 @@
 
 - [[fab-tools-dat]] - [[fab-PCB-soldering-dat]] - [[fab-PCB-soldering-tools-dat]] - [[soldering-tools-spot-welding-dat]]
 
-
+- [[battery-failure-dat]]
 
 ## BMS 
 

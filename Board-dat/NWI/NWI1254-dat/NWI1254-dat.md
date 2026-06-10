@@ -3,6 +3,8 @@
 
 - this is a succsessor of [[NWI1252-dat]], further add [[RS232-dat]] interface
 
+- [[NWI1255-dat]] - [[NWI1254-dat]] - [[NWI1254-dat]]
+
 - [[RS485-dat]]
 
 - [[ESP32-C3-dat]] - [[ESP32-C3-SDK-dat]] - [[ESP32-C3-dat]]
