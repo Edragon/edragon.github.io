@@ -12,7 +12,7 @@
 
 1. [[structure-dat]] - [[Alu-Extrusion-dat]] 
 
-2. [[mechanics-dat]] - [[Linear-Rail-dat]]
+2. [[fab-mechanics-dat]] - [[Linear-Rail-dat]]
 
 3. [[NUT-dat]] - [[screw-dat]] 
 

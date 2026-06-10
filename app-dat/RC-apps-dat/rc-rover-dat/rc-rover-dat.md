@@ -50,7 +50,7 @@
 
 ## mechanics 
 
-- [[suspension-dat]] - [[mechanics-dat]] - [[chassis-dat]] - [[wheels-dat]] - [[shaft-connector-dat]] 
+- [[suspension-dat]] - [[fab-mechanics-dat]] - [[chassis-dat]] - [[wheels-dat]] - [[shaft-connector-dat]] 
 
 
 

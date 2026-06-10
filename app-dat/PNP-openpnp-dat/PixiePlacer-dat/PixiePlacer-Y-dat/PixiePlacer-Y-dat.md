@@ -119,7 +119,7 @@ Nuts and Bolts
 
 - [[motor-dat]] - [[belt-sys-dat]]
 
-- [[mechanics-dat]] - [[bearing-dat]] - [[shaft-dat]] - [[belt-dat]]
+- [[fab-mechanics-dat]] - [[bearing-dat]] - [[shaft-dat]] - [[belt-dat]]
 
 
 ## CAD images 
