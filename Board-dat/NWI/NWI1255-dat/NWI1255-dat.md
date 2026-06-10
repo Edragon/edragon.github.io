@@ -12,7 +12,7 @@
 Updates version compare to [[NWI1254-dat]]: 
 
 - [[CONN-USB-Type-C-dat]] instead of micro USB
-- DB9 connector pre-added 
+- DB9 connector pre-soldered 
 - [[ESP32-C3-dat]] external antenna version 
 
 

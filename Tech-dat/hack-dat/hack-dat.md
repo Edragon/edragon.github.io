@@ -14,7 +14,7 @@
 
 ## invasive hack 
 
-- [[screw-dat]] - [[Heat-Set-Insert-dat]]
+- [[screw-dat]] 
 
 - [[plastic-dat]] - [[plastic-soldering-dat]]
 
@@ -27,8 +27,11 @@
 
 - [[insta360-dat]] - [[gopro-dat]] - [[insta360-go-rack-dat]] - [[gopro-amount-dat]]
 
+## mechanics 
 
+- [[spacer-copper-dat]] - [[spacer-dat]] 
 
+- [[Heat-Set-Insert-dat]]
 
 ## ref 
 
