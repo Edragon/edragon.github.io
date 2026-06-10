@@ -57,6 +57,8 @@
 
 - [[battery-pack-dat]] - [[battery-pack-kit]] - [[battery-pack-materials-dat]] 
 
+- [[battery-3s-dat]] - [[battery-2s-dat]] - [[battery-1s-dat]]
+
 - [[battery-size-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]]
 
 - [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]]

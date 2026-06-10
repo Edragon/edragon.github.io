@@ -48,7 +48,7 @@ from a to z
 
 - [[nordic-dat]] - [[nrf52840-dat]] - [[nrf52840-mod-dat]] - [[nrf52832-dat]]
 
-- [[mediatek-dat]] - [[MT7688-dat]] - [[MT7628-dat]]
+- [[mediatek-dat]] - [[MT7688-dat]] - [[MT7628-dat]] - [[MT7601-dat]]
 
 - [[omniVision-dat]]
 

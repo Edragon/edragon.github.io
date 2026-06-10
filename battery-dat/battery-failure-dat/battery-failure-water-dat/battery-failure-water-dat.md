@@ -2,6 +2,13 @@
 
 # battery-failure-water-dat
 
+
+
+- [[battery-failure-dat]] - [[battery-failure-water-dat]] - [[battery-3s-build-dat]]
+
+
+
+
 A 3S2P (3 series, 2 parallel) 12V 18650 battery pack that has dropped to **2.5V after water ingress** has a **very slim chance of recovery, and attempting to fix it yourself carries a massive risk.**
 
 Even though the cutoff voltage for a single 18650 cell is typically around 2.5V, the fact that the **entire pack is water-damaged** and showing such a severe voltage drop means the internal situation is highly dangerous.

@@ -7,7 +7,28 @@
 
 
 
-## build 1 
+## build 2 == 3S2P 
+
+- [[battery-failure-water-dat]] - [[battery-3s-build-dat]]
+
+- CSC5113 - [[sand-tech-dat]] - [[CS5113-dat]] - [[battery-protector-dat]]
+- PAN3013 == unknown
+
+![](2026-06-10-21-13-16.png)
+
+![](2026-06-10-21-15-22.png)
+
+![](2026-06-10-21-22-11.png)
+
+![](2026-06-10-21-22-44.png)
+
+- [[heat-shrink-tube-dat]]
+
+044CE26CA7C7119160100265
+
+
+
+## build 1 == 3S
 
 ![](2026-06-07-14-52-34.png)
 
