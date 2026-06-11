@@ -27,23 +27,23 @@ board map and jumpers
 - [[NWI1044-dat]] - [[nodemcu-dat]] - [[ESP8266-HDK-dat]] - [[ELRS-board-dat]]
 
 
-| custom | func  | left | right | func       | custom       |
-| ------ | ----- | ---- | ----- | ---------- | ------------ |
-|        |       | AO   | D0    | IO16       |              |
-|        |       | RSV  | D1    | IO5        | motor1       |
-|        |       | RSV  | D2    | IO4        | motor2       |
-|        | xIO10 | SD3  | D3    | IO0        |              |
-|        | xIO9  | SD2  | D4    | IO2        | LED on board |
-|        |       | SD1  | 3V3   |            |              |
-|        |       | CMD  | GND   |            |              |
-|        |       | SDO  | D5    | IO14       |              |
-|        |       | CLK  | D6    | IO12       |              |
-|        |       | GND  | D7    | IO13       |              |
-|        |       | 3V3  | D8    | IO15       |              |
-|        |       | EN   | D9    | IO3 - RXD0 |              |
-|        |       | RST  | D10   | IO1 - TXD0 |              |
-|        |       | GND  | GND   |            |              |
-|        |       | Vin  | 3V3   |            |              |
+| custom | func  | left | right | func               | custom       |
+| ------ | ----- | ---- | ----- | ------------------ | ------------ |
+|        |       | AO   | D0    | IO16               |              |
+|        |       | RSV  | D1    | IO5                | motor1A      |
+|        |       | RSV  | D2    | IO4                | motor2A      |
+|        | xIO10 | SD3  | D3    | IO0u               | motor1B      |
+|        | xIO9  | SD2  | D4    | IO2u, LED on board | motor2B      |
+|        |       | SD1  | 3V3   |                    |              |
+|        |       | CMD  | GND   |                    |              |
+|        |       | SDO  | D5    | IO14               |              |
+|        |       | CLK  | D6    | IO12               | [[ELRS-dat]] |
+|        |       | GND  | D7    | IO13               | [[ELRS-dat]] |
+|        |       | 3V3  | D8    | IO15d              |              |
+|        |       | EN   | D9    | IO3 - RXD0         |              |
+|        |       | RST  | D10   | IO1 - TXD0         |              |
+|        |       | GND  | GND   |                    |              |
+|        |       | Vin  | 3V3   |                    |              |
 
 
 
