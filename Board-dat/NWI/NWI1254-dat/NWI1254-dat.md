@@ -3,7 +3,7 @@
 
 - this is a succsessor of [[NWI1252-dat]], further add [[RS232-dat]] interface
 
-- [[NWI1255-dat]] - [[NWI1254-dat]] - [[NWI1254-dat]]
+- [[NWI1255-dat]] - [[NWI1254-dat]] - [[NWI1252-dat]]
 
 - [[RS485-dat]]
 
@@ -112,6 +112,16 @@ note the [[RS232-dat]] interface should be twisted, wire as TX-RX and RX-TX
 
 - [[PLC-dat]] - [[modbus-dat]]  - [[RTU-dat]] 
 
+## Upgrade Design logs from [[NWI1252-dat]] to [[NWI1254-dat]]
+
+| updates                                      | status    | version |
+| -------------------------------------------- | --------- | ------- |
+| changed and moved a few pins                 | added     | V2 - [[NWI1254-dat]]     |
+| seperated RS-232 / RS-485 data LED indicator | added     | V2 - [[NWI1254-dat]]      |
+| simutaniously RS-232 / RS-485 data           | added     | V2 - [[NWI1254-dat]]      |
+| flipped side DB-9                            | added     | V2 - [[NWI1254-dat]]      |
+| power reverse protection                     | added     | V1 - [[NWI1252-dat]]      |
+| DC barrel 2.1mm barrel plug                  | not added | V1 - [[NWI1252-dat]]      |
 
 
 

@@ -49,16 +49,6 @@ and reference demo test code - https://github.com/Edragon/Arduino-ESP32/tree/mas
 - Case is super rigid, very difficult to open it, use a sharp tool to pry it
 
 
-## Design logs
-
-| updates                                      | status    | version |
-| -------------------------------------------- | --------- | ------- |
-| changed and moved a few pins                 | added     | V2 - [[NWI1254-dat]]     |
-| seperated RS-232 / RS-485 data LED indicator | added     | V2 - [[NWI1254-dat]]      |
-| simutaniously RS-232 / RS-485 data           | added     | V2 - [[NWI1254-dat]]      |
-| flipped side DB-9                            | added     | V2 - [[NWI1254-dat]]      |
-| power reverse protection                     | added     | V1 - [[NWI1252-dat]]      |
-| DC barrel 2.1mm barrel plug                  | not added | V1 - [[NWI1252-dat]]      |
 
 
 ## update logs and issues 

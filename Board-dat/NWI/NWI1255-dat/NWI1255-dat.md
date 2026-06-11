@@ -9,13 +9,15 @@
 
 ![](2026-06-10-18-18-15.png)
 
-Updates version compare to [[NWI1254-dat]]: 
+
+
+### Updates version compare to [[NWI1254-dat]]: 
 
 - [[CONN-USB-Type-C-dat]] instead of micro USB
-- DB9 connector pre-soldered 
+- DB9 connector pre-soldered - [[DB9-dat]] - [[CONN-dat]]
 - [[ESP32-C3-dat]] external antenna version 
 
-
+![](2026-06-11-20-17-21.png)
 
 
 
