@@ -11,6 +11,9 @@
 
 module HDK == [[ESP-12F-DAT]]
 
+
+
+
 ## common pins 
 
 
@@ -114,6 +117,46 @@ The ESP8266EX schematics include seven aspects:
 ## peripherals 
 
 - [[serial-dat]] - [[LDO-dat]]
+
+## software serial for ESP8266 
+
+### 🏆 The Best Choice: GPIO 4 and GPIO 5
+
+If they are available on your board (like the NodeMCU or WeMos D1 Mini), **GPIO 4 and GPIO 5 are the absolute best choices.**
+
+* **GPIO 5 (D1) ➔ RX**
+* **GPIO 4 (D2) ➔ TX**
+
+Why they are the best:
+
+These pins are completely "safe." They do not have any special pull-up or pull-down requirements during boot, meaning they won't interfere with the ESP8266 waking up, regardless of what external device you have hooked up to them.
+
+---
+
+### 🥈 The Backup Choice: GPIO 12 and GPIO 13
+
+If you are already using GPIO 4 and 5 for something else (like I2C communication), your next best bet is this pair:
+
+* **GPIO 13 (D7) ➔ RX**
+* **GPIO 12 (D6) ➔ TX**
+
+auto serial SCH 
+
+![](2026-06-11-17-47-57.png)
+
+
+
+## key setup 
+
+![](2026-06-11-17-49-45.png)
+
+
+## ADC setup 
+
+3.3V scale to 1V 
+
+![](2026-06-11-17-50-02.png)
+
 
 ### programmer and programming 
 

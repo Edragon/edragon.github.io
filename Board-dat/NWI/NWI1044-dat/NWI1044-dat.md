@@ -10,6 +10,13 @@
 
 - [[ESP-12F-dat]] - [[SDR1064-dat]]
 
+## pins 
+
+- refer to [[nodemcu-dat]]
+
+
+
+
 ## Note 
 
 - NO need to install driver for CH341 (replaced by CP2102)
@@ -18,13 +25,6 @@
 - Baud rate 9600
 - To flash R2, please see the update on our Nodemcu wiki page. Baud rate 115200
 - High quality USB cable is needed for this board to give high current supply, otherwise your board won't be recognized.
-
-
-## IDE 
-
-ESPlorer 
-
-![](2023-10-18-13-21-48.png)
 
 
 

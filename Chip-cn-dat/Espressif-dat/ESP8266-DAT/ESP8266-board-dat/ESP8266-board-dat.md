@@ -16,6 +16,8 @@
 
 ## dev board 
 
+- [[SDR1117-dat]]
+
 - [[NWI1044-dat]] - orignally design for [[nodemcu-dat]]
 
 - [[NWI1083-dat]] small size mini board, pro version of [[NWI1122-dat]]

@@ -1,7 +1,10 @@
 
 # ELRS-dat
 
-Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]]
+
+
+
+Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]] - [[ELRS-board-dat]]
 
 
 ## ELRS frequency 

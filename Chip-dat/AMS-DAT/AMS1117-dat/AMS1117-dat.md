@@ -1,7 +1,14 @@
 
 # AMS1117-dat 
 
-- [[peripherals-dat]]
+- [[peripherals-dat]] - [[LDO-dat]] - [[power-dat]] - [[AMS1117-dat]]
+
+
+
+
+## SCH 
+
+![](2026-06-11-17-49-00.png)
 
 
 ![](2023-10-18-14-41-35.png)

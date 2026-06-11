@@ -1,6 +1,8 @@
 
 # ESP-12F-DAT
 
+- [[ESP8266-HDK-dat]]
+
 
 ## Definitions
 
@@ -72,16 +74,16 @@ chip table
 
 
 
-| custom | left | boot mode    | func | right | boot mode | func         | custom |
+| custom | func | boot mode    | left | right | boot mode | func         | custom |
 | ------ | ---- | ------------ | ---- | ----- | --------- | ------------ | ------ |
-|        | RST  | ext.u, w/cap |      | TXD   |           |              |        |
-|        | ADC  |              |      | RXD   |           |              |        |
-|        | EN   | ext.u        |      | IO5   |           |              | (I2C)  |
-|        | IO16 |              |      | IO4   |           |              | (I2C)  |
-|        | IO14 |              | SCK  | IO0   | ext.u     | boot         |        |
-|        | IO12 |              | MI   | IO2   | ext.u     | on-board LED |        |
-|        | IO13 |              | MO   | IO15  | ext.d     | SS           |        |
-|        | 3V3  |              |      | GND   |           |              |        |
+|        |      | ext.u, w/cap | RST  | TXD   |           |              |        |
+|        |      |              | ADC  | RXD   |           |              |        |
+|        |      | ext.u        | EN   | IO5   |           |              | (I2C)  |
+|        |      |              | IO16 | IO4   |           |              | (I2C)  |
+|        | SCK  |              | IO14 | IO0   | ext.u     | boot         |        |
+|        | MI   |              | IO12 | IO2   | ext.u     | on-board LED |        |
+|        | MO   |              | IO13 | IO15  | ext.d     | SS           |        |
+|        |      |              | 3V3  | GND   |           |              |        |
 
 - [[NWI1083-dat]]
 
@@ -89,6 +91,12 @@ chip table
 ## Periperhal design 
 
 ![](2023-11-28-17-17-01.png)
+
+
+core for [[nodemcu-dat]]
+
+![](2026-06-11-17-46-28.png)
+
 
 
 ## datasheet 

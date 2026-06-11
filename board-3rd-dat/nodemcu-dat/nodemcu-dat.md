@@ -10,7 +10,41 @@
 
 - [[AMS1117-dat]]
 
+
+## SCH 
+
+https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/master/NODEMCU_DEVKIT_V1.0.PDF
+
+- [[ESP-12F-dat]] core 
+
+- [[ESP8266-HDK-dat]] == auto serial 
+
+- [[peripherals-dat]] - [[LDO-dat]] - [[power-dat]] - [[AMS1117-dat]]
+
+
+
 ### pins 
+
+
+![](2026-06-11-17-50-36.png)
+
+| custom | func  | left | right | func       | custom       |
+| ------ | ----- | ---- | ----- | ---------- | ------------ |
+|        |       | AO   | D0    | IO16       |              |
+|        |       | RSV  | D1    | IO5        |              |
+|        |       | RSV  | D2    | IO4        |              |
+|        | xIO10 | SD3  | D3    | IO0        |              |
+|        | xIO9  | SD2  | D4    | IO2        | on board LED |
+|        |       | SD1  | 3V3   |            |              |
+|        |       | CMD  | GND   |            |              |
+|        |       | SDO  | D5    | IO14       |              |
+|        |       | CLK  | D6    | IO12       |              |
+|        |       | GND  | D7    | IO13       |              |
+|        |       | 3V3  | D8    | IO15       |              |
+|        |       | EN   | D9    | IO3 - RXD0 |              |
+|        |       | RST  | D10   | IO1 - TXD0 |              |
+|        |       | GND  | GND   |            |              |
+|        |       | Vin  | 3V3   |            |              |
 
 
 
@@ -80,6 +114,15 @@
 - [[NWI1074-dat]]
 
 
+## IDE 
+
+ESPlorer 
+
+![](2023-10-18-13-21-48.png)
+
+
+
+
 
 ## output 
 
@@ -91,3 +134,9 @@
     build 	built on: 2016-03-14 02:10
     powered by Lua 5.1.4 on SDK 1.4.0
     lua: cannot open init.lua
+
+
+
+
+## ref 
+
