@@ -2,7 +2,23 @@
 
 # toothbrush-cleaner-dat
 
+
+- [[toothbrush-cleaner-dat]] - [[sanitize-dat]]
+
 - lebond 
+
+力博得声波牙刷充电器（刷头消毒盒）
+型号：LBT-203520
+产地：中国·广东·东
+
+充电器：
+输入电压：DC5V
+额定功率：2.5W
+
+消毒盒：
+额定电压：5V
+额定功率：5W
+
 
 ![](2026-06-10-21-03-50.png)
 
