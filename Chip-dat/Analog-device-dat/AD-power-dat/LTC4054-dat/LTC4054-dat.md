@@ -20,3 +20,11 @@ LTH7 == LTH7 (officially the LTC4054ES5-4.2) is a widely used, single-cell lithi
 
 
 - [[LTC4054]]
+
+
+## apps 
+
+- [[toothbrush-electric-dat]]
+
+## ref 
+

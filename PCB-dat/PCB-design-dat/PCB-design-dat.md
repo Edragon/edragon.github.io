@@ -1,6 +1,10 @@
 
 # PCB-design-dat
 
+
+
+- [[PCB-aluminium-dat]] - [[PCB-design-dat]] - [[led-panel-dat]]
+
 - [[PCB-design]] - [[PCB]] - [[PCB-form-dat]]
 
 - [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]

@@ -2,6 +2,9 @@
 # LED-dat
 
 
+- [[LED-dat]] - [[LED-strip-dat]] - [[led-driver-dat]] - [[led-panel-dat]] - [[led-types-dat]]
+
+
 - [[DCDC-boost-dat]] - [[LED-dat]] - [[backlight-dat]] - [[lcd-dat]] - [[lcd-driver-dat]] - [[led-driver-dat]]
 
 - [[LED-dat]] - [[portable-lights-dat]] - [[EDC-dat]]
@@ -28,7 +31,7 @@
 
 https://www.electrodragon.com/wp-content/uploads/2012/01/YSL-R542B5C-A11.pdf
 
-
+[[LED-5730-dat]]
 ## types 
 
 - [[LED-dat]] - [[LED-dual-dat]] - [[LED-5730-dat]]
