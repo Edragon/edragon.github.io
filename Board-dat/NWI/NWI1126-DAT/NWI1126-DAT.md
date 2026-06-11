@@ -183,7 +183,7 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 
 4MB flash - 2MB APP x2, basic-3.ino.partitions.bin file changed 
 
-    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM19" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "basic-3.ino.bootloader.bin" 0x8000 "basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "basic-3.ino.bin"
+    "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\5.1.0/esptool.exe" --chip esp32c3 --port "COM12" --baud 921600  --before default-reset --after hard-reset write-flash -e -z --flash-mode keep --flash-freq keep --flash-size keep 0x0 "basic-3.ino.bootloader.bin" 0x8000 "basic-3.ino.partitions.bin" 0xe000 "C:\Users\Administrator\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.1/tools/partitions/boot_app0.bin" 0x10000 "basic-3.ino.bin"
 
 - [[basic-3.ino.partitions.bin]] 
 - [[basic-3.ino.bootloader.bin]] 
@@ -201,7 +201,7 @@ Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to bli
 
 - [[NWI1124-DAT]]
 - [[NWI1125-DAT]]
-- [[NWI1126-fab]]
+- [[NWI1126-fab]] - [[NWI1126]]
 
 - [[ESP32-dat]] - code at [[arduino-esp32-dat]]
 

@@ -473,7 +473,7 @@ Quectel - 2G
 - [[NWI1223-dat]] - [[NWI1226-dat]] - [[NWI1235-DAT]] - [[NWI1243-dat]] 
 
 ESP32-APP
-- [[NWI1241-dat]] - [[NWI1245-DAT]] - [[NWI1252-dat]] - [[NWI1254-dat]]
+- [[NWI1241-dat]] - [[NWI1245-DAT]] - [[NWI1252-dat]] - [[NWI1254-dat]] - [[NWI1255-dat]]
 
 other 
 
