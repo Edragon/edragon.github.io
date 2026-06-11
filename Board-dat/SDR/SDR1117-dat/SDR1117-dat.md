@@ -72,4 +72,4 @@ expanding PCB by [[PCB-accesories-dat]]
 
 - [[SDR1117]]
 
-- [[ELRS-dat]]
+- [[ELRS-dat]] - [[inverter-dat]] - [[DRV8871-dat]]

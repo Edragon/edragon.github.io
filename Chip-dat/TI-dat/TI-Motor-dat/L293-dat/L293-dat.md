@@ -136,7 +136,7 @@ RPI drive via [[74xx-dat]]
 
 - [[SDR1064-dat]] - [[motor-driver-dat]]
  
-- [[74LVC2G04-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
+- [[74LVC2G04-dat]] - [[logic-inverter-dat/logic-inverter-dat/logic-inverter-dat]] - [[logic-gate-dat]]
 
 - [[L293]] - [[TI-motor]]
  

@@ -1,12 +1,8 @@
 
-# inverter-dat
-
-how to select a suitable inverter 
-
-- [[74HC14-dat]] - [[inverter-dat]]
+# power-inverter-dat
 
 
-
+- [[logic-inverter-dat]] - [[power-inverter-dat]]
 
 
 ## 4. Inverters

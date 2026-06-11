@@ -1,5 +1,15 @@
 # logic-inverter-dat
 
+
+how to select a suitable inverter 
+
+- [[74HC14-dat]] - [[inverter-dat]]
+
+- [[logic-inverter-dat]] - [[power-inverter-dat]]
+
+
+- [[74LVC2G04]]
+
 - [[TI-dat]]
 
 SN74LVC2G14 — Dual Schmitt-Trigger Inverter
@@ -17,6 +27,38 @@ The SN74LVC2G14 contains two independent Schmitt-trigger inverters and implement
 
 Notes:
 - Use this device when you need level translation, input hysteresis, or signal conditioning across a wide VCC range.
+
+
+
+
+[[logic-inverter-dat]]
+
+
+# inverter-dat
+
+- 74HC14D 
+
+
+
+## SN74LVC2G04 Dual Inverter Gate
+
+![](2025-03-25-15-51-07.png)
+
+https://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf
+
+
+Table 1. Function Table (Each Inverter)
+
+| INPUT (A) | OUTPUT (Y) |
+| --------- | ---------- |
+| H         | L          |
+| L         | H          |
+
+
+## ref 
+
+- [[logic-dat]]
+
 
 
 ## ref 
