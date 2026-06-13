@@ -2,7 +2,7 @@
 # light-dat 
 
 
-- [[light-spot-dat]] - [[light-app-dat]] - [[LED-dat]]
+- [[light-spot-dat]] - [[light-app-dat]] - [[LED-dat]] - [[led-driver-dat]]
 
 - [[sensor-light-dat]] - [[light-dat]]
 
@@ -11,6 +11,10 @@
 - [[laser-module-dat]] - [[light-guide-dat]]
 
 - [[light-density-dat]] 
+
+
+- [[waterproof-dat]]
+
 
 
 ## apps 
