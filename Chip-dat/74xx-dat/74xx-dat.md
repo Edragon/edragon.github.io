@@ -7,7 +7,7 @@
 
 - [[logic-dat]] - [[circuits-dat]]
 
-- [[74xx-dat]] - [[logic-inverter-dat/logic-inverter-dat/logic-inverter-dat]]
+- [[74xx-dat]] - [[logic-inverter-dat]]
 
 
 

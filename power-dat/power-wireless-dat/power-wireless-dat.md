@@ -11,6 +11,8 @@
 
 ## standards 
 
+- WPC-5W 
+
 
 - [[QI-dat]] - [[QI-wireless-charge-dat]]
 
