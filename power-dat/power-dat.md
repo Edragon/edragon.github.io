@@ -49,7 +49,11 @@
 
 - [[SMPS-dat]] - [[power-dat]] - [[ACDC-dat]] - [[DCDC-dat]]
 
-## Info 
+
+- [[power-wireless-dat]] - [[power-dat]]
+
+
+##[[wireless-charge-dat]]
 
 - [[breadboard-power-dat]]
 

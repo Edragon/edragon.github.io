@@ -1,11 +1,11 @@
 
-# wireless-charge-dat
+# power-wireless-dat
 
 - [[OPM1167-dat]] - [[OPM1168-dat]]
 
 - [[BQ51013-dat]] - [[BQ51050-dat]] - [[TI-power-dat]]
 
-
+- [[fuman-dat]] - [[XPM7305-dat]] - [[power-wireless-dat]]
 
 
 

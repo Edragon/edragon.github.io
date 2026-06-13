@@ -81,6 +81,11 @@ The capacity advertised on a power bank, such as 20000 mAh, typically represents
 - [[injoinic-dat]] - [[IP5306-dat]] - [[IP5316-dat]]
 
 
+## build reference 
+
+6E803 - unknwon - [[capacitor-CBB-dat]] - [[CP2104-dat]] - [[xysemi-dat]]
+
+![](2026-06-13-19-06-20.png)
 
 
 

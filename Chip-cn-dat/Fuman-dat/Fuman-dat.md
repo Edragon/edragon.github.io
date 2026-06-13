@@ -7,6 +7,11 @@
 
 - [[XPD318-dat]] - [[fuman-dat]]
 
+## wireless power 
+
+- [[fuman-dat]] - [[XPM7305-dat]] - [[power-wireless-dat]]
+
+
 ## mosfet 
 
 - [[analog-device-dat]]
