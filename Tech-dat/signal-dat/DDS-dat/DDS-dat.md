@@ -6,6 +6,9 @@
 DDS, or Direct Digital Synthesis, is a specific method used by modern signal generators to create these waveforms digitally.
 
 
+
+
+
 ## How DDS Works
 
 
@@ -20,6 +23,20 @@ Unlike old-school analog generators that use physical capacitors and inductors t
 
 
 ## Chips
+
+
+### AD9857
+
+- [[DDS-dat]] - [[DAC-dat]] - [[clock-multiplier-dat]] - [[filter-digital-dat]] - [[DSP-dat]] - [[AD9857-dat]] - [[analog-device-dat]]
+
+https://www.analog.com/media/en/technical-documentation/data-sheets/ad9857.pdf
+
+The AD9857 integrates `a high speed direct digital synthesizer (DDS)`, `a high performance, high speed, 14-bit digital-to-analog converter (DAC)`, `clock multiplier circuitry`, `digital filters`, `and other DSP functions` onto a single chip, to form a complete quadrature digital upconverter device. The AD9857 is intended to function as a universal I/Q modulator and agile upconverter, single-tone DDS, or interpolating DAC for communications applications, where cost, size, power dissipation, and dynamic performance are critical attributes.
+
+The AD9857 offers enhanced performance over the industrystandard AD9856, as well as providing additional features.
+
+The AD9857 is available in a space-saving, surface-mount package and is specified to operate over the extended industrial temperature range of −40°C to +85°C. 
+
 
 ### AD9833 — Programmable Waveform Generator
 

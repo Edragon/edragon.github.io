@@ -31,6 +31,12 @@ From Semtech SX1262 datasheet:
 
 
 
+## SPI interface 
+
+- 4-wire
+- 3-wire
+
+
 
 ## ref 
 

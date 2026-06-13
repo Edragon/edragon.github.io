@@ -2,6 +2,10 @@
 # analog-device-dat.md
 
 
+- [[DDS-dat]] - [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] - [[AD-digital-dat]]
+
+
+
 - [[ad-network-dat]] - [[analog-device-dat]]
 
 - [[TMC2100-dat]] - [[analog-device-dat]] - [[TMC2208-dat]] - [[TMC21030-dat]]

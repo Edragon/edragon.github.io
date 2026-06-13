@@ -27,6 +27,8 @@ legacy wiki page == https://www.electrodragon.com/w/AD/DA
 
 ## chips 
 
+- [[analog-device-dat]]
+
 - [[MCP4725-dat]] - [[microchip-dat]]
 
 

@@ -35,6 +35,15 @@
 - [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]]
 
 
+
+## chips 
+
+- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[realtek-dat]] - [[infineon-dat]]
+
+- [[chip-cn-dat]]
+
+
+
 ## New Tech And Updates 
 
 - [[high-voltage-dat]]
@@ -278,12 +287,6 @@
 
 - [[solutions-dat]]
 
-
-## chips 
-
-- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[realtek-dat]] - [[infineon-dat]]
-
-- [[chip-cn-dat]]
 
 
 

@@ -2,7 +2,7 @@
 # AMD-dat
 
 
-- [[ZYNQ-dat]] - [[CPLD-dat]]
+- [[ZYNQ-dat]] - [[AMD-dat]] - [[Xilinx-dat]] - [[ZYNQ-dat]] 
 
 
 AMD Ryzen Embedded 8000 SoCs 

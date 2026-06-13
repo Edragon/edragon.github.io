@@ -2,6 +2,10 @@
 # xilinx-dat
 
 
+- [[CPLD-dat]] - [[AMD-dat]] - [[Xilinx-dat]] - [[ZYNQ-dat]] 
+
+
+
 ## CPLD 
 
 
