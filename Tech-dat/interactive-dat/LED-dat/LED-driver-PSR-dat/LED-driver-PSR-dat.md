@@ -6,7 +6,7 @@
 - [[acdc-dat]] - [[light-spot-dat]] - [[led-driver-PSR-dat]]
 
 
-- [[BP9022-dat]] - [[BP9021-dat]] - [[BPS-dat]] - [[LED-driver-PSR-dat]]
+- [[BP9022-dat]] - [[BP9021-dat]] - [[BPS-dat]] - [[LED-driver-PSR-dat]] - [[OPM1101-dat]]
 
 - [[light-dat]] - [[light-spot-dat]] - [[LED-dat]] - [[LED-driver-dat]]
 
