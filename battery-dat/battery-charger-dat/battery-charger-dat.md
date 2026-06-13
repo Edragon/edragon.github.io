@@ -152,11 +152,11 @@ request
 - [[CD42-dat]]
 
 
-- [[XL-dat]]
-
 - [[ismartware-dat]] - [[SW6124-dat]]
 
 - [[linear-technology-dat]] 
+
+- [[xysemi-dat]]
 
 ## battery charger for multiple series 
 

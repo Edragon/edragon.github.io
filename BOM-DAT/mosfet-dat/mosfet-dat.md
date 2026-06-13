@@ -275,6 +275,10 @@ This device is suitable for use as a load switch or in PWM and gate charge for m
 
 The AM9435 is available in SOP8 Package
 
+`DTM4420` - N-Channel 30-V (D-S) MOSFET
+
+The `4435A` SOP refers to a P-Channel enhancement-mode MOSFET housed in a surface-mount SOP-8 (Small Outline Package). Transistors like the `FDS4435A` or `AO4435` are widely used for power management and battery-powered circuits.
+
 
 
 ## mosfet DFN 
@@ -288,6 +292,8 @@ This device is produced with high cell density DMOS trench technology, uses adva
 
 
 ## chip code 
+
+
 
 Mf8i1 - Generic SOT23-6 MOSFETs
 

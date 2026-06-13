@@ -1,7 +1,7 @@
 
 # drill-electric-dat
 
-- [[drill-bit-dat]]
+- [[drill-electric-dat]] - [[drill-bit-dat]] - [[tools-power-dat]] - [[drilling-dat]]
 
 一、能不能用？——“能动 ≠ 好用”
 ✅ 理论上可行
@@ -58,3 +58,9 @@
 ❌ 手持非常难控制
 
 ❌ 容易卡刀猛抖
+
+
+
+
+## ref 
+

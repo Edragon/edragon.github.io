@@ -6,6 +6,17 @@
 
 - [[battery-protector-1s-dat]] - [[xysemi-dat]]
 
+## XB8089D 
+
+XySemi XB8089D
+
+One Cell Lithium-ion/Polymer Battery Protection IC
+
+The XB8089D is a highly integrated, single-cell Lithium-ion/Lithium-polymer battery protection IC. It is designed to safeguard batteries from overcharging, overdischarging, overcurrent, and short circuits. By combining advanced MOSFETs, voltage detection, and delay circuits, it requires minimal external components.
+
+
+![](2026-06-13-19-04-11.png)
+
 ## XB7608
 
 The XB7608A series product is a high integration solution for lithiumion/polymer battery protection.

@@ -2,6 +2,24 @@
 
 # capacitor-CBB-dat
 
+
+ZZEC MPP 404J100V
+
+Metallized Polypropylene Film Capacitor is used for wireless charger - ZZEC
+
+CBB(MPP)Capacitor
+
+![](2026-06-13-19-02-03.png)
+
+FEATURES
+-  Capacitor size is super mini and ultra-thin (Thickness: 3.0-3.5mm).
+-  The industry's highest standard test: 100KHZ test, DF value: 100KHZ ≤ 0.0016-0.0035.
+-  The temperature rise ≤ 8 degrees, less internal heat, conversion rate is high.
+-  High-frequency high-current (The temperature rise only has 7.9~8 degrees under the 3.63A current).
+-  The product don't have any signs of deterioration after 150 days aging test.
+-  The wireless charging 10W-15w product chose our All capacitor specifications have passed the QI Certification.
+
+
 ## capacitor CBB and types 
 
 CBB capacitors are non-polarized, metallized polypropylene film capacitors known for high stability, low loss, and excellent self-healing properties. Operating commonly between \(63V\) to \(2000V\), they are ideal for high-frequency, AC motor running, filtering, and power supply applications. They come in various types, including CBB22 (general film) and CBB60/CBB61 (motor run). 

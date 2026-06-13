@@ -199,7 +199,7 @@
 
 - [[interface-dat]] - [[IO-expander-dat]]
 
-- [[serial-dat]] - [[serial-wireless-dat]]
+- [[serial-dat]] - [[serial-wireless-dat]] - [[CP2104-dat]]
   
 - [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]]
 
