@@ -1,6 +1,9 @@
 
 # ZYNQ-dat
 
+- [[CPLD-dat]] - [[AMD-dat]] - [[Xilinx-dat]] - [[ZYNQ-dat]] 
+
+
 Zynq UltraScale+ RFSoC
 
 FPGA RF Soc - XCZU48DR-2FSVG1517I

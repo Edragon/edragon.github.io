@@ -2,7 +2,13 @@
 # cpld dat 
 
 
-- [[XILINX-dat]]
+- [[CPLD-dat]] - [[AMD-dat]] - [[Xilinx-dat]] - [[ZYNQ-dat]] 
+
+- [[CPLD-dat]] - [[FPGA-dat]] - [[altera-dat]] 
+
+
+
+
 
 
 ## boards 

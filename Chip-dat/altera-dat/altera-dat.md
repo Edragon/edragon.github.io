@@ -1,11 +1,39 @@
 
 # altera-dat
 
+
+
+- [[CPLD-dat]] - [[FPGA-dat]] - [[altera-dat]] 
+
+
+
+
+
 hand book MAX II - [[max2_mii5v1.pdf]]
 
 - [[MAX10-dat]]
 
 - [[EPM240-dat]] - [[EPM570-dat]] - [[altera-dat]] - [[DODS044]] - [[DODS044-dat]] - [[CPLD-dat]] - [[FPGA-dat]]
+
+
+
+## EPM7192 
+
+	
+EPM7192SQI160-10 - IC CPLD 192MC 10NS 160QFP
+
+Features... 
+- ■ High-performance, EEPROM-based programmable logic devices (PLDs) based on second-generation MAX® architecture
+- ■ 5.0-V in-system programmability (ISP) through the built-in IEEE Std. 1149.1 Joint Test Action Group (JTAG) interface available in MAX 7000S devices
+  - – ISP circuitry compatible with IEEE Std. 1532
+- ■ Includes 5.0-V MAX 7000 devices and 5.0-V ISP-based MAX 7000S devices
+- ■ Built-in JTAG boundary-scan test (BST) circuitry in MAX7000S devices with 128 or more macrocells
+- ■ Complete EPLD family with logic densities ranging from 600 to 5,000 usable gates (see Tables 1 and 2)
+- ■ 5-ns pin-to-pin logic delays with up to 175.4-MHz counter frequencies (including interconnect)
+- ■ PCI-compliant devices available
+
+
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/987/MAX7000_Family_DS.pdf
 
 
 

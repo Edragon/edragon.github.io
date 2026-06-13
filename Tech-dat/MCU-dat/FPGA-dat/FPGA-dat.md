@@ -1,6 +1,15 @@
 # FPGA-dat
 
 
+
+- [[CPLD-dat]] - [[AMD-dat]] - [[Xilinx-dat]] - [[ZYNQ-dat]] 
+
+- [[CPLD-dat]] - [[FPGA-dat]] - [[altera-dat]] 
+
+
+
+
+
 - [[xilinx-dat]]
 
 - [[USB-Blaster-dat]] - [[CH552-dat]]
