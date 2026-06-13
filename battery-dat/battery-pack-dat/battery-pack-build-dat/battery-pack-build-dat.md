@@ -15,6 +15,7 @@
 ## build details 
 
 
+
 ### laptop internal battery pack
 
 3S-3P == 11V - [[lenovo-dat]]

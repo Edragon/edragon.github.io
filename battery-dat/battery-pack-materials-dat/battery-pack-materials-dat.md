@@ -16,6 +16,10 @@
 
 ### tools 
 
+holder 
+
+![](2026-06-13-20-13-40.png)
+
 - [[fab-tools-dat]] - [[soldering-tools-spot-welding-dat]]
 
 - capacity - [[electronic-loader-dat]]

@@ -2,7 +2,7 @@
 # mechanic-tools-dat
 
 
-- [[tools-hand-dat]] - [[tools-power-dat]] 
+- [[tools-hand-dat]] - [[tools-mechanical-power-dat]] 
 
 - [[tools-protective-dat]] - [[protective-glass-dat]]
 
@@ -12,7 +12,7 @@
 
 - 勾刀
 
-- [[tools-power-dat]]
+- [[tools-mechanical-power-dat]]
 
 
 

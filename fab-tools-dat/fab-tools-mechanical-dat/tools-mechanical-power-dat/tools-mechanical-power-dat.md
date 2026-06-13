@@ -1,7 +1,8 @@
 
-# power-tools-dat
+# tools-mechanical-power-dat
 
-- [[battery-dat]]
+- [[tools-mechanical-power-dat]] - [[battery-5s-dat]] - [[CONN-power-dat]] - [[CONN-tools-mechanical-power-dat]]
+
 
 - [[grinder-dat]]
 
