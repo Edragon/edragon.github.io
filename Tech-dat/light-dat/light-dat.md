@@ -2,6 +2,8 @@
 # light-dat 
 
 
+- [[light-spot-dat]] - [[light-app-dat]] - [[LED-dat]]
+
 - [[sensor-light-dat]] - [[light-dat]]
 
 - [[infrared-dat]] - [[laser-dat]] 

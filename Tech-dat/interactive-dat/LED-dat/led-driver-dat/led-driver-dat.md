@@ -9,7 +9,15 @@ https://w.electrodragon.com/w/LED_Drive
 
 - [[SGM3752-dat]] - [[sg-micro-dat]] 
 
-- [[led-driver-dat]] - [[dcdc-boost-dat]]
+- [[led-driver-dat]] - [[dcdc-boost-dat]] - [[driver-dat]] - [[LED-driver-PSR-dat]]
+
+
+
+
+
+
+
+
 
 
 ## chip 

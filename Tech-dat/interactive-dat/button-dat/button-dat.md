@@ -55,6 +55,13 @@ button with ripple capacitor
 
 
 
+## nice button investigation 
+
+small size 
+
+![](2026-06-13-19-22-51.png)
+
+
 ## ref 
 
 - [[switch-dat]]
