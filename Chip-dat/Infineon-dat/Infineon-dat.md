@@ -15,6 +15,12 @@
 
 
 
+## PMIC / power 
+
+- [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
+
+- [[IR3889-dat]]
+
 ## mosfet 
 
 - [[FR1205-dat]] == [[IRFR1205-dat]]

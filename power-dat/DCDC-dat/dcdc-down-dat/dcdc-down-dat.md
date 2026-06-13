@@ -4,7 +4,9 @@
 
 - [[DC-dat]] - [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[constant-current-dat]] - [[CV&CC-dat]] 
 
-- [[dcdc-down-mulitple-dat]]
+- [[IR3889-dat]] - [[IRPS5401-dat]] - [[infineon-power-dat]] 
+  
+- [[infineon-power-dat]] - [[infineon-dat]] - [[power-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
 
 ## chip and companies
 
