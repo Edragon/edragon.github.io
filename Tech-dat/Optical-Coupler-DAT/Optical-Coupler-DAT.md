@@ -7,7 +7,7 @@
 
 - [[isolator-dat]] - [[signal-input-dat]] - [[optical-coupler-dat]]
 
-
+- [[Orient-Tech-dat]] - [[OR-1009-dat]] - [[optical-coupler-dat]] - [[acdc-dat]]
 
 ## wiring 
 

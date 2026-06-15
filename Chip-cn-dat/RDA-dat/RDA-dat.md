@@ -3,6 +3,8 @@
 
 - [[RDA5807-dat]] - [[RDA-dat]] - [[radio-FM-dat]] - [[NRF2004-dat]]
 
+- [[RDA5807-dat]] - [[RDA-dat]] - [[jieli-dat]]
+
 
 ## MCU Bluetooth
 

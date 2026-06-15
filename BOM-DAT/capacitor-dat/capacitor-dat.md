@@ -4,7 +4,14 @@
 - [[ESR-capacitor-dat]] - [[MLCC-dat]] - [[Electrolytic-cap-dat]] - [[tantalum-dat]]
 
 
-- [[capacitor-X2-dat]] - [[capacitor-dat]] - [[capacitor-x-y-dat]]
+- [[capacitor-X2-dat]] - [[capacitor-dat]] - [[capacitor-x-y-dat]] - [[capacitor-safety-dat]] - [[capacitor-x-y-dat]] - [[capacitor-dat]]
+
+
+
+[[capacitor-dat]] - [[capacitor-safety-dat]]
+
+
+
 
 ## brands 
 

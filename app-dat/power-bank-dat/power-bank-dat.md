@@ -66,6 +66,28 @@ The capacity advertised on a power bank, such as 20000 mAh, typically represents
 
 ## build
 
+### build 6
+
+![](2026-06-15-16-21-20.png)
+
+- [[fast-charge-protocols-dat]] - [[XPD318-dat]]
+
+- [[capacitor-dat]] - [[capacitor-safety-dat]]
+
+back side 
+
+![](2026-06-15-16-26-47.png)
+
+- [[JW77156-dat]] - [[joulwatt-dat]] - [[rectifier-dat]] - [[diode-dat]] - [[diode-bridge-rectifier-dat]]
+
+- [[acdc-dat]] - [[fuse-dat]] == 2A 
+
+- [[Orient-Tech-dat]] - [[OR-1009-dat]] - [[optical-coupler-dat]] - [[acdc-dat]]
+
+
+
+
+
 ### build 5 
 
 ![](2026-06-15-16-13-39.png)

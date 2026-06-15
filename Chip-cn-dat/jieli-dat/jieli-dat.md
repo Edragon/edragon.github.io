@@ -293,6 +293,17 @@ A3 B008BD or B0088D  == 1：m-电容麦克风+ 2:接公共地 3:耳机 左 4:耳
 
 
 
+## build 
+
+JL AS19HFG521
+
+- [[TC8002D-dat]] - [[8002-dat]]
+
+![](2026-06-15-16-36-38.png)
+
+- [[RDA5807-dat]] - [[RDA-dat]] - [[jieli-dat]]
+
+
 ## repo 
 
 https://github.com/Edragon/BT-JL
