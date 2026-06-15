@@ -73,7 +73,8 @@ $$I = \frac{0.15}{0.05} = 3\text{A}$$
 
 ## option XB7608
 
-- [[xysemi-dat]]
+- [[battery-protector-1s-dat]] - [[xysemi-dat]] - [[XB8089-dat]] - [[XB4908-dat]] 
+
 
 
 ## ref 

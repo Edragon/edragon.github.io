@@ -15,6 +15,9 @@
 
 - [[battery-protector-3s-dat]] - [[battery-protector-dat]]
 
+
+
+
 ## full protector 
 
 
@@ -82,6 +85,13 @@ boards specs for reference only
 ## protector board 3-5s
 
 ![](2026-06-08-01-38-04.png)
+
+
+## chip
+
+- [[xysemi-dat]]
+
+
 
 ## ref 
 

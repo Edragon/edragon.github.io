@@ -9,6 +9,7 @@
 - ZH1.5 = 1.5mm pitch 
 - PH2.0 = 2.0mm pitch
 - XH2.54 = 2.54mm pitch
+- 1.27 
 
 
 Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
@@ -23,6 +24,15 @@ Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 
 ## Common Pin headers 
 
+male pin header one-row and two-row, straight and 90-degree, with different heights.
+
+![](2026-06-15-13-31-31.png)
+
+female connector 
+
+![](2026-06-15-13-34-27.png)
+
+
 | name | SKU             | type      | male/female | breakable     | pin material | full length |
 | ---- | --------------- | --------- | ----------- | ------------- | ------------ | ----------- |
 |      | [[CCO3612-dat]] | round-pin | F           | yes           |              |             |
@@ -35,9 +45,6 @@ Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 - [[CONN-dat]] - [[CONN-pin-header-dat]] - [[CCO3590-dat]] - [[CCO3587-dat]]
 
 
-## 1.27mm pre-build pin header kits 
-
-![](2025-11-07-16-19-07.png)
 
 
 

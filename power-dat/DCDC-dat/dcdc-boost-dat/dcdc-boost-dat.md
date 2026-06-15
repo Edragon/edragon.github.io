@@ -38,6 +38,7 @@ high power - [[OPMS080-dat]]
 
 - [[led-driver-dat]] - [[dcdc-boost-dat]]
 
+- [[HT7181-dat]] - [[dcdc-boost-dat]] - [[heroic-dat]] == 14A
 
 ## compare 
 
