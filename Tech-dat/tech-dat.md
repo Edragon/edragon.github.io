@@ -74,6 +74,7 @@
 
 - [[ac-mains-dat]] - [[acdc-dat]]
 
+- [[power-wireless-dat]]
 
 
 ### Code and SDK 

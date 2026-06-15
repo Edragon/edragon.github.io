@@ -2,6 +2,8 @@
 
 # XPD318-dat
 
+- [[fast-charge-protocols-dat]] - [[XPD318-dat]]
+
 USB Type-C PD Multi-protocol Controller
 
 ## Overview

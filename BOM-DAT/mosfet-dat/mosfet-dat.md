@@ -269,6 +269,23 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 ## MOSFET SOP-8
 
+- [[power-bank-dat]]
+
+`4953` - `FDS4953` - Dual 30V P-Channel PowerTrenchÒ MOSFET
+
+This P-Channel MOSFET is a rugged gate version of [[Fairchild-dat]] Semiconductor’s advanced PowerTrench process. It has been optimized for power management applications requiring a wide range of gave drive voltage ratings (4.5V – 25V).
+
+
+`9926A` 
+
+The 9926A is a dual N-channel enhancement mode MOSFET primarily utilized in power management circuits, battery protection, and motor drivers. Its compact surface-mount design and low on-resistance make it ideal for portable electronics.
+
+FDS9926A 2.5 V Specified
+
+MOSFET – Dual, N-Channel, POWERTRENCH
+
+`A4606` PT4606 == SOP-8
+
 The `AM9435` is the P-Channel logic enhancement mode power field effect transistor is produced using high cell density, advanced trench technology to provide excellent RDS(ON).
 
 This device is suitable for use as a load switch or in PWM and gate charge for most of the synchronous buck converter applications.

@@ -3,6 +3,7 @@
 
 - [[fast-charge-protocols-dat]] - [[USB-PD-dat]] - [[PD3.0-dat]] - [[PD2.0-dat]] 
 
+- [[fast-charge-protocols-dat]] - [[XPD318-dat]]
 
 Quick Charge 2.0
 
