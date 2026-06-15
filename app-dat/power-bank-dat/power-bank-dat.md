@@ -32,7 +32,7 @@
 
 - [[fuman-dat]]
 
-
+- [[tkplusemi-dat]] - [[MP5216-dat]] - [[power-bank-dat]]
 
 
 # portable-power-bank-dat
