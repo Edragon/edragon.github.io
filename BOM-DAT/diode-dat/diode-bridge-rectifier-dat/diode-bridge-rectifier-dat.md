@@ -1,6 +1,8 @@
 
 # diode-bridge-rectifier-dat
 
+- [[diode-bridge-rectifier-dat]] - [[hair-dryer-dat]]
+
 
 - [[acdc-dat]] - [[light-spot-dat]] - [[led-driver-PSR-dat]]
 

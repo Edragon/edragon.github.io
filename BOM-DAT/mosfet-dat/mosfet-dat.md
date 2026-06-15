@@ -266,6 +266,12 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 
 
+## mosfet TO-252
+
+MOT5N50D - MOSFET 500V 5A TO-252
+
+MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
+
 
 ## MOSFET SOP-8
 

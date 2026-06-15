@@ -15,6 +15,7 @@
 
 - [[NXP-MCU-dat]]
 
+- [[CMS32M5710-dat]] - [[cmsemicon-dat]] - [[ARM-dat]]
 
 
 ## programmer 
