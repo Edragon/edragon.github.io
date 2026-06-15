@@ -35,6 +35,16 @@
 
 ## build 
 
+### build 2 
+
+3140 SCT 04C
+
+![](2026-06-15-17-32-40.png)
+
+- [[GPM8FD3331B-dat]] - [[generalplus-dat]] - [[power-wireless-dat]]
+
+
+
 ### build 1 
 
 - [[mosfet-dat]] == A4606 
@@ -44,6 +54,7 @@
 ![](2026-06-15-16-06-19.png)
 
 ![](2026-06-15-16-10-25.png)
+
 
 
 

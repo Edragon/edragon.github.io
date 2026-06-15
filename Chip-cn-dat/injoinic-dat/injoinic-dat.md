@@ -3,6 +3,10 @@
 
 https://w.electrodragon.com/w/Injoinic
 
+
+
+- [[IP5407-DAT]] - [[injoinic-dat]] - [[IP5306-dat]] 
+
 - [[IP5568-dat]] - [[injoinic-dat]] - [[power-bank-dat]]
 
 - [[IP5310-dat]] - [[power-bank-dat]] - [[injoinic-dat]]
