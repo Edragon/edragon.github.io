@@ -2,6 +2,12 @@
 # fab-3d-print-dat.md
 
 
+
+- [[case-dat]] - [[servo-driver-dat]] - [[fab-3d-print-dat]]
+
+
+
+
 - [[fab-3d-print-dat]] - [[3d-print-service-dat]]
 
 - [[3d-print]]

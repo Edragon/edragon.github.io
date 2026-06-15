@@ -224,6 +224,14 @@ Since manufacturers use different colors, use a Multimeter in "Continuity Mode":
 3. **Label them immediately** with tape to avoid mixing them up with VCC/GND.
 
 
+
+
+## build 
+
+### gadget 1 ? 
+
+![](2026-06-15-19-28-04.png)
+
 ## ref 
 
 - [[USB-type-c]]
