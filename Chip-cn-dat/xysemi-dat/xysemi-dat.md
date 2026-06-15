@@ -1,10 +1,15 @@
 # xysemi-dat
 
+
+- [[xysemi-dat]] - [[XB4908-dat]] 
+
+
+
 - [[dcdc-boost-dat]] - [[xysemi-dat]]
 
 - [[capacitor-dat]]
 
-- [[battery-protector-1s-dat]] - [[xysemi-dat]]
+- [[battery-protector-1s-dat]] - [[xysemi-dat]] - [[XB8089-dat]] - [[XB4908-dat]] 
 
 ## XB8089D 
 
