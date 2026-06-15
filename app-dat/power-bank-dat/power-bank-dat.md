@@ -32,17 +32,6 @@
 
 - [[fuman-dat]]
 
-## products  
-
-- [[MPS-dat]] - [[MP2636-dat]]
-
-![](2026-04-04-17-17-11.png)
-
-HOLTEK合泰电源总控单片机。== HT45SC428
-
-![](2026-04-04-17-21-34.png)
-
-![](2026-04-04-17-21-45.png)
 
 
 
@@ -75,13 +64,34 @@ The capacity advertised on a power bank, such as 20000 mAh, typically represents
 *   **Rated Capacity:** Because of the voltage conversion and efficiency losses, the actual amount of charge delivered *to your device* at the output voltage will be lower than the internal cell capacity. This usable output is often listed separately as the **Rated Capacity** (e.g., "Rated Capacity: 12500mAh at 5V").
 
 
-## ref
+## build
 
 
-- [[injoinic-dat]] - [[IP5306-dat]] - [[IP5316-dat]]
+## build 3  
+
+- [[MPS-dat]] - [[MP2636-dat]]
+
+![](2026-04-04-17-17-11.png)
+
+HOLTEK合泰电源总控单片机。== HT45SC428
+
+![](2026-04-04-17-21-34.png)
+
+![](2026-04-04-17-21-45.png)
 
 
-## build reference 
+
+### build 2 
+
+- [[IP5310-dat]] - [[power-bank-dat]] - [[injoinic-dat]]
+
+![](2026-06-15-15-16-56.png)
+
+- [[HT7181-dat]]
+  
+![](2026-06-15-15-22-02.png)
+
+### build reference 1
 
 6E803 - unknwon - [[capacitor-CBB-dat]] - [[CP2104-dat]] - [[xysemi-dat]]
 
@@ -90,7 +100,11 @@ The capacity advertised on a power bank, such as 20000 mAh, typically represents
 
 
 
+## ref
 
-## ref 
+
+- [[injoinic-dat]] - [[IP5306-dat]] - [[IP5316-dat]]
+
+
 
 - [[app-dat]]
