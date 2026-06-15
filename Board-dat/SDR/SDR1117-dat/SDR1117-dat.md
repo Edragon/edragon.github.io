@@ -26,6 +26,8 @@ board map and jumpers
 
 - [[NWI1044-dat]] - [[nodemcu-dat]] - [[ESP8266-HDK-dat]] - [[ELRS-board-dat]]
 
+- [[MP1584-dat]]
+
 
 | custom | func  | left | right | func               | custom       |
 | ------ | ----- | ---- | ----- | ------------------ | ------------ |

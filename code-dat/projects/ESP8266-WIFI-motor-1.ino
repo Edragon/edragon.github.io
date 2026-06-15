@@ -2,49 +2,60 @@
 #include <ESP8266WebServer.h>
 
 // WiFi AP settings (fixed IP)
-const char* ssid = "MotorAP";
-const char* password = "motorpass"; // set to "" for open AP
+const char *ssid = "MotorAP";
+const char *password = "motorpass"; // set to "" for open AP
 IPAddress apIP(192, 168, 4, 1);
 IPAddress netMsk(255, 255, 255, 0);
 
 // Define pins for motor control
-const int ENA = 5; // PWM for speed for Motor (single motor)
-const int IN1 = 0; // Direction pin A for Motor (GPIO0) - be careful at boot
-const int IN2 = 2; // Direction pin B for Motor (GPIO2)
+// Motor 1
+const int M1_IN1 = 4;
+const int M1_IN2 = 5;
+// Motor 2
+const int M2_IN1 = 0;
+const int M2_IN2 = 2;
 
 int motorControl = 50; // 0..100, default mid-point
 
 ESP8266WebServer server(80);
 
-void applyMotorControl() {
+void applyMotorControl()
+{
     // Deadband: treat 40..60 as stop
-    if (motorControl > 60) {
-        // Forward: IN1 = HIGH, IN2 = LOW
-        digitalWrite(IN1, HIGH);
-        digitalWrite(IN2, LOW);
-
-        // Map motorControl (61-100) to PWM speed (0-255)
+    if (motorControl > 60)
+    {
+        // Forward
         int motorSpeed = map(motorControl, 61, 100, 0, 255);
         motorSpeed = constrain(motorSpeed, 0, 255);
-        analogWrite(ENA, motorSpeed);
-    } else if (motorControl < 40) {
-        // Reverse: IN1 = LOW, IN2 = HIGH
-        digitalWrite(IN1, LOW);
-        digitalWrite(IN2, HIGH);
 
-        // Map motorControl (0-39) to PWM speed (0-255)
-        int motorSpeed = map(motorControl, 0, 39, 0, 255);
+        analogWrite(M1_IN1, motorSpeed);
+        digitalWrite(M1_IN2, LOW);
+        analogWrite(M2_IN1, motorSpeed);
+        digitalWrite(M2_IN2, LOW);
+    }
+    else if (motorControl < 40)
+    {
+        // Reverse
+        int motorSpeed = map(motorControl, 0, 39, 255, 0);
         motorSpeed = constrain(motorSpeed, 0, 255);
-        analogWrite(ENA, motorSpeed);
-    } else {
-        // Stop motor
-        digitalWrite(IN1, LOW);
-        digitalWrite(IN2, LOW);
-        analogWrite(ENA, 0);
+
+        digitalWrite(M1_IN1, LOW);
+        analogWrite(M1_IN2, motorSpeed);
+        digitalWrite(M2_IN1, LOW);
+        analogWrite(M2_IN2, motorSpeed);
+    }
+    else
+    {
+        // Stop motors
+        digitalWrite(M1_IN1, LOW);
+        digitalWrite(M1_IN2, LOW);
+        digitalWrite(M2_IN1, LOW);
+        digitalWrite(M2_IN2, LOW);
     }
 }
 
-String pageRoot() {
+String pageRoot()
+{
     String html = "<html><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">";
     html += "<title>Motor AP Control</title></head><body>";
     html += "<h2>Motor Control (0-100)</h2>";
@@ -55,12 +66,15 @@ String pageRoot() {
     return html;
 }
 
-void handleRoot() {
+void handleRoot()
+{
     server.send(200, "text/html", pageRoot());
 }
 
-void handleSet() {
-    if (!server.hasArg("val")) {
+void handleSet()
+{
+    if (!server.hasArg("val"))
+    {
         server.send(400, "text/plain", "missing val");
         return;
     }
@@ -72,24 +86,34 @@ void handleSet() {
     server.send(200, "text/plain", String(motorControl));
 }
 
-void handleStatus() {
+void handleStatus()
+{
     server.send(200, "text/plain", String(motorControl));
 }
 
-void setup() {
+void setup()
+{
     // Initialize pins
-    pinMode(ENA, OUTPUT);
-    pinMode(IN1, OUTPUT);
-    pinMode(IN2, OUTPUT);
+    pinMode(M1_IN1, OUTPUT);
+    pinMode(M1_IN2, OUTPUT);
+    pinMode(M2_IN1, OUTPUT);
+    pinMode(M2_IN2, OUTPUT);
 
-    // Initialize motor to off
-    digitalWrite(IN1, LOW);
-    digitalWrite(IN2, LOW);
-    analogWrite(ENA, 0);
+    // Initialize motors to off
+    digitalWrite(M1_IN1, LOW);
+    digitalWrite(M1_IN2, LOW);
+    digitalWrite(M2_IN1, LOW);
+    digitalWrite(M2_IN2, LOW);
 
     Serial.begin(115200);
     delay(100);
 
+    Serial.println("Test...");
+    delay(1000);
+    Serial.println("Test...");
+    delay(1000);
+    Serial.println("Test...");
+    delay(1000);
     // Configure AP with fixed IP
     WiFi.softAPConfig(apIP, apIP, netMsk);
     WiFi.softAP(ssid, password);
@@ -112,9 +136,14 @@ void setup() {
     applyMotorControl();
 }
 
-void loop() {
+void loop()
+{
     server.handleClient();
     // Optional: keep motor state applied in case other code modifies it
     // applyMotorControl();
     delay(10);
 }
+
+
+
+
