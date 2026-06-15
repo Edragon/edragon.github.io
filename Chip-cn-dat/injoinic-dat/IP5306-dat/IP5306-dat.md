@@ -7,6 +7,11 @@
 
 - [[battery-protector-1s-dat]]
 
+
+- [[IP5306-dat]] - [[IP5310-dat]]
+
+
+
 ## board 
 
 - [[OPM1123-dat]] - [[NWI1241-dat]]

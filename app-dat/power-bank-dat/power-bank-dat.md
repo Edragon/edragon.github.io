@@ -66,6 +66,9 @@ The capacity advertised on a power bank, such as 20000 mAh, typically represents
 
 ## build
 
+## build 4 
+
+- [[IP2326-dat]]
 
 ## build 3  
 
@@ -81,15 +84,25 @@ HOLTEK合泰电源总控单片机。== HT45SC428
 
 
 
-### build 2 
+### build 2 and similar 
 
 - [[IP5310-dat]] - [[power-bank-dat]] - [[injoinic-dat]]
 
+- [[IP5306-dat]] - [[IP5310-dat]]
+
 ![](2026-06-15-15-16-56.png)
 
+![](2026-06-15-15-30-02.png)
+
 - [[HT7181-dat]]
+
+- [[XB4908-dat]]
   
 ![](2026-06-15-15-22-02.png)
+
+
+![](2026-06-15-15-31-41.png)
+
 
 ### build reference 1
 

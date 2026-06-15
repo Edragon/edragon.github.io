@@ -12,6 +12,11 @@
 - [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[power-dat]]
 
 
+
+- [[dcdc-boost-down-dat]] - [[SC8906-dat]] - [[southchip-dat]]
+
+
+
 # DC-dat
 
 legacy wiki page - https://w.electrodragon.com/w/Category:DC-DC#Schematic
