@@ -3,7 +3,7 @@
 
 
 
-
+- [[PPL-dat]] - [[frequency-dat]] - [[Digital-Synthesizer-dat]] - [[CLOCK-SYNTHESIZER-dat]] - [[clock-dat]]
 
 ## chip 
 

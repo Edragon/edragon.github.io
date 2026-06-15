@@ -40,6 +40,11 @@ high power - [[OPMS080-dat]]
 
 - [[HT7181-dat]] - [[dcdc-boost-dat]] - [[heroic-dat]] == 14A
 
+- [[SP6649-dat]] - [[sipex-dat]] - [[dcdc-boost-dat]]
+
+
+
+
 ## compare 
 
 | model        | description                                                          | peripherals | type        |
