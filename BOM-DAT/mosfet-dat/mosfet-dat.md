@@ -272,8 +272,17 @@ MOT5N50D - MOSFET 500V 5A TO-252
 
 MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 
+`20N03` Datasheet. Specs and Replacement
+
+
 
 ## MOSFET SOP-8
+
+
+`AGM30P10S` - AGM30P10S is the high cell density trenched P-ch MOSFETs, which provide excellentRDSON and gate charge for most of the synchronous buck converter applications
+
+![](2026-06-15-18-57-11.png)
+
 
 - [[power-bank-dat]]
 

@@ -1,7 +1,7 @@
 
 # segment-display-dat
 
-
+- [[segment-display-driver-dat]] - [[segment-display-dat]] - [[display-driver-dat]]
 
 ## 7-segment 1-digi
 
@@ -30,3 +30,9 @@
 ## parameters 
 
 ![](2023-11-15-17-05-37.png)
+
+
+
+
+## ref 
+

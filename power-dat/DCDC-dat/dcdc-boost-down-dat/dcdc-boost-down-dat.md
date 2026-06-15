@@ -30,6 +30,20 @@ High Efficiency, Synchronous, 4-Switch Buck-Boost Controller
 - [[XL4015-dat]]
 
 
+## chip 
+
+- [[OCX-dat]] - [[OC6800B-dat]] - [[dcdc-boost-down-dat]] == 内置 100V/5A MOS 升压/升降压型 DC-DC 
+
+
+
+## build 
+
+
+![](2026-06-15-19-07-54.png)
+
+![](2026-06-15-19-09-33.png)
+
+
 ## ref 
 
 - [[dcdc-boost-down]] - [[dcdc]]

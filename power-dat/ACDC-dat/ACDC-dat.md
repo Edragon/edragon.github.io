@@ -126,10 +126,19 @@ Chip Solutions
 
 - [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]]
 
+- [[silan-dat]] - [[SD6834-dat]] - [[acdc-dat]]
+
+
+## build 
+
+
+### build 2 
+
+![](2026-06-15-19-01-53.png)
 
 
 
-## board 
+### build 1 
 
 ![](2026-05-23-17-50-45.png)
 
@@ -144,6 +153,12 @@ Chip Solutions
 
 
 - [[resistor-ICL-dat]] - [[resistor-dat]]
+
+
+
+
+
+
 
 ## ref 
 

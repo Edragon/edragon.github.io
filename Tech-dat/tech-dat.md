@@ -58,7 +58,9 @@
 
 ### power and battery
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[wireless-charge-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]]
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[power-wireless-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]] - [[dcdc-dat]]
+
+- [[dcdc-boost-down-dat]]
 
 - [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]]
 
