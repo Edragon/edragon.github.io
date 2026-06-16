@@ -1,6 +1,10 @@
 
 # holtek-dat
 
+
+
+
+
 - [[serial-dat]] - [[holtek-dat]] - [[HT42B534-dat]]
 
 - [[HT1621-dat]]
@@ -8,6 +12,10 @@
 ## LDO 
 
 - HT7530 = HT36 = DS [[Holtek-Semicon-HT7530-2_C259499.pdf]]
+
+- [[LDO-dat]] - [[HT7530-dat]] - [[holtek-dat]]
+
+
 
 HT7530-1 
 

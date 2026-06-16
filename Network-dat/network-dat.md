@@ -226,6 +226,21 @@ A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often 
 
 - [[realtek-dat]] - [[dialog-dat]]
 
+
+## build 
+
+USB无线接收模块 27.1383M晶振 接收模块 1813dCV222
+
+![](2026-06-16-20-26-49.png)
+
+- [[LTC4054-dat]]
+
+- [[LDO-dat]] - [[HT7530-dat]] - [[holtek-dat]]
+
+![](2026-06-16-20-29-22.png)
+
+
+
 ## ref 
 
 - [[antenna-dat]]

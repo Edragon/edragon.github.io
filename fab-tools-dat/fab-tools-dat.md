@@ -6,6 +6,13 @@
 
 - [[tools-mechanical-power-dat]]
 
+
+- [[fab-tools-dat]] - [[fab-workspace-dat]] - [[fab-PCB-soldering-tools-dat]]
+
+- [[hot-air-station-dat]]
+
+
+
 ## ref 
 
 

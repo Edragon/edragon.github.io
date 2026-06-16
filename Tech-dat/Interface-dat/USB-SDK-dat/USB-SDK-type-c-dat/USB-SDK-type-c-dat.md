@@ -228,6 +228,20 @@ Since manufacturers use different colors, use a Multimeter in "Continuity Mode":
 
 ## build 
 
+### build 2 
+
+![](2026-06-16-20-34-12.png)
+
+![](2026-06-16-20-34-31.png)
+
+- [[LDO-dat]] - [[belling-dat]] - [[BL8062-dat]] - [[USB-SDK-type-C-dat]]
+
+- [[CONN-USB-type-c-female-dat]] - [[CONN-USB-type-c-male-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
+
+
+
+
+
 ### gadget 1 ? 
 
 ![](2026-06-15-19-28-04.png)

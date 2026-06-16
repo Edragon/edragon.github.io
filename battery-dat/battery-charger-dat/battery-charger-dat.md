@@ -12,6 +12,8 @@
 
 - [[battery-dat]] - [[battery-1s-dat]] - [[battery-2s-dat]] - [[battery-3s-dat]]
 
+- [[conn-power-dat]]
+
 ## info 
 
 

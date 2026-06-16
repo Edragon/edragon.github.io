@@ -33,6 +33,20 @@
 
 - [[Heat-Set-Insert-dat]]
 
+
+
+
+
+## methods 
+
+- [[fab-tools-dat]] - [[hot-air-station-dat]]
+
+
+![](2026-06-16-20-08-07.png)
+
+- [[battery-charger-dat]]
+
+
 ## ref 
 
 - [[hack]]

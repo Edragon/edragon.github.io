@@ -3,6 +3,7 @@
 
 
 
+- [[LDO-dat]] - [[HT7530-dat]] - [[holtek-dat]]
 
 
 - [[microne-dat]] - [[silergy-dat]] - [[ti-power-dat]]

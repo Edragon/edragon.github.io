@@ -2,6 +2,8 @@
 # CONN-USB-type-c-dat
 
 
+- [[CONN-USB-type-c-female-dat]] - [[CONN-USB-type-c-male-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
+
 
 - [[CONN-USB-type-c-dat]] - [[USB-SDK-type-c-dat]] - [[cable-USB-type-c-dat]]
 

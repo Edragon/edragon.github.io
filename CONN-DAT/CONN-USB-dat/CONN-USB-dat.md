@@ -1,6 +1,9 @@
 
 # CONN-USB-dat
 
+
+- [[CONN-USB-dat]] - [[CONN-USB-micro-dat]] - [[CONN-USB-mini-dat]] - [[CONN-USB-type-c-dat]]
+
 - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[cable-USB-dat]] - [[USB-gadget-dat]]
 
 
@@ -19,7 +22,7 @@
 
 - [[CONN-USB-micro-dat]]
 
-
+- [[CONN-USB-mini-dat]]
 
 
 

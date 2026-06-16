@@ -48,6 +48,11 @@ MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM
 - [[jieli-dat]]
 
 
+## portable device battery charging 
+
+![](2026-06-16-20-13-19.png)
+
+
 ## ref 
 
 - [[CONN-dat]] - [[pitch-dat]]
