@@ -249,9 +249,9 @@
 
 ## Tools and Soldering 
 
-- [[soldering-dat]] - [[desoldering-dat]]
+- [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
 
-- [[PCB-dat]] - [[PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]] - [[PCB-footprint-dat]]
+- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]] - [[PCB-footprint-dat]]
 
 - [[fab-tools-dat]] - [[fab-instrument-dat]] - [[fab-workspace-dat]]
 
@@ -260,15 +260,15 @@
 
 ## Mechnicals 
 
-- [[mechanics-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]]
+- [[fab-tools-mechanical-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]]
 
 - [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]]
 
 - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
 
-- [[3D-dat]] - [[3d-print-dat]]
+- [[3D-dat]] - [[fab-3d-print-dat]]
 
-- [[mechanic-tools-dat]]
+
 
 ## Circuits 
 
