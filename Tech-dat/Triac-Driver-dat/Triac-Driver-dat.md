@@ -2,6 +2,8 @@
 # Triac-Driver-dat
 
 
+- [[driver-dat]] - [[Triac-Driver-dat]] - [[triac-dat]]
+
 - [[MOC3063-dat]] - [[triac-dat]] - [[triac-driver-dat]]
 
 

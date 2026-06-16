@@ -47,6 +47,18 @@
 - [[pogo-pin-dat]]
 
 
+
+## storage 
+
+- [[case-dat]] 
+
+- [[fab-tools-dat]] - [[fab-materials-dat]] holder 
+
+![](2026-06-16-12-43-59.png)
+
+
+
+
 ## ref 
 
 - [[fab-workspace]] - [[fab-PCB-soldering-tools]]

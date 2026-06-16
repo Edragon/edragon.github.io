@@ -253,7 +253,7 @@
 
 - [[PCB-dat]] - [[PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]] - [[PCB-footprint-dat]]
 
-- [[fab-tools-dat]] - [[instrument-dat]]
+- [[fab-tools-dat]] - [[fab-instrument-dat]] - [[fab-workspace-dat]]
 
 
 
