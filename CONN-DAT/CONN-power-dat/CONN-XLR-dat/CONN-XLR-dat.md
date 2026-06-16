@@ -2,7 +2,26 @@
 
 # CONN-XLR-dat.md
 
-# Advantages of XLR Connectors
+
+
+- [[CONN-XLR-dat]] - [[analog-dat]] - [[CONN-USB-dat]] - [[video-dat]] - [[sensor-camera-dat]] - [[camera-analog-dat]]
+
+
+## build 
+
+![](2026-06-16-21-07-23.png)
+
+![](2026-06-16-21-07-34.png)
+
+## pins 
+
+- 3-pin
+- 4-pin 
+
+
+
+
+## Advantages of XLR Connectors
 
 XLR connectors are the industry standard for professional audio and certain high-end data applications. Their design offers specific mechanical and electrical advantages that ensure signal integrity and hardware durability.
 

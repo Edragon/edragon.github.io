@@ -1,6 +1,12 @@
 
 # CONN-power-dat
 
+
+- [[CONN-XLR-dat]] - [[analog-dat]] - [[CONN-USB-dat]] - [[video-dat]] - [[sensor-camera-dat]] - [[camera-analog-dat]]
+
+
+
+
 - [[conn-power-dat]] - [[cable-power-dat]] - [[pitch-dat]]
 
 - [[CONN-DC-barrel-jack-dat]]
@@ -19,6 +25,9 @@ MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM
 
 
 - [[DJI-dat]] - [[SDC-dat]]
+
+
+
 
 ## common battery header connector
 
