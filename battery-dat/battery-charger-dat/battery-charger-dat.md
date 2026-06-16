@@ -127,7 +127,7 @@ request
 
 ## chips 
 
-- [[battery-charger-dat]] - [[natlinear-dat]]
+- [[natlinear-dat]] - [[LN2054-dat]] - [[battery-charger-dat]]
 
 - [[tp-dat]]
 
@@ -135,7 +135,7 @@ request
 
 - [[XL-dat]]
 
-## Chip Info
+
 
 - [[LTC4054-dat]] - [[MCP73831-dat]]
 
@@ -171,6 +171,15 @@ request
 
 - [[power-bank-dat]]
 
+
+## build 
+
+unknown chip - three level charging status 
+
+PAB01A - REFSH7100 2325AASAE
+
+
+![](2026-06-16-20-58-21.png)
 
 
 ## ref

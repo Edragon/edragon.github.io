@@ -1,6 +1,9 @@
 
 # PCB-footprint-dat.md
 
+- [[SOP8-dat]] - [[QFN-dat]] - [[SSOP-dat]] - [[TQFP-dat]] - [[DIP8-dat]]
+
+- [[PCB-design-dat]]
 
 
 - [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]] - [[programmer-dat]]
@@ -231,6 +234,13 @@ SOD-123 is a small SMD package used for diodes, transistors, and other component
 
 ## SOD-323 
 
+
+
+## footprint 
+
+back sink
+
+![](2026-06-16-21-02-21.png)
 
 
 ## ref 

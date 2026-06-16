@@ -3,11 +3,7 @@
 
 - [[battery-protector-1s-dat]] - [[battery-charger-1s-dat]] - [[battery-1s-dat]]
 
-- [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-packs-dat]]
-
-- [[battery-pack-dat]] - [[battery-packs-dat]]
-
-- [[battery-dat]]
+- [[battery-protector-dat]] - [[battery-charger-dat]] - [[battery-pack-dat]] - [[battery-dat]]
 
 
 - [[battery-protector-primary-dat]] - [[battery-protector-secondary-dat]] -[[battery-balance-dat]]
@@ -91,6 +87,7 @@ boards specs for reference only
 
 - [[xysemi-dat]]
 
+- [[fuman-dat]]
 
 
 ## ref 

@@ -4,7 +4,9 @@
 
 - [[battery-charger-dat]] - [[natlinear-dat]]
 
-LN2054 - Standalone Linear Li-Ion Battery Charger with Thermal Regulation
+
+- [[natlinear-dat]] - [[LN2054-dat]] - [[battery-charger-dat]]
+
 
 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
 

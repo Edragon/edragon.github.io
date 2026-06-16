@@ -62,6 +62,14 @@ small size
 ![](2026-06-13-19-22-51.png)
 
 
+
+- [[button-toggle-dat]] for - [[light-flash-dat]] - [[light-dat]] - [[light-app-dat]]
+
+![](2026-06-16-20-48-19.png)
+
+- [[battery-protector-dat]] - [[DW06-dat]]
+
+
 ## ref 
 
 - [[switch-dat]]
