@@ -13,7 +13,13 @@ For smart home, IoT control and other wireless data transmission smart devices
 
 Application scenarios include remote control, selfie stick, vibrato, dual-mode mouse, USB adapter, Bluetooth module, electronic price tag, MCU and other diversified IoT products
 
+## build 
 
+JL 01241791 AW328A2
+
+![](2026-06-17-14-18-37.png)
+
+![](2026-06-17-14-26-33.png)
 
 ## ref 
 

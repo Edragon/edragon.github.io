@@ -91,16 +91,6 @@ also need [[audio-dat]] - [[amplifier-audio-dat]]
 
 
 
-## AC410N
-
-AC410N: AC410N series is a Bluetooth audio chip series, with low power consumption and high performance microprocessor of 96KB SRAM, integrated 32-bit RISC CPU and rich peripheral circuits. The characteristics of this series are chips, which are launched for low power consumption applications, and the Bluetooth version is 2.0+EDR.
-
-[Official website]: http://www.zh-jieli.com/
-
-
-## JL AC1425
-
-![](2026-02-11-14-47-40.png)
 
 
 
@@ -291,14 +281,23 @@ Or a *design name*, or a project name...
 
 
 
-## build 
-
-JL 01241791 AW328A2
-
-![](2026-06-17-14-18-37.png)
+## build pending 
 
 
+JL AC22BP11630 - 
 
+![](2026-06-17-14-50-32.png)
+
+- [[PCB-penalization-dat]] - [[PCB-form-dat]] - [[jieli-dat]]
+
+AC20BP
+
+JL AC22BP == guess AC6925D AC6951C - [[AC69XX-dat]]
+
+
+`AC1625` 
+
+![](2026-06-17-14-49-37.png)
 
 `A3` B008BD or B0088D  == 1：m-电容麦克风+ 2:接公共地 3:耳机 左 4:耳机 右 == 能发声水平，解析一般，没啥推力，低频弱且糊
 
@@ -328,14 +327,22 @@ JL AS19HFG521
 
 ![](2026-06-15-17-24-44.png)
 
+
+
+
+
 ## repo 
 
 https://github.com/Edragon/BT-JL
 
 
+## datasheet 
 
+`ctrtanc` - • - 2y ago 2y ago - • - Edited 2y ago 2y ago
 
+Okay, I did my best to scrape that site posted by u/Blakeguajardo . Here's what I was able to mash together real fast: https://docs.google.com/document/d/e/2PACX-1vT0pa_tLxKMrhvnpta0mdkURgcYG6-j9eihI_SqeeZq_fKCukWLH89imMSoVJ2ikfAPKjHGtMVX7OJv/pub
 
+https://www.reddit.com/r/AskElectronics/comments/12bgtg5/ac22bp_ic_identification/
 
 
 ## ref 

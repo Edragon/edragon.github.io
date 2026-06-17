@@ -1,6 +1,6 @@
 # Penalization 
 
-
+- [[PCB-penalization-dat]] - [[PCB-form-dat]]
 
 ## methods 
 
@@ -17,6 +17,16 @@ Castellated holes, please make sure your board are designed correctly: Place hol
 # penalization-dat
 
 - [[many-penalization-examples-dat]]
+
+
+## build
+
+- [[PCB-penalization-dat]] - [[PCB-form-dat]] - [[jieli-dat]]
+
+![](2026-06-17-14-51-50.png)
+
+
+
 
 
 ## ref
