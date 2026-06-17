@@ -64,6 +64,16 @@ Using a "counter-rotating" pair (one left-hand and one right-hand propeller) all
 * **Balance Water Flow:** This creates symmetrical water flow across the rudder(s), leading to more predictable handling.
 
 ![](2026-06-11-23-16-14.png)
+
+![](2026-06-17-21-08-58.png)
+
+![](2026-06-17-21-09-49.png)
+
+
+
+
+
+
 ---
 
 ### 2. How to distinguish between them
