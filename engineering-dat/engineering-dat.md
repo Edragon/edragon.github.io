@@ -2,6 +2,10 @@
 # engineering-dat
 
 
+- [[installation-dat]] 
+
+
+- [[product-dat]] - [[engineering-dat]] - [[fab-mechanics-dat]] - [[fab-dat]] - [[fab-materials-dat]]
 
 - [[construction-dat]]
 
@@ -10,7 +14,10 @@
 
 - [[PCB-potted-dat]]
 
-- [[3d-print-dat]]
+- [[fab-3d-print-dat]]
+
+- [[assembly-dat]]
+
 
 ## ref 
 

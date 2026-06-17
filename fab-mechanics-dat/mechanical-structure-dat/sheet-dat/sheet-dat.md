@@ -1,5 +1,9 @@
 # sheet-dat
 
+
+common sheet materials - small size == [[PCB-dat]], larger size == [[plastic-dat]] - [[sheet-metal-dat]] - [[ABS-dat]]
+
+
 - [[sheet-dat]] - [[mechanical-structure-dat]] - [[belt-sys-dat]] - [[frame-profile-dat]]
 
 

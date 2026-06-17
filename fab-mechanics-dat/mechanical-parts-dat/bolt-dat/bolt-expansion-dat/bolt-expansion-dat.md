@@ -18,6 +18,10 @@ In the metric system, the "M" number indicates the outer diameter of the bolt th
 > **Crucial Rule for Metric:** The drill bit size you need to drill into the concrete is **larger** than the bolt size because it needs to fit the entire outer expansion sleeve. For example, an M6 bolt usually requires a 10mm masonry drill bit.
 
 
+6 x 30 ~ 50 ~ 100 
+
+![](2026-06-18-02-52-31.png)
+
 ## wall amount plan 
 
 - use 8x M6 

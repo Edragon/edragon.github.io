@@ -261,7 +261,7 @@
 
 ## Mechnicals 
 
-- [[fab-tools-mechanical-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]]
+- [[fab-mechanics-dat]] - [[fab-tools-mechanical-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]]
 
 - [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]]
 
