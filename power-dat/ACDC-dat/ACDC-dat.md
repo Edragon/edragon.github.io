@@ -104,6 +104,9 @@ TOP254EN == Enhanced EcoSmart, Integrated Off-Line Switcher with Advanced Featur
 
 ## chips
 
+- [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]] - [[power-adapter-dat]] - [[acdc-dat]] - [[SI5928-dat]] - [[power-switch-dat]] 
+
+
 - [[depuw-dat]]
 
 - [[ICM-dat]]
@@ -127,6 +130,10 @@ Chip Solutions
 - [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]]
 
 - [[silan-dat]] - [[SD6834-dat]] - [[acdc-dat]]
+
+- [[SDC-dat]] - [[SDC3322-dat]] - [[ACDC-dat]] - [[power-switch-dat]]
+
+- [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]]
 
 
 ## build 

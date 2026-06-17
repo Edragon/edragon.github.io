@@ -7,7 +7,9 @@
 - [[power-adapter-dat]] - [[power-dat]] 
 
 
+## chip 
 
+- [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]] - [[power-adapter-dat]] - [[acdc-dat]] - [[SI5928-dat]] - [[power-switch-dat]] 
 
 ## build 
 

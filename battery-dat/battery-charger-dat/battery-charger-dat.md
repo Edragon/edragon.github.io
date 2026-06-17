@@ -160,6 +160,10 @@ request
 
 - [[xysemi-dat]]
 
+- [[shouding-dat]] - [[SD8001-dat]] - [[TP4054-dat]] - [[battery-charger-dat]]
+
+
+
 ## battery charger for multiple series 
 
 ![](2026-05-20-02-37-25.png)

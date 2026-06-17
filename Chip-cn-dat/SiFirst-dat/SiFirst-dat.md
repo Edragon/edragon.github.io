@@ -2,7 +2,7 @@
 
 # SiFirst-dat
 
-- [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]] - [[power-adapter-dat]] - [[addc-dat]] - [[SI5928-dat]] - [[power-switch-dat]] 
+- [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]] - [[power-adapter-dat]] - [[acdc-dat]] - [[SI5928-dat]] - [[power-switch-dat]] 
 
 
 ## SI6021 
@@ -18,6 +18,19 @@ SF6021 integrates proprietary “Audio Noise  Cancellation”  control  for  aud
 SF6021  integrates  functions  and  protections  of  FB Short Protection, Under Voltage Lockout (UVLO), VDD Over Voltage Protection (VDD OVP), Soft Start, Cycle-by-cycle  Current  Limiting  (OCP),  Pin  Floating  Protection, VDD Clamping.  
 
 SF6021 is available SOP7 packages. 
+
+
+
+
+## build 
+
+![](2026-06-18-02-08-56.png)
+
+![](2026-06-18-02-09-28.png)
+
+![](2026-06-18-02-10-22.png)
+
+
 
 ## ref 
 
