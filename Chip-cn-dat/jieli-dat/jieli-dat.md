@@ -2,6 +2,8 @@
 # jieli-dat
 
 
+- [[jieli-dat]] - [[AW3x8-dat]] - [[bluetooth-voice-dat]] - [[bluetooth-dat]]
+
 - [[AC7065-dat]] - [[jieli-dat]] - [[PCB-form-dat]]
 
 - [[AC410x-dat]] - [[jieli-dat]]
@@ -291,8 +293,14 @@ Or a *design name*, or a project name...
 
 ## build 
 
+JL 01241791 AW328A2
 
-A3 B008BD or B0088D  == 1：m-电容麦克风+ 2:接公共地 3:耳机 左 4:耳机 右 == 能发声水平，解析一般，没啥推力，低频弱且糊
+![](2026-06-17-14-18-37.png)
+
+
+
+
+`A3` B008BD or B0088D  == 1：m-电容麦克风+ 2:接公共地 3:耳机 左 4:耳机 右 == 能发声水平，解析一般，没啥推力，低频弱且糊
 
 ![](2026-06-02-20-17-42.png)
 

@@ -190,7 +190,16 @@ https://github.com/Edragon/BT-audio
 
 - [[arduino-nano33-dat]] - [[arduino-dat]] - [[seeed-studio-dat]]
 
+## data app 
 
+- remote control
+- selfie stick
+- vibrato
+- dual-mode mouse
+- USB adapter
+- Bluetooth module
+- electronic price tag
+- MCU and other diversified IoT products
 
 
 ## ref 
