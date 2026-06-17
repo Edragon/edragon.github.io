@@ -2,10 +2,35 @@
 # sheet-metal-dat
 
 
+
+- [[sheet-dat]] - [[sheet-metal-dat]] - [[power-adapter-dat]]
+
+
 [[sheet-metal-dat]] == [[fab-sheet-metal-dat]] - [[fab-dat]]
 
 
-## design 
+
+## build
+
+
+### build 2
+
+![](2026-06-17-21-39-48.png)
+
+![](2026-06-17-21-40-51.png)
+
+![](2026-06-17-21-41-23.png)
+
+![](2026-06-17-21-42-13.png)
+
+![](2026-06-17-21-42-28.png)
+
+![](2026-06-17-21-44-07.png)
+
+![](2026-06-17-21-44-35.png)
+
+
+### build 1 
 
 ![](2026-04-02-23-11-19.png)
 

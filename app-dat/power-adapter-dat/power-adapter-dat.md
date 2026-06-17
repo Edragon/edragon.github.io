@@ -4,8 +4,24 @@
 
 
 
+- [[power-adapter-dat]] - [[power-dat]] 
+
+
+
 
 ## build 
+
+### build 2 
+
+- [[sheet-dat]] - [[sheet-metal-dat]] - [[power-adapter-dat]]
+
+
+![](2026-06-17-21-37-50.png)
+
+![](2026-06-17-21-45-01.png)
+
+
+### build 1
 
 ![](2026-06-15-17-44-25.png)
 

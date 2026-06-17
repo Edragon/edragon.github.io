@@ -263,7 +263,21 @@ Current Push vs Pull: Power Supply & LED
 
 
 
+
 ## build 
+
+### build 2 
+
+![](2026-06-17-21-35-50.png)
+
+![](2026-06-17-21-37-00.png)
+
+C07EBA UNH538
+
+- [[sensor-microphone-dat]] - [[infrared-dat]] - [[CONN-power-dat]] - [[mosfet-dat]] - [[HT7533-dat]] - [[LDO-dat]] - [[holtek-dat]]
+
+
+### build 1
 
 - [[OCX-dat]] - [[led-driver-dat]] - [[OC5021-dat]] - [[PCB-form-dat]]
 

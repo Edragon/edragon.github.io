@@ -78,6 +78,7 @@
 
 - [[power-wireless-dat]]
 
+- [[power-adapter-dat]]
 
 ### Code and SDK 
 
@@ -148,7 +149,7 @@
 
 - [[LCD-dat]] - [[RGB-LCD-dat]]
 
-- [[OLED-dat]] - [[oled-driver-dat]]
+- [[OLED-dat]] - [[oled-driver-dat]] - [[driver-dat]]
 
 - [[touch-panel-dat]] - [[touch-dat]] - [[touch-pad-dat]]
 
