@@ -1,5 +1,16 @@
 # AC69xx-dat
 
+
+
+## AC6905 CB6905 
+
+SCH 
+
+![](2026-06-17-13-30-04.png)
+
+
+
+
 Global TODO: describe all the alt functions too.
 
 - AC6921A 
@@ -54,6 +65,10 @@ https://device.report/zhuhai-jieli-technology/ble
 
 ![AC6908A](AC6908A.svg)
 
+
+
+
+
 ## AC692N
 
 ![AC6925A](AC6925A.svg)
@@ -85,3 +100,10 @@ https://device.report/zhuhai-jieli-technology/ble
 **NOTE** this is merely a guess, don't trust it.
 
 ![AC1187 (common firmware)](AC1187-common.svg)
+
+
+
+
+## ref 
+
+

@@ -89,6 +89,13 @@ fixed 5V output and little periperals
 
 - [[MT3608-dat]]
 
+Microchip MCP1640 boost regulator
+http://www.microchip.com/MCP16404171966
+
+3.3V
+Linear LTC3440 buck-boost regulator
+http://www.linear.com/product/LTC3440
+
 ## common application
 
 - [[5V-dat]] to [[12V-dat]] 

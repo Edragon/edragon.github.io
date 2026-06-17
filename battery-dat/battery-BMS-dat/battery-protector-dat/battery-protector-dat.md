@@ -90,6 +90,13 @@ boards specs for reference only
 - [[fuman-dat]]
 
 
+LiIo protection and fuel gauge
+Maxim DS2764 with IRF7324 p-channel mosfet
+http://www.maximintegrated.com/en/products/power/battery-management/DS2764.html
+http://www.irf.com/part/_/A~IRF7324
+
+
+
 ## ref 
 
 - [[battery-protector]] - [[battery]]

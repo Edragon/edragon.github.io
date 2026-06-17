@@ -41,6 +41,30 @@
 
 - [[TP4054-dat]] - [[LTC4054-dat]] - [[shouding-dat]] - [[TP4067-dat]]
 
+
+5V input LiIo Charger
+Microchip MCP73833
+http://www.microchip.com/MCP73833
+
+
+### Charge current selection
+
+Cypress CY7C65213 USB Serial interface with charger detect
+http://www.cypress.com/?mpn=CY7C65213-32LTXI
+Analog 4052 multiplexer
+
+
+
+
+
 ## apps 
 
 - [[power-bank-dat]]
+
+
+
+## article references 
+
+[The Basics of USB Battery Charging](https://www.analog.com/en/resources/technical-articles/the-basics-of-usb-battery-charging.html)
+
+## ref 

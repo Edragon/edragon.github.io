@@ -2,6 +2,9 @@
 # jieli-dat
 
 
+- [[AC7065-dat]] - [[jieli-dat]] - [[PCB-form-dat]]
+
+- [[AC410x-dat]] - [[jieli-dat]]
 
 - [[jieli-dat]] - [[chinabadam.com-dat]] - JL AC1649 
 
@@ -283,7 +286,11 @@ Or a *design name*, or a project name...
 - FR66 (fm receiver)
 
 
-## chip code 
+
+
+
+## build 
+
 
 A3 B008BD or B0088D  == 1：m-电容麦克风+ 2:接公共地 3:耳机 左 4:耳机 右 == 能发声水平，解析一般，没啥推力，低频弱且糊
 
@@ -293,7 +300,15 @@ A3 B008BD or B0088D  == 1：m-电容麦克风+ 2:接公共地 3:耳机 左 4:耳
 
 
 
-## build 
+AC1538 D8 5107-03B
+
+![](2026-06-17-13-22-53.png)
+
+JL AC1713AP SSOP - [[PAM8403-dat]]
+
+
+![](2026-06-17-13-09-38.png)
+
 
 JL AS19HFG521
 
@@ -308,6 +323,12 @@ JL AS19HFG521
 ## repo 
 
 https://github.com/Edragon/BT-JL
+
+
+
+
+
+
 
 ## ref 
 
