@@ -1,6 +1,6 @@
 # Penalization 
 
-- [[PCB-penalization-dat]] - [[PCB-form-dat]]
+- [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[PCB-form-dat]] - [[PCB-penalization-dat]]
 
 ## methods 
 

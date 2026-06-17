@@ -268,8 +268,9 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 - [[wayon-dat]] - [[WMQ50N04T1-dat]] == wayon QSDN04 - [[led-driver-dat]]
 
+- [[allpower-dat]] == APG095N01G N-Channel Enhancement Mosfet == P01BG G095N01G 
 
-
+![](2026-06-18-02-13-34.png)
 
 ## mosfet TO-252
 
@@ -278,6 +279,9 @@ MOT5N50D - MOSFET 500V 5A TO-252
 MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 
 `20N03` Datasheet. Specs and Replacement
+
+AP15N10D == 100V N-Channel Enhancement Mode MOSFET - [[APM-dat]]
+
 
 
 
