@@ -264,6 +264,11 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 - TYN7512 / TO-247J
 
+## mosfet PDFN 
+
+- [[wayon-dat]] - [[WMQ50N04T1-dat]] == wayon QSDN04 - [[led-driver-dat]]
+
+
 
 
 ## mosfet TO-252

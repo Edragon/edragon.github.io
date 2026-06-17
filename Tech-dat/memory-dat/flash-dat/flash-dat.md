@@ -131,6 +131,12 @@ IC FLASH 32MBIT PARALLEL 48TSOP - SST39VF3202-70-4I-EKE - FLASH Memory IC 32Mbit
 S29GL01GS, S29GL512S, S29GL256S, S29GL128S - 128 Mb/256 Mb/512 Mb/1 Gb GL-S MIRRORBIT™ flash Parallel, 3.0 V
 
 
+
+- [[flash-dat]] - [[PUY-dat]]
+
+
+
+
 ## ref
 
 ## ref 

@@ -63,6 +63,12 @@ cacultation:
 
 ![](2026-04-28-13-07-41.png)
 
+
+## build 
+
+![](2026-06-17-15-02-16.png)
+
+
 ## ref 
 
 - datasheet - [[TP4056.pdf]]

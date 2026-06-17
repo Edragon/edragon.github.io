@@ -2,7 +2,12 @@
 
 # display-driver-dat
 
-- [[segment-display-driver-dat]] - [[segment-display-dat]] - [[display-driver-dat]] - [[display-dat]]
+
+
+- [[led-driver-dat]] - [[display-driver-dat]] - [[display-segment-driver-dat]]
+
+
+- [[segment-display-dat]] - [[display-driver-dat]] - [[display-dat]]
 
 
 ![](2026-06-15-19-19-50.png)

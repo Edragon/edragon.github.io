@@ -13,7 +13,7 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]]
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
@@ -38,7 +38,7 @@
 
 ## chips 
 
-- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[realtek-dat]] - [[infineon-dat]] - [[74xx-dat]]
+- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[realtek-dat]] - [[infineon-dat]] - [[74xx-dat]] - [[realtek-dat]]
 
 - [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]]
 

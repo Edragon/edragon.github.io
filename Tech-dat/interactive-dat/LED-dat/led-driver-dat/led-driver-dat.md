@@ -17,7 +17,7 @@ https://w.electrodragon.com/w/LED_Drive
 
 - [[light-app-dat]] - [[led-dat]]
 
-
+- [[led-driver-dat]] - [[display-driver-dat]]
 
 
 ## chip 
@@ -260,6 +260,20 @@ Current Push vs Pull: Power Supply & LED
 - [[UCC27324-dat]] - [[mosfet-driver-dat]] - [[mosfet-dat]]
 
 ![](2026-03-05-02-37-49.png)
+
+
+
+## build 
+
+- [[OCX-dat]] - [[led-driver-dat]] - [[OC5021-dat]] - [[PCB-form-dat]]
+
+![](2026-06-17-15-08-23.png)
+
+- [[mosfet-dat]]
+
+![](2026-06-17-15-08-34.png)
+
+
 
 ### ref 
 

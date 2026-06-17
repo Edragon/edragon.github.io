@@ -32,6 +32,13 @@ The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very 
 
 - RTL8152B - [[RPI-SBC-dat]] - friendly - [[RTL8152-dat]] - [[wifi-dat]]
 
+### RTS
+
+- [[RTS5411-dat]] - [[realtek-dat]] == USB 3.0 Super-Speed HUB Controller
+
+- [[USB-SDK-dat]] - [[USB-3.0-dat]] - [[RTS5411-dat]] - [[realtek-dat]] - [[digital-dat]] - [[DSP-dat]]
+
+
 
 ## Boards 
 
