@@ -1,6 +1,13 @@
 
 # maxim-dat
 
+
+- [[analog-device-dat]] - [[maxim-dat]]
+
+
+- [[maxim-dat]] - [[MAX4622-dat]]
+
+
 ## maxim-audio 
 
 - [[max9812-dat]]

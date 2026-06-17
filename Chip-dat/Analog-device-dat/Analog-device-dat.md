@@ -2,6 +2,10 @@
 # analog-device-dat.md
 
 
+- [[analog-device-dat]] - [[maxim-dat]]
+
+
+
 - [[DDS-dat]] - [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] - [[AD-digital-dat]]
 
 

@@ -18,7 +18,7 @@
 
 **Germany:** PFC - Direct flight from Hong Kong - Commercial customs clearance - Delivery by DHL Packet Germany; recipient's address must include a house number.
 
-**Spain:** PFC - Direct flight from Hong Kong - Postal customs clearance - Delivery by CORREOS Spain/CTT Spain/Urvaam Spain.
+**Spain:** PFC - Direct flight from Hong Kong - Postal customs clearance - Delivery by CORREOS Spain/CTT Spain/Urvaam Spain. - [[spain-dat]]
 
 **South Korea:** PFC - Direct flight from Hong Kong - Commercial customs clearance - Delivery by CJ Korea Express.
 

@@ -77,7 +77,7 @@ switching IC - `SN75451BDR` - `SN5545xB`, `SN7545xB` Dual-Peripheral Drivers for
 
 MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
 
-- [[analog-device-dat]]
+- [[analog-device-dat]] - [[maxim-dat]] - [[MAX4622-dat]] - [[switching-analog-dat]] - [[switching-dat]]
 
 - [[ti-dat]]
 
