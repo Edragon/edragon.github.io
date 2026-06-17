@@ -1,6 +1,8 @@
 
 # PCB-dat 
 
+- [[PCB-dat]] - [[fab-PCB-dat]] - [[PCB-design-dat]] - [[EDA-dat]]
+
 
 - [[PCB-design-dat]] - [[PCB-test-dat]] - [[]]
 
@@ -19,7 +21,7 @@
 
 ## PCB edit 
 
-- [[desoldering-dat]] - [[PCB-fix-dat]]
+- [[fab-PCB-desoldering-dat]] - [[PCB-fix-dat]]
 
 
 

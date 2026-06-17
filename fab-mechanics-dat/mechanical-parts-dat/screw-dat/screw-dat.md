@@ -2,6 +2,9 @@
 # screws-dat
 
 
+- [[bolt-dat]] - [[mechanical-parts-dat]] - [[screw-dat]] - [[thread-dat]] - [[nut-dat]] - [[washer-dat]]
+
+
 - [[screw-magnetic-dat]]
 
 - [[nail-dat]] - [[screw-dat]] - [[thread-dat]]

@@ -1,7 +1,8 @@
 
 
-# PCB-clean-dat
+# PCBA-clean-dat
 
+- [[fab-PCBA-dat]] - [[PCBA-clean-dat]]
 
 - [[fab-soldering-materials-dat]] - [[fab-PCB-soldering-tools-dat]]
 
@@ -17,3 +18,4 @@
 
 ## ref 
 
+- [[PCB]] - [[fab-PCBA]] - [[PCB-dat]] - 
