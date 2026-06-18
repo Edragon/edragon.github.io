@@ -146,7 +146,7 @@ Chip Solutions
 
 - AZH6MA 
 
-
+- [[capacitor-dat]] == 68UF / 100V 
 
 
 ### build 2 
