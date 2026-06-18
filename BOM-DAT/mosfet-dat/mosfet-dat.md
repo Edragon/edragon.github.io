@@ -287,6 +287,7 @@ MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 
 ## MOSFET SOP-8
 
+- [[xin-fei-hong-dat]] - `FH4811` - N-Channel Enhancement Mode Power MOSFET
 
 `AGM30P10S` - AGM30P10S is the high cell density trenched P-ch MOSFETs, which provide excellentRDSON and gate charge for most of the synchronous buck converter applications
 

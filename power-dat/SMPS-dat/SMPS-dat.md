@@ -3,6 +3,33 @@
 
 - [[SMPS-dat]] - [[power-dat]] - [[ACDC-dat]] - [[DCDC-dat]]
 
+
+
+
+
+## flyback controller 
+
+- [[NCP1342-dat]] - [[onsemi-dat]] - [[power-flyback-controller-dat]] - [[power-dat]] - [[SMPS-dat]]
+
+
+A flyback controller is the "brain" of a Flyback Switching Mode Power Supply (SMPS).
+
+In a flyback topology, a primary switch (usually a MOSFET) turns on and off at high frequencies.
+
+When the switch is ON: Energy from the input source is stored in the magnetic field of a specialized transformer (coupled inductor).
+
+When the switch is OFF: The stored energy "flies back" and transfers to the secondary side to power the load.
+
+The controller's job is to monitor the output voltage via a feedback loop (usually an optocoupler) and precisely modulate the switching of the MOSFET to maintain a steady output voltage, even if the load changes or the input voltage fluctuates.
+
+
+
+
+
+
+
+## SMPS 
+
 An SMPS (Switched-Mode Power Supply) is an electronic circuit that efficiently converts electrical power from one form to another, typically changing AC (wall voltage) to regulated DC. 
 
 UC3842/UC3843/UC3844/UC3845 - [[fairchild-dat]] - [[SMPS-dat]]

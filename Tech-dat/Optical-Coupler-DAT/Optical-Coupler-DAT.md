@@ -7,7 +7,10 @@
 
 - [[isolator-dat]] - [[signal-input-dat]] - [[optical-coupler-dat]]
 
-- [[Orient-Tech-dat]] - [[OR-1009-dat]] - [[optical-coupler-dat]] - [[acdc-dat]]
+- [[Orient-Tech-dat]] - [[OR-1009-dat]] - [[optical-coupler-dat]] - [[acdc-dat]] - [[optical-coupler-dat]] == Orient OR-1009-TP-G - [[NCP1342-dat]]
+
+
+
 
 ## wiring 
 

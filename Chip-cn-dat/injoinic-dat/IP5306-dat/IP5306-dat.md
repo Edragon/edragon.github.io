@@ -87,6 +87,23 @@ SCH 2
 
 ## board 
 
+
+### build 3 
+
+- [[mosfet-dat]]
+
+![](2026-06-18-19-01-13.png)
+
+- [[memory-dat]] - SC8F289X - Cmsemicon touch enhanced flash memory 8-bit CMOS chip. - [[Cmsemicon-dat]]
+
+SC8F2892 is a CmsemiconFLASH chip, Flash 4Kx14Bit, RAM256B, built-in RC oscillator 8MHz/16MHz, working voltage 2.5V-5.5V, GPIO up to 14, built-in touch button function, built-in WDT, LVD, high-precision 12-bit ADC, 2 operational amplifiers , provide 5-channel PWM.
+
+
+
+
+
+### build 1 2
+
 ![](2026-04-21-21-11-52.png)
 
 ![](2026-06-02-19-19-06.png)

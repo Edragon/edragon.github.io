@@ -17,6 +17,7 @@
 
 - [[MOC3052-dat]] - [[MOC3063-dat]]
 
+- [[NCP1342-dat]] - [[onsemi-dat]] - [[power-flyback-controller-dat]]
 
 ## mosfet 
 

@@ -3,8 +3,7 @@
 
 - [[battery-charger-dat]] - [[ETA-solutions-dat]]
 
-- [[battery-charger-1s-dat]] - [[ETA9741-dat]] - [[battery-1s-dat]]
-
+- [[battery-charger-1s-dat]] - [[ETA9741-dat]] - [[battery-1s-dat]] - [[ETA9742-dat]]
 
 ## apps 
 

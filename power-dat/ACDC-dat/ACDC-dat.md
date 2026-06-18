@@ -8,6 +8,7 @@
 
 [legacy wiki page](https://www.electrodragon.com/w/AC-DC)
 
+- [[NCP1342-dat]] - [[onsemi-dat]] - [[power-flyback-controller-dat]] - [[power-dat]] - [[SMPS-dat]] - [[ACDC-dat]]
 
 
 
