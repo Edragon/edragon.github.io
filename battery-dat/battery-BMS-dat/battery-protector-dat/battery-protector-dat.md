@@ -15,6 +15,8 @@
 
 - [[xysemi-dat]] - [[XB8886-dat]]
 
+- [[hycon-dat]] - [[HY2112-dat]] - [[battery-protector-dat]] - [[BMS-active-dat]]
+
 
 ## full protector 
 

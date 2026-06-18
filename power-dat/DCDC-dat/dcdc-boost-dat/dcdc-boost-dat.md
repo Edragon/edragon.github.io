@@ -44,6 +44,7 @@ high power - [[OPMS080-dat]]
 
 - [[DCDC-boost-dat]] - [[hexin-dat]] - [[HX4004-dat]]
 
+- [[shouding-dat]] - [[SDB628-dat]] - [[dcdc-boost-dat]] - [[BMS-active-dat]]
 
 
 ## compare 

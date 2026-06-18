@@ -48,6 +48,9 @@ common brand: [[Vishay-dat]]
 
 - [[onsemi-dat]] - [[onsemi-mosfet-dat]]
 
+- [[NCEpower-dat]] - [[NCE2060K-dat]] - NCE N-Channel Enhancement Mode Power MOSFET 
+
+
 
 ## model selections 
 

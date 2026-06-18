@@ -86,6 +86,42 @@ note
 
 
 
+## build 
+
+- [[CKS-dat]] - [[MCU-dat]]
+
+![](2026-06-18-20-39-27.png)
+
+- [[hycon-dat]] - [[HY2112-dat]] - [[battery-protector-dat]] - [[BMS-active-dat]]
+
+![](2026-06-18-20-40-54.png)
+
+
+- [[mosfet-dat]] - [[SDB628-dat]] - [[JW5033-dat]]
+
+- [[shouding-dat]] - [[SDB628-dat]]
+
+- [[SD628-dat]] - [[DCDC-boost-dat]] - [[JW5033-dat]] - [[joulwatt-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-down-dat]] - [[dcdc-dat]] 
+
+SCH 
+
+![](2026-06-18-20-49-58.png)
+
+![](2026-06-18-20-50-15.png)
+
+
+MCU part 
+
+![](2026-06-18-20-50-53.png)
+
+demo 
+
+![](2026-06-18-20-51-33.png)
+
+
+
+
+
 ## ref 
 
 - [[BMS-dat]] - [[BMS-active-dat]]

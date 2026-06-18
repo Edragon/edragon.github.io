@@ -23,6 +23,8 @@
 
 - [[mindmotion-dat]] - [[MCU-dat]] - [[ARM-dat]]
 
+- [[CKS-dat]] - [[MCU-dat]] - [[ARM-dat]] - [[CKS32F103C8T6-dat]]
+
 ## programmer 
 
 - [[jlink-dat]] - [[st-link-dat]] - [[dap-link-dat]] - [[CMSIS-DAP-dat]]
