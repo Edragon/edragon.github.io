@@ -21,6 +21,17 @@
 
 - [[IR3889-dat]]
 
+- [[TDA21472-dat]] - [[Infineon-dat]]
+
+- High frequency, low profile dc-dc converters
+- Voltage Regulators for CPUs, GPUs, and DDR memory arrays
+
+`IR38164` == 30A Single-voltage Synchronous Buck Regulator with SVID
+
+`IR35215` == IR35215 dual output digital multi-phase controller 8-phase dual loop voltage regulator 
+
+
+
 ## mosfet 
 
 - [[FR1205-dat]] == [[IRFR1205-dat]]

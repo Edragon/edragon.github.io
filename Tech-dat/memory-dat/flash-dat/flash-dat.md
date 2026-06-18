@@ -13,6 +13,8 @@
 ## What is NOR Flash?
 NOR flash is a type of non-volatile memory that allows random read access. It is commonly used for storing firmware and allows executing code directly from flash (XIP - Execute In Place).
 
+- [[micron-dat]] - [[SDram-dat]]
+
 MT25QU02GCBB8E12-0SIT TR == IC FLASH 2GBIT SPI 24TPBGA - [[SPI-dat]]
 
 MT40A512M16TB-062E:R == SDRAM - DDR4 記憶體 IC 8Gbit 並行 1.6 GHz 19 ns 96-FBGA (7.5x13)
