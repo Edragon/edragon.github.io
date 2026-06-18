@@ -2,7 +2,7 @@
 
 # hand-warmer-dat
 
-- [[hand-warmer-dat]] - [[power-bank-dat]]
+- [[hand-warmer-dat]] - [[power-bank-dat]] - [[heater-dat]]
 
 - [[ETA9742-dat]]
 

@@ -13,6 +13,7 @@
 
 - [[XB8886-dat]] - [[SW6208-dat]] - [[xysemi-dat]] - [[battery-protector-1s-dat]] - [[battery-protector-dat]]
 
+- [[xysemi-dat]] - [[XB5606-dat]] - [[battery-protector-dat]]
 
 
 ## XB8089D 

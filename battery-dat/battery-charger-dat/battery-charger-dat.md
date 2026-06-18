@@ -162,7 +162,7 @@ request
 
 - [[shouding-dat]] - [[SD8001-dat]] - [[TP4054-dat]] - [[battery-charger-dat]]
 
-
+- [[silinktek-dat]] - [[XT2052-dat]] - [[battery-charger-dat]]
 
 ## battery charger for multiple series 
 

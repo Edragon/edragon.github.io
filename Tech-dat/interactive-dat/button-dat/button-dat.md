@@ -57,6 +57,9 @@ button with ripple capacitor
 
 ## nice button investigation 
 
+- [[button-dat]] - [[Initio-dat]] - [[INIC-1618-dat]]
+
+
 small size 
 
 ![](2026-06-13-19-22-51.png)

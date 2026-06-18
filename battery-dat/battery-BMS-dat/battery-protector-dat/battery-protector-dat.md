@@ -17,6 +17,8 @@
 
 - [[hycon-dat]] - [[HY2112-dat]] - [[battery-protector-dat]] - [[BMS-active-dat]]
 
+- [[creatic-dat]] - [[XT2105-dat]] - [[battery-protector-dat]]
+
 
 ## full protector 
 
