@@ -1,7 +1,7 @@
 
-# motor-BLDC-driver-dat
+# motor-driver-BLDC-dat
 
-- [[motor-BLDC-driver-dat]] - [[motor-brushless-dat]] - [[motor-driver-dat]] - [[motor-dat]]
+- [[motor-driver-BLDC-dat]] - [[motor-brushless-dat]] - [[motor-driver-dat]] - [[motor-dat]]
 
 - [[FOC-dat]]
 
@@ -97,6 +97,12 @@ a serie of BLDC motor driver
 ![](2026-04-04-17-36-44.png)
 
 ![](2026-04-04-17-38-12.png)
+
+
+
+## chip 
+
+- [[Sytatek-dat]] - [[SA6188-dat]] - [[SA6128-dat]] - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]] - [[motor-driver-dat]]
 
 
 ## ref 

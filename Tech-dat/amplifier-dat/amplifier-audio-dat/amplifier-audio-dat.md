@@ -1,7 +1,7 @@
 # amplifier-audio-dat
 
 
-
+- [[amplifier-audio-dat]] - [[8002-dat]]
 
 ## tech 
 

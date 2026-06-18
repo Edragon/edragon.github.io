@@ -20,7 +20,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[dual-mosfet-dat]]
 
 
-- [[3400-dat]] - [[3401-dat]]
+- [[3400-dat]] - [[3401-dat]] - [[AOSMD-dat]]
 
 similar  
 

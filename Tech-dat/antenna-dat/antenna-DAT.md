@@ -2,6 +2,10 @@
 # antenna-dat
 
 
+- [[antenna-dat]] - [[antenna-design-dat]] - [[AC2xBP-dat]] - [[jieli-dat]]
+
+
+
 选天线的原则：如果产品空间够的情况下，尽量选面积大的天线；研发前期，建议多拿一些款式做对比测试，从而可以选出匹配效果最佳的款式
 
 Antenna selection principles: If product space allows, choose an antenna with the largest possible area; in the early stages of R&D, it is recommended to conduct comparative tests on multiple models to select the one with the best matching performance.

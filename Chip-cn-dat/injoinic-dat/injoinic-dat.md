@@ -19,7 +19,7 @@ https://w.electrodragon.com/w/Injoinic
 [[battery-protector-dat]] + all-S [[battery-charger-dat]] - [[injoinic-dat]] == [[IP2365-dat]]
 
 
-- [[IP6806-dat]]
+- [[IP6806-dat]] - [[IP6808-dat]] - [[injoinic-dat]] - [[power-wireless-dat]]
 
 - [[IP236x-dat]]
 
