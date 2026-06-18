@@ -47,6 +47,9 @@
 
 - [[maxim-dat]]
 
+- [[HT8691-dat]] - [[heroic-dat]] - [[amplifier-audio-dat]]
+
+
 
 ## chip 
 

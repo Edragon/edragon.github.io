@@ -35,6 +35,8 @@
 
 - [[tkplusemi-dat]] - [[MP5216-dat]] - [[power-bank-dat]]
 
+- [[injoinic-dat]] - [[IP5355-dat]] - [[power-bank-dat]]
+
 
 # portable-power-bank-dat
 

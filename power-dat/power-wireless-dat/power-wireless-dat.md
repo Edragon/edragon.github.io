@@ -9,7 +9,7 @@
 
 - [[IP6806-dat]] - [[IP6808-dat]] - [[injoinic-dat]] - [[power-wireless-dat]]
 
-
+- [[IP6826-dat]] - [[IP5328-dat]] - [[power-wireless-dat]] - [[power-bank-dat]]
 
 
 ## standards 

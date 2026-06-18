@@ -34,6 +34,10 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP3012-dat]]
 
+- [[IP5355-dat]]
+
+- [[IP6826-dat]] - [[IP5328-dat]] - [[power-wireless-dat]] - [[power-bank-dat]]
+
 
 ## Chip Series 
 

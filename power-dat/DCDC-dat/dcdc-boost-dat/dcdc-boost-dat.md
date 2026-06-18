@@ -42,6 +42,7 @@ high power - [[OPMS080-dat]]
 
 - [[SP6649-dat]] - [[sipex-dat]] - [[dcdc-boost-dat]]
 
+- [[DCDC-boost-dat]] - [[hexin-dat]] - [[HX4004-dat]]
 
 
 
