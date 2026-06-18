@@ -280,9 +280,8 @@ MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 
 `20N03` Datasheet. Specs and Replacement
 
-AP15N10D == 100V N-Channel Enhancement Mode MOSFET - [[APM-dat]]
 
-
+- [[APM-dat]]
 
 
 ## MOSFET SOP-8

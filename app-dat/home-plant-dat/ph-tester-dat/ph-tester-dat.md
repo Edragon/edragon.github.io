@@ -16,7 +16,7 @@
 
 - [[power-dat]] - [[LDO-dat]] - [[3peak-dat]]
 
-- [[OP-amp-dat]]
+- [[op-amp-dat]]
 
 the control board 
 
@@ -30,7 +30,7 @@ the sense board
 
 ![](2026-01-25-18-45-50.png)
 
-[[OP-amp-dat]] for [[ph-tester-dat]] 
+[[op-amp-dat]] for [[ph-tester-dat]] 
 
 
 ## What kind of op-amp IS required?

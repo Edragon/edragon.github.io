@@ -15,7 +15,11 @@
 
 - [[NXP-MCU-dat]]
 
-- [[CMS32M5710-dat]] - [[cmsemicon-dat]] - [[ARM-dat]]
+- [[CMS32M5710-dat]] - [[cmsemicon-dat]] - [[ARM-dat]] - [[CMS-dat]] - [[ARM-dat]]
+
+
+
+- [[HDSC-dat]]
 
 
 ## programmer 

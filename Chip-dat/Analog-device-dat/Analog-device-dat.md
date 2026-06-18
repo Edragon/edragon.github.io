@@ -31,7 +31,7 @@
 
 - [[mixer-dat]] - [[timing-dat]]
 
-- [[AD8605-dat]] - [[AD8607-dat]] - [[OP-amp-dat]]
+- [[AD8605-dat]] - [[AD8607-dat]] - [[op-amp-dat]]
 
 - [[LVDT-dat]] - [[signal-dat]]
 

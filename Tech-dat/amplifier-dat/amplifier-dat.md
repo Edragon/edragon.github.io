@@ -2,9 +2,10 @@
 # amplifier-dat
 
 
+
 - [[amplifier-GNSS-dat]]
 
-- [[op-amp-dat]] - [[amplifier-audio-dat]]
+- [[amp-op-dat]] - [[amplifier-audio-dat]] - [[DAC-dat]] - [[ADC-dat]]
 
 - [[virtual-ground-dat]]
 
@@ -17,7 +18,7 @@
 
 M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-free SOT-89 surface mount plastic package. It can be operated from a single 3 to 5 volt supply.
 
-- [[op-amp-dat]] - [[LNA-dat]]
+- [[LNA-dat]]
 
 
 - [[LM358-dat]] - [[LMV321-dat]]
