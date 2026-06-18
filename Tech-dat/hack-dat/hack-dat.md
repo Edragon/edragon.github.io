@@ -2,7 +2,8 @@
 # hack-dat
 
 
-- [[hack-dat]] - [[mechanics-dat]] 
+- [[hack-dat]] - [[fab-mechanics-dat]] - [[hack-dat]] - [[installation-dat]]
+
 
 - [[rc-hack-dat]]
 

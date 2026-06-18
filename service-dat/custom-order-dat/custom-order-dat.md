@@ -2,6 +2,24 @@
 # custom-order-dat
 
 
+## customization request for listed items 
+
+- please email us upfront to discuss == info@electrodragon.com
+- when you place the order, please add a order note when checkout, we will always manually read all the notes and fulfil it before shipment, if you want you can also email us back to confirm the order, we may also email you back for a confirmation too. 
+
+
+## customization Production Process 
+
+- [[fab-PCB-dat]] normally need 3-5 days to process 
+- [[fab-PCBA-dat]] normally need 1-5 days, this depends on the complexity of the assembly and sometimes also depends on the the availability of key components.
+- [[fab-QC-dat]] normally in 1-2 days and get your final confirmation before shipment. 
+- also we may email you back the details of the first sample for confirmation before we proceed with the full order while [[fab-PCBA-dat]], this may add some extra time to the process.
+
+
+
+## order process for non-list items (send certain amount of payment)
+
+
 [[SUO1007-dat]] Use this link for: Items you want that are not currently listed in our store. - [[BOM-dat]]
 
 How to proceed:

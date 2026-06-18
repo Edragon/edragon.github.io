@@ -248,7 +248,7 @@
 
 - [[EDA-simulation-dat]]
 
-## Tools and Soldering 
+## fab Tools and Soldering 
 
 - [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
 
@@ -256,7 +256,7 @@
 
 - [[fab-tools-dat]] - [[fab-instrument-dat]] - [[fab-workspace-dat]]
 
-
+- [[product-dat]] - [[engineering-dat]] - [[fab-mechanics-dat]] - [[fab-dat]] - [[fab-materials-dat]]
 
 
 ## Mechnicals 
