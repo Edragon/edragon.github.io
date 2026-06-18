@@ -16,6 +16,7 @@
 - digital display + [[QC-dat]] == 22.5W 
 
 
+- [[SW6208-dat]] - [[SW6206-dat]] - [[ismartware-dat]] - [[power-bank-dat]]
 
 
 - [[SW6201-dat]] - [[ismartware-dat]] - [[SW3518-dat]] - [[SW6106-dat]]

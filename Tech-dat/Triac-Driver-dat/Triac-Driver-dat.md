@@ -4,7 +4,8 @@
 
 - [[driver-dat]] - [[Triac-Driver-dat]] - [[triac-dat]]
 
-- [[MOC3063-dat]] - [[triac-dat]] - [[triac-driver-dat]]
+- [[MOC3063-dat]] - [[triac-dat]] - [[triac-driver-dat]] - [[liteon-dat]]
+
 
 
 6-Pin DIP Random-Phase Triac Driver Optocoupler (600 Volt Peak) MOC3051M, MOC3052M, MOC3053M

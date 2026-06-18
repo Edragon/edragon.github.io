@@ -22,6 +22,14 @@
 
 ## build 
 
+
+### build 3 == plug and sold 
+
+![](2026-06-18-19-35-29.png)
+
+
+
+
 ### build 2 
 
 - [[Sytatek-dat]]

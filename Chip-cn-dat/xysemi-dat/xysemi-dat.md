@@ -11,6 +11,7 @@
 
 - [[battery-protector-1s-dat]] - [[xysemi-dat]] - [[XB8089-dat]] - [[XB4908-dat]] - [[XB7608-dat]]
 
+- [[XB8886-dat]] - [[SW6208-dat]] - [[xysemi-dat]] - [[battery-protector-1s-dat]] - [[battery-protector-dat]]
 
 
 

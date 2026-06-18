@@ -1,7 +1,9 @@
 
 # NXP-dat
 
-- [[NXP-sensor-dat]]
+- [[NXP-sensor-dat]] 
+  
+- [[NXP-triac-dat]] - [[BT136-dat]] - [[BT131-dat]] - [[triac-dat]] - [[triac-driver-dat]] 
 
 
 [[NXP-CAN-dat]] - [[TJA1050-dat]] - [[CAN-dat]]

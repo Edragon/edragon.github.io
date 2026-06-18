@@ -11,7 +11,9 @@
 
 - [[battery-protector-3s-dat]] - [[battery-protector-dat]]
 
+- [[injoinic-dat]] - [[IP3012-dat]] - [[IP53332-dat]]
 
+- [[xysemi-dat]] - [[XB8886-dat]]
 
 
 ## full protector 
