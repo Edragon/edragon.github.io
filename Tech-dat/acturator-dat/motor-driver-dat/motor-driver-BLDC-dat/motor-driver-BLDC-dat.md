@@ -9,6 +9,13 @@
 - [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
 
 
+
+
+## chip 
+
+- [[LK513-dat]] - [[LKS-dat]] - [[sytatek-dat]] - [[motor-driver-BLDC-dat]]
+
+
 ### FOC (Field Oriented Control) Explained
 
 **FOC** is indeed a **driving method** (or algorithm) used by a **Motor Controller** to manage the current going into a BLDC motor. It is also professionally known as **Vector Control**.

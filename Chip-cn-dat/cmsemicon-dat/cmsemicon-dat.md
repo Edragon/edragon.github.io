@@ -8,7 +8,7 @@ https://www.keil.arm.com/devices/cmsemicon-cms32m5710/features/
 ![](2026-06-15-18-29-26.png)
 
 
-- [[CMS32F033-dat]] 
+- [[CMS32F033-dat]] - [[MCU-dat]] - [[GVM-dat]] - [[cmsemicon-dat]]
 
 CMS32F033 == datasheet == [[CMS32F033-datasheet.pdf]]
 

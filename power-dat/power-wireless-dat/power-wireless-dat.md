@@ -7,6 +7,9 @@
 
 - [[fuman-dat]] - [[XPM7305-dat]] - [[power-wireless-dat]]
 
+- [[IP6806-dat]] - [[IP6808-dat]] - [[injoinic-dat]] - [[power-wireless-dat]]
+
+
 
 
 ## standards 

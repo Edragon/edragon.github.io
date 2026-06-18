@@ -2,6 +2,12 @@
 
 # Sytatek-dat
 
+
+
+- [[LK513-dat]] - [[LKS-dat]] - [[sytatek-dat]] - [[motor-driver-BLDC-dat]]
+
+
+
 - [[Sytatek-dat]] - [[belling-dat]] - [[HDSC-dat]]
 
 - [[Sytatek-dat]] - [[SA6188-dat]] - [[SA6128-dat]] - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]] - [[motor-driver-dat]]
@@ -100,7 +106,9 @@
 
 - [[APM-dat]] - [[mosfet-dat]]
 
+running [[led-panel-dat]]
 
+![](2026-06-18-18-07-13.png)
 
 
 
