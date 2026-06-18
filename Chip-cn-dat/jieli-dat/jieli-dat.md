@@ -2,6 +2,9 @@
 # jieli-dat
 
 
+- [[jieli-dat]] - [[AC2xBP-dat]]
+
+
 - [[jieli-dat]] - [[AW3x8-dat]] - [[bluetooth-voice-dat]] - [[bluetooth-dat]]
 
 - [[AC7065-dat]] - [[jieli-dat]] - [[PCB-form-dat]]
@@ -282,18 +285,6 @@ Or a *design name*, or a project name...
 
 
 ## build pending 
-
-
-JL AC22BP11630 - 
-
-![](2026-06-17-14-50-32.png)
-
-- [[PCB-penalization-dat]] - [[PCB-form-dat]] - [[jieli-dat]]
-
-AC20BP
-
-JL AC22BP == guess AC6925D AC6951C - [[AC69XX-dat]]
-
 
 `AC1625` 
 
