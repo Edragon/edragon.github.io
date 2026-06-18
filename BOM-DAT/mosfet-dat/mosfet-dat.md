@@ -276,6 +276,15 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 ![](2026-06-18-02-13-34.png)
 
+- [[NIKO-SEM-dat]] - NKO PK5A7BA
+
+P-Channel Logic Level Enhancement Mode Field Effect Transistor
+
+PK5A7BA PDFN 5x6P Halogen-Free & Lead-Free
+
+
+
+
 ## mosfet TO-252
 
 MOT5N50D - MOSFET 500V 5A TO-252

@@ -140,6 +140,15 @@ Chip Solutions
 ## build 
 
 
+### build 3 
+
+![](2026-06-18-21-18-27.png)
+
+- AZH6MA 
+
+
+
+
 ### build 2 
 
 ![](2026-06-15-19-01-53.png)
