@@ -3,7 +3,9 @@
 
 - [[ILC1031-dat]]
 
+- [[microchip-dat]] - [[SSD1963-dat]]
 
+The SSD1963 is a powerful, highly popular Solomon Systech LCD controller chip. It features a built-in 1215KB frame buffer, offloading the host microcontroller from constantly generating display data. It is widely used in DIY, industrial, and embedded projects to connect large TFT screens to microcontrollers like Arduino, STM32, and Raspberry Pi.
 
 
 

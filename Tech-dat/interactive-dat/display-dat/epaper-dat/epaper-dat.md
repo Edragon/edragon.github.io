@@ -1,6 +1,16 @@
 # e-paper-dat
 
 
+
+- [[good-display-dat]] - [[good-display-epaper-dat]] 
+  
+- [[epaper-dat]] - [[OLED-dat]] - [[display-dat]]
+
+- [[QYEG0213BNS800-dat]] - [[QY-epaper-dat]] - [[good-display-epaper-dat]] - [[epaper-dat]]
+
+
+
+
 ## board
 
 - [[MPC1091-dat]]
@@ -79,6 +89,10 @@ main method
 please find demo code in epaper repo above, we have V1, V2, V3 versions, currently selling version is V3. If not working please try from the V3 version to the V1.
 
 ![](2025-06-12-20-42-41.png)
+
+
+
+
 
 ## command 
 
@@ -159,92 +173,6 @@ When RESE is set to 3 :
 
     #define GPIO_PIN_SET 1
     #define GPIO_PIN_RESET 0
-
-
-## e-paper versions 
-
-l"54
-- 1"54_V2
-- 1"54b_V2
-- 1"54b
-- l"54c
-- l"54
-
-2"7
-- 2"7b_V2
-- 2"7b
-- 2"7
-
-2"9
-- 2"9_V2
-- 2"9b_V2
-- 2"9bc
-- 2"9d
-- 2"9
-
-2"13
-- 2"13_V2
-- 2"13_V3
-- 2"13b_V3
-- 2"13bc
-- 2"13d
-- 2"13
-
-- QYEG0213BNS800
-
-| Brand         | Model           | Type | Size | Color   | Note   | Resolution   | Interface | Pins | Controller | Extra     |
-|---------------|----------------|------|------|---------|--------|--------------|-----------|------|------------|-----------|
-| Good Display  | GDEW0213C38    | EINK | 2.13 | B/W/Y   |        | 212 x 104    | SPI       | 24   | IL0373     |           |
-| Good Display  | GDEW0213Z16    | EINK | 2.13 | B/W/R   |        | 212 x 104    | SPI       | 24   | IL0373     |           |
-| Good Display  | GDEH0213B72    | EINK | 2.13 | B/W     |        | 250 x 122    | SPI       | 24   | SSD1675A   | EOL       |
-| Good Display  | GDEH0213B1     | EINK | 2.13 | B/W     |        | 250 x 122    | SPI       | 24   | SSD1675B   |           |
-| Good Display  | GDEH0213B73    | EINK | 2.13 | B/W     |        | 250 x 122    | SPI       | 24   | SSD1675B   | EOL       |
-| Good Display  | GDEH0213D30LT  | EINK | 2.13 | B/W     |        | 212 x 104    | SPI       | 24   | SSD1675B   | Freezer   |
-| Good Display  | GDEH0213Z98    | EINK | 2.13 | B/W/R   |        | 250 x 122    | SPI       | 24   | SSD1680    |           |
-| Good Display  | GDEM0213B74    | EINK | 2.13 | B/W/R   |        | 250 x 122    | SPI       | 24   | SSD1680    |           |
-| Good Display  | GDEM0213C90    | EINK | 2.13 | B/W/Y   |        | 250 x 122    | SPI       | 24   | SSD1680    |           |
-| Good Display  | GDEW0213I5F    | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151c    | Flexible  |
-| Good Display  | GDEW0213I5FV1  | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151c    |           |
-| Good Display  | GDEH0213Z19    | EINK | 2.13 | B/W/R   |        | 212 x 104    | SPI       | 24   | UC8151d    |           |
-| Good Display  | GDEW0213M21    | DES  | 2.13 | B/W/R   |        | 212 x 104    | SPI       | 24   | UC8151d    |           |
-| Good Display  | GDEW0213T5     | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151d    |           |
-| Good Display  | GDEW0213T5D    | EINK | 2.13 | B/W     | 2bpp   | 212 x 104    | SPI       | 24   | UC8151d    |           |
-| Good Display  | GDEW0213V7LT   | EINK | 2.13 | B/W     |        | 212 x 104    | SPI       | 24   | UC8151d    | Freezer   |
-
-
-2"66
-- 2"66b
-- 2"66
-
-3"7
-- 3"7
-
-4"01
-- 4"01f
-
-4"2
-- 4"2b_V2
-- 4"2bc
-- 4"2
-
-5"65
-- 5"65f
-
-5"83
-- 5"83_V2
-- 5"83_V2
-- 5"83b_V2
-- 5"83bc
-- 5"83
-
-7"5
-
-- 7"5_HD
-- 7"5_V2
-- 7"5b_HD
-- 7"5bc_V2
-- 7"5bc
-- 7"5
 
 
 

@@ -4,6 +4,11 @@
 - [[segment-display-driver-dat]] - [[segment-display-dat]] - [[display-driver-dat]] - [[display-dat]]
 
 
+
+- [[epaper-dat]] - [[OLED-dat]] - [[display-dat]]
+
+
+
 ## LCD 
 
 - [[LCD-dat]] - [[led-driver-dat]]
