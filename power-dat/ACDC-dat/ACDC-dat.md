@@ -145,6 +145,22 @@ Chip Solutions
 
 - [[power-adapter-dat]]
 
+### build 5 
+
+### unknown 1 
+
+![](2026-06-19-18-49-32.png)
+
+![](2026-06-19-18-49-45.png)
+
+YJ GG0G10A 2432 - guess - [[mosfet-dat]] - [[chip-unknown-dat]]
+
+LYNRJ 37021
+
+开关变压器输出带同步整流，3A电流没啥问题
+
+![](2026-06-19-18-51-44.png)
+
 ### build 4 
 
 ![](2026-06-19-17-46-50.png)

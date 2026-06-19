@@ -9,5 +9,14 @@
 - [[NRF52832-dat]]
 
 
+
+
+
+## fully unknown chip
+
+
+
+
+
 ## ref 
 
