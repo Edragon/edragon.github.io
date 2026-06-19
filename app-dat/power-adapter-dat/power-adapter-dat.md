@@ -16,6 +16,23 @@
 
 ## build 
 
+
+### build 6
+
+
+- [[SCT-dat]] - [[SCT2650-dat]] == STC2650 == 4.5V-60V Vin, 5A, High Efficiency Step-down DCDC Converter with
+Programmable Frequency - [[DCDC-down-dat]]
+
+![](2026-06-19-16-43-17.png)
+
+- M20839 unknown 
+
+- [[LM358-dat]] - [[power-adapter-dat]]
+
+![](2026-06-19-16-43-55.png)
+
+- [[mosfet-dat]] - [[NCEpower-dat]] - [[NCEpower-mosfet-dat]] - [[mosfet-dat]] - [[NCE6050-dat]]
+
 ### build 5 
 
 ![](2026-06-19-15-10-05.png)

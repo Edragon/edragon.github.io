@@ -48,6 +48,10 @@
 
 - [[TMI-dat]] - [[T2282-dat]] == [[dcdc-down-dat]] == 30V 2.7A - [[WPINNO-dat]]
 
+- [[SCT-dat]] - [[SCT2650-dat]] == STC2650 == 4.5V-60V Vin, 5A, High Efficiency Step-down DCDC Converter with
+Programmable Frequency - [[DCDC-down-dat]]
+
+
 
 ### CHIP SIL 
 

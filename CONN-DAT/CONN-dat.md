@@ -1,6 +1,8 @@
 
 # Conn-dat 
 
+- [[CONN-power-dat]] - [[CONN-battery-dat]]
+
 - [[CONN-dat]] - [[cable-dat]] - [[pitch-dat]]
 
 - [[conn-cable-terminal-dat]]

@@ -48,11 +48,14 @@ common brand: [[Vishay-dat]]
 
 - [[onsemi-dat]] - [[onsemi-mosfet-dat]]
 
-- [[NCEpower-dat]] - [[NCE2060K-dat]] - NCE N-Channel Enhancement Mode Power MOSFET 
+- [[NCEpower-mosfet-dat]] - [[NCE2060K-dat]] - NCE N-Channel Enhancement Mode Power MOSFET 
 
 - [[Infineon-mosfet-dat]]
 
 - [[rectron-dat]] - [[rectron-mosfet-dat]] == RM20P30DF == P-Channel Enhancement Mode Power MOSFET 
+
+
+
 
 ## model selections 
 
