@@ -3,7 +3,7 @@
 
 - [[diode-dat]] - [[Diode-Schottky-dat]]
 
-- [[diode-rectifier-dat]] - [[diode-zener-dat]] - [[flyback-diode-dat]]
+- [[diode-rectifier-dat]] - [[diode-zener-dat]] - [[flyback-diode-dat]] - [[rectifier-dat]] - [[diode-dat]]
 
 - [[diode-bridge-rectifier-dat]]
 

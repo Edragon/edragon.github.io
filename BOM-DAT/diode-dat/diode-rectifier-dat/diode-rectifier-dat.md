@@ -1,6 +1,21 @@
 
 # diode-rectifier-dat
 
+## TMBS
+
+PY PS PS10U100GS
+
+
+The 10U100GS (PS10U100GS) in a TO-252 (DPAK) package is a 10A, 100V Trench MOS Barrier Schottky (TMBS) barrier rectifier. It is widely used in high-frequency, low-voltage inverters, DC/DC converters, and battery protection circuits for its ultra-low forward voltage drop and low power loss
+
+
+THINKI 10 Ampere,100 Volt Trench Process Low Vf Schottky Barrier Rectifier
+
+
+
+## general 
+
+
 - 1N4007
 
 SMC

@@ -19,6 +19,20 @@
 
 ### build 6
 
+front side 
+
+![](2026-06-19-16-47-20.png)
+
+![](2026-06-19-16-47-42.png)
+
+- [[diode-rectifier-dat]] - [[diode-dat]]
+
+![](2026-06-19-16-52-08.png)
+
+back side
+
+![](2026-06-19-16-46-45.png)
+
 
 - [[SCT-dat]] - [[SCT2650-dat]] == STC2650 == 4.5V-60V Vin, 5A, High Efficiency Step-down DCDC Converter with
 Programmable Frequency - [[DCDC-down-dat]]
