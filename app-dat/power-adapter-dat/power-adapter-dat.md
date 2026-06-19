@@ -16,6 +16,33 @@
 
 ## build 
 
+### build 5 
+
+![](2026-06-19-15-10-05.png)
+
+- [[wayon-dat]] - [[power-adapter-dat]] - [[power-dat]] - [[acdc-dat]] - [[capacitor-safety-dat]]
+
+- [[wayon-dat]] - [[wayon-mosfet-dat]] - [[mosfet-dat]] - [[WMF10N65C2-dat]]
+
+- [[optical-coupler-dat]]
+
+- [[power-adapter-dat]] - [[PCB-form-dat]]
+
+
+
+
+### build 4 
+
+- [[CRE6255-dat]] - [[CRE6905-dat]] - [[cresemi-dat]] - [[power-adapter-dat]]
+
+![](2026-06-19-14-59-12.png)
+
+![](2026-06-19-15-00-08.png)
+
+![](2026-06-19-15-00-25.png)
+
+- [[transformer-dat]] - [[power-adapter-dat]] - [[power-dat]] - [[acdc-dat]]
+
 ### build 3 
 
 ![](2026-06-19-14-21-55.png)

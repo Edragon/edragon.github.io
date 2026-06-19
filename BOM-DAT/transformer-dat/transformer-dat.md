@@ -30,4 +30,29 @@ The core can be a standard `E19` type ferrite core having a bobbin with central 
 
 - [[E19-dat]]
 
+
+
+## build 
+
+EE1710-5V3A
+
+XHD 2211
+
+- **EE1710 (or EE17)**: Core type and physical size.
+  - **EE**: Standard "E-E" shaped ferrite core.
+  - **1710**: Dimensions (approx. 17mm width).
+- **5V3A**: Electrical output rating.
+  - **5V**: Output voltage.
+  - **3A**: Maximum current.
+  - **Total Power**: 15W ($5\text{V} \times 3\text{A} = 15\text{W}$).
+- **XHD**: Series name or manufacturer prefix (2.5mm pitch).
+- **2211**: Date code / batch code.
+  - **22**: Year (2022).
+  - **11**: Calendar week (mid-March).
+
+![](2026-06-19-15-04-31.png)
+
+
+
+
 ## ref 

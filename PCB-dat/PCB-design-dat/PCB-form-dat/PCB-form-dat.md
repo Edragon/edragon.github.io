@@ -10,6 +10,32 @@
 - [[PCB-form-dat]]
 
 
+
+### slot board 7 
+
+- [[power-adapter-dat]] - [[PCB-form-dat]]
+
+4x PCBs stack - [[PCB-stack-dat]]
+
+![](2026-06-19-15-27-43.png)
+
+
+- [[SW6206-dat]] - [[ismartware-dat]] - [[power-adapter-dat]] - [[PCB-form-dat]]
+
+![](2026-06-19-15-14-26.png)
+
+![](2026-06-19-15-15-52.png)
+
+
+Q12 45H90 BAA018 == unknown 
+
+U7 8VH0B2 8VHOB2 == unknown 
+
+- [[8205-dat]] - [[XB7608-dat]] - [[PCB-form-dat]] - [[mosfet-dat]] == 
+20P30 
+
+![](2026-06-19-15-29-04.png)
+
 ### slot board 6 
 
 

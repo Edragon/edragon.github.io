@@ -52,6 +52,8 @@ common brand: [[Vishay-dat]]
 
 - [[Infineon-mosfet-dat]]
 
+- [[rectron-dat]] - [[rectron-mosfet-dat]] == RM20P30DF == P-Channel Enhancement Mode Power MOSFET 
+
 ## model selections 
 
 - [[IOR-dat]]

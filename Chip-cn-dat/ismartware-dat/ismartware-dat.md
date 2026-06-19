@@ -9,6 +9,9 @@
 - [[power-bank-dat]] - [[battery-charger-dat]] - [[battery-charge-boost-dat]] - [[fast-charge-protocols-dat]] - [[SW6106-dat]] - [[ismartware-dat]]
 
 
+- [[SW6206-dat]] - [[ismartware-dat]] - [[power-adapter-dat]] - [[PCB-form-dat]]
+
+
 
 ## SW3518
 
