@@ -397,6 +397,15 @@ Notes:
 ![](2025-12-11-19-47-20.png)
 
 
+
+
+
+## build 
+
+![](2026-06-19-17-41-56.png)
+
+- focal length == 6mm Aperture == 1/2"
+
 ## ref 
 
 - [[lens]] - [[tech]]

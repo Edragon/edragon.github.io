@@ -22,6 +22,9 @@
 
 ## build 
 
+### build 4 == double layer, middle case 
+
+![](2026-06-19-17-48-07.png)
 
 ### build 3 == plug and sold 
 

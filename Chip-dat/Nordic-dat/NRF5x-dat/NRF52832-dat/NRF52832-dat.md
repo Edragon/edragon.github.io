@@ -35,6 +35,32 @@ module MDBT 42
 
 
 
+## build 
+
+![](2026-06-19-17-27-11.png)
+
+- [[DFN-dat]] - [[PCB-footprint-dat]] == S90
+
+![](2026-06-19-17-30-41.png)
+
+- [[mosfet-dat]] - AON7520 (DFN 3.3x3.3) - [[NRF52832-dat]] - [[DFN-dat]] - [[AOSMD-mosfet-dat]] - [[AON7520-dat]] - [[AON6411-dat]]
+
+![](2026-06-19-17-38-16.png)
+
+back side 
+
+123 02 01 ud913
+
+![](2026-06-19-17-39-25.png)
+
+PFAA K4H 
+
+F1EL
+
+![](2026-06-19-17-40-43.png)
+
+![](2026-06-19-17-41-07.png)
+
 ## ref 
 
 - [[NRF52832]] - [[nordic]]

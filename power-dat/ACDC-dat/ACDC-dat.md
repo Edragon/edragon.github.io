@@ -145,6 +145,19 @@ Chip Solutions
 
 - [[power-adapter-dat]]
 
+### build 4 
+
+![](2026-06-19-17-46-50.png)
+
+unknown chip - [[chip-unknown-dat]]
+
+- BJM7100 22V1948
+- BJM 16R45 15R45
+
+- [[PCB-form-dat]] - [[PCB-stack-dat]]
+
+
+
 ### build 3 
 
 ![](2026-06-18-21-18-27.png)

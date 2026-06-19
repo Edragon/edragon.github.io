@@ -20,7 +20,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[dual-mosfet-dat]]
 
 
-- [[3400-dat]] - [[3401-dat]] - [[AOSMD-dat]]
+- [[3400-dat]] - [[3401-dat]] - [[AOSMD-dat]] - [[AOSMD-mosfet-dat]] - [[AOD4184-dat]] - [[AOD4184-dat]] - [[D4184-dat]]
 
 similar  
 
@@ -36,13 +36,12 @@ similar
 
 - [[PWM-dat]] generator - [[MSP1046-dat]]
 
-- [[SDR1073-dat]] - [[AOD4184-dat]]
+- [[SDR1073-dat]] 
 
 ## brand 
 
 common brand: [[Vishay-dat]]
 
-- [[AOD4184-dat]] - [[D4184-dat]]
 
 - [[K3645_FujiElectric.pdf]] - [[AGM-Semi-AGM30P05A_C6719407.pdf]]
 
@@ -63,16 +62,10 @@ common brand: [[Vishay-dat]]
 
 | Model             | Mark | Manufacturers    | Id    | Package         | CH type | VDS max |
 | ----------------- | ---- | ---------------- | ----- | --------------- | ------- | ------- |
-| AOD403            | D403 | [[AOSMD-dat]]    | 40A   | TO-252          | N       | 40V     |
-| AOD4184A          | 4184 | [[AOSMD-dat]]    | 50A   | TO-252          | N       | 40V     |
 | NCE6050           |      | [[ncepower-dat]] | 50A   | TO-252          | N       | 60V     |
 | IRF540N           | 540N | [[Infineon-mosfet-dat]] | 33A   | TO-263 / TO-220 | N       | 100V    |
 | IR F5305          | 5305 | [[Infineon-mosfet-dat]] | -31A  | TO-220          | P       | 55V     |
 | IR [[FR1205-dat]] |      | [[Infineon-mosfet-dat]] | 44A   | TO-252          | N       | 55V     |
-| AO4435 / SI4435   |      | [[AOSMD-dat]]    | -10.5 | SO-8            | P       | 30V     |
-| AO4468            |      | [[AOSMD-dat]]    | 10.5  | SO-8            | N       | 30V     |
-| AO3400            | A0T0 | [[AOSMD-dat]]    | 5.8A  | SOT-23          | N       | 30V     |
-| AO3401            | A19T | [[AOSMD-dat]]    | 4.3A  | SOT-23          | P       | 30V     |
 | 2N7002            | 7002 | [[NXP-dat]]      | 115mA | SOT-23          | N       | 60V     |
 | SI1304            |      | [[Vishay-dat]]   | 5.1A  | SOT-23          | N       | 20V     |
 | SI1308            |      | [[Vishay-dat]]   | 8.7A  | SOT-23          | N       | 30V     |
@@ -82,8 +75,6 @@ common brand: [[Vishay-dat]]
 | SI2304            | A04  | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
 | SI2307            |      | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
 | SI2308            |      | [[Vishay-dat]]   | 5.6A  | SOT-23          | N       | 30V     |
-
-- [[AO3401-dat]]
 
 - [[2N7002-dat]]
 
@@ -275,6 +266,7 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 ## mosfet PDFN 
 
+
 - [[wayon-dat]] - [[WMQ50N04T1-dat]] == wayon QSDN04 - [[led-driver-dat]]
 
 - [[allpower-dat]] == APG095N01G N-Channel Enhancement Mosfet == P01BG G095N01G 
@@ -343,7 +335,6 @@ The AM9435 is available in SOP8 Package
 
 `DTM4420` - N-Channel 30-V (D-S) MOSFET
 
-The `4435A` SOP refers to a P-Channel enhancement-mode MOSFET housed in a surface-mount SOP-8 (Small Outline Package). Transistors like the `FDS4435A` or `AO4435` are widely used for power management and battery-powered circuits.
 
 
 

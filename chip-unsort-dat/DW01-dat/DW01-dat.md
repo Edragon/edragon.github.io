@@ -4,7 +4,7 @@
 
 
 
-- [[battery-protector-1s-dat]] - [[battery-1s-dat]]
+- [[battery-protector-1s-dat]] - [[battery-1s-dat]] - [[DW01-dat]] - [[8205-dat]]
 
 
 ## chip 
