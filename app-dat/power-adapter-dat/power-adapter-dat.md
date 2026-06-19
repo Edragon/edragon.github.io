@@ -11,7 +11,22 @@
 
 - [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]] - [[power-adapter-dat]] - [[acdc-dat]] - [[SI5928-dat]] - [[power-switch-dat]] 
 
+
+
+
 ## build 
+
+### build 3 
+
+![](2026-06-19-14-21-55.png)
+
+![](2026-06-19-14-22-17.png)
+
+- [[ETA8056-dat]] - [[ACDC-dat]] - [[power-adapter-dat]] - [[ETA-solutions-dat]]
+
+ZJNOG ZJN0G unknown 
+
+![](2026-06-19-14-27-35.png)
 
 ### build 2 
 
