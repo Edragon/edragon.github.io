@@ -12,6 +12,8 @@ The 10U100GS (PS10U100GS) in a TO-252 (DPAK) package is a 10A, 100V Trench MOS B
 THINKI 10 Ampere,100 Volt Trench Process Low Vf Schottky Barrier Rectifier
 
 
+- [[mospec-dat]] - PY - [[MBR20250-dat]] == Schottky Barrier Rectifiers == 20 AMPERES 250 VOLTS - [[power-adapter-dat]]
+
 
 ## general 
 

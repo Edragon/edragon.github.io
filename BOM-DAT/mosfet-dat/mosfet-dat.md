@@ -288,6 +288,13 @@ P-Channel Logic Level Enhancement Mode Field Effect Transistor
 PK5A7BA PDFN 5x6P Halogen-Free & Lead-Free
 
 
+## mosfet TO-220 
+
+
+TSF20N65 - 0322dr1 - [[mosfet-dat]]
+
+The TSF20N65 (often referenced generically as 20N65) is a high-voltage, N-channel power MOSFET. It is widely used in power supplies, motor controls, and UPS systems where high voltage tolerance and switching efficiency are required.
+
 
 
 ## mosfet TO-252

@@ -3,6 +3,12 @@
 # capacitor-CBB-dat
 
 
+
+
+- [[capacitor-CBB-dat]] == CBB21 - 474J 450V - [[power-adapter-dat]]
+
+
+
 ZZEC MPP 404J100V
 
 Metallized Polypropylene Film Capacitor is used for wireless charger - ZZEC

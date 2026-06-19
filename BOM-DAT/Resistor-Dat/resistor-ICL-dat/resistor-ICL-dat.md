@@ -1,6 +1,19 @@
 
 # resistor-ICL-dat
 
+
+- [[resistor-ICL-dat]] - [[power-adapter-dat]]
+
+The MF72 2.5D13 is a power-type NTC (Negative Temperature Coefficient) thermistor used as an inrush current limiter (ICL) in electronic circuits.
+
+Its core specifications include:
+- Zero-power Resistance (R₂₅): 2.5 Ω (with a ± 20% tolerance).
+- Maximum Steady-State Current: 6 Amps.
+- Body Diameter: 13 mm (often marked as 15.5 mm maximum over the coating).
+- Operating Range: -55°C to +200°C.
+
+
+
 == PTC
 
 - [[resistor-dat]] - [[resistor-Inrush-dat]] - [[thermistor-dat]]

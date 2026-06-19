@@ -1,6 +1,27 @@
 
 # varistor-dat
 
+== MOVs 
+
+- [[varistor-dat]] - 561KD10 - Varistors MOV Disc 10mm, 560V 2.5KA, Bulk - [[power-adapter-dat]]
+
+The 561KD10 is a 10mm radial lead Metal Oxide Varistor (MOV) manufactured by YAGEO (or Brightking). It is an electrical overvoltage protection device designed to clamp sudden voltage spikes and protect sensitive electronic circuits.
+
+Key Specifications
+
+- Varistor Voltage: 560 V (operating at ± 10%)
+- Clamping Voltage: 925 V
+- Max Voltage Rating: 350 VAC / 460 VDC
+- Surge Current: 2.5 kA (2500 A)
+- Disc Diameter: 10 mm
+
+Common Applications
+- AC power supplies and surge protectors
+- Telecom equipment and smart meters
+- Circuit breakers and industrial automation
+- General consumer electronics
+
+
 10D471K 
 
 07D471K

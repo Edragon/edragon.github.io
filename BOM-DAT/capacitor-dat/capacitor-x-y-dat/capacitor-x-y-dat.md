@@ -1,6 +1,20 @@
 
 # capacitor-x-y-dat
 
+
+
+- [[capacitor-x-y-dat]] - SHM X1400~ Y1250~ B 331K - [[power-adapter-dat]]
+
+This is a Safety Ceramic Disc Capacitor manufactured by South Hongming (SHM). These are typically used for EMI/RFI suppression in power supplies and appliances. The markings translate to:
+
+- SHM: Manufacturer (South Hongming)
+- X1400 Y1250: Safety certification ratings of X1 (400V AC) and Y1 (250V AC)
+- 331K: Capacitance and tolerance. 331: 33 × 10¹ pF = 330 pF (Picofarads), K: ± 10% tolerance.
+
+https://www.vishay.com/docs/28518/safetydn.pdf
+
+Ceramic Disc Capacitors Safety, Class X1/Y2 400/250 V (AC) Series DN
+
 - [[capacitor-X2-dat]] - [[capacitor-dat]] - [[capacitor-x-y-dat]]
 
 

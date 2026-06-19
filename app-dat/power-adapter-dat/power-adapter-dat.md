@@ -29,6 +29,45 @@ front side
 
 ![](2026-06-19-16-52-08.png)
 
+- [[mospec-dat]] - PY - [[MBR20250-dat]] == Schottky Barrier Rectifiers == 20 AMPERES 250 VOLTS - [[power-adapter-dat]]
+
+![](2026-06-19-17-04-26.png)
+
+- [[capacitor-dat]] == 470UF/50V
+
+- [[resistor-ICL-dat]] - [[power-adapter-dat]] == MF72 2.5D13
+
+![](2026-06-19-17-06-44.png)
+
+- [[capacitor-X2-dat]] - [[power-adapter-dat]] == 47K 300V-40/105/21 - [[capacitor-x-y-dat]]
+
+SMTT5A 250V - [[fuse-dat]] - [[power-adapter-dat]]
+
+![](2026-06-19-17-11-22.png)
+
+TSF20N65 - 0322dr1 - [[mosfet-dat]]
+
+![](2026-06-19-17-13-34.png)
+
+JQH-17 2215 LCL-SQ19-4872A
+
+JOH-7 2216 DQG-RM10-7968A
+
+JQH-22 2214 BCK-PQ32-5542B
+
+- [[capacitor-CBB-dat]] == CBB21 - 474J 450V - [[power-adapter-dat]]
+
+![](2026-06-19-17-19-10.png)
+
+- [[varistor-dat]] - 561KD10 - Varistors MOV Disc 10mm, 560V 2.5KA, Bulk - [[power-adapter-dat]]
+
+- [[capacitor-x-y-dat]] - SHM X1400~ Y1250~ B 331K - [[power-adapter-dat]]
+
+- [[capacitor-dat]] - 100UF / 450V - [[power-adapter-dat]]
+
+![](2026-06-19-17-24-58.png)
+
+
 back side
 
 ![](2026-06-19-16-46-45.png)
