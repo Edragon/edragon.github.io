@@ -3,7 +3,7 @@
 
 - [[octal-buffer]] - [[shift-register]]
 
-
+- [[buffer-dat]] - [[74xx-dat]]
 
 
 

@@ -21,6 +21,17 @@ SN74LVCH16T245 16-bit Dual-supply Bus Transceiver - With Configurable Level-Shif
 SN74AVC2T245 Dual-Bit Dual-Supply Bus Transceiver with Configurable LevelShifting / Voltage Translation and Tri-State Outputs
 
 
+## SN74CBT3345
+
+- Standard ’245-Type Pinout
+- 5-Ω Switch Connection Between Two Ports
+- TTL-Compatible Input Levels
+
+https://www.ti.com/lit/ds/symlink/sn74cbt3345.pdf
+
+![](2026-06-19-13-58-17.png)
+
+
 ## ref 
 
 - [[74xx-dat]]

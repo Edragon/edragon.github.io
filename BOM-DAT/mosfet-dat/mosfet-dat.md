@@ -50,7 +50,7 @@ common brand: [[Vishay-dat]]
 
 - [[NCEpower-dat]] - [[NCE2060K-dat]] - NCE N-Channel Enhancement Mode Power MOSFET 
 
-
+- [[Infineon-mosfet-dat]]
 
 ## model selections 
 
@@ -61,9 +61,9 @@ common brand: [[Vishay-dat]]
 | AOD403            | D403 | [[AOSMD-dat]]    | 40A   | TO-252          | N       | 40V     |
 | AOD4184A          | 4184 | [[AOSMD-dat]]    | 50A   | TO-252          | N       | 40V     |
 | NCE6050           |      | [[ncepower-dat]] | 50A   | TO-252          | N       | 60V     |
-| IRF540N           | 540N | [[Infineon-dat]] | 33A   | TO-263 / TO-220 | N       | 100V    |
-| IR F5305          | 5305 | [[Infineon-dat]] | -31A  | TO-220          | P       | 55V     |
-| IR [[FR1205-dat]] |      | [[Infineon-dat]] | 44A   | TO-252          | N       | 55V     |
+| IRF540N           | 540N | [[Infineon-mosfet-dat]] | 33A   | TO-263 / TO-220 | N       | 100V    |
+| IR F5305          | 5305 | [[Infineon-mosfet-dat]] | -31A  | TO-220          | P       | 55V     |
+| IR [[FR1205-dat]] |      | [[Infineon-mosfet-dat]] | 44A   | TO-252          | N       | 55V     |
 | AO4435 / SI4435   |      | [[AOSMD-dat]]    | -10.5 | SO-8            | P       | 30V     |
 | AO4468            |      | [[AOSMD-dat]]    | 10.5  | SO-8            | N       | 30V     |
 | AO3400            | A0T0 | [[AOSMD-dat]]    | 5.8A  | SOT-23          | N       | 30V     |

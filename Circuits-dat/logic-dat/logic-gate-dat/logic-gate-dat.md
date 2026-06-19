@@ -1,7 +1,10 @@
 
 # logic gate 
 
-- [[buffer-dat]]
+
+- [[logic-gate-dat]] - [[74xx-dat]]
+
+- [[buffer-dat]] - [[74xx-dat]]
 
 - [[XOR-dat]]
 
