@@ -27,6 +27,36 @@ FEATURES
 
 
 
+
+
+- [[toll-micro-dat]] - [[T2282-dat]] == [[dcdc-down-dat]] == 30V 2.7A - [[WPINNO-dat]]
+
+Wide Input Range Step-Down Synchronous DC/DC Converter
+
+FEATURES
+- ⚫ P-MOS+N-MOS Switch Structure
+- ⚫ Wide Input Voltage: 4.5V to 30V
+- ⚫ Up to 2.7A Output Current at 5V Output
+- ⚫ High Efficiency up to 93%@5V/2.5A
+- ⚫ 120kHz to 440kHz Adjustable Frequency
+- ⚫ Internal Compensation
+- ⚫ Output Line Drop Compensation
+- ⚫ Hiccup Output Short Current Protection
+- ⚫ 2% Feedback Voltage Accuracy
+- ⚫ Integrated Soft Start
+- ⚫ Thermal Shutdown
+- ⚫ Duty Cycle up to 100%
+- ⚫ Frequency Jitter for EMI Consideration
+- ⚫ Low BOM Cost
+- ⚫ SOP8 Package
+
+
+## ref 
+
+
+
+
+
 ## ref 
 
 

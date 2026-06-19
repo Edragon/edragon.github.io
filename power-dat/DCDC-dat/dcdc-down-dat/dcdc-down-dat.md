@@ -46,6 +46,8 @@
 
 - [[TMI-dat]] - [[STI3470-dat]] - [[dcdc-down-dat]]
 
+- [[TMI-dat]] - [[T2282-dat]] == [[dcdc-down-dat]] == 30V 2.7A - [[WPINNO-dat]]
+
 
 ### CHIP SIL 
 

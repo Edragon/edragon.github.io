@@ -81,6 +81,11 @@ ME6217
 - [[MCP1700-dat]]
 
 
+### SOT89 
+
+- [[mccsemi-dat]] - [[MCL52-dat]] == 200mA Low Drop-out Voltage Regulators
+
+
 ### SOT23-5
 
 

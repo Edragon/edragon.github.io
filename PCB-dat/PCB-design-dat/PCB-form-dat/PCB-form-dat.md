@@ -20,7 +20,7 @@
 ![](2026-06-19-15-27-43.png)
 
 
-- [[SW6206-dat]] - [[ismartware-dat]] - [[power-adapter-dat]] - [[PCB-form-dat]]
+- [[SW6206-dat]] - [[ismartware-dat]] - [[power-adapter-dat]] - [[PCB-form-dat]] - [[LED-indicator-dat]] - [[LED-dat]] - [[led-indicator-dat]]
 
 ![](2026-06-19-15-14-26.png)
 

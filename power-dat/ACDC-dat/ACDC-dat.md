@@ -136,9 +136,14 @@ Chip Solutions
 
 - [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]]
 
+- [[JW7707-dat]] - [[ACDC-dat]] - [[joulwatt-dat]] - [[QC7707-dat]]
+
+- [[silan-dat]] - [[SP8585-dat]]
+
 
 ## build 
 
+- [[power-adapter-dat]]
 
 ### build 3 
 

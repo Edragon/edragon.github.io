@@ -1,6 +1,14 @@
 
 # silan-dat
 
+
+- [[JW7707-dat]] - [[ACDC-dat]] - [[joulwatt-dat]] - [[QC7707-dat]]
+
+- [[silan-dat]] - [[SP8585-dat]]
+
+## SD6834
+
+
 - [[silan-dat]] - [[SD6834-dat]] - [[acdc-dat]]
 
 CURRENT MODE PWM+PFM CONTROLLER WITH BUILT-IN HIGH VOLTAGE MOSFET
