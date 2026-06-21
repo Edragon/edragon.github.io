@@ -72,6 +72,6 @@ test in error: https://twitter.com/electro_phoenix/status/1427971402561327106
 
 - [[RMP-driver-dat]]
 
-- [[IDD1023]]
+- [[IDD1023]] - [[IDD1023-fab]]
 
 - [[ESP-SDK-dat]]
