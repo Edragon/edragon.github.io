@@ -5,7 +5,11 @@
 - [[gas-discharge-tube-dat]] - [[BOM-dat]]
 
 
+
+
 ## types 
+
+2095-350-BLF - Gas Discharge Tubes - GDTs / Gas Plasma Arrestors 08x8mm, 3500V HV Axial GDT - https://www.mouser.com/catalog/specsheets/2095_datasheet.pdf
 
 B88069X2140S102 - Gas Discharge Tubes - GDTs / Gas Plasma Arrestors A71-H08X
 
