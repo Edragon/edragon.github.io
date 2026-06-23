@@ -96,3 +96,6 @@ Integrating the flux directly into the core of the wire revolutionized the proce
 
 
 ## ref 
+
+
+- [[flux-core]] - [[fab-soldering-materials]] - [[fab]]

@@ -12,6 +12,8 @@
 
 - [[Heat-Set-Insert-dat]]
 
+- [[screws-torx-dat]] - [[screws-dat]] - [[screw-uncommon-dat]]
+
 
 ## drivers
 
