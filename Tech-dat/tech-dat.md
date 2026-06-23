@@ -205,7 +205,7 @@
 
 - [[serial-dat]] - [[serial-wireless-dat]] - [[CP2104-dat]]
   
-- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]]
+- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]]
 
 - [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]]
 

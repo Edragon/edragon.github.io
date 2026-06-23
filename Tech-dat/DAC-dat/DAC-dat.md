@@ -14,6 +14,11 @@
 
 legacy wiki page == https://www.electrodragon.com/w/AD/DA
 
+- [[analog-device-dat]] - [[ADV453-dat]] - CMOS 66 MHz Monolithic 256324 Color Palette RAM-DAC - [[DAC-dat]]
+
+
+
+
 
 ## boards 
 
