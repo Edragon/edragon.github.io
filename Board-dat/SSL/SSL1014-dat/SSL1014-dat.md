@@ -1,9 +1,7 @@
 
 # SSL1014-dat
 
-MP3 Decoder and Player Board, w/Amplifier
-
-https://www.electrodragon.com/product/gpd2856c-mp3-decoder-and-play-board-wamplifier/
+[MP3 Decoder and Player Board, w/Amplifier](https://www.electrodragon.com/product/gpd2856c-mp3-decoder-and-play-board-wamplifier/)
 
 
 ## ProductFeatures
@@ -47,6 +45,6 @@ Note:
 
 ## ref 
 
-- [[mp3-decoder-dat]]
+- [[mp3-decoder-dat]] - [[codec-dat]]
 
 - [[SSL1014]]

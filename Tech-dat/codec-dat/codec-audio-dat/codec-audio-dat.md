@@ -3,11 +3,10 @@
 # codec-audio-dat
 
 
-
-
 - [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] 
 
-
+- [[codec-dat]] - [[decoder-mp3-dat]] - [[DAC-dat]] - [[codec-audio-dat]]
+ 
 
 
 - [[ADC-dat]] - [[ADC-RECORD-dat]] - [[DAC-dat]] - [[DAC-PLAYBACK-dat]]

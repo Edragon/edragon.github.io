@@ -1,11 +1,11 @@
 
-# mp3-decoder-dat
+# decoder-mp3-dat
 
 legacy wiki page - https://www.electrodragon.com/w/MP3_Decoder
 
 - [[SSL1056-dat]] - [[SSL1075-dat]] - [[SSL1056-dat]]
 
-- [[codec-dat]] - [[mp3-decoder-dat]]
+- [[codec-dat]] - [[decoder-mp3-dat]] - [[DAC-dat]] - [[codec-audio-dat]]
  
 
 
@@ -15,14 +15,21 @@ legacy wiki page - https://www.electrodragon.com/w/MP3_Decoder
 
 - [[sd-dat]]
 
+- [[VS1053-dat]] - [[VS1003-dat]] - [[codec-dat]] - [[decoder-mp3-dat]] - [[SSL1059-dat]] - [[SSL1040-dat]]
+
+
 ## other options 
 
-- yx5200 
+- [[yx5200-dat] 
 
 
-- WTV020SD
+- [[WTV020SD-dat]]
 
 ![](2026-03-05-02-13-13.png)
+
+
+
+
 
 ## ref 
 

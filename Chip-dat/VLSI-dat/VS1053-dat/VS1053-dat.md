@@ -1,7 +1,9 @@
 
 # VS1053-dat
 
-- [[VS1053-dat]] - [[VS1003-dat]] - [[codec-dat]]
+- [[VS1053-dat]] - [[VS1003-dat]] - [[codec-dat]] - [[decoder-mp3-dat]] - [[SSL1059-dat]] - [[SSL1040-dat]]
+
+
 
 ## board 
 
