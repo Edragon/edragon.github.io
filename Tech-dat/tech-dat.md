@@ -1,7 +1,7 @@
 
 # tech 
 
-## Main tech 
+## recently updates
 
 - [[SDK-dat]]
 
@@ -17,22 +17,19 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[mp3-decoder-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]]
+- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[decoder-mp3-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]]
 
 - [[robot-dat]] - [[robotic-dat]]
 
-- [[M2M-dat]]
-
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]]
 
-
-- [[mechanics-dat]] - [[materials-dat]]
+- [[fab-mechanics-dat]] - [[fab-materials-dat]]
 
 - [[clock-dat]]
 
 - [[CONN-USB-dat]] - [[USB-SDK-dat]]
 
-- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]]
+- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]]
 
 
 
@@ -114,7 +111,7 @@
 
 - [[ELRS-dat]]
 
-- [[M2M-dat]]
+- [[M2M-dat]] - [[SIMCOM-dat]] - [[quectel-dat]] - [[A7670-dat]]
 
 - [[RFID-dat]] - [[NFC-dat]]
 
