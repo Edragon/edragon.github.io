@@ -25,6 +25,8 @@
 
 legacy wiki page - https://w.electrodragon.com/w/AVR_Dev_Board
 
+- [[atmega128-dat]]
+
 ## AT89 
 
 `AT89C55WD` - 8-bit Microcontroller with 20K Bytes Flash

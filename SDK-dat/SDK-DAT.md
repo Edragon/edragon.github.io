@@ -1,6 +1,9 @@
 
 # SDK-DAT
 
+
+
+
 - [[code-dat]] - [[Cmake-dat]]
 
 - [[STM32-dat]]
@@ -23,7 +26,7 @@
 
 - [[java-dat]] - [[Eclipse-dat]]
 
-- [[openocd-dat]]
+- [[openocd-dat]] - [[debugWire-dat]] - [[JTAG-dat]] - [[SDK-dat]] - [[OCD-dat]] == On-Chip Debugging
 
 - [[clang-dat]] - [[vscode-dat]] - [[SDK-dat]]
 

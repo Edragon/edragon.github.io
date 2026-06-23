@@ -71,13 +71,14 @@ Note
 
 ### Wiring UART communication with USB-TTL
 
-- auto turn ON, 
+- auto turn ON, or press button to turn on
 - RXD->RXD, 
 - TXD->TXD, 
 - 5V-VIN, 
 - GND-GND, 
 - 115200 bps, 
 - net-led constant ON
+
 
 serial 
 
