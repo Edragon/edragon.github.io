@@ -71,7 +71,15 @@ Note
 
 ### Wiring UART communication with USB-TTL
 
-auto turn ON, RXD->RXD, TXD->TXD, 5V-VIN, GND-GND, 115200 bps, net-led constant ON
+- auto turn ON, 
+- RXD->RXD, 
+- TXD->TXD, 
+- 5V-VIN, 
+- GND-GND, 
+- 115200 bps, 
+- net-led constant ON
+
+serial 
 
     *ATREADY: 1
 
@@ -87,6 +95,11 @@ auto turn ON, USB will list 3 COMs - [[A7670-dat]]
 
 - [Sim7670 usb-ttl bridge debug](https://t.me/electrodragon3/200)
 - [Sim7670 usb boot guide](https://t.me/electrodragon3/199)
+
+
+
+
+
 
 
 ## ref 
