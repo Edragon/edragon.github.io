@@ -2,6 +2,71 @@
 # radiomaster-pocket-dat.md
 
 
+## DML setup 
+
+setup page 2 
+
+![](2026-06-25-23-58-16.png)
+
+## SYS setup 
+
+### navigate to hardware page 
+
+Navigating to the H/W Page
+
+`Press and hold` or simply press the SYS button to open the `system settings`.
+
+Look at the very top right corner of your screen. You will see page tracking numbers like 1/7, 2/7, etc.
+
+Press the `PAGE>` button repeatedly until you hit` page 6/7` (or 7/7 depending on your exact version).
+
+Look at the top text label—it will say H/W. This is your `Hardware page!`
+
+
+### check version 
+
+Press the `PAGE<` button to 7/7
+
+
+![](2026-06-25-23-58-56.png)
+
+
+
+
+
+
+## change baud rate 
+
+### Step 2: Unlocking your Baud Rate
+1. Once you are on the **H/W** page, scroll all the way down until you see **Internal RF**.
+2. Right below where it says `Type: CRSF`, you should now see **Baudrate**. 
+3. Change it from `400k` down to **`115k`**. 
+4. Turn your radio off and back on again to save the changes.
+
+---
+
+> ⚠️ **One Final Reminder:** Now that your radio is outputting at 115,200 bps, you **must** open your ExpressLRS LUA script (Short press **SYS** $\rightarrow$ **ExpressLRS**) and drop your **Packet Rate** down to **50Hz** or **100Hz**. If you leave it at 250Hz or 500Hz, the 115,200 baud wire speed will instantly bottleneck and cause sensor errors.
+
+![](2026-06-25-23-59-38.png)
+
+
+
+
+
+
+## bootloader mode 
+
+Bootloader: Turn off the radio transmitter. Push both `trim hat switches` inward together and press the power button.
+
+`DFU`: Turn off the radio transmitter. Plug in the USB cable to the USB port on the `top` of the radio. - [[STM32-DFU-dat]] - [[STM32-dat]]
+
+`Enter Bootloader Mode:` Turn your RadioMaster Pocket completely OFF. Hold both horizontal trim buttons (T1 and T4) inward toward the power button while pressing the power button. The screen will say "EdgeTX Bootloader".
+
+In the context of the RadioMaster Pocket, T1 and T4 refer to the horizontal trim switches situated directly below the gimbals. T1 corresponds to your `Roll (Aileron) trim`, while T4 corresponds to your `Yaw (Rudder) trim`.
+
+- [[edge-tx-dat]]
+
+
 
 
 

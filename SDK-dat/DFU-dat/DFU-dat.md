@@ -2,6 +2,10 @@
 
 # DFU-dat
 
+- install - [[USB-SDK-dat]] - [[libusb-dat]]
+
+- [[STM32-DFU-dat]] - [[DFU-dat]]
+
 - [[UF2-dat]]
 
 - [[NRF52832-dat]] - [[NRF52840-dat]]
