@@ -28,7 +28,12 @@ This is how a typical RC channel data packet might look (in hex):
 C8 18 16 A1 84 3F C1 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 9E
 
 
+In the CRSF protocol:
 
+- C8 or C4 are typical Address bytes.
+- 18 or 10 is usually the Frame Length.
+- 16 is the Frame Type for RC Channels.
+- B 52 FE etc., are the packed 11-bit channel data.
 
 
 

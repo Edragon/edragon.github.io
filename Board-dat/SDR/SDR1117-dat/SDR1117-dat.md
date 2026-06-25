@@ -57,7 +57,14 @@ expanding PCB by [[PCB-accesories-dat]]
 
 
 
+## setup 
 
+- [[CRSF-dat]]
+
+correct to SoftwareSerial soft(13, 12); // RX, TX
+
+    #define PIN_RX 13
+    #define PIN_TX 12
 
 
 ## Demo Code and Video

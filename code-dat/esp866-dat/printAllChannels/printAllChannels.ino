@@ -1,8 +1,8 @@
 #include <AlfredoCRSF.h>
 #include <SoftwareSerial.h>
 
-#define PIN_RX 12
-#define PIN_TX 13
+#define PIN_RX 13
+#define PIN_TX 12
 
 // Set up a new SoftwareSerial object
 SoftwareSerial crsfSerial(PIN_RX, PIN_TX);
@@ -13,7 +13,7 @@ void setup()
   Serial.begin(115200);
   Serial.println("COM Serial initialized");
   
-  crsfSerial.begin(CRSF_BAUDRATE);
+  crsfSerial.begin(115200);
 
   crsf.begin(crsfSerial);
 }

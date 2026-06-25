@@ -13,6 +13,9 @@
 
 - [[serial-dat]]
 
+- [[arduino-dat]] - [[arduino-boards-dat]]
+
+
 Bootloader / ROM output	74880	Default ESP8266 boot messages (after reset).
 
 AT firmware 
