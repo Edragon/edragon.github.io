@@ -33,8 +33,22 @@ Purpose: To provide a load for the secondary winding of a current transformer (C
 
 ## Pull up and down resistor
 
+[[motor-dat]] - [[motor-driver-dat]]
+
 - control the logic level of a signal line by ensuring that it is pulled to a known voltage level (high or low) when no active device is driving the line.
-    - [[motor-driver-dat]]
+    
+[[serial-dat]] 
+
+[[CRSF-dat]] serial communication is **active low** (the line stays High at 3.3V when idle or sending a '1' bit). 
+
+1. **The Problem:** The ESP8266's internal pull-up resistors are too "weak" (10kΩ–50kΩ). At high speeds or over longer wires, they cannot pull the signal back up to 3.3V fast enough. This rounds off the sharp corners of the digital waves, causing corrupt data or a stream of zeros.
+2. **The Fix:** Adding a stronger **external 1kΩ to 4.7kΩ resistor** forces the voltage to snap back to 3.3V instantly. This sharpens the digital edges, allowing `SoftwareSerial` to read the data packets accurately.
+
+Wiring:
+* Connect one leg of a **1kΩ resistor** to the **ESP8266 RX pin (GPIO12)**.
+* Connect the other leg to the **3.3V pin** on the ESP8266.
+
+
 
 
 
