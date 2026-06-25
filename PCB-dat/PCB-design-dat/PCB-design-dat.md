@@ -1,6 +1,9 @@
 
 # PCB-design-dat
 
+- [[circuits-dat]] - [[PCB-design-dat]] - [[resistor-dat]] - [[capacitor-dat]] - [[RCL-dat]]
+
+
 
 
 - [[PCB-aluminium-dat]] - [[PCB-design-dat]] - [[led-panel-dat]]

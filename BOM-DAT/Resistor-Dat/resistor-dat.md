@@ -33,6 +33,8 @@ Purpose: To provide a load for the secondary winding of a current transformer (C
 
 ## Pull up and down resistor
 
+- [[circuits-dat]] - [[PCB-design-dat]] - [[resistor-dat]] - [[capacitor-dat]]
+
 [[motor-dat]] - [[motor-driver-dat]]
 
 - control the logic level of a signal line by ensuring that it is pulled to a known voltage level (high or low) when no active device is driving the line.
