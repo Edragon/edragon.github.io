@@ -59,7 +59,7 @@ expanding PCB by [[PCB-accesories-dat]]
 
 ## setup 
 
-- [[CRSF-dat]]
+- [[CRSF-dat]] - [[radiomaster-pocket-dat]]
 
 correct to SoftwareSerial soft(13, 12); // RX, TX
 
