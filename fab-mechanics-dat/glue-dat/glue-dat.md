@@ -1,7 +1,7 @@
 
 # glue-dat
 
-
+- [[glue-hot-dat]] - [[glue-UV-dat]] - [[glue-dat]] - [[cable-dat]]
 
 - [[glue-hot-dat]] - [[502-glue-dat]] - [[epoxy-glue-dat]] (AB Glue) - [[uv-glue-dat]]
 

@@ -25,6 +25,15 @@
 
 
 
+## PCB installation 
+
+- [[installation-dat]] - [[PCB-dat]] 
+
+- [[magnet-dat]] - [[screw-magnetic-dat]] - [[magnetic-dat]]
+
+- [[glue-hot-dat]] - [[glue-UV-dat]] - [[glue-dat]] - [[cable-dat]]
+
+
 ## ref 
 
 - [[fab-stencil]]

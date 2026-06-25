@@ -2,6 +2,8 @@
 # magnetic-dat
 
 
+- [[magnet-dat]] - [[screw-magnetic-dat]] - [[magnetic-dat]]
+
 - [[motor-dat]] - [[metal-dat]]
 
 
