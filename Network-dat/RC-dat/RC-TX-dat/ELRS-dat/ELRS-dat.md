@@ -6,7 +6,9 @@
 
 Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]] - [[ELRS-board-dat]]
 
+- [[ELRS-dat]] - [[ELRS-TX-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-dat]]
 
+- [[ELRS-RX-dat]]
 
 ## setup 
 
