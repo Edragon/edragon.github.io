@@ -32,8 +32,11 @@ types
 
 - 支撑杆 - supporter bar
 
+## app 
 
+- [[PCB-dat]]
 
+- [[glue-hot-dat]] - [[glue-UV-dat]] - [[glue-dat]] - [[cable-dat]]
 
 
 ## ref 
