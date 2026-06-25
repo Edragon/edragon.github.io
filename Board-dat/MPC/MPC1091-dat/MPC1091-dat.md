@@ -15,18 +15,20 @@
 - SPI selec: 4-line SPI, 3-line SPI 
 
 
+
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video
 
-- [[e-paper-dat]] == V3
+- [[epaper-dat]] == V3
 
 - enable [[SPI-dat]] by [[raspi-config-dat]]
 
 
 ## ref 
 
-- [[e-paper-dat]] - [[Epaper]]
+- [[epaper-dat]] - [[Epaper]]
 
 - [[RPI-dat]] - [[python-dat]]
 

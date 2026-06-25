@@ -142,7 +142,7 @@
 
 - [[LED-dat]] - [[LED-strip-dat]] - [[led-driver-dat]] - [[led-panel-dat]] - [[led-types-dat]] - [[light-dat]]
 
-- [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] - [[LCD-dat]]
+- [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] - [[LCD-dat]] - [[epaper-dat]]
 
 - [[LCD-dat]] - [[RGB-LCD-dat]]
 

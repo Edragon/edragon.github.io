@@ -34,6 +34,22 @@
 
 
 
+## python setup 
+
+
+### ModuleNotFoundError: No module named 'Image' 
+
+sudo apt update
+sudo apt install python3-pil
+
+
+
+
+## network 
+
+search local device: >nmap -p 22 192.168.110.0/24 --open
+
+
 
 
 ## Usage and Software 
