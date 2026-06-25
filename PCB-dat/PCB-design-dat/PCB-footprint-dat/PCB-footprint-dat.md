@@ -28,6 +28,40 @@
 - [[CCO3626-dat]] - [[CCO3629-dat]] - [[prog-socket-SMD2DIP-dat]]
 
 
+
+## common footprint height for PNP
+
+- [[feeder-dat]]
+
+This value represents the component thickness, used to compensate for the nozzle height when placing the part. It can be obtained via calipers or the component datasheet.
+
+### Common SMD Component Thickness Reference
+
+| Component Type | Package (EIA) | Thickness Range (mm) |
+| :--- | :--- | :--- |
+| **SMD Resistor** | 0201 | 0.2 ~ 0.3 |
+| | 0402 | 0.3 ~ 0.4 |
+| | 0603 | 0.4 ~ 0.5 |
+| | 0805 | 0.5 ~ 0.6 |
+| | 1206 | 0.6 ~ 0.7 |
+| | 2512 | 0.8 ~ 1.2 |
+| **SMD Capacitor (MLCC)** | 0201 | 0.2 ~ 0.3 |
+| | 0402 | 0.3 ~ 0.5 |
+| | 0603 | 0.5 ~ 0.7 |
+| | 0805 | 0.6 ~ 0.8 |
+| **Tantalum Capacitor** | Case A (3216) | 1.0 ~ 1.2 |
+| | Case B (3528) | 1.5 ~ 1.8 |
+| **SMD Diode** | SOD-323 | 0.5 ~ 0.7 |
+| | SOD-123 | 0.8 ~ 1.0 |
+| | SMB (DO-214AC) | 1.1 ~ 1.3 |
+| **SMD Transistor** | SOT-323 | 0.7 ~ 0.9 |
+| | SOT-23 | 0.9 ~ 1.1 |
+| | SOT-89 | 1.5 ~ 2.0 |
+
+> [!NOTE]
+> These values are general reference ranges. Actual thickness varies by manufacturer and specific part numbers. Always verify with the component's **Datasheet** for critical placement calibration.
+
+
 ## footprints 
 
 - [[PLCC-dat]] - [[DIP8-dat]] - [[SOP8-dat]]
