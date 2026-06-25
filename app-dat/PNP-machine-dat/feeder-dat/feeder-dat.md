@@ -1,13 +1,26 @@
 
 # feeder-dat
 
+
+
+
 ## feeder types 
 
-- [[electric-feeder-dat]]  - [[loose-component-feeder-dat]] - [[Loose-Component-Taping-Feeder-dat]] - [[Tray-Feeder-dat]]
+- [[feeder-electric-auto-dat]] - target for - [[SMD-tape-reel-dat]] w/reel
+- [[feeder-loose-component-dat]] - target for - [[SMD-tape-reel-dat]] w/o tape and reel, bare components only 
+- [[feeder-loose-component-taping-dat]] - [[SMD-tape-reel-dat]] w/o reel
+- [[feeder-tray-dat]] - large size [[PCB-footprint-dat]]
 
-- [[electric-feeder-dat]] parts: [[feeder-tray-dat]]
+
+
+- [[feeder-electric-auto-dat]] parts: [[feeder-tray-dat]]
 
 ![](2025-05-07-14-28-35.png)
+
+
+
+
+
 
 ## other Type of Feeder Info 
 

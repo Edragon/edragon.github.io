@@ -1,6 +1,15 @@
 
 # PNP-machine-dat
 
+
+
+
+- [[openpnp-dat]] - [[PNP-machine-dat]] - [[fab-PNP-machine-dat]]
+
+
+
+
+
 - opensource options [[openpnp-dat]] - [[PixiePlacer-dat]]
 
 - commerlized options [[lumenpnp-dat]]
