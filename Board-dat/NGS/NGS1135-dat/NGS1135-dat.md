@@ -6,7 +6,7 @@
 
 - hardware and most board info please refer to module [[NGS1095-dat]]
 
-- [[SIM7028-dat]] - [[NBIOT-dat]]
+- [[SIM7028-dat]] - [[NBIOT-dat]] - [[LTE-M-dat]] - [[LTE-dat]] 
 
 
 software - [[SIMCOM-AT-dat]]

@@ -165,10 +165,6 @@ serial flashing with DTR pin for [[arduino-dat]]
 ![](2026-04-28-13-12-05.png)
 
 
-## ref 
-software [[com-monitor-dat]]
-
-- [[ESP-SDK-dat]]
 
 ### other interface 
 
@@ -176,3 +172,42 @@ software [[com-monitor-dat]]
 
 
 - [[usb-ttl]] - [[serial]]
+
+
+## full interface - Full-Function UART (Universal Asynchronous Receiver-Transmitter)
+
+While modern UART configurations often use just two pins (TXD and RXD) or four pins (adding RTS and CTS), this specific list includes the legacy hardware modem control lines.
+
+---
+
+### Pin Definition & Breakdown
+
+Here is what each specific pin does (note: there is a slight typo in your list; `UART1_R1` is almost certainly `UART1_RI`):
+
+| Pin Name                      | Full Name           | Direction (Relative to DTE/Host) | Description                                                                                        |
+| :---------------------------- | :------------------ | :------------------------------- | :------------------------------------------------------------------------------------------------- |
+| **UART1_TXD**                 | Transmit Data       | Output                           | Carries the actual serial data being sent out from the host.                                       |
+| **UART1_RXD**                 | Receive Data        | Input                            | Carries the incoming serial data being received by the host.                                       |
+| **UART1_RTS**                 | Request To Send     | Output                           | Used for hardware flow control. Tells the receiver that the transmitter has data ready to send.    |
+| **UART1_CTS**                 | Clear To Send       | Input                            | Used for hardware flow control. Tells the transmitter that the receiver is ready to accept data.   |
+| **UART1_DCD**                 | Data Carrier Detect | Input                            | Incoming signal from a modem indicating it has successfully connected to a telephone line/carrier. |
+| **UART1_DTR**                 | Data Terminal Ready | Output                           | Outgoing signal from the host indicating it is powered on and ready to communicate.                |
+| **UART1_RI** *(listed as R1)* | Ring Indicator      | Input                            | Incoming signal from a modem indicating an incoming phone call/ring is detected.                   |
+
+---
+
+### How It Is Used Today
+
+While originally designed in the 20th century to connect computers (DTE) to telephone modems (DCE), you will still encounter this exact 7-to-8 pin configuration (including Ground) in several modern scenarios:
+
+* **Industrial Automation:** Connecting to legacy PLCs, industrial machinery, and CNC equipment that require full RS-232 signaling.
+* **Cellular Modems & IoT Modules:** High-end 4G/5G LTE or NB-IoT modules embedded on PCBs often utilize the full UART interface. The `RI` pin is especially useful for waking up a host microcontroller from deep sleep when an incoming SMS or data packet arrives.
+* **Telecommunications:** Network routers and switches still frequently use full serial interfaces for console management.
+
+
+## ref 
+
+software [[com-monitor-dat]]
+
+- [[ESP-SDK-dat]]
+
