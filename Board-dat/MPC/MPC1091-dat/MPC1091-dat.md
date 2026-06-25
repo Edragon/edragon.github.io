@@ -26,6 +26,19 @@
 - enable [[SPI-dat]] by [[raspi-config-dat]]
 
 
+
+
+root@raspberrypi:/home/pi/213/2.13inch_e-Paper_HAT-code/raspberrypi/python# python main.py
+
+
+root@raspberrypi:/home/pi/RPI-Display-main/2.13inch_e-Paper_HAT-code/raspberrypi/python# python epd2in13.py
+
+python /home/pi/RPI-Display-main/2.13inch_e-Paper_HAT-code/raspberrypi/python/epd2in13.py
+
+cd /home/pi/213/2.13inch-e-paper/SDK/V3/bcm2835_GDEH0213B72B
+
+./epd
+
 ## ref 
 
 - [[epaper-dat]] - [[Epaper]]

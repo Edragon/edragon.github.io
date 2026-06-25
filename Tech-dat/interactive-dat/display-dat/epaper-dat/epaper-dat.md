@@ -104,10 +104,6 @@ please find demo code in epaper repo above, we have V1, V2, V3 versions, current
 
 [[python-dat]] 
 
-    root@raspberrypi:/home/pi/RPI-Display-main/2.13inch_e-Paper_HAT-code/raspberrypi/python# python epd2in13.py
-
-    python /home/pi/RPI-Display-main/2.13inch_e-Paper_HAT-code/raspberrypi/python/epd2in13.py
-
 
 
 

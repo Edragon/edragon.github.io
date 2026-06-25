@@ -39,10 +39,16 @@
 
 ### ModuleNotFoundError: No module named 'Image' 
 
+
+sudo rm -rf /usr/local/lib/python3.11/dist-packages/PIL
+sudo rm -rf /usr/local/lib/python3.11/dist-packages/pillow-11.3.0.dist-info
+
 sudo apt update
 sudo apt install python3-pil
 
+sudo apt install python3-pil -y
 
+sudo apt-get install fonts-freefont-ttf -y
 
 
 ## network 
