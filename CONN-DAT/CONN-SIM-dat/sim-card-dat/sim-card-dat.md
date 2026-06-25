@@ -9,3 +9,11 @@ w/current limit resistor, filter cap
 - SIM_CLK
 
 ![](2024-07-10-01-16-22.png)
+
+
+
+
+
+## ref 
+
+

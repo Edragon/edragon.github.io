@@ -1,5 +1,9 @@
 
-# SIM-dat
+# CONN-SIM-dat
+
+- [[sim-card-dat]] - [[SIM_Holder-dat]] - [[SIM-dat]] (dead) - [[SIM]] - [[CONN-SIM-dat]]
+
+
 
 
 ## circuits 

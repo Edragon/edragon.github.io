@@ -1,5 +1,8 @@
 # sim holder dat 
 
+- [[sim-card-dat]] - [[SIM_Holder-dat]] - [[SIM-dat]] - [[SIM]]
+
+
 We only use one kind of sim card, which is the nano type. It is the normal type used on iphone or most common modern phone.
 
 ### Nano Sim 
