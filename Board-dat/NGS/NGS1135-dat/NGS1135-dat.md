@@ -6,7 +6,7 @@
 
 - hardware and most board info please refer to module [[NGS1095-dat]]
 
-- [[SIM7028-dat]] 
+- [[SIM7028-dat]] - [[NBIOT-dat]]
 
 
 software - [[SIMCOM-AT-dat]]
@@ -15,6 +15,12 @@ software - [[SIMCOM-AT-dat]]
 
 - [[NGS1096-dat]] - [[NGS1095-dat]] - [[NGS1135-dat]]
 
+
+## pin definitions 
+
+![](2026-06-25-15-02-36.png)
+
+functions - [[logic-level-shifter-dat]] - [[serial-dat]] - [[SIMCOM-USB-dat]] - [[SIMCOM-dat]]
 
 
 ## ref 

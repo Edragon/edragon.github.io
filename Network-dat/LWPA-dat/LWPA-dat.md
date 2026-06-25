@@ -1,6 +1,8 @@
 
 # LWPA-dat (Low Power Wide Area)
 
+- [[LTE-M-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[2G-dat]] - [[LTE-dat]] - [[M2M-dat]]
+
 
 - common board == [[NGS1128-dat]] == CAT-M / [[NBIOT-dat]] module + [[GNSS-dat]]
 

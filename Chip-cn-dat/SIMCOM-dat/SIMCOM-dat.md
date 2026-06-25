@@ -11,6 +11,9 @@ https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 
 - [[A7670-dat]] - [[SIMCOM-dat]] - [[LTE-dat]] - [[M2M-dat]]
 
+- [[SIMCOM-USB-dat]] - [[SIMCOM-dat]] - [[SIMCOM-SDK-dat]]
+
+
 
 ## boards 
 

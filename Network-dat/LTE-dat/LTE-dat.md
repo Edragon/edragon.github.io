@@ -3,6 +3,8 @@
 # LTE-dat
 
 
+- [[LTE-M-dat]] - [[NBIOT-dat]] - [[2G-dat]] - [[LTE-dat]] - [[M2M-dat]]
+
 - [[LTE-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[M2M-dat]]
 
 

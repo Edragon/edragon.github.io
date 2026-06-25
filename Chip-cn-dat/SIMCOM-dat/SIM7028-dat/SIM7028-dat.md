@@ -4,7 +4,7 @@
 - order at [[NGS1135-dat]]
 
 
-The SIM7028 module support LTE Category NB2, 2-HARQ. The physical dimension of SIM7028 is 17.6mm×15.7mm×2.3 mm. 
+The SIM7028 module support `LTE Category NB2`, 2-HARQ. The physical dimension of SIM7028 is 17.6mm×15.7mm×2.3 mm. 
 
 It is designed for applications that need low latency, Low throughput datacommunication in a variety of radio propagation conditions.
 
@@ -17,7 +17,7 @@ based on [[qualcomm-dat]] - [[A212-dat]] platform
 
 ## Product advantages
 
-- Low power consumption: The module supports PSM low power mode. Theoretically, two No. 5 batteries can support 10 years
+- Low power consumption: The module supports `PSM` low power mode. Theoretically, two No. 5 batteries can support 10 years
 
 - Wide coverage: Compared with GSM, NB-IoT has a strong gain and a wide signal coverage, which also enables the product to have wireless communication capabilities in locations such as basements
 
@@ -76,7 +76,7 @@ compare to [[SIM7020-dat]]
 - NET LED will not blink 
 - Module automatically ON when power supplied 
 
-
+- [[LTE-M-dat]] - [[NBIOT-dat]] - [[2G-dat]] - [[LTE-dat]] - [[M2M-dat]]
 
 | **Feature**                  | **SIM7028**                                                                         | **SIM7020**                                                          |
 | ---------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
