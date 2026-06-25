@@ -132,6 +132,15 @@
 
 - [[MC33887-dat]]
 
+
+## design rules 
+
+- add proper pull-up or pull-down resistors to the input pins of the motor driver ICs to ensure stable operation and prevent floating inputs. - [[resistor-dat]]
+- both IN1 and IN2 pull up or down in the same time to prevent the motor driver from entering an undefined state. 
+
+
+
+
 ## Chip function lists 
 
 - overcurrent / thermal shutdown protection / microstepping / precise motor control
