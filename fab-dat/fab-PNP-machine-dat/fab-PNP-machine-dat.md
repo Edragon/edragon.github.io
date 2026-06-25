@@ -2,15 +2,15 @@
 # fab-PNP-machine-dat
 
 
-- [[openpnp-dat]] - [[PNP-machine-dat]] - [[fab-PNP-machine-dat]]
+- [[PNP-machine-dat]] - [[fab-PNP-machine-dat]]
 
 
 
-## main 
+## main setup parts 
 
 - [[nozzle-dat]] - [[feeder-dat]]
 
-
+- [[vision-dat]] 
 
 
 
