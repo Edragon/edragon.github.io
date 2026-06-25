@@ -31,6 +31,38 @@ Press the `PAGE<` button to 7/7
 ![](2026-06-25-23-58-56.png)
 
 
+## Internal RF vs. External RF Settings
+
+On the RadioMaster Pocket, these settings tell the radio where to send the control signals depending on whether you are using the built-in transmission chip or an add-on module.
+
+---
+
+### 1. Internal RF (Built-In Module)
+This controls the transmitter chip that is physically soldered inside the RadioMaster Pocket's body. 
+
+* **What it powers:** The built-in **ExpressLRS (ELRS) 2.4GHz** module (or CC2500 module, depending on your version). 
+* **When to use it:** Turn this **ON** (set to `Mode: CRSF` for ELRS) when communicating directly with your drones or robots using the radio's native built-in antenna.
+* **Power saving:** Turn it **OFF** if you aren't using it to save battery life.
+
+---
+
+### 2. External RF (Expansion Slot Module)
+This controls the pinned expansion bay located on the back of the radio handset.
+
+* **What it powers:** Removable external hardware modules that you snap into the back slot (such as a TBS Crossfire Nano TX, a 915MHz ELRS module, or a multi-protocol module).
+* **When to use it:** Turn this **ON** (set to `Mode: CRSF` for Crossfire/External ELRS) only when you have physically plugged a module into the back bay.
+* **Power saving:** Keep this **OFF** unless a module is plugged in, as it routes live battery power directly to those back pins.
+
+---
+
+### Summary Checklist:
+
+| If you are using...                              | Internal RF | External RF |
+| :----------------------------------------------- | :---------- | :---------- |
+| The radio's built-in ELRS system                 | **CRSF**    | **OFF**     |
+| A module plugged into the back (e.g., Crossfire) | **OFF**     | **CRSF**    |
+| A PC simulator via USB cable                     | **OFF**     | **OFF**     |
+
 
 
 
