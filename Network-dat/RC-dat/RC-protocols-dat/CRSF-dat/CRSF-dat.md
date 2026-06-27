@@ -4,6 +4,23 @@
 
 
 
+## SDK 
+
+arduino - AlfredoCRSF - library 
+
+    #define CRSF_BAUDRATE           420000
+    #define CRSF_NUM_CHANNELS 16
+    #define CRSF_CHANNEL_VALUE_MIN  172
+    #define CRSF_CHANNEL_VALUE_1000 191
+    #define CRSF_CHANNEL_VALUE_MID  992
+    #define CRSF_CHANNEL_VALUE_2000 1792
+    #define CRSF_CHANNEL_VALUE_MAX  1811
+    #define CRSF_CHANNEL_VALUE_SPAN (CRSF_CHANNEL_VALUE_MAX - CRSF_CHANNEL_VALUE_MIN)
+    #define CRSF_MAX_PACKET_LEN 64
+
+
+
+## info 
 
 CRSF (Crossfire Serial Protocol) is a low-latency, high-speed serial protocol developed by **Team BlackSheep (TBS)** for communication between radio receivers (like TBS Crossfire Nano RX) and flight controllers.
 

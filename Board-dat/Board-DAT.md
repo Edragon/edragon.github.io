@@ -575,6 +575,8 @@ Darlinton driver - [[SCU1024-dat]] == [[stepper-dat]]
 
 - [[SDR1050-dat]]
 
+- [[SDR1125-dat]]
+
 
 ### SMO
 
