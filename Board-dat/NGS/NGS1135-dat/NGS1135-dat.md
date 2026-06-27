@@ -31,6 +31,7 @@ functions - [[logic-level-shifter-dat]] - [[serial-dat]] - [[SIMCOM-USB-dat]] - 
 
 - [[SIM7020-dat]]
 
-
+- [[capacitor-dat]]
 
 - [[NGS1135]]
+

@@ -1,10 +1,13 @@
 
-# Tantalum-dat
+# capacitor-Tantalum-dat
 
 
 ## examples 
 
 107E == 100UF 
+
+![](2026-06-27-17-31-26.png)
+
 
 
 ## types 
