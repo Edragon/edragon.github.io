@@ -2,10 +2,42 @@
 # ELRS-dat
 
 
-
+- [[CRSF-dat]] - [[rc-system-dat]]
 
 Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]] - [[ELRS-board-dat]]
 
+- [[ELRS-dat]] - [[ELRS-TX-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-dat]]
+
+- [[ELRS-RX-dat]]
+
+## setup 
+
+packet rate - 500hz - 250hz - 150hz - 50hz
+- 50HZ 
+- 100hZ
+- 150hZ
+- 250hz
+- 333hz
+- 500hz
+- D250
+- D500
+- F500
+- F1000
+
+telem ratio - std 1:64 
+switch mode - hybrid 
+link mode - normal 
+model match - off   
+
+TX power - 100mW
+
+baud rate - 5.25M ~ 115K
+- 115k
+- 400k
+- 921k
+- 1.87m
+- 3.75m
+- 5.25M
 
 ## ELRS frequency 
 

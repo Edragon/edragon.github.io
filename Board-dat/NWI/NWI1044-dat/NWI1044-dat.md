@@ -14,6 +14,9 @@
 
 - [[ESP-12F-dat]] - [[SDR1064-dat]]
 
+- [[SDR1117-dat]]
+
+
 ## pins 
 
 - refer to [[nodemcu-dat]]

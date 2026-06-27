@@ -1,6 +1,8 @@
 
 # circuits-dat 
 
+- [[circuits-dat]] - [[PCB-design-dat]] - [[resistor-dat]] - [[capacitor-dat]] - [[RCL-dat]]
+
 
 
 - [[impedance-dat]] - [[virtual-ground-dat]] - [[circuits-dat]]

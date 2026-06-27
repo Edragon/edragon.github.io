@@ -1,5 +1,12 @@
 
-# cap-dat 
+# capacitor-dat 
+
+
+
+- [[circuits-dat]] - [[PCB-design-dat]] - [[resistor-dat]] - [[capacitor-dat]] - [[RCL-dat]]
+
+
+
 
 - [[capacitor-dat]] - 100UF / 450V - [[power-adapter-dat]]
 
