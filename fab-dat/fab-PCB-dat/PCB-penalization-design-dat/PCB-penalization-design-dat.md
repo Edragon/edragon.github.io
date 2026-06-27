@@ -1,4 +1,8 @@
-# Penalization 
+# PCB-penalization-design-dat
+
+
+- [[PCB-penalization-design-dat]] - [[fab-penalization-dat]]
+
 
 - [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[PCB-form-dat]] - [[PCB-penalization-dat]]
 
@@ -29,6 +33,15 @@ Castellated holes, please make sure your board are designed correctly: Place hol
 
 
 
+
+## obseleted 
+
+* [http://dl.electrodragon.com/k/index.php?share/file&user=1&sid=wsIZnGKW 1. Eagle penalize and export gerber file]
+* [http://dl.electrodragon.com/k/index.php?share/file&user=1&sid=eKTRh7b3 2. detailed panelized tutorial]
+
+
+
+
 ## ref
 
 - [[stamp-holes-dat]]
@@ -37,9 +50,3 @@ Castellated holes, please make sure your board are designed correctly: Place hol
 
 
 
-
-
-## obseleted 
-
-* [http://dl.electrodragon.com/k/index.php?share/file&user=1&sid=wsIZnGKW 1. Eagle penalize and export gerber file]
-* [http://dl.electrodragon.com/k/index.php?share/file&user=1&sid=eKTRh7b3 2. detailed panelized tutorial]

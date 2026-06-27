@@ -9,7 +9,9 @@
 - [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
 
 
+- [[driver-half-bridge-dat]] - [[control-dat]] - [[motor-driver-dat]]
 
+- [[driver-half-bridge-dat]] - [[mosfet-dat]] - [[IGBT-dat]] - [[mosfet-driver-dat]] 
 
 
 - [[UCC27324-dat]] - [[mosfet-driver-dat]]
