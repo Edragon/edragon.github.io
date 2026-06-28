@@ -2,9 +2,9 @@
 # ELRS-dat
 
 
-- [[CRSF-dat]] - [[rc-system-dat]]
+- [[CRSF-dat]] - [[rc-system-dat]] - [[antenna-dat]]
 
-Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]] - [[ELRS-board-dat]]
+Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]] - [[ELRS-board-dat]] - [[frequency-dat]]
 
 - [[ELRS-dat]] - [[ELRS-TX-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-dat]]
 

@@ -4,12 +4,54 @@
 
 
 
+## examples motor-380 for boat 
+
+RK-380-4043-57
+D/V6.0 0Z 21CCW
+
+- [[rc-boat-dat]] - [[motor-brushed-dat]] - [[motor-130-dat]] - [[motor-380-dat]]
+
+![](2026-06-28-14-52-25.png)
+
+
+### Part 1: The Motor Specs (`RK-380-4043-57`)
+
+* **RK / R:** Represents a round metal-can brushed DC motor. 
+* **3:** Represents the rotor/armature diameter size class (a 300-series motor, very common in small RC boats, cars, and hand-held tools).
+* **8:** Represents the length of the motor housing (an "8" indicates a longer, higher-torque variation of the 300 class).
+* **0:** Indicates it uses a standard 3-slot or 5-slot commutator with permanent magnets.
+* **4043:** This is the critical part for your speed variance. This is the **winding specification**. It means the internal coils have a wire diameter of **0.40mm** and are wound exactly **43 times** per slot.
+* **57:** Usually denotes the specific magnet type or back-cover assembly configuration used in this production batch.
+
+---
+
+### Part 2: The Rotational Direction (`D/V6.0 0Z 21CCW`)
+
+The second line gives us the manufacturing date/voltage line, but the most important part is the very end: **`CCW` (Counter-Clockwise)**.
+
+Brushed DC motors like the 380 series are often manufactured with **internal timing advance**. To maximize efficiency and power, the internal carbon brushes are slightly rotated from the physical center to favor one direction of rotation.
+
+#### Why this matters for your RC Boat:
+If your twin-propeller boat is configured using a **counter-rotating setup** (where the left propeller spins clockwise and the right propeller spins counter-clockwise to cancel out torque roll), you might have one motor running forward and the other running in reverse.
+
+* A motor optimized for **CCW** will naturally spin **faster** and draw less current when running Counter-Clockwise.
+* If you force that same motor to run **CW** (by reversing the polarity/wires), it will fight its own internal brush timing, resulting in **lower RPM, higher current draw, and more heat generation**.
+
+### How to use this information to fix your problem:
+
+1. **Check the Rotation Direction:** Look at your boat from behind. Are both props spinning the same way, or are they spinning in opposite directions? If one is running CW and one is running CCW, the motor running CW will naturally be the slower one because it's running "backward" relative to its internal timing.
+2. **Implement Your Code Scaling:** Because these are standard brushed 380 motors without internal encoders, they are highly prone to variance. You can safely implement the **Open-Loop Compensation** method we discussed earlier. 
+
+If you are using a microcontroller to drive them, keep the CCW-running motor (or the naturally slower one) at 100% throttle, and scale down the faster one by multiplying its PWM signal by a factor (e.g., `0.90` or `0.92`) until the boat drives perfectly straight.
+
+
+
 
 ## Small Brushed DC Motor Series
 
 
 
-- [[motor-130-dat]]
+- [[motor-130-dat]] - [[motor-380-dat]]
 
 
 | Motor Series | Size (approx.)  | Voltage Range | Typical Power | Common Use                                |

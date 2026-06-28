@@ -2,6 +2,13 @@
 # rc-boat-dat
 
 
+
+
+- [[rc-boat-dat]] - [[motor-brushed-dat]] - [[motor-130-dat]] - [[motor-380-dat]]
+
+- [[ELRS-dat]]
+
+
 - [[propeller-toy-boat-dat]] - [[propeller-dat]] - [[rc-boat-dat]] - [[acturator-dat]] 
 
 
