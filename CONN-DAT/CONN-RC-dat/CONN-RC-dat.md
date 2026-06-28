@@ -2,6 +2,11 @@
 
 # CONN-RC-dat
 
+
+- [[CONN-power-dat]] - [[conn-battery-dat]] - [[conn-rc-dat]] - [[CONN-dat]] - [[pitch-dat]]
+  
+- [[CONN-deans-dat]] - [[CONN-tamiya-dat]]
+
 - [[molex-dat]] - [[51006-0200-dat]] - [[pitch-dat]] - [[CONN-dat]] - [[CONN-RC-dat]]
 
 
@@ -24,8 +29,6 @@
 - 2.0MM插头 反向 - [[PH2.0-dat]]
 
 
-- 大田宫 - [[L6.2-dat]]
-- 小田宫 - [[EL4.5-dat]]
 
 
 ## VH3.96 
@@ -33,6 +36,10 @@
 - [[CONN-VH3.96-dat]] - [[pitch-dat]] - [[CONN-RC-dat]] - [[wire-to-board-dat]] - [[CONN-dat]]
 
 ![](2026-06-07-13-18-25.png)
+
+
+
+
 
 
 ## ref 

@@ -2,6 +2,12 @@
 
 # pitch-dat
 
+
+
+- [[CONN-power-dat]] - [[conn-battery-dat]] - [[conn-rc-dat]] - [[CONN-dat]] - [[pitch-dat]]
+  
+- [[CONN-deans-dat]] - [[CONN-tamiya-dat]]
+
 - [[CONN-dat]] - [[cable-dat]]
 
 - [[molex-dat]] - [[51006-0200-dat]] - [[pitch-dat]] - [[CONN-dat]] - [[CONN-RC-dat]]
