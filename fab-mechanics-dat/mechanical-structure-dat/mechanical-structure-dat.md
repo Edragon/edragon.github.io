@@ -1,7 +1,7 @@
 
 # mechnical-structure-dat.md
 
-- [[structure-design-dat]] - [[engineering-dat]]
+- [[structure-dat]] - [[engineering-dat]]
 
 
 common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-case-dat/shell-dat]]
