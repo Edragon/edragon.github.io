@@ -1,5 +1,7 @@
 
-# mechnical-structure-dat.md
+# mechanical-structure-dat.md
+
+- [[onshape-dat]] - [[CAD-dat]] - [[mechanical-structure-dat]]
 
 - [[structure-dat]] - [[engineering-dat]]
 
