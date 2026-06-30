@@ -10,6 +10,18 @@
 
 - [[ESC-dat]] - [[motor-brushless-dat]]
 
+
+
+
+- **Brushed ESC**: Operates using an H-Bridge configuration. It outputs standard 2-wire DC power, adjusting speed simply by turning the DC voltage on and off rapidly via Pulse Width Modulation (PWM).  
+- **Brushless ESC**: Operates using a 3-phase inverter circuit. It outputs 3-wire AC power (three-phase), sequentially switching the coils based on back-EMF or sensor feedback to rotate the magnets. 
+
+- **VESC (Open Source ESC)**: The VESC framework natively supports configuring the hardware into brushed DC mode, enabling a heavy-duty brushless controller to drive large brushed motors.
+- **AM32 / BlHeli custom firmware**: In combat robotics, builders frequently flash custom firmware onto cheap brushless ESCs to re-map the 3 phases, converting a single brushless ESC into a driver that can independently control one or even two brushed motors.  
+- **Novak / Castle Creations RC Car ESCs**: Many legacy and modern high-end surface ESCs feature an auto-detect or programmable mode allowing drivers to save money when transitioning an RC chassis from a brushed setup to brushless.
+
+
+
 ## test demo wiring CN 
 
 ![](2026-06-05-01-01-28.png)

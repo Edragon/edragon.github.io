@@ -25,6 +25,12 @@
 
 - [[motor-dat]] - [[motor-driver-DC-dat]] - [[motor-driver-rc-dat]]
 
+- [[DRV8871-dat]]
+
+- [[VNH5019-dat]] - [[BTS7960-dat]] 
+
+
+
 
 
 ## common RC motor driver pairing 
