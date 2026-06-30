@@ -1,7 +1,9 @@
 
-# mechnical-structure-dat.md
+# mechanical-structure-dat.md
 
-- [[structure-design-dat]] - [[engineering-dat]]
+- [[onshape-dat]] - [[CAD-dat]] - [[mechanical-structure-dat]]
+
+- [[structure-dat]] - [[engineering-dat]]
 
 
 common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-case-dat/shell-dat]]
