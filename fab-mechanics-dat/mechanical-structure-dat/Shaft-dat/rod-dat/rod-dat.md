@@ -19,7 +19,7 @@
 
 - [[hinge-dat]] - [[rod-tie-dat]] - [[crank-dat]] - [[rod-dat]]
 
-- [[shaft-coupler-dat]]
+- [[shaft-coupling-dat]]
 
 - [[stainless-steel-dat]] - [[stainless-steel-solid-rod-dat]] - [[metal-dat]]
 
@@ -46,7 +46,7 @@ rod hinge
 
 ## common parts 
 
-- [[shaft-limit-ring-dat]] - [[shaft-coupler-dat]]
+- [[shaft-limit-ring-dat]] - [[shaft-coupling-dat]]
 
 - [[flange-dat]]
 

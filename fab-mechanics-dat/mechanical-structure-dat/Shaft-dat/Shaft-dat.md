@@ -1,7 +1,7 @@
 # Shaft-dat
 
 
-- [[shaft-dat]] - [[shaft-motor-dat]] - [[motor-dat]] - [[shaft-driven-dat]] - [[shaft-coupler-dat]]
+- [[shaft-dat]] - [[shaft-motor-dat]] - [[motor-dat]] - [[shaft-driven-dat]] - [[shaft-coupling-dat]]
 
 - [[shaft-dat]] - [[tube-dat]] - [[rod-dat]]
 
@@ -29,7 +29,7 @@
 
 - [[shaft-dat]] - [[shaft-locking-dat]]
 
-- [[shaft-coupler-dat]] - [[Shaft-Cross-Connector-dat]]
+- [[shaft-coupling-dat]] - [[Shaft-Cross-Connector-dat]]
 
 ![](2025-12-10-01-54-55.png)
 

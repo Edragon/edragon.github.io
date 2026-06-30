@@ -1,7 +1,7 @@
 
 # shaft-connection-dat
 
-- [[Shaft-Cross-Connector-dat]] - [[shaft-coupler-dat]]
+- [[Shaft-Cross-Connector-dat]] - [[shaft-coupling-dat]]
 
 - [[shaft-dat]]
 
