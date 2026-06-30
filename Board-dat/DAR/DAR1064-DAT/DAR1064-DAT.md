@@ -54,8 +54,8 @@ sketch upload
 ## bootloader settings for the board
 
 
+![](2026-06-30-20-36-10.png) 
 
-![](55-05-18-02-02-2023.png)
 
 
 keep alll the unused options as default 
