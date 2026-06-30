@@ -13,7 +13,27 @@
 ## issues analysis 
 
 
-### Tech Specs & Compatibility: DRV8871 H-Bridge vs. 380 DC Motor
+
+### The Startup Power Crush
+
+A single standard 380 motor can easily demand a sudden surge of 3A to 4A just to start turning from a dead stop (inrush current).
+
+One Motor: When you start just one motor, it pulls ~4A. Your battery easily handles this because it's well under its 13A peak limit. It runs smoothly.
+
+Two Motors: When you try to start both motors simultaneously, their combined initial surge jumps to 8A to 10A+.
+
+### 🛠️ How to Fix This with Your Current Battery
+
+You don't necessarily need to buy a new battery yet. Try these three adjustments first to see if you can bypass the stuttering:
+
+**Stagger your motor starts in code**: Instead of turning both PWM pins on at the exact same millisecond, start Motor A first, wait 100–200 milliseconds for it to smooth out, and then spin up Motor B. This splits the massive initial current surge in half.
+
+**Beef up your capacitors**: Solder a large electrolytic capacitor (e.g., $1000\mu\text{F}$, 16V or 25V) directly across the power input ($VM$ and $GND$) of each DRV8871 board. These capacitors act like tiny, lightning-fast turbo reservoirs that feed the motor's initial startup spike so the battery voltage doesn't sag.
+
+**Check the ILIM Resistors**: Look at the tiny SMD resistor connected to the ILIM pin on your DRV8871 breakout boards. If it says "303" (30kΩ), it's restricting you to 2.1A. Swapping it out for an 18kΩ to 22kΩ resistor will raise the chip's ceiling to ~3A, giving the 380 motors the breathing room they need to spin up smoothly.
+
+
+## Tech Specs & Compatibility: DRV8871 H-Bridge vs. 380 DC Motor
 
 - [[DRV8871-dat]] - [[motor-380-dat]] - [[motor-brushed-dat]]
 
@@ -71,7 +91,7 @@ If your 380 motor is a high-drain hobby variant, bypass the DRV8871 and use one 
 * **BTS7960 / IBT-2:** High-current H-bridge capable of up to 43A peak (massive overkill, but very cool running).
 * **VNH5019:** Robust automotive-grade driver handling up to 12A continuous and 30A peak.
 
-### stuttering 
+## stuttering 
 
 - [[power-dat]] - [[protection-power-dat]] - [[battery-protector-dat]] - [[motor-driver-design-dat]] - [[LVC-dat]]
 

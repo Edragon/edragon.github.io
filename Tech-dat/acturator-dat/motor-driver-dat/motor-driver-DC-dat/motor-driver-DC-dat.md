@@ -17,9 +17,17 @@
 
 - [[TB6612-dat]]
 
-- [[DRV8833-dat]] / [[DRV8871-dat]] / [[DRV8835-dat]] / [[DRV8825-dat]] == [[TI-motor-dat]]
+- [[DRV8833-dat]] / [[DRV8871-dat]] 3.6A/6A / [[DRV8835-dat]] / [[DRV8825-dat]] == [[TI-motor-dat]]
+
+- [[DRV8876-dat]] 1.1A/3.5A - [[DRV8874-dat]] - 2.1A/6A 
 
 - [[LV8548-dat]] == [[onsemi-dat]]
+
+
+- [[A4950-dat]] 
+
+
+
 
 
 ## 🧾 Summary Table
