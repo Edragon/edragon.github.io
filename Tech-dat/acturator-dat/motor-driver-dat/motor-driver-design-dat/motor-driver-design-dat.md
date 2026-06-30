@@ -4,7 +4,11 @@
 
 - [[motor-driver-design-dat]] - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]]
 
-- [[battery-dat]]
+- [[battery-dat]] - [[motor-driver-design-dat]] - [[battery-discharge-dat]]
+
+
+
+
 
 ## issues analysis 
 

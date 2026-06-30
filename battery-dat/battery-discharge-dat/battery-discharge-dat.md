@@ -1,6 +1,8 @@
 
 # battery-discharge-dat
 
+- [[motor-driver-design-dat]] - [[battery-discharge-dat]]
+
 
 ## C-Rate 
 
@@ -9,8 +11,16 @@
 ### 🔹 Formula:
 
     C-rate × Capacity (Ah) = Current (A)
-    
-### 🧮 Examples:
+
+
+### example 2 
+
+If the given $40\text{C}$ is treated as the maximum limit for your calculation:
+
+$$\text{Discharge Current} = 3.3 \text{ Ah} \times 40 = 132 \text{ A}$$
+
+
+### 🧮 Examples 1:
 
 - For a **500mAh (0.5Ah)** battery:
   - **1C** = 0.5A
@@ -28,6 +38,9 @@
 - **30C** = in **2 minutes**
 
 > Higher C-rates mean **more current**, which leads to **more heat**, **more stress**, and requires better battery and driver design.
+
+
+
 
 
 
