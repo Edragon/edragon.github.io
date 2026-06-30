@@ -2,7 +2,7 @@
 # gearbox-dat
 
 
-
+- [[gearbox-miter-dat]]
 
 - [[gear-dat]] - [[gear-worm-dat]] - [[gearbox-dat]]
 

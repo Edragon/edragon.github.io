@@ -2,7 +2,7 @@
 # motor-driver-dat
 
 
-- [[motor-driver-dat]]
+- [[motor-driver-dat]] - [[motor-driver-design-dat]]
 
 - [[motor-brushed-dat]] - [[motor-driver-dc-dat]] 
 

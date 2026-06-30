@@ -1,6 +1,8 @@
 # Shaft-dat
 
 
+- [[shaft-dat]] - [[shaft-motor-dat]] - [[motor-dat]] - [[shaft-driven-dat]] - [[shaft-coupler-dat]]
+
 - [[shaft-dat]] - [[tube-dat]] - [[rod-dat]]
 
 - [[mechanical-structure-dat]] - [[materials-dat]]
@@ -8,11 +10,11 @@
 - [[shaft-connection-dat]]
 
 
-- [[tube-bend-dat]] 
+- [[tube-bend-dat]] - [[tube-dat]]
 
 - [[shaft-dat]] - [[tube-lean-dat]] - [[tube-copper-dat]] - [[tube-oval-dat]] - [[tube-PVC-dat]] - [[tube-steel-square-dat]]
 
-
+- [[bracket-dat]]
 
 
 ## dimension 
@@ -115,6 +117,13 @@ How to make it safer
 ![](2026-03-01-01-16-55.png)
 
 ![](2026-03-01-01-20-20.png)
+
+
+## systems 
+
+- Kee Klamp
+
+
 
 ## ref 
 

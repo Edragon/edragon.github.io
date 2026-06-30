@@ -50,6 +50,8 @@ purple box
 
 ## SDK 
 
+- [[motor-driver-design-dat]] - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]]
+
 - [[ELRS-dat]] 
 
 control [[RC-dat]] setup 

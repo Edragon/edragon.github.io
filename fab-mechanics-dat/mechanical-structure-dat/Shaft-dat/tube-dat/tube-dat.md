@@ -14,7 +14,7 @@
 - [[fab-tools-dat]] - [[grinder-dat]]
 
 
-- [[tube-bend-dat]] 
+- [[tube-dat]] - [[tube-bend-dat]] - [[tube-elbow-dat]]
 
 - [[shaft-dat]] - [[tube-lean-dat]] - [[tube-copper-dat]] - [[tube-oval-dat]] - [[tube-PVC-dat]] - [[tube-steel-square-dat]]
 
