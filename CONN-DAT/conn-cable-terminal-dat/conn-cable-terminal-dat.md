@@ -1,7 +1,7 @@
 
 # conn-cable-terminal-dat
 
-
+- [[conn-cable-terminal-dat]] - [[pitch-dat]] - [[CONN-dat]]
 
 - [[CONN-cable-JST-dat]] - [[XH2.54-dat]] - [[PH2.0-dat]] - [[JST-SM-dat]]
 
@@ -22,12 +22,16 @@ plug and header - [[KF2EDG-dat]]
 
 
 
+
 ## 5.0mm pitch 
 
-- [[dg202-dat]] - [[kf126-dat]] - [[kf128-dat]] - [[KF235-dat]] 
+screwless - [[dg202-dat]] - [[KF235-dat]] 
+
+plug and header - [[KF2EDG-dat]] - [[HT508-dat]] 
+
+connector with screw-lock - [[KF129-dat]] - [[KF128-dat]] - [[KF127-dat]] - [[KF126-dat]]
 
 
-plug and header - [[HT508-dat]] 
 
 KF127/A-5.0/5.08mm pitch screw-type PCB terminal connector, single-row or double-row, splicable.
 
@@ -36,6 +40,10 @@ KF129-5.0/5.08mm间距螺钉式PCB接线端子连接器2P/3P可拼接
 KF128 
 
 KF126 
+
+
+
+
 
 ## uncommon to usd 
 

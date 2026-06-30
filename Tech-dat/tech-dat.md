@@ -29,7 +29,7 @@
 
 - [[CONN-USB-dat]] - [[USB-SDK-dat]]
 
-- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]] - [[conn-power-dat]] - [[conn-battery-dat]]
+- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]] - [[conn-power-dat]] - [[conn-battery-dat]] - [[conn-cable-terminal-dat]]
 
 
 
