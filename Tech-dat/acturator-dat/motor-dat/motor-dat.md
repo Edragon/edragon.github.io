@@ -7,6 +7,7 @@
 
 - [[gearbox-dat]]
 
+- [[motor-connection-dat]] - [[motor-dat]]
 
 ## motor drive 
 

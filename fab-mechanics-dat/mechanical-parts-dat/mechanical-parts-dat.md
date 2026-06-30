@@ -2,10 +2,15 @@
 
 
 
-
 - [[screw-dat]]
 
-- [[gear-dat]] - [[bearing-dat]] - [[bracket-dat]]
+- [[gear-dat]] - [[bearing-dat]] - [[bracket-dat]] - [[bushing-dat]]
+
+- [[cam-dat]] - [[mechanical-parts-dat]]
+
+- [[shaft-coupler]]
+
+- [[belt]]
 
 
 
