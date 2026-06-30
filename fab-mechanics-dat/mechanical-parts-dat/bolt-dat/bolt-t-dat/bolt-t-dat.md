@@ -6,6 +6,9 @@
 
 - [[structure-t-dat]] - [[bolt-t-dat]]
 
+- 地腳螺栓
+- 预埋螺栓
+
 
 An L-bolt (or L-shaped anchor bolt) is a heavy-duty fastener primarily used to anchor structural elements, steel columns, or sill plates to concrete or masonry. The 90-degree bend is embedded in the concrete to prevent the bolt from pulling out under tension.
 
