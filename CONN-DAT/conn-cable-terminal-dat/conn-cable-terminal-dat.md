@@ -7,11 +7,12 @@
 
 - [[CONN-cable-box-header-dat]] - [[CONN-dat]]
 
+- [[pitch-dat]]
 
 
 ## 3.5mm pitch 
 
-- [[KF2EDG-dat]]
+plug and header - [[KF2EDG-dat]]
   
 - [[KF350-dat]]
 
@@ -23,21 +24,10 @@
 
 ## 5.0mm pitch 
 
-- [[dg202-dat]]
-
-- [[kf126-dat]]
-- [[kf128-dat]]
-
-HT508 V/R/K - 5.08mm pitch pluggable terminal connector, straight pin/bent pin socket/plug
-
-### KF235-5.0
-
-KF235-5.0-2/3/4/5/6/8P/直插
-
-250V/10A 5.0mm 间距弹簧式PCB接线端子
+- [[dg202-dat]] - [[kf126-dat]] - [[kf128-dat]] - [[KF235-dat]] 
 
 
-![](2026-02-06-19-17-23.png)
+plug and header - [[HT508-dat]] 
 
 KF127/A-5.0/5.08mm pitch screw-type PCB terminal connector, single-row or double-row, splicable.
 
