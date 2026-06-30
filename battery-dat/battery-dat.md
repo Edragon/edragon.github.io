@@ -19,6 +19,9 @@
 
 - [[battery-failure-dat]]
 
+
+
+
 ## BMS 
 
 - [[battery-BMS-dat]] - [[active-BMS-dat]] - [[passive-BMS-dat]] - [[protection-battery-dat]] - [[protection-dat]]
@@ -184,3 +187,5 @@ Usage: Devices that require more energy or have higher power consumption tend to
 - [[voltage-dat]] - [[power-level-dat]]
 
 - [[info]]
+
+- [[battery]] 

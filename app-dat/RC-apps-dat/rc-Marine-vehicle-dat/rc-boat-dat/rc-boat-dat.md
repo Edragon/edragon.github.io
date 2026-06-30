@@ -2,7 +2,7 @@
 # rc-boat-dat
 
 
-
+- [[motor-driver-design-dat]]
 
 - [[rc-boat-dat]] - [[motor-brushed-dat]] - [[motor-130-dat]] - [[motor-380-dat]]
 
