@@ -1,6 +1,9 @@
 
 # shaft-coupling-dat
 
+- [[shaft-coupling-dat]] - [[flange-dat]] - [[shaft-dat]]
+
+
 
 
 ## coupling combination 
@@ -59,6 +62,8 @@
 
 
 ## type of coupling 
+
+keyed coupling == 键槽联轴器
 
 单劈裂刚性联轴器
 
