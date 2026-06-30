@@ -3,9 +3,12 @@
 # structure-design-dat
 
 
+- [[structure-t-dat]] - [[structure-dat]]
+
+- [[mechanical-structure-dat]] - [[shaft-dat]] - [[Shaft-Cross-Connector-dat]] 
 
 
-- [[mechanical-structure-dat]] - [[shaft-dat]] - [[Shaft-Cross-Connector-dat]] - [[structure-t-dat]] - [[structure-dat]]
+
 
 ## holder 
 

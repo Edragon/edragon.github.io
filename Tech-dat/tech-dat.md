@@ -260,7 +260,7 @@
 
 - [[fab-mechanics-dat]] - [[fab-tools-mechanical-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]]
 
-- [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]]
+- [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]] - [[structure-dat]] - [[structure-t-dat]]
 
 - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
 

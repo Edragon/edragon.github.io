@@ -4,6 +4,13 @@
 
 - [[bolt-dat]] - [[mechanical-parts-dat]] - [[screw-dat]] - [[thread-dat]] - [[nut-dat]] - [[washer-dat]]
 
+
+
+- [[bolt-t-dat]] - [[bolt-dat]]
+
+
+
+
 ## bolt vs screw 
 
 The difference between a **bolt** and a **screw** is one of those things that seems obvious until you try to define it. In fact, even hardware stores and engineers sometimes mix them up because they look so similar. 

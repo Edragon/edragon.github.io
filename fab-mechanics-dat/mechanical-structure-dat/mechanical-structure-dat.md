@@ -3,7 +3,7 @@
 
 - [[onshape-dat]] - [[CAD-dat]] - [[mechanical-structure-dat]]
 
-- [[structure-dat]] - [[engineering-dat]]
+- [[structure-dat]] - [[structure-t-dat]] - [[engineering-dat]]
 
 
 common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-case-dat/shell-dat]]
