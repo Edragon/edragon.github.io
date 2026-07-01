@@ -3,7 +3,9 @@
 
 - [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[rc-system-dat]]
 
+- [[camera-rack-dat]] - [[sensor-camera-dat]] - [[camera-wireless-dat]]
 
+- [[caddxFPV-dat]] - [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-wireless-dat]]
 
 options 
 

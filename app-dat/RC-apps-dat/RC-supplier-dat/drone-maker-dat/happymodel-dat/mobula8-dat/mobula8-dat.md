@@ -12,6 +12,11 @@
 - [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]] - [[motor-FPV-dat]]
 
 
+- [[mobula8-dat]] - [[X12-dat]]
+
+- [[mobula6-dat]] - [[mobula7-dat]]
+
+
 ## pre-note 
 
 REMOVE PROPS before first flight !! 

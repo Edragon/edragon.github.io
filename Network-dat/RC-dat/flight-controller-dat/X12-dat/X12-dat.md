@@ -1,6 +1,9 @@
 
 # X12-dat
 
+
+- [[mobula8-dat]] - [[X12-dat]]
+
 ![](2025-05-30-12-53-21.png)
 
 
@@ -106,3 +109,8 @@
 -   **Power supply:** DC 5V
 -   **Current (5V):** <650mA (at 400mW)
 -   **Antenna connector:** U.FL
+
+
+
+
+## ref 
