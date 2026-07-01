@@ -112,20 +112,29 @@
 
 ## chips 
 
-- [[ti-motor-dat]] 
+- [[ti-motor-dat]] - [[DRV8825-dat]] - [[DRV8837-dat]] - [[DRV8313-dat]] - [[DRV8833-dat]] - [[DRV8837-dat]] - [[DRV8870-dat]] - [[DRV8876-dat]] - [[DRV8711-dat]] - [[DRV8874-dat]] - [[DRV8803-dat]] - [[DRV8834-dat]] - [[DRV8872-dat]] - [[DRV8220-dat]] - [[DRV8848-dat]] - [[DRV8800-dat]] - [[DRV8841-dat]] - [[DRV8812-dat]] - [[DRV8801-dat]] - [[DRV8860-dat]] - [[DRV8836-dat]] - [[DRV8821-dat]]
+
+- [[DRV8835-dat]] - [[DRV8880-dat]] - [[DRV8840-dat]] - [[DRV8844-dat]] - [[DRV8231-dat]]
+
+- [[DRV8301-dat]] - [[ESC-dat]] - [[FOC-dat]] - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]] - [[DRV11873-dat]]
   
-- [[toshiba-dat]] - [[TB6612-dat]] - [[TB6600-dat]] - board - [[SDR1059-dat]]
+- [[toshiba-dat]] - [[TB6612-dat]] - [[TB6600-dat]] - board - [[SDR1059-dat]] - [[THB6128-dat]] - [[TB67S109-dat]] - [[motor-stepper-dat]] - [[TB6560-dat]] - [[TB6608-dat]] - [[TB6552-dat]]
 
 - [[LW556-dat]] - [[TB6600-dat]] - [[DM430-dat]] - [[DM542-dat]]
 
-- [[allegro-dat]] - [[A4988-dat]] - [[A4954-dat]]
+- [[allegro-dat]] - [[A4988-dat]] - [[A4954-dat]] - [[A4950-dat]] - [[A3967-dat]]
 
-- [[Infineon-dat]] - [[BTS7960-dat]]
+- [[Infineon-dat]] - [[BTS7960-dat]] - [[BTN7960-dat]]
 
-- [[st-motor-driver-dat]] - [[st-dat]]
+- [[st-motor-driver-dat]] - [[st-dat]] - [[BTN7971-dat]]
 
 - [[TA6586-dat]] - [[motor-driver-dat]] - [[ruizhi-dat]]
 
+- [[TMC2225-dat]] - [[TMC2208-dat]] - [[TMC2209-dat]] - [[ATDC5833-dat]] - [[TMC5160-dat]]
+
+- [[ULN2003-dat]] - [[L9110-dat]] - [[LV8729-dat]] - [[LV8731-dat]] - [[UWM-dat]] - [[SS8870-dat]] - [[SS6216-dat]] - [[L6201-dat]] - [[SS6951-dat]]
+
+- [[AT8236-dat]] - [[TC118S-dat]] - [[EMC2301-dat]] - [[AT8549-dat]] - [[AT8833-dat]] - [[ATD5984-dat]] - [[AT8548-dat]] - [[AT8870-dat]] - [[AT8222-dat]] - [[AT8833-dat]] - [[AT8837-dat]] - [[ATD5833-dat]]
 
 
 ## and more 
@@ -226,6 +235,9 @@ A DC motor reverses direction by reversing the polarity of the voltage applied t
 
 
 ## High Current DC Motors (CW/CCW + ON/OFF)
+
+
+- [[mosfet-dat]]
 
 ### 🔋 1. Solid-State H-Bridge Using Power MOSFETs or IGBTs
 

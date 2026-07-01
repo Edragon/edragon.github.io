@@ -2,13 +2,17 @@
 # flight-controller-dat
 
 
+- [[crazybee-dat]] - [[crazybee-f4-lite-dat]] - [[AIO-dat]] - [[flight-controller-dat]]
+
+
 
 - **Flight Controller**: The brain of the drone, responsible for stabilizing and controlling the flight. It processes data from sensors and executes commands from the pilot or autopilot system.
 
+## dimension 
 
+![](2026-07-01-18-30-28.png)
 
-
-ALL-in-One Option 
+## ALL-in-One Option 
 
 - [[ELRS-dat]] - [[radio-dat]]
 - [[Flight-controller-dat]] 

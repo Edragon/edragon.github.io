@@ -10,7 +10,7 @@
 - [[insta360-go-rack-dat]] - [[gopro-amount-dat]]
 
 
-
+- [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]]
 
 ## ref 
 

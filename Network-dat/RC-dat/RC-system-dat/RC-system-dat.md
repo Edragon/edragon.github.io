@@ -2,10 +2,11 @@
 # RC-system-dat
 
 
-
+- [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[rc-system-dat]]
 
 - [[RC-system-dat]] - [[elrs-dat]] - [[CRSF-dat]] - [[edge-tx-dat]] 
 
+- [[battery-dat]]
 
 When getting into FPV drones or RC robotics, it's incredibly common to see **EdgeTX**, **CRSF**, and **ELRS** tossed around in the same sentence. However, they aren't competing technologies; rather, they are **three entirely different layers** of your radio control system that work together. 
 
@@ -96,3 +97,4 @@ $$\text{Your Hand} \xrightarrow{\text{Moves Stick}} \mathbf{\text{EdgeTX (Radio 
 
 ## ref 
 
+- [[gopro-dat]]

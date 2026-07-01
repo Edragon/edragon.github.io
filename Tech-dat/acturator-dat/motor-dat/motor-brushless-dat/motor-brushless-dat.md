@@ -2,6 +2,10 @@
 # motor-brushless-dat.md
 
 
+
+- [[DRV8301-dat]] - [[ESC-dat]] - [[FOC-dat]] - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]]
+
+
 - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]] - [[motor-driver-dat]] - [[motor-dat]]
 
 == BLDC [[motor-BLDC-dat]]

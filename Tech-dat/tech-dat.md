@@ -7,7 +7,7 @@
 
 - [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[glob-top-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]]
+- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]]
 
 - [[circuits-dat]]
 
@@ -172,7 +172,7 @@
 
 - [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 
-- [[sensor-camera-dat]]
+- [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[camera-FPV-dat]]
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]]
 

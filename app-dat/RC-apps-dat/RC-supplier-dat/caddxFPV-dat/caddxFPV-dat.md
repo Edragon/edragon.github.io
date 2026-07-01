@@ -1,7 +1,21 @@
 
 # caddxFPV-dat
 
+
+- [[caddxFPV-dat]] - [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-wireless-dat]]
+
 - [[walksnail-dat]] is a brand of caddxFPV
+
+
+- [[caddxFPV-ratelpro-dat]] - [[caddxFPV-dat]] - [[walksnail-dat]] - [[caffxFPV-ant-dat]]
+
+
+
+
+## usage 
+
+- [[caddxFPV-ratelpro-dat]] == its M12 lens and 19x19mm casing, it fits best in 3.5" to 5" drones or larger 2.5" / 3" micro quads.
+
 
 
 ## digial camera 
@@ -90,17 +104,17 @@ VTX
 - Baby Ratel 2
 
 
-### Caddx ANT 1200TVL
+### nano ratel 2 
 
-- [[mobula8-dat]] == Caddx ANT 1200TVL == 4:3
+dia. 9 x 14 x 14 
 
-![](2025-09-12-12-29-58.png)
+![](2026-07-01-17-37-20.png)
 
-![](2025-09-12-12-30-18.png)
 
 ### ratel 2
 
 Caddx蜗牛平头哥二代穿越机摄像头fpv摄像机夜视镜头无人机ratel2
+
 
 
 ### nano CADDX 蜗牛 Nano
@@ -108,25 +122,8 @@ Caddx蜗牛平头哥二代穿越机摄像头fpv摄像机夜视镜头无人机rat
 ![](2025-09-16-17-13-25.png)
 
 
-### ratel pro 
+14x14 
 
-- [[X12-dat]]
-
-![](2025-09-16-18-55-15.png)
-
-![](2025-09-16-18-55-45.png)
-
-
-lens diameter 15mm 
-
-body dimesnion ~20mm 
-
-
-![](2025-09-18-21-02-28.png)
-
-wiring 
-
-![](2025-09-21-13-34-00.png)
 
 ## goggles 
 
