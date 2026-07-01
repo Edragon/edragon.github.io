@@ -1,7 +1,7 @@
 
 # gearbox-differential-dat
 
-
+- [[gearbox-differential-dat]] - [[gearbox-dat]] - [[rc-rover-dat]]
 
 A **differential gearbox (differential)** is a mechanical device that allows **two output shafts to rotate at different speeds while still transmitting torque**. It is widely used in cars, machinery, and robots.
 
