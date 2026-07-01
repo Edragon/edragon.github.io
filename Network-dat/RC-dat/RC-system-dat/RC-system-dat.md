@@ -97,3 +97,4 @@ $$\text{Your Hand} \xrightarrow{\text{Moves Stick}} \mathbf{\text{EdgeTX (Radio 
 
 ## ref 
 
+- [[gopro-dat]]
