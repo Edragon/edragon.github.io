@@ -4,6 +4,51 @@
 # off-road-dat
 
 
+## Counterweight / Weight Bias in Off-Roading?
+*(什么是配重 / 重量偏置？)*
+
+In the context of RC cars and full-scale off-road vehicles, **counterweight** (or more accurately, **weight distribution / weight bias**) refers to the strategic placement of extra weight on the chassis or axles to manipulate the vehicle's center of gravity (CoG). 
+
+The goal of adding counterweight is not just to make the car heavier, but to **force the tires to press harder against the ground for maximum traction and to prevent the vehicle from rolling over.**
+
+Here is the detailed breakdown of how counterweight works in off-roading, formatted for easy copying:
+
+---
+
+### 1. Key Terminology (核心术语)
+
+* **Counterweight (配重):** The actual physical weights (usually made of heavy metals like brass or lead) added to specific parts of the car.
+* **Center of Gravity / CoG (重心):** The theoretical point where the entire weight of the car is balanced. Lower is always better for off-roading.
+* **Sprung Weight vs. Unsprung Weight (簧上件与簧下件重量):**
+  * **Sprung Weight:** Everything supported by the suspension springs (chassis, body, electronics). 
+  * **Unsprung Weight:** Everything directly touching the ground below the springs (wheels, tires, axles). **Off-roaders always try to add counterweight to unsprung weight.**
+
+---
+
+### 2. Why Do We Add Counterweight? (为什么要加配重？)
+
+#### A. Lowering the Center of Gravity (降低重心)
+If an RC car is top-heavy (heavy body shell, battery sitting high up), it will easily roll over sideways when driving across a side-hill slope, or flip backward when climbing. By adding heavy brass parts down at the wheel hubs or axles, you drag the CoG downward, making the car incredibly stable.
+
+#### B. Increasing Mechanical Traction (增加机械抓地力)
+Tires need downward force to bite into loose dirt, mud, or rocks. Adding weight directly over the axles forces the rubber tires to deform and conform to the terrain, massively increasing grip.
+
+#### C. Shifting Weight Forward (前置配重 - Front Bias)
+When a car climbs a steep hill, physics naturally shifts all the vehicle's weight to the rear wheels, causing the front wheels to lift and the car to flip backward. To combat this, off-road enthusiasts use a **front-heavy bias** (typically a 60:40 split, where 60% of the car's weight is over the front axle and 40% is over the rear). 
+
+---
+
+### 3. Common Methods of Adding Counterweight in RC Cars (常见配重改装方法)
+
+
+
+* **Brass Portal Covers / Knuckles (黄铜桥盖/转向座):** This is the single most popular upgrade for rock crawlers. Replacing stock plastic axle covers with heavy brass parts adds weight directly to the unsprung mass. It lowers the CoG perfectly without putting extra stress on the suspension springs.
+* **Internal Wheel Weights (轮毂内加重块):** Wrapping lead tape or installing heavy brass rings inside the wheel rims. 
+  * *Note:* While highly effective for low-speed crawlers, heavy rotating wheels are **not recommended for high-speed monster trucks**, as the extra rotational mass places massive strain on the motor and drive shafts during high-speed acceleration.
+* **Chassis Weight Strips (底盘配重块):** Sticking small adhesive lead weights to the absolute lowest, most forward positions of the chassis frame.
+
+
+
 
 ## and consider wheelbase 
 
