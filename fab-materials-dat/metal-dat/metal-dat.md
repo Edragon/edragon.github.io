@@ -14,6 +14,10 @@
 
 - [[metal-dat]] - [[metal-molded-dat]]
 
+
+- [[steel-stainless-dat]] - [[rod-stainless-steel-solid-dat]] - [[metal-dat]]
+
+
 ## metal connection 
 
 

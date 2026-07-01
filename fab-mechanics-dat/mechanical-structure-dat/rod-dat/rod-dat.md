@@ -2,18 +2,18 @@
 # rod-dat
 
 
-- [[shaft-dat]] - [[tube-dat]] - [[rod-dat]]
+- [[shaft-dat]] - [[tube-dat]] - [[rod-dat]] - [[lead-screw-dat]]
 
 
 - [[shaft-dat]] 
 
-- [[PVC-tube-dat]] 
+- [[tube-PVC-dat]] 
 
-- [[carbon-rods-dat]]
+- [[rod-carbon-dat]]
 
-- [[stainless-steel-solid-tube-dat]]
+- [[rod-stainless-steel-solid-dat]]
 
-- [[stainless-steel-hallow-tube-dat]]
+- [[tube-stainless-steel-hollow-dat]]
 
 - [[rod-system-dat]] 
 
@@ -21,7 +21,7 @@
 
 - [[shaft-coupling-dat]]
 
-- [[stainless-steel-dat]] - [[stainless-steel-solid-rod-dat]] - [[metal-dat]]
+- [[steel-stainless-dat]] - [[rod-stainless-steel-solid-dat]] - [[metal-dat]]
 
 
 - [[clamp-dat]]

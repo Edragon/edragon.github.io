@@ -253,8 +253,9 @@
 
 - [[fab-tools-dat]] - [[fab-instrument-dat]] - [[fab-workspace-dat]]
 
-- [[product-dat]] - [[engineering-dat]] - [[fab-mechanics-dat]] - [[fab-dat]] - [[fab-materials-dat]] - [[installation-dat]] - [[standard-dat]]
+- [[product-dat]] - [[engineering-dat]] - [[fab-dat]] - [[installation-dat]] - [[standard-dat]]
 
+- [[fab-mechanics-dat]] - [[fab-materials-dat]] 
 
 ## Mechnicals 
 
