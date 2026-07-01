@@ -9,7 +9,7 @@ options
 
 - [[camera-u-blox-dat]] == 300CNY == 50 USD 
 
-- [[camera-FPV-dat]] - [[camera-analog-dat]] - [[camera-digital-dat]] - [[caddxFPV-ratelpro-dat]] - [[runCam-dat]] - [[VTX-dat]] - [[DJI-O4-dat]]
+- [[camera-FPV-dat]] - [[camera-analog-dat]] - [[camera-digital-dat]] - [[caddxFPV-ratelpro-dat]] - [[runCam-dat]] - [[VTX-dat]] - [[DJI-O4-dat]] 
 
 - [[ranCAM-nano2-dat]] == 89 CNY
 
@@ -18,6 +18,8 @@ options
 - [[runCAM-nano4-dat]] == 119 CNY
 
 - [[caddxFPV-ratelpro-dat]] == 3xx CNY 
+
+- [[caddxFPV-ant-dat]] == 75 cny 
 
 
 camera-wired == [[camera-USB-dat]]
