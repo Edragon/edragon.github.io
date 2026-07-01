@@ -5,6 +5,10 @@
 
 - [[shaft-dat]]
 
+- [[shaft-connection-dat]] - [[elbow-dat]] - [[mechanical-fastener-dat]]
+
+
+
 ## connection methods 
 
 - [[screw-dat]]

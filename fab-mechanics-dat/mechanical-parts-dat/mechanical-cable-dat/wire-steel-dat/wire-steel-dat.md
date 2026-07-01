@@ -1,6 +1,11 @@
 
 # wire-steel-dat
 
+
+
+- [[mechanical-cable-dat]] - [[wire-steel-dat]] - [[cable-dat]]
+
+
 - [[wire-steel-fitting-dat]]
 
 - [[wire-steel-holder-dat]]

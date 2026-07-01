@@ -1,6 +1,11 @@
 
 # cable-dat
 
+
+- [[mechanical-cable-dat]] - [[wire-steel-dat]] - [[cable-dat]]
+
+
+
 - [[cable-AWG-dat]] - [[cable-warp-dat]]
 
 - [[cable-power-dat]] - [[cable-USB-dat]]
