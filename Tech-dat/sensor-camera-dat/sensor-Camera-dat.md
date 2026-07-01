@@ -18,7 +18,7 @@
 
 - [[camera-depth-dat]]
 
-- [[camera-installation-dat]] - [[sensor-camera-dat]] 
+- [[camera-installation-dat]] - [[sensor-camera-dat]] - [[camera-wireless-dat]]
 
 - [[camera-wireless-dat]] 
 

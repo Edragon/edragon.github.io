@@ -4,6 +4,8 @@
 - [[walksnail-dat]] is a brand of caddxFPV
 
 
+- [[caddxFPV-ratelpro-dat]] - [[caddxFPV-dat]] - [[walksnail-dat]]
+
 ## digial camera 
 
 Several companies make digital FPV systems that can compete with or complement DJI O4. Here’s a detailed overview:
@@ -107,26 +109,6 @@ Caddx蜗牛平头哥二代穿越机摄像头fpv摄像机夜视镜头无人机rat
 
 ![](2025-09-16-17-13-25.png)
 
-
-### ratel pro 
-
-- [[X12-dat]]
-
-![](2025-09-16-18-55-15.png)
-
-![](2025-09-16-18-55-45.png)
-
-
-lens diameter 15mm 
-
-body dimesnion ~20mm 
-
-
-![](2025-09-18-21-02-28.png)
-
-wiring 
-
-![](2025-09-21-13-34-00.png)
 
 ## goggles 
 

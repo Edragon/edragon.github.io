@@ -9,9 +9,10 @@ options
 
 - [[u-blox-dat]] 
 
-- [[camera-FPV-dat]] - [[camera-analog-dat]] - [[camera-digital-dat]]
+- [[camera-FPV-dat]] - [[camera-analog-dat]] - [[camera-digital-dat]] - [[caddxFPV-ratelpro-dat]] - [[runCam-dat]]
 
 
+camera-wired == [[camera-USB-dat]]
 
 
 ## ref 
