@@ -20,7 +20,7 @@
 
 - [[camera-installation-dat]] - [[sensor-camera-dat]] 
 
-
+- [[camera-wireless-dat]] 
 
 ## camera
 

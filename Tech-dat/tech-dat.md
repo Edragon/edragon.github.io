@@ -172,7 +172,7 @@
 
 - [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 
-- [[sensor-camera-dat]]
+- [[sensor-camera-dat]] - 
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]]
 
