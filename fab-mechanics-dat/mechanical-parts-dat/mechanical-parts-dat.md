@@ -1,6 +1,6 @@
 # mechanical-parts-dat
 
-
+- [[mechanical-parts-dat]] - [[mechanical-Fastener-dat]] - [[mechanical-drive-dat]]
 
 - [[screw-dat]]
 

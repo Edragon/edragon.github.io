@@ -6,7 +6,8 @@
 
 ![](2026-07-02-00-58-23.png)
 
-
+螺杆
 
 ## ref 
 
+- [[lead-screw]] - [[rod-dat]] - [[lead-screw-dat]]
