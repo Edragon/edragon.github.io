@@ -266,7 +266,7 @@
 
 - [[3D-dat]] - [[fab-3d-print-dat]]
 
-
+- [[shaft-dat]] - [[tube-dat]] - [[rod-dat]]
 
 ## Circuits 
 

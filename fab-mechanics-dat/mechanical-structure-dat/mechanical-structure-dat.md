@@ -1,6 +1,10 @@
 
 # mechanical-structure-dat.md
 
+
+
+- [[mechanical-structure-dat]] - [[sheet-dat]] - [[shaft-dat]] - [[tube-dat]] - [[frame-profile-dat]] - [[alu-extrusion-dat]]
+
 - [[onshape-dat]] - [[CAD-dat]] - [[mechanical-structure-dat]]
 
 - [[structure-dat]] - [[structure-t-dat]] - [[engineering-dat]]
@@ -13,7 +17,7 @@ common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-case-dat/she
 
 - [[alu-extrusion-dat]]
 
-- [[rod-system-dat]] 
+- [[rod-system-dat]] - [[rod-dat]]
 
 - [[motion-system-dat]] 
 

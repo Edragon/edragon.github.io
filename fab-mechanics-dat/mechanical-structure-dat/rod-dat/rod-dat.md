@@ -1,5 +1,5 @@
 
-# rod-system-dat
+# rod-dat
 
 
 - [[shaft-dat]] - [[tube-dat]] - [[rod-dat]]
@@ -30,6 +30,27 @@
 rod hinge 
 
 ![](2025-12-10-02-00-40.png)
+
+
+## info 
+
+A **"Rod"** is a material shape (Geometry)
+
+A rod is a raw, solid, cylindrical piece of material. It describes what it looks like, not what it does.
+
+You can buy a "steel rod" from a hardware store.
+
+That rod does nothing until you machine it or design it into a mechanism.
+
+Analogy: A rod is like "lumber" (raw material).
+
+A **"Shaft"** is a machine element (Function)
+
+A shaft is a rotating machine component used to transmit power and torque from one part to another (like a motor shaft spinning a wheel). It describes what it does, not just what it looks like.
+
+A shaft is highly engineered, often featuring specific keyways, steps, or splines to mount gears and bearings.
+
+Analogy: A shaft is like a "table leg" (a finished product with a specific job).
 
 
 
