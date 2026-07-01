@@ -7,7 +7,7 @@
 
 options 
 
-- [[u-blox-dat]] == 300CNY == 50 USD 
+- [[camera-u-blox-dat]] == 300CNY == 50 USD 
 
 - [[camera-FPV-dat]] - [[camera-analog-dat]] - [[camera-digital-dat]] - [[caddxFPV-ratelpro-dat]] - [[runCam-dat]] - [[VTX-dat]] - [[DJI-O4-dat]]
 
