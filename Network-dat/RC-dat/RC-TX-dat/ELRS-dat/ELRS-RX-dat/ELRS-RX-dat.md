@@ -32,7 +32,7 @@ We have released 3 types of RX receiver modules. All use the [[ESP8285-dat]] [[M
 
 ## hotspot 
 
-Typically, after powering the receiver and with the remote controller turned off, the ExpressLRS hotspot can be found after a default of 60 seconds. Connect to this hotspot using a computer or mobile phone.
+Typically, after powering the receiver and with the remote controller turned off, the **ExpressLRS** hotspot can be found after a default of 60 seconds. Connect to this hotspot using a computer or mobile phone.
 
 The password is "**expresslrs**", and then you can access **10.0.0.1** to upload the receiver firmware.
 

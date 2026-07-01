@@ -1,6 +1,15 @@
 
 # RC-dat
 
+
+- UAV == unmanned AIR vehicles 
+
+A **UGV** (Unmanned Ground Vehicle) is a robotic system that operates on land without an onboard human operator. Controlled remotely or navigating autonomously, UGVs are deployed in environments that are dangerous, inconvenient, or impossible for humans to access.
+
+**USV** == Unmanned Surface Vehicle in maritime technology, Union Square Ventures in the finance/tech world, or the University of Silicon Valley in education
+
+
+
 - [[FPV-dat]] - [[RC-dat]]
 
 
