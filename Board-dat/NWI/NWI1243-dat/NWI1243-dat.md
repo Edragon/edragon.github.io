@@ -21,12 +21,17 @@ all boards info - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-VCC-dat]] - [[ESP32-
 
 - schematic see here: [[ESP32-S3-Board-DAT]]
 
-
+GPIO48 == [[WS2812-dat]]
 
 resources 
 
 - [[WS2812-dat]] - GPIO48 
 
+
+
+## addon board 
+
+- [[SDR1125-dat]]
 
 
 ## ref 

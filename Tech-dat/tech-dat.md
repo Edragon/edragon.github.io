@@ -179,7 +179,7 @@
 - [[driver-hardware-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]] - [[motor-driver-stepper-dat]] 
 
 
-- [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]]
+- [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]] - [[motor-driver-design-dat]]
 
 - [[relay-dat]] - [[SSR-dat]]
 

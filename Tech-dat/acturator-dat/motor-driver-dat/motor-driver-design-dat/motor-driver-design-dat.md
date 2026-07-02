@@ -13,9 +13,30 @@
 
 - [[battery-dat]] - [[motor-driver-design-dat]] - [[battery-discharge-dat]]
 
-- [[SDR1125-dat]]
+- [[SDR1125-dat]] - 
 
 
+
+
+## code 
+
+### motor start one by one 
+
+   Stagger your motor starts in code: Instead of turning both PWM pins on at the exact same millisecond, start Motor A first, wait 100–200 milliseconds for it to smooth out, and then spin up Motor B. This splits the massive initial current surge in half.
+
+   // 正确做法：
+   analogWrite(motorA_PWM, 200);     // 启动第一个电机
+   delay(150);                       // 关键：等待 150 毫秒，避开启动电流瞬间
+   analogWrite(motorB_PWM, 200);     // 再启动第二个电机
+
+### frequency 
+
+- [[PWM-dat]]
+
+  analogWriteFrequency(M1_IN1, 10000);
+  analogWriteFrequency(M1_IN2, 10000);
+  analogWriteFrequency(M2_IN1, 10000);
+  analogWriteFrequency(M2_IN2, 10000);
 
 ## issues analysis 
 
