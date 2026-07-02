@@ -69,7 +69,7 @@
 
 - [[battery-size-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]] - [[CR2032-dat]]
 
-- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]]
+- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]] - [[battery-balancer-dat]]
 
 - [[ac-mains-dat]] - [[acdc-dat]]
 

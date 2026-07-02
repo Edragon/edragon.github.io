@@ -64,7 +64,7 @@ Method 2:
 
 ![](2025-06-03-01-06-37.png)
 
-
+![](2026-07-02-15-20-15.png)
 
 ## simple arduino control code 
 
