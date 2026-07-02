@@ -2,6 +2,13 @@
 
 # motor-driver-design-dat
 
+
+
+- [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[logic-level-shifter-dat]]
+
+
+
+
 - [[motor-driver-design-dat]] - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]]
 
 - [[battery-dat]] - [[motor-driver-design-dat]] - [[battery-discharge-dat]]

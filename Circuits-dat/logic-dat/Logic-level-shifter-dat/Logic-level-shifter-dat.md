@@ -9,6 +9,20 @@
 
 
 
+
+## ground floating 
+
+The Cause: At max throttle, high ground-return currents from the two 380 motors cause **"ground bounce"** (the ground voltage floats slightly above 0V). If your ground floats up by just 0.5V, the ESP32’s 3.3V logic high effectively looks like 2.8V to the DRV8871. One chip might still interpret this as a HIGH (100% throttle), while the other driver might start misinterpreting the signal, dropping the duty cycle internally, making one motor run slower or glitch.
+
+The Fix:
+
+Ensure a strict Star Ground topology. The ESP32 ground and both `DRV8871` power grounds must meet at a single, heavy point near the battery connector.
+
+If the problem persists, use a cheap logic level shifter (74AHCT125 or similar) to boost the ESP32's 3.3V PWM outputs to crisp 5V signals before they reach the `DRV8871` drivers. - [[DRV8871-dat]] - [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[logic-level-shifter-dat]]
+
+
+
+
 ## logic shifter for PWM 
 
 - [[PWM-dat]] - [[buffer-dat]] - [[logic-level-shifter-dat]]
