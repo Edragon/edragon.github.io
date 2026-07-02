@@ -56,6 +56,14 @@ For example, if R_ILIM = 32 kΩ, the DRV8871 device limits motor current to 2 A
 The minimum allowed RILIM is 15 kΩ.
 
 
+
+
+## demo 
+
+#drv8871 #rc_boat #motor_driver #motor_380 - https://t.me/electrodragon3/457
+
+
+
 ## ref 
 
 - [[DRV8871-dat]]
