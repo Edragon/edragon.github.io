@@ -3,7 +3,7 @@
 
 
 
-- [[kicad-dat]] - [[eagleCAD-dat]]
+- [[kicad-dat]] - [[eagleCAD-dat]] - [[kicad-PCB-dat]]
 
 - [[thermal-relief-dat]]
 

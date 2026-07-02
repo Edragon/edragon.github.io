@@ -1,8 +1,56 @@
 
-# Logic-shifter-dat
+# logic-level-shifter-dat
+
+
+- [[74HC125-dat]] - [[buffer-dat]] - [[74HC14-dat]]
 
 
 - [[logic-level-shifter-dat]] - [[74xx1G125-dat]] - [[74hct245-dat]] - [[74HC4050-dat]]
+
+
+
+## logic shifter for PWM 
+
+- [[PWM-dat]] - [[buffer-dat]] - [[logic-level-shifter-dat]]
+
+A **digital buffer** is the absolute best way to handle this. 
+
+When people say "logic level shifter," they are often sold cheap, bi-directional boards with MOSFETs and 10kΩ pull-up resistors (like the classic I2C level shifters). **Do not use those for high-speed PWM.** The pull-up resistors are too slow, rounding off the sharp edges of your PWM signal and making the DRV8871 behave erratically.
+
+Instead, you want a **uni-directional CMOS buffer** that can be powered by 5V but accepts 3.3V logic inputs. 
+
+---
+
+### The Industry Standard: The 74AHCT Series
+The "**T**" in the part number is the secret. It stands for **TTL-compatible inputs**. A 74**AHCT** chip powered at 5V will recognize any input voltage above **2.0V** as a guaranteed logical `HIGH`. This is a perfect match for the ESP32’s 3.3V outputs.
+
+Here are the two cheapest, most common buffer chips for this job:
+
+#### 1. 74AHCT125 (Quad Buffer) - [[74HC125-dat]] - [[buffer-dat]] - [[74HC14-dat]]
+* **What it is:** Contains 4 independent buffer channels.
+* **Cost:** Around $0.20 to $0.50.
+* **How to use it:** You feed the ESP32 PWM signals into the inputs (A), power the chip with 5V, tie the Output Enable (/OE) pins to Ground (to keep them always active), and the outputs (Y) will deliver clean, sharp 0–5V PWM signals to your DRV8871 drivers.
+
+#### 2. 74AHCT14 (Hex Inverting Schmitt Trigger) 
+* **What it is:** Contains 6 inverting buffers. 
+* **Why it's great:** The Schmitt-trigger inputs have built-in hysteresis. If your ESP32 signals have electrical noise or "ground bounce" from those two 380 motors, this chip completely cleans it up into a crisp square wave.
+* **Note:** Because it *inverts* the signal, a 100% duty cycle from the ESP32 becomes a 0% duty cycle at the driver. You just have to invert the logic in your ESP32 code (e.g., write `255 - speed`).
+
+---
+
+### Wiring Guide
+
+If you add a 74AHCT125 buffer to your layout, wire it up like this:
+
+| Buffer Pin | Connect To | Reason |
+| :--- | :--- | :--- |
+| **VCC** | +5V Rail | Powers the output side at full 5V logic. |
+| **GND** | Clean Logic Ground | Reference ground. |
+| **1A, 2A** | ESP32 PWM Pins | Receives the 3.3V control signals. |
+| **1Y, 2Y** | DRV8871 `IN1`, `IN2` | Outputs the clean 5V push-pull signals. |
+| **1OE, 2OE** | Ground (GND) | Enables the buffer outputs. |
+
+Using a true CMOS buffer chip like this will give you sharp, fast switching edges up to several megahertz, completely eliminating any speed differences or glitching caused by weak 3.3V drive signals.
 
 
 ## board 

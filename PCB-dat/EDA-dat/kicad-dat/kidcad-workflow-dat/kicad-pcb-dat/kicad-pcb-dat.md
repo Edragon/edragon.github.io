@@ -1,8 +1,12 @@
 # kicad-pcb-dat
 
+
+
+- [[thermal-relief-dat]] - [[PCB-zone-dat]] - [[PCB-design-dat]] - [[kicad-PCB-dat]] - [[eagleCAD-PCB-dat]] - [[thermal-relief-dat]]
+
 - [[kicad-footprint-dat]] 
 
-- [[footprint-dat]] - [[DRC-dat]] - [[PCB-design-dat]]
+- [[fab-footprint-dat]] - [[PCB-DRC-dat]] - [[PCB-design-dat]]
 
 
 ## shortkey 
@@ -230,9 +234,10 @@ layer
 - x.Mask 
 - x.Fab
 - Edge.Cuts
+
 ![alt text](95e854b5209f226b023ebe7765500e9.png)
 
-
+![](2026-07-02-17-45-25.png)
 
 
 
