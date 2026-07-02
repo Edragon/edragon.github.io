@@ -5,6 +5,8 @@
 
 - [[SDR1125-dat]] - [[CRSF-dat]] - [[ELRS-dat]]
 
+- [[PCB-design-dat]]
+
 orange boxes series 
 
 - [[OPM1153-dat]] - [[MP1584-dat]] == orange middle module 
