@@ -18,6 +18,15 @@ integrated
 ![](2026-06-07-16-35-40.png)
 
 
+## three-teeth / two-teeth / four-teeth 
+
+![](2026-07-04-22-36-59.png)
+
+## base that has a Nut placeholder 
+
+
+![](2026-07-04-22-38-01.png)
+
 
 ## ref 
 

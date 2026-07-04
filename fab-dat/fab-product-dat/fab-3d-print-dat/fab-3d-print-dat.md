@@ -57,7 +57,10 @@
 
 
 
-## example 
+## common build 
+
+
+- [[gopro-amount-dat]]
 
 ### hacking into current products 
 

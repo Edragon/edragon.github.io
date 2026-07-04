@@ -5,6 +5,7 @@
 
 - [[onshape-dat]] - [[CAD-dat]] - [[mechanical-structure-dat]]
 
+- [[nut-dat]]
 
 - [[fab-dat]]
 
