@@ -9,7 +9,7 @@
 RK-380-4043-57
 D/V6.0 0Z 21CCW
 
-- [[rc-boat-dat]] - [[motor-brushed-dat]] - [[motor-130-dat]] - [[motor-380-dat]]
+- [[rc-boat-dat]] - [[motor-380-dat]] - [[motor-brushed-dat]] - [[motor-dat]] - [[TA6586-dat]] - [[MC10_10A-dat]] - [[BTS7960-dat]]
 
 ![](2026-06-28-14-52-25.png)
 

@@ -10,6 +10,11 @@ Product Features:
 - 5. Isolated chip 5V power supply (can share 5V with the microcontroller);
 - 6. Power supply voltage 5.5V to 27V;
 
+- •极限情况下可达43A超大电流输出
+- ·电流诊断
+- ·斜率调节
+- ·死区时间产生
+- ·过温、过压、欠压、过流保护·短路保护
 
 - Model: EDIBT-2
 - Input Voltage: 6V~27V
@@ -24,12 +29,22 @@ Product Features:
 
 ## Wiring == 2x4 == 8pin 
 
+B+ B- W+ W-
+
+![](2026-07-02-15-34-24.png)
+
+- [[74HC244-dat]] - [[74xx-dat]] - [[BTS7960-dat]]
+
+![](2026-07-02-15-35-38.png)
+
+
+
 except feedback R_IS and L_IS and power supply , actual control is 4 pin 
 
-- 1. R_PWM: Forward rotation level or PWM signal input, high level active
-- 2. L_PWM: Reverse rotation level or PWM signal input, high level active
-- 3. R_EN: Forward rotation driver enable input, high level enable, low level disable
-- 4. L_EN: Reverse rotation driver enable input, high level enable, low level disable
+- 1. `R_PWM`: Forward rotation level or PWM signal input, high level active
+- 2. `L_PWM`: Reverse rotation level or PWM signal input, high level active
+- 3. `R_EN`: Forward rotation driver enable input, high level enable, low level disable
+- 4. `L_EN`: Reverse rotation driver enable input, high level enable, low level disable
 - 5. R_IS: Forward rotation driver side current alarm output
 - 6. L_IS: Reverse rotation driver side current alarm output
 - 7. VCC: +5V power input, connects to microcontroller 5V power
@@ -64,10 +79,11 @@ Method 2:
 
 ![](2025-06-03-01-06-37.png)
 
-
+![](2026-07-02-15-20-15.png)
 
 ## simple arduino control code 
 
+- [[arduino-dat]] - [[NWI1083-dat]]
 
 🔌 Arduino Pin Connections (Example)
 
@@ -134,6 +150,13 @@ the demo code
 | **Peak current**       | ~43A                       |
 | **Voltage range**      | Typically 6V–27V           |
 
+
+
+## demo 
+
+https://t.me/electrodragon3/454
+
+- [[rc-boat-dat]] - [[motor-380-dat]] - [[motor-brushed-dat]] - [[motor-dat]] - [[TA6586-dat]] - [[MC10_10A-dat]] - [[BTS7960-dat]]
 
 
 ## ref 

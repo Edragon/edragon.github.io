@@ -69,7 +69,7 @@
 
 - [[battery-size-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]] - [[CR2032-dat]]
 
-- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]]
+- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]] - [[battery-balancer-dat]]
 
 - [[ac-mains-dat]] - [[acdc-dat]]
 
@@ -179,7 +179,7 @@
 - [[driver-hardware-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]] - [[motor-driver-stepper-dat]] 
 
 
-- [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]]
+- [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]] - [[motor-driver-design-dat]]
 
 - [[relay-dat]] - [[SSR-dat]]
 
@@ -268,6 +268,8 @@
 - [[3D-dat]] - [[fab-3d-print-dat]]
 
 - [[shaft-dat]] - [[tube-dat]] - [[rod-dat]]
+
+- [[off-road-dat]]
 
 ## Circuits 
 

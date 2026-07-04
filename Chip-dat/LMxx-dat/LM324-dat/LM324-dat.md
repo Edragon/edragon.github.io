@@ -1,6 +1,10 @@
 
 # LM324-dat
 
+
+
+
+
 - [[EDA-simulation-dat]]
 
 LMx24, LMx24x, LMx24xx, LM2902, LM2902x, LM2902xx, LM2902xxx Quadruple Operational Amplifiers
@@ -16,6 +20,12 @@ chip info, [datasheet](https://www.ti.com/lit/ds/symlink/lm324.pdf?ts=1761973239
 ## App. 
 
 - [[op-amp-dat]]
+
+
+## build 
+
+- [[LM324-dat]] - [[battery-balance-charger-dat]] - [[LK-1008D-dat]]
+
 
 ### Typical Application
 

@@ -5,6 +5,10 @@
 
 - [[SDR1125-dat]] - [[CRSF-dat]] - [[ELRS-dat]]
 
+- [[PCB-design-dat]]
+
+- [[radiomaster-pocket-dat]]
+
 orange boxes series 
 
 - [[OPM1153-dat]] - [[MP1584-dat]] == orange middle module 
@@ -70,8 +74,8 @@ control [[RC-dat]] setup
   #define M2_IN2 8
 
   // Channels
-  #define CH_THROTTLE 3    // Forward/Backward (CH3)
-  #define CH_STEERING 1    // Left/Right (CH1)
+  #define CH_THROTTLE 1    // Forward/Backward (CH1)
+  #define CH_STEERING 3    // Left/Right (CH3)
   #define CH_SPEED_MODE 6  // Speed Mode (Low/Mid/High) (CH6)
 
   // Reserved Servo IOs (not in use)
@@ -93,6 +97,11 @@ control [[RC-dat]] setup
 
   // Battery Monitor
   #define BATTERY_ADC_PIN 36
+
+  // WS2812 Indicator
+  #define RGB_PIN 48
+  #define NUMPIXELS 1
+  Adafruit_NeoPixel pixels(NUMPIXELS, RGB_PIN, NEO_GRB + NEO_KHZ800);
 
 
 

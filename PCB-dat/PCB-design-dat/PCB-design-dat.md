@@ -1,6 +1,12 @@
 
 # PCB-design-dat
 
+
+
+- [[kicad-dat]] - [[eagleCAD-dat]] - [[kicad-PCB-dat]]
+
+- [[thermal-relief-dat]]
+
 - [[circuits-dat]] - [[PCB-design-dat]] - [[resistor-dat]] - [[capacitor-dat]] - [[RCL-dat]]
 
 

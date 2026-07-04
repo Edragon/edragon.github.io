@@ -28,6 +28,16 @@ Key Technical Specs
 ![](2026-07-01-15-57-04.png)
 
 
+
+
+
+## demo video 
+
+https://t.me/electrodragon3/455
+
+- [[rc-boat-dat]] - [[motor-380-dat]] - [[motor-brushed-dat]] - [[motor-dat]] - [[TA6586-dat]] - [[MC10_10A-dat]] - [[BTS7960-dat]]
+
+
 ## ref 
 
 

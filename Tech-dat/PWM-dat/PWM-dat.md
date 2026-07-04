@@ -9,6 +9,17 @@
 
 
 
+## ESP32 LEDC (PWM) Frequency and Resolution Conflict
+
+
+The Cause: If your code configures **a very high PWM frequency** (e.g., 50kHz) alongside a high bit-resolution (e.g., 12-bit or 13-bit), the maximum achievable value in code might not perfectly map to a true, solid 100% duty cycle, or it might over-heat the drivers due to high-frequency switching losses. 
+
+Furthermore, manufacturing variances in the two 380 motors mean that at the ragged edge of a noisy signal, one will always drop off or perform worse than the other.
+
+The Fix: Lower your ESP32 LEDC frequency to 10kHz or 20kHz with an 8-bit resolution (0-255). Ensure that "max throttle" translates to writing a clean 255 to the channel.
+
+- [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[logic-level-shifter-dat]] - [[PWM-dat]] - [[ESP32-S3-dat]] - [[ESP32-dat]]
+
 
 
 ## understand PWM 

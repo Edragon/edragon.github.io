@@ -115,18 +115,18 @@ In the context of the RadioMaster Pocket, T1 and T4 refer to the horizontal trim
 
 RC template 
 
-| Input | Type      | default  | modify |
-| ----- | --------- | -------- | ------ |
-| CH1   | Stick     | Roll     |        |
-| CH2   | Stick     | Pitch    |        |
-| CH3   | Stick     | Yaw      |        |
-| CH4   | Stick     | Throttle |        |
-| SA    | 2-pos     | Arm/Aux  |        |
-| SB    | 3-pos     | Mode/Aux |        |
-| SC    | 3-pos     | Mode/Aux |        |
-| SD    | Self-lock | Aux      |        |
-| SE    | Momentary | Beep/Aux |        |
-| S1    | Knob      | Trim/Aux |        |
+| Input   | Type            | default  | modify |
+| ------- | --------------- | -------- | ------ |
+| CH1     | Stick           | Roll     |        |
+| CH2     | Stick           | Pitch    |        |
+| CH3     | Stick           | Yaw      |        |
+| CH4     | Stick           | Throttle |        |
+| CH5 SA  | 2-pos Self-lock | Arm/Aux  |        |
+| CH6 SB  | 3-pos           | Mode/Aux |        |
+| CH7 SC  | 3-pos           | Mode/Aux |        |
+| CH8 SD  | 2-pos Self-lock | Aux      |        |
+| CH9 SE  | Momentary       | Beep/Aux |        |
+| CH10 S1 | Knob            | Trim/Aux |        |
 
 
 

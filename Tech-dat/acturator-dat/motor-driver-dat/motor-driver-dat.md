@@ -2,6 +2,9 @@
 # motor-driver-dat
 
 
+
+- [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[logic-level-shifter-dat]] - [[PWM-dat]] - [[ESP32-S3-dat]] - [[ESP32-dat]]
+
 - [[motor-driver-dat]] - [[motor-driver-design-dat]]
 
 - [[motor-brushed-dat]] - [[motor-driver-dc-dat]] 
@@ -109,6 +112,8 @@
 
 - [[motor-brushless-dat]] - [[motor-three-phase-BLDC-dat]] - [[SDR1106-dat]] - [[FOC-dat]]
 
+- [[MC10_10A-dat]] - demo video == https://t.me/electrodragon3/456
+
 
 ## chips 
 
@@ -135,6 +140,8 @@
 - [[ULN2003-dat]] - [[L9110-dat]] - [[LV8729-dat]] - [[LV8731-dat]] - [[UWM-dat]] - [[SS8870-dat]] - [[SS6216-dat]] - [[L6201-dat]] - [[SS6951-dat]]
 
 - [[AT8236-dat]] - [[TC118S-dat]] - [[EMC2301-dat]] - [[AT8549-dat]] - [[AT8833-dat]] - [[ATD5984-dat]] - [[AT8548-dat]] - [[AT8870-dat]] - [[AT8222-dat]] - [[AT8833-dat]] - [[AT8837-dat]] - [[ATD5833-dat]]
+
+
 
 
 ## and more 
@@ -372,6 +379,25 @@ Add a Large Capacitor: Place a large electrolytic capacitor (e.g., 1000µF or hi
 ## Other Tech
 
 - [[FOC-dat]]
+
+
+
+
+## common wiring 
+
+you can absolutely connect `L_EN (Left Enable)` and `R_EN (Right Enable)` together and tie them directly to 5V.
+
+This is a very common trick to save microcontroller pins, reducing the required pins from 4 down to 2. Here is exactly how it changes things and what you need to keep in mind:
+
+How it Works
+
+The [[BTS7960-dat]] driver chip requires the Enable pins to be HIGH (5V) for the internal H-bridge MOSFETs to operate.
+
+By tying them permanently to 5V, the motor driver is always enabled and ready to receive control signals.
+
+You then only need 2 PWM pins from your microcontroller connected to L_PWM and R_PWM to control the speed and direction.
+
+
 
 
 

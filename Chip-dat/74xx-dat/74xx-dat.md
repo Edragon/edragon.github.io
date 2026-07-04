@@ -54,6 +54,14 @@ The device inputs are compatible with Standard CMOS outputs; with pullup resisto
 
 ## types 
 
+
+
+
+- [[74HC244-dat]] - [[74xx-dat]] - [[BTS7960-dat]]
+
+
+
+
 - [[74hct245-dat]]
 
 
