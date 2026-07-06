@@ -1,12 +1,55 @@
 
 # radiomaster-pocket-dat.md
 
+
+
+
+- [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
+
+
 - [[radiomaster-pocket-dat]] - [[radiomaster-dat]] - [[ELRS-dat]] - [[CRSF-dat]] - [[RC-dat]]
 
+- [[motor-driver-design-dat]]
 
-## DML setup 
+## MDL setup 
 
-setup page 2 
+
+### MIXES 
+
+**Step 1: Navigate to the MIXES Screen**
+
+Turn on your RadioMaster Pocket.
+
+Long-press the system roller (the clicky wheel on the right) to bring up the model menu, or press the MDL button if you have it assigned.
+
+Use the roller to select Model Select, click your current model, and enter the model settings.
+
+Press the PAGE> button (top right) several times until you see MIXES` at the top of the screen (usually Page 5 or 6).
+
+**Step 2: Configure CH1 (Forward Pin / IN1)**
+
+Roll down to highlight CH1, then press and hold the roller until a pop-up menu appears.
+
+Select Edit and click the roller.
+
+Change the following settings inside the CH1 edit screen:
+
+Mix name: (Optional) You can name it FwdA
+
+Source: Click, then move your Left Stick up and down until it shows Thr (or your preferred stick).
+
+Weight: Change this from 100 to 50.
+
+Offset: Change this from 0 to 50.
+
+Press the RTN (Return) button once to go back to the main `MIXES` list.
+
+![](2026-07-06-19-53-26.png)
+
+
+### main setup at page 2 
+
+
 
 ![](2026-06-25-23-58-16.png)
 

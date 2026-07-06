@@ -141,7 +141,7 @@
 
 - [[AT8236-dat]] - [[TC118S-dat]] - [[EMC2301-dat]] - [[AT8549-dat]] - [[AT8833-dat]] - [[ATD5984-dat]] - [[AT8548-dat]] - [[AT8870-dat]] - [[AT8222-dat]] - [[AT8833-dat]] - [[AT8837-dat]] - [[ATD5833-dat]]
 
-
+- [[MX1508-dat]]
 
 
 ## and more 

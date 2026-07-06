@@ -16,6 +16,15 @@
 - [[SDR1125-dat]] - 
 
 
+- [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]]
+
+
+## Want to save channels AND keep Reverse?
+
+If your goal is to save channels because you want to use CH3 and CH4 for other things (like servos, lights, or standard ESCs), you can compress your setup down to 2 channels total while keeping full forward/backward control.
+
+To do this, you just need a tiny hardware addition: an external logic inverter (NOT gate chip) or a driver board that natively supports a PHASE / ENABLE (or DIR / PWM) control scheme rather than raw IN1 / IN2.
+
 
 
 ## code 
