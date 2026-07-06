@@ -27,7 +27,7 @@ MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM
 
 - [[DJI-dat]] - [[SDC-dat]]
 
-
+4.0子弹公母头
 
 
 ## common battery header connector
