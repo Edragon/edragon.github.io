@@ -1,6 +1,7 @@
 
 # Infineon-dat.md
 
+- [[mosfet-dat]] - [[infineon-dat]] - [[infineon-mosfet-dat]]
 
 - [[IOR-dat]] - [[mosfet-dat]] - [[infineon-mosfet-dat]] - [[infineon-dat]]
 

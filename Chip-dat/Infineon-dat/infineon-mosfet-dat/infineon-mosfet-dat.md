@@ -2,6 +2,12 @@
 
 # infineon-mosfet-dat
 
+- [[mosfet-dat]] - [[infineon-dat]] - [[infineon-mosfet-dat]]
+
+
+== - 40 V -50 A
+
+4P04L11 - https://www.mouser.sg/datasheet/3/70/1/Infineon_IPD50P04P4L_11_DataSheet_v01_01_EN.pdf
 
 
 | Model             | Mark | Manufacturers    | Id    | Package         | CH type | VDS max |
