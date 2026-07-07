@@ -134,6 +134,8 @@ classic - [[CP2102-dat]] - [[DPR1005-dat]]
 
 - [[DVA1010-dat]]
 
+- [[DVA1015-dat]] - [[DVA1018-dat]] - [[node-dat]]
+
 ### ESP 
 
 - [[ESP1000-dat]] - [[ESP1001-dat]] - [[ESP1008-dat]]
@@ -169,11 +171,12 @@ RPI LCD
 
 [[ILC1007-dat]] [[ILC1008-dat]]
 
-[[LCD-12864-dat]] - [[ILC1016-dat]]
+- [[LCD-char-dat]] - [[ILC1040-dat]] - [[LCD2004-dat]] - [[ILC1022-dat]] - [[LCD1602-dat]] - [[LCD-12864-dat]] - [[ILC1016-dat]] - [[ILC1038-dat]]
+
+- [[LCD-char-driver-dat]] - [[ILC1073-dat]] - [[ILC1047-dat]] (out-of-stock) - [[ILC1025-dat]]
+
 
 LED control - [[ILC1063-dat]]
-
-[[ILC1022-dat]]
 
 - [[ILC1073-dat]]
 
@@ -223,9 +226,12 @@ LED control - [[ILC1063-dat]]
 
 ### IOD 
 
-- [[IOD1001-dat]]- [[IOD1003-dat]]
+- [[OLED-dat]] - 0.96 == [[I2C-dat]] - [[IOD1001-dat]]- [[SPI-dat]] - [[IOD1003-dat]]
+
+- [[OLED-dat]] - 1.3 == [[I2C-dat]] - [[IOD1004-dat]] - [[SPI-dat]] - [[IOD1005-dat]]
 
 - [[OLED-raw-dat]] - [[IOD1011-dat]] - [[IOD1012-dat]]
+
 
 ### OPM 
 
@@ -426,6 +432,9 @@ Quectel - 2G
 - [[NWL1116-dat]]
 
 [[NRF24L01-dat]] - [[NWL1010-dat]] - [[NWL1050-dat]]
+
+- [[RF-link-dat]]
+
 
 ### NWI
 

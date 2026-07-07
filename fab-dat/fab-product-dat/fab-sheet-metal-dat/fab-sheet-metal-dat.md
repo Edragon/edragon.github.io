@@ -46,6 +46,16 @@
 
 
 
+## output 
+
+materials == 
+- 不锈钢-201
+- 不锈钢-304
+- 冷轧板-SPCC
+- 镀锌板-SGCC
+- 铝合金-5052
+
+
 ## CAD sheet metal 
 
 start - thicken 
