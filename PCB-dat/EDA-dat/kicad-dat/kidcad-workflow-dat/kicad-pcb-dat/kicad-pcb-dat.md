@@ -242,6 +242,11 @@ layer
 
 
 
+## net and netclasses 
+
+![](2026-07-08-01-08-26.png)
+
+
 ## ref 
 
 - [[kicad-dat]]

@@ -3,6 +3,8 @@
 # SDR1125-dat.md
 
 
+- [[kicad-dat]]
+
 - [[SDR1125-dat]] - [[CRSF-dat]] - [[ELRS-dat]]
 
 - [[PCB-design-dat]]

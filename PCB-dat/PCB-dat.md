@@ -23,6 +23,11 @@
 - [[test-point-dat]]
 
 
+
+## specs 
+
+- [[PCB-solder-mask-dat]] - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-vias-dat]]
+
 ## PCB edit 
 
 - [[fab-PCB-desoldering-dat]] - [[PCB-fix-dat]]
