@@ -8,7 +8,7 @@
 
 - [[bolt-t-dat]] - [[bolt-dat]]
 
-
+- [[bolt-dat]] - [[spring-dat]] - [[battery-pack-solderless-dat]]
 
 
 ## bolt vs screw 

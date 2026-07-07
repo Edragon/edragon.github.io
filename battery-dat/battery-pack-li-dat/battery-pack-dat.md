@@ -1,7 +1,7 @@
 
 # battery-pack-dat
 
-
+- [[battery-pack-dat]] - [[battery-pack-solderless-dat]]
 
 - [[battery-holder-dat]] - [[battery-holder-18650-dat]] - [[battery-holder-AA-dat]]
 
@@ -30,6 +30,13 @@
 - soldering by [[spot-welding-dat]]
 
 - [[battery-charger-dat]]
+
+- [[insulator-dat]] - [[fab-PCB-soldering-dat]]
+
+- [[battery-pack-dat]] - [[battery-pack-LFP-dat]] 
+
+- [[battery-pack-design-dat]] 
+
 
 ## accessories
 
