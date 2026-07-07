@@ -12,6 +12,13 @@
 
 
 
+
+## side wires for active BMS 
+
+- [[BMS-active-dat]]
+
+![](2026-07-08-04-49-46.png)
+
 ## ref 
 
 
