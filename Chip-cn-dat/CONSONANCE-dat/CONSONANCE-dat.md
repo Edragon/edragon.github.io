@@ -32,7 +32,7 @@
 
 - [[CN3791-dat]] - 4A, Standalone Li-ion Battery Charger IC With Photovoltaic Cell MPPT Function - [[dse-cn3791.pdf]] - [[li-battery-dat]]
 
-- [[CN3768-dat]] - 4A, 12V Lead-Acid Battery Charger IC - [[OPM1181-dat]] - [[Lead-acid-battery-dat]]
+- [[CN3768-dat]] - 4A, 12V Lead-Acid Battery Charger IC - [[OPM1181-dat]] - [[battery-Lead-acid-dat]]
 
 - [[BAT1002-dat]] - [[DSE-CN3065.pdf]]
 

@@ -1,7 +1,7 @@
 
 # power-storage-dat
 
-- [[solar-panel-dat]] - [[solar-charge-controller-dat]] - [[battery-dat]] ( [[Lead-acid-battery-dat]] )- [[inverter-dat]]
+- [[solar-panel-dat]] - [[solar-charge-controller-dat]] - [[battery-dat]] ( [[battery-Lead-acid-dat]] )- [[inverter-dat]]
 
 
 ## Building Your Own Solar Power System: A DIY Guide

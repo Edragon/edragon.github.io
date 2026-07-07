@@ -11,7 +11,7 @@
 
 ## high current cable 
 
-for - [[Lead-acid-battery-dat]]
+for - [[battery-Lead-acid-dat]]
 
 ![](2026-05-20-00-41-03.png)
 

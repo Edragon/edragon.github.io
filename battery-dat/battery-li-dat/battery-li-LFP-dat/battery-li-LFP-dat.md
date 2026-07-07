@@ -13,12 +13,26 @@
 
 - [[32650-dat]] - [[battery-LFP-dat]]
 
-- [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-LFP-dat]]
+- [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-li-LFP-dat]]
 
 legacy wiki page == https://www.electrodragon.com/w/LFP_Battery
 
 
 这种电池通常被称为“铁锂”。它的正极材料使用的是磷酸铁锂。
+
+
+
+## Quick Reference Parameter Matrix
+
+| Technical Parameter | Value (Per Cell) | Configuration Notes |
+| :--- | :--- | :--- |
+| **Nominal Voltage** | 3.20 V | Standard for calculating pack series ($S$) configurations |
+| **Max Charge Voltage** | 3.65 V | Hard threshold for Constant Voltage (CV) charging phase |
+| **Discharge Cut-off** | 2.50 V | Standard BMS protection trigger point |
+| **Cycle Life (to 80% SoC)** | 3,000+ Cycles | Evaluated at standard 1C charge/discharge rates |
+| **Charging Algorithm** | CC/CV | Constant Current followed by Constant Voltage tapering |
+
+
 
 
 ## LFP charger 
@@ -100,14 +114,16 @@ A **LiFePO4 (Lithium Iron Phosphate)** battery is a type of lithium-ion battery 
 
 ## Comparison with Lead-Acid Batteries:
 
-| Feature                  | LiFePO4 Battery             | Lead-Acid Battery           |
-|--------------------------|-----------------------------|-----------------------------|
-| Lifespan                 | 2,000–5,000+ cycles        | 300–500 cycles             |
-| Weight                   | ~50% lighter               | Heavier                    |
-| Maintenance              | Maintenance-free           | Requires maintenance       |
-| Depth of Discharge (DoD) | Up to 80–100%              | 50–60%                     |
-| Energy Efficiency        | ~95%                       | ~70%                       |
-| Charging Time            | 2–4 hours (fast charging)  | 6–12 hours                 |
+- [[battery-Lead-Acid-dat]]
+
+| Feature                  | LiFePO4 Battery           | Lead-Acid Battery    |
+| ------------------------ | ------------------------- | -------------------- |
+| Lifespan                 | 2,000–5,000+ cycles       | 300–500 cycles       |
+| Weight                   | ~50% lighter              | Heavier              |
+| Maintenance              | Maintenance-free          | Requires maintenance |
+| Depth of Discharge (DoD) | Up to 80–100%             | 50–60%               |
+| Energy Efficiency        | ~95%                      | ~70%                 |
+| Charging Time            | 2–4 hours (fast charging) | 6–12 hours           |
 
 
 
@@ -115,17 +131,17 @@ A **LiFePO4 (Lithium Iron Phosphate)** battery is a type of lithium-ion battery 
 
 ## Key Differences Between LiFePO4 and Lithium-Ion Batteries  
 
-| Feature                  | **LiFePO4 (Lithium Iron Phosphate)**         | **Generic Lithium-Ion (e.g., LiCoO₂)**      |
-|--------------------------|---------------------------------------------|---------------------------------------------|
-| **Chemistry**            | Lithium Iron Phosphate (LiFePO4)           | Lithium Cobalt Oxide (LiCoO₂), Lithium Manganese Oxide (LiMn₂O₄), Lithium Nickel Manganese Cobalt Oxide (NMC), etc. |
-| **Lifespan**             | 2,000–5,000+ cycles                        | 500–1,000 cycles                            |
-| **Energy Density**       | Lower (~90–120 Wh/kg)                      | Higher (~150–250 Wh/kg)                     |
-| **Safety**               | Extremely safe, resistant to overheating or fire | Less safe, more prone to overheating and thermal runaway |
-| **Cost**                 | Typically more expensive upfront           | Less expensive upfront                      |
-| **Weight**               | Slightly heavier                           | Lighter                                     |
-| **Temperature Range**    | Performs well in wide temperatures (-20°C to 60°C) | Narrower operating range                   |
-| **Discharge Rate**       | Can handle high discharge rates            | May degrade faster under high discharge     |
-| **Environmental Impact** | More eco-friendly, contains no cobalt      | May use cobalt, which has environmental and ethical concerns |
+| Feature                  | **LiFePO4 (Lithium Iron Phosphate)**               | **Generic Lithium-Ion (e.g., LiCoO₂)**                                                                              |
+| ------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Chemistry**            | Lithium Iron Phosphate (LiFePO4)                   | Lithium Cobalt Oxide (LiCoO₂), Lithium Manganese Oxide (LiMn₂O₄), Lithium Nickel Manganese Cobalt Oxide (NMC), etc. |
+| **Lifespan**             | 2,000–5,000+ cycles                                | 500–1,000 cycles                                                                                                    |
+| **Energy Density**       | Lower (~90–120 Wh/kg)                              | Higher (~150–250 Wh/kg)                                                                                             |
+| **Safety**               | Extremely safe, resistant to overheating or fire   | Less safe, more prone to overheating and thermal runaway                                                            |
+| **Cost**                 | Typically more expensive upfront                   | Less expensive upfront                                                                                              |
+| **Weight**               | Slightly heavier                                   | Lighter                                                                                                             |
+| **Temperature Range**    | Performs well in wide temperatures (-20°C to 60°C) | Narrower operating range                                                                                            |
+| **Discharge Rate**       | Can handle high discharge rates                    | May degrade faster under high discharge                                                                             |
+| **Environmental Impact** | More eco-friendly, contains no cobalt              | May use cobalt, which has environmental and ethical concerns                                                        |
 
 ## Why is LiFePO4 considered a type of lithium-ion battery?
 

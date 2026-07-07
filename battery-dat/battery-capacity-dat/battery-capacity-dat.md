@@ -83,7 +83,7 @@ Time = 5000 mAh ÷ 500 mA = 10 hours
 
 ## Car Sedan Lead-Acid battery 
 
-- [[Lead-acid-battery-dat]]
+- [[battery-Lead-acid-dat]]
 
 - Typical Voltage (V): 12 V
 - Typical Capacity Range (Ah): 40 Ah to 70 Ah
@@ -164,4 +164,4 @@ A 2000mAh, 3.7V power bank can theoretically supply a device drawing 1A at 5V fo
 
 ## ref 
 
-- [[Lead-acid-battery-dat]]
+- [[battery-Lead-acid-dat]]

@@ -31,6 +31,6 @@ Please note it may take a long time to fully charge a battery.
 
 - [[rechargerable-battery-dat]] - [[battery-dat]]
 
-- [[Lead-acid-battery-dat]]
+- [[battery-Lead-acid-dat]]
 
 - [[OPM1181]] - [[CN3768]]

@@ -27,7 +27,7 @@ This a weekly update newsletter, to briefly tell you whats new and whats fun we 
 
 - new shipping rules find out for US [[US-dat]]
 
-- add some more battery info about [[Lead-acid-battery-dat]]
+- add some more battery info about [[battery-Lead-acid-dat]]
 
 - add more info about [[fiber-optic-dat]] and [[POF-dat]], we are going to make more relevant boards soon.
 

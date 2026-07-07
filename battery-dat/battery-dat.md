@@ -45,7 +45,7 @@
 
 - [[battery-dat]] 
 
-- [[battery-rechargerable-dat]] - [[Lead-acid-battery-dat]] - [[battery-LFP-dat]] - [[battery-NCM-NCA-dat]]
+- [[battery-rechargerable-dat]] - [[battery-Lead-acid-dat]] - [[battery-LFP-dat]] - [[battery-NCM-NCA-dat]]
 
 - [[battery-protection-dat]]
 
