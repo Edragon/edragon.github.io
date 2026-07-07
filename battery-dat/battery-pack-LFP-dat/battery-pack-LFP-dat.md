@@ -45,9 +45,13 @@
 
 ## pack design
 
+4x4
+
 ![](2026-07-08-04-08-28.png)
 
+4x8 or 4x10 
 
+![](2026-07-08-04-22-23.png)
 
 ## Ref
 - [[battery-LFP-pack]] - [[battery-li-lfp]]
