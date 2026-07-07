@@ -10,13 +10,17 @@
 
 - [[battery-NCM-NCA-dat]] - [[battery-li-LFP-dat]]
 
-- [[battery-pack-dat]] - [[battery-LFP-pack-dat]]
+- [[battery-pack-dat]] - [[battery-pack-LFP-dat]]
 
 - [[battery-blade-dat]]
 
 - [[32650-dat]] - [[32140-dat]] - [[battery-li-LFP-dat]]
 
 - [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-li-LFP-dat]]
+
+
+
+
 
 legacy wiki page == https://www.electrodragon.com/w/LFP_Battery
 

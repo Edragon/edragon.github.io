@@ -55,6 +55,19 @@
 - [[battery-NCM-NCA-dat/NCA-dat/NCA-dat]] - [[battery-NCM-NCA-dat/NCM-dat/NCM-dat]] - [[Battery-li-Ternary-dat]]
 
 
+
+## Sodium-ion Battery
+
+A common question is: "Since we already have Lithium Iron Phosphate (LFP) and Ternary Lithium batteries, why develop Sodium-ion batteries?"
+
+### Advantages (Key Strengths)
+- **Extremely Low Cost & Resource Independence**: Lithium resources are scarce with volatile prices, while sodium resources (from table salt) are abundant on Earth. Once scaled up, costs can be approximately 30% lower than LFP.
+- **Superior Low-Temperature Performance**: Lithium batteries often struggle in outdoor temperatures of -20°C (rapid power drop, slow charging). Sodium-ion batteries can still maintain over 80% discharge capacity at -20°C, and charging speeds remain largely unaffected, making them ideal for cold climates.
+- **Higher Safety**: Lower internal resistance and higher thermal runaway temperature make them less prone to fire or explosion.
+
+### Disadvantages
+- **Lower Energy Density**: The energy density of CATL's 1st/2nd generation sodium-ion batteries is around 160 Wh/kg. While this matches some low-end LFP batteries, it is still far behind ternary lithium batteries. Consequently, they are not suitable for high-end EVs requiring long range (e.g., over 700km).
+
 ## ref 
 
 - [[battery-dat]]

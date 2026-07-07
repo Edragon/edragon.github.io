@@ -19,7 +19,37 @@
 
 - [[battery-LFP-4S-dat]] == 12.8V 
 
-## build 
-## ref 
+## Build
 
-- [[battery-LFP-pack]]
+| Cells | Configurations   |
+| :---- | :--------------- |
+| 16    | 48V 15A          |
+| 20    | 60V 15A          |
+| 24    | 72V 15A          |
+| 32    | 48V 30A          |
+| 40    | 60V 30A          |
+| 48    | 72V 30A, 48V 45A |
+| 60    | 60V 45A          |
+| 72    | 72V 45A          |
+
+
+## pack 32140 
+
+- [[32140-dat]]
+
+![](2026-07-08-02-52-59.png)
+
+![](2026-07-08-03-01-36.png)
+
+
+
+## pack design
+
+![](2026-07-08-04-08-28.png)
+
+
+
+## Ref
+- [[battery-LFP-pack]] - [[battery-li-lfp]]
+
+
