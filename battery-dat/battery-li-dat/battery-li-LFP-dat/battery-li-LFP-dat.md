@@ -2,16 +2,19 @@
 # battery-li-LFP-dat
 
 
+
+
+
 - [[battery-LFP-20S-dat]]
 
 
 - [[battery-NCM-NCA-dat]] - [[battery-li-LFP-dat]]
 
-- [[battery-pack-dat]]
+- [[battery-pack-dat]] - [[battery-LFP-pack-dat]]
 
-- [[blade-battery-dat]]
+- [[battery-blade-dat]]
 
-- [[32650-dat]] - [[battery-LFP-dat]]
+- [[32650-dat]] - [[32140-dat]] - [[battery-li-LFP-dat]]
 
 - [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-li-LFP-dat]]
 
@@ -24,13 +27,13 @@ legacy wiki page == https://www.electrodragon.com/w/LFP_Battery
 
 ## Quick Reference Parameter Matrix
 
-| Technical Parameter | Value (Per Cell) | Configuration Notes |
-| :--- | :--- | :--- |
-| **Nominal Voltage** | 3.20 V | Standard for calculating pack series ($S$) configurations |
-| **Max Charge Voltage** | 3.65 V | Hard threshold for Constant Voltage (CV) charging phase |
-| **Discharge Cut-off** | 2.50 V | Standard BMS protection trigger point |
-| **Cycle Life (to 80% SoC)** | 3,000+ Cycles | Evaluated at standard 1C charge/discharge rates |
-| **Charging Algorithm** | CC/CV | Constant Current followed by Constant Voltage tapering |
+| Technical Parameter         | Value (Per Cell) | Configuration Notes                                       |
+| :-------------------------- | :--------------- | :-------------------------------------------------------- |
+| **Nominal Voltage**         | 3.20 V           | Standard for calculating pack series ($S$) configurations |
+| **Max Charge Voltage**      | 3.65 V           | Hard threshold for Constant Voltage (CV) charging phase   |
+| **Discharge Cut-off**       | 2.50 V           | Standard BMS protection trigger point                     |
+| **Cycle Life (to 80% SoC)** | 3,000+ Cycles    | Evaluated at standard 1C charge/discharge rates           |
+| **Charging Algorithm**      | CC/CV            | Constant Current followed by Constant Voltage tapering    |
 
 
 
@@ -194,4 +197,4 @@ xiaolu - 3.2V15AH == 48Wh // 20x 48wh == 1000 Wh == 1kWh == 64V
 
 - [[battery-pack]]
 
-- [[battery-LFP]] - [[li-battery-material]] - [[li-battery]]
+- [[battery-li-LFP]] - [[li-battery-material]] - [[li-battery]] - [[battery]]

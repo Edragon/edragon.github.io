@@ -4,7 +4,7 @@
 
 - [[battery-volumn-dat]]
 
-- [[battery-LFP-20S-dat]] - [[battery-LFP-pack-dat]]
+- [[battery-LFP-20S-dat]] - [[battery-LFP-pack-dat]] - [[battery-LI-LFP-dat]]
 
 == 3.2V * 20 = 64V
 
