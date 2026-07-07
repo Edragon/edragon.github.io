@@ -17,6 +17,7 @@ Clasic RF LINK - [[RF-LINK-dat]]
 
 - pair - [[NWL1060-dat]]
 
+![](2026-07-07-18-30-13.png)
 
 - transmitter - [[NWL1021-dat]] - [[NWL1022-dat]]
 
