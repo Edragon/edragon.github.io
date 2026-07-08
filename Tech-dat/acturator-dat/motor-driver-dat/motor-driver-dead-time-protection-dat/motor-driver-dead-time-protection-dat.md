@@ -8,6 +8,7 @@
 
 
 
+## issue 
 
 The power capacitor did not explode, but the positive and negative terminals are shorted, and the MOSFET gates are also shorted.
 
@@ -40,6 +41,85 @@ The burned board is non-repairable and must be replaced. To ensure the new board
     If purchasing a new driver, avoid "naked" H-bridge chips like the MX1508. Consider micro-driver boards with built-in **dead-time/hardware interlocking** (e.g., modules based on **AT8236**, **DRV8871**, or **DRV8701**). These chips feature internal logic that forces a "brake" or "shutdown" if both IN1 and IN2 are high, preventing shoot-through at the hardware level.
 
 - [[AT8236-dat]] - [[DRV8871-dat]] - [[DRV8701-dat]] - [[motor-driver-dat]]
+
+## fix 
+
+### Fix 1: Switch from "Add" to "Multiply" (The Safest Software Fix)
+
+The safest way to handle tank steering on IN1/IN2 setups is to use **Multiplex ➔ Multiply (*)** instead of **Add** for your steering lines.
+
+When you use Multiply, steering doesn't try to force the opposite pin high or fight the throttle physics. Instead, it acts like a brake—it smoothly reduces power to one side to make a turn. 
+
+Change your **Line 2** mixing values to this:
+
+```text
+CH1 (Left Fwd): Line 2 ➔ Source = Ail, Weight = -100%, Multiplex = Multiply
+CH3 (Right Fwd): Line 2 ➔ Source = Ail, Weight = 100%, Multiplex = Multiply
+```
+
+(Do the same for the reverse channels CH2 and CH4, matching the steering polarities).
+
+**Why this fixes it:** If you are moving forward, IN1 is active and IN2 is completely dead at $0\text{V}$. When you steer, **Multiply** simply reduces the voltage on IN1 toward $0\text{V}$ to slow that track down. It never commands IN2 to turn on while moving forward, eliminating shoot-through short circuits entirely!
+
+
+To guarantee **100% absolute hardware protection** and prevent blowing another MOSFET or driver board, you need layered hardware containment. This setup physically protects your components from configuration mistakes, microsecond timing glitches, and mechanical stalls.
+
+### extra fix 
+
+#### 🧱 1. Safe Hardware Interlocking (Eliminates Shoot-Through)
+
+Relying entirely on remote control mixing leaves a tiny risk during receiver boot-up or unexpected signal losses. The single best defense is swapping out unprotected, fragile H-bridge chips (like the MX1508) for chips with **inherent cross-conduction protection**:
+
+* **DRV8871 / DRV8871-Q1:** Features automatic shoot-through protection and dead-time logic. Even if your software accidentally sends 3.3V to both `IN1` and `IN2` at the exact same time, the chip safely switches to internal brake mode instead of short-circuiting.
+* **AT8236:** Includes a hardware input interlock system and dead-time insertion, making it completely immune to software configuration errors.
+
+---
+
+#### ⚡ 2. Over-Current Isolation (Resettable Fuses)
+
+If a motor stalls or gets stuck mechanically, its current draw spikes instantly by $5\times$ to $10\times$, melting silicon before you can react.
+
+* **Action:** Solder a **PPTC Resettable Fuse (Polyfuse)** in series onto the positive power wire (`V+`) going to each motor.
+* **How it works:** When current spikes past a safe limit (e.g., matching your motor's nominal draw, like 2A), the polyfuse turns highly resistive and chokes the current down instantly. Once it cools down, it resets automatically. No blown MOSFETs.
+
+---
+
+#### 🛡️ 3. Optocoupler Signal Isolation (Protects the Receiver)
+
+When a driver board shorts, high voltage from the main battery line back-feeds through the burned Gate pins and destroys the receiver. 
+
+* **Action:** Wire a small **4-channel Optocoupler Isolation Module** (like a `TLP281` or `PC817` board) between the receiver's physical output pins and the driver board's inputs.
+* **How it works:** The receiver passes signals across an actual physical air gap inside the chip using a built-in infrared LED. There is **zero direct electrical connection** between the two sides. If the driver board fails, the damage is 100% contained—your ELRS receiver remains completely safe.
+
+---
+
+#### 📋 The Ultimate "Zero-Risk" Wiring Layout
+
+
+
+```text
+ [ Battery ] ──► [ Polyfuse ] ──► [ Safe Driver Board (DRV8871/AT8236) ]
+                                      ▲                  ▲
+                                      │ (IN1)            │ (IN2)
+                                 ┌────────────────────────────┐
+                                 │   4-Channel Optocoupler    │
+                                 └────────────────────────────┘
+                                      ▲                  ▲
+                                      │ (CH1)            │ (CH2)
+                                 [ ELRS 6xPWM Receiver Pinout ]
+
+
+```
+
+Software: Keep your RadioMaster Pocket configured to Multiply (*) mixing.
+
+Signal: Insert a cheap Optocoupler module between your receiver and driver. - [[Optocoupler-dat]]
+
+Driver: Swap out to a `DRV8871` or `AT8236` based driver board.
+
+Power: Add a Polyfuse to the motor lines. - [[fuse-dat]]
+
+
 
 
 ## ref 
