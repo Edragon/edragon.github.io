@@ -3,6 +3,8 @@
 # CONN-power-seperation-dat.md
 
 
+- [[conn-rc-dat]] - [[CONN-power-dat]]
+
 ## 并线端子 
 
 

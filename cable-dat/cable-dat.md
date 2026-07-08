@@ -2,6 +2,9 @@
 # cable-dat
 
 
+- [[cable-power-dat]] - [[conn-power-dat]] - [[conn-RC-dat]]
+
+
 - [[mechanical-cable-dat]] - [[wire-steel-dat]] - [[cable-dat]]
 
 

@@ -1,6 +1,9 @@
 
 # cable-XT-dat
 
+
+- [[conn-rc-dat]] - [[CONN-power-dat]]
+
 - [[cable-XT-dat]] - [[CONN-XT-dat]]
 
 ![](2025-05-12-13-40-35.png)

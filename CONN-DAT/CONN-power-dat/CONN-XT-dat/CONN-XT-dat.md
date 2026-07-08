@@ -1,6 +1,7 @@
 
 # CONN-XT-dat
 
+- [[conn-rc-dat]] - [[CONN-power-dat]]
 
 - [[cable-XT-dat]] - [[CONN-XT-dat]] - [[CONN-power-dat]] - [[CONN-deans-dat]]
 

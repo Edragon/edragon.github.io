@@ -2,6 +2,9 @@
 
 # cable-power-dat
 
+
+- [[conn-rc-dat]] - [[CONN-power-dat]]
+
 - [[conn-power-dat]] - [[cable-power-dat]]
 
 
