@@ -19,6 +19,10 @@
 - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]]
 
 
+- [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[motor-driver-design-dat]]
+
+
+
 ## Want to save channels AND keep Reverse?
 
 If your goal is to save channels because you want to use CH3 and CH4 for other things (like servos, lights, or standard ESCs), you can compress your setup down to 2 channels total while keeping full forward/backward control.

@@ -3,7 +3,7 @@
 
 # ELRS-TX-setup-motor-dual-dat
 
-- [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
+- [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[motor-driver-design-dat]] - [[mosfet-dat]]
 
 
 
@@ -14,6 +14,30 @@
 ## create a new model for this 
 
 ![](2026-07-06-19-52-56.png)
+
+
+
+## Issue Analysis: Burned Board Diagnosis == mosfet driver board 
+
+- [[motor-driver-dead-time-protection-dat]] - [[motor-driver-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[motor-driver-design-dat]] - [[mosfet-dat]]
+
+### Fix 1: Switch from "Add" to "Multiply" (The Safest Software Fix)
+
+The safest way to handle tank steering on IN1/IN2 setups is to use **Multiplex ➔ Multiply (*)** instead of **Add** for your steering lines.
+
+When you use Multiply, steering doesn't try to force the opposite pin high or fight the throttle physics. Instead, it acts like a brake—it smoothly reduces power to one side to make a turn. 
+
+Change your **Line 2** mixing values to this:
+
+```text
+CH1 (Left Fwd): Line 2 ➔ Source = Ail, Weight = -100%, Multiplex = Multiply
+CH3 (Right Fwd): Line 2 ➔ Source = Ail, Weight = 100%, Multiplex = Multiply
+```
+
+(Do the same for the reverse channels CH2 and CH4, matching the steering polarities).
+
+**Why this fixes it:** If you are moving forward, IN1 is active and IN2 is completely dead at $0\text{V}$. When you steer, **Multiply** simply reduces the voltage on IN1 toward $0\text{V}$ to slow that track down. It never commands IN2 to turn on while moving forward, eliminating shoot-through short circuits entirely!
+
 
 
 ## setup guide 

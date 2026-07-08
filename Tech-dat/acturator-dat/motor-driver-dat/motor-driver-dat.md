@@ -36,6 +36,8 @@
 
 ## tech 
 
+- [[motor-driver-dead-time-protection-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
+
 - [[PWM-chopper-type-motor-driver]] - [[FOC-dat]] - [[CC-CCW-control-dat]]
 
 - [[AC-mains-dat]] - [[motor-dat]] drive - [[IGBT-dat]]
@@ -142,6 +144,9 @@
 - [[AT8236-dat]] - [[TC118S-dat]] - [[EMC2301-dat]] - [[AT8549-dat]] - [[AT8833-dat]] - [[ATD5984-dat]] - [[AT8548-dat]] - [[AT8870-dat]] - [[AT8222-dat]] - [[AT8833-dat]] - [[AT8837-dat]] - [[ATD5833-dat]]
 
 - [[MX1508-dat]]
+
+- [[AT8236-dat]] - [[DRV8871-dat]] - [[DRV8701-dat]] - [[motor-driver-dat]]
+
 
 
 ## and more 

@@ -12,6 +12,16 @@
 - [[motor-dat]] == male - [[motor-driver-dat]] == female
 
 
+
+## entry level 
+
+- [[motor-dat]] == [[CONN-power-dat]] - [[CONN-power-dat]] == [[motor-driver-dat]] 
+
+- [[motor-driver-dat]] == [[CONN-deans-dat]] male - [[CONN-deans-dat]] female == [[battery-dat]] 
+
+
+
+
 ## ref 
 
 

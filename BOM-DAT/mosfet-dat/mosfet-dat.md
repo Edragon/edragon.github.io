@@ -9,6 +9,9 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 - [[mosfet-dat]] - [[mosfet-arrary-dat]] - [[mosfet-driver-dat]] - [[mosfet-rank-dat]]
 
+
+- [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[motor-driver-design-dat]] - [[mosfet-dat]]
+
 ## tech 
 
 - [[mosfet-driver-dat]] for high speed usage 

@@ -19,7 +19,7 @@
 
 - [[battery-failure-dat]]
 
-
+- [[battery-pack-solderless-dat]]
 
 
 ## BMS 
