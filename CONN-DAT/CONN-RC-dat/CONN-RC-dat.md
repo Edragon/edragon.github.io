@@ -3,6 +3,15 @@
 # CONN-RC-dat
 
 
+
+- [[XT60-dat]] - [[XT30-dat]] - [[cable-XT-dat]] - [[CONN-XT-dat]] - [[CONN-power-dat]]
+
+- [[CONN-bullet-dat]] - [[CONN-deans-dat]] - [[CONN-deans-dat]] - [[CONN-tamiya-dat]]
+
+
+
+
+
 - [[CONN-power-dat]] - [[conn-battery-dat]] - [[conn-rc-dat]] - [[CONN-dat]] - [[pitch-dat]]
   
 - [[CONN-deans-dat]] - [[CONN-tamiya-dat]]
@@ -39,7 +48,9 @@
 
 
 
+## combined connector 
 
+![](2026-07-08-16-22-26.png)
 
 
 ## ref 

@@ -1,6 +1,9 @@
 
 # CONN-XT-dat
 
+
+- [[cable-XT-dat]] - [[CONN-XT-dat]] - [[CONN-power-dat]] - [[CONN-deans-dat]]
+
 ### XT90 
 
 
@@ -19,6 +22,14 @@
 更小巧，适合微型无人机、轻量RC设备
 
 
+
+## combination cable 
+
+![](2026-07-08-16-07-45.png)
+
+connector 
+
+![](2026-07-08-16-11-43.png)
 
 
 ## ref 

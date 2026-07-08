@@ -1,12 +1,11 @@
 
 # CONN-power-dat
 
+- [[CONN-power-seperation-dat]]
 
 - [[CONN-XLR-dat]] - [[analog-dat]] - [[CONN-USB-dat]] - [[video-dat]] - [[sensor-camera-dat]] - [[camera-analog-dat]]
 
 - [[CONN-power-dat]] - [[conn-battery-dat]] - [[conn-rc-dat]] - [[CONN-dat]] - [[pitch-dat]]
-  
-- [[CONN-deans-dat]] - [[CONN-tamiya-dat]]
 
 - [[conn-power-dat]] - [[cable-power-dat]] - [[pitch-dat]]
 
@@ -17,8 +16,9 @@
 
 MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM/AS/EC
 
-- [[XT60-dat]] - [[XT30-dat]] - [[CONN-XT-dat]]
+- [[XT60-dat]] - [[XT30-dat]] - [[cable-XT-dat]] - [[CONN-XT-dat]] - [[CONN-power-dat]]
 
+- [[CONN-bullet-dat]] - [[CONN-deans-dat]] - [[CONN-deans-dat]] - [[CONN-tamiya-dat]]
 
 - [[HSC-dat]]
 

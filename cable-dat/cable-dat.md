@@ -41,6 +41,10 @@
 
 ## power cable 
 
+- [[cable-BV-dat]] - [[cable-BVR-dat]] - [[cable-RV-dat]] - [[cable-dat]]
+
+![](2026-07-08-15-56-58.png)
+
 ## BVR mutiple cores cable - 0.5mm^2 
 
 - inner area 0.5mm^2
