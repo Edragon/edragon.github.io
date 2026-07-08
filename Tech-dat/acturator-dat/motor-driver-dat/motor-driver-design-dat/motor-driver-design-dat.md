@@ -6,7 +6,7 @@
 
 - [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[logic-level-shifter-dat]] - [[PWM-dat]] - [[ESP32-S3-dat]] - [[ESP32-dat]]
 
-
+- [[motor-driver-mosfet-dat]] - [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[motor-driver-dead-time-protection-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
 
 
 - [[motor-driver-design-dat]] - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]]
