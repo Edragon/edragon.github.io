@@ -3,6 +3,12 @@
 # SDR1125-dat.md
 
 
+
+
+
+
+## tech 
+
 - [[kicad-dat]]
 
 - [[SDR1125-dat]] - [[CRSF-dat]] - [[ELRS-dat]]
@@ -106,7 +112,9 @@ control [[RC-dat]] setup
   Adafruit_NeoPixel pixels(NUMPIXELS, RGB_PIN, NEO_GRB + NEO_KHZ800);
 
 
+## test 
 
+- [[DRV8871-dat]] output 12V or -12V to motor
 
 ## ref 
 
