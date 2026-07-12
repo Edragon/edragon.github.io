@@ -1,7 +1,9 @@
 
 # mini-PCIE-dat
 
-- [[BTB-dat]]
+
+
+- [[mini-PCIE-dat]] - [[PCIE-dat]] - [[CONN-BTB-dat]]
 
 
 - 52-pin

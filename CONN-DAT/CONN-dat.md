@@ -65,7 +65,7 @@
 
 ## standard connector 
 
-- [[mini-pcie-dat]] == 52P
+- [[mini-PCIE-dat]] == 52P
 
 - [[pcie-dat]] == 52P
 

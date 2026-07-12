@@ -17,7 +17,7 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[decoder-mp3-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]]
+- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[decoder-mp3-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]]
 
 - [[robot-dat]] - [[robotic-dat]]
 

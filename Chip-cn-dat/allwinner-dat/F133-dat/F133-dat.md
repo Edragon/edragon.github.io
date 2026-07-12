@@ -149,7 +149,7 @@ datasheet - [[F133_Datasheet_V1.0_whycan.pdf]]
 
 ## ref 
 
-- [[mini-pcie-dat]]
+- [[mini-PCIE-dat]]
 
 - [[F133-dev]] - [[F133]] - [[allwinner]]
 
