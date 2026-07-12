@@ -59,7 +59,7 @@
 
 - [[dcdc-boost-down-dat]]
 
-- [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]]
+- [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]] - [[battery-lead-acid-dat]]
 
 - [[battery-BMS-dat]] - [[BMS-active-dat]] - [[BMS-passive-dat]] - [[battery-protector-dat]]
 
@@ -240,6 +240,8 @@
 ## EDA
 
 - [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]] - [[fritzing.org-dat]]
+
+- [[kicad-PCB-dat]]
 
 ## simulator 
 

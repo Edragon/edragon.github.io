@@ -73,6 +73,11 @@ Useful when aligning visually or placing text/graphics
 
 
 
+## grid 
+
+![](2026-07-12-16-24-12.png)
+
+
 ## text 
 
 Edit Text & Graphics Properties.. 
