@@ -25,8 +25,9 @@ Ogg Vorbis/MP3/AAC/WMA/FLAC/MIDI AUDIO CODEC CIRCUIT
 
 ## SCH 
 
-- [[NE5532-dat]]
+- [[NE5532-dat]] - [[ESP8266-dat]]
 
+SCH from KA radio opensource project 
 
 ![](2026-03-05-14-49-00.png)
 

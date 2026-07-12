@@ -37,6 +37,8 @@
 
 - [[Maxim-dat]]
 
+- [[VS1053-dat]]
+
 
 ## tech 
 
