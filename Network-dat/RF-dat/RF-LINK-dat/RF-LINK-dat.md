@@ -68,6 +68,8 @@ fixed (welding code) code
 
 - [[RF600-dat]] 
 
+- [[WL-dat]]
+
 2264、2262、2260、2240、1527、527、SMC918
 
 -  clones of the PIC12xxx == [[PIC12-dat]] - [[PIC-dat]]

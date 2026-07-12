@@ -13,9 +13,7 @@
 
 - [[OPA1641-dat]]
 
-- [[TI-AMP-dat]]
-
-- [[TI-audio-dat]]
+- [[TI-AMP-dat]] - [[TI-audio-dat]]
 
 - [[TI-logic-dat]]
 

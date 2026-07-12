@@ -29,6 +29,9 @@ TPA6205A1 1.25-W Mono Fully Differential Audio Power Amplifier With 1.8-V Input 
 
 - [[amplifier-audio-dat]]
 
+- [[TPA6132-dat]] - [[TPA5050-dat]] - `AIWI TI11J` 
+
+
 
 ## ref 
 
