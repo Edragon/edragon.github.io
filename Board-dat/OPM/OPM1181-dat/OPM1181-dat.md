@@ -13,6 +13,8 @@ read more information at chip page [[CN3768-dat]]
 
 0.15V / 0.05 R = 2.4A
 
+0.15V / 4A == 0.0375 R
+
 ## Note 
 
 Notice if you run high charging current, add heat sink on backside would be good.
@@ -27,7 +29,9 @@ Please note it may take a long time to fully charge a battery.
 ![](2023-10-25-14-57-35.png)
 
 
+## apps 
 
+- [[OBD-dat]] - [[car-dat]] - [[battery-Lead-acid-dat]] - [[Cigarette-Lighter-dat]] - [[OPM1181-dat]]
 
 ## ref
 

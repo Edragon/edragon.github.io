@@ -81,5 +81,5 @@ Notes:
 
 ## References
 
-- [DSE-CN3768.pdf] — CN3768 datasheet / application notes
+- [[DSE-CN3768.pdf]] — CN3768 datasheet / application notes
 
