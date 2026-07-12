@@ -4,6 +4,14 @@
 - [[OBD-dat]] - [[car-dat]] - [[battery-Lead-acid-dat]] - [[Cigarette-Lighter-dat]] - [[OPM1181-dat]]
 
 
+是的，汽车点烟器插座的中间圆头（底部的中心触点）是正极（+），而外侧的金属壁（弹片）是负极（-）。
+
+当你插入车载充电器或点烟器头时：
+
+中心弹簧触头：顶在插座最深处的中间圆头上，接入正极。
+
+两侧的金属卡子/弹片：贴在插座的内壁上，接入负极（通常与汽车底盘地线相连）。
+
 
 
 ## charging - How to Safely Charge an External Lead-Acid Battery via the 12V Cigarette Lighter Socket
