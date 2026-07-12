@@ -1,6 +1,12 @@
 
 # OPM1181-dat 
 
+
+[12V Lead-acid Battery Charger Module CN3768](https://www.electrodragon.com/product/12v-lead-acid-battery-charger-module-cn3768/)
+
+
+
+
 read more information at chip page [[CN3768-dat]]
 
 ## Set charged current at 
