@@ -267,7 +267,7 @@ YR1035+
 
 ![](2025-08-19-23-54-50.png)
 
-- [[internal-resistance-meter-dat]]
+- [[meter-internal-resistance-dat]]
 
 ## unbalance Series and Parallel 
 

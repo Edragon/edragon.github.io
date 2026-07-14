@@ -1,7 +1,7 @@
 
 # internal-resistance-dat
 
-- [[internal-resistance-meter-dat]] - [[tools-dat]]
+- [[meter-internal-resistance-dat]] - [[tools-dat]]
 
 
 ## New 12V Lead-Acid Scooter Battery - Internal Resistance
@@ -39,7 +39,7 @@ A healthy new 18650 battery typically has 0.03–0.08 Ω internal resistance, wi
 
 ## tools 
 
-- [[internal-resistance-meter-dat]]
+- [[meter-internal-resistance-dat]]
 
 
 

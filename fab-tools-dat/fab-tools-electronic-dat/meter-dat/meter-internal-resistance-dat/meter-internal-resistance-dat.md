@@ -1,4 +1,8 @@
-# internal-resistance-meter-dat
+# meter-internal-resistance-dat
+
+
+- [[meter-internal-resistance-dat]] - [[meter-resistance-dat]] - [[meter-dat]] 
+
 
 - [[battery-tools-dat]] - [[internal-resistance-dat]] - [[resistor-dat]]
 

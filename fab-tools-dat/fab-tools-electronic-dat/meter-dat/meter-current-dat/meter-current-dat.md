@@ -2,6 +2,9 @@
 
 # meter-current-dat.md
 
+
+- [[meter-dat]] 
+
 == memter am 
 
 == ammeter == ampere meter == current meter

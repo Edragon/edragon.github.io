@@ -1,8 +1,11 @@
 
 
-# Coulomb-Meter-dat
+# Meter-Coulomb-dat
 
-- [[fab-tools-dat]] - [[Coulomb-Meter-dat]] - [[battery-tools-dat]]
+- [[meter-dat]] 
+
+
+- [[fab-tools-dat]] - [[Meter-Coulomb-dat]] - [[battery-tools-dat]]
 
 A **Coulombmeter** (also spelled **Coulomb Meter** or called a **Coulomb Counter**), in the context of battery electronics, is a high-precision instrument or integrated circuit used to measure **electrical charge**. 
 

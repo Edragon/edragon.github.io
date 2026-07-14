@@ -8,7 +8,7 @@
 - [[battery-tools-dat]]
 
 - capacity - [[electronic-loader-dat]]
-- internal resistance == discharge current - [[internal-resistance-meter-dat]]
+- internal resistance == discharge current - [[meter-internal-resistance-dat]]
 
 
 

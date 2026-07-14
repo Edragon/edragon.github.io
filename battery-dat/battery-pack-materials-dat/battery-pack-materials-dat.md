@@ -23,7 +23,7 @@ holder
 - [[fab-tools-dat]] - [[soldering-tools-spot-welding-dat]]
 
 - capacity - [[electronic-loader-dat]]
-- internal resistance == discharge current - [[internal-resistance-meter-dat]]
+- internal resistance == discharge current - [[meter-internal-resistance-dat]]
 
 [LittloKala M4S](https://www.liito-kala.com/page92?product_id=31)
 

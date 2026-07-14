@@ -1,7 +1,10 @@
 
 # current-sensor-dat.md
 
-- [[fab-tools-dat]]
+
+
+
+- [[fab-tools-dat]] - [[meter-dat]] 
 
 - [[sensor-voltage-dat]] - [[sensor-dc-voltage-dat]] - [[meter-voltage-dat]] - [[SVC1049-dat]] - [[SVC1017-dat]] 
 

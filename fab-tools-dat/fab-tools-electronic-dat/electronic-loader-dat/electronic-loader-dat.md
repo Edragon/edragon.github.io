@@ -3,7 +3,7 @@
 
 - [[KP182-dat]] - [[IT8511A-dat]]
 
-- [[battery-tools-dat]] - [[internal-resistance-meter-dat]] - [[electronic-loader-dat]] - [[lab-power-dat]]
+- [[battery-tools-dat]] - [[meter-internal-resistance-dat]] - [[electronic-loader-dat]] - [[lab-power-dat]]
 
 
 
