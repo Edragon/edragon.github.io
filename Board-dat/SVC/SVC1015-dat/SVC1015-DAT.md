@@ -56,6 +56,11 @@
 
 ## Shunt
 
+- [[resistor-shunt-dat]] - [[resistor-burden-dat]] - [[SVC1015-dat]]
+
+
+
+
 Note: There is a meter with a shunt. The two thick red wires on the meter must be connected to the thin screws of the shunt. The negative pole of the power supply and the negative pole of the load must be connected to the thick screws of the shunt.
 
 ## FAQ

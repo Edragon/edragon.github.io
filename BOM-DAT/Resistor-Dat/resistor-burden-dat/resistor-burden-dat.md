@@ -2,6 +2,7 @@
 # burden-resistor-dat
 
 
+- [[resistor-shunt-dat]] - [[resistor-burden-dat]] - [[SVC1015-dat]]
 
 
 

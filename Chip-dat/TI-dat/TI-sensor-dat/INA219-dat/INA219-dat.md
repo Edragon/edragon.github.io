@@ -68,4 +68,4 @@ Test result is:
 
 - CN datasheet - [[INA219.pdf]]
 
-- [[shunt-resistor-dat]] - [[power-meter-dat/power-sensor-dat]] - [[INA226-dat]]
+- [[resistor-shunt-dat]] - [[power-meter-dat/power-sensor-dat]] - [[INA226-dat]]

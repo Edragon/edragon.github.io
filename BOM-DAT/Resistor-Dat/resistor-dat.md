@@ -4,7 +4,7 @@
 
 - [[resistor-trim-pot-digital-dat]] - [[resistor-trim-pot-dat]] - [[resistor-dat]]
 
-- [[shunt-resistor-dat]] - [[resistor-trim-pot-dat]]
+- [[resistor-shunt-dat]] - [[resistor-trim-pot-dat]]
 
 - [[Thermistor-dat]]（thermal + resistor)
 
