@@ -164,7 +164,7 @@
 
 ### Sensors and actuator 
 
-- [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[meter-resistance-dat]] - [[sensor-energy-dat]]
+- [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[sensor-energy-dat]]
 
 - [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]]
 
@@ -315,7 +315,9 @@
 
 - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-soldering-dat]] - [[footprint-dat]]
 
-- [[tools-dat]] - [[multimeter-dat]]
+- [[fab-tools-dat]] 
+
+- [[meter-dat]] - [[meter-resistance-dat]] - [[multimeter-dat]] - [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-voltage-current-dat]]
 
 - [[case-dat]]
 

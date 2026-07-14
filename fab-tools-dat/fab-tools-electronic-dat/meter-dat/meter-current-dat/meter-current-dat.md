@@ -2,6 +2,8 @@
 
 # meter-current-dat.md
 
+use [[meter-voltage-current-dat]] instead of [[meter-current-dat]] only 
+
 
 - [[meter-dat]] 
 
@@ -20,11 +22,21 @@
 
 
 
-
-
 - [[meter-current-dat]] - 10A [[SVC1022-dat]] - 50A [[SVC1023-dat]] - 100A [[SVC1024-dat]]
 
 - [[SVC1000-dat]] - [[SVC1002-dat]] - [[SVC1004-dat]] - [[ACS712-dat]]
+
+
+
+## wiring 
+
+seperated power 
+
+![](2026-07-14-15-45-57.png)
+
+Shared power 
+
+![](2026-07-14-15-47-09.png)
 
 
 ## ref 
