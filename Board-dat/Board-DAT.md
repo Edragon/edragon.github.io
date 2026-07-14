@@ -78,8 +78,8 @@ AVR
 
 ### DOD
 
-[[avr-sdk-dat]]
-- [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]] - [[DOD1060-dat]]
+[[avr-sdk-dat]] - [[AVR-dat]]
+- [[DOD1046-dat]] - [[DOD1071-DAT]] - [[DOD1074-DAT]] - [[DOD1060-dat]] - [[DOD1100-dat]]
 
 [[RISC-V-dat]]
 CH32V003 - SOP8
@@ -585,6 +585,8 @@ Darlinton driver - [[SCU1024-dat]] == [[stepper-dat]]
 - [[SDR1050-dat]]
 
 - [[SDR1125-dat]]
+
+- [[SDR1042-dat]] - 
 
 
 ### SMO

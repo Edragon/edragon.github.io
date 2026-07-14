@@ -2,7 +2,7 @@
 # peripherals-dat
 
 
-
+- [[peripherals-dat]] - [[atmega2560-dat]] - [[AVR-dat]] - [[DOD1100-dat]]
 
 ## AI relevant 
 
