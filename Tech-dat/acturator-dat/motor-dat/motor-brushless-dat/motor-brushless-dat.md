@@ -24,6 +24,11 @@
 
 - [[ESC-dat]] - [[motor-brushless-dat]]
 
+- [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]] - [[motor-FPV-dat]] 
+
+## app 
+
+- [[mobula8-dat]] - [[mobula7-dat]] - [[mobula6-dat]] - [[FPV-dat]] - [[motor-brushless-dat]]
 
 ## board 
 
@@ -31,6 +36,127 @@
 
 
 ## specs 
+
+- [[EX1103-dat]] 
+
+## The Breakdown: 9N12P
+
+### **9N = 9 Slots (定子槽数)**
+* **What it means:** The **N** stands for **Number of Slots** (or poles/teeth) on the stationary part of the motor (the stator). These are the copper-wire-wound iron cores that create electromagnetic fields when current passes through them.
+* **Characteristics:** A 9-slot stator has 9 distinct electromagnets arranged radially.
+
+### **12P = 12 Poles (转子磁极数)**
+* **What it means:** The **P** stands for **Number of Permanent Magnet Poles** on the rotating part of the motor (the rotor). 
+* **Crucial Note:** This refers to the *total number of individual magnetic poles* (North and South poles counted separately), **not** pole pairs. 
+* **Characteristics:** A 12P motor has 12 permanent magnets arranged around the rotor (alternating North-South-North-South). This is equivalent to **6 Pole Pairs**.
+
+---
+
+### Why This Configuration Matters
+
+The ratio of slots (N) to poles (P) determines the motor’s running characteristics, winding factor, and structural efficiency. 
+
+#### 1. Winding Factor & Efficiency
+A **9N12P** configuration is a classic, highly efficient combination. Because 9 and 12 share a common factor, it allows for a concentrated fractional-slot winding layout (usually using an **AabBCcaAB** or similar winding scheme). This results in a high winding factor, meaning the motor converts electrical energy into magnetic torque very efficiently.
+
+#### 2. Smoothness and Cogging Torque
+The relationship between slots and poles determines the **Cogging Torque** (the bumpy resistance you feel when turning the motor by hand while it's powered off). 
+* The frequency of the cogging torque is determined by the `Least Common Multiple (LCM)` of the slots and poles. 
+* For 9 and 12, $\text{LCM}(9, 12) = 36$. 
+* A higher LCM means the cogging torque steps are distributed finely across a single rotation, resulting in **lower cogging vibration, smoother low-speed rotation, and quieter operation**.
+
+
+What Does an LCM of 12 Mean in Practice?
+
+This means the motor will experience exactly **12 cogging torque steps (or "clicks") per complete $360^\circ$ mechanical revolution**. 
+
+Compared to the 9N12P motor we looked at earlier ($\text{LCM} = 36$), a 6N12P motor behaves very differently:
+
+#### 🔴 High Cogging Torque (Rougher Rotation)
+Because the LCM is so low (12 vs 36), the magnetic alignments repeat much less frequently but with much greater force. When you turn a 6N12P motor by hand, you will feel **strong, highly distinct, distinct "notches" or bumps**. 
+
+#### 🔴 Poorer Low-Speed Smoothness
+An LCM of 12 means the cogging transitions are wide apart ($30^\circ$ of mechanical rotation per step). At very low speeds, the motor will struggle to rotate smoothly and may exhibit noticeable jitter or vibration (often called "cogging") unless managed by an exceptionally high-end Field-Oriented Control (FOC)電调.
+
+#### 🟢 Easy/Symmetrical Winding
+On the hardware side, because the pole count is exactly double the slot count ($12 = 2 \times 6$), the winding scheme is incredibly straightforward (typically a simple alternate **A-B-C-A-B-C** or concentrated all-teeth winding).
+
+
+Quick Comparison
+
+| Motor Configuration | LCM (Cogging Steps/Rev) | Feel When Turned by Hand | Low-Speed Smoothness |
+| :--- | :--- | :--- | :--- |
+| **9N12P** | **36** | Tight, fine, smooth clicks | Very Smooth (Great for Gimbals/Robotics) |
+| **6N12P** | **12** | Heavy, clunky, wide notches | Rougher (Requires high-frequency FOC to smooth out) |
+
+#### 3. High Torque Density
+Because the pole count (12P / 6 pole pairs) is relatively high for a 9-slot stator, this configuration is excellent for producing **high torque at lower RPMs**. It is commonly found in gimbal motors, small outrunner drone motors, and robotics actuators where torque density and smoothness are prioritized over extreme top-end speeds.
+
+
+
+The core parameters of a brushless motor (BLDC / PMSM) directly determine its torque, speed, heat generation, and requirements for the electronic speed controller (ESC) and power supply. When selecting or debugging a motor, the following major parameters are the most critical:
+
+---
+
+### 1. Core Electrical & Mechanical Parameters
+
+#### **KV Rating (RPM/V, Motor Velocity Constant)**
+* **Definition:** The number of revolutions per minute (RPM) that the motor turns when a **1V** potential is applied with no load.
+  $$\text{No-Load RPM} = \text{KV Rating} \times \text{Working Voltage}$$
+* **Characteristics:**
+  * **High KV:** Fewer turns of thicker wire. It has low internal resistance and is ideal for lower voltages with smaller propellers or low gear ratios, aiming for **extreme speed** (e.g., racing drones, high-speed fans).
+  * **Low KV:** More turns of thinner wire. It has higher internal resistance and is ideal for higher voltages with larger propellers or high gear ratios, aiming for **high torque/thrust** (e.g., aerial photography drones, robotic joints, direct-drive systems).
+
+#### **Pole Pairs**
+* **Definition:** The number of **magnetic pole pairs** formed by the permanent magnets on the rotor (Note: Number of Poles = 2 × Pole Pairs). For example, a "14P" motor has 14 magnetic poles, which equals 7 pole pairs.
+* **Impact:**
+  * More pole pairs generally increase the torque density (higher low-speed torque), but the ESC must switch the current phase at a much higher frequency (electrical frequency):
+    $$\text{Electrical Frequency} = \text{Mechanical RPM} \times \frac{\text{Pole Pairs}}{60}$$
+  * At very high RPMs, an excessively high pole pair count demands substantial processing power and rapid commutation capability from the ESC.
+
+#### **Internal Resistance (Phase Resistance / $R_m$)**
+* **Definition:** The DC resistance measured between the motor phases (typically in milliohms, $\text{m}\Omega$).
+* **Impact:** Internal resistance directly dictates the heat generated by the motor (copper loss, $I^2R$) and its overall efficiency. Lower internal resistance means less heat generation under high current loads, higher efficiency, and greater maximum output power.
+
+#### **No-Load Current ($I_0$)**
+* **Definition:** The current consumed by the motor when rotating freely at its rated voltage with zero external load.
+* **Impact:** This current is primarily spent overcoming internal mechanical friction and iron losses (hysteresis and eddy current losses). A lower $I_0$ indicates better mechanical precision and magnetic circuit design, yielding higher efficiency under light loads.
+
+---
+
+### 2. Power & Limit Parameters
+
+#### **Max Continuous Current**
+* **Definition:** The maximum current the motor can safely handle for an extended period under proper airflow and cooling conditions.
+* **Impact:** Exceeding this threshold for too long causes excessive heat, which can melt the winding insulation (burning out the motor) or permanently demagnetize the permanent magnets.
+
+#### **Max Continuous Power**
+* **Definition:** The maximum power input or output ($W = V \times I$) the motor can sustain safely.
+* **Selection Guide:** It is standard practice to select a motor that provides a **20% - 50%** safety margin above the calculated power requirement of the intended application.
+
+#### **Max Voltage / LiPo Cells**
+* **Definition:** The maximum input voltage permitted by the motor's insulation rating and bearing RPM limits. It is commonly specified by the maximum number of lithium polymer battery cells supported (e.g., 2S-4S, 6S, 12S).
+
+---
+
+### 3. Common Model Naming Standard
+
+Most brushless motors (especially outrunner styles used in hobby electronics and robotics) utilize a 4-digit naming convention (e.g., **2212** or **2807**):
+
+* **First Two Digits:** Indicate the **Stator Core Diameter** in millimeters.
+* **Last Two Digits:** Indicate the **Stator Core Height** in millimeters.
+
+
+
+> ⚠️ **Note:** A larger stator size can accommodate more copper wire turns and larger magnets, yielding higher torque and power capacity. However, a few manufacturers (like some RC car motor brands) use the external outer dimensions of the motor housing instead. Always cross-check the official technical drawing during selection.
+
+---
+
+### 4. Sensor Interface Types
+
+* **Sensorless:** The motor does not contain internal position sensors. The ESC relies on detecting the Back Electromotive Force (Back-EMF) from the unpowered phase to determine rotor position. This design is robust, waterproof, and mechanically simple, but it is prone to **cogging/jitter at zero speed or during low-speed startup**.
+* **Sensored:** The motor integrates **Hall-effect sensors** or a high-resolution **encoder**. The ESC knows the exact rotor position even at a complete standstill. This setup delivers **massive low-speed torque and exceptionally smooth startup**, making it indispensable for industrial automation, robotic arms, servo control systems, and precision low-speed drivetrains.
+
 
 ### 🛴 Scooter BLDC Comparison: Weight vs. Performance
 

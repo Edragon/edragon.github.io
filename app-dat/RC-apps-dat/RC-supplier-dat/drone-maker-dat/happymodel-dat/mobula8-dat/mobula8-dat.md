@@ -9,7 +9,7 @@
 
 - [[FPV-accesories-dat]]
 
-- [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]] - [[motor-FPV-dat]]
+- [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]] - [[motor-FPV-dat]] 
 
 
 - [[mobula8-dat]] - [[X12-dat]]

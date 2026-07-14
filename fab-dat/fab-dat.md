@@ -19,7 +19,7 @@
 
 - [[fab-stencil-dat]]
 
-- [[fab-mech-dat]] - [[3d-print-dat]] - [[CNC-dat]] - [[case-dat]]
+- [[fab-mechanics-dat]] - [[fab-3d-print-dat]] - [[fab-CNC-dat]] - [[case-dat]]
 
 - [[sheet-metal-fab-dat]]
 
@@ -34,6 +34,19 @@
 - [[fab-stencil-dat]]
 
 - [[CNC-dat]] 
+
+
+## product
+
+- [[fab-mechanics-dat]] 
+
+- [[fab-product-dat]] - [[fab-3d-print-dat]] - [[fab-CNC-dat]] - [[case-dat]]
+
+- [[fab-molding-dat]] - [[fab-laser-cutting-dat]] - [[fab-sheet-metal-dat]]
+
+- [[fab-silk-print-dat]]
+
+
 
 
 ## fab 

@@ -1,8 +1,13 @@
 # fab-product-dat
 
+
+
+- [[fab-bending-dat]] - [[fab-product-dat]]
+
+
 - [[3d-prototype-dat]] - [[CAD-dat]]
 
-- [[fab-mech]]
+- [[fab-mechanics-dat]]
 
 ## small scale and prototype preparation  
 

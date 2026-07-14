@@ -1,6 +1,7 @@
 
 # rod-dat
 
+- [[fab-bending-dat]]
 
 - [[shaft-dat]] - [[tube-dat]] - [[rod-dat]] - [[lead-screw-dat]]
 

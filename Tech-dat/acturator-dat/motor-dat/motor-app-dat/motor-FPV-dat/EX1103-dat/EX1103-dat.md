@@ -21,6 +21,9 @@
 - 24750RPM	
 - 65mm bi-blades
 
+![](2026-07-14-19-05-13.png)
+
+
 - [[Thrust-dat]]
 
 | Voltage (V) | Throttle (%) | Thrust (g) | Power (W) | Efficiency (g/W) | RPM  |

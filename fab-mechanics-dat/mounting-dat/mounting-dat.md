@@ -1,6 +1,9 @@
 
 # mounting-dat
 
+
+- [[glue-dat]] - [[mounting-dat]] - [[installation-dat]]
+
 - [[glue-dat]]
 
 - often remove options - [[velcro-dat]] - velcro-strap
