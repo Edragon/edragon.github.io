@@ -1,7 +1,10 @@
 
 # DRV8825-dat
 
-- [[SDR1042-dat]] [[A4988-dat]] - [[DRV8825-dat]] - [[SDR1040-dat]]
+- [[SDR1042-dat]] [[A4988-dat]] - [[DRV8825-dat]] - [[SDR1040-dat]] - [[motor-driver-stepper-dat]]
+
+
+
 
 ## Info 
  
