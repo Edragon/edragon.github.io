@@ -49,7 +49,7 @@
 
 - [[HT8691-dat]] - [[heroic-dat]] - [[amplifier-audio-dat]]
 
-
+- [[PCM1808-dat]] - [[I2S-dat]]
 
 ## chip 
 

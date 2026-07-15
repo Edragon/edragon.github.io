@@ -22,6 +22,9 @@
 
 - [[LK513-dat]] - [[LKS-dat]] - [[sytatek-dat]] - [[motor-driver-BLDC-dat]]
 
+AT8313QNR QFN-36 2.5A 三路半桥集成驱动芯片 三相直流无刷
+
+
 
 ### FOC (Field Oriented Control) Explained
 

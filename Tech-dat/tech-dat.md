@@ -166,7 +166,7 @@
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[sensor-energy-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]]
+- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-temperature-non-contact-dat]]
 
@@ -208,11 +208,11 @@
 
 - [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]] - [[I2S-dat]]
 
-- [[ADC-dat]] - [[DAC-dat]]
+- [[ADC-dat]] - [[DAC-dat]] - [[converter-dat]] - [[LDC-dat]]
 
 - [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
 
-- [[amplifier-dat]] - [[codec-dat]] - [[op-amp-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]]
+- [[amplifier-dat]] - [[codec-dat]] - [[amp-op-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]] - [[amplifier-GNSS-dat]]
 
 - [[filter-dat]]
 

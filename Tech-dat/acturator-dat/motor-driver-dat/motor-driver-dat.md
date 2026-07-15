@@ -9,7 +9,7 @@
 
 - [[motor-brushed-dat]] - [[motor-driver-dc-dat]] 
 
-- [[motor-brushless-dat]] - [[ESC-dat]]
+- [[motor-brushless-dat]] - [[ESC-dat]] - [[motor-driver-BLDC-dat]]
 
 
 - [[motor-dat]] - [[motor-driver-DC-dat]] - [[motor-driver-rc-dat]] - [[motor-driver-dat]]
@@ -145,7 +145,11 @@
 
 - [[MX1508-dat]]
 
-- [[AT8236-dat]] - [[DRV8871-dat]] - [[DRV8701-dat]] - [[motor-driver-dat]]
+- [[DRV8871-dat]] - [[DRV8701-dat]] - [[motor-driver-dat]]
+
+- [[zhongkewei-dat]] - [[motor-driver-dat]]
+
+
 
 ### chip SOP8
 

@@ -14,6 +14,8 @@
 
 - [[RDA5807-dat]] - [[RDA-dat]] - [[radio-FM-dat]] - [[radio-dat]] - [[jieli-dat]]
 
+- [[RDA5820-dat]]
+
 
 ## board
 

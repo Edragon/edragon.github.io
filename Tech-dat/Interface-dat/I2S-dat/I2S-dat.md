@@ -164,6 +164,16 @@ https://github.com/miketeachman/micropython-i2s-examples
 - [[robot-dat]] - [[robot]]
 
 
+## wiring 
+
+- [[PCM1808-dat]]
+
+four wires - [[I2S-dat]]
+
+
+![](2026-07-15-20-11-06.png)
+
+
 ## ref
 
 audio amplifer - [[audio-dat]] - [[amplifier-dat]] - [[CS4344-dat]]

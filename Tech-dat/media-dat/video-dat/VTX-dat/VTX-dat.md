@@ -1,7 +1,7 @@
 
 # VTX-dat
 
-
+- [[OSD-dat]] - [[VTX-dat]]
 
 
 - [[ESC-dat]] - [[RX-dat]] - [[VTX-dat]] [[FC-dat]] - [[AIO-dat]] - [[flight-controller-dat]] - [[crazybee-dat]] - [[whoop-dat]]
