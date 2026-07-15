@@ -3,8 +3,12 @@
 
 - [[capacitor-dat]]
 
-- [[filter-dat]] - [[EMI-dat]] - [[filter-high-pass-dat]]
+- [[filter-dat]] - [[filter-high-pass-dat]] - [[filter-low-pass-dat]] - [[low-pass-rc-filter-dat]]
 
+
+
+
+- [[EMI-dat]] 
 
 ## FGDS 
 

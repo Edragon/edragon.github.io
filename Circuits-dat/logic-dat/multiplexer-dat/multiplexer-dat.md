@@ -6,7 +6,7 @@
 
 - [[Multiplexer-dat]] - [[74xx-dat]]
 
-
+- [[74HC4067-dat]]
 
 74HC4051; 74HCT4051 - 8-channel analog multiplexer/demultiplexer
 

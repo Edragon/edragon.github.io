@@ -2,6 +2,10 @@
 
 # projects-dat.md
 
+
+- [[projects-dat]] - [[github-projects-dat]] - [[bilibili-projects-dat]] - [[youtube-projects-dat]] 
+
+
 - [[robotic-project-list-dat]] - [[projects-dat]]
 
 fun / learnable / popular projects, sort by date 

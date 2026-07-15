@@ -317,7 +317,7 @@
 
 - [[fab-tools-dat]] 
 
-- [[meter-dat]] - [[meter-resistance-dat]] - [[multimeter-dat]] - [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-voltage-current-dat]]
+- [[meter-dat]] - [[meter-resistance-dat]] - [[multimeter-dat]] - [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-voltage-current-dat]] - [[meter-energy-dat]]
 
 - [[case-dat]]
 

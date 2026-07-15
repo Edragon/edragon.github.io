@@ -2,6 +2,10 @@
 # analog-device-dat.md
 
 
+
+- [[analog-device-dat]] - [[ADE7953-dat]]
+
+
 - [[analog-device-dat]] - [[maxim-dat]]
 
 

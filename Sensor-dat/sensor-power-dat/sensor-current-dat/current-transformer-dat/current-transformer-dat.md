@@ -1,8 +1,12 @@
 # current-transformer-dat
 
-- [[current-sensor-dat]]
+- [[sensor-current-dat]]
 
+- [[current-transformer-dat]] - [[ADE7953-dat]]
 
+- [[filter-low-pass-dat]] - [[filter-dat]]
+
+== a low-pass filter (1 kΩ / 33 nF)
 
 ## tech 
 
@@ -86,6 +90,13 @@ ZHT103U series, current output type, with wire leads
 - Typical applications: Power network meters, power transmitters, ammeters, measurement and control devices, etc.
 
 ![](2025-12-16-19-38-32.png)
+
+
+## SCH 
+
+16 channels 
+
+![](2026-07-15-16-45-07.png)
 
 ## ref 
 
