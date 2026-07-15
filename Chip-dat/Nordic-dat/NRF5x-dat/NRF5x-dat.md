@@ -1,6 +1,27 @@
 
 # NRF5x-dat
 
+
+## chip 
+
+`NRF5340`-QKAA-R AQFN-94 双核蓝牙5.2低功耗BLE无线微控制器
+
+`NRF54L15`-QFAA-R QFN-48 低功耗蓝牙BLE无线 MCU微控制器芯片
+
+`NRF52840`-CKAA-R7 WLCSP-93蓝牙5.2低功耗BLE无线MCU微控制器
+
+`NRF52840`-QFAA-F-R7 QFN-48 蓝牙5.2低功耗BLE无线 微控制器
+
+NRF52833-QIAA-R QFN-73 蓝牙5.3低功耗BLE无线 微控制器芯片
+
+NRF52820-QDAA-R QFN-40 蓝牙5.2低功耗BLE无线微控制器芯片
+
+NRF52810-QFAA-R UQFN-48 蓝牙5.0低功耗BLE无线微控制器芯片
+
+NRF52805-CAAA-R WLCSP-28低功耗蓝牙5.0、2.4GHz无线SoC芯片
+
+
+
 - [[NRF52810-dat]] - [[NRF51822-dat]] - [[NRF52832-dat]] - [[NRF52840-dat]]
 
 - [[ARM-dat]]

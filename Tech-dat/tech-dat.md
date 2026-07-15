@@ -181,7 +181,7 @@
 
 - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]] - [[motor-driver-design-dat]] - [[motor-driver-mosfet-dat]]
 
-- [[relay-dat]] - [[SSR-dat]]
+- [[relay-dat]] - [[relay-SSR-dat]]
 
 - [[laser-dat]] - [[laser-module-dat]]
 
@@ -283,7 +283,7 @@
 
 - [[logic-level-shifter-dat]]
 
-- [[Optical-Coupler-DAT]]
+- [[Optical-Coupler-DAT]] - [[optical-coupler-SSR-driver-dat]]
 
 
 ## MOD

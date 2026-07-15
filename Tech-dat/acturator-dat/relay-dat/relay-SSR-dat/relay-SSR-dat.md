@@ -1,6 +1,17 @@
 
 # SSR-relay-dat
 
+- [[Optical-Coupler-DAT]] - [[relay-SSR-dat]] - [[relay-dat]]
+
+
+
+ELM440A(TA)(BMS)-VG SOP-4 固态继电器光耦
+
+ELM406A(TA)-G SOP-4 固态继电器光耦 60V
+
+KAQY214STLD SOP-4固态继电器光耦1路常开400V/0.13A隔离电压
+
+- [[everlight-dat]] - [[ELM4xx-dat]] - [[relay-SSR-dat]]
 
 
 ## drawbacks of the SSR relay 
