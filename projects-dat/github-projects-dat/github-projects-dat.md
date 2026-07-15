@@ -11,3 +11,8 @@ https://github.com/topics/open-source-hardware
 https://github.com/delftopenhardware/awesome-open-hardware
 
 
+
+
+
+## ref 
+
