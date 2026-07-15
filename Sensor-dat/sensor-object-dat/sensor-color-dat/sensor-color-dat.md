@@ -5,7 +5,9 @@ https://w.electrodragon.com/w/Category:Color_sensor
 
 
 
+## chip 
 
+OPT4060DTSR SOT-5X3 高速高灵敏度 RGBW 颜色传感器
 
 ## boards  
 

@@ -8,7 +8,7 @@
 
 - [[mp3-dat]] - [[wav-dat]] - [[mp3-decoder-dat]] - [[wave-dat]]
 
-- [[amplifier-dat]] - [[dac-dat]] - [[amplifier-audio-dat]]
+- [[amplifier-dat]] - [[DAC-dat]] - [[amplifier-audio-dat]]
 
 
 - [[I2S-dac-dat]] - [[microphone-I2S-dat]] - [[speaker-I2S-dat]] - [[I2S-amplifier-dat]]

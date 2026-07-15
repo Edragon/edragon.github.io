@@ -356,7 +356,7 @@ This device is produced with high cell density DMOS trench technology, uses adva
 
 ## chip code 
 
-
+U7088R RU7088A
 
 Mf8i1 - Generic SOT23-6 MOSFETs
 

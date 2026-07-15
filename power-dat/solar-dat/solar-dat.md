@@ -5,11 +5,8 @@
 
 
 
+- [[solar-power-dat]] - [[MPPT-dat]] - [[solar-dat]] - [[solar-driver-dat]] - [[solar-panel-dat]] - [[solar-charger-dat]]
 
-
-- [[solar-power-dat]] - [[MPPT-dat]] - [[solar-dat]]
-
-- [[solar-dat]] - [[solar-panel-dat]] - [[solar-charger-dat]]
 
 
 

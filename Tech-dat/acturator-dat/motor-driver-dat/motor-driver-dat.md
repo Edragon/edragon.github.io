@@ -147,7 +147,11 @@
 
 - [[AT8236-dat]] - [[DRV8871-dat]] - [[DRV8701-dat]] - [[motor-driver-dat]]
 
+### chip SOP8
 
+- [[fuman-dat]] - [[TC214B-dat]] == [[L9110-dat]]
+
+单通道直流马达驱动器
 
 ## and more 
 

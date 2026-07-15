@@ -55,7 +55,7 @@
 
 ### power and battery
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[power-wireless-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]] - [[dcdc-dat]]
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[power-wireless-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]] - [[dcdc-dat]] - [[solar-driver-dat]]
 
 - [[dcdc-boost-down-dat]]
 
@@ -127,7 +127,7 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]] - [[CPU-dat]]
+- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]] - [[CPU-dat]] - [[RPI-MCU-dat]]
 
 - [[SBC-dat]] - [[RPI-SBC-dat]] (raspberry pi)
 
@@ -154,11 +154,11 @@
 
 - [[keyboard-dat]] - [[keypad-dat]] - [[mouse-dat]]
 
-- [[matrix-display-driver-dat]]
+- [[driver-matrix-display-dat]]
 
 - [[epaper-dat]]
 
-
+- [[driver-dat]] - [[display-driver-dat]] - [[led-driver-dat]] - [[oled-driver-dat]] - [[display-segment-driver-dat]]
 
 
 
@@ -185,7 +185,7 @@
 
 - [[laser-dat]] - [[laser-module-dat]]
 
-- [[sensor-color-dat]]
+- [[sensor-color-dat]] - [[sensor-gas-dat]]
 
 - [[camera-dat]] - [[vision-dat]]
 

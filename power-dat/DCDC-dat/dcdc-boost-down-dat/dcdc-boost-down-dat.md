@@ -32,6 +32,8 @@ High Efficiency, Synchronous, 4-Switch Buck-Boost Controller
 
 ## chip 
 
+- [[AD-power-dat]]
+
 - [[OCX-dat]] - [[OC6800B-dat]] - [[dcdc-boost-down-dat]] == 内置 100V/5A MOS 升压/升降压型 DC-DC 
 
 

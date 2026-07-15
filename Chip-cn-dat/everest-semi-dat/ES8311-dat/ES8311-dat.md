@@ -1,7 +1,7 @@
 
 # ES8311-dat
 
-- [[adc-dat]] - [[dac-dat]] - [[record-dat]] - [[playback-dat]] - [[everest-semi-dat]]
+- [[adc-dat]] - [[DAC-dat]] - [[record-dat]] - [[playback-dat]] - [[everest-semi-dat]]
 
 - [[audio-dat]] - [[ES8311-dat]]
 

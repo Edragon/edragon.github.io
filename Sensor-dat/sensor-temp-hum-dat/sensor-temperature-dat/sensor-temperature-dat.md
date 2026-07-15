@@ -26,7 +26,7 @@ wireless measurement
 
 - [[STH1082-dat]]
 
-## chips 
+## chips temperature sensor 
 
 
 - [[sensirion-dat]] - [[SHT4x-dat]]
@@ -42,7 +42,9 @@ wireless measurement
 - [[TI-sensor-dat]]
 
 
-## chip type temperature sensor 
+## analog temperature sensor chip 
+
+LM20BIM7X/NOPB SC-70-5 ±1.5°C 模拟输出温度传感器芯片 - mark 12B
 
 - [[LM75-dat]] - [[STH1071-dat]]
 

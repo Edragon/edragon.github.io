@@ -23,5 +23,13 @@ LT8609/LT8609A/LT8609B == 42V, 3A Synchronous Step-Down Regulator with 2.5µA Qu
 https://www.analog.com/media/en/technical-documentation/data-sheets/max17577-max17578.pdf
 
 
+
+## boost and buck 
+
+- [[dcdc-boost-down-dat]] - [[LTC3780-dat]] - [[AD-power-dat]]
+
+- [[LTC3780-dat]] - High Efficiency, Synchronous, 4-Switch Buck-Boost Controller
+
+
 ## ref 
 

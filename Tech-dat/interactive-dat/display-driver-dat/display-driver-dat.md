@@ -4,10 +4,14 @@
 
 - [[display-driver-dat]] - [[SSD-dat]]
 
-- [[led-driver-dat]] - [[display-driver-dat]] - [[display-segment-driver-dat]]
+- [[led-driver-dat]] - [[display-driver-dat]] 
+  
+- [[led-segment-display-driver-dat]] 
+  
+- [[led-segment-display-dat]] - [[led-matrix-driver-dat]]
 
 
-- [[segment-display-dat]] - [[display-driver-dat]] - [[display-dat]]
+- [[led-segment-display-dat]] - [[led-segment-display-driver-dat]] - [[display-driver-dat]] - [[display-dat]]
 
 
 ![](2026-06-15-19-19-50.png)
@@ -15,7 +19,7 @@
 
 - [[PFS122-dat]] - [[padauk-dat]]
 
-- [[display-segment-dat]] - [[display-driver-dat]]
+- [[led-segment-display-dat]] - [[display-driver-dat]]
 
 3188 3DGG unknown chip 
 
