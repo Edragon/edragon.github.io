@@ -1,6 +1,7 @@
 # fab-product-dat
 
 
+- [[fab-joining-dat]] - [[rivet-dat]] - [[fab-product-dat]] - [[bracket-dat]]
 
 - [[fab-bending-dat]] - [[fab-product-dat]]
 
@@ -8,6 +9,8 @@
 - [[3d-prototype-dat]] - [[CAD-dat]]
 
 - [[fab-mechanics-dat]]
+
+
 
 ## small scale and prototype preparation  
 
@@ -68,3 +71,5 @@
 ## ref 
 
 - [[fab-dat]]
+
+- [[fab-product]] - [[fab]]

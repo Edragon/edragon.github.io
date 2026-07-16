@@ -30,6 +30,8 @@ common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-case-dat/she
 
 - [[fixture-dat]]
 
+- [[rivet-dat]]
+
 
 ### turnover box
 
@@ -38,3 +40,5 @@ common structure: - [[sheet-dat]] - [[frame-profile-dat]] - [[shell-case-dat/she
 ## ref 
 
 - [[fab-mechanics-dat]]
+
+- [[mechanical-structure]]

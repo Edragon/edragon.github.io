@@ -1,7 +1,70 @@
 
 # Rivet-dat
 
-- [[rivet-nut-dat]]
+- [[rivet-nut-dat]] - [[bracket-dat]] - [[rivet-dat]]
+
+- [[fab-joining-dat]] - [[rivet-dat]] - [[fab-product-dat]]
+
+- [[mechanical-structure-dat]]
+
+## Connecting Round Tubes Perpendicularly Using Rivets
+
+**Yes, it is absolutely possible!** However, because round tubes have curved surfaces, trying to rivet them directly face-to-face will result in an unstable joint that wobbles, and the rivets will easily loosen over time. 
+
+To create a rock-solid, professional-grade perpendicular joint using rivets, you should use one of the following three proven engineering methods:
+
+---
+
+#### Method 1: The Internal T-Connector Method (Highly Recommended)
+
+This is the most common method used in commercial products like outdoor tents, display racks, and lightweight aluminum frames. It is highly structural and aesthetically clean.
+
+
+
+* **How to do it:**
+    1.  Obtain an **internal T-connector** (made of nylon, plastic, or aluminum) that matches the inner diameter (ID) of your tubes.
+    2.  Insert the connector into the ends of the tubes to join them perpendicularly.
+    3.  Drill pilot holes through the outer tube wall and into the connector.
+    4.  Insert and pop-rivet them together.
+* **Pros:** The rivet clamps against a solid internal insert, preventing the thin-walled tube from crushing. Highly stable and visually seamless.
+
+---
+
+#### Method 2: Coped Joint (Fishmouth Cut) + Saddle Washer Method
+
+If you want the two metal tubes to touch directly without using internal plastic or nylon fittings, you must contour the intersecting tube.
+
+当你把垂直管切出鱼嘴口并贴在横管上时，垂直管的末端会形成两个“耳朵”（即贴合在横管外侧的弧形管壁）。
+
+* **How to do it:**
+    1.  **Cut a "Fishmouth" (Coping):** Profile the end of the perpendicular tube into a curved, concave shape (called a fishmouth or coped cut) so it perfectly cradles the radius of the receiving tube.
+    2.  **Use a Saddle Washer:** Since a standard flat rivet head cannot sit flush on a curved tube, you must place a curved **saddle washer** (also known as an arc washer) over the hole.
+    3.  **Rivet:** Use a blind pop rivet to fasten through the saddle washer, the first tube, and into the wall of the second tube.
+* **Pros:** Pure metal-to-metal contact with no external plastic parts.
+* **Cons:** Cutting a perfect fishmouth joint requires a tubing notched/coper tool, or careful grinding by hand.
+
+---
+
+#### Method 3: The External Split-Clamp Method (Best for Heavy-Duty)
+
+This method relies on an external metal clamp or bracket to wrap around the intersection, which is then riveted in place.
+
+
+
+* **How to do it:**
+    1.  Get a **two-piece perpendicular pipe clamp** (also called a split-tee clamp or saddle bracket).
+    2.  Clamp the bracket halves around the T-junction of the two pipes.
+    3.  Drill through the pre-made holes on the bracket straight into the pipe walls, then secure them with heavy-duty pop rivets.
+* **Pros:** Excellent load-bearing capacity; zero tube-cutting or profiling required.
+* **Cons:** Bulky and industrially rugged appearance; not suitable for sleek or compact designs.
+
+---
+
+### 💡 Pro Tips & Common Pitfalls
+
+1.  **Never Use Flat Washers on Curvatures:** Attempting to flatten a standard washer over a round tube with a rivet gun will simply crush and dent thin-walled tubing, making the joint loose and weak.
+2.  **Always Use Pop (Blind) Rivets:** Since you cannot access the inside of the tubes to hold a bucking bar or a nut, **blind pop rivets** are mandatory because they expand and lock from the outside.
+3.  **Mind the Tube Wall Thickness:** If your tube wall is very thin (under $1.5 \text{ mm}$), rivets can easily tear out under stress. In these cases, **Method 1 (Internal T-Connector)** is highly recommended to distribute the load.
 
 
 
@@ -99,3 +162,4 @@ Place **washers** or a **spacer** between the two plates, then rivet through the
 👉 This is the **recommended** method for precise rotation.
 
 
+## ref 

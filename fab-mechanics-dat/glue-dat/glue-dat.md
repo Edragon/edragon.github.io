@@ -13,21 +13,40 @@
 
 - [[adhesive-remover-dat]]
 
-# 🔍 Comparison of Adhesives
+- [[glue-TPE-dat]] - [[B-7000-dat]] - [[glue-dat]]
 
-| Feature / Property        | 502 Glue (Cyanoacrylate)     | Epoxy Resin (AB Glue)            | Hot Glue (Thermoplastic)       | UV Glue (Light-Cured Adhesive)     |
-|---------------------------|-------------------------------|-----------------------------------|----------------------------------|-------------------------------------|
-| **Main Component**        | Cyanoacrylate                 | Epoxy resin + Hardener            | Thermoplastic (EVA)             | Acrylated resin + photoinitiators   |
-| **Curing Trigger**        | Moisture (in air/surface)     | Chemical (resin + hardener mix)   | Heat (glue gun)                 | UV light                            |
-| **Cure Time**             | Seconds                       | Minutes to hours                  | Seconds (cools fast)            | Seconds (with UV light)             |
-| **Bond Strength**         | High                          | Very High                         | Medium                          | High                                |
-| **Material Compatibility**| Metal, plastic, rubber, etc.  | Most surfaces                     | Most porous and some plastics   | Glass, plastic, metal               |
-| **Heat Resistance**       | Low to Moderate               | High                              | Low                             | Moderate to High                    |
-| **Moisture Resistance**   | Moderate                      | High                              | Low                             | High                                |
-| **Application Control**   | Moderate (can drip)           | Requires mixing, precise          | Easy, but can be stringy        | Precise (controlled by light)       |
-| **Reusability**           | No (one-time bond)            | No (once mixed, must be used)     | Yes (reheat and reuse)          | No                                  |
-| **Common Uses**           | Quick household repairs, models| Heavy-duty bonding, structural    | Crafts, packaging, quick fixes  | Phone screens, jewelry, precision   |
-| **Cleanup**               | Acetone                       | Alcohol/solvents before cure      | Peel off                        | Alcohol or acetone                  |
+- [[glue-Aviation-Adhesive-dat]]
+
+## Mechanical Strength Summary
+
+- [[fab-product-dat]]
+
+| Joint / Glue Type | Peak Tensile Strength                           | Load Type Best Suited For                            | Failure Mode                             | Flexibility vs. Brittleness |
+| :---------------- | :---------------------------------------------- | :--------------------------------------------------- | :--------------------------------------- | :-------------------------- |
+| **Metal Welding** | **Absolute Maximum** ($\ge 400 \text{ MPa}$)    | Heavy machinery, infrastructure, structural steel    | Material yield / Base metal tearing      | Rigid (Same as host metal)  |
+| **AB Glue**       | **Highest (Structural)** ($\ge 30 \text{ MPa}$) | Industrial loads, metal/ceramic repair, deep gaps    | Substrate fracture / Rare shearing       | Rigid & Rock-Hard           |
+| **UV Glue**       | **Extremely High** ($\ge 20 \text{ MPa}$)       | Heavy, static compression & rigid pull (Clear parts) | Brittle snapping / Substrate fracture    | Rigid                       |
+| **502 Glue**      | **Very High** ($\sim 20 \text{ MPa}$)           | Tight-fitting, rigid joints with direct pull         | Sudden shattering under impact           | Extremely Brittle           |
+| **B-7000**        | **Medium** ($\sim 3 \text{ MPa}$)               | Constant vibration, impact, flexing & peeling        | Slow stretching / Elastic deformation    | Highly Flexible (Rubbery)   |
+| **Hot Melt**      | **Lowest** ($\sim 1 \text{ MPa}$)               | Light decorative duty, temporary clamping            | Clean peeling / Interfacial delamination | Semi-Flexible (Gummy)       |
+
+
+
+## 🔍 Comparison of Adhesives
+
+| Feature / Property         | 502 Glue (Cyanoacrylate)        | Epoxy Resin (AB Glue)           | Hot Glue (Thermoplastic)       | UV Glue (Light-Cured Adhesive)    |
+| -------------------------- | ------------------------------- | ------------------------------- | ------------------------------ | --------------------------------- |
+| **Main Component**         | Cyanoacrylate                   | Epoxy resin + Hardener          | Thermoplastic (EVA)            | Acrylated resin + photoinitiators |
+| **Curing Trigger**         | Moisture (in air/surface)       | Chemical (resin + hardener mix) | Heat (glue gun)                | UV light                          |
+| **Cure Time**              | Seconds                         | Minutes to hours                | Seconds (cools fast)           | Seconds (with UV light)           |
+| **Bond Strength**          | High                            | Very High                       | Medium                         | High                              |
+| **Material Compatibility** | Metal, plastic, rubber, etc.    | Most surfaces                   | Most porous and some plastics  | Glass, plastic, metal             |
+| **Heat Resistance**        | Low to Moderate                 | High                            | Low                            | Moderate to High                  |
+| **Moisture Resistance**    | Moderate                        | High                            | Low                            | High                              |
+| **Application Control**    | Moderate (can drip)             | Requires mixing, precise        | Easy, but can be stringy       | Precise (controlled by light)     |
+| **Reusability**            | No (one-time bond)              | No (once mixed, must be used)   | Yes (reheat and reuse)         | No                                |
+| **Common Uses**            | Quick household repairs, models | Heavy-duty bonding, structural  | Crafts, packaging, quick fixes | Phone screens, jewelry, precision |
+| **Cleanup**                | Acetone                         | Alcohol/solvents before cure    | Peel off                       | Alcohol or acetone                |
 
 
 
@@ -107,14 +126,14 @@ FDM 3D prints have tiny gaps and a layered structure:
 ### 4. **Incompatible Materials**
 Some common filaments are just not suitable for cyanoacrylate:
 
-| Material       | 502 Glue Compatibility |
-|----------------|------------------------|
-| PLA            | ✅ Generally bonds well |
-| ABS            | ⚠️ Moderate (may need sanding) |
-| PETG           | ⚠️ Difficult, slippery surface |
-| TPU / TPE      | ❌ Very poor bonding (flexible) |
-| Nylon          | ❌ Very difficult to bond |
-| PP / PE        | ❌ Extremely poor adhesion |
+| Material  | 502 Glue Compatibility         |
+| --------- | ------------------------------ |
+| PLA       | ✅ Generally bonds well         |
+| ABS       | ⚠️ Moderate (may need sanding)  |
+| PETG      | ⚠️ Difficult, slippery surface  |
+| TPU / TPE | ❌ Very poor bonding (flexible) |
+| Nylon     | ❌ Very difficult to bond       |
+| PP / PE   | ❌ Extremely poor adhesion      |
 
 ### 5. **Oily or Contaminated Surface**
 Some filaments (like PETG or nylon) may feel **greasy** or attract **oil/dust**, which prevents proper glue bonding.
@@ -131,12 +150,12 @@ Some filaments (like PETG or nylon) may feel **greasy** or attract **oil/dust**,
 
 ## For high-strength bonding of mechanical transmission components (e.g., gears, bearings, linkages, metal or hard plastic parts), the recommended adhesives are:
 
-| Adhesive Type              | Suitable Materials                 | Features & Recommendations                                                   |
-|----------------------------|-----------------------------------|----------------------------------------------------------------------------|
-| AB Glue (Epoxy Resin, 2-part) | Metal, ceramics, hard plastics, composites | Extremely strong, gap-filling, rigid after curing, heat and chemical resistant, good for shear and pressure loads |
-| MMA Adhesive (Methyl Methacrylate) | Metal, composites, hard plastics    | Industrial-grade, strong and slightly flexible, vibration-resistant, suitable for high-speed or vibrating environments |
-| Structural Acrylic Adhesive | Metal-to-metal, composites        | High shear strength, commonly used in automotive or mechanical structural parts |
-| PU Adhesive (Polyurethane Structural Glue) | Metal, hard plastic, composites | Flexible, absorbs vibration, good for impact or minor vibration, slightly lower strength than AB glue |
+| Adhesive Type                              | Suitable Materials                         | Features & Recommendations                                                                                             |
+| ------------------------------------------ | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| AB Glue (Epoxy Resin, 2-part)              | Metal, ceramics, hard plastics, composites | Extremely strong, gap-filling, rigid after curing, heat and chemical resistant, good for shear and pressure loads      |
+| MMA Adhesive (Methyl Methacrylate)         | Metal, composites, hard plastics           | Industrial-grade, strong and slightly flexible, vibration-resistant, suitable for high-speed or vibrating environments |
+| Structural Acrylic Adhesive                | Metal-to-metal, composites                 | High shear strength, commonly used in automotive or mechanical structural parts                                        |
+| PU Adhesive (Polyurethane Structural Glue) | Metal, hard plastic, composites            | Flexible, absorbs vibration, good for impact or minor vibration, slightly lower strength than AB glue                  |
 
 ⚙️ **Selection Recommendations**:  
 1. **High load, requires rigidity** → **AB Glue (Epoxy Resin)**  
