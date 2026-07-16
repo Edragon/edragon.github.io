@@ -8,7 +8,7 @@
 #define I2S_MCLK 2
 
 #define I2C_SDA 18
-#define I2C_SCL 19
+#define I2C_SCL 17
 
 using namespace audio_driver;
 using namespace audio_tools;
@@ -24,7 +24,8 @@ AudioInfo info(44100, 1, 16); // Mono, 44.1kHz, 16-bit
 SineWaveGenerator<int16_t> sineWave;
 GeneratedSoundStream<int16_t> sound(sineWave);
 I2SStream i2s;
-StreamCopy copier(i2s, sound);
+VolumeStream volume(i2s); // Added VolumeStream for software gain
+StreamCopy copier(volume, sound);
 
 void setup()
 {
@@ -44,7 +45,7 @@ void setup()
         while (true)
             ;
     }
-    board.setVolume(0.8); // Set volume (0.0 to 1.0)
+    board.setVolume(1.0); // Set Hardware Volume to Maximum (1.0)
     Serial.println("ES8311 Driver Initialized.");
 
     // Configure I2S for Audio Tools
@@ -53,8 +54,13 @@ void setup()
     config.pin_ws = I2S_LRCK;
     config.pin_data = I2S_DOUT;
     config.pin_mck = I2S_MCLK;
+    config.use_apll = true; // Use APLL for better clock accuracy or internal MCLK generation
     config.copyFrom(info);
     i2s.begin(config);
+
+    // Initialize VolumeStream
+    volume.begin(config);
+    volume.setVolume(1.0); // Set Software Volume to Maximum (1.0)
 
     // Start generator
     sineWave.begin(info, 440); // 440Hz Sine Wave

@@ -23,7 +23,8 @@ https://github.com/Microsoft/vscode-arduino.git
 https://github.com/microsoft/vscode-serial-monitor.git
 
 
-example 
+setup path for [[arduino-IDE-dat]] example 
+
 ```json
 {
     "configurations": [
