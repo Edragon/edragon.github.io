@@ -57,7 +57,7 @@ SCH 4 == [[CAN-dat]] - [[PWM-dat]] - [[DAC-dat]] - [[STC-dat]]
 
 ![](2026-02-12-15-08-40.png)
 
-SCH 5 == [[Oscilloscope-dat]] - [[display-dat]]
+SCH 5 == [[oscilloscope-dat]] - [[display-dat]]
 
 ![](2026-02-12-15-15-39.png)
 

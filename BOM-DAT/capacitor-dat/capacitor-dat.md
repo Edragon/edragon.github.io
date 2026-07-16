@@ -2,6 +2,7 @@
 # capacitor-dat 
 
 
+- [[capacitor-dat]] - [[capacitor-dc-blocking-dat]] - [[capacitor-MLCC-dat]] - [[sensor-microphone-dat]]
 
 - [[circuits-dat]] - [[PCB-design-dat]] - [[resistor-dat]] - [[capacitor-dat]] - [[RCL-dat]]
 

@@ -214,6 +214,8 @@
 
 - [[amplifier-dat]] - [[codec-dat]] - [[amp-op-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]] - [[amplifier-GNSS-dat]]
 
+- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]]
+
 - [[filter-dat]]
 
 - [[transmitter-current-dat]]

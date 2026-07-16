@@ -15,7 +15,7 @@
 
 ## voltage negative 
 
-- [[Oscilloscope-dat]]
+- [[oscilloscope-dat]]
 
 - [[ICI7660-dat]]
 
