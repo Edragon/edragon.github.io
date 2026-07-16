@@ -38,15 +38,15 @@ void init_ES8311() {
   // 4. Power & Analog Path
   writeReg(0x0D, 0x03); // Power up Analog core
   writeReg(0x0E, 0x02); // Enable ADC Analog
-  writeReg(0x13, 0x41); // Mic1 Input + Bias
-  writeReg(0x14, 0x12); // Medium Gain (+15dB)
-  writeReg(0x15, 0x40); // ADC Power Digital
+  writeReg(0x13, 0x40); // SELECT MIC1 (MIC_P), Power up MICBIAS
+  writeReg(0x14, 0x1A); // PGA Gain +24dB
+  writeReg(0x15, 0x00); // SELECT ANALOG ADC (0x40 was Digital Mic mode)
   writeReg(0x16, 0x00); // ALC Off
   writeReg(0x17, 0x00); // Volume Max
   
   // 5. Digital Enable
   writeReg(0x45, 0x01); 
-  Serial.println("ES8311 Configured (Phillips, 16-bit, +15dB)");
+  Serial.println("ES8311 Configured (Phillips, MIC1, +24dB)");
 }
 
 void setup() {
