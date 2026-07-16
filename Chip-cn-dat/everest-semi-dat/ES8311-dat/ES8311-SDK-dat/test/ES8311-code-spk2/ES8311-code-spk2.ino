@@ -66,11 +66,38 @@ void setup() {
 }
 
 void loop() {
-  // Array filled with your raw PCM audio sample data 
-  // Loop feeds the I2S hardware buffer continuously
-  uint16_t dummy_audio_buffer[512] = {0}; 
+  const int sample_rate = 16000;
+  const float frequency = 440.0; // 440Hz (A4 note)
+  const int ramp_duration_ms = 3000;  // 3 seconds ramp
+  const int hold_duration_ms = 2000;  // 2 seconds hold at max
+  const int buffer_size = 512;
+  int16_t audio_buffer[buffer_size];
   
-  size_t bytes_written;
-  i2s.write((uint8_t*)dummy_audio_buffer, sizeof(dummy_audio_buffer));
-  delay(10);
+  static uint32_t sample_index = 0;
+  uint32_t ramp_samples = sample_rate * (ramp_duration_ms / 1000.0);
+  uint32_t hold_samples = sample_rate * (hold_duration_ms / 1000.0);
+  uint32_t total_samples_in_cycle = ramp_samples + hold_samples;
+
+  for (int i = 0; i < buffer_size; i++) {
+    uint32_t current_pos = sample_index % total_samples_in_cycle;
+    float volume;
+
+    if (current_pos < ramp_samples) {
+      // Phase 1: Ramp from 0 to 1 over 3 seconds
+      volume = (float)current_pos / ramp_samples;
+    } else {
+      // Phase 2: Hold at 1 for 2 seconds
+      volume = 1.0f;
+    }
+    
+    // Generate sine wave
+    float sin_val = sin(2.0 * PI * frequency * sample_index / sample_rate);
+    
+    // Scale to 16-bit range
+    audio_buffer[i] = (int16_t)(sin_val * volume * 32767);
+    
+    sample_index++;
+  }
+  
+  i2s.write((uint8_t*)audio_buffer, sizeof(audio_buffer));
 }

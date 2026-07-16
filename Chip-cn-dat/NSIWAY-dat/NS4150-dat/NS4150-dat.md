@@ -4,6 +4,8 @@
 
 - [[NWI1241-dat]]
 
+- datasheet == [[NS4150.pdf]]
+
 
 http://inder.cn/WJXZ/nsiway/InderNS4150EN.PDF
 
@@ -28,6 +30,17 @@ Look for beads with DC resistance in the range of 10-100 mΩ.
 ### Current Rating:
 
 The ferrite bead must handle the maximum current of your speaker system without saturating. For the NS4150, consider the peak output current, which depends on the amplifier’s load and power rating.
+
+
+## function 
+
+CTRL terminal function
+
+Table7.Working mode
+- CTRL Mode
+- H Open
+- L Shutdown
+
 
 ## SCH 2 
 

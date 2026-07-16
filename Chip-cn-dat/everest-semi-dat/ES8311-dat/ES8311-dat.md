@@ -98,6 +98,8 @@ DAC `PLAYBACK` FUNCTIONS
 
 ![](2026-04-14-19-30-55.png)
 
+digital microhpone 
+
 ![](2026-04-14-19-30-38.png)
 
 ## APP 1. 
@@ -105,6 +107,9 @@ DAC `PLAYBACK` FUNCTIONS
 ![](2026-04-14-19-33-07.png)
 
 ![](2026-04-14-19-33-23.png)
+
+
+
 
 ![](2026-04-14-19-33-44.png)
 

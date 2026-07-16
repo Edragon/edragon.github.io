@@ -2,6 +2,14 @@
 
 - [[ES8311-SDK-dat]] - [[ES8311-dat]] - [[everest-semi-dat]] - [[ES7201-dat]] - [[codec-audio-dat]] - [[I2S-dat]]
 
+- [[NS4150-dat]]
+
+
+
+    I2C device found at address 0x18  !
+
+    "Chip ID: 0x8311": If you see this, your I2C wiring (SDA/SCL) is correct.
+
 ## Example 1: Music Playback
 
 This example demonstrates how to play music using an ESP32-C3 development board. If you are using an ESP32-S3, you simply need to switch the target chip in the project configuration. This guide is based on modifications to the official ESP-IDF example.
@@ -93,3 +101,6 @@ https://github.com/pschatzmann/arduino-audio-tools
 https://gitlab.informatik.uni-bremen.de/fbrning/esp-idf/-/blob/v5.0-dev/examples/peripherals/i2s/i2s_es8311/main/i2s_es8311_example.c?ref_type=tags
 
 https://github.com/pschatzmann/arduino-audio-tools
+
+
+- [[ES8311]]
