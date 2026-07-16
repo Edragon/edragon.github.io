@@ -37,6 +37,7 @@ http://www.everest-semi.com/pdf/ES8311%20PB.pdf
 ## pins to ESP32-S3
 
     ESP32S3开发板（16MFLASH) - ES8311-NS4150B-CODEC音频模块 - 说明
+    
     GPIO_NUM_5 -- SDA -- 串口数据信号线
     GPIO_NUM_4 -- SCL -- 串行数据位时钟/DMIC位时钟
     GPIO_NUM_6 -- MCLK -- 主时钟

@@ -23,6 +23,34 @@ https://github.com/Microsoft/vscode-arduino.git
 https://github.com/microsoft/vscode-serial-monitor.git
 
 
+example 
+```json
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\arduino-1.8.19-windows\\arduino-1.8.19\\hardware\\arduino\\avr\\libraries\\**",
+                "E:\\Git-category\\Git-Arduino\\arduino-main2\\libraries\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
+```
+
+
 
 ## developer extensions 
 
