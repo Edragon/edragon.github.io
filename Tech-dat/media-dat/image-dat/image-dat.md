@@ -1,6 +1,12 @@
 
 # image-dat
 
+
+
+- [[audio-dat]] - [[image-dat]] - [[video-dat]] - [[media-dat]] 
+
+
+
 ## image formats
 
 ## 🆔 Quick Comparison

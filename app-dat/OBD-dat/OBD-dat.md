@@ -1,7 +1,7 @@
 
 # OBD-dat
 
-- [[OBD-dat]] - [[car-dat]] 
+- [[OBD-dat]] - [[car-dat]] - [[app-dat]] - [[battery-Lead-acid-dat]] - [[Cigarette-Lighter-dat]] - [[OPM1181-dat]]
 
 
 
@@ -38,6 +38,8 @@ https://github.com/Edragon/OBD == Repository unavailable due to DMCA takedown.
 ## interface 
 
 OBD-II Pinout (SAE J1962 Connector)
+
+power pin 4 ground + pin 16 +12V
 
 | PIN | DESCRIPTION       |       |
 | --- | ----------------- | ----- |
