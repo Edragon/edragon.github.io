@@ -6,7 +6,7 @@
 
 - [[SVC1000-dat]] - [[SVC1002-dat]] - [[SVC1004-dat]] - [[ACS712-dat]]
 
-
+- [[VRMS-dat]] - [[ACS712-dat]]
 
 
 [legacy wiki page](https://w.electrodragon.com/w/ACS712)
@@ -33,3 +33,5 @@ with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 ## ref 
 
 - datasheet - [[ACS712-DS.pdf]]
+
+- [[cross-chip-dat]] - [[CC6902-dat]] - [[ACS712-dat]]

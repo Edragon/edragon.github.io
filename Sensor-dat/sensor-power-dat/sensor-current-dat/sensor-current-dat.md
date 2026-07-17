@@ -2,7 +2,7 @@
 # current-sensor-dat.md
 
 
-
+- [[VRMS-dat]] - [[voltage-dat]]
 
 - [[fab-tools-dat]] - [[meter-dat]] 
 
@@ -30,7 +30,7 @@
 - Original CC6904 SO-10A SOP-8 Single-chip Hall effect current sensor, isolation voltage 2kV
 
 
-
+Yes, the ACS712 output can be read directly by a microcontroller (MCU) Analog-to-Digital Converter (ADC).
 
 
 
