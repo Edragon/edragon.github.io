@@ -70,6 +70,12 @@ shared common ground and positive wiring
 
 ![](2026-07-17-18-31-35.png)
 
+use a few IOs to measure range:
+
+![](2026-07-17-21-56-55.png)
+
+
+
 ## ref 
 
 - [[meter-current-dat]] - [[meter-voltage-dat]]

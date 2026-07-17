@@ -89,6 +89,14 @@ Here is a breakdown of why you would choose the ACS712 over a standard ADC-based
 While the ACS712 wins on isolation and simplicity, a standard ADC+Shunt setup is superior if you need **extreme precision at very low currents** (milliamps or microamps), or if your project is operating in an environment with high external magnetic interference (like right next to a massive brushless motor), which can throw off the Hall-effect sensor inside the ACS712.
 
 
+
+## SCH 
+
+- [[amp-op-dat]]
+
+- [[GS8551-dat]] - [[TP09-dat]]
+
+![](2026-07-17-21-58-52.png)
 ## ref 
 
 - [[meter-current-dat]] - [[meter-voltage-dat]]
