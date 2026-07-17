@@ -6,6 +6,7 @@
 
 - [[peripherals-dat]]
 
+- [[SCU1007-dat]] - [[resistor-trim-pot-dat]] - [[potentiometer-digital-dat]] - [[encoder-dat]]
 
 
 

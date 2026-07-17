@@ -2,8 +2,12 @@
 # multimeter-dat
 
 
+- [[meter-dat]]  - [[multimeter-dat]]
+
 DMM == A Digital Multimeter (DMM) is an essential, handheld or benchtop electronic tool used to measure electrical values like voltage, current, and resistance with high accuracy. 
 
+
+combination of [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-voltage-current-dat]]
 
 
 ## good list 

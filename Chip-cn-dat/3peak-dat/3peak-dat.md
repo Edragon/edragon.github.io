@@ -12,6 +12,9 @@ datasheet TP5551 == [[Datasheet_TP5551-TP5552-TP5554.pdf]]
 
 - [[TP5532-dat]] - [[3peak-dat]]
 
+- [[3peak-dat]] - [[TP5551-dat]] - [[TP09-dat]]
+
+
 ## TPL810
 
 TPL810  == [[3peak]] 

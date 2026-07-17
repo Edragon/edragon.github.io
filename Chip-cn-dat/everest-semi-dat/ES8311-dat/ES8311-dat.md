@@ -10,6 +10,8 @@
 
 - [[ES8311-SDK-dat]] - [[ES8311-dat]] - [[everest-semi-dat]] - [[ES7201-dat]] - [[codec-dat]]
 
+- [[NS4150-dat]] 
+
 
 
 ## board 

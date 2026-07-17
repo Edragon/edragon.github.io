@@ -5,7 +5,11 @@
 
 - output to - [[ADC-dat]]
 
-- [[3peak-dat]] - TP5551
+
+
+## chip 
+
+- [[3peak-dat]] - [[TP5551-dat]] - [[TP09-dat]] - [[amp-op-dat]]
 
 
 - [[LM324-dat]]
@@ -13,6 +17,7 @@
 
 ![](2025-11-01-18-49-35.png)
 
+## typs 
 
 - inverting amplifier 
 - non-inverting amplifier 
@@ -22,10 +27,26 @@
 - class AB amplifier
 
 
+## SCH 
+
+Invert 
+
+![](2026-07-17-18-26-36.png)
+
+## APP SCH 
+
+- [[meter-current-dat]] - [[amp-op-dat]]
+
+OUTB to ADC0 - [[ADC-dat]]
+
+![](2026-07-17-18-27-57.png)
+
+
+
 
 ## APPs 
 
-- [[sensor-current-dat]] - [[thermistor-dat]]
+- [[sensor-current-dat]] - [[meter-current-dat]] - [[thermistor-dat]]
 
 - [[ph-tester-dat]]
 

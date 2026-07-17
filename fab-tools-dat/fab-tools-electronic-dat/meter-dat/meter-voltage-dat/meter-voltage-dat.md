@@ -66,7 +66,9 @@ shared common ground and positive wiring
 
 ![](2026-03-05-02-12-04.png)
 
+- [[ADC-dat]] read voltage via [[voltage-divider-dat]]
 
+![](2026-07-17-18-31-35.png)
 
 ## ref 
 

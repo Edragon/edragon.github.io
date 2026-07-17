@@ -5,7 +5,7 @@
 use [[meter-voltage-current-dat]] instead of [[meter-current-dat]] only 
 
 
-- [[meter-dat]] 
+- [[meter-dat]]  - [[multimeter-dat]]
 
 == memter am 
 

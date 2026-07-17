@@ -1,10 +1,12 @@
 
-# encoder dat 
+# encoder-dat 
 
 
 
 - [[magnetic-sensor-dat]] - [[encoder-dat]] - [[sensor-hall-dat]]
 
+
+- common used encoder - [[SCU1007-dat]]
 
 ## magnetic-sensor
 
@@ -68,8 +70,17 @@ Encoder parameters and comparison
 
 https://www.electrodragon.com/product/5pcs-rotary-encoder/
 
-- [[SCU1007-dat]] - [[resistor-trim-pot-dat]]
+- [[SCU1007-dat]] - [[resistor-trim-pot-dat]] - [[potentiometer-digital-dat]] - [[encoder-dat]]
 
+
+
+## encoder 
+
+act as a input 
+
+- [[EC11-dat]] - [[SCU1007-dat]]
+
+![](2026-07-17-18-44-40.png)
 
 
 ## ref 

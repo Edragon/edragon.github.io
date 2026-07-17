@@ -13,7 +13,7 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]] - [[encoder-dat]]
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
