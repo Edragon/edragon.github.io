@@ -21,7 +21,7 @@
 
 ## What is POF?
 
-POF stands for plastic optical fiber with the term plastic being used a vulgarization for polymer materials.
+POF stands for `plastic optical fiber` with the term plastic being used a vulgarization for polymer materials.
 
 The 1mm fiber diameter is about **500 times thicker** than a glass optical fiber. 
 
