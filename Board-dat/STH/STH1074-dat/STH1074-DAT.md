@@ -9,10 +9,10 @@ Digital output or amplified output by [[LM358-DAT]]
 - [[micropython-dat]]
 
 jumper select: 
-- D: LM3528 channel 1 as comprator
+- D: LM358 channel 1 as comprator
   - digital threashold output, LED on
   - tuning on-board trim-pot for the threashold.
-- D': LM3528 channel 1 as amplifier
+- D': LM358 channel 1 as amplifier
   - you can use arduino analog read data, normal aroun 65x, block at 5-10
 
 

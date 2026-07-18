@@ -13,7 +13,7 @@
 
 - [[OPA1641-dat]]
 
-- [[TI-AMP-dat]] - [[TI-audio-dat]]
+- [[TI-AMP-dat]] - [[TI-audio-dat]] - [[TI-dat]] - [[LM358-dat]]
 
 - [[TI-logic-dat]]
 
@@ -43,7 +43,7 @@ TPDxEUSB30 2-, 4-Channel ESD Protection for Super-Speed USB 3.0 Interface
 
 - [[LDO-dat]] - [[TI-LDO-dat]] - [[TI-dat]]
 
-
+- [[LED-driver-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]]
 
 
 ## ref 

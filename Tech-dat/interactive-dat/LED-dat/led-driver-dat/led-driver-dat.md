@@ -137,7 +137,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[CN5711-dat]] - [[consonance-dat]]
 
-- [[TI-dat]] - [[TI-LED-driver-dat]]
+- [[TI-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]]
 
 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
 
@@ -286,6 +286,13 @@ C07EBA UNH538
 - [[mosfet-dat]]
 
 ![](2026-06-17-15-08-34.png)
+
+## APPLICATIONS
+
+- Dual Display LCD Backlighting for PortableApplications
+- Large Format LCD Backlighting
+- OLED Panel Power Supply
+- Display Backlighting with Indicator Light
 
 
 

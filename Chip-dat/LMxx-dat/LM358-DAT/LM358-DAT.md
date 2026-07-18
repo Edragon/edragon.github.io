@@ -6,6 +6,8 @@
 
 - [[amplifier-dat]]
 
+- [[TI-dat]] - [[LM358-dat]]
+
 
 ## boards 
 

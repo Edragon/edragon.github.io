@@ -6,6 +6,8 @@
 
 - [[TI-AMP-dat]] - [[TI-audio-dat]]
 
+- [[TI-AMP-dat]] - [[TI-audio-dat]] - [[TI-dat]] - [[LM358-dat]]
+
 
 
 ## unsort 
