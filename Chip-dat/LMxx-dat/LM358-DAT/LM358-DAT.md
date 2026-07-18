@@ -13,6 +13,8 @@
 
 - [[MSP1023-dat]]
 
+- [[STH1074-dat]]
+
 ## datasheet 
 
 Single Supply Dual Operational Amplifiers - LM258, LM358, LM358A, LM358E, LM2904, LM2904A, LM2904E, LM2904V, NCV2904
@@ -115,6 +117,13 @@ For example, in an audio signal amplification, the input audio signal(Voice) can
 
 ## App
 
+
+### comparator and amplifier
+
+![](2026-07-18-16-50-09.png)
+
+[[comparator-dat]] - [[amplifier-dat]]
+
 ### general 
 
 - solar detector
@@ -189,13 +198,15 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 ### microphone driver 
 
-
+- [[sensor-microphone-dat]]
 
 ![](2026-03-05-19-00-42.png)
 
 
 
 ### current meter 
+
+- [[meter-current-dat]] - [[LM358-dat]]
 
 ![](2026-03-05-14-11-48.png)
 

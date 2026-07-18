@@ -92,11 +92,18 @@ While the ACS712 wins on isolation and simplicity, a standard ADC+Shunt setup is
 
 ## SCH 
 
+
+- [[meter-current-dat]] - [[LM358-dat]]
+
 - [[amp-op-dat]]
 
 - [[GS8551-dat]] - [[TP09-dat]]
 
 ![](2026-07-17-21-58-52.png)
+
+
+
+
 ## ref 
 
 - [[meter-current-dat]] - [[meter-voltage-dat]]
