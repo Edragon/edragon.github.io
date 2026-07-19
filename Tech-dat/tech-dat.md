@@ -37,7 +37,7 @@
 
 - [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[maxim-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[realtek-dat]] - [[infineon-dat]] - [[74xx-dat]] - [[realtek-dat]] - [[silicon-labs-dat]] - [[Melexis-dat]] - [[joulwatt-dat]] - [[nordic-dat]] - [[AVR-dat]]
 
-- [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]] - [[CONSONANCE-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ismartware-dat]] - [[microne-dat]]
+- [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]] - [[CONSONANCE-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ismartware-dat]] - [[microne-dat]] - [[ESP32-S3-dat]]
 
 
 

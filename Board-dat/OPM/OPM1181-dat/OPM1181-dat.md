@@ -6,14 +6,19 @@
 
 
 
-
 read more information at chip page [[CN3768-dat]]
+
+- VIN == charge input 
+- VOUT == [[battery-lead-acid-dat]]
+
 
 ## Set charged current at 
 
 0.15V / 0.05 R = 2.4A
 
 0.15V / 4A == 0.0375 R
+
+
 
 ## Note 
 
