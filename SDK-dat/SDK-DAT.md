@@ -36,6 +36,11 @@
 
 - [[Zephyr-dat]] - [[SDK-dat]]
 
+- [[win-framework-dat]] - [[SDK-dat]]
+
+
+
+
 ## VS-code
 
 - [[VSCODE-dat]] - [[platformIO-dat]]

@@ -220,6 +220,8 @@ LED control - [[ILC1063-dat]]
 
 ### ITF
 
+- [[interface-dat]] - [[CAN-dat]] - [[MSP1032-dat]]
+
 - [[ITF1000-dat]]
 
 - [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
@@ -324,7 +326,9 @@ MPC cable
 
 ### MSP 
 
-- [[MSP1046-dat]] - [[MSP1061-DAT]] - [[MSP1076-dat]]
+- [[interface-dat]] - [[CAN-dat]] - [[MSP1032-dat]]
+
+- [[MSP1046-dat]] - [[MSP1061-DAT]] - [[MSP1076-dat]] - [[MSP1063-dat]]
 
 - [[MSP1025-dat]] - [[MSP1032-dat]]
 
@@ -515,6 +519,9 @@ other
 
 - [[PENS014-dat]]
 
+### PIN 
+
+- [[PINS003-dat]]
 
 
 ### PMP

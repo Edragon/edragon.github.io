@@ -1,6 +1,7 @@
 
 # interface-dat 
 
+- [[fab-tools-dat]] - [[logic-analyzer-dat]] - [[fab-tools-electronic-dat]] - [[oscilloscope-dat]] - [[meter-dat]] - [[interface-dat]]
 
 - [[interface-dat]] - [[TWSI-dat]] - [[RSB-dat]] - [[AXP2101-dat]]
 
@@ -80,7 +81,7 @@ RS232 to RS485 module  - [[DPR1080-dat]]
 
 - [[DPR1060-dat]] - [[MSP1076-dat]]
 
-[[CAN-dat]] breakout
+[[CAN-dat]] breakout - [[LIN-dat]]
 
 - SPI to CAN [[MSP1032-dat]]
 - Serial to CAN 

@@ -23,6 +23,9 @@ An oscilloscope (informally called an `O-scope` or scope) is an electronic test 
 
 - [[STC-dat]]
 
+
+
+
 ## ref 
 
 
@@ -36,6 +39,9 @@ An oscilloscope (informally called an `O-scope` or scope) is an electronic test 
 
 
 
+## build 
+
+- [[DSO201-dat]]
 
 arduino oscilloscope
 https://dbuezas.github.io/arduino-web-oscilloscope/

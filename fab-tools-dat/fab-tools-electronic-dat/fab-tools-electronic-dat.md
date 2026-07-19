@@ -1,6 +1,9 @@
 
 # fab-electronic-Tools-dat
 
+
+- [[fab-tools-dat]] - [[logic-analyzer-dat]] - [[fab-tools-electronic-dat]] - [[oscilloscope-dat]] - [[meter-dat]] - [[interface-dat]]
+
 - [[fab-electronic-Tools-dat]] - [[fab-mechanics-dat]]
 
 - [[fab-tools-dat]] - [[fab-workspace-dat]] - [[fab-PCB-soldering-tools-dat]]

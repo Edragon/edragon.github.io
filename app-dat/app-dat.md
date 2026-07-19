@@ -108,9 +108,15 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 
 
-## Tools 
+## Tools and devices 
 
 - [[DSO-dat]]
+
+- [[cypress-dat]] - [[Infineon-dat]] - [[pins003-dat]] - [[MCU-dat]]
+
+- [[app-dat]] - [[logic-analyzer-dat]] - [[USB-blaster-dat]] - [[data-acquisition-board-dat]] - [[PINS003-dat]]
+
+
 
 
 ## code 
