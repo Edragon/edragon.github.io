@@ -1,6 +1,23 @@
 
 # CR2032-dat
 
+
+
+- [[CR2032-dat]] - [[battery-size-dat]] - [[battery-dat]] - [[battery-rechargerable-dat]]
+
+
+## build APP 
+
+insert from the side 
+
+![](2026-07-20-21-03-08.png)
+
+
+
+
+
+## info 
+
 The CR2032 lithium coin cell battery typically supports the following continuous discharge current specifications, depending on the manufacturer:
 
 ##  Typical Continuous Discharge Current

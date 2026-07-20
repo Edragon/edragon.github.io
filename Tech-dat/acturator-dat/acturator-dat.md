@@ -1,5 +1,11 @@
 
-# actuator 
+# actuator-dat 
+
+
+
+- [[system-dat]] - [[embedded-dat]] - [[actuator-dat]] - [[control-system-dat]]
+
+
 
 - [[piezo-dat]] - [[buzzer-dat]] - [[speaker-dat]] - [[SSL1019-dat]]
 
@@ -49,7 +55,11 @@
 
 - [[SCU1050-dat]]
 
+## app 
 
+- [[fan-dat]] control 
+
+![](2026-07-20-21-09-05.png)
 
 
 
@@ -58,6 +68,11 @@
 - level-valve 
 
 ![](2025-06-06-19-02-24.png)
+
+
+
+
+
 
 ## ref 
 

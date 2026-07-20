@@ -10,6 +10,9 @@
 - [[pitch-dat]]
 
 
+- [[conn-cable-terminal-dat]] -[[CONN-dat]] 
+
+
 ## 3.5mm pitch 
 
 plug and header - [[KF2EDG-dat]]

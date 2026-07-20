@@ -4,6 +4,11 @@
 
 
 
+ETA3512 - 2MHz, 3A, COT Synchronous Step-down Converter in SOT563
+
+IN, EN, SW, PG Voltage ..........................–0.3V to 7.5V
+
+
 - [[ETA8056-dat]] - [[ACDC-dat]] - [[power-adapter-dat]] - [[ETA-solutions-dat]]
 
 

@@ -1,6 +1,14 @@
 
 # audio-dat
 
+
+- [[Voice-Synthesizer-dat]] - [[Voice-Recognition-dat]] - [[voice-detection-dat]] - [[audio-dat]]
+
+- [[tone-dat]]
+
+
+- [[TTS-dat]] == test-to-speech 
+
 - [[audio-dat]] - [[image-dat]] - [[video-dat]] - [[media-dat]] 
 
 

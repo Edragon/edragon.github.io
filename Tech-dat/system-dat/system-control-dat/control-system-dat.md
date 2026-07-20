@@ -1,6 +1,13 @@
 
 # control-system-dat
 
+
+
+
+- [[system-dat]] - [[embedded-dat]] - [[actuator-dat]] - [[control-system-dat]]
+
+
+
 - [[RPI-dat]] - [[PS2-console-dat]]
 
 - [[relay-dat]] - [[MCU-dat]]

@@ -36,7 +36,7 @@ from a to z
 
 - [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] - [[attiny-dat]]
 
-- [[dallas-dat]]
+- [[dallas-dat]] - [[diodes-dat]]
 
 [[MCU-dat]] - [[STC-dat]] - [[nuvoton-dat]]
 

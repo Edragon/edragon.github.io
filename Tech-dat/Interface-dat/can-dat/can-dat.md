@@ -1,6 +1,16 @@
 
 # Can-dat 
 
+
+
+- [[protection-ESD-dat]] - [[protection-power-dat]] - [[CAN-dat]] - [[LDO-dat]]
+
+- [[CAN-Cangaroo-dat]] - [[CAN-FD-dat]]
+
+- [[conn-cable-terminal-dat]] -[[CONN-dat]] 
+
+
+
 legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 
 
@@ -10,6 +20,14 @@ legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 
 
 ## Chip 
+
+
+SIT1050 - 5V，±40V BUS，1Mbps High Speed CAN transceiver
+
+![](2026-07-20-20-42-50.png)
+
+- [[protection-power-dat]]
+
 
 - TI ISO1050DUBR
 

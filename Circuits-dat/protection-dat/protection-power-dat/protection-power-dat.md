@@ -13,6 +13,8 @@
 
 - [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
 
+- [[protection-ESD-dat]]
+
 
 ## Power Protection 
 
@@ -30,6 +32,12 @@
 - [[power-protection-Vmotor-dat]] - [[battery-protection-dat]]
 
 - discharge == [[resistor-dat]]
+
+
+## power-up buffer 
+
+![](2026-07-20-20-43-32.png)
+
 
 ## over power protocols 
 
