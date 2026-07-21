@@ -28,6 +28,18 @@ integrated
 ![](2026-07-04-22-38-01.png)
 
 
+
+## 1-to-2 adapter 
+
+![](2026-07-21-20-22-10.png)
+
+
+## extension bar 
+
+![](2026-07-21-20-23-19.png)
+
+![](2026-07-21-20-23-35.png)
+
 ## ref 
 
 - [[insta360]] - [[gopro]] - [[insta360-go-rack]] - [[gopro-amount]]

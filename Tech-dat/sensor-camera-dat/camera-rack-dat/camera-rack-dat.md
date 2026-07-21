@@ -2,7 +2,7 @@
 
 # camera-rack-dat
 
-
+- [[sensor-camera-dat]] - [[camera-rack-dat]] - [[installation-dat]]
 
 - [[camera-rack-dat]] - [[sensor-camera-dat]] - [[camera-wireless-dat]]
 

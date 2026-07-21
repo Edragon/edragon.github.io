@@ -3,6 +3,9 @@
 # installation-dat
 
 
+- [[sensor-camera-dat]] - [[camera-rack-dat]] - [[installation-dat]] - [[mounting-dat]] 
+
+
 
 - [[glue-dat]] - [[mounting-dat]] - [[installation-dat]]
 
@@ -18,7 +21,7 @@
 
 - [[tube-dat]] - [[hose-clamp-dat]]
 
-
+- [[tube-dat]] - [[installation-dat]] - [[installation-tube-dat]] - [[hose-clamp-dat]]
 
 ## quick installation 
 
@@ -46,4 +49,31 @@ types
 
 ## ref 
 
+
+
+# mounting-dat
+
+
+- [[sensor-camera-dat]] - [[camera-rack-dat]] - [[installation-dat]] - [[mounting-dat]] - [[installation-dat]]
+
+
+
+- [[glue-dat]] - [[mounting-dat]] - [[installation-dat]]
+
+- [[glue-dat]]
+
+- often remove options - [[velcro-dat]] - velcro-strap
+
+- tube connection - [[zip-tie-dat]] == strap
+
+
+## other Connection 
+
+Coarse Planar 
+
+- [[screw-dat]]
+
+- Clamp Mount / Jaw Mount
+
+- Bungee Cord Mount
 
