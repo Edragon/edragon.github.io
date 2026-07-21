@@ -5,12 +5,16 @@
 
 - [[sensor-camera-dat]] - [[camera-rack-dat]] - [[installation-dat]] - [[mounting-dat]] 
 
-
+- [[rack-dat]]
 
 - [[glue-dat]] - [[mounting-dat]] - [[installation-dat]]
 
 
 - [[hack-dat]] - [[installation-dat]]
+
+- [[Installation-Hole-dat]] - [[installation-dat]]
+
+
 
 ## wall amount 
 
@@ -22,6 +26,8 @@
 - [[tube-dat]] - [[hose-clamp-dat]]
 
 - [[tube-dat]] - [[installation-dat]] - [[installation-tube-dat]] - [[hose-clamp-dat]]
+
+- [[installation-antenna-dat]] - [[antenna-dat]] - [[installation-dat]] - [[installation-tube-dat]]
 
 ## quick installation 
 

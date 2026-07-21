@@ -9,6 +9,9 @@
 
 ## surface amount 
 
+
+size == 4.5 x 3.5 CM 
+
 [[tape-dat]] + base + quick amount + [[screw-dat]]
 
 ![](2026-06-07-16-36-26.png)

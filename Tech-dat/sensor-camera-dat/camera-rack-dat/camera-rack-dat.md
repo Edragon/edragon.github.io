@@ -9,6 +9,8 @@
 
 - [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-rack-dat]] - [[sensor-camera-dat]]
 
+- [[insta360-go-rack-dat]] - [[gopro-amount-dat]]
+
 
 - [[FPV-dat]] - [[caddxFPV-ratelpro-dat]] - [[caddxFPV-dat]]
 
@@ -17,6 +19,8 @@
 - [[fab-3d-print-dat]]
 
 - [[X12-dat]]
+
+- [[rack-dat]]
 
 ## FPV camera canopy 
 
@@ -54,3 +58,31 @@ digital DJI O3
 ## ref 
 
 - [[insta360]] - [[gopro]] - [[insta360-go-rack]] - [[gopro-amount]]
+
+
+
+# camera-installation-dat.md
+
+- [[camera-installation-dat]] - [[sensor-camera-dat]] - [[Hose-Clamp-dat]]
+
+## on the tube 
+
+- [[Hose-Clamp-dat]]
+
+
+## on the rack 
+
+2D rack 
+
+![](2026-04-02-18-29-53.png)
+
+
+3D rack 
+
+![](2026-04-02-18-29-42.png)
+
+
+
+
+## ref 
+
