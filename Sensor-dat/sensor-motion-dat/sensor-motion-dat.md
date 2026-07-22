@@ -13,7 +13,7 @@
 
 - [[sensor-proximity-dat]]
 
-- [[sensor-TOF-dat]]
+- [[sensor-TOF-dat]] - [[sensor-PIR-dat]]
 
 
 

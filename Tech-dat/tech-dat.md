@@ -166,7 +166,7 @@
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[sensor-energy-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]]
+- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]] - [[sensor-PIR-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-temperature-non-contact-dat]]
 

@@ -1,5 +1,5 @@
 
-# PIR-sensor-dat
+# sensor-PIR-dat
 
 - [legacy wiki page](https://w.electrodragon.com/w/PIR_sensor)
 
@@ -12,10 +12,18 @@
 
 - [[D203S-dat]]
 
+- [[senba-sensing-dat]] - [[sensor-PIR-dat]] - [[sensor-motion-dat]]
 
 ## Working priciple 
 
 ![](2023-12-12-17-56-14.png)
+
+
+
+
+## APP SCH 
+
+![](2026-07-22-20-46-35.png)
 
 
 ## Arduino Demo Code 
