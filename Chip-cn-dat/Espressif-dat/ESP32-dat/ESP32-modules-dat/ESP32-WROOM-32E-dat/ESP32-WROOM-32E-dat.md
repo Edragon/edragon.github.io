@@ -1,6 +1,10 @@
 
 # ESP32-WROOM-32E-dat
 
+
+- [[ESP32-modules-dat]] - [[ESP32-board-dat]] - [[ESP32-WROOM-dat]] - SCH in [[ESP32-WROOM-32E-dat]] - [[ESP32-module-clone-dat]] - [[ESP32-WROVER-dat]]
+
+
 - [ESP32-WROOM-32E-DAT EN](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
 
 - [[esp32-wroom-32e_esp32-wroom-32ue_datasheet_en_v1.7.pdf]]
@@ -75,6 +79,13 @@ The pins HS1_STROBE, HS1_DATA4, HS1_DATA5, HS1_DATA6, and HS1_DATA7 on the ESP32
 
 - [[spi-flash-dat]]
 
+
+## SCH periperhals 
+
+![](14-36-18-09-08-2023.png)
+
+
+
 ## Module Schematic 32E 
 
 ![](2025-01-03-14-38-13.png)
@@ -87,4 +98,9 @@ internal flash memory
 ![](11-27-01-08-02-2023.png)
 
 Pins GPIO6 to GPIO11 on the ESP32-D0WD-V3/ESP32-D0WDR2-V3 chip are connected to the SPI flash integrated on the module and are not led out.
+
+
+
+
+## ref 
 

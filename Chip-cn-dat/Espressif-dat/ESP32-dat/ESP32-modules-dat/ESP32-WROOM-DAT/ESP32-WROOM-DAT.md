@@ -2,7 +2,7 @@
 
 # ESP32-WROOM-DAT
 
-
+- [[ESP32-modules-dat]] - [[ESP32-board-dat]] - [[ESP32-WROOM-dat]] - SCH in [[ESP32-WROOM-32E-dat]] - [[ESP32-module-clone-dat]] - [[ESP32-WROVER-dat]]
 
 - [[ESP32-WROOM-32E-dat]] - [[ESP32-dat]] - [[ESP32-modules-dat]] - [[ESP32-WROOM-dat]]
 
@@ -126,9 +126,6 @@ Module interfaces
 
 
 
-## SCH periperhals 
-
-![](14-36-18-09-08-2023.png)
 
 
 ## Pin Definitions 

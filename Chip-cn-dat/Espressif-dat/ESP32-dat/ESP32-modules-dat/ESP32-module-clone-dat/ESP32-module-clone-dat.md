@@ -1,6 +1,12 @@
 
 # ESP32-module-clone-dat
 
+
+
+
+- [[ESP32-modules-dat]] - [[ESP32-board-dat]] - [[ESP32-WROOM-dat]] - SCH in [[ESP32-WROOM-32E-dat]] - [[ESP32-module-clone-dat]] - [[ESP32-WROVER-dat]]
+
+
 all [[RSSI-dat]] test run in **3 meters wifi connection distance**, same environment.
 
 
