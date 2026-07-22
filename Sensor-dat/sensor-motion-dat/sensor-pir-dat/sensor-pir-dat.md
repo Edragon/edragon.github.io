@@ -101,6 +101,12 @@ when the human body from the front to the probe or from top to bottom or from bo
 - works with [[ESP32-dat]] - https://x.com/electro_phoenix/status/1877256534687650008
 
 
+read PIR IO 14 - [[senba-sensing-dat]] - [[sensor-pir-IO14-1.ino]]
+
+![](2026-07-22-20-54-39.png)
+
+
+
 ## ref 
 
 - [[PIR-sensor]]
