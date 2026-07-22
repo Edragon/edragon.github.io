@@ -30,6 +30,11 @@ with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 - [[SVC1002-dat]] - [[SVC1004-dat]]
 
 
+## code 
+
+- [[ACS712-test-1.ino]]
+
+
 ## ref 
 
 - datasheet - [[ACS712-DS.pdf]]

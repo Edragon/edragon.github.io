@@ -1,7 +1,7 @@
 
 # mosfet-dat
 
-drive [[motor-dat]], [[LED-dat]]
+drive [[motor-dat]], [[LED-dat]] - [[motor-driver-dat]]
 
 control by [[arduino-dat]] - [[MCU-dat]]
 
@@ -11,6 +11,8 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 
 - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[motor-driver-design-dat]] - [[mosfet-dat]]
+
+
 
 ## tech 
 

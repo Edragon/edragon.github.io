@@ -9,6 +9,9 @@
 
 ## chip 
 
+
+MC1458 - MC1458, MC1558 - DUAL GENERAL-PURPOSE OPERATIONAL AMPLIFIERS
+
 - [[3peak-dat]] - [[TP5551-dat]] - [[TP09-dat]] - [[amp-op-dat]]
 
 
@@ -16,6 +19,10 @@
 
 
 ![](2025-11-01-18-49-35.png)
+
+
+
+
 
 ## typs 
 

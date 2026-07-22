@@ -4,6 +4,7 @@
 
 - [[motor-driver-mosfet-dat]] - [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[motor-driver-dead-time-protection-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
 
+- [[ESP32-dat]]
 
 ### Smart MCU Safety Firewall Architecture
 
