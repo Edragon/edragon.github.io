@@ -35,3 +35,5 @@ with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 - datasheet - [[ACS712-DS.pdf]]
 
 - [[cross-chip-dat]] - [[CC6902-dat]] - [[ACS712-dat]]
+
+- [[ESP32-dat]]

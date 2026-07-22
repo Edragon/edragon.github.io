@@ -21,7 +21,7 @@
 
 - [[ACS712-dat]] - [[SVC1000-dat]]
 
-
+- [[ESP32-dat]]
 
 ## alternative to [[ACS712-dat]]
 
