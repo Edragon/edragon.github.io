@@ -22,6 +22,36 @@
 
 
 
+## common categories 
+
+Single Output
+
+Offering single output regulators with a Vin ≤ 6.5V.
+
+Multiple Output - [[LDO-2CH-dat]] - [[LDO-3CH-dat]]
+
+Offering both dual output regulators with a Vin ≤ 5.5V and multiple output linear regulator controllers.
+
+Wide Vin
+
+Vin ≤ 80V for applications requiring wide input range and high input voltage.
+
+Low Iq
+
+For applications requiring long standby time and running in burst mode conditions.
+
+ 
+Low Noise & High PSRR
+
+For noise-sensitive system to filter out input ripple and provide low noise/high PSRR at the output.
+
+ 
+Automotive & Industrial
+
+The AEC-Q100 qualified LDOs and LDOs operating in wide temperature ratings are ideal for automotive and industrial applications.
+
+
+
 
 
 ## boards 
@@ -31,8 +61,11 @@
 
 
 
-## comparable table 
+## chip 
 
+- [[RT9011-dat]] - [[RT9013-dat]] - [[RT9193-dat]] - [[richtek-dat]] - [[RT9266-dat]] - [[RT8279-dat]] - [[LDO-2CH-dat]]
+
+comparable table 
 
 
 

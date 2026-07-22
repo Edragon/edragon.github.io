@@ -1,7 +1,17 @@
 
 # richtek-dat
 
+
+- [[RT9011-dat]] - [[RT9013-dat]] - [[RT9193-dat]] - [[richtek-dat]] - [[RT9266-dat]] - [[RT8279-dat]]
+
+
 - [[dcdc-down-dat]]
+
+## RT9014 
+
+The RT9014/A can operate stably with very small ceramic output capacitors, reducing required board space and component cost. The RT9014/A is available in fixed output voltages in the WDFN-10L 3x3 package.
+
+
 
 ## RT9742
 
