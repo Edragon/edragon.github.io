@@ -205,6 +205,16 @@ While originally designed in the 20th century to connect computers (DTE) to tele
 * **Telecommunications:** Network routers and switches still frequently use full serial interfaces for console management.
 
 
+## SCH 
+
+- [[CH340-dat]] with - [[isolation-dat]]
+
+![](2026-07-23-16-17-36.png)
+
+
+
+
+
 ## ref 
 
 software [[com-monitor-dat]]

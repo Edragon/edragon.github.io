@@ -44,7 +44,7 @@ To get this working, you simply need to map your microphone's pins to the ESP32â
 
 | Microphone Label  | I2S Standard Name    | variants   | ESP32 Function | Role                                              |
 |:------------------|:---------------------|---|:---------------|:--------------------------------------------------|
-| **CLK** (or BCLK) | **SCK** (Bit Clock)  | CLK  | Output         | The heartbeat that times every individual bit.    |
+| **CLK** (or BCLK SCLK) | **SCK** (Bit Clock)  | CLK  | Output         | The heartbeat that times every individual bit.    |
 | **L/R** (or WS)   | **WS** (Word Select) | FS  | Output         | Toggles to define the start of Left/Right frames. |
 | **DATA** (or SD)  | **SDIN** (Data In)   | TX  | Input          | The digital audio stream entering the ESP32.      |
 

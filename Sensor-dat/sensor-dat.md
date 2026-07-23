@@ -1,6 +1,9 @@
 
 # sensor-dat 
 
+
+- [[sensor-weight-dat]] - [[HX711-dat]] - [[sensor-dat]] - [[ADC-dat]]
+
 - [[sensor-Camera-dat]] - [[sensor-microphone-dat]]
 
 - [[sensor-motion-dat]] - [[sensor-PIR-dat]] - [[radar-sensor]] - [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-axis-magnetic-dat]] - [[6-axis-dat]]
@@ -106,6 +109,9 @@ Here’s a list of 30 commonly used types of sensors, categorized by their typic
 - Piezoelectric Vibration Sensors
 
 ### Force and Weight Sensors
+
+- [[sensor-weight-dat]] - [[HX711-dat]] - [[sensor-dat]]
+
 - Load Cells
 - Force Sensitive Resistors (FSRs)
 

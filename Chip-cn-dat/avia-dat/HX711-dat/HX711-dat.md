@@ -1,6 +1,9 @@
 
 # HX711-dat
 
+
+- [[sensor-weight-dat]] - [[HX711-dat]] - [[sensor-dat]] - [[ADC-dat]]
+
 - [[ADC-dat]]
 
 - datasheet = [[hx711_english.pdf]]
@@ -27,6 +30,10 @@ FEATURES
 ![](2025-05-08-17-29-50.png)
 
 - [[weight-dat]]
+
+
+![](2026-07-23-16-42-49.png)
+
 
 
 ## ref 

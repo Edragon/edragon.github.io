@@ -33,6 +33,10 @@ Yes, 8-bit SPI flash does exist in the context of the ESP32 and similar chips. T
 
 ## SPI Flash SCH
 
+general 1 
+
+![](2026-07-23-16-26-18.png)
+
 general design 
 
 ![](2026-01-23-03-42-16.png)

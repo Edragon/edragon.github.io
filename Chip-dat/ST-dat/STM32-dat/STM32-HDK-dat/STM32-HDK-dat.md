@@ -71,6 +71,13 @@ stm32flash -w firmware.bin -v -g 0x0 /dev/ttyUSB0
 
 - [[Lora-HDK-dat]]
 
+
+
+## SCH 
+
+![](2026-07-23-16-41-57.png)
+
+
 ## ref 
 
 - [[STM32-dat]]

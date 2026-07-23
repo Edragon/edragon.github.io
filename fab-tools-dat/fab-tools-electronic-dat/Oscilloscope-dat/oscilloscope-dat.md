@@ -63,6 +63,24 @@ $299 12bit == https://youtu.be/3hyp0-0ns9U?t=680
 
 
 
+## test demo 
+
+
+normal mode - 5V - 50uS 
+
+- [[ES8311-dat]] - [[oscilloscope-dat]]
+
+pin MCLK
+
+![](2026-07-23-15-36-27.png)
+
+pin LRCK 
+
+![](2026-07-23-15-37-52.png)
+
+pin SCLK 
+
+![](2026-07-23-15-38-21.png)
 
 ## ref 
 

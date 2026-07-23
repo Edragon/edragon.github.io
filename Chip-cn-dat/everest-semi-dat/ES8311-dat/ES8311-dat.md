@@ -1,6 +1,8 @@
 
 # ES8311-dat
 
+- [[oscilloscope-dat]] - [[ES8311-dat]]
+
 - [[adc-dat]] - [[DAC-dat]] - [[record-dat]] - [[playback-dat]] - [[everest-semi-dat]]
 
 - [[audio-dat]] - [[ES8311-dat]]
@@ -12,6 +14,7 @@
 
 - [[NS4150-dat]] 
 
+- [[I2S-dat]]
 
 
 ## board 
@@ -120,6 +123,11 @@ digital microhpone
 ![](2025-11-01-19-36-04.png)
 
 
+## SCH 3 
+
+![](2026-07-23-16-10-50.png)
+
+![](2026-07-23-16-11-27.png)
 
 
 ## ref 

@@ -1,15 +1,22 @@
 #include <Wire.h>
 #include <ESP_I2S.h> // Uses the standard ESP32 Arduino I2S library
 
-// Define your board's pin layout (Change these values to match your specific board schematic)
-#define I2C_SDA      18
-#define I2C_SCL      17
+// Fallback in case Arduino core doesn't define PI
+#ifndef PI
+#define PI 3.141592653589793f
+#endif
 
-#define I2S_BCLK     5
-#define I2S_LRCK     4
-#define I2S_DOUT     6
-#define I2S_DIN      7
-#define I2S_MCLK     2
+// Define your board's pin layout (Change these values to match your specific board schematic)
+#define I2S_BCLK 14
+#define I2S_LRCK 12
+#define I2S_DOUT 13
+#define I2S_DIN  -1   // not used (DAC playback only)
+
+#define I2S_MCLK 6
+
+#define I2C_SDA 5
+#define I2C_SCL 4
+
 
 // NS4150 CTRL pin: hardware-pulled HIGH (no GPIO needed)
 
@@ -174,47 +181,132 @@ void setup() {
   Serial.println("✅ I2S initialized successfully (STEREO).");
 }
 
+// === Melody: "Twinkle Twinkle Little Star" ===
+// Frequencies in Hz
+#define NOTE_C4  262
+#define NOTE_D4  294
+#define NOTE_E4  330
+#define NOTE_F4  349
+#define NOTE_G4  392
+#define NOTE_A4  440
+#define NOTE_B4  494
+#define NOTE_C5  523
+#define NOTE_REST 0
+
+struct Note {
+  uint16_t freq;     // Hz, 0 = rest
+  uint16_t duration; // ms
+};
+
+const Note melody[] = {
+  // Twinkle twinkle little star
+  {NOTE_C4, 400}, {NOTE_C4, 400}, {NOTE_G4, 400}, {NOTE_G4, 400},
+  {NOTE_A4, 400}, {NOTE_A4, 400}, {NOTE_G4, 800},
+  // How I wonder what you are
+  {NOTE_F4, 400}, {NOTE_F4, 400}, {NOTE_E4, 400}, {NOTE_E4, 400},
+  {NOTE_D4, 400}, {NOTE_D4, 400}, {NOTE_C4, 800},
+  // Up above the world so high
+  {NOTE_G4, 400}, {NOTE_G4, 400}, {NOTE_F4, 400}, {NOTE_F4, 400},
+  {NOTE_E4, 400}, {NOTE_E4, 400}, {NOTE_D4, 800},
+  // Like a diamond in the sky
+  {NOTE_G4, 400}, {NOTE_G4, 400}, {NOTE_F4, 400}, {NOTE_F4, 400},
+  {NOTE_E4, 400}, {NOTE_E4, 400}, {NOTE_D4, 800},
+  // Twinkle twinkle little star
+  {NOTE_C4, 400}, {NOTE_C4, 400}, {NOTE_G4, 400}, {NOTE_G4, 400},
+  {NOTE_A4, 400}, {NOTE_A4, 400}, {NOTE_G4, 800},
+  // How I wonder what you are
+  {NOTE_F4, 400}, {NOTE_F4, 400}, {NOTE_E4, 400}, {NOTE_E4, 400},
+  {NOTE_D4, 400}, {NOTE_D4, 400}, {NOTE_C4, 800},
+  // Pause before repeat
+  {NOTE_REST, 600},
+};
+const int melody_len = sizeof(melody) / sizeof(Note);
+
+const int SAMPLE_RATE = 16000;
+const int BUFFER_SAMPLES = 256;
+
+// Timing constants (in ms)
+const int ATTACK_MS  = 12;   // note attack ramp
+const int RELEASE_MS = 15;   // note release ramp
+const int GAP_MS     = 3;    // silence gap between notes
+const int XFADE_MS   = 8;    // frequency crossfade duration
+
+// State
+static float phase = 0.0f;
+static uint8_t note_idx = 0;
+static uint32_t note_start_ms = 0;
+static float prev_freq = melody[0].freq;
+static bool first_buffer = true;
+
 void loop() {
-  const int sample_rate = 16000;
-  const float frequency = 440.0; // 440Hz (A4 note)
-  const int ramp_duration_ms = 3000;  // 3 seconds ramp
-  const int hold_duration_ms = 2000;  // 2 seconds hold at max
-  const int buffer_samples = 256; // mono samples
-  int16_t audio_buffer[buffer_samples * 2]; // stereo: L,R interleaved
-  
-  static uint32_t sample_index = 0;
-  static uint32_t last_print = 0;
-  uint32_t ramp_samples = sample_rate * (ramp_duration_ms / 1000.0);
-  uint32_t hold_samples = sample_rate * (hold_duration_ms / 1000.0);
-  uint32_t total_samples_in_cycle = ramp_samples + hold_samples;
+  int16_t audio_buffer[BUFFER_SAMPLES * 2]; // stereo L,R interleaved
+  uint32_t now = millis();
+  uint32_t note_elapsed = now - note_start_ms;
+  Note current = melody[note_idx];
 
-  for (int i = 0; i < buffer_samples; i++) {
-    uint32_t current_pos = sample_index % total_samples_in_cycle;
-    float volume;
+  // --- Note transition ---
+  if (note_elapsed >= current.duration + GAP_MS) {
+    prev_freq = current.freq;
+    note_idx++;
+    if (note_idx >= melody_len) note_idx = 0;
+    note_start_ms = now;
+    current = melody[note_idx];
+    Serial.printf("♪ Note %d: freq=%d Hz, dur=%d ms\n",
+                  note_idx, current.freq, current.duration);
+  }
+  // Recalculate note_elapsed AFTER possible transition (fixes envelope bug)
+  note_elapsed = now - note_start_ms;
 
-    if (current_pos < ramp_samples) {
-      volume = (float)current_pos / ramp_samples;
-    } else {
-      volume = 1.0f;
+  // --- Crossfade frequency between old and new note ---
+  float xfade_k = (note_elapsed < XFADE_MS) ? (note_elapsed / (float)XFADE_MS) : 1.0f;
+  float freq = prev_freq * (1.0f - xfade_k) + current.freq * xfade_k;
+
+  // --- Generate audio buffer ---
+  int gap_samples = GAP_MS * SAMPLE_RATE / 1000;
+  int attack_samples = ATTACK_MS * SAMPLE_RATE / 1000;
+  int release_samples = RELEASE_MS * SAMPLE_RATE / 1000;
+  // current elapsed in samples (estimate, tracking from note_start)
+  uint32_t sample_offset = (uint32_t)((float)note_elapsed * SAMPLE_RATE / 1000.0f);
+  uint32_t dur_samples = (uint32_t)((float)current.duration * SAMPLE_RATE / 1000.0f);
+
+  for (int i = 0; i < BUFFER_SAMPLES; i++) {
+    uint32_t s = sample_offset + i;
+    int16_t sample;
+
+    // Silence during gap between notes
+    if (s < (uint32_t)gap_samples) {
+      sample = 0;
     }
-    
-    float sin_val = sin(2.0 * PI * frequency * sample_index / sample_rate);
-    int16_t sample = (int16_t)(sin_val * volume * 32767);
-    
-    // Write same sample to both Left and Right channels
+    // Silence during rest (after crossfade)
+    else if (current.freq == 0 && note_elapsed >= XFADE_MS) {
+      sample = 0;
+    }
+    else {
+      // Envelope: attack → sustain → release
+      float envelope = 0.75f;
+      uint32_t note_s = s - gap_samples; // sample pos relative to note body
+      if (note_s < (uint32_t)attack_samples) {
+        envelope *= (float)note_s / attack_samples;              // linear attack
+      } else if (note_s > dur_samples - release_samples && dur_samples > (uint32_t)(attack_samples + release_samples)) {
+        uint32_t rel = dur_samples - note_s;
+        envelope *= (float)rel / release_samples;                // linear release
+      }
+
+      sample = (int16_t)(sinf(phase) * envelope * 28000);
+      phase += 2.0f * PI * freq / SAMPLE_RATE;
+      if (phase > 2.0f * PI) phase -= 2.0f * PI;
+    }
     audio_buffer[i * 2]     = sample; // Left
     audio_buffer[i * 2 + 1] = sample; // Right
-    
-    sample_index++;
   }
-  
-  size_t written = i2s.write((uint8_t*)audio_buffer, sizeof(audio_buffer));
 
-  // Print status every ~2 seconds
-  if (millis() - last_print > 2000) {
-    last_print = millis();
-    uint32_t sec = sample_index / sample_rate;
-    Serial.printf("▶ Streaming: %lu sec, sample=%d, bytes=%d\n",
-                  sec, audio_buffer[0], written);
+  size_t written = i2s.write((uint8_t*)audio_buffer, sizeof(audio_buffer));
+  if (written != sizeof(audio_buffer)) {
+    Serial.printf("⚠ I2S write short: %d / %d bytes\n", written, sizeof(audio_buffer));
+  }
+
+  if (first_buffer) {
+    Serial.println("▶ Melody started: Twinkle Twinkle Little Star");
+    first_buffer = false;
   }
 }

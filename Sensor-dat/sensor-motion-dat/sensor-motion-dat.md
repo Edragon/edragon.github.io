@@ -29,6 +29,8 @@
 
 ## Sensor Comparison Table
 
+- [[TCRT5000-dat]] - [[SMO1070-dat]]
+
 - [[sensor-radar-dat]]
 
 |                   | **PIR**                                                                                                             | **RCWL**                                                                                      | **Radar**                                                                                                 | **Lidar**                                                                                                       |

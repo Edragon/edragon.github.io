@@ -127,7 +127,9 @@ For fast-switching applications, a 1N5819 Schottky diode (rated 40V, 1A) might b
 
 
 
+## SCH 
 
+![](2026-07-23-16-20-23.png)
 
 
 ## ref 

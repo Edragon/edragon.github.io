@@ -41,6 +41,12 @@ Supported MP3 formats: MPEG-1 (ISO/IEC 11172-3), MPEG-2 (ISO/IEC 13818-3), and M
 
 ![](2026-02-27-02-38-07.png)
 
+SCH 2 
+
+![](2026-07-23-16-18-58.png)
+
+
+
 ## Documentation
 
 - Datasheet: https://w.electrodragon.com/w/LD3320_Datasheet
@@ -48,6 +54,12 @@ Supported MP3 formats: MPEG-1 (ISO/IEC 11172-3), MPEG-2 (ISO/IEC 13818-3), and M
 ## Source / Example Code
 
 - Example driver and sample code: https://github.com/libdriver/ld3320
+
+
+## control 
+
+- [[relay-dat]]
+
 
 ## ref 
 
