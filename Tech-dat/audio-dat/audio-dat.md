@@ -38,6 +38,8 @@
 
 ## chip 
 
+- [[ISD1820-dat]] - [[SSL1008-dat]]
+
 
 - [[ES9023-dat]] - [[ESS-technology-dat]] - [[DAC-dat]] - [[audio-dat]]
 

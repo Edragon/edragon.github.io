@@ -74,6 +74,12 @@ drive 3
 legacy wiki page - [Infrared for RPI](https://www.electrodragon.com/w/index.php?title=RPI_IR&redirect=no)
 
 
+
+## SCH STC11 
+
+![](2026-07-23-17-12-40.png)
+
+
 ## BOM 
 
 - [[infrared-receiver-dat]] - [[infrared-sender-dat]]

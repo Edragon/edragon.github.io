@@ -26,7 +26,7 @@ Here's a more detailed breakdown:
 ![](2025-04-01-15-43-20.png)
 
 
-
+![](2026-07-23-17-17-12.png)
 
 
 ## ref 

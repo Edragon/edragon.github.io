@@ -3,6 +3,9 @@
 # sensor-soil-dat
 
 
+- [[sensor-dat]]
+
+
 - [[sensor-soil-moisture-dat]] - [[ph-tester-dat]] 
 
 - [[sensor-temperature-dat]]
@@ -17,6 +20,9 @@
 
 
 
+## SCH 
+
+![](2026-07-23-17-18-47.png)
 
 ## ref 
 

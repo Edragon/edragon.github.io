@@ -2,15 +2,17 @@
 #include "AudioBoard.h"
 
 // 1. Define your pins clearly
-#define I2S_BCLK 5
-#define I2S_LRCK 4
-#define I2S_DOUT 6
-#define I2S_MCLK 2
+#define I2C_SDA      5
+#define I2C_SCL      4
 
-#define I2C_SDA 18
-#define I2C_SCL 17
+#define I2S_BCLK     14
+#define I2S_LRCK     12
+#define I2S_DOUT     13
+#define I2S_DIN      -1    // unused (DAC playback only)
+#define I2S_MCLK     6
 
-#define I2S_DIN  7  // I2S Data Input (from ES8311 to ESP32)
+
+
 
 using namespace audio_driver;
 using namespace audio_tools;
@@ -31,19 +33,30 @@ void setup()
     Serial.begin(115200);
     while(!Serial); // Wait for Serial to be ready
 
-    // Define I2S Pins for the driver (Include DIN pin)
-    my_pins.addI2S(PinFunction::CODEC, I2S_MCLK, I2S_BCLK, I2S_LRCK, I2S_DOUT, I2S_DIN);
+    // ★ 先初始化 I2S 输出 MCLK，再初始化 I2C
+    // ES8311 需要 MCLK 才能响应 I2C 配置
+    auto config_tx = i2s.defaultConfig(TX_MODE);  // 先设为 TX 模式驱动 MCLK
+    config_tx.pin_bck = I2S_BCLK;
+    config_tx.pin_ws  = I2S_LRCK;
+    config_tx.pin_data = I2S_DOUT;
+    config_tx.pin_mck = I2S_MCLK;
+    config_tx.sample_rate = 16000;
+    config_tx.channels = 2;
+    config_tx.bits_per_sample = 16;
+    i2s.begin(config_tx);
+    delay(10);  // 等待 MCLK 稳定
 
-    // Initialize Wire and add to pins for the driver
+    // 然后初始化 I2C
     Wire.begin(I2C_SDA, I2C_SCL);
+    Wire.setClock(100000);  // 先用低速 100kHz 测试
     my_pins.addI2C(PinFunction::CODEC, Wire);
 
-    // Start the board (I2C configuration of ES8311)
-    if (!board.begin())
-    {
+    my_pins.addI2S(PinFunction::CODEC, I2S_MCLK, I2S_BCLK, I2S_LRCK, I2S_DOUT, I2S_DIN);
+
+    // 现在 I2C 应该能通信了
+    if (!board.begin()) {
         Serial.println("Failed to initialize ES8311 Board!");
-        while (true)
-            ;
+        while (true);
     }
     
     // Configure for Input (Microphone) using setConfig

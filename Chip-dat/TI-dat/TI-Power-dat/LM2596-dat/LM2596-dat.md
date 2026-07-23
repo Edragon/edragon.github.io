@@ -23,6 +23,10 @@ https://www.ti.com/lit/ds/symlink/lm2596.pdf?ts=1696891822162
 
 ![](2025-06-30-14-53-51.png)
 
+SCH 2 
+
+![](2026-07-23-17-21-41.png)
+
 
 ## Modules 
 - [[OPM1003-dat]] - [[OPM1026-dat]]

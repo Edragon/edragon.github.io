@@ -8,6 +8,9 @@
   
 - [[infineon-power-dat]] - [[infineon-dat]] - [[power-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
 
+
+
+
 ## chip and companies
 
 - [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]]
@@ -50,6 +53,9 @@
 
 - [[SCT-dat]] - [[SCT2650-dat]] == STC2650 == 4.5V-60V Vin, 5A, High Efficiency Step-down DCDC Converter with
 Programmable Frequency - [[DCDC-down-dat]]
+
+
+
 
 
 

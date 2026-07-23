@@ -107,6 +107,11 @@ read PIR IO 14 - [[senba-sensing-dat]] - [[sensor-pir-IO14-1.ino]]
 
 
 
+
+## SCH 
+
+![](2026-07-23-17-04-54.png)
+
 ## ref 
 
 - [[PIR-sensor]]

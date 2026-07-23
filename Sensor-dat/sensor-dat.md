@@ -166,6 +166,19 @@ https://github.com/Edragon/Sensor
 https://github.com/hechao/Camera
 
 
+
+
+## sensor 
+
+flame 
+
+![](2026-07-23-17-05-55.png)
+
+
+![](2026-07-23-17-19-28.png)
+
+
+
 ## ref 
 
 - [[sensor]]

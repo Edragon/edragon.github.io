@@ -44,6 +44,12 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 
 
+## chip 
+
+- [[AD7606-dat]]
+
+![](2026-07-23-17-14-33.png)
+
 ## SCH 
 
 ### ADC with measure MOSFET control 

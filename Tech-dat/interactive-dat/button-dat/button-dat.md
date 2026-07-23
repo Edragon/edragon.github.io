@@ -76,6 +76,11 @@ small size
 - [[battery-protector-dat]] - [[DW06-dat]]
 
 
+
+## SCH 
+
+![](2026-07-23-17-28-22.png)
+
 ## ref 
 
 - [[switch-dat]]

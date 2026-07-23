@@ -32,3 +32,10 @@ On-chip control circuitry enables automatic power detection and manages power sw
 If the main power supply is lost, the device continues to provide accurate timing and temperature with unaffected performance.
 
 An on-chip reset function can be used to restart the system microprocessor when the main power supply is re-applied or the voltage value returns to an acceptable range.
+
+## SCH 
+
+![](2026-07-23-17-26-07.png)
+
+
+## ref 

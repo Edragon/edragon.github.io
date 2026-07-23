@@ -1,5 +1,7 @@
 # ES8311-SDK-dat
 
+- [[I2C-dat]]
+
 - [[ES8311-SDK-dat]] - [[ES8311-dat]] - [[everest-semi-dat]] - [[ES7201-dat]] - [[codec-audio-dat]] - [[I2S-dat]]
 
 - [[NS4150-dat]]

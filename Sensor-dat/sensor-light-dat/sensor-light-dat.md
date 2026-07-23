@@ -21,9 +21,16 @@
 - [[SSL1022-dat]]
 
 
-## light density 
+## light density chip
 
 - OPT101
+
+- [[BH1750-dat]]
+
+SCH 
+
+![](2026-07-23-17-10-47.png)
+
 
 ## SCH 
 

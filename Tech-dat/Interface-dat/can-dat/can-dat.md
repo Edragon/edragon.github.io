@@ -106,7 +106,15 @@ ADM3053BRWZ - Signal and Power Isolated CAN Transceiver with Integrated Isolated
 - [[Melexis-dat]] - [[TH8056-dat]] == TH8056 Enhanced Single Wire CAN Transceiver - [[CAN-dat]]
 
 
+## SCH 
 
+![](2026-07-23-17-03-01.png)
+
+
+
+230
+
+![](2026-07-23-17-15-18.png)
 
 
 ## ref 
