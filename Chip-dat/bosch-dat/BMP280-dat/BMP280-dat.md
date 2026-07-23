@@ -36,6 +36,10 @@ The sensor housing is an 8-pin metal-lid LGA 2.0 × 2.5× 0.95 mm3 package.
 
 
 
+## SCH 
+
+![](2026-07-23-20-48-21.png)
+
 
 ## ref 
 
