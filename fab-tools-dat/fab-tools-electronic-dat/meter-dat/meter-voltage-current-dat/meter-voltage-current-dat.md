@@ -13,7 +13,9 @@
 
 ## chip 
 
-- [[INA226-dat]]
+- [[INA226-dat]] - [[INA3221-dat]] - [[TI-sensor-dat]]
+
+
 
 ## build 
 

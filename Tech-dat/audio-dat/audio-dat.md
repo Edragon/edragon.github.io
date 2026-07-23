@@ -38,6 +38,10 @@
 
 ## chip 
 
+
+- [[CL1302-dat]] - [[audio-dat]] - [[Voice-detection-dat]]
+
+
 - [[ISD1820-dat]] - [[SSL1008-dat]]
 
 

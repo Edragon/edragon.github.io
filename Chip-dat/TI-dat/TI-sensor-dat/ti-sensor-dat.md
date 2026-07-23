@@ -1,6 +1,11 @@
 
 # ti-sensor-dat.md
 
+
+- [[INA226-dat]] - [[INA3221-dat]] - [[TI-sensor-dat]]
+
+
+
 [[dc-current-sensor-dat]] 
 
 - [[INA330-dat]]

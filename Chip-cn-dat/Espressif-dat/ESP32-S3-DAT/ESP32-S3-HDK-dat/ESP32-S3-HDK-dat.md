@@ -68,6 +68,14 @@ w/o module
 
 - [[SX1281-dat]] - [[semtech-dat]]
 
+
+
+## SCH 
+
+SCH 1 
+
+![](2026-07-23-20-38-44.png)
+
 ## ref 
 
 - [[ESP32-S3-dat]]

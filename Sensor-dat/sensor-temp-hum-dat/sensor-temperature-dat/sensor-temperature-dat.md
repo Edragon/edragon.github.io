@@ -28,6 +28,7 @@ wireless measurement
 
 ## chips temperature sensor 
 
+- [[MAX31856-dat]] - [[analog-device-dat]]
 
 - [[sensirion-dat]] - [[SHT4x-dat]]
 
