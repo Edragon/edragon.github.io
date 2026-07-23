@@ -1,6 +1,9 @@
 
 # WM8978-dat.md
 
+
+- [[codec-audio-dat]] - [[wm8978-dat]]
+
 The **WM8978** is a high-performance, low-power **stereo audio codec** from **Cirrus Logic (formerly Wolfson Microelectronics)**. It integrates a **stereo DAC (Digital-to-Analog Converter), a stereo ADC (Analog-to-Digital Converter), a headphone amplifier, and a microphone preamplifier**, making it ideal for portable and embedded audio applications.
 
 ## **Key Features**
@@ -27,4 +30,15 @@ The **WM8978** is a high-performance, low-power **stereo audio codec** from **Ci
 - Embedded systems and IoT audio applications.
 - Portable media devices and smart speakers.
 - VoIP and intercom systems.
+
+
+
+
+
+## SCH 
+
+![](2026-07-23-20-04-03.png)
+
+
+## ref 
 

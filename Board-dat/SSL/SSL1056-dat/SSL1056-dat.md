@@ -1,6 +1,8 @@
 
 # SSL1056-dat
 
+- [[codec-dat]] - [[MP3-dat]] - [[SSL1056-dat]]
+
 order link https://www.electrodragon.com/product/dfplayer-mini-mp3-module/
 
 legacy wiki page - https://www.electrodragon.com/w/DFPlayer_Mini
@@ -17,6 +19,12 @@ legacy wiki page - https://www.electrodragon.com/w/DFPlayer_Mini
 
 ![](2024-05-10-17-40-25.png)
 
+
+
+
+## wiring 
+
+![](2026-07-23-20-14-21.png)
 
 ## ref 
 

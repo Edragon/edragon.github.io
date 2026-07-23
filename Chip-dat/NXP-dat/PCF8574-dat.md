@@ -21,6 +21,9 @@ PCF8574 Remote 8-Bit I/O Expander for I2C Bus
 - [[IO-expander-dat]]
 
 
+## SCH 
+
+![](2026-07-23-20-15-45.png)
 
 
 ## ref 

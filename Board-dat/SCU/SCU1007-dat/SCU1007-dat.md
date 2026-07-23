@@ -1,6 +1,12 @@
 
 # SCU1007-dat 
 
+
+
+- [[EC11-dat]] - [[SCU1007-dat]] - [[encoder-dat]]
+
+
+
 ## Info
  
 [product url - 5PCs Rotary Encoder](https://www.electrodragon.com/product/5pcs-rotary-encoder/)

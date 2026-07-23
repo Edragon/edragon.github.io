@@ -33,8 +33,14 @@
 
 - a good Ethernet cable is necessary, if you have connection problem, please try to obivate this.
 
+## SCH 
+
+![](2026-07-23-20-02-09.png)
 
 
+SCH 2 
+
+![](2026-07-23-20-03-11.png)
 
 ## ref 
 

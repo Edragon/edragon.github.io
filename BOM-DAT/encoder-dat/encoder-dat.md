@@ -78,9 +78,15 @@ https://www.electrodragon.com/product/5pcs-rotary-encoder/
 
 act as a input 
 
-- [[EC11-dat]] - [[SCU1007-dat]]
+- [[EC11-dat]] - [[SCU1007-dat]] - [[encoder-dat]]
 
 ![](2026-07-17-18-44-40.png)
+
+
+
+## APP SCH 
+
+![](2026-07-23-19-52-43.png)
 
 
 ## ref 

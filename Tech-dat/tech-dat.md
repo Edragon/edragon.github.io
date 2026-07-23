@@ -214,7 +214,7 @@
 
 - [[amplifier-dat]] - [[codec-dat]] - [[amp-op-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]] - [[amplifier-GNSS-dat]]
 
-- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]]
+- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]] - [[MP3-dat]]
 
 - [[filter-dat]]
 
@@ -234,6 +234,8 @@
 - [[waterproof-dat]]
 
 - [[robot-dat]] - [[robotic-dat]]
+
+- [[peripherals-dat]]
 
 ## PROG
 

@@ -35,6 +35,12 @@ with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 - [[ACS712-test-1.ino]]
 
 
+
+## SCH 
+
+![](2026-07-23-20-11-56.png)
+
+
 ## ref 
 
 - datasheet - [[ACS712-DS.pdf]]

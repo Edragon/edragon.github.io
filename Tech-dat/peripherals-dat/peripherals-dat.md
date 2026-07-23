@@ -98,6 +98,13 @@ LEDs, buttons, [[resistor-trim-pot-dat]], [[DHT11-dat]]
 ![](2025-10-08-13-49-04.png)
 
 
+
+## SCH 
+
+SCH 1 
+
+![](2026-07-23-20-05-29.png)
+
 ## ref 
 
 read more at - [[V3S-dat]]
