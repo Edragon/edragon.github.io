@@ -51,6 +51,13 @@
 
 [[SIM800-RTU-Test.gif]]
 
+
+## SCH 
+
+![](2026-07-23-17-51-51.png)
+
+
+
 ## ref 
 
 - [[SIMCOM-dat]]

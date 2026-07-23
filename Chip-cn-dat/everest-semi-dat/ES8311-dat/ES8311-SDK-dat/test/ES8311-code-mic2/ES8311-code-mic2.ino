@@ -2,13 +2,14 @@
 #include <ESP_I2S.h>
 
 // PIN CONFIGURATION
-#define I2C_SDA      18
-#define I2C_SCL      17
-#define I2S_BCLK     5
-#define I2S_LRCK     4
-#define I2S_DOUT     6
-#define I2S_DIN      7
-#define I2S_MCLK     2
+#define I2C_SDA      5
+#define I2C_SCL      4
+
+#define I2S_BCLK     14
+#define I2S_LRCK     12
+#define I2S_DOUT     13
+#define I2S_DIN      11    // unused (DAC playback only)
+#define I2S_MCLK     6
 
 #define ES8311_ADDR  0x18 
 

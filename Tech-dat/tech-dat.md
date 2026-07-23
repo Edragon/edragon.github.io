@@ -200,11 +200,11 @@
 
 - [[interface-dat]] - [[IO-expander-dat]]
 
-- [[serial-dat]] - [[serial-wireless-dat]] - [[CP2104-dat]]
+- [[serial-dat]] - [[serial-wireless-dat]] - [[CP2104-dat]] - [[CH343-dat]]
   
-- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]]
+- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]] - [[sd-dat]]
 
-- [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]]
+- [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]] - [[generator-wave-dat]]
 
 - [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]] - [[I2S-dat]]
 

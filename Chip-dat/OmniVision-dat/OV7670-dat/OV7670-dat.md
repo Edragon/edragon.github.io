@@ -71,7 +71,9 @@ setup
     #define ssid1        "TP-LINK_888"  //Your wiff id
     #define password1    "Zhang520521" //Your wiff password
 
+## SCH 
 
+![](2026-07-23-17-49-21.png)
 
 
 ## ref 

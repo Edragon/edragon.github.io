@@ -17,7 +17,9 @@
 - Optional industrial temperature range -40 85
 - Dual-supply pipe for the main power supply and backup power supply
 
+## SCH 
 
+![](2026-07-23-18-15-05.png)
 
 ## ref 
 

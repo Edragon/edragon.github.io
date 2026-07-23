@@ -14,7 +14,15 @@
 
 - [[NS4150-dat]] 
 
-- [[I2S-dat]]
+- [[I2S-dat]] - [[I2S-amplifier-dat]] - [[speaker-I2S-dat]] 
+
+
+
+## board 
+
+- [[ESP32-LyraT-dat]] - [[ES8311-dat]] 
+
+- [[AI-WB1-dat]] - [[AIT-dat]] - [[ES8311-dat]] - [[W800-dat]] - [[W600-DAT]] - [[bouffalolab-dat]]
 
 
 ## board 
@@ -129,6 +137,16 @@ digital microhpone
 
 ![](2026-07-23-16-11-27.png)
 
+
+## SCH 4 
+
+module with external speaker 
+
+![](2026-07-23-18-35-32.png)
+
+AI-WB1-A1S_MODE
+
+- [[AI-WB1-dat]] - [[AIT-dat]]
 
 ## ref 
 

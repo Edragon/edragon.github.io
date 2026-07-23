@@ -21,6 +21,12 @@
 
 ## Demo Code and Video
 
+
+
+## SCH 
+
+![](2026-07-23-17-34-19.png)
+
 ## ref 
 
 - [[ILC1025]] 
