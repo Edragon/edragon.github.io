@@ -1,6 +1,11 @@
 
 # TI-dat.md
 
+
+
+- [[MCP23017-dat]] - [[TI-dat]] - [[TI-signal-dat]] - [[IO-expander-dat]] - [[TI-logic-dat]]
+
+
 - [[TI-dat]]
 
 - [[LM7705-dat]] - [[LM358-dat]] - [[LM386-dat]] - [[LM393-dat]] 

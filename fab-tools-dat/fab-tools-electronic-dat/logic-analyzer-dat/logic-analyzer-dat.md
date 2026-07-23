@@ -1,7 +1,9 @@
 
 # logic-analyzer-dat
 
+- nanoDLA
 
+![](2026-07-23-20-23-30.png)
 
 - [[logic-analyzer-dat]] - [[signal-digital-dat]] - [[signal-analog-dat]] - [[digital-dat]] - [[signal-dat]]
 

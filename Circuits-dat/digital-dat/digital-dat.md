@@ -12,7 +12,7 @@
 
 - [[WCH-dat]]
 
-
+- [[digital-analyzer-dat]] - [[logic-analyzer-dat]]
 
 
 

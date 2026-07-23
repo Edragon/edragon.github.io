@@ -29,6 +29,18 @@ FTDI's FT232R technical specifications, attributes, parameters, and parts with s
 ![](2023-09-06-14-51-40.png)
 
 
+
+## SCH 
+
+![](2026-07-23-20-31-06.png)
+
+SCH2 
+
+![](2026-07-23-20-31-37.png)
+
+
+
+
 ## ref 
 
 - driver - https://ftdichip.com/drivers/
