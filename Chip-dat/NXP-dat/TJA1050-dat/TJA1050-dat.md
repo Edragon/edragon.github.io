@@ -13,3 +13,10 @@ High speed CAN transceiver
 app SCH
 
 ![](2024-10-28-16-56-52.png)
+
+
+
+
+
+## ref 
+

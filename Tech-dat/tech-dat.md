@@ -193,7 +193,7 @@
 
 - [[switch-dat]] - [[switching-dat]]
 
-- [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[sensor-energy-dat]]
+- [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[sensor-energy-dat]] - [[sensor-voltage-current-dat]] - [[meter-dat]]
 
 
 ### Interface and signals 
