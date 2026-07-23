@@ -59,7 +59,12 @@
 - https://bitbucket.org/e_dragon/ch563
 - https://bitbucket.org/e_dragon/wch_ch37x
 
+## WCH9344 
 
+
+USB转8路\16路TTL串口模块
+
+![](2026-07-23-20-53-18.png)
 
 ## ref 
 

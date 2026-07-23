@@ -41,6 +41,10 @@ TPS61023DRLR SOT-5X3-6具有0.5V低输入电压的3.7A升压转换器
 
 TPS61088 10-A Fully-Integrated Synchronous Boost Converter
 
+TPS61088 5/9/12V大功率锂电池升压DC-DC电源模块
+
+主控芯片：德州仪器 TPS61088 同步升压开关电源 IC，标称峰值开关电流 10A，常规使用输入限流约束在 9A 以内，开关固定典型频率 1MHz；支持PWM（强制脉宽调制）、PFM（脉冲频率调制）双模式切换，出厂默认 PFM 低功耗模式。
+
 
 ![](2026-02-12-19-27-44.png)
 

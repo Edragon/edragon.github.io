@@ -56,6 +56,10 @@ Output high TTL signal when either row or column buttons are pressed.
 - [[Key_header.zip]]
 
 
+## SCH 
+
+![](2026-07-23-20-56-50.png)
+
 
 ## ref 
 

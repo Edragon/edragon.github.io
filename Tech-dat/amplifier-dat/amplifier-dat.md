@@ -3,6 +3,8 @@
 
 
 
+
+
 - [[amplifier-GNSS-dat]]
 
 - [[amp-op-dat]] - [[amplifier-audio-dat]] - [[DAC-dat]] - [[ADC-dat]]
@@ -54,6 +56,8 @@ OP07x Precision Operational Amplifiers
 
 
 ## Solutions 
+
+- [[AD620-dat]] - [[AD-amplifier-dat]] - 
 
 - [[OP07-dat]] - [[LM386-dat]]
 

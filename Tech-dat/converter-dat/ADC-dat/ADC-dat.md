@@ -46,6 +46,8 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 ## chip 
 
+TM7705+AD7705+16位ADC数据采集模块
+
 - [[AD7606-dat]]
 
 ![](2026-07-23-17-14-33.png)
@@ -121,6 +123,9 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 
 ## chips 
+
+
+- [[ADS1115-dat]]
 
 - [[INA219-dat]] - [[INA226-dat]]
 
