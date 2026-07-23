@@ -7,6 +7,12 @@
 
 - [[epaper-dat]] - [[OLED-dat]] - [[display-dat]]
 
+- [[char-lib-dat]] 
+
+GT30L24A3WW - GT5DL24F2W标准点阵中外文字库芯片
+
+GT5DL24F2W是一款含16点阵以及24点阵的字库芯片，支持JIS0208 日文字符集、KSC5601韩文字符集等180国外文字符，同时兼容以上各种文字的Unicode字符集。排列格式为横置横排。用户通过字符内码，利用我司所提供库文件内的函数接口可直接读取该内码的点阵信息。
+
 
 
 ## LCD 
@@ -30,6 +36,10 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[display-dat]] - [[led-driver-dat]]
 
+
+- [[display-dat]] - [[BCD-dat]]
+
+`A BCD (Binary-Coded Decimal)` output is a digital encoding system where each decimal digit (0 through 9) is represented by its own 4-bit binary sequence. For example, the decimal number 42 in BCD is outputted as two separate chunks: 0100 for the 4 and 0010 for the 2.
 
 ## boards 
 

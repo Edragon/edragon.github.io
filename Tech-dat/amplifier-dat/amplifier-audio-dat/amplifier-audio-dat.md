@@ -23,6 +23,8 @@
 
 ## chip and boards 
 
+- [[NS4150-dat]] - [[NS4168-dat]] - [[NSIway-dat]]
+
 - [[SGM4890-dat]] - [[SG-micro-dat]]
 
 - [[CD7379-dat]]

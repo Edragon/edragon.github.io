@@ -8,6 +8,10 @@
 - [[maxim-dat]] - [[MAX4622-dat]]
 
 
+
+- [[ICL7135-dat]] - [[Maxim-dat]] - [[ADC-dat]]
+
+
 ## maxim-audio 
 
 - [[max9812-dat]]

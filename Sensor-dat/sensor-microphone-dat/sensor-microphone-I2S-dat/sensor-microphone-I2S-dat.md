@@ -24,6 +24,7 @@ I2S Output Digital Microphone - [[INMP441-dat]]
 
 - [[SPH0645-dat]]
 
+- [[ES7243-dat]] - [[ES8311-dat]] - [[everest-semi-dat]] - [[sensor-microphone-I2S-dat]]
 
 
 

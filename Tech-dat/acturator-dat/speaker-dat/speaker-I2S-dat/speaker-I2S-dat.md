@@ -11,6 +11,9 @@
 
 ## chip 
 
+- [[NS4168-dat]] - [[NSIway-dat]] - [[amplifier-audio-dat]] - [[Speaker-I2S-dat]] - [[I2S-dat]]
+
+
 I2S DAC Decoder speaker 
 
 - [[PCM5122-dat]] - [[MPC1083-dat]] 

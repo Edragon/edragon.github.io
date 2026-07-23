@@ -10,6 +10,11 @@
 
 ## driver 
 
+- [[TSC2007-dat]] - [[TI-dat]] - [[touch-panel-dat]] == 1.2V to 3.6V, 12-Bit, Nanopower, 4-Wire Micro TOUCH SCREEN CONTROLLER with I2C™ Interface
+
+![](2026-07-24-03-21-36.png)
+
+
 - [[GT911-dat]] 
 
 - [[XPT2046-dat]]

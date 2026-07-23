@@ -252,6 +252,15 @@ MAX1735 - 200mA, Negative-Output, Low-Dropout Linear Regulator in SOT23
 ![](2026-07-23-16-53-04.png)
 
 
+
+## LDO varies 
+
+- [[AP7343-dat]] - 300mA HIGH PSRR LOW-NOISE LDO WITH ENABLE - [[diodes-dat]] 1V8
+
+- [[BL8555-dat]] - 2V8
+
+
+
 ## ref 
 
 - [[DC-dat]]

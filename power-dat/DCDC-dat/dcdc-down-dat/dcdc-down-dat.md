@@ -13,6 +13,8 @@
 
 ## chip and companies
 
+- [[joulwatt-dat]]
+
 - [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]]
 
 - [[TI-power-dat]] 

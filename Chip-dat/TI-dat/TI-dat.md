@@ -2,6 +2,7 @@
 # TI-dat.md
 
 
+- [[TSC2007-dat]] - [[TI-dat]] == 1.2V to 3.6V, 12-Bit, Nanopower, 4-Wire Micro TOUCH SCREEN CONTROLLER with I2C™ Interface
 
 - [[MCP23017-dat]] - [[TI-dat]] - [[TI-signal-dat]] - [[IO-expander-dat]] - [[TI-logic-dat]]
 
