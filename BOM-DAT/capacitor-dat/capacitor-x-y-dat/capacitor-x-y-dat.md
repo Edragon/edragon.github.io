@@ -2,6 +2,17 @@
 # capacitor-x-y-dat
 
 
+## X2 
+
+- [[capacitor-X-Y-dat]] - [[capacitor-dat]] - [[CR6842-dat]]
+
+![](2026-07-25-18-49-15.png)
+
+- [[Capacitor-X2-dat]]  275V 310V 350V 
+
+0.1UF 0.47UF
+
+## SHM X1400 
 
 - [[capacitor-x-y-dat]] - SHM X1400~ Y1250~ B 331K - [[power-adapter-dat]]
 

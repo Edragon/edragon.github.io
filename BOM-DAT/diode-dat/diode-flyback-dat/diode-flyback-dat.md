@@ -1,7 +1,57 @@
 
 # diode-flyback-dat
 
+- [[diode-freewheeling-dat]] == FWD - [[diode-flyback-dat]]
 
+
+In an **AC-DC converter (rectifier)** supplying an **inductive load** (such as a motor, relay coil, or transformer), **freewheeling** is the process where stored magnetic energy in the inductor is safely discharged through a local closed loop—usually via a **freewheeling diode (FWD)**—when the AC voltage swings negative or the active switches (thyristors/MOSFETs) turn off.
+
+The diode used for this path is commonly called a **freewheeling diode (FWD)**, flyback diode, or kickback diode.
+
+---
+
+## Why Freewheeling is Necessary
+
+An inductor opposes rapid changes in current ($v_L = L \frac{di}{dt}$). When the main AC rectifying switches or diodes turn off, the inductive load current cannot instantly drop to zero. Without a dedicated freewheeling path, several severe issues occur:
+
+1. **High-Voltage Spikes (Flyback Spike):** The rapidly collapsing magnetic field generates a massive inductive voltage spike ($V = -L \frac{di}{dt}$), which can easily destroy rectifier diodes, thyristors, or transistors.
+2. **Negative Output Voltage:** In controlled phase rectifiers (e.g., thyristor bridges), an inductive load pulls current past the AC zero-crossing, forcing the output voltage negative during parts of the cycle and lowering the net average DC output voltage and efficiency.
+3. **High Current Ripple / Discontinuity:** The lack of a continuous path causes the load current to decay sharply, leading to torque ripples in motors or output instability in DC supplies.
+
+---
+
+## How It Works
+
+A freewheeling diode (FWD) is connected in **anti-parallel** (reverse biased) across the inductive load:
+
+
+            Main AC-DC Rectifier
+            +----------------------+
+      AC ~--|                      |---------+-------(+) Load
+            | (Thyristors / Diodes)|         |
+      AC ~--|                      |    [FWD Diode]   (Inductive Load: L + R)
+            +----------------------+    (Anti-parallel) (e.g., Motor Winding)
+                                          |
+                                          +-------(-) Load
+
+
+1. **Power Delivery Phase (Normal Conduction):** During the positive AC cycle when the rectifier supplies power, the freewheeling diode experiences a reverse bias voltage and remains **OFF (non-conducting)**, having no effect on normal operation.
+2. **Freewheeling Phase (Energy Release):** When the AC input drops below zero or the switching device turns OFF, the polarity across the inductor instantly reverses (acting as a temporary power source). This **forward-biases** the freewheeling diode into conduction, allowing current to circulate internally through the "Load - FWD" loop until the stored magnetic energy is depleted.
+
+---
+
+## Key Benefits in Rectifier Circuits
+
+| Aspect | Benefits of Freewheeling |
+| :--- | :--- |
+| **Component Protection** | Clamps high-voltage inductive transients to a safe forward voltage (~0.7 V) across the load. |
+| **Increased Average Voltage** | Eliminates negative voltage regions in controlled rectifiers, boosting the overall average DC output voltage ($V_{dc}$). |
+| **Continuous Current Flow** | Maintains continuous conduction mode (CCM), reducing current ripple, motor heating, and torque vibration. |
+| **Improved Power Factor** | Prevents reactive energy from feeding back into the AC supply mains, enhancing the displacement power factor. |
+
+
+
+## info 
 
 == SS510 == [[RZ7886-dat]] 
 

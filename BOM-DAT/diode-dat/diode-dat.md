@@ -9,6 +9,10 @@
 
 - [[diode-dat]] - [[1N4007-dat]] 
 
+- [[diode-rectification-dat]] 
+
+- [[diode-freewheeling-dat]] == FWD - [[diode-flyback-dat]]
+
 
 
 

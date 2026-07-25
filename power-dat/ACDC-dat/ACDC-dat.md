@@ -11,6 +11,9 @@
 - [[NCP1342-dat]] - [[onsemi-dat]] - [[power-flyback-controller-dat]] - [[power-dat]] - [[SMPS-dat]] - [[ACDC-dat]]
 
 
+`AC Input` → `Fuse` → `Common Mode Choke` → `X/Y Capacitors` → `Bridge Rectifier` → `High Voltage DC`
+
+- [[AC-mains-dat]] - [[fuse-dat]] - [[choke-dat]] [[choke-common-mode]] - [[capacitor-X-Y-dat]] - [[bridge-rectifier-dat]] - [[ACDC-dat]] - [[DC-HV-dat]] - [[DC-dat]] - [[transformer-dat]] - [[diode-dat]] == for rectification
 
 
 ## tech 
@@ -104,6 +107,10 @@ TOP254EN == Enhanced EcoSmart, Integrated Off-Line Switcher with Advanced Featur
 
 
 ## chips
+
+- [[CR6842-dat]] CR6842S - [[OB2269-dat]] - [[SG6842-dat]] - [[LD7552-dat]] == Compatible with SG6842J&LD7552&OB2269
+
+- [[CR6842-dat]] - [[chip-rail-dat]]
 
 - [[SI6021-dat]] - [[SiFirst-dat]] - [[SI6051-dat]] - [[power-adapter-dat]] - [[acdc-dat]] - [[SI5928-dat]] - [[power-switch-dat]] 
 
@@ -208,7 +215,68 @@ unknown chip - [[chip-unknown-dat]]
 
 
 
+## Topology Overview: Forward, Half-Bridge, and Full-Bridge
 
+In power electronics and switched-mode power supply (SMPS) design, **Forward**, **Half-Bridge**, and **Full-Bridge** are three classic isolated DC-DC (or AC-DC secondary-stage) converter topologies.
+
+They differ primarily in **switch count**, **transformer core utilization**, **target power capability**, and **circuit complexity**.
+
+---
+
+### 1. Forward Topology
+
+The Forward converter is essentially an **isolated version of the Buck converter**. Unlike a Flyback converter, energy is transferred directly to the secondary load **while the primary switch is ON**. When the switch turns OFF, the secondary output inductor and freewheeling diode maintain load current.
+
+* **Switch Count:** 1 (Single-Ended Forward) or 2 (Two-Switch / Double-Ended Forward).
+* **Core Utilization:** Unidirectional magnetization (operates in Quadrant I only). The transformer requires a dedicated **demagnetization circuit (reset winding or clamping diodes)** to prevent core saturation.
+* **Key Features:**
+  * Requires an output filtering inductor and freewheeling diode on the secondary side.
+  * The Two-Switch Forward returns energy stored in the transformer back to the input rails via two clamping diodes, limiting switch voltage stress strictly to the input voltage ($V_{in}$). High reliability.
+* **Typical Power Range:** Low to Medium ($100\text{ W} \sim 500\text{ W}$).
+
+![](2026-07-25-19-35-16.png)
+
+---
+
+### 2. Half-Bridge Topology
+
+The Half-Bridge topology utilizes two controlled switches connected in series across the DC bus, combined with a split-capacitor voltage divider that creates a midpoint. The switches drive the transformer primary alternately.
+
+* **Switch Count:** 2 switches (High-side $Q_1$, Low-side $Q_2$), driven alternately with a dead time.
+* **Core Utilization:** Bidirectional symmetrical magnetization (operates in Quadrants I and III), significantly increasing transformer utilization and reducing magnetic core size.
+* **Key Features:**
+  * The primary winding sees only half of the input voltage ($\frac{1}{2} V_{in}$).
+  * The series voltage-divider capacitors block DC offset, preventing transformer core saturation due to magnetic imbalance.
+  * Voltage stress on each switch equals $V_{in}$.
+* **Typical Power Range:** Medium to High ($300\text{ W} \sim 1000\text{ W}$, e.g., PC ATX power supplies, industrial supplies).
+
+![](2026-07-25-19-34-51.png)
+
+---
+
+### 3. Full-Bridge Topology
+
+The Full-Bridge topology uses four switches arranged in an H-bridge configuration. Diagonal switch pairs ($Q_1 + Q_4$ and $Q_2 + Q_3$) conduct alternately, applying the full input voltage across the transformer primary in both directions.
+
+* **Switch Count:** 4 switches.
+* **Core Utilization:** Symmetrical bidirectional magnetization; highest transformer core utilization and maximum power density.
+* **Key Features:**
+  * The transformer primary experiences the full input voltage ($V_{in}$), delivering twice the output power of a Half-Bridge at the same primary current.
+  * Requires complex gate drive circuits (two sets of floating high-side drivers).
+  * Can be combined with Phase-Shifted control (PSFB) or LLC resonance to achieve Zero Voltage Switching (ZVS) across the entire load range, significantly boosting efficiency.
+* **Typical Power Range:** High Power ($1\text{ kW} \sim 10\text{ kW}+$, e.g., EV On-Board Chargers, server power supplies, high-power solar inverters).
+
+
+![](2026-07-25-19-34-13.png)
+---
+
+### Summary Comparison
+
+| Topology | Switch Count | Primary Voltage | Core Utilization | Key Advantage | Main Disadvantage | Typical Power Range |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Forward** | 1 or 2 | $V_{in}$ | Unidirectional (Low) | Simple, robust, low voltage stress (2-switch) | Requires reset circuit, larger transformer | $100\text{ W} \sim 500\text{ W}$ |
+| **Half-Bridge** | 2 | $\frac{1}{2}V_{in}$ | Bidirectional (High) | Low switch voltage stress, inherent DC blocking | Primary current is double that of Full-Bridge | $300\text{ W} \sim 1\text{ kW}$ |
+| **Full-Bridge** | 4 | $V_{in}$ | Bidirectional (Highest) | Highest power capability, easy ZVS implementation | High component count, complex gate drivers | $1\text{ kW} \sim 10\text{ kW}+$ |
 
 
 ## ref 
