@@ -216,6 +216,8 @@
 
 - [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]] - [[MP3-dat]]
 
+- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]]
+
 - [[filter-dat]]
 
 - [[transmitter-current-dat]]

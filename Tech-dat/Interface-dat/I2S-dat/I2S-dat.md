@@ -24,6 +24,8 @@
 
 - [[sensor-microphone-dat]] - [[sensor-microphone-I2S-dat]]
 
+- [[I2S-speaker-microphone-dat]] - [[ES8311-dat]]
+
 ## info 
 
 An I2S (Interactive Two-Way Serial) interface is a type of serial communication protocol used for transferring data between devices. 
