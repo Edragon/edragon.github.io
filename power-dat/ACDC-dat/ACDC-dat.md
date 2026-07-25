@@ -22,6 +22,7 @@
 
 - [[protection-power-dat]]
 
+- Center-Tapped Full-Wave
 
 ## Modules 
 
@@ -277,6 +278,68 @@ The Full-Bridge topology uses four switches arranged in an H-bridge configuratio
 | **Forward** | 1 or 2 | $V_{in}$ | Unidirectional (Low) | Simple, robust, low voltage stress (2-switch) | Requires reset circuit, larger transformer | $100\text{ W} \sim 500\text{ W}$ |
 | **Half-Bridge** | 2 | $\frac{1}{2}V_{in}$ | Bidirectional (High) | Low switch voltage stress, inherent DC blocking | Primary current is double that of Full-Bridge | $300\text{ W} \sim 1\text{ kW}$ |
 | **Full-Bridge** | 4 | $V_{in}$ | Bidirectional (Highest) | Highest power capability, easy ZVS implementation | High component count, complex gate drivers | $1\text{ kW} \sim 10\text{ kW}+$ |
+
+
+## CCM vs. DCM in Switching Power Converters
+
+In switched-mode power supplies (SMPS) containing an inductor (such as Buck, Boost, Buck-Boost, or Forward converters), **CCM (Continuous Conduction Mode)** and **DCM (Discontinuous Conduction Mode)** describe the two main operating regimes based on whether the **inductor current drops to zero** during a switching cycle.
+
+---
+
+### 1. Continuous Conduction Mode (CCM)
+
+In **CCM**, the inductor current $i_L(t)$ remains **strictly greater than zero** throughout the entire switching period ($T_s$). Before the inductor current can fully decay to zero, the main switch turns back ON to start the next cycle.
+
+* **Inductor Current Waveform:** A continuous triangular wave riding on top of a DC offset.
+* **Energy State:** Energy is never completely depleted from the magnetic core during any part of the switching cycle.
+
+### Key Characteristics:
+* **Duty Cycle Stability:** The conversion ratio depends almost exclusively on the duty cycle $D$ (and input voltage), remaining virtually independent of the output load current ($I_o$).
+  * *Example (Buck Converter):* $V_{out} = D \cdot V_{in}$
+* **Peak Current:** Lower peak transistor and diode currents for a given output power, resulting in lower $I^2R$ conduction losses in switches and lower EMI filter requirements.
+* **Transient Response:** Slower dynamic response compared to DCM because the inductor current cannot change instantaneously.
+* **Right Half Plane (RHP) Zero:** In Boost and Buck-Boost topologies, operating in CCM introduces a Right-Half-Plane zero in the control transfer function, making loop compensation more complex.
+
+---
+
+### 2. Discontinuous Conduction Mode (DCM)
+
+In **DCM**, the inductor current $i_L(t)$ **drops completely to zero** and stays at zero for a portion of the switching cycle (known as the "dead time" or "idle interval") before the main switch turns back ON.
+
+* **Inductor Current Waveform:** A triangular pulse followed by a flat zero-current interval.
+* **Energy State:** All energy stored in the inductor during the ON-time is completely transferred to the load before the end of the period.
+
+### Key Characteristics:
+* **Load-Dependent Duty Cycle:** The voltage conversion ratio depends on both the duty cycle $D$ AND the load current $I_o$ (or load resistance $R$). As the load gets lighter, $V_{out}$ tends to rise unless $D$ is reduced.
+* **Peak Current:** Requires higher peak inductor current ($I_{peak}$) to deliver the same average power, increasing peak current stress on MOSFETs and diodes.
+* **Dynamic Response:** Faster transient response; the inductor current resets to zero every cycle, eliminating stored energy history and simplifying loop compensation (no RHP zero in Boost/Buck-Boost).
+* **Zero-Current Turn-ON (ZCS):** The main switch turns ON while current is zero, reducing turn-ON switching losses and eliminating reverse-recovery losses in the freewheeling diode.
+
+---
+
+### Comparison Summary
+
+| Parameter | Continuous Conduction Mode (CCM) | Discontinuous Conduction Mode (DCM) |
+| :--- | :--- | :--- |
+| **Inductor Current ($i_L$)** | $i_L > 0$ at all times | $i_L = 0$ for part of the switching cycle |
+| **Energy in Core** | Never drops to zero | Depleted every cycle |
+| **Peak Current ($I_{peak}$)** | Lower | Higher (typically $> 2 \times I_{avg}$) |
+| **Output Voltage Formula** | Independent of load ($V_o = f(D, V_{in})$) | Strongly dependent on load ($V_o = f(D, V_{in}, I_o, L, f_s)$) |
+| **Inductor Size ($L$)** | Larger inductance required | Smaller inductance required |
+| **Switching Losses** | Diode reverse-recovery loss present | Soft turn-ON (ZCS) for main switch, zero diode recovery |
+| **Control Loop** | Complex (RHP zero in Boost/Buck-Boost) | Simpler 1st-order system response |
+| **Best Suited For** | Heavy loads, high-power systems ($> 100\text{ W}$) | Light loads, standby modes, low-power applications |
+
+---
+
+### Critical Inductance ($L_{crit}$) & Boundary Conduction Mode (BCM)
+
+The operating boundary between CCM and DCM is known as **BCM (Boundary Conduction Mode)** or **CRM (Critical Conduction Mode)**. In BCM, the inductor current reaches exactly zero right at the precise instant the switch turns ON for the next cycle.
+
+* **$L > L_{crit}$:** The converter operates in **CCM**.
+* **$L < L_{crit}$:** The converter enters **DCM**.
+* **Decreasing Load Current ($I_o \downarrow$):** A converter operating in CCM will naturally transition into DCM as the load current drops below a critical threshold.
+
 
 
 ## ref 

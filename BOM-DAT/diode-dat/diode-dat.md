@@ -13,7 +13,7 @@
 
 - [[diode-freewheeling-dat]] == FWD - [[diode-flyback-dat]]
 
-
+- [[rectifier-dat]] - [[diode-rectifier-dat]] 
 
 
 brand - [[st-dat]]
