@@ -3,6 +3,9 @@
 # projects-dat.md
 
 
+- [[projects-failed-dat]]
+
+
 - [[projects-dat]] - [[github-projects-dat]] - [[bilibili-projects-dat]] - [[youtube-projects-dat]] 
 
 
