@@ -56,6 +56,11 @@ large [[capacitor-dat]] 400V 150UF
 
 - [[choke-dat]] 
 
+
+- [[ACDC-dat]] - [[CR6842-dat]] - [[mosfet-ac-switching-dat]]
+
+## extra 
+
 SR5200 ×2 并联
 • 封装: DO-201AD
 • 说明: 5A 200V 肖特基，小封装无散热片
