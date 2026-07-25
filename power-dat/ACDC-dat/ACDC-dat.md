@@ -13,7 +13,7 @@
 
 `AC Input` → `Fuse` → `Common Mode Choke` → `X/Y Capacitors` → `Bridge Rectifier` → `High Voltage DC`
 
-- [[AC-mains-dat]] - [[fuse-dat]] - [[choke-dat]] [[choke-common-mode]] - [[capacitor-X-Y-dat]] - [[bridge-rectifier-dat]] - [[ACDC-dat]] - [[DC-HV-dat]] - [[DC-dat]] - [[transformer-dat]] - [[diode-dat]] == for rectification
+- [[AC-mains-dat]] - [[fuse-dat]] - [[choke-dat]] [[choke-common-mode]] - [[capacitor-X-Y-dat]] - [[bridge-rectifier-dat]] - [[ACDC-dat]] - [[DC-HV-dat]] - [[DC-dat]] - [[transformer-dat]] - [[diode-dat]] - [[diode-rectifier-dat]] - [[diode-freewheeling-dat]] 
 
 
 ## tech 

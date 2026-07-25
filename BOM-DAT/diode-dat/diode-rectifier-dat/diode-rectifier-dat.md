@@ -1,6 +1,18 @@
 
 # diode-rectifier-dat
 
+
+
+## SSR5200 
+
+SR5200 参数：
+- SR = 肖特基整流管
+- 5 = 5A 额定电流
+- 200 = 200V 耐压
+- 并联后等效：10A / 200V 肖特基整流管
+
+
+
 ## TMBS
 
 PY PS PS10U100GS

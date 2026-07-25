@@ -1,6 +1,20 @@
 
 # diode-flyback-dat
 
+
+
+## other options 
+
+**靠电容续流**
+• 说明: 低成本设计依靠输出电容放电来维持，但大电流下纹波会大很多
+
+**同步整流**
+• 说明: 高端方案用 MOSFET 做同步整流，续流走体二极管
+
+
+
+## diode freewheeling 
+
 - [[diode-freewheeling-dat]] == FWD - [[diode-flyback-dat]]
 
 
