@@ -139,6 +139,8 @@ Simple I2S audio output demo for ESP32-S3 → I2S amplifier (MAX98357 / PCM5102 
 
 
 
+## demo 
 
+- [[HT517-dat]] == https://t.me/electrodragon3/458
 
 ## ref 
