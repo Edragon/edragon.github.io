@@ -6,6 +6,11 @@
 
 ## SIF15N63F Role Identification in Power Supplies
 
+
+
+![](2026-07-25-22-53-52.png)
+
+
 The **SIF15N63F** MOSFET can serve two possible roles in a power supply circuit. Below is a guide to identify which role it plays based on the surrounding circuitry.
 
 ---
