@@ -16,6 +16,20 @@
 
 - https://raw.githubusercontent.com/board707/w80x_arduino/hal-v0.6.0/package_w80x_index.json
 
+Enter the following URL in the additional development board manager URL:
+
+https://raw.githubusercontent.com/board707/w80x_arduino/hal-v0.6.0/package_w80x_index.json
+
+In case of Error: 13 INTERNAL: can not install w80x_duino:csky@2021.04.23 tool use an alternative:
+
+https://raw.githubusercontent.com/board707/w80x_arduino/hal-v0.6.0/package_w80x_test_index.json
+
+If this doesn't work, try any of these link addresses:
+
+http://dl.isme.fun/w80x_arduino/package_w80x_index.json
+
+https://raw.githubusercontent.com/board707/w80x_arduino/hal-v0.6.0/package_w80x_isme_proxy_index.json
+
 
 ## SCH 
 

@@ -105,6 +105,30 @@ https://github.com/pschatzmann/arduino-audio-tools
     }
 
 
+
+
+## demo code and libraries 
+
+https://github.com/WeActStudio/WeActStudio.ES8311MonoAudioCodecModule
+
+- [[ESP-IDF-dat]]
+
+sdkconfig: 
+
+    #
+    # Example IO Configuration
+    #
+    CONFIG_EXAMPLE_PA_CTRL_IO=-1
+    CONFIG_EXAMPLE_I2C_SDA_IO=17
+    CONFIG_EXAMPLE_I2C_SCL_IO=16
+    CONFIG_EXAMPLE_I2S_MCLK_IO=0
+    CONFIG_EXAMPLE_I2S_BCLK_IO=4
+    CONFIG_EXAMPLE_I2S_WS_IO=5
+    CONFIG_EXAMPLE_I2S_DIN_IO=19
+    CONFIG_EXAMPLE_I2S_DOUT_IO=18
+
+https://github.com/schreibfaul1/ESP32-audioI2S/wiki
+
 ## ref 
 
 https://gitlab.informatik.uni-bremen.de/fbrning/esp-idf/-/blob/v5.0-dev/examples/peripherals/i2s/i2s_es8311/main/i2s_es8311_example.c?ref_type=tags

@@ -1,6 +1,6 @@
 
 
-# ESP IDF
+# ESP-IDF-dat
 
 - [[C-dat]] - [[cmake-dat]] - [[esp-CMakelists-dat]] 
 
@@ -14,6 +14,98 @@
 
 - [[ESP-IDF-install-dat]]
 
+
+
+## CMD 
+
+cmd init. 
+
+    Setting PYTHONNOUSERSITE, was not set
+    Using Python in c:\ESP\python_env\idf5.5_py3.11_env\Scripts\
+    Python 3.11.2
+    Using Git in c:\ESP\tools\idf-git\2.44.0\cmd\
+    git version 2.44.0.windows.1
+    Activating ESP-IDF 5.5
+    warning:  IDF_PATH is changed from 'c:\ESP\frameworks\esp-idf-v5.5.4' to 'C:\ESP\frameworks\esp-idf-v5.5.4'.
+    * Checking python version ... 3.11.2
+    * Checking python dependencies ... OK
+    * Deactivating the current ESP-IDF environment (if any) ... OK
+    * Establishing a new ESP-IDF environment ... OK
+    * Identifying shell ... cmd.exe
+    * Detecting outdated tools in system ... Found tools that are not used by active ESP-IDF version.
+    For removing old versions of idf-driver, idf-python-wheels use command 'python.exe C:\ESP\frameworks\esp-idf-v5.5.4\tools\idf_tools.py uninstall'
+    To free up even more space, remove installation packages of those tools.
+    Use option python.exe C:\ESP\frameworks\esp-idf-v5.5.4\tools\idf_tools.py uninstall --remove-archives.
+
+    Done! You can now compile ESP-IDF projects.
+    Go to the project directory and run:
+
+    idf.py build
+
+
+    c:\ESP\frameworks\esp-idf-v5.5.4>
+
+An ESP-IDF project has a specific directory structure:
+
+    i2s_es8311/                      <-- PROJECT ROOT (Run idf.py build HERE)
+    ├── CMakeLists.txt               <-- Includes ESP-IDF build system (include($ENV{IDF_PATH}/tools/cmake/project.cmake))
+    ├── main/                        <-- Sub-component
+    │   ├── CMakeLists.txt           <-- Registers the main component (idf_component_register(...))
+    │   └── main.c
+
+# ESP-IDF Build Workflow
+
+```cmd
+:: 1. Navigate to project root
+E:
+cd E:\git-DL\WeActStudio.ES8311MonoAudioCodecModule\Examples\i2s_es8311
+
+:: 2. Clean invalid build artifacts
+rmdir /s /q main\build
+idf.py fullclean
+
+:: 3. Set target and build (change esp32 to esp32s3/esp32c3 if needed)
+idf.py set-target esp32-s3
+idf.py build
+
+:: 4. Flash and monitor (replace COM3 with your actual port)
+idf.py -p COM3 flash monitor
+```
+
+output 
+
+    Creating esp32s3 image...
+    Merged 2 ELF sections
+    Successfully created esp32s3 image.
+    Generated E:/git-DL/WeActStudio.ES8311MonoAudioCodecModule/Examples/i2s_es8311/build/i2s-es8311-example.bin
+    [650/650] C:\WINDOWS\system32\cmd.exe /C "cd /D E:\git-DL\WeAct...ioCodecModule/Examples/i2s_es8311/build/i2s-es8311-example.bin"
+    i2s-es8311-example.bin binary size 0xd8030 bytes. Smallest app partition is 0x100000 bytes. 0x27fd0 bytes (16%) free.
+
+    Project build complete. To flash, run:
+    idf.py flash
+    or
+    idf.py -p PORT flash
+    or
+    python -m esptool --chip esp32s3 -b 460800 --before default_reset --after hard_reset write_flash --flash_mode dio --flash_size 2MB --flash_freq 80m 0x0 build\bootloader\bootloader.bin 0x8000 build\partition_table\partition-table.bin 0x10000 build\i2s-es8311-example.bin
+    or from the "E:\git-DL\WeActStudio.ES8311MonoAudioCodecModule\Examples\i2s_es8311\build" directory
+    python -m esptool --chip esp32s3 -b 460800 --before default_reset --after hard_reset write_flash "@flash_args"
+
+    E:\git-DL\WeActStudio.ES8311MonoAudioCodecModule\Examples\i2s_es8311>
+
+
+### supports 
+
+MSys/Mingw is not supported
+
+    Administrator@HC-work MINGW64 /d/git-docs/edragon$ /c/ESP/frameworks/esp-idf-v5.5.4/install.sh
+    INFO: Using IDF_PATH '/c/ESP/frameworks/esp-idf-v5.5.4' for installation.
+    Detecting the Python interpreter
+    Checking "python3" ...
+    Python 3.14.5
+    "python3" has been detected
+    Checking Python compatibility
+    Installing ESP-IDF tools
+    ERROR: MSys/Mingw is not supported. Please follow the getting started guide of the documentation to set up a supported environment
 
 
 

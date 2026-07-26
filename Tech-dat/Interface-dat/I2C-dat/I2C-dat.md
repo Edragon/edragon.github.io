@@ -184,7 +184,34 @@ initiate check
 - GND
 - +5V 
 
+## error log 
 
+This error means the ESP32-S3 cannot communicate with the ES8311 codec over I2C. Let me check the I2C configuration in the code.
+
+    i2s es8311 codec example start
+    -----------------------------
+    I (390) i2s_es8311: i2s driver init success
+    E (400) I2C_If: Fail to read from dev 30
+    E (400) I2C_If: Fail to write to dev 30
+    E (400) I2C_If: Fail to write to dev 30
+    E (410) I2C_If: Fail to write to dev 30
+    E (410) I2C_If: Fail to write to dev 30
+    E (410) I2C_If: Fail to write to dev 30
+    E (420) I2C_If: Fail to write to dev 30
+    E (420) I2C_If: Fail to write to dev 30
+    E (420) I2C_If: Fail to write to dev 30
+    E (430) I2C_If: Fail to write to dev 30
+    E (430) I2C_If: Fail to write to dev 30
+    E (430) I2C_If: Fail to write to dev 30
+    E (440) I2C_If: Fail to write to dev 30
+    E (440) I2C_If: Fail to write to dev 30
+    E (450) I2C_If: Fail to write to dev 30
+    E (450) I2C_If: Fail to read from dev 30
+    I (450) ES8311: Work in Slave mode
+    E (460) I2C_If: Fail to write to dev 30
+    E (460) I2C_If: Fail to write to dev 30
+    E (460) I2C_If: Fail to read from dev 30
+    E (470) I2C_If: Fail to write to dev 30
 
 
 ## ref 

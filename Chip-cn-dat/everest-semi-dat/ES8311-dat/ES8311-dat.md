@@ -153,6 +153,18 @@ AI-WB1-A1S_MODE
 
 - [[AI-WB1-dat]] - [[AIT-dat]]
 
+
+## SCH 5 
+
+![](2026-07-26-18-15-14.png)
+
+
+
+## HDK issues 
+
+- [[I2C-dat]] - error log 
+
+
 ## ref 
 
 - datasheet == [[ES8311.user.Guide.pdf]]
