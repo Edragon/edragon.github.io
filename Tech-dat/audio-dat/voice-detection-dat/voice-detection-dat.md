@@ -9,6 +9,7 @@
 
 ## chip 
 
+- [[ASRPRO-dat]]
 
 
 SU-03T 语音识别模块

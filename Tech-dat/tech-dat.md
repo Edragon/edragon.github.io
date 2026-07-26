@@ -185,7 +185,7 @@
 
 - [[laser-dat]] - [[laser-module-dat]]
 
-- [[sensor-color-dat]] - [[sensor-gas-dat]]
+- [[sensor-color-dat]] - [[sensor-gas-dat]]I
 
 - [[camera-dat]] - [[vision-dat]]
 
@@ -214,7 +214,7 @@
 
 - [[amplifier-dat]] - [[codec-dat]] - [[amp-op-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]] - [[amplifier-GNSS-dat]]
 
-- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]] - [[MP3-dat]]
+- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]] - [[MP3-dat]] - [[voice-detection-dat]]
 
 - [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]]
 
