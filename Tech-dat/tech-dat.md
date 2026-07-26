@@ -204,7 +204,7 @@
   
 - [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]] - [[sd-dat]]
 
-- [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]] - [[generator-wave-dat]]
+- [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]] - [[generator-wave-dat]] - [[DDS-dat]]
 
 - [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]] - [[I2S-dat]]
 

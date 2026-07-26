@@ -1,6 +1,11 @@
 
 # digital-dat
 
+
+- [[AD9850-dat]] - [[DDS-dat]] - [[AD-digital-dat]] - [[digital-dat]]
+
+
+
 - [[digital-video-dat]]
 
 - [[USB-dat]] - [[HDMI-dat]]

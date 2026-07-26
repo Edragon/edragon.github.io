@@ -11,6 +11,9 @@
 - [[NCP1342-dat]] - [[onsemi-dat]] - [[power-flyback-controller-dat]] - [[power-dat]] - [[SMPS-dat]] - [[ACDC-dat]]
 
 
+
+## principle
+
 `AC Input` → `Fuse` → `Common Mode Choke` → `X/Y Capacitors` → `Bridge Rectifier` → `High Voltage DC`
 
 - [[AC-mains-dat]] - [[fuse-dat]] - [[choke-dat]] [[choke-common-mode]] - [[capacitor-X-Y-dat]] - [[bridge-rectifier-dat]] - [[ACDC-dat]] - [[DC-HV-dat]] - [[DC-dat]] - [[transformer-dat]] - [[diode-dat]] - [[diode-rectifier-dat]] - [[diode-freewheeling-dat]] 
@@ -159,7 +162,7 @@ Chip Solutions
 
 - [[power-adapter-dat]]
 
-- build 6 == [[CRS6842-dat]]
+- build 6 == [[CR6842-dat]]
 
 ### build 5 
 

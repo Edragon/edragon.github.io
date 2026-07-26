@@ -3,6 +3,10 @@
 # AD-digital-dat
 
 
+
+- [[AD9850-dat]] - [[analog-device-dat]]
+
+
 - [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] - [[AD-digital-dat]]
 
 - [[DDS-dat]] - [[DAC-dat]] - [[clock-multiplier-dat]] - [[filter-digital-dat]] - [[DSP-dat]] - [[AD9857-dat]] - [[analog-device-dat]]

@@ -24,6 +24,8 @@ Unlike old-school analog generators that use physical capacitors and inductors t
 
 ## Chips
 
+- [[AD9850-dat]] - [[analog-device-dat]]
+
 
 ### AD9857
 
