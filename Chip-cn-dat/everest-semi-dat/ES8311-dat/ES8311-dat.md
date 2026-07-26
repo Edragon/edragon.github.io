@@ -165,6 +165,12 @@ AI-WB1-A1S_MODE
 - [[I2C-dat]] - error log 
 
 
+## demo 
+
+- speaker play - https://t.me/electrodragon3/459
+
+- echo from microhpone to speaker mode - https://t.me/electrodragon3/460
+
 ## ref 
 
 - datasheet == [[ES8311.user.Guide.pdf]]
