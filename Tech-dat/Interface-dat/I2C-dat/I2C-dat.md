@@ -5,8 +5,14 @@
 
 - [[PCF8574-dat]] - [[IO-expander-dat]] - [[MCP23008-dat]] - [[I2C-dat]]
 
-- [[I2C-repeater-dat]] - [[I2C-switch-dat]] - [[- [[CONN-dat]] - [[CONN-qwiic-dat]]]] - [[I2C-isolator-dat]]
+- [[I2C-repeater-dat]] - [[I2C-switch-dat]] - [[- [[CONN-dat]] - [[CONN-qwiic-dat]] - [[I2C-isolator-dat]]
 
+
+
+## debug process 
+
+- check I2C address by scan - [[I2C-scan-dat.ino]]
+- check I2C pull-up resistors - 2.2K ~ 10K 
 
 
 ## common I2C devices address 
