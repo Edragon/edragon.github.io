@@ -64,7 +64,7 @@ Center-Tapped Application (Secondary Side Only):
 
 **Active Power Factor Correction (Active PFC)** is an electronic circuit technique used in AC-DC power supplies to align the AC input current waveform with the AC voltage waveform, making the power supply look like a pure resistor to the electrical grid.
 
-By using high-frequency switching semiconductors (like MOSFETs/IGBTs) and a dedicated control IC, active PFC eliminates current harmonics and boosts the **Power Factor (PF)** close to the ideal value of **1.0 (typically 0.95–0.99)**.
+By using high-frequency switching semiconductors (like `MOSFETs`/`IGBTs`) and a dedicated control IC, active PFC eliminates current harmonics and boosts the **Power Factor (PF)** close to the ideal value of **1.0 (typically 0.95–0.99)**.
 
 ---
 

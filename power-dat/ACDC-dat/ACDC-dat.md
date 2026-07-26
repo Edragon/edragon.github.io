@@ -22,13 +22,13 @@
 
 - [[protection-power-dat]]
 
-- [[Center-Tapped-Full-Wave-rectifier-dat]] - [[CR6842-dat]] - [[chip-rail-dat]] - [[ACDC-dat]]
+- [[CR6842-dat]] - [[chip-rail-dat]] - [[ACDC-dat]]
 
-- [[PFC-active-dat]] 
+- [[acdc-topologies-dat]] - [[single-end-double-end-dat]] - [[mosfet-ac-switching-dat]] - [[PFC-active-dat]] == 反激/正激拓扑
 
-- [[forward-flyback-dat]] == 反激/正激拓扑
+- [[topology-forward-dat]] - [[topology-flyback-dat]] - [[topology-half-bridge-dat]] - [[topology-full-bridge-dat]]
 
-- [[single-end-double-end-dat]]
+
 
 ## Modules 
 
@@ -158,6 +158,8 @@ Chip Solutions
 ## build 
 
 - [[power-adapter-dat]]
+
+- build 6 == [[CRS6842-dat]]
 
 ### build 5 
 
