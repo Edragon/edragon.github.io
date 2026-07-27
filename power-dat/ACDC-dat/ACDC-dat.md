@@ -31,6 +31,8 @@
 
 - [[topology-forward-dat]] - [[topology-flyback-dat]] - [[topology-half-bridge-dat]] - [[topology-full-bridge-dat]]
 
+- [[choke-common-mode-dat]] - [[choke-dat]] - [[spark-gap-dat]] - [[acdc-dat]]
+
 
 
 ## Modules 
@@ -42,6 +44,7 @@
 - [[OPM1068-dat]]
 
 - [[OPM1178-dat]]
+
 
 
 ## output 
@@ -118,6 +121,12 @@ TOP254EN == Enhanced EcoSmart, Integrated Off-Line Switcher with Advanced Featur
 
 ## chips
 
+
+
+- [[chip-rail-dat]]
+
+
+
 - [[CR6842-dat]] CR6842S - [[OB2269-dat]] - [[SG6842-dat]] - [[LD7552-dat]] == Compatible with SG6842J&LD7552&OB2269
 
 - [[CR6842-dat]] - [[chip-rail-dat]]
@@ -159,6 +168,20 @@ Chip Solutions
 
 
 ## build 
+
+### build 7 
+
+in these two similar designs, on the DC left side, bottom board uses two [[diode-rectifier-dat]], and use [[mosfet-dat]] on the top board 
+
+![](2026-07-27-14-44-35.png)
+
+- [[XL1509-dat]] - AS358 - [[LM358-dat]] - top side board, has [[led-driver-dat]]
+
+![](2026-07-27-14-44-46.png)
+
+
+
+### build 6 
 
 - [[power-adapter-dat]]
 
