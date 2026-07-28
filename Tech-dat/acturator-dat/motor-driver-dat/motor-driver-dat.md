@@ -36,7 +36,7 @@
 
 ## tech 
 
-- [[motor-driver-dead-time-protection-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
+- [[motor-driver-dead-time-protection-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[ELRS-dat]]
 
 - [[PWM-chopper-type-motor-driver]] - [[FOC-dat]] - [[CC-CCW-control-dat]]
 
