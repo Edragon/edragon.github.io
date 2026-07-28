@@ -156,14 +156,16 @@ In the context of the RadioMaster Pocket, T1 and T4 refer to the horizontal trim
 
 ### Default Stick Assignments
 
+- [[RC-dat]]
+
 RC template 
 
 | Input   | Type            | default  | modify |
 | ------- | --------------- | -------- | ------ |
-| CH1     | Stick           | Roll     |        |
+| CH4     | Stick           | Roll     |        |
 | CH2     | Stick           | Pitch    |        |
 | CH3     | Stick           | Yaw      |        |
-| CH4     | Stick           | Throttle |        |
+| CH1     | Stick           | Throttle |        |
 | CH5 SA  | 2-pos Self-lock | Arm/Aux  |        |
 | CH6 SB  | 3-pos           | Mode/Aux |        |
 | CH7 SC  | 3-pos           | Mode/Aux |        |
@@ -176,10 +178,10 @@ RC template
 
 | Channel | Function         |
 | ------- | ---------------- |
-| CH1     | Roll (Aileron)   |
+| CH4     | Roll (Aileron)   |
 | CH2     | Pitch (Elevator) |
 | CH3     | Yaw (Rudder)     |
-| CH4     | Throttle         |
+| CH1     | Throttle         |
 
 
 

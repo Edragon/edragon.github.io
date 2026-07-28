@@ -37,38 +37,52 @@ WebServer server(80);
 // ==================== Pin Definitions ====================
 // WARNING: Only ADC1 (GPIO32-39) or ADC2 (GPIO0,2,4,12-15,25-27) pins work!
 // GPIO19 and GPIO21 are digital-only — they CANNOT read analog values.
-#define ACS712_PIN     34          // GPIO34 (ADC1_CH6) = ACS712 analog output
-#define VCC_SENSE_PIN  35          // GPIO35 (ADC1_CH7) = VCC sense (voltage divider)
+#define ACS712_PIN       34          // GPIO34 (ADC1_CH6) = ACS712 analog output
+#define DC_VOLTAGE_PIN   35          // GPIO35 (ADC1_CH7) = DC voltage measurement
 
 // ==================== ACS712 Parameters ====================
-#define SENSITIVITY    0.100       // V/A (100 mV/A for ±20A)
-#define VCC_DIVIDER    2.0         // Voltage divider ratio on VCC sense pin
-                                   // (e.g., 2 if using 1:1 divider: 5V -> 2.5V)
-                                   // Set to 1.0 if directly measuring <3.3V
+#define SENSITIVITY        0.100       // V/A (100 mV/A for ±20A)
+#define VCC_SUPPLY         5.0         // ACS712 supply voltage (V)
+
+// ==================== DC Voltage Parameters ====================
+#define DC_VOLTAGE_DIVIDER 4.133       // Divider ratio: (R1+R2)/R2 = (47K+15K)/15K
+#define DC_VOLTAGE_CALIB  0.93        // Calibration factor (actual/reading, tune this if off)
 
 // ==================== ESP32 ADC Parameters ====================
 #define ADC_RES        4095.0      // 12-bit ADC (0-4095)
-#define ADC_VREF       6         // ESP32 ADC reference voltage (with 11dB atten)
+#define ADC_VREF       3.6         // ESP32 ADC reference voltage (with 11dB atten, range ~0-3.6V)
 
 // ==================== Sensor Readings ====================
-float vccMeasured = 5.0;
-float current    = 0.0;
+float current       = 0.0;
 float sensorVoltage = 0.0;
-int   adcValue   = 0;
+float dcVoltage     = 0.0;
+float zeroOffset    = 2.5;       // Calibrated zero-current offset (measured at startup)
+int   adcValue      = 0;
+int   dcAdcValue    = 0;
+
+// ==================== Read Sensors ====================
+// Oversampled analogRead: average N readings with small delay
+int analogReadOversample(int pin, int samples) {
+  long sum = 0;
+  for (int i = 0; i < samples; i++) {
+    sum += analogRead(pin);
+    delayMicroseconds(100);
+  }
+  return (int)(sum / samples);
+}
 
 // ==================== Read Sensors ====================
 void readSensors() {
-  // --- Read actual VCC from GPIO21 (voltage divider) ---
-  int vccRaw = analogRead(VCC_SENSE_PIN);
-  vccMeasured = (vccRaw / ADC_RES) * ADC_VREF * VCC_DIVIDER;
-  if (vccMeasured < 3.0 || vccMeasured > 6.0) vccMeasured = 5.0;
-
-  // --- Read ACS712 output from GPIO19 ---
-  adcValue = analogRead(ACS712_PIN);
+  // --- Read ACS712 output from GPIO34 (8x oversampled) ---
+  adcValue = analogReadOversample(ACS712_PIN, 8);
   sensorVoltage = (adcValue / ADC_RES) * ADC_VREF;
 
-  float offsetVoltage = vccMeasured / 2.0;
-  current = (sensorVoltage - offsetVoltage) / SENSITIVITY;
+  // --- Read DC voltage from GPIO35 via 47K/15K divider (16x oversampled) ---
+  dcAdcValue = analogReadOversample(DC_VOLTAGE_PIN, 16);
+  dcVoltage = (dcAdcValue / ADC_RES) * ADC_VREF * DC_VOLTAGE_DIVIDER * DC_VOLTAGE_CALIB;
+
+  // --- Calculate current using calibrated zero offset ---
+  current = (sensorVoltage - zeroOffset) / SENSITIVITY;
 }
 
 // ==================== JSON API ====================
@@ -77,7 +91,7 @@ void handleAPI() {
   String json = "{";
   json += "\"current\":"    + String(current, 3) + ",";
   json += "\"voltage\":"    + String(sensorVoltage, 3) + ",";
-  json += "\"vcc\":"        + String(vccMeasured, 2) + ",";
+  json += "\"dcVoltage\":"  + String(dcVoltage, 2) + ",";
   json += "\"adc\":"        + String(adcValue);
   json += "}";
   server.send(200, "application/json", json);
@@ -147,8 +161,8 @@ void handleRoot() {
     </div>
     <div class="sub">
       <div class="sub-item">
-        <div class="label">VCC</div>
-        <div class="value" id="vcc">5.00<span class="unit">V</span></div>
+        <div class="label">DC Voltage</div>
+        <div class="value" id="dcv">0.00<span class="unit">V</span></div>
       </div>
       <div class="sub-item">
         <div class="label">ADC Raw</div>
@@ -167,7 +181,7 @@ void handleRoot() {
         const d = await r.json();
         document.getElementById('cur').innerHTML = d.current.toFixed(3) + '<span class="unit">A</span>';
         document.getElementById('vout').innerHTML = d.voltage.toFixed(3) + '<span class="unit">V</span>';
-        document.getElementById('vcc').innerHTML = d.vcc.toFixed(2) + '<span class="unit">V</span>';
+        document.getElementById('dcv').innerHTML = d.dcVoltage.toFixed(2) + '<span class="unit">V</span>';
         document.getElementById('adc').textContent = d.adc;
         document.getElementById('status').textContent = '● Connected';
         document.getElementById('status').style.background = '#22c55e';
@@ -192,9 +206,9 @@ void setup() {
   // --- ADC ---
   analogReadResolution(12);
   analogSetPinAttenuation(ACS712_PIN, ADC_11db);
-  analogSetPinAttenuation(VCC_SENSE_PIN, ADC_11db);
+  analogSetPinAttenuation(DC_VOLTAGE_PIN, ADC_11db);
 
-  // --- WiFi AP ---
+  // --- WiFi AP (start first so ADC & sensor have time to stabilize) ---
   WiFi.mode(WIFI_AP);
   WiFi.softAP(AP_SSID, AP_PASS, AP_CHANNEL, 0, AP_MAX_CLI);
   IPAddress ip = WiFi.softAPIP();
@@ -203,9 +217,22 @@ void setup() {
   Serial.println("------------------------");
   Serial.print("AP SSID: ");   Serial.println(AP_SSID);
   Serial.print("AP IP:   ");   Serial.println(ip);
-  Serial.print("ADC1 pin (ACS712): GPIO");  Serial.println(ACS712_PIN);
-  Serial.print("ADC1 pin (VCC):    GPIO");  Serial.println(VCC_SENSE_PIN);
+  Serial.print("ADC1 pin (ACS712):    GPIO");  Serial.println(ACS712_PIN);
+  Serial.print("ADC1 pin (DC Volt):   GPIO");  Serial.println(DC_VOLTAGE_PIN);
   Serial.print("Connect and open http://"); Serial.print(ip); Serial.println("/");
+
+  // --- Auto-calibrate zero-current offset (after warm-up, assume no load) ---
+  int calSamples = 200;
+  float sum = 0;
+  for (int i = 0; i < calSamples; i++) {
+    sum += analogRead(ACS712_PIN);
+    delay(2);
+  }
+  float avgAdc = sum / calSamples;
+  zeroOffset = (avgAdc / ADC_RES) * ADC_VREF;
+  Serial.print("Zero-current offset calibrated: ");
+  Serial.print(zeroOffset, 4);
+  Serial.println("V (expected ~2.50V)");
 
   // --- Web Server ---
   server.on("/",        handleRoot);
@@ -224,7 +251,8 @@ void loop() {
     readSensors();
     Serial.print("I="); Serial.print(current, 3); Serial.print("A");
     Serial.print("  Vout="); Serial.print(sensorVoltage, 3); Serial.print("V");
-    Serial.print("  VCC="); Serial.print(vccMeasured, 2); Serial.print("V");
-    Serial.print("  ADC="); Serial.println(adcValue);
+    Serial.print("  DC="); Serial.print(dcVoltage, 2); Serial.print("V");
+    Serial.print("  ADC="); Serial.print(adcValue);
+    Serial.print("  DC_ADC="); Serial.println(dcAdcValue);
   }
 }

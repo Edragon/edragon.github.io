@@ -5,6 +5,9 @@
 
 - [[ESP8266-board-dat]] - [[serial-dat]] - [[CH9102-dat]]
 
+- [[LDO-dat]]
+
+
 ## chip info 
 
 - DS [[0a-esp8266ex_datasheet_en.pdf]]
@@ -49,6 +52,11 @@ Hardware SPI Pins (Default)
 - reference from chip datasheet section "Pin Definitions" Note part
 
 ![](15-46-00-28-03-2023.png)
+
+module bootstrap 
+
+![](2026-07-28-19-10-43.png)
+
 
 
 ## ADC
@@ -153,9 +161,13 @@ auto serial SCH
 
 ## ADC setup 
 
+- [[ADC-dat]] - [[ESP8266-HDK-dat]]
+
 3.3V scale to 1V 
 
 ![](2026-06-11-17-50-02.png)
+
+![](2026-07-28-19-07-19.png)
 
 
 ### programmer and programming 
