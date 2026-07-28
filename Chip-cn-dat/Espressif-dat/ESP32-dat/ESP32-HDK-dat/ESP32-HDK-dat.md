@@ -23,11 +23,45 @@
 
 ## pins 
 
-You can use almost any GPIO, except:
 
+- EN
+- SVP
+- SVN
+
+- IO0 - `strapping!`
+- TXD
+- IO2
+- RXD
+- IO4
+- IO5
 GPIO6–11: used for flash
-
-GPIO34–39: input-only (not usable as output like SCL)
+- IO12 - `strapping!` - ADC2_CH5 / Touch Sensor 5 / HSPI-Q / MTDI
+- IO13 - ADC2_CH4 / Touch Sensor 4 / JTAG_MTCK
+- IO14 - ADC2_CH6 / Touch Sensor 6 / JTAG_MTMS
+- IO15 - `strapping!` / MTDO 
+- IO16
+- IO17
+    - IO16, IO17 — on some modules, these are used for PSRAM chip select signals.
+- IO18
+- IO19
+- IO21
+- IO22
+    - IO22, IO21 — commonly used for I2C (SDA/SCL) on many dev boards.
+- IO23
+    - IO18 (HSPI_CLK), IO19 (HSPI_MISO), IO23 (HSPI_MOSI) — be aware of SPI bus conflicts if using external SPI devices.
+- IO25 - DAC1
+- IO26 - DAC2
+- IO27
+    - IO12, IO13, IO14, IO15, IO16, IO17, IO18, IO19, IO21, IO22, IO23, IO25, IO26, IO27 are all `ADC2` channels.
+    - `ADC2` cannot be used when WiFi is enabled — the WiFi subsystem takes over the ADC2 peripheral.
+    - If you need analog readings while WiFi is active, use `ADC1` pins (IO32–IO39) instead.
+- IO32 - 32.768 kHz `XTAL` in/out
+- IO33 - 32.768 kHz `XTAL` in/out
+- IO34 - ADC1_CH6 
+- IO35 - ADC1_CH7 
+    - IO34, IO35 (also IO36, IO37, IO38, IO39) — input-only pins with no internal pull-up/pull-down resistors.
+    - Cannot be used as outputs (e.g., cannot drive an LED or act as SCL).
+    - If used as inputs, add external pull-up/pull-down resistors if needed.
 
 ### RMT
 
