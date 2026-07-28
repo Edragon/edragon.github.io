@@ -38,7 +38,7 @@ AlfredoCRSF crsf;
 #define M2_IN2   15
 
 // ==================== PWM Parameters ====================
-#define PWM_FREQ     5000        // 5 kHz
+#define PWM_FREQ     1000        // 1 kHz
 #define PWM_RES      8           // 8-bit (0-255)
 // New ESP32 Core 3.x+ API: ledcAttach(pin, freq, res) + ledcWrite(pin, duty)
 // No channel numbers needed — use pins directly.
@@ -51,8 +51,9 @@ AlfredoCRSF crsf;
 
 // ==================== CRSF Channel Mapping ====================
 // CRSF channel range: 1000 (min) – 1500 (mid) – 2000 (max)
-#define CH_THROTTLE   3           // CH3 → base speed
+#define CH_THROTTLE   3           // CH3 → speed magnitude (0-255)
 #define CH_YAW        1           // CH1 → steering (yaw)
+#define CH_DIR        6           // CH6 → 1000=forward, 1500=stop, 2000=backward
 
 // Track previous direction: 1=forward, -1=reverse, 0=stop
 int prevDirM1 = 0;
@@ -110,18 +111,35 @@ int mapCRSFtoSpeed(int chVal) {
   return map(chVal, 1000, 2000, -255, 255);
 }
 
-// Differential drive: combine throttle + yaw into two motor speeds
+// Differential drive: combine throttle + yaw + direction into two motor speeds
 void updateMotorsFromRC() {
-  int thr = crsf.getChannel(CH_THROTTLE);  // 172-1811
-  int yaw = crsf.getChannel(CH_YAW);       // 172-1811
+  int thr = crsf.getChannel(CH_THROTTLE);  // 1000-2000
+  int yaw = crsf.getChannel(CH_YAW);       // 1000-2000
+  int dir = crsf.getChannel(CH_DIR);       // 1000=forward, 1500=stop, 2000=backward
 
-  // Map to PWM range
-  int throttle = mapCRSFtoSpeed(thr);      // -255..255
-  int steering = mapCRSFtoSpeed(yaw);      // -255..255
+  // Failsafe: if no valid CRSF signal yet (channels read 0), stop motors
+  if (thr < 900 || yaw < 900 || dir < 900) {
+    motorCoast(M1_IN1, M1_IN2, &m1Speed);
+    motorCoast(M2_IN1, M2_IN2, &m2Speed);
+    prevDirM1 = 0;
+    prevDirM2 = 0;
+    return;
+  }
 
-  // Constrain throttle so that it only goes forward (0..255)
-  // Negative throttle = no reverse from stick, just 0
-  int baseSpeed = constrain(throttle, 0, 255);
+  // Speed magnitude: 1000-2000 → 0-255
+  int speedMag = map(thr, 1000, 2000, 0, 255);
+
+  // Direction from CH6 (with 100-wide deadband around 1500)
+  int direction = 0;
+  if      (dir < 1400) direction = 1;   // forward
+  else if (dir > 1600) direction = -1;  // backward
+  else                 direction = 0;   // stop
+
+  // Apply direction to speed
+  int baseSpeed = speedMag * direction;
+
+  // Steering: 1000-2000 → -255..255 (center = straight)
+  int steering = mapCRSFtoSpeed(yaw);
 
   // Differential mixing
   // M1 (left motor):  baseSpeed + steering
@@ -174,8 +192,10 @@ void loop() {
     lastPrint = millis();
     int thr = crsf.getChannel(CH_THROTTLE);
     int yaw = crsf.getChannel(CH_YAW);
+    int dir = crsf.getChannel(CH_DIR);
     Serial.print("CH1(Yaw)=");    Serial.print(yaw);
     Serial.print("  CH3(Thr)=");  Serial.print(thr);
+    Serial.print("  CH6(Dir)=");  Serial.print(dir);
     Serial.print("  M1=");        Serial.print(m1Speed);
     Serial.print("  M2=");        Serial.println(m2Speed);
   }

@@ -143,7 +143,7 @@ GPIO15, ROW_E pin, can be set to ground
 
 - backup demo code - https://github.com/btc520/RPI-MPC1073
 
-- [[MPC1073]]
+- [[MPC1073]] - [[MPC1073-fab]]
 
 
 - [[MPC1073-design-error]] (obseleted, 2022 only)

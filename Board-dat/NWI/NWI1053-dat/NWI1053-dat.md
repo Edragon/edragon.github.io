@@ -3,7 +3,7 @@
 
 refer to [[NWI1050-dat]] 
 
-this is the version soldered with [[ESP-12F-dat]] module 
+this is the version soldered with [[ESP-12F-dat]] module - [[ESP8266-dat]] - [[ESP8266-HDK-dat]]
 
 
 
