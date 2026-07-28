@@ -27,6 +27,12 @@ relevant - [[generator-dat]]
 
 
 
+### glass based solar panel 
+
+![](2026-07-27-14-50-41.png)
+
+
+
 
 
 ## tech 
