@@ -1,6 +1,10 @@
 
 # voice-detection-dat
 
+
+
+
+
 - [[AI-dat]] - [[Audio-dat]] - [[media-dat]]
 
 - [[Voice-Synthesizer-dat]] - [[Voice-Recognition-dat]] - [[voice-detection-dat]] - [[audio-dat]]
@@ -14,7 +18,7 @@
 
 - [[AIT-dat]] - [[AI-WB1-dat]] 
 
-- [[ASRPRO-dat]]
+- [[8002-dat]] - [[unisound-dat]] - [[US516P6-dat]] - [[ASR-PRO-dat]] - [[voice-detection-dat]] - [[audio-dat]]
 
 
 SU-03T 语音识别模块
