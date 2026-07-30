@@ -3,11 +3,20 @@
 
 # US516P6-dat
 
-- [[unisound-dat]] - [[US516P6-dat]]
+- [[unisound-dat]] - [[US516P6-dat]] - [[voice-detection-dat]]
 
 `US516P6` is a fully offline AI voice recognition module, powered by the `Unisound` voice processing chip. It enables voice command recognition, control output, and voice playback without an internet connection. The module features a 2.54mm standard pitch design with castellation holes for easy embedding into systems. It can interface directly with STM32, Arduino, 8051 MCU, and other embedded platforms, widely used in smart home, appliance control, industrial equipment, toys, and other voice-interaction scenarios.
 
 - [[SDK-dat]] - [[SDK-unisound-dat]]
+
+
+SU-03T 语音识别模块
+
+- [[unisound-dat]] - [[US516P6-dat]]
+
+![](2026-07-20-21-16-54.png)
+
+
 
 ## Board
 

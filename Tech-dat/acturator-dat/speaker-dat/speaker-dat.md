@@ -2,7 +2,8 @@
 # speaker-dat
 
 
-- [[speaker-dat]] - [[buzzer-dat]] 
+- [[sensor-microphone-dat]] - [[speaker-dat]] - [[buzzer-dat]]- [[I2S-dat]] - [[audio-dat]]
+
 
 - [[max98357-dat]]
 
@@ -180,8 +181,37 @@ There is no inherent sound quality difference between 4-ohm and 8-ohm speakers. 
 - [[speaker-dat]] - [[headphone-dat]]
 
 
+## Speaker Selection Guide
+
+### Speaker Introduction & Selection
+
+1. For module boards, refer to our amplifier circuits — selection can be made from our product range.
+2. For custom designs, select speaker specifications based on output power requirements.
+3. For products with **AEC (Acoustic Echo Cancellation)**, use a **cavity speaker** with THD optimized over **150Hz–3000Hz**, and output distortion less than **10%** at maximum volume.
+
+---
+
+### Enclosure Sound Outlet Design
+
+1. Place the speaker sound outlet **away from the microphone** — refer to microphone structural design guidelines. The sound outlet hole is required; **round holes** are recommended. Common shapes: **round, oval, square, triangular**.
+2. Recommended hole diameter: **1mm** (range: **0.8–1.5mm**). Do not go below **0.5mm** — too small a hole restricts sound output, resulting in quiet, thin audio.
+3. The total sound outlet area should be **5%–15%** of the speaker diaphragm area. **10% is recommended** for optimal volume and sound quality. Too large may introduce excessive high-frequency noise; too small may reduce volume.
+
+![](2026-07-30-21-04-07.png)
+
+---
+
+### Speaker Installation Guidelines
+
+1. The speaker must be **firmly secured** — any looseness will degrade sound output.
+2. Place the speaker **fully into the mounting slot** to avoid tilting.
 
 
+## models 
+
+- 4R内阻喇叭选择大于2.4W的
+- 8R喇叭要选择大于1.6W的
+- 尽量不要超过太大，例如4R5w模块带不太动
 
 ## ref 
 

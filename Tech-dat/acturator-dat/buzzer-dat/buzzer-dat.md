@@ -1,6 +1,14 @@
 
 # buzzer-dat
 
+
+
+
+- [[sensor-microphone-dat]] - [[speaker-dat]] - [[buzzer-dat]]- [[I2S-dat]] - [[audio-dat]]
+
+
+
+
 - [[wave-dat]] - [[audio-dat]]
 
 - [[buzzer-mems-dat]]

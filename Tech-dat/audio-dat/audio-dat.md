@@ -2,6 +2,9 @@
 # audio-dat
 
 
+- [[sensor-microphone-dat]] - [[speaker-dat]] - [[buzzer-dat]]- [[I2S-dat]] - [[audio-dat]]
+
+
 - [[Voice-Synthesizer-dat]] - [[Voice-Recognition-dat]] - [[voice-detection-dat]] - [[audio-dat]]
 
 - [[tone-dat]]
