@@ -13,6 +13,12 @@
 
 ## chip and companies
 
+
+- [[diodes-dat]] - [[AP62200-dat]] - [[LDO-dat]] - [[dcdc-down-dat]]
+
+
+- [[LT8350-dat]] - [[analog-device-dat]] - [[AD-power-dat]]
+
 - [[joulwatt-dat]]
 
 - [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]]

@@ -3,6 +3,9 @@
 # AD-power-dat
 
 
+- [[LT8350-dat]] - [[analog-device-dat]] - [[AD-power-dat]]
+
+
 - [[analog-device-dat]] - [[ADE7953-dat]]
 
 

@@ -95,7 +95,7 @@
 
 - [[L298-dat]] - [[SDR1093-dat]] - [[SDR1048-dat]]
 
-- [[DRV8871-dat]] - [[SDR1117-dat]]
+- [[DRV8871-dat]] - [[SDR1117-dat]] - [[DRV8412-dat]] - [[TI-motor-dat]] - [[DRV84x2-dat]]
 
 - [[L293-dat]] - [[SDR1064-dat]]
 

@@ -1,6 +1,10 @@
 
 # DRV84x2-dat
 
+- [[DRV8412-dat]] - [[TI-motor-dat]] - [[DRV84x2-dat]]
+
+
+
 1 Features
 
 - • High-efficiency power stage (up to 97%) with low RDS(on) MOSFETs (110mΩ at TJ  = 25°C)
@@ -15,3 +19,14 @@
 - • No external snubber or schottky diode is required
 
 ![](2025-06-03-01-13-31.png)
+
+
+## APP SCH 
+
+- [[sensor-current-dat]] - [[motor-driver-dat]] - [[ACS722-dat]] - [[DRV84x2-dat]]
+
+
+![](2026-07-30-14-04-17.png)
+
+
+## ref 

@@ -15,7 +15,7 @@
 
 - [[DRV8701-dat]]
 
-
+- [[DRV8412-dat]] - [[TI-motor-dat]] - [[DRV84x2-dat]]
 
 DRV8701 Brushed DC Motor Full-Bridge Gate Driver
 

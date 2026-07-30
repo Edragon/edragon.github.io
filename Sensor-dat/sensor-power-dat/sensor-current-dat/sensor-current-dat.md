@@ -2,6 +2,10 @@
 # current-sensor-dat.md
 
 
+- [[sensor-current-dat]] - [[motor-driver-dat]] - [[ACS722-dat]] - [[DRV84x2-dat]]
+
+
+
 - [[VRMS-dat]] - [[voltage-dat]]
 
 - [[fab-tools-dat]] - [[meter-dat]] 
