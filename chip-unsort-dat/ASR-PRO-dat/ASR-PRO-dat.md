@@ -11,7 +11,9 @@
 
 ## board 
 
-![](2026-07-30-19-57-10.png)
+
+![](2026-07-30-20-19-31.png)
+
 
 
 ## specs 
@@ -36,6 +38,7 @@
 
 ## ref 
 
+Arduino+Asr_pro语音模块：智能语音交互 - https://blog.csdn.net/m0_63715549/article/details/131297307
 
 ASR-PRO官方资料汇总：https://www.haohaodada.com/new/bbs/forum.php?mod=viewthread&tid=592&page=1&extra=#pid1355
 

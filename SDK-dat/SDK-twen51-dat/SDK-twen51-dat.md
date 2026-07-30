@@ -15,16 +15,12 @@ support
 - [[C51-dat]]
 - 可以通过图形化快速入门，在线字符编程
 - 天问ASR人工智能语音识別芯片
-- TW32F003芯片
-- ESP32C3
-- STC12
-- STC15
-- STC8
-- STC16
-- STC12
-- STC15
-- STC8
-- STC16
+- [[TW32F003-dat]]
+- [[STC12-dat]]
+- [[STC15-dat]]
+- [[STC8-dat]]
+- [[STC16-dat]]
+- [[STC12-dat]]
 - STC12单片机
 - 2015年STC15单片机
 - 带USB的STC51全功能开发板
@@ -99,5 +95,23 @@ https://www.haohaodada.com/video/new/zipfiles/twenBlock.zip
 
 ![](2026-07-30-20-11-13.png)
 
+
+
+## tutorial 
+
+1、准备你的音频文件，转换成 16000采样，24Kbit，单声道的mp3文件
+
+2、替换掉模型中的音频文件，
+
+======↓↓↓天问的原始语音路径如下↓↓↓======
+
+桌面版：安装目录 天问Block\asrpro\voice\mp3目录
+
+在线版；下载的固件压缩包中的 voice\mp3目录
+
+
+## demo 
+
+asrpro online complied and test #voice control - https://t.me/electrodragon3/463
 
 ## ref 

@@ -17,7 +17,8 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
-- [[interface-dat]] - [[audio-dat]] - [[USB-SDK-dat]] - [[decoder-mp3-dat]] - [[playback-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[media-dat]]
+- [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] 
+
 
 - [[robot-dat]] - [[robotic-dat]]
 
@@ -212,15 +213,22 @@
 
 - [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
 
-- [[amplifier-dat]] - [[codec-dat]] - [[amp-op-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]] - [[amplifier-GNSS-dat]]
-
-- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]] - [[MP3-dat]] - [[voice-detection-dat]]
 
 - [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]]
 
 - [[filter-dat]]
 
 - [[transmitter-current-dat]]
+
+## media 
+
+- [[amplifier-dat]] - [[codec-dat]] - [[amp-op-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]] - [[amplifier-GNSS-dat]]
+
+- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]] - [[MP3-dat]] - [[voice-detection-dat]]
+
+- [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] 
+
+
 
 
 ## Utilities 
