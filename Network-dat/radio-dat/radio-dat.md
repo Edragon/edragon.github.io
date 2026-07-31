@@ -17,6 +17,10 @@
 
 
 
+## tech 
+
+- [[telemetry-dat]] - [[RC-dat]] - [[radio-dat]]
+
 
 
 ## SI4713-dat

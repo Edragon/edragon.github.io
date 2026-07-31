@@ -56,7 +56,17 @@ A **UGV** (Unmanned Ground Vehicle) is a robotic system that operates on land wi
 
 
 
+## tech 
+
+- [[telemetry-dat]] - [[RC-dat]] - [[radio-dat]]
+
+
+
+
+
 ## control 
+
+- [[ESP-NOW-dat]]
 
 - [[RC-dat]] - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]]
 

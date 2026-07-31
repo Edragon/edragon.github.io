@@ -26,7 +26,7 @@
 
 - debug - [[stack-trace-decoder-dat]] - [[jtag-dat]]
 
-
+- [[telemetry-dat]] - [[RC-dat]]
 
 ## arduino 
 
