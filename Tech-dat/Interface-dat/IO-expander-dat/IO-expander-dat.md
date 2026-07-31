@@ -2,6 +2,7 @@
 # IO-expander-dat
 
 
+- [[TCA9554-dat]] - [[TI-interface-dat]] - [[TI-dat]] - [[IO-expander-dat]]
 
 
 ## boards 
@@ -31,7 +32,7 @@ TCA9555 / PCA9555 I2C 16 路 IO 扩展
 
 - [[ILC1025-dat]] - [[ILC1047-dat]] - [[PCF8574-dat]] - [[LCD1602-dat]]
 
-
+- [[TCA9554-dat]] - [[TI-interface-dat]] - [[TI-dat]]
 
 
 

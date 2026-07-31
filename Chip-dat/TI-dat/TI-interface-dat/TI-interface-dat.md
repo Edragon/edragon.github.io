@@ -22,6 +22,8 @@ https://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf?ts=1780913696610
 
 [PCF8574 == PCF8574 Remote 8-Bit I/O Expander for I2C Bus](https://www.ti.com/lit/ds/symlink/pcf8574.pdf)
 
+- [[TCA9554-dat]] - [[TI-interface-dat]] - [[TI-dat]]
+
 
 ## DAC
 

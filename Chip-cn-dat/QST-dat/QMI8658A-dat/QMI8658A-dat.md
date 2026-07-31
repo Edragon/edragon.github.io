@@ -2,7 +2,9 @@
 
 # QMI8658A-dat
 
-QMI8658A DATASHEET
+- [[QMI8658A-dat]] - [[QST-dat]] - [[sensor-motion-dat]] - [[6-axis-dat]] 
+
+`QMI8658A` DATASHEET
 
 Low Noise, Wide Bandwidth 6D Inertial Measurement Unit with Motion Co-Processor
 

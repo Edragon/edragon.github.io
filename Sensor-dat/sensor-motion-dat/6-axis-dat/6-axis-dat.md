@@ -2,6 +2,9 @@
 # 6-axis-dat
 
 
+
+
+
 Accelerometer + Gyroscope == Inertial Measurement Unit
 
 - [[3-axis-Accelerometer-dat]] + [[3-axis-gyroscope-dat]]
@@ -20,7 +23,7 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 ## chip 
 
-- [[QST-dat]] - [[QMI8658A-dat]]
+- [[QMI8658A-dat]] - [[QST-dat]] - [[sensor-motion-dat]] - [[6-axis-dat]] 
 
 
 - [[BMI323-dat]]
