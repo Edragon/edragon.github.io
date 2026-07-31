@@ -46,7 +46,7 @@
 
 - [[high-voltage-dat]]
 
-- [[lora-dat]]
+- [[lora-dat]] - [[SX1262-dat]]
 
 
 ## Category
@@ -116,7 +116,9 @@
 
 - [[RFID-dat]] - [[NFC-dat]]
 
-- [[ethernet-dat]] - [[USB-SDK-dat]]
+- [[ethernet-dat]] 
+
+- [[USB-SDK-dat]] - [[USB-SDK-type-C-dat]] - [[USB-PD-dat]]
 
 - [[bluetooth-dat]] - [[ble-dat]] - [[bt-audio-dat]]
 
@@ -176,6 +178,9 @@
 - [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[camera-FPV-dat]]
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]] - [[motor-reduction-gear-dat]]
+
+- [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
+
 
 - [[driver-hardware-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]] - [[motor-driver-stepper-dat]] 
 

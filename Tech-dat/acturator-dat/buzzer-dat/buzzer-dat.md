@@ -2,7 +2,7 @@
 # buzzer-dat
 
 
-
+- [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
 
 - [[sensor-microphone-dat]] - [[speaker-dat]] - [[buzzer-dat]]- [[I2S-dat]] - [[audio-dat]]
 
@@ -88,6 +88,10 @@ high drive - [[transistor-dat]]
 
 - [[SSL1019-dat]]
 
+
+## build 
+
+![](2026-07-31-20-02-13.png)
 
 
 ## ref 

@@ -250,6 +250,10 @@ ESP8266 drive
 
 
 
+## build 
+
+![](2026-07-31-20-03-08.png)
+
 ## ref 
 
 - [[display-dat]] - [[epaper]]

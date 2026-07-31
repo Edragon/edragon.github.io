@@ -1,6 +1,8 @@
 
 # light-dat 
 
+- [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
+
 
 - [[light-spot-dat]] - [[light-app-dat]] - [[LED-dat]] - [[led-driver-dat]]
 

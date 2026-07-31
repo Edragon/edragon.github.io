@@ -5,6 +5,12 @@
 
 - [[fast-charge-protocols-dat]] - [[XPD318-dat]]
 
+
+- [[USB-SDK-dat]] - [[USB-SDK-type-C-dat]] - [[USB-PD-dat]]
+
+- [[fast-charge-protocols-dat]] - [[USB-QC-dat]] - [[USB-PD-dat]]
+
+
 Quick Charge 2.0
 
 - [[USB-QC-dat]]  - [[fitipower-dat]]

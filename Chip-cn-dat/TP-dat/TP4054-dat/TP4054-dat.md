@@ -23,24 +23,11 @@
 
 DESCRIPTION
 
-The TP4054 is a complete constant-current/constant-voltage linear charger for single cell
-lithium-ion batteries. Its SOT package and low external component count make the TP4054
-ideally suited for portable applications. Furthermore, the TP4054 can work within USB and wall
-adapter.
+The TP4054 is a complete constant-current/constant-voltage linear charger for single cell lithium-ion batteries. Its SOT package and low external component count make the TP4054 ideally suited for portable applications. Furthermore, the TP4054 can work within USB and wall adapter.
 
-No external sense resistor is needed, and no blocking diode is required due to the internal
-PMOSFET architecture and have prevent to negative Charge Current Circuit. Thermal feedback
-regulates the charge current to limit the die temperature during high power operation or high
-ambient temperature. The charge voltage is fixed at 4.2V, and the charge current can be
-programmed externally with a single resistor. The TP4054 automatically terminates the charge
-cycle when the charge current drops to 1/10th the programmed value after the final float voltage is
-reached.
+No external sense resistor is needed, and no blocking diode is required due to the internal PMOSFET architecture and have prevent to negative Charge Current Circuit. Thermal feedback regulates the charge current to limit the die temperature during high power operation or high ambient temperature. The charge voltage is fixed at 4.2V, and the charge current can be programmed externally with a single resistor. The TP4054 automatically terminates the charge cycle when the charge current drops to 1/10th the programmed value after the final float voltage is reached.
 
-When the input supply (wall adapter or USB supply) is removed, the TP4054 automatically enters
-a low current state, dropping the battery drain current to less than 2uA. The TP4054 can be put
-into shut down mode, reducing the supply current to 45uA. Other features include current monitor,
-under voltage lockout, automatic recharge and a status pin to indicate charge termination and the
-presence of an input voltage.
+When the input supply (wall adapter or USB supply) is removed, the TP4054 automatically enters a low current state, dropping the battery drain current to less than 2uA. The TP4054 can be put into shut down mode, reducing the supply current to 45uA. Other features include current monitor, under voltage lockout, automatic recharge and a status pin to indicate charge termination and the presence of an input voltage.
 
 FEATURES
 
@@ -68,6 +55,7 @@ Gauging
 ·2.9V Trickle Charge Threshold (TP4054)
 ·Soft-Start Limits Inrush Current
 ·Available in 5-Lead SOT-23 Package
+
 APPLICATIONS
 ·Cellular Telephones, PDAs, MP3 Players
 ·Charging Docks and Cradles
@@ -94,6 +82,11 @@ When we need IBAT＝0.1A RPROG＝10kΩ
 
 ![](2025-10-08-15-23-13.png)
 
+
+
+## build 
+
+![](2026-07-31-19-58-33.png)
 
 
 ## ref 

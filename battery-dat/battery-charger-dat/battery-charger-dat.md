@@ -66,7 +66,7 @@ The most following charger options are for the lithium-ion battery
 | TP5000           | Li-MnO2, LiFePO4(LFP) charger IC, | 0.5A           |
 | [[MCP73831-dat]] | 0LED indicator                    | 0.5A           |
 | TP4056           | Linear charging                   | ~1A            |
-| TP4054           |
+| [[TP4054-dat]]           |
 
 - [[MCP73831-dat]] - [[MCP73871-dat]] - [[microchip-power-dat]]
 

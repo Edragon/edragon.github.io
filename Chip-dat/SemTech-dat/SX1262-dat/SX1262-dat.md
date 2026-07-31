@@ -117,6 +117,11 @@ While the silicon itself can tune to any frequency in this range, actual hardwar
 |     | RESET    | low  | reset    |
 
 
+## build 
+
+![](2026-07-31-19-56-55.png)
+
+
 
 ## ref 
 

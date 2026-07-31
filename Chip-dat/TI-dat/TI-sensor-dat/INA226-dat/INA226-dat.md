@@ -2,6 +2,12 @@
 # INA226-dat 
 
 
+- [[diodes-dat]] - [[AP3377-dat]] - [[USB-PD-dat]]
+
+- [[INA226-dat]] - [[MP1584-dat]]
+
+
+
 https://www.ti.com/product/INA226
 
 
@@ -60,6 +66,12 @@ INA226 采用分流采样 + ADC 转换的方式实现测量：
 
 双向测量：支持正 / 负电流测量，可用于电源和负载双向场景。
 
+
+## build 
+
+- [[diodes-dat]] - [[AP3377-dat]] - [[USB-PD-dat]]
+
+![](2026-07-31-19-40-55.png)
 
 
 ## ref 

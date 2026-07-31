@@ -1,6 +1,15 @@
 
 # MP1584-DAT
 
+
+- [[diodes-dat]] - [[AP3377-dat]] - [[USB-PD-dat]]
+
+- [[INA226-dat]] - [[MP1584-dat]] - [[AP2204-dat]]
+
+
+
+## board 
+
 - [[OPM1104-dat]]
 
 - [[OPM1006-dat]]
@@ -24,6 +33,14 @@ FB = pin 4
 - [[resistor-dat]] - [[resistor-feedback-dat]]
 
 Feedback Voltage = 0.8V 
+
+
+
+## build 
+
+![](2026-07-31-19-41-33.png)
+
+
 
 ## ref 
 

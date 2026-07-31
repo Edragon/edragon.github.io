@@ -67,7 +67,7 @@ V+正极接电源V-负极接电源，F+和F-接散风扇，LH-和+接灯
 
 ### slot board 4 == -/+ two pins 
 
-similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]]
+similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]] - [[PC814-dat]]
 
 ![](2026-07-31-19-13-25.png)
 

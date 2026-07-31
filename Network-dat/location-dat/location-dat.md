@@ -103,6 +103,11 @@ arduino shield with [[neo-6-dat]] + [[SD-dat]]
 ![](2026-01-19-13-31-13.png)
 
 
+## build 
+
+socket interface - [[protection-power-dat]] - [[location-dat]]
+
+![](2026-07-31-19-57-26.png)
 
 
 

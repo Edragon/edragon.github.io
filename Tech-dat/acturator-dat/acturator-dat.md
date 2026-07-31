@@ -1,7 +1,7 @@
 
 # actuator-dat 
 
-
+- [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
 
 - [[system-dat]] - [[embedded-dat]] - [[actuator-dat]] - [[control-system-dat]]
 

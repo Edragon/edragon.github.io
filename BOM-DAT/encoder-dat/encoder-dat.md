@@ -83,6 +83,14 @@ act as a input
 ![](2026-07-17-18-44-40.png)
 
 
+ESP32 
+
+- ROTARY SW - IO19
+- ROTARY DT - IO18
+- ROTARY CLK - IO5
+
+![](2026-07-31-19-45-08.png)
+
 
 ## APP SCH 
 

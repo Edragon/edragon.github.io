@@ -2,7 +2,7 @@
 # PC817-dat
 
 
-
+- [[PC817-dat]] - [[PC814-dat]]
 
 ## PIN 4 current-limit resistor 
 

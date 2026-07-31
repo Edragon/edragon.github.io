@@ -3,6 +3,12 @@
 # diodes-dat
 
 
+
+- [[diodes-dat]] - [[AP3377-dat]] - [[USB-PD-dat]]
+
+- [[INA226-dat]] - [[MP1584-dat]] - [[AP2204-dat]] - [[encoder-dat]]
+
+
 ## LDO 
 
 - [[diodes-dat]] - [[AP62200-dat]] - [[LDO-dat]]
