@@ -8,7 +8,7 @@
 - [[natlinear-dat]] - [[LN2054-dat]] - [[battery-charger-dat]]
 
 
-- [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
+- [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]] - [[LN2516-dat]]
 
 
 LN2266 - Ultra-small, Low-voltage Start-up PWM Controlled Boost DC/DC Regulator

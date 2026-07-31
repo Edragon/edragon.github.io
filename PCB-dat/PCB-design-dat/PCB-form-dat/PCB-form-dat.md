@@ -67,11 +67,16 @@ V+正极接电源V-负极接电源，F+和F-接散风扇，LH-和+接灯
 
 ### slot board 4 == -/+ two pins 
 
+similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]]
+
+![](2026-07-31-19-13-25.png)
+
 - [[led-driver-dat]] - [[LED-dat]]
 
 - [[PCB-form-dat]] - [[LN2566-dat]]
 
 ![](2026-06-02-20-26-04.png)
+
 
 ### slot board 3 
 

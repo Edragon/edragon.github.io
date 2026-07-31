@@ -169,6 +169,19 @@ Chip Solutions
 
 ## build 
 
+### build 8 
+
+- [[mosfet-dat]] - 4485 - [[diode-dat]] - MBR10150
+
+![](2026-07-31-19-03-56.png)
+
+![](2026-07-31-19-04-07.png)
+
+- [[LM358-dat]] - [[ACDC-dat]] - 4890 ? - 
+
+![](2026-07-31-19-04-35.png)
+
+
 ### build 7 
 
 in these two similar designs, on the DC left side, bottom board uses two [[diode-rectifier-dat]], and use [[mosfet-dat]] on the top board 

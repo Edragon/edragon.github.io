@@ -20,6 +20,9 @@ https://w.electrodragon.com/w/LED_Drive
 - [[led-driver-dat]] - [[display-driver-dat]]
 
 
+- [[led-driver-dat]] - [[PCB-form-dat]]
+
+
 ## chip 
 
 AMC7135 SOT-89 恒流350mA/2.7-6V 大功率LED驱动芯片
@@ -139,7 +142,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[TI-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]]
 
-- [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
+- [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]] - [[LN2516-dat]]
 
 - [[shiningic-dat]] - [[YX8113-dat]] - [[led-driver-dat]]
 
@@ -279,6 +282,8 @@ C07EBA UNH538
 
 ### build 1
 
+- [[OC5215-dat]]
+
 - [[OCX-dat]] - [[led-driver-dat]] - [[OC5021-dat]] - [[PCB-form-dat]]
 
 ![](2026-06-17-15-08-23.png)
@@ -293,6 +298,16 @@ C07EBA UNH538
 - Large Format LCD Backlighting
 - OLED Panel Power Supply
 - Display Backlighting with Indicator Light
+
+
+## apps 
+
+■ 用途
+ 直流或交流输入 LED 驱动器
+ RGB 背光 LED 驱动
+ 电动自行车照明
+ 汽车照明等
+
 
 
 
