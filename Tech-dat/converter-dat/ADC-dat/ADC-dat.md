@@ -197,6 +197,63 @@ wiring 接线图
 
 
 
+
+## build APP 
+
+build 1 
+
+![](2026-08-01-16-04-59.png)
+
+- [[NJU7043-dat]] - [[JRC-dat]] - [[amp-op-dat]]
+
+### Buffer Reference Voltage (RRIO Op-Amp)
+
+#### 1. Circuit Analysis
+
+**A. The Non-Inverting Pin ($+$ Input)**
+
+The two resistors ($R_1 = 22\text{ k}\Omega$, $R_2 = 10\text{ k}\Omega$) form a fixed voltage ladder (voltage divider) between your positive supply voltage ($V_{cc}$) and ground ($0\text{ V}$).
+
+The reference voltage applied to the non-inverting input ($V_+$) is calculated as:
+
+$$V_+ = V_{cc} \times \left( \frac{R_2}{R_1 + R_2} \right) = V_{cc} \times \left( \frac{10\text{ k}}{22\text{ k} + 10\text{ k}} \right) = V_{cc} \times \frac{10}{32} = 0.3125 \times V_{cc}$$
+
+Example: If $V_{cc} = 5\text{ V}$, then $V_+ = 5\text{ V} \times 0.3125 = \mathbf{1.5625\text{ V}}$.
+
+**B. Negative Pin Tied to Output (Negative Feedback)**
+
+Connecting the output directly to the inverting input ($-$ input) creates negative feedback with a gain of 1 ($A_v = 1$).
+
+An ideal op-amp will do whatever it takes to drive its two inputs to the same voltage ($V_- = V_+$).
+
+Since $V_-$ is tied to $V_{out}$, the output voltage simply equals the non-inverting input voltage:
+
+$$V_{out} = V_- = V_+ = 0.3125 \times V_{cc}$$
+
+#### 2. What Does This Circuit Do? (The Role of the Buffer)
+
+If you already have a 22k/10k resistor ladder, why do you need the op-amp at all?
+
+**Impedance Matching / Isolation**
+
+- **Without the Op-Amp:** A simple resistor divider has a high output impedance (roughly $22\text{ k} \parallel 10\text{ k} \approx 6.875\text{ k}\Omega$). If you connect a load (like an ADC pin, a sensor interface, or a low-resistance component) to it, current will flow into the load, changing the voltage divider ratio and causing the reference voltage to drop significantly (loading effect).
+
+- **With the Op-Amp Buffer:** The op-amp’s non-inverting input has extremely high input impedance (Gigaohms), meaning it draws almost zero current from the resistor ladder, keeping the $0.3125 \times V_{cc}$ voltage stable. Meanwhile, the op-amp output has extremely low impedance, allowing it to supply (source or sink) current to a load without the voltage dropping.
+
+#### 3. Why Use a "Rail-to-Rail" Op-Amp Here?
+
+Standard/legacy op-amps (like the LM358 or UA741) cannot swing their output all the way to the supply rails ($V_{cc}$ or Ground), nor can their input stages accept voltages close to the rails without distortion or phase reversal.
+
+**Rail-to-Rail Input/Output (RRIO):**
+
+- Ensures that even if you change the resistor divider ratio to something very close to $0\text{ V}$ or $V_{cc}$, the op-amp can read the input accurately.
+- Allows the output stage to drive the buffered voltage cleanly without running out of headroom or clipping near the ground/supply levels.
+
+#### Summary
+
+This circuit generates a stable, buffered reference voltage equal to roughly $31.25\%$ of your supply voltage ($V_{cc}$). It is commonly used as a mid-supply virtual ground bias, a low-impedance voltage reference for analog-to-digital converters (ADCs), or a clean reference level for single-supply AC signal conditioning.
+
+
 ## ADC SCH 
 
 ADC-16CH 

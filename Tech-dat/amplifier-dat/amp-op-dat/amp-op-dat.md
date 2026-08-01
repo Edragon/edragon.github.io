@@ -20,7 +20,7 @@ MC1458 - MC1458, MC1558 - DUAL GENERAL-PURPOSE OPERATIONAL AMPLIFIERS
 
 ![](2025-11-01-18-49-35.png)
 
-
+- [[NJU7043-dat]] - [[JRC-dat]] - [[amp-op-dat]]
 
 
 

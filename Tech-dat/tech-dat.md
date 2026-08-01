@@ -225,6 +225,8 @@
 
 - [[transmitter-current-dat]]
 
+- [[industrial-dat]] - [[RTU-dat]] - [[MODBUS-dat]] - [[ADC-dat]]
+
 ## media 
 
 - [[amplifier-dat]] - [[codec-dat]] - [[amp-op-dat]] - [[LNA-dat]] - [[amplifier-audio-dat]] - [[amplifier-GNSS-dat]]

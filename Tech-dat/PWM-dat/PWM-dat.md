@@ -78,6 +78,15 @@ Used for
 - MIC38C42/43/44/45 - BiCMOS Current-Mode PWM Controllers - 20V, Current Mode SMPS Controller Family with Various UVLO and Max Duty Cycle - [[microchip-dat]]
 
 
+
+## build APP
+
+build 1 - PWM - GND output socket 
+
+![](2026-08-01-16-15-51.png)
+
+
+
 ## apps 
 
 - [[tuner-dat]]
