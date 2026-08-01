@@ -5,6 +5,10 @@
 
 ## motor driver 
 
+- [[AT8333-dat]] - [[DRV8333-dat]] - [[zhongkewei-dat]]
+
+- [[AT8833-dat]] - [[AT8837-dat]] - [[ATD5833-dat]] - [[zhongkewei-dat]]
+
 AT8549 SSOP-10双通道H桥电机驱动芯片直流有刷电机/步进
 
 AT8548 SSOP-10 双通道H桥电机驱动芯片 直流有刷电机/步

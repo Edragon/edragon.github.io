@@ -18,6 +18,10 @@
 
 - [[conn-power-dat]]
 
+
+- [[ADC-bat-monitor-dat]] - [[voltage-divider-dat]] - [[ADC-dat]]
+
+
 ## info 
 
 
@@ -40,7 +44,7 @@ The most following charger options are for the lithium-ion battery
 
 - [[fast-charge-protocols-dat]]
 
-- 1S common option == [[TP4056-dat]]
+- 1S common option == [[TP4056-dat]] - [[TP4057-dat]]
 
 
 - [[usb-sniffer-dat]]

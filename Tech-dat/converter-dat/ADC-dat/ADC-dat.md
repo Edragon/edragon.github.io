@@ -7,7 +7,7 @@
 normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 
-- [[ADC-bat-monitor-dat]] - [[voltage-divider-dat]]
+- [[ADC-bat-monitor-dat]] - [[voltage-divider-dat]] - [[ADC-dat]]
 
 - not this is chip [[Analog-device-dat]]
 

@@ -31,10 +31,19 @@ FEATURES
 - · Available in a 6-Pin SOT23-6 Package
 
 
+## APP SCH 
 
+build 1 
+
+![](2026-08-01-16-23-26.png)
 
 ## SCH 
 
 ![](2025-07-13-01-08-46.png)
 
 - [[SY6280-dat]] - [[silergy-dat]]
+
+
+
+
+## ref 

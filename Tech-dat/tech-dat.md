@@ -78,6 +78,9 @@
 
 - [[power-adapter-dat]]
 
+- [[power-distribution-dat]]
+
+
 ### Code and SDK 
 
 - [[arduino-ide-dat]] - [[platform.io-dat]]
@@ -143,7 +146,7 @@
 
 - [[interactive-dat]]
 
-- [[LED-dat]] - [[LED-strip-dat]] - [[led-driver-dat]] - [[led-panel-dat]] - [[led-types-dat]] - [[light-dat]]
+- [[LED-dat]] - [[LED-strip-dat]] - [[led-driver-dat]] - [[led-panel-dat]] - [[led-types-dat]] - [[light-dat]] - [[WS2812-dat]]
 
 - [[display-dat]] - [[TFT-dat]] - [[nokia-5110-dat]] - [[LCD-dat]] - [[epaper-dat]]
 
@@ -219,7 +222,7 @@
 - [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
 
 
-- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]]
+- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] 
 
 - [[filter-dat]]
 

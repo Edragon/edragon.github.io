@@ -70,6 +70,14 @@ working table
 ![](2026-04-28-06-34-16.png)
 
 
+## APP SCH 
+
+build 1 
+
+![](2026-08-01-16-26-34.png)
+
+
+
 ## ref 
 
 - [[power-dat]]

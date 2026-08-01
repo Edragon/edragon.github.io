@@ -141,7 +141,9 @@
 
 - [[ULN2003-dat]] - [[L9110-dat]] - [[LV8729-dat]] - [[LV8731-dat]] - [[UWM-dat]] - [[SS8870-dat]] - [[SS6216-dat]] - [[L6201-dat]] - [[SS6951-dat]]
 
-- [[AT8236-dat]] - [[TC118S-dat]] - [[EMC2301-dat]] - [[AT8549-dat]] - [[AT8833-dat]] - [[ATD5984-dat]] - [[AT8548-dat]] - [[AT8870-dat]] - [[AT8222-dat]] - [[AT8833-dat]] - [[AT8837-dat]] - [[ATD5833-dat]]
+- [[AT8236-dat]] - [[TC118S-dat]] - [[EMC2301-dat]] - [[AT8549-dat]] - [[ATD5984-dat]] - [[AT8548-dat]] - [[AT8870-dat]] - [[AT8222-dat]] 
+  
+- [[AT8833-dat]] - [[AT8837-dat]] - [[ATD5833-dat]] - [[zhongkewei-dat]]
 
 - [[MX1508-dat]]
 

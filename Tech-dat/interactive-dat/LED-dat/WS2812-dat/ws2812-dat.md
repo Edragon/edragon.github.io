@@ -72,6 +72,12 @@ LED has a low voltage driving, high energy saving and environmental protection, 
 - VSS  Ground 
 - DIN Data In 
 
+## build SCH APP 
+
+build 1 
+
+![](2026-08-01-16-22-16.png)
+
 
 ## SCH 
 

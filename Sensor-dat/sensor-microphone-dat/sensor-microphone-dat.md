@@ -12,7 +12,6 @@
 
 
 
-- [[interface-dat]] - [[I2S-dat]] - [[PDM-dat]] - [[sensor-microphone-dat]]
 
 
 
@@ -23,6 +22,10 @@
 
 - [[sensor-microphone-dat]] - [[motor-driver-dat]] - [[LM358-dat]]
 
+
+## tech 
+
+- [[interface-dat]] - [[I2S-dat]] - [[PDM-dat]] - [[sensor-microphone-dat]]
 
 
 ## boards 
