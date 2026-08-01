@@ -156,6 +156,11 @@ ESP32 has **520 KB SRAM** split into multiple regions:
 - [[ESP32-ISO-dat]]
 
 
+## APP SCH 
+
+build 1 
+
+![](2026-08-01-16-38-25.png)
 
 ## ref
 

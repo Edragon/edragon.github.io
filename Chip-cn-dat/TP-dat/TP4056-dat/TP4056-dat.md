@@ -66,6 +66,15 @@ cacultation:
 
 ## build 
 
+build 3 SCH 
+
+![](2026-08-01-16-36-44.png)
+
+- CHG_STAT == to [[ESP32-dat]]
+- STBY_STAT == to [[ESP32-dat]]
+
+
+
 build 2 
 
 ![](2026-07-31-19-18-27.png)

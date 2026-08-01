@@ -72,6 +72,18 @@ working table
 
 ## APP SCH 
 
+
+build 2 - [[dcdc-boost-down-dat]] + [[power-distribution-dat]] + [[battery-charger-dat]] + [[ADC-bat-monitor-dat]] + [[ESP32-HDK-dat]] + [[LED-dat]]
+
+![](2026-08-01-16-35-49.png)
+
+- [[ADC-bat-monitor-dat]]
+
+![](2026-08-01-16-36-03.png)
+
+- [[battery-charger-dat]] - [[TP4056-dat]]
+
+
 build 1 
 
 ![](2026-08-01-16-26-34.png)

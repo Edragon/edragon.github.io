@@ -4,7 +4,7 @@
 # dcdc-boost-down-dat
 
 
-- [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[power-dat]] - [[constant-current-dat]] - [[CV&CC-dat]] - [[dcdc-dat]]
+- [[charge-pump-dat]] - [[dcdc-boost-down-dat]] - [[power-dat]] - [[constant-current-dat]] - [[CV&CC-dat]] - [[dcdc-dat]] 
 
 - [[TI-power-dcdc-boost-down-dat]] - [[TI-power-dat]] - [[TI-dat]]
 
