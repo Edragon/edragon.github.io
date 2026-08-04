@@ -37,7 +37,10 @@
 
 ## types 
 
-[[rc-boat-types-dat]]
+- [[rc-boat-types-dat]]
+
+
+
 
 
 ## Wave Deflector / Wave Breaker Plate (压浪板)
