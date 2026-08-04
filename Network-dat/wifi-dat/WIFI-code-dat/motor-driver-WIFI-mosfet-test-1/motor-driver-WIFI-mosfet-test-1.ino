@@ -34,10 +34,15 @@ WebServer server(80);
 #define M2_IN2   15
 
 // ==================== PWM Parameters ====================
-#define PWM_FREQ     5000        // 5 kHz
+#define PWM_FREQ     1000        // 1 kHz (Better for 380 DC motors & reduces MOSFET switching heat)
 #define PWM_RES      8           // 8-bit (0-255)
 // New ESP32 Core 3.x+ API: ledcAttach(pin, freq, res) + ledcWrite(pin, duty)
 // No channel numbers needed — use pins directly.
+
+// ==================== Startup Power / Deadband Compensation ====================
+// Adjust starting thresholds to address motor differences (M1 starts up slower than M2)
+#define M1_START_OFFSET  40        // Minimum PWM for Motor 1 (increased startup power)
+#define M2_START_OFFSET  25        // Minimum PWM for Motor 2 (standard startup power)
 
 // ==================== Dead-Time Protection ====================
 // Prevents shoot-through (both MOSFETs on same bridge leg conducting)
@@ -69,15 +74,20 @@ void motorWrite(int in1Pin, int in2Pin, int speed,
   *prevDir = newDir;
   *storeSpeed = speed;
 
+  int compensatedSpeed = 0;
   if (speed > 0) {
-    ledcWrite(in1Pin, speed);   // IN1 = PWM
-    ledcWrite(in2Pin, 0);       // IN2 = LOW
+    int offset = (in1Pin == M1_IN1) ? M1_START_OFFSET : M2_START_OFFSET;
+    compensatedSpeed = map(speed, 1, 255, offset, 255);
+    ledcWrite(in1Pin, compensatedSpeed);   // IN1 = PWM with startup boost
+    ledcWrite(in2Pin, 0);                  // IN2 = LOW
   } else if (speed < 0) {
-    ledcWrite(in1Pin, 0);       // IN1 = LOW
-    ledcWrite(in2Pin, -speed);  // IN2 = PWM
+    int offset = (in1Pin == M1_IN1) ? M1_START_OFFSET : M2_START_OFFSET;
+    compensatedSpeed = map(-speed, 1, 255, offset, 255);
+    ledcWrite(in1Pin, 0);                  // IN1 = LOW
+    ledcWrite(in2Pin, compensatedSpeed);   // IN2 = PWM with startup boost
   } else {
-    ledcWrite(in1Pin, 0);       // IN1 = LOW (coast)
-    ledcWrite(in2Pin, 0);       // IN2 = LOW
+    ledcWrite(in1Pin, 0);                  // IN1 = LOW (coast)
+    ledcWrite(in2Pin, 0);                  // IN2 = LOW
   }
 }
 
