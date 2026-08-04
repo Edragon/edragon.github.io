@@ -79,6 +79,20 @@ Used for
 
 
 
+## speed control - 1. PWM Speed Control (Pulse-Width Modulation — The Most Common and Most Efficient Method)
+
+
+
+This is currently the most widespread approach in electronic control and industrial automation.
+
+* **Principle:** Does not change the power supply voltage. Instead, it rapidly switches the supply ON and OFF at a very high frequency (e.g., 10kHz–20kHz). By adjusting the proportion of time the supply is ON within each cycle (i.e., the **duty cycle**), it changes the equivalent average voltage across the motor.
+  * 100% duty cycle $\rightarrow$ motor runs at full speed.
+  * 50% duty cycle $\rightarrow$ motor runs at roughly half speed.
+* **Advantages:** Low heat generation, extremely high energy efficiency, good control precision, and very easy to interface with microcontrollers (e.g., MCUs, Arduino).
+
+
+
+
 ## build APP
 
 build 1 - PWM - GND output socket 

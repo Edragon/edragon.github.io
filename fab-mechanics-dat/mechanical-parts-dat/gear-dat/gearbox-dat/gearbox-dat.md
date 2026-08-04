@@ -8,6 +8,44 @@
 
 - [[gear-dat]] - [[gearbox-dat]]
 
+- [[gearbox-RV-dat]] - [[gearbox-planetary-dat]]
+
+- [[motor-dat]] - [[motor-driver-dat]]
+
+
+## gearbox speed control 
+
+### 1. Continuously Variable Gearbox (CVT / Friction-Type CVT)
+
+* **Features:** Can adjust speed continuously and smoothly over a range, with no fixed gears/steps.
+
+* **Common Types:** Mechanical friction-type CVTs (e.g., MB-series CVTs), steel-belt / belt-driven CVTs.
+
+* **How It Works:** Changes the gear ratio by varying the contact radius between the input and output friction wheels (or cone pulleys). Turning the speed-adjustment handwheel provides seamless, stepless transition from maximum to minimum speed.
+
+* **Typical Applications:** Conveyor lines, mixing equipment, packaging machinery — applications that need precise fine-tuning of speed.
+
+### 2. Stepped (Multi-Speed) Gearbox
+
+* **Features:** Similar to a manual transmission in a car — a fixed set of gears (e.g., 2-speed, 4-speed, 6-speed, etc.) that changes the reduction ratio by switching gear combinations.
+
+* **How It Works:** Contains multiple gear sets with different tooth ratios. A shift fork or synchronizer switches which gear set is engaged.
+
+* **Typical Applications:** Spindle heads of heavy-duty lathes, construction machinery, large hoists — equipment that needs high torque and only switches between a few specific speeds.
+
+### 3. Motor + Fixed-Ratio Gearbox (The Modern Mainstream Approach: Electrical Speed Control)
+
+- [[motor-dat]] + [[gearbox-dat]]
+
+In modern industry, purely mechanical "adjustable gearboxes" are less common due to mechanical wear and complex structures. The most widely used alternative is actually a **variable-frequency motor / servo motor + fixed-ratio gearbox**:
+
+* **How It Works:** A fixed-ratio gearbox (e.g., planetary or RV gearbox) provides the fixed-ratio speed reduction and torque increase, while the speed adjustment is handled by a front-end VFD (variable-frequency drive) or servo drive that controls the motor's frequency.
+
+* **Advantages:** Extremely wide speed range, very high precision, simple structure, and almost no friction losses.
+
+* **Typical Applications:** Industrial robots, CNC machine tools, automated production lines, etc.
+
+
 
 
 ## type of gearbox 

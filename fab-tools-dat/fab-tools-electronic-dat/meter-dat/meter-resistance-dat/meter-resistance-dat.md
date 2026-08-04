@@ -7,7 +7,7 @@
 
 - [[meter-internal-resistance-dat]] - [[meter-resistance-dat]] - [[meter-dat]] 
 
-
+- [[resistance-dat]] - [[physics-dat]] - [[impedance-dat]]
 
 ## SCH 
 

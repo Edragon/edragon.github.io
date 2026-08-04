@@ -180,7 +180,7 @@
 
 - [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[camera-FPV-dat]]
 
-- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]] - [[motor-reduction-gear-dat]]
+- [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]] - [[motor-reduction-gear-dat]] - [[gearbox-dat]]
 
 - [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
 

@@ -2,6 +2,12 @@
 
 # physics-dat
 
+
+- [[impdedance-dat]] - [[resistance-dat]] - [[physics-dat]] - [[inductance-dat]]
+
+
+
+
 - [[force-dat]] - [[size-dat]]
 
 - [[duct-dat]] - [[thrust-dat]] 

@@ -414,6 +414,14 @@ You then only need 2 PWM pins from your microcontroller connected to L_PWM and R
 
 
 
+## motor speed control 
+
+- [[PWM-dat]]
+
+- [[voltage-dat]]
+
+- [[PID-dat]] - [[FOC-dat]] - [[SDK-dat]]
+
 ## build 
 
 ### mosfet driver 
