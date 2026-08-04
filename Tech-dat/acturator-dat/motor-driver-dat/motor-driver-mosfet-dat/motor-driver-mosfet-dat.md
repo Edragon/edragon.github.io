@@ -6,6 +6,13 @@
 
 - [[ESP32-dat]]
 
+- [[WIFI-dat]] - [[ELRS-dat]]
+
+
+
+- [[WIFI-dat]] - [[ELRS-dat]] - [[WIFI-code-dat]] - [[ELRS-dat]]
+
+
 ### Smart MCU Safety Firewall Architecture
 
 Introducing a microcontroller unit (MCU)—such as an **Arduino Nano, ESP32-S3, RP2040, or STM32**—is an excellent way to use your existing MOSFET driver board without any risk of burning it. 

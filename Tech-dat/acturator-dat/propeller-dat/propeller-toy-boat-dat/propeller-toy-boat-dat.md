@@ -2,6 +2,9 @@
 
 # propeller-toy-boat-dat
 
+
+- [[rc-boat-motion-dat]] 
+
 - [[propeller-toy-boat-dat]] - [[propeller-dat]] - [[rc-boat-dat]] - [[acturator-dat]] 
 
 - [[propeller]]

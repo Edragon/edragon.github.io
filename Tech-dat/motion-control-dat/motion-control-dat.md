@@ -1,7 +1,7 @@
 
-# motion-control-system-dat
+# motion-control-dat
 
-
+- [[differential-steering-dat]] - [[differential-steering-boat-dat]] - [[motion-control-dat]]
 
 ## motor RC type 
 
