@@ -35,6 +35,14 @@
 - [[rc-boat-motion-dat]] - [[gravity-dat]]- [[physics-dat]]
 
 
+## target
+
+- Lakes
+- reservoirs
+- calm inland rivers
+- coast.
+
+
 ## types 
 
 - [[rc-boat-types-dat]]
