@@ -49,6 +49,12 @@
 - [[PCB-design-dat]] - [[power-dat]] 
 
 
+## design 
+
+- [[NS4150-dat]] - [[bead-dat]]
+
+- [[design-VDDA-dat]] - [[design-audio-dat]] - [[PCB-dat]]
+
 
 
 ## special  

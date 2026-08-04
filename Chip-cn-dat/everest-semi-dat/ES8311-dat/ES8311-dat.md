@@ -1,7 +1,7 @@
 
 # ES8311-dat
 
-- [[oscilloscope-dat]] - [[ES8311-dat]]
+- [[oscilloscope-dat]] - [[ES8311-dat]] - [[design-audio-dat]]
 
 
 - [[W800-dat]] - [[ES8311-dat]] - [[codec-audio-dat]]

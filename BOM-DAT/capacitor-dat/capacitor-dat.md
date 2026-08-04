@@ -7,7 +7,7 @@
 - [[circuits-dat]] - [[PCB-design-dat]] - [[resistor-dat]] - [[capacitor-dat]] - [[RCL-dat]]
 
 
-
+- [[capacitor-decoupling-dat]] - [[capacitor-ac-coupling-dat]]
 
 - [[capacitor-dat]] - 100UF / 450V - [[power-adapter-dat]]
 

@@ -6,6 +6,8 @@
 
 - datasheet == [[NS4150.pdf]]
 
+- [[NS4150-dat]] - [[bead-dat]]
+
 
 http://inder.cn/WJXZ/nsiway/InderNS4150EN.PDF
 
