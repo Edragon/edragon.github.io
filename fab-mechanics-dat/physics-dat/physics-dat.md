@@ -5,7 +5,7 @@
 
 - [[impdedance-dat]] - [[resistance-dat]] - [[physics-dat]] - [[inductance-dat]]
 
-
+- [[gravity-dat]]- [[physics-dat]]
 
 
 - [[force-dat]] - [[size-dat]]
@@ -18,7 +18,7 @@
 
 - [[torque-dat]] - [[RPM-dat]]
 
-- [[gravity-dat]]- [[physics-dat]]
+
 
 
 ## research 

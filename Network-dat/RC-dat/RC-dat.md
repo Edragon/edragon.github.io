@@ -57,6 +57,8 @@ A **UGV** (Unmanned Ground Vehicle) is a robotic system that operates on land wi
 
 - [[battery-dat]] - [[battery-charger-dat]] 
 
+- [[physics-dat]] - [[gravity-dat]]
+
 
 
 ## tech 

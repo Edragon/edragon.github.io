@@ -6,6 +6,10 @@
 
 - [[TB6612-dat]]
 
+`TA7357P` - The TA7357P is an obsolete Toshiba integrated circuit used as a video sync separator, commonly found in professional broadcast equipment like Sony Betacam SP video tape recorders.
+
+
+
 
 TLP5214 == Photocouplers GaAℓAs Infrared LED & Photo IC
 

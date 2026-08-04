@@ -1,7 +1,8 @@
 
 # PS2-console-dat
 
-- [[NWL1093-dat]] - [[NWL1097-dat]] - [[PS2-console-dat]]
+
+- [[NWL1093-dat]] - [[NWL1097-dat]] - [[PS2-console-dat]] - [[console-dat]]
 
 
 ## Pin Definitions 

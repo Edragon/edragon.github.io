@@ -50,6 +50,11 @@
 - [[SINH-dat]] - [[SS8819-dat]] - [[IP6826-dat]] - [[MCU-dat]] 
 
 
+- [[BAT32G135-dat]] - [[MCU-dat]] - [[cmsemicon-dat]]
+
+
+
+
 ## other types 
 
 - [[FPGA-dat]] - [[CPLD-dat]] - [[DSP-dat]] - [[ARM-dat]] - [[RISC-V-dat]]
