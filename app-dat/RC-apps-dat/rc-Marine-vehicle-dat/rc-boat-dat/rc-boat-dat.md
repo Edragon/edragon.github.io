@@ -208,3 +208,5 @@ roughly cover the [[propeller-dat]] and use type lock it
 - [[rc-apps]] - [[rc-boat]]
 
 - [[waterproof-container-dat]]
+
+- [[projects]]
