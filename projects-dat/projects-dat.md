@@ -13,6 +13,10 @@
 
 - [[machine-project-list-dat]] - [[machine-dat]]
 
+- [[rc-projects-list-dat]] - [[rc-dat]]
+
+- [[rc-rover-project-list-dat]]
+
 fun / learnable / popular projects, sort by date 
 
 - esp-drone - https://github.com/Circuit-Digest/ESP-Drone

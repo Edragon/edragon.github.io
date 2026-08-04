@@ -32,7 +32,12 @@
 
 ![](2025-12-06-14-07-33.png)
 
-- [[rc-boat-motion-dat]]
+- [[rc-boat-motion-dat]] - [[gravity-dat]]- [[physics-dat]]
+
+
+## types 
+
+[[rc-boat-types-dat]]
 
 
 ## Wave Deflector / Wave Breaker Plate (压浪板)

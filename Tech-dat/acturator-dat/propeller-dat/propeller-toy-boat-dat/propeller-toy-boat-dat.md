@@ -41,7 +41,9 @@
 | 47mm     | 4.0mm     | 正桨/铜套转换 |              |
 
 
+## protection 
 
+![](2026-08-04-19-14-09.png)
 
 ## Can you mount a propeller backwards?
 

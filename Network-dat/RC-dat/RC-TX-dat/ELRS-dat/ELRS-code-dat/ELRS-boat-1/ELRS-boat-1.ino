@@ -44,9 +44,9 @@ AlfredoCRSF crsf;
 // No channel numbers needed — use pins directly.
 
 // ==================== Startup Power / Deadband Compensation ====================
-// Adjust starting thresholds to address motor differences (M1 starts up slower than M2)
-#define M1_START_OFFSET  15        // Minimum PWM for Motor 1 (increased startup power)
-#define M2_START_OFFSET  0         // Minimum PWM for Motor 2 (standard startup power)
+// Adjust starting thresholds so both motors sustain ultra-low speed crawl without stalling
+#define M1_START_OFFSET  10        // Minimum PWM for Motor 1 to sustain low-speed spin
+#define M2_START_OFFSET  5        // Minimum PWM for Motor 2 (slightly higher to overcome stiction/friction)
 
 // ==================== Software Kickstart Parameters ====================
 #define KICKSTART_PULSE       100  // High pulse value (0-255) to overcome static stiction
@@ -168,8 +168,11 @@ void updateMotorsFromRC() {
     maxLimit = 150;    // Medium speed (~1500)
   }
 
-  // Speed magnitude: 1000-2000 → 0-maxLimit
-  int speedMag = map(thr, 1000, 2000, 0, maxLimit);
+  // Speed magnitude with a small deadband at low stick positions (e.g. 1000-1030) to prevent jitter creep
+  int speedMag = 0;
+  if (thr > 1030) {
+    speedMag = map(thr, 1030, 2000, 0, maxLimit);
+  }
 
   // Direction from CH6 (with 100-wide deadband around 1500)
   int direction = 0;
