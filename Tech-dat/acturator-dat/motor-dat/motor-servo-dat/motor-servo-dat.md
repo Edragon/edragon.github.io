@@ -7,7 +7,6 @@
 - [[PWM-dat]] - [[PPM-dat]]
 
 
-- [[servo-connector-dat]] - [[servo-horn-dat]]
 
 - [[servo-HDK-dat]] - [[servo-SDK-dat]]
 
@@ -21,6 +20,16 @@
 
 
 
+## accessories 
+
+- [[servo-connector-dat]] - [[servo-horn-dat]]
+
+- [[servo-pushrod-dat]] - [[hinge-dat]] - [[motor-servo-dat]]
+
+
+pushrod rubber bellows
+
+![](2026-08-05-21-16-29.png)
 
 ## tech 
 
