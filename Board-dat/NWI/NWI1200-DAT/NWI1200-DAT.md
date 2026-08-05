@@ -1,4 +1,4 @@
-# NWI1200 DAT
+# NWI1200-DAT
 
 To the board version V1 - [[NWI1199-DAT]]
 

@@ -38,7 +38,10 @@ fun / learnable / popular projects, sort by date
 
 https://www.esclabs.in/how-to-make-a-cheap-esp32-drone-under-15/
 
+https://www.instructables.com/Build-the-Smallest-ESP32-Drone-You-Can-Fly-With-Yo/
+https://github.com/Seeed-Projects/Co-Create_ESP-FLY
 
+- esp-dive - https://www.instructables.com/ESP-DIVE-Build-an-ESP32-RC-Submarine-With-FPV-Came/
 
 
 

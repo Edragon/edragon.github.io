@@ -10,6 +10,10 @@
 
 - [[wheel-hub-dat]] - [[wheel-dat]] - [[bearing-dat]]
 
+
+- [[wheel-dat]] - [[chain-dat]] - [[sprocket-dat]]
+
+
 97 dia mm 
 
 ![](2025-06-15-19-29-11.png)
