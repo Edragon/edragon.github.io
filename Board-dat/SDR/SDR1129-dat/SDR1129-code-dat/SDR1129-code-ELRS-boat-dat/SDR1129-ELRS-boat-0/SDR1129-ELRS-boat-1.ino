@@ -186,10 +186,8 @@ void updateMotorsFromRC() {
   // Steering: 1000-2000 → -maxLimit..maxLimit (center = straight)
   int steering = map(yaw, 1000, 2000, -maxLimit, maxLimit);
 
-  // Differential mixing (perfectly aligned with motor rotation rules:
-  // Forward: CW + CCW | Reverse: CCW + CW | Clockwise Pivot: CW + CW | Counter-Clockwise Pivot: CCW + CCW)
-  // M1 (left motor):  baseSpeed + steering
-  // M2 (right motor): -baseSpeed + steering
+  // Differential mixing — motor rotation per spec:
+
   int m1 = constrain(baseSpeed + steering, -maxLimit, maxLimit);
   int m2 = constrain(-baseSpeed + steering, -maxLimit, maxLimit);
 

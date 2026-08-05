@@ -1,12 +1,14 @@
 
 # motion-control-dat
 
+
+
 - [[differential-steering-dat]] - [[motion-control-dat]]
 
 - [[UAV-dat]] - [[UGV-dat]] - [[USV-dat]]
 
 
-- [[differential-steering-boat-dat]] 
+- [[differential-steering-boat-dat]] - [[rc-boat-motion-dat]]
 
 ## motor RC type 
 
