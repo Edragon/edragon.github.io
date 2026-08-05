@@ -58,7 +58,7 @@
 
 ## tech 
 
-- [[telemetry-dat]] - [[RC-dat]] - [[radio-dat]]
+- [[telemetry-dat]] - [[RC-dat]] - [[radio-dat]] - [[motor-brushless-dat]]
 
 
 

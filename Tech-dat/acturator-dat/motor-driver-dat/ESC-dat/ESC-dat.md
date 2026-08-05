@@ -19,6 +19,17 @@
 
 
 
+## ESC build 
+
+![](2026-08-05-20-59-10.png)
+
+- [[PWM-dat]] - [[motor-brushless-dat]] - [[battery-3s-dat]]
+
+
+
+
+## info 
+
 - **Brushed ESC**: Operates using an H-Bridge configuration. It outputs standard 2-wire DC power, adjusting speed simply by turning the DC voltage on and off rapidly via Pulse Width Modulation (PWM).  
 - **Brushless ESC**: Operates using a 3-phase inverter circuit. It outputs 3-wire AC power (three-phase), sequentially switching the coils based on back-EMF or sensor feedback to rotate the magnets. 
 

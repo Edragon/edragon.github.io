@@ -30,6 +30,9 @@
 
 - [[mobula8-dat]] - [[mobula7-dat]] - [[mobula6-dat]] - [[FPV-dat]] - [[motor-brushless-dat]]
 
+
+
+
 ## board 
 
 - [[SDR1106-dat]]
@@ -37,7 +40,10 @@
 
 ## specs 
 
-- [[EX1103-dat]] 
+- [[EX1103-dat]] - [[A2212-dat]] - [[motor-FPV-dat]] - [[motor-brushless-dat]] - [[ESC-dat]]
+
+
+
 
 ## The Breakdown: 9N12P
 
