@@ -21,6 +21,11 @@ $$RPM = \frac{Speed (km/h) \times 16.67}{Tire Circumference (meters)}$$
 
 
 
+
+## build 
+
+![](2026-08-05-15-00-44.png)
+
 ## tech 
 
 - [[motor-brushless-dat]] - [[motor-dat]]
@@ -32,3 +37,5 @@ $$RPM = \frac{Speed (km/h) \times 16.67}{Tire Circumference (meters)}$$
 
 
 - [[electric-scooter]]
+
+- [[projects]]

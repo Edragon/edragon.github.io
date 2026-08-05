@@ -9,9 +9,21 @@
 - [[projects-dat]] - [[github-projects-dat]] - [[bilibili-projects-dat]] - [[youtube-projects-dat]] 
 
 
+## robotic 
+
 - [[robotic-project-list-dat]] - [[projects-dat]]
 
+## machine 
+
 - [[machine-project-list-dat]] - [[machine-dat]]
+
+
+
+## RC and UV 
+
+- [[unmanned-vechicle-dat]]
+
+- [[rc-rover-project-list-dat]] - [[rc-rover-project-list]] - [[projects]] - [[projects-dat]]
 
 - [[rc-projects-list-dat]] - [[rc-dat]]
 
@@ -22,6 +34,10 @@ fun / learnable / popular projects, sort by date
 - esp-drone - https://github.com/Circuit-Digest/ESP-Drone
 
 https://www.esclabs.in/how-to-make-a-cheap-esp32-drone-under-15/
+
+
+
+
 
 
 ## chronological Order 
