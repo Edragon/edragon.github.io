@@ -61,6 +61,9 @@ common brand: [[Vishay-dat]]
 
 - [[mosfet-dat]] - [[infineon-dat]] - [[infineon-mosfet-dat]]
 
+- [[LR8256-dat]] - [[mosfet-dat]] - [[IOR-dat]] - [[infineon-dat]] - [[ESC-dat]] - [[infineon-mosfet-dat]]
+
+
 - [[rectron-dat]] - [[rectron-mosfet-dat]] == RM20P30DF == P-Channel Enhancement Mode Power MOSFET 
 
 

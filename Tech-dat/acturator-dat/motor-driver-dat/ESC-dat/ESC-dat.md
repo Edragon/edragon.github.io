@@ -26,6 +26,20 @@
 - [[PWM-dat]] - [[motor-brushless-dat]] - [[battery-3s-dat]]
 
 
+build inside 
+
+![](2026-08-05-21-06-47.png)
+
+- [[atmega8-dat]] - [[AVR-dat]]
+
+- [[LR8256-dat]] - [[mosfet-dat]] - [[IOR-dat]] - [[infineon-dat]] - [[ESC-dat]] - [[infineon-mosfet-dat]]
+
+![](2026-08-05-21-07-24.png)
+
+- [[LDO-dat]] - [[LM7805-dat]]
+
+![](2026-08-05-21-11-25.png)
+
 
 
 ## info 

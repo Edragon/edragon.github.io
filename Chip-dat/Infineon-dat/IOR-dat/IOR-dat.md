@@ -1,6 +1,11 @@
 
 # IOR-dat
 
+
+
+- [[LR8256-dat]] - [[mosfet-dat]] - [[IOR-dat]] - [[infineon-dat]] - [[ESC-dat]] - [[infineon-mosfet-dat]]
+
+
 - [[relay-dat]] - [[IOR-dat]] - [[chip-dat]]
 
 Series PVG612 & PbF
