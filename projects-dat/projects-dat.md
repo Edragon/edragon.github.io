@@ -3,6 +3,8 @@
 # projects-dat.md
 
 
+- [[projects]]
+
 - [[projects-failed-dat]]
 
 
@@ -21,7 +23,8 @@
 
 ## RC and UV 
 
-- [[unmanned-vechicle-dat]]
+- [[RC-dat]] - [[unmanned-vehicle-dat]] - [[manned-vehicle-dat]] 
+
 
 - [[rc-rover-project-list-dat]] - [[rc-rover-project-list]] - [[projects]] - [[projects-dat]]
 

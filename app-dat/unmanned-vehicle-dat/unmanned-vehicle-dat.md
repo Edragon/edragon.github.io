@@ -2,7 +2,7 @@
 
 # unmanned-vehicle-dat
 
-- [[RC-dat]] - [[unmanned-vehicle-dat]] - [[manned-vehicle-dat]] - [[vehicle-dat]]
+- [[RC-dat]] - [[unmanned-vehicle-dat]] - [[manned-vehicle-dat]] 
 
 - [[UAV-dat]] - [[UGV-dat]] - [[USV-dat]] - [[UUV-dat]] 
 

@@ -1,8 +1,7 @@
 
 # RC-dat
 
-- [[RC-dat]] - [[unmanned-vehicle-dat]] - [[manned-vehicle-dat]] - [[vehicle-dat]]
-
+- [[RC-dat]] - [[unmanned-vehicle-dat]] - [[manned-vehicle-dat]] 
 
 
 - [[rc-projects-list-dat]] - [[rc-dat]]
