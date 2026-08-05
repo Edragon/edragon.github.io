@@ -17,6 +17,23 @@
 - [[mobula6-dat]] - [[mobula7-dat]]
 
 
+## tech 
+
+- [[battery-2s-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-dat]] - [[VTX-dat]]
+
+- [[FPV-whoop-dat]]
+
+- [[drone-maker-dat]]
+
+- [[FPV-2.0in-dat]] == 85 mm - [[mobula8-dat]]
+
+- [[FPV-purpose-dat]] - [[FPV-types-dat]] - [[FPV-load-dat]] - [[indoor-fly-dat]] - [[thrust-dat]]
+
+
+
+
+
+
 ## pre-note 
 
 REMOVE PROPS before first flight !! 

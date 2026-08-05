@@ -1,6 +1,11 @@
 
 # FPV-purpose-dat
 
+
+
+- [[FPV-purpose-dat]] - [[FPV-types-dat]]
+
+
 ## Better Cinewhoop Options Than Mobula8
 
 If your goal is **cinematic FPV footage**, there are stronger options than the Mobula8.  
@@ -14,15 +19,15 @@ Key things to look for in a cinewhoop:
 
 ### Comparison: Mobula8 vs Alternatives
 
-| Model / Frame           | Size         | Battery       | Payload Ability | Notes |
-|--------------------------|-------------|---------------|-----------------|-------|
-| [[Mobula8-dat]]             | 85 mm, 2S   | 450–650 mAh   | Insta360 GO / Peanut | Best of Mobula line, but limited thrust for heavy cams. |
-| **Flylens 85**          | 85 mm, 2"   | 2S–3S         | Light HD cam    | Cinewhoop-focused frame with ducts. |
-| **Petrel85 Whoop**      | 85 mm, 2"   | 2S–3S         | Light HD cam    | Strong, good for micro cine builds. |
-| **SpeedyBee Flex25**    | 2.5 inch    | 3S–4S         | Naked GoPro     | Compact but powerful, indoor + outdoor cinewhoop. |
-| **TransTEC Beetle 2.5"**| 2.5 inch    | 3S–4S         | Naked GoPro     | Supports DJI digital system. |
-| **GEPRC CL35 V2**       | 3.5 inch    | 4S–6S         | Full GoPro      | Heavier, great outdoors, stable footage. |
-| **iFlight Green Hornet**| 3 inch      | 4S–6S         | Naked/Full GoPro| Classic cinewhoop, strong ducts, proven design. |
+| Model / Frame            | Size      | Battery     | Payload Ability      | Notes                                                   |
+| ------------------------ | --------- | ----------- | -------------------- | ------------------------------------------------------- |
+| [[Mobula8-dat]]          | 85 mm, 2S | 450–650 mAh | Insta360 GO / Peanut | Best of Mobula line, but limited thrust for heavy cams. |
+| **Flylens 85**           | 85 mm, 2" | 2S–3S       | Light HD cam         | Cinewhoop-focused frame with ducts.                     |
+| **Petrel85 Whoop**       | 85 mm, 2" | 2S–3S       | Light HD cam         | Strong, good for micro cine builds.                     |
+| **SpeedyBee Flex25**     | 2.5 inch  | 3S–4S       | Naked GoPro          | Compact but powerful, indoor + outdoor cinewhoop.       |
+| **TransTEC Beetle 2.5"** | 2.5 inch  | 3S–4S       | Naked GoPro          | Supports DJI digital system.                            |
+| **GEPRC CL35 V2**        | 3.5 inch  | 4S–6S       | Full GoPro           | Heavier, great outdoors, stable footage.                |
+| **iFlight Green Hornet** | 3 inch    | 4S–6S       | Naked/Full GoPro     | Classic cinewhoop, strong ducts, proven design.         |
 
 
 

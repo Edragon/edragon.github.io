@@ -1,9 +1,52 @@
 
 # Thrust-dat
 
+## calculate 2 for mobula8 
+
+- [[mobula8-dat]] - [[EX1103-dat]] - [[FPV-load-dat]] - [[Thrust-dat]]
 
 
-## calculate 
+
+### EX1103 11000KV Motor Performance (2-Inch Props @ 7.4V / 2S)
+
+| Throttle Level | Current (A) | Single Motor Thrust | Efficiency (g/W) |
+| :--- | :--- | :--- | :--- |
+| **~25%** | 1.07 A | **23.0 g** | 2.91 g/W |
+| **~50%** | 4.05 A | **68.6 g** | 2.29 g/W |
+| **~75%** | 7.23 A | **106.5 g** | 1.99 g/W |
+| **100% (Peak)** | 9.20 A | **121.9 g** | 1.79 g/W |
+
+---
+
+### Total Thrust & Ratio Breakdown for Your Build
+
+* **Single Motor Max Thrust:** 121.9 g
+* **Total Max Thrust (4 Motors):** 121.9 g × 4 = **487.6 g**
+* **Your All-Up Weight (AUW):** 50g dry + 26g (2S 450mAh battery) = **76 g**
+* **Thrust-to-Weight Ratio:** 487.6 g / 76 g ≈ **6.4 : 1**
+* **Hover Throttle:** ~20% – 25%
+
+### Thrust-to-Weight Ratio on Your Build
+
+**Total Peak Thrust (4 Motors):**
+$$121.9\text{ g} \times 4 \approx \mathbf{488\text{ g}}$$
+
+**Your Quad's All-Up Weight (AUW):**
+$$50\text{ g dry} + 26\text{ g (2S 450mAh battery)} \approx \mathbf{76\text{ g}}$$
+
+**Thrust-to-Weight Ratio:**
+$$\frac{488\text{ g}}{76\text{ g}} \approx \mathbf{6.4 : 1}$$
+
+### What This Means for Flying
+
+**Hover Point:** Your drone will hover around 20–25% throttle (needing only ~76g of combined thrust, or ~19g per motor).
+
+**Performance:** A 6.4:1 ratio is well above the minimum required for acrobatic flight (usually 4:1+). You will still have strong punch-outs and plenty of thrust headroom for recovering from power loops, dives, or high-speed maneuvers despite the extra weight.
+
+
+
+
+## calculate 1
 
 A bit of math:
 

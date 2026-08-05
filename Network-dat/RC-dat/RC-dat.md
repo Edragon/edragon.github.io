@@ -12,7 +12,7 @@
 
 - [[Gyroscope-Mechanical-dat]] - [[engineering-dat]] - [[rc-bike-dat]] - [[rc-dat]]
 
-- [[FPV-dat]] - [[RC-dat]]
+- [[FPV-dat]] - [[RC-dat]] - [[mobula8-dat]]
 
 
 - [[frequency-rc-dat]] - [[RF-dat]] - [[RF-2.4ghz-dat]]
