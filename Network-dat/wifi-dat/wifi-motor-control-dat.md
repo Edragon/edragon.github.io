@@ -2,7 +2,7 @@
 
 # wifi-motor-control-dat.md
 
-- [[PWM-motor-control-dat]]
+- [[PWM-motor-control-dat]] - [[motor-driver-dat]] - [[wifi-motor-control-dat]] - [[code-dat]]
 
 https://github.com/lacour-vincent/wifi-car-esp8266 - 92 
 

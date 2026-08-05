@@ -4,7 +4,7 @@
 
 
 
-
+- [[SDR1125-code-dat]]
 
 
 ## tech 
@@ -111,6 +111,12 @@ control [[RC-dat]] setup
   #define RGB_PIN 48
   #define NUMPIXELS 1
   Adafruit_NeoPixel pixels(NUMPIXELS, RGB_PIN, NEO_GRB + NEO_KHZ800);
+
+
+## code 
+
+- [[PWM-motor-control-dat]] - [[motor-driver-dat]] - [[wifi-motor-control-dat]] - [[code-dat]]
+
 
 
 ## test 
