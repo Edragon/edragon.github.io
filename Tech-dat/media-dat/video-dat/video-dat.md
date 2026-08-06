@@ -2,6 +2,10 @@
 # video-dat
 
 
+- [[RGB565-dat]] RGB565 gradation
+
+- [[game-dat]] - [[Arduboy-dat]] - [[ESPboy-dat]]
+
 - [[audio-dat]] - [[image-dat]] - [[video-dat]] - [[media-dat]] - [[codec-dat]]
 
 

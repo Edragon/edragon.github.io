@@ -5,5 +5,6 @@
 
 - [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]]
 
+- [[video-dat]] - [[NTSC-dat]] - [[PAL-dat]] - [[DAC-dat]]
 
 ## ref 

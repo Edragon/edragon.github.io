@@ -1,6 +1,7 @@
 
 # DAC-dat
 
+- R-2R DAC mode? == [[DAC-ladder-R-2R-dat]]
 
 - [[amplifier-audio-dat]]
 
