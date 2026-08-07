@@ -116,4 +116,7 @@ Curiosity’s chassis is optimized for:
 
 ## ref 
 
+- [[curiosity-rover]] - [[rc-rover]]
+
+
 - [[rover-dat]] - [[rc-apps-dat]]

@@ -1,7 +1,7 @@
 
 # suspension-dat
 
-- [[bogie-dat]]
+- [[bogie-dat]] - [[Curiosity-rover-dat]]
 
 ## stroller classic suspension
 
@@ -28,3 +28,10 @@
 ## rotating system 
 
 ![](2025-11-27-15-41-15.png)
+
+
+
+
+## ref 
+
+- [[suspension]]
