@@ -11,6 +11,10 @@
 - [[boat-dual-jet-pump-dat]]
 
 
+- [[boat-jet-dat]]
+
+
+
 When operating an RC boat at **slow speeds in rough or choppy water**, the key design priority is stability and wave resistance rather than high-speed planning. 
 
 ---

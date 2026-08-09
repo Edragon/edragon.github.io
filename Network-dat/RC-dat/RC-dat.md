@@ -55,12 +55,20 @@
 - [[physics-dat]] - [[gravity-dat]]
 
 
+## group 
+
+- [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-aircraft-dat]]
+
+- [[manned-vehicle-dat]] - [[unmanned-vehicle-dat]] - [[rc-dat]]
+
+
+
 
 ## tech 
 
 - [[telemetry-dat]] - [[RC-dat]] - [[radio-dat]] - [[motor-brushless-dat]]
 
-
+- [[motor-brushless-dat]] - [[ESC-dat]] - [[AM32-dat]] - [[motor-servo-dat]]
 
 
 

@@ -17,7 +17,7 @@
 - [[mobula6-dat]] - [[mobula7-dat]]
 
 
-## tech 
+## tech and build up 
 
 - [[battery-2s-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-dat]] - [[VTX-dat]]
 
@@ -28,6 +28,10 @@
 - [[FPV-2.0in-dat]] == 85 mm - [[mobula8-dat]]
 
 - [[FPV-purpose-dat]] - [[FPV-types-dat]] - [[FPV-load-dat]] - [[indoor-fly-dat]] - [[thrust-dat]]
+
+- [[screw-dat]] == M1.4*8~12 
+
+- [[camera-FPV-dat]]
 
 
 
@@ -47,6 +51,9 @@ install propeller - [[propeller-dat]] - [[motor-dat]]
 - motor bottom hole == 1.8 
 
 ![](2025-09-12-12-31-55.png)
+
+
+
 
 ## tuning 
 

@@ -26,6 +26,11 @@
 
 - [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]] - [[motor-FPV-dat]] 
 
+
+
+
+
+
 ## app 
 
 - [[mobula8-dat]] - [[mobula7-dat]] - [[mobula6-dat]] - [[FPV-dat]] - [[motor-brushless-dat]]
@@ -42,7 +47,7 @@
 
 - [[EX1103-dat]] - [[A2212-dat]] - [[motor-FPV-dat]] - [[motor-brushless-dat]] - [[ESC-dat]]
 
-
+- [[BLDC-2205-dat]]
 
 
 ## The Breakdown: 9N12P
