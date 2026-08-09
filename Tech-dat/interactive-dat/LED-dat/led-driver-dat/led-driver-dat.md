@@ -269,6 +269,19 @@ Current Push vs Pull: Power Supply & LED
 
 ## build 
 
+
+### build 3
+
+- [[lamp-dat]] - [[S4220-dat]] - [[rectifier-dat]] - [[led-driver-dat]]
+
+![](2026-08-09-18-14-11.png)
+
+81KL7C0GP ???
+
+![](2026-08-09-18-14-26.png)
+
+
+
 ### build 2 
 
 ![](2026-06-17-21-35-50.png)

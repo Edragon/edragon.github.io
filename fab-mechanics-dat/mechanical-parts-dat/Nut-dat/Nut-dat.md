@@ -1,6 +1,9 @@
 
 # Nut-dat
 
+- [[nut-dat]] - [[lead-screw-dat]]
+
+
 - [[nut-t-dat]] - [[nut-thumb-dat]] - [[nut-dat]] - [[CAD-dat]]
 
 - 螺母
@@ -26,7 +29,9 @@ M4 perpendicular 8
 
 ![](2026-01-07-22-03-11.png)
 
+## use case 
 
+![](2026-08-09-18-09-49.png)
 
 
 
