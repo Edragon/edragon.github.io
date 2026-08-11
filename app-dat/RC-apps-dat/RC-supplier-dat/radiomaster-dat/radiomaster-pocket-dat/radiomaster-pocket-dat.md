@@ -11,6 +11,49 @@
 
 - [[motor-driver-design-dat]]
 
+
+## setup for rc-boat rc-rover
+
+- [[rc-boat-dat]] - [[rc-rover-dat]] == setup by code 
+
+![](2026-08-11-19-05-47.png)
+
+- CH1 - steering 
+- CH2
+- CH3 - throttle
+- CH4
+- CH5
+- CH6 - motor directions 
+- CH7 - three-phrase speed 
+- CH8 
+
+## setup for FPV
+
+- [[FPV-dat]] - [[betaflight-dat]] 
+
+- CH1 - steering 
+- CH2
+- CH3 - throttle
+- CH4
+
+- CH5 - 2/switch - AUX1 - ARM 
+- CH6 - 3/switch - AUX2 - Angle / Horizon / Acro Mode
+- CH7 - 3/switch - AUX3 - Air Mode / Flip After a Crash
+- CH8 - 2/switch - AUX4 - Beeper
+
+
+## channel templates 
+
+- CH1 - steering 
+- CH2
+- CH3 - throttle
+- CH4
+- CH5
+- CH6 - motor directions 
+- CH7 - three-phrase speed 
+- CH8 
+
+
 ## MDL setup 
 
 
@@ -185,14 +228,14 @@ RC template
 
 
 
-| Switch / Knob | Type                           | Typical Use                     |
-| ------------- | ------------------------------ | ------------------------------- |
-| SA            | 2-position switch              | Arming, auxiliary control       |
-| SB            | 3-position switch              | Flight modes, auxiliary control |
-| SC            | 3-position switch              | Flight modes, auxiliary control |
-| SD            | 2-position self-locking switch | Auxiliary function              |
-| SE            | Momentary (spring-loaded)      | Beeper, auxiliary function      |
-| S1            | Rotary potentiometer           | Auxiliary function, trims       |
+| AUX  | Switch / Knob | Type                           | Typical Use                     |
+|---|---------------|--------------------------------|---------------------------------|
+| AUX1  | SA            | 2-position switch              | Arming, auxiliary control       |
+| AUX2  | SB            | 3-position switch              | Flight modes, auxiliary control |
+| AUX3  | SC            | 3-position switch              | Flight modes, auxiliary control |
+| AUX4  | SD            | 2-position self-locking switch | Auxiliary function              |
+|   | SE            | Momentary (spring-loaded)      | Beeper, auxiliary function      |
+|   | S1            | Rotary potentiometer           | Auxiliary function, trims       |
 
 
 

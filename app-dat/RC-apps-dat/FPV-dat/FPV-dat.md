@@ -37,6 +37,8 @@
 - [[conn-dat]] - [[antenna-dat]]
 
 
+- [[FPV-stability-dat]] - [[FPV-dat]] - [[FPV-control-dat]]
+
 
 ## build
 

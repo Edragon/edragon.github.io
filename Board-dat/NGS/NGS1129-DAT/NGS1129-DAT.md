@@ -21,6 +21,13 @@ based on chip [[SIM7080G-dat]]
 
 ![](06-16-17-16-05-2023.png)
 
+layout V2 
+
+![](2026-08-11-18-29-13.png)
+
+- [[dcdc-down-dat]] - [[LDO-dat]] - [[CONN-SIM-dat]] - [[logic-level-shifter-dat]] - [[CONN-USB-dat]]
+
+- [[TVS-dat]] - [[ESD-dat]]
 
 
 

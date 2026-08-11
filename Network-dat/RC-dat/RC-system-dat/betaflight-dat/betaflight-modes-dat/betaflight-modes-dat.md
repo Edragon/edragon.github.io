@@ -16,11 +16,23 @@
 | Flip After a Crash | AUX 3       | SC          | HIGH |       |
 | Beeper             | AUX 4       | SD          | HIGH |       |
 
+- CH1 - steering 
+- CH2
+- CH3 - throttle
+- CH4
+
+- CH5 - 2/switch - AUX1 - ARM 
+- CH6 - 3/switch - AUX2 - Angle / Horizon / Acro Mode
+- CH7 - 3/switch - AUX3 - Air Mode / Flip After a Crash
+- CH8 - 2/switch - AUX4 - Beeper
+
+- [[radiomaster-pocket-dat]]
+
 
 
 Air mode is very stable, good for beginners
 
-
+- [[FPV-stability-dat]] - [[betaflight-modes-dat]]
 
 
 
