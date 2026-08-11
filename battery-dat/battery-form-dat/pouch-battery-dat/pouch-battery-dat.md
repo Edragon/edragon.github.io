@@ -71,3 +71,10 @@ We all know that the lithium battery itself will have an inevitable self-dischar
 the shape of the soft pack battery can be determined by specific business needs, customized planning according to the detailed dimensions of the battery box, perhaps through a variety of battery arrangements to achieve full use of the internal space of the battery box, to meet Differentiated needs.
 
 ![](2025-02-21-15-06-43.png)
+
+
+
+
+## ref 
+
+

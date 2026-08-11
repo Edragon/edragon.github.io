@@ -1,7 +1,14 @@
 
 # battery-alkaline-dat
 
-- [[AA-battery-dat]] - [[AAA-battery-dat]] - [[A27-battery-dat]]
+
+
+- [[battery-alkaline-dat]] - [[LR41H-dat]] - [[AG3-dat]] - [[battery-coin-dat]] - [[LR41-dat]]
+
+
+
+
+- [[battery-AA-dat]] - [[battery-AAA-dat]] - [[A27-battery-dat]]
 
 ## explosion and fire 
 
