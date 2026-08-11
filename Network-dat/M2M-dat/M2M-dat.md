@@ -10,6 +10,7 @@
 
 - [[A7670-dat]] - [[SIMCOM-dat]] - [[LTE-dat]] - [[M2M-dat]]
 
+- [[M2M-dat]] - [[CAT-M-dat]] - [[CAT-NB-dat]] - [[SIMCOM-dat]] - [[SIM7080-dat]]
 
 
 ## Module manufacturer
@@ -55,57 +56,6 @@ CAT-NB
 | [[EC20-dat]]  | [[4G-dat]] | [[NGS1108-dat]] |
 
 
-## NBIOT 
-
-LTE Cat NB1, 
-
-also known as Narrowband IoT (NB-IoT) is a Low Power Wide Area (LPWA) technology that has been developed to enable a wide range of devices to be connected to the internet using existing mobile networks. NB-IoT has been developed to enable the Internet of Things (IoT). It is a low power, narrowband technology that can support small amounts of 2-way data transmission in an efficient, secure, and reliable manner. This standard was created in **3GPP Release 13**.
-
-LTE Cat NB2 
-
-is an upgraded version of the LTE Cat NB1 standard (NB-IoT). **In Release 14**, 3GPP introduced an enhanced NB-IoT protocol and a new device category called NB2. 
-
-This standard is an upgraded version of the LTE Cat NB1 standard.
-
-LTE NB1 vs LTE NB2
-
-| Features               | LTE Cat NB1 | LTE Cat NB2    |
-| ---------------------- | ----------- | -------------- |
-| 3GPP Release           | Release 13  | Release 14     |
-| Channel Bandwidth      | 180 kHz     | 180 kHz        |
-| UE Bandwidth           | 200 kHz     | 200 kHz        |
-| Transmission Duplexity | Half        | Half           |
-| Max Tx Power           | 20, 23 dBm  | 14, 20, 23 dBm |
-| Max Downlink data rate | ~26 kbps    | ~127 kbps      |
-| Max Uplink data rate   | ~62 kbps    | ~159 kbps      |
-| Latency                | <10 sec     | -              |
-| Data Encryption        | EPS-AKA     | EPS-AKA        |
-| Device Authentication  | SIM         | SIM            |
-| Voice Support          | No          | No             |
-| Positioning            | Cell ID     | OTDOA, E-CID   |
-
-
-
-## CAT-M
-
-CAT-M (also known as LTE-M or LTE Cat-M1) can operate in both Frequency Division Duplex (FDD) and Time Division Duplex (TDD) modes. The choice between FDD and TDD for CAT-M depends on the specific network deployment and regional spectrum regulations.
-
-### Overview
-Frequency Division Duplex (FDD): Uses separate frequencies for uplink and downlink. It allows for simultaneous transmission and reception.
-
-Time Division Duplex (TDD): Uses the same frequency for both uplink and downlink but alternates in time. Transmission and reception occur at different times on the same frequency.
-
-### CAT-M Characteristics
-Compatibility: CAT-M is designed to be compatible with existing LTE infrastructure, so it can utilize FDD, which is more commonly used in LTE networks.
-
-Flexibility: CAT-M also supports TDD for regions or deployments where TDD is preferred or necessary due to spectrum availability or regulatory reasons.
-
-### Practical Use
-FDD: Predominantly used in regions where FDD LTE networks are prevalent. Common in many parts of the world due to existing LTE deployments.
-
-TDD: Used in regions or specific cases where TDD LTE networks are implemented, offering flexibility in spectrum usage and often used in China and some other areas.
-
-If you're deploying or using CAT-M technology, check with the specific network provider or region's spectrum regulations to understand which mode is supported.
 
 ## FDD vs TDD 
 

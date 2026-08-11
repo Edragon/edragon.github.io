@@ -8,6 +8,11 @@
 - [[LTE-dat]] - [[LWPA-dat]] - [[NBIOT-dat]] - [[M2M-dat]]
 
 
+- [[LTE-dat]] - [[CAT-M-dat]] - [[M2M-dat]] - [[FDD-dat]] - [[TDD-dat]] - [[CAT-NB-dat]]
+
+- [[CAT-NB-dat]]
+
+
 ## chip 
 
 - [[A7670-dat]] - [[SIMCOM-dat]] - [[LTE-dat]] - [[M2M-dat]]
@@ -21,6 +26,27 @@
 - [[EC20-dat]] - [[EC25-dat]]
 
 - [[SIM7000-dat]]
+
+
+
+
+## CAT-M1 vs. NBIOT
+
+| Feature               | **Cat-M1 (LTE-M)**                            | **NB-IoT**                                      |
+| --------------------- | --------------------------------------------- | ----------------------------------------------- |
+| **Bandwidth**         | 1.4 MHz                                       | 200 kHz                                         |
+| **Data Speed**        | Up to 1 Mbps                                  | Up to 250 kbps                                  |
+| **Latency**           | 50–100 ms                                     | 1–10 seconds                                    |
+| **Use Cases**         | Wearables, smart meters, asset tracking       | Smart sensors, environmental monitoring         |
+| **Frequency Bands**   | B1, B3, B5, B8, B20, B28 (and more)           | B3, B5, B8, B20, B28 (and some guard bands)     |
+| **Power Consumption** | Low, but higher than NB-IoT                   | Extremely low power consumption                 |
+| **Mobility Support**  | Yes, supports mobility                        | No, designed for stationary devices             |
+| **Global Coverage**   | Broad, supports a wide range of LTE bands     | Narrower, depends on supported bands            |
+| **Data Transmission** | Suitable for moderate data transfer           | Ideal for small, infrequent transmissions       |
+| **Best For**          | Applications needing moderate data & mobility | Large-scale IoT deployments with low data needs |
+
+
+
 
 
 ## CAT 
@@ -53,7 +79,6 @@ When a device is assigned a specific Category, it must meet requirements for sev
 | **Cat 18** | 1.2 Gbps | 150 Mbps | Gigabit LTE devices using 4x4 MIMO and 256-QAM. |
 | **Cat M1** | ~1 Mbps | ~1 Mbps | Machine-to-Machine (M2M) communication; highly power efficient. |
 
----
 
 ### Why Does It Matter?
 

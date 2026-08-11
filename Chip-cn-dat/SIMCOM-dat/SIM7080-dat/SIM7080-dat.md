@@ -1,9 +1,11 @@
 
 # SIM7080-dat
 
+- [[M2M-dat]] - [[CAT-M-dat]] - [[CAT-NB-dat]] - [[SIMCOM-dat]] - [[SIM7080-dat]]
+
 ## Specs 
 
-The SIM7080 series is the LPWA module which supports wireless communication modes of Cat-M/Cat-NB. 
+The SIM7080 series is the LPWA module which supports wireless communication modes of `Cat-M/Cat-NB`. 
  
 The SIM7080 series adopts LCC and LGA form factor and has a compact size of 17.6mm*15.7mm which makes it ideal for compact products design. 
  
