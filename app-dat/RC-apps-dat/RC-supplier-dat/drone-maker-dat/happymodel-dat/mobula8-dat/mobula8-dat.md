@@ -36,6 +36,13 @@
 
 
 
+## setup 1 
+
+- [[camera-canopy-dat]] - [[camera-FPV-dat]]
+
+![](2026-08-11-15-45-58.png)
+
+
 
 
 ## pre-note 

@@ -11,6 +11,14 @@
 - [[metal-dat]] - [[tube-dat]]
 
 
+
+## basic electronic "circuit"
+
+- [[vibrator-dat]] - [[fab-sheet-metal-dat]]
+
+![](2026-08-11-15-41-51.png)
+
+
 ## molds need process methods 
 
 - [[fab-sheet-metal-hem-dat]] 

@@ -3,6 +3,99 @@
 
 - [[feeder-dat]] - [[feeder-electric-auto-dat]] - [[feeder-electric-auto-interface-dat]]
 
+
+
+## feeder build - sandwich structure
+
+- [[motor-N20-dat]] - [[feeder-electric-auto-dat]]
+
+
+overview 
+
+![](2026-08-11-16-03-04.png)
+
+![](2026-08-11-16-08-59.png)
+
+
+screws and bolts
+
+![](2026-08-11-16-03-26.png)
+
+![](2026-08-11-16-09-14.png)
+
+
+
+
+electronics 
+
+- [[LDO-dat]] - [[gatemode-dat]] - [[GM3085-dat]]
+
+![](2026-08-11-16-00-22.png)
+
+- [[TC1508-dat]] - [[STM32-dat]]
+
+![](2026-08-11-16-01-09.png)
+
+
+![](2026-08-11-15-57-15.png)
+
+
+mid 
+
+top 
+
+plastic holder 
+
+![](2026-08-11-15-58-18.png)
+
+gear holder 
+
+![](2026-08-11-15-58-56.png)
+
+top gear side 
+
+![](2026-08-11-16-01-53.png)
+
+gears 
+
+- [[gear-dat]] - [[gearbox-dat]]
+
+![](2026-08-11-16-06-00.png)
+
+![](2026-08-11-16-06-42.png)
+
+[[conn-pin-header-dat]] - [[PCB-form-dat]] - [[PCB-stack-dat]] - [[feeder-electric-auto-dat]]
+
+![](2026-08-11-16-08-05.png)
+
+side view 
+
+![](2026-08-11-15-59-34.png)
+
+![](2026-08-11-16-08-31.png)
+
+puller
+
+![](2026-08-11-16-01-34.png)
+
+![](2026-08-11-16-02-14.png)
+
+[[infrared-dat]] - [[sensor-dat]] ?? 
+
+![](2026-08-11-16-02-37.png)
+
+puller cover 
+
+![](2026-08-11-16-09-38.png)
+
+
+details 
+
+![](2026-08-11-16-04-42.png)
+
+![](2026-08-11-16-05-32.png)
+
+
 ## common issues 
 
 3.元件跳起来，崩料，齿轮挂不住编带
@@ -18,7 +111,8 @@
 ![](2026-06-25-13-59-49.png)
 
 
-## feeder 
+
+## feeder basic info 
 
 ![](2025-04-02-16-36-14.png)
 
@@ -27,20 +121,20 @@
 
 
 
-## feeder base ray rail 
+### feeder base ray rail 
 
 ![](2025-04-02-16-36-40.png)
 
 
 
-## feeder hang-out 
+### feeder hang-out 
 
 ![](2025-04-02-16-35-53.png)
 
 
 
 
-## feeder ID 
+### feeder ID 
 
 - Each electric feeder has a unique address number for communication with the host computer software. As shown in the figure, this feeder has three slots. The address numbers corresponding to each feeder slot, from left to right, are 571, 572, and 573.
 - The QR code is used to quickly and automatically create visual identification markers for the feeders.
@@ -77,3 +171,8 @@
 14. Because the plastic tape is too thin, the green pressure plate needs to be stuck on the metal strip and press down on the metal strip to expose the gear to the tape.
 
 ![](2025-04-02-14-13-23.png)
+
+
+
+## ref 
+

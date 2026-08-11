@@ -291,7 +291,7 @@
 
 - [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]] - [[structure-dat]] - [[structure-t-dat]]
 
-- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]]
+- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]] - [[feeder-dat]]
 
 - [[3D-dat]] - [[fab-3d-print-dat]]
 

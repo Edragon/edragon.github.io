@@ -6,6 +6,13 @@
 
 - 392A 
 
+
+## apps 
+
+- [[vibrator-dat]]
+
+## info 
+
 ![](2026-08-11-15-40-37.png)
 
 The **LR41H** (commonly referred to simply as **LR41** or **AG3**) is a standard alkaline button cell battery designed for small, low-drain electronic devices. The "H" suffix usually denotes a high-reliability or high-capacity variant from certain manufacturers, but it shares identical physical dimensions and core electrical specs with standard LR41 batteries.
