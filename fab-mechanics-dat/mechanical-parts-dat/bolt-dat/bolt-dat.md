@@ -11,6 +11,38 @@
 - [[bolt-dat]] - [[spring-dat]] - [[battery-pack-solderless-dat]]
 
 
+## anti-loosing 
+
+![](2026-08-11-20-54-44.png)
+
+- [[washer-dat]] - [[washer-dat]] - [[washer-spring-dat]] - [[bolt-dat]] - [[Bolt-SEM-dat]]
+
+
+The anti-loosening component is typically called a **Spring Washer** (or **Lock Washer**). 
+
+When a bolt is pre-assembled with both a flat washer and a spring washer held in place (so they cannot fall off), the complete unit is known in hardware and industry as a **SEM Bolt** (or **SEMS Screw** / **Combined Screw**).
+
+---
+
+### Common Anti-Loosening Washers & Fasteners
+
+* **Spring Washer (Split Lock Washer):** A standard ring with a diagonal cut. When tightened, it acts like a spring to maintain continuous tension and bites into the mating surface to resist loosening under vibration.
+* **Tooth Lock Washer (Internal/External Serrated):** Features small teeth along the inner or outer rim that dig into the surface to physically prevent unthreading.
+* **Wedge Locking Washer (e.g., Nord-Lock):** A two-piece pair with interlocking cams that creates a wedge effect to lock the bolt tight under high vibration.
+* **Nylon Insert Lock Nut (Nyloc Nut):** If the locking mechanism is on the nut side, it often uses a nylon collar near the top to grip the bolt threads securely.
+
+![](2026-08-11-21-09-00.png)
+
+### Standard Assembly Order
+
+When assembling manually, the proper sequence from top to bottom is:
+
+$$\text{Bolt Head} \longrightarrow \text{Spring Washer} \longrightarrow \text{Flat Washer} \longrightarrow \text{Material / Workpiece}$$
+
+*(The flat washer protects the surface material from damage, while the spring washer directly abuts the bolt head to maintain continuous pressure.)*
+
+
+
 ## bolt vs screw 
 
 The difference between a **bolt** and a **screw** is one of those things that seems obvious until you try to define it. In fact, even hardware stores and engineers sometimes mix them up because they look so similar. 

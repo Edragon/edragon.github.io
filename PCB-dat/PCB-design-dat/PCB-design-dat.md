@@ -55,6 +55,7 @@
 
 - [[design-VDDA-dat]] - [[design-audio-dat]] - [[PCB-dat]]
 
+- [[I2C-dat]]
 
 
 ## special  

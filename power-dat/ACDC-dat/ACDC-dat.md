@@ -169,6 +169,53 @@ Chip Solutions
 
 ## build 
 
+### build 9 
+
+- [[XL4016-dat]] - [[transformer-dat]]
+
+- [[rectifier-dat]] - [[bolt-dat]]
+
+- [[mosfet-dat]] - [[voltage-high-dat]] - [[2N65L-dat]] - [[UTC-dat]]
+
+![](2026-08-11-21-12-04.png)
+
+![](2026-08-11-21-12-23.png)
+
+- [[THR-dat]] - [[TVR-dat]] - [[fuse-dat]] == - [[Thermistor-dat]] - [[Varistor-dat]]
+
+![](2026-08-11-21-14-14.png)
+
+![](2026-08-11-21-14-36.png)
+
+F1 == fuse, LF1 LF2 == [[choke-common-mode-dat]] - [[choke-dat]] 
+
+DB1 == [[bridge-rectifier-dat]] - [[diode-rectifier-dat]]
+ 
+CY1 == [[capacitor-x-y-dat]]
+
+CX1 == [[capacitor-x-y-dat]]
+
+![](2026-08-11-21-18-07.png)
+
+##### What is **THR1**?
+
+**THR** stands for **Thermistor** (specifically an **NTC** or **PTC** thermistor).
+
+* **Function:** Most commonly used as an Inrush Current Limiter (NTC) near power input terminals, or as a temperature sensor/over-current protector (PTC).
+* **Footprint:** Typically a 2-pin through-hole radial disc or a standard 2-pin surface-mount (SMD) chip package (e.g., 0603, 0805, 1206).
+
+---
+
+##### What is **TVR1**?
+
+**TVR** stands for **Transient Voltage Suppressor / Varistor** (specifically **Thinking Varistor**, as *Thinking Electronic Industrial* uses "TVR" for their MOV series).
+
+* **Function:** Protects the circuit against overvoltage spikes and high surge currents (e.g., lightning strikes or ESD events).
+* **Footprint:** Usually a 2-pin through-hole MOV disc footprint (e.g., 5mm, 7mm, 10mm, or 14mm disc diameter with standard 5.0mm or 7.5mm pitch).
+
+
+
+
 ### build 8 
 
 - [[mosfet-dat]] - 4485 - [[diode-dat]] - MBR10150

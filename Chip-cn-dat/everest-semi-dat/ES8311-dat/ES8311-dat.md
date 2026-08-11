@@ -34,6 +34,11 @@
 
 - [[SSL1080-dat]]
 
+
+
+
+
+
 ## ES8311 
 
 refer use guide in [[I2S-SDK-dat]]
@@ -66,6 +71,21 @@ http://www.everest-semi.com/pdf/ES8311%20PB.pdf
     5V/5Vin（如有供电引脚） -- SV -- 电源，NS4150B音频功放供电
     GND -- GND -- 负极/接地
 
+config 2 - https://github.com/Edragon/WeActStudio.ES8311MonoAudioCodecModule - [[ESP-IDF-dat]]
+
+
+    #
+    # Example IO Configuration
+    #
+    CONFIG_EXAMPLE_PA_CTRL_IO=-1
+    CONFIG_EXAMPLE_I2C_SDA_IO=17
+    CONFIG_EXAMPLE_I2C_SCL_IO=16
+    CONFIG_EXAMPLE_I2S_MCLK_IO=0
+    CONFIG_EXAMPLE_I2S_BCLK_IO=4
+    CONFIG_EXAMPLE_I2S_WS_IO=5
+    CONFIG_EXAMPLE_I2S_DIN_IO=19
+    CONFIG_EXAMPLE_I2S_DOUT_IO=18
+    # end of Example IO Configuration
 
 
 ## ref 

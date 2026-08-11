@@ -18,6 +18,9 @@ Below are the primary hardware design flaws to inspect on your ES8311 layout:
 * **Missing or Far-Away Decoupling Capacitors:** The ES8311 requires local ceramic decoupling capacitors ($100\text{ nF} + 10\,\mu\text{F}$) placed as close as possible to the $V_{CCA}$, $V_{CCD}$, and $V_{CCP}$ pins.
 * **Dirty $V_{MID}$ / $V_{REF}$ / $\text{MICBIAS}$ Caps:** The internal reference voltage pins ($V_{MID}$ / $V_{REF}$) and $\text{MICBIAS}$ set the DC bias point for the analog stage. A missing or poorly grounded bypassing capacitor on these pins will introduce severe buzz, hum, or white noise.
 
+![](2026-08-11-20-58-58.png)
+
+
 ---
 
 ### 2. Grounding & PCB Layout Issues

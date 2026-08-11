@@ -30,7 +30,10 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[dual-mosfet-dat]]
 
 
-- [[3400-dat]] - [[3401-dat]] - [[AOSMD-dat]] - [[AOSMD-mosfet-dat]] - [[AOD4184-dat]] - [[AOD4184-dat]] - [[D4184-dat]]
+- [[AOSMD-mosfet-dat]] - [[3400-dat]] - [[3401-dat]] - [[AOSMD-dat]] - [[AOSMD-mosfet-dat]] - [[AOD4184-dat]] - [[AOD4184-dat]] - [[D4184-dat]]
+
+- [[AOSMD-mosfet-dat]] - [[4264E-dat]]
+
 
 similar  
 
@@ -66,6 +69,7 @@ common brand: [[Vishay-dat]]
 
 - [[rectron-dat]] - [[rectron-mosfet-dat]] == RM20P30DF == P-Channel Enhancement Mode Power MOSFET 
 
+- [[mosfet-dat]] - [[voltage-high-dat]] - [[2N65L-dat]] - [[UTC-dat]]
 
 
 

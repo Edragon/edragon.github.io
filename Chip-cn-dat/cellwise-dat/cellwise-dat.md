@@ -3,6 +3,23 @@
 - [[battery-protector-dat]]
 
 
+
+- [[cellwise-dat]] - [[CW3004-dat]] - [[fast-charge-protocols-dat]]
+
+- [[CW2017-dat]] 
+
+- [[CW1073-dat]]
+
+- [[CW3002-dat]] - [[power-usb-charger-dat]]
+
+## CW3002 
+
+
+The marking "3002G" in a SOT23-6 (or related small outline) package commonly refers to USB dedicated charging port controller ICs or power management chips, such as the CellWise CW3002G (an upgraded faster-charging revision compatible with BC1.2, Apple, and Samsung detection standards), or similar SOT23-packaged components
+
+
+
+
 ## CW1073 
 
 SSOP-24-150mil Battery Management RoHS

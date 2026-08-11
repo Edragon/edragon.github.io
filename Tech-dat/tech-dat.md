@@ -287,11 +287,11 @@
 
 ## Mechnicals 
 
-- [[fab-mechanics-dat]] - [[fab-tools-mechanical-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]]
+- [[fab-mechanics-dat]] - [[fab-tools-mechanical-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]] - [[bolt-dat]]
 
 - [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]] - [[structure-dat]] - [[structure-t-dat]]
 
-- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]] - [[feeder-dat]]
+- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]] - [[feeder-dat]] - [[feeder-electric-auto-dat]]
 
 - [[3D-dat]] - [[fab-3d-print-dat]]
 

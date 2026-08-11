@@ -112,7 +112,7 @@ Quick Charge 2.0
 
 - [[injoinic-dat]] - [[ismartware-dat]]
 
-
+- [[cellwise-dat]] - [[CW3004-dat]] - [[fast-charge-protocols-dat]]
 
 
 ## apps 

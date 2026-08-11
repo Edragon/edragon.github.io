@@ -28,7 +28,9 @@ screws and bolts
 
 electronics 
 
-- [[LDO-dat]] - [[gatemode-dat]] - [[GM3085-dat]]
+- [[LDO-dat]] - [[gatemode-dat]] - [[GM3085-dat]] - [[RS422-dat]] - [[RS485-dat]] - [[interface-dat]]
+
+
 
 ![](2026-08-11-16-00-22.png)
 
