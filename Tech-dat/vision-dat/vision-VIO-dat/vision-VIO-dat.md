@@ -2,17 +2,18 @@
 
 # vision-VIO-dat
 
-- [[camera-vision-downward-dat]] - [[position-hold-dat]] - [[VIO-dat]] - [[vision-dat]]
+- [[vision-downward-dat]] - [[position-hold-dat]] - [[vision-VIO-dat]] - [[vision-dat]]
 
 - [[altitude-hold-dat]] - [[vision-VIO-dat]] - [[sensor-optical-flow-dat]]
 
 - [[vision-VIO-3D-dat]] 
 
+- [[sensor-camera-dat]] - [[vision-VIO-dat]] - [[vision-vio-downward-dat]] - [[camera-vision-dat]]
 
 
 
 
-## what is VIO 
+## what is VIO == 视觉里程计 VIO（Visual-Inertial Odometry）
 
 
 **Visual-Inertial Odometry (VIO) is an algorithm (a software / estimation framework)**, not a specific piece of hardware.
