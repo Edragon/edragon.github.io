@@ -14,9 +14,10 @@
 
 - [[location-dat]] - [[GNSS-dat]] 
 
-- [[IMU-dat]] - [[sensor-barometer-dat]] - [[sensor-motion-dat]] - [[6D-accelerometer-gyroscope-dat]] 
+- [[IMU-dat]] - [[sensor-barometer-dat]] - [[sensor-motion-dat]] - [[6D-accelerometer-gyroscope-dat]] - [[6-axis-dat]]
 
-- [[sensor-camera-vision-dat]] - [[sensor-camera-dat]] - [[vision-dat]] 
+- [[camera-vision-downward-dat]] - [[position-hold-dat]] - [[VIO-dat]] - [[vision-dat]]
+
 
 - [[sensor-proximity-IR-dat]] - [[DJI-quadcopter-dat]]
 
