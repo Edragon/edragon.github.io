@@ -7,7 +7,7 @@
 
 - [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[glob-top-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]]
+- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]] - [[rc-aircraft-dat]]
 
 - [[circuits-dat]]
 
