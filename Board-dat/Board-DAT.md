@@ -248,6 +248,8 @@ LED control - [[ILC1063-dat]]
 
 - [[OPM1068-dat]] - [[OPM1091-dat]]
 
+- [[OPM1070-dat]]
+
 
 battery holder - [[OPM1189-dat]]
 
@@ -437,7 +439,7 @@ Quectel - 2G
 
 [[NRF24L01-dat]] - [[NWL1010-dat]] - [[NWL1050-dat]]
 
-- [[RF-link-dat]]
+- [[RF-link-dat]] - [[NWL1016-dat]] - [[NWL1017-dat]]
 
 
 ### NWI
