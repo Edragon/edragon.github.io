@@ -20,6 +20,8 @@ Eccentric mechanism
 
 - [[gear-worm-dat]]
 
+- [[mechanism-dat]] - [[syringe-dat]] - [[motion-linear-dat]]
+
 
 ## structure
 

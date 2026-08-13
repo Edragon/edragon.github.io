@@ -262,11 +262,13 @@
 
 - [[SWD-dat]]
 
-## EDA
+## EDA and CAD
 
 - [[EDA-dat]] - [[kicad-dat]] - [[eaglecad-dat]] - [[fritzing.org-dat]]
 
 - [[kicad-PCB-dat]]
+
+- [[CAD-dat]] - [[onshape-dat]]
 
 ## simulator 
 
