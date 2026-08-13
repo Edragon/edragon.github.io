@@ -1,11 +1,11 @@
 
-# sensor-pressure-dat.md
+# sensor-barometer-dat.md
 
 [legacy wiki page](https://w.electrodragon.com/w/Category:Pressure_Sensor)
 
 - [[BME280-dat]] - [[bosch-dat]] - [[BMP280-dat]] - [[STH1060-dat]]
 
-- [[LPS22HB-dat]] - [[st-sensor-dat]] - [[sensor-pressure-dat]] == MEMS nano pressure sensor: 260-1260 hPa absolute digital output barometer
+- [[LPS22HB-dat]] - [[st-sensor-dat]] - [[sensor-barometer-dat]] == MEMS nano pressure sensor: 260-1260 hPa absolute digital output barometer
 
 https://www.st.com/en/mems-and-sensors/lps22hb.html
 
