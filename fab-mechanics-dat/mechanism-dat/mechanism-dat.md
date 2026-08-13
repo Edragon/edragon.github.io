@@ -10,7 +10,7 @@ Eccentric mechanism
 
 - spring 
 
-- [[gearbox-dat]]
+- [[gearbox-dat]] - [[gear-dat]]
 
 - [[pump-dat]] - [[fitting-dat]]
 

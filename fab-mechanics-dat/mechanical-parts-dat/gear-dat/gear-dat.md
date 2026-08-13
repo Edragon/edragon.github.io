@@ -7,6 +7,15 @@
 
 - [[chain-dat]]
 
+- [[gear-herringbone-dat]]
+
+
+## gear ratio 
+
+2:1 - [[motor-servo-dat]]
+
+![](2026-08-14-02-31-17.png)
+
 
 ## gear ratio 
 

@@ -3,7 +3,17 @@
 # servo-mount-dat
 
 
+- [[motor-servo-dat]] - [[servo-mount-dat]]
+
+
 ## builds
+
+build 6 - flat mount - [[SG90-dat]]
+
+https://www.printables.com/model/1021447-micro-servo-sg90-9g-flatmount-bracket
+
+
+![](2026-08-14-02-32-11.png)
 
 build 5 - vertical 
 
