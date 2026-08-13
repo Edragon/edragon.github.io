@@ -1,6 +1,16 @@
 
 # Y7080E-dat
 
+
+Y7080E（NB+GPS） 带定位
+
+- [[CAT-NB-dat]] == NB2 - [[location-dat]]
+
+- [[Y7080E-dat]] - [[SIM7020-dat]]
+
+
+
+
 ## Pin map 
 
 ![](2024-07-05-18-45-34.png)

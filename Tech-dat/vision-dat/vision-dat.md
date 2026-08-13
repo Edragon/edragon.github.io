@@ -11,7 +11,7 @@
 
 - [[opencv-dat]] - [[openMV-dat]] - [[vision-PNP-dat]]
 
-
+- [[VPU-dat]] - [[NPU-dat]]
 
 
 
@@ -72,6 +72,20 @@ Open source vision project:
 - [[ESP32-S3-dat]] 
 
 - [[K230-dat]] - [[K210-dat]]
+
+
+
+## APP 
+
+### DJI NEO 
+
+- [[DJI-neo-dat]] - [[STM32H7-dat]] - [[STM32-dat]]
+
+- [[DJI-vision-dat]] - [[vision-dat]] - [[VPU-dat]] - [[NPU-dat]] 
+
+- [[Cortex-M4-dat]] - [[cortex-dat]] - [[ARM-dat]]
+
+
 
 
 

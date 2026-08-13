@@ -23,6 +23,55 @@
 
 
 
+
+## CPU system
+
+- [[DJI-neo-dat]] - [[STM32H7-dat]] - [[VPU-dat]] - [[NPU-dat]] - [[STM32-dat]]
+
+- [[DJI-vision-dat]] - [[vision-dat]]
+
+- [[Cortex-M4-dat]] - [[cortex-dat]] - [[ARM-dat]]
+
+
+
+DJI does not officially disclose the specific chip models and manufacturers used on its drone mainboards. However, based on circuit teardowns and technical architecture analysis, the DJI Neo's main control system uses a self-developed, multi-chip, highly integrated (highly SoC-ified) distributed processing architecture. Its core consists of the following chips/modules working together:
+
+### 1. Flight Control & System Main Controller (Main MCU / Control SoC)
+
+- **Core solution**: High-performance MCU based on the ARM Cortex-M/A architecture, or a custom SoC (in some repair teardown analyses, DJI core boards use dual-core, high-frequency microprocessors at the level of the STM32H7 series, or DJI-customized dedicated ICs).
+- **Main responsibilities**:
+  - Low-level attitude control of the entire drone
+  - Multi-sensor data fusion (IMU, barometer, vision data)
+  - Motor PWM command output
+  - Palm takeoff/landing and button interaction logic
+
+### 2. Image Processing & AI Vision Tracking Chip (ISP / Vision SoC)
+
+- **Core solution**: DJI self-developed vision processor (VPU/NPU) or a deeply integrated image processing system.
+- **Main responsibilities**:
+  - Video encoding/decoding for the 4K camera and EIS anti-shake algorithm
+  - Runs AI vision recognition algorithms: palm face recognition, AI ActiveTrack, and QuickShots camera trajectory planning
+
+### 3. Video Transmission & Wireless Communication Chip (O4/O3-level Transmission SoC)
+
+- **Core solution**: DJI self-developed custom communication SoC (based on DJI's custom wireless baseband chips, e.g., the S1/S2 or P1 evolution).
+- **Main responsibilities**:
+  - Low-latency Wi-Fi communication with smartphones
+  - Long-range digital video transmission encoding/decoding and RF signal processing with remote controllers / FPV goggles
+
+### 4. Co-processor (Vision Positioning Co-processor)
+
+- **Core solution**: Low-power ARM co-processor (e.g., Cortex-M4 level).
+- **Main responsibilities**:
+  - Dedicated processing of the bottom monocular vision camera and infrared ToF ranging module data
+  - Real-time optical flow and displacement computation, providing low-latency attitude feedback to the flight controller
+
+### Why this architecture?
+
+- The DJI Neo weighs only 135 g and relies heavily on AI tracking and palm takeoff/landing.
+- This tiny size makes it impossible to use high-power Qualcomm/MediaTek general-purpose smartphone platforms.
+- DJI highly integrates flight control, ESC control, video transmission, and AI vision onto a single multi-layer, high-density PCB (mainboard), achieving centimeter-level positioning and intelligent tracking at extremely low power.
+
 ## Alternative (Open-Source Ecosystem)
 
 Yes — the open-source drone ecosystem is actually very complete. Most of what DJI can do, open-source solutions can do too; the difference is just "integration" and "ease of use." Layer-by-layer introduction:

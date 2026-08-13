@@ -3,6 +3,11 @@
 
 - [[M2M-dat]] - [[CAT-M-dat]] - [[CAT-NB-dat]] - [[SIMCOM-dat]] - [[SIM7080-dat]]
 
+
+price up from 56 - 80 cny == 24 / 6 = 4 usd
+
+
+
 ## Specs 
 
 The SIM7080 series is the LPWA module which supports wireless communication modes of `Cat-M/Cat-NB`. 
