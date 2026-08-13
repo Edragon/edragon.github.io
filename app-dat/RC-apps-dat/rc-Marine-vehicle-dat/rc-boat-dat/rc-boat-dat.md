@@ -47,7 +47,7 @@
 
 ## types 
 
-- [[rc-boat-types-dat]]
+- [[rc-boat-types-dat]] - [[boat-speed-dat]]
 
 
 
