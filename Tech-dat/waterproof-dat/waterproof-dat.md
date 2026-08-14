@@ -1,11 +1,11 @@
 
 # waterproof-dat
 
+
+- [[waterproof-dat]] - [[underwater-dat]] - [[nature-dat]]
+
 - [[CONN-waterproof-dat]]
 
-
-
-- [[CONN-waterproof-dat]]
 
 - [[motor-waterproof-dat]] - [[motor-dat]] - [[servo-waterproof-dat]]
 
