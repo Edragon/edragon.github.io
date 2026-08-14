@@ -133,6 +133,13 @@ A single ESC acts as the "middleman" in your system:
 * **Safety:** Ensure you have a common ground between the ESC and your controller.
 
 
+
+
+## code 
+
+
+
+
 ## ref 
 
 - [[acturator-dat]]
