@@ -1,13 +1,25 @@
 
 
-# gopro-amount-dat
+# gopro-mount-dat
 
 
-- [[insta360-go-rack-dat]] - [[insta360-dat]] - [[camera-rack-dat]] - [[gopro-dat]] - [[gopro-amount-dat]]
+- [[insta360-go-rack-dat]] - [[insta360-dat]] - [[camera-rack-dat]] - [[gopro-dat]] - [[gopro-mount-dat]]
 
 
 
-## surface amount 
+## common surface mount 
+
+larger mount for helmet 
+
+![](2026-08-14-20-47-44.png)
+
+![](2026-08-14-20-49-05.png)
+
+
+common mount 
+
+![](2025-12-30-01-47-27.png)
+
 
 
 size == 4.5 x 3.5 CM 
@@ -16,7 +28,7 @@ size == 4.5 x 3.5 CM
 
 ![](2026-06-07-16-36-26.png)
 
-integrated 
+integrated large mount 
 
 ![](2026-06-07-16-35-40.png)
 

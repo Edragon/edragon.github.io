@@ -23,7 +23,7 @@
 - [[camera-wireless-dat]] - [[camera-FPV-dat]]
 
 
-- [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-rack-dat]] - [[sensor-camera-dat]]
+- [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-mount-dat]] - [[sensor-camera-dat]]
 
 
 
