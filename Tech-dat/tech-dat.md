@@ -239,7 +239,7 @@
 
 - [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] 
 
-
+- [[video-dat]] - [[video-wireless-dat]]
 
 
 ## Utilities 
