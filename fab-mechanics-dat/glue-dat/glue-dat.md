@@ -17,6 +17,24 @@
 
 - [[glue-Aviation-Adhesive-dat]]
 
+- [[glue-epoxy-dat]]
+
+
+
+
+## temperature of glue 
+
+| Glue Type                         | Common Operating Temperature Range                                 | Key Characteristics & Suitability                                                                          |
+| :-------------------------------- | :----------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **Standard UV Glue**              | $80^\circ\text{C}$ to $120^\circ\text{C}$                          | Unsuitable for high heat; softens quickly above $100^\circ\text{C}$; requires light penetration.           |
+| **Specialty High-Temp UV Glue**   | Up to $150^\circ\text{C}$ (briefly $200^\circ\text{C}$)            | Modified epoxy-based UV glue; expensive, requires UV light and unshaded bonding areas.                     |
+| **Standard AB Glue (Epoxy)**      | $60^\circ\text{C}$ to $80^\circ\text{C}$ (max $100^\circ\text{C}$) | Common fast-setting epoxy; loses strength and softens rapidly when exposed to heat.                        |
+| **High-Temp AB Glue (Epoxy)**     | $120^\circ\text{C}$ to $300^\circ\text{C}$                         | Formulated with heat-resistant fillers; solid mechanical strength and low shrinkage for mid-to-high temps. |
+| **Silicone High-Temp Glue (RTV)** | $250^\circ\text{C}$ (short-term $300^\circ\text{C}$)               | Excellent elasticity, vibration dampening, and waterproofing; ideal for gaskets and engine components.     |
+| **Inorganic High-Temp Glue**      | $1000^\circ\text{C}$ to $1500^\circ\text{C}$                       | Ceramic/silicate-based; cures like cement for extreme environments like furnaces and exhaust systems.      |
+
+
+
 ## Mechanical Strength Summary
 
 - [[fab-product-dat]]

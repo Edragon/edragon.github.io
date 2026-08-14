@@ -1,6 +1,28 @@
 
 # epoxy-glue-dat.md
 
+
+
+## apps 
+
+- 昆虫标本 
+
+![](2026-08-13-21-10-01.png)
+
+
+- 防水
+
+
+
+
+## info 
+
+AB胶通常是环氧树脂胶，分为树脂（Resin）和固化剂（Hardener）两部分。
+
+
+
+
+
 epoxy glue is commonly referred to as AB glue.
 
 三、推荐的具体胶水（常见好买）
@@ -19,3 +41,8 @@ epoxy glue is commonly referred to as AB glue.
 Loctite EA 9460 / 9480
 
 Loctite 330（配底涂）（丙烯酸）
+
+
+
+
+## ref 

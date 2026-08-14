@@ -7,7 +7,7 @@
 
 - [[silicone-dat]] - [[polyurethane-dat]] - [[epoxy-resin-dat]] == 透明硅胶、聚氨酯（PU）胶或环氧树脂
 
-
+- [[glue-dat]]
 
 ## app 
 
