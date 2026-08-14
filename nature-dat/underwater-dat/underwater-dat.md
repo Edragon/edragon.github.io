@@ -5,14 +5,8 @@
 
 - [[underwater-dat]] - [[nature-dat]]
 
+- [[camera-wireless-dat]]
 
-
-
-## solutions 
-
-- [[phone-dat]] with waterproof-pocket 
-
-- [[insta360-dat]] 
 
 
 

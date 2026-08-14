@@ -5,7 +5,7 @@
 
 [ESP32-S3 Development Board, Dual USB, Wifi + BLE5](https://www.electrodragon.com/product/esp32-s3-development-board-dual-usb-wifi-ble5/)
 
-
+version == `N8R2`
 
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
@@ -16,9 +16,18 @@ all boards info - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-VCC-dat]] - [[ESP32-
 
 board info refer to - [[ESP32-S3-board-VCC-dat]]
 
+
+
+
+
 ## Applications, category, tags, etc. 
 
 ## Demo Code and Video
+
+
+
+
+
 
 ## ref 
 

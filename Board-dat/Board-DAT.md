@@ -444,7 +444,7 @@ Quectel - 2G
 
 ### NWI
 
-
+- [[ESP32-S3-dat]] - [[NWI1244-dat]]
 
 - [[NWI1050-DAT]] - [[NWI1053-dat]] - [[NWI1070-DAT]] 
 
