@@ -1,6 +1,18 @@
 
 # RC-controller-dat
 
+
+
+
+- [[RC-controller-dat]] - [[radiomaster-dat]] - [[flysky-dat]] - [[GFSK-dat]] - [[GPSK-dat]]
+
+- [[DSSS-dat]] - [[FHSS-dat]] - [[spectrum-dat]] - [[spectrum-spread-dat]]
+
+- [[ledi-dat]]
+
+
+
+
 Check **Channel Map**: should be **AETR**.
 
 - A: Aileron (Roll)
@@ -166,4 +178,4 @@ If it's controlling elevator (pitch):
 
 - https://docs.px4.io/v1.11/en/getting_started/rc_transmitter_receiver.html
 
-- [[RC-dat]]
+- [[RC-dat]] - [[RC]]

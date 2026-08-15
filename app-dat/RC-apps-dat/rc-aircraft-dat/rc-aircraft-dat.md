@@ -6,7 +6,7 @@
 
 - [[quadcopter-dat]] - [[FPV-dat]] - [[mobula8-dat]] - [[UAV-dat]] - [[DJI-quadcopter-dat]]
 
-
+- [[radiomaster-dat]]
 
 
 ## mode 

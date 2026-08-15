@@ -1,6 +1,10 @@
 
 # radiomaster-dat
 
+
+- [[RC-controller-dat]] - [[radiomaster-dat]]
+
+
 basic information vist at - [[RC-controller-dat]]
 
 - [[esp32-s3-dat]] - [[NWI1243-dat]]
