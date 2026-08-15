@@ -1,6 +1,11 @@
 
 # adb-dat
 
+- [[android-bootloader-dat]]
+
+https://developer.android.google.cn/studio/releases/platform-tools.html?hl=zh-cn
+
+ADB工具安装要手动去设备管理器安装。操作方法为：连接电脑----电脑打开设备管理器----找到手机的选项----属性----驱动程序----更新驱动程序----手动查找驱动程序----选择下载好的ADB驱动安装即可
 
 
 When your Pixel 2 is recognized strictly as an ADB interface rather than a storage device, Windows attaches the Android Composite ADB Interface driver to the USB device composite parent instead of mounting the MTP (Media Transfer Protocol) storage driver.
