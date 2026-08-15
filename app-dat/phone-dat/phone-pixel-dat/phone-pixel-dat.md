@@ -1,8 +1,14 @@
 
 # phone-pixel-dat
 
-- [[pixel-7-dat]] - [[pixel-3xl-dat]]
+
+
+
+
+- [[pixel-7-dat]] - [[pixel-3-dat]] - [[pixel8-dat]]
  
+
+
 - [[USB-type-c-dat]] - [[type-c-to-ethernet-dat]] - [[displayPort-dat]]
 
 
