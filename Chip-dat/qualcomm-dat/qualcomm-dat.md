@@ -1,6 +1,11 @@
 
 # qualcomm-dat
 
+
+
+- [[qualcomm-dat]] - [[qualcomm-snapdragon-dat]]
+
+
 - [[CSRA64215-dat]]
 
 - [[A212-dat]] platform

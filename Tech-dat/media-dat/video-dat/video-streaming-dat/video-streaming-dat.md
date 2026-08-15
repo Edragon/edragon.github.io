@@ -9,12 +9,43 @@
 - [[SRS-dat]] - [[SRT-dat]] - [[video-streaming-dat]] - [[video-dat]]
 
 
+- [[android-app-dat]] - [[android-dat]]
+
+
+## service 
+
+### go2rtc 
+
+对，需要填！ go2rtc 的 streams 配置里要写手机摄像头流的具体地址，格式就是 协议://手机IP:端口/路径。
+
+
 
 ## android 
 
 - [[android-dat]] - [[APK-dat]] 
 
 - good to use IP webcamera 
+
+
+### Android IP Camera
+
+❌ Android IP Camera：不支持 RTMP/SRT 推流
+
+它支持的协议：
+
+    ✅ HTTPS 网页流：https://<IP>:4444/video/mjpeg
+    ✅ H.264 流：https://<IP>:4444/video/h264
+    ✅ 音频流：https://<IP>:4444/audio
+    ✅ MJPEG（Frigate/Home Assistant 直接接入）
+
+但注意：GitHub 文档里有用 go2rtc 中转的方案——本地用 go2rtc 把它的 HTTPS 流转成 RTSP 再接入监控系统（Frigate 就是这么干的）。所以：
+- 直连：不支持 RTMP/SRT ❌
+- 中转：可以（ go2rtc/ffmpeg 转换）⚠️ 需要额外电脑跑服务
+
+## Larix Broadcaster
+
+Larix Broadcaster 是最佳选择（开源、支持 SRT+RTMP、Play/F-Droid 都有）——需要我帮你下载 Larix 的 APK 吗？📥
+
 
 ## RTMP
 

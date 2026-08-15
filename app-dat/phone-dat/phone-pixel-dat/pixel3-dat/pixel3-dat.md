@@ -1,6 +1,23 @@
 
 
-# pixel-3xl-dat.md
+# pixel3-dat.md
+
+
+## specs 
+
+FDD-LTE: B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/29/32/66/71
+
+TD-LTE:  B38/39/40/41/42/46  
+
+- [[network-carrier-dat]] - [[carrier-dat]]
+
+
+Pixel 3 是"中国信号完全可用"的谷歌机——TD-LTE 全频段支持，移动/联通/电信 4G 都能用（电信需要开通 VoLTE）。
+
+
+
+
+## info 
 
 ![](2025-11-19-16-16-51.png)
 

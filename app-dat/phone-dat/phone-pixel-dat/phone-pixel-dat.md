@@ -3,17 +3,18 @@
 
 
 
+- [[network-dat]] - [[carrier-dat]] - [[LTE-dat]] - [[voLTE-dat]] - [[phone-pixel-dat]]
 
 
-- [[pixel-7-dat]] - [[pixel-3-dat]] - [[pixel8-dat]]
+- [[pixel7-dat]] - [[pixel3-dat]] - [[pixel8-dat]]
  
 
 
 - [[USB-type-c-dat]] - [[type-c-to-ethernet-dat]] - [[displayPort-dat]]
 
+- [[android-dat]] - [[ADB-dat]] - [[phone-dat]]
 
-
-
+- [[phone-dat]]
 
 
 ## 📱 Google Pixel 7 — Charging Support Overview

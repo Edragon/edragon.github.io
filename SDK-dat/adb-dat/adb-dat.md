@@ -1,6 +1,17 @@
 
 # adb-dat
 
+
+
+When your Pixel 2 is recognized strictly as an ADB interface rather than a storage device, Windows attaches the Android Composite ADB Interface driver to the USB device composite parent instead of mounting the MTP (Media Transfer Protocol) storage driver.
+
+![](2026-08-15-14-19-06.png)
+
+
+- [[android-dat]] - [[ADB-dat]] - [[phone-dat]]
+
+- [[android-root-dat]]
+
 - [[ADB.7z]] - unzip and get to windows system environment path == 7446 KB 
 
 adb devices
