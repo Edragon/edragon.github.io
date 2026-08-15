@@ -11,6 +11,9 @@
 
 - [[motion-dat]]
 
+- [[grease-dat]] - [[fab-mechanics-dat]]
+
+
 ## power-tools
 
 - [[fab-drill-dat]] - [[drill-electric-dat]] - [[drill-bit-dat]] - [[tools-power-dat]]
