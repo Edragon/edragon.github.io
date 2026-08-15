@@ -2,6 +2,11 @@
 
 # android-app-dat
 
+
+
+- [[termux-dat]] - [[tailscale-dat]] - [[FRP-dat]]
+
+
 | app                    | android 13 | android 11 |
 | ---------------------- | ---------- | ---------- |
 | Latrix                 |            |            |

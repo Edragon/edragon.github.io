@@ -3,6 +3,7 @@
 
 - [[phone-pixel-dat]] - [[google-nexus-dat]] - [[phone-hack-dat]]
 
+- [[android-dat]] - [[android-app-dat]]
 
 - [[phone-secondhand-dat]]
 
@@ -11,6 +12,10 @@
 - [[USB-type-c-dat]]
 
 - [[video-dat]] - [[video-streaming-dat]]
+
+
+
+
 
 
 ## ref 
