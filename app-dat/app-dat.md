@@ -29,7 +29,7 @@
 
 ## Domestic Appliances 
 
-- [[logic-inverter-dat/logic-inverter-dat/logic-inverter-dat]] or [[data-logger-dat]], [[eneregy-meter-dat]]
+- [[logic-inverter-dat]] or [[data-logger-dat]], [[meter-eneregy-dat]]
 
 - [[solar-power-dat]] - [[power-storage-dat]]
   
