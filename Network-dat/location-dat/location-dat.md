@@ -12,6 +12,7 @@
 - [[antenna-location-dat]]
 
 
+- [[interface-dat]] - [[serial-dat]] - [[XH2.54-dat]]
 
 
 ## boards 

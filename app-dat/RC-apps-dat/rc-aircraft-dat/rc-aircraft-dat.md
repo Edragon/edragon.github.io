@@ -9,6 +9,19 @@
 
 
 
+## mode 
+
+- 定高 Althold
+- 悬停 Hover
+- 返航 Return
+- 降落 Land
+- 绕卷 Circle
+- 无头 Headless
+- 自稳 Stabilization
+- 有头 Head
+- 失控返航 Out of control return
+- 低电降落 Low power down
+
 
 
 

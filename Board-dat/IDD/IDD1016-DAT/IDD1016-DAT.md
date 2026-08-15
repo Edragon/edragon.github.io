@@ -19,6 +19,9 @@ https://w.electrodragon.com/w/ESP32_RMP
 - only spare pins IO10 IO9 IO38 IO37
 - SEL1 pin is the SEL-PIN4 in [[HUB75-dat]]
 
+
+
+
 ## Use guide
 
 You will need ESP32 main controller board to stack on it. Includes:

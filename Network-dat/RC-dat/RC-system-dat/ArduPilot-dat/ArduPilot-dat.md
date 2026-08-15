@@ -3,6 +3,10 @@
 
 https://ardupilot.org/rover/index.html
 
+无人机飞控软件系统
+
+无人机飞控的软件系统---也就是飞控固件，采用当今使用广泛的无人机开源项目Ardupilot。（ArduPilot项目提供了一个先进的、功能齐全的、可靠的开源自动驾驶仪软件系统。)它能够控制几乎所有可以想象的无人系统对于喜欢科技、机器人、无人机的朋友来说，了解Ardupilot会带你进入一个广阔而有趣的天地。
+
 
 
 ## Radio Control Systems

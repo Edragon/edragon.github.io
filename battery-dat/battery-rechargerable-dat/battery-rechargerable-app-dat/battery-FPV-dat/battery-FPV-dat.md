@@ -1,6 +1,10 @@
 
 # battery-FPV-dat
 
+
+![](2026-08-15-20-30-56.png)
+
+
 ## happymodel 
 
 航模1S LIHV高压 3.8v 650mah 30C穿越机锂电池 Moblite7用 PH2.0
