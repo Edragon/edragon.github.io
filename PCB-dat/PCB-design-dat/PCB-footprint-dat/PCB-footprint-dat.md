@@ -85,19 +85,34 @@ This value represents the component thickness, used to compensate for the nozzle
 
 - [[TQFP-dat]]
 
+## pitch 0.65mm 
+
+- [[SON-dat]]
+
 ## pitch 0.5mm footprint
+
+
+
 
 - [[QFN-dat]] - [[WLP-dat]] == [[MAX98357-dat]] - [[BQ51050-dat]]
 
 - [[QFP-dat]] 
 
-- [[SSOP-dat]] 
+- [[SSOP-dat]] - [[VSSOP-dat]] - [[VFSOP-dat]]
 
 
 
 ## pitch 0.4mm footprint
 
 - pitch 0.5mm [[DF40-dat]]
+
+## uncommon 
+
+`X2SON-8` - [[TXS0102-dat]] 
+
+
+![](2026-08-16-22-23-35.png)
+
 
 
 
