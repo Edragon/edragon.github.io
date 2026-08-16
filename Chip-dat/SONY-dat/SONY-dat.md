@@ -1,7 +1,12 @@
 
 # SONY-dat
 
-- [[IMX708-dat]] - [[IMX415-dat]] - 
+- [[IMX708-dat]] - [[IMX415-dat]] - [[IMX362-dat]] - [[IMX398-dat]] 
+
+- [[IMX378-dat]] - [[IMX219-dat]]
+
+
+
 
 The ISX031-GMSL-Camera-Hxx camera module is designed based on the Sony automotive-grade CMOS image sensor `ISX031`
 
@@ -58,6 +63,10 @@ Choose IMX362 devices (Pixel 2 / OPPO R11 / vivo X20), not the IMX398 (R9s Plus)
 Diagonal 4.60 mm (Type 1/4.0) 8 Mega-Pixel CMOS Image Sensor with Square Pixel for Color Cameras 
 
 ![](2025-07-13-02-05-03.png)
+
+
+
+
 
 #### High-Resolution (3280x2464) Imaging
 
