@@ -3,6 +3,12 @@
 
 - [[PFCEXPRESS-dat]] - [[EURPOST-cn-dat]] - [[USPST-dat]] - [[USPS-dat]]
 
+- [[shipment]] - [[shipment-country]]
+
+
+
+- [[EURPOST]] ~100 / ~6 / ~5 == EURPOST: Intl. + Local Delivery (Ref. ETA. 13-25 Days)
+
 
 ## Notifications
 
