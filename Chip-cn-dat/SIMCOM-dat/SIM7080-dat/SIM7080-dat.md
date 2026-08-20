@@ -37,6 +37,15 @@ Due to the unique combination of performance, security and flexibility, this mod
 
 - datasheet version 1.04 cn 
 
+
+
+`VBAT` -- 34,35 -- Power supply, voltage range:2.7V~4.8V.
+
+`VDD EXT` -- 40 -- LDO power output 1.8V for other external circuits with Max50mA current output.
+
+
+
+
 ## Boards 
 
 - [[NGS1128-dat]]

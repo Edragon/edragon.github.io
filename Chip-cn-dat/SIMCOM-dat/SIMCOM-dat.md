@@ -1,5 +1,5 @@
 
-# simcom dat 
+# simcom-dat 
 
 https://www.electrodragon.com/w/Category:SIMCOM#Schematic
 

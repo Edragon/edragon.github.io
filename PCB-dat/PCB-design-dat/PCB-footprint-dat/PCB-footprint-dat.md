@@ -100,7 +100,17 @@ This value represents the component thickness, used to compensate for the nozzle
 
 - [[SSOP-dat]] - [[VSSOP-dat]] - [[VFSOP-dat]]
 
+VSSOP - p0.5 / w3.1
 
+![](2026-08-20-15-53-20.png)
+
+SSOP - p0.65 / w3.8 
+
+![](2026-08-20-15-54-35.png)
+
+MSOP - p0.65 / w3.0
+
+![](2026-08-20-16-01-50.png)
 
 ## pitch 0.4mm footprint
 
@@ -108,12 +118,12 @@ This value represents the component thickness, used to compensate for the nozzle
 
 ## uncommon 
 
-`X2SON-8` - [[TXS0102-dat]] 
+`X2SON-8` - [[TXS0102-dat]] - p0.35 / w0.9
 
 
 ![](2026-08-16-22-23-35.png)
 
-
+![](2026-08-20-15-52-43.png)
 
 
 ## common footprint libraries 
