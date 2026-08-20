@@ -1,6 +1,9 @@
 
 # SIM7020-DAT
 
+
+- [[board-dat]] - [[NGS1095-dat]] - [[NGS1096-dat]]
+
 https://www.electrodragon.com/product/sim7020e-4g-nbiot-mini-development-board/
 
 - [[SIM7020-dat]] - [[SIM7028-dat]] - [[SIM7022-dat]] - [[NBIOT-dat]] - [[SIMCOM-dat]]

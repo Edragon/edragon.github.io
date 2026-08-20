@@ -100,15 +100,15 @@ This value represents the component thickness, used to compensate for the nozzle
 
 - [[SSOP-dat]] - [[VSSOP-dat]] - [[VFSOP-dat]]
 
-VSSOP - p0.5 / w3.1
+`VSSOP` - p0.5 / w3.1
 
 ![](2026-08-20-15-53-20.png)
 
-SSOP - p0.65 / w3.8 
+`SSOP` - p0.65 / w3.8 
 
 ![](2026-08-20-15-54-35.png)
 
-MSOP - p0.65 / w3.0
+`MSOP` - p0.65 / w3.0
 
 ![](2026-08-20-16-01-50.png)
 
