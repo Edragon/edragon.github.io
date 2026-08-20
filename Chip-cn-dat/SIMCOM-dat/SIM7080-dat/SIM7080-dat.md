@@ -1,10 +1,14 @@
 
 # SIM7080-dat
 
+
+- [[NGS1129-dat]]
+
+
 - [[M2M-dat]] - [[CAT-M-dat]] - [[CAT-NB-dat]] - [[SIMCOM-dat]] - [[SIM7080-dat]]
 
 
-price up from 56 - 80 cny == 24 / 6 = 4 usd
+- [[board-price-up-dat]]
 
 
 
@@ -26,6 +30,12 @@ Due to the unique combination of performance, security and flexibility, this mod
 ![](2024-07-03-16-32-36.png)
 
 
+
+## HDK 
+
+- hardware datasheet == [[SIM7080G_Hardware_Design_V1.03.pdf]]
+
+- datasheet version 1.04 cn 
 
 ## Boards 
 

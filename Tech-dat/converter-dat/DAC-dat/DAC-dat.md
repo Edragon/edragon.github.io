@@ -37,6 +37,7 @@ legacy wiki page == https://www.electrodragon.com/w/AD/DA
 
 - [[I2C-dat]] - [[MCP4725-dat]] - [[microchip-dat]] - [[DAC-dat]]
 
+- [[SAM5504B-dat]] - [[dream-dat]] - [[DAC-dat]] - [[DSP-dat]]
 
 
 

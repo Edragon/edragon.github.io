@@ -38,6 +38,7 @@
 
 - [[infrared-app-dat]] - [[LM386-dat]] - [[infrared-dat]] - [[audio-dat]] - [[app-dat]]
 
+- [[DSP-dat]]
 
 ## chip 
 

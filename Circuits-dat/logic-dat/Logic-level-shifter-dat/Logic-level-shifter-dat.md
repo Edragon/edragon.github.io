@@ -5,10 +5,21 @@
 - [[74HC125-dat]] - [[buffer-dat]] - [[74HC14-dat]]
 
 
-- [[logic-level-shifter-dat]] - [[74xx1G125-dat]] - [[74hct245-dat]] - [[74HC4050-dat]]
 
 - [[TI-dat]] - [[TI-logic-dat]]
 
+## signal direction 
+
+- [[logic-level-shifter-dat]] - [[74xx1G125-dat]] - [[74hct245-dat]] - [[74HC4050-dat]]
+
+## dual direction 
+
+- [[TXS0102-dat]]
+
+
+## design 
+
+- [[attiny1616-dat]]
 
 ## ground floating 
 
@@ -85,6 +96,8 @@ Using a true CMOS buffer chip like this will give you sharp, fast switching edge
 - [[LSF0102-dat]]
 
 - [[TXS0102-dat]] - [[TXS0108-dat]] - [[TI-logic-dat]]
+
+- [[voltage-dat]] - [[logic-level-shifter-dat]] - [[VBAT-dat]] - [[VDD_ext-dat]] == 1.8V 
 
 Surface Mount TXS0102DCUR VSSOP-8 2-bit Bidirectional Voltage Level Shifter Chip
 
