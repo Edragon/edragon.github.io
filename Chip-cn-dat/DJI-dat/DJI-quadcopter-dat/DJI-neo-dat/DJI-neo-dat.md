@@ -6,24 +6,15 @@
 
 - [[vision-dat]] - [[vision-FPV-dat]] - [[position-hold-dat]] - [[DJI-neo-dat]] - [[DJI-dat]] - [[DJI-quadcopter-dat]]
 
-## info 
-
-| Item            | Size                                                              |
-| :-------------- | :---------------------------------------------------------------- |
-| Propeller       | ~5 in (field-measured; official page does not list prop diameter) |
-| Body dimensions | 130 × 157 × 48.5 mm                                               |
-| Takeoff weight  | ~135 g                                                            |
-| Battery         | 1435 mAh / 10.5 Wh, ~45 g                                         |
-| Flight time     | ~18 min (~17 min with prop guard)                                 |
 
 ## size-class
 
-| Aspect | Value | Classification |
-| :--- | :--- | :--- |
-| Prop size | ~5 in | "5-inch" by prop diameter, but NOT a 5-inch FPV class |
-| Takeoff weight | ~135 g | Sub-250 g nano / palm-sized class |
-| Body | 130 × 157 × 48.5 mm | Palm takeoff/landing |
-| EU class | C0 | Micro drone |
+| Aspect         | Value               | Classification                                        |
+| :------------- | :------------------ | :---------------------------------------------------- |
+| Prop size      | ~5 in               | "5-inch" by prop diameter, but NOT a 5-inch FPV class |
+| Takeoff weight | ~135 g              | Sub-250 g nano / palm-sized class                     |
+| Body           | 130 × 157 × 48.5 mm | Palm takeoff/landing                                  |
+| EU class       | C0                  | Micro drone                                           |
 
 **Key point:** although the props are 5 in, the Neo is classed as a **sub-250 g palm/nano drone**, not a 5-inch FPV machine. A 5-inch FPV build weighs ~500 g with high-KV aggressive power; the Neo uses 5-inch props on a 135 g airframe → extremely low disk loading and an efficiency-first design.
 
@@ -31,13 +22,13 @@
 
 > DJI does not publish the Neo's thrust-to-weight ratio. Values below are community estimates.
 
-| Item | Value |
-| :--- | :--- |
-| Motors | 4 × small 2S motors |
-| Estimated thrust per motor | ~70-80 g |
-| Total thrust (estimate) | ~300-320 g |
-| Aircraft weight | ~135 g |
-| **Thrust-to-weight (estimate)** | **~2.2-2.5 : 1** |
+| Item                            | Value               |
+| :------------------------------ | :------------------ |
+| Motors                          | 4 × small 2S motors |
+| Estimated thrust per motor      | ~70-80 g            |
+| Total thrust (estimate)         | ~300-320 g          |
+| Aircraft weight                 | ~135 g              |
+| **Thrust-to-weight (estimate)** | **~2.2-2.5 : 1**    |
 
 **Reasoning:**
 - 2S battery (7.3 V / 1435 mAh) limits power reserve
