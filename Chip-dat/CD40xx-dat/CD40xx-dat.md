@@ -1,9 +1,9 @@
 
 
-# CDxx-dat
+# CD40xx-dat
 
 
-- [[CDxx-dat]] - [[74xx-dat]] - [[LMxx-dat]]
+- [[CD40xx-dat]] - [[74xx-dat]] - [[LMxx-dat]]
 
 - [[CD4001-dat]] 
 
@@ -13,7 +13,10 @@
 
 * **4067 (16-Channel Analog Multiplexer):** Acts as the **Electronic Switch**. It uses the 4-bit address from the 4161 to connect a "Common" pin to one of 16 different input/output channels.
 
-- [[CD4067-dat]]
+- [[CD4067-dat]] - [[cd4161-dat]] 
+
+
+- [[CD4017-dat]]
 
 
 ## apps 
