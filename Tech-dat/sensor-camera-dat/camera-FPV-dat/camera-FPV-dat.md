@@ -23,7 +23,7 @@
 
 - [[runCAM-dat]] - [[runCAM-nano4-dat]] - [[runCAM-nano3-dat]] - [[runCAM-nano2-dat]] - [[runcam-split3-dat]]
 
-
+- [[camera-FPV-dat]] - [[camera-FPV-angle-dat]]
 
 ## camera 
 
