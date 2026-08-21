@@ -12,6 +12,7 @@
 - [[amplifier-audio-dat]]
 
 
+
 ## boards 
 
 - [[NBL1037-dat]] - [[NBL1038-dat]] - [[NBL1097-dat]]
@@ -80,6 +81,42 @@ Bluetooth 5.0 does support longer range but with a 10 meters range this solution
 - Bluetooth 5 introduces the ability to perform periodic data to be broadcast, it’s possible to chain packets and deterministic advertising, which allows scanners together and for each packet to contain a different to synchronicity their scanning for packets with the subset of the whole data set. Schedule of the advertising device. This can be a more power-efficient way to perform scanning and is also likely to pave the way for new uses of Bluetooth LE in connection-less scenarios, such as audio applications
 - The Bluetooth 4 channel selection algorithm used in frequency hopping produced only 12 distinct sequences of channels and all packets in a given connection event would use the same channel, which is not optimal for some applications, such as audio. Bluetooth 5 introduced a new channel selection algorithm called channel selection algorithm #2. Hopping sequences are now pseudo random and the distinct sequences which are possible are very large.
 - Bluetooth’s advertising extensions feature will pave the way for next-generation beacons, advanced audio applications and more.
+
+
+## tech info 
+
+### profile 
+
+A2DP (Advanced Audio Distribution Profile) is a Bluetooth profile that defines how high-quality audio can be streamed from one device to another over a Bluetooth connection. It is commonly used for wireless audio streaming between devices such as smartphones, tablets, computers, and Bluetooth-enabled speakers or headphones.
+
+### codec 
+
+SBC stands for Low Complexity Subband Codec. It is the default, mandatory audio codec for the Bluetooth Advanced Audio Distribution Profile (A2DP), meaning every Bluetooth audio device (headphones, speakers, smartphones, and computers) supports it.
+
+**LHDC** stands for **Low Latency High-Definition Audio Codec**. Developed by Savitech, it is a high-resolution Bluetooth audio codec designed to compete directly with Sony’s LDAC and Qualcomm’s aptX Adaptive. - [[qualcomm-dat]]
+
+
+### AAC and LDAC?
+
+- [[apple-dat]] - [[sony-dat]]
+
+Both are popular Bluetooth audio codecs, but they serve different priorities: **AAC** focuses on efficiency and Apple ecosystem integration, while **LDAC** focuses on maximum high-resolution audio quality.
+
+## 1. AAC (Advanced Audio Coding)
+* **What it is:** A lossy compression codec standardized by MPEG. While widely used for general audio (and the default standard for Apple devices), it is also supported over Bluetooth.
+* **Bitrate:** Typically streams around **250 kbps** over Bluetooth.
+* **Pros:** Highly optimized for power efficiency and sound quality on iOS devices (iPhone, iPad, Mac); widely supported on Android as well.
+* **Cons:** Performance varies significantly depending on the sending device's operating system and encoder implementation (Android often handles AAC less efficiently than iOS).
+
+## 2. LDAC
+* **What it is:** A high-resolution Bluetooth audio codec developed by **Sony**.
+* **Bitrate:** Scales dynamically up to **990 kbps** (with lower fallback tiers of 660 kbps and 330 kbps for unstable connections).
+* **Audio Quality:** Supports up to **24-bit / 96kHz** Hi-Res audio transmission.
+* **Pros:** Exceptional audio detail and minimal compression artifacts; built directly into Android (version 8.0 and above).
+* **Cons:** Consumes more battery and bandwidth; can suffer from stuttering or dropouts in crowded wireless environments when locked to the highest 990 kbps bitrate. Not natively supported by Apple devices.
+
+
+
 
 
 

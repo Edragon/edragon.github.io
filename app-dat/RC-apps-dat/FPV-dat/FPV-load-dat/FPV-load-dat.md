@@ -10,19 +10,104 @@
 - [[thrust-dat]]
 
 
+**续航一样是"比例关系"，载重是"绝对数量"**，两者逻辑完全不同。拆开：
+
+---
+
+**载重 = 绝对能力，跟着"基础重量"走**
+
+关键概念：**载重能力 ≈ 基础重量的固定比例**（由推重比决定）
+
+| 尺寸   | 基础重量 | 可挂载                           | 挂载占比 |
+| :----- | :------- | :------------------------------- | :------- |
+| 3.5 寸 | 250g     | ~100-150g（GoPro 勉强）          | 40-60%   |
+| 5 寸   | 500g     | **~300-400g（GoPro 轻松+云台）** | 60-80%   |
+| 7 寸   | 1000g    | ~500-800g（微单云台）            | 50-80%   |
+
+**推重比相同（比如都是 3:1）时：**
+
+```text
+3.5寸：推力 750g - 自重 250g = 可载 500g？不，实际不是这样
+```
+
+等等——实际可载不是简单减法，因为**挂载会恶化桨盘载荷和机动性**。简化理解：
+
+---
+
+**为什么 5 寸能轻松挂 GoPro，3.5 寸勉强？**
+
+**① 绝对余量不同**
+
+同样挂 100g 的 GoPro：
+
+|              | 3.5 寸 (250g)         | 5 寸 (500g)            |
+| :----------- | :-------------------- | :--------------------- |
+| 挂载前推重比 | 3.5:1                 | 3.5:1                  |
+| 挂载后推重比 | (875)/(350)=**2.5:1** | (1750)/(600)=**2.9:1** |
+| 影响         | ⚠️ 明显下降，手感变肉  | ✅ 影响小，依然灵活     |
+
+**同样的 100g，对小机是"25% 增重"，对大机只有"10% 增重"。**
+
+**② 桨盘载荷的恶化程度不同**
+
+```text
+桨盘载荷 = 总重 ÷ 桨盘面积
+
+3.5寸挂GoPro: 350g ÷ 小桨盘 = 载荷激增 → 要更高转速 → 效率暴跌
+5寸挂GoPro:   600g ÷ 大桨盘 = 载荷温和 → 转速增加不多 → 效率损失小
+```
+
+**③ 结构强度余量**
+
+- 5 寸机架碳板更厚、臂更长，天然为挂载设计
+- 3.5 寸挂重物后机动响应迟钝、容易"头重脚轻"
+
+---
+
+**为什么续航一样但载重不同？—— 核心逻辑**
+
+```text
+续航：能量 ÷ 功率 → 都是"自身比例" → 按比例放大后不变 ✅
+载重：绝对克数 → 由基础重量决定 → 基础重量翻倍，载重翻倍 ✅
+```
+
+|          | 续航                   | 载重             |
+| :------- | :--------------------- | :--------------- |
+| 本质     | **相对量**（自身比例） | **绝对量**（克） |
+| 3.5 vs 5 | 相同                   | 5 寸 ≈ 2-3 倍    |
+
+---
+
+**类比**
+
+> **续航 = "油箱能跑多远"（和车大小无关，按比例都一样）；载重 = "能拉多少货"（大车就是能多拉）。**
+> 
+> 3.5 寸和 5 寸是"小车和大车"，油耗效率相同（续航一样），但**大车的额定载重就是大**。
+
+---
+
+**实际影响**
+
+| 场景            | 结论                             |
+| :-------------- | :------------------------------- |
+| 挂 GoPro 裸机   | 5 寸轻松，3.5 寸勉强（手感变差） |
+| 挂 GoPro + 云台 | **只有 5 寸+**，3.5 寸带不动     |
+| 挂微单/大相机   | 7 寸+                            |
+
+**这就是为什么航拍至少选 5 寸、最好 7 寸**——不是续航问题，是**载重余量**问题：3.5 寸挂上相机就"飞不动了"，5/7 寸挂上相机依然从容。
 
 ## higher weight for human control feeling 
 
 ### Human Control Feel & Flight Dynamics Breakdown
 
-| Flight Characteristic | Stock Mobula8 (43g Dry / ~69g AUW) | Your Build (50g Dry / ~76g AUW) |
-| :--- | :--- | :--- |
-| **Thrust-to-Weight Ratio** | **~7.5 : 1** | **~6.4 : 1** |
-| **Hover Throttle Point** | **18% – 20%** | **23% – 25%** |
+| Flight Characteristic        | Stock Mobula8 (43g Dry / ~69g AUW)                                    | Your Build (50g Dry / ~76g AUW)                                                           |
+| :--------------------------- | :-------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| **Thrust-to-Weight Ratio**   | **~7.5 : 1**                                                          | **~6.4 : 1**                                                                              |
+| **Hover Throttle Point**     | **18% – 20%**                                                         | **23% – 25%**                                                                             |
 | **Dive Recovery & Catching** | Instant, violent stop. Catches momentum near the ground effortlessly. | Has slight momentum "hang". Requires applying throttle **10–15% earlier** to catch dives. |
-| **Cornering & Momentum** | Extremely snappy; changes direction on a dime. | Minor outward drift on sharp 90° turns due to higher inertia. |
-| **Roll/Pitch Snaps** | Twitchy and ultra-fast. | Slightly smoother, "heavier" feeling transitions. |
-| **Wind Resistance** | Easily bumped around by light wind. | **Better**. Extra mass carries momentum through wind gusts outdoors. |
+| **Cornering & Momentum**     | Extremely snappy; changes direction on a dime.                        | Minor outward drift on sharp 90° turns due to higher inertia.                             |
+| **Roll/Pitch Snaps**         | Twitchy and ultra-fast.                                               | Slightly smoother, "heavier" feeling transitions.                                         |
+| **Wind Resistance**          | Easily bumped around by light wind.                                   | **Better**. Extra mass carries momentum through wind gusts outdoors.                      |
 
 ---
 
