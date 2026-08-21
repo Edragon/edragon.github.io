@@ -6,6 +6,9 @@
 
 - [[IO-panel-dat]] - [[IOs-dat]] - [[GPIO-dat]]
 
+
+
+
 ## info 
 
 
@@ -38,6 +41,12 @@ GPIOS (Giant Pixel Interleaved Octal Shifts) is a method used in data storage an
 ## tech 
 
 - [[NBL1101-dat]] - [[NBL1107-dat]]
+
+
+- [[NES-dat]] - [[CD4021-dat]] - [[input-dat]] - [[GPIO-dat]] - [[IO-expander-dat]]
+
+
+
 
 ## ref 
 

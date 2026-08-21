@@ -16,7 +16,7 @@
 - [[CD4067-dat]] - [[cd4161-dat]] 
 
 
-- [[CD4017-dat]]
+- [[CD4017-dat]] - [[CD4021-dat]] - [[CD40xx-dat]]
 
 
 ## apps 
