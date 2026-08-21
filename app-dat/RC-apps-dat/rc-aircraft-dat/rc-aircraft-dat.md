@@ -9,6 +9,16 @@
 - [[radiomaster-dat]]
 
 
+- [[FPV-size-dat]] - [[DJI-flip-dat]]
+
+- [[DJI-dat]]
+
+## 6in 
+
+- [[DJI-flip-dat]]
+
+
+
 ## mode 
 
 - 定高 Althold

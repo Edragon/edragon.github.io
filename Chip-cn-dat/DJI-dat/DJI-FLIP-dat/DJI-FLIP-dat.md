@@ -4,6 +4,21 @@
 
 - [[DJI-FLIP-dat]] - [[DJI-dat]] - [[FPV-dat]]
 
+
+
+
+## info 
+
+| Item | Size |
+| :--- | :--- |
+| Propeller | 6 in (fits in the enclosed ducts) |
+| Folded body | 136 × 62 × 165 mm (~5.4 × 2.4 × 6.5 in) |
+| Unfolded body | 233 × 280 × 79 mm (~9.2 × 11.0 × 3.1 in) |
+| Takeoff weight | Under 249 g (with battery + microSD) |
+| Battery | 3110 mAh / 22.3 Wh, ~83.5 g |
+
+## endurance 
+
 The DJI Flip can fly for 30+ minutes (officially up to ~30 minutes of hovering; the 1-hour figure is a theoretical low-load cruise value). The core reason is that it follows a completely different design philosophy from an FPV racer: **“efficiency first, performance just good enough”**.
 
 
@@ -36,3 +51,8 @@ If your goal is long hover/photo endurance, copy the Flip’s approach:
 | 4 | Use ducted props if possible |
 
 This again confirms that a 5-inch racing architecture (high thrust-to-weight ratio) is inherently bad for long endurance — either change the architecture (e.g., a 7-inch low-KV cruiser) or accept ~5 minutes.
+
+
+
+
+## ref 
