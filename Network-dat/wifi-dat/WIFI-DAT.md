@@ -9,6 +9,8 @@
 
 - [[WIFI-dat]] - [[ELRS-dat]] - [[WIFI-code-dat]] - [[ELRS-code-dat]]
 
+- [[wifi-dat]] - [[wifi-sense-dat]]
+
 
 ## tech 
 

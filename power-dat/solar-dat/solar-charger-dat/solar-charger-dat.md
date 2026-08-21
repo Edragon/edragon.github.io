@@ -6,6 +6,8 @@
 
 
 
+
+
 ## boards 
 
 - [[BAT1002-dat]]
@@ -24,6 +26,8 @@
 - [[XL3163-dat]] - [[XL-dat]] - [[dcdc-down-dat]] - [[solar-dat]] - [[CV&CC-dat]]
 
 - [[CN3065-dat]] - [[consonance-dat]]
+
+- [[BQ25186-dat]] - [[TI-power-dat]]
 
 ## ref 
 

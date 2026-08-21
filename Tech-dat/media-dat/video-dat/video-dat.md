@@ -13,13 +13,18 @@
 - [[vision-dat]] - [[video-dat]] - [[sensor-Camera-dat]]
 
 
-## tech 
+## tech interface
 
 - [[video-baluns-dat]]
 
 - [[VOIP-dat]] 
 
+- [[HDMI-dat]] - [[camera-CSI-dat]] - [[interface-dat]] - [[MIPI-dat]] - [[video-dat]]
 
+
+## chip 
+
+- [[toshiba-dat]] - [[TC358743-dat]]
 
 ## APPS
 

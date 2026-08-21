@@ -1,12 +1,28 @@
 
 # HDMI-dat
 
+- [[HDMI-dat]] - [[camera-CSI-dat]] - [[interface-dat]] - [[MIPI-dat]] - [[video-dat]]
+
+
 
 ## usage 
 
 - [[HDMI-dat]] - [[USB-type-c-dat]] - need [[displayport-dat]]
 
 - [[USB-dat]]
+
+
+
+## tech 
+
+- [[HDCP-dat]] - [[DDC-dat]] - [[EDID-dat]]
+
+- [[HDMI-RX-dat]] - [[MIPI-CSI-TX-dat]]
+
+## chips 
+
+- [[toshiba-dat]] - [[TC358743-dat]]
+
 
 ## SCH 
 

@@ -13,7 +13,7 @@
 
 - [[VPU-dat]] - [[NPU-dat]]
 
-
+- [[wifi-dat]] - [[wifi-sense-dat]]
 
 ## function 
 
@@ -26,6 +26,9 @@
 
 
 ## projects 
+
+
+
 
 Open source vision project: 
 
@@ -42,6 +45,12 @@ Open source vision project:
 - **Use Case**: Real-time object detection.
 - **GitHub**: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - **Note**: Fast, widely used for real-time detection.
+
+https://pjreddie.com/darknet/ - https://github.com/pjreddie/darknet - Running on that framework is the YOLO (You Only Look Once) real-time object detection system. To get useful results, the system must be trained on large amounts of sample data. 
+
+https://github.com/AlexeyAB/darknet - [Kurokesu]’s walkthrough on pedestrian detection is great, but for those interested in taking a step further back and rolling their own projects, this fork of Darknet contains YOLO for Linux and Windows and includes practical notes and guides on installing, using, and training from a more general perspective. 
+
+
 
 
 - [[OPENCV-dat]] - [[OPENMV-dat]]

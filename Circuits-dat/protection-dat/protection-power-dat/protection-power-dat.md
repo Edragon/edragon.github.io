@@ -20,8 +20,21 @@
 
 - [[protection-ESD-dat]]
 
+- [[protection-power-dat]] - [[BQ25186-dat]]
 
 ## Power Protection 
+
+
+
+- Input overvoltage protection (`VIN_OVP`)
+- Battery short protection (`BATSC`)
+- Battery overcurrent protection (`BATOCP`)
+- Input current limit protection (`ILIM`)
+- Thermal regulation (`TREG`) and thermal shutdown (`TSHUT`)
+- Battery thermal fault protection (`TS`)
+- Watchdog and safety timer fault
+
+
 
 - overload
 - short-circuit-protection - [[SCP-protection-dat]] - [[fuse-dat]]

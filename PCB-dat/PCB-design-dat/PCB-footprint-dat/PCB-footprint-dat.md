@@ -126,6 +126,13 @@ This value represents the component thickness, used to compensate for the nozzle
 ![](2026-08-20-15-52-43.png)
 
 
+`DLH WSON-10 - 0.8` - p0.4 / w2.1
+
+![](2026-08-21-15-40-53.png)
+
+
+
+
 ## common footprint libraries 
 
 - [[nettie-dat]]

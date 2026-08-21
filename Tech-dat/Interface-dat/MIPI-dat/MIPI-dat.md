@@ -1,7 +1,9 @@
 
 # MIPI-dat
 
+- [[HDMI-dat]] - [[camera-CSI-dat]] - [[interface-dat]] - [[MIPI-dat]] - [[video-dat]]
 
+- [[camera-CSI-dat]] - [[MIPI-CSI-dat]] - [[MIPI-DSI-dat]]
 
 ## concept 
 

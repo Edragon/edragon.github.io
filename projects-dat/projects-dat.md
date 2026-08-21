@@ -11,6 +11,11 @@
 - [[projects-dat]] - [[github-projects-dat]] - [[bilibili-projects-dat]] - [[youtube-projects-dat]] 
 
 
+
+## esp32 
+
+- [[esp32-projects-dat]] - [[esp32-dat]] - [[projects-dat]]
+
 ## robotic 
 
 - [[robotic-project-list-dat]] - [[projects-dat]]
