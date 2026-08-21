@@ -1,7 +1,7 @@
 
 # ADC-bat-monitor-dat
 
-- [[voltage-divider-dat]]
+- [[voltage-divider-dat]] - [[battery-charger-dat]]
 
 ## ESP8266 ~ scale up to 1V 
 

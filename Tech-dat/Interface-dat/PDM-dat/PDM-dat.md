@@ -64,6 +64,9 @@ To use this specific microphone, you must tell the ESP32 to enable its internal 
 - PDM_DATA
 - PDM_CLK
 
+IM72D128V01XTMA1 - [[PDM-dat]]
+
+
 ![](2026-08-01-16-21-22.png)
 
 

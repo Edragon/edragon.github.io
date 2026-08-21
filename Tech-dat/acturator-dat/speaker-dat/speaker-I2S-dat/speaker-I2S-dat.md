@@ -4,7 +4,7 @@
 
 - [[amplifier-dat]]
 
-
+- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] 
 
 
 
@@ -24,6 +24,8 @@ I2S DAC Decoder speaker
 - [[UDA1334-dat]] - [[AMP1013-dat]] - [[NXP-dat]]
 
 - [[HT517-dat]] - [[heroic-dat]] - [[speaker-I2S-dat]]
+
+- [[WM8960-dat]]
 
 
 ## Common Microphone, Speaker Wiring 

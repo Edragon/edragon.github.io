@@ -1,6 +1,8 @@
 
 # power-distribution-dat
 
+- [[battery-dat]] - [[battery-charger-dat]] - [[ADC-bat-monitor-dat]]
+
 - [[USB-SYS-dat]]
 
 ## 12/24V to 3.3V
@@ -73,6 +75,11 @@ working table
 ## APP SCH 
 
 
+
+build 3 - Automatic Power Source Selection and On/Off Switch
+
+![](2026-08-21-16-30-29.png)
+
 build 2 - [[dcdc-boost-down-dat]] + [[power-distribution-dat]] + [[battery-charger-dat]] + [[ADC-bat-monitor-dat]] + [[ESP32-HDK-dat]] + [[LED-dat]]
 
 ![](2026-08-01-16-35-49.png)
@@ -87,6 +94,9 @@ build 2 - [[dcdc-boost-down-dat]] + [[power-distribution-dat]] + [[battery-charg
 build 1 
 
 ![](2026-08-01-16-26-34.png)
+
+
+
 
 
 

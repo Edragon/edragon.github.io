@@ -1,6 +1,8 @@
 
 # sensor-microphone-I2S-dat
 
+- [[PDM-dat]]
+
 - [[sensor-microphone-dat]]
 
 - [[sensor-microphone-I2S-dat]] - [[sensor-mems-dat]]

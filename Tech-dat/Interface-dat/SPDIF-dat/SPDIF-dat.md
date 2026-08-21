@@ -1,6 +1,15 @@
 
 # SPDIF-dat
 
+
+
+- [[Coax-dat]] - 75 ohm S/PDIF output stage
+
+- [[toslink-dat]] 
+
+
+
+
 https://en.wikipedia.org/wiki/S/PDIF
 
 ![](2025-04-24-18-42-26.png)

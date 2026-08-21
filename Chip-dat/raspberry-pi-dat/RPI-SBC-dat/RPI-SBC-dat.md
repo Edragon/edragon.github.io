@@ -28,6 +28,7 @@
 
 - [[3D-dat]]
 
+- [[I2S-dat]]
 
 ### boards 
 
