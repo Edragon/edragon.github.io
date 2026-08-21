@@ -105,6 +105,16 @@ SCH 1
 
 ![](2026-07-23-20-05-29.png)
 
+
+
+## build 
+
+- [[ESP32-dat]] - [[MCU-dat]] - [[peripherals-dat]]
+
+![](2026-08-21-17-14-48.png)
+
+
+
 ## ref 
 
 read more at - [[V3S-dat]]

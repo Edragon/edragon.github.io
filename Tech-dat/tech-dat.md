@@ -134,7 +134,7 @@
 
 ### MCU / CTRL / Processing 
 
-- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]] - [[CPU-dat]] - [[RPI-MCU-dat]]
+- [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]] - [[CPU-dat]] - [[RPI-MCU-dat]] - [[peripherals-dat]]
 
 - [[SBC-dat]] - [[RPI-SBC-dat]] (raspberry pi)
 
@@ -237,7 +237,7 @@
 
 - [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]] - [[I2S-dat]] - [[arduino-audio-dat]] - [[media-dat]] - [[MP3-dat]] - [[voice-detection-dat]]
 
-- [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] 
+- [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] - [[speaker-dat]]
 
 - [[video-dat]] - [[video-wireless-dat]]
 

@@ -22,7 +22,11 @@
 * circuits in the dot line box is optional.
 
 
+## build 
 
+module - [[ESP32-dat]] D25 
+
+![](2026-08-21-17-03-48.png)
 
 ## ref 
 

@@ -7,6 +7,7 @@
 
 - [[I2C-repeater-dat]] - [[I2C-switch-dat]] - [[- [[CONN-dat]] - [[CONN-qwiic-dat]] - [[I2C-isolator-dat]]
 
+- [[I2C-hotswap-dat]]
 
 
 ## debug process 

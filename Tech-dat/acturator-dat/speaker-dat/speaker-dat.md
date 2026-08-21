@@ -13,10 +13,19 @@
 
 [legacy wiki page](https://www.electrodragon.com/w/Speaker)
 
+- [[speaker-driver-dat]]
+
+
 
 ## boards 
 
 - [[SSL1030-dat]] - [[SSL1031-dat]]
+
+
+
+
+
+
 
 
 ## apps 

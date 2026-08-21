@@ -8,6 +8,11 @@
 
 - [[INA226-dat]] - [[MP1584-dat]] - [[AP2204-dat]] - [[encoder-dat]]
 
+- [[I2C-hotswap-dat]] - [[I2C-dat]] - [[interface-dat]] - [[Tech-dat]] - [[diodes-dat]] 
+
+- [[PI6ULS5V9511A-dat]] 
+
+
 
 ## LDO 
 

@@ -24,6 +24,10 @@ There are altogether six gain settings (1X, 2X, 4X, 8X, 48X and 96X) available f
 
 ![](2026-07-24-03-26-28.png)
 
+
+- [[VEML6030-dat]] - [[vishay-dat]] - [[I2C-dat]]
+
+
 ## light sensor 
 
 - [[SMO1090-dat]] - [[SSL1034-dat]] - [[SSL1053-dat]]
