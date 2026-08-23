@@ -121,7 +121,7 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 - [[app-dat]] - [[logic-analyzer-dat]] - [[USB-blaster-dat]] - [[data-acquisition-board-dat]] - [[PINS003-dat]]
 
-
+- [[Micro-Ohmmeter-dat]] - [[app-dat]]
 
 
 ## code 

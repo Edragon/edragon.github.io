@@ -4,6 +4,7 @@
 # meter-resistance-dat
 
 
+== Ohmmeter
 
 - [[meter-internal-resistance-dat]] - [[meter-resistance-dat]] - [[meter-dat]] 
 
@@ -15,6 +16,9 @@
 
 
 
+## apps 
+
+- [[Micro-Ohmmeter-dat]] - [[app-dat]]
 
 
 ## ref 

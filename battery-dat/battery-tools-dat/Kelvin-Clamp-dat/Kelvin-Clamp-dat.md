@@ -6,7 +6,23 @@
 
 - [[kelvin-clamp-dat]]
 
-- [[battery-size-dat/18650-dat/18650-dat]] - [[21700-dat]] - [[battery-li-size-dat]] - [[26650-dat]]
+- [[18650-dat]] - [[21700-dat]] - [[battery-li-size-dat]] - [[26650-dat]] - [[battery-size-dat]]
+
+
+- [[Micro-Ohmmeter-dat]]
+
+## wiring 
+
+Kelvin (4-wire) connection
+
+Two wires inject a known current through the resistor. Two separate wires measure the voltage drop.
+
+This bypasses wiring resistance and lets you use a high-impedance voltmeter or precision ADC for clean readings.
+
+![](2026-08-23-17-28-06.png)
+
+
+## info 
 
 **Crucial!** Standard 2-wire holders introduce voltage drops due to lead and contact resistance, causing premature cut-off readings. 
 
