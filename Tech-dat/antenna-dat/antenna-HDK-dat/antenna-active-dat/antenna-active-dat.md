@@ -9,6 +9,8 @@
 - [[antenna-active-amplifier-dat]] - [[MAX2659-dat]]
 
 
+- [[antenna-dat]] - [[inductor-dat]] 
+
 ## Active Antenna for GNSS - [[A7670-dat]]
 
 
@@ -61,3 +63,5 @@ It is recommended that customers use an LDO/DCDC converter to power the active a
 ## ref 
 
 - [[inductor-dat]]
+
+- [[antenna]] - [[antenna-active]]

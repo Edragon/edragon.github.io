@@ -27,7 +27,7 @@ total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 
 - accessories == PCB vibration absorber //  [[cable-XT-dat]] cable // [[camera-FPV-dat]] canopy // [[screw-dat]]
 
-- [[sensor-dat]] - [[location-dat]]
+- [[sensor-dat]] - [[FPV-build-dat]] - [[location-FPV-dat]] - [[location-dat]]
 
 - remote - [[goggles-dat]]
 

@@ -1,6 +1,12 @@
 
 # bias-T-dat
 
+
+
+- [[inductor-dat]] - [[choke-dat]] - [[choke-rf-dat]] - [[bias-t-dat]]
+
+
+
 ## What is a Bias-T (DC Injection)?
 
 A **Bias-T** is a simple circuit that combines:

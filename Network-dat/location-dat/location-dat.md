@@ -113,6 +113,11 @@ socket interface - [[protection-power-dat]] - [[location-dat]]
 
 
 
+## apps 
+
+- [[location-FPV-dat]]
+
+
 ## ref 
 
 - [[amplifier-GNSS-dat]] - [[amplifier-dat]]
