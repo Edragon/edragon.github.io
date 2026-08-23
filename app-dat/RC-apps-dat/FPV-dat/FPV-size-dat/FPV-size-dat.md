@@ -44,6 +44,29 @@ In short:
 3.5 in and 5 in are effectively the same endurance class, while 7 in is a different efficiency tier. The real reason to move up is not just size—it is payload margin and efficiency.
 
 
+## whoop by size 
+
+# FPV Drone Categories Comparison
+
+| Category        | Size (Wheelbase / Prop)  | Weight (approx) | Features                              | Best Use Case                         | Example Models                       |
+| --------------- | ------------------------ | --------------- | ------------------------------------- | ------------------------------------- | ------------------------------------ |
+| **TinyWhoop**   | 65–75mm / 31–40mm props  | 20–30g          | Ducted, safe, brushed/brushless       | Indoor, beginner, safe around people  | Mobula6, BetaFPV Meteor65            |
+| **MicroWhoop**  | 75–100mm / 40–50mm props | 30–60g          | Brushless, small ducts, more power    | Indoor & small outdoor                | Mobula7, Meteor85                    |
+| **CineWhoop**   | 3 inch / 120–150mm       | 200–400g        | Ducted, smooth flight, carries camera | Cinematic filming (GoPro/naked GoPro) | GEPRC CineLog 30, iFlight Protek35   |
+| **Toothpick**   | 2.5–4 inch / 90–160mm    | 40–120g         | Very light, no ducts, carbon frame    | Outdoor freestyle, nimble flying      | Happymodel Sailfly-X, HX115          |
+| **Micro Quad**  | 100–150mm / 2–3 inch     | 70–150g         | Small frame, not always ducted        | Small park freestyle & racing         | Emax Babyhawk II, iFlight Alpha A85  |
+| **5-inch Quad** | 210–250mm / 5 inch       | 250–600g        | Most common, powerful, versatile      | Freestyle, racing, cinematic w/ GoPro | ImpulseRC Apex, iFlight Nazgul5      |
+| **Long Range**  | 6–7 inch                 | 400–800g+       | Large props, GPS, big batteries       | Long-distance cruising, mountains     | iFlight Chimera7, Flywoo Explorer LR |
+| **X-Class**     | 10–13 inch+              | >2kg            | Huge, heavy lift, pro cameras         | Professional filming, commercial work | Shendrones Siccario, custom builds   |
+
+- **Whoop**:  
+  - Smallest class, typically **65mm–85mm** frames.  
+  - Ducted props (prop guards).  
+  - Prop size: ~31–40 mm.  
+- **Micro (2"–4")**:  
+  - Larger, **90mm–150mm** frames.  
+  - Open props (no ducts, usually).  
+  - Prop size: **2"–4"**.  
 
 
 ## ref

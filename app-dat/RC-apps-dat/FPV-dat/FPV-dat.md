@@ -63,6 +63,7 @@
 
 - [[FPV-stability-dat]] - [[FPV-dat]] - [[FPV-control-dat]]
 
+- [[FPV-build-dat]]
 
 ## learning process and Learning Curve
 
@@ -129,22 +130,6 @@ Light = responsive = beginners feel "overdone". A TinyWhoop demands extremely de
 
 
 
-## build
-
-| indx | parts                     | cost RMB | cost USD/7      | eg. common select |
-| ---- | ------------------------- | -------- | --------------- | ----------------- |
-| 1    | [[frame-dat]]             | 22.5     | 3               | [[mobula8-dat]]   |
-| 2    | [[flight-controller-dat]] | 383      | 55              | [[X12-dat]]       |
-| 3    | [[motor-FPV-dat]] x4      | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
-| 4    | [[propeller-dat]] x4      | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
-| 5    | [[VTX-dat]]               | 81       | 11.6            | Caddx ANT 1200TVL |
-|      | PCB vibration absorber    | 0        | 0               |                   |
-|      | [[XT30-dat]] cable        | 4        | 0.6             |                   |
-|      | [[battery-dat]]  x2       | 55       | 7.9 x2 = 15.8   |                   |
-|      | [[mobula8-dat]]           |          | 100             |                   |
-
-
-- [[CONN-dat]]
 
 ## popular whoops 
 
@@ -171,56 +156,6 @@ Light = responsive = beginners feel "overdone". A TinyWhoop demands extremely de
 
 - [[FPV-takeoff-checklist-dat]]
 
-
-## whoop by size 
-
-# FPV Drone Categories Comparison
-
-| Category        | Size (Wheelbase / Prop)  | Weight (approx) | Features                              | Best Use Case                         | Example Models                       |
-| --------------- | ------------------------ | --------------- | ------------------------------------- | ------------------------------------- | ------------------------------------ |
-| **TinyWhoop**   | 65–75mm / 31–40mm props  | 20–30g          | Ducted, safe, brushed/brushless       | Indoor, beginner, safe around people  | Mobula6, BetaFPV Meteor65            |
-| **MicroWhoop**  | 75–100mm / 40–50mm props | 30–60g          | Brushless, small ducts, more power    | Indoor & small outdoor                | Mobula7, Meteor85                    |
-| **CineWhoop**   | 3 inch / 120–150mm       | 200–400g        | Ducted, smooth flight, carries camera | Cinematic filming (GoPro/naked GoPro) | GEPRC CineLog 30, iFlight Protek35   |
-| **Toothpick**   | 2.5–4 inch / 90–160mm    | 40–120g         | Very light, no ducts, carbon frame    | Outdoor freestyle, nimble flying      | Happymodel Sailfly-X, HX115          |
-| **Micro Quad**  | 100–150mm / 2–3 inch     | 70–150g         | Small frame, not always ducted        | Small park freestyle & racing         | Emax Babyhawk II, iFlight Alpha A85  |
-| **5-inch Quad** | 210–250mm / 5 inch       | 250–600g        | Most common, powerful, versatile      | Freestyle, racing, cinematic w/ GoPro | ImpulseRC Apex, iFlight Nazgul5      |
-| **Long Range**  | 6–7 inch                 | 400–800g+       | Large props, GPS, big batteries       | Long-distance cruising, mountains     | iFlight Chimera7, Flywoo Explorer LR |
-| **X-Class**     | 10–13 inch+              | >2kg            | Huge, heavy lift, pro cameras         | Professional filming, commercial work | Shendrones Siccario, custom builds   |
-
-- **Whoop**:  
-  - Smallest class, typically **65mm–85mm** frames.  
-  - Ducted props (prop guards).  
-  - Prop size: ~31–40 mm.  
-- **Micro (2"–4")**:  
-  - Larger, **90mm–150mm** frames.  
-  - Open props (no ducts, usually).  
-  - Prop size: **2"–4"**.  
-
-
-
-## parts of the FPV drones
-
-
-- [[flight-controller-dat]]
-
-- [[ESC-dat]]
-
-- **Motors**: Provide the thrust needed for flight. Brushless motors are commonly used in FPV drones due to their efficiency and power.
-
-- **Propellers**: Generate lift by spinning rapidly. The size and pitch of the propellers can significantly affect the drone's performance and flight characteristics.
-
-- [[SCU1059-dat]] - [[propeller-dat]]
-
-- **Camera**: Captures real-time video for FPV flying. FPV cameras are designed to provide low-latency video transmission to the pilot's goggles or screen.
-
-- [[VTX-dat]]: Video Transmitters are commonly referred to as VTX units. They are responsible for transmitting the video signal from the camera to the pilot's goggles or screen. VTX units come in various power levels and frequencies, allowing pilots to choose the best option for their flying environment.
-- **Antenna**: Enhances the signal strength and range of the VTX. Different antenna types (e.g., dipole, patch, circular polarized) can be used to optimize performance.
-
-- **ExpressLRS**: A long-range radio control link for FPV drones, known for its low latency and high refresh rates. It is an open-source project that competes with other systems like Crossfire and ELRS.
-
-  - [[ELRS-dat]]
-
-- **Goggles**: Wearable displays that allow pilots to see the live video feed from the drone's camera. They often include features like head tracking and DVR (Digital Video Recorder) capabilities.
 
 
 
@@ -271,88 +206,6 @@ Light = responsive = beginners feel "overdone". A TinyWhoop demands extremely de
   - Fully optimized for **Betaflight & Crossfire**.  
   - Compact, ergonomic design for FPV pilots.  
 - **Website:** [team-blacksheep.com](https://www.team-blacksheep.com/)  
-
-
-## opensource control projects 
-
-# Most Famous Open-Source FPV GitHub Projects
-
-If you're looking for **open-source FPV (First-Person View) projects** on GitHub, here are some of the **most famous** ones:
-
-## 1. [Betaflight](https://github.com/betaflight/betaflight)
-- **Description:** One of the most widely used open-source flight control firmware for FPV drones.
-- **Features:**
-  - Highly optimized for **acrobatic** and **racing drones**.
-  - Supports a wide range of flight controllers.
-  - Advanced **tuning options** for PID, filters, and motor control.
-- **GitHub:** [github.com/betaflight/betaflight](https://github.com/betaflight/betaflight)
-
----
-
-## 2. [iNavFlight](https://github.com/iNavFlight/inav)
-- **Description:** A fork of Betaflight, but optimized for **GPS and long-range FPV**.
-- **Features:**
-  - Supports **GPS waypoint navigation, return-to-home (RTH), and mission planning**.
-  - Designed for **freestyle and long-range cruising** rather than racing.
-- **GitHub:** [github.com/iNavFlight/inav](https://github.com/iNavFlight/inav)
-
----
-
-## 3. [ArduPilot](https://github.com/ArduPilot/ardupilot)
-- **Description:** A professional-grade open-source autopilot for drones, including **FPV quadcopters, planes, and rovers**.
-- **Features:**
-  - **Highly autonomous** with advanced mission planning.
-  - Works with multiple types of vehicles (planes, multirotors, helicopters).
-  - Compatible with **Mission Planner** and **QGroundControl**.
-- **GitHub:** [github.com/ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
-
----
-
-## 4. [PX4](https://github.com/PX4/PX4-Autopilot)
-- **Description:** A powerful open-source **flight control software** used in drones and FPV systems.
-- **Features:**
-  - Supports both **FPV racing drones** and **autonomous UAVs**.
-  - Works with Pixhawk flight controllers and supports **ROS (Robot Operating System)**.
-- **GitHub:** [github.com/PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-
----
-
-## 5. [FalcoX](https://github.com/FlightOne/FalcoX)
-- **Description:** An alternative FPV flight control firmware focusing on **ease of use and smooth flight performance**.
-- **Features:**
-  - Intuitive configuration interface.
-  - Aimed at both **freestyle pilots** and **racers**.
-- **GitHub:** [github.com/FlightOne/FalcoX](https://github.com/FlightOne/FalcoX)
-
----
-
-## 6. [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS)
-- **Description:** Open-source long-range **radio control link** for FPV drones, competing with Crossfire and ELRS.
-- **Features:**
-  - **Low latency and high refresh rates** (great for FPV racing).
-  - Compatible with many radio transmitters (TBS, Jumper, Radiomaster).
-- **GitHub:** [github.com/ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS)
-
----
-
-## 7. [OpenHD](https://github.com/OpenHD/OpenHD)
-- **Description:** Open-source **HD video transmission** for FPV drones (alternative to DJI HD systems).
-- **Features:**
-  - Uses **Raspberry Pi + WiFi** for HD FPV video streaming.
-  - Supports OSD (On-Screen Display) and telemetry data.
-- **GitHub:** [github.com/OpenHD/OpenHD](https://github.com/OpenHD/OpenHD)
-
----
-
-## 🔥 Which One Should You Choose?
-| Purpose                                     | Best Open-Source Project                               |
-| ------------------------------------------- | ------------------------------------------------------ |
-| **Racing/Freestyle FPV**                    | [Betaflight](https://github.com/betaflight/betaflight) |
-| **GPS & Long-Range FPV**                    | [iNav](https://github.com/iNavFlight/inav)             |
-| **Full Autopilot (Drones, Planes, Rovers)** | [ArduPilot](https://github.com/ArduPilot/ardupilot)    |
-| **Professional UAVs & Research**            | [PX4](https://github.com/PX4/PX4-Autopilot)            |
-| **HD FPV Video Streaming**                  | [OpenHD](https://github.com/OpenHD/OpenHD)             |
-| **Long-Range Radio Links**                  | [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) |
 
 
 

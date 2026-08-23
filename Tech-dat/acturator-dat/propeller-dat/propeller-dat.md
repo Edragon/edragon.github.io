@@ -93,60 +93,6 @@ DZP30共轴双桨无刷电机30克无反扭对转马达F3P 送双桨厂
 
 
 
-## 2023 
-
-Type(型号)2023
-Blades(桨叶数)3
-Pitch(螺距)2.3in
-Material (材质)PC
-Weight / g(重量/G)0.88g
-Center Hole Inner diameter(中心子内径)1.5mm、1mm
-Prop DiskDiameter(桨盘直径)52.2mm
-CenterThickness(中心厚度)5mm
-MaxProp Width(最大桨叶宽度)8.94mm
-Adaptive Motor(适配马达)1105-1108
-
-乾丰2023三叶（4对）
-
-EX1103 KV11000【CW黑线带红点】
-
-
-## HQProp DT2925 五叶桨 DJI AVATA穿越机FPV无人机桨叶螺旋桨
-
-型号：2.9X2.5X5
-长度:2.9英寸
-螺距：2.5英寸
-叶片：5片
-材质:PC
-重量：2.2G
-桨盘直径:10.6mm
-桨盘厚度：5.3mm
-轴：2.3/2/2.3mm
-适配器：无
-
-
-## Gemfan 乾丰2925 5叶 FPV穿越机螺旋桨3寸桨叶 适配大疆AVATA机子
-
-Gemfan2925-5
-尺寸：2.9 in螺距：2.5in
-材质：pc重量：2.4g（单支）
-中心安装孔径：2mm螺丝固定孔距：5mm
-颜色：透灰，猛男粉，荧光黄
-推荐电机：DJIAVATA/1507/2004
-起飞重量：400g
-包装方式：2CW+2CCW
-
-
-
-
-## Correct setup 
-
-![](2025-09-02-22-39-21.png)
-
-## WRONG SETUP 
-![](2025-09-02-13-09-57.png)
-
-
 
 
 ## boat propeller

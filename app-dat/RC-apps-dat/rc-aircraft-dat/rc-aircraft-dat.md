@@ -4,14 +4,15 @@
 
 - basic - [[RC-kits-dat]] - [[landing-gear-dat]]
 
-- [[quadcopter-dat]] - [[FPV-dat]] - [[mobula8-dat]] - [[UAV-dat]] - [[DJI-quadcopter-dat]]
+- [[quadcopter-dat]] - [[mobula8-dat]] - [[UAV-dat]] - [[DJI-quadcopter-dat]]
 
 - [[radiomaster-dat]]
 
 
-- [[FPV-size-dat]] - [[DJI-flip-dat]]
+- [[FPV-dat]] - [[FPV-size-dat]] 
 
-- [[DJI-dat]]
+
+- [[DJI-dat]] - [[DJI-flip-dat]]
 
 ## 6in 
 

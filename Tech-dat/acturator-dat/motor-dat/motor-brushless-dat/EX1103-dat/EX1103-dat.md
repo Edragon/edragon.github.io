@@ -2,7 +2,7 @@
 # EX1103-dat
 
 - Mode: EX1103
-- KV options: 6000KV 7000KV 8000KV 12000KV
+- KV options: `6000KV` `7000KV` `8000KV` `12000KV`
 - Configu-ration:9N12P
 - Stator Diamter:11mm
 - Stator Length:3mm

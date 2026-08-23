@@ -57,6 +57,88 @@ In **INAV** or **ArduPilot**, map these flight modes to switches on your Radio T
 
 
 
+## opensource control projects 
+
+# Most Famous Open-Source FPV GitHub Projects
+
+If you're looking for **open-source FPV (First-Person View) projects** on GitHub, here are some of the **most famous** ones:
+
+## 1. [Betaflight](https://github.com/betaflight/betaflight)
+- **Description:** One of the most widely used open-source flight control firmware for FPV drones.
+- **Features:**
+  - Highly optimized for **acrobatic** and **racing drones**.
+  - Supports a wide range of flight controllers.
+  - Advanced **tuning options** for PID, filters, and motor control.
+- **GitHub:** [github.com/betaflight/betaflight](https://github.com/betaflight/betaflight)
+
+---
+
+## 2. [iNavFlight](https://github.com/iNavFlight/inav)
+- **Description:** A fork of Betaflight, but optimized for **GPS and long-range FPV**.
+- **Features:**
+  - Supports **GPS waypoint navigation, return-to-home (RTH), and mission planning**.
+  - Designed for **freestyle and long-range cruising** rather than racing.
+- **GitHub:** [github.com/iNavFlight/inav](https://github.com/iNavFlight/inav)
+
+---
+
+## 3. [ArduPilot](https://github.com/ArduPilot/ardupilot)
+- **Description:** A professional-grade open-source autopilot for drones, including **FPV quadcopters, planes, and rovers**.
+- **Features:**
+  - **Highly autonomous** with advanced mission planning.
+  - Works with multiple types of vehicles (planes, multirotors, helicopters).
+  - Compatible with **Mission Planner** and **QGroundControl**.
+- **GitHub:** [github.com/ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
+
+---
+
+## 4. [PX4](https://github.com/PX4/PX4-Autopilot)
+- **Description:** A powerful open-source **flight control software** used in drones and FPV systems.
+- **Features:**
+  - Supports both **FPV racing drones** and **autonomous UAVs**.
+  - Works with Pixhawk flight controllers and supports **ROS (Robot Operating System)**.
+- **GitHub:** [github.com/PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+
+---
+
+## 5. [FalcoX](https://github.com/FlightOne/FalcoX)
+- **Description:** An alternative FPV flight control firmware focusing on **ease of use and smooth flight performance**.
+- **Features:**
+  - Intuitive configuration interface.
+  - Aimed at both **freestyle pilots** and **racers**.
+- **GitHub:** [github.com/FlightOne/FalcoX](https://github.com/FlightOne/FalcoX)
+
+---
+
+## 6. [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS)
+- **Description:** Open-source long-range **radio control link** for FPV drones, competing with Crossfire and ELRS.
+- **Features:**
+  - **Low latency and high refresh rates** (great for FPV racing).
+  - Compatible with many radio transmitters (TBS, Jumper, Radiomaster).
+- **GitHub:** [github.com/ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS)
+
+---
+
+## 7. [OpenHD](https://github.com/OpenHD/OpenHD)
+- **Description:** Open-source **HD video transmission** for FPV drones (alternative to DJI HD systems).
+- **Features:**
+  - Uses **Raspberry Pi + WiFi** for HD FPV video streaming.
+  - Supports OSD (On-Screen Display) and telemetry data.
+- **GitHub:** [github.com/OpenHD/OpenHD](https://github.com/OpenHD/OpenHD)
+
+---
+
+## 🔥 Which One Should You Choose?
+| Purpose                                     | Best Open-Source Project                               |
+| ------------------------------------------- | ------------------------------------------------------ |
+| **Racing/Freestyle FPV**                    | [Betaflight](https://github.com/betaflight/betaflight) |
+| **GPS & Long-Range FPV**                    | [iNav](https://github.com/iNavFlight/inav)             |
+| **Full Autopilot (Drones, Planes, Rovers)** | [ArduPilot](https://github.com/ArduPilot/ardupilot)    |
+| **Professional UAVs & Research**            | [PX4](https://github.com/PX4/PX4-Autopilot)            |
+| **HD FPV Video Streaming**                  | [OpenHD](https://github.com/OpenHD/OpenHD)             |
+| **Long-Range Radio Links**                  | [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) |
+
+
 
 ## ref 
 
