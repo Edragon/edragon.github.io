@@ -8,6 +8,14 @@
 - [[virtualbox-dat]]
 
 
+
+## basic command 
+
+root@VM46294:~/srs# `uname -a`
+Linux VM46294 4.19.0-26-amd64 #1 SMP Debian 4.19.304-1 (2024-01-09) x86_64 GNU/Linux
+
+
+
 ## for F1C100
 
 https://gitee.com/LicheePiNano/Linux.git

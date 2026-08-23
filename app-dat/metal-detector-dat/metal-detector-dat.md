@@ -1,7 +1,40 @@
 # metal-detector-dat
 
 
-## toy basic version 
+
+
+## build 
+
+### ESP32 build version 
+
+![](2026-08-23-17-17-36.png)
+
+GPIO 26 (pulsePin)	200Ω resistor → coil + diode anode	Drives the coil pulse
+GPIO 33 (capPin)	Diode cathode + 0.1nF capacitor	Reads decay voltage (ADC)
+
+
+This DIY Pulse Induction Metal Detector circuit is quite simple. 
+- One end of 200Ω resistor is connected to GPIO 26, 
+- the other end of the resistor is connected to the anode of the IN4007 diode, 
+- and one end of the search coil, which is wound by us from 25 to 30 turns with a diameter of 7cm. 
+
+The inductance of our coil is around 98 μH, which is calculated using the formula below.
+
+  L = (μο * N^2 * A) / l
+
+Where,
+
+- L- Inductance in Henries
+- μο- Permeability, it's 4π*10-7 for Air
+- N- Number of turns
+- A- Inner Core Area (πr2) in m2
+- l- Length of the Coil in meters
+
+The Cathode of the diode is connected to GPIO 33 and 0.1 nF ceramic capacitors, one end, the other end of the 0.1 nF ceramic Capacitor is connected to the search coil's second end and the GND. 
+
+
+
+### toy basic version 
 
 ![](2025-11-14-18-55-52.png)
 
