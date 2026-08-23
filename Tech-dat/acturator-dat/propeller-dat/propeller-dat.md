@@ -2,19 +2,30 @@
 # propeller-dat
 
 
-- [[propeller-KV-dat]] - [[propeller-FPV-dat]] - [[propeller-dat]]
-
-- [[propeller-disc-loading-dat]] - [[power-physics-dat]]
-
-
-- [[propeller-toy-boat-dat]] - [[propeller-dat]] - [[rc-boat-dat]] - [[acturator-dat]] 
-
-
 
 - [[RC-kits-dat]]
 
-
 - [[pump-dat]] - [[pump-jet-dat]] - [[propeller-dat]]
+
+
+## propeller by apps 
+
+- [[propeller-toy-boat-dat]] - [[propeller-dat]] - [[rc-boat-dat]] - [[acturator-dat]] 
+
+- [[propeller-FPV-dat]] - [[propeller-dat]]
+
+
+
+## propeller by function 
+
+- [[propeller-tractor-dat]] - [[propeller-pusher-dat]] - [[propeller-dat]]
+
+
+## propeller's specs
+
+- [[propeller-KV-dat]] - [[propeller-disc-loading-dat]] - [[power-physics-dat]]
+
+ 
 
 
 ## 共轴双桨
