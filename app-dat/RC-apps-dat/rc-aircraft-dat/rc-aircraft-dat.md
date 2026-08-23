@@ -9,10 +9,7 @@
 - [[radiomaster-dat]]
 
 
-- [[FPV-dat]] - [[FPV-size-dat]] 
 
-
-- [[DJI-dat]] - [[DJI-flip-dat]]
 
 ## 6in 
 
@@ -45,6 +42,9 @@
 
 - [[helicopter-dat]]
 
+- [[FPV-dat]] - [[FPV-size-dat]] 
+
+- [[DJI-dat]] - [[DJI-flip-dat]]
 
 
 
@@ -100,6 +100,13 @@ A differential-thrust aircraft does not rely on a conventional rudder to turn. I
 - Left thrust = Right thrust → aircraft flies straight
 
 This is similar to the steering method used by twin-motor RC boats or differential-drive
+
+
+## tech and concept 
+
+- [[aerodynamic-dat]] - [[power-physics-dat]] - [[motion-dat]] - [[network-dat]] - [[physics-dat]]
+
+- [[Center-of-Gravity-dat]] - [[Thrust-dat]] 
 
 
 

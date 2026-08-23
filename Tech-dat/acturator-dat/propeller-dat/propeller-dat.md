@@ -2,6 +2,11 @@
 # propeller-dat
 
 
+- [[propeller-KV-dat]] - [[propeller-FPV-dat]] - [[propeller-dat]]
+
+- [[propeller-disc-loading-dat]] - [[power-physics-dat]]
+
+
 - [[propeller-toy-boat-dat]] - [[propeller-dat]] - [[rc-boat-dat]] - [[acturator-dat]] 
 
 

@@ -1,15 +1,26 @@
 
-# FPV-simulation-dat
+# flight-simulation-dat
+
+- [[fixed-wing-dat]] - [[FPV-dat]] - [[flight-simulation-dat]]
+
+## fixed-wing and others 
+
+- [[android-dat]] == Absolute RC Flight Simulator
+
+特点： 专业的遥控模型模拟器，由 Happy Bytes 开发。  固定翼支持： 提供多款经典的初级和进阶固定翼模型（部分高级机型和场景需要内购）。  核心优势：强调硬核的物理反馈，而不是“街机”式的娱乐飞行。  界面上的触控摇杆设计得很小，不会过多遮挡视线。它还支持导入部分 ClearView 模型的格式，扩展性较好。 
 
 
 
-## phone 
+## FPV 
+
+
+### phone 
 
 - FeelFPV 
 
 
 
-## Popular FPV Simulators for PC
+### Popular FPV Simulators for PC
 
 | Simulator     | Highlights                                                 | Price |
 | ------------- | ---------------------------------------------------------- | ----- |
@@ -21,7 +32,7 @@
 
 
 
-## Compatible Controllers
+### Compatible Controllers
 
 - RadioMaster TX16S
 - FrSky Taranis QX7 / X9D
@@ -31,9 +42,9 @@
 
 
 
-## 🆓 Free or Open Source FPV Simulators for PC
+### 🆓 Free or Open Source FPV Simulators for PC
 
-### 🛠 FPV.Skydive (from ORQA)
+#### 🛠 FPV.Skydive (from ORQA)
 - ✅ Free on Steam  
 - 🧠 Beginner-friendly with training modules  
 - 🎮 Supports many controllers (via USB)  
@@ -45,7 +56,7 @@ https://store.steampowered.com/app/1278060/FPV_SkyDive__FPV_Drone_Simulator/
 
 ---
 
-### 🛠 RotorHazard Simulator
+#### 🛠 RotorHazard Simulator
 - ⚙️ Community-developed simulator inspired by RotorHazard timing system  
 - 🖥 Lightweight, browser-based or local  
 - 💻 Not super polished, but interesting for DIY folks  
@@ -54,7 +65,7 @@ https://store.steampowered.com/app/1278060/FPV_SkyDive__FPV_Drone_Simulator/
 
 ---
 
-### 🛠 OpenFPV Simulator (dead?)
+#### 🛠 OpenFPV Simulator (dead?)
 - 🌍 Browser-based prototype sim  
 - 👶 Very basic physics and controls  
 - 🧑‍💻 Open-source, you can fork or contribute  
@@ -63,7 +74,7 @@ https://store.steampowered.com/app/1278060/FPV_SkyDive__FPV_Drone_Simulator/
 
 ---
 
-### 🛠 Multirotor Sim (Unity-based) (dead?)
+#### 🛠 Multirotor Sim (Unity-based) (dead?)
 - 🧪 Community project with editable Unity source  
 - 🎮 Supports USB controllers  
 - 🔧 Needs a bit of setup, but can be modified freely  
@@ -71,15 +82,15 @@ https://store.steampowered.com/app/1278060/FPV_SkyDive__FPV_Drone_Simulator/
 
 ---
 
-### 📌 Honorable Mentions (Free Trials or Demos)
+#### 📌 Honorable Mentions (Free Trials or Demos)
 
-#### **FPV Freerider (Demo version)**
+##### **FPV Freerider (Demo version)**
 - Limited map, but physics work well  
 - 🔗 [freeriderfpv.com](https://fpv-freerider.itch.io/fpv-freerider-recharged-demo)
 
 ---
 
-### 🧭 Recommendation
+#### 🧭 Recommendation
 
 - **If you're new and want a polished free experience:**  
   ➡️ Try **[FPV.Skydive](https://store.steampowered.com/app/1645840/FPV_Skydive/)**

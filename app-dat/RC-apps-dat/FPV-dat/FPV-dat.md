@@ -11,6 +11,7 @@
 
 - [[camera-FPV-dat]] - [[camera-FPV-angle-dat]]
 
+- [[fixed-wing-dat]] - [[FPV-dat]] - [[flight-simulation-dat]]
 
 
 

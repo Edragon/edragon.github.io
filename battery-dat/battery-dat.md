@@ -2,6 +2,8 @@
 
 # battery-dat 
 
+- [[battery-dat]] - [[power-physics-dat]]
+
 
 - [[battery-dat]] - [[UAV-dat]] - [[physics-dat]] - [[Battery-Paradox-dat]] - [[rc-aircraft-dat]]
 

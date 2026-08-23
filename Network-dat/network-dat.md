@@ -241,6 +241,27 @@ USB无线接收模块 27.1383M晶振 接收模块 1813dCV222
 
 
 
+## tech and concept 
+
+- [[ELRS-dat]] - [[CRSF-dat]] - [[SBUS-dat]] - [[VTX-dat]] - [[mavlink-dat]] - [[SNR-dat]]
+
+**ELRS / CRSF / SBUS**
+• 一句话: 遥控协议，延迟与距离不同
+• 重要性: ⭐️⭐️⭐️ 选遥控
+
+**图传频段**
+• 一句话: 2.4G/5.8G 模拟/数字
+• 重要性: ⭐️⭐️⭐️ 视频链路
+
+**Mavlink**
+• 一句话: 开源遥测协议（INAV/ArduPilot）
+• 重要性: ⭐️⭐️⭐️ 数据回传
+
+**信噪比 (SNR)**
+• 一句话: 信号质量指标
+• 重要性: ⭐️⭐️ 链路判断
+
+
 ## ref 
 
 - [[antenna-dat]]
