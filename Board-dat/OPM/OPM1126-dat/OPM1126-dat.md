@@ -1,7 +1,9 @@
 
 # OPM1126-dat 
 
-- [[HLW8012-dat]] 
+- [[HLW8012-dat]] - [[energy-meter-dat]]
+
+- [[HLW-dat]] - [[HLW8032-dat]]
 
 ## Pin Definitions 
 

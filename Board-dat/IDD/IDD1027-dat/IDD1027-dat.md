@@ -55,11 +55,13 @@ use default pin definitions from - libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Di
     #define R2_PIN_DEFAULT 7
     #define G2_PIN_DEFAULT 15
     #define B2_PIN_DEFAULT 16
+
     #define A_PIN_DEFAULT  18
     #define B_PIN_DEFAULT  8
     #define C_PIN_DEFAULT  3
     #define D_PIN_DEFAULT  42
     #define E_PIN_DEFAULT  -1 // required for 1/32 scan panels, like 64x64. Any available pin would do, i.e. IO32
+
     #define LAT_PIN_DEFAULT 40
     #define OE_PIN_DEFAULT  2
     #define CLK_PIN_DEFAULT 41
@@ -67,6 +69,54 @@ use default pin definitions from - libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Di
 
 in which E_PIN_DEFAULT optionally connect by 3-way-jumper to IO17 or IO46
 
+
+## pins info 
+
+left pins 
+
+| Pin  | Function | Note |
+| ---- | -------- | ---- |
+| IO4  | R1       |      |
+| IO5  | G1       |      |
+| IO6  | B1       |      |
+| IO7  | R2       |      |
+| IO15 | G2       |      |
+| IO16 | B2       |      |
+| IO17 |          |      |
+| IO18 | A        |      |
+| IO8  | B        |      |
+| IO3  | C        |      |
+| IO46 |          |      |
+| IO9  |          |      |
+| IO10 |          |      |
+| IO11 |          |      |
+| IO12 |          |      |
+| IO13 |          |      |
+| IO14 |          |      |
+
+right pins 
+
+| Pin  | Function | Note |
+| ---- | -------- | ---- |
+| TXD0 |          |      |
+| RXD0 |          |      |
+| IO1  |          |      |
+| IO2  | OE       |      |
+| IO42 | D        |      |
+| IO41 | CLK      |      |
+| IO40 | LAT      |      |
+| IO39 |          |      |
+| IO38 |          |      |
+| IO37 |          |      |
+| IO36 |          |      |
+| IO35 |          |      |
+| IO0  |          |      |
+| IO45 |          |      |
+| IO48 |          |      |
+| IO47 |          |      |
+| IO21 |          |      |
+| IO20 |          |      |
+| IO19 |          |      |
 
 ## 64x64 test 
 

@@ -18,7 +18,7 @@ pkg install android-tools
 ## version 
 
 - [[android-dat]] - 6.0 == X 
-- [[android-dat]] - 11.0 == ok
+- [[android-dat]] - 11.0 == ok // awakelock == OK 
 - [[android-dat]] - 13.0 == ok
 
 
