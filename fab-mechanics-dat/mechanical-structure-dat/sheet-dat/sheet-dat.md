@@ -67,12 +67,17 @@ Plexiglas Cover refers to a protective cover made of Plexiglas, a brand name for
 - 需要慢慢熔化推进
 - 对直线或曲线控制难
 
+
+## apps 
+
+- [[airplane-sheet-dat]]
+
+
 ## ref 
 
 - [[sheet]] - [[mechanics]]
 
 
-## ref 
 
 - [[materials-dat]]
 

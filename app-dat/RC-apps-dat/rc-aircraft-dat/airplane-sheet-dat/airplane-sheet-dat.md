@@ -4,6 +4,8 @@
 
 - [[airplane-sheet-dat]] - [[airplane-foam-dat]] 
 
+- [[fab-materials-dat]] - [[fab-mechanics-dat]] - [[sheet-dat]]
+
 1. KT板：表皮覆膜 + 泡棉芯（经典的三明治夹层）
 
 结构形态： 典型的三明治夹层板（Sandwich Panel）。
@@ -47,6 +49,14 @@ build head and [[propeller-tractor-dat]] holder
 add [[motor-servo-dat]] - [[airplane-sheet-dat]]
 
 ![](2026-08-24-03-27-16.png)
+
+
+install [[propeller-tractor-dat]]
+
+
+[[airplane-fuselage-dat]] wrap up with [[wing-dat]]
+
+![](2026-08-24-03-38-13.png)
 
 
 ## ref 

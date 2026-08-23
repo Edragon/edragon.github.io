@@ -14,5 +14,7 @@
 
 [[motor-servo-dat]] - [[airplane-sheet-dat]]
 
+![](2026-08-24-03-36-35.png)
+
 
 ## ref  

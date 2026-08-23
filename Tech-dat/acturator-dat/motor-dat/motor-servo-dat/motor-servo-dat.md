@@ -147,7 +147,9 @@ The **Neutral Position** is the "home" or "zero-point" of a servo motor, typical
 
 - for [[airplane-sheet-dat]] == use [[glue-hot-dat]] 
 
+install - [[servo-horn-dat]] and extra metal hinge - [[hinge-dat]] - [[servo-pushrod-dat]] - [[motor-servo-dat]] 
 
+![](2026-08-24-03-35-20.png)
 
 
 

@@ -4,6 +4,12 @@
 
 - [[airplane-sheet-dat]] - [[airplane-foam-dat]] 
 
+
+
+- [[foam-dat]] - [[airplane-foam-dat]] - [[Aircraft-powered-hand-launched-dat]]
+
+
+
 ## capabilties 
 
 **是的，完全可以！不仅能滑翔和远航，而且 EPP 泡沫机是目前 FPV 远航（Long-Range FPV）和航模滑翔机领域最受欢迎的主流机型之一。**
