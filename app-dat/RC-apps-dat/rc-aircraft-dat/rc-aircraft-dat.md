@@ -59,7 +59,7 @@
 
 ### types by materials 
 
-- [[airplane-KT-dat]] - [[airplane-EPP-dat]] - [[airplane-PP-dat]]
+- [[airplane-sheet-dat]] - [[airplane-foam-dat]] 
 
 ![](2026-08-24-02-16-21.png)
 

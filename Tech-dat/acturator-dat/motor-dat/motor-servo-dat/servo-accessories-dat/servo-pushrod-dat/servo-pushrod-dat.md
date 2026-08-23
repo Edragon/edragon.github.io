@@ -10,6 +10,9 @@
 
 ![](2026-08-05-21-19-10.png)
 
+## wing-control 
+
+[[motor-servo-dat]] - [[airplane-sheet-dat]]
 
 
 ## ref  

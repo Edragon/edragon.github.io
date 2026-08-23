@@ -48,13 +48,16 @@
 - [[servo-pushrod-dat]] - [[hinge-dat]] - [[motor-servo-dat]]
 
 
-pushrod rubber bellows
+- [[servo-accessories-dat]] - [[servo-connector-dat]] - [[servo-pushrod-dat]] - [[servo-horn-dat]] - [[motor-servo-dat]] - [[servo-mount-dat]]
 
-![](2026-08-05-21-16-29.png)
+
 
 ## tech 
 
 - [[servo-DSC-dat]]
+
+
+
 
 ## products 
 
@@ -133,9 +136,19 @@ The **Neutral Position** is the "home" or "zero-point" of a servo motor, typical
 
 
 
-## wiring 
+## servo wiring 
+
+- to get the middle initate point of the servo, power the servo first and then install - [[servo-accessories-dat]] 
 
 ![](2025-04-09-15-37-30.png)
+
+
+## servo installations 
+
+- for [[airplane-sheet-dat]] == use [[glue-hot-dat]] 
+
+
+
 
 
 ### servo with five wires 
@@ -228,6 +241,7 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 3. Reattach the horn so it points exactly to the middle.
 
 ✅ Best method — keeps full 0–180° movement range.
+
 
 ## FIND A SERVO'S PHYSICAL MIDDLE WITHOUT POWERING IT
 
