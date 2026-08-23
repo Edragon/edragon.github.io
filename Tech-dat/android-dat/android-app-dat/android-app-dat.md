@@ -7,18 +7,23 @@
 - [[termux-dat]] - [[tailscale-dat]] - [[FRP-dat]]
 
 
-| app                    | android 13 | android 11 |
-| ---------------------- | ---------- | ---------- |
-| Latrix                 |            |            |
-| Latrix 1.46            | x          | x          |
-| IP Webcam              | ok         | ok         |
-| Android IP Camera 1.19 | x          | x          |
-| Android IP Camera 1.18 | x          | x          |
-| Android IP Camera 1.17 | x          | x          |
-| Android IP Camera 1.15 | ok         | ok         |
+| app               | ver.          | android 13 | android 11 |
+| ----------------- | ------------- | ---------- | ---------- |
+| Latrix            | 1.46          | x          | x          |
+| IP Webcam         |               | ok         | ok         |
+| Android IP Camera | 1.19          | x          | x          |
+| Android IP Camera | 1.18          | x          | x          |
+| Android IP Camera | 1.17          | x          | x          |
+| Android IP Camera | 1.15          | ok         | ok         |
+| termux            | 0.119.0-beta3 | ?          | ok         |
+
+- [[android-11-dat]] - [[android-13-dat]]
 
 
 - [[GFW-dat]] - [[GFW]]
+
+
+
 
 
 ## shizuka == [[pixel6-dat]] ++
