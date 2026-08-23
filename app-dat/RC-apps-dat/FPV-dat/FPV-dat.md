@@ -63,7 +63,11 @@
 
 - [[FPV-stability-dat]] - [[FPV-dat]] - [[FPV-control-dat]]
 
-- [[FPV-build-dat]]
+- [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
+
+
+
+
 
 ## learning process and Learning Curve
 

@@ -3,21 +3,33 @@
 # FPV-build-dat
 
 
+
+- [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
+
+
+
+
 ## build common
 
-| indx | parts                | cost RMB | cost USD/7      | eg. common select |
-| ---- | -------------------- | -------- | --------------- | ----------------- |
-| 1    | [[FPV-frame-dat]]    | 22.5     | 3               | [[mobula8-dat]]   |
-| 2    | [[FC-AIO-dat]]       | 383      | 55              | [[X12-dat]]       |
-| 3    | [[motor-FPV-dat]] x4 | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
-| 4    | [[propeller-dat]] x4 | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
-| 5    | [[camera-FPV-dat]]   | 81       | 11.6            | Caddx ANT 1200TVL |
+| indx | parts                              | cost RMB | cost USD/7      | eg. common select |
+| ---- | ---------------------------------- | -------- | --------------- | ----------------- |
+| 1    | [[FPV-frame-dat]]                  | 22.5     | 3               | [[mobula8-dat]]   |
+| 2    | [[FC-AIO-dat]] or [[FC-stack-dat]] | 383      | 55              | [[X12-dat]]       |
+| 3    | [[motor-FPV-dat]] x4               | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
+| 4    | [[propeller-FPV-dat]] x4               | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
+| 5    | [[camera-FPV-dat]]                 | 81       | 11.6            | Caddx ANT 1200TVL |
 
-total USD == 100
+total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 
-extra 
-- accessories == PCB vibration absorber //  [[cable-XT-dat]] cable    
+### extra 
 
+- swappable [[battery-dat]]
+
+- accessories == PCB vibration absorber //  [[cable-XT-dat]] cable // [[camera-FPV-dat]] canopy // [[screw-dat]]
+
+- [[sensor-dat]] - [[location-dat]]
+
+- remote - [[goggles-dat]]
 
 
 ## build == [[mobula8-dat]] 

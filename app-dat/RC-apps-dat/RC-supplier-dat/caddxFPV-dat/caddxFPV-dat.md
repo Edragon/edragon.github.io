@@ -10,6 +10,14 @@
 - [[caddxFPV-ratelpro-dat]] - [[caddxFPV-dat]] - [[walksnail-dat]] - [[caffxFPV-ant-dat]]
 
 
+- [[FPV-build-dat]]
+
+
+
+## analog 
+
+- 1200TVL
+- 1500TVL 
 
 
 ## usage 
