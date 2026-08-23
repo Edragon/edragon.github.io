@@ -194,8 +194,16 @@ Your transmitter (remote controller) is an investment that will stay with you fo
 
 
 
+## reserved control to build 
+
+![](2026-08-24-03-56-50.png)
+
 
 
 ## ref 
 
 - [[RC-dat]] - [[airplane]] - [[RC]]
+
+- [[airplane-dat]]
+
+- [[rc-aircraft]]

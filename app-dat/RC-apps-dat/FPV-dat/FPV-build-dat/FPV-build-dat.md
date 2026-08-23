@@ -9,6 +9,16 @@
 
 
 
+## build common V2 
+
+| setup                     | [[FPV-frame-dat]] | [[flight-controller-dat]] | [[motor-FPV-dat]] | [[propeller-FPV-dat]] | [[camera-FPV-dat]] |
+| ------------------------- | ----------------- | ------------------------- | ----------------- | --------------------- | ------------------ |
+| 2'' [[mobula8-dat]] specs | default           | [[X12-dat]]               | [[EX1103-dat]]    | 乾丰2023三叶          | Caddx ANT 1200TVL  |
+| 2'' [[mobula8-dat]] price | 22.5 RMB          | 383 RMB                   | 54 RMB            | 1.6 RMB               | 81 RMB             |
+| 5'' specs                 | common frame      | -                         | -                 | -                     | -                  |
+| 5'' price                 | 250 RMB           | 400-600 RMB               | -                 | -                     | -                  |
+
+
 ## build common
 
 | indx | parts                              | cost RMB | cost USD/7      | eg. common select |
@@ -16,10 +26,13 @@
 | 1    | [[FPV-frame-dat]]                  | 22.5     | 3               | [[mobula8-dat]]   |
 | 2    | [[FC-AIO-dat]] or [[FC-stack-dat]] | 383      | 55              | [[X12-dat]]       |
 | 3    | [[motor-FPV-dat]] x4               | 54       | 8 x4 = 32       | [[EX1103-dat]]    |
-| 4    | [[propeller-FPV-dat]] x4               | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
+| 4    | [[propeller-FPV-dat]] x4           | 1.6      | 0.23  x4 = 0.92 | 乾丰2023三叶      |
 | 5    | [[camera-FPV-dat]]                 | 81       | 11.6            | Caddx ANT 1200TVL |
 
 total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
+
+
+
 
 ### extra 
 

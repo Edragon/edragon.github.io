@@ -94,6 +94,12 @@ fixed-wing-vehicle == FPV
 
 ## wings 
 
+上反角机翼
+
+上单翼设计
+
+
+
 - [[wing-tail-dat]] - [[wing-main-dat]] 
 
 ## fixed-wing types
