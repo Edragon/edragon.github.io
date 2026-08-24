@@ -13,6 +13,10 @@ The phone antenna is built into the device, so it cannot be physically extended 
 
 ## 1. USB Cable Out to External Network Module (Most Reliable) ✅
 
+- [[buoy-dat]] - [[buoy-network-dat]] - [[underwater-dat]] - [[underwater-signal-dat]] - [[USV-dat]] - [[waterproof-dat]]
+
+- [[cable-USB-dat]]
+
 Although the phone cannot be opened, every phone has a USB interface, which acts as a natural external communication channel:
 
 ```text

@@ -20,7 +20,11 @@
 
 - [[wifi-distance-dat]]
 
-- [[DHCP-dat]] - [[RNDIS-dat]] - [[LTE-dat]]
+- [[DHCP-dat]] - [[RNDIS-dat]] - [[LTE-dat]] - [[MBIM-dat]]
+
+- [[ethernet-dat]] - [[router-dat]] - [[router-secondary-dat]]
+
+- [[CPE-dat]]
 
 
 ## cheatsheet 

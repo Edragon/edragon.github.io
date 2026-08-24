@@ -3,6 +3,19 @@
 
 - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 
+- [[USB-tethering-dat]] - [[USB-SDK-dat]]
+
+
+## support USB tethering devices 
+
+- [[ZTE-dat]] - [[USB-tethering-dat]] - [[USB-SDK-dat]] - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
+
+
+## apps 
+
+- [[buoy-dat]] - [[buoy-network-dat]]
+
+
 
 
 ## tech 
@@ -27,7 +40,7 @@ Below is a detailed breakdown of its core concepts, how it works, and its pros a
 
 ### 2. Features and Advantages
 
-- [[DHCP-dat]] - [[RNDIS-dat]] - [[LTE-dat]]
+- [[DHCP-dat]] - [[RNDIS-dat]] - [[LTE-dat]] - [[ethernet-dat]] - [[RPI-SBC-dat]]
 
 - **Driverless or minimal drivers:** Modern operating systems (Windows, Linux / Ubuntu, OpenWrt, Raspberry Pi OS, etc.) usually include built-in RNDIS drivers. Once plugged in, the system recognizes a standard Ethernet interface (e.g., `usb0` or `ethX`).
 - **Automatic DHCP networking:** The module has built-in routing and DHCP functionality. After connecting, it automatically assigns the host a LAN IP address (e.g., `192.168.8.x`), allowing the host to access the internet directly, **without the need to manually configure complex dial-up scripts or dial-up software**.

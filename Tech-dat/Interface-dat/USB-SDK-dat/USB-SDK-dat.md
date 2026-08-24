@@ -26,6 +26,9 @@
 
 - [[keyboard-dat]] - [[mouse-dat]]
 
+
+- [[USB-tethering-dat]] - [[USB-SDK-dat]]
+
 ## chips 
 
 - [[WCH-dat]]
