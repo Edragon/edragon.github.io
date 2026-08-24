@@ -11,6 +11,8 @@
 - [[ZTE-dat]] - [[USB-tethering-dat]] - [[USB-SDK-dat]] - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 
 
+- [[ZTE-dat]] - [[vivo-dat]]
+
 ## apps 
 
 - [[buoy-dat]] - [[buoy-network-dat]]

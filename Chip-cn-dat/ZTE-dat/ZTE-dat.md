@@ -5,7 +5,7 @@
 
 - [[ZTE-dat]] - [[USB-tethering-dat]] - [[USB-SDK-dat]] - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 
-
+- [[vivo-iqoo-dat]] - [[vivo-dat]] - [[ZTE-dat]] 
 
 ## models support USB tethering 
 

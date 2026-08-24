@@ -11,7 +11,7 @@
 
 - [[shaft-dat]] - [[shaft-waterproof-dat]] - [[waterproof-dat]]
 
-- [[waterproof-container-dat]]
+- [[waterproof-container-dat]] - [[case-waterproof-dat]] - [[case-dat]]
 
 - [[waterproof-sealant-dat]]
 
