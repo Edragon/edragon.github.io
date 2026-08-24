@@ -20,7 +20,7 @@
 
 - [[wifi-distance-dat]]
 
-
+- [[DHCP-dat]] - [[RNDIS-dat]] - [[LTE-dat]]
 
 
 ## cheatsheet 
@@ -80,7 +80,9 @@ Wireless-N USB 2.0 Adapter allows you to connect your laptop or desktop to any W
 
 At 5 times faster than traditional Wireless-G (802.11b) networks, Wireless-N networks allow for high speed data transfers, online gaming, and lightning fast downloads. The Wireless-N USB 2.0 Adapter gives you access to all the high-speed features of Wireless-N networks on older and newer computers. Its simple and easy setup means you'll be surfing the internet, downloading movies, and e-mail in no time.
 
+## apps 
 
+- [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 
 
 ## ref 
