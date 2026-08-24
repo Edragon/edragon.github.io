@@ -1,7 +1,27 @@
 
 # CRSF-dat
 
+- [[SBUS-dat]] - [[CRSF-dat]] - [[RC-protocols-dat]]
 
+
+
+## crossfire RX 
+
+Crossfire RX (CRSF Protocol)
+
+What it is: "Crossfire" refers to Team BlackSheep’s (TBS) high-performance RC link, which uses the proprietary CRSF (Crossfire Serial Frame) protocol. (Note: Modern high-performance links like ExpressLRS also use the CRSF protocol format).  
+
+What it does on the FC:
+
+Two-Way (Bidirectional) Communication: Unlike SBUS, CRSF uses both TX and RX pins on a single UART.  
+
+The receiver's TX goes to the flight controller's RX (delivering stick commands).  
+
+The receiver's RX goes to the flight controller's TX (streaming live drone telemetry back to your radio).  
+
+Signal Type: It uses a high-speed, uninverted full-duplex serial packet structure (typically running at 400k baud or higher).  
+
+Performance: It offers ultra-low latency (often sub-7ms at 150Hz update rates), high bandwidth, and natively integrates full telemetry (flight modes, GPS, current draw, RSSI/LQ) over that same two-wire connection. 
 
 
 ## SDK 

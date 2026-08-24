@@ -31,7 +31,11 @@
 - 低电降落 Low power down
 
 
+## build 
 
+- [[airplane-build-dat]] 
+
+- [[flight-controller-dat]]
 
 
 ## types 

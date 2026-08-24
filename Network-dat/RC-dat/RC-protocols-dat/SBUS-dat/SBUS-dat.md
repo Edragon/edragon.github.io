@@ -1,13 +1,27 @@
 
 # SBUS-dat
 
+
+- [[SBUS-dat]] - [[CRSF-dat]] - [[RC-protocols-dat]]
+
 - [[futaba-dat]]
 
 ## 📡 What is SBUS? — Simple Explanation
 
 **SBUS (Serial Bus)** is a digital protocol used in RC systems to send multiple control signals (channels) over a single wire.
 
----
+What it is: SBUS is a legacy serial communication protocol originally developed by Futaba.
+
+
+
+What it does on the FC:
+
+- One-Way Data Flow: It acts strictly as a receive-only (RX) channel. It sends stick and switch commands from the receiver to the flight controller, but it cannot send data back.  
+- Signal Type: It uses an inverted serial data stream running at 100,000 baud. On many flight controllers (especially older F4 boards), this requires a dedicated, inverted SBUS hardware pad.  
+- Telemetry: SBUS natively carries no telemetry. If you want to see battery voltage, GPS coordinates, or link quality (LQ) back on your radio transmitter, you have to wire a separate telemetry wire (like SmartPort).  
+- Performance: It has higher latency (typically around 14ms) and is limited to 16 channels.
+
+
 
 ### 🧩 Key Features
 

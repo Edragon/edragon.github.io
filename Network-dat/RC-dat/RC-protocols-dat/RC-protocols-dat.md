@@ -3,14 +3,31 @@
 
 
 
+- [[SBUS-dat]] - [[CRSF-dat]] - [[RC-protocols-dat]]
+
+
+
+
+## compare 
+
+| Feature          | SBUS RX                                                       | Crossfire (CRSF) RX         |
+| ---------------- | ------------------------------------------------------------- | --------------------------- |
+| Data Direction   | One-way (Receiver $\rightarrow$ FC)                           | Two-way / Bidirectional     |
+| UART Pins Needed | 1 pin (RX only)                                               | 2 pins (TX and RX)          |
+| Telemetry        | None (requires separate wiring)                               | Built-in (fully integrated) |
+| Latency          | Higher (~14 ms)                                               | Ultra-low (~4–7 ms)         |
+| Signal Inversion | Inverted (requires specific hardware inverter on some boards) | Uninverted (standard UART)  |
+
+
+
 # RC Receiver Output Types
 
-| Output Type | Signal Type                         | Electrical Level     | Latency           | Channels       | Direction     | Notes |
-|-------------|-------------------------------------|----------------------|-------------------|----------------|---------------|-------|
-| **PWM**     | Analog pulse-width (1 per wire)     | 3.3–5V (depends RX) | High (~20–30 ms)  | 1 per wire     | One-way       | Oldest style, many wires, bulky. |
-| **PPM**     | Serial multiplexed pulses (CPPM)    | 5V TTL              | Medium (~20 ms)   | 8–12           | One-way       | All channels in one wire, jitter-prone. |
-| **SBUS**    | Digital serial (inverted UART)      | 3.3V (inverted)     | Medium-fast (~9–15 ms) | Up to 16 | One-way       | Common in FrSky/Futaba, needs inverter handling. |
-| **CRSF**    | Digital UART serial (bidirectional) | 3.3V TTL            | Very low (~3–7 ms) | 12–16+         | Bidirectional | Fastest, includes telemetry & config, reliable long range. |
+| Output Type | Signal Type                         | Electrical Level    | Latency                | Channels   | Direction     | Notes                                                      |
+| ----------- | ----------------------------------- | ------------------- | ---------------------- | ---------- | ------------- | ---------------------------------------------------------- |
+| **PWM**     | Analog pulse-width (1 per wire)     | 3.3–5V (depends RX) | High (~20–30 ms)       | 1 per wire | One-way       | Oldest style, many wires, bulky.                           |
+| **PPM**     | Serial multiplexed pulses (CPPM)    | 5V TTL              | Medium (~20 ms)        | 8–12       | One-way       | All channels in one wire, jitter-prone.                    |
+| **SBUS**    | Digital serial (inverted UART)      | 3.3V (inverted)     | Medium-fast (~9–15 ms) | Up to 16   | One-way       | Common in FrSky/Futaba, needs inverter handling.           |
+| **CRSF**    | Digital UART serial (bidirectional) | 3.3V TTL            | Very low (~3–7 ms)     | 12–16+     | Bidirectional | Fastest, includes telemetry & config, reliable long range. |
 
 # Key Takeaways
 - **PWM** → Each channel has its own wire → outdated for multirotors.  

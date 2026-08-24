@@ -2,6 +2,8 @@
 # flight-controller-dat
 
 
+- [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
+
 - [[crazybee-dat]] - [[crazybee-f4-lite-dat]] - [[AIO-dat]] - [[flight-controller-dat]]
 
 
@@ -26,6 +28,12 @@
 ## FC AIO = flight controller all in one
 
 ![](2025-05-28-16-21-09.png)
+
+
+
+## build 
+
+- [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
 
 
 
