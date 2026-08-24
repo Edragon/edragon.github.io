@@ -5,6 +5,11 @@
 
 - [[USB-tethering-dat]] - [[wifi-dongle-dat]]
 
+- [[cable-USB-dat]] - [[USB-tethering-dat]] - [[ethernet-dat]] - [[wifi-dongle-dat]]
+
+
+
+
 ## Overview
 
 Most mainstream consumer ZTE portable Wi-Fi devices, 4G/5G dongles, and CPEs (e.g., MF935, MF971, MU5001, MC801) do **not** ship with a pure "RNDIS Mode" in their default firmware and standard feature set. Instead, they rely on:
