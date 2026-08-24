@@ -6,8 +6,19 @@
 
 - [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
 
+- [[fixed-wing-dat]]
 
-## 2023 == 乾丰2023三叶（4对）
+## 9'' ~ 10'' 
+
+适配桨 - [[motor-brushless-dat]]
+
+• 2204: 8-9 寸
+• 2212: 9-11 寸
+
+
+
+
+## 2.0'' 2023 == 乾丰2023三叶（4对）
 
 - Type(型号)2023
 - Blades(桨叶数)3
@@ -20,12 +31,12 @@
 - MaxProp Width(最大桨叶宽度)8.94mm
 - Adaptive Motor(适配马达)1105-1108
 
-
+型号命名： 航模桨常见的命名规则中，型号里的前两位数字通常代表直径。这款型号为 2023，其中 “20” 就代表它的直径约为 2 英寸。
 
 EX1103 KV11000【CW黑线带红点】
 
 
-## HQProp DT2925 五叶桨 DJI AVATA穿越机FPV无人机桨叶螺旋桨
+## 2.9'' HQProp DT2925 五叶桨 DJI AVATA穿越机FPV无人机桨叶螺旋桨
 
 - 型号：2.9X2.5X5
 - 长度:2.9英寸
@@ -39,7 +50,7 @@ EX1103 KV11000【CW黑线带红点】
 - 适配器：无
 
 
-## Gemfan 乾丰2925 5叶 FPV穿越机螺旋桨3寸桨叶 适配大疆AVATA机子
+## 2.9'' Gemfan 乾丰2925 5叶 FPV穿越机螺旋桨3寸桨叶 适配大疆AVATA机子
 
 - Gemfan2925-5
 - 尺寸：2.9 in螺距：2.5in

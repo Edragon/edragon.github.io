@@ -1,7 +1,7 @@
 
 # motor-brushless-dat.md
 
-
+- [[rc-aircraft-dat]]
 
 - [[DRV8301-dat]] - [[ESC-dat]] - [[FOC-dat]] - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]]
 
@@ -27,7 +27,7 @@
 - [[EX1103-dat]] - [[motor-dat]] - [[Thrust-dat]] - [[motor-FPV-dat]] 
 
 
-
+- [[propeller-FPV-dat]]
 
 
 
@@ -49,6 +49,19 @@
 
 - [[BLDC-2205-dat]]
 
+
+## 命名规则
+
+- 命名规则：`22 04` = 定子直径 22mm × 高度 4mm；`22 12` = 22mm × 12mm（直径同，2212 定子高 3 倍 → 扭矩/功率更大、更重）
+- 类比汽车：2204 = 1.4L 小排量（轻快）；2212 = 2.0L 大排量（有劲带大桨）
+- 同尺寸下 KV 越低越适合大桨慢飞（KV = 每伏特转速）
+- 选 2212 980KV 原因：大桨慢转 > 小桨快转（同推力下螺旋桨效率更高），巡航电流 4A→3A（省电 25%）
+
+
+## versions 
+
+- 2204 1400KV
+- 2212 980KV 
 
 ## The Breakdown: 9N12P
 

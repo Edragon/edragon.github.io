@@ -4,6 +4,29 @@
 
 - [[30-dual-foot]] - [[tube-dat]]
 
+- [[aerodynamic-dat]] - [[Center-of-Gravity-dat]]
+
+
+## find the center of gravity of the airplane 
+
+
+方法一：手指平衡法（最快，2 分钟）
+
+1. 把飞机装好（电机+电池+舵机全装上，模拟飞行状态）
+2. 双手食指托在机翼下缘（左右对称）
+3. 慢慢移动手指找平衡点
+4. 平衡时手指位置 = 当前重心
+5. 量前缘到手指的距离 ÷ 翼弦长 = 重心百分比
+
+
+注意事项：
+- 必须满载（电池装上、电机装上）——重心是"飞行状态"的重心，不是空机
+- 左右手指位置对称（防止侧倾误判）
+- 在水平桌面上做，别让尾翼/机头碰桌
+
+
+
+
 ## Flip-Overs
 
 
@@ -26,3 +49,8 @@ On a flat surface, 50/50 weight distribution is fine. On a climb, weight shifts 
 If your rover’s dimensions are fixed and you can't move internal parts, add a physical safety.
 * **The Fix:** Extend two rods or a frame out the back of the rover, just a few millimeters above the ground.
 * **Why it works:** If the front wheels lift, the "tail" hits the ground immediately, acting as a secondary support point and stopping the rotation before it reaches the "point of no return."
+
+
+
+
+## ref 
