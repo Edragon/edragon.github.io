@@ -56,6 +56,14 @@ T25S80
 
 ## SCH 
 
+
+SCH 2 == MX25L8006EM1I-12G
+
+![](2026-08-25-13-58-14.png)
+
+
+SCH x 
+
 - flash with bypass button 
 
 - QSPI 

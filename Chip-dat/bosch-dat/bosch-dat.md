@@ -11,6 +11,9 @@
 - [[BNO055-dat]]
 
 
+- [[sensor-dat]] - [[bosch-dat]] - [[BHI360-dat]]
+
+
 
 Smart sensor combining accelerometer, gyroscope, magnetometer and orientation software
 

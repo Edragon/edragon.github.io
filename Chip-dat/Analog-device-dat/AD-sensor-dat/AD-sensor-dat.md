@@ -5,6 +5,17 @@
 
 
 
+
+
+- [[MAX30208-dat]] == MAX30208 temperature sensing (skin or ambient temperature) - [[analog-device-dat]]
+
+- [[sensor-bio-dat]] 
+
+
+
+
+
+
 ## AD7814
 
 AD7814 - 10-Bit Digital Temperature Sensor in 6-Lead SOT-23

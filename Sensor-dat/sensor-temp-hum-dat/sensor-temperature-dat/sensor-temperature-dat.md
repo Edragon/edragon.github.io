@@ -11,6 +11,9 @@ https://www.electrodragon.com/product-category/sensors/ambient/temphumidity-etc/
 
 - [[thermostat-dat]]
 
+
+
+
 ## boards 
 
 - [[STH1040-dat]] - [[STH1046-dat]] - [[STH1071-dat]]
@@ -27,6 +30,11 @@ wireless measurement
 - [[STH1082-dat]]
 
 ## chips temperature sensor 
+
+
+- [[MAX30208-dat]] == MAX30208 temperature sensing (skin or ambient temperature) - [[analog-device-dat]]
+
+
 
 - [[MAX31856-dat]] - [[analog-device-dat]]
 

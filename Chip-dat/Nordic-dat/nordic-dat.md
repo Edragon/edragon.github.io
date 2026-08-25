@@ -6,7 +6,7 @@
 
 
 
-- [[NRF5x-dat]] - [[NRF52840-dat]] - [[NRF52832-dat]] - [[NRF52810-dat]]
+- [[NRF5x-dat]] - [[NRF52840-dat]] - [[NRF52832-dat]] - [[NRF52810-dat]] - [[NRF54L15-dat]]
 
 
 nRF21540 - [[RF-FEM-dat]]

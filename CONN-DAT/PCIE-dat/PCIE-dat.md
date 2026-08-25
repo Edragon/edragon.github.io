@@ -18,6 +18,12 @@ PCIE - USB SCH - [[NGS1075-dat]]
 
 - [[PCIE-dat]] - [[conn-pcie-dat]] - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[NGS1075-dat]]
 
+- [[intel-dat]] - [[JHL6340-dat]] - [[USB-Thunderbolt-dat]]
+
+
+## clock generator 
+
+![](2026-08-25-13-56-30.png)
 
 
 ## ref 

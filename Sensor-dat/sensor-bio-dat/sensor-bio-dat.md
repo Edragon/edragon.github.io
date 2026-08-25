@@ -2,6 +2,9 @@
 # sensor-bio-dat
 
 
+- [[sensor-temperature-dat]] - [[sensor-bio-dat]] - [[sensor-touch-dat]] - [[sensor-dat]]
+
+
 - [[sensor-bio-heart-rate-dat]]
 
 - [[pulse-rate-dat]]
@@ -19,6 +22,10 @@
 ## chip 
 
 - [[MAX30100-dat]] - [[MAX30102-dat]] - [[sensor-bio-dat]]
+
+- [[max30101-dat]] - [[sensor-bio-dat]] - [[sensor-bio-heart-rate-dat]] - MAX30101 PPG (Photoplethysmography) and optical sensing for real-time heart rate and SpO₂ monitoring
+
+
 
 
 ## boards 

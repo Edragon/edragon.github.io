@@ -1,6 +1,15 @@
 
 # displayport-dat
 
+
+
+
+- [[intel-dat]] - [[JHL6340-dat]] - [[USB-Thunderbolt-dat]]
+
+- [[pixel9-dat]] - [[pixel8-dat]]
+
+
+
 ## ✅ Pixel Models That Support DisplayPort
 These models **can output video** over USB-C using **DisplayPort Alt Mode**:
 

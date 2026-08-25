@@ -2,9 +2,19 @@
 # vibrator-dat
 
 
-
 - [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]] 
 
+## tech 
+
+- [[vibrator-dat]] - [[sensor-haptic-dat]]
+
+### type  
+
+- ERM（偏心旋转质量马达，即传统手机转子马达）
+- LRA（线性谐振马达，振感更细腻清脆）。
+
+
+## board 
 
 - [[SCU1028-dat]] - [[SCU1029-dat]]
 

@@ -2,6 +2,9 @@
 # sensor-dat 
 
 
+
+
+
 - [[sensor-weight-dat]] - [[HX711-dat]] - [[sensor-dat]] - [[ADC-dat]]
 
 - [[sensor-Camera-dat]] - [[sensor-microphone-dat]]
@@ -41,9 +44,19 @@
 
 - [[sensor-temperature-dat]] - [[thermocouple-dat]] - [[thermostat-dat]] - [[sensor-RTD-dat]]
 
-- [[sensor-light-dat]] - [[sensor-UV-light-dat]]
+
+## sensor industrial 
+
+## sensor human interactive 
+
+- [[sensor-temperature-dat]] - [[sensor-bio-dat]] - [[sensor-touch-dat]] - [[sensor-dat]]
 
 - [[sensor-temp-hum-dat]]
+
+- [[sensor-light-dat]] - [[sensor-UV-light-dat]]
+
+
+
 
 ## Sell 
 

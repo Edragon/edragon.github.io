@@ -23,6 +23,13 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 ## chip 
 
+
+
+- [[sensor-dat]] - [[bosch-dat]] - [[BHI360-dat]] - [[sensor-motion-dat]] - [[6-axis-dat]]
+
+
+
+
 - [[QMI8658A-dat]] - [[QST-dat]] - [[sensor-motion-dat]] - [[6-axis-dat]] 
 
 

@@ -38,5 +38,13 @@ LDC1101 1.8-V High-Resolution, High-Speed Inductance-to-Digital Converter
 ![](2026-07-15-19-47-02.png)
 
 
+
+
+## interactive 
+
+- [[DRV2605-dat]] - DRV2605 haptic feedback - [[TI-sensor-dat]] - [[sensor-touch-dat]]
+
+
+
 ## ref 
 

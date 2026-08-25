@@ -8,8 +8,23 @@
 
 - [[voltage-reference-dat]]
 
+
+
+## sensor 
+
+- [[sensor-touch-dat]] - [[microchip-dat]] - [[MTCH6102-dat]] - MTCH6102 15-channel capacitive touch sensing
+
+![](2026-08-25-13-36-37.png)
+
+
+## network 
+
 LAN8710A/8720A - SMSC
 
+
+
+
+## power 
 
 MCP1253 == Low Noise, Positive-Regulated Charge Pump
 
@@ -17,6 +32,12 @@ MCP1253 == Low Noise, Positive-Regulated Charge Pump
 - [[USB-hub-dat]] - [[USB2514B-dat]]
 
 - [[mosfet-driver-dat]]
+
+
+
+
+## control 
+
 
 ## fan control 
 
