@@ -26,9 +26,13 @@ PCIE - USB SCH - [[NGS1075-dat]]
 ![](2026-08-25-13-56-30.png)
 
 
-## ref 
 
-- [[interface-dat]]
+
+## SCH 
+
+- [[CONN-USB-C-dat]] - [[PCIE-dat]] - [[displayport-dat]] - [[USB-Thunderbolt-dat]]
+
+![](2026-08-25-14-12-24.png)
 
 
 
@@ -106,6 +110,11 @@ PCIE - USB SCH - [[NGS1075-dat]]
 | Max Power         | 10–75W+ (x16 GPU)     | ~3W typical                  |
 
 
+
+
+
 ## ref 
 
 - [[CONN-dat]]
+
+- [[interface-dat]]

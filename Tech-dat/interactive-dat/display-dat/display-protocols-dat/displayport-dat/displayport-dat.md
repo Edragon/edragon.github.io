@@ -9,6 +9,10 @@
 - [[pixel9-dat]] - [[pixel8-dat]]
 
 
+- [[CONN-USB-C-dat]] - [[PCIE-dat]] - [[displayport-dat]] - [[USB-Thunderbolt-dat]]
+
+
+
 
 ## ✅ Pixel Models That Support DisplayPort
 These models **can output video** over USB-C using **DisplayPort Alt Mode**:
