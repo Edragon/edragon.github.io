@@ -29,6 +29,15 @@ KT板 / EPP板：KT board / EPP foam board（最常见的泡沫机身板材）
 - [[motor-brushless-dat]] - [[motor-FPV-dat]]
 
 
+
+## installation 
+
+- [[servo-accessories-dat]]
+
+- [[airplane-engine-dat]]
+
+
+
 ## ref 
 
 

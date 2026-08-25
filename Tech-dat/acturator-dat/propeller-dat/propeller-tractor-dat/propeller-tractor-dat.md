@@ -2,10 +2,18 @@
 
 # propeller-tractor-dat
 
-- [[propeller-tractor-dat]] - [[propeller-pusher-dat]] - [[propeller-dat]]
+- [[propeller-tractor-dat]] - [[propeller-pusher-dat]] - [[propeller-dat]] - [[propeller-FPV-dat]]
+
+- [[airplane-engine-single-front-dat]]
 
 
 
+
+## install 2 
+
+![](2026-08-26-01-38-54.png)
+
+![](2026-08-26-01-39-07.png)
 
 ## installation 
 

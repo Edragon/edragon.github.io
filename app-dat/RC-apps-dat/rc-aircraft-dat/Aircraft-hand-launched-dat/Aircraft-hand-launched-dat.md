@@ -4,6 +4,13 @@
 - [[Aircraft-hand-launched-dat]] - [[Aircraft-powered-hand-launched-dat]]
 
 
+
+## classification by size 
+
+- 82 
+- 86
+- 120 
+
 ## info 
 
 standard toy fixed wing 
