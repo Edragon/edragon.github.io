@@ -2,6 +2,8 @@
 # AMD-dat
 
 
+- [[AMD-dat]] - [[AMD-SBC-dat]]
+
 - [[ZYNQ-dat]] - [[AMD-dat]] - [[Xilinx-dat]] - [[ZYNQ-dat]] 
 
 

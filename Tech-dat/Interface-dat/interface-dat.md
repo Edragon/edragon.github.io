@@ -62,6 +62,24 @@ long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] -
 
 - [[parallel-pin-dat]]
 
+
+
+## interface for SBC
+
+- [[SBC-dat]] - [[interface-dat]]
+
+- [[M2-key-dat]] - [[PCIE-dat]] - [[eMMC-dat]] - [[microSD-dat]]
+
+- [[HDMI-dat]] - [[displayport-dat]]
+
+- [[audio-dat]] - [[TRRS-dat]]
+
+- [[ethernet-dat]] - [[wifi-dat]] - [[bluetooth-dat]] - [[antenna-dat]]
+
+- [[USB-SDK-dat]]
+
+
+
 ## special interface 
 
 - [[powerbus-dat]]

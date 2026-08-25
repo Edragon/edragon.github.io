@@ -1,8 +1,20 @@
 
-# SBC dat 
+# SBC-dat 
 
 
 - [[MCU-dat]]
+
+- [[SBC-dat]] - [[NXP-SBC-dat]] - [[rockchip-SBC-dat]] - [[RPI-SBC-dat]] - [[Amlogic-SBC-dat]] - [[AMD-SBC-dat]]
+
+
+
+## tech 
+
+- [[SBC-dat]] - [[interface-dat]]
+
+## chip 
+
+- [[NXP-dat]]
 
 - Beaglebone Black
 
@@ -30,6 +42,9 @@
 
 - [[K210-dat]] - [[K230-dat]] == [[vision-dat]]
 
+
+
+
 ## Compare 
 
 | Device                   | CPU                        | Clock Speed   | NPU           | GPU                             | RAM                                          | Multimedia                    | Connectivity                            | Target Use Case             | Power Efficiency | Price Range |
@@ -49,7 +64,11 @@
 
 
 
+## design 
 
+unit reform 
+
+![](2026-08-25-13-25-37.png)
 
 
 

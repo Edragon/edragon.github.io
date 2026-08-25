@@ -1,6 +1,9 @@
 
 # NXP-dat
 
+
+- [[NXP-SBC-dat]]
+
 - [[NXP-sensor-dat]] 
   
 - [[NXP-triac-dat]] - [[BT136-dat]] - [[BT131-dat]] - [[triac-dat]] - [[triac-driver-dat]] 
@@ -8,7 +11,6 @@
 
 [[NXP-CAN-dat]] - [[TJA1050-dat]] - [[CAN-dat]]
 
-- [[i.MX6ULL-dat]]
 
 LPC1768FBD100 -  LPC1700 Arm Cortex-M3 - 512kB flash, 64kB SRAM, Ethernet, USB, LQFP100 package
 
