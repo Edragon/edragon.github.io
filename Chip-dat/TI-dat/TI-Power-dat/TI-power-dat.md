@@ -10,6 +10,15 @@
 - [[TI-power-dcdc-boost-down-dat]] - [[TI-power-dat]] - [[TI-dat]] - [[TPS63900-dat]]
 
 
+
+
+
+## USB 
+
+- [[TI-Power-dat]] - [[TPS65983B-dat]]
+
+
+
 ## battery charger 
 
 - [[battery-charger-dat]] - [[BQ24075-dat]] - [[TI-power-dat]]

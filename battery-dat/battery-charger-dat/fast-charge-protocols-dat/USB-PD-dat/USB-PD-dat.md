@@ -5,12 +5,20 @@
 
 - [[fast-charge-protocols-dat]] - [[USB-QC-dat]] - [[USB-PD-dat]]
 
+
+
+
+
 ## board 
 
 - [[OPM1185-dat]]
 
 
 ## USB PD controller  
+
+
+
+- [[TI-Power-dat]] - [[TPS65983B-dat]]
 
 https://www.diodes.com/solutions/more-solutions/ac-dc-chargers-and-adapters/usb-pd-sink-controller
 

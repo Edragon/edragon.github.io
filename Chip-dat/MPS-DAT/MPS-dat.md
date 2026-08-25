@@ -12,6 +12,9 @@
 
 - [[MP9843-dat]] - [[MPS-dat]]
 
+- [[MP2386-dat]]
+
+
 
 
 ## Chips 
