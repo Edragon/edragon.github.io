@@ -4,7 +4,7 @@
 
 - [[servo-pushrod-dat]] - [[hinge-dat]] - [[motor-servo-dat]]
 
-
+- [[fixed-wing-dat]]
 
 ## installation 
 

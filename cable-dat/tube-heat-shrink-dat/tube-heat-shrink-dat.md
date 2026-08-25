@@ -1,5 +1,5 @@
 
-# heat-shrink-tube-dat
+# tube-heat-shrink-dat
 
 common materials == [[PVC-dat]]
 

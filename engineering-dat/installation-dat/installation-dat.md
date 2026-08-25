@@ -7,12 +7,23 @@
 
 - [[rack-dat]]
 
-- [[glue-dat]] - [[mounting-dat]] - [[installation-dat]]
+- [[glue-dat]] - [[mounting-dat]] - [[installation-dat]] - [[glue-hot-dat]]
 
 
 - [[hack-dat]] - [[installation-dat]]
 
 - [[Installation-Hole-dat]] - [[installation-dat]]
+
+
+## materials 
+
+- [[rod-carbon-fiber-dat]] - [[rod-dat]]
+
+- [[tape-dat]] - [[tape-fiberglass-dat]] - [[glue-dat]]
+
+- [[rubber-band-dat]] - [[zip-tie-dat]]
+
+- [[Velcro-dat]] - [[tube-heat-shrink-dat]] - [[tube-dat]] - [[cable-dat]]
 
 
 

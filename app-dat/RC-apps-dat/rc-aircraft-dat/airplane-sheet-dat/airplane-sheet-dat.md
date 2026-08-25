@@ -2,18 +2,18 @@
 
 # airplane-sheet-dat
 
-- [[airplane-sheet-dat]] - [[airplane-foam-dat]] 
+- [[airplane-sheet-dat]] - [[airplane-foam-dat]] - [[rc-aircraft-build-dat]] - [[rc-aircraft-dat]]
 
 - [[fab-materials-dat]] - [[fab-mechanics-dat]] - [[sheet-dat]]
 
-1. KT板：表皮覆膜 + 泡棉芯（经典的三明治夹层）
+## KT板：表皮覆膜 + 泡棉芯（经典的三明治夹层）
 
 结构形态： 典型的三明治夹层板（Sandwich Panel）。
 表层： 两面是薄薄的纸面或塑料膜（面层）。
 芯材： 中间夹着一层发泡聚苯乙烯（PS）泡棉。  
 受力原理： 就像工字钢一样，两层的表皮负责承受主要的抗拉和抗压应力（提供硬度和抗弯能力），中间的泡棉负责把两层表皮撑开、保持厚度并传递剪切力。它的缺点是表皮太脆、芯材太疏松，一受外力容易整体崩溃。
 
-2. PP魔术板（中空板）：表皮 + 内部格子筋（蜂窝/中空夹层）
+## PP魔术板（中空板）：表皮 + 内部格子筋（蜂窝/中空夹层）
    
 结构形态： 这是一种中空筋条夹层结构（Corrugated / Hollow Structure）。
 表层： 上下两层平整的塑料薄膜（面板）。

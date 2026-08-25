@@ -13,6 +13,9 @@ fixed-wing-vehicle == FPV
 
 
 
+- [[fixed-wing-dat]] - [[primary-trainer-dat]] - [[Cessna-172-dat]] - [[Diamond-DA20-dat]] - [[CJ-6-dat]] - [[Diamond-DA40-dat]]
+
+
 ## thrust 
 
 - [[thrust-dat]]
