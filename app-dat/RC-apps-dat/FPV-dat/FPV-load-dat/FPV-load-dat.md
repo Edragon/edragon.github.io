@@ -7,11 +7,11 @@
 == [[TX800-dat]] + [[MS-519-dat]] + [[camera-action-dat]] = RMB 250 + 500 = 750
 
 
-- [[thrust-dat]] - [[FPV-load-dat]] - [[FPV-size-dat]]
+- [[thrust-dat]] - [[FPV-load-dat]] - [[FPV-size-dat]] - [[battery-FPV-dat]]
 
 - [[DJI-FLIP-dat]] - [[DJI-dat]] - [[FPV-dat]]
 
-
+- [[physics-dat]]
 
 
 ## higher weight for human control feeling 
@@ -72,10 +72,17 @@ Weight & Specs Comparison
 ![](2026-08-05-20-05-38.png)
 
 
-- Base Drone: 38g
-- Camera: 9g
-- Landing Gear / Ground Stands: 3g (0.75g each)
-- Total Dry Weight: 50g
+weight of [[mobula8-dat]]
+
+| type                          | factory | edited          |
+| ----------------------------- | ------- | --------------- |
+| Base Drone                    | 38g     | 38g             |
+| Camera                        | 2-3g    | 9g              |
+| Landing Gear / Ground Stands: | x       | 3g (0.75g each) |
+| Total Dry Weight:             | 43g     | 50g             |
+
+extra [[battery-FPV-dat]] == 34g
+
 
 Performance Impact on a 2S 85mm Whoop
 

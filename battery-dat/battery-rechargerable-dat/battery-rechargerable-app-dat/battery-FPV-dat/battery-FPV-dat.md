@@ -1,6 +1,11 @@
 
 # battery-FPV-dat
 
+- [[thrust-dat]] - [[FPV-load-dat]] - [[FPV-size-dat]] - [[battery-FPV-dat]]
+
+
+
+- [[mobula8-dat]]
 
 ![](2026-08-15-20-30-56.png)
 
@@ -24,7 +29,14 @@ GNB高能 550mAh 2S 7.6V 100C HV 穿越机FPV Mobula8用高压锂电池
 
 ACE格氏穿越机550mah锂电池RLINE金砖TATTU 2S 7.4V 95C 3S 11.1V
 
-TATTU 格氏 ACE 2S 3S 4S 450 650 850 mah 75c 锂电池
+TATTU 格氏 ACE 2S 3S 4S 450 650 850 mah 75c 锂电池 == 50 cny 
+
+
+`550mah 2S 7.4V 95C == 34g`
+
+![](2026-08-25-20-53-54.png)
+
+
 
 ## 志气
 

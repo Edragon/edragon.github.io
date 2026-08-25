@@ -17,6 +17,7 @@
 - [[mobula6-dat]] - [[mobula7-dat]]
 
 
+
 ## tech and build up 
 
 - [[battery-2s-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-dat]] - [[VTX-dat]]
@@ -163,7 +164,7 @@ Mobula8
 
 95C 2S1P 550mAH 
 
-2S 厚17× 宽13× 长80mm 34克 
+**2S 厚17× 宽13× 长80mm 34克 **
 
 XT30
 

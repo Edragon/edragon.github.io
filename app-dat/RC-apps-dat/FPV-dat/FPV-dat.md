@@ -13,7 +13,7 @@
 
 - [[fixed-wing-dat]] - [[FPV-dat]] - [[flight-simulation-dat]]
 
-
+- [[FPV-build-dat]] - [[battery-FPV-dat]]
 
 ## Info 
 
