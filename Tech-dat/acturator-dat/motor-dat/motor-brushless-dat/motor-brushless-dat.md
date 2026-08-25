@@ -35,7 +35,7 @@
 
 - [[mobula8-dat]] - [[mobula7-dat]] - [[mobula6-dat]] - [[FPV-dat]] - [[motor-brushless-dat]]
 
-
+- [[motor-brushless-dat]] - [[motor-FPV-dat]] - [[motor-FPV-mount-dat]] 
 
 
 ## board 

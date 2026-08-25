@@ -9,7 +9,15 @@
 - [[radiomaster-dat]]
 
 
+## tech 
 
+- [[Multiplane-dat]]
+
+- [[wing-mixing-dat]]
+
+- [[rc-aircraft-build-dat]] - [[rc-aircraft-dat]]
+
+- [[engine-twin-dat]]
 
 ## 6in 
 

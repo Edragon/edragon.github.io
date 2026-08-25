@@ -4,6 +4,8 @@
 - [[Aircraft-hand-launched-dat]] - [[Aircraft-powered-hand-launched-dat]]
 
 
+## info 
+
 standard toy fixed wing 
 
 ![](2025-12-04-00-03-54.png)

@@ -1,8 +1,10 @@
 
-# FPV-motor-dat
+# motor-FPV-dat
 
 
-- [[FPV-build-dat]]- [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
+- [[motor-brushless-dat]] - [[motor-FPV-dat]] - [[motor-FPV-mount-dat]] 
+
+- [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
 
 - [[motor-FPV-dat]] - [[DJI-neo-dat]]
 
