@@ -23,7 +23,7 @@ fixed-wing-vehicle == FPV
 
 - [[airplane-engine-single-front-dat]] - [[propeller-FPV-dat]] - [[propeller-tractor-dat]]
 
-
+- [[fixed-wing-dat]] - [[wing-flying-dat]]
 
 ## thrust 
 

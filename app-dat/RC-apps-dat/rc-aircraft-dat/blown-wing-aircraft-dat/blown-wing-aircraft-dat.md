@@ -16,6 +16,8 @@
 
 https://cad.onshape.com/documents/6a62030eae97edab52769cd2/w/fe924ab8ce8d9c9099d76e39/e/8dbf7553de47503f85255b03?renderMode=0&uiState=68895a88221a7e2024a1ac5a
 
+![](2026-08-26-02-24-59.png)
+
 
 - [[waterproof-dat]]
 

@@ -7,6 +7,9 @@
 
 ## classification by size 
 
+- 48
+- 68
+- 84
 - 82 
 - 86
 - 120 
