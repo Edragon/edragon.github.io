@@ -21,7 +21,7 @@
 
 - [[ESC-dat]] - [[motor-brushless-dat]]
 
-
+- [[ESC-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]]
 
 
 

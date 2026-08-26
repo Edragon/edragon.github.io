@@ -13,19 +13,19 @@
 
 - [[motor-coreless-dat]] - [[propeller-dat]]
 
+- [[ESC-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]]
 
+## type by size 
 
-## type 1106 
-
-6～12A电调
-
-## type 1306 
+### type 1106 
 
 6～12A电调
 
+### type 1306 
 
+6～12A电调 == 10A 四寸桨 - [[ESC-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]]
 
-## types 1504 
+### types 1504 
 
 - 1x 1504 2300KV (4 mounting holes)
 - 4x 1504 2300KV a set (4 mounting holes)
@@ -42,7 +42,17 @@
 
 - [Benefits [and down sides] of HIGHER PWM Frequency! 🙀💪](https://www.youtube.com/watch?v=v3806Incpvo)
 
+## types 220x
 
+2204 
+
+2212
+
+2216 
+
+1400KV / 980KV / 1250KV 
+
+10寸浆 推荐3s 2200
 
 ## How to Reverse a 3-Wire Brushless Motor
 
