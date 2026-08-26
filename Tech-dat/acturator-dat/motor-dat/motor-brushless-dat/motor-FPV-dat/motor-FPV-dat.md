@@ -15,6 +15,10 @@
 
 - [[ESC-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]]
 
+
+
+
+
 ## type by size 
 
 ### type 1106 
@@ -43,6 +47,10 @@
 - [Benefits [and down sides] of HIGHER PWM Frequency! 🙀💪](https://www.youtube.com/watch?v=v3806Incpvo)
 
 ## types 220x
+
+
+2204/2205 电机轴直径 = 3mm 或 3.17mm（标准）
+
 
 2204 
 

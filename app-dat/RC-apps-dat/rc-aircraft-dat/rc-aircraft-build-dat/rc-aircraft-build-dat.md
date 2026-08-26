@@ -62,21 +62,21 @@ KT板 / EPP板：KT board / EPP foam board（最常见的泡沫机身板材）
 
 ## versions 
 
-| item                         | qty | PNP | Full Kit |
-| ---------------------------- | --- | --- | -------- |
-| Airframe                     | 1   | ✅   | ✅        |
-| [[motor-Servo-dat]]          | 4   | ✅   | ✅        |
-| xxd1400 [[motor-FPV-dat]]    | 1   | ✅   | ✅        |
-| xxd30A - [[ESC-dat]]         | 1   | ✅   | ✅        |
-| 8-inch [[propeller-FPV-dat]] | 5   | ✅   | ✅        |
-| MC6c transmitter - [[RC-controller-dat]]             | 1   | ❌   | ✅        |
-| Simulator                    | 1   | ❌   | ✅        |
-| Transmitter strap            | 1   | ❌   | ✅        |
-| Battery                      | 1   | ❌   | ✅        |
-| Alarm                        | 1   | ❌   | ✅        |
-| Charger                      | 1   | ❌   | ✅        |
-| Fiber tape                   | 1   | ❌   | ✅        |
-| Glue gun & glue sticks       | 99  | ❌   | ✅        |
+| item                                     | qty | PNP | Full Kit |
+| ---------------------------------------- | --- | --- | -------- |
+| Airframe                                 | 1   | ✅   | ✅        |
+| [[motor-Servo-dat]]                      | 4   | ✅   | ✅        |
+| xxd1400 [[motor-FPV-dat]]                | 1   | ✅   | ✅        |
+| xxd30A - [[ESC-dat]]                     | 1   | ✅   | ✅        |
+| 8-inch [[propeller-FPV-dat]]             | 5   | ✅   | ✅        |
+| MC6c transmitter - [[RC-controller-dat]] | 1   | ❌   | ✅        |
+| Simulator                                | 1   | ❌   | ✅        |
+| Transmitter strap                        | 1   | ❌   | ✅        |
+| Battery                                  | 1   | ❌   | ✅        |
+| Alarm                                    | 1   | ❌   | ✅        |
+| Charger                                  | 1   | ❌   | ✅        |
+| Fiber tape                               | 1   | ❌   | ✅        |
+| Glue gun & glue sticks                   | 99  | ❌   | ✅        |
 
 
 - [[radiomaster-dat]]

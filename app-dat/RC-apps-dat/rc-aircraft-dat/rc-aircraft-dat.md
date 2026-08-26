@@ -56,11 +56,11 @@
 
 - 遥控扑翼机 Ornithopter [[Ornithopter-dat]]
 
-- [[fixed-wing-dat]] - [[glider-dat]] - [[Aircraft-powered-hand-launched-dat]]
+- [[fixed-wing-dat]] - [[glider-dat]] - [[Aircraft-powered-hand-launched-dat]] - [[Aircraft-hand-launched-dat]]
 
 - [[helicopter-dat]]
 
-- [[FPV-dat]] - [[FPV-size-dat]] 
+- [[FPV-dat]] - [[FPV-size-dat]] - [[goggles-dat]]
 
 - [[DJI-dat]] - [[DJI-flip-dat]]
 
