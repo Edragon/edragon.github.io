@@ -56,6 +56,8 @@
 
 - [[arduino-shields-dat]]
 
+- [[darlington-dat]] - [[ST-dat]] - [[Darlington-transistor-array-dat]] - [[motor-driver-dat]]
+
 
 ## driver 
 

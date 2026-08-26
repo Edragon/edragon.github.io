@@ -1,6 +1,20 @@
 
 # Darlington-transistor-array-dat
 
+
+
+## ULN2804 
+
+The ULN2804 is an integrated circuit containing eight high-voltage, high-current NPN Darlington transistor pairs. It handles up to 500 mA per channel and 50V outputs, optimized with built-in clamp diodes to drive heavy peripheral loads like relays, stepper motors, and LED displays from 6V to 15V CMOS logic.
+
+	
+Bipolar (BJT) Transistor Array 8 NPN Darlington 50V 500mA 2.25W Through Hole 18-DIP
+
+- [[ST-dat]] - [[Darlington-transistor-array-dat]] - [[motor-driver-dat]]
+
+
+
+
 ## Example: Connecting a DC Motor to ULN2003
 
 Components:
@@ -19,5 +33,8 @@ Wiring:
 5. Connect **COM pin** of ULN2003 to motor **+V** (for flyback protection diodes)
 
 When IN1 is HIGH, the ULN2003 will pull OUT1 to GND, allowing current through the motor and it will spin.
+
+
+## ref 
 
 
