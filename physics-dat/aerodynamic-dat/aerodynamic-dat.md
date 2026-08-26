@@ -16,15 +16,13 @@
 
 - [[thrust-dat]]
 
-- [[wing-dat]] - [[wing-loading-dat]]
-
 - [[AOA-dat]] - [[stall-dat]]
 
 - [[wing-aspect-ratio-dat]]
 
 - [[propeller-dat]] 
 
-
+- [[weight-dat]] - [[counterweight-dat]]
 
 
 

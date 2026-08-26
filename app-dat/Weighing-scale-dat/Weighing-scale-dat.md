@@ -1,5 +1,12 @@
 
-# weight-dat 
+# Weighing-scale-dat
+
+
+
+- [[weight-dat]] - [[counterweight-dat]] - [[physics-dat]]
+
+
+
 
 
 ## tech 

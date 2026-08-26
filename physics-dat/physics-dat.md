@@ -24,6 +24,13 @@
 
 - [[torque-dat]] - [[RPM-dat]]
 
+
+- [[weight-dat]] - [[counterweight-dat]] - [[physics-dat]]
+
+
+
+
+
 ## other concept 
 
 - [[Inertia-dat]]

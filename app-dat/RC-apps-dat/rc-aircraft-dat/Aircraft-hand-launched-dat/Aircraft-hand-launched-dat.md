@@ -3,6 +3,7 @@
 
 - [[Aircraft-hand-launched-dat]] - [[Aircraft-powered-hand-launched-dat]]
 
+- [[weight-dat]] - [[counterweight-dat]] - [[physics-dat]] - [[aerodynamic-dat]]
 
 
 ## classification by size 
