@@ -11,6 +11,12 @@
 - [[rc-kits-dat]]
 
 
+## classic glider 
+
+![](2026-08-26-17-35-02.png)
+
+
+
 ## rubber band mount 
 
 ![](2025-12-05-01-36-24.png)

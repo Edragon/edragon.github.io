@@ -13,6 +13,20 @@
 
 - [[motor-coreless-dat]] - [[propeller-dat]]
 
+
+
+## type 1106 
+
+6～12A电调
+
+## type 1306 
+
+6～12A电调
+
+
+
+## types 1504 
+
 - 1x 1504 2300KV (4 mounting holes)
 - 4x 1504 2300KV a set (4 mounting holes)
 - 4x 1504 2300KV + insurance a set (4 mounting holes)

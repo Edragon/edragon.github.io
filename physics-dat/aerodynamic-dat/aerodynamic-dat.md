@@ -2,9 +2,13 @@
 # aerodynamic-dat
 
 
+- [[Loitering-dat]] - [[aerodynamic-dat]] - [[position-hold-dat]]
+
+- [[rc-aircraft-build-dat]]
+
 - [[Aerodynamic-dat]]
 
-- [[wing-dat]] 
+- [[wing-dat]] - [[wing-loading-dat]]
 
 - [[Lift-to-drag-ratio-dat]]
 
@@ -12,13 +16,19 @@
 
 - [[thrust-dat]]
 
-- [[wing-loading-dat]]
+- [[wing-dat]] - [[wing-loading-dat]]
 
 - [[AOA-dat]] - [[stall-dat]]
 
 - [[wing-aspect-ratio-dat]]
 
 - [[propeller-dat]] 
+
+
+
+
+## tech 
+
 
 一、空气动力学基础（理解"为什么飞"）
 

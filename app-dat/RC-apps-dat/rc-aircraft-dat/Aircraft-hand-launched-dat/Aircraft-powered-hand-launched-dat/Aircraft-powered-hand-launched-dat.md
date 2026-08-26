@@ -9,11 +9,24 @@
 
 - [[propeller-tractor-dat]]
 
+
+
+
+
+
+
+
 ## build 
 
 - [[servo-accessories-dat]] - [[airplane-engine-dat]]
 
 - [[Center-of-Gravity-dat]]
+
+![](2026-08-26-17-18-35.png)
+
+![](2026-08-26-17-20-49.png)
+
+
 
 ## 装机步骤（详细版）2
 1. **加固**：机翼下埋碳杆加强翼梁（热熔胶固定，贯穿翼展）

@@ -1,4 +1,0 @@
-
-
-# wing-loading-dat
-
