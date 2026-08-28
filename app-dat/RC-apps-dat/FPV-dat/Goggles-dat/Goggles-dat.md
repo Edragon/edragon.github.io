@@ -2,7 +2,7 @@
 # Goggles-dat
 
 
-- [[DJI-dat]] - [[fat-shark-dat]] - [[sky-zone-dat]]
+- [[DJI-dat]] - [[fat-shark-dat]] - [[skyzone-dat]]
 
 - [[DJI-goggles-dat]]
 

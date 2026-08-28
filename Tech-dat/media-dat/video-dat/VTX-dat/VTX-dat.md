@@ -17,6 +17,8 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 
 - [[camera-FPV-dat]]
 
+- [[camera-analog-dat]]
+
 
 ## standalone VTX module
 
