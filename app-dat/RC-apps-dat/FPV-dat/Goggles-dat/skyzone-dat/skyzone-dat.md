@@ -1,38 +1,105 @@
 
 # skyzone-dat
 
+== [[chip-cn-dat]]
 
-## Skyzone SKY04L V2
-
-Skyzone SKY04L V2 是一款纯正的传统模拟 FPV 飞行眼镜（使用 5.8G 模拟图传频段，接收模拟发射机的视频信号）。
-
-它标配的 SteadyView 接收机和内部电路，都是为了解调模拟复合视频信号（CVBS）设计的，无法直接接收大疆、Walksnail、HDZero 等数字高清图传系统的信号。如果你想用它来飞数字机，同样需要像前面讨论的一样去外接数字图传的接收端或改用其他设备。
+- [[skyzone-dat]] - [[goggles-dat]]
 
 
-## Skyzone SKY03S
+## skyezone SKY03O
 
-Skyzone SKY03S（搭载 OLED 屏幕的经典双目眼镜）和前面提到的 SKY02 系列一样，机身上没有设计旋钮式的近视调节功能。
+**Skyzone SKY03O** is a high-end binocular analog goggle that Skyzone upgraded from the classic SKY03 — the **single OLED screen version**.
 
-## skyzone sky02x 
+Its core features can be summarized as follows:
 
-Skyzone SKY02X 是一款老牌的双目模拟眼镜，它机身上没有像 SKY04X 那样自带的近视调节旋钮。
+### 1. Unique Single OLED Screen & Ultra-Wide Field of View
 
-如果你近视或远视，想要使用 SKY02X 看清画面，需要采用以下方式解决：
+* **Single-screen design:** Unlike most binocular goggles that use two screens (one per eye), the SKY03O uses a **single large OLED screen** with optical lenses to refract the image.
+* **Ultra-wide FOV (Field of View):** Its FOV is as high as **76°**. Among all binocular analog goggles of its time, its visible area and immersion were stunning — after getting used to ordinary binocular goggles, looking at the 03O makes the picture feel enormous.
 
-插卡式矫正镜片： SKY02X 的内部镜片卡槽兼容 Fat Shark 规格的近视/远视矫正镜片。你需要在网上（如淘宝或专门的 FPV 镜片店）根据自己的度数定制专门的嵌入式近视镜片，卡在眼镜内部使用。
+### 2. Picture Quality & Color Performance
 
-直接佩戴隐形眼镜，或者如果度数非常浅，部分人可能勉强能裸眼看清，但通常近视飞手都需要额外定制插片。
+* **OLED panel:** Deep blacks, high color saturation, and strong contrast — providing a very clear visual experience even within the limited quality of analog video transmission.
+
+### 3. Built-in DVR & Head Tracking
+
+* **Built-in H.264 DVR recording:** Supports onboard recording, with picture quality that was relatively clear among comparable products of its time.
+* **Built-in Head Tracker:** Suitable for fixed-wing aircraft or certain special gimbal control for aerial photography.
+
+### 4. Classic Limitations
+
+* **No physical diopter adjustment:** Like the SKY02 and SKY03S discussed earlier, it does **not** have a built-in myopia focus knob. Nearsighted pilots still need to buy snap-in Fat Shark-spec corrective lens inserts.
+* **Heat & fan:** The early single-screen OLED design, due to optical refraction and high brightness, produced relatively noticeable body heat, but it is equipped with an anti-fog fan.
+* **Diversity receiver performance:** It uses Skyzone's early self-developed standard diversity receiver. Its ability to resist multipath interference was later clearly surpassed once the SteadyView (image stabilization) series came out.
+
+As an old flagship occasionally seen on the second-hand market, the 03O's biggest selling point is that **visually striking ultra-wide FOV single OLED screen**, but in terms of overall reception stability and friendliness to nearsighted users, it is not as good as the later SKY04L V2 or SKY04X.
 
 
-## skyezone 02 
 
-无论是 SKY02、SKY02S、SKY02C 还是 SKY02X 这一整代 SKY02 系列双目眼镜，设计上都没有内置近视度数调节旋钮。
 
-跟 SKY02X 一样，整个 SKY02 系列解决近视的方式是：
+## SKY04 
 
-眼镜内部带有镜片卡槽，兼容标准尺寸的 Fat Shark 近视矫正插片。
+### skyzone SKY04L 
 
-如果需要近视矫正，必须去配一张专用的卡入式近视镜片塞进眼镜里，或者选择戴隐形眼镜飞行。
+**SKY04L** and **V2** actually do not conflict here — **"SKY04L V2" is the full name of a single model**, where **"04L"** represents the product series and configuration, and **"V2"** represents its hardware and firmware version.
+
+To understand it more clearly, we can break it down:
+
+#### 1. What is "SKY04L"? (Model & Positioning)
+
+* **04 series:** Represents Skyzone's mid-to-high-end binocular goggle platform.
+* **L (Lite):** Indicates this is the **lightweight/economic version** of the series. It replaces the flagship (SKY04X) expensive **OLED screen** with a more cost-effective **LCOS screen** (same 1280x960 resolution, but significantly lower cost), while retaining the core physical focus knob and SteadyView receiver.
+
+#### 2. What is "V2"? (Upgrades over the older V1)
+
+If you see people comparing **SKY04L V1** and **SKY04L V2** on the market, the differences mainly come from small internal iterative upgrades:
+
+* **Built-in DVR recording upgrade:** The V2 version upgraded the recording chip and firmware (V2 DVR core), supporting smoother **60fps recording** (the older V1's built-in DVR usually only had 30fps).
+* **Receiver firmware/hardware tweaks:** Standard with or adapted to the more stable **SteadyView V3.3 receiver** firmware, further optimizing resistance to multipath interference and image combining.
+* **Other details:** Internal optimizations for menu UI, button feel, or circuit anti-interference.
+
+---
+
+#### Summary
+
+When you see **Skyzone SKY04L V2**, it refers to: **the second-generation improved version of the Skyzone 04L series**. It is a **binocular analog FPV goggle** featuring an LCOS screen, built-in physical myopia adjustment (no need for prescription inserts), and a top-spec SteadyView receiver.
+
+### Skyzone SKY04L V2
+
+The Skyzone SKY04L V2 is a pure traditional analog FPV goggle (using the 5.8G analog video frequency band to receive video signals from analog transmitters).
+
+Its standard SteadyView receiver and internal circuitry are all designed to demodulate analog composite video signals (CVBS), so it cannot directly receive signals from digital HD video systems like DJI, Walksnail, or HDZero. If you want to fly digital aircraft with it, you likewise need to connect an external digital receiver or switch to other equipment, as discussed earlier.
+
+
+## SKY03 
+
+### Skyzone SKY03S
+
+The Skyzone SKY03S (a classic binocular goggle with an OLED screen), like the SKY02 series mentioned earlier, does not have a knob-style myopia adjustment feature on the body.
+
+
+## SKY02 
+
+
+### skyzone sky02x 
+
+The Skyzone SKY02X is a long-standing binocular analog goggle; its body does not have the built-in myopia adjustment knob found on the SKY04X.
+
+If you are nearsighted or farsighted and want to see the picture clearly with the SKY02X, you need to solve it in the following ways:
+
+* **Snap-in corrective lenses:** The SKY02X's internal lens slot is compatible with Fat Shark-spec myopia/farsightedness corrective lenses. You need to order a custom embedded myopia lens online (e.g., on Taobao or from a dedicated FPV lens shop) according to your prescription, and clip it inside the goggle.
+
+* **Wear contact lenses directly**, or if your prescription is very mild, some people may barely see clearly with the naked eye — but generally, nearsighted pilots need an additional custom insert.
+
+### skyezone 02 
+
+Whether it is the SKY02, SKY02S, SKY02C, or SKY02X, the entire SKY02-series binocular goggle generation has no built-in myopia adjustment knob in its design.
+
+Like the SKY02X, the whole SKY02 series solves nearsightedness in this way:
+
+* The goggle has an internal lens slot compatible with standard-size Fat Shark myopia correction inserts.
+
+* If you need vision correction, you must get a dedicated snap-in myopia lens to insert into the goggle, or choose to fly wearing contact lenses.
 
 
 
@@ -50,25 +117,25 @@ SKYZONE COBRA X V4
 
 ## Skyzone Cobra X V2
 
-Skyzone Cobra X V2 依然是一款箱式眼镜（Box Goggles），和前面提到的 Cobra SD 以及你现在用的 BETAFPV VR03 结构类似。它的机身上没有双目眼镜那种单独的近视调节旋钮。
+The Skyzone Cobra X V2 is still a box goggle (Box Goggles), similar in structure to the Cobra SD mentioned earlier and the BETAFPV VR03 you are currently using. Its body does not have the separate myopia adjustment knob found on binocular goggles.
 
-不过，处理近视的逻辑和双目眼镜完全不同：
+However, the way it handles nearsightedness is completely different from binocular goggles:
 
-因为它是箱式大屏幕设计，内部空间相对宽松，绝大多数飞手都可以直接戴着自己的日常近视眼镜闭眼套进去使用，不需要去定制专门的卡片镜片。
+Because it is a box-style large-screen design with relatively spacious internal room, the vast majority of pilots can simply wear their everyday prescription glasses and slip the goggles on directly — no need to order a custom card-style lens insert.
 
-V2 版本相比早期的 V1，主要升级了更稳定的接收固件和部分菜单体验，屏幕表现依然是箱式机里数一数二的（1280x720 分辨率，带顶级的 SteadyView 稳像分集接收）。
+Compared to the early V1, the V2 version mainly upgraded to more stable receiver firmware and improved some menu experience. Its screen performance is still among the best in box goggles (1280x720 resolution, with top-tier SteadyView image-stabilized diversity reception).
 
 
 
-## Skyzone Cobra X（V4版本）
+## Skyzone Cobra X (V4 version)
 
-性价比箱式眼镜（大屏幕/佩戴眼镜友好）：Skyzone Cobra X（V4版本）
+Cost-effective box goggle (large screen / glasses-friendly): Skyzone Cobra X (V4 version)
 
-模拟支持： 内置 SteadyView 接收机（单接收机或高级版，具体看 V4 配置），附带优秀的 DVR 录像功能。  
+* **Analog support:** Built-in SteadyView receiver (single receiver or advanced version, depending on the V4 configuration), with excellent DVR recording capability.
 
-屈光度调节： 箱式眼镜（单大屏）通常不需要专门的屈光度调节旋钮，因为它的物理设计空间大，允许绝大多数飞手直接戴着自己的近视眼镜闭眼往里套。  
+* **Diopter adjustment:** Box goggles (single large screen) usually do not need a dedicated diopter adjustment knob, because their physical design has plenty of space, allowing the vast majority of pilots to slip them on while wearing their own prescription glasses.
 
-性价比评价： 如果你的诉求是“性价比高”且不想折腾定制近视镜片，Cobra X 是目前市面上公认最强的箱式模拟眼镜之一，价格远低于双目眼镜，兼顾了清晰度和大视野。
+* **Value assessment:** If your requirement is "high cost-effectiveness" and you don't want to deal with custom myopia lenses, the Cobra X is currently one of the strongest box analog goggles on the market. Its price is far lower than binocular goggles, balancing both clarity and a wide field of view.
 
 ## digital FPV Goggles
 

@@ -3,6 +3,10 @@
 
 [all location boards here. ](https://www.electrodragon.com/product-category/network/tracker/)
 
+
+
+
+
 ## tech 
 
 - [[GNSS-dat]] - [[GPS-dat]] - [[AGPS-dat]] - [[NEMA-dat]]
@@ -19,6 +23,11 @@
 
 
 - [[interface-dat]] - [[serial-dat]] - [[XH2.54-dat]]
+
+
+
+- [[Geofencing-dat]] - [[location-dat]]
+
 
 
 ## boards 

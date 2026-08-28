@@ -29,19 +29,60 @@
 
 ## makers 
 
+- [[beerotor-dat]] - [[Rotorama-dat]] - [[EACHINE-dat]] - [[Eachine-EV800D-dat]]
+
 - [[HDzero-dat]]
 
 - [[walksnail-dat]] - [[caddx-dat]]
 
 - [[DJI-dat]] - [[DJI-goggles-dat]]
 
-整个 FPV 圈子的数字高清图传目前是完全割裂的，各品牌之间互不兼容：
+The digital HD video transmission ecosystem across the entire FPV community is currently completely fragmented — brands are mutually incompatible with one another:
 
-大疆系眼镜只能配大疆的天空端（如 O3、O4 Air Unit）或指定的 DJI 机器（如 Avata、Neo）。
+* DJI goggles can only pair with DJI air units (such as the O3, O4 Air Unit) or designated DJI aircraft (such as the Avata or Neo).
+* Walksnail (Avatar) goggles can only receive Walksnail video transmission.
+* HDZero goggles can only receive HDZero video transmission.
 
-Walksnail（avatar）眼镜只能收 Walksnail 的图传。
+Taking into account global market share, R&D technical strength, product reputation, and recognition within the pilot community, the industry generally recognizes the **top five leading FPV goggle manufacturers** as follows:
 
-HDZero 眼镜只能收 HDZero 的图传。
+### 1. DJI (DJI Innovation) — Absolute Dominator in Cinematic Aerial Photography & Digital Video
+
+* **Industry standing:** The global leader in consumer drones and digital video transmission technology.
+* **Core strengths:** Its digital video systems (such as the O3 and O4 protocols) represent the current ceiling of the industry in picture quality, interference resistance, and transmission range. Its DJI FPV goggle lineup (such as Goggles 2, Goggles 3, N3, etc.) features top-tier Micro-OLED dual large screens, ultra-low latency, and excellent ecosystem integration.
+* **Main drawbacks:** It has moved toward a fully closed private ecosystem, does not support non-DJI equipment, and most modern models **do not natively support analog video**.
+
+### 2. Skyzone — The Mid-to-High-End All-Rounder for Analog & Analog/Digital Compatibility
+
+* **Industry standing:** An evergreen in the analog FPV era and the analog/digital-compatible field, deeply loved by drone racers worldwide.
+* **Core strengths:** Known for extremely comprehensive features and high cost-effectiveness. Its signature **SteadyView (image stabilization) dual receiver** technology offers extremely strong interference resistance in the analog domain. The SKY04 series (such as SKY04X, SKY04L) not only features fine craftsmanship and excellent screens, but also **comes standard across the lineup with physical diopter adjustment (saving nearsighted pilots the hassle of prescription inserts)**, along with excellent third-party module expandability.
+* **Main drawbacks:** Slightly behind DJI in the depth of its purely self-developed high-end digital HD video technology; it relies more on partnerships or external ecosystems.
+
+### 3. Fat Shark — The Legendary Pioneer with the Deepest Heritage in the Drone Racing Community
+
+* **Industry standing:** The originator of FPV binocular goggles, having accompanied countless older-generation drone racers; rich historical heritage.
+* **Core strengths:** During the traditional analog goggle era, its **Dominator series** was the standard configuration for countless professional pilots, with excellent ergonomics and facial fit. In recent years it has actively transformed, launching classic analog/modular binocular goggles while also releasing several excellent co-branded digital HD goggles through cooperation with Walksnail.
+* **Main drawbacks:** Early products relied heavily on external modules, and some high-end models are expensive.
+
+### 4. Walksnail / CaddxFPV — The Breakthrough Player in Third-Party Digital Video
+
+* **Industry standing:** A rapidly rising core manufacturer of digital HD video systems and goggles.
+* **Core strengths:** Its **Walksnail Avatar** digital HD system is currently the main force on the market against DJI's digital ecosystem. Its products such as the **Avatar Goggles X** support high-frame-rate digital HD, offer excellent compatibility and expandability, and can cater to different pilots' needs through adapters, with high cost-effectiveness and openness.
+* **Main drawbacks:** Its brand ecosystem is young, and it is still continuously catching up to DJI in the extreme tuning of long-range penetration and ultra-high-bitrate picture quality.
+
+### 5. HDZero (a Divimath brand) — The Racing Video Benchmark Pursuing Extreme Zero Latency
+
+* **Industry standing:** The professional video and goggle brand in the hearts of drone racing and hardcore flight enthusiasts.
+* **Core strengths:** It insists on a **fixed ultra-low-latency (Sub-14ms)** digital broadcast-grade approach, refusing heavily compressed algorithms that add burdensome latency. Its flagship **HDZero Goggles** features a high-refresh-rate OLED screen and **natively includes a module bay**, supporting top-tier digital racing signals while also connecting perfectly losslessly to traditional analog receivers — one of the very few professional binocular goggles in the industry that excel at both digital and analog use.
+* **Main drawbacks:** Its bitrate and color detail in complex large scenes are not as good as DJI's H.265 encoding; it leans more toward hardcore competition and professional players who value feel/handling.
+
+---
+
+**Summary of Buying Logic:**
+
+* If you want **extreme picture quality, cinematic aerial photography, DJI ecosystem** $\rightarrow$ **DJI**
+* If you want **analog cost-effectiveness, no prescription inserts needed, rich features** $\rightarrow$ **Skyzone**
+* If you want **traditional classics, professional modular, both analog & digital** $\rightarrow$ **Fat Shark / HDZero**
+* If you want **an open digital HD experience outside the DJI system** $\rightarrow$ **Walksnail (Caddx)**
 
 
 ## type 
@@ -96,7 +137,7 @@ HDZero 眼镜只能收 HDZero 的图传。
 
 
 
-## Rotorama 008D Pro == 朗视特
+## Rotorama 008D Pro
 
 
 Rotorama 008D are basic FPV goggles for starting FPV pilots. The basis is a 4.3" IPS display with an aspect ratio of 16:9 and a resolution of 800x480 pixels, which is sufficient for displaying an analog video signal. The reception is taken care of by a dual receiver supporting all the usual 40 channels. In the package you can find two basic antennas with circular polarization. The goggles support the DVR function, when the received image can be recorded on an SD card of up to 32GB (FAT32). It is possible to connect headphones or an external video receiver.  Power is provided by an integrated battery with a capacity of 2000mAh, which is enough for 2-3 hours of operation. The battery is charged via USB connector. The goggles are delivered in a hard case with a zipper.
@@ -136,8 +177,6 @@ Key Features
     -   Lens: 2.9x, PMMA, no dispersion, no distortion, Fresnel
     -   Headband: Three-way adjustable T-strap
 
-## SkyZone 
-
 
 
 ## high myopia (typically over -6.00 D) or astigmatism
@@ -172,6 +211,40 @@ For goggles with built-in diopter adjustment wheels or sliders (e.g., DJI Goggle
 ### Practical Recommendations
 1. **Custom lens inserts** are the optimal choice for comfort and image clarity.
 2. Ensure your **Interpupillary Distance (IPD)** and **Astigmatism Axis** are measured accurately, as errors in these values at high prescriptions can cause eye strain or dizziness.
+
+
+
+
+## suffix
+
+In FPV (First-Person View) flight goggles, especially from the Skyzone brand, suffix letters like **X, L, O, S, C, and D** are not randomly assigned. They are used to distinguish **screen materials, resolutions, positioning tiers, and feature configurations**.
+
+The core meanings of these suffixes are broken down below:
+
+### 1. High-End / Flagship Tier Suffixes
+* **X (eXtreme / Flagship):**
+  Represents the **full-featured flagship model**. It typically features top-tier screens (such as large OLED panels), the widest Field of View (FOV), and the most complete configuration (such as built-in wheel focus adjustment, the highest-end SteadyView receiver, and rich ports). It is also the most expensive option (e.g., SKY04X).
+* **S (Special / Standard Upgraded):**
+  Mostly used in older or mid-tier models to represent significant upgrades over the base version (such as upgraded screen materials, or the addition of a DVR and head tracker, e.g., SKY03S).
+
+### 2. Screen and Cost-Efficiency Suffixes (Common in the 04 Series)
+* **L (Lite / Lightweight Economic Version):**
+  Represents a **cost-effective or lightweight version**. It typically swaps out expensive OLED screens for **LCOS screens** and slightly reduces the FOV, while retaining the core SteadyView receiver and physical focus adjustment. This significantly drops the price, making it the top choice for dual-screen performance-per-dollar (e.g., SKY04L).
+* **O (OLED / Mid-tier Simplified):**
+  In certain Skyzone models, this represents an **OLED screen** solution. For example, SKY04O is positioned between L (LCOS) and X (Flagship large-FOV OLED), utilizing an OLED panel but with slightly smaller dimensions/FOV than the flagship X, or featuring trimmed configurations to lower the entry barrier.
+
+### 3. Box Goggles Suffixes
+* **C / SD / X (Used in the Cobra Series):**
+  * **C (Cobra Series):** Represents the large-screen box goggles product line.
+  * **SD (Standard / Basic):** Represents entry-level box goggles with single-antenna or basic diversity receivers and standard configurations (e.g., Cobra SD).
+  * **X (eXtreme / High-end):** Represents the top-tier configuration within the box goggles category, featuring superior diversity receivers and higher screen resolutions (e.g., Cobra X with a 720p screen and SteadyView receiver).
+
+---
+
+**Summary of Skyzone Dual-Screen Goggles Tiers:**
+* **X** = Top-tier all-around flagship (Large-screen OLED + Top-tier receiver + Full features)
+* **O** = Sub-flagship (OLED screen with partial parameter simplifications)
+* **L** = Economic and practical (Swapped to LCOS screens, reducing price without losing core experience)
 
 
 

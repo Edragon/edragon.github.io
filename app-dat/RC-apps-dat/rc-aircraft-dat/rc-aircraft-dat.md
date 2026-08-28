@@ -47,7 +47,7 @@
 
 ## build 
 
-- [[rc-aircraft-build-dat]] 
+- [[rc-aircraft-build-dat]] - [[FPV-build-dat]] 
 
 - [[flight-controller-dat]]
 

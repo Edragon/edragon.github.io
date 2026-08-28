@@ -7,6 +7,12 @@
 
 - [[goggles-dat]]
 
+in - [[Geofencing-dat]] - [[location-dat]]
+
+- [[DJI-dat]] - [[DJI-goggles-dat]]
+
+
+
 ## analog support 
 
 - [[VTX-dat]] - [[camera-analog-dat]] ==  - [[DJI-goggles-V2-dat]]
