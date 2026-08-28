@@ -2,8 +2,9 @@
 
 # PCB-solder-mask-dat
 
-- [[PCB-solder-mask-dat]] - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-vias-dat]]
+- [[PCB-solder-mask-dat]] - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-vias-dat]] - [[PCB-trace-dat]]
 
+- [[PCB-solder-mask-dat]] - [[PCB-vias-dat]] - [[PCB-trace-dat]]
 
 KiCad treats the mask layers—F.Mask (Front Mask) and B.Mask (Back Mask)—as negative layers.
 
