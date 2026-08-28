@@ -1,13 +1,13 @@
 
-# caddxFPV-dat
+# caddx-dat
 
 
-- [[caddxFPV-dat]] - [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-wireless-dat]]
+- [[caddx-dat]] - [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-wireless-dat]]
 
 - [[walksnail-dat]] is a brand of caddxFPV
 
 
-- [[caddxFPV-ratelpro-dat]] - [[caddxFPV-dat]] - [[walksnail-dat]] - [[caffxFPV-ant-dat]]
+- [[caddx-ratelpro-dat]] - [[caddx-dat]] - [[walksnail-dat]] - [[caffx-ant-dat]]
 
 
 - [[FPV-build-dat]]

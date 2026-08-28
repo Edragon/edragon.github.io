@@ -1,6 +1,6 @@
 
 
-# DJI-avatar-dat
+# DJI-avata-dat
 
 ## ref 
 

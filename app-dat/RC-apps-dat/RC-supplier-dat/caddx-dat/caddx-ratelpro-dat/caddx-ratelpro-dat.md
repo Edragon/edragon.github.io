@@ -1,11 +1,11 @@
 
 
-# caddxFPV-ratelpro-dat
+# caddx-ratelpro-dat
 
 
-- [[caddxFPV-ratelpro-dat]] - [[caddxFPV-dat]] - [[walksnail-dat]]
+- [[caddx-ratelpro-dat]] - [[caddx-dat]] - [[walksnail-dat]]
 
-- [[caffxFPV-ant-dat]]
+- [[caddx-ant-dat]]
 
 - [[camera-rack-dat]] - [[camera-wireless-dat]]
 

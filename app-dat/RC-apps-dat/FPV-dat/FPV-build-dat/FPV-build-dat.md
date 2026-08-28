@@ -8,7 +8,7 @@
 
 - [[FPV-build-dat]] - [[battery-FPV-dat]]
 
-
+- [[VTX-dat]] - [[VRX-dat]] - [[video-dat]] - [[goggles-dat]]
 
 ## build common V2 
 
