@@ -10,7 +10,25 @@
 
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]] - [[goggles-dat]]
 
-## build common V2 
+
+## build 5in
+
+| part                      | build 1                          |
+| ------------------------- | -------------------------------- |
+| [[FPV-frame-dat]]         | MAK5机架                         |
+| [[flight-controller-dat]] | 飞拓F405V3 飞控                  |
+| [[ESC-dat]]               | 飞拓60A四合一电调                |
+| [[VTX-dat]]               | FOXEER4代天线津航VTX30-800mw图传 |
+| [[motor-FPV-dat]]         | 电机 2205-2450KV                 |
+| [[propeller-FPV-dat]]     | 乾丰51466*2对                    |
+| [[camera-FPV-dat]]        | Caddx平头哥二代1                 |
+| [[battery-FPV-dat]]       | 格氏4S1300MAH 120C/3.0           |
+| total                     | 971                              |
+
+
+
+
+## build common by size 
 
 | setup                     | [[FPV-frame-dat]] | [[flight-controller-dat]] | [[motor-FPV-dat]] | [[propeller-FPV-dat]] | [[camera-FPV-dat]] |
 | ------------------------- | ----------------- | ------------------------- | ----------------- | --------------------- | ------------------ |
@@ -95,3 +113,6 @@ total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 - **Goggles**: Wearable displays that allow pilots to see the live video feed from the drone's camera. They often include features like head tracking and DVR (Digital Video Recorder) capabilities.
 
 
+## ref 
+
+- [[FPV]] - [[FPV-build]]

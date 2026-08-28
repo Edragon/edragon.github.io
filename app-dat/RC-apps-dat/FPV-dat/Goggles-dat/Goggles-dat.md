@@ -7,17 +7,14 @@
 - [[goggles-dat]] - [[VRX-receiver-dat]]
 
 
-- [[DJI-dat]] - [[fat-shark-dat]] - [[skyzone-dat]]
+- [[fat-shark-dat]] - [[skyzone-dat]]
 
-- [[DJI-goggles-dat]]
 
-- [[walksnail-dat]]
+
+
 
 - GogglesX 
 - Goggles L
-
-- [[HDzero-dat]]
-
 
 - [[head-track-dat]] - [[head-track]]
 
@@ -25,10 +22,32 @@
 
 - [[FPV-dat]] - [[FPV]]
 
+- [[opensource-dat]] == [[openHD-dat]]
+
+
+
+
+## makers 
+
+- [[HDzero-dat]]
+
+- [[walksnail-dat]] - [[caddx-dat]]
+
+- [[DJI-dat]] - [[DJI-goggles-dat]]
+
+整个 FPV 圈子的数字高清图传目前是完全割裂的，各品牌之间互不兼容：
+
+大疆系眼镜只能配大疆的天空端（如 O3、O4 Air Unit）或指定的 DJI 机器（如 Avata、Neo）。
+
+Walksnail（avatar）眼镜只能收 Walksnail 的图传。
+
+HDZero 眼镜只能收 HDZero 的图传。
+
+
 ## type 
 
-- Box Goggles
-- FPV Goggles
+- Box Goggles - cheaper, large 
+- FPV Goggles - expensive, OLED, small, light, immersive
 
 
 
