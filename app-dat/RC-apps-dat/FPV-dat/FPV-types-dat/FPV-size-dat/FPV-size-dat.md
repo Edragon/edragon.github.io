@@ -20,16 +20,17 @@
 
 air65 
 
-### 75mm frame + 1.6in propeller + 1S
+### 75mm frame + 1.6in propeller
 
-air75 [[mobula7-dat]]
+air75 
 
-cinewhoop 2.5~3in 
+[[mobula7-dat]]
 
-[ CINEWHOOP ] (e.g., CineLog35, Pavo20)
-- Medium weight (100g–400g+), 4S–6S battery
-- Ducted frame + Full HD / 4K recording camera
-- Smooth cinematic video production
+### 75mm frame + 1.77in propeller
+
+Meteor75 Pro
+
+
 
 
 ### 85mm frame + 2in propeller + 2S

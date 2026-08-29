@@ -33,17 +33,23 @@ cinewhoop
 - Long-range = exploration.
 - Heavy-lift = pro filmmaking.
 
-- [[FPV-whoop-micro-dat]] - [[FPV-toothpick-micro-dat]] - [[FPV-toothpick-dat]] - [[FPV-cinewhoop-micro-dat]] - [[FPV-cinewhoop-dat]] - [[FPV-3.5in-dat]] - [[FPV-4in-dat]] - [[FPV-5in-dat]] - [[FPV-6in-dat]] - [[FPV-7in-dat]] - [[FPV-10in-dat]]
+- [[FPV-whoop-micro-dat]]
+- [[FPV-whoop-cine-dat]]
+- [[FPV-toothpick-dat]] 
+- [[FPV-long-range-dat]] 
+- [[FPV-heavy-lift-dat]]
 
-| wheelbase | propeller size | FPV class / type            | primary use                                                 |
-| :-------- | :------------- | :-------------------------- | ----------------------------------------------------------- |
-| 65mm      | 1.2in          | [[FPV-whoop-micro-dat]]     | [[indoor-fly-dat]]                                          |
-| 75mm      | 1.6in          | [[FPV-whoop-micro-dat]]     |                                                             |
-| 85mm      | 2.0in          | [[FPV-toothpick-micro-dat]] | backyard / part / light wind                                |
-| 100-120mm | 2.5in          | [[FPV-toothpick-dat]]       | Lightweight outdoor freestyle, proximity filming.           |
-| 120-140mm | 3.0in          | [[FPV-cinewhoop-micro-dat]] | Cinematic HD recording (GoPro/O3), agile freestyle.         |
-| 140-160mm | 3.5in          | [[FPV-cinewhoop-dat]]       | park freestyle and HD action cameras.                       |
-| 195-230mm | 5.0in          | [[FPV-5in-dat]]             | high-speed freestyle, racing, and full-size action cameras. |
+- [[FPV-whoop-micro-dat]] - [[FPV-toothpick-micro-dat]] - [[FPV-toothpick-dat]] - [[FPV-whoop-cine-micro-dat]] - [[FPV-whoop-cine-dat]] - [[FPV-3.5in-dat]] - [[FPV-4in-dat]] - [[FPV-5in-dat]] - [[FPV-6in-dat]] - [[FPV-7in-dat]] - [[FPV-10in-dat]]
+
+| wheelbase | propeller size | FPV class / type        | primary use                                                 |
+| :-------- | :------------- | :---------------------- | ----------------------------------------------------------- |
+| 65mm      | 1.2in          | [[FPV-whoop-micro-dat]] | [[indoor-fly-dat]]                                          |
+| 75mm      | 1.6in          | [[FPV-whoop-micro-dat]] |                                                             |
+| 85mm      | 2.0in          |                         | backyard / part / light wind                                |
+| 100-120mm | 2.5in          |                         | Lightweight outdoor freestyle, proximity filming.           |
+| 120-140mm | 3.0in          | [[FPV-whoop-cine-dat]]  | Cinematic HD recording (GoPro/O3), agile freestyle.         |
+| 140-160mm | 3.5in          | [[FPV-whoop-cine-dat]]  | park freestyle and HD action cameras.                       |
+| 195-230mm | 5.0in          | [[FPV-5in-dat]]         | high-speed freestyle, racing, and full-size action cameras. |
 
 
 
