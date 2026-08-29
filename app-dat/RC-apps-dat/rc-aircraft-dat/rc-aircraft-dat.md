@@ -23,9 +23,6 @@
 
 
 
-
-
-
 ## build 
 
 - [[rc-aircraft-build-dat]] - [[FPV-build-dat]] 

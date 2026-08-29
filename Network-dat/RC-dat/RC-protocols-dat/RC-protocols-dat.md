@@ -3,6 +3,98 @@
 
 
 
+
+- [[ELRS-dat]] 
+
+- [[FRSKY-dat]] 
+
+- [[FLYSKY-dat]] == 
+
+
+
+睿斯凯协议（FrSky）
+
+公司：FrSky（睿斯凯，深圳，1998 年成立）
+
+**ACCST**
+• 全称: Advanced Continuous Channel Shifting Technology
+• 说明: 最老的协议（D8/D16），经典稳定
+
+**ACCESS**
+• 全称: Advanced Communication Control Elevated Spread Spectrum
+• 说明: 新一代（2020+），支持遥测、OTA 升级
+
+特点：
+- 曾经是航模市场占有率第一（几乎所有遥控器标配）
+- 后来因授权费/生态封闭被开源 ELRS 挤下神坛
+- 代表遥控器：FrSky Taranis X9D、Q X7 系列
+
+---
+
+富斯协议（FlySky）
+
+公司：富斯（FlySky，深圳，2007 年成立）
+
+**AFHDS**
+• 全称: Automatic Frequency Hopping Digital System
+• 说明: 第一代跳频协议
+
+**AFHDS 2A**
+• 全称: （第二代）
+• 说明: 支持 iBus 串口、遥测，应用最广
+
+**AFHDS 3**
+• 全称: （第三代）
+• 说明: 2024+ 新一代，距离/抗干扰提升
+
+特点：
+- 性价比之王——遥控器便宜（入门款 ¥200-300）
+- AFHDS 2A 的 iBus 协议是串口接收机的主流之一
+- 代表遥控器：FlySky FS-i6、FS-i6X（入门神机）
+
+---
+
+核心对比
+
+协议
+• 睿斯凯 FrSky: ACCST / ACCESS
+• 富斯 FlySky: AFHDS 2A / 3
+
+定位
+• 睿斯凯 FrSky: 中高端（曾经）
+• 富斯 FlySky: 入门性价比
+
+遥测
+• 睿斯凯 FrSky: ✅ 好（ACCESS 强）
+• 富斯 FlySky: ✅ iBus
+
+授权
+• 睿斯凯 FrSky: 封闭收费
+• 富斯 FlySky: 相对开放
+
+现状
+• 睿斯凯 FrSky: 被 ELRS 冲击
+• 富斯 FlySky: 入门市场稳定
+
+代表机型
+• 睿斯凯 FrSky: Taranis X9D
+• 富斯 FlySky: FS-i6X
+
+---
+
+关键：它们和 ELRS 的关系（跟你相关）
+
+你用的是 ELRS（ExpressLRS）——开源协议
+睿斯凯/富斯是两家公司的私有协议
+
+三者对比：
+
+  ELRS（开源）：免费、开放、距离远、延迟低 → 现代 FPV 主流 ✅
+  FrSky ACCST/ACCESS：稳定但封闭收费 → 逐渐被替代
+  FlySky AFHDS：便宜入门 → 老玩家存量市场
+
+
+
 - [[SBUS-dat]] - [[CRSF-dat]] - [[RC-protocols-dat]]
 
 
