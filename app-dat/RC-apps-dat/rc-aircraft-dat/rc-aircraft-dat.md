@@ -25,25 +25,6 @@
 
 
 
-## 6in 
-
-- [[DJI-flip-dat]]
-
-
-
-## mode 
-
-- 定高 Althold
-- 悬停 Hover
-- 返航 Return
-- 降落 Land
-- 绕卷 Circle
-- 无头 Headless
-- 自稳 Stabilization
-- 有头 Head
-- 失控返航 Out of control return
-- 低电降落 Low power down
-
 
 ## build 
 
@@ -99,6 +80,31 @@
 相比于软乎乎的 EPP 泡沫，PP板拥有极高的抗弯刚性，不需要额外塞碳条就能支撑起一定的结构。
 
 它的价格便宜、用美工刀就能裁切，常被用来做耐摔的小型航模机身、Fpv耐撞机壳或者涵道机风道。
+
+
+
+
+## 6in 
+
+- [[DJI-flip-dat]]
+
+
+
+## mode 
+
+- 定高 Althold
+- 悬停 Hover
+- 返航 Return
+- 降落 Land
+- 绕卷 Circle
+- 无头 Headless
+- 自稳 Stabilization
+- 有头 Head
+- 失控返航 Out of control return
+- 低电降落 Low power down
+
+
+
 
 
 ## control channels channels 

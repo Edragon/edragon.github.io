@@ -16,6 +16,7 @@
 - [[betaflight-PID-dat]] - [[betaflight-rateprofile-dat]] - [[indoor-fly-dat]]
 
 
+- [[BF-beeper-dat]]
 
 ## betaflight supports 
 

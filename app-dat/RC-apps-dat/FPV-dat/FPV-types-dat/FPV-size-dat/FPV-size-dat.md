@@ -8,6 +8,67 @@
 - [[battery-paradox-dat]] - [[FPV-size-dat]]
 
 
+## type by size 
+
+- [[wing-loading-dat]] - [[FPV-size-dat]] - [[FPV-load-dat]] - [[wing-dat]]
+
+- [[FPV-whoop-micro-dat]] - [[FPV-whoop-cine-dat]]
+
+[[mobula5-dat]] ?  
+
+### microwhoop == 65mm frame + 1.2in propeller + 1S
+
+air65 
+
+### 75mm frame + 1.6in propeller + 1S
+
+air75 [[mobula7-dat]]
+
+cinewhoop 2.5~3in 
+
+[ CINEWHOOP ] (e.g., CineLog35, Pavo20)
+- Medium weight (100g–400g+), 4S–6S battery
+- Ducted frame + Full HD / 4K recording camera
+- Smooth cinematic video production
+
+
+### 85mm frame + 2in propeller + 2S
+
+[[mobula8-dat]]
+
+###  140mm frame + 3.5in propeller
+
+
+
+
+### 225mm frame + 5in propeller + 4S? 
+
+[[mobula6-dat]]
+
+### 7in propeller + 6S
+
+### 330-400mm frame + 10in propeller + 6S
+
+**桨**
+• 高原要求: 越大越好（10 寸+），低螺距慢速桨
+
+**电机**
+• 高原要求: 大扭矩低 KV（高原需要多"吸"空气，转速补偿有限）
+
+**电池**
+• 高原要求: 大容量（高原电池放电也受影响，需 6S 大容量）
+
+**飞控**
+• 高原要求: 气压计要校准高原基准（INAV/ArduPilot 有海拔补偿）
+
+**桨盘载荷**
+• 高原要求: <40 g/dm²（海平面标准是 <60，高原要更低）
+
+
+
+
+
+
 
 ## Summary
 
@@ -70,3 +131,6 @@ In short:
 
 
 ## ref
+
+
+- [[FPV-size]] - [[FPV-fleet]] - [[FPV-fleet-dat]] - [[FPV]]

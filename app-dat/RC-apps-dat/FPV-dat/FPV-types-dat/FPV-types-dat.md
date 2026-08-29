@@ -33,19 +33,31 @@ cinewhoop
 - Long-range = exploration.
 - Heavy-lift = pro filmmaking.
 
+- [[FPV-whoop-micro-dat]] - [[FPV-toothpick-micro-dat]] - [[FPV-toothpick-dat]] - [[FPV-cinewhoop-micro-dat]] - [[FPV-cinewhoop-dat]] - [[FPV-3.5in-dat]] - [[FPV-4in-dat]] - [[FPV-5in-dat]] - [[FPV-6in-dat]] - [[FPV-7in-dat]] - [[FPV-10in-dat]]
+
+| wheelbase | propeller size | FPV class / type            | primary use                                                 |
+| :-------- | :------------- | :-------------------------- | ----------------------------------------------------------- |
+| 65mm      | 1.2in          | [[FPV-whoop-micro-dat]]     | [[indoor-fly-dat]]                                          |
+| 75mm      | 1.6in          | [[FPV-whoop-micro-dat]]     |                                                             |
+| 85mm      | 2.0in          | [[FPV-toothpick-micro-dat]] | backyard / part / light wind                                |
+| 100-120mm | 2.5in          | [[FPV-toothpick-dat]]       | Lightweight outdoor freestyle, proximity filming.           |
+| 120-140mm | 3.0in          | [[FPV-cinewhoop-micro-dat]] | Cinematic HD recording (GoPro/O3), agile freestyle.         |
+| 140-160mm | 3.5in          | [[FPV-cinewhoop-dat]]       | park freestyle and HD action cameras.                       |
+| 195-230mm | 5.0in          | [[FPV-5in-dat]]             | high-speed freestyle, racing, and full-size action cameras. |
 
 
-| Wheelbase (mm) | Propeller Size (Inches / mm) | FPV Class / Type | Typical Battery | Primary Use & Environment |
-| :--- | :--- | :--- | :--- | :--- |
-| **65 mm** | 1.2″ (31 mm) | Micro Tiny Whoop | 1S LiPo (300–450mAh) | Indoor flying, tight gaps, safe micro racing. |
-| **75 mm** | 1.6″ (40 mm) | Tiny Whoop / Micro Whoop | 1S–2S LiPo | Indoor / outdoor backyard cruising, low wind. |
-| **85 mm** | 2.0″ (50.8 mm) | Power Whoop / Micro Toothpick | 2S–3S LiPo | Backyard freestyle, parks, light wind resistance. |
-| **100–120 mm** | 2.5″ (63.5 mm) | Toothpick / Micro CineWhoop | 2S–4S LiPo | Lightweight outdoor freestyle, proximity filming. |
-| **120–140 mm** | 3.0″ (76.2 mm) | 3-inch CineWhoop / Toothpick | 3S–4S LiPo | Cinematic HD recording (GoPro/O3), agile freestyle. |
-| **140–160 mm** | 3.5″ (88.9 mm) | 3.5-inch Freestyle / Cinematic | 4S–6S LiPo | Sweet spot for Sub-250g park freestyle and HD action cameras. |
-| **160–180 mm** | 4.0″ (101.6 mm) | Light Mid-Range / Micro Long Range | 4S LiPo / Li-Ion | Efficient cruising, sub-250g long-range exploration. |
-| **195–230 mm** | 5.0″ (127 mm) | Standard 5-inch Freestyle / Racing | 4S / 6S LiPo | Industry standard for high-speed freestyle, racing, and full-size action cameras. |
-| **240–270 mm** | 6.0″ (152.4 mm) | 6-inch Mid-Range / Heavy Freestyle | 4S–6S LiPo | Higher top speeds, wind resistance, and mid-range mountain diving. |
+
+| Wheelbase (mm) | Propeller Size (Inches / mm) | FPV Class / Type                   | Typical Battery      | Primary Use & Environment                                                         |
+| :------------- | :--------------------------- | :--------------------------------- | :------------------- | :-------------------------------------------------------------------------------- |
+| **65 mm**      | 1.2″ (31 mm)                 | Micro Tiny Whoop                   | 1S LiPo (300–450mAh) | Indoor flying, tight gaps, safe micro racing.                                     |
+| **75 mm**      | 1.6″ (40 mm)                 | Tiny Whoop / Micro Whoop           | 1S–2S LiPo           | Indoor / outdoor backyard cruising, low wind.                                     |
+| **85 mm**      | 2.0″ (50.8 mm)               | Power Whoop / Micro Toothpick      | 2S–3S LiPo           | Backyard freestyle, parks, light wind resistance.                                 |
+| **100–120 mm** | 2.5″ (63.5 mm)               | Toothpick / Micro CineWhoop        | 2S–4S LiPo           | Lightweight outdoor freestyle, proximity filming.                                 |
+| **120–140 mm** | 3.0″ (76.2 mm)               | 3-inch CineWhoop / Toothpick       | 3S–4S LiPo           | Cinematic HD recording (GoPro/O3), agile freestyle.                               |
+| **140–160 mm** | 3.5″ (88.9 mm)               | 3.5-inch Freestyle / Cinematic     | 4S–6S LiPo           | Sweet spot for Sub-250g park freestyle and HD action cameras.                     |
+| **160–180 mm** | 4.0″ (101.6 mm)              | Light Mid-Range / Micro Long Range | 4S LiPo / Li-Ion     | Efficient cruising, sub-250g long-range exploration.                              |
+| **195–230 mm** | 5.0″ (127 mm)                | Standard 5-inch Freestyle / Racing | 4S / 6S LiPo         | Industry standard for high-speed freestyle, racing, and full-size action cameras. |
+| **240–270 mm** | 6.0″ (152.4 mm)              | 6-inch Mid-Range / Heavy Freestyle | 4S–6S LiPo           | Higher top speeds, wind resistance, and mid-range mountain diving.                |
 
 - [[FPV-1.2in-dat]] == 65 mm 
 - [[FPV-1.6in-dat]] == 75 mm
