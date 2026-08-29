@@ -9,6 +9,8 @@
 - [[VTX-dat]] - [[OpenHD-dat]] - [[ELRS-dat]] - [[CRSF-dat]] - [[ghost-dat]] - [[mavlink-dat]]
 
 
+- [[FPV-build-dat]]
+
 The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly transmitting camera images to FPV goggles.
 
 - [[FPV-dat]]

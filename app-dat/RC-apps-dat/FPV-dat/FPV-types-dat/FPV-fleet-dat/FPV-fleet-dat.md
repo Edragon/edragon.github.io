@@ -6,6 +6,11 @@
 
 - [[EMAX-dat]]
 
+- [[darwin-FPV-dat]] - babyape 25
+
+- [[GEPRC-dat]]
+
+- [[OddityRC-dat]]
 
 ## microwhoop 
 
