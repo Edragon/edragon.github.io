@@ -1,6 +1,12 @@
 
 # video-baluns-dat
 
+
+
+- [[ethernet-dat]] - [[video-baluns-dat]] - [[cable-video-dat]]
+
+
+
 ## 🎥 What is a Video Balun?
 
 A **video balun** is a small device that allows you to transmit **analog video** (like composite CVBS) over **twisted-pair cable** (such as Cat5e or RS-485 wiring), instead of using traditional coaxial cable.

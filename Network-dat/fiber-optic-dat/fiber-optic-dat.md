@@ -19,6 +19,9 @@ apps and solutions - [[fiber-optic-app-dat]]
 Signal == [[SerDes-dat]]
 
 
+- [[fiber-optic-dat]] - [[cable-video-dat]]
+
+
 ## note 
 
 Gigabit optical-to-electrical modules must be used with Category 5e, Category 6, and Category 6e network cables

@@ -14,6 +14,9 @@
 
 - [[vision-dat]] - [[video-dat]] - [[sensor-Camera-dat]]
 
+- [[cable-video-dat]] - [[cable-dat]]
+
+- [[video-digital-dat]] - [[video-analog-dat]] - [[video-dat]]
 
 ## tech interface
 
@@ -22,6 +25,9 @@
 - [[VOIP-dat]] 
 
 - [[HDMI-dat]] - [[camera-CSI-dat]] - [[interface-dat]] - [[MIPI-dat]] - [[video-dat]]
+
+
+
 
 
 ## chip 

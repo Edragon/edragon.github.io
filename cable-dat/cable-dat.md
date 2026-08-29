@@ -24,6 +24,8 @@
 
 - [[wire-to-wire-dat]]
 
+- [[cable-video-dat]] - [[cable-dat]]
+
 ## data cable 
 
 ## Weight Comparison
