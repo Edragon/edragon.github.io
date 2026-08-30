@@ -29,6 +29,15 @@
 
 6～12A电调 == 10A 四寸桨 - [[ESC-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]]
 
+
+### 1503 
+
+![](2026-08-30-22-26-59.png)
+
+![](2026-08-30-22-27-10.png)
+
+2150KV
+
 ### types 1504 
 
 - 1x 1504 2300KV (4 mounting holes)
@@ -46,13 +55,24 @@
 
 - [Benefits [and down sides] of HIGHER PWM Frequency! 🙀💪](https://www.youtube.com/watch?v=v3806Incpvo)
 
-## types 220x
+### type 1605 
+
+2200KV 
+
+![](2026-08-30-22-31-15.png)
+
+
+### types 220x
 
 
 2204/2205 电机轴直径 = 3mm 或 3.17mm（标准）
 
 
-2204 
+2204 - 1000KV
+
+![](2026-08-30-22-32-28.png)
+
+
 
 2212
 
@@ -61,6 +81,20 @@
 1400KV / 980KV / 1250KV 
 
 10寸浆 推荐3s 2200
+
+
+### 2515 
+
+![](2026-08-30-22-29-17.png)
+
+1880KV / 6045螺旋桨用2S电池
+
+### 2616 
+
+1550KV
+
+
+
 
 ## How to Reverse a 3-Wire Brushless Motor
 
