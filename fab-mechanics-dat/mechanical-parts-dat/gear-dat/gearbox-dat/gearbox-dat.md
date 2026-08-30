@@ -12,7 +12,7 @@
 
 - [[motor-dat]] - [[motor-driver-dat]]
 
-
+- [[gearbox-dat]] - [[mechanical-claw-dat]] - [[fab-3d-print-dat]]
 
 
 

@@ -1,9 +1,26 @@
 
 # mechanical-claw-dat
 
+
+
+- [[gearbox-dat]] - [[mechanical-claw-dat]] - [[fab-3d-print-dat]] - [[robotic-dat]]
+
+
+
+
 - [[3d-print-dat]] 
 
 - [[servo-dat]]
+
+
+
+## simple claw 
+
+![](2026-08-30-19-07-49.png)
+
+![](2026-08-30-19-08-03.png)
+
+![](2026-08-30-19-08-53.png)
 
 ## overview 
 

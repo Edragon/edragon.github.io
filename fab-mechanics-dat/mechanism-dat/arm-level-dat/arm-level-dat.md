@@ -5,3 +5,9 @@
 - Key characteristics: pivot point, arm length, and connection points for input/output motion.  
 
 ![](2025-12-06-14-04-38.png)
+
+
+
+
+## ref 
+

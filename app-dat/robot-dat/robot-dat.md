@@ -22,7 +22,7 @@
 
 - [[robotics-mobile-dat]] - [[robot-dog-dat]] 
 
-- [[robotics-arm-dat]]
+- [[robotic-arm-dat]]
 
 - [[robot-Two-wheeled-self-balancing-dat]] 
 
