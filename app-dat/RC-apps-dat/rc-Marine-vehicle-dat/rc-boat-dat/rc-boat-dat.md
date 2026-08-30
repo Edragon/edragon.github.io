@@ -1,6 +1,8 @@
 
 # rc-boat-dat
 
+- [[rc-apps-dat]]
+
 - [[rc-boat-dat]] - [[motor-380-dat]] - [[motor-brushed-dat]] - [[motor-dat]] - [[TA6586-dat]] - [[MC10_10A-dat]] - [[BTS7960-dat]]
 
 
@@ -45,7 +47,7 @@
 
 - [[led-strip-dat]] - [[led-strip-silicone-dat]] 
 
-
+- [[DVM-dat]] - [[nature-dat]]
 
 
 ## target
@@ -53,7 +55,7 @@
 - Lakes
 - reservoirs
 - calm inland rivers
-- coast.
+- coast
 
 
 ## types 

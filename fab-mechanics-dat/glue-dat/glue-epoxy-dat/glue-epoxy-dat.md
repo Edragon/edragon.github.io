@@ -1,5 +1,12 @@
 
-# epoxy-glue-dat.md
+# glue-epoxy-dat.md
+
+
+- [[glue-dat]] - [[glue-epoxy-dat]]
+
+
+## mix 
+
 
 
 
@@ -46,3 +53,6 @@ Loctite 330（配底涂）（丙烯酸）
 
 
 ## ref 
+
+
+- [[glue]] - [[glue-epoxy]]
