@@ -24,6 +24,42 @@ common brand: 	Infineon
 
 [[transistor-array-dat]]
 
+
+### 1. Concept and Relationship
+
+*   **Transistor:** A general term for any three-terminal semiconductor device used for amplification or switching.
+*   **BJT (Bipolar Junction Transistor):** The most classic type of transistor. When people refer to a "transistor" in introductory electronics or daily practice (such as NPN or PNP types like 2N3904, S9013), they are almost always referring to a **BJT**.
+
+---
+
+### 2. Classification of Transistors
+
+- [[BJT-dat]] - [[FET-dat]] - [[mosfet-dat]] - [[JFET-dat]] - [[IGBT-dat]]
+
+
+Transistors are mainly divided into two major families based on their underlying principles:
+
+                        ┌─── BJT (Bipolar Junction Transistor) ─── NPN / PNP (Current-controlled)
+                        │
+    Transistor ─────────┤
+                        │             ┌── MOSFET (Most common)
+                        └─── FET (Field-Effect Transistor) ──┼── JFET
+                                      └── IGBT (Hybrid type) (Voltage-controlled)
+
+
+
+
+
+### 3. Key Differences: BJT vs. FET (MOSFET)
+
+| Property | BJT (Bipolar Junction Transistor) | FET (e.g., MOSFET) |
+| :--- | :--- | :--- |
+| **Control Type** | **Current-controlled** (Base current $I_B$ controls Collector current $I_C$) | **Voltage-controlled** (Gate voltage $V_{GS}$ controls Drain current $I_D$) |
+| **Pin Names** | Base (B), Collector (C), Emitter (E) | Gate (G), Drain (D), Source (S) |
+| **Drive Power** | Higher (requires continuous base current) | Extremely low (high gate impedance, near-zero static current) |
+| **Common Uses** | Basic amplification, small-power switching, analog audio circuits | High-speed power switching, digital ICs / microprocessors (CMOS) |
+
+
 ## common used 
 
 
