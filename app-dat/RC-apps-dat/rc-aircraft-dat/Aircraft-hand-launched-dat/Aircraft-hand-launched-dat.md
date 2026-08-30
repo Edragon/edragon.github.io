@@ -1,20 +1,31 @@
 
 # Aircraft-hand-launched-dat
 
+
+
+- [[Aircraft-hand-launched-dat]] - [[HLG-dat]] == hand-launched glider
+
+
+
+
 - [[Aircraft-hand-launched-dat]] - [[Aircraft-powered-hand-launched-dat]]
 
 - [[weight-dat]] - [[counterweight-dat]] - [[physics-dat]] - [[aerodynamic-dat]]
 
-- [[feixiong]]
+- [[feixiong-dat]] 
+
+
+
+
 
 ## classification by size 
 
-- 48
-- 68
-- 84
-- 82 
-- 86
-- 120 
+- [ ] 48 - [[feixiong-dat]]  == FX702 
+- [ ] 68
+- [ ] 84
+- [ ] 82 
+- [ ] 86
+- [ ] 120 
 
 ## info 
 
