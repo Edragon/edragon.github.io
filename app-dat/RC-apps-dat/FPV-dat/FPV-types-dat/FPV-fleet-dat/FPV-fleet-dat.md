@@ -34,7 +34,15 @@
 | ---------------------------- | -------------- | ------------ | --------- | ------ | ----------- | ------------ |
 | [[caddx-dat]] C16            | 1S liHV 580mah | 1102 24000KV | 40mm/1.6" | 32/48g | 5-7 min     | 799/899+4bat |
 | [[betaFPV-dat]] Meteor75 Pro | 1S liHV 580mah | 1102 21000KV | 45mm/1.8" | 45g    | 6 min       | 721+6bat     |
+| [[betaFPV-dat]] air65 II HF  | 1S liHV 320mah | 0702 25000KV | 31mm/1.2" | 17.8g  | 5 min       | 759+5bat     |
+
+
+
+
+
 
 ## ref 
+
+- [[propeller-FPV-dat]]
 
 - [[rc-supplier-dat]]

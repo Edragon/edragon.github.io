@@ -101,6 +101,16 @@ These are essential or desirable features for a DC motor driver IC, especially f
 ![](2025-05-04-14-07-37.png)
 
 
+
+
+## build 
+
+- [[motor-driver-DC-dat]] - [[ST-mosfet-dat]]
+
+![](2026-08-30-22-20-49.png)
+
+- [[battery-holder-dat]]
+
 ## ref 
 
 - [[motor-driver-dat]] - [[dc-motor-dat]]

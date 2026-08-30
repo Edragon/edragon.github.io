@@ -28,6 +28,14 @@
 
 
 
+
+## unknown 
+
+build 1 
+
+![](2026-08-30-22-21-20.png)
+
+
 ## ref 
 
 - [[battery-dat]]

@@ -71,7 +71,7 @@ common brand: [[Vishay-dat]]
 
 - [[mosfet-dat]] - [[voltage-high-dat]] - [[2N65L-dat]] - [[UTC-dat]]
 
-
+- [[ST-mosfet-dat]] - [[ST-dat]]
 
 ## model selections 
 

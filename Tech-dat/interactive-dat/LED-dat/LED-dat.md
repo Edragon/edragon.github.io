@@ -32,6 +32,12 @@
 https://www.electrodragon.com/wp-content/uploads/2012/01/YSL-R542B5C-A11.pdf
 
 [[LED-5730-dat]]
+
+- [[LED-board-dat]] - [[LED-dat]]
+
+
+
+
 ## types 
 
 - [[LED-dat]] - [[LED-dual-dat]] - [[LED-5730-dat]]
@@ -91,7 +97,7 @@ other types - [[APA102-2020-dat]]
 
 - 10W == [[ILE1039-dat]]
 
-- 1W 3W 5W 
+- 1W 3W 5W - [[ILE1036-dat]] - [[LED-board-dat]]
 
 
 ## drive high brightness LED 

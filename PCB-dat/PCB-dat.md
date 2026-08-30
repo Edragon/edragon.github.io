@@ -33,7 +33,7 @@
 
 - [[PCB-solder-mask-dat]] - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-vias-dat]]
 
-
+- [[PCB-dat]] - [[LED-board-dat]] - [[PCB-aluminium-dat]]
 
 
 ## PCB prototype and installation 
