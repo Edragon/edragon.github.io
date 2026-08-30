@@ -107,9 +107,14 @@ These are essential or desirable features for a DC motor driver IC, especially f
 
 - [[motor-driver-DC-dat]] - [[ST-mosfet-dat]]
 
+有刷电机滑板车驱动器 == 12V 
+
 ![](2026-08-30-22-20-49.png)
 
 - [[battery-holder-dat]]
+
+
+
 
 ## ref 
 
