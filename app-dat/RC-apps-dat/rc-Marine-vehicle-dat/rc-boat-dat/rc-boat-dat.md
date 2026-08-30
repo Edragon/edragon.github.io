@@ -37,6 +37,17 @@
 - [[radiomaster-dat]] - [[Radiomaster-pocket-dat]]
 
 
+## projects 
+
+- [[rc-boat-dat]] - [[waterproof-dat]]  [[underwater-dat]] - [[nature-dat]] - [[projects]]
+
+- [[adhesive-marine-dat]] - [[glue-dat]] 
+
+- [[led-strip-dat]] - [[led-strip-silicone-dat]] 
+
+
+
+
 ## target
 
 - Lakes

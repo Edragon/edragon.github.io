@@ -36,7 +36,7 @@
 
 - [[SMO1085-dat]]
 
-- [[led-strip-dat]]
+- [[led-strip-dat]] - [[ILSS014-dat]]
 
 
 
@@ -52,6 +52,9 @@
 
 - IPX68 
 
+
+
+
 ## tech 
 
 - [[pressure-dat]]
@@ -60,6 +63,16 @@
 
 - [[silicon-grease-dat]]
 
+
+## waterproof light 
+
+- [[led-strip-dat]] - [[led-strip-silicone-dat]] 
+
+
+
+## waterproof glue 
+
+- [[glue-dat]]  - [[adhesive-marine-dat]] 
 
 
 

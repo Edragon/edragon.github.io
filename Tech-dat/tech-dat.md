@@ -246,13 +246,13 @@
 
 - [[RTC-dat]] - [[buffer-dat]] 
 
-- [[terminal-clamping]] - [[BTB-dat]]
+- [[terminal-clamping]] - [[CONN-BTB-dat]]
 
 - [[protection-dat]]
 
 - [[pogo-pin-dat]]
 
-- [[waterproof-dat]]
+- [[waterproof-dat]] - [[underwater-dat]] - [[nature-dat]]
 
 - [[robot-dat]] - [[robotic-dat]]
 
