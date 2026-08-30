@@ -11,7 +11,7 @@ https://www.electrodragon.com/w/RCL_List
 
 ## passive
 
-- [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[inductor-dat]] 
+- [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[inductor-dat]] - [[BJT-dat]]
 
 - [[crystal-dat]] - [[ferrite-bead-dat]] - [[fuse-dat]] - [[varistor-dat]]
 

@@ -4,6 +4,8 @@
 
 - [[SN75451-dat]] - [[transistor-array-dat]] - [[transistor-dat]]
 
+- [[transistor-dat]] - [[BJT-dat]] 
+
 
 
 - [[FET-dat]] - [[transistor-array-dat]] - [[S8050-dat]]
