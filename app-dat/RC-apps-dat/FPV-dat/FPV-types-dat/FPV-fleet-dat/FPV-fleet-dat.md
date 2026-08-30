@@ -2,6 +2,9 @@
 # FPV-fleet-dat
 
 
+- [[FPV-fleet-dat]] - [[FPV-types-dat]]
+
+
 - [[betaFPV-dat]]
 
 - [[EMAX-dat]]
@@ -25,10 +28,12 @@
 一句话：格普=品质标杆（Mark5），怪象=性价比续航（XI35），达尔文=入门便宜（BabyApe）——正好对应你机队的三个需求层次。
 
 
-## microwhoop 
+## compare 
 
-
-
+| type                         | battery        | motor        | prop      | weight | flight time | price        |
+| ---------------------------- | -------------- | ------------ | --------- | ------ | ----------- | ------------ |
+| [[caddx-dat]] C16            | 1S liHV 580mah | 1102 24000KV | 40mm/1.6" | 32/48g | 5-7 min     | 799/899+4bat |
+| [[betaFPV-dat]] Meteor75 Pro | 1S liHV 580mah | 1102 21000KV | 45mm/1.8" | 45g    | 6 min       | 721+6bat     |
 
 ## ref 
 
