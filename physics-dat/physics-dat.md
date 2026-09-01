@@ -2,6 +2,7 @@
 
 # physics-dat
 
+
 - [[aerodynamic-dat]] - [[power-physics-dat]] - [[motion-dat]] - [[network-dat]] - [[physics-dat]]
 
 - [[battery-dat]] - [[UAV-dat]] - [[physics-dat]] - [[Battery-Paradox-dat]] - [[rc-aircraft-dat]]
@@ -11,8 +12,8 @@
 
 - [[impdedance-dat]] - [[resistance-dat]] - [[physics-dat]] - [[inductance-dat]]
 
-- [[gravity-dat]]- [[physics-dat]]
-
+- [[gravity-dat]]- [[physics-dat]] - [[buoyancy-dat]]
+ 
 
 - [[force-dat]] - [[size-dat]]
 
