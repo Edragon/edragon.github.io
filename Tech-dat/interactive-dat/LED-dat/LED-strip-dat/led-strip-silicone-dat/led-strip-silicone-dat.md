@@ -24,6 +24,14 @@
 
 ## use 
 
+metal holder and glued connector end 
+
+![](2026-09-01-19-00-31.png)
+
+cut off and look inside 
+
+![](2026-09-01-19-00-58.png)
+
 ![](2026-08-30-20-42-51.png)
 
 ![](2026-08-30-20-43-01.png)
