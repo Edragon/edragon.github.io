@@ -14,6 +14,11 @@
 
 
 
+## nano socket 
+
+![](2026-09-01-18-46-32.png)
+
+
 ## nano module long-range 
 
 

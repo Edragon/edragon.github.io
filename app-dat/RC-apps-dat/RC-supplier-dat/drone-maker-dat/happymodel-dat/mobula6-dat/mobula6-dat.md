@@ -21,7 +21,11 @@
 
 - [[FRSKY-dat]]
 
-The Happymodel Crazybee F4FR Lite (v4.2) is a 1S 4-in-1 AIO flight controller featuring an integrated SPI `Frsky` receiver, 5A BLHeli_S ESCs, 5.8GHz VTX, and Betaflight OSD.
+![](2026-09-01-18-48-32.png)
+
+![](2026-09-01-18-48-51.png)
+
+The Happymodel `Crazybee F4FR Lite (v4.2)` is a 1S 4-in-1 AIO flight controller featuring an integrated SPI `Frsky` receiver, 5A BLHeli_S ESCs, 5.8GHz VTX, and Betaflight OSD.
 
 - Hardware Specifications
 - MCU: STM32F411CEU6 (100MHz, 512K Flash)
@@ -33,6 +37,51 @@ The Happymodel Crazybee F4FR Lite (v4.2) is a 1S 4-in-1 AIO flight controller fe
 - VTX: Onboard 5.8GHz 400mW OpenVTX (SmartAudio v2.1)
 - Dimensions: 28.5mm × 28.5mm (Whoop mounting pattern)
 
+board map 
+
+                        [ TOP / FRONT ]
+                        ___________________
+                    /  [ CAM 5V ] [ G ]  \
+                    /   [ CAM IN ] [ VTX ] \
+                    |    ________________   |
+                    |   |                |  |
+    [ MOTOR 1 ]--- |---|   STM32F411    |---| ---[ MOTOR 2 ]
+    (Bottom Right) |   |    PROCESSOR   |  |     (Top Right)
+                    |   |________________|  |
+                    |                       |
+                    |  [BOOT]   [5V] [GND]  |
+                    |  [  .  ]  [TX1] [RX1] |  <-- External RX /
+                    |  [IR1]                 |      Serial Solder Pads
+    [ MOTOR 3 ]--- |---|                |---| ---[ MOTOR 4 ]
+    (Bottom Left)  |   |________________|  |     (Top Left)
+                    \                     /
+                    \_____ [ USB PORT ] /
+
+
+Key Connection & Solder Pads
+
+Camera Pads:
+
+- 5V: Power supply for the camera
+- GND: Ground connection for camera/VTX antenna
+- CAM / VIN: Camera Video In to Betaflight OSD
+- VTX / VO: Video Out from OSD to integrated VTX
+
+External Receiver / UART Pads:
+
+- 5V & GND: Power for external receiver
+- TX1 / RX1: UART1 connections (RX1 for IBUS / DSM2 / DSMX)
+- IR1 / IRX1: Inverted RX1 pad (used specifically for SBUS input)
+
+Boot Pads:
+BOOT: Two small solder pads. Bridge these while plugging in USB to enter DFU / Bootloader mode.
+
+Binding Instructions (SPI Frsky)
+
+- Connect the board to your computer via USB and open Betaflight Configurator.
+- Go to the Receiver tab and ensure the receiver mode is set to SPI Rx with provider FC_PRTCL_FRSKY_D (for D8 mode) or FC_PRTCL_FRSKY_X (for D16 mode).
+- Click Bind Receiver in the Receiver tab (or enter bind_rx in the CLI tab).
+- Put your radio transmitter into Bind mode. The LEDs on the board will change from flashing to solid when bound.
 
 
 ## specs 
