@@ -1,7 +1,75 @@
 
 # adb-dat
 
-- [[android-bootloader-dat]]
+- [[android-bootloader-dat]] - [[FRP-dat]] - [[FRP-client-dat]]
+
+
+    E:\soft-android\adb\platform-tools>adb devices
+    List of devices attached
+    3B151FDJG00564  device
+
+
+
+## wireless debug 
+
+local wifi router network 
+
+E:\soft-android\adb\platform-tools>adb connect 192.168.0.3:34177
+connected to 192.168.0.3:34177
+
+
+
+
+## USB cable debug 
+
+
+## port foward 
+
+E:\soft-android\adb\platform-tools>adb forward tcp:8022 tcp:8022
+8022
+
+
+
+
+## shared folder 
+
+[[adb-dat]]
+
+    2|husky:/ $ cd /sdcard
+    husky:/sdcard $ ls
+    Alarms   Audiobooks  Download  Music          Pictures  Recordings  RustDesk
+    Android  Documents   Movies    Notifications  Podcasts  Ringtones
+
+
+
+Report issues at https://bugs.termux.com
+~ $ cd /sdcard
+/sdcard $ ls
+Alarms   Audiobooks  Download  Music          Pictures  Recordings  RustDesk
+Android  Documents   Movies    Notifications  Podcasts  Ringtones
+
+
+
+## common commands 
+
+    # Drop directly into the ADB system shell
+    adb shell
+
+    # Simulate tapping the screen at X=500, Y=1000
+    adb shell input tap 500 1000
+
+    # Simulate keypresses (e.g., Home button = 3, Back button = 4)
+    adb shell input keyevent 3
+
+    # Send text input to the currently active field
+    adb shell input text "hello_world"
+
+    # List installed packages
+    adb shell pm list packages
+
+
+
+## install and basic 
 
 https://developer.android.google.cn/studio/releases/platform-tools.html?hl=zh-cn
 

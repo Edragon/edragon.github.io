@@ -1,6 +1,10 @@
 
 # power-dat.md
 
+
+- [[control-dat]] - [[PCB-design-power-dat]] - [[PCB-design-dat]] 
+
+
 - [[power-dat]] - [[battery-dat]] 
 
 - [[PMIC-dat]]
@@ -13,7 +17,7 @@
 
 - [[LDO-dat]]
 
-- [[low-power-dat]]
+- [[low-power-dat]] - [[high-voltage-dat]]
 
 - [[battery-pack-dat]]
 

@@ -2,6 +2,11 @@
 
 # led-strip-silicone-dat
 
+- [[LED-strip-dat]] - [[led-strip-silicone-dat]] 
+
+- [[control-dat]] - [[PCB-design-power-dat]] - [[PCB-design-dat]] 
+
+
 
 
 
@@ -15,6 +20,10 @@
 
 
 
+## performance
+
+![](2026-09-01-20-38-59.png)
+
 
 ## projects 
 
@@ -23,6 +32,14 @@
 
 
 ## use 
+
+metal holder and glued connector end 
+
+![](2026-09-01-19-00-31.png)
+
+cut off and look inside 
+
+![](2026-09-01-19-00-58.png)
 
 ![](2026-08-30-20-42-51.png)
 

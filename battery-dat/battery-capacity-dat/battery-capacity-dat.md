@@ -54,6 +54,14 @@ Since you are configuring a 20S2P array, what is the rated Ah capacity of the in
 
 
 
+## battery test 2 
+
+- [[led-strip-dat]] - [[battery-capacity-dat]]
+
+
+
+
+
 
 ## battery test 
 

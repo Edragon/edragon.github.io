@@ -1,6 +1,8 @@
 
 # high-voltage-dat
 
+- [[power-dat]] - [[high-voltage-dat]] 
+
 
 ## board 
 

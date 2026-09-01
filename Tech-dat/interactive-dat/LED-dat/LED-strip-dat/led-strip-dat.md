@@ -2,11 +2,14 @@
 # led-strip-dat
 
 
-
+- [[PCB-dat]] - [[PCB-design-dat]]
 
 - [[led-strip-dat]] - [[led-strip-silicone-dat]] 
 
 - [[ILSS014-dat]]
+
+- [[control-dat]] - [[PCB-design-power-dat]] - [[PCB-design-dat]] 
+
 
 
 

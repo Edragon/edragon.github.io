@@ -1,6 +1,14 @@
 
 # android-dat
 
+
+
+
+- [[android-dat]] - [[SDK-dat]] - [[adb-dat]] - [[openssh-dat]] - [[termux-dat]] - [[FRP-dat]] - [[FRP-client-dat]]
+
+- [[and]]
+
+
 ## android hardware apps 
 
 - [[mqtt-dat]] - [[bluetooth-dat]]

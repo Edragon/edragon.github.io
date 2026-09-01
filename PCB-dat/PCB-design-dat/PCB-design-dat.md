@@ -1,7 +1,7 @@
 
 # PCB-design-dat
 
-
+- [[power-dat]] - [[PCB-design-power-dat]]
 
 - [[kicad-dat]] - [[eagleCAD-dat]] - [[kicad-PCB-dat]]
 

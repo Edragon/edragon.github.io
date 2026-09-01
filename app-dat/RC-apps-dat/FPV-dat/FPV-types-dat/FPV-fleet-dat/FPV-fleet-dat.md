@@ -15,6 +15,7 @@
 
 - [[OddityRC-dat]]
 
+- [[mobula-dat]] - [[happymodel-dat]] - [[mobula6-dat]]
 
 户外轻风机（2-2.5寸）
 • 相关品牌/机型: Darwin BabyApe 25（你之前问过）✅

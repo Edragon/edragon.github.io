@@ -2,6 +2,7 @@
 # radiomaster-pocket-dat.md
 
 
+- [[radiomaster-dat]] - [[radiomaster-pocket-module-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-CC2500-dat]] - [[frsky-dat]]
 
 
 - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
@@ -10,6 +11,19 @@
 - [[radiomaster-pocket-dat]] - [[radiomaster-dat]] - [[ELRS-dat]] - [[CRSF-dat]] - [[RC-dat]]
 
 - [[motor-driver-design-dat]]
+
+
+
+
+
+## legacy protocols
+
+- [[frsky-dat]]
+
+NO, not directly.
+
+The internal ELRS transmitter chip operates on a completely different RF standard and cannot speak to an onboard FrSky receiver.
+
 
 
 ## setup for rc-boat rc-rover
