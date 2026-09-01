@@ -2,6 +2,11 @@
 
 # led-strip-silicone-dat
 
+- [[LED-strip-dat]] - [[led-strip-silicone-dat]] 
+
+- [[control-dat]] - [[PCB-design-power-dat]] - [[PCB-design-dat]] 
+
+
 
 
 

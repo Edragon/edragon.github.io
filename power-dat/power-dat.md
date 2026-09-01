@@ -1,6 +1,10 @@
 
 # power-dat.md
 
+
+- [[control-dat]] - [[PCB-design-power-dat]] - [[PCB-design-dat]] 
+
+
 - [[power-dat]] - [[battery-dat]] 
 
 - [[PMIC-dat]]
