@@ -3,6 +3,45 @@
 
 - [[android-bootloader-dat]]
 
+
+    E:\soft-android\adb\platform-tools>adb devices
+    List of devices attached
+    3B151FDJG00564  device
+
+
+
+## shared folder 
+
+[[adb-dat]]
+
+    2|husky:/ $ cd /sdcard
+    husky:/sdcard $ ls
+    Alarms   Audiobooks  Download  Music          Pictures  Recordings  RustDesk
+    Android  Documents   Movies    Notifications  Podcasts  Ringtones
+
+
+
+## common commands 
+
+    # Drop directly into the ADB system shell
+    adb shell
+
+    # Simulate tapping the screen at X=500, Y=1000
+    adb shell input tap 500 1000
+
+    # Simulate keypresses (e.g., Home button = 3, Back button = 4)
+    adb shell input keyevent 3
+
+    # Send text input to the currently active field
+    adb shell input text "hello_world"
+
+    # List installed packages
+    adb shell pm list packages
+
+
+
+## install and basic 
+
 https://developer.android.google.cn/studio/releases/platform-tools.html?hl=zh-cn
 
 ADB工具安装要手动去设备管理器安装。操作方法为：连接电脑----电脑打开设备管理器----找到手机的选项----属性----驱动程序----更新驱动程序----手动查找驱动程序----选择下载好的ADB驱动安装即可
