@@ -1,12 +1,33 @@
 
 # adb-dat
 
-- [[android-bootloader-dat]]
+- [[android-bootloader-dat]] - [[FRP-dat]] - [[FRP-client-dat]]
 
 
     E:\soft-android\adb\platform-tools>adb devices
     List of devices attached
     3B151FDJG00564  device
+
+
+
+## wireless debug 
+
+local wifi router network 
+
+E:\soft-android\adb\platform-tools>adb connect 192.168.0.3:34177
+connected to 192.168.0.3:34177
+
+
+
+
+## USB cable debug 
+
+
+## port foward 
+
+E:\soft-android\adb\platform-tools>adb forward tcp:8022 tcp:8022
+8022
+
 
 
 
@@ -18,6 +39,14 @@
     husky:/sdcard $ ls
     Alarms   Audiobooks  Download  Music          Pictures  Recordings  RustDesk
     Android  Documents   Movies    Notifications  Podcasts  Ringtones
+
+
+
+Report issues at https://bugs.termux.com
+~ $ cd /sdcard
+/sdcard $ ls
+Alarms   Audiobooks  Download  Music          Pictures  Recordings  RustDesk
+Android  Documents   Movies    Notifications  Podcasts  Ringtones
 
 
 
