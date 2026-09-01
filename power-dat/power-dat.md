@@ -17,7 +17,7 @@
 
 - [[LDO-dat]]
 
-- [[low-power-dat]]
+- [[low-power-dat]] - [[high-voltage-dat]]
 
 - [[battery-pack-dat]]
 

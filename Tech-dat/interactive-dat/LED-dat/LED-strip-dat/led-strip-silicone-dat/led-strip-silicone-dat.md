@@ -20,6 +20,10 @@
 
 
 
+## performance
+
+![](2026-09-01-20-38-59.png)
+
 
 ## projects 
 
