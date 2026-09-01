@@ -11,10 +11,31 @@
 
 - [[propeller-dat]]
 
-- [[radiomaster-dat]] - [[frsky-dat]]
+- [[radiomaster-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-CC2500-dat]]
 
 - [[crazybee-dat]] 
 
+
+
+## version control - F4FR
+
+- [[FRSKY-dat]]
+
+The Happymodel Crazybee F4FR Lite (v4.2) is a 1S 4-in-1 AIO flight controller featuring an integrated SPI `Frsky` receiver, 5A BLHeli_S ESCs, 5.8GHz VTX, and Betaflight OSD.
+
+- Hardware Specifications
+- MCU: STM32F411CEU6 (100MHz, 512K Flash)
+- Gyro Sensor: BMI270 / ICM20689 (SPI connection)
+- Target Firmware: CRAZYBEEF4FR (Betaflight)
+- Power Input: 1S LiPo / LiHV (DC 2.9V–4.35V)
+- ESC: 5A continuous (6A peak) 4-in-1 BLHeli_S (O_H_5_REV16_7.HEX / DShot600)
+- Receiver: Onboard SPI Frsky `D8 / D16 receiver`
+- VTX: Onboard 5.8GHz 400mW OpenVTX (SmartAudio v2.1)
+- Dimensions: 28.5mm × 28.5mm (Whoop mounting pattern)
+
+
+
+## specs 
 
 - **Frame size (wheelbase)**: 65 mm  
 - **Diagonal motor-to-motor distance**: 65 mm  

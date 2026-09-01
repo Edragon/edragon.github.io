@@ -4,6 +4,9 @@
 
 - [[RC-controller-dat]] - [[radiomaster-dat]]
 
+- [[radiomaster-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-CC2500-dat]]
+
+
 
 basic information vist at - [[RC-controller-dat]]
 

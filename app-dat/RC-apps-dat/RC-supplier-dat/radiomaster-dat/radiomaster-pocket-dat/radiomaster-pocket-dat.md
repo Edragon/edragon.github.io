@@ -12,6 +12,19 @@
 - [[motor-driver-design-dat]]
 
 
+
+
+
+## legacy protocols
+
+- [[frsky-dat]]
+
+NO, not directly.
+
+The internal ELRS transmitter chip operates on a completely different RF standard and cannot speak to an onboard FrSky receiver.
+
+
+
 ## setup for rc-boat rc-rover
 
 - [[rc-boat-dat]] - [[rc-rover-dat]] == setup by code 
