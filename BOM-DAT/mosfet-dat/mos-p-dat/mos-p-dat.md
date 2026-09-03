@@ -6,6 +6,10 @@
 
 
 
+## symbol 
+
+- [[kicad-dat]] == Q_NMOS / Q_PMOS
+
 
 
 ## control 

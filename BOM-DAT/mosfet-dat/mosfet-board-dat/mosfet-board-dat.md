@@ -2,6 +2,12 @@
 
 # mosfet-board-dat
 
+- [[mosfet-board-dat]] - [[motor-driver-dat]]
+
+
+`NCE4045K`	TO-252	40V	45A	50W	+/-20V	9.6mΩ	13.5mΩ
+
+
 
 `SMS4045K` = 40V 45A `N-channel MOSFET` field-effect transistor built using Shielded Gate Trench (SGT) technology and housed in a standard TO-252 package.
 
@@ -25,9 +31,17 @@ diagram
          |          |
         GND        GND
 
+board map 
+
 ![](2026-08-04-18-06-06.png)
 
+![](2026-09-04-01-43-48.png)
+
+- [[resistor-dat]] - [[R0603-dat]]
+
 one side circuit 
+
+- [[S8050-dat]] - [[diode-dat]]
 
 ![](2026-08-04-18-39-52.png)
 

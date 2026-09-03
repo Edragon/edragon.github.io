@@ -2,13 +2,15 @@
 # n-mos-dat
 
 
+
 - [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
 
 
 - [[vishay-dat]]
 
 
-- [[n-mosfet-control-dat]]
+- [[power-switch-dat]] - [[mosfet-drive-dat]] - [[mos-n-drive-dat]] - [[mos-n-dat]]
+
 
 - [[AOD4184-dat]] - [[D4184-dat]]
 
@@ -20,6 +22,24 @@
 
 ![](2025-08-24-19-03-40.png)
 
+
+## symbol 
+
+- [[kicad-dat]] == Q_NMOS / Q_PMOS
+
+`DGS` == Drain-Gate-Source == 123
+
+![](2026-09-04-01-37-34.png)
+
+`DSG` == Drain-Source-Gate == 123
+
+![](2026-09-04-01-37-53.png)
+
+`GDS` == Gate-Drain-Source == 123
+
+![](2026-09-04-01-38-14.png)
+
+## type 
 
 - IRFR1205 - [[infineon-dat]]
 - IRFR5305 - [[infineon-dat]]

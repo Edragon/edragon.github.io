@@ -430,7 +430,7 @@ You then only need 2 PWM pins from your microcontroller connected to L_PWM and R
 
 - [[mosfet-dat]] - [[Infineon-mosfet-dat]]
 
-- SMS4045K - 4OP04 - 
+- SMS4045K - 4OP04 - [[mosfet-board-dat]] - [[motor-driver-dat]] - [[mosfet-dat]]
 
 ![](2026-07-06-19-57-47.png)
 

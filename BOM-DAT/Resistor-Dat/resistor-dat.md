@@ -17,7 +17,7 @@
 
 - [[resistor-ICL-dat]] - [[resistor-dat]]
 
-
+- [[R0603-dat]] - [[R0805-dat]] - [[resistor-dat]]
 
 ## Shunt and Burden Resistor
 

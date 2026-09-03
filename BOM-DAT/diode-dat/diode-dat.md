@@ -18,6 +18,10 @@
 
 brand - [[st-dat]]
 
+## common didode 
+
+BZT52C10 丝印:`WF` 10V SOD-123 1206稳压管
+
 | model  | footprint | mark    |
 | ------ | --------- | ------- |
 | SS14   | SMA       | SS14/SL |
@@ -31,6 +35,7 @@ brand - [[st-dat]]
 ## diode info 
 
 ![](2025-08-27-12-53-45.png)
+
 
 ## Schottky diode
 

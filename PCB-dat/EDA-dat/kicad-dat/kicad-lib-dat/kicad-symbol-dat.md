@@ -3,7 +3,18 @@
 
 - [[kicad-footprint-dat]]
 
-## custom build symbol guide 
+- [[kicad-symbol-dat]] - [[kicad-dat]]
+
+## devices 
+
+- [[kicad-symbol-dat]]
+
+- [[mosfet-dat]] - [[mos-n-dat]] - [[mos-p-dat]]
+
+- [[CONN-dat]] == connector_generic
+
+
+
 
 ## common used global symbol A to Z 
 
@@ -39,6 +50,7 @@
 
 
 
+## custom build symbol guide 
 
 
 
