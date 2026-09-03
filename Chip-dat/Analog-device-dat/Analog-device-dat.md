@@ -1,6 +1,10 @@
 
 # analog-device-dat.md
 
+- [[DAC-dat]] - [[ADC-dat]] - [[AD-DAC-dat]] - [[AD-ADC-dat]]
+
+- [[analog-device-dat]] - [[AD-logic-dat]] - [[logic-dat]] - [[multiplexer-dat]]
+
 - [[MAX31856-dat]] - [[analog-device-dat]]
 
 - [[analog-device-dat]] - [[ADE7953-dat]]
@@ -10,7 +14,7 @@
 
 
 
-- [[DDS-dat]] - [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] - [[AD-digital-dat]]
+- [[DDS-dat]] - [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] 
 
 
 
@@ -48,6 +52,11 @@
 - [[max9813-dat]] - [[MAX9812-dat]]
 
 - [[analog-device-dat]] - [[ADV453-dat]] - CMOS 66 MHz Monolithic 256324 Color Palette RAM-DAC - [[DAC-dat]]
+
+
+- [[switch-chip-dat]] - [[power-switch-dat]] - [[AD-switch-dat]]
+
+
 
 The ADV453 is a complete analog video output RAM-DAC on a single monolithic chip. It is specifically designed for high resolution color graphics systems. The part contains a 256 3 24 color lookup table, a 3 3 24 overlay palette as well as triple 8-bit video D/A converters. The ADV453 is capable of simultaneously displaying up to 259 colors, 256 from the lookup table and three from the overlay registers, out of a total color palette of 16.8 million addressable colors.
 

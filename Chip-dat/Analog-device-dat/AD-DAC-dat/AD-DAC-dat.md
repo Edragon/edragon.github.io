@@ -2,12 +2,12 @@
 
 # AD-digital-dat
 
-
+- [[DAC-dat]] - [[ADC-dat]] - [[AD-DAC-dat]] - [[AD-ADC-dat]]
 
 - [[AD9850-dat]] - [[analog-device-dat]]
 
 
-- [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] - [[AD-digital-dat]]
+- [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] - [[AD-DAC-dat]]
 
 - [[DDS-dat]] - [[DAC-dat]] - [[clock-multiplier-dat]] - [[filter-digital-dat]] - [[DSP-dat]] - [[AD9857-dat]] - [[analog-device-dat]]
 

@@ -2,9 +2,15 @@
 
 # AD-ADC-dat
 
+- [[DAC-dat]] - [[ADC-dat]] - [[AD-DAC-dat]] - [[AD-ADC-dat]]
 
 
 - [[ADC-dat]] - [[AD-ADC-dat]] - [[analog-device-dat]]
+
+- [[analog-device-dat]] - [[AD-ADC-dat]] - [[ADC-dat]]
+
+- [[analog-device-dat]] - [[AD-ADC-dat]] - [[ADC-dat]] - [[AD7606-dat]]
+
 
 
 

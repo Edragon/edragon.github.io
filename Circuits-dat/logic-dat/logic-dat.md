@@ -27,6 +27,13 @@
 - [[Digital-Synthesizer-dat]]
 
 
+## chip 
+
+- [[analog-device-dat]] - [[AD-logic-dat]] - [[logic-dat]] - [[multiplexer-dat]]
+
+
+
+
 ## logic 
 
 - [[TTL-dat]] - [[CMOS-dat]] - [[logic-dat]]

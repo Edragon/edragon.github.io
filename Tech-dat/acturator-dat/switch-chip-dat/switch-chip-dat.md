@@ -1,12 +1,13 @@
 
 
-# switching-dat
+# switch-chip-dat
 
-- [[switch-dat]]
+- [[switch-dat]] - [[switch-chip-dat]] - [[power-switch-dat]]
+
 
 [[ACDC-dat]] + [[speed-controller-dat]] + [[dc-gear-motor-dat]]
 
-- [[switching-rf-dat]]
+- [[switch-rf-dat]]
 
 ![](2025-06-02-22-59-30.png)
 

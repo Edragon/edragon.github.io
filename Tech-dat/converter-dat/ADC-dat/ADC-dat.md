@@ -50,9 +50,8 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 TM7705+AD7705+16位ADC数据采集模块
 
-- [[AD7606-dat]]
+- [[analog-device-dat]] - [[AD-ADC-dat]] - [[ADC-dat]]
 
-![](2026-07-23-17-14-33.png)
 
 ## SCH 
 
