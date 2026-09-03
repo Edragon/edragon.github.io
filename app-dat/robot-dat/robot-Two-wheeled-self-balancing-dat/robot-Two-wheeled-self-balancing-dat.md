@@ -37,7 +37,7 @@ https://community.simplefoc.com
 
 - [[SimpleFOC-dat]]
 
-- [[LDO-dat]] - [[ST-power-dat]] - [[L78xx-dat]]
+- [[LDO-dat]] - [[ST-power-dat]] - [[L78xx-dat]] - [[ST-power-dat]] - [[ST-dat]] - [[L78-series-dat]]
 
 - [[encoder-dat]] - [[AS5600-dat]] - [[ams-dat]]
 

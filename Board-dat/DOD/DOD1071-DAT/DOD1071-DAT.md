@@ -14,8 +14,14 @@ Version V2 updates:
 - changed lead out pins 
 - new type micro-USB part
 
-
-
+- LED1 == P42
+- LED2 == P42
+- Button == P46 
+- P02 == RXD
+- P03 == TXD
+- P11 == ADC external measurement 
+- P26 P27 == UART1 
+- P57 == Reset 
 
 
 ## V1

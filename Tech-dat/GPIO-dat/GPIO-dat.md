@@ -6,6 +6,7 @@
 
 - [[IO-panel-dat]] - [[IOs-dat]] - [[GPIO-dat]]
 
+- [[io-expander-dat]] - [[GPIO-dat]] - [[NXP-dat]] - [[NXP-io-expander-dat]]
 
 
 

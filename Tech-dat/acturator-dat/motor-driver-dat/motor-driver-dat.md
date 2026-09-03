@@ -121,6 +121,10 @@
 
 ## chips 
 
+
+
+
+
 - [[ti-motor-dat]] - [[DRV8825-dat]] - [[DRV8837-dat]] - [[DRV8313-dat]] - [[DRV8833-dat]] - [[DRV8837-dat]] - [[DRV8870-dat]] - [[DRV8876-dat]] - [[DRV8711-dat]] - [[DRV8874-dat]] - [[DRV8803-dat]] - [[DRV8834-dat]] - [[DRV8872-dat]] - [[DRV8220-dat]] - [[DRV8848-dat]] - [[DRV8800-dat]] - [[DRV8841-dat]] - [[DRV8812-dat]] - [[DRV8801-dat]] - [[DRV8860-dat]] - [[DRV8836-dat]] - [[DRV8821-dat]]
 
 - [[DRV8835-dat]] - [[DRV8880-dat]] - [[DRV8840-dat]] - [[DRV8844-dat]] - [[DRV8231-dat]]
@@ -133,7 +137,7 @@
 
 - [[allegro-dat]] - [[A4988-dat]] - [[A4954-dat]] - [[A4950-dat]] - [[A3967-dat]]
 
-- [[Infineon-dat]] - [[BTS7960-dat]] - [[BTN7960-dat]]
+- [[Infineon-dat]] - [[BTS7960-dat]] - [[BTN7960-dat]] - [[infineon-motor-driver-dat]] - [[motor-driver-dat]] - [[infineon-dat]]
 
 - [[st-motor-driver-dat]] - [[st-dat]] - [[BTN7971-dat]]
 

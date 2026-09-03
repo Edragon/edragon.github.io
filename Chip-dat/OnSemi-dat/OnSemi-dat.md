@@ -19,6 +19,10 @@
 
 - [[NCP1342-dat]] - [[onsemi-dat]] - [[power-flyback-controller-dat]]
 
+
+- [[onsemi-dat]] - [[onsemi-LDO-dat]] - [[LDO-dat]]
+
+
 ## mosfet 
 
 T14 

@@ -1,6 +1,7 @@
 
 # TI-power-dat
 
+- [[power-dat]] - [[ti-power-dat]]
 
 - [[ti-power-dcdc-boost-dat]] - [[TI-power-dcdc-down-dat]]
 
@@ -10,7 +11,7 @@
 - [[TI-power-dcdc-boost-down-dat]] - [[TI-power-dat]] - [[TI-dat]] - [[TPS63900-dat]]
 
 
-
+- [[TI-power-dat]]- [[power-switch-dat]]
 
 
 ## USB 
@@ -50,6 +51,9 @@ The bq80xx family of devices are not sold to the mass market so there is no publ
 
 ## LDO 
 
+TPS7350QDR == 500-mA, 10-V, low-dropout voltage regulator with power good & enable | D | 8 | -40 to 125
+
+![](2026-09-03-15-49-25.png)
 
 
 

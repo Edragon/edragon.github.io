@@ -3,7 +3,29 @@
 
 # AD-amplifier-dat
 
-MAX9938 - nanoPower, 4-Bump UCSP/SOT23, Precision Current-Sense Amplifier
-
 
 - [[AD620-dat]] - [[AD-amplifier-dat]] - 
+
+
+- [[AD-amplifier-dat]] - [[amplifier-dat]]
+
+
+
+MAX9938 - nanoPower, 4-Bump UCSP/SOT23, Precision Current-Sense Amplifier
+
+TC6910-1/LTC6910-2/LTC6910-3 == Digitally Controlled Programmable Gain Amplifiers in SOT-23
+
+![](2026-09-03-16-13-17.png)
+
+
+## AD817
+
+High Speed, Low Power Wide Supply Range Amplifier
+
+![](2026-09-03-16-37-58.png)
+
+
+
+
+## ref 
+

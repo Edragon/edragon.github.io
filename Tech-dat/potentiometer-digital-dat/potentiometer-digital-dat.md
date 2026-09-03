@@ -2,7 +2,16 @@
 
 # potentiometer-digital-dat
 
+
+
+
 - [[potentiometer-digital-dat]] - [[resistor-trim-pot-dat]] - [[resistor-dat]]
+
+
+
+## chip 
+
+- [[potentiometer-digital-dat]] - [[analog-device-dat]] - [[AD-potentiometer-digital-dat]]
 
 
 ## SCH

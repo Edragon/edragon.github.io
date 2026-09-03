@@ -30,6 +30,10 @@ PCF85176 == 40 x 4 universal LCD driver for low multiplex rates
 
 - [[PCF8574-dat]]
 
+- [[NXP-MCU-dat]]
+
+- [[io-expander-dat]] - [[GPIO-dat]] - [[NXP-dat]] - [[NXP-io-expander-dat]]
+
 
 ## processer 
 

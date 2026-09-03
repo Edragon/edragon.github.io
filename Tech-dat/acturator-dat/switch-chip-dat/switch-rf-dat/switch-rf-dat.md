@@ -1,5 +1,5 @@
 
-# switching-rf-dat
+# switch-rf-dat
 
 [ADRF5019BCPZN](https://www.analog.com/media/en/technical-documentation/data-sheets/adrf5019.pdf)
 
