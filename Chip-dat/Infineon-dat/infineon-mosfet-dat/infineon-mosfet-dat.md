@@ -5,6 +5,18 @@
 - [[mosfet-dat]] - [[infineon-dat]] - [[infineon-mosfet-dat]]
 
 
+
+## BTH50030-1LUA
+
+Power PROFET™ + 24/48V smart high-side power switch
+
+Power Switch/Driver 1:1 N-Channel 25A PG-HSOF-8-6
+
+
+
+
+## chip  4P04L11
+
 == - 40 V -50 A
 
 4P04L11 - https://www.mouser.sg/datasheet/3/70/1/Infineon_IPD50P04P4L_11_DataSheet_v01_01_EN.pdf

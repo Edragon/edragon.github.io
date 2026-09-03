@@ -14,6 +14,9 @@
 
 - IRF540N
 
+- [[infineon-motor-driver-dat]] - [[motor-driver-dat]]
+
+
 
 
 ## PMIC / power 

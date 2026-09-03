@@ -10,7 +10,10 @@
 
 - [[ST-mosfet-dat]] - [[ST-dat]]
 
+- [[ST-amplifier-dat]] - [[amplifier-dat]]
 
+
+- [[L78xx-dat]] - [[ST-power-dat]] - [[ST-dat]] - [[L78-series-dat]]
 
 
 MM6108IQ == Single chip solution, including Radio, PHY, and MAC sections supporting data rates up to 32.5 Mbps
