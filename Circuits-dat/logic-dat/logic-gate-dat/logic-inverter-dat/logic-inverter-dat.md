@@ -1,5 +1,8 @@
 # logic-inverter-dat
 
+- [[logic-XOR-dat]] - [[logic-NAND-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
+
+
 
 how to select a suitable inverter 
 

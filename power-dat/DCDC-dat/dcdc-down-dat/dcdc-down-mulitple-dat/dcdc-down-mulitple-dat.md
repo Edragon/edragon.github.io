@@ -3,9 +3,15 @@
 # dcdc-down-mulitple-dat.md
 
 
+## chip 
+
 - [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
 
 - [[TI-power-dat]] - [[ETA-solutions-dat]]
+
+- [[AD-power-dat]] - [[dcdc-down-mulitple-dat]]
+
+
 
 
 

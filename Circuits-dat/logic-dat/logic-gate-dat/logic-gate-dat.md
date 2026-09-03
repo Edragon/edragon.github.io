@@ -6,7 +6,15 @@
 
 - [[buffer-dat]] - [[74xx-dat]]
 
-- [[XOR-dat]]
+- [[logic-XOR-dat]] - [[logic-NAND-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
+
+
+
+## chip 
+
+- [[ad-logic-dat]] 
+
+- [[ti-logic-dat]]
 
 
 ## Inverters

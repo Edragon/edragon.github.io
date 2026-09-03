@@ -74,6 +74,11 @@ The AEC-Q100 qualified LDOs and LDOs operating in wide temperature ratings are i
 
 - [[RT9011-dat]] - [[RT9013-dat]] - [[RT9193-dat]] - [[richtek-dat]] - [[RT9266-dat]] - [[RT8279-dat]] - [[LDO-2CH-dat]]
 
+
+- [[onsemi-dat]] - [[onsemi-LDO-dat]] - [[LDO-dat]]
+
+
+
 comparable table 
 
 

@@ -9,6 +9,17 @@
 - [[TI-dat]] - [[TI-logic-dat]] - [[logic-inverter-dat]] - [[logic-dat]]
 
 
+
+
+- [[logic-XOR-dat]] - [[logic-NAND-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
+
+
+## NAND 
+
+SN74LVC2G00 Dual 2-Input Positive-NAND Gate
+
+
+
 ## inverter 
 
 

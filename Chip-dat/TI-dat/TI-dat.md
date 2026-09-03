@@ -27,7 +27,7 @@
 
 - [[TI-network-dat]]
 
-- [[TI-power-dat]] 
+- [[TI-power-dat]] - [[TI-LDO-dat]]
 
 - [[TI-sensor-dat]]
 

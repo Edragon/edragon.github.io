@@ -5,6 +5,13 @@
 - [[switch-chip-dat]] - [[power-switch-dat]] - [[AD-switch-dat]]
 
 
+
+ADG1221/ADG1222/ADG1223 == Low Capacitance, Low Charge Injection, ±15 V/+12 V iCMOS® Dual SPST Switches
+
+![](2026-09-03-16-44-05.png)
+
+
+
 ADG1636 == 1 Ω Typical On Resistance, ±5 V, +12 V, +5 V, and +3.3 V Dual SPDT Switche
 
 https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1636.pdf
