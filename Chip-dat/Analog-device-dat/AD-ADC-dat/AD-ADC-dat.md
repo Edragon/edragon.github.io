@@ -12,6 +12,31 @@
 - [[analog-device-dat]] - [[AD-ADC-dat]] - [[ADC-dat]] - [[AD7606-dat]]
 
 
+## AD 
+
+- [AD9244BSTZ - 14-Bit, 40 MSPS/65 MSPS A/D Converter - AD9244](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9244.pdf)
+
+AD8229
+
+AD524BDZ
+
+ADA4077
+
+## ADC 
+
+- MAX22530–MAX22532 - Field-Side Self-Powered, 4-Channel, 12-bit, Isolated ADC
+
+- LTC2225IUH - 12-Bit, 10Msps Low Power 3V ADC
+
+- MAX22530AWE - Field-Side Self-Powered, 4-Channel, 12-bit, Isolated ADC
+
+AD8221 - Precision Instrumentation Amplifier
+
+AD8250 - 10 MHz, 20 V/μs, G = 1, 2, 5, 10 iCM0S Programmable Gain Instrumentation Amplifier
+
+
+
+
 
 
 AD7911/AD7921 - 2-Channel, 2.35 V to 5.25 V 250 kSPS, 10-/12-Bit ADCs

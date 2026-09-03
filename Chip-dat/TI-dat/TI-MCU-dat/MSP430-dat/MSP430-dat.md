@@ -2,10 +2,14 @@
 # MSP430-dat
 
 
-- [[MSP430-SDK-dat]] - [[MSP430-dat]] - [[TI-dat]]
+- [[MSP430-SDK-dat]] - [[MSP430-dat]] - [[TI-dat]] - [[TI-MCU-dat]]
 
+
+## board 
 - [[DOD1060-dat]]
 
+
+## info 
 
 MIXED SIGNAL MICROCONTROLLER
 
@@ -18,6 +22,22 @@ MSP430 devices can run up to 25Mhz and the active power consumption of the most 
 
 
 - [[MSP430-SDK-dat]]
+
+
+
+
+MSP430F5310IPT == 25 MHz MCU with 32KB Flash, 6KB SRAM, 10-bit ADC, comparator, DMA, UART/SPI/I2C, HW multiplier | PT | 48 | -40 to 85
+
+https://www.ti.com/lit/ds/symlink/msp430f5310.pdf
+
+![](2026-09-03-16-23-46.png)
+
+
+MSP430F5438AIPZ == 25-MHz MCU with 256-KB flash, 16-KB SRAM, 12-bit ADC, DMA, UART/SPI/I2C, timer, HW multiplier | PZ | 100 | -40 to 85
+
+
+
+
 
 ## ref 
 

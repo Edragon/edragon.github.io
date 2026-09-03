@@ -14,5 +14,19 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1636.pdf
 
 - [[circuits-dat]] - [[logic-dat]]
 
+
+
+## switching 
+
+ADG1433/ADG1434 - 4 Ω RON, Triple/Quad SPDT ±15 V/+12 V/±5 V iCMOS Switches
+
+ADG1409YRUZREEL7
+
+ADG1434YRUZ
+
+
+
+
+
 ## ref 
 

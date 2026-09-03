@@ -7,10 +7,10 @@
 
 
 
+## chip 
 
-ADuM3400/ADuM3401/ADuM3402 - Quad-Channel, Digital Isolators, Enhanced System-Level ESD Reliability
+- [[AD-digital-isolator-dat]] - [[isolator-dat]] - [[analog-device-dat]]
 
-Quad-Channel Digital Isolators
 
 
 - [[mosfet-photo-dat]]

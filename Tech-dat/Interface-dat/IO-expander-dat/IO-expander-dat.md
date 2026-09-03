@@ -22,6 +22,12 @@ TCA9555 / PCA9555 I2C 16 路 IO 扩展
 
 ![](2026-07-23-20-39-56.png)
 
+
+- [[io-expander-dat]] - [[GPIO-dat]] - [[NXP-dat]] - [[NXP-io-expander-dat]]
+
+
+
+
 ## tech 
 
 - [[PCF8574-dat]] - [[IO-expander-dat]] - [[MCP23008-dat]] - [[I2C-dat]]

@@ -5,6 +5,8 @@
 
 - [[analog-device-dat]] - [[AD-logic-dat]] - [[logic-dat]] - [[multiplexer-dat]]
 
+- [[AD-amplifier-dat]] - [[amplifier-dat]]
+
 - [[MAX31856-dat]] - [[analog-device-dat]]
 
 - [[analog-device-dat]] - [[ADE7953-dat]]
@@ -57,21 +59,12 @@
 - [[switch-chip-dat]] - [[power-switch-dat]] - [[AD-switch-dat]]
 
 
+- [[AD-digital-isolator-dat]] - [[isolator-dat]]
+
 
 The ADV453 is a complete analog video output RAM-DAC on a single monolithic chip. It is specifically designed for high resolution color graphics systems. The part contains a 256 3 24 color lookup table, a 3 3 24 overlay palette as well as triple 8-bit video D/A converters. The ADV453 is capable of simultaneously displaying up to 259 colors, 256 from the lookup table and three from the overlay registers, out of a total color palette of 16.8 million addressable colors.
 
-## adum 
-
-ADUM1401ARWZ-RL ADI 2024+ 0.65usd
-
-AD8221BRZ-R7 ADI 2024+ 2usd    
-
-ADUM3402ARWZ-RL ADI 2021+ 2.7usd
-
-ADUM5000ARWZ-RL ADI 2022+ 2.52usd
-
-ADUM3400BRWZRL
-
+- [[potentiometer-digital-dat]] - [[analog-device-dat]] - [[AD-potentiometer-digital-dat]]
 
 ## 4CH DCDC 
 
@@ -80,27 +73,6 @@ ADUM3400BRWZRL
 
 
 
-## AD 
-
-- [AD9244BSTZ - 14-Bit, 40 MSPS/65 MSPS A/D Converter - AD9244](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9244.pdf)
-
-AD8229
-
-AD524BDZ
-
-ADA4077
-
-## ADC 
-
-- MAX22530–MAX22532 - Field-Side Self-Powered, 4-Channel, 12-bit, Isolated ADC
-
-- LTC2225IUH - 12-Bit, 10Msps Low Power 3V ADC
-
-- MAX22530AWE - Field-Side Self-Powered, 4-Channel, 12-bit, Isolated ADC
-
-AD8221 - Precision Instrumentation Amplifier
-
-AD8250 - 10 MHz, 20 V/μs, G = 1, 2, 5, 10 iCM0S Programmable Gain Instrumentation Amplifier
 
 
 ## AMP 
@@ -136,26 +108,6 @@ The LTM®4702 is a complete 8A step-down Silent Switcher® 3 µModule® regulato
 LTM4707IY - 18VIN, 16A SILENT SWITCHER REGUL
 
 
-
-
-## LDO 
-
-LT3042 - 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator
-
-LT3094 - -20V, 500mA, Ultralow Noise, Uitrahigh PSRR Negative Linear Regulator
-
-LT1963AEST-3.3 - Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A SOT-223-3
-
-LT3029IDE - Linear Voltage Regulator IC Positive Adjustable 2 Output 500mA, 500mA
-
-
-## switching 
-
-ADG1433/ADG1434 - 4 Ω RON, Triple/Quad SPDT ±15 V/+12 V/±5 V iCMOS Switches
-
-ADG1409YRUZREEL7
-
-ADG1434YRUZ
 
 
 ## ref 
