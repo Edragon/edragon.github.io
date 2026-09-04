@@ -65,6 +65,8 @@ from a to z
 
 - [[ST-dat]] - [[STM32-dat]] - [[STM32-HDK-dat]] - [[STM32-SDK-dat]]
 
+- [[sensirion-dat]]
+
 - [[semtech-dat]] - [[SX1262-dat]] - [[sx1278-dat]] - [[LLCC68-dat]]
 
 - [[silicon-labs-dat]]

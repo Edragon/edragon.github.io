@@ -149,6 +149,13 @@ To visualize or analyze the raw audio waveform:
 - 具体根据用户使用场景或者环境测试为准
 
 
+
+## build 
+
+ZTS6216
+
+![](2026-09-05-01-38-51.png)
+
 ## ref 
 
 - [[LM393-dat]] - [[I2S-dat]]

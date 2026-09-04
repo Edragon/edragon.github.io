@@ -1,6 +1,32 @@
 
 # sensor-RCWL-dat
 
+- [[sensor-RCWL-dat]] - [[sensor-mmwave-dat]] - [[sensor-radar-dat]] - [[sensor-motion-dat]]
+
+
+mmWave 24GHz Human Presence Detection Sensor (12 Meters, I2C & UART)
+
+Compared to other types of human presence sensors, such as infrared sensors, the (12m) millimeter wave presence sensor has the advantage of detecting `both static and moving objects`. 
+
+It also has a relatively strong anti-interference ability, making it less susceptible to factors such as temperature changes, variations in ambient light, and environmental noise. Whether a person is sitting, sleeping, or moving, the sensor can quickly and sensitively detect their presence.
+
+![](2026-09-05-01-58-21.png)
+
+
+**Distance and velocity detection of mmwave sensor**
+
+The (12m) millimeter wave presence sensor utilizes `FMCW modulation` for distance and speed measurement. It has a maximum detection range of 12 meters and a speed measurement range of 0.1 to 10 meters per second.
+
+`FMCW (Frequency Modulated Continuous Wave)` is a type of radar system based on frequency modulation of continuous wave signals. Unlike traditional pulse radar, FMCW radar continuously emits a series of continuous wave signals with gradually changing frequencies while simultaneously receiving the reflected signals. By analyzing the received signals, measurements of parameters such as distance, speed, and angle can be achieved.
+
+Compared to traditional `pulse radar technology`, FMCW radar can continuously measure the distance of an object. By utilizing the Doppler effect, it can also obtain information about the velocity of the target object. This makes FMCW radar suitable for applications that require tracking the movement of objects. Additionally, FMCW radar can achieve continuous frequency scanning, providing higher measurement resolution. Since it does not require waiting for the return of echo signals, FMCW radar is suitable for applications that require real-time monitoring and tracking of target objects.
+
+
+What is a millimeter-wave radar sensor?
+
+Millimeter-wave radar technology is a non-contact sensing technology used to detect objects and provide information about their distance, velocity, and angle (in the case of humans, for example). 
+
+The signals emitted by millimeter-wave sensors fall within the high-frequency spectrum with wavelengths `between 24GHz and 300GHz`, also known as the millimeter (mm) range.
 
 
 ## SCH 
@@ -48,7 +74,7 @@ RCWL-0516 是一款采用多普勒雷达技术，专门检测物体移动的微�
 
 ## info 
 
-The RCWL microwave sensor is a motion detection sensor that uses microwave Doppler radar technology. 
+The RCWL microwave sensor is a motion detection sensor that uses `microwave Doppler radar technology`. 
 
 It emits microwave signals and detects changes caused by moving objects, such as people or animals. 
 

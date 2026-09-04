@@ -139,6 +139,9 @@ Simple I2S audio output demo for ESP32-S3 → I2S amplifier (MAX98357 / PCM5102 
 - Replace sine wave with WAV data by filling buffer directly
 
 
+## build SCH 
+
+![](2026-09-05-01-39-58.png)
 
 
 ## demo 
