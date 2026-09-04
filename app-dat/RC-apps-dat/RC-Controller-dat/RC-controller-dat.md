@@ -57,6 +57,8 @@ Roll Pitch Yaw Throttle
 
 - [[RC-controller-dat]]
 
+- restart the device in case 
+
 ### Step-by-Step Path to Calibration
 
 1. **Open System Settings:**
