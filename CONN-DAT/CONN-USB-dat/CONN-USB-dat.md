@@ -2,7 +2,7 @@
 # CONN-USB-dat
 
 
-
+- [[CONN-USB-dat]] - [[AD-digital-isolator-dat]]
 
 - [[CONN-USB-dat]] - [[CONN-USB-A-dat]] - [[CONN-USB-B-dat]] - [[CONN-USB-C-dat]] - [[CONN-USB-type-C-dat]]
 

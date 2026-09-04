@@ -13,6 +13,11 @@
 - [[M2M-dat]] - [[CAT-M-dat]] - [[CAT-NB-dat]] - [[SIMCOM-dat]] - [[SIM7080-dat]]
 
 
+
+
+
+
+
 ## Module manufacturer
 
 - [[fibocom-dat]] - [[quectel-dat]]
@@ -21,6 +26,9 @@
 
 
 ## tech 
+
+- [[M2M-dat]] - [[M2M-HDK-dat]] - [[M2M-HDK-ref-dat]] - [[M2M-HDK-debug-dat]]
+
 
 - 2G
 - LWPA
