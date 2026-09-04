@@ -12,7 +12,7 @@
 
 BZT52C10 == W9 - SOD-123
 
-- [[mosfet-dat]]
+- [[mosfet-dat]] - [[mosfet-rank-dat]]
 
 
 

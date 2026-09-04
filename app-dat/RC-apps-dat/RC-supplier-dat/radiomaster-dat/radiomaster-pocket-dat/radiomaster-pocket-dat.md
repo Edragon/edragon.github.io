@@ -13,7 +13,7 @@
 - [[motor-driver-design-dat]]
 
 
-
+- [[IRX4-lite-dat]] - [[irangex-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-module-dat]]
 
 
 ## legacy protocols
