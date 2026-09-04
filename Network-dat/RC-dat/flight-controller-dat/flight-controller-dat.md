@@ -2,7 +2,7 @@
 # flight-controller-dat
 
 
-- [[FPV-build-dat]]
+- [[FPV-wiring-dat]] - [[FPV-build-dat]] - [[flight-controller-dat]]
 
 
 - [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
@@ -33,10 +33,6 @@
 - [[X12-dat]] - [[CRAZYBEEF4SX1280-dat]]
 
 - [[pixelhawk-6c-dat]]
-
-## FC AIO = flight controller all in one
-
-![](2025-05-28-16-21-09.png)
 
 
 

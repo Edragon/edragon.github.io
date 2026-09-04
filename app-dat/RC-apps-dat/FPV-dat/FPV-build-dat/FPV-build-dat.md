@@ -11,6 +11,11 @@
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]] - [[goggles-dat]]
 
 
+- [[FPV-wiring-dat]] - [[FPV-build-dat]] - [[FUS-X111-dat]]
+
+
+
+
 ## build 5in
 
 | part                      | build 1                          |
