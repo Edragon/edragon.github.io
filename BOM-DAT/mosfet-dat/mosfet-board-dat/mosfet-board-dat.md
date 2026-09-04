@@ -37,7 +37,9 @@ board map
 
 ![](2026-09-04-01-43-48.png)
 
-- [[resistor-dat]] - [[R0603-dat]]
+- [[resistor-dat]] - [[R0603-dat]] - [[transistor-dat]] - [[S8050-dat]]
+
+- [[mos-n-drive-dat]] - [[mos-p-drive-dat]]
 
 one side circuit 
 

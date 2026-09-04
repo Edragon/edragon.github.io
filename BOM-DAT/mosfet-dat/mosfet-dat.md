@@ -51,6 +51,8 @@ similar
 
 - [[SDR1073-dat]] 
 
+- [[mosfet-board-dat]]
+
 ## brand 
 
 common brand: [[Vishay-dat]]
