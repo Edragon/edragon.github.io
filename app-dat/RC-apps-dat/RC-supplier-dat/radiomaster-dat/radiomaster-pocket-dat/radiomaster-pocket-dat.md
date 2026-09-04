@@ -2,6 +2,8 @@
 # radiomaster-pocket-dat.md
 
 
+- [[radiomaster-dat]] - [[rc-controller-dat]] - [[radiomaster-pocket-dat]]
+
 - [[radiomaster-dat]] - [[radiomaster-pocket-module-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-CC2500-dat]] - [[frsky-dat]]
 
 
@@ -14,6 +16,8 @@
 
 
 - [[IRX4-lite-dat]] - [[irangex-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-module-dat]]
+
+- [[betaflight-dat]]
 
 
 ## legacy protocols
@@ -243,13 +247,13 @@ RC template
 
 
 | AUX  | Switch / Knob | Type                           | Typical Use                     |
-|---|---------------|--------------------------------|---------------------------------|
-| AUX1  | SA            | 2-position switch              | Arming, auxiliary control       |
-| AUX2  | SB            | 3-position switch              | Flight modes, auxiliary control |
-| AUX3  | SC            | 3-position switch              | Flight modes, auxiliary control |
-| AUX4  | SD            | 2-position self-locking switch | Auxiliary function              |
-|   | SE            | Momentary (spring-loaded)      | Beeper, auxiliary function      |
-|   | S1            | Rotary potentiometer           | Auxiliary function, trims       |
+| ---- | ------------- | ------------------------------ | ------------------------------- |
+| AUX1 | SA            | 2-position switch              | Arming, auxiliary control       |
+| AUX2 | SB            | 3-position switch              | Flight modes, auxiliary control |
+| AUX3 | SC            | 3-position switch              | Flight modes, auxiliary control |
+| AUX4 | SD            | 2-position self-locking switch | Auxiliary function              |
+|      | SE            | Momentary (spring-loaded)      | Beeper, auxiliary function      |
+|      | S1            | Rotary potentiometer           | Auxiliary function, trims       |
 
 
 

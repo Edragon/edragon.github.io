@@ -13,13 +13,23 @@
 
 ## supplier 
 
-- [[radiomaster-dat]] 
+- [[radiomaster-dat]] - [[rc-controller-dat]] - [[radiomaster-pocket-dat]]
 
 - [[flysky-dat]]
 
 - [[microzone-dat]]
 
+- [[irangex-dat]]
+
 ## info 
+
+
+- [[yaw-dat]] - [[throttle-dat]] - [[roll-dat]] - [[pitch-dat]]
+
+may add new-user-friendly yaw: `weight` = 80, `expo` == 25
+
+![](2026-09-04-19-01-03.png)
+
 
 
 Check **Channel Map**: should be **AETR**.
@@ -40,6 +50,28 @@ Roll Pitch Yaw Throttle
 - [[radiomaster-dat]] - [[lightradio-dat]]
 
 - [[mobula8-dat]]
+
+
+
+## controller calibration 
+
+- [[RC-controller-dat]]
+
+### Step-by-Step Path to Calibration
+
+1. **Open System Settings:**
+   * Press and **hold the SYS button** on the left side of the screen.
+   * You will enter the **TOOLS** screen by default.
+
+2. **Navigate to the HARDWARE Page:**
+   * Press the **`PAGE >`** button **3 times** to cycle through the menu tabs (`TOOLS` $\rightarrow$ `RADIO SETUP` $\rightarrow$ `GLOBAL FUNCTIONS` $\rightarrow$ `HARDWARE`).
+   * Look at the top title bar—you must be on the **HARDWARE** page.
+
+3. **Select Calibration:**
+   * **`[Calibration]`** is the very first option listed at the top of the **HARDWARE** page.
+   * Scroll the roller wheel to highlight **`[Calibration]`** and press the roller wheel (Enter).
+
+
 
 
 

@@ -1,6 +1,11 @@
 
 # betaflight-configuration-dat
 
+
+
+
+
+
 ## options 
 
 ### Crash Recovery
@@ -67,12 +72,30 @@ Note: Make sure your FC is able to operate at these speeds! Check CPU and cyclet
 - Magnetometer (if supported)
 
 
+
+
+## beeper 
+
+- [[Betaflight-configuration-dat]] - [[BF-beeper-dat]]
+
+In some newer versions of Betaflight Configurator:
+1. Go to the **Configuration** tab.
+2. Scroll down to the **Other Features** section.
+3. Check the box for **BEEPER** (and ensure DShot is selected as your motor protocol in the same tab).
+4. Click **Save and Reboot**.
+
+![](2026-09-04-17-57-26.png)
+
+
 ### Dshot Beacon Configuration
 
 Beacon Tone
 
 - RX_LOST - Beeps when TX is turned off or signal lost (repeat until TX is okay)
 - RX_SET - Beeps when aux channel is set for beep
+
+
+
 
 ### other features 
 

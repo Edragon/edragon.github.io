@@ -9,7 +9,7 @@
 
 - [[betaflight-presents-dat]]  - [[betaflight-configuration-dat]] 
 
-- [[betaflight-receiver-dat]] - [[betaflight-modes-dat]] - [[betaflight-motors-dat]] - [[betaflight-modes-dat]]
+- [[betaflight-modes-dat]] - [[betaflight-motors-dat]] - [[betaflight-modes-dat]]
 
 - [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-blackbox-dat]]
 
@@ -17,6 +17,14 @@
 
 
 - [[BF-beeper-dat]]
+
+
+## setup 
+
+main setup 
+
+- [[betaflight-receiver-dat]] 
+
 
 ## betaflight supports 
 
