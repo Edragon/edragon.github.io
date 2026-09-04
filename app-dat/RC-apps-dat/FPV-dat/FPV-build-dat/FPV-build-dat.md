@@ -113,6 +113,21 @@ total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 - **Goggles**: Wearable displays that allow pilots to see the live video feed from the drone's camera. They often include features like head tracking and DVR (Digital Video Recorder) capabilities.
 
 
+
+
+
+
+- [[FPV-build-dat]] - [[FPV-3in-dat]] - [[FUS-X111-dat]]
+
+
+## power up check 
+
+- [[power-smoke-stopper-dat]] - [[power-dat]] - [[FPV-build-dat]]
+
+
+
+
+
 ## ref 
 
 - [[FPV]] - [[FPV-build]]

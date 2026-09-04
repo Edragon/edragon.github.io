@@ -57,7 +57,7 @@
 - [[power-wireless-dat]] - [[power-dat]]
 
 
-##[[wireless-charge-dat]]
+## [[wireless-charge-dat]]
 
 - [[breadboard-power-dat]]
 
@@ -141,6 +141,12 @@ At switch off state the supply current decreases to less than 1μA.The MT9700 is
 ME1502 是一款适用于5V应用的可调限流门限的USB接口输出保护芯片。芯片内部集成了过流保护、短路保护、过温保护、欠压保护等功能，在输出发生过流、短路或带大电容负载启动等情况时可以限制电流输出从而保护前级电源。
 
 ME1502 70mΩ, 5V USB High-Side Adjustable Threshold Current Limit Load Switch
+
+
+
+## apps 
+
+- [[power-smoke-stopper-dat]] - [[power-dat]]
 
 
 
