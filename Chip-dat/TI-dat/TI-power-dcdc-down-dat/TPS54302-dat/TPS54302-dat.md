@@ -37,6 +37,15 @@ For this design example, use KIND = 0.35. The minimum inductor value is calculat
 
 - [[inductor]]
 
+
+
+
+## build 
+
+SCH APP 1 
+
+![](2026-09-05-15-20-04.png)
+
 ## ref 
 
 - [[TPS54302]]

@@ -2,6 +2,9 @@
 # power-dat.md
 
 
+
+- [[aerosemi-dat]] - [[MT9700-dat]] - [[power-limit-dat]] - [[power-dat]]
+
 - [[control-dat]] - [[PCB-design-power-dat]] - [[PCB-design-dat]] 
 
 

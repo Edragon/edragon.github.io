@@ -20,6 +20,8 @@
 
 - [[LDO-dat]] - [[logic-level-shifter-dat]]
 
+
+
 ## camera CSI 
 
 - [[sensor-camera-CSI-dat]] - [[sensor-camera-dat]] - [[camera-CSI-dat]]
@@ -28,6 +30,10 @@
 ![](2026-09-05-15-08-39.png)
 
 
+
+## power part 
+
+![](2026-09-05-15-26-43.png)
 
 
 
