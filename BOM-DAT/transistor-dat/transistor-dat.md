@@ -18,6 +18,14 @@ common brand: 	Infineon
 
 ## types 
 
+power transistor 
+
+`BCX53-16` - 80 V, 1 A PNP medium power transistors - PNP medium power transistors in a SOT89 (SC-62) flat lead Surface-Mounted Device (SMD) plastic package. - marking == `AL`
+
+https://assets.nexperia.com/documents/data-sheet/BCX53_SER.pdf
+
+NPN and PNP
+
 ![](2024-10-06-16-36-27.png)
 
 - ref - https://www.censtry.com/blog/transistor-npn-vs-pnp-difference-between-pnp-and-npn-transistor.html
