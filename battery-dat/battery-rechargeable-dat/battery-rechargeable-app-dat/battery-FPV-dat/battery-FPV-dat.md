@@ -9,6 +9,11 @@
 
 - [[FPV-build-dat]]
 
+
+- [[CONN-A30-dat]] - [[PH2.0-dat]] - [[CONN-power-dat]] - [[FPV-build-dat]] - [[battery-FPV-dat]] - [[battery-1S-dat]] - [[CONN-JST-dat]]
+
+
+
 ## voltage from 2S to 1S
 
 Swapping a Mobula8 from 2S to 1S won't fly better — it may barely fly at all. This is a **voltage-platform problem**, not a weight problem.
@@ -120,6 +125,58 @@ DAI WONG GAU大黄狗航模1350-1550mAh 6S150C竞速FPV穿越机锂电池
 ### 花牌
 
 花牌 锂电池 7.4v / 11.1v 550 mah 40c 85C 超小型固定翼 穿越机
+
+
+
+
+## charge current selection 0.2A / 0.6A 
+
+Recommended Charging Current for 1S LiPo/LiHV Batteries
+
+For typical **1S batteries (300 mAh to 500 mAh)** used in micro FPV whoops like the Mobula6, choosing between **0.2 A** and **0.6 A** depends on whether you prioritize **battery lifespan** or **charging speed**.
+
+---
+
+### 1. Calculating Charge Rates (C-Rating)
+
+The charging rate is calculated using the battery's capacity ($C$):
+
+$$\text{Charge Current (A)} = \text{Battery Capacity (Ah)} \times \text{Charge Rate (C)}$$
+
+For a standard **300 mAh (0.3 Ah)** 1S battery:
+* **0.2 A**: $\approx \mathbf{0.67\text{ C}}$ (Slow / gentle charge — takes over 60 minutes)
+* **0.3 A**: $= \mathbf{1\text{ C}}$ (**Standard recommended rate** — takes 45–60 minutes)
+* **0.6 A**: $= \mathbf{2\text{ C}}$ (Fast charge — takes 20–30 minutes)
+
+---
+
+### 2. Comparison: 0.2 A vs. 0.6 A (for a 300 mAh Battery)
+
+| Charge Current | Rate (C) | Approx. Duration | Pros & Cons | Best Use Case |
+| :--- | :--- | :--- | :--- | :--- |
+| **0.2 A** | $\approx 0.67\text{ C}$ | 60–75 mins | **Pros**: Generates minimal heat, maximizes overall cycle life.<br>**Cons**: Slower charge time. | Charging at home or preparing batteries overnight. |
+| **0.6 A** | $= 2\text{ C}$ | 20–30 mins | **Pros**: Fast turnaround time.<br>**Cons**: Slight heat generation; long-term use slightly accelerates cell aging. | Field charging or quick battery rotations. |
+
+---
+
+### 3. Recommended Settings by Battery Capacity
+
+If using a smart charger with adjustable current (e.g., ViFLY WhoopStor v3):
+
+* **300 mAh Batteries** (Mobula6 standard):
+  * **Safe / Standard (1C)**: **0.3 A**
+  * **Fast Charge (2C)**: **0.6 A**
+* **450 mAh – 550 mAh Batteries** (Mobula7 / 75mm Whoops):
+  * **Safe / Standard (1C)**: **0.5 A**
+  * **Fast Charge (1.3C–1.5C)**: **0.6 A – 0.8 A**
+
+---
+
+### 4. Usage Advice
+
+1. **High-Performance Folded Cells (BT2.0 / A30 connectors)**: Quality batteries from BetaFPV, GNB, or Tattu are rated for **2C or higher** charging. Using **0.6 A** on a 300 mAh cell is perfectly safe and widely practiced.
+2. **Older PH2.0 Batteries**: Due to high contact resistance in PH2.0 connectors, keep the current at **0.2 A – 0.3 A** to prevent connector and wire heating.
+3. **General Rule**: Use **0.2 A – 0.3 A** when time permits to prolong battery health; switch to **0.6 A** when flying in the field and needing quick turnarounds.
 
 
 

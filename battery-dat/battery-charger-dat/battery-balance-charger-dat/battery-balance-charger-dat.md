@@ -8,6 +8,10 @@
 - [[battery-charger-2s-dat]] - [[battery-charger-3s-dat]] - [[battery-charger-1s-dat]]
 
 
+## app 
+
+- [[rc-supplier-dat]] - [[toolkitrc-dat]] - [[acdc-adapter-dat]] - [[acdc-dat]] - [[battery-charger-dat]] - [[battery-balance-charger-dat]]
+
 
 ## build 
 
@@ -19,6 +23,8 @@ LK-1008D
 - [[mosfet-dat]] B115 B14 - [[battery-balance-charger-dat]] - [[LK-1008D-dat]]
 
 ![](2026-07-02-15-23-45.png)
+
+
 
 - [[LM324-dat]] - [[battery-balance-charger-dat]] - [[LK-1008D-dat]]
 

@@ -1,7 +1,7 @@
 
 
 
-# rechargerable-battery-dat
+# battery-rechargeable-dat
 
 
 - [[battery-li-dat]] - [[battery-LFP-dat]]
@@ -10,6 +10,49 @@
 
 - [[battery-protector-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]]
 
+
+## common rechareable battery 
+
+- [[battery-li-dat]] - [[battery-liHV-dat]] - [[battery-LFP-dat]] - [[battery-NiMH-dat]] - [[battery-lead-acid-dat]]
+
+
+
+
+### 1. LiPo (Lithium Polymer) 锂聚合物电
+* **Nominal Voltage**: $3.7\text{ V per cell}$
+* **Fully Charged**: $4.20\text{ V per cell}$
+* **Characteristics**: Extremely high discharge rates (C-rating) and lightweight casing. Standard power source for RC planes, drones, and micro whoops.
+* **Range (1–6S)**: Single cell ($3.7\text{ V}$) up to a 6-cell pack ($22.2\text{ V}$ nominal / $25.2\text{ V}$ full).
+
+### 2. LiHV (High-Voltage Lithium Polymer) 高压锂聚合物电池
+* **Nominal Voltage**: $3.8\text{ V per cell}$
+* **Fully Charged**: $4.35\text{ V per cell}$ (or up to $4.40\text{ V}$)
+* **Characteristics**: A variant of LiPo chemistry that allows charging to a higher voltage cut-off, offering higher energy density and slightly longer flight times. Very common in 1S micro drones.
+* **Range (1–6S)**: Single cell ($3.8\text{ V}$) up to a 6-cell pack ($22.8\text{ V}$ nominal / $26.1\text{ V}$ full).
+
+### 3. LiFe (Lithium Iron Phosphate / $\text{LiFePO}_4$) 磷酸铁锂电池
+* **Nominal Voltage**: $3.2\text{ V}$ to $3.3\text{ V per cell}$
+* **Fully Charged**: $3.60\text{ V per cell}$
+* **Characteristics**: Lower energy density than LiPo, but exceptionally safe, thermally stable, and offers long cycle life (2000+ cycles). Popular for RC transmitter/receiver packs and energy storage.
+* **Range (1–6S)**: Single cell ($3.2\text{ V}$) up to a 6-cell pack ($19.2\text{ V}$ nominal / $21.6\text{ V}$ full).
+
+### 4. LiIon (Lithium-Ion)
+* **Nominal Voltage**: $3.6\text{ V}$ to $3.7\text{ V per cell}$
+* **Fully Charged**: $4.10\text{ V}$ to $4.20\text{ V per cell}$
+* **Characteristics**: Cylindrical cells (e.g., 18650, 21700). Offers much higher energy density (longer runtime) than LiPo, but lower maximum current discharge. Ideal for long-range cruising drones and power banks.
+* **Range (1–6S)**: Single cell ($3.6\text{ V}$) up to a 6-cell pack ($21.6\text{ V}$ nominal / $25.2\text{ V}$ full).
+
+### 5. NiMH (Nickel-Metal Hydride) 镍氢电池
+* **Nominal Voltage**: $1.2\text{ V per cell}$
+* **Fully Charged**: $\approx 1.4\text{ V}$ to $1.45\text{ V per cell}$ (uses peak-detection termination)
+* **Characteristics**: Common consumer rechargeable batteries (AA, AAA) and traditional RC receiver/drive packs. Safe, robust, and does not require balance charging.
+* **Range (1–16S)**: 1 cell ($1.2\text{ V}$) up to 16 cells in series ($19.2\text{ V}$ nominal / $\approx 22.4\text{ V}$ full).
+
+### 6. Pb (Lead-Acid / Lead-Calcium) 铅酸电池
+* **Nominal Voltage**: $2.0\text{ V per cell}$ ($12\text{ V}$ automotive batteries are 6-cell packs)
+* **Fully Charged**: $2.3\text{ V}$ to $2.45\text{ V per cell}$ ($\approx 13.8\text{ V}$ to $14.4\text{ V}$ for a $12\text{ V}$ pack)
+* **Characteristics**: Heavy, robust batteries used in motorcycles, cars, field starter boxes, and uninterrupted power supplies (UPS).
+* **Range (1–10S)**: $2\text{ V}$ (1 cell) up to $20\text{ V}$ nominal ($24\text{ V}$ maximum for a 10S pack).
 
 ## charge time 
 
@@ -52,7 +95,7 @@
 
 - [[LFP-dat]] 
   
-- [[battery-NCM-NCA-dat/NCA-dat/NCA-dat]] - [[battery-NCM-NCA-dat/NCM-dat/NCM-dat]] - [[Battery-li-Ternary-dat]]
+- [[NCA-dat]] - [[NCM-dat]] - [[Battery-li-Ternary-dat]]
 
 
 

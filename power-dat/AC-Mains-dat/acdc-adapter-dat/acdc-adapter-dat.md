@@ -1,7 +1,21 @@
 
-# acdc adapter dat 
+# acdc-adapter-dat
+
+
+## app 
+
+
+- [[rc-supplier-dat]] - [[toolkitrc-dat]] - [[acdc-adapter-dat]] - [[acdc-dat]] - [[battery-charger-dat]] - [[battery-balance-charger-dat]]
+
 
 ## Technical Parameters:
+
+
+### 24V 5V 
+
+![](2026-09-06-04-10-19.png)
+
+### 12V 5V
 
 - Input voltage: AC (AC) 100-240V~50/60Hz
 - Output voltage: DC (direct current) 12V
@@ -19,3 +33,4 @@ https://item.taobao.com/item.htm?spm=a21n57.1.0.0.718c523cteZiZt&id=522130135676
 
 
 
+## ref 

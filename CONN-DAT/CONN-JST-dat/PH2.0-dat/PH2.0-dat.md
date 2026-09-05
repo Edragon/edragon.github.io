@@ -15,7 +15,9 @@ pin pitch 2.0 mm
 ![](2024-11-19-18-23-21.png)
 
 
+## apps 
 
+- [[mobula6-dat]]
 
 ## ref 
 

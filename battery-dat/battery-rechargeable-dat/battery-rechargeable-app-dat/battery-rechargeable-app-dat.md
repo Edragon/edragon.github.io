@@ -1,5 +1,5 @@
 
-# li-battery-app-dat
+# battery-rechargeable-dat
 
 - [[tools-power-dat]]
 

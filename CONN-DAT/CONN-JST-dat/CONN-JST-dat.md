@@ -15,8 +15,15 @@
 
 
 
+## rename 
 
-types 
+* **mCPX = JST-PH 2.0 (PH2.0)**
+  * **100% Identical**: In the RC and micro FPV whoop community, the **mCPX** connector is physically identical to the standard **JST-PH 2.0** connector (2.0 mm pin pitch). The dimensions, housing, and pin spacing are exactly the same, allowing for a **direct plug-and-play fit**.
+* **Micro / MX = JST 1.25 (Pico)**
+  * These names typically refer to the smaller **1.25 mm pitch (JST-1.25)** connector. These are smaller than PH2.0 and used in smaller toy drones; they are **not** directly compatible with PH2.0 without an adapter.
+
+
+## types 
 
 XHB2.54 connector, 2.54mm connector with buckle, straight pin, bent pin, socket, housing, plug, spring contacts, and terminals.
 

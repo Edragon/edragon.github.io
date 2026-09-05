@@ -495,6 +495,8 @@ The operating boundary between CCM and DCM is known as **BCM (Boundary Conductio
 
 - [[power-USB-charger-dat]]
 
+- [[acdc-adapter-dat]] - [[acdc-dat]]
+
 
 ## ref 
 
