@@ -18,6 +18,16 @@
 
 
 
+## type 
+
+- [[CAT-1-dat]] == [[A7670-dat]] 
+
+- [[CAT-M-dat]] == [[SIM7080-dat]]
+
+- [[CAT-NB-dat]] == [[SIM7020-dat]]
+
+
+
 
 ## chip 
 

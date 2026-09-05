@@ -41,7 +41,11 @@
 
 - [[NGS1089-dat]] - [[SIM868-dat]] - [[SIMCOM-dat]] - [[location-dat]]
 
-
+| model           | type                       | standalone serial port |
+| --------------- | -------------------------- | ---------------------- |
+| [[NEO-6-dat]]   | GPS                        | default                |
+| [[SIM7080-dat]] | [[LTE-dat]] + [[GNSS-dat]] | UART3                  |
+| [[A7670-dat]]   |
 
 
 ### composite function board 
