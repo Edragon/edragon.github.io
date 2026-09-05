@@ -12,7 +12,7 @@
 
 - [[CONN-A30-dat]] - [[PH2.0-dat]] - [[CONN-power-dat]] - [[FPV-build-dat]] - [[battery-FPV-dat]] - [[battery-1S-dat]] - [[CONN-JST-dat]]
 
-
+- [[cable-power-dat]]
 
 ## voltage from 2S to 1S
 

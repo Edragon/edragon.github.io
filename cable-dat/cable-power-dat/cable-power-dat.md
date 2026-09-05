@@ -16,6 +16,11 @@
 
 - [[cable-cross-dat]] - [[cable-AWG-dat]]
 
+- [[SC100-dat]]
+
+![](2026-09-06-04-29-52.png)
+
+
 ## Nominal Cross-sectional Area
 
 
