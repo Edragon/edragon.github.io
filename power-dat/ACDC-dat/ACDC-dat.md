@@ -24,6 +24,8 @@
 
 ## tech 
 
+- [[PSR-dat]] - [[SSR-dat]]
+
 - [[transformer-dat]]
 
 - [[protection-power-dat]]
@@ -49,6 +51,57 @@
 - [[OPM1178-dat]]
 
 
+## PSR vs SSR 
+
+Comparison: Primary-Side Regulation (PSR) vs. Secondary-Side Regulation (SSR) in AC-DC Converters
+
+In AC-DC switching power supply design, the main difference between **Primary-Side Regulation (PSR)** and **Secondary-Side Regulation (SSR)** lies in **how the feedback signal is sampled** and **where the regulation control loop is centered**.
+
+---
+
+## 1. Core Comparison Overview
+
+| Feature | Primary-Side Regulation (PSR) | Secondary-Side Regulation (SSR) |
+| :--- | :--- | :--- |
+| **Feedback Sensing Location** | **Primary side** (Transformer input side) | **Secondary side** (DC output side) |
+| **Sampling Method** | Senses voltage/current induced in the transformer's auxiliary winding | Directly samples output voltage/current via resistor dividers at the output |
+| **Feedback Components** | **No optocoupler or TL431 needed** | **Requires an optocoupler** (e.g., PC817) and a shunt regulator (e.g., TL431) |
+| **Circuit Complexity** | Highly simplified with minimal external components | More complex (sampling resistors, TL431, compensation networks, optocoupler) |
+| **Voltage/Current Accuracy** | Moderate ($\pm 3\%$ to $\pm 5\%$) | **Very High** (Up to $\pm 1\%$ or better) |
+| **Transient Response** | Slower (relies on cycle-by-cycle auxiliary winding sampling) | **Fast** (real-time direct output sensing) |
+| **System Cost** | **Low** (saves optocoupler, TL431, and secondary sensing components) | Higher |
+| **Primary Applications** | Low-power adapters, chargers (5W–24W), LED drivers | Medium-to-high power supplies, PC PSUs, Fast Chargers (PD/QC), industrial power supplies |
+
+---
+
+## 2. Working Principles Detailed
+
+### Primary-Side Regulation (PSR)
+* **How It Works**: In a Flyback topology, when the primary switch turns off, energy stored in the transformer is transferred to the secondary winding. During this discharge phase, the voltage induced across the **auxiliary winding is directly proportional to the secondary output voltage** (determined by the turns ratio). The PSR controller samples the auxiliary winding voltage at the exact moment the secondary diode current drops to zero (the demagnetization point) to indirectly calculate output voltage and adjust PWM duty cycle.
+* **Key Advantages**:
+  * Eliminates the optocoupler and TL431, significantly reducing BOM cost and board space.
+  * Avoids optocoupler aging and temperature drift issues, improving long-term reliability.
+  * Easily implements low-cost Constant Voltage (CV) and Constant Current (CC) control modes.
+
+### Secondary-Side Regulation (SSR)
+* **How It Works**: High-precision resistor dividers directly measure the output voltage at the DC output terminal. When the output voltage fluctuates, a TL431 adjusts current through the optocoupler's internal LED. The optocoupler transfers this error signal across the galvanic isolation barrier to the primary-side controller, which dynamically adjusts the switch ON time.
+* **Key Advantages**:
+  * **Direct Sensing**: Insensitive to transformer leakage inductance, trace voltage drops, and secondary diode forward drops, yielding extremely high output precision.
+  * **Fast Transient Response**: Instantly responds to sudden load jumps with minimal voltage drop and fast recovery times.
+
+---
+
+## 3. Design Selection Guidelines
+
+1. **Choose PSR when**:
+   * Power requirements are low (typically under 20W–30W).
+   * Strict cost and size constraints exist (e.g., compact wall adapters, basic LED drivers).
+   * Ultra-tight voltage tolerance is not required ($\pm 3\%$ to $\pm 5\%$ variation is acceptable).
+
+2. **Choose SSR when**:
+   * Higher output power is needed (30W and above, such as 65W/100W GaN fast chargers or desktop PSUs).
+   * High-precision regulation ($\pm 1\%$ or better) and fast dynamic performance are required.
+   * Supporting multi-voltage outputs or dynamic fast-charging protocols (e.g., USB-PD, where secondary-side protocol ICs actively control output levels).
 
 ## output 
 
@@ -438,7 +491,9 @@ The operating boundary between CCM and DCM is known as **BCM (Boundary Conductio
 * **Decreasing Load Current ($I_o \downarrow$):** A converter operating in CCM will naturally transition into DCM as the load current drops below a critical threshold.
 
 
+## app 
 
+- [[power-USB-charger-dat]]
 
 
 ## ref 

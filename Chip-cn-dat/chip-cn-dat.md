@@ -29,7 +29,7 @@
 
 - [[SIMCOM-dat]]  - [[A7670-dat]] - [[SIM800-dat]]
 
-- [[holtek-dat]]
+- [[holtek-dat]] - [[hcwsemi-dat]]
 
 - [[kendryte-dat]] - [[K230D-dat]]
 
