@@ -19,7 +19,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 - [[motor-BLDC-driver-dat]] 
 
-- [[mosfet-dat]] - [[mosfet-arrary-dat]] - [[mosfet-driver-dat]] - [[mosfet-rank-dat]]
+- [[mosfet-dat]] - [[mosfet-array-dat]] - [[mosfet-driver-dat]] - [[mosfet-rank-dat]]
 
 
 - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[motor-driver-design-dat]] - [[mosfet-dat]]

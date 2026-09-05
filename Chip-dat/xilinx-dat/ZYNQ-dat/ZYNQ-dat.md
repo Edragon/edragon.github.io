@@ -14,6 +14,9 @@ FPGA RF Soc - XCZU49DR-2FFVF1760I
 
 ## Zynq-7000 
 
+
+![](2026-09-05-16-41-17.png)
+
 The XC7Z020 (part of the AMD/Xilinx Zynq-7000 family) is a highly popular System-on-Chip (SoC) that combines a dual-core ARM Cortex-A9 processor with Artix-7 based programmable logic (FPGA). It is widely used in embedded vision, motor control, and software-defined radio.
 
 ### Key Technical Specifications

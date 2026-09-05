@@ -14,6 +14,9 @@ for [[ESP32-S3-dat]] - [[ESP32-dat]] - [[HDK-dat]] - [[peripherals-dat]] - [[int
 
 - [[VIN-dat]] - [[VBUS-dat]] - [[VBAT-dat]] - [[power-dat]] - [[HDK-dat]]
 
+- [[HDK-dat]] - [[reset-dat]] - [[MCU-dat]] - [[circuits-dat]]
+
+
 
 
 ## ref 

@@ -20,6 +20,11 @@
 
 - [[MIPI-dat]] - [[MIPI-CSI-dat]] - [[MIPI-DSI-dat]]
 
+- [[HDMI-dat]] - [[HDMI-CSI-bridge-dat]]
+
+
+
+
 ### Other Display Interfaces
 
 #### 1. **MIPI-CSI** (Camera Serial Interface)

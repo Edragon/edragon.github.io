@@ -45,7 +45,7 @@
 
 - [[HLW-dat]] - [[HLW8032-dat]] - [[HLW8012-dat]]
 
-
+- [[rockchip-dat]] - [[RV1106-dat]]
 
 - [[TP-dat]] - [[TP4056-dat]] - [[TP4067-dat]]
 

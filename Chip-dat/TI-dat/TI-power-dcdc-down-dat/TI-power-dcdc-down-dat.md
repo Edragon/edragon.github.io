@@ -3,13 +3,17 @@
 # TI-power-dcdc-down-dat
 
 
-- [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TI-LDO-dat]]
+- [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TI-LDO-dat]] - [[ti-battery-charger-dat]]
 
 - [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-battery-charger-dat]] - [[ti-power-dcdc-boost-dat]] 
 
 - [[power-dat]] - [[battery-dat]]
 
 - [[dcdc-down-dat]]
+
+
+
+- [[TPS6282x-dat]]
 
 
 TPS6211x 17-V, 1.5-A, Synchronous Step-Down Converter - `TPS62110`, TPS62111, TPS62112, TPS62113

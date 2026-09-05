@@ -2,25 +2,16 @@
 # WCH-MCU-dat
 
 
-
+- [[CH32-dat]] - [[WCH-MCU-dat]] - [[CH32V003-dat]] - [[WCH-dat]]
 
 ## MCU types 
 
 - [[CH55x-DAT]] - [[CH551-dat]] - [[CH552-dat]] - [[CH554-dat]] - [[CH559-dat]]
 
 
-
-
 - [[CH549-dat]]
 
-- [[CH32V003-dat]] - [[CH32V103-dat]]
-
-Genuine CH32V003F4P6 TSSOP-20 RISC-V core 32-bit microcontroller (MCU)
-
-
 - [[CH582-dat]]
-
-
 
 
 

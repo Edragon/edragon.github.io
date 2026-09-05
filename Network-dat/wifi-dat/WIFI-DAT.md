@@ -56,7 +56,9 @@
 
 - [[LB-link-dat]] - [[WIFI-dat]] - [[BL-M8189FS6]] - [[SDIO-dat]]
 
+- [[AIC8800-dat]] - [[aicsemi-dat]] - [[wifi-dat]] - [[sdio-dat]] - [[USB-SDK-dat]]
 
+- [[AIC8800-dat]] - [[aicsemi-dat]] - [[wifi-6-dat]] - [[BT5.2-dat]]
 
 
 

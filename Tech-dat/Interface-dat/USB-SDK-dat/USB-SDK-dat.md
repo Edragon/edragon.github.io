@@ -34,6 +34,12 @@
 
 
 
+## tech 
+
+- [[wifi-dat]] - [[sdio-dat]] - [[USB-SDK-dat]]
+
+
+
 
 ## chips 
 

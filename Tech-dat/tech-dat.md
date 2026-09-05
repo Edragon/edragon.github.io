@@ -15,7 +15,7 @@
 
 - [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]] - [[encoder-dat]] - [[bead-dat]] - [[diode-dat]]
 
-- [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
+- [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]] - [[mosfet-array-dat]] - [[mos-p-dat]] - [[mosfet-drive-dat]]
 
 - [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] 
 
@@ -212,7 +212,7 @@
 
 - [[serial-dat]] - [[serial-wireless-dat]] - [[CP2104-dat]] - [[CH343-dat]]
   
-- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]] - [[sd-dat]] - [[microsd-dat]]
+- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]] - [[sd-dat]] - [[microsd-dat]] - [[emmc-dat]]
 
 - [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]] - [[generator-wave-dat]] - [[DDS-dat]]
 
@@ -239,7 +239,7 @@
 
 - [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] - [[speaker-dat]]
 
-- [[video-dat]] - [[video-wireless-dat]]
+- [[video-dat]] - [[video-wireless-dat]] - [[HDMI-dat]]
 
 
 ## Utilities 
@@ -305,7 +305,7 @@
 
 ## Circuits 
 
-- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]] - [[isolator-dat]]
+- [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]] - [[isolator-dat]] - [[reset-dat]]
 
 - [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]]
 

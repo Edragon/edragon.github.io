@@ -23,9 +23,10 @@
 
 - [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]] - [[MP2386-dat]]
 
-- [[TI-power-dat]] 
+- [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TI-LDO-dat]]
 
-- [[ti-power-dat]] - [[ti-power-dcdc-down-dat]] - [[ti-battery-charger-dat]] - [[ti-power-dcdc-boost-dat]] 
+
+- [[ti-power-dat]] - [[ti-battery-charger-dat]] 
 
 
 

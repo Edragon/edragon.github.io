@@ -19,9 +19,19 @@
 
 - [[HDMI-RX-dat]] - [[MIPI-CSI-TX-dat]]
 
+
+HDMI to CSI bridge - [[HDMI-CSI-bridge-dat]]
+
+
+
+
 ## chips 
 
 - [[toshiba-dat]] - [[TC358743-dat]]
+
+
+
+
 
 
 ## SCH 

@@ -57,7 +57,7 @@ from a to z
 - [[PIC-dat]]
 
 
-[[realtek-dat]] - [[RTL8211-dat]]
+[[realtek-dat]] - [[RTL8211-dat]] - [[RTL8152-dat]]
 
 [[ralink-dat]]
 
@@ -88,7 +88,7 @@ from a to z
 
 - [[ever-analog-dat]]
 
-- [[xilinx-dat]]
+- [[xilinx-dat]] - [[ZYNQ-dat]]
 
 - [[u-blox-dat]]
 
