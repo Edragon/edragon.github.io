@@ -14,6 +14,14 @@
 - [[TI-power-dat]]- [[power-switch-dat]]
 
 
+
+## dcdc down 
+
+- [[dcdc-down-dat]] - [[TI-power-dat]] - [[tlv62569-dat]]
+
+
+
+
 ## USB 
 
 - [[TI-Power-dat]] - [[TPS65983B-dat]]

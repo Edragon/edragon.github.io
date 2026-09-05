@@ -31,7 +31,11 @@ STMPE610 - S-Touch®: advanced touchscreen controller with 6-bit port expander
 触摸驱动为 [[CST816-dat]]（i2c接口），采样排线插接的方式安装。
 
 
+## build SCH 
 
+build SCH 1 
+
+![](2026-09-05-15-05-05.png)
 
 
 

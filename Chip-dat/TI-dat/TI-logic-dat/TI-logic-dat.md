@@ -1,6 +1,11 @@
 
 # TI-logic-dat
 
+
+
+- [[ti-logic-dat]] - [[logic-level-shifter-dat]] - [[sn74lvc1t45-dat]]
+
+
 - [[TXS0102-dat]] - [[TXS0108-dat]] - [[TI-logic-dat]]
 
 
