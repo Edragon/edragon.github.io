@@ -30,6 +30,8 @@ from a to z
 
 - [[linear-technology-dat]]
 
+- [[JOULwatt-dat]]
+
 - [[NVE-dat]]
 
 - [[microchip-dat]] - [[microchip-mcu-dat]] - [[macom-dat]]

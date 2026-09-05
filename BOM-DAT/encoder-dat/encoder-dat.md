@@ -8,6 +8,10 @@
 
 - common used encoder - [[SCU1007-dat]]
 
+
+
+
+
 ## magnetic-sensor
 
 - [[AS5047-dat]]
@@ -75,6 +79,12 @@ https://www.electrodragon.com/product/5pcs-rotary-encoder/
 
 
 ## encoder 
+
+
+- [[EC10-dat]] - [[encoder-dat]]
+
+
+![](2026-09-05-18-30-44.png)
 
 act as a input 
 

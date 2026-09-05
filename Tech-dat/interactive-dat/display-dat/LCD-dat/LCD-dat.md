@@ -2,6 +2,12 @@
 # LCD-dat 
 
 
+
+- [[LCD-dat]] - [[LCD1602-dat]] - [[LCD2004-dat]] - [[LCD12832-dat]] - [[LCD12864-dat]] 
+
+
+
+
 - [[LCD-char-dat]] - [[ILC1040-dat]] - [[LCD2004-dat]] - [[ILC1022-dat]] - [[LCD1602-dat]] - [[LCD-12864-dat]] - [[ILC1016-dat]] - [[ILC1038-dat]]
 
 - [[LCD-char-driver-dat]] - [[ILC1073-dat]] - [[ILC1047-dat]] (out-of-stock) - [[ILC1025-dat]]

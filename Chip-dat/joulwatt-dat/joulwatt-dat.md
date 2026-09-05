@@ -2,6 +2,9 @@
 # joulwatt-dat
 
 
+- [[joulwatt-dat]] - [[JW5359-dat]]
+
+- [[joulwatt-dat]] - [[dcdc-down-dat]] - [[power-dat]]
 
 - [[JW7707-dat]] - [[ACDC-dat]] - [[joulwatt-dat]]
 

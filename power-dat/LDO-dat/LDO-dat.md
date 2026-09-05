@@ -23,9 +23,17 @@
 
 
 
+
+## high performance
+
+- [[ME6217-dat]] - [[microne-dat]]
+
+
+
+
 ## common categories 
 
-Single Output
+`Single Output`
 
 Offering single output regulators with a Vin ≤ 6.5V.
 
@@ -33,21 +41,21 @@ Multiple Output - [[LDO-2CH-dat]] - [[LDO-3CH-dat]]
 
 Offering both dual output regulators with a Vin ≤ 5.5V and multiple output linear regulator controllers.
 
-Wide Vin
+`Wide Vin`
 
 Vin ≤ 80V for applications requiring wide input range and high input voltage.
 
-Low Iq
+`Low Iq`
 
 For applications requiring long standby time and running in burst mode conditions.
 
  
-Low Noise & High PSRR
+`Low Noise & High PSRR`
 
 For noise-sensitive system to filter out input ripple and provide low noise/high PSRR at the output.
 
  
-Automotive & Industrial
+`Automotive & Industrial`
 
 The AEC-Q100 qualified LDOs and LDOs operating in wide temperature ratings are ideal for automotive and industrial applications.
 

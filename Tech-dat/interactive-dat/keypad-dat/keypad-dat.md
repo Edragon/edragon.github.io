@@ -3,6 +3,10 @@
 
 - [[interactive-dat]] - [[keypad-dat]] - [[keyboard-dat]] - [[bluetooth-dat]] control - [[MPCS007]]
 
+
+- [[mouse-dat]] - [[keypad-dat]]
+
+
 ## board 
 
 - [[IKE1020-dat]] - PCB keypad 4*4 matrix
@@ -64,7 +68,15 @@ Output high TTL signal when either row or column buttons are pressed.
 
 ## build and app 
 
-matrix keypad - [[keypad-dat]] - [[PC-dat]] - [[ESP32-dat]]
+
+build 2 == with [[WS2812-dat]]
+
+![](2026-09-05-18-27-36.png)
+
+![](2026-09-05-18-28-11.png)
+
+
+build 1 == matrix keypad - [[keypad-dat]] - [[PC-dat]] - [[ESP32-dat]]
 
 col 14 x row 5 
 

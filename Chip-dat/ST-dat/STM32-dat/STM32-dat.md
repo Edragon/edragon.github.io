@@ -12,6 +12,8 @@
 
 ## chips 
 
+- [[STM32G431-dat]]
+
 - [[STM32F042-dat]]
 
 - [[STM32F103-dat]] - [[STM32F401-dat]] - [[STM32G030-dat]]
@@ -35,6 +37,13 @@
 ## STM32 G070 
 
 STM32 G070CBT6
+
+
+
+
+
+
+
 
 ## Boards 
 

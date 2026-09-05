@@ -8,6 +8,13 @@
 
 ## VBAT 2A 
 
+
+options 
+
+- [[VBAT-dat]] - [[joulwatt-dat]] - [[JW5359-dat]]
+
+### design 
+
 In the user's design, special attention must be paid to the design of the power supply. If the voltage drops
 below `3.4V`, the RF performance of the module will be affected, the module will shut down if the voltage is
 too low. It is recommended to select an LDO or DC-DC chip with an enable pin, and the enable pin is

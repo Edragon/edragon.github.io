@@ -19,7 +19,8 @@
 
 - [[LT8350-dat]] - [[analog-device-dat]] - [[AD-power-dat]]
 
-- [[joulwatt-dat]]
+- [[joulwatt-dat]] - [[dcdc-down-dat]] - [[power-dat]]
+
 
 - [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]] - [[MP2386-dat]]
 

@@ -16,6 +16,12 @@
 
 - [[GPIO-dat]]
 
+
+
+- [[ME6217-dat]] - [[microne-dat]] - [[LDO-dat]] - [[ESP32-HDK-dat]]
+
+
+
 ## hardware design guidelines 
 
 - [esp-hardware-design-guidelines](https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32s3/schematic-checklist.html#overview)

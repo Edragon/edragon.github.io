@@ -33,6 +33,8 @@
 - [[USB-SDK-dat]] - [[USB-2.0-dat]] - [[USB-3.0-dat]] - [[cable-USB-dat]]
 
 
+- [[RNDIS-dat]] - [[USB-SDK-dat]] - [[network-dat]]
+
 
 ## tech 
 

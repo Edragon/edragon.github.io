@@ -78,6 +78,13 @@ stm32flash -w firmware.bin -v -g 0x0 /dev/ttyUSB0
 ![](2026-07-23-16-41-57.png)
 
 
+
+## build 
+
+build 1 - [[STM32G431-dat]]
+
+![](2026-09-05-18-26-03.png)
+
 ## ref 
 
 - [[STM32-dat]]

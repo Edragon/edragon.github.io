@@ -30,7 +30,7 @@ https://www.digikey.com/en/products/detail/microchip-technology/A3PE1500-PQG208/
 
 - [[lattice-dat]]
 
-
+- [[Verilog-dat]]
 
 
 
@@ -82,3 +82,17 @@ https://github.com/Edragon/fpga_max10
 - [[tech-dat]]
 
 - [[CPLD-dat]] - [[FPGA-dat]]
+
+
+https://opencores.org/projects/tv80
+
+https://github.com/abnoname/iceZ0mb1e
+
+https://github.com/Obijuan/Z80-FPGA
+
+https://github.com/Obijuan/nand2tetris-icestudio
+
+https://github.com/Obijuan/RISC-V-FPGA
+
+https://github.com/YosysHQ/picorv32
+
