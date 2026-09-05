@@ -2,6 +2,12 @@
 # voltage-dat
 
 
+
+- [[circuits-dat]] - [[VIN-dat]] - [[VBUS-dat]] - [[VBAT-dat]] 
+
+- [[power-dat]] - [[Vref-dat]] - [[voltage-dat]]
+
+
 - [[VRMS-dat]] - [[voltage-dat]]
 
 - [[voltage-dat]] - [[voltage-interverter-dat]] - [[voltage-divider-dat]] - [[voltage-reference-dat]] 

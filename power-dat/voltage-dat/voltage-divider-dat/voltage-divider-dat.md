@@ -11,7 +11,7 @@
 
 == voltage ladder 
 
-![](2024-02-01-18-36-27.png)
+![](../../Voltage-dat/voltage-divider-dat/2024-02-01-18-36-27.png)
 
 Vout = Vin * (R2 / (R1 + R2))
 
@@ -31,7 +31,7 @@ Vin == Vout * (R1 + R2) / R2
 
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. The formula for calculating the output voltage is based on Ohms Law and is shown below.
 
-![](2025-04-24-13-05-56.png)
+![](../../Voltage-dat/voltage-divider-dat/2025-04-24-13-05-56.png)
 
 where:
 
@@ -44,7 +44,7 @@ where:
 
 cut off SJ3 first to use the ADC ladder. 
 
-![](2025-05-14-18-12-31.png)
+![](../../Voltage-dat/voltage-divider-dat/2025-05-14-18-12-31.png)
 
 - [[ESP8266-dat]]
 

@@ -2,9 +2,16 @@
 # M2M-HDK-Ref-dat
 
 
+- [[M2M-HDK-Ref-dat]] - [[ref-design-dat]] - [[M2M-dat]] - [[M2M-HDK-dat]]
+
+- [[VBAT-dat]] - [[VIN-dat]]
+
+- [[ADC-dat]] - [[ADC-bat-monitor-dat]]
+
+- [[M2M-HDK-dat]] - [[M2M-HDK-ref-dat]] - [[pwrkey-dat]]
 
 
-
+- [[sensor-camera-dat]]
 
 ## Analog Audio 
 
@@ -14,13 +21,6 @@
 
 ![](2025-06-30-14-26-50.png)
 
-## ADC and VBAT ADC 
-
-![](2025-06-30-14-28-15.png)
-
-## SPI Camera Interface 
-
-![](2025-06-30-14-28-40.png)
 
 
 ## SPI LCD Interface 
@@ -63,10 +63,6 @@
 ### reset 
 
 ![](2025-06-30-14-50-56.png)
-
-### power on/off 
-
-![](2025-06-30-14-51-16.png)
 
 
 ### power supply 

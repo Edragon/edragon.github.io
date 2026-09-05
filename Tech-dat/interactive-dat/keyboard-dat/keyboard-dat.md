@@ -8,6 +8,11 @@
 
 
 
+## matrix keyboard 
+
+![](2026-09-05-13-56-29.png)
+
+
 ## ref 
 
 - [[interactive-dat]]

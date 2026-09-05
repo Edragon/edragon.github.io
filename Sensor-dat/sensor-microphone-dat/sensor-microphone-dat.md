@@ -11,7 +11,7 @@
 - [[sensor-microphone-I2S-dat]]
 
 
-
+- [[sensor-microphone-dat]] - [[earphone-dat]]  
 
 
 

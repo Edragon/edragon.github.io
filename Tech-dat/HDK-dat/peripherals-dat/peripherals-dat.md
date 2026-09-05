@@ -1,0 +1,129 @@
+
+# peripherals-dat
+
+
+
+
+- [[ref-design-dat]] - [[peripherals-dat]] - [[HDK-dat]] - [[M2M-HDK-dat]]
+
+
+
+
+- [[peripherals-dat]] - [[atmega2560-dat]] - [[AVR-dat]] - [[DOD1100-dat]]
+
+## AI relevant 
+
+- [[camera-dat]] - [[sensor-microphone-dat]]
+
+
+## network 
+
+- [[SIM-dat]]
+
+## interactive 
+
+- [[touch-pad-dat]] - [[interactive-dat]]
+
+- [[WS2812-dat]]
+
+## power 
+
+- [[solar-dat]] - [[solar-panel-dat]] - [[solar-charger-dat]]
+
+- [[dcdc-down-dat]]
+
+
+## basic 
+
+
+- [[protection-dat]] - [[protection-power-dat]]
+
+
+
+- [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]
+
+
+- [[interface-dat]]
+
+- [[indicator-dat]] - [[WS2812-dat]] - [[LED-dat]] - [[7-seg-dat]] - [[LCD-dat]] - [[OLED-dat]] - [[interactive-dat]]
+
+- [[interface-interactive-dat]] - [[display-dat]] - [[OLED-dat]]
+
+
+- [[CPU-dat]] - [[memory-dat]] - [[programming-dat]]
+
+- [[SPI-dat]] - [[I2C-dat]] - [[I2S-dat]] - [[GPIO-dat]] - [[UART-dat]] - [[PWM-dat]] - [[pulse-dat]]
+
+- [[ADC-dat]]
+
+- [[RTC-dat]] - [[clock-dat]] 
+
+- [[USB-dat]] - [[USB-OTG-dat]]
+
+- [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-Camera-dat]] - [[DHT11-dat]] - [[sensor-light-dat]]
+
+
+- [[memory-dat]] - [[sd-dat]]
+
+- [[serial-dat]] - [[auto-serial-dat]]
+
+- [[interactive-dat]] - [[button-dat]] - [[switch-dat]] - [[keyboard-dat]] - [[infrared-dat]]
+
+- [[acturator-dat]] - [[buzzer-dat]]
+
+- [[ESD-dat]]
+
+- [[DMA-dat]]
+
+- [[io-expander-dat]]
+
+- [[resistor-dat]] - [[resistor-trim-pot-dat]]
+
+
+
+## other categories
+
+- [[network-dat]] - [[encryption-dat]] - [[WIFI-DAT]] - [[BLE-dat]] - [[ethernet-dat]]
+
+- [[power-dat]] - [[LDO-dat]]
+
+- [[led-driver-dat]]
+
+- [[voltage-reference-dat]]
+
+
+
+## basic 
+
+LEDs, buttons, [[resistor-trim-pot-dat]], [[DHT11-dat]] 
+
+
+![](2025-10-08-13-48-32.png)
+
+- [[AMS1117-dat]] - [[type-c-dat]] - [[servo-dat]]
+
+![](2025-10-08-13-49-04.png)
+
+
+
+## SCH 
+
+SCH 1 
+
+![](2026-07-23-20-05-29.png)
+
+
+
+## build 
+
+- [[ESP32-dat]] - [[MCU-dat]] - [[peripherals-dat]]
+
+![](2026-08-21-17-14-48.png)
+
+
+
+## ref 
+
+read more at - [[V3S-dat]]
+
+- [[ESP32-HDK-dat]]

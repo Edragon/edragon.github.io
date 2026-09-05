@@ -19,20 +19,23 @@ Board map
 
 ![](2025-06-13-19-18-47.png)
 
-| left     | right |
-| -------- | ----- |
-| G_RXD    | VBAT  |
-| G_TXD    | 1PPS  |
-| VBAT_ADC | DTR   |
-| U3TX     | RI    |
-| U3RX     | TXD   |
-| IO3      | RXD   |
-| MK_IN2   | VBUS  |
-| MK_OUT2  | 3V3   |
-| MIC_N    | GND   |
-| MIC_P    | VIN   |
-| EAR_N    | PEN   |
-| EAR_P    | Reset |
+| left     | note                      | right | note                |
+| -------- | ------------------------- | ----- | ------------------- |
+| G_RXD    | [[GNSS-dat]]              | VBAT  | [[VBAT-dat]]        |
+| G_TXD    |                           | 1PPS  |                     |
+| VBAT_ADC | [[ADC-dat]]               | DTR   |                     |
+| U3TX     | UART3                     | RI    |                     |
+| U3RX     |                           | TXD   | [[serial-dat]] UART0 |
+| IO3      | [[GPIO-dat]]              | RXD   |                     |
+| MK_IN2   | [[Keyboard-dat]] in2      | VBUS  |   [[VBUS-dat]]                  |
+| MK_OUT2  | [[Keyboard-dat]] out2     | 3V3   |                     |
+| MIC_N    | [[sensor-microphone-dat]] | GND   |                     |
+| MIC_P    |                           | VIN   |   [[VIN-dat]]                  |
+| EAR_N    | [[earphone-dat]]          | PEN   | power_enable        |
+| EAR_P    |                           | Reset |                     |
+
+- [[keyboard-dat]]
+
 
 Update logs - [[tech-dat]]
 

@@ -205,6 +205,15 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 
 
+
+## SCH 
+
+### SPI Camera Interface 
+
+![](2025-06-30-14-28-40.png)
+
+
+
 ## ref 
 
 - [[camera-dat]] - [[omni-vision-dat]]

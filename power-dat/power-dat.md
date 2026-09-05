@@ -5,6 +5,9 @@
 - [[control-dat]] - [[PCB-design-power-dat]] - [[PCB-design-dat]] 
 
 
+- [[power-dat]] - [[VIN-dat]] - [[VBUS-dat]] - [[VBAT-dat]] - [[Vref-dat]] - [[pwerkey-dat]]
+
+
 - [[power-dat]] - [[battery-dat]] 
 
 - [[PMIC-dat]]
