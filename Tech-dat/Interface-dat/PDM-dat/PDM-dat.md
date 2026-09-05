@@ -3,7 +3,7 @@
 
 
 
-- [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] - [[PDM-dat]]
+- [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] - [[PDM-dat]] - [[PDM-microphone-dat]]
 
 
 [[ESP32-S3-dat]] 

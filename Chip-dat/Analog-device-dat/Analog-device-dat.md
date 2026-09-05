@@ -1,6 +1,9 @@
 
 # analog-device-dat.md
 
+
+
+
 - [[DAC-dat]] - [[ADC-dat]] - [[AD-DAC-dat]] - [[AD-ADC-dat]]
 
 - [[analog-device-dat]] - [[AD-logic-dat]] - [[logic-dat]] - [[multiplexer-dat]]
@@ -17,6 +20,10 @@
 
 
 - [[DDS-dat]] - [[AD-ADC-dat]] - [[AD-DAC-dat]] - [[analog-device-dat]] 
+
+- [[AD9850-dat]] - [[DDS-dat]] - [[AD-DDS-dat]] - [[digital-dat]]
+
+- [[Synthesizer-dat]] - [[digital-dat]] - [[AD-DDS-dat]] - [[DDS-dat]] - [[analog-device-dat]]
 
 
 

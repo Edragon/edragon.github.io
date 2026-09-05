@@ -50,6 +50,12 @@ https://esp32.com/viewtopic.php?t=2604&start=10
 
 ## build SCH 
 
+- [[MT9700-dat]] - [[microsd-dat]]
+
+build 2 
+
+![](2026-09-05-16-33-09.png)
+
 build 1 
 
 ![](2026-09-05-14-36-18.png)

@@ -1,6 +1,10 @@
 
 # DAC-dat
 
+
+
+
+
 - R-2R DAC mode? == [[DAC-ladder-R-2R-dat]]
 
 - [[amplifier-audio-dat]]
@@ -39,12 +43,14 @@ legacy wiki page == https://www.electrodragon.com/w/AD/DA
 
 - [[SAM5504B-dat]] - [[dream-dat]] - [[DAC-dat]] - [[DSP-dat]]
 
+- [[OPA211-dat]] - [[DAC5311-dat]] - [[TI-DAC-dat]] - [[DAC-dat]]
 
 
 ## apps 
 
 - [[audio-dat]] - [[analog-dat]]
 
+- [[logic-analyzer]]
 
 ## unsort 
 

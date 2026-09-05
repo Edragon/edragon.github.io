@@ -17,5 +17,15 @@ The `CY7C68013A` is a highly popular, low-power USB 2.0 microcontroller produced
 - [[ti-logic-dat]] - [[comparator-dat]] - [[logic-dat]] - [[TLV3502-dat]]
 
 
+
+
+## SCH
+
+build 1 
+
+![](2026-09-05-16-19-30.png)
+
+
+
 ## ref 
 

@@ -222,6 +222,12 @@ https://github.com/adafruit/Adafruit_EPD
 
 
 
+## build SCH 
+
+build 1 
+
+![](2026-09-05-16-34-31.png)
+
 ## SCH 
 
 ESP8266 drive 

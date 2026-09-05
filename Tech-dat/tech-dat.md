@@ -13,7 +13,7 @@
 
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
-- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]] - [[encoder-dat]] - [[bead-dat]]
+- [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]] - [[encoder-dat]] - [[bead-dat]] - [[diode-dat]]
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]]
 
@@ -212,7 +212,7 @@
 
 - [[serial-dat]] - [[serial-wireless-dat]] - [[CP2104-dat]] - [[CH343-dat]]
   
-- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]] - [[sd-dat]]
+- [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]] - [[sd-dat]] - [[microsd-dat]]
 
 - [[signal-dat]] - [[analog-dat]] - [[digital-dat]] - [[data-storage-dat]] - [[generator-wave-dat]] - [[DDS-dat]]
 

@@ -1,6 +1,10 @@
 
 # signal-dat.md
 
+
+- [[Synthesizer-dat]] - [[digital-dat]]
+
+
 - [[PWM-dat]]
 
 - [[digital-dat]] - [[analog-dat]]
@@ -24,6 +28,10 @@
 - [[audio-dat]]
 
 - [[pulse-generator-dat]]
+
+- [[logic-dat]] - [[digital-dat]] - [[signal-dat]] - [[signal-digital-dat]]
+
+
 
 
 ## unsort 

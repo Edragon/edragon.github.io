@@ -43,9 +43,20 @@ IC SINGLE SUP COMPARATOR(SO8) - AD8561ARZ
 
 ADCMP600/ADCMP601/ADCMP602 - Rail-to-Rail, Very Fast, 2.5 V to 5.5 V, Single-Supply TTL/CMOS Comparators
 
+
+
+
+
+
 ## voltage comparator 
 
-MAX9202 - Low-Cost, 7ns, Low-Power Voltage Comparators
+
+
+
+- [[MAX9202-dat]] - [[maxim-dat]]
+
+
+`MAX9202` - Low-Cost, 7ns, Low-Power Voltage Comparators
 
 ![](2026-01-30-14-17-34.png)
 
