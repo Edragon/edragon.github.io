@@ -51,6 +51,8 @@
 
 - [[injoinic-dat]] - [[IP5306-dat]]
 
+- [[ismartware-dat]]
+
 - [[3peak-dat]]
 
 - [[chipsea-dat]]

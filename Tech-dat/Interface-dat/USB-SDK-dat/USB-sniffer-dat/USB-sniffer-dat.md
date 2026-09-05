@@ -10,6 +10,17 @@
 
 - [[USB-SDK-dat]]
 
+- [[USB-PD-dat]] - [[USB-sniffer-dat]]
+
+
+
+## build 
+
+PD DC switcher 
+
+![](2026-09-05-15-32-33.png)
+
+
 ## chips 
 
 - [[CH224-dat]]

@@ -1,5 +1,15 @@
 
-# SPI-LCD-dat
+# LCD-SPI-dat
+
+- [[display-dat]] - [[LCD-SPI-dat]] 
+
+
+
+## build 
+
+- [[display-dat]] - [[LCD-SPI-dat]] - [[ESP32-C3-dat]] - via [[I2C-dat]] to [[SW3566-dat]]
+
+![](2026-09-05-15-34-47.png)
 
 
 ## EDL 160x128 1.8 SPI LCD
