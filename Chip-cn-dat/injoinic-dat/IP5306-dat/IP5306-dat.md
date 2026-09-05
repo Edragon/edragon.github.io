@@ -8,7 +8,7 @@
 - [[battery-protector-1s-dat]]
 
 
-- [[IP5306-dat]] - [[IP5310-dat]]
+- [[IP5306-dat]] - [[IP5310-dat]] - [[IP5305-dat]] - [[injoinic-dat]]
 
 
 

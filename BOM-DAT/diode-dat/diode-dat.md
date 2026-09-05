@@ -3,7 +3,7 @@
 
 
 
-- [[diode-dat]] - [[diode-ideal-dat]]
+- [[diode-dat]] - [[diode-ideal-dat]] - [[BOM-dat]]
 
 - [[diode-dat]] - [[Diode-Schottky-dat]]
 
@@ -32,8 +32,10 @@ BZT52C10 丝印:`WF` 10V SOD-123 1206稳压管
 | 1N4007 | SMA       | M7      |
 
 
+## diode list 
 
-
+- S3A, S3B, S3D, S3G, S3J, S3K, S3M == Surface-Mount Glass Passivated Rectifier, S3M == 1000V / 3A
+- SS32 SS33 SS34 SS35 SS36 SS38 SS39 SS310 == 20V-100V 3A 
 
 
 ## diode info 

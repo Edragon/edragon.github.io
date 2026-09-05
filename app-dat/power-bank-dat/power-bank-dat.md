@@ -8,7 +8,14 @@
 
 
 
+## chip 
+
+- [[SY3501-dat]] - [[tkplusemi-dat]] - [[power-bank-dat]]
+
+- [[IP5305-dat]]
+
 ## QC 
+
 
 - 100W
   - [[IP2368-dat]] - [[IP236x-dat]]
@@ -69,6 +76,11 @@ The capacity advertised on a power bank, such as 20000 mAh, typically represents
 
 ## build
 
+build 8 - [[SY3501-dat]] - [[IP5305-dat]] - [[battery-protector-dat]] - [[8205-dat]] 
+
+AL7901 SOT23-6 ? 
+
+![](2026-09-06-02-58-02.png)
 
 ### build 7 
 

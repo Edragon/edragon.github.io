@@ -27,7 +27,7 @@ https://www.electrodragon.com/w/RCL_List
 
 - [[capacitor-dat]] 
 
-- [[mosfet-dat]] - [[mos-P-dat]] - [[mos-n-dat]]
+- [[mosfet-dat]] - [[mos-P-dat]] - [[mos-n-dat]] - [[mosfet-rank-dat]]
 
 - [[thyristor-dat]] - [[triac-dat]] - [[IGBT-dat]] - [[darlington-dat]]
 

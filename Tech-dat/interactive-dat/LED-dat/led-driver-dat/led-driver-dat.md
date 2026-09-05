@@ -274,6 +274,12 @@ Current Push vs Pull: Power Supply & LED
 
 ## build 
 
+build 4 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]] - [[car-dat]] - [[rectifier-dat]] - [[diode-dat]]
+
+![](2026-09-06-02-34-46.png)
+
+![](2026-09-06-02-36-57.png)
+
 
 ### build 3
 

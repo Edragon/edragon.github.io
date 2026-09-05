@@ -37,6 +37,10 @@ BUK9M34-100E - N-channel 100 V, 34 mΩ logic level MOSFET in LFPAK33  - 29A
 | `IRFR5305` TRPBF  | p    | 55V  | 31A |            |         |         |       |
 
 
+## mosfet SOT23-3
+
+- SI2302 == A1sHB
+
 
 
 ## ref 

@@ -2,6 +2,8 @@
 
 # LN2566-dat
 
+- [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
+
 - [[LN2566-DS.pdf]]
 
 ■产品概述

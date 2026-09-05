@@ -37,7 +37,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[dual-mosfet-dat]]
 
 
-- [[AOSMD-mosfet-dat]] - [[3400-dat]] - [[3401-dat]] - [[AOSMD-dat]] - [[AOSMD-mosfet-dat]] - [[AOD4184-dat]] - [[AOD4184-dat]] - [[D4184-dat]]
+- [[AOSMD-mosfet-dat]] - [[AO3400-dat]] - [[AO3401-dat]] - [[AOSMD-dat]] - [[AOSMD-mosfet-dat]] - [[AOD4184-dat]] - [[AOD4184-dat]] - [[D4184-dat]]
 
 - [[AOSMD-mosfet-dat]] - [[4264E-dat]]
 

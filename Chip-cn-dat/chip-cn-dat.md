@@ -53,6 +53,8 @@
 
 - [[TITAN-dat]] - [[TM1650-dat]]
 
+- [[tkplusemi-dat]]
+
 - [[injoinic-dat]] - [[IP5306-dat]]
 
 - [[ismartware-dat]]
