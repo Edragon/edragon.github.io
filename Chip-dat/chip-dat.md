@@ -18,6 +18,8 @@ from a to z
 
 - [[bosch-dat]]
 
+- [[cypress-dat]]
+
 - [[qualcomm-dat]] - [[CSR-dat]]
 
 - [[FTDI-dat]]

@@ -2,6 +2,10 @@
 # PDM-dat
 
 
+
+- [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] - [[PDM-dat]]
+
+
 [[ESP32-S3-dat]] 
 
 [[ESP32-S3-dat]] no DAC - No Problem! We'll Use PDM

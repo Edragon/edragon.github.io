@@ -19,6 +19,14 @@
 - [[logic-XOR-dat]] - [[logic-NAND-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
 
 
+
+## comparator 
+
+- [[ti-logic-dat]] - [[comparator-dat]] - [[logic-dat]] - [[TLV3502-dat]]
+
+
+
+
 ## NAND 
 
 SN74LVC2G00 Dual 2-Input Positive-NAND Gate
