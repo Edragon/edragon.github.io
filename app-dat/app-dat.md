@@ -9,6 +9,8 @@
 
 - [[phone-dat]] - [[DJI-quadcopter-dat]]
 
+- [[PC-dat]]
+
 ## Power 
 
 - [[power-UPS-dat]] - [[power-bank-dat]]
