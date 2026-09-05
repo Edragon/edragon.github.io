@@ -17,6 +17,13 @@
 | 4.0         | ~45                 | ~1.14      |
 
 
+
+
+## heat dissipation solutions 
+
+![](2026-09-06-01-25-19.png)
+
+
 ## ref 
 
 - [[PCB-design-dat]]

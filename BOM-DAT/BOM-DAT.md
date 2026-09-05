@@ -11,6 +11,10 @@ https://www.electrodragon.com/w/RCL_List
 
 ## passive
 
+
+- [[fuse-dat]] - [[capacitor-safety-dat]] - [[capacitor-x-y-dat]] - [[Thermistor-dat]] - [[Varistor-dat]] - [[capacitor-CBB-dat]] - [[rectifier-dat]] - [[diode-rectifier-dat]] - [[BOM-dat]] - [[ACDC-RC-buck-dat]]
+
+
 - [[diode-dat]] - [[tvs-dat]] - [[transistor-dat]] - [[inductor-dat]] - [[BJT-dat]]
 
 - [[crystal-dat]] - [[ferrite-bead-dat]] - [[fuse-dat]] - [[varistor-dat]]

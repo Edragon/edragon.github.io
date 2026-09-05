@@ -1,10 +1,20 @@
 
-# ACDC RC Buck 
+# ACDC-RC-Buck-dat
+
+- [[ACDC-dat]] - [[ACDC-RC-Buck-dat]]
+
+
+
+## tech 
+
+- [[fuse-dat]] - [[capacitor-safety-dat]] - [[capacitor-x-y-dat]] - [[Thermistor-dat]] - [[Varistor-dat]] - [[capacitor-CBB-dat]] - [[rectifier-dat]] - [[diode-rectifier-dat]] - [[BOM-dat]]
+
+
+
+## basic SCH 
 
 ![](2023-08-31-18-49-57.png)
 
-
-- [[ACDC-RC_BUCK]]
 
 
 
@@ -61,12 +71,33 @@ In general, although full-wave rectification yields slightly more current, the f
 
 ![](2026-03-05-18-23-27.png)
 
-## APP 1 
 
-![](2025-09-01-20-31-10.png) ![](2025-09-01-20-31-20.png) ![](2025-09-01-20-31-32.png) ![](2025-09-01-20-31-47.png)
+## build 
+
+build 3 - [[fuse-dat]] - [[capacitor-safety-dat]] - [[capacitor-x-y-dat]] - [[Thermistor-dat]] - [[Varistor-dat]] - [[capacitor-CBB-dat]] - [[rectifier-dat]] - [[diode-rectifier-dat]] - [[BOM-dat]]
+
+[[Thermistor-dat]] == 47R 
 
 
-## board 2 
+![](2026-09-06-01-28-03.png)
+
+![](2026-09-06-01-28-23.png)
+
+
+
+APP 1 
+
+![](2025-09-01-20-31-10.png) 
+
+![](2025-09-01-20-31-20.png)
+
+![](2025-09-01-20-31-32.png)
+
+![](2025-09-01-20-31-47.png)
+
+
+
+board 2 
 
 ![](2026-06-02-20-06-10.png)
 
@@ -77,6 +108,14 @@ In general, although full-wave rectification yields slightly more current, the f
 ![](2026-06-02-20-07-01.png)
 
 
+
+
+
+
 ## ref 
 
 - [[ACDC-dat]]
+
+
+- [[ACDC-RC_BUCK]]
+

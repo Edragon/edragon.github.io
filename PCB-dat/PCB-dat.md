@@ -31,9 +31,11 @@
 
 - [[PCB-type-dat]] - [[PCB-flexible-dat]]
 
-- [[PCB-solder-mask-dat]] - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-vias-dat]]
-
+- [[PCB-dat]] - [[PCB-design-dat]]
+ 
 - [[PCB-dat]] - [[LED-board-dat]] - [[PCB-aluminium-dat]]
+
+- [[PCB-trace-dat]] - [[PCB-solder-mask-dat]] - [[PCB-vias-dat]]
 
 
 ## PCB prototype and installation 

@@ -1,7 +1,7 @@
 
 # diode-rectifier-dat
 
-
+- [[rectifier-dat]] - [[diode-rectifier-dat]] 
 
 ## MBR20200FCT 
 

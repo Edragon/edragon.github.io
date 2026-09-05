@@ -2,6 +2,9 @@
 
 # PCB-solder-mask-dat
 
+
+stop mask 
+
 - [[PCB-solder-mask-dat]] - [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-vias-dat]] - [[PCB-trace-dat]]
 
 - [[PCB-solder-mask-dat]] - [[PCB-vias-dat]] - [[PCB-trace-dat]]

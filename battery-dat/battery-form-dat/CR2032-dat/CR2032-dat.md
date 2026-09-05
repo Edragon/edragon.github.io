@@ -6,14 +6,6 @@
 - [[CR2032-dat]] - [[battery-size-dat]] - [[battery-dat]] - [[battery-rechargerable-dat]]
 
 
-## build APP 
-
-insert from the side 
-
-![](2026-07-20-21-03-08.png)
-
-
-
 
 
 ## info 
@@ -60,6 +52,21 @@ To prevent toddlers from swallowing them, some premium brands coat the negative 
 
 ### Summary Checklist for Buying CR2032s
 If your device requires sudden bursts of power (LEDs, buzzers, or wireless transmission), avoid generic bulk-bin multi-packs. Stick to **Panasonic, Murata, or Maxell**, which consistently rank highest in maintaining stable voltage under high pulse-current loads without relying on non-conductive bitter coatings.
+
+
+## build APP 
+
+build PCB 
+
+![](2026-09-06-01-26-37.png)
+
+
+insert from the side 
+
+![](2026-07-20-21-03-08.png)
+
+
+
 
 
 
