@@ -1,7 +1,7 @@
 
 # ADC-bat-monitor-dat
 
-- [[voltage-divider-dat]] - [[battery-charger-dat]]
+- [[voltage-divider-dat]] - [[battery-charger-dat]] - [[ADC-dat]] - [[ADC-bat-monitor-dat]]
 
 
 
@@ -19,6 +19,11 @@
 
 
 ## APP SCH 
+
+
+build 2 
+
+![](2026-09-05-18-02-06.png)
 
 build 1 
 

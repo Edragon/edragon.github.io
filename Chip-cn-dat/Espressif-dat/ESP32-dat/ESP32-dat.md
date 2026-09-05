@@ -59,6 +59,21 @@ DEV Baords
 
 - [[LCD-dat]] - [[NWI1241-dat]]
 
+
+[[epaper-dat]] 
+
+![](2026-09-05-17-46-01.png)
+
+
+matrix keypad - [[keypad-dat]] - [[PC-dat]] - [[ESP32-dat]] output - [[serial-dat]]
+
+![](2026-09-05-17-28-11.png)
+
+
+
+
+
+
 ## ref 
 
 - [[ESP32-FAQ-dat]]

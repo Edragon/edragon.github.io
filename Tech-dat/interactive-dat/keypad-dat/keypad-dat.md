@@ -61,6 +61,19 @@ Output high TTL signal when either row or column buttons are pressed.
 ![](2026-07-23-20-56-50.png)
 
 
+
+## build and app 
+
+matrix keypad - [[keypad-dat]] - [[PC-dat]] - [[ESP32-dat]]
+
+col 14 x row 5 
+
+Ahsan Libs:SW_choc_v1_HS_CPG135001S30_1u_custom
+
+TS5215A
+
+![](2026-09-05-17-25-28.png)
+
 ## ref 
 
 legacy wiki page 

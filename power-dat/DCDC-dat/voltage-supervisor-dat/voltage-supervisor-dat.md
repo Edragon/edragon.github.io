@@ -2,6 +2,13 @@
 # Voltage supervisor ICs
 
 
+
+TPS3840 PL27DBVR == TPS3840PL27DBVR 
+
+Nanopower high-input voltage supervisor with manual reset and programmable-reset time delay | DBV | 5 | -40 to 125
+
+![](2026-09-05-17-56-04.png)
+
 ### 1. MAX809 / MAX810 Series
 - **Purpose**: Voltage supervisor ICs for battery monitoring.
 - **Features**:

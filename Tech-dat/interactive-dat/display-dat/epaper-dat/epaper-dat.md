@@ -224,6 +224,12 @@ https://github.com/adafruit/Adafruit_EPD
 
 ## build SCH 
 
+- [[epaper-HDK-dat]]
+
+build 2 == WP27D-S050VA3-R15000 - [[ESP32-dat]] - [[RTC-dat]] - [[NXP-io-expander-dat]] - [[ti-power-app-dat]] - [[ti-power-dat]]
+
+![](2026-09-05-17-45-05.png)
+
 build 1 
 
 ![](2026-09-05-16-34-31.png)

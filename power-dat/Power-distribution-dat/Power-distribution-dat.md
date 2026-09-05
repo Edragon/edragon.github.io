@@ -72,8 +72,24 @@ working table
 ![](2026-04-28-06-34-16.png)
 
 
+
+
+
+
+
 ## APP SCH 
 
+
+build 5 
+
+![](2026-09-05-17-57-02.png)
+
+![](2026-09-05-17-57-24.png)
+
+
+build 4 
+
+![](2026-09-05-17-38-44.png)
 
 
 build 3 - Automatic Power Source Selection and On/Off Switch

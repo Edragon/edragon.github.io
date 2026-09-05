@@ -1,6 +1,25 @@
 
 # test-point-dat
 
+
+
+
+## PCB test point 
+
+![](2026-09-05-17-35-02.png)
+
+
+## common test points 
+
+![](2026-09-05-17-35-52.png)
+
+![](2026-09-05-17-36-10.png)
+
+
+
+
+## info 
+
 - small batch production can use multimeter to do the test 
 
 add points like 

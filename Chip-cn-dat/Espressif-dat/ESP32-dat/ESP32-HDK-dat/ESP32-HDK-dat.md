@@ -189,7 +189,14 @@ build 1
 EMAC = Ethernet 
 
 
-ref 
+
+
+
+
+
+
+
+## ref 
 
 - https://electropeak.com/learn/full-guide-to-esp32-pinout-reference-what-gpio-pins-should-we-use/
 - https://randomnerdtutorials.com/esp32-pinout-reference-gpios/

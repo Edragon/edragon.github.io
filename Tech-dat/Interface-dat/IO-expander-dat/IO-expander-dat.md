@@ -50,6 +50,9 @@ TCA9555 / PCA9555 I2C 16 路 IO 扩展
 
 ## I2C expander 
 
+
+- [[NXP-dat]] - [[io-expander-dat]] - [[NXP-io-expander-dat]]
+
 - [[NXP-dat]] - [[PCA9570-dat]] == Remote 4-bit general purpose outputs for 1 MHz I2C-bus
 
 ![](2026-03-05-01-27-41.png)

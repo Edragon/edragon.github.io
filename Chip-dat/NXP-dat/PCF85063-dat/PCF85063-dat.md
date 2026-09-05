@@ -29,6 +29,15 @@ GLOBAL_EN needs to be pulse low for >1mS
 
 ![](2026-04-14-19-44-12.png)
 
+
+
+## build 
+
+build 1 
+
+![](2026-09-05-17-47-45.png)
+
+
 ## ref 
 
 

@@ -1,4 +1,0 @@
-
-
-# ti-battery-charger-dat
-

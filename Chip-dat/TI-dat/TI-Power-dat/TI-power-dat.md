@@ -6,7 +6,7 @@
 
 - [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TI-LDO-dat]]
 
-
+- [[ti-power-app-dat]] - [[ti-power-dat]]
 
 
 - [[power-dat]] - [[ti-power-dat]]

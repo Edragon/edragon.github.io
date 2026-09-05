@@ -28,7 +28,7 @@
 
 - [[clock-dat]]
 
-- [[CONN-USB-dat]] - [[USB-SDK-dat]]
+- [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[CONN-USB-HDK-dat]]
 
 - [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]] - [[conn-power-dat]] - [[conn-battery-dat]] - [[conn-cable-terminal-dat]]
 
@@ -51,7 +51,7 @@
 
 ## Category
 
-
+- [[HDK-dat]]
 
 
 ### power and battery
