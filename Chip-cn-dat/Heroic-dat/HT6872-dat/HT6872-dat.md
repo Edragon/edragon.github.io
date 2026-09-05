@@ -1,12 +1,27 @@
 
 # heroic-dat 
 
+
+- [[amplifier-audio-dat]] - [[HT6872-dat]]
+
 - [[AMP1021-dat]]
 
 
 - [[PAM8403-dat]] - [[HT6872-dat]]
 
 ![](2026-05-26-17-01-25.png)
+
+
+
+
+## build SCH 
+
+build 1 + [[ZTS6216-dat]] == [[sensor-microphone-dat]]
+
+![](2026-09-05-14-39-01.png)
+
+
+
 
 
 ## HT6872-dat 

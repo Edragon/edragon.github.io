@@ -71,6 +71,13 @@ A passive buzzer requires an external oscillating signal to produce sound. It of
 
 ## SCH 
 
+
+build 4 
+
+![](2026-09-05-14-34-31.png)
+
+build 3 
+
 ![](2025-08-19-16-54-01.png)
 
 simple drive 

@@ -27,6 +27,8 @@
 
 - [[holtek-dat]]
 
+- [[kendryte-dat]] - [[K230D-dat]]
+
 - [[quectel-dat]]
 
 - [[WCH-dat]] - [[WCH-MCU-dat]] 

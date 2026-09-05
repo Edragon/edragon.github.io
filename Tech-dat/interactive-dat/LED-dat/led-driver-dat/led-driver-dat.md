@@ -25,6 +25,11 @@ https://w.electrodragon.com/w/LED_Drive
 
 ## chip 
 
+
+- [[MT9201-dat]] - [[LED-driver-dat]] - [[aerosemi-dat]]
+
+
+
 AMC7135 SOT-89 恒流350mA/2.7-6V 大功率LED驱动芯片
 
 The AMC7135 is a low dropout current regulator rated for 350mA constant sink current. The low quiescent current and low dropout voltage is achieved by advancedBi-CMOS process.

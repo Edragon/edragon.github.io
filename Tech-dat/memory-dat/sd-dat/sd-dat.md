@@ -5,6 +5,11 @@
 
 - [[SD-SDK-dat]]
 
+
+
+
+
+
 ## 4. 📍 Embedded vs. Removable == SD VS SDMMC 
 
 | Feature     | SD Card                      | eMMC / SDMMC-connected storage |

@@ -46,5 +46,15 @@ https://github.com/espressif/arduino-esp32/issues/7373
 test log 
 https://esp32.com/viewtopic.php?t=2604&start=10
 
+
+
+## build SCH 
+
+build 1 
+
+![](2026-09-05-14-36-18.png)
+
+
+
 ## ref 
 

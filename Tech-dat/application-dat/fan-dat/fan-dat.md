@@ -98,6 +98,14 @@ Solution:
 
 
 
+
+## build 
+
+SCH 1 
+
+![](2026-09-05-14-34-55.png)
+
+
 ## ref 
 
 - [[BOM-dat]]
