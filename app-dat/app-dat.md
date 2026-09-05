@@ -69,6 +69,13 @@
 
 - [[electric-scooter-dat]] - [[electric-kart-dat]] - [[electric-skateboard-dat]]
 
+
+
+## radio network
+
+- [[SDR-dat]]
+
+
 ## motorlized
 
 - [[vehicle-dat]] - [[e-bike-dat]] - [[ATV-dat]] - [[motorcycle-dat]] - [[scooter-dat]] - [[electric-kart-dat]] - [[AGV-dat]]

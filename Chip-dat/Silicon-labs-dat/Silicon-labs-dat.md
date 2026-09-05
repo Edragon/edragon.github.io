@@ -1,15 +1,33 @@
 
 # Silicon-labs-dat
 
+
+- [[SI5351-dat]] - [[silicon-labs-dat]] - [[silicon-labs-radio-dat]]
+
+- [[SI4732-dat]] - [[silicon-labs-dat]]
+
+
+
 - [[CP2102-dat]] - [[CP2104-dat]]
 
 
 
-- [[MCU-dat]] 
+- [[MCU-dat]] - [[silicon-labs-MCU-dat]]
 
 C8051F320/1 == Full Speed USB, 16 k ISP FLASH MCU Family
 
 https://www.silabs.com/documents/public/data-sheets/C8051F32x.pdf
+
+
+
+
+
+
+## SI4713-dat
+
+![](2025-07-13-03-32-19.png)
+
+
 
 
 ## EFM8 

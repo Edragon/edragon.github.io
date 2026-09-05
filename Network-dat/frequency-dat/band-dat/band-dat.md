@@ -1,5 +1,20 @@
 
-# bands-dat
+# band-dat
+
+
+
+- [[frequency-dat]] - [[oscillator-dat]] - [[Oscilloscope-dat]] - [[band-dat]] - [[SDR-dat]] - [[band-SSB-dat]] 
+
+
+- [[band-SSB-dat]] 
+
+
+
+## app 
+
+- [[SDR-dat]]
+
+## tech 
 
 - [[band-beamformer-dat]] - [[bands-dat]]
 

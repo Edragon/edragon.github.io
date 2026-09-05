@@ -14,6 +14,11 @@
 
 - [[PPL-dat]] - [[PLL-dat]]
 
+- [[oscillator-dat]] - [[Oscilloscope-dat]]
+
+
+
+
 
 ## common frequency 
 

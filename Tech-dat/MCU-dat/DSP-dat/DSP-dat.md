@@ -16,6 +16,9 @@ ADSP-21160N - High Performance 32-Bit SHARC DSP, 100 MHz
 - [[SAM5504B-dat]] - [[dream-dat]] - [[DAC-dat]] - [[DSP-dat]]
 
 
+- [[frequency-dat]] - [[oscillator-dat]] - [[Oscilloscope-dat]] - [[band-dat]] - [[SDR-dat]] - [[band-SSB-dat]] 
+
+- [[band-dat]] - [[band-SSB-dat]] - [[DSP-dat]]
 
 
 ## ref 

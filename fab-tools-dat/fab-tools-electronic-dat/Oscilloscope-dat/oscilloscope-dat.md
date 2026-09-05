@@ -2,6 +2,14 @@
 
 # Oscilloscope-dat
 
+
+- [[oscillator-dat]] - [[Oscilloscope-dat]]
+
+
+
+
+
+
 An oscilloscope (informally called an `O-scope` or scope) is an electronic test instrument that graphically displays varying electrical voltages as a function of time. It essentially acts as a high-speed visual graphing tool for signals, allowing you to measure properties like amplitude, frequency, rise time, and distortion.
 
 
@@ -11,6 +19,14 @@ An oscilloscope (informally called an `O-scope` or scope) is an electronic test 
 - [[voltage-dat]] - [[voltage-reference-dat]]
 
 - [[signal-dat]] - [[wave-dat]]
+
+
+`Variable-frequency oscillator` == https://en.wikipedia.org/wiki/Variable-frequency_oscillator
+
+`Beat frequency oscillator` == https://en.wikipedia.org/wiki/Beat_frequency_oscillator
+
+
+
 
 
 ## target 
