@@ -18,6 +18,10 @@
 
 
 
+## apps 
+
+- [[Aircraft-hand-launched]]
+
 ## tech 
 
 - [[Lithophane-dat]]
