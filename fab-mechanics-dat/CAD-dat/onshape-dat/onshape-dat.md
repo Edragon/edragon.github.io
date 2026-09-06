@@ -10,7 +10,10 @@
 
 
 
-- [[part-studio-dat]]
+- [[part-studio-dat]] - [[part-sketch-dat]] - [[intersection-curve-dat]]
+
+
+
 
 ## Direct Editing Tools (Modifying Imported STEP Geometry)
 

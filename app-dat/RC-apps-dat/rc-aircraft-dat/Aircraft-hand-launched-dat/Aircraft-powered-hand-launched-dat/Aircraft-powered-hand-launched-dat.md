@@ -5,6 +5,17 @@
 
 - [[aerodynamic-dat]]
 
+
+
+## tech 
+
+- [[onshape-dat]] - [[intersection-curve-dat]]
+
+
+
+
+
+
 ## BOM 
 
 - [[propeller-tractor-dat]]

@@ -1,8 +1,17 @@
 
 
-# Part Studio
+# part-studio-dat
 
-## Add another part into the Part Studio
+
+revolve sweep loft
+
+- [[part-revolve-dat]] - [[part-sweep-dat]] - [[part-loft-dat]]
+
+- [[CAD-dat]] - [[rc-aircraft-dat]]
+
+## other 
+
+### Add another part into the Part Studio
 
 If you need the actual geometry copied into your current Part Studio (so you can extrude, fillet, or boolean combine with it), use a **Derived** feature.
 
