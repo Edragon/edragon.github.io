@@ -32,8 +32,8 @@ screws
 
 layout 
 
-- [[VTX-dat]] - [[ELRS-dat]]
-
+- [[VTX-dat]] - [[ELRS-dat]], installtion hole == 25.5 x 25.5mm
+  
 ![](2026-09-04-22-07-33.png)
 
 GND

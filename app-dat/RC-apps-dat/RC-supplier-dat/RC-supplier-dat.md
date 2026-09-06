@@ -17,9 +17,16 @@
 
 - [[drone-maker-dat]]
 
-- [[caddxFPV-dat]] - [[walksnail-dat]]
+- [[caddx-dat]] - [[walksnail-dat]]
+
+- [[cyclone-dat]]
+
+- [[darwin-dat]]
 
 - [[frsky-dat]] - [[radiomaster-dat]] 
+
+- [[greatmountain-dat]] - [[VTX-dat]]
+
 
 - [[runcam-dat]]
 
@@ -39,8 +46,9 @@
 
 - [[rc-supplier-dat]] - [[toolkitrc-dat]]
 
+- [[JHEMCU-dat]]
 
-
+- [[pandaRC-dat]]
 
 ## ref 
 

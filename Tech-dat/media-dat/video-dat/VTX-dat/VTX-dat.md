@@ -21,6 +21,24 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 
 - [[camera-analog-dat]]
 
+- [[rc-supplier-dat]]
+
+
+
+
+
+
+## installation and tuning 
+
+- [[5.8Ghz-dat]] - [[frequency-dat]] - [[VTX-dat]]
+
+
+![](2026-09-06-16-20-01.png)
+
+
+### frequency table 
+
+![](2026-09-06-16-24-43.png)
 
 
 
@@ -182,9 +200,20 @@ The TBS Unify Pro32 Nano 5.8GHz VTX is a compact and feature-rich video transmit
     - 26dBm (400mW)
 
 
+## module installation pitch  
 
+![](2026-09-06-16-03-53.png)
 
+**20mm（20×20 堆叠）**
+• 常见用途: 3-5 寸机飞塔
 
+**25.5mm（25.5×25.5 堆叠）**
+• 常见用途: 小型机 AIO 主流 ⭐️
+
+30.5mm（30.5×30.5）
+• 常见用途: 大机飞塔
+
+FUS X111 这种 2.5 寸小涵道 + AIO 飞控 → 几乎肯定是 25.5mm（AIO 行业标准），而不是 25x25。
 
 
 ## ref 

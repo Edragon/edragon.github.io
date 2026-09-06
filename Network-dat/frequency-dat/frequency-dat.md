@@ -35,7 +35,7 @@
 - [[GPS-dat]] - [[GNSS-dat]] - [[location-dat]]
 
 
-
+- [[5.8Ghz-dat]] - [[frequency-dat]] - [[VTX-dat]]
 
 ## ISM bands 
 
