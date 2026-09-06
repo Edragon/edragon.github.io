@@ -13,8 +13,11 @@
 
 - [[FPV-wiring-dat]] - [[FPV-build-dat]] - [[FUS-X111-dat]]
 
+- [[rc-supplier-dat]]
 
+- [[ELRS-dat]] - [[ELRS-TX-dat]] - [[ELRS-RX-dat]]
 
+- [[RC-dat]]
 
 ## build 5in
 

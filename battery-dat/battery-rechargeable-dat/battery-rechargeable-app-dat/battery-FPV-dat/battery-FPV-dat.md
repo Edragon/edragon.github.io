@@ -14,6 +14,11 @@
 
 - [[cable-power-dat]]
 
+- [[battery-FPV-dat]] - [[battery-charger-dat]] - [[battery-charger-parallel-dat]] - [[power-FPV-dat]]
+
+
+
+
 ## voltage from 2S to 1S
 
 Swapping a Mobula8 from 2S to 1S won't fly better — it may barely fly at all. This is a **voltage-platform problem**, not a weight problem.

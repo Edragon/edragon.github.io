@@ -12,6 +12,11 @@ Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]] - [[ELRS-board-dat]] - [[freque
 
 - [[ELRS-RX-dat]]
 
+
+
+
+
+
 ## setup 
 
 packet rate - 500hz - 250hz - 150hz - 50hz
