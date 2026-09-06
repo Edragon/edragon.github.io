@@ -46,6 +46,13 @@ https://www.semtech.com/products/wireless-rf/lora-connect/lr1121
 ![](2026-04-14-20-10-47.png)
 
 
+
+
+## apps 
+
+- [[ESP8285-dat]] - [[ESP32-C3-dat]] - [[LR1121-dat]] - [[SX1281-dat]] == [[APP-dat]] - [[ELRS-RX-PWM-dat]]
+
+
 ## ref 
 
 - [[lora-dat]] - [[LR-FHSS-dat]] - [[sub-GHz-dat]] - [[2.4GHz-dat]] - [[location-dat]]

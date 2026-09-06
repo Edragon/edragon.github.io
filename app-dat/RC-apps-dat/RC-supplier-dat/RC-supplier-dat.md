@@ -19,7 +19,7 @@
 
 - [[caddx-dat]] - [[walksnail-dat]]
 
-- [[cyclone-dat]]
+- [[cyclone-dat]] - [[VTX-dat]]
 
 - [[darwin-dat]]
 
@@ -27,6 +27,7 @@
 
 - [[greatmountain-dat]] - [[VTX-dat]]
 
+- [[HGLRC-dat]]
 
 - [[runcam-dat]]
 

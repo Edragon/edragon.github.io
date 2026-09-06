@@ -15,10 +15,13 @@
 - [[ELRS-RX-HDK-dat]] - [[ELRS-RX-SDK-dat]] - [[ELRS-RX-PWM-dat]] - [[ELRS-RX-serial-dat]]
 
 
+
+
+
 ## Generic ESP8285 7xPWM 2.4Ghz RX
 
-http://10.0.0.1/
 
+http://10.0.0.1/
 
 
 

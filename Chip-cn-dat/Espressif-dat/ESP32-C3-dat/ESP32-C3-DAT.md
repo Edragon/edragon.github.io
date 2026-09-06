@@ -180,6 +180,13 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 
 
 
+
+## apps
+
+- [[ESP8285-dat]] - [[ESP32-C3-dat]] - [[LR1121-dat]] - [[SX1281-dat]] == [[APP-dat]] - [[ELRS-RX-PWM-dat]]
+
+
+
 ## ref
 
 - [[USB-OTG-dat]]
