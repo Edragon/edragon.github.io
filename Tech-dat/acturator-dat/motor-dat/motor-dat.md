@@ -38,7 +38,7 @@ brushed
 - [[motor-coreless-dat]] 
   
 
-[[motor-brushless-dat]]
+[[motor-brushless-dat]] - [[ESC-dat]]
 
 - [[motor-brushless-dat]]
 

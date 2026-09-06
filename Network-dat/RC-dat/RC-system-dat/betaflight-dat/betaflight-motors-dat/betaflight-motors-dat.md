@@ -20,11 +20,11 @@ test
 
 ### settings 
 
-DSHOT300 -- ESC/Motor protocol
+`DSHOT300` -- ESC/Motor protocol
 
 [] - MOTOR_STOP Don't spin the motors when armed 
 [] - ESC_SENSOR Use KISS/BLHeli_32 ESC telemetry over a separate wlre
-[x] - Bidirectional Dshot (requires supported ESC firmware)
+[x] - `Bidirectional Dshot (requires supported ESC firmware)`
 12 - Motor poles (number of magnets on the motor bell)
 0 - Dynamic Idle Value [* 100 RPM]
 8% - Motor Idle ( %, static)
@@ -32,7 +32,11 @@ DSHOT300 -- ESC/Motor protocol
 EX1103 - KV11000 == Standard tiny whoop motors like EX1103 11000KV have 6 poles / 3-phase, but some high-torque variations may use 12 poles.
 
 
+**Mechanism: Standard BLHeli_S only receives control signals (one-way). Bluejay with Bidirectional DShot enabled requires the FC to send and receive telemetry packets every cycle.**
+
 ### What is ESC Bi-Directional DShot?
+
+- [[bluejay-dat]] == ESC firmware
 
 #### 1. DShot Protocol (normal)
 - A **digital protocol** to send throttle signals from the flight controller (FC) to the ESC.
@@ -59,6 +63,7 @@ EX1103 - KV11000 == Standard tiny whoop motors like EX1103 11000KV have 6 poles 
 ---
 
 #### Summary
+
 **Bi-Directional DShot = digital two-way protocol between FC and ESC.**  
 It not only controls motors, but also lets ESC report **real-time motor RPM & telemetry** back, enabling advanced features like **RPM filtering** for smoother flights.
 
