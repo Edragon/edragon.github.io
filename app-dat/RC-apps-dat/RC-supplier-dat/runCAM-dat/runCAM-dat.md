@@ -2,6 +2,8 @@
 # runCAM-dat.md
 
 
+wiring ==  [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-analog-dat]]
+
 
 - [[caddxFPV-dat]] - [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-wireless-dat]]
 
