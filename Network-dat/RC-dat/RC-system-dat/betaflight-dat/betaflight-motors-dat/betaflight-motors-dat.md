@@ -1,7 +1,9 @@
 
 # betaflight-motors-dat
 
-- [[ex1103-dat]] - [[motor-fpv-dat]]
+- [[ex1103-dat]] - [[motor-fpv-dat]] - [[ESC-SDK-dat]]
+
+- [[betaflight-dat]] - [[betaflight-motors-dat]] 
 
 ## motors 
 
@@ -18,6 +20,11 @@ test
 - [x] DSHOT 300
 - [x] DSHOT 600
 
+
+
+
+
+
 ### settings 
 
 `DSHOT300` -- ESC/Motor protocol
@@ -29,12 +36,36 @@ test
 0 - Dynamic Idle Value [* 100 RPM]
 8% - Motor Idle ( %, static)
 
+
+### Motor Idle ( %, static)
+
+Motor idle (or **Disarm Throttle / Idle Throttle**) is the minimum rotational speed (RPM or throttle percentage) applied to the motors the moment you arm your drone, *before* you push the throttle stick. 
+
+* **Why it matters**: Without an idle speed, motors would completely stop spinning when the throttle is at absolute zero mid-flight. When you pull the throttle down to descend quickly, the props would stop generating aerodynamic control authority, making the quad **unresponsive or twitchy** to roll/pitch/yaw commands. Having an active idle keeps the motors spinning slowly so the flight controller maintains full stabilization control at zero throttle.
+
+---
+
+### Recommended Setting for Mobula 8 (EX1103)
+
+For a 2S micro whoop like the Mobula 8 running EX1103 motors, the recommended idle value in Betaflight is:
+* **`5.0%` to `5.5%`** (Standard starting point)
+* If your motors occasionally twitch, fail to spin up uniformly, or stop when descending rapidly, bump it up to **`6.0%`**.
+
+
+### Motor poles
+
+- [[EX1103-dat]]
+
 EX1103 - KV11000 == Standard tiny whoop motors like EX1103 11000KV have 6 poles / 3-phase, but some high-torque variations may use 12 poles.
 
 
-**Mechanism: Standard BLHeli_S only receives control signals (one-way). Bluejay with Bidirectional DShot enabled requires the FC to send and receive telemetry packets every cycle.**
 
-### What is ESC Bi-Directional DShot?
+
+
+
+### ESC Bi-Directional DShot
+
+**Mechanism: Standard BLHeli_S only receives control signals (one-way). Bluejay with Bidirectional DShot enabled requires the FC to send and receive telemetry packets every cycle.**
 
 - [[bluejay-dat]] == ESC firmware
 

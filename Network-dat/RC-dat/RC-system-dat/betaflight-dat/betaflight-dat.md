@@ -6,8 +6,25 @@
 - [[radiomaster-dat]] - [[rc-controller-dat]]
 
 
+## new options 
 
-- [[betaflight-presents-dat]]  - [[betaflight-configuration-dat]] 
+- [[betaflight-failsafe-dat]]
+
+- [[betaflight-adjustments-dat]]
+
+- [[betaflight-autotune-dat]]
+
+- [[betaflight-tethered-logging-dat]]
+
+- [[betaflight-sensors-dat]]
+
+## common options 
+
+- [[betaflight-presents-dat]] 
+
+- [[betaflight-configuration-dat]] 
+
+- [[betaflight-power-battery-dat]]
 
 - [[betaflight-modes-dat]] - [[betaflight-motors-dat]] - [[betaflight-modes-dat]]
 
@@ -21,14 +38,8 @@
 
 - [[betaflight-ports-dat]] - [[betaflight-led-strip-dat]] - [[betaflight-dat]]
 
-
-
-
-## setup 
-
-main setup 
-
 - [[betaflight-receiver-dat]] 
+
 
 
 ## betaflight supports 
