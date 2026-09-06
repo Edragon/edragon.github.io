@@ -1,6 +1,9 @@
 
 # SDR-dat
 
+
+- [[SDR-dat]] - [[SDR-RTL-dat]]
+
 software defined radio
 
 ## tech 

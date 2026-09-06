@@ -12,7 +12,7 @@
 - [[FPV-build-dat]] 
 
 
-- [[ELRS-RX-HDK-dat]] - [[ELRS-TX-SDK-dat]] - [[ELRS-PWM-dat]]
+- [[ELRS-RX-HDK-dat]] - [[ELRS-RX-SDK-dat]] - [[ELRS-RX-PWM-dat]] - [[ELRS-RX-serial-dat]]
 
 
 ## Generic ESP8285 7xPWM 2.4Ghz RX

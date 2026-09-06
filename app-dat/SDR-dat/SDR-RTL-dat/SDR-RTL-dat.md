@@ -1,5 +1,11 @@
 
-# RTL-SDR-dat
+# SDR-RTL-dat
+
+- [[SDR-dat]] - [[SDR-RTL-dat]]
+
+Software Defined Radio (SDR)
+
+
 
 1. What You Need
 
@@ -41,7 +47,7 @@ What You Can Do With RTL-SDR
 
 ## Alternative: Use an SDR to Sniff Raw RF
 
-To analyze the actual RF signal, you need a Software Defined Radio (SDR) like:
+To analyze the actual RF signal, you need a `Software Defined Radio (SDR)` like:
 
 HackRF, LimeSDR, or USRP
 
@@ -50,3 +56,6 @@ Record the 2.4GHz spectrum
 Analyze bursts from the remote
 
 Use Universal Radio Hacker (URH) or GNU Radio to decode the signal
+
+
+## ref 
