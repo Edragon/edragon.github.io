@@ -216,6 +216,46 @@ The TBS Unify Pro32 Nano 5.8GHz VTX is a compact and feature-rich video transmit
 FUS X111 这种 2.5 寸小涵道 + AIO 飞控 → 几乎肯定是 25.5mm（AIO 行业标准），而不是 25x25。
 
 
+
+## analog VTX range 
+
+25mW
+• Typical limit: 0.3-1km
+• Note: The 10m you measured in your garage was purely environmental shielding
+
+100mW
+• Typical limit: 1-2km
+• Note: Stable within line of sight
+
+400mW
+• Typical limit: 2-5km
+• Note: Your current power level, enough to get into long-range flying
+
+600mW-1W
+• Typical limit: 5-10km
+• Note: Goes even further with better antennas
+
+1.5-2W (rare)
+• Typical limit: 10km+
+• Note: Needs heat dissipation, mostly used for ground stations
+
+🏆 How far is the absolute limit?
+
+400mW + standard goggles
+• Range: 2-5km
+• Notes: The practical limit for everyday long-range flying
+
+1W + ground station with patch antenna
+• Range: 10-20km
+• Notes: Advanced long-range (ground station, not goggles)
+
+World record level
+• Range: 100km+
+• Notes: High altitude + high power + giant antennas (extreme)
+
+
+- [[RF-long-range-dat]] - [[RF-dat]]
+
 ## ref 
 
 - [[VTX-dat]] - [[sensor-Camera-dat]] - [[wireless-camera-dat]]

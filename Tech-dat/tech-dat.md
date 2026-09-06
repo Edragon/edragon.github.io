@@ -239,7 +239,7 @@
 
 - [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] - [[speaker-dat]]
 
-- [[video-dat]] - [[video-wireless-dat]] - [[HDMI-dat]]
+- [[video-dat]] - [[video-wireless-dat]] - [[HDMI-dat]] - [[VTX-dat]]
 
 
 ## Utilities 
