@@ -17,7 +17,10 @@
 
 - [[ELRS-dat]] - [[ELRS-TX-dat]] - [[ELRS-RX-dat]]
 
-- [[RC-dat]]
+
+
+- [[RC-RF-SDK-dat]] - [[RC-RF-HDK-dat]] - [[FPV-build-dat]] - [[RC-dat]]
+
 
 ## build 5in
 

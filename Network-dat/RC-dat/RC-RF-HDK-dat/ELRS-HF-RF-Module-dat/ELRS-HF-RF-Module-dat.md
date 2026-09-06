@@ -3,7 +3,7 @@
 
 
 
-- [[ELRS-HF-RF-Module-dat]] - [[rc-supplier-dat]]
+- [[rc-supplier-dat]] - [[irangex-dat]] - [[radiomaster-pocket-module-dat]] - [[ELRS-HF-RF-Module-dat]] - [[IRX4-lite-dat]] 
 
 高频头
 
