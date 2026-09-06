@@ -154,7 +154,7 @@ Light = responsive = beginners feel "overdone". A TinyWhoop demands extremely de
 
 - [[RC-dat]] == [[radiomaster-dat]] = 50 USD
 
-- [[goggles-dat]] == [[walksnail-dat]] = 180 USD
+- [[goggles-dat]] - [[camera-digital-dat]] == [[walksnail-dat]] = 180 USD
 
 - [[drone-maker-dat]] == [[mobula8-dat]] == [[happymodel-dat]] == 100 USD
 

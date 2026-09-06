@@ -1,16 +1,13 @@
 
-# Goggles-dat
+# FPV-Goggles-dat
 
 
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]]
 
-- [[goggles-dat]] - [[VRX-receiver-dat]]
+- [[FPV-goggles-dat]] - [[VRX-receiver-dat]]
 
 
 - [[fat-shark-dat]] - [[skyzone-dat]]
-
-
-
 
 
 - GogglesX 
@@ -24,10 +21,14 @@
 
 - [[opensource-dat]] == [[openHD-dat]]
 
-- [[eMAX-dat]]
+
+
+
 
 
 ## makers 
+
+- [[eMAX-dat]]
 
 - [[beerotor-dat]] - [[Rotorama-dat]] - [[EACHINE-dat]] - [[Eachine-EV800D-dat]]
 
@@ -245,6 +246,38 @@ The core meanings of these suffixes are broken down below:
 * **X** = Top-tier all-around flagship (Large-screen OLED + Top-tier receiver + Full features)
 * **O** = Sub-flagship (OLED screen with partial parameter simplifications)
 * **L** = Economic and practical (Swapped to LCOS screens, reducing price without losing core experience)
+
+
+
+## common selection for 近视
+
+- [[skyzone-dat]] - [[fatshark-dat]] - [[eachine-dat]]
+
+📋 给近视飞友的推荐表
+
+**Skyzone Cobra X**
+• 类型: 盒子式
+• 近视方案: 直接戴眼镜 ✅
+• 价格: ~¥600-900
+• 适合: 模拟+眼镜党首选性价比
+
+Eachine EV800DM
+• 类型: 盒子式
+• 近视方案: 直接戴眼镜 ✅
+• 价格: ~¥700
+• 适合: 新手模拟
+
+**Skyzone 04X（你候选）**
+• 类型: 双目
+• 近视方案: 需配插片/调屈光 ⚠️
+• 价格: ~¥2000+
+• 适合: 想摘眼镜飞的进阶
+
+FatShark HDO2
+• 类型: 双目
+• 近视方案: 需配插片 ⚠️
+• 价格: ~¥2500+
+• 适合: 老牌模拟旗舰
 
 
 
