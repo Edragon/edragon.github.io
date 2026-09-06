@@ -2,8 +2,30 @@
 # power-BEC-dat
 
 
-- [[ESC-dat]] - [[power-BEC-dat]]
+- [[ESC-dat]] - [[power-BEC-dat]] - [[power-FPV-dat]]
 
+
+
+
+## BEC to gopro 
+
+- [[gopro-dat]] 
+
+技术参数：
+1.供电电压：4-6S
+2.输出：5V/3A
+3.输入插头：XH2.54（电池平衡头）
+4.输出插头：90°Type-C插头
+5.长度：137mm
+6.重量：5.5g
+7.兼容Gopro6/7/8/9/10直插使用
+
+特点：
+可代替原有gopro电池，使用飞机上的电池供电，使得整机更轻
+
+![](2026-09-06-15-01-23.png)
+
+## BEC Info 
 
 
 **BEC power** is a **low-voltage regulated power supply** that:

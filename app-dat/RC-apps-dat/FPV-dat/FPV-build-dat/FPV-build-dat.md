@@ -95,6 +95,7 @@ total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 
 ## parts of the FPV drones
 
+- [[battery-FPV-dat]] - [[power-BEC-dat]] - [[power-FPV-dat]] - [[FPV-build-dat]]
 
 - [[flight-controller-dat]]
 
