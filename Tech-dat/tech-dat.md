@@ -112,7 +112,7 @@
 
 - [[lora-dat]] - [[SX1262-dat]]
 
-- [[rf-link-dat]]
+- [[rf-link-dat]] - [[rf-dat]]
 
 - [[ELRS-dat]] - [[CRSF-dat]] - [[radiomaster-dat]] - [[radiomaster-pocket-dat]]
 
@@ -268,7 +268,7 @@
 
 - [[kicad-PCB-dat]]
 
-- [[CAD-dat]] - [[onshape-dat]]
+- [[CAD-dat]] - [[onshape-dat]] - [[part-studio-dat]]
 
 ## simulator 
 

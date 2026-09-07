@@ -9,6 +9,14 @@ revolve sweep loft
 
 - [[CAD-dat]] - [[rc-aircraft-dat]]
 
+
+
+## revolve sweep loft 
+
+- [[aircraft-dat]] - [[aircraft-CAD-dat]]
+
+
+
 ## other 
 
 ### Add another part into the Part Studio
