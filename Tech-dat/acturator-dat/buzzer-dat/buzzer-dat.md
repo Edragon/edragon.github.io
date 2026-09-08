@@ -13,6 +13,14 @@
 
 - [[buzzer-mems-dat]]
 
+
+
+
+## drive 
+
+- 2TY - [[transistor-dat]]
+
+
 ## boards 
 
 active buzzer - [[SSL1019-dat]]
@@ -99,6 +107,12 @@ high drive - [[transistor-dat]]
 ## build 
 
 ![](2026-07-31-20-02-13.png)
+
+
+
+## apps 
+
+- [[power-smoke-stopper-dat]] - [[power-dat]]
 
 
 ## ref 

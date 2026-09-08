@@ -18,5 +18,18 @@ How It Works
 
 `Visual Warning`: LEDs or lit bulbs indicate normal status or alert you to an abnormal high-current draw. 
 
+
+
+## build 
+
+- [[CONN-power-dat]] - [[LDO-dat]] - [[buzzer-dat]] - [[fuse-dat]] - [[LED-dat]] - [[diode-dat]]
+
+![](2026-09-08-13-11-04.png)
+
+![](2026-09-08-13-11-49.png)
+
+![](2026-09-08-13-12-33.png)
+
+
 ## ref 
 

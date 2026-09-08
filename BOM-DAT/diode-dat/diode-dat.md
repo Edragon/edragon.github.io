@@ -3,7 +3,7 @@
 
 
 
-- [[diode-dat]] - [[diode-ideal-dat]] - [[BOM-dat]]
+- [[diode-dat]] - [[diode-ideal-dat]] - [[BOM-dat]] - [[TVS-dat]]
 
 - [[diode-dat]] - [[Diode-Schottky-dat]]
 
@@ -36,6 +36,11 @@ BZT52C10 丝印:`WF` 10V SOD-123 1206稳压管
 
 - S3A, S3B, S3D, S3G, S3J, S3K, S3M == Surface-Mount Glass Passivated Rectifier, S3M == 1000V / 3A
 - SS32 SS33 SS34 SS35 SS36 SS38 SS39 SS310 == 20V-100V 3A 
+
+unknow list 
+
+- SOD123 SOD323 620D over the power negative and positive 
+
 
 
 ## diode info 
@@ -216,6 +221,51 @@ MICROCHIP LSM115JE3/TR13 - Diode 15V 1A Surface Mount DO-214BA
 ## ESD protection 
 
 - [[protection-dat]]
+
+
+
+## design 
+
+###  diode connected in parallel between the positive and negative terminals of a power supply
+
+
+- [[power-smoke-stopper-dat]] - [[power-dat]]
+
+
+
+A diode connected in parallel between the positive and negative terminals of a power supply typically serves one of three core purposes, depending on its type and orientation:
+
+####   **Reverse Polarity Protection (Paired with a Fuse):** 
+
+- [[fuse-dat]]
+
+    The diode is connected in **reverse** across the power rails (it remains in a non-conducting cutoff state during normal operation). If the power supply is accidentally connected in reverse, the diode instantly conducts in the forward direction, creating a short circuit that blows the upstream fuse and cuts off power to protect downstream precision electronics.
+
+
+##### circuits 
+
+The specific circuit connection is as follows:
+
+*   **Fuse:** Connected in **series** along the main positive power rail (or input line).
+*   **Protection Diode:** Connected in **parallel** across the power rails (after the fuse, between the positive rail and negative/GND), and it is placed in a **reverse-biased (cutoff)** orientation (i.e., the diode's cathode connects to the positive power line, and its anode connects to ground/negative).
+
+### Working Principle
+
+1.  **Normal Operation:** When the power supply is connected correctly, the diode is in a reverse-biased state (acting as an open circuit). Current flows normally through the fuse to power the downstream circuit.
+2.  **Reverse Polarity Connection:** If the power supply is accidentally connected in reverse, the polarity of the rails flips. This causes the reverse-connected diode to instantly become **forward-biased and conduct**.
+3.  **Fuse Blowing Protection:** Because the diode conducts and essentially creates a direct short circuit between the positive and negative rails, it draws a massive surge of current. This heavy current flows through the **fuse** connected upstream, instantly blowing it and cutting off the power to protect the downstream circuitry from being destroyed.
+
+
+####   **Overvoltage Protection and Surge Clamping (TVS / Zener Diodes):** 
+
+- [[TVS-dat]]
+
+    A Transient Voltage Suppression (TVS) diode or Zener diode is reverse-connected across the power rails. When a sudden high-voltage spike, electrostatic discharge (ESD), or operational surge occurs, the diode rapidly enters an avalanche breakdown state, "clamping" the excessive voltage to a safe threshold to protect onboard ICs.
+
+
+####  **Flyback and Back-EMF Suppression (Freewheeling):** 
+    If the circuit contains inductive loads like motors or relays, cutting off the power or switching states causes the inductor to generate a high reverse electromotive force (back-EMF). A diode placed across the power rails or the load provides a discharge loop to safely circulate and dissipate this high-voltage current, preventing it from breaking down switching devices (such as MOSFETs or transistors).
+
 
 
 
