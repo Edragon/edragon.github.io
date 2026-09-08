@@ -11,6 +11,9 @@
 
 ## LDO 
 
+
+HT50 == [[LDO-dat]] - [[holtek-dat]] - [[CN3302-dat]]
+
 - HT7530 = HT36 = DS [[Holtek-Semicon-HT7530-2_C259499.pdf]]
 
 - [[LDO-dat]] - [[HT7530-dat]] - [[holtek-dat]]
@@ -31,3 +34,4 @@ HT7530-1 3.0V
 - HT7550 
 
 
+## ref 

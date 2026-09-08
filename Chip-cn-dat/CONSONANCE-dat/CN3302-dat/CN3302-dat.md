@@ -38,9 +38,18 @@ The CN3302 is available in an 8-pin SOP8 package.
 
 X1KX SOT23-3
 
-unknown chip H4012 G2423B1A
+X01V
+
+HT50 == [[LDO-dat]] - [[holtek-dat]]
+ 
+unknown chip H4012 G2423B1A == - [[HXC-dat]] - [[H4012-dat]] - [[dcdc-down-dat]]
 
 ![](2026-06-18-17-34-51.png)
+
+红头充电输入，升压8.4V，黑头5V输出
+
+
+
 
 
 ## ref 

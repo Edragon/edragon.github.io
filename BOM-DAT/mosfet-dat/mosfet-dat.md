@@ -404,6 +404,29 @@ N-Channel 30-V (D-S) MOSFET
 https://www.vishay.com/docs/74341/sup90n03.pdf
 
 
+## mosfet list 
+
+M2544N == `QM2544N5` == M2544N - [[mosfet-dat]] - [[battery-protector-1s-dat]]
+
+QM2544N5 - Dual N-Channel 20V Fast Switching MOSFET
+
+https://www.upi-semi.com/upisemi/products/mosfet/low-voltage-power-mosfet-40v/qm2544n5/
+
+The QM2544N5 is a high performance trench Dual N-channel MOSFET which utilizes extremely high cell density to provide low Rdson and gate charge characteristics. It is ideally suited to support Battery switch.
+
+The QM2544N5 meets RoHS and Green Product requirements while supporting full function reliability.
+
+
+
+## apps 
+
+- [[LED-driver-dat]] - [[mosfet-dat]]
+
+
+
+
+
+
 ## ref 
 
 - [[vishay-dat]]

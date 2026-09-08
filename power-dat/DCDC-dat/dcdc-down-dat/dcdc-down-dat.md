@@ -14,6 +14,8 @@
 ## chip and companies
 
 
+- [[HXC-dat]] - [[H4012-dat]] - [[dcdc-down-dat]] == 40Vin 
+
 - [[diodes-dat]] - [[AP62200-dat]] - [[LDO-dat]] - [[dcdc-down-dat]]
 
 

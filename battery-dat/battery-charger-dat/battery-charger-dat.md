@@ -22,6 +22,9 @@
 - [[ADC-bat-monitor-dat]] - [[voltage-divider-dat]] - [[ADC-dat]]
 
 
+
+
+
 ## info 
 
 
@@ -50,6 +53,12 @@ The most following charger options are for the lithium-ion battery
 - [[usb-sniffer-dat]]
 
 [[Coulomb-Counter-dat]] - [[battery-charger-dat]] - Coulomb Counter/Battery Gas Gauge - [[LTC4150-dat]] - [[linear-technology-dat]]
+
+
+
+## chip 
+
+- [[IU5918-dat]] - [[sand-tech-dat]] - [[battery-charger-dat]]
 
 
 

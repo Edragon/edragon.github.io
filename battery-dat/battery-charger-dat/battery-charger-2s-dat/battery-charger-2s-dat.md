@@ -5,6 +5,9 @@
 
 
 
+- [[battery-charger-2s-dat]] - [[dcdc-boost-dat]]
+
+
 - [[battery-balance-charger-dat]] - [[battery-balancer-dat]] - [[battery-charger-dat]]
 
 
@@ -112,7 +115,9 @@ A high-end synchronous switched-mode charger from Texas Instruments.
 
 ---
 
-### Summary Comparison Table
+## Summary Comparison Table / solutions 
+
+- [[CN3302-dat]]
 
 - [[IP2326-dat]] - [[TP5100-dat]] - [[BQ24133-dat]]
 
