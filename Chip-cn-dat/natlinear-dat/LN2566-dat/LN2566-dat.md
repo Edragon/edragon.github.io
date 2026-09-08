@@ -2,6 +2,9 @@
 
 # LN2566-dat
 
+
+marking code == 66fb
+
 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]]
 
 - [[LN2566-DS.pdf]]
@@ -28,6 +31,8 @@ GS2566采用了PWM 工作模式，在应用中可以采用较小值的电感，�
 ## APP 
 
 ![](2026-06-02-20-32-24.png)
+
+
 
 
 

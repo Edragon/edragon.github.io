@@ -39,6 +39,10 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP6826-dat]] - [[IP5328-dat]] - [[power-wireless-dat]] - [[power-bank-dat]]
 
+- [[IP6566-dat]] - [[car-fast-charger-dat]] - [[battery-charger-dat]]
+
+
+
 
 ## Chip Series 
 

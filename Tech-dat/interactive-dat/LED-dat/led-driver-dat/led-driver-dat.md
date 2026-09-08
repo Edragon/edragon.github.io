@@ -28,6 +28,9 @@ https://w.electrodragon.com/w/LED_Drive
 
 - [[MT9201-dat]] - [[LED-driver-dat]] - [[aerosemi-dat]]
 
+- [[natlinear-dat]] - [[LN2566-dat]] 
+
+
 
 
 AMC7135 SOT-89 恒流350mA/2.7-6V 大功率LED驱动芯片
@@ -273,6 +276,17 @@ Current Push vs Pull: Power Supply & LED
 
 
 ## build 
+
+
+build 6 - [[natlinear-dat]] - [[LN2566-dat]] 
+
+30AL == [[mosfet-dat]]
+
+H7，输出13v，原9V灯片用13V可以用 降压 限流电阻更换以后，可以适应不同的灯珠，可玩性很高
+
+![](2026-09-08-16-12-16.png)
+
+![](2026-09-08-16-12-23.png)
 
 
 build 5 - [[battery-charger-dat]] - [[IU5918-dat]] - [[sand-tech-dat]]

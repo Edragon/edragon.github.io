@@ -406,7 +406,7 @@ https://www.vishay.com/docs/74341/sup90n03.pdf
 
 ## mosfet list 
 
-M2544N == `QM2544N5` == M2544N - [[mosfet-dat]] - [[battery-protector-1s-dat]]
+`M2544N` == `QM2544N5` == M2544N - [[mosfet-dat]] - [[battery-protector-1s-dat]]
 
 QM2544N5 - Dual N-Channel 20V Fast Switching MOSFET
 
@@ -415,6 +415,16 @@ https://www.upi-semi.com/upisemi/products/mosfet/low-voltage-power-mosfet-40v/qm
 The QM2544N5 is a high performance trench Dual N-channel MOSFET which utilizes extremely high cell density to provide low Rdson and gate charge characteristics. It is ideally suited to support Battery switch.
 
 The QM2544N5 meets RoHS and Green Product requirements while supporting full function reliability.
+
+`30AL` == [[mosfet-dat]] - [[natlinear-dat]]
+
+NP3400AMR场效应MOS管 SOT23-3L NMOS 30V 7.0A 丝印30AL
+
+30V N-Channel Enhancement Mode MOSFET - NP3400AMR-S
+
+The NP3400AMR-S uses advanced trench technology to provide excellent RDS(ON), low gate charge and high density cell Design for ultra low on-resistance. This device is suitable for use as a load switch or in PWM applications.
+
+VDS =30V，ID =5.8A
 
 
 

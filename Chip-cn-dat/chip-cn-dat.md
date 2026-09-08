@@ -27,6 +27,8 @@
 
 - [[everanalog-dat]]
 
+- [[fuman-dat]]
+
 - [[SIMCOM-dat]]  - [[A7670-dat]] - [[SIM800-dat]]
 
 - [[holtek-dat]] - [[hcwsemi-dat]]

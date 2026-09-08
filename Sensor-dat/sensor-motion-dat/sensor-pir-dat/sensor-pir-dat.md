@@ -112,6 +112,56 @@ read PIR IO 14 - [[senba-sensing-dat]] - [[sensor-pir-IO14-1.ino]]
 
 ![](2026-07-23-17-04-54.png)
 
+
+
+## build 
+
+
+build 1 == Esp32 3.3V 供电，用模拟管脚输入，触发高电平 4095，30 秒没检测到物体跳会低电平 0（1），如果一直对着人物持续输出高电平。 
+
+![](2026-09-08-16-00-24.png)
+
+PIR N219S 
+
+- Series:Pyroelectric Infrared Sensor
+- Features:Change with temperature, Digital signal processing
+- Mounting Type:Digital signal output
+- Description:Dual sensitive element design
+- Model Number:BL-RD-N219S
+- Place of Origin:Guangdong, China
+- Brand Name:GBeelee
+- Usage:Especially suitable for intelligent
+- Theory:Infrared detection
+- Output:Analog signal
+- Brand:Pyroelectric Infrared Sensor
+- Voltage - Supply:3~15V
+- Output Type:≥ 3500mV
+- Operating Temperature:-30~70℃
+- Current - Supply (Max):<12uA
+- Output Configuration:Output Balance<10%
+- Voltage Rating:0.4~0.75V
+- Size / Dimension:Window Size: 3*4mm
+- Resolution:≥ 75%
+- Sensing Range:120° (horizontal direction)
+- Current - Output (Max):Supply Voltage:3~15V
+- Sensitivity (LSB/g):≥ 3300V/W
+- Sensing Distance:10M (lens SB-F-02)
+- Voltage - Max:3.7V
+- Sensing Light:5~14um
+- Voltage - Input:3~15V
+- Application:smart toys,automatic light switch,Sensor door
+- Window Size:3*4mm
+- IR Receiving Electrode:2*1mm,2elements
+- Package Type:TO-5
+- Spectral Response:5-14μ m
+- Transmittance:≥ 75%
+- Signal Output[Vp-p]:≥ 3500mV
+- Sensitivity:≥ 3300V/W
+- Noise[Vp-p]:≤70mV
+- Output Balance:<10%
+- Offset Voltage:0.4~0.75V
+
+
 ## ref 
 
 - [[PIR-sensor]]

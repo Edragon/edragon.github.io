@@ -38,7 +38,7 @@
 
 - [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[maxim-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[realtek-dat]] - [[infineon-dat]] - [[CD40xx-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[realtek-dat]] - [[silicon-labs-dat]] - [[Melexis-dat]] - [[joulwatt-dat]] - [[nordic-dat]] - [[AVR-dat]] - [[toshiba-dat]] - [[NXP-dat]] - [[amd-dat]] - [[ST-dat]]
 
-- [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]] - [[CONSONANCE-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ismartware-dat]] - [[microne-dat]] - [[ESP32-S3-dat]] - [[CMsemicon-dat]] - [[DJI-dat]]
+- [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]] - [[CONSONANCE-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ismartware-dat]] - [[microne-dat]] - [[ESP32-S3-dat]] - [[CMsemicon-dat]] - [[DJI-dat]] 
 
 
 
@@ -60,7 +60,7 @@
 
 - [[dcdc-boost-down-dat]]
 
-- [[battery-dat]] - [[battery-rechargerable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]] - [[battery-lead-acid-dat]]
+- [[battery-dat]] - [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]] - [[battery-lead-acid-dat]]
 
 - [[battery-BMS-dat]] - [[BMS-active-dat]] - [[BMS-passive-dat]] - [[battery-protector-dat]]
 
@@ -70,7 +70,7 @@
 
 - [[battery-form-dat]] - [[26650-dat]] - [[18650-dat]] - [[32140-dat]] - [[CR2032-dat]]
 
-- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]] - [[battery-balancer-dat]]
+- [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]] - [[battery-balancer-dat]] - [[battery-protector-dat]] 
 
 - [[ac-mains-dat]] - [[acdc-dat]]
 
