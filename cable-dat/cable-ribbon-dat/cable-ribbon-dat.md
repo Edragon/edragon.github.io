@@ -8,7 +8,7 @@ Flat Ribbon Cable (FRC) is a versatile cable featuring multiple parallel conduct
 
 - [[cable-ribbon-dat]] - [[PCA1009-dat]] - [[PCA1011-dat]] - [[PCA1012-dat]]
 
-- board - [[IDD1016-dat]]
+- board wiring examples - [[IDD1016-dat]] - [[IDD1027-dat]]
 
 
 ## 2-row 2*8 pins 
@@ -32,6 +32,7 @@ the result is always the same that mapping same pins from PCB to PCB, no matter 
 see how it mapped here [[HUB75-dat]], either horizontally flipped or horizontally + vertically flipped
 
 ![](2025-12-17-17-47-31.png)
+
 
 
 

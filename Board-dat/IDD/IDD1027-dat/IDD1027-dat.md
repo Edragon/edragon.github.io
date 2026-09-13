@@ -136,6 +136,19 @@ v1.1
 
 ![](2026-04-06-21-39-20.png)
 
+
+## customization 
+
+- if you prefer NOT to plug the board directly to the panel, and connect via a [[cable-ribbon-dat]] and leave the [[HUB75-dat]] connector un-soldered, also add normal two-row [[conn-pin-header-dat]] on the bottom:
+- please add an order note for customization when checkout (all order notes will be processed manually) or contact us by email `info@electrodragon.com`
+
+wiring, image the second board is the matrix panel - [[led-rgb-panel-dat]]
+
+![](2026-09-13-15-35-06.png)
+
+![](2026-09-13-15-36-04.png)
+
+
 ## ref 
 
 - [[IDD1027]]
