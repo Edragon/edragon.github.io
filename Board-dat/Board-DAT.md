@@ -237,7 +237,7 @@ LED control - [[ILC1063-dat]]
 
 ### OPM 
 
-- [[OPM1013-dat]] - [[OPM1019-dat]]
+- [[OPM1013-dat]] - [[OPM1019-dat]] - [[OPM1027-dat]]
 
 - [[OPM1143-DAT]] - [[OPM1152-dat]] - [[OPM1153-dat]] - [[MP1584-dat]]
 

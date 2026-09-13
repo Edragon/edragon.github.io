@@ -20,11 +20,23 @@
 - [[rectifier-dat]] - [[diode-rectifier-dat]] 
 
 
-brand - [[st-dat]]
+
+
+
+## marking 
+
+- T4 
+- F7
+
+
+
+
+## chip 
 
 
 ## ST
 
+brand - [[st-dat]]
 
 ## Diotec
 
