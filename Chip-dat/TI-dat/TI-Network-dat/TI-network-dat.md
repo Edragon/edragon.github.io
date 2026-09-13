@@ -9,6 +9,13 @@
 
 
 
+## ethernet
+
+- [[ti-network-dat]] - [[ethernet-dat]] 
+
+- [[DP83848-dat]] == DP83848C/I/VYB/YB PHYTER™ QFP Single Port 10/100 Mb/s Ethernet Physical Layer Transceiver
+
+
 ## programmer 
 
 - [[XDS110-dat]]

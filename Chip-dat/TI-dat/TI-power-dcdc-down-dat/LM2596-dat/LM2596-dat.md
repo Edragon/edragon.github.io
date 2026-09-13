@@ -2,6 +2,18 @@
 # LM2596-dat 
 
 
+- [[ti-power-dcdc-down-dat]] - [[LM2596-dat]] - [[LM2576-dat]]
+
+- [[LMR51430-dat]] - [[TLVM13630-dat]] - [[LM2596-dat]] == LM2596 SIMPLE SWITCHER® Power Converter 150-kHz 3-A Step-Down Voltage Regulator
+
+
+New product available: LMR51430 4.5 to 36-V, 3-A, 500-kHz and 1.1-MHz synchronous converter
+
+For faster time to market: TLVM13630 3 to 36-V, 3-A, 200-kHz to 2.2-MHzpower module
+
+
+
+
 LM2596 SIMPLE SWITCHER® Power Converter 150-kHz 3-A Step-Down Voltage Regulator
 
 https://www.ti.com/lit/ds/symlink/lm2596.pdf

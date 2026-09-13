@@ -32,7 +32,7 @@
 
 - [[TI-network-dat]]
 
-- [[TI-power-dat]] - [[TI-LDO-dat]]
+- [[TI-power-dat]] - [[TI-LDO-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-down-dat]]
 
 - [[TI-sensor-dat]]
 

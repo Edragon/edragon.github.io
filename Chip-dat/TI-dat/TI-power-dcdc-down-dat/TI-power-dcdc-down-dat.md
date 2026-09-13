@@ -16,16 +16,21 @@
 - [[TPS6282x-dat]]
 
 
-TPS6211x 17-V, 1.5-A, Synchronous Step-Down Converter - `TPS62110`, TPS62111, TPS62112, TPS62113
-
-## buck regulator 
-
-TPS62933DRLR SOT-5X3-8 3.8V至30V、3A 低IQ 同步降压转换器
+## options 
 
 
-贴片 TPS61088RHLR QFN-20 10A 同步升压转换器芯片
+- [[ti-power-dcdc-down-dat]] - [[LM2596-dat]] - [[LM2576-dat]]
 
-TPS56637RPAR VQFN-10具有ULQ-Mode的4.5V至28V 6A降压转换器
+
+- [[LM2576-dat]] == LM2576xx Series SIMPLE SWITCHER® Power Converter 3-A Step-Down Voltage Regulator
+
+`TPS6211x` 17-V, 1.5-A, Synchronous Step-Down Converter - `TPS62110`, TPS62111, TPS62112, TPS62113
+
+`TPS62933DRLR` SOT-5X3-8 3.8V至30V、3A 低IQ 同步降压转换器
+
+贴片 `TPS61088RHLR` QFN-20 10A 同步升压转换器芯片
+
+`TPS56637RPAR` VQFN-10具有ULQ-Mode的4.5V至28V 6A降压转换器
 
 
 - [[TPS54560-dat]] 30V 5V

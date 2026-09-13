@@ -33,7 +33,7 @@
 
 - [[CONN-waterproof-dat]]
 
-- [[CONN-cable-JST-dat]]] - [[RJ45-dat]]
+- [[CONN-cable-JST-dat]] - [[RJ45-dat]]
 
 - [[DB9-dat]] - [[DB15-dat]] - [[DB[[CONN-cable-JST-dat]][[CONN-dat]]
 
@@ -53,6 +53,8 @@
 
 
 - [[CONN-Banana-plug-dat]] - [[CONN-Alligator-clip-dat]] - [[PCG1012-dat]] - [[CONN-dat]]
+
+- [[CONN-DIN-dat]]
 
 
 

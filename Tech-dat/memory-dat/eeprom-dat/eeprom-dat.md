@@ -51,7 +51,7 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 
 Original and genuine `AT24C02C` -SSHM-T surface mount memory chip (EEPROM, serial port, SOIC-8)
 
-
+- [[ST-dat]] - [[M24C08-dat]] == M24C08-WMN6TP == EEPROM Memory IC 8Kbit I2C 400 kHz 900 ns 8-SOIC
 
 
 ## ref 

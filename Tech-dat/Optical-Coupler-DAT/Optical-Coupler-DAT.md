@@ -20,11 +20,6 @@
 
 ![](2026-02-12-15-25-42.png)
 
-## brands 
-
-- [[broadcom-dat]] - [[sharp-dat]] - [[liteon-dat]] - [[renesas-dat]] - [[Toshiba-dat]] - [[vishay-dat]]
-
-- CPC5902G == Logic Output Optocouplers Dual Opto Isolated I2C Bus Repeater
 
 ## PC817 vs EL357 
 
@@ -56,7 +51,15 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 ![](2025-05-29-16-00-18.png)
 
 
-## un-sort chip options 
+
+## chip and brands 
+
+- [[broadcom-dat]] - [[sharp-dat]] - [[liteon-dat]] - [[renesas-dat]] - [[Toshiba-dat]] - [[vishay-dat]]
+
+
+
+### un-sort chip options 
+
 
 - CPC5902G == Logic Output Optocouplers Dual Opto Isolated I2C Bus Repeater
 
@@ -71,6 +74,12 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 - [[OnSemi-dat]]
 
 - [[broadcom-dat]]
+
+### 2CH 
+
+- [[Isocom-dat]] Components 2004 LTD - [[MOCD217-dat]] == HIGH DENSITY MOUNTING DUAL CHANNEL OPTICALLY COUPLED ISOLATOR - OPTOISO 3.75KV 2CH TRANS 8-SOP - 
+
+
 
 ## ref 
 
