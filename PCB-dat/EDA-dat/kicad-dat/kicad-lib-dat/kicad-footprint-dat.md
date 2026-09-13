@@ -5,6 +5,11 @@
 
 - [[footprint-dat]]
 
+- [[CONN-USB-receptacle-dat]] - [[CONN-USB-plug-dat]] - [[CONN-USB-A-dat]] - [[kicad-footprint-dat]]
+
+
+
+
 ## custom build footprint guide 
 
 ![](2025-04-29-15-16-53.png)

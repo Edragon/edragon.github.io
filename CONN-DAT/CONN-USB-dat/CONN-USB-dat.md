@@ -2,6 +2,13 @@
 # CONN-USB-dat
 
 
+- [[CONN-USB-C-dat]] - [[CONN-USB-B-dat]]
+
+- [[CONN-USB-A-dat]] - [[USB-HOST-dat]] - [[USB-device-dat]] - [[CONN-USB-A-dat]] - [[CONN-USB-dat]]
+
+female == - [[CONN-USB-receptacle-dat]] male == - [[CONN-USB-plug-dat]] 
+
+
 - [[CONN-USB-dat]] - [[AD-digital-isolator-dat]]
 
 - [[CONN-USB-dat]] - [[CONN-USB-A-dat]] - [[CONN-USB-B-dat]] - [[CONN-USB-C-dat]] - [[CONN-USB-type-C-dat]]

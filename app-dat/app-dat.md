@@ -29,6 +29,8 @@
 
 - [[weight-dat]] - [[camera-thermal-dat]]
 
+- [[electronics-consumer-dat]]
+
 ## Domestic Appliances 
 
 - [[logic-inverter-dat]] or [[data-logger-dat]], [[meter-eneregy-dat]]

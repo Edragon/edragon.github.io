@@ -1,6 +1,6 @@
 # SDR1113-DAT
 
-- [[CH554-DAT]]
+- [[CH554-DAT]] - [[SDR1113-DAT]]
 
 
 - [[rotating-magnetic-field-DAT]]
