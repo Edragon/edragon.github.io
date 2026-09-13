@@ -80,4 +80,20 @@ Here is the breakdown of the major differences:
 
 
 
+
+## apps and use 
+
+
+### 圆头 
+
+- [[bolt-dat]] == M1.2 x L2.5 == [[mobula6-dat]]
+
+![](2026-09-13-20-14-13.png)
+
+
+### 沉头 sink
+
+
+
+
 ## ref 

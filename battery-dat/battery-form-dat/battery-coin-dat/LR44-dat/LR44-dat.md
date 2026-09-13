@@ -6,6 +6,10 @@
 
 - [[vibrator-dat]] 
 
+- [[STH1082-dat]] - [[LR44-dat]] removed [[battery-coin-dat]] 
+
+
+
 
 
 ## ref 
