@@ -22,6 +22,19 @@
 
 brand - [[st-dat]]
 
+
+## ST
+
+
+## Diotec
+
+- [[Diotec-dat]] == [[L217-dat]] == Schottky Diodes & Rectifiers Schottky, SMA, 40V, 3A
+
+- [[THX208-dat]]
+
+
+
+
 ## common didode 
 
 BZT52C10 丝印:`WF` 10V SOD-123 1206稳压管

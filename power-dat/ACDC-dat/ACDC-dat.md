@@ -177,6 +177,7 @@ TOP254EN == Enhanced EcoSmart, Integrated Off-Line Switcher with Advanced Featur
 
 ## chips
 
+- [[THX208-dat]] - [[tonghuaxin-dat]] - [[OPM1016-dat]] - [[acdc-dat]]
 
 
 - [[chip-rail-dat]]

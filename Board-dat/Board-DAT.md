@@ -451,6 +451,7 @@ Quectel - 2G
 - [[NWI1072-DAT]] - [[NWI1115-DAT]] - [[NWI1139-dat]]
 
 - [[NWI1118-DAT]] - [[NWI1119-DAT]]
+
 - [[NWI1124-DAT]] - [[NWI1125-DAT]] - [[NWI1126-DAT]]
 
 [[ESP32-dev-board-dat]]

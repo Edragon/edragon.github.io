@@ -37,5 +37,14 @@ The `PFR20L200CTF` (commonly searched as PFC FPR 20L200CTF) is a 20A, 200V MOS S
 ![](2026-08-11-21-08-34.png)
 
 
+
+
+## use 
+
+- [[THX208-dat]] - [[transformer-dat]] - [[rectifier-dat]] == MB6F
+
+
+
+
 ## ref 
 

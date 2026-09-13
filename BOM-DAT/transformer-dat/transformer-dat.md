@@ -32,6 +32,12 @@ The core can be a standard `E19` type ferrite core having a bobbin with central 
 
 
 
+
+## use 
+
+- [[THX208-dat]] - [[transformer-dat]] - [[rectifier-dat]] == MB6F
+
+
 ## build 
 
 
