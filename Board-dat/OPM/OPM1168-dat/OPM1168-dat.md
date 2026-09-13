@@ -2,7 +2,7 @@
 # OPM1168-dat 
 
 
-- [[wireless-charge-dat]] - [[OPM1168-dat]] - [[OPM1167-dat]] - [[BQ51050-dat]]
+- [[power-wireless-dat]] - [[OPM1168-dat]] - [[OPM1167-dat]] - [[BQ51050-dat]]
 
 BQ51050 supports 4.2V lithium battery up to 1A charge management.
 

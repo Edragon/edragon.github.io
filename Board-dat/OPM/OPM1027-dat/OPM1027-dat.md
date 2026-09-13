@@ -13,7 +13,7 @@
 - The upper and lower channels are independently controlled and can be switched to 0V, 3.3V, and 5V.
 - There are two sets of 3.3V and 5V DC output pins on the board for easy external use.
 
-
+![](2026-09-13-18-05-04.png)
 
 
 
