@@ -627,6 +627,8 @@ Motion sensor
 
 - [[STH1024-dat]]
 
+- [[sensor-dat]] - [[STH1082-dat]]
+
 ### STM
 - [[STM1004-DAT]]
   
