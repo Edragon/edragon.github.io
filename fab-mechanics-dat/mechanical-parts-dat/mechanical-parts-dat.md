@@ -1,5 +1,15 @@
 # mechanical-parts-dat
 
+
+
+- [[mechanical-structure-dat]] - [[alu-extrusion-dat]] 
+
+- [[mechanical-parts-dat]] - [[Swivel-dat]] - [[Carabiner-dat]] - [[bolt-eye-dat]] - [[bolt-dat]] - [[profile-angle-dat]] - [[profile-bracket-dat]]
+
+
+
+
+
 - [[mechanical-parts-dat]] - [[mechanical-Fastener-dat]] - [[mechanical-drive-dat]]
 
 - [[screw-dat]]

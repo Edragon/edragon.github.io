@@ -10,6 +10,17 @@
 - [[ALU-extrusion-1515-sys-dat]]
 
 
+
+
+## parts 
+
+- [[mechanical-structure-dat]] - [[alu-extrusion-dat]] 
+
+- [[mechanical-parts-dat]] - [[Swivel-dat]] - [[Carabiner-dat]] - [[bolt-eye-dat]] - [[bolt-dat]] - [[profile-angle-dat]] - [[profile-bracket-dat]]
+
+
+
+
 ## ALU profile accessories 
 
 - [[bearing-pillow-dat]] - [[bearing-dat]]
@@ -84,6 +95,38 @@ If you want to use M3 screws with larger extrusions like 1515, 2020, or 4040, yo
 ## APP 
 
 ![](2025-02-26-19-39-21.png)
+
+
+
+
+## build tips 
+
+- [[mechanical-structure-dat]] - [[alu-extrusion-dat]] - [[Swivel-dat]] - [[Carabiner-dat]] - [[bolt-eye-dat]] - [[bolt-dat]] - [[profile-angle-dat]] - [[profile-bracket-dat]]
+
+- [[profile-t-nut-dat]] add to the back of the case 
+
+![](2026-09-13-21-01-56.png)
+
+add installation frame bar
+
+![](2026-09-13-21-02-59.png)
+
+add holder bar and - [[bolt-eye-dat]] - [[bolt-dat]]
+
+and - [[profile-angle-dat]]
+
+
+![](2026-09-13-21-08-59.png)
+
+![](2026-09-13-21-03-19.png)
+
+- [[Carabiner-dat]] 
+
+![](2026-09-13-21-14-06.png)
+
+- [[Swivel-dat]]
+
+
 
 
 

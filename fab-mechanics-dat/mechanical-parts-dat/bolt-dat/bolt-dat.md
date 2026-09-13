@@ -2,6 +2,10 @@
 
 # bolt-dat
 
+
+- [[bolt-eye-dat]] - [[bolt-dat]]
+
+
 - [[bolt-dat]] - [[mechanical-parts-dat]] - [[screw-dat]] - [[thread-dat]] - [[nut-dat]] - [[washer-dat]]
 
 

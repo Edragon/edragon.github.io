@@ -24,7 +24,7 @@
 
 - [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]]
 
-- [[fab-mechanics-dat]] - [[fab-materials-dat]]
+- [[fab-mechanics-dat]] - [[fab-materials-dat]] - [[alu-extrusion-dat]]
 
 - [[clock-dat]]
 
