@@ -12,3 +12,11 @@ AOD4184/AOI4184
 - RDS(ON) (at VGS=4.5V) < 11mW
 
 - datasheet == [[AOI4184.pdf]]
+
+
+
+
+
+## ref 
+
+

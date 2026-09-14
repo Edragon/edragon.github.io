@@ -1,5 +1,9 @@
 
-# dual-mosfet-dat
+# mosfet-dual-dat
+
+
+
+
 
 2x mosfet == 2N7002BKS N-Channel 
 
