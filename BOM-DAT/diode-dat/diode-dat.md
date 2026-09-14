@@ -292,6 +292,9 @@ The specific circuit connection is as follows:
     If the circuit contains inductive loads like motors or relays, cutting off the power or switching states causes the inductor to generate a high reverse electromotive force (back-EMF). A diode placed across the power rails or the load provides a discharge loop to safely circulate and dissipate this high-voltage current, preventing it from breaking down switching devices (such as MOSFETs or transistors).
 
 
+## fault detection 
+
+- refer to [[mosfet-dat]] same part == • 操作: 双向量，单向导通才对
 
 
 

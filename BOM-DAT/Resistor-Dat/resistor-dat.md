@@ -10,6 +10,7 @@
 
 - [[resistor-burden-dat]] - [[sample-resistor-dat]]
 
+- [[resistor-dat]] - [[resistor-calculator-dat]]
 
 
 

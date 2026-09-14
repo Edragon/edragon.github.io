@@ -2,6 +2,8 @@
 # signal-dat.md
 
 
+- [[PCB-signal-error-dat]] - [[signal-dat]] - [[PCB-dat]]
+
 - [[Synthesizer-dat]] - [[digital-dat]]
 
 

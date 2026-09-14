@@ -2,6 +2,15 @@
 # PCB-dat 
 
 
+- [[PCB-mechanical-error-dat]] - [[fab-mechanics-dat]] - [[PCB-fix-dat]] - 
+
+- [[PCB-signal-error-dat]] - [[signal-dat]] - [[PCB-fix-dat]]
+
+- [[PCB-thermal-error-dat]] - [[PCB-fix-dat]] - [[thermal-dat]]
+
+
+
+
 - [[standard-dat]] - [[product-dat]] 
 
 - [[PCB-dat]] - [[fab-PCB-dat]] - [[PCB-design-dat]] - [[EDA-dat]]
