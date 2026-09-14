@@ -1,7 +1,17 @@
 
 # HLW8012-dat 
 
+
+
+- [[HLW8012-dat]] - [[energy-meter-dat]] - [[HLW-dat]] - [[HLW8032-dat]]
+
+
 - [legacy wiki page ](https://w.electrodragon.com/w/HLW8012)
+
+
+- [[serial-dat]] - [[serial-software-dat]] - [[serial-HDK-dat]]
+
+
 
 ## Chip Info 
 
@@ -50,6 +60,20 @@ Note
 * V2: Voltage signal on voltage channel pin
 * Fosc: built-in crystal, the typical frequency of about 3.579MHz;
 * Vref: built-in reference source, the typical voltage is 2.43V
+
+
+
+## CF1 and SEL 
+
+
+SEL = 0, output current, duty 50% --> CF1
+SEL = 1, output voltage, duty 50% --> CF1
+
+## CF 
+
+CF: high freqency power, 50% duty
+
+
 
 ## Use with ESP8266
 

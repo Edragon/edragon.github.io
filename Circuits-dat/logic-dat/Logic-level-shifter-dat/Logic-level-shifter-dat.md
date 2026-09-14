@@ -138,9 +138,19 @@ Make sure the VCCA ≤VCCB.
 
 ## logic level shifter for UART 
 
-simple passive solutions 
+
+simple passive solutions V2, resistors 1:2
+
+![](2026-09-14-17-13-16.png)
+
+simple passive solutions V1, resistors 1:2
 
 ![](2026-05-03-16-08-41.png)
+
+
+
+
+
 
 via chip 
 

@@ -5,6 +5,9 @@
 
 - [[HLW-dat]] - [[HLW8032-dat]]
 
+
+
+
 ## Pin Definitions 
 
 ![](2023-10-24-12-20-00.png)
@@ -40,6 +43,12 @@ Output Side
 
 on board [[sample-resistor-dat]] == 2mR
 
+
+## apps 
+
+- [[ESP8266-dat]] - [[serial-software-dat]]
+
+- [[ESP32-dat]]
 
 
 ## ref 
