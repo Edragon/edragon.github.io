@@ -9,7 +9,7 @@
 - [[infineon-power-dat]] - [[infineon-dat]] - [[power-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
 
 
-
+- [[protection-power-dat]] - [[power-dat]] 
 
 ## chip and companies
 

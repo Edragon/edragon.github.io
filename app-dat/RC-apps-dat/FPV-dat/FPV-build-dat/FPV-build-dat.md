@@ -22,6 +22,11 @@
 - [[RC-RF-SDK-dat]] - [[RC-RF-HDK-dat]] - [[FPV-build-dat]] - [[RC-dat]]
 
 
+- [[power-limit-dat]] - [[FPV-dat]] - [[protection-power-dat]] - [[power-dat]] - [[power-smoke-stopper-dat]]
+
+
+
+
 ## build 5in
 
 | part                      | build 1                          |
