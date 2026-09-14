@@ -428,6 +428,22 @@ VDS =30V，ID =5.8A
 
 
 
+### PowerPAIR® 3 x 3
+
+SiZ322DT - Dual N-Channel 25 V (D-S) MOSFET == - [[vishay-dat]] - [[SIZ322DT-dat]] - [[mosfet-dat]]
+
+https://www.vishay.com/docs/63569/sis322dnt.pdf
+
+![](2026-09-15-02-44-24.png)
+
+![](2026-09-15-02-45-54.png)
+
+- SIZ340DT-T1-GE3 
+- SIZ322DT-T1-GE3 
+- SIZ342DT-T1-GE3 
+
+MOS场效应管
+
 ## apps 
 
 - [[LED-driver-dat]] - [[mosfet-dat]]

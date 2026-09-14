@@ -2,6 +2,9 @@
 # vishay-dat
 
 
+- [[vishay-dat]] - [[SIZ322DT-dat]] - [[mosfet-dat]]
+
+
 - [[mosfet-dat]] - [[mosfet-power-dat]]
 
 
