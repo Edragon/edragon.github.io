@@ -421,6 +421,22 @@ Almost all modern scooters (Xiaomi, Ninebot, Kaabo, etc.) use this type.
 
 ![](2026-04-07-13-43-09.png)
 
+
+
+## fault detection
+
+**电机输出**
+- 方法: 量三相之间
+- 正常值: 一致低阻
+- 异常: 0Ω 短路 / ∞ 断路
+
+**测量: 电机输出对地/对VBAT**
+- 表笔位置: 三相 ↔️ GND/VBAT
+- 正常: 不通（∞）
+- 异常判定: 导通 = 击穿 🔴
+
+
+
 ## ref 
 
 - [[motor-BLDC-dat]] - [[motor-hub-dat]]

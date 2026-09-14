@@ -279,7 +279,7 @@
 
 - [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
 
-- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]] - [[PCB-footprint-dat]]
+- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]]
 
 - [[fab-tools-dat]] - [[fab-instrument-dat]] - [[fab-workspace-dat]]
 

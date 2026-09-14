@@ -55,7 +55,12 @@ recommended to parallel one TVS on the Vbat pin of the module.
 ![](2024-07-10-01-19-47.png)
 
 
+## fault detection
 
+**Battery input** == 阻抗
+- Method: measure VBAT ↔ GND with the resistance range
+- Normal: shows capacitor charge/discharge behavior (resistance rises gradually)
+- Abnormal: 0Ω = short circuit (MOSFET breakdown)
 
 
 ## ref 

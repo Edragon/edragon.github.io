@@ -433,7 +433,11 @@ VDS =30V，ID =5.8A
 - [[LED-driver-dat]] - [[mosfet-dat]]
 
 
+## fault detection 
 
+- 方法: 二极管档量 D-S
+- 正常值: 有二极管特性
+- 异常: 双向导通 = 击穿
 
 
 

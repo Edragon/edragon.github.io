@@ -70,7 +70,12 @@ With BEC:
 
     Main battery → ESC → BEC → Receiver & servos
 
+## fault detection
 
+**5V BEC**
+- 方法: 上电量 5V 点
+- 正常值: 5.0V
+- 异常: 无输出 = BEC 坏
 
 
 ## ref 

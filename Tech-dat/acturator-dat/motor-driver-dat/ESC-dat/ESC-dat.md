@@ -2,6 +2,7 @@
 # ESC-dat
 
 
+== [[MCU-dat]] + [[mosfet-dat]]
 
 - [[ESC-amp-dat]] - [[ESC-dat]] - [[power-physics-dat]]
 
@@ -142,7 +143,12 @@ A single ESC acts as the "middleman" in your system:
 
 ## code 
 
+## fault detection
 
+
+- 测量点: 电调 MCU VCC
+- 正常值: 3.3V / 5V
+- 说明: ⭐️ 关键！无电压 = 供电断
 
 
 ## ref 
