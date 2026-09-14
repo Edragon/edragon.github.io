@@ -6,6 +6,7 @@
 
 - [[INA226-dat]] - [[MP1584-dat]] - [[AP2204-dat]]
 
+- [[MP1584-dat]] - [[power-dat]]
 
 
 ## board 

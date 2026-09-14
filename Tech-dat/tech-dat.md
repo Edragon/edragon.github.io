@@ -279,7 +279,9 @@
 
 - [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
 
-- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-form-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]]
+- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]]
+
+- [[PCB-form-dat]] - [[PCB-stack-dat]]
 
 - [[fab-tools-dat]] - [[fab-instrument-dat]] - [[fab-workspace-dat]]
 
@@ -291,7 +293,7 @@
 
 - [[fab-mechanics-dat]] - [[fab-tools-mechanical-dat]] - [[CAD-dat]] - [[CNC-dat]] - [[screw-dat]] - [[bolt-dat]]
 
-- [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]] - [[structure-dat]] - [[structure-t-dat]]
+- [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]] - [[structure-dat]] - [[structure-t-dat]] - [[frame-profile-dat]]
 
 - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]] - [[feeder-dat]] - [[feeder-electric-auto-dat]]
 

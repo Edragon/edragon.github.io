@@ -1,7 +1,7 @@
 
 # power-dat.md
 
-
+- [[power-limit-dat]] - [[FPV-dat]] - [[protection-power-dat]] - [[power-dat]] - [[power-smoke-stopper-dat]]
 
 - [[aerosemi-dat]] - [[MT9700-dat]] - [[power-limit-dat]] - [[power-dat]]
 
@@ -155,6 +155,14 @@ ME1502 70mΩ, 5V USB High-Side Adjustable Threshold Current Limit Load Switch
 - [[power-smoke-stopper-dat]] - [[power-dat]]
 
 - [[power-FPV-dat]]
+
+
+## burnt chip 
+
+- [[MP1584-dat]] - [[power-dat]]
+
+![](2026-09-15-00-36-17.png)
+
 
 ## ref 
 

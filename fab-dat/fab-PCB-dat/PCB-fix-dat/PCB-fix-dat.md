@@ -19,7 +19,7 @@
 
 - [[MCU-dat]] - power-supply
 
-
+- [[chip-dat]] - [[power-dat]]
 
 ## other concern and methods 
 

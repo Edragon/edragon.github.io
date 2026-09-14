@@ -2,7 +2,16 @@
 
 # PCB-stack-dat
 
-- [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[PCB-form-dat]] - [[PCB-penalization-dat]]
+- [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[PCB-form-dat]] - [[PCB-penalization-design-dat]]
+
+- [[fab-PCB-dat]]
+
+
+## tech 
+
+- [[PCB-stack-dat]] - [[cable-dat]] - [[conn-pin-header-dat]] - [[CONN-btb-dat]]
+
+
 
 
 
@@ -21,6 +30,12 @@
 
 
 ## build 
+
+build 5 
+
+![](2026-09-15-00-38-44.png)
+
+
 
 ### build 4 == double layer, middle case 
 
@@ -44,6 +59,9 @@
 ![](2026-06-18-02-21-23.png)
 
 ![](2026-06-18-02-21-39.png)
+
+
+
 
 ## ref 
 
