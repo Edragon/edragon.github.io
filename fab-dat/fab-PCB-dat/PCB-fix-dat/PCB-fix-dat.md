@@ -1,6 +1,14 @@
 
 # PCB-fix-dat
 
+
+## app fixing 
+
+- [[PCB-fix-dat]] - [[X12-dat]]
+
+
+
+
 ## tools 
 
 - [[multimeter-dat]]
@@ -72,6 +80,13 @@ by tools == multimeter
 3. 通断测试查走线
 4. 按压测试查虚焊
 5. 可疑焊点热风枪补焊 → 复测
+
+extra workflow
+
+- examine the output of the power tree from [[dcdc-down-dat]] - [[LDO-dat]] 
+
+
+
 
 
 ## difficulties 
