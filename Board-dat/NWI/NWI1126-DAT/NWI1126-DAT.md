@@ -101,6 +101,7 @@ Case 2: Control WS2812 LED Strips
 
 ## Core Module Sch
 
+
 ![](37-36-16-10-07-2023.png)
 
 Peripheral schamtic please refer to [[NWI1124-DAT]]
@@ -112,6 +113,8 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 - try the test commands to turn off on board prog LED: http://192.168.8.165/io/10/val/0
 - in which, IO is 10 and IO voltage level is 0
 
+
+- [[NWI1126-test-dat]]
 
 ## Addon-ons 
 
