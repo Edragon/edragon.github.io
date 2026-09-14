@@ -7,7 +7,7 @@
 
 - [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
 
-- [[crazybee-dat]] - [[crazybee-f4-lite-dat]] - [[AIO-dat]] - [[flight-controller-dat]]
+- [[crazybee-dat]] - [[crazybee-f4-lite-dat]] - [[FC-AIO-dat]] - [[flight-controller-dat]]
 
 
 

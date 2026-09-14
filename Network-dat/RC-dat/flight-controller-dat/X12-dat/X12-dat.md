@@ -10,9 +10,27 @@
 
 ## X12 ELRS V2.2 
 
+
+
+
 ![](2025-09-03-14-17-14.png)
 
 ![](2025-09-03-14-17-23.png)
+
+- [[richtek-dat]] - [[LDO-dat]] - [[RT9078-dat]] - [[X12-dat]]
+
+![](2026-09-15-02-26-39.png)
+
+- [[EFM8-dat]] - [[MCU-dat]] - [[silicon-labs-dat]]
+
+GMCR GMCRb SOT23-5
+
+![](2026-09-15-02-30-35.png)
+
+- [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]]
+
+- [[AT7456E-dat]] - [[zhongkewei-dat]] - [[OSD-dat]]
+
 
 ## Version 
 
@@ -25,8 +43,10 @@
 
 ![](2025-05-30-12-52-03.png)
 
+
 ## Info 
-# X12-dat
+
+### X12-dat
 
 -   **Product Name:** X12 AIO 5-IN-1 Flight controller built-in 12A ESC and OPENVTX
 -   **Brand Name:** Happymodel

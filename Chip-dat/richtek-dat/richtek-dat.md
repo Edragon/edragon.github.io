@@ -2,6 +2,14 @@
 # richtek-dat
 
 
+- [[richtek-dat]] - [[LDO-dat]] - [[RT9078-dat]]
+
+- [[RT8078-dat]]
+
+- [[RT8059-dat]] == SOT23-5
+
+
+
 - [[RT9011-dat]] - [[RT9013-dat]] - [[RT9193-dat]] - [[richtek-dat]] - [[RT9266-dat]] - [[RT8279-dat]]
 
 

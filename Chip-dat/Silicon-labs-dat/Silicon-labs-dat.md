@@ -2,6 +2,9 @@
 # Silicon-labs-dat
 
 
+- [[EFM8-dat]] - [[MCU-dat]] - [[silicon-labs-dat]]
+
+
 - [[SI5351-dat]] - [[silicon-labs-dat]] - [[silicon-labs-radio-dat]]
 
 - [[SI4732-dat]] - [[silicon-labs-dat]]

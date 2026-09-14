@@ -44,8 +44,8 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 
 ## chip 
 
-AT7456E
 
+- [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]]
 
 
 ## standalone VTX module
