@@ -2,6 +2,15 @@
 
 # SDR1132-dat
 
+
+- [[CONN-BtB-dat]] - [[code-dat]] - [[SDR1132-dat]]
+
+- [[buzzer-dat]] - [[SSL1019-dat]]
+
+
+
+
+
 ## peripherals 
 
 - mosfet IO27
@@ -12,4 +21,9 @@
 
 - [[CONN-USB-A-dat]]
 
-## 
+
+
+
+
+
+## ref 
