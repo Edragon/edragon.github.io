@@ -31,7 +31,12 @@ broken - [[inductor-dat]] - [[capacitor-dat]]
 
 ## issue detect 
 
-important step - [[PCB-defect-problem-analysis-dat]]
+important step 
+
+analysis issues - [[PCB-defect-problem-analysis-dat]]
+
+software check - [[betaflight-dat]] - [[PCB-fix-dat]]  - [[betaflight-motors-dat]]
+
 
 by visual 
 

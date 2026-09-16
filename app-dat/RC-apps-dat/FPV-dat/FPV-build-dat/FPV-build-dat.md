@@ -108,7 +108,7 @@ total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 
 - [[battery-FPV-dat]] - [[power-BEC-dat]] - [[power-FPV-dat]] - [[FPV-build-dat]]
 
-- [[flight-controller-dat]]
+- [[flight-controller-dat]] - [[FC-AIO-dat]] - [[X12-dat]]
 
 - [[ESC-dat]]
 

@@ -111,6 +111,16 @@ It not only controls motors, but also lets ESC report **real-time motor RPM & te
 - If you only see throttle % but no RPM, your ESC firmware doesn’t support it.
 
 
+
+## fault detect 
+
+- [[PCB-fix-dat]]  - [[betaflight-motors-dat]]
+
+detect motor faults 
+
+![](2026-09-17-01-35-52.png)
+
+
 ## ref 
 
 - [[betaflight-dat]]

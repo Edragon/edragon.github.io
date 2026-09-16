@@ -478,7 +478,10 @@ MOS场效应管
 - 正常值: 有二极管特性
 - 异常: 双向导通 = 击穿 // • 操作: 双向量，单向导通才对
 
+for [[FPV-dat]] - [[rc-dat]], check [[VBAT-dat]] and [[GND-dat]] - [[PCB-fix-dat]]
 
+- [[VBAT-dat]] to [[mosfet-dat]] output port == 3 termials of the [[motor-brusheless-dat]] 
+- [[GND-dat]] to [[mosfet-dat]] output port == 3 termials of the [[motor-brusheless-dat]] 
 
 
 ## ref 

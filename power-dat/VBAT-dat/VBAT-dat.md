@@ -6,6 +6,11 @@
 
 - [[VIN-dat]] - [[VBUS-dat]] - [[VBAT-dat]] - [[power-dat]] - [[HDK-dat]]
 
+
+
+
+
+
 ## VBAT 2A 
 
 
@@ -61,6 +66,10 @@ recommended to parallel one TVS on the Vbat pin of the module.
 - Method: measure VBAT ↔ GND with the resistance range
 - Normal: shows capacitor charge/discharge behavior (resistance rises gradually)
 - Abnormal: 0Ω = short circuit (MOSFET breakdown)
+
+for [[FPV-dat]] - [[rc-dat]], check [[VBAT-dat]] and [[GND-dat]] - [[PCB-fix-dat]]
+
+
 
 
 ## ref 
