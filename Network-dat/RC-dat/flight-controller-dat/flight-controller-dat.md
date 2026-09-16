@@ -1,6 +1,23 @@
 
 # flight-controller-dat
 
+
+
+
+## main reference and build
+
+
+- [[FC-AIO-dat]] - [[X12-dat]]
+
+- [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
+
+
+
+
+
+## tech 
+
+
 - [[FPV-dat]]
 
 - [[FPV-wiring-dat]] - [[FPV-build-dat]] - [[flight-controller-dat]]
@@ -17,6 +34,9 @@
 - F405 - 
 - F411 - 说明: 入门芯片，性能一般（无 DSP 加速），跑 Betaflight 4.5 有点吃力
 - F722 
+
+
+
 
 
 
@@ -45,13 +65,6 @@
 - [[pixelhawk-6c-dat]]
 
 
-
-## build 
-
-
-- [[FC-AIO-dat]] - [[X12-dat]]
-
-- [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
 
 
 

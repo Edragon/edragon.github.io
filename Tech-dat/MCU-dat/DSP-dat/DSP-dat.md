@@ -21,6 +21,14 @@ ADSP-21160N - High Performance 32-Bit SHARC DSP, 100 MHz
 - [[band-dat]] - [[band-SSB-dat]] - [[DSP-dat]]
 
 
+
+
+## chip 
+
+PCM3070
+
+Stereo Audio Codec With Embedded miniDSP
+
 ## ref 
 
 - [[MCU-dat]]

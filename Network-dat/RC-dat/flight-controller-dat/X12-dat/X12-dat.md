@@ -24,9 +24,6 @@ X12 ELRS V2.2
 
 ![](2026-09-16-21-29-00.png)
 
-- [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]
-
-![](2026-09-16-21-34-05.png)
 
 
 
@@ -51,6 +48,57 @@ GMCR GMCRb SOT23-5
 - [[AT7456E-dat]] - [[zhongkewei-dat]] - [[OSD-dat]]
 
 - [[vishay-dat]] - [[SIZ322DT-dat]] - [[mosfet-dat]]
+
+
+
+
+### power 
+
+- [[ti-power-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TPS63070-dat]]
+
+![](2026-09-16-21-51-58.png)
+
+
+### VTX 
+
+- [[VTX-dat]] - [[richwave-dat]] - [[RTC6659-dat]] - [[PA-dat]]
+
+![](2026-09-16-21-54-39.png)
+
+
+
+### ELRS receiver ?? 
+
+- [[GD32F130-dat]] - [[ELRS-dat]] ??  - [[ELRS-RX-dat]] - [[rc-protocols-dat]]
+
+
+
+
+
+### MCU maps 
+
+- [[MCU-dat]] - [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]] - [[VTX-dat]]
+
+- [[MCU-dat]] - [[STM32F411-dat]] - [[STM32-dat]] - [[app-dat]] - [[X12-dat]]
+
+- [[MCU-dat]] - [[EFM8-dat]]- [[ESC-dat]]
+
+![](2026-09-16-21-34-05.png)
+
+
+
+    ┌──────────── X12 AIO V2.2 ────────────┐
+    │                                       │
+    │ 正面: STM32F411   = 飞控主控（F411）  │
+    │       · Betaflight / PID / OSD        │
+    │                                       │
+    │ 正面: GD32F130    = 板载 SPI 接收机   │
+    │       · ELRS/FrSky 接收（RX rate 249）│
+    │                                       │
+    │ 背面: EFM8        = 电调主控 ⭐️       │
+    │       · BLHeli_S 固件                 │
+    │       · 控制 MOSFET 驱动电机          │
+    └───────────────────────────────────────┘
 
 
 

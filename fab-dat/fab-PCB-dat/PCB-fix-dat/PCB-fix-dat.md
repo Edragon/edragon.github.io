@@ -12,7 +12,7 @@
 
 ## FIX scenario 
 
-compare 1 
+compare 1 - [[X12-dat]]
 
 
 broken - [[inductor-dat]] - [[capacitor-dat]]

@@ -22,7 +22,9 @@ The TPS6302x devices provide a power supply solution for products powered by eit
 
 
 
+## chip 
 
+- [[ti-power-dat]] - [[ti-power-dcdc-down-dat]] - [[TPS63070-dat]]
 
 
 ## ref 
