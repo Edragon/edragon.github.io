@@ -12,6 +12,34 @@
 
 ## FIX scenario 
 
+### drop from a 3-meter height 
+
+Multiple hidden physical defects caused by internal stress
+
+① Cracked wire-wound inductor (case fractured)
+*   The wire-wound inductor and its core are the heaviest / highest-inertia parts on the board, and the most brittle material (ferrite).
+*   A shock wave of thousands of G is transmitted into the inductor, and the ferrite fractures brittlely (this is why you see the upper case cracked).
+
+② Internal micro-cracks in the PCB layers and via barrel cracking ⭐️⭐️
+*   The X12 is a multilayer board about 1.0mm thick (usually 4 layers), with a large number of 0.2~0.3mm diameter plated vias inside.
+*   At the moment of impact, the PCB undergoes severe high-frequency bending deformation (PCB flexure).
+*   Consequence: the surface copper and traces have good ductility, so no damage is visible to the naked eye; but the fragile inner-layer micro-vias and trace corners are pulled apart directly.
+*   This perfectly explains:
+    *   Why all 4 EFM8 signals are normal and main power is present, yet the power drive is completely dead (the main drive bus via is torn open).
+    *   Why the camera goes black at the same time (the video line or a via broke in the same bending event).
+
+③ Micro-debonding of SMD resistors/capacitors and chip solder joints (solder joint fatigue / pad cracking)
+*   Lead-free solder (SAC305) is relatively brittle at room temperature when it comes to impact.
+*   Severe vibration causes hair-thin micro-cracks at BGA/QFN chip pins (poor contact), and can even tear the copper pad under the surface solder mask.
+
+*   Repair feasibility assessment:
+    Because the break is inside the board layers (rather than a single burnt chip), even if you find one broken trace and fix it with a jumper wire, the other vias in a critically cracked state will break again on the next slight vibration or thermal expansion — extremely unreliable.
+*   Best solution:
+    This board has honorably completed its mission. It is recommended to keep it as a spare-parts board (the F411, ELRS receiver, EFM8 and MOSFETs on it are all good spare chips), and simply replace it for the fleet with a new X12 AIO V2.2 (or an upgraded compatible board) — mount the frame and 4 motors and it's back to full-power flight immediately!
+
+
+
+
 compare 1 - [[X12-dat]] - [[PCB-fix-dat]] - [[FPV-fix-dat]]
 
 
