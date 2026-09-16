@@ -90,7 +90,7 @@ GMCR GMCRb SOT23-5
 
 - [[MCU-dat]] - [[STM32F411-dat]] - [[STM32-dat]] - [[app-dat]] - [[X12-dat]]
 
-- [[MCU-dat]] - [[EFM8-dat]]- [[ESC-dat]]
+- [[MCU-dat]] - [[EFM8-dat]]- [[ESC-dat]] - [[ESC-SDK-dat]]
 
 ![](2026-09-16-21-34-05.png)
 
@@ -109,6 +109,14 @@ GMCR GMCRb SOT23-5
     │       · 控制 MOSFET 驱动电机          │
     └───────────────────────────────────────┘
 
+
+### ESC
+
+- [[transistor-dat]] == 1N - [[resistor-dat]] - [[diode-dat]] == L1
+
+- [[mosfet-drive-dat]]
+
+- [[mosfet-drive-dat]] - [[X12-dat]] - [[FPV-dat]] - [[FPV-fix-dat]]
 
 
 
@@ -144,10 +152,10 @@ GMCR GMCRb SOT23-5
 ## Flight Controller Details
 
 -   **Betaflight Firmware Targets:**
-    -   ELRS Version: CRAZYBEEF4SX1280
-    -   FRSKY Version: CRAZYBEEF4FR
-    -   PNP Version: CRAZYBEEF4DX
-    -   LITE Version: CRAZYBEEF4SX1280
+    -   `ELRS Version`: CRAZYBEEF4SX1280
+    -   `FRSKY Version`: CRAZYBEEF4FR
+    -   `PNP Version`: CRAZYBEEF4DX
+    -   `LITE Version`: CRAZYBEEF4SX1280
 -   **Specific Versions & Targets:**
     -   X12 ELRS V2.0 flight controller built-in ELRS 2.4G receiver Target: CRAZYBEEF4SX1280
     -   X12 Frsky V1.0 flight controller built-in FRSKY 2.4G receiver Target: CRAZYBEEF4FR

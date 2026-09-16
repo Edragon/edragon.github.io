@@ -5,6 +5,7 @@
 
 - [[radiomaster-dat]] - [[rc-controller-dat]]
 
+- [[ESC-SDK-dat]]
 
 ## new options 
 

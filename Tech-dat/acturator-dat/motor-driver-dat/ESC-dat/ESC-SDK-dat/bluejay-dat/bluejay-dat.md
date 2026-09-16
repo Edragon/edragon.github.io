@@ -4,7 +4,10 @@
 # bluejay-dat
 
 
-
+- Bluejay Firmware
+- Z-H-30 ESC
+- v0.21.0 Version
+- 24 PWM Frequency
 
 - [[ESC-SDK-dat]] - [[BLHeli-dat]] - [[bluejay-dat]]
 
