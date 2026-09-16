@@ -9,6 +9,21 @@
 
 
 
+
+## FIX scenario 
+
+compare 1 
+
+
+broken - [[inductor-dat]] - [[capacitor-dat]]
+
+![](2026-09-16-21-35-46.png)
+
+
+
+
+
+
 ## tools 
 
 - [[multimeter-dat]]

@@ -21,6 +21,13 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 - [[SMO1020-dat]] - [[MPU6050-dat]]
 
 
+
+
+## apps 
+
+- [[flight-controller-dat]]
+
+
 ## chip 
 
 
@@ -37,7 +44,15 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 
 - [[ICM45686-dat]]
 
+
 - [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] - [[ICM20689-dat]]
+
+- [[BM1270-dat]] - [[BM160-dat]] - [[MPU6050-dat]] - [[ICM20602-dat]] - [[ICM42688-dat]]
+
+- [[sensor-motion-dat]] - [[6-axis-dat]] - [[invensense-dat]]
+
+
+
 
 
 

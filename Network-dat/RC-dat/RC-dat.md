@@ -37,7 +37,7 @@
 
 - [[RC-TX-dat]] - [[ELRS-dat]]
 
-- [[flight-controller-dat]]
+- [[flight-controller-dat]] - [[FC-AIO-dat]] - [[X12-dat]]
 
 - [[RC-code-dat]]
 

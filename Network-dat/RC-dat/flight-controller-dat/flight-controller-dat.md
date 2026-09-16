@@ -20,6 +20,15 @@
 
 
 
+## sensor 
+
+- [[invensense-dat]] - [[6-axis-dat]] - [[ICM42688-dat]]
+
+
+
+
+
+
 ## dimension 
 
 ![](2026-07-01-18-30-28.png)
@@ -38,6 +47,9 @@
 
 
 ## build 
+
+
+- [[FC-AIO-dat]] - [[X12-dat]]
 
 - [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
 

@@ -59,6 +59,12 @@
 - [[BAT32G135-dat]] - [[MCU-dat]] - [[cmsemicon-dat]]
 
 
+## arm 
+
+- [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]
+
+
+
 
 
 ## other types 

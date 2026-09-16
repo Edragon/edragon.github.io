@@ -11,7 +11,23 @@
 
 
 
-## X12 ELRS V2.2 
+## build info 1
+
+
+
+
+
+X12 ELRS V2.2 
+
+
+- [[invensense-dat]] - [[6-axis-dat]] - [[ICM42688-dat]]
+
+![](2026-09-16-21-29-00.png)
+
+- [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]
+
+![](2026-09-16-21-34-05.png)
+
 
 
 - [[PCB-fix-dat]] - [[X12-dat]]

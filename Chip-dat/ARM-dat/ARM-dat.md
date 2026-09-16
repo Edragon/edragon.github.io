@@ -25,6 +25,16 @@
 
 - [[CKS-dat]] - [[MCU-dat]] - [[ARM-dat]] - [[CKS32F103C8T6-dat]]
 
+
+
+
+
+## chip 
+
+- [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]
+
+
+
 ## programmer 
 
 - [[jlink-dat]] - [[st-link-dat]] - [[dap-link-dat]] - [[CMSIS-DAP-dat]]

@@ -1,6 +1,12 @@
 
 # InvenSense-dat
 
+
+
+
+- [[invensense-dat]] - [[TDK-dat]] - [[ICM42688-dat]]
+
+
 - [[sensor-motion-dat]] - [[6-axis-dat]]
 
 - [[MPU6500-dat]] - [[MPU6050-dat]]- [[MPU6000-dat]]
@@ -25,6 +31,20 @@ The ICM-20948 is the world’s lowest power 9-axis MotionTracking device that is
 
 
 `ICM-20689` == The ICM-20689 is a 6-axis MotionTracking device that combines a 3-axis gyroscope, 3-axis accelerometer, in a small 4 × 4 × 0.9 mm (24-pin QFN) package.
+
+
+
+
+## 6-axis 
+
+- [[sensor-motion-dat]] - [[6-axis-dat]] - [[invensense-dat]]
+
+
+- [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] - [[ICM20689-dat]]
+
+- [[BM1270-dat]] - [[BM160-dat]] - [[MPU6050-dat]] - [[ICM20602-dat]] - [[ICM42688-dat]]
+
+
 
 
 
