@@ -16,6 +16,19 @@ common brand: 	Infineon
 - similar - [[mosfet-dat]]
 
 
+
+## brand 
+
+- [[NXP-dat]] - [[PMBT3904-dat]]
+
+PMBT3904 - 40 V, 200 mA NPN switching transistor == `W1A` 
+
+- [[onsemi-dat]] - [[MMBT5401-dat]]
+
+The marking code `2L` on an SOT-23 surface-mount package identifies the `MMBT5401`, which is a high-voltage PNP transistor. 
+
+
+
 ## types 
 
 power transistor 

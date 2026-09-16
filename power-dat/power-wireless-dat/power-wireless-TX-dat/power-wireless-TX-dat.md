@@ -13,13 +13,18 @@
 ## build 
 
 
+### build 6 
+
+UI34 ?? V1QL V3QK 
+
+- [[mosfet-dat]]
+
+![](2026-09-16-18-40-10.png)
+
 
 ### build 5 
 
-- [[bland-dat]] - [[chip-cn-dat]] - [[power-wireless-tx-dat]]
-
-
-
+- [[bland-dat]] - [[D9605-dat]] - [[D9909-dat]] - [[SGM2019-dat]] - [[mosfet-dat]] - [[power-wireless-tx-dat]] - [[transistor-dat]]
 
 
 

@@ -3,6 +3,9 @@
 
 
 
+- [[LDO-dat]] - [[SGM2019-dat]] - [[sg-micro-dat]]
+
+
 - [[SGM4890-dat]] == 1.1 Watt Audio Power Amplifier - [[speaker-dat]]
 
 ![](2026-04-04-14-25-51.png)

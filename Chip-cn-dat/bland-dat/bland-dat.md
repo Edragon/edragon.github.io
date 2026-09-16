@@ -2,6 +2,9 @@
 
 # bland-dat
 
+
+
+
 - [[bland-dat]] - [[chip-cn-dat]] - [[power-wireless-tx-dat]]
 
 贝兰德推出的D9605、D9103、D8105、D9100、D8110、D9200、D9622系列产品累计出货数量超100KK，获得特斯拉、travelmall、TODO、智壳、魔狐、万国时代、CYSPO等知名品牌采用。
@@ -18,7 +21,13 @@ D9612
 
 ## build 
 
+- [[bland-dat]] - [[D9605-dat]] - [[D9909-dat]] - [[SGM2019-dat]] - [[mosfet-dat]] - [[power-wireless-tx-dat]] - [[transistor-dat]] 
+
+MA|7F ?? 
+
 - [[mosfet-dat]]
+
+- [[LDO-dat]] - [[SGM2019-dat]] - [[sg-micro-dat]]
 
 D9605 
 
