@@ -12,6 +12,12 @@
 - [[X12-dat]]
 
 
+## ESC 
+
+- [[FC-AIO-dat]] - [[ESC-dat]] - [[X12-dat]] - [[test-point-dat]] == pin 4 (VCC) and 5 
+
+![](2026-09-17-03-35-25.png)
+
 
 
 

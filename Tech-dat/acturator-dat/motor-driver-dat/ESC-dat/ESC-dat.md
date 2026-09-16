@@ -2,6 +2,7 @@
 # ESC-dat
 
 
+- [[FC-AIO-dat]] - [[ESC-dat]] - [[X12-dat]]
 
 
 - [[ESC-dat]] - [[Dshot-dat]] input // drive output - [[mosfet-drive-dat]] // [[reset-dat]]

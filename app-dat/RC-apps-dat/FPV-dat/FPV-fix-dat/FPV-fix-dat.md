@@ -10,12 +10,16 @@
 
 - [[EFM8-dat]] - [[ESC-dat]] - [[FPV-fix-dat]]
 
+- [[PCB-fix-dat]] - [[FPV-fix-dat]]
 
 ## power up checklist 
 
 - power up self-check sound 
 - [[sensor-motion-dat]] in [[betaflight-dat]] 
+- [[ESC-dat]] - [[EFM8-dat]]
+- [[PCB-fix-dat]] - [[FPV-fix-dat]]
 
+- [[FC-AIO-dat]] - [[ESC-dat]] - [[X12-dat]] - [[test-point-dat]] == pin 4 (VCC) and 5 
 
 
 

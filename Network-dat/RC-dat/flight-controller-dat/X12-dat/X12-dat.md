@@ -66,7 +66,7 @@ GMCR GMCRb SOT23-5
 
 - [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]]
 
-- [[VTX-dat]] - [[richwave-dat]] - [[RTC6659-dat]] - [[PA-dat]]
+- [[VTX-dat]] - [[richwave-dat]] - [[RTC6659-dat]] - [[PA-dat]] == 083 - [[PCB-fix-dat]] - [[PCB-thermal-error-dat]]
 
 ![](2026-09-16-21-54-39.png)
 

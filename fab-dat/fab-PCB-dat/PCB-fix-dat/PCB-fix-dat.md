@@ -12,15 +12,21 @@
 
 ## FIX scenario 
 
-compare 1 - [[X12-dat]]
+compare 1 - [[X12-dat]] - [[PCB-fix-dat]] - [[FPV-fix-dat]]
+
 
 
 broken - [[inductor-dat]] - [[capacitor-dat]]
 
 ![](2026-09-16-21-35-46.png)
 
+broken 2 
 
+![](2026-09-17-03-33-13.png)
 
+- [[FC-AIO-dat]] - [[ESC-dat]] - [[X12-dat]] - [[test-point-dat]] == pin 4 (VCC) and 5 
+
+- [[PCB-thermal-error-dat]] - [[VTX-dat]] == 75C
 
 
 
