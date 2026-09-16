@@ -2,6 +2,34 @@
 # FPV-fleet-dat
 
 
+
+
+## fleet 
+
+== [[FPV-size-dat]]
+
+
+
+## 65mm-1.2''
+
+- [[mobula6-dat]]
+
+## 1.6''
+
+- [[mobula7-dat]]
+
+## 1.8''
+
+- [[Meteor75-dat]]
+
+## 85mm-2.0''
+
+- [[mobula8-dat]]
+
+
+
+## info 
+
 - [[FPV-fleet-dat]] - [[FPV-types-dat]]
 
 
@@ -27,6 +55,13 @@
 • 相关品牌/机型: GEPRC Mark5（标杆）
 
 一句话：格普=品质标杆（Mark5），怪象=性价比续航（XI35），达尔文=入门便宜（BabyApe）——正好对应你机队的三个需求层次。
+
+
+
+
+
+
+
 
 
 ## compare 

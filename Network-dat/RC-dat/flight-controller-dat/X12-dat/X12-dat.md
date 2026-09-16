@@ -2,6 +2,9 @@
 # X12-dat
 
 
+
+[[PCB-defect-problem-analysis-dat]] == [[flight-controller-dat]] - [[FC-AIO-dat]] - [[X12-dat]]
+
 - [[mobula8-dat]] - [[X12-dat]]
 
 ![](2025-05-30-12-53-21.png)

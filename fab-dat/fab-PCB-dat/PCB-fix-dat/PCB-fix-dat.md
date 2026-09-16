@@ -16,6 +16,8 @@
 
 ## issue detect 
 
+important step - [[PCB-defect-problem-analysis-dat]]
+
 by visual 
 
 **Bright light + magnifier / phone macro lens**
