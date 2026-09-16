@@ -4,6 +4,12 @@
 
 - [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]] - [[5.8ghz-dat]] - [[radio-dat]] - [[radio-FM-dat]]
 
+
+
+`AV05BMP` is the silk-print code for the RTC6705A 5.8GHz wireless analog video transmitter integrated circuit chip. 
+
+
+
 The RTC6705 is a wide-band FM transmitter intended for the application on 5.8GHz bands FM
 transmission. This chip includes a 5.8GHz band RF modulator, two channels of audio modulator
 and internal power amplifier with +13dBm power output referred to external matching network.

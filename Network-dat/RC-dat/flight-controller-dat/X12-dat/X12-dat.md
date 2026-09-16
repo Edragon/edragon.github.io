@@ -43,7 +43,7 @@ GMCR GMCRb SOT23-5
 
 ![](2026-09-15-02-30-35.png)
 
-- [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]]
+
 
 - [[AT7456E-dat]] - [[zhongkewei-dat]] - [[OSD-dat]]
 
@@ -61,9 +61,15 @@ GMCR GMCRb SOT23-5
 
 ### VTX 
 
+
+- alternative == 
+
+- [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]]
+
 - [[VTX-dat]] - [[richwave-dat]] - [[RTC6659-dat]] - [[PA-dat]]
 
 ![](2026-09-16-21-54-39.png)
+
 
 
 
@@ -72,6 +78,9 @@ GMCR GMCRb SOT23-5
 - [[GD32F130-dat]] - [[ELRS-dat]] ??  - [[ELRS-RX-dat]] - [[rc-protocols-dat]]
 
 
+- [[SX1281-dat]] - [[ELRS-dat]] - [[X12-dat]]
+
+![](2026-09-16-22-11-04.png)
 
 
 
