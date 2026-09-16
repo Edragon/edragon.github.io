@@ -4,8 +4,26 @@
 
 - [[coil-dat]] - [[antenna-dat]]
 
+- [[BQ500212-dat]] - [[WPC-dat]] - [[TI-dat]] 
 
+- [[TI-power-wireless-dat]] - [[BQ50002-dat]] - [[BQ500511-dat]]
 
+## named A5 A11 coils 
+
+TI Device Part Number TX Type Coil Coil Part Number Vendor
+bq500212A
+bq50002/bq500511
+WPC v1.1 / v1.2
+A11
+- ETW-00032W -- Elytone
+- Y31-60055F -- E & E
+- TXL05002A -- Mingstar
+- IC505004N-11 -- Mingstar
+- 760-308-111 -- Wurth Elektronik
+
+ref 
+
+https://www.ti.com/lit/an/slua649g/slua649g.pdf?ts=1789552663826
 
 ## coil wireless charge 
 

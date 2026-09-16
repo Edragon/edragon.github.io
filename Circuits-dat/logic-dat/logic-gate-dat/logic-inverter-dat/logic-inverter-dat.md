@@ -22,6 +22,20 @@ how to select a suitable inverter
 
 - [[TI-dat]] - [[TI-logic-dat]] - [[logic-inverter-dat]] - [[logic-dat]]
 
+- [[CD4069-dat]] - [[CD40xx-dat]] - [[logic-inverter-dat]] - [[logic-dat]]
+
+
+
+## numbers 
+
+### hex
+
+- hex == 6chs == [[CD4069-dat]]
+
+![](2026-09-16-17-48-05.png)
+
+![](2026-09-16-17-48-35.png)
+
 
 
 # inverter-dat

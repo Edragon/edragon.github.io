@@ -1,6 +1,17 @@
 
 # power-wireless-dat
 
+
+- [[power-wireless-protocols-dat]] - [[power-wireless-dat]] - [[power-wireless-TX-dat]] - [[power-wireless-RX-dat]]
+
+
+- [[power-wireless-dat]] - [[TI-power-wireless-dat]]
+
+
+
+
+## board and chip 
+
 - [[OPM1167-dat]] - [[OPM1168-dat]]
 
 - [[BQ51013-dat]] - [[BQ51050-dat]] - [[TI-power-dat]]
@@ -12,27 +23,10 @@
 - [[IP6826-dat]] - [[IP5328-dat]] - [[power-wireless-dat]] - [[power-bank-dat]]
 
 
-## standards 
-
-- WPC-5W 
 
 
-- [[QI-dat]] - [[QI-wireless-charge-dat]]
+- [[power-wireless-protocols-dat]] - [[power-wireless-dat]] - [[power-wireless-TX-dat]] - [[power-wireless-RX-dat]]
 
-- [[WPC-1.2-dat]] 
-
-- [[fast-charge-protocols-dat]]
-
-
-
-
-## transmitter 
-
-![](2025-10-10-22-14-01.png)
-
-![](2025-10-10-22-14-14.png)
-
-![](2025-10-10-22-14-25.png)
 
 
 

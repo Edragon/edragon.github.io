@@ -39,7 +39,10 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 - [[AOSMD-mosfet-dat]] - [[AO3400-dat]] - [[AO3401-dat]] - [[AOSMD-dat]] - [[AOSMD-mosfet-dat]] - [[AOD4184-dat]] - [[AOD4184-dat]] - [[D4184-dat]]
 
-- [[AOSMD-mosfet-dat]] - [[4264E-dat]]
+- [[AOSMD-mosfet-dat]] - [[4264E-dat]] - [[AON7934-dat]]
+
+
+
 
 
 similar  
@@ -60,7 +63,25 @@ similar
 
 - [[mosfet-board-dat]]
 
+
+
+
+
 ## brand 
+
+- [[UNiKC-dat]] - [[PE532DY-dat]] == `E7 ANB` is a top marking code for a dual N-channel enhancement mode MOSFET integrated circuit (commonly part of the PE532DY series manufactured by UNIKC).
+
+Dual N-Channel Enhancement Mode MOSFET == 30V 21A 
+
+
+![](2026-09-16-18-31-33.png)
+
+
+- [[VBA4338-dat]] - [[VBA3316-dat]] - [[VBsemi-dat]] - [[mosfet-dat]]
+
+
+
+- [[TC4953-dat]] - [[fuman-dat]] - [[mosfet-dat]]
 
 common brand: [[Vishay-dat]]
 

@@ -3,6 +3,9 @@
 # CD40xx-dat
 
 
+- [[CD4069-dat]] - [[CD40xx-dat]]
+
+
 - [[CD40xx-dat]] - [[74xx-dat]] - [[LMxx-dat]]
 
 - [[CD4001-dat]] 

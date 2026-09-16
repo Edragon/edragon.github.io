@@ -14,11 +14,28 @@
 - [[driver-half-bridge-dat]] - [[mosfet-dat]] - [[IGBT-dat]] - [[mosfet-driver-dat]] 
 
 
+
+
+
+
+
+## chip 
+
+
+- [[TPS40200-dat]] - [[TPS28225-dat]] - [[TI-mosfet-driver-dat]] - [[mosfet-dat]] - [[mosfet-driver-dat]] - [[TI-dat]]
+
+
+
 - [[UCC27324-dat]] - [[mosfet-driver-dat]]
 
 UCC27324-Q1 Dual 4-A Peak High-Speed Low-Side Power MOSFET Driver
 
-## TC4451/TC4452
+
+
+
+
+
+### TC4451/TC4452
 
 
 TC4451/TC4452 == 12A High-Speed MOSFET Drivers
@@ -29,7 +46,7 @@ The TC4451/TC4452 are single-output MOSFET drivers. These devices are high-curre
 
 
 
-## FD6287 / FD6288 
+### FD6287 / FD6288 
 
 - [[mosfet-dat]] - [[mosfet-driver-dat]] - [[FD6287-dat]] - [[fortior-dat]] - [[FD6288-dat]]
 

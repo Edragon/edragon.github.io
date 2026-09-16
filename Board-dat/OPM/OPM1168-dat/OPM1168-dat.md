@@ -4,6 +4,8 @@
 
 - [[power-wireless-dat]] - [[OPM1168-dat]] - [[OPM1167-dat]] - [[BQ51050-dat]]
 
+- [[power-wireless-dat]] - [[power-wireless-TX-dat]] - [[power-wireless-RX-dat]]
+
 
 
 ## tech 
@@ -32,12 +34,12 @@ BQ51050 supports 4.2V lithium battery up to 1A charge management.
 
 - [[coil-dat]] includes isolation pad, the side without the isolation pad should be face to the power transmitter coil.
 
-- the output 5V should be a stable 5V load, otherwise the receiver will turn off in a few seconds 
+- the output 5V should be a stable 5V load, otherwise the receiver will turn off into a sleep mode in a few seconds 
 
 
 ![](2025-10-10-21-40-53.png)
 
-
+![](2026-09-16-17-36-36.png)
 
 
 

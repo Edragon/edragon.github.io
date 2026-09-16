@@ -9,6 +9,12 @@
 
 - [[HT1621-dat]]
 
+
+- [[UWM-dat]] - [[HT71xx-dat]] - [[chip-cn-dat]] - [[holtek-dat]]
+
+
+
+
 ## LDO 
 
 

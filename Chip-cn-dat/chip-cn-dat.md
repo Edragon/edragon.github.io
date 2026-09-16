@@ -17,7 +17,12 @@
 
 - [[beken-dat]] - [[JieLi-dat]] - [[chip-cn-dat]] - [[bluetooth-dat]] - [[EY-dat]]
 
+- [[bland-dat]] - [[chip-cn-dat]]
+
+
 - [[chinamobile-dat]]
+
+- [[UWM-dat]] - [[HT71xx-dat]] - [[chip-cn-dat]]
 
 - [[Espressif-dat]] - [[ESP32-dat]] - [[ESP32-S3-dat]] - [[ESP32-C3-dat]] - [[ESP32-P4-dat]] - [[esp32-modules-dat]] - [[ESP32-C61-dat]]
 

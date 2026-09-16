@@ -9,6 +9,16 @@
 - [[TI-dat]] - [[LM358-dat]]
 
 
+
+
+## apps 
+
+- [[LM358-dat]] - [[power-wireless-TX-dat]]
+
+
+
+
+
 ## boards 
 
 - [[MSP1023-dat]]

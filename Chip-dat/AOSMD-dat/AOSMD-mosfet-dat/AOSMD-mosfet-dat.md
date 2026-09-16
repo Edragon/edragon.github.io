@@ -2,6 +2,20 @@
 
 # AOSMD-mosfet-dat
 
+
+
+- [[AOSMD-mosfet-dat]] - [[4264E-dat]] - [[AON7934-dat]]
+
+`AON7934`
+Low Voltage MOSFETs (12V - 30V)
+30V Dual Asymmetric N-Channel AlphaMOS
+
+![](2026-09-16-18-11-56.png)
+
+
+
+
+
 - [[AOSMD-mosfet-dat]] - [[3400-dat]] - [[3401-dat]] - [[AOSMD-dat]] - [[AOSMD-mosfet-dat]] - [[AOD4184-dat]] - [[AOD4184-dat]] - [[D4184-dat]]
 
 - [[AOSMD-mosfet-dat]] - [[4264E-dat]]

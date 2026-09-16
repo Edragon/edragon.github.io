@@ -203,6 +203,18 @@ MMBT3904
 
 ![](2026-06-02-20-40-06.png)
 
+LW SW == [[transistor-dat]]
+
+TMBT3904 SOT-23 丝印LW TOSHIBA 东芝 NPN 50V 150mA 贴片三极管
+
+TMBT3906,LM贴片SOT-23丝印SW电流:150mA电压:50V PNP三极管(BJT)
+
+![](2026-09-16-17-52-19.png)
+
+Y2 
+
+
+
 
 ## ref 
 
