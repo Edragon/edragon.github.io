@@ -7,9 +7,15 @@
 
 - [[installation-antenna-dat]] - [[antenna-dat]] - [[installation-dat]] - [[installation-tube-dat]]
 
+- [[coil-dat]] - [[antenna-dat]]
+
+
+
+
 ## CONN 
 
 - [[SMA-dat]] - [[TNC-dat]] - [[BNC-dat]] - N公内螺内针
+
 
 ## tech 
 
