@@ -12,6 +12,19 @@
 
 - [[PCB-fix-dat]] - [[FPV-fix-dat]]
 
+
+
+## fix scenario 
+
+scneario 1. 
+
+- [[FPV-fix-dat]] - [[PCB-fix-dat]] - [[betaflight-video-transmitter-dat]]
+
+![](2026-09-17-16-29-14.png)
+
+Your VTX is not configured or not supported. So you can't modify the VTX values from here. This will only be possible if the flight controller is attached to the VTX using some protocol like Tramp or SmartAudio and is correctly configured in the Ports tab if needed.
+
+
 ## power up checklist 
 
 - power up self-check sound 
