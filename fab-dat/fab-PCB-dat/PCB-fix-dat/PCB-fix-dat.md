@@ -29,6 +29,7 @@ Multiple hidden physical defects caused by internal stress
     *   Why the camera goes black at the same time (the video line or a via broke in the same bending event).
 
 ③ Micro-debonding of SMD resistors/capacitors and chip solder joints (solder joint fatigue / pad cracking)
+
 *   Lead-free solder (SAC305) is relatively brittle at room temperature when it comes to impact.
 *   Severe vibration causes hair-thin micro-cracks at BGA/QFN chip pins (poor contact), and can even tear the copper pad under the surface solder mask.
 
