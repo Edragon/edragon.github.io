@@ -2,6 +2,11 @@
 
 # RTL8762-dat
 
+
+
+- [[antenna-dat]]
+
+
 - [[RTL8762-dat]] - [[realtek-dat]]
 
 - [[insta360-go2-dat]] - [[insta360-dat]]

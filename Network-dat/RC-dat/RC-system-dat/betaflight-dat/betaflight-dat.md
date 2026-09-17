@@ -19,6 +19,10 @@
 
 - [[betaflight-sensors-dat]]
 
+
+
+
+
 ## common options 
 
 - [[betaflight-presents-dat]] 
@@ -29,7 +33,7 @@
 
 - [[betaflight-modes-dat]] - [[betaflight-motors-dat]] - [[betaflight-modes-dat]]
 
-- [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-blackbox-dat]]
+- [[betaflight-video-transmitter-dat]] - [[betaflight-blackbox-dat]]
 
 - [[betaflight-PID-dat]] - [[betaflight-rateprofile-dat]] - [[indoor-fly-dat]]
 
@@ -40,6 +44,10 @@
 - [[betaflight-ports-dat]] - [[betaflight-led-strip-dat]] - [[betaflight-dat]]
 
 - [[betaflight-receiver-dat]] 
+
+- [[betaflight-OSD-dat]] - [[OSD-dat]]
+
+[[mobula6-dat]] - [[FRSKY-dat]] - [[betaflight-CLI-dat]] - [[betaflight-firmware-dat]] - [[betaflight-dat]]
 
 
 
@@ -172,6 +180,17 @@ You can log to an external logging device (such as an OpenLager) by using a seri
 
 Betaflight is an open-source firmware for drones and other unmanned aerial vehicles (UAVs). It is designed to provide advanced flight control capabilities, making it popular among hobbyists and enthusiasts in the drone community. Betaflight is known for its flexibility, configurability, and support for a wide range of hardware platforms.
 
+
+
+## more functions 
+
+Sonar = 超声波测距传感器支持 —— Betaflight 里的一个"边缘实验功能"，穿越机基本用不上。
+
+📖 官方定义（Betaflight 文档原文）
+
+ "A sonar sensor can be used to measure altitude for use with BARO and SONAR altitude hold modes. Currently the only supported sensor is the HCSR04 sensor."
+
+翻译：用于测量高度、配合定高模式。Betaflight 只支持 HC-SR04 这一款超声波模块。
 
 
 

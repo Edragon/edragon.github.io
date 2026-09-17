@@ -13,6 +13,11 @@
 
 
 
+## board 
+
+- [[FC-AIO-dat]] - [[X12-dat]]
+
+- [[FUS-X111-dat]]
 
 
 ## tech 

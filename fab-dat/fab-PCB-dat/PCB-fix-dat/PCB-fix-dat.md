@@ -2,17 +2,38 @@
 # PCB-fix-dat
 
 
-## app fixing 
+
+
+- [[PCB-fix-dat]] - [[FPV-fix-dat]] - [[electronic-consumer-fix-dat]]
+
+
+
+## app fixing and FIX scenario 
+
+
+### app2 - consumer electronics  
+
+- [[PCB-fix-dat]] - [[insta360-go2-dat]] - [[insta360-dat]]
+
+![](2026-09-17-14-47-37.png)
+
+![](2026-09-17-14-49-07.png)
+
+![](2026-09-17-14-50-42.png)
+
+
+- [[test-point-dat]]
+
+
+
+
+
+### app1 - drop from a 3-meter height to concrete floor
 
 - [[PCB-fix-dat]] - [[X12-dat]]
 
 
 
-
-
-## FIX scenario 
-
-### drop from a 3-meter height 
 
 Multiple hidden physical defects caused by internal stress
 
@@ -73,7 +94,7 @@ analysis issues - [[PCB-defect-problem-analysis-dat]]
 software check - [[betaflight-dat]] - [[PCB-fix-dat]]  - [[betaflight-motors-dat]]
 
 
-by visual 
+by visual - **important to check missing parts**
 
 **Bright light + magnifier / phone macro lens**
 • What to look for: trace cracks, lifted pads, solder-bridge shorts
@@ -169,3 +190,4 @@ extra workflow
 
 - [[PCB-dat]] - [[circuits-dat]]
 
+- [[PCB]] - [[PCB-fix]]

@@ -3,6 +3,16 @@
 
 # FPV-fix-dat
 
+
+
+
+
+- [[PCB-fix-dat]] - [[FPV-fix-dat]] - [[electronic-consumer-fix-dat]]
+
+- [[FPV-build-dat]]
+
+
+
 - [[mosfet-drive-dat]] - [[X12-dat]] - [[FPV-dat]] - [[FPV-fix-dat]]
 
 
@@ -11,6 +21,24 @@
 - [[EFM8-dat]] - [[ESC-dat]] - [[FPV-fix-dat]]
 
 - [[PCB-fix-dat]] - [[FPV-fix-dat]]
+
+
+
+## replaceable parts 
+
+- [[camera-FPV-dat]] - [[camera-FPV]] - [[camera]]
+
+
+## fix scenario 
+
+scneario 1. 
+
+- [[FPV-fix-dat]] - [[PCB-fix-dat]] - [[betaflight-video-transmitter-dat]]
+
+![](2026-09-17-16-29-14.png)
+
+Your VTX is not configured or not supported. So you can't modify the VTX values from here. This will only be possible if the flight controller is attached to the VTX using some protocol like Tramp or SmartAudio and is correctly configured in the Ports tab if needed.
+
 
 ## power up checklist 
 

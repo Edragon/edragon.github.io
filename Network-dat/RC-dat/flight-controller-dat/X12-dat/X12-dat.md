@@ -153,7 +153,7 @@ GMCR GMCRb SOT23-5
 
 -   **Betaflight Firmware Targets:**
     -   `ELRS Version`: CRAZYBEEF4SX1280
-    -   `FRSKY Version`: CRAZYBEEF4FR
+    -   `FRSKY Version`: `CRAZYBEEF4FR`
     -   `PNP Version`: CRAZYBEEF4DX
     -   `LITE Version`: CRAZYBEEF4SX1280
 -   **Specific Versions & Targets:**
