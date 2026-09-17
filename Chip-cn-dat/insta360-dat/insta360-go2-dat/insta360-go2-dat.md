@@ -2,6 +2,10 @@
 
 # insta360-go2-dat
 
+
+
+- [[PCB-fix-dat]] - [[insta360-go2-dat]] - [[insta360-dat]]
+
 - [[insta360-go2-dat]] - [[insta360-dat]]
 
 ![](2026-05-23-14-32-09.png)
@@ -14,7 +18,13 @@
 
 3415 - [[mosfet-dat]]
 
-G7CLF - high voltage provider chip - [[SG-micro-dat]] - [[SGM3752-dat]] 
+
+
+G7CLF - high voltage provider chip - [[SG-micro-dat]] - [[SGM3752-dat]] - [[display-dat]] - [[LCD-dat]] - [[LCD-driver-dat]] - [[insta360-go2-dat]] == to LCD pin1
+
+
+
+
 
 12W04 12W 04 - [[mosfet-dat]] - [[2N7002-dat]]
 

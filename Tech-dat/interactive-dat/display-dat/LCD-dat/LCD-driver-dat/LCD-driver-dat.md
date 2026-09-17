@@ -25,6 +25,15 @@
 
 
 
+
+## build 
+
+G7CLF - high voltage provider chip - [[SG-micro-dat]] - [[SGM3752-dat]] - [[display-dat]] - [[LCD-dat]] - [[LCD-driver-dat]] - [[insta360-go2-dat]] == to LCD pin1
+
+
+
+
+
 ## ref 
 
 
