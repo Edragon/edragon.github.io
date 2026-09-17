@@ -40,6 +40,8 @@
 
 - [[ehang-dat]]
 
+- [[betaFPV-dat]] - [[VR03-dat]]
+
 
 The digital HD video transmission ecosystem across the entire FPV community is currently completely fragmented — brands are mutually incompatible with one another:
 

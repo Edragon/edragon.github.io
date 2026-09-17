@@ -378,8 +378,6 @@ see more high gain antennna at [[antenna-wifi-dat]]
 
 
 
-
-
 ## ref
 
 - [[M2M-dat]]

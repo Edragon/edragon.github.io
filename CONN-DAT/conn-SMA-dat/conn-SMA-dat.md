@@ -4,6 +4,14 @@
 
 - [[antenna-GNSS-dat]] - [[CONN-SMA-dat]] - [[CONN-IPEX-dat]]
 
+- [[conn-antenna-dat]] - [[CONN-SMA-dat]]
+
+
+- [[CONN-RP-SMA-dat]] - [[CONN-SMA-MALE-dat]] 
+
+
+
+![](2026-09-18-01-11-20.png)
 
 
 Connector SMA 

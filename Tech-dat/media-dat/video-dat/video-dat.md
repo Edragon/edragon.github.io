@@ -2,6 +2,8 @@
 # video-dat
 
 
+- [[video-analog-dat]]
+
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]]
 
 - [[RGB565-dat]] RGB565 gradation
