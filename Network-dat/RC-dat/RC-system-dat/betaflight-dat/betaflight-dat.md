@@ -29,7 +29,7 @@
 
 - [[betaflight-modes-dat]] - [[betaflight-motors-dat]] - [[betaflight-modes-dat]]
 
-- [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-blackbox-dat]]
+- [[betaflight-video-transmitter-dat]] - [[betaflight-blackbox-dat]]
 
 - [[betaflight-PID-dat]] - [[betaflight-rateprofile-dat]] - [[indoor-fly-dat]]
 
@@ -40,6 +40,10 @@
 - [[betaflight-ports-dat]] - [[betaflight-led-strip-dat]] - [[betaflight-dat]]
 
 - [[betaflight-receiver-dat]] 
+
+- [[betaflight-OSD-dat]] - [[OSD-dat]]
+
+[[mobula6-dat]] - [[FRSKY-dat]] - [[betaflight-CLI-dat]] - [[betaflight-firmware-dat]] - [[betaflight-dat]]
 
 
 

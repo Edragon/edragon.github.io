@@ -2,6 +2,12 @@
 
 # OSD-dat.md
 
+
+
+- [[betaflight-OSD-dat]] - [[OSD-dat]] - [[FPV-dat]]
+
+
+
 - [[OSD-dat]] - [[VTX-dat]]
 
 - [[OSD-dat]] - [[display-driver-dat]] - [[OSD-driver-dat]] - [[zhongkewei-dat]]
@@ -10,6 +16,25 @@
 
 
 - [[VTX-dat]] - [[OSD-dat]] - [[flight-controller-dat]]
+
+
+
+
+## setup 
+
+- [[betaflight-receiver-dat]]
+
+1. 去「Receiver（接收机）」页面：
+   - 检查最下方的 RSSI Channel ➔ 改成 DISABLED。
+   - （让飞控直接读取板载 CC2500 的物理真实信号，不要从通道抓假数据）。
+
+2. 去「OSD」页面：
+   - 在左侧可选元素列表中，取消勾选原来的 RSSI。
+   - 改选以下两个正规元素：
+     1. Link Quality（链路质量）：显示百分比（如 99、80、50），数值降到 30 以下警告，最直观好懂！
+     2. RSSI dBm：如果开启，正常显示应该永远带负号（如 -65、-78、-85）。
+3. 点右下角「Save（保存）」。
+
 
 
 ## use 

@@ -2,7 +2,7 @@
 # mobula6-dat
 
 
-
+[[mobula6-dat]] - [[FRSKY-dat]] - [[betaflight-CLI-dat]] - [[betaflight-firmware-dat]]
 
 - [[mobula8-dat]] - [[X12-dat]] - [[mobula6-dat]] - [[mobula7-dat]] - [[happymodel-dat]]
 

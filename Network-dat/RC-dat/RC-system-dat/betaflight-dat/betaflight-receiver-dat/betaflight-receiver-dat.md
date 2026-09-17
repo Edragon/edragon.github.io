@@ -14,7 +14,7 @@ TELEMETRY - Telemetry output
 
 Analog RSSl input == on or off
 
-RSSIChannel == disabled or AUX1 .. AUX12?
+RSSI Channel == disabled or AUX1 .. AUX12?
 
 
 ### 1. Analog RSSI Input (ON or OFF)
