@@ -144,6 +144,13 @@ total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 
 
 
+## build 
+
+build 1 - [[FUS-X111-dat]] 
+
+![](2026-09-18-00-20-14.png)
+
+
 
 ## ref 
 
