@@ -1,9 +1,29 @@
 
-# battery-rechargeable-dat
+# battery-rechargeable-app-dat
 
 - [[tools-power-dat]]
 
-### By Apps 
+
+
+
+
+
+## consumer build 
+
+- [[battery-rechargeable-app-dat]] - [[insta360-go2-dat]]
+
+![](2026-09-17-18-09-40.png)
+
+
+test around 3.9V 
+
+![](2026-09-17-18-09-59.png)
+
+
+
+
+
+## By Apps 
 
 Robot tank battery
 

@@ -8,6 +8,31 @@
 
 - [[insta360-go2-dat]] - [[insta360-dat]]
 
+
+
+
+## build details 
+
+- [[battery-rechargeable-app-dat]] - [[insta360-go2-dat]]
+
+
+
+backside 
+
+![](2026-09-17-18-10-29.png)
+
+CSB
+RES
+DCB
+SI
+SCL
+VPP_13V
+GND
+GND
+5V_OUT
+
+overview 
+
 ![](2026-05-23-14-32-09.png)
 
 - [[ETA6980-dat]] - [[ETA-solutions-dat]]

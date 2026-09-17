@@ -45,6 +45,8 @@
 
 - [[kendryte-dat]] - [[K230D-dat]]
 
+- [[kangxi-dat]] - [[KCT8539SD-dat]] - [[RF-5.8Ghz-dat]] - [[WLAN-dat]]
+
 - [[quectel-dat]]
 
 - [[WCH-dat]] - [[WCH-MCU-dat]] 
@@ -58,6 +60,10 @@
 - [[Zeming-dat]]
 
 - [[HLW-dat]] - [[HLW8032-dat]] - [[HLW8012-dat]]
+
+- [[PUYAsemi-dat]]
+
+
 
 - [[rockchip-dat]] - [[RV1106-dat]]
 

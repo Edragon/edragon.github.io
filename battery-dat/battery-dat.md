@@ -57,7 +57,7 @@
 - [[battery-protection-dat]]
 
 
-- [[battery-li-dat]] - [[li-battery-app-dat]] - [[18650-dat]]
+- [[battery-li-dat]] - [[li-battery-app-dat]] - [[18650-dat]] - [[battery-rechargeable-app-dat]]
 
 
 - [[battery-pack-dat]] - [[battery-holder-dat]] - [[battery-packs-dat]]
