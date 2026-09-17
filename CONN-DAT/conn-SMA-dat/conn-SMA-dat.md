@@ -11,7 +11,25 @@
 
 
 
+
+## build 
+
+- [[antenna-FPV-dat]] - [[VR03-dat]] - [[conn-SMA-dat]]
+
+
+
+
+## info 
+
 ![](2026-09-18-01-11-20.png)
+
+
+thread and angles
+
+![](2026-09-18-01-33-59.png)
+
+![](2026-09-18-01-35-23.png)
+
 
 
 Connector SMA 
