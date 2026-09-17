@@ -3,6 +3,16 @@
 
 # FPV-fix-dat
 
+
+
+
+
+- [[PCB-fix-dat]] - [[FPV-fix-dat]] - [[electronic-consumer-fix-dat]]
+
+
+
+
+
 - [[mosfet-drive-dat]] - [[X12-dat]] - [[FPV-dat]] - [[FPV-fix-dat]]
 
 
@@ -12,6 +22,11 @@
 
 - [[PCB-fix-dat]] - [[FPV-fix-dat]]
 
+
+
+## replaceable parts 
+
+- [[camera-FPV-dat]] - [[camera-FPV]] - [[camera]]
 
 
 ## fix scenario 

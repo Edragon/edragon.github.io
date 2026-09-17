@@ -45,6 +45,12 @@
 - M1.2和M2孔是指摄像头保护罩安装到机架上的孔径
 - 如果改装到[[mobula6-dat]] 或者[[mobula7-dat]] 的机架上请选择M1.2孔径。
 
+
+- Caddx Ant（~¥80-120，轻量经典）
+- Runcam Nano 4 / Phoenix 
+- BetaFPV C02/C03
+- 或你熟悉的 Ratel Pro（但偏重 9.5g，对 2 寸机稍重）
+
 ## maker 
 
 - [[caddxFPV-dat]]
