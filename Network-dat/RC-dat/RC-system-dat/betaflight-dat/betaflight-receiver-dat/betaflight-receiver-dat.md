@@ -8,6 +8,14 @@
 
 - [[ELRS-dat]] - [[FRSKY-dat]]
 
+
+
+## Channel map 
+
+AETR1234
+
+
+
 ### Telemetry
 
 TELEMETRY - Telemetry output

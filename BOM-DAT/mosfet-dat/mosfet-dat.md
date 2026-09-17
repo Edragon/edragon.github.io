@@ -25,6 +25,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-setup-motor-dual-dat]] - [[motor-driver-design-dat]] - [[mosfet-dat]]
 
 
+- [[led-dat]] - [[led-indicator-dat]] - [[mosfet-dat]]
 
 ## tech 
 
