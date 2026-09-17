@@ -2,6 +2,9 @@
 # flight-controller-dat
 
 
+- [[flight-controller-dat]] + [[ESC-dat]] - [[FPV-ESC-dat]]
+
+
 
 
 ## main reference and build
@@ -69,6 +72,11 @@
 
 - [[pixelhawk-6c-dat]]
 
+
+
+## accessories 
+
+- [[PCB-accessories-dat]] - [[PCB-dat]]
 
 
 

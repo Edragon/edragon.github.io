@@ -31,6 +31,16 @@ magnetic plate
 ![](2025-09-30-10-15-40.png)
 
 
+
+## shock absorption abosorber 
+
+- [[flight-controller-dat]] + [[ESC-dat]] - [[FPV-ESC-dat]]
+
+
+![](2026-09-18-01-47-23.png)
+
+
+
 ## ref 
 
 - [[PCB-dat]] - [[rover-dat]]
