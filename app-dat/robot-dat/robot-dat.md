@@ -37,11 +37,18 @@
 
 
 
+
+
 [DWA == Dynamic window approach](https://en.wikipedia.org/wiki/Dynamic_window_approach)
 
 
 - [[screw-dat]] - [[screw-Self-tapping-dat]]
 
+
+
+## apps 
+
+- [[robot-bomb-disposal-dat]]
 
 ## types 
 
