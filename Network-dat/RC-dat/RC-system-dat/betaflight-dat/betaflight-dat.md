@@ -9,9 +9,7 @@
 
 ## new options 
 
-- [[betaflight-failsafe-dat]]
 
-- [[betaflight-adjustments-dat]]
 
 - [[betaflight-autotune-dat]]
 
@@ -20,6 +18,16 @@
 - [[betaflight-sensors-dat]]
 
 
+
+## expert mode  
+
+- [[betaflight-failsafe-dat]]
+
+- [[betaflight-adjustments-dat]]
+
+- Tethered Logging
+
+- Autotune
 
 
 
