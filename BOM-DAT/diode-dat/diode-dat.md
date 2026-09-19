@@ -20,7 +20,7 @@
 - [[rectifier-dat]] - [[diode-rectifier-dat]] 
 
 
-
+- [[PCB-footprint-dat]]
 
 
 ## marking 
@@ -29,14 +29,26 @@
 - F7
 
 
+## footprint 
+
+- [[PCB-footprint-dat]] 
+
+0402/0603 == [[LED-dat]] - [[diode-dat]]
+
+
+
 
 
 ## chip 
+
+- [[diode-zener-dat]]
 
 - [[comchip-dat]] - [[diode-dat]]
 
 - [[diode-dat]] - [[NXP-diode-dat]] - [[NXP-dat]]
 
+
+- [[ruilon-dat]] - [[diode-zener-dat]] - RLSD92A051C == Working voltages: 5V
 
 
 ## ST

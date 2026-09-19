@@ -19,7 +19,7 @@
 
 ## maintenance
 
-- [[bolt-dat]] == M1.2 x L2.5 == [[mobula6-dat]]
+- [[bolt-dat]] == M1.4 x L3 == [[mobula6-dat]]
 
 
 ## version control - F4FR

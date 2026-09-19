@@ -2,9 +2,9 @@
 
 # comchip-dat
 
-- [[comchip-dat]] - [[diode-dat]] - [[TVS-dat]]
+- [[comchip-dat]] - [[diode-dat]] - [[TVS-dat]] - [[diode-zener-dat]]
 
-CZRQR52
+CZRQR52 - [[CZRQR52C2-HF+THRU+CZRQR52C39-HF.pdf]]
 
 CZRQR52C2-HF Thru. CZRQR52C39-HFVoltage 2 to 39 Volts
 

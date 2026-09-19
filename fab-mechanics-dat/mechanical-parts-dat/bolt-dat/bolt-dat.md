@@ -15,6 +15,9 @@
 - [[bolt-dat]] - [[spring-dat]] - [[battery-pack-solderless-dat]]
 
 
+
+
+
 ## anti-loosing 
 
 ![](2026-08-11-20-54-44.png)
@@ -90,7 +93,7 @@ Here is the breakdown of the major differences:
 
 ### 圆头 
 
-- [[bolt-dat]] == M1.2 x L2.5 == [[mobula6-dat]]
+- [[bolt-dat]] == M1.4 x L3 == [[mobula6-dat]]
 
 ![](2026-09-13-20-14-13.png)
 

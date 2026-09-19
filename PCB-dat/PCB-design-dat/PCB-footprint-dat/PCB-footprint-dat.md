@@ -19,6 +19,9 @@
 
 - [[DIP8-dat]] - [[SOP8-dat]] - [[PCB-footprint-dat]] - [[PCB-dat]]
 
+
+
+
 ## boards 
 
 - [[CCO3628-dat]] - [[CCO3627-dat]]
@@ -26,6 +29,37 @@
 - [[DPR1016-dat]]
 
 - [[CCO3626-dat]] - [[CCO3629-dat]] - [[prog-socket-SMD2DIP-dat]]
+
+
+
+
+## two-pins footprint 
+
+Here is a comprehensive list of all standard two-pin surface-mount (SMD) footprints commonly used for Zener diodes, categorized by package families:
+
+### 1. Small Outline Diode (SOD) Family
+The most prevalent standard family specifically designed for surface-mount diodes, ranging from largest to smallest:
+* **SOD-123 / SOD-123F / SOD-123FL:** A larger, robust package (~$2.6 \times 1.6\text{ mm}$), easy to hand-solder.
+* **SOD-323 / SOD-323F:** A very common mid-size package (~$1.7 \times 1.25\text{ mm}$).
+* **SOD-523 / SOD-523F:** A compact micro-package (~$1.2 \times 0.8\text{ mm}$).
+* **SOD-723:** An ultra-small rectangular package (~$1.0 \times 0.6\text{ mm}$).
+* **SOD-923:** One of the smallest standard packages (~$1.0 \times 0.6\text{ mm}$, lower profile), similar in footprint footprint area to a 0402 passive.
+
+### 2. Chip Resistor / Passive Style Footprints
+Many modern micro-Zener diodes are packaged in standard rectangular passive component bodies:
+* **0603 (Metric 1608):** $1.6 \times 0.8\text{ mm}$ 
+* **0402 (Metric 1005):** $1.0 \times 0.5\text{ mm}$ (This matches the physical size profile of the component you were looking at earlier)
+
+### 3. MELF / Mini-MELF Family (Cylindrical Glass Diodes)
+Cylindrical surface-mount packages featuring metal electrode face bonding, frequently used for high-reliability or high-power glass-body Zener diodes:
+* **LL-34 (Mini-MELF / SOD-80):** Cylindrical body (~$3.5\text{ mm}$ long $\times 1.4\text{ mm}$ diameter).
+* **LL-41 (MELF):** Larger cylindrical body (~$4.9\text{ mm}$ long $\times 2.4\text{ mm}$ diameter).
+* **Micro-MELF (SOD-213):** Smaller variant available in ultra-compact versions.
+
+### 4. Legacy and Power SMD Packages
+For higher power dissipation Zener diodes requiring better thermal dissipation:
+* **SMA (DO-214AC):** Flat-lead package (~$4.5 \times 2.6\text{ mm}$), commonly used for higher-power Zeners (e.g., 1W SOD/SMA types).
+* **SMB (DO-214AA) / SMC (DO-214AB):** Even larger power footprints, though less common for standard low-power Zener applications.
 
 
 
@@ -37,26 +71,26 @@ This value represents the component thickness, used to compensate for the nozzle
 
 ### Common SMD Component Thickness Reference
 
-| Component Type | Package (EIA) | Thickness Range (mm) |
-| :--- | :--- | :--- |
-| **SMD Resistor** | 0201 | 0.2 ~ 0.3 |
-| | 0402 | 0.3 ~ 0.4 |
-| | 0603 | 0.4 ~ 0.5 |
-| | 0805 | 0.5 ~ 0.6 |
-| | 1206 | 0.6 ~ 0.7 |
-| | 2512 | 0.8 ~ 1.2 |
-| **SMD Capacitor (MLCC)** | 0201 | 0.2 ~ 0.3 |
-| | 0402 | 0.3 ~ 0.5 |
-| | 0603 | 0.5 ~ 0.7 |
-| | 0805 | 0.6 ~ 0.8 |
-| **Tantalum Capacitor** | Case A (3216) | 1.0 ~ 1.2 |
-| | Case B (3528) | 1.5 ~ 1.8 |
-| **SMD Diode** | SOD-323 | 0.5 ~ 0.7 |
-| | SOD-123 | 0.8 ~ 1.0 |
-| | SMB (DO-214AC) | 1.1 ~ 1.3 |
-| **SMD Transistor** | SOT-323 | 0.7 ~ 0.9 |
-| | SOT-23 | 0.9 ~ 1.1 |
-| | SOT-89 | 1.5 ~ 2.0 |
+| Component Type           | Package (EIA)  | Thickness Range (mm) |
+| :----------------------- | :------------- | :------------------- |
+| **SMD Resistor**         | 0201           | 0.2 ~ 0.3            |
+|                          | 0402           | 0.3 ~ 0.4            |
+|                          | 0603           | 0.4 ~ 0.5            |
+|                          | 0805           | 0.5 ~ 0.6            |
+|                          | 1206           | 0.6 ~ 0.7            |
+|                          | 2512           | 0.8 ~ 1.2            |
+| **SMD Capacitor (MLCC)** | 0201           | 0.2 ~ 0.3            |
+|                          | 0402           | 0.3 ~ 0.5            |
+|                          | 0603           | 0.5 ~ 0.7            |
+|                          | 0805           | 0.6 ~ 0.8            |
+| **Tantalum Capacitor**   | Case A (3216)  | 1.0 ~ 1.2            |
+|                          | Case B (3528)  | 1.5 ~ 1.8            |
+| **SMD Diode**            | SOD-323        | 0.5 ~ 0.7            |
+|                          | SOD-123        | 0.8 ~ 1.0            |
+|                          | SMB (DO-214AC) | 1.1 ~ 1.3            |
+| **SMD Transistor**       | SOT-323        | 0.7 ~ 0.9            |
+|                          | SOT-23         | 0.9 ~ 1.1            |
+|                          | SOT-89         | 1.5 ~ 2.0            |
 
 > [!NOTE]
 > These values are general reference ranges. Actual thickness varies by manufacturer and specific part numbers. Always verify with the component's **Datasheet** for critical placement calibration.
@@ -154,32 +188,32 @@ This value represents the component thickness, used to compensate for the nozzle
 ## IC Package Footprintscategorized by pitch 
 
 
-| Pitch (mm) | Package Types & Examples                                                                 |
-|------------|-------------------------------------------------------------------------------------------|
-| **0.3 mm** | WLCSP (Wafer Level Chip Scale Package), uBGA (Ultra Fine Pitch BGA), QFN (fine pitch)     |
-| **0.35 mm**| DFN (small pitch variants), QFN (ultra fine pitch), LGA                                   |
-| **0.4 mm** | QFN (fine pitch), CSP (Chip Scale Package), BGA (fine pitch), DFN                        |
-| **0.5 mm** | QFN (common pitch), TQFP (fine pitch), LGA, DFN                                          |
-| **0.635 mm** | SSOP (Shrink Small Outline Package), TSSOP (Thin Shrink SOP)                          |
-| **0.8 mm** | QFP (Quad Flat Package), TQFP (standard pitch), LQFP, BGA (medium pitch)                 |
-| **1.0 mm** | QFP (larger pitch), LQFP, PLCC (Plastic Leaded Chip Carrier), SOIC (narrow pitch)        |
-| **1.27 mm**| SOIC (Small Outline IC), DIP (Dual In-line Package), PLCC                                |
-| **1.5 mm** | Older DIP variants, larger SIP (Single In-line Package)                                  |
-| **2.0 mm** | Some DIP, SIP, Power Packages (TO-220 multi-pin)                                         |
-| **2.54 mm (0.1")** | Standard DIP (most common), SIP, headers, through-hole connectors                |
+| Pitch (mm)         | Package Types & Examples                                                              |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| **0.3 mm**         | WLCSP (Wafer Level Chip Scale Package), uBGA (Ultra Fine Pitch BGA), QFN (fine pitch) |
+| **0.35 mm**        | DFN (small pitch variants), QFN (ultra fine pitch), LGA                               |
+| **0.4 mm**         | QFN (fine pitch), CSP (Chip Scale Package), BGA (fine pitch), DFN                     |
+| **0.5 mm**         | QFN (common pitch), TQFP (fine pitch), LGA, DFN                                       |
+| **0.635 mm**       | SSOP (Shrink Small Outline Package), TSSOP (Thin Shrink SOP)                          |
+| **0.8 mm**         | QFP (Quad Flat Package), TQFP (standard pitch), LQFP, BGA (medium pitch)              |
+| **1.0 mm**         | QFP (larger pitch), LQFP, PLCC (Plastic Leaded Chip Carrier), SOIC (narrow pitch)     |
+| **1.27 mm**        | SOIC (Small Outline IC), DIP (Dual In-line Package), PLCC                             |
+| **1.5 mm**         | Older DIP variants, larger SIP (Single In-line Package)                               |
+| **2.0 mm**         | Some DIP, SIP, Power Packages (TO-220 multi-pin)                                      |
+| **2.54 mm (0.1")** | Standard DIP (most common), SIP, headers, through-hole connectors                     |
 
 
 ## Methods to Examine Hidden Solder Bridges Under Packages
 
-| Method                         | Description                                                                 | Pros                                     | Cons / Limitations                     |
-|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------|-----------------------------------------|
-| **X-Ray Inspection**           | Uses 2D or 3D X-ray (AXI/CT) to image solder joints under the package.      | Most reliable, can see voids, bridges, opens | Expensive equipment, not DIY friendly  |
-| **Microscope with Oblique Light** | Tilted inspection around chip edges, sometimes you can see solder "squeeze-out". | Cheap, immediate check                   | Only shows gross defects near edges     |
-| **Electrical Continuity Test** | Use multimeter to check resistance between adjacent pins/pads.              | Simple, effective for shorts              | Cannot detect open joints or cold solder|
-| **Boundary Scan (JTAG)**       | IC self-tests connectivity if supported.                                    | Automated, precise                       | Only available if IC has JTAG support   |
-| **Thermal Camera / IR Imaging**| Power up board, shorts often cause local hot spots.                         | Non-contact, quick check                 | Needs power-on, risk of damage          |
-| **Flying Probe / ICT Test**    | Automated test system probes nets for shorts/opens.                         | Precise, production use                  | Expensive, setup time                   |
-| **Acoustic Microscopy (SAM)**  | Ultrasound imaging can detect voids or poor solder bonding.                 | High resolution for reliability testing  | Very expensive, lab equipment only      |
+| Method                            | Description                                                                      | Pros                                         | Cons / Limitations                       |
+| --------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------- |
+| **X-Ray Inspection**              | Uses 2D or 3D X-ray (AXI/CT) to image solder joints under the package.           | Most reliable, can see voids, bridges, opens | Expensive equipment, not DIY friendly    |
+| **Microscope with Oblique Light** | Tilted inspection around chip edges, sometimes you can see solder "squeeze-out". | Cheap, immediate check                       | Only shows gross defects near edges      |
+| **Electrical Continuity Test**    | Use multimeter to check resistance between adjacent pins/pads.                   | Simple, effective for shorts                 | Cannot detect open joints or cold solder |
+| **Boundary Scan (JTAG)**          | IC self-tests connectivity if supported.                                         | Automated, precise                           | Only available if IC has JTAG support    |
+| **Thermal Camera / IR Imaging**   | Power up board, shorts often cause local hot spots.                              | Non-contact, quick check                     | Needs power-on, risk of damage           |
+| **Flying Probe / ICT Test**       | Automated test system probes nets for shorts/opens.                              | Precise, production use                      | Expensive, setup time                    |
+| **Acoustic Microscopy (SAM)**     | Ultrasound imaging can detect voids or poor solder bonding.                      | High resolution for reliability testing      | Very expensive, lab equipment only       |
 
 
 For hobbyist / small-lab use:
@@ -202,14 +236,14 @@ If nothing obvious, suspect **opens (unsoldered pads)**, which can only be 100% 
 
 ## DIY Methods to Detect Hidden Solder Bridges Under Packages (No X-Ray)
 
-| Method                         | How It Works                                                                 | Notes / Tips |
-|--------------------------------|-------------------------------------------------------------------------------|--------------|
-| **Multimeter Continuity Check**| With power off, measure resistance between power rails (VCC–GND) and between suspect pins. | If you read ~0Ω or very low resistance, there may be a bridge. |
-| **Current-Limited Power Test** | Power board with a bench supply set to current limit (e.g. 50–100mA). If supply immediately hits limit, there’s likely a short. | Use low limit to avoid chip damage. |
-| **Thermal Finger Test / IR Camera** | Briefly power on with current limit. A solder bridge often causes a tiny hot spot. | Safer with cheap USB thermal cameras. |
-| **Rosin / Alcohol Wetting**    | Apply isopropyl alcohol or rosin flux around package edges, then power board. If there is a short, liquid may boil or show bubbles near bridged pads. | Not very precise, but sometimes works. |
-| **Resistance Mapping**         | Compare resistance between ground and each I/O pin versus a known-good board. | Detects anomalies indirectly. |
-| **Functional "Wiggle Test"**   | Gently press down or heat package with hot air. If circuit suddenly works or fails, some pads may be bridged or floating. | Risky — only use for debugging prototypes. |
+| Method                              | How It Works                                                                                                                                          | Notes / Tips                                                   |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Multimeter Continuity Check**     | With power off, measure resistance between power rails (VCC–GND) and between suspect pins.                                                            | If you read ~0Ω or very low resistance, there may be a bridge. |
+| **Current-Limited Power Test**      | Power board with a bench supply set to current limit (e.g. 50–100mA). If supply immediately hits limit, there’s likely a short.                       | Use low limit to avoid chip damage.                            |
+| **Thermal Finger Test / IR Camera** | Briefly power on with current limit. A solder bridge often causes a tiny hot spot.                                                                    | Safer with cheap USB thermal cameras.                          |
+| **Rosin / Alcohol Wetting**         | Apply isopropyl alcohol or rosin flux around package edges, then power board. If there is a short, liquid may boil or show bubbles near bridged pads. | Not very precise, but sometimes works.                         |
+| **Resistance Mapping**              | Compare resistance between ground and each I/O pin versus a known-good board.                                                                         | Detects anomalies indirectly.                                  |
+| **Functional "Wiggle Test"**        | Gently press down or heat package with hot air. If circuit suddenly works or fails, some pads may be bridged or floating.                             | Risky — only use for debugging prototypes.                     |
 
 Practical DIY Workflow
 

@@ -17,6 +17,13 @@
 
 
 
+[[LED-dat]] - [[diode-dat]]
+
+
+
+
+
+
 # 3mm transparent LED
 
 - Yellow （黄）- [[ILE1016-dat]]

@@ -28,6 +28,11 @@ burned on [[battery-3s-dat]], can not be shorted like the image, the images is w
 
 - [[passive-dat]] - [[BOM-dat]] - [[diode-dat]] - [[NXP-diode-dat]] - [[NXP-dat]] - [[app-dat]] - [[X12-dat]]
 
+- [[comchip-dat]] - [[TVS-dat]]
+
+
+
+
 
 
 ## build info 1
