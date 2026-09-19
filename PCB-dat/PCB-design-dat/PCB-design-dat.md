@@ -48,6 +48,7 @@
 
 - [[PCB-design-dat]] - [[power-dat]] 
 
+- [[PCB-pad-dat]]
 
 ## design 
 
