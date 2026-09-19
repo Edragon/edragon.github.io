@@ -7,7 +7,7 @@
 
 - [[FPV-dat]] - [[whoop-dat]]
 
-- [[FPV-size-dat]] - [[FPV-mode-dat]] - [[FPV-load-dat]] 
+- [[FPV-size-dat]] - [[FPV-mode-dat]] - [[FPV-load-dat]] - [[FPV-types-dat]]
 
 - [[camera-FPV-dat]] - [[camera-FPV-angle-dat]]
 

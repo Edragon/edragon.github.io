@@ -3,6 +3,13 @@
 
 
 
+
+
+- [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]]
+
+
+
+
 ## apps 
 
 - [[hot-air-station-dat]]

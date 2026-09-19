@@ -2,6 +2,11 @@
 # motor-dat
 
 
+
+
+- [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]]
+
+
 - [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
 
 

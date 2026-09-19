@@ -2,6 +2,12 @@
 
 # FUS-X111-dat
 
+
+
+## tech 
+
+- [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]] - [[FPV-dat]] - [[FUS-X111-dat]] - [[indoor-fly-dat]]
+
 - [[FPV-build-dat]] - [[FPV-2.5in-dat]] - [[FUS-X111-dat]]
 
 
@@ -9,6 +15,9 @@
 
 - [[betaflight-dat]]
 
+
+
+## info 
 
 screws 
 
