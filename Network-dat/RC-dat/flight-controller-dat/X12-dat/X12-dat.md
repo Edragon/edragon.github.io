@@ -26,6 +26,7 @@ burned on [[battery-3s-dat]], can not be shorted like the image, the images is w
 
 关于代码：在 SMD 代码规范中，很多二极管或瞬态抑制管会用简写字母代表型号（例如以 Z3 开头的通常对应部分稳压管或特定逻辑/电源IC），后面的 h 或小写字母往往代表工厂批次、电压档位细分或封装内部代码。
 
+- [[passive-dat]] - [[BOM-dat]] - [[diode-dat]] - [[NXP-diode-dat]] - [[NXP-dat]] - [[app-dat]] - [[X12-dat]]
 
 
 

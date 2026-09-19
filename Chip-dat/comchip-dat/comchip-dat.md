@@ -1,0 +1,36 @@
+
+
+# comchip-dat
+
+- [[comchip-dat]] - [[diode-dat]] - [[TVS-dat]]
+
+CZRQR52
+
+CZRQR52C2-HF Thru. CZRQR52C39-HFVoltage 2 to 39 Volts
+
+Power 125 mWatts
+
+
+- CZRQR52C2-HF
+- CZRQR52C2V2-HF
+- CZRQR52C2V4-HF
+- CZRQR52C2V7-HF
+- CZRQR52C3-HF
+- CZRQR52C3V3-HF == z3 
+- CZRQR52C3V6-HF
+- CZRQR52C3V9-HF
+- CZRQR52C4V3-HF
+- CZRQR52C4V7-HF
+- CZRQR52C5V1-HF
+- CZRQR52C5V6-HF
+
+??
+
+![](2026-09-19-17-50-56.png)
+
+
+
+
+## ref
+
+

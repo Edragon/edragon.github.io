@@ -33,6 +33,11 @@
 
 ## chip 
 
+- [[comchip-dat]] - [[diode-dat]]
+
+- [[diode-dat]] - [[NXP-diode-dat]] - [[NXP-dat]]
+
+
 
 ## ST
 

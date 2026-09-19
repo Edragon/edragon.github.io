@@ -1,6 +1,12 @@
 
 # TVS-dat
 
+
+
+
+
+
+
 ## SMBJ5.0A
 
 Recommended SMBJ Model:
@@ -34,6 +40,12 @@ STS321070U162  == Eaton TVS diode ESD supp. SOD-323 size, 7 op. voltage, 165 pF,
 
 
 ## chip and code 
+
+
+- [[NXP-diode-dat]] - [[TVS-dat]]
+
+- [[comchip-dat]] - [[diode-dat]] - [[TVS-dat]]
+
 
 ESDU5V0H4 - U5H4 - ESD Protection Device
 
