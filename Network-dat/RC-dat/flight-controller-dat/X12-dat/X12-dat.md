@@ -11,6 +11,24 @@
 
 
 
+
+## common error
+
+burned on [[battery-3s-dat]], can not be shorted like the image, the images is wrong  
+
+![](2026-09-19-16-23-02.png)
+
+- [[SOD-923-dat]] - [[PCB-footprint-dat]] - [[X12-dat]]
+
+微型稳压二极管 / 肖特基二极管 / TVS管
+
+特征吻合度：中。部分小封装（如 SOD-923、DFN 等超小型封装，有时视觉上容易与 0402 混淆）表面会带有单行丝印。
+
+关于代码：在 SMD 代码规范中，很多二极管或瞬态抑制管会用简写字母代表型号（例如以 Z3 开头的通常对应部分稳压管或特定逻辑/电源IC），后面的 h 或小写字母往往代表工厂批次、电压档位细分或封装内部代码。
+
+
+
+
 ## build info 1
 
 

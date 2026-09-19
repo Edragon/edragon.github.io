@@ -74,6 +74,10 @@ This value represents the component thickness, used to compensate for the nozzle
 
 
 
+## super small footprint 
+
+- [[SOD-923-dat]] - [[PCB-footprint-dat]] - [[X12-dat]]
+
 
 ## pitch large footprint
 

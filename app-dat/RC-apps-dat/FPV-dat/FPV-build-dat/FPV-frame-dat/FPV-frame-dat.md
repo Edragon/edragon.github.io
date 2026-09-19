@@ -6,6 +6,13 @@
 
 - [[FPV-frame-MARK-dat]]
 
+
+## motor and propeller mount 
+
+
+
+
+
 ## ref 
 
 

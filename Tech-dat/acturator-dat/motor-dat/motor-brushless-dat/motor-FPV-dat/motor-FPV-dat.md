@@ -2,6 +2,9 @@
 # motor-FPV-dat
 
 
+- [[motor-FPV-dat]] - [[propeller-FPV-dat]]
+
+
 - [[motor-brushless-dat]] - [[motor-FPV-dat]] - [[motor-FPV-mount-dat]] 
 
 - [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
@@ -16,6 +19,26 @@
 - [[ESC-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]]
 
 
+
+
+## installation 
+
+- [[quadcopter-dat]] - [[FPV-dat]] - [[motor-FPV-dat]]
+
+
+### option normal - prop in 
+
+see [[mobula8-dat]] 
+
+
+![](2026-09-19-16-25-45.png)
+
+
+### option reversed - prop out 
+
+![](2026-09-19-16-00-49.png)
+
+![](2026-09-19-16-03-50.png)
 
 
 

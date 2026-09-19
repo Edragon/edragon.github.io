@@ -17,6 +17,7 @@
 - [[mobula6-dat]] - [[mobula7-dat]]
 
 
+- [[motor-FPV-dat]]
 
 ## tech and build up 
 
