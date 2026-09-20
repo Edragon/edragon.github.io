@@ -16,7 +16,7 @@
 
 ## power-tools
 
-- [[fab-drill-dat]] - [[drill-electric-dat]] - [[drill-bit-dat]] - [[tools-power-dat]]
+- [[fab-drill-dat]] - [[drill-electric-dat]] - [[drill-bit-dat]] - [[tools-power-dat]] - [[drill-bit-step-dat]]
 
 
 
