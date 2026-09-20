@@ -11,6 +11,9 @@
 
 - [[protection-power-dat]] - [[power-dat]] 
 
+
+
+
 ## chip and companies
 
 
@@ -87,7 +90,12 @@ TPS82084/5是经优化的2A/3A降压转换器MicroSiP模块，兼具小型解决
 
 
 
+## design deselection 
 
+
+compact and high HV input 
+
+integrated [[mosfet-dat]] - [[dcdc-down-dat]] - [[JW5017-dat]] - [[joulwatt-dat]] - [[caddx-ant-dat]]
 
 
 

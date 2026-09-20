@@ -3,7 +3,6 @@
 
 - [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
 
-- [[caddxFPV-dat]] - [[camera-FPV-dat]] - [[camera-wireless-dat]]
 
 - [[runcam-dat]] 
 
@@ -27,6 +26,22 @@
 
 
 
+## installation 
+
+- [[bolt-dat]] == M2 x 6? == [[camera-FPV-dat]]
+
+
+
+
+## super-mini 1gram FPV camera
+
+not yet break it down, only the back side now 
+
+- [[EEPROM-dat]] - [[LDO-dat]] - [[crystal-dat]]
+
+![](2026-09-20-14-39-02.png)
+
+![](2026-09-20-14-39-44.png)
 
 
 ## camera 
@@ -59,9 +74,12 @@
 
 ## maker 
 
+- [[caddx-dat]] - [[camera-FPV-dat]] - [[camera-wireless-dat]]
+
+
 - [[caddx-dat]] - [[runcam-dat]]
 
-- [[caddx-RatelPro-dat]] - [[caddx-dat]]
+- [[caddx-RatelPro-dat]] - [[caddx-dat]] - [[caddx-ANT-dat]]
 
 - [[caddx-ratel2-dat]]
 

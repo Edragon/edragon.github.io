@@ -58,5 +58,16 @@ Ranked by cost-effectiveness:
 - But don't over-sharpen (it creates white edging and looks worse)
 
 
+
+
+
+## chip 
+
+
+- [[chip-cn-dat]] - [[fullhan-dat]] - [[FH8686-dat]] - [[media-ISP-dat]] - [[video-dat]] - [[video-analog-dat]] - [[caddx-ant-dat]] 
+
+
+
+
 ## ref 
 
