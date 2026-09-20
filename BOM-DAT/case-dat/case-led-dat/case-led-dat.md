@@ -9,12 +9,14 @@
 
 ![](2026-09-17-19-51-59.png)
 
+- [[NWI1126-dat]]
+
 
 
 ## B-004 case 
 
 
-case used by [[NWI1072-dat]] - [[NWI1126-dat]]
+case used by [[NWI1072-dat]] 
 
 
 ![2023-09-12-14-52-14.png](2023-09-12-14-52-14.png)
