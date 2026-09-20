@@ -25,7 +25,7 @@
 - [[power-limit-dat]] - [[FPV-dat]] - [[protection-power-dat]] - [[power-dat]] - [[power-smoke-stopper-dat]]
 
 
-
+- [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
 
 ## build 5in
 

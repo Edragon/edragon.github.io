@@ -3,7 +3,7 @@
 
 - [[CONN-cable-JST-dat]] - [[XH2.54-dat]] - [[PH2.0-dat]] - [[SM2.54-dat]]
 
-- [[SH1.0-dat]] - [[GH1.25-dat]] - [[ZH1.5-dat]] - [[1.25-dat]] - [[HY2.0-dat]] - [[MX2.0-dat]]
+- [[SH1.0-dat]] - [[GH1.25-dat]] - [[ZH1.5-dat]] - [[JST1.25-dat]] - [[HY2.0-dat]] - [[MX2.0-dat]]
 
 - [[VH3.96-dat]]
 
@@ -12,6 +12,26 @@
 - [[CONN-qwiic-dat]]
 
 ![](2026-04-04-20-31-28.png)
+
+
+
+
+## 1.5~0.8mm 
+
+- [[JST-1.25-dat]] == [[JST-GH1.25-dat]] - [[JST-MX1.25-dat]]
+- [[JST-SH1.0-dat]]
+- [[JST-SUR0.8-dat]] 
+
+
+
+### apps 
+
+- [[camera-FPV-dat]] - [[CONN-JST-dat]]
+
+- [[JST-1.25-dat]] == normally on the [[camera-FPV-dat]] end 
+- [[JST-SH1.0-dat]] == normally on the [[VTX-dat]] or [[FC-AIO-dat]] end
+
+![](2026-09-20-15-49-56.png)
 
 
 

@@ -24,12 +24,41 @@
 
 - [[camera-FPV-dat]] - [[camera-FPV-angle-dat]]
 
+- [[lens-dat]]
+
+
+
 
 
 ## installation 
 
+
+
+### bolt lock install 
+
+for [[caddx-ratelpro-dat]] - [[caddx-ant-dat]]
+
 - [[bolt-dat]] == M2 x 6? == [[camera-FPV-dat]]
 
+side view install M2 x6 
+
+![](2026-09-20-15-29-35.png)
+
+![](2026-09-20-15-30-35.png)
+
+- [[FUS-X111-dat]]
+
+![](2026-09-20-15-31-48.png)
+
+
+- [[cable-dat]] - [[CONN-dat]]
+
+
+
+
+### canopy belting hold install 
+
+- [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
 
 
 
@@ -42,6 +71,13 @@ not yet break it down, only the back side now
 ![](2026-09-20-14-39-02.png)
 
 ![](2026-09-20-14-39-44.png)
+
+
+## wiring 
+
+- [[camera-FPV-dat]] - [[CONN-JST-dat]]
+
+
 
 
 ## camera 
@@ -79,7 +115,7 @@ not yet break it down, only the back side now
 
 - [[caddx-dat]] - [[runcam-dat]]
 
-- [[caddx-RatelPro-dat]] - [[caddx-dat]] - [[caddx-ANT-dat]]
+- [[caddx-RatelPro-dat]] - [[caddx-dat]] - [[caddx-ANT-dat]] - [[caddx-ratel2-dat]] - [[caddx-baby-ratel2-dat]]
 
 - [[caddx-ratel2-dat]]
 

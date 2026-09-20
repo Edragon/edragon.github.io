@@ -22,52 +22,15 @@
 
 - [[rack-dat]]
 
-## FPV camera canopy 
-
-![](2026-07-01-17-26-14.png)
-
-![](2026-07-01-17-27-11.png)
-
-![](2026-07-01-17-29-01.png)
-
-digital DJI O3 
-
-![](2026-07-01-17-29-26.png)
-
-![](2026-07-01-17-32-23.png)
 
 
-- Item Name: Camera mount bracket for Mobula6 2024
-- Material: PP
-- Color option: Transparent black/Transparent white
-- Net Weight: 0.62g
-- Camera angle could adjustable easily
-- Transparent black for Mobula62024, transparent for Mobula6 ECO 2024
-- Package Included:
-- 1 x Camera mount bracket
-- 2 x M1.2×5 screws
-
-![](2026-07-01-17-45-39.png)
-
-
-- [[betaFPV-air-2-dat]] - [[betaFPV-dat]] == lens dia 9-10mm 
-
-![](2026-07-01-17-54-28.png)
-
-
-## ref 
-
-- [[insta360]] - [[gopro]] - [[insta360-go-rack]] - [[gopro-amount]]
-
-
-
-# camera-installation-dat.md
-
-- [[camera-installation-dat]] - [[sensor-camera-dat]] - [[Hose-Clamp-dat]]
 
 ## on the tube 
 
 - [[Hose-Clamp-dat]]
+
+
+- [[camera-installation-dat]] - [[sensor-camera-dat]] - [[Hose-Clamp-dat]]
 
 
 ## on the rack 
@@ -82,7 +45,16 @@ digital DJI O3
 ![](2026-04-02-18-29-42.png)
 
 
+## on the RC
+
+- [[RC-dat]] - [[rc-aircraft-dat]] - [[FPV-dat]]
+
+- [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
+
+
+
 
 
 ## ref 
 
+- [[insta360]] - [[gopro]] - [[insta360-go-rack]] - [[gopro-amount]]

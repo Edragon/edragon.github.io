@@ -130,6 +130,33 @@ dia. 9 x 14 x 14
 Caddx蜗牛平头哥二代穿越机摄像头fpv摄像机夜视镜头无人机ratel2
 
 
+MODEL RATEL 2
+传感器1/1.8" Inch Starlight Sensor
+水平分辨率 1200TVL
+水平视场角 - 165°
+镜头 - 2.1mm lens
+视频制式 - NTSC & PAL (可调)
+图像比例 - 4:3 &16:9(可调)
+宽动态 - Super WDR
+降噪 - 3DNR
+低照度 - 0.0001LUX
+视频输出
+CVBS
+日夜
+外部/内部/黑白/彩色
+语言
+(ENGLISH/中文/繁體中文/pycckM
+/ESPAÑOL/ITALIANO/FRANCAIS/
+POLSKIM/PORTUGUES/日本语)
+电子快门
+PAL:1/50~100,000;NTSC:1/60~100,0005-40V
+宽电压输入
+-20°℃~+60°℃
+工作温度
+重量
+5.9g
+19*19*20mm
+外形尺寸
 
 ### nano CADDX 蜗牛 Nano
 
