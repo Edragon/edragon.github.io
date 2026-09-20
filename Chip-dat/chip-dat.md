@@ -38,6 +38,9 @@ from a to z
 
 - [[MPS-dat]]
 
+- [[murata-dat]] - [[MEJ2-dat]] - [[chip-dat]]
+
+
 - [[AVR-dat]] - [[attiny13-dat]] - [[avr-sdk-dat]] - [[attiny-dat]]
 
 - [[dallas-dat]] - [[diodes-dat]]

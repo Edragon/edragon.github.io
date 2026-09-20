@@ -70,8 +70,15 @@ The AEC-Q100 qualified LDOs and LDOs operating in wide temperature ratings are i
 
 
 
+## design selection 
+
+
+HV Negative
+- [[AD-LDO-dat]] - [[LT3093-dat]]
+
 ## chip 
 
+- [[AD-LDO-dat]] - [[LT3093-dat]]
 
 - [[diodes-dat]] - [[AP62200-dat]] - [[LDO-dat]]
 

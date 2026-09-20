@@ -8,7 +8,7 @@
 
 - [[TI-power-dcdc-boost-down-dat]] - [[TI-power-dat]] - [[TI-dat]]
 
-
+- [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]]
 
 
 ## LTC3780
@@ -27,6 +27,8 @@ High Efficiency, Synchronous, 4-Switch Buck-Boost Controller
 - [[AD-power-dat]]
 
 - [[OCX-dat]] - [[OC6800B-dat]] - [[dcdc-boost-down-dat]] == 内置 100V/5A MOS 升压/升降压型 DC-DC 
+
+- [[murata-dat]] - [[MEJ2-dat]] - [[chip-dat]]
 
 
 ## combination 

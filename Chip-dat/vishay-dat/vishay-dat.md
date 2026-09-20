@@ -20,6 +20,13 @@ These modules can accept bare fiber inserted directly into the plastic shroud, s
 
 - [[mosfet-dat]]
 
+## SI4126
+
+N-Channel 30 V (D-S) MOSFET - Si4126DY
+
+SI4126 / N-mos / SO-8 / 30V / 39A 
+
+
 ## SI2301-dat 
 
 ![](2024-10-06-15-40-30.png)

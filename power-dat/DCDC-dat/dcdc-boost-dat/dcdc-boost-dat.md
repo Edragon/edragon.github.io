@@ -5,7 +5,7 @@
 
 legacy wiki page - https://www.electrodragon.com/w/DC-DC_Boost
 
-
+- [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]]
 
 - [[OPM1117-dat]] - [[OPM1013-dat]] - [[OPM1032-dat]] - [[OPM1089-dat]] - [[OPM1133-dat]] - [[OPM1137-dat]] - [[OPM1175-dat]]
 

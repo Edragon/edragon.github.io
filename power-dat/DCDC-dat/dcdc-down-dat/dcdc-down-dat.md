@@ -11,7 +11,7 @@
 
 - [[protection-power-dat]] - [[power-dat]] 
 
-
+- [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]]
 
 
 ## chip and companies

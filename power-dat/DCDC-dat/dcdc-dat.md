@@ -30,12 +30,15 @@ legacy wiki page - https://w.electrodragon.com/w/Category:DC-DC#Schematic
 
 - [[dcdc-dat]] - [[ldo-dat]] - [[dc-voltage-monitor-dat]] - [[voltage-supervisor-dat]]
 
-- [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]]
+- [[dcdc-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[charge-pump-dat]] - [[dcdc-boost-down-dat]]
 
 
 
 
 ## chip companies 
+
+
+- [[murata-dat]] - [[MEJ2-dat]] - [[chip-dat]] - [[dcdc-dat]] 
 
 - [[injoinic-dat]] - [[consonance-dat]] - [[AMS-dat]] - [[microne-dat]] - [[richtek-dat]]
 
