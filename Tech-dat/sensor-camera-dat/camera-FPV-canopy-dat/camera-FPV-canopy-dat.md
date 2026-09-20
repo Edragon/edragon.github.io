@@ -7,6 +7,9 @@
 - [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
 
 
+- [[camera-FPV-canopy-dat]] - [[FPV-accessories-dat]]
+
+
 
 
 
@@ -62,6 +65,31 @@ digital DJI O3
 - [[betaFPV-air-2-dat]] - [[betaFPV-dat]] == lens dia 9-10mm 
 
 ![](2026-07-01-17-54-28.png)
+
+
+
+
+
+## canopy and camera mount 
+
+- hard case 
+https://www.printables.com/model/517225-mobula-8-hard-case
+
+- thumb holder / Thumb - Camera Mount
+
+https://cults3d.com/en/3d-model/gadget/mobula8-thumb-mount = 0.55U 
+
+https://www.printables.com/model/774692-mobula-7-8-hawkeye-thumb-camera-mount
+
+![](2025-09-12-13-16-45.png)
+
+for insta360 go 2
+
+![](2025-09-12-13-18-59.png)
+
+![](2025-09-12-13-19-59.png)
+
+- [[camera-FPV-dat]]
 
 
 

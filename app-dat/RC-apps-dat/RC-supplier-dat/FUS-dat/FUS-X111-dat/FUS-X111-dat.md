@@ -17,7 +17,69 @@
 
 
 
+
+## thrust
+
+- [[Thrust-dat]]
+
+
+
+
 ## info 
+
+
+Wheelbase / Size
+• Official data: 111mm / 155 × 173 × 38mm
+
+**Dry weight**
+• Official data: 117g (complete aircraft including FPV transmitter/camera, excluding battery)
+
+**Motors**
+• Official data: FUS 1106 3800KV ×4
+
+**Propellers**
+• Official data: 2540-3 (2.5-inch three-blade)
+
+Flight controller / ESC
+• Official data: 20A & F411 AIO
+
+**Official recommended battery**
+• Official data: 2–4S 450–650mAh
+
+Official flight time
+• Official data: 4S 500mAh → approx. 8 minutes indoors
+
+⚠️ Note: The 3800KV value indicates that this aircraft is intended for 4S operation (at 3S the rotor speed is relatively low).
+
+🎯 Part II: Thrust-to-weight ratio calculation (TWR = total thrust ÷ total weight)
+
+Thrust is estimated (no official bench data; estimated based on 1106 + 2540-3 + duct losses):
+
+3S configuration (estimated total thrust ~640g)
+- 450mAh (45g) → total weight 162g → TWR 4.0:1 (battery weight 28%)
+- 650mAh (60g) → total weight 177g → TWR 3.6:1 (34%)
+- 850mAh (75g) → total weight 192g → TWR 3.3:1 (39%)
+
+4S configuration (estimated total thrust ~960g)
+- 450mAh (58g) → total weight 175g → TWR 5.5:1 (33%)
+- 500mAh (65g) → total weight 182g → TWR 5.3:1 (36%)
+- 650mAh (78g) → total weight 195g → TWR 4.9:1 (40%)
+
+💡 Part III: Conclusion — Best battery
+
+⭐️ Preferred: 4S 500–650mAh (XT30)
+- TWR 4.9–5.3:1 (more than enough thrust for a ducted quad, better wind resistance)
+- Battery weight is 36–40% of total aircraft weight (right in the “battery ≤40% of total weight” endurance sweet spot)
+- Best match for 3800KV motors
+
+Second choice: 3S 650–850mAh (XT30)
+- TWR 3.3–3.6:1 (usable, but thrust is about 1/3 weaker)
+- Compatible with your existing charger
+
+❌ Not recommended: over 850mAh (battery share >40%, diminishing returns in endurance and making the aircraft heavier)
+
+
+
 
 screws 
 

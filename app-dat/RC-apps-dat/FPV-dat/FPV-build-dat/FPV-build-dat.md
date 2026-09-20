@@ -27,6 +27,9 @@
 
 - [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
 
+- [[FPV-accessories-dat]]
+
+
 ## build 5in
 
 | part                      | build 1                          |
