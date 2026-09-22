@@ -288,15 +288,16 @@ Current Push vs Pull: Power Supply & LED
 ## build 
 
 
-build 6 - [[natlinear-dat]] - [[LN2566-dat]] 
+build 7 - no drive chip 
 
-30AL == [[mosfet-dat]]
+- [[2N7002-dat]] 
 
-H7，输出13v，原9V灯片用13V可以用 降压 限流电阻更换以后，可以适应不同的灯珠，可玩性很高
+![](2026-09-22-19-56-14.png)
 
-![](2026-09-08-16-12-16.png)
+![](2026-09-22-19-56-25.png)
 
-![](2026-09-08-16-12-23.png)
+
+
 
 
 build 5 - [[battery-charger-dat]] - [[IU5918-dat]] - [[sand-tech-dat]]
@@ -309,12 +310,6 @@ build 5 - [[battery-charger-dat]] - [[IU5918-dat]] - [[sand-tech-dat]]
 
 ![](2026-09-08-15-12-01.png)
 
-
-build 4 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]] - [[car-dat]] - [[rectifier-dat]] - [[diode-dat]]
-
-![](2026-09-06-02-34-46.png)
-
-![](2026-09-06-02-36-57.png)
 
 
 ### build 3

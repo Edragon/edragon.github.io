@@ -43,7 +43,7 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP6566-dat]] - [[car-fast-charger-dat]] - [[battery-charger-dat]]
 
-
+- [[IP5513-dat]]
 
 
 ## Chip Series 

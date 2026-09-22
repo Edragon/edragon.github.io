@@ -15,6 +15,12 @@
 
 
 
+
+## flexiable connect - wire 
+
+![](2026-09-22-20-10-09.png)
+
+
 ## vertical connect 
 
 ![](2026-09-22-19-32-44.png)

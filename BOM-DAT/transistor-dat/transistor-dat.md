@@ -226,7 +226,9 @@ TMBT3906,LM贴片SOT-23丝印SW电流:150mA电压:50V PNP三极管(BJT)
 
 Y2 
 
+`0222A` 
 
+The component you are referring to is most likely the MMBT2222A (or 2N2222A), an extremely common NPN bipolar switching transistor in a SOT23-3 package.
 
 
 ## ref 
