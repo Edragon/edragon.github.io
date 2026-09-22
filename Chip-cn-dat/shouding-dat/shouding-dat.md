@@ -4,6 +4,9 @@
 
 
 
+A6169 - [[SD8942-dat]] [[shouding-dat]] [[dcdc-down-dat]] - 600KHz, 16V，2A Synchronous Step-Down Converter - [[SD8942-datasheet.pdf]]
+
+
 B628 - [[SDB628-dat]] - [[shouding-dat]]
 
 

@@ -48,6 +48,19 @@ https://doc.zh-jieli.com/vue/#/home
 - [[amplifier-audio-dat]]
 
 
+## BP1V081
+
+- [[TP4054-dat]]
+
+- [[jieli-dat]] - [[BP1V081-dat]] 
+
+![](2026-09-22-21-33-48.png)
+
+![](2026-09-22-21-33-59.png)
+
+![](2026-09-22-21-34-12.png)
+
+
 ## AC6939 
 
 AC6939B SOP16 

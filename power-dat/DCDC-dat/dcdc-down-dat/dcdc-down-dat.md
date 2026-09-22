@@ -16,6 +16,9 @@
 
 ## chip and companies
 
+- [[developer-dat]] - [[dcdc-down-dat]] - [[DP3115-dat]]
+
+- [[SD8942-dat]] [[shouding-dat]] [[dcdc-down-dat]] 
 
 - [[HXC-dat]] - [[H4012-dat]] - [[dcdc-down-dat]] == 40Vin 
 

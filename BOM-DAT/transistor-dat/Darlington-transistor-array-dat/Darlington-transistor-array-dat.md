@@ -3,6 +3,9 @@
 
 
 
+- [[TI-motor-dat]] - [[ULN2003-dat]] - [[Darlington-transistor-array-dat]] - [[ULN2804-dat]] - [[transistor-dat]]
+
+
 ## ULN2804 
 
 The ULN2804 is an integrated circuit containing eight high-voltage, high-current NPN Darlington transistor pairs. It handles up to 500 mA per channel and 50V outputs, optimized with built-in clamp diodes to drive heavy peripheral loads like relays, stepper motors, and LED displays from 6V to 15V CMOS logic.

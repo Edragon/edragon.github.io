@@ -17,6 +17,13 @@
 
 - [[DRV8412-dat]] - [[TI-motor-dat]] - [[DRV84x2-dat]]
 
+
+- [[TI-motor-dat]] - [[ULN2003-dat]] - [[Darlington-transistor-array-dat]] - [[ULN2804-dat]] - [[transistor-dat]]
+
+
+
+
+
 DRV8701 Brushed DC Motor Full-Bridge Gate Driver
 
 Features

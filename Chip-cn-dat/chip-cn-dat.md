@@ -42,7 +42,7 @@
 
 - [[everanalog-dat]]
 
-
+- [[Feeling-Technology-dat]] - [[FP6291-dat]]
 
 - [[fullhan-dat]] - [[FH8686-dat]] - [[media-ISP-dat]] - [[video-dat]] - [[video-analog-dat]] - [[caddx-ant-dat]] 
 
@@ -124,6 +124,7 @@
 
 - [[SOCMCU-dat]]
 
+- [[shouding-dat]]
 
 
 

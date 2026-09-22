@@ -15,15 +15,37 @@
 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]] - [[LN2516-dat]]
 
 
+
+
+## NP4P06
+
+build in 
+
+NP4P06 + NCE6003
+
+- [[natlinear-dat]] - [[NCEpower-mosfet-dat]] - [[NP4P06-dat]] - main [[NCE6003-dat]] 
+
+NP4P06 (specifically part number NP4P06MR-G) is a P-channel enhancement mode MOSFET manufactured by Natlinear (南麟电子).
+
+
+
+
+## LN2266
+
 LN2266 - Ultra-small, Low-voltage Start-up PWM Controlled Boost DC/DC Regulator
 
 ![](2026-06-02-20-34-26.png)
 
-## Overview
+
+
+
+
+
+### Overview
 
 The LN2266 is a miniature, high-efficiency, boost DC/DC regulator. The circuit consists of a current-mode PWM control loop, error amplifier, ramp generation circuit, comparator, and a power switch. It operates efficiently and stably across a wide load range. With a start-up voltage below 1V, it can be powered by 1-4 battery cells. When using a lithium battery, it provides an output current of up to 1100mA. The 17μA quiescent current and up to 90% conversion efficiency effectively extend battery life. The output voltage can be set by adjusting two external resistors. It includes a built-in 2.5A power switch.
 
-## Applications
+### Applications
 
 - MP3 / PDA
 - Electronic Dictionaries / Learning Machines
@@ -32,7 +54,7 @@ The LN2266 is a miniature, high-efficiency, boost DC/DC regulator. The circuit c
 - Wireless Communication Equipment
 - DSC, LCD Displays
 
-## Features
+### Features
 
 | Feature | Specification |
 | :--- | :--- |

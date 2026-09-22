@@ -14,5 +14,17 @@ STP11NK50Z - N-channel 500 V, 0.48 Ω , 10 A TO-220, TO-220FP, D2PAK Zener-prot
 
 
 
+
+- [[Feeling-Technology-dat]] - [[FP6291-dat]] - [[mosfet-power-dat]] - [[fuman-dat]]
+
+
+VDS = 30V,ID =86A
+
+
+FM 3090SL / CMD3090L / SLD3090T
+
+![](2026-09-22-21-45-58.png)
+
+
 ## ref 
 

@@ -80,6 +80,7 @@
 
 - [[power-distribution-dat]]
 
+- [[load-dat]]
 
 ### Code and SDK 
 
