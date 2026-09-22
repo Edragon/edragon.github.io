@@ -66,23 +66,21 @@ physical installation
 
 
 
-## standalone VTX module
+## maker
 
 - [[TX800-dat]]
 
-
-
-## digital camera + VTX integrated alone system ? 
+digital camera + VTX integrated alone system ? 
 
 - [[camera-digital-dat]]
 
 - [[DJI-dat]] - [[DJI-air-unit-dat]] - [[DJI-O4-dat]] == 100 usd - [[DJI-O3-dat]] 
 
-- [[runCAM-dat]]
+- [[runCAM-dat]] - [[caddx-dat]]
 
-- [[caddxFPV-dat]]
+- [[opensource-dat]] - [[openIPC-dat]] ?? - [[IMX307-dat]] - [[VTX-dat]]
 
-
+- [[openVTX-dat]]
 
 
 

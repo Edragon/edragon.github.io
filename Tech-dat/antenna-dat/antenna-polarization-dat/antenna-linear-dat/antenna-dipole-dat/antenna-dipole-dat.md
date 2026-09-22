@@ -5,7 +5,7 @@
 - [[antenna-dat]] - [[antenna-linear-dat]] - [[antenna-dipole-dat]]
 
 
-- [[ELRS-TX-dat]] - [[antenna-dipole-dat]]
+- [[ELRS-RX-dat]] - [[antenna-dipole-dat]]
 
 ## Sleeve Dipole
 

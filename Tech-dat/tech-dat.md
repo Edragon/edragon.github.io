@@ -22,7 +22,7 @@
 
 - [[robot-dat]] - [[robotic-dat]]
 
-- [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]]
+- [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]] - [[antenna-polarization-dat]]
 
 - [[fab-mechanics-dat]] - [[fab-materials-dat]] - [[alu-extrusion-dat]]
 
@@ -242,7 +242,7 @@
 
 - [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] - [[speaker-dat]]
 
-- [[video-dat]] - [[video-wireless-dat]] - [[HDMI-dat]] - [[VTX-dat]]
+- [[video-dat]] - [[video-wireless-dat]] - [[HDMI-dat]] - [[VTX-dat]] - [[VRX-dat]]
 
 
 ## Utilities 

@@ -14,10 +14,15 @@
 
 ## double lolipop 
 
-5dbi 
+5dbi ~ 6dbi  
 
 ![](2026-09-23-02-49-15.png)
 
+
+
+## high gain 3.5 dbi 
+
+![](2026-09-23-03-08-10.png)
 
 ## info 
 
