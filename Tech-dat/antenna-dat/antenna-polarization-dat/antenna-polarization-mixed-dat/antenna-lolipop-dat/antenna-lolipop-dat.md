@@ -5,11 +5,29 @@
 
 
 
+- [[antenna-linear-dat]]
+
+
+
 - [[antenna-polarization-mixed-dat]] - [[antenna-helical-dat]] - [[antenna-lolipop-dat]]
 
 - [[CONN-SMA-dat]]
 
 
+
+## lolipop inside 
+
+![](2026-09-23-03-14-35.png)
+
+
+
+## tech 
+
+1️⃣ LDS = Laser Direct Structuring（激光直接成型） —— 一种制造工艺
+
+"LDS"在国内 FPV 天线里算中高端工艺标签。
+
+**3D 形状**  • 说明: 能贴曲面/复杂结构（不止平面）  **精度高**  • 说明: 激光定位 0.1mm 级
 
 
 ## double lolipop 
