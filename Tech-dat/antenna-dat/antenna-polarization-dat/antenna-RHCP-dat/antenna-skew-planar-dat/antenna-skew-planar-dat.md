@@ -3,13 +3,7 @@
 
 # antenna-skew-planar-dat
 
-
-
-== lolipop
-
-
-
-
+- [[antenna-lolipop-dat]] - [[antenna-helical-dat]]
 
 
 ## ref 
