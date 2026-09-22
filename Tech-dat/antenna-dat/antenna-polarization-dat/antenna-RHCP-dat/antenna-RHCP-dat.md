@@ -13,6 +13,20 @@
 - [[antenna-RHCP-dat]] - [[antenna-panel-dat]] (shape-only) - [[antenna-patch-dat]]
 
 
+## maker 
+
+- [[trueRC-dat]] - [[MapleLeaf-dat]] - [[GEPRC-dat]] - [[Foxeer-dat]]
+
+
+
+## DIY 自绕 🛠️
+
+- 5-turn / 7-turn 螺旋（铜线 + 塑料管 + 接头）
+- 成本 ¥30-60，教程一搜一大把
+- 优点：极便宜 + 有乐趣（你的动手能力完全够）
+- 缺点：需调校（驻波/阻抗）
+
+
 
 
 ## Right-Hand Circularly Polarized (RHCP) "Mushroom" Antenna Explained
