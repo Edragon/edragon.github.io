@@ -10,6 +10,19 @@
 - [[CONN-SMA-dat]]
 
 
+
+
+## double lolipop 
+
+5dbi 
+
+![](2026-09-23-02-49-15.png)
+
+
+## info 
+
+mushroom + lolipop == 3dbi 
+
 "蘑菇 / 棒棒糖"的经典设计 = 圆极化天线：
 
 - 蘑菇（Mushroom） = Skew Planar Wheel / Cloverleaf 类 → 多个倾斜叶片（相差 90°）→ 圆极化 ✅
@@ -36,6 +49,11 @@
 - 储存温度/StorageTemperature:-30C~60C
 
 
+## with installation hole 
+
+![](2026-09-23-02-37-31.png)
+
+- [[installation-antenna-dat]] - [[antenna-lolipop-dat]]
 
 
 ## ref 

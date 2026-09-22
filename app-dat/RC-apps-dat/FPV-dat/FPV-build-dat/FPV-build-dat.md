@@ -33,7 +33,7 @@
 
 - [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
 
-- [[antenna-dat]]
+- [[antenna-dat]] - [[antenna-FPV-dat]]
 
 - [[ELRS-dat]] - [[ELRS-TX-dat]] - [[ELRS-RX-dat]] - [[rc-protocols-dat]]
 

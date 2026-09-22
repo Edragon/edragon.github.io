@@ -5,6 +5,11 @@
 - [[installation-antenna-dat]] - [[antenna-dat]] - [[installation-dat]] - [[installation-tube-dat]]
 
 
+## install method 3 
+
+- [[installation-antenna-dat]] - [[antenna-lolipop-dat]]
+
+
 ## foldable antenna stand
 
 ![](2026-07-21-20-38-46.png)
