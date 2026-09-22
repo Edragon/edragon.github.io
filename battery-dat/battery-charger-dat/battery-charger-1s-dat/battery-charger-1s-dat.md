@@ -33,6 +33,7 @@
 ## chip 
 
 
+- [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]] - [[battery-charger-1s-dat]]
 
 
 - most common used but maybe not the best == [[TP4056-dat]] - [[TP-dat]]

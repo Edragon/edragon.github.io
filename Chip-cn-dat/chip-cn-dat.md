@@ -9,7 +9,13 @@
 
 ## chips 
 
+
+
 - [[chip-dat]] - [[chip-cn-dat]]
+
+
+- [[3peak-dat]]
+
 
 - [[aosong-dat]]
 
@@ -42,7 +48,11 @@
 
 - [[SIMCOM-dat]]  - [[A7670-dat]] - [[SIM800-dat]]
 
+- [[SOCMCU-dat]]
+
 - [[holtek-dat]] - [[hcwsemi-dat]]
+
+- [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]]
 
 - [[kendryte-dat]] - [[K230D-dat]]
 
@@ -78,7 +88,7 @@
 
 - [[ismartware-dat]]
 
-- [[3peak-dat]]
+
 
 - [[chipsea-dat]]
 
@@ -91,6 +101,11 @@
 - [[DJI-dat]] - [[xiaomi-dat]] - [[huawei-dat]]
 
 - [[AIT-dat]] - [[rf-star-dat]]
+
+
+
+
+
 
 ## ref 
 

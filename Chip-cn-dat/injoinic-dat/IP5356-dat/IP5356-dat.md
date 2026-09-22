@@ -3,6 +3,18 @@
 
 - [[IP5356-dat]] - [[power-bank-dat]] - [[injoinic-dat]]
 
+
+
+## build 5 
+
+![](2026-09-22-19-16-07.png)
+
+- [[mosfet-dat]] - [[XB4908-dat]] - [[IP5356-dat]]
+
+
+
+
+
 ## board 4 
 
 ![](2026-01-30-14-10-39.png)

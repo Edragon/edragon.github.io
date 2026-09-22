@@ -8,6 +8,10 @@
 
 ## Chips 
 
+
+	
+M031LD2AE
+
 - [[nuvoton-dat]] - [[N76E003-dat]] - [[DOD1077-dat]]
 
 N79E825A/824A/823A/822A DataSheet

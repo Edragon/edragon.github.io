@@ -32,6 +32,8 @@ from a to z
 
 - [[JOULwatt-dat]]
 
+- [[nuvoton-dat]]
+
 - [[NVE-dat]]
 
 - [[microchip-dat]] - [[microchip-mcu-dat]] - [[macom-dat]]
