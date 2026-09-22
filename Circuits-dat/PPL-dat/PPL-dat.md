@@ -1,7 +1,7 @@
 
 # PPL-dat
 
-
+- [[ad-digital-dat]]
 
 - [[PPL-dat]] - [[frequency-dat]] - [[Digital-Synthesizer-dat]] - [[CLOCK-SYNTHESIZER-dat]] - [[clock-dat]]
 

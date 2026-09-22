@@ -2,6 +2,7 @@
 # amplifier-dat
 
 
+- [[amplifier-power-dat]]
 
 - [[amplifier-video-dat]] - [[THS7374-dat]] - [[amplifier-dat]]
 

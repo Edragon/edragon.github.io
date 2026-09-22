@@ -24,7 +24,12 @@
 
 - [[ADC-dat]] - [[DAC-dat]]
 
-- [[Digital-Synthesizer-dat]]
+- [[Digital-Synthesizer-dat]] - [[digital-dat]]
+
+
+- [[logic-divider-dat]]
+
+
 
 
 ## chip 

@@ -24,11 +24,6 @@
 
 
 
-## high performance
-
-- [[ME6217-dat]] - [[microne-dat]]
-
-
 
 
 ## common categories 
@@ -71,6 +66,17 @@ The AEC-Q100 qualified LDOs and LDOs operating in wide temperature ratings are i
 
 
 ## design selection 
+
+
+high performance
+
+- [[ME6217-dat]] - [[microne-dat]]
+
+HV 
+
+Nisshinbo Micro Devices Inc. - [[Nisshinbo-dat]] - [[NJM7800-dat]]
+
+
 
 
 HV Negative
