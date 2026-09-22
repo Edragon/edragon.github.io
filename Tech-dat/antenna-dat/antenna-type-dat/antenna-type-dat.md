@@ -2,6 +2,11 @@
 # antenna-type-dat
 
 
+by - [[antenna-polarization-dat]] - [[antenna-type-dat]]
+
+
+
+
 - [[antenna-dat]]
 
 - [[antenna-ceramic-dat]] - [[antenna-lolipop-dat]] 
