@@ -293,11 +293,21 @@ Or a *design name*, or a project name...
 
 AC1752AP 
 
+- [[jieli-dat]] - main [[AC1752-dat]] - [[NS4263-dat]] - [[nsiway-dat]]
+
+build 1 
+
 ![](2026-08-30-23-15-38.png)
+
+![](2026-09-22-19-45-12.png)
+
 
 AS18AP16383
 
 ![](2026-08-30-23-12-00.png)
+
+- [[TP4054-dat]] - main [[AS18AP-dat]] - [[jieli-dat]]
+
 
 
 

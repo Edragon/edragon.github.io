@@ -86,8 +86,14 @@ When we need IBAT＝0.1A RPROG＝10kΩ
 
 ## build 
 
+build 1 SCH 
+
 ![](2026-07-31-19-58-33.png)
 
+
+build 2 
+
+- [[TP4054-dat]] - main [[AS18AP-dat]] - [[jieli-dat]]
 
 ## ref 
 

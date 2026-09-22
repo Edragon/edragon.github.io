@@ -21,7 +21,7 @@
 
 - [[allwinner-dat]] - [[allwinner-D1-dat]] - [[V3S-dat]] - [[F1C200-dat]] - [[F1C100-dat]] - [[F133-dat]]
 
-- [[beken-dat]] - [[JieLi-dat]] - [[chip-cn-dat]] - [[bluetooth-dat]] - [[EY-dat]]
+- [[beken-dat]] - [[chip-cn-dat]] - [[bluetooth-dat]] - [[EY-dat]]
 
 - [[bland-dat]] - [[chip-cn-dat]]
 
@@ -57,6 +57,9 @@
 
 - [[HXC-dat]] - [[LH6112-dat]]
 
+- [[injoinic-dat]]
+
+- [[JieLi-dat]] 
 
 - [[kendryte-dat]] - [[K230D-dat]]
 

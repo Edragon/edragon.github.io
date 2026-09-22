@@ -11,6 +11,8 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP5310-dat]] - [[power-bank-dat]] - [[injoinic-dat]]
 
+- [[IP5219-dat]] - [[portable-charger-dat]]
+
 - [[IP5356-dat]] - [[QC-charge-dat]]
 
 - [[IP2326-dat]] - [[injoinic-dat]]

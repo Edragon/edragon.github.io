@@ -24,6 +24,13 @@ The device is not only targeted for digital cellular phones, but also for any ot
 
 
 
+## build 
+
+- main [[IP6808-dat]] - [[IP5219-dat]] - [[XB7608-dat]]
+
+
+
+
 
 
 ## ref 

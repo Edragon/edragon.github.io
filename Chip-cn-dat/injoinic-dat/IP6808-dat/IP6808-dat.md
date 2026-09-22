@@ -58,6 +58,18 @@ Features
 
 ## build 
 
+
+build 2 
+
+- main [[IP6808-dat]] - [[IP5219-dat]] - [[XB7608-dat]]
+
+![](2026-09-22-19-39-55.png)
+
+![](2026-09-22-19-43-47.png)
+
+
+build 1 
+
 ![](2026-06-18-17-25-47.png)
 
 RVC14 == unknown SOT23-3
