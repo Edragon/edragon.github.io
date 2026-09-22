@@ -2,9 +2,12 @@
 # antenna-RHCP-dat
 
 
+- [[antenna-RHCP-dat]] - [[antenna-LHCP-dat]] - [[antenna-patch-dat]] - [[antenna-skew-planar-dat]] 
 
 
-- [[antenna-dat]] Polarization == - [[antenna-RHCP-dat]] - [[antenna-linear-dat]] - [[antenna-polarization-dat]]
+
+
+- [[antenna-dat]] Polarization == - [[antenna-RHCP-dat]] - [[antenna-linear-dat]] - [[antenna-polarization-dat]] - [[antenna-helical-dat]]
 
 
 - [[antenna-RHCP-dat]] - [[antenna-panel-dat]] (shape-only) - [[antenna-patch-dat]]

@@ -3,6 +3,15 @@
 # FPV-long-range-dat
 
 
+
+
+## design 
+
+== [[battery-dat]] - [[rf-long-range-dat]] - [[location-FPV-dat]] == [[RTH-dat]] - [[location-dat]] - [[Line-Of-Sight-dat]] - [[VTX-dat]]
+
+
+## info 
+
 - [[FPV-whoop-micro-dat]] - [[FPV-whoop-cine-dat]] - [[FPV-toothpick-dat]]  - [[FPV-long-range-dat]]  - [[FPV-heavy-lift-dat]]
 
 - [[RF-dat]] - [[RF-long-range-dat]]
