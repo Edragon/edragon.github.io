@@ -23,7 +23,11 @@
 
 ## chip and boards 
 
-- [[NS4150-dat]] - [[NS4168-dat]] - [[NSIway-dat]]
+
+
+45S8D - [[JRC-dat]] - [[JRC4558D-dat]] - [[amplifier-dat]] - [[amplifier-audio-dat]] - main [[PT2399-dat]] - [[Princeton-dat]]
+
+- [[NS4150-dat]] - [[NS4168-dat]] - [[NSIway-dat]] - [[NS4263-dat]]
 
 - [[SGM4890-dat]] - [[SG-micro-dat]]
 

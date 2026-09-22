@@ -63,6 +63,7 @@ from a to z
 
 - [[PIC-dat]]
 
+- [[Princeton-dat]]
 
 [[realtek-dat]] - [[RTL8211-dat]] - [[RTL8152-dat]]
 

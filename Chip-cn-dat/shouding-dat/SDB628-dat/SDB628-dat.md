@@ -1,6 +1,10 @@
 
 
-# SD628-dat
+# SDB628-dat
+
+
+
+B628
 
 High Efficiency 1.2MHz 2A Step Up Converter
 
@@ -9,6 +13,11 @@ High Efficiency 1.2MHz 2A Step Up Converter
 datasheet - [[SD628-datasheet.pdf]]
 
 
+
+
+## build 
+
+B628 - [[SDB628-dat]] - [[shouding-dat]] - [[XT2052-dat]]
 
 
 ## ref 
