@@ -14,6 +14,11 @@
 
 - [[hot-air-station-dat]]
 
+- [[humidifier-dat]] - [[SOCMCU-dat]] - [[SC92F722-dat]] - [[fan-dat]] - [[CONN-dat]]
+
+
+
+
 
 
 ## small fan control 

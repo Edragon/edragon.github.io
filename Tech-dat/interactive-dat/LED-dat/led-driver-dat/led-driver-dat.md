@@ -23,50 +23,7 @@ https://w.electrodragon.com/w/LED_Drive
 - [[led-driver-dat]] - [[PCB-form-dat]]
 
 
-## chip 
 
-
-- [[MT9201-dat]] - [[LED-driver-dat]] - [[aerosemi-dat]]
-
-- [[natlinear-dat]] - [[LN2566-dat]] 
-
-
-
-
-AMC7135 SOT-89 恒流350mA/2.7-6V 大功率LED驱动芯片
-
-The AMC7135 is a low dropout current regulator rated for 350mA constant sink current. The low quiescent current and low dropout voltage is achieved by advancedBi-CMOS process.
-
-
-![](2026-02-11-17-49-49.png)
-
-FEATURES
-
-- 350mA constant sink current.
-- Output short / open circuit protection.
-- Low dropout voltage.
-- Low quiescent current
-- Supply voltage range 2.7V ~ 6V 2KV HBM ESD protection
-- Advanced Bi-CMOS process.
-- SOT-89 and TO-252 package
-
-- [[SG-micro-dat]]
-
-
-
-SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]]
-
-
-- [[BP9022-dat]] - [[BPS-dat]]
-
-
-## fan5333b-d
-
-- [[display-dat]] - [[led-driver-dat]]
-
-High Efficiency, High Current Serial LED Driver with 30 V Integrated Switch FAN5333A, FAN5333B
-
-![](2026-03-05-19-23-40.png)
 
 
 
@@ -139,6 +96,59 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 - [[JW5060-dat]]
 
 ![](2025-11-01-19-26-57.png)
+
+
+
+## chip 
+
+
+- [[HXC-dat]] - [[LH6112-dat]]
+
+
+
+- [[MT9201-dat]] - [[LED-driver-dat]] - [[aerosemi-dat]]
+
+- [[natlinear-dat]] - [[LN2566-dat]] 
+
+
+
+
+AMC7135 SOT-89 恒流350mA/2.7-6V 大功率LED驱动芯片
+
+The AMC7135 is a low dropout current regulator rated for 350mA constant sink current. The low quiescent current and low dropout voltage is achieved by advancedBi-CMOS process.
+
+
+![](2026-02-11-17-49-49.png)
+
+FEATURES
+
+- 350mA constant sink current.
+- Output short / open circuit protection.
+- Low dropout voltage.
+- Low quiescent current
+- Supply voltage range 2.7V ~ 6V 2KV HBM ESD protection
+- Advanced Bi-CMOS process.
+- SOT-89 and TO-252 package
+
+- [[SG-micro-dat]]
+
+
+
+SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]]
+
+
+- [[BP9022-dat]] - [[BPS-dat]]
+
+
+## fan5333b-d
+
+- [[display-dat]] - [[led-driver-dat]]
+
+High Efficiency, High Current Serial LED Driver with 30 V Integrated Switch FAN5333A, FAN5333B
+
+![](2026-03-05-19-23-40.png)
+
+
 
 ### chip 
 

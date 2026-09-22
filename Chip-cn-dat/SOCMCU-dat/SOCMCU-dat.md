@@ -15,10 +15,15 @@ SC92F732
 
 ## SC92F722 
 
+- [[SC92F722-dat]] - [[SOCMCU-dat]]
 
 ## apps 
 
-- [[]]
+- [[humidifier-dat]] - [[SOCMCU-dat]] - [[SC92F722-dat]] 
+
+![](2026-09-22-19-21-50.png)
+
+
 
 
 ## ref 

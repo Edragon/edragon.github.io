@@ -4,6 +4,20 @@
 
 - [[transistor-dat]] - [[BJT-dat]] 
 
+- [[transistor-power-dat]] - [[BU406-dat]]
+
+## transistor power 
+
+
+### BU406 
+
+- [[BU406-dat]] - [[BJT-dat]] - [[transistor-dat]] - [[humidifier-dat]] 
+
+
+The STMicroelectronics BU406 Datasheet describes the BU406 as a high-voltage, fast-switching NPN power transistor housed in a plastic TO-220 package.
+
+
+
 
 The BU406 is a high-voltage, high-speed NPN power bipolar junction transistor (BJT) designed primarily for horizontal deflection output stages in TVs and high-speed switching applications.
 

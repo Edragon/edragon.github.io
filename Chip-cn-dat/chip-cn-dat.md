@@ -25,6 +25,7 @@
 
 - [[bland-dat]] - [[chip-cn-dat]]
 
+- [[chipsea-dat]]
 
 - [[chinamobile-dat]]
 
@@ -53,6 +54,9 @@
 - [[holtek-dat]] - [[hcwsemi-dat]]
 
 - [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]]
+
+- [[HXC-dat]] - [[LH6112-dat]]
+
 
 - [[kendryte-dat]] - [[K230D-dat]]
 
@@ -90,7 +94,7 @@
 
 
 
-- [[chipsea-dat]]
+
 
 - [[hikvision-dat]]
 
@@ -102,7 +106,7 @@
 
 - [[AIT-dat]] - [[rf-star-dat]]
 
-
+- [[YFW-dat]] - [[mosfet-dat]] - [[N1012-dat]]
 
 
 

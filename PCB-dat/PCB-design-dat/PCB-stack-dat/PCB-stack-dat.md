@@ -15,6 +15,14 @@
 
 
 
+## vertical connect 
+
+![](2026-09-22-19-32-44.png)
+
+![](2026-09-22-19-32-54.png)
+
+
+
 ## purpose 
 
 - for the very limit space, specially the flat surface is limited, but the height is enough
