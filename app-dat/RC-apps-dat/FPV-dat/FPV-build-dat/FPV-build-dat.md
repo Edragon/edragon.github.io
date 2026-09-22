@@ -6,7 +6,7 @@
 
 - [[FPV-build-dat]] - [[FPV-frame-dat]] - [[flight-controller-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]] - [[camera-FPV-dat]]
 
-- [[FPV-build-dat]] - [[battery-FPV-dat]]
+
 
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]] - [[goggles-dat]]
 
@@ -14,8 +14,6 @@
 - [[FPV-wiring-dat]] - [[FPV-build-dat]] - [[FUS-X111-dat]]
 
 - [[rc-supplier-dat]]
-
-- [[ELRS-dat]] - [[ELRS-TX-dat]] - [[ELRS-RX-dat]]
 
 
 
@@ -25,9 +23,24 @@
 - [[power-limit-dat]] - [[FPV-dat]] - [[protection-power-dat]] - [[power-dat]] - [[power-smoke-stopper-dat]]
 
 
-- [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
 
 - [[FPV-accessories-dat]]
+
+
+
+## tech 
+
+
+- [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
+
+- [[antenna-dat]]
+
+- [[ELRS-dat]] - [[ELRS-TX-dat]] - [[ELRS-RX-dat]] - [[rc-protocols-dat]]
+
+- [[FPV-build-dat]] - [[battery-FPV-dat]]
+
+- [[flight-controller-dat]]
+
 
 
 ## build 5in

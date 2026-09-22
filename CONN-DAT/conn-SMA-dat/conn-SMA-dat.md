@@ -10,7 +10,7 @@
 - [[CONN-RP-SMA-dat]] - [[CONN-SMA-MALE-dat]] 
 
 
-
+mmcx - [[CONN-MMCX-dat]]
 
 ## build 
 

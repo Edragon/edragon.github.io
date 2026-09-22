@@ -7,6 +7,9 @@
 
 - [[VTX-dat]] - [[VRX-dat]] - [[antenna-FPV-dat]]
 
+- [[FPV-build-dat]]
+
+
 
 
 ## tech 
@@ -19,6 +22,7 @@
 - [[antenna-tech-dat]] - [[antenna-range-dat]] - [[antenna-diversity-dat]] 
 
 
+best selection == [[antenna-lolipop-dat]] - [[antenna-helical-dat]] // [[antenna-patch-dat]]
 
 
 ## types 
