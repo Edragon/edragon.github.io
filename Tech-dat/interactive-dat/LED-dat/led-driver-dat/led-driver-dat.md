@@ -102,7 +102,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 ## chip 
 
 
-- [[HXC-dat]] - [[LH6112-dat]]
+- [[HXC-dat]] - [[LH6112-dat]] - [[H5721-dat]]
 
 
 

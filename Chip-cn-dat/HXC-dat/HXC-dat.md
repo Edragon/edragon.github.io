@@ -3,6 +3,15 @@
 
 - [[HXC-dat]] - [[H4012-dat]] - [[dcdc-down-dat]]
 
+
+- [[H5721-dat]] - [[HXC-dat]] 
+
+
+
+## charger 
+
+- [[car-charger-dat]] - [[charger-phone-dat]] - [[dcdc-down-dat]]
+
 5-40V输入降压恒压同步整流芯片-性能好-皮实(量产时间2023.Q4)
 
 | 型号 | 封装 | MOS耐压 | 输入电压 | 输出电压可调 | 最大输出电流 | 整流方式 | 恒压精度 | 恒流精度 | 动态响应 | 短路/过温/欠压保护 | 使能脚 | 应用领域 |
@@ -22,6 +31,15 @@
 
 
 
+## led driver 
+
+![](2026-09-22-22-08-29.png)
+
+
+
+
+
 ## ref
 
 
+- [[HXC-info.pdf]]

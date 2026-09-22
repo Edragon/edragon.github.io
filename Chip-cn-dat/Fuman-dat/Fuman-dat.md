@@ -14,6 +14,10 @@
 
 
 
+## charger 
+
+LTH7R - [[fuman-dat]] - [[charger-phone-dat]] - [[LTH7R-dat]]
+
 
 ## XPD series 
 
