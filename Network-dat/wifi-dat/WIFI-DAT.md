@@ -17,6 +17,9 @@
 - [[wifi-dat]] - [[wifi-sense-dat]]
 
 
+
+
+
 ## tech 
 
 - [[IEEE-dat]] - [[WIFI-Halow-dat]]
@@ -30,6 +33,11 @@
 - [[ethernet-dat]] - [[router-dat]] - [[router-secondary-dat]]
 
 - [[CPE-dat]]
+
+
+## chip 
+
+- [[realtek-dat]] - [[WIFI-dat]]
 
 
 ## cheatsheet 

@@ -9,6 +9,11 @@
 
 
 
+## tech 
+
+- [[PWM-dat]] - [[LM393-dat]] - [[fan-dat]]
+
+
 
 ## apps 
 

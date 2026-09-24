@@ -7,6 +7,11 @@
 - [[pulse-in-dat]]
 
 
+## tech 
+
+- [[PWM-dat]] - [[LM393-dat]] - [[fan-dat]]
+
+
 
 
 ## analogWrite() vs writeMicroseconds() == duty-cycle vs pulse-width

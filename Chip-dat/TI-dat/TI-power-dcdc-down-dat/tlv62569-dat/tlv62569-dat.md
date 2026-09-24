@@ -2,7 +2,25 @@
 
 # tlv62569-dat
 
+
+- [[TLV62569-dat]] - [[TLV62568-dat]] - [[TI-power-dcdc-down-dat]]
+
+- [[TLV62568-dat]] - [[down-5V-3V3-dat]] - [[dcdc-down-dat]] - [[ti-power-dcdc-down-dat]]
+
 - [[dcdc-down-dat]] - [[TI-power-dat]] - [[tlv62569-dat]]
+
+
+- [[SOT23-x-dat]] - [[PCB-footprint-dat]]
+
+
+## TLV62568 
+
+TLV62568 1-A High Efficiency Synchronous Buck Converter in SOT Package
+
+https://www.ti.com/lit/ds/symlink/tlv62568.pdf
+
+
+## TLV62569 
 
 https://www.ti.com/lit/ds/symlink/tlv62569.pdf
 
@@ -20,7 +38,12 @@ In shutdown, the current consumption is reduced to less than 2 μA.
 
 ## build 
 
-SCH 1 0.8V 1.1V 3.3V 1.8V 
+
+build 2 
+
+![](2026-09-24-22-18-06.png)
+
+build 1 SCH 1 0.8V 1.1V 3.3V 1.8V 
 
 ![](2026-09-05-15-11-40.png)
 

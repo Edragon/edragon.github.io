@@ -9,7 +9,9 @@
 
 - [[power-dat]] - [[battery-dat]]
 
-- [[dcdc-down-dat]]
+- [[dcdc-down-dat]] - [[TI-power-dcdc-down-dat]] - [[TPS56320x-dat]]
+
+- [[TLV62569-dat]] - [[TLV62568-dat]] - [[TI-power-dcdc-down-dat]]
 
 
 
@@ -52,8 +54,6 @@ DCDC降压芯片用Ti的TPS54335A，支持4.5V-28V宽电压输入。
 
 ![](2025-06-19-17-47-13.png)
 
-### TLV62569 2-A High Efficiency Synchronous Buck Converter in SOT Package
-
 
 
 ### LM2853 3-A 550-kHz Synchronous Buck Regulator 
@@ -68,11 +68,6 @@ DCDC降压芯片用Ti的TPS54335A，支持4.5V-28V宽电压输入。
 - • Internal 40 mΩ MOSFET Switches
 - • Standard Voltage Options – 0.8/1.0/1.2/1.5/1.8/2.5/3.0/3.3 Volts
 - • Exposed Pad 14-Lead HTSSOP (PWP) Package
-
-
-### TPS56320x 4.5V to 17V Input, 3A Synchronous Step-Down Voltage Regulator in SOT-23
-
-The TPS563201 and TPS563208 are simple, easy-to-use, 3A synchronous step-down converters in SOT-23 package.
 
 
 

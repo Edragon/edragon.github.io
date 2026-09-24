@@ -17,7 +17,7 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]] - [[mosfet-array-dat]] - [[mos-p-dat]] - [[mosfet-drive-dat]]
 
-- [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] 
+- [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[usb-sniffer-dat]]
 
 
 - [[robot-dat]] - [[robotic-dat]]
@@ -56,7 +56,7 @@
 
 ### power and battery
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[power-wireless-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]] - [[dcdc-dat]] - [[solar-driver-dat]]
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[power-wireless-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]] - [[dcdc-dat]] - [[solar-driver-dat]] - [[power-limit-dat]]
 
 - [[dcdc-boost-down-dat]]
 

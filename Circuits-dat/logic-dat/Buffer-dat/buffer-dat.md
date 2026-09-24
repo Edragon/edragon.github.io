@@ -9,6 +9,16 @@
 - [[buffer-dat]] - [[buffer-FIFO-dat]]
 
 
+
+## apps 
+
+
+- [[buffer-dat]] - [[buffer-FIFO-dat]]
+
+- [[logic-level-shifter-dat]] - [[74xx-dat]] - [[74xx125-dat]]
+
+
+
 ## common used 
 
 
@@ -83,9 +93,13 @@ Summary:
 
 SN74LVC1G14 Single Schmitt-Trigger Inverter - https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf
 
+
+## buffer chip  
+
 - [[74hc541-dat]] - [[74hct245-dat]]
 
-**74AHC1G125** – Single Bus Buffer Gate with **3-State Output**
+
+
 
 ## buffer 
 

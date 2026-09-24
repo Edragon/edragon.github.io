@@ -22,6 +22,25 @@
 
 
 
+## footprints 
+
+- [[PLCC-dat]] - [[DIP8-dat]] - [[SOP8-dat]]
+
+- [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]] - [[programmer-dat]]
+
+- [[TQFP-dat]] - [[PCB-footprint-dat]]
+
+- [[DIP8-dat]] - [[DIP16-dat]] - [[DIP28-dat]] - [[PCB-footprint-dat]]
+
+- [[PCB-footprint-dat]] - [[BGA-dat]]
+
+- [[SOT23-x-dat]] - [[PCB-footprint-dat]]
+
+
+
+
+
+
 ## boards 
 
 - [[CCO3628-dat]] - [[CCO3627-dat]]
@@ -94,20 +113,6 @@ This value represents the component thickness, used to compensate for the nozzle
 
 > [!NOTE]
 > These values are general reference ranges. Actual thickness varies by manufacturer and specific part numbers. Always verify with the component's **Datasheet** for critical placement calibration.
-
-
-## footprints 
-
-- [[PLCC-dat]] - [[DIP8-dat]] - [[SOP8-dat]]
-
-- [[ISP-dat]] - [[PCB-footprint-dat]] - [[programmer-socket-dat]] - [[programmer-dat]]
-
-- [[TQFP-dat]] - [[PCB-footprint-dat]]
-
-- [[DIP8-dat]] - [[DIP16-dat]] - [[DIP28-dat]] - [[PCB-footprint-dat]]
-
-- [[PCB-footprint-dat]] - [[BGA-dat]]
-
 
 
 

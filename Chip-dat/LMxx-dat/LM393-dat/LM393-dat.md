@@ -9,6 +9,14 @@
 
 
 
+## apps 
+
+### PWM control 
+
+- [[PWM-dat]] - [[LM393-dat]] - [[fan-dat]]
+
+![](2026-09-24-21-42-01.png)
+
 ## common tuning methods for LM393
 
 - The sensor is suitable for soil moisture measurement.
