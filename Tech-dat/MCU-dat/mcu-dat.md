@@ -45,7 +45,7 @@
 
 - [[TI-dat]] - [[MSP430-dat]] - [[TMS320-dat]]
 
-- [[NXP-dat]]
+- [[NXP-dat]] - [[NXP-MCU-dat]] - [[LPC178x-dat]]
 
 - [[holtek-dat]] - [[holtek-MCU-dat]]
 

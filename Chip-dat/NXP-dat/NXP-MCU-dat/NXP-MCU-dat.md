@@ -3,6 +3,11 @@
 # NXP-MCU-dat
 
 
+- [[NXP-dat]] - [[NXP-MCU-dat]]
+
+
+- [[LPC178x-dat]] - [[NXP-MCU-dat]] - [[BGA-dat]]
+
 ## board 
 
 - [[DPR1116-dat]]
