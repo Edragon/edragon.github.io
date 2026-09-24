@@ -1,9 +1,22 @@
 
 # RTL8723-dat
 
-- [[WIFI-DAT]] + [[bluetooth-dat]]
+
+
+## build 
+
+build 1 
+
+![](2026-09-24-22-40-49.png)
+
+build 2 
 
 ![](2025-07-13-22-32-52.png)
+
+## info 
+
+- [[WIFI-DAT]] + [[bluetooth-dat]]
+
 
 ![](2025-07-13-22-33-38.png)
 

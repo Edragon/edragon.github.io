@@ -125,7 +125,7 @@
 
 - [[ethernet-dat]] 
 
-- [[USB-SDK-dat]] - [[USB-SDK-type-C-dat]] - [[USB-PD-dat]]
+- [[USB-SDK-dat]] - [[USB-SDK-type-C-dat]] - [[USB-PD-dat]] - [[USB-3.0-dat]]
 
 - [[bluetooth-dat]] - [[ble-dat]] - [[bt-audio-dat]]
 
@@ -226,7 +226,7 @@
 - [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
 
 
-- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] - [[PDM-dat]]
+- [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] - [[PDM-dat]] - [[speaker-dat]]
 
 - [[filter-dat]]
 

@@ -222,6 +222,15 @@ There is no inherent sound quality difference between 4-ohm and 8-ohm speakers. 
 - 8R喇叭要选择大于1.6W的
 - 尽量不要超过太大，例如4R5w模块带不太动
 
+
+## build 
+
+headset 
+
+![](2026-09-24-22-47-49.png)
+
+
+
 ## ref 
 
 

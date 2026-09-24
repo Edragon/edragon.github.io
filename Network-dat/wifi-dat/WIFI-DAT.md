@@ -37,7 +37,7 @@
 
 ## chip 
 
-- [[realtek-dat]] - [[WIFI-dat]]
+- [[realtek-dat]] - [[WIFI-dat]] - [[RTL8723-dat]]
 
 
 ## cheatsheet 
