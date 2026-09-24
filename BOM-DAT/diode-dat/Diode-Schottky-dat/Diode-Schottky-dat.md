@@ -4,6 +4,16 @@
 
 - [[diode-dat]] - [[Diode-Schottky-dat]]
 
+
+
+
+## chip 
+
+- [[vishay-diode-dat]] - [[diode-dat]] - [[vishay-dat]] - [[diode-schottky-dat]]
+
+
+## info 
+
 1. 直插型 (适合面包板、洞洞板测试)
 直插型通常采用黑色的圆柱形封装（如 DO-41 或 DO-201AD），带有两根金属引脚，非常适合前期搭建原型。
 

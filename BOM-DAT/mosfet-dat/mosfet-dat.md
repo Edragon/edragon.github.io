@@ -485,6 +485,14 @@ for [[FPV-dat]] - [[rc-dat]], check [[VBAT-dat]] and [[GND-dat]] - [[PCB-fix-dat
 - [[GND-dat]] to [[mosfet-dat]] output port == 3 termials of the [[motor-brusheless-dat]] 
 
 
+
+## mosfet SOT23-3
+
+BSS306N -- N-Channel Small Signal MOSFET 30 V in SOT-23 package -- 2.3A - [[infineon-mosfet-dat]]
+
+
+
+
 ## ref 
 
 - [[vishay-dat]]

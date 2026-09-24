@@ -4,6 +4,10 @@
 
 - [[vishay-dat]] - [[SIZ322DT-dat]] - [[mosfet-dat]]
 
+- [[vishay-diode-dat]] - [[diode-dat]] - [[vishay-dat]] - [[diode-schottky-dat]]
+
+
+
 
 - [[mosfet-dat]] - [[mosfet-power-dat]]
 

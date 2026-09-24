@@ -247,7 +247,7 @@
 
 ## Utilities 
 
-- [[RTC-dat]] - [[buffer-dat]] 
+- [[RTC-dat]] - [[buffer-dat]] - [[buffer-FIFO-dat]]
 
 - [[terminal-clamping]] - [[CONN-BTB-dat]]
 

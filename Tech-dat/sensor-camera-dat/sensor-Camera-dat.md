@@ -36,6 +36,15 @@
 
 
 
+
+
+## tech 
+
+- [[renesas-dat]] - [[buffer-FIFO-dat]] - [[IDT720x-dat]] - [[app-dat]] == [[sensor-camera-dat]]
+
+
+
+
 ## camera
 
 - [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[OmniVision-dat]] - [[OV9760-dat]]

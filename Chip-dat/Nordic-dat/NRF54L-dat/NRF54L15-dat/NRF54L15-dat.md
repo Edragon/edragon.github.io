@@ -10,5 +10,11 @@ CPU
 
 - [[sensor-dat]] - [[bosch-dat]]
 
+
+	
+IC RF TxRx + MCU 802.15.4, Bluetooth Amazon Sidewalk, Bluetooth Channel Sounding, Bluetooth LE, Bluetooth Mesh, Matter, Proprietary 2.4 GHz, Thread, Zigbee 48-VFQFN Exposed Pad
+
+
+
 ## ref 
 

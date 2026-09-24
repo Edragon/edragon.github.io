@@ -22,7 +22,9 @@
 
 - [[AVR-dat]] - [[tinyAVR-dat]] - [[attiny-dat]] - [[atmega-dat]] - [[atsamd21-dat]]
 
-- [[PIC-dat]] - [[microchip-dat]] - [[microchip-MCU-dat]] 
+- [[PIC-dat]] - [[microchip-dat]] - [[microchip-MCU-dat]] - [[SAMA5D3-dat]]
+
+
 
 - [[WCH-MCU-dat]] - [[MCU-dat]] - [[CH55x-dat]]
 
@@ -77,12 +79,11 @@
 
 - [[ESP32-dat]] - [[ESP8266-dat]]
 
-- [[nrf52840-dat]] - [[nordic-dat]]
 
 - [[RDA-dat]] 
 
 - [[BL616-dat]] - [[bouffalolab-dat]]
-s
+
 - [[u-blox-dat]]
 
 - [[ASR6500-dat]]
@@ -90,6 +91,10 @@ s
 - [[WCH-dat]] - [[CH579-dat]] - [[CH582-dat]]
 
 - [[silicon-labs-dat]]
+
+- [[NRF54L05-dat]] - [[nrf54L10-dat]] - [[NRF54L15-dat]] - [[MCU-dat]] - [[MCU-RF-dat]]
+
+- [[nrf52840-dat]] - [[nordic-dat]] - [[NRF51822-dat]] - [[NRF52832-dat]]
 
 
 

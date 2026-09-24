@@ -1,6 +1,11 @@
 
 # nordic-dat.md
 
+
+
+- [[nrf52840-dat]] - [[nordic-dat]] - [[NRF54L15-dat]]
+
+
 - [[NRF24L01-dat]] - [[NRF24L01-clone-dat]]
 
 

@@ -6,6 +6,8 @@
 - [[buffer-dat]] - [[74xx-dat]]
 
 
+- [[buffer-dat]] - [[buffer-FIFO-dat]]
+
 
 ## common used 
 
