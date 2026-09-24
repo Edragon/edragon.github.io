@@ -229,6 +229,15 @@ Some versions (like ESP32-S3-WROOM-1U-N8R2) come with a built-in DC-DC converter
 
 ADC0809 是带有 8 位 A/D 转换器、8 路多路开关以及微处理机兼容的控制逻辑的 CMOS 组件。它是逐次逼近式 A/D 转换器，可以和单片机直接接口。
 
+
+## tech 
+
+- [[PCB-footprint-dat]] - [[BGA-dat]]
+
+
+
+
+
 ## ref 
 
 - [[MCU]]

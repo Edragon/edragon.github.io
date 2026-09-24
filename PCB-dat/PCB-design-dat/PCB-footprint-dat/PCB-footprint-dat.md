@@ -106,6 +106,9 @@ This value represents the component thickness, used to compensate for the nozzle
 
 - [[DIP8-dat]] - [[DIP16-dat]] - [[DIP28-dat]] - [[PCB-footprint-dat]]
 
+- [[PCB-footprint-dat]] - [[BGA-dat]]
+
+
 
 
 ## super small footprint 
