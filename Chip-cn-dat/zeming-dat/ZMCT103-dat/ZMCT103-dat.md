@@ -1,7 +1,7 @@
 
 # ZMCT103-dat
 
-
+- [[current-transformer-dat]] - [[ZMCT103-dat]] - [[CT226-dat]]
 
 ## tech 
 
@@ -9,6 +9,9 @@
 - [[ZMCT103-dat]] == 1000:1 [[current-dat]] - [[current-transformer-dat]]
   
 - [[ZMPT107-dat]] == 1000:1000 [[voltage-dat]] - [[ac-voltage-transformer-dat]] 
+
+
+
 
 
 
