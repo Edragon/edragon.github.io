@@ -1,7 +1,27 @@
 
 # betaflight-video-transmitter-dat
 
+- [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-dat]]
 
+
+
+
+
+## Current Values
+
+- Device ready - True
+- VTX Type - SmartAudio 2.1 unlocked
+- Band - RACEBAND
+- Channel - 2
+- Frequency - 5695
+- Power - 400
+- Pit Mode - No
+- Pit Mode frequency - 0
+- Low Power Disarm - On
+
+
+
+## info 
 
 
 power == 25mW / 200mW / 500mW, 100 == good starting point 

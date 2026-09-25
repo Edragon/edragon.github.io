@@ -20,6 +20,10 @@
 | Beeper             | AUX 4       | SD          | HIGH |       |
 
 
+![](2026-09-25-19-51-13.png)
+
+
+
 AETR1234
 
 - CH1 - steering 

@@ -18,7 +18,7 @@
 
 - [[ESC-dat]] - [[motor-FPV-dat]] - [[propeller-FPV-dat]]
 
-
+- [[betaflight-dat]]
 
 
 ## installation 
