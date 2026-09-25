@@ -28,7 +28,7 @@ from a to z
 
 - [[IXYS-dat]]
 
-- [[linear-technology-dat]]
+- [[linear-technology-dat]] - [[LT1963-dat]]
 
 - [[JOULwatt-dat]]
 

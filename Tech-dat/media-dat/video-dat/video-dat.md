@@ -20,6 +20,19 @@
 
 - [[video-digital-dat]] - [[video-analog-dat]] - [[video-dat]]
 
+- [[video-dat]] - [[video-line-driver-dat]]
+
+
+
+
+
+
+
+
+
+
+
+
 ## tech interface
 
 - [[video-baluns-dat]]

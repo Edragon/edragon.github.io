@@ -2,6 +2,11 @@
 # linear-technology-dat
 
 
+
+- [[LT1963-dat]] - [[linear-technology-dat]]
+
+
+
 - [[battery-charger-dat]] - [[LTC4064-dat]] 
 
 ![](2026-04-04-15-46-17.png)
@@ -9,7 +14,7 @@
 
 ## filter 
 
-LTC1060 - Universal Dual Filter Building Block
+`LTC1060` - Universal Dual Filter Building Block
 
 The LTC® 1060 consists of two high performance, switched capacitor filters. 
 
@@ -29,7 +34,6 @@ The LT®1460 is a micropower bandgap reference that combines very high accuracy 
 
 ## Power 
 
-LT1963A Series - 1.5A, Low Noise, Fast Transient Response LDO Regulators
 
 
 LT3029 - Dual 500mA/500mA Low Dropout, Low Noise, Micropower Linear Regulator
