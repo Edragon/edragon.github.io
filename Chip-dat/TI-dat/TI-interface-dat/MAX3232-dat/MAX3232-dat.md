@@ -1,8 +1,19 @@
 
 # MAX3232-dat
 
+- [[MAX3232-dat]] - [[TI-dat]] - [[RS232-dat]]
+
+
+
+
+
 https://www.ti.com/lit/ds/symlink/max3232.pdf?ts=1702918921870&ref_url=https%253A%252F%252Fwww.google.com%252F
 
+
+
+## SCH 
+
+![](2026-09-25-14-50-36.png)
 
 ## Reference Specification
 
@@ -31,3 +42,9 @@ https://www.ti.com/lit/ds/symlink/max3232.pdf?ts=1702918921870&ref_url=https%253
 * Surface mount device: Surface Mount
 * Number of channels: 2
 * Logic Function Number: 3232
+
+
+
+
+## ref 
+

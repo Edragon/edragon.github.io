@@ -2,6 +2,15 @@
 # RAM-dat
 
 
+- [[RAM-dat]] - [[flash-dat]]
+
+- [[SRAM-dat]] - [[RAM-dat]] - [[SDRAM-dat]] - [[PSRAM-dat]] - [[DRAM-dat]]
+
+
+
+
+
+
 - [[memory-dat]] - [[flash-dat]] - [[sd-dat]] - [[eeprom-dat]] - [[DRAM-dat]] - [[SDram-dat]] - [[RAM-dat]]
 
 - [[cypress-dat]] - [[infineon-dat]] - [[RAM-dat]]

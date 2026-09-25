@@ -71,6 +71,9 @@ customized common:
 
 - MAX232D
 
+- [[MAX3232-dat]] - [[TI-dat]] - [[RS232-dat]]
+
+
 
 ### dual 
 
