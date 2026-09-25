@@ -40,7 +40,7 @@ Whether it’s "parallel" or "serial" depends on how it’s used:
 
 - [[TI-interface-dat]]
 
-- [[SNx5LVDS-dat]] - [[LVDS-dat]] - [[TI-dat]] - [[TI-signal-dat]] - [[differential-line-receiver-dat]]
+- [[SNx5LVDSxx-dat]] - [[LVDS-dat]] - [[TI-dat]] - [[TI-interface-dat]] - [[differential-line-receiver-dat]]
 
 
 DS90CR288
