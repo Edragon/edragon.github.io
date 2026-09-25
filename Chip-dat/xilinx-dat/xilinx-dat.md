@@ -43,6 +43,10 @@ XCR3064XL 64 Macrocell CPLD
 
 - [[Artix-7-dat]] - [[Kintex‐7-dat]]
 
+
+XC7A200T
+
+
 The XC7A100 (most commonly referring to the XC7A100T) is a highly popular, low-power Field Programmable Gate Array (FPGA) from the AMD/Xilinx Artix-7 family.
 
 It is widely used in cost-sensitive, power-efficient, and high-throughput applications such as medical imaging, defense electronics, software-defined radio, and educational development boards (like the Digilent Arty A7-100T).

@@ -9,6 +9,12 @@
 - [[MAX202-dat]] - [[RS232-dat]] - [[TI-interface-dat]]
 
 
+
+- [[SNx5LVDS-dat]] - [[LVDS-dat]] - [[TI-dat]] - [[TI-interface-dat]] - [[differential-line-receiver-dat]]
+
+
+
+
 ## buffer 
 
 `SN74LVC8T245RHL` - SN74LVC8T245 8-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs

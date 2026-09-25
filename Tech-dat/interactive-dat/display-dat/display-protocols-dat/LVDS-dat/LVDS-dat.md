@@ -2,6 +2,9 @@
 # LVDS-dat
 
 
+- [[LVDS-dat]] - [[interface-dat]]
+
+
 [general LVDS interface LCD](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling)
 
 
@@ -36,6 +39,22 @@ Whether it’s "parallel" or "serial" depends on how it’s used:
 ## chip 
 
 - [[TI-interface-dat]]
+
+- [[SNx5LVDS-dat]] - [[LVDS-dat]] - [[TI-dat]] - [[TI-signal-dat]] - [[differential-line-receiver-dat]]
+
+
+DS90CR288
+
+DS90CR288AMTDX/NOPB - DS90CR287/DS90CR288A +3.3V Rising Edge Data Strobe LVDS 28-Bit Channel Link - 85MHz
+
++3.3V Rising Edge Data Strobe LVDS 28-Bit Channel Link Receiver - 85 MHz | DGG | 56 | -10 to 70
+
+![](2026-09-25-15-08-46.png)
+
+app 
+
+![](2026-09-25-15-08-59.png)
+
 
 ## ref 
 

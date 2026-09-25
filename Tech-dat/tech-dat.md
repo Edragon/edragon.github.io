@@ -17,7 +17,7 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]] - [[mosfet-array-dat]] - [[mos-p-dat]] - [[mosfet-drive-dat]]
 
-- [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[usb-sniffer-dat]]
+- [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[usb-sniffer-dat]] - [[differential-line-receiver-dat]]
 
 
 - [[robot-dat]] - [[robotic-dat]]
