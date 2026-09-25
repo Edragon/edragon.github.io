@@ -221,7 +221,7 @@
 
 - [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]] - [[I2S-dat]]
 
-- [[ADC-dat]] - [[DAC-dat]] - [[converter-dat]] - [[LDC-dat]]
+- [[ADC-dat]] - [[DAC-dat]] - [[converter-dat]] - [[LDC-dat]] - [[AD-DAC-dat]]
 
 - [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
 

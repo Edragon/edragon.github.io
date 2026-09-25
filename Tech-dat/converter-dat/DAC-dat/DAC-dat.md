@@ -37,7 +37,7 @@ legacy wiki page == https://www.electrodragon.com/w/AD/DA
 
 ## chips 
 
-- [[analog-device-dat]]
+- [[analog-device-dat]] - [[AD-DAC-dat]]
 
 - [[I2C-dat]] - [[MCP4725-dat]] - [[microchip-dat]] - [[DAC-dat]]
 
