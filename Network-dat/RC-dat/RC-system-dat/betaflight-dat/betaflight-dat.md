@@ -43,7 +43,7 @@
 
 - [[betaflight-power-battery-dat]]
 
-- [[betaflight-modes-dat]] - [[betaflight-motors-dat]] - [[betaflight-modes-dat]]
+- [[betaflight-modes-dat]] - [[betaflight-motors-dat]]
 
 - [[betaflight-blackbox-dat]]
 

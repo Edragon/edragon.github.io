@@ -21,6 +21,8 @@
 - [[betaflight-dat]]
 
 
+
+
 ## installation 
 
 - [[quadcopter-dat]] - [[FPV-dat]] - [[motor-FPV-dat]]
@@ -30,11 +32,31 @@
 
 see [[mobula8-dat]] 
 
+- motor 1 RR == 2023R CCW 
+- motor 2 FR == 2023 CW
+- motor 3 RL == 2023 CW
+- motor 4 FL == 2023R CCW
 
 ![](2026-09-19-16-25-45.png)
 
 
 ### option reversed - prop out 
+
+
+- motor 1 RR == 2023 CW 
+- motor 2 FR == 2023R CCW
+- motor 3 RL == 2023R CCW
+- motor 4 FL == 2023 CW
+
+visual setup 
+
+          机头（前）
+    motor4            motor2
+    CW ↻            CCW ↺
+
+    motor3            motor1
+    CCW ↺           CW ↻
+          机尾（后）
 
 ![](2026-09-19-16-00-49.png)
 
@@ -88,7 +110,7 @@ see [[mobula8-dat]]
 ### types 220x
 
 
-2204/2205 电机轴直径 = 3mm 或 3.17mm（标准）
+2204/2205 motor轴直径 = 3mm 或 3.17mm（标准）
 
 
 2204 - 1000KV
@@ -115,6 +137,18 @@ see [[mobula8-dat]]
 ### 2616 
 
 1550KV
+
+
+## identify the motor directions 
+
+⭐️ 关键：把滑块调到"刚好能转"的最低值 —— motor页的滑块可以拖到很慢。
+
+方法 2：手机慢动作录像 ⭐️
+
+1. motor低速转
+2. 手机开【慢动作 120/240fps】录 2 秒
+3. 回放 → 方向一目了然
+
 
 
 
@@ -188,12 +222,12 @@ A **1400KV FPV motor** means the motor spins about **1400 RPM per volt** (unload
 
 ## QA 
 
-用户问：四旋翼的四个电机都是同一个型号的么？
+用户问：四旋翼的四个motor都是同一个型号的么？
 
-⭐️ 答案：**是的，通常都是同一型号**（4 个相同电机）。
+⭐️ 答案：**是的，通常都是同一型号**（4 个相同motor）。
 
 原因：
-1. **推力平衡**：4 个电机必须推力一致，否则飞控难以平衡（姿态失控/倾斜）
+1. **推力平衡**：4 个motor必须推力一致，否则飞控难以平衡（姿态失控/倾斜）
 2. **KV 值一致**：转速响应必须相同
 3. **重量一致**：质心平衡
 4. 生产上：出厂即配 4 个相同的（有些品牌会标注"匹配组"）
