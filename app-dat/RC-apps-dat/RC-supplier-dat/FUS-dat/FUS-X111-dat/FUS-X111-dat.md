@@ -15,7 +15,7 @@
 
 - [[betaflight-dat]]
 
-
+- [[motor-fan-ducted-dat]] 
 
 
 ## thrust

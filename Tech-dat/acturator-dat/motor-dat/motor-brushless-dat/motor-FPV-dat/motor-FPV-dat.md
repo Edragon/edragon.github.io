@@ -183,6 +183,22 @@ For example:
 ### ✅ **Summary**:  
 A **1400KV FPV motor** means the motor spins about **1400 RPM per volt** (unloaded). It is a **low-KV motor** designed for **larger props, more torque, and efficiency**, rather than raw speed.
 
+
+
+
+## QA 
+
+用户问：四旋翼的四个电机都是同一个型号的么？
+
+⭐️ 答案：**是的，通常都是同一型号**（4 个相同电机）。
+
+原因：
+1. **推力平衡**：4 个电机必须推力一致，否则飞控难以平衡（姿态失控/倾斜）
+2. **KV 值一致**：转速响应必须相同
+3. **重量一致**：质心平衡
+4. 生产上：出厂即配 4 个相同的（有些品牌会标注"匹配组"）
+
+
 ## ref 
 
 - [[FPV]] - [[FPV-motor]]
