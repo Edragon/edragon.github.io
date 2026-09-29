@@ -61,6 +61,9 @@
 - [[BAT32G135-dat]] - [[MCU-dat]] - [[cmsemicon-dat]]
 
 
+- [[intel-dat]] - [[i486-DX4-dat]]
+
+
 ## arm 
 
 - [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]

@@ -30,6 +30,8 @@ from a to z
 
 - [[linear-technology-dat]] - [[LT1963-dat]]
 
+- [[lattice-dat]]
+
 - [[JOULwatt-dat]]
 
 - [[nuvoton-dat]]
