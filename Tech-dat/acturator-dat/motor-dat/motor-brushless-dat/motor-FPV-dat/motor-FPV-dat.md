@@ -42,6 +42,12 @@ see [[mobula8-dat]]
 
 ### option reversed - prop out 
 
+Props-Out 的主要好处（其实只有一条）：
+- 撞机时桨叶更容易被"推离"障碍物 → 少断桨（桨叶存活率略高）
+
+代价：
+- 要改电机转向 + 换桨 + 改设置（3 处）
+
 
 - motor 1 RR == 2023 CW 
 - motor 2 FR == 2023R CCW

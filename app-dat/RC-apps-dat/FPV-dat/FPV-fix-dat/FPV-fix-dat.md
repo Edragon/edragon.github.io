@@ -24,6 +24,8 @@
 
 - [[betaflight-dat]]
 
+- [[motor-FPV-dat]] - [[ESC-FPV-dat]] - [[ESC-dat]]
+
 ## replaceable parts 
 
 - [[camera-FPV-dat]] - [[camera-FPV]] - [[camera]]
@@ -35,43 +37,45 @@
 ## fix scenario 
 
 
-### scenario 3. - RUNAWAY 
+### scenario 2. - desync
 
-1. ⭐️⭐️ 陀螺仪检测到运动：
-   - ARM 时飞机没完全静止/不水平（拿在手里、晃动、风吹）
-   - 或 陀螺仪故障（撞过的板 → 误报运动）
-2. ⭐️⭐️ 电机顺序 / 转向配置错误
-   - ⚠️ 注意：单电机测试测不出这个（它只测"能不能转"，不测方位/方向）
-   - 顺序错 → ARM 后飞控纠正方向 → 触发保护
-3. ⭐️ PID / 滤波过激（输出饱和）
-4. Airmode + 高 idle 组合
-5. 飞控板故障（陀螺仪/加速度计）
+"Whining + spins briefly then stops" = classic "**desync**" ⭐️
+
+Initial diagnosis:
+1. ⭐️ Missing phase (one phase has a bad connection) → missing phase at startup → whine + desync protection (~40%)
+2. Wrong ESC startup parameters (Bluejay startup power too low / timing mismatch) (30%)
+3. Weak MOSFET drive on one ESC phase (20%)
+4. Local short in motor winding (10%)
+
+⚠️ Note: "each motor spins fine when tested alone" ≠ the motor is OK — no-load current is small and hides the desync under load.
+
+Four steps to confirm:
+① Check all solder joints on all 4 motors (focus on the one that whines)
+② Swap test (same as below)
+③ ESC Configurator tuning:
+   - Startup Power ↑ (raise startup power)
+   - Motor Timing adjustment
+   - Enable Demag Compensation
+④ Reflash Bluejay / try a different version to verify (you flashed firmware before)
 
 
+### scenario 3. - RUNAWAY
 
+1. ⭐️⭐️ Gyro detects motion:
+   - The craft is not completely still / not level at ARM (held in hand, wobbling, wind)
+   - Or faulty gyro (crashed board → false motion detection)
+2. ⭐️⭐️ Wrong motor order / direction configuration
+   - ⚠️ Note: a single-motor test can't catch this (it only checks "does it spin", not position/direction)
+   - Wrong order → flight controller corrects direction after ARM → triggers protection
+3. ⭐️ PID / filter too aggressive (output saturation)
+4. Airmode + high idle combination
+5. Faulty flight controller board (gyro/accelerometer)
 
+check 
 
-
-### scenario 2. - desync 
-
-"啸音 + 转一下就停" = 典型的「失步（Desync）」 ⭐️
-
-初判：
-1. ⭐️ 缺相（一相接触不良）→ 启动缺相 → 啸叫 + 失步保护（~40%）
-2. 电调启动参数不对（Bluejay 启动功率低/timing 不匹配）（30%）
-3. 电调某相 MOSFET 驱动弱（20%）
-4. 电机绕组局部短路（10%）
-
-⚠️ 注意："单独测电机都能转" ≠ 电机没问题 —— 空载电流小，掩盖带载失步
-
-确诊四步：
-① 检查 4 个电机全部焊点（重点：啸音那个）
-② 对调测试（同下）
-③ ESC Configurator 调参：
-   - Startup Power ↑（启动功率调高）
-   - Motor Timing 调整
-   - Demag Compensation 开启
-④ 重刷 Bluejay / 换版本验证（你之前刷过固件）
+① Actual motor rotation direction (physical)
+② Propeller type (CW / CCW)         ← must match ①
+③ Flight controller setting `yaw_motors_reversed`  ← must match ①
 
 
 
