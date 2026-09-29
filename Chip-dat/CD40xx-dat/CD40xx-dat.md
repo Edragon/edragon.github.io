@@ -3,6 +3,11 @@
 # CD40xx-dat
 
 
+
+
+- [[logic-dat]] - [[buffer-dat]] - [[logic-inverter-dat]] - [[CD40xx-dat]] - [[CD4050-dat]]
+
+
 - [[CD4069-dat]] - [[CD40xx-dat]]
 
 

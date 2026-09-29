@@ -2,6 +2,13 @@
 # vishay-dat
 
 
+
+
+- [[vishay-dat]] - [[DG408-dat]] - [[multiplexer-dat]]
+
+
+
+
 - [[vishay-dat]] - [[SIZ322DT-dat]] - [[mosfet-dat]]
 
 - [[vishay-diode-dat]] - [[diode-dat]] - [[vishay-dat]] - [[diode-schottky-dat]]

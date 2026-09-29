@@ -1,4 +1,15 @@
+
+
+
 # logic-inverter-dat
+
+
+
+
+- [[logic-dat]] - [[buffer-dat]] - [[logic-inverter-dat]] - [[CD40xx-dat]] - [[CD4050-dat]]
+
+
+
 
 - [[logic-XOR-dat]] - [[logic-NAND-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
 

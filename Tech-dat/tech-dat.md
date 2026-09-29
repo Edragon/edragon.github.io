@@ -312,7 +312,7 @@
 
 - [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]] - [[isolator-dat]] - [[reset-dat]]
 
-- [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]]
+- [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]] - [[multiplexer-dat]] - [[logic-gate-dat]]
 
 - [[DC-blocking-dat]] 
 

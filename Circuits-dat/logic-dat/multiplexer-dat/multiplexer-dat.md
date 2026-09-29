@@ -2,10 +2,19 @@
 # multiplexer-dat
 
 
+- [[logic-dat]]
+
+
+
+## chip 
+
 - [[AD-logic-dat]] - [[logic-dat]] - [[multiplexer-dat]]
 
 
+
 - [[Multiplexer-dat]] - [[74xx-dat]]
+
+- [[vishay-dat]] - [[DG408-dat]] - [[multiplexer-dat]]
 
 - [[74HC4067-dat]]
 

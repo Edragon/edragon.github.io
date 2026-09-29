@@ -2,7 +2,7 @@
 # LM324-dat
 
 
-
+LM324N == LOW POWER QUAD OPERATIONAL AMPLIFIERS
 
 
 - [[EDA-simulation-dat]]
@@ -11,7 +11,7 @@ LMx24, LMx24x, LMx24xx, LM2902, LM2902x, LM2902xx, LM2902xxx Quadruple Operation
 
 LM2902M - IC QUAD OPERATIONAL AMP(14SOP)
 
-- [[amplifier-dat]]
+- [[amplifier-dat]] - [[LM324-dat]]
 
 ## Info 
 
@@ -25,6 +25,11 @@ chip info, [datasheet](https://www.ti.com/lit/ds/symlink/lm324.pdf?ts=1761973239
 ## build 
 
 - [[LM324-dat]] - [[battery-balance-charger-dat]] - [[LK-1008D-dat]]
+
+- [[RTD-dat]] 
+
+- [[ITF1006-dat]]
+
 
 
 ### Typical Application

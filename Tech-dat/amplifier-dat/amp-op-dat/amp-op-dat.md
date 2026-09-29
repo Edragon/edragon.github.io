@@ -10,6 +10,12 @@
 ## chip 
 
 
+
+`OP07DP` - Low-offset voltage, single operational amplifier with external input offset voltage adjustment | P | 8 | 0 to 70
+
+
+
+
 MC1458 - MC1458, MC1558 - DUAL GENERAL-PURPOSE OPERATIONAL AMPLIFIERS
 
 - [[3peak-dat]] - [[TP5551-dat]] - [[TP09-dat]] - [[amp-op-dat]]

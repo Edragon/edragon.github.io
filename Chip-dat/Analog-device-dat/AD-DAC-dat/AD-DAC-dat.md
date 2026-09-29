@@ -2,6 +2,13 @@
 
 # AD-DAC-dat
 
+
+- [[AD7864-dat]] - [[AD-DAC-dat]]
+
+- [[AD7837-dat]] - [[AD7847-dat]] - [[AD-DAC-dat]]
+
+
+
 - [[DAC-dat]] - [[ADC-dat]] - [[AD-DAC-dat]] - [[AD-ADC-dat]]
 
 - [[AD9850-dat]] - [[analog-device-dat]]
