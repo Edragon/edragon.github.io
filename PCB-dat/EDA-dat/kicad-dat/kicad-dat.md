@@ -25,6 +25,12 @@
 - [[PCB-design-dat]]
 
 
+## library 
+
+https://app.ultralibrarian.com/search?queryText=SiZ322DT
+
+https://www.snapeda.com/search/?q=SiZ322DT&search-type=parts
+
 ## files 
 
 - .kicad_pro - project file

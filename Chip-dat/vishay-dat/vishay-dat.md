@@ -9,7 +9,7 @@
 
 
 
-- [[vishay-dat]] - [[SIZ322DT-dat]] - [[mosfet-dat]]
+- [[vishay-dat]] - [[SIZ322-dat]] - [[mosfet-dat]]
 
 - [[vishay-diode-dat]] - [[diode-dat]] - [[vishay-dat]] - [[diode-schottky-dat]]
 
