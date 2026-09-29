@@ -19,6 +19,11 @@
 
 
 
+## sensor 
+
+- [[IR2171-dat]] - [[infineon-dat]]
+
+
 ## PMIC / power 
 
 - [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]

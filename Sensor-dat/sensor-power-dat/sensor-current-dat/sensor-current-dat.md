@@ -23,6 +23,16 @@
 
 - [[dc-current-sensor-dat]]
 
+
+
+
+## chip 
+
+- [[IR2171-dat]] - [[infineon-dat]] - [[sensor-current-dat]]
+
+
+
+
 - [[ACS712-dat]] - [[SVC1000-dat]]
 
 - [[ESP32-dat]]

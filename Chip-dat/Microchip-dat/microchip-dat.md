@@ -10,6 +10,11 @@
 
 
 
+
+
+
+
+
 ## sensor 
 
 - [[sensor-touch-dat]] - [[microchip-dat]] - [[MTCH6102-dat]] - MTCH6102 15-channel capacitive touch sensing
@@ -37,6 +42,11 @@ MCP1253 == Low Noise, Positive-Regulated Charge Pump
 
 
 ## control 
+
+
+
+- [[MIC44F18-dat]] - [[microchip-dat]] - [[mosfet-driver-dat]]
+
 
 
 ## fan control 
