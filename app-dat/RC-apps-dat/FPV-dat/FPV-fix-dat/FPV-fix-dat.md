@@ -26,6 +26,10 @@
 
 - [[motor-FPV-dat]] - [[ESC-FPV-dat]] - [[ESC-dat]]
 
+
+
+
+
 ## replaceable parts 
 
 - [[camera-FPV-dat]] - [[camera-FPV]] - [[camera]]
@@ -35,6 +39,15 @@
 
 
 ## fix scenario 
+
+
+
+
+### scenario 4. - 1 / 4 motor/propeller not running 
+
+- [[mosfet-dat]] 
+
+- [[FPV-fix-dat]] - [[PCB-fix-dat]] - [[X12-dat]] - [[FC-AIO-dat]]
 
 
 ### scenario 2. - desync

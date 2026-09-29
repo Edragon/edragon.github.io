@@ -90,6 +90,9 @@ This value represents the component thickness, used to compensate for the nozzle
 
 ### Common SMD Component Thickness Reference
 
+
+![](2026-09-29-21-07-49.png)
+
 | Component Type           | Package (EIA)  | Thickness Range (mm) |
 | :----------------------- | :------------- | :------------------- |
 | **SMD Resistor**         | 0201           | 0.2 ~ 0.3            |

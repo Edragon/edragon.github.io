@@ -466,9 +466,20 @@ https://www.vishay.com/docs/63569/sis322dnt.pdf
 
 MOS场效应管
 
+
+
+
+
+
+
 ## apps 
 
 - [[LED-driver-dat]] - [[mosfet-dat]]
+
+- [[X12-dat]] - [[FC-AIO-dat]] - [[PCB-fix-dat]]
+
+
+
 
 
 ## fault detection 
