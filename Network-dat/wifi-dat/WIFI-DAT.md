@@ -18,8 +18,10 @@
 - [[wifi-dat]] - [[wifi-sense-dat]]
 
 
+## inteface 
 
-
+- [[wifi-USB-dat]] - [[RTL8812-dat]]
+- [[Wifi-SDIO-dat]] - [[RTL8822-dat]] (partitial)
 
 ## tech 
 

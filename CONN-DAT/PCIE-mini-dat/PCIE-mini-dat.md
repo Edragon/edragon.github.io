@@ -1,5 +1,5 @@
 
-# mini-PCIE-dat
+# PCIE-mini-dat
 
 
 
@@ -9,6 +9,20 @@
 - 52-pin
 
 - [[F133-dat]]
+
+
+
+## app
+
+- [[wifi-SDIO-dat]] - [[RTL8822-dat]]
+
+
+
+## SDIO interface 
+
+![](2026-10-01-04-28-38.png)
+
+![](2026-10-01-04-30-34.png)
 
 
 ## SCH 
