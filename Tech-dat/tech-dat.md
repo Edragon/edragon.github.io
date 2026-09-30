@@ -115,9 +115,9 @@
 
 - [[lora-dat]] - [[SX1262-dat]]
 
-- [[rf-link-dat]] - [[rf-dat]]
+- [[rf-link-dat]] - [[rf-dat]] 
 
-- [[ELRS-dat]] - [[CRSF-dat]] - [[radiomaster-dat]] - [[radiomaster-pocket-dat]]
+- [[rc-protocols-dat]] - [[ELRS-dat]] - [[CRSF-dat]] - [[radiomaster-dat]] - [[radiomaster-pocket-dat]]
 
 - [[M2M-dat]] - [[SIMCOM-dat]] - [[quectel-dat]] - [[A7670-dat]]
 
