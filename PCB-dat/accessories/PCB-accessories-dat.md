@@ -1,5 +1,5 @@
 
-# PCB-accesories-dat
+# PCB-accessories-dat
 
 - [[heatsink-dat]] 
 
@@ -39,7 +39,7 @@ magnetic plate
 
 ![](2026-09-18-01-47-23.png)
 
-
+![](2026-10-01-00-30-41.png)
 
 ## ref 
 

@@ -7,9 +7,10 @@
 
 - [[VTX-dat]] - [[VRX-dat]] - [[antenna-FPV-dat]]
 
-- [[FPV-build-dat]]
+- [[FPV-build-dat]] - [[FPV-dat]]
 
 
+- [[antenna-type-dat]]
 
 
 ## tech 

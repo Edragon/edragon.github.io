@@ -114,6 +114,11 @@ high drive - [[transistor-dat]]
 
 - [[power-smoke-stopper-dat]] - [[power-dat]]
 
+- [[JHEMCU-dat]] - [[FPV-fleet-dat]] 
+
+![](2026-10-01-00-31-49.png)
+
+
 
 ## ref 
 

@@ -18,7 +18,7 @@ by - [[antenna-polarization-dat]] - [[antenna-type-dat]]
 - [[antenna-whip-dat]]
 
 
-
+![](2026-10-01-00-23-44.png)
 
 
 ## SMA antenna 
