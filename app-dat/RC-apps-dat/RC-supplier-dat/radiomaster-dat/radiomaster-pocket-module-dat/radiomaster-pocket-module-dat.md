@@ -28,6 +28,8 @@ Nano高频头V2 远航2W大功率fpv穿越机信号增强ELRS
 
 
 
+- [[irangex-dat]] - [[IRX4-lite-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-module-bay-dat]]
+
 
 
 ## nano module 4-in-1

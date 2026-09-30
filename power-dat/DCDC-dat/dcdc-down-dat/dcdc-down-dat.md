@@ -264,6 +264,10 @@ MT2492 SOT-23-6 2A 4.5V-16V 600kHz regulator
 
 ## apps 
 
+
+- [[power-BEC-dat]] - [[dcdc-down-dat]]
+
+
 Applications
 ● Industrial Control Power Supply
 ● General-Purpose Point-of-Load

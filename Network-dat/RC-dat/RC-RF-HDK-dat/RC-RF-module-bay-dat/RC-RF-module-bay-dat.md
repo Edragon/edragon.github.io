@@ -7,6 +7,22 @@
 - [[radiomaster-dat]] - [[radiomaster-pocket-module-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-CC2500-dat]] - [[frsky-dat]]
 
 
+
+
+## modules 
+
+- [[irangex-dat]] - [[IRX4-lite-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-module-bay-dat]]
+
+- [[ranger-nano-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-module-bay-dat]] == 1W for 10~15KM 
+
+
+
+## apps 
+
+- [[FPV-long-range-dat]] - [[RC-RF-module-bay-dat]]
+
+
+
 ## What is the JR Module Interface?
 
 The **JR Interface** (commonly referred to as the **JR Bay** or **Micro Module Bay**) is the most traditional and widely used standard physical size and connector format for external radio frequency (RF) modules in RC modeling and FPV drones.

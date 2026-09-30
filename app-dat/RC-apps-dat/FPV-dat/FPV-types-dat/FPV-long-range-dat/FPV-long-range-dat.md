@@ -3,11 +3,18 @@
 # FPV-long-range-dat
 
 
+- [[FPV-long-range-dat]] - [[RC-RF-module-bay-dat]]
+
+
+
 
 
 ## design 
 
 == [[battery-dat]] - [[rf-long-range-dat]] - [[location-FPV-dat]] == [[RTH-dat]] - [[location-dat]] - [[Line-Of-Sight-dat]] - [[VTX-dat]]
+
+- [[video-transmission-dat]] - [[camera-digital-dat]]
+
 
 
 ## info 
