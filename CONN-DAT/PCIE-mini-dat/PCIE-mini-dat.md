@@ -3,6 +3,12 @@
 
 
 
+- [[SDIO-dat]] - [[PCIE-mini-dat]]
+
+
+- [[sata-dat]] - [[msata-dat]]
+
+
 - [[mini-PCIE-dat]] - [[PCIE-dat]] - [[CONN-BTB-dat]]
 
 
