@@ -276,6 +276,8 @@ World record level
 
 ## VTX build 
 
+- [[FPV-fix-dat]]
+
 - [[RTC6705-dat]] - [[VTX-dat]]
 
 `8539SD` - [[RF-FEM-dat]] - [[chip-cn-dat]] - [[kangxi-dat]] - [[KCT8539SD-dat]] - [[RF-5.8Ghz-dat]] - [[WLAN-dat]]
@@ -285,6 +287,21 @@ PUYA `F003F16` - [[PUYAsemi-dat]] - [[PY32F003F16-dat]] - [[VTX-dat]] - [[chip-c
 
 ![](2026-09-17-18-11-48.png)
 
+
+
+## configure VTX 
+
+1. 连电池 → 看画面有没有 OSD 文字 ⭐️ 先回答这个
+2. 有 → 试摇杆组合（油门中+偏航右+俯仰中）进菜单 → 找 VTX 功率
+3. 没有 → 打开 Configurator → OSD 标签页 → 勾几个元素（电压/时间）→ 保存
+         → 再看画面是否有 OSD → 再试进菜单
+4. 顺便：CLI → version 看固件目标对不对（NO CUSTOM DEFAULTS 常源于刷错目标）
+
+
+VTX 功率要在 OSD 菜单里看到，还需要：
+  • VTX 支持 MSP/SmartAudio/Tramp（软件可控）
+  • 飞控有控制线接到 VTX
+  → 否则菜单里没有 VTX 项
 
 
 

@@ -6,6 +6,58 @@
 
 - [[futaba-dat]]
 
+
+Cause B: Analog RSSI Wire is Missing or Misconfigured
+If you are using an older receiver (like FrSky ACCST/SBUS) that uses a dedicated analog RSSI wire:
+
+Check if the physical RSSI wire is soldered from the receiver's RSSI pad to an RSSI/ADC pad on the flight controller.
+
+Go to the Ports tab in Betaflight and ensure the correct settings are applied, or go to the Configuration tab and check "RSSI ADC Analog".
+
+
+## RSSI 
+
+- [[FHSS-dat]] - [[RSSI-dat]] - [[SBUS-dat]] - [[RC-protocols-dat]]
+
+Since you are using an **FHSS / SBUS** receiver and do not have a physical analog RSSI wire, you can still get RSSI to work. **SBUS** can carry RSSI data embedded directly as a channel in the digital data stream.
+
+Here is how to set it up:
+
+Step 1: Check/Set RSSI on your Radio (OpenTX / EdgeTX)
+Most traditional SBUS receivers (like FrSky XM+ or R-XSR) automatically output RSSI on Channel 16.
+
+Go to your Radio's Mixes page.
+
+Check if CH16 is assigned to RSSI (on many setups, this is handled automatically by the receiver firmware, but verify your radio model settings).
+
+Step 2: Configure RSSI in Betaflight
+Connect your flight controller to Betaflight Configurator.
+
+Go to the Receiver tab.
+
+Locate the RSSI Channel dropdown menu:
+
+Change it from Disabled to the corresponding auxiliary channel.
+
+Since Channel 1-4 are your main sticks (Throttle, Roll, Pitch, Yaw), Channel 16 usually maps to AUX 12 in Betaflight.
+
+Test it: Turn off your radio or walk away slightly and watch if the channel bar moves or if the RSSI value changes.
+
+Click Save and Reboot.
+
+Step 3: Verify the OSD Element
+Go to the OSD tab in Betaflight.
+
+Ensure you have the standard RSSI Value element enabled on your screen.
+
+Save your settings.
+
+Because the RSSI data is now correctly mapped from the SBUS stream to the RSSI channel in Betaflight, the "no data" error will disappear.
+
+
+
+
+
 ## 📡 What is SBUS? — Simple Explanation
 
 **SBUS (Serial Bus)** is a digital protocol used in RC systems to send multiple control signals (channels) over a single wire.

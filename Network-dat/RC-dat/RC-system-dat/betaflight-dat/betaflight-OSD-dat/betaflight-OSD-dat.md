@@ -4,6 +4,42 @@
 
 - [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-dat]]
 
+
+
+- [[betaflight-OSD-dat]] - [[betaflight-firmware-dat]] - [[betaflight-receiver-dat]]
+
+
+
+
+## enter OSD 
+
+- 将油门推到最上方正中间（Throttle Center/High），
+- 航向（Yaw）拉到最左，
+- 俯仰（Pitch）拉到最前方（Top）。
+
+
+
+
+## chip 
+
+- [[RTC6705-dat]]
+
+RTC6705 = 经典 5.8G 模拟图传芯片（TX01/TX02 那类）
+        ↓
+⚠️ 它【不支持】SmartAudio / Tramp
+   （那两种协议需要 VTX 自带 MCU —— RTC6705 没有）
+        ↓
+控制方式只有两种：
+  a) 【按键/拨码开关】（独立模块，最常见）← 手动切
+  b) 飞控 SPI 直控（少数 AIO 集成）
+        ↓
+⭐️ 所以：OSD 菜单里【看不到、也调不了】它的功率
+
+
+
+
+
+
 ## screen 
 
 value - 1 

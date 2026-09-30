@@ -27,7 +27,7 @@
 - [[motor-FPV-dat]] - [[ESC-FPV-dat]] - [[ESC-dat]]
 
 
-
+- [[betaflight-firmware-dat]]
 
 
 ## replaceable parts 

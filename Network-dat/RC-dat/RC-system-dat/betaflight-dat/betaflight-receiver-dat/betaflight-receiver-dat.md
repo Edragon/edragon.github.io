@@ -8,11 +8,23 @@
 
 - [[ELRS-dat]] - [[FRSKY-dat]]
 
-
+- [[SBUS-dat]] 
 
 ## Channel map 
 
 AETR1234
+
+modify YAW 
+
+    rxrange 2 1150 1850
+    save
+
+
+
+
+CLI 
+    # rxrange 4 1000 1850
+    ###ERROR IN rxrange: CHANNEL NOT BETWEEN 0 AND 3###
 
 
 

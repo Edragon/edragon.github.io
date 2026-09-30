@@ -6,7 +6,46 @@
 
 [[mobula6-dat]] - [[FRSKY-dat]] - [[betaflight-CLI-dat]] - [[betaflight-firmware-dat]] - [[betaflight-dat]]
 
+- [[betaflight-OSD-dat]] - [[betaflight-firmware-dat]]
 
+
+
+## NO CUSTOM DEFAULTS FOUND
+
+get osd_displayport_device
+
+    # get osd_displayport_device
+    ###WARNING: NO CUSTOM DEFAULTS FOUND###
+    osd_displayport_device = AUTO
+    Allowed values: NONE, AUTO, MAX7456, MSP, FRSKYOSD
+
+
+飞控刷的是"通用固件" 或 刷固件时没勾选 Apply Custom Defaults
+        ↓
+厂商预设的【端口映射 / 资源分配 / OSD 配置】都是空的
+        ↓
+可能导致：
+  • 串口（UART）分配不对
+  • 电机/外设资源映射不对
+  • ⭐️ OSD 元素未配置 → 画面里没有 OSD 显示
+  • 某些外设（VTX 控制等）不工作
+
+
+
+
+① 查固件目标对不对：
+   CLI → version
+   应为 JHEMCUF405 / JHEH405pro
+
+② 如果目标错 → 重刷固件，刷的时候【勾选 Apply Custom Defaults】⭐️
+
+③ 或先试恢复：
+   CLI → defaults → save
+   （重置为固件默认，注意会清掉现有配置）
+
+
+
+## version 
 
 check version first 
 
