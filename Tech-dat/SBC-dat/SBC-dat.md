@@ -20,6 +20,13 @@
 
 - [[RPI-SBC-dat]]
 
+- [[HiSilicon-dat]] - [[Sigmastar-dat]] - [[Radxa-dat]] - [[SBC-dat]]
+
+
+
+## apps projects 
+
+- [[camera-digital-dat]] - [[Sigmastar-dat]] - [[openHD-dat]] - [[opensource-dat]] - [[openIPC-dat]] - [[rubyFPV-dat]] - [[video-digital-dat]]
 
 
 
