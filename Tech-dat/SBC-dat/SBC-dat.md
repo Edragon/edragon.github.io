@@ -12,13 +12,24 @@
 
 - [[SBC-dat]] - [[interface-dat]]
 
+
+
+## prebuild 
+
+- [[Radxa-dat]] 
+
+- [[RPI-SBC-dat]]
+
+
+
+
 ## chip 
 
 - [[NXP-dat]]
 
-- Beaglebone Black
+- [[Beaglebone-dat]] Black
 
-- [[RPI-dat]] 
+- [[RPI-SBC-dat]] 
 
 - [[OPI-DAT]]
 

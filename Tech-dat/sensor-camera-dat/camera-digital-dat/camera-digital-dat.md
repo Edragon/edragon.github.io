@@ -9,17 +9,35 @@
 
 
 
-
-
 ## options 
+
+- [[RPI-SBC-camera-dat]] - [[camera-digital-dat]]
+
+- [[veye-dat]]
+
+- [[HDMI-dat]]
+
+- [[Sigmastar-dat]] - [[SSC338-dat]]
+
+- Raspberry Pi v1,v2, HQ cameras *
+* Most ArduCam cameras are not compatible. They are not supported on all Pi versions, have performance issues and/or lack control capabilities.
+
+- Veye cameras 290/309/327 variants (http://www.veye.cc/en/);
+- Any digital camera that has a HDMI output (720p or 1080p), using a HDMI-CSI adapter board;
+- OpenIPC cameras; OpenIPC hardware (AIO air units, Sigmastar SSC338Q); - [[openIPC-dat]] 
+
+
+
+
+
+## apps
 
 - [[rubyFPV-dat]]
 
 - [[camera-digital-dat]] - [[Sigmastar-dat]] - [[openHD-dat]] - [[opensource-dat]] - [[openIPC-dat]]
 
 
-
-commercial maker 
+## commercial maker 
 
 Digital FPV Cameras Available Beyond DJI O4 - [[caddx-dat]]
 

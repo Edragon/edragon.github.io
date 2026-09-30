@@ -12,7 +12,7 @@
 
 - [[MCU-dat]] - [[SBC-dat]] 
 
-- [[camera-digital-dat]] 
+- [[camera-digital-dat]] - [[Sigmastar-dat]]
 
 - [[RF-modules-dat]] - [[RF-dat]]
 
