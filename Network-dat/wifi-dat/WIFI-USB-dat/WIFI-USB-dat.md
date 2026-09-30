@@ -4,6 +4,7 @@
 - [[wifi-dat]] - [[wifi-USB-dat]]
 
 
+- [[wifi-USB-dat]] - [[Wifi-SDIO-dat]] - [[wifi-dat]]
 
 
 

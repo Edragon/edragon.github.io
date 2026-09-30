@@ -2,6 +2,12 @@
 
 # amplifier-rf-dat
 
+
+
+- [[SKY85601-dat]] - [[skyworks-dat]] - [[amplifier-low-noise-dat]] - [[amplifier-dat]]
+
+
+
 - [[amplifier-rf-dat]] - [[amplifier-dat]] - [[amplifier-GNSS-dat]] - [[zhongkewei-dat]]
 
 

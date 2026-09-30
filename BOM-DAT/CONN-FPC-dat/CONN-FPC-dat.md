@@ -7,12 +7,22 @@
 
 
 
+
+## apps 
+
+- [[CONN-FPC-dat]] - [[Wifi-SDIO-dat]]
+
+
+
+
+## Info 
+
+
+
 FFC usually means “Flat Flex Cable”
 
 - add [[test-point-dat]] for debugging 
 
-
-## Info 
 
 - common pitch 0.5 mm
 
