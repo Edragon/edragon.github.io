@@ -23,6 +23,9 @@
 - [[Xiongmai-dat]]
 
 
+## tech 
+
+- [[wifi-dat]]
 
 ## apps 
 
