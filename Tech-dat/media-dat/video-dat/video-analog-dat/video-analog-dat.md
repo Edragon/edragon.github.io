@@ -3,6 +3,16 @@
 
 # video-analog-dat
 
+
+
+- [[video-analog-dat]] - [[video-digital-dat]] - [[video-transmission-dat]] - [[video-dat]]
+
+- [[VTX-dat]] - [[VRX-dat]]
+
+
+- [[video-analog-dat]] - [[video-transmission-dat]] - [[video-dat]] - [[camera-analog-dat]]
+
+
 - [[video-digital-dat]] - [[video-dat]] - [[video-analog-dat]]
 
 
@@ -10,6 +20,47 @@
 
 
 - [[sensor-camera-dat]] - [[camera-analog-dat]] - [[camera-FPV-dat]]
+
+
+### ⚠️ 模拟图传做不到 10-20km（不划算）
+- 实用 2-5km；极限 10-20km 需 1-2W + 高增益定向天线 + **地面跟踪云台**（画质仍差）
+
+
+
+### Other RC video transmission
+
+![](2025-04-23-14-33-42.png)
+
+
+
+
+## Can a 2W Analog FPV Transmission System Run 24/7?
+
+**Yes, but with precautions:**
+
+#### ✅ Conditions for Safe 24/7 Operation:
+- **Good cooling** (heatsink + fan recommended)
+- **Stable power supply**
+- **Antenna always connected**
+- **High-quality VTX components**
+
+#### ⚠️ Risks:
+- Overheating
+- Component wear/failure
+- Possible RF interference
+
+#### 🔧 Tips:
+- Add active cooling
+- Use lower power if long range isn’t needed
+- Monitor temperature
+- Consider industrial-grade VTX or digital systems for reliability
+
+#### Issue: This device is not well-suited for continuous surveillance applications.
+
+Limitation: Requires a cool-down period after 4-5 hours of operation, suggesting potential overheating or reliability concerns with extended use.
+
+
+
 
 ## improve the performance of analog video
 
@@ -66,6 +117,14 @@ Ranked by cost-effectiveness:
 
 - [[chip-cn-dat]] - [[fullhan-dat]] - [[FH8686-dat]] - [[media-ISP-dat]] - [[video-dat]] - [[video-analog-dat]] - [[caddx-ant-dat]] 
 
+
+
+
+
+
+## Analog FPV Transmission System
+
+![](2025-04-11-14-42-43.png)
 
 
 
