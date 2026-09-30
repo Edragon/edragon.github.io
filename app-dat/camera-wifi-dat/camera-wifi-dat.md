@@ -1,6 +1,8 @@
 
 # camera-wifi-dat.md
 
+- [[sensor-camera-dat]] - [[camera-wifi-dat]] - [[camera-IP-dat]] - [[camera-surveillance-dat]] 
+
 - [[camera-wifi-dat]] - [[camera-surveillance-dat]] - [[camera-thermal-dat]]
 
 

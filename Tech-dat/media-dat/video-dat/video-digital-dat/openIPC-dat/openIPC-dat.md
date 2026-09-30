@@ -7,7 +7,7 @@
 
 - [[opensource-dat]] - [[openIPC-dat]] ?? - [[IMX307-dat]] - [[VTX-dat]]
 
-- [[camera-digital-dat]] - [[Sigmastar-dat]] - [[openHD-dat]] - [[opensource-dat]] - [[openIPC-dat]] - [[rubyFPV-dat]]
+- [[camera-digital-dat]] - [[Sigmastar-dat]] - [[openHD-dat]] - [[opensource-dat]] - [[openIPC-dat]] - [[rubyFPV-dat]] - [[video-digital-dat]]
 
 
 
@@ -29,6 +29,9 @@ https://github.com/OpenIPC/wiki/blob/master/en/installation.md
 
 https://docs.openipc.org/getting-started/homepage/
 
+flash tool - https://github.com/OpenIPC/companion/releases
+
+
 
 ## branches 
 
@@ -47,6 +50,12 @@ https://docs.openipc.org/getting-started/homepage/
 
 
 - [[Eachine-dat]] - [[Eachine-Sphere-Link-dat]]
+
+
+
+
+
+
 
 
 ## ref 

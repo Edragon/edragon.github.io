@@ -139,7 +139,7 @@
 
 - [[mcu-dat]] - [[dev-board-dat]] - [[PIC-dat]] - [[risc-v-dat]] - [[stm32-dat]] - [[CPU-dat]] - [[RPI-MCU-dat]] - [[peripherals-dat]]
 
-- [[SBC-dat]] - [[RPI-SBC-dat]] (raspberry pi)
+- [[SBC-dat]] - [[RPI-SBC-dat]] (raspberry pi) - [[RPI-zero-dat]]
 
 - [[CPLD-dat]] - [[FPGA-dat]] - [[DSP-dat]]
 
@@ -327,7 +327,7 @@
 
 - [[control-system-dat]]
 
-- [[opensource-dat]] - [[flipper-zero-dat]] - [[openpnp-dat]] - [[ardupilot-dat]] - [[meshtastic-dat]] - [[home-assistant-dat]]
+- [[opensource-dat]] - [[flipper-zero-dat]] - [[openpnp-dat]] - [[ardupilot-dat]] - [[meshtastic-dat]] - [[home-assistant-dat]] - [[openIPC-dat]]
 
 - [[solutions-dat]]
 

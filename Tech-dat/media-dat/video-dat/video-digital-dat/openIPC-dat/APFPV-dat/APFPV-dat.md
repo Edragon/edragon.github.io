@@ -12,6 +12,10 @@
 https://docs.openipc.org/use-cases/fpv/apfpv/apfpv/#understanding-the-setup
 
 
+- [[openIPC-flash-dat]] - [[openIPC-use-dat]]
+
+## info 
+
 For Your (VTX):
 - OpenIPC-compatible camera/board
 - WiFi chip (RTL8812AU, RTL8812EU or RTL8733BU)

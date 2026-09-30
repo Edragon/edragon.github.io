@@ -6,6 +6,7 @@
 - [[IMX378-dat]] - [[IMX219-dat]]
 
 
+- [[sony-dat]] - [[IMX415-dat]]
 
 
 The ISX031-GMSL-Camera-Hxx camera module is designed based on the Sony automotive-grade CMOS image sensor `ISX031`
