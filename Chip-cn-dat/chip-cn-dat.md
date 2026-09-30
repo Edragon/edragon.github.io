@@ -56,7 +56,7 @@
 
 - [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]
 
-
+- [[Goke-dat]] - [[chip-cn-dat]]
 
 - [[holtek-dat]] - [[hcwsemi-dat]]
 

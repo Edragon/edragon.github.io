@@ -8,6 +8,17 @@
 
 
 
+https://github.com/OpenIPC/firmware
+
+
+- [[camera-IP-dat]] - [[sensor-camera-dat]]
+
+
+best support 
+
+- [[openIPC-dat]] - [[HiSilicon-dat]] - [[SigmaStar-dat]] - [[Goke-dat]] - [[Ingenic-dat]]
+
+
 ## parts 
 
 - [[MCU-dat]] - [[SBC-dat]] 
