@@ -2,11 +2,17 @@
 
 # Goke-dat
 
+
+- [[goke-dat]] - [[GK7205V210-dat]] - [[camera-IP-dat]] 
+
+
+
+
 - [[Goke-dat]] - [[chip-cn-dat]] - [[camera-IP-dat]] 
 
 - [[CVBS-dat]] 
 
-
+- [[GK7205V210-dat]]
 
 - Goke GK7102
 - Goke GK7102C

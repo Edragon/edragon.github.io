@@ -17,9 +17,22 @@ https://github.com/OpenIPC/firmware
 - [[camera-IP-dat]] - [[sensor-camera-dat]]
 
 
-best support 
+## best support 
 
 - [[openIPC-dat]] - [[HiSilicon-dat]] - [[SigmaStar-dat]] - [[Goke-dat]] - [[Ingenic-dat]]
+
+
+- [[goke-dat]] - [[GK7205V210-dat]] - [[camera-IP-dat]] - [[openIPC-dat]]
+
+- [[Sigmastar-dat]] - [[SSC338-dat]] - [[openIPC-dat]]
+
+
+
+## SDK 
+
+- [[uboot-dat]] - [[openIPC-dat]] == unlock 
+
+
 
 
 

@@ -108,6 +108,8 @@ At 5 times faster than traditional Wireless-G (802.11b) networks, Wireless-N net
 
 - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 
+- [[Sigmastar-dat]] - [[SSC338-dat]] - [[openIPC-dat]] - [[wifi-dat]]
+
 
 ## ref 
 

@@ -1,6 +1,35 @@
 
 # u-boot-dat
 
+- [[uboot-dat]] - [[openIPC-dat]]
+
+
+
+
+
+
+
+
+
+## unlock openIPC 
+
+note unlock 
+
+https://github.com/OpenIPC/burn#unlock-flash-on-gk7205v200-and-gk7205v210
+
+Unlock flash on gk7205v200 and gk7205v210
+
+$ ./burn --chip gk7205v200 --file=u-boot/gk7205v200.bin --break; screen -L /dev/ttyUSB0 115200
+
+goke # sf probe
+@do_spi_flash_probe() flash->erase_size: 65536, flash->sector_size: 0
+goke # sf lock 0
+unlock all block.
+
+
+
+
+
 ## prequiresite 
 
 - [[arm-compiler-dat]]

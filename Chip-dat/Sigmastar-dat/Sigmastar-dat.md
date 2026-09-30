@@ -8,7 +8,7 @@
 
 - [[camera-digital-dat]] - [[Sigmastar-dat]] - [[openHD-dat]]
 
-- [[Sigmastar-dat]] - [[SSC338-dat]]
+- [[Sigmastar-dat]] - [[SSC338-dat]] - [[openIPC-dat]]
 
 
 
