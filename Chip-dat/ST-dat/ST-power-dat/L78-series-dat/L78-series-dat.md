@@ -4,6 +4,11 @@
 # L78-series-dat
 
 
+
+
+- [[78L05-dat]] - [[LM7805-dat]] - [[L78-series-dat]] - [[LM317-dat]] - [[LDO-dat]]
+
+
 - [[LDO-dat]] - [[ST-power-dat]] - [[L78xx-dat]] - [[ST-power-dat]] - [[ST-dat]] - [[L78-series-dat]]
 
 

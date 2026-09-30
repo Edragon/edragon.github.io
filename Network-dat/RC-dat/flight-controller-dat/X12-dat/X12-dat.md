@@ -1,6 +1,9 @@
 
 # X12-dat
 
+
+- [[FPV-fix-dat]] - [[PCB-fix-dat]]
+
 - [[betaflight-dat]]
 
 [[PCB-defect-problem-analysis-dat]] == [[flight-controller-dat]] - [[FC-AIO-dat]] - [[X12-dat]]
@@ -39,7 +42,7 @@ burned on [[battery-3s-dat]], can not be shorted like the image, the images is w
 
 
 
-
+## sensor 
 
 X12 ELRS V2.2 
 
@@ -49,7 +52,7 @@ X12 ELRS V2.2
 ![](2026-09-16-21-29-00.png)
 
 
-
+### drive 
 
 - [[PCB-fix-dat]] - [[X12-dat]]
 
@@ -57,11 +60,10 @@ X12 ELRS V2.2
 
 ![](2025-09-03-14-17-23.png)
 
-- [[richtek-dat]] - [[LDO-dat]] - [[RT9078-dat]] - [[X12-dat]]
 
 ![](2026-09-15-02-26-39.png)
 
-- [[EFM8-dat]] - [[MCU-dat]] - [[silicon-labs-dat]]
+- [[EFM8-dat]] - [[MCU-dat]] - [[silicon-labs-dat]] == BB21 - 
 
 GMCR GMCRb SOT23-5
 
@@ -69,11 +71,12 @@ GMCR GMCRb SOT23-5
 
 
 
-- [[AT7456E-dat]] - [[zhongkewei-dat]] - [[OSD-dat]]
 
-- [[vishay-dat]] - [[SIZ322DT-dat]] - [[mosfet-dat]]
+- [[vishay-dat]] - [[SIZ322-dat]] - [[mosfet-dat]] == z322
 
+trace 
 
+![](2026-09-29-20-34-12.png)
 
 
 ### power 
@@ -82,8 +85,13 @@ GMCR GMCRb SOT23-5
 
 ![](2026-09-16-21-51-58.png)
 
+- [[richtek-dat]] - [[LDO-dat]] - [[RT9078-dat]] - [[X12-dat]]
+
+
 
 ### VTX 
+
+- [[AT7456E-dat]] - [[zhongkewei-dat]] - [[OSD-dat]]
 
 
 - alternative == 

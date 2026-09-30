@@ -17,6 +17,17 @@ common brand: 	Infineon
 
 
 
+
+## SOT-416 
+
+- [[transistor-dat]] == 1N 
+
+BC847T: NXP/Philips NPN general-purpose transistor (SOT-416 package).
+
+
+
+
+
 ## brand 
 
 - [[NXP-dat]] - [[PMBT3904-dat]]

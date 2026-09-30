@@ -41,7 +41,7 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 - [[sensor-voltage-dat]]
 
-
+- [[video-dat]] - [[video-line-driver-dat]]
 
 
 ## chip 
@@ -58,6 +58,20 @@ TM7705+AD7705+16位ADC数据采集模块
 
 
 ## SCH 
+
+
+
+### ADC driver 
+
+![](2026-09-25-14-35-24.png)
+
+- [[filter-dat]] - [[filter-band-pass-dat]] - [[AD805x-dat]] - [[AD9201-dat]]
+
+
+
+
+
+
 
 ### ADC with measure MOSFET control 
 

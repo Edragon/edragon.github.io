@@ -2,6 +2,9 @@
 # RC-controller-dat
 
 
+
+- [[hotrc-dat]] - [[hotrc-HT-8A-dat]]
+
 - [[rc-transmitter-dat]] - [[rc-receiver-dat]] - [[rc-receiver-PWM-dat]] - [[rc-controller-dat]]
 
 - [[RC-controller-dat]] - [[radiomaster-dat]] - [[flysky-dat]] - [[GFSK-dat]] - [[GPSK-dat]]

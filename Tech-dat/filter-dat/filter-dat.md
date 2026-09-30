@@ -1,6 +1,12 @@
 
 # filter-dat
 
+
+
+
+- [[filter-dat]] - [[filter-band-pass-dat]] - [[AD805x-dat]]
+
+
 - [[capacitor-dat]]
 
 - [[filter-dat]] - [[filter-high-pass-dat]] - [[filter-low-pass-dat]] - [[low-pass-rc-filter-dat]]

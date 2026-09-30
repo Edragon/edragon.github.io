@@ -141,6 +141,9 @@ ME6217
 
 - [[MIC5225-dat]] - [[MIC5219-dat]] - [[microchip-power-dat]] - [[micrel-dat]] - [[MIC2930-dat]] - [[MIC5205-dat]] == [[arduino-pro-mini-dat]]
 
+
+
+
 - [[MIC5504-dat]] - [[MIC6365-dat]] - [[LDO-dat]] - [[LDO-2CH-dat]]
 
 
@@ -201,6 +204,10 @@ LD2980 - Ultra low drop voltage regulators compatible with low ESR output - [[ST
 
 
 ## large current 
+
+
+- [[78L05-dat]] - [[LM7805-dat]] - [[L78-series-dat]] - [[LM317-dat]] - [[LDO-dat]]
+
 
 - [[LM7805-dat]] - [[TI-power-dat]] - [[LM317-dat]]
 

@@ -25,6 +25,9 @@ M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-f
 - [[LNA-dat]]
 
 
+- [[amplifier-dat]] - [[LM324-dat]]
+
+
 - [[LM358-dat]] - [[LMV321-dat]]
 
 ## operational amplifiers (op-amps)

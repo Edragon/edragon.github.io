@@ -43,7 +43,7 @@ control by [[arduino-dat]] - [[MCU-dat]]
 - [[AOSMD-mosfet-dat]] - [[4264E-dat]] - [[AON7934-dat]]
 
 
-
+- [[mosfet-RF-dat]]
 
 
 similar  
@@ -466,12 +466,42 @@ https://www.vishay.com/docs/63569/sis322dnt.pdf
 
 MOS场效应管
 
+
+
+
+
+
+
 ## apps 
 
 - [[LED-driver-dat]] - [[mosfet-dat]]
 
+- [[X12-dat]] - [[FC-AIO-dat]] - [[PCB-fix-dat]]
+
+
+
+
 
 ## fault detection 
+
+
+⭐️ 温度测试是分水岭：
+- 烫 → MOSFET 半坏（换件，走二号机的路）
+- 不烫 → 栅极驱动/焊点问题（查驱动侧）
+
+
+
+卸桨 → 低油门让该电机"转不动"几秒 → 立即摸该通道的 MOSFET 区域
+├─ 明显比其他通道热 → ⭐️【MOSFET 半坏】实锤（漏电流/导通损耗）
+└─ 不热 → 转查栅极驱动
+⚠️ 别让它死磕太久（发热会加剧）
+
+
+二极管档测 D-S（体二极管）：对比压降/通断
+电阻档：测 Rds(on) 相对值
+→ 数值异常的那个 = 坏件
+
+
 
 - [[diode-dat]]
 

@@ -2,6 +2,9 @@
 # maxim-dat
 
 
+
+- [[MAX168x-dat]] - [[maxim-dat]]
+
 - [[analog-device-dat]] - [[maxim-dat]]
 
 

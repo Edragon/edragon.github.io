@@ -59,6 +59,9 @@ customized common:
 
 ## more chip solutions 
 
+- [[AD-interface-dat]]
+
+
 - ADM3202ARNZ == 	2/2 Transceiver Full RS232 16-SOIC - 
 
 - ADM3202/ADM3222/ADM1385 - Low Power, 3.3 V, RS-232 Line Drivers/Receivers
@@ -70,6 +73,9 @@ customized common:
 - [[renesas-dat]]
 
 - MAX232D
+
+- [[MAX3232-dat]] - [[TI-dat]] - [[RS232-dat]]
+
 
 
 ### dual 

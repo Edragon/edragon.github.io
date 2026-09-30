@@ -7,7 +7,7 @@
 - [[CPLD-dat]] - [[FPGA-dat]] - [[altera-dat]] 
 
 
-
+- [[CPLD-dat]] - [[lattice-dat]]
 
 
 

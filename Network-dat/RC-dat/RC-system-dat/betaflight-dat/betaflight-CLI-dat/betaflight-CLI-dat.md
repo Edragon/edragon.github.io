@@ -7,6 +7,61 @@
 
 
 
+
+## resource 
+
+resource 
+
+    # resource
+    resource BEEPER 1 C13
+    resource MOTOR 1 B00
+    resource MOTOR 2 B01
+    resource MOTOR 3 A03
+    resource MOTOR 4 A02
+    resource MOTOR 5 B05
+    resource MOTOR 6 B07
+    resource MOTOR 7 C09
+    resource MOTOR 8 C08
+    resource LED_STRIP 1 A09
+    resource SERIAL_TX 1 B06
+    resource SERIAL_TX 3 B10
+    resource SERIAL_TX 4 A00
+    resource SERIAL_TX 6 C06
+    resource SERIAL_RX 1 A10
+    resource SERIAL_RX 3 B11
+    resource SERIAL_RX 4 A01
+    resource SERIAL_RX 6 C07
+    resource I2C_SCL 1 B08
+    resource I2C_SDA 1 B09
+    resource LED 1 C14
+    resource SPI_SCK 1 A05
+    resource SPI_SCK 3 C10
+    resource SPI_MISO 1 A06
+    resource SPI_MISO 3 C11
+    resource SPI_MOSI 1 A07
+    resource SPI_MOSI 3 C12
+    resource ESCSERIAL 1 B08
+    resource ADC_BATT 1 C03
+    resource ADC_RSSI 1 C00
+    resource ADC_CURR 1 C02
+    resource FLASH_CS 1 B03
+    resource OSD_CS 1 B14
+    resource GYRO_EXTI 1 B13
+    resource GYRO_CS 1 B12
+    resource USB_DETECT 1 A08
+
+
+
+## feature 
+
+feature 
+
+    # feature
+    Enabled: RX_SERIAL LED_STRIP OSD AIRMODE ANTI_GRAVITY
+
+
+
+
 ## set VTX 
 
 - [[betaflight-CLI-dat]] - [[betaflight-video-transmitter-dat]]

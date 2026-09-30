@@ -3,7 +3,7 @@
 
 - [[circuits-dat]]
 
-- [[74xx-dat]]
+- [[74xx-dat]] - [[LMxx-dat]] - [[CD40xx-dat]]
 
 
 
@@ -29,8 +29,7 @@
 
 - [[logic-divider-dat]]
 
-
-
+- [[logic-dat]] - [[buffer-dat]] - [[logic-inverter-dat]] - [[CD40xx-dat]] - [[CD4050-dat]]
 
 ## chip 
 

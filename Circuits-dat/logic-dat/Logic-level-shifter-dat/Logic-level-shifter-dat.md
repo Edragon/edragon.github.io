@@ -13,6 +13,15 @@
 
 - [[TI-dat]] - [[TI-logic-dat]]
 
+
+
+
+## hex 
+
+
+
+
+
 ## signal direction 
 
 - [[logic-level-shifter-dat]] - [[74xx1G125-dat]] - [[74hct245-dat]] - [[74HC4050-dat]]

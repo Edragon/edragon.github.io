@@ -17,7 +17,7 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]] - [[mosfet-array-dat]] - [[mos-p-dat]] - [[mosfet-drive-dat]]
 
-- [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[usb-sniffer-dat]]
+- [[interface-dat]] - [[USB-SDK-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[usb-sniffer-dat]] - [[differential-line-receiver-dat]]
 
 
 - [[robot-dat]] - [[robotic-dat]]
@@ -221,7 +221,7 @@
 
 - [[PWM-dat]] - [[I2C-dat]] - [[SPI-dat]] - [[UART-dat]] - [[CAN-dat]] - [[RS485-dat]] - [[RS232-dat]] - [[I2S-dat]]
 
-- [[ADC-dat]] - [[DAC-dat]] - [[converter-dat]] - [[LDC-dat]]
+- [[ADC-dat]] - [[DAC-dat]] - [[converter-dat]] - [[LDC-dat]] - [[AD-DAC-dat]]
 
 - [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
 
@@ -312,7 +312,7 @@
 
 - [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]] - [[isolator-dat]] - [[reset-dat]]
 
-- [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]]
+- [[logic-dat]] - [[buffer-dat]] - [[74xx-dat]] - [[multiplexer-dat]] - [[logic-gate-dat]]
 
 - [[DC-blocking-dat]] 
 

@@ -5,6 +5,9 @@
 
 - [[betaflight-dat]] - [[betaflight-motors-dat]] 
 
+- [[motor-FPV-dat]] - [[betaflight-motors-dat]] 
+
+
 ## motors 
 
 - mixer 
@@ -23,6 +26,47 @@ test
 
 
 
+## get settings 
+
+get motor
+
+  # get motor
+  blackbox_disable_motors = OFF
+  Allowed values: OFF, ON
+
+  motor_pwm_protocol = DSHOT300
+  Allowed values: PWM, ONESHOT125, ONESHOT42, MULTISHOT, BRUSHED, DSHOT150, DSHOT300, DSHOT600, PROSHOT1000, DISABLED
+  Default value: DISABLED
+
+  motor_pwm_rate = 480
+  Allowed range: 200 - 32000
+
+  motor_pwm_inversion = OFF
+  Allowed values: OFF, ON
+
+  motor_poles = 12
+  Allowed range: 4 - 255
+  Default value: 14
+
+  motor_output_reordering = 0,1,2,3,4,5,6,7
+  Array length: 8
+
+  yaw_motors_reversed = ON
+  Allowed values: OFF, ON
+  Default value: OFF
+
+  crashflip_motor_percent = 0
+  Allowed range: 0 - 100
+
+  motor_output_limit = 100
+  profile 0
+  Allowed range: 1 - 100
+
+  osd_motor_diag_pos = 234
+  Allowed range: 0 - 65535
+
+
+
 
 
 ### settings 
@@ -38,6 +82,14 @@ test
 
 
 ### Motor Idle ( %, static)
+
+
+dshot_idle_value
+
+  # get dshot_idle_value
+  dshot_idle_value = 800
+  Allowed range: 0 - 2000
+  Default value: 550
 
 Motor idle (or **Disarm Throttle / Idle Throttle**) is the minimum rotational speed (RPM or throttle percentage) applied to the motors the moment you arm your drone, *before* you push the throttle stick. 
 

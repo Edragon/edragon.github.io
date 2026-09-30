@@ -22,6 +22,11 @@ Common Applications
 - General consumer electronics
 
 
+
+## typs 
+
+MOV-10D680K
+
 10D471K 
 
 07D471K

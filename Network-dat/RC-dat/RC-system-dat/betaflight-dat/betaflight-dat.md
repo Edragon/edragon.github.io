@@ -33,15 +33,19 @@
 
 ## common options 
 
+
+- [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-dat]]
+
+
 - [[betaflight-presents-dat]] 
 
 - [[betaflight-configuration-dat]] 
 
 - [[betaflight-power-battery-dat]]
 
-- [[betaflight-modes-dat]] - [[betaflight-motors-dat]] - [[betaflight-modes-dat]]
+- [[betaflight-modes-dat]] - [[betaflight-motors-dat]]
 
-- [[betaflight-video-transmitter-dat]] - [[betaflight-blackbox-dat]]
+- [[betaflight-blackbox-dat]]
 
 - [[betaflight-PID-dat]] - [[betaflight-rateprofile-dat]] - [[indoor-fly-dat]]
 
