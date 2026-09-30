@@ -8,7 +8,7 @@
 
 
 
-- [[VTX-dat]] - [[VRX-dat]] - [[video-dat]] - [[goggles-dat]]
+- [[VTX-dat]] - [[VRX-dat]] - [[video-dat]] - [[FPV-goggles-dat]]
 
 
 - [[FPV-wiring-dat]] - [[FPV-build-dat]] - [[FUS-X111-dat]]
