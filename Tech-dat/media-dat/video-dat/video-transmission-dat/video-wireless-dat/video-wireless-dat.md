@@ -2,6 +2,10 @@
 
 # video-wireless-dat
 
+
+- [[video-wireless-dat]] - [[video-tranmission-dat]] - [[video-streaming-dat]]
+
+
 - [[video-dat]] - [[video-wireless-dat]] - [[underwater-dat]] 
 
 
