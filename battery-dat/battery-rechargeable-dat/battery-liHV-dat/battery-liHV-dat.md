@@ -2,7 +2,11 @@
 
 # battery-liHV-dat
 
-- [[battery-liHV-dat]] - [[battery-FPV-dat]] - [[battery-rechargerable-dat]] 
+
+
+- [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-liHV-dat]] - [[battery-li-LFP-dat]] - [[battery-NiMH-dat]] - [[battery-lead-acid-dat]]
+
+- [[battery-liHV-dat]] - [[battery-FPV-dat]] - [[battery-rechargeable-dat]] 
 
 
 ## 1S 

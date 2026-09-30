@@ -2,7 +2,7 @@
 # Lead-acid-battery-dat
 
 
-
+- [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-liHV-dat]] - [[battery-li-LFP-dat]] - [[battery-NiMH-dat]] - [[battery-lead-acid-dat]]
 
 ## charge board 
 

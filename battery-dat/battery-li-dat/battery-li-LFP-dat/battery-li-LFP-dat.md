@@ -2,6 +2,7 @@
 # battery-li-LFP-dat
 
 
+- [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-liHV-dat]] - [[battery-li-LFP-dat]] - [[battery-NiMH-dat]] - [[battery-lead-acid-dat]]
 
 
 
@@ -16,7 +17,7 @@
 
 - [[32650-dat]] - [[32140-dat]] - [[battery-li-LFP-dat]]
 
-- [[battery-rechargerable-dat]] - [[battery-LI-dat]] - [[battery-li-LFP-dat]]
+- [[battery-rechargeable-dat]] - [[battery-LI-dat]] - [[battery-li-LFP-dat]]
 
 
 
