@@ -5,7 +5,7 @@
 - [[flight-controller-dat]] + [[ESC-dat]] - [[FPV-ESC-dat]]
 
 
-- [[FC-stack-dat]]
+- [[FC-stack-dat]] - [[FC-AIO-dat]] 
 
 
 ## F4 
@@ -23,6 +23,20 @@
 
 - [[CC3D-dat]]
 
+- [[betaflight-blackbox-dat]] - [[betaflight-dat]]
+
+
+刷 Betaflight 3.2.5
+
+- ✅ 能飞（基本姿态/手动模式）
+- ❌ 无 OSD 菜单、无 RPM 滤波、Airmode 是老版本
+- ❌ 不能用新版 Configurator（要 3.2.x 老版）
+
+🔧 可用固件 - [[betaflight-dat]]
+- • Betaflight 3.2.5（⭐️ 最后支持的版本，2017）
+- • Cleanflight 2.5.x（也已停更）
+- • iNav 1.x（要 GPS 返航才需要）
+- • OpenPilot（2013 原厂）
 
 
 ## main reference and build
