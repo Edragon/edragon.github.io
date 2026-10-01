@@ -2,9 +2,16 @@
 # PCB-design-basic-dat
 
 
+
+
+- [[PCB-design-dat]] - [[PCB-design-basic-dat]] - [[PCB-design-complex-dat]]
+
+
+
+
 - [[pcb-design-basic-dat]] - [[dev-board-dat]] - [[peripherals-dat]]
 
-- [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[PCB-form-dat]] - [[PCB-penalization-dat]]
+- [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[PCB-form-dat]] - [[PCB-penalization-design-dat]]
 
 
 ## silkscreen
