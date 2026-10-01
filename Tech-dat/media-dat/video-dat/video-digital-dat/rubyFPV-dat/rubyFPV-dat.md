@@ -3,6 +3,11 @@
 
 # rubyFPV-dat
 
+
+
+== [[VRX-dat]] + [[VTX-dat]]
+
+
 - [[opensource-dat]] - [[openHD-dat]] - [[openIPC-dat]] - [[rubyFPV-dat]]
 
 - [[betaflight-dat]]   
@@ -26,7 +31,7 @@
 
 ## parts of controller and vehicle 
 
-- [[MCU-dat]] - [[SBC-dat]] 
+- [[MCU-dat]] - [[SBC-dat]] - [[RPI-SBC-dat]] - [[rk3566-dat]] - [[rockchip-dat]]
 
 - [[camera-digital-dat]] 
 
@@ -34,7 +39,7 @@
 
 - [[power-BEC-dat]] - [[dcdc-down-dat]] == 3A / 5V 
 
-
+- [[FPV-goggles-dat]] - [[VRX-dat]]
 
 ## controller 
 

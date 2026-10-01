@@ -5,6 +5,14 @@
 
 
 
+
+
+
+## apps 
+
+- [[walksnail-dat]] - [[caddx-dat]] - [[VRX-dat]] - [[HDMI-dat]] 
+
+
 ## usage 
 
 - [[HDMI-dat]] - [[USB-type-c-dat]] - need [[displayport-dat]]

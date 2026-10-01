@@ -2,6 +2,8 @@
 # FPV-Goggles-dat
 
 
+
+
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]]
 
 - [[FPV-goggles-dat]] - [[VRX-receiver-dat]]
@@ -22,6 +24,30 @@
 - [[opensource-dat]] == [[openHD-dat]]
 
 
+
+## HDMI IN 
+
+- [[walksnail-dat]] - [[caddx-dat]] - [[VRX-dat]] - [[HDMI-dat]] 
+
+Popular models equipped with HDMI input include:
+
+1. Skyzone (Mid-to-High Tier)
+Skyzone SKY04X / SKY04X Pro / SKY04O Pro: Premium OLED analog goggles that include a mini-HDMI input port alongside their built-in SteadyView analog receivers.
+
+Skyzone Cobra X: A popular box-style analog goggle that features a full-sized HDMI input port.
+
+2. Fat Shark (Classic High Tier)
+Fat Shark Dominator HDO / HDO2 / HD3 / V3: Many traditional high-end Fat Shark goggles feature a mini-HDMI input port, making them popular for plugging straight into laptops for drone simulators.
+
+3. Modern Digital/Analog Hybrids (With Analog Module Bays)
+While technically designed as digital systems, several modern goggles support analog receiver modules and feature native HDMI input:
+
+Walksnail Avatar Goggles X: A digital goggle that includes an HDMI input/output and accepts an optional analog expansion module.
+
+HDZero Goggles / Goggles 2: High-refresh-rate OLED digital goggles that feature full HDMI input/output and an analog module bay (allowing them to function as high-end analog goggles as well).
+
+4. Budget Box Goggles
+Eachine EV800D: One of the most famous budget box goggles; it features an AV-In port, but standard versions rely on AV rather than a clean digital HDMI-in port. (Be careful checking budget models, as many cheap box goggles have AV-in via a 3.5mm jack rather than a true HDMI port).
 
 
 

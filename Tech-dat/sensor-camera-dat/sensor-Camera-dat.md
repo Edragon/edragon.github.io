@@ -243,6 +243,8 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 ## apps 
 
+- [[opensource-dat]] - [[openHD-dat]] - [[openIPC-dat]] - [[rubyFPV-dat]]
+
 - [[camera-FPV-dat]]
 
 - [[sensor-camera-dat]] - [[camera-wifi-dat]] - [[camera-IP-dat]] - [[camera-surveillance-dat]] 
