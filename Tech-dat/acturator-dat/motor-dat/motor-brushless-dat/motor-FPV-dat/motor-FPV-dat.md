@@ -239,6 +239,23 @@ A **1400KV FPV motor** means the motor spins about **1400 RPM per volt** (unload
 4. 生产上：出厂即配 4 个相同的（有些品牌会标注"匹配组"）
 
 
+
+
+## detailed specs checklist 
+
+核对清单（照着打钩）
+
+- 定子 1103
+- KV 11000
+- ⭐️ 轴径 Φ1.5mm（量现有电机轴）
+- ⭐️ 安装孔距（量机臂螺丝孔中心距）
+- ⭐️ 轴长（露出长度）
+- ⭐️ 重量（量现有电机，差异 <0.3g）
+- 极对数 9N12P
+- 相线长度够
+
+
+
 ## ref 
 
 - [[FPV]] - [[FPV-motor]]
