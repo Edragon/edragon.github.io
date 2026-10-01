@@ -3,6 +3,17 @@
 
 
 
+
+- [[TPLINK-dat]] - [[TPLINK-T4U-dat]] - [[RTL8812-dat]]
+
+
+
+
+
+
+
+
+
 ## TPLINK router 
 
 http://tplogin.cn/

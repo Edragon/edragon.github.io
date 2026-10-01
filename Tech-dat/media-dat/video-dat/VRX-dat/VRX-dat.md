@@ -36,7 +36,7 @@
 
 - [[VRX-dat]] - [[VRX-digital-dat]] - [[rubyFPV-dat]]
 
-
+- [[realtek-dat]] - [[RTL8812-dat]]
 
 ## ref 
 

@@ -6,9 +6,16 @@
 
 
 
+## RTL8812AU 
+
+目前最远飞过38公里 机载地面都是T4U网卡
+
+- [[TPLINK-dat]] - [[TPLINK-T4U-dat]] - [[RTL8812-dat]]
+
+
 ## app 
 
-- [[openIPC-dat]]
+- [[openIPC-dat]] - [[VRX-dat]]
 
 ## info 
 

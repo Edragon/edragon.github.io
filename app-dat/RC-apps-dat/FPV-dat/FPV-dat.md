@@ -52,7 +52,7 @@
 
 - [[ELRS-dat]] - [[FrSky-dat]] - [[ArduPilot-dat]] - [[CRSF-dat]]
   
-- [[BMS-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]]
+- [[BMS-dat]] - [[flight-controller-dat]] - [[ESC-dat]] - [[motor-dat]] - [[propeller-dat]] - [[propeller-FPV-dat]]
 
 - [[camera-FPV-dat]] - [[VTX-dat]]
 
