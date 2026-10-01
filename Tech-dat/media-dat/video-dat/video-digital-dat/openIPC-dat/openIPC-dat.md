@@ -21,6 +21,7 @@ https://github.com/OpenIPC/firmware
 
 - [[openIPC-dat]] - [[HiSilicon-dat]] - [[SigmaStar-dat]] - [[Goke-dat]] - [[Ingenic-dat]]
 
+- [[hi3516-dat]] - [[HiSilicon-dat]] 
 
 - [[goke-dat]] - [[GK7205V210-dat]] - [[camera-IP-dat]] - [[openIPC-dat]]
 

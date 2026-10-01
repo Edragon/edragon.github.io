@@ -91,7 +91,19 @@
 
 - [[TPLINK-dat]]
 
+
+
+
+
+
 ## Chip 
+
+
+- [[SC500AI-dat]] - [[SC4336P-dat]] - [[sensor-camera-dat]]
+
+
+
+
 
 [[OmniVision-dat]] == [[camera-DVP-dat]] - [[camera-CSI-dat]] 
 
@@ -236,6 +248,38 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 - [[sensor-camera-dat]] - [[camera-wifi-dat]] - [[camera-IP-dat]] - [[camera-surveillance-dat]] 
 
 - [[camera-thermal-dat]]
+
+![](2026-10-01-16-50-49.png)
+
+
+- 人车检测模型
+- 人脸人形车形模型
+- 人脸人形车形远距低照模型
+- 宠物模型
+- 头肩模型
+- 非机动车模型
+- 非机动车梯控模型
+- 包裹检测模型
+- 人脸抓拍模型
+- 车牌识别模型
+- 人脸识别模型
+- 旋转框检测
+- 文字检测
+- 多目标跟踪
+- 手部关键点
+
+
+## relevant tech 
+
+
+### IR cut 
+
+- [[IR-cut-dat]]
+
+![](2026-10-01-16-50-09.png)
+
+
+
 
 ## ref 
 
