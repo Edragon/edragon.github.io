@@ -92,9 +92,23 @@ flash tool - https://github.com/OpenIPC/companion/releases
 
 
 
+## build 
 
 
 
+### build air-unit // [[VTX-dat]]
+
+
+![](2026-10-01-18-34-30.png)
+
+via - [[ethernet-dat]] - [[powervision-dat]]
+
+![](2026-10-01-18-25-59.png)
+
+
+### build ground-unit // [[VRX-dat]]
+
+- [[serial-dat]]
 
 ## ref 
 
