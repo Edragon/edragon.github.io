@@ -44,7 +44,14 @@ Table7.Working mode
 - L Shutdown
 
 
-## SCH 2 
+
+## SCH 
+
+SCH 3 
+
+![](2026-10-01-17-52-41.png)
+
+SCH 2 
 
 
 ![](2025-08-07-13-03-33.png)

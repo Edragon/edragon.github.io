@@ -89,5 +89,16 @@ No. High-power USB Wi-Fi cards require a true USB 2.0 interface (5V power, D+, D
 If you are trying to hook up a compatible matching SDIO Wi-Fi card meant specifically for that board's factory firmware, these pins are correct. However, for digital FPV use (Ruby FPV / OpenHD), systems rely heavily on external high-power USB cards managed via Linux USB drivers.
 
 
+
+
+
+## SCH 
+
+![](2026-10-01-17-48-32.png)
+
+![](2026-10-01-17-48-57.png)
+
+
+
 ## ref
 

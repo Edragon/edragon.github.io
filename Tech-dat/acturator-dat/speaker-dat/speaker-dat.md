@@ -17,6 +17,12 @@
 
 
 
+
+## chip 
+
+- [[NS4150-dat]] - [[NSIWAY-dat]]
+
+
 ## boards 
 
 - [[SSL1030-dat]] - [[SSL1031-dat]]

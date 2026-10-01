@@ -17,12 +17,23 @@
 
 ## SCH 
 
+
+SCH 2 ? 
+
+![](2026-10-01-17-50-47.png)
+
+
+SCH 1 
+
 ![](2025-10-26-20-00-58.png)
 
 
 - [[ethernet-dat]] 
 
 - [[RJ45-dat]]
+
+
+
 
 
 ## deqiao dq-1508 POE module 

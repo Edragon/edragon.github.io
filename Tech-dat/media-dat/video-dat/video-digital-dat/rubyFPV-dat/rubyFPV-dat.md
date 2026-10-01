@@ -8,6 +8,9 @@
 == [[VRX-dat]] + [[VTX-dat]]
 
 
+
+
+
 - [[opensource-dat]] - [[openHD-dat]] - [[openIPC-dat]] - [[rubyFPV-dat]]
 
 - [[betaflight-dat]]   
@@ -41,7 +44,10 @@
 
 - [[FPV-goggles-dat]] - [[VRX-dat]]
 
-## controller 
+
+
+
+## controller // [[VRX-dat]]
 
 If you DIY, here is the list of components required to make a working controller:
 
@@ -55,10 +61,14 @@ wiring
 
 ![](2026-10-01-01-29-50.png)
 
-prebuild - [[VRX-dat]] - [[VRX-digital-dat]] - [[runcam-VRX-dat]] - [[runcam-dat]] - [[rubyFPV-dat]]
+prebuild - [[VRX-dat]] - [[VRX-digital-dat]] - [[rubyFPV-dat]]
+
+### reflash firmware for commercial VRX
+
+- [[VRX-dat]] - [[runcam-VRX-dat]] - [[runcam-dat]] - [[runcam-wifilink-dat]] - [[rubyFPV-dat]]
 
 
-## vehicle 
+## vehicle // [[VTX-dat]]
 
 
 If you DIY, here is the list of components required to make a working vehicle (drone, plane, car, UAV):
@@ -134,3 +144,7 @@ Automated Ecosystem: Ruby's firmware natively supports OpenIPC hardware, drastic
 
 https://github.com/RubyFPV/RubyFPV
 
+- [[bbs-dat]]
+
+
+- [[conn-data-dat]] - [[CONN-dat]]

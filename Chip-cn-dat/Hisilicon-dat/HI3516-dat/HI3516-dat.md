@@ -5,6 +5,8 @@
 - [[HI3516-dat]] - [[HiSilicon-dat]] 
 
 
+- [[WIFI-USB-dat]] - [[WIFI-SDIO-dat]] - [[microsd-dat]] - [[SD-dat]] - [[POE-dat]] - [[RS485-dat]] - [[speaker-dat]]
+
 - HiSilicon HI3516AV100
 - HiSilicon HI3516AV200
 - HiSilicon HI3516AV300
@@ -91,6 +93,19 @@ AI智能部分、人脸、人形、车辆、宠物、包裹等检测
 支持eovif协议
 支持国标GB28181协议
 虚拟机开发环境、搭建好、直接开发
+
+- [[vmware-dat]] - [[ubuntu-dat]] - [[openIPC-dat]] - [[SDK-dat]] - [[HiSilicon-dat]] - [[HI3516-dat]]
+
+
+### debug 
+
+![](2026-10-01-17-43-31.png)
+
+### firmware update 
+
+ToolPlatform-CAM-5.6.84-win32-x86_64。
+
+
 
 
 ## ref 
