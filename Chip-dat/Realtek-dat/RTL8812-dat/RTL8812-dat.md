@@ -24,6 +24,13 @@
 
 ## SCH 
 
+
+build 2 
+
+- [[RTL8812-dat]] - [[VRX-openIPC-bonnet-dat]]
+
+build 1 
+
 ![](2026-10-02-02-21-44.png)
 
 - [[TPS5430-dat]] - [[dcdc-down-dat]] - [[TPS5450-dat]] - [[RTL8812-dat]]

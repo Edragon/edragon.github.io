@@ -7,6 +7,9 @@
 
 
 
+- [[RTL8812-dat]] - [[VRX-openIPC-bonnet-dat]]
+
+
 ## build 
 
 - [[coreships-dat]] - [[SL2.1-dat]]
