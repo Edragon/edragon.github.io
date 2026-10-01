@@ -132,6 +132,9 @@ OpenIPC 摄像机方案（主流黄金组合）
 ### build ground-unit // [[VRX-dat]]
 
 
+- [[VRX-dat]] - [[openIPC-dat]] - [[VRX-openIPC-dat]] - [[VRX-openIPC-bonnet-dat]]
+
+
 - [[pixelpilot-dat]] - [[openIPC-dat]]
 
 

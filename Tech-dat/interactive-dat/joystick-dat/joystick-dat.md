@@ -1,6 +1,22 @@
 
 # joystick-dat
 
+
+
+
+## 5-directional joystick
+
+![](2026-10-02-03-17-55.png)
+
+五向按键：
+向上= 上一个
+向下= 下一个
+向左 = 返回
+向右 = 快捷键Q1
+向里 = 确认
+
+TSX103G901
+
 5-directional joystick, connecting to arduino 
 
 

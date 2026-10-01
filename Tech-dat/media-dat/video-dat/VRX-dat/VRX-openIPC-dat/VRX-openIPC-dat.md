@@ -7,6 +7,7 @@
 - [[wifi-WFB-ng-dat]]
 
 
+- [[VRX-dat]] - [[openIPC-dat]] - [[VRX-openIPC-dat]] - [[VRX-openIPC-bonnet-dat]]
 
 
 ## tech stack 

@@ -11,6 +11,7 @@
 - [[VTX-dat]] - [[VRX-dat]] - [[antenna-FPV-dat]]
 
 
+- [[VRX-dat]] - [[openIPC-dat]] - [[VRX-openIPC-dat]] - [[VRX-openIPC-bonnet-dat]]
 
 
 

@@ -3,7 +3,7 @@
 
 # VRX-openIPC-bonnet-dat
 
-
+- [[VRX-dat]] - [[openIPC-dat]] - [[VRX-openIPC-dat]] - [[VRX-openIPC-bonnet-dat]]
 
 
 
@@ -13,7 +13,7 @@
 
 - [[radxa-dat]] 
 
-pin and keys 
+pin and keys - [[keyboard-dat]] - [[keypad-dat]] - [[joystick-dat]] - [[interactive-dat]] - [[VRX-openIPC-bonnet-dat]]
 
 ![](2026-10-02-03-12-24.png)
 
@@ -23,7 +23,6 @@ pin and keys
 
 ## info 
 
-- [[VRX-dat]] - [[VRX-openIPC-bonnet-dat]] - [[openIPC-dat]]
 
 - 宽压输入 2S-6S（双向 BEC）+ 5V/3.3V 输出 + 电池电压监测
 - 4 口 USB 2.0 Hub

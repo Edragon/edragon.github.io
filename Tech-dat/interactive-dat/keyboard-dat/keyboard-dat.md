@@ -8,6 +8,11 @@
 
 
 
+
+## apps 
+
+- [[keyboard-dat]] - [[keypad-dat]] - [[joystick-dat]] - [[interactive-dat]] - [[VRX-openIPC-bonnet-dat]]
+
 ## matrix keyboard 
 
 ![](2026-09-05-13-56-29.png)
