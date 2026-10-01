@@ -51,6 +51,15 @@ rtl8812au > rtl8812eu
 
 - [[wifi-dat]]
 
+
+## build 
+
+![](2026-10-02-02-25-57.png)
+
+![](2026-10-02-02-26-06.png)
+
+https://oshwhub.com/cheng_jun/8812eu-25-5
+
 ## ref 
 
 - [[realtek]] - [[RTL8812]]
