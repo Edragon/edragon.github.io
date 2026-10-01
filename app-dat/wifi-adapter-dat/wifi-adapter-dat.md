@@ -1,6 +1,10 @@
 
 # wifi-adapter-dat
 
+
+- [[wifi-adapter-dat]] - [[RTL8812-dat]] - [[installation-antenna-dat]]
+
+
 - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 
 - [[USB-tethering-dat]] - [[USB-SDK-dat]]

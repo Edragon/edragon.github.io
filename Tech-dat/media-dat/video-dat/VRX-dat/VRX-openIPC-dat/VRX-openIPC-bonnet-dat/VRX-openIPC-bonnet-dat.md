@@ -3,6 +3,26 @@
 
 # VRX-openIPC-bonnet-dat
 
+
+
+
+
+## build 
+
+- [[coreships-dat]] - [[SL2.1-dat]]
+
+- [[radxa-dat]] 
+
+pin and keys 
+
+![](2026-10-02-03-12-24.png)
+
+- [[USB-SDK-dat]]
+
+![](2026-10-02-03-14-33.png)
+
+## info 
+
 - [[VRX-dat]] - [[VRX-openIPC-bonnet-dat]] - [[openIPC-dat]]
 
 - 宽压输入 2S-6S（双向 BEC）+ 5V/3.3V 输出 + 电池电压监测

@@ -5,6 +5,15 @@
 - [[installation-antenna-dat]] - [[antenna-dat]] - [[installation-dat]] - [[installation-tube-dat]]
 
 
+## wifi adapter module 
+
+dual antenna install 
+
+![](2026-10-02-03-06-35.png)
+
+- [[wifi-adapter-dat]] - [[RTL8812-dat]] - [[installation-antenna-dat]]
+
+
 ## install method 3 
 
 - [[installation-antenna-dat]] - [[antenna-lolipop-dat]]

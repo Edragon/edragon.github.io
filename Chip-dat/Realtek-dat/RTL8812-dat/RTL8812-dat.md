@@ -4,7 +4,23 @@
 # RTL8812-dat
 
 
+
+
+
+
+- [[wifi-adapter-dat]] - [[RTL8812-dat]] - [[installation-antenna-dat]]
+
+
+
+
+
 - [[IMX415-dat]] - [[SSC338-dat]] - [[RTL8812-dat]] - [[PCB-design-complex-dat]]
+
+
+
+## integrated 
+
+- [[VRX-openIPC-bonnet-dat]]
 
 ## SCH 
 
@@ -53,6 +69,19 @@ rtl8812au > rtl8812eu
 
 
 ## build 
+
+
+
+build 2 
+
+![](2026-10-02-03-10-46.png)
+
+![](2026-10-02-03-11-45.png)
+
+
+
+
+build 1 
 
 ![](2026-10-02-02-25-57.png)
 
