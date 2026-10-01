@@ -87,6 +87,9 @@ HV Negative
 
 ## chip 
 
+- [[SG-micro-dat]] - [[dcdc-down-mulitple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
+
+
 - [[AD-LDO-dat]] - [[LT3093-dat]]
 
 - [[diodes-dat]] - [[AP62200-dat]] - [[LDO-dat]]

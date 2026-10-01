@@ -3,7 +3,12 @@
 # dcdc-down-mulitple-dat.md
 
 
+
+
 ## chip 
+
+- [[SGmicro-dat]] - [[dcdc-down-mulitple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
+
 
 - [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
 

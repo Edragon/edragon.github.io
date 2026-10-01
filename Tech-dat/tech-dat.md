@@ -7,7 +7,7 @@
 
 - [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[glob-top-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]] - [[rc-aircraft-dat]] - [[UAV-dat]] - [[USV-dat]] - [[FPV-dat]]
+- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]] - [[rc-aircraft-dat]] - [[UAV-dat]] - [[USV-dat]] - [[FPV-dat]] - [[camera-IP-dat]]
 
 - [[circuits-dat]]
 
@@ -30,7 +30,7 @@
 
 - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[CONN-USB-HDK-dat]]
 
-- [[conn-dat]] - [[conn-cable-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]] - [[conn-power-dat]] - [[conn-battery-dat]] - [[conn-cable-terminal-dat]]
+- [[conn-dat]] - [[conn-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]] - [[conn-power-dat]] - [[conn-battery-dat]] - [[conn-cable-terminal-dat]] - [[conn-data-dat]] - [[conn-BTB-dat]]
 
 
 

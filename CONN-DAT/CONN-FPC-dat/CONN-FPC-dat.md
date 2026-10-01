@@ -2,7 +2,7 @@
 # CONN-FPC-dat 
 
 
-- [[CONN-FPC-dat]] - [[FPC-dat]]
+- [[CONN-FPC-dat]] - [[FPC-dat]] - [[conn-dat]]
 
 
 
@@ -13,6 +13,19 @@
 - [[CONN-FPC-dat]] - [[Wifi-SDIO-dat]]
 
 
+
+
+## use 
+
+- [[MIPI-dat]] - [[conn-FPC-dat]]
+
+pair 
+
+- [[IMX415-dat]] - [[SSC338-dat]] - [[RTL8812-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
+
+![](2026-10-02-02-41-36.png)
+
+![](2026-10-02-02-54-40.png)
 
 
 ## Info 

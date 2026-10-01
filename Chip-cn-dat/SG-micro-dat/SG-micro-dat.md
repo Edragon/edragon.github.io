@@ -3,7 +3,10 @@
 
 
 
-- [[LDO-dat]] - [[SGM2019-dat]] - [[sg-micro-dat]]
+- [[SG-micro-dat]] - [[dcdc-down-mulitple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
+
+
+- [[LDO-dat]] - [[SGM2019-dat]] - [[SG-micro-dat]]
 
 
 - [[SGM4890-dat]] == 1.1 Watt Audio Power Amplifier - [[speaker-dat]]

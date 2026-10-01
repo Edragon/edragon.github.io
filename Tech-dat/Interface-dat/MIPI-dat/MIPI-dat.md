@@ -1,9 +1,26 @@
 
 # MIPI-dat
 
+
+
+
+## build 
+
+- [[IMX415-dat]] - [[IMX307-dat]] - [[sony-dat]] - [[MIPI-dat]]
+
+
+
+
+## info 
+
 - [[HDMI-dat]] - [[camera-CSI-dat]] - [[interface-dat]] - [[MIPI-dat]] - [[video-dat]]
 
 - [[camera-CSI-dat]] - [[MIPI-CSI-dat]] - [[MIPI-DSI-dat]]
+
+
+
+
+
 
 ## concept 
 

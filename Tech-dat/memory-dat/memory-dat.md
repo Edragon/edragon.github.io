@@ -50,6 +50,13 @@ legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Mem
 
 
 
+## build 
+
+- [[microsd-dat]] - [[flash-dat]]  W25Q128JVSIQ
+
+![](2026-10-02-02-58-56.png)
+
+
 
 ## ref 
 

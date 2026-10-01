@@ -154,6 +154,11 @@ To visualize or analyze the raw audio waveform:
 
 
 
+## SCH 
+
+![](2026-10-02-02-52-38.png)
+
+
 ## ref 
 
 - [[LM393-dat]] - [[I2S-dat]]

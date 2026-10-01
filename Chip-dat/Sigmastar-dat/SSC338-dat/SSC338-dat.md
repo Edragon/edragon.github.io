@@ -5,7 +5,7 @@
 
 
 
-- [[IMX415-dat]] - [[SSC338-dat]] - [[RTL8812-dat]] - [[PCB-design-complex-dat]]
+- [[IMX415-dat]] - [[SSC338-dat]] - [[RTL8812-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
 
 
 
@@ -15,6 +15,8 @@
 
 - [[Realtek-dat]] - [[RTL8812-dat]] - [[RTL8822-dat]]
 
+
+- [[HI3516-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
 
 ## feature
 
@@ -117,6 +119,8 @@ Form factor	Modular board (no enclosure)
 
 - [[fitipower-dat]] - [[FP6185-dat]] - [[LDO-dat]]
 
+
+
 ## SCH 
 
 main 
@@ -127,6 +131,12 @@ peripherals - [[flash-dat]] - [[MIPI-dat]]
 
 ![](2026-10-02-02-12-03.png)
 
+
+- [[sensor-microphone-dat]] 
+
+
+
+- [[8002-dat]]
 
 ## ref 
 

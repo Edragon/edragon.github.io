@@ -2,6 +2,12 @@
 
 # HI3516-dat
 
+
+
+- [[HI3516-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
+
+
+
 - [[HI3516-dat]] - [[HiSilicon-dat]] 
 
 
@@ -106,7 +112,26 @@ AI智能部分、人脸、人形、车辆、宠物、包裹等检测
 ToolPlatform-CAM-5.6.84-win32-x86_64。
 
 
+## build 
 
+
+- [[CONN-FPC-dat]] 
+
+main 
+
+![](2026-10-02-02-56-59.png)
+
+![](2026-10-02-02-57-35.png)
+
+config 1 
+
+![](2026-10-02-02-57-50.png)
+
+config 2 
+
+![](2026-10-02-02-58-21.png)
+
+- [[memory-dat]]
 
 ## ref 
 
