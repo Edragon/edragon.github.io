@@ -15,7 +15,7 @@
 
 - [[FPV-build-dat]] - [[battery-FPV-dat]] - [[RC-supplier-dat]]
 
-- [[RC-dat]]
+- [[RC-dat]] - [[RC-protocols-dat]]
 
 - [[FPV-fleet-dat]]
 

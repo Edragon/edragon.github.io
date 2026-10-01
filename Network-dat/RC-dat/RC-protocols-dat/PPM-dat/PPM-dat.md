@@ -8,6 +8,24 @@
 - [[PWM-dat]]
 
 
+
+
+PPM 接收机（FlySky FS-A8S）- [[flysky-dat]] - [[PPM-dat]] - [[rc-protocols-dat]]
+
+- [[battler-dat]]
+
+
+8 针的 ReceiverPort（接收机专用口）
+
+
+
+GND  → ReceiverPort Pin 1（黑）
+5V   → Pin 2（红）
+信号 → Pin 3（白）← PPM 信号
+
+- [[IRX4-lite-dat]] - [[radiomaster-dat]] - [[RC-RF-module-bay-dat]]
+
+
 ## understand PPM 
 
 PPM (Pulse Position Modulation)

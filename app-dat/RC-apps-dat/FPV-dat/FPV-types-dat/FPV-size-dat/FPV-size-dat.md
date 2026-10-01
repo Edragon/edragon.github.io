@@ -10,6 +10,24 @@
 
 ## type by size 
 
+对角 电机 中心轴距
+
+- 130 mm == 3" 
+- 184mm（4 寸 ✅）
+- ~130-160mm → 3 寸
+- ~180-200mm → 4 寸
+- ~220-260mm → 5 寸
+- ~300-350mm → 7 寸
+
+
+桨径 → 桨标号
+- • 3 寸：76mm → 30xx
+- • 4 寸：102mm → 40xx
+- • 5 寸：127mm → 50xx
+- • 6 寸：152mm → 60xx
+
+
+
 - [[wing-loading-dat]] - [[FPV-size-dat]] - [[FPV-load-dat]] - [[wing-dat]]
 
 - [[FPV-whoop-micro-dat]] - [[FPV-whoop-cine-dat]]
