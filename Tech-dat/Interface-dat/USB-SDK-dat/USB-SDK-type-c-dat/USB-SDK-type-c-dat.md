@@ -2,6 +2,11 @@
 
 # USB-SDK-type-c-dat
 
+
+
+- [[CONN-USB-A-dat]] - [[CONN-USB-type-C-dat]] - [[USB-OTG-dat]] - [[USB-SDK-type-C-dat]]
+
+
 - [[CONN-USB-type-c-dat]] - [[USB-SDK-type-c-dat]] - [[cable-USB-type-c-dat]]
 
 - [[cable-USB-dat]]
@@ -42,6 +47,18 @@
 ## chips / boards / modules 
 
 - [[ESP32-C3-dat]]
+
+
+## converter 
+
+非常简单，你只需要一个 USB-C 转 USB-A 的转接头（OTG 转接头） 或一根 USB-C 转 USB-A 的数据线/母座转接线 即可。
+
+选购建议：
+
+建议买带有 PD 供电口（分线/扩展坞类型） 的 Type-C OTG 转接线。因为 Pixel 8 Pro 供电能力有限，而高性能无线网卡在全功率接收时功耗不小，外接扩展坞可以让手机在连接网卡的同时通过充电宝供电，避免手机电量迅速耗尽或因供电不足导致网卡掉线。
+
+
+
 
 ## debug info 
 

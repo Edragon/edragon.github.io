@@ -3,7 +3,7 @@
 
 # powervision-dat
 
-- [[powervision-dat]] - [[router-dat]]
+- [[powervision-dat]] - [[wifi-router-dat]]
 
 
 臻迪 PowerVision

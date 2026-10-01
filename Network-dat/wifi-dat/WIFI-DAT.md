@@ -18,12 +18,18 @@
 - [[wifi-dat]] - [[wifi-sense-dat]]
 
 
+
+
+
 ## inteface 
 
 - [[wifi-USB-dat]] - [[RTL8812-dat]]
 - [[Wifi-SDIO-dat]] - [[RTL8822-dat]] (partitial)
 
 ## tech 
+
+
+- [[wifi-dat]] - [[wifi-WFB-NG-dat]]
 
 - [[IEEE-dat]] - [[WIFI-Halow-dat]]
 
@@ -112,6 +118,11 @@ At 5 times faster than traditional Wireless-G (802.11b) networks, Wireless-N net
 - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 
 - [[Sigmastar-dat]] - [[SSC338-dat]] - [[openIPC-dat]] - [[wifi-dat]]
+
+- [[wifi-router-dat]] - [[wifi-dongle-dat]] - [[wifi-dat]] 
+
+
+
 
 
 ## ref 
