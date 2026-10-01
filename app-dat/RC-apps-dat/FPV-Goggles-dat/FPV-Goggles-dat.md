@@ -24,8 +24,37 @@
 - [[opensource-dat]] == [[openHD-dat]]
 
 
+- [[FPV-goggles-alternatives-dat]]
 
 ## HDMI IN 
+
+
+📋 支持 HDMI IN 的眼镜（关键清单）
+
+⭐️ HDZero Goggles（最推荐）
+• HDMI IN ✅ · 支持 720p/100fps · 延迟最低
+
+Skyzone SKY04X ✅ · 1080p OLED 高端
+
+Skyzone Cobra X ✅ · 盒式
+
+Orqa FPV.One Pilot ✅ · 高端
+
+Eachine EV200D / EV300D / EV300O ✅ · 性价比
+
+Fat Shark Transformer ✅ · 盒式老款
+
+
+⭐️ 最对口的方案：Eachine Sphere Link
+
+"Sphere Link HDMI receiver"
+        ↓
+⭐️ 属于 OpenIPC / RubyFPV 开源数字 FPV 生态
+⭐️ 专门的 HDMI 接收器 → 直接接你现有的眼镜
+        ↓
+（如果它自带接收功能，甚至可以省掉单独的地面站）
+
+
 
 - [[walksnail-dat]] - [[caddx-dat]] - [[VRX-dat]] - [[HDMI-dat]] 
 

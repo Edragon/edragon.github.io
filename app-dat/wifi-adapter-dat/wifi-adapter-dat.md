@@ -1,5 +1,5 @@
 
-# wifi-dongle-dat
+# wifi-adapter-dat
 
 - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 

@@ -3,6 +3,54 @@
 
 # wifi-WFB-NG-dat
 
+
+
+是什么：开源远距离数据链路协议，基于原生 WiFi 射频
+
+原理：
+- • 把 WiFi 网卡设为 monitor 模式（无关联、不等 ACK）
+- • 视频 + 遥测数据封装成 UDP 包广播
+- • ⭐️ FEC 前向纠错：默认可从 12 包块中恢复 4 个丢包
+- • 支持双向 MAVLink 遥测 + 视频下行
+
+[[openIPC-dat]] 
+
+    OpenIPC 把 wfb-ng 直接塞进【IP 摄像头芯片】
+            ↓
+    飞机端【完全不需要树莓派】！
+    （传统方案要挂个树莓派/NanoPi 做编码）
+            ↓
+    ⭐️ 更轻、更省电、更便宜
+
+
+## solutions 
+
+WFB-NG
+
+
+WFB-NG 对网卡有严格的底层要求（必须支持 Monitor 混杂监听模式 和 Packet Injection 数据包注入）。目前官方正式支持和维护的芯片方案主要有以下几种：
+
+**Realtek RTL8812AU（最经典、最主流）**
+
+特点：802.11ac 双频（主流跑 5GHz），市面上绝大多数长距离高清图传网卡（如 Alfa AWUS036ACH、BL-R8812AF1 等）均采用此方案。
+
+注意：必须使用 WFB 社区打过补丁的专属驱动（如 rtl88xxau_wfb）才能开启高性能注入。你手头的 TP-Link Archer T4U 如果是早期 V1/V2 版本，部分批次曾采用过此芯片。
+
+**Realtek RTL8812EU（新一代官方主力推荐）**
+
+特点：性能强、射频表现优秀，是目前接替老旧芯片的主力方案（如 LB-LINK 的 BL-M8812EU2 模块）。同样需要特定的补丁驱动。
+
+**Atheros AR9350 / ath9k 系列 SoC 方案（如高功率桥接网桥）**
+
+特点：常见于 TP-Link CPE510 或 Ubiquiti 等户外 CPE 设备。支持 802.11n 及 LDPC，通常刷入 OpenWRT 后在集群模式（Cluster mode）下使用。
+
+⚠️️ 社区明确不推荐或不支持的常见芯片：如 8811*、8812bu、8812cu、8814au 以及部分发热量大、射频设计 flawed 的型号（如 AC180）。
+
+
+
+
+## info 
+
 - [[wifi-dat]] - [[wifi-WFB-NG-dat]]
 
 **WFB-NG**（WiFi Broadcast-Next Generation）是一套专为**高清、超低延迟数字图传**（FPV）而设计的开源无线传输协议和软件系统。

@@ -5,6 +5,7 @@
 
 - [[wifi-router-dat]] - [[wifi-dongle-dat]] - [[wifi-dat]] 
 
+- [[wifi-adapter-dat]] - [[wifi-router-dat]]
 
 
 

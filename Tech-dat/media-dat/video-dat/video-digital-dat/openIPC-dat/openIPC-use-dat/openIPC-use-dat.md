@@ -50,3 +50,8 @@ To pair your newly flashed SSC338 air unit with your ground station controller:
 * **Check Video Feed:** Boot up your ground station; if keys and Wi-Fi channels match, the high-definition video feed from the SSC338 should appear automatically with your OSD overlay.
 * **Serial Debugging:** If something goes wrong, plug your USB-to-TTL adapter back into the UART port to inspect boot logs and service statuses in real-time.
 
+
+
+
+## ref 
+

@@ -4,6 +4,17 @@
 # video-streaming-dat
 
 
+
+
+## tech 
+
+- [[video-streaming-dat]] UDP/RTSP - [[UDP-dat]] - [[RTSP-dat]]
+
+
+
+
+## info 
+
 - [[ivideon-dat]] == $4 per month 
 
 - [[SRS-dat]] - [[SRT-dat]] - [[video-streaming-dat]] - [[video-dat]]
