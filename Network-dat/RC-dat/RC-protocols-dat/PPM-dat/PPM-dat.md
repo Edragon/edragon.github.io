@@ -10,7 +10,7 @@
 
 
 
-PPM 接收机（FlySky FS-A8S）- [[flysky-dat]] - [[PPM-dat]] - [[rc-protocols-dat]]
+PPM 接收机（FlySky FS-A8S）- [[flysky-dat]] - [[PPM-dat]] - [[rc-protocols-dat]] - [[betaflight-receiver-dat]] - [[FPV-interface-dat]] - [[FPV-dat]]
 
 - [[battler-dat]]
 

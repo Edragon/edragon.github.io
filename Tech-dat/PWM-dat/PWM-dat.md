@@ -14,6 +14,17 @@
 
 
 
+
+## PWM FPV 
+
+ELRS PWM 接收机 → ReceiverPort PWM
+
+如 RadioMaster RP3 / BetaFPV 系列（支持 PWM 输出）
+⚠️ 要接 5-6 根信号线（复杂，容易接错）
+
+
+
+
 ## analogWrite() vs writeMicroseconds() == duty-cycle vs pulse-width
 
 |                    | `analogWrite()`                                       | `writeMicroseconds()`                                                  |
