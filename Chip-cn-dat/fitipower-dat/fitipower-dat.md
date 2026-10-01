@@ -2,6 +2,13 @@
 
 # fitipower-dat
 
+
+
+- [[fitipower-dat]] - [[FP6185-dat]] - [[LDO-dat]]
+
+
+
+
 The FP6601 is a fast charge protocol controller and follows Quick Charge 2.0 specification for smart power bank application. The protocol feature monitors USB D+/D- data line voltage, and automatically adjusts output voltage of power bank and wall adaptor to optimize charge time. 
 
 - [[USB-QC2.0-dat]] - [[USB-SDK-dat]]

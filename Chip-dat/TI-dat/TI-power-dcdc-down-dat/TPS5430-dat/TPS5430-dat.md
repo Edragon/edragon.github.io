@@ -1,6 +1,9 @@
 
 # TPS5430-dat
 
+
+- [[TPS5430-dat]]
+
 TPS543x 3A, Wide Input Range, Step-Down Converter
 
 Wide input voltage range:
@@ -14,6 +17,14 @@ Available in small thermally enhanced 8-pin SO PowerPAD™ integrated circuit pa
 
 ![](2025-12-25-20-41-03.png)
 
+
+
+
+## SCH 
+
+- [[TPS5430-dat]] - [[dcdc-down-dat]] - [[TPS5450-dat]] - [[RTL8812-dat]]
+
+![](2026-10-02-02-22-49.png)
 
 ## ref 
 

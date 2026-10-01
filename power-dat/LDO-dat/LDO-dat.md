@@ -82,6 +82,9 @@ Nisshinbo Micro Devices Inc. - [[Nisshinbo-dat]] - [[NJM7800-dat]]
 HV Negative
 - [[AD-LDO-dat]] - [[LT3093-dat]]
 
+
+
+
 ## chip 
 
 - [[AD-LDO-dat]] - [[LT3093-dat]]
@@ -98,7 +101,7 @@ HV Negative
 
 - [[onsemi-dat]] - [[onsemi-LDO-dat]] - [[LDO-dat]]
 
-
+- [[fitipower-dat]] - [[FP6185-dat]] - [[LDO-dat]]
 
 comparable table 
 

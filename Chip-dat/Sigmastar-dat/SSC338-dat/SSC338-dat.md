@@ -85,5 +85,43 @@ Protocols	RTSP, ONVIF, HTTP, SSH
 Form factor	Modular board (no enclosure)
 
 
+## build 
+
+- [[SSC338-dat]] - [[conn-DF56C-dat]] - [[IMX415-dat]]
+
+![](2026-10-02-01-46-37.png)
+
+
+
+## tech 
+
+- [[ethernet-dat]] - [[corechips-dat]] - [[chip-cn-dat]]
+
+- [[microsd-dat]]
+
+- [[serial-dat]]
+
+- [[conn-data-dat]] - [[CONN-BTB-dat]]
+
+- [[TMI-dat]] - [[TMI3411-dat]]
+
+- [[rychip-dat]] - [[ry3408-dat]] - [[chip-cn-dat]] - [[dcdc-down-dat]]
+
+- [[power-dat]] - [[power-sequence-dat]] - [[SSC338-dat]]
+
+- [[fitipower-dat]] - [[FP6185-dat]] - [[LDO-dat]]
+
+## SCH 
+
+main 
+
+![](2026-10-02-02-13-50.png)
+
+peripherals - [[flash-dat]] - [[MIPI-dat]]
+
+![](2026-10-02-02-12-03.png)
+
 
 ## ref 
+
+https://oshwhub.com/cheng_jun/ssc338q-diao-can-yi-ti

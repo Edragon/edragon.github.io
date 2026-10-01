@@ -4,6 +4,11 @@
 
 - [[TMI-dat]] - [[STI3470-dat]] - [[dcdc-down-dat]] - [[IP6826-dat]] == `S47B`
 
+
+- [[TMI-dat]] - [[TMI3411-dat]]
+
+
+
 ## STI3470
 
 600KHz, 18V，2.0A Synchronous Step-Down Converter

@@ -20,10 +20,6 @@
 
 
 
-## chip 
-
-- [[ti-network-dat]] - [[ethernet-dat]] - [[DP83848-dat]]
-
 
 
 ## info
@@ -51,9 +47,11 @@ The ESP32-P4 network model can be explained as follows:
 
 
 
-
-
 ## chip 
+
+- [[ti-network-dat]] - [[ethernet-dat]] - [[DP83848-dat]]
+
+- [[ethernet-dat]] - [[corechips-dat]] - [[chip-cn-dat]] - [[SR9900-dat]]
 
 - [[W5500-dat]] - [[ENC28J60-dat]]
 

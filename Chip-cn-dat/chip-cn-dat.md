@@ -16,6 +16,8 @@
 
 - [[3peak-dat]]
 
+- [[AIT-dat]] - [[rf-star-dat]]
+
 
 - [[aosong-dat]]
 
@@ -29,6 +31,7 @@
 
 - [[chinamobile-dat]]
 
+- [[corechips-dat]] - [[chip-cn-dat]]
 
 - [[CONSONANCE-dat]] 
 
@@ -101,7 +104,7 @@
 
 - [[tkplusemi-dat]]
 
-
+- [[TMI-dat]] - [[TMI3411-dat]] - [[dcdc-down-dat]]
 
 
 - [[BL616-dat]] - [[bouffalolab-dat]] - [[BL602-dat]] - [[BL808-dat]]
@@ -111,7 +114,6 @@
 
 - [[xiaomi-dat]] - [[huawei-dat]]
 
-- [[AIT-dat]] - [[rf-star-dat]]
 
 
 - [[PUYAsemi-dat]]
@@ -124,6 +126,7 @@
 
 - [[RDA-dat]]
 
+- [[rychip-dat]] - [[ry3408-dat]] - [[chip-cn-dat]] - [[dcdc-down-dat]]
 
 - [[SIMCOM-dat]]  - [[A7670-dat]] - [[SIM800-dat]]
 

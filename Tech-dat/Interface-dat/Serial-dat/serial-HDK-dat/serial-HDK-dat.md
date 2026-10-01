@@ -30,7 +30,16 @@ common PCB setup
 - [[serial-dat]] - [[STC-dat]] - [[logic-level-shifter-dat]]
 
 
+## build 
 
+- [[CH9143-dat]] - [[CH340-dat]] N/E
+
+
+![](2026-10-02-01-55-10.png)
+
+![](2026-10-02-01-55-29.png)
+
+![](2026-10-02-01-55-53.png)
 
 ## ref 
 

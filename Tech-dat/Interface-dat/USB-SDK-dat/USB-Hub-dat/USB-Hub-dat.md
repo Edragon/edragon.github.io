@@ -12,6 +12,9 @@
 
 ## chip 
 
+
+- [[corechips-dat]] - [[SL2.1-dat]]
+
 - [[USB-hub-dat]] - [[CH334-dat]] - [[WCH-dat]]
 
 ## FE1.1 

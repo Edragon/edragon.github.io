@@ -51,6 +51,10 @@ https://esp32.com/viewtopic.php?t=2604&start=10
 ## build SCH 
 
 
+build 4 with [[mosfet-dat]] control power en 
+
+![](2026-10-02-01-53-59.png)
+
 build 3 
 
 ![](2026-10-01-17-50-05.png)
