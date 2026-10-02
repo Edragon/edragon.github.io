@@ -114,7 +114,7 @@
 - [[NSIway-dat]] - [[NS4150-dat]]
 
 
-- [[xiaomi-dat]] - [[huawei-dat]]
+- [[huawei-dat]]
 
 
 
@@ -153,6 +153,9 @@
 
 
 
+- [[xiongmai-dat]] - [[IVG-G2S-dat]] - [[chip-cn-dat]]
+
+- [[xiaomi-dat]] 
 
 ## ref 
 

@@ -5,6 +5,9 @@
 
 # VTX-openIPC-dat
 
+- [[VTX-openIPC-dat]] - [[VRX-openIPC-dat]]
+
+- [[OSD-dat]]
 
 
 ## connect to PC for debugging 
@@ -13,15 +16,14 @@
 
 ![](2026-10-02-17-27-46.png)
 
+![](2026-10-02-18-02-17.png)
+
 
 查看路由器的设备，可以看到新的连接上来了（主板使用DHCP获取IP地址，用路由器方便看地址和分配地址，直接网线插电脑也可以，但是IP需要自己想办法获取
 
 
 ## build 1 
 
-IVG-G2S == https://www.xiongmaitech.com/en/index.php/product/product-detail/204/227/456
-
-https://github.com/OpenIPC/sandbox-fpv/blob/master/notes_start_ivg-g2s.md
 
 
 
@@ -77,6 +79,29 @@ resolutions
 vi /etc/majestic.yaml
 
 ![](2026-10-02-17-21-17.png)
+
+
+
+## connect to flight controller 
+
+飞控 5V接摄像头USB线正极(如果想用12V供电，可以改到另一个座子供电，要到群里确认，接错板子会烧掉)
+飞控 GND接板上金色飞线(下方有示意图)
+飞控 T6摄像头串口 R
+
+飞控 5V 或者 9v 接 图传 JST 母座红线 5V-12V（建议直接接到 2-3S 电池上）
+飞控 GND 接 图传 JST 母座黑线（建议直接接到 2-3S 电池上）
+飞控 TX6 接 图传杜邦线（黄线 R 上）
+飞控 RX6 接 未焊线（一般不用）
+
+![](2026-10-02-18-10-34.png)
+
+![](2026-10-02-18-13-50.png)
+
+- [[INAV-dat]] - [[VTX-openIPC-dat]] - [[OSD-dat]] - [[mavlink-dat]] - [[rc-system-dat]]
+
+![](2026-10-02-18-10-46.png)
+
+![](2026-10-02-18-11-24.png)
 
 ## ref 
 
