@@ -11,6 +11,13 @@
 
 ## chip 
 
+
+
+- [[flash-nor-dat]] - [[XMC-dat]] - [[XM25QH128C-dat]] - [[hi3516-dat]] == 
+128Mbit
+
+
+
 `MT25QL256ABA1EW9`-0SIT TR - FLASH - NOR Memory IC 256Mbit SPI - Quad I/O 133 MHz 8-WPDFN (8x6) (MLP8)
 
 Micron Serial NOR Flash Memory

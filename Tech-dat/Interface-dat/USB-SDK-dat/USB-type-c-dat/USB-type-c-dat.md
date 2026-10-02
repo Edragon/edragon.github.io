@@ -1,13 +1,13 @@
 
 
-# USB-SDK-type-c-dat
+# USB-type-c-dat
 
 
 
-- [[CONN-USB-A-dat]] - [[CONN-USB-type-C-dat]] - [[USB-OTG-dat]] - [[USB-SDK-type-C-dat]]
+- [[CONN-USB-A-dat]] - [[CONN-USB-type-C-dat]] - [[USB-OTG-dat]] - [[USB-type-c-dat]]
 
 
-- [[CONN-USB-type-c-dat]] - [[USB-SDK-type-c-dat]] - [[cable-USB-type-c-dat]]
+- [[CONN-USB-type-c-dat]] - [[USB-type-c-dat]] - [[cable-USB-type-c-dat]]
 
 - [[cable-USB-dat]]
 

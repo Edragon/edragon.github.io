@@ -3,6 +3,17 @@
 
 
 
+
+## chip unknown 
+
+BFBAD - [[bfsemi-dat]] - [[dcdc-dat]]
+
+0898c sot23-5 - [[dcdc-dat]]
+
+
+
+## chip 
+
 - [[SD628-dat]] - [[DCDC-boost-dat]] - [[JW5033-dat]] - [[joulwatt-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-down-dat]] - [[dcdc-dat]] 
 
 

@@ -19,7 +19,11 @@
 
 
 
+## isolator 
 
+A 10/100BASE-TX Magnetics Module is a small electronic component containing transformers and chokes used in Fast Ethernet ports to isolate circuits, block noise, and protect equipment
+
+- [[TF1102-dat]] - [[ethernet-dat]]
 
 
 ## info

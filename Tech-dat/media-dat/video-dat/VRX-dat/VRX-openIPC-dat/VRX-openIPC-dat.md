@@ -139,7 +139,23 @@ Ubuntu PC + RTL8812AU USB 网卡 + wfb-ng
 
 
 
+## build 
 
+build 1 
+
+![](2026-10-02-16-47-03.png)
+
+SKYWORTH - [[skyworth-dat]]
+5800-W88120-0020
+VER00.00
+20140224
+
+~~原裝創維液晶電視機通用無線網卡 WiFi模塊U8192E1 NTUD-B5~~
+
+
+- [[USB-type-C-dat]] - [[USB-SDK-dat]]
+
+![](2026-10-02-16-47-15.png)
 
 
 

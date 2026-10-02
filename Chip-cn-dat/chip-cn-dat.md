@@ -61,6 +61,8 @@
 
 - [[Goke-dat]] - [[chip-cn-dat]]
 
+- [[geehy-dat]] - [[APM32F030-dat]] - [[chip-cn-dat]]
+
 - [[holtek-dat]] - [[hcwsemi-dat]]
 
 - [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]]
