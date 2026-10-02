@@ -2,13 +2,48 @@
 # PCBA-dat
 
 
+
+## workflow 
+
+### PCB 
+
+- [[PCB-design-dat]] - [[PCB-design-penalization-dat]]
+
+- [[fab-PCB-dat]] 
+
+
+### PCBA design 
+
+- [[PCB-footprint-dat]]
+
+- [[fab-PCBA-dat]]
+
+### PCBA assembly
+
+prework - [[fab-PCBA-moisture-baking-dat]] - [[fab-stencil-dat]]
+
+sample methods - [[preheat-bed-dat]] - [[microscope-dat]] - [[hot-air-station-dat]]
+
+machine methods - [[fab-reflow-dat]]
+
+### PCBA after 
+
+- [[fab-QC-dat]] - [[VI-dat]] - [[AOI-dat]] - [[ICT-dat]] - [[x-ray-dat]] - [[Flying-Probe-dat]] - [[FCT-dat]] - [[Boundary-Scan-dat]] - [[power-up-test-dat]]
+
+### PCB fix 
+
+
+
+
+## info 
+
 - [[fab-PCBA-dat]] - [[PCBA-clean-dat]]
 
 - [[fab-PCBA-dat]] - [[fab-soldering-dat]] 
 
 - [[fab-PCB-dat]] - [[fab-PCB-tools-dat]]
 
-- [[PCB-soldering-dat]] - [[desoldering-dat]]
+- [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
   
 - [[spot-welding-dat]] 
 

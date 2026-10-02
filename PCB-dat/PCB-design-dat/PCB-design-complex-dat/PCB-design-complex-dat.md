@@ -12,6 +12,11 @@
 
 
 
+## difficulties 
+
+- [[PCB-design-complex-dat]] - [[DDR-dat]] - [[MIPI-dat]]
+
+
 
 ## cases 
 

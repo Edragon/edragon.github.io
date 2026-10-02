@@ -1,4 +1,4 @@
-# PCB-penalization-design-dat
+# PCB-design-penalization-dat.md
 
 
 - [[PCB-penalization-design-dat]] - [[fab-penalization-dat]]

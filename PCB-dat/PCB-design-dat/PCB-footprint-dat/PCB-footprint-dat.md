@@ -4,6 +4,15 @@
 
 
 
+## complex 
+
+- [[PCB-footprint-dat]] - [[BGA-dat]] - [[QFN-dat]] - [[QFP-dat]] - [[LQFP-dat]]
+
+
+
+
+## common 
+
 - [[SOP8-dat]] - [[QFN-dat]] - [[SSOP-dat]] - [[TQFP-dat]] - [[DIP8-dat]]
 
 - [[PCB-design-dat]]
@@ -21,6 +30,8 @@
 - [[fab-PCBA-dat]]
 
 - [[DIP8-dat]] - [[SOP8-dat]] - [[PCB-footprint-dat]] - [[PCB-dat]]
+
+
 
 
 
@@ -147,6 +158,9 @@ This value represents the component thickness, used to compensate for the nozzle
 
 
 - [[QFN-dat]] - [[WLP-dat]] == [[MAX98357-dat]] - [[BQ51050-dat]]
+
+
+
 
 - [[QFP-dat]] 
 
