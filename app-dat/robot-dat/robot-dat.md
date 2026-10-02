@@ -50,6 +50,9 @@
 
 - [[robot-bomb-disposal-dat]]
 
+- [[robot-target-following-dat]]
+
+
 ## types 
 
 - indoor vision robot

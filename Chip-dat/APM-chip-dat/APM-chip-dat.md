@@ -1,13 +1,13 @@
 
 
-# APM-dat
+# APM-chip-dat
 
 
-- [[APM-dat]] - [[mosfet-dat]]
+- [[APM-chip-dat]] - [[mosfet-dat]]
 
 AP25G04 Power MOSFET - [[sytatek-dat]]
 
-AP15N10D == 100V N-Channel Enhancement Mode MOSFET - [[APM-dat]]
+AP15N10D == 100V N-Channel Enhancement Mode MOSFET - [[APM-chip-dat]]
 
 ![](2026-06-18-18-05-19.png)
 

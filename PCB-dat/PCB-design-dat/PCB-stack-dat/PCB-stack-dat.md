@@ -2,9 +2,21 @@
 
 # PCB-stack-dat
 
+
+
+
+
 - [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[PCB-form-dat]] - [[PCB-penalization-design-dat]]
 
 - [[fab-PCB-dat]]
+
+
+
+## apps 
+
+- [[FC-stack-dat]] - [[PCB-stack-dat]] - [[PCB-design-dat]]
+
+- [[openIPC-dat]]
 
 
 ## tech 

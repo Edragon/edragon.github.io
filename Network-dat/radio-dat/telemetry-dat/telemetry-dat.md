@@ -3,6 +3,7 @@
 
 # telemetry-dat
 
+- [[motor-telemetry-dat]] - [[telemetry-dat]]
 
 
 - [[telemetry-dat]] - [[mavlink-dat]]

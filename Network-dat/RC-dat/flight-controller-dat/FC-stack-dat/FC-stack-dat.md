@@ -2,6 +2,10 @@
 
 # FC-stack-dat
 
+
+- [[FC-stack-dat]] - [[PCB-stack-dat]] - [[PCB-design-dat]]
+
+
 - [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
 
 - [[flight-controller-dat]] + [[ESC-dat]] + [[VTX-dat]]
