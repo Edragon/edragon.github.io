@@ -61,6 +61,8 @@
 
 ## mount on rack 
 
+- [[camera-mount-dat]] - [[selfie-stick-dat]]
+
 - [[camera-mount-dat]] - [[bike-dat]] - [[bike-motor-dat]]
 
 ![](2026-10-02-19-02-12.png)
@@ -68,6 +70,9 @@
 ![](2026-10-02-19-02-33.png)
 
 ![](2026-10-02-19-10-57.png)
+
+![](2026-10-02-19-11-54.png)
+
 
 
 
