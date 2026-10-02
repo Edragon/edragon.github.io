@@ -3,7 +3,10 @@
 # installation-dat
 
 
-- [[sensor-camera-dat]] - [[camera-rack-dat]] - [[installation-dat]] - [[mounting-dat]] 
+
+
+
+- [[sensor-camera-dat]] - [[camera-mount-dat]] - [[installation-dat]] - [[mount-dat]] 
 
 - [[rack-dat]]
 

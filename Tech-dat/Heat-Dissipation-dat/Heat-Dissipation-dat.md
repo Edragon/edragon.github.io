@@ -7,7 +7,17 @@
 - [[TPLINK-dat]]
 
 
-# Thermal Conductivity Comparison: 1.0 vs 2.3
+
+## design 
+
+- [[Hi3516-dat]] 功耗约 1-2W → 散热片/导热垫；封闭结构内温升会抬高传感器暗电流（热噪点变多）
+
+
+
+
+
+
+## Thermal Conductivity Comparison: 1.0 vs 2.3
 
 ---
 

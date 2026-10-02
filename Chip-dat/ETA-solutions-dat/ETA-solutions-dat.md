@@ -2,7 +2,7 @@
 # ETA-solutions-dat
 
 
-
+- [[dcdc-down-multiple-dat]]
 
 ETA3512 - 2MHz, 3A, COT Synchronous Step-down Converter in SOT563
 

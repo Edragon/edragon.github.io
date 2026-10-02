@@ -3,7 +3,7 @@
 
 
 
-- [[SG-micro-dat]] - [[dcdc-down-mulitple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
+- [[SG-micro-dat]] - [[dcdc-down-multiple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
 
 
 - [[LDO-dat]] - [[SGM2019-dat]] - [[SG-micro-dat]]

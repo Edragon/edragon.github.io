@@ -38,7 +38,7 @@
 
 - [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[maxim-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[realtek-dat]] - [[infineon-dat]] - [[CD40xx-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[realtek-dat]] - [[silicon-labs-dat]] - [[Melexis-dat]] - [[joulwatt-dat]] - [[nordic-dat]] - [[AVR-dat]] - [[toshiba-dat]] - [[NXP-dat]] - [[amd-dat]] - [[ST-dat]]
 
-- [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]] - [[CONSONANCE-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ismartware-dat]] - [[microne-dat]] - [[ESP32-S3-dat]] - [[CMsemicon-dat]] - [[DJI-dat]] 
+- [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]] - [[CONSONANCE-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ismartware-dat]] - [[microne-dat]] - [[ESP32-S3-dat]] - [[CMsemicon-dat]] - [[DJI-dat]] - [[hisilicon-dat]]
 
 
 
@@ -282,7 +282,7 @@
 
 - [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
 
-- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]]
+- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]] - [[PCB-stack-dat]]
 
 - [[PCB-form-dat]] - [[PCB-stack-dat]]
 

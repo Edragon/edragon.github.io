@@ -2,6 +2,12 @@
 
 # RZ7886-dat
 
+
+
+- [[motor-driver-rc-dat]] - [[RZ7886-dat]]
+
+
+
 - [[TA6586-dat]] - [[motor-driver-dat]] - [[ruizhi-dat]] - [[RZ7886-dat]]
 
 - [[rc-dat]] - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[capacitor-start-dat]]

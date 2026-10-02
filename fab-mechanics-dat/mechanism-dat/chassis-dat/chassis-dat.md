@@ -63,4 +63,32 @@ Here are the key special features and characteristics of this setup:
 
 
 
+
+## build 
+
+### build 1 
+
+
+overview 
+
+![](2026-10-02-18-56-04.png)
+
+
+
+![](2026-10-02-18-48-55.png)
+
+![](2026-10-02-18-49-09.png)
+
+- [[chassis-dat]] - [[differential-steering-dat]] - [[suspension-dat]]
+
+![](2026-10-02-18-49-38.png)
+
+
+
+drive part 
+
+![](2026-10-02-18-57-41.png)
+
+![](2026-10-02-18-58-26.png)
+
 ## ref 

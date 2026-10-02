@@ -3,6 +3,9 @@
 
 
 
+- [[power-dat]] - [[power-tree-dat]] - [[HI3518-dat]]
+
+- [[AVDD-dat]] - [[power-dat]]
 
 - [[power-dat]] - [[power-sequence-dat]] - [[SSC338-dat]]
 

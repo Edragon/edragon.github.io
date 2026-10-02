@@ -4,6 +4,64 @@
 
 
 
+- [[HI3516-dat]] - [[IMX307-dat]] - [[PCB-design-complex-dat]] - [[PCB-design-dat]] - [[HI3516-IMX307-dat]]
+
+- [[hisilicon-dat]] - [[hi3516-dat]] - [[hi3518-dat]]
+
+- [[VTX-openIPC-dat]]
+
+
+
+
+## build 
+
+build 1 
+
+- [[xiongmai-dat]] - [[IVG-G2S-dat]] - [[chip-cn-dat]] - [[hi3516-dat]] - [[IMX307-dat]]
+
+
+## tech 
+
+- [[MIPI-dat]]
+
+- [[IMX307-dat]] - [[MIPI-dat]] - [[HI3516-dat]] - [[CONN-FPC-dat]]
+
+- [[DDR-dat]] - [[memory-dat]]
+
+- Hi3516 是 BGA（0.65/0.8mm pitch） → 至少 4 层，推荐 6 层（DDR + 阻抗控制走线）
+
+
+HiSilicon Hi3516 DMEB (Development Mechanism Evaluation Board)
+
+
+
+## SDK
+
+PCB part 
+
+    Hi3516XXXX_SDK_Vx.x.x.x/
+    └── 03.hardware/
+        └── board/
+            ├── HI3516XXXXDMEB_VER_C_SCH.pdf      <-- Main Schematic PDF
+            ├── HI3516XXXXDMEB_VER_C_PCB.brd      <-- Allegro PCB File
+            └── documents/
+                └── Hi3516XXXX Hardware Design Guide.pdf
+
+
+
+## diagram 
+
+![](2026-10-02-13-34-49.png)
+
+## chip 
+
+Hi3516C / Hi3516D / Hi3516E series == 416-pin FC-CSP
+
+HI3516CRNCV608
+
+
+![](2026-10-02-13-28-05.png)
+
 - [[HI3516-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
 
 
@@ -114,6 +172,12 @@ ToolPlatform-CAM-5.6.84-win32-x86_64。
 
 ## build 
 
+### build 2 
+
+== - [[IVG-G2S-dat]]
+
+
+### build 1
 
 - [[CONN-FPC-dat]] 
 
@@ -132,6 +196,20 @@ config 2
 ![](2026-10-02-02-58-21.png)
 
 - [[memory-dat]]
+
+## PCB 
+
+- [[PCB-layer-4-dat]] - [[HI3516-dat]]
+
+top and bot 
+
+![](2026-10-02-15-07-28.png)
+
+
+inner layer 1 and 2
+
+![](2026-10-02-15-07-04.png)
+
 
 ## ref 
 

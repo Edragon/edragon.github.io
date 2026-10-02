@@ -1,6 +1,21 @@
 
 # SMT-Reflow-Soldering-dat
 
+
+- [[fab-reflow-dat]] - [[preheat-bed-dat]] - [[hot-air-station-dat]]
+
+## reflow methods 
+
+
+加热方式对比
+- 单纯热风枪：中央焊盘容易热不透（虚焊），但便宜
+- 加热台（底部）+ 热风枪（顶部）：小批量最佳性价比
+- 小型回流炉（带曲线）：最稳
+
+
+
+## reflow machine 
+
 - [[pnp-machine-dat]] - [[solder-paste-dat]]
 
 

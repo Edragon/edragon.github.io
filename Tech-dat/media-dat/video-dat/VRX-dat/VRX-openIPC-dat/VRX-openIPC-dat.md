@@ -10,6 +10,10 @@
 - [[VRX-dat]] - [[openIPC-dat]] - [[VRX-openIPC-dat]] - [[VRX-openIPC-bonnet-dat]]
 
 
+- [[VTX-openIPC-dat]] 
+
+
+
 ## tech stack 
 
 
@@ -139,6 +143,94 @@ Ubuntu PC + RTL8812AU USB 网卡 + wfb-ng
 
 
 
+## build 
+
+build 1 
+
+![](2026-10-02-16-47-03.png)
+
+SKYWORTH - [[skyworth-dat]]
+5800-W88120-0020
+VER00.00
+20140224
+
+~~原裝創維液晶電視機通用無線網卡 WiFi模塊U8192E1 NTUD-B5~~
+
+
+- [[USB-type-C-dat]] - [[USB-SDK-dat]]
+
+![](2026-10-02-16-47-15.png)
+
+- [[pixelpilot-dat]]
+
+
+
+
+
+## PC config 
+
+![](2026-10-02-18-07-05.png)
+
+config.yaml
+
+```yaml
+captures:
+  - name: dronel # 这一路的唯一名字，随便起，但不能重复
+    type: wfb # windows 上固定是 wfb（走 devourer USB 采集）
+    usb_vid: 0x0bda # 网卡 USB VID
+    usb_pid: 0x881a # 网卡 USB PID，0bda:881a 就是 RTL8812AU-VS
+    key: gs.key # 密钥路径；建议和 exe 放一起直接写 gs.key
+    link_id: 7669206 # 天空端链路 ID，默认不用改
+    radio_port: 0 # 视频端口，默认不用改
+    epoch: 0 # 默认不用改
+    channel: 161 # 信道，要和天空端一致
+    bandwidth: HT20 # 带宽，要和天空端一致（HT20／HT40+）
+    region: BO # 监管域，一般不用改
+    codec: h265 # 天空端是 H265 就写 h265，H264 就写 h264
+    forward:
+      - "127.0.0.1:5700" # 本机接收端 (低延迟播放)
+      - "192.168.1.50:5600" # 局域网里另一台电脑/手机
+```
+
+这里最关键的是  usb_vid   /  usb_pid  、 key  、 channel  、 codec   和  forward 。
+
+`usb_vid   /  usb_pid`  ：用  lsusb   或设备管理器里的硬件 ID 确认，一般是  0bda:881a  。设备管理
+器里看“硬件 ID”是  USB\VID_0BDA&PID_881A   这种格式，对应填  0x0bda   和  0x881a 。
+
+`key`  ：如果  gs.key   和 exe 在同一目录，直接写  gs.key   就行；否则写绝对路径，例如  C:/fpv-
+relay/gs.key  。注意 YAML 里路径的反斜杠要写成  /  或者双反斜杠。
+
+`channel   /  bandwidth   /  region`  ：这三个必须和天空端一致，不一致就解不出画面（日志里会一
+直有解密错误）。默认  161 / HT20 / BO ，天空端没动过就别动。
+
+`codec`  ：填错会导致能收到包但预览黑屏，H265 填  h265  ，H264 填  h264 。
+
+`forward`  ：解出来的裸 RTP 要往哪里推。 127.0.0.1:5700   是本机，想看画面就留着；想给局域
+网里别的机器就加一条  目标IP:端口 。可以写多条。
+
+
+captures:   # 必填：每一路图传（一块接收卡或一个 UDP 输入）
+uplink:     # 可选：电脑 → 无人机 的上行（mavlink / 遥控）
+status:     # 可选：HTTP 状态页
+rtsp:       # 可选：RTSP 兼容输出
+
+
+## linux 
+
+captures:
+  - name: drone1
+    type: wfb
+    iface: wfb0
+    key: /opt/fpv-relay/gs.key
+    link_id: 7669206
+    radio_port: 0
+    epoch: 0
+    channel: 161
+    bandwidth: HT20
+    region: BO
+    codec: h265
+    forward:
+      - "127.0.0.1:5700"
 
 
 

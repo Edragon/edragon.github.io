@@ -1,6 +1,17 @@
 
 # crystal-dat 
 
+
+
+
+
+## design 
+
+- 时钟（传感器 74.25MHz / 37.125MHz 输入）：包地处理
+
+
+## info 
+
 ![](2023-10-25-14-25-39.png)
 
 ## SMD crystal 

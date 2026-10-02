@@ -61,6 +61,8 @@
 
 - [[Goke-dat]] - [[chip-cn-dat]]
 
+- [[geehy-dat]] - [[APM32F030-dat]] - [[chip-cn-dat]]
+
 - [[holtek-dat]] - [[hcwsemi-dat]]
 
 - [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]]
@@ -112,7 +114,7 @@
 - [[NSIway-dat]] - [[NS4150-dat]]
 
 
-- [[xiaomi-dat]] - [[huawei-dat]]
+- [[huawei-dat]]
 
 
 
@@ -151,6 +153,9 @@
 
 
 
+- [[xiongmai-dat]] - [[IVG-G2S-dat]] - [[chip-cn-dat]]
+
+- [[xiaomi-dat]] 
 
 ## ref 
 

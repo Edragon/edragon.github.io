@@ -2,6 +2,10 @@
 
 # motor-driver-rc-dat
 
+
+
+
+
 - [[rc-dat]] - [[rc-hack-dat]] - [[motor-driver-design-dat]]
 
 
@@ -72,6 +76,22 @@
 ![](2026-06-05-00-54-27.png)
 
 - SS510 
+
+
+## build 
+
+- [[chassis-dat]] - [[motor-driver-rc-dat]] - [[RZ7886-dat]]
+
+![](2026-10-02-18-55-29.png)
+
+
+![](2026-10-02-18-55-18.png)
+
+- [[memory-dat]] - [[MCU-dat]]
+
+
+
+
 
 ## ref 
 

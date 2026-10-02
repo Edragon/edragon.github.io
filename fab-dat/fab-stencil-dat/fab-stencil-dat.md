@@ -3,6 +3,13 @@
 # fab-stencil-dat
 
 
+
+
+印刷锡膏（金属刮刀 45-60°，一次刮过，不要反复刮——反复会让锡塌陷、拉丝）
+
+
+
+
 - [[fab-stencil-dat]] - [[fab-stencil-printer-dat]] - [[fab-stencil-frameless-dat]] - [[fab-stencil-frame-dat]]
 
 

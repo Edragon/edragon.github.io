@@ -4,6 +4,23 @@
 
 
 
+## difficulties
+
+- [[PCB-design-complex-dat]]
+
+- [[PCB-layer-4-dat]] - [[PCB-design-complex-dat]] - [[PCB-design-fanout-dat]] - [[PCB-design-routing-dat]] - [[PCB-design-dat]]
+
+
+
+## info 
+
+
+
+
+- [[chip-dat]] relevant - [[PCB-design-fanout-dat]] - [[PCB-design-dat]]
+
+
+
 - [[PCB-design-dat]] - [[PCB-design-basic-dat]] - [[PCB-design-complex-dat]]
 
 
@@ -41,7 +58,7 @@
 - [[peripherals-dat]]
 
 
-- [[4-layer-dat]] - [[0402-dat]] - [[double-side-PCB-dat]]
+- [[PCB-layer-4-dat]] - [[0402-dat]] - [[double-side-PCB-dat]]
 
 
 - [[CONN-BTB-dat]] - [[PCB-Castellated-Holes-dat]] - [[PCB-gold-fingers-dat]]

@@ -124,6 +124,16 @@ While originally designed in the 20th century to connect computers (DTE) to tele
 
 - [[conn-audio-dat]] - [[serial-dat]]
 
+
+
+
+
+## apps 
+
+- [[serial-dat]] - [[SSH-dat]] 
+
+
+
 ## ref 
 
 software [[com-monitor-dat]]

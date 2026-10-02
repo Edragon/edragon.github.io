@@ -37,7 +37,7 @@
 - [[joulwatt-dat]] - [[dcdc-down-dat]] - [[power-dat]]
 
 
-- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]] - [[MP2386-dat]]
+- [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]] - [[MP2386-dat]] - [[MP9447-dat]]
 
 - [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TI-LDO-dat]]
 

@@ -2,7 +2,7 @@
 
 # openIPC-dat
 
-
+- [[openIPC-dat]] - [[VTX-openIPC-dat]] - [[VRX-openIPC-dat]]
 
 == [[VRX-dat]] + [[VTX-dat]]
 
@@ -149,6 +149,14 @@ WFB-NG 飞行图传对网卡有特殊要求：地面端网卡必须能够开启 
 
 
 
+
+## build 
+
+![](2026-10-02-17-22-49.png)
+
+- [[VTX-openIPC-dat]] == build 1 
+
+![](2026-10-02-18-47-57.png)
 
 
 

@@ -3,7 +3,10 @@
 # IRPS5401-dat
 
 
-- [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
+
+
+
+- [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-multiple-dat]]
 
 
 https://www.infineon.com/assets/row/public/documents/24/49/infineon-irps5401m-datasheet-en.pdf?fileId=5546d4625cc9456a015cd69d402139db

@@ -7,7 +7,16 @@
 
 
 
+AAT - [[antenna-AAT-dat]]
+
 ## build 
+
+
+build 3 
+
+![](2026-10-02-17-06-52.png)
+
+![](2026-10-02-17-07-29.png)
 
 
 build 2 
@@ -41,3 +50,4 @@ A flat panel can be circular, linear, or even dual-polarized. When purchasing or
 
 ## ref 
 
+https://www.bilibili.com/video/BV1xrwPeEE3v/?spm_id_from=333.337.search-card.all.click&vd_source=74a6b8b9bfcd41c5946a742815bf71ae
