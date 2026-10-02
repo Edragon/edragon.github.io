@@ -2,6 +2,16 @@
 
 # thermal-relief-dat
 
+
+
+
+Thermal Relief
+
+
+热风焊盘（Thermal Relief）： 连到内层大面积铜皮（地或电源）的焊盘，一定要设置成热风焊盘（十字花焊盘）。如果直接设为全连接（Solid Connection），内层的铜皮散热太快，会导致手焊或回流焊时温度不够，造成虚焊。
+
+
+
 - [[thermal-relief-dat]] - [[PCB-zone-dat]] - [[PCB-design-dat]] - [[kicad-PCB-dat]] - [[eagleCAD-PCB-dat]] - [[thermal-relief-dat]]
 
 
