@@ -2,7 +2,15 @@
 # SONY-dat
 
 
-- [[IMX415-dat]] - [[IMX307-dat]] - [[sony-dat]] - [[MIPI-dat]]
+
+
+- 传感器板建议独立 4 层，MIPI 差分 + 干净电源 + 地平面
+
+- [[crystal-dat]]
+
+- [[AVDD-dat]] - [[power-dat]]
+
+- [[IMX415-dat]] - [[IMX307-dat]] - [[sony-dat]] - [[MIPI-dat]] - [[BGA-dat]]
 
 
 

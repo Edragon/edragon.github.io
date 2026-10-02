@@ -4,6 +4,9 @@
 
 
 
+
+- [[AVDD-dat]] - [[power-dat]]
+
 - [[power-dat]] - [[power-sequence-dat]] - [[SSC338-dat]]
 
 - [[power-dat]] - [[power-UVLO-dat]] == Undervoltage Lockout
