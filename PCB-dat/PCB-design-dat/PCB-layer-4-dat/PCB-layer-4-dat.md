@@ -1,8 +1,29 @@
 
-# 4-layer-dat
+# PCB-layer-4-dat
+
+
+
+
 
 
 - [[PCB-design-fanout-dat]] - [[PCB-design-dat]] - [[PCB-layer-4-dat]] - [[PCB-footprint-dat]] - [[QFN-dat]]
+
+
+
+## tech 
+
+- [[PCB-layer-4-dat]] - [[PCB-design-complex-dat]] - [[PCB-design-fanout-dat]] - [[PCB-design-routing-dat]] - [[PCB-design-dat]]
+
+## build 
+
+- [[PCB-layer-4-dat]] - [[MP9447-dat]]
+
+- [[imx307-dat]]
+
+- [[PCB-layer-4-dat]] - [[HI3516-dat]]
+
+
+
 
 ## specs 
 

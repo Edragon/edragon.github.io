@@ -9,6 +9,13 @@
 - [[OV9712-dat]] - [[OmniVision-dat]] - [[hisilicon-dat]] - [[camera-IP-dat]]
 
 
+
+
+## PCB 
+
+HI3518ADMEB_PCB.pcb == [[cadence-dat]] - [[HI3518-dat]] - [[EDA-dat]]
+
+
 ## diagram and sch 
 
 - [[HI3518ADMEB_SCH.pdf]] - [[HI3518PERB_SCH.pdf]]

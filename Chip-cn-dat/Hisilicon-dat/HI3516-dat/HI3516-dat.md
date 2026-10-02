@@ -183,6 +183,20 @@ config 2
 
 - [[memory-dat]]
 
+## PCB 
+
+- [[PCB-layer-4-dat]] - [[HI3516-dat]]
+
+top and bot 
+
+![](2026-10-02-15-07-28.png)
+
+
+inner layer 1 and 2
+
+![](2026-10-02-15-07-04.png)
+
+
 ## ref 
 
 
