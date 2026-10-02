@@ -2,6 +2,18 @@
 # QFN-dat
 
 
+- [[PCB-footprint-dat]] - [[BGA-dat]] - [[QFN-dat]]
+
+## chip 
+
+- [[hisilicon-dat]] - [[hi3516-dat]] == 20 == 416-pin FC-CSP
+
+Hi3516C / Hi3516D / Hi3516E series
+
+$0.65\text{ mm}$ pitch
+
+- [[PCB-design-fanout-dat]] - [[PCB-design-dat]]
+
 ## QFN32 table 
 
 | pin | name | note | custom |

@@ -4,6 +4,21 @@
 
 
 
+
+
+## diagram 
+
+![](2026-10-02-13-34-49.png)
+
+## chip 
+
+Hi3516C / Hi3516D / Hi3516E series == 416-pin FC-CSP
+
+HI3516CRNCV608
+
+
+![](2026-10-02-13-28-05.png)
+
 - [[HI3516-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
 
 

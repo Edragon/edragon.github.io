@@ -1,6 +1,9 @@
 
 # 4-layer-dat
 
+
+- [[PCB-design-fanout-dat]] - [[PCB-design-dat]] - [[PCB-layer-4-dat]] - [[PCB-footprint-dat]] - [[QFN-dat]]
+
 ## specs 
 
 - inner layer == 0.5 oz 

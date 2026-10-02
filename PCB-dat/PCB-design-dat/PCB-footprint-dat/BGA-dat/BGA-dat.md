@@ -2,12 +2,24 @@
 
 # BGA-dat
 
-- [[PCB-footprint-dat]] - [[BGA-dat]]
+
+
+
+- [[PCB-footprint-dat]] - [[BGA-dat]] - [[QFN-dat]]
 
 
 
 
 ## chip 
+
+
+- [[allwinner-dat]] - [[F1C100-dat]]
+
+- [[PCB-footprint-dat]] - [[BGA-dat]] - [[fab-PCBA-dat]] - [[hisilicon-dat]] - [[hi3516-dat]] == 20
+
+Fine-Pitch BGA (FBGA / FC-CSP)
+
+
 
 - [[xilinx-dat]] - [[Kintex‐7-dat]] - [[BGA-dat]] - [[FPGA-dat]]
 

@@ -3,6 +3,9 @@
 
 
 
+- [[chip-dat]] relevant - [[PCB-design-fanout-dat]] - [[PCB-design-dat]]
+
+
 
 - [[PCB-design-dat]] - [[PCB-design-basic-dat]] - [[PCB-design-complex-dat]]
 
