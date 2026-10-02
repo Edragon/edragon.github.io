@@ -1,6 +1,15 @@
 
 
-# rack-dat
+# mount-dat
+
+- [[installation-dat]] - [[mount-dat]] - [[camera-mount-dat]]
+
+
+
+
+## phone mount 
+
+![](2026-10-02-19-06-56.png)
 
 ## metal hand-like rack 
 

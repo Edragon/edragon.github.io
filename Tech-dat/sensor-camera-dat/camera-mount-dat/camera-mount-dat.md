@@ -2,17 +2,24 @@
 
 # camera-mount-dat
 
-- [[sensor-camera-dat]] - [[camera-rack-dat]] - [[installation-dat]]
 
-- [[camera-rack-dat]] - [[sensor-camera-dat]] - [[camera-wireless-dat]]
+- [[installation-dat]] - [[mount-dat]] - [[camera-mount-dat]]
 
 
-- [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-rack-dat]] - [[sensor-camera-dat]]
+
+
+
+- [[sensor-camera-dat]] - [[camera-mount-dat]] - [[installation-dat]]
+
+- [[camera-mount-dat]] - [[sensor-camera-dat]] - [[camera-wireless-dat]]
+
+
+- [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-mount-dat]] - [[sensor-camera-dat]]
 
 - [[insta360-go-rack-dat]] - [[gopro-amount-dat]]
 
 
-- [[FPV-dat]] - [[caddxFPV-ratelpro-dat]] - [[caddxFPV-dat]]
+- [[FPV-dat]] - [[caddx-ratelpro-dat]] - [[caddx-dat]]
 
 - [[runcam-dat]]
 
@@ -30,7 +37,7 @@
 - [[Hose-Clamp-dat]]
 
 
-- [[camera-installation-dat]] - [[sensor-camera-dat]] - [[Hose-Clamp-dat]]
+- [[camera-mount-dat]] - [[sensor-camera-dat]] - [[Hose-Clamp-dat]]
 
 
 ## on the rack 
@@ -60,6 +67,9 @@
 
 ![](2026-10-02-19-02-33.png)
 
+![](2026-10-02-19-10-57.png)
+
+
 
 ## ref 
 
@@ -67,3 +77,4 @@
 
 
 - [[sensor-camera]] - [[camera-amount]] - [[camera]]
+
