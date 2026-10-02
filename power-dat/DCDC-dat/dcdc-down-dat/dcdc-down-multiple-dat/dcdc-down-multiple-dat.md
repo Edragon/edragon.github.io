@@ -1,20 +1,22 @@
 
 
-# dcdc-down-mulitple-dat.md
+# dcdc-down-multiple-dat.md
 
 
 
 
 ## chip 
 
-- [[SGmicro-dat]] - [[dcdc-down-mulitple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
+- [[SG-micro-dat]] - [[dcdc-down-multiple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
 
 
-- [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-mulitple-dat]]
+- [[IRPS5401-dat]] - [[PMIC-dat]] - [[dcdc-down-dat]] - [[dcdc-down-multiple-dat]]
 
-- [[TI-power-dat]] - [[ETA-solutions-dat]]
+- [[TI-power-dat]] 
+  
+- [[ETA-solutions-dat]]
 
-- [[AD-power-dat]] - [[dcdc-down-mulitple-dat]]
+- [[AD-power-dat]] - [[dcdc-down-multiple-dat]]
 
 
 
