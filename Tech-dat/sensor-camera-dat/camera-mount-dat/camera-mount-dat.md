@@ -52,9 +52,18 @@
 - [[camera-FPV-dat]] - [[camera-FPV-canopy-dat]] - [[FPV-build-dat]] - [[FPV-dat]] - [[VTX-dat]] - [[sensor-camera-dat]] - [[camera-mount-dat]]
 
 
+## mount on rack 
 
+- [[camera-mount-dat]] - [[bike-dat]] - [[bike-motor-dat]]
+
+![](2026-10-02-19-02-12.png)
+
+![](2026-10-02-19-02-33.png)
 
 
 ## ref 
 
 - [[insta360]] - [[gopro]] - [[insta360-go-rack]] - [[gopro-amount]]
+
+
+- [[sensor-camera]] - [[camera-amount]] - [[camera]]
