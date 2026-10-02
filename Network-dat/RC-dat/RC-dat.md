@@ -83,7 +83,7 @@
 
 - [[ESP-NOW-dat]]
 
-- [[RC-dat]] - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]]
+- [[RC-dat]] - [[rc-controller-dat]] - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]]
 
 ![](2026-07-28-16-48-47.png)
 
@@ -126,6 +126,15 @@ Yaw (Vertical Axis) - common CH1
 | **Pitch** | Left-to-Right | Nose up / Nose down | Climbing or diving |
 | **Yaw** | Top-to-Bottom | Nose turns left/right | Changing heading |
 | **Throttle** | Linear (Power) | Power increase / decrease | Thrust and altitude/speed |
+
+
+## asscociations 
+
+- [[DAPRA-dat]]
+
+https://www.youtube.com/watch?v=tbgY6brdXQU&list=LL&index=2&t=80s
+
+
 
 
 ## ref 
