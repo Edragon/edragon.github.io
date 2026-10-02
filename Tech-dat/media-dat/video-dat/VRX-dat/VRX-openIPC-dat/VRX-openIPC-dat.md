@@ -10,6 +10,10 @@
 - [[VRX-dat]] - [[openIPC-dat]] - [[VRX-openIPC-dat]] - [[VRX-openIPC-bonnet-dat]]
 
 
+- [[VTX-openIPC-dat]] 
+
+
+
 ## tech stack 
 
 
@@ -157,7 +161,7 @@ VER00.00
 
 ![](2026-10-02-16-47-15.png)
 
-
+- [[pixelpilot-dat]]
 
 ## ref 
 
