@@ -23,6 +23,9 @@
 
 - [[RC-dat]]
 
+
+
+
 ## build 
 
 - [[rc-aircraft-build-dat]] - [[FPV-build-dat]] 
@@ -38,7 +41,7 @@
 
 - [[helicopter-dat]]
 
-- [[FPV-dat]] - [[FPV-size-dat]] - [[goggles-dat]]
+- [[FPV-dat]] - [[FPV-size-dat]] - [[goggles-dat]] - [[FPV-long-range-dat]]
 
 - [[DJI-dat]] - [[DJI-flip-dat]]
 

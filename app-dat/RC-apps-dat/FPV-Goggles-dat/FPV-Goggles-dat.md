@@ -4,6 +4,10 @@
 
 
 
+- [[FPV-goggles-dat]] - [[betaFPV-dat]] - [[FPV-goggles-digital-dat]] - [[VR04-dat]]
+
+
+
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]]
 
 - [[FPV-goggles-dat]] - [[VRX-receiver-dat]]

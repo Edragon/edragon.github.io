@@ -7,6 +7,15 @@
 
 - [[ELRS-RX-dat]] - [[antenna-dipole-dat]]
 
+
+
+## cases 
+
+- [[antenna-FPV-dat]] - [[FPV-long-range-dat]] - [[antenna-dipole-dat]]
+
+* **Receiver Upgrade:** Desoldered internal resistors on the flight controller to switch to an external long-range receiver with a proper T-antenna.
+
+
 ## Sleeve Dipole
 
 

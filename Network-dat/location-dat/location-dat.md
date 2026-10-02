@@ -57,6 +57,15 @@
 
 
 
+## cases 
+
+- [[location-dat]] - [[telemetry-dat]] - [[FPV-long-range-dat]]
+
+
+
+
+
+
 ## Common Locating Issues 
 
 

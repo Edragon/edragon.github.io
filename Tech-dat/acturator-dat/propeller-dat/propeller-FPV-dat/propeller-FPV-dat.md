@@ -25,7 +25,11 @@
 - [[motor-FPV-dat]]
 
 
+## efficiences 
 
+- [[FPV-long-range-dat]] - [[propeller-dat]]
+
+* **Prop Guard Removal:** Removed prop guards to eliminate aerodynamic drag and make room for larger, more efficient **40mm bi-blade propellers**.
 
 
 ## measurement

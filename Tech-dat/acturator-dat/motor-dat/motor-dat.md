@@ -2,7 +2,7 @@
 # motor-dat
 
 
-
+- [[motor-mount-dat]] - [[motor-dat]]
 
 - [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]]
 
@@ -18,6 +18,17 @@
 - [[gearbox-dat]]
 
 - [[motor-connection-dat]] - [[motor-dat]]
+
+
+## design for efficiency
+
+
+* **Motor Downsizing:** Swapped out the 802 motors for smaller **702 motors** (and later tested lower KV 23,000 KV and 28,000 KV options) to save weight and optimize efficiency.
+
+- [[motor-mount-dat]] - [[motor-dat]] - [[FPV-long-range-dat]]
+
+
+
 
 ## motor drive 
 

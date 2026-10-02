@@ -18,6 +18,11 @@
 
 
 
+## materials 
+
+- [[fab-3d-print-dat]] - [[PETG-dat]] == strong materials 
+
+
 ## apps 
 
 - [[Aircraft-hand-launched]]

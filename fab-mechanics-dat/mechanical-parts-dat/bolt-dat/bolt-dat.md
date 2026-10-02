@@ -17,6 +17,14 @@
 
 
 
+## cases 
+
+* **Hardware Tweaks:** Replaced heavy metal fasteners with **nylon bolts** to shave off extra grams.
+
+- [[bolt-dat]] - [[FPV-long-range-dat]]
+
+
+
 
 ## anti-loosing 
 
