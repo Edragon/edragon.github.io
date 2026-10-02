@@ -10,6 +10,8 @@
 ## best projects
 
 
+- [[openCV-dat]]
+
 - [[meshtastic-dat]]
 
 - [[openpnp-dat]]
