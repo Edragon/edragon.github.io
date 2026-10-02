@@ -2,7 +2,7 @@
 # motor-brushed-dat
 
 
-
+- [[Motor-brushed-Coreless-dat]] - [[motor-dat]] - [[motor-brushed-dat]]
 
 ## examples motor-380 for boat 
 
