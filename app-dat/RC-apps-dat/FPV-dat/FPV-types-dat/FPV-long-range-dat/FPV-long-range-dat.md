@@ -14,6 +14,17 @@ build case - 65mm
 
 - [[video-digital-dat]]
 
+![](2026-10-05-14-18-42.png)
+
+3KM+GPS_return / https://www.youtube.com/watch?v=gvf1hfomu-A&list=LL&index=4
+
+
+
+
+- [[FPV-frame-dat]] - [[FPV-frame-pusher-dat]]
+
+- [[FPV-propeller-dat]] - [[FPV-propeller-bi-dat]]
+
 
 ### 1. Project Goal & Baseline Setup
 
