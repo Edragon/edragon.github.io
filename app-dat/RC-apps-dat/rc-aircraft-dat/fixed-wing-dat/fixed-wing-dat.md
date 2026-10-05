@@ -13,6 +13,11 @@ fixed-wing-vehicle == FPV
 
 
 
+## tech 
+
+- [[mount-dat]] - [[fixed-wing-dat]] - [[motor-brushed-coreless-dat]]
+
+
 ## types 
 
 - [[fixed-wing-dat]] - [[primary-trainer-dat]] - [[Cessna-172-dat]] - [[Diamond-DA20-dat]] - [[CJ-6-dat]] - [[Diamond-DA40-dat]]

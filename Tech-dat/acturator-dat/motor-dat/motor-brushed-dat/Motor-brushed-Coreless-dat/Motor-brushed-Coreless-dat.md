@@ -20,6 +20,17 @@
 
 
 
+## motor mount 
+
+- [[mount-dat]] - [[fixed-wing-dat]] - [[motor-brushed-coreless-dat]]
+
+![](2026-10-06-02-47-30.png)
+
+![](2026-10-06-02-47-46.png)
+
+
+
+
 ## types 
 
 The **8520 motor** and **615 motor** are two different sizes of micro **coreless DC brush motors**. Their names are based on their physical dimensions (diameter and length):
@@ -28,9 +39,17 @@ The **8520 motor** and **615 motor** are two different sizes of micro **coreless
 
 ## Motor Specifications Overview
 
+- 1106
+- 1104
+- 1020 
+- 8520
+- 720 
+- 615
+
+
 **8520 Motor**: 8.5mm outer diameter × 20mm length. Typically runs on 3.7V (1S LiPo), reaching 40,000–50,000 RPM. Used in micro quadcopters, FPV Tiny Whoops, and mini RC toys.
 
-**6015 Motor**: 6.0mm outer diameter × 15mm length. Smaller, lighter, and lower torque. Used in ultra-miniature nano drones and tiny toy aircraft.**
+**615 Motor**: 6.0mm outer diameter × 15mm length. Smaller, lighter, and lower torque. Used in ultra-miniature nano drones and tiny toy aircraft.**
 
 * **Form factor & Application:** The 8520 provides significantly more thrust and power, making it the standard choice for larger micro drones (like 65mm–75mm brushed frames), whereas the 615 is reserved for ultra-lightweight, sub-miniature indoor flyers.
 * **Voltage compatibility:** Both are commonly designed for single-cell lithium polymer (1S LiPo) power sources.

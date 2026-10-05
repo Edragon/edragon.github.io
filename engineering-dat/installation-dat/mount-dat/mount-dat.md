@@ -5,6 +5,9 @@
 - [[installation-dat]] - [[mount-dat]] - [[camera-mount-dat]]
 
 
+- [[mount-dat]] - [[fixed-wing-dat]] - [[motor-brushed-coreless-dat]]
+
+- [[motor-mount-dat]] - [[motor-dat]]
 
 
 ## phone mount 
