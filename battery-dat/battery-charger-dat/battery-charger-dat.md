@@ -345,6 +345,11 @@ Depending on your hardware layout, series packs are physically charged using one
 
 ## build 
 
+
+build 2 - commerial charger - [[toolkitrc-dat]]
+
+build 1 
+
 unknown chip - three level charging status 
 
 PAB01A - REFSH7100 2325AASAE
