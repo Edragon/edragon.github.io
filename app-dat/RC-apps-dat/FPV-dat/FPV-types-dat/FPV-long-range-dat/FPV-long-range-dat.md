@@ -10,20 +10,25 @@
 
 ## build 
 
-build case - 65mm 
-
-- [[video-digital-dat]]
 
 ![](2026-10-05-14-18-42.png)
 
 3KM+GPS_return / https://www.youtube.com/watch?v=gvf1hfomu-A&list=LL&index=4
 
+build case - 65mm 
 
+- [[video-digital-dat]]
 
 
 - [[FPV-frame-dat]] - [[FPV-frame-pusher-dat]]
 
-- [[FPV-propeller-dat]] - [[FPV-propeller-bi-dat]]
+- [[propeller-FPV-dat]] - [[propeller-FPV-bi-dat]]
+
+- [[18650-dat]] - [[18650-tabless-dat]]
+
+- [[RC-RF-module-bay-dat]] - [[ELRS-HF-RF-Module-dat]]
+
+
 
 
 ### 1. Project Goal & Baseline Setup
