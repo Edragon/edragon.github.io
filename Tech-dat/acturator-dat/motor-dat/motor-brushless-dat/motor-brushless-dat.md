@@ -1,6 +1,10 @@
 
 # motor-brushless-dat.md
 
+
+
+- [[motor-brushless-dat]] - [[Motor-brushed-Coreless-dat]]
+
 - [[rc-aircraft-dat]]
 
 - [[DRV8301-dat]] - [[ESC-dat]] - [[FOC-dat]] - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]]

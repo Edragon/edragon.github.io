@@ -5,7 +5,38 @@
 
 - [[Motor-brushed-Coreless-dat]] - [[motor-dat]] - [[motor-brushed-dat]]
 
-- [[motor-brusheless-dat]]
+- [[motor-brushless-dat]] - [[Motor-brushed-Coreless-dat]]
+
+
+
+## coreless vs brushless 
+
+| Category                    | Brushless                                                                                          | Brushed (8520 / 615 Coreless)                                                                            |
+| --------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Performance & Power**     | Significantly higher power-to-weight ratio, faster throttle response, explosive acceleration. Handles aggressive acrobatic maneuvers (freestyle / racing) effortlessly. | Sluggish throttle response and noticeable voltage sag under heavy bursts. Struggles with heavy HD cameras (Naked GoPro, full-weight O3/Walksnail setups). |
+| **Durability & Lifespan**   | Highly durable. Electronic commutation (ESC) instead of physical carbon brushes, so no friction-worn parts. Motors last hundreds of flights unless physically damaged in a heavy crash. | Low lifespan. Physical brushes and commutators wear out over time (typically 10–30 hours of flight time), leading to power loss, motor failure, or constant replacements. |
+| **Efficiency & Flight Time**| More efficient overall, giving crisper handling and better battery management under high loads.     | Less efficient, prone to generating heat quickly during aggressive flying, which reduces flight time.     |
+| **Cost & Weight**           | Slightly heavier (separate ESC board) and more expensive to build or repair.                        | Extremely lightweight and cheap. Still used for ultra-micro indoor whoops (e.g. tiny 65mm builds) where minimum weight is the top priority. |
+
+
+
+## types 
+
+The **8520 motor** and **615 motor** are two different sizes of micro **coreless DC brush motors**. Their names are based on their physical dimensions (diameter and length):
+
+
+
+## Motor Specifications Overview
+
+**8520 Motor**: 8.5mm outer diameter × 20mm length. Typically runs on 3.7V (1S LiPo), reaching 40,000–50,000 RPM. Used in micro quadcopters, FPV Tiny Whoops, and mini RC toys.
+
+**6015 Motor**: 6.0mm outer diameter × 15mm length. Smaller, lighter, and lower torque. Used in ultra-miniature nano drones and tiny toy aircraft.**
+
+* **Form factor & Application:** The 8520 provides significantly more thrust and power, making it the standard choice for larger micro drones (like 65mm–75mm brushed frames), whereas the 615 is reserved for ultra-lightweight, sub-miniature indoor flyers.
+* **Voltage compatibility:** Both are commonly designed for single-cell lithium polymer (1S LiPo) power sources.
+
+
+## Coreless Motors
 
 **无刷电机（Brushless Motor, BLDC）**与**有刷空心杯电机（Coreless Motor / Brushed Coreless Motor）**是微型电机（如无人机、航模、机器人中常用）的两大主流技术路线。它们最大的区别在于**是否有电刷换向**以及**转子的结构设计**。
 

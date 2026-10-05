@@ -23,6 +23,8 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP6806-dat]] - [[IP6808-dat]] - [[injoinic-dat]] - [[power-wireless-dat]]
 
+- [[IP6805-dat]] == IP5805S 
+
 - [[IP236x-dat]]
 
 
