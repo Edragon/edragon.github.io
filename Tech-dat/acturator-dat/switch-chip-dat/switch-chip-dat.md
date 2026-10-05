@@ -23,8 +23,6 @@
 
 
 
-
-
 ## load switch 
 
 TPS22916CYFPR == TPS22916xx 1-V–5.5-V, 2-A, 60-mΩ Ultra-Low Leakage Load Switch
@@ -78,7 +76,11 @@ switching IC - `SN75451BDR` - `SN5545xB`, `SN7545xB` Dual-Peripheral Drivers for
 
 MC14053BCPG - IC SWITCH SPDT X 3 280OHM 16DIP
 
-- [[analog-device-dat]] - [[maxim-dat]] - [[MAX4622-dat]] - [[switching-analog-dat]] - [[switching-dat]]
+- [[analog-device-dat]] - [[AD-switch-dat]] - [[ADG719-dat]]
+  
+- [[maxim-dat]] - [[MAX4622-dat]] - [[switching-analog-dat]] - [[switching-dat]]
+
+
 
 - [[ti-dat]]
 

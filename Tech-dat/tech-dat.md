@@ -160,7 +160,7 @@
 
 - [[touch-panel-dat]] - [[touch-dat]] - [[touch-pad-dat]]
 
-- [[button-dat]] - [[switching-dat]] - [[switch-dat]]
+- [[button-dat]] - [[switch-chip-dat]] - [[switch-dat]]
 
 - [[keyboard-dat]] - [[keypad-dat]] - [[mouse-dat]]
 
@@ -172,7 +172,7 @@
 
 
 
-### Sensors and actuator 
+### Sensors, actuator - Electromechanical
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[sensor-energy-dat]] - [[sensor-ambient-dat]] - [[sensor-light-dat]]
 
@@ -185,6 +185,9 @@
 - [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[camera-FPV-dat]]
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]] - [[motor-reduction-gear-dat]] - [[gearbox-dat]]
+
+- [[contactor-dat]]
+
 
 - [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
 

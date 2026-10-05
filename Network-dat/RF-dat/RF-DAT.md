@@ -26,7 +26,7 @@
 
 - [[RF-long-range-dat]] - [[RF-dat]]
 
-
+- [[susumu-dat]] - [[susumu-PS-series-dat]] - [[rf-power-splitter-dat]] - [[rf-dat]]
 
 ## apps 
 
