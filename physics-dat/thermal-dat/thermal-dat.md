@@ -2,6 +2,12 @@
 
 # thermal-dat
 
+
+
+- [[heatsink-dat]] - [[heat-dissipation-dat]] - [[fan-dat]] - [[thermal-dat]]
+
+
+
 - [[thermal-dat]] - [[physics-dat]]
 
 - [[thermal-relief-dat]]

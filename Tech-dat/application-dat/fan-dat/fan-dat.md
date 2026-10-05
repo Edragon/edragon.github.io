@@ -3,7 +3,7 @@
 
 
 
-
+- [[heatsink-dat]] - [[heat-dissipation-dat]] - [[fan-dat]] - [[thermal-dat]]
 
 - [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]]
 

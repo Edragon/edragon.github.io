@@ -301,7 +301,7 @@
 
 - [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]] - [[structure-dat]] - [[structure-t-dat]] - [[frame-profile-dat]]
 
-- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[heatsink-dat]] - [[feeder-dat]] - [[feeder-electric-auto-dat]]
+- [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[feeder-dat]] - [[feeder-electric-auto-dat]]
 
 - [[3D-dat]] - [[fab-3d-print-dat]]
 
@@ -310,6 +310,9 @@
 - [[off-road-dat]]
 
 - [[fab-product-dat]]
+
+- [[heatsink-dat]] - [[heat-dissipation-dat]] - [[fan-dat]] - [[thermal-dat]]
+
 
 ## Circuits 
 

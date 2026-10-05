@@ -2,7 +2,9 @@
 # heatsink-dat
 
 
-- [[PCB-accesories-dat]]
+- [[heatsink-dat]] - [[heat-dissipation-dat]] - [[fan-dat]] - [[thermal-dat]]
+
+- [[PCB-accessories-dat]]
 
 - [[PMP1013-dat]] - [[PMP1008-dat]]
 
