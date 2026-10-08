@@ -7,6 +7,12 @@ https://w.electrodragon.com/w/Category:NRF24#NRF24L01_with_STC_C51_MCU
 - [[NRF24L01-clone-dat]]
 
 
+## relevant 
+
+- [[beken-dat]] - [[bk2423-dat]] - [[NRF24L01-dat]]
+
+
+
 ## boards 
 
 [[arduino-dat]] integrated board - [[DVA1002-dat]]

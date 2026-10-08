@@ -21,6 +21,10 @@
 
 ## chip 
 
+
+- [[beken-dat]] - [[bk2423-dat]] - [[NRF24L01-dat]] - [[rf-2.4Ghz-dat]] - [[frequency-dat]] - [[rf-dat]]
+
+
 - [[BK2425-dat]] - [[RF-2.4Ghz-dat]] - [[frequency-dat]] - [[beken-dat]] - [[RF-dat]]
 
 - [[NRF24L01]] - [[nordic-dat]] - [[NRF24L01-dat]] - [[NRF24L01-clone-dat]]
