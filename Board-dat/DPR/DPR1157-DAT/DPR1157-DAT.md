@@ -88,6 +88,13 @@ output
 * Button only use side ON and OFF button, reset button is not necessary to use
 
 
+### note 
+
+- [[OLED-dat]] is not fully glued firmly ([[glue-dat]]), it can be loose, please handle with care. Add stronger adhesive if necessary.
+
+
+
+
 ## folder setup 
 
 - `IVES`: board config files, keep it default 
@@ -163,4 +170,4 @@ The file list;
 
 - [[STM32-dat]] - [[daplink-dat]] - [[cmsis-dap-dat]]
 
-- [[DPR1157]]
+- [[DPR1157]] - [[DPR1157-fab]]

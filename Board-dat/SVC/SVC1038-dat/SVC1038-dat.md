@@ -22,6 +22,7 @@ This is an upgradion board from the old board [[SVC1035-dat]]
 - [[SVC1042-dat]] == 30A
 
 
+
 ## Info
 
 [product url - VAC Energy Meter Power Sensor Board, HLW8032 Isolated V2 [Amp]](https://www.electrodragon.com/product/vac-energy-meter-power-sensor-board-hlw8032-isolated-version/)
@@ -30,7 +31,7 @@ This is an upgradion board from the old board [[SVC1035-dat]]
 
 Board map 
 
-![](2025-06-07-17-30-01.png)
+![](2026-10-10-02-24-01.png)
 
 - note the [[current-transformer-dat]] (section BX-CT) sensor has two types footprint, bigger and smaller, to compatible with more types of sensors
 
