@@ -153,6 +153,11 @@ The file list;
 
 ![](2026-05-24-20-56-22.png)
 
+self programming 
+
+![](2026-10-10-19-44-30.png)
+
+
 ### programming STM32F103
 
 - https://twitter.com/electro_phoenix/status/1394564729524432900?s=19
