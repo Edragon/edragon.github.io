@@ -11,6 +11,8 @@ android NFT supported phone can use APP called "NFC tools" to read write this PC
 
 ![](2023-12-19-15-15-35.png)
 
+![](2026-10-11-02-55-55.png)
+
 Socket Pin Definitions From Top to Bottom
 
 | Left socket | right Socket |
