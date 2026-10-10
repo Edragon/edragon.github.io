@@ -16,11 +16,7 @@ wiki_options = {
   h1_title: true,
   allow_editing: false,
 
-<<<<<<< HEAD
-  # 关闭昂贵的全局标签查找（12k 文件上代价极高）
-=======
   # 不关闭昂贵的全局标签查找（12k 文件上代价极高）
->>>>>>> 621ebe030908f21969ec6fb631cf3a8a1586dc3b
   global_tag_lookup: true,
   hyphened_tag_lookup: true,
   case_insensitive_tag_lookup: true,
