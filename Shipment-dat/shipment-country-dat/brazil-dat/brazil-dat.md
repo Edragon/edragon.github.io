@@ -14,7 +14,7 @@
 
 - HKUPS: UPS Express (Ref. ETA 7-11 days) == Init. Cost `65 USD` + `5%` extra handling fee
 
-
+BREXPRESS == https://www.correios.com.br/
 
 
 ## ref 
