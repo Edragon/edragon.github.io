@@ -22,6 +22,9 @@
 - [[AC-mains-dat]] - [[fuse-dat]] - [[choke-dat]] [[choke-common-mode]] - [[capacitor-X-Y-dat]] - [[bridge-rectifier-dat]] - [[ACDC-dat]] - [[DC-HV-dat]] - [[DC-dat]] - [[transformer-dat]] - [[diode-dat]] - [[diode-rectifier-dat]] - [[diode-freewheeling-dat]] 
 
 
+
+- [[rectifier-dat]] - [[bridge-rectifier-dat]] - [[diode-rectifier-dat]]
+
 ## tech 
 
 - [[PSR-dat]] - [[SSR-dat]]
@@ -226,6 +229,19 @@ Chip Solutions
 
 ## build 
 
+### build 10 
+
+![](2026-10-14-03-06-11.png)
+
+[[3A222J-dat]] - [[capacitor-dat]] 
+
+[[mosfet-dat]] 
+
+[[FQPF7N65C-dat]] - N-Channel QFET MOSFET - 650 V, 7 A, 1.4 Q - [[onsemi-dat]]
+
+
+
+
 ### build 9 
 
 - [[XL4016-dat]] - [[transformer-dat]]
@@ -269,7 +285,6 @@ CX1 == [[capacitor-x-y-dat]]
 
 * **Function:** Protects the circuit against overvoltage spikes and high surge currents (e.g., lightning strikes or ESD events).
 * **Footprint:** Usually a 2-pin through-hole MOV disc footprint (e.g., 5mm, 7mm, 10mm, or 14mm disc diameter with standard 5.0mm or 7.5mm pitch).
-
 
 
 

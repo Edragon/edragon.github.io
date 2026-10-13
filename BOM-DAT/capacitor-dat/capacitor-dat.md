@@ -232,6 +232,26 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 ![](2026-03-04-20-26-20.png)
 
 
+## types 
+
+### 3A222J 
+
+- [[acdc-dat]]
+
+The 3A222J is a high-voltage polyester (Mylar) film capacitor.
+
+Specifications
+
+- • Type: Polyester (Mylar) film capacitor (CL11 style)
+- • Capacitance: 2.2 nF (2200 pF or 0.0022 µF)
+- • Rated Voltage: 1000V DC
+- • Tolerance: ±5% (indicated by the letter "J")
+- • Common Uses: Audio equipment, power supplies, filtering, coupling, and decoupling circuits
+
+
+
+
+
 ## ref 
 
 

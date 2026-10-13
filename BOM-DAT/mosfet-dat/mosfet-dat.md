@@ -100,7 +100,6 @@ common brand: [[Vishay-dat]]
 
 - [[rectron-dat]] - [[rectron-mosfet-dat]] == RM20P30DF == P-Channel Enhancement Mode Power MOSFET 
 
-- [[mosfet-dat]] - [[voltage-high-dat]] - [[2N65L-dat]] - [[UTC-dat]]
 
 - [[ST-mosfet-dat]] - [[ST-dat]]
 
@@ -172,7 +171,18 @@ HJ3080A 貼片 TO-252 場效電晶體 替代 SE3080K WP3080K CMD3080M
 
 #### high power mosfet design 
 
+HJ 3080A D525
+
 ![](2026-02-13-14-45-27.png)
+
+
+## mosfet high voltage 
+
+- [[mosfet-dat]] - [[voltage-high-dat]] - [[2N65L-dat]] - [[UTC-dat]]
+
+[[FQPF7N65C-dat]] - N-Channel QFET MOSFET - 650 V, 7 A, 1.4 Q - [[onsemi-dat]]
+
+
 
 
 
@@ -412,6 +422,10 @@ The SOT23-6 component marked 2512 (often associated with FDC2512) is an N-Channe
 
 - [[onsemi-dat]]
 
+
+
+
+
 ## chip code 
 
 U7088R RU7088A
@@ -491,7 +505,10 @@ MOS场效应管
 
 - [[X12-dat]] - [[FC-AIO-dat]] - [[PCB-fix-dat]]
 
-- [[motor-driver-brushless-dat]] - [[motor-driver-dat]]
+- [[motor-driver-bldc-dat]] - [[motor-driver-dat]]
+
+- [[acdc-dat]]
+
 
 
 

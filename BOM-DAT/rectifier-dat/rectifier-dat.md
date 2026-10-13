@@ -4,6 +4,8 @@
 
 
 
+- [[rectifier-dat]] - [[bridge-rectifier-dat]] - [[diode-rectifier-dat]]
+
 - [[rectifier-dat]] - [[diode-rectifier-dat]] 
 
 - [[CR6842-dat]] - [[Center-Tapped-Full-Wave-rectifier-dat]]
@@ -38,13 +40,17 @@ The `PFR20L200CTF` (commonly searched as PFC FPR 20L200CTF) is a 20A, 200V MOS S
 
 
 
-
 ## use 
 
 - [[THX208-dat]] - [[transformer-dat]] - [[rectifier-dat]] == MB6F
 
 
 ## build 
+
+KBP210 
+
+The KBP210 Bridge Rectifier is a single-phase, 2-ampere, 1000-volt silicon bridge rectifier diode used to convert alternating current (AC) into direct current (DC).
+
 
 - [[rectifier-dat]] - MBR2045CT - [[load-dat]]
 
