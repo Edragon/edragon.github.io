@@ -404,6 +404,13 @@ This device is produced with high cell density DMOS trench technology, uses adva
 
 ![](2026-05-23-15-04-15.png)
 
+## mosfet SOT
+
+SOT23-6 2512A 
+
+The SOT23-6 component marked 2512 (often associated with FDC2512) is an N-Channel 150V MOSFET manufactured by onsemi in a SuperSOT™-6 / SOT-23-6 package.
+
+- [[onsemi-dat]]
 
 ## chip code 
 
@@ -484,7 +491,7 @@ MOS场效应管
 
 - [[X12-dat]] - [[FC-AIO-dat]] - [[PCB-fix-dat]]
 
-
+- [[motor-driver-brushless-dat]] - [[motor-driver-dat]]
 
 
 

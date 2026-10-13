@@ -13,7 +13,7 @@
 - [[FOC-dat]]
 
 
-- [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]]
+- [[ESC-dat]] - [[VESC-dat]] - [[motor-driver-dat]] - [[FOC-dat]] - [[motor-driver-BLDC-dat]]
 
 
 
