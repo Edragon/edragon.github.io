@@ -3,10 +3,22 @@
 # HT1621-dat
 
 
+HBS162D 
+
+RAM Mapping 324 LCD Controller for I/O MCU
+
 https://github.com/valerionew/ht1621-7-seg
 
 
 [[segment-LCD-dat]] - [[ILC1066-dat]] - [[ILC1067-dat]] - [[HT1621-dat]]
+
+
+## diagram 
+
+![](2026-10-14-02-39-52.png)
+
+
+
 
 ## pins 
 
@@ -26,7 +38,9 @@ pins
 | 21~24 | SEGs |
 
 
+## build
 
+![](2026-10-14-02-40-55.png)
 
 ## ref 
 

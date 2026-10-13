@@ -46,6 +46,8 @@ high power - [[OPMS080-dat]]
 
 - [[shouding-dat]] - [[SDB628-dat]] - [[dcdc-boost-dat]] - [[BMS-active-dat]]
 
+- [[AXElite-dat]] - [[AX5201-dat]] - [[dcdc-boost-dat]]
+
 
 ## compare 
 

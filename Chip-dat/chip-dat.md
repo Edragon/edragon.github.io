@@ -24,7 +24,7 @@ from a to z
 
 - [[FTDI-dat]]
 
-- [[analog-device-dat]]
+- [[holtek-dat]]
 
 - [[IXYS-dat]]
 
