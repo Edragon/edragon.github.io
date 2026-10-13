@@ -63,7 +63,7 @@ https://www.electrodragon.com/wp-content/uploads/2012/01/YSL-R542B5C-A11.pdf
 
 ## LED matrix 
 
-- [[led-mono-matrix-dat]] - [[LED-matrix-driver-dat]]]]
+- [[led-mono-matrix-dat]] - [[LED-matrix-driver-dat]]
 
 - [[LED-segment-display-dat]] 
 
@@ -182,6 +182,14 @@ LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15m
 ## tech 
 
 - [[ACDC-dat]]
+
+
+## build 
+
+socket in LED 
+
+![](2026-10-14-03-10-31.png)
+
 
 
 ## ref 
