@@ -42,7 +42,7 @@ do NOT plug the JTAG cable while powering UP !!
 
 - [[EPM240-dat]] - [[EPM570-dat]]
 
-
+- [[atmel-dat]] - [[avr-dat]] - [[microchip-dat]]
 
 
 ### Intel / Altera

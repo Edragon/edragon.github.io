@@ -1,5 +1,8 @@
 
-# Electric-tools-dat
+# battery-powered-tools-dat
+
+
+- [[power-dat]] - [[battery-powered-device-dat]] - [[battery-powered-tools-dat]] - [[battery-rc-dat]]
 
 - [[li-battery-app-dat]]
 

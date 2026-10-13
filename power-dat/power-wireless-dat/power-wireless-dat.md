@@ -22,7 +22,7 @@
 
 - [[IP6826-dat]] - [[IP5328-dat]] - [[power-wireless-dat]] - [[power-bank-dat]]
 
-
+- [[IP6805-dat]] - [[injoinic-dat]] - [[power-wireless-dat]] - [[power-wireless-TX-dat]]
 
 
 - [[power-wireless-protocols-dat]] - [[power-wireless-dat]] - [[power-wireless-TX-dat]] - [[power-wireless-RX-dat]]

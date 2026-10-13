@@ -339,6 +339,8 @@ The TSF20N65 (often referenced generically as 20N65) is a high-voltage, N-channe
 
 ## mosfet TO-252
 
+`CMD20P03` - P-Channel 30-V (D-S) MOSFET - [[VBsemi-dat]]
+
 MOT5N50D - MOSFET 500V 5A TO-252
 
 MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
@@ -389,9 +391,13 @@ The AM9435 is available in SOP8 Package
 
 
 
-## mosfet DFN 
+## mosfet DFN / QFN
 
-SSC8029GN2 - P-Channel Enhancement Mode MOSFET
+- [[PCB-footprint-dat]]
+
+- [[Alpha-omega-dat]] - [[AON6788-dat]]
+
+`SSC8029GN2` - P-Channel Enhancement Mode MOSFET
 
 This device is produced with high cell density DMOS trench technology, uses advanced trench technology and design to provide excellent RDSON with low gate charge. This device particularly suits low voltage applications such as portable equipment, power management and other battery powered circuits, and low in-line power dissipation are needed in a very small outline surface mount package.
 

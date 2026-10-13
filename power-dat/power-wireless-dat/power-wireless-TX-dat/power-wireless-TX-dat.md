@@ -7,7 +7,7 @@
 - [[power-wireless-protocols-dat]] - [[power-wireless-dat]] - [[power-wireless-TX-dat]] - [[power-wireless-RX-dat]]
 
 
-
+- [[IP6805-dat]] - [[injoinic-dat]] - [[power-wireless-dat]] - [[power-wireless-TX-dat]]
 
 
 ## build 

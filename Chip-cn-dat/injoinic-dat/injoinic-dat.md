@@ -23,7 +23,8 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP6806-dat]] - [[IP6808-dat]] - [[injoinic-dat]] - [[power-wireless-dat]]
 
-- [[IP6805-dat]] == IP5805S 
+
+- [[IP6805-dat]] - [[injoinic-dat]] - [[power-wireless-dat]] == IP5805S 
 
 - [[IP236x-dat]]
 
@@ -57,7 +58,7 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[power-bank-dat]]
 
-
+- [[power-dat]] - [[battery-powered-device-dat]] - [[battery-powered-tools-dat]] - [[battery-rc-dat]]
 
 ## ref 
 

@@ -13,7 +13,7 @@
 
 Quick Charge 2.0
 
-- [[USB-QC-dat]]  - [[fitipower-dat]]
+- [[USB-QC-dat]]  - [[fitipower-dat]] - [[FP6601-dat]]
 
 - [[USB-PPS-dat]]
 

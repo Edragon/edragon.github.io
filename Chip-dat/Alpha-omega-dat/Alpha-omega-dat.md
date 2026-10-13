@@ -14,5 +14,10 @@
 - [[AO3401-dat]]
 
 
+
+## DFN 
+
+`AON6788` - N-Channel - 80 A - 30 V MOSFET - [[Alpha-omega-dat]] - [[AON6788-dat]]
+
 ## ref 
 
