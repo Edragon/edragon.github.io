@@ -5,7 +5,7 @@
 
 
 - 433MHZ version [[DVA1007-DAT]] 
-- 915Mhz version [[DVA1008-DAT]] - [[RA-01H-dat]]
+- 915Mhz version [[DVA1008-DAT]] - [[RA-01H-dat]] - [[SX1262-dat]]
 
 - [[lora-dat]]
 
@@ -18,7 +18,7 @@
 new board V2 images please see [[DVA1009-dat]]
 
 
-
+pin definitions refer to [[DVA1007-dat]]
 
 
 

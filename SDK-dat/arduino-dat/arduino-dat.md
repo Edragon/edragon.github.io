@@ -5,9 +5,11 @@
 
 - [[arduino-boards-dat]] 
   
-- [[arduino-ide-dat]] - [[arduino-lib-dat]]
+- [[arduino-ide-dat]] - [[arduino-lib-dat]] - [[arduino-SDK-dat]] - [[AVR-SDK-dat]]
 
 - [[arduino-programmer-dat]]
+
+- [[arduino-bootloader-dat]]
 
 - [[avr-dat]]
 
@@ -17,6 +19,9 @@
 
 
 - [[audio-dat]] - [[codec-dat]] - [[arduino-audio-dat]] - [[arduino-dat]]
+
+
+
 
 ## repo 
 

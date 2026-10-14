@@ -105,8 +105,11 @@ Pins table
 - [[spi-flash-dat]] - user lowpower lab flash arduino library 
 
 
+### bootloader
+
 
 bootloader - **arduino pro mini 3.3V/8M** == [[arduino-dat]]
+
 
 
 ### coding config 

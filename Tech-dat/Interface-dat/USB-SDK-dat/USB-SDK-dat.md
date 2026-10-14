@@ -205,7 +205,14 @@ MicroA_2_A_Female
 - Some tablets & Chromebooks  
 
 
+## driver 
 
+- [[driver-software-dat]] fixed by zadig - [[zadig-dat]] - [[usb-sdk-dat]]
+
+- WinUSB (libusb)
+- libusb-win32
+- libusbK
+- WinUSB (Microsoft)
 
 
 

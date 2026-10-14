@@ -44,7 +44,7 @@ wiring with [[DOD1017-dat]] - [[attiny44-dat]]
 
 ![](2026-02-26-16-21-27.png)
 
-- [[driver-software-dat]] fixed by zadig - [[zadig-dat]]
+- [[driver-software-dat]] fixed by zadig - [[zadig-dat]] - [[usb-sdk-dat]]
 
 ## error Function not implemented - install driver 
 
@@ -76,6 +76,27 @@ wiring with [[DOD1017-dat]] - [[attiny44-dat]]
 - [[avrdude-dat]]
 - 
 System wide configuration file is "C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/etc/avrdude.conf"
+
+
+
+
+    avrdude: Version 6.3-20190619
+            Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+            Copyright (c) 2007-2014 Joerg Wunsch
+
+            System wide configuration file is "C:\Users\Administrator\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/etc/avrdude.conf"
+
+            Using Port                    : usb
+            Using Programmer              : usbasp
+    avrdude: Warning: cannot query manufacturer for device: No such file or directory
+    avrdude: Warning: cannot query product for device: Broken pipe
+    avrdude: error: could not find USB device with vid=0x16c0 pid=0x5dc vendor='www.fischl.de' product='USBasp'
+
+    avrdude done.  Thank you.
+
+    Failed chip erase: uploading error: exit status 1
+
+
 
 
 ## chip lists 
