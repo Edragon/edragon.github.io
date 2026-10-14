@@ -12,6 +12,9 @@
 
 ## info 
 
+
+- [[frequency-dat]] - [[315mhz-dat]] - [[433mhz-dat]] - [[868mhz-dat]] 
+
 - [[antenna-dat]] - [[antenna-tech-dat]] - [[antenna-AAT-dat]]
 
 - [[antenna-tech-dat]] - [[antenna-range-dat]] - [[antenna-diversity-dat]] 
