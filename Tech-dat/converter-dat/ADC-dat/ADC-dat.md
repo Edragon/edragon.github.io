@@ -140,10 +140,6 @@ TM7705+AD7705+16位ADC数据采集模块
 
 - [[CS1237-dat]] - [[ADC-dat]] - [[chipsea-dat]]
 
-
-## chips 
-
-
 - [[ADS1115-dat]]
 
 - [[INA219-dat]] - [[INA226-dat]]
@@ -213,6 +209,10 @@ wiring 接线图
                           GND
 
 
+## ADC 1V 
+
+82K/3.3K - [[ESP8266-dat]] - [[ESP8266-HDK-dat]]
+
 
 
 ## build APP 
@@ -222,6 +222,8 @@ build 1
 ![](2026-08-01-16-04-59.png)
 
 - [[NJU7043-dat]] - [[JRC-dat]] - [[amp-op-dat]]
+
+
 
 ### Buffer Reference Voltage (RRIO Op-Amp)
 
