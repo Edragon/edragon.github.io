@@ -106,7 +106,7 @@ Pins table
 
 
 
-bootloader - arduino pro mini 3.3V/8M == [[arduino-dat]]
+bootloader - **arduino pro mini 3.3V/8M** == [[arduino-dat]]
 
 
 ### coding config 
