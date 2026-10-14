@@ -1,8 +1,19 @@
 
-# push-pull-driver-dat.md
 
-```markdown
-# Push-Pull Driver (Totem-Pole Output)
+
+
+# push-pull-dat
+
+
+
+
+- [[open-drain-dat]] - [[push-pull-dat]] - [[circuits-dat]] - [[open-collector-dat]]
+
+
+
+
+
+Push-Pull Driver (Totem-Pole Output)
 
 A **push-pull driver** is an output stage that uses **two active transistors**:
 

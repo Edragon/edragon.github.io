@@ -14,12 +14,18 @@
 
 
 
-
 ## sensor 
 
 - [[sensor-touch-dat]] - [[microchip-dat]] - [[MTCH6102-dat]] - MTCH6102 15-channel capacitive touch sensing
 
 ![](2026-08-25-13-36-37.png)
+
+
+
+- [[MCP121-dat]] - [[microchip-dat]] - [[voltage-supervisor-dat]]
+
+
+
 
 
 ## network 

@@ -1,30 +1,22 @@
 
-# open-drain-open-collector-dat
+
+
+
+
+# open-drain-dat.md
+
+
+
+- [[open-drain-dat]] - [[push-pull-dat]] - [[circuits-dat]] - [[open-collector-dat]]
+
+
 
 # Open-Drain vs Open-Collector
 
 Both are output types that **can pull LOW but cannot drive HIGH**.  
 A pull-up resistor is required to generate the HIGH level.
 
----
 
-# 1️⃣ Open-Collector (OC)
-
-- Uses an **NPN bipolar transistor**
-- Can **pull output LOW**
-- Cannot **drive output HIGH** → needs external pull-up resistor
-
-## How it works
-- Transistor ON → output pulled to GND → **LOW**
-- Transistor OFF → output floats → pull-up resistor → **HIGH**
-
-## Common uses
-- I²C
-- Interrupt lines
-- Wired-OR / wired-AND logic
-- Level shifting (pull-up to different voltage)
-
----
 
 # 2️⃣ Open-Drain (OD)
 
