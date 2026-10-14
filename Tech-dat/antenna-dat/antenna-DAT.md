@@ -2,6 +2,16 @@
 # antenna-dat
 
 
+
+
+
+## board 
+
+- [[NAN1013-dat]]
+
+
+## info 
+
 - [[antenna-dat]] - [[antenna-tech-dat]] - [[antenna-AAT-dat]]
 
 - [[antenna-tech-dat]] - [[antenna-range-dat]] - [[antenna-diversity-dat]] 

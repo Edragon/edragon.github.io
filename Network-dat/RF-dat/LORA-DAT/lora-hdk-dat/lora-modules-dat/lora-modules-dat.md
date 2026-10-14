@@ -1,6 +1,6 @@
 # lora-modules-dat
 
-- [[lora-chip-dat]] - [[lora-modules-dat]] - [[AIT-dat]]
+- [[lora-chip-dat]] - [[lora-modules-dat]] - [[AIT-dat]] - [[antenna-dat]]
 
 - [[LLCC68-dat]] - [[NWL1103-dat]]
 
@@ -39,6 +39,14 @@ classic SX127x:
 - [[RA-01SH-dat]] - [[SX1262-dat]]
 
 - [[RA-01SC-dat]] - [[LLCC68-dat]]
+
+| model          | frequency          | note            | power   | Sensitivity | power RX and deep sleep   |
+| -------------- | ------------------ | --------------- | ------- | ----------- | ------------------------- |
+| [[SX1278-dat]] | 433 / 470 mhz      |                 |         |             |                           |
+| [[SX1276-dat]] | 868 / 915 mhz      |                 |         |             |                           |
+| [[SX1262-dat]] | 868 / 915 mhz      | [[LoRaWAN-dat]] |         |             |                           |
+| [[SX1268-dat]] | 433 / 470 mhz      | [[LoRaWAN-dat]] |         |             |                           |
+| [[LLCC68-dat]] | 150 MHz to 960 MHz |                 | +22 dBm | -129 dBm    | ~4.2 mA / ~1.9 µA to 2 µA |
 
 
 

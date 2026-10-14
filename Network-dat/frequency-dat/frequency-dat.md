@@ -18,6 +18,10 @@
 
 
 
+- [[frequency-dat]]
+
+
+
 
 
 ## common frequency 
@@ -25,17 +29,15 @@
 - [[27mhz-dat]]
 
 
-- 315 - [[RF-dat]]
-- 868 915 == [[lora-dat]] - [[CDMA-dat]] - [[RFID-dat]]
-- 433 - [[lora-dat]] - [[RF-dat]]
-- 470 / 490 mhz - [[lora-dat]]
-- 800 / 1800 mhz == [[4G-dat]] - [[3G-dat]] - [[LTE-dat]] - [[GPRS-dat]] - [[NBIOT-dat]] - [[GSM-dat]]
+- [[315mhz-dat]] - [[RF-dat]]
+- [[433mhz-dat]] - 470 / 490 mhz - [[lora-dat]] - [[frequency-dat]] - [[RF-dat]]
+- [[868mhz-dat]] - 800 / 1800 mhz == [[4G-dat]] - [[3G-dat]] - [[LTE-dat]] - [[GPRS-dat]] - [[NBIOT-dat]] - [[GSM-dat]] - [[frequency-dat]] - [[CDMA-dat]] - [[RFID-dat]]
 - 2200 - [[LTE-dat]]
 - 2400 - [[wifi-dat]] - [[bluetooth-dat]] - [[RF-dat]] - [[zigbee-dat]]
 - [[GPS-dat]] - [[GNSS-dat]] - [[location-dat]]
 
 
-- [[5.8Ghz-dat]] - [[frequency-dat]] - [[VTX-dat]]
+- [[5.8Ghz-dat]] - [[frequency-dat]] - [[VTX-dat]] - [[frequency-dat]]
 
 ## ISM bands 
 
