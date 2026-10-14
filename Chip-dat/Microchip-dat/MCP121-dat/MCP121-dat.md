@@ -27,7 +27,7 @@ Device:
 
 - [[open-drain-dat]] - [[push-pull-dat]] - [[circuits-dat]]
 
-
+- [[MCP121]] - [[MCP121-dat]]
 
 
 ## ref 

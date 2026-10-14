@@ -63,3 +63,5 @@ https://w.electrodragon.com/w/ESP_Relay_Board_VDC
 - [[esp-relay-board-dat]]
 
 - [[MP1584-DAT]]
+
+- [[NWI1115]]
