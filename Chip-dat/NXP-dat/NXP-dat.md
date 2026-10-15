@@ -13,6 +13,9 @@
   
 - [[NXP-triac-dat]] - [[BT136-dat]] - [[BT131-dat]] - [[triac-dat]] - [[triac-driver-dat]] 
 
+- [[BT136-dat]] - [[TRIAC-dat]] - [[BT138-dat]] - [[NXP-dat]]
+
+
 
 [[NXP-CAN-dat]] - [[TJA1050-dat]] - [[CAN-dat]]
 

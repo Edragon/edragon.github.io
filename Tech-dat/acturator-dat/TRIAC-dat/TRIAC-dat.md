@@ -8,7 +8,7 @@ BTB12-800 - [[triac-dat]] - [[hair-dryer-dat]]
 ![](2026-06-15-18-32-14.png)
 
 
-- [[MOC3063-dat]] - [[triac-dat]] - [[triac-driver-dat]]
+- [[MOC3063-dat]] - [[triac-dat]] - [[triac-driver-dat]] - [[MOC3043-dat]]
 
 
 

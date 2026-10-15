@@ -2,6 +2,9 @@
 
 # SCU1041 DAT
 
+
+
+
 - [[MOC3063-dat]] - [[triac-dat]] - [[triac-driver-dat]] - [[control-system-dat]]
 
 
@@ -27,7 +30,7 @@ https://www.electrodragon.com/product/triac-switching-drive-board-optical-isolat
 
 ## Ref 
 
-- [[BT136-dat]]
+- [[BT136-dat]] - [[TRIAC-dat]] - [[BT138-dat]] - [[NXP-dat]]
 
 - https://www.electrodragon.com/w/Category:TRIAC
 

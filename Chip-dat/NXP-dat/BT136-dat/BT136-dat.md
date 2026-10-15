@@ -2,6 +2,8 @@
 # BT136-dat 
 
 
+- [[BT136-dat]] - [[TRIAC-dat]] - [[BT138-dat]] - [[NXP-dat]]
+
 - 1 Main Terminal_1 Connected to Phase or neutral of AC mains
 - 2 Main Terminal_2 Connected to Phase or neutral of AC mains
 - 3 Gate Used to trigger the SCR.
