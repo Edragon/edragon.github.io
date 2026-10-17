@@ -1,6 +1,7 @@
 
 # feeder-dat
 
+- [[feeder-dat]] - [[feeder-electric-auto-dat]] - [[feeder-loose-component-dat]] - [[feeder-loose-component-taping-dat]]
 
 - [[PCB-footprint-dat]]
 

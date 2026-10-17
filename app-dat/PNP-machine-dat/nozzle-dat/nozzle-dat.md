@@ -58,7 +58,9 @@ M6 outter thread
 | CN800  | QFP100, QFP144, QFP208 and components of similar size               |
 
 
+## clean and defect detection
 
+![](2026-10-18-01-07-43.png)
 
 
 ## ref 

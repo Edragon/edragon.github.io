@@ -5,6 +5,14 @@
 
 
 
+
+
+## feeder version 
+
+![](2026-10-18-01-05-26.png)
+
+
+
 ## feeder build - sandwich structure
 
 - [[motor-N20-dat]] - [[feeder-electric-auto-dat]]

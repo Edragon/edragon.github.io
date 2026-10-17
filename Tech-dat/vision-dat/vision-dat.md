@@ -17,7 +17,9 @@
 
 
 
+## methods 
 
+- [[vision-Binarization-dat]] - [[vision-dat]] - [[vision-pnp-dat]]
 
 
 ## function 

@@ -2,6 +2,9 @@
 # fab-dat.md
 
 
+- [[fab-dat]] - [[fab-PNP-machine-dat]]
+
+
 - [[product-dat]] - [[engineering-dat]] - [[fab-mechanics-dat]] - [[fab-dat]] - [[fab-materials-dat]]
 
 
@@ -21,7 +24,7 @@
 
 - [[fab-mechanics-dat]] - [[fab-3d-print-dat]] - [[fab-CNC-dat]] - [[case-dat]]
 
-- [[sheet-metal-fab-dat]]
+- [[fab-sheet-metal-dat]]
 
 - [[CAD-dat]] - [[onshape-dat]] - [[drawing-dat]] - [[assembly-dat]] - [[step-dat]]
 
