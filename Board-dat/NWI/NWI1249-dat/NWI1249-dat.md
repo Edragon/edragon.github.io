@@ -22,6 +22,8 @@ ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 - [[ESP32-S3-board-dat]]
 
 
+- [[OV2640-dat]] - [[OV3660-dat]] - [[OV5640-dat]]
+
 
 ## board functions and demo 
 
@@ -256,3 +258,5 @@ extension board V2
 
 
 - [[ESP32-S3-dat]]
+
+- [[NWI1249]]
