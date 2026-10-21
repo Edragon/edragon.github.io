@@ -1,6 +1,6 @@
 
 
-# XH2.54-dat
+# CONN-XH2.54-dat
 
 - [[CONN-cable-JST-dat]] - [[XH2.54-dat]] - [[PH2.0-dat]] - [[SM2.54-dat]] - [[wire-to-wire-dat]] - [[wire-to-wire]] - [[cable-dat]]
 
