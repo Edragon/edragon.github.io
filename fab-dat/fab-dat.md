@@ -5,6 +5,11 @@
 - [[fab-dat]] - [[fab-PNP-machine-dat]]
 
 
+- [[fab-PCBA-dat]] - [[fab-QC-dat]] - [[fab-PCB-soldering-dat]]
+
+- [[fab-dat]] - [[fab-PCB-soldering-reflow-dat]] - [[fab-PCB-soldering-dat]] - [[fab-PCB-soldering-baking-dat]]
+
+
 - [[product-dat]] - [[engineering-dat]] - [[fab-mechanics-dat]] - [[fab-dat]] - [[fab-materials-dat]]
 
 
@@ -61,3 +66,5 @@
 ## ref 
 
 - [[fab-mechanics-dat]]
+
+- [[fab]]

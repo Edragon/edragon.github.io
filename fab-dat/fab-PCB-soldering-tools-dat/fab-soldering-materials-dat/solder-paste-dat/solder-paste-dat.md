@@ -64,6 +64,41 @@
 ![](2024-02-17-16-20-49.png)
 
 
+## What Is Solder Paste Thawing?
+
+**Solder paste thawing / warm-up** is the process of taking solder paste out of cold storage (typically a dedicated refrigerator at **2 °C – 10 °C**) and letting it warm naturally to workshop ambient temperature **without opening the sealed package**.
+
+---
+
+## Core Functions of Solder Paste Thawing
+
+Solder paste consists of metal powder, flux, and solvent. Using refrigerated paste directly causes a series of serious soldering defects; thawing matters mainly in the following three ways:
+
+* **1. Prevents moisture condensation from the air (most critical)**:
+  * A refrigerated paste jar is cold. If the lid is opened immediately after taking it out of the fridge, moisture in the workshop air quickly **condenses into droplets on the cold paste surface (dew condensation)**.
+  * When moisture mixes into the paste and enters the reflow oven, the high temperature vaporizes it instantly, producing solder balls, splatter, solder voids, or even paste explosion.
+
+
+* **2. Restores viscosity and rheological properties**:
+  * Low temperature thickens the resins and solvents in the flux and raises viscosity. Thawing restores the paste to the manufacturer's designed **standard viscosity and thixotropy**, ensuring it fills stencil apertures smoothly and evenly as the squeegee pushes it.
+
+
+* **3. Equalizes chemical activity and prevents clumping**:
+  * Thawing equalizes the temperature distribution between the metal powder and the flux, avoiding premature flux failure or local separation/settling caused by temperature gradients, thereby keeping the printed shape stable without slumping.
+
+
+
+---
+
+## Standard Thawing Procedure and Checklist
+
+* [ ] **Keep it sealed**: Never open the lid or peel the sealing film during thawing; the original packaging must remain sealed.
+* [ ] **Timing**: Standard thawing time is generally **4 hours or more** (extend appropriately for large-capacity jars or low winter room temperatures).
+* [ ] **No heating**: Never use an oven, heat gun, or any other external heat source to force it; thawing must be at **natural room temperature**.
+* [ ] **Temperature confirmation**: After thawing, use an infrared thermometer (or check by touch) to confirm the jar has reached workshop temperature before opening, stirring, and using.
+
+
+
 ## target 
 
 - [[FPC-dat]] 

@@ -283,6 +283,8 @@
 
 ## fab Tools and Soldering 
 
+- [[fab-dat]] 
+
 - [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
 
 - [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]] - [[PCB-stack-dat]]
@@ -291,7 +293,7 @@
 
 - [[fab-tools-dat]] - [[fab-instrument-dat]] - [[fab-workspace-dat]]
 
-- [[product-dat]] - [[engineering-dat]] - [[fab-dat]] - [[installation-dat]] - [[standard-dat]]
+- [[product-dat]] - [[engineering-dat]] - [[installation-dat]] - [[standard-dat]]
 
 - [[fab-mechanics-dat]] - [[fab-materials-dat]] 
 
