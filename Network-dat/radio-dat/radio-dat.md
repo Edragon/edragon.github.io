@@ -30,6 +30,17 @@
 
 - [[radio-breakpoint-Two-path-dat]]
 
+- [[radio-FSPL-dat]]
+
+
+
+
+## band 
+
+- [[2.4ghz-dat]] - [[900mhz-dat]] - [[band-dat]] - [[frequency-dat]]
+
+
+
 ## apps 
 
 - [[SDR-dat]]
@@ -152,11 +163,11 @@ Budget = TX power (dBm) + TX antenna (dBi) + RX antenna (dBi)
 - Definition: an unobstructed straight path between the two ends
 - Impact: minimum attenuation under LOS — it is the "best case" behind every range figure
 
-**FSPL (Free-Space Path Loss)**
 
-- Formula: `FSPL(dB) = 32.45 + 20·log₁₀(f_MHz) + 20·log₁₀(d_km)`
-- Impact: higher frequency means more loss (7.2G is 1.87 dB worse than 5.8G and 9.5 dB worse than 2.4G)
-  Doubling the distance = +6 dB
+- [[radio-FSPL-dat]]
+
+
+
 
 **20log / 40log attenuation laws**
 

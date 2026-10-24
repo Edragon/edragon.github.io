@@ -39,7 +39,7 @@
 
 - [[FPV-build-dat]] - [[battery-FPV-dat]]
 
-- [[flight-controller-dat]]
+- [[flight-controller-dat]] - [[X12-dat]]
 
 
 

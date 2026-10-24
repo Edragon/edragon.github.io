@@ -15,6 +15,20 @@
 
 
 
+## antenna 
+
+X12 是 5 合 1 板（飞控+电调+OpenVTX 400mW+2.4G ELRS+OSD），所以有两根天线：
+
+塔状（蘑菇/棒棒糖）  → ⭐️ 5.8GHz【图传】天线
+                       圆极化 RHCP，接 OpenVTX 的 IPEX 输出
+
+鞭状（T 型/线状）    → ⭐️ 2.4GHz【ELRS 遥控】接收天线
+                       线性极化偶极（dipole），1/4 波长 ≈31mm
+
+
+- [[antenna-dat]] 
+
+
 ## common error
 
 burned on [[battery-3s-dat]], can not be shorted like the image, the images is wrong  
