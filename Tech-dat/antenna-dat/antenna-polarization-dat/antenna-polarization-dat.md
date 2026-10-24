@@ -17,6 +17,28 @@ by - [[antenna-polarization-dat]] - [[antenna-type-dat]]
 - [[antenna-panel-dat]]
 
 
+螺旋朝远方 // 平板兜近处
+
+- Directional Antenna 定向 天线 // Omnidirectional Antenna 全向 天线
+
+
+
+
+## Directional Antenna vs. Omnidirectional Antenna Comparison
+
+| **Feature / Property**          | **Directional Antenna (定向天线)**                                                  | **Omnidirectional Antenna (全向天线)**                                     |
+| ------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Term**                        | Directional Antenna                                                                 | Omnidirectional Antenna                                                    |
+| **Radiation Pattern**           | Focused in a specific direction (high gain in one sector)                           | $360^{\circ}$ horizontal coverage (doughnut-shaped pattern)                |
+| **Antenna Gain (**$G$**)**      | Typically **high** (concentrates energy to extend range in target direction)        | Typically **moderate to low** (distributes energy in all directions)       |
+| **Coverage Area**               | Narrow beamwidth, long distance (point-to-point or sector coverage)                 | Wide horizontal coverage, shorter distance (point-to-multipoint/broadcast) |
+| **Alignment Precision**         | Requires precise physical alignment/pointing between transmitter and receiver       | Easy installation; no precise alignment needed                             |
+| **Typical Applications**        | Wireless bridges, cellular base station sectors, satellite dishes, long-range links | Home Wi-Fi routers, mobile devices, IoT gateways, broadcast radio          |
+| **Interference Susceptibility** | Lower vulnerability to off-axis interference; higher spatial reuse                  | Higher susceptibility to surrounding ambient interference                  |
+
+
+
+
 ## polarization mismatch 
 
 🔬 Basic principle
@@ -28,11 +50,11 @@ Antenna polarization comes in two types:
 Matching rules:
 
 | TX (VTX) polarization | VRX (goggles antenna) polarization | Result                     | Loss   |
-| --------------------- | --------------------------------- | -------------------------- | ------ |
-| Linear                | Linear (aligned)                  | ✅ Best                     | 0dB    |
-| Linear                | Circular                          | ⚠️ Power cut in half       | -3dB   |
-| Circular              | Circular (same handedness)        | ✅ Good (and pose-tolerant) | 0dB    |
-| Circular              | Circular (opposite handedness)    | ❌ Disaster                 | -20dB+ |
+| --------------------- | ---------------------------------- | -------------------------- | ------ |
+| Linear                | Linear (aligned)                   | ✅ Best                     | 0dB    |
+| Linear                | Circular                           | ⚠️ Power cut in half        | -3dB   |
+| Circular              | Circular (same handedness)         | ✅ Good (and pose-tolerant) | 0dB    |
+| Circular              | Circular (opposite handedness)     | ❌ Disaster                 | -20dB+ |
 
 🎯 Your case is most likely
 

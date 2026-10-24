@@ -12,6 +12,14 @@
 
 - [[rc-aircraft-dat]] - [[FPV-dat]]
 
+
+
+## relevant tech 
+
+- [[video-transmission-digital-dat]] - [[video-transmission-dat]] - [[DJI-dat]]
+
+
+
 ## ref 
 
 - [[quadcopter-dat]] - [[goggles-dat]]
