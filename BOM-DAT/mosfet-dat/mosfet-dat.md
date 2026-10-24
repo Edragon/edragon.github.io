@@ -107,21 +107,28 @@ common brand: [[Vishay-dat]]
 
 - [[IOR-dat]]
 
-| Model             | Mark | Manufacturers    | Id    | Package         | CH type | VDS max |
-| ----------------- | ---- | ---------------- | ----- | --------------- | ------- | ------- |
-| NCE6050           |      | [[ncepower-dat]] | 50A   | TO-252          | N       | 60V     |
-| IRF540N           | 540N | [[Infineon-mosfet-dat]] | 33A   | TO-263 / TO-220 | N       | 100V    |
-| IR F5305          | 5305 | [[Infineon-mosfet-dat]] | -31A  | TO-220          | P       | 55V     |
-| IR [[FR1205-dat]] |      | [[Infineon-mosfet-dat]] | 44A   | TO-252          | N       | 55V     |
-| 2N7002            | 7002 | [[NXP-dat]]      | 115mA | SOT-23          | N       | 60V     |
-| SI1304            |      | [[Vishay-dat]]   | 5.1A  | SOT-23          | N       | 20V     |
-| SI1308            |      | [[Vishay-dat]]   | 8.7A  | SOT-23          | N       | 30V     |
-| SI2300            |      | [[Vishay-dat]]   | 2.8A  | SOT-23          | P       | 20V     |
-| SI2301            |      | [[Vishay-dat]]   | 2.8A  | SOT-23          | P       | 20V     |
-| SI2302            |      | [[Vishay-dat]]   | 3.1A  | SOT-23          | N       | 20V     |
-| SI2304            | A04  | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
-| SI2307            |      | [[Vishay-dat]]   | 3.7A  | SOT-23          | N       | 30V     |
-| SI2308            |      | [[Vishay-dat]]   | 5.6A  | SOT-23          | N       | 30V     |
+| Model             | Mark        | Manufacturers           | Id    | Package         | CH type | VDS max |
+| ----------------- | ----------- | ----------------------- | ----- | --------------- | ------- | ------- |
+| NCE6050           |             | [[ncepower-dat]]        | 50A   | TO-252          | N       | 60V     |
+| IRF540N           | 540N        | [[Infineon-mosfet-dat]] | 33A   | TO-263 / TO-220 | N       | 100V    |
+| IR F5305          | 5305        | [[Infineon-mosfet-dat]] | -31A  | TO-220          | **P**   | 55V     |
+| IR [[FR1205-dat]] |             | [[Infineon-mosfet-dat]] | 44A   | TO-252          | N       | 55V     |
+| [[2N7002-dat]]    | 7002        | [[NXP-dat]]             | 115mA | SOT23-3         | N       | 60V     |
+| SI1304            |             | [[Vishay-dat]]          | 5.1A  | SOT23-3         | N       | 20V     |
+| SI1308            |             | [[Vishay-dat]]          | 8.7A  | SOT23-3         | N       | 30V     |
+| SI2300            |             | [[Vishay-dat]]          | 2.8A  | SOT23-3         | **P**   | 20V     |
+| SI2301            | N1JGA       | [[Vishay-dat]]          | 2.8A  | SOT23-3         | **P**   | 20V     |
+| SI2302            | A2SHB       | [[Vishay-dat]]          | 3.1A  | SOT23-3         | N       | 20V     |
+| SI2304            | A04         | [[Vishay-dat]]          | 3.7A  | SOT23-3         | N       | 30V     |
+| SI2307            |             | [[Vishay-dat]]          | 3.7A  | SOT23-3         | N       | 30V     |
+| SI2308            |             | [[Vishay-dat]]          | 5.6A  | SOT23-3         | N       | 30V     |
+| AO3400            | A09T        | [[AOSMD-mosfet-dat]]    | 2.5A  | SOT23-3         | N       |         |
+| AO3400A           | X0 X0RB48   | [[AOSMD-mosfet-dat]]    | 5.7A  | SOT23-3         | N       |         |
+| AO3401            | A19T        | [[AOSMD-mosfet-dat]]    | -2.8A | SOT23-3         | **P**   |         |
+| AO3401A           | X1          | [[AOSMD-mosfet-dat]]    | -4A   | SOT23-3         | **P**   |         |
+| AO3402            | A29T        | [[AOSMD-mosfet-dat]]    | 3A    | SOT23-3         | N       |         |
+| AO3402            | A2TEA8 A2HV | [[AOSMD-mosfet-dat]]    | 4A    | SOT23-3         | N       | 30V     |
+
 
 - [[2N7002-dat]]
 
@@ -455,6 +462,8 @@ https://www.vishay.com/docs/74341/sup90n03.pdf
 
 ## mosfet list 
 
+
+
 `M2544N` == `QM2544N5` == M2544N - [[mosfet-dat]] - [[battery-protector-1s-dat]]
 
 QM2544N5 - Dual N-Channel 20V Fast Switching MOSFET
@@ -509,7 +518,7 @@ MOS场效应管
 
 - [[acdc-dat]]
 
-
+- [[protection-power-dat]]
 
 
 ## fault detection 
