@@ -105,7 +105,7 @@ flash tool - https://github.com/OpenIPC/companion/releases
 
 - [[VTX-dat]] - [[VTX-openIPC-dat]] - [[openIPC-dat]]
 
-
+- [[openIPC-antenna-dat]] - [[antenna-digital-dat]]
 
 ## 双卡 
 

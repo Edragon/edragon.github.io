@@ -3,6 +3,11 @@
 
 # antenna-MIMO-dat
 
+
+
+== 1T1R // 2T2R
+
+
 - [[antenna-tech-dat]] - [[antenna-digital-dat]] - [[antenna-MIMO-dat]]
 
 
