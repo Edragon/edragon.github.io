@@ -15,6 +15,7 @@
 
 - [[radio-FM-dat]]
 
+- [[video-transmission-dat]] - [[video-dat]]
 
 ## boards 
 
@@ -28,10 +29,15 @@
 
 - [[telemetry-dat]] - [[RC-dat]] - [[radio-dat]]
 
-- [[radio-breakpoint-Two-path-dat]]
+- [[radio-dat]] - [[radio-FSPL-dat]] - [[radio-breakpoint-Two-path-dat]]
 
-- [[radio-FSPL-dat]]
+- [[radio-packet-rate-dat]]
 
+- [[antenna-position-dat]] (externalisation) - [[antenna-gain-dat]] - [[antenna-dat]] - [[antenna-diversity-dat]]
+
+- [[radio-power-dat]]
+
+- [[attitude-dat]] - [[physics-dat]] - [[flight-attitude-dat]]
 
 
 
@@ -49,13 +55,6 @@
 
 - [[SI4713-dat]] - [[silicon-labs-dat]]
 
-
-
-## terminology
-
-- [[radio-breakpoint-Two-path-dat]] - [[radio-power-dat]]
-
-- [[antenna-dat]]
 
 
 ### 1. Units and scales — the foundation of every number
