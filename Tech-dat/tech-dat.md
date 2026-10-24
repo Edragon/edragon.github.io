@@ -107,7 +107,7 @@
 == Proprietary
 
 
-- [[network-dat]] - [[location-dat]] - [[radio-FM-dat]] - [[infrared-dat]]
+- [[network-dat]] - [[location-dat]] - [[radio-FM-dat]] - [[infrared-dat]] - [[radio-dat]]
 
 - [[network-system-dat]]
 
