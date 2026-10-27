@@ -22,8 +22,117 @@
 - [[sensor-camera-dat]] - [[camera-analog-dat]] - [[camera-FPV-dat]]
 
 
-### ⚠️ 模拟图传做不到 10-20km（不划算）
-- 实用 2-5km；极限 10-20km 需 1-2W + 高增益定向天线 + **地面跟踪云台**（画质仍差）
+- [[frequency-dat]] - [[VTX-analog-dat]] - [[VRX-analog-dat]]
+
+- [[1.2ghz-dat]] - [[3.3ghz-dat]] - [[5.8ghz-dat]] - [[7.2ghz-dat]]
+
+
+
+## 1.2ghz 
+
+- [[VTX-analog-dat]] - [[VRX-analog-dat]]
+
+1.2ghz
+
+5W VTX ++ 10 dBi（HFJ-1205Y）+ VRX -95 dBm
+
+
+### build 
+
+build 1 
+
+
+#### 1. Specs at both ends
+
+**Transmitter:** 5 W = 37 dBm (1.28 GHz)
+
+**Receiver:** Matek VRX-1G3 (V2)
+
+- Frequency: 1080–1360 MHz (9 channels)
+- ⭐ Sensitivity: ≈ −95 dBm
+- Front-end band-pass: 950–1450 MHz
+- Dual receiver (true diversity) + AV output
+
+#### 2. Distance table (120 m altitude · 2 dBi airborne · 10 dB margin · 2 dB cable loss · −95 dBm)
+
+> *Source note: the table itself is missing in the original document.*
+
+#### 3. ⭐⭐ Key finding: 5 W is not over-spec, but it still cannot fill the line of sight
+
+| Case | Value |
+|---|---:|
+| Horizon limit (k = 4/3) | 4.12 × (√120 + √1.5) = 50.2 km |
+| Geometric horizon | 3.57 × (√120 + √1.5) = 43.5 km |
+| 1.28G two-ray breakpoint | 9.65 km |
+
+| Configuration | Range | Share of line of sight |
+|---|---:|---:|
+| 5 W + 10 dBi | 26.8 km | 53% |
+| 5 W + 14 dBi | 33.7 km | 67% |
+| 5 W + 20 dBi | 47.6 km | ⭐ 95% (hugging the horizon) |
+
+> ⭐ Want to reach 50.2 km with a 10 dBi antenna? You would need 47.9 dBm ≈ 62 W.
+> In other words: 5 W on 10 dBi is "enough but not at the limit"; reaching the horizon is a job for antenna gain, not power.
+
+#### 4. ⭐ Power vs antenna gain: same dB, completely different cost
+
+Baseline 400 mW + 10 dBi:
+
+| Change | Range | Multiplier |
+|---|---:|---:|
+| 400 mW → 1 W (+4 dB power) | 17.9 km | ×1.26 |
+| 400 mW → 5 W (+11 dB power) | 26.8 km | ×1.88 |
+| 10 → 14 dBi (+4 dB antenna) | 17.9 km | ×1.26 |
+| 10 → 20 dBi (+10 dB antenna) | 25.3 km | ×1.78 |
+
+> ⭐ The same dB value buys exactly the same range whether it comes from power or from gain —
+> but the cost is nothing alike:
+
+```
+5 W transmit:   10–14 W DC · 0.45–0.64 A on 6S · must dump 5–9 W of heat · heavier · plus regulatory limits
+20 dBi receive: swap to a bigger antenna on the tripod · no heat · no current draw · zero cost on the aircraft
+```
+
+> ⭐ Put the gain on the ground; only consider power on the aircraft
+
+#### 5. The real engineering cost of 5 W
+
+| Item | Estimate |
+|---|---|
+| DC input | 10–14 W (PA efficiency 35–50%) |
+| 6S current | 0.45–0.64 A |
+| Heat to dissipate | 5–9 W — a heatsink alone is not enough, you need airflow |
+| RF exposure (5 W + 10 dBi = 47 dBm = 50 W EIRP) | 3.99 W/m² at 1 m in the main lobe ≈ 40% of the public limit (10 W/m²) → do not stand within 1 m in front of the antenna |
+
+> ⚠️ Regulatory: 5 W on 1.2/1.3G exceeds every licence-free limit by several orders of magnitude. This is a lab/research framing, not operational advice.
+
+#### 6. ⚠️ Model boundaries (must be stated)
+
+1. **Flat-ground assumption** — real 1.2/1.3G over terrain like Shenzhen's drops abruptly at terrain breakpoints, treelines and buildings; 26.8 km is only realistic over open water or along a ridge line of sight.
+2. **Airborne antenna quality** — a 2 dBi dipole with vibration and a poor ground plane can be 3–6 dB worse than nominal.
+3. **Diversity gain not counted** — the VRX-1G3's dual receivers add another +4~8 dB in fading environments (the table above is a single branch).
+4. **Polarization loss not counted** — linear polarization misalignment costs a flat 10–20 dB and would reset every number above.
+
+#### 7. My recommendation
+
+**Aircraft side:** 1 W is the sane upper limit for a normal 1.2G airframe.
+5 W only makes sense on a fixed wing with ducted airflow, an independent regulator, and a frame that can shed 5–9 W of heat.
+
+**Ground side:** ⭐ spend the money on antenna gain, not on transmit power.
+
+```
+10 dBi Yagi → 26.8 km with 5 W, still 14.2 km with 400 mW
+20 dBi      → 47.6 km with 5 W, still 25.3 km with 400 mW
+```
+
+> ⭐ Best value combination:
+> 1 W airborne + 14 dBi ground → 22.5 km, with comfortable heat and current
+> only 4 km short of 5 W + 10 dBi (26.8 km), at an order of magnitude less cost
+
+
+
+### ⚠️ Analog video simply cannot do 10-20 km (not worth it)
+- Practical range 2-5 km; the 10-20 km extreme needs 1-2 W + a high-gain directional antenna + a **ground tracking gimbal** (and the image quality is still poor)
 
 
 

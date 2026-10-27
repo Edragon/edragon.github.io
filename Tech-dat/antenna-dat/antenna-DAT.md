@@ -36,7 +36,7 @@
 - [[antenna-dat]] Polarization == - [[antenna-RHCP-dat]] // [[antenna-patch-dat]] - [[antenna-linear-dat]] - [[antenna-polarization-dat]] - [[antenna-polarization-mixed-dat]] - [[antenna-helical-dat]] - [[antenna-lolipop-dat]]
 
 
-- [[antenna-dat]] - [[antenna-linear-dat]] - [[antenna-dipole-dat]]
+- [[antenna-dat]] - [[antenna-linear-dat]] - [[antenna-dipole-dat]] - [[antenna-yagi-dat]]
 
 
 
@@ -55,11 +55,11 @@
 
 ## tech 
 
-
+- [[antenna-Radiator-dat]]
 
 - [[openIPC-antenna-dat]] - [[antenna-digital-dat]] - [[antenna-MIMO-dat]]  - [[antenna-dat]] - [[antenna-polarization-dat]]
 
-
+- [[frequency-dat]] 
 
 
 

@@ -133,7 +133,7 @@
 
 - [[SFP-dat]] - [[fiber-optic-dat]] - [[toslink-dat]]
 
-- [[frequency-dat]] - [[bands-dat]] - [[EMI-dat]] - [[LNA-dat]]
+- [[frequency-dat]] - [[bands-dat]] - [[EMI-dat]] - [[LNA-dat]] - [[5.8ghz-dat]] 
 
 ### MCU / CTRL / Processing 
 

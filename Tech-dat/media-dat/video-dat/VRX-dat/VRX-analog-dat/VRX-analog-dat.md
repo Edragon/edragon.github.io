@@ -26,6 +26,16 @@
 - [[5.8Ghz-dat]]
 
 
+## 1.2ghz 
+
+- [[1.2Ghz-dat]] - [[rf-dat]] - [[antenna-yagi-dat]]
+
+- [[VTX-analog-dat]]
+
+- [[VRX-analog-dat]] - Matek VRX-1G3
+
+![](2026-10-28-02-39-27.png)
+
 ## SM333R 
 
 ![](2026-10-28-01-05-50.png)
