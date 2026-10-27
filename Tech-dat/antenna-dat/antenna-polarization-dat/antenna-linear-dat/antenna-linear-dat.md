@@ -19,7 +19,64 @@
 type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-linear-dat]] - [[antenna-spring-dat]] 
 
 
-## 双猪尾 天线
+
+
+
+
+
+
+## Why the gain can't go higher — do the math
+
+Omni pattern: `D = 41253 / (360 × θ_El) = 114.6 / θ_El`
+
+| Gain | Vertical beamwidth | Note |
+|---:|---:|---|
+| 1.0 dBi | 91° | ← normal for a mushroom omni |
+| 2.0 dBi | 72° | ← a good mushroom |
+| 3.0 dBi | 57° | ← already close to the limit |
+| 5.0 dBi | 36° | ← only a linear fibreglass omni achieves this; very hard with CP |
+| 9.0 dBi | 14° | ← only a linear collinear array |
+
+> ⭐⭐ The core conflict: the narrower the beam, the higher the gain — but the moment the aircraft climbs or dives it leaves the main lobe
+> 2 dBi → drops beyond ±36°; 5 dBi → drops beyond ±18°
+> → so a "high-gain omni" is essentially unusable on an aircraft
+
+## common suppliers
+
+### 3. Common circularly-polarised omni (mushroom) products
+
+| Model | Structure | Nominal gain | Reference price | Note |
+|---|---|---|---|---|
+| ⭐️ TrueRC Singularity (incl. Stubby) | patented omni | ~1.9 dBic | ¥150+ | one of the best in efficiency and consistency; Oscar's first choice for VRX |
+| ⭐️ TBS Triumph Pro | skew-planar | ~1.5–2.5 dBi | ¥150–200 | the long-standing benchmark, durable |
+| ⭐️ Foxeer Lollipop 4 Plus | cloverleaf family | 1.6–2.6 dBi | ¥60–90 | king of value (two sources quote 1.6 / 2.6, both inside the range) |
+| Lumenier AXII 2 / Double AXII | omni | ~2.2 dBi | ¥120–180 | extremely small and light (~2 g) |
+| Maple Leaf Mini / Sandwich | cloverleaf | 2–3 dBi | ¥60–100 | domestic (CN), cheap and good |
+| VAS Mad Mushroom / Bluebeam Ultra | skew-planar | ~1.6 dBi | ~$25 | long-established brand, good axial ratio |
+| Realacc Pagoda | pagoda | ~2 dBi | ¥40–80 | DIY-friendly; ⚠️ Oscar measured poor penetration — "it drops out once you fly behind" |
+| Emax / BetaFPV stock | mixed | 1–2 dBi | ¥30–60 | good enough for a beginner |
+
+### 4. ⚠️ Selection criteria (more important than looking at gain)
+
+**① ⭐ Axial ratio is the core metric of a CP antenna**
+
+```
+< 1.5  excellent  |  > 2  polarization purity clearly degrades
+a high nominal gain with a bad axial ratio is worthless
+```
+
+**② Cloverleaf (3-lobe) suits the airborne transmitter**
+
+**Skew-planar wheel (4-lobe)** is better for ground reception
+— per Oscar: a cloverleaf's cross-polar rejection is not consistent, so use skew-planar for RX
+
+**③ Stubby versions are durable but give up a little gain (~1 dBi); long versions gain a little but snap off easily**
+
+**④ Keep the two supports at least 3 cm apart to avoid mutual coupling**
+
+
+
+## Dual pigtail antenna
 
 ![](2026-10-02-17-04-49.png)
 
@@ -32,6 +89,7 @@ type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenn
 * 另一端连接着天线本体（如棒状胶棒、蘑菇头、棒状全向天线等）。
 
 ### 为什么说“用的是最普通的猪尾天线”？
+
 这句话通常带有一定的**调侃、无奈或“凑合着用”**的意味，具体含义如下：
 
 1. **结构廉价且常见：** 
