@@ -53,6 +53,9 @@ BAND · CHANNEL · SCAN · VIDEO (AUTO/NTSC/PAL) · CALIBRATE (QUICK/FULL) · OU
 | NORMAL | 13.2 MHz |
 | WIDE | 16.3 MHz |
 
+
+https://github.com/Twotoz/C5VRX
+
 ## 2x RX5808 
 
 
