@@ -35,6 +35,12 @@
 - [[NTSC-dat]] - [[PAL-dat]] - [[seCAM-dat]] - [[video-analog-dat]] - [[DVR-dat]]
 
 
+
+## apps 
+
+- [[video-analog-switcher-dat]] - [[video-analog-dat]]
+
+
 ## 1.2ghz 
 
 - [[VTX-analog-dat]] - [[VRX-analog-dat]]
