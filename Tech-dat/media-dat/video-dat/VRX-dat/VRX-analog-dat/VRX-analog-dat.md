@@ -5,6 +5,10 @@
 
 - [[VRX-analog-dat]] - [[VRX-dat]] - [[5.8Ghz-dat]] - [[RTC6705-dat]] - [[RX5808-dat]]
 
+
+- [[RX5808-dat]] - [[5.8Ghz-dat]] - [[RTC6715-dat]] == [[VRX-analog-dat]] - [[RTC6705-dat]] == [[VTX-analog-dat]] - [[video-analog-dat]]
+
+
 - MM238RW
 - [[RX5808-dat]]
 - RX3364
@@ -38,5 +42,11 @@
 ## RX3364pro
 
 ![](2026-10-28-01-04-11.png)
+
+## receiver 
+
+![](2026-10-28-01-16-51.png)
+
+
 
 ## ref 

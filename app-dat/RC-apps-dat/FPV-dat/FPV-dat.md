@@ -319,7 +319,11 @@ In FPV drones, the **wheelbase** refers to the **diagonal distance between the c
 
 
 
-## FPV tech 
+## tech 
+
+
+- [[5.8Ghz-dat]] - [[FPV-dat]] - [[opensource-dat]] - [[frequency-dat]]
+
 
 ### Multi-Sensor Fusion
 - **IMU (Inertial Measurement Unit)**: Detects acceleration and angular velocity changes.  
