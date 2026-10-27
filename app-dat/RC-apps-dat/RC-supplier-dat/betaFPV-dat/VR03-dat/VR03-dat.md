@@ -27,6 +27,15 @@
 ![](2026-09-18-01-22-03.png)
 
 
+## no AV in and hack 
+
+source from https://hackaday.io/project/196570-adding-aux-video-input-to-betafpv-vr03-goggles
+
+![](2026-10-28-03-44-21.png)
+
+- [[TI-dat]] - [[DVR-dat]] - [[video-dat]] - [[tvp5150am1-dat]]
+
+
 ## ref 
 
 

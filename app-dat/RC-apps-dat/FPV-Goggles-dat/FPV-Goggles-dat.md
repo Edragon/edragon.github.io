@@ -6,7 +6,7 @@
 
 - [[FPV-goggles-dat]] - [[betaFPV-dat]] - [[FPV-goggles-digital-dat]] - [[VR04-dat]]
 
-
+- [[betaFPV-dat]] - [[VR03-dat]]
 
 - [[VTX-dat]] - [[VRX-dat]] - [[video-dat]]
 
@@ -29,6 +29,10 @@
 
 
 - [[FPV-goggles-alternatives-dat]]
+
+
+
+
 
 ## HDMI IN 
 

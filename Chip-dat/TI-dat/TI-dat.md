@@ -1,7 +1,7 @@
 
 # TI-dat.md
 
-
+- [[TI-dat]] - [[DVR-dat]] - [[video-dat]] - [[tvp5150am1-dat]]
 
 - [[SNx5LVDSxx-dat]] - [[LVDS-dat]] - [[TI-dat]] - [[TI-interface-dat]] - [[differential-line-receiver-dat]]
 
