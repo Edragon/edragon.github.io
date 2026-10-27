@@ -34,6 +34,20 @@
 
 ## Demo Code and Video
 
+### USB 
+
+通用串行总线设备
+
+USB JTAG/serial debug unit
+
+端口(COM和 LPT)
+
+USB 串行设备(COM78)
+
+
+
+
+
 ## ref 
 
 - [[NWI1255]] - [[NWI1254]]

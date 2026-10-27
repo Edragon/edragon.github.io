@@ -128,7 +128,7 @@ common brand: [[Vishay-dat]]
 | AO3401A           | X1          | [[AOSMD-mosfet-dat]]    | -4A   | SOT23-3         | **P**   |         |
 | AO3402            | A29T        | [[AOSMD-mosfet-dat]]    | 3A    | SOT23-3         | N       |         |
 | AO3402            | A2TEA8 A2HV | [[AOSMD-mosfet-dat]]    | 4A    | SOT23-3         | N       | 30V     |
-
+| WST2339           | 2339        |                         | 7.1A  | SOT23-3         | P       | 20V     |
 
 - [[2N7002-dat]]
 
