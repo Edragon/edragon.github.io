@@ -26,6 +26,11 @@
 - [[5.8Ghz-dat]]
 
 
+
+## projects 
+
+- [[true-diversity-dat]] - [[antenna-diversity-dat]] - [[video-analog-dat]] - [[VRX-analog-dat]]
+
 ## 1.2ghz 
 
 - [[1.2Ghz-dat]] - [[rf-dat]] - [[antenna-yagi-dat]]

@@ -3,10 +3,24 @@
 # RX5808-dat
 
 
+- [[RX5880-dat]] ?? 
+
+
 - [[RX5808-dat]] - [[5.8Ghz-dat]] - [[RTC6715-dat]] == [[VRX-analog-dat]] - [[RTC6705-dat]] == [[VTX-analog-dat]] - [[video-analog-dat]]
 
 - [[LVGL-dat]]
 
+
+
+## note 
+
+📚 FPVGate HARDWARE_GUIDE.md 原文："CRITICAL: RX5808 modules ship in parallel mode and must be modified for SPI."
+
+⭐️⭐️ WREKD == 「Repurposed RX5808」—— 从全新 FPV 设备拆下来的原装模块 == $3.50 ≈ ¥25
+
+
+
+## info 
 
 The RX5808 is a compact 5.8 GHz analog wireless audio and video receiver module widely used in FPV (First Person View) drone setups, video goggles, and DIY electronics projects.
 

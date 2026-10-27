@@ -36,9 +36,60 @@
 
 
 
+
+
 ## apps 
 
 - [[video-analog-switcher-dat]] - [[video-analog-dat]]
+
+- [[true-diversity-dat]] - [[antenna-diversity-dat]]
+
+## solutions 
+
+RX5808【带音频】
+
+RX5808【不带音频】
+
+SK3500-SPI【3.3G/3100~3800MHz】
+
+RX3364-CPB【3.3G带RSS】
+
+3301Rx【3.1-3.7G带宽SPI模式】
+
+RX3364PRO【带RSSI/3.3GHz】
+
+VM1373R【1.2G/1.3G】
+
+RX3364【不带RSSI/3.3G】原装
+
+RX3364【不带RSSI/3.3G】低配
+
+SM1312T【1.2G/1.3G 800mW】发射模块
+
+RX1264【1.2G/1.3G】原版
+
+RX1264【1.2G/1.3G】低配
+
+VRX 9-CH【1.2G/1.3G】
+
+TX5823【5.8G/200mW 8CH】
+
+TX5813【5.8G 20mW 7CH】
+
+RX5808【带宽4.8G/6.0G】带音频
+
+RX5808【带宽4.8G/6.0G】不带音频
+
+TX5823S 【SPI模式】发射模块
+
+TX5823S 【开关控制】发射模块
+
+TX5813【SPI模式】发射模块
+
+TX5813【开关控制】发射模块
+
+VRX-75D 6.1G-7.2G带宽
+
 
 
 ## 1.2ghz 
