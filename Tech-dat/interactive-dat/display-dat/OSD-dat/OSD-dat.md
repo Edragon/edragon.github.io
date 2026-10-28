@@ -28,6 +28,11 @@
 
 
 
+
+## OSD offline menu 
+
+![](2026-10-29-04-10-14.png)
+
 ## system 
 
 - [[MSPOSD-dat]] - [[mavlink-dat]]

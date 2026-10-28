@@ -4,6 +4,12 @@
 
 - [[skyworks-dat]] - [[SI5342-dat]] - [[clock-dat]] - [[CLOCK-SYNTHESIZER-dat]]
 
+
+- [[skyworks-dat]] - [[wifi-adapter-dat]] - [[RTL8812AU-dat]] - [[SKY85601-dat]] - [[amplifier-dat]] - [[amplifier-5ghz-dat]]
+
+
+
+
 Si5345/44/42 Rev D Data Sheet SI5342
 
 10-Channel, Any-Frequency, Any-Output Jitter Attenuator/Clock Multiplier

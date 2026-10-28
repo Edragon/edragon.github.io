@@ -48,9 +48,25 @@ Q2. seee at - [[RTL8812AU-dat]] - [[WIN10-dat]] - [[USB-SDK-dat]]
 
 
 
+## build and running 
+
+![](2026-10-29-04-02-57.png)
+
+![](2026-10-29-04-03-43.png)
+
+- [[skyworks-dat]] - [[wifi-adapter-dat]] - [[RTL8812AU-dat]] - [[SKY85601-dat]]
+
+![](2026-10-29-04-04-05.png)
+
+![](2026-10-29-04-10-35.png)
+
+
+
 ## driver 
 
 - https://dl2.electrodragon.com
+
+
 
 ## ref 
 

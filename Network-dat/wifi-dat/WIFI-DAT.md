@@ -34,6 +34,11 @@
 
 ## tech 
 
+
+- [[amplifier-dat]] - [[amplifier-5ghz-dat]] - [[wifi-dat]]
+
+- [[antenna-MIMO-dat]] 
+
 - [[WIFI4-dat]] - [[WIFI5-dat]] - [[WIFI6-dat]] - [[WIFI-dat]]
 
 - [[WIFI4-dat]] - [[RT3072-dat]] 

@@ -5,6 +5,14 @@
 
 
 
+- [[antenna-MIMO-dat]] - [[RTL8814AU-dat]] - [[RTL8812AU-dat]] - [[openIPC-dat]] 
+
+4x4 MIMO（4天线）的网卡 == - [[RTL8814AU-dat]]
+
+2x2 MIMO（2天线）的网卡 == - [[RTL8812AU-dat]]
+
+
+
 == 1T1R // 2T2R
 
 
