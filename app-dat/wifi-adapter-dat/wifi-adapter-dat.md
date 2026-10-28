@@ -2,6 +2,28 @@
 # wifi-adapter-dat
 
 
+- [[openIPC-dat]] - [[PixelPilot-dat]]
+
+
+
+
+
+
+## driver 
+
+- [[driver-dat]] - [[RTL8812AU-dat]] - [[WIN10-dat]] - [[USB-SDK-dat]] - [[wifi-adapter-dat]]
+
+
+![](2026-10-29-01-53-43.png)
+
+
+## tech 
+
+- [[android-dat]] - [[USB-OTG-dat]] - [[pixelpilot-dat]]
+
+
+
+
 - [[wifi-adapter-dat]] - [[RTL8812-dat]] - [[installation-antenna-dat]]
 
 
@@ -11,6 +33,14 @@
 
 
 ## support USB tethering devices 
+
+
+
+- [[RTL8187-dat]] - [[realtek-dat]] - [[wifi-adapter-dat]] - [[RTL8812AU-dat]]
+
+
+
+- [[realtek-dat]] - [[ralink-dat]] - [[wifi-adapter-dat]]
 
 - [[ZTE-dat]] - [[USB-tethering-dat]] - [[USB-SDK-dat]] - [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
 

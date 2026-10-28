@@ -2,6 +2,14 @@
 
 # ralink-dat
 
+
+- [[RT2770F-dat]]
+
+- [[RT3072-dat]] - [[ralink-dat]] - [[wifi-adapter-dat]] - [[RT3070-dat]]
+
+
+- [[realtek-dat]] - [[ralink-dat]] - [[wifi-adapter-dat]]
+
 == 雷凌
 
 - [[ralink-dat]] - [[Atheros-dat]] - [[Broadcom-dat]] - [[mediatek-dat]] 

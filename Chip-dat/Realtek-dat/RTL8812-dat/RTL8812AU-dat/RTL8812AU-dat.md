@@ -5,7 +5,7 @@
 
 - [[RTL8812-dat]] - [[RTL8812AU-dat]] - [[realtek-dat]]
 
-
+- [[RTL8812AU-dat]] - [[WIN10-dat]] - [[USB-SDK-dat]] - [[wifi-adapter-dat]]
 
 
 ## driver installation on WIN 10 
@@ -27,6 +27,9 @@ Q2. seee at - [[RTL8812AU-dat]] - [[WIN10-dat]] - [[USB-SDK-dat]]
 
 ### Q3. Turn off the adapter's own power management
 
+
+- [[wifi-adapter-dat]]
+
 1. Device Manager → Network adapters → your adapter → right-click → Properties
 2. **Power Management** → untick **Allow the computer to turn off this device to save power**
 3. OK
@@ -44,6 +47,10 @@ Q2. seee at - [[RTL8812AU-dat]] - [[WIN10-dat]] - [[USB-SDK-dat]]
 > Once this driver is installed, the adapter performs about the same as the ~¥650 Taiwan-made RTL8812AU kit.
 
 
+
+## driver 
+
+- https://dl2.electrodragon.com
 
 ## ref 
 

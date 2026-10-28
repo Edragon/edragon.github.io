@@ -19,6 +19,15 @@
 
 
 
+## tech 
+
+- [[WIFI4-dat]] - [[WIFI5-dat]] - [[WIFI6-dat]] - [[WIFI-dat]]
+
+- [[WIFI4-dat]] - [[RT3072-dat]] 
+
+- [[WIFI-dat]] - [[ESP32-C5-dat]] - [[ESP32-dat]]
+
+
 
 
 ## inteface 

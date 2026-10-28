@@ -11,6 +11,10 @@
 
 ## android hardware apps 
 
+
+
+- [[android-dat]] - [[USB-OTG-dat]] - [[pixelpilot-dat]]
+
 - [[mqtt-dat]] - [[bluetooth-dat]]
 
 

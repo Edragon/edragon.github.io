@@ -1,7 +1,10 @@
 
 # Realtek-dat
 
+- [[realtek-dat]] - [[ralink-dat]] - [[wifi-adapter-dat]]
 
+
+- [[RTL8187-dat]]
 
 ## chip info 
 
@@ -125,7 +128,7 @@ https://github.com/Edragon/RTL8710
 
 ## ref 
 
-- [[realtek]]
+- [[realtek]] - [[RTL8187]]
 
 - [[802.11-dat]] - [[WIFI-DAT]]
 

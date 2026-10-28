@@ -1,9 +1,20 @@
 
 # USB-OTG-dat
 
+
+
+
+
+## apps 
+
+
+- [[android-dat]] - [[USB-OTG-dat]] - [[pixelpilot-dat]]
+
+## chip 
+
 - [[ESP32-S3-dat]]
 
-- [[ESP32-C3-USB-dat/ESP32-USB-dat]] - [[ESP32-USB-dat]]
+- [[ESP32-USB-dat]] - [[ESP32-USB-dat]]
 
 - [[STM32-USB-dat]]
 
