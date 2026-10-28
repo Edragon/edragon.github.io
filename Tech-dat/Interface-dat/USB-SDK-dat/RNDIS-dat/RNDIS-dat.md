@@ -2,6 +2,20 @@
 
 # RNDIS-dat
 
+- [[hi3518-dat]] - [[RNDIS-dat]] - [[USB-UVC-camera-dat]] - [[UVC-dat]]
+
+RNDIS 全称为 Remote Network Driver Interface Specification，即远程网络驱动接口规范，是在 USB 设备上跑 TCP/IP 一种规范。
+
+
+
+- [[RNDIS-dat]] - [[USB-UVC-camera-dat]] - [[UVC-dat]]
+
+Remote NDIS
+
+
+- [[RNDIS-dat]] - [[USB-SDK-dat]] - [[WIFI-dat]]
+
+
 - [[RNDIS-dat]] - [[USB-SDK-dat]] - [[network-dat]]
 
 - [[chinamobile-dat]] - [[ML307C-dat]] - [[M2M-dat]] - [[LTE-dat]]

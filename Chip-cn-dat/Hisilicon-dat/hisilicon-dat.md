@@ -15,9 +15,14 @@
 
 
 
-## camera-IP 
+## apps 
 
-- [[HI3516-dat]] - [[HiSilicon-dat]] 
+- [[camera-IP-dat]] - [[wifi-adapter-dat]] - [[WIFI-dat]]
+
+
+## chip 
+
+- [[HI3516-dat]] - [[HiSilicon-dat]] - [[HI3518-dat]]
 
 
 

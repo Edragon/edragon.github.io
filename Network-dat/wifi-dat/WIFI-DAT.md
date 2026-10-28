@@ -62,6 +62,22 @@
 - [[realtek-dat]] - [[WIFI-dat]] - [[RTL8723-dat]]
 
 
+
+## apps 
+
+- [[camera-IP-dat]] - [[wifi-adapter-dat]] - [[WIFI-dat]]
+
+- [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
+
+- [[Sigmastar-dat]] - [[SSC338-dat]] - [[openIPC-dat]] - [[wifi-dat]]
+
+- [[wifi-router-dat]] - [[wifi-dongle-dat]] - [[wifi-dat]] 
+
+- [[RNDIS-dat]] - [[USB-SDK-dat]] - [[WIFI-dat]]
+
+
+
+
 ## cheatsheet 
 
 - AP = access point - Access point (ap) is the thing you connect to, e.g. wireless router. 
@@ -125,14 +141,6 @@ Wireless-N USB 2.0
 Wireless-N USB 2.0 Adapter allows you to connect your laptop or desktop to any Wireless-N networks in your home or office. The Wireless-N (802.11n) USB 2.0 Adapter is great for those who want to upgrade older computers to be able to access the internet over a Wireless-N network.
 
 At 5 times faster than traditional Wireless-G (802.11b) networks, Wireless-N networks allow for high speed data transfers, online gaming, and lightning fast downloads. The Wireless-N USB 2.0 Adapter gives you access to all the high-speed features of Wireless-N networks on older and newer computers. Its simple and easy setup means you'll be surfing the internet, downloading movies, and e-mail in no time.
-
-## apps 
-
-- [[WIFI-USB-pocket-dat]] - [[wifi-dat]] - [[wifi-dongle-dat]]
-
-- [[Sigmastar-dat]] - [[SSC338-dat]] - [[openIPC-dat]] - [[wifi-dat]]
-
-- [[wifi-router-dat]] - [[wifi-dongle-dat]] - [[wifi-dat]] 
 
 
 
