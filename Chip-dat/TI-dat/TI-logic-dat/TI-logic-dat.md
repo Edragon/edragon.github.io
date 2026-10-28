@@ -3,6 +3,10 @@
 
 
 
+
+- [[SNJ54LS390J-dat]] - [[counter-dat]] - [[TI-dat]] - [[logic-dat]]
+
+
 - [[ti-logic-dat]] - [[logic-level-shifter-dat]] - [[sn74lvc1t45-dat]]
 
 

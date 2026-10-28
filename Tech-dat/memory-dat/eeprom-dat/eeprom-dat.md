@@ -10,6 +10,10 @@ arduino library == http://playground.arduino.cc/Main/LibraryForI2CEEPROM
 
 - [[I2C-dat]]
 
+
+
+
+
 ## boards 
 
 - [[MOT1005-dat]]
@@ -44,6 +48,9 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 
 `24AA04`/24LC04B/24FC04 - 4K I2C Serial EEPROM
 
+
+
+
 ## unsort 
 
 - [[Xilinx-dat]] - XCF16PVOG48C == [[FPGA-dat]] - Configuration Memory Flash 16Mb PROM (ST Micro), Lead Free
@@ -52,6 +59,10 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 Original and genuine `AT24C02C` -SSHM-T surface mount memory chip (EEPROM, serial port, SOIC-8)
 
 - [[ST-dat]] - [[M24C08-dat]] == M24C08-WMN6TP == EEPROM Memory IC 8Kbit I2C 400 kHz 900 ns 8-SOIC
+
+
+The `MD2764A` is an advanced 64K-bit (8K x 8) ultraviolet (UV) erasable programmable read-only memory (EPROM) manufactured by Intel Corporation.
+
 
 
 ## ref 
