@@ -25,7 +25,9 @@ common brand: 	Infineon
 BC847T: NXP/Philips NPN general-purpose transistor (SOT-416 package).
 
 
+## TO-126 == Package: TO-126 (TO-225AA)
 
+General Purpose and Low VCE(sat) Transistors | BD137
 
 
 ## brand 
