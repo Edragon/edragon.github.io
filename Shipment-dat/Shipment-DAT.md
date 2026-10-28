@@ -1,6 +1,20 @@
 
 # Shipment-dat 
 
+
+
+- [[shipment]]
+
+- [[PFCVAT-dat]] - [[EUEX-V-dat]]
+
+
+
+
+## country 
+
+destination 
+
+
 - [[japan-dat]] - [[brazil-dat]]
 
 - [[india-dat]] [[israel-dat]] - [[US-dat]] - [[Mexico-dat]] - [[south-africa-dat]] - [[Philippines-dat]]
@@ -12,7 +26,7 @@
 - how to use [[internal-tracking-dat]] internal tracking number
 
 
-
+- [[customs-dat]]
 
 ## Important Note 
 
