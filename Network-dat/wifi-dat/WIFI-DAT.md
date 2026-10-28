@@ -19,13 +19,6 @@
 
 
 
-## tech 
-
-- [[WIFI4-dat]] - [[WIFI5-dat]] - [[WIFI6-dat]] - [[WIFI-dat]]
-
-- [[WIFI4-dat]] - [[RT3072-dat]] 
-
-- [[WIFI-dat]] - [[ESP32-C5-dat]] - [[ESP32-dat]]
 
 
 
@@ -35,8 +28,19 @@
 - [[wifi-USB-dat]] - [[RTL8812-dat]]
 - [[Wifi-SDIO-dat]] - [[RTL8822-dat]] (partitial)
 
+
+
+
+
 ## tech 
 
+- [[WIFI4-dat]] - [[WIFI5-dat]] - [[WIFI6-dat]] - [[WIFI-dat]]
+
+- [[WIFI4-dat]] - [[RT3072-dat]] 
+
+- [[WIFI-dat]] - [[ESP32-C5-dat]] - [[ESP32-dat]]
+
+- [[wifi-wfb-ng-dat]]
 
 - [[wifi-dat]] - [[wifi-WFB-NG-dat]]
 
