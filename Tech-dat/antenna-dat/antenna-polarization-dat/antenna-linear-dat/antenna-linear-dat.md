@@ -1,6 +1,7 @@
 
 # antenna-linear-dat
 
+omni
 
 
 - [[antenna-linear-dat]] - [[1.2ghz-dat]]
@@ -19,7 +20,7 @@
 type of antennas by shape == [[antenna-type-dat]] - [[antenna-T-dat]] - [[antenna-linear-dat]] - [[antenna-spring-dat]] 
 
 
-
+- [[antenna-linear-2.4ghz-dat]]
 
 
 
