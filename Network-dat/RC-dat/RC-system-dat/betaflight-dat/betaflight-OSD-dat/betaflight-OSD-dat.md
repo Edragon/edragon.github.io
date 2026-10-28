@@ -11,6 +11,28 @@
 
 
 
+
+
+## common error == can not drag elements 
+
+📚 Betaflight Configurator GitHub Issue #5596「OSD elements can't be moved in Windows app」 原文：
+“With dragDropEnabled left at its default (true), the webview on Windows and macOS doesn't receive HTML5 drag events, so dragging OSD elements shows the 'not allowed' cursor.”
+
+修复 PR #5402 已把 src-tauri/tauri.conf.json 的 dragDropEnabled 改成 false（2026-08 合并）
+
+如果你用的是【Windows 独立安装版】
+        ↓
+⭐⭐ 拖不动 = 已知 bug，不是你设置错了
+        ↓
+✅ 立刻可用：改用网页版 → https://app.betaflight.com
+   （Reddit 原话：standalone app for windows is bugged,
+     when i use the web app, it lets me move the OSD elements）
+✅ 或升级到含 PR #5402 修复的版本
+
+
+
+
+
 ## enter OSD 
 
 - 将油门推到最上方正中间（Throttle Center/High），

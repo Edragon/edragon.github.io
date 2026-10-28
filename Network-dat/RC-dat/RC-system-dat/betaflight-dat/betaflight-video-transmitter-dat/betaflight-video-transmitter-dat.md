@@ -7,6 +7,28 @@
 - [[betaflight-OSD-dat]] - [[betaflight-video-transmitter-dat]] - [[betaflight-dat]]
 
 
+
+
+## find VTX channel 
+
+![](2026-10-28-20-48-51.png)
+
+## preferences 
+
+- Device ready == True
+- VTX Type == SmartAudio 2.1 unlocked
+- Band == BOSCAM_E
+- Channel == 2
+- Frequency == 5685
+- Power == 400
+- Pit Mode == No
+- Pit Mode frequency == 0
+- Low Power On == **Disarm**
+
+
+## setup 
+
+
 ⭐️ Raceband**** + • Ch2: ⭐️ 5695
 
 
