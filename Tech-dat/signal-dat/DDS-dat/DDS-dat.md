@@ -1,5 +1,10 @@
 # DDS-dat
 
+
+
+- [[audio-dat]] - [[MIDI-dat]] - [[SYNTHESIZER-dat]] - [[DDS-dat]]
+
+
 - [[filter-dat]] - [[DAC-dat]] 
 
 

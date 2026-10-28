@@ -2,6 +2,12 @@
 
 # diode-ideal-dat
 
+
+
+- [[linear-technology-dat]] - [[diode-ideal-dat]] - [[LTC4353-dat]]
+
+
+
 - [[diode-dat]] - [[diode-ideal-dat]] - [[TI-dat]] 
 
 LM66200 1.6 V to 5 V, 2.5-A Dual Ideal Diode With Automatic Switchover

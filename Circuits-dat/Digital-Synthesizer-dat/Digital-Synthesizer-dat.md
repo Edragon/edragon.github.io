@@ -2,6 +2,12 @@
 # Digital-Synthesizer-dat
 
 
+
+
+- [[audio-dat]] - [[MIDI-dat]] - [[SYNTHESIZER-dat]] - [[DDS-dat]] - [[Digital-Synthesizer-dat]]
+
+
+
 - [[Digital-Synthesizer-dat]] - [[digital-dat]]
 
 

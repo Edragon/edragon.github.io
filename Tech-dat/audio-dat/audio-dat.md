@@ -2,6 +2,12 @@
 # audio-dat
 
 
+
+
+- [[audio-dat]] - [[MIDI-dat]] - [[SYNTHESIZER-dat]]
+
+
+
 - [[sensor-microphone-dat]] - [[speaker-dat]] - [[buzzer-dat]]- [[I2S-dat]] - [[audio-dat]]
 
 
