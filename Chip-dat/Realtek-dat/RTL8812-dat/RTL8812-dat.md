@@ -6,6 +6,7 @@
 
 
 
+- [[RTL8812-dat]] - [[RTL8812AU-dat]] - [[realtek-dat]]
 
 
 - [[wifi-adapter-dat]] - [[RTL8812-dat]] - [[installation-antenna-dat]]

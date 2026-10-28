@@ -53,6 +53,9 @@ RTL8733BU：采用 USB 2.0 接口，常被做成外置 USB 无线网卡或模块
 ## chips 
 
 
+- [[RTL8812-dat]] - [[RTL8812AU-dat]] - [[realtek-dat]]
+
+
 - [[RTL9210-dat]] - [[disk-driver-dat]]
 
 The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very high-capacity NVMe drive inside it, ensure you are using a high-quality cable, as some SSDs can "drop out" if they don't get enough power from a weak USB port.
