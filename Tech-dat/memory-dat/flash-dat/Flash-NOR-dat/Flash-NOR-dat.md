@@ -13,8 +13,9 @@
 
 
 
+
 - [[flash-nor-dat]] - [[XMC-dat]] - [[XM25QH128C-dat]] - [[hi3516-dat]] == 
-128Mbit
+128Mbit == 16MB 
 
 
 

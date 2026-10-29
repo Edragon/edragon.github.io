@@ -258,6 +258,8 @@ The RTL8814AU is a 4x4 MIMO (4-antenna) adapter, so its power draw and heat are 
 ## ref 
 
 
+https://github.com/OpenIPC/wiki/tree/master
+
 https://github.com/OpenIPC/hardware
 
 - [[video-digital]] - [[openIPC]] - [[video]]
