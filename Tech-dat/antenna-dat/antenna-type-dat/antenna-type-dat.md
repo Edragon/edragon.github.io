@@ -2,6 +2,16 @@
 # antenna-type-dat
 
 
+
+- [[antenna-app-dat]] - [[antenna-type-dat]]
+
+
+- [[antenna-type-dat]] - [[antenna-omni-linear-dat]] - [[antenna-omni-circular-dat]] - [[antenna-directional-circular-dat]] - [[antenna-direction-linear-dat]]
+
+
+
+
+
 by - [[antenna-polarization-dat]] - [[antenna-radiation-dat]] - [[antenna-type-dat]]
 
 
