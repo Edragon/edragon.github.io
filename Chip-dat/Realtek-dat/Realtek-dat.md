@@ -16,6 +16,12 @@
 
 
 
+
+## app 
+
+- [[Wifi-SDIO-dat]] - [[wifi-adapter-dat]] - [[openIPC-chip-dat]] - [[realtek-dat]] - [[ralink-dat]]
+
+
 ## chip info 
 
 

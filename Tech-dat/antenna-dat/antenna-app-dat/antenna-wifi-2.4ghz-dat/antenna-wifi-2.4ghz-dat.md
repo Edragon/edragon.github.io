@@ -1,6 +1,6 @@
 
 
-# antenna-wifi-dat
+# antenna-wifi-2.4ghz-dat
 
 - [[antenna-dat]] - [[wifi-dat]] - [[antenna-wifi-dat]]
 

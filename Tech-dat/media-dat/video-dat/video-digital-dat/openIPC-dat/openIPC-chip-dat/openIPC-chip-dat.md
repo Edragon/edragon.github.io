@@ -5,6 +5,7 @@
 
 - [[openIPC-chip-dat]] - [[VTX-openIPC-dat]]
 
+- [[Wifi-SDIO-dat]] - [[wifi-adapter-dat]] - [[openIPC-chip-dat]] - [[realtek-dat]] - [[ralink-dat]]
 
 
 

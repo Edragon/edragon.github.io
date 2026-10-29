@@ -11,21 +11,20 @@
 
 - [[usb-wifi-dat]]
 
-- [[antenna-wifi-dat]] - [[antenna-dat]]
+- [[antenna-wifi-2.4ghz-dat]] - [[antenna-dat]]
 
 - [[WIFI-dat]] - [[ELRS-dat]] - [[WIFI-code-dat]] - [[ELRS-code-dat]]
 
 - [[wifi-dat]] - [[wifi-sense-dat]]
 
 
-
-
-
+- [[Wifi-SDIO-dat]] - [[wifi-adapter-dat]] - [[openIPC-chip-dat]] - [[realtek-dat]] - [[ralink-dat]]
 
 
 ## inteface 
 
 - [[wifi-USB-dat]] - [[RTL8812-dat]]
+
 - [[Wifi-SDIO-dat]] - [[RTL8822-dat]] (partitial)
 
 
