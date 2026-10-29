@@ -1,5 +1,5 @@
 
-# antenna-ceramic-dat
+# antenna-ceramic-chip-dat
 
 normally gain == 4DBI 
 
