@@ -26,12 +26,12 @@
 
 - [[VRX-openIPC-bonnet-dat]]
 
+
+
+
 ## SCH 
 
 
-build 2 
-
-- [[RTL8812-dat]] - [[VRX-openIPC-bonnet-dat]]
 
 build 1 
 
@@ -45,11 +45,6 @@ to [[RTL8812-dat]] == - [[TPS5450-dat]] 5V
 
 
 
-
-
-## EU 
-
-![](2026-10-02-02-20-56.png)
 
 
 ## RTL8812AU 
@@ -79,26 +74,7 @@ rtl8812au > rtl8812eu
 - [[wifi-dat]]
 
 
-## build 
 
-
-
-build 2 
-
-![](2026-10-02-03-10-46.png)
-
-![](2026-10-02-03-11-45.png)
-
-
-
-
-build 1 
-
-![](2026-10-02-02-25-57.png)
-
-![](2026-10-02-02-26-06.png)
-
-https://oshwhub.com/cheng_jun/8812eu-25-5
 
 ## ref 
 
