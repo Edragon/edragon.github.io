@@ -22,7 +22,7 @@
 
 - [[robot-dat]] - [[robotic-dat]]
 
-- [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]] - [[antenna-polarization-dat]] - [[installation-antenna-dat]]
+- [[antenna-dat]] - [[antenna-active-dat]] - [[antenna-passive-dat]] - [[antenna-wifi-dat]] - [[antenna-polarization-dat]] - [[installation-antenna-dat]] - [[antenna-tech-dat]] - [[antenna-linear-dat]] - [[antenna-RHCP-dat]]
 
 - [[fab-mechanics-dat]] - [[fab-materials-dat]] - [[alu-extrusion-dat]]
 

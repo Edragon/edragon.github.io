@@ -11,23 +11,13 @@
 
 ## category 
 
-- [[board-dat]] - [[board-series-dat]] - [[board-new-dat]] - [[board-3rd-dat]]
+- [[board-dat]] 
 
-- [[chip-dat]] - [[chip-cn-dat]] - [[74xx-dat]] - [[ESP32-S3-dat]]
+- [[chip-dat]] - [[chip-cn-dat]] 
 
-- [[Tech-DAT]] - [[display-dat]] - [[interactive-dat]] - [[circuits-dat]] - [[MCU-dat]] - [[memory-dat]] - [[SBC-dat]] - [[signal-dat]] - [[interface-dat]]
+- [[Tech-DAT]] 
 
-- [[sensor-dat]] - [[sensor-touch-dat]] - [[sensor-temperature-dat]] - [[sensor-temp-hum-dat]] - [[sensor-bio-dat]] - [[sensor-soil-dat]] - [[sensor-motion-dat]] - [[sensor-camera-dat]]
-
-- [[acturator-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[SCR-dat]] - [[thyristor-dat]] - [[buzzer-dat]] - [[relay-dat]] 
-
-- [[power-dat]] - [[ldo-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[acdc-dat]] - [[ac-mains-dat]]
-
-- [[battery-dat]] - [[battery-BMS-dat]] - [[battery-charger-dat]] - [[battery-3s-dat]] - [[battery-pack-dat]] 
-
-- [[network-dat]] - [[RC-dat]] - [[MQTT-dat]] - [[bluetooth-dat]] - [[wifi-dat]] - [[RF-dat]] - [[M2M-dat]] - [[lora-dat]] - [[location-dat]] - [[LTE-dat]] - [[ethernet-dat]]
-
-- [[app-dat]] - [[RC-apps-dat]] - [[FPV-dat]] - [[rover-dat]] - [[robot-dat]]
+- [[app-dat]] 
 
 - [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[PCB-design-dat]]
 

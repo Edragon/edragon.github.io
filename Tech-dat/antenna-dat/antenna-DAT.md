@@ -406,19 +406,6 @@ copper tube oscillator
 ![](2026-04-05-03-01-08.png)
 
 
-## antenna examples == high gain 
-
-see more high gain antennna at [[antenna-wifi-dat]]
-
-- [[antenna-FPC-dat]] - 12DBI 
-
-![](2026-04-06-13-02-10.png)
-
-![](2026-04-06-13-05-01.png)
-
-- [[antenna-Whip-dat]] - 12DBI 
-
-![](2026-04-06-13-09-04.png)
 
 
 
