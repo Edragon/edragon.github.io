@@ -11,6 +11,9 @@
 - [[VTX-openIPC-dat]]
 
 
+- [[RTL8812EU-dat]]
+
+
 
 
 ## build 

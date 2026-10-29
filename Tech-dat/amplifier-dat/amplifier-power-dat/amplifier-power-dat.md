@@ -3,6 +3,16 @@
 
 # amplifier-power-dat
 
+
+
+
+- [[amplifier-power-dat]] - [[FEM-dat]] - [[RTL8812-dat]]
+
+
+![](2026-10-29-18-32-53.png)
+
+
+
 HMC441LP3 / 441LP3E == GaAs pHEMT MMIC MEDIUM POWER AMPLIFIER, 6.5 - 13.5 GHz
 
 

@@ -2,6 +2,13 @@
 # RTL8188-dat
 
 
+
+RTL8188ETV
+RTL8188CUS
+
+
+
+
 - [[USB-Wifi-dat]]
 
 - [[MPC1070-dat]]

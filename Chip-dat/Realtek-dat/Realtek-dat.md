@@ -6,7 +6,15 @@
 
 - [[RTL8187-dat]]
 
+
+- [[realtek-dat]] - [[RTL8188-dat]]
+
 - [[RTL8814-dat]] - [[RTL8814AU-dat]] - [[realtek-dat]] 
+
+
+- [[RTL8852-dat]] 无线网卡 双频5G 内置千兆 以太网 蓝牙5.2 RTL8188EE M.2 PCIe接口WIFI模块
+
+
 
 ## chip info 
 
@@ -58,7 +66,7 @@ RTL8733BU：采用 USB 2.0 接口，常被做成外置 USB 无线网卡或模块
 ## chips 
 
 
-- [[RTL8812-dat]] - [[RTL8812AU-dat]] - [[realtek-dat]]
+- [[RTL8812-dat]] - [[RTL8812AU-dat]] - [[realtek-dat]] - [[RTL8812EU-dat]]
 
 
 - [[RTL9210-dat]] - [[disk-driver-dat]]

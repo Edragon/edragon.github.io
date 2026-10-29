@@ -2,6 +2,10 @@
 
 # VRX-openIPC-dat
 
+
+
+- [[RTL8812AU-dat]] - [[RTL8812AU]]
+
 - [[VRX-dat]] - [[VRX-openIPC-dat]] - [[openIPC-dat]]
 
 - [[wifi-WFB-ng-dat]]

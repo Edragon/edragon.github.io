@@ -3,6 +3,14 @@
 
 # RTL8812-dat
 
+RTL8812CU
+RTL8812EU
+RTL8812AU 
+RTL8812EUA 
+
+- [[amplifier-power-dat]] - [[FEM-dat]] - [[RTL8812-dat]]
+
+
 
 - [[wifi-adapter-dat]] - [[RTL8812eu-dat]] - [[RTL8812-dat]] - [[RTL8812AU-dat]]
 
