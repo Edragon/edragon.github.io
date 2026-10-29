@@ -16,13 +16,6 @@
 
 
 
-## build 
-
-build 1 
-
-- [[xiongmai-dat]] - [[IVG-G2S-dat]] - [[chip-cn-dat]] - [[hi3516-dat]] - [[IMX307-dat]]
-
-
 ## tech 
 
 - [[MIPI-dat]]
@@ -115,37 +108,6 @@ HI3516CRNCV608
 ![](2026-10-01-16-40-43.png)
 
 
-## pinout 
-
-![](2026-10-01-16-42-04.png)
-
-interface - [[wifi-sdio-dat]] - [[UVC-dat]] - [[wifi-USB-dat]]
-
-![](2026-10-01-16-42-34.png)
-
-IRCUT - J2接通用IRCUT.板子里面有测试脚本；
-
-![](2026-10-01-16-43-32.png)
-
-J3是音频输入.接MIC:
-
-![](2026-10-01-16-43-56.png)
-
-J5是音频输出，接喇叭；
-
-![](2026-10-01-16-44-18.png)
-
-J6接RS485、SPI、ADC、GPIO等，部分复用；
-
-![](2026-10-01-16-44-40.png)
-
-J7 DC12V电压输入、RJ45S接口、系统复位、网络指示灯； - [[ethernet-dat]]
-
-![](2026-10-01-16-44-58.png)
-
-J8 系统调试接口
-
-![](2026-10-01-16-45-13.png)
 
 
 
@@ -178,14 +140,58 @@ AI智能部分、人脸、人形、车辆、宠物、包裹等检测
 ToolPlatform-CAM-5.6.84-win32-x86_64。
 
 
+
 ## build 
+
+### build 1 
+
+- [[xiongmai-dat]] - [[IVG-G2S-dat]] - [[chip-cn-dat]] - [[hi3516-dat]] - [[IMX307-dat]]
+
+
+
+### pinout 
+
+![](2026-10-01-16-42-04.png)
+
+interface - [[wifi-sdio-dat]] - [[UVC-dat]] - [[wifi-USB-dat]]
+
+![](2026-10-01-16-42-34.png)
+
+IRCUT - J2接通用IRCUT.板子里面有测试脚本；
+
+![](2026-10-01-16-43-32.png)
+
+J3是音频输入.接MIC:
+
+![](2026-10-01-16-43-56.png)
+
+J5是音频输出，接喇叭；
+
+![](2026-10-01-16-44-18.png)
+
+J6接RS485、SPI、ADC、GPIO等，部分复用；
+
+![](2026-10-01-16-44-40.png)
+
+J7 DC12V电压输入、RJ45S接口、系统复位、网络指示灯； - [[ethernet-dat]]
+
+![](2026-10-01-16-44-58.png)
+
+J8 系统调试接口
+
+![](2026-10-01-16-45-13.png)
+
+other type pinout interface 
+
+
+
 
 ### build 2 
 
 == - [[IVG-G2S-dat]]
 
 
-### build 1
+### build 3
 
 - [[CONN-FPC-dat]] 
 

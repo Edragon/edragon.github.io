@@ -55,5 +55,23 @@ BFBAD - [[bfsemi-dat]] - [[dcdc-dat]]
 
 
 
+## interface 
+
+J1
+1. DC12V (5V-13.6V) 电源
+2. Gnd信号地
+3. ETH_LED网络指示灯
+4. IR软光敏红外
+5. Eth_TX -
+6. Eth_TX +
+7. Eth_RX -
+8. Eth_RX+
+9. WL软光敏白光
+10. CDS_IN硬光敏红外
+
+
+
+![](2026-10-29-21-56-08.png)
+
 
 ## ref 
