@@ -8,7 +8,7 @@
 - [[RC-protocols-dat]] - [[ELRS-dat]] - [[FRSKY-dat]] - [[FLYSKY-dat]] - [[WFLY-dat]]
 
 
-- [[ELRS-dat]] 
+
 
 - [[FRSKY-dat]] 
 
@@ -23,6 +23,57 @@
 - [[MAVlink-dat]]
 
 
+
+## new advanced compare 
+
+- [[ELRS-dat]] - [[MLRS-dat]]
+
+
+mLRS vs. ELRS 
+
+Both **mLRS** and **ELRS (ExpressLRS)** are open-source radio link systems utilizing Semtech LoRa spread-spectrum technology, but they serve fundamentally different design priorities and use cases.
+
+## 1. Core Design Priorities & Latency
+* **ELRS (ExpressLRS)**: 
+  * **Priority**: Ultra-low latency and high refresh rates, engineered to provide a wired-like, instant stick feel.
+  * **Architecture**: RC control channels are always the absolute top priority. While it supports telemetry (including MAVLink forwarding in recent versions), bandwidth is biased toward keeping stick latency minimal.
+* **mLRS (MAVLink Long Range System)**:
+  * **Priority**: High-reliability, robust bidirectional telemetry bandwidth tailored specifically for full-featured autopilots like ArduPilot and PX4.
+  * **Architecture**: RC control and telemetry share equal priority. It does not chase hundreds of hertz of stick refresh rate (typically operating around 19Hz to 50Hz), but it delivers a reliable, high-throughput bidirectional data pipe.
+
+## 2. Telemetry and Data Bandwidth
+* **ELRS**: Adequate for basic telemetry (battery voltage, GPS coordinates, RSSI), but its telemetry packet rate and buffer sizes are constrained to protect the primary RC link.
+* **mLRS**: Built natively around the **MAVLink protocol**. It handles heavy bidirectional telemetry streams efficiently, making it ideal for full ground station interaction (e.g., QGroundControl, Mission Planner, real-time parameter tuning, and Yaapu scripts).
+
+## 3. Ideal Use Cases
+* **ELRS is best for**:
+  * FPV quadcopters (cinewhoops, freestyles, racers) requiring millisecond-level reaction times.
+  * Line-of-sight (LOS) or medium-range flights where stick responsiveness is paramount.
+* **mLRS is best for**:
+  * Long-range fixed-wing aircraft, VTOLs, and autonomous rovers/robots.
+  * Beyond Visual Line of Sight (BVLOS) missions where the operator relies heavily on automated waypoint navigation, live ground station monitoring, and heavy data exchanges rather than aggressive manual acrobatics.
+
+## 4. Ecosystem & Hardware
+* **ELRS**: A massive, mainstream ecosystem supported by numerous hardware manufacturers (RadioMaster, Happymodel, BETAFPV) with low-cost components and seamless Wi-Fi firmware updates.
+* **mLRS**: A niche, highly capable open-source project (led by developer OlliW). Hardware options are growing (such as dedicated 1W modules from Matek), but it caters primarily to technical enthusiasts, developers, and advanced autonomous robotics builders.
+
+
+
+## Quick Comparison Summary
+
+| Feature                 | ELRS 915MHz 1W                                   | mLRS 915MHz 1W                                             |
+| :---------------------- | :----------------------------------------------- | :--------------------------------------------------------- |
+| **Primary Focus**       | Extreme low-latency RC control                   | High-reliability bidirectional MAVLink telemetry & control |
+| **Refresh Rate**        | Extremely high (up to several hundred or 1000Hz) | Moderate (typically 19Hz – 50Hz)                           |
+| **Telemetry Bandwidth** | Limited / lightweight secondary channel          | Robust, high-throughput full-duplex pipe                   |
+| **Typical Platform**    | FPV drones, multirotors, freestyle quads         | Long-range fixed-wing, autonomous VTOLs, rovers            |
+| **Ecosystem Maturity**  | Mass-market industry standard                    | Advanced hobbyist / developer community                    |
+
+
+
+
+
+## legacy compare 
 ---
 
 核心对比

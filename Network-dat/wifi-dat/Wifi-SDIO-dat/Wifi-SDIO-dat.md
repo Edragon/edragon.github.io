@@ -10,7 +10,10 @@
 
 ## module 
 
-- [[Realtek-dat]] - [[RTL8812-dat]] - [[RTL8822-dat]]
+
+
+
+- [[Realtek-dat]] - [[RTL8812-dat]] - [[RTL8822-dat]] - [[RTL8812eu-dat]]
 
 - [[SKY85601-dat]] - [[skyworks-dat]] - [[amplifier-low-noise-dat]] - [[amplifier-dat]]
 

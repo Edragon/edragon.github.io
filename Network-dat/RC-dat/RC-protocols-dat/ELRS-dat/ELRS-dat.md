@@ -2,6 +2,8 @@
 # ELRS-dat
 
 
+- [[MLRS-dat]]
+
 - [[ELRS-dat]] - [[FHSS-dat]] - [[rc-protocols-dat]]
 
 - [[WIFI-dat]] - [[ELRS-dat]] - [[WIFI-code-dat]] - [[ELRS-code-dat]]
