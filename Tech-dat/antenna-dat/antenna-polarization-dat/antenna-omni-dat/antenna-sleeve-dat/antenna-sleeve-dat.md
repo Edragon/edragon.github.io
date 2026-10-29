@@ -1,7 +1,15 @@
 
 
 
-# antenna-whip-dat
+# antenna-sleeve-dat
+
+
+antenna-whip-dat
+
+Sleeve Dipole Antenna（套筒偶极天线） / Coaxial Antenna（同轴天线）   
+
+适用场景：如果在无线电通信、基站或 FPV/RC 遥控接收中，利用铜管/黄铜管套在同轴电缆外皮外侧作为1/4波长下端臂（Ground/Counterpoise），这种结构在专业射频领域通常被称为 Sleeve Antenna。
+
 
 
 

@@ -15,6 +15,19 @@
 
 
 
+## antanna installation 
+
+- [[antenna-spring-dat]]
+
+better NO PCB under the antenna 
+
+![](2026-01-18-12-37-39.png)
+
+
+
+
+
+
 
 ## ref 
 

@@ -9,6 +9,12 @@
 - [[antenna-directional-dat]] - [[antenna-patch-dat]]
 
 
+
+## small antenna and gain 
+
+![](2026-10-29-14-26-13.png)
+
+
 ## antenna examples == high gain 
 
 see more high gain antennna at [[antenna-wifi-dat]]
