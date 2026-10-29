@@ -12,12 +12,20 @@ legacy wiki page - https://www.electrodragon.com/w/Battery_Charge
 
 ## Resistor divider for feedback:
 
-- Please notice default Rvfb is 3.3K = 3x 
+- Please notice default **Rvfb is 3.3K = 3x** == 3S lithium battery 
 - Change Vfb resistor to set this stop voltage
 - All the rest SMD resistors are included in the package.
 - Supply VCC should be +2V > Vbat
 
 Notice the import solar panel voltage is set to 15V, based on [[MPPT-dat]]
+
+
+## temperature 
+
+== N/A temp == 10K NTC fixed: 
+
+A 10kΩ NTC (negative temperature coefficient) thermistor can be connected from the TEMP pin to ground for battery temperature qualification. The charge cycle is suspended if the battery’s temperature is outside of the acceptable range. 
+
 
 
 ## Board Functions 
@@ -38,7 +46,7 @@ Setup for V_fb
 | Lithium ion Li+ | 3x     | 12.6V              | 3.3K                                      |
 
 
-- [[LFP-dat]] - [[li-battery-dat]]
+- [[battery-li-LFP-dat]] - [[battery-li-dat]]
 
 
 
