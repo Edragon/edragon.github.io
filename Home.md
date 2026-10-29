@@ -19,18 +19,7 @@
 
 - [[app-dat]] 
 
-- [[circuits-dat]] - [[logic-dat]] - [[logic-gate-dat]] - [[buffer-dat]] - [[PCB-design-dat]]
-
-- [[mechanics-dat]] - [[materials-dat]] - [[tools-dat]] - [[mechanical-tools-dat]] - [[engineering-dat]] - [[mechanical-structure-dat]] - [[shaft-dat]] - [[gearbox-dat]]
-
-- [[BOM-DAT]] - [[case-dat]] - [[BTB-dat]] - [[transistor-dat]] - [[diode-dat]] - [[resistor-dat]] - [[mosfet-dat]] - [[capacitor-dat]] - [[diode-dat]]
-
-- [[CONN-dat]] - [[CONN-cable-terminal-dat]] - [[CONN-power-dat]] - [[CONN-audio-dat]]
-
-- [[cable-dat]]
-
-- [[SDK-DAT]] - [[RPI-SDK-dat]] - [[ESP-SDK-dat]] - [[camera-sdk-dat]] - [[display-sdk-dat]] - [[arduino-ide-dat]] - [[MDK-ARM-dat]] - [[ISP-dat]] - [[JLINK-dat]] - [[programmer-socket-dat]]
-
+- [[SDK-DAT]] 
 
 - [[service-dat]] - [[discount-dat]] - [[shipment-dat]] 
 
