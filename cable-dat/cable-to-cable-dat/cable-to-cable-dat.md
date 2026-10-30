@@ -1,10 +1,15 @@
 
-# wire-to-wire-dat
+# cable-to-cable-dat
 
 
-- [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]] - [[cable-JST-2P-dat]] - [[wire-to-wire-dat]]
+- [[cable-JST-SM-dat]] - [[cable-JST-XH-dat]] - [[cable-JST-2P-dat]] - [[cable-to-cable-dat]]
 
-- [[cable-JST-dat]] - [[wire-to-wire-dat]]
+- [[cable-JST-dat]] - [[cable-to-cable-dat]]
+
+
+- [[cable-to-cable-dat]] - [[cable-to-cable-connector-dat]]
+
+
 
 ## board 
 

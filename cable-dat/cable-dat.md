@@ -25,7 +25,7 @@
 
 - [[cable-ribbon-dat]]
 
-- [[wire-to-wire-dat]]
+- [[cable-to-cable-dat]]
 
 - [[cable-video-dat]] - [[cable-dat]]
 

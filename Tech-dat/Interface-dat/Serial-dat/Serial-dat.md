@@ -27,6 +27,11 @@
 - detailed use guide [[serial-USB-debugger-dat]]
 
 
+## tech 
+
+- [[serial-dat]] - [[PCB-stack-dat]] - [[CONN-dat]]
+
+
 
 
 

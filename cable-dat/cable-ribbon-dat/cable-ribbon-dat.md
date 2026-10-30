@@ -1,6 +1,42 @@
 
 # cable-ribbon-dat
 
+
+
+
+# ribbon-cable-dat
+
+![](2024-10-13-14-53-18.png)
+
+![](2024-10-13-14-53-43.png)
+
+## specs 
+
+common width 
+
+![](2024-10-13-14-55-35.png)
+
+## Connecting methods 
+
+![](2024-10-13-14-54-06.png)
+
+
+## boards 
+
+- 85% customers used the type below 
+
+- [[PCA1012-dat]]
+
+
+## ref 
+
+- [[cable-dat]]
+
+- [[ribbon-cable]] - [[cable]]
+
+
+
+
 Flat Ribbon Cable (FRC) is a versatile cable featuring multiple parallel conducting wires running flat in the same plane. Commonly used for digital connections in electronics, it is highly compatible with Insulation Displacement Connectors (IDC), widely used in robotics, computers, and custom displays.
 
 
