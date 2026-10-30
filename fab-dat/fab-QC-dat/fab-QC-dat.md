@@ -8,6 +8,19 @@
 
 
 
+## 测试线疲劳问题 
+
+- [[NWI1255-fab]] - 不要使用杜邦线 - [[dupont-cables-dat]]
+
+![](2026-10-30-21-16-52.png)
+
+- [[cable-dat]] - [[dupont-cables-dat]] - [[cable-dupont-dat]] - [[fab-QC-dat]]
+
+
+
+
+
+
 ## 虚焊 
 
 - [[fab-QC-dat]] - [[DPR1157-fab]]

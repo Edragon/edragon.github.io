@@ -3,6 +3,10 @@
 
 # IVG-G2S-dat
 
+
+- [[IVG-G2S-dat]] - [[hi3516-dat]] - [[openIPC-dat]]
+
+
 - [[xiongmai-dat]] - [[IVG-G2S-dat]] - [[chip-cn-dat]] - [[hi3516-dat]] - [[IMX307-dat]]
 
 IVG-G2S == https://www.xiongmaitech.com/en/index.php/product/product-detail/204/227/456
@@ -24,9 +28,16 @@ https://github.com/OpenIPC/sandbox-fpv/blob/master/notes_start_ivg-g2s.md
 
 back 
 
-- [[VTX-openIPC-dat]] - [[VTX-dat]] - [[HI3516-dat]]
+- [[VTX-openIPC-dat]] - [[VTX-dat]] - [[HI3516-dat]] - [[VTX-openIPC-build-dat]] - [[IVG-G2S-dat]]
 
 ![](2026-10-02-16-08-34.png)
+
+
+![](2026-10-30-21-13-09.png)
+
+- [[wifi-sdio-dat]] - [[USB-SDK-dat]] - [[CONN-BTB-dat]] - [[IVG-G2S-dat]]
+
+
 
 - [[TF1102-dat]] - [[ethernet-dat]]
 

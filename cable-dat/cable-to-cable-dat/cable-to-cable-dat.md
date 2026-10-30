@@ -7,7 +7,7 @@
 - [[cable-JST-dat]] - [[cable-to-cable-dat]]
 
 
-- [[cable-to-cable-dat]] - [[cable-to-cable-connector-dat]]
+- [[cable-to-cable-dat]] - [[cable-to-cable-connector-dat]] - [[cable-to-board-dat]]
 
 
 

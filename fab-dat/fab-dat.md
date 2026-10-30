@@ -2,6 +2,14 @@
 # fab-dat.md
 
 
+
+
+- [[fab-dat]] - [[fab-PCBA-dat]] - [[fab-PTH-dat]] - [[fab-QC-dat]]
+
+
+
+
+
 - [[fab-dat]] - [[fab-PNP-machine-dat]]
 
 
