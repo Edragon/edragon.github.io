@@ -67,7 +67,7 @@
 
 ## fab 
 
-- [[fab-dat]]
+- [[fab-dat]] - [[fab-qc-dat]] - [[fab-PCB-dat]] - [[PCB-standards-dat]] - [[fab-soldering-dat]]
 
 
 
