@@ -2,12 +2,32 @@
 
 # cable-ethernet-dat
 
+
+
+
+
+
+
+
+
 - [[cable-dat]] - [[cable-ethernet-dat]]
 
 ![](2026-09-19-03-16-07.png)
 
 
 
+## POE cable 
+
+- [[VTX-openIPC-dat]] - [[cable-ethernet-dat]]
+
+
+
+
+
+
+
+
+## info 
 
 **By Performance Category**
 

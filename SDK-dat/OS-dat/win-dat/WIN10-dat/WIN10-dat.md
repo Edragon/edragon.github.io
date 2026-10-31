@@ -6,7 +6,7 @@
 
 
 
-
+- [[WIN10-net-dat]] - [[WIN10-dat]]
 
 ### 2. Windows powers USB down by default, so the USB adapter is cut off and re-enumerated — which looks like repeated plugging
 
