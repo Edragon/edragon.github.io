@@ -8,6 +8,15 @@
 - [[A4988-dat]] - [[A4954-dat]] - [[A3967-dat]]
 
 
+
+
+
+## power 
+
+- [[allegro-dat]] - [[A8498-dat]]
+
+
+
 ## ref 
 
 - [[chip-dat]]

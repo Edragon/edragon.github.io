@@ -13,6 +13,11 @@
 
 - [[logic-gate-dat]]
 
+
+
+ADG708BRUZ / TSSOP-16 / -40 >>+85°C - 8-channel analog multiplexer
+
+
 ADG1608/ADG1609 == 4.5 Ω RON, 4-/8-Channel ±5 V, +12 V, +5 V, and +3.3 V Multiplexers
 
 ![](2026-09-03-16-05-21.png)

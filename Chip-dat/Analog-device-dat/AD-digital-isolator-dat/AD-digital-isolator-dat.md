@@ -5,6 +5,12 @@
 - [[AD-digital-isolator-dat]] - [[isolator-dat]] - [[analog-device-dat]]
 
 
+
+
+	
+ADuM5201CRWZ / 25Mbps / SOL-16 / -40 >>+105°C - 2-channel digital isolator
+
+
 ADuM4400/ADuM4401/ADuM4402 == 5 kV RMS Quad-Channel Digital Isolators
 
 

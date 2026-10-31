@@ -18,7 +18,7 @@ sub == - [[analog-device-dat]] - [[linear-technology-dat]] - [[maxim-dat]]
 
 - [[DAC-dat]] - [[ADC-dat]] - [[AD-DAC-dat]] - [[AD-ADC-dat]]
 
-- [[analog-device-dat]] - [[AD-logic-dat]] - [[logic-dat]] - [[multiplexer-dat]]
+- [[analog-device-dat]] - [[AD-logic-dat]] - [[logic-dat]] - [[multiplexer-dat]] - [[AD-multiplexer-dat]]
 
 - [[AD-amplifier-dat]] - [[amplifier-dat]]
 

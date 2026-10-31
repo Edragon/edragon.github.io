@@ -23,6 +23,11 @@
 
 ## chip and companies
 
+
+- [[allegro-dat]] - [[A8498-dat]] - [[dcdc-down-dat]]
+
+
+
 - [[developer-dat]] - [[dcdc-down-dat]] - [[DP3115-dat]]
 
 - [[SD8942-dat]] [[shouding-dat]] [[dcdc-down-dat]] 

@@ -4,14 +4,28 @@
 
 - [[EURPOST-cn-dat]] - [[EURPOST-en-dat]]
 
+
+
+
+
+
+
+
+
 # United States
 
-* Channel Route: PFC - Direct flight from Hong Kong to LAX/JFK - Commercial customs clearance - Delivery by Lasership/ONTRAC/USPS/PIGGYCARS/UDS.
+* Channel Route: PFC - Direct flight from Hong Kong to LAX/JFK - Commercial customs clearance - Delivery by **Lasership/ONTRAC/USPS/PIGGYCARS/UDS**.
 * Size restrictions: 55cm x 40cm x 40cm.
 * Declared value < 800 USD. Parcels to the same recipient name and address with a cumulative declared value exceeding 800 USD on the same day are not accepted.
 * No return service; no redelivery service. Returned items are destroyed by default.
 * No compensation for partial loss, delay, or damage. For lost goods, if the customer has not purchased insurance, compensation is based on the declared value, up to a maximum of 40 USD. Shipping and registration fees are not refunded.
 * If tracking shows "delivered" but the customer claims not to have received the parcel, the company will assist with inquiries but will not provide compensation.
+
+
+
+
+
+
 
 # United Kingdom
 
