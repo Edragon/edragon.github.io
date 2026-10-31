@@ -3,6 +3,9 @@
 
 
 
+- [[ELRS-TX-dat]]
+
+
 ## tech 
 
 - [[ESP8285-dat]] - [[ESP32-C3-dat]] - [[LR1121-dat]] - [[SX1281-dat]] == [[APP-dat]] - [[ELRS-RX-PWM-dat]]
@@ -108,10 +111,14 @@ Failsafe
 
 ## set to CRSF 
 
-default configuration 
+default configuration of PWM 
 
 ![](2026-10-31-20-10-46.png)
 
+
+default configuration of CRSF
+
+![](2026-10-31-20-49-25.png)
 
 runtime option 
 
