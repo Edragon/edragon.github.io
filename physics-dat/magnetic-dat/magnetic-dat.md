@@ -2,6 +2,12 @@
 # magnetic-dat
 
 
+
+
+- [[assembly-dat]] - [[magnetic-dat]] - [[insta360-go2-camera-dat]] - [[installation-dat]] 
+
+
+
 - [[magnet-dat]] - [[screw-magnetic-dat]] - [[magnetic-dat]]
 
 - [[motor-dat]] - [[metal-dat]]

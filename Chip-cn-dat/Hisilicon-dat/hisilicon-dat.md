@@ -3,6 +3,10 @@
 
 
 
+
+- [[hisilicon-dat]] - [[sensor-camera-chip-dat]] 
+
+
 - [[BGA-dat]]
 
 - [[PCB-footprint-dat]] - [[BGA-dat]] - [[fab-PCBA-dat]] - [[hisilicon-dat]] - [[hi3516-dat]]

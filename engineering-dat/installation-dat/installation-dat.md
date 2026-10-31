@@ -4,7 +4,7 @@
 
 
 
-
+- [[assembly-dat]] - [[magnetic-dat]] - [[insta360-go2-camera-dat]] - [[installation-dat]] 
 
 - [[sensor-camera-dat]] - [[camera-mount-dat]] - [[installation-dat]] - [[mount-dat]] 
 

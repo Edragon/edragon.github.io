@@ -1,7 +1,18 @@
 
 # assembly-dat
 
+
+
+
+
+
 - [[installation-dat]] 
+
+
+## build 
+
+- [[assembly-dat]] - [[magnetic-dat]] - [[insta360-go2-camera-dat]] - [[installation-dat]] 
+
 
 
 ## assembly-screw 

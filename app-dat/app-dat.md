@@ -159,9 +159,9 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 ## commerial 
 
-- [[commerial-dat]] - [[fix-dat]] - [[fab-workspace-dat]] - [[app-dat]]
+- [[commerial-dat]] - [[fix-dat]] - [[fab-workspace-dat]] - [[app-dat]] - [[product-dat]]
 
-- [[insta360-dat]] - [[gopro-dat]]
+- [[insta360-dat]] - [[gopro-dat]] - [[insta360-go2-camera-dat]] - [[insta360-go2-charger-dat]]
 
 
 ## repo 
