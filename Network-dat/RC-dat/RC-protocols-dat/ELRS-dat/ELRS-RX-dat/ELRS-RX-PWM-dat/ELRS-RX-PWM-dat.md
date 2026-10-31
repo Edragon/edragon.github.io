@@ -106,9 +106,12 @@ Failsafe
     May disarm ESCs
 - "Last Position" continues sending last received channel position
 
+## set to CRSF 
+
 default configuration 
 
-![](2026-09-06-17-19-47.png)
+![](2026-10-31-20-10-46.png)
+
 
 runtime option 
 
