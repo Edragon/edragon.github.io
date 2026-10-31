@@ -15,6 +15,13 @@
 
 
 
+
+
+## build 
+
+- [[antenna-dat]] == 18CM == [[antenna-lolipop-dat]] - [[FUS-X111-dat]] - [[FPV-build-dat]]
+
+
 ## lolipop inside 
 
 ![](2026-09-23-03-14-35.png)

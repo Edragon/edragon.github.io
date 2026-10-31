@@ -162,11 +162,19 @@ total USD == 100 for [[FC-AIO-dat]] or 120+ for [[FC-stack-dat]]
 
 ## build 
 
-build 1 - [[FUS-X111-dat]] 
-
-![](2026-09-18-00-20-14.png)
+setup build 1 - [[FUS-X111-dat]] 
 
 
+- [[antenna-dat]] == 18CM == [[antenna-lolipop-dat]] - [[FUS-X111-dat]] - [[FPV-build-dat]]
+
+![](2026-10-31-19-21-21.png)
+
+
+
+
+![](2026-10-31-19-22-45.png)
+
+![](2026-10-31-19-23-33.png)
 
 ## ref 
 
