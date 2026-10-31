@@ -23,7 +23,17 @@
 
 - [[ELRS-RX-HDK-dat]] - [[ELRS-RX-SDK-dat]] - [[ELRS-RX-PWM-dat]] - [[ELRS-RX-serial-dat]]
 
+- [[CRSF-dat]] - [[flight-controller-dat]]
 
+
+
+
+## wiring 
+
+- 4~5V
+- GND
+- TXD -> FC RXD
+- RXD -> FC TXD 
 
 
 

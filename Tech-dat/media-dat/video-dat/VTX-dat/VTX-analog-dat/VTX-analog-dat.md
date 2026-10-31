@@ -16,6 +16,13 @@
 
 
 
+## build 
+
+build 1 
+
+- [[RTC6705-dat]]
+
+
 ## installation and tuning 
 
 - [[5.8Ghz-dat]] - [[frequency-dat]] - [[VTX-dat]]

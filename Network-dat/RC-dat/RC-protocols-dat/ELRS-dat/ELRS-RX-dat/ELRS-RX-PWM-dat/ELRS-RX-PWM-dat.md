@@ -111,6 +111,8 @@ Failsafe
 
 ## set to CRSF 
 
+![](2026-11-01-01-17-47.png)
+
 default configuration of PWM 
 
 ![](2026-10-31-20-10-46.png)
