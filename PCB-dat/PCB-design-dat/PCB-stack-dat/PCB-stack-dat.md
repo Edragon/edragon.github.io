@@ -68,6 +68,8 @@ build 6 - CONN stack - [[serial-dat]] port forward  - [[serial-dat]] - [[PCB-sta
 
 ![](2026-10-30-20-57-50.png)
 
+![](2026-10-31-18-43-06.png)
+
 
 build 5 
 

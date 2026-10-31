@@ -97,3 +97,4 @@ for insta360 go 2
 
 ## ref 
 
+- [[camera-FPV-canopy]] - [[camera-FPV]]

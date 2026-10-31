@@ -105,6 +105,17 @@ For ordering at JLCPCB, define a seperate layer for your stiffeners, like I did 
 
 This design actually has an FR4 and a polyimide stiffener, so two layers.
 
+
+## issue 
+
+- 16P pin 
+
+![](2026-10-31-18-42-25.png)
+
+
+
+
+
 ## ref 
 
 - [[soldering-dat]]
