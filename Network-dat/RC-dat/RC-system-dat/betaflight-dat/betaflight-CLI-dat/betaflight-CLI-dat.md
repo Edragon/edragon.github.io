@@ -8,6 +8,25 @@
 
 
 
+## main 
+
+dump 
+
+## VTX 
+
+| 命令                              | 作用                                    |
+| --------------------------------- | --------------------------------------- |
+| vtx_info                          | ⭐️ 显示 VTX 表 + 当前 band/channel/power |
+| vtxtable bands / channels         | 几个频组 / 每组几个频道                 |
+| vtxtable powerlevels              | 有几个功率档                            |
+| ⭐️ vtxtable powervalues            | 每档的 dBm 数值（标签来源）             |
+| vtxtable powerlabels              | 每档显示文字（25/100/400）              |
+| get vtx_power / set vtx_power = N | 当前档位 / 改档                         |
+| get vtx_low_power_disarm          | ⚠️ 解锁前是否强制低功率                  |
+| dump                              | 一次看全部 vtx_*                        |
+
+
+
 ## resource 
 
 resource 

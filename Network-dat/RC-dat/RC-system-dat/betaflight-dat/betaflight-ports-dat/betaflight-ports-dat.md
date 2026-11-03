@@ -1,7 +1,7 @@
 
 ## betaflight-ports-dat
 
-- [[ELRS-RX-PWM-dat]] - [[betaflight-ports-dat]]
+- [[ELRS-RX-PWM-dat]] - [[betaflight-ports-dat]] - [[betaflight-CLI-dat]]
 
 
 https://betaflight.com/docs/wiki/app/ports-tab
@@ -16,6 +16,34 @@ configure UART to receive CRSF serial module
 ![](2026-09-06-17-39-31.png)
 
 ![](2026-09-06-17-40-12.png)
+
+
+
+## periperals 
+
+- Benewake LIDAR
+- Blackbox logging
+- Camera (RunCam Protocol)
+- OSD (FrSky Protocol)
+- VTX (IRC Tramp)
+- VTX (MSP + Displayport)
+- VTX (TBS SmartAudio)
+- VTX (MSP + Displayport)
+- VTX (TBS SmartAudio)
+
+## sensor input 
+
+- ESC
+- GPS
+
+## telemetry output
+
+- FrSky
+- HoTT
+- iBUS
+- LTM
+- MAVLink
+- SmartPort
 
 
 

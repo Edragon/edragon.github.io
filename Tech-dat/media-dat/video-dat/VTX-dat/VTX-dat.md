@@ -42,7 +42,7 @@ The Video Transmitter (VTX) is a crucial component of the FPV system, wirelessly
 
 - [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]]
 
-- [[AT7456E-dat]]
+- [[AT7456E-dat]] - [[OSD-dat]] - [[AT7456E-dat]]
 
 
 
@@ -222,6 +222,25 @@ World record level
 
 
 ## VTX build 
+
+
+build 2 
+
+
+- [[RTC6705-dat]] - [[power-amplifier-dat]]
+
+
+
+RTC6705 裸芯片 PA = +13 dBm = 20 mW
+        ↓
+800 mW = 29 dBm → 需外置 PA 提供 +16 dB
+
+![](2026-11-03-15-21-06.png)
+
+![](2026-11-03-15-21-15.png)
+
+build 1 
+
 
 - [[FPV-fix-dat]]
 
