@@ -152,6 +152,8 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 - [[AVR-app-dat]] - [[arduino-app-dat]]
 
+- [[blackbox-dat]]
+
 ## MCU based 
 
 - [[ESP32-app-dat]]
