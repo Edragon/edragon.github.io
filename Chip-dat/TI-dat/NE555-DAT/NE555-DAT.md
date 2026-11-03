@@ -5,11 +5,23 @@ partner: [[LM317-dat]]
 
 [[6102350-dat]] == [[NE555-dat]]
 
+
+
+
 ## Boards 
 
 - [[SCU1044-dat]]
 
 - [[MSP1017-dat]]
+
+
+## similar chip 
+
+	
+	
+ICM7555, ICM7556 - [[renesas-dat]] - [[NE555-dat]] - 555 Type, Timer/Oscillator (Single) IC 1MHz 8-SOIC -- IC OSC SINGLE TIMER 1MHZ 8-SOIC - [[TI-dat]]
+
+
 
 ## Function  
 

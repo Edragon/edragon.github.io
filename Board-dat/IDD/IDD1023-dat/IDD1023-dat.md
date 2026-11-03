@@ -50,6 +50,10 @@ correct pin definitions in DMD32.h
     #define PIN_DMD_SCLK		2		// D02
     #define PIN_DMD_R_DATA    23	// D23_MOSI is SPI Master Out if SPI is used
 
+
+
+
+
 ## Demo Early Test 
 
 use guide - https://www.youtube.com/shorts/mtdM9uB3fyo

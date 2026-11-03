@@ -5,6 +5,9 @@
 
 
 
+
+- [[analog-device-dat]] - [[AD-buffer-clock-dat]] - [[AD-logic-dat]] - [[AD-buffer-clock-dat]] - [[buffer-dat]]
+
 - [[logic-XOR-dat]] - [[logic-NAND-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
 
 
