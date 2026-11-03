@@ -21,6 +21,8 @@ configure UART to receive CRSF serial module
 
 ## periperals 
 
+- [[VTX-dat]] - [[blackbox-dat]] - [[OSD-dat]] - [[betaflight-ports-dat]] - [[VTX-analog-protocols-dat]]
+
 - Benewake LIDAR
 - Blackbox logging
 - Camera (RunCam Protocol)
@@ -28,8 +30,11 @@ configure UART to receive CRSF serial module
 - VTX (IRC Tramp)
 - VTX (MSP + Displayport)
 - VTX (TBS SmartAudio)
-- VTX (MSP + Displayport)
-- VTX (TBS SmartAudio)
+
+- [[VTX-TBS-smartaudio-dat]] - [[VTX-IRC-tramp-dat]] - [[VTX-MSP-displayport-dat]] - [[VTX-runcam-protocol-dat]] - [[VTX-Frsky-protocol-dat]] - [[VTX-analog-dat]] - [[vtx-dat]] - [[VTX-analog-protocols-dat]]
+
+- [[sensor-lidar-dat]] - [[blackbox-dat]]
+
 
 ## sensor input 
 

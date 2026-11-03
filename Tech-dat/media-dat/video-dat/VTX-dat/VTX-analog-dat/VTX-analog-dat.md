@@ -4,11 +4,187 @@
 
 # VTX-analog-dat
 
+- [[VTX-dat]] - [[VTX-analog-dat]]
+
+
+
+- [[VTX-TBS-smartaudio-dat]] - [[VTX-IRC-tramp-dat]] - [[VTX-MSP-displayport-dat]] - [[VTX-runcam-protocol-dat]] - [[VTX-Frsky-protocol-dat]] - [[VTX-analog-dat]] - [[vtx-dat]] - [[VTX-analog-protocols-dat]]
+
+
+
+## chip 
+
+
+- [[richwave-dat]] - [[RTC6705-dat]] - [[VTX-dat]]
+
+- [[AT7456E-dat]] - [[OSD-dat]] - [[AT7456E-dat]]
+
+
+
+
+## VTX -- The TBS Unify Pro32 Nano 5.8GHz
+
+The TBS Unify Pro32 Nano 5.8GHz VTX is a compact and feature-rich video transmitter designed for FPV (First-Person View) drone enthusiasts, particularly those involved in racing and freestyle flying. Manufactured by Team BlackSheep, this VTX offers a blend of performance, size, and advanced functionalities.
+
+
+🔧 Key Specifications
+
+- Operating Voltage: 3–13V (recommended 5V input)
+- Dimensions: 15 x 13 x 2 mm
+- Weight: 1g
+- Antenna Connector: u.FL socket
+- Video Format: NTSC/PAL
+- Video Input Impedance: 75 Ohm
+- Output Power: 14dBm (25mW), 20dBm (100mW), 26dBm (400mW), 28dBm (500+mW)
+
+
+- BlackSheep TBS UNIFY PRO32 NANO 5G8 32-bit Video Transmitter
+- With the TBS UNIFY PRO32 Nano, we have increased the output power, improved robustness, lowered
+- power consumption, added powerful features, and perfected its installation in multi-rotors. In
+- short, it is the highest quality, best overall performing nano VTx ever.
+- Main features:
+- Smallest and lightest video transmitter on the market
+- Output power up to 400mW
+- Ultra-clear transmission (up to 16 pilots at once!)
+- PitMode - power up your quad during a race. Now with team race capability!
+- Easy OSD, FC, and RC channel changes, with fallback button menu
+- Robust RF amplifier allows powering up without an antenna for hours!
+- Clean power-up and video switching
+- CE certified
+- Specifications:
+- Operating voltage: 4.5 - 5.5V
+- Operating temperature: ensure normal airflow
+- Video input impedance: 75 Ohm
+- Weight: 1 gram
+- Antenna connector: u.FL socket
+- Video format: NTSC/PAL
+- Output power: 
+    - 14dBm (25mW), 
+    - 20dBm (100mW), 
+    - 26dBm (400mW)
+
+
+
+
+
+## module installation pitch  
+
+![](2026-09-06-16-03-53.png)
+
+**20mm（20×20 堆叠）**
+• 常见用途: 3-5 寸机飞塔
+
+**25.5mm（25.5×25.5 堆叠）**
+• 常见用途: 小型机 AIO 主流 ⭐️
+
+30.5mm（30.5×30.5）
+• 常见用途: 大机飞塔
+
+FUS X111 这种 2.5 寸小涵道 + AIO 飞控 → 几乎肯定是 25.5mm（AIO 行业标准），而不是 25x25。
+
+
+
+
+
+## analog VTX range 
+
+25mW
+• Typical limit: 0.3-1km
+• Note: The 10m you measured in your garage was purely environmental shielding
+
+100mW
+• Typical limit: 1-2km
+• Note: Stable within line of sight
+
+400mW
+• Typical limit: 2-5km
+• Note: Your current power level, enough to get into long-range flying
+
+600mW-1W
+• Typical limit: 5-10km
+• Note: Goes even further with better antennas
+
+1.5-2W (rare)
+• Typical limit: 10km+
+• Note: Needs heat dissipation, mostly used for ground stations
+
+🏆 How far is the absolute limit?
+
+400mW + standard goggles
+• Range: 2-5km
+• Notes: The practical limit for everyday long-range flying
+
+1W + ground station with patch antenna
+• Range: 10-20km
+• Notes: Advanced long-range (ground station, not goggles)
+
+World record level
+• Range: 100km+
+• Notes: High altitude + high power + giant antennas (extreme)
+
+
+- [[RF-long-range-dat]] - [[RF-dat]]
+
+
+
+
+
+
 ## VTX+CAM integrated 
 
 ![](2026-10-01-15-59-33.png)
 
 ![](2026-10-01-15-59-55.png)
+
+
+
+
+
+
+build 2 
+
+
+- [[RTC6705-dat]] - [[power-amplifier-dat]]
+
+
+
+RTC6705 裸芯片 PA = +13 dBm = 20 mW
+        ↓
+800 mW = 29 dBm → 需外置 PA 提供 +16 dB
+
+![](2026-11-03-15-21-06.png)
+
+![](2026-11-03-15-21-15.png)
+
+build 1 
+
+
+- [[FPV-fix-dat]]
+
+- [[RTC6705-dat]] - [[VTX-dat]]
+
+`8539SD` - [[RF-FEM-dat]] - [[chip-cn-dat]] - [[kangxi-dat]] - [[KCT8539SD-dat]] - [[RF-5.8Ghz-dat]] - [[WLAN-dat]]
+
+
+PUYA `F003F16` - [[PUYAsemi-dat]] - [[PY32F003F16-dat]] - [[VTX-dat]] - [[chip-cn-dat]]
+
+![](2026-09-17-18-11-48.png)
+
+
+
+## configure VTX 
+
+1. 连电池 → 看画面有没有 OSD 文字 ⭐️ 先回答这个
+2. 有 → 试摇杆组合（油门中+偏航右+俯仰中）进菜单 → 找 VTX 功率
+3. 没有 → 打开 Configurator → OSD 标签页 → 勾几个元素（电压/时间）→ 保存
+         → 再看画面是否有 OSD → 再试进菜单
+4. 顺便：CLI → version 看固件目标对不对（NO CUSTOM DEFAULTS 常源于刷错目标）
+
+
+VTX 功率要在 OSD 菜单里看到，还需要：
+  • VTX 支持 MSP/SmartAudio/Tramp（软件可控）
+  • 飞控有控制线接到 VTX
+  → 否则菜单里没有 VTX 项
 
 
 

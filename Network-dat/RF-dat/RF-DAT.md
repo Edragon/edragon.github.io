@@ -94,6 +94,21 @@ When buying a DMR radio, you can consider things like: Battery life, Power outpu
 Programming DMR radios can be complex, so it may be helpful to get sample codeplugs from a local club to get started.
 
 
+
+## RF power 
+
+便宜可行的配置
+
+- 对数检波模块（AD8317 / AD8318 板）：¥30-100，需自己校准
+- ImmersionRC RF Power Meter V2：¥400-600，5.8G 专用直接读 mW，最省事
+- nanoVNA / 简易频谱仪：能看频率与谐波，功率读数需换算
+
+
+
+
+
+
+
 ### REF 
 
 - [[RF]] - [[rf-voice]]
