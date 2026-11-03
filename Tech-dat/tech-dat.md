@@ -1,6 +1,10 @@
 
 # tech-dat 
 
+
+
+- [[home]]
+
 ## recently updates
 
 - [[SDK-dat]]
