@@ -4,6 +4,11 @@
 # AD-amplifier-dat
 
 
+
+- [[amplifier-power-dat]]
+
+
+
 - [[AD805x-dat]]
 
 - [[AD620-dat]] - [[AD-amplifier-dat]] - 
@@ -27,6 +32,10 @@ High Speed, Low Power Wide Supply Range Amplifier
 ![](2026-09-03-16-37-58.png)
 
 
+
+## AD power amplifier 
+
+HMC464 - 2-20GHz GaAs PHEMT MMIC Power amplifier
 
 
 ## ref 

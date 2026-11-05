@@ -23,6 +23,17 @@
 
 
 
+- [[voltage-supervisor-dat]] - [[TI-power-dat]]
+
+
+## voltage supervisor
+
+`TPS3808G01DBV` - IC ADJ VOLTAGE SUPERVISOR (SOT23) TPS3808G01DBV
+
+
+
+
+
 ## dcdc down 
 
 - [[dcdc-down-dat]] - [[TI-power-dat]] - [[tlv62569-dat]]

@@ -4,10 +4,10 @@
 
 
 
-- [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TI-LDO-dat]]
+- [[ti-power-dat]] - [[TI-power-dcdc-down-dat]] - [[ti-power-dcdc-boost-dat]] - [[ti-power-dcdc-boost-down-dat]] - [[TI-power-LDO-dat]]
 
 
-- [[LDO-dat]] - [[TI-LDO-dat]] - [[TI-dat]]
+- [[LDO-dat]] - [[TI-power-LDO-dat]] - [[TI-dat]]
 
 
 TPS7A2633 DRVR == TPS7A2633DRVR

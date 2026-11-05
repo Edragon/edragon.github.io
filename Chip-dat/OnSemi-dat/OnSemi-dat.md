@@ -28,6 +28,12 @@
 - [[onsemi-dat]] - [[onsemi-LDO-dat]] - [[LDO-dat]]
 
 
+
+- [[onsemi-dat]] - [[HMHAA280-dat]] - [[optical-coupler-dat]]
+
+HMHAA280 - OPTOISO 3.75KV TRANS 4-MINI-FLAT - Optoisolator Transistor Output 3750Vrms 1 Channel 4-Mini-Flat
+
+
 ## mosfet 
 
 T14 

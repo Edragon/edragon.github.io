@@ -3,6 +3,10 @@
 
 
 
+- [[maxim-dat]] - [[MAX8869-dat]]
+
+1A, Microcap, Low-Dropout, Linear Regulator
+
 - [[MAX168x-dat]] - [[maxim-dat]]
 
 - [[analog-device-dat]] - [[maxim-dat]]

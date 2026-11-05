@@ -9,15 +9,22 @@
 - [[CLOCK-SYNTHESIZER-dat]] - [[Digital-Synthesizer-dat]] - [[Voice-Synthesizer-dat]]
 
 
+tech stack 
 
-
+- [[digital-dat]] - [[midi-dat]] - [[analog-dat]] - [[audio-dat]]
 
 ## chip 
 
-- [[SAM2695-dat]] - [[dream.fr-dat]] 
+- [[SAM2195-dat]] - [[SAM2695-dat]] - [[dream-dat]] 
+
+## diagram 
+
+![](2026-11-06-02-07-41.png)
 
 
+## SCH 
 
+![](2026-11-06-02-08-54.png)
 
 ## ref 
 

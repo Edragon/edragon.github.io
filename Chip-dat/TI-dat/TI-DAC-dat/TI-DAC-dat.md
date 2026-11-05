@@ -17,6 +17,14 @@ SCH
 ![](2026-09-05-16-07-56.png)
 
 
+## DAC
+
+- [[DAC-dat]]
+
+[DAC8801IDGK - DAC8801 - 14-Bit, Serial Input Multiplying Digital-to-Analog Converter](https://www.ti.com/lit/ds/symlink/dac8801.pdf?ts=1759175003115&ref_url=https%253A%252F%252Fwww.google.com%252F)
+
+
+
 
 
 ## ref 

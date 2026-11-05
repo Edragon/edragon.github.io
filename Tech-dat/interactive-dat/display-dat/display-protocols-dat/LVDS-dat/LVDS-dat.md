@@ -10,6 +10,20 @@
 
 
 
+## tech 
+
+- [[LVDS-dat]] - [[buffer-dat]]
+
+- [[buffer-LVDS-fanout-dat]] 
+
+IDT8P34S1106I == 1:6 LVDS Output 1.8V Fanout Buffer
+
+
+![](2026-11-06-02-41-07.png)
+
+
+## info 
+
 **LVDS** (Low-Voltage Differential Signaling) is an **electrical signaling standard**, not a specific video protocol.  
 Whether it’s "parallel" or "serial" depends on how it’s used:
 

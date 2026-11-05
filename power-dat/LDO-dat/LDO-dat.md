@@ -87,6 +87,11 @@ HV Negative
 
 ## chip 
 
+
+- [[maxlinear-dat]]
+
+- [[maxim-dat]] - [[MAX8869-dat]]
+
 - [[SG-micro-dat]] - [[dcdc-down-mulitple-dat]] - [[SGM2036-dat]] - [[chip-cn-dat]]
 
 
@@ -285,14 +290,6 @@ MAX1735 - 200mA, Negative-Output, Low-Dropout Linear Regulator in SOT23
 
 
 
-
-
-
-## chips 
-
-- [[maxlinear-dat]]
-
-- [[maxim-dat]]
 
 
 ## breakout board 

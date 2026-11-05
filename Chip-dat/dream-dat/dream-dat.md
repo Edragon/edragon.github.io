@@ -13,6 +13,9 @@
 - datasheet == [[SAM5504B.PDF]]
 
 
+- [[SAM2195-dat]] - [[SAM2695-dat]] - [[dream-dat]] 
+
+
 
 
 

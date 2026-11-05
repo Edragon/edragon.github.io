@@ -15,15 +15,6 @@
 
 
 
-## buffer 
-
-`SN74LVC8T245RHL` - SN74LVC8T245 8-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs
-
-The SN74LVC8T245 is an eight bit non-inverting bus transceiver with configurable dual power supply rails that enables bidirectional voltage level translation. The SN74LVC8T245 is optimized to operate with VCCA and VCCB set at 1.65V to 5.5V. The A port is designed to track VCCA. VCCA accepts any supply voltage from 1.65V to 5.5V. The B port is designed to track VCCB. VCCB accepts any supply voltage from 1.65V to 5.5V. This allows for universal low-voltage bidirectional translation between any of the 1.8V, 2.5V, 3.3V, and 5.5V voltage nodes.
-
-https://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf?ts=1780913696610
-
-
 ## signals 
 
 - [[PCF8574-dat]] - [[NXP-dat]]
@@ -32,12 +23,6 @@ https://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf?ts=1780913696610
 
 - [[TCA9554-dat]] - [[TI-interface-dat]] - [[TI-dat]]
 
-
-## DAC
-
-- [[DAC-dat]]
-
-[DAC8801IDGK - DAC8801 - 14-Bit, Serial Input Multiplying Digital-to-Analog Converter](https://www.ti.com/lit/ds/symlink/dac8801.pdf?ts=1759175003115&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
 
 
@@ -49,10 +34,6 @@ SN65LVDS33, SN65LVDT33, SN65LVDS34, SN65LVDT34 - HIGH-SPEED DIFFERENTIAL RECEIVE
 
 This family of four LVDS data line receivers offers the widest common-mode input voltage range in the industry. These receivers provide an input voltage range specification compatible with a 5-V PECL signal as well as an overall increased ground-noise tolerance. They are in industry standard footprints with integrated termination as an option.
 
-
-
-## interface 
-
 ### RS-485 
 
 `ISOW14x2` Isolated RS-485/RS-422 Transceiver with Integrated Low-Emissions, LowNoise, High-Efficiency DC-DC Converter
@@ -61,6 +42,13 @@ This family of four LVDS data line receivers offers the widest common-mode input
 
 
 ### RS-422 
+
+AM26LV31E - AM26LV32E
+
+![](2026-11-06-02-49-21.png)
+
+`AM26LV32EIDR` - Low-Voltage High-Speed Quadruple Differential Line Receiver With +/-15-kV IEC ESD | D | 16 | -40 to 85
+
 
 - [[RS422-dat]]
 

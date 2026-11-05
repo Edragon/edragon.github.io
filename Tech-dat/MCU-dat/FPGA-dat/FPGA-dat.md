@@ -30,7 +30,7 @@ https://www.digikey.com/en/products/detail/microchip-technology/A3PE1500-PQG208/
 
 
 
-- [[microchip-dat]] - [A3PE1500 == Ultra Low Density FPGAs](https://www.microchip.com/en-us/product/a3pe1500)
+- [[microchip-dat]] - [[microchip-FPGA-dat]]
 
 - [[lattice-dat]]
 
