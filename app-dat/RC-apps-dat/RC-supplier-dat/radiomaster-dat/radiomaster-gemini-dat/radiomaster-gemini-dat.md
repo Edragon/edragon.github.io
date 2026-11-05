@@ -2,6 +2,10 @@
 
 # radiomaster-gemini-dat
 
+
+- [[radiomaster-nomad-dat]] - [[radiomaster-dat]]
+
+
 **Gemini** and **Gemini-X** (often stylized as **Gem-X** or **Xrossband**) represent advanced RF architecture concepts developed for **ExpressLRS (ELRS)**, heavily integrated into RadioMaster's newer high-performance transmitters (such as the GX12), external modules (like the Nomad), and dual-band receivers (like the XR4 and ER12 series).
 
 Instead of relying on a single radio frequency band, this technology utilizes **dual-band diversity** and **simultaneous multi-frequency transmission** to virtually eliminate signal loss, fading, and interference.

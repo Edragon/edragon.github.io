@@ -3,7 +3,7 @@
 
 
 
-- [[home]]
+- [[home]] - [[tech-dat]] - [[tech-advanced-dat]]
 
 ## recently updates
 
