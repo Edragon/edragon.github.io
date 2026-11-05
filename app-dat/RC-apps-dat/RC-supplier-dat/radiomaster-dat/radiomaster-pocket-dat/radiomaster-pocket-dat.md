@@ -29,6 +29,18 @@
 
 
 
+
+
+## accessories 
+
+- display or phone stand
+  - https://www.printables.com/model/794138-radiomaster-pocket-screen-mount-for-emax-transport/files
+  - https://www.printables.com/model/1045687-radiomaster-pocket-hawkeye-35inch-monitor-mount
+- long extension 
+- [[RC-RF-bay-converter-dat]] 
+
+
+
 ## run scripts 
 
 - [[radiomaster-dat]] - [[radiomaster-pocket-dat]] == system - [[edgetx-dat]] 

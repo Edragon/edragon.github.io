@@ -3,7 +3,7 @@
 # radiomaster-pocket-module-dat
 
 
-- [[RC-RF-module-bay-dat]] - [[RC-dat]] - [[RF-dat]]
+- [[RC-RF-bay-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-dat]] - [[RF-dat]]
 
 - [[CC2500-dat]] - [[A7105-dat]] - [[CYRF6936-dat]] - [[radiomaster-pocket-module-dat]]
 
@@ -11,6 +11,9 @@
 
 
 - [[radiomaster-dat]] - [[radiomaster-pocket-module-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-CC2500-dat]] - [[frsky-dat]]
+
+
+
 
 
 
@@ -28,7 +31,7 @@ Nano高频头V2 远航2W大功率fpv穿越机信号增强ELRS
 
 
 
-- [[irangex-dat]] - [[IRX4-lite-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-module-bay-dat]]
+- [[irangex-dat]] - [[IRX4-lite-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-bay-dat]]
 
 
 

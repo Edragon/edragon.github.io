@@ -1,25 +1,36 @@
 
 
-# RC-RF-module-bay-dat
+# RC-RF-bay-dat
 
-- [[RC-RF-module-bay-dat]] - [[RC-dat]] - [[RF-dat]]
+
+
+
+- [[RC-RF-bay-dat]] - [[RC-dat]] - [[RF-dat]]
 
 - [[radiomaster-dat]] - [[radiomaster-pocket-module-dat]] - [[radiomaster-pocket-dat]] - [[radiomaster-pocket-CC2500-dat]] - [[frsky-dat]]
 
+
+two types - [[RC-RF-bay-nano-dat]] - [[RC-RF-bay-JR-dat]] == converter - [[RC-RF-bay-converter-dat]]
+
+
+
+## interface 
+
+![](2026-11-06-03-41-13.png)
 
 
 
 ## modules 
 
-- [[irangex-dat]] - [[IRX4-lite-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-module-bay-dat]]
+- [[irangex-dat]] - [[IRX4-lite-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-bay-dat]]
 
-- [[ranger-nano-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-module-bay-dat]] == 1W for 10~15KM 
+- [[ranger-nano-dat]] - [[radiomaster-pocket-module-dat]] - [[RC-RF-bay-dat]] == 1W for 10~15KM 
 
 
 
 ## apps 
 
-- [[FPV-long-range-dat]] - [[RC-RF-module-bay-dat]]
+- [[FPV-long-range-dat]] - [[RC-RF-bay-dat]]
 
 
 
