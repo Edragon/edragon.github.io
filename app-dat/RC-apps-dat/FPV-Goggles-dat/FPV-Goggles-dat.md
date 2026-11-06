@@ -34,6 +34,24 @@
 
 
 
+## build 
+
+good example from [[hawkeye-dat]] with [[antenna-diversity-dat]] - [[FPV-goggles-dat]]
+
+- version hawkeye goggles V2 
+
+
+![](2026-11-07-02-59-14.png)
+
+![](2026-11-07-02-59-35.png)
+
+- [[display-LCD-dat]]
+
+![](2026-11-07-03-00-29.png)
+
+![](2026-11-07-03-03-10.png)
+
+
 ## HDMI IN 
 
 
