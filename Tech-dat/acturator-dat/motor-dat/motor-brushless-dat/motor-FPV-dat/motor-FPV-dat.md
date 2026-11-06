@@ -22,6 +22,102 @@
 
 
 
+## KV analysis — 15000KV / 11000KV / 8000KV (1103, Mobula8 · 2S · 2" props)
+
+### TL;DR
+
+| KV      | Verdict                          | Reason                                            |
+| ------- | -------------------------------- | ------------------------------------------------- |
+| 15000KV | ❌ Unusable — will burn the ESC   | Rated for 1S only; on 2S it draws ≈22.8 A/channel |
+| 11000KV | ✅ Stock / reference point        | Factory pairing (2S + 2", 12 A/channel AIO)       |
+| 8000KV  | ⚠️ Works, but thrust drops to 53% | Turns the quad into a "cruiser"                   |
+
+### 1. Official voltage ratings (BetaFPV 1103)
+
+| KV      | Rated cells | Design point               | Typical platform        |
+| ------- | ----------- | -------------------------- | ----------------------- |
+| 15000KV | 1S only     | 15000 × 3.7 V = 55,500 RPM | 65 mm / 75 mm 1S whoops |
+| 11000KV | 1S – 2S     | 11000 × 7.4 V = 81,400 RPM | Mobula8 (stock), 2S 2"  |
+| 8000KV  | 3S          | 8000 × 11.1 V = 88,800 RPM | 3S 2" builds            |
+
+📚 **BetaFPV official warning** (applies in reverse too):
+
+> "DO NOT recommend the 1103 11000KV for 3S power. If you try this combo, the motors will
+> overheat and burn (maybe the ESC)."
+
+→ ⭐⭐ Running **15000KV on 2S** is exactly that warning reversed: double the rated voltage,
+so burn-out is guaranteed.
+
+### 2. ⭐⭐⭐ The math — Mobula8, 2" props (Ø 52.17 mm)
+
+Three formulas are all you need: - [[math-dat]]
+
+1. `RPM = KV × Voltage`
+2. `Thrust ∝ RPM²`
+3. `Current ∝ KV³`
+
+| Metric                   | 15000KV              | 11000KV (stock)      | 8000KV               |
+| ------------------------ | -------------------- | -------------------- | -------------------- |
+| RPM @ 2S (7.4 V)         | 111,000              | 81,400               | 59,200               |
+| Relative RPM             | 136%                 | 100%                 | 73%                  |
+| Relative thrust (∝ RPM²) | 186%                 | 100%                 | 53%                  |
+| Relative current (∝ KV³) | 254%                 | 100%                 | 38%                  |
+| Current per motor        | ≈22.8 A              | ≈9 A                 | ≈3.4 A               |
+| Prop tip speed           | 303 m/s (Mach 0.884) | 222 m/s (Mach 0.648) | 162 m/s (Mach 0.471) |
+
+### 3. ❌ 15000KV — three reasons it cannot be used
+
+1. **Rated for 1S only** → 2S is double the rated voltage.
+2. **Current ≈22.8 A/channel** (2.54× the stock ≈9 A).
+   ⚠️⚠️ Mobula8's X12 AIO is rated **12 A/channel** → guaranteed to burn.
+3. **Prop tip speed 303 m/s = Mach 0.884** → efficiency collapse zone
+   (spins harder and drains more, but thrust stops growing).
+
+📚 **Real-world case (Reddit r/fpv):**
+
+> "swapped motors to 1203 15000KV ... I guess the 2540 Props were too much after all"
+
+→ ⭐ Fried a 12A/15A ESC. Cause: the manufacturer's 14 A peak is measured on **3" prop + 1S**;
+he ran **2S** → 40+ A in reality.
+
+### 4. ⚠️ 8000KV — works, but clearly weaker
+
+| Metric     | vs. stock 11000KV                      |
+| ---------- | -------------------------------------- |
+| RPM 59,200 | 73% → feels floaty, weak pull-out      |
+| Thrust     | 53% ← noticeably underpowered          |
+| Current    | 38% ← longer flight time, cooler motor |
+
+↓
+
+⭐⭐ But its **design point is 3S**: `8000 × 11.1 V = 88,800 ≈ 109% of stock 2S`.
+
+↓
+
+⚠️⚠️ Problem: the X12 AIO is **1–2S (2.9–8.7 V)** → 3S is impossible.  
+→ 8000KV on a Mobula8 **can never reach its design point**, so you just accept the
+"cruiser" feel.
+
+### 5. Flight-behaviour comparison
+
+| KV      | Top speed     | Punch / recovery | Flight time | Motor temp  | Risk                  |
+| ------- | ------------- | ---------------- | ----------- | ----------- | --------------------- |
+| 15000KV | (theoretical) | —                | —           | 🔥 overheats | Burns ESC / motors    |
+| 11000KV | Stock         | Stock            | Stock       | Warm        | None (within spec)    |
+| 8000KV  | Lower         | Poor             | Longer      | Cool        | None (under-stressed) |
+
+### 6. The right approach
+
+❌ **Don't chase performance by swapping KV** — a Mobula8 on 2S + 2" props is already at its limit.
+
+| Goal                 | Options                                                                                                                                               |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **More power**       | Fewer blades / lower-pitch props to give high KV some headroom, or move the whole platform up to 2.5"/3"                                              |
+| **More flight time** | ① Lighter battery (2S 450 mAh, −9 g)<br>② Lower `motor_limit` / fit 2-blade props<br>③ Swap to 8500KV (HM same 1–2S version — still replace all four) |
+
+
+
+
 
 ## installation 
 
