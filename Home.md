@@ -9,8 +9,13 @@
 
 ## category 
 
-- [[board-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[Tech-DAT]] - [[app-dat]] - [[SDK-DAT]] - [[fab-dat]] - [[projects-dat]]
+- [[Tech-DAT]] 
+  
+- [[app-dat]] 
 
+- [[board-dat]] - [[chip-dat]] - [[chip-cn-dat]] 
+
+- [[SDK-DAT]] - [[fab-dat]] - [[projects-dat]]
 
 - [[info-dat]] - [[weekly-dat]] 
 
