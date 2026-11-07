@@ -3,12 +3,14 @@
 
 
 
+
+
 - [[switch-chip-dat]]
 
 - [[switch-dat]] - [[button-dat]]
 
 
-
+- [[switch-rotary-dat]]
 
 - [[switch-keypad-dat]]
 
