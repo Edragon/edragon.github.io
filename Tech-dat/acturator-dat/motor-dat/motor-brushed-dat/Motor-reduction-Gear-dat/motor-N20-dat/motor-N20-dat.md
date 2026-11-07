@@ -7,7 +7,7 @@
 
 ## Board images 
 
-![](2023-12-04-18-33-47.png)
+![](2023-12-04-18-33-47.webp)
 
 use panel front M1.6 x2 for installation 
 
@@ -52,10 +52,10 @@ ALL version performance
 
 Dimension 
 
-![](2023-12-04-18-31-17.png)
+![](2023-12-04-18-31-17.webp)
 
 RPM 
-![](2023-12-04-18-30-29.png)
+![](2023-12-04-18-30-29.webp)
 
 
 

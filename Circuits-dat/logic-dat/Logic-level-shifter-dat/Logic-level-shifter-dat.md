@@ -150,7 +150,7 @@ Make sure the VCCA ≤VCCB.
 
 simple passive solutions V2, resistors 1:2
 
-![](2026-09-14-17-13-16.png)
+![](2026-09-14-17-13-16.webp)
 
 simple passive solutions V1, resistors 1:2
 
@@ -172,16 +172,16 @@ via chip
 
 - [[I2C-dat]]
 
-![](2025-07-13-01-24-51.png)
+![](2025-07-13-01-24-51.webp)
 
-![](2025-07-13-02-12-39.png)
+![](2025-07-13-02-12-39.webp)
 
 
 ## 5V-3.3V 
 
 - [[arduino-dat]] to 3.3V [[location-dat]] == [[serial-dat]]
 
-![](2026-01-19-13-32-16.png)
+![](2026-01-19-13-32-16.webp)
 
 
 general 5V-3V3 logic 
@@ -196,7 +196,7 @@ general 5V-3V3 logic
 
 3.3V tolerant to [[RPI-SBC-dat]]
 
-![](2026-01-31-13-07-52.png)
+![](2026-01-31-13-07-52.webp)
 
 
 ## unsort 

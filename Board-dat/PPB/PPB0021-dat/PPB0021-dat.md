@@ -7,7 +7,7 @@
 
 ![](2025-11-13_194534.png)
 
-![](2025-11-13-19-47-41.png)
+![](2025-11-13-19-47-41.webp)
 
 ![](2025-11-13-20-02-02.png)
 
@@ -61,7 +61,7 @@ In order to improve the soldering skills of electronic professional students and
 
 ## V1 - green board (add order note to order this version)
 
-![](2024-10-04-18-00-19.png)
+![](2024-10-04-18-00-19.webp)
 
 ![](2025-11-13-19-56-10.png)
 

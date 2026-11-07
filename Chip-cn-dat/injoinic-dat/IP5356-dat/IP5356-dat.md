@@ -44,7 +44,7 @@
 
 chip easily burn if wiring wrong
 
-![](2026-01-30-14-11-06.png)
+![](2026-01-30-14-11-06.webp)
 
 ## ref 
 

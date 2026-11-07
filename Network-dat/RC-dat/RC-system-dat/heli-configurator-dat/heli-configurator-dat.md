@@ -20,7 +20,7 @@ https://github.com/blheli-configurator/blheli-configurator/releases
 
 ## flash 
 
-![](2025-09-12-20-52-35.png)
+![](2025-09-12-20-52-35.webp)
 
 
 

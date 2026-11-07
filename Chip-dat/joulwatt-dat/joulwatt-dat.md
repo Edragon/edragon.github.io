@@ -33,14 +33,14 @@ The JW® 3510 is a micropower isolated Flyback converter. By sampling the isolat
 The JW3510 operates with an input voltage range of 3.0V to 42V and can deliver up to 6W of isolated output power. The primary-side can deliver 1.4A peak current with an internal integrated 65V N-Channel DMOS power switch. The JW3510 is designed with boundary mode, discontinuous mode and burst mode operation at different load to improve load regulation and maintain high efficiency while minimizing the output voltage ripple. 
 
 
-![](2026-02-23-17-15-06.png)
+![](2026-02-23-17-15-06.webp)
 
 
 ## JW3651 
 
 JW3651 -- 21V 3A 4-Switch -- Buck-Boost Converter
 
-![](2025-07-10-18-32-59.png)
+![](2025-07-10-18-32-59.webp)
 
 
 

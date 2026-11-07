@@ -41,7 +41,7 @@
 
 For iPhone users, you can download the following software for debugging:
 
-![](2025-07-30-16-44-32.png)
+![](2025-07-30-16-44-32.webp)
 
 ### Android Apps
 

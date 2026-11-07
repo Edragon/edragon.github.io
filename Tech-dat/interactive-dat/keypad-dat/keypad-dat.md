@@ -28,7 +28,7 @@ single key pad SCH1
 
 matrix keypad SCH2
 
-![](2026-01-18-17-08-56.png)
+![](2026-01-18-17-08-56.webp)
 
 This is a simple application of port manipulation using Arduino to paly with the 4*4 button pad. Before read the code, you'd better see the connection diagram first. 
 
@@ -68,7 +68,7 @@ Output high TTL signal when either row or column buttons are pressed.
 
 ## SCH 
 
-![](2026-07-23-20-56-50.png)
+![](2026-07-23-20-56-50.webp)
 
 
 
@@ -79,7 +79,7 @@ build 2 == with [[WS2812-dat]]
 
 ![](2026-09-05-18-27-36.png)
 
-![](2026-09-05-18-28-11.png)
+![](2026-09-05-18-28-11.webp)
 
 
 build 1 == matrix keypad - [[keypad-dat]] - [[PC-dat]] - [[ESP32-dat]]

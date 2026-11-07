@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Thermostat
 # constant-temperature-dat
 
 
-![](constant-temperature-dat-01.png)
+![](constant-temperature-dat-01.webp)
 
 - temperature meansure and auto turn on the warming light 
 - [[week-4-8-dat]]
@@ -30,7 +30,7 @@ These are two versions of the thermostat, both version have the temperature prob
 
 ![](photo_2025-02-23_15-11-51.jpg)
 
-![](2026-02-11-18-43-05.png)
+![](2026-02-11-18-43-05.webp)
 
 
 

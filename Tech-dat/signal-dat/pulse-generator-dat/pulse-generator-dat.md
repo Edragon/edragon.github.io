@@ -37,7 +37,7 @@ and analogWrite(127) is a 50% duty cycle (on half the time) for example.
 
 ## wave generator 
 
-![](2026-02-12-15-20-21.png)
+![](2026-02-12-15-20-21.webp)
 
 
 ## ref 

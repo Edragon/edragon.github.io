@@ -75,7 +75,7 @@ Mode 1 — Pulse/Trigger mode (R27 = open / no resistor soldered)
 
 2. Timing diagram
 
-![](2025-12-12-18-35-10.png)
+![](2025-12-12-18-35-10.webp)
 
 Mode 2 — Auto-UART output (R27 = 47 kΩ soldered)
 

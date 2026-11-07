@@ -4,7 +4,7 @@
 
 - [[battery-charge-boost-dat]] - [[battery-charger-dat]]
 
-![](2026-06-02-19-37-00.png)
+![](2026-06-02-19-37-00.webp)
 
 ## Features
 

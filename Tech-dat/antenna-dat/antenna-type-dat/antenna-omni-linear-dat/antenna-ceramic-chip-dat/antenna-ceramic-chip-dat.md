@@ -13,7 +13,7 @@ normally gain == 4DBI
 
 ## ceramic antenna 
 
-![](2025-08-19-17-27-28.png)
+![](2025-08-19-17-27-28.webp)
 
 
 
@@ -28,7 +28,7 @@ JOHANSON(约翰逊)
 
 ## ceramic onboard antenna 
 
-![](2026-02-10-13-45-49.png)
+![](2026-02-10-13-45-49.webp)
 
 ## PCB antenna 
 

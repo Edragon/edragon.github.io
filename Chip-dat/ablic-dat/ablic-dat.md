@@ -28,7 +28,7 @@ https://www.ablic.com/en/doc/datasheet/battery_protection/S8254A_E.pdf
 
 BATTERY PROTECTION IC FOR 1-CELL PACK
 
-![](2026-03-14-14-48-05.png)
+![](2026-03-14-14-48-05.webp)
 
 
 

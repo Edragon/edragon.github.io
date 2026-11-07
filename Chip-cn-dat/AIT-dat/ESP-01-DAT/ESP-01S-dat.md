@@ -31,7 +31,7 @@ the differences between ESP-01 VS ESP-01S (more components )
 ## ESP-01 VS ESP-01S
 
 ESP-01S SCH
-![](2023-11-28-16-13-36.png)
+![](2023-11-28-16-13-36.webp)
 
 - IO15 - pull-down 
 - reset - pull up

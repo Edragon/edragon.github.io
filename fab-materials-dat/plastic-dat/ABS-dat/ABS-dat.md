@@ -16,7 +16,7 @@ using a small brush with plastic specific glue - [[plastic-glue-dat]]
 
 very strong 
 
-![](2025-12-04-19-52-08.png)
+![](2025-12-04-19-52-08.webp)
 
 ![](2025-12-04-19-52-19.png)
 
@@ -30,12 +30,12 @@ very strong
 
 ![](2025-12-04-19-13-31.png)
 
-![](2025-12-04-19-13-45.png)
+![](2025-12-04-19-13-45.webp)
 
 
 easily deform on slow heating
 
-![](2025-12-04-19-51-30.png)
+![](2025-12-04-19-51-30.webp)
 
 
 ### 1. Tools Needed

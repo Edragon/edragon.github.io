@@ -37,7 +37,7 @@ The **WM8978** is a high-performance, low-power **stereo audio codec** from **Ci
 
 ## SCH 
 
-![](2026-07-23-20-04-03.png)
+![](2026-07-23-20-04-03.webp)
 
 
 ## ref 

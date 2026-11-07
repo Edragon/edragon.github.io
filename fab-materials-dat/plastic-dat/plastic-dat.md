@@ -94,7 +94,7 @@ hold on table with wood [[holder-dat]], this is how the cutting looks like
 
 cut by [[hand-saw-dat]] 
 
-![](2025-12-05-20-28-09.png)
+![](2025-12-05-20-28-09.webp)
 
 
 

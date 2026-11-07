@@ -207,7 +207,7 @@ Bolt the Bottom_Mounting_Plate to the underside of the machine.
 
 ## Testing 
 
-![](2025-02-23-15-31-10.png)
+![](2025-02-23-15-31-10.webp)
 
 
 ## ref 

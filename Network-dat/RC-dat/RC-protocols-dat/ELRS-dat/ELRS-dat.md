@@ -181,7 +181,7 @@ https://www.expresslrs.org/quick-start/getting-started/
 
 ### Via "ExpressLRS RX" Access Point
 
-![](2025-05-04-15-29-54.png)
+![](2025-05-04-15-29-54.webp)
 
 Load the Web UI on your browser using these addresses:
 
@@ -191,7 +191,7 @@ pass == expresslrs
 
 ### Via button press 
 
-![](2025-05-04-15-31-56.png)
+![](2025-05-04-15-31-56.webp)
 
 
 ## Code 

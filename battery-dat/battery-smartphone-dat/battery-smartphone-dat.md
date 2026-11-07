@@ -12,9 +12,9 @@
 
 ![](2025-11-18-17-02-15.png)
 
-![](2025-11-18-17-04-32.png)
+![](2025-11-18-17-04-32.webp)
 
-![](2025-11-19-16-11-34.png)
+![](2025-11-19-16-11-34.webp)
 
 ![](2025-11-19-16-12-15.png)
 
@@ -49,7 +49,7 @@ These pins are typical in smart/integrated batteries, supporting safety, communi
 
 ## phone battery connector 
 
-![](2025-11-19-16-02-44.png)
+![](2025-11-19-16-02-44.webp)
 
 Replacement Battery FPC Connector (On the Flex Cable) for Google Pixel 3 / 3XL / 4 / 4XL / 5 / 5XL / LG G7 
 

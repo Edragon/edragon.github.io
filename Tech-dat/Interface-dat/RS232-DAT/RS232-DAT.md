@@ -28,7 +28,7 @@ Male Connector
 
 Male / Left and Female / Right Type Connector
 
-![](2024-08-08-17-26-33.png)
+![](2024-08-08-17-26-33.webp)
 
 A common Convert board
 

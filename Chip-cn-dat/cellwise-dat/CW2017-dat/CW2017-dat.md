@@ -18,6 +18,6 @@ CW2017BAAD适用于包括锂锰，锂钴和聚合物等多种类型的锂电池�
 
 http://www.cellwise-semi.com/products/product/voltameter/5
 
-![](2026-05-23-15-12-26.png)
+![](2026-05-23-15-12-26.webp)
 
 ![](2026-05-23-15-12-39.png)

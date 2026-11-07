@@ -129,7 +129,7 @@ If your project is a medium-to-large boat, using a **plastic straw or a hollow c
 
 ## build 
 
-![](2026-06-07-14-24-41.png)
+![](2026-06-07-14-24-41.webp)
 
 ![](2026-06-07-14-25-02.png)
 

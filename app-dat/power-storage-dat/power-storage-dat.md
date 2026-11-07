@@ -20,7 +20,7 @@ A basic solar power system comprises four main components:
 4.  **Inverter:** Converts the DC power from the battery into AC power, suitable for household appliances.
 
 
-![](2025-06-15-01-48-46.png)
+![](2025-06-15-01-48-46.webp)
 
 
 ### System Design and Sizing: A Practical Example

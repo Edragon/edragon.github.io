@@ -31,7 +31,7 @@ ADG1636 == 1 Ω Typical On Resistance, ±5 V, +12 V, +5 V, and +3.3 V Dual SPDT 
 https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1636.pdf
 
 
-![](2026-09-03-16-01-15.png)
+![](2026-09-03-16-01-15.webp)
 
 - [[circuits-dat]] - [[logic-dat]]
 

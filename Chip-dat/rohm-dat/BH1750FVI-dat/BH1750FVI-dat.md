@@ -30,7 +30,7 @@ Measurement mode: this sensor has 3 Measurement mode :
 
 
 
-![](2025-04-01-12-55-22.png)
+![](2025-04-01-12-55-22.webp)
 
 I2C address == 0x23 or 0x5C
 

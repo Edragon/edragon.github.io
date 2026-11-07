@@ -54,7 +54,7 @@
 
 - [[screws-dat]] + [[nut-dat]] + [[washer-spring-dat]] + [[washer-flat-dat]]
 
-![](2025-09-25-18-25-15.png)
+![](2025-09-25-18-25-15.webp)
 
 
 ## bolt and screw

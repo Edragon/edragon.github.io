@@ -66,7 +66,7 @@ Pixel 1 到 5 系列全系搭载高通骁龙（Qualcomm Snapdragon）处理器�
 
 screen is very fragile, be careful when prying it open.
 
-![](2025-11-18-17-05-46.png)
+![](2025-11-18-17-05-46.webp)
 
 
 

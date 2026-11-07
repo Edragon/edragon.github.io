@@ -27,7 +27,7 @@ legacy wiki page - https://w.electrodragon.com/w/LM386
 
 SCH 4 
 
-![](2026-03-05-02-23-30.png)
+![](2026-03-05-02-23-30.webp)
 
 SCH 3 
 ![](2025-04-03-14-07-36.png)

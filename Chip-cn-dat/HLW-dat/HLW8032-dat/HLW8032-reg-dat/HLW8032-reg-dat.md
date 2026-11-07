@@ -44,7 +44,7 @@ Summing these values gives the voltage parameter register value: 131072 + 57600 
 
     00 06 52 == (Dec) 1618
 
-![](2024-12-08-16-40-36.png)
+![](2024-12-08-16-40-36.webp)
 
 voltage register value: 0 + 1536 + 82 = 1618
 
@@ -59,7 +59,7 @@ Voltage Coefficient =
 
 Therefore, the effective voltage is approximately 219.372V.
 
-![](2024-12-08-16-41-04.png)
+![](2024-12-08-16-41-04.webp)
 
 ## Current measure Example
 

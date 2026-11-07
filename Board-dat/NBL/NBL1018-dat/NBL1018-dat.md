@@ -17,7 +17,7 @@ https://www.electrodragon.com/product/30ft-3-3vdc-wireless-bluetooth-rf-transcei
 
 ## Compare
 
-![](2023-10-19-13-52-14.png)
+![](2023-10-19-13-52-14.webp)
 
 | func                               | BC04—B         | HC—05            | HC—06          |
 | ---------------------------------- | -------------- | ---------------- | -------------- |

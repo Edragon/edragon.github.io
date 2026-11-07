@@ -54,11 +54,11 @@ We only use one kind of sim card, which is the nano type. It is the normal type 
 
 ### micro sim
 
-![](40-45-15-26-07-2023.png)
+![](40-45-15-26-07-2023.webp)
 
 ![](51-45-15-26-07-2023.png)
 
-![](16-47-15-26-07-2023.png)
+![](16-47-15-26-07-2023.webp)
 
 
 ### Common Sim

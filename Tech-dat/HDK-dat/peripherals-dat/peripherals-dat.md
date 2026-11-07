@@ -98,11 +98,11 @@
 LEDs, buttons, [[resistor-trim-pot-dat]], [[DHT11-dat]] 
 
 
-![](2025-10-08-13-48-32.png)
+![](2025-10-08-13-48-32.webp)
 
 - [[AMS1117-dat]] - [[type-c-dat]] - [[servo-dat]]
 
-![](2025-10-08-13-49-04.png)
+![](2025-10-08-13-49-04.webp)
 
 
 
@@ -110,7 +110,7 @@ LEDs, buttons, [[resistor-trim-pot-dat]], [[DHT11-dat]]
 
 SCH 1 
 
-![](2026-07-23-20-05-29.png)
+![](2026-07-23-20-05-29.webp)
 
 
 

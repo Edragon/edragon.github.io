@@ -18,7 +18,7 @@ thickness version 1.0 mm, other versions include 1.5 mm, 0.8 mm
 
 profile center hole 3.3 mm 
 
-![](2025-02-19-14-31-59.png)
+![](2025-02-19-14-31-59.webp)
 
 
 

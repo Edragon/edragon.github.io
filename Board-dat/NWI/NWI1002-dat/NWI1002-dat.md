@@ -9,7 +9,7 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2025-08-06-18-12-20.png)
+![](2025-08-06-18-12-20.webp)
 
 Configuration via Web browser:
 

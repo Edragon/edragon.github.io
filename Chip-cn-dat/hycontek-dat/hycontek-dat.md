@@ -8,9 +8,9 @@
 
 https://www.hycontek.com
 
-![](2026-02-12-21-03-48.png)
+![](2026-02-12-21-03-48.webp)
 
-![](2026-02-12-21-04-09.png)
+![](2026-02-12-21-04-09.webp)
 
 
 ## 2S 
@@ -52,7 +52,7 @@ The series of HY2213 is created for multi-cell battery packs to single-cell lith
 
 
 
-![](2026-02-12-20-56-09.png)
+![](2026-02-12-20-56-09.webp)
 
 
 ## boards 

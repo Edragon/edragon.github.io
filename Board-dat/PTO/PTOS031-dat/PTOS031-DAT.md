@@ -4,7 +4,7 @@
 
 - [[terminal-clamping-dat]] - [[PTOS031-DAT]] - [[PTOS032-DAT]] - [[PTOS033-DAT]]
 
-![](58-09-16-21-06-2023.png)
+![](58-09-16-21-06-2023.webp)
 
 `SN-01BM`, This section Crimping Pliers can pressure between 2.5 and 2.54 pitch (0.08 - 0.5 mm^2) terminal including of
 - Common used: XH 2.54, SM 2.54

@@ -35,7 +35,7 @@ High Efficiency, Synchronous, 4-Switch Buck-Boost Controller
 
 - [[SD628-dat]] - [[DCDC-boost-dat]] - [[JW5033-dat]] - [[joulwatt-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-down-dat]] - [[dcdc-dat]] 
 
-![](2026-06-18-20-47-00.png)
+![](2026-06-18-20-47-00.webp)
 
 
 

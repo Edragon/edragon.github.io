@@ -48,11 +48,11 @@ The actual measured load regulation rate at 12V input and 5V output current is l
 
 
 ## Dimension 
-![](2024-01-31-15-24-25.png)
+![](2024-01-31-15-24-25.webp)
 
 ## Applications Examples 
 
-![](2024-01-31-15-30-11.png)
+![](2024-01-31-15-30-11.webp)
 
 - output running Tungsten
 

@@ -115,7 +115,7 @@ This refers to the outer diameter of the cable (2.2mm), which is relatively thin
 Toslink DLT1120 fiber optic transmitter The light-emitting unit is a standard packaging product with connectors and optoelectronic components, and is packaged with LEDs and driver ICs. The function of the unit converts electrical signals into optical signals and transmits.
 
 
-![](2025-04-21-14-00-06.png)
+![](2025-04-21-14-00-06.webp)
 
 ![](2025-04-21-14-00-35.png)
 
@@ -124,7 +124,7 @@ project [SPDIF to TOSLink Adapter Hat for Quartz64](https://github.com/CounterPi
 
 ## DLR 1121
 
-![](2025-04-24-18-58-02.png)
+![](2025-04-24-18-58-02.webp)
 ## DLR 2180 
 
 
@@ -182,7 +182,7 @@ TX
 ![](2025-04-25-03-38-29.png)
 
 RX
-![](2025-04-25-03-38-52.png)
+![](2025-04-25-03-38-52.webp)
 
 ## ref 
 

@@ -7,7 +7,7 @@
 
 ### 1515 
 
-![](2025-11-21-17-25-03.png)
+![](2025-11-21-17-25-03.webp)
 
 - 20 x 20 x width 15 
 - internal width == 11 for [[washer-dat]]

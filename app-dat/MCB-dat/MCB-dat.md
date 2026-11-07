@@ -3,7 +3,7 @@
 
 miniature circuit breaker (MCB) is a type of electrical switch that automatically switches off electrical circuits in the event of an overload or short circuit. It is designed to protect electrical circuits from damage caused by excessive current flow.
 
-![](2025-05-29-12-54-24.png)
+![](2025-05-29-12-54-24.webp)
 
 From the picture, you can see:
 

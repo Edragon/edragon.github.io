@@ -77,7 +77,7 @@ https://github.com/OpenNuvoton/ISPTool/releases/tag/v4.15
 
 - NuMicro ISP Programming Tool V4.15
 
-![](2025-05-16-17-10-40.png)
+![](2025-05-16-17-10-40.webp)
 
 - Click to connect the device (if it cannot be connected, please press the reset button), 
 - after successful connection, load the data into APROM, check the file(s) to be programmed, 

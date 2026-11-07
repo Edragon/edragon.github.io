@@ -15,7 +15,7 @@
 
 ### 1x PCB clip type 
 
-![](2024-03-28-18-04-58.png)
+![](2024-03-28-18-04-58.webp)
 
 
 
@@ -37,11 +37,11 @@ back side
 
 connected side == series connection side 
 
-![](2026-03-13-19-51-43.png)
+![](2026-03-13-19-51-43.webp)
 
 seperated side == output side 
 
-![](2026-03-13-19-51-57.png)
+![](2026-03-13-19-51-57.webp)
 
 
 ### PCB PTH soldering holder 
@@ -53,7 +53,7 @@ seperated side == output side
 
 == 1.5*3 = 4.5V 
 
-![](2025-05-08-18-06-19.png)
+![](2025-05-08-18-06-19.webp)
 
 
 

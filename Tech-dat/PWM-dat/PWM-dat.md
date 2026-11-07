@@ -241,7 +241,7 @@ This is currently the most widespread approach in electronic control and industr
 
 build 1 - PWM - GND output socket 
 
-![](2026-08-01-16-15-51.png)
+![](2026-08-01-16-15-51.webp)
 
 
 

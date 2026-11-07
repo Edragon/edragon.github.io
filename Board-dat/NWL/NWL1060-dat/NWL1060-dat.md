@@ -9,7 +9,7 @@ please note one side of the chip is not soldered!
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2026-01-18-19-49-19.png)
+![](2026-01-18-19-49-19.webp)
 
 ![](2026-01-18-19-49-37.png)
 

@@ -59,7 +59,7 @@ If you DIY, here is the list of components required to make a working controller
 
 wiring 
 
-![](2026-10-01-01-29-50.png)
+![](2026-10-01-01-29-50.webp)
 
 prebuild - [[VRX-dat]] - [[VRX-digital-dat]] - [[rubyFPV-dat]]
 

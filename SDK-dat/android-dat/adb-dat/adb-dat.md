@@ -78,7 +78,7 @@ ADB工具安装要手动去设备管理器安装。操作方法为：连接电�
 
 When your Pixel 2 is recognized strictly as an ADB interface rather than a storage device, Windows attaches the Android Composite ADB Interface driver to the USB device composite parent instead of mounting the MTP (Media Transfer Protocol) storage driver.
 
-![](2026-08-15-14-19-06.png)
+![](2026-08-15-14-19-06.webp)
 
 
 - [[android-dat]] - [[ADB-dat]] - [[phone-dat]]

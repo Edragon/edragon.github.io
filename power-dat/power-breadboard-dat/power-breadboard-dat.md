@@ -15,7 +15,7 @@ https://www.electrodragon.com/product/breadboard-wside-power-channels/
 
 ## SCH 
 
-![](2023-12-19-15-42-01.png)
+![](2023-12-19-15-42-01.webp)
 
 
 

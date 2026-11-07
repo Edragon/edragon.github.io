@@ -53,7 +53,7 @@ https://www.electrodragon.com/?product=led-strips-control-box-and-remote-control
 
 ## Protection Type 
 
-![](2024-01-13-12-00-58.png)
+![](2024-01-13-12-00-58.webp)
 
 - in-tube 
 - in-glue 

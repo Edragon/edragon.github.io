@@ -70,7 +70,7 @@ Hardware Design - The input voltage range is 0 to 1.0 V when **TOUT** is connect
 
 ## Schematic 
 
-![](2025-05-14-17-59-15.png)
+![](2025-05-14-17-59-15.webp)
 
 The ESP8266EX schematics include seven aspects: 
 

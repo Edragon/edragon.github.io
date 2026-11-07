@@ -26,7 +26,7 @@ Pin Definitions
 
 ![](2025-04-01-13-12-55.png)
 
-![](2025-04-01-13-13-09.png)
+![](2025-04-01-13-13-09.webp)
 
 
 | Pin No. of Connector | Pin Name  | Arduino Pin | Functionality                                 |

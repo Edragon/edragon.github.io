@@ -15,7 +15,7 @@
 
 ### Single End Output with / power isolation 
 
-![](2025-01-20-18-15-57.png)
+![](2025-01-20-18-15-57.webp)
 
 
 

@@ -126,7 +126,7 @@ request
 
 - [[battery-pack-dat]]
 
-![](2025-09-03-14-16-10.png)
+![](2025-09-03-14-16-10.webp)
 
 
 ## test tools 
@@ -183,7 +183,7 @@ request
 
 ## battery charger for multiple series 
 
-![](2026-05-20-02-37-25.png)
+![](2026-05-20-02-37-25.webp)
 
 - [[conn-power-dat]]
 

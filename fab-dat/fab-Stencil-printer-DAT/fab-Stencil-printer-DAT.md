@@ -40,7 +40,7 @@
 
 2. stencil should able to lock on both left and right side 
 
-![](2025-12-06-17-20-25.png)
+![](2025-12-06-17-20-25.webp)
 
 
 3. no any other moving part except stencil and PCB holder
@@ -87,9 +87,9 @@ screwed printer
 
 ![](2025-09-01-20-40-00.png)
 
-![](2025-09-01-20-40-26.png)
+![](2025-09-01-20-40-26.webp)
 
-![](2025-09-01-20-40-37.png)
+![](2025-09-01-20-40-37.webp)
 
 ![](2025-09-10-13-46-30.png)
 

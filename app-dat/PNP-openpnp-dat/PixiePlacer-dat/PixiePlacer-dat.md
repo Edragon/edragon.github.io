@@ -5,7 +5,7 @@
 
 
 
-![](2025-02-13-17-46-21.png)
+![](2025-02-13-17-46-21.webp)
 
 - raw BOM file [[PixiePlacer-BOM-dat]]
 

@@ -58,20 +58,20 @@ Data format of HLW8032:
 
 ## Applications 
 
-![](2023-11-01-18-24-07.png)
+![](2023-11-01-18-24-07.webp)
 
 
 ## debugging software 
 
 ![](2024-12-18-17-08-33.png)
 
-![](2024-12-18-17-09-06.png)
+![](2024-12-18-17-09-06.webp)
 
 ## SCH 
 
 - [[AC-isolation-dat]]
 
-![](2025-05-20-12-28-21.png)
+![](2025-05-20-12-28-21.webp)
 
 - [[HLW8032-ISO-Version-dat]]
 

@@ -14,7 +14,7 @@ RSD-30 series == 30W Reliable Railway DC-DC Converter
 
 IRM-90-12ST == AC/DC Power Modules 80.4W 12V 6.7A Screw Terminal
 
-![](2025-09-18-12-57-32.png)
+![](2025-09-18-12-57-32.webp)
 
 RD-50 series - 50W Dual Output Switching Power Supply
 

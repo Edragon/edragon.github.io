@@ -21,7 +21,7 @@
 
 ## small antenna and gain 
 
-![](2026-10-29-14-26-13.png)
+![](2026-10-29-14-26-13.webp)
 
 
 ## antenna examples == high gain 

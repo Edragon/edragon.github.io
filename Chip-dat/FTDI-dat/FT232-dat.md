@@ -26,17 +26,17 @@ FTDI's FT232R technical specifications, attributes, parameters, and parts with s
 
 ## Pin Maps 
 
-![](2023-09-06-14-51-40.png)
+![](2023-09-06-14-51-40.webp)
 
 
 
 ## SCH 
 
-![](2026-07-23-20-31-06.png)
+![](2026-07-23-20-31-06.webp)
 
 SCH2 
 
-![](2026-07-23-20-31-37.png)
+![](2026-07-23-20-31-37.webp)
 
 
 

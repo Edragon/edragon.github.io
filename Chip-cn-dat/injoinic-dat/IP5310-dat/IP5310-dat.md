@@ -12,7 +12,7 @@ Integrated USB TYPE-C Power Bank System-On-Chip with 3A charger, 3.1A discharger
 
 datasheet == [[IP5310-datasheet.pdf]]
 
-![](2026-06-15-15-20-24.png)
+![](2026-06-15-15-20-24.webp)
 
 2. Applications
 - Power bank, Portable Charger

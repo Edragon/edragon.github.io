@@ -30,7 +30,7 @@ size definitions
 
 saved file size is 430 x 150 px 
 
-![](2026-03-12-02-13-20.png)
+![](2026-03-12-02-13-20.webp)
 
 
 2. import in eagleCAD brd, 

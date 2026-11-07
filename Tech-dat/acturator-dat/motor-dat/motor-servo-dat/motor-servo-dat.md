@@ -69,7 +69,7 @@
 - MG995 / MG996R micro servo - [[SCU1012-DAT]] == 13KG 
 
 
-![](2026-02-28-00-57-43.png)
+![](2026-02-28-00-57-43.webp)
 
 ![](2026-02-28-00-57-59.png)
 
@@ -150,7 +150,7 @@ The **Neutral Position** is the "home" or "zero-point" of a servo motor, typical
 
 install - [[servo-horn-dat]] and extra metal hinge - [[hinge-dat]] - [[servo-pushrod-dat]] - [[motor-servo-dat]] 
 
-![](2026-08-24-03-35-20.png)
+![](2026-08-24-03-35-20.webp)
 
 
 
@@ -336,7 +336,7 @@ connector to a [[crank-dat]]
 ## high torque servo 
 
 35KG version 
-![](2025-12-06-14-56-46.png)
+![](2025-12-06-14-56-46.webp)
 
 
 ## servo installation 

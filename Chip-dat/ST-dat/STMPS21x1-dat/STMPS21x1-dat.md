@@ -18,7 +18,7 @@ All features
 - CMOS and TTL compatible enable input
 - Undervoltage lockout (UVLO)
 
-![](2023-11-30-15-52-54.png)
+![](2023-11-30-15-52-54.webp)
 
 - [[RPI-CM4-expansion-board-dat]]
 

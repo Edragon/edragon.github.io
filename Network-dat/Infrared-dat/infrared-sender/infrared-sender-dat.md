@@ -63,4 +63,4 @@ Parameter	Symbol	Min.	TYP.	Max.	Unit	Condition
 
 [SFH 4441](https://www.mouser.com/datasheet/2/588/SFH_4441_EN-3561587.pdf) == Infrared Emitters Infrared 940nm
 
-![](2025-03-06-23-27-43.png)
+![](2025-03-06-23-27-43.webp)

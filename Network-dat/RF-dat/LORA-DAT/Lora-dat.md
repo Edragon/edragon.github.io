@@ -86,7 +86,7 @@ The main LoRa RF chips are the SX127X series, SX126X series, and SX130X series. 
 
 frequency hopping, spread spectrum, and other technologies are used to improve anti-interference and anti-collision capabilities.
 
-![](2025-06-27-13-25-29.png)
+![](2025-06-27-13-25-29.webp)
 
 - [[low-power-dat]] == LORA CAD Mode 
 

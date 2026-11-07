@@ -11,7 +11,7 @@ High-brightness Light Emitting Diode (LED) Driver Integrated Circuit
 
 ## wiring and board 
 
-![](2025-08-19-18-35-12.png)
+![](2025-08-19-18-35-12.webp)
 
 
 ## ref 

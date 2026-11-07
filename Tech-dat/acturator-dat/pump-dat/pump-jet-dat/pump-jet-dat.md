@@ -48,7 +48,7 @@ Motive fluid → Nozzle → Suction fluid drawn in → Mixing chamber → Outlet
 
 
 
-![](2025-12-06-13-48-35.png)
+![](2025-12-06-13-48-35.webp)
 
 
 

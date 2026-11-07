@@ -30,7 +30,7 @@ Genuine INA199B1DCKR SC-70-6 Bidirectional Current Sensing Amplifier Chip
 
 ZXCT1110W5 - ZXCT1107/1109/1110 - LOW POWER HIGH-SIDE CURRENT MONITORS 
 
-![](2026-03-05-13-39-19.png)
+![](2026-03-05-13-39-19.webp)
 
 SOT23 packages
 - 3-pin ZXCT1107/09

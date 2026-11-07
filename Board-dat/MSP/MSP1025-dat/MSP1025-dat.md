@@ -28,7 +28,7 @@ Excellent noise suppression; no audible noise even with ears close to the speake
 
 ## Wiring 
 
-![Wiring Diagram](2026-05-26-16-53-56.png)
+![Wiring Diagram](2026-05-26-16-53-56.webp)
 
 Connection to the [[speaker-dat]]:
 

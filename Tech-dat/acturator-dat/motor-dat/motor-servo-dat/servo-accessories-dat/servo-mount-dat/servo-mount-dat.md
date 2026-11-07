@@ -44,7 +44,7 @@ build 2 - linear
 
 https://www.printables.com/model/730367-rack-and-pinion-linear-servo-actuator
 
-![](2026-08-14-02-15-25.png)
+![](2026-08-14-02-15-25.webp)
 
 build 1 - flat mount 
 

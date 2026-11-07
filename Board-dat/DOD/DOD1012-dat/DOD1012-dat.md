@@ -26,7 +26,7 @@
 
 SCH 
 
-![](2026-06-21-16-10-58.png)
+![](2026-06-21-16-10-58.webp)
 
 ## Applications, category, tags, etc. 
 

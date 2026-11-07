@@ -8,7 +8,7 @@
 
 ## replace connector and switch connection by switching the resitors 
 
-![](2026-10-02-17-12-10.png)
+![](2026-10-02-17-12-10.webp)
 
 
 

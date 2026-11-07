@@ -5,7 +5,7 @@
  
 Wifi Lora ESP32 Dev. Board [product url](https://www.electrodragon.com/product/wifi-lora-32-dev-board/)
 
-![](2025-03-07-16-03-43.png)
+![](2025-03-07-16-03-43.webp)
 
 
 

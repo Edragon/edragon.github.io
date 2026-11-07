@@ -7,4 +7,4 @@ https://vksdr.com/pmod/
 
 - [[toslink-dat]]
   
-![](2025-04-25-03-37-44.png)
+![](2025-04-25-03-37-44.webp)

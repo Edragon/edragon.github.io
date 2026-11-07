@@ -36,7 +36,7 @@ This is especially important in applications like electric vehicles, power tools
 - Overall balancing
 
 
-![](2025-08-19-19-19-06.png)
+![](2025-08-19-19-19-06.webp)
 
 
 ## basic active charger 

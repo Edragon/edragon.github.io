@@ -32,7 +32,7 @@ The `HUSB238` USB PD sink chip is neat in that you can either use jumpers (reall
 
 Adafruit HUSB238 USB Type C Power Delivery Breakout
 
-![](2026-06-15-15-55-08.png)
+![](2026-06-15-15-55-08.webp)
 
 
 

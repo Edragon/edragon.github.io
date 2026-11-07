@@ -33,7 +33,7 @@ OP-Amp
 
 ### LED 
 
-![](2025-03-18-14-46-38.png)
+![](2025-03-18-14-46-38.webp)
 LEDs are a bit trickier in the fact that modeling them requires some knowledge about their parameters and curve-fitting. So, to model them I just looked up “LED ngspice”. 
 
 I found multiple people posting their “LED models” and I decided to go with this 
@@ -68,7 +68,7 @@ I found multiple people posting their “LED models” and I decided to go with 
 
 Schematic Setup 
 
-![](2025-03-18-15-39-01.png)
+![](2025-03-18-15-39-01.webp)
 
 SPICE Simulator 
 

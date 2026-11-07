@@ -73,7 +73,7 @@ This is dictated by the physics of radio. Below are the core advantages and trad
 
 ### 4dbi SMA
 
-![](2026-10-14-20-08-29.png)
+![](2026-10-14-20-08-29.webp)
 
 
 ### 4.84dbi IPEX

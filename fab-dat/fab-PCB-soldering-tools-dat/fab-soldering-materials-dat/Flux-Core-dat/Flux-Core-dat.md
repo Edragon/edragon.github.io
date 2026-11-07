@@ -51,7 +51,7 @@ This wire is highly versatile and can be heated using various tools:
 * **Induction Brazing:** Ideal for high-frequency, automated mass production on factory assembly lines.
 
 
-![](2026-06-23-19-03-20.png)
+![](2026-06-23-19-03-20.webp)
 
 
 

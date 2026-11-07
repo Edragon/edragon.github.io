@@ -23,7 +23,7 @@ Boost will be enabled by pressing the KEY or insertion a load at standby mode wh
 
 ## build 
 
-![](2026-06-15-16-01-53.png)
+![](2026-06-15-16-01-53.webp)
 
 - [[XB7608-dat]] - [[xysemi-dat]]
 

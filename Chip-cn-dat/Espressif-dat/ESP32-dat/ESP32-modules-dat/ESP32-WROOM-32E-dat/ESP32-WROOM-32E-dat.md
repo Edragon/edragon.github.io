@@ -17,7 +17,7 @@
 
 ## pin definitions 
 
-![](2025-07-18-15-54-04.png)
+![](2025-07-18-15-54-04.webp)
 
 | L_Pin     | Func                          | Note | R_Pin | Func      | Note |
 | --------- | ----------------------------- | ---- | ----- | --------- | ---- |
@@ -84,7 +84,7 @@ The pins HS1_STROBE, HS1_DATA4, HS1_DATA5, HS1_DATA6, and HS1_DATA7 on the ESP32
 
 ## SCH periperhals 
 
-![](14-36-18-09-08-2023.png)
+![](14-36-18-09-08-2023.webp)
 
 
 

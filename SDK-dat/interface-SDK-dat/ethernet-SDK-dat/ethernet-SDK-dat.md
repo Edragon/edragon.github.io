@@ -6,7 +6,7 @@
 
 This example demonstrates the basic usage of the Ethernet driver and `esp_netif` in ESP-IDF. The Ethernet driver initialization is separated into a dedicated subcomponent, making it clear how to distinguish between driver and `esp_netif` initialization. The workflow is illustrated below:
 
-![](2025-08-09-13-00-18.png)
+![](2025-08-09-13-00-18.webp)
 
 ### RMII Interface Definition
 

@@ -75,7 +75,7 @@ Please note all pins pitch are 2.0mm.
 
 arduino-main2\BSP\DVA\DVA1015\nrf24_client\nrf24_client.ino
 
-![](2026-07-10-15-45-52.png)
+![](2026-07-10-15-45-52.webp)
 
 ## ref 
 

@@ -20,7 +20,7 @@ TPS63900 1.8-V to 5.5-V, 75-nA IQ Buck-boost Converter with Input Current Limit 
 
 build 2 - power switch from VUSB or VBAT 
 
-![](2026-08-21-16-19-37.png)
+![](2026-08-21-16-19-37.webp)
 
 
 ## ref 

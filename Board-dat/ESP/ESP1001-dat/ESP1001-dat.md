@@ -7,7 +7,7 @@
 
 ## Board map and dimension 
 
-![](2024-08-16-18-42-09.png)
+![](2024-08-16-18-42-09.webp)
 
 ## IO definitions 
 

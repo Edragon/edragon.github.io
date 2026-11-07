@@ -11,9 +11,9 @@ https://www.electrodragon.com/product/esp32-pico-kit-dev-board-v4/
 
 ## Board Map 
 
-![](2024-02-28-16-39-25.png)
+![](2024-02-28-16-39-25.webp)
 
-![](2024-02-28-16-39-44.png)
+![](2024-02-28-16-39-44.webp)
 
 
 ## ref 

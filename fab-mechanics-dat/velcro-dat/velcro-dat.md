@@ -11,13 +11,13 @@
 
 fix a [[rc-boat]] which does not have the top lad with [[velcro-dat]]
 
-![](2026-06-09-14-04-25.png)
+![](2026-06-09-14-04-25.webp)
 
 
 
 ## two sides structure 
 
-![](2026-06-09-14-11-08.png)
+![](2026-06-09-14-11-08.webp)
 
 
 ## specs 

@@ -101,7 +101,7 @@ build 4
 
 - [[mosfet-dat]]
 
-![](2026-06-18-19-01-13.png)
+![](2026-06-18-19-01-13.webp)
 
 - [[memory-dat]] - SC8F289X - Cmsemicon touch enhanced flash memory 8-bit CMOS chip. - [[Cmsemicon-dat]]
 
@@ -113,7 +113,7 @@ SC8F2892 is a CmsemiconFLASH chip, Flash 4Kx14Bit, RAM256B, built-in RC oscillat
 
 ### build 1 2
 
-![](2026-04-21-21-11-52.png)
+![](2026-04-21-21-11-52.webp)
 
 ![](2026-06-02-19-19-06.png)
 

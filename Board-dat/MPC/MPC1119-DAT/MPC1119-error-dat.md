@@ -20,7 +20,7 @@ and reconnect the pins indicated by the two **ORANGE** boxes by a wire.
 
 This is how to fix:
 
-![](2025-04-28-12-13-11.png)
+![](2025-04-28-12-13-11.webp)
 
 This is how it looks like after the fix, note the blue cut:
 

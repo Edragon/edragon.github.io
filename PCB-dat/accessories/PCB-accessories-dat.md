@@ -28,7 +28,7 @@ PCB holder
 
 magnetic plate 
 
-![](2025-09-30-10-15-40.png)
+![](2025-09-30-10-15-40.webp)
 
 
 

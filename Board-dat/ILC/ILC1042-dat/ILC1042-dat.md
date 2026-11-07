@@ -35,7 +35,7 @@ All Specs:
 
 ## Pin Definitions 
 
-![](2024-02-27-16-26-17.png)
+![](2024-02-27-16-26-17.webp)
 
 
 ## Note !! 

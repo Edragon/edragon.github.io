@@ -1,7 +1,7 @@
 
 # Curiosity-rover-dat
 
-![](2025-11-28-14-15-08.png)
+![](2025-11-28-14-15-08.webp)
 
 
 ## reference 
@@ -14,7 +14,7 @@
 
 ## chassis 
 
-![](2025-11-29-20-10-44.png)
+![](2025-11-29-20-10-44.webp)
 
 - [[rocker-bogie-suspension-dat]]
 

@@ -21,6 +21,6 @@ Using the FIFO as data buffering, data acquisition is greatly simple, users only
 
 Control sequence is as follows:
 
-![](2023-11-08-13-55-54.png)
+![](2023-11-08-13-55-54.webp)
 
 ![](2023-11-08-13-56-02.png)

@@ -122,7 +122,7 @@ arduino shield with [[neo-6-dat]] + [[SD-dat]]
 
 - [[Logic-level-shifter-dat]]
 
-![](2026-01-19-13-30-15.png)
+![](2026-01-19-13-30-15.webp)
 
 
 
@@ -136,7 +136,7 @@ arduino shield with [[neo-6-dat]] + [[SD-dat]]
 
 socket interface - [[protection-power-dat]] - [[location-dat]]
 
-![](2026-07-31-19-57-26.png)
+![](2026-07-31-19-57-26.webp)
 
 
 

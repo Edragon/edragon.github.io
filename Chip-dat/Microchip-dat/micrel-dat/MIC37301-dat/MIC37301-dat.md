@@ -30,7 +30,7 @@ Adjustable Voltage with Flag
 
 
 
-![](2026-11-06-03-03-26.png)
+![](2026-11-06-03-03-26.webp)
 
 
 

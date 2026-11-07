@@ -71,7 +71,7 @@ SSC338Q == processor
 
 ![](2026-10-01-03-31-17.png)
 
-![](2026-10-01-03-31-28.png)
+![](2026-10-01-03-31-28.webp)
 
 ## board info 
 
@@ -97,7 +97,7 @@ Form factor	Modular board (no enclosure)
 
 - [[SSC338-dat]] - [[conn-DF56C-dat]] - [[IMX415-dat]]
 
-![](2026-10-02-01-46-37.png)
+![](2026-10-02-01-46-37.webp)
 
 
 

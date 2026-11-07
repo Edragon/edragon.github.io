@@ -24,7 +24,7 @@ Pulse Width Modulator Control Circuit
 
 ## SCH 
 
-![](2025-01-09-17-49-35.png)
+![](2025-01-09-17-49-35.webp)
 
 - https://www.youtube.com/watch?v=T8C7dp0U3Ig
 

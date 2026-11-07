@@ -29,7 +29,7 @@ The HAA9802 is a mono audio power amplifier featuring a capacitive boost, anti-c
 ● Portable speakers / Card speakers
 ● Bluetooth speakers / AI speakers
 
-![](2026-06-18-17-14-29.png)
+![](2026-06-18-17-14-29.webp)
 
 ![](2026-06-18-17-14-45.png)
 

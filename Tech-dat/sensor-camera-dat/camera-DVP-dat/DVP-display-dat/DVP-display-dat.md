@@ -105,7 +105,7 @@ It’s a **parallel interface** commonly used in cameras, simple LCDs, or microc
 
 8-bit Y2 ~ Y9 // HSYNC + VSYNC + PCLK + XCLK + SCL + SDA + **RST
 
-![](2025-08-09-17-01-01.png)
+![](2025-08-09-17-01-01.webp)
 
 
 

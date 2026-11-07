@@ -57,7 +57,7 @@ build 4 with [[mosfet-dat]] control power en
 
 build 3 
 
-![](2026-10-01-17-50-05.png)
+![](2026-10-01-17-50-05.webp)
 
 - [[MT9700-dat]] - [[microsd-dat]]
 

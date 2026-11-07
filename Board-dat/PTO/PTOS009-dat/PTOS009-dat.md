@@ -12,7 +12,7 @@
 [official web info](http://www.hhgj.com.cn/products_detail/&productId=955152e5-de39-47da-96f7-eafe1444330c.html)
 
 
-![](2025-03-04-14-02-02.png)
+![](2025-03-04-14-02-02.webp)
 
 
 An adjustable constant temperature soldering iron is a soldering iron that can adjust the temperature as needed. It has a constant temperature function and can perform precise welding and soldering operations at different temperatures. This type of soldering iron is usually composed of components such as a soldering iron tip, a heating element, a temperature controller, and a plug.

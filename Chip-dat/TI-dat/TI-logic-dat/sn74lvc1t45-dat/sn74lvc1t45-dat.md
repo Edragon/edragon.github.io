@@ -17,7 +17,7 @@ This allows for universal low-voltage bidirectional translation between any of t
 
 ## diagram 
 
-![](2026-09-05-15-16-09.png)
+![](2026-09-05-15-16-09.webp)
 
 
 

@@ -29,7 +29,7 @@ Click "Board Setup" and configure according to the steps below.
 
 ![](2025-09-24-15-45-11.png)
 
-![](2025-09-25-12-58-42.png)
+![](2025-09-25-12-58-42.webp)
 
 ### flash step by step 
 

@@ -34,7 +34,7 @@ run c file oled_1in3
     OLED Display String 
     Showing 
 
-![](2025-08-07-18-41-32.png)
+![](2025-08-07-18-41-32.webp)
 
 
 ## FPC LCD screen test under linux 

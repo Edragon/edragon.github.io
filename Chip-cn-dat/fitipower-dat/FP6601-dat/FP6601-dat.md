@@ -13,7 +13,7 @@ The FP6601 is a fast charge protocol controller and follows Quick Charge 2.0 spe
 
 build 1 
 
-![](2026-10-14-01-55-56.png)
+![](2026-10-14-01-55-56.webp)
 
 - [[NTMP2104-dat]] == NTMP2104-3
 

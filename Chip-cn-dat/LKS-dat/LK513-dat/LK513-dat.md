@@ -22,7 +22,7 @@ It also built in a 5V/30mA LDO for MCU or other device power supply, and have th
 
 ## build 
 
-![](2026-06-18-18-24-58.png)
+![](2026-06-18-18-24-58.webp)
 
 - [[MCU-dat]] - [[GVM-dat]] - [[LK513-dat]]
 

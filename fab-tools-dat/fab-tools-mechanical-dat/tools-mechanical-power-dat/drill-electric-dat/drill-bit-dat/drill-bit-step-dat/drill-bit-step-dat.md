@@ -6,7 +6,7 @@
 - [[drill-bit-dat]] - [[drill-bit-step-dat]]
 
 
-![](2026-09-20-17-02-44.png)
+![](2026-09-20-17-02-44.webp)
 
 
 ### Step Drill Bit: Straight Flute vs. Spiral Flute

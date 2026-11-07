@@ -138,14 +138,14 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 - [[MCU-dat]] - [[serial-dat]] - [[NBL1064-dat]]
 
-![](2026-02-04-17-58-10.png)
+![](2026-02-04-17-58-10.webp)
 
 
 
 
 ## master and slave mode 
 
-![](2026-02-04-18-06-48.png)
+![](2026-02-04-18-06-48.webp)
 
 
 master connect to multiple slave mode 

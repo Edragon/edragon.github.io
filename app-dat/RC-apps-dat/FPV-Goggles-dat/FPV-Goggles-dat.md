@@ -41,7 +41,7 @@ good example from [[hawkeye-dat]] with [[antenna-diversity-dat]] - [[FPV-goggles
 - version hawkeye goggles V2 
 
 
-![](2026-11-07-02-59-14.png)
+![](2026-11-07-02-59-14.webp)
 
 ![](2026-11-07-02-59-35.png)
 

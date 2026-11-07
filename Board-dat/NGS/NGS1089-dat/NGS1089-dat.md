@@ -62,7 +62,7 @@ R1.1 version slightly optimize board layout, all antenna connectors on same side
 
 ## Demo video 
 
-![](2024-06-25-17-01-37.png)
+![](2024-06-25-17-01-37.webp)
 
 - https://x.com/electro_phoenix/status/1002174191238443008
 - https://x.com/electro_phoenix/status/1001089408806797312

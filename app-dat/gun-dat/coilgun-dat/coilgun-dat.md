@@ -23,7 +23,7 @@
 - When the coilgun is fully charged, the red LED will light up. Because charging takes a long time and battery power decreases, the red LED may not light. If the blue LED is on, you can fire. **High voltage—danger**!
 - Before installing capacitors or if you need to re-solder during use, always discharge the capacitors first. Use a wire with plastic insulation, exposing copper at both ends. Hold the plastic part and touch both capacitor terminals with the copper ends to discharge. Otherwise, the capacitor may short-circuit and cause danger!
 
-![](2025-11-14-19-00-02.png)
+![](2025-11-14-19-00-02.webp)
 
 ### Main Technologies of Coilgun
 

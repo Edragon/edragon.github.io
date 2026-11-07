@@ -15,7 +15,7 @@ getting the file that you want to play on ESP32. After that, download and instal
 
 Once the installation is complete, open the Audacity app and then go to file > Open and select the audio file to edit.
 
-![](2024-12-24-17-48-26.png)
+![](2024-12-24-17-48-26.webp)
 
 After that, navigate to File > Export > Export as WAV to save the audio file in .wav format.
 

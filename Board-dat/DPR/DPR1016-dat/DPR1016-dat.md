@@ -21,7 +21,7 @@ https://www.electrodragon.com/product-category/modules/programmer/ic-socket-prog
 
 covert map 
 
-![](2025-12-12-17-49-16.png)
+![](2025-12-12-17-49-16.webp)
 
 bottom side view 
 

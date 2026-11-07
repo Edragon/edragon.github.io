@@ -75,11 +75,11 @@ green box == [[relay-signal-dat]] // orange box == BT module [[NBL1101-dat]] // 
 
 ## demo 
 
-![](2026-04-22-22-31-57.png)
+![](2026-04-22-22-31-57.webp)
 
 ![](2026-04-22-22-32-09.png)
 
-![](2026-04-22-22-32-18.png)
+![](2026-04-22-22-32-18.webp)
 
 demo code - [[HDSC-SDK-dat]] - [[HC32F003-dat]] - https://github.com/Edragon/MCU-HDSC-APP
 

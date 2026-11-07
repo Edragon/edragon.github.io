@@ -67,7 +67,7 @@
 
 [[CR2032-dat]] - battery enable 
 
-![](2026-03-01-15-00-49.png)
+![](2026-03-01-15-00-49.webp)
 
 
 [[AG3-dat]] - battery enable == 2x 1.5V

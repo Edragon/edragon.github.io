@@ -160,7 +160,7 @@ EDRF can store up to 32 remote control buttons (each channel can learn and ident
 
 min. SCH 
 
-![](2025-06-25-15-19-01.png)
+![](2025-06-25-15-19-01.webp)
 
 ## Note 
 

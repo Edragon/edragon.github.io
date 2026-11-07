@@ -11,7 +11,7 @@
 
 ## SIM Cards Holder - EGA1010
 
-![](2024-06-12-16-34-02.png)
+![](2024-06-12-16-34-02.webp)
 
 - 2x Nano SIM
 - 2x Mini SIM

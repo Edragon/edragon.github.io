@@ -65,7 +65,7 @@ install propeller - [[propeller-dat]] - [[motor-dat]]
 - PCB dimension == 25.4 
 - motor bottom hole == 1.8 
 
-![](2025-09-12-12-31-55.png)
+![](2025-09-12-12-31-55.webp)
 
 
 
@@ -118,7 +118,7 @@ config by [[USB-dat]] USB port
 
 ### modes setup 
 
-![](2025-09-03-12-11-51.png)
+![](2025-09-03-12-11-51.webp)
 
 ### motors setup 
 

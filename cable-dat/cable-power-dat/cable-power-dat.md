@@ -18,7 +18,7 @@
 
 - [[SC100-dat]]
 
-![](2026-09-06-04-29-52.png)
+![](2026-09-06-04-29-52.webp)
 
 
 ## Nominal Cross-sectional Area

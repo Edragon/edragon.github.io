@@ -68,7 +68,7 @@ Debug with telnet
 
 ## schematic 
 
-![](2025-07-29-18-57-41.png)
+![](2025-07-29-18-57-41.webp)
 
 
 ## firmware 

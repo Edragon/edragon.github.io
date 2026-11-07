@@ -39,7 +39,7 @@ Among them,
 
 The output frequency is adjusted to more than 700 Hz, as shown in the figure below:
 
-![](2025-01-09-17-54-29.png)
+![](2025-01-09-17-54-29.webp)
 
 
 

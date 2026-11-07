@@ -17,7 +17,7 @@ Here are schematics showing how to interface a unipolar stepper motor to four co
 
 ## SCH 
 
-![](2023-12-04-18-49-16.png)
+![](2023-12-04-18-49-16.webp)
 
 - 红色 =red; 
 - 橙色=orange; 

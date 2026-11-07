@@ -38,7 +38,7 @@ To achieve LoRaWAN network coverage in a city or other area, four components are
 - GATEWAY (gateway) can communicate with the server via wired networks or 3/4/5G wireless networks.
 - Main server operators include TTN, etc. For self-hosted cloud services, please refer to lorawan-stack and chirpstack.
 
-![](2025-06-26-19-23-18.png)
+![](2025-06-26-19-23-18.webp)
 
 
 

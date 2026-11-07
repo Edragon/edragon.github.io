@@ -13,7 +13,7 @@
 
 ## create a new model for this 
 
-![](2026-07-06-19-52-56.png)
+![](2026-07-06-19-52-56.webp)
 
 
 
@@ -79,12 +79,12 @@ Disconnect your `IN1/IN2` motor driver board and measure the bare receiver signa
 
 ## final result and initiate screen 
 
-![](2026-07-06-19-52-24.png)
+![](2026-07-06-19-52-24.webp)
 
 
 ## ELRS-RX setup 
 
-![](2026-07-06-19-51-13.png)
+![](2026-07-06-19-51-13.webp)
 
 
 

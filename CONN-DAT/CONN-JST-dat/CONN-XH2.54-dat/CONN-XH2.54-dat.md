@@ -7,7 +7,7 @@
 - [[3D-dat]] - https://grabcad.com/library/jst-xh-2-54mm-generic-connector-set-1
 
 
-![](2026-08-15-20-33-11.png)
+![](2026-08-15-20-33-11.webp)
 
 
 ## to PCB Connector socket 

@@ -40,7 +40,7 @@
 
 ![](2024-11-13-15-25-47.png)
 
-![](2024-11-13-15-29-22.png)
+![](2024-11-13-15-29-22.webp)
 
 - **3-Pin Fans**: Basic control via voltage adjustment; supports speed monitoring but lacks precise control. Cost-effective, suitable for budget setups.
   

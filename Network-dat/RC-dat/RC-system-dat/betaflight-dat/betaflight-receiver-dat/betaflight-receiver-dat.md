@@ -68,7 +68,7 @@ RSSI Channel == disabled or AUX1 .. AUX12?
 `Channel Map` == AETR1234
 
 
-![](2026-09-04-17-37-55.png)
+![](2026-09-04-17-37-55.webp)
 
 
 ### TELEMETRY
@@ -110,7 +110,7 @@ Telemetry (`TELEMETRY` Telemetry output)
 
 - [[FRSKY-dat]] - [[FHSS-dat]] - [[rc-protocols-dat]]
 
-![](2026-09-17-13-40-01.png)
+![](2026-09-17-13-40-01.webp)
 
 ## ref 
 

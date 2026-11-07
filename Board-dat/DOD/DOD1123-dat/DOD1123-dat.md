@@ -10,7 +10,7 @@
 
 ## board map 
 
-![](2025-10-08-14-20-58.png)
+![](2025-10-08-14-20-58.webp)
 
 ## RP2350A Board Specifications
 

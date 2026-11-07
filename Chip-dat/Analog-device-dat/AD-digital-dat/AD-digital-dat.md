@@ -48,7 +48,7 @@ frequency systems, simplifying system architecture and
 reducing cost.
 
 
-![](2026-09-22-15-15-47.png)
+![](2026-09-22-15-15-47.webp)
 
 
 

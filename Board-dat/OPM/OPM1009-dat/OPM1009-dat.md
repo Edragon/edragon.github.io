@@ -42,7 +42,7 @@ The EDXL6009 is a high-performance boost (BOOST) module with a 4A switching curr
 -   IN+ Input positive, IN- Input negative!
 -   OUT+ Output positive, OUT- Output negative
 
-![](2025-04-15-15-37-40.png)
+![](2025-04-15-15-37-40.webp)
 
 ### Test Results
 

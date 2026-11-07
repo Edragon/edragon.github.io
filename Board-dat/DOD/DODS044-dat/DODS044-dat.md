@@ -28,7 +28,7 @@ Therefore, if the board you purchased is EPM570T100C5N, the board should have 4 
 
 ## power supply 
 
-![](2024-11-04-17-51-02.png)
+![](2024-11-04-17-51-02.webp)
 
 The development board is powered by 5V input. We recommend purchasing a standard 5V/2A power supply from our store, with positive inside and negative outside. 
 
@@ -46,7 +46,7 @@ If you use other power supplies, please make sure the output voltage is 5V to av
 
 - please reply to the order email to get 
 
-![](DODS044-SCH1-2024-11-04-18-50-30.png)
+![](DODS044-SCH1-2024-11-04-18-50-30.webp)
 
 
 

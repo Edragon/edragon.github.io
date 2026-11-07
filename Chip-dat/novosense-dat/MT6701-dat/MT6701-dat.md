@@ -5,7 +5,7 @@ CN datasheet == [[MT6701_Rev.1.7_中文版.pdf]]
 
 ## ref SCH 
 
-![](MT6701-SCH.png)
+![](MT6701-SCH.webp)
 
 
 

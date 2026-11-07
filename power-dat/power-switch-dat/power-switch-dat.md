@@ -29,7 +29,7 @@ The TPS22929D device provides circuit breakerfunctionality by latching off the p
 
 The TPS22929D is available in a small, space-saving6-pin SOT23 package and is characterized foroperation over the free-air temperature range of–40°C to 85°C.
 
-![](2026-09-03-15-51-15.png)
+![](2026-09-03-15-51-15.webp)
 
 ## DIO7003HCST5
 

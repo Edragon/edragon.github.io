@@ -45,7 +45,7 @@ one side circuit
 
 - [[S8050-dat]] - [[diode-dat]]
 
-![](2026-08-04-18-39-52.png)
+![](2026-08-04-18-39-52.webp)
 
 ## 2. Gate Driving Dynamics (Why P-Channel High-Side Matters)
 

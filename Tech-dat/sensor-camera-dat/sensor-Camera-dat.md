@@ -242,7 +242,7 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 ### SPI Camera Interface 
 
-![](2025-06-30-14-28-40.png)
+![](2025-06-30-14-28-40.webp)
 
 
 
@@ -257,7 +257,7 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 - [[camera-thermal-dat]]
 
-![](2026-10-01-16-50-49.png)
+![](2026-10-01-16-50-49.webp)
 
 
 - 人车检测模型

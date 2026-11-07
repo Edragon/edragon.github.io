@@ -8,4 +8,4 @@ WIKI - https://en.wikipedia.org/wiki/78xx
 
 ## SCH 
 
-![](2024-10-27-14-32-28.png)
+![](2024-10-27-14-32-28.webp)

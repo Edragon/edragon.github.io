@@ -2,7 +2,7 @@
 # li-ion-battery-dat
 
 
-![](2025-03-07-14-11-10.png)
+![](2025-03-07-14-11-10.webp)
 
 ## How to revive / repair / fix a li-ion battery 
 

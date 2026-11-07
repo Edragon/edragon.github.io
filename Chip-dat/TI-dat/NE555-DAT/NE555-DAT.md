@@ -25,7 +25,7 @@ ICM7555, ICM7556 - [[renesas-dat]] - [[NE555-dat]] - 555 Type, Timer/Oscillator 
 
 ## Function  
 
-![](2025-06-20-18-06-53.png)
+![](2025-06-20-18-06-53.webp)
 
 The NE555 timer IC can generate:
 

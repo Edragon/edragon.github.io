@@ -58,12 +58,12 @@ If your device requires sudden bursts of power (LEDs, buzzers, or wireless trans
 
 build PCB 
 
-![](2026-09-06-01-26-37.png)
+![](2026-09-06-01-26-37.webp)
 
 
 insert from the side 
 
-![](2026-07-20-21-03-08.png)
+![](2026-07-20-21-03-08.webp)
 
 
 

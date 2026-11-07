@@ -43,7 +43,7 @@ Models selector 选型工具
 
 ## genius modules packaging 
 
-![](2025-11-25-17-01-49.png)
+![](2025-11-25-17-01-49.webp)
 
 
 

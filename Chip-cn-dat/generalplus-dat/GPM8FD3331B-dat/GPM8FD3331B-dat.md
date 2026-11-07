@@ -116,7 +116,7 @@ GPM8F3331B, a highly integrated microcontroller, features a pipelined 1T 8051-ba
 
 ## pins 
 
-![](2026-06-15-17-40-05.png)
+![](2026-06-15-17-40-05.webp)
 
 
 

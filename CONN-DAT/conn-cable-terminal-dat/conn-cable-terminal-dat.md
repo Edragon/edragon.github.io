@@ -91,7 +91,7 @@ CE-1X CE-2X Closed-End Terminals, Nipple/Tooth Wire Connectors, Quick-Connect Ca
 
 3.2mm and 4.2mm inner diameter terminal blocks, cold-pressed terminals, round nose terminals, bare terminals, connectors.
 
-![](2026-02-06-19-54-23.png)
+![](2026-02-06-19-54-23.webp)
 
 ## use guide 
 

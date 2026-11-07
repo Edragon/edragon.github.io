@@ -20,7 +20,7 @@
 ![](2026-03-13-16-45-57.png)
 
 
-![](2026-03-13-16-44-24.png)
+![](2026-03-13-16-44-24.webp)
 
 
 TPS5450 5-A, Wide Input Range, Step-Down Converter

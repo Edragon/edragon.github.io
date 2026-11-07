@@ -33,7 +33,7 @@ back
 
 - [[VTX-openIPC-dat]] - [[VTX-dat]] - [[HI3516-dat]] - [[VTX-openIPC-build-dat]] - [[IVG-G2S-dat]]
 
-![](2026-10-02-16-08-34.png)
+![](2026-10-02-16-08-34.webp)
 
 
 ![](2026-10-30-21-13-09.png)

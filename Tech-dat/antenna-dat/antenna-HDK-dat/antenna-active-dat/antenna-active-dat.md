@@ -16,7 +16,7 @@
 
 
 
-![alt text](image.png)
+![alt text](image.webp)
 
 
 GNSS active antenna design is default solution. 

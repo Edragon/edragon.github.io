@@ -125,7 +125,7 @@ Community version flashing tools
     - Click "Format" and confirm by clicking **Yes** in the dialog.
     - Wait for the formatting process to complete.
 
-![](2025-08-08-12-22-26.png)
+![](2025-08-08-12-22-26.webp)
 
 #### Step 2: Burn the System Image
 

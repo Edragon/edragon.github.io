@@ -69,7 +69,7 @@
 focus is not positioned on the sensor after immersion in oil or water
 
 
-![](2025-12-12-18-19-56.png)
+![](2025-12-12-18-19-56.webp)
 
 ![](2025-12-12-18-20-23.png)
 
@@ -88,13 +88,13 @@ M12 screw mount lens,
 
 ![](2025-12-10-15-23-07.png)
 
-![](2025-12-10-15-23-50.png)
+![](2025-12-10-15-23-50.webp)
 
 ![](2025-12-10-15-24-08.png)
 
 inside of the lens 
 
-![](2025-12-10-15-24-28.png)
+![](2025-12-10-15-24-28.webp)
 
 ## lens and oil 
 
@@ -394,7 +394,7 @@ Notes:
 
 ## specs 
 
-![](2025-12-10-15-11-17.png)
+![](2025-12-10-15-11-17.webp)
 
 
 ## infrared lens 

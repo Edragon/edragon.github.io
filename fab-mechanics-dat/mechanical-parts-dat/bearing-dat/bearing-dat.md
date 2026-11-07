@@ -35,7 +35,7 @@ Technical Breakdown of the Name: 6201-2RS
 
 SK series 
 
-![](2025-11-30-01-07-43.png)
+![](2025-11-30-01-07-43.webp)
 
 ## linear bearing 
 

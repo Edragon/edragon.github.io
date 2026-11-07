@@ -16,7 +16,7 @@ SCH
 
 SCH2 
 
-![](2025-04-01-15-08-51.png)
+![](2025-04-01-15-08-51.webp)
 
 
 ## Applications, category, tags, etc. 

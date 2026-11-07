@@ -19,7 +19,7 @@
 
 ## setup 
 
-![](2025-05-07-14-25-01.png)
+![](2025-05-07-14-25-01.webp)
 
 - 1: Set component information
 - 2: Set the position and number of rows/columns of the component tray

@@ -80,7 +80,7 @@ ESP32-C3
 
 ## download to mulitple addresses
 
-![](2025-07-25-18-56-19.png)
+![](2025-07-25-18-56-19.webp)
 
 ## ref 
 

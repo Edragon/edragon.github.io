@@ -14,7 +14,7 @@ https://circuitpython.org/board/yd_esp32_s3_n16r8/
 
 Downloading adafruit-circuitpython-yd_esp32_s3_n16r8-en_US-9.2.8.uf2...
 
-![](2025-07-31-13-10-33.png)
+![](2025-07-31-13-10-33.webp)
 
 
 

@@ -13,7 +13,7 @@ The 4x4 Keypad is a general purpose 16 button (4x4) matrix keypad. It comes read
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2026-01-18-17-08-05.png)
+![](2026-01-18-17-08-05.webp)
 
 
 ## Applications, category, tags, etc. 

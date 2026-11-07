@@ -14,11 +14,11 @@ HVAC, dehumidifiers, testing and inspection equipment, consumer products, automo
 ## Product Highlights
 Fully interchangeable, low cost, long-term stability, relative humidity and temperature measurement, ultra-long signal transmission distance, digital signal output, precise calibration, extremely low power consumption, standard single-bus digital interface, standard I2C bus digital interface, freely selectable communication methods.
 
-![](2025-06-10-19-08-47.png)
+![](2025-06-10-19-08-47.webp)
 
 ![](2025-06-10-19-09-06.png)
 
-![](2025-06-10-19-11-15.png)
+![](2025-06-10-19-11-15.webp)
 
 ## Measurement Range
 Temperature: -40~+80°C

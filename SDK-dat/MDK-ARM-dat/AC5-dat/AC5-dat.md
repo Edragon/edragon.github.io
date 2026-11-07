@@ -20,7 +20,7 @@ Arm Compiler 5.06 update 7 (build 960) -- r5p6-07rel1 -- 14 Sep 2020
 
 management project items - folder extensions - ARM compiler 
 
-![](2025-08-28-13-57-47.png)
+![](2025-08-28-13-57-47.webp)
 
 
 ## ref 

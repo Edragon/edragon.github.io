@@ -32,11 +32,11 @@ use [[meter-voltage-current-dat]] instead of [[meter-current-dat]] only
 
 seperated power 
 
-![](2026-07-14-15-45-57.png)
+![](2026-07-14-15-45-57.webp)
 
 Shared power 
 
-![](2026-07-14-15-47-09.png)
+![](2026-07-14-15-47-09.webp)
 
 
 ## selection 

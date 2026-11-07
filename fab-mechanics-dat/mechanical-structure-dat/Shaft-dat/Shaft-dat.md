@@ -31,7 +31,7 @@
 
 - [[shaft-coupling-dat]] - [[Shaft-Cross-Connector-dat]]
 
-![](2025-12-10-01-54-55.png)
+![](2025-12-10-01-54-55.webp)
 
 
 ## tech 

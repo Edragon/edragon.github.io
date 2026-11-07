@@ -31,7 +31,7 @@
 
 SCT013 Models
 
-![](2025-05-21-17-20-47.png)
+![](2025-05-21-17-20-47.webp)
 
 **STC 013 000 Arduino Interfacing**
 
@@ -43,7 +43,7 @@ STC-013-000 modules come without Sampling resistor, it provide current output pr
 
 All the remaining module in STC-013 series comes with Inbuilt burden resistor. No need to add externally.
 
-![](2025-05-21-17-21-22.png)
+![](2025-05-21-17-21-22.webp)
 
 
 ## code 

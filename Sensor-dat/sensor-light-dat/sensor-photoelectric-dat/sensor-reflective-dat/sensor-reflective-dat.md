@@ -7,7 +7,7 @@ Transmissive Optical Sensor with Phototransistor Output
 
 ![](2026-02-22-14-01-02.png)
 
-![](2026-02-22-14-02-18.png)
+![](2026-02-22-14-02-18.webp)
 
 
 

@@ -38,7 +38,7 @@ based on - [[KCD4-dat]]
 
 ![](2025-06-07-14-04-44.png)
 
-![](2025-06-07-14-04-58.png)
+![](2025-06-07-14-04-58.webp)
 
 ### 🧠 Switch Pin Layout (Bottom View)
 

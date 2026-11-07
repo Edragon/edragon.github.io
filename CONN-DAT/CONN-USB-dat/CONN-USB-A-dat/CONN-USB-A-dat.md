@@ -5,7 +5,7 @@
 
 - [[CONN-USB-receptacle-dat]] - [[CONN-USB-plug-dat]] - [[CONN-USB-A-dat]] - [[kicad-footprint-dat]]
 
-![](2025-10-10-18-23-34.png)
+![](2025-10-10-18-23-34.webp)
 
 - [[CH554-dat]] - [[CH55x-dat]]
 
@@ -25,7 +25,7 @@ symbol == USB_A == USB Type A connector
 
 VBUS | D- | D+ | GND
 
-![](2024-05-09-18-00-58.png)
+![](2024-05-09-18-00-58.webp)
 
 ![](2024-05-09-18-01-18.png)
 

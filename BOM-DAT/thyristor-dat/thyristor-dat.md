@@ -29,7 +29,7 @@ A **thyristor (SCR)** gate is triggered by a positive (high) voltage pulse appli
 - **Package**: Stud type (high-power package for heatsinking)
 
 
-![](2025-11-08-19-19-07.png)
+![](2025-11-08-19-19-07.webp)
 
 
 ![](2025-11-08-19-20-29.png)

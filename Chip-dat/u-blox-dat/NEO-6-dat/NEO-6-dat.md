@@ -9,7 +9,7 @@
 
 https://content.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
 
-![](2026-01-17-16-21-06.png)
+![](2026-01-17-16-21-06.webp)
 
 
 ## NEO-6M

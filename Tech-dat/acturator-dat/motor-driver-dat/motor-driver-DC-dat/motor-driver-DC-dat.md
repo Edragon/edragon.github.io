@@ -109,7 +109,7 @@ These are essential or desirable features for a DC motor driver IC, especially f
 
 有刷电机滑板车驱动器 == 12V 
 
-![](2026-08-30-22-20-49.png)
+![](2026-08-30-22-20-49.webp)
 
 - [[battery-holder-dat]]
 

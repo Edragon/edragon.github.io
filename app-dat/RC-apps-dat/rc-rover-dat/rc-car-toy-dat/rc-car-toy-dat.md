@@ -21,7 +21,7 @@ including functions == [[ultrasonic-sensor-dat]], [[interactive-dat]] - [[infrar
 
 plastic chassis 4WD
 
-![](2025-06-15-13-03-31.png)
+![](2025-06-15-13-03-31.webp)
 
 ![](2025-06-15-14-10-56.png)
 

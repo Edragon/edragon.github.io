@@ -100,7 +100,7 @@ https://forums.quectel.com/t/l76-module-naming-and-i-o-voltage-l76l-m33/22934/3
 
 ## block diagram 
 
-![](2024-10-09-17-58-17.png)
+![](2024-10-09-17-58-17.webp)
 
 ## standby mode 
 

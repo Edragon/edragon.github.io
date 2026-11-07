@@ -38,11 +38,11 @@ notice in addtional options add user name and password to be electrodragon and e
 
 2. dashboard part 
 
-![](2025-06-19-14-32-24.png)
+![](2025-06-19-14-32-24.webp)
 
 3. panel part 
 
-![](2025-06-19-14-31-48.png)
+![](2025-06-19-14-31-48.webp)
 
 
 

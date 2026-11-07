@@ -1,7 +1,7 @@
 
 # DRV8871-dat
 
-![](2025-05-23-02-36-50.png)
+![](2025-05-23-02-36-50.webp)
 
 https://www.ti.com/lit/ds/symlink/drv8871.pdf?ts=1747938993424&ref_url=https%253A%252F%252Fwww.google.com.hk%252F
 
@@ -47,7 +47,7 @@ Yes, you **can use the DRV8871 to drive a gear DC motor**, and it's actually **a
 
 ## board 
 
-![](2025-06-02-00-44-38.png)
+![](2025-06-02-00-44-38.webp)
 
 - ILIM == pin4 == Connect a resistor to ground to set the current chopping threshold
 

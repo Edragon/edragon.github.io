@@ -17,7 +17,7 @@ Single-Lead, Heart Rate Monitor Front End
 
 - [[FT232-dat]] - [[PIC-dat]] - [[RMCM01-dat]]
 
-![](2026-01-17-14-45-09.png)
+![](2026-01-17-14-45-09.webp)
 
 ## ref 
 

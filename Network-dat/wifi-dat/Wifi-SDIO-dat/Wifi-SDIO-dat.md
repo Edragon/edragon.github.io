@@ -29,7 +29,7 @@
 
 ## module interface
 
-![](2026-10-01-04-32-33.png)
+![](2026-10-01-04-32-33.webp)
 
 
 
@@ -75,7 +75,7 @@ pin 12
 - WIFI_DP
 - 3V3
 
-![](2026-10-01-04-10-16.png)
+![](2026-10-01-04-10-16.webp)
 
 - [[CONN-FPC-dat]] - [[Wifi-SDIO-dat]]
 
@@ -102,7 +102,7 @@ If you are trying to hook up a compatible matching SDIO Wi-Fi card meant specifi
 
 ## SCH 
 
-![](2026-10-01-17-48-32.png)
+![](2026-10-01-17-48-32.webp)
 
 ![](2026-10-01-17-48-57.png)
 

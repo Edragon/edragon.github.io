@@ -11,9 +11,9 @@ legacy reference: https://www.electrodragon.com/w/Ethernet#LAN8720_Ethernet_with
 
 ![](42-44-18-24-04-2023.png)
 
-![](21-28-18-10-05-2023.png)
+![](21-28-18-10-05-2023.webp)
 
-![](06-32-18-10-05-2023.png)
+![](06-32-18-10-05-2023.webp)
 
 | ESP32   | func        | Ethernet          | Note         |
 | ------- | ----------- | ----------------- | ------------ |
@@ -58,7 +58,7 @@ legacy reference: https://www.electrodragon.com/w/Ethernet#LAN8720_Ethernet_with
 
 The final jumper setup please refer the image blow 
 
-![](38-06-15-25-04-2023.png)
+![](38-06-15-25-04-2023.webp)
 
 
 

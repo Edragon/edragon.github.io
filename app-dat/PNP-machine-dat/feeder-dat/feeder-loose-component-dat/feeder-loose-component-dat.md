@@ -8,7 +8,7 @@ Suitable for loose, non-taped resistors, capacitors, or non-polarized components
 
 turn on the back light 
 
-![](2025-05-07-18-06-19.png)
+![](2025-05-07-18-06-19.webp)
 
 ## How to use
 
@@ -22,7 +22,7 @@ turn on the back light
     4. Distance from the nozzle to the backlight board
     5. No need to set
 
-![](2025-05-07-14-29-09.png)
+![](2025-05-07-14-29-09.webp)
 
 Depending on the computer configuration, wait 5-20 seconds.
 On the interface below, select the correct result on the left side.

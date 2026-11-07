@@ -31,13 +31,13 @@ The second number represents the **Width** of the tire at its widest point when 
 
 ![](2026-02-28-23-53-13.png)
 
-![](2026-02-28-23-54-06.png)
+![](2026-02-28-23-54-06.webp)
 
 front wheel 
 
-![](2026-02-28-23-55-19.png)
+![](2026-02-28-23-55-19.webp)
 
-![](2026-02-28-23-56-37.png)
+![](2026-02-28-23-56-37.webp)
 
 rear wheel 
 

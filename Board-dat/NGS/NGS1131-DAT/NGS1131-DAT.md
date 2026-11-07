@@ -66,7 +66,7 @@ Note
 | Vin / Vusb | Logic Level  | A7670C logic        |
 | Vin / Vusb | Power Supply | A7670C Power Supply |
 
-![](15-36-16-05-01-2023.png)
+![](15-36-16-05-01-2023.webp)
 
 
 ### Wiring UART communication with USB-TTL

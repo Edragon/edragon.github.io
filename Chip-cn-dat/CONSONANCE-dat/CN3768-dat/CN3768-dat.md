@@ -29,7 +29,7 @@ The CN3768 is a complete switching charger controller designed for 12V lead-acid
 
 ## Typical Applications
 
-![](2025-04-21-20-50-20.png)
+![](2025-04-21-20-50-20.webp)
 
 
 ## Electrical Characteristics (summary)

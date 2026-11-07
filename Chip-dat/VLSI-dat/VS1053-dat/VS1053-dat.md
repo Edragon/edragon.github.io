@@ -29,7 +29,7 @@ Ogg Vorbis/MP3/AAC/WMA/FLAC/MIDI AUDIO CODEC CIRCUIT
 
 SCH from KA radio opensource project 
 
-![](2026-03-05-14-49-00.png)
+![](2026-03-05-14-49-00.webp)
 
 
 

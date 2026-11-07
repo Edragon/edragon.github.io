@@ -13,7 +13,7 @@
 
 ## SCH 
 
-![](2025-08-19-18-55-07.png)
+![](2025-08-19-18-55-07.webp)
 
 - including low voltage detection 
 - [[battery-protection-dat]] - short circuit - [[SCP-protection-dat]]

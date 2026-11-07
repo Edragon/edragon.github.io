@@ -26,7 +26,7 @@ The term A3 DCGB14D9A likely refers to a microcontroller or power management chi
 
 ![](2026-06-02-20-14-50.png)
 
-![](2026-06-02-20-15-10.png)
+![](2026-06-02-20-15-10.webp)
 
 
 JL AC1522C6230Q
@@ -54,7 +54,7 @@ https://doc.zh-jieli.com/vue/#/home
 
 - [[jieli-dat]] - [[BP1V081-dat]] 
 
-![](2026-09-22-21-33-48.png)
+![](2026-09-22-21-33-48.webp)
 
 ![](2026-09-22-21-33-59.png)
 
@@ -73,11 +73,11 @@ ref == https://hackaday.io/project/184542-i-made-my-own-audio-bluetooth-module/d
 
 JL Jieli AF21BP0F355 B9D4 ? 
 
-![](2026-04-20-19-54-09.png)
+![](2026-04-20-19-54-09.webp)
 
 MP3 Player: The larger 16- or 24-pin audio decoder chip is usually a MH2024K-24SS, or one of the many compatible alternatives, such as MH2024K-16SS, YX5200-24SS, or clones like the AB23…, AB24…, AF24… series from Chinese manufacturers like Jieli Technology (JL).
 
-![](2026-04-20-19-58-23.png)
+![](2026-04-20-19-58-23.webp)
 
 - APP向串口通信最大速率12KBYTE/S
 - 串口向APP通信最大速率6KBYTE/S
@@ -354,7 +354,7 @@ JL AS19HFG521
 
 - [[RDA5807-dat]] - [[RDA-dat]] - [[jieli-dat]]
 
-![](2026-06-15-17-24-44.png)
+![](2026-06-15-17-24-44.webp)
 
 
 

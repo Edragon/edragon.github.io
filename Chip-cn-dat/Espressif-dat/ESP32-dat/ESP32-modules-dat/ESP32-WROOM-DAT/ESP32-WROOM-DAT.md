@@ -70,7 +70,7 @@ If you are buying new, the 32D is recommended, as the original 32 is considered 
 
 ### ESP32-WROOM-32E 
 
-![](2026-04-02-20-38-00.png)
+![](2026-04-02-20-38-00.webp)
 
 The ESP32-WROOM-32E and ESP32-WROOM-32D are both modules based on the ESP32 system-on-a-chip (SoC) by Espressif Systems. They are very similar in terms of features and capabilities but have a few key differences.
 

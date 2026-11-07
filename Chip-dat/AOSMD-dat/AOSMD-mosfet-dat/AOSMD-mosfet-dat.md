@@ -10,7 +10,7 @@
 Low Voltage MOSFETs (12V - 30V)
 30V Dual Asymmetric N-Channel AlphaMOS
 
-![](2026-09-16-18-11-56.png)
+![](2026-09-16-18-11-56.webp)
 
 
 

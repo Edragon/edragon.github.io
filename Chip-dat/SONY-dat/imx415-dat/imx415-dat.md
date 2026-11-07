@@ -31,7 +31,7 @@
 
 interface - [[conn-DF56-dat]]
 
-![](2026-10-02-01-34-04.png)
+![](2026-10-02-01-34-04.webp)
 
 
 power - [[power-dat]] == 2.9V 1.8V 1.1V 

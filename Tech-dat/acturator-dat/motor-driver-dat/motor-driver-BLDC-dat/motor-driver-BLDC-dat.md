@@ -45,7 +45,7 @@ AT8313QNR QFN-36 2.5A 三路半桥集成驱动芯片 三相直流无刷
 
 - back side image see at [[mosfet-array-dat]]
 
-![](2026-03-02-21-20-35.png)
+![](2026-03-02-21-20-35.webp)
 
 
 
@@ -63,7 +63,7 @@ AT8313QNR QFN-36 2.5A 三路半桥集成驱动芯片 三相直流无刷
 mosfet and [[LDO-dat]] - [[78xx-dat]]
 
 
-![](2026-03-02-21-41-13.png)
+![](2026-03-02-21-41-13.webp)
 
 
 - OK622 == ? 
@@ -103,7 +103,7 @@ common interface
 
 a serie of BLDC motor driver
 
-![](2026-04-04-18-47-30.png)
+![](2026-04-04-18-47-30.webp)
 
 [[MCU-dat]] - C0816S103 - [[mosfet-dat]]
 

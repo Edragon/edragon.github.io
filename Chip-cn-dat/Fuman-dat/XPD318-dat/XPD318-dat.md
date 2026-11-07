@@ -30,7 +30,7 @@ XPD318 supports up to 36W output power. The broadcast PDO voltage can be configu
 - AC-DC adapters
 - USB charging devices
 
-![](2026-06-03-02-54-06.png)
+![](2026-06-03-02-54-06.webp)
 
 
 

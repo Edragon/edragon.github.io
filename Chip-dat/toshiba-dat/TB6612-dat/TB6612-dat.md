@@ -22,7 +22,7 @@
 
 ## Chip pins 
 
-![](2025-06-01-17-41-39.png)
+![](2025-06-01-17-41-39.webp)
 
 ## breakout board schematic 
 

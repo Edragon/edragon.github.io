@@ -119,7 +119,7 @@ Use GDB, VS Code, or Eclipse for debugging.
 
 ## min. Core 
 
-![](2025-08-19-16-53-29.png)
+![](2025-08-19-16-53-29.webp)
 
 
 ## common issues

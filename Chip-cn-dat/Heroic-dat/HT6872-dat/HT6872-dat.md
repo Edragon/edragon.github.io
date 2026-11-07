@@ -18,7 +18,7 @@
 
 build 1 + [[ZTS6216-dat]] == [[sensor-microphone-dat]]
 
-![](2026-09-05-14-39-01.png)
+![](2026-09-05-14-39-01.webp)
 
 
 

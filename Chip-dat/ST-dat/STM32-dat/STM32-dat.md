@@ -138,7 +138,7 @@ Interface
 | Boot1 | PB2        | x               | 0           | 1      |
 | -     | -          | SWD/JTAG prog   | Serial prog | -      |
 
-![](2024-07-03-14-37-57.png)
+![](2024-07-03-14-37-57.webp)
 
 
 ### Main Flash memory

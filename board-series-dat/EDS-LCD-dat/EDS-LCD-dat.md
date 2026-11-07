@@ -143,7 +143,7 @@ The 8x16 font bitmap is already provided in the sample file `lcdfont.h`, as show
 
 将取模软件生产的 .c 文件里面｛｝里面的内容复制到图传程序 imagedata.cpp 文件里 gImage 数组的大括号里。
 
-![](2025-08-19-15-28-27.png)
+![](2025-08-19-15-28-27.webp)
 
 output 
 

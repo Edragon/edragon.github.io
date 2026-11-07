@@ -38,9 +38,9 @@ When operating an RC boat at **slow speeds in rough or choppy water**, the key d
   * **Design**: Sharp V-shaped bow that transitions to a stable midsection.
   * **Performance**: Cuts directly through oncoming chop, minimizing wave impact and keeping the bow down at lower throttle levels.
 
-![](2026-08-04-19-07-02.png)
+![](2026-08-04-19-07-02.webp)
 
-![](2026-08-04-19-07-23.png)
+![](2026-08-04-19-07-23.webp)
 
 
 ---

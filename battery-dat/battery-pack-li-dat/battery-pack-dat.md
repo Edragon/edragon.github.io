@@ -74,9 +74,9 @@ so for high current, always GOOD to use higher voltage pack
 
 ## wiring 
 
-![](2026-05-20-03-43-35.png)
+![](2026-05-20-03-43-35.webp)
 
-![](2026-05-20-03-27-21.png)
+![](2026-05-20-03-27-21.webp)
 
 
 ## battery pack examples 
@@ -253,7 +253,7 @@ How it ruins other paralleled batteries:
 
 ![](2025-07-23-19-32-19.png)
 
-![](2025-07-23-19-32-32.png)
+![](2025-07-23-19-32-32.webp)
 
 
 ## Capacity Grading (Testing)

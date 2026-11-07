@@ -119,7 +119,7 @@ ESP32 has **520 KB SRAM** split into multiple regions:
 
 ## Diagram 
 
-![](2024-12-27-18-11-50.png)
+![](2024-12-27-18-11-50.webp)
 
 ## boot mode 
 

@@ -17,7 +17,7 @@
 - [[RT3505-dat]] - [[RT5350-dat]] - [[RT3092-dat]] - [[RT5372-dat]] - [[RT5392-dat]]
 
 
-![](2026-05-22-19-12-10.png)
+![](2026-05-22-19-12-10.webp)
 
 Then, in 2008, the company's most successful SOC, the RT3050/52, was released. This SOC was used in a great many routers and other devices, bringing about a change in the MIPS SOC market, which had been dominated by [[Atheros-dat]] and [[Broadcom-dat]]. 
 

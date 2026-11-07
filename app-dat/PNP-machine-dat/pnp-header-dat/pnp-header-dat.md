@@ -1,13 +1,13 @@
 
 # pnp-header-dat.md
 
-![](2025-12-05-21-12-26.png)
+![](2025-12-05-21-12-26.webp)
 
 picker part 
 
 thick plastic sleeve / 3 ball bearing / [[nozzle-dat]]
 
-![](2025-12-05-21-12-38.png)
+![](2025-12-05-21-12-38.webp)
 
 
 - 2x vacum pump port

@@ -81,7 +81,7 @@ The internal ELRS transmitter chip operates on a completely different RF standar
 
 - [[rc-boat-dat]] - [[rc-rover-dat]] == setup by code 
 
-![](2026-08-11-19-05-47.png)
+![](2026-08-11-19-05-47.webp)
 
 - CH1 - steering 
 - CH2

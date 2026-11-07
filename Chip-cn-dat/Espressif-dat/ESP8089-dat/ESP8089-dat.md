@@ -49,7 +49,7 @@ The module supports energy-saving VoLP for fast switching between sleep/wake mod
 
 ## Module Pinout
 
-![](2025-07-16-13-49-16.png)
+![](2025-07-16-13-49-16.webp)
 
 | Pin | Name      | Description                                              |
 |-----|-----------|----------------------------------------------------------|

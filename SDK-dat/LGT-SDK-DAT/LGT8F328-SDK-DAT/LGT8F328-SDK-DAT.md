@@ -48,9 +48,9 @@ https://github.com/brother-yan/LGTISP
 
 - [[SWDICE-dat]]
 
-![](2026-02-11-02-45-22.png)
+![](2026-02-11-02-45-22.webp)
 
-![](2026-02-11-02-58-41.png)
+![](2026-02-11-02-58-41.webp)
 
 ### SISP
 
@@ -144,7 +144,7 @@ for [[DVA1009-dat]]
 firmware - SSOP20 - C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8ps20\optiboot_lgt8f328ps20.hex
 
 
-![](2026-05-01-18-09-09.png)
+![](2026-05-01-18-09-09.webp)
 
 
 #### pin map 
@@ -198,7 +198,7 @@ Nulllab_AVR_Compatible_Boards by nullab.org
 - link2 == https://raw.githubusercontent.com/nulllaborg/arduino_nulllab/master/package_nulllab_boards_index.json
 
 
-![](2026-02-11-01-37-20.png)
+![](2026-02-11-01-37-20.webp)
 
 https://github.com/nulllaborg/arduino_nulllab?tab=readme-ov-file
 
@@ -241,7 +241,7 @@ Installation:
 
 ## programmer SCH 
 
-![](2026-02-11-02-21-36.png)
+![](2026-02-11-02-21-36.webp)
 
 
 
@@ -255,7 +255,7 @@ C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.
 
 - upload sketch with bootloader version first by [[ISP-dat]] or [[programmer-dat]], then upload normally via [[serial-dat]]
 
-![](2026-04-28-03-38-46.png)
+![](2026-04-28-03-38-46.webp)
 
 
 

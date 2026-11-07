@@ -50,7 +50,7 @@ the coverage
 
 This product is suitable for various AIoT scenarios, such as smart lighting control, advertising display activation, life safety protection, energy-saving for smart appliances, and security/intrusion detection.
 
-![](2025-07-18-16-46-34.png)
+![](2025-07-18-16-46-34.webp)
 
 
 ## FMCW Radar 

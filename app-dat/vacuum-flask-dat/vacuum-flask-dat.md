@@ -31,7 +31,7 @@ unknown MJCAH
 
 - [[vacuum-flask-dat]] - [[button-spring-dat]] - [[button-dat]]
 
-![](2026-06-19-16-34-45.png)
+![](2026-06-19-16-34-45.webp)
 
 ## ref 
 

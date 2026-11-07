@@ -27,7 +27,7 @@ LMA3722T421-OA5
 
 ZTS6216 - Ultralow Noise Microphone with Top Port and Analog Output
 
-![](2026-03-02-16-45-11.png)
+![](2026-03-02-16-45-11.webp)
 
 
 MSM381AKT003

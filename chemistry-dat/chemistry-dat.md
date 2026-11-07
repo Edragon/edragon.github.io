@@ -30,7 +30,7 @@ It is a primary reagent in the "nitration" process used to manufacture explosive
 
 ![](2026-02-22-16-18-24.png)
 
-![](2026-02-22-16-18-34.png)
+![](2026-02-22-16-18-34.webp)
 
 ## ref 
 

@@ -12,7 +12,7 @@
 | 8   | GND    | GND    | E                 |
 
 
-![](2024-11-07-17-27-56.png)
+![](2024-11-07-17-27-56.webp)
 
 * Check if your panel is oversize (64x64 is needed) or chained with multiple panels, then you need to setup the E-line
 * The normal setup is P4 + GND, and P8 + #E

@@ -67,7 +67,7 @@ the result is always the same that mapping same pins from PCB to PCB, no matter 
 
 see how it mapped here [[HUB75-dat]], either horizontally flipped or horizontally + vertically flipped
 
-![](2025-12-17-17-47-31.png)
+![](2025-12-17-17-47-31.webp)
 
 
 

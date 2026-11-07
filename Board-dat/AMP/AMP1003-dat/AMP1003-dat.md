@@ -16,7 +16,7 @@ bottom
 - right channel output 
 
 
-![](2023-09-28-16-26-44.png)
+![](2023-09-28-16-26-44.webp)
 
 - [[TPA3116-dat]] - [[ti-audio-dat]] - [[AMP1003-dat]]
 

@@ -129,7 +129,7 @@ To visualize or analyze the raw audio waveform:
 
 ![](2026-07-30-21-00-28.png)
 
-![](2026-07-30-21-01-00.png)
+![](2026-07-30-21-01-00.webp)
 
 ---
 

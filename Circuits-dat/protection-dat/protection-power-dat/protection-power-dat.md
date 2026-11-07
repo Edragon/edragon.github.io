@@ -55,7 +55,7 @@
 
 ## power-up buffer 
 
-![](2026-07-20-20-43-32.png)
+![](2026-07-20-20-43-32.webp)
 
 
 ## over power protocols 

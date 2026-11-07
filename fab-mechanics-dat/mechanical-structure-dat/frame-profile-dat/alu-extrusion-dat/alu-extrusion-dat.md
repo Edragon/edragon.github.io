@@ -126,7 +126,7 @@ and - [[profile-angle-dat]]
 
 - [[Swivel-dat]]
 
-![](2026-09-15-00-34-56.png)
+![](2026-09-15-00-34-56.webp)
 
 - [[fab-3d-print-dat]]
 

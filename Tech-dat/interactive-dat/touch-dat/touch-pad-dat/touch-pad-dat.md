@@ -8,7 +8,7 @@
 
 ## system wakeup 
 
-![](2026-03-05-01-48-58.png)
+![](2026-03-05-01-48-58.webp)
 
 
 - [[SJT83-dat]] - [[soujet-dat]] - [[touch-pad-dat]]

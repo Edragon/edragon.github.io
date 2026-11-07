@@ -41,7 +41,7 @@ A **three-phase electronic arc suppressor** is used to eliminate electrical arci
 
 ![](2025-07-09-01-58-05.png)
 
-![](2025-07-09-01-58-23.png)
+![](2025-07-09-01-58-23.webp)
 
 ### 🔧 Working Principle
 

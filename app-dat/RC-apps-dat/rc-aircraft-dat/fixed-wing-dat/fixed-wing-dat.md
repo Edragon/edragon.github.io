@@ -257,7 +257,7 @@ A **monoplane** is an aircraft that has **only one main wing** on each side of t
 
 ![](2025-12-03-23-59-36.png)
 
-![](2025-12-03-23-54-15.png)
+![](2025-12-03-23-54-15.webp)
 
 三角翼
 
@@ -267,14 +267,14 @@ A **monoplane** is an aircraft that has **only one main wing** on each side of t
 
 ## jian-10
 
-![](2025-12-05-01-39-12.png)
+![](2025-12-05-01-39-12.webp)
 
 ![](2025-12-05-01-39-29.png)
 
 
 ## uncommon shape 
 
-![](2025-12-05-01-44-49.png)
+![](2025-12-05-01-44-49.webp)
 
 
 ## 3d printed 
@@ -284,7 +284,7 @@ A **monoplane** is an aircraft that has **only one main wing** on each side of t
 
 F14 
 
-![](2025-12-06-15-24-40.png)
+![](2025-12-06-15-24-40.webp)
 
 ![](2025-12-06-15-25-18.png)
 
@@ -292,7 +292,7 @@ F14
 
 center of gravity and balance checker 
 
-![](2025-12-06-14-24-56.png)
+![](2025-12-06-14-24-56.webp)
 
 ## ref 
 

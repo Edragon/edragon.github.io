@@ -13,7 +13,7 @@ ESP32-DevKitC
 [product url - ESP32 Mini Core Dev. Board, ESP32-DevKitC, V4 [Ver.]](https://www.electrodragon.com/product/esp32-devkitc/)
 
 
-![](20-34-18-09-08-2023.png)
+![](20-34-18-09-08-2023.webp)
 
 ![](2026-04-12-17-03-36.png)
 
@@ -75,7 +75,7 @@ pin == 2x19
 
 ![](2024-01-10-11-17-52.png)
 
-![](2026-04-02-20-41-15.png)
+![](2026-04-02-20-41-15.webp)
 
 
 ## physical board 

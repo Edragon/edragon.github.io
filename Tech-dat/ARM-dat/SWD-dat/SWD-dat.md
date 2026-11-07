@@ -44,7 +44,7 @@ For basic SWD programming/debugging, the minimum required connections are:
 
 ## pins 
 
-![](2025-09-23-13-51-11.png)
+![](2025-09-23-13-51-11.webp)
 
 simplified connectors 
 

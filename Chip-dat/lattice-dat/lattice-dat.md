@@ -19,7 +19,7 @@ DSP Resources: 8 × DSP multiplier blocks
 
 ## ICE40 
 
-![](2026-03-05-19-54-03.png)
+![](2026-03-05-19-54-03.webp)
 
 
 

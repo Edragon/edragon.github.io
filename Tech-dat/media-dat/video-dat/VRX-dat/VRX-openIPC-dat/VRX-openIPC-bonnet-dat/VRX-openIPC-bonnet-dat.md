@@ -22,7 +22,7 @@ pin and keys - [[keyboard-dat]] - [[keypad-dat]] - [[joystick-dat]] - [[interact
 
 - [[USB-SDK-dat]]
 
-![](2026-10-02-03-14-33.png)
+![](2026-10-02-03-14-33.webp)
 
 ## info 
 

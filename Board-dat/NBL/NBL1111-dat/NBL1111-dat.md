@@ -85,7 +85,7 @@ This module is mainly used for short-distance music transmission. It can be easi
 
 ## Pins Definitions 
 
-![](2025-01-17-15-38-15.png)
+![](2025-01-17-15-38-15.webp)
 
 
 | IO No. | IO Name           | IO Description                                                                                                                                                                                                                                                                                                   |

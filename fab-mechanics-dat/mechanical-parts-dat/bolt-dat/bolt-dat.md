@@ -103,7 +103,7 @@ Here is the breakdown of the major differences:
 
 - [[bolt-dat]] == M1.4 x L3 == [[mobula6-dat]]
 
-![](2026-09-13-20-14-13.png)
+![](2026-09-13-20-14-13.webp)
 
 
 

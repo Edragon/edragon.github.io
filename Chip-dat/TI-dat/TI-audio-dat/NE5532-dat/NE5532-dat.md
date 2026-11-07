@@ -28,7 +28,7 @@ VCC+ Supply voltage: 5 ~ 15 V
 
 the gain is 15K / 2.2K 
 
-![](2024-10-27-14-27-33.png)
+![](2024-10-27-14-27-33.webp)
 
 ## SCH3 
 

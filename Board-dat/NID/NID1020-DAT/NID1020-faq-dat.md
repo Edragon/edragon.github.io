@@ -28,7 +28,7 @@ And an animal inject tag.
 
 ## how to design a system based on it 
 
-![](2024-04-10-15-50-44.png)
+![](2024-04-10-15-50-44.webp)
 
 
 ## other RFID cards or keys 

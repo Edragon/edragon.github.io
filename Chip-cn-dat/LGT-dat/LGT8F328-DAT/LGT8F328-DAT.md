@@ -43,7 +43,7 @@ common pin
 
 view main differences between LGT8F328 and atmega328 - source: https://wolles-elektronikkiste.de/en/lgt8f328p-lqfp32-boards
 
-![](2026-05-01-17-54-45.png)
+![](2026-05-01-17-54-45.webp)
 
 
 ## LGT8F328-QFP MIN SYS 
@@ -61,7 +61,7 @@ view main differences between LGT8F328 and atmega328 - source: https://wolles-el
 
 ## LGT8F88A-QFP32 MIN System 
 
-![](2025-06-25-14-52-14.png)
+![](2025-06-25-14-52-14.webp)
 
 ## other MCUs 
 
@@ -88,7 +88,7 @@ LGT8F88A, LGT8Fx8D and LGT8Fx8P main differences
 
 ### USB Demo 
 
-![](2025-06-25-14-55-01.png)
+![](2025-06-25-14-55-01.webp)
 ## demo 
 
 https://www.youtube.com/shorts/CL2-iH4KWQQ

@@ -50,7 +50,7 @@ https://cad.onshape.com/documents/707b8372a3c9ced9cde96289/v/ee73401f89c866bc221
 
 the following images show inner hole 5mm, not 6mm 
 
-![](2025-04-11-17-02-34.png)
+![](2025-04-11-17-02-34.webp)
 
 
 ## timing pulley VS. Coupler 

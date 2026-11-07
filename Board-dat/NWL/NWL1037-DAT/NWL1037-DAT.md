@@ -9,11 +9,11 @@ CC1101-LSS: Low Power, SPI interface, Spring Coil
 
 ## updated version
 
-![](47-43-18-21-02-2023.png)
+![](47-43-18-21-02-2023.webp)
 
 ![](38-45-18-21-02-2023.png)
 
-![](2023-09-05-16-21-33.png)
+![](2023-09-05-16-21-33.webp)
 
 
 ## ref 

@@ -88,11 +88,11 @@ tab
 
 ![](2026-01-01-01-23-07.png)
 
-![](2026-01-01-01-23-40.png)
+![](2026-01-01-01-23-40.webp)
 
 tab and slot 
 
-![](2026-01-01-01-24-56.png)
+![](2026-01-01-01-24-56.webp)
 
 bend 
 
@@ -220,7 +220,7 @@ Sheet Metal Fabrication = Cutting  Stamping  Bending  Forming  Joining  Surface 
 
 - The following bending rack price == 20RM == 3 USD
 
-![](2025-06-16-12-38-08.png)
+![](2025-06-16-12-38-08.webp)
 
 ## Example Plastic PP PE Sheet
 

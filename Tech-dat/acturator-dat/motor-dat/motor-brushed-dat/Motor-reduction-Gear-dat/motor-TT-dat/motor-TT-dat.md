@@ -33,7 +33,7 @@ based on motor [[motor-130-dat]]
 
 ## dimension 
 
-![](2025-12-05-15-49-49.png)
+![](2025-12-05-15-49-49.webp)
 
 
 

@@ -41,7 +41,7 @@ The RTL8211FD(I)-CG incorporates a linear Low-Dropout Regulator (LDO) that featu
 
 ![](2025-05-04-19-10-29.png)
 
-![](2025-05-04-19-10-52.png)
+![](2025-05-04-19-10-52.webp)
 
 Gigabit ethernet phy 1000base-tx RTL8211CL
 
@@ -49,7 +49,7 @@ Gigabit ethernet phy 1000base-tx RTL8211CL
 
 ### RTL8211 with RK356x
 
-![](2025-05-04-19-17-21.png)
+![](2025-05-04-19-17-21.webp)
 
 [source info ](https://blog.csdn.net/CATTLE_L/article/details/144767114)
 

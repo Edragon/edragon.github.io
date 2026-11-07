@@ -20,7 +20,7 @@ The following is the internal block diagram of CH213 for reference only.
 
 ## SCH or diagram 
 
-![](2026-09-24-22-29-53.png)
+![](2026-09-24-22-29-53.webp)
 
 ## build 
 

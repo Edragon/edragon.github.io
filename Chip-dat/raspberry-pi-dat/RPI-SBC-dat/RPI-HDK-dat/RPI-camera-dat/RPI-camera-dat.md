@@ -26,7 +26,7 @@ After confirming the screen, you need to exit through “ctrl+c” before procee
 
 If you run mplayer and use the fswebcam command at the same time, the system will prompt an error that the camera is busy. As shown below.
 
-![](2025-03-28-16-04-03.png)
+![](2025-03-28-16-04-03.webp)
 
 Input following command to generate a real-time photo taken by the current camera in the /home/pi directory
 

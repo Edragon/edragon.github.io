@@ -83,7 +83,7 @@ with STM32
 
 with arduino 
 
-![](2024-09-05-17-24-52.png)
+![](2024-09-05-17-24-52.webp)
 
 ## Core SCH 
 

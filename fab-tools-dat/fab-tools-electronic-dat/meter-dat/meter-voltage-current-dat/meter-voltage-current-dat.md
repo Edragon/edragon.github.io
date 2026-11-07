@@ -92,7 +92,7 @@ depandent or indepandent power supply
 
 depandent or indepandent power supply 
 
-![](2023-10-20-17-46-57.png)
+![](2023-10-20-17-46-57.webp)
 
 
 

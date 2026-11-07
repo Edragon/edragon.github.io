@@ -95,7 +95,7 @@ chip table
 
 core for [[nodemcu-dat]]
 
-![](2026-06-11-17-46-28.png)
+![](2026-06-11-17-46-28.webp)
 
 
 

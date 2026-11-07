@@ -44,7 +44,7 @@ Electrical environment
 
 #### wiring to use 
 
-![](2025-05-02-20-00-18.png)
+![](2025-05-02-20-00-18.webp)
 
 #### dimension 
 

@@ -12,7 +12,7 @@
 
 RPI with a magnetic stand holder M2 [[pmp1036-dat]]
 
-![](2024-10-28-18-54-02.png)
+![](2024-10-28-18-54-02.webp)
 
 
 - [[PCB-accesories-dat]]

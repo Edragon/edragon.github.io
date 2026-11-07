@@ -141,7 +141,7 @@ top is "plug", bottom is the "base"
 
 - [[NWI1230-dat]] == [[ESP8266-dat]]
 
-![](2025-07-16-15-24-50.png)
+![](2025-07-16-15-24-50.webp)
 
 
 ## TOP Base board module board

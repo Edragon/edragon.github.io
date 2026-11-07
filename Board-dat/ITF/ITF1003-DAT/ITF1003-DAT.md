@@ -38,7 +38,7 @@ read current value on the right side
 
 output test - disconnect the power supply and test current by [[multimeter-dat]]
 
-![](2025-09-25-15-24-51.png)
+![](2025-09-25-15-24-51.webp)
 
 
 

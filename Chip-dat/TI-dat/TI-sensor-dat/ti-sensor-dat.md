@@ -35,7 +35,7 @@ LDC1101DRCR / VS0N-10 - 用于高速应用的单通道、1.8V、24位电感、16
 
 LDC1101 1.8-V High-Resolution, High-Speed Inductance-to-Digital Converter
 
-![](2026-07-15-19-47-02.png)
+![](2026-07-15-19-47-02.webp)
 
 
 

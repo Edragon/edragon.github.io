@@ -11,7 +11,7 @@
 
 [[LDO-dat]] en control 
 
-![](2026-02-10-16-43-10.png)
+![](2026-02-10-16-43-10.webp)
 
 
 [[mosfet-dat]] control 

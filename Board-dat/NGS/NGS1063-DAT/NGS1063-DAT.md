@@ -59,7 +59,7 @@ for old version see here - [[NGS1063-old-dat]]
 
 - and Custom SDK List 
 
-![](2023-12-11-19-02-13.png)
+![](2023-12-11-19-02-13.webp)
 
 
 

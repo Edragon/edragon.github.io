@@ -17,7 +17,7 @@ For LoRa coding, the network ID and address (often called device address or node
 
 ## stm32 code
 
-![](2025-06-23-18-46-43.png)
+![](2025-06-23-18-46-43.webp)
 
 Path: The files in LR_driversrc are the LoRa drivers. These drivers are downloaded from Semtech and only modified to adapt to the STM32F103 HAL library; no other changes have been made.
 

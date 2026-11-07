@@ -19,7 +19,7 @@
 
 
 
-![](2026-01-17-14-49-33.png)
+![](2026-01-17-14-49-33.webp)
 
 FEATURES
 - Small Form Factor (1inch X 1inch)

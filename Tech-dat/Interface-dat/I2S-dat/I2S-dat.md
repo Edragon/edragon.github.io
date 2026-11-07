@@ -99,7 +99,7 @@ PCM512x 2-VRMS DirectPath™ , 112-dB and 106-dB Audio Stereo DACs With 32-Bit, 
 
 ## Other combine use with ESP32-S3 
 
-![](2025-01-06-17-07-16.png)
+![](2025-01-06-17-07-16.webp)
 
 
 
@@ -173,7 +173,7 @@ https://github.com/miketeachman/micropython-i2s-examples
 four wires - [[I2S-dat]]
 
 
-![](2026-07-15-20-11-06.png)
+![](2026-07-15-20-11-06.webp)
 
 
 ## ref

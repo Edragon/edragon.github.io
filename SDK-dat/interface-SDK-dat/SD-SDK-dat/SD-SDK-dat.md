@@ -47,7 +47,7 @@ slot_config.flags |= SDMMC_SLOT_FLAG_INTERNAL_PULLUP;
 
 Open the `sdmmc` project, select the correct COM port and chip model. The demo project defines pins as macros, so you may need to configure them, or you can enter the pin numbers directly. Click the ⚙️ (settings) icon to open the SDK Configuration Editor (menuconfig). Search for "sd" in the search bar; you will see the configuration options. Enable default initialization and default example file creation:
 
-![](2025-08-09-13-09-09.png)
+![](2025-08-09-13-09-09.webp)
 
 #### Build, Flash, and Monitor
 

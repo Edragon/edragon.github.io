@@ -147,9 +147,9 @@ Since you are building a **scooter**, safety is paramount.
 
 - [[acdc-dat]]
 
-![](2026-06-07-14-29-35.png)
+![](2026-06-07-14-29-35.webp)
 
-![](2026-06-07-14-30-04.png)
+![](2026-06-07-14-30-04.webp)
 
 ![](2026-06-07-14-30-20.png)
 

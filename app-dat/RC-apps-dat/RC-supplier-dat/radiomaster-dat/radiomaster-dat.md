@@ -47,7 +47,7 @@ https://cdn.shopify.com/s/files/1/0609/8324/7079/files/Pocket_1.pdf?v=1736839330
 firmwares - https://www.radiomasterrc.com/pages/firmware-updates
 
 
-![](2025-05-16-12-45-54.png)
+![](2025-05-16-12-45-54.webp)
 
 
     RadioMaster Pocket Internal 2.4GHz TX

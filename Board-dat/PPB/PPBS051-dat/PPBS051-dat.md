@@ -4,7 +4,7 @@
 https://www.electrodragon.com/product/breadboard-wside-power-channels/?attribute_pa_attributes=short-size
 
 
-![](2024-09-25-17-13-34.png)
+![](2024-09-25-17-13-34.webp)
 
 
 Product parameters

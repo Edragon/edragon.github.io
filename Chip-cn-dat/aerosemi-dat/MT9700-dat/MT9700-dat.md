@@ -14,7 +14,7 @@
 
 - [[aerosemi-dat]] - [[MT9700-dat]] - [[power-limit-dat]] - [[power-dat]]
 
-![](2026-09-05-14-30-59.png)
+![](2026-09-05-14-30-59.webp)
 
 3 -- SET -- External resistor used to set current-limit threshold
 
@@ -47,7 +47,7 @@ SCH 3
 
 SCH 4 
 
-![](2026-09-05-15-26-06.png)
+![](2026-09-05-15-26-06.webp)
 
 
 ## ref 

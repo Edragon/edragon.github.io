@@ -24,7 +24,7 @@ How It Works
 
 - [[CONN-power-dat]] - [[LDO-dat]] - [[buzzer-dat]] - [[fuse-dat]] - [[LED-dat]] - [[diode-dat]]
 
-![](2026-09-08-13-11-04.png)
+![](2026-09-08-13-11-04.webp)
 
 ![](2026-09-08-13-11-49.png)
 

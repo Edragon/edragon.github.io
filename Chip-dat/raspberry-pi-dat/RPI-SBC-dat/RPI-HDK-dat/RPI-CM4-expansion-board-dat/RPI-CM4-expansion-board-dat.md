@@ -12,7 +12,7 @@ Force RPIBOOT = Jumper Pins 1-2
 EEPROM write protect = Jumper Pins 3-4
 
 
-![](2025-10-26-20-41-56.png)
+![](2025-10-26-20-41-56.webp)
 
 
 
@@ -101,7 +101,7 @@ diagram
 
 ![](2023-11-30-14-27-01.png)
 
-![](2023-11-30-14-27-26.png)
+![](2023-11-30-14-27-26.webp)
 
 - full scale large size image - https://pi4j.com/1.3/images/pi4j-rpi-cm4-header.png
 
@@ -142,7 +142,7 @@ diagram
 
 - VDDIO 
 
-![](2023-11-30-15-45-20.png)
+![](2023-11-30-15-45-20.webp)
 
 - Mode select 
 
@@ -150,7 +150,7 @@ diagram
 
 - LEDs 
 
-![](2023-11-30-15-55-03.png)
+![](2023-11-30-15-55-03.webp)
 
 
 ## board note 

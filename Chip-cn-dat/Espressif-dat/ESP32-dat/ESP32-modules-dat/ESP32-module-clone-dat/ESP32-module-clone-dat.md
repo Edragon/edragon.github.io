@@ -33,7 +33,7 @@ un-finished yet
 
 ## XXSR69 series RSSI test
 
-![](2025-10-23-14-02-44.png)
+![](2025-10-23-14-02-44.webp)
 
 - [[NWI1101-dat]]
 
@@ -82,13 +82,13 @@ A fatal error occurred: Invalid head of packet (0x65): Possible serial noise or 
 
 ### close look 
 
-![](2025-10-23-15-10-36.png)
+![](2025-10-23-15-10-36.webp)
 
 ## other more old versions 
 
 X1 
 
-![](2025-10-23-15-55-39.png)
+![](2025-10-23-15-55-39.webp)
 
 ![](2025-10-23-15-55-51.png)
 
@@ -112,7 +112,7 @@ add external antenna
 
 - 48 ~ 53 Dbm - bio-side wing
 
-![](2025-10-23-16-40-49.png)
+![](2025-10-23-16-40-49.webp)
 
 - 44 - 50 Dbm - pcb antenna 
 

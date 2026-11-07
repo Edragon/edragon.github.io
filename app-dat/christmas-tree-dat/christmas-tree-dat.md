@@ -1,7 +1,7 @@
 # christmas-tree-dat
 
 
-![](2025-11-14-19-03-27.png)
+![](2025-11-14-19-03-27.webp)
 
 ## Working Principle
 

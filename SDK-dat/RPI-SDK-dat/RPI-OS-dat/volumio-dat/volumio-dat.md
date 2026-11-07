@@ -26,7 +26,7 @@ STEP:
 
 - 5)In ‘Done’ Page, you can see a request for donations from Volumio. It’s depand on you. You cangive them some help if you like this application. Gifts of roses, hand a fragrance.
 
-![](2024-12-20-18-15-51.png)
+![](2024-12-20-18-15-51.webp)
 
 - 6)Click ‘Done’ to finish initialization of Volumio. And then restart Volumio.
 

@@ -19,7 +19,7 @@ A Deans connector (often called a T-plug) is a highly popular electrical connect
 
 ## combined connector 
 
-![](2026-07-08-16-23-57.png)
+![](2026-07-08-16-23-57.webp)
 
 ## ref 
 

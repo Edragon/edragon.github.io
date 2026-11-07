@@ -11,7 +11,7 @@ The Atmel®  ATmega128A is a low-power CMOS 8-bit microcontroller based on the A
 
 64-pin 
 
-![](2026-06-23-18-55-31.png)
+![](2026-06-23-18-55-31.webp)
 
 | Feature / Specification     | ATmega328                             | ATmega128A                           |
 | :-------------------------- | :------------------------------------ | :----------------------------------- |

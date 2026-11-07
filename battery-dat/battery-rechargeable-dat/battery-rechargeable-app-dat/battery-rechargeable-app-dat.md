@@ -12,7 +12,7 @@
 
 - [[battery-rechargeable-app-dat]] - [[insta360-go2-dat]]
 
-![](2026-09-17-18-09-40.png)
+![](2026-09-17-18-09-40.webp)
 
 
 test around 3.9V 
@@ -62,7 +62,7 @@ single-unit large battery
 
 3S10P == 30 batteries == 12V 30000 mAH 
 
-![](2025-09-10-22-03-23.png)
+![](2025-09-10-22-03-23.webp)
 
 3S5P == 15 batteries == 12V 15000 mAH 
 

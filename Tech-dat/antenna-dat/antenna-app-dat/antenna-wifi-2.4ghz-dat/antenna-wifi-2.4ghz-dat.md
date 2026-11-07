@@ -72,7 +72,7 @@ efficient high gain 8DBI wifi antenna
 
 ![](2026-04-06-12-52-10.png)
 
-![](2026-04-06-12-53-34.png)
+![](2026-04-06-12-53-34.webp)
 
 
 ## rank 
@@ -93,7 +93,7 @@ When used with a USB Wi-Fi adapter, a Wi-Fi antenna is suitable for laptops or d
 
 ![](2026-03-13-18-44-12.png)
 
-![](2026-03-13-18-44-27.png)
+![](2026-03-13-18-44-27.webp)
 
 ![](2026-03-13-18-45-00.png)
 

@@ -318,7 +318,7 @@ USB video capture card (e.g., EZCAP, Elgato Video Capture, or similar)
 
 PCIe capture card (for desktops)
 
-![](2025-04-01-18-03-24.png)
+![](2025-04-01-18-03-24.webp)
 
 ![](2025-04-01-18-04-23.png)
 

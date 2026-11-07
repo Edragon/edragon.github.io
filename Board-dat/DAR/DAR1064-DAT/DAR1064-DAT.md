@@ -54,7 +54,7 @@ sketch upload
 ## bootloader settings for the board
 
 
-![](2026-06-30-20-36-10.png) 
+![](2026-06-30-20-36-10.webp) 
 
 
 

@@ -31,7 +31,7 @@ ZMCT103C == current transformer
 - Packaging: Boxed
 - Quality: 100% brand new, original and genuine
 
-![](2024-12-04-18-44-22.png)
+![](2024-12-04-18-44-22.webp)
 
 Note: Ratio 1000:1 
 

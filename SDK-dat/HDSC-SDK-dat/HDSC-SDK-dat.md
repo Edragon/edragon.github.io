@@ -77,7 +77,7 @@ D:\Keil_v5\Packs\HDSC\HC32F003\1.0.1\Device\Include\HC32F003.h
 
 ## CCID writer 
 
-![](2026-02-21-15-54-34.png)
+![](2026-02-21-15-54-34.webp)
 
 
 ## demo 

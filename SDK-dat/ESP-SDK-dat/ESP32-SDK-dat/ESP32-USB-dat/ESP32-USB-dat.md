@@ -32,7 +32,7 @@ https://stackoverflow.com/questions/77141547/serial-monitoring-esp32c3
 
 ## USB 
 
-![](2024-08-05-18-16-35.png)
+![](2024-08-05-18-16-35.webp)
 
 - default as a comm port, and power supplied 
 

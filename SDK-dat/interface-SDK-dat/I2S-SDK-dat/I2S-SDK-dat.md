@@ -35,7 +35,7 @@ idf.py add-dependency "espressif/es8311"
 
 Open the `i2scodec` project and add the component as shown below:
 
-![](2025-08-09-13-18-12.png)
+![](2025-08-09-13-18-12.webp)
 
 Steps:
 - Open the ESP-IDF Terminal.

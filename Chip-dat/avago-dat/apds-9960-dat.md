@@ -32,7 +32,7 @@
 | 8   | VDD  | Power  | Power supply voltage                                                              |
 
 
-![](2026-03-02-19-32-06.png)
+![](2026-03-02-19-32-06.webp)
 
 
 

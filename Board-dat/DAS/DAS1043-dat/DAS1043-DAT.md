@@ -11,7 +11,7 @@
 - legacy wiki page L298N - https://w.electrodragon.com/w/Category:L298#Download
 
 
-![](2023-12-04-18-59-24.png)
+![](2023-12-04-18-59-24.webp)
 
 ## Pin Definitions 
 

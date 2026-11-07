@@ -163,9 +163,9 @@ This prevents undefined symbol errors during linking at `-O0` and `-O1` optimiza
 > **Tip:** Use uVision IDE's search function to find the above keywords and migrate them accordingly.
 
 
-![](2025-07-09-01-37-40.png)
+![](2025-07-09-01-37-40.webp)
 ![](2025-07-09-01-38-13.png)
-![](2025-07-09-01-38-22.png)
+![](2025-07-09-01-38-22.webp)
 
 
 

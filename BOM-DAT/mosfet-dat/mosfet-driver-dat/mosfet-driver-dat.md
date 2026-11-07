@@ -64,7 +64,7 @@ SCH
 
 MOSFET driver IC - Low Side High Side Gate Driver IC MOSFET SOIC-8
 
-![](2026-03-02-22-06-58.png)
+![](2026-03-02-22-06-58.webp)
 
 
 

@@ -48,7 +48,7 @@ On the ESP32-P4, there are two I2C bus interfaces. The chip's internal GPIO matr
 
 For ESP32-P4-NANO, the default I2C pins are SCL (GPIO8) and SDA (GPIO7).
 
-![](2025-08-09-12-52-02.png)
+![](2025-08-09-12-52-02.webp)
 
 #### I2C Configuration in ESP-IDF
 

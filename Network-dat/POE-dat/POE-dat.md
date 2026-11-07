@@ -42,7 +42,7 @@ SCH 1
 
 ![](2026-04-04-14-56-38.png)
 
-![](2026-04-04-14-56-52.png)
+![](2026-04-04-14-56-52.webp)
 
 interface POE and LAN 
 
@@ -50,7 +50,7 @@ interface POE and LAN
 
 name scrapped chip 
 
-![](2026-04-04-14-58-02.png)
+![](2026-04-04-14-58-02.webp)
 
 output 15V 0.8A 
 

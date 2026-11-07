@@ -42,7 +42,7 @@ wiring with [[DOD1017-dat]] - [[attiny44-dat]]
 
 ## driver 2 
 
-![](2026-02-26-16-21-27.png)
+![](2026-02-26-16-21-27.webp)
 
 - [[driver-software-dat]] fixed by zadig - [[zadig-dat]] - [[usb-sdk-dat]]
 
@@ -109,7 +109,7 @@ System wide configuration file is "C:\Users\Administrator\AppData\Local\Arduino1
 
 - [[DVA1007-dat]] - [[DVA1008-dat]] - [[DVA1009-dat]] - [[DVA1010-dat]]
 
-![](2026-04-28-13-11-14.png)
+![](2026-04-28-13-11-14.webp)
 
 
 ## repo

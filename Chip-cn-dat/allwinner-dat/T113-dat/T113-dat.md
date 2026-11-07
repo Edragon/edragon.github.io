@@ -32,7 +32,7 @@ Industrial Control PLC Solution
 
 Car MP5 Solution
 
-![](2025-08-09-00-58-06.png)
+![](2025-08-09-00-58-06.webp)
 
 
 Car Instrument Solution
@@ -42,7 +42,7 @@ Car Instrument Solution
 
 ## SCH 
 
-![](T113-thermal-1.png)
+![](T113-thermal-1.webp)
 
 ![](T113-SCH2.jpg)
 

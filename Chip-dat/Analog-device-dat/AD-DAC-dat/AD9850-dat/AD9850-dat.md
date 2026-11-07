@@ -30,7 +30,7 @@ Main Differences Between AD9850 and AD9851
 
 ## SCH 
 
-![](2026-07-26-15-26-36.png)
+![](2026-07-26-15-26-36.webp)
 
 
 ## ref 

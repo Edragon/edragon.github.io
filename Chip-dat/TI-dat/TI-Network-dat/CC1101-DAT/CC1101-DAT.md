@@ -23,7 +23,7 @@ Low-Power Sub-1 GHz RF Transceiver
 - Lower current consumption: 20mA averagely in RX mode and 30mA averagely in TX mode, at 10dBm
 
 ## Board Versions 
-![](36-52-17-29-01-2023.png)
+![](36-52-17-29-01-2023.webp)
 
 LSS - standard chip only version 
 - CC1101-LSS: Low Power, SPI interface, Spring Coil - [[NWL1037-DAT]]

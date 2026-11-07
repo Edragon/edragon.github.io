@@ -31,7 +31,7 @@ Vin == Vout * (R1 + R2) / R2
 
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. The formula for calculating the output voltage is based on Ohms Law and is shown below.
 
-![](../../Voltage-dat/voltage-divider-dat/2025-04-24-13-05-56.png)
+![](../../Voltage-dat/voltage-divider-dat/2025-04-24-13-05-56.webp)
 
 where:
 

@@ -203,7 +203,7 @@ Edit - Fill All Zones (B or Ctrl+B)
 
 Optimize the text size of the desginators
 
-![](2025-05-12-13-02-00.png)
+![](2025-05-12-13-02-00.webp)
 
 text width and height 0.6 mm 
 
@@ -217,7 +217,7 @@ output folder
 
 ## export output fab 
 
-![](2026-11-07-17-53-04.png)
+![](2026-11-07-17-53-04.webp)
 
 
 ## mimic to eagleCAD
@@ -249,7 +249,7 @@ layer
 - x.Fab
 - Edge.Cuts
 
-![alt text](95e854b5209f226b023ebe7765500e9.png)
+![alt text](95e854b5209f226b023ebe7765500e9.webp)
 
 ![](2026-07-02-17-45-25.png)
 

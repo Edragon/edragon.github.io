@@ -27,13 +27,13 @@
 - [[sensor-camera-CSI-dat]] - [[sensor-camera-dat]] - [[camera-CSI-dat]]
 
 
-![](2026-09-05-15-08-39.png)
+![](2026-09-05-15-08-39.webp)
 
 
 
 ## power part 
 
-![](2026-09-05-15-26-43.png)
+![](2026-09-05-15-26-43.webp)
 
 
 

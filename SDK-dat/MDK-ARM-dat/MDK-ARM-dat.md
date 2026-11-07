@@ -61,7 +61,7 @@ install from official websites
 
 ## install workflow 
 
-![](2025-08-28-13-49-30.png)
+![](2025-08-28-13-49-30.webp)
 
 - install MDK-ARM - mdk538a.exe
   - core d:\Keil_v5

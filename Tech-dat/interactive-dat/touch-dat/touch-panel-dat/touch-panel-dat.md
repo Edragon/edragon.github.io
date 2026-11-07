@@ -35,7 +35,7 @@ STMPE610 - S-Touch®: advanced touchscreen controller with 6-bit port expander
 
 build SCH 1 
 
-![](2026-09-05-15-05-05.png)
+![](2026-09-05-15-05-05.webp)
 
 
 

@@ -12,7 +12,7 @@
 - Still has low rate that the button has no response while pushing
 - issue still analyzing but not a big problem, we tested all the buttons before shipping
 
-![](2026-01-25-15-05-12.png)
+![](2026-01-25-15-05-12.webp)
 
 
 ## button types 
@@ -32,7 +32,7 @@ combinations
 - 带灯是8只脚
 - 无灯是6只脚。
 
-![](2026-05-15-14-16-28.png)
+![](2026-05-15-14-16-28.webp)
 
 
 ## Buttons Circuits 
@@ -47,7 +47,7 @@ voltage divider 1K / 4.7K / 10K == [[voltage-divider-dat]]
 
 [[analog-dat]] feedback multiple buttons 2 
 
-![](2025-12-16-19-32-25.png)
+![](2025-12-16-19-32-25.webp)
 
 
 

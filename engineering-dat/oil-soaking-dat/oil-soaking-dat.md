@@ -6,7 +6,7 @@
 
 ## power burned 
 
-![](2025-12-04-00-46-41.png)
+![](2025-12-04-00-46-41.webp)
 
 
 It looks like your 12V camera, after being soaked in mineral oil for a while, fails to start up after being powered off and on again.  

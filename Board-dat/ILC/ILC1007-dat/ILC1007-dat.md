@@ -15,7 +15,7 @@ with back PCB, 5VIN
 
 ## Dimension 
 
-![](2024-08-25-19-36-54.png)
+![](2024-08-25-19-36-54.webp)
 
 
 ## ref 

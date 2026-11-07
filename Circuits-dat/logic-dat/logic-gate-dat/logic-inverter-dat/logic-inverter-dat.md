@@ -24,7 +24,7 @@ how to select a suitable inverter
 
 - [[74LVC2G04]]
 
-![](2026-09-03-16-17-51.png)
+![](2026-09-03-16-17-51.webp)
 
 
 

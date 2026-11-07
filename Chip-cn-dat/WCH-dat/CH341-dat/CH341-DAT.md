@@ -60,7 +60,7 @@ http://www.wch-ic.com/downloads/CH341SER_EXE.html
 
 ![](2023-09-20-17-07-00.png)
 
-![](2023-09-20-17-07-18.png)
+![](2023-09-20-17-07-18.webp)
 
 common supported devices 
 

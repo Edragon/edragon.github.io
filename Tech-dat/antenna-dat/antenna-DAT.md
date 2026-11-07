@@ -87,7 +87,7 @@ connector convert cable [[IPEX-to-SMA-dat]]
 
 IPEX-1st-gen or IPEX-4th-gen or cable bare end 
 
-![](2026-04-05-01-04-52.png)
+![](2026-04-05-01-04-52.webp)
 
 - 线材 RG0.81/1.13/ 178线
 - 线长 50-1000mm(可定制)
@@ -187,7 +187,7 @@ VSWR stands for Voltage Standing Wave Ratio. It is a numerical measurement that 
 
 In simple terms, it measures impedance matching.
 
-![](2026-04-06-12-40-50.png)
+![](2026-04-06-12-40-50.webp)
 
 ### Polarization and Radiation Pattern
 
@@ -372,7 +372,7 @@ BAL-NRF01D3
 
 - [[antenan-PCB-dat]]
 
-![](2026-02-04-20-18-45.png)
+![](2026-02-04-20-18-45.webp)
 
 
 ## multiple frequencies 
@@ -384,7 +384,7 @@ BAL-NRF01D3
 
 ## dBi gain
 
-![](2026-04-05-01-32-19.png)
+![](2026-04-05-01-32-19.webp)
 
 - [[GSM-dat]] - [[antenna-dat]]
 

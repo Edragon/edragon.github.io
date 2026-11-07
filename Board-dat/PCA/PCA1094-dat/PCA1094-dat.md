@@ -18,7 +18,7 @@
 
 ### Board Map, Dimension, Pins, etc.
 
-![](2025-04-21-20-07-16.png)
+![](2025-04-21-20-07-16.webp)
 
 
 ## Applications, category, tags, etc. 

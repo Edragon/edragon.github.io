@@ -29,7 +29,7 @@ https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html
 
 esp32 by espressif systems
 
-![](2024-07-08-17-46-19.png)
+![](2024-07-08-17-46-19.webp)
 
 ![](18-04-16-05-06-2023.png)
 

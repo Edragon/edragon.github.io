@@ -11,7 +11,7 @@ make it == `make -C examples-api-use`
 
 ### P4 == HJCLPCB-P4RGB-2121-06D = 64x64 
 
-![](2025-07-14-20-02-40.png)
+![](2025-07-14-20-02-40.webp)
 
 2x 64x64 panels, multiplexing=0
 
@@ -22,7 +22,7 @@ make it == `make -C examples-api-use`
 
 ### P6-2727-8S-3232-S2 == 32x32 == outdoor 
 
-![](2025-07-14-20-02-10.png)
+![](2025-07-14-20-02-10.webp)
 
 2x 32x32 panels, multiplexing=1
 
@@ -81,7 +81,7 @@ Tested panel is 64x32 P4-256x128-2121-A1, multiplexing=0
     ./examples-api-use/demo -D 0 --led-cols=64 --led-rows=32 --led-multiplexing=0 --led-no-hardware-pulse
     ./demo -D 1 runtext.ppm --led-slowdown-gpio=4 --led-cols=64 --led-rows=32 --led-no-hardware-pulse 
 
-![](2024-11-07-18-11-15.png)
+![](2024-11-07-18-11-15.webp)
 
 ![](2024-11-07-18-11-28.png)
 
@@ -101,7 +101,7 @@ commands
 
 ![](2024-11-07-18-12-16.png)
 
-![](2024-11-07-18-12-30.png)
+![](2024-11-07-18-12-30.webp)
 
 ## 128x128 / 256x128 == X
 

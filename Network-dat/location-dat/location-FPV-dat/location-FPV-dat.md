@@ -47,7 +47,7 @@ Product specifications:
 
 ### pin definitions 
 
-![](2026-08-23-19-54-25.png)
+![](2026-08-23-19-54-25.webp)
 
 RTVG  
 

@@ -20,7 +20,7 @@ In the dynamic landscape of industrial automation, having a reliable `Programmab
 
 ## apps 
 
-![](2026-04-29-11-04-18.png)
+![](2026-04-29-11-04-18.webp)
 
 
 ## about PLC

@@ -8,7 +8,7 @@ The ATSHA204A acts as a "black box" for your secret key. You can put the key in,
 
 ## ATSHA204A
 
-![](2026-03-05-02-33-47.png)
+![](2026-03-05-02-33-47.webp)
 
 
 The ATSHA204A is a hardware security chip from Microchip that uses HMAC-SHA256 for authentication. Unlike more expensive chips (such as the ATECC608B), the ATSHA204A is a symmetric-key device: both the signer and the verifier must share the same secret key.

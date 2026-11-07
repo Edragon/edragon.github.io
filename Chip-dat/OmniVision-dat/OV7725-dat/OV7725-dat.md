@@ -44,7 +44,7 @@ The OV7725 sensor uses BGA packaging. Its front end is a lighting window and the
 
 ## SCH 
 
-![](2024-12-28-16-53-22.png)
+![](2024-12-28-16-53-22.webp)
 
 sch 2 
 

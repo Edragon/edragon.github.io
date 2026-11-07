@@ -24,7 +24,7 @@ Common Faults and Solutions
 
     *   Check if the visual image is correct. 👈 (The green box should just wrap the component and not be too large or too small.)
 
-    ![](2025-04-02-14-01-45.png)
+    ![](2025-04-02-14-01-45.webp)
 
 *   **Overall Component Offset**
 
@@ -36,7 +36,7 @@ Common Faults and Solutions
 
 1.  Modify the component angle in the component feeder settings page.
 
-    ![](2025-04-02-14-02-09.png)
+    ![](2025-04-02-14-02-09.webp)
 
 2.  Open the component's package page → General → Uncheck the box for "Length and width as direction."
 

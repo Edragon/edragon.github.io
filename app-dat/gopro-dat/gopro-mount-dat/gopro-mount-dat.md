@@ -35,7 +35,7 @@ integrated large mount
 
 ## three-teeth / two-teeth / four-teeth 
 
-![](2026-07-04-22-36-59.png)
+![](2026-07-04-22-36-59.webp)
 
 ## base that has a Nut placeholder 
 

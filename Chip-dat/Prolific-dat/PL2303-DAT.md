@@ -42,9 +42,9 @@ download the older driver from here: [[PL2303-W10RS3RS4-DCHU-DriverSetup_v1192_2
 
 inner boards 
 
-![](2026-01-26-15-07-20.png)
+![](2026-01-26-15-07-20.webp)
 
-![](2026-01-26-15-07-32.png)
+![](2026-01-26-15-07-32.webp)
 
 
 

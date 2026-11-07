@@ -18,7 +18,7 @@ DP3115 has configurable line drop compensation, configurable charging current li
 
 
 
-![](2026-09-22-21-49-11.png)
+![](2026-09-22-21-49-11.webp)
 
 
 

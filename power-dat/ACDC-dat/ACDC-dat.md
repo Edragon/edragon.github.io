@@ -115,7 +115,7 @@ In AC-DC switching power supply design, the main difference between **Primary-Si
 
 ## Board Function diagram 
 
-![](2025-02-03-15-20-49.png)
+![](2025-02-03-15-20-49.webp)
 
 - Power supply principle scheme block diagram
 - Mains power 220VAC
@@ -133,7 +133,7 @@ In AC-DC switching power supply design, the main difference between **Primary-Si
 
 ## Usage Applciation 
 
-![](2025-02-03-15-21-51.png)
+![](2025-02-03-15-21-51.webp)
 
 ## peripheral SCH 
 
@@ -150,7 +150,7 @@ In AC-DC switching power supply design, the main difference between **Primary-Si
 ## SCH ref 
 
 
-![](2024-03-21-14-52-51.png)
+![](2024-03-21-14-52-51.webp)
 
 - 4x diodes rectify bridge 
 
@@ -294,7 +294,7 @@ CX1 == [[capacitor-x-y-dat]]
 
 ![](2026-07-31-19-03-56.png)
 
-![](2026-07-31-19-04-07.png)
+![](2026-07-31-19-04-07.webp)
 
 - [[LM358-dat]] - [[ACDC-dat]] - 4890 ? - 
 
@@ -359,7 +359,7 @@ unknown chip - [[chip-unknown-dat]]
 
 ### build 2 
 
-![](2026-06-15-19-01-53.png)
+![](2026-06-15-19-01-53.webp)
 
 
 
@@ -417,7 +417,7 @@ The Half-Bridge topology utilizes two controlled switches connected in series ac
   * Voltage stress on each switch equals $V_{in}$.
 * **Typical Power Range:** Medium to High ($300\text{ W} \sim 1000\text{ W}$, e.g., PC ATX power supplies, industrial supplies).
 
-![](2026-07-25-19-34-51.png)
+![](2026-07-25-19-34-51.webp)
 
 ---
 

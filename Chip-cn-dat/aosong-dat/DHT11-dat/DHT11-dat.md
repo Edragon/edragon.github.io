@@ -31,7 +31,7 @@ The DHT11 sensor outputs data in the following format:
 
 命令发送和响应
 
-![](2025-07-30-16-37-36.png)
+![](2025-07-30-16-37-36.webp)
 
 数据0：
 

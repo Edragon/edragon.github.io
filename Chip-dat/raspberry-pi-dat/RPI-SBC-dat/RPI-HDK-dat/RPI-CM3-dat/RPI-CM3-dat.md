@@ -27,7 +27,7 @@ To learn more about the Raspberry Pi Compute Module, you can visit the official 
 - If you are looking for code examples and projects related to the Raspberry Pi Compute Module, you can explore the Raspberry Pi GitHub repository: Raspberry Pi GitHub: https://github.com/raspberrypi
 
 
-![](2023-10-27-16-45-37.png)
+![](2023-10-27-16-45-37.webp)
 
 CM3+: https://datasheets.raspberrypi.com/cm/cm3-plus-datasheet.pdf
 

@@ -17,7 +17,7 @@ waterproof button design
 
 ![](2026-05-24-13-43-53.png)
 
-![](2026-05-24-13-44-12.png)
+![](2026-05-24-13-44-12.webp)
 
 ![](2026-05-24-13-44-30.png)
 
@@ -49,7 +49,7 @@ charge port
 
 sealed back side - LED battery volumn indicator
 
-![](2026-05-24-13-41-11.png)
+![](2026-05-24-13-41-11.webp)
 
 overview 
 

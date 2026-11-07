@@ -50,7 +50,7 @@ Beyond balancing, a Passive BMS provides four critical safety layers:
 
 ## common passive BMS charger wring 
 
-![](2025-09-11-20-17-24.png)
+![](2025-09-11-20-17-24.webp)
 
 
 

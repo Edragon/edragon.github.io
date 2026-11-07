@@ -73,7 +73,7 @@ Suppose there are six LoRa devices: Device A, B, C, D, E, and F, forming a strea
 
 #### Communication Diagram
 
-![](2025-06-26-19-28-10.png)
+![](2025-06-26-19-28-10.webp)
 
 
 

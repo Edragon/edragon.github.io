@@ -187,7 +187,7 @@ UUID List
 If the transmission distance is relatively long, will it extend the network transmission distance if EY-24M/25M is placed every several dozen meters?
 - Answer: Yes
 
-![](2024-06-07-15-11-10.png)
+![](2024-06-07-15-11-10.webp)
 
 Example: A needs to send data to (C, D, E, F). Due to the long distance, A's signal cannot reach (C, D, E, F). Here, a device B needs to be placed between A and C to solve the communication distance problem between A and C.
 

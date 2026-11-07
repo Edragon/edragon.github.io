@@ -147,7 +147,7 @@ electrical appliances.
 - · Ramp current drive circuit included to reduce IC power loss and raise circuit efficiency.
 - · 4KV Anti-Static ESD test. 
 
-![](2026-02-06-20-22-15.png)
+![](2026-02-06-20-22-15.webp)
 
 
 

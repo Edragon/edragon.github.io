@@ -11,10 +11,10 @@ https://github.com/Edragon/OBD == Repository unavailable due to DMCA takedown.
 
 ![](2026-03-04-18-29-25.png)
 
-![](2026-03-04-18-29-33.png)
+![](2026-03-04-18-29-33.webp)
 
 
-![](2026-03-04-18-30-04.png)
+![](2026-03-04-18-30-04.webp)
 
 - [[CAN-dat]] - [[K-line-dat]] - [[OBD-dat]]
 

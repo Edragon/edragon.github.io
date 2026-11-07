@@ -97,7 +97,7 @@ build 2
 
 KT682 
 
-![](2026-09-08-15-35-15.png)
+![](2026-09-08-15-35-15.webp)
 
 M2544N == QM2544N5 M2544N - [[mosfet-dat]] - [[battery-protector-1s-dat]]
 

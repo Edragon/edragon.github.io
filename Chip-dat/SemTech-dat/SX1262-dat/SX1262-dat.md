@@ -119,7 +119,7 @@ While the silicon itself can tune to any frequency in this range, actual hardwar
 
 ## build 
 
-![](2026-07-31-19-56-55.png)
+![](2026-07-31-19-56-55.webp)
 
 
 

@@ -57,7 +57,7 @@ The fixed 600KHz allows the use of small external inductions and capacitors and 
 It integrates Soft start, Comp,. only need few components outside. It can output 6V 3.5A、9V 2A when 3.3V Battery input and output 6V 4.5A、9V 3A when 3.6V Battery input at good heat dissipation condition
 
 
-![](2026-03-01-15-16-07.png)
+![](2026-03-01-15-16-07.webp)
 
 
 ![](2026-02-12-20-16-37.png)
@@ -67,7 +67,7 @@ It integrates Soft start, Comp,. only need few components outside. It can output
 - If using USB to supply input power, Type‑C is recommended over micro‑USB because it supports much higher currents (up to 5 A on capable cables/hosts).
 - Suitable for routers, cameras, development boards and similar devices — provides seamless battery backup to keep the network online during power loss.
 
-![](2026-02-12-20-18-00.png)
+![](2026-02-12-20-18-00.webp)
 
 plus - [[TP4056-dat]]
 

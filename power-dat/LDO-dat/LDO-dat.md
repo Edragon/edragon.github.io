@@ -210,7 +210,7 @@ LD2980 - Ultra low drop voltage regulators compatible with low ESR output - [[ST
 
 - VGPS = 2.8V 
 
-![](2024-07-10-13-00-29.png)
+![](2024-07-10-13-00-29.webp)
 
 
 

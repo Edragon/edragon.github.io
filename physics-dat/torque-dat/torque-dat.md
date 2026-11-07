@@ -60,7 +60,7 @@ RC motors, servos, hobby electronics → kg·cm
 
 ## what is torque 
 
-![](2025-03-28-15-34-04.png)
+![](2025-03-28-15-34-04.webp)
 
 ![](2023-12-04-18-30-10.png)
 

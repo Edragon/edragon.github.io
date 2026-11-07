@@ -35,7 +35,7 @@ MR/MT/XT30/60/90/150 Lithium Battery Controller Motor Charger Power Connector AM
 
 ## common battery header connector
 
-![](2026-05-20-02-34-47.png)
+![](2026-05-20-02-34-47.webp)
 
 ## phone connector 
 

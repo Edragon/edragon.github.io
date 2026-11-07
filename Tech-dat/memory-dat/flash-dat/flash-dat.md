@@ -9,7 +9,7 @@
 - [[Flash-SPI-dat]] - [[Flash-NAND-dat]] - [[Flash-NOR-dat]] - [[flash-dat]]
 
 
-![](2026-05-22-19-01-49.png)
+![](2026-05-22-19-01-49.webp)
 
 - NOR 8M
 - NOR 16M
@@ -40,7 +40,7 @@ T25S80
 
 SCH 2 == MX25L8006EM1I-12G
 
-![](2026-08-25-13-58-14.png)
+![](2026-08-25-13-58-14.webp)
 
 
 SCH x 

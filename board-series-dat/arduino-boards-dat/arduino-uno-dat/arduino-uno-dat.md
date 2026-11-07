@@ -5,10 +5,10 @@ https://docs.arduino.cc/hardware/uno-rev3
 
 ## pin definitions 
 
-![](2025-11-15-17-20-20.png)
+![](2025-11-15-17-20-20.webp)
 
 
-![](2024-03-26-16-17-03.png)
+![](2024-03-26-16-17-03.webp)
 
 ## pin table
 

@@ -22,7 +22,7 @@ Dual LDO Regulator with ON/OFF Switch
 
 ## LN6401
 
-![](2026-07-23-03-48-58.png)
+![](2026-07-23-03-48-58.webp)
 
 ## VRD1828
 
@@ -51,7 +51,7 @@ TRANSIENT LOW DROPOUT LINEAR REGULATOR
 
 ## ME6206 
 
-![](2026-03-02-18-17-30.png)
+![](2026-03-02-18-17-30.webp)
 
 
 ## MIC5211
@@ -64,7 +64,7 @@ Dual µCap 80mA LDO Regulator
 
 - [[MIC5504-dat]] - [[MIC6365-dat]] - [[LDO-dat]] - [[LDO-2CH-dat]]
 
-![](2026-03-05-19-55-55.png)
+![](2026-03-05-19-55-55.webp)
 
 ## VDD and VDD_A 
 

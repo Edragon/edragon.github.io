@@ -14,7 +14,7 @@
 
 
 ## F to F
-![](2024-01-13-12-51-40.png)
+![](2024-01-13-12-51-40.webp)
 - [[PCA1054-dat]]
 - https://www.electrodragon.com/product/ff-40p-dupont-prototype-cables-female-female-end/
 

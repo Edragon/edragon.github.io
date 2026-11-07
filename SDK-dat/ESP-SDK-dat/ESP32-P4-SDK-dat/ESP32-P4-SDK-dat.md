@@ -65,7 +65,7 @@ This example demonstrates how to use the `esp_driver_cam` component to capture c
 
 This example shows how the onboard ESP32-C6 (slave) on ESP32-P4  enables WiFi AP functionality after ESP32-P4 registers the network via IP101. The workflow is illustrated below:
 
-![](2025-08-09-13-40-17.png)
+![](2025-08-09-13-40-17.webp)
 
 **Required Hardware:**
 - ESP32-P4  (host)

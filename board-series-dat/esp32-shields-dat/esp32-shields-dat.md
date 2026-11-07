@@ -19,7 +19,7 @@
 
 use a tool to level the stack out 
 
-![](2025-04-08-17-18-35.png)
+![](2025-04-08-17-18-35.webp)
 
 ## ref 
 

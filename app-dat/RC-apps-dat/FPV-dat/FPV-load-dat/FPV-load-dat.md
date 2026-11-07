@@ -55,7 +55,7 @@ To make a 50g dry build feel closer to stock response on your transmitter sticks
 
 [[camera-FPV-dat]] == 9g 
 
-![](2026-08-05-20-05-22.png)
+![](2026-08-05-20-05-22.webp)
 
 
 The stock analog camera on the Happymodel Mobula8 is the Caddx Ant Nano FPV Camera.  

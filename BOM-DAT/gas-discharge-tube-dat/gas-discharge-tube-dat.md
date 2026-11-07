@@ -13,7 +13,7 @@
 
 B88069X2140S102 - Gas Discharge Tubes - GDTs / Gas Plasma Arrestors A71-H08X
 
-![](2026-05-08-12-48-44.png)
+![](2026-05-08-12-48-44.webp)
 
 
 ## SMD4532-090NF 90V/3KA

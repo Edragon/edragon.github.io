@@ -16,7 +16,7 @@
 
 backside 
 
-![](2026-09-17-18-10-29.png)
+![](2026-09-17-18-10-29.webp)
 
 CSB
 RES
@@ -30,7 +30,7 @@ GND
 
 overview 
 
-![](2026-05-23-14-32-09.png)
+![](2026-05-23-14-32-09.webp)
 
 - [[ETA6980-dat]] - [[ETA-solutions-dat]]
 
@@ -60,7 +60,7 @@ G7CLF - high voltage provider chip - [[SG-micro-dat]] - [[SGM3752-dat]] - [[disp
 
 G248 SOT23-3 - [[GH1248-dat]] - [[golden-chip-dat]] - [[sensor-hall-dat]] 
 
-![](2026-05-23-14-35-33.png)
+![](2026-05-23-14-35-33.webp)
 
 
 battery connector 

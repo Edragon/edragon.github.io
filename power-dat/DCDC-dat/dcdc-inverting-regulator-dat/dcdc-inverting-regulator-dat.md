@@ -15,7 +15,7 @@ The MC34063A Series is a monolithic control circuit containing the primary funct
 
 boost SCH 
 
-![](2026-03-05-17-58-51.png)
+![](2026-03-05-17-58-51.webp)
 
 down SCH 
 

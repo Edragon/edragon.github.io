@@ -32,11 +32,11 @@ cut back and tape another side
 
 create slots to add ribs 
 
-![](2026-08-24-03-23-19.png)
+![](2026-08-24-03-23-19.webp)
 
 - [[wing-dat]] 
 
-![](2026-08-24-03-24-08.png)
+![](2026-08-24-03-24-08.webp)
 
 build the fuselage - [[airplane-fuselage-dat]] 
 
@@ -48,7 +48,7 @@ build head and [[propeller-tractor-dat]] holder
 
 add [[motor-servo-dat]] - [[airplane-sheet-dat]]
 
-![](2026-08-24-03-27-16.png)
+![](2026-08-24-03-27-16.webp)
 
 
 install [[propeller-tractor-dat]]

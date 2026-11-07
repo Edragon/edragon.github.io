@@ -25,7 +25,7 @@ MM32F0010A1T - TSSOP-20 Microcontrollers (MCU/MPU/SOC) ROHS
 
 ## build 
 
-![](2026-06-18-18-41-41.png)
+![](2026-06-18-18-41-41.webp)
 
 
 ## ref 

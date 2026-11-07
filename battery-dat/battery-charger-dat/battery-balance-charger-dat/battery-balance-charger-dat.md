@@ -22,7 +22,7 @@ LK-1008D
 
 - [[mosfet-dat]] B115 B14 - [[battery-balance-charger-dat]] - [[LK-1008D-dat]]
 
-![](2026-07-02-15-23-45.png)
+![](2026-07-02-15-23-45.webp)
 
 
 

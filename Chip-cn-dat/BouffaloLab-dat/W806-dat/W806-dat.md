@@ -1,6 +1,6 @@
 # W806-dat
 
-![](2026-02-12-14-41-56.png)
+![](2026-02-12-14-41-56.webp)
 
 - [[bouffalolab-dat]] - [[W616-dat]] - [[W806-dat]] - [[MCU-dat]] - [[wifi-dat]]
 

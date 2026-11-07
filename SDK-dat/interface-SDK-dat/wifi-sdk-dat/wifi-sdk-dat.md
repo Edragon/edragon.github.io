@@ -18,7 +18,7 @@ idf.py add-dependency "espressif/esp_hosted"
 
 Open the `wifistation` project and add the components as shown below:
 
-![](2025-08-09-13-11-39.png)
+![](2025-08-09-13-11-39.webp)
 
 Steps:
 - Open the ESP-IDF Terminal.
@@ -28,7 +28,7 @@ Steps:
 
 Next, click the ⚙️ (settings) icon and search for "Example". Set the WiFi SSID and password. Note: ESP32-C6 supports 2.4GHz WiFi 6 only, so ensure your target WiFi is 2.4GHz. Save your changes before proceeding!
 
-![](2025-08-09-13-12-08.png)
+![](2025-08-09-13-12-08.webp)
 
 Finally, click the 🔥 (build/flash/monitor) button. When complete, the terminal will show the connection result—your ESP32-P4 is now connected to WiFi:
 

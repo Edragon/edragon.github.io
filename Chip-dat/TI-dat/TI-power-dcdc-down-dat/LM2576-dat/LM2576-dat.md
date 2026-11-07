@@ -11,7 +11,7 @@ SIMPLE SWITCHER® 40V, 3A Low Component Count Step-Down Regulator
 
 ## SCH 
 
-![](2026-09-13-14-44-16.png)
+![](2026-09-13-14-44-16.webp)
 
 
 ## ref 

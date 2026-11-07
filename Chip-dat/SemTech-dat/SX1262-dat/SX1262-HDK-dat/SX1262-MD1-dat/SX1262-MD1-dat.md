@@ -49,7 +49,7 @@ Note: The current module uses a non-temperature-compensated crystal oscillator. 
 
 ## basic circuits 
 
-![](2025-06-23-18-03-55.png)
+![](2025-06-23-18-03-55.webp)
 
 
 - 4-line [[SPI-dat]] + BUSY + RESET + DIO1 + DIO3

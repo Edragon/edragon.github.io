@@ -10,7 +10,7 @@
 https://w.electrodragon.com/w/ESP32_RMP
 
 
-![](18-27-13-07-03-2023.png)
+![](18-27-13-07-03-2023.webp)
 
 ## Board map 
 

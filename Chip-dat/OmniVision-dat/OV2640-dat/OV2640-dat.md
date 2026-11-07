@@ -24,7 +24,7 @@ OV2640 Camera Module 2 Million Pixels HDF3M-811
 
 power supply - [[LDO-dat]] - [[LDO-2CH-dat]]
 
-![](2024-12-28-16-39-44.png)
+![](2024-12-28-16-39-44.webp)
 
 ![](2025-03-28-16-33-04.png)
 

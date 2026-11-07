@@ -19,7 +19,7 @@
 
 ## LGT8F328P-SSOP20 
 
-![](2025-06-25-14-39-49.png)
+![](2025-06-25-14-39-49.webp)
 
 
 | arduino     | LGT8F328 | pin | alt function | slave |

@@ -90,14 +90,14 @@ MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated 
 
 ## MPS1495 
 
-![](2025-08-07-13-05-43.png)
+![](2025-08-07-13-05-43.webp)
 
 
 ## MP28167 
 
 2.8V-22V VIN, 3A IOUT, 4-Switch Integrated Buck-Boost Converter with Fixed 5V Output
 
-![](2025-10-02-19-01-56.png)
+![](2025-10-02-19-01-56.webp)
 
 
 ## ref 

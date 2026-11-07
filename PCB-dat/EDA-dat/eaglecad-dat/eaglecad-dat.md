@@ -46,7 +46,7 @@ Minimun Sizes of objects in signal layers and of drill holes.
 
 12 mil 
 
-![](2026-01-06-17-34-51.png)
+![](2026-01-06-17-34-51.webp)
 
 thermal for vias 
 

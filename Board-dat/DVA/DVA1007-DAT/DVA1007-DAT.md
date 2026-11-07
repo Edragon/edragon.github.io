@@ -134,7 +134,7 @@ bootloader - **arduino pro mini 3.3V/8M** == [[arduino-dat]]
 
 - from USB Lora Board to [[DVA1008-dat]] running at 868mhz 
 
- ![](2025-07-03-19-31-14.png)
+ ![](2025-07-03-19-31-14.webp)
 
  ![](2025-07-03-19-31-32.png)
 

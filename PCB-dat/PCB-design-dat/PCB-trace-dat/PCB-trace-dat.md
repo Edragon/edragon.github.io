@@ -21,7 +21,7 @@
 
 ## heat dissipation solutions 
 
-![](2026-09-06-01-25-19.png)
+![](2026-09-06-01-25-19.webp)
 
 
 ## ref 

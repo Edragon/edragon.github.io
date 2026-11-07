@@ -20,7 +20,7 @@ build 1 - maybe the best all-in-one FPV camera canopy for analog camera
 
 - [[fab-3d-print-dat]]
 
-![](2026-09-20-15-03-41.png)
+![](2026-09-20-15-03-41.webp)
 
 https://www.printables.com/model/976803-betafpv-air-canopy-for-lower-cam-angles-for-air65
 
@@ -40,7 +40,7 @@ If only `PLA or ABS` are available, I would reduce the material thickness to a m
 
 ![](2026-07-01-17-27-11.png)
 
-![](2026-07-01-17-29-01.png)
+![](2026-07-01-17-29-01.webp)
 
 digital DJI O3 
 
@@ -59,7 +59,7 @@ digital DJI O3
 - 1 x Camera mount bracket
 - 2 x M1.2×5 screws
 
-![](2026-07-01-17-45-39.png)
+![](2026-07-01-17-45-39.webp)
 
 
 - [[betaFPV-air-2-dat]] - [[betaFPV-dat]] == lens dia 9-10mm 

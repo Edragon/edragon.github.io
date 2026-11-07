@@ -13,7 +13,7 @@
 - IP2365 power MOS, using synchronous switching architecture, switching frequency 400kHz, conversion efficiency of 94% (24V input, 16V/2A charging).
 - The IP2365's operating input voltage range is 4.5V to 26V, and the input can intelligently adjust the charging current to prevent the adapter from being suspended. Support external resistance to adjust the input undervoltage protection voltage.
 
-![](2026-02-12-18-47-55.png)
+![](2026-02-12-18-47-55.webp)
 
 - IP2365_LFP - datasheet == [[IP2365_LFP.pdf]]
 
@@ -33,7 +33,7 @@
 
 ![](2026-02-23-16-57-36.png)
 
-![](2026-02-23-16-59-31.png)
+![](2026-02-23-16-59-31.webp)
 
 
 - 1. Operating input voltage range: 5V to 26V (must be higher than battery voltage)

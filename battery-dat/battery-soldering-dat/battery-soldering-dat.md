@@ -6,7 +6,7 @@
 Support spot welding of nickel sheets, iron sheets, stainless steel sheets and other materials. Strong and versatile, strong welding, excellent welding points
 
 
-![](2025-05-08-01-10-00.png)
+![](2025-05-08-01-10-00.webp)
 
 ## stack soldering 
 

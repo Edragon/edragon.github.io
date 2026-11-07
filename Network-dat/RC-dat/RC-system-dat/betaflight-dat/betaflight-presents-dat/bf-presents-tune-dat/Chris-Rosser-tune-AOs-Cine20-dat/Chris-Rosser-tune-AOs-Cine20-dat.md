@@ -34,4 +34,4 @@ Check all of these (recommended)
 - [] Props out (check motor direction!)
 
 
-![](2025-09-12-16-39-59.png)
+![](2025-09-12-16-39-59.webp)

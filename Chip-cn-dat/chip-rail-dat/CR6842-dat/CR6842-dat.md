@@ -43,7 +43,7 @@ large [[capacitor-dat]] 400V 150UF
 
 - [[mosfet-dat]] - CMP50N06
 
-![](2026-07-25-18-17-07.png)
+![](2026-07-25-18-17-07.webp)
 
 - [[diode-dat]] == SR5200 
 

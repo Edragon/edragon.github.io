@@ -14,7 +14,7 @@
 
 https://www.diodes.com/assets/Datasheets/PAM8908.pdf
 
-![](2025-01-20-18-08-45.png)
+![](2025-01-20-18-08-45.webp)
 
 
 

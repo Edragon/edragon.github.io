@@ -11,7 +11,7 @@ legacy wiki page == https://www.electrodragon.com/w/SP200S%2B_USB_ISP_Programmer
 **Applications:** Supports programming of Atmel, Microchip, SST, ST, WINBOND series MCUs and EEPROMs (see the supported model list below).
 
 
-![](2026-05-27-12-59-22.png)
+![](2026-05-27-12-59-22.webp)
 
 ![](2026-05-27-12-59-33.png)
 

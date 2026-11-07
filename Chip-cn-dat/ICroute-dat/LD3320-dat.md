@@ -39,11 +39,11 @@ Supported MP3 formats: MPEG-1 (ISO/IEC 11172-3), MPEG-2 (ISO/IEC 13818-3), and M
 
 ## Schematic (reference)
 
-![](2026-02-27-02-38-07.png)
+![](2026-02-27-02-38-07.webp)
 
 SCH 2 
 
-![](2026-07-23-16-18-58.png)
+![](2026-07-23-16-18-58.webp)
 
 
 

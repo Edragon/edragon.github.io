@@ -141,7 +141,7 @@ Simple I2S audio output demo for ESP32-S3 → I2S amplifier (MAX98357 / PCM5102 
 
 ## build SCH 
 
-![](2026-09-05-01-39-58.png)
+![](2026-09-05-01-39-58.webp)
 
 
 ## demo 

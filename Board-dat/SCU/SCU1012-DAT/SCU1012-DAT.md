@@ -9,7 +9,7 @@
 
 all metal gears / 13KG.cm torque / 
 
-![](2025-12-05-19-31-30.png)
+![](2025-12-05-19-31-30.webp)
 
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
@@ -54,7 +54,7 @@ MG995 / MG996R are metal-gear servos with high torque suitable for RC cars, boat
 
 ## Accessories
 
-![](2025-12-05-19-29-18.png)
+![](2025-12-05-19-29-18.webp)
 
 ![](2025-12-05-19-29-35.png)
 

@@ -26,7 +26,7 @@ Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical
 
 male pin header one-row and two-row, straight and 90-degree, with different heights.
 
-![](2026-06-15-13-31-31.png)
+![](2026-06-15-13-31-31.webp)
 
 female connector 
 

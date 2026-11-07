@@ -18,7 +18,7 @@ TPS54302 4.5-V to 28-V Input, 3-A Output, EMI-Friendly Synchronous Step-Down Con
 SOT-23 (6) package
 
 
-![](2024-04-29-16-00-08.png)
+![](2024-04-29-16-00-08.webp)
 
 - [[dcdc-down-output-dat]]
 

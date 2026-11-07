@@ -99,7 +99,7 @@ https://www.espressif.com.cn/sites/default/files/documentation/esp32-s2-solo_esp
 
 ![](21-28-23-05-03-2023.png)
 
-![](42-28-23-05-03-2023.png)
+![](42-28-23-05-03-2023.webp)
 
 
 ## ref Documents

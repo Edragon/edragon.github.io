@@ -30,7 +30,7 @@ wget https://github.com/xboot/xfel/releases/download/v1.3.3/xfel-windows-v1.3.3.
 
 xfel version 
 
-![](2025-08-08-12-52-33.png)
+![](2025-08-08-12-52-33.webp)
 
 
 ## 🧩 XFEL Entry Procedure for F133-A / D1s

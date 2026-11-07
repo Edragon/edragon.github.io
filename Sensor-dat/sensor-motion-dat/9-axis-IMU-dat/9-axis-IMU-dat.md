@@ -81,7 +81,7 @@ example - [x-IMU3](https://x-io.co.uk/x-imu3/)
 
 ## SCH 
 
-![](2026-07-23-19-42-40.png)
+![](2026-07-23-19-42-40.webp)
 
 ## ref 
 

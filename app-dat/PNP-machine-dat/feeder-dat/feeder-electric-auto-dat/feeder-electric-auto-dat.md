@@ -40,7 +40,7 @@ electronics
 
 
 
-![](2026-08-11-16-00-22.png)
+![](2026-08-11-16-00-22.webp)
 
 - [[TC1508-dat]] - [[STM32-dat]]
 
@@ -82,7 +82,7 @@ side view
 
 ![](2026-08-11-15-59-34.png)
 
-![](2026-08-11-16-08-31.png)
+![](2026-08-11-16-08-31.webp)
 
 puller
 
@@ -96,7 +96,7 @@ puller
 
 puller cover 
 
-![](2026-08-11-16-09-38.png)
+![](2026-08-11-16-09-38.webp)
 
 
 details 
@@ -111,7 +111,7 @@ details
 3.元件跳起来，崩料，齿轮挂不住编带
 通常塑料编带因为太薄，送料过程中会发生抖动，或者无法挂住编带孔，从而发生崩落跳动。解决办法如下
 
-![](2026-06-25-13-59-39.png)
+![](2026-06-25-13-59-39.webp)
 
 
 1：退出编带，将飞达的金属压板按压变形，使金属片可以将编带按压紧固
@@ -139,7 +139,7 @@ details
 
 ### feeder hang-out 
 
-![](2025-04-02-16-35-53.png)
+![](2025-04-02-16-35-53.webp)
 
 
 
@@ -156,7 +156,7 @@ details
 
 1-3. 
 
-![](2025-04-02-14-08-06.png)
+![](2025-04-02-14-08-06.webp)
 
 4-6. 
 
@@ -168,11 +168,11 @@ details
 
 10-11. 
 
-![](2025-04-02-14-09-46.png)
+![](2025-04-02-14-09-46.webp)
 
 12 
 
-![](2025-04-02-14-12-35.png)
+![](2025-04-02-14-12-35.webp)
 
 13. If the tape is broken (too tight) or the film cannot be peeled off, adjust this screw. Turn clockwise to increase the pulling force, and counterclockwise to decrease the pulling force. Rotate one-sixth of a turn each time, and click the forward button to test after rotation.
 
@@ -180,7 +180,7 @@ details
 
 14. Because the plastic tape is too thin, the green pressure plate needs to be stuck on the metal strip and press down on the metal strip to expose the gear to the tape.
 
-![](2025-04-02-14-13-23.png)
+![](2025-04-02-14-13-23.webp)
 
 
 

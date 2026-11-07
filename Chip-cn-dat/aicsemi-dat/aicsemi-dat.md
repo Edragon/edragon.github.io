@@ -12,7 +12,7 @@ The `AIC8800` is a highly integrated Wi-Fi 6 (802.11ax) and Bluetooth wireless c
 It supports dual-band operations (2.4GHz and 5GHz) and is widely used in budget-friendly USB Wi-Fi adapters, development boards (like Radxa and Pine64), and embedded hardware ([[Rockchip-dat]], [[Allwinner-dat]]).
 
 
-![](2026-09-05-16-46-24.png)
+![](2026-09-05-16-46-24.webp)
 
 
 ## ref 

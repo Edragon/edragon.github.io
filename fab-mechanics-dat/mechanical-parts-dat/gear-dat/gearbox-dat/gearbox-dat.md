@@ -78,7 +78,7 @@ inner gear == "Clutch" gear
 
 ![](2026-03-06-16-40-30.png)
 
-![](2026-03-06-16-52-10.png)
+![](2026-03-06-16-52-10.webp)
 
 inner and outter pair 
 
@@ -144,7 +144,7 @@ RC clawer gearbox
 
 work with [[motor-stepper-dat]] - [[motor-brushless-dat]] - [[motor-servo-dat]]
 
-![](2026-03-02-21-05-32.png)
+![](2026-03-02-21-05-32.webp)
 
 meta cutting full metal gears 
 

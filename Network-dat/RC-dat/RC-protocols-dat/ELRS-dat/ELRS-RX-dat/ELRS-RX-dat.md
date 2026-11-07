@@ -294,7 +294,7 @@ UART baud == 420000 = 420K
 -   Equipped with a power amplifier (PA+LNA), providing 100mW telemetry output and better response speed;
 -   Theoretically compatible with most ELRS 2.4G transmitter modules on the market (requires firmware version 2.0 or above).
 
-![](2025-04-25-16-55-05.png)
+![](2025-04-25-16-55-05.webp)
 
 
 

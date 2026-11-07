@@ -56,7 +56,7 @@ Red Light 6A@250VAC ON/OFF DPST Snap in Panel
 
 1TL1-2D
 
-![](2025-11-29-20-11-07.png)
+![](2025-11-29-20-11-07.webp)
 
 
 ## ref

@@ -18,7 +18,7 @@ MBR2045DC-R - Schottky Diodes TO-263 SMD/SMT 1 Pair Common Cathode
 - Max Repetitive Reverse Voltage (Vrrm):45 V 
 - Max Forward Surge Current (Ifsm):260 A
 
-![](2026-10-14-02-03-22.png)
+![](2026-10-14-02-03-22.webp)
 
 
 - [[vishay-diode-dat]] - [[diode-dat]] - [[vishay-dat]] - [[diode-schottky-dat]]

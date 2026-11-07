@@ -53,7 +53,7 @@ Features
 - Thermal Shutdown (TSD)
 - Fault Condition Output (nFAULT)
 
-![](2026-02-06-20-27-03.png)
+![](2026-02-06-20-27-03.webp)
 
 Motor/Load Current (System Dependent)
 

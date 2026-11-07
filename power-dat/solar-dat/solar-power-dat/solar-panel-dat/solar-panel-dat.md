@@ -26,7 +26,7 @@ Solar panels are the heart of your system, capturing sunlight to generate electr
 | **Common Uses**           | Residential, commercial, high-performance needs | Older systems, budget-conscious applications | Windows, mobile power, campers, portable chargers |
 
 
-![](2025-06-15-01-49-33.png)
+![](2025-06-15-01-49-33.webp)
 
 *   **Types:**
     *   **Monocrystalline Silicon Panels:** Made from high-purity single crystalline silicon, offering high conversion efficiency (often >25%) and a uniform dark appearance. They are currently a market mainstream, though manufacturing costs can be higher. (See more at [[solar-panel-dat]] )
@@ -51,9 +51,9 @@ There are 3 main types of solar panels available in the solar market today. They
 - polycrystalline and 
 - thin-film solar panels. 
 
-![](2024-01-16-18-40-30.png)
+![](2024-01-16-18-40-30.webp)
 
-![](2024-01-16-18-41-04.png)
+![](2024-01-16-18-41-04.webp)
 
 ## Common Packaging Types 
 
@@ -76,7 +76,7 @@ PET (also known as Polyethylene terephalate) is a type of plastic which is commo
 
 This allows good sunlight absorption while keeping the solar panel lightweight (compared to glass laminated solar panels)
 
-![](2024-01-16-18-26-15.png)
+![](2024-01-16-18-26-15.webp)
 
 other lamination 
 

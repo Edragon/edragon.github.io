@@ -52,7 +52,7 @@ If a normal process is used instead of a real castellated-hole process, the foll
 2. the hole wall may have no copper left
 3. copper burrs may remain on the edge and cause solder bridging or shorts
 
-![](2026-04-18-15-03-59.png)
+![](2026-04-18-15-03-59.webp)
 
 ---
 
@@ -86,7 +86,7 @@ For castellated-hole boards:
 
 Do not use V-cut on the castellated-hole edge. V-cut may pull copper from the hole wall and lead to incomplete plating. Use CNC routing instead.
 
-![](2026-04-18-15-06-25.png)
+![](2026-04-18-15-06-25.webp)
 
 ### Stamp-Hole Panelization
 

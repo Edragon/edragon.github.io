@@ -34,11 +34,11 @@ Download
 
 ## Schematic 
 
-![](ST-INK_SCH.png)
+![](ST-INK_SCH.webp)
 
 ![](ST-LinkV2_amo.png)
 
-![](ST-LINK_X893_SCH.png)
+![](ST-LINK_X893_SCH.webp)
 
 ## Firmware management 
 

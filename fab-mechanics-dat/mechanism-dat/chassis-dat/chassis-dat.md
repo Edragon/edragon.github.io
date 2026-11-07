@@ -22,7 +22,7 @@
 
 ## comparision of 6WD 
 
-![](2026-08-05-06-43-10.png)
+![](2026-08-05-06-43-10.webp)
 
 
 A six-wheel-drive (6WD) autonomous vehicle with three wheels on each side is a classic chassis design widely used in mobile robotics and specialized unmanned ground vehicles (UGVs).
@@ -89,6 +89,6 @@ drive part
 
 ![](2026-10-02-18-57-41.webp)
 
-![](2026-10-02-18-58-26.png)
+![](2026-10-02-18-58-26.webp)
 
 ## ref 

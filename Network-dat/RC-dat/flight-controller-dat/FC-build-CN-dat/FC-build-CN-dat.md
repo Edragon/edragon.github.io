@@ -11,7 +11,7 @@
 
 - [[camera-IP-dat]] - [[openIPC-dat]] - [[VTX-dat]] + [[location-dat]] + [[flight-controller-dat]]
 
-![](2026-10-02-16-30-18.png)
+![](2026-10-02-16-30-18.webp)
 
 ![](2026-10-02-16-31-32.png)
 

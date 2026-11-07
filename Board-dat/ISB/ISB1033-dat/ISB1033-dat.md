@@ -4,7 +4,7 @@
 https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 
-![](2025-01-09-16-19-16.png)
+![](2025-01-09-16-19-16.webp)
 
 - 5.8x5.8 
 - 8x8
@@ -20,4 +20,4 @@ https://www.electrodragon.com/product/88-lock-non-homing-switch/
 
 ## Dimension 
 
-![](2025-01-09-16-21-33.png)
+![](2025-01-09-16-21-33.webp)

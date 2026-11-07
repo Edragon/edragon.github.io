@@ -35,7 +35,7 @@ An on-chip reset function can be used to restart the system microprocessor when 
 
 ## SCH 
 
-![](2026-07-23-17-26-07.png)
+![](2026-07-23-17-26-07.webp)
 
 
 ## ref 

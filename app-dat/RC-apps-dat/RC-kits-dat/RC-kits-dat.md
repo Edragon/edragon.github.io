@@ -30,7 +30,7 @@ basic RC link - [[rf-link-dat]]
 
 rc radio / wheels / lights - [[LED-dat]]
 
-![](2025-12-03-23-55-56.png)
+![](2025-12-03-23-55-56.webp)
 
 ![](2025-12-03-23-57-04.png)
 

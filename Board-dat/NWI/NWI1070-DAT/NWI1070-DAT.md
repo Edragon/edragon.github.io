@@ -7,7 +7,7 @@ https://www.electrodragon.com/product/esp-01-breakout-board/
 
 ### V2 Version
 
-![](2023-12-25-17-51-27.png)
+![](2023-12-25-17-51-27.webp)
 
 - Add onboard LDO regualtor AMS1117, input voltage can be 5V, provided stable power supply 
 - Add pull up and pull down control resistors for booting, pin 0, 2, EN, RST
@@ -45,7 +45,7 @@ Use Guide - Flash
 Please follow the soldering steps below to solder, otherwise the small board maybe a little difficult to do:
 
 
-![](50-36-15-18-04-2023.png)
+![](50-36-15-18-04-2023.webp)
 
 ![](06-37-15-18-04-2023.png)
 

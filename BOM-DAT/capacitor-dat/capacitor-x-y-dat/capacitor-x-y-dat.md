@@ -6,7 +6,7 @@
 
 - [[capacitor-X-Y-dat]] - [[capacitor-dat]] - [[CR6842-dat]]
 
-![](2026-07-25-18-49-15.png)
+![](2026-07-25-18-49-15.webp)
 
 - [[Capacitor-X2-dat]]  275V 310V 350V 
 

@@ -23,7 +23,7 @@ PCIE - USB SCH - [[NGS1075-dat]]
 
 ## clock generator 
 
-![](2026-08-25-13-56-30.png)
+![](2026-08-25-13-56-30.webp)
 
 
 

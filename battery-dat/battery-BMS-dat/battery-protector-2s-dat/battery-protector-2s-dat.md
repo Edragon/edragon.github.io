@@ -37,7 +37,7 @@ Best for: The human-carrying scooter project where knowing the remaining range i
 
 ## BMS 
 
-![](2026-02-12-20-52-35.png)
+![](2026-02-12-20-52-35.webp)
 
 ![](2026-02-12-21-10-52.png)
 

@@ -94,7 +94,7 @@ simple drive
 
 high drive - [[transistor-dat]]
 
-![](2026-01-31-16-35-14.png)
+![](2026-01-31-16-35-14.webp)
 
 
 

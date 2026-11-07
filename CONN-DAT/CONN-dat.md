@@ -194,7 +194,7 @@ M12A-12PMMR-SF8001 == M12 Metric Circular Connector, A-Coded, Metal Non-shielded
 
 ## build 
 
-![](2026-10-30-20-56-27.png)
+![](2026-10-30-20-56-27.webp)
 
 
 

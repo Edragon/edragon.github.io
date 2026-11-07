@@ -59,7 +59,7 @@ This module can be used in voltage reduction fields where the input voltage is h
 
 ![](2024-01-31-15-51-04.png)
 
-![](2024-01-31-15-51-18.png)
+![](2024-01-31-15-51-18.webp)
 
 
 ## ref 

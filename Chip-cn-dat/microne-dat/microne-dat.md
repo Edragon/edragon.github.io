@@ -41,7 +41,7 @@
 
 ME6215 == 500mA, High Input Voltage LDO Regulators, Input Voltage: 2V to 18V, Dropout Voltage: 0.3V@500mA (3.3V Output)
 
-![](2025-10-08-15-53-07.png)
+![](2025-10-08-15-53-07.webp)
 
 
 

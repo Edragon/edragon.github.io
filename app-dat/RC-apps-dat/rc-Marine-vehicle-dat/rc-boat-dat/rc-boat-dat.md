@@ -96,7 +96,7 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 
 
 
-![](2025-12-06-13-55-25.png)
+![](2025-12-06-13-55-25.webp)
 
 
 
@@ -123,27 +123,27 @@ the [[motor-driver-rc-dat]] hack as below:
 
 - [[mosfet-dat]] - [[infineon-mosfet-dat]] - [[infineon-dat]] - [[IOR-dat]]
 
-![](2026-05-30-15-40-55.png)
+![](2026-05-30-15-40-55.webp)
 
 
 
 inside 
 
-![](2026-05-28-11-45-35.png)
+![](2026-05-28-11-45-35.webp)
 
 ![](2026-05-28-11-45-47.png)
 
 ![](2026-05-28-11-46-06.png)
 
-![](2026-05-28-11-46-36.png)
+![](2026-05-28-11-46-36.webp)
 
 accessories 
 
-![](2026-05-30-15-43-22.png)
+![](2026-05-30-15-43-22.webp)
 
 plug in frequency 
 
-![](2026-05-30-15-22-33.png)
+![](2026-05-30-15-22-33.webp)
 
 - [[frequency-dat]] - [[27mhz-dat]] - [[frequency-rc-dat]]
 
@@ -159,7 +159,7 @@ rebuild
 
 ## build 2 controller board 2 
 
-![](2026-05-30-15-32-35.png)
+![](2026-05-30-15-32-35.webp)
 
 ![](2026-05-30-15-32-48.png)
 
@@ -178,7 +178,7 @@ rebuild
 
 ## DIY level build 
 
-![](2025-12-04-00-33-16.png)
+![](2025-12-04-00-33-16.webp)
 
 ![](2025-12-06-13-24-36.png)
 
@@ -221,7 +221,7 @@ cut a cross in a foam
 
 roughly cover the [[propeller-dat]] and use type lock it 
 
-![](2026-06-09-14-07-15.png)
+![](2026-06-09-14-07-15.webp)
 
 
 ## ref 

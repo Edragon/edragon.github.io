@@ -83,7 +83,7 @@ XC7A200T - FPGA - Field Programmable Gate Array XC7A200T-1FFG1156I
 
 ### Artix-7 FPGA Feature Summary
 
-![](2025-10-03-14-49-46.png)
+![](2025-10-03-14-49-46.webp)
 
 
 

@@ -43,7 +43,7 @@ Plug the USB capture card into your PC and open a webcam viewer or OBS Studio. K
 
 ## common analog sensor for car / truck surveillance
 
-![](2026-04-04-14-12-52.png)
+![](2026-04-04-14-12-52.webp)
 
 use - [[conn-audio-dat]] == signal normally == video out (CVBS) + power + GND
 
@@ -61,9 +61,9 @@ use - [[conn-audio-dat]] == signal normally == video out (CVBS) + power + GND
 - GND 
 - 5-36V 
 
-![](2025-09-17-00-15-38.png)
+![](2025-09-17-00-15-38.webp)
 
-![](2026-09-06-18-11-26.png)
+![](2026-09-06-18-11-26.webp)
 
 - [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-analog-dat]]
 

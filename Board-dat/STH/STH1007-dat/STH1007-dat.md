@@ -18,7 +18,7 @@ Wire length 1 meter, wire end pressure XH2.54 terminal
 
 Probe copper shell: 5*30MM
 
-![](2025-03-21-17-52-41.png)
+![](2025-03-21-17-52-41.webp)
 
 ![](2025-03-21-17-51-09.png)
 

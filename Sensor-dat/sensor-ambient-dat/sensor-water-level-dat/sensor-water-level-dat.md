@@ -7,7 +7,7 @@
 
 design a simple water level sensor, positive on the front and negative on the back 
 
-![](2025-12-05-02-58-22.png)
+![](2025-12-05-02-58-22.webp)
 
 
 

@@ -6,7 +6,7 @@
 
 6118A 
 
-![](2026-06-15-16-08-11.png)
+![](2026-06-15-16-08-11.webp)
 
 1A Adjustable Voltage High Speed LDO Regulators ME6118 Series
 

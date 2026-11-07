@@ -14,6 +14,6 @@ Corner Bracket
 
 bracket - L 
 
-![](2026-07-01-00-47-42.png)
+![](2026-07-01-00-47-42.webp)
 
 ## ref 

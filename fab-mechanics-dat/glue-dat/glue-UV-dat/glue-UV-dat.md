@@ -51,7 +51,7 @@ Here is a breakdown of why light-curing adhesive outperforms hot melt glue in ma
 
 fix in least down to 5 seconds 
 
-![](2026-06-25-13-30-47.png)
+![](2026-06-25-13-30-47.webp)
 
 Electronic components generate heat during use, but UV electronic adhesive is unaffected by heat-induced deterioration, maintaining stable sealing and fixing performance even at 120°C.
 
@@ -70,7 +70,7 @@ Impact resistance. Enhances the integrity of electronic components, improving th
 
 ## app 
 
-![](2026-06-25-13-32-21.png)
+![](2026-06-25-13-32-21.webp)
 
 ![](2026-06-25-13-32-40.png)
 

@@ -24,7 +24,7 @@ LED Indicator
 
 - recognized in [[MDK-ARM-dat]] as [[CMSIS-dap-dat]]
 
-![](2023-11-06-15-14-16.png)
+![](2023-11-06-15-14-16.webp)
 
 - DIO / CLK / SWO / TDI / RST on the front side 
 - Programming interface SWD shoul be used: 

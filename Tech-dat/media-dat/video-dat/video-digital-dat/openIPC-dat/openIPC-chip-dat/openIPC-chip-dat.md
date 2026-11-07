@@ -68,7 +68,7 @@ https://github.com/OpenIPC/PixelPilot/blob/master/app/src/main/res/xml/usb_devic
 
 ## RTL8822CU 
 
-![](2026-10-30-02-43-34.png)
+![](2026-10-30-02-43-34.webp)
 
 
 ## Chip solutions confirmed

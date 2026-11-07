@@ -17,7 +17,7 @@ git clone https://github.com/RT-Thread/rt-thread.git
 project - [[wch-fly-dat]]
 
 
-![](2025-08-28-18-00-45.png)
+![](2025-08-28-18-00-45.webp)
 
 
 

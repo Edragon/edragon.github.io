@@ -13,7 +13,7 @@ SH36730X is a digital front-end acquisition chip designed for 3 to 16 string lit
 
 ## SCH 
 
-![](2026-02-13-13-53-07.png)
+![](2026-02-13-13-53-07.webp)
 
 
 

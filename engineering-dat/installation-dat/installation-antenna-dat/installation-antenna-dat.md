@@ -21,7 +21,7 @@ dual antenna install
 
 ## foldable antenna stand
 
-![](2026-07-21-20-38-46.png)
+![](2026-07-21-20-38-46.webp)
 
 
 ![](2026-07-21-20-39-38.png)

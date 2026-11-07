@@ -63,7 +63,7 @@ non-inverting voltage reference
 
 Same for LMV321 
 
-![](2025-03-19-17-46-48.png)
+![](2025-03-19-17-46-48.webp)
 
 ## LM358 Equivalents
 
@@ -139,7 +139,7 @@ For example, in an audio signal amplification, the input audio signal(Voice) can
 - solar detector
 - solar voltage at 2.6-2.8V, output 3.5V 
 
-![](2024-03-28-17-24-55.png)
+![](2024-03-28-17-24-55.webp)
 
 
 ### mic pre-amp 
@@ -167,7 +167,7 @@ A shock alarm circuit similar to the one below can be found in both homes and ca
 
 The piezo sensor will have a low output when it is not active. The buzzer is activated when the Schmitt trigger is triggered by the piezo sensor's high output. It takes some time for the buzzer to stop beeping even if the vibration is disconnected. This happens because the state is difficult to invert and the inverting input, as it grows, has less of an impact once the LM358 IC is turned on.
 
-![](2025-03-19-02-54-15.png)
+![](2025-03-19-02-54-15.webp)
 
 
 ### LM358 for Square Wave Generator:
@@ -177,14 +177,14 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 ### LM358 based comparator uses single supply
 
-![](2025-03-19-03-11-00.png)
+![](2025-03-19-03-11-00.webp)
 
 ### negative output 
 
 ![](2025-03-19-03-12-41.png)
 
 ### Inverting Amplifier
-![](2025-03-19-03-13-25.png)
+![](2025-03-19-03-13-25.webp)
 
 ### Non-Inverting Amplifier
 
@@ -203,7 +203,7 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 - [[sensor-microphone-dat]] - [[motor-driver-dat]] - [[LM358-dat]]
 
-![](2026-03-05-13-51-27.png)
+![](2026-03-05-13-51-27.webp)
 
 
 ### microphone driver 

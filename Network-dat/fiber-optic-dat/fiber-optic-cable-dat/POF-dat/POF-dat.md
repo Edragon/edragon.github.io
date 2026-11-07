@@ -155,7 +155,7 @@ Received data from the IF-D91 photodiode is filtered and amplified through dual 
 
 This Click board™ makes the perfect solution for high-speed digital data links, local area networks, video links, EMC/EMI signal isolation, fiber optic modems, and more.
 
-![](2025-04-25-04-40-38.png)
+![](2025-04-25-04-40-38.webp)
 
 ## ref 
 

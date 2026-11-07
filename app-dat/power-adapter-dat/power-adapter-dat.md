@@ -23,11 +23,11 @@ front side
 
 ![](2026-06-19-16-47-20.png)
 
-![](2026-06-19-16-47-42.png)
+![](2026-06-19-16-47-42.webp)
 
 - [[diode-rectifier-dat]] - [[diode-dat]]
 
-![](2026-06-19-16-52-08.png)
+![](2026-06-19-16-52-08.webp)
 
 - [[mospec-dat]] - PY - [[MBR20250-dat]] == Schottky Barrier Rectifiers == 20 AMPERES 250 VOLTS - [[power-adapter-dat]]
 
@@ -43,7 +43,7 @@ front side
 
 SMTT5A 250V - [[fuse-dat]] - [[power-adapter-dat]]
 
-![](2026-06-19-17-11-22.png)
+![](2026-06-19-17-11-22.webp)
 
 TSF20N65 - 0322dr1 - [[mosfet-dat]]
 
@@ -57,7 +57,7 @@ JQH-22 2214 BCK-PQ32-5542B
 
 - [[capacitor-CBB-dat]] == CBB21 - 474J 450V - [[power-adapter-dat]]
 
-![](2026-06-19-17-19-10.png)
+![](2026-06-19-17-19-10.webp)
 
 - [[varistor-dat]] - 561KD10 - Varistors MOV Disc 10mm, 560V 2.5KA, Bulk - [[power-adapter-dat]]
 
@@ -82,7 +82,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[LM358-dat]] - [[power-adapter-dat]]
 
-![](2026-06-19-16-43-55.png)
+![](2026-06-19-16-43-55.webp)
 
 - [[mosfet-dat]] - [[NCEpower-dat]] - [[NCEpower-mosfet-dat]] - [[mosfet-dat]] - [[NCE6050-dat]]
 
@@ -123,7 +123,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 ZJNOG ZJN0G unknown 
 
-![](2026-06-19-14-27-35.png)
+![](2026-06-19-14-27-35.webp)
 
 ### build 2 
 
@@ -132,7 +132,7 @@ ZJNOG ZJN0G unknown
 
 ![](2026-06-17-21-37-50.png)
 
-![](2026-06-17-21-45-01.png)
+![](2026-06-17-21-45-01.webp)
 
 
 ### build 1
@@ -153,7 +153,7 @@ FS8623
 
 SOT23-5 
 
-![](2026-06-15-17-59-57.png)
+![](2026-06-15-17-59-57.webp)
 
 ## ref 
 

@@ -34,7 +34,7 @@ E_BUFF(mid two pins) to SEL1_BUFF or SEL1
 
 prototype board 
 
-![](2026-04-02-22-13-37.png)
+![](2026-04-02-22-13-37.webp)
 
 ![](2026-04-02-22-14-02.png)
 
@@ -122,7 +122,7 @@ right pins
 
 test chip DP5125 / MV245B
 
-![](2026-03-24-18-09-29.png)
+![](2026-03-24-18-09-29.webp)
 
 
 ## update log 

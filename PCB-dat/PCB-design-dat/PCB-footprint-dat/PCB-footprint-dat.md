@@ -374,7 +374,7 @@ SOD-123 is a small SMD package used for diodes, transistors, and other component
 
 back sink
 
-![](2026-06-16-21-02-21.png)
+![](2026-06-16-21-02-21.webp)
 
 
 ## ref 

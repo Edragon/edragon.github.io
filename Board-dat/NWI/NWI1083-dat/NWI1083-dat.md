@@ -13,7 +13,7 @@ https://w.electrodragon.com/w/Category:ESP8266_HDK
 
 ## Pin Definitions 
 
-![](2024-01-02-17-56-37.png)
+![](2024-01-02-17-56-37.webp)
 
 ![](2024-01-02-17-56-55.png)
 

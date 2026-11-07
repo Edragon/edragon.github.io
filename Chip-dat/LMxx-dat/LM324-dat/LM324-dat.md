@@ -49,7 +49,7 @@ In the same manner, the amplifier also makes negative voltages positive. A linea
 
 ### Noise-Test Circuit
 
-![](2025-11-01-18-21-07.png)
+![](2025-11-01-18-21-07.webp)
 
 
 

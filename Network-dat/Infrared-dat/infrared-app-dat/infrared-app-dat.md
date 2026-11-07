@@ -16,7 +16,7 @@
 
 2). `The receiving end`: the infrared receiving tube for receiving the infrared signal transmitter, converted into an audio signal through the LM386 audio amplifier chip, and the audio output signal can be amplified
 
-![](2026-05-15-14-25-03.png)
+![](2026-05-15-14-25-03.webp)
 
 
 Components List
@@ -33,7 +33,7 @@ Transmitter:  Component.  Label  Footprint  Value  Number
 - Resistance  R1  AXIAL-0.3  100  2
 - Resistance  R2  AXIAL-0.3  51K  2
 
-![](2026-05-15-14-29-06.png)
+![](2026-05-15-14-29-06.webp)
 
 
 

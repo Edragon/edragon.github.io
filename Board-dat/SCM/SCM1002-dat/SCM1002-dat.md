@@ -9,7 +9,7 @@
 
 ## Board Images and Dimension
 
-![](2025-03-28-13-52-58.png)
+![](2025-03-28-13-52-58.webp)
 
 ## Applications, category, tags, etc. 
 
@@ -26,13 +26,13 @@
 
 Add didoes on VCC pin, each camera should have two pieces of the 1N4148 diodes!
 
-![](2025-03-28-13-36-39.png)
+![](2025-03-28-13-36-39.webp)
 ![](2025-03-28-13-36-00.png)
 
 
 don't forget to cover each wire with protective sleeves
 
-![](2025-03-28-13-36-10.png)
+![](2025-03-28-13-36-10.webp)
 
 working status 1 
 ![](2025-03-28-13-36-19.png)
@@ -44,7 +44,7 @@ Better cover with another sleeve for all wires finally
 
 how to tune the lens distance manually 
 
-![](2025-03-28-13-37-14.png)
+![](2025-03-28-13-37-14.webp)
 
 
 

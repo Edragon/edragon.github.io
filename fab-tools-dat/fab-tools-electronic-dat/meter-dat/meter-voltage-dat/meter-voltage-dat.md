@@ -39,11 +39,11 @@ common range
 
 shared common ground wiring 
 
-![](2026-07-14-15-09-45.png)
+![](2026-07-14-15-09-45.webp)
 
 shared common ground and positive wiring
 
-![](2026-07-14-15-10-55.png)
+![](2026-07-14-15-10-55.webp)
 
 
 

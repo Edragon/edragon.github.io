@@ -75,7 +75,7 @@ correct connection pin to pin
 
 
 
-![](2025-12-20-18-48-02.png)
+![](2025-12-20-18-48-02.webp)
 
 
 ![](2025-12-20-18-46-06.png)
@@ -94,7 +94,7 @@ flipped connector 1 == horizontally flipped pin
 
 flipped connector 2 == horizontally flipped pin
 
-![](2025-12-20-18-55-37.png)
+![](2025-12-20-18-55-37.webp)
 
 flipped cable + flipped connector == horizontally + vertically flipped pin ??
 

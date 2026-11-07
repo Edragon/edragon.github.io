@@ -45,13 +45,13 @@ movement detection using in [[coilgun-dat]]
 
 receivers specifications 
 
-![](2025-11-08-18-46-59.png)
+![](2025-11-08-18-46-59.webp)
 
 demo 
 
-![](2025-11-08-20-16-16.png)
+![](2025-11-08-20-16-16.webp)
 
-![](2025-11-08-20-16-33.png)
+![](2025-11-08-20-16-33.webp)
 
 
 ## RPI-SCH 

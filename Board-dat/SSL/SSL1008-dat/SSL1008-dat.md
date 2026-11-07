@@ -3,7 +3,7 @@
 
 [ISD1820 Sound/Voice Recording/Playback/Recorder Module](https://www.electrodragon.com/product/isd1820-soundvoice-recording-playback-recorder-module-board/)
 
-![](2025-04-01-15-45-55.png)
+![](2025-04-01-15-45-55.webp)
 
 - [[ISD1820-dat]] == datasheet see here [[ISD1820Datasheet.pdf]].
 
@@ -26,7 +26,7 @@ Here's a more detailed breakdown:
 ![](2025-04-01-15-43-20.png)
 
 
-![](2026-07-23-17-17-12.png)
+![](2026-07-23-17-17-12.webp)
 
 
 ## ref 

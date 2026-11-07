@@ -63,7 +63,7 @@ OUTB to ADC0 - [[ADC-dat]]
 
 - [[ph-tester-dat]]
 
-![](2026-01-26-16-25-41.png)
+![](2026-01-26-16-25-41.webp)
 
 - IN+ IN- 
 - VS- VS+ 

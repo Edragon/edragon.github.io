@@ -17,7 +17,7 @@
 
 - [[MOC3052-dat]] - [[triac-driver-dat]]
 
-![](2026-06-15-18-26-11.png)
+![](2026-06-15-18-26-11.webp)
 
 BTB12-800 - [[triac-dat]] - [[hair-dryer-dat]]
 
@@ -34,7 +34,7 @@ BTB12-800 - [[triac-dat]] - [[hair-dryer-dat]]
 
 - [[diode-bridge-rectifier-dat]] - [[hair-dryer-dat]]
 
-![](2026-06-15-18-32-58.png)
+![](2026-06-15-18-32-58.webp)
 
 三个板子用的整流桥都是`KBP310`，前两个厂家一致，是威旺的，后面这个厂家是晶导微电子。
 

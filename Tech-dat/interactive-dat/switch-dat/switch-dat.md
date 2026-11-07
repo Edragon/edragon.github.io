@@ -60,7 +60,7 @@ mounting - panel == through hole or PCB - [[switch-pushbutton-panel-dat]] - [[sw
 
 ## SMD 3P-2T Switch 
 
-![](2026-02-11-17-12-35.png)
+![](2026-02-11-17-12-35.webp)
 
 ![](2026-02-11-17-13-26.png)
 
@@ -114,7 +114,7 @@ AP22652/AP22653/AP22652A/AP22653A - PRECISION ADJUSTABLE CURRENT-LIMITED POWER S
 
 - [[siber-dat]] - [[switch-dat]] - [[hair-dryer-dat]] - [[dyson-dat]]
 
-![](2026-06-15-18-36-33.png)
+![](2026-06-15-18-36-33.webp)
 
 SIBER戴森吹风机马达开关XN-14BX滑动开关10A250V 2脚2档电源开关
 

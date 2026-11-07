@@ -36,7 +36,7 @@ C:\WINDOWS\system32\cmd.exe /k ""c:\ESP\idf_cmd_init.bat" esp-idf-3e8dc98b7d231d
 
 winget install Espressif.EIM
 
-![](2026-06-04-21-40-24.png)
+![](2026-06-04-21-40-24.webp)
 
 
 custom installation path set to `d:\esp`

@@ -52,7 +52,7 @@ https://assets.nexperia.com/documents/data-sheet/BCX53_SER.pdf
 
 NPN and PNP
 
-![](2024-10-06-16-36-27.png)
+![](2024-10-06-16-36-27.webp)
 
 - ref - https://www.censtry.com/blog/transistor-npn-vs-pnp-difference-between-pnp-and-npn-transistor.html
 

@@ -27,7 +27,7 @@ DMG1024UV - N-Channel MOSFET
 
 front image at - [[motor-BLDC-driver-dat]]
 
-![](2026-03-02-21-40-17.png)
+![](2026-03-02-21-40-17.webp)
 
 
 

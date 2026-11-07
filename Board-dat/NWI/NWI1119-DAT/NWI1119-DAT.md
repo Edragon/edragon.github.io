@@ -57,7 +57,7 @@ ADC port  - [[ADC-dat]]
 
 
 
-![](2024-01-24-17-14-21.png)
+![](2024-01-24-17-14-21.webp)
 
     const char *ssid = "electrodragon";
     const char *password = "electrodragon";

@@ -31,7 +31,7 @@ The ESP32-P4  uses the ESP32-P4NRW32 chip, which features:
    ```
 3. Open your project, select the esp32p4 core, then click the 🔥 (build/flash/monitor) button. When complete, you should see the screen light up and display color bars:
 
-![](2025-08-09-13-30-30.png)
+![](2025-08-09-13-30-30.webp)
 
 
 ## ref 

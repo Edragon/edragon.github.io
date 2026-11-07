@@ -154,7 +154,7 @@ Once stabilized:
 - The ephemeris data continues to **refresh periodically**.
 - After stabilization, the **power consumption naturally decreases**.
 
-![](2026-01-19-16-07-33.png)
+![](2026-01-19-16-07-33.webp)
 
 An analogy:
 

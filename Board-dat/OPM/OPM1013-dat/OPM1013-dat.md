@@ -19,7 +19,7 @@ https://www.electrodragon.com/product/150w-adj-dc-boost-module/
 - Wiring method: No welding, terminal
 
 
-![](2024-10-08-16-50-10.png)
+![](2024-10-08-16-50-10.webp)
 
 ![](2024-10-08-16-50-38.png)
 

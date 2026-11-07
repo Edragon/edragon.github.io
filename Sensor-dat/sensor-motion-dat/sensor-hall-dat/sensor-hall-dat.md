@@ -15,7 +15,7 @@
 
 ### lid-close 
 
-![](2026-05-23-15-18-55.png)
+![](2026-05-23-15-18-55.webp)
 
 - [[GH1248-dat]]
 
@@ -72,7 +72,7 @@ TYPICAL APPLICATION
 
 ![](2026-02-06-19-14-45.png)
 
-![](2026-02-06-19-15-15.png)
+![](2026-02-06-19-15-15.webp)
 
 
 
@@ -102,7 +102,7 @@ CC6207ST SOT-23 Omnipolar Low-Power Hall Effect Switch Sensor
 
 hall sensor module 
 
-![](2026-03-05-02-25-56.png)
+![](2026-03-05-02-25-56.webp)
 
 ## integrated hall sensor in motor 
 

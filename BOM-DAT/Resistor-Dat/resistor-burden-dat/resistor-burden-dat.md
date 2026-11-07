@@ -38,11 +38,11 @@ In summary, a burden resistor is crucial for safely and accurately measuring cur
 
 ![](2025-05-20-13-40-57.png)
 
-![](2025-05-20-13-41-43.png)
+![](2025-05-20-13-41-43.webp)
 
 - footprint 2512 
 
-![](2025-05-20-13-43-59.png)
+![](2025-05-20-13-43-59.webp)
 
 - [[HLW8032-faq-dat]]
 

@@ -6,7 +6,7 @@ datasheet == https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
 
 ## Pins 
 
-![](2024-12-26-15-08-01.png)
+![](2024-12-26-15-08-01.webp)
 
 - L/R
 - WS

@@ -1,6 +1,6 @@
 # OPM1104-dat
 
-![](2023-12-06-17-54-54.png)
+![](2023-12-06-17-54-54.webp)
 
 [DC Buck Step-Down Power Module, 3A/24V, MP2315](https://www.electrodragon.com/product/dc-buck-step-power-module-3a24v-mp2315/)
 

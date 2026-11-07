@@ -22,7 +22,7 @@
 
 ## stroller classic suspension
 
-![](2025-11-27-17-20-43.png)
+![](2025-11-27-17-20-43.webp)
 
 ![](2025-11-27-17-21-11.png)
 
@@ -39,7 +39,7 @@
 
 ## suspension with rotation support 
 
-![](2025-11-27-15-42-51.png)
+![](2025-11-27-15-42-51.webp)
 
 
 ## rotating system 

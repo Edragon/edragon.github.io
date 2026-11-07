@@ -16,9 +16,9 @@ HFBR-14xxZ and HFBR-24xxZ Series Low-Cost, 820-nm Miniature Link Fiber-Optic Com
 
 ## APPs 
 
-![](2025-04-29-14-36-48.png)
+![](2025-04-29-14-36-48.webp)
 
-![](2025-06-18-19-51-39.png)
+![](2025-06-18-19-51-39.webp)
 
 ## rx - 2414TZ
 

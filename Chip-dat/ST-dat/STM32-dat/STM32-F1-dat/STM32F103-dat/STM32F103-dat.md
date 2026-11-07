@@ -2,7 +2,7 @@
 # STM32F103 DAT
 
 
-![](2024-07-03-14-01-41.png)
+![](2024-07-03-14-01-41.webp)
 
 STM32F103C6T6 - 32KB
 
@@ -20,7 +20,7 @@ https://www.st.com/en/microcontrollers-microprocessors/stm32f103c6.html
 
 ## LQFP64 pinout
 
-![](2025-07-04-12-24-38.png)
+![](2025-07-04-12-24-38.webp)
 
 ## LQFP48 pinout
 

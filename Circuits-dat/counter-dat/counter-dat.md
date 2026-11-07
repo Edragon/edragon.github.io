@@ -17,7 +17,7 @@ https://www.ti.com/product/SN54LS390/part-details/SNJ54LS390J
 ![](2026-10-28-16-21-03.png)
 
 
-![](2026-10-28-16-21-22.png)
+![](2026-10-28-16-21-22.webp)
 
 ## ref 
 

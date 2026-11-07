@@ -7,7 +7,7 @@ https://www.electrodragon.com/product/max485-rs-485-module-ttl-to-rs-485/
 
 RPI 
 
-![](2024-01-31-16-21-17.png)
+![](2024-01-31-16-21-17.webp)
 
 
 

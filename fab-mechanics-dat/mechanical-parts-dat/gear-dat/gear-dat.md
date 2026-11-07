@@ -76,7 +76,7 @@ For small-diameter wheels, the gear ratio is designed to balance pedaling effort
 | **Primary Use**      | Standard commuter bikes, vintage mountain bikes, most kids' bikes. | Track cycling (velodrome), "Fixie" culture, and some indoor trainers. |
 
 
-![](2026-03-01-00-53-41.png)
+![](2026-03-01-00-53-41.webp)
 
 
 ## Cassette

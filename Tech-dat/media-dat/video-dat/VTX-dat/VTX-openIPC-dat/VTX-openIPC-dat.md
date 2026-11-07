@@ -115,7 +115,7 @@ setup wfb.conf
 vi /etc/wfb.conf
 vi /etc/telemetry.conf
 
-![](2026-10-02-17-18-29.png)
+![](2026-10-02-17-18-29.webp)
 
 setup info telemetry.conf
 
@@ -183,7 +183,7 @@ vi /etc/majestic.yaml
 飞控 TX6 接 图传杜邦线（黄线 R 上）
 飞控 RX6 接 未焊线（一般不用）
 
-![](2026-10-02-18-10-34.png)
+![](2026-10-02-18-10-34.webp)
 
 ![](2026-10-02-18-13-50.png)
 

@@ -6,7 +6,7 @@
 
 - [[solar-driver-dat]] - [[solar-dat]] - [[solar-charger-dat]]
 
-![](2026-07-15-19-59-40.png)
+![](2026-07-15-19-59-40.webp)
 
 VIN == 3-24V控制板加强版
 

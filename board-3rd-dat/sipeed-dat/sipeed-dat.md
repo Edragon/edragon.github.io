@@ -7,7 +7,7 @@
 
 ## lichee zero == V3S
 
-![](2025-07-15-02-01-05.png)
+![](2025-07-15-02-01-05.webp)
 
 wiki.sipeed.com/soft/Lichee/zh/Zero-Doc/Start/intro_cn.html
 

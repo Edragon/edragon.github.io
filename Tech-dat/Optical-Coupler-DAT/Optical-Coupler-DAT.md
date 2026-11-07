@@ -48,7 +48,7 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 
 ## circuits 
 
-![](2025-05-29-16-00-18.png)
+![](2025-05-29-16-00-18.webp)
 
 
 

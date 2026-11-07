@@ -34,7 +34,7 @@ NP4P06 (specifically part number NP4P06MR-G) is a P-channel enhancement mode MOS
 
 LN2266 - Ultra-small, Low-voltage Start-up PWM Controlled Boost DC/DC Regulator
 
-![](2026-06-02-20-34-26.png)
+![](2026-06-02-20-34-26.webp)
 
 
 

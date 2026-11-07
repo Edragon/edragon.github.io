@@ -132,7 +132,7 @@ MSys/Mingw is not supported
 
 start from example 
 
-![](2025-07-30-16-06-09.png)
+![](2025-07-30-16-06-09.webp)
 
 
 

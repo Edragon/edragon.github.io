@@ -31,7 +31,7 @@ PCM512x 2-VRMS DirectPath™, 112-dB and 106-dB Audio Stereo DACsWith 32-Bit, 38
 
 ![](2024-12-03-17-25-44.png)
 
-![](2024-12-03-17-27-57.png)
+![](2024-12-03-17-27-57.webp)
 
 - normally use the [[SPI-dat]] output 
 

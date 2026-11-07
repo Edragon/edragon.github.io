@@ -4,7 +4,7 @@
 
 choose folder and install manually 
 
-![](2025-05-20-18-12-38.png)
+![](2025-05-20-18-12-38.webp)
 
 ![](2025-05-20-18-11-37.png)
 

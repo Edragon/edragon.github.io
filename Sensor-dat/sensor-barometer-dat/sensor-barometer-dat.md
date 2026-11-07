@@ -9,7 +9,7 @@
 
 https://www.st.com/en/mems-and-sensors/lps22hb.html
 
-![](2026-02-10-17-45-27.png)
+![](2026-02-10-17-45-27.webp)
 
 
 

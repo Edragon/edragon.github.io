@@ -13,7 +13,7 @@ legacy wiki page - https://www.electrodragon.com/w/DFPlayer_Mini
 
 ## Arduino Wiring 
 
-![](2024-05-10-17-41-08.png)
+![](2024-05-10-17-41-08.webp)
 
 ## backside 
 

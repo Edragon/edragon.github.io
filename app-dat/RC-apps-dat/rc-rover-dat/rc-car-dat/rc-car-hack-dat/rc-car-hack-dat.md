@@ -41,4 +41,4 @@
 
 The battery can be put in your top luggage rack 
 
-![](2025-05-12-18-37-13.png)
+![](2025-05-12-18-37-13.webp)

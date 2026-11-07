@@ -11,6 +11,6 @@ https://www.electrodragon.com/product/new-aa-battery-3v-holder-box-case-with-swi
 
 ![](2024-02-17-15-37-09.png)
 
-![](2024-02-17-15-37-21.png)
+![](2024-02-17-15-37-21.webp)
 
 - [[CPP1036]]

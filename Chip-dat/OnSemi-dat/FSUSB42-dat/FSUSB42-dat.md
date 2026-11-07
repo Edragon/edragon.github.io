@@ -6,7 +6,7 @@ FSUSB42 == Low-Power, Two-Port, High-Speed, USB2.0 (480Mbps) UART Switch
 
 - [[onsemi-dat]] - [[usb-hub-dat]] 
 
-![](2025-10-26-21-04-44.png)
+![](2025-10-26-21-04-44.webp)
 
 SEL table 
 

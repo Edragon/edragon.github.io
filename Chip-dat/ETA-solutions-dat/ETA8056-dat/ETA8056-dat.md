@@ -10,7 +10,7 @@ Integrated HV Power MOSFET  Quasi-Resonant PWM Controller for Fly-Back  Converte
 
 ## app 
 
-![](2026-06-19-14-25-36.png)
+![](2026-06-19-14-25-36.webp)
 
 ## ref 
 

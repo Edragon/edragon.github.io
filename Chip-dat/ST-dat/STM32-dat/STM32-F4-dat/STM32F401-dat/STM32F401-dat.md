@@ -4,7 +4,7 @@
 
 ## dev board pin definitions 
 
-![](2025-07-13-13-39-54.png)
+![](2025-07-13-13-39-54.webp)
 
 ## datasheet 
 
@@ -57,7 +57,7 @@ Demo Test for accelerator - facebook dead, please visit at our youtube
 
 ## SCH 
 
-![](2025-07-13-13-38-01.png)
+![](2025-07-13-13-38-01.webp)
 
 
 

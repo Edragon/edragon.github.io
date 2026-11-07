@@ -31,7 +31,7 @@ https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5335/PLT237-T10WH_R
 
 ## Everlight PLT131/T1/12 Photolink Fiber Optic Transmitter 650nm
 
-![](2025-04-21-16-00-21.png)
+![](2025-04-21-16-00-21.webp)
 
 ## PLR135/T8
 

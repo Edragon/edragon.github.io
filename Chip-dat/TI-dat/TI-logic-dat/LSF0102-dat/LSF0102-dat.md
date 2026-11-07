@@ -13,4 +13,4 @@ Allows bidirectional voltage-level translation between
 - 3.3V ↔ 5V
 
 
-![](2024-12-29-13-32-02.png)
+![](2024-12-29-13-32-02.webp)

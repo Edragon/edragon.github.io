@@ -16,14 +16,14 @@
 
 97 dia mm 
 
-![](2025-06-15-19-29-11.png)
+![](2025-06-15-19-29-11.webp)
 
 125 dia mm 
 
 
 ## 12"
 
-![](2025-06-15-19-44-50.png)
+![](2025-06-15-19-44-50.webp)
 
 12 inches is equal to:
 
@@ -36,7 +36,7 @@
 
 ## wheel front == Driven Wheel / Idler Wheel
 
-![](2026-03-01-00-14-25.png)
+![](2026-03-01-00-14-25.webp)
 
 
 wheel without motor 

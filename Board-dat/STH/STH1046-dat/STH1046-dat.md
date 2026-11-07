@@ -11,7 +11,7 @@ Precision = -/+ 2 C
 Resolution = 0.1 C 
 
 
-![](2024-02-28-16-18-08.png)
+![](2024-02-28-16-18-08.webp)
 
 ## Pin and circtuis 
 

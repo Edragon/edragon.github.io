@@ -21,7 +21,7 @@ The CN3302 is available in an 8-pin SOP8 package.
 
 ## SCH App 
 
-![](2024-12-29-14-57-24.png)
+![](2024-12-29-14-57-24.webp)
 
 - [[AO4468-dat]] - [[mosfet-dat]]
 
@@ -44,7 +44,7 @@ HT50 == [[LDO-dat]] - [[holtek-dat]]
  
 unknown chip H4012 G2423B1A == - [[HXC-dat]] - [[H4012-dat]] - [[dcdc-down-dat]]
 
-![](2026-06-18-17-34-51.png)
+![](2026-06-18-17-34-51.webp)
 
 红头充电输入，升压8.4V，黑头5V输出
 

@@ -10,7 +10,7 @@
 
 ## ESP32-LyraT-Mini V1.2 Electrical Block Diagram
 
-![](2025-01-10-18-42-14.png)
+![](2025-01-10-18-42-14.webp)
 
 
 

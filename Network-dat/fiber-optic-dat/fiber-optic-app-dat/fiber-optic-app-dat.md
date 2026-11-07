@@ -71,7 +71,7 @@ underwater robot communication
 
 tube communication 
 
-![](2025-03-28-17-41-33.png)
+![](2025-03-28-17-41-33.webp)
 
 
 

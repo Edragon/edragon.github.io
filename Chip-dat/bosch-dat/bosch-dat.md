@@ -42,7 +42,7 @@ The BMI055 is a very small, 6 axis inertial sensor, consisting of: A digital, tr
 
 ## BME688 
 
-![](2025-07-13-01-22-49.png)
+![](2025-07-13-01-22-49.webp)
 
 The BME688 AI environmental sensor is a cutting-edge MEMS device that integrates temperature, humidity, barometric pressure, and VOC detection into a compact unit. With ±0.5°C temperature, ±3% humidity, and ±0.6 hPa pressure accuracy.
 

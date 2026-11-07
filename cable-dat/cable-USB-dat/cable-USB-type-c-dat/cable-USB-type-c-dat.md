@@ -66,7 +66,7 @@ negotiation capabilities.
 
 ![](2026-03-15-02-05-38.png)
 
-![](2026-03-15-02-10-41.png)
+![](2026-03-15-02-10-41.webp)
 
 USB-C Single CC Wire Behavior (CC1 only)
 
@@ -84,7 +84,7 @@ Since there is no CC2 wire to provide "redundancy," the cable is only active in 
 
 ## 5-pin SBU cable USB 
 
-![](2026-03-15-02-10-59.png)
+![](2026-03-15-02-10-59.webp)
 
 USB-C (Power + Sideband) Cable Signal Reference
 

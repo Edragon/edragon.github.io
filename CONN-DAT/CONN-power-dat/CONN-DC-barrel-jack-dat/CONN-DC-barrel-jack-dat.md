@@ -56,9 +56,9 @@ comprehensive [[laptop-dat]] [[dc-barrel-jack-dat]] kit 34 in 1
 
 ![](2025-11-28-15-38-25.png)
 
-![](2024-11-20-13-37-54.png)
+![](2024-11-20-13-37-54.webp)
 
-![](2024-11-20-13-38-26.png)
+![](2024-11-20-13-38-26.webp)
 
 ![](2024-11-20-13-38-45.png)
 
@@ -108,7 +108,7 @@ Positive negative and extra earth pin in center (white)
 
 ## male-to-female female-to-male converter 
 
-![](2026-04-30-19-17-41.png)
+![](2026-04-30-19-17-41.webp)
 
 ![](2026-04-30-19-17-51.png)
 

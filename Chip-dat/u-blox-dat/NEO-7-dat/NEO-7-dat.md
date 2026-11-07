@@ -14,7 +14,7 @@ https://content.u-blox.com/sites/default/files/products/documents/NEO-7_DataShee
 
 - 15.9 x 12.1 
 
-![](2026-01-17-19-20-22.png)
+![](2026-01-17-19-20-22.webp)
 
 - DDC Data if D_SEL =1 (or open)
 - SPI Chip Select if D_SEL = 0
@@ -27,7 +27,7 @@ https://content.u-blox.com/sites/default/files/products/documents/NEO-7_DataShee
 
 ## wiring with RPI
 
-![](2024-08-05-16-52-27.png)
+![](2024-08-05-16-52-27.webp)
 
 
 ## ref 

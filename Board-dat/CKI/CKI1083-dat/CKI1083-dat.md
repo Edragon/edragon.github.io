@@ -14,7 +14,7 @@ https://www.electrodragon.com/product/wxd3-13-2w-10k-ohm-multiple-circles-potent
 ## Data 
 
 Dimension
-![](2023-12-19-15-21-41.png)
+![](2023-12-19-15-21-41.webp)
 
 Specs 
 ![](2023-12-19-15-20-27.png)

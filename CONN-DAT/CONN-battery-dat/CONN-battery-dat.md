@@ -27,7 +27,7 @@ EC5-F EC5-M 航模插头连接线 大电流100 动力电池 香蕉 插头
 
 ## portable device battery charging 
 
-![](2026-06-16-20-13-19.png)
+![](2026-06-16-20-13-19.webp)
 
 - [[vacuum-flask-dat]]
 

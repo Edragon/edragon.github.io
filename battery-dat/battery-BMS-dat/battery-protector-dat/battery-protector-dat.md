@@ -78,7 +78,7 @@ boards specs for reference only
 
 ## usage 
 
-![](2026-02-13-13-09-37.png)
+![](2026-02-13-13-09-37.webp)
 
 
 ## solutions 
