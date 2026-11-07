@@ -31,7 +31,7 @@ large [[capacitor-dat]] 400V 150UF
 
 - [[optical-coupler-dat]] - [[PC817-dat]]
 
-![](2026-07-25-18-15-18.png)
+![](2026-07-25-18-15-18.webp)
 
 - [[NTC-dat]] 2.5D-13 - [[varistor-dat]] - 10D471
 

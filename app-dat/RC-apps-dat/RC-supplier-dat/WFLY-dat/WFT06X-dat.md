@@ -25,7 +25,7 @@
 
 ## toggle switches 
 
-![](2025-05-05-15-03-29.png)
+![](2025-05-05-15-03-29.webp)
 
 
 | Switch      | State      |                             | Up                                 | Down                               |

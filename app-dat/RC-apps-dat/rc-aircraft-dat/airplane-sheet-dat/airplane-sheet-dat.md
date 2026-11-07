@@ -24,11 +24,11 @@
 
 cut back and tape another side 
 
-![](2026-08-24-03-21-57.png)
+![](2026-08-24-03-21-57.webp)
 
 45 degree side cut for later 90 degree fold
 
-![](2026-08-24-03-22-50.png)
+![](2026-08-24-03-22-50.webp)
 
 create slots to add ribs 
 

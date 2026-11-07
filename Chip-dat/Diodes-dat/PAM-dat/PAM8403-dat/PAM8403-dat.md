@@ -9,7 +9,7 @@
 
 ![](2023-11-09-16-29-14.png)
 
-![](2023-11-09-16-29-27.png)
+![](2023-11-09-16-29-27.webp)
 
 ## Design Notes PAM8403
 * Two ends of C32 and C34 must connect over PVDD and PGND.

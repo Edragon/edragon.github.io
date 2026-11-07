@@ -91,7 +91,7 @@ boards specs for reference only
 
 ## protector board 3-5s
 
-![](2026-06-08-01-38-04.png)
+![](2026-06-08-01-38-04.webp)
 
 
 ## chip

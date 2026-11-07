@@ -69,7 +69,7 @@ Notes:
 - If status indication is not required, tie CHRG to ground.
 - When no battery is connected, the charger will charge the output capacitor to the float voltage and CHRG remains high-impedance.
 
-![](2025-04-21-20-49-33.png)
+![](2025-04-21-20-49-33.webp)
 
 
 ## Design Notes

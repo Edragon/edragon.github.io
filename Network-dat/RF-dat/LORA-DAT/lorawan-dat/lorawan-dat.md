@@ -30,7 +30,7 @@ LoRaWAN is an open low-power wide-area network protocol built on LoRa radio modu
 - The MAC layer includes three types of node devices: Class A/B/C, which basically cover all IoT application scenarios. The main difference between them is the timing of node transmission and reception.
 - The Modulation layer includes EU868, AS430, etc., indicating that different countries use different frequency band parameters. For regional parameters, please refer to the reference link.
 
-![](2025-06-26-19-22-12.png)
+![](2025-06-26-19-22-12.webp)
 
 To achieve LoRaWAN network coverage in a city or other area, four components are required: nodes (LoRa node RF chips), gateways (also called base stations, LoRa gateway RF chips), servers, and the cloud, as shown in the diagram below.
 

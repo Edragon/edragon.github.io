@@ -52,7 +52,7 @@ female connector
 
 dimension 
 
-![](2024-12-30-16-39-04.png)
+![](2024-12-30-16-39-04.webp)
 
 
 ## bended 90-degree pin header
@@ -118,7 +118,7 @@ note below three version available, we only sell "right-bend" version here [[CCO
 ![](2025-09-26-16-08-49.png)
 
 
-![](2025-09-26-16-04-51.png)
+![](2025-09-26-16-04-51.webp)
 
 
 

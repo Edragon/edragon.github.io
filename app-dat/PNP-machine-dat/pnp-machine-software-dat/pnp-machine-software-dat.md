@@ -76,7 +76,7 @@ Feeder Types: Automatic Feeder, Bulk Material, Tape Bracket, Tray.
 Applicable Range: Whole reel components, components for large-volume mounting. The advantage is accurate feeding and no need to change materials frequently.
 Disadvantages: Slower loading, pay attention to the tightness of the tear film, and shims are required for plastic tape components.
 
-![](2025-04-01-16-38-08.png)
+![](2025-04-01-16-38-08.webp)
 
 1.  Select component information and test component recognition.
     -   1.1 ------ If the component's footprint is not automatically matched to a suitable footprint, you can create one using this button. The meaning of the footprint is very important for being able to correctly use the nozzle model and correctly identify the component.

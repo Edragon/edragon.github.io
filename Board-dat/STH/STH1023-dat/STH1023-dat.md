@@ -123,7 +123,7 @@ A4 03 09 05 0001008B08 49
 ## 5. PC Software Usage
 
 
-![](2025-07-24-13-14-49.png)
+![](2025-07-24-13-14-49.webp)
 
 - Use [[GY_UVI.zip]] for Windows.
 - Select the COM port connected to the module, baud rate, and ID (default 0xA4, or 0x00 if unknown).

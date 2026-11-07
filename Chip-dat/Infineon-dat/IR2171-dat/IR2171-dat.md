@@ -35,7 +35,7 @@ The opendrain outputs make easy for any interface from 3.3V to 15V
 
 ## SCH 
 
-![](2026-09-29-16-11-13.png)
+![](2026-09-29-16-11-13.webp)
 
 
 ## ref 

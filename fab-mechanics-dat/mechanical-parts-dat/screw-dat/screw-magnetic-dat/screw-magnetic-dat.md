@@ -32,7 +32,7 @@
 
 # magnetic-screw-dat 
 
-![](2024-02-17-14-20-10.png)
+![](2024-02-17-14-20-10.webp)
 
 ## 1317-M3
 - diameter 13mm, height 17mm

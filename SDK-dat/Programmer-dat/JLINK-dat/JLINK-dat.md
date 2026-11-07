@@ -19,7 +19,7 @@ path
 
 - [[JTAG-dat]] - [[SWD-dat]]
 
-![](2025-09-23-13-55-07.png)
+![](2025-09-23-13-55-07.webp)
 
 
 ## driver installation 

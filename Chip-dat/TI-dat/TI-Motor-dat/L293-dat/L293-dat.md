@@ -52,7 +52,7 @@ drive chip == [[74xx-dat]] - [[74HC06-dat]]
 
 RPI drive via [[74xx-dat]] 
 
-![](2026-01-31-16-25-42.png)
+![](2026-01-31-16-25-42.webp)
 
 - 1A 2A 3A 4A drive 1Y 2Y 3Y 4Y 
 

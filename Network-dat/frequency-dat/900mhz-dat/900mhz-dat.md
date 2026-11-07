@@ -69,7 +69,7 @@ This is dictated by the physics of radio. Below are the core advantages and trad
 
 ### 3dbi SMA
 
-![](2026-10-14-20-07-50.png)
+![](2026-10-14-20-07-50.webp)
 
 ### 4dbi SMA
 

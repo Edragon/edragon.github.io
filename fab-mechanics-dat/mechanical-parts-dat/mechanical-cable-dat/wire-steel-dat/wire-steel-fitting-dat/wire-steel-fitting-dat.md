@@ -40,7 +40,7 @@ Steel wire ropes have various fittings (end terminals, hooks, connectors, etc.).
 
 ## Wire Rope Clip / Clamp
 
-![](2025-11-26-20-21-04.png)
+![](2025-11-26-20-21-04.webp)
 
 
 ## category 

@@ -129,7 +129,7 @@ arduino shield with [[neo-6-dat]] + [[SD-dat]]
 [[NEO-6-dat]] to [[RS232-dat]]
 
 
-![](2026-01-19-13-31-13.png)
+![](2026-01-19-13-31-13.webp)
 
 
 ## build 

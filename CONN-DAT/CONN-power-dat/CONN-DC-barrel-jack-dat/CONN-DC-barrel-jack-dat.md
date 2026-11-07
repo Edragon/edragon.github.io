@@ -102,7 +102,7 @@ Positive negative and extra earth pin in center (white)
 
 ## 90-degree DC connector 
 
-![](2026-02-06-16-47-17.png)
+![](2026-02-06-16-47-17.webp)
 
 
 

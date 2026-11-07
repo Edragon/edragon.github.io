@@ -7,7 +7,7 @@ When measuring circuits or components, if you use a multimeter pen, you must hol
 
 ## color series 
 
-![](2024-10-04-18-01-24.png)
+![](2024-10-04-18-01-24.webp)
 
 - black
 - blue

@@ -35,7 +35,7 @@ Castellated holes, please make sure your board are designed correctly: Place hol
 
 - [[PCB-penalization-dat]] - [[PCB-form-dat]] - [[jieli-dat]]
 
-![](2026-06-17-14-51-50.png)
+![](2026-06-17-14-51-50.webp)
 
 
 

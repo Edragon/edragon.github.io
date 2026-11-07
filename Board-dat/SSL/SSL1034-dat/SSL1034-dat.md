@@ -9,7 +9,7 @@
  
 schematic 
 
-![](2025-04-01-13-00-01.png)
+![](2025-04-01-13-00-01.webp)
 
 
 ## Applications, category, tags, etc. 

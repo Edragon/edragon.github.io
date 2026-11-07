@@ -38,7 +38,7 @@ If you tell me your exact DF40 model number, I can tell you exactly how many pin
 
 ## male 【公座 嵌合1.50MM/3MM】DF40C-100DP-0.4V(51)
 
-![](2024-11-20-11-20-04.png)
+![](2024-11-20-11-20-04.webp)
 
 
 

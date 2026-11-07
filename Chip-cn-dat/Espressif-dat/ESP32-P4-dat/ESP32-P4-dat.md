@@ -75,7 +75,7 @@ Advantages:
 
 ## SCH
 
-![](ESP32-P4-SCH-1.png)
+![](ESP32-P4-SCH-1.webp)
 
 
 

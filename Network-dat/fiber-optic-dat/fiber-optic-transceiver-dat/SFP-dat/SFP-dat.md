@@ -158,7 +158,7 @@ It is a compact, hot-pluggable fiber optic transceiver used for data transmissio
 
 ![](2025-03-27-17-55-17.png)
 
-![](2025-03-27-18-41-19.png)
+![](2025-03-27-18-41-19.webp)
 
 SFP is short for Small Form-factor Pluggables, which is a small package pluggable optical transceiver module. SFP can be regarded as a pluggable version of SFF. Its electrical interface is 20pin gold finger, and the data signal interface is basically the same as the SFP module. The SFP module also provides an I2C control interface that is compatible with the optical interface diagnostics of the SFP-8472 standard.
 

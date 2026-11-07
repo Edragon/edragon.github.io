@@ -37,7 +37,7 @@ Its likely that you'll want reriggering, so be sure to put the jumper in the H p
 Power the PIR with 5V and connect ground to ground. Then connect the output to a digital pin. In this example we'll use pin 2.
 See the following picture about how it connects:
 
-![](2023-12-12-17-58-19.png)
+![](2023-12-12-17-58-19.webp)
 
 Without a microcontroller, PIR sensor can also be a simple TTL signal control relay, to use on many application such as road light!
 

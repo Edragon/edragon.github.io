@@ -37,7 +37,7 @@ PWM1
 
 关于OSD接线：飞控端口设置：mavlink，波特率115200，飞控TX接的摄像头上的pwm1 
 
-![](2026-10-02-17-14-02.png)
+![](2026-10-02-17-14-02.webp)
 
 
 ## Setup ethernet Configuration 

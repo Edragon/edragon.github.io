@@ -82,7 +82,7 @@ Before installing the driver:
 
 ## board and code 
 
-![](2026-06-04-17-00-24.png)
+![](2026-06-04-17-00-24.webp)
 
 - [[ARM1007-dat]]
 

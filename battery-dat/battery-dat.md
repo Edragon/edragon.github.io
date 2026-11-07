@@ -178,7 +178,7 @@ Usage: Devices that require more energy or have higher power consumption tend to
 
 ## BL-5C nokia battery 
 
-![](2025-08-19-18-20-56.png)
+![](2025-08-19-18-20-56.webp)
 
 
 

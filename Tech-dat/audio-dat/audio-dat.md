@@ -105,7 +105,7 @@ Different Frequencies: If you'd like to test other audible frequencies, try valu
 wiring to [[D1-dat]] - [[F133-dat]]
 
 
-![](2025-08-07-12-47-41.png)
+![](2025-08-07-12-47-41.webp)
 
 
 SCH2 

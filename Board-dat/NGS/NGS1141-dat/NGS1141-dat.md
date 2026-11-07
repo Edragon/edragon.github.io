@@ -64,7 +64,7 @@ Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
 [[serial-dat]] testing: 
 
-![](2025-09-10-13-48-17.png)
+![](2025-09-10-13-48-17.webp)
 
 - RX0 / TX0 / VBUS / GND 
 

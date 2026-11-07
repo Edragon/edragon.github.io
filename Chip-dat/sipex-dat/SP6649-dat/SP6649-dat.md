@@ -23,7 +23,7 @@ FEATURES
 - Under Voltage Lock-Out, 0.62V1 Programmable Low Battery Detect 1 Small 10 pin MSOP Package
 
 
-![](2026-06-15-17-49-04.png)
+![](2026-06-15-17-49-04.webp)
 
 
 ## ref 

@@ -26,7 +26,7 @@ very strong
 - easy deform 
 - deed holders 
 
-![](2025-12-04-19-13-12.png)
+![](2025-12-04-19-13-12.webp)
 
 ![](2025-12-04-19-13-31.png)
 

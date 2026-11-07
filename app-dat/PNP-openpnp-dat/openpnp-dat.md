@@ -98,7 +98,7 @@ DIY Pick and Place by Teton Technology – An Open Source DIY cartesian PnP mach
 
 
 
-![](2025-02-13-17-00-12.png)
+![](2025-02-13-17-00-12.webp)
 
 ### Vision System 
 - ELP Model USB100W03M, 720p USB Cameras which can be purchased on Amazon, AliExpress and eBay. Lenses are standard M12 mount and can be replaced to customize for your machine's geometry. See below for lens and positioning recommendations.

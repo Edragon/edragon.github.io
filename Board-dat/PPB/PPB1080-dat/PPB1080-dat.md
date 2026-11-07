@@ -18,7 +18,7 @@
 
 ## Board map 
 
-![](2024-08-26-18-25-06.png)
+![](2024-08-26-18-25-06.webp)
 
 - green box
   - 18650 battery on the backside of the baord - [[18650-battery-holder-dat]]

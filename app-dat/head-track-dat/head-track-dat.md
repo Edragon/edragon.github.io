@@ -58,7 +58,7 @@ extra pins
 - P0.29 AN3 GND
 - P0.28 AN4 GND
 
-![](2026-01-19-19-20-41.png)
+![](2026-01-19-19-20-41.webp)
 
 HeadTracker\firmware\src\src\boards
 

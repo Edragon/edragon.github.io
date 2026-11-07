@@ -108,7 +108,7 @@ ADM3053BRWZ - Signal and Power Isolated CAN Transceiver with Integrated Isolated
 
 ## SCH 
 
-![](2026-07-23-17-03-01.png)
+![](2026-07-23-17-03-01.webp)
 
 
 

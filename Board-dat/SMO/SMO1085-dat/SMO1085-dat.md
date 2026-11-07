@@ -140,7 +140,7 @@ Mode 4 — Command-triggered UART / RX-trigger
 - Serial settings: 9600, N, 8, 1.
 - Standby current: ~7 µA.
 
-![](2025-12-12-18-39-46.png)
+![](2025-12-12-18-39-46.webp)
 
 Mode 5 — ASCII serial output
 

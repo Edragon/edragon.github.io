@@ -7,7 +7,7 @@ EDXL6009# OPM1009-dat
 
 ### Board Map, Dimension, Pins, etc.
 
-![](2025-04-15-15-31-38.png)
+![](2025-04-15-15-31-38.webp)
 
 
 

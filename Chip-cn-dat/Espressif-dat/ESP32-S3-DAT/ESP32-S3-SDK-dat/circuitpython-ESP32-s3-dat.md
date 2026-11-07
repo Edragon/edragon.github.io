@@ -9,7 +9,7 @@ https://circuitpython.org/board/yd_esp32_s3_n16r8/
 
 ## install circuitpython and find driver 
 
-![](2025-07-31-13-09-24.png)
+![](2025-07-31-13-09-24.webp)
 
 
 Downloading adafruit-circuitpython-yd_esp32_s3_n16r8-en_US-9.2.8.uf2...

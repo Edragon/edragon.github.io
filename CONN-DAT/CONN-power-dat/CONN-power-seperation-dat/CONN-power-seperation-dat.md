@@ -20,7 +20,7 @@
 
 ![](2026-07-08-16-05-41.png)
 
-![](2026-07-08-16-06-23.png)
+![](2026-07-08-16-06-23.webp)
 
 - [[CONN-power-dat]] - [[CONN-power-seperation-dat]] - [[CONN-XT-dat]]
 

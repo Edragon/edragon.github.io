@@ -17,7 +17,7 @@
 
 - actually only 5S, each battery is 2500mAH 
 
-![](2025-06-05-16-48-47.png)
+![](2025-06-05-16-48-47.webp)
 
 How to series connect the battery pack 
 

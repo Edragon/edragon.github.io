@@ -2,7 +2,7 @@
 # display-dat
 
 
-
+- [[display-module-dat]] - [[display-dat]]
 
 - [[segment-display-driver-dat]] - [[segment-display-dat]] - [[display-driver-dat]] - [[display-dat]]
 
@@ -113,6 +113,12 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 - 屏幕采用的是1.69寸的电容触摸屏，驱动芯片为 [[ST7789-dat]]（spi接口），触摸驱动为 [[CST816-dat]]（i2c接口），采样排线插接的方式安装。
 
 - [[touchpanel-dat]]
+
+
+## app 
+
+- [[MCU-dat]] - [[display-dat]] - [[USB-SDK-dat]] - [[display-module-dat]]
+
 
 
 ## code 

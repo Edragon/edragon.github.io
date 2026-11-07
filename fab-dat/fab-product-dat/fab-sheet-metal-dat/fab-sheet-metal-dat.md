@@ -80,7 +80,7 @@ flange
 
 flange hold line 
 
-![](2026-01-01-01-13-20.png)
+![](2026-01-01-01-13-20.webp)
 
 - [[fab-sheet-metal-hem-dat]]
 
@@ -116,7 +116,7 @@ bend relief
 
 corner break 
 
-![](2026-01-01-01-14-14.png)
+![](2026-01-01-01-14-14.webp)
 
 
 - Supported 3D (required) formats: .step, .stp; Supported 2D formats: dwg, dxf, pdf; Compressed packages (zip, rar) can be uploaded directly.

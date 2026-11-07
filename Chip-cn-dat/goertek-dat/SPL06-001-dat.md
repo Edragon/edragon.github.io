@@ -25,4 +25,4 @@ The SPL06 is a high precision MEMS barometer, its resolution of altitude can up 
 
 ## SCH 
 
-![](2025-10-02-05-36-27.png)
+![](2025-10-02-05-36-27.webp)

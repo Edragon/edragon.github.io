@@ -47,7 +47,7 @@ un-smart vibrator
 
 - [[vibrator-dat]] - [[fab-sheet-metal-dat]]
 
-![](2026-08-11-15-00-10.png)
+![](2026-08-11-15-00-10.webp)
 
 ## build SCH 
 

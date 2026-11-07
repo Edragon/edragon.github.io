@@ -50,7 +50,7 @@ Once the shaft is inserted into the flange's central hole, the grub screws are t
 These components are commonly used in RC cars, robotics, CNC machines, and 3D printers for coupling motors to shafts or wheels.
 
 
-![](2025-06-07-13-14-07.png)
+![](2025-06-07-13-14-07.webp)
 
 ### set-screw flange for 100KG motor 
 

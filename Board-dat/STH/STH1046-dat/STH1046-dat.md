@@ -15,7 +15,7 @@ Resolution = 0.1 C
 
 ## Pin and circtuis 
 
-![](2024-02-28-16-19-49.png)
+![](2024-02-28-16-19-49.webp)
 
 
 ## library and demo code 

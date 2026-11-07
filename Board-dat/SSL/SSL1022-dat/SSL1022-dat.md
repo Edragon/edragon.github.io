@@ -17,7 +17,7 @@ information about photodetectors wiki page: [Photodetectors](https://en.wikipedi
 
 specfications 
 
-![](2025-04-01-15-52-56.png)
+![](2025-04-01-15-52-56.webp)
 
 
 ## Applications, category, tags, etc. 

@@ -71,7 +71,7 @@ HF32F-G-5-HS
 
 partially isolated relay control 
 
-![](2025-12-16-19-31-03.png)
+![](2025-12-16-19-31-03.webp)
 
 
 ### spindle motor drive 

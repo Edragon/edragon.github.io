@@ -39,7 +39,7 @@ The DHT11 sensor outputs data in the following format:
 
 数据1：
 
-![](2025-07-30-16-38-11.png)
+![](2025-07-30-16-38-11.webp)
 
 说明：上图中的特定值，其实是按要求时间段取的一个中间值，具体范围大家可以查询手册。
 

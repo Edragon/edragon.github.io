@@ -4,7 +4,7 @@
 
 ## check 
 
-![](2024-08-28-16-59-20.png)
+![](2024-08-28-16-59-20.webp)
 
 ## upgrade from slCAN to candlelight
 

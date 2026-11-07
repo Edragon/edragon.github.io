@@ -53,7 +53,7 @@ Flat Ribbon Cable (FRC) is a versatile cable featuring multiple parallel conduct
 
 made for same direction 
 
-![](2025-12-17-17-39-14.png)
+![](2025-12-17-17-39-14.webp)
 
 
 

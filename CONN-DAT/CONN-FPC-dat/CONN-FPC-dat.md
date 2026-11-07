@@ -12,7 +12,7 @@
 
 - [[CONN-FPC-dat]] - [[Wifi-SDIO-dat]]
 
-
+- [[CONN-FPC-dat]] - [[display-module-dat]]
 
 
 ## use 

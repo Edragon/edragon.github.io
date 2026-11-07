@@ -72,7 +72,7 @@ machine methods - [[fab-reflow-dat]]
 
 - include extra assembly, files 
   
-![](2024-07-31-17-26-21.png)
+![](2024-07-31-17-26-21.webp)
 
 
 ## PCBA Design 

@@ -63,7 +63,7 @@ These are highly efficient and keep the output shaft in line with the motor shaf
 
 ![](2026-03-02-20-51-29.png)
 
-![](2026-03-02-20-51-45.png)
+![](2026-03-02-20-51-45.webp)
 
 
 ![](2026-03-06-16-35-06.png)
@@ -91,7 +91,7 @@ just more nice examples
 
 double planetary gearbox 
 
-![](2026-03-14-13-18-54.png)
+![](2026-03-14-13-18-54.webp)
 
 ### Worm Gearbox: 
 

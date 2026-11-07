@@ -31,7 +31,7 @@ charge by USB or [[solar-dat]]
 
 not clearly show on this image, but it is working fine 
 
-![](2026-04-28-13-09-13.png)
+![](2026-04-28-13-09-13.webp)
 
 
 

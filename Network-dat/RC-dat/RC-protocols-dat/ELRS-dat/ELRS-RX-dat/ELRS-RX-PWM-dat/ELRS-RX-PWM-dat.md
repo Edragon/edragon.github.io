@@ -115,7 +115,7 @@ Failsafe
 
 default configuration of PWM 
 
-![](2026-10-31-20-10-46.png)
+![](2026-10-31-20-10-46.webp)
 
 
 default configuration of CRSF

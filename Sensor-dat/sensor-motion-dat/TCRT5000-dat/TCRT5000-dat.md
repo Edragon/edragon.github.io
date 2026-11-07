@@ -17,7 +17,7 @@ The TCRT5000 and TCRT500L are reflective sensors which include an infrared emitt
 
 full module SCH 
 
-![](2023-11-20-14-12-33.png)
+![](2023-11-20-14-12-33.webp)
 
 ![](2023-11-20-14-14-46.png)
 

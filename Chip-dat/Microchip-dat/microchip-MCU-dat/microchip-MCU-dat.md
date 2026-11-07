@@ -44,7 +44,7 @@ PIC16F877A - 28/40/44-Pin Enhanced Flash Microcontrollers
 
 PIC16F18877
 
-![](2025-10-23-14-45-28.png)
+![](2025-10-23-14-45-28.webp)
 
 PIC16F84A - 18-pin Enhanced FLASH/EEPROM 8-bit Microcontroller
 

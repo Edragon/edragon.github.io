@@ -13,7 +13,7 @@ wires
 
 shell connected to the earth 
 
-![](2026-08-09-18-08-37.png)
+![](2026-08-09-18-08-37.webp)
 
 wire bundles 
 

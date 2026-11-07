@@ -140,7 +140,7 @@ Once the GPS module has continuously tracked **three or more satellites**, the s
 - At **three satellites**, 2D (horizontal) positioning becomes possible.
 - At **four satellites**, you get **3D positioning** (including altitude).
 
-![](2026-01-19-16-07-02.png)
+![](2026-01-19-16-07-02.webp)
 
 
 After the module has been running for a while and has finished downloading enough current information:

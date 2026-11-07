@@ -117,7 +117,7 @@ TM7705+AD7705+16位ADC数据采集模块
 
 ### 2x mosfet 2x ADC measurement 
 
-![](2025-07-09-18-39-12.png)
+![](2025-07-09-18-39-12.webp)
 
 ### 4x ADC reader 
 

@@ -94,7 +94,7 @@ build 4
 
 build 3 - Automatic Power Source Selection and On/Off Switch
 
-![](2026-08-21-16-30-29.png)
+![](2026-08-21-16-30-29.webp)
 
 build 2 - [[dcdc-boost-down-dat]] + [[power-distribution-dat]] + [[battery-charger-dat]] + [[ADC-bat-monitor-dat]] + [[ESP32-HDK-dat]] + [[LED-dat]]
 

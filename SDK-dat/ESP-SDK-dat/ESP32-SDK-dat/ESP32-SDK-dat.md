@@ -20,7 +20,7 @@
 
 - [[arduino-dat]]
 
-![](2026-04-02-20-42-06.png)
+![](2026-04-02-20-42-06.webp)
 
 - flash tool == [[flash-download-tool-dat]] - - [[esptool-dat]]
 

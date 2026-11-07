@@ -82,7 +82,7 @@ No — the drill bits for **ceramic tile** and **glass** are **not exactly the s
 
 ### polishing 
 
-![](2025-11-26-16-49-54.png)
+![](2025-11-26-16-49-54.webp)
 
 
 ## ref 

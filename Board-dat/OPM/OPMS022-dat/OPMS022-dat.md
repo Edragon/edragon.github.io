@@ -20,7 +20,7 @@ An input voltage of 12V current 4.17A, boost output voltage of 20V current 2.4A,
 
 Input voltage of 54V current 13.5A, output 58V current 12A use 5Ω1Kw resistor as a load test, an efficiency of 95%, Module output 965W
 
-![](2025-02-06-16-20-24.png)
+![](2025-02-06-16-20-24.webp)
 
 ![](2025-02-06-16-20-32.png)
 

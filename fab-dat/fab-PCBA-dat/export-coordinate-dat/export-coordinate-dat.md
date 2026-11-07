@@ -88,7 +88,7 @@ the following solid-red mark is must-pick
 
 ![](2025-04-01-16-24-25.png)
 
-![](2025-04-01-16-24-34.png)
+![](2025-04-01-16-24-34.webp)
 
 
 ## export methods for LC EDA 

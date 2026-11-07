@@ -15,7 +15,7 @@
 
 - [[PWM-dat]] - [[LM393-dat]] - [[fan-dat]]
 
-![](2026-09-24-21-42-01.png)
+![](2026-09-24-21-42-01.webp)
 
 ## common tuning methods for LM393
 

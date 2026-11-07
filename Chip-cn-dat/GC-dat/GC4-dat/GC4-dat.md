@@ -59,7 +59,7 @@ GC40 is a low-power Bluetooth (BLE) module based on a cost-effective System-on-C
 
 ## Schematic
 
-![](2026-02-07-17-33-34.png)
+![](2026-02-07-17-33-34.webp)
 
 
 

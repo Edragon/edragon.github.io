@@ -113,7 +113,7 @@ the [[motor-driver-rc-dat]] hack as below:
 
 - [[UTC3361-dat]] - [[UTC358-dat]] - [[LM358-dat]]
 
-![](2026-05-28-11-46-21.png)
+![](2026-05-28-11-46-21.webp)
 
 - [[RF-filter-dat]] - [[BOM-dat]]
 
@@ -217,7 +217,7 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 
 cut a cross in a foam
 
-![](2026-06-09-14-06-42.png)
+![](2026-06-09-14-06-42.webp)
 
 roughly cover the [[propeller-dat]] and use type lock it 
 

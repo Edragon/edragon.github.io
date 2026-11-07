@@ -77,7 +77,7 @@ overview
 
 ![](2026-10-02-18-48-55.png)
 
-![](2026-10-02-18-49-09.png)
+![](2026-10-02-18-49-09.webp)
 
 - [[chassis-dat]] - [[differential-steering-dat]] - [[suspension-dat]]
 
@@ -87,7 +87,7 @@ overview
 
 drive part 
 
-![](2026-10-02-18-57-41.png)
+![](2026-10-02-18-57-41.webp)
 
 ![](2026-10-02-18-58-26.png)
 

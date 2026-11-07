@@ -11,7 +11,7 @@ discharge current at `400 mA ~ 500mA`
 
 ## delipow
 
-![](2026-06-04-22-20-08.png)
+![](2026-06-04-22-20-08.webp)
 
 ## ref 
 

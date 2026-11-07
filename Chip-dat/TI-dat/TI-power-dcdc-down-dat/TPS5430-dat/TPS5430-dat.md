@@ -15,7 +15,7 @@ Available in small thermally enhanced 8-pin SO PowerPAD™ integrated circuit pa
 
 - [[resistor-feedback-dat]] 
 
-![](2025-12-25-20-41-03.png)
+![](2025-12-25-20-41-03.webp)
 
 
 

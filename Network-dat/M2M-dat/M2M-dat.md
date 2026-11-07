@@ -96,7 +96,7 @@ RI usually keeps high level output. When receiving a short message or URC report
 
 After outputting low level, RI will remain low until the host accepts the call using the "ATA" command or the caller stops calling RI, in the end, it will become high level.
 
-![](2025-04-18-20-54-36.png)
+![](2025-04-18-20-54-36.webp)
 
 **DTR for sleep mode**
 

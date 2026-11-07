@@ -99,7 +99,7 @@ similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]
 
 - two rows of soldering together 
 
-![](2026-06-02-19-11-04.png)
+![](2026-06-02-19-11-04.webp)
 
 ![](2026-06-02-19-11-17.png)
 
