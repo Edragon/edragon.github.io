@@ -25,9 +25,15 @@
 
 ## marking 
 
-- T4 
-- F7
-- W9 == BZT52C10
+
+| model     | specs | mark | package | type  |
+| --------- | ----- | ---- | ------- | ----- |
+| BZT52C5V6 | 5.6V  | W9   | SOD-123 | Zener |
+| BZT52C10  | 10V   | WF   | SOD-123 | Zener |
+|           |       | F7   |         |       |
+| 1N4148    |       | T4   |         |       |
+
+
 
 ## footprint 
 

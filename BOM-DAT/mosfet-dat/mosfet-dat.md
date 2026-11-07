@@ -105,6 +105,29 @@ common brand: [[Vishay-dat]]
 
 
 
+## common popluar 
+
+SOT23-3
+- [[AO3401-dat]] - [[AO3400-dat]] - [[AO3401A-dat]] - [[AO3400A-dat]] 
+- [[2N7002-dat]] - [[BSS138-dat]]
+- [[SI2301-dat]]
+
+SOP-8
+- [[AO4407-dat]]
+
+TO-252 
+- [[AOD4185-dat]] - P - 40A / 40V
+- 30N06
+- AOD4184A - N 
+- NCE6020AK - N 
+- IRF540NPBF - N 
+
+PDFNWB-8L-EP(5x6)
+- CJAC70P06
+
+DFN-8 (3x3)
+- DFN-8(3x3)
+
 
 
 ## model selections 
