@@ -11,7 +11,7 @@
 | model    | current | mark | type             | price | package | channel | Vds |
 | -------- | ------- | ---- | ---------------- | ----- | ------- | ------- | --- |
 | NCE40P70 | 70A     |      |                  |       |         |         | 40V |
-| NCE4080  |
+| NCE4080  |         |      |                  |       |         |         |     |
 | NCE6050  |         |      | [[ncepower-dat]] | 50A   | TO-252  | N       | 60V |
 
 

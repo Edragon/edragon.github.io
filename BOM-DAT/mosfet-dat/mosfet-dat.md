@@ -117,10 +117,13 @@ SOP-8
 
 TO-252 
 - [[AOD4185-dat]] - P - 40A / 40V
+- IRFR9024NTRPBF - P - 11A / 55V [[Infineon-mosfet-dat]]
 - 30N06
 - AOD4184A - N 
-- NCE6020AK - N 
+- NCE6020AK - N - [[NCEpower-mosfet-dat]] 
 - IRF540NPBF - N 
+
+- [[AOD4184-dat]] - N - 
 
 PDFNWB-8L-EP(5x6)
 - CJAC70P06
@@ -224,7 +227,6 @@ HJ 3080A D525
 ## un-sorted 
 
 
-[IRFR9024NTRPBF](https://www.mouser.com/ProductDetail/Infineon-Technologies/IRFR9024NTRPBF?qs=Z8%252BeY1k3TIJekAbEhgu%252Bew%3D%3D&srsltid=AfmBOoqKGP8aHm74B9312WuxuX7y4bEFDy1WcflW4OEgSeYNU95cLDF6) == MOSFETs 1 P-CH -55V HEXFET 175mOhms 12.7nC
 
 [IRLR024NTRPBF](https://www.mouser.com/ProductDetail/Infineon-Technologies/IRLR024NTRPBF?qs=nrWyqPbesnXJAeQYJ5m9gQ%3D%3D&srsltid=AfmBOoq1zD7nSwQOb1Sw-hG6Iz-id3Q71fRcyjFm6O5VWGezZW9Dcyfo) == MOSFETs 55V 1 N-CH HEXFET 65mOhms 10nC
 

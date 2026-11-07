@@ -6,6 +6,15 @@
 
 
 
+
+
+
+
+- IRFR9024 - [IRFR9024NTRPBF](https://www.mouser.com/ProductDetail/Infineon-Technologies/IRFR9024NTRPBF?qs=Z8%252BeY1k3TIJekAbEhgu%252Bew%3D%3D&srsltid=AfmBOoqKGP8aHm74B9312WuxuX7y4bEFDy1WcflW4OEgSeYNU95cLDF6) == MOSFETs 1 P-CH -55V HEXFET 175mOhms 12.7nC
+
+
+
+
 ## BTH50030-1LUA
 
 Power PROFET™ + 24/48V smart high-side power switch

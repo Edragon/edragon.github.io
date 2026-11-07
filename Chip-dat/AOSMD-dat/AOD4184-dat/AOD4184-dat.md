@@ -1,6 +1,9 @@
 
 # AOD4184-dat
 
+- [[AOD4184-dat]] - [[AOSMD-dat]] - [[mosfet-dat]]
+
+
 AOD4184/AOI4184
 
 40V N-Channel MOSFET
