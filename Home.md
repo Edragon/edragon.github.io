@@ -13,28 +13,22 @@
   
 - [[app-dat]] 
 
-- [[board-dat]] - [[chip-dat]] - [[chip-cn-dat]] 
+- [[board-dat]] 
+  
+- [[chip-dat]] - [[chip-cn-dat]] 
 
 - [[SDK-DAT]] - [[fab-dat]] - [[projects-dat]]
+
+
+
+## info 
+
 
 - [[info-dat]] - [[weekly-dat]] 
 
 - [Latest Changes (Globally)](https://w2.electrodragon.com/gollum/latest_changes)
 
 - [all categories list](https://w2.electrodragon.com/gollum/overview)
-
-
-
-
-## Service 
-
-https://www.elctrodragon.com 
-
-https://store.elctrodragon.com 
-
-https://osdb.elctrodragon.com 
-
-https://dl2.elctrodragon.com 
 
 
 - [[contact-dat]] - [[service-dat]] - [[discount-dat]] - [[shipment-dat]] - [[chinese-holiday-dat]]
