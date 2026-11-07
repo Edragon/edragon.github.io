@@ -131,6 +131,9 @@ PDFNWB-8L-EP(5x6)
 DFN-8 (3x3)
 - DFN-8(3x3)
 
+## common cheap 
+
+30N06/40N06/50N06 - 30A/40A/50A
 
 
 ## model selections 
