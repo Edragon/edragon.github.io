@@ -215,6 +215,11 @@ output folder
     for the sub folder "gerber" in current folder == ./gerber
 
 
+## export output fab 
+
+![](2026-11-07-17-53-04.png)
+
+
 ## mimic to eagleCAD
 
 - [[eagleCAD-dat]]
