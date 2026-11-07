@@ -1,6 +1,12 @@
 
 # 3-axis-gyroscope-dat
 
+
+- [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-barometer-dat]]
+ 
+
+
+
 - BMM150 - BMM350 
 
 - QMC6309 - QMC5883P
@@ -13,7 +19,7 @@
 
 - [[9-axis-IMU-dat]]
 
-- [[6-axis-dat]] - [[InvenSense-dat]] - [[MPU6050-dat]]
+- [[6-axis-dat]] - [[InvenSense-dat]] - [[MPU6050-dat]] - [[MPU6000-dat]]
 
 - [[MPU3050-dat]]
 

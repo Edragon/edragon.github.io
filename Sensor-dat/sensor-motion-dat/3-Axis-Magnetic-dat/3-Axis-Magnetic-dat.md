@@ -1,6 +1,11 @@
 
 # 3-Axis-Magnetic-dat
 
+
+- [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-Axis-Magnetic-dat]] 
+
+
+
 - 3-Axis Magnetic Sensor QMC5883L
 
 - [[HMC5983-dat]] - [[HMC5883-dat]] - [[honeywell-dat]]

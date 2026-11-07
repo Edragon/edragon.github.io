@@ -11,6 +11,10 @@
 - [[FC-stack-dat]] - [[FC-AIO-dat]] 
 
 
+
+
+
+
 ## F4 
 
 - [[STM32-dat]]
@@ -71,8 +75,14 @@
 
 - [[flight-controller-dat]] - [[JHEMCU-dat]]
 
+
+
+
 ## tech 
 
+main parts - [[motor-driver-dat]] - [[MCU-dat]] - [[FC-AIO-dat]] - [[6-axis-dat]] 
+
+optional - [[sensor-barometer-dat]]
 
 - [[FPV-dat]]
 

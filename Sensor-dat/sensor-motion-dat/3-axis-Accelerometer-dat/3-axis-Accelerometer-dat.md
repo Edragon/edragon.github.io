@@ -1,6 +1,9 @@
 
 # 3-axis-Accelerometer-dat
 
+- [[3-axis-Accelerometer-dat]] - [[3-axis-gyroscope-dat]] - [[3-Axis-Magnetic-dat]] 
+
+
 
 ## chip 
 
