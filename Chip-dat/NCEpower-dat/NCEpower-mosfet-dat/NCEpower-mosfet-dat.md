@@ -12,6 +12,14 @@
 
 
 
+
+NCE6050
+
+- [[NCE2060K-dat]] - NCE N-Channel Enhancement Mode Power MOSFET 
+
+NCE4080 / NCE40P70
+
+
 ## NCE8295 
 
 ![](2026-07-01-15-18-25.png)

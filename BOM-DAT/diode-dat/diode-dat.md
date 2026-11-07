@@ -27,7 +27,7 @@
 
 - T4 
 - F7
-
+- W9 == BZT52C10
 
 ## footprint 
 
