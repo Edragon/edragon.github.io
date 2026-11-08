@@ -40,7 +40,7 @@ create slots to add ribs
 
 build the fuselage - [[airplane-fuselage-dat]] 
 
-![](2026-08-24-03-25-55.png)
+![](2026-08-24-03-25-55.webp)
 
 build head and [[propeller-tractor-dat]] holder 
 

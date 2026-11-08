@@ -42,7 +42,7 @@ traditionally been used for medical research and diagnosis of neuromuscular diso
 with the advent of ever shrinking yet more powerful microcontrollers and integrated circuits, EMG
 circuits and sensors have found their way into prosthetics, robotics and other control systems.
 
-![](2026-01-17-14-51-12.png)
+![](2026-01-17-14-51-12.webp)
 
 
 
@@ -61,7 +61,7 @@ circuits and sensors have found their way into prosthetics, robotics and other c
 - a. Connect the SIG pin of your sensor to an analog pin on the Arduino (e.g. A0)
 - b. Connect the GND pin of your sensor to a GND pin on the Arduino.
 
-![](2026-01-17-14-52-25.png)
+![](2026-01-17-14-52-25.webp)
 
 - [[TL08-dat]] - [[amplifier-dat]]
 

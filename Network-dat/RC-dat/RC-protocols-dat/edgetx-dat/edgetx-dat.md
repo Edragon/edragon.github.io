@@ -36,7 +36,7 @@ https://github.com/EdgeTX/buddy
 
 ## flash 
 
-![](2026-06-25-23-11-15.png)
+![](2026-06-25-23-11-15.webp)
 
 
 ## ref 

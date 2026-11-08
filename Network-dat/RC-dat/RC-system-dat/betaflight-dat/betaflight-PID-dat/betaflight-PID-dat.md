@@ -10,7 +10,7 @@
 
 ## works 
 
-![](2025-09-15-03-20-15.png)
+![](2025-09-15-03-20-15.webp)
 
 ![](2025-09-15-03-21-05.webp)
 
@@ -114,7 +114,7 @@ Note: Generally overshoot in flips and rolls is due to not enough 'i-Term Relax'
 
 
 
-![](2025-09-15-03-31-37.png)
+![](2025-09-15-03-31-37.webp)
 
 use PIDtoolbox to find the best value
 

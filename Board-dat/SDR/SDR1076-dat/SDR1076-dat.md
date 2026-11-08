@@ -14,7 +14,7 @@
 ### Board Map, Dimension, Pins, etc.
 
 
-![](2025-05-02-19-57-58.png)
+![](2025-05-02-19-57-58.webp)
 
 - [[3D-dat]] == [TB6600 Upgraded Version 32 Segments 4A 40V 57/86 Stepper Motor Driver](https://grabcad.com/library/smakn-tb6600-stepper-motor-driver-1)
 

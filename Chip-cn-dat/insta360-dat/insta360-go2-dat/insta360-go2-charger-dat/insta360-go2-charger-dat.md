@@ -68,7 +68,7 @@ battery connector
 - - +
 - - +
 
-![](2026-05-23-14-36-20.png)
+![](2026-05-23-14-36-20.webp)
 
 upper case cable - [[cable-FPC-dat]]
 

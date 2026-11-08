@@ -141,7 +141,7 @@ To visualize or analyze the raw audio waveform:
 4. **Silicone potting thickness** should be less than **3mm**. Full curing at room temperature typically takes **8–12 hours**. For thicknesses over 3mm, cure time increases — apply in multiple thin layers to ensure full curing and a stable seal. Consider advancing the microphone mounting step in production.
 5. **Do not use hot glue** to secure the microphone head. Under gravity from the cable, the microphone may tilt before the adhesive fully cures. Also ensure the microphone connector cable is properly strain-relieved.
 
-![](2026-07-30-21-01-36.png)
+![](2026-07-30-21-01-36.webp)
 
 ## models 
 
@@ -156,7 +156,7 @@ To visualize or analyze the raw audio waveform:
 
 ## SCH 
 
-![](2026-10-02-02-52-38.png)
+![](2026-10-02-02-52-38.webp)
 
 
 ## ref 

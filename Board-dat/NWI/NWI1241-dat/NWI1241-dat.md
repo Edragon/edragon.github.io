@@ -83,7 +83,7 @@ Buttons
 
 Define in [[ESP32-WROVER-dat]] module 
 
-![](2023-11-15-18-04-36.png)
+![](2023-11-15-18-04-36.webp)
 
 New version define in the file User_Setup.h
 

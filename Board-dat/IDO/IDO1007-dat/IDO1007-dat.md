@@ -45,9 +45,9 @@ https://www.electrodragon.com/product/mini-thermal-receipt-printer-serial-5v/
 
 ## Inside 
 
-![](2024-03-18-15-20-25.png)
+![](2024-03-18-15-20-25.webp)
 
-![](2024-03-18-15-19-57.png)
+![](2024-03-18-15-19-57.webp)
 
 ![](2024-03-18-15-20-05.png)
 

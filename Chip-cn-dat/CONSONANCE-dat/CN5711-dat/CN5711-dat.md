@@ -4,7 +4,7 @@
 	
 High-brightness Light Emitting Diode (LED) Driver Integrated Circuit
 
-![](2025-08-19-18-34-10.png)
+![](2025-08-19-18-34-10.webp)
 
 - [[CN5711-DS.pdf]]
 

@@ -42,7 +42,7 @@ BLE throughput:
 - Up to 4 KB/s (Android, iOS)
 - When connected via BLE to iOS or Android, throughput is about 4 KB/s. The module supports continuous send/receive at 38400 baud; higher baud rates cannot be sent continuously without adding delays between packets.
 
-![](2026-02-04-17-56-45.png)
+![](2026-02-04-17-56-45.webp)
 
 ![](2026-02-04-17-57-02.webp)
 

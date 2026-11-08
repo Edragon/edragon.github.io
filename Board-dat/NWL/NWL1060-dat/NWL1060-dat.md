@@ -11,7 +11,7 @@ please note one side of the chip is not soldered!
 
 ![](2026-01-18-19-49-19.webp)
 
-![](2026-01-18-19-49-37.png)
+![](2026-01-18-19-49-37.webp)
 
 
 **Working frequency (MHz)：315MHz**
@@ -29,7 +29,7 @@ please note one side of the chip is not soldered!
 - Dimensions (L×W×H): 41 × 23 × 7 mm  
 
 
-![](2026-01-18-19-48-51.png)
+![](2026-01-18-19-48-51.webp)
 
 
 ### Product features

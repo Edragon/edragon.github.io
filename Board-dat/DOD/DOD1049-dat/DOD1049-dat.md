@@ -29,7 +29,7 @@ Power supply VCC selectable to
 
 ## SCH 
 
-![](2023-12-29-16-39-29.png)
+![](2023-12-29-16-39-29.webp)
 
 ## ref 
 

@@ -41,7 +41,7 @@ Every page is diverted into 12 lines, every line is about 14.75 height
 
 ### large size version == 6-row per page 
 
-![](2025-08-20-16-59-16.png)
+![](2025-08-20-16-59-16.webp)
 
 Note: 6 columns bigger inner page (refer to standard version’s last page) booklet is the same price, if you need only bigger inner page version, please just add order note.
 

@@ -52,7 +52,7 @@ XFBGA121: XFBGA121, plastic, extremely thin fine-pitch ball grid array; 121 bump
 
 ### PCF8566 
 
-![](2025-07-23-15-01-27.png)
+![](2025-07-23-15-01-27.webp)
 
 
 ## I2S

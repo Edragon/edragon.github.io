@@ -13,7 +13,7 @@ configure UART to receive CRSF serial module
 • Select the correct data format from the drop-down, below:
 
 
-![](2026-09-06-17-39-31.png)
+![](2026-09-06-17-39-31.webp)
 
 ![](2026-09-06-17-40-12.webp)
 

@@ -8,7 +8,7 @@
 
 ## basic toy version 
 
-![](2025-11-14-18-58-48.png)
+![](2025-11-14-18-58-48.webp)
 
 ![](2025-11-14-18-59-01.png)
 
@@ -31,7 +31,7 @@
 - **Electromagnetic Accelerator:** Accelerates the projectile using coils and supports. When current flows through the coil, a strong magnetic field is generated to accelerate the projectile.
 - **Control System:** Precisely controls the firing process, including trigger and speed monitoring.
 
-![](2025-11-14-19-00-25.png)
+![](2025-11-14-19-00-25.webp)
 
 BOM list 
 
@@ -132,7 +132,7 @@ Directly connecting a coil to a DC power supply **does create a static magnetic 
 
 - resistor 2W
 
-![](2025-10-02-16-06-38.png)
+![](2025-10-02-16-06-38.webp)
 
 
 

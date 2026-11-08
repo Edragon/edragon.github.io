@@ -12,7 +12,7 @@ The OV7670 with FIFO module, image acquisition and control with buffer storage s
 
 As control sensor pin defined as follows:
 
-![](2023-11-08-13-54-35.png)
+![](2023-11-08-13-54-35.webp)
 
 
 ### Sequence
@@ -23,4 +23,4 @@ Control sequence is as follows:
 
 ![](2023-11-08-13-55-54.webp)
 
-![](2023-11-08-13-56-02.png)
+![](2023-11-08-13-56-02.webp)

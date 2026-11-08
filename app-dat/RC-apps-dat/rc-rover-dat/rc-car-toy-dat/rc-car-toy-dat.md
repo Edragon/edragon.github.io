@@ -7,9 +7,9 @@
 
 assembly guide and teardown of a $20 RC toy car
 
-![](2025-12-12-15-58-22.png)
+![](2025-12-12-15-58-22.webp)
 
-![](2025-12-12-16-01-04.png)
+![](2025-12-12-16-01-04.webp)
 
 ## Rover Version 1 
 

@@ -9,7 +9,7 @@ The ESP-12F WiFi module supports the standard IEEE802.11 b/g/n protocol, a compl
 
 The ESP8266 is a high-performance wireless SOC that offers maximum utility at the lowest cost and unlimited possibilities for embedding WiFi functionality into other systems.
 
-![](2023-10-30-16-27-53.png)
+![](2023-10-30-16-27-53.webp)
 
 The ESP8266 is a complete and self-contained WiFi network solution that can operate independently or as a slave running on other host MCUs. The ESP8266 is capable of booting directly from an external flash memory when it is powered by an application and is the only application processor in the device. The built-in cache helps improve system performance and reduce memory requirements.
 
@@ -20,7 +20,7 @@ The ESP8266's powerful on-chip processing and storage capabilities allow it to i
 
 ## Dimension and Pins
 
-![](2023-10-30-16-27-30.png)
+![](2023-10-30-16-27-30.webp)
 
 ## Features
 
@@ -106,7 +106,7 @@ Description of the ESP series module boot mode
 
 ## reflow profile 
 
-![](2023-10-30-16-37-34.png)
+![](2023-10-30-16-37-34.webp)
 
 
 ## peripheral schematic

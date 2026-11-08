@@ -7,7 +7,7 @@
 
 for - [[VIPER22-dat]]
 
-![](2026-05-15-15-02-00.png)
+![](2026-05-15-15-02-00.webp)
 
 - Primary Winding
 - Auxiliary Winding
@@ -43,7 +43,7 @@ The core can be a standard `E19` type ferrite core having a bobbin with central 
 
 build 2 
 
-![](2026-08-11-21-02-26.png)
+![](2026-08-11-21-02-26.webp)
 
 RHT7524 CLASS BPQ3220 RH-T100
 
@@ -59,11 +59,11 @@ break apart
 
 2 
 
-![](2026-08-11-21-03-52.png)
+![](2026-08-11-21-03-52.webp)
 
 3 
 
-![](2026-08-11-21-04-05.png)
+![](2026-08-11-21-04-05.webp)
 
 4 
 
@@ -87,7 +87,7 @@ break apart
 
 footprint 
 
-![](2026-08-11-21-09-23.png)
+![](2026-08-11-21-09-23.webp)
 
 
 

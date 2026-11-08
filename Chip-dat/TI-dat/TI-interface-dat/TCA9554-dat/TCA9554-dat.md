@@ -18,7 +18,7 @@ TCA9554 Low Voltage 8-Bit I2C and SMBus Low-Power I/O Expander With Interrupt Ou
 
 ## SCH 
 
-![](2026-07-31-20-15-56.png)
+![](2026-07-31-20-15-56.webp)
 
 ![](2026-07-31-20-15-28.png)
 

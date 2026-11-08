@@ -1,7 +1,7 @@
 
 ## SCU1056-dat
 
-![](2024-01-17-15-57-56.png)
+![](2024-01-17-15-57-56.webp)
 
 https://www.electrodragon.com/product/12vdc-medium-size-water-pump-6w-tube/
 

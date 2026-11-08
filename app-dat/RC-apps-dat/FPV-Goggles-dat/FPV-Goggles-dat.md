@@ -45,11 +45,11 @@ good example from [[hawkeye-dat]] with [[antenna-diversity-dat]] - [[FPV-goggles
 
 ![](2026-11-07-02-59-14.webp)
 
-![](2026-11-07-02-59-35.png)
+![](2026-11-07-02-59-35.webp)
 
 - [[display-LCD-dat]]
 
-![](2026-11-07-03-00-29.png)
+![](2026-11-07-03-00-29.webp)
 
 ![](2026-11-07-03-03-10.png)
 
@@ -217,7 +217,7 @@ Taking into account global market share, R&D technical strength, product reputat
 - GM2 
 - GM3 
 
-![](2025-09-04-15-39-13.png)
+![](2025-09-04-15-39-13.webp)
 
 
 

@@ -163,7 +163,7 @@ esp32-s3 = {
 
 camera
 
-![](2026-04-07-01-40-22.png)
+![](2026-04-07-01-40-22.webp)
 
 
 ## Extension board SCH 

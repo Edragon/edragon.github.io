@@ -13,7 +13,7 @@ legacy wiki page - https://w.electrodragon.com/w/RPI_GPIO_Shield_(Arduino_Layout
 
 ## schematic 
 
-![](2024-08-05-16-31-24.png)
+![](2024-08-05-16-31-24.webp)
 
 ![](2024-08-05-16-36-38.png)
 

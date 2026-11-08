@@ -56,7 +56,7 @@ The TC4451/TC4452 are single-output MOSFET drivers. These devices are high-curre
 
 SCH 
 
-![](2026-03-02-21-29-03.png)
+![](2026-03-02-21-29-03.webp)
 
 
 

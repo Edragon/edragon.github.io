@@ -5,7 +5,7 @@
 [[USB-dat]] - [[encryption-key-dat]] - [[encryption-dat]]
 
 
-![](2026-02-22-16-12-42.png)
+![](2026-02-22-16-12-42.webp)
 
 - T2000
 - SSX1108 - [[patent-dat]] == https://patents.google.com/patent/CN103246494A/zh == 一种抵抗能量分析和错误攻击的安全模幂计算方法

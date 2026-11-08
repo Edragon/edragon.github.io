@@ -15,7 +15,7 @@ over voltage test  - https://t.me/electrodragon3/442
 
 
 
-![](2026-04-04-16-49-17.png)
+![](2026-04-04-16-49-17.webp)
 
 ![](2026-04-04-16-49-49.webp)
 

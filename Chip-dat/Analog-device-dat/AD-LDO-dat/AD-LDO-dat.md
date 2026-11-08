@@ -23,7 +23,7 @@ HMC976LP3E - 400mA LOW NOISE, HIGH PSRR LINEAR VOLTAGE REGULATOR
 
 - [[AD-LDO-dat]] - [[LT3093-dat]] == –20V, 200mA, Ultralow Noise, Ultrahigh PSRR Negative Linear Regulator
 
-![](2026-09-20-16-44-00.png)
+![](2026-09-20-16-44-00.webp)
 
 
 

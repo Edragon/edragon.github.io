@@ -14,7 +14,7 @@
 - And sensor install on the back of the rubber stopper
 
 
-![](27-45-12-26-12-2022.png)
+![](27-45-12-26-12-2022.webp)
 
 
 ## customized output 
@@ -38,7 +38,7 @@
 
 ## Dimension 
 
-![](05-14-15-31-05-2023.png)
+![](05-14-15-31-05-2023.webp)
 
 
 

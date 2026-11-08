@@ -22,7 +22,7 @@ https://www.keil.com/dd2/gigadevice/gd32f130f8/
 
 ## footprint 
 
-![](2026-09-16-21-33-39.png)
+![](2026-09-16-21-33-39.webp)
 
 
 ## ref 

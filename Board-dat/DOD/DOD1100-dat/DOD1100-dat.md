@@ -27,9 +27,9 @@ Mega PRO（嵌入式）2560 CH340G / ATmega2560 - 通过microUSB电缆连接到�
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2026-07-14-16-29-28.png)
+![](2026-07-14-16-29-28.webp)
 
-![](2026-07-14-16-30-08.png)
+![](2026-07-14-16-30-08.webp)
 
 PIN
 

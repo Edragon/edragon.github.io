@@ -58,7 +58,7 @@ The right motor spins slower when you steer right, and faster when you steer lef
     *   *Line 1:* Source = `Thr`, Weight = `-200%`, Offset = `-100%`, Curve = `Func x<0`, Trim = `OFF`
     *   *Line 2:* Source = `Ail`, Weight = `50%`, Multiplex = `Add`, Trim = `OFF`
 
-![](2026-07-06-19-52-38.png)
+![](2026-07-06-19-52-38.webp)
 
 ### 💡 How to Add the Second Line on EdgeTX
 

@@ -9,7 +9,7 @@
 
 https://stm32-base.org/guides/connecting-your-debugger.html
 
-![](2024-07-05-17-37-28.png)
+![](2024-07-05-17-37-28.webp)
 
 
 ## connect to DA14585 

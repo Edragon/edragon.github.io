@@ -8,13 +8,13 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/ltc3780.pdf
 
 ## APP SCH 
 
-![](2026-07-15-18-51-50.png)
+![](2026-07-15-18-51-50.webp)
 
 
 
 ## board 
 
-![](2026-07-15-18-52-46.png)
+![](2026-07-15-18-52-46.webp)
 
 
 ## ref 

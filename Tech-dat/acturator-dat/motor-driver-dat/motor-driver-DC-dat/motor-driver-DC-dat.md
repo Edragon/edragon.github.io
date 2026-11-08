@@ -98,7 +98,7 @@ These are essential or desirable features for a DC motor driver IC, especially f
 
 - HR8833 == 2x H-bridge
 
-![](2025-05-04-14-07-37.png)
+![](2025-05-04-14-07-37.webp)
 
 
 

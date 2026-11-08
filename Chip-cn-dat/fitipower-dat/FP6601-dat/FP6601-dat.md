@@ -19,7 +19,7 @@ build 1
 
 ## SCH 
 
-![](2026-02-12-19-31-01.png)
+![](2026-02-12-19-31-01.webp)
 
 
 FP6601 can support not only USB BC compliant devices, but also Apple / Samsung devices and automatically detects whether a connected powered device (PD) is Quick Charge 2.0 capable before enabling output voltage adjustment. 

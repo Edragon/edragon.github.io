@@ -92,7 +92,7 @@ frequency hopping, spread spectrum, and other technologies are used to improve a
 
 Flexible configuration
 
-![](2025-06-27-13-26-55.png)
+![](2025-06-27-13-26-55.webp)
 
 
 

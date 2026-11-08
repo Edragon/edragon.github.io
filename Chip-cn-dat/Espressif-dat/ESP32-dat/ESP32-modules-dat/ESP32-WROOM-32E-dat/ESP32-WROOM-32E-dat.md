@@ -11,7 +11,7 @@
 
 - [[esp32-wroom-32e_esp32-wroom-32ue_datasheet_en_v1.7.pdf]]
 
-![](2025-10-23-14-09-28.png)
+![](2025-10-23-14-09-28.webp)
 
 
 

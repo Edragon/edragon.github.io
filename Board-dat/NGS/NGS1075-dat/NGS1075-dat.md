@@ -9,12 +9,12 @@
 
 board with the carried module 
 
-![](2026-04-26-18-17-03.png)
+![](2026-04-26-18-17-03.webp)
 
 
 dimension 
 
-![](2026-04-26-18-16-22.png)
+![](2026-04-26-18-16-22.webp)
 
 pins 
 

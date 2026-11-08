@@ -25,7 +25,7 @@
 ## nano module long-range 
 
 
-![](2026-09-01-18-32-37.png)
+![](2026-09-01-18-32-37.webp)
 
 Nano高频头V2 远航2W大功率fpv穿越机信号增强ELRS
 
@@ -37,7 +37,7 @@ Nano高频头V2 远航2W大功率fpv穿越机信号增强ELRS
 
 ## nano module 4-in-1
 
-![](2026-09-01-18-38-01.png)
+![](2026-09-01-18-38-01.webp)
 
 
 Combine these keywords depending on the functionality you want to add:

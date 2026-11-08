@@ -72,7 +72,7 @@ Impact resistance. Enhances the integrity of electronic components, improving th
 
 ![](2026-06-25-13-32-21.webp)
 
-![](2026-06-25-13-32-40.png)
+![](2026-06-25-13-32-40.webp)
 
 ## ref 
 

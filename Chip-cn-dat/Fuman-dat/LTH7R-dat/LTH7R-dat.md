@@ -16,6 +16,6 @@ The LTH7R is a 5-pin linear charge management integrated circuit (IC) made by Sh
 
 ## SCH 
 
-![](2026-09-22-22-02-40.png)
+![](2026-09-22-22-02-40.webp)
 
 ## ref 

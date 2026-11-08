@@ -63,7 +63,7 @@ machine methods - [[fab-reflow-dat]]
 
 ## soldering under microscope 
 
-![](2025-09-18-18-56-08.png)
+![](2025-09-18-18-56-08.webp)
 
 - [[RP2040-dat]]
 

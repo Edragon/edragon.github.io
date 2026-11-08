@@ -8,7 +8,7 @@ https://www.electrodragon.com/product/casting-metal-soldering-rack/
 
 ![](2024-10-03-18-26-47.png)
 
-![](2024-10-03-18-27-15.png)
+![](2024-10-03-18-27-15.webp)
 
 
 

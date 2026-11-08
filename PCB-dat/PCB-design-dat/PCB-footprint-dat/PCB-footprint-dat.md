@@ -170,15 +170,15 @@ This value represents the component thickness, used to compensate for the nozzle
 
 `VSSOP` - p0.5 / w3.1
 
-![](2026-08-20-15-53-20.png)
+![](2026-08-20-15-53-20.webp)
 
 `SSOP` - p0.65 / w3.8 
 
-![](2026-08-20-15-54-35.png)
+![](2026-08-20-15-54-35.webp)
 
 `MSOP` - p0.65 / w3.0
 
-![](2026-08-20-16-01-50.png)
+![](2026-08-20-16-01-50.webp)
 
 ## pitch 0.4mm footprint
 
@@ -191,12 +191,12 @@ This value represents the component thickness, used to compensate for the nozzle
 
 ![](2026-08-16-22-23-35.png)
 
-![](2026-08-20-15-52-43.png)
+![](2026-08-20-15-52-43.webp)
 
 
 `DLH WSON-10 - 0.8` - p0.4 / w2.1
 
-![](2026-08-21-15-40-53.png)
+![](2026-08-21-15-40-53.webp)
 
 
 
@@ -362,7 +362,7 @@ This corresponds to the standard 3225 SMD package (also known as EIA 3225 or 3.2
 
 SOD-123 is a small SMD package used for diodes, transistors, and other components. It has a footprint of approximately 1.6mm x 0.8mm (0.063" x 0.031") and is commonly used in low-power applications.
 
-![](2025-05-29-15-10-00.png)
+![](2025-05-29-15-10-00.webp)
 
 
 

@@ -6,7 +6,7 @@
 
 ![](2023-10-26-18-56-20.webp)
 
-![](2023-10-26-18-56-39.png)
+![](2023-10-26-18-56-39.webp)
 
 - P12: Blink to indicate it is waiting for pairing, On to indicate paired.
 - P05: MCU interruption, low to interrupt the connection from MCU.

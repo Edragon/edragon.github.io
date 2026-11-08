@@ -1,7 +1,7 @@
 
 # Li-Po-battery-dat
 
-![](2025-03-07-14-13-40.png)
+![](2025-03-07-14-13-40.webp)
 
 
 - ExtremelySafe
@@ -32,7 +32,7 @@ Lithium Polymer batteries use a polymer electrolyte instead of a liquid electrol
 
 ## Compare 
 
-![](2025-03-07-14-20-01.png)
+![](2025-03-07-14-20-01.webp)
 
 
 

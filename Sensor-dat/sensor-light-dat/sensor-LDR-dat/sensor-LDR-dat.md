@@ -17,7 +17,7 @@ Photoresistor or LDR (Light Dependent Resistor) are common names for this compon
 
 to the [[ESP32-dat]] pin 34
 
-![](2025-12-24-19-15-48.png)
+![](2025-12-24-19-15-48.webp)
 
 
 

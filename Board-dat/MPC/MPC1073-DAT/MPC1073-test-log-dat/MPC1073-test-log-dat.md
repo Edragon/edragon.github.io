@@ -63,9 +63,9 @@ Other example will have the same configuration
 
     --led-rows=8 --led-chain=2
 
-![](2024-11-07-18-10-35.png)
+![](2024-11-07-18-10-35.webp)
 
-![](2024-11-07-18-10-57.png)
+![](2024-11-07-18-10-57.webp)
 
 ## 32x32
 
@@ -83,7 +83,7 @@ Tested panel is 64x32 P4-256x128-2121-A1, multiplexing=0
 
 ![](2024-11-07-18-11-15.webp)
 
-![](2024-11-07-18-11-28.png)
+![](2024-11-07-18-11-28.webp)
 
 ## P3/P4 64x64 == tested
 
@@ -117,7 +117,7 @@ cmd
 
 ![](2024-11-07-18-13-31.png)
 
-![](2024-11-07-18-13-39.png)
+![](2024-11-07-18-13-39.webp)
 
 
 ## panel info (obseleted part)

@@ -22,7 +22,7 @@ Inside the metal casing of a transceiver, there are several components and sub-a
 - Receiver Optical Sub Assembly (ROSA)
 - Bi-Directional Optical Sub Assembly (BOSA)
 
-![](2025-04-25-03-45-07.png)
+![](2025-04-25-03-45-07.webp)
 
 ![](2025-04-25-03-45-33.png)
 
@@ -156,7 +156,7 @@ It is a compact, hot-pluggable fiber optic transceiver used for data transmissio
 
 ![](2025-03-27-17-31-03.png)
 
-![](2025-03-27-17-55-17.png)
+![](2025-03-27-17-55-17.webp)
 
 ![](2025-03-27-18-41-19.webp)
 

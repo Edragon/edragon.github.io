@@ -15,9 +15,9 @@ The empirical value range of this emission tube installed on the remote control 
 
 ![](2024-03-25-16-54-49.webp)
 
-![](2024-03-25-16-58-28.png)
+![](2024-03-25-16-58-28.webp)
 
-![](2024-03-25-16-55-09.png)
+![](2024-03-25-16-55-09.webp)
 
 
 Features

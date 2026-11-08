@@ -5,7 +5,7 @@
 - [[LDO-dat]] - [[belling-dat]] - [[BL8062-dat]] - [[USB-SDK-type-C-dat]]
 
 
-![](2026-06-16-20-36-42.png)
+![](2026-06-16-20-36-42.webp)
 
 https://www.belling.com.cn/media/file_object/bel_product_en/BL8062/datasheet/BL8062%20Datasheet%20V1.5.pdf
 

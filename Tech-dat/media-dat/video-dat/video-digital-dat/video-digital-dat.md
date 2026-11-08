@@ -58,7 +58,7 @@
 
 ## DJI O4 Air FPV Transmission System
 
-![](2025-04-11-14-44-00.png)
+![](2025-04-11-14-44-00.webp)
 
 
 

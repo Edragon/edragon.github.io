@@ -25,7 +25,7 @@ PS == VL (LEDA) to VCC
 
 good chip 
 
-![](2026-04-10-12-28-19.png)
+![](2026-04-10-12-28-19.webp)
 
 bad chip 
 
@@ -40,7 +40,7 @@ counterfeit chip ID
     APDS-9930 ID: 0xA8 
 
 
-![](2026-04-07-04-15-49.png)
+![](2026-04-07-04-15-49.webp)
 
 
 ## Dimension 

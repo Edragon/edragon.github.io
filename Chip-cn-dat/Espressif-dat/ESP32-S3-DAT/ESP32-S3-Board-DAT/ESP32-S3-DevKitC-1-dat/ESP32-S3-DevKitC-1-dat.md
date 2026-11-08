@@ -26,7 +26,7 @@ https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devk
 https://docs.espressif.com/projects/esp-dev-kits/zh_CN/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html#id11
 
 
-![](2026-03-06-16-04-23.png)
+![](2026-03-06-16-04-23.webp)
 
 
 

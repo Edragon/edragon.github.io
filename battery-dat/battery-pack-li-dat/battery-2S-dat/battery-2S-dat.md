@@ -57,12 +57,12 @@ Example: a 2000 mAh cell with a 10C rating provides 20 A. For a 2S2P pack (two s
 
 The figure below shows the battery charging configuration for a 2S pack. Fully charged voltage is 8.4 V (4.2 V per cell). Use a charging supply of DC 8.4–9 V. Charge current depends on the charger settings and battery state; do not exceed 10 A total unless your cells and BMS support it.
 
-![](2026-02-12-18-00-22.png)
+![](2026-02-12-18-00-22.webp)
 
 
 ## specs 
 
-![](2026-02-12-18-05-26.png)
+![](2026-02-12-18-05-26.webp)
 
 
 ## common issues 

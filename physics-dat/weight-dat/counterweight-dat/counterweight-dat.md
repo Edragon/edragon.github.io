@@ -10,7 +10,7 @@
 
 - [[aircraft-hand-launched-dat]] - [[rc-aircraft-dat]]
 
-![](2026-08-26-21-15-55.png)
+![](2026-08-26-21-15-55.webp)
 
 
 ## ref 

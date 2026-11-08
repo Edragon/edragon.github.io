@@ -7,7 +7,7 @@
 - [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - mono-color == [[HUB12-dat]] - [[led-rgb-panel-dat]]
 
 
-![](2026-03-20-22-09-30.png)
+![](2026-03-20-22-09-30.webp)
 
 | L-pin | Function | R-pin | Function |
 | ----- | -------- | ----- | -------- |

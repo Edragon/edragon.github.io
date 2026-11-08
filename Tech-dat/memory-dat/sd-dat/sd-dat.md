@@ -205,7 +205,7 @@ Note:  The SPI pins can be manually configured by using `SPI.begin(sck, miso, mo
 
 SCH 3 
 
-![](2025-08-07-12-50-49.png)
+![](2025-08-07-12-50-49.webp)
 
 SCH 4 
 

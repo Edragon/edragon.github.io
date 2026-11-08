@@ -10,14 +10,14 @@ chip info, datasheet, etc.
 - datasheet: [L298](https://www.ti.com/lit/ds/symlink/l298.pdf)
 - [datasheet2](https://www.mouser.sg/datasheet/2/389/l298-1849437.pdf)
 
-![](2025-04-01-14-38-39.png)
+![](2025-04-01-14-38-39.webp)
 
 
 ## SCH 
 
 SCH with [[LM2596-dat]]
 
-![](2025-06-15-14-30-14.png)
+![](2025-06-15-14-30-14.webp)
 
 ## Boards. 
 

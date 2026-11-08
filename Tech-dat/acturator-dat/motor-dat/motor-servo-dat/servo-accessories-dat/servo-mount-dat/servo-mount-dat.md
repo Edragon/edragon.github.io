@@ -13,13 +13,13 @@ build 6 - flat mount - [[SG90-dat]]
 https://www.printables.com/model/1021447-micro-servo-sg90-9g-flatmount-bracket
 
 
-![](2026-08-14-02-32-11.png)
+![](2026-08-14-02-32-11.webp)
 
 build 5 - vertical 
 
 https://www.printables.com/model/381611-servo-holder-mg995
 
-![](2026-08-14-02-20-52.png)
+![](2026-08-14-02-20-52.webp)
 
 ![](2026-08-14-02-21-05.png)
 
@@ -30,7 +30,7 @@ https://www.printables.com/model/602773-micro-servo-lego-compatible-mount
 
 ![](2026-08-14-02-17-32.png)
 
-![](2026-08-14-02-17-43.png)
+![](2026-08-14-02-17-43.webp)
 
 
 build 3 - 

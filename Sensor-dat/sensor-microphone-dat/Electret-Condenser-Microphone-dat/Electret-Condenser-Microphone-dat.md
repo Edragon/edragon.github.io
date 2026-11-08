@@ -49,7 +49,7 @@ Here's how the relationship between an ECM and the MAX9812 or ICS-41434 compares
 
 4.7 测试电路图 - Schematic Diagram - Vs= 1.5V ； - R1=680Ω； - C=1uF
 
-![](2025-03-21-17-46-02.png)
+![](2025-03-21-17-46-02.webp)
 
 4.8 测试环境温度 -    Test Temperature -    测试环境湿度 -    Rel.Humidity
 
@@ -58,4 +58,4 @@ Here's how the relationship between an ECM and the MAX9812 or ICS-41434 compares
 4.9 频率响应曲线 - Frequency Response
 
 
-![](2025-03-21-17-46-44.png)
+![](2025-03-21-17-46-44.webp)

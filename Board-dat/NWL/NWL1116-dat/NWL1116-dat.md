@@ -17,7 +17,7 @@ note the wiring
 
 board map 
 
-![](2026-07-18-19-06-02.png)
+![](2026-07-18-19-06-02.webp)
 
 - [[SN75451-dat]] - [[transistor-array-dat]]
 

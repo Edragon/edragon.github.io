@@ -3,7 +3,7 @@
 
 - [[wheel-dat]] - [[wheel-hub-dat]] - [[bearing-dat]] - [[gear-dat]] - [[inch-dat]]
 
-![](2026-02-28-19-59-13.png)
+![](2026-02-28-19-59-13.webp)
 
 
 - 14 x 2.125 
@@ -29,7 +29,7 @@ The second number represents the **Width** of the tire at its widest point when 
 
 ## 14-inch wheels == kids bike 
 
-![](2026-02-28-23-53-13.png)
+![](2026-02-28-23-53-13.webp)
 
 ![](2026-02-28-23-54-06.webp)
 
@@ -49,7 +49,7 @@ rear wheel
 
 - 24-inch == wheelchair 
 
-![](2026-03-01-00-11-42.png)
+![](2026-03-01-00-11-42.webp)
 
 
 ## static wheel hub 

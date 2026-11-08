@@ -35,7 +35,7 @@ The DHT11 sensor outputs data in the following format:
 
 数据0：
 
-![](2025-07-30-16-37-52.png)
+![](2025-07-30-16-37-52.webp)
 
 数据1：
 
@@ -51,7 +51,7 @@ The DHT11 sensor outputs data in the following format:
 
 ESP32 - IO21 
 
-![](2025-08-21-18-51-32.png)
+![](2025-08-21-18-51-32.webp)
 
 
 

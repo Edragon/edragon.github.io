@@ -35,7 +35,7 @@ bottom side view
 
 - [[LGT8F328-SDK-DAT]] - [[LGT-dat]]
 
-![](2026-02-11-03-27-15.png)
+![](2026-02-11-03-27-15.webp)
 
 
 ## Demo Code and Video

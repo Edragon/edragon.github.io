@@ -34,7 +34,7 @@ integrated broadband SPDT switch with LNA functionality
 
 ## diagram 
 
-![](2026-10-29-04-08-07.png)
+![](2026-10-29-04-08-07.webp)
 
 
 

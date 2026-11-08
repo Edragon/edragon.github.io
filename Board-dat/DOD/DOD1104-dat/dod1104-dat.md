@@ -13,7 +13,7 @@ The board uses Atmel's SAMD21 MCU with a 32-bit ARM Cortex-M0+ core and is compa
 One important feature is Atmel's Embedded Debugger (EDBG), which provides a full debug interface without extra hardware and significantly improves software debugging usability. EDBG also supports a virtual COM port for device and bootloader programming. Note: some boards may have pin headers with cold solder joints.
 
 
-![](2026-01-13-15-36-55.png)
+![](2026-01-13-15-36-55.webp)
 
 Please note this product only have few info on this page. 
 

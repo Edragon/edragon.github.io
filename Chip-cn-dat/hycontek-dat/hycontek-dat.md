@@ -48,7 +48,7 @@ Small package: 16-pin TSSOP
 
 The series of HY2213 is created for multi-cell battery packs to single-cell lithium-ion battery Charge balance control, electrical level monitoring ICs and it also comprises high-accuracy voltage detection circuit and delay circuit.
 
-![](2026-02-12-20-57-53.png)
+![](2026-02-12-20-57-53.webp)
 
 
 

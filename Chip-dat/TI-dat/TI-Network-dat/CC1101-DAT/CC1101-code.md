@@ -21,7 +21,7 @@
 * This is the demo code, you may need to add some delays (delay(3000);) to slow down the serial output
 
 
-![](2023-09-05-16-37-37.png)
+![](2023-09-05-16-37-37.webp)
 ![](2023-09-05-16-37-57.png)
 
 ## Library code 

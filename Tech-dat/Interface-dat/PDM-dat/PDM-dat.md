@@ -71,7 +71,7 @@ To use this specific microphone, you must tell the ESP32 to enable its internal 
 IM72D128V01XTMA1 - [[PDM-dat]]
 
 
-![](2026-08-01-16-21-22.png)
+![](2026-08-01-16-21-22.webp)
 
 
 

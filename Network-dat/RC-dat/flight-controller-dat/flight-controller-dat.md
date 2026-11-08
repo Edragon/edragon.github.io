@@ -117,7 +117,7 @@ optional - [[sensor-barometer-dat]]
 
 ## dimension 
 
-![](2026-07-01-18-30-28.png)
+![](2026-07-01-18-30-28.webp)
 
 ## ALL-in-One Option 
 

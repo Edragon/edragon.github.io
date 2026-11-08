@@ -30,7 +30,7 @@ Output voltage options
 
 for ADC-AVDD 
 
-![](../../Voltage-dat/voltage-reference-dat/2025-10-08-15-54-45.png)
+![](../../Voltage-dat/voltage-reference-dat/2025-10-08-15-54-45.webp)
 
 
 - [[peripherals-dat]]

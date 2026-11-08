@@ -26,7 +26,7 @@
 
 problem show up 
 
-![](2024-11-07-17-48-43.png)
+![](2024-11-07-17-48-43.webp)
 
 multiplexing fixed 
 

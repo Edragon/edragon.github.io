@@ -4,7 +4,7 @@
 
 ## 5V Power Isolation 
 
-![](2025-05-21-16-34-07.png)
+![](2025-05-21-16-34-07.webp)
 
 - [[B-S-1W-dat]] - [[morsun-dat]] - [[power-isolated-Module-dat]]
 

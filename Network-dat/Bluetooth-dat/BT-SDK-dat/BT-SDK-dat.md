@@ -45,7 +45,7 @@ select UUID `FFE1` == data transceiver
 
 ![](2026-04-29-13-02-48.png)
 
-![](2026-04-29-13-03-17.png)
+![](2026-04-29-13-03-17.webp)
 
 select UUID `FFE2` == IO Control 
 

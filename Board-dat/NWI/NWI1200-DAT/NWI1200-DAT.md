@@ -82,7 +82,7 @@ based on demo code NWI1200-3
 
 ![](2023-12-19-17-41-40.png)
 
-![](2023-09-19-17-28-34.png)
+![](2023-09-19-17-28-34.webp)
 
 
 ## based on the official arduino code 

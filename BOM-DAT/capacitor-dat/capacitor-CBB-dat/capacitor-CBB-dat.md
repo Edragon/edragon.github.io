@@ -15,7 +15,7 @@ Metallized Polypropylene Film Capacitor is used for wireless charger - ZZEC
 
 CBB(MPP)Capacitor
 
-![](2026-06-13-19-02-03.png)
+![](2026-06-13-19-02-03.webp)
 
 FEATURES
 -  Capacitor size is super mini and ultra-thin (Thickness: 3.0-3.5mm).

@@ -42,7 +42,7 @@
 
 ![](2026-09-22-19-32-44.webp)
 
-![](2026-09-22-19-32-54.png)
+![](2026-09-22-19-32-54.webp)
 
 
 
@@ -68,7 +68,7 @@ build 6 - CONN stack - [[serial-dat]] port forward  - [[serial-dat]] - [[PCB-sta
 
 ![](2026-10-30-20-57-50.webp)
 
-![](2026-10-31-18-43-06.png)
+![](2026-10-31-18-43-06.webp)
 
 
 build 5 
@@ -79,7 +79,7 @@ build 5
 
 ### build 4 == double layer, middle case 
 
-![](2026-06-19-17-48-07.png)
+![](2026-06-19-17-48-07.webp)
 
 ### build 3 == plug and sold 
 
@@ -92,7 +92,7 @@ build 5
 
 - [[Sytatek-dat]]
 
-![](2026-06-18-17-58-46.png)
+![](2026-06-18-17-58-46.webp)
 
 ### build 1 
 

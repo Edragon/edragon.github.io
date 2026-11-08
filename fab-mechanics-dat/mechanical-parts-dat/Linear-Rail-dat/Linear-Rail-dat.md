@@ -20,7 +20,7 @@ Wr = dimesnion of the rail = 12
 
 ## installation 
 
-![](2025-03-14-20-09-18.png)
+![](2025-03-14-20-09-18.webp)
 
 
 

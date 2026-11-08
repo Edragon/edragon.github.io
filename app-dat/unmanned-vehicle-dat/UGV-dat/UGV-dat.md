@@ -17,7 +17,7 @@
 
 - [[motion-control-dat]]
 
-![](2026-08-05-06-38-51.png)
+![](2026-08-05-06-38-51.webp)
 
 https://www.bloomberg.com/news/articles/2026-08-04/ukraine-deploys-killer-robots-to-narrow-manpower-gap-with-russia
 

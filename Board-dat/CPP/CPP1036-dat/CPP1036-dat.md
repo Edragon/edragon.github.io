@@ -9,7 +9,7 @@ AA Alkaline Battery Holder [Slots]
 https://www.electrodragon.com/product/new-aa-battery-3v-holder-box-case-with-switch-black/?attribute_pa_attributes=for-1-pieces
 
 
-![](2024-02-17-15-37-09.png)
+![](2024-02-17-15-37-09.webp)
 
 ![](2024-02-17-15-37-21.webp)
 

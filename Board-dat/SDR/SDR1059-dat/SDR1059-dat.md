@@ -9,7 +9,7 @@
 
 pin definitions 
 
-![](2025-06-01-17-45-55.png)
+![](2025-06-01-17-45-55.webp)
 
 dimension 
 

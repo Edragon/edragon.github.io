@@ -25,7 +25,7 @@
 
 ### 2x2 wires mode wiring 
 
-![](2026-07-14-15-06-48.png)
+![](2026-07-14-15-06-48.webp)
 
 
 ### 3-wire mode 
@@ -51,7 +51,7 @@ shared common ground and positive wiring
 
 ## wiring 2
 
-![](2025-10-02-11-27-33.png)
+![](2025-10-02-11-27-33.webp)
 
 
 ## high voltage meter 
@@ -68,11 +68,11 @@ shared common ground and positive wiring
 
 - [[ADC-dat]] read voltage via [[voltage-divider-dat]]
 
-![](2026-07-17-18-31-35.png)
+![](2026-07-17-18-31-35.webp)
 
 use a few IOs to measure range:
 
-![](2026-07-17-21-56-55.png)
+![](2026-07-17-21-56-55.webp)
 
 
 

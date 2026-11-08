@@ -1,6 +1,6 @@
 # KP182-dat
 
-![](2025-05-30-18-24-06.png)
+![](2025-05-30-18-24-06.webp)
 
 ## KP182（200W/150V/20A） 不带通讯
 
@@ -33,7 +33,7 @@ KP182/4 series electronic loads can be widely used in LED lighting, power suppli
 - ● Multi-load online synchronous operation function (KP184 only);
 - ● Powerful and user-friendly host computer software support (KP184 only);
 
-![](2025-05-30-18-21-41.png)
+![](2025-05-30-18-21-41.webp)
 
 ![](2025-05-30-18-22-09.png)
 

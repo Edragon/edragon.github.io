@@ -31,16 +31,16 @@ controller - [[SIR1003-dat]] - [[infrared-sender-dat]]
 
 ## infrared pairs - 2 Pin 
 
-![](2025-11-08-18-15-11.png)
+![](2025-11-08-18-15-11.webp)
 
 movement detection using in [[coilgun-dat]]
 
-![](2025-11-08-19-36-14.png)
+![](2025-11-08-19-36-14.webp)
 
 ### receiver 
 
 
-![](2025-11-08-18-16-54.png)
+![](2025-11-08-18-16-54.webp)
 
 
 receivers specifications 
@@ -56,11 +56,11 @@ demo
 
 ## RPI-SCH 
 
-![](2024-12-20-18-08-22.png)
+![](2024-12-20-18-08-22.webp)
 
 drive 2 
 
-![](2026-01-31-16-37-23.png)
+![](2026-01-31-16-37-23.webp)
 
 drive 3 
 

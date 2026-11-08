@@ -64,7 +64,7 @@
 
 - [[TDA1308-dat]] - [[NXP-dat]]  Class-AB stereo headphone driver
 
-![](2026-03-05-19-48-32.png)
+![](2026-03-05-19-48-32.webp)
 
 - [[analog-device-dat]] - [[AD-audio-dat]]
 

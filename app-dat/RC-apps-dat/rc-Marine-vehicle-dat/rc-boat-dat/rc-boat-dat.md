@@ -102,7 +102,7 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 
 ## build 1 
 
-![](2026-05-28-11-45-05.png)
+![](2026-05-28-11-45-05.webp)
 
 the [[motor-driver-rc-dat]] hack as below: 
 
@@ -154,7 +154,7 @@ plug in frequency
 
 rebuild 
 
-![](2026-05-30-15-23-06.png)
+![](2026-05-30-15-23-06.webp)
 
 
 ## build 2 controller board 2 
@@ -169,18 +169,18 @@ rebuild
 
 
 
-![](2025-12-04-00-14-33.png)
+![](2025-12-04-00-14-33.webp)
 
-![](2025-12-04-00-17-02.png)
+![](2025-12-04-00-17-02.webp)
 
-![](2025-12-04-00-32-03.png)
+![](2025-12-04-00-32-03.webp)
 
 
 ## DIY level build 
 
 ![](2025-12-04-00-33-16.webp)
 
-![](2025-12-06-13-24-36.png)
+![](2025-12-06-13-24-36.webp)
 
 ## air-propelled 
 
@@ -191,17 +191,17 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 
 ![](2025-12-04-00-28-59.png)
 
-![](2025-12-04-00-30-35.png)
+![](2025-12-04-00-30-35.webp)
 
 - 8D423TS - [[Fuman-dat]]
 
-![](2026-05-30-15-40-11.png)
+![](2026-05-30-15-40-11.webp)
 
 ## air-propelled 2
 
 - [[3d-print-dat]] - [[hinge-dat]] connect blue part 
 
-![](2025-12-06-15-26-26.png)
+![](2025-12-06-15-26-26.webp)
 
 
 ## propeller version 1 

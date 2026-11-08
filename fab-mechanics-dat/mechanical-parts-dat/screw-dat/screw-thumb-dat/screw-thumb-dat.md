@@ -24,7 +24,7 @@ Has two flat "wings" protruding from the head.
 
 Best for: Providing maximum leverage for hand-tightening without tools.
 
-![](2026-02-22-16-01-39.png)
+![](2026-02-22-16-01-39.webp)
 
 
 ### Spade Head Thumbscrews:

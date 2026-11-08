@@ -54,7 +54,7 @@
 
 SSD201/SSD202D 
 
-![](2025-12-05-19-58-44.png)
+![](2025-12-05-19-58-44.webp)
 
 
 There’s very limited public information about the chips, at least in English. The Linux SDK and DLA SDK can be acquired from SigmaStar after signing an NDA. 

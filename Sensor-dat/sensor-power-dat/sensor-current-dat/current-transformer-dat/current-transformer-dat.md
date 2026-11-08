@@ -98,14 +98,14 @@ ZHT103U series, current output type, with wire leads
 - Transformation ratio: 1000:1
 - Typical applications: Power network meters, power transmitters, ammeters, measurement and control devices, etc.
 
-![](2025-12-16-19-38-32.png)
+![](2025-12-16-19-38-32.webp)
 
 
 ## SCH 
 
 16 channels 
 
-![](2026-07-15-16-45-07.png)
+![](2026-07-15-16-45-07.webp)
 
 ## ref 
 

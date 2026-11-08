@@ -9,4 +9,4 @@ The Back_Panel_Cover covers the back of the machine. Power via the Power_Socket 
 
 ![](2.png)
 
-![](3.png)
+![](3.webp)

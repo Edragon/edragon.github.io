@@ -43,7 +43,7 @@ for electric-bike, electric-kart, electric-scooter, electric-skateboard, etc
 
 3x 18650 
 
-![](2025-09-10-21-35-20.png)
+![](2025-09-10-21-35-20.webp)
 
 ![](2025-09-10-21-35-39.png)
 
@@ -58,7 +58,7 @@ single-unit large battery
 
 48V / 200AH
 
-![](2025-03-04-17-42-39.png)
+![](2025-03-04-17-42-39.webp)
 
 3S10P == 30 batteries == 12V 30000 mAH 
 

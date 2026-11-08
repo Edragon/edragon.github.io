@@ -74,7 +74,7 @@ CONN
 
 version 1 
 
-![](2026-03-02-21-23-16.png)
+![](2026-03-02-21-23-16.webp)
 
 version 2 == main version 
 

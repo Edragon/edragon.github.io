@@ -92,7 +92,7 @@ By switching from 5V to 3.3V, you can achieve up to 34% power savings in circuit
 
 ## power tree for D1-H
 
-![](2025-08-07-14-48-23.png)
+![](2025-08-07-14-48-23.webp)
 
 
 

@@ -7,7 +7,7 @@ https://www.ti.com/lit/ds/symlink/drv8871.pdf?ts=1747938993424&ref_url=https%253
 
 ## APPs 
 
-![](2025-05-23-02-37-14.png)
+![](2025-05-23-02-37-14.webp)
 
 
 ## ✅ Can I Use DRV8871 to Drive a Gear DC Motor?

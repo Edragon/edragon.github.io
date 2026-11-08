@@ -58,7 +58,7 @@ Several companies make digital FPV systems that can compete with or complement D
 ### moonlight kit 
 
 
-![](2025-09-18-21-54-45.png)
+![](2025-09-18-21-54-45.webp)
 
 
 ### Walksnail Avatar HD

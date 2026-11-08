@@ -38,7 +38,7 @@
 
 - **2-Pin Fans**: Fixed-speed fans without monitoring or control features. Used in basic or low-cooling scenarios and is the most affordable option.
 
-![](2024-11-13-15-25-47.png)
+![](2024-11-13-15-25-47.webp)
 
 ![](2024-11-13-15-29-22.webp)
 
@@ -52,7 +52,7 @@ This summary highlights the key differences in functionality and application bas
 
 ## FAN 3007 
 
-![](2025-08-07-13-20-45.png)
+![](2025-08-07-13-20-45.webp)
 
 
 ## order 
@@ -120,7 +120,7 @@ Solution:
 
 SCH 1 
 
-![](2026-09-05-14-34-55.png)
+![](2026-09-05-14-34-55.webp)
 
 
 ## ref 

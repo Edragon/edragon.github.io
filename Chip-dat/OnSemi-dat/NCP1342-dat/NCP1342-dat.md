@@ -19,7 +19,7 @@ The NCP1342 is a highly integrated quasi-resonant flyback controller suitable fo
 
 ## build 
 
-![](2026-06-18-18-56-49.png)
+![](2026-06-18-18-56-49.webp)
 
 - [[optical-coupler-dat]] == Orient OR-1009-TP-G - [[NCP1342-dat]]
 

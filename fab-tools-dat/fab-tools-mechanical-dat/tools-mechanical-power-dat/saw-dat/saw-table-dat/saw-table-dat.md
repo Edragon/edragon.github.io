@@ -110,7 +110,7 @@ Note: "Can be cut" ≠ "should be cut" — safety and tool life remain major con
 
 ## Micro-size table saw
 
-![](2025-12-18-18-09-23.png)
+![](2025-12-18-18-09-23.webp)
 
 Small benchtop saws can be useful for wood, plastics, and light hobby work — not for cutting most metals.
 

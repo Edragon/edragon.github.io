@@ -80,7 +80,7 @@ Open the `i2c_tools` project, select the correct COM port and chip model, and cl
 
 Next, click the 🔥 (build/flash/monitor) button to compile, flash, and monitor the project. In the terminal, you will see a command menu. When you run `i2cdetect`, it will print all detected I2C addresses. If a device is present, its address will be shown (for example, address 18 is the onboard ES8311 Codec audio chip, which will be explained in the I2S section).
 
-![](2025-08-09-12-53-11.png)
+![](2025-08-09-12-53-11.webp)
 
 #### Next Steps: Communicating with I2C Devices
 

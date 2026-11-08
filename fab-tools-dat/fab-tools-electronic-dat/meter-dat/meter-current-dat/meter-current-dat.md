@@ -99,7 +99,7 @@ While the ACS712 wins on isolation and simplicity, a standard ADC+Shunt setup is
 
 - [[GS8551-dat]] - [[TP09-dat]]
 
-![](2026-07-17-21-58-52.png)
+![](2026-07-17-21-58-52.webp)
 
 
 

@@ -45,7 +45,7 @@
 
 ## IPEX Antenna Version 
 
-![](40-46-13-07-06-2023.png)
+![](40-46-13-07-06-2023.webp)
 
 - information regarding [[conn-IPEX-dat]]
 - [[antenna-DAT]]
@@ -157,7 +157,7 @@ If you have a serial USB-TTL bridge board or cable, you can read following debug
 
 - notice [[DPR1039-dat]] more stable than common PL2303HX 
 
-![](2024-07-10-19-32-02.png)
+![](2024-07-10-19-32-02.webp)
 
 
 ### ESP32-C3 Enter into Flash Mode

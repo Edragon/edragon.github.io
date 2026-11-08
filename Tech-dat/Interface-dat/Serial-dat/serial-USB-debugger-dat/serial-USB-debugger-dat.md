@@ -100,7 +100,7 @@ Booting Mode select
 
 ### communicate with GPS module 
 
-![](2024-01-13-12-35-57.png)
+![](2024-01-13-12-35-57.webp)
 
 ### FTDI FT232RL programming arduino pro mini 
 

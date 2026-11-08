@@ -9,13 +9,13 @@
 - bottom-left == up-turn 
 - bottom-right == down-turn 
 
-![](2026-02-21-17-40-02.png)
+![](2026-02-21-17-40-02.webp)
 
 ## left turn 
 
 ![](2026-02-21-17-48-38.webp)
 
-![](2026-02-21-17-49-39.png)
+![](2026-02-21-17-49-39.webp)
 
 
 ## projects

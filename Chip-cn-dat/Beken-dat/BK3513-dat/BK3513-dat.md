@@ -11,14 +11,14 @@
   
 - [[L2CAP-dat]]
 
-![](2026-06-02-18-50-21.png)
+![](2026-06-02-18-50-21.webp)
 
 
 The BK3513 most commonly refers to an integrated circuit (IC) chip manufactured by BEKEN, a single-chip radio and baseband processor often used in Bluetooth modules, controllers (such as ShanWan PS3 gamepads), and wireless IoT devices.
 
 ## SCH
 
-![](2026-06-02-18-52-11.png)
+![](2026-06-02-18-52-11.webp)
 
 
 

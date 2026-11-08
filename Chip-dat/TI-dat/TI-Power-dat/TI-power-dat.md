@@ -80,7 +80,7 @@ The bq80xx family of devices are not sold to the mass market so there is no publ
 
 TPS7350QDR == 500-mA, 10-V, low-dropout voltage regulator with power good & enable | D | 8 | -40 to 125
 
-![](2026-09-03-15-49-25.png)
+![](2026-09-03-15-49-25.webp)
 
 
 

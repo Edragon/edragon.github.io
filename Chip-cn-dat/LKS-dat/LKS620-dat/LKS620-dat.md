@@ -13,7 +13,7 @@ LKS620芯片采用多模式控制技术，并从输出电压经过芯片内部�
 
 LKS620采用SOP-8封装。
 
-![](2026-06-15-18-12-21.png)
+![](2026-06-15-18-12-21.webp)
 
 https://sjk.lksmcu.com/static/upload/file/20230113/LKS620_Datasheet_v0.9.pdf
 

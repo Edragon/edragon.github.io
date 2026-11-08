@@ -10,19 +10,19 @@ Low power OFF-line SMPS primary switcher
 
 https://www.st.com/resource/en/datasheet/viper22a-e.pdf
 
-![](2026-05-15-14-50-59.png)
+![](2026-05-15-14-50-59.webp)
 
 
 ## APP SCH 
 
 - [[transformer-dat]] - [[TL431-dat]] - [[voltage-reference-dat]]
 
-![](2026-05-15-14-51-55.png)
+![](2026-05-15-14-51-55.webp)
 
 
 SCH2 == 12V 1A 
 
-![](2026-05-15-15-01-33.png)
+![](2026-05-15-15-01-33.webp)
 
 ## ref 
 

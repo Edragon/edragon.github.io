@@ -75,7 +75,7 @@ Applications
 - AGV Geomagnetic Navigation: Supports automated guided vehicles with precise positioning.
 - Drones: Improves stability and navigation accuracy in aerial applications.
 
-![](2025-07-13-02-11-47.png)
+![](2025-07-13-02-11-47.webp)
 
 
 

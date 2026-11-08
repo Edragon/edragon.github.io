@@ -88,7 +88,7 @@
 
 inrush V2 design 
 
-![](2026-02-12-15-02-06.png)
+![](2026-02-12-15-02-06.webp)
 
 
 
@@ -102,7 +102,7 @@ Ideal diode to prevent reverse polarity at the input
 
 ## Input protection 
 
-![](2025-07-10-18-53-28.png)
+![](2025-07-10-18-53-28.webp)
 
 - [[SB1045-dat]] - [[sensor-NTC-dat]] == NTC10D-11
 

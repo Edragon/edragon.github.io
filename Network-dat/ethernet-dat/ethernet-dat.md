@@ -54,7 +54,7 @@ Ethernet interface types include RJ45 (the most common for computers and the ESP
 
 The ESP32-P4 network model can be explained as follows:
 
-![](2025-08-09-12-57-04.png)
+![](2025-08-09-12-57-04.webp)
 
 - **Network Interface Layer**: ESP32-P4 connects to the IP101GRI PHY via RMII interface, and the network transformer leads to the RJ45 port. The MAC layer is integrated in the ESP32-P4 chip, handling frame encapsulation, checksums, and MAC addresses.
 - **Network and Transport Layers**: Managed by ESP32-P4 driving the IP101GRI PHY.
@@ -80,7 +80,7 @@ The ESP32-P4 network model can be explained as follows:
 
 ## RJ45 breakout board 
 
-![](2025-04-25-04-49-35.png)
+![](2025-04-25-04-49-35.webp)
 
 
 
@@ -101,7 +101,7 @@ HY951180A
 HY931147C
 HR931130A
 
-![](2023-11-30-15-43-51.png)
+![](2023-11-30-15-43-51.webp)
 
 
 RJ-45 w/[[CH579-dat]]
@@ -130,7 +130,7 @@ transfomer == G2406S_C507595 and RJ45
 
 build 1 
 
-![](2026-09-05-17-04-25.png)
+![](2026-09-05-17-04-25.webp)
 
 ## unsort 
 

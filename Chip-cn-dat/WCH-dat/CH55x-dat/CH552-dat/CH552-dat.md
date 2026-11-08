@@ -5,7 +5,7 @@
 
 - [[WCH-MCU-dat]]
 
-![](18-51-14-25-07-2023.png)
+![](18-51-14-25-07-2023.webp)
 
 
 ## CH552 SCH 
@@ -20,13 +20,13 @@
 
 ![](2025-12-21-18-18-50.webp)
 
-![](2025-12-21-18-19-40.png)
+![](2025-12-21-18-19-40.webp)
 
 ## keyboard and touchpad
 
 - [[interactive-dat]] - [[USB-hub-dat]] - [[keypad-dat]]
 
-![](2025-12-21-18-14-55.png)
+![](2025-12-21-18-14-55.webp)
 
 
 ## deej 
@@ -42,7 +42,7 @@ https://github.com/omriharel/deej
 
 - [[DAPLINK-dat]]
 
-![](2025-12-21-17-58-23.png)
+![](2025-12-21-17-58-23.webp)
 
 
 ## USB Blaster 
@@ -82,7 +82,7 @@ The EZP2019 is a popular, high-speed USB SPI programmer used for reading and wri
 
 - [[ICP-dat]]
 
-![](2025-12-21-18-09-57.png)
+![](2025-12-21-18-09-57.webp)
 
 ## sound detection 
 

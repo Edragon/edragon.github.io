@@ -16,7 +16,7 @@ at https://github.com/Edragon/arduino-main2/tree/main/IMS/IMS1030-seg_display-74
 
 and extra VCC and GND power supply pins 
 
-![](2024-10-25-14-45-28.png)
+![](2024-10-25-14-45-28.webp)
 
 
 

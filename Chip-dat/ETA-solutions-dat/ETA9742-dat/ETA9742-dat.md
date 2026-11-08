@@ -11,7 +11,7 @@ ETA9742 is a switching Li-Ion battery charger capable of delivering up to 3A of 
 
 ETA9742 is suitable for charging a 4.2V Li-ion battery. And ETA9742 is inESOP8 package
 
-![](2026-06-18-19-06-58.png)
+![](2026-06-18-19-06-58.webp)
 
 
 ## build 
@@ -20,7 +20,7 @@ ETA9742 is suitable for charging a 4.2V Li-ion battery. And ETA9742 is inESOP8 p
 
 ![](2026-06-18-19-07-32.png)
 
-![](2026-06-18-19-07-51.png)
+![](2026-06-18-19-07-51.webp)
 
 
 

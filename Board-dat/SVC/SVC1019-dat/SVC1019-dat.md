@@ -48,13 +48,13 @@ Ultra-low cost, high precision to meet most application requirements.
 
 ## Demo Code and Video
 
-![](2026-07-14-15-33-32.png)
+![](2026-07-14-15-33-32.webp)
 
 ![](2026-07-14-15-33-46.webp)
 
 - [[STM8-dat]] - [[meter-voltage-dat]] - [[LDO-dat]]
 
-![](2026-07-14-15-34-39.png)
+![](2026-07-14-15-34-39.webp)
 
 ## ref 
 

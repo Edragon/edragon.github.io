@@ -7,7 +7,7 @@
 
 The CN3768 is a complete switching charger controller designed for 12V lead-acid batteries. It provides automatic multi-stage charging with protections and status indication. Typical applications include battery chargers and power backup systems.
 
-![](2025-04-21-20-46-06.png)
+![](2025-04-21-20-46-06.webp)
 
 
 ## Key Features

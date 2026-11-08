@@ -5,7 +5,7 @@
 
 ## LED epiwafer 
 
-![](2026-08-24-13-38-50.png)
+![](2026-08-24-13-38-50.webp)
 
 An LED epiwafer is a thin single-crystal film of gallium nitride (GaN) grown on a sapphire disc. Three parts matter:
 

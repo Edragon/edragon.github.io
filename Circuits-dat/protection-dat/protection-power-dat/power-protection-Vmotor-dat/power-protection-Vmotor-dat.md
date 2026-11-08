@@ -14,7 +14,7 @@ Example 2. for Motor Power Input
 
 
 
-![](2025-06-01-17-51-12.png)
+![](2025-06-01-17-51-12.webp)
 
 - reverse-votlage-protection == [[mosfet-dat]]
 - voltage [[diode-zener-dat]] 6.8V - [[diode-dat]] == [[OVP-dat]] == over-voltage protection

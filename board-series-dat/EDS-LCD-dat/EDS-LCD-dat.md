@@ -41,7 +41,7 @@ Note: The 2.2-inch SPI module has no touch pins and has 9 PINs. The 2.4/2.8/3.2/
 
 ### 3.2" ILI9341 // 37 pin or 18 pin 
 
-![](2025-08-09-18-03-17.png)
+![](2025-08-09-18-03-17.webp)
 
 ### 2.2" ILI9341 14 pin 
 
@@ -99,7 +99,7 @@ Adafruit TFTLCD lib: https://github.com/adafruit/TFTLCD-Library
 
 When choosing the dot matrix size, make sure the value is greater than the number of bytes each character uses. For example, an 8x16 character uses 8x16/8 = 16 bytes, so select a dot matrix size greater than 16.
 
-![](2025-08-19-13-07-31.png)
+![](2025-08-19-13-07-31.webp)
 
 **Step 2: Configure Character Width and Height**
 
@@ -139,7 +139,7 @@ The 8x16 font bitmap is already provided in the sample file `lcdfont.h`, as show
 
 打开取模软件，扫描模式设置为垂直扫描，宽度和高度设置为 250x122，取消勾选包含图像头数据，勾选颜色反转，设置为上下颠倒，点击保存为 .c 文件。
 
-![](2025-08-19-15-28-01.png)
+![](2025-08-19-15-28-01.webp)
 
 将取模软件生产的 .c 文件里面｛｝里面的内容复制到图传程序 imagedata.cpp 文件里 gImage 数组的大括号里。
 

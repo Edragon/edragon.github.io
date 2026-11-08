@@ -3,7 +3,7 @@
 
 [datasheet link ](https://www.ti.com/lit/ds/symlink/ads1115.pdf)
 
-![](ADS1115-sch.png)
+![](ADS1115-sch.webp)
 
 
 - [[TP5551-dat]] - [[LM7705-dat]]

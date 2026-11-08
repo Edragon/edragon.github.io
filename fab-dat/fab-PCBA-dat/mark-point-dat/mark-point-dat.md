@@ -12,7 +12,7 @@ If both sides of the PCB have surface mount components, Mark points should be ad
 
 ## Mark Shape
 
-![](2025-04-01-16-27-50.png)
+![](2025-04-01-16-27-50.webp)
 
 - **Shape**: It is recommended that the Mark point be marked as a solid circle with a diameter of D=1.0mm;
 - **A complete MAR point consists of**: a marking point (or feature point) and an empty area.

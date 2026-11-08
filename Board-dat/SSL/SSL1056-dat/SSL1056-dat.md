@@ -24,7 +24,7 @@ legacy wiki page - https://www.electrodragon.com/w/DFPlayer_Mini
 
 ## wiring 
 
-![](2026-07-23-20-14-21.png)
+![](2026-07-23-20-14-21.webp)
 
 ## ref 
 

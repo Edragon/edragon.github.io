@@ -49,7 +49,7 @@ MG995 / MG996R are metal-gear servos with high torque suitable for RC cars, boat
 | Operating temperature         | -30 to +60 °C                                                             |
 | Accessories included          | Servo horns, mounting screws, vibration-damping sleeves, aluminum adapter |
 
-![](2026-01-13-16-52-23.png)
+![](2026-01-13-16-52-23.webp)
 
 
 ## Accessories

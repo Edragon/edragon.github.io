@@ -28,7 +28,7 @@ https://www.electrodragon.com/w/Usbasp
 
 - [[DAR1053-dat]]
 
-![](2024-06-18-19-14-22.png)
+![](2024-06-18-19-14-22.webp)
 
 ![](2024-06-18-19-15-17.png)
 

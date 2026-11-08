@@ -75,7 +75,7 @@ similar
 Dual N-Channel Enhancement Mode MOSFET == 30V 21A 
 
 
-![](2026-09-16-18-31-33.png)
+![](2026-09-16-18-31-33.webp)
 
 
 - [[VBA4338-dat]] - [[VBA3316-dat]] - [[VBsemi-dat]] - [[mosfet-dat]]
@@ -309,7 +309,7 @@ The LED flashing when switched by a MOSFET can be caused by several issues. Here
 
 ## Parallel using Mosfet for higher performance 
 
-![](2024-08-28-14-44-40.png)
+![](2024-08-28-14-44-40.webp)
 
 
 
@@ -368,7 +368,7 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 - [[allpower-dat]] == APG095N01G N-Channel Enhancement Mosfet == P01BG G095N01G 
 
-![](2026-06-18-02-13-34.png)
+![](2026-06-18-02-13-34.webp)
 
 - [[NIKO-SEM-dat]] - NKO PK5A7BA
 
@@ -451,7 +451,7 @@ The AM9435 is available in SOP8 Package
 This device is produced with high cell density DMOS trench technology, uses advanced trench technology and design to provide excellent RDSON with low gate charge. This device particularly suits low voltage applications such as portable equipment, power management and other battery powered circuits, and low in-line power dissipation are needed in a very small outline surface mount package.
 
 
-![](2026-05-23-15-04-15.png)
+![](2026-05-23-15-04-15.webp)
 
 ## mosfet SOT
 
@@ -475,11 +475,11 @@ Mf8i1 - Generic SOT23-6 MOSFETs
 
 2M04
 
-![](2026-06-02-19-21-19.png)
+![](2026-06-02-19-21-19.webp)
 
 The PTQ45P02 is a surface-mount, P-Channel Power MOSFET. It is frequently used in battery management systems, power supplies, and consumer electronics requiring high current switching in a compact format.
 
-![](2026-06-02-19-50-58.png)
+![](2026-06-02-19-50-58.webp)
 
 - [[fuman-dat]]
 

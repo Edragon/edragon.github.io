@@ -42,7 +42,7 @@ for [[caddx-ratelpro-dat]] - [[caddx-ant-dat]]
 
 side view install M2 x6 
 
-![](2026-09-20-15-29-35.png)
+![](2026-09-20-15-29-35.webp)
 
 ![](2026-09-20-15-30-35.webp)
 
@@ -68,7 +68,7 @@ not yet break it down, only the back side now
 
 - [[EEPROM-dat]] - [[LDO-dat]] - [[crystal-dat]]
 
-![](2026-09-20-14-39-02.png)
+![](2026-09-20-14-39-02.webp)
 
 ![](2026-09-20-14-39-44.png)
 

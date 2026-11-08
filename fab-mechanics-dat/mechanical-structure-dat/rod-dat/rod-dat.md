@@ -108,7 +108,7 @@ Analogy: A shaft is like a "table leg" (a finished product with a specific job).
 
 cantilevel 
 
-![](2025-12-10-02-17-22.png)
+![](2025-12-10-02-17-22.webp)
 
 tube cross locker 
 
@@ -117,7 +117,7 @@ tube cross locker
 vertical tube connector == water pipe joint
 
 
-![](2025-12-10-02-45-20.png)
+![](2025-12-10-02-45-20.webp)
 
 
 ## ref 

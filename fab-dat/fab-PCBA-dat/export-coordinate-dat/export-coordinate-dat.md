@@ -66,7 +66,7 @@ You must set a PCB origin position and understand where that origin is located o
 
 Generally, it is the intersection of two white lines.
 
-![](2025-04-01-16-23-10.png)
+![](2025-04-01-16-23-10.webp)
 
 
 ## export methods for eagleCAD 
@@ -86,14 +86,14 @@ one for the top side (.mnt) and one for the bottom side (.mnb).
 
 the following solid-red mark is must-pick
 
-![](2025-04-01-16-24-25.png)
+![](2025-04-01-16-24-25.webp)
 
 ![](2025-04-01-16-24-34.webp)
 
 
 ## export methods for LC EDA 
 
-![](2025-04-01-16-25-03.png)
+![](2025-04-01-16-25-03.webp)
 
 
 

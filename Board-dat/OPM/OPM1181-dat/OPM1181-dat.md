@@ -38,7 +38,7 @@ Please note it may take a long time to fully charge a battery.
 
 - [[OBD-dat]] - [[car-dat]] - [[battery-Lead-acid-dat]] - [[Cigarette-Lighter-dat]] - [[OPM1181-dat]]
 
-![](2026-07-19-16-40-09.png)
+![](2026-07-19-16-40-09.webp)
 
 
 ## ref

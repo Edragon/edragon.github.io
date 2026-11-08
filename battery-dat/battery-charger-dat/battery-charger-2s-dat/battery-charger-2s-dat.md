@@ -151,7 +151,7 @@ Since you are building a **scooter**, safety is paramount.
 
 ![](2026-06-07-14-30-04.webp)
 
-![](2026-06-07-14-30-20.png)
+![](2026-06-07-14-30-20.webp)
 
 - [[mosfet-dat]] - [[samsung-dat]]
 

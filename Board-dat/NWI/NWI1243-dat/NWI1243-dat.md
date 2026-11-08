@@ -6,9 +6,9 @@
 
 all boards info - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-VCC-dat]] - [[ESP32-S3-board-WV-dat]] - [[ESP32-S3-DevKitC-1-dat]] - [[NWI1243-dat]] - [[NWI1244-dat]] - [[NWI1249-dat]]
 
-![](2023-11-29-18-54-03.png)
+![](2023-11-29-18-54-03.webp)
 
-![](2023-11-29-18-54-26.png)
+![](2023-11-29-18-54-26.webp)
 
 ![](2023-12-01-15-32-49.png)
 

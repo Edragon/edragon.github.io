@@ -24,7 +24,7 @@ Key Features of the L293D Motor Driver Shield
 
 Pin Definitions 
 
-![](2025-04-01-13-12-55.png)
+![](2025-04-01-13-12-55.webp)
 
 ![](2025-04-01-13-13-09.webp)
 

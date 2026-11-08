@@ -125,7 +125,7 @@ Form factor	Modular board (no enclosure)
 
 main 
 
-![](2026-10-02-02-13-50.png)
+![](2026-10-02-02-13-50.webp)
 
 peripherals - [[flash-dat]] - [[MIPI-dat]]
 

@@ -14,7 +14,7 @@ With the WYA-7688A module, traditional serial devices can transmit their data ov
 
 ## Function map 
 
-![](2025-08-06-17-55-58.png)
+![](2025-08-06-17-55-58.webp)
 
 
 ## Network Standards

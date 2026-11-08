@@ -24,7 +24,7 @@ BL-M8189FS6(VC) == 802.11n 150Mbps WiFi SDIO Module Specification
 
 ## M8821CP2 1T1R 802.11a/b/g/n/ac WiFi + BT5.0-Compliant Module
 
-![](2026-09-05-14-56-55.png)
+![](2026-09-05-14-56-55.webp)
 
 
 

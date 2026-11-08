@@ -130,9 +130,9 @@ Nuts and Bolts
 
 ## images 
 
-![](1.png)
+![](1.webp)
 
-![](2.png)
+![](2.webp)
 
 ![](3.jpeg)
 

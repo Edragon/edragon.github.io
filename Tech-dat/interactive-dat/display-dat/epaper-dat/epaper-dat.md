@@ -64,7 +64,7 @@ There is also this type of NFC passive smart tag, which can refresh its display 
 
 ## second-hand epaper module 
 
-![](2025-08-19-15-22-15.png)
+![](2025-08-19-15-22-15.webp)
 
 
 
@@ -82,17 +82,17 @@ There is also this type of NFC passive smart tag, which can refresh its display 
 
 init epaper 
 
-![](2025-09-25-13-12-12.png)
+![](2025-09-25-13-12-12.webp)
 
 main method 
 
-![](2025-09-25-13-13-06.png)
+![](2025-09-25-13-13-06.webp)
 
 ## E-paper 2.13"
 
 please find demo code in epaper repo above, we have V1, V2, V3 versions, currently selling version is V3. If not working please try from the V3 version to the V1.
 
-![](2025-06-12-20-42-41.png)
+![](2025-06-12-20-42-41.webp)
 
 
 
@@ -117,7 +117,7 @@ BS = 1 = 3V3 = 3 line spi
 
 the main control part 
 
-![](2025-08-19-15-14-11.png)
+![](2025-08-19-15-14-11.webp)
 
 | dimension          | resistor |   |
 |--------------------|----------|---|
@@ -238,9 +238,9 @@ build 1
 
 ESP8266 drive 
 
-![](2025-08-19-15-06-08.png)
+![](2025-08-19-15-06-08.webp)
 
-![](2025-08-19-15-06-34.png)
+![](2025-08-19-15-06-34.webp)
 
 ### basic SCH 
 
@@ -264,7 +264,7 @@ ESP8266 drive
 
 ## build 
 
-![](2026-07-31-20-03-08.png)
+![](2026-07-31-20-03-08.webp)
 
 ## ref 
 

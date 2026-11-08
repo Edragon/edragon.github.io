@@ -133,13 +133,13 @@ Servo_RL.write(45); // Push
 
 ### Crank-Rocker
 
-![](2026-03-08-01-05-45.png)
+![](2026-03-08-01-05-45.webp)
 
 
 ### Klann Linkage
 
 
-![](2026-03-08-01-03-47.png)
+![](2026-03-08-01-03-47.webp)
 
 
 
@@ -147,7 +147,7 @@ Servo_RL.write(45); // Push
 
 ### Diagonal Trot
 
-![](2026-03-08-01-07-55.png)
+![](2026-03-08-01-07-55.webp)
 
 ### trot gait 
 

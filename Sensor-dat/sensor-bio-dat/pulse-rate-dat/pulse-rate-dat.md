@@ -18,7 +18,7 @@ It turns out that oxygenated blood absorbs more infrared light and transmits mor
 
 
 
-![](2025-05-05-18-26-49.png)
+![](2025-05-05-18-26-49.webp)
 
 
 

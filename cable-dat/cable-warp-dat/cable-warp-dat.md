@@ -14,7 +14,7 @@ spiral cable wrap is used to protect the cable from abrasion and damage, it can 
 
 ## cable groove 
 
-![](2025-06-06-18-31-51.png)
+![](2025-06-06-18-31-51.webp)
 
 ## ref 
 

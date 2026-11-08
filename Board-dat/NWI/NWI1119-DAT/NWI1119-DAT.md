@@ -42,7 +42,7 @@ Tested with arduino code, flash tested with [[ESPHome-dat]], but not further fun
 ADC port  - [[ADC-dat]]
 
 
-![](2025-12-24-19-07-05.png)
+![](2025-12-24-19-07-05.webp)
 
 
 

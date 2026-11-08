@@ -62,7 +62,7 @@ RC motors, servos, hobby electronics → kg·cm
 
 ![](2025-03-28-15-34-04.webp)
 
-![](2023-12-04-18-30-10.png)
+![](2023-12-04-18-30-10.webp)
 
 
 # Torque Comparison: 45T Brushed Motor vs MG540 Brushed Motor

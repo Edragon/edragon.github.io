@@ -9,7 +9,7 @@ legacy wiki page - https://w.electrodragon.com/w/Category:STM32#F4.2B
 
 ## Board map 
 
-![](2024-10-08-17-28-02.png)
+![](2024-10-08-17-28-02.webp)
 
 ![](2025-04-08-19-17-32.png)
 

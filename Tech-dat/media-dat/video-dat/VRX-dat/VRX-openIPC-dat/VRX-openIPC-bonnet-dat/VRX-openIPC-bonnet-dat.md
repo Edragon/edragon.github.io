@@ -18,7 +18,7 @@
 
 pin and keys - [[keyboard-dat]] - [[keypad-dat]] - [[joystick-dat]] - [[interactive-dat]] - [[VRX-openIPC-bonnet-dat]]
 
-![](2026-10-02-03-12-24.png)
+![](2026-10-02-03-12-24.webp)
 
 - [[USB-SDK-dat]]
 

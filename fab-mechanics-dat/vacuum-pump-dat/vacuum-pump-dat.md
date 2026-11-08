@@ -21,7 +21,7 @@ DC 24V
 
 ## installation to machine 
 
-![](2025-04-02-16-39-43.png)
+![](2025-04-02-16-39-43.webp)
 
 
 

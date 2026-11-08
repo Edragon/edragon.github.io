@@ -15,7 +15,7 @@
 - [[driver-dat]] - [[RTL8812AU-dat]] - [[WIN10-dat]] - [[USB-SDK-dat]] - [[wifi-adapter-dat]]
 
 
-![](2026-10-29-01-53-43.png)
+![](2026-10-29-01-53-43.webp)
 
 
 ## tech 
@@ -103,7 +103,7 @@ If you are configuring networking on a software router, Raspberry Pi, or embedde
 
 ZXIC 
 
-![](2025-09-30-21-30-35.png)
+![](2025-09-30-21-30-35.webp)
 
 ![](2025-09-30-21-30-57.webp)
 

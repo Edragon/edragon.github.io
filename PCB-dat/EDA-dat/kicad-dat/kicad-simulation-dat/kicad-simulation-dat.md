@@ -15,7 +15,7 @@ LED
 
 I opened their “Tools and support” tab, underneath I, found a design resources tab. (figure 1)
 
-![](2025-03-18-14-49-30.png)
+![](2025-03-18-14-49-30.webp)
 
 Underneath design resources they asked for the type of document, I chose “Simulation Models” (figure 2)
 
@@ -24,7 +24,7 @@ I searched for the part by name: “BC547”. We want the library, so we choose 
 
 OP-Amp 
 
-![](2025-03-18-15-22-45.png)
+![](2025-03-18-15-22-45.webp)
 
 ## setup 
 
@@ -61,7 +61,7 @@ I found multiple people posting their “LED models” and I decided to go with 
 
 ### simple - voltage ladder 
 
-![](2025-03-18-16-04-42.png)
+![](2025-03-18-16-04-42.webp)
 
 
 ### AC Since - RC Ladder

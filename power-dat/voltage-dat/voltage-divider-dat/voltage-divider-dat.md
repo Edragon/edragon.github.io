@@ -11,7 +11,7 @@
 
 == voltage ladder 
 
-![](../../Voltage-dat/voltage-divider-dat/2024-02-01-18-36-27.png)
+![](../../Voltage-dat/voltage-divider-dat/2024-02-01-18-36-27.webp)
 
 Vout = Vin * (R2 / (R1 + R2))
 

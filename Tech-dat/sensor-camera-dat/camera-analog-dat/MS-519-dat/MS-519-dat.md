@@ -6,7 +6,7 @@
 
 - [[camera-FPV-dat]] - [[MS-519-dat]] - [[mista-dat]] - [[JHEMCU-dat]] - [[camera-analog-dat]]
 
-![](2026-11-01-01-10-29.png)
+![](2026-11-01-01-10-29.webp)
 
 camera
 

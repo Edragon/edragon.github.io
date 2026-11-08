@@ -176,7 +176,7 @@ APR + XXXXXXX total data length of each time send/receive, it recommended not to
 
 ### Module Pin Definitions 
 
-![](2025-01-05-17-03-39.png)
+![](2025-01-05-17-03-39.webp)
 
 | Number IO | IO Name           | IO Description                                            |
 | --------- | ----------------- | --------------------------------------------------------- |
@@ -215,7 +215,7 @@ APR + XXXXXXX total data length of each time send/receive, it recommended not to
 
 Dimension 
 
-![](2025-01-05-17-04-05.png)
+![](2025-01-05-17-04-05.webp)
 
 
 ## ref 

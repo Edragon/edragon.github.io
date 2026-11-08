@@ -4,7 +4,7 @@
 
 store in the humidity evvironment 
 
-![](2026-03-01-15-02-08.png)
+![](2026-03-01-15-02-08.webp)
 
 
 

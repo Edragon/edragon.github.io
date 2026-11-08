@@ -137,7 +137,7 @@ wave of UARTS Data
 
 - 196678365
 
-![](02-58-18-07-03-2023.png)
+![](02-58-18-07-03-2023.webp)
 
 
 ## spectrum analyzer 
@@ -163,7 +163,7 @@ pin MCLK
 
 pin LRCK 
 
-![](2026-07-23-15-37-52.png)
+![](2026-07-23-15-37-52.webp)
 
 pin SCLK 
 

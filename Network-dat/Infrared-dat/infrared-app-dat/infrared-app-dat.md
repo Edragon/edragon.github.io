@@ -12,7 +12,7 @@
 
 1). `The transmitting end`: the headset port, the audio signal input through the transistor Q1 S8050, an infrared transmitter to drive the tube, and the audio signal is transmitted in the form of infrared.
 
-![](2026-05-15-14-24-35.png)
+![](2026-05-15-14-24-35.webp)
 
 2). `The receiving end`: the infrared receiving tube for receiving the infrared signal transmitter, converted into an audio signal through the LM386 audio amplifier chip, and the audio output signal can be amplified
 

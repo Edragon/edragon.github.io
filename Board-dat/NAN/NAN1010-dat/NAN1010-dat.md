@@ -7,7 +7,7 @@ product url - [2PCs 2.4G Soft FPC PCB Antenna, IPX, ROHS](https://www.electrodra
 
 ### Board Map, Dimension, Pins, etc.
 
-![](2025-04-23-18-04-17.png)
+![](2025-04-23-18-04-17.webp)
 
 - 2.4G WIFI small size black film antenna FPC soft PCB gain antenna 2.4G module antenna
 - Length: 15CM IPX standard interface

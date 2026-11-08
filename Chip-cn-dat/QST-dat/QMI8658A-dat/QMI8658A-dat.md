@@ -19,7 +19,7 @@ With its built-in digital functionality, low power, and small size, the QMI8658A
 
 ## APP 1. 
 
-![](2026-04-14-19-59-42.png)
+![](2026-04-14-19-59-42.webp)
 
 ## ref 
 

@@ -5,7 +5,7 @@
 
 Part 2 and 3 for how to carry a DC load J
 
-![](2023-12-12-17-50-16.png)
+![](2023-12-12-17-50-16.webp)
 
 
 ## Info 

@@ -28,7 +28,7 @@ It is a primary reagent in the "nitration" process used to manufacture explosive
 #### 4. Rocketry
 **Red Fuming Nitric Acid (RFNA)** is used as an oxidizer in liquid-fuel rockets, particularly in tactical missiles and older space launch vehicles.
 
-![](2026-02-22-16-18-24.png)
+![](2026-02-22-16-18-24.webp)
 
 ![](2026-02-22-16-18-34.webp)
 

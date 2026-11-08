@@ -24,7 +24,7 @@ This is an unique sensor socket for most common MQ sensors
 
 ![](2024-03-27-17-46-11.png)
 
-![](2024-03-27-17-47-03.png)
+![](2024-03-27-17-47-03.webp)
 
 
 ## ref 

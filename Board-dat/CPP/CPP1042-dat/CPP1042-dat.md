@@ -7,7 +7,7 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2025-06-12-16-52-14.png)
+![](2025-06-12-16-52-14.webp)
 
 ## Applications, category, tags, etc. 
 

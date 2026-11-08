@@ -106,7 +106,7 @@ find firmware version
 - Link Mode == Off
 
 
-![](2025-09-02-13-11-15.png)
+![](2025-09-02-13-11-15.webp)
 
 
 

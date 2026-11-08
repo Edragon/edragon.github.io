@@ -7,7 +7,7 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2025-06-19-16-08-30.png)
+![](2025-06-19-16-08-30.webp)
 
 Working voltage:
 - R 1.9 – 2.1 V
@@ -32,13 +32,13 @@ Notice: solder temperature should not higher than 260 degree
 
 Pin 1, 2, 3 on > side is GND, and pin 4, 5, 6 is RGB VCC in.
 
-![](2025-06-19-16-08-51.png)
+![](2025-06-19-16-08-51.webp)
 
 ![](2025-06-19-16-09-07.png)
 
 ![](2025-06-19-16-09-17.webp)
 
-![](2025-06-19-16-09-29.png)
+![](2025-06-19-16-09-29.webp)
 
 ![](2025-06-19-16-09-44.webp)
 ## Applications, category, tags, etc. 

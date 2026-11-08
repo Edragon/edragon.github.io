@@ -31,7 +31,7 @@
 - [[JST-1.25-dat]] == normally on the [[camera-FPV-dat]] end 
 - [[JST-SH1.0-dat]] == normally on the [[VTX-dat]] or [[FC-AIO-dat]] end
 
-![](2026-09-20-15-49-56.png)
+![](2026-09-20-15-49-56.webp)
 
 
 
@@ -81,7 +81,7 @@ It is a Japanese company that manufactures a wide variety of electrical connecto
 
 ## male and female connector 
 
-![](2024-09-24-19-40-26.png)
+![](2024-09-24-19-40-26.webp)
 
 
 

@@ -14,7 +14,7 @@
 
 2:1 - [[motor-servo-dat]]
 
-![](2026-08-14-02-31-17.png)
+![](2026-08-14-02-31-17.webp)
 
 
 ## gear ratio 
@@ -81,7 +81,7 @@ For small-diameter wheels, the gear ratio is designed to balance pedaling effort
 
 ## Cassette
 
-![](2026-03-01-00-55-32.png)
+![](2026-03-01-00-55-32.webp)
 
 
 

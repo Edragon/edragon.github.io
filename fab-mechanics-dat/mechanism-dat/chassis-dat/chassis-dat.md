@@ -81,7 +81,7 @@ overview
 
 - [[chassis-dat]] - [[differential-steering-dat]] - [[suspension-dat]]
 
-![](2026-10-02-18-49-38.png)
+![](2026-10-02-18-49-38.webp)
 
 
 

@@ -30,7 +30,7 @@ suitable boards - [[ESP32-S3-board-VCC-dat]] - [[ESP32-S3-board-WV-dat]] - [[ESP
 
 E_BUFF(mid two pins) to SEL1_BUFF or SEL1 
 
-![](2026-04-02-21-51-45.png)
+![](2026-04-02-21-51-45.webp)
 
 prototype board 
 
@@ -144,7 +144,7 @@ v1.1
 
 wiring, image the second board is the matrix panel - [[led-rgb-panel-dat]]
 
-![](2026-09-13-15-35-06.png)
+![](2026-09-13-15-35-06.webp)
 
 ![](2026-09-13-15-36-04.png)
 

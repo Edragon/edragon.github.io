@@ -108,7 +108,7 @@ Your LED dimming when the gate is low means:
 
 - [[74hct245-dat]]
 
-![](2025-10-10-19-16-39.png)
+![](2025-10-10-19-16-39.webp)
 
 
 ## ref 

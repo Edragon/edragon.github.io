@@ -41,7 +41,7 @@ The recommended types of magnetic beads are BLM21PG300SN1D and MPZ2012S221A.
 In addition, in order to prevent the damage of A7672X/A7670X caused by surge and overvoltage, it is
 recommended to parallel one TVS on the Vbat pin of the module.
 
-![](2026-09-05-14-07-34.png)
+![](2026-09-05-14-07-34.webp)
 
 - 1 JCET ESDBW5V0A1 5V DFN1006-2L
 - 2 WAYON WS05DPF-B 5V DFN1006-2L

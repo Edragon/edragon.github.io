@@ -20,7 +20,7 @@ Specs
 ![](2023-12-19-15-20-27.png)
 
 Appearance 
-![](2023-12-19-15-21-11.png)
+![](2023-12-19-15-21-11.webp)
 
 
 
@@ -30,10 +30,10 @@ https://www.electrodragon.com/product/wxd3-13-2w-10k-ohm-multiple-circles-potent
 WXD3-13-2W 10K
 
 
-![](2025-02-16-18-36-53.png)
+![](2025-02-16-18-36-53.webp)
 
 
-![](2025-02-16-18-37-18.png)
+![](2025-02-16-18-37-18.webp)
 
 
 ## ref 

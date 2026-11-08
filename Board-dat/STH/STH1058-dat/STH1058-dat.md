@@ -11,7 +11,7 @@ If you connect board to both power rails VDD_IO 1.8V and VDD 3.3V be sure to rem
 
 ## schematic 
 
-![](2024-03-25-14-54-09.png)
+![](2024-03-25-14-54-09.webp)
 
 ## ref 
 

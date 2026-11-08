@@ -35,7 +35,7 @@ A professional instrument for precise measurement of low or high-precision resis
 
 UT70Acapa
 
-![](2025-08-19-23-51-26.png)
+![](2025-08-19-23-51-26.webp)
 
 
 ## TS457
@@ -46,11 +46,11 @@ testing - [[18650-dat]]
 
 80m ohm is really bad  
 
-![](2025-08-24-16-31-21.png)
+![](2025-08-24-16-31-21.webp)
 
 25m ohm is not bad  
 
-![](2025-08-24-16-31-32.png)
+![](2025-08-24-16-31-32.webp)
 
 
 

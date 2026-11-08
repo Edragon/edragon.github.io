@@ -43,7 +43,7 @@
 - Digital RSSI == [[RSSI-dat]]
 - Packet engine to perform CRC, FEC, whitening, and address filtering
 
-![](2025-06-23-17-10-05.png)
+![](2025-06-23-17-10-05.webp)
 
 Core Frequency Range
 
@@ -64,7 +64,7 @@ While the silicon itself can tune to any frequency in this range, actual hardwar
 
 - [[SX1278-dat]]
 
-![](2025-06-26-19-56-24.png)
+![](2025-06-26-19-56-24.webp)
 
 ![](2025-06-26-19-59-04.png)
 
@@ -89,12 +89,12 @@ While the silicon itself can tune to any frequency in this range, actual hardwar
 
 ## Pin Definitions 
 
-![](2025-07-09-14-14-19.png)
+![](2025-07-09-14-14-19.webp)
 
 
 ### SX1262 SCH
 
-![](2025-07-09-12-47-23.png)
+![](2025-07-09-12-47-23.webp)
 
 
 

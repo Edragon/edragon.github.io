@@ -13,7 +13,7 @@ https://www.electrodragon.com/product/daplink-cmsis-dap-debugger-for-arm-cortex-
 
 ## schematic 
 
-![](2024-09-20-12-25-39.png)
+![](2024-09-20-12-25-39.webp)
 
 ## Boards peripherals 
 

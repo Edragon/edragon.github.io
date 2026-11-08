@@ -32,7 +32,7 @@ The 10 uF capacitor connects RST and GND pins.
 
 The Programmer needs to be set to jtag2updi (megaTinyCore).
 
-![](2022-10-15-18-38-28.png)
+![](2022-10-15-18-38-28.webp)
 
 #### firmware 
 
@@ -49,7 +49,7 @@ original - https://github.com/ElTangas/jtag2updi
 
 ## case 1 
 
-![](2024-05-31-18-25-27.png)
+![](2024-05-31-18-25-27.webp)
 
 Common Errors 
 

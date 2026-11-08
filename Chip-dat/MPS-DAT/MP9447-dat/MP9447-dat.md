@@ -18,7 +18,7 @@ High-Efficiency, Fast-Transient, 5A, 36V Synchronous, Step-Down Converter
 
 - [[PCB-layer-4-dat]] - [[MP9447-dat]]
 
-![](2026-10-02-15-02-32.png)
+![](2026-10-02-15-02-32.webp)
 
 
 ## ref 

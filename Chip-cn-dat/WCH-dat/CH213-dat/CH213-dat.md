@@ -24,7 +24,7 @@ The following is the internal block diagram of CH213 for reference only.
 
 ## build 
 
-![](2026-09-24-22-30-16.png)
+![](2026-09-24-22-30-16.webp)
 
 
 ## ref 

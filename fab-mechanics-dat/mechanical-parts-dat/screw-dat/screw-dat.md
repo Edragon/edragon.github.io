@@ -106,7 +106,7 @@ Usage: Less common in screws but used in vintage or decorative applications.
 
 Pan Head Screws M3*6, note length is the screws part 
 
-![](2025-03-07-17-10-00.png)
+![](2025-03-07-17-10-00.webp)
 
 4. Pan Head
 Name: Pan Head Screw
@@ -119,7 +119,7 @@ Usage: Common in electronics, sheet metal fastening, and general applications.
 
 Countersunk Head M3*6, note length is the total length 
 
-![](2025-03-07-17-11-52.png)
+![](2025-03-07-17-11-52.webp)
 
 
 ### Hex Head 

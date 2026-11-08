@@ -29,7 +29,7 @@ CH559
 
 ![](16-48-14-25-07-2023.png)
 
-![](09-54-12-13-03-2023.png)
+![](09-54-12-13-03-2023.webp)
 
 
 - https://kprasadvnsi.github.io/CH559_Doc_English/docs/1-overview/
@@ -52,7 +52,7 @@ P32 P33 P34 P44 = LED 0 LED1 LEDC LED3
 
 ## board sch 
 
-![](49-38-14-25-07-2023.png)
+![](49-38-14-25-07-2023.webp)
 
 
 

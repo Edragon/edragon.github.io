@@ -20,7 +20,7 @@ click start and wait
 
 press boot button to start flashing 
 
-![](2025-05-13-18-48-10.png)
+![](2025-05-13-18-48-10.webp)
 
 AT firmware APP + Core need 300s at 115200, custom APP need ~60s at 921600
 

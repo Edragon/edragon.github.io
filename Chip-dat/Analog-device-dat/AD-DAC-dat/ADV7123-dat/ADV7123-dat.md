@@ -25,7 +25,7 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7123.pdf
 
 ## function diagram 
 
-![](2026-09-25-15-01-23.png)
+![](2026-09-25-15-01-23.webp)
 
 
 ## video diagram 

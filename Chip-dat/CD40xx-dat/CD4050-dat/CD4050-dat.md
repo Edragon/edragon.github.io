@@ -25,7 +25,7 @@ The CD4050BM (often mistyped as `CD40504BM`) is a CMOS Hex Non-Inverting Buffer 
 • CMOS high-to-low logic level converters
 
 
-![](2026-09-29-16-39-01.png)
+![](2026-09-29-16-39-01.webp)
 
 
 ## ref 

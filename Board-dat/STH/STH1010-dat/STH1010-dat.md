@@ -7,9 +7,9 @@ https://w.electrodragon.com/w/Category:DHT22
 
 - [[AM2302-dat]] == [[DHT22-dat]] - [[aosong-dat]]
 
-![](2024-01-02-17-49-43.png)
+![](2024-01-02-17-49-43.webp)
 
-![](2024-01-02-17-51-28.png)
+![](2024-01-02-17-51-28.webp)
 
 ## Applictions 
 

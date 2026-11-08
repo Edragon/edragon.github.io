@@ -79,12 +79,12 @@ These standards are governed globally by the **IEC (International Electrotechnic
 - [[CONN-power-dat]] - [[CONN-DC-barrel-jack-dat]]
 
 
-![](2026-02-21-18-01-36.png)
+![](2026-02-21-18-01-36.webp)
 
 
 ## power cable 2 - 1Y2 - 5V output 
 
-![](2026-02-26-17-34-52.png)
+![](2026-02-26-17-34-52.webp)
 
 - [[CONN-cable-terminal-crimp-dat]]
 

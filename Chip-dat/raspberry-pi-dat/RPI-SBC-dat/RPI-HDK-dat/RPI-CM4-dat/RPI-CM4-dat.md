@@ -36,13 +36,13 @@ default UARTs: https://forums.raspberrypi.com/viewtopic.php?t=345086
 
 ## Specs 
 
-![](2023-10-27-16-47-11.png)
+![](2023-10-27-16-47-11.webp)
 
 ## Names 
 
 - CM4001008
 
-![](2023-10-27-16-47-35.png)
+![](2023-10-27-16-47-35.webp)
 
 ![](2023-10-27-16-46-54.webp)
 

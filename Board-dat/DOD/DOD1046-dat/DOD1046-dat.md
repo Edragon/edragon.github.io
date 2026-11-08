@@ -7,9 +7,9 @@ legacy wiki page - https://www.electrodragon.com/w/STM32_Dev_Board
 
 - https://w.electrodragon.com/w/Category:STM_MCU
 
-![](14-09-18-30-08-2023.png)
+![](14-09-18-30-08-2023.webp)
 
-![](23-09-18-30-08-2023.png)
+![](23-09-18-30-08-2023.webp)
 
 - [[STM32-dat]]
 
@@ -21,7 +21,7 @@ legacy wiki page - https://www.electrodragon.com/w/STM32_Dev_Board
 
 ## SCH 
 
-![](2024-01-17-16-18-16.png)
+![](2024-01-17-16-18-16.webp)
 
 ## ref 
 

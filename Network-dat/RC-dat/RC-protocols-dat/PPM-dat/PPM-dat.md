@@ -80,7 +80,7 @@ So, instead of needing a separate wire for each control channel, PPM combines th
 
 ## high voltage control 
 
-![](2026-01-19-19-29-56.png)
+![](2026-01-19-19-29-56.webp)
 
 ![](2026-01-19-19-30-19.png)
 

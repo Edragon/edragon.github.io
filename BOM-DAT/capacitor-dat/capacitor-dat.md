@@ -72,7 +72,7 @@ ESE476M063AG3AA
 
 Tantium PTH capacitor 
 
-![](2025-05-24-19-47-18.png)
+![](2025-05-24-19-47-18.webp)
 
 
 - 470nF_±10%_35V
@@ -229,7 +229,7 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 
 ## decouple 
 
-![](2026-03-04-20-26-20.png)
+![](2026-03-04-20-26-20.webp)
 
 
 ## types 

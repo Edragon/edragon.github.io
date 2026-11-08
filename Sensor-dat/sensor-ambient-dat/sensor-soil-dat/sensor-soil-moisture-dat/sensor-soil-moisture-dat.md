@@ -38,7 +38,7 @@ The more water in the soil, the higher its conductivity (lower resistance) becau
 
 SCH 
 
-![](2026-02-11-16-37-23.png)
+![](2026-02-11-16-37-23.webp)
 
 code 
 
@@ -55,7 +55,7 @@ code
 
 anti-rust probe 
 
-![](2026-02-11-16-51-11.png)
+![](2026-02-11-16-51-11.webp)
 
 
 

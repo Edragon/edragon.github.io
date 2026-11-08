@@ -5,7 +5,7 @@
 - [[LED-driver-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]]
 
 
-![](2026-07-18-16-39-50.png)
+![](2026-07-18-16-39-50.webp)
 
 FEATURES
 128 Exponential Dimming Steps

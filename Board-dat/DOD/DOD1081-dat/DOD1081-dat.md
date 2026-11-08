@@ -21,7 +21,7 @@ Download Method -- Integrated JTAG Downloader
 
 
 
-![](2025-05-28-18-00-12.png)
+![](2025-05-28-18-00-12.webp)
 
 ## Program and Power Supply by USB Type-C Cable 
 

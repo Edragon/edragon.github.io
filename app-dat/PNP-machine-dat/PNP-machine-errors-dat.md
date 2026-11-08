@@ -30,7 +30,7 @@ Common Faults and Solutions
 
     *   Perform placement offset calibration.
 
-    ![](2025-04-02-14-01-57.png)
+    ![](2025-04-02-14-01-57.webp)
 
 **Component Rotation Angle Error**
 
@@ -40,7 +40,7 @@ Common Faults and Solutions
 
 2.  Open the component's package page → General → Uncheck the box for "Length and width as direction."
 
-    ![](2025-04-02-14-02-18.png)
+    ![](2025-04-02-14-02-18.webp)
 
 **Frequent Overall USB Disconnection**
 

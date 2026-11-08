@@ -64,7 +64,7 @@ Because Onshape features like **Boolean** and **Delete Face** only work inside a
 
 ## custom features 
 
-![](2026-02-21-18-52-23.png)
+![](2026-02-21-18-52-23.webp)
 
 - [[thread-dat]]
 

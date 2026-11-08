@@ -59,7 +59,7 @@ In general, the versatility and low power consumption of the LM358 make it an in
 
 non-inverting voltage reference
 
-![](2025-03-18-17-43-43.png)
+![](2025-03-18-17-43-43.webp)
 
 Same for LMV321 
 
@@ -159,7 +159,7 @@ compared to 20kHz, at 1.6kHz the gain has fallen to ~70% x (-R5/R2).
 
 ### Test Circuit With Class-A Operation
 
-![](2025-03-19-02-47-57.png)
+![](2025-03-19-02-47-57.webp)
 
 ### LM358 for Shock Alarm Circuit:
 A shock alarm circuit similar to the one below can be found in both homes and cars. Its major use is as an anti-theft alarm in autos. The shock sensor in this circuit is a piezoelectric sensor, which needs to be mounted on the door you wish to protect. The LM358 is attached in this instance as an inverting Schmitt trigger. Port 1 can set the circuit's threshold voltage, and resistor R1 serves as a feedback resistor.
@@ -181,14 +181,14 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 ### negative output 
 
-![](2025-03-19-03-12-41.png)
+![](2025-03-19-03-12-41.webp)
 
 ### Inverting Amplifier
 ![](2025-03-19-03-13-25.webp)
 
 ### Non-Inverting Amplifier
 
-![](2025-03-19-03-14-18.png)
+![](2025-03-19-03-14-18.webp)
 
 ### Op-Amp Differentiator
 
@@ -218,7 +218,7 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 - [[meter-current-dat]] - [[LM358-dat]]
 
-![](2026-03-05-14-11-48.png)
+![](2026-03-05-14-11-48.webp)
 
 
 ## read more 

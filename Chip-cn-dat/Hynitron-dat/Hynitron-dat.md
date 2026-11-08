@@ -31,7 +31,7 @@ The HAA9802 is a mono audio power amplifier featuring a capacitive boost, anti-c
 
 ![](2026-06-18-17-14-29.webp)
 
-![](2026-06-18-17-14-45.png)
+![](2026-06-18-17-14-45.webp)
 
 ## Absolute Maximum Ratings
 | Parameter | Description | Value | Unit |

@@ -65,7 +65,7 @@ M3 T-nut + M3*10
 
 ![](2025-02-26-19-36-59.png)
 
-![](2025-02-26-19-37-15.png)
+![](2025-02-26-19-37-15.webp)
 
 groove size 5.5 mm
 
@@ -94,7 +94,7 @@ If you want to use M3 screws with larger extrusions like 1515, 2020, or 4040, yo
 
 ## APP 
 
-![](2025-02-26-19-39-21.png)
+![](2025-02-26-19-39-21.webp)
 
 
 
@@ -109,7 +109,7 @@ If you want to use M3 screws with larger extrusions like 1515, 2020, or 4040, yo
 
 add installation frame bar
 
-![](2026-09-13-21-02-59.png)
+![](2026-09-13-21-02-59.webp)
 
 add holder bar and - [[bolt-eye-dat]] - [[bolt-dat]]
 
@@ -118,7 +118,7 @@ and - [[profile-angle-dat]]
 
 ![](2026-09-13-21-08-59.png)
 
-![](2026-09-13-21-03-19.png)
+![](2026-09-13-21-03-19.webp)
 
 - [[Carabiner-dat]] 
 

@@ -43,7 +43,7 @@ Programming Interface: CLK DIO GND 3V3 BOOT
 
 ### Stackable with SIM7070G
 
-![](36-12-18-18-04-2023.png)
+![](36-12-18-18-04-2023.webp)
 
 - [[SIM7070-dat]]
 

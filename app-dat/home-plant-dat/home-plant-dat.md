@@ -77,7 +77,7 @@ The term "fresh air" for plants, in a technical sense, generally refers to an op
 
 solar powered dripping system 
 
-![](2025-12-06-13-29-16.png)
+![](2025-12-06-13-29-16.webp)
 
 
 

@@ -110,7 +110,7 @@ a high nominal gain with a bad axial ratio is worthless
 
 - [[antenna-Whip-dat]] - 12DBI 
 
-![](2026-04-06-13-09-04.png)
+![](2026-04-06-13-09-04.webp)
 
 
 

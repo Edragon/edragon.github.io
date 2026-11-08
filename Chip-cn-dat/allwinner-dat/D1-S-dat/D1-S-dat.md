@@ -53,7 +53,7 @@ Note: On the D1s, since the TF card and CKlink pins are multiplexed, you need to
 | SPI0_MOSI              | Button 1    | MOSI repurposed as Button 1        |
 | RESET                  | Button 2    | Reset button                       |
 
-![](F133-SCH-1.png)
+![](F133-SCH-1.webp)
 
 misc 
 
@@ -62,7 +62,7 @@ misc
 
 ## SD Card 
 
-![](2025-08-08-14-46-21.png)
+![](2025-08-08-14-46-21.webp)
 
 
 ## ref 

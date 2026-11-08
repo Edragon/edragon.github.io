@@ -13,7 +13,7 @@ L and T type Bracket for 4040
 
 L and T type Bracket for 2020
 
-![](2025-02-19-17-50-13.png)
+![](2025-02-19-17-50-13.webp)
 
 
 ## ref 

@@ -5,7 +5,7 @@
 
 * For the problem, please see the [https://www.electrodragon.com/product/rgb-matrix-panel-drive-board-raspberry-pi/ product review] or [https://s5.electrodragon.com/wp-content/uploads/2017/08/Screen-Shot-2022-02-25-at-7.48.47-PM.png images here]
 
-![](2023-09-12-12-36-26.png)
+![](2023-09-12-12-36-26.webp)
 
 * We have about 200pcs problematic boards are sold in February 2022. 
 * Very sorry for this problem, we could test this out because the problem only happen on a few kinds of panels.
@@ -17,7 +17,7 @@
 
 
 
-![](35-36-16-10-08-2023.png)
+![](35-36-16-10-08-2023.webp)
 
 Blue mark: the wrong vias are on the trace, which cause the error
 Green mark: cut the trace on the right green mark first, then add fly wire like this.
@@ -30,7 +30,7 @@ Green mark: cut the trace on the right green mark first, then add fly wire like 
 
 We have made a batch of board with the design error like below, please check:
 
-![](56-10-17-12-01-2023.png)
+![](56-10-17-12-01-2023.webp)
 
 Dear customer,
 
@@ -55,7 +55,7 @@ Apply the fix: cut off the two yellow lines, solder a fly-wire on green line
 ![](2023-09-12-12-38-29.png)
 
 This is how it looks finally, we cut it on a different place, but works the same
-![](2023-09-12-12-38-37.png)
+![](2023-09-12-12-38-37.webp)
 
 
 * We made different version of the board based on different kinds of the footprint, because of the raising price of the chips. Otherwise we have to raise the price of this board dramatically. Thank you.

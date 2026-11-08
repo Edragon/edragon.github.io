@@ -17,7 +17,7 @@
 
 YS320M Q2048 == unknown mosfet ? 
 
-![](2026-06-19-15-51-32.png)
+![](2026-06-19-15-51-32.webp)
 
 - [[TMI-dat]] - [[T2282-dat]] == [[dcdc-down-dat]] == 30V 2.7A - [[WPINNO-dat]]
 

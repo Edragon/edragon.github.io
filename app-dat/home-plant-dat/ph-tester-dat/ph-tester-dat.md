@@ -10,7 +10,7 @@
 
 ![](2026-01-25-18-25-51.webp)
 
-![](2026-01-25-18-46-21.png)
+![](2026-01-25-18-46-21.webp)
 
 - [[display-dat]] and [[mcu-dat]] == [[stm8-dat]]
 
@@ -24,7 +24,7 @@ the control board
 
 ![](2026-01-25-18-46-06.webp)
 
-![](2026-01-25-18-46-38.png)
+![](2026-01-25-18-46-38.webp)
 
 the sense board 
 
@@ -100,7 +100,7 @@ Typical pH front-end architecture
 | Can be used alone         | No                              | No                                 |
 | Common mistake            | Connected directly to ADC       | Used as sensing electrode          |
 
-![](2026-01-31-19-42-23.png)
+![](2026-01-31-19-42-23.webp)
 
 
 Electrode	Function

@@ -9,7 +9,7 @@ Full Jtag Interface
 
 ![](2024-01-13-17-50-18.png)
 
-![](2025-09-23-13-23-45.png)
+![](2025-09-23-13-23-45.webp)
 
 
 - VTref -- VOUT
@@ -25,7 +25,7 @@ Full Jtag Interface
 
 ## wiring 
 
-![](2025-09-23-13-26-03.png)
+![](2025-09-23-13-26-03.webp)
 
 power supply 
 

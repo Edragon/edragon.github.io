@@ -14,7 +14,7 @@ https://www.ablic.com/en/doc/datasheet/battery_protection/S8254A_E.pdf
 
 
 
-![](2026-02-13-13-57-12.png)
+![](2026-02-13-13-57-12.webp)
 
 
 

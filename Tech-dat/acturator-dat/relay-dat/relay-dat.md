@@ -63,11 +63,11 @@ HF32F-G-5-HS
 
 ### using NPN transistor drive 
 
-![](2024-10-01-19-16-11.png)
+![](2024-10-01-19-16-11.webp)
 
 - [[transistor-dat]]
 
-![](2025-10-25-17-27-02.png)
+![](2025-10-25-17-27-02.webp)
 
 partially isolated relay control 
 

@@ -10,7 +10,7 @@
 
 ## working principle 
 
-![](2023-11-06-13-02-46.png)
+![](2023-11-06-13-02-46.webp)
 
 
 ## product 
@@ -50,7 +50,7 @@ The side with words are the cooling side, and other side is the warm side.
 
 - testing with AA battery 
 
-![](2023-11-06-13-03-19.png)
+![](2023-11-06-13-03-19.webp)
 
 - code side normally on works side
 - Heat dissipation should always be implemented when using with large current flow

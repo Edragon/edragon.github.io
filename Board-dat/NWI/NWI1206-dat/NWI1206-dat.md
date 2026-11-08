@@ -7,11 +7,11 @@ https://www.electrodragon.com/product/esp32-goo-mini-development-board-wifi-blue
 
 ![](56-35-18-04-08-2023.png)
 
-![](28-36-18-04-08-2023.png)
+![](28-36-18-04-08-2023.webp)
 
 Using with OLED 
 
-![](09-42-16-29-08-2023.png)
+![](09-42-16-29-08-2023.webp)
 
 ## Ref 
 

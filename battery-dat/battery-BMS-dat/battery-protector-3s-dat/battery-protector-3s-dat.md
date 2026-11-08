@@ -19,7 +19,7 @@
 ## all 3s protector researched 
 
 
-![](2026-03-14-14-43-23.png)
+![](2026-03-14-14-43-23.webp)
 
 ## protector version 3-1 mini 
 
@@ -37,7 +37,7 @@
 
 this 25A 3S protector 
 
-![](2026-03-14-14-43-52.png)
+![](2026-03-14-14-43-52.webp)
 
 
 details 
@@ -54,7 +54,7 @@ normal and balanced version
 
 ## portector version 2-1 mini 
 
-![](2026-03-14-15-05-52.png)
+![](2026-03-14-15-05-52.webp)
 
 ![](2026-03-14-15-08-46.png)
 

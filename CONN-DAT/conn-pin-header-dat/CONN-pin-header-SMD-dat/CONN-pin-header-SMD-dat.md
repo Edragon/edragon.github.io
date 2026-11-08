@@ -4,7 +4,7 @@
 
 - [[CONN-dat]] - [[pitch-dat]] - [[conn-pin-header-dat]] - [[conn-pin-header-female-dat]] - [[conn-pin-header-SMD-dat]]
 
-![](2026-06-11-02-41-13.png)
+![](2026-06-11-02-41-13.webp)
 
 ![](2026-06-11-02-41-49.png)
 

@@ -256,7 +256,7 @@ Typically, after powering the receiver and with the remote controller turned off
 
 The password is "**expresslrs**", and then you can access **10.0.0.1** to upload the receiver firmware.
 
-![](2025-05-08-18-22-08.png)
+![](2025-05-08-18-22-08.webp)
 
 check the firmware version: 
 
@@ -266,13 +266,13 @@ check the firmware version:
 
 ## hardware default output value 
 
-![](2025-07-15-13-24-08.png)
+![](2025-07-15-13-24-08.webp)
 
 middle value should be 1500 for CH1, CH2, etc 
 
 ## modify the binding phase for binding 
 
-![](2025-07-15-13-24-57.png)
+![](2025-07-15-13-24-57.webp)
 
 
 
@@ -300,7 +300,7 @@ UART baud == 420000 = 420K
 
 ## supported modules 
 
-![](2025-05-16-12-57-47.png)
+![](2025-05-16-12-57-47.webp)
 ## FAQ
 
 1.  **Q: Can this receiver be bound to a XXX brand's high-frequency head (transmitter module)?**

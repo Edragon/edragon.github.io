@@ -16,7 +16,7 @@ Fully interchangeable, low cost, long-term stability, relative humidity and temp
 
 ![](2025-06-10-19-08-47.webp)
 
-![](2025-06-10-19-09-06.png)
+![](2025-06-10-19-09-06.webp)
 
 ![](2025-06-10-19-11-15.webp)
 

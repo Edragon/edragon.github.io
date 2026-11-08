@@ -26,7 +26,7 @@ https://www.ti.com/lit/ds/symlink/tps775.pdf?ts=1788338780319
 
 TPS775xx, TPS776xx == TPS775xx with RESET Output, TPS776xx with PG Output FAST-TRANSIENT-RESPONSE 500mA LOW-DROPOUT VOLTAGE REGULATORS
 
-![](2026-09-03-16-32-27.png)
+![](2026-09-03-16-32-27.webp)
 
 FEATURES
 - Open Drain Power-On Reset with 200ms Delay(TPS775xx)
@@ -43,6 +43,6 @@ APPLICATIONS
 - FPGA Power
 - DSP Core and I/O Voltages
 
-![](2026-09-03-16-33-08.png)
+![](2026-09-03-16-33-08.webp)
 
 ## ref 

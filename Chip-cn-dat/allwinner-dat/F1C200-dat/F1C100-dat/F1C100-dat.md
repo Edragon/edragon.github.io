@@ -17,7 +17,7 @@
 
 ## function application diagram 
 
-![](2025-08-09-01-09-50.png)
+![](2025-08-09-01-09-50.webp)
 
 ## chip info 
 

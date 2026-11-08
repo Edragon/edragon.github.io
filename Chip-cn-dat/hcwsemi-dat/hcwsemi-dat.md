@@ -27,7 +27,7 @@ https://www.hcwsemi.com/product/xy-ic.html
 工作电压:	85V-265V
 应用:	充电器 适配器
 
-![](2026-09-06-01-42-27.png)
+![](2026-09-06-01-42-27.webp)
 
 ## HC7703N ?? 
 

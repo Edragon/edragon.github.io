@@ -172,7 +172,7 @@ Usage: Devices that require more energy or have higher power consumption tend to
 
 - [[SX1308-dat]] - [[ME6206-dat]]
 
-![](2025-08-19-17-12-34.png)
+![](2025-08-19-17-12-34.webp)
 
 
 

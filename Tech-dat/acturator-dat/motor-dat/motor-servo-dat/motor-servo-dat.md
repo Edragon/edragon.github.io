@@ -141,7 +141,7 @@ The **Neutral Position** is the "home" or "zero-point" of a servo motor, typical
 
 - to get the middle initate point of the servo, power the servo first and then install - [[servo-accessories-dat]] 
 
-![](2025-04-09-15-37-30.png)
+![](2025-04-09-15-37-30.webp)
 
 
 ## servo installations 
@@ -223,7 +223,7 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 
 ![](47-08-17-21-06-2023.png)
 
-![](2025-06-15-14-21-31.png)
+![](2025-06-15-14-21-31.webp)
 
 
 
@@ -324,7 +324,7 @@ lock and unlock system
 
 to linear output 
 
-![](2026-01-09-21-11-41.png)
+![](2026-01-09-21-11-41.webp)
 
 connector to a [[crank-dat]]
 

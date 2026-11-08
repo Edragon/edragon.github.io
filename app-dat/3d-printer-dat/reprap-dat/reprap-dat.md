@@ -25,7 +25,7 @@ RepRap is humanity's first general-purpose self-replicating manufacturing machin
 
 ![](2026-07-14-16-38-30.webp)
 
-![](2026-07-14-16-39-41.png)
+![](2026-07-14-16-39-41.webp)
 
 
 

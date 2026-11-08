@@ -26,7 +26,7 @@ test code [[I2C-dat]] is running properly for [[ESP32-S3-dat]]
 
 un-finished yet 
 
-![](2025-10-23-16-27-17.png)
+![](2025-10-23-16-27-17.webp)
 
 
 
@@ -43,7 +43,7 @@ more unsort modules
 
 ### middle == ESP32-D0WD-V3 (revision v3.1)
 
-![](2025-10-23-15-54-18.png)
+![](2025-10-23-15-54-18.webp)
 
 - 49 Dbm
 
@@ -64,7 +64,7 @@ MAC:                20:e7:c8:9f:30:3c
 Hard resetting via RTS pin...
 ```
 
-![](2025-10-23-15-55-06.png)
+![](2025-10-23-15-55-06.webp)
 
 - 52 ~ 53 Dbm
 
@@ -76,7 +76,7 @@ Connected to ESP32 on COM31:
 A fatal error occurred: Invalid head of packet (0x65): Possible serial noise or corruption.
 ```
 
-![](2025-10-23-15-53-29.png)
+![](2025-10-23-15-53-29.webp)
 
 
 
@@ -108,7 +108,7 @@ X2
 
 add external antenna 
 
-![](2025-10-23-16-36-54.png)
+![](2025-10-23-16-36-54.webp)
 
 - 48 ~ 53 Dbm - bio-side wing
 

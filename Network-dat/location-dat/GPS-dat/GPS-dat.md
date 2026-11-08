@@ -112,7 +112,7 @@
 ### Cold Start (冷启动)
 
 
-![](2026-01-19-16-06-31.png)
+![](2026-01-19-16-06-31.webp)
 
 
 A **cold start** means the module has **no stored ephemeris or almanac data** internally. This is the very first startup, or any startup where all such data has been lost.

@@ -7,7 +7,7 @@
 
 - [[RS170-dat]] - [[RS343-dat]] - [[interface-dat]] - [[video-dat]] - [[RS232-dat]]
 
-![](2026-09-25-14-54-01.png)
+![](2026-09-25-14-54-01.webp)
 
 
 RS-170 is a US EIA Recommended Standard (1957, later EIA-170) that defines a black-and-white analog composite video signal for closed-circuit / industrial / military use. It is the monochrome base of NTSC — the "R" prefix is the same EIA naming family as RS-232/RS-422/RS-485, but unlike those it is not a digital serial link, it is a 75 Ω analog video signal.

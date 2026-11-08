@@ -26,7 +26,7 @@ If you prefer not to draw additional guide curves, you can manually specify corr
   3. Click the **Connections** selection box, then manually click a **vertex on the first profile**, followed by the **corresponding target vertex on the second profile** (e.g., the top-most vertex of both sketches).
   4. Repeat this to establish multiple correspondence pairs, which will straighten out the distortion.
 
-![](2026-09-08-01-06-49.png)
+![](2026-09-08-01-06-49.webp)
 
 
 ### 3. Standardize Sketch Structure (Equal Vertices and Alignment)

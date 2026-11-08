@@ -27,7 +27,7 @@ matching [[SDK-dat]] - [[MDK-ARM-dat]]
 
 ![](2023-10-08-16-25-39.png)
 
-![](2023-10-08-16-25-49.png)
+![](2023-10-08-16-25-49.webp)
 
 ## Software Setup - Keil 
 

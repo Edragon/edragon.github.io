@@ -28,7 +28,7 @@ This signaling technique lowers the output voltage levelsof 5-V differential sta
 
 ## application 
 
-![](2026-09-25-15-07-07.png)
+![](2026-09-25-15-07-07.webp)
 
 
 

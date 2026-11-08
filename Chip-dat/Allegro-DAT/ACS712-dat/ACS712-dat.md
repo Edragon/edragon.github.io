@@ -38,7 +38,7 @@ with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 
 ## SCH 
 
-![](2026-07-23-20-11-56.png)
+![](2026-07-23-20-11-56.webp)
 
 
 ## ref 

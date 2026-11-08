@@ -15,7 +15,7 @@ Uni-Trend Technology (China) Co., Ltd. is one of the well-known test and measure
 
 ## UT118B Pen Type Digital Multimeter
 
-![](2025-08-13-14-33-12.png)
+![](2025-08-13-14-33-12.webp)
 
 
 Company profile

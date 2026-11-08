@@ -180,7 +180,7 @@ One-sentence version
 
 ## General pressure design notes
 
-![pressure diagram](2025-11-26-21-26-38.png)
+![pressure diagram](2025-11-26-21-26-38.webp)
 
 
 ## Using tubing for deep water

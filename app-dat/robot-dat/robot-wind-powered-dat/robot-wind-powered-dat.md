@@ -6,7 +6,7 @@
 
 - [[Jansen-Linkage-dat]] - [[robot-wind-powered-dat]]
 
-![](2026-05-23-19-29-36.png)
+![](2026-05-23-19-29-36.webp)
 
 1. Bionic Art and Mechanical Evolution: Strandbeests
 
@@ -23,7 +23,7 @@ These are the most famous modern wind-powered devices. Invented by Dutch artist 
 2. Frontier Scientific Exploration: WANDER-bot
 
 
-![](2026-05-23-19-44-58.png)
+![](2026-05-23-19-44-58.webp)
 
 https://www.youtube.com/watch?v=CwItHPe4HnA
 

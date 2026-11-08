@@ -16,14 +16,14 @@
 
 - [[vibrator-dat]] - [[fab-sheet-metal-dat]]
 
-![](2026-08-11-15-41-51.png)
+![](2026-08-11-15-41-51.webp)
 
 
 ## molds need process methods 
 
 - [[fab-sheet-metal-hem-dat]] 
 
-![](2026-01-12-19-37-21.png)
+![](2026-01-12-19-37-21.webp)
 
 
 
@@ -76,7 +76,7 @@ start - thicken
 
 flange 
 
-![](2026-01-01-01-05-28.png)
+![](2026-01-01-01-05-28.webp)
 
 flange hold line 
 
@@ -108,7 +108,7 @@ make joint
 
 corner 
 
-![](2026-01-01-01-28-37.png)
+![](2026-01-01-01-28-37.webp)
 
 bend relief
 

@@ -66,7 +66,7 @@ If you are buying new, the 32D is recommended, as the original 32 is considered 
 
 ### 32D 
 
-![](2024-01-09-14-50-52.png)
+![](2024-01-09-14-50-52.webp)
 
 ### ESP32-WROOM-32E 
 
@@ -159,7 +159,7 @@ ESP32-WROOM-32D
 
 ESP32-WROOM-32
 
-![](2023-10-25-16-50-18.png)
+![](2023-10-25-16-50-18.webp)
 
 
 

@@ -38,11 +38,11 @@ While SSRs offer numerous advantages over mechanical relays, they also have some
 
 output - 2A/240V
 
-![](2024-09-14-19-36-02.png)
+![](2024-09-14-19-36-02.webp)
 
 output - 5V/240V
 
-![](2024-09-14-19-36-49.png)
+![](2024-09-14-19-36-49.webp)
 
 
 ## SSR VS TRIAC 

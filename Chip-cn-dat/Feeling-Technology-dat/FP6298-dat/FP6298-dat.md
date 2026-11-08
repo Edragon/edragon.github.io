@@ -14,4 +14,4 @@ The internal compensation network also minimizes as much as 6 external component
 The FP6298 is available in the SOP-8L(EP) package and provides space-saving PCB for the application fields. 
 
 
-![](2026-03-03-13-03-17.png)
+![](2026-03-03-13-03-17.webp)

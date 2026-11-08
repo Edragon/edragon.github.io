@@ -29,7 +29,7 @@ obseleted
 
 ## Wiring to Arduino 
 
-![](2023-11-24-14-14-51.png)
+![](2023-11-24-14-14-51.webp)
 
 
 ## SCH

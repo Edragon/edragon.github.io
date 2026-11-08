@@ -93,7 +93,7 @@ unknow list
 
 ## diode info 
 
-![](2025-08-27-12-53-45.png)
+![](2025-08-27-12-53-45.webp)
 
 
 ## Schottky diode
@@ -163,7 +163,7 @@ MBR0520L
 
 https://assets.nexperia.com/documents/data-sheet/BAV99S.pdf
 
-![](2025-08-19-16-51-09.png)
+![](2025-08-19-16-51-09.webp)
 
 ## Schottky rectifier
 
@@ -179,7 +179,7 @@ https://assets.nexperia.com/documents/data-sheet/BAV99S.pdf
 
 ## directions 
 
-![](2025-08-26-18-22-24.png)
+![](2025-08-26-18-22-24.webp)
 
 
 ## To test if a diode is good using a multimeter:

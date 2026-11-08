@@ -75,7 +75,7 @@ OC OD mosfet control - to cut of  BAT- to GND
 
 ### DW06D 
 
-![](2025-07-13-01-15-32.png)
+![](2025-07-13-01-15-32.webp)
 
 
 

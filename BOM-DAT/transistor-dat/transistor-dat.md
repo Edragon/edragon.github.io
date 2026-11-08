@@ -123,13 +123,13 @@ Transistors are mainly divided into two major families based on their underlying
 ![](2024-10-01-19-17-13.png)
 
 
-![](2024-10-01-19-17-24.png)
+![](2024-10-01-19-17-24.webp)
 
 ### SOT89 transistor 
 
 D965A - LOW VOLTAGE HIGH CURRENT TRANSISTOR 2SD965A
 
-![](2026-04-04-16-48-48.png)
+![](2026-04-04-16-48-48.webp)
 
 FEATURES
 - Collector current up to 5A
@@ -163,7 +163,7 @@ FEATURES
 
 1HT251 NPN Silicon Planar Low Power Transistor Array == 4x
 
-![](2025-09-25-13-53-17.png)
+![](2025-09-25-13-53-17.webp)
 
 
 
@@ -227,7 +227,7 @@ MMBT3904
 
 30BS transistor 
 
-![](2026-06-02-20-40-06.png)
+![](2026-06-02-20-40-06.webp)
 
 LW SW == [[transistor-dat]]
 

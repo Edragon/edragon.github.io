@@ -23,7 +23,7 @@ pair
 
 - [[IMX415-dat]] - [[SSC338-dat]] - [[RTL8812-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
 
-![](2026-10-02-02-41-36.png)
+![](2026-10-02-02-41-36.webp)
 
 ![](2026-10-02-02-54-40.png)
 
@@ -41,7 +41,7 @@ FFC usually means “Flat Flex Cable”
 
 overview 
 
-![](2025-08-19-15-24-47.png)
+![](2025-08-19-15-24-47.webp)
 
 - common pitch 1.0 mm
 
@@ -55,7 +55,7 @@ FPC down flip
 
 FPC upper flip 
 
-![](41-53-16-17-07-2023.png)
+![](41-53-16-17-07-2023.webp)
 
 ![](32-14-18-03-08-2023.png)
 
@@ -72,13 +72,13 @@ THD0510－xxCL－GF == datasheet [[THD0510-xxCL-GF.pdf]]
 
 ![](2025-07-14-01-04-01.png)
 
-![](2025-07-14-01-04-59.png)
+![](2025-07-14-01-04-59.webp)
 
 
 
 ## dimension 
 
-![](05-55-16-17-07-2023.png)
+![](05-55-16-17-07-2023.webp)
 
 
 ## soldering 

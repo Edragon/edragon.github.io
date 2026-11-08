@@ -76,7 +76,7 @@ FS200— SHT （2） — （3）
 
 ## Wiring 
 
-![](2025-03-20-18-33-14.png)
+![](2025-03-20-18-33-14.webp)
 
 - Red: power supply (Vcc)
 - Green: Serial Data (Sda)

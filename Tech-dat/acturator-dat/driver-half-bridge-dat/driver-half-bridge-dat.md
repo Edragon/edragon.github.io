@@ -37,7 +37,7 @@ High voltage rail up to 600 V
 - Power supply systems
 
 
-![](2026-03-17-13-47-44.png)
+![](2026-03-17-13-47-44.webp)
 
 
 ## ref

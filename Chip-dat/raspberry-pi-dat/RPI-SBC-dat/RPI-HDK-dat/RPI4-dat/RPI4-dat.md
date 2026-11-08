@@ -7,7 +7,7 @@ https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-reduced-schematics.pdf
 
 pin definition
 
-![](2025-09-04-17-32-54.png)
+![](2025-09-04-17-32-54.webp)
 
 ID_SD and ID_SC PINS:
 

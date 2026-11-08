@@ -69,7 +69,7 @@ Weight & Specs Comparison
 
 - [[stand-dat]] == 3g
 
-![](2026-08-05-20-05-38.png)
+![](2026-08-05-20-05-38.webp)
 
 
 weight of [[mobula8-dat]]

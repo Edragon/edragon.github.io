@@ -1,7 +1,7 @@
 
 # drawing-dat
 
-![](2025-06-16-12-56-05.png)
+![](2025-06-16-12-56-05.webp)
 
 to export readable drawings, you can use the following formats:
 

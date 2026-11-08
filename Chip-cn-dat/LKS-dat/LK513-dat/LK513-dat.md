@@ -16,7 +16,7 @@ It also built in a 5V/30mA LDO for MCU or other device power supply, and have th
 
 ## APPs 
 
-![](2026-06-18-18-23-20.png)
+![](2026-06-18-18-23-20.webp)
 
 
 

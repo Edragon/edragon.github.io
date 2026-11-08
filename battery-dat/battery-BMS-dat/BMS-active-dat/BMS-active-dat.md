@@ -10,7 +10,7 @@
 - Short Circuit Protection
 - Temperature Control Protection
 
-![](2026-05-20-03-40-37.png)
+![](2026-05-20-03-40-37.webp)
 
 # active-battery-balancing-board-dat
 
@@ -43,7 +43,7 @@ This is especially important in applications like electric vehicles, power tools
 
 ### 2S version 
 
-![](2025-09-10-21-43-47.png)
+![](2025-09-10-21-43-47.webp)
 
 The diagram below shows the module discharge. The battery is a 2-series configuration, and the connected batteries must support a 20A discharge current. This can be achieved by connecting batteries in parallel or by purchasing batteries with a higher discharge current. 
 
@@ -51,7 +51,7 @@ For example, if the battery is 2000mAh with a 10C discharge rate, then only 2 se
 
 For stable discharge, 2 series and 4 parallel (2S4P) are required, and attention should be paid to heat dissipation, as the battery power will drop quickly during discharge.
 
-![](2025-09-10-21-45-38.png)
+![](2025-09-10-21-45-38.webp)
 
 - To successfully start an electric drill, you need two 10C-20C power batteries, or four 5C-10C power batteries (recommended battery models: Sony VTC4S, VTC4A, VTC5, VTC6). For the 0V and 8.4V connection wires, use copper wires of at least 2 square millimeters (do not use strips).
 - When welding the battery for the first time, you need to charge it first to get output. Strictly follow the diagram to connect 0V, 4.2V, and 8.4V. When welding wires, do not touch any components on the board, and do not intentionally short-circuit.
@@ -94,7 +94,7 @@ note
 
 - [[hycon-dat]] - [[HY2112-dat]] - [[battery-protector-dat]] - [[BMS-active-dat]]
 
-![](2026-06-18-20-40-54.png)
+![](2026-06-18-20-40-54.webp)
 
 
 - [[mosfet-dat]] - [[SDB628-dat]] - [[JW5033-dat]]
@@ -105,9 +105,9 @@ note
 
 SCH 
 
-![](2026-06-18-20-49-58.png)
+![](2026-06-18-20-49-58.webp)
 
-![](2026-06-18-20-50-15.png)
+![](2026-06-18-20-50-15.webp)
 
 
 MCU part 
@@ -116,7 +116,7 @@ MCU part
 
 demo 
 
-![](2026-06-18-20-51-33.png)
+![](2026-06-18-20-51-33.webp)
 
 
 

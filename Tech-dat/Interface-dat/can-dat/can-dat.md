@@ -24,7 +24,7 @@ legacy wiki page - https://w.electrodragon.com/w/Category:CAN
 
 SIT1050 - 5V，±40V BUS，1Mbps High Speed CAN transceiver
 
-![](2026-07-20-20-42-50.png)
+![](2026-07-20-20-42-50.webp)
 
 - [[protection-power-dat]]
 

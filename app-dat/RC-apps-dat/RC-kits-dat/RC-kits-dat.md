@@ -23,7 +23,7 @@ basic RC link - [[rf-link-dat]]
 
 - [[propeller-dat]] - [[motor-dat]] - [[ESC-dat]] - [[cable-dat]]
 
-![](2025-12-03-20-57-09.png)
+![](2025-12-03-20-57-09.webp)
 
 
 ## kits 2
@@ -32,7 +32,7 @@ rc radio / wheels / lights - [[LED-dat]]
 
 ![](2025-12-03-23-55-56.webp)
 
-![](2025-12-03-23-57-04.png)
+![](2025-12-03-23-57-04.webp)
 
 
 

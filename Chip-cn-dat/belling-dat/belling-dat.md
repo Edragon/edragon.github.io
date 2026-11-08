@@ -21,7 +21,7 @@ https://www.belling.com.cn/media/file_object/bel_product/BL0942/datasheet/BL0942
 
 diagram 
 
-![](2026-11-09-00-41-12.png)
+![](2026-11-09-00-41-12.webp)
 
 
 这颗是正经货，不是白牌。官方资料写得很清楚：两路独立的 Sigma-Delta ADC，一路测电流一路测电压，内置 1.218V 基准和约 4MHz 时钟，出厂批次增益误差小于 1%，外围器件配好了可以免校准。功耗 10mW，3.3V 供电。

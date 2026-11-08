@@ -109,7 +109,7 @@ Designed for deep discharge (up to 80% or more) without significantly affecting 
 
 **Capacity:** Measured in Amp-hours (Ah). A 12V 100Ah battery stores 12V * 100Ah = 1200 Watt-hours (Wh) of energy.
 
-![](2025-06-15-01-53-06.png)
+![](2025-06-15-01-53-06.webp)
 
 
 ## lead-acid-battery-dat

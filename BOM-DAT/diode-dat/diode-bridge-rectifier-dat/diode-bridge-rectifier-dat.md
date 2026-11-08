@@ -12,7 +12,7 @@ High Current Density Surface-Mount TMBS® (Trench MOS Barrier Schottky) Rectifie
 
 
 
-![](2026-01-25-20-46-31.png)
+![](2026-01-25-20-46-31.webp)
 
 
 

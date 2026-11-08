@@ -39,7 +39,7 @@ PIC16F877A == The PIC16F877A is a popular 8-bit microcontroller known for its ve
 
 PIC16F1459 
 
-![](2026-09-05-16-25-11.png)
+![](2026-09-05-16-25-11.webp)
 
 
 

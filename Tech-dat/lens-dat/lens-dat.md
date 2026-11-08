@@ -80,7 +80,7 @@ M12 screw mount lens,
 
 ![](2025-12-12-18-18-46.png)
 
-![](2025-12-12-18-18-58.png)
+![](2025-12-12-18-18-58.webp)
 
 ## lens with infrared filter 
 
@@ -122,7 +122,7 @@ Some plastics may swell after many months.
 
 ## lens tuning
 
-![](2025-12-10-19-40-21.png)
+![](2025-12-10-19-40-21.webp)
 
 ### Six keys to maintain clarity after oil immersion
 
@@ -387,9 +387,9 @@ Notes:
 
 - The first optical element may be plastic; if so, clean carefully and limit alcohol wipes to 3 times.
 
-![](2025-12-10-14-59-49.png)
+![](2025-12-10-14-59-49.webp)
 
-![](2025-12-10-15-02-40.png)
+![](2025-12-10-15-02-40.webp)
 
 
 ## specs 

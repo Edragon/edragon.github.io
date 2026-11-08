@@ -20,7 +20,7 @@
 ![](2026-02-11-03-26-31.png)
 
 
-![](2026-02-11-03-29-17.png)
+![](2026-02-11-03-29-17.webp)
 
 
 avrdude -C/etc/avrdude.conf -v -patmega328p -carduino -P/dev/ttyUSB0 -b115200 -D -Uflash:w:LarduinoISP_F328PS20.hex:i 
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/dbuezas/lgt8fx/master/package_lgt8fx_index.jso
 
 for [[DVA1009-dat]]
 
-![](2026-02-11-01-53-41.png)
+![](2026-02-11-01-53-41.webp)
 
 firmware - SSOP20 - C:\Users\Administrator\AppData\Local\Arduino15\packages\lgt8fx\hardware\avr\2.0.7\bootloaders\lgt8fx8ps20\optiboot_lgt8f328ps20.hex
 

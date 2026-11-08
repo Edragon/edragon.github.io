@@ -9,9 +9,9 @@ https://www.electrodragon.com/product/bluetooth-audio-breakout-board-w-amp-car-r
 
 ## Pin Map 
 
-![](2025-01-20-18-05-34.png)
+![](2025-01-20-18-05-34.webp)
 
-![](2025-01-20-18-05-57.png)
+![](2025-01-20-18-05-57.webp)
 
 - GND, BAT: 3.7V or 4.2V lithium battery power supply
 - GND, VCC: 5V or 12V power supply, selected according to DC isolation

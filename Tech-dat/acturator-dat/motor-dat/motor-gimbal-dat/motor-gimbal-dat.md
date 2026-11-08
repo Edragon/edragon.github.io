@@ -28,7 +28,7 @@ Gimbal motors are a specialized type of **Brushless DC (BLDC) motor** designed f
 ## 4015
 
 
-![](2026-02-21-21-29-33.png)
+![](2026-02-21-21-29-33.webp)
 
 - Brushless DC motor 4015: low-speed, high-torque design. Peak torque up to ~0.35 Nm. Well suited for wheeled/leg robots, robot joints, camera gimbals and similar applications.
 - Mechanical compatibility: can replace 4010 / 4008 motors — same outer diameter; stator is 5 mm taller than 4010 for increased torque.
@@ -115,7 +115,7 @@ Notes
 
 ## CN 
 
-![](2026-02-21-21-27-54.png)
+![](2026-02-21-21-27-54.webp)
 
 
 

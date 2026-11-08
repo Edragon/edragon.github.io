@@ -94,13 +94,13 @@ final 1
 
 ![](2026-09-20-15-31-03.png)
 
-![](2026-09-06-18-12-12.png)
+![](2026-09-06-18-12-12.webp)
 
 ![](2026-09-04-21-30-17.png)
 
-![](2026-09-04-21-30-35.png)
+![](2026-09-04-21-30-35.webp)
 
-![](2026-09-04-21-30-44.png)
+![](2026-09-04-21-30-44.webp)
 
 ![](2026-09-04-21-30-54.png)
 
@@ -111,7 +111,7 @@ final 1
 
 - [[flight-controller-dat]]
 
-![](2026-09-04-21-57-21.png)
+![](2026-09-04-21-57-21.webp)
 
 layout 
 
@@ -186,7 +186,7 @@ Extended features
 The FUS X-111 can install the DJI-Vista HD Digital FPV system, or HDrecording/FPV camera. Also you can mount your motion camera such as Runcamvideo recorder、gopro、 insta on the X-11l with 3D printing parts. Eitherway, X-1ll is perfectly capable for HD FPV or filming.
 
 
-![](2026-09-04-22-06-26.png)
+![](2026-09-04-22-06-26.webp)
 
 
 

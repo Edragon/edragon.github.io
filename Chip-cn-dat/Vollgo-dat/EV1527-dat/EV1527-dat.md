@@ -42,7 +42,7 @@ Typically, EV1527-compliant remote controls use the license-free 315MHz ISM band
 
 ## Transmitter == OOK Sender 
 
-![](2025-07-04-18-47-48.png)
+![](2025-07-04-18-47-48.webp)
 
 - 4x button version 
 - 12V 27A battery == [[A27-battery-dat]] -> [[battery-alkaline-dat]]

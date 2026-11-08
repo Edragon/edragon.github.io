@@ -54,13 +54,13 @@ R0003 = 0.3 mR
 
 ## Manganese-copper resistor
 
-![](2025-05-29-14-57-40.png)
+![](2025-05-29-14-57-40.webp)
 
 ## Iron-Chromium-Aluminum resistor
 
 ## 3W / 5W / 7W 
 
-![](2025-05-29-14-58-40.png)
+![](2025-05-29-14-58-40.webp)
 
 ## Testing precision
 

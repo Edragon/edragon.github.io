@@ -25,7 +25,7 @@ When operating an RC boat at **slow speeds in rough or choppy water**, the key d
   * **Design**: Deep draft, wide beam, and heavy displacement.
   * **Performance**: Excellent stability due to a low center of gravity (especially with ballast added). They push through waves smoothly rather than bouncing over them.
 
-![](2026-08-04-19-08-15.png)
+![](2026-08-04-19-08-15.webp)
 
 
 * **Bait Boats & Trimarans / Catamarans (Multi-Hull Design)**

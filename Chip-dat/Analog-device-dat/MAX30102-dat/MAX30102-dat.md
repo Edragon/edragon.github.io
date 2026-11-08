@@ -29,11 +29,11 @@ Because of its excellent performance, the chip is widely used in the Samsung Gal
 
 MAX30100
 
-![](2025-05-05-18-27-31.png)
+![](2025-05-05-18-27-31.webp)
 
 SCH 2 
 
-![](2026-07-23-20-19-39.png)
+![](2026-07-23-20-19-39.webp)
 
 ## Setup
 

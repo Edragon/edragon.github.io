@@ -50,7 +50,7 @@ ten in one
 comprehensive [[laptop-dat]] [[dc-barrel-jack-dat]] kit 34 in 1 
 
 
-![](2025-11-28-15-39-03.png)
+![](2025-11-28-15-39-03.webp)
 
 ## Power Jack List 
 
@@ -110,7 +110,7 @@ Positive negative and extra earth pin in center (white)
 
 ![](2026-04-30-19-17-41.webp)
 
-![](2026-04-30-19-17-51.png)
+![](2026-04-30-19-17-51.webp)
 
 
 ## ref 

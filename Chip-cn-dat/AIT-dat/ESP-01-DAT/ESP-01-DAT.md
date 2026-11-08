@@ -9,7 +9,7 @@
 
 ### ESP-01 (obseleted, without suffix S)
 
-![](35-01-18-22-03-2023.png)
+![](35-01-18-22-03-2023.webp)
 
 1. GND - Ground
 2. GPIO2 - General Purpose Input/Output

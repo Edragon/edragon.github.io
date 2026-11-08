@@ -47,8 +47,8 @@ Please follow the soldering steps below to solder, otherwise the small board may
 
 ![](50-36-15-18-04-2023.webp)
 
-![](06-37-15-18-04-2023.png)
+![](06-37-15-18-04-2023.webp)
 
-![](19-37-15-18-04-2023.png)
+![](19-37-15-18-04-2023.webp)
 
 ![](27-37-15-18-04-2023.png)

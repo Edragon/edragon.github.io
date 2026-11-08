@@ -106,7 +106,7 @@ On-board resources:
 - 3.3V power supply;
 - 2 PLLs;
 
-![](2025-05-28-17-59-34.png)
+![](2025-05-28-17-59-34.webp)
 
 
 

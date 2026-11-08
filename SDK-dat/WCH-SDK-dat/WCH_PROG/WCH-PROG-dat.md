@@ -32,12 +32,12 @@
 
 ## CH552
 
-![](08-35-18-30-01-2023.png)
+![](08-35-18-30-01-2023.webp)
 
 ## USB module detect 
 * Find "external Interface" -> USB Module in device manager, not COM port serial interface
 
-![](51-42-14-25-07-2023.png)
+![](51-42-14-25-07-2023.webp)
 
 ## add to keil from WCHISPTool 
 
@@ -52,7 +52,7 @@ serial CH552 download
 
 USB CH552 download 
 
-![](2025-08-09-18-22-39.png)
+![](2025-08-09-18-22-39.webp)
 
 ## ref 
 

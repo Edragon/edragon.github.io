@@ -10,7 +10,7 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2026-02-23-14-38-02.png)
+![](2026-02-23-14-38-02.webp)
 
 
 

@@ -76,7 +76,7 @@ in market the maximium length toslink cable is 30 meters
 - TOSLINK is a standardized optical fiber connection system for transmitting digital audio signals between devices.
 - It uses a fiber optic cable with a plastic or glass core to carry the light signal, which represents the audio data.
 
-![](2025-04-21-13-45-34.png)
+![](2025-04-21-13-45-34.webp)
 
 https://en.wikipedia.org/wiki/TOSLINK
 
@@ -117,7 +117,7 @@ Toslink DLT1120 fiber optic transmitter The light-emitting unit is a standard pa
 
 ![](2025-04-21-14-00-06.webp)
 
-![](2025-04-21-14-00-35.png)
+![](2025-04-21-14-00-35.webp)
 
 project [SPDIF to TOSLink Adapter Hat for Quartz64](https://github.com/CounterPillow/quartz64-toslink-hat)
 
@@ -128,12 +128,12 @@ project [SPDIF to TOSLink Adapter Hat for Quartz64](https://github.com/CounterPi
 ## DLR 2180 
 
 
-![](2025-04-24-18-45-45.png)
+![](2025-04-24-18-45-45.webp)
 
-![](2025-04-24-18-46-38.png)
+![](2025-04-24-18-46-38.webp)
 
 
-![](2025-04-24-18-47-47.png)
+![](2025-04-24-18-47-47.webp)
 
 [toslink-guide](https://www.tme.eu/Document/3363e65f4c705941469014401686faf2/TOFC100-xx.pdf)
 
@@ -179,7 +179,7 @@ While **TOSLINK** (optical) is a popular and widely used optical standard, espec
 
 refer more info from [[pmod-dat]]
 TX
-![](2025-04-25-03-38-29.png)
+![](2025-04-25-03-38-29.webp)
 
 RX
 ![](2025-04-25-03-38-52.webp)

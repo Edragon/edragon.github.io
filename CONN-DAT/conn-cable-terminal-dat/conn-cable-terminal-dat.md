@@ -81,7 +81,7 @@ MG/DG/KF762 Terminal Block 2P 3P 4P Power Supply Junction Box, Spacing 7.62MM, 3
 
 HB-9500 2P/3P/4P/5P/6P/7P/8P/9P/10P with cover, 9.5MM barrier type terminal block
 
-![](2026-02-06-20-07-53.png)
+![](2026-02-06-20-07-53.webp)
 
 
 ## Closed-End Terminals

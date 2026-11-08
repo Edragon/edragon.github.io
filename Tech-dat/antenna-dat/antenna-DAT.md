@@ -98,7 +98,7 @@ IPEX-1st-gen or IPEX-4th-gen or cable bare end
 - 阻抗 - 500
 - 天线接口 - 1代IPEX/4代IPEX/焊接头
 
-![](2026-04-05-01-09-32.png)
+![](2026-04-05-01-09-32.webp)
 
 - [[3in1-antenna-dat]]
 
@@ -368,7 +368,7 @@ BAL-NRF01D3
 
 - [[anteann-external-dat]]
 
-![](2026-02-04-20-18-55.png)
+![](2026-02-04-20-18-55.webp)
 
 - [[antenan-PCB-dat]]
 
@@ -379,7 +379,7 @@ BAL-NRF01D3
 
 2.4G wifi + 5G wifi + 4G LTE / 8DBi / box-style
 
-![](2026-04-05-01-00-57.png)
+![](2026-04-05-01-00-57.webp)
 
 
 ## dBi gain

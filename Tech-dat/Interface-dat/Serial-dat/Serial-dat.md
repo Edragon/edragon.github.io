@@ -74,7 +74,7 @@ below is the variation of [[CH340-dat]]
 
 serial flashing with DTR pin for [[arduino-dat]]
 
-![](2026-04-28-13-12-05.png)
+![](2026-04-28-13-12-05.webp)
 
 
 
@@ -121,7 +121,7 @@ While originally designed in the 20th century to connect computers (DTE) to tele
 
 - [[CH340-dat]] with - [[isolation-dat]]
 
-![](2026-07-23-16-17-36.png)
+![](2026-07-23-16-17-36.webp)
 
 
 

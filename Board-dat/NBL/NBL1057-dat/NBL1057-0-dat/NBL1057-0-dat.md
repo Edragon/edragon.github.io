@@ -32,4 +32,4 @@ Bottom jumper set hardware / software method for slave / master mode, Default se
 
 ![](2023-10-20-17-05-57.png)
 
-![](2023-10-23-15-06-05.png)
+![](2023-10-23-15-06-05.webp)

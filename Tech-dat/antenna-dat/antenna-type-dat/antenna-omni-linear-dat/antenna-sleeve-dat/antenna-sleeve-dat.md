@@ -15,7 +15,7 @@ Sleeve Dipole Antenna（套筒偶极天线） / Coaxial Antenna（同轴天线�
 
 ## 5dbi 
 
-![](2026-09-23-03-12-27.png)
+![](2026-09-23-03-12-27.webp)
 
 ## rod 
 
@@ -42,7 +42,7 @@ Sleeve Dipole Antenna（套筒偶极天线） / Coaxial Antenna（同轴天线�
 
 | type     | rod                          | paddle                       |
 | -------- | ---------------------------- | ---------------------------- |
-| style    | ![](2023-10-27-15-41-39.png) | ![](2023-10-27-15-42-27.png) |
+| style    | ![](2023-10-27-15-41-39.png) | ![](2023-10-27-15-42-27.webp) |
 | gain     | 2dbi                         | 8dbi                         |
 | Features | -                            | foldable                     |
 

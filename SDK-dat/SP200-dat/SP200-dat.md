@@ -134,7 +134,7 @@ Plug in the USB cable. Windows will detect the device and complete the driver in
 **Step 3: Run the Software**
 After restarting (no need to unplug the programmer), run the SP200SE software. It will automatically search for the programmer. If successful, the main interface will open. If the interface is in Chinese, click the **Language** menu in the top right to switch to English.
 
-![](2026-05-27-13-01-53.png)
+![](2026-05-27-13-01-53.webp)
 
 
 

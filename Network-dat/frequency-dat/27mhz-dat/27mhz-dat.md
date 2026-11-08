@@ -131,11 +131,11 @@ If your project is a medium-to-large boat, using a **plastic straw or a hollow c
 
 ![](2026-06-07-14-24-41.webp)
 
-![](2026-06-07-14-25-02.png)
+![](2026-06-07-14-25-02.webp)
 
 board - TX5 402 - SOP8
 
-![](2026-06-07-14-25-17.png)
+![](2026-06-07-14-25-17.webp)
 
 ![](2026-06-07-14-26-24.png)
 

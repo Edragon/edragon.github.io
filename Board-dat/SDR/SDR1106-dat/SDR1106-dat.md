@@ -19,9 +19,9 @@ The hard disk motor can rotate with a voltage of 7-12V. The higher the voltage, 
 
 ## Dimension 
 
-![](2025-03-12-17-29-17.png)
+![](2025-03-12-17-29-17.webp)
 
-![](2025-03-12-17-25-50.png)
+![](2025-03-12-17-25-50.webp)
 
 
 

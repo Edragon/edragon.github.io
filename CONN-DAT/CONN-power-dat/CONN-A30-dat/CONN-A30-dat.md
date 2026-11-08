@@ -5,7 +5,7 @@
 
 - [[CONN-A30-dat]] - [[PH2.0-dat]] - [[CONN-power-dat]] - [[FPV-build-dat]] - [[battery-FPV-dat]] - [[battery-1S-dat]] 
 
-![](2026-09-06-03-28-02.png)
+![](2026-09-06-03-28-02.webp)
 
 GNB A30 是由電池製造商高能（Gaoneng, 簡稱 GNB）推出的一款專為 1S 穿越機（Tinywhoop 小煙風） 設計的高性能微型電池接頭（Connector）。 
 

@@ -19,7 +19,7 @@ Pulse Width Modulator Control Circuit
 
 ## Block Diagram 
 
-![](2025-01-09-19-34-36.png)
+![](2025-01-09-19-34-36.webp)
 
 
 ## SCH 
@@ -31,7 +31,7 @@ Pulse Width Modulator Control Circuit
 
 ## APP Drop-in-Water Short Protector 
 
-![](2025-01-09-17-58-40.png)
+![](2025-01-09-17-58-40.webp)
 
 - Pin 1: Short circuit sampling + of the rear stage
 - Pin 2: Short circuit sampling 1 of the rear stage

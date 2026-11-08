@@ -26,7 +26,7 @@ The device operates with a power supply ranging from 3.0 V to 3.6 V and can be p
 
 diagram
 
-![](2026-09-05-16-17-36.png)
+![](2026-09-05-16-17-36.webp)
 
 ## ref 
 

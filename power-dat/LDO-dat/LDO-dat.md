@@ -146,7 +146,7 @@ SOT23-3
 
 ME6217 
 
-![](2026-04-14-20-13-49.png)
+![](2026-04-14-20-13-49.webp)
 
 - [[LP2985-dat]]
 
@@ -244,7 +244,7 @@ The SGM2200 serles Is avallable in Green SOT-89-3. SOT-23. TSOT-23-5 and SC70-5 
 100V INPUT, 5V 50mA REGULATOR TRANSISTOR
 
 
-![](2026-03-05-13-09-30.png)
+![](2026-03-05-13-09-30.webp)
 
 ## LDO array 
 

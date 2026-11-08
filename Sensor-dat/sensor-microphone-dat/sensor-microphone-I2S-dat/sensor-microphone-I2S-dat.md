@@ -33,7 +33,7 @@ I2S Output Digital Microphone - [[INMP441-dat]]
 
 - [[INMP441-dat]]
 
-![](2025-01-06-14-07-17.png)
+![](2025-01-06-14-07-17.webp)
 
 
 - [[MP34DT06JTR-dat]] - [[sensor-microphone-dat]] - [[st-sensor-dat]] - [[I2S-microphone]]

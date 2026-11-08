@@ -47,7 +47,7 @@ use panel front M1.6 x2 for installation
 
 ALL version performance 
 
-![](2023-12-04-18-30-44.png)
+![](2023-12-04-18-30-44.webp)
 
 
 Dimension 

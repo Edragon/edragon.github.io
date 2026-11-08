@@ -14,7 +14,7 @@
 
 ## groove sensor schematic 
 
-![](2026-05-24-21-55-38.png)
+![](2026-05-24-21-55-38.webp)
 
 SCH 2 
 

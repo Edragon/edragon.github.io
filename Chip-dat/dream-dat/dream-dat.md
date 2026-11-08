@@ -8,7 +8,7 @@
 
 `5504MICFX` - Vocal Effects Firmware with Auto-Tune function for `SAM5504B`
 
-![](2026-08-20-13-45-45.png)
+![](2026-08-20-13-45-45.webp)
 
 - datasheet == [[SAM5504B.PDF]]
 

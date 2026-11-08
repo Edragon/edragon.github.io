@@ -77,7 +77,7 @@ Regular maintenance ensures your system operates efficiently and lasts longer.
     *   Check terminals for leakage, expansion, or corrosion.
     *   Ensure the battery is installed in a well-ventilated area to avoid overheating.
 
-![](2025-06-15-01-59-07.png)
+![](2025-06-15-01-59-07.webp)
 
 
 ### Conclusion

@@ -24,7 +24,7 @@ For 3.3V systems, use the **MAX3490**:
 - Drop-in solution for RS-485/RS-422 communication
 - Low-power and ESD-protected
 
-![](2025-11-23-18-27-33.png)
+![](2025-11-23-18-27-33.webp)
 
 
 ## ref 

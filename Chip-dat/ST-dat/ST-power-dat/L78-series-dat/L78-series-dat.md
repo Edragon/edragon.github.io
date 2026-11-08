@@ -57,7 +57,7 @@ These regulators can provide local on-card regulation, eliminating the distribut
 - L7808 == 8V 
 - L7812 == 12V
 
-![](2026-02-21-21-00-39.png)
+![](2026-02-21-21-00-39.webp)
 
 
 

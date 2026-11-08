@@ -30,7 +30,7 @@ MSP430F5310IPT == 25 MHz MCU with 32KB Flash, 6KB SRAM, 10-bit ADC, comparator, 
 
 https://www.ti.com/lit/ds/symlink/msp430f5310.pdf
 
-![](2026-09-03-16-23-46.png)
+![](2026-09-03-16-23-46.webp)
 
 
 MSP430F5438AIPZ == 25-MHz MCU with 256-KB flash, 16-KB SRAM, 12-bit ADC, DMA, UART/SPI/I2C, timer, HW multiplier | PZ | 100 | -40 to 85

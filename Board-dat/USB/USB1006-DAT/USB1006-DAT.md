@@ -15,7 +15,7 @@
 
 ## USB-HID Device 
 
-![](2023-10-13-14-05-39.png)
+![](2023-10-13-14-05-39.webp)
 
 * The Board is driver free in WIN 10, and recgnized as "USB input device", see attached image.
 

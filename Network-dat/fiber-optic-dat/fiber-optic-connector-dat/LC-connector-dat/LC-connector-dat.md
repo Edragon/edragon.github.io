@@ -20,7 +20,7 @@ Fiber types: Can be used with both single-mode and multi-mode fibers.
 
 ## usage 
 
-![](2025-06-19-17-11-19.png)
+![](2025-06-19-17-11-19.webp)
 
 
 

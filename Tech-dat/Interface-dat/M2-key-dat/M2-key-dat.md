@@ -13,7 +13,7 @@
 - B+M key == 2242 / 2260 / 2280 == PCIe x2 + SATA + USB 3.0
 - A+E key == 2230 / 2242 / 2260 / 2280 == PCIe x2 + USB 3.0 + I2C
 
-![](2025-08-18-16-09-08.png)
+![](2025-08-18-16-09-08.webp)
 
 ## compare M2 Key with PCIE 
 

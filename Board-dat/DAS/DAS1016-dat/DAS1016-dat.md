@@ -13,7 +13,7 @@ refer for more demo code in legacy wiki page here: - [legacy wiki page ](https:/
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2025-10-25-17-24-40.png)
+![](2025-10-25-17-24-40.webp)
 
 - [[relay-dat]]
 

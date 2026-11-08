@@ -69,7 +69,7 @@ working table
 
 ## distributed by two power sources 
 
-![](2026-04-28-06-34-16.png)
+![](2026-04-28-06-34-16.webp)
 
 
 
@@ -109,7 +109,7 @@ build 2 - [[dcdc-boost-down-dat]] + [[power-distribution-dat]] + [[battery-charg
 
 build 1 
 
-![](2026-08-01-16-26-34.png)
+![](2026-08-01-16-26-34.webp)
 
 
 

@@ -25,7 +25,7 @@ Copper trimming ensures a safe distance between the gold fingers and the board e
 
 ## penalization 
 
-![](2026-04-18-14-49-56.png)
+![](2026-04-18-14-49-56.webp)
 
 
 

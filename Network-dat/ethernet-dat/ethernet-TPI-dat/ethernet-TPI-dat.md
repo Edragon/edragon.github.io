@@ -21,7 +21,7 @@ It is important that the user realize that variations with PCB and component cha
 
 ## SCH 
 
-![](2026-09-13-14-53-14.png)
+![](2026-09-13-14-53-14.webp)
 
 
 

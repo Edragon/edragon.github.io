@@ -11,7 +11,7 @@
 
 M2.5 perpendicular 5.5 
 
-![](2026-01-07-22-02-09.png)
+![](2026-01-07-22-02-09.webp)
 
 M3 perpendicular 6 
 
@@ -23,7 +23,7 @@ create nut placeholder
 
 ![](2026-07-05-00-23-13.png)
 
-![](2026-07-05-00-23-53.png)
+![](2026-07-05-00-23-53.webp)
 
 M4 perpendicular 8 
 

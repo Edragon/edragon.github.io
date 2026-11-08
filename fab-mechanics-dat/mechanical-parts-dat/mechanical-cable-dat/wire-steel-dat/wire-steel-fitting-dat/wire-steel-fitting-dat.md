@@ -13,7 +13,7 @@
 Steel wire ropes have various fittings (end terminals, hooks, connectors, etc.). Common types are categorized below:
 
 
-![](2025-11-26-20-18-13.png)
+![](2025-11-26-20-18-13.webp)
 
 
 

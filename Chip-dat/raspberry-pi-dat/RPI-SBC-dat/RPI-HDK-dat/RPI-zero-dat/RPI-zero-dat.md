@@ -56,7 +56,7 @@
 - OpenGL ES 1.1, 2.0 graphics
 
 
-![](2024-11-13-16-34-59.png)
+![](2024-11-13-16-34-59.webp)
 
 
 ## Common Needed Accessories 

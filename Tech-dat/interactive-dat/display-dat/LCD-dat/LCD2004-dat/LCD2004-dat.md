@@ -92,10 +92,10 @@ The J204A LCD module uses an internal controller with 11 standard instructions:
 ## 5. Timing Sequences
 
 ### Read Operation Sequence
-![](2026-07-07-17-24-50.png)
+![](2026-07-07-17-24-50.webp)
 
 ### Write Operation Sequence
-![](2026-07-07-17-25-01.png)
+![](2026-07-07-17-25-01.webp)
 
 ## 6. RAM Address Mapping
 The LCD is a slow device. Before sending any instruction, ensure the Busy Flag (BF) is Low (0). To display a character, you must first specify the DDRAM address.

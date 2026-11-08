@@ -5,7 +5,7 @@ https://holybro.com/products/pixhawk-6c?srsltid=AfmBOoqIK6alS74PJcQw5hdBerA_Ayxm
 
 - ground control station 
 
-![](2025-09-21-14-00-13.png)
+![](2025-09-21-14-00-13.webp)
 
 
 

@@ -12,7 +12,7 @@ size，high accuracy, good consistency, for voltage and power measurement
 
 Figure I 
 
-![](2025-05-21-16-01-12.png)
+![](2025-05-21-16-01-12.webp)
 
 The typical usage of the product is for the active output (FigureI). 
 

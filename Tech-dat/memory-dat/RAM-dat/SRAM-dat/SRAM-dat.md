@@ -23,7 +23,7 @@ SRAM - Asynchronous Memory IC 8Mbit Parallel 10 ns 44-TSOP II
 
 ## diagram 
 
-![](2026-09-25-14-45-41.png)
+![](2026-09-25-14-45-41.webp)
 
 
 

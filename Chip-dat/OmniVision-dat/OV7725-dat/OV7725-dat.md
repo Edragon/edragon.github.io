@@ -56,7 +56,7 @@ connect to a [[FIFO-dat]]
 
 Wiring to a [[STM32-dat]] H7 
 
-![](2024-12-28-16-57-56.png)
+![](2024-12-28-16-57-56.webp)
 
 
 

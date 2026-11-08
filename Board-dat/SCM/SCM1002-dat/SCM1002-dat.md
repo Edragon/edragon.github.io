@@ -27,7 +27,7 @@
 Add didoes on VCC pin, each camera should have two pieces of the 1N4148 diodes!
 
 ![](2025-03-28-13-36-39.webp)
-![](2025-03-28-13-36-00.png)
+![](2025-03-28-13-36-00.webp)
 
 
 don't forget to cover each wire with protective sleeves

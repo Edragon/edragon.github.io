@@ -22,7 +22,7 @@ All features
 
 - [[RPI-CM4-expansion-board-dat]]
 
-![](2025-10-26-21-00-28.png)
+![](2025-10-26-21-00-28.webp)
 
 
 STMPS 2171 STR == 1A 

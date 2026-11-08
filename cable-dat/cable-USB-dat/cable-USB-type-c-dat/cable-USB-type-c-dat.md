@@ -13,7 +13,7 @@ video included
 ![](2026-03-15-01-59-11.png)
 
 
-![](2026-03-15-01-59-48.png)
+![](2026-03-15-01-59-48.webp)
 
 
 A 16-wire cable supports "SuperSpeed" data (10-20Gbps), Power Delivery (PD) 
@@ -43,7 +43,7 @@ These wires are usually bundled in pairs with internal metal shielding.
 
 ## 6-pin 100W cable USB 2.0 
 
-![](2026-03-15-01-54-37.png)
+![](2026-03-15-01-54-37.webp)
 
 When stripping a USB-C cable that contains 6 wires, it is typically 
 configured for USB 2.0 data speeds with Power Delivery (PD) 
@@ -64,7 +64,7 @@ negotiation capabilities.
 
 ## 5-pin cable USB 
 
-![](2026-03-15-02-05-38.png)
+![](2026-03-15-02-05-38.webp)
 
 ![](2026-03-15-02-10-41.webp)
 

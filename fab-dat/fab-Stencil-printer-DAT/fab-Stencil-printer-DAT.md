@@ -36,7 +36,7 @@
 
 1. lock [[PCB-dat]] on X and Y axis 
 
-![](2025-12-06-17-19-43.png)
+![](2025-12-06-17-19-43.webp)
 
 2. stencil should able to lock on both left and right side 
 
@@ -45,11 +45,11 @@
 
 3. no any other moving part except stencil and PCB holder
 
-![](2025-12-06-17-20-48.png)
+![](2025-12-06-17-20-48.webp)
 
 specially the rotating part 
 
-![](2025-12-06-17-21-12.png)
+![](2025-12-06-17-21-12.webp)
 
 
 ## bad printer  
@@ -63,17 +63,17 @@ specially the rotating part
 
 has gap 
 
-![](2025-09-01-17-56-12.png)
+![](2025-09-01-17-56-12.webp)
 
 ![](2025-09-03-14-15-01.png)
 
-![](2025-09-03-14-15-14.png)
+![](2025-09-03-14-15-14.webp)
 
 ![](2025-09-03-14-15-24.webp)
 
 screwed printer 
 
-![](2025-09-01-17-57-01.png)
+![](2025-09-01-17-57-01.webp)
 
 
 
@@ -91,7 +91,7 @@ screwed printer
 
 ![](2025-09-01-20-40-37.webp)
 
-![](2025-09-10-13-46-30.png)
+![](2025-09-10-13-46-30.webp)
 
 
 
@@ -99,7 +99,7 @@ double side printer for - [[NGS1141-dat]]
 
 ![](2025-09-10-13-47-22.png)
 
-![](2025-09-10-13-46-56.png)
+![](2025-09-10-13-46-56.webp)
 
 
 

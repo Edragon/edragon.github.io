@@ -20,7 +20,7 @@ https://www.nxp.com/docs/en/data-sheet/PCF8591.pdf
 
 ## diagram 
 
-![](2026-02-05-13-58-00.png)
+![](2026-02-05-13-58-00.webp)
 
 
 

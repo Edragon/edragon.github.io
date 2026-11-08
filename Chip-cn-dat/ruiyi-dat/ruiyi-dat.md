@@ -10,9 +10,9 @@
 The **Ruiyi ZL4815-L-B01** is an industrial-grade, high-torque Brushless DC (BLDC) motor designed for electric vehicles (EVs), mid-drive scooters, and heavy-duty automation.
 
 
-![](2026-02-28-02-22-30.png)
+![](2026-02-28-02-22-30.webp)
 
-![](2026-02-28-02-23-06.png)
+![](2026-02-28-02-23-06.webp)
 
 ---
 

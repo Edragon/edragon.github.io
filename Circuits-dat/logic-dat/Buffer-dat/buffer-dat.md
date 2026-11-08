@@ -118,7 +118,7 @@ FAST CMOS OCTAL BUFFER/LINE DRIVER - IDT54/74FCT244/A/C
 
 ADCLK846BCPZ - IC CLK BUFFER 1:6 1.2GHZ 24LFCSP - Clock Fanout Buffer (Distribution) IC 1:6 1.2 GHz 24-WFQFN Exposed Pad, CSP 
 
-![](2026-11-03-16-22-30.png)
+![](2026-11-03-16-22-30.webp)
 
 
 ## ref 

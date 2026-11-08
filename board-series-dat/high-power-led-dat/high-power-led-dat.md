@@ -16,7 +16,7 @@ temperature 75 degree protection swtich
 
 ## Dimension 
 
-![](2025-02-26-15-33-33.png)
+![](2025-02-26-15-33-33.webp)
 
 
 ## Electrical   /  Optical  Characteristics  at  TA=25℃
@@ -36,21 +36,21 @@ temperature 75 degree protection swtich
 
 ### Absolute  Maximum  Ratings  at  TA=25℃
 
-![](2025-02-26-15-34-46.png)
+![](2025-02-26-15-34-46.webp)
 
 ### for 50W led
 
-![](2025-02-26-15-41-18.png)
+![](2025-02-26-15-41-18.webp)
 
-![](2025-02-26-15-41-30.png)
+![](2025-02-26-15-41-30.webp)
 
 ### for 100W led 
 
 == 35V / 1.5A
 
-![](2025-02-26-15-40-48.png)
+![](2025-02-26-15-40-48.webp)
 
-![](2025-02-26-15-40-58.png)
+![](2025-02-26-15-40-58.webp)
 
 
 ## Boards 

@@ -16,7 +16,7 @@ The output is inverted compared to the input:
 https://www.mouser.com/datasheet/2/916/74HC_HCT1G14-1385566.pdf?srsltid=AfmBOopmI2Sb0NtOkBFdYvsbVQHwVz-8gI-lhVkF_7wKB0Xu7qpUoi9H
 
 
-![](2024-11-22-17-22-42.png)
+![](2024-11-22-17-22-42.webp)
 
 
 - [[74xx-dat]]

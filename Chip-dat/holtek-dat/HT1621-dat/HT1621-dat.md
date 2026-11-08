@@ -22,7 +22,7 @@ https://github.com/valerionew/ht1621-7-seg
 
 ## pins 
 
-![](2026-05-15-00-31-58.png)
+![](2026-05-15-00-31-58.webp)
 
 ## SCH 
 

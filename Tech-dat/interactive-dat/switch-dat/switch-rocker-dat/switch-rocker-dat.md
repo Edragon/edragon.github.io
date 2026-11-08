@@ -36,7 +36,7 @@ based on - [[KCD4-dat]]
 
 ## Hacked KCD4 switch to switch directions 
 
-![](2025-06-07-14-04-44.png)
+![](2025-06-07-14-04-44.webp)
 
 ![](2025-06-07-14-04-58.webp)
 

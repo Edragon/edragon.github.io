@@ -51,7 +51,7 @@ BZ- / 5V: Connect an active 5V Buzzer (BZ- triggers the ground line, 5V powers i
 
 ## FC AIO = flight controller all in one
 
-![](2025-05-28-16-21-09.png)
+![](2025-05-28-16-21-09.webp)
 
 
 

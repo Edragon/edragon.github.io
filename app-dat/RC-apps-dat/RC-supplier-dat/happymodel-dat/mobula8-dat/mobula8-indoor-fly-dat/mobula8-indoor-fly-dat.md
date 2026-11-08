@@ -12,7 +12,7 @@
 
 include the battery, total weight is 88.22g 
 
-![](2025-09-22-19-05-25.png)
+![](2025-09-22-19-05-25.webp)
 
 
 

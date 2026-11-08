@@ -8,7 +8,7 @@
 
 ## cable to cable connector
 
-![](2026-10-30-21-01-21.png)
+![](2026-10-30-21-01-21.webp)
 
 - [[cable-to-cable-connector-dat]]
 

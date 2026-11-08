@@ -18,7 +18,7 @@ yellow wires 220VAC
 
 3V and 5V DC also on board for [[fan-dat]], etc
 
-![](2025-11-28-19-11-41.png)
+![](2025-11-28-19-11-41.webp)
 
 wires 
 

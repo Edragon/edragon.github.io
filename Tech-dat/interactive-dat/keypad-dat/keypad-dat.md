@@ -38,12 +38,12 @@ If button is pressed,the voltage will be HIGH when it is scanned by HIGH voltage
 
 SCH3 
 
-![](2026-01-18-17-11-25.png)
+![](2026-01-18-17-11-25.webp)
 
 
 ## wiring 
 
-![](2026-01-18-17-10-12.png)
+![](2026-01-18-17-10-12.webp)
 
 
 - VCC Row 1, 2, 3, 4

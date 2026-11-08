@@ -21,11 +21,11 @@
 
 
 
-![](2024-10-11-16-25-35.png)
+![](2024-10-11-16-25-35.webp)
 
 ## modules 
 
-![](2024-10-11-16-26-30.png)
+![](2024-10-11-16-26-30.webp)
 
 - picohuck board - https://learn.sparkfun.com/tutorials/picobuck-hookup-guide
 

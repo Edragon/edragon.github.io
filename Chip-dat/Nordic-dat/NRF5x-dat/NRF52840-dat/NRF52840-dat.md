@@ -206,7 +206,7 @@ peripherals  - [[peripherals-dat]]
 
 ### SCH2 Module 
 
-![](2025-07-09-15-30-56.png)
+![](2025-07-09-15-30-56.webp)
 
 
 ### SCH3 module 

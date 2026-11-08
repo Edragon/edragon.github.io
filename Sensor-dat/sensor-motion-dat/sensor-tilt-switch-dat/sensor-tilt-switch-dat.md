@@ -19,7 +19,7 @@ https://www.electrodragon.com/product-category/sensors/speed-shake-laser/
 
 ## Reed Tilt Switch Sensor 
 
-![](2025-11-28-19-39-51.png)
+![](2025-11-28-19-39-51.webp)
 
 
 
@@ -119,7 +119,7 @@ This is the simplest angle detection switch design.
 
 ### SW-180 Vibration Switch — SW-180 Series Features
 
-![](2026-06-02-19-12-45.png)
+![](2026-06-02-19-12-45.webp)
 
 - Operation: Normally open (OFF) at rest. When subject to impact or sufficient acceleration/centrifugal force, the internal contact momentarily closes (ON) and the electrical state changes; when the force is removed the switch returns to open (OFF).
 - No orientation required: Omnidirectional — it can trigger from any angle.

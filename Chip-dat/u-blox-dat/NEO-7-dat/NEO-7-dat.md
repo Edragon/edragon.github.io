@@ -23,7 +23,7 @@ https://content.u-blox.com/sites/default/files/products/documents/NEO-7_DataShee
 
 ## function diagram 
 
-![](2026-01-17-16-22-19.png)
+![](2026-01-17-16-22-19.webp)
 
 ## wiring with RPI
 

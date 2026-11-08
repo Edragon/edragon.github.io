@@ -55,14 +55,14 @@ mounting - panel == through hole or PCB - [[switch-pushbutton-panel-dat]] - [[sw
 
 ## SMD 6P-2T Switch
 
-![](2026-02-11-18-05-04.png)
+![](2026-02-11-18-05-04.webp)
 
 
 ## SMD 3P-2T Switch 
 
 ![](2026-02-11-17-12-35.webp)
 
-![](2026-02-11-17-13-26.png)
+![](2026-02-11-17-13-26.webp)
 
 ## SMD Switch 
 
@@ -106,7 +106,7 @@ AP22652/AP22653/AP22652A/AP22653A - PRECISION ADJUSTABLE CURRENT-LIMITED POWER S
 
 ![](2026-03-13-17-12-46.webp)
 
-![](2026-03-13-17-12-58.png)
+![](2026-03-13-17-12-58.webp)
 
 
 

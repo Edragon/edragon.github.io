@@ -66,7 +66,7 @@ Verion 1.0
   - USB-TTL debug power supply + USB Cable 
 
 ![](2025-02-21-14-58-48.png)
-![](2025-02-21-14-59-03.png)
+![](2025-02-21-14-59-03.webp)
 
 
 

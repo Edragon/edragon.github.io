@@ -8,7 +8,7 @@
 
 ## 1. PCB Page
 
-![](2025-04-01-16-34-15.png)
+![](2025-04-01-16-34-15.webp)
 
 1.  Import and add a PCB board.
 2.  Merge multiple PCB boards at the current location.
@@ -47,7 +47,7 @@ The following image shows how to set the calibration method. By selecting the co
 
 ### Page and Function Introduction
 
-![](2025-04-01-16-36-24.png)
+![](2025-04-01-16-36-24.webp)
 
 ### Automatic Calibration
 
@@ -80,13 +80,13 @@ Disadvantages: Slower loading, pay attention to the tightness of the tear film, 
 
 1.  Select component information and test component recognition.
     -   1.1 ------ If the component's footprint is not automatically matched to a suitable footprint, you can create one using this button. The meaning of the footprint is very important for being able to correctly use the nozzle model and correctly identify the component.
-        ![](2025-04-01-16-39-24.png)
+        ![](2025-04-01-16-39-24.webp)
     -   1.2 ------ Test whether the nozzle can correctly pick up the component and whether the bottom camera can correctly recognize the component.
         ![](2025-04-01-16-39-36.png)
 2.  Set the component's pick-up coordinates. You can set the coordinates by getting the camera or nozzle position. Video
 3.  The distance between components in the tape. We usually determine the distance by observing how many tape holes correspond to one component. For example:
 
-    ![](2025-04-01-16-39-50.png)![](2025-04-01-16-40-01.png)
+    ![](2025-04-01-16-39-50.webp)![](2025-04-01-16-40-01.png)
 4.  Usage count, used to count the number of times the material has been fed.
 5.  Manually control the feeder to move forward and backward (requires setting the ID number before use).
 6.  Feeder ID number to fill in. Get ID
@@ -122,7 +122,7 @@ Applicable Range: Usually used for chip trays or large component trays.
 
 ### a. Footprint Creation and Deletion
 
-![](2025-04-02-13-32-36.png)
+![](2025-04-02-13-32-36.webp)
 
 *   Import Footprint: Import existing footprint files.
 *   Create Footprint: Create a blank footprint.
@@ -132,7 +132,7 @@ Applicable Range: Usually used for chip trays or large component trays.
 
 ### b. Footprint Settings
 
-![](2025-04-02-13-33-09.png)
+![](2025-04-02-13-33-09.webp)
 
 *   Nozzle: Select the appropriate nozzle for the footprint.
 *   Component Height: The thickness of the component (required).
@@ -185,7 +185,7 @@ Shifts the recognition result by a fixed value. Can correct placement deviations
 
 This setting is usually used to set template matching MARK points or visual recognition of bulk materials.
 
-![](2025-04-02-13-36-21.png)
+![](2025-04-02-13-36-21.webp)
 
 Align the crosshair with the component to be recognized and click the top to take the top shot.
 

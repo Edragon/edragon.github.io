@@ -8,7 +8,7 @@
 
 - [[molex-dat]]
 
-![](2025-10-26-20-43-07.png)
+![](2025-10-26-20-43-07.webp)
 
 
 ## microSD 8P wo/dect - hangout 

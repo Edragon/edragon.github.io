@@ -57,7 +57,7 @@ The LTC®4150 measures battery depletion and charging in handheld PC and portabl
 
 The LTC4150 is intended for 1-cell or 2-cell Li-Ion and 3-cell to 6-cell NiCd or NiMH applications.
 
-![](2026-02-23-16-44-12.png)
+![](2026-02-23-16-44-12.webp)
 
 ## ref 
 

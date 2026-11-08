@@ -34,7 +34,7 @@ Pin Definitions:
 ![](13-01-15-25-07-2023.png)
 
 - SCH2 peripheral 
-![](25-02-15-25-07-2023.png)
+![](25-02-15-25-07-2023.webp)
 
 ## Configuration 
 

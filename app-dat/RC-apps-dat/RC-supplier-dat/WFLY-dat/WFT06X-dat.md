@@ -2,9 +2,9 @@
 
 - [[PPM-dat]]
 
-![](2025-05-05-14-45-14.png)
+![](2025-05-05-14-45-14.webp)
 
-![](2025-05-05-14-51-22.png)
+![](2025-05-05-14-51-22.webp)
 
 - the manual == [[WFLY-WFT06X_Mannual.pdf]]
 - [fccd.io manual link](https://fccid.io/TZVWFT06XWFT08S/User-Manual/User-Manual-1-1119279.pdf) 

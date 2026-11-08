@@ -3,7 +3,7 @@
 
 OFF  LINE  SMPS  PRIMARY  SWITCHER  - GREEN  POWER
 
-![](2024-10-28-17-52-59.png)
+![](2024-10-28-17-52-59.webp)
 
 DS - [[Ap8022.pdf]]
 

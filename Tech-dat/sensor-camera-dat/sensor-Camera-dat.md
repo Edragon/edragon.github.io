@@ -93,7 +93,7 @@
 
 ## sensor look like 
 
-![](2025-12-10-15-19-46.png)
+![](2025-12-10-15-19-46.webp)
 
 - [[TPLINK-dat]]
 
@@ -184,7 +184,7 @@ ArduCAM
 
 ### selection table 
 
-![](2025-07-13-01-58-00.png)
+![](2025-07-13-01-58-00.webp)
 
 ## Camera Interface 
 

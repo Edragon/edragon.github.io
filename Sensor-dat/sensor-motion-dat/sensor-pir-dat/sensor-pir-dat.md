@@ -16,14 +16,14 @@
 
 ## Working priciple 
 
-![](2023-12-12-17-56-14.png)
+![](2023-12-12-17-56-14.webp)
 
 
 
 
 ## APP SCH 
 
-![](2026-07-22-20-46-35.png)
+![](2026-07-22-20-46-35.webp)
 
 
 ## Arduino Demo Code 
@@ -103,7 +103,7 @@ when the human body from the front to the probe or from top to bottom or from bo
 
 read PIR IO 14 - [[senba-sensing-dat]] - [[sensor-pir-IO14-1.ino]]
 
-![](2026-07-22-20-54-39.png)
+![](2026-07-22-20-54-39.webp)
 
 
 

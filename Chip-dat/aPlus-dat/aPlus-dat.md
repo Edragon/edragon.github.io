@@ -53,4 +53,4 @@ The aP89085 is used to play back pre-recorded audio stored in its internal EPROM
 
 ## SCH 
 
-![](2026-03-05-02-07-30.png)
+![](2026-03-05-02-07-30.webp)

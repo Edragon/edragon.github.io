@@ -6,14 +6,14 @@
 
 - PROG pin (IO0 / IO9) and EN / RST
 
-![](2023-11-30-17-20-37.png)
+![](2023-11-30-17-20-37.webp)
 
 ![](2025-08-12-15-15-33.webp)
 
 
 by 2x SS8050
 
-![](2024-08-05-18-41-59.png)
+![](2024-08-05-18-41-59.webp)
 
 
 - [[dual-mosfet-dat]]
@@ -40,7 +40,7 @@ when RTS enable, DTR == IO0, when DTR enable, RTS == EN
 
 ## auto serial for [[STM32-HDK-dat]] 
 
-![](2025-07-10-13-01-09.png)
+![](2025-07-10-13-01-09.webp)
 
 
 | DTR | Q1  | NRST | RTS | Q2  | BOOT0 |

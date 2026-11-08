@@ -3,7 +3,7 @@
 
 ![](2025-04-22-12-32-51.png)
 
-![](2025-04-22-12-33-03.png)
+![](2025-04-22-12-33-03.webp)
 
 The object you're holding is an **SC (Subscriber Connector) fiber optic connector**. These connectors are commonly used in network and telecom setups for fiber optic cables. Here's a quick rundown:
 

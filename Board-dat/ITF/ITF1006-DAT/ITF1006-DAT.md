@@ -16,7 +16,7 @@
 ## Use Guide 
 
 ### two pin load wiring 
-![](55-25-16-26-06-2023.png)
+![](55-25-16-26-06-2023.webp)
 
 #### Single Power Supply 
 - All input power from three-pin terminal VCC GND pins 
@@ -29,7 +29,7 @@
 
 ### three pin load wiring
 
-![](12-34-16-26-06-2023.png)
+![](12-34-16-26-06-2023.webp)
 
 
 ### Tuning Steps 
@@ -41,7 +41,7 @@ A simulation trim-pot can be used as a target load on left side
 
 
 ### Tests 
-![](58-34-16-26-06-2023.png)
+![](58-34-16-26-06-2023.webp)
 
 ![](08-35-16-26-06-2023.png)
 

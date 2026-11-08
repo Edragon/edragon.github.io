@@ -93,15 +93,15 @@ compare to [[SIM7020-dat]]
 | **Market Availability**      | More expensive but offers broader coverage                                          | Lower cost and tailored for NB-IoT-only markets                      |
 | **Data Rate Comparison**     | Higher data rates (Cat M1 and 2G support)                                           | Lower data rates (NB-IoT only)                                       |
 
-![](2025-01-18-14-40-49.png)
+![](2025-01-18-14-40-49.webp)
 
 ## Diagram 
 
-![](2025-01-18-14-32-56.png)
+![](2025-01-18-14-32-56.webp)
 
 ## Pin definitions 
 
-![](2025-01-18-14-37-42.png)
+![](2025-01-18-14-37-42.webp)
 
 
 

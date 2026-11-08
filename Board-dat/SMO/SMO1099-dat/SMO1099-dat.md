@@ -7,7 +7,7 @@ https://www.electrodragon.com/product/vl53l0x-laser-proximity-distance-tof-range
 
 ## Dimension 
 
-![](2023-10-05-17-53-39.png)
+![](2023-10-05-17-53-39.webp)
 
 ## SCH 
 

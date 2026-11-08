@@ -17,7 +17,7 @@ XB4908 SERIES has all the protection functions required in the battery applicati
 The device is not only targeted for digital cellular phones, but also for any other Li-Ion and Li-Poly battery-powered information appliances requiring long-term battery life
 
 
-![](2026-06-15-14-08-18.png)
+![](2026-06-15-14-08-18.webp)
 
 
 

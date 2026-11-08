@@ -7,7 +7,7 @@ https://www.electrodragon.com/product/600w-dc-dc-step-up-module-10-60v-to-12-80v
 
 ## Dimension 
 
-![](2025-02-06-16-23-25.png)
+![](2025-02-06-16-23-25.webp)
 
 
 ## use guide 

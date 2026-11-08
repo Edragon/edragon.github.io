@@ -130,7 +130,7 @@ The CDRH127 is a series of SMD power inductors from Sumida, commonly used for po
 
 ## high freq. inductor 47nh 
 
-![](2024-10-09-18-43-27.png)
+![](2024-10-09-18-43-27.webp)
 
 
 

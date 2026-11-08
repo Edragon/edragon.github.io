@@ -6,7 +6,7 @@
 ### power supply and serial for STM32 
 
 
-![](2025-06-23-18-01-31.png)
+![](2025-06-23-18-01-31.webp)
 
 
 - [[NWI1254-dat]]

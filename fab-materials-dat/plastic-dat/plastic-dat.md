@@ -87,7 +87,7 @@ PA66: This stands for Polyamide 66, which is a type of nylon. It's a common engi
 hold on table with wood [[holder-dat]], this is how the cutting looks like
 
 
-![](2025-12-05-20-27-48.png)
+![](2025-12-05-20-27-48.webp)
 
 
 

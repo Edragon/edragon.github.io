@@ -31,7 +31,7 @@ OPA317, OPA2317, OPA4317 - `OPAx317` Zerø-Drift, Low-Offset, Rail-to-Rail I/O O
 
 `OPAx365` 50-MHz, Zerø-Crossover, Low-Distortion, High-CMRR, RRI/O, Single-Supply Operational Amplifiers
 
-![](2026-03-05-14-03-06.png)
+![](2026-03-05-14-03-06.webp)
 
 
 `OPA2188` == OPA2188 0.03-μV/°C Drift, Low-Noise, Rail-to-Rail Output, 36-V, Zero-Drift Operational Amplifiers

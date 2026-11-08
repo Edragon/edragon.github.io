@@ -75,7 +75,7 @@ If you are using a microcontroller to drive them, keep the CCW-running motor (or
 
 385 type motor : 12V - 10000rpm
 
-![](2026-02-06-20-04-35.png)
+![](2026-02-06-20-04-35.webp)
 
 
 - more powerful motors  - [[Motor-reduction-Gear-dat]] - [[motor-TT-dat]]
@@ -210,9 +210,9 @@ So, a **230 motor** typically has:
 | **XYD-16/13** | 36–60V  | 1000W+    | High torque, brushed, affordable |
 
 
-![](2025-05-13-02-44-12.png)
+![](2025-05-13-02-44-12.webp)
 
-![](2025-05-13-02-44-27.png)
+![](2025-05-13-02-44-27.webp)
 
 
 

@@ -12,7 +12,7 @@ Note: To ensure more accurate printing and avoid unnecessary disputes, it is str
 Special reminder: Wall thickness should be greater than 1.2mm, with the thinnest part not less than 0.8mm.
 
 
-![](2025-03-12-15-10-06.png)
+![](2025-03-12-15-10-06.webp)
 
 ## extra 
 

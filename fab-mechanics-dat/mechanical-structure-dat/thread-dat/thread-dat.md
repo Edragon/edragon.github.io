@@ -36,7 +36,7 @@ For a 17mm mounting plate, **1.0mm (Fine Pitch)** is the superior choice over 2.
 
 via custom script - internal thread 
 
-![](2026-02-21-19-04-05.png)
+![](2026-02-21-19-04-05.webp)
 
 
 

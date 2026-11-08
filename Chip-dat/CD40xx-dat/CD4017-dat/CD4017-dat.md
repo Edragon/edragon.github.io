@@ -10,7 +10,7 @@ The CD4017 is a 16-pin CMOS `decade counter` and `pulse distributor`. It feature
 
 ## apps 
 
-![](2026-08-21-16-05-24.png)
+![](2026-08-21-16-05-24.webp)
 
 
 

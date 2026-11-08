@@ -423,7 +423,7 @@ Almost all modern scooters (Xiaomi, Ninebot, Kaabo, etc.) use this type.
 
 ## gallery 
 
-![](2026-04-07-13-43-09.png)
+![](2026-04-07-13-43-09.webp)
 
 
 

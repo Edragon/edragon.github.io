@@ -28,7 +28,7 @@ flexible, quick and sneak
 cheap to add to a balancer kart, price is around 30 usd with damper 
 
 
-![](2025-04-03-15-26-39.png)
+![](2025-04-03-15-26-39.webp)
 
 ## kit toy kart with electric motors
 
@@ -38,7 +38,7 @@ based on a kit cart modified, price is around 100~150 usd.
 
 already had a steering system. 
 
-![](2025-04-03-15-20-28.png)
+![](2025-04-03-15-20-28.webp)
 
 ![](2025-04-03-15-21-11.webp)
 
@@ -57,7 +57,7 @@ you can even hook another cart behind it.
 
 price is around 300-400 usd
 
-![](2025-04-03-18-32-51.png)
+![](2025-04-03-18-32-51.webp)
 
 ![](2025-04-03-16-09-03.webp)
 

@@ -31,9 +31,9 @@ https://www.electrodragon.com/product/d1wifi-arduino-based-board-arduino-nodemcu
 * 除 D2 外，所有 I/O 都支持中斷，PWM，I2C，跟 1-wire
 
 
-![](2023-12-04-18-06-06.png)
+![](2023-12-04-18-06-06.webp)
 
-![](2023-12-04-18-06-26.png)
+![](2023-12-04-18-06-26.webp)
 
 
 ## relay control 

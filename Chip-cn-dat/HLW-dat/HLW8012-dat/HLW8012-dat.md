@@ -28,7 +28,7 @@
 
 ## Application 
 
-![](2024-08-05-17-20-03.png)
+![](2024-08-05-17-20-03.webp)
 
 As shown in Figure 3, the power supply the HLW8012 should be in parallel with two small capacitors to filter out the noise from the grid. 
 

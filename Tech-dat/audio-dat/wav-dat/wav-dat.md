@@ -21,10 +21,10 @@ After that, navigate to File > Export > Export as WAV to save the audio file in 
 
 Now we need a Hex Editor app to generate Hex codes for the audio file. So download and install the [Hex Editor (HxD)](https://mh-nexus.de/en/hxd/) from the given link. After that, open the app, then go to File > open and open the .wav file. This will generate the Hex code for the .wav file.
 
-![](2024-12-24-17-49-27.png)
+![](2024-12-24-17-49-27.webp)
 
 Then use ctrl+A to select the complete code and then go to Edit > Copy as > C to copy the code in C Language format.
 
-![](2024-12-24-17-49-56.png)
+![](2024-12-24-17-49-56.webp)
 
 

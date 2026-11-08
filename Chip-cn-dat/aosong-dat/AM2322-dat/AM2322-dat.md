@@ -17,7 +17,7 @@ HVAC, dehumidifiers, testing and inspection equipment, consumer products, automo
 ## Product Highlights
 Fully interchangeable, low cost, long-term stability, relative humidity and temperature measurement, ultra-long signal transmission distance, digital signal output, precise calibration, extremely low power consumption, standard single-bus digital interface, standard I2C bus digital interface, freely selectable communication methods.
 
-![](2025-06-10-19-13-39.png)
+![](2025-06-10-19-13-39.webp)
 
 ![](2025-06-10-19-13-52.png)
 
@@ -60,7 +60,7 @@ PC plastic
 ## Weight:
 0.5g
 
-![](2025-06-10-19-14-55.png)
+![](2025-06-10-19-14-55.webp)
 
 ## ref 
 

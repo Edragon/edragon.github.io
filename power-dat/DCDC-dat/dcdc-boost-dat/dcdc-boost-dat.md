@@ -84,7 +84,7 @@ fixed 5V output and little periperals
 
 - [[MP28167-dat]] == 2.8V-22V VIN, 3A IOUT, 4-Switch Integrated Buck-Boost Converter with Fixed 5V Output
 
-![](2025-08-19-16-21-07.png)
+![](2025-08-19-16-21-07.webp)
 
 
 - [[MPS-dat]]

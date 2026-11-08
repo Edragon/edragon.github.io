@@ -10,7 +10,7 @@ Support High Voltage SCP、Bi-directional PD3.0 、Fast Charge protocol and Doub
 
 ## build 
 
-![](2026-06-18-19-46-55.png)
+![](2026-06-18-19-46-55.webp)
 
 - [[XB7608-dat]]
 

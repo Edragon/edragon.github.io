@@ -155,7 +155,7 @@ master connect to multiple slave mode
 
 slave connect to multiple master mode 
 
-![](2026-02-04-18-10-39.png)
+![](2026-02-04-18-10-39.webp)
 
 ## master / slave unity 
 

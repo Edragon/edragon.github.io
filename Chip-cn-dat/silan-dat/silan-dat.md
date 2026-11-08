@@ -23,7 +23,7 @@ It integrates various protections such as undervoltage lockout, overvoltage prot
 
 ## APP
 
-![](2026-06-15-19-00-40.png)
+![](2026-06-15-19-00-40.webp)
 
 - [[SD6834-datasheet.pdf]]
 

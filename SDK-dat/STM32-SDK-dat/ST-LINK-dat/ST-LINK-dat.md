@@ -36,7 +36,7 @@ Download
 
 ![](ST-INK_SCH.webp)
 
-![](ST-LinkV2_amo.png)
+![](ST-LinkV2_amo.webp)
 
 ![](ST-LINK_X893_SCH.webp)
 
@@ -51,7 +51,7 @@ Firmware
 ## Upgrade firmware
 * If error st-link is not DFU mode -> connect ST-link, do not operate anythings, click upgrade firwmare directly
 
-![](2024-07-05-17-47-12.png)
+![](2024-07-05-17-47-12.webp)
 
 ## Projects
 
@@ -80,7 +80,7 @@ In this project, following the design of the Pandora development board which int
 
 V2-1 core part 
 
-![](2025-08-19-15-50-58.png)
+![](2025-08-19-15-50-58.webp)
 
 
 
@@ -105,7 +105,7 @@ There are three methods to update the firmware:
 
 ### Use the upgrade tool included with STM32CubeProg or STM32 ST-LINK Utility
 
-![](2025-08-19-15-56-01.png)
+![](2025-08-19-15-56-01.webp)
 
 ### Use the built-in upgrade tool in Keil MDK-ARM
 

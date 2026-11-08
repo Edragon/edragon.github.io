@@ -72,7 +72,7 @@ When the input voltage (AC adapter or USB power) is removed, the TP4057X automat
 
 Other features of the TP4057X include **power adaptation, undervoltage lockout, automatic recharge, and two status pins** for indicating charging completion and input voltage connection.
 
-![](2025-06-25-18-29-59.png)
+![](2025-06-25-18-29-59.webp)
 
 注：建议接R1耗散电阻（0.3Ω），可获得较大的充电电流，又可提高整机的可靠性。阻值根据实际情况选取（0~0.6Ω）。
 

@@ -101,7 +101,7 @@ Comparison Table of BMM150 and BMM350
 
 ### SCH 
 
-![](2025-07-13-02-13-16.png)
+![](2025-07-13-02-13-16.webp)
 
 
 

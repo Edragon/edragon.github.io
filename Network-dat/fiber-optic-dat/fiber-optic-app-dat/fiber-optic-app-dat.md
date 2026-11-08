@@ -53,9 +53,9 @@ FPV remote communication
 
 ![](2025-03-28-17-41-03.png)
 
-![](2025-03-28-17-45-31.png)
+![](2025-03-28-17-45-31.webp)
 
-![](2025-03-28-17-48-29.png)
+![](2025-03-28-17-48-29.webp)
 
 - [demo video how it works](https://www.youtube.com/shorts/GSPIDlSw020)
 
@@ -63,11 +63,11 @@ emergancy support
 
 ![](2025-03-28-17-42-03.png)
 
-![](2025-03-28-17-42-21.png)
+![](2025-03-28-17-42-21.webp)
 
 underwater robot communication 
 
-![](2025-03-28-17-41-21.png)
+![](2025-03-28-17-41-21.webp)
 
 tube communication 
 

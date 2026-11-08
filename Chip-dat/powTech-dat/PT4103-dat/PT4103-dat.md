@@ -16,7 +16,7 @@ Its low 104mV feedback voltage reduces power loss and improves efficiency. The O
 control by LCD_PWM 
 
 
-![](2025-08-09-17-04-35.png)
+![](2025-08-09-17-04-35.webp)
 
 ## application circuit
 

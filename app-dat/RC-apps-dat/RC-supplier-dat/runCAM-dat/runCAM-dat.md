@@ -31,7 +31,7 @@ wiring ==  [[runcam-dat]] - [[camera-FPV-dat]] - [[camera-analog-dat]]
 
 ## nano 2 
 
-![](2026-07-01-18-39-34.png)
+![](2026-07-01-18-39-34.webp)
 
 
 ## RatelPro

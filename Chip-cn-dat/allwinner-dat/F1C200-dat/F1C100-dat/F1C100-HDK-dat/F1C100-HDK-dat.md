@@ -36,7 +36,7 @@ filters
 
 ## lichee nano footprint 
 
-![](2025-07-16-13-16-38.png)
+![](2025-07-16-13-16-38.webp)
 
 
 

@@ -15,7 +15,7 @@
 安装过程中，需要从github下载两个文件，也可手动放置这两个文件到选择的IDF路径下的dist文件夹中
 
 
-![](33-58-15-15-12-2022.png)
+![](33-58-15-15-12-2022.webp)
 
 https://github.com/espressif/bin ... _64-w64-mingw32.zip
 https://github.com/espressif/bin ... _64-w64-mingw32.zip
@@ -33,4 +33,4 @@ https://github.com/espressif/bin ... _64-w64-mingw32.zip
 
 3.不能连接WIFI
 修改menuconfig中的晶振频率为26M
-![](18-57-15-15-12-2022.png)
+![](18-57-15-15-12-2022.webp)

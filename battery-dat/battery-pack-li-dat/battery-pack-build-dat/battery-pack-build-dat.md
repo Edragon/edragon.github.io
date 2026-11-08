@@ -7,7 +7,7 @@
 
 - this build has no battery holder inside, only use - [[heat-shrink-tube-dat]] for compact and small size build 
   
-![](2026-05-20-02-29-55.png)
+![](2026-05-20-02-29-55.webp)
 
 - [[conn-power-dat]]
 
@@ -30,7 +30,7 @@
 
 3x parallel 
 
-![](2026-06-06-16-55-11.png)
+![](2026-06-06-16-55-11.webp)
 
 ![](2026-06-06-16-55-20.png)
 

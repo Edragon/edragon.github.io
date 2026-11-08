@@ -46,7 +46,7 @@ template
 
 - default flashed firmware with starting counting down from 255 to 0 
 
-![](2025-11-23-19-21-17.png)
+![](2025-11-23-19-21-17.webp)
 
 - https://github.com/Edragon/nuvoton-app - [[private-repo-dat]]
 

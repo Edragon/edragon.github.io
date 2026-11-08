@@ -47,7 +47,7 @@ XPD518、XPD618、XPD636、XPM5218、XPM5236低成本外围精简PD充电器、�
 
 - [[analog-device-dat]]
 
-![](2026-06-02-20-55-07.png)
+![](2026-06-02-20-55-07.webp)
 
 
 ## battery protector

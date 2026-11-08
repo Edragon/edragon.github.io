@@ -17,7 +17,7 @@
 
 ![](2024-01-14-16-31-06.png)
 
-![](2026-03-20-19-32-41.png)
+![](2026-03-20-19-32-41.webp)
 
 
 ## Input 
@@ -90,7 +90,7 @@ flipped cable 1 == horizontally flipped pin
 
 flipped connector 1 == horizontally flipped pin
 
-![](2025-12-20-18-52-13.png)
+![](2025-12-20-18-52-13.webp)
 
 flipped connector 2 == horizontally flipped pin
 
@@ -114,7 +114,7 @@ The follwoing content show the two methods of the cable installation, either nor
 
 2. flipped connector + nonflipped cable install 
 
-![](2025-12-16-18-33-30.png)
+![](2025-12-16-18-33-30.webp)
 
 3. flipped connector + flipped    cable install 
 

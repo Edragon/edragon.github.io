@@ -12,7 +12,7 @@
 
 ## muddy track 
 
-![](2025-12-05-13-30-35.png)
+![](2025-12-05-13-30-35.webp)
 
 - [[rc-submersible-tank-dat]]
 
@@ -75,7 +75,7 @@ A tracked vehicle uses continuous tracks instead of wheels to move over difficul
 | Track          | Provides traction and distributes weight |
 
 
-![](2025-09-22-15-42-03.png)
+![](2025-09-22-15-42-03.webp)
 
 ![](2025-09-22-15-42-54.png)
 

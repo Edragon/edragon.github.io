@@ -22,4 +22,4 @@ https://www.espressif.com/sites/default/files/documentation/esp32-lyrat_user_gui
 
 ## ESP32-Lyra Mini 
 
-![](2024-11-19-18-05-19.png)
+![](2024-11-19-18-05-19.webp)

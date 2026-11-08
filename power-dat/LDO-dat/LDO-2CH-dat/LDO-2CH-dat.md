@@ -35,9 +35,9 @@ Dual LDO Regulator with ON/OFF Switch
 DUAL 150mA LOW QUIESCENT CURRENT FAST
 TRANSIENT LOW DROPOUT LINEAR REGULATOR
 
-![](2026-07-23-03-47-16.png)
+![](2026-07-23-03-47-16.webp)
 
-![](2026-07-23-03-41-14.png)
+![](2026-07-23-03-41-14.webp)
 
 ## XC6206 
 
@@ -58,7 +58,7 @@ TRANSIENT LOW DROPOUT LINEAR REGULATOR
 
 Dual µCap 80mA LDO Regulator
 
-![](2026-07-23-03-44-48.png)
+![](2026-07-23-03-44-48.webp)
 
 ## MIC5504 + MIC6365 
 
@@ -68,7 +68,7 @@ Dual µCap 80mA LDO Regulator
 
 ## VDD and VDD_A 
 
-![](2026-03-05-17-50-28.png)
+![](2026-03-05-17-50-28.webp)
 
 
 - [[camera-DVP-dat]] - [[STM32-dat]] - [[LDO-2ch-dat]]

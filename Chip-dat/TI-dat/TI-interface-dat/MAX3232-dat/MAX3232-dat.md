@@ -13,7 +13,7 @@ https://www.ti.com/lit/ds/symlink/max3232.pdf?ts=1702918921870&ref_url=https%253
 
 ## SCH 
 
-![](2026-09-25-14-50-36.png)
+![](2026-09-25-14-50-36.webp)
 
 ## Reference Specification
 

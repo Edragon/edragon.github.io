@@ -63,7 +63,7 @@ TM7705+AD7705+16位ADC数据采集模块
 
 ### ADC driver 
 
-![](2026-09-25-14-35-24.png)
+![](2026-09-25-14-35-24.webp)
 
 - [[filter-dat]] - [[filter-band-pass-dat]] - [[AD805x-dat]] - [[AD9201-dat]]
 
@@ -219,7 +219,7 @@ wiring 接线图
 
 build 1 
 
-![](2026-08-01-16-04-59.png)
+![](2026-08-01-16-04-59.webp)
 
 - [[NJU7043-dat]] - [[JRC-dat]] - [[amp-op-dat]]
 
@@ -277,7 +277,7 @@ This circuit generates a stable, buffered reference voltage equal to roughly $31
 
 ADC-16CH 
 
-![](2026-07-23-17-46-29.png)
+![](2026-07-23-17-46-29.webp)
 
 ADC-10CH 
 

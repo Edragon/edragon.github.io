@@ -18,7 +18,7 @@
 
 ## Isolator power == B0505
 
-![](2026-03-05-13-48-09.png)
+![](2026-03-05-13-48-09.webp)
 
 
 MGS30505 - Isolated Module DC DC Converter 1 Output 5V 600mA 4.5V - 9V Input

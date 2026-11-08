@@ -8,7 +8,7 @@
 
 A smoke stopper is a safety device plugged between a LiPo battery and an RC drone or model to prevent electrical shorts from burning out expensive electronics
 
-![](2026-09-04-21-35-08.png)
+![](2026-09-04-21-35-08.webp)
 
 How It Works
 
@@ -26,7 +26,7 @@ How It Works
 
 ![](2026-09-08-13-11-04.webp)
 
-![](2026-09-08-13-11-49.png)
+![](2026-09-08-13-11-49.webp)
 
 ![](2026-09-08-13-12-33.png)
 

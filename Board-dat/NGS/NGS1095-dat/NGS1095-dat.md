@@ -59,7 +59,7 @@ Pin Definitions R2:
 ## Pin Soldering Side 
 
 on sim card side  
-![](56-21-17-02-08-2023.png)
+![](56-21-17-02-08-2023.webp)
 
 on module side
 ![](04-22-17-02-08-2023.png)
@@ -74,7 +74,7 @@ Compare the version back to 2021, on the image below "new" is actually the old o
 - removed M_RX and you can better use vRXD/vRXD instead
 - greenbox has nothing changed, only added text
 
-![](2025-02-19-17-01-34.png)
+![](2025-02-19-17-01-34.webp)
 
 
 

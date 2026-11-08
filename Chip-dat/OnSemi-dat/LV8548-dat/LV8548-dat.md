@@ -17,10 +17,10 @@ It is optimal for motor drive in 12V system products and can drive either two DC
 
 ## APPs 
 
-![](2025-05-04-14-30-57.png)
+![](2025-05-04-14-30-57.webp)
 
 
-![](2025-05-04-14-31-23.png)
+![](2025-05-04-14-31-23.webp)
 
 
 ## ref 

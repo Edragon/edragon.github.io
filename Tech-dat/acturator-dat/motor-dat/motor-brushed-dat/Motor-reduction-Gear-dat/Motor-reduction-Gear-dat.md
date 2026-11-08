@@ -34,7 +34,7 @@
 | **Applications**       | Robotics, CNC, automotive transmissions, solar trackers | Basic machinery, conveyors, household devices           |
 
 
-![](2025-06-03-01-15-03.png)
+![](2025-06-03-01-15-03.webp)
 
 
 ## driver 
@@ -64,7 +64,7 @@
 
 ## Apps and Specs Selection 
 
-![](2025-03-28-15-51-20.png)
+![](2025-03-28-15-51-20.webp)
 
 ## Definitions 
 
@@ -96,7 +96,7 @@ If your 895 motor lacks torque even with a gearbox, consider:
 **Use**: Robotics, automation, e-mobility, conveyor systems
 
 
-![](2025-05-13-02-57-49.png)
+![](2025-05-13-02-57-49.webp)
 
 
 

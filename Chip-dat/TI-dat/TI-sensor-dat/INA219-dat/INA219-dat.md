@@ -42,7 +42,7 @@ Other important features of the INA219 include:
 
 ## SCH 
 
-![](2023-10-25-15-59-39.png)
+![](2023-10-25-15-59-39.webp)
 
 ## Code and Wiring for arduino
 

@@ -63,9 +63,9 @@ LED has a low voltage driving, high energy saving and environmental protection, 
 
 ![](2024-01-13-11-33-07.png)
 
-![](2024-01-13-11-33-24.png)
+![](2024-01-13-11-33-24.webp)
 
-![](2024-01-13-11-33-41.png)
+![](2024-01-13-11-33-41.webp)
 
 - VDD Power Supply
 - DOUT Data Out 
@@ -90,7 +90,7 @@ ESP32
 
 ![](2025-10-08-14-07-51.png)
 
-![](2025-10-08-14-08-13.png)
+![](2025-10-08-14-08-13.webp)
 
 
 

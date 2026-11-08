@@ -16,7 +16,7 @@
 
 ## metal hand-like rack 
 
-![](2025-10-23-20-00-34.png)
+![](2025-10-23-20-00-34.webp)
 
 
 ## flexible rack 
@@ -25,7 +25,7 @@
 
 ## ball rack 
 
-![](2025-10-23-19-56-15.png)
+![](2025-10-23-19-56-15.webp)
 
 ## plastic enclosure 
 

@@ -36,7 +36,7 @@ XBee modules support various communication protocols, including Zigbee, 802.15.4
 
 ## Xbee XB24 
 
-![](2025-10-25-19-30-28.png)
+![](2025-10-25-19-30-28.webp)
 
 - Packaging Tray: ②
 - Part Status: Discontinued

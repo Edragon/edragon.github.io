@@ -149,7 +149,7 @@ GPIO4:
 
 ![](2025-09-01-20-28-25.webp)
 
-![](2025-09-01-20-39-08.png)
+![](2025-09-01-20-39-08.webp)
 
 
 ## panel LED indicator 
@@ -166,11 +166,11 @@ LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15m
 
 - [[mosfet-dat]] 
 
-![](2026-01-19-13-14-43.png)
+![](2026-01-19-13-14-43.webp)
 
 - [[logic-dat]] convert for [[RPI-SBC-dat]]
 
-![](2026-01-31-16-22-50.png)
+![](2026-01-31-16-22-50.webp)
 
 
 

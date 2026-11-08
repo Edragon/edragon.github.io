@@ -37,7 +37,7 @@ front side
 
 - [[resistor-ICL-dat]] - [[power-adapter-dat]] == MF72 2.5D13
 
-![](2026-06-19-17-06-44.png)
+![](2026-06-19-17-06-44.webp)
 
 - [[capacitor-X2-dat]] - [[power-adapter-dat]] == 47K 300V-40/105/21 - [[capacitor-x-y-dat]]
 
@@ -70,7 +70,7 @@ JQH-22 2214 BCK-PQ32-5542B
 
 back side
 
-![](2026-06-19-16-46-45.png)
+![](2026-06-19-16-46-45.webp)
 
 
 - [[SCT-dat]] - [[SCT2650-dat]] == STC2650 == 4.5V-60V Vin, 5A, High Efficiency Step-down DCDC Converter with
@@ -88,7 +88,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 ### build 5 
 
-![](2026-06-19-15-10-05.png)
+![](2026-06-19-15-10-05.webp)
 
 - [[wayon-dat]] - [[power-adapter-dat]] - [[power-dat]] - [[acdc-dat]] - [[capacitor-safety-dat]]
 
@@ -109,7 +109,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 ![](2026-06-19-15-00-08.png)
 
-![](2026-06-19-15-00-25.png)
+![](2026-06-19-15-00-25.webp)
 
 - [[transformer-dat]] - [[power-adapter-dat]] - [[power-dat]] - [[acdc-dat]]
 
@@ -130,14 +130,14 @@ ZJNOG ZJN0G unknown
 - [[sheet-dat]] - [[sheet-metal-dat]] - [[power-adapter-dat]]
 
 
-![](2026-06-17-21-37-50.png)
+![](2026-06-17-21-37-50.webp)
 
 ![](2026-06-17-21-45-01.webp)
 
 
 ### build 1
 
-![](2026-06-15-17-44-25.png)
+![](2026-06-15-17-44-25.webp)
 
 ![](2026-06-15-17-45-41.png)
 
@@ -149,7 +149,7 @@ FS8623
 
 - [[fastsoc-dat]] - [[FS8623-dat]] - [[fast-charge-protocols-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[power-dat]] - [[acdc-dat]]
 
-![](2026-06-15-17-59-42.png)
+![](2026-06-15-17-59-42.webp)
 
 SOT23-5 
 

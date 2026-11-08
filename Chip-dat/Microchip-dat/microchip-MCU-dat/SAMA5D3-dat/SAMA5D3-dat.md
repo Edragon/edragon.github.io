@@ -15,6 +15,6 @@ https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocument
 
 ## diagram 
 
-![](2026-09-24-19-59-47.png)
+![](2026-09-24-19-59-47.webp)
 
 ## ref 

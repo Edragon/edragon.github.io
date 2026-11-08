@@ -3,7 +3,7 @@
 
 TPS54302 4.5-V to 28-V Input, 3-A Output, EMI-Friendly Synchronous Step-Down Converter
 
-![](2024-04-29-15-58-23.png)
+![](2024-04-29-15-58-23.webp)
 
 | Parts | Common Value | Note |
 | ----- | ------------ | ---- |
@@ -44,7 +44,7 @@ For this design example, use KIND = 0.35. The minimum inductor value is calculat
 
 SCH APP 1 
 
-![](2026-09-05-15-20-04.png)
+![](2026-09-05-15-20-04.webp)
 
 ## ref 
 

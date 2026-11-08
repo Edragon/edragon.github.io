@@ -27,7 +27,7 @@ https://www.sameskydevices.com/product/resource/sds-j.pdf
 
 ![](2026-09-13-15-00-18.webp)
 
-![](2026-09-13-15-00-38.png)
+![](2026-09-13-15-00-38.webp)
 
 
 ## ref 

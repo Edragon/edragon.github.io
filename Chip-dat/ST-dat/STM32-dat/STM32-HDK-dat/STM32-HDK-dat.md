@@ -83,7 +83,7 @@ stm32flash -w firmware.bin -v -g 0x0 /dev/ttyUSB0
 
 build 1 - [[STM32G431-dat]]
 
-![](2026-09-05-18-26-03.png)
+![](2026-09-05-18-26-03.webp)
 
 ## ref 
 

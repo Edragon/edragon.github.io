@@ -81,7 +81,7 @@ Only with a high-KV "1S-native" motor:
 
 
 ## types 
-![](2026-08-15-20-30-56.png)
+![](2026-08-15-20-30-56.webp)
 
 - [[battery-liHV-dat]]
 
@@ -96,7 +96,7 @@ TATTU 格氏 ACE 2S 3S 4S 450 650 850 mah 75c 锂电池 == 50 cny
 
 `550mah 2S 7.4V 95C == 34g` / 80 x 17 x 13 mm 
 
-![](2026-08-25-20-53-54.png)
+![](2026-08-25-20-53-54.webp)
 
 
 

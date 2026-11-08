@@ -14,4 +14,4 @@ I2S Output Digital Microphone
 
 ## Pin definitions 
 
-![](2025-04-02-15-09-07.png)
+![](2025-04-02-15-09-07.webp)

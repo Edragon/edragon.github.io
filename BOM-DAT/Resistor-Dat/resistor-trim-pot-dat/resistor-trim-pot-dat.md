@@ -50,7 +50,7 @@ However, this is not guaranteed, and you should always calibrate or measure the 
 
 ## RK097G 双联 B1K/5K/10K/20K/50K/100/500K 功放/密封电位器 6脚
 
-![](2026-02-12-14-19-24.png)
+![](2026-02-12-14-19-24.webp)
 
 
 - RK097N/B5K/单联3脚
@@ -78,7 +78,7 @@ However, this is not guaranteed, and you should always calibrate or measure the 
 - RK097G_B10K_双联6脚
 - RK097G_B20K_双联6脚
 
-![](2026-02-12-14-20-14.png)
+![](2026-02-12-14-20-14.webp)
 
 ![](2026-02-12-14-20-23.png)
 

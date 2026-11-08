@@ -39,7 +39,7 @@ MCP7940N == Battery-Backed I2C™ Real-Time Clock/Calendar with SRAM
 ## PCF8563
 
 
-![](2026-03-05-19-03-16.png)
+![](2026-03-05-19-03-16.webp)
 
 
 

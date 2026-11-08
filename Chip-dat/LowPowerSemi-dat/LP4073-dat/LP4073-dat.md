@@ -23,4 +23,4 @@ Features
 - RoHS Compliant and 100% Lead (Pb)-Free
 
 
-![](2026-06-02-19-53-17.png)
+![](2026-06-02-19-53-17.webp)

@@ -13,7 +13,7 @@ High Performance Automatic Speech Recognition processor
 
 ## SCH 
 
-![](2026-07-23-20-43-10.png)
+![](2026-07-23-20-43-10.webp)
 
 
 ## ref 

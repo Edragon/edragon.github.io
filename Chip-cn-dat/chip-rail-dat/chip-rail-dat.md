@@ -18,7 +18,7 @@ The CR6890A (silk-marked as 6890) in a SOT23-6 package is a high-integration, lo
 
 build 
 
-![](2026-07-27-14-42-23.png)
+![](2026-07-27-14-42-23.webp)
 
 
 

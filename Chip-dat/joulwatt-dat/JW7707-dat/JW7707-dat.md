@@ -13,7 +13,7 @@ JW®7707C is a synchronous rectifier for Flyback converters. It integrates a 60V
 
 60V, 13mΩ Synchronous Rectifier
 
-![](2026-06-19-15-40-41.png)
+![](2026-06-19-15-40-41.webp)
 
 
 ## QC7707 
@@ -22,7 +22,7 @@ QC7707 withstand Synchronous Rectifier Chip IC Charger Chip Alternative Schottky
 
 QC7707 is a synchronous rectifier diode integrated with 40V MOSFET. It is used to replace the rectifier diode of flyback converter.
 
-![](2026-06-19-15-41-03.png)
+![](2026-06-19-15-41-03.webp)
 
 ![](2026-06-19-15-44-49.png)
 

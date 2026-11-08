@@ -29,7 +29,7 @@ HV-module-dat
 
 dimension 
 
-![](2025-10-08-15-20-14.png)
+![](2025-10-08-15-20-14.webp)
 
 ## usage 
 

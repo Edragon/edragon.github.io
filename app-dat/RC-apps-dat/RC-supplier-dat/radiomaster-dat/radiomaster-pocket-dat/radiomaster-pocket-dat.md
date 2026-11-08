@@ -152,14 +152,14 @@ Offset: Change this from 0 to 50.
 
 Press the RTN (Return) button once to go back to the main `MIXES` list.
 
-![](2026-07-06-19-53-26.png)
+![](2026-07-06-19-53-26.webp)
 
 
 ### main setup at page 2 
 
 
 
-![](2026-06-25-23-58-16.png)
+![](2026-06-25-23-58-16.webp)
 
 ## SYS setup 
 
@@ -181,7 +181,7 @@ Look at the top text label—it will say H/W. This is your `Hardware page!`
 Press the `PAGE<` button to 7/7
 
 
-![](2026-06-25-23-58-56.png)
+![](2026-06-25-23-58-56.webp)
 
 
 ## Internal RF vs. External RF Settings
@@ -232,7 +232,7 @@ This controls the pinned expansion bay located on the back of the radio handset.
 
 > ⚠️ **One Final Reminder:** Now that your radio is outputting at 115,200 bps, you **must** open your ExpressLRS LUA script (Short press **SYS** $\rightarrow$ **ExpressLRS**) and drop your **Packet Rate** down to **50Hz** or **100Hz**. If you leave it at 250Hz or 500Hz, the 115,200 baud wire speed will instantly bottleneck and cause sensor errors.
 
-![](2026-06-25-23-59-38.png)
+![](2026-06-25-23-59-38.webp)
 
 
 
@@ -260,7 +260,7 @@ In the context of the RadioMaster Pocket, T1 and T4 refer to the horizontal trim
 
 ## all buttons 
 
-![](2025-09-15-00-53-56.png)
+![](2025-09-15-00-53-56.webp)
 
 ### Default Stick Assignments
 

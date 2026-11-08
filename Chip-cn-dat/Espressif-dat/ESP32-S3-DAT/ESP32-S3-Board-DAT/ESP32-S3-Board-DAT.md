@@ -18,7 +18,7 @@
 
 - [[NWI1243-dat]]
 
-![](2025-01-06-15-26-25.png)
+![](2025-01-06-15-26-25.webp)
 
 IO35 == LED
 IO48 == WS2812 
@@ -34,7 +34,7 @@ IO48 == WS2812
 
 IO19, IO20, CC1 CC2 pull-down 
 
-![](2025-07-10-17-28-15.png)
+![](2025-07-10-17-28-15.webp)
 
 
 
@@ -43,13 +43,13 @@ IO19, IO20, CC1 CC2 pull-down
 
 ## Other DEV board for reference 
 
-![](2025-01-06-16-11-53.png)
+![](2025-01-06-16-11-53.webp)
 
 ESP32-S3-ETH plus
 
 - [[W5500-dat]] - [[ws2812-dat]] - [[OV2640-dat]]
 
-![](ESP32-S3-ETH-Schematic.png)
+![](ESP32-S3-ETH-Schematic.webp)
 
 
 

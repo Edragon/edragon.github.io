@@ -24,7 +24,7 @@ Open the USB flash drive, edit the main.py file, click Save, and reset the MCU t
 
 ![](2024-10-08-17-35-01.png)
 
-![](2024-10-08-17-35-13.png)
+![](2024-10-08-17-35-13.webp)
 
 
 

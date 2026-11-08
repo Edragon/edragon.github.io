@@ -40,7 +40,7 @@ InputPlotter demo but this code is higher resolution:
 
 output arduino: 
 
-![](2024-12-26-14-52-31.png)
+![](2024-12-26-14-52-31.webp)
 
 
 

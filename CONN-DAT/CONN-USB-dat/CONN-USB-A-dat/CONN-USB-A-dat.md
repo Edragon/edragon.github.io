@@ -16,7 +16,7 @@ symbol == USB_A == USB Type A connector
 
 ![](2026-09-13-13-57-46.png)
 
-![](2025-10-10-18-26-34.png)
+![](2025-10-10-18-26-34.webp)
 
 
 ## type-A Female == receptacle
@@ -42,7 +42,7 @@ VBUS | D- | D+ | GND
 
 board sinked 
 
-![](2025-12-22-21-18-12.png)
+![](2025-12-22-21-18-12.webp)
 
 
 

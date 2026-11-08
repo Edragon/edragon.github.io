@@ -32,7 +32,7 @@
 - connection type 
 
 
-![](2023-10-08-15-38-37.png)
+![](2023-10-08-15-38-37.webp)
 
 ![](2023-10-08-15-38-48.webp)
 
@@ -45,7 +45,7 @@
 
 ## film type thermocouple 
 
-![](2023-10-08-15-47-03.png)
+![](2023-10-08-15-47-03.webp)
 
 
 ## high-temperature applications 

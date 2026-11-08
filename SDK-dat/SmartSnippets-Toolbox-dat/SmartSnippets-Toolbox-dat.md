@@ -16,18 +16,18 @@ specific the jlink location == [[jlink-dat]]
 
 ## usage 
 
-![](2025-09-24-15-42-27.png)
+![](2025-09-24-15-42-27.webp)
 
 
 4. Click "Open" to enter the configuration interface. Select the "Board Setup" menu, and configure the serial port and SPI FLASH pins in the programming tool according to the schematic (if using I2C EEPROM, select the I2C pins).
 
-![](2025-09-24-15-43-19.png)
+![](2025-09-24-15-43-19.webp)
 
 ### Board Setup
 
 Click "Board Setup" and configure according to the steps below.
 
-![](2025-09-24-15-45-11.png)
+![](2025-09-24-15-45-11.webp)
 
 ![](2025-09-25-12-58-42.webp)
 
@@ -43,7 +43,7 @@ Click "SPI Flash/EEPROM" and configure according to the steps below.
 
 - mac address manual setup 
 
-![](2025-09-25-13-14-12.png)
+![](2025-09-25-13-14-12.webp)
 
 
 
@@ -88,7 +88,7 @@ Click "SPI Flash/EEPROM" and configure according to the steps below.
 在擦除时要确保读回来的数据全为FF.
 
 
-![](2025-09-24-15-47-04.png)
+![](2025-09-24-15-47-04.webp)
 
 Next, import the hex firmware to be programmed. Click "Browse", then select the path of the firmware to be programmed, select it, and click "Open".
 
@@ -96,7 +96,7 @@ Next, import the hex firmware to be programmed. Click "Browse", then select the 
 
 After programming is complete, power cycle the development board. Open the nRF Connect APP to scan for the device, and you should be able to find it.
 
-![](2025-09-24-15-47-59.png)
+![](2025-09-24-15-47-59.webp)
 
 
 

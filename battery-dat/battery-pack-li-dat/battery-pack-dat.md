@@ -247,9 +247,9 @@ How it ruins other paralleled batteries:
 
 ## reference images 
 
-![](2025-07-23-19-30-54.png)
+![](2025-07-23-19-30-54.webp)
 
-![](2025-07-23-19-31-29.png)
+![](2025-07-23-19-31-29.webp)
 
 ![](2025-07-23-19-32-19.png)
 
@@ -265,7 +265,7 @@ Recommended tool: **EBC-A10H** Battery Capacity Tester (Charge/Discharge, Electr
 
 YR1035+
 
-![](2025-08-19-23-54-50.png)
+![](2025-08-19-23-54-50.webp)
 
 - [[meter-internal-resistance-dat]]
 

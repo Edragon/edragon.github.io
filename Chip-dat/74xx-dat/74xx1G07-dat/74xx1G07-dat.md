@@ -5,7 +5,7 @@ The 74HC1G07 is a single buffer with an open-drain output, part of the 74HC fami
 
 https://www.onsemi.com/download/data-sheet/pdf/mc74vhc1g07-d.pdf
 
-![](2024-11-22-17-23-21.png)
+![](2024-11-22-17-23-21.webp)
 
 ## Key Features:
 

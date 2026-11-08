@@ -59,7 +59,7 @@ This example demonstrates how to use the `esp_driver_cam` component to capture c
 2. Use a Type-C to USB cable to connect ESP32-P4 to your PC.
 3. Open the project, select the esp32p4 core, then click the 🔥 (build/flash/monitor) button. When complete, you should see the display showing the camera's real-time feed (example shown with ESP32-S3-Touch-AMOLED-1.8):
 
-![](2025-08-09-13-38-25.png)
+![](2025-08-09-13-38-25.webp)
 
 ### ETH To WiFi
 

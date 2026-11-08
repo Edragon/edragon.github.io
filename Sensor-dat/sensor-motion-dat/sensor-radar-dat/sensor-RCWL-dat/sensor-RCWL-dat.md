@@ -31,11 +31,11 @@ The signals emitted by millimeter-wave sensors fall within the high-frequency sp
 
 ## SCH 
 
-![](2026-07-23-19-28-07.png)
+![](2026-07-23-19-28-07.webp)
 
 ## dimension 
 
-![](2026-07-23-19-28-47.png)
+![](2026-07-23-19-28-47.webp)
 
 
 RCWL-0516 是一款采用多普勒雷达技术，专门检测物体移动的微波感应模块。采用2.7G 微波信号检测，该模块具有灵敏度高，感应距离远，可靠性强，感应角度大，供应电压范围宽等特点。

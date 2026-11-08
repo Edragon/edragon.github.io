@@ -43,7 +43,7 @@ New Wiring (default, use your own load's wire)
 - connnect [[AC-mains-dat]] input from the bottom blue and red wire 
 - connect the load to the top blue and red wire
 
-![](2025-06-12-16-02-42.png)
+![](2025-06-12-16-02-42.webp)
 
 Old Wiring (on-board sensor wire)
 

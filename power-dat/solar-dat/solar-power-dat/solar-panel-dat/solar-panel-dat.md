@@ -68,7 +68,7 @@ Types of Commercial Solar Panels and their structures
 
 ## PET Laminated Solar panel
 
-![](2024-01-16-18-26-46.png)
+![](2024-01-16-18-26-46.webp)
 
 ### MATERIALS
 
@@ -80,7 +80,7 @@ This allows good sunlight absorption while keeping the solar panel lightweight (
 
 other lamination 
 
-![](2025-07-24-15-05-46.png)
+![](2025-07-24-15-05-46.webp)
 
 ### PROCESS:
 
@@ -120,7 +120,7 @@ To prevent this, bypass diodes are used. These diodes allow the electricity to f
 
 on the window of the car
 
-![](2025-07-24-14-54-44.png)
+![](2025-07-24-14-54-44.webp)
 
 on the top of the car 
 

@@ -96,7 +96,7 @@ ref
 
 - Toggle Switch to left side to discard using P2 chain, and use free pin GPIO2 and GPIO3 
 
-![](2024-12-06-18-10-13.png)
+![](2024-12-06-18-10-13.webp)
 
 
 ## ref images 

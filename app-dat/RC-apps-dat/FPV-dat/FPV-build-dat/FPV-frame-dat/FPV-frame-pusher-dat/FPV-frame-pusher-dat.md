@@ -24,7 +24,7 @@ up-side down pusher frame
 
 ## normal 
 
-![](2026-10-05-14-22-47.png)
+![](2026-10-05-14-22-47.webp)
 
 
 ## pusher 

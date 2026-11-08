@@ -5,7 +5,7 @@ common materials == [[PVC-dat]]
 
 ## for battery insulation and protection
 
-![](2026-05-20-00-59-03.png)
+![](2026-05-20-00-59-03.webp)
 
 
 - 压扁宽度 = 17mm/5米（可套单节7号电池）
@@ -39,7 +39,7 @@ common materials == [[PVC-dat]]
 
 ![](2026-05-20-02-18-18.png)
 
-![](2026-05-20-02-20-01.png)
+![](2026-05-20-02-20-01.webp)
 
 - 竖套=（长+宽）
 - 横套=（高+宽）

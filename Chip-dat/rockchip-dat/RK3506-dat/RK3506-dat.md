@@ -1,7 +1,7 @@
 
 # RK3506-dat
 
-![](2024-12-26-16-56-18.png)
+![](2024-12-26-16-56-18.webp)
 
 RK3506 is a system-on-chip (SoC) that integrates A7 and M0 cores for smart IoT devices. It has multiple functions and rich interfaces, supports Linux operating system, and is suitable for a variety of application scenarios, such as smart home, building intercom, PLC and other AIoT solutions. The following is a chip introduction of RK3506, which is convenient for customers to select and define products.
 

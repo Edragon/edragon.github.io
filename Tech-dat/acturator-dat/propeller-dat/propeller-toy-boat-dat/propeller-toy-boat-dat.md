@@ -43,7 +43,7 @@
 
 ## protection 
 
-![](2026-08-04-19-14-09.png)
+![](2026-08-04-19-14-09.webp)
 
 ## Can you mount a propeller backwards?
 
@@ -72,7 +72,7 @@ Using a "counter-rotating" pair (one left-hand and one right-hand propeller) all
 
 ![](2026-06-17-21-08-58.png)
 
-![](2026-06-17-21-09-49.png)
+![](2026-06-17-21-09-49.webp)
 
 
 

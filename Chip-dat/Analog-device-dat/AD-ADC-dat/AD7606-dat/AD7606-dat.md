@@ -21,7 +21,7 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/AD7606_7606-
 
 diagram
 
-![](2026-09-03-15-54-10.png)
+![](2026-09-03-15-54-10.webp)
 
 
 

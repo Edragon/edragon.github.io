@@ -17,7 +17,7 @@ https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3-wroom-1_
 
 total pins 40
 
-![](52-29-22-05-03-2023.png)
+![](52-29-22-05-03-2023.webp)
 
 ![](14-31-22-05-03-2023.webp)
 
@@ -26,11 +26,11 @@ total pins 40
 - 型号：ESP32-S3-WR00M-1-N8R8 -- 8MFlash -- 8MPSRAM
 - 型号：ESP32-S3-WR00M-1-N16R8 -- 16MFlash -- 8MPSRAM
 
-![](2026-03-06-16-22-53.png)
+![](2026-03-06-16-22-53.webp)
 
 ## Module SCH 
 
-![](2025-01-06-15-39-37.png)
+![](2025-01-06-15-39-37.webp)
 
 ## Peripheral Schematics
 

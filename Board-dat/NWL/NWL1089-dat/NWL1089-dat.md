@@ -18,7 +18,7 @@ output high TTL when signal received
 
 ## dimension
 
-![](2025-06-26-14-19-53.png)
+![](2025-06-26-14-19-53.webp)
 
 
 ## Features 

@@ -44,7 +44,7 @@ https://cad.onshape.com/documents/707b8372a3c9ced9cde96289/v/ee73401f89c866bc221
 - measured witdth = 9 mm
 - measured hole = 5 mm
 
-![](2025-04-11-16-38-50.png)
+![](2025-04-11-16-38-50.webp)
 
 ## GT2_Timing_Pulley_20T_8B_5mm
 

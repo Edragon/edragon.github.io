@@ -24,7 +24,7 @@ build 1 - maybe the best all-in-one FPV camera canopy for analog camera
 
 https://www.printables.com/model/976803-betafpv-air-canopy-for-lower-cam-angles-for-air65
 
-![](2026-09-20-15-13-38.png)
+![](2026-09-20-15-13-38.webp)
 
 I printed the model in `nylon (PA12)` "Fiberlogy Nylon PA12 Natural", which results in excellent stability and durability. I assume that the original canopy is also made of nylon. 
 
@@ -36,7 +36,7 @@ If only `PLA or ABS` are available, I would reduce the material thickness to a m
 
 ## FPV camera canopy 
 
-![](2026-07-01-17-26-14.png)
+![](2026-07-01-17-26-14.webp)
 
 ![](2026-07-01-17-27-11.png)
 
@@ -46,7 +46,7 @@ digital DJI O3
 
 ![](2026-07-01-17-29-26.png)
 
-![](2026-07-01-17-32-23.png)
+![](2026-07-01-17-32-23.webp)
 
 
 - Item Name: Camera mount bracket for Mobula6 2024
@@ -85,7 +85,7 @@ https://www.printables.com/model/774692-mobula-7-8-hawkeye-thumb-camera-mount
 
 for insta360 go 2
 
-![](2025-09-12-13-18-59.png)
+![](2025-09-12-13-18-59.webp)
 
 ![](2025-09-12-13-19-59.png)
 

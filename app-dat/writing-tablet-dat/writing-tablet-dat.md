@@ -11,7 +11,7 @@
 
 - [[battery-holder-coin-dat]] - [[battery-holder-dat]] - [[writing-tablet-dat]] 
 
-![](2026-08-11-21-25-14.png)
+![](2026-08-11-21-25-14.webp)
 
 
 

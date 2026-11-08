@@ -7,7 +7,7 @@ https://www.electrodragon.com/product/quectel-gps-gnss-series-mini-module-versio
 
 ## product image 
 
-![](2024-10-02-20-59-43.png)
+![](2024-10-02-20-59-43.webp)
 
 
 ## V2 

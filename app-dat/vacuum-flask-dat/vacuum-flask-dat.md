@@ -12,21 +12,21 @@ unknown MJCAH
 
 ![](2026-06-19-16-28-48.png)
 
-![](2026-06-19-16-29-10.png)
+![](2026-06-19-16-29-10.webp)
 
 
 - [[conn-battery-dat]] - [[CONN-dat]]
 
 ![](2026-06-19-16-31-47.png)
 
-![](2026-06-19-16-31-57.png)
+![](2026-06-19-16-31-57.webp)
 
 - [[LTC4054-dat]] - [[battery-charger-dat]]
 
 - [[hack-dat]] - [[vacuum-flask-dat]]
 
 
-![](2026-06-19-16-33-03.png)
+![](2026-06-19-16-33-03.webp)
 
 
 - [[vacuum-flask-dat]] - [[button-spring-dat]] - [[button-dat]]

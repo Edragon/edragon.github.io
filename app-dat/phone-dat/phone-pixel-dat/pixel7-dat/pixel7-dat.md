@@ -12,9 +12,9 @@ middle display screen rack
 
 ![](2025-11-12-18-41-17.png)
 
-![](2025-11-12-18-41-32.png)
+![](2025-11-12-18-41-32.webp)
 
-![](2025-11-12-18-42-48.png)
+![](2025-11-12-18-42-48.webp)
 
 ## burned power unit 
 
@@ -27,12 +27,12 @@ middle display screen rack
 
 lifted the battery up 
 
-![](2025-11-12-18-44-22.png)
+![](2025-11-12-18-44-22.webp)
 
 
 ## this looks like a back cover 
 
-![](2025-11-12-18-43-11.png)
+![](2025-11-12-18-43-11.webp)
 
 ## inside first layer 
 

@@ -71,7 +71,7 @@ small size
 
 - [[button-toggle-dat]] for - [[light-flash-dat]] - [[light-dat]] - [[light-app-dat]]
 
-![](2026-06-16-20-48-19.png)
+![](2026-06-16-20-48-19.webp)
 
 - [[battery-protector-dat]] - [[DW06-dat]]
 
@@ -79,7 +79,7 @@ small size
 
 ## SCH 
 
-![](2026-07-23-17-28-22.png)
+![](2026-07-23-17-28-22.webp)
 
 ## ref 
 

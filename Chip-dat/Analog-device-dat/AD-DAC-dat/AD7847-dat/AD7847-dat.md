@@ -21,7 +21,7 @@ A novel low leakage configuration ensures low offset errors overthe specified te
 
 ## SCH 
 
-![](2026-09-29-16-43-39.png)
+![](2026-09-29-16-43-39.webp)
 
 
 ## ref 

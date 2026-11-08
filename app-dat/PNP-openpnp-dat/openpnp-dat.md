@@ -61,7 +61,7 @@ overview
 
 ![](2025-02-13-16-57-26.png)
 
-![](2025-02-13-16-57-39.png)
+![](2025-02-13-16-57-39.webp)
 
 #### DIY Pick and Place by Teton Technology
 
@@ -88,7 +88,7 @@ DIY Pick and Place by Teton Technology – An Open Source DIY cartesian PnP mach
 
 ### electronics 
 
-![](2025-02-13-16-59-27.png)
+![](2025-02-13-16-59-27.webp)
 
 - [[motion-control-system-dat]]
 

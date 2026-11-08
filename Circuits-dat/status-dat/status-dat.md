@@ -1,7 +1,7 @@
 
 # status-dat
 
-![](2024-07-05-19-04-29.png)
+![](2024-07-05-19-04-29.webp)
 
 Table 13: NETLIGHT pin status
 | NETLIGHT pin status | Module status                                                                            |

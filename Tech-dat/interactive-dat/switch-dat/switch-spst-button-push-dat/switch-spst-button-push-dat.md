@@ -22,7 +22,7 @@ press to connect, release to diconnect
 
 ![](2025-01-09-16-12-42.png)
 
-![](2025-01-09-16-13-42.png)
+![](2025-01-09-16-13-42.webp)
 
 
 
@@ -32,7 +32,7 @@ press to connect, release to diconnect
 
 Mini Push Button Momentary Switch - SPST : 30-040
 
-![](2025-12-19-14-02-42.png)
+![](2025-12-19-14-02-42.webp)
 
 
 ## KCD1 
@@ -45,7 +45,7 @@ Red Light 6A@250VAC ON/OFF DPST Snap in Panel
 
 ![](2025-06-17-17-43-08.png)
 
-![](2025-10-18-16-47-02.png)
+![](2025-10-18-16-47-02.webp)
 
 - [[ISB1036-dat]] - [[ISB-dat]]
 

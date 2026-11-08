@@ -238,7 +238,7 @@ A microcontroller talking to a cellular modem (SIMCom, Quectel) over UART often 
 
 USB无线接收模块 27.1383M晶振 接收模块 1813dCV222
 
-![](2026-06-16-20-26-49.png)
+![](2026-06-16-20-26-49.webp)
 
 - [[LTC4054-dat]]
 

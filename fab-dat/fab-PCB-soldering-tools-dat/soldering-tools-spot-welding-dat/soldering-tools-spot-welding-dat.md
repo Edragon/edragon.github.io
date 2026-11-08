@@ -30,7 +30,7 @@ This is the most common manual disassembly method. The core technique is "rollin
 - **"Sushi Roll" Technique:** Never pull straight up vertically (this can deform or puncture the battery's positive cap). Instead, grip one end of the nickel strip and rotate the pliers in one direction—like opening a can or rolling sushi—to slowly wind the nickel strip around the plier jaws.
 - **Clean Up:** After removing the main strip, small protrusions (residual weld spots) often remain. Use the tip of the diagonal cutters to carefully flatten or snip them off.
 
-![](2026-06-07-15-00-23.png)
+![](2026-06-07-15-00-23.webp)
 
 ### Method 2: Using a Micro Rotary Tool or Sandpaper (For Precision)
 Ideal if you want to avoid physical stress on the battery or desire a perfectly smooth finish.

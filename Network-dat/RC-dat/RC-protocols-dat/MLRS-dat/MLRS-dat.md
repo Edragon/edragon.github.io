@@ -6,7 +6,7 @@
 
 - [[fixed-wing-dat]] - [[MLRS-dat]] - [[RC-protocols-dat]]
 
-![](2026-10-29-17-07-46.png)
+![](2026-10-29-17-07-46.webp)
 
 
 

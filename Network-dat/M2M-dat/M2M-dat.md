@@ -82,7 +82,7 @@ CAT-NB
 - check supported countries by here: https://en.wikipedia.org/wiki/List_of_LTE_networks
 - check by sepcific country: https://www.frequencycheck.com/countries
 - interactive map: https://worldpopulationreview.com/country-rankings/lte-bands-by-country
-![](2024-07-03-18-08-51.png)
+![](2024-07-03-18-08-51.webp)
 
 
 ## Functions 

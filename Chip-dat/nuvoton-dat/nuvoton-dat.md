@@ -92,9 +92,9 @@ https://github.com/OpenNuvoton/ISPTool/releases/tag/v4.15
 
 - [[ICP-dat]]
 
-![](2025-05-16-17-14-34.png)
+![](2025-05-16-17-14-34.webp)
 
-![](2026-02-11-01-10-24.png)
+![](2026-02-11-01-10-24.webp)
 
 ## repo
 

@@ -49,7 +49,7 @@ voltage input from the right side 9~36V, and measure current on the right side t
 
 pin 4~7 == current output 
 
-![](2025-02-02-17-36-59.png)
+![](2025-02-02-17-36-59.webp)
 
 
 ## demos 

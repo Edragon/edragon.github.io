@@ -32,7 +32,7 @@ Male / Left and Female / Right Type Connector
 
 A common Convert board
 
-![](2024-08-08-17-29-43.png)
+![](2024-08-08-17-29-43.webp)
 
 
 | male conn | male pin | female conn | female pin |

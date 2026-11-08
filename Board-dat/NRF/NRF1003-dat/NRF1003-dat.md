@@ -26,7 +26,7 @@ on board chip refer to [[EV1527-dat]]
 
 ![](2026-05-14-18-57-29.webp)
 
-![](2026-05-14-18-57-40.png)
+![](2026-05-14-18-57-40.webp)
 
 
 ## Applications, category, tags, etc. 

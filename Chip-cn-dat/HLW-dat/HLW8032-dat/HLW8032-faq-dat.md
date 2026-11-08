@@ -21,7 +21,7 @@ Typical applications include smart plugs and charging stations. The module outpu
 
 ### Special Note
 
-![](2024-12-08-16-32-50.png)
+![](2024-12-08-16-32-50.webp)
 
 When measuring low-power devices (e.g., ~3W), the module updates current and power readings slowly, taking approximately 8 seconds. Similarly, it may take about 5 seconds to detect no load after a device is disconnected.
 

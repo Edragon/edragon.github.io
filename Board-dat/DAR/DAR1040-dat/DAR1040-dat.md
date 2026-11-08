@@ -11,7 +11,7 @@ on board - [[serial-dat]] - [[CH340-dat]]
 
 https://www.electrodragon.com/product/edarduino-nano-c-new-usb-ch340/
 
-![](2024-01-13-10-33-25.png)
+![](2024-01-13-10-33-25.webp)
 
 ![](2024-01-13-10-35-22.webp)
 

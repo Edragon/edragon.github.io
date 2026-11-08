@@ -26,7 +26,7 @@ Suppose there are six LoRa devices: Device A, B, C, D, E, and F, forming a packe
     - When Devices A, C, D, or E send data streams (e.g., Device A sends `FF FE 12 AA`), Device B can listen and receive the data stream.
     - When Device F (with a non-matching channel, `65` Hex: `0x41`) sends a data stream, Device B fails to listen and receive.
 
-![](2025-06-26-19-33-23.png)
+![](2025-06-26-19-33-23.webp)
 
 ---
 

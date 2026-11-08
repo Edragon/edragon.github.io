@@ -27,7 +27,7 @@ Due to the unique combination of performance, security and flexibility, this mod
 
 ![](2024-06-25-17-07-01.png)
 
-![](2024-07-03-16-32-36.png)
+![](2024-07-03-16-32-36.webp)
 
 
 

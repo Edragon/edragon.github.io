@@ -18,7 +18,7 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 
 ## Panel Specifications
 
-![](39-44-14-03-08-2023.png)
+![](39-44-14-03-08-2023.webp)
 
 | type | dots  | size CM   |
 | ---- | ----- | --------- |
@@ -63,7 +63,7 @@ chip list
 
 - chip == TC5020AP JC5020 
 
-![](2026-03-20-22-14-11.png)
+![](2026-03-20-22-14-11.webp)
 
 
 ## 64 x 64

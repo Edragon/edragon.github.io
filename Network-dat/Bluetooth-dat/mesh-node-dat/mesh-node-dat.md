@@ -7,7 +7,7 @@
 
 ![](2024-05-15-16-52-35.png)
 
-![](2024-05-15-16-53-46.png)
+![](2024-05-15-16-53-46.webp)
 
 - Relay nodes: These need to always be awake and therefore consume more power. Relay nodes function to receive and forward message packets across the network. In our lighting example, relay nodes will be mains powered, so it is unlikely they would have energy supply concerns.
 - Low-power nodes: These nodes are usually battery powered and are typically in a power-saving sleep mode for the majority of the time.

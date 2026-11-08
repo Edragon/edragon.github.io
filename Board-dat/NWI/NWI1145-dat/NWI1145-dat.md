@@ -3,7 +3,7 @@
 
 https://www.electrodragon.com/product/esp32-pico-kit-dev-board-v4/
 
-![](2024-02-28-16-37-12.png)
+![](2024-02-28-16-37-12.webp)
 
 ![](2024-02-28-16-41-03.png)
 

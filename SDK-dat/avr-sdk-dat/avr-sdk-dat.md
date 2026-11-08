@@ -69,7 +69,7 @@ legacy wiki page - https://w.electrodragon.com/w/Category:Arduino#Burning_bootlo
 
 ICSP 6pins 
 
-![](2024-06-18-19-03-39.png)
+![](2024-06-18-19-03-39.webp)
 
 ![](2026-05-27-12-46-48.png)
 

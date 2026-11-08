@@ -22,7 +22,7 @@ FTDI's FT232R technical specifications, attributes, parameters, and parts with s
 
 ## Chip Pinout 
 
-![](2025-05-22-18-45-54.png)
+![](2025-05-22-18-45-54.webp)
 
 ## Pin Maps 
 

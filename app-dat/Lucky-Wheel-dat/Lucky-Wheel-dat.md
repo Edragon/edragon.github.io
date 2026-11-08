@@ -1,7 +1,7 @@
 # Lucky-Wheel-dat
 
 
-![](2025-11-14-19-08-16.png)
+![](2025-11-14-19-08-16.webp)
 
 ## Description
 
@@ -13,7 +13,7 @@ You can assign numbers 1–10 to different items or tasks. The number correspond
 
 The kit uses NE555 and CD4017 chips to randomly control the LED output. The control can be triggered by a button or a vibration switch. Simply press the button or shake the device, and the LEDs will start spinning. After a while, the spinning stops and only one LED remains lit.
 
-![](2025-11-14-19-09-14.png)
+![](2025-11-14-19-09-14.webp)
 
 
 

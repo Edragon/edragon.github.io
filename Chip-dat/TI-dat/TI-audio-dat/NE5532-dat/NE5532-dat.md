@@ -19,7 +19,7 @@ NE5532x, SA5532x Dual Low-Noise Operational Amplifiers
 
 VCC+ Supply voltage: 5 ~ 15 V
 
-![](2024-10-27-14-25-55.png)d
+![](2024-10-27-14-25-55.webp)d
 
 
 ## audio amplifier SCH 

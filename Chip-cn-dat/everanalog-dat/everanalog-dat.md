@@ -16,7 +16,7 @@ EA8103 == Ultra Low Quiescent Current 1.2A Sync. Buck Converter
 
 ## build 
 
-![](2026-09-05-16-27-29.png)
+![](2026-09-05-16-27-29.webp)
 
 ## ref 
 

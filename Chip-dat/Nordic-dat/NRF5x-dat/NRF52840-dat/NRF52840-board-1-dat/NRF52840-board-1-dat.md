@@ -93,7 +93,7 @@ To further clarify:#
 - P0.13 on VCC shuts off the power to VCC when you set it to high
 This saves on battery immensely for LEDs of all kinds that eat power even when off
 
-![](2026-02-10-16-39-48.png)
+![](2026-02-10-16-39-48.webp)
 
 
 

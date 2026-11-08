@@ -20,7 +20,7 @@ size definitions
 - define the pixels, for example your raw bitmap image size is 620 x 480 px 
 - define the import scale, for exmample 1.0 
 
-![](2026-04-02-16-59-10.png)
+![](2026-04-02-16-59-10.webp)
 
 
 
@@ -35,17 +35,17 @@ saved file size is 430 x 150 px
 
 2. import in eagleCAD brd, 
 
-![](2026-03-12-02-12-19.png)
+![](2026-03-12-02-12-19.webp)
 
 PCB size rougly 90 x 60 mm  
 
 import only color black to use 
 
-![](2026-03-12-02-14-57.png)
+![](2026-03-12-02-14-57.webp)
 
 scale 1 will be too big for this PCB size, size scale 0.1 looks good 
 
-![](2026-03-12-02-18-02.png)
+![](2026-03-12-02-18-02.webp)
 
 finally copy paste to layer 21 tplace 
 

@@ -17,7 +17,7 @@ The ARM Cortex-M3 is a next generation core that offers better performance than 
 32-bit ARM Cortex-M3 microcontroller; up to 512 kB flash and 96 kB SRAM; USB Device/Host/OTG; Ethernet; LCD; EMC
 
 
-![](2026-11-03-16-19-42.png)
+![](2026-11-03-16-19-42.webp)
 
 
 

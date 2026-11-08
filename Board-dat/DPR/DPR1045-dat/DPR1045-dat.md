@@ -58,7 +58,7 @@ setup
 
 upload arduino sketch using "upload using programmer" options in the menu, DO NOT use "upload" button
 
-![](2023-12-13-14-38-35.png)
+![](2023-12-13-14-38-35.webp)
 
 - mess uploading by [[AVRDUDE-dat]]
 
@@ -82,7 +82,7 @@ blink PB3 == 3
     delay(1000);                       // wait for a second
   }
 
-![](2025-06-30-18-16-32.png)
+![](2025-06-30-18-16-32.webp)
 
 ## ref 
 

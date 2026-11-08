@@ -52,7 +52,7 @@
 
 `PMS307416A` == Synchronous Dynamic RAM == 2048K Words x 16 Bits x 4 Banks (128-MBIT)
 
-![](2026-04-04-14-33-48.png)
+![](2026-04-04-14-33-48.webp)
 
 Features   
 - Clock frequency: 166, 133 MHz   

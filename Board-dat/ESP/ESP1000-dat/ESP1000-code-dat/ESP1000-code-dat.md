@@ -9,7 +9,7 @@ https://github.com/Edragon/Arduino-ESP32/tree/master/BSP/ESP/ESP1000-ESP32-tori
 
 rtos-cam-web-2.ino 
 
-![](2025-07-26-17-23-44.png)
+![](2025-07-26-17-23-44.webp)
 
 ![](2025-07-26-17-23-54.webp)
 

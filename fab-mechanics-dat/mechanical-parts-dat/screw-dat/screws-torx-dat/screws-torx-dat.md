@@ -10,7 +10,7 @@ T5, T6, T8 Torx screwdrivers
 - T8
 - T10
 
-![](2026-06-23-19-10-12.png)
+![](2026-06-23-19-10-12.webp)
 
 - [[screws-torx-dat]] - [[screw-dat]] - [[screw-uncommon-dat]]
 

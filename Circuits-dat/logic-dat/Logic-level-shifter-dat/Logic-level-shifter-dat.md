@@ -154,7 +154,7 @@ simple passive solutions V2, resistors 1:2
 
 simple passive solutions V1, resistors 1:2
 
-![](2026-05-03-16-08-41.png)
+![](2026-05-03-16-08-41.webp)
 
 
 
@@ -163,7 +163,7 @@ simple passive solutions V1, resistors 1:2
 
 via chip 
 
-![](2025-07-10-18-34-29.png)
+![](2025-07-10-18-34-29.webp)
 
 - Diode + pull-up resistor on RXD 
 

@@ -20,7 +20,7 @@ voltage drop across the sense resistor RCS to provide the current signals requir
 
 The full-scale charge current, namely the charge current in constant current mode, is decided by the following formula: 
 
-![](2025-08-27-18-22-27.png)
+![](2025-08-27-18-22-27.webp)
 
 Ich = 200mv / Rcs 
 

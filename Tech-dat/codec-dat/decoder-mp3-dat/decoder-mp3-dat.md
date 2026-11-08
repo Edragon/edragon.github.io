@@ -25,7 +25,7 @@ legacy wiki page - https://www.electrodragon.com/w/MP3_Decoder
 
 - [[WTV020SD-dat]]
 
-![](2026-03-05-02-13-13.png)
+![](2026-03-05-02-13-13.webp)
 
 
 

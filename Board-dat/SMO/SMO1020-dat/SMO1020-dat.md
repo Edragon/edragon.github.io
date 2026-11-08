@@ -32,7 +32,7 @@ Immersion Gold PCB, Machine Soldering Process Ensures Quality
 Pin Pitch: 2.54mm
 
 
-![](2026-01-19-12-40-21.png)
+![](2026-01-19-12-40-21.webp)
 
 
 ## pin definitions 

@@ -10,7 +10,7 @@ e:\work-data\IDF
 
 e:\work-data\IDF_tools
 
-![](2025-07-29-17-50-56.png)
+![](2025-07-29-17-50-56.webp)
 
 ## vs-code extension 
 
@@ -52,13 +52,13 @@ After creating and opening the project, you will see a typical VS Code project s
 
 ![](2025-08-09-12-41-19.png)
 
-![](2025-08-09-12-41-29.png)
+![](2025-08-09-12-41-29.webp)
 
 ## VS Code Bottom Toolbar Overview
 
 When you open an ESP-IDF project, the bottom toolbar in VS Code automatically loads the environment. For ESP32-P4-NANO development, this toolbar is especially important:
 
-![](2025-08-09-12-41-46.png)
+![](2025-08-09-12-41-46.webp)
 
 - **ESP-IDF Version Manager**: Manage multiple ESP-IDF versions and switch between them as needed for different projects.
 - **COM Port Selector**: Choose the port to flash your compiled program onto the chip.
@@ -78,7 +78,7 @@ When you open the Hello World example, set the target port and chip type. **Note
 
 Use the bottom toolbar's fire icon to build, flash, and monitor. You should see "Hello World!" output in the terminal.
 
-![](2025-08-09-12-42-36.png)
+![](2025-08-09-12-42-36.webp)
 
 ## Code Explanation
 

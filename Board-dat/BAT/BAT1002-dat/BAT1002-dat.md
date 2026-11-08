@@ -26,7 +26,7 @@ The open drain status output that is not used should be tied to ground.
 
 charge by USB or [[solar-dat]]
 
-![](2026-04-28-13-08-44.png)
+![](2026-04-28-13-08-44.webp)
 
 
 not clearly show on this image, but it is working fine 

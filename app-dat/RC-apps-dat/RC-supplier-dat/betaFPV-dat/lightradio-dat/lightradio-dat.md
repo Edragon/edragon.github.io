@@ -6,7 +6,7 @@
 
 ![](2025-09-22-19-07-59.webp)
 
-![](2025-09-22-19-08-14.png)
+![](2025-09-22-19-08-14.webp)
 
 
 ## Lightradio 3 Pro 
@@ -14,7 +14,7 @@
 - professional version 
 - build-in OLED display 
 
-![](2025-05-04-15-34-48.png)
+![](2025-05-04-15-34-48.webp)
 
 Choice of two protocols:
 

@@ -32,9 +32,9 @@ USB 3.0, also known as SuperSpeed USB, introduced several significant improvemen
 
 SCH 1 
 
-![](2026-09-24-22-43-54.png)
+![](2026-09-24-22-43-54.webp)
 
-![](2026-09-24-22-44-04.png)
+![](2026-09-24-22-44-04.webp)
 
 
 ## ref 

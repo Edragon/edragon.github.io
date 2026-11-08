@@ -5,7 +5,7 @@ AMT1001
 https://www.electrodragon.com/product/amt1001-module-resistive-temperature-humidity-sensor/
 
 
-![](2024-03-21-17-08-42.png)
+![](2024-03-21-17-08-42.webp)
 
 
 ![](2024-03-21-17-08-55.png)

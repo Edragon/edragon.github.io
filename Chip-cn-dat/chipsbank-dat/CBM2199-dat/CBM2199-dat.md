@@ -4,7 +4,7 @@
 
 - [[chipsbank-dat]] - [[CBM2199-dat]]
 
-![](2026-06-02-19-58-34.png)
+![](2026-06-02-19-58-34.webp)
 
 https://www.usbdev.ru/files/chipsbank/cbm2199umptool/
 

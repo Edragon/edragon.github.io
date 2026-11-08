@@ -16,7 +16,7 @@ two types - [[RC-RF-bay-nano-dat]] - [[RC-RF-bay-JR-dat]] == converter - [[RC-RF
 
 ## interface 
 
-![](2026-11-06-03-41-13.png)
+![](2026-11-06-03-41-13.webp)
 
 
 

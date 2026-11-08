@@ -157,7 +157,7 @@ In AC-DC switching power supply design, the main difference between **Primary-Si
 
 ## function map 
 
-![](2024-08-28-15-15-13.png)
+![](2024-08-28-15-15-13.webp)
 
 
 ## soltuions 
@@ -231,7 +231,7 @@ Chip Solutions
 
 ### build 10 
 
-![](2026-10-14-03-06-11.png)
+![](2026-10-14-03-06-11.webp)
 
 [[3A222J-dat]] - [[capacitor-dat]] 
 
@@ -256,9 +256,9 @@ Chip Solutions
 
 - [[THR-dat]] - [[TVR-dat]] - [[fuse-dat]] == - [[Thermistor-dat]] - [[Varistor-dat]]
 
-![](2026-08-11-21-14-14.png)
+![](2026-08-11-21-14-14.webp)
 
-![](2026-08-11-21-14-36.png)
+![](2026-08-11-21-14-36.webp)
 
 F1 == fuse, LF1 LF2 == [[choke-common-mode-dat]] - [[choke-dat]] 
 
@@ -292,13 +292,13 @@ CX1 == [[capacitor-x-y-dat]]
 
 - [[mosfet-dat]] - 4485 - [[diode-dat]] - MBR10150
 
-![](2026-07-31-19-03-56.png)
+![](2026-07-31-19-03-56.webp)
 
 ![](2026-07-31-19-04-07.webp)
 
 - [[LM358-dat]] - [[ACDC-dat]] - 4890 ? - 
 
-![](2026-07-31-19-04-35.png)
+![](2026-07-31-19-04-35.webp)
 
 
 ### build 7 
@@ -309,7 +309,7 @@ in these two similar designs, on the DC left side, bottom board uses two [[diode
 
 - [[XL1509-dat]] - AS358 - [[LM358-dat]] - top side board, has [[led-driver-dat]]
 
-![](2026-07-27-14-44-46.png)
+![](2026-07-27-14-44-46.webp)
 
 
 
@@ -337,7 +337,7 @@ LYNRJ 37021
 
 ### build 4 
 
-![](2026-06-19-17-46-50.png)
+![](2026-06-19-17-46-50.webp)
 
 unknown chip - [[chip-unknown-dat]]
 
@@ -350,7 +350,7 @@ unknown chip - [[chip-unknown-dat]]
 
 ### build 3 
 
-![](2026-06-18-21-18-27.png)
+![](2026-06-18-21-18-27.webp)
 
 - AZH6MA 
 
@@ -365,7 +365,7 @@ unknown chip - [[chip-unknown-dat]]
 
 ### build 1 
 
-![](2026-05-23-17-50-45.png)
+![](2026-05-23-17-50-45.webp)
 
 - [[capacitor-X2-dat]] - [[capacitor-dat]]
 
@@ -374,7 +374,7 @@ unknown chip - [[chip-unknown-dat]]
 - [[fuse-dat]]
 
 
-![](2026-05-23-17-54-08.png)
+![](2026-05-23-17-54-08.webp)
 
 
 - [[resistor-ICL-dat]] - [[resistor-dat]]
@@ -401,7 +401,7 @@ The Forward converter is essentially an **isolated version of the Buck converter
   * The Two-Switch Forward returns energy stored in the transformer back to the input rails via two clamping diodes, limiting switch voltage stress strictly to the input voltage ($V_{in}$). High reliability.
 * **Typical Power Range:** Low to Medium ($100\text{ W} \sim 500\text{ W}$).
 
-![](2026-07-25-19-35-16.png)
+![](2026-07-25-19-35-16.webp)
 
 ---
 
@@ -434,7 +434,7 @@ The Full-Bridge topology uses four switches arranged in an H-bridge configuratio
 * **Typical Power Range:** High Power ($1\text{ kW} \sim 10\text{ kW}+$, e.g., EV On-Board Chargers, server power supplies, high-power solar inverters).
 
 
-![](2026-07-25-19-34-13.png)
+![](2026-07-25-19-34-13.webp)
 ---
 
 ### Summary Comparison

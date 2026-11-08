@@ -25,11 +25,11 @@ datasheet
 ## EMC RECOMMENDED CIRCUIT
 
 
-![](2025-05-20-12-34-54.png)
+![](2025-05-20-12-34-54.webp)
 
 
 ## Recommended circuit
-![](2025-05-20-12-35-45.png)
+![](2025-05-20-12-35-45.webp)
 
 
 ## Dimension 

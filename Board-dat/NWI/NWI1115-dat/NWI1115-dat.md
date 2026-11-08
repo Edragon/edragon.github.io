@@ -50,9 +50,9 @@ https://w.electrodragon.com/w/ESP_Relay_Board_VDC
 * V4.1 pin headers changed to two group. RST, ADC and DHT_IO16 pins on left side now.
 
 
-![](2024-04-22-15-15-47.png)
+![](2024-04-22-15-15-47.webp)
 
-![](2024-04-22-15-16-13.png)
+![](2024-04-22-15-16-13.webp)
 
 ![](2024-04-22-15-16-31.png)
 

@@ -4,7 +4,7 @@
 
 - [[matrix-display-driver-dat]] - [[led-mono-matrix-dat]]
 
-![](2026-02-11-18-46-36.png)
+![](2026-02-11-18-46-36.webp)
 
 ![](2026-02-11-18-48-12.png)
 

@@ -13,7 +13,7 @@ two side open, size 50 x 50 mm
 
 49-27-14
 
-![](2025-07-18-13-57-39.png)
+![](2025-07-18-13-57-39.webp)
 
 
 
@@ -21,7 +21,7 @@ raspberry pi 2 semi-transparent case
 
 - [[RPI-SBC-dat]] - [[RPI3-dat]]
 
-![](2025-11-28-13-19-21.png)
+![](2025-11-28-13-19-21.webp)
 
 [[JLINK-dat]] case == dimension == 103 x 53 x 27 mm 
 
@@ -33,14 +33,14 @@ raspberry pi 2 semi-transparent case
 
 外尺寸60*40*20mm
 
-![](2025-12-27-15-46-34.png)
+![](2025-12-27-15-46-34.webp)
 
 
-![](2025-12-27-15-47-33.png)
+![](2025-12-27-15-47-33.webp)
 
 
 
-![](2025-12-27-15-48-24.png)
+![](2025-12-27-15-48-24.webp)
 ## ref 
 
 - [[case-gadget-dat]]

@@ -35,7 +35,7 @@ The quiescent supply current is typically 15μA atswitch on state. At switch off
 
 SCH 1 
 
-![](2026-09-05-15-20-46.png)
+![](2026-09-05-15-20-46.webp)
 
 SCH 2 
 

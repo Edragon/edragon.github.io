@@ -7,7 +7,7 @@ chip info, datasheet, etc.
 
 - [datasheet](https://www.vlsi.fi/en/products/vs1003.html)
 
-![](2025-04-01-15-11-14.png)
+![](2025-04-01-15-11-14.webp)
 
 VS1003 is a versatile slave MP3 and WMA decoder chip, replacing the discontinued VS1002. 
 

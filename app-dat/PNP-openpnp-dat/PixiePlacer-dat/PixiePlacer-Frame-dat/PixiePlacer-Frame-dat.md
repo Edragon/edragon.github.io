@@ -177,7 +177,7 @@ M5_T_Nut + Socket_Cap_Screw_M5x10mm
 
 Add the 2x Alu_Extrusion_Bed_Support_520mm and connect them with Alu_L_Bracket.
 
-![](2.png)
+![](2.webp)
 
 3. Y axis and rails 
 
@@ -200,7 +200,7 @@ Bolt the Bottom_Mounting_Plate to the underside of the machine.
 
 ![](6.jpeg)
 
-![](Frame_Assembly.png)
+![](Frame_Assembly.webp)
 
 
 

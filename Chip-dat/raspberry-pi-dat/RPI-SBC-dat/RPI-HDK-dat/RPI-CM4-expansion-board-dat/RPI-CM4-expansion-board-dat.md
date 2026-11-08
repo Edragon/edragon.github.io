@@ -19,11 +19,11 @@ EEPROM write protect = Jumper Pins 3-4
 
 [[BCM2711-dat]] boot
 
-![](2025-10-26-20-42-15.png)
+![](2025-10-26-20-42-15.webp)
 
 [[power-dat]] by 12V and [[USB-dat]] connected
 
-![](2025-10-26-20-45-00.png)
+![](2025-10-26-20-45-00.webp)
 
 
 ## jumpers 
@@ -54,7 +54,7 @@ boot mode
 
 ### IO Expansion board 
 
-![](2023-10-27-16-53-47.png)
+![](2023-10-27-16-53-47.webp)
 
 diagram 
 
@@ -93,7 +93,7 @@ diagram
 
 #### Functions 
 
-![](2024-11-22-19-26-09.png)
+![](2024-11-22-19-26-09.webp)
 
 - nRPIBOOT = pin 93 = [[raspbian-os-dat]]
 

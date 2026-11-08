@@ -29,7 +29,7 @@ Ceramic Disc Capacitors Safety, Class X1/Y2 400/250 V (AC) Series DN
 - [[capacitor-X2-dat]] - [[capacitor-dat]] - [[capacitor-x-y-dat]]
 
 
-![](2026-05-23-17-51-56.png)
+![](2026-05-23-17-51-56.webp)
 
 ## X - Y capacitor 
 

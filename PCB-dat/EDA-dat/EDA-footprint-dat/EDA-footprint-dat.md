@@ -14,7 +14,7 @@ drill and diameter
 
 0.4 width x 1.16 length 
 
-![](2026-04-20-17-14-58.png)
+![](2026-04-20-17-14-58.webp)
 
 
 

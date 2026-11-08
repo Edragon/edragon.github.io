@@ -17,7 +17,7 @@
 
 The integrated ultrasonic proximity module provides non-contact distance sensing from 20 cm to 600 cm. The module integrates a transmitter/receiver transducer and control circuitry. The separate probe includes a 2.5 m cable.
 
-![](2025-12-12-18-39-09.png)
+![](2025-12-12-18-39-09.webp)
 
 ### Specifications
 
@@ -102,7 +102,7 @@ Mode 1 — HC-SR04 compatible trigger mode
 - Distance calculation: distance = (ECHO_high_time × speed_of_sound) / 2 (speed ≈ 340 m/s).
 - Typical current (active average): ~6 mA.
 
-![](2025-12-12-18-36-36.png)
+![](2025-12-12-18-36-36.webp)
 
 Mode 2 — Low-power trigger mode
 

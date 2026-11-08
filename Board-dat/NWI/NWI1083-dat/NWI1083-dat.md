@@ -9,7 +9,7 @@ https://w.electrodragon.com/w/Category:ESP8266_HDK
 
 ## SCH 
 
-![](2024-01-02-17-55-10.png)
+![](2024-01-02-17-55-10.webp)
 
 ## Pin Definitions 
 

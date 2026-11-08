@@ -73,7 +73,7 @@ Unfortunately there is still no option for creating a plated slot in the library
 
 And when it is in the board you end up with:
 
-![](2024-04-02-14-24-54.png)
+![](2024-04-02-14-24-54.webp)
 
 https://forums.autodesk.com/t5/eagle-forum/slotted-pads/td-p/7487203
 

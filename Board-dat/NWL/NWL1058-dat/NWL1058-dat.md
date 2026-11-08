@@ -4,7 +4,7 @@
 
 - legacy wiki page - https://w.electrodragon.com/w/A7105
 
-![](2024-05-10-17-34-36.png)
+![](2024-05-10-17-34-36.webp)
 
 
 | Pinout       | Definition | Descriptions         |

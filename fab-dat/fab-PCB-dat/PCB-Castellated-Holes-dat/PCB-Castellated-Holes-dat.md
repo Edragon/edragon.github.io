@@ -7,9 +7,9 @@ Castellated holes, also called half-holes or plated half-holes, are metallized h
 
 这类 PCB 在板边会有一整排半金属化孔，常用于小型载板、核心板或子板。通过这些半孔，可以将模块像贴片器件一样焊接到母板上。
 
-![](2026-04-18-15-01-56.png)
+![](2026-04-18-15-01-56.webp)
 
-![](2026-04-18-15-02-20.png)
+![](2026-04-18-15-02-20.webp)
 
 ---
 

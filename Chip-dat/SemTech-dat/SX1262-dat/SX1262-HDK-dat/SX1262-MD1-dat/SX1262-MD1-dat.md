@@ -31,7 +31,7 @@ Table 8: Module Pin Definition Description Table
 | 19                     | NSS      | Module chip select pin, used to start SPI communication |                                             |
 | 21                     | ANT      | RF interface                                            |                                             |
 
-![](2025-06-23-18-03-13.png)
+![](2025-06-23-18-03-13.webp)
 
 ## Features 
 

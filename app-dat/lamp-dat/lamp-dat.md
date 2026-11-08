@@ -9,7 +9,7 @@
 
 wires 
 
-![](2026-08-09-18-07-11.png)
+![](2026-08-09-18-07-11.webp)
 
 shell connected to the earth 
 
@@ -30,7 +30,7 @@ wire bundles
 - [[lamp-dat]] - [[S4220-dat]] - [[rectifier-dat]] - [[led-driver-dat]]
 
 
-![](2026-08-09-18-12-08.png)
+![](2026-08-09-18-12-08.webp)
 
 - [[LED-driver-dat]]
 

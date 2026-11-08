@@ -11,7 +11,7 @@ JW3317 provides multiple protect functions including over-charge, over-discharge
 
 ## SCH 
 
-![](2026-06-02-21-16-42.png)
+![](2026-06-02-21-16-42.webp)
 
 ![](2026-06-02-21-16-56.webp)
 

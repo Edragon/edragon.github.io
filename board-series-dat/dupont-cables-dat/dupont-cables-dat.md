@@ -8,7 +8,7 @@
 - [[PCA1052-dat]] - [[PCA1056-dat]]
 
 ## M to M 
-![](2024-01-13-12-51-28.png)
+![](2024-01-13-12-51-28.webp)
 - [[PCA1052-dat]]
 - https://www.electrodragon.com/product/mm-40p-dupont-prototype-cables-male-male-end/
 

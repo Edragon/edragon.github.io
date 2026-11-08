@@ -60,7 +60,7 @@
 
 - [[airplane-sheet-dat]] - [[airplane-foam-dat]] 
 
-![](2026-08-24-02-16-21.png)
+![](2026-08-24-02-16-21.webp)
 
 | 材料 | 抗摔性 (Durability) | 刚性 (Stiffness) | 重量 (Weight) | 价格 (Price) | 适合人群 / 场景 |
 | :--- | :--- | :--- | :--- | :--- | :--- |

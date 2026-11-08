@@ -11,7 +11,7 @@
 
 http://inder.cn/WJXZ/nsiway/InderNS4150EN.PDF
 
-![](44-51-14-22-02-2023.png)
+![](44-51-14-22-02-2023.webp)
 
 
 ## bead value 

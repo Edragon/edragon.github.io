@@ -32,7 +32,7 @@ product list
 
 back side 
 
-![](2026-03-13-19-51-31.png)
+![](2026-03-13-19-51-31.webp)
 
 
 connected side == series connection side 

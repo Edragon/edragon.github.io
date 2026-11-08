@@ -8,7 +8,7 @@
 
 ## payment option - "Pay with Credit or Debit Card"
 
-![](2025-06-06-01-02-40.png)
+![](2025-06-06-01-02-40.webp)
 
 
 

@@ -9,7 +9,7 @@ Based on powerbus slave chip PB331.
 
 ## Function map 
 
-![](2024-08-28-13-55-32.png)
+![](2024-08-28-13-55-32.webp)
 
 - left top terminal - no direction power input 
 - left bottom terminal - 24V - GND

@@ -12,14 +12,14 @@ The design of this frame emphasizes aerodynamics, providing good aerodynamic per
 
 ## assembled 
 
-![](2025-05-29-13-07-26.png)
+![](2025-05-29-13-07-26.webp)
 
-![](2025-05-29-13-07-50.png)
+![](2025-05-29-13-07-50.webp)
 
 
 ## TX800 
 
-![](2025-05-29-13-06-22.png)
+![](2025-05-29-13-06-22.webp)
 
 
 ## ref 

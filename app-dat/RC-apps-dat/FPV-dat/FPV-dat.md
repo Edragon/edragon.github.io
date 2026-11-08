@@ -200,7 +200,7 @@ Light = responsive = beginners feel "overdone". A TinyWhoop demands extremely de
 
 ![](2025-04-02-13-14-05.webp)
 
-![](2025-04-02-12-45-53.png)
+![](2025-04-02-12-45-53.webp)
 
 | version                    | price | description                           |
 | -------------------------- | ----- | ------------------------------------- |

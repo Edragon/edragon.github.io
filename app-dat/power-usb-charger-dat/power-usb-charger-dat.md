@@ -16,7 +16,7 @@
 
 build 2 == [[hcwsemi-dat]] - [[power-usb-charger-dat]] - [[LM358-dat]]
 
-![](2026-09-06-01-51-09.png)
+![](2026-09-06-01-51-09.webp)
 
 
 build 1 

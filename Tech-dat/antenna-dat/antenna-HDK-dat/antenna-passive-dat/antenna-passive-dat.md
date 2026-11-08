@@ -3,7 +3,7 @@
 
 Passive Antenna for GSM/LTE/GNSS/Bluetooth
 
-![](2025-05-20-19-24-11.png)
+![](2025-05-20-19-24-11.webp)
 
 
 In above figure, the component R1/R2/C1/C2 is reserved for antenna matching, the value of components

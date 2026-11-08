@@ -44,7 +44,7 @@ AD5686R/AD5685R/AD5684R == AD5684 == Quad, 12-Bit nanoDAC+ with 2 ppm/°C On-Chi
 
 Quad, 16-/14-/12-Bit nanoDAC+ with 2 ppm/°C Reference, SPI Interface
 
-![](2026-09-03-16-36-24.png)
+![](2026-09-03-16-36-24.webp)
 
 
 ## ref 

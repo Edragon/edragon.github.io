@@ -14,7 +14,7 @@ Its on-board precision output amplifier allows it to achieve rail-to-rail analog
 
 SCH2 
 
-![](2026-07-23-20-49-13.png)
+![](2026-07-23-20-49-13.webp)
 
 
 

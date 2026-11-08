@@ -212,7 +212,7 @@ There is no inherent sound quality difference between 4-ohm and 8-ohm speakers. 
 2. Recommended hole diameter: **1mm** (range: **0.8–1.5mm**). Do not go below **0.5mm** — too small a hole restricts sound output, resulting in quiet, thin audio.
 3. The total sound outlet area should be **5%–15%** of the speaker diaphragm area. **10% is recommended** for optimal volume and sound quality. Too large may introduce excessive high-frequency noise; too small may reduce volume.
 
-![](2026-07-30-21-04-07.png)
+![](2026-07-30-21-04-07.webp)
 
 ---
 

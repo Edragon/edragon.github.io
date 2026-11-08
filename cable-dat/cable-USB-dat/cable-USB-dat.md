@@ -11,7 +11,7 @@
 
 
 
-![](2024-11-20-17-01-12.png)
+![](2024-11-20-17-01-12.webp)
 
 - [[cable-USB-dat]] - [[USB-tethering-dat]] - [[ethernet-dat]] - [[wifi-dongle-dat]]
 

@@ -11,14 +11,14 @@
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
 
-![](2026-02-22-13-31-11.png)
+![](2026-02-22-13-31-11.webp)
 
 Rated: 0.6A/ 125V; 3A/250V
 
 
 all specs 
 
-![](2026-02-22-13-31-46.png)
+![](2026-02-22-13-31-46.webp)
 
 
 

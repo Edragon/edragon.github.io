@@ -67,7 +67,7 @@ DS90CR288AMTDX/NOPB - DS90CR287/DS90CR288A +3.3V Rising Edge Data Strobe LVDS 28
 
 app 
 
-![](2026-09-25-15-08-59.png)
+![](2026-09-25-15-08-59.webp)
 
 
 ## ref 

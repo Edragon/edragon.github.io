@@ -39,7 +39,7 @@ The Cathode of the diode is connected to GPIO 33 and 0.1 nF ceramic capacitors, 
 ![](2025-11-14-18-55-52.png)
 
 
-![](2025-11-14-18-57-31.png)
+![](2025-11-14-18-57-31.webp)
 
 ### Debugging After Soldering
 

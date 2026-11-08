@@ -47,24 +47,24 @@ type-C 14 pins
 ### type-C 16 pins == common used version 
 
 
-![](2026-03-15-01-52-20.png)
+![](2026-03-15-01-52-20.webp)
 
 ### type-C 16 pins vertical SMD 
 
 - difficult to manufacture / populate 
 
-![](2026-04-20-16-48-47.png)
+![](2026-04-20-16-48-47.webp)
 
 
 ### type-C 16 pins vertical PTH - V1.1 
 
-![](2026-04-20-16-51-52.png)
+![](2026-04-20-16-51-52.webp)
 
 ![](2026-04-20-16-52-23.png)
 
 ### type-C 16 pins vertical PTH - V1.0 
 
-![](2026-04-23-19-01-39.png)
+![](2026-04-23-19-01-39.webp)
 
 
 ### type-C 16 pins vertical PTH - V0.9
@@ -75,7 +75,7 @@ type-C 14 pins
 
 board thickness == 0.8 mm
 
-![](2026-04-20-19-06-44.png)
+![](2026-04-20-19-06-44.webp)
 
 
 ## hardware 
@@ -98,7 +98,7 @@ wiring
 
 USB Type-C encompasses many protocols such as USB 3, USB4, Thunderbolt 3, Thunderbolt 4, etc. Different product applications correspond to different USB version speeds, as shown in the table below:
 
-![](2024-05-09-12-51-12.png)
+![](2024-05-09-12-51-12.webp)
 
 Although they all use the USB Type-C interface, due to differences in protocol versions and speeds, achieving optimal performance requires consistency in matching the system/device/USB Type-C cable. Different devices or systems also require different cables. Just considering speed, USB Type-C cables have the following distinctions:
 
@@ -177,7 +177,7 @@ Note:
 
 
 ## wiring to CM4 
-![](2023-11-30-15-27-29.png)
+![](2023-11-30-15-27-29.webp)
 
 
 

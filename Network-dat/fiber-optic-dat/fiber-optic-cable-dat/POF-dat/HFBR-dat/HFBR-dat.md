@@ -42,7 +42,7 @@ These are dedicated fiber optic ICs that handle the light/electrical signal conv
 - [[HFBR-0500Z-Series-dat]] - [[HFBR-x4xx-dat]]
 
 HFBR-4501 / HFBR-4511 == TX / RX
-![](2025-04-25-01-23-07.png)
+![](2025-04-25-01-23-07.webp)
 
 HFBR-4503 / HFBR-4513 == TX / RX
 ![](2025-04-25-01-23-39.webp)
@@ -51,10 +51,10 @@ HFBR-4531 / HFBR-4533 == TX / RX
 ![](2025-04-25-01-24-19.png)
 
 HFBR-4532 / HFBR-4532 == TX / RX
-![](2025-04-25-01-24-53.png)
+![](2025-04-25-01-24-53.webp)
 
 HFBR-4506
-![](2025-04-25-01-25-13.png)
+![](2025-04-25-01-25-13.webp)
 
 HFBR-4516
 ![](2025-04-25-01-25-31.webp)

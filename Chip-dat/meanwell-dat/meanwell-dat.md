@@ -6,7 +6,7 @@
 
 RSD-30 series == 30W Reliable Railway DC-DC Converter
 
-![](2025-09-18-12-55-56.png)
+![](2025-09-18-12-55-56.webp)
 
 - https://www.meanwell.com/Upload/PDF/RSD-30/RSD-30-spec.pdf
 

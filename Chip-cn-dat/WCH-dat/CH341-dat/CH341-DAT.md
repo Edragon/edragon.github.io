@@ -9,7 +9,7 @@ http://www.wch-ic.com/downloads/CH341SER_EXE.html
 
 ## working principle 
 
-![](2024-07-05-18-10-58.png)
+![](2024-07-05-18-10-58.webp)
 
 ## supported devices 
 

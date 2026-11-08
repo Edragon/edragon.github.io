@@ -60,7 +60,7 @@ wiring with USB-TTL cable
 - GND - Ground
 
 
-![](36-05-18-06-02-2023.png)
+![](36-05-18-06-02-2023.webp)
 
 ## Upload 
 

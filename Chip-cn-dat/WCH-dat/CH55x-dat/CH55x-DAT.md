@@ -67,7 +67,7 @@ https://w.electrodragon.com/w/CH55X_HDK
 
 use a [[tweezer-dat]] to hold UDP and power (3V3 or 5V) FIRMWLY, and insert the board into [[USB-dat]] port 
 
-![](2025-12-24-18-13-00.png)
+![](2025-12-24-18-13-00.webp)
 
 
 - [[WCH-PROG-dat]]

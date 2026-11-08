@@ -21,7 +21,7 @@
 
 - [[sensor-touch-dat]] - [[microchip-dat]] - [[MTCH6102-dat]] - MTCH6102 15-channel capacitive touch sensing
 
-![](2026-08-25-13-36-37.png)
+![](2026-08-25-13-36-37.webp)
 
 
 
@@ -102,7 +102,7 @@ microcontroller can dynamically configure the RNWF11 Module with a few simple AS
 
 - [[MCP4017-dat]] - [[microchip-dat]]
 
-![](2025-10-02-19-04-40.png)
+![](2025-10-02-19-04-40.webp)
 
 
 

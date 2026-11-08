@@ -38,7 +38,7 @@ The Nano 33 BLE + Nano 33 BLE Sense are now both obsolete. Their replacements ar
 
 ## user manual 
 
-![](2026-01-19-18-49-19.png)
+![](2026-01-19-18-49-19.webp)
 
 - [[WS2812-dat]] = P1.1
 - [[LED-dat]] = P0.13

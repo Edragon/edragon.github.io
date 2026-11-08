@@ -35,7 +35,7 @@ Open A76XX_A79XX_MADL V1.13 Only for Update.exe
 
 Choose to upgrade the firmware according to the steps in the figure below
 
-![](2025-05-20-17-48-19.png)
+![](2025-05-20-17-48-19.webp)
 
 Click GO Button , Wait for the progress bar to complete.
 

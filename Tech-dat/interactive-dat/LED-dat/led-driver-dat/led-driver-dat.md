@@ -95,7 +95,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[JW5060-dat]]
 
-![](2025-11-01-19-26-57.png)
+![](2025-11-01-19-26-57.webp)
 
 
 
@@ -146,7 +146,7 @@ SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]]
 
 High Efficiency, High Current Serial LED Driver with 30 V Integrated Switch FAN5333A, FAN5333B
 
-![](2026-03-05-19-23-40.png)
+![](2026-03-05-19-23-40.webp)
 
 
 
@@ -201,7 +201,7 @@ R5为芯片的反馈电阻，用于调节输出的电流，计算公式可参考
 
 button buttons on the back side, low-side control white and warm white LED strips
 
-![](2025-09-01-20-32-40.png)
+![](2025-09-01-20-32-40.webp)
 
 driver AOA3 ?
 
@@ -292,7 +292,7 @@ build 7 - no drive chip
 
 - [[2N7002-dat]] 
 
-![](2026-09-22-19-56-14.png)
+![](2026-09-22-19-56-14.webp)
 
 ![](2026-09-22-19-56-25.webp)
 
@@ -306,7 +306,7 @@ build 5 - [[battery-charger-dat]] - [[IU5918-dat]] - [[sand-tech-dat]]
 
 - [[infrared-dat]] - [[MCU-dat]]
 
-![](2026-09-08-15-10-06.png)
+![](2026-09-08-15-10-06.webp)
 
 ![](2026-09-08-15-12-01.webp)
 
@@ -316,7 +316,7 @@ build 5 - [[battery-charger-dat]] - [[IU5918-dat]] - [[sand-tech-dat]]
 
 - [[lamp-dat]] - [[S4220-dat]] - [[rectifier-dat]] - [[led-driver-dat]]
 
-![](2026-08-09-18-14-11.png)
+![](2026-08-09-18-14-11.webp)
 
 81KL7C0GP ???
 
@@ -328,7 +328,7 @@ build 5 - [[battery-charger-dat]] - [[IU5918-dat]] - [[sand-tech-dat]]
 
 ![](2026-06-17-21-35-50.png)
 
-![](2026-06-17-21-37-00.png)
+![](2026-06-17-21-37-00.webp)
 
 C07EBA UNH538
 
@@ -345,7 +345,7 @@ C07EBA UNH538
 
 - [[mosfet-dat]]
 
-![](2026-06-17-15-08-34.png)
+![](2026-06-17-15-08-34.webp)
 
 ## APPLICATIONS
 

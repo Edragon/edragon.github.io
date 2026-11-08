@@ -34,7 +34,7 @@ The AO analog output can be connected to the AD port of the microcontroller to d
 
 ## SCH 
 
-![](2025-03-20-19-12-24.png)
+![](2025-03-20-19-12-24.webp)
 
 ## demo code 
 

@@ -50,7 +50,7 @@
 
 - [[SM2.54-dat]] - [[PCA1032-dat]]
 
-![](2025-05-21-15-11-35.png)
+![](2025-05-21-15-11-35.webp)
 
 - [[PH2.0-dat]] /// [[HY2.0-dat]]
 
@@ -64,7 +64,7 @@
 
 ## fast wire to wire connectors
 
-![](2025-05-29-19-07-55.png)
+![](2025-05-29-19-07-55.webp)
 
 ## bullet to bullet connector 
 

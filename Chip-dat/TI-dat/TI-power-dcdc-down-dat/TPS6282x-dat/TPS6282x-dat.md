@@ -12,9 +12,9 @@ TPS6282x 2.4V to 5.5V Input, 1, 2, 3, 4A Step-Down Converter With 1% Output Accu
 
 ## specs 
 
-![](2026-09-05-16-58-51.png)
+![](2026-09-05-16-58-51.webp)
 
-![](2026-09-05-16-59-16.png)
+![](2026-09-05-16-59-16.webp)
 
 ## SCH 
 

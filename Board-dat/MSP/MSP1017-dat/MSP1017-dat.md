@@ -15,7 +15,7 @@ SCH
 
 use guide 
 
-![](2025-06-20-18-09-49.png)
+![](2025-06-20-18-09-49.webp)
 
 
 ## Applications, category, tags, etc. 

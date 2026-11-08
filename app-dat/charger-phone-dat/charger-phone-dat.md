@@ -7,7 +7,7 @@
 
 ## build dis assemble 1 
 
-![](2026-05-23-17-42-04.png)
+![](2026-05-23-17-42-04.webp)
 
 - [[winsok-dat]] - [[WSP4407-dat]] - [[mosfet-dat]]
 

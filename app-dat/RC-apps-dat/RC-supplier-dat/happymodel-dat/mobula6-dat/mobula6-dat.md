@@ -26,9 +26,9 @@
 
 - [[FRSKY-dat]]
 
-![](2026-09-01-18-48-32.png)
+![](2026-09-01-18-48-32.webp)
 
-![](2026-09-01-18-48-51.png)
+![](2026-09-01-18-48-51.webp)
 
 The Happymodel `Crazybee F4FR Lite (v4.2)` is a 1S 4-in-1 AIO flight controller featuring an integrated SPI `Frsky` receiver, 5A BLHeli_S ESCs, 5.8GHz VTX, and Betaflight OSD.
 

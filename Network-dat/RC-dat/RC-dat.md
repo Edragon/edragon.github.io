@@ -85,7 +85,7 @@
 
 - [[RC-dat]] - [[rc-controller-dat]] - [[radiomaster-pocket-dat]] - [[ELRS-TX-dat]]
 
-![](2026-07-28-16-48-47.png)
+![](2026-07-28-16-48-47.webp)
 
 
 ## The Four Controls Explained

@@ -19,7 +19,7 @@ Two wires inject a known current through the resistor. Two separate wires measur
 
 This bypasses wiring resistance and lets you use a high-impedance voltmeter or precision ADC for clean readings.
 
-![](2026-08-23-17-28-06.png)
+![](2026-08-23-17-28-06.webp)
 
 
 ## info 
@@ -30,10 +30,10 @@ A 4-wire fixture uses two wires for the heavy discharge current and two separate
 
 ![](2026-05-19-22-31-01.png)
 
-![](2026-05-19-22-31-12.png)
+![](2026-05-19-22-31-12.webp)
 
 
-![](2026-05-19-22-32-36.png)
+![](2026-05-19-22-32-36.webp)
 
 
 

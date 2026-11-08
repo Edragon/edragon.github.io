@@ -39,7 +39,7 @@ SK series
 
 ## linear bearing 
 
-![](2025-07-03-16-41-47.png)
+![](2025-07-03-16-41-47.webp)
 
 
 ## bearing wtih vertical stand 
@@ -66,7 +66,7 @@ Basic Dimensions of a 608 bearing:
 
 ## block the bearing 
 
-![](2025-04-18-15-37-24.png)
+![](2025-04-18-15-37-24.webp)
 
 by M3 screws 
 

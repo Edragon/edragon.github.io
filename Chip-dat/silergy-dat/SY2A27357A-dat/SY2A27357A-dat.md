@@ -8,7 +8,7 @@ datasheet - https://www.silergy.com/download/downloadFile?id=5043&type=product&f
 
 SY2A27357A == 36V, 300mA LDO Regulator
 
-![](2026-06-03-16-28-43.png)
+![](2026-06-03-16-28-43.webp)
 
 
 ## ref 

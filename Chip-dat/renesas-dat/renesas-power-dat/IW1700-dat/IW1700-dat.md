@@ -10,7 +10,7 @@ Zero Power No-Load Off-Line Digital PWM Controller
 
 ## SCH 
 
-![](2026-03-05-14-42-44.png)
+![](2026-03-05-14-42-44.webp)
 
 
 ## SCH app 1 

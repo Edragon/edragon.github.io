@@ -14,7 +14,7 @@
 
 - [[cr6842s-datasheet.pdf]]
 
-![](2026-01-25-20-23-58.png)
+![](2026-01-25-20-23-58.webp)
 
 Green-Power PWM Controller with Freq. Jittering 
 
@@ -23,7 +23,7 @@ Green-Power PWM Controller with Freq. Jittering
 
 main chip CR6842 - plus - [[LM358-dat]]
 
-![](2026-07-25-18-18-00.png)
+![](2026-07-25-18-18-00.webp)
 
 large [[capacitor-dat]] 400V 150UF 
 
@@ -47,7 +47,7 @@ large [[capacitor-dat]] 400V 150UF
 
 - [[diode-dat]] == SR5200 
 
-![](2026-07-25-18-17-42.png)
+![](2026-07-25-18-17-42.webp)
 
 - [[bridge-rectifier-dat]] - KBL610 - [[CR6842-dat]]
 

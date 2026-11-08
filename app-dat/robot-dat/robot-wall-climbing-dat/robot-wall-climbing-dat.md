@@ -9,7 +9,7 @@
 - [[motor-brushless-dat]] - [[propeller-dat]] - [[motor-dat]] - [[ESC-dat]]
 
 
-![](2026-08-23-17-21-10.png)
+![](2026-08-23-17-21-10.webp)
 
 ## build 
 

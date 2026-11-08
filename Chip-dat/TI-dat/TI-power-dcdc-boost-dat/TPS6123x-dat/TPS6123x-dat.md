@@ -8,7 +8,7 @@
 
 TPS61230, TPS61231, TPS61232 - TPS6123x High Efficiency Synchronous Step Up Converters with 5-A Switches
 
-![](2026-03-05-13-25-28.png)
+![](2026-03-05-13-25-28.webp)
 
 
 

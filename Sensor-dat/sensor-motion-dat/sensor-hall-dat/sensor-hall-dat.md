@@ -48,7 +48,7 @@ The advanced chopper stabilized design provides superior stability on switch ope
 
 - [[motor-hall-dat]]
 
-![](2025-12-12-16-11-40.png)
+![](2025-12-12-16-11-40.webp)
 
 The AB phase encoder (left side of the diagram) outputs two pulse signals, A and B, which are orthogonal (90° out of phase), achieving a fourfold frequency harmonic. The speed measurement accuracy is four times that of a single-pulse encoder.
 
@@ -70,7 +70,7 @@ TYPICAL APPLICATION
 -  Speed Regulator for Sports Appliance
 -  Current Detecting Senso
 
-![](2026-02-06-19-14-45.png)
+![](2026-02-06-19-14-45.webp)
 
 ![](2026-02-06-19-15-15.webp)
 
@@ -144,7 +144,7 @@ DO 输出高阻，DOB 输出低电平
 无磁场：保持上一次输出状态（锁存特性）
 
 
-![](2026-07-23-20-45-32.png)
+![](2026-07-23-20-45-32.webp)
 
 1 脚接供电正极，4 脚接电源负极；
 

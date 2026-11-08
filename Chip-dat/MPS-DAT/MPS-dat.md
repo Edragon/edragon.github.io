@@ -21,7 +21,7 @@
 
 MP1605 
 
-![](2026-04-14-20-09-38.png)
+![](2026-04-14-20-09-38.webp)
 
 
 
@@ -30,7 +30,7 @@ MP1605
 
 MPM3610 == 21V Input, 1A Module Synchronous Step-down Converter with Integrated Inductor
 
-![](2026-02-10-17-44-20.png)
+![](2026-02-10-17-44-20.webp)
 
 
 - [[MPS-ACDC-dat]]

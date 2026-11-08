@@ -30,7 +30,7 @@ This board is a copy from a commerial toy product, so based on a real selling pr
 
 ## SCH 
 
-![](2023-10-26-15-43-28.png)
+![](2023-10-26-15-43-28.webp)
 
 - PD6/PA1 - motor control 
 - PC1 - led control 

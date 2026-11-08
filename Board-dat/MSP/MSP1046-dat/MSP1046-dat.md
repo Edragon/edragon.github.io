@@ -20,7 +20,7 @@ As shown in the figure above, VCC/GND on the left is the power input terminal.
 - VCC is connected to DC7-40V positive voltage, and GND is grounded. OUT/GND on the right is the PWM signal output terminal. 
 - OUT is the positive signal output terminal, and GND can be grounded. R5 is used to adjust the output duty cycle. R6 is the output frequency.
 
-![](2025-01-09-17-56-07.png)
+![](2025-01-09-17-56-07.webp)
 
 
 The red indicator light is on, indicating that the module power supply is working normally. 

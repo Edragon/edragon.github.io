@@ -47,7 +47,7 @@ Reading is accomplished by placing all four chip selects in their active states.
 
 ### Logic Block Diagram
 
-![](2026-09-29-16-26-19.png)
+![](2026-09-29-16-26-19.webp)
 
 
 ## CY7C346

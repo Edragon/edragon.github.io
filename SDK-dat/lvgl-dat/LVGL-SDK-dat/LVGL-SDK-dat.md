@@ -18,7 +18,7 @@ This example demonstrates how the ESP32-P4 displays LVGL graphics via the MIPI D
    ```
 3. Open your project, select the esp32p4 core, then click the 🔥 (build/flash/monitor) button. When complete, you should see the LVGL screen:
 
-![](2025-08-09-13-43-06.png)
+![](2025-08-09-13-43-06.webp)
 
 
 ## ref 

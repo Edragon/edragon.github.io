@@ -6,7 +6,7 @@
 
 - [[capacitor-Tantalum-dat]]
 
-![](2025-03-14-20-31-28.png)
+![](2025-03-14-20-31-28.webp)
 
 
 ## Electrolytic-cap-dat

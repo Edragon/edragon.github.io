@@ -12,7 +12,7 @@
 
 ## custom build footprint guide 
 
-![](2025-04-29-15-16-53.png)
+![](2025-04-29-15-16-53.webp)
 
 ## common used global library 
 

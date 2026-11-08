@@ -42,7 +42,7 @@ ADUM3400BRWZRL
 
 ADUM4160BRIZ == USB Digital Isolator 5000Vrms 1 Channel 12Mbps 25kV/µs CMTI 16-SOIC (0.295", 7.50mm Width)
 
-![](2026-09-04-19-11-08.png)
+![](2026-09-04-19-11-08.webp)
 
 
 

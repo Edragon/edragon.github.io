@@ -11,13 +11,13 @@ https://www.electrodragon.com/product/esp-12s-wifi-module-esp8266/
 
 ## APP
 
-![](50-48-15-16-12-2022.png)
+![](50-48-15-16-12-2022.webp)
 
 ## internal 
 
 see more at [[ESP8266-dat]]
 
-![](56-45-15-16-12-2022.png)
+![](56-45-15-16-12-2022.webp)
 
 
 

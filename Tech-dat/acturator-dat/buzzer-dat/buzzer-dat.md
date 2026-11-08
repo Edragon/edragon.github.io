@@ -82,15 +82,15 @@ A passive buzzer requires an external oscillating signal to produce sound. It of
 
 build 4 
 
-![](2026-09-05-14-34-31.png)
+![](2026-09-05-14-34-31.webp)
 
 build 3 
 
-![](2025-08-19-16-54-01.png)
+![](2025-08-19-16-54-01.webp)
 
 simple drive 
 
-![](2025-08-21-18-53-59.png)
+![](2025-08-21-18-53-59.webp)
 
 high drive - [[transistor-dat]]
 
@@ -116,7 +116,7 @@ high drive - [[transistor-dat]]
 
 - [[JHEMCU-dat]] - [[FPV-fleet-dat]] 
 
-![](2026-10-01-00-31-49.png)
+![](2026-10-01-00-31-49.webp)
 
 
 

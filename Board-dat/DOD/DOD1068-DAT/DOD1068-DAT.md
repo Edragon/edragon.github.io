@@ -34,7 +34,7 @@ V1 plug fixed solder version (left)
 
 V2 unsoldered version 
 
-![](2026-09-13-14-20-21.png)
+![](2026-09-13-14-20-21.webp)
 
 ## ref 
 

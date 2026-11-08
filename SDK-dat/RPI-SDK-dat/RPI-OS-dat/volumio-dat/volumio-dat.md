@@ -16,7 +16,7 @@ STEP:
 - 1) Insert the TF card with volumio image into the Raspberry pi then power on.
 - 2) By using your smart phone, tablet or any device with Wifl and browser search for WIFl hotpots. You can see a 'Volumio' name in the search list. Connect this hotspot with password 'volumio2'.You can change your password after login. You alson can connect a Raspberry Pi to your router using an Ethernet cable,find the IP address of Volumio on the router, and open this IP address from a computer connected to the same router.
 
-![](2024-12-20-18-14-24.png)
+![](2024-12-20-18-14-24.webp)
 
 - 3) The browser will automatically eject playback software UI which is based on web interface ( if you connect the hotspot successfully but for some reason browser can’t pop up the playbackpage automatically, you can using http://192.168.211.1 to login. You can see belowwizardof Volumio. We only need to set “Language” , “Name” “Output” and “Done” for simple application.
 
@@ -31,7 +31,7 @@ STEP:
 - 6)Click ‘Done’ to finish initialization of Volumio. And then restart Volumio.
 
 
-![](2024-12-20-18-16-03.png)
+![](2024-12-20-18-16-03.webp)
 
 7)In this restart process, “Volumio” hotpot will turn off for a moment. Sometimes your mobilephone , Tablet or PC will automatic reconnect to your wifi nearly. You need to set back to‘Volumio’ hotpot. After restart you can see the main page of Volumio
 

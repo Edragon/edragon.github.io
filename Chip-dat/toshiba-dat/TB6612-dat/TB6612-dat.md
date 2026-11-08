@@ -36,7 +36,7 @@ extra control : STBY
 
 - [[mosfet-dat]]
 
-![](2025-06-01-17-46-15.png)
+![](2025-06-01-17-46-15.webp)
 
 - [[power-protection-Vmotor-dat]]
 

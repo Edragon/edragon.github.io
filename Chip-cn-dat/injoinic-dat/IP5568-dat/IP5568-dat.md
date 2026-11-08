@@ -16,7 +16,7 @@ Support wireless charging TX/RX 、SCP、VOOC、Bi-directional PD3.0 and Fast Ch
 
 ## APP 
 
-![](2026-06-15-16-17-07.png)
+![](2026-06-15-16-17-07.webp)
 
 
 ## ref 

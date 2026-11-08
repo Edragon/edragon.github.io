@@ -35,7 +35,7 @@ For inertial navigation using this MEMS sensor, the official claim is 5% accurac
 
 ## SCH 
 
-![](2026-07-23-20-07-07.png)
+![](2026-07-23-20-07-07.webp)
 
 
 ## ref 

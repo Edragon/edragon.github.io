@@ -18,7 +18,7 @@
 - • Intelligent gate drive and cross conduction prevention
 - • No external snubber or schottky diode is required
 
-![](2025-06-03-01-13-31.png)
+![](2025-06-03-01-13-31.webp)
 
 
 ## APP SCH 
@@ -26,7 +26,7 @@
 - [[sensor-current-dat]] - [[motor-driver-dat]] - [[ACS722-dat]] - [[DRV84x2-dat]]
 
 
-![](2026-07-30-14-04-17.png)
+![](2026-07-30-14-04-17.webp)
 
 
 ## ref 

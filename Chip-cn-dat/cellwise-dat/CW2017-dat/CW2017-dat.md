@@ -20,4 +20,4 @@ http://www.cellwise-semi.com/products/product/voltameter/5
 
 ![](2026-05-23-15-12-26.webp)
 
-![](2026-05-23-15-12-39.png)
+![](2026-05-23-15-12-39.webp)

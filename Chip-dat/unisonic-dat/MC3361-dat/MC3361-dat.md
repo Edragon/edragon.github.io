@@ -21,7 +21,7 @@ APPLICATIONS
 
 ## application and SCH 
 
-![](2026-05-28-12-04-23.png)
+![](2026-05-28-12-04-23.webp)
 
 
 
@@ -45,7 +45,7 @@ The MC3361C includes an Oscillator, Mixer, Limiting Amplifier, Quadrature Discri
 - Operating Frequency Up to 60 MHz
 - Full ESD Protection
 
-![](2026-05-28-12-07-00.png)
+![](2026-05-28-12-07-00.webp)
 
 - [[MA6162-dat]] - [[93C46-B-dat]]
 

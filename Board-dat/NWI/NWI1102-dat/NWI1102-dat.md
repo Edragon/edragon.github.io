@@ -38,7 +38,7 @@ We will leave the pin headers unsolder for your own decision.
 
 This is for [[NWI1245-dat]]
 
-![](2026-05-12-18-24-30.png)
+![](2026-05-12-18-24-30.webp)
 
 ![](2026-05-12-18-24-39.png)
 

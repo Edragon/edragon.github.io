@@ -5,7 +5,7 @@
 
 ## 18650 battery holder 
 
-![](2025-08-30-16-22-09.png)
+![](2025-08-30-16-22-09.webp)
 
 
 
@@ -21,7 +21,7 @@
 
 ## Flexible Connection battery holder
 
-![](2025-05-12-14-49-25.png)
+![](2025-05-12-14-49-25.webp)
 
 
 ## Plastic houseing battery holder 
@@ -31,7 +31,7 @@
 
 == 4.2*2 = 8.4V
 
-![](2025-05-08-18-07-17.png)
+![](2025-05-08-18-07-17.webp)
 
 - [[battery-charger-2s-dat]] 
 

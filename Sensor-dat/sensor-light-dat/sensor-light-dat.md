@@ -22,7 +22,7 @@ The LTR-303ALS-01 is a low voltage I2C digital light sensor [ALS] in a low cost 
 
 There are altogether six gain settings (1X, 2X, 4X, 8X, 48X and 96X) available for user to configure.
 
-![](2026-07-24-03-26-28.png)
+![](2026-07-24-03-26-28.webp)
 
 
 - [[VEML6030-dat]] - [[vishay-dat]] - [[I2C-dat]]

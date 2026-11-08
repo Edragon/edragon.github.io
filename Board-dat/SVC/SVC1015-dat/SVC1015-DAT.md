@@ -29,7 +29,7 @@
 
 10A with internal shunt 
 
-![](2023-10-20-17-50-17.png)
+![](2023-10-20-17-50-17.webp)
 
 50/100A external shunt 
 

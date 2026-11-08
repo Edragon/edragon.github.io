@@ -79,7 +79,7 @@ install propeller - [[propeller-dat]] - [[motor-dat]]
 
 battery holder to strap 
 
-![](2025-09-11-21-33-48.png)
+![](2025-09-11-21-33-48.webp)
 
 ## how to use 
 
@@ -88,7 +88,7 @@ battery holder to strap
 config by [[USB-dat]] USB port 
 
 
-![](2025-09-02-13-10-40.png)
+![](2025-09-02-13-10-40.webp)
 
 - [[betaflight-configurator-dat/betaflight-dat]]
 
@@ -110,7 +110,7 @@ config by [[USB-dat]] USB port
 
 ### receiver 
 
-![](2025-09-03-12-11-32.png)
+![](2025-09-03-12-11-32.webp)
 
 - AETR1234 
 

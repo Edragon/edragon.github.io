@@ -81,7 +81,7 @@ If you DIY, here is the list of components required to make a working vehicle (d
 
 wiring 
 
-![](2026-10-01-01-21-28.png)
+![](2026-10-01-01-21-28.webp)
 
 
 

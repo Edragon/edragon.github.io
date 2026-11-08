@@ -24,7 +24,7 @@ The ESP32-P4 chip connects to the IP101GRI PHY chip via the RMII interface. The 
 
 Open the `ethernetbasic` project, select the correct COM port and chip model, and click the ⚙️ (settings) icon. This opens the SDK Configuration Editor (menuconfig). Search for "ETH" in the search bar; you will see the relevant parameters. Match them to the diagram below:
 
-![](2025-08-09-13-01-03.png)
+![](2025-08-09-13-01-03.webp)
 
 ### Build, Flash, and Monitor
 

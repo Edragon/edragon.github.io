@@ -12,7 +12,7 @@
 
 SN74LV`C2G00 Dual 2-Input Positive-NAND Gate
 
-![](2026-09-03-16-40-07.png)
+![](2026-09-03-16-40-07.webp)
 
 
 

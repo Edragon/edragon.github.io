@@ -38,7 +38,7 @@ https://www.segger.com/downloads/jlink/JLink_Windows_V782_x86_64.exe
 
 after installation, tools are available for: 
 
-![](2025-09-23-13-56-33.png)
+![](2025-09-23-13-56-33.webp)
 
 ## add system path 
 
@@ -61,7 +61,7 @@ JLink.exe ==
 
 ## config in MDK-ARM
 
-![](2025-09-23-14-12-14.png)
+![](2025-09-23-14-12-14.webp)
 
 ## optional tools 
 
@@ -131,7 +131,7 @@ The `halt` command can be used together with `go`. After executing `halt`, the d
 
 ![](2024-07-05-17-55-07.png)
 
-![](2024-07-05-17-55-19.png)
+![](2024-07-05-17-55-19.webp)
 
 
 
@@ -146,7 +146,7 @@ The `halt` command can be used together with `go`. After executing `halt`, the d
 
 ## usage 
 
-![](2025-09-23-13-24-54.png)
+![](2025-09-23-13-24-54.webp)
 
 - VOUT is a 3.3V voltage output pin.
 - Users can remove the internal shorting jumper of the device to disable the 3.3V output.

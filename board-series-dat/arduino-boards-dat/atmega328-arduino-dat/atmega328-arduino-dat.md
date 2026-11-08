@@ -4,7 +4,7 @@
 
 ## Chip Map 
 
-![](2024-07-01-21-13-30.png)
+![](2024-07-01-21-13-30.webp)
 
 
 | arduino | pin | Funcs | Funcs2     | customize |

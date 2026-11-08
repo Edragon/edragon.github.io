@@ -17,7 +17,7 @@ lotus interface == [[BNC-dat]]
 Often used in analog surveillance cameras.
 
 
-![](2025-03-27-17-09-16.png)
+![](2025-03-27-17-09-16.webp)
 
 ### Aviation Connector (M12, GX12, GX16, GX20)
 

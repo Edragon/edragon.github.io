@@ -69,7 +69,7 @@ The TBS Unify Pro32 Nano 5.8GHz VTX is a compact and feature-rich video transmit
 
 ## module installation pitch  
 
-![](2026-09-06-16-03-53.png)
+![](2026-09-06-16-03-53.webp)
 
 **20mm（20×20 堆叠）**
 • 常见用途: 3-5 寸机飞塔
@@ -132,7 +132,7 @@ World record level
 
 ## VTX+CAM integrated 
 
-![](2026-10-01-15-59-33.png)
+![](2026-10-01-15-59-33.webp)
 
 ![](2026-10-01-15-59-55.webp)
 
@@ -168,7 +168,7 @@ build 1
 
 PUYA `F003F16` - [[PUYAsemi-dat]] - [[PY32F003F16-dat]] - [[VTX-dat]] - [[chip-cn-dat]]
 
-![](2026-09-17-18-11-48.png)
+![](2026-09-17-18-11-48.webp)
 
 
 
@@ -216,7 +216,7 @@ physical installation
 
 ### frequency table 
 
-![](2026-09-06-16-24-43.png)
+![](2026-09-06-16-24-43.webp)
 
 
 

@@ -32,7 +32,7 @@ SPECIFICATIONS:
 | STORAGE TEMPERATURE   | (C)  | 25~+90     |
 | WEIGHT                | (g)  | 2          |
 
-![](2025-04-01-13-51-48.png)
+![](2025-04-01-13-51-48.webp)
 
 ![](2025-04-01-13-52-07.png)
 
@@ -44,7 +44,7 @@ SPECIFICATIONS:
 
 DIMENSION:(UNIT:mm)
 
-![](2025-04-01-13-50-27.png)
+![](2025-04-01-13-50-27.webp)
 
 ![](2025-04-01-13-54-00.png)
 
@@ -61,7 +61,7 @@ DIMENSION:(UNIT:mm)
 
 - connect to D6 [[arduino-dat]]
 
-![](2026-01-15-20-53-28.png)
+![](2026-01-15-20-53-28.webp)
 
 
 

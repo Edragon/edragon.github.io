@@ -7,7 +7,7 @@ CC1101-LUS: Low Power, UART TLL interface, Spring Coil
 
 ## Pins
 
-![](2023-09-05-16-07-22.png)
+![](2023-09-05-16-07-22.webp)
 
 Pin definition from Front View, From left to right
 

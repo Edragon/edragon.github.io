@@ -8,7 +8,7 @@ https://www.electrodragon.com/product/raspberry-pi-5-hdmi-lcd-display-wtouch/
 
 ![](50-10-17-31-07-2023.png)
 
-![](05-11-17-31-07-2023.png)
+![](05-11-17-31-07-2023.webp)
 
 ![](18-11-17-31-07-2023.png)
 

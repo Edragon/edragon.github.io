@@ -8,14 +8,14 @@ overview - opened look
 
 ![](2026-05-24-13-42-14.png)
 
-![](2026-05-24-13-45-08.png)
+![](2026-05-24-13-45-08.webp)
 
 
 waterproof button design 
 
 ![](2026-05-24-13-42-44.png)
 
-![](2026-05-24-13-43-53.png)
+![](2026-05-24-13-43-53.webp)
 
 ![](2026-05-24-13-44-12.webp)
 
@@ -23,7 +23,7 @@ waterproof button design
 
 ![](2026-05-24-13-44-56.png)
 
-![](2026-05-24-13-46-12.png)
+![](2026-05-24-13-46-12.webp)
 
 front lens cover 
 
@@ -33,7 +33,7 @@ leverage locker
 
 ![](2026-05-24-13-45-38.png)
 
-![](2026-05-24-13-45-51.png)
+![](2026-05-24-13-45-51.webp)
 
 
 
@@ -41,11 +41,11 @@ leverage locker
 
 front sealed panel 
 
-![](2026-05-24-13-40-31.png)
+![](2026-05-24-13-40-31.webp)
 
 charge port 
 
-![](2026-05-24-13-40-43.png)
+![](2026-05-24-13-40-43.webp)
 
 sealed back side - LED battery volumn indicator
 
@@ -53,7 +53,7 @@ sealed back side - LED battery volumn indicator
 
 overview 
 
-![](2026-05-24-13-41-41.png)
+![](2026-05-24-13-41-41.webp)
 
 
 

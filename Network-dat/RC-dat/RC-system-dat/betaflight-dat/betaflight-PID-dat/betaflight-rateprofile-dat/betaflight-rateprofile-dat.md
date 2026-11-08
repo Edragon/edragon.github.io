@@ -96,7 +96,7 @@ optimized
 | YAW              | 10 or 20 | 720 or 800 | 0 or 0.5 | 670             |
 
 
-![](2025-09-04-12-38-55.png)
+![](2025-09-04-12-38-55.webp)
 
 
 ## Throttle Limit / Throttle Limit % / Throttle MID / Throttle EXPO
@@ -106,7 +106,7 @@ optimized
 | OFF            | 80               | 0.20         | 0.70          |
 
 
-![](2025-09-04-12-45-34.png)
+![](2025-09-04-12-45-34.webp)
 
 
 1. Enable **Throttle Expo**:

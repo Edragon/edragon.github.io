@@ -20,7 +20,7 @@
 
 ## info 
 
-![](2022-07-26-17-41-46.png)
+![](2022-07-26-17-41-46.webp)
 
 ![](58-08-22-29-03-2023.png)
 
@@ -52,7 +52,7 @@ Old V1 version:
 
 jumper set on the diode 
 
-![](2026-01-12-15-07-47.png)
+![](2026-01-12-15-07-47.webp)
 
 
 ### DEVKITC Board pin definitions 
@@ -122,7 +122,7 @@ notice the differences of pin CLK and D
 - 64 x 64 will need to setup E-line
 - result 
 
-![](32-17-14-03-02-2023.png)
+![](32-17-14-03-02-2023.webp)
 
 - [[IDD1013]]
 

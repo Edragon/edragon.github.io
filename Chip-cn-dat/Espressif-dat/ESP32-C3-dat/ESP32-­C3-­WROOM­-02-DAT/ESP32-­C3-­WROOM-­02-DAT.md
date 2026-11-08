@@ -48,7 +48,7 @@ https://docs.espressif.com/projects/esp-at/en/latest/esp32c3/Get_Started/Hardwar
 
 page 24. 
 
-![](08-42-15-09-06-2023.png)
+![](08-42-15-09-06-2023.webp)
 
 
 

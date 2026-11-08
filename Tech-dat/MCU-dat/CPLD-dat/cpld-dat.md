@@ -30,7 +30,7 @@ https://www.electrodragon.com/w/Altera_CPLD_EPM240_EPM570_Dev._Board
 
 ### JTAG 
 
-![](2024-11-04-17-50-07.png)
+![](2024-11-04-17-50-07.webp)
 
 do NOT plug the JTAG cable while powering UP !!
 

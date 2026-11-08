@@ -13,11 +13,11 @@
 
 Configuration via Web browser:
 
-![](2025-08-06-18-13-02.png)
+![](2025-08-06-18-13-02.webp)
 
 Application Map:
 
-![](2025-08-06-18-13-22.png)
+![](2025-08-06-18-13-22.webp)
 
 
 

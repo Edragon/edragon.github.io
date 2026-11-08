@@ -4,7 +4,7 @@
 - [[DPR1005-dat]] - [[dpr1003-dat]] - [[cp2102-dat]] - [[serial-dat]]
 
 
-![](19-15-16-10-08-2023.png)
+![](19-15-16-10-08-2023.webp)
 
 driver 
 
@@ -23,13 +23,13 @@ https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downlo
 
 ## CP2102 VS FT232RL 
 
-![](2024-11-04-14-49-16.png)
+![](2024-11-04-14-49-16.webp)
 
 
 
 ## SCH 
 
-![](2025-07-09-18-40-54.png)
+![](2025-07-09-18-40-54.webp)
 
 2x mosfet == 2N7002
 

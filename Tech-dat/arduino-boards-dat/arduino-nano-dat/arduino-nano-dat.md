@@ -24,7 +24,7 @@ SCH - https://docs.arduino.cc/resources/schematics/A000005-schematics.pdf
 - 10.三种供电方式：USB，VIN，外部5V输入
 
 
-![](2026-02-12-16-51-32.png)
+![](2026-02-12-16-51-32.webp)
 
 
 ## Boards 

@@ -31,7 +31,7 @@ https://community.pixelmatix.com/t/smartmatrix-doesnt-support-fm6126a-driver-chi
 
 In the first order #65388, the panels had the FM6124DJ driver chip. These panels have issues with the drive board: They display glitches/artefacts around the borders of objects like the red horizontal lines next to the object on the attached photo.
 
-![](2025-01-06-16-42-51.png)
+![](2025-01-06-16-42-51.webp)
 
 ### ICN2037
 

@@ -30,7 +30,7 @@ male pin header one-row and two-row, straight and 90-degree, with different heig
 
 female connector 
 
-![](2026-06-15-13-34-27.png)
+![](2026-06-15-13-34-27.webp)
 
 
 | name | SKU             | type      | male/female | breakable     | pin material | full length |
@@ -81,7 +81,7 @@ note below three version available, we only sell "right-bend" version here [[CCO
 ## right bend 
 
 
-![](2025-04-08-15-17-53.png)
+![](2025-04-08-15-17-53.webp)
 
 
 ## male pin header height
@@ -128,9 +128,9 @@ note below three version available, we only sell "right-bend" version here [[CCO
 
 ## CAD design 
 
-![](2026-05-16-20-53-39.png)
+![](2026-05-16-20-53-39.webp)
 
-![](2026-05-16-20-57-39.png)
+![](2026-05-16-20-57-39.webp)
 
 - [[eagleCAD-dat]]
 

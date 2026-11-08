@@ -20,7 +20,7 @@
 
 ## current limit control 
 
-![](2025-12-30-02-36-12.png)
+![](2025-12-30-02-36-12.webp)
 
 
 Current Limiting Circuit with TL431

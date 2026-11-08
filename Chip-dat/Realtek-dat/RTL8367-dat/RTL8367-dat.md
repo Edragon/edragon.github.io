@@ -20,4 +20,4 @@ Note: The exact feature set may vary slightly depending on the RTL8367 variant (
 
 ## sch 
 
-![](2025-06-19-17-45-29.png)
+![](2025-06-19-17-45-29.webp)

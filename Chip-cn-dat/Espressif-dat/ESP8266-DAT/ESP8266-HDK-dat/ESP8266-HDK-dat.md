@@ -55,7 +55,7 @@ Hardware SPI Pins (Default)
 
 module bootstrap 
 
-![](2026-07-28-19-10-43.png)
+![](2026-07-28-19-10-43.webp)
 
 
 
@@ -165,7 +165,7 @@ auto serial SCH
 
 3.3V scale to 1V 
 
-![](2026-06-11-17-50-02.png)
+![](2026-06-11-17-50-02.webp)
 
 ![](2026-07-28-19-07-19.png)
 

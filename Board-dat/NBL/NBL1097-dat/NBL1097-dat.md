@@ -44,7 +44,7 @@ https://www.electrodragon.com/product/bk8000d-bt-bluetooth-spp-audio-hpf-player/
 
 ## Pins V1
 
-![](2023-11-09-15-22-38.png)
+![](2023-11-09-15-22-38.webp)
 
 
 

@@ -23,7 +23,7 @@ NNGAB ??
 
 build 1 
 
-![](2026-06-18-21-11-47.png)
+![](2026-06-18-21-11-47.webp)
 
 - [[creatic-dat]] - [[XT2105-dat]] - [[battery-protector-dat]]
 

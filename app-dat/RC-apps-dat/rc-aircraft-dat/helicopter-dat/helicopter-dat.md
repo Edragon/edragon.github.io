@@ -1,6 +1,6 @@
 # Helicopter (RC) — Overview and Comparison with Quadrotors
 
-![](2025-12-05-01-05-14.png)
+![](2025-12-05-01-05-14.webp)
 
 ## Summary
 This note compares single-rotor helicopters with quadrotors for RC/aerial use. Helicopters offer higher efficiency, payload and speed, but are mechanically complex, costly, and harder to operate. Quadrotors are simpler, cheaper, and easier to learn.

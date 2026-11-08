@@ -8,9 +8,9 @@
 - 2 Main Terminal_2 Connected to Phase or neutral of AC mains
 - 3 Gate Used to trigger the SCR.
 
-![](2023-12-01-14-06-03.png)
+![](2023-12-01-14-06-03.webp)
 
-![](2023-12-01-14-06-30.png)
+![](2023-12-01-14-06-30.webp)
 
 ## Features
 

@@ -12,7 +12,7 @@ datasheet == [[IP6826-datasheet.pdf]]
 
 - [[XB8886-dat]]
 
-![](2026-06-18-19-54-44.png)
+![](2026-06-18-19-54-44.webp)
 
 
 - [[SINH-dat]] - [[SS8819-dat]] - [[IP6826-dat]] - [[MCU-dat]] 

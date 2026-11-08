@@ -11,7 +11,7 @@
 
 ## find VTX channel 
 
-![](2026-10-28-20-48-51.png)
+![](2026-10-28-20-48-51.webp)
 
 ## preferences 
 

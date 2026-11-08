@@ -104,7 +104,7 @@ If you are trying to hook up a compatible matching SDIO Wi-Fi card meant specifi
 
 ![](2026-10-01-17-48-32.webp)
 
-![](2026-10-01-17-48-57.png)
+![](2026-10-01-17-48-57.webp)
 
 
 

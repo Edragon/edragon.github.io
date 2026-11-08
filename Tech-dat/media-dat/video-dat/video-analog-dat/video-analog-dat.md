@@ -202,7 +202,7 @@ Baseline 400 mW + 10 dBi:
 
 ### Other RC video transmission
 
-![](2025-04-23-14-33-42.png)
+![](2025-04-23-14-33-42.webp)
 
 
 
@@ -322,7 +322,7 @@ PCIe capture card (for desktops)
 
 ![](2025-04-01-18-04-23.png)
 
-![](2025-04-01-18-04-51.png)
+![](2025-04-01-18-04-51.webp)
 **Cables & Adapters**
 
 RCA (Composite) or S-Video cables (depending on your video source)

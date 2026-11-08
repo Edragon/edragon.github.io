@@ -27,7 +27,7 @@ arduino library == http://playground.arduino.cc/Main/LibraryForI2CEEPROM
 
 SCH1 
 
-![](2026-01-23-03-48-35.png)
+![](2026-01-23-03-48-35.webp)
 
 
 ID EEPROM: (No soldering on-board )

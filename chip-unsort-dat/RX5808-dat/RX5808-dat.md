@@ -44,7 +44,7 @@ The RX5808 is a compact 5.8 GHz analog wireless audio and video receiver module 
 
 ## module info 
 
-![](2026-10-28-00-58-48.png)
+![](2026-10-28-00-58-48.webp)
 
 ![](2026-10-28-00-59-24.png)
 
@@ -58,11 +58,11 @@ The RX5808 is a compact 5.8 GHz analog wireless audio and video receiver module 
 
 build 1 
 
-![](2026-10-28-01-17-17.png)
+![](2026-10-28-01-17-17.webp)
 
 ![](2026-10-28-01-17-48.webp)
 
-![](2026-10-28-01-30-49.png)
+![](2026-10-28-01-30-49.webp)
 
 
 ![](2026-10-28-01-31-39.png)

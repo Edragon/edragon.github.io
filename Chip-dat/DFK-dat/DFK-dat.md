@@ -12,4 +12,4 @@ The DK Series of non-isolated dc-dc converters provide high efficiency, cost eff
 Occupying a footprint of less than 2 cm (0.3 in²), these are the converters of communications, computing, industrial and consumer applications where boardspace, cost, height, efficiency, and reliable operation in elevated temperature environments are critical.
 
 
-![](2025-08-06-19-15-29.png)
+![](2025-08-06-19-15-29.webp)

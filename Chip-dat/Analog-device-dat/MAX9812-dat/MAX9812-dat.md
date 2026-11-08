@@ -33,7 +33,7 @@ The  MAX9812H/MAX9813H  are PC2001  compliant  and  are  optimized  for  5V  ope
 
 MAX9812 
 
-![](2025-04-01-14-22-33.png)
+![](2025-04-01-14-22-33.webp)
 
 MAX9813 
 

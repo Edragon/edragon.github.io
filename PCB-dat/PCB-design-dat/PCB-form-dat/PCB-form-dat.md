@@ -19,7 +19,7 @@
 
 4x PCBs stack - [[PCB-stack-dat]]
 
-![](2026-06-19-15-27-43.png)
+![](2026-06-19-15-27-43.webp)
 
 
 - [[SW6206-dat]] - [[ismartware-dat]] - [[power-adapter-dat]] - [[PCB-form-dat]] - [[LED-indicator-dat]] - [[LED-dat]] - [[led-indicator-dat]]
@@ -65,7 +65,7 @@ U7 8VH0B2 8VHOB2 == unknown
 - 
 V+正极接电源V-负极接电源，F+和F-接散风扇，LH-和+接灯
 
-![](2026-06-02-20-40-53.png)
+![](2026-06-02-20-40-53.webp)
 
 ### slot board 4 == -/+ two pins 
 
@@ -77,12 +77,12 @@ similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]
 
 - [[PCB-form-dat]] - [[LN2566-dat]]
 
-![](2026-06-02-20-26-04.png)
+![](2026-06-02-20-26-04.webp)
 
 
 ### slot board 3 
 
-![](2026-06-02-20-25-36.png)
+![](2026-06-02-20-25-36.webp)
 
 ### stack board 
 
@@ -92,7 +92,7 @@ similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]
 
 ![](2026-06-02-19-46-49.png)
 
-![](2026-06-02-19-47-26.png)
+![](2026-06-02-19-47-26.webp)
 
 
 ### triangle soldering slot plug board 

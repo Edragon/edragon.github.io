@@ -9,7 +9,7 @@
 
 assembled using board 
 
-![](2025-06-16-15-18-49.png)
+![](2025-06-16-15-18-49.webp)
 
 board map 
 

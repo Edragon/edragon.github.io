@@ -53,11 +53,11 @@ mostly used for balancer kart, electric go-kart, and electric tri-cycle,
 
 
 
-![](2025-04-03-15-14-31.png)
+![](2025-04-03-15-14-31.webp)
 
 ![](2025-04-03-15-15-58.png)
 
-![](2025-04-03-15-16-42.png)
+![](2025-04-03-15-16-42.webp)
 
 12-inch 3000W 18-shaft + Mingzhe semi-molten tire
 

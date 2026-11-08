@@ -26,9 +26,9 @@ CBB61 Fan Starting Capacitor 450V 1/1.2/1.5/1.8/2/2.5/3/3.5/4/4.5-20UF
 
 ## larget start capacitor 
 
-![](2025-05-24-19-45-14.png)
+![](2025-05-24-19-45-14.webp)
 
-![](2025-05-24-19-45-43.png)
+![](2025-05-24-19-45-43.webp)
 
 ## Why Not to Connect Polarized Capacitors Directly to DC Motors
 

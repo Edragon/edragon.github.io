@@ -11,7 +11,7 @@
 
 ## Board Map 
 
-![](2024-04-01-17-13-20.png)
+![](2024-04-01-17-13-20.webp)
 
 
 | Pin | Definitions | Descrpitions                                                                                    |

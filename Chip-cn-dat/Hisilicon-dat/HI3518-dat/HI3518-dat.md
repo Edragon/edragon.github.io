@@ -32,7 +32,7 @@ HI3518ADMEB_PCB.pcb == [[cadence-dat]] - [[HI3518-dat]] - [[EDA-dat]]
 
 diagram 
 
-![](2026-10-02-14-33-41.png)
+![](2026-10-02-14-33-41.webp)
 
 power tree - [[power-dat]] - [[power-tree-dat]] - [[HI3518-dat]]
 
@@ -45,7 +45,7 @@ power
 
 DDR 
 
-![](2026-10-02-14-37-49.png)
+![](2026-10-02-14-37-49.webp)
 
 SYS
 
@@ -53,7 +53,7 @@ SYS
 
 periperals
 
-![](2026-10-02-14-36-43.png)
+![](2026-10-02-14-36-43.webp)
 
 
 flash 
@@ -63,7 +63,7 @@ flash
 
 CONN
 
-![](2026-10-02-14-35-42.png)
+![](2026-10-02-14-35-42.webp)
 
 ## Hi3518
 

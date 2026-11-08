@@ -24,7 +24,7 @@ Main advantage: high-speed communication. When connected via SPP to a phone or P
 
 ![](2026-02-04-18-12-02.png)
 
-![](2026-02-04-18-12-29.png)
+![](2026-02-04-18-12-29.webp)
 
 - 12 VCC: power supply (2.1–3.6 V)
 - 13 GND: ground
@@ -72,7 +72,7 @@ Then follow this sequence:
 4. The UART also prints connection information, indicating that the link is active.
 5. Once connected, transparent data transmission can begin.
 
-![](2026-04-29-12-25-35.png)
+![](2026-04-29-12-25-35.webp)
 
 When the slave is connected, it outputs:
 

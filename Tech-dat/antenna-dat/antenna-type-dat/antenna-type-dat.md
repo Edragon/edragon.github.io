@@ -51,7 +51,7 @@ Here is the summary of the relationship between omnidirectional, directional, li
 - [[antenna-whip-dat]]
 
 
-![](2026-10-01-00-23-44.png)
+![](2026-10-01-00-23-44.webp)
 
 
 ## SMA antenna 
@@ -67,7 +67,7 @@ Here is the summary of the relationship between omnidirectional, directional, li
 
 ## box antenna 
 
-![](2024-11-08-19-16-45.png)
+![](2024-11-08-19-16-45.webp)
 
 
 

@@ -5,7 +5,7 @@
 
 ## Overview
 
-![](2026-05-26-17-08-08.png)
+![](2026-05-26-17-08-08.webp)
 
 Excellent noise suppression; no audible noise even with ears close to the speaker when no input is connected. Dual-channel 3W + 3W stereo output at 5V, capable of driving 4Ω or 8Ω speakers directly. The filterless Class D design allows for efficient power usage, even from a computer USB port. 
 
@@ -32,7 +32,7 @@ Excellent noise suppression; no audible noise even with ears close to the speake
 
 Connection to the [[speaker-dat]]:
 
-![Speaker Connection](2026-05-26-17-04-23.png)
+![Speaker Connection](2026-05-26-17-04-23.webp)
 
 
 ## References 
