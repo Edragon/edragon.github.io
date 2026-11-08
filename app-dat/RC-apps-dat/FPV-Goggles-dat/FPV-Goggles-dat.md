@@ -2,6 +2,7 @@
 # FPV-Goggles-dat
 
 
+- [[display-app-dat]] - [[app-dat]] - [[radio-app-dat]] - [[radio-dat]]
 
 
 - [[FPV-goggles-dat]] - [[betaFPV-dat]] - [[FPV-goggles-digital-dat]] - [[VR04-dat]]
@@ -40,6 +41,7 @@ good example from [[hawkeye-dat]] with [[antenna-diversity-dat]] - [[FPV-goggles
 
 - version hawkeye goggles V2 
 
+![](2026-11-09-00-22-24.png)
 
 ![](2026-11-07-02-59-14.webp)
 

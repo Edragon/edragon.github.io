@@ -4,8 +4,6 @@
 
 - [[rc-apps-dat]]
 
-- [[display-app-dat]] - [[app-dat]] - [[mosfet-app-dat]] 
-
 ## a - z 
 
 - [[earphone-dat]] - [[earphone-charging-box-dat]] - [[app-dat]] - [[injoinic-dat]] - [[IP5513-dat]]
@@ -46,7 +44,10 @@
 
 ## Domestic Appliances 
 
-- [[logic-inverter-dat]] or [[data-logger-dat]], [[meter-eneregy-dat]]
+
+
+
+- [[logic-inverter-dat]] or [[data-logger-dat]], [[meter-energy-dat]] - [[meter-power-dat]]
 
 - [[solar-power-dat]] - [[power-storage-dat]]
   
@@ -164,6 +165,13 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 - [[commerial-dat]] - [[fix-dat]] - [[fab-workspace-dat]] - [[app-dat]] - [[product-dat]]
 
 - [[insta360-dat]] - [[gopro-dat]] - [[insta360-go2-camera-dat]] - [[insta360-go2-charger-dat]]
+
+
+
+## tech app 
+
+
+- [[display-app-dat]] - [[app-dat]] - [[mosfet-app-dat]] - [[radio-app-dat]]
 
 
 ## repo 
