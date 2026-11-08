@@ -3,7 +3,7 @@
 
 
 
-- [[HLW8012-dat]] - [[energy-meter-dat]] - [[HLW-dat]] - [[HLW8032-dat]]
+- [[HLW8012-dat]] - [[meter-energy-dat]] - [[HLW-dat]] - [[HLW8032-dat]]
 
 
 - [legacy wiki page ](https://w.electrodragon.com/w/HLW8012)
