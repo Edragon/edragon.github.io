@@ -57,7 +57,7 @@
 
 ### power and battery
 
-- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[power-wireless-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]] - [[dcdc-dat]] - [[solar-driver-dat]] - [[power-limit-dat]]
+- [[power-dat]]  - [[dcdc-down-dat]] - [[dcdc-boost-dat]] - [[ldo-dat]] - [[power-wireless-dat]] - [[solar-power-dat]] - [[POE-dat]] - [[PMIC-dat]] - [[dcdc-dat]] - [[solar-driver-dat]] - [[power-limit-dat]] - [[voltage-supervisor-dat]]
 
 - [[dcdc-boost-down-dat]]
 

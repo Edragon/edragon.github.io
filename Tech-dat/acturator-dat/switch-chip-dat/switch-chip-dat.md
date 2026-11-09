@@ -19,6 +19,9 @@
 ## chip switch 
 
 
+- [[ad-switch-dat]]
+
+
 ![](2025-08-19-16-58-06.webp)
 
 

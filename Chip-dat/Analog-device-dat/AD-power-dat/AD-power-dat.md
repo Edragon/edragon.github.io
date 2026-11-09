@@ -27,6 +27,10 @@ LT8609/LT8609A/LT8609B == 42V, 3A Synchronous Step-Down Regulator with 2.5µA Qu
 ## LDO 
 
 
+ADP1706/ADP1707/ADP1708 - 1A, Low Dropout,CMOS Linear Regulator
+
+![](2026-11-10-01-44-43.png)
+
 ## DCDC down 
 
 `LT3070` - 5A, Low Noise, Programmable Output, 85mV Dropout Linear Regulator

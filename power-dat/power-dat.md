@@ -44,6 +44,8 @@
 
 - [[ti-power-dat]] - [[diodes-dat]]
 
+- [[current-dat]] 
+
 - [[current-limit-switch-dat]]
 
 - [[AC-mains-dat]] - [[ACDC-dat]]
@@ -52,7 +54,11 @@
 
 - [[Power-distribution-dat]]
 
-- [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]] - [[power-detector-dat]] - [[power-amplifier-dat]]
+- [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]] - [[power-detector-dat]] - [[power-amplifier-dat]] 
+
+- [[voltage-supervisor-dat]] - [[voltage-dat]]
+
+
 
 - [[constant-current-dat]]
 

@@ -9,6 +9,12 @@
 - [[switch-chip-dat]] - [[power-switch-dat]] - [[AD-switch-dat]]
 
 
+
+## ADG819
+
+0.5 Ω, CMOS, 1.8 V to 5.5 V, 2:1 Mux/SPDT Switch
+
+
 ## ADG719
 
 CMOS 1.8 V to 5.5 V, 2.5 Ω 2:1 Mux/SPDT Switch in SOT-23 - ADG719

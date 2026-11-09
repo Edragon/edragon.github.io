@@ -13,6 +13,8 @@
 - [[supervisory-dat]] - [[power-switch-dat]] - [[voltage-reference-dat]] - [[voltage-interverter-dat]] - [[power-detector-dat]] - [[power-amplifier-dat]]
 
 
+
+
 ## chip 
 
 STM811TW16F
@@ -24,10 +26,6 @@ They perform a single function: asserting a reset signal whenever the VCC supply
 
 
 - [[TI-power-dat]]
-
-[TPS3824 - TPS382x Voltage Monitor With Watchdog Timer](https://www.ti.com/lit/ds/symlink/tps3828.pdf?ts=1770274138634&ref_url=https%253A%252F%252Fwww.google.com%252F)
-
-TPS3820,TPS3823,TPS3824,TPS3825,TPS3828
 
 
 

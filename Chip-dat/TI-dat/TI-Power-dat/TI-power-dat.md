@@ -28,7 +28,18 @@
 
 ## voltage supervisor
 
+
+`TPS3808` Low-Quiescent-Current, Programmable-Delay Supervisory Circuit
+
+![](2026-11-10-01-29-07.png)
+
+
+
 `TPS3808G01DBV` - IC ADJ VOLTAGE SUPERVISOR (SOT23) TPS3808G01DBV
+
+[TPS3824 - TPS382x Voltage Monitor With Watchdog Timer](https://www.ti.com/lit/ds/symlink/tps3828.pdf?ts=1770274138634&ref_url=https%253A%252F%252Fwww.google.com%252F)
+
+TPS3820,TPS3823,TPS3824,TPS3825,TPS3828
 
 
 

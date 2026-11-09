@@ -361,7 +361,11 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 - TYN7512 / TO-247J
 
+
+
+
 ## mosfet PDFN 
+
 
 
 - [[wayon-dat]] - [[WMQ50N04T1-dat]] == wayon QSDN04 - [[led-driver-dat]]
@@ -375,6 +379,11 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 P-Channel Logic Level Enhancement Mode Field Effect Transistor
 
 PK5A7BA PDFN 5x6P Halogen-Free & Lead-Free
+
+### powerpak 
+
+`SQJ459EP` - Automotive P-Channel 60 V (D-S) 175 °C MOSFET - 60V 50A 
+
 
 
 ## mosfet TO-220 

@@ -7,6 +7,8 @@
 
 
 
+M2S005-VFG400I
+
 M2S005-VFG400I == ARM® Cortex®-M3 System On Chip (SOC) IC SmartFusion®2 FPGA - 5K Logic Modules 166MHz 400-VFBGA (17x17)
 
 
