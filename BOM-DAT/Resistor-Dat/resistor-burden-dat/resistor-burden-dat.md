@@ -36,7 +36,7 @@ In summary, a burden resistor is crucial for safely and accurately measuring cur
 
 # sample-resistor-dat
 
-![](2025-05-20-13-40-57.png)
+![](2025-05-20-13-40-57.webp)
 
 ![](2025-05-20-13-41-43.webp)
 
@@ -64,7 +64,7 @@ R0003 = 0.3 mR
 
 ## Testing precision
 
-![](2025-05-29-14-59-23.png)
+![](2025-05-29-14-59-23.webp)
 
 
 ## ref 

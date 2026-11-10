@@ -24,7 +24,7 @@ voltage 50 V, maximum current 3.5A.
 
 ## application 
 
-![](2025-06-17-13-57-36.png)
+![](2025-06-17-13-57-36.webp)
 
 
 ## Vref 

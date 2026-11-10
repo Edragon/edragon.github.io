@@ -79,7 +79,7 @@ Supports data reception on six channels.
 
 with STM32 
 
-![](2024-01-13-17-39-29.png)
+![](2024-01-13-17-39-29.webp)
 
 with arduino 
 
@@ -87,7 +87,7 @@ with arduino
 
 ## Core SCH 
 
-![](2025-08-19-17-10-38.png)
+![](2025-08-19-17-10-38.webp)
 
 
 

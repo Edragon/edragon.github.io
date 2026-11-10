@@ -44,7 +44,7 @@ These regulators can provide local on-card regulation, eliminating the distribut
 
 ## SCH 
 
-![](2026-09-03-16-57-20.png)
+![](2026-09-03-16-57-20.webp)
 
 
 # L78xx-dat

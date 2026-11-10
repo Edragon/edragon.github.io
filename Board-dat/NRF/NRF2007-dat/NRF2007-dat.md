@@ -33,7 +33,7 @@ For example, MP3PLAYER, MD, CD/MP3PLAYER, PORTABLVCD/DVD, MOBILEPHONE, PDA, elec
 
 ## SCH 
 
-![](2024-11-18-19-10-06.png)
+![](2024-11-18-19-10-06.webp)
 
 ## ref 
 

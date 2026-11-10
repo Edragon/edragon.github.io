@@ -28,7 +28,7 @@ LK-1008D
 
 - [[LM324-dat]] - [[battery-balance-charger-dat]] - [[LK-1008D-dat]]
 
-![](2026-07-02-15-25-30.png)
+![](2026-07-02-15-25-30.webp)
 
 
 ## ref 

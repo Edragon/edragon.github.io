@@ -15,7 +15,7 @@
 
 ### load switching 
 
-![](2024-10-06-15-13-53.png)
+![](2024-10-06-15-13-53.webp)
 
 ### Power switching is better with N-type devices
 

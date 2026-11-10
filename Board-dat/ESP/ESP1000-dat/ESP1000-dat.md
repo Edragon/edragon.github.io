@@ -65,7 +65,7 @@ Verion 1.0
   - Lihtium battery + USB Cable 
   - USB-TTL debug power supply + USB Cable 
 
-![](2025-02-21-14-58-48.png)
+![](2025-02-21-14-58-48.webp)
 ![](2025-02-21-14-59-03.webp)
 
 

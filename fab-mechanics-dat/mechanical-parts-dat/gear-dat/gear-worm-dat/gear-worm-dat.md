@@ -13,7 +13,7 @@ Worm gear systems are known for their ability to provide high reduction ratios i
 - [[servo-dat]]
 
 
-![](2025-04-09-16-10-47.png)
+![](2025-04-09-16-10-47.webp)
 
 
 

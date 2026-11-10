@@ -30,7 +30,7 @@ Gigabit optical-to-electrical modules must be used with Category 5e, Category 6,
 
 ## advantage 
 
-![](2025-03-28-17-43-30.png)
+![](2025-03-28-17-43-30.webp)
 
 
 
@@ -42,7 +42,7 @@ Gigabit optical-to-electrical modules must be used with Category 5e, Category 6,
 
 圆形单工光缆,9/125 单模,Riser 等级,2.0mm
 
-![](2025-04-21-14-29-37.png)
+![](2025-04-21-14-29-37.webp)
 
 
 ## Usage 

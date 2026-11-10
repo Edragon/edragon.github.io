@@ -79,7 +79,7 @@ Dual ARM® Cortex®-A9 MPCore™ with CoreSight™ System On Chip (SOC) IC Zynq�
 
 XC7A200T - FPGA - Field Programmable Gate Array XC7A200T-1FFG1156I
 
-![](2025-10-03-14-49-14.png)
+![](2025-10-03-14-49-14.webp)
 
 ### Artix-7 FPGA Feature Summary
 

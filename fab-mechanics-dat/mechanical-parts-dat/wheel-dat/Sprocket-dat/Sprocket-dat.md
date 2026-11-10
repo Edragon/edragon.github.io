@@ -24,7 +24,7 @@ Drive Sprocket / Motor Sprocket / Pinion: 指安裝在電機軸上的那個「�
 
 ## Large Sprocket
 
-![](2026-02-28-02-46-24.png)
+![](2026-02-28-02-46-24.webp)
 
 ## info 
 

@@ -71,9 +71,9 @@ chip list
 - DP5125 / MV245B
 https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA/issues/645
 
-![](2026-03-24-16-40-47.png)
+![](2026-03-24-16-40-47.webp)
 
-![](2026-03-24-16-41-06.png)
+![](2026-03-24-16-41-06.webp)
 
 ## Code Documentation
 

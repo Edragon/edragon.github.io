@@ -74,7 +74,7 @@ compare 1 - [[X12-dat]] - [[PCB-fix-dat]] - [[FPV-fix-dat]]
 
 broken - [[inductor-dat]] - [[capacitor-dat]]
 
-![](2026-09-16-21-35-46.png)
+![](2026-09-16-21-35-46.webp)
 
 broken 2 
 

@@ -67,7 +67,7 @@
 
 - [[cable-BV-dat]] - [[cable-BVR-dat]] - [[cable-RV-dat]] - [[cable-dat]]
 
-![](2026-07-08-15-56-58.png)
+![](2026-07-08-15-56-58.webp)
 
 ## BVR mutiple cores cable - 0.5mm^2 
 
@@ -97,7 +97,7 @@
 
 2P==JST-1F-to-2M
 
-![](2025-05-12-14-09-23.png)
+![](2025-05-12-14-09-23.webp)
 
 2P==SM-1M-to-2F
 
@@ -109,7 +109,7 @@
 
 2S==T_Socket-1F-to-2M
 
-![](2025-05-12-14-11-12.png)
+![](2025-05-12-14-11-12.webp)
 
 - [[CONN-cable-dat]]
 

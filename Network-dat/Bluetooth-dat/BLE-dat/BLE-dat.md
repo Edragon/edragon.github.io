@@ -47,7 +47,7 @@ For iPhone users, you can download the following software for debugging:
 
 For Android devices, you can directly install the following apps:
 
-![](2025-07-30-16-44-50.png)
+![](2025-07-30-16-44-50.webp)
 
 
 - lightBlue in google store 

@@ -24,7 +24,7 @@ The inverter converts the DC electricity stored in the batteries into AC electri
     *   **Peak Power:** The maximum power the inverter can supply for a short period. If your appliances total 1kW, you might need an inverter with a peak power of over 2kW, as some manufacturers label with peak power. For continuous loads, ensure the inverter's continuous rating is sufficient.
 
 
-![](2025-06-15-01-57-17.png)
+![](2025-06-15-01-57-17.webp)
 
 
 

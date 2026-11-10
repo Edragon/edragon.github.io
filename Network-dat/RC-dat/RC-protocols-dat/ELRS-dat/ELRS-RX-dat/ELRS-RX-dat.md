@@ -229,7 +229,7 @@ Therefore, for hardware safety during a total signal loss, you want the receiver
 
 ## T-anntena version 
 
-![](2025-04-25-16-52-56.png)
+![](2025-04-25-16-52-56.webp)
 
 
 - [[antenna-dat]]

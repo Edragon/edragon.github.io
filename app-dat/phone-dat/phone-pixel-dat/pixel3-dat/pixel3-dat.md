@@ -19,13 +19,13 @@ Pixel 3 是"中国信号完全可用"的谷歌机——TD-LTE 全频段支持，
 
 ## info 
 
-![](2025-11-19-16-16-51.png)
+![](2025-11-19-16-16-51.webp)
 
 - Model-G013C
 
 For Schematic Diagram
 
-![](2025-11-19-16-18-19.png)
+![](2025-11-19-16-18-19.webp)
 
 - Qualcomm Snapdragon 845
 

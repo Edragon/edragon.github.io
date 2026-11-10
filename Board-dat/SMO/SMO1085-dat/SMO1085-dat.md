@@ -13,7 +13,7 @@
 
 - sensor probe is waterproofed - [[waterproof-dat]]
 
-![](2025-12-12-18-15-32.png)
+![](2025-12-12-18-15-32.webp)
 
 The integrated ultrasonic proximity module provides non-contact distance sensing from 20 cm to 600 cm. The module integrates a transmitter/receiver transducer and control circuitry. The separate probe includes a 2.5 m cable.
 
@@ -110,7 +110,7 @@ Mode 2 — Low-power trigger mode
 - Behavior: the module performs one measurement; ECHO outputs a high pulse while measuring. Distance is calculated the same way as Mode 1.
 - Standby current: ~10 µA.
 
-![](2025-12-12-18-37-20.png)
+![](2025-12-12-18-37-20.webp)
 
 Mode 3 — Auto periodic UART output
 
@@ -131,7 +131,7 @@ Example
   - Distance = 0x07A1 = 1953 mm
 - Typical current (active average): ~6.5 mA.
 
-![](2025-12-12-18-37-53.png)
+![](2025-12-12-18-37-53.webp)
 
 Mode 4 — Command-triggered UART / RX-trigger
 

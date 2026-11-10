@@ -12,7 +12,7 @@
 
 https://en.wikipedia.org/wiki/S/PDIF
 
-![](2025-04-24-18-42-26.png)
+![](2025-04-24-18-42-26.webp)
 
 ## 🎧 Is SPDIF Analog or Digital?
 

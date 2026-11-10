@@ -8,7 +8,7 @@ https://www.infineon.com/dgdl/irf8313pbf.pdf?fileId=5546d462533600a40153560d3852
 dual-N 
 
 
-![](2023-10-27-17-07-38.png)
+![](2023-10-27-17-07-38.webp)
 
 
 ## Ref 

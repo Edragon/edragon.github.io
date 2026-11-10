@@ -6,12 +6,12 @@
 
 ## thread holder 
 
-![](2026-06-04-16-58-31.png)
+![](2026-06-04-16-58-31.webp)
 
 
 ## thread adapter 
 
-![](2026-02-28-02-38-16.png)
+![](2026-02-28-02-38-16.webp)
 
 
 ## The "Rule of Three" Threads

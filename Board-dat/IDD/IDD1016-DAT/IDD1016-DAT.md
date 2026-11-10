@@ -34,7 +34,7 @@ Please make sure any of your cloned ESP32 board can match the same pin out
 
 ![](2024-10-24-14-48-15.webp)
 
-![](2024-10-24-14-49-24.png)
+![](2024-10-24-14-49-24.webp)
 
 
 

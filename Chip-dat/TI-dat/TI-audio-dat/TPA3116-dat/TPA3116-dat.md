@@ -15,7 +15,7 @@ https://www.electrodragon.com/product/210w-dual-channel-hifi-mini-audio-amplifie
 
 ## chip info 
 
-![](2026-02-23-14-23-19.png)
+![](2026-02-23-14-23-19.webp)
 
 宽电压范围：12V至26V
 

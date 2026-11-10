@@ -172,7 +172,7 @@ While **TOSLINK** (optical) is a popular and widely used optical standard, espec
 
 ### TOTX1350
 
-![](2025-04-25-03-00-29.png)
+![](2025-04-25-03-00-29.webp)
 
 
 ## SCH? 

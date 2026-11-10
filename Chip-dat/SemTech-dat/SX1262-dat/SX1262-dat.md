@@ -57,7 +57,7 @@ While the silicon itself can tune to any frequency in this range, actual hardwar
 
 - [[LLCC68-dat]]
 
-![](2025-06-26-19-57-47.png)
+![](2025-06-26-19-57-47.webp)
 
 
 ## SX1262 vs SX1278 Comparison
@@ -66,7 +66,7 @@ While the silicon itself can tune to any frequency in this range, actual hardwar
 
 ![](2025-06-26-19-56-24.webp)
 
-![](2025-06-26-19-59-04.png)
+![](2025-06-26-19-59-04.webp)
 
 | Feature                       | SX1262                                         | SX1278                                   |
 | ----------------------------- | ---------------------------------------------- | ---------------------------------------- |

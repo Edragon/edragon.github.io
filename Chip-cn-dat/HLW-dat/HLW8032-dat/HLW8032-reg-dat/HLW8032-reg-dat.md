@@ -36,7 +36,7 @@
 
     02 E1 80 == (Dec) 188,800
 
-![](2024-12-08-16-39-38.png)
+![](2024-12-08-16-39-38.webp)
 
 Summing these values gives the voltage parameter register value: 131072 + 57600 + 128 = 188800
 

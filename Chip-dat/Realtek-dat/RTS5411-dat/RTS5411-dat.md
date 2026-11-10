@@ -24,7 +24,7 @@ datasheet == [[RTS5411-Realtek.pdf]]
 
 - [[flash-dat]] - [[PUY-dat]]
 
-![](2026-06-17-15-01-41.png)
+![](2026-06-17-15-01-41.webp)
 
 
 
@@ -34,7 +34,7 @@ datasheet == [[RTS5411-Realtek.pdf]]
 
 ## build 
 
-![](2026-06-17-15-00-37.png)
+![](2026-06-17-15-00-37.webp)
 
 ## ref 
 

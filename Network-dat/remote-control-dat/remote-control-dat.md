@@ -21,7 +21,7 @@ Applications
 - Car alarm system
 
 
-![](2026-03-17-13-42-57.png)
+![](2026-03-17-13-42-57.webp)
 
 
 

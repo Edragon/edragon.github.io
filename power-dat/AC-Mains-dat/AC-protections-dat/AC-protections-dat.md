@@ -28,7 +28,7 @@
 
 ## burnt current limit resistor 
 
-![](2025-12-05-19-48-45.png)
+![](2025-12-05-19-48-45.webp)
 
 
 

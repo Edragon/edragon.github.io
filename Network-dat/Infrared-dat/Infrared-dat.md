@@ -64,7 +64,7 @@ drive 2
 
 drive 3 
 
-![](2025-02-18-17-05-16.png)
+![](2025-02-18-17-05-16.webp)
 
 
 
@@ -77,7 +77,7 @@ legacy wiki page - [Infrared for RPI](https://www.electrodragon.com/w/index.php?
 
 ## SCH STC11 
 
-![](2026-07-23-17-12-40.png)
+![](2026-07-23-17-12-40.webp)
 
 
 ## BOM 

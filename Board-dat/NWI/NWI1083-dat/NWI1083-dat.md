@@ -15,7 +15,7 @@ https://w.electrodragon.com/w/Category:ESP8266_HDK
 
 ![](2024-01-02-17-56-37.webp)
 
-![](2024-01-02-17-56-55.png)
+![](2024-01-02-17-56-55.webp)
 
 | mod. | note | left | L pin | L board | R board | R pin | right | note | mod. |
 | ---- | ---- | ---- | ----- | ------- | ------- | ----- | ----- | ---- | ---- |
@@ -28,7 +28,7 @@ https://w.electrodragon.com/w/Category:ESP8266_HDK
 | p-d  | SS   | 16   | io15  | D8      | G       | G     | 15    |      |      |
 |      |      | 8    | 3V3   | 3V3     | 5V      | 5V    | 5V    |      |      |
 
-![](2026-02-12-16-18-05.png)
+![](2026-02-12-16-18-05.webp)
 
 - [[ESP8266-HDK-dat]]
 

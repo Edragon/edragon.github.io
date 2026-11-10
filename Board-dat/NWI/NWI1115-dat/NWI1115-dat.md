@@ -41,7 +41,7 @@ https://w.electrodragon.com/w/ESP_Relay_Board_VDC
 
 ## Schematic 
 
-![](2024-04-22-15-17-15.png)
+![](2024-04-22-15-17-15.webp)
 
 ## version updates 
 

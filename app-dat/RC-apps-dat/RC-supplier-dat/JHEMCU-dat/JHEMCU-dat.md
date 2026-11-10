@@ -16,7 +16,7 @@
 
 build 1 
 
-![](2026-10-01-00-27-51.png)
+![](2026-10-01-00-27-51.webp)
 
 - [[SBUS-dat]] - [[HOTRC-dat]] - [[mista-dat]] - [[camera-analog-dat]]
 

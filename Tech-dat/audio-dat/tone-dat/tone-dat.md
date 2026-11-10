@@ -5,7 +5,7 @@
 
 https://docs.arduino.cc/built-in-examples/digital/toneMelody/
 
-![](2025-03-20-16-05-24.png)
+![](2025-03-20-16-05-24.webp)
 
 
     #include "pitches.h"

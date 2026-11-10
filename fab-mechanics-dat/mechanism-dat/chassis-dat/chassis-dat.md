@@ -71,11 +71,11 @@ Here are the key special features and characteristics of this setup:
 
 overview 
 
-![](2026-10-02-18-56-04.png)
+![](2026-10-02-18-56-04.webp)
 
 
 
-![](2026-10-02-18-48-55.png)
+![](2026-10-02-18-48-55.webp)
 
 ![](2026-10-02-18-49-09.webp)
 

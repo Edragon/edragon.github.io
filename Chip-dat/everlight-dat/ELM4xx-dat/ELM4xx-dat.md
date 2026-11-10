@@ -6,7 +6,7 @@
 - [[everlight-dat]] - [[ELM4xx-dat]] - [[relay-SSR-dat]]
 
 
-![](2026-07-15-20-51-10.png)
+![](2026-07-15-20-51-10.webp)
 
 4PIN MINI FLAT PACKAGE SOLID STATE RELAY ELM4XXA(BMS) SERIES 
 

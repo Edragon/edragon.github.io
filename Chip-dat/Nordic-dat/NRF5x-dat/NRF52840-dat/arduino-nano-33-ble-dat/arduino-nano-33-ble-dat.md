@@ -17,7 +17,7 @@ https://store.arduino.cc/products/arduino-nano-33-ble
 
 - [[ESD-dat]] - [[USB-ESD-dat]]
 
-![](2026-02-10-17-29-05.png)
+![](2026-02-10-17-29-05.webp)
 
 - [[NRF52840-dat]] 
 

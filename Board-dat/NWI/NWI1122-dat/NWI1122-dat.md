@@ -15,7 +15,7 @@ https://www.electrodragon.com/product/d1-mini-pro-esp8266ex/
 
 ## pin definitions 
 
-![](2023-10-18-13-56-57.png)
+![](2023-10-18-13-56-57.webp)
 
 ## ref 
 

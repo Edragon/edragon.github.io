@@ -172,7 +172,7 @@ High Efficiency, High Current Serial LED Driver with 30 V Integrated Switch FAN5
 
 该部分用于驱动RGB屏幕背光，标准40Pin RGB屏幕基本采用串联背光，由于本身开发板供电只有5V，所以我们需要使用背光驱动芯片升压到合适的电压，来驱动屏幕背光。同时，背光驱动芯片采用恒流控制，可以避免电流过大导致背光LED烧毁，该部分原理图如下所示：
 
-![](2025-08-19-14-25-29.png)
+![](2025-08-19-14-25-29.webp)
 
 其中：
 
@@ -184,7 +184,7 @@ L1 为升压电路的电感，按照要求一般取10uh或22uh即可，不需要
 
 R5为芯片的反馈电阻，用于调节输出的电流，计算公式可参考下方：
 
-![](2025-08-19-14-25-51.png)
+![](2025-08-19-14-25-51.webp)
 
 图2.13反馈电阻计算公式
 
@@ -205,7 +205,7 @@ button buttons on the back side, low-side control white and warm white LED strip
 
 driver AOA3 ?
 
-![](2025-09-01-20-33-21.png)
+![](2025-09-01-20-33-21.webp)
 
 
 

@@ -26,7 +26,7 @@ In other boot try:
 
 ## CMSIS-DAP USB 
 
-![](2025-08-06-15-47-41.png)
+![](2025-08-06-15-47-41.webp)
 
 
 ## ST-LINK USB part 

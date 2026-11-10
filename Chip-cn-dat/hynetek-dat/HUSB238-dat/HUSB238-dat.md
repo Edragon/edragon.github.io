@@ -25,7 +25,7 @@ The HUSB238 is available in 3mm x 3mm DFN-10L and 3.9mm x 4mm SOT33-6L package o
 
 ## SCH 
 
-![](2026-06-15-15-53-55.png)
+![](2026-06-15-15-53-55.webp)
 
 
 The `HUSB238` USB PD sink chip is neat in that you can either use jumpers (really, resistor selection) to set the desired PD voltage and current or you can use I2C for dynamic querying and setting. We've build a nice Adafruit USB Type C Power Delivery Dummy Breakout board around the HUSB238 to make it very easy to configure and integrate without having to solder any tiny resistors.
@@ -40,7 +40,7 @@ Adafruit HUSB238 USB Type C Power Delivery Breakout
 
 this is one side - [[HUSB238-dat]] - this is one side - [[SC8906-dat]]
 
-![](2026-06-15-15-56-52.png)
+![](2026-06-15-15-56-52.webp)
 
 ## ref 
 

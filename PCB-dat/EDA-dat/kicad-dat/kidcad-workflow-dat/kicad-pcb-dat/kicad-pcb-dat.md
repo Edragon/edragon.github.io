@@ -117,7 +117,7 @@ pre-defined file: D:\Program Files\KiCad\8.0\share\kicad\template\Arduino_Nano
 
 
 
-![](2024-10-08-19-42-52.png)
+![](2024-10-08-19-42-52.webp)
 
 
 
@@ -131,7 +131,7 @@ pre-defined file: D:\Program Files\KiCad\8.0\share\kicad\template\Arduino_Nano
 - update PCB
 - layout it
 
-![](2024-09-18-01-43-12.png)
+![](2024-09-18-01-43-12.webp)
 
 ![](2024-09-18-01-43-55.png)
 

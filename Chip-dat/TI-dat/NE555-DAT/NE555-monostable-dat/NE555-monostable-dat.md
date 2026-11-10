@@ -42,7 +42,7 @@ T = 1.1 × R1 × C1
 ### example 2. 🧠 Circuit Function: Monostable Pulse Generator (One-Shot Timer)
 
 
-![](2025-06-07-16-05-49.png)
+![](2025-06-07-16-05-49.webp)
 
 #### 🔍 What it does:
 - When the button is pressed (SW1), the circuit triggers the **555 timer** to generate a **single output pulse**.

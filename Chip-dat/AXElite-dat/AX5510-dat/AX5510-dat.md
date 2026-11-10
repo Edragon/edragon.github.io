@@ -11,7 +11,7 @@ Shutdown Current	1uA (Max)
 Efficiency(%)	92(5 to 24V/0.2A)
 Availability	NOW
 
-![](2026-05-22-19-03-18.png)
+![](2026-05-22-19-03-18.webp)
 
 - [[RT3505-dat]]
 

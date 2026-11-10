@@ -42,7 +42,7 @@
 
 ## Cavity Speakers (Box Speakers)
 
-![](2026-03-03-21-13-02.png)
+![](2026-03-03-21-13-02.webp)
 
 A **Cavity Speaker** (often called a "Box Speaker" in electronics) is not a different type of speaker driver, but rather a **complete acoustic system**. It consists of a standard speaker driver pre-installed into a precisely engineered, sealed plastic or metal enclosure (the "cavity").
 
@@ -233,7 +233,7 @@ There is no inherent sound quality difference between 4-ohm and 8-ohm speakers. 
 
 headset 
 
-![](2026-09-24-22-47-49.png)
+![](2026-09-24-22-47-49.webp)
 
 
 

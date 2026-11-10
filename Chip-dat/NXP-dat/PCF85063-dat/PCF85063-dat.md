@@ -27,7 +27,7 @@ GLOBAL_EN needs to be pulse low for >1mS
 
 ## SCH 
 
-![](2026-04-14-19-44-12.png)
+![](2026-04-14-19-44-12.webp)
 
 
 

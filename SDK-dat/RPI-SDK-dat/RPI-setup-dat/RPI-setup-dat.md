@@ -32,7 +32,7 @@
 
 - reset password - https://forums.raspberrypi.com/viewtopic.php?t=319398
 
-![](2024-09-30-19-19-11.png)
+![](2024-09-30-19-19-11.webp)
 
 
 

@@ -17,7 +17,7 @@ Integrated Silicon Pressure Sensor On-Chip Signal Conditioned, Temperature Compe
 
 https://www.nxp.com/docs/en/data-sheet/MPX5500.pdf
 
-![](2026-10-28-16-37-33.png)
+![](2026-10-28-16-37-33.webp)
 
 
 ## ref 

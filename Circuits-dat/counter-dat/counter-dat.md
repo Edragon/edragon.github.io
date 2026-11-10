@@ -14,7 +14,7 @@ Dual 4-Bit Decade And Binary Counters
 https://www.ti.com/product/SN54LS390/part-details/SNJ54LS390J
 
 
-![](2026-10-28-16-21-03.png)
+![](2026-10-28-16-21-03.webp)
 
 
 ![](2026-10-28-16-21-22.webp)

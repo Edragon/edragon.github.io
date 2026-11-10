@@ -34,7 +34,7 @@ the current selling version is **12-row per page**
 
 ### small size version == 12-row per page 
 
-![](2025-08-20-17-01-37.png)
+![](2025-08-20-17-01-37.webp)
 
 Every page is diverted into 12 lines, every line is about 14.75 height
 

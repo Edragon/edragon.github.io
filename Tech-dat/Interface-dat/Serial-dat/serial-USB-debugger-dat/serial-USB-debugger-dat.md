@@ -77,7 +77,7 @@ Booting Mode select
 
 - for [[NWI1126-dat]]
 
-![](2023-09-27-16-07-06.png)
+![](2023-09-27-16-07-06.webp)
 
 
 ### Confirm selected Mode 
@@ -121,8 +121,8 @@ Booting Mode select
 * https://www.st.com/en/development-tools/flasher-stm32.html
 
 ![](2024-07-05-17-39-17.png)
-![](2024-07-05-17-39-28.png)
-![](2024-07-05-17-39-45.png)
+![](2024-07-05-17-39-28.webp)
+![](2024-07-05-17-39-45.webp)
 
 
 

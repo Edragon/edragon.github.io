@@ -34,7 +34,7 @@ overview
 
 - [[ETA6980-dat]] - [[ETA-solutions-dat]]
 
-![](2026-05-23-14-36-59.png)
+![](2026-05-23-14-36-59.webp)
 
 8029 - [[mosfet-dat]]
 
@@ -52,11 +52,11 @@ G7CLF - high voltage provider chip - [[SG-micro-dat]] - [[SGM3752-dat]] - [[disp
 
 8762 - [[RTL8762-dat]] - [[realtek-dat]]
 
-![](2026-05-23-14-40-23.png)
+![](2026-05-23-14-40-23.webp)
 
 2017BA - [[CW2017-dat]] - [[cellwise-dat]] - [[voltmeter-dat]]
 
-![](2026-05-23-14-34-45.png)
+![](2026-05-23-14-34-45.webp)
 
 G248 SOT23-3 - [[GH1248-dat]] - [[golden-chip-dat]] - [[sensor-hall-dat]] 
 
@@ -72,7 +72,7 @@ battery connector
 
 upper case cable - [[cable-FPC-dat]]
 
-![](2026-05-23-14-38-20.png)
+![](2026-05-23-14-38-20.webp)
 
 header part 
 
@@ -82,7 +82,7 @@ header part
 
 ## test 
 
-![](2026-05-23-14-46-21.png)
+![](2026-05-23-14-46-21.webp)
 
 
 

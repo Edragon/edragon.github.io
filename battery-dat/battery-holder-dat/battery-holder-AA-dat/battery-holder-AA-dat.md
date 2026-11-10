@@ -28,7 +28,7 @@
 
 product list 
 
-![](2026-03-13-19-55-32.png)
+![](2026-03-13-19-55-32.webp)
 
 back side 
 
@@ -46,7 +46,7 @@ seperated side == output side
 
 ### PCB PTH soldering holder 
 
-![](2024-09-22-00-21-47.png)
+![](2024-09-22-00-21-47.webp)
 
 
 ## 3X AA battery holder 

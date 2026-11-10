@@ -111,11 +111,11 @@ build inside
 
 ## test demo wiring CN 
 
-![](2026-06-05-01-01-28.png)
+![](2026-06-05-01-01-28.webp)
 
 ![](2026-06-05-01-03-41.webp)
 
-![](2026-06-05-01-01-51.png)
+![](2026-06-05-01-01-51.webp)
 
 - 有的输入带SW端口是启动线要接电源正极
 - 有的带L端口是LED线接负极点亮
@@ -135,7 +135,7 @@ fw5271 2110A ??
 - **Electronic Speed Controller (ESC)**: Controls the speed of the motors by adjusting the power supplied to them. ESCs are essential for smooth and responsive flight.
 
 
-![](2025-09-13-15-48-28.png)
+![](2025-09-13-15-48-28.webp)
 
 
 

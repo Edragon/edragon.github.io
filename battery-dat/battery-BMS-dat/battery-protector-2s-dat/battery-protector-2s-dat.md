@@ -49,7 +49,7 @@ Best for: The human-carrying scooter project where knowing the remaining range i
 
 
 
-![](2026-02-12-17-58-49.png)
+![](2026-02-12-17-58-49.webp)
 
 
 ## wiring 

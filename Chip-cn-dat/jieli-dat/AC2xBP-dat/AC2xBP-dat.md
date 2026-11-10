@@ -30,7 +30,7 @@ JL AC21BP
 
 JL AC22BP11630 - 
 
-![](2026-06-17-14-50-32.png)
+![](2026-06-17-14-50-32.webp)
 
 - [[PCB-penalization-dat]] - [[PCB-form-dat]] - [[jieli-dat]]
 

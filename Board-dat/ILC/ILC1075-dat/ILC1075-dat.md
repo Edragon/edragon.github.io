@@ -21,7 +21,7 @@ resolution 80 x 160
 type high-resolution IPS LCD
 connection: soldering
 
-![](43-28-16-17-07-2023.png)
+![](43-28-16-17-07-2023.webp)
 
 
 - [[ILC1075-dat]] - [[ilc1078-dat]] - [[fpc-dat]]

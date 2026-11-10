@@ -13,7 +13,7 @@
 - 支持MJPEG 1280x720@30fps 编码
 - 丰富的音视频接口
 
-![](2025-08-09-01-09-27.png)
+![](2025-08-09-01-09-27.webp)
 
 ## function application diagram 
 

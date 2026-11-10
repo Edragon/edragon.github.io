@@ -45,7 +45,7 @@ I did find the "insert" key, repeat last action but it's still too time consumin
 
 ### mutiple assign the value
 
-![](2024-10-09-17-15-09.png)
+![](2024-10-09-17-15-09.webp)
 
 
 
@@ -58,7 +58,7 @@ I did find the "insert" key, repeat last action but it's still too time consumin
 
 ### assign the footprints
 
-![](2024-09-18-01-41-13.png)
+![](2024-09-18-01-41-13.webp)
 
 - add symbols and assign footprint 
   - enter "E" for properties, and assign the footprint 

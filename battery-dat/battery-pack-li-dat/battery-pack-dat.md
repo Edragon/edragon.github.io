@@ -251,7 +251,7 @@ How it ruins other paralleled batteries:
 
 ![](2025-07-23-19-31-29.webp)
 
-![](2025-07-23-19-32-19.png)
+![](2025-07-23-19-32-19.webp)
 
 ![](2025-07-23-19-32-32.webp)
 
@@ -321,7 +321,7 @@ In series packs, **the smallest parallel group determines the usable capacity**.
 
 ## APPs 
 
-![](2026-05-19-23-45-52.png)
+![](2026-05-19-23-45-52.webp)
 
 common apps - [[Electric-tools-dat]] - [[drone-battery-dat]]
 

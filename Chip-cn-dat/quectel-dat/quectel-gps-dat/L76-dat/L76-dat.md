@@ -111,7 +111,7 @@ Sending corresponding command will make the modules enter Standby mode. Sending 
 
 ## chip map 
 
-![](2024-10-02-17-38-11.png)
+![](2024-10-02-17-38-11.webp)
 
 
 

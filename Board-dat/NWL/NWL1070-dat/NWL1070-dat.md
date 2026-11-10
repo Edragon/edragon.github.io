@@ -5,7 +5,7 @@
 [EDRF2 RF Switch Receiver 433/315mhz w/Decoder](https://www.electrodragon.com/product/rf-switch-receiver-433315mhz-wdecoder/)
 
 
-![](2025-06-25-15-06-03.png)
+![](2025-06-25-15-06-03.webp)
 
 
 - [[NWL1068-dat]] - [[NWL1070-dat]] - 433/315 mhz

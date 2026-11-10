@@ -18,7 +18,7 @@
 
 holder 
 
-![](2026-06-13-20-13-40.png)
+![](2026-06-13-20-13-40.webp)
 
 - [[fab-tools-dat]] - [[soldering-tools-spot-welding-dat]]
 

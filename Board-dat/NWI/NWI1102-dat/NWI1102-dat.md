@@ -17,7 +17,7 @@ module - [[ESP32-wroom-dat]] == `ESP32-WROOM-32E `
 
 pin definitions, dimensions refer to general genius board - [[NWI1100-dat]]
 
-![](2026-04-02-20-35-09.png)
+![](2026-04-02-20-35-09.webp)
 
 - `N8R2 （8M flash / 2M PSRAM）` == default option 
 - N8R8 （8M flash / 8M PSRAM）
@@ -28,7 +28,7 @@ AIIOT / dual Type-C USB port / W2812gb == [[WS2812-dat]] / high-speed USB-serial
 
 ## dimension differencs 
 
-![](2026-04-28-13-04-13.png)
+![](2026-04-28-13-04-13.webp)
 
 - [[NWI1102-dat]] - [[NWI1103-dat]]
 
@@ -40,14 +40,14 @@ This is for [[NWI1245-dat]]
 
 ![](2026-05-12-18-24-30.webp)
 
-![](2026-05-12-18-24-39.png)
+![](2026-05-12-18-24-39.webp)
 
 This is for [[IDD1016-dat]]
 
 
-![](2026-05-12-18-22-57.png)
+![](2026-05-12-18-22-57.webp)
 
-![](2026-05-12-18-23-55.png)
+![](2026-05-12-18-23-55.webp)
 
 
 ## Applications, category, tags, etc. 

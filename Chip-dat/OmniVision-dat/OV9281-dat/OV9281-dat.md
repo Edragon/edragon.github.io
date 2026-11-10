@@ -11,4 +11,4 @@ Its 1280x800 resolution and 1 million pixels ensure detailed image capture even 
 
 ## camera interface 
 
-![](2025-07-13-01-59-07.png)
+![](2025-07-13-01-59-07.webp)

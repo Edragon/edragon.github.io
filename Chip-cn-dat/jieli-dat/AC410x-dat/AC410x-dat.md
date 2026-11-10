@@ -15,7 +15,7 @@ AC410N: AC410N series is a Bluetooth audio chip series, with low power consumpti
 
 ## JL AC1425
 
-![](2026-02-11-14-47-40.png)
+![](2026-02-11-14-47-40.webp)
 
 
 ## ref 

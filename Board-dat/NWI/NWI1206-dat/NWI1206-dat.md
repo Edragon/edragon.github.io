@@ -5,7 +5,7 @@ https://www.electrodragon.com/product/esp32-goo-mini-development-board-wifi-blue
 
 ## Pin Definitions and Size 
 
-![](56-35-18-04-08-2023.png)
+![](56-35-18-04-08-2023.webp)
 
 ![](28-36-18-04-08-2023.webp)
 

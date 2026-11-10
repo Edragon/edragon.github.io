@@ -12,7 +12,7 @@
 
 `AP3032` - White LED Step-Up Converter for Small Panel
 
-![](2026-04-14-20-16-42.png)
+![](2026-04-14-20-16-42.webp)
 
 
 ## ref 

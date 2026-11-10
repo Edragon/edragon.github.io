@@ -51,4 +51,4 @@ CS5230E is available in an ESOP10 package with an operating temperature range of
 
 ## board 
 
-![](2026-06-02-20-12-56.png)
+![](2026-06-02-20-12-56.webp)

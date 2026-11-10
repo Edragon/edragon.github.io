@@ -10,7 +10,7 @@ It consists of an infrared emitting diode, a PSD (Position Sensing Device), and 
 
 The light beam emitted by the infrared emitting diode encounters an obstacle and is reflected back, falling onto the PSD. This forms an isosceles triangle. With the help of the PSD, the base of the triangle can be measured. The two base angles are fixed, determined by the emitting diode. At this point, the height of the triangle, which is the distance we want, can be calculated from the base. As shown in the figure below:
 
-![](2025-06-15-14-34-52.png)
+![](2025-06-15-14-34-52.webp)
 
 From the figure, it can be seen that this is an isosceles triangle with a very acute apex angle. The base is only 2cm, while the height needs to be 10 – 80cm. Therefore, the resolution of the PSD must be extremely high; otherwise, even a tiny deviation will lead to a huge error in the distance measurement. From this point, it can also be concluded that its distance measurement results are difficult to stabilize and make precise, as the ratio is too large.
 

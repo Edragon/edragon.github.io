@@ -47,13 +47,13 @@
 
 - [[fab-soldering-materials-dat]] - [[battery-pack-materials-dat]] - [[battery-tools-dat]] 
 
-![](2026-06-07-14-53-45.png)
+![](2026-06-07-14-53-45.webp)
 
 ![](2026-06-07-14-53-59.webp)
 
 
 
-![](2026-06-07-14-56-59.png)
+![](2026-06-07-14-56-59.webp)
 
 ![](2026-06-07-14-57-11.webp)
 

@@ -9,7 +9,7 @@ SMD type == https://grabcad.com/library/box-header-1
 
 [[PTH-dat]] == https://grabcad.com/library/conectores-box-header-1
 
-![](2026-04-03-01-49-43.png)
+![](2026-04-03-01-49-43.webp)
 
 
 

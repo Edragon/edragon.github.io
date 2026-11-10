@@ -45,7 +45,7 @@ RGBW channels on relay 1..4, on board programmable LED on GPIO10 == relay 5
 
 - refer more information at page [[NWI1126-dat]]
 
-![](2025-04-23-15-59-31.png)
+![](2025-04-23-15-59-31.webp)
 
 ![](2025-04-23-16-12-56.png)
 

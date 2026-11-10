@@ -83,14 +83,14 @@ Other features of the TP4057X include **power adaptation, undervoltage lockout, 
 - 3K 
 - 3.3K 
 
-![](2025-10-15-16-19-47.png)
+![](2025-10-15-16-19-47.webp)
 
 
 ## APP SCH 
 
 build 1 
 
-![](2026-08-01-16-23-59.png)
+![](2026-08-01-16-23-59.webp)
 
 ## SCH 
 

@@ -27,11 +27,11 @@ create nut placeholder
 
 M4 perpendicular 8 
 
-![](2026-01-07-22-03-11.png)
+![](2026-01-07-22-03-11.webp)
 
 ## use case 
 
-![](2026-08-09-18-09-49.png)
+![](2026-08-09-18-09-49.webp)
 
 
 

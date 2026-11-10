@@ -17,7 +17,7 @@
 
 - [[DPR1016-dat]]
 
-![](2026-02-11-03-26-31.png)
+![](2026-02-11-03-26-31.webp)
 
 
 ![](2026-02-11-03-29-17.webp)
@@ -29,7 +29,7 @@ avrdude -C/etc/avrdude.conf -v -patmega328p -carduino -P/dev/ttyUSB0 -b115200 -D
 
 ## SWDICE / SWDISP 
 
-![](2026-02-11-02-42-37.png)
+![](2026-02-11-02-42-37.webp)
 
 Connect your new programming device to the board to be programmed (“target”) as follows:
 
@@ -118,7 +118,7 @@ LGT 后续发布支持在线调试的 MIC8X 内核芯片，我们将提供固件
 
 larduino - ISP 
 
-![](2026-02-11-02-14-18.png)
+![](2026-02-11-02-14-18.webp)
 
 https://github.com/Edragon/LGTISP
 

@@ -28,7 +28,7 @@ SD
 | 8   | DAT1     | -         |
 
 
-![](2025-03-14-18-43-47.png)
+![](2025-03-14-18-43-47.webp)
 
 
 ## common error 
@@ -53,7 +53,7 @@ https://esp32.com/viewtopic.php?t=2604&start=10
 
 build 4 with [[mosfet-dat]] control power en 
 
-![](2026-10-02-01-53-59.png)
+![](2026-10-02-01-53-59.webp)
 
 build 3 
 

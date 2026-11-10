@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/board707/w80x_arduino/hal-v0.6.0/package_w80x_
 
 W800 SCH 
 
-![](2026-07-26-17-59-34.png)
+![](2026-07-26-17-59-34.webp)
 
 more schematic - [[w800_arduino_board_v3.1_20240808_schematic.pdf]] - [[w800_arduino_board_v4_20240826_schematic.pdf]]
 

@@ -1,6 +1,6 @@
 # fab-sheet-metal-hem-dat
 
-![](2026-01-01-01-05-52.png)
+![](2026-01-01-01-05-52.webp)
 
 ## Summary
 

@@ -10,7 +10,7 @@
 
 - [[camera-installation-dat]] - [[sensor-camera-dat]] - [[Hose-Clamp-dat]]
 
-![](2026-04-02-18-27-49.png)
+![](2026-04-02-18-27-49.webp)
 
 
 

@@ -46,7 +46,7 @@
 
 ![](../../../antenna-directional-linear-dat/antenna-patch-dat/2026-09-18-01-12-43.webp)
 
-![](../../../antenna-directional-linear-dat/antenna-patch-dat/2026-09-18-01-12-56.png)
+![](../../../antenna-directional-linear-dat/antenna-patch-dat/2026-09-18-01-12-56.webp)
 
 
 

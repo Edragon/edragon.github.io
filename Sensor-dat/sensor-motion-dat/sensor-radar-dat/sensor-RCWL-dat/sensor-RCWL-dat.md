@@ -10,7 +10,7 @@ Compared to other types of human presence sensors, such as infrared sensors, the
 
 It also has a relatively strong anti-interference ability, making it less susceptible to factors such as temperature changes, variations in ambient light, and environmental noise. Whether a person is sitting, sleeping, or moving, the sensor can quickly and sensitively detect their presence.
 
-![](2026-09-05-01-58-21.png)
+![](2026-09-05-01-58-21.webp)
 
 
 **Distance and velocity detection of mmwave sensor**

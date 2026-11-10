@@ -33,7 +33,7 @@ As shown in the figure, the pins required to control the sensor are defined as f
 
 The OV7725 sensor uses BGA packaging. Its front end is a lighting window and the pins are all led out on the back. The pin distribution is shown in Figure 47_2.
 
-![](2024-12-28-16-54-41.png)
+![](2024-12-28-16-54-41.webp)
 
 
 ## silk print 
@@ -48,11 +48,11 @@ The OV7725 sensor uses BGA packaging. Its front end is a lighting window and the
 
 sch 2 
 
-![](2024-12-28-16-55-21.png)
+![](2024-12-28-16-55-21.webp)
 
 connect to a [[FIFO-dat]]
 
-![](2024-12-28-16-55-57.png)
+![](2024-12-28-16-55-57.webp)
 
 Wiring to a [[STM32-dat]] H7 
 

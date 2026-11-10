@@ -43,7 +43,7 @@
 
 6-Pin SIM Card Interface
 
-![](2025-06-30-14-33-36.png)
+![](2025-06-30-14-33-36.webp)
 
 
 8-Pin SIM Card Interface
@@ -62,7 +62,7 @@
 
 ### reset 
 
-![](2025-06-30-14-50-56.png)
+![](2025-06-30-14-50-56.webp)
 
 
 ### power supply 

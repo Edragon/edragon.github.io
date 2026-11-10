@@ -14,7 +14,7 @@ setup V2
 
 setup V1 
 
-![](2025-05-07-14-26-35.png)
+![](2025-05-07-14-26-35.webp)
 
 This method can be used for components that are placed infrequently in a single run, for example, if a single board only has one or two of these components.
 

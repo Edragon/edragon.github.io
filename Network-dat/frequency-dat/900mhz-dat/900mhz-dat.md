@@ -78,7 +78,7 @@ This is dictated by the physics of radio. Below are the core advantages and trad
 
 ### 4.84dbi IPEX
 
-![](2026-10-14-20-10-08.png)
+![](2026-10-14-20-10-08.webp)
 
 - [[CONN-ipex-dat]]
 
@@ -88,7 +88,7 @@ This is dictated by the physics of radio. Below are the core advantages and trad
 
 ### 6dbi SMA
 
-![](2026-10-14-20-08-53.png)
+![](2026-10-14-20-08-53.webp)
 
 
 ## ref 

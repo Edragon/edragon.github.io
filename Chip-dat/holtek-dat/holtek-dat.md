@@ -28,7 +28,7 @@ HT50 == [[LDO-dat]] - [[holtek-dat]] - [[CN3302-dat]]
 
 HT7530-1 
 
-![](2026-06-02-19-42-23.png)
+![](2026-06-02-19-42-23.webp)
 
 HT75XX-1 - 100mA Low Power LDO
 

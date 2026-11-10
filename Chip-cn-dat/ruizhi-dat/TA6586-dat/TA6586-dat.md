@@ -18,7 +18,7 @@ Key Technical Specs
 **Control**: Simple logic inputs (high/low) to handle clockwise, counterclockwise, brake, and standby states.
 
 
-![](2026-06-02-16-21-08.png)
+![](2026-06-02-16-21-08.webp)
 
 
 

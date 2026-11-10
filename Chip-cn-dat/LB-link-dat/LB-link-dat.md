@@ -15,7 +15,7 @@ BL-M8189FS6(VC) == 802.11n 150Mbps WiFi SDIO Module Specification
 
 ### build SCH 
 
-![](2026-09-05-14-58-13.png)
+![](2026-09-05-14-58-13.webp)
 
 
 ## M8192EU9 2T2R 802.11b/g/n WiFi Module

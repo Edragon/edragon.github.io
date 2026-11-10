@@ -8,7 +8,7 @@
 
 ## circuits 
 
-![](2025-03-24-17-28-21.png)
+![](2025-03-24-17-28-21.webp)
 
 
 
@@ -17,9 +17,9 @@
 
 ## pin definitions 
 
-![](17-19-14-27-02-2023.png)
+![](17-19-14-27-02-2023.webp)
 
-![](06-19-14-27-02-2023.png)
+![](06-19-14-27-02-2023.webp)
 
 C1 = VCC
 C2 = RST
@@ -38,7 +38,7 @@ w/current limit resistor, filter cap
 - SIM_RST
 - SIM_CLK
 
-![](2024-07-10-01-16-22.png)
+![](2024-07-10-01-16-22.webp)
 
 
 
@@ -56,7 +56,7 @@ We only use one kind of sim card, which is the nano type. It is the normal type 
 
 ![](40-45-15-26-07-2023.webp)
 
-![](51-45-15-26-07-2023.png)
+![](51-45-15-26-07-2023.webp)
 
 ![](16-47-15-26-07-2023.webp)
 

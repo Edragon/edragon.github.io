@@ -141,7 +141,7 @@ Cost-effective box goggle (large screen / glasses-friendly): Skyzone Cobra X (V4
 
 SKYZONE 04X PRO
 
-![](2025-05-29-16-35-55.png)
+![](2025-05-29-16-35-55.webp)
 
 
 Skyzone SKY02S V+ 3D 5.8G 40CH FPV Goggles

@@ -51,7 +51,7 @@ https://twitter.com/electro_phoenix/status/1023474043456909312
 | Net weight                  |                                                                                 ~44 g |
 
 
-![](2026-02-12-15-50-36.png)
+![](2026-02-12-15-50-36.webp)
 ## ref 
 
 - [[OPM1160]]

@@ -25,7 +25,7 @@ small solutions based on [[POF-dat]]
 
 ## fiber-optic bucket
 
-![](2025-03-28-17-47-18.png)
+![](2025-03-28-17-47-18.webp)
 
 
 
@@ -51,7 +51,7 @@ small solutions based on [[POF-dat]]
 
 FPV remote communication
 
-![](2025-03-28-17-41-03.png)
+![](2025-03-28-17-41-03.webp)
 
 ![](2025-03-28-17-45-31.webp)
 

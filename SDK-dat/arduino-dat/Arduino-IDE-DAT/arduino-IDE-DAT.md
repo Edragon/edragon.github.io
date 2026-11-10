@@ -105,7 +105,7 @@ Open Command Prompt as Administrator and run: mklink /D "%LOCALAPPDATA%\Arduino1
 compare to arduino version 1.x
 
 
-![](2025-07-26-12-12-24.png)
+![](2025-07-26-12-12-24.webp)
 
 
 

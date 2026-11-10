@@ -5,7 +5,7 @@ https://www.electrodragon.com/product/ac-dc-isolated-dual-output-module-12v1a-5v
 
 ## Dimension 
 
-![](2024-08-28-15-16-13.png)
+![](2024-08-28-15-16-13.webp)
 
 
 ## ref 

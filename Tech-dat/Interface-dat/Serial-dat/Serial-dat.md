@@ -48,7 +48,7 @@ below is the variation of [[CH340-dat]]
 
 - [[FT232-dat]] - [[CP2102-dat]]
 
-![](2026-05-24-22-06-41.png)
+![](2026-05-24-22-06-41.webp)
 
 
 

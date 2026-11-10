@@ -43,7 +43,7 @@ Red Light 6A@250VAC ON/OFF DPST Snap in Panel
 
 ## KCD3 
 
-![](2025-06-17-17-43-08.png)
+![](2025-06-17-17-43-08.webp)
 
 ![](2025-10-18-16-47-02.webp)
 

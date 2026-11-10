@@ -45,9 +45,9 @@ Update logs - [[tech-dat]]
 
 Power supply == 18V 2A in [[dcdc-down-dat]] section Option 8201
 
-![](2026-03-20-22-14-58.png)
+![](2026-03-20-22-14-58.webp)
 
-![](2026-03-20-22-15-08.png)
+![](2026-03-20-22-15-08.webp)
 
 ## jumper list 
 

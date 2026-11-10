@@ -6,7 +6,7 @@ A **herringbone gearbox** is a specialized mechanical gearbox that uses **herrin
 
 To understand the gearbox, it helps to look at the unique gear design inside it, how it works, and why it is used.
 
-![](2026-08-14-02-30-17.png)
+![](2026-08-14-02-30-17.webp)
 
 
 ---

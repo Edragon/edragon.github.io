@@ -121,9 +121,9 @@ find firmware version
 
 ## build firmware first 
 
-![](2025-05-16-12-47-56.png)
+![](2025-05-16-12-47-56.webp)
 
-![](2025-05-16-12-48-22.png)
+![](2025-05-16-12-48-22.webp)
 
 
 ## flash log 

@@ -140,7 +140,7 @@ Make sure the VCCA ≤VCCB.
 ### Simple logic shifter for VBAT 
 
 
-![](2025-04-18-18-57-43.png)
+![](2025-04-18-18-57-43.webp)
 
 
 
@@ -186,13 +186,13 @@ via chip
 
 general 5V-3V3 logic 
 
-![](2026-02-05-20-24-24.png)
+![](2026-02-05-20-24-24.webp)
 
 
 
 - [[arduino-dat]] to 3.3V [[location-dat]] == [[SPI-dat]]
 
-![](2026-01-19-13-32-40.png)
+![](2026-01-19-13-32-40.webp)
 
 3.3V tolerant to [[RPI-SBC-dat]]
 

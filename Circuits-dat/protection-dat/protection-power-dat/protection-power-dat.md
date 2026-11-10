@@ -124,7 +124,7 @@ The input protection circuit uses two main components:
 
 ## reverse-votlage-protection
 
-![](2025-03-24-19-39-56.png)
+![](2025-03-24-19-39-56.webp)
 
 
 

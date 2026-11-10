@@ -75,14 +75,14 @@ material version:
 
 note below three version available, we only sell "right-bend" version here [[CCO3515-dat]]
 
-![](2025-04-08-15-15-22.png)
+![](2025-04-08-15-15-22.webp)
 
 
 
 
 ### reversed bend 
 
-![](2025-04-08-15-17-05.png)
+![](2025-04-08-15-17-05.webp)
 
 
 ## right bend 
@@ -120,9 +120,9 @@ note below three version available, we only sell "right-bend" version here [[CCO
 
 - plastic part height == mm 
 
-![](2026-06-11-02-38-36.png)
+![](2026-06-11-02-38-36.webp)
 
-![](2025-09-26-16-08-49.png)
+![](2025-09-26-16-08-49.webp)
 
 
 ![](2025-09-26-16-04-51.webp)

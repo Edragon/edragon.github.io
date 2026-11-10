@@ -12,4 +12,4 @@
 
 https://product.torexsemi.com/files/status/xc6225.pdf
 
-![](2026-06-02-21-04-46.png)
+![](2026-06-02-21-04-46.webp)

@@ -15,7 +15,7 @@
 - Each wheel has an independent suspension spring 
 - six rogs each side 
 
-![](2025-05-22-00-49-44.png)
+![](2025-05-22-00-49-44.webp)
 
 ![](2025-05-22-00-50-12.webp)
 

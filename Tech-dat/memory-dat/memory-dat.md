@@ -45,7 +45,7 @@ legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Mem
 
 ## use a tools instead of fat fingers 
 
-![](2025-04-08-17-14-23.png)
+![](2025-04-08-17-14-23.webp)
 
 
 

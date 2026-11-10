@@ -6,7 +6,7 @@ Lilypad compatible USB board
 
 ## Dimension 
 
-![](2024-08-07-18-33-21.png)
+![](2024-08-07-18-33-21.webp)
 
 - [[atmega32u4-dat]]
 

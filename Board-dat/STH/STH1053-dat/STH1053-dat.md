@@ -13,7 +13,7 @@
 
 SCH 
 
-![](2025-12-21-18-58-26.png)
+![](2025-12-21-18-58-26.webp)
 
 ## Applications, category, tags, etc. 
 

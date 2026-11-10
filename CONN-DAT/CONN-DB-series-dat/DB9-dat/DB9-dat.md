@@ -34,7 +34,7 @@
 
 D Sub Connector, DB9, Standard, Receptacle, 9 Contacts, DE, Solder
 
-![](2025-08-24-13-30-36.png)
+![](2025-08-24-13-30-36.webp)
 
 ![](2025-08-24-13-31-28.webp)
 

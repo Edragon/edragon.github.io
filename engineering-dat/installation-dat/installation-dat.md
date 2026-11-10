@@ -56,7 +56,7 @@ types
 
 wall mount snap socket - [[LED-board-dat]]
 
-![](2026-08-30-22-14-37.png)
+![](2026-08-30-22-14-37.webp)
 
 
 ## other 

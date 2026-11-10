@@ -58,7 +58,7 @@ The regulation voltage range that can be set is from 3V to 25V.
 
 ### inductor selection
 
-![](2025-08-27-18-30-39.png)
+![](2025-08-27-18-30-39.webp)
 
 - 10 ~ 33uh 
 

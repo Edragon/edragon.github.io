@@ -66,7 +66,7 @@ sensor PCB
 
 - [[flash-NAND-dat]] - [[sensor-camera-chip-dat]] - [[sensor-camera-dat]] - [[ambarella-dat]] - [[H22N-A0-HR-dat]] 
 
-![](2026-10-31-15-29-14.png)
+![](2026-10-31-15-29-14.webp)
 
 
 ## ref 

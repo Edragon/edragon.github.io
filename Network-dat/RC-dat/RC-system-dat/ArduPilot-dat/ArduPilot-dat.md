@@ -100,7 +100,7 @@ Note 8: These systems have integrated HD video transmission from Ethernet or HDM
 
 ## protocol converter 
 
-![](2025-05-04-16-11-57.png)
+![](2025-05-04-16-11-57.webp)
 
 
 ## ref 

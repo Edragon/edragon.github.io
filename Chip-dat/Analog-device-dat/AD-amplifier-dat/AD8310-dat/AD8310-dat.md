@@ -14,7 +14,7 @@ Fast, Voltage-Out, DC to 440 MHz, 95 dB Logarithmic Amplifier
 
 ## SCH 
 
-![](2026-10-28-16-39-47.png)
+![](2026-10-28-16-39-47.webp)
 
 
 

@@ -21,7 +21,7 @@ DC/DC Step up Converter ME2108 Series
 
 ## SCH 
 
-![](2024-10-27-15-48-05.png)
+![](2024-10-27-15-48-05.webp)
 
 
 - [[microne-dat]]

@@ -16,7 +16,7 @@ The ESP32-P4 includes one I2S peripheral. By configuring this peripheral, you ca
 - **LRCK (Left/Right Clock) / WS (Word Select)**: Indicates whether the current data sample is for the left or right channel. In I2S, one clock cycle is for left channel data, the next for right channel data.
 - **DSDIN (Digital Serial Data Input) / DIN**: Receives digital audio data from external devices or the master. ES8311 decodes and processes this data internally.
 
-![](2025-08-09-13-16-02.png)
+![](2025-08-09-13-16-02.webp)
 
 | Function Pin                      |      | ESP32-P4 Pin |
 | --------------------------------- | ---- | ------------ |
@@ -45,7 +45,7 @@ Steps:
 
 Next, click the ⚙️ (settings) icon, search for "Example", and adjust the volume as needed.
 
-![](2025-08-09-13-18-42.png)
+![](2025-08-09-13-18-42.webp)
 
 Connect a speaker, then click the 🔥 (build/flash/monitor) button. When complete, the terminal will show the result—your ESP32-P4 is now playing audio:
 
@@ -53,7 +53,7 @@ Connect a speaker, then click the 🔥 (build/flash/monitor) button. When comple
 
 If you set echo mode in the settings, audio will be captured by the microphone and output through the speaker:
 
-![](2025-08-09-13-19-17.png)
+![](2025-08-09-13-19-17.webp)
 
 
 ## ref 

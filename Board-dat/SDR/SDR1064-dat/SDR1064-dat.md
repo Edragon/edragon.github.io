@@ -111,7 +111,7 @@ It is not simple to setup the WiFiCar with the provided software. You should hav
 - As soon, as you tilt the smartphone, the WiFicar will move in that direction.
 - You should be able to see the interface similar to the right.
 
-![](2025-05-08-14-42-09.png)
+![](2025-05-08-14-42-09.webp)
 
 
 

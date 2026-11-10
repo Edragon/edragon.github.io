@@ -34,7 +34,7 @@ https://www.electrodragon.com/product/arduino-compatible-pth-kit/
 
 * please order this alone: ATMega328 with Optiboot bootloader
 
-![](2026-02-27-19-28-15.png)
+![](2026-02-27-19-28-15.webp)
 
 
 

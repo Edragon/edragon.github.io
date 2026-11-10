@@ -5,7 +5,7 @@
 
 https://www.electrodragon.com/product/esp-01-esp8266-wifi-module/
 
-![](2024-01-24-15-28-06.png)
+![](2024-01-24-15-28-06.webp)
 
 
 ## Pin Definitions 
@@ -23,7 +23,7 @@ also printed on board
 
 the differences between ESP-01 VS ESP-01S (more components )
 
-![](2023-11-28-16-10-10.png)
+![](2023-11-28-16-10-10.webp)
 
 
 

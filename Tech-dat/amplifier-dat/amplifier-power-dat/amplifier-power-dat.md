@@ -8,7 +8,7 @@
 - [[amplifier-power-dat]] - [[FEM-dat]] - [[RTL8812-dat]]
 
 
-![](2026-10-29-18-32-53.png)
+![](2026-10-29-18-32-53.webp)
 
 
 
@@ -30,7 +30,7 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/hmc441lp3.pd
 
 ## EVM PCB 
 
-![](2026-09-22-15-18-14.png)
+![](2026-09-22-15-18-14.webp)
 
 
 

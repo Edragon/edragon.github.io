@@ -32,7 +32,7 @@ When operating an RC boat at **slow speeds in rough or choppy water**, the key d
   * **Design**: Twin or triple hulls providing a wide footprint on the water.
   * **Performance**: High lateral stability that prevents rolling in cross-waves. Ideal for maintaining a straight, slow cruise in turbulent water.
 
-![](2026-08-04-19-08-55.png)
+![](2026-08-04-19-08-55.webp)
 
 * **Deep-V Trawlers & Rescue Vessels**
   * **Design**: Sharp V-shaped bow that transitions to a stable midsection.

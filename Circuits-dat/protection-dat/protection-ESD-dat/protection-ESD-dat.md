@@ -61,7 +61,7 @@ This creates a **clamp/protection circuit**:
 
 👉 This is often used as an **ESD protection** or **logic level protection** for sensitive inputs.
 
-![](2025-10-02-18-59-04.png)
+![](2025-10-02-18-59-04.webp)
 
 
 ## chip 

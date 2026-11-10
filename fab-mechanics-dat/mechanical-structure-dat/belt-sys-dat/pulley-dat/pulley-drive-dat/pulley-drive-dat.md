@@ -4,7 +4,7 @@
 
 - [[pulley-dat]] - [[pulley-drive-dat]] - [[pulley-drive-dat]]
 
-![](2026-01-07-14-55-34.png)
+![](2026-01-07-14-55-34.webp)
 
 
 - 普通版（16齿高14)内孔5mm

@@ -6,7 +6,7 @@ legacy wiki page - https://w.electrodragon.com/w/Category:Battery_Charge
 
 ## SCH 
 
-![](2026-04-07-13-16-27.png)
+![](2026-04-07-13-16-27.webp)
 
 产品特点：
 

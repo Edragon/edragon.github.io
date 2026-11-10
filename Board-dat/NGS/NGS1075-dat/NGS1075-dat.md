@@ -18,7 +18,7 @@ dimension
 
 pins 
 
-![](2026-04-26-18-18-07.png)
+![](2026-04-26-18-18-07.webp)
 
 
 ## A support list of most modules:

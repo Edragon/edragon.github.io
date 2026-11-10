@@ -95,7 +95,7 @@ The BMM350 supports a high sample rate of up to 400Hz, delivering real-time data
 
 The BMM350 offers a significant improvement in measurement accuracy compared to its predecessor, the BMM150. It operates with an ultra-low current of just 200μA in normal mode at a 100Hz sample rate, making it ideal for battery-powered devices. With a measurement range of ±2000μT across all three axes, it can handle a broad spectrum of magnetic fields, accommodating both high and low field strengths for various applications.
 
-![](2025-07-13-02-10-57.png)
+![](2025-07-13-02-10-57.webp)
 
 Comparison Table of BMM150 and BMM350
 

@@ -9,4 +9,4 @@ LM7705 Low-Noise Negative Bias Generator
 
 typ. SCH
 
-![](2025-07-13-01-35-17.png)
+![](2025-07-13-01-35-17.webp)

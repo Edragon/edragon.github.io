@@ -24,7 +24,7 @@ Output voltage options
 - REF30: 1.25V to 4.096V
 
 
-![](../../Voltage-dat/voltage-reference-dat/2025-10-08-14-52-29.png)
+![](../../Voltage-dat/voltage-reference-dat/2025-10-08-14-52-29.webp)
 
 - [[ADC-dat]]
 

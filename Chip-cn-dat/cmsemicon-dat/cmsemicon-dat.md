@@ -25,7 +25,7 @@ SC8F2892 is a CmsemiconFLASH chip, Flash 4Kx14Bit, RAM256B, built-in RC oscillat
 
 https://www.keil.arm.com/devices/cmsemicon-cms32m5710/features/
 
-![](2026-06-15-18-29-26.png)
+![](2026-06-15-18-29-26.webp)
 
 
 - [[CMS32F033-dat]] - [[MCU-dat]] - [[GVM-dat]] - [[cmsemicon-dat]]

@@ -48,7 +48,7 @@ Electrical environment
 
 #### dimension 
 
-![](2025-05-02-20-00-53.png)
+![](2025-05-02-20-00-53.webp)
 
 
 ## Applications, category, tags, etc. 

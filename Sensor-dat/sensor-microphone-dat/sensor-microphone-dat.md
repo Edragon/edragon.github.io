@@ -115,7 +115,7 @@ To visualize or analyze the raw audio waveform:
 
 1. A sound inlet hole is required. The hole diameter depends on the hole depth (enclosure thickness). Recommended dimensions:
 
-   ![](2026-07-30-20-59-46.png)
+   ![](2026-07-30-20-59-46.webp)
 
 2. Place the microphone hole on the **front side** of the product, facing the user, to maximize sound pickup range. Avoid obstructions from other components.
 3. Consider **waterproof and dustproof** requirements. If the environment has splashing water or dust, select a waterproof/dustproof microphone.
@@ -127,7 +127,7 @@ To visualize or analyze the raw audio waveform:
 9. It is recommended to **consult our technical team** before finalizing the enclosure design.
 10. Avoid having a **cavity** between the sound inlet hole and the microphone. If needed for appearance, use a **plum-blossom hole pattern** instead.
 
-![](2026-07-30-21-00-28.png)
+![](2026-07-30-21-00-28.webp)
 
 ![](2026-07-30-21-01-00.webp)
 

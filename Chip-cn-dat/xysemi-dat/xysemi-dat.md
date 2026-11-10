@@ -60,7 +60,7 @@ It integrates Soft start, Comp,. only need few components outside. It can output
 ![](2026-03-01-15-16-07.webp)
 
 
-![](2026-02-12-20-16-37.png)
+![](2026-02-12-20-16-37.webp)
 
 
 - This module is suitable for applications that must stay powered when mains power is lost: it uses external power while available and automatically switches to battery power seamlessly when the mains is interrupted.
@@ -88,7 +88,7 @@ Usage instructions
 5. Some 5 V power supplies have large output capacitors that hold the voltage for a short time after unplugging. This slow fall can delay the module’s transition to battery power. If you experience this, add a ~1 kΩ bleed resistor across the 5 V input to speed the voltage drop.
 6. To increase battery capacity for longer UPS runtime you can parallel multiple battery cells — other functions remain unaffected.
 
-![](2026-02-12-20-20-53.png)
+![](2026-02-12-20-20-53.webp)
 
 
 

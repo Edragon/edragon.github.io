@@ -70,7 +70,7 @@ The ESP8266's powerful on-chip processing and storage capabilities allow it to i
 
 ## Pin Definition
 
-![](2023-10-30-16-33-38.png)
+![](2023-10-30-16-33-38.webp)
 
 | No. | Pin Name | Functional Description                                              |
 | --- | -------- | ------------------------------------------------------------------- |
@@ -121,7 +121,7 @@ Application circuit
 - Reset - press down button
 - ADC -voltage divider ladder
 
-![](2023-10-30-16-38-11.png)
+![](2023-10-30-16-38-11.webp)
 
 ![](2023-10-30-16-21-51.png)
 

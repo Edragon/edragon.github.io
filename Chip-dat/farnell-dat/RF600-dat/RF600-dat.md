@@ -6,7 +6,7 @@
 == RF / IR Encoder / Decoder Chipset RF Evaluation Boards, == RF600E RF600D == mark "sa901b" SA901B 2041
 
 
-![](2025-07-08-13-18-52.png)
+![](2025-07-08-13-18-52.webp)
 
 ![](2025-07-08-13-32-47.png)
 

@@ -19,7 +19,7 @@ https://openipc.org/cameras/vendors/hisilicon/socs/hi3516ev200
 
 ## build 2 
 
-![](2026-10-31-18-39-25.png)
+![](2026-10-31-18-39-25.webp)
 
 ![](2026-10-31-18-39-45.webp)
 

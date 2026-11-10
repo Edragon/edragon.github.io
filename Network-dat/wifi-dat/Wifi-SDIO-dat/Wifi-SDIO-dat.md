@@ -59,7 +59,7 @@ To tap into the native USB 2.0 interface on this board, solder your data lines d
 
 ref == [[GK7205V300-dat]]
 
-![](2026-10-01-04-04-58.png)
+![](2026-10-01-04-04-58.webp)
 
 pin 12 
 - SDIOO_CCLK_OUT

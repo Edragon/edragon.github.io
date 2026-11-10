@@ -36,7 +36,7 @@ back
 ![](2026-10-02-16-08-34.webp)
 
 
-![](2026-10-30-21-13-09.png)
+![](2026-10-30-21-13-09.webp)
 
 - [[wifi-sdio-dat]] - [[USB-SDK-dat]] - [[CONN-BTB-dat]] - [[IVG-G2S-dat]]
 

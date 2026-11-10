@@ -12,7 +12,7 @@ lora modules - https://www.electrodragon.com/product/sx1278-lora-wireless-transc
 
 * Compatible with RFM95, RFW95W, RFM96W, RFM98, etc. Lead out two extra DIO3 and DIO4
 
-![](36-58-16-26-07-2023.png)
+![](36-58-16-26-07-2023.webp)
 
 size 16 x 17 
 

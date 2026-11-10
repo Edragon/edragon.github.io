@@ -7,14 +7,14 @@
 
 - [[allwinner-sdk-dat]]
 
-![](2025-07-14-23-09-16.png)
+![](2025-07-14-23-09-16.webp)
 
 ![](2025-07-14-23-09-43.png)
 
 
 ## share folder 
 
-![](2025-07-14-23-10-07.png)
+![](2025-07-14-23-10-07.webp)
 
 - 打开终端 (Open the terminal).
 - 使用命令 cd /mnt 进入到 mnt 目录 (Use the command cd /mnt to enter the mnt directory).

@@ -29,7 +29,7 @@ SN74AVC2T245 Dual-Bit Dual-Supply Bus Transceiver with Configurable LevelShiftin
 
 https://www.ti.com/lit/ds/symlink/sn74cbt3345.pdf
 
-![](2026-06-19-13-58-17.png)
+![](2026-06-19-13-58-17.webp)
 
 
 ## ref 

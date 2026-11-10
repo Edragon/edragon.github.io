@@ -40,7 +40,7 @@ HR911105A
 
 HY931147C == CT == 2 pairs 
 
-![](2025-10-26-20-08-30.png)
+![](2025-10-26-20-08-30.webp)
 
 
 ## standard 
@@ -55,11 +55,11 @@ https://datasheet.lcsc.com/lcsc/2204251600_HCTL-HC-RJ45-059-1-2_C3000199.pdf
 
 SCH1 
 
-![](2025-11-01-19-28-42.png)
+![](2025-11-01-19-28-42.webp)
 
 ## dual port silm 
 
-![](44-57-14-31-07-2023.png)
+![](44-57-14-31-07-2023.webp)
 
 
 ## surface mounted 

@@ -136,7 +136,7 @@ bootloader - **arduino pro mini 3.3V/8M** == [[arduino-dat]]
 
  ![](2025-07-03-19-31-14.webp)
 
- ![](2025-07-03-19-31-32.png)
+ ![](2025-07-03-19-31-32.webp)
 
 
 ## demo video 

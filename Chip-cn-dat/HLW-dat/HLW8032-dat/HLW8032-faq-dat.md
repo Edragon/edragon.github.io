@@ -44,7 +44,7 @@ When measuring low-power devices (e.g., ~3W), the module updates current and pow
 
 ## 5. How do I connect the module? Does it distinguish live and neutral wires? Can it work without a load or without 5V DC power?
 
-![](2024-12-08-16-33-30.png)
+![](2024-12-08-16-33-30.webp)
 
 - **AC Wiring:** Loosen the screws slightly, insert the metal part of the wire into the terminal, and tighten the screws. *(Tip: Place the module on a stable surface, hold it with one hand, and press the screwdriver down firmly while turning.)*
 - **Live and Neutral Wires:** No distinction is needed.

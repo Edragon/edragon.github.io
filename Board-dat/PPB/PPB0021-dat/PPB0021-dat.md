@@ -5,11 +5,11 @@
 
 ## PTH version V3 
 
-![](2025-11-13_194534.png)
+![](2025-11-13_194534.webp)
 
 ![](2025-11-13-19-47-41.webp)
 
-![](2025-11-13-20-02-02.png)
+![](2025-11-13-20-02-02.webp)
 
 price is 0.8 usd, please order below 1pcs for 2 pcs of this PTH V3 board 
 

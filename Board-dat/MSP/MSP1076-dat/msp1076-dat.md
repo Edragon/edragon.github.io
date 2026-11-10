@@ -46,7 +46,7 @@ Right Side Pins
 
 ## schematic 
 
-![](2023-09-05-17-54-11.png)
+![](2023-09-05-17-54-11.webp)
 
 
 ## ref 

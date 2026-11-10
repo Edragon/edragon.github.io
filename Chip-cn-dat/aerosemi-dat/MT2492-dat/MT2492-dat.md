@@ -28,7 +28,7 @@ FEATURES
 -  Available in SOT23-6 Package
 -  -40°C to +85°C Temperature Range
 
-![](2026-06-15-13-57-57.png)
+![](2026-06-15-13-57-57.webp)
 
 
 

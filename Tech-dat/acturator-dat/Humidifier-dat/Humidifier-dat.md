@@ -25,7 +25,7 @@ build 1
 
 - [[BU406-dat]] - [[BJT-dat]] - [[transistor-dat]] - [[humidifier-dat]] 
 
-![](2026-09-22-19-19-52.png)
+![](2026-09-22-19-19-52.webp)
 
 
 ## ref 

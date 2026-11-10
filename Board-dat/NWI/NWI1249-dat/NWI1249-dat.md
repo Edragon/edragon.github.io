@@ -27,7 +27,7 @@ ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 
 ## board functions and demo 
 
-![](2025-10-08-13-41-14.png)
+![](2025-10-08-13-41-14.webp)
 
 ![](2025-07-31-15-24-30.webp)
 
@@ -168,7 +168,7 @@ camera
 
 ## Extension board SCH 
 
-![](2025-07-30-16-52-51.png)
+![](2025-07-30-16-52-51.webp)
 
 extension board V2 
 

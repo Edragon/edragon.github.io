@@ -34,7 +34,7 @@ total pins 40
 
 ## Peripheral Schematics
 
-![](2025-01-06-15-45-29.png)
+![](2025-01-06-15-45-29.webp)
 
 
 ## pis template 

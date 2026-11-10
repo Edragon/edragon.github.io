@@ -24,7 +24,7 @@ boards - [[DPR1073-dat]] - [[DPR1054-dat]]
 
 Male Connector 
 
-![](46-12-14-22-05-2023.png)
+![](46-12-14-22-05-2023.webp)
 
 Male / Left and Female / Right Type Connector
 
@@ -53,7 +53,7 @@ customized common:
 
 - based on chip [[SP3220-dat]], supply voltage 3.3V for [[RPI-dat]]
 
-![](2025-02-18-17-07-04.png)
+![](2025-02-18-17-07-04.webp)
 
 
 

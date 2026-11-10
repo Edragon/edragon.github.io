@@ -11,7 +11,7 @@ USB Type-C® and USB-C® Power Delivery 3.0 controller | ZBH | 96 | -10 to 85
 
 ## diagram 
 
-![](2026-08-25-14-05-25.png)
+![](2026-08-25-14-05-25.webp)
 
 
 ## SCH 

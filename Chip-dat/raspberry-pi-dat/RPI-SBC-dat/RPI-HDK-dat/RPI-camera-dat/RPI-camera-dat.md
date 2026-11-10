@@ -32,7 +32,7 @@ Input following command to generate a real-time photo taken by the current camer
 
     fswebcam -d /dev/video0 --no-banner -r 320x240 -S 10 /home/pi/image.jpg
 
-![](2025-03-28-16-04-41.png)
+![](2025-03-28-16-04-41.webp)
 
 #### Parameter explanation:
 

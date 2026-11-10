@@ -41,7 +41,7 @@ front wheel
 
 rear wheel 
 
-![](2026-02-28-23-55-03.png)
+![](2026-02-28-23-55-03.webp)
 
 ![](2026-02-28-23-56-00.png)
 
@@ -77,7 +77,7 @@ in almost all modern bicycles, the axle itself does not rotate.
 
 ## 塔基 / 卡式 花鼓  / 旋式花鼓
 
-![](2026-03-01-01-07-01.png)
+![](2026-03-01-01-07-01.webp)
 
 ## ref 
 

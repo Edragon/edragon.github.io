@@ -2,7 +2,7 @@
 
 ## analog sensor input 
 
-![](2024-03-21-16-18-43.png)
+![](2024-03-21-16-18-43.webp)
 
 
 - [[comparator-dat]]

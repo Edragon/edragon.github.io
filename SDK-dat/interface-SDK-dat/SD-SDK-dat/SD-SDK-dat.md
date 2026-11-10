@@ -53,7 +53,7 @@ Open the `sdmmc` project, select the correct COM port and chip model. The demo p
 
 Insert a prepared SD card, then click the 🔥 (build/flash/monitor) button. After completion, the terminal will display the contents of the SD card directory:
 
-![](2025-08-09-13-09-28.png)
+![](2025-08-09-13-09-28.webp)
 
 ## ref 
 

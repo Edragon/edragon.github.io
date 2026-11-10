@@ -150,7 +150,7 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 master connect to multiple slave mode 
 
-![](2026-02-04-18-09-37.png)
+![](2026-02-04-18-09-37.webp)
 
 
 slave connect to multiple master mode 
@@ -161,7 +161,7 @@ slave connect to multiple master mode
 
 - [[NRF52840-dat]]
 
-![](2026-04-29-00-12-29.png)
+![](2026-04-29-00-12-29.webp)
 
 ![](2026-04-29-00-13-54.png)
 
@@ -169,7 +169,7 @@ slave connect to multiple master mode
 
 ## BLE 5 
 
-![](2026-04-29-00-21-38.png)
+![](2026-04-29-00-21-38.webp)
 
 
 

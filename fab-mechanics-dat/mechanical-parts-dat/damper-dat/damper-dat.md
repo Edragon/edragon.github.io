@@ -10,7 +10,7 @@ damper is a mechanical device that resists motion via viscous friction. It is us
 
 ### damper linear
 
-![](2025-11-30-01-57-38.png)
+![](2025-11-30-01-57-38.webp)
 
 ### damper ball-round 
 

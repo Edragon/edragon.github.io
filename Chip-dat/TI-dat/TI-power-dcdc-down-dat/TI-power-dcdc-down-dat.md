@@ -24,7 +24,7 @@
 TPSM5601R5RDAR - `TPSM5601R5RDAR` 
 4.2-V to 60-V input, 1-V to 6-V output, 1.5-A step-down module in 5-mm x 5.5-mm x 4-mm QFN | RDA | 15 | -40 to 125
 
-![](2026-11-06-02-58-17.png)
+![](2026-11-06-02-58-17.webp)
 
 
 ## options 

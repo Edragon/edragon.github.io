@@ -46,7 +46,7 @@ SCH 1
 
 interface POE and LAN 
 
-![](2026-04-04-14-57-10.png)
+![](2026-04-04-14-57-10.webp)
 
 name scrapped chip 
 

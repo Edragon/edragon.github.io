@@ -7,7 +7,7 @@
 
 ## SCH with [[F133-dat]]
 
-![](2025-08-09-16-57-45.png)
+![](2025-08-09-16-57-45.webp)
 
 
 ## touchpanel-SDK-dat 

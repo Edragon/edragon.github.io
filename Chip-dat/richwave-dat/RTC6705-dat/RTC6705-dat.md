@@ -27,14 +27,14 @@ circuit and single room shielding case.
 
 ## diagram 
 
-![](2026-09-15-02-35-23.png)
+![](2026-09-15-02-35-23.webp)
 
 
 ## build 
 
 build 1 - [[VTX-dat]] board alone 
 
-![](2026-10-01-00-26-05.png)
+![](2026-10-01-00-26-05.webp)
 
 
 ## use 

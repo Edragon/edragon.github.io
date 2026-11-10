@@ -7,7 +7,7 @@ legacy wiki page link - https://w.electrodragon.com/w/10-Segment_Red_LED_Bar
 
 ## Specs 
 
-![](2025-02-03-17-33-01.png)
+![](2025-02-03-17-33-01.webp)
 
 - datasheet - [[KWL-R1025SB.pdf]]
 

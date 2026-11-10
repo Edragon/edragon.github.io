@@ -28,7 +28,7 @@
 
 ## anti-loosing 
 
-![](2026-08-11-20-54-44.png)
+![](2026-08-11-20-54-44.webp)
 
 - [[washer-dat]] - [[washer-dat]] - [[washer-spring-dat]] - [[bolt-dat]] - [[Bolt-SEM-dat]]
 

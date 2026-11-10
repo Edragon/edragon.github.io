@@ -84,7 +84,7 @@ of 20-pin PLDs, the CY7C346 allows the replacement of over
 CY7C346 reduces board space, part count, and increases
 system reliability.
 
-![](2026-09-29-16-25-54.png)
+![](2026-09-29-16-25-54.webp)
 
 ## RAM 
 

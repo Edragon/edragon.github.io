@@ -30,14 +30,14 @@ RSA/ECC, DES/3DES, AES, SHA1/256/384/512
 
 ## AES encryption 
 
-![](2025-06-26-19-15-28.png)
+![](2025-06-26-19-15-28.webp)
 
 
 ## CRC check 
 
 - CRCcalc.com
 
-![](2026-02-12-16-23-08.png)
+![](2026-02-12-16-23-08.webp)
 
 On-line CRC calculation and free library : 
 

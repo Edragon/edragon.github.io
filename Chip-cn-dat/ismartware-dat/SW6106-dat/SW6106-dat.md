@@ -3,7 +3,7 @@
 
 - [[power-bank-dat]] - [[battery-charger-dat]] - [[battery-charge-boost-dat]] - [[fast-charge-protocols-dat]] - [[SW6106-dat]]
 
-![](2026-06-03-01-45-21.png)
+![](2026-06-03-01-45-21.webp)
 
 The SW6106 is a highly integrated power management IC for fast charge power bank application.
 It integrates 4A switching charger, 18W synchronous boost, PD/QC/AFC/FCP/PE/SFCP fast charge

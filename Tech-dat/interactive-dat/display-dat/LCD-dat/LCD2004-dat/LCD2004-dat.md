@@ -16,7 +16,7 @@ The J204A is an industrial-grade character LCD module. It can display 4 lines of
 
 ## 2. Module Dimensions
 
-![](2026-07-07-17-21-57.png)
+![](2026-07-07-17-21-57.webp)
 
 ## 3. Pin Interface Specifications
 
@@ -113,7 +113,7 @@ During initialization, the display mode should be set. Usually, characters are e
 
 ## char table 
 
-![](2026-07-07-17-26-03.png)
+![](2026-07-07-17-26-03.webp)
 
 
 ## 7. C51 Example Code

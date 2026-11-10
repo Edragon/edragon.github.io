@@ -39,7 +39,7 @@ Pin Definitions
 - https://github.com/harbaum/LCD2USB/blob/master/contrib/LCD2USB-smartie.zip
 - libusb-win32 need to be installed 
 
-![](2023-09-13-13-48-16.png)
+![](2023-09-13-13-48-16.webp)
 
 ### Firmware flash command
 
@@ -72,7 +72,7 @@ python with lcd2usb
 test application 
 - https://github.com/harbaum/LCD2USB/tree/master/testapp
 
-![](2023-09-19-18-48-30.png)
+![](2023-09-19-18-48-30.webp)
 
 
 ## ref 

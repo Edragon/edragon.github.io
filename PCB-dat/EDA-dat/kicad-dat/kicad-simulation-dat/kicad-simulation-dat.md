@@ -99,7 +99,7 @@ https://www.woolseyworkshop.com/2019/07/01/performing-a-circuit-simulation-in-ki
 
 Transient Analysis == step 10u / final 10m
 
-![](2025-03-18-18-18-23.png)
+![](2025-03-18-18-18-23.webp)
 
 
 ## ref 

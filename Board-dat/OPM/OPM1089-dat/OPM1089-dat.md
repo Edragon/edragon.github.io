@@ -33,7 +33,7 @@ After the module, + and - 2 ~ 24V, the output voltage can be adjusted by adjusti
 
 ## Dimension 
 
-![](2025-01-09-17-42-08.png)
+![](2025-01-09-17-42-08.webp)
 
 ## FAQ 
 

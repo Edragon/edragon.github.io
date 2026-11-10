@@ -15,7 +15,7 @@
 
 AD7606/AD7606-6/AD7606-4 == 8-/6-/4-Channel DAS with 16-Bit, Bipolar Input, Simultaneous Sampling ADC
 
-![](2026-09-03-15-53-34.png)
+![](2026-09-03-15-53-34.webp)
 
 https://www.analog.com/media/en/technical-documentation/data-sheets/AD7606_7606-6_7606-4.pdf
 

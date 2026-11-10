@@ -21,7 +21,7 @@ Go-kart
 
 flexible, quick and sneak 
 
-![](2025-04-03-15-50-31.png)
+![](2025-04-03-15-50-31.webp)
 
 ## electric balancer kart to try-cycle
 

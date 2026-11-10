@@ -129,7 +129,7 @@ The `halt` command can be used together with `go`. After executing `halt`, the d
 * Could be detected as fake in MDK, so not as good as STLINK or DAPLINK
 
 
-![](2024-07-05-17-55-07.png)
+![](2024-07-05-17-55-07.webp)
 
 ![](2024-07-05-17-55-19.webp)
 

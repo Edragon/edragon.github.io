@@ -8,7 +8,7 @@ https://www.electrodragon.com/product/wireless-keyboard-wtouchpad/
 
 ![](2025-01-21-17-12-00.webp)
 
-![](2025-01-21-17-14-13.png)
+![](2025-01-21-17-14-13.webp)
 
 ![](Wireless-Keyboard-wTouchpad-01.webp)
 

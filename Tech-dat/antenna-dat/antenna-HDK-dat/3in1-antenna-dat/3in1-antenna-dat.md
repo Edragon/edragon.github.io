@@ -9,7 +9,7 @@ a combination footprint to support three types of antenna: [[IPEX-dat]], [[SMA-d
 
 The default populated antenna socket by us will be IPEX
 
-![](2025-06-14-22-37-00.png)
+![](2025-06-14-22-37-00.webp)
 
 
 

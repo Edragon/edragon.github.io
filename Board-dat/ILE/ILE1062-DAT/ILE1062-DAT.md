@@ -1,7 +1,7 @@
 
 # ILE1062 DAT
 
-![](27-52-18-05-05-2023.png)
+![](27-52-18-05-05-2023.webp)
 
 * Each dot WS2812 LED is about 5x5 mm length and width
 * Each dot spacing is the same 5.08 mm

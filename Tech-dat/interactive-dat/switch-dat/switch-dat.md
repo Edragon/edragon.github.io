@@ -68,7 +68,7 @@ mounting - panel == through hole or PCB - [[switch-pushbutton-panel-dat]] - [[sw
 
 TS24CA == 4.55*1.8*3.5mm 卧贴 轻触开关
 
-![](2025-07-14-01-08-00.png)
+![](2025-07-14-01-08-00.webp)
 
 
 

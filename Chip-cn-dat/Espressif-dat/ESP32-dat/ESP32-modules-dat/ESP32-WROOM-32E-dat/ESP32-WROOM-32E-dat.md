@@ -90,14 +90,14 @@ The pins HS1_STROBE, HS1_DATA4, HS1_DATA5, HS1_DATA6, and HS1_DATA7 on the ESP32
 
 ## Module Schematic 32E 
 
-![](2025-01-03-14-38-13.png)
+![](2025-01-03-14-38-13.webp)
 
 
 ### updates 
 
 internal flash memory 
 
-![](11-27-01-08-02-2023.png)
+![](11-27-01-08-02-2023.webp)
 
 Pins GPIO6 to GPIO11 on the ESP32-D0WD-V3/ESP32-D0WDR2-V3 chip are connected to the SPI flash integrated on the module and are not led out.
 

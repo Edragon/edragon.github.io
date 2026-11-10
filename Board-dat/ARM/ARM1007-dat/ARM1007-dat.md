@@ -65,7 +65,7 @@ please note the jumper installations, yellow 4x boxese from left to right:
 
 use ISP for simple code uploading 
 
-![](2026-06-04-16-14-16.png)
+![](2026-06-04-16-14-16.webp)
 
 ![](2026-06-04-16-17-58.webp)
 

@@ -14,7 +14,7 @@ Low-profile PCIe cards still use 1.57 mm thickness; only the bracket changes.
 
 PCIE - USB SCH - [[NGS1075-dat]]
 
-![](2026-04-26-18-16-00.png)
+![](2026-04-26-18-16-00.webp)
 
 - [[PCIE-dat]] - [[conn-pcie-dat]] - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[NGS1075-dat]]
 

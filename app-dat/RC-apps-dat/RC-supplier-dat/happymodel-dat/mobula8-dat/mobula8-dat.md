@@ -48,7 +48,7 @@
 
 - [[camera-canopy-dat]] - [[camera-FPV-dat]]
 
-![](2026-08-11-15-45-58.png)
+![](2026-08-11-15-45-58.webp)
 
 
 
@@ -103,9 +103,9 @@ config by [[USB-dat]] USB port
 
 ### configuration
 
-![](2025-09-03-12-13-05.png)
+![](2025-09-03-12-13-05.webp)
 
-![](2025-09-03-12-13-17.png)
+![](2025-09-03-12-13-17.webp)
 
 
 ### receiver 
@@ -122,7 +122,7 @@ config by [[USB-dat]] USB port
 
 ### motors setup 
 
-![](2025-09-03-12-12-21.png)
+![](2025-09-03-12-12-21.webp)
 
 
 

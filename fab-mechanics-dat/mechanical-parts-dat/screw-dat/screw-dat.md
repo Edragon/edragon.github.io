@@ -128,7 +128,7 @@ Countersunk Head M3*6, note length is the total length
 
 ### Hex socket 
 
-![](2025-03-13-18-03-58.png)
+![](2025-03-13-18-03-58.webp)
 
 
 

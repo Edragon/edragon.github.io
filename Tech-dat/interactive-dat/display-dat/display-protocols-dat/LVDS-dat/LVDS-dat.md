@@ -19,7 +19,7 @@
 IDT8P34S1106I == 1:6 LVDS Output 1.8V Fanout Buffer
 
 
-![](2026-11-06-02-41-07.png)
+![](2026-11-06-02-41-07.webp)
 
 
 ## info 

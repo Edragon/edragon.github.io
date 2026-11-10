@@ -16,7 +16,7 @@ please note one side of the chip is not soldered!
 
 **Working frequency (MHz)：315MHz**
 
-![](2025-10-15-17-49-42.png)
+![](2025-10-15-17-49-42.webp)
 
 - Working voltage (V): DC 5 V  
 - Static current (mA): 4.5 mA  
@@ -62,7 +62,7 @@ Note: The default mode is momentary (M4). Other modes can be provided for
 
 ### solder pin and coding 
 
-![](2026-01-18-19-41-50.png)
+![](2026-01-18-19-41-50.webp)
 
 Pins 1 through 8 of the IC2262 or 2272 are encoding pins. Each pin has three states: high, low, and floating. Connecting to the 'H' side indicates high, the 'L' side indicates low, and leaving it unconnected indicates floating.
 

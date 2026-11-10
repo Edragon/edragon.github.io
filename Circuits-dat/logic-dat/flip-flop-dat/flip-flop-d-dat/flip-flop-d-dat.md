@@ -15,7 +15,7 @@
 54LS74/DM54LS74A/DM74LS74A Dual Positive-Edge-Triggered D Flip-Flops with Preset, Clear and Complementary Outputs
 
 
-![](2026-10-28-16-30-36.png)
+![](2026-10-28-16-30-36.webp)
 
 
 ![](2026-10-28-16-30-57.webp)

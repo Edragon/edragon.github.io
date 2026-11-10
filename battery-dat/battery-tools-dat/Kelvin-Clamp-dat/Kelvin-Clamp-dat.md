@@ -28,7 +28,7 @@ This bypasses wiring resistance and lets you use a high-impedance voltmeter or p
 
 A 4-wire fixture uses two wires for the heavy discharge current and two separate wires exclusively to measure voltage at the battery terminals accurately.
 
-![](2026-05-19-22-31-01.png)
+![](2026-05-19-22-31-01.webp)
 
 ![](2026-05-19-22-31-12.webp)
 

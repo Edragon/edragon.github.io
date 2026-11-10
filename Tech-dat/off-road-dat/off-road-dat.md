@@ -151,7 +151,7 @@ If you are currently designing a custom chassis, building a robot dog/rover, or 
 Here is the complete breakdown of what you should consider, organized into logical categories for easy copying:
 
 
-![](2026-07-02-04-00-58.png)
+![](2026-07-02-04-00-58.webp)
 
 ---
 

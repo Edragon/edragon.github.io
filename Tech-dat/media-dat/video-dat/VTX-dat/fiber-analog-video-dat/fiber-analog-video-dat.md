@@ -6,7 +6,7 @@
 
 ## customized analog-video plus serial data fiber-optic transceiver
 
-![](2025-03-27-18-17-54.png)
+![](2025-03-27-18-17-54.webp)
 
 ![](2025-03-27-18-19-08.webp)
 

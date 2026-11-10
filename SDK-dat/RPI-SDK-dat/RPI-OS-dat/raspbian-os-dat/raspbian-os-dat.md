@@ -35,14 +35,14 @@ Raspberry Pi OS (64-bit): 3B 3B+ 3A+ 4B 400 5 CM3 CM3+ CM4 CM4S Zero 2 W
 
 - [[RPI-CM4-dat]]
 
-![](2023-12-01-17-51-29.png)
+![](2023-12-01-17-51-29.webp)
 
 
 ## Common Error 
 
 ### after flash, recover4.elf not found 
 
-![](2023-12-01-17-26-24.png)
+![](2023-12-01-17-26-24.webp)
 
 - possible error - https://forums.raspberrypi.com/viewtopic.php?t=293400
 

@@ -25,7 +25,7 @@ datasheet == https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
 
 ## wiring to ESP32 
 
-![](2024-12-26-14-41-42.png)
+![](2024-12-26-14-41-42.webp)
 
 
 INMP441 to ESP32

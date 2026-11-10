@@ -60,7 +60,7 @@ type-C 14 pins
 
 ![](2026-04-20-16-51-52.webp)
 
-![](2026-04-20-16-52-23.png)
+![](2026-04-20-16-52-23.webp)
 
 ### type-C 16 pins vertical PTH - V1.0 
 
@@ -69,7 +69,7 @@ type-C 14 pins
 
 ### type-C 16 pins vertical PTH - V0.9
 
-![](2026-04-23-18-56-52.png)
+![](2026-04-23-18-56-52.webp)
 
 ### type-C 16 pins board clipper and vertical PTH
 
@@ -88,7 +88,7 @@ wiring
 
 - [[iphone-17-dat]] 20pins [[usb-type-c-dat]] - [[usb-type-c]] - [[usb-SDK]]
 
-![](2025-11-20-14-56-28.png)
+![](2025-11-20-14-56-28.webp)
 
 线材eMarker信息，方案为Coaxial（0x367e）,具备50V5A 240W EPR供电能力，速率规格为USB4 Gen4（80Gb）。
 
@@ -102,7 +102,7 @@ USB Type-C encompasses many protocols such as USB 3, USB4, Thunderbolt 3, Thunde
 
 Although they all use the USB Type-C interface, due to differences in protocol versions and speeds, achieving optimal performance requires consistency in matching the system/device/USB Type-C cable. Different devices or systems also require different cables. Just considering speed, USB Type-C cables have the following distinctions:
 
-![](2024-05-09-12-51-37.png)
+![](2024-05-09-12-51-37.webp)
 
 As transmission speeds increase, the power demand for high-speed devices also grows larger. Therefore, USB Type-C must introduce various specifications to cope. The USB PD Revision 3.1 specification released by USB-IF in 2021 proposed EPR (Extended Power Range) power supply, requiring a maximum of 240W to meet the demand for high power supply. In summary, the numerous classifications of cable specifications and version speeds are almost dazzling, inevitably causing confusion for consumers when making purchases.
 

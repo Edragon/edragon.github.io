@@ -37,7 +37,7 @@ An X2 capacitor is a safety-rated EMI suppression capacitor designed to be conne
 
 It is defined by IEC 60384-14 and used mainly for noise suppression and interference filtering in power supplies and AC equipment.
 
-![](2026-01-25-20-38-52.png)
+![](2026-01-25-20-38-52.webp)
 
 Where X2 capacitors are used
 

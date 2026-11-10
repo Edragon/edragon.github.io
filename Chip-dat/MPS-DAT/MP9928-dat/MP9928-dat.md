@@ -19,7 +19,7 @@ The MP9928 is available in TSSOP20-EP package and QFN-20 (3mmx4mm) package.
 
 - [[mosfet-dat]]
 
-![](2026-06-18-02-18-30.png)
+![](2026-06-18-02-18-30.webp)
 
 - [[PCB-stack-dat]] - [[PCB-form-dat]]
 

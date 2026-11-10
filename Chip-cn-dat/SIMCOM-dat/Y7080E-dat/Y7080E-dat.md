@@ -63,7 +63,7 @@ I VBAT(peak)
 
 - x = reserved 
 
-![](2024-07-08-16-00-57.png)
+![](2024-07-08-16-00-57.webp)
 
 ## test AT commands 
 

@@ -43,7 +43,7 @@ The BNO055 is a smart sensor implementing an intelligent 9-axis absolute orienta
 
 ## SCH 
 
-![](2026-02-05-20-25-27.png)
+![](2026-02-05-20-25-27.webp)
 
 
 ## ref 

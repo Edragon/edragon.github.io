@@ -27,7 +27,7 @@ https://www.instagram.com/reel/CjiwHKfgFZo/?igshid=YmMyMTA2M2Y%3D
 打锤 + 铆钉座／冲头（Hammer + Rivet Setter / Anvil / Bucking Bar / Setters） — 对于某些铆钉（尤其在皮革、布料、铜铆钉、花帽铆钉等）可以在锤子 + 座子/冲头上手工敲压固定。适合简易金属片、皮革、布料等，或者当你没有铆枪时。很多皮革／手工爱好者会用这类工具。
 
 
-![](2025-12-05-13-12-58.png)
+![](2025-12-05-13-12-58.webp)
 
 
 

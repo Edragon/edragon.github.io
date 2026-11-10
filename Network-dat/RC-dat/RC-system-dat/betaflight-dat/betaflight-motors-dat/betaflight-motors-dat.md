@@ -177,7 +177,7 @@ It not only controls motors, but also lets ESC report **real-time motor RPM & te
 
 ~~detect motor faults~~ == you can not test it without connecting [[motor-dat]]
 
-![](2026-09-17-01-35-52.png) 
+![](2026-09-17-01-35-52.webp) 
 
 
 ## ref 

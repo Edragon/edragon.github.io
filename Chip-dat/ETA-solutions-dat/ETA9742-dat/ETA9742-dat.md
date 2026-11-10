@@ -16,9 +16,9 @@ ETA9742 is suitable for charging a 4.2V Li-ion battery. And ETA9742 is inESOP8 p
 
 ## build 
 
-![](2026-06-18-19-07-22.png)
+![](2026-06-18-19-07-22.webp)
 
-![](2026-06-18-19-07-32.png)
+![](2026-06-18-19-07-32.webp)
 
 ![](2026-06-18-19-07-51.webp)
 

@@ -37,7 +37,7 @@ SCT013 Models
 
 STC-013-000 modules come without Sampling resistor, it provide current output proportionally to Input current. To convert current into voltage R5 (burden resistor) 18Ω to 33Ω must be added across CT terminal. - [[burden-resistor-dat]] - [[resistor-dat]]
 
-![](2025-05-21-17-21-10.png)
+![](2025-05-21-17-21-10.webp)
 
 **STC 013 050 Arduino Interfacing**
 

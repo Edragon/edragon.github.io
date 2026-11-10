@@ -164,7 +164,7 @@ For DIY or household use, do not rely on PVC + solvent welding for sustained ope
 ## Connector 
 
 
-![](2025-12-10-02-22-35.png)
+![](2025-12-10-02-22-35.webp)
 
 
 

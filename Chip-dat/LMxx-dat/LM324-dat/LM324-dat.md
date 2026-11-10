@@ -40,12 +40,12 @@ In the same manner, the amplifier also makes negative voltages positive. A linea
 
 
 
-![](2025-11-01-18-21-35.png)
+![](2025-11-01-18-21-35.webp)
 
 
 ###  Unity-Gain Amplifier
 
-![](2025-11-01-18-20-56.png)
+![](2025-11-01-18-20-56.webp)
 
 ### Noise-Test Circuit
 

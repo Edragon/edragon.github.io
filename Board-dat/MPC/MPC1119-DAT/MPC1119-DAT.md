@@ -57,12 +57,12 @@ First version please see here. [[MPC1073-dat]]
 ## E-line Setup, Extra GPIOs Pin Definitions
 
 Setup E-line, PIN4 to E, PIN8 to GND or vice vese.
-![](2023-09-12-12-47-35.png)
+![](2023-09-12-12-47-35.webp)
 
 
 P2 (Chain-3) 5V logic output pin definitions
 
-![](2023-09-12-12-48-06.png)
+![](2023-09-12-12-48-06.webp)
 
 P2 pins definitions, 3V3 direct lead out
 

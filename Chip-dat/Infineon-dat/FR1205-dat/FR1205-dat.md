@@ -7,7 +7,7 @@
 
 - [[mosfet-dat]]
 
-![](2025-04-24-14-11-09.png)
+![](2025-04-24-14-11-09.webp)
 
 
 - [[Infineon-IRFR1205-DataSheet-v01_01-EN.pdf]]

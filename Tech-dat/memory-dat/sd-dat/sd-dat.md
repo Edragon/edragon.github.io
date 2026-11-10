@@ -97,7 +97,7 @@ The following pins are used to interface with the microSD card when it is on ope
 | DATA3        | GPIO 13 | pull-up               |            |
 
 
-![](2025-03-07-17-27-43.png)
+![](2025-03-07-17-27-43.webp)
 
 ## official arduino code - SD
 
@@ -201,7 +201,7 @@ Note:  The SPI pins can be manually configured by using `SPI.begin(sck, miso, mo
 
 ## SD SCH 2 
 
-![](2025-07-16-13-12-19.png)
+![](2025-07-16-13-12-19.webp)
 
 SCH 3 
 
@@ -213,7 +213,7 @@ SDMMC接口用于接入Micro SD卡，系统启动时，可以从SD卡中加载U-
 
 该部分原理图如下所示：
 
-![](2025-08-19-14-13-40.png)
+![](2025-08-19-14-13-40.webp)
 
 如上图所示，相关线路说明如下所示：
 
@@ -249,7 +249,7 @@ PJS008-2000
 
 ## SCH 8 
 
-![](2026-07-23-17-42-50.png)
+![](2026-07-23-17-42-50.webp)
 
 
 ## test tools 

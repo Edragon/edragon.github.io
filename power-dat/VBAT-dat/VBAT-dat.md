@@ -57,7 +57,7 @@ recommended to parallel one TVS on the Vbat pin of the module.
 - 100nf 
 - 33pf 
 
-![](2024-07-10-01-19-47.png)
+![](2024-07-10-01-19-47.webp)
 
 
 ## fault detection

@@ -159,13 +159,13 @@ Built-in SRAM, since it is SRAM, naturally there is no program storage capabilit
 
 ### UART 
 
-![](2024-01-13-17-55-57.png)
+![](2024-01-13-17-55-57.webp)
 
 - [[serial-dat]]
 
 ### SWD 
 
-![](2024-01-13-17-56-21.png)
+![](2024-01-13-17-56-21.webp)
 
 - [[SWD-dat]]
 
@@ -175,7 +175,7 @@ After USB is directly connected to the core board, enter the ISP mode (the chip 
 
 PS: When installing the STM32CubeProgrammer software, you need to install the Java environment
 
-![](2024-10-08-17-31-52.png)
+![](2024-10-08-17-31-52.webp)
 
 
 

@@ -180,7 +180,7 @@ Why the RC link loves them:
 
 ## antenna-Y 
 
-![](2026-09-23-02-45-08.png)
+![](2026-09-23-02-45-08.webp)
 
 Y Dipole
 Shape: the feed line splits into two elements at the end (forming a Y / V shape)
@@ -225,7 +225,7 @@ Directivity: omnidirectional (dipole radiation pattern)
 
 915mhz / 2.4Ghz
 
-![](2026-09-23-02-39-59.png)
+![](2026-09-23-02-39-59.webp)
 
 - [[antenna-tech-dat]] - [[antenna-dipole-dat]] / dual frequency - double T 
 

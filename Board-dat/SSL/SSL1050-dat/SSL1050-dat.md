@@ -9,7 +9,7 @@
 
 SCH with LDO, our version does not have [[LDO-dat]] yet  
 
-![](2025-04-01-14-11-05.png)
+![](2025-04-01-14-11-05.webp)
 
 
 ## Applications, category, tags, etc. 

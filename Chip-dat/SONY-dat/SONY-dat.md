@@ -76,7 +76,7 @@ Choose IMX362 devices (Pixel 2 / OPPO R11 / vivo X20), not the IMX398 (R9s Plus)
 
 Diagonal 4.60 mm (Type 1/4.0) 8 Mega-Pixel CMOS Image Sensor with Square Pixel for Color Cameras 
 
-![](2025-07-13-02-05-03.png)
+![](2025-07-13-02-05-03.webp)
 
 
 
@@ -99,7 +99,7 @@ The 120° FOV wide-angle version, designed for broader area capture, is perfect 
 
 #### camera interface 
 
-![](2025-07-13-02-06-12.png)
+![](2025-07-13-02-06-12.webp)
 
 
 ### IMX378 

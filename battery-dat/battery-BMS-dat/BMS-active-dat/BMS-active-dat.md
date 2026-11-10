@@ -74,7 +74,7 @@ For stable discharge, 2 series and 4 parallel (2S4P) are required, and attention
 
 ### 3S version 
 
-![](2025-09-10-21-44-20.png)
+![](2025-09-10-21-44-20.webp)
 
 note 
 
@@ -112,7 +112,7 @@ SCH
 
 MCU part 
 
-![](2026-06-18-20-50-53.png)
+![](2026-06-18-20-50-53.webp)
 
 demo 
 

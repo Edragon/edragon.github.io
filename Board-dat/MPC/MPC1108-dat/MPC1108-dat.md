@@ -15,7 +15,7 @@ https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspbe
 - SJ1 == less important, keep default 
 - SJ3 == IO12 control or manual switch control 
 
-![](2025-08-07-18-53-33.png)
+![](2025-08-07-18-53-33.webp)
 
 ## Function 
 

@@ -35,4 +35,4 @@ PS/2 mode or USB mode.
 - Baud Rate: 4800 bps in air or 4096 bps as in optical mouse mode.
 
 
-![](2026-05-28-12-11-07.png)
+![](2026-05-28-12-11-07.webp)

@@ -62,9 +62,9 @@ Typically, EV1527-compliant remote controls use the license-free 315MHz ISM band
 
 ![](2025-07-08-13-26-47.png)
 
-![](2025-07-08-13-31-46.png)
+![](2025-07-08-13-31-46.webp)
 
-![](2025-07-08-13-32-04.png)
+![](2025-07-08-13-32-04.webp)
 
 ## ref 
 

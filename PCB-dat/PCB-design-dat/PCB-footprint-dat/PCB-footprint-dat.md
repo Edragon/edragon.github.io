@@ -107,7 +107,7 @@ This value represents the component thickness, used to compensate for the nozzle
 ### Common SMD Component Thickness Reference
 
 
-![](2026-09-29-21-07-49.png)
+![](2026-09-29-21-07-49.webp)
 
 | Component Type           | Package (EIA)  | Thickness Range (mm) |
 | :----------------------- | :------------- | :------------------- |
@@ -189,7 +189,7 @@ This value represents the component thickness, used to compensate for the nozzle
 `X2SON-8` - [[TXS0102-dat]] - p0.35 / w0.9
 
 
-![](2026-08-16-22-23-35.png)
+![](2026-08-16-22-23-35.webp)
 
 ![](2026-08-20-15-52-43.webp)
 

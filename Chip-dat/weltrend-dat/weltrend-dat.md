@@ -16,14 +16,14 @@ The WT6615F minimizes external components by integrating USB PD baseband PHY, Ty
 
 It supports wide operation voltage range from 3V to 30V without the need of an external LDO. A Multi-Time-Programmable (MTP) ROM is provided for program code and user configuration data.
 
-![](2026-05-23-17-44-31.png)
+![](2026-05-23-17-44-31.webp)
 
 https://taoic.oss-cn-hangzhou.aliyuncs.com/7581/product/tssemi168_1658973591000.pdf
 
 
 ## board  
 
-![](2026-05-23-17-46-24.png)
+![](2026-05-23-17-46-24.webp)
 
 ![](2026-05-23-17-49-13.webp)
 

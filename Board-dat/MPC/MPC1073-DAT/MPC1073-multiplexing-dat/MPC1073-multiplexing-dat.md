@@ -30,12 +30,12 @@ problem show up
 
 multiplexing fixed 
 
-![](2024-11-07-17-48-53.png)
+![](2024-11-07-17-48-53.webp)
 
 
 ### on 64x64 panel: 
 
-![](2024-11-07-17-41-31.png)
+![](2024-11-07-17-41-31.webp)
 
 ## further support 
 

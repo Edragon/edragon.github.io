@@ -195,7 +195,7 @@ The safest batteries to use, especially in terms of preventing fires or explosio
 
 xiaolu - 3.2V15AH == 48Wh // 20x 48wh == 1000 Wh == 1kWh == 64V
 
-![](2026-05-16-02-36-03.png)
+![](2026-05-16-02-36-03.webp)
 
 
 ## ref 

@@ -30,7 +30,7 @@ A 10kΩ NTC (negative temperature coefficient) thermistor can be connected from
 
 ## Board Functions 
 
-![](2024-01-31-15-57-14.png)
+![](2024-01-31-15-57-14.webp)
 
 ![](2024-01-31-15-58-09.png)
 

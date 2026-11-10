@@ -14,7 +14,7 @@ The ESP32-P4  uses the ESP32-P4NRW32 chip, which features:
 
 ### MIPI-DSI LCD Driver Principle
 
-![](2025-08-09-13-29-58.png)
+![](2025-08-09-13-29-58.webp)
 
 ### Required Hardware
 

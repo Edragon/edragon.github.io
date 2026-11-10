@@ -34,7 +34,7 @@ datasheet
 
 ## Dimension 
 
-![](2025-05-20-12-41-04.png)
+![](2025-05-20-12-41-04.webp)
 
 **Input & Output**: As clearly indicated in the datasheet, you can use the module well if you have a >300mA input dc supply in 4.5-5.5V range but the maximum output load current never exceeds the 200mA at 5VDC limit.
 

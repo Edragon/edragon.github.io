@@ -66,7 +66,7 @@ Connection setup
 输入vi/etc/wfb.conf回车，注意空格
 vi /etc/wfb.conf
 
-![](2026-10-02-17-17-17.png)
+![](2026-10-02-17-17-17.webp)
 
 setup wfb.conf 
 

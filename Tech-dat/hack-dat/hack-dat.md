@@ -43,7 +43,7 @@
 - [[fab-tools-dat]] - [[hot-air-station-dat]]
 
 
-![](2026-06-16-20-08-07.png)
+![](2026-06-16-20-08-07.webp)
 
 - [[battery-charger-dat]]
 

@@ -33,7 +33,7 @@ Also called aviation plugs or circular connectors.
 Example: GX12-4, GX16-5 (where the number after the dash indicates pin count).
 
 
-![](2025-03-27-17-08-35.png)
+![](2025-03-27-17-08-35.webp)
 
 
 ### M12 Industrial Connector (A-coded, D-coded, X-coded)

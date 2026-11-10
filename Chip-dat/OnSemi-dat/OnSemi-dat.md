@@ -73,7 +73,7 @@ MOC3061M, MOC3062M, MOC3063M, MOC3162M, MOC3163M
 
 The Switch−mode Power Rectifier employs the Schottky Barrier principle in a large area metal−to−silicon power diode. State−of−the−art geometry features epitaxial construction with oxide passivation and metal overlay contact. Ideally suited for use as rectifiers in very low−voltage, high−frequency switching power supplies, free wheeling diodes and polarity protection diodes.
 
-![](2026-01-25-20-29-23.png)
+![](2026-01-25-20-29-23.webp)
 
 
 

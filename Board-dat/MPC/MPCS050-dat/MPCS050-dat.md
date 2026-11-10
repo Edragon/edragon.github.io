@@ -17,10 +17,10 @@ Versions:
 - USB-A-Male — Type-C USB, current ~ up to 3A, length 1.5 meter
 
 
-![](2026-02-23-16-19-48.png)
+![](2026-02-23-16-19-48.webp)
 
 
-![](2026-02-23-16-20-33.png)
+![](2026-02-23-16-20-33.webp)
 
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.

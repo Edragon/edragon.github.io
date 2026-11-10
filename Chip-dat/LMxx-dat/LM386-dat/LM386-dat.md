@@ -30,14 +30,14 @@ SCH 4
 ![](2026-03-05-02-23-30.webp)
 
 SCH 3 
-![](2025-04-03-14-07-36.png)
+![](2025-04-03-14-07-36.webp)
 
 ![](2024-03-26-15-35-38.webp)
 
 
 LM386 with microphone, Amplification is controlled by R2 in schematic 2
 
-![](2025-04-03-14-07-52.png)
+![](2025-04-03-14-07-52.webp)
 
 
 

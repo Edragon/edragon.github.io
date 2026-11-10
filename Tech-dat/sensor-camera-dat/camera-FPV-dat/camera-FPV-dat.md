@@ -48,7 +48,7 @@ side view install M2 x6
 
 - [[FUS-X111-dat]]
 
-![](2026-09-20-15-31-48.png)
+![](2026-09-20-15-31-48.webp)
 
 
 - [[cable-dat]] - [[CONN-dat]]
@@ -70,7 +70,7 @@ not yet break it down, only the back side now
 
 ![](2026-09-20-14-39-02.webp)
 
-![](2026-09-20-14-39-44.png)
+![](2026-09-20-14-39-44.webp)
 
 
 ## wiring 

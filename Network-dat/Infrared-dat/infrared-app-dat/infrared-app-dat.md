@@ -7,7 +7,7 @@
 ## sound transfer carried on infrared 
 
 
-![](2026-05-15-14-24-01.png)
+![](2026-05-15-14-24-01.webp)
 
 
 1). `The transmitting end`: the headset port, the audio signal input through the transistor Q1 S8050, an infrared transmitter to drive the tube, and the audio signal is transmitted in the form of infrared.

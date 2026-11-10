@@ -44,7 +44,7 @@ build the fuselage - [[airplane-fuselage-dat]]
 
 build head and [[propeller-tractor-dat]] holder 
 
-![](2026-08-24-03-26-34.png)
+![](2026-08-24-03-26-34.webp)
 
 add [[motor-servo-dat]] - [[airplane-sheet-dat]]
 
@@ -56,7 +56,7 @@ install [[propeller-tractor-dat]]
 
 [[airplane-fuselage-dat]] wrap up with [[wing-dat]]
 
-![](2026-08-24-03-38-13.png)
+![](2026-08-24-03-38-13.webp)
 
 
 ## ref 

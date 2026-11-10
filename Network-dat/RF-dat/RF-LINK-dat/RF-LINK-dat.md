@@ -17,7 +17,7 @@ Clasic RF LINK - [[RF-LINK-dat]]
 
 - pair - [[NWL1060-dat]]
 
-![](2026-07-07-18-30-13.png)
+![](2026-07-07-18-30-13.webp)
 
 - transmitter - [[NWL1021-dat]] - [[NWL1022-dat]]
 
@@ -155,7 +155,7 @@ EDRF can store up to 32 remote control buttons (each channel can learn and ident
 - Wireless gate openers
 
 
-![](2025-06-25-15-15-27.png)
+![](2025-06-25-15-15-27.webp)
 
 
 min. SCH 
@@ -208,7 +208,7 @@ If you're using **common learning-code RF modules**:
 
 ## Copier 
 
-![](2025-07-08-13-40-47.png)
+![](2025-07-08-13-40-47.webp)
 
 
 ### 1️⃣ Clear Existing Codes (Code Erase)

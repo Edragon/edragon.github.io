@@ -24,7 +24,7 @@
 
 single key pad SCH1 
 
-![](2026-01-18-17-07-03.png)
+![](2026-01-18-17-07-03.webp)
 
 matrix keypad SCH2
 
@@ -77,7 +77,7 @@ Output high TTL signal when either row or column buttons are pressed.
 
 build 2 == with [[WS2812-dat]]
 
-![](2026-09-05-18-27-36.png)
+![](2026-09-05-18-27-36.webp)
 
 ![](2026-09-05-18-28-11.webp)
 

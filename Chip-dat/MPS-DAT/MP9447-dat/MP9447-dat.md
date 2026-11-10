@@ -11,7 +11,7 @@ High-Efficiency, Fast-Transient, 5A, 36V Synchronous, Step-Down Converter
 
 ## SCH
 
-![](2026-10-02-14-59-34.png)
+![](2026-10-02-14-59-34.webp)
 
 
 ## PCB 

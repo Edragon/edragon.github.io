@@ -71,14 +71,14 @@ focus is not positioned on the sensor after immersion in oil or water
 
 ![](2025-12-12-18-19-56.webp)
 
-![](2025-12-12-18-20-23.png)
+![](2025-12-12-18-20-23.webp)
 
 
 ## lens 2 
 
 M12 screw mount lens, 
 
-![](2025-12-12-18-18-46.png)
+![](2025-12-12-18-18-46.webp)
 
 ![](2025-12-12-18-18-58.webp)
 
@@ -86,11 +86,11 @@ M12 screw mount lens,
 
 ![](2025-12-10-15-22-41.png)
 
-![](2025-12-10-15-23-07.png)
+![](2025-12-10-15-23-07.webp)
 
 ![](2025-12-10-15-23-50.webp)
 
-![](2025-12-10-15-24-08.png)
+![](2025-12-10-15-24-08.webp)
 
 inside of the lens 
 
@@ -257,7 +257,7 @@ If you break it:
 
 ## lens selection 
 
-![](2025-12-10-15-12-33.png)
+![](2025-12-10-15-12-33.webp)
 
 
 
@@ -409,7 +409,7 @@ Notes:
 
 ## build 
 
-![](2026-06-19-17-41-56.png)
+![](2026-06-19-17-41-56.webp)
 
 - focal length == 6mm Aperture == 1/2"
 

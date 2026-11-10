@@ -111,7 +111,7 @@ other types - [[APA102-2020-dat]]
 
 GPIO4: 
 
-![](2024-12-28-17-42-41.png)
+![](2024-12-28-17-42-41.webp)
 
 
 
@@ -145,7 +145,7 @@ GPIO4:
 
 ## commerial LED panels 
 
-![](2025-09-01-20-27-22.png)
+![](2025-09-01-20-27-22.webp)
 
 ![](2025-09-01-20-28-25.webp)
 
@@ -158,7 +158,7 @@ ED PNL IND RGB DIF 13.80MM SLDR - 6211122304F
 
 LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15mA Blue Solder Lug
 
-![](2025-11-29-20-16-26.png)
+![](2025-11-29-20-16-26.webp)
 
 
 
@@ -176,7 +176,7 @@ LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15m
 
 ## multiple functions led via jumpers set 
 
-![](2026-03-04-19-13-03.png)
+![](2026-03-04-19-13-03.webp)
 
 
 ## tech 
@@ -188,7 +188,7 @@ LED Panel Indicator Red, Green, Blue (RGB) Diffused 6V 15mA Red, 15mA Green, 15m
 
 socket in LED 
 
-![](2026-10-14-03-10-31.png)
+![](2026-10-14-03-10-31.webp)
 
 
 

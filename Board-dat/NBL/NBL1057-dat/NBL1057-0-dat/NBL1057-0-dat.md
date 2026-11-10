@@ -13,7 +13,7 @@
 
 ### Backside Jumper Setup Mode:
 
-![](2023-10-19-13-23-35.png)
+![](2023-10-19-13-23-35.webp)
 
 Bottom jumper set hardware / software method for slave / master mode, Default setup for hardware method.
 
@@ -30,6 +30,6 @@ Bottom jumper set hardware / software method for slave / master mode, Default se
 
 ### base version 
 
-![](2023-10-20-17-05-57.png)
+![](2023-10-20-17-05-57.webp)
 
 ![](2023-10-23-15-06-05.webp)

@@ -21,7 +21,7 @@
 
 front side 
 
-![](2026-06-19-16-47-20.png)
+![](2026-06-19-16-47-20.webp)
 
 ![](2026-06-19-16-47-42.webp)
 
@@ -31,7 +31,7 @@ front side
 
 - [[mospec-dat]] - PY - [[MBR20250-dat]] == Schottky Barrier Rectifiers == 20 AMPERES 250 VOLTS - [[power-adapter-dat]]
 
-![](2026-06-19-17-04-26.png)
+![](2026-06-19-17-04-26.webp)
 
 - [[capacitor-dat]] == 470UF/50V
 
@@ -47,7 +47,7 @@ SMTT5A 250V - [[fuse-dat]] - [[power-adapter-dat]]
 
 TSF20N65 - 0322dr1 - [[mosfet-dat]]
 
-![](2026-06-19-17-13-34.png)
+![](2026-06-19-17-13-34.webp)
 
 JQH-17 2215 LCL-SQ19-4872A
 
@@ -65,7 +65,7 @@ JQH-22 2214 BCK-PQ32-5542B
 
 - [[capacitor-dat]] - 100UF / 450V - [[power-adapter-dat]]
 
-![](2026-06-19-17-24-58.png)
+![](2026-06-19-17-24-58.webp)
 
 
 back side
@@ -76,7 +76,7 @@ back side
 - [[SCT-dat]] - [[SCT2650-dat]] == STC2650 == 4.5V-60V Vin, 5A, High Efficiency Step-down DCDC Converter with
 Programmable Frequency - [[DCDC-down-dat]]
 
-![](2026-06-19-16-43-17.png)
+![](2026-06-19-16-43-17.webp)
 
 - M20839 unknown 
 
@@ -107,7 +107,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 ![](2026-06-19-14-59-12.png)
 
-![](2026-06-19-15-00-08.png)
+![](2026-06-19-15-00-08.webp)
 
 ![](2026-06-19-15-00-25.webp)
 
@@ -115,7 +115,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 ### build 3 
 
-![](2026-06-19-14-21-55.png)
+![](2026-06-19-14-21-55.webp)
 
 ![](2026-06-19-14-22-17.png)
 
@@ -139,7 +139,7 @@ ZJNOG ZJN0G unknown
 
 ![](2026-06-15-17-44-25.webp)
 
-![](2026-06-15-17-45-41.png)
+![](2026-06-15-17-45-41.webp)
 
 - [[SP6649-dat]] - [[sipex-dat]]
 

@@ -37,7 +37,7 @@ For a complete list of related documentation, click here.
 
 https://www.infineon.com/assets/row/public/documents/10/57/infineon-stk12c68-64-kbit-8-k-x-8-autostore-nvsram-datasheet-additionaltechnicalinformation-en.pdf?fileId=8ac78c8c7d0d8da4017d0ecc045f45bf
 
-![](2026-06-23-13-16-19.png)
+![](2026-06-23-13-16-19.webp)
 
 
 

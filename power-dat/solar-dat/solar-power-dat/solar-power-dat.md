@@ -10,11 +10,11 @@ relevant - [[generator-dat]]
 
 - direction protection diodes for [[solar-panel-dat]] power supply 
 
-![](2024-01-24-16-10-06.png)
+![](2024-01-24-16-10-06.webp)
 
 ![](2024-01-24-16-11-57.webp)
 
-![](2024-01-24-16-12-15.png)
+![](2024-01-24-16-12-15.webp)
 
 
 ## Solar Boards 
@@ -45,7 +45,7 @@ relevant - [[generator-dat]]
 
 ## system diagram
 
-![](2025-09-11-12-07-50.png)
+![](2025-09-11-12-07-50.webp)
 
 
 ## ref 

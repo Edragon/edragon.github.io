@@ -11,7 +11,7 @@
 https://www.hcwsemi.com/product/xy-ic.html
 
 
-![](2026-09-06-01-40-35.png)
+![](2026-09-06-01-40-35.webp)
 
 
 ## HC2702D 

@@ -13,7 +13,7 @@ https://www.electrodragon.com/product/mp2315-mini-dc-step-power-module-1224v-5v3
 
 ## Pins
 
-![](2023-12-06-17-55-41.png)
+![](2023-12-06-17-55-41.webp)
 
 - VO+: Output
 - GND: Common Ground

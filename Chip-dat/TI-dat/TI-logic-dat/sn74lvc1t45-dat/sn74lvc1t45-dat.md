@@ -25,7 +25,7 @@ This allows for universal low-voltage bidirectional translation between any of t
 
 build 1 SCH 
 
-![](2026-09-05-15-16-29.png)
+![](2026-09-05-15-16-29.webp)
 
 
 ## ref 

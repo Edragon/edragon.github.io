@@ -8,7 +8,7 @@
 refer for more demo code in legacy wiki page here: - [legacy wiki page ](https://w.electrodragon.com/w/2_Channels_Relay_Extension_Shield_(Wireless_%26_Arduino_Supported))
 
 
-![](2025-10-25-17-37-07.png)
+![](2025-10-25-17-37-07.webp)
 
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
@@ -19,7 +19,7 @@ refer for more demo code in legacy wiki page here: - [legacy wiki page ](https:/
 
 SCH 
 
-![](Relay_Shield_Schematic.png)
+![](Relay_Shield_Schematic.webp)
 
 ## Applications, category, tags, etc. 
 

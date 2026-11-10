@@ -25,7 +25,7 @@ R is a sampling resistor = sampling resistor 100Ω
 
 Figure II 
 
-![](2025-05-21-16-01-34.png)
+![](2025-05-21-16-01-34.webp)
 
 The product can be directly through the resistance sampling , easy to use ( FigureII).
 

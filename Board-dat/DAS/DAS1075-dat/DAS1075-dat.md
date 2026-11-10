@@ -8,7 +8,7 @@
 
 ### Board Map, Dimension, Pins, chip info, Use Guide, Setup Jumper, etc.
 
-![](2025-10-18-13-44-49.png)
+![](2025-10-18-13-44-49.webp)
 
 | Function                                          | Pin        |
 | ------------------------------------------------- | ---------- |

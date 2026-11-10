@@ -39,15 +39,15 @@ Internal parameters of the motor
 
 Note: Ke and Kt are the parameters of the motor itself (without reduction gearbox). When using, they need to be multiplied by the corresponding reduction ratio of the motor.
 
-![](2025-03-28-15-30-04.png)
+![](2025-03-28-15-30-04.webp)
 
 ## products images 
 
-![](2025-03-28-15-27-53.png)
+![](2025-03-28-15-27-53.webp)
 
 ## dimension 
 
-![](2025-03-28-15-47-40.png)
+![](2025-03-28-15-47-40.webp)
 
 ## ref 
 

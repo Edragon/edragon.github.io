@@ -35,7 +35,7 @@ The main control of this module uses Beken's BK3266 chip to provide high-quality
 - Support AT to modify the Bluetooth pairing password, within 15 characters, see AT command description.
 
 
-![](2025-01-20-19-34-14.png)
+![](2025-01-20-19-34-14.webp)
 
 ## application 
 
@@ -81,7 +81,7 @@ This module is mainly used for short-distance music transmission. It can be easi
 
 - 1.6 x 0.8 mm
 
-![](2025-01-17-15-37-38.png)
+![](2025-01-17-15-37-38.webp)
 
 ## Pins Definitions 
 

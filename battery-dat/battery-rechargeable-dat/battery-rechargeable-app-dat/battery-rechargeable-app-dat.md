@@ -17,7 +17,7 @@
 
 test around 3.9V 
 
-![](2026-09-17-18-09-59.png)
+![](2026-09-17-18-09-59.webp)
 
 
 
@@ -31,13 +31,13 @@ Robot tank battery
 
 ![](2025-03-28-15-59-52.png)
 
-![](2025-03-28-16-00-03.png)
+![](2025-03-28-16-00-03.webp)
 
 
 
 for electric-bike, electric-kart, electric-scooter, electric-skateboard, etc
 
-![](2025-04-03-18-42-45.png)
+![](2025-04-03-18-42-45.webp)
 
 - [[power-tools-dat]] - [[Electric-tools-battery-dat]]
 
@@ -45,11 +45,11 @@ for electric-bike, electric-kart, electric-scooter, electric-skateboard, etc
 
 ![](2025-09-10-21-35-20.webp)
 
-![](2025-09-10-21-35-39.png)
+![](2025-09-10-21-35-39.webp)
 
 power tool battery == 3S=3P/6P/6P == 15 batteries
 
-![](2023-11-08-16-40-20.png)
+![](2023-11-08-16-40-20.webp)
 
 - [[battery-pack-dat]]
 

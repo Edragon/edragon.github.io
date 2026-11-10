@@ -31,7 +31,7 @@ The RTL8211FD(I)-CG incorporates a linear Low-Dropout Regulator (LDO) that featu
 
 ## Apps 
 
-![](2025-05-04-18-50-18.png)
+![](2025-05-04-18-50-18.webp)
 
 - [[fiber-optic-dat]] - [[MDI-dat]] - [[RGMII-dat]] - [[RJ45-dat]] - [[PHY-dat]]
 
@@ -39,7 +39,7 @@ The RTL8211FD(I)-CG incorporates a linear Low-Dropout Regulator (LDO) that featu
 
 ### Demo Board 
 
-![](2025-05-04-19-10-29.png)
+![](2025-05-04-19-10-29.webp)
 
 ![](2025-05-04-19-10-52.webp)
 

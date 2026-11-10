@@ -73,7 +73,7 @@ common supported devices
 
 ## programmer V2 
 
-![](2026-06-04-18-29-10.png)
+![](2026-06-04-18-29-10.webp)
 
 
 

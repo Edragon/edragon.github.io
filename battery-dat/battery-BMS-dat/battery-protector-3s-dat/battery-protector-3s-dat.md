@@ -23,7 +23,7 @@
 
 ## protector version 3-1 mini 
 
-![](2026-03-14-15-06-27.png)
+![](2026-03-14-15-06-27.webp)
 
 ## protector version 3 
 
@@ -42,21 +42,21 @@ this 25A 3S protector
 
 details 
 
-![](2026-03-14-14-54-22.png)
+![](2026-03-14-14-54-22.webp)
 
 ![](2026-02-12-21-32-20.webp)
 
 
 normal and balanced version
 
-![](2026-02-12-21-33-09.png)
+![](2026-02-12-21-33-09.webp)
 
 
 ## portector version 2-1 mini 
 
 ![](2026-03-14-15-05-52.webp)
 
-![](2026-03-14-15-08-46.png)
+![](2026-03-14-15-08-46.webp)
 
 
 
@@ -64,7 +64,7 @@ normal and balanced version
 
 - [[mos-p-dat]] - [[ablic-dat]] == - 82544A 
 
-![](2026-03-14-14-55-39.png)
+![](2026-03-14-14-55-39.webp)
 
 ![](2026-02-12-21-29-27.webp)
 

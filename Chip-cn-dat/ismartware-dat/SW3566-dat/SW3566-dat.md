@@ -21,7 +21,7 @@ SCH 1
 - [[display-dat]] - [[LCD-SPI-dat]] - [[ESP32-C3-dat]] - via [[I2C-dat]] to [[SW3566-dat]]
 
 
-![](2026-09-05-15-33-03.png)
+![](2026-09-05-15-33-03.webp)
 
 
 ## ref 

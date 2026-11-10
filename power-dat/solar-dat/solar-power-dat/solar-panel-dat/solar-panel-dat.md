@@ -104,7 +104,7 @@ LIFESPAN: 3 year +
 
 ## Panel Wiring 
 
-![](2025-05-08-18-00-49.png)
+![](2025-05-08-18-00-49.webp)
 
 Diodes in solar panels help prevent "hot-spots." 
 
@@ -124,7 +124,7 @@ on the window of the car
 
 on the top of the car 
 
-![](2025-07-24-14-56-15.png)
+![](2025-07-24-14-56-15.webp)
 
 ## ref 
 

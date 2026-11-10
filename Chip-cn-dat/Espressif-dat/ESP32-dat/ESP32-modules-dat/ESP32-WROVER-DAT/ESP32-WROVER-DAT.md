@@ -34,7 +34,7 @@ PCB-ANT
 
 ## version ESP32-WRover-E
 
-![](2026-04-02-20-49-28.png)
+![](2026-04-02-20-49-28.webp)
 
 | Module Model | Built-in ESP32 Chip | SRAM | ROM | Espressif Recommendation |
 | ------------ | ------------------- | ---- | --- | ------------------------ |
@@ -51,7 +51,7 @@ PCB-ANT
 
 ## Pin map 
 
-![](2024-12-26-18-38-26.png)
+![](2024-12-26-18-38-26.webp)
 
 19x19 
 
@@ -86,7 +86,7 @@ ESP32-WROVER-E 和 ESP32-WROVER-IE 采用的芯片是 ESP32 系列的 ESP32-D0WD
 
 ## certificate 
 
-![](2026-04-02-20-51-55.png)
+![](2026-04-02-20-51-55.webp)
 
 
 ![](2026-04-02-20-52-47.webp)

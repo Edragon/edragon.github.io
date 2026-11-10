@@ -25,7 +25,7 @@ https://www.st.com/en/microcontrollers-microprocessors/stm32f103c6.html
 ## LQFP48 pinout
 
 
-![](2025-07-04-12-25-54.png)
+![](2025-07-04-12-25-54.webp)
 
 
 ## APPs 

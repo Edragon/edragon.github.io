@@ -35,7 +35,7 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 
 ## Typical SCH 
 
-![](2024-03-27-17-08-13.png)
+![](2024-03-27-17-08-13.webp)
 
 
 ## versions 
@@ -53,7 +53,7 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 - MAKE SURE to use high quality, full charged battery for testing, otherwise could cause power off 
 - The board does not supports modern quick charging options, like QC, PD, etc 
 
-![](2024-03-27-17-03-26.png)
+![](2024-03-27-17-03-26.webp)
 
 - to prevent board enter into sleep mode automatically for small power load, you can add some more load resistors to keep it continuously on.
 
@@ -77,12 +77,12 @@ Push button’s connecting is shown in Fig 5. IP5306 can identify long push and 
 
 ### SCH 
 
-![](2024-12-28-15-01-01.png)
+![](2024-12-28-15-01-01.webp)
 
 
 SCH 2 
 
-![](2025-08-19-16-44-53.png)
+![](2025-08-19-16-44-53.webp)
 
 
 ## board 
@@ -115,9 +115,9 @@ SC8F2892 is a CmsemiconFLASH chip, Flash 4Kx14Bit, RAM256B, built-in RC oscillat
 
 ![](2026-04-21-21-11-52.webp)
 
-![](2026-06-02-19-19-06.png)
+![](2026-06-02-19-19-06.webp)
 
-![](2026-06-02-19-19-18.png)
+![](2026-06-02-19-19-18.webp)
 
 - [[battery-protector-dat]]
 

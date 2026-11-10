@@ -5,9 +5,9 @@ https://www.electrodragon.com/product/super-mini360-dc-dcsynchronous-rectified-b
 
 ## Specs 
 
-![](2023-12-29-17-03-59.png)
+![](2023-12-29-17-03-59.webp)
 
-![](2023-12-29-17-04-16.png)
+![](2023-12-29-17-04-16.webp)
 
 Application fields: DIY mobile power supply, vehicle power supply, communication equipment power supply, various occasions with strict requirements on volume and weight (such as aviation models, etc.).
 

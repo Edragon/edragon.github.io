@@ -32,7 +32,7 @@ based on - [[KCD4-dat]]
 - Center (OFF):         All pins disconnected  
 - Position 2 (Right):   Pin1 → Pin6, Pin3 → Pin4 connected  
 
-![](2025-06-07-14-04-21.png)
+![](2025-06-07-14-04-21.webp)
 
 ## Hacked KCD4 switch to switch directions 
 

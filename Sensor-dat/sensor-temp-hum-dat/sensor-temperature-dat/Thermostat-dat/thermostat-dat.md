@@ -9,7 +9,7 @@ The KSD301 is a miniature, hermetically sealed bimetal thermostat. It has a sing
 
 https://en.wikipedia.org/wiki/Thermostat
 
-![](2023-10-07-18-18-11.png)
+![](2023-10-07-18-18-11.webp)
 
 
 

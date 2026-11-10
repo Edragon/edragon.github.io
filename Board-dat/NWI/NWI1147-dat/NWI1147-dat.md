@@ -16,10 +16,10 @@ Wifi Lora ESP32 Dev. Board [product url](https://www.electrodragon.com/product/w
 
 ## Board Function map 
 
-![](2025-03-07-16-06-30.png)
+![](2025-03-07-16-06-30.webp)
 
 
-![](2025-03-07-16-06-59.png)
+![](2025-03-07-16-06-59.webp)
 
 ## Specs 
 

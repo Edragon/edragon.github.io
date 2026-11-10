@@ -38,7 +38,7 @@ A **NEMA 23** motor is a **stepper motor** with a standard **mounting flange siz
 - **Textile and Packaging Machines**
 - **Conveyor Belt Systems**
 
-![](2025-06-01-18-21-25.png)
+![](2025-06-01-18-21-25.webp)
 
 ## ref 
 

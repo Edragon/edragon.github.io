@@ -16,7 +16,7 @@
 
 - [[feeder-electric-auto-dat]] parts: [[feeder-tray-dat]]
 
-![](2025-05-07-14-28-35.png)
+![](2025-05-07-14-28-35.webp)
 
 
 

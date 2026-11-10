@@ -14,7 +14,7 @@
 The RTL8762CMF is an ultra-low-power, highly integrated Bluetooth 5.0 Low Energy (BLE) System-on-Chip (SoC) developed by Realtek. It is widely utilized in smart home devices, wearables, and industrial IoT applications that require robust wireless connectivity.
 
 
-![](2026-05-23-14-53-11.png)
+![](2026-05-23-14-53-11.webp)
 
 - [[RTL8762-DS.pdf]]
 

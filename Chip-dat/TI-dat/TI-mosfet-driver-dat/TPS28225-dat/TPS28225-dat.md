@@ -20,7 +20,7 @@ TPS28225 High-Frequency 4A Sink Synchronous MOSFET Driver
 
 ## SCH 
 
-![](2026-09-16-18-05-03.png)
+![](2026-09-16-18-05-03.webp)
 
 
 

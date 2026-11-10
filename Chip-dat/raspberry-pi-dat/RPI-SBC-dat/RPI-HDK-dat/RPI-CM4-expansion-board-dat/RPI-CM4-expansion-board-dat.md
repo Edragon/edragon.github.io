@@ -50,7 +50,7 @@ boot mode
 
 ## Expansion Board 
 
-![](2023-10-27-16-49-05.png)
+![](2023-10-27-16-49-05.webp)
 
 ### IO Expansion board 
 
@@ -99,7 +99,7 @@ diagram
 
 ## RPI CM4IO Board 
 
-![](2023-11-30-14-27-01.png)
+![](2023-11-30-14-27-01.webp)
 
 ![](2023-11-30-14-27-26.webp)
 
@@ -146,7 +146,7 @@ diagram
 
 - Mode select 
 
-![](2023-11-30-15-45-39.png)
+![](2023-11-30-15-45-39.webp)
 
 - LEDs 
 

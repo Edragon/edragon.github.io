@@ -23,4 +23,4 @@ The HM6245 series is a group of positive voltage output, three-pin regulators, t
 
 0.6V for 1A output 
 
-![](2025-07-13-01-03-42.png)
+![](2025-07-13-01-03-42.webp)

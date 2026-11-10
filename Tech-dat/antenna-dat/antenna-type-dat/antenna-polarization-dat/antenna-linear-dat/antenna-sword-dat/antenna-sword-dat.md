@@ -18,7 +18,7 @@ Here are its key characteristics and applications:
 * **Gain and Directivity:** Many sword antennas are designed with specific directional or high-gain characteristics. When used on receiving stations (like ground stations, VRX modules, or goggles), they focus reception toward the flying direction to extend range and reduce signal dropouts.
 * **Durability:** Without fragile stems or exposed lobes found on traditional mushroom antennas, sword antennas tend to survive crashes and impacts much better.
 
-![](2026-10-01-18-12-07.png)
+![](2026-10-01-18-12-07.webp)
 
 
 

@@ -24,7 +24,7 @@
 
 ## build 
 
-![](2026-10-14-02-29-03.png)
+![](2026-10-14-02-29-03.webp)
 
 D882 2SD8823A/40V NPN TO-252 Audiopower transistor
 

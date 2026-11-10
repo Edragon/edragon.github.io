@@ -11,7 +11,7 @@ https://www.ti.com/lit/ds/symlink/max202.pdf?ts=1789281501822&ref_url=https%253A
 
 ## SCH 
 
-![](2026-09-13-14-40-57.png)
+![](2026-09-13-14-40-57.webp)
 
 
 ## ref 

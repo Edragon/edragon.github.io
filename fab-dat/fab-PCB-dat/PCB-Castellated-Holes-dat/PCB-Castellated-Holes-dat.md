@@ -67,7 +67,7 @@ If a normal process is used instead of a real castellated-hole process, the foll
 
 > If the annular ring or pad spacing is smaller than the recommended value, engineering optimization may be required. If your design has special spacing requirements, please confirm them before production.
 
-![](2026-04-18-15-05-00.png)
+![](2026-04-18-15-05-00.webp)
 
 Round or oval castellated holes can be manufactured, and the pad shape may be round or square. For better manufacturability, place the pad as much as possible toward the inner side of the board frame area.
 
@@ -90,9 +90,9 @@ Do not use V-cut on the castellated-hole edge. V-cut may pull copper from the ho
 
 ### Stamp-Hole Panelization
 
-![](2026-04-18-15-07-40.png)
+![](2026-04-18-15-07-40.webp)
 
 ### Full Castellated-Hole Panelization
 
-![](2026-04-18-15-11-00.png)
+![](2026-04-18-15-11-00.webp)
 

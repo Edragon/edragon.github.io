@@ -284,7 +284,7 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 - [[IR-cut-dat]]
 
-![](2026-10-01-16-50-09.png)
+![](2026-10-01-16-50-09.webp)
 
 
 

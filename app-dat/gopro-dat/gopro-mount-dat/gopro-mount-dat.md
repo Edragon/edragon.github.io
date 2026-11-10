@@ -11,9 +11,9 @@
 
 larger mount for helmet 
 
-![](2026-08-14-20-47-44.png)
+![](2026-08-14-20-47-44.webp)
 
-![](2026-08-14-20-49-05.png)
+![](2026-08-14-20-49-05.webp)
 
 
 common mount 
@@ -26,11 +26,11 @@ size == 4.5 x 3.5 CM
 
 [[tape-dat]] + base + quick amount + [[screw-dat]]
 
-![](2026-06-07-16-36-26.png)
+![](2026-06-07-16-36-26.webp)
 
 integrated large mount 
 
-![](2026-06-07-16-35-40.png)
+![](2026-06-07-16-35-40.webp)
 
 
 ## three-teeth / two-teeth / four-teeth 
@@ -40,7 +40,7 @@ integrated large mount
 ## base that has a Nut placeholder 
 
 
-![](2026-07-04-22-38-01.png)
+![](2026-07-04-22-38-01.webp)
 
 
 
@@ -51,7 +51,7 @@ integrated large mount
 
 ## extension bar 
 
-![](2026-07-21-20-23-19.png)
+![](2026-07-21-20-23-19.webp)
 
 ![](2026-07-21-20-23-35.webp)
 

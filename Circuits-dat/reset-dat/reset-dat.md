@@ -17,7 +17,7 @@
 
 ## transitor control 
 
-![](2024-07-05-19-02-53.png)
+![](2024-07-05-19-02-53.webp)
 
 ## button control 
 

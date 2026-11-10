@@ -24,7 +24,7 @@
 
 - [[SW6206-dat]] - [[ismartware-dat]] - [[power-adapter-dat]] - [[PCB-form-dat]] - [[LED-indicator-dat]] - [[LED-dat]] - [[led-indicator-dat]]
 
-![](2026-06-19-15-14-26.png)
+![](2026-06-19-15-14-26.webp)
 
 ![](2026-06-19-15-15-52.webp)
 
@@ -36,16 +36,16 @@ U7 8VH0B2 8VHOB2 == unknown
 - [[8205-dat]] - [[XB7608-dat]] - [[PCB-form-dat]] - [[mosfet-dat]] == 
 20P30 
 
-![](2026-06-19-15-29-04.png)
+![](2026-06-19-15-29-04.webp)
 
 ### slot board 6 
 
 
 - [[jieli-dat]]
 
-![](2026-06-17-13-11-38.png)
+![](2026-06-17-13-11-38.webp)
 
-![](2026-06-17-13-12-02.png)
+![](2026-06-17-13-12-02.webp)
 
 - [[MIX2018A-dat]] - [[TP4054-dat]]
 
@@ -53,11 +53,11 @@ U7 8VH0B2 8VHOB2 == unknown
 
 ### wired board 1
 
-![](2026-06-02-21-19-05.png)
+![](2026-06-02-21-19-05.webp)
 
 ### compact socket 
 
-![](2026-06-02-20-57-02.png)
+![](2026-06-02-20-57-02.webp)
 
 ### slot board 5 == -/+ two pins / front and back side 
 
@@ -71,7 +71,7 @@ V+正极接电源V-负极接电源，F+和F-接散风扇，LH-和+接灯
 
 similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]] - [[PC814-dat]]
 
-![](2026-07-31-19-13-25.png)
+![](2026-07-31-19-13-25.webp)
 
 - [[led-driver-dat]] - [[LED-dat]]
 
@@ -90,7 +90,7 @@ similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]
 
 这种电烙铁头的电阻值视电池电压和功率而定，一般在零点几欧姆到3欧姆，2.5欧姆正常。
 
-![](2026-06-02-19-46-49.png)
+![](2026-06-02-19-46-49.webp)
 
 ![](2026-06-02-19-47-26.webp)
 
@@ -101,15 +101,15 @@ similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]
 
 ![](2026-06-02-19-11-04.webp)
 
-![](2026-06-02-19-11-17.png)
+![](2026-06-02-19-11-17.webp)
 
-![](2026-06-02-19-11-45.png)
+![](2026-06-02-19-11-45.webp)
 
 - SW-18010P - [[sensor-tilt-switch-dat]] - [[sensor-dat]]
 
 - [[mosfet-dat]]
 
-![](2026-06-02-19-17-57.png)
+![](2026-06-02-19-17-57.webp)
 
 ### PCB slot plug board 
 
@@ -125,7 +125,7 @@ similar - unknown SOT23-6 chip - [[led-driver-dat]] - [[LED-dat]] - [[PC817-dat]
 
 ### chained board 
 
-![](2025-10-02-05-43-09.png)
+![](2025-10-02-05-43-09.webp)
 
 
 ## ref 

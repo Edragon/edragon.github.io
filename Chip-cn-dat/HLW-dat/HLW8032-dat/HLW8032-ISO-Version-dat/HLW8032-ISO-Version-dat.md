@@ -5,7 +5,7 @@ based on [[current-transformer]] and [[ac-voltage-transformer-dat]]
 
 - [[SVC1035-dat]] - [[SVC1038-dat]] - [[HLW8032-dat]]
 
-![](2025-05-21-16-28-33.png)
+![](2025-05-21-16-28-33.webp)
 
 Due to the adoption of a current transformer solution, the formulas in the HLW8032 datasheet cannot be used directly for calculating power, voltage, and current. However, because the power, voltage, and current of the HLW8032's input load are linearly proportional, a method of introducing scaling factors can be used. The calculation formulas are as follows:
 

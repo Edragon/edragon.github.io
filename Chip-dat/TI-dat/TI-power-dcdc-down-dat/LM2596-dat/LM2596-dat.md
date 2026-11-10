@@ -35,7 +35,7 @@ https://www.ti.com/lit/ds/symlink/lm2596.pdf?ts=1696891822162
 
 SCH 1 for == [[VIN-dat]]
 
-![](2025-06-30-14-53-51.png)
+![](2025-06-30-14-53-51.webp)
 
 SCH 2 
 

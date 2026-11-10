@@ -5,7 +5,7 @@
 
 middle display screen rack 
 
-![](2025-11-12-18-40-53.png)
+![](2025-11-12-18-40-53.webp)
 
 
 ## phone fix screwdriver set
@@ -36,17 +36,17 @@ lifted the battery up
 
 ## inside first layer 
 
-![](2025-11-12-18-43-41.png)
+![](2025-11-12-18-43-41.webp)
 
 
 ## detailed look 
 
-![](2025-11-12-18-43-58.png)
+![](2025-11-12-18-43-58.webp)
 
 
 ## frame rack and glue or seals 
 
-![](2025-11-12-18-44-58.png)
+![](2025-11-12-18-44-58.webp)
 
 ![](2025-11-12-18-45-13.webp)
 

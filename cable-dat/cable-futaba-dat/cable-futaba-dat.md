@@ -1,6 +1,6 @@
 # cable-futaba-dat
 
-![](2025-12-16-18-46-17.png)
+![](2025-12-16-18-46-17.webp)
 
 
 **Cable Core Types:**

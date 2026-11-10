@@ -9,7 +9,7 @@ A call to analogWrite() is on a scale of 0 - 255, such that analogWrite(255) req
 
 and analogWrite(127) is a 50% duty cycle (on half the time) for example.
 
-![](2024-10-13-16-54-25.png)
+![](2024-10-13-16-54-25.webp)
 
 - ref - https://docs.arduino.cc/learn/microcontrollers/analog-output/
 

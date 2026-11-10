@@ -261,7 +261,7 @@ Since manufacturers use different colors, use a Multimeter in "Continuity Mode":
 
 ### gadget 1 ? 
 
-![](2026-06-15-19-28-04.png)
+![](2026-06-15-19-28-04.webp)
 
 ## ref 
 

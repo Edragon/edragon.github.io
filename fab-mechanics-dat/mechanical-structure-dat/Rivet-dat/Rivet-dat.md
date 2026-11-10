@@ -146,7 +146,7 @@ Do not fully squeeze the rivet tail. Leave a small clearance so the two plates a
 
 **Cons:**
 - Gap is hard to control precisely.
-![Rivet-Tubular-dat/2025-12-05-13-12-58.png](Rivet-Tubular-dat/2025-12-05-13-12-58.png)
+![Rivet-Tubular-dat/2025-12-05-13-12-58.png](Rivet-Tubular-dat/2025-12-05-13-12-58.webp)
 - Rotation may not be very smooth.
 
 ---

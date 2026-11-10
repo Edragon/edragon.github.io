@@ -298,7 +298,7 @@ Ranked by cost-effectiveness:
 
 ## Analog FPV Transmission System
 
-![](2025-04-11-14-42-43.png)
+![](2025-04-11-14-42-43.webp)
 
 
 

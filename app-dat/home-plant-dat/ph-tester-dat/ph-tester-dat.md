@@ -20,7 +20,7 @@
 
 the control board 
 
-![](2026-01-25-18-26-02.png)
+![](2026-01-25-18-26-02.webp)
 
 ![](2026-01-25-18-46-06.webp)
 
@@ -28,7 +28,7 @@ the control board
 
 the sense board 
 
-![](2026-01-25-18-45-50.png)
+![](2026-01-25-18-45-50.webp)
 
 [[op-amp-dat]] for [[ph-tester-dat]] 
 

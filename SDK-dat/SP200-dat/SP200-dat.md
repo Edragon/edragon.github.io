@@ -13,7 +13,7 @@ legacy wiki page == https://www.electrodragon.com/w/SP200S%2B_USB_ISP_Programmer
 
 ![](2026-05-27-12-59-22.webp)
 
-![](2026-05-27-12-59-33.png)
+![](2026-05-27-12-59-33.webp)
 
 
 software - [[WLPRO_V220.zip]] password electrodragon.com
@@ -101,7 +101,7 @@ The SP200SE programmer is suitable for MCU enthusiasts and developers for learni
 
 **Photo of the SP200SE Enhanced Version:**
 
-![](2026-05-27-13-00-44.png)
+![](2026-05-27-13-00-44.webp)
 
 #### Software Features
 - Friendly interface with a professional, full-featured design.
@@ -147,7 +147,7 @@ After restarting (no need to unplug the programmer), run the SP200SE software. I
 
 The programmer features a single 40-pin zero-insertion-force (ZIF) socket. It correctly accommodates 8-pin, 20-pin, and 40-pin chips.
 
-![](2026-05-27-13-02-07.png)
+![](2026-05-27-13-02-07.webp)
 
 *Note: The arrow indicates Pin 1. There is also a triangle mark on the PCB for reference.*
 
@@ -167,11 +167,11 @@ Operation is similar to the AT89S52. If using "Auto" mode, uncheck the "Blank Ch
 **2. Using the ISP Interface (for AVR Chips)**
 The SP200SE features an industry-standard 10-pin ISP interface compatible with Atmel's definition.
 
-![](2026-05-27-13-02-30.png)
+![](2026-05-27-13-02-30.webp)
 
 Reserve a 2x5 (10-pin) header on your target board. Connect the corresponding pins (MOSI, SCK, RESET, MISO, VCC, GND). Programming via ISP is identical to using the socket, but you must select device models with the **"@ISP"** suffix. Ensure the target board is powered and functional.
 
-![](2026-05-27-13-03-09.png)
+![](2026-05-27-13-03-09.webp)
 
 **Reference: AT89S52 Pin Definition for ISP**
 - MOSI: P1.5 (Pin 6)
@@ -191,7 +191,7 @@ The SP200SE includes a USB-to-TTL interface (CH340). The interface provides VCC,
 - When prompted to power on, perform a "Cold Start" by disconnecting and reconnecting the VCC wire.
 - If it fails to respond, try swapping the TXD and RXD wires.
 
-![](2026-05-27-13-03-50.png)
+![](2026-05-27-13-03-50.webp)
 
 **4. Using USB-BSL & TTL for MSP430**
 The programmer supports BSL mode for MSP430 microcontrollers using the `MspFet` software. Connect VCC, RST, TCK, TXD, RXD, and GND pins.
@@ -215,7 +215,7 @@ The programmer supports BSL mode for MSP430 microcontrollers using the `MspFet` 
 **3. Programming SST89E516RD for Emulators?**
 SST89E516RD is the replacement for SST89E564RD. Use the SST89E564 monitoring program. When loading the file, change the buffer start address to `10000`.
 
-![](2026-05-27-13-04-31.png)
+![](2026-05-27-13-04-31.webp)
 
 
 ### Supported Devices

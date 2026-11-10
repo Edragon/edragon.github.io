@@ -140,7 +140,7 @@ Tilt sensors are often used for horizontal measurement in systems. Based on thei
 
 ![](2026-06-02-20-04-15.webp)
 
-![](2026-06-02-20-04-26.png)
+![](2026-06-02-20-04-26.webp)
 
 ![](2026-06-02-20-04-57.webp)
 
@@ -149,7 +149,7 @@ Tilt sensors are often used for horizontal measurement in systems. Based on thei
 
 ICM42688/BMI323/ICM45686
 
-![](2026-07-23-17-36-50.png)
+![](2026-07-23-17-36-50.webp)
 
 - [[ICM42688-dat]]
 

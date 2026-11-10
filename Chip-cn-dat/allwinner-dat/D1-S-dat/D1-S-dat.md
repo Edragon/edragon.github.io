@@ -57,7 +57,7 @@ Note: On the D1s, since the TF card and CKlink pins are multiplexed, you need to
 
 misc 
 
-![](2025-08-07-12-39-31.png)
+![](2025-08-07-12-39-31.webp)
 
 
 ## SD Card 

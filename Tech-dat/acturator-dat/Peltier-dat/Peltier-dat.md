@@ -55,7 +55,7 @@ The side with words are the cooling side, and other side is the warm side.
 - code side normally on works side
 - Heat dissipation should always be implemented when using with large current flow
   
-![](2023-11-06-13-03-48.png)
+![](2023-11-06-13-03-48.webp)
 
 ## Ref 
 

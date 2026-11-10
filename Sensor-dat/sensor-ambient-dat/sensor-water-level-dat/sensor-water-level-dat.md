@@ -13,7 +13,7 @@ design a simple water level sensor, positive on the front and negative on the ba
 
 ## capacitance water level sensor design 
 
-![](2025-12-05-03-01-59.png)
+![](2025-12-05-03-01-59.webp)
 
 
 

@@ -12,7 +12,7 @@ Linear Voltage Regulators 3-Term Pos Vreg 5.0Vo 25Vin 1.5A
 https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJM7800_E.pdf
 
 
-![](2026-09-22-15-24-45.png)
+![](2026-09-22-15-24-45.webp)
 
 
 

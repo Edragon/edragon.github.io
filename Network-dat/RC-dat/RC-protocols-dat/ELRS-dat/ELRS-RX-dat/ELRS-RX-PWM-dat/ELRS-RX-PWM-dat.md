@@ -111,7 +111,7 @@ Failsafe
 
 ## set to CRSF 
 
-![](2026-11-01-01-17-47.png)
+![](2026-11-01-01-17-47.webp)
 
 default configuration of PWM 
 
@@ -124,7 +124,7 @@ default configuration of CRSF
 
 runtime option 
 
-![](2026-09-06-17-20-28.png)
+![](2026-09-06-17-20-28.webp)
 
 ## custom PWM setup 
 

@@ -164,7 +164,7 @@ This prevents undefined symbol errors during linking at `-O0` and `-O1` optimiza
 
 
 ![](2025-07-09-01-37-40.webp)
-![](2025-07-09-01-38-13.png)
+![](2025-07-09-01-38-13.webp)
 ![](2025-07-09-01-38-22.webp)
 
 

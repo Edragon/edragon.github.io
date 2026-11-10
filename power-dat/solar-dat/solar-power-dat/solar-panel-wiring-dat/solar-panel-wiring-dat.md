@@ -5,7 +5,7 @@
 
 ## basic diode bypass protection 
 
-![](2026-05-21-19-51-41.png)
+![](2026-05-21-19-51-41.webp)
 
 
 you will need following accessories to connect the solar panel to your controller or battery:

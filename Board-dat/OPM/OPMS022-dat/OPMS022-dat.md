@@ -22,7 +22,7 @@ Input voltage of 54V current 13.5A, output 58V current 12A use 5Ω1Kw resistor a
 
 ![](2025-02-06-16-20-24.webp)
 
-![](2025-02-06-16-20-32.png)
+![](2025-02-06-16-20-32.webp)
 
 
 ## demo video 

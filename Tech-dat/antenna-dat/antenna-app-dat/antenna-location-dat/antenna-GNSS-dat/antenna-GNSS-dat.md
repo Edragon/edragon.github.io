@@ -14,7 +14,7 @@ GNSS antenna are commonly using [[antenna-active-dat]]
 
 GNSS antenna of [[A7670-dat]]
 
-![](2025-05-20-18-26-38.png)
+![](2025-05-20-18-26-38.webp)
 
 
 

@@ -28,13 +28,13 @@
 
 build 3 - controllerable circuit unknown chip 
 
-![](2026-08-11-15-45-08.png)
+![](2026-08-11-15-45-08.webp)
 
 build 2 
 
 - [[vibrator-dat]] - [[button-dat]] - [[battery-coin-dat]] - [[LR44-dat]]
 
-![](2026-08-11-15-43-12.png)
+![](2026-08-11-15-43-12.webp)
 
 ![](2026-08-11-15-43-33.webp)
 
@@ -51,7 +51,7 @@ un-smart vibrator
 
 ## build SCH 
 
-![](2026-07-31-19-59-24.png)
+![](2026-07-31-19-59-24.webp)
 
 
 ## apps 

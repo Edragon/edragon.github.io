@@ -22,7 +22,7 @@ The memory of STM32F411 is twice as large, so you don’t need an external flash
 Open the USB flash drive, edit the main.py file, click Save, and reset the MCU to execute the program.
 
 
-![](2024-10-08-17-35-01.png)
+![](2024-10-08-17-35-01.webp)
 
 ![](2024-10-08-17-35-13.webp)
 

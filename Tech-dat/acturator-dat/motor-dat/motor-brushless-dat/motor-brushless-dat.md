@@ -316,11 +316,11 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 
 single direction control mechanism 
 
-![](2026-03-02-21-00-49.png)
+![](2026-03-02-21-00-49.webp)
 
 ## brushless motor with hall sensor for mobility 
 
-![](2026-03-02-20-55-47.png)
+![](2026-03-02-20-55-47.webp)
 
 - A 款电机引线长 ：大约 800 MM
 - A 款电机重量 :2.573 KG

@@ -2,13 +2,13 @@
 # ESP-C3-12F-DAT
 
 
-![](42-54-17-15-12-2022.png)
+![](42-54-17-15-12-2022.webp)
 
 ![](2023-11-28-15-28-19.png)
 
 ## Setup Peripheral 
 
-![](2023-11-28-15-28-49.png)
+![](2023-11-28-15-28-49.webp)
 
 
 ## Re-map Pin Definitions 
@@ -29,7 +29,7 @@
 
 ## Boot Mode
 
-![](2023-11-28-15-31-59.png)
+![](2023-11-28-15-31-59.webp)
 
 * IO8 should float, otherwise USB Bootmode only 
 

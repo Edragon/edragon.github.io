@@ -17,7 +17,7 @@ The ADF4156 is a 6.2 GHz fractional-N frequency synthesizer that implements loca
 
 It consists of a low noise digital phase frequency detector (PFD), a precision charge pump, and a programmable reference divider. There is a Σ-Δ based fractional interpolator to allow programmable fractional-N division. The INT, FRAC, and MOD registers define an overall N divider (N = (INT + (FRAC/MOD))). The RF output phase is programmable for applications that require a particular phase relationship between the output and the reference. The ADF4156 also features cycle slip reduction circuitry, leading to faster lock times without the need for modifications to the loop filter.
 
-![](2026-09-22-15-19-39.png)
+![](2026-09-22-15-19-39.webp)
 
 ## AD9858
 

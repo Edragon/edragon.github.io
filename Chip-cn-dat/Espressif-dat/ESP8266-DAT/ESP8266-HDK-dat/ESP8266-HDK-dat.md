@@ -51,7 +51,7 @@ Hardware SPI Pins (Default)
 
 - reference from chip datasheet section "Pin Definitions" Note part
 
-![](15-46-00-28-03-2023.png)
+![](15-46-00-28-03-2023.webp)
 
 module bootstrap 
 
@@ -150,13 +150,13 @@ If you are already using GPIO 4 and 5 for something else (like I2C communication
 
 auto serial SCH 
 
-![](2026-06-11-17-47-57.png)
+![](2026-06-11-17-47-57.webp)
 
 
 
 ## key setup 
 
-![](2026-06-11-17-49-45.png)
+![](2026-06-11-17-49-45.webp)
 
 
 ## ADC setup 

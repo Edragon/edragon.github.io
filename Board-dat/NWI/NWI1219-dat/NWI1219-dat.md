@@ -10,7 +10,7 @@ This product is a network-standard embedded module based on a universal serial i
 With the WYA-7688A module, traditional serial devices can transmit their data over the Internet without any configuration changes, providing users with a complete and fast solution for network data transmission of serial devices.
 
 
-![](2025-08-06-17-55-31.png)
+![](2025-08-06-17-55-31.webp)
 
 ## Function map 
 
@@ -116,7 +116,7 @@ With the WYA-7688A module, traditional serial devices can transmit their data ov
 - 47 USB_DM
 - 48 UART_RXD2 MDI_TN_P2 GPIO#21 PWM_CH3
 
-![](2025-08-06-17-59-02.png)
+![](2025-08-06-17-59-02.webp)
 
 
 

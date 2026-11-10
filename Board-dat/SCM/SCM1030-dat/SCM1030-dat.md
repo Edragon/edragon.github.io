@@ -7,7 +7,7 @@
 
 ESP32-CAM WiFi + Bluetooth Camera Module Development Board ESP32 With Camera Module [[OV2640-dat]]
  
- ![](2023-12-04-18-15-59.png)
+ ![](2023-12-04-18-15-59.webp)
 
 
 ### Features:
@@ -118,7 +118,7 @@ microSD
 
 ### Pin Definitions 
 
-![](2024-12-28-17-36-00.png)
+![](2024-12-28-17-36-00.webp)
 
 
 - [[SD-dat]] - [[OV2640-dat]] - onboard [[PSRAM-dat]] from [[memory-dat]]

@@ -10,7 +10,7 @@ Append the following lines to the end of the file,enable the audio module.Draw a
 
     dtoverlay=allo-boss-dac-pcm512x-audio
 
-![](2024-12-20-18-19-02.png)
+![](2024-12-20-18-19-02.webp)
 
 and not yet tested: 
 
@@ -24,7 +24,7 @@ Type in the commands that are shown below. You can see the BossDAC, the 3 is the
     aplay -l
     cat /proc/asound/cards
 
-![](2024-12-20-18-19-39.png)
+![](2024-12-20-18-19-39.webp)
 
 
 

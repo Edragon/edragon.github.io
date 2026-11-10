@@ -35,7 +35,7 @@ An oscilloscope (informally called an `O-scope` or scope) is an electronic test 
 
 ## S2026-02-12-15-13-29.png
 
-![](2026-02-12-15-13-29.png)
+![](2026-02-12-15-13-29.webp)
 
 - [[STC-dat]]
 

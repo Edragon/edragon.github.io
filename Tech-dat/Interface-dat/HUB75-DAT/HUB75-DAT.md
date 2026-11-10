@@ -15,14 +15,14 @@
 
 ## Real input connector 
 
-![](2024-01-14-16-31-06.png)
+![](2024-01-14-16-31-06.webp)
 
 ![](2026-03-20-19-32-41.webp)
 
 
 ## Input 
 
-![](2024-09-09-15-33-36.png)
+![](2024-09-09-15-33-36.webp)
 
 
 ## template 
@@ -71,7 +71,7 @@ you can ingnore the cables, and just focuse on the pin to pin, it wont match
 
 correct connection pin to pin
 
-![](2025-12-20-18-39-02.png)
+![](2025-12-20-18-39-02.webp)
 
 
 
@@ -86,7 +86,7 @@ correct connection pin to pin
 
 flipped cable 1 == horizontally flipped pin
 
-![](2025-12-20-18-56-26.png)
+![](2025-12-20-18-56-26.webp)
 
 flipped connector 1 == horizontally flipped pin
 
@@ -98,7 +98,7 @@ flipped connector 2 == horizontally flipped pin
 
 flipped cable + flipped connector == horizontally + vertically flipped pin ??
 
-![](2025-12-20-19-01-47.png)
+![](2025-12-20-19-01-47.webp)
 
 
 
@@ -106,7 +106,7 @@ flipped cable + flipped connector == horizontally + vertically flipped pin ??
 
 on the data cable, connect to the pin as below 
 
-![](2025-12-16-18-31-15.png)
+![](2025-12-16-18-31-15.webp)
 
 
 The follwoing content show the two methods of the cable installation, either normal or flipped, neither them can match above setup 
@@ -118,7 +118,7 @@ The follwoing content show the two methods of the cable installation, either nor
 
 3. flipped connector + flipped    cable install 
 
-![](2025-12-16-18-37-16.png)
+![](2025-12-16-18-37-16.webp)
 
 
 

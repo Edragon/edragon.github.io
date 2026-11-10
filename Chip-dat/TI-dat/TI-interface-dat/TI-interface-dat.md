@@ -45,7 +45,7 @@ This family of four LVDS data line receivers offers the widest common-mode input
 
 AM26LV31E - AM26LV32E
 
-![](2026-11-06-02-49-21.png)
+![](2026-11-06-02-49-21.webp)
 
 `AM26LV32EIDR` - Low-Voltage High-Speed Quadruple Differential Line Receiver With +/-15-kV IEC ESD | D | 16 | -40 to 85
 

@@ -19,7 +19,7 @@ product url
 - red and black lines to power pins VCC and GND
 - grey pins can leave it to float
 
-![](16-53-16-06-03-2023.png)
+![](16-53-16-06-03-2023.webp)
 
 
 ## Setup the mode

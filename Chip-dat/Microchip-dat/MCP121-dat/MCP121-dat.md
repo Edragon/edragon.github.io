@@ -10,7 +10,7 @@
 
 MCP102/MCP103/MCP121/MCP131 - Micropower Voltage Supervisors
 
-![](2026-10-14-15-30-53.png)
+![](2026-10-14-15-30-53.webp)
 
 
 

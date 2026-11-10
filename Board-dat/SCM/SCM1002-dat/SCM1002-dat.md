@@ -35,10 +35,10 @@ don't forget to cover each wire with protective sleeves
 ![](2025-03-28-13-36-10.webp)
 
 working status 1 
-![](2025-03-28-13-36-19.png)
+![](2025-03-28-13-36-19.webp)
 
 working status 2 
-![](2025-03-28-13-36-31.png)
+![](2025-03-28-13-36-31.webp)
 
 Better cover with another sleeve for all wires finally
 

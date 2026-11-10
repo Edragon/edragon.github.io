@@ -7,7 +7,7 @@
 
 ### ESP32 build version 
 
-![](2026-08-23-17-17-36.png)
+![](2026-08-23-17-17-36.webp)
 
 GPIO 26 (pulsePin)	200Ω resistor → coil + diode anode	Drives the coil pulse
 GPIO 33 (capPin)	Diode cathode + 0.1nF capacitor	Reads decay voltage (ADC)
@@ -36,7 +36,7 @@ The Cathode of the diode is connected to GPIO 33 and 0.1 nF ceramic capacitors, 
 
 ### toy basic version 
 
-![](2025-11-14-18-55-52.png)
+![](2025-11-14-18-55-52.webp)
 
 
 ![](2025-11-14-18-57-31.webp)

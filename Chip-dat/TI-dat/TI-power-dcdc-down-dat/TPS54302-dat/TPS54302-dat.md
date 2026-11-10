@@ -33,7 +33,7 @@ For this design example, use KIND = 0.35. The minimum inductor value is calculat
 - Larger value inductors have lower AC current and result in lower output voltage ripple. 
 - Smaller inductor values increase AC current and output voltage ripple.
 
-![](2024-08-05-13-31-08.png)
+![](2024-08-05-13-31-08.webp)
 
 - [[inductor]]
 

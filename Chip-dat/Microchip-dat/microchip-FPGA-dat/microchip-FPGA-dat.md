@@ -19,7 +19,7 @@ M2S005-VFG400I == ARM® Cortex®-M3 System On Chip (SOC) IC SmartFusion®2 FPGA 
 
 ## overview 1 
 
-![](2026-11-03-16-30-07.png)
+![](2026-11-03-16-30-07.webp)
 
 
 ## APA300

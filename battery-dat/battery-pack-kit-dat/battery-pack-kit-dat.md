@@ -39,7 +39,7 @@
 
 ## examples
 
-![](2025-09-11-15-12-09.png)
+![](2025-09-11-15-12-09.webp)
 
 ## Important Notes for Battery Pack Assembly
 
@@ -94,7 +94,7 @@
    If the "430" resistor becomes extremely hot (too hot to touch), check for wiring errors.
 
 
-![](2025-09-11-15-09-51.png)
+![](2025-09-11-15-09-51.webp)
 
 
 ## Purpose of Insulating Paper (Fish Paper) in a Battery Pack:

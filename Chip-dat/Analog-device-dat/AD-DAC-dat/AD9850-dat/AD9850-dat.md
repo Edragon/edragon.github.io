@@ -7,7 +7,7 @@
 
 ## board 
 
-![](2026-07-26-15-23-02.png)
+![](2026-07-26-15-23-02.webp)
 
 `Direct Digital Synthesizer (DDS)` is essentially a frequency divider: it divides the system clock (SYSTEM CLOCK) by programming the frequency control word to generate the desired frequency. DDS has two prominent features — on one hand, DDS operates in the digital domain; once the frequency control word is updated, the output frequency changes accordingly, offering high frequency hopping speed. On the other hand, due to the wide width of the frequency control word (48-bit or higher), the frequency resolution is high. The internal structure of DDS is mainly divided into three parts: phase accumulator, phase-to-amplitude converter, and digital-to-analog converter (DAC).
 

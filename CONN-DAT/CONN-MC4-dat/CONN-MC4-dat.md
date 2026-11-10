@@ -6,7 +6,7 @@
 
 https://en.wikipedia.org/wiki/MC4_connector
 
-![](2025-07-24-15-02-24.png)
+![](2025-07-24-15-02-24.webp)
 
 solar extension cable 
 

@@ -120,7 +120,7 @@ Transistors are mainly divided into two major families based on their underlying
 | 2   | emittor   | gnd      |
 | 3   | collector | output   |
 
-![](2024-10-01-19-17-13.png)
+![](2024-10-01-19-17-13.webp)
 
 
 ![](2024-10-01-19-17-24.webp)

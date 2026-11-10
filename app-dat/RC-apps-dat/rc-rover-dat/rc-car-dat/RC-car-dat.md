@@ -9,7 +9,7 @@ basic [[tech-dat]] - [[robot-dat]]
 
 ## Tracked robot platform 
 
-![](2025-03-25-15-02-19.png)
+![](2025-03-25-15-02-19.webp)
 
 ![](2025-03-25-15-01-11.webp)
 
@@ -20,7 +20,7 @@ basic [[tech-dat]] - [[robot-dat]]
 
 ## tricycle / four-wheels platform
 
-![](2025-03-28-18-44-53.png)
+![](2025-03-28-18-44-53.webp)
 
 tricycle
 

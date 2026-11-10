@@ -84,13 +84,13 @@ https://www.electrodragon.com/product/5pcs-rotary-encoder/
 - [[EC10-dat]] - [[encoder-dat]]
 
 
-![](2026-09-05-18-30-44.png)
+![](2026-09-05-18-30-44.webp)
 
 act as a input 
 
 - [[EC11-dat]] - [[SCU1007-dat]] - [[encoder-dat]]
 
-![](2026-07-17-18-44-40.png)
+![](2026-07-17-18-44-40.webp)
 
 
 ESP32 
@@ -99,7 +99,7 @@ ESP32
 - ROTARY DT - IO18
 - ROTARY CLK - IO5
 
-![](2026-07-31-19-45-08.png)
+![](2026-07-31-19-45-08.webp)
 
 
 ## APP SCH 

@@ -63,12 +63,12 @@ TL-XDR3010 易展版（AX3000 WiFi6）
 
 ## microphone and front leds 
 
-![](2025-12-10-15-22-12.png)
+![](2025-12-10-15-22-12.webp)
 
 
 ## heat 
 
-![](2025-12-12-18-20-52.png)
+![](2025-12-12-18-20-52.webp)
 
 
 - [[Heat-Dissipation-dat]]

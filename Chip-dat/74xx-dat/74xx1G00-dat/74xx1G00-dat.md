@@ -11,7 +11,7 @@ Performs the NAND (NOT AND) logic operation:
 
     Output = NOT (A AND B)
 
-![](2024-11-22-17-26-44.png)
+![](2024-11-22-17-26-44.webp)
 
 The output is LOW only when both inputs are HIGH.
 

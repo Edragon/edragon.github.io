@@ -112,7 +112,7 @@ SCH2
 
 - PA [[amplifier-audio-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]]
 
-![](2025-11-01-19-39-39.png)
+![](2025-11-01-19-39-39.webp)
 
 
 ## code library 

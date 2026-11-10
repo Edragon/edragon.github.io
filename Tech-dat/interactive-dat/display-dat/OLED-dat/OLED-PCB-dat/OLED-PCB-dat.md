@@ -14,13 +14,13 @@
 
 https://www.electrodragon.com/product/0-96-12864-oled-display-iicspi/
 
-![](2025-06-13-13-04-15.png)
+![](2025-06-13-13-04-15.webp)
 
 ![](2025-06-13-13-04-55.webp)
 
 #### specs 
 
-![](2025-06-13-13-04-37.png)
+![](2025-06-13-13-04-37.webp)
 
 #### Pin definitions and Wiring  
 
@@ -30,7 +30,7 @@ https://www.electrodragon.com/product/0-96-12864-oled-display-iicspi/
 
 #### Dimension 
 
-![](2025-06-13-13-06-08.png)
+![](2025-06-13-13-06-08.webp)
 
 
 ### 1.3"
@@ -41,21 +41,21 @@ https://www.electrodragon.com/product/1-3-12864-blue-oled-display-iicspi/
 
 ![](2025-06-13-12-56-54.webp)
 
-![](2025-06-13-13-01-36.png)
+![](2025-06-13-13-01-36.webp)
 
 #### specs 
 
-![](2025-06-13-13-02-02.png)
+![](2025-06-13-13-02-02.webp)
 
 #### Pin definitions and Wiring
 
-![](2025-06-13-13-02-28.png)
+![](2025-06-13-13-02-28.webp)
 
 ![](2025-06-13-13-03-18.png)
 
 #### Dimension 
 
-![](2025-06-13-13-02-46.png)
+![](2025-06-13-13-02-46.webp)
 
 
 ### demo video 

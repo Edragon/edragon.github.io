@@ -93,12 +93,12 @@ Video is to connect to output more pictures; the larger the picture, the greater
     [17:40:34.978] MJPG: 48805B 160ms (6.2fps), AVG: 231ms (4.3fps), 0+0+0+0=0 0
 
 
-![](2024-12-28-16-19-35.png)
+![](2024-12-28-16-19-35.webp)
 
 You can adjust various parameters, such as brightness and white balance.
 esp32-cam can even perform face recognition, which is amazing;
 
-![](2024-12-28-16-20-01.png)
+![](2024-12-28-16-20-01.webp)
 
 
 You can capture pictures or transmit face recognition to the backend server;

@@ -32,7 +32,7 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7123.pdf
 
 - [[video-CRT-dat]] - [[video-dat]]
 
-![](2026-09-25-15-00-33.png)
+![](2026-09-25-15-00-33.webp)
 
 ## ref 
 

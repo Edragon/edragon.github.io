@@ -15,7 +15,7 @@ ESP32-DevKitC
 
 ![](20-34-18-09-08-2023.webp)
 
-![](2026-04-12-17-03-36.png)
+![](2026-04-12-17-03-36.webp)
 
 
 legacy wiki page
@@ -31,7 +31,7 @@ legacy wiki page
 
 ## Schematic 
 
-![](2024-08-05-18-36-06.png)
+![](2024-08-05-18-36-06.webp)
 
 - power supply 
 - microUSB + USB-TTL
@@ -73,7 +73,7 @@ pin == 2x19
 
 ## dimension 
 
-![](2024-01-10-11-17-52.png)
+![](2024-01-10-11-17-52.webp)
 
 ![](2026-04-02-20-41-15.webp)
 
@@ -82,7 +82,7 @@ pin == 2x19
 
 ![](2024-01-10-11-18-30.webp)
 
-![](2024-01-10-11-18-56.png)
+![](2024-01-10-11-18-56.webp)
 
 
 ## version check 
@@ -90,7 +90,7 @@ pin == 2x19
 - Please make sure to use original version, otherwise the pin mapping and quality is not the same 
 - otherwise you may have problem to use it other stackable boards, like [[IDD1016-dat]]
 
-![](2024-10-24-14-49-07.png)
+![](2024-10-24-14-49-07.webp)
 
 
 

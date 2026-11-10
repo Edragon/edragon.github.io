@@ -5,7 +5,7 @@
 - [[terminal-clamping-dat]] - [[PTOS031-DAT]] - [[PTOS032-DAT]] - [[PTOS033-DAT]]
 
 
-![](26-10-16-21-06-2023.png)
+![](26-10-16-21-06-2023.webp)
 
 SN-28B: This section Crimping Pliers can pressure 2.5-4.8 spacing (0.1 - 1.0 mm^2), Inlcuding:
 - 3.2/3.96/4.8 (common-used)

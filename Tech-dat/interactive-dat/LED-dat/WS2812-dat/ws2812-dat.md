@@ -58,10 +58,10 @@ LED has a low voltage driving, high energy saving and environmental protection, 
 
 ## LEDS
 
-![](10PCs-WS2812B-4Pin-SMD5050-RGB-LED-01.png)
+![](10PCs-WS2812B-4Pin-SMD5050-RGB-LED-01.webp)
 
 
-![](2024-01-13-11-33-07.png)
+![](2024-01-13-11-33-07.webp)
 
 ![](2024-01-13-11-33-24.webp)
 
@@ -76,19 +76,19 @@ LED has a low voltage driving, high energy saving and environmental protection, 
 
 build 1 
 
-![](2026-08-01-16-22-16.png)
+![](2026-08-01-16-22-16.webp)
 
 
 ## SCH 
 
 ESP32 
 
-![](2025-07-10-17-29-15.png)
+![](2025-07-10-17-29-15.webp)
 
 
 ## 2020 size WS2812 
 
-![](2025-10-08-14-07-51.png)
+![](2025-10-08-14-07-51.webp)
 
 ![](2025-10-08-14-08-13.webp)
 

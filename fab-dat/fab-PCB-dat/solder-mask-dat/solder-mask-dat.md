@@ -4,7 +4,7 @@
 
 ## Via Covering Types
 
-![](2026-04-18-15-18-24.png)
+![](2026-04-18-15-18-24.webp)
 
 This page summarizes common via covering and plugging types used in PCB manufacturing.
 

@@ -7,7 +7,7 @@ chip info, [datasheet](https://www.ti.com/lit/ds/symlink/l293.pdf), etc.
 
 The L293D is a 16-pin motor driver IC, also known as a quad half-H driver, capable of controlling two DC motors or a single stepper motor, offering bidirectional drive currents of up to 600mA per channel at voltages from 4.5V to 36V. 
 
-![](2025-03-25-15-46-12.png)
+![](2025-03-25-15-46-12.webp)
 
 ## App. 
 
@@ -46,9 +46,9 @@ drive chip == [[74xx-dat]] - [[74HC06-dat]]
 
 ## Simple Schematic 
 
-![](2025-06-15-12-57-58.png)
+![](2025-06-15-12-57-58.webp)
 
-![](2025-12-17-13-41-34.png)
+![](2025-12-17-13-41-34.webp)
 
 RPI drive via [[74xx-dat]] 
 

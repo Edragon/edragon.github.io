@@ -15,11 +15,11 @@ din rail is a standardized metal rail used for mounting electrical and electroni
 - **Custom Options**: Colors and materials can be customized for bulk orders (subject to factory shipment)
 - **Pricing Notes**: Discounts available for large quantities; unit price excludes
 
-![](2025-11-07-15-36-15.png)
+![](2025-11-07-15-36-15.webp)
 
 ![](2025-11-07-15-37-12.png)
 
-![](2025-11-07-15-37-35.png)
+![](2025-11-07-15-37-35.webp)
 
 H 88 - D 59 - W 24 - 2 
 
@@ -34,21 +34,21 @@ H 95 - D 41 - W 25
 
 ![](2025-11-07-15-38-51.webp)
 
-![](2025-11-07-15-39-50.png)
+![](2025-11-07-15-39-50.webp)
 
-![](2025-11-07-15-41-39.png)
+![](2025-11-07-15-41-39.webp)
 
 
 
 H 88 - D 55 - W 44
 
-![](2025-11-07-15-43-49.png)
+![](2025-11-07-15-43-49.webp)
 
-![](2025-11-07-15-44-06.png)
+![](2025-11-07-15-44-06.webp)
 
 82 - 54 - 32 // 82 - 55 - 32
 
-![](2025-11-07-15-45-06.png)
+![](2025-11-07-15-45-06.webp)
 
 82 - 54 - 32 - 2 
 

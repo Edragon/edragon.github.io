@@ -42,7 +42,7 @@ https://www.electrodragon.com/product/sim7020e-4g-nbiot-mini-development-board/
 
 ## Pin definitions 
 
-![](2025-01-18-14-38-04.png)
+![](2025-01-18-14-38-04.webp)
 
 
 ## quick setup guide 

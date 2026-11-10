@@ -18,7 +18,7 @@ The Microchip hub supports lowspeed, full-speed, and hi-speed (if operating as a
 
 SCH 
 
-![](2025-08-07-13-09-21.png)
+![](2025-08-07-13-09-21.webp)
 
 
 

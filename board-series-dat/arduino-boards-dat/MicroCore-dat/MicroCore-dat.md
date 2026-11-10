@@ -79,7 +79,7 @@ C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\
 
     avrdude.exe -v -C "C:\Users\Administrator\AppData\Local\Arduino15\packages\MicroCore\tools\avrdude\8.0-arduino.1\etc\avrdude.conf" -c stk500v1 -P com245 -p t13 -b 19200 -U hfuse:w:0xeb:m
 
-![](2025-07-09-17-31-30.png)
+![](2025-07-09-17-31-30.webp)
 
 
 ## ref 

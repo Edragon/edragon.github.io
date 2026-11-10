@@ -51,7 +51,7 @@ To make a 50g dry build feel closer to stock response on your transmitter sticks
 
 38g without [[camera-FPV-dat]]
 
-![](2026-08-05-20-04-49.png)
+![](2026-08-05-20-04-49.webp)
 
 [[camera-FPV-dat]] == 9g 
 

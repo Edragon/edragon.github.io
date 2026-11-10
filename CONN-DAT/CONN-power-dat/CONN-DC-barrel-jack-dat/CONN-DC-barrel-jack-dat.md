@@ -54,13 +54,13 @@ comprehensive [[laptop-dat]] [[dc-barrel-jack-dat]] kit 34 in 1
 
 ## Power Jack List 
 
-![](2025-11-28-15-38-25.png)
+![](2025-11-28-15-38-25.webp)
 
 ![](2024-11-20-13-37-54.webp)
 
 ![](2024-11-20-13-38-26.webp)
 
-![](2024-11-20-13-38-45.png)
+![](2024-11-20-13-38-45.webp)
 
 | Part Number | Outer | Inner | Specification                       |
 | ----------- | ----- | ----- | ----------------------------------- |
@@ -97,7 +97,7 @@ comprehensive [[laptop-dat]] [[dc-barrel-jack-dat]] kit 34 in 1
 
 Positive negative and extra earth pin in center (white)
 
-![](2025-11-28-15-29-58.png)
+![](2025-11-28-15-29-58.webp)
 
 
 ## 90-degree DC connector 

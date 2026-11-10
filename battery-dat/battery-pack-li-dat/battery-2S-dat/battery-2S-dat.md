@@ -16,13 +16,13 @@
 
 ## Simple 1S to 2S management Solutions 
 
-![](2025-05-12-16-09-09.png)
+![](2025-05-12-16-09-09.webp)
 
 
 
 ## build solution == removable and 1S charge 
 
-![](2026-03-13-17-44-38.png)
+![](2026-03-13-17-44-38.webp)
 
 
 ![](2026-03-13-17-52-40.webp)
@@ -50,7 +50,7 @@ The diagram below shows the module in discharge mode with a 2‑series (2S) batt
 
 Example: a 2000 mAh cell with a 10C rating provides 20 A. For a 2S2P pack (two series, two parallel) the maximum current capability would reach 40 A. For stable high-current discharge we recommend 2S4P (two series, four parallel) and pay attention to heat dissipation — battery voltage and capacity will drop quickly under heavy discharge.
 
-![](2026-02-12-18-00-00.png)
+![](2026-02-12-18-00-00.webp)
 
 
 ## Charge

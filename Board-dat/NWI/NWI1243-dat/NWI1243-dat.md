@@ -10,7 +10,7 @@ all boards info - [[ESP32-S3-board-dat]] - [[ESP32-S3-board-VCC-dat]] - [[ESP32-
 
 ![](2023-11-29-18-54-26.webp)
 
-![](2023-12-01-15-32-49.png)
+![](2023-12-01-15-32-49.webp)
 
 - main module ESP32-S3-WROOM-1-N8R2 = [[ESP32-S3-WROOM-1]]
 

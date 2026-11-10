@@ -19,7 +19,7 @@ The DHT11 sensor outputs data in the following format:
 - **Byte 4:** Temperature decimal part (8 bits)
 - **Byte 5:** Checksum (8 bits)
 
-![](2025-07-30-16-37-09.png)
+![](2025-07-30-16-37-09.webp)
 
 
 由以上数据就可得到湿度和温度的值，计算方法：

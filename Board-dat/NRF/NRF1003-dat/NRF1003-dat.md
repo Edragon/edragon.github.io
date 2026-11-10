@@ -20,7 +20,7 @@ on board chip refer to [[EV1527-dat]]
 
 - [[battery-rechargerable-dat/battery-size-dat/battery-size-dat]] - [[battery-dat]]
 
-![](2026-05-14-18-57-03.png)
+![](2026-05-14-18-57-03.webp)
 
 ![](2026-05-14-18-57-15.webp)
 

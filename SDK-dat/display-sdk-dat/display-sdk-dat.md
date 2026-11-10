@@ -52,7 +52,7 @@ cat /dev/urandom > /dev/fb0
 
 If the screen displays random "snow" (static), it means the display is functioning normally.
 
-![](2025-08-08-15-59-06.png)
+![](2025-08-08-15-59-06.webp)
 
 
 ## code repo 

@@ -83,7 +83,7 @@ General load switching
 
 ## removing tips 
 
-![](2024-01-13-11-00-30.png)
+![](2024-01-13-11-00-30.webp)
 
 - use a small driver to leverage in the between carefully 
 

@@ -37,9 +37,9 @@ BQ51050 supports 4.2V lithium battery up to 1A charge management.
 - the output 5V should be a stable 5V load, otherwise the receiver will turn off into a sleep mode in a few seconds 
 
 
-![](2025-10-10-21-40-53.png)
+![](2025-10-10-21-40-53.webp)
 
-![](2026-09-16-17-36-36.png)
+![](2026-09-16-17-36-36.webp)
 
 
 

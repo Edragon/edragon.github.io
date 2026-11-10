@@ -114,7 +114,7 @@ ESP32 has **520 KB SRAM** split into multiple regions:
 
 ## Module Compare 
 
-![](2024-12-27-18-11-21.png)
+![](2024-12-27-18-11-21.webp)
 
 
 ## Diagram 

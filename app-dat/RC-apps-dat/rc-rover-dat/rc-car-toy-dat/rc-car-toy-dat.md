@@ -17,7 +17,7 @@ Very basic version
 
 including functions == [[ultrasonic-sensor-dat]], [[interactive-dat]] - [[infrared-dat]] - [[line-finder-dat]] - [[MCU-dat]] - [[chassis-dat]] - [[cad-dat]] - [[wheels-dat]] - [[PCB-accesories-dat]]
 
-![](2025-06-15-12-56-47.png)
+![](2025-06-15-12-56-47.webp)
 
 plastic chassis 4WD
 

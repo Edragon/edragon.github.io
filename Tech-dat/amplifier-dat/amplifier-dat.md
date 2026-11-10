@@ -106,12 +106,12 @@ OP07x Precision Operational Amplifiers
 
 LM258, LM358, LM358A, LM358E, LM2904, LM2904A, LM2904E, LM2904V, NCV2904
 
-![](2025-03-14-20-49-15.png)
+![](2025-03-14-20-49-15.webp)
 
 
 ## Noninverting Amplifier
 
-![](2025-03-14-20-36-11.png)
+![](2025-03-14-20-36-11.webp)
 
 
 ## rail to rail 
@@ -137,7 +137,7 @@ Example: 741 op-amp (Needs at least ±12V to operate properly).
 
 ## LM139 
 
-![](2025-03-19-03-25-27.png)
+![](2025-03-19-03-25-27.webp)
 
 
 ## APPs 
@@ -148,7 +148,7 @@ Example: 741 op-amp (Needs at least ±12V to operate properly).
 
 The low pass active filter is shown in Figure 8.The DC gain is defined by -R2/R1.The filter hasa -20dB/decade roll-off after its corner frequency fc=1/(2πR3C1).
 
-![](2025-03-19-16-23-28.png)
+![](2025-03-19-16-23-28.webp)
 
 online simuation - https://www.circuitlab.com/editor/#?id=z84zq5
 

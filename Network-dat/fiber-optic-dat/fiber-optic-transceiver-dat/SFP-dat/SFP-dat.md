@@ -24,7 +24,7 @@ Inside the metal casing of a transceiver, there are several components and sub-a
 
 ![](2025-04-25-03-45-07.webp)
 
-![](2025-04-25-03-45-33.png)
+![](2025-04-25-03-45-33.webp)
 
 ## 🔌 Common SFP Solutions for Optical Fiber
 
@@ -70,7 +70,7 @@ SFP (Small Form-factor Pluggable) modules are compact, hot-swappable transceiver
 
 ### AFBR-709SMZ SFP+ transceiver module.
 
-![](2025-04-22-12-39-52.png)
+![](2025-04-22-12-39-52.webp)
 
 Here's a breakdown of the information on the label:
 
@@ -154,7 +154,7 @@ SFP stands for Small Form-factor Pluggable.
 
 It is a compact, hot-pluggable fiber optic transceiver used for data transmission over fiber optic or copper cables.
 
-![](2025-03-27-17-31-03.png)
+![](2025-03-27-17-31-03.webp)
 
 ![](2025-03-27-17-55-17.webp)
 
@@ -173,7 +173,7 @@ SFP+ 单模: 1310nm到1550nm波长，可传10~80千米。
 
 ### working scenario 
 
-![](2025-03-27-18-03-01.png)
+![](2025-03-27-18-03-01.webp)
 
 
 ## chip solutions 

@@ -41,7 +41,7 @@ good example from [[hawkeye-dat]] with [[antenna-diversity-dat]] - [[FPV-goggles
 
 - version hawkeye goggles V2 
 
-![](2026-11-09-00-22-24.png)
+![](2026-11-09-00-22-24.webp)
 
 ![](2026-11-07-02-59-14.webp)
 
@@ -51,7 +51,7 @@ good example from [[hawkeye-dat]] with [[antenna-diversity-dat]] - [[FPV-goggles
 
 ![](2026-11-07-03-00-29.webp)
 
-![](2026-11-07-03-03-10.png)
+![](2026-11-07-03-03-10.webp)
 
 
 ## HDMI IN 

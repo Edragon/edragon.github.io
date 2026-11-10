@@ -32,7 +32,7 @@
 
 - [[frequency-dat]] - [[frequency-rc-dat]] - [[27mhz-dat]]
 
-![](2025-12-06-14-07-33.png)
+![](2025-12-06-14-07-33.webp)
 
 - [[rc-boat-motion-dat]] - [[gravity-dat]]- [[physics-dat]]
 
@@ -106,7 +106,7 @@ A **wave deflector** is a structure or plate used to **redirect, reduce, or brea
 
 the [[motor-driver-rc-dat]] hack as below: 
 
-![](2026-06-02-16-41-46.png)
+![](2026-06-02-16-41-46.webp)
 
 
 - [[ESP32-C3-supermini-dat]] - [[rc-code-dat]]
@@ -117,9 +117,9 @@ the [[motor-driver-rc-dat]] hack as below:
 
 - [[RF-filter-dat]] - [[BOM-dat]]
 
-![](2026-05-30-15-23-18.png)
+![](2026-05-30-15-23-18.webp)
 
-![](2026-05-30-15-40-41.png)
+![](2026-05-30-15-40-41.webp)
 
 - [[mosfet-dat]] - [[infineon-mosfet-dat]] - [[infineon-dat]] - [[IOR-dat]]
 
@@ -133,7 +133,7 @@ inside
 
 ![](2026-05-28-11-45-47.png)
 
-![](2026-05-28-11-46-06.png)
+![](2026-05-28-11-46-06.webp)
 
 ![](2026-05-28-11-46-36.webp)
 
@@ -147,7 +147,7 @@ plug in frequency
 
 - [[frequency-dat]] - [[27mhz-dat]] - [[frequency-rc-dat]]
 
-![](2026-05-28-11-48-44.png)
+![](2026-05-28-11-48-44.webp)
 
 - [[CONN-power-dat]]
 
@@ -161,7 +161,7 @@ rebuild
 
 ![](2026-05-30-15-32-35.webp)
 
-![](2026-05-30-15-32-48.png)
+![](2026-05-30-15-32-48.webp)
 
 ## propeller setup 
 
@@ -189,7 +189,7 @@ Catamaran: Greatly improves stability.
 Wind power: Fans blow air, generating a recoil force that propels the hull forward.
 
 
-![](2025-12-04-00-28-59.png)
+![](2025-12-04-00-28-59.webp)
 
 ![](2025-12-04-00-30-35.webp)
 
@@ -206,10 +206,10 @@ Wind power: Fans blow air, generating a recoil force that propels the hull forwa
 
 ## propeller version 1 
 
-![](2025-12-06-15-31-53.png)
+![](2025-12-06-15-31-53.webp)
 
 
-![](2025-12-06-15-32-57.png)
+![](2025-12-06-15-32-57.webp)
 
 
 

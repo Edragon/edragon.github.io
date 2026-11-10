@@ -11,7 +11,7 @@
 
 - [[mining-dat]] 
 
-![](2026-09-14-12-46-05.png)
+![](2026-09-14-12-46-05.webp)
 
 Illustration: Richard A. Chance for Bloomberg Businessweek
 

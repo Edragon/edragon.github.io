@@ -14,7 +14,7 @@ Capacitors are not batteries; they can be stored at zero volts, require no maint
 
 - [[capacitor-super-dat]] - [[capacitor-dat]]
 
-![](2025-06-13-13-43-52.png)
+![](2025-06-13-13-43-52.webp)
 
 Specifically for [[battery-dat]]
 

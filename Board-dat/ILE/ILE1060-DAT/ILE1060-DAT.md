@@ -21,9 +21,9 @@
 
 - [[cable-power-dat]] - [[conn-cable-terminal-dat]] - [[CONN-VH3.96-dat]] - [[conn-cable-terminal-crimp-dat]]
 
-![](2026-02-26-17-49-49.png)
+![](2026-02-26-17-49-49.webp)
 
-![](2026-02-26-17-50-05.png)
+![](2026-02-26-17-50-05.webp)
 
 
 

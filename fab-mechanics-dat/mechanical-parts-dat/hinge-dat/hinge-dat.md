@@ -15,7 +15,7 @@
 
 control by - [[servo-dat]]
 
-![](2025-12-05-01-41-41.png)
+![](2025-12-05-01-41-41.webp)
 
 
 ## crank vs hinge 

@@ -7,7 +7,7 @@
 
 ## info 
 
-![](2025-10-25-19-21-55.png)
+![](2025-10-25-19-21-55.webp)
 
 
 
@@ -62,7 +62,7 @@ XBee modules support various communication protocols, including Zigbee, 802.15.4
 ## Xbee Pro S2C
 
 
-![](2025-10-25-19-29-21.png)
+![](2025-10-25-19-29-21.webp)
 
 specs 
 
@@ -72,7 +72,7 @@ specs
 
 ## XBee S6B 
 
-![](2025-10-25-19-27-12.png)
+![](2025-10-25-19-27-12.webp)
 
 ## XBee PRO 900HP (XBeePROS3B) Wireless Module Guide
 

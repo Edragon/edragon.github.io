@@ -43,7 +43,7 @@ wheel without motor
 
 bearing 6302
 
-![](2025-04-03-15-42-28.png)
+![](2025-04-03-15-42-28.webp)
 
 
 
@@ -55,7 +55,7 @@ mostly used for balancer kart, electric go-kart, and electric tri-cycle,
 
 ![](2025-04-03-15-14-31.webp)
 
-![](2025-04-03-15-15-58.png)
+![](2025-04-03-15-15-58.webp)
 
 ![](2025-04-03-15-16-42.webp)
 

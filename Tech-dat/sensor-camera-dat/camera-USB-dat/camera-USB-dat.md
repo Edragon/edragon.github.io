@@ -11,7 +11,7 @@ the usb camera is a camera that can be connected to a computer via USB interface
 
 an image capture of nescafe and PC
 
-![](2025-03-28-16-53-30.png)
+![](2025-03-28-16-53-30.webp)
 
 
 

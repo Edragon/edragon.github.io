@@ -7,7 +7,7 @@
 
 Fully-integrated power bank System-On-Chip with 1.2A charger, 1.0A boost converter
 
-![](2026-09-06-02-49-52.png)
+![](2026-09-06-02-49-52.webp)
 
 
 

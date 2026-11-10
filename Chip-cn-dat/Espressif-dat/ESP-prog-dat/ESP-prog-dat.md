@@ -24,7 +24,7 @@ The ESP USB Bridge is an ESP-IDF project utilizing an ESP32-S2 or an ESP32-S3 ch
 
 - [[ESP-IDF-dat]]
 
-![](2025-08-20-16-23-41.png)
+![](2025-08-20-16-23-41.webp)
 
 The ESP USB Bridge provides a JTAG device. The following command can be used to connect to an ESP32 target MCU.
 

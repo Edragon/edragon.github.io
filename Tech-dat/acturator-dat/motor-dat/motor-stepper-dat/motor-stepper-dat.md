@@ -26,7 +26,7 @@
 
 ## common motors specs NEMA 23 
 
-![](2025-04-29-13-07-08.png)
+![](2025-04-29-13-07-08.webp)
 
 
 ## How to identify the common port of a 4-wire motor: 

@@ -58,7 +58,7 @@ ADCMP600/ADCMP601/ADCMP602 - Rail-to-Rail, Very Fast, 2.5 V to 5.5 V, Single-Sup
 
 `MAX9202` - Low-Cost, 7ns, Low-Power Voltage Comparators
 
-![](2026-01-30-14-17-34.png)
+![](2026-01-30-14-17-34.webp)
 
 
 

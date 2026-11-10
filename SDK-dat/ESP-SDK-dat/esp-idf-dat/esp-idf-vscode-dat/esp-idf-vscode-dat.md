@@ -31,7 +31,7 @@ https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/
 
 Open the ESP-IDF extension in VS Code, click **New Project**, select an ESP-IDF example (such as `sample_project`), and click **Create**.
 
-![](2025-08-09-12-40-34.png)
+![](2025-08-09-12-40-34.webp)
 
 After creating and opening the project, you will see a typical VS Code project structure:
 
@@ -50,7 +50,7 @@ After creating and opening the project, you will see a typical VS Code project s
 - **Online Components**: To add an online component, use `idf.py add-dependency <componentName>`. This generates an `idf_component.yml` file for component management.
 - **CMakeLists.txt**: The build tool CMake reads the top-level `CMakeLists.txt` to determine build rules and which components to include. When you add components or programs in `CMakeLists.txt`, CMake will import and build the required files accordingly.
 
-![](2025-08-09-12-41-19.png)
+![](2025-08-09-12-41-19.webp)
 
 ![](2025-08-09-12-41-29.webp)
 

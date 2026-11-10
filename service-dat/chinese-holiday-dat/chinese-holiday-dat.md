@@ -20,7 +20,7 @@ Chinese Spring Festival holiday will influence at least 4 weeks, 2.5 weeks befor
 | Product Fully Recover | Feb. | 12   |
 
 
-![](2025-01-02-17-38-24.png)
+![](2025-01-02-17-38-24.webp)
 
 
 ## 2025 holiday overview 

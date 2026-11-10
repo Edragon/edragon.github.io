@@ -15,7 +15,7 @@ specs
 
 dimensions 
 
-![](2025-06-20-19-47-48.png)
+![](2025-06-20-19-47-48.webp)
 
 ## Applications, category, tags, etc. 
 

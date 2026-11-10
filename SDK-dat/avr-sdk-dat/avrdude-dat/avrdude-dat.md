@@ -11,7 +11,7 @@ AVR firmware - https://github.com/Edragon/AVR_firmware/tree/master/avrdude
 
 * Program hex file into target IC with [[AVRDUDESS-dat]] or [[AVRDUDE-dat]]
 
-![](2023-12-13-14-39-13.png)
+![](2023-12-13-14-39-13.webp)
 
 
 - in [[arduino-dat]]

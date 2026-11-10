@@ -22,7 +22,7 @@ The AP8012 is available in SOP8 and DIP8 package.
 
 ## SCH 
 
-![](2026-04-11-16-14-42.png)
+![](2026-04-11-16-14-42.webp)
 
 
 ## ref 

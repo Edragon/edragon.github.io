@@ -49,4 +49,4 @@ The MC3361C includes an Oscillator, Mixer, Limiting Amplifier, Quadrature Discri
 
 - [[MA6162-dat]] - [[93C46-B-dat]]
 
-![](2026-05-28-12-08-09.png)
+![](2026-05-28-12-08-09.webp)

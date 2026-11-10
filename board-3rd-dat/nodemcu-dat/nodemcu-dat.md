@@ -4,9 +4,9 @@
 
 ## Board map 
 
-![](2023-10-18-13-09-23.png)
+![](2023-10-18-13-09-23.webp)
 
-![](2023-10-18-13-10-24.png)
+![](2023-10-18-13-10-24.webp)
 
 - [[AMS1117-dat]]
 
@@ -29,7 +29,7 @@ https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/master/NODEMCU_DEVKIT_V1.0.P
 ### pins 
 
 
-![](2026-06-11-17-50-36.png)
+![](2026-06-11-17-50-36.webp)
 
 | custom | func  | left | right | func       | custom       |
 | ------ | ----- | ---- | ----- | ---------- | ------------ |
@@ -121,7 +121,7 @@ https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/master/NODEMCU_DEVKIT_V1.0.P
 
 ESPlorer 
 
-![](2023-10-18-13-21-48.png)
+![](2023-10-18-13-21-48.webp)
 
 
 

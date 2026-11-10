@@ -108,7 +108,7 @@ hall sensor module
 
 - 6 wires 
 
-![](2026-03-02-20-54-07.png)
+![](2026-03-02-20-54-07.webp)
 
 
 ## Applications

@@ -21,7 +21,7 @@ LTH7R - [[fuman-dat]] - [[charger-phone-dat]] - [[LTH7R-dat]]
 
 ## XPD series 
 
-![](2026-09-08-16-05-29.png)
+![](2026-09-08-16-05-29.webp)
 
 - XPD618
 - [[XPD636-dat]] - [[XPD636A.PDF]] - [[fuman-dat]]

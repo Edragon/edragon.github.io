@@ -58,13 +58,13 @@ shared common ground and positive wiring
 
 - [[high-voltage-dat]]
 
-![](2025-10-08-16-59-10.png)
+![](2025-10-08-16-59-10.webp)
 
 
 
 ## simple voltage meter
 
-![](2026-03-05-02-12-04.png)
+![](2026-03-05-02-12-04.webp)
 
 - [[ADC-dat]] read voltage via [[voltage-divider-dat]]
 

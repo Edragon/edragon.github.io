@@ -26,7 +26,7 @@ size definitions
 
 1. invert the color, only left black to use, white to left out, saved as BMP, tools is opensource photodemon  
 
-![](2026-03-12-02-11-13.png)
+![](2026-03-12-02-11-13.webp)
 
 saved file size is 430 x 150 px 
 

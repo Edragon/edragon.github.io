@@ -33,7 +33,7 @@ AY0438 - 32-Segment CMOS LCD Driver
 
 ## UA level power consumption 
 
-![](2024-07-07-12-25-47.png)
+![](2024-07-07-12-25-47.webp)
 
 
 

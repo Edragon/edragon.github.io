@@ -11,7 +11,7 @@ D/V6.0 0Z 21CCW
 
 - [[rc-boat-dat]] - [[motor-380-dat]] - [[motor-brushed-dat]] - [[motor-dat]] - [[TA6586-dat]] - [[MC10_10A-dat]] - [[BTS7960-dat]]
 
-![](2026-06-28-14-52-25.png)
+![](2026-06-28-14-52-25.webp)
 
 
 ### Part 1: The Motor Specs (`RK-380-4043-57`)
@@ -96,7 +96,7 @@ If you are using a microcontroller to drive them, keep the CCW-running motor (or
 
 Series = 19T / 21T / 27T / 35T / 45T / 55T / 60T / 80T
 
-![](2025-05-21-12-51-19.png)
+![](2025-05-21-12-51-19.webp)
 
 ### Summary Table
 

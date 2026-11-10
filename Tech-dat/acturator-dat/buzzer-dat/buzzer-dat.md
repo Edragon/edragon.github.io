@@ -106,7 +106,7 @@ high drive - [[transistor-dat]]
 
 ## build 
 
-![](2026-07-31-20-02-13.png)
+![](2026-07-31-20-02-13.webp)
 
 
 

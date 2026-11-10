@@ -12,7 +12,7 @@
 W = dimension of the block = 27
 Wr = dimesnion of the rail = 12
 
-![](2025-02-19-14-25-59.png)
+![](2025-02-19-14-25-59.webp)
 
 ![](2025-03-11-17-18-47.webp)
 

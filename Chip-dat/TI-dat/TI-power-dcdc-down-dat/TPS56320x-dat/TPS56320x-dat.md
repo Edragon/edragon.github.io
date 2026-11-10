@@ -22,7 +22,7 @@ The TPS563201 and TPS563208 are simple, easy-to-use, 3A synchronous step-down co
 
 ## SCH 
 
-![](2026-09-24-22-12-41.png)
+![](2026-09-24-22-12-41.webp)
 
 ## ref 
 

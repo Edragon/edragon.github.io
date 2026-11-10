@@ -54,7 +54,7 @@ MAXII is the lowest power, lowest cost CPLD ever - quote from altera website
 
 https://www.altera.com/products/cpld/max-series/max-ii/overview.html
 
-![](2024-11-04-17-54-35.png)
+![](2024-11-04-17-54-35.webp)
 
 * EPM3032
 * EPM3064

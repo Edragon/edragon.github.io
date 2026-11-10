@@ -5,7 +5,7 @@
 ## Pin Definitions
 
 
-![](2023-11-24-14-17-46.png)
+![](2023-11-24-14-17-46.webp)
 
 ![](2023-11-24-14-24-13.webp)
 
@@ -34,9 +34,9 @@ obseleted
 
 ## SCH
 
-![](2023-11-24-17-38-40.png)
+![](2023-11-24-17-38-40.webp)
 
-![](2023-11-24-17-39-19.png)
+![](2023-11-24-17-39-19.webp)
 
 
 
@@ -52,7 +52,7 @@ obseleted
 
 * Plugin the USB to Arduino , and then input the IP such as : http://192.168.1.15/. It will show as below informaion.
 
-![](2023-11-24-14-15-27.png)
+![](2023-11-24-14-15-27.webp)
 
 ![](2023-11-24-14-15-52.png)
 

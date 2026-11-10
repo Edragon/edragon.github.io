@@ -26,7 +26,7 @@ This is how it looks like after the fix, note the blue cut:
 
 Also is the current quick-fixed version MPC1119
 
-![](2025-04-29-19-09-41.png)
+![](2025-04-29-19-09-41.webp)
 
 We sincerely apologize for this issue. This will be corrected in the next production batch, which will be released as a new version.
 

@@ -9,7 +9,7 @@
 
 ## feeder version 
 
-![](2026-10-18-01-05-26.png)
+![](2026-10-18-01-05-26.webp)
 
 
 
@@ -27,9 +27,9 @@ overview
 
 screws and bolts
 
-![](2026-08-11-16-03-26.png)
+![](2026-08-11-16-03-26.webp)
 
-![](2026-08-11-16-09-14.png)
+![](2026-08-11-16-09-14.webp)
 
 
 
@@ -47,7 +47,7 @@ electronics
 ![](2026-08-11-16-01-09.webp)
 
 
-![](2026-08-11-15-57-15.png)
+![](2026-08-11-15-57-15.webp)
 
 
 mid 
@@ -56,7 +56,7 @@ top
 
 plastic holder 
 
-![](2026-08-11-15-58-18.png)
+![](2026-08-11-15-58-18.webp)
 
 gear holder 
 
@@ -72,15 +72,15 @@ gears
 
 ![](2026-08-11-16-06-00.webp)
 
-![](2026-08-11-16-06-42.png)
+![](2026-08-11-16-06-42.webp)
 
 [[conn-pin-header-dat]] - [[PCB-form-dat]] - [[PCB-stack-dat]] - [[feeder-electric-auto-dat]]
 
-![](2026-08-11-16-08-05.png)
+![](2026-08-11-16-08-05.webp)
 
 side view 
 
-![](2026-08-11-15-59-34.png)
+![](2026-08-11-15-59-34.webp)
 
 ![](2026-08-11-16-08-31.webp)
 
@@ -118,7 +118,7 @@ details
 
 
 
-![](2026-06-25-13-59-49.png)
+![](2026-06-25-13-59-49.webp)
 
 
 
@@ -164,7 +164,7 @@ details
 
 7-9.
 
-![](2025-04-02-14-09-20.png)
+![](2025-04-02-14-09-20.webp)
 
 10-11. 
 
@@ -176,7 +176,7 @@ details
 
 13. If the tape is broken (too tight) or the film cannot be peeled off, adjust this screw. Turn clockwise to increase the pulling force, and counterclockwise to decrease the pulling force. Rotate one-sixth of a turn each time, and click the forward button to test after rotation.
 
-![](2025-04-02-14-12-57.png)
+![](2025-04-02-14-12-57.webp)
 
 14. Because the plastic tape is too thin, the green pressure plate needs to be stuck on the metal strip and press down on the metal strip to expose the gear to the tape.
 

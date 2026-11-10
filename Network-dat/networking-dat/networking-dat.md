@@ -2,7 +2,7 @@
 
 ## Relay Networking
 
-![](2025-06-26-19-14-24.png)
+![](2025-06-26-19-14-24.webp)
 
 Relay mode refers to a transmission mode in which some LoRa devices in a LoRa network act as relay nodes to forward data streams from stream mode or packet mode. The relay mode device's interface does not output any data, achieving the function of extending the wireless communication distance.
 

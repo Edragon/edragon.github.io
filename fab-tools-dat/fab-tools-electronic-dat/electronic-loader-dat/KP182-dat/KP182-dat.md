@@ -35,7 +35,7 @@ KP182/4 series electronic loads can be widely used in LED lighting, power suppli
 
 ![](2025-05-30-18-21-41.webp)
 
-![](2025-05-30-18-22-09.png)
+![](2025-05-30-18-22-09.webp)
 
 
 

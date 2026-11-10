@@ -21,7 +21,7 @@ The internal compensation architecture simplifies the application circuit design
 
 ## SCH 2 
 
-![](2025-07-16-13-09-50.png)
+![](2025-07-16-13-09-50.webp)
 
 
 ## ref 

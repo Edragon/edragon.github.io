@@ -44,7 +44,7 @@ MC1458 - MC1458, MC1558 - DUAL GENERAL-PURPOSE OPERATIONAL AMPLIFIERS
 
 Invert 
 
-![](2026-07-17-18-26-36.png)
+![](2026-07-17-18-26-36.webp)
 
 ## APP SCH 
 
@@ -52,7 +52,7 @@ Invert
 
 OUTB to ADC0 - [[ADC-dat]]
 
-![](2026-07-17-18-27-57.png)
+![](2026-07-17-18-27-57.webp)
 
 
 

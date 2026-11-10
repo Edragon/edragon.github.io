@@ -13,7 +13,7 @@
 
 Its defining feature is its unique structure: **the outer layer consists of a hollow aluminum-silicon alloy sheath (typically aluminum-based), while the inner core is filled with a powdery, non-corrosive fluoride-based flux (the "flux core")**.
 
-![](2026-06-23-19-04-55.png)
+![](2026-06-23-19-04-55.webp)
 
 ### How It Works
 
@@ -61,7 +61,7 @@ In the welding and brazing industry, a **flux core** refers to the **powdery add
 
 To put it simply: while a traditional welding wire is a solid metal rod, a **flux-cored wire** acts like a "hollow straw." The wall of the straw is made of metal, and the center is packed with a proprietary blend of chemical powders—this is the **flux core**.
 
-![](2026-06-23-19-05-31.png)
+![](2026-06-23-19-05-31.webp)
 
 ---
 

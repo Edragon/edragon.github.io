@@ -10,7 +10,7 @@ SCH
 
 ## CB6965 
 
-![](2026-06-17-14-54-38.png)
+![](2026-06-17-14-54-38.webp)
 
 
 Global TODO: describe all the alt functions too.

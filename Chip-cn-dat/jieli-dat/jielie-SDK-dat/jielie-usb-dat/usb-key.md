@@ -40,7 +40,7 @@ Now you have the PC side also pulling the bus down with its 15 kOhm pulldowns, m
 So in order to guarantee correct sensing of the acknowledge, you need to attach an external strong pullup that could outperform the worst-case scenario above. Resistors below 4.7 kOhm are suggested.
 
 Here is a comparsion of three random resistors I decided to test for now:
-![Waveform of a clock signal followed by an acknowledge sense, the voltage drop depends on a pullup resitor used](usb_key_pullup.png)
+![Waveform of a clock signal followed by an acknowledge sense, the voltage drop depends on a pullup resitor used](usb_key_pullup.webp)
 
 ## USB bus considerations
 

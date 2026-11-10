@@ -21,7 +21,7 @@ Features:
 - Supports solar panel maximum power point tracking, can be powered by solar panels
 - Switching frequency: 330kHz
 
-![](2025-08-27-17-23-04.png)
+![](2025-08-27-17-23-04.webp)
 
 - [[resistor-feedback-dat]]
 

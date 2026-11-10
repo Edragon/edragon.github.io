@@ -34,7 +34,7 @@
 
 ### 16.8V, 14A Boost Converter
 
-![](2026-06-15-14-13-30.png)
+![](2026-06-15-14-13-30.webp)
 
 
 TheHT7181is ahigh-powerdensity,asynchronousboost converter with a 20mQ power switch to provide a high efficiencyandsmallsizesolutioninportablesystems.The HT7181 has wide input voltage range from 2.7 V to 16 V to support applications with single cell, two cell Lithium batteries and 12V lead-acid batteries. The device has 14A switchcurrentcapabilityandcanprovideanoutputvoltage up to 16.8V.

@@ -46,7 +46,7 @@ VDS =60V,ID =3A
 
 ## build 
 
-![](2026-09-22-20-53-11.png)
+![](2026-09-22-20-53-11.webp)
 
 - [[natlinear-dat]] - [[NCEpower-mosfet-dat]] - [[NP4P06-dat]] - [[NCE6003-dat]] 
 

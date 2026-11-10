@@ -38,7 +38,7 @@ Stage 2 - Settings
 
 Stage 2 - Failsafe Procedure
 
-![](2026-09-19-14-34-06.png)
+![](2026-09-19-14-34-06.webp)
 
 
 

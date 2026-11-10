@@ -175,7 +175,7 @@ Peripheral schamtic please refer to [[NWI1124-DAT]]
 
 Default firmware, right bottom LED blink, drive common 4ch RGBW LED strip to blink
 
-![](2024-04-03-15-29-43.png)
+![](2024-04-03-15-29-43.webp)
 
 - [[tasmota-dat]] use guide please see here.
 

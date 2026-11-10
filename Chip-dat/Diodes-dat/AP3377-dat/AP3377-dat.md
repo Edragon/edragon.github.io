@@ -17,7 +17,7 @@ For a simple TCD without a system MCU, the AP33771C initiates desired power requ
 
 ## SCH 
 
-![](2026-07-31-19-39-37.png)
+![](2026-07-31-19-39-37.webp)
 
 
 ## Build 

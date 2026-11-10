@@ -62,7 +62,7 @@ on sim card side
 ![](56-21-17-02-08-2023.webp)
 
 on module side
-![](04-22-17-02-08-2023.png)
+![](04-22-17-02-08-2023.webp)
 
 
 ## Version Control 

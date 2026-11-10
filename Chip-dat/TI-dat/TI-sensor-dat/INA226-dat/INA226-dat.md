@@ -27,7 +27,7 @@ Please note that providing code for INA226 without any specific requirements wou
 
 ## Typical Application 
 
-![](2023-10-25-17-39-43.png)
+![](2023-10-25-17-39-43.webp)
 
 
 
@@ -39,7 +39,7 @@ Please note that providing code for INA226 without any specific requirements wou
 
 - [[AON7403-dat]]
 
-![](2025-08-19-16-48-21.png)
+![](2025-08-19-16-48-21.webp)
 
 
 

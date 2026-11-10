@@ -5,7 +5,7 @@
 - [[choke-common-mode-dat]] - [[choke-dat]] - [[spark-gap-dat]] - [[acdc-dat]]
 
 
-![](2026-07-27-14-38-11.png)
+![](2026-07-27-14-38-11.webp)
 
 The sawtooth copper foil structure between the pins of the common mode inductor in the image is a **Spark Gap** (discharge gap) used for lightning surge / overvoltage protection.
 

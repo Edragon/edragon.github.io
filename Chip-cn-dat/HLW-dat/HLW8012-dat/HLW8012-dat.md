@@ -15,7 +15,7 @@
 
 ## Chip Info 
 
-![](2024-08-05-17-18-12.png)
+![](2024-08-05-17-18-12.webp)
 
 ### Hardware Design Note
 * Board AC Mains is be NOT isolated.
@@ -45,7 +45,7 @@ CF, CF1, SEL connect to the input port of the MCU. MCU measure the pulse periods
 
 ## Calculatoin 
 
-![](2023-10-24-12-28-02.png)
+![](2023-10-24-12-28-02.webp)
 
 
 

@@ -114,7 +114,7 @@ the most easy to use library for ESP
 ## circuits 
 
 - common pullup resistors 1K/4.7K/10K
-![](2024-07-10-01-21-40.png)
+![](2024-07-10-01-21-40.webp)
 
 
 ## RPI-I2C

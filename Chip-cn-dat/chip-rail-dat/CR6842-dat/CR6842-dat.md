@@ -39,7 +39,7 @@ large [[capacitor-dat]] 400V 150UF
 
 - [[capacitor-safety-dat]] on the top-right == D222MY1 - [[CR6842-dat]]
 
-![](2026-07-25-18-15-35.png)
+![](2026-07-25-18-15-35.webp)
 
 - [[mosfet-dat]] - CMP50N06
 

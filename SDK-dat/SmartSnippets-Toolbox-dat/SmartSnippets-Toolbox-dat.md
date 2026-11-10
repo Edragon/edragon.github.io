@@ -92,7 +92,7 @@ Click "SPI Flash/EEPROM" and configure according to the steps below.
 
 Next, import the hex firmware to be programmed. Click "Browse", then select the path of the firmware to be programmed, select it, and click "Open".
 
-![](2025-09-24-15-47-33.png)
+![](2025-09-24-15-47-33.webp)
 
 After programming is complete, power cycle the development board. Open the nRF Connect APP to scan for the device, and you should be able to find it.
 
@@ -104,7 +104,7 @@ After programming is complete, power cycle the development board. Open the nRF C
 
 无连接广播间隔1S 平均13uA
 
-![](2025-09-25-13-14-45.png)
+![](2025-09-25-13-14-45.webp)
 
 
 

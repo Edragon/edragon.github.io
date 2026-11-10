@@ -11,7 +11,7 @@ NINA-B3
 
 https://www.mouser.com/pdfDocs/NINA-B3_DataSheet_UBX-17052099.pdf
 
-![](2026-02-10-17-48-12.png)
+![](2026-02-10-17-48-12.webp)
 
 
 - [[arduino-nano-33-ble-dat]] - [[arduino-boards-dat]]

@@ -56,7 +56,7 @@ Energy-saving: When displaying static images, e-paper consumes no power at all. 
 
 For example, the smart card below uses e-paper technology and can display the balance.
 
-![](2025-08-19-15-20-54.png)
+![](2025-08-19-15-20-54.webp)
 
 There is also this type of NFC passive smart tag, which can refresh its display content via a mobile phone's NFC. It can be used as an electronic pet tag, electronic luggage tag, to display payment QR codes in stores, or to show a contact number for moving a car.
 
@@ -244,7 +244,7 @@ ESP8266 drive
 
 ### basic SCH 
 
-![](2025-08-26-20-59-36.png)
+![](2025-08-26-20-59-36.webp)
 
 ## driver chip 
 

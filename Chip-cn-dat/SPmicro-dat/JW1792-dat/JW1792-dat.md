@@ -10,7 +10,7 @@ Integrated 500V MOS Non-isolated Buck LED Driver
 http://www.spmicro.com.cn/uploads/xiazai/SP-JW1792.pdf
 
 
-![](2026-06-18-19-44-09.png)
+![](2026-06-18-19-44-09.webp)
 
 JW1792 is a non-isolated, constant output current step-down LED driver with 500V MOSFET integrated. Operating in the boundary mode makes it high efficiency and low radiation. Patented algorithms ensure good current accuracy and excellent line/load regulations with lowest BOM cost.
 

@@ -51,7 +51,7 @@ HLW8032 has a simple UART interface and adopts asynchronous serial communication
 
 UART of HLW8032 uses two pins. The TX pin is used to transmit data from HLW8032, and data is transmitted in the least significant bit (LSB) with priority. The RX pin is used to receive the data from microcontroller. 
 
-![](2025-02-13-16-09-20.png)
+![](2025-02-13-16-09-20.webp)
 
 Data format of HLW8032:   
  
@@ -66,7 +66,7 @@ Data format of HLW8032:
 
 ## debugging software 
 
-![](2024-12-18-17-08-33.png)
+![](2024-12-18-17-08-33.webp)
 
 ![](2024-12-18-17-09-06.webp)
 

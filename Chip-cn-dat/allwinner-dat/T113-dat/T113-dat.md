@@ -10,7 +10,7 @@
 
 - T113-S3 
 
-![](2025-08-09-00-56-13.png)
+![](2025-08-09-00-56-13.webp)
 
 ![](2025-08-09-00-56-26.webp)
 
@@ -27,7 +27,7 @@ Industrial Control HMI Solution
 
 Industrial Control PLC Solution
 
-![](2025-08-09-00-57-44.png)
+![](2025-08-09-00-57-44.webp)
 
 
 Car MP5 Solution
@@ -37,7 +37,7 @@ Car MP5 Solution
 
 Car Instrument Solution
 
-![](2025-08-09-00-58-33.png)
+![](2025-08-09-00-58-33.webp)
 
 
 ## SCH 

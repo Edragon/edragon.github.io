@@ -21,7 +21,7 @@ If the gold fingers are too close to the board edge, a beveled edge can damage t
 Copper trimming ensures a safe distance between the gold fingers and the board edge, preventing exposed copper from beveled edges.
 
 
-![](2026-04-18-14-52-19.png)
+![](2026-04-18-14-52-19.webp)
 
 ## penalization 
 

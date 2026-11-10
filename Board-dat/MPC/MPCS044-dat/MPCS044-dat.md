@@ -23,11 +23,11 @@ Through an adapter board, it supports 40-pin and 60-pin TTL LCD screens with a s
 
 - [[LCD-driver-dat]] - [[AT070TN92-dat]] - [[LCD-dat]]
 
-![](2026-02-27-19-52-08.png)
+![](2026-02-27-19-52-08.webp)
 
 pin definitions 
 
-![](2026-02-27-19-53-53.png)
+![](2026-02-27-19-53-53.webp)
 
 ![](2026-02-27-19-54-32.webp)
 
@@ -62,7 +62,7 @@ J5 - 5PIN - AV 信号和倒车控制电源接口 == AV2
 new version add jumpers setup, you can switch firmware by jumpers without re-flashing the firmware 
 
 
-![](2026-02-27-20-06-59.png)
+![](2026-02-27-20-06-59.webp)
 
 
 ## Applications, category, tags, etc. 

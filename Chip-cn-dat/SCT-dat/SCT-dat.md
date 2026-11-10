@@ -7,7 +7,7 @@
 Programmable Frequency - [[DCDC-down-dat]]
 
 
-![](2026-06-19-16-38-44.png)
+![](2026-06-19-16-38-44.webp)
 
 - [[power-adapter-dat]] - [[SCT-dat]]
 

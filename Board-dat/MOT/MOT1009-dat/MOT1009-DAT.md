@@ -12,7 +12,7 @@
 ## hardware 
 battery holder CR1220
 
-![](09-00-19-27-04-2023.png)
+![](09-00-19-27-04-2023.webp)
 
 
 ## ref 

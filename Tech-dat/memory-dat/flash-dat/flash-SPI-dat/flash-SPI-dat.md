@@ -24,7 +24,7 @@
 
 ## WSON 
 
-![](2025-07-14-01-14-33.png)
+![](2025-07-14-01-14-33.webp)
 
 ## Octal SPI and QIO Flash 
 
@@ -36,11 +36,11 @@ Yes, 8-bit SPI flash does exist in the context of the ESP32 and similar chips. T
 
 general 1 
 
-![](2026-07-23-16-26-18.png)
+![](2026-07-23-16-26-18.webp)
 
 general design 
 
-![](2026-01-23-03-42-16.png)
+![](2026-01-23-03-42-16.webp)
 
 
 w/STM32

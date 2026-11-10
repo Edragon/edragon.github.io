@@ -35,7 +35,7 @@ example [[RPI-CM4-expansion-board-dat]], we are going to make a new PCB based on
 - delete all mounting holes 
 - update all the data from scheamtic to PCB 
 
-![](2025-09-06-14-09-43.png)
+![](2025-09-06-14-09-43.webp)
 
 
 

@@ -38,7 +38,7 @@
 
 ## soldeing by yourself 
 
-![](2025-06-30-18-03-06.png)
+![](2025-06-30-18-03-06.webp)
 
 
 ## Using Guide

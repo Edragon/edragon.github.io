@@ -19,7 +19,7 @@ It does not support simultaneous detections.
 
 Yes, below is an animal checker device.
 
-![](2024-04-03-18-17-18.png)
+![](2024-04-03-18-17-18.webp)
 
 And an animal inject tag. 
 

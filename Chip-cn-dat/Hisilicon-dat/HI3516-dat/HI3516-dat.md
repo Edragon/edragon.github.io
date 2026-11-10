@@ -50,7 +50,7 @@ PCB part
 
 ## diagram 
 
-![](2026-10-02-13-34-49.png)
+![](2026-10-02-13-34-49.webp)
 
 ## chip 
 
@@ -59,7 +59,7 @@ Hi3516C / Hi3516D / Hi3516E series == 416-pin FC-CSP
 HI3516CRNCV608
 
 
-![](2026-10-02-13-28-05.png)
+![](2026-10-02-13-28-05.webp)
 
 - [[HI3516-dat]] - [[PCB-design-complex-dat]] - [[IMX307-dat]]
 
@@ -158,11 +158,11 @@ ToolPlatform-CAM-5.6.84-win32-x86_64。
 
 interface - [[wifi-sdio-dat]] - [[UVC-dat]] - [[wifi-USB-dat]]
 
-![](2026-10-01-16-42-34.png)
+![](2026-10-01-16-42-34.webp)
 
 IRCUT - J2接通用IRCUT.板子里面有测试脚本；
 
-![](2026-10-01-16-43-32.png)
+![](2026-10-01-16-43-32.webp)
 
 J3是音频输入.接MIC:
 
@@ -178,11 +178,11 @@ J6接RS485、SPI、ADC、GPIO等，部分复用；
 
 J7 DC12V电压输入、RJ45S接口、系统复位、网络指示灯； - [[ethernet-dat]]
 
-![](2026-10-01-16-44-58.png)
+![](2026-10-01-16-44-58.webp)
 
 J8 系统调试接口
 
-![](2026-10-01-16-45-13.png)
+![](2026-10-01-16-45-13.webp)
 
 other type pinout interface 
 
@@ -220,7 +220,7 @@ config 2
 
 top and bot 
 
-![](2026-10-02-15-07-28.png)
+![](2026-10-02-15-07-28.webp)
 
 
 inner layer 1 and 2

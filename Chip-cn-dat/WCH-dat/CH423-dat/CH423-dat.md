@@ -3,7 +3,7 @@
 
 https://www.wch-ic.com/products/CH423.html
 
-![](2024-12-04-17-36-12.png)
+![](2024-12-04-17-36-12.webp)
 
 - [[CH423DS1.PDF]]
 

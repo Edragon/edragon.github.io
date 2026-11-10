@@ -13,7 +13,7 @@ https://www.electrodragon.com/product/altera-cpld-epm240-epm570-dev-board/
 
 ## Board Look 
 
-![](2024-11-04-17-52-53.png)
+![](2024-11-04-17-52-53.webp)
 
 ## EPM570 vs. EPM240 
 

@@ -77,7 +77,7 @@ TM7705+AD7705+16位ADC数据采集模块
 
 - [[transistor-dat]] - [[mosfet-dat]]
 
-![](2025-07-09-14-48-52.png)
+![](2025-07-09-14-48-52.webp)
 
 - [[voltage-divider-dat]] 
 
@@ -121,7 +121,7 @@ TM7705+AD7705+16位ADC数据采集模块
 
 ### 4x ADC reader 
 
-![](2025-07-10-18-43-18.png)
+![](2025-07-10-18-43-18.webp)
 
 - [[LM224-dat]] - [[TI-interface-dat]]
 

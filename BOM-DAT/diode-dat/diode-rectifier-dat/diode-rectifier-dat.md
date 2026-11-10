@@ -7,7 +7,7 @@
 
 The MBR20200FCT is a 20A, 200V high-voltage power Schottky barrier rectifier diode featuring an insulated ITO-220AB package, low power loss, and high efficiency. 
 
-![](2026-07-25-19-43-39.png)
+![](2026-07-25-19-43-39.webp)
 
 
 

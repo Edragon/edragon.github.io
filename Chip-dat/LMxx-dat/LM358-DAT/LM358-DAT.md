@@ -1,7 +1,7 @@
 
 # LM358 DAT 
 
-![](50-41-17-07-07-2023.png)
+![](50-41-17-07-07-2023.webp)
 
 
 - [[amplifier-dat]]
@@ -94,7 +94,7 @@ input 5V, output 10V, gain = 2x
 
 https://www.circuitlab.com/editor/#?id=4x4jmf
 
-![](2025-03-18-16-26-29.png)
+![](2025-03-18-16-26-29.webp)
 
 
 ### LM358 Kicad Simulation 
@@ -130,7 +130,7 @@ For example, in an audio signal amplification, the input audio signal(Voice) can
 
 ### comparator and amplifier
 
-![](2026-07-18-16-50-09.png)
+![](2026-07-18-16-50-09.webp)
 
 [[comparator-dat]] - [[amplifier-dat]]
 
@@ -150,11 +150,11 @@ The gain from the source -- the MIC -- on the other side of C1 is influenced by 
 
 compared to 20kHz, at 1.6kHz the gain has fallen to ~70% x (-R5/R2).
 
-![](2025-03-19-02-39-46.png)
+![](2025-03-19-02-39-46.webp)
 
 ### Heart Pulse Sensor Circuit Using Opamp (LM358)
 
-![](2025-03-19-02-44-16.png)
+![](2025-03-19-02-44-16.webp)
 
 
 ### Test Circuit With Class-A Operation
@@ -172,7 +172,7 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 ### LM358 for Square Wave Generator:
 
-![](2025-03-19-02-57-27.png)
+![](2025-03-19-02-57-27.webp)
 
 
 ### LM358 based comparator uses single supply
@@ -192,7 +192,7 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 ### Op-Amp Differentiator
 
-![](2025-03-19-03-22-26.png)
+![](2025-03-19-03-22-26.webp)
 
 
 
@@ -210,7 +210,7 @@ The piezo sensor will have a low output when it is not active. The buzzer is act
 
 - [[sensor-microphone-dat]]
 
-![](2026-03-05-19-00-42.png)
+![](2026-03-05-19-00-42.webp)
 
 
 

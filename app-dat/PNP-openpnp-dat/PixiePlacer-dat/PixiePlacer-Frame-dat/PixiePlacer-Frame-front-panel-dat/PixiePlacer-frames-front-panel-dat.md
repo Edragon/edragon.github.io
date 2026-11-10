@@ -6,7 +6,7 @@ The Front_Panel holds the Emergency_Stop_Button, PC_Button and the VAC_Pump_Swit
 
 ![](1.webp)
 
-![](2.png)
+![](2.webp)
 
 ![](3.JPEG)
 

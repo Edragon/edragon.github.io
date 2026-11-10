@@ -54,7 +54,7 @@ VARISTOR 612V~748V 4.5kA P=7.5mm
 
 612V~748V 4.5kA Varistor Through Hole,P=7.5mm
 
-![](2026-01-25-20-43-36.png)
+![](2026-01-25-20-43-36.webp)
 
 
 ## ref 

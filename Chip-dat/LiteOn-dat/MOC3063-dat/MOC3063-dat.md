@@ -12,7 +12,7 @@
 
 - [[NXP-triac-dat]] - [[BT136-dat]] - [[BT131-dat]] - [[triac-dat]] - [[triac-driver-dat]] 
 
-![](2026-06-18-19-39-24.png)
+![](2026-06-18-19-39-24.webp)
 
 - [[JW1792-dat]] - [[SPmicro-dat]]
 

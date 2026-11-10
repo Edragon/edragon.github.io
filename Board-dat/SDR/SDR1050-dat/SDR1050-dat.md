@@ -12,7 +12,7 @@ Here are schematics showing how to interface a unipolar stepper motor to four co
 * The pins in the white jack (from left to the right) are: Motor VCC, A, B, C, D (to the stepper motor)
 * Power switch pins: GND, VCC, VCC, Motor VCC, use jumper to choose using shared VCC or not.
 
-![](2023-12-04-18-50-51.png)
+![](2023-12-04-18-50-51.webp)
 
 
 ## SCH 

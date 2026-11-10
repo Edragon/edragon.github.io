@@ -21,7 +21,7 @@
 9.  Switch the PCB mounting side: Top/Bottom (bottom mounting).
 10. Panelization quantity and PCB spacing settings.
 
-![](2025-04-01-16-34-25.png)
+![](2025-04-01-16-34-25.webp)
 
 1.  Create a new component. You can manually add and create new component information.
 2.  Copy the currently selected component information.
@@ -86,7 +86,7 @@ Disadvantages: Slower loading, pay attention to the tightness of the tear film, 
 2.  Set the component's pick-up coordinates. You can set the coordinates by getting the camera or nozzle position. Video
 3.  The distance between components in the tape. We usually determine the distance by observing how many tape holes correspond to one component. For example:
 
-    ![](2025-04-01-16-39-50.webp)![](2025-04-01-16-40-01.png)
+    ![](2025-04-01-16-39-50.webp)![](2025-04-01-16-40-01.webp)
 4.  Usage count, used to count the number of times the material has been fed.
 5.  Manually control the feeder to move forward and backward (requires setting the ID number before use).
 6.  Feeder ID number to fill in. Get ID
@@ -102,7 +102,7 @@ Disadvantages: Only dozens of materials can be placed at a time, and visual para
 Applicable Range: Suitable for prototypes, mounting of 5-20 PCBs, and can mount polarized components. It can also be used for mounting 24 and 32 tape components, which is a supplement to automatic feeders.
 Disadvantages: Needs to be fixed firmly, otherwise the components may jump out when tearing the film.
 
-![](2025-04-01-16-43-17.png)
+![](2025-04-01-16-43-17.webp)
 
 1.  Manual import: Import the coordinates of the front and rear tapes according to the illustration before it can be used normally.
 2.  Height Z refers to the distance from the nozzle to the component.
@@ -111,7 +111,7 @@ Disadvantages: Needs to be fixed firmly, otherwise the components may jump out w
 
 Applicable Range: Usually used for chip trays or large component trays.
 
-![](2025-04-01-16-44-26.png)
+![](2025-04-01-16-44-26.webp)
 
 1.  You need to set the coordinates of the ABC three points (component center) and fill in the correct number of rows and columns before you can use it normally.
 2.  If the mounting angle is incorrect, you need to change the angle parameter in the above figure.
@@ -139,7 +139,7 @@ Applicable Range: Usually used for chip trays or large component trays.
 
 #### General
 
-![](2025-04-02-13-33-33.png)
+![](2025-04-02-13-33-33.webp)
 
 *   Placement Speed: You can set the placement speed of a single component here, mainly used for large components to reduce speed and prevent displacement due to inertia.
 *   Pick-up Delay: Used to increase the time required to establish vacuum when the vacuum suction is insufficient.
@@ -147,9 +147,9 @@ Applicable Range: Usually used for chip trays or large component trays.
 
 ### c. Bottom Vision (This chapter is extremely important)
 
-![](2025-04-02-13-34-08.png)
+![](2025-04-02-13-34-08.webp)
 
-![](2025-04-02-13-34-41.png)
+![](2025-04-02-13-34-41.webp)
 
 incorrect - correct - too big
 

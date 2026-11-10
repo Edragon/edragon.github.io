@@ -137,9 +137,9 @@ In AC-DC switching power supply design, the main difference between **Primary-Si
 
 ## peripheral SCH 
 
-![](2024-01-23-14-05-46.png)
+![](2024-01-23-14-05-46.webp)
 
-![](2024-01-23-14-06-01.png)
+![](2024-01-23-14-06-01.webp)
 
 - [[fuse-dat]] - [[MOV-dat]] - [[NTC-dat]]
 
@@ -250,9 +250,9 @@ Chip Solutions
 
 - [[mosfet-dat]] - [[voltage-high-dat]] - [[2N65L-dat]] - [[UTC-dat]]
 
-![](2026-08-11-21-12-04.png)
+![](2026-08-11-21-12-04.webp)
 
-![](2026-08-11-21-12-23.png)
+![](2026-08-11-21-12-23.webp)
 
 - [[THR-dat]] - [[TVR-dat]] - [[fuse-dat]] == - [[Thermistor-dat]] - [[Varistor-dat]]
 
@@ -268,7 +268,7 @@ CY1 == [[capacitor-x-y-dat]]
 
 CX1 == [[capacitor-x-y-dat]]
 
-![](2026-08-11-21-18-07.png)
+![](2026-08-11-21-18-07.webp)
 
 ##### What is **THR1**?
 
@@ -305,7 +305,7 @@ CX1 == [[capacitor-x-y-dat]]
 
 in these two similar designs, on the DC left side, bottom board uses two [[diode-rectifier-dat]], and use [[mosfet-dat]] on the top board 
 
-![](2026-07-27-14-44-35.png)
+![](2026-07-27-14-44-35.webp)
 
 - [[XL1509-dat]] - AS358 - [[LM358-dat]] - top side board, has [[led-driver-dat]]
 
@@ -325,7 +325,7 @@ in these two similar designs, on the DC left side, bottom board uses two [[diode
 
 ![](2026-06-19-18-49-32.png)
 
-![](2026-06-19-18-49-45.png)
+![](2026-06-19-18-49-45.webp)
 
 YJ GG0G10A 2432 - guess - [[mosfet-dat]] - [[chip-unknown-dat]]
 
@@ -369,7 +369,7 @@ unknown chip - [[chip-unknown-dat]]
 
 - [[capacitor-X2-dat]] - [[capacitor-dat]]
 
-![](2026-05-23-17-52-42.png)
+![](2026-05-23-17-52-42.webp)
 
 - [[fuse-dat]]
 

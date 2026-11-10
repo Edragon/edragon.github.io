@@ -12,7 +12,7 @@
 - Current test range 0-10A
 - Power supply range DC4-30.0V (if the voltage exceeds 30V, an external independent power supply is required)
 
-![](2023-10-20-17-34-13.png)
+![](2023-10-20-17-34-13.webp)
 
 ## Wiring 
 - top left, hold and power up to set to zero
@@ -22,7 +22,7 @@
 - bottom right - measure voltage and power supply 
 
 
-![](2023-10-20-17-45-11.png)
+![](2023-10-20-17-45-11.webp)
 
 
 ## Version 
@@ -33,7 +33,7 @@
 
 50/100A external shunt 
 
-![](2023-10-20-17-50-59.png)
+![](2023-10-20-17-50-59.webp)
 
 ## Specs
 

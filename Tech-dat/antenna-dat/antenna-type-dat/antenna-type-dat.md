@@ -58,11 +58,11 @@ Here is the summary of the relationship between omnidirectional, directional, li
 
 5DBi
 
-![](2024-11-08-19-15-40.png)
+![](2024-11-08-19-15-40.webp)
 
 8DBi 
 
-![](2024-11-08-19-16-07.png)
+![](2024-11-08-19-16-07.webp)
 
 
 ## box antenna 

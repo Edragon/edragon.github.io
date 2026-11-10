@@ -4,7 +4,7 @@
 
 ## fitting tools 
 
-![](2026-07-02-01-50-50.png)
+![](2026-07-02-01-50-50.webp)
 
 钢丝绳索铝套钳8字型圆型海钓接头铝卡夹压钳 0.5-2.2mm
 
@@ -36,7 +36,7 @@ Steel wire ropes have various fittings (end terminals, hooks, connectors, etc.).
 
 
 
-![](2025-11-26-20-24-07.png)
+![](2025-11-26-20-24-07.webp)
 
 ## Wire Rope Clip / Clamp
 

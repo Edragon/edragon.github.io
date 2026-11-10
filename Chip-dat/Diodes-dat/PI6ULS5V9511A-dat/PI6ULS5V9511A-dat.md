@@ -8,7 +8,7 @@ Hot Swappable I2C Bus/SMBus Buffer
 
 ## SCH 
 
-![](2026-08-21-17-11-43.png)
+![](2026-08-21-17-11-43.webp)
 
 
 ## build 

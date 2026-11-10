@@ -56,7 +56,7 @@ The ESP32-S3 features a **GPIO Matrix**. This internal switching fabric allows y
 
 - [[JTAG-dat]]
 
-![](2025-07-31-13-03-47.png)
+![](2025-07-31-13-03-47.webp)
 
 
 

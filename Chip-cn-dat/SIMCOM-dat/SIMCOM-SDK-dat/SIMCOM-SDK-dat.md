@@ -41,7 +41,7 @@ Click GO Button , Wait for the progress bar to complete.
 
 Note: **click the GO, then plug in the board**
 
-![](2025-05-20-17-48-29.png)
+![](2025-05-20-17-48-29.webp)
 
 
 ## ref

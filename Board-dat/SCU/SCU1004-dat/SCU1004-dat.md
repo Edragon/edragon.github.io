@@ -22,7 +22,7 @@
 - hole center distance  == 19mm
 
 
-![](2026-02-22-14-18-03.png)
+![](2026-02-22-14-18-03.webp)
 
 add - [[glue-hot-dat]] - [[glue-dat]]
 
@@ -32,7 +32,7 @@ add - [[glue-hot-dat]] - [[glue-dat]]
 
 ## version V2 
 
-![](2026-02-22-15-37-14.png)
+![](2026-02-22-15-37-14.webp)
 
 ![](2026-02-22-15-48-22.webp)
 

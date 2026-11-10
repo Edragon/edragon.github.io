@@ -14,7 +14,7 @@ The CD4021 is an 8-stage parallel-input/serial-output CMOS shift register. It al
 
 - [[NES-dat]] - [[CD4021-dat]] - [[input-dat]] - [[GPIO-dat]]
 
-![](2026-08-21-16-13-52.png)
+![](2026-08-21-16-13-52.webp)
 
 - [[playstation-dat]]
 

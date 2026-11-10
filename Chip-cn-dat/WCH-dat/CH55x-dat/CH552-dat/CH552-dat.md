@@ -10,11 +10,11 @@
 
 ## CH552 SCH 
 
-![](06-46-14-25-07-2023.png)
+![](06-46-14-25-07-2023.webp)
 
-![](26-46-14-25-07-2023.png)
+![](26-46-14-25-07-2023.webp)
 
-![](2025-12-21-17-49-58.png)
+![](2025-12-21-17-49-58.webp)
 
 ## bad USB 
 
@@ -53,7 +53,7 @@ SN74AVC4T245PWRE4
 
 - [[USB-Blaster-dat]] - [[FPGA-dat]]
 
-![](2025-12-21-17-59-47.png)
+![](2025-12-21-17-59-47.webp)
 
 
 ## EZP2019 
@@ -62,7 +62,7 @@ The EZP2019 is a popular, high-speed USB SPI programmer used for reading and wri
 
 - [[ezp2019-2.zip]] - [[ezp2019-1.bin]] - [[USB-dat]] - [[USB-SPI-dat]]
 
-![](2025-12-21-18-02-58.png)
+![](2025-12-21-18-02-58.webp)
 
 
 ## USBASP 
@@ -72,11 +72,11 @@ The EZP2019 is a popular, high-speed USB SPI programmer used for reading and wri
 
 ## programmer 
 
-![](2025-12-21-18-08-24.png)
+![](2025-12-21-18-08-24.webp)
 
 - [[PRGMR-PC100.rar]]
 
-![](2025-12-21-18-12-30.png)
+![](2025-12-21-18-12-30.webp)
 
 ## N76E003 ICP programmer 
 

@@ -140,7 +140,7 @@ The **Center Frequency** is the specific frequency point where the antenna is de
 * **Physical Dimension:** The center frequency is directly tied to the physical length of the antenna. For a standard dipole antenna, the length is approximately **1/2 of the wavelength ($\lambda$)** of the center frequency.
 * **Performance:** This is the "sweet spot." At $f_c$, the antenna radiates the maximum amount of power and reflects the minimum amount back to the transmitter.
 
-![](2026-04-06-12-44-59.png)
+![](2026-04-06-12-44-59.webp)
 
 ---
 
@@ -284,7 +284,7 @@ SMA to IPEX converter cable
 
 swtich connector - ECT ECT818011998 - datasheet [[ECT-ECT818011998_C437250.pdf]]
 
-![](2026-04-05-01-35-17.png)
+![](2026-04-05-01-35-17.webp)
 
 
 ### 2.4 antenna: wifi, bluetooth
@@ -347,7 +347,7 @@ Therefore, the layout of the module antenna location and routing is recommended 
 2. Make sure that there is no signal line or copper foil in each layer below the antenna. 
 3. It is best to hollow out the antenna position in the following figure to ensure that the S11 of themoduleisminimally affected.
 
-![](2025-07-09-15-34-06.png)
+![](2025-07-09-15-34-06.webp)
 
 
 
@@ -394,7 +394,7 @@ BAL-NRF01D3
 
 copper tube oscillator 
 
-![](2026-04-05-02-53-37.png)
+![](2026-04-05-02-53-37.webp)
 
 ![](2026-04-05-03-01-08.png)
 

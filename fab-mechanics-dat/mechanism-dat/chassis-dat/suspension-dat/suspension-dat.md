@@ -34,7 +34,7 @@
 
 ## suspension with break 
 
-![](2025-11-27-15-39-04.png)
+![](2025-11-27-15-39-04.webp)
 
 
 ## suspension with rotation support 
@@ -44,7 +44,7 @@
 
 ## rotating system 
 
-![](2025-11-27-15-41-15.png)
+![](2025-11-27-15-41-15.webp)
 
 
 

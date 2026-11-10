@@ -32,7 +32,7 @@ temperature 75 degree protection swtich
 | Forward Voltage    | vF     | 31   | 33   | 35   | v    | IF =1000mA     |
 | Reverse Current    | IR     | 0    |      | 10   | uA   | IF =1000mA     |
 
-![](2025-02-26-15-34-00.png)
+![](2025-02-26-15-34-00.webp)
 
 ### Absolute  Maximum  Ratings  at  TA=25℃
 

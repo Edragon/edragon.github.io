@@ -45,7 +45,7 @@ Here's why and how:
 
 **Duplex LC connectors** are essentially two simplex (single fiber) LC connectors held together by a clip or a "mating sleeve." This clip can often be carefully removed, allowing you to separate the two individual LC connectors. This is commonly done when you need to switch the polarity of the fibers (e.g., if you have an A-A wiring and need A-B).
 
-![](2025-06-19-17-13-04.png)
+![](2025-06-19-17-13-04.webp)
 
 **Simplex LC connectors** are designed for a single fiber and generally do not separate into smaller components in the same way. The connector itself is a single unit terminated onto the fiber.
 

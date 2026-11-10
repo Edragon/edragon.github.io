@@ -53,7 +53,7 @@ Because it has both Wi-Fi and Thread radios, the ESP32-C6 is the "gold standard"
 
 ## sch 
 
-![](ESP32-C6-DEV-KIT-N8-Schematic.png)
+![](ESP32-C6-DEV-KIT-N8-Schematic.webp)
 
 sch 2 
 

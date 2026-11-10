@@ -1,7 +1,7 @@
 
 # feeder-loose-component-dat
 
-![](2025-05-07-14-28-16.png)
+![](2025-05-07-14-28-16.webp)
 
 
 Suitable for loose, non-taped resistors, capacitors, or non-polarized components.
@@ -27,4 +27,4 @@ turn on the back light
 Depending on the computer configuration, wait 5-20 seconds.
 On the interface below, select the correct result on the left side.
 
-![](2025-05-07-14-29-27.png)
+![](2025-05-07-14-29-27.webp)

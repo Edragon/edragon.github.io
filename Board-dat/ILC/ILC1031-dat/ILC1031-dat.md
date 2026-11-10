@@ -24,13 +24,13 @@ shield - [[DAS1030-dat]]
 
 ## Dimension 
 
-![](2023-11-01-14-11-14.png)
+![](2023-11-01-14-11-14.webp)
 
 ![](2023-11-01-14-14-50.webp)
 
 ## Pin Map 
 
-![](2024-06-20-17-37-50.png)
+![](2024-06-20-17-37-50.webp)
 
 - The pins starting with T_ are touch control pins,
 - The pins starting with SD_ are SD card control pins,

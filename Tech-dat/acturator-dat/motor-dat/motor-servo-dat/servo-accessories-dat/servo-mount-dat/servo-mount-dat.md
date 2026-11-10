@@ -50,9 +50,9 @@ build 1 - flat mount
 
 https://www.printables.com/model/460940-standard-servo-mount-flat
 
-![](2026-08-14-02-14-41.png)
+![](2026-08-14-02-14-41.webp)
 
-![](2026-08-14-02-14-51.png)
+![](2026-08-14-02-14-51.webp)
 
 ## ref 
 

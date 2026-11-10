@@ -6,7 +6,7 @@
 
 Sigmastar SSD210 双核ARM A7 内置64M内存，工程文件 PCB文件 SDK 源码 工具
 
-![](2025-08-08-12-36-10.png)
+![](2025-08-08-12-36-10.webp)
 
 
 ### core tech 
@@ -27,7 +27,7 @@ Sigmastar SSD210 双核ARM A7 内置64M内存，工程文件 PCB文件 SDK 源�
 
 ### scenario 
 
-![](2025-08-08-12-39-58.png)
+![](2025-08-08-12-39-58.webp)
 
 
 ## SSD202D

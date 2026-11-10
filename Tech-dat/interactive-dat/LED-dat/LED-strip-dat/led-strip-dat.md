@@ -16,9 +16,9 @@
 ## 5050 RGB LED Strips, 60 LEDs/M [Meters]
 - [[ILSS007-dat]] - [[ILSS008-dat]]
 
-![](2024-01-13-12-01-54.png)
+![](2024-01-13-12-01-54.webp)
 
-![](5050-RGB-LED-Strips-60-LEDsM-[Meters].png)
+![](5050-RGB-LED-Strips-60-LEDsM-[Meters].webp)
 
 ## Super Light LED Strip (White), 60 LEDs/M [Meters]
 - [[ILSS013-dat]]
@@ -46,9 +46,9 @@ https://www.electrodragon.com/?product=led-strips-control-box-and-remote-control
 ## Modify / cutting or connecting 
 
 
-![](2024-01-13-11-57-11.png)
+![](2024-01-13-11-57-11.webp)
 
-![](2024-12-08-18-19-20.png)
+![](2024-12-08-18-19-20.webp)
 
 
 ## Protection Type 

@@ -28,7 +28,7 @@
 
 HTS221 
 
-![](2026-02-10-17-47-27.png)
+![](2026-02-10-17-47-27.webp)
 
 
 Capacitive digital sensor for relative humidity and temperature

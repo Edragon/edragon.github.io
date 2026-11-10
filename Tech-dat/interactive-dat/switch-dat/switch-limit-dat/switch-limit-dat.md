@@ -44,7 +44,7 @@ touch sensor / crash sensor
 
 left‑angled pins
 
-![](2026-02-22-13-57-40.png)
+![](2026-02-22-13-57-40.webp)
 
 ![](2026-02-22-14-07-22.png)
 

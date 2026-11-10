@@ -28,7 +28,7 @@ The MP2636 provides full operating status indication to distinguish charge mode 
 
 The MP2636 achieves good EMI/EMC performance with well controlled switching edges. 
 
-![](2026-04-04-17-13-53.png)
+![](2026-04-04-17-13-53.webp)
 
 
 datasheet == https://www.monolithicpower.com/en/mp2636.html

@@ -94,7 +94,7 @@ The ESP32-WROOM-32U is a version of the ESP32-WROOM-32 series that features a co
 ESP32-WROOM-32U is different from ESP32-WROOM-32D in that ESP32-WROOM-32U integrates a connector to connect an external antenna. 
 
 
-![](2024-01-09-14-49-16.png)
+![](2024-01-09-14-49-16.webp)
 
 
 ## Module List 
@@ -132,7 +132,7 @@ Module interfaces
 
 ESP32-WROOM-32D
 
-![](2023-09-26-15-11-35.png)
+![](2023-09-26-15-11-35.webp)
 
 
 | L_Pin | Func       | Note | M_Pin | Func | Note | R_Pin | Func | Note |

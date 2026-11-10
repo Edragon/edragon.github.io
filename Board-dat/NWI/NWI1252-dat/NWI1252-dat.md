@@ -15,7 +15,7 @@ Wide input voltage range: 5.5V to 36V - [[dcdc-dat]]
 
 - Soldering wirings GND / D+ (green) / D- (white) / VUSB = [[USB-cable-dat]]
 
-![](2024-11-20-17-01-50.png)
+![](2024-11-20-17-01-50.webp)
 
 
 

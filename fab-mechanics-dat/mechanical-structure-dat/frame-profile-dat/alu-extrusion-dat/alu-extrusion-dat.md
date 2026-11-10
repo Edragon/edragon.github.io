@@ -63,7 +63,7 @@ M3 T-nut + M3*10
 
 ### 4040 dual groove 
 
-![](2025-02-26-19-36-59.png)
+![](2025-02-26-19-36-59.webp)
 
 ![](2025-02-26-19-37-15.webp)
 
@@ -75,7 +75,7 @@ groove size 5.5 mm
 
 - version: 2024L, 2040V
 
-![](2025-02-19-14-33-26.png)
+![](2025-02-19-14-33-26.webp)
 
 ## Accessories 
 
@@ -105,7 +105,7 @@ If you want to use M3 screws with larger extrusions like 1515, 2020, or 4040, yo
 
 - [[profile-t-nut-dat]] add to the back of the case 
 
-![](2026-09-13-21-01-56.png)
+![](2026-09-13-21-01-56.webp)
 
 add installation frame bar
 
@@ -116,13 +116,13 @@ add holder bar and - [[bolt-eye-dat]] - [[bolt-dat]]
 and - [[profile-angle-dat]]
 
 
-![](2026-09-13-21-08-59.png)
+![](2026-09-13-21-08-59.webp)
 
 ![](2026-09-13-21-03-19.webp)
 
 - [[Carabiner-dat]] 
 
-![](2026-09-13-21-14-06.png)
+![](2026-09-13-21-14-06.webp)
 
 - [[Swivel-dat]]
 

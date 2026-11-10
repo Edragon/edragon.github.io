@@ -27,7 +27,7 @@ CMOS 1.8 V to 5.5 V, 2.5 Ω 2:1 Mux/SPDT Switch in SOT-23 - ADG719
 
 ADG1221/ADG1222/ADG1223 == Low Capacitance, Low Charge Injection, ±15 V/+12 V iCMOS® Dual SPST Switches
 
-![](2026-09-03-16-44-05.png)
+![](2026-09-03-16-44-05.webp)
 
 
 ## ADG1636

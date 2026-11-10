@@ -34,7 +34,7 @@ programming - [[UPDI-dat]]
 
 ## 0-series 
 
-![](2025-12-16-19-14-04.png)
+![](2025-12-16-19-14-04.webp)
 
 
 ### attiny202

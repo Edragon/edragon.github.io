@@ -29,7 +29,7 @@ Connect the OUT interface of this module to the positive pole of the oscilloscop
 
 The effect is as shown in the figure:
 
-![](2025-01-09-17-53-50.png)
+![](2025-01-09-17-53-50.webp)
 
 ### Adjusting the duty cycle and frequency
 

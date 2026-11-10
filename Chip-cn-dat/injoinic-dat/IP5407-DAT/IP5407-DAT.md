@@ -10,7 +10,7 @@ The `IP5407` is a highly integrated power management SOC (System on Chip) by Inj
 
 2A charge 2.1A / 2.4A discharge integrated DCP function mobile power SOC
 
-![](2026-06-15-17-27-22.png)
+![](2026-06-15-17-27-22.webp)
 
 - datasheet == [[ip5407-datasheet-39350302.pdf]]
 

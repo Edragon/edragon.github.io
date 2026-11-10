@@ -6,7 +6,7 @@
 
 ![](2024-01-04-16-37-04.webp)
 
-![](2024-01-04-16-36-33.png)
+![](2024-01-04-16-36-33.webp)
 
 
 [Lora RF Wireless Transceiver EE1, 100mW [Freq]](https://www.electrodragon.com/product/sx1278-lora-wireless-transceiver-433mhz100mw)

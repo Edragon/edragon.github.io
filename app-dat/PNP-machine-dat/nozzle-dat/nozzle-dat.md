@@ -6,7 +6,7 @@
 
 ## setup 
 
-![](2026-06-25-13-44-10.png)
+![](2026-06-25-13-44-10.webp)
 
 This page is divided into three parts:
 - **Blue**: Nozzle models installed on the head

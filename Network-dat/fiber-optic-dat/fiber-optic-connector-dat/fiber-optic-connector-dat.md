@@ -32,7 +32,7 @@
 
 [Installation Instruction for SC/APC FUSEConnect® Fusion-Spliced Connectors](https://www.youtube.com/watch?v=JnqhVENXHjU)
 
-![](2025-04-22-12-22-34.png)
+![](2025-04-22-12-22-34.webp)
 
 
 

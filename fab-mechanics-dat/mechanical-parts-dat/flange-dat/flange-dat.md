@@ -27,11 +27,11 @@
 
 flange with [[Motor-reduction-Gear-dat]]
 
-![](2025-12-10-01-49-30.png)
+![](2025-12-10-01-49-30.webp)
 
 A flange is a protruding rim, lip, or ridge used for various purposes, including fixing, strengthening, guiding, or connecting. It can be a flat surface sticking out from an object, or a decorative edge on clothing. 
 
-![](2025-06-07-13-12-02.png)
+![](2025-06-07-13-12-02.webp)
 
 
 ## shaft coupling flange set == set-screw flange
@@ -68,7 +68,7 @@ Consider:
 
 ![](2025-06-07-13-18-26.webp)
 
-![](2025-06-07-13-24-46.png)
+![](2025-06-07-13-24-46.webp)
 
 
 ![](2025-06-07-13-22-14.webp)

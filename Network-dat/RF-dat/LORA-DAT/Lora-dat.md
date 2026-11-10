@@ -102,7 +102,7 @@ The module actively monitors channel environmental noise before transmitting. If
 
 This feature improves communication success in harsh environments and can be used for networking and collision avoidance.
 
-![](2025-06-26-19-16-44.png)
+![](2025-06-26-19-16-44.webp)
 
 
 

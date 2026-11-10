@@ -45,7 +45,7 @@ ETA6986 is truly an ideal solution controlled by MCU for battery charging and di
 
 ### ETA6096 
 
-![](2026-04-14-20-13-14.png)
+![](2026-04-14-20-13-14.webp)
 
 ### ETA6093
 

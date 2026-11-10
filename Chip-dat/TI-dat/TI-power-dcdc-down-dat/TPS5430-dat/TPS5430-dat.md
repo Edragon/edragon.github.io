@@ -24,7 +24,7 @@ Available in small thermally enhanced 8-pin SO PowerPAD™ integrated circuit pa
 
 - [[TPS5430-dat]] - [[dcdc-down-dat]] - [[TPS5450-dat]] - [[RTL8812-dat]]
 
-![](2026-10-02-02-22-49.png)
+![](2026-10-02-02-22-49.webp)
 
 ## ref 
 

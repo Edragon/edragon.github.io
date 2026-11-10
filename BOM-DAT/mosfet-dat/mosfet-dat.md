@@ -182,7 +182,7 @@ DMP2066LSN - P-CHANNEL ENHANCEMENT MODE MOSFET
 
 ### high power mosfet 
 
-![](2024-08-28-14-43-36.png)
+![](2024-08-28-14-43-36.webp)
 
 #### IRFL210PBF SOT-223
 
@@ -213,7 +213,7 @@ HJ3080A 貼片 TO-252 場效電晶體 替代 SE3080K WP3080K CMD3080M
 
 HJ 3080A D525
 
-![](2026-02-13-14-45-27.png)
+![](2026-02-13-14-45-27.webp)
 
 
 ## mosfet high voltage 
@@ -418,7 +418,7 @@ MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 
 `AGM30P10S` - AGM30P10S is the high cell density trenched P-ch MOSFETs, which provide excellentRDSON and gate charge for most of the synchronous buck converter applications
 
-![](2026-06-15-18-57-11.png)
+![](2026-06-15-18-57-11.webp)
 
 
 - [[power-bank-dat]]
@@ -533,7 +533,7 @@ SiZ322DT - Dual N-Channel 25 V (D-S) MOSFET == - [[vishay-dat]] - [[SIZ322DT-dat
 
 https://www.vishay.com/docs/63569/sis322dnt.pdf
 
-![](2026-09-15-02-44-24.png)
+![](2026-09-15-02-44-24.webp)
 
 ![](2026-09-15-02-45-54.webp)
 

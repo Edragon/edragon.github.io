@@ -31,7 +31,7 @@
 ## P-ch Mosfet select for [[ARM1007-dat]]
 
 
-![](2024-10-15-17-29-50.png)
+![](2024-10-15-17-29-50.webp)
 
 working table 
 
@@ -82,14 +82,14 @@ working table
 
 build 5 
 
-![](2026-09-05-17-57-02.png)
+![](2026-09-05-17-57-02.webp)
 
 ![](2026-09-05-17-57-24.webp)
 
 
 build 4 
 
-![](2026-09-05-17-38-44.png)
+![](2026-09-05-17-38-44.webp)
 
 
 build 3 - Automatic Power Source Selection and On/Off Switch
@@ -102,7 +102,7 @@ build 2 - [[dcdc-boost-down-dat]] + [[power-distribution-dat]] + [[battery-charg
 
 - [[ADC-bat-monitor-dat]]
 
-![](2026-08-01-16-36-03.png)
+![](2026-08-01-16-36-03.webp)
 
 - [[battery-charger-dat]] - [[TP4056-dat]]
 

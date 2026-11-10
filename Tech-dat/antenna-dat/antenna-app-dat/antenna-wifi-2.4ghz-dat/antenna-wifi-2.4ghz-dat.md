@@ -68,9 +68,9 @@ Here is a side-by-side comparison to help you decide which one fits your project
 
 efficient high gain 8DBI wifi antenna 
 
-![](2026-04-06-12-50-48.png)
+![](2026-04-06-12-50-48.webp)
 
-![](2026-04-06-12-52-10.png)
+![](2026-04-06-12-52-10.webp)
 
 ![](2026-04-06-12-53-34.webp)
 

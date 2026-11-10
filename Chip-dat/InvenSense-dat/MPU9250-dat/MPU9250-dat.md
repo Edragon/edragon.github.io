@@ -15,7 +15,7 @@ chip info
 
 - [[invensense-EVM-dat]]
 
-![](2026-01-19-12-59-59.png)
+![](2026-01-19-12-59-59.webp)
 
 
 ## ref 

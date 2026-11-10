@@ -1,6 +1,6 @@
 # ESP8089 Module Data Sheet
 
-![](2025-07-16-13-43-19.png)
+![](2025-07-16-13-43-19.webp)
 
 The ESP8089 module supports standard IEEE802.11 b/g/n protocols and a complete TCP/IP protocol stack. Hardware-wise, developers only need to communicate with an external MCU via the SPI/SDIO interface or the CPU AHB bridge interface.
 
@@ -72,7 +72,7 @@ The module supports energy-saving VoLP for fast switching between sleep/wake mod
 
 ## PCB Layout Guidelines
 
-![](2025-07-16-13-50-19.png)
+![](2025-07-16-13-50-19.webp)
 
 1. Pin 11 (WiFi_ANT) output impedance is 50Ω. No matching required for the module, but it is recommended to reserve a π-type matching network for antenna tuning.
 2. Pin 9 (EN) is active high. Refer to the recommended circuit, or control via MCU I/O.

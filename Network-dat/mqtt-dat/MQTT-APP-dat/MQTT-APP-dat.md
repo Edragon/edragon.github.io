@@ -32,7 +32,7 @@ setup guide for out free MQTT broker
 
 1. connection part - connection info 
 
-![](2025-06-19-14-32-05.png)
+![](2025-06-19-14-32-05.webp)
 
 notice in addtional options add user name and password to be electrodragon and electrodragon
 
@@ -55,7 +55,7 @@ notice in addtional options add user name and password to be electrodragon and e
 
 receiving info 
 
-![](2025-10-12-15-18-13.png)
+![](2025-10-12-15-18-13.webp)
 
 
 ## ref 

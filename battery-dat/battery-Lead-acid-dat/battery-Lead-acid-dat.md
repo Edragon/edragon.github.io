@@ -130,7 +130,7 @@ Designed for deep discharge (up to 80% or more) without significantly affecting 
 
 ## LAB Example 
 
-![](2025-04-21-16-25-17.png)
+![](2025-04-21-16-25-17.webp)
 
 2.6 Ah = 2.6 × 1000 = **2600 mAh**
 

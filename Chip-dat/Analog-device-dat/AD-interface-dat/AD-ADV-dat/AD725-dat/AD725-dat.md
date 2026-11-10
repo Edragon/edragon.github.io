@@ -15,7 +15,7 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/AD725.pdf
 
 ## diagram 
 
-![](2026-09-25-15-16-24.png)
+![](2026-09-25-15-16-24.webp)
 
 
 

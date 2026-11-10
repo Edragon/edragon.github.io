@@ -22,7 +22,7 @@ HC32L110怎么烧录不进去,要接好RST BOOT0线
 
 ## cheaper online downloader == 5
 
-![](2026-02-21-16-08-53.png)
+![](2026-02-21-16-08-53.webp)
 
 - custom order - [[custom-order-dat]]
 

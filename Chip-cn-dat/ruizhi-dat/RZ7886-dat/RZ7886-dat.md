@@ -45,7 +45,7 @@ w/wireless chip - [[rf-2.4ghz-dat]]
 
 - [[diode-flyback-dat]] == SS510
 
-![](2026-06-05-00-48-14.png)
+![](2026-06-05-00-48-14.webp)
 
 - [[capacitor-dat]]
 

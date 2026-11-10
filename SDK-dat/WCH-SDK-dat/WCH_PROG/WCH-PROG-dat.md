@@ -48,7 +48,7 @@
 
 serial CH552 download 
 
-![](2025-08-09-18-22-22.png)
+![](2025-08-09-18-22-22.webp)
 
 USB CH552 download 
 

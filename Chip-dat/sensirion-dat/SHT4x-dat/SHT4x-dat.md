@@ -16,7 +16,7 @@ The **SHT45** has an even more excellent ±1% typical relative humidity accuracy
 
 ## SCH 
 
-![](2024-12-29-13-21-21.png)
+![](2024-12-29-13-21-21.webp)
 
 
 ## ref 

@@ -12,7 +12,7 @@ The text "SMT T5A250V" refers to a Surface Mount Technology (SMT) slow-blow elec
 
 - [[ACDC-dat]] 3.15A 
 
-![](2026-05-23-17-53-42.png)
+![](2026-05-23-17-53-42.webp)
 
 
 ## fuse-glass-seal-dat // 250V
@@ -35,11 +35,11 @@ break == fast
 | 135%     | 1hours Max - （小于1小时） |
 | 200%     | 5sec Max - （小于5秒）     |
 
-![](2026-05-03-16-29-22.png)
+![](2026-05-03-16-29-22.webp)
 
 ## 2410 fast-break fuse // 125V
 
-![](2026-05-03-16-24-34.png)
+![](2026-05-03-16-24-34.webp)
 
 
 - 0.5A_125V

@@ -25,7 +25,7 @@ capacitance is compatible with high bandwidth applications and this capacitance 
 
 SMD4532 Gas Discharge Tube (GDT) series are specifically designed for protection of electrical, multimedia,and communication equipment against over voltage transients in surface mount assembly applications.
 
-![](2026-05-08-12-50-04.png)
+![](2026-05-08-12-50-04.webp)
 
 ## Applications
 

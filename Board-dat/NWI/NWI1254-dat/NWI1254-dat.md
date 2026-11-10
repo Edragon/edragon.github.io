@@ -85,7 +85,7 @@ main controller part SCH
 
 ## Demo Code and Video
 
-![](2025-12-30-14-22-20.png)
+![](2025-12-30-14-22-20.webp)
 
 note the [[RS232-dat]] interface should be twisted, wire as TX-RX and RX-TX
 

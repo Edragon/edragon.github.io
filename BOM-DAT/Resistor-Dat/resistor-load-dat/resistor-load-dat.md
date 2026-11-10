@@ -8,7 +8,7 @@
 
 RX21-10W 5RJ == 5R 
 
-![](2026-05-03-18-32-20.png)
+![](2026-05-03-18-32-20.webp)
 
 The **RX21-10W 5RJ** is a high-power wirewound resistor commonly used in industrial circuits, power supplies, and motor control projects where heat dissipation is required.
 

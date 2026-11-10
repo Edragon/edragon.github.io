@@ -62,7 +62,7 @@ The AP22652, AP22653, AP22652A, and AP22653A are single-channel, precision-adjus
 
 These devices offer a programmable current-limit threshold between 125mA and 2665mA (typ) via an external resistor. Current-limit accuracy ±10% can be achieved at high current-limit settings. The rise and fall times are controlled to minimize current surges during turn on/off.
 
-![](2025-09-04-18-51-49.png)
+![](2025-09-04-18-51-49.webp)
 
 ## audio
 

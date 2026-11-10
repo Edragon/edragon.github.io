@@ -12,7 +12,7 @@
 
 ## Signal Isolation 
 
-![](2025-05-21-16-36-06.png)
+![](2025-05-21-16-36-06.webp)
 
 - [[EL357-dat]] - [[everlight-dat]] - [[Optical-Coupler-DAT]]
 

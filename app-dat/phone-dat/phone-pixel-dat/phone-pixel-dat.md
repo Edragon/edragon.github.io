@@ -75,7 +75,7 @@ screen is very fragile, be careful when prying it open.
 
 power ic 
 
-![](2025-11-19-16-21-45.png)
+![](2025-11-19-16-21-45.webp)
 
 
 ## ref 

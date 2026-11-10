@@ -26,7 +26,7 @@ The ICS-43434 is available in a small 3.50 mm × 2.65 mm × 0.98 mm surface-moun
 
 ## SCH
 
-![](2024-12-26-14-50-40.png)
+![](2024-12-26-14-50-40.webp)
 
 
 ## code: 

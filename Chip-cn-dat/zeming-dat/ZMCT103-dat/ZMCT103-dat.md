@@ -79,7 +79,7 @@ Note: Ratio 1000:1
 
 Values are in terms of mA.
 
-![](2025-05-21-17-12-54.png)
+![](2025-05-21-17-12-54.webp)
 
 ## ref 
 

@@ -26,7 +26,7 @@ Dual LDO Regulator with ON/OFF Switch
 
 ## VRD1828
 
-![](2026-07-23-03-43-30.png)
+![](2026-07-23-03-43-30.webp)
 
 
 

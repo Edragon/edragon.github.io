@@ -19,7 +19,7 @@ WXD3-13-2W 220R470欧 1K 2.2K 4.7K 5.6K 10K 47K
 
 ## SCH 
 
-![](2025-12-21-18-23-18.png)
+![](2025-12-21-18-23-18.webp)
 
 
 ## Potentiometer, trim-pot 
@@ -80,7 +80,7 @@ However, this is not guaranteed, and you should always calibrate or measure the 
 
 ![](2026-02-12-14-20-14.webp)
 
-![](2026-02-12-14-20-23.png)
+![](2026-02-12-14-20-23.webp)
 
 
 

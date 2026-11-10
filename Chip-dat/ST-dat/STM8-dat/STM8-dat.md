@@ -23,7 +23,7 @@ app board - [[NBL1064-dat]] - [[EY-34-dat]]
 
 https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.html
 
-![](2026-04-28-15-27-52.png)
+![](2026-04-28-15-27-52.webp)
 
 
 

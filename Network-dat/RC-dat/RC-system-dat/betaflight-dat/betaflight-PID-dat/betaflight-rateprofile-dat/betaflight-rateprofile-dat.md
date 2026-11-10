@@ -24,7 +24,7 @@ Rates Type？ == Betaflight BETAFLIGHT == cinewhoop
 | PITCH            | 0.6     | 0.6     | 0.3  | 300             |
 | YAW              | 0.6     | 0.6     | 0.3  | 300             |
 
-![](2025-09-06-12-32-30.png)
+![](2025-09-06-12-32-30.webp)
 
 Lower **RC Rate** → overall slower stick response.  
 

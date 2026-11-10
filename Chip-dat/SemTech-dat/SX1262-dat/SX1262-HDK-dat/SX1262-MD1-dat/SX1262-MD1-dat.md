@@ -7,10 +7,10 @@
 
 
 
-![](2025-06-23-17-49-56.png)
+![](2025-06-23-17-49-56.webp)
 
 
-![](2025-06-23-17-49-56.png)
+![](2025-06-23-17-49-56.webp)
 
 
 Table 8: Module Pin Definition Description Table

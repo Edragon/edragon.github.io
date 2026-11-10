@@ -26,7 +26,7 @@
 
 ## combination cable 
 
-![](2026-07-08-16-07-45.png)
+![](2026-07-08-16-07-45.webp)
 
 connector 
 

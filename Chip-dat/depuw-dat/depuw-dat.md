@@ -11,7 +11,7 @@
 
 - datasheet == [[1451_DP2358-electrodragon.pdf]]
 
-![](2025-10-25-17-53-53.png)
+![](2025-10-25-17-53-53.webp)
 
 
 ## Pin Description

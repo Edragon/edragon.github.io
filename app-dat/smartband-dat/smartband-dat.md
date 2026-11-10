@@ -11,7 +11,7 @@ system == [[vibrator-dat]] - [[led-dat]] - [[display-dat]] - [[battery-charger-d
 - [[mosfet-dat]] - [[LDO-dat]] - [[transistor-dat]]
 
 
-![](2026-04-04-15-47-17.png)
+![](2026-04-04-15-47-17.webp)
 
 ![](2026-04-04-15-49-17.webp)
 

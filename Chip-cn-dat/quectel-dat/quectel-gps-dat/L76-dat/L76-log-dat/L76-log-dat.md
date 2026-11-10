@@ -48,7 +48,7 @@ data log 1
 
 GNSS data log 2 
 
-![](2024-10-10-19-27-28.png)
+![](2024-10-10-19-27-28.webp)
 
 ## demo video 
 

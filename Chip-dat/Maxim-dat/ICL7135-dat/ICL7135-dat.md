@@ -13,7 +13,7 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/icl7135.pdf
 
 ## APP 
 
-![](2026-07-24-02-12-13.png)
+![](2026-07-24-02-12-13.webp)
 
 
 ## ref 

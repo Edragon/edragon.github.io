@@ -25,7 +25,7 @@ The BK3513 most commonly refers to an integrated circuit (IC) chip manufactured 
 
 AC4101
 
-![](2026-06-02-18-54-49.png)
+![](2026-06-02-18-54-49.webp)
 
 
 JL AC1522C6230Q - [[jieli-dat]]
@@ -34,7 +34,7 @@ JL AC1522C6230Q - [[jieli-dat]]
 
 JL CF7V131-09
 
-![](2026-06-02-19-07-52.png)
+![](2026-06-02-19-07-52.webp)
 
 SPI FLASH芯片，8M-BIT大小，应该用来起缓冲作用以及存储一些开机音频、搜索到的FM电台频率吧。 - [[flash-dat]]
 

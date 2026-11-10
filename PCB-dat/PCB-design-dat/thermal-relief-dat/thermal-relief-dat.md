@@ -17,7 +17,7 @@ Thermal Relief
 
 ## setup solid in kicad 
 
-![](2026-07-02-17-40-22.png)
+![](2026-07-02-17-40-22.webp)
 
 
 

@@ -15,7 +15,7 @@ https://www.realtek.com/Product/Index?id=594&cate_id=194
 
 ## TL8189 SCH to [[F133-dat]]
 
-![](2025-08-09-16-52-56.png)
+![](2025-08-09-16-52-56.webp)
 
 
 ## ref 

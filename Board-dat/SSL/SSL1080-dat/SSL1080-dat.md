@@ -39,7 +39,7 @@ product url -
 
 ## Demo Code and Video
 
-![](2026-06-04-22-21-10.png)
+![](2026-06-04-22-21-10.webp)
 
 
 ## ref 

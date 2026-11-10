@@ -80,7 +80,7 @@ UPM1C102MPD
 
 - Capacitance:	1000 uF	
 - Voltage Rating DC:	16 VDC	
-![capacitor-x-y-dat/2026-01-25-20-38-52.png](capacitor-x-y-dat/2026-01-25-20-38-52.png)
+![capacitor-x-y-dat/2026-01-25-20-38-52.png](capacitor-x-y-dat/2026-01-25-20-38-52.webp)
 - Length:	31.5 mm	
 - Lead Spacing:	5 mm
 - Product:	Low Impedance Electrolytic Capacitors
@@ -184,7 +184,7 @@ The capacitor blocks DC from the source, letting only the AC audio signal pass.
 
 ### monolithic ceramic capacitor
 
-![](2025-05-25-19-21-13.png)
+![](2025-05-25-19-21-13.webp)
 
 - 20pF_±10%_50V (50只)
 - 22pF_±10%_50V (50只)

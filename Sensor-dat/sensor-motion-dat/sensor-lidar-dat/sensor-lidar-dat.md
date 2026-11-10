@@ -6,7 +6,7 @@ LIDAR (Light Detection and Ranging) sensors use laser light to measure distances
 
 ## products 
 
-![](2026-04-04-17-27-10.png)
+![](2026-04-04-17-27-10.webp)
 
 ![](2026-04-04-17-27-36.webp)
 

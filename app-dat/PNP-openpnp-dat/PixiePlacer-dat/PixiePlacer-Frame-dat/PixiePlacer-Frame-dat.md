@@ -168,7 +168,7 @@ Connect the 4x Alu_Extrusion_Leg_200mm and 2 Alu_Extrusion_Crossbeam_724mm toget
 
 M5_T_Nut + Socket_Cap_Screw_M5x10mm
 
-![](1.png)
+![](1.webp)
 
 
 
@@ -183,7 +183,7 @@ Add the 2x Alu_Extrusion_Bed_Support_520mm and connect them with Alu_L_Bracket.
 
 Add the Alu_Extrusion_Y-Axis_600mm and Linear Rails MGN12H_600mm.
 
-![](3.png)
+![](3.webp)
 
 4. working bed and base 
 
@@ -191,7 +191,7 @@ Cut the Machine Bed to size and mount it to the machine. It consists of the top 
 
 Bolt the Bottom_Mounting_Plate to the underside of the machine.
 
-![](4.png)
+![](4.webp)
 
 5. real look 
 

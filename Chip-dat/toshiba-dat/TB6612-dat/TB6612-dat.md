@@ -32,7 +32,7 @@ control pins group B: PWMB, BAIN1, BIN2
 
 extra control : STBY
 
-![](2025-06-15-13-27-08.png)
+![](2025-06-15-13-27-08.webp)
 
 - [[mosfet-dat]]
 

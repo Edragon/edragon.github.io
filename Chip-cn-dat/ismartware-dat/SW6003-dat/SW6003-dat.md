@@ -27,7 +27,7 @@ SW6003 是一款高集成度的 Type-C 移动电源专用多合一芯片，支�
 
 build 1 
 
-![](2026-10-14-02-17-45.png)
+![](2026-10-14-02-17-45.webp)
 
 - [[IP6805-dat]] - [[injoinic-dat]] - [[power-wireless-dat]]
 

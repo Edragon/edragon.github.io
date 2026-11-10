@@ -11,4 +11,4 @@
 
 - DS-PDF - [[Arduino-Sensor-Shield-with-XBee-Shield-schematics.pdf]]
 
-![](2024-01-13-12-16-40.png)
+![](2024-01-13-12-16-40.webp)

@@ -44,7 +44,7 @@ where:
 
 cut off SJ3 first to use the ADC ladder. 
 
-![](../../Voltage-dat/voltage-divider-dat/2025-05-14-18-12-31.png)
+![](../../Voltage-dat/voltage-divider-dat/2025-05-14-18-12-31.webp)
 
 - [[ESP8266-dat]]
 

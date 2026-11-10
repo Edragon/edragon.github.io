@@ -71,7 +71,7 @@ https://github.com/ikarus23/MifareClassicTool  – Available for download at Goo
 
 The appropriately named Chinese Magic Card allows for sector 0 writing, with re-writing capability advertised in the order of 100,000 times. 
 
-![](2026-02-15-02-27-00.png)
+![](2026-02-15-02-27-00.webp)
 
 The NFC ACR122U is a cost-friendly option for high frequency (13.56MHz) reading, writing, and cloning. Not only supported with useful open source software, but the reader/writer can also be interfaced with the NFC (near field connection) features of NFC compliant mobile phones.
 

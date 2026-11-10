@@ -20,7 +20,7 @@ control by LCD_PWM
 
 ## application circuit
 
-![](2025-08-09-17-14-08.png)
+![](2025-08-09-17-14-08.webp)
 
 
 

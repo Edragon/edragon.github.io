@@ -57,7 +57,7 @@ Beyond balancing, a Passive BMS provides four critical safety layers:
 - [[injoinic-dat]] - [[IP2326-dat]]
 
 
-![](2025-09-11-20-23-46.png)
+![](2025-09-11-20-23-46.webp)
 
 
 

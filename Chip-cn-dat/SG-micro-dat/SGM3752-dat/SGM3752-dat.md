@@ -12,7 +12,7 @@
 
 38V High Efficiency, Boost White LED Driver with PWM Dimming Control
 
-![](2026-05-23-15-24-02.png)
+![](2026-05-23-15-24-02.webp)
 
 
 

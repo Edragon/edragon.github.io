@@ -1,7 +1,7 @@
 
 # LM75-dat
 
-![](2024-07-08-18-39-35.png)
+![](2024-07-08-18-39-35.webp)
 
 https://www.analog.com/media/en/technical-documentation/data-sheets/lm75.pdf
 

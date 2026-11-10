@@ -5,14 +5,14 @@
 
 ## boot 
 
-![](2025-07-16-13-56-44.png)
+![](2025-07-16-13-56-44.webp)
 
     ***** EAGLE DRIVER USER:bdf5087c3deb *****
     esp_sdio_init ----- RETRY -----
 
 - a problem of the wrong module 
 
-![](2025-07-16-14-27-05.png)
+![](2025-07-16-14-27-05.webp)
 
 ## prebuilt image
 

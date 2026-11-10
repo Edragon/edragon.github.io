@@ -69,9 +69,9 @@ VH housing, plug, 3.96mm pitch, connector 2P/3/4/5/6/7/8/9/10/12P (10 pieces)
 
 5557-4.2mm pitch series connectors: straight pin headers/bent pin headers/male housings/terminal springs
 
-![](2026-02-06-19-25-53.png)
+![](2026-02-06-19-25-53.webp)
 
-![](2026-02-06-19-26-11.png)
+![](2026-02-06-19-26-11.webp)
 
 ## 7.62 mm 
 
@@ -100,7 +100,7 @@ CE-1X CE-2X Closed-End Terminals, Nipple/Tooth Wire Connectors, Quick-Connect Ca
 
 no thing block and then push again 
 
-![](2025-04-08-17-15-02.png)
+![](2025-04-08-17-15-02.webp)
 
 
 

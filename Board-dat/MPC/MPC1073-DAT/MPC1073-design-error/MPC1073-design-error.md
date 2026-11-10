@@ -46,13 +46,13 @@ Best regards,
 ## How to Fix
 
 MPC1073 RPI Matrix Drive Board, Error Overview
-![](2023-09-12-12-38-09.png)
+![](2023-09-12-12-38-09.webp)
 
 Error Zoom In
 ![](2023-09-12-12-38-19.png)
 
 Apply the fix: cut off the two yellow lines, solder a fly-wire on green line
-![](2023-09-12-12-38-29.png)
+![](2023-09-12-12-38-29.webp)
 
 This is how it looks finally, we cut it on a different place, but works the same
 ![](2023-09-12-12-38-37.webp)

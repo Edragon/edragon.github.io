@@ -25,7 +25,7 @@ input signal voltage on the left, power supply and output current on the right
 
 #### Pins 
 
-![](25-42-16-26-06-2023.png)
+![](25-42-16-26-06-2023.webp)
 
 - [[LM324-dat]] - [[LM358-dat]]
 

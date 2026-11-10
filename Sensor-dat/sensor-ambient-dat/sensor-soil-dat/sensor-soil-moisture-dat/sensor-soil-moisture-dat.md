@@ -93,7 +93,7 @@ As soil moisture increases, the dielectric constant of the soil rises, and the s
 - 尺寸: 98 x 23mm (LxW)  
 
 
-![](2026-02-11-16-36-01.png)
+![](2026-02-11-16-36-01.webp)
 
 
 ### 🌿 3. Time Domain Reflectometry (TDR)

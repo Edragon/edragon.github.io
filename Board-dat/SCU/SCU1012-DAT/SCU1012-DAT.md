@@ -16,7 +16,7 @@ all metal gears / 13KG.cm torque /
 
 
 
-![](2025-12-05-19-28-38.png)
+![](2025-12-05-19-28-38.webp)
 
 ## Applications, categories, tags
 

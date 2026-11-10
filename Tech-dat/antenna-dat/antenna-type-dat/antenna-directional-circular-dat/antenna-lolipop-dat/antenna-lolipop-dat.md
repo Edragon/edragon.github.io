@@ -24,7 +24,7 @@
 
 ## lolipop inside 
 
-![](2026-09-23-03-14-35.png)
+![](2026-09-23-03-14-35.webp)
 
 
 
@@ -81,7 +81,7 @@ mushroom + lolipop == 3dbi
 
 ## with installation hole 
 
-![](2026-09-23-02-37-31.png)
+![](2026-09-23-02-37-31.webp)
 
 - [[installation-antenna-dat]] - [[antenna-lolipop-dat]]
 

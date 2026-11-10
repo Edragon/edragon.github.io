@@ -37,9 +37,9 @@ Ensure the snubber can absorb and dissipate this energy safely.
 
 A **three-phase electronic arc suppressor** is used to eliminate electrical arcing when contactors open, especially in circuits with **three-phase induction motors**. Its core is a **series RC circuit (resistor + capacitor)** connected in **parallel** across each contact of the contactor.
 
-![](2025-07-09-01-57-46.png)
+![](2025-07-09-01-57-46.webp)
 
-![](2025-07-09-01-58-05.png)
+![](2025-07-09-01-58-05.webp)
 
 ![](2025-07-09-01-58-23.webp)
 

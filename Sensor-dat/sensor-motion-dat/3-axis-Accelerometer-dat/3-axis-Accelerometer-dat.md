@@ -29,7 +29,7 @@
 
 - [[SC7A20H-dat]] - Hangzhou Silan Microelectronics SC7A20HTR - Three-axis micromachined digital accelerometer
 
-![](2026-07-24-03-24-50.png)
+![](2026-07-24-03-24-50.webp)
 
 TW-213模块是一款用于测量3轴加速度的低功耗高精度传感器，具有低成本和高性能的特征，已被广泛应用于低功耗物联网产品以及智能手环等穿戴式电子设备上，具体可适用于计步、振动监测等应用场景。
 

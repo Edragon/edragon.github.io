@@ -30,7 +30,7 @@ V2 add [[USB-receptacle-dat]] and [[USB-plug-dat]] options, pin-to-pin compatibl
 
 V1 plug fixed solder version (left)
 
-![](2026-09-13-14-20-06.png)
+![](2026-09-13-14-20-06.webp)
 
 V2 unsoldered version 
 

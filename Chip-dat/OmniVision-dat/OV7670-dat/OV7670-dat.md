@@ -10,7 +10,7 @@
 - All image processing functions including gamma curve, white balance, saturation, color, etc. can be programmed through the SCCB interface.
 
 
-![](2023-11-08-13-44-44.png)
+![](2023-11-08-13-44-44.webp)
 
 ![](2023-11-08-13-45-09.webp)
 
@@ -73,7 +73,7 @@ setup
 
 ## SCH 
 
-![](2026-07-23-17-49-21.png)
+![](2026-07-23-17-49-21.webp)
 
 
 ## ref 

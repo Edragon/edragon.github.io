@@ -15,7 +15,7 @@ cross connector 1
 
 cross connector 2 - customized locker 
 
-![](2025-12-12-12-37-18.png)
+![](2025-12-12-12-37-18.webp)
 cross connector 3 - purpose for water tube 
 
 ![](2025-12-12-12-37-08.webp)

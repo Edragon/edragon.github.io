@@ -99,7 +99,7 @@ If you are configuring networking on a software router, Raspberry Pi, or embedde
 ## build 
 
 
-![](2025-09-30-21-30-18.png)
+![](2025-09-30-21-30-18.webp)
 
 ZXIC 
 

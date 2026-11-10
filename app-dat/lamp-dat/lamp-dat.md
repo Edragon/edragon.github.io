@@ -5,7 +5,7 @@
 ## build 1 
 
 
-![](2026-08-09-18-06-46.png)
+![](2026-08-09-18-06-46.webp)
 
 wires 
 
@@ -17,7 +17,7 @@ shell connected to the earth
 
 wire bundles 
 
-![](2026-08-09-18-09-11.png)
+![](2026-08-09-18-09-11.webp)
 
 
 - [[nut-dat]] - [[lead-screw-dat]] 

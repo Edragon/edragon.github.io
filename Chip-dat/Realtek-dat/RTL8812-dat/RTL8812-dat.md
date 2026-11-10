@@ -43,7 +43,7 @@ RTL8812EUA
 
 build 1 
 
-![](2026-10-02-02-21-44.png)
+![](2026-10-02-02-21-44.webp)
 
 - [[TPS5430-dat]] - [[dcdc-down-dat]] - [[TPS5450-dat]] - [[RTL8812-dat]]
 

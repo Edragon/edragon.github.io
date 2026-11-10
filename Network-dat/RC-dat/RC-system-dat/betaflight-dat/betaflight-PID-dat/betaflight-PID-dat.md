@@ -14,7 +14,7 @@
 
 ![](2025-09-15-03-21-05.webp)
 
-![](2025-09-15-03-21-23.png)
+![](2025-09-15-03-21-23.webp)
 
 - suspension == spring + damper
 
@@ -118,7 +118,7 @@ Note: Generally overshoot in flips and rolls is due to not enough 'i-Term Relax'
 
 use PIDtoolbox to find the best value
 
-![](2025-09-15-03-32-43.png)
+![](2025-09-15-03-32-43.webp)
 
 
 ### Master Multiplier
@@ -158,10 +158,10 @@ optimized for indoor fly
 
 ### slider screenshort 
 
-![](2025-09-03-14-41-34.png)
+![](2025-09-03-14-41-34.webp)
 
 
-![](2025-09-03-14-45-29.png)
+![](2025-09-03-14-45-29.webp)
 
 
 
@@ -253,7 +253,7 @@ indoor
 
 - 2" == 30
 
-![](2025-09-15-03-29-48.png)
+![](2025-09-15-03-29-48.webp)
 
 
 

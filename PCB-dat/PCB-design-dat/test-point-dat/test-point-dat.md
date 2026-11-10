@@ -136,7 +136,7 @@ add points like
 
 ## press test rig V3 
 
-![](2025-09-30-21-24-36.png)
+![](2025-09-30-21-24-36.webp)
 
 - test OK with [[JLINK-dat]]
 
@@ -145,7 +145,7 @@ add points like
 
 0.8mm diameter pin 
 
-![](2025-09-25-12-36-28.png)
+![](2025-09-25-12-36-28.webp)
 
 ![](2025-09-25-12-36-56.webp)
 
@@ -202,7 +202,7 @@ PRE-VGH == 20V
 
 ## custom rig 
 
-![](2025-09-23-17-49-48.png)
+![](2025-09-23-17-49-48.webp)
 
 ## ref 
 

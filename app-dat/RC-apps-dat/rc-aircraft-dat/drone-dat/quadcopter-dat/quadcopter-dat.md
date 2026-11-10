@@ -91,7 +91,7 @@ https://cleanflight.com/
 
 ### CJMCU 
 
-![](2025-01-29-17-12-32.png)
+![](2025-01-29-17-12-32.webp)
 
 - https://www.rcgroups.com/forums/showthread.php?2456739-Openpilot-port-to-CJMCU-stm32-quadcopter
 

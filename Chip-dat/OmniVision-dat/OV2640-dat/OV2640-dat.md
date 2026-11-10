@@ -18,7 +18,7 @@ OV2640 Camera Module 2 Million Pixels HDF3M-811
 
 ## specs 
 
-![](2025-03-28-16-31-36.png)
+![](2025-03-28-16-31-36.webp)
 
 ## SCH w/ESP32
 
@@ -30,7 +30,7 @@ power supply - [[LDO-dat]] - [[LDO-2CH-dat]]
 
 SCH3 
 
-![](2025-11-01-19-30-22.png)
+![](2025-11-01-19-30-22.webp)
 
 SCH4 
 

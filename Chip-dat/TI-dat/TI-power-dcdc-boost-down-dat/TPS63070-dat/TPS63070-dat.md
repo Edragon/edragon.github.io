@@ -17,7 +17,7 @@ https://www.ti.com/lit/ds/symlink/tps63070.pdf
 
 VOUT == 7 and 8 
 
-![](2026-09-16-21-52-30.png)
+![](2026-09-16-21-52-30.webp)
 
 ## SCH 
 

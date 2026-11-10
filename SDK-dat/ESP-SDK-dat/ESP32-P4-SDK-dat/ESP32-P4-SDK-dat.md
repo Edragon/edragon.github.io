@@ -98,7 +98,7 @@ This example, based on ESP_Brookesia, demonstrates an Android-like interface wit
    ```
 3. Open your project, select the esp32p4 core, then click the 🔥 (build/flash/monitor) button. When complete, you should see the screen:
 
-![](2025-08-09-13-46-13.png)
+![](2025-08-09-13-46-13.webp)
 
 ## ref 
 

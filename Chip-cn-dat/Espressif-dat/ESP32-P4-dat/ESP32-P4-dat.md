@@ -81,7 +81,7 @@ Advantages:
 
 SCH 2 
 
-![](ESP32-P4-WIFI6-datasheet.png)
+![](ESP32-P4-WIFI6-datasheet.webp)
    
 ## ref 
 

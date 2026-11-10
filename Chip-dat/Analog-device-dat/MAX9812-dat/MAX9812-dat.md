@@ -24,7 +24,7 @@ The  MAX9812/MAX9813  are  offered  in  two  grades.  The MAX9812L/MAX9813L  are
 
 The  MAX9812H/MAX9813H  are PC2001  compliant  and  are  optimized  for  5V  operation (4.5V to 5.5V). Both devices are specified over the -40°C to +85°C extended operating temperature range.
 
-![](2025-04-01-14-00-42.png)
+![](2025-04-01-14-00-42.webp)
 
 
 
@@ -37,12 +37,12 @@ MAX9812
 
 MAX9813 
 
-![](2025-04-01-14-22-04.png)
+![](2025-04-01-14-22-04.webp)
 
 
 ## arduino connection 
 
-![](2025-04-01-14-04-00.png)
+![](2025-04-01-14-04-00.webp)
 
 ## demo code 
 

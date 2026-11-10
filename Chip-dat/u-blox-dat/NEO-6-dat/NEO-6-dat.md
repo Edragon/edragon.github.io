@@ -36,7 +36,7 @@ The NEO-6M is a compact and efficient GPS receiver module from [[u-blox-dat]]. I
 
 ## SCH
 
-![](2026-01-17-21-48-32.png)
+![](2026-01-17-21-48-32.webp)
 
 - [[MAX2659-dat]] - [[RF-amplifier-dat]]
 

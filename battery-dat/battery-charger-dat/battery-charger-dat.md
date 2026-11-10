@@ -355,7 +355,7 @@ unknown chip - three level charging status
 PAB01A - REFSH7100 2325AASAE
 
 
-![](2026-06-16-20-58-21.png)
+![](2026-06-16-20-58-21.webp)
 
 
 

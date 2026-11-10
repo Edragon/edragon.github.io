@@ -43,9 +43,9 @@ High Efficiency, Synchronous, 4-Switch Buck-Boost Controller
 ## build 
 
 
-![](2026-06-15-19-07-54.png)
+![](2026-06-15-19-07-54.webp)
 
-![](2026-06-15-19-09-33.png)
+![](2026-06-15-19-09-33.webp)
 
 
 ## ref 

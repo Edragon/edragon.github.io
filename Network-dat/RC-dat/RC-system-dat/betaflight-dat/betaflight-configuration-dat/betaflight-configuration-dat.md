@@ -34,7 +34,7 @@ In some newer versions of Betaflight Configurator:
 3. Check the box for **BEEPER** (and ensure DShot is selected as your motor protocol in the same tab).
 4. Click **Save and Reboot**.
 
-![](2026-09-04-17-57-26.png)
+![](2026-09-04-17-57-26.webp)
 
 
 ### Dshot Beacon Configuration

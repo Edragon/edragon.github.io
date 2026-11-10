@@ -44,7 +44,7 @@
 
 ## BX-CT Specifications
 
-![](2025-06-11-15-45-27.png)
+![](2025-06-11-15-45-27.webp)
 
 | left   | middle | right |
 | ------ | ------ | ----- |
@@ -72,7 +72,7 @@ Here's a breakdown:
 
 ## Other Form 
 
-![](2025-05-20-13-02-25.png)
+![](2025-05-20-13-02-25.webp)
 
 
 

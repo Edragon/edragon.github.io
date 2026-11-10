@@ -31,7 +31,7 @@
 
 `TPS3808` Low-Quiescent-Current, Programmable-Delay Supervisory Circuit
 
-![](2026-11-10-01-29-07.png)
+![](2026-11-10-01-29-07.webp)
 
 
 
@@ -64,7 +64,7 @@ TPS3820,TPS3823,TPS3824,TPS3825,TPS3828
 
 1.5A USB-FRIENDLY Li-Ion BATTERY CHARGER AND POWER-PATH MANAGEMENT IC
 
-![](2026-02-12-19-20-12.png)
+![](2026-02-12-19-20-12.webp)
 
 
 
@@ -74,7 +74,7 @@ TPS3820,TPS3823,TPS3824,TPS3825,TPS3828
 
 BQ24650 Stand-Alone Synchronous Buck Battery Charge Controller for Solar Power With Maximum Power Point Tracking
 
-![](2026-02-12-19-17-09.png)
+![](2026-02-12-19-17-09.webp)
 
 
 dq29330 + bq8030
@@ -97,7 +97,7 @@ TPS7350QDR == 500-mA, 10-V, low-dropout voltage regulator with power good & enab
 
 ## LP2985 
 
-![](2026-02-12-21-26-21.png)
+![](2026-02-12-21-26-21.webp)
 
 [LP2985 150mA, Low-Noise, Low-Dropout Regulator With Shutdown](https://www.ti.com/lit/ds/symlink/lp2985.pdf)
 
@@ -224,7 +224,7 @@ Use a regulator family designed for paralleling
 
 - [[BT24075-dat]] - [[TI-power-dat]]
 
-![](2026-02-10-16-44-18.png)
+![](2026-02-10-16-44-18.webp)
 
 
 ## ref 

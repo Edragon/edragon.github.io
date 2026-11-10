@@ -47,7 +47,7 @@
 | **Weight**                   | ~8.2 g (camera + unit)                        | ~32 g (camera + unit)                                     |
 | **Best Use Case**            | Lightweight builds (2-inch racing, freestyle) | Cinematic FPV, 3-inch+ builds, higher image quality needs |
 
-![](2025-09-16-16-38-18.png)
+![](2025-09-16-16-38-18.webp)
 
 
 ![](2025-09-16-16-41-03.webp)

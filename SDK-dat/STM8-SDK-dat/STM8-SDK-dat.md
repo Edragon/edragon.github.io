@@ -19,7 +19,7 @@
 
 ### Upload code via SWIM 
 
-![](2024-07-05-18-05-02.png)
+![](2024-07-05-18-05-02.webp)
 
 * Install `ST toolset`, which include `ST visual programmer`
 * Connect your ST-LINK, `SWIM`, `RST`, `VCC` better 3.3V, `GND`.

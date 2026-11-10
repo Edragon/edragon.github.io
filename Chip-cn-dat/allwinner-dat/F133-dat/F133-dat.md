@@ -92,7 +92,7 @@ If you're building a smart camera or want Allwinner's AI SDKs: F133/V851s is pre
 ## application diagram 
 
 
-![](2025-08-08-15-26-46.png)
+![](2025-08-08-15-26-46.webp)
 
 ![](2025-08-08-15-26-15.webp)
 

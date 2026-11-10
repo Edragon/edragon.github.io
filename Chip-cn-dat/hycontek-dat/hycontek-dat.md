@@ -57,7 +57,7 @@ The series of HY2213 is created for multi-cell battery packs to single-cell lith
 
 ## boards 
 
-![](2026-02-12-20-59-38.png)
+![](2026-02-12-20-59-38.webp)
 
 
 

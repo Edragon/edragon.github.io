@@ -66,7 +66,7 @@ These are highly efficient and keep the output shaft in line with the motor shaf
 ![](2026-03-02-20-51-45.webp)
 
 
-![](2026-03-06-16-35-06.png)
+![](2026-03-06-16-35-06.webp)
 
 outter gear == "sun" gear 
 
@@ -76,7 +76,7 @@ inner gear == "Clutch" gear
 
 ![](2026-03-06-16-40-11.png)
 
-![](2026-03-06-16-40-30.png)
+![](2026-03-06-16-40-30.webp)
 
 ![](2026-03-06-16-52-10.webp)
 
@@ -87,7 +87,7 @@ inner and outter pair
 
 just more nice examples 
 
-![](2026-03-14-13-18-38.png)
+![](2026-03-14-13-18-38.webp)
 
 double planetary gearbox 
 
@@ -120,14 +120,14 @@ ratio 1:1 dimension 50x50x25mm
 
 - this specially for motor 5555 - [[metal-dat]] - [[metal-molded-dat]]
 
-![](2026-03-06-16-55-12.png)
+![](2026-03-06-16-55-12.webp)
 
 
 ### angular gearbox 
 
 - [[gear-bevel-dat]]
 
-![](2026-03-06-16-56-32.png)
+![](2026-03-06-16-56-32.webp)
 
 
 
@@ -139,7 +139,7 @@ ratio 1:1 dimension 50x50x25mm
 
 RC clawer gearbox 
 
-![](2025-12-10-15-21-24.png)
+![](2025-12-10-15-21-24.webp)
 
 
 work with [[motor-stepper-dat]] - [[motor-brushless-dat]] - [[motor-servo-dat]]
@@ -148,13 +148,13 @@ work with [[motor-stepper-dat]] - [[motor-brushless-dat]] - [[motor-servo-dat]]
 
 meta cutting full metal gears 
 
-![](2026-03-06-16-34-27.png)
+![](2026-03-06-16-34-27.webp)
 
 ### gearbox to sprocket 
 
 - [[sprocket-dat]]
 
-![](2026-03-06-17-05-11.png)
+![](2026-03-06-17-05-11.webp)
 
 ![](2026-03-06-17-05-42.webp)
 

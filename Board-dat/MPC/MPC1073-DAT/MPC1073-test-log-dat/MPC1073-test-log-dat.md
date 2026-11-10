@@ -115,7 +115,7 @@ cmd
 
     ./demo -D 1 runtext.ppm --led-no-hardware-pulse --led-slowdown-gpio=4 --led-cols=64 --led-rows=32
 
-![](2024-11-07-18-13-31.png)
+![](2024-11-07-18-13-31.webp)
 
 ![](2024-11-07-18-13-39.webp)
 

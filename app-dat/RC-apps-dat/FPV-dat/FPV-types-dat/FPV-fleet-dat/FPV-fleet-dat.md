@@ -26,7 +26,7 @@
 
 - [[JHEMCU-dat]] - [[FPV-fleet-dat]] 
 
-![](2026-10-01-00-28-34.png)
+![](2026-10-01-00-28-34.webp)
 
 
 ## fleet core compare 

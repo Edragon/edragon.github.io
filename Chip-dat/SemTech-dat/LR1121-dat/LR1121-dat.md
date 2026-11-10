@@ -43,7 +43,7 @@ https://www.semtech.com/products/wireless-rf/lora-connect/lr1121
 
 ## SCH 
 
-![](2026-04-14-20-10-47.png)
+![](2026-04-14-20-10-47.webp)
 
 
 

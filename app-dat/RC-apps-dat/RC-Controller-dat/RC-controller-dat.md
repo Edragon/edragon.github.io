@@ -31,7 +31,7 @@
 
 may add new-user-friendly yaw: `weight` = 80, `expo` == 25
 
-![](2026-09-04-19-01-03.png)
+![](2026-09-04-19-01-03.webp)
 
 
 
@@ -46,7 +46,7 @@ A Roll E Pitch R Yaw T Throttle
 
 Roll Pitch Yaw Throttle
 
-![](2025-09-03-12-17-19.png)
+![](2025-09-03-12-17-19.webp)
 
 
 
@@ -101,7 +101,7 @@ Roll Pitch Yaw Throttle
 14. If oscillations appear → reduce Roll P or Roll D by small steps (-1).  
 15. Check Motor Idle value: `Configuration → DShot Idle` around **5%** (or min_command ≈1050).
 
-![](2025-09-03-12-23-28.png)
+![](2025-09-03-12-23-28.webp)
 
 - Reset to Betaflight **default PIDs** for Mobula8 (start clean).
 - Reduce **Roll/Pitch P by 10%** if oscillations occur.

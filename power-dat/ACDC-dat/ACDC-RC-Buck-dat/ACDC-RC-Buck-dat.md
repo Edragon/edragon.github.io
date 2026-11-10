@@ -20,7 +20,7 @@
 
 ## SCH 
 
-![](2026-03-05-18-22-11.png)
+![](2026-03-05-18-22-11.webp)
 
 Capacitive dropper power supply principle and related calculations — suitable for low-cost designs with relatively low interference immunity (minor additions).
 
@@ -69,7 +69,7 @@ In general, although full-wave rectification yields slightly more current, the f
 - This circuit is not isolated from the 220 V mains — be very careful to avoid electric shock.
 - The dropper capacitor must be connected to the live (hot) line, have a sufficiently high voltage rating (≥ 400 V), and preferably be series-protected with an inrush/surge resistor and paralleled by a discharge resistor.
 
-![](2026-03-05-18-23-27.png)
+![](2026-03-05-18-23-27.webp)
 
 
 ## build 
@@ -87,9 +87,9 @@ build 3 - [[fuse-dat]] - [[capacitor-safety-dat]] - [[capacitor-x-y-dat]] - [[Th
 
 APP 1 
 
-![](2025-09-01-20-31-10.png) 
+![](2025-09-01-20-31-10.webp) 
 
-![](2025-09-01-20-31-20.png)
+![](2025-09-01-20-31-20.webp)
 
 ![](2025-09-01-20-31-32.png)
 

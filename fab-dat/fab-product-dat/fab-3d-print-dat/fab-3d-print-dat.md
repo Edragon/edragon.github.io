@@ -79,7 +79,7 @@
 
 extra piece glued to a phone case, as a thread converter 
 
-![](2026-02-16-11-50-58.png)
+![](2026-02-16-11-50-58.webp)
 
 - [[lens-dat]]
 

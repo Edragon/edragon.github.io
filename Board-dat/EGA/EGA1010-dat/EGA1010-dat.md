@@ -4,7 +4,7 @@
 
 ## MicroSD Cards Holder - EGA1007
 
-![](2024-06-12-16-33-21.png)
+![](2024-06-12-16-33-21.webp)
 
 - 8x microSD
 - 1x SD

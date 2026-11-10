@@ -10,7 +10,7 @@
 
 ![](2025-11-14-18-58-48.webp)
 
-![](2025-11-14-18-59-01.png)
+![](2025-11-14-18-59-01.webp)
 
 
 ### Basic Operation Steps
@@ -35,7 +35,7 @@
 
 BOM list 
 
-![](2025-11-14-19-00-45.png)
+![](2025-11-14-19-00-45.webp)
 
 
 
@@ -138,7 +138,7 @@ Directly connecting a coil to a DC power supply **does create a static magnetic 
 
 multiple coils 
 
-![](2025-10-02-16-10-20.png)
+![](2025-10-02-16-10-20.webp)
 
 
 
@@ -169,7 +169,7 @@ button == 讯灵 KD2 - [[button-dat]]
 
 ![](2026-05-15-14-10-08.png)
 
-![](2026-05-15-14-10-22.png)
+![](2026-05-15-14-10-22.webp)
 
 
 

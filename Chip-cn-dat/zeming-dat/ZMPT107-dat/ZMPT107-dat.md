@@ -29,7 +29,7 @@ ZMPT107-1
 - Packaging: Boxed
 - Quality: 100% brand new, original and genuine
 
-![](2024-12-04-18-43-01.png)
+![](2024-12-04-18-43-01.webp)
 
 Note: ratio: 1000:1000
 

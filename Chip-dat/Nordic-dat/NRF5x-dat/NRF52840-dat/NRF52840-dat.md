@@ -195,7 +195,7 @@ peripherals  - [[peripherals-dat]]
 
 ### SCH1 
 
-![](2025-07-09-12-46-39.png)
+![](2025-07-09-12-46-39.webp)
 
 - button == P1.10 
 - REST == P0.18/RESET 
@@ -213,7 +213,7 @@ peripherals  - [[peripherals-dat]]
 
 - [[ebyte-dat]]
 
-![](2026-03-04-20-22-25.png)
+![](2026-03-04-20-22-25.webp)
 
 
 

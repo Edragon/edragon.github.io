@@ -17,7 +17,7 @@ Boost will be enabled by pressing the KEY or insertion a load at standby mode wh
 
 ## APP 
 
-![](2026-06-15-16-01-35.png)
+![](2026-06-15-16-01-35.webp)
 
 
 

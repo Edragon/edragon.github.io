@@ -16,7 +16,7 @@ https://github.com/blheli-configurator/blheli-configurator/releases
 
 ## first launch
 
-![](2025-09-12-20-52-07.png)
+![](2025-09-12-20-52-07.webp)
 
 ## flash 
 

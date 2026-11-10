@@ -45,7 +45,7 @@ Supported e-paper drivers: UC8176 / UC8276 / SSD1619 / SSD1683 / JD79668 (black 
 
 Also supports custom mapping of e-paper display pins to the MCU, sleep/wake (NFC / wireless charger), and Bluetooth OTA firmware
 
-![](2025-08-27-12-42-58.png)
+![](2025-08-27-12-42-58.webp)
 
 original code - https://github.com/tsl0922/EPD-nRF5
 

@@ -25,7 +25,7 @@ pair
 
 ![](2026-10-02-02-41-36.webp)
 
-![](2026-10-02-02-54-40.png)
+![](2026-10-02-02-54-40.webp)
 
 
 ## Info 
@@ -49,7 +49,7 @@ overview
 
 FPC down flip 
 
-![](53-53-16-17-07-2023.png)
+![](53-53-16-17-07-2023.webp)
 
 
 
@@ -57,7 +57,7 @@ FPC upper flip
 
 ![](41-53-16-17-07-2023.webp)
 
-![](32-14-18-03-08-2023.png)
+![](32-14-18-03-08-2023.webp)
 
 
 
@@ -70,7 +70,7 @@ THD0510－xxCL－GF == datasheet [[THD0510-xxCL-GF.pdf]]
 - FPC-SMD_9P-P0.50_THD0510-09CL-GF
 - FPC-SMD_5P-P0.50_THD0510-05CL-GF == 间距:0.5mm P数:5P 翻盖式 下接
 
-![](2025-07-14-01-04-01.png)
+![](2025-07-14-01-04-01.webp)
 
 ![](2025-07-14-01-04-59.webp)
 
@@ -101,7 +101,7 @@ Use low-temperature solder [[solder-paste-dat]] to tin the pads first, then clea
 
 For ordering at JLCPCB, define a seperate layer for your stiffeners, like I did here:
 
-![](2025-08-28-15-39-53.png)
+![](2025-08-28-15-39-53.webp)
 
 This design actually has an FR4 and a polyimide stiffener, so two layers.
 
@@ -110,7 +110,7 @@ This design actually has an FR4 and a polyimide stiffener, so two layers.
 
 - 16P pin 
 
-![](2026-10-31-18-42-25.png)
+![](2026-10-31-18-42-25.webp)
 
 
 

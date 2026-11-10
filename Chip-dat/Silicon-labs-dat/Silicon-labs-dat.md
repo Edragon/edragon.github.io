@@ -28,7 +28,7 @@ https://www.silabs.com/documents/public/data-sheets/C8051F32x.pdf
 
 ## SI4713-dat
 
-![](2025-07-13-03-32-19.png)
+![](2025-07-13-03-32-19.webp)
 
 
 

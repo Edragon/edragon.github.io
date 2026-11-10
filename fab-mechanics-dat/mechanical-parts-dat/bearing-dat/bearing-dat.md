@@ -116,7 +116,7 @@ These use balls or rollers to reduce friction.
 
 ## bearing apps 
 
-![](2026-02-28-20-07-00.png)
+![](2026-02-28-20-07-00.webp)
 
 
 

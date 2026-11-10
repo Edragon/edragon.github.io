@@ -29,7 +29,7 @@ FB = pin 4
 
 
 
-![](2026-04-19-14-06-22.png)
+![](2026-04-19-14-06-22.webp)
 
 - [[resistor-dat]] - [[resistor-feedback-dat]]
 

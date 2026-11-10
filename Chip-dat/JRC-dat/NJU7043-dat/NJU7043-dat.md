@@ -11,7 +11,7 @@ Dual CMOS Operational Amplifier
 
 ## SCH 
 
-![](2026-08-01-16-06-55.png)
+![](2026-08-01-16-06-55.webp)
 
 
 

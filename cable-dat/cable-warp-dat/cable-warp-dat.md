@@ -4,11 +4,11 @@
 
 ## plastic tube 
 
-![](2025-06-06-18-21-40.png)
+![](2025-06-06-18-21-40.webp)
 
 ## spiral cable wrap
 
-![](2025-06-06-18-20-05.png)
+![](2025-06-06-18-20-05.webp)
 
 spiral cable wrap is used to protect the cable from abrasion and damage, it can also be used to organize cables in a neat manner.
 

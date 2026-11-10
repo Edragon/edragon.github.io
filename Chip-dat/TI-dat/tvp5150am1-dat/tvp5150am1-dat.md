@@ -14,12 +14,12 @@ Ultralow-Power NTSC/PAL/SECAM Video Decoder
 
 ## diagram 
 
-![](2026-10-28-03-47-50.png)
+![](2026-10-28-03-47-50.webp)
 
 
 
 ## apps 
 
-![](2026-10-28-03-49-00.png)
+![](2026-10-28-03-49-00.webp)
 
 ## ref 

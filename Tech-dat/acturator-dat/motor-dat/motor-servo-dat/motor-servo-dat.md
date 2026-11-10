@@ -71,7 +71,7 @@
 
 ![](2026-02-28-00-57-43.webp)
 
-![](2026-02-28-00-57-59.png)
+![](2026-02-28-00-57-59.webp)
 
 
 These servo models differ primarily in terms of gear material, torque, and rotation angle. 
@@ -156,7 +156,7 @@ install - [[servo-horn-dat]] and extra metal hinge - [[hinge-dat]] - [[servo-pus
 
 ### servo with five wires 
 
-![](2026-02-28-01-37-32.png)
+![](2026-02-28-01-37-32.webp)
 
 A 5-wire servo consists of a **DC Motor** and a **Potentiometer** (feedback sensor) without an internal control board. To use it, you must provide an external motor driver and a microcontroller.
 
@@ -319,7 +319,7 @@ Hitec 海泰克 HS-5565MH 高压数字标准舵机 速度快 空心杯电机 G1�
 
 lock and unlock system 
 
-![](2025-12-06-14-23-10.png)
+![](2025-12-06-14-23-10.webp)
 
 
 to linear output 
@@ -328,7 +328,7 @@ to linear output
 
 connector to a [[crank-dat]]
 
-![](2026-01-09-21-12-45.png)
+![](2026-01-09-21-12-45.webp)
 
 
 
@@ -343,7 +343,7 @@ connector to a [[crank-dat]]
 
 - [[servo-connector-dat]] - [[servo-horn-dat]]
 
-![](2026-02-28-01-19-43.png)
+![](2026-02-28-01-19-43.webp)
 
 
 ### servo shaft 

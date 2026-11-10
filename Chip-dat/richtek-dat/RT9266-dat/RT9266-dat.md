@@ -20,7 +20,7 @@ Features
 - Small SOT-23-6 & SOT-89-5 Package
 - RoHS Compliant and 100% Lead (Pb)-Free
 
-![](2025-03-14-16-22-13.png)
+![](2025-03-14-16-22-13.webp)
 
 
 

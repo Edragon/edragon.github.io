@@ -17,7 +17,7 @@ legacy wiki page - https://www.electrodragon.com/w/DFPlayer_Mini
 
 ## backside 
 
-![](2024-05-10-17-40-25.png)
+![](2024-05-10-17-40-25.webp)
 
 
 

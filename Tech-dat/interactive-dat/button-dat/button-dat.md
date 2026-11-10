@@ -53,7 +53,7 @@ voltage divider 1K / 4.7K / 10K == [[voltage-divider-dat]]
 
 button with ripple capacitor
 
-![](2025-08-12-15-19-43.png)
+![](2025-08-12-15-19-43.webp)
 
 
 
@@ -65,7 +65,7 @@ button with ripple capacitor
 
 small size 
 
-![](2026-06-13-19-22-51.png)
+![](2026-06-13-19-22-51.webp)
 
 
 

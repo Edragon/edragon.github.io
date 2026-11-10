@@ -68,7 +68,7 @@ At ultra-low speeds, differential steering boats can wander or drift easily due 
   * Add a small weight (e.g., lead sinkers or wheel weights) at the lowest central point inside the hull.
   * **Result**: Increases water displacement and drag to reduce speed while keeping the boat grounded against wind and waves.
 
-![](2026-08-04-19-26-05.png)
+![](2026-08-04-19-26-05.webp)
 
 ## 4. Software & Controller Optimization
 

@@ -32,7 +32,7 @@
     Supported:	Supported
     Healthy:	Healthy
 
-![](2023-10-07-14-34-18.png)
+![](2023-10-07-14-34-18.webp)
 
 
 

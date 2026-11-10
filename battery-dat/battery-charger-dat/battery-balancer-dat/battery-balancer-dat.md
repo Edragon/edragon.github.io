@@ -65,15 +65,15 @@ How to use single [[TP4056-dat]] to charge 2S lithium battery pack?
 
 The battery should be built with all pins out: 
 
-![](2025-05-09-12-59-06.png)
+![](2025-05-09-12-59-06.webp)
 
 parallel charging by [[TP4056-dat]] directly 
 
-![](2025-05-09-12-59-34.png)
+![](2025-05-09-12-59-34.webp)
 
 Board looks like: 
 
-![](2025-05-09-12-59-51.png)
+![](2025-05-09-12-59-51.webp)
 
 
 ## Method 2.

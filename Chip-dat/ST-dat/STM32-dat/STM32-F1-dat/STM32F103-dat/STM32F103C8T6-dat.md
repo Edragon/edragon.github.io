@@ -9,7 +9,7 @@ Mainstream Performance line, Arm Cortex-M3 MCU with 64 Kbytes of Flash memory, 7
 
 
 
-![](2024-07-03-14-02-30.png)
+![](2024-07-03-14-02-30.webp)
 
 
 

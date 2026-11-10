@@ -25,7 +25,7 @@ The SIM7080 series is designed for applications that need low latency, low throu
 Due to the unique combination of performance, security and flexibility, this module is ideally suited for M2M applications, such as metering, asset tracking, remote monitoring, E-health etc. 
 
 
-![](2024-06-25-17-07-01.png)
+![](2024-06-25-17-07-01.webp)
 
 ![](2024-07-03-16-32-36.webp)
 

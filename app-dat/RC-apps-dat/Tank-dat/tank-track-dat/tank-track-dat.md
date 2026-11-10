@@ -77,10 +77,10 @@ A tracked vehicle uses continuous tracks instead of wheels to move over difficul
 
 ![](2025-09-22-15-42-03.webp)
 
-![](2025-09-22-15-42-54.png)
+![](2025-09-22-15-42-54.webp)
 
 
-![](2025-09-22-15-45-02.png)
+![](2025-09-22-15-45-02.webp)
 
 
 ## ✅ When Tank Tracks Are Better
@@ -118,11 +118,11 @@ Cogs
 
 ![](2025-05-22-14-09-36.png)
 
-![](2025-05-22-14-11-57.png)
+![](2025-05-22-14-11-57.webp)
 
 Chains 
 
-![](2025-05-22-14-10-22.png)
+![](2025-05-22-14-10-22.webp)
 
 
 ## guide 

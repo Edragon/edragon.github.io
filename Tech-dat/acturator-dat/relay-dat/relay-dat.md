@@ -56,7 +56,7 @@ HF32F-G-5-HS
 
 ### using N-mos mosfet control 
 
-![](2024-09-18-17-41-35.png)
+![](2024-09-18-17-41-35.webp)
 
 - [[mosfet-dat]] - [[n-mosfet-control-dat]]
 
@@ -76,7 +76,7 @@ partially isolated relay control
 
 ### spindle motor drive 
 
-![](2026-03-05-13-45-25.png)
+![](2026-03-05-13-45-25.webp)
 
 
 

@@ -14,7 +14,7 @@ The NCP1342 is a highly integrated quasi-resonant flyback controller suitable fo
 
 ## APP 
 
-![](2026-06-18-18-56-18.png)
+![](2026-06-18-18-56-18.webp)
 
 
 ## build 

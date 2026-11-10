@@ -43,7 +43,7 @@ A simulation trim-pot can be used as a target load on left side
 ### Tests 
 ![](58-34-16-26-06-2023.webp)
 
-![](08-35-16-26-06-2023.png)
+![](08-35-16-26-06-2023.webp)
 
 
 ## ref 

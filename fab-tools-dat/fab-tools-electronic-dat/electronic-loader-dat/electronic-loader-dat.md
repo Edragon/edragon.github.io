@@ -10,7 +10,7 @@
 
 ## mode: CC, CV, CW, CR
 
-![](2025-05-30-18-30-59.png)
+![](2025-05-30-18-30-59.webp)
 
 
 ## How to Test a 18650 Battery Capacity Using an Electronic Load

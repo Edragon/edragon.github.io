@@ -261,7 +261,7 @@ A **monoplane** is an aircraft that has **only one main wing** on each side of t
 
 三角翼
 
-![](2025-12-03-23-54-30.png)
+![](2025-12-03-23-54-30.webp)
 
 
 
@@ -269,7 +269,7 @@ A **monoplane** is an aircraft that has **only one main wing** on each side of t
 
 ![](2025-12-05-01-39-12.webp)
 
-![](2025-12-05-01-39-29.png)
+![](2025-12-05-01-39-29.webp)
 
 
 ## uncommon shape 
@@ -286,7 +286,7 @@ F14
 
 ![](2025-12-06-15-24-40.webp)
 
-![](2025-12-06-15-25-18.png)
+![](2025-12-06-15-25-18.webp)
 
 ## tools 
 

@@ -20,7 +20,7 @@ Single Phase, Multifunction Metering IC with Neutral Current Measurement
 
 ## APP SCH 
 
-![](2026-07-15-14-06-32.png)
+![](2026-07-15-14-06-32.webp)
 
 SCH2 
 
@@ -35,7 +35,7 @@ channels INA and INB
 
 ## layout 
 
-![](2026-07-15-14-04-46.png)
+![](2026-07-15-14-04-46.webp)
 
 LAYOUT GUIDELINES
 

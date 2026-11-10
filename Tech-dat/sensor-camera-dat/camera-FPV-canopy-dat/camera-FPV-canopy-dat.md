@@ -38,7 +38,7 @@ If only `PLA or ABS` are available, I would reduce the material thickness to a m
 
 ![](2026-07-01-17-26-14.webp)
 
-![](2026-07-01-17-27-11.png)
+![](2026-07-01-17-27-11.webp)
 
 ![](2026-07-01-17-29-01.webp)
 
@@ -64,7 +64,7 @@ digital DJI O3
 
 - [[betaFPV-air-2-dat]] - [[betaFPV-dat]] == lens dia 9-10mm 
 
-![](2026-07-01-17-54-28.png)
+![](2026-07-01-17-54-28.webp)
 
 
 
@@ -81,13 +81,13 @@ https://cults3d.com/en/3d-model/gadget/mobula8-thumb-mount = 0.55U
 
 https://www.printables.com/model/774692-mobula-7-8-hawkeye-thumb-camera-mount
 
-![](2025-09-12-13-16-45.png)
+![](2025-09-12-13-16-45.webp)
 
 for insta360 go 2
 
 ![](2025-09-12-13-18-59.webp)
 
-![](2025-09-12-13-19-59.png)
+![](2025-09-12-13-19-59.webp)
 
 - [[camera-FPV-dat]]
 

@@ -47,7 +47,7 @@ the programmer comes up two part of functions
 please make sure to use a good quality USB-cable, a different USB cable to try is also a good option 
 
 
-![](2024-09-03-15-55-14.png)
+![](2024-09-03-15-55-14.webp)
 
 
 ### offline mode 
@@ -155,7 +155,7 @@ The file list;
 
 self programming 
 
-![](2026-10-10-19-44-30.png)
+![](2026-10-10-19-44-30.webp)
 
 
 ### programming STM32F103

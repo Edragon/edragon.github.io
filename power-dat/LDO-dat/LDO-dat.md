@@ -170,7 +170,7 @@ ME6217
 MST5333BTS == MST MST5333BTS == 35V, 1.6μA ultra-low quiescent current, 200mA low-dropout regulator
 
 
-![](2026-07-14-15-36-07.png)
+![](2026-07-14-15-36-07.webp)
 
 
 
@@ -201,7 +201,7 @@ LD2980 - Ultra low drop voltage regulators compatible with low ESR output - [[ST
 
 ## 9742 
 
-![](2024-01-18-18-11-53.png)
+![](2024-01-18-18-11-53.webp)
 
 
 
@@ -248,7 +248,7 @@ The SGM2200 serles Is avallable in Green SOT-89-3. SOT-23. TSOT-23-5 and SC70-5 
 
 ## LDO array 
 
-![](2025-08-09-17-21-03.png)
+![](2025-08-09-17-21-03.webp)
 
 
 HMC860LP3E - QUAD LOW NOISE HIGH PSRR LINEAR VOLTAGE REGULATOR
@@ -294,7 +294,7 @@ MAX1735 - 200mA, Negative-Output, Low-Dropout Linear Regulator in SOT23
 
 ## breakout board 
 
-![](2026-07-23-16-53-04.png)
+![](2026-07-23-16-53-04.webp)
 
 
 

@@ -59,7 +59,7 @@ The current recommendation for a build guideline is:
 
 overview 
 
-![](2025-02-13-16-57-26.png)
+![](2025-02-13-16-57-26.webp)
 
 ![](2025-02-13-16-57-39.webp)
 
