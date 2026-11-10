@@ -36,8 +36,24 @@
 - display or phone stand
   - https://www.printables.com/model/794138-radiomaster-pocket-screen-mount-for-emax-transport/files
   - https://www.printables.com/model/1045687-radiomaster-pocket-hawkeye-35inch-monitor-mount
+  - screw M5 
+
+![](2026-11-11-01-39-34.png)
+
+![](2026-11-11-01-38-18.png)
+
+![](2026-11-11-01-38-29.png)
+
+![](2026-11-11-01-38-51.png)
+
+
 - long extension 
-- [[RC-RF-bay-converter-dat]] 
+
+- [[RC-RF-bay-converter-dat]] - [[RC-RF-bay-dat]]
+
+
+
+
 
 
 
