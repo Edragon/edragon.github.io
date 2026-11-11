@@ -28,6 +28,15 @@
 
 
 
+
+## extra and optional
+
+- [[beeper-dat]] - [[buzzer-dat]] - [[FPV-build-dat]] - [[betaflight-motors-dat]] - [[BF-beeper-dat]] - [[beeper-dat]]
+
+
+- [[location-dat]] - [[location-FPV-dat]]
+
+
 ## tech 
 
 
@@ -39,7 +48,7 @@
 
 - [[FPV-build-dat]] - [[battery-FPV-dat]]
 
-- [[flight-controller-dat]] - [[X12-dat]]
+- [[flight-controller-dat]] - [[X12-dat]] - [[FC-AIO-dat]]
 
 
 

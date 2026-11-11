@@ -21,6 +21,53 @@ For best results:
 
 
 
+## SD Card OS 
+
+
+
+- BACKUP
+- FIRMWARE
+- LOGS
+- MODELS
+- RADIO
+- SCREENSHOTS
+- SCRIPTS
+- SOUNDS
+- edgetx.sdcard.version 
+  - 2.8
+
+## script
+
+- [[edgetx-dat]] - [[edgetx-script-dat]] - [[LUA-dat]] - [[ELRS-script-dat]] - [[radiomaster-lua-dat]]
+
+
+scripts\tools 
+
+ASTEROIDS
+BREAKOUT
+TBSAGENTLITE
+X-TRIS
+elrsV3.lua
+elrsV3.luac
+Game-Asteroids.lua
+Game-Asteroids.luac
+Game-Breakout.lua
+Game-Pong.lua
+Game-Simulator.lua
+Game-Simulator.luac
+Game-Snake.lua
+Game-Snake.luac
+Game-X-Tris.lua
+Game-X-Tris.luac
+readme.txt
+TBSAgentLite.lua
+TBSAgentLite.luac
+WizardLoader.lua
+WizardLoader.luac
+ELRS Finder.lua
+Field Notes.lua
+
+
 ## info 
 
 https://github.com/EdgeTX/edgetx

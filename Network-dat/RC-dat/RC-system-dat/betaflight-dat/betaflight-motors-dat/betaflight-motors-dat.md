@@ -3,6 +3,10 @@
 
 
 
+
+- [[betaflight-motors-dat]] - [[BF-beeper-dat]] - [[beeper-dat]]
+
+
 - [[betaflight-motors-dat]] - [[motor-dat]] - [[motor-driver-dat]] - [[motor-drive-protocols-dat]]
 
 - [[ESC-dat]] - [[ESC-FPV-dat]]

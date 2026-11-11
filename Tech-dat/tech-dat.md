@@ -83,6 +83,8 @@
 
 - [[load-dat]]
 
+- [[voltage-dat]] - [[current-dat]]
+
 ### Code and SDK 
 
 - [[arduino-ide-dat]] - [[platform.io-dat]]
@@ -371,7 +373,7 @@
 
 - [[case-dat]]
 
-- [[physics-dat]] - [[lens-dat]]
+- [[physics-dat]] - [[lens-dat]] - [[weight-dat]]
 
 - [[shipment-dat]] - [[shipment-country-dat]]
 
