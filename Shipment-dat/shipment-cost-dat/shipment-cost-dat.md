@@ -10,18 +10,21 @@
 
 - [[shipment-cost-dat]]
 
+## surcharge 
+
+- [[shipment-Surcharge-Fuel-dat]] - [[shipment-surcharge-seasonal-dat]] - [[shipment-surcharge-remote-dat]] - [[shipment-cost-dat]]
 
 ## cost 
 
 ### express shipment composite by 
 
-- [[shipment-Fuel-Surcharge-dat]] 
+- [[shipment-Surcharge-Fuel-dat]] - [[shipment-surcharge-seasonal-dat]]
 
 - cart value 
 - basic shipping cost 
 
-- 航空燃油费 == 燃油附加费 == basic shipping cost  * 50% 
-- 季节费 == 旺季附加费 / 需求附加费 == basic shipping cost  *  31%
+- 航空燃油费 == 燃油附加费 == `fuel surcharge` == basic shipping cost  * 50% 
+- 季节费 == 旺季附加费 / 需求附加费 == `Seasonal Surcharge` / Demand Surcharge == basic shipping cost  *  31%
 
 - 支付网关服务费 == cart value  * 5% 
 
