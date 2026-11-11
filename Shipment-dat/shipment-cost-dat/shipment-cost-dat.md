@@ -2,20 +2,34 @@
 
 # shipment-cost-dat
 
+
+
+- [[shipment-express-dat]] - [[shipment-express-zone-dat]] - [[shipment-cost-dat]] - [[shipment-dat]]
+
+
+
 - [[shipment-cost-dat]]
 
 
 ## cost 
 
-express shipment composite by 
+### express shipment composite by 
 
+- [[shipment-Fuel-Surcharge-dat]] 
+
+- cart value 
 - basic shipping cost 
-- remote address surcharge 
-- 航空燃油费 == 燃油附加费 - [[shipment-Fuel-Surcharge-dat]]
-- 季节费 == 旺季附加费 / 需求附加费
-- 预付关税 == DDP - [[shipment-DDP-dat]]
-- 支付网关服务费
 
+- 航空燃油费 == 燃油附加费 == basic shipping cost  * 50% 
+- 季节费 == 旺季附加费 / 需求附加费 == basic shipping cost  *  31%
+
+- 支付网关服务费 == cart value  * 5% 
+
+- remote address surcharge - optional by postal code 
+
+### postal shipping cost 
+
+- 预付关税 == DDP - [[shipment-DDP-dat]]
 
 
 
