@@ -1,6 +1,10 @@
 
 # DHL dat 
 
+
+
+- [[DHL-dat]] - [[shipment-Fuel-Surcharge-dat]] - [[remote-address-dat]] - [[shipment-cost-dat]]
+
 - [[HKDHL-BA]] - [[HKDHLX-dat]]
 
 
@@ -27,3 +31,4 @@ Please note Fedex / DHL normally need 2-4 days to process the shipment, we have 
 
 5. Then DHL will process the order in your country, this normally needs 1-2 days.
 
+## ref 
