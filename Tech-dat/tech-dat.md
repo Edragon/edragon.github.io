@@ -373,7 +373,7 @@
 
 - [[case-dat]]
 
-- [[physics-dat]] - [[lens-dat]]
+- [[physics-dat]] - [[lens-dat]] - [[weight-dat]]
 
 - [[shipment-dat]] - [[shipment-country-dat]]
 
