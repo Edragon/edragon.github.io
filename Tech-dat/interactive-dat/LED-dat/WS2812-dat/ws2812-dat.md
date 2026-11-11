@@ -56,7 +56,13 @@ LED has a low voltage driving, high energy saving and environmental protection, 
 
 - WS2812 - ESP32 IO36
 
+
+
+
 ## LEDS
+
+- WS2812 == 6 pin 
+- WS2812B == 4 pin 
 
 ![](10PCs-WS2812B-4Pin-SMD5050-RGB-LED-01.webp)
 
