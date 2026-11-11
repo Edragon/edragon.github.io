@@ -91,6 +91,10 @@
 - [[LDO-dat]]
 
 
+- [[voltage-dat]] - [[voltage-app-dat]] - [[power-dat]]
+
+
+
 ## Power selection 
 
 By switching from 5V to 3.3V, you can achieve up to 34% power savings in circuits where the current remains the same. In practice, the actual savings may be higher because some components draw less current at lower voltages.

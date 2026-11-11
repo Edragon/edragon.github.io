@@ -3,7 +3,12 @@
 
 # voltage-app-dat
 
-Lipo Battery Voltage Tester Low Voltage Buzzer Alarm
+- [[voltage-dat]] - [[voltage-app-dat]] - [[power-dat]]
+
+- [[beeper-dat]]
+
+
+## Lipo Battery Voltage Tester Low Voltage Buzzer Alarm
 
 ![](2026-11-11-17-27-01.png)
 
@@ -22,6 +27,11 @@ When the voitage is below the set value, it wil! buzzerwith red LED light,pre-ss
 
 
 ![](2026-11-11-17-27-18.png)
+
+## usage 
+
+![](2026-11-11-17-37-44.png)
+
 
 ## ref 
 
