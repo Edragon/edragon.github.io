@@ -83,6 +83,8 @@
 
 - [[load-dat]]
 
+- [[voltage-dat]] - [[current-dat]]
+
 ### Code and SDK 
 
 - [[arduino-ide-dat]] - [[platform.io-dat]]
