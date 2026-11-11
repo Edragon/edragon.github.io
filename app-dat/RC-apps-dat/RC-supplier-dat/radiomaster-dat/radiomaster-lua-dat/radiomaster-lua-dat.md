@@ -3,6 +3,8 @@
 # radiomaster-lua-dat
 
 
+- [[ELRS-dat]] - [[ELRS-script-dat]] - [[radiomaster-lua-dat]] - [[LUA-dat]]
+
 - [[radiomaster-lua-dat]] - [[radiomaster-dat]] - [[radiomaster-pocket-dat]] - [[edgetx-dat]] - [[lua-dat]] - [[SDK-dat]]
 
 ## run scripts 
@@ -17,6 +19,9 @@ However, because the RadioMaster Pocket features a **monochrome (black and white
 
 * **B/W Compatible Scripts:** Scripts designed for black-and-white displays—such as the standard **ExpressLRS Lua script**, **Betaflight configuration scripts (B/W version)**, and various telemetry or tool scripts—work perfectly.
 * **Color-Only Scripts:** Scripts built specifically for large color-screen radios (like the TX16S or Boxer color edition, which use LVGL or color graphics) **will not display properly** or will fail to run because the Pocket lacks a color graphics processor and display.
+
+
+
 
 ### 2. Common Scripts Used on the Pocket
 
