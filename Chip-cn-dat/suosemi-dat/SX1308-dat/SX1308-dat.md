@@ -18,6 +18,16 @@ SCH2
 
 ![](2025-10-08-15-21-45.webp)
 
+SCH3 - PD to 12V Stable
+
+- [[USB-PD-dat]]
+
+![](2026-11-12-15-20-41.png)
+
+
+
+
+
 ## ref 
 
 - [[dcdc-boost-dat]] - [[power-dat]]

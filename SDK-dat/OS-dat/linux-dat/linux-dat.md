@@ -9,6 +9,15 @@
 
 
 
+
+## chip 
+
+
+- [[ubuntu-dat]] - [[linux-dat]] - [[rk3566-dat]] - [[rockchip-dat]]
+
+- [[allwinner-dat]] - [[F1C100-dat]]
+
+
 ## basic command 
 
 root@VM46294:~/srs# `uname -a`

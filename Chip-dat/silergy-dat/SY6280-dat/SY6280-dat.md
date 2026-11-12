@@ -1,7 +1,7 @@
 
 # SY6280-dat
 
-- [[OCP-protection-dat]]
+- [[OCP-protection-dat]] - [[protection-power-dat]]
 
 The SY6280 develops ultra-low Rds(on) switch with programmable current limiting to protect the power source from over current and short circuit conditions. It integrates the over temperature protection and discharges the output capacitor during the shutdown. In case the output is pulled higher than the input voltage under the shutdown, the SY6280 can block the current flowing from the output to the input. 
 
@@ -18,6 +18,15 @@ Features
 - At shutdown, OUT can be forced higher than IN
 - Automatic output discharge at shutdown
 - Compact SOT23 packages minimize the board space. 
+
+
+
+## SCH 
+
+SCH 1 
+
+![](2026-11-12-15-25-52.png)
+
 
 
 ## ref 

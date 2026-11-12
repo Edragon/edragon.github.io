@@ -87,6 +87,8 @@ HV Negative
 
 ## chip 
 
+- [[LowPowerSemi-dat]] - [[LP3987-dat]]
+
 
 - [[maxlinear-dat]]
 

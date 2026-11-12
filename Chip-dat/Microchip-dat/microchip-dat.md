@@ -17,6 +17,9 @@
 - [[microchip-FPGA-dat]]
 
 
+
+- [[USB2514B-dat]] - [[microchip-dat]]
+
 ## sensor 
 
 - [[sensor-touch-dat]] - [[microchip-dat]] - [[MTCH6102-dat]] - MTCH6102 15-channel capacitive touch sensing

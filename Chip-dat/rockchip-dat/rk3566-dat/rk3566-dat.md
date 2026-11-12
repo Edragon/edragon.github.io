@@ -6,6 +6,8 @@
 - [[rk3566-dat]] - [[rockchip-dat]]
 
 
+- [[ubuntu-dat]] - [[linux-dat]] - [[rk3566-dat]] - [[rockchip-dat]]
+
 
 
 ## app 

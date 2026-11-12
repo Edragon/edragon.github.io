@@ -3,7 +3,7 @@
 
 
 
-=== [[Bus-Transceiver-dat]]
+=== [[Bus-Transceiver-dat]] - [[transceiver-dat]]
 
 - [[ti-logic-dat]] - [[logic-level-shifter-dat]] - [[sn74lvc1t45-dat]]
 
@@ -12,6 +12,9 @@
 
 
 - [[TI-dat]] - [[TI-logic-dat]]
+
+- [[logic-level-shifter-dat]] - [[io-expander-dat]]
+
 
 
 
@@ -28,7 +31,12 @@
 
 ## dual direction 
 
-- [[TXS0102-dat]]
+- [[TXS0102-dat]] - [[TXS0108-dat]]
+
+- [[TXS0108-dat]] - [[TXB0108-dat]] - [[logic-level-shifter-dat]] - [[ti-logic-dat]]
+
+
+
 
 
 ## design 
@@ -207,6 +215,13 @@ EOF
 
 IP4856CX25 - The device is an SD 3.0-compliant 6-bit bidirectional dual voltage level translator. It is designed to interface between a memory card operating at 1.8 V or 2.9 V signal levels and a host with a fixed nominal supply voltage of 1.7 V to 3.6 V. The device supports SD 3.0, SDR104, SDR50, DDR50, SDR25, SDR12 and SD 2.0 high-speed (50 MHz) and default-speed (25 MHz) modes. The device has an integrated voltage selectable low dropout regulator to supply the card-side I/Os, built-in EMI filters and robust ESD protections (IEC 61000-4-2, level 4).
 
+
+
+
+
+## apps 
+
+- [[NAS-dat]] - [[RK3566-dat]]
 
 
 ## ref 

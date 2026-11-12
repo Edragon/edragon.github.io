@@ -3,6 +3,9 @@
 
 
 
+
+- [[USB-PD-dat]] - [[USB-hub-dat]] - [[USB-SDK-dat]]
+
 - [[power-dat]] - [[power-tree-dat]] - [[HI3518-dat]]
 
 - [[AVDD-dat]] - [[power-dat]]

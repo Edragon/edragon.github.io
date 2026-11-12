@@ -342,7 +342,7 @@
 
 - [[DC-blocking-dat]] 
 
-- [[logic-level-shifter-dat]]
+- [[logic-level-shifter-dat]] - [[io-expander-dat]]
 
 - [[Optical-Coupler-DAT]] - [[optical-coupler-SSR-driver-dat]]
 

@@ -5,6 +5,10 @@
 # power-protection-dat
 
 
+
+
+
+
 - [[power-limit-dat]] - [[FPV-dat]] - [[protection-power-dat]] - [[power-dat]] - [[power-smoke-stopper-dat]]
 
 
@@ -22,6 +26,10 @@
 - [[protection-ESD-dat]]
 
 - [[protection-power-dat]] - [[BQ25186-dat]]
+
+
+
+- [[OCP-protection-dat]] - [[protection-power-dat]] - [[SY6280-dat]]
 
 ## Power Protection 
 
