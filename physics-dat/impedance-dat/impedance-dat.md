@@ -3,9 +3,26 @@
 # impedance-dat
 
 
+
+- [[impedance-dat]] - [[impedance-differential-dat]] - [[CONN-USB-HDK-dat]]
+
+
+- [[impedance-dat]] - [[RGMII-dat]] - [[impedance-GRMII-dat]]
+
+- [[impedance-USB-dat]] - [[USB-2.0-dat]] 
+
+- [[impedance-SATA-dat]] - [[impedance-dat]] - [[mSATA-dat]]
+
+
+- [[PCB-design-dat]] - [[impedance-dat]] - [[impedance-SATA-dat]] - [[impedance-USB-dat]] - [[impedance-GRMII-dat]]
+
 keep length short == under **75mm to 100mm**
 
 ![](2026-04-20-16-44-56.png)
+
+
+## design case 
+
 
 
 ## impedance
@@ -122,6 +139,30 @@ If your traces absolutely must be very long (e.g., across a large enclosure), co
 | **Trace Clearance** | Keep at least $3 \times$ trace width away from other signals |
 | **Reference Plane** | Continuous GND plane (no splits) |
 
+
+
+
+## experiences 
+
+PHY和RJ45接口布线：当速度要求高时需对Rx±、Tx±差分对进行阻抗控制，通常阻抗控制在100Ω±10%，阻抗匹配
+
+其中TX和RX两对差分，需要对内等长。 不强制要求对外等长。走线越短越好，请保持走线距离。如果条件允许你也可以对外等长，但是没必要为了对外等长打过孔然后走线很奇葩。
+
+以太网芯片和RJ45芯片之间的距离尽可能的近，距离一般不超过5inch
+
+led信号管脚加粗至少10mil以上
+
+变压器引出接地脚至少加粗10~20mil
+
+高速信号换层时需要再附近不超过200mil打地孔增加回流
+
+RGMII信号的发送信号和接收信号不要混合走线，一般同层走线靠近一起走线且分别要进行组内等长，单线阻抗50Ω 走线总长度推荐小于2inch。
+
+MDI走线总长度应小于2inch
+
+MAC控制器的PHY布线：100M的PHY的RMII，非差分，也因为速度不高，请保持50欧姆的单端阻抗，注意需要有完整的地平面参考，不允许参考地平面有其他信号线交叉存在。
+
+**注意走线长度需要严格控制PCB走线总长度要求 小于5000mil(5000 密耳=12.7 厘米)。这里包含泰山派从RK3566引出到EXP的长度+FPC排线长度+你的扩展板到LAN8720的长度。 过长的走线或者FPC排线太长会导致无法通讯，连接不稳定，等各种问题。**
 
 
 

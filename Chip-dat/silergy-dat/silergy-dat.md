@@ -13,7 +13,7 @@
 
 - [[LDO-dat]] - [[SY2A27357A-dat]] - [[silergy-dat]]
 
-
+- [[SY8113-dat]] - [[silergy-dat]]
 
 
 ## SY8009 

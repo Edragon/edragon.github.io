@@ -11,6 +11,11 @@
 - [[PCB-layer-4-dat]] - [[PCB-design-complex-dat]] - [[PCB-design-fanout-dat]] - [[PCB-design-routing-dat]] - [[PCB-design-dat]]
 
 
+- [[PCB-design-dat]] - [[impedance-dat]] - [[impedance-SATA-dat]] - [[impedance-USB-dat]] - [[impedance-GRMII-dat]]
+
+
+
+
 
 ## info 
 

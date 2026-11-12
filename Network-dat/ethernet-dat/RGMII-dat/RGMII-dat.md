@@ -1,6 +1,16 @@
 
 # RGMII-dat
 
+- [[ethernet-dat]] - [[RGMII-dat]] - [[RGMII-phy-dat]]
+
+
+
+- [[impedance-dat]] - [[RGMII-dat]] - [[impedance-GRMII-dat]]
+
+
+
+
+
 ## 🌐 What is RGMII?
 
 **RGMII** stands for **Reduced Gigabit Media Independent Interface**.

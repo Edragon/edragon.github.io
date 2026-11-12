@@ -84,14 +84,19 @@ The ESP32-P4 network model can be explained as follows:
 
 
 
-## SCH RPI CM4 
-
-- [[RPI-CM4-expansion-board-dat]] - [[ESD-dat]]
-
-![](2025-09-04-21-08-01.png)
-
-
 ## SCH 
+
+SCH 3
+
+- [[RK3568-dat]] - [[rockchip-dat]] 
+
+![](2026-11-12-16-06-44.png)
+
+![](2026-11-12-16-06-51.png)
+
+![](2026-11-12-16-07-12.png)
+
+SCH 2 
 
 - [[conn-RJ45-dat]]
 
@@ -106,6 +111,12 @@ transfomer == G2406S_C507595 and RJ45
 
 ![](2025-08-07-12-43-02.webp)
 
+
+SCG 1 - SCH RPI CM4 
+
+- [[RPI-CM4-expansion-board-dat]] - [[ESD-dat]]
+
+![](2025-09-04-21-08-01.png)
 
 
 

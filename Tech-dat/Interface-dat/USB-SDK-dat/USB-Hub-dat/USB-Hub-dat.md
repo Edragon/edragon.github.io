@@ -10,6 +10,18 @@
 
 
 
+## apps 
+
+- [[NAS-dat]] 
+
+
+
+
+## tech 
+
+- [[USB-hub-dat]] - [[impedance-USB-dat]] - [[USB-2.0-dat]]
+
+
 ## chip 
 
 
@@ -18,6 +30,8 @@
 - [[USB-hub-dat]] - [[CH334-dat]] - [[WCH-dat]]
 
 - [[USB2514B-dat]] - [[microchip-dat]]
+
+USB3.0 hub芯片一定要买 `VL813Q7`,虽然VL812Q7与他pin to pin兼容，但是VL817Q7与RTL8153B存在疑似兼容性问题，大概是由于VL812Q7缺少USB电源模式导致的。
 
 
 ### FE1.1 
