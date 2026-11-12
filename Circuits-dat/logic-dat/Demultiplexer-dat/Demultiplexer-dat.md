@@ -1,0 +1,13 @@
+
+
+
+# Demultiplexer-dat
+
+
+- [[74LS154-dat]] - [[fairchild-dat]] - [[Demultiplexer-dat]] - [[decoder-dat]]
+
+
+
+
+## ref 
+

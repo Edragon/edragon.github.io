@@ -14,6 +14,10 @@
 
 - [[Multiplexer-dat]] - [[74xx-dat]]
 
+- [[74LS154-dat]] - [[fairchild-dat]] - [[Demultiplexer-dat]] - [[decoder-dat]]
+
+
+
 - [[vishay-dat]] - [[DG408-dat]] - [[multiplexer-dat]]
 
 - [[74HC4067-dat]]

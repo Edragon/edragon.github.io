@@ -8,7 +8,10 @@
 ## Multiplexer
 
 
-- [[Multiplexer-dat]] - [[74xx-dat]]
+- [[Multiplexer-dat]] - [[74xx-dat]] - [[Demultiplexer-dat]] - [[decoder-dat]]
+
+
+- [[74LS154-dat]] - [[fairchild-dat]] - [[Demultiplexer-dat]] - [[decoder-dat]]
 
 TC74HC4051AP, TC74HC4051AF, TC74HC4051AFT
 TC74HC4052AP, TC74HC4052AF, TC74HC4052AFT

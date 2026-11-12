@@ -5,6 +5,13 @@
 
 - [[LDO-dat]]
 
+
+
+- [[74LS154-dat]] - [[fairchild-dat]] - [[Demultiplexer-dat]] - [[decoder-dat]]
+
+
+
+
 ## KA78R33
 
 KA78R33 - Low Dropout Voltage Regulator
