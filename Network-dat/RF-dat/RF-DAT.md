@@ -30,6 +30,8 @@
 
 - [[susumu-dat]] - [[susumu-PS-series-dat]] - [[rf-power-splitter-dat]] - [[rf-dat]]
 
+- [[spectrum-dat]] - [[FHSS-dat]]
+
 ## apps 
 
 - [[RC-controller-dat]] 

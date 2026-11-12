@@ -38,8 +38,11 @@
 
 ## advanced tech 
 
+- [[tech-advanced-dat]]
+
 - [[openIPC-dat]] - [[ELRS-dat]] - [[mRLS-dat]]
 
+- [[FPV-dat]] - [[FHSS-dat]] - [[fiber-optic-dat]]
 
 
 
