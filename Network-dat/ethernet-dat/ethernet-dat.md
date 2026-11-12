@@ -70,7 +70,7 @@ The ESP32-P4 network model can be explained as follows:
 
 - [[W5500-dat]] - [[ENC28J60-dat]]
 
-- [[LAN8720-dat]] - [[HR911105A-dat]]
+- [[LAN8720-dat]] - [[conn-HR911105A-dat]]
 
 - [[realtek-dat]]
 
@@ -78,18 +78,9 @@ The ESP32-P4 network model can be explained as follows:
 
 
 
-## HR911105A
-
-![](2026-11-12-14-58-45.png)
-
-
 ## BOM 
 
-- [[CONN-RJ45-dat]] - [[cable-ethernet-dat]]
-
-## RJ45 breakout board 
-
-![](2025-04-25-04-49-35.webp)
+- [[CONN-RJ45-dat]] - [[cable-ethernet-dat]] - [[conn-HR911105A-dat]]
 
 
 
@@ -102,15 +93,8 @@ The ESP32-P4 network model can be explained as follows:
 
 ## SCH 
 
-- [[RJ45-dat]]
+- [[conn-RJ45-dat]]
 
-RJ-45
-
-HY951180A
-HY931147C
-HR931130A
-
-![](2023-11-30-15-43-51.webp)
 
 
 RJ-45 w/[[CH579-dat]]

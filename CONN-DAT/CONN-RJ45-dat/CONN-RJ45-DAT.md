@@ -2,7 +2,11 @@
 
 # CONN-RJ45-DAT.md
 
-- [[CONN-RJ45-dat]] - [[RJ11-dat]]
+- [[CONN-RJ45-dat]] - [[conn-RJ11-dat]]
+
+- [[conn-HR911105A-dat]]
+
+
 
 
 
@@ -29,6 +33,25 @@ SCH
 - [[TRXCOM-dat]] 
 
 ![](2025-10-26-20-43-42.webp)
+
+
+
+
+## RJ45 breakout board 
+
+![](2025-04-25-04-49-35.webp)
+
+
+
+
+RJ-45
+
+HY951180A
+HY931147C
+HR931130A
+
+![](2023-11-30-15-43-51.webp)
+
 
 
 
