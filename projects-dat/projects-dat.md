@@ -12,13 +12,19 @@
 
 - [[board-new-dat]]
 
-- [[lcsc-dat]]
-
-
+- [[lcsc-dat]] 
+  
+- [[peripherals-dat]]
 
 ## esp32 
 
 - [[esp32-projects-dat]] - [[esp32-dat]] - [[projects-dat]]
+
+- [[projects-dat]] - [[espressif-dat]] - [[esp-app-dat]]
+
+
+
+
 
 ## robotic 
 

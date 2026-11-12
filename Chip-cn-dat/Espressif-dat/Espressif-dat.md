@@ -1,6 +1,10 @@
 
 # Espressif-dat
 
+
+
+
+
 ## Chip Series 
 
 - [[ESP32-S3-dat]] - [[ESP32-S2-dat]] - [[NWI1243-dat]]
@@ -22,7 +26,7 @@
   
 - [[ESP8089-dat]]
 
-
+- [[ESP-VOCAT-dat]] - [[ESP32-S31-dat]] - [[espressif-dat]] - [[esp-app-dat]]
 
 
 
@@ -50,6 +54,10 @@ Based on their commitment, ESP8266 will at least last until 2029. It is just not
 
 New design should use ESP8684, also called ESP32-C2, I will try to add more information later.
 
+
+
+
+
 ## Debug 
 
 ### ESP failed when system trying to connect to WIFI
@@ -57,6 +65,12 @@ New design should use ESP8684, also called ESP32-C2, I will try to add more info
 - USB power supply must be sufficient, the WIFI connection cost peak current up to 500mA, USB without external power supply will NOT work
 
 - use external power supply instead, and check if you can find ESP IP address if wifi back-end console page. 
+
+
+## info 
+
+- [[projects-dat]] - [[espressif-dat]] - [[espressif-projects-dat]]
+
 
 
 

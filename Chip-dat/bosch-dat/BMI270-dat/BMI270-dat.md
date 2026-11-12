@@ -16,6 +16,11 @@ The 6-axis sensor combines a 16-bit tri-axial gyroscope and a 16-bit tri-axial a
 BMI270 includes several functionalities such as an integrated plug-and-play step counter/detector for wrist-worn devices. Moreover, the IMU is suitable for hearables, smart clothes, smart shoes, smart glasses and ankle bands.
 
 
+
+## SCH 
+
+![](2026-11-12-17-50-06.png)
+
 ## ref 
 
 - [[bosch-dat]]

@@ -87,6 +87,8 @@ HV Negative
 
 ## chip 
 
+- [[heermicro-dat]] - [[LDO-dat]] - [[HE9073-dat]] - HE9073 0.3uA IQ Series High Speed Low Noise LDO
+
 - [[LowPowerSemi-dat]] - [[LP3987-dat]]
 
 

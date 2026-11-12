@@ -2,9 +2,7 @@
 # peripherals-dat
 
 
-
-
-- [[ref-design-dat]] - [[peripherals-dat]] - [[HDK-dat]] - [[M2M-HDK-dat]]
+- [[PCB-design-dat]] - [[ref-design-dat]] - [[peripherals-dat]] - [[HDK-dat]] - [[M2M-HDK-dat]]
 
 
 
@@ -23,6 +21,9 @@
 ## sensor 
 
 - [[camera-thermal-dat]]
+
+- [[6-axis-dat]]
+
 
 ## network 
 

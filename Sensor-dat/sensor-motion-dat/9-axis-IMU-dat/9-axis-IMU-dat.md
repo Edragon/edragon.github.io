@@ -3,7 +3,7 @@
 
 
 
-
+- [[9-axis-IMU-dat]] - [[IMU-dat]] - [[6-axis-dat]]
 
 
 ## info 
@@ -16,7 +16,7 @@ combination options
 - [[6-axis-dat]]
 
 - MPU6500 6 axis, Gyrometer & Accelerometer + QMC5883L 3 axis, Magnetometer - [[3-Axis-Magnetic-dat]]
-- BMI270 6 axis, Gyrometer & Accelerometer + BMM150 3 axis, Magnetometer
+- BMI270 6 axis, Gyrometer & Accelerometer + BMM150 3 axis, Magnetometer - 
 
 single chip options
 

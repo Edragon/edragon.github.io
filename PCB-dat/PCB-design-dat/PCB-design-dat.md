@@ -2,6 +2,7 @@
 # PCB-design-dat
 
 
+- [[PCB-design-dat]] - [[ref-design-dat]] - [[peripherals-dat]] - [[HDK-dat]] - [[M2M-HDK-dat]]
 
 
 ## difficulties
@@ -160,6 +161,12 @@ If your layout forces you to stick to a 2.0 mm trace width, but you need to supp
 * **Expose the Trace and Add Solder:** Design the PCB with the solder mask window removed over that specific 2.0 mm track. During assembly, a thick layer of solder can be flowed over the exposed copper, drastically increasing its thickness and lowering resistance.
 * **Route on Both Top and Bottom Layers:** Duplicate the 2.0 mm trace on both the top and bottom layers in parallel, stitching them together with multiple via holes to split the current evenly (5A per layer).
 
+
+
+
+## page 
+
+![](2026-11-12-17-51-20.png)
 
 ## ref 
 
