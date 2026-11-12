@@ -13,13 +13,20 @@
 
 - [[74LS154-dat]] - [[fairchild-dat]] - [[Demultiplexer-dat]] - [[decoder-dat]]
 
+
+
+
 TC74HC4051AP, TC74HC4051AF, TC74HC4051AFT
 TC74HC4052AP, TC74HC4052AF, TC74HC4052AFT
 TC74HC4053AP, TC74HC4053AF, TC74HC4053AFT
 
-TC74HC4051AP/AF/AFT - 8-Channel Analog - Multiplexer/Demultiplexer
-TC74HC4052AP/AF/AFT - Dual 4-Channel Analog - Multiplexer/Demultiplexer
-TC74HC4053AP/AF/AFT - Triple 2-Channel Analog - Multiplexer/Demultiplexer
+TC74HC4051AP/AF/AFT - 8-Channel Analog - Multiplexer / Demultiplexer
+TC74HC4052AP/AF/AFT - Dual 4-Channel Analog - Multiplexer / Demultiplexer
+TC74HC4053AP/AF/AFT - Triple 2-Channel Analog - Multiplexer / Demultiplexer
+
+
+
+
 
 ## logic gate 
 
