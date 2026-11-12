@@ -1,15 +1,15 @@
 
 
-# RJ45
+# CONN-RJ45-DAT.md
 
-- [[RJ45-dat]] - [[RJ11-dat]]
+- [[CONN-RJ45-dat]] - [[RJ11-dat]]
 
 
 
 
 ## MagJack-A70-112-331N126
 
-- [[POE-dat]]
+- [[POE-dat]] - [[ethernet-dat]]
 
 ![](2025-10-26-20-03-49.webp)
 

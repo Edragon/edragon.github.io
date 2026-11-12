@@ -70,13 +70,22 @@ The ESP32-P4 network model can be explained as follows:
 
 - [[W5500-dat]] - [[ENC28J60-dat]]
 
-- [[LAN8720-dat]]
+- [[LAN8720-dat]] - [[HR911105A-dat]]
 
 - [[realtek-dat]]
 
 - [[WCH-dat]] - [[CH9121-dat]]
 
 
+
+## HR911105A
+
+![](2026-11-12-14-58-45.png)
+
+
+## BOM 
+
+- [[CONN-RJ45-dat]] - [[cable-ethernet-dat]]
 
 ## RJ45 breakout board 
 
@@ -146,9 +155,9 @@ build 1
 
 - [[VTX-openIPC-ethernet-dat]] - [[VTX-openIPC-dat]] - [[ethernet-dat]]
 
+- [[NAS-dat]] - [[ethernet-dat]] - [[RK3566-dat]] - [[rockchip-dat]]
 
-
-
+- [[POE-dat]] - [[ethernet-dat]]
 
 
 

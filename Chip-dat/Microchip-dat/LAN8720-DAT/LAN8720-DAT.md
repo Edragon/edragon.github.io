@@ -1,11 +1,14 @@
 
-# LAN8720 DAT
+# LAN8720-DAT
+
+
+- [[ethernet-dat]] - [[LAN8720-dat]] - [[HR911105A-dat]] - [[conn-ethernet-dat]] - [[RJ45-DAT]]
 
 - https://ww1.microchip.com/downloads/en/devicedoc/00002165b.pdf
 
 ## TWISTED-PAIR INTERFACE DIAGRAM (SINGLE POWER SUPPLY)
 
-![](2025-03-14-17-22-07.png)
+![](../2025-03-14-17-22-07.png)
 
 ## Chip Features 
 
@@ -35,12 +38,17 @@
 
 ## SCH 
 
-![](2026-07-23-20-02-09.webp)
+![](../2026-07-23-20-02-09.webp)
 
 
 SCH 2 
 
-![](2026-07-23-20-03-11.webp)
+![](../2026-07-23-20-03-11.webp)
+
+
+SCH 3 
+
+![](../2026-11-12-14-59-57.png)
 
 ## ref 
 
