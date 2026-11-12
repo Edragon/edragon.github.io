@@ -2,12 +2,20 @@
 
 # camera-thermal-dat
 
-- [[sensor-camera-dat]] - [[camera-wifi-dat]] - [[camera-surveillance-dat]] - [[camera-thermal-dat]]
+
+
+
+
+- [[sensor-camera-dat]] - [[camera-wifi-dat]] - [[camera-surveillance-dat]] - [[camera-thermal-dat]] - [[sensor-thermal-dat]]
 
 
 - [[STH1065-dat]] - [[STH1066-dat]] - [[STH1067-dat]] - [[MLX90614-dat]] - [[sensor-camera-dat]] - [[camera-thermal-dat]]
 
 海曼5.0长焦
+
+
+
+
 
 
 ## build 

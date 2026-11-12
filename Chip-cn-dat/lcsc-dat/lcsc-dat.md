@@ -2,6 +2,12 @@
 
 # lcsc-dat
 
+
+- [[lcsc-dat]] - [[SBC-dat]] - [[fryPI-dat]]
+
+
+https://oshwhub.com/no_chicken/frypi
+
 - [[tai-shan-dat]] - [[lcsc-dat]] - [[RK3566-dat]] - [[SBC-dat]]
 
 

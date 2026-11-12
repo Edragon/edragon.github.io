@@ -255,7 +255,13 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 - [[sensor-camera-dat]] - [[camera-wifi-dat]] - [[camera-IP-dat]] - [[camera-surveillance-dat]] 
 
-- [[camera-thermal-dat]]
+
+
+- [[thermal-dat]] - [[sensor-thermal-dat]] - [[sensor-dat]] - [[camera-dat]] - [[thermal-imaging-dat]] - [[camera-thermal-dat]]
+
+
+
+
 
 ![](2026-10-01-16-50-49.webp)
 

@@ -3,6 +3,12 @@
 # physics-dat
 
 
+
+
+- [[physics-dat]] - [[lens-dat]] - [[weight-dat]] - [[thermal-dat]]
+
+
+
 - [[aerodynamic-dat]] - [[power-physics-dat]] - [[motion-dat]] - [[network-dat]] - [[physics-dat]]
 
 - [[battery-dat]] - [[UAV-dat]] - [[physics-dat]] - [[Battery-Paradox-dat]] - [[rc-aircraft-dat]]

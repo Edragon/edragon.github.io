@@ -229,7 +229,7 @@
 
 - [[ADC-dat]] - [[DAC-dat]] - [[converter-dat]] - [[LDC-dat]] - [[AD-DAC-dat]]
 
-- [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
+- [[USB-SDK-dat]] - [[USB-sys-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]] - [[USB-2.0-dat]] - [[USB-3.0-dat]] - [[USB-HID-dat]]
 
 
 - [[I2S-dat]] - [[speaker-I2S-dat]] - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] - [[PDM-dat]] - [[speaker-dat]]
@@ -373,7 +373,7 @@
 
 - [[case-dat]]
 
-- [[physics-dat]] - [[lens-dat]] - [[weight-dat]]
+- [[physics-dat]] - [[lens-dat]] - [[weight-dat]] - [[thermal-dat]]
 
 - [[shipment-dat]] - [[shipment-country-dat]]
 

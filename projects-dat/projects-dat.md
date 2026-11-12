@@ -12,7 +12,7 @@
 
 - [[board-new-dat]]
 
-
+- [[lcsc-dat]]
 
 
 

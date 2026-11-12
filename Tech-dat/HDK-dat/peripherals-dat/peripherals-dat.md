@@ -11,10 +11,18 @@
 
 - [[peripherals-dat]] - [[atmega2560-dat]] - [[AVR-dat]] - [[DOD1100-dat]]
 
+
+
+
+
 ## AI relevant 
 
 - [[camera-dat]] - [[sensor-microphone-dat]]
 
+
+## sensor 
+
+- [[camera-thermal-dat]]
 
 ## network 
 
@@ -25,6 +33,9 @@
 - [[touch-pad-dat]] - [[interactive-dat]]
 
 - [[WS2812-dat]]
+
+- [[LCD-dat]] - [[LCD-touch-dat]] - [[peripherals-dat]] 
+
 
 ## power 
 

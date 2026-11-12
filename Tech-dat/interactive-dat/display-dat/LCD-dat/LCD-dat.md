@@ -3,6 +3,9 @@
 
 
 
+
+- [[LCD-dat]] - [[LCD-touch-dat]] - [[peripherals-dat]] 
+
 - [[LCD-dat]] - [[LCD1602-dat]] - [[LCD2004-dat]] - [[LCD12832-dat]] - [[LCD12864-dat]] 
 
 

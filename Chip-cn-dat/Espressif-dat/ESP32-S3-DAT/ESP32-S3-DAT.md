@@ -143,6 +143,14 @@ GPIO 38 (LR_PIN) should be fine on most ESP32-S3 modules.
 
 
 
+
+## apps 
+
+- [[ESP32-S3-dat]] - [[USB-HID-dat]] - [[USB-SDK-dat]]
+
+- [[projects-dat]]
+
+
 ## ref 
 
 
