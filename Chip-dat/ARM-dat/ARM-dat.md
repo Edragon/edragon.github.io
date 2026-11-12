@@ -1,6 +1,10 @@
 
 ## ARM-dat
 
+
+
+
+
 - [[ARM7-dat]] - [[ARM-dat]] - [[Cortex-M3]]
 
 - [[cortex-dat]] - [[ARM-dat]] 
@@ -30,6 +34,10 @@
 
 
 ## chip 
+
+
+`SM-K26-XCL2GI` == SOM ARM A53 ZYNQ MPSOC KRIA K26 - [[SOM-dat]] - [[ZYNQ-dat]] - [[cortext-dat]] - [[ARM-dat]] - [[AMD-dat]]
+
 
 - [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]
 
