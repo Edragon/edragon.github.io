@@ -14,6 +14,26 @@
 
 - [[superspeed-dat]]
 
+
+
+
+
+## app 
+
+- [[ASMedia-dat]] - [[ASM1153E-dat]] - [[USB-3.0-dat]] - [[SATA-dat]]
+
+- [[VL813-dat]] - [[USB-hub-dat]] - [[USB-3.0-dat]]
+
+
+
+
+## chip 
+
+- [[ASMedia-dat]] - [[ASM1153E-dat]] - [[USB-3.0-dat]]
+
+ 
+
+
 ## Key Functions and Features
 
 USB 3.0, also known as SuperSpeed USB, introduced several significant improvements over its predecessor, USB 2.0:

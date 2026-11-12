@@ -7,6 +7,9 @@
 - [[wifi-sdio-dat]]
 
 
+- [[RTL8153-dat]]
+
+
 [RTL8211FD(I)-CG](https://www.realtek.com/Product/Index?id=3976&cate_id=786)
 
 
@@ -49,12 +52,21 @@ Gigabit ethernet phy 1000base-tx RTL8211CL
 
 ![](2025-06-19-17-35-27.webp)
 
+
+
+
+
+
 ### RTL8211 with RK356x
 
 ![](2025-05-04-19-17-21.webp)
 
 [source info ](https://blog.csdn.net/CATTLE_L/article/details/144767114)
 
+
+## SCH 
+
+![](2026-11-12-16-31-40.png)
 
 
 

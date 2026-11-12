@@ -38,6 +38,10 @@ CH224 is a USB PD sink controller, supports fast charge protocols such as PD3.0/
 ## SCH 
 
 
+SCH 3 
+
+![](2026-11-12-16-46-11.png)
+
 SCH 2 
 
 ![](2026-11-12-15-21-47.png)

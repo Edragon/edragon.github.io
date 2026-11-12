@@ -33,6 +33,9 @@
 
 USB3.0 hub芯片一定要买 `VL813Q7`,虽然VL812Q7与他pin to pin兼容，但是VL817Q7与RTL8153B存在疑似兼容性问题，大概是由于VL812Q7缺少USB电源模式导致的。
 
+- [[VL813-dat]] - [[USB-hub-dat]] - [[USB-3.0-dat]] - [[via-labs-dat]]
+
+
 
 ### FE1.1 
 

@@ -11,6 +11,9 @@
 
 - [[NAS-dat]] - [[ethernet-dat]] - [[RK3566-dat]] - [[rockchip-dat]]
 
+- [[conn-RJ45-dat]] - [[NAS-dat]] - [[ethernet-dat]] -
+
+
 - [[mSata-dat]] - [[interface-dat]] - [[sata-dat]]
 
 - [[DCDC-down-dat]] - [[power-dat]]
@@ -19,7 +22,7 @@
 - [[logic-level-shifter-dat]] 
 
 
-- [[USB-PD-dat]] - [[USB-hub-dat]] - [[USB-SDK-dat]] - [[CONN-USB-dat]] - [[impedance-USB-dat]] - [[USB-2.0-dat]]
+- [[USB-PD-dat]] - [[USB-hub-dat]] - [[USB-SDK-dat]] - [[CONN-USB-dat]] - [[impedance-USB-dat]] - [[USB-2.0-dat]] - [[USB-3.0-dat]]
 
 - [[wifi-sdio-dat]] - [[RTL8211-dat]]
 

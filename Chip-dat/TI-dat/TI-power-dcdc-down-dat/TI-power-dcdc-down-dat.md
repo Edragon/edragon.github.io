@@ -29,7 +29,7 @@ TPSM5601R5RDAR - `TPSM5601R5RDAR`
 
 ## options 
 
-
+`TPS565201` - 4.5V to 17V, 5A, Synchronous Step-Down Voltage Regulator in SOT23 - [[TPS565201-dat]]
 
 
 
