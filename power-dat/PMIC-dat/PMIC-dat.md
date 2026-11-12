@@ -27,11 +27,16 @@
 
 - [[ismartware-dat]]
 
-
+- [[rockchip-dat]] - [[RK809-dat]]
 
 ## tech 
 
 - [[battery-charger-dat]] - [[battery-1s-dat]]
+
+
+- [[Power-dat]] - [[PMIC-dat]] - [[SBC-dat]]
+
+
 
 ## apps 
 

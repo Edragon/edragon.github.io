@@ -24,6 +24,9 @@
 ## chip and companies
 
 
+
+- [[tctek-dat]] - [[TCS4525-dat]] - 6A, 3MHz Synchronous Step-Down DC-DC with I2C Compatible Interface
+
 - [[allegro-dat]] - [[A8498-dat]] - [[dcdc-down-dat]]
 
 

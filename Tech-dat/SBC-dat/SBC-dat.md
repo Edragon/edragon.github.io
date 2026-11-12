@@ -12,6 +12,17 @@
 
 - [[SBC-dat]] - [[interface-dat]]
 
+- [[rockchip-dat]] - [[RK809-dat]] - [[PMIC-dat]] - [[SBC-dat]]
+
+- [[DDR-dat]] - [[EMMC-dat]] - [[flash-dat]] - [[SBC-dat]]
+
+- [[dcdc-down-dat]]
+
+- [[MIPI-CSI-dat]] - [[MIPI-DSI-dat]] - [[SBC-dat]] - [[HDMI-dat]]
+
+- [[audio-dat]]
+
+- [[wifi-SDIO-dat]]
 
 
 ## prebuild 
@@ -41,6 +52,9 @@
 - [[OPI-DAT]]
 
 - [[rockchip-dat]] - [[RK3588-dat]] - [[RK3506-dat]] - [[RV1103-dat]]
+
+- [[tai-shan-dat]] - [[lcsc-dat]] - [[RK3566-dat]] - [[SBC-dat]]
+
 
 - [[allwinner-dat]] - [[H618-dat]] - [[allwinner-D1-dat]] - [[V3S-dat]] - [[F1C100-dat]]
 

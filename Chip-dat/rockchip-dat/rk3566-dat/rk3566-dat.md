@@ -10,11 +10,23 @@
 
 
 
+## periperals 
+
+- [[Power-dat]] - [[PMIC-dat]] - [[SBC-dat]]
+
+- [[DDR-dat]] - [[memory-dat]]
+
+
 ## app 
 
 - [[rubyFPV-dat]]
 
+- [[NAS-dat]]
 
 
+
+## board 
+
+- [[tai-shan-dat]] - [[lcsc-dat]] - [[RK3566-dat]]
 
 ## ref 

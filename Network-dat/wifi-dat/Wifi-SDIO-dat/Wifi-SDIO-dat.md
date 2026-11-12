@@ -16,6 +16,7 @@
 ## module 
 
 
+- [[AMPAK-dat]] - [[AP6212-dat]] - [[wifi-sdio-dat]]
 
 
 - [[Realtek-dat]] - [[RTL8812-dat]] - [[RTL8822-dat]] - [[RTL8812eu-dat]]
@@ -105,6 +106,16 @@ If you are trying to hook up a compatible matching SDIO Wi-Fi card meant specifi
 ![](2026-10-01-17-48-32.webp)
 
 ![](2026-10-01-17-48-57.webp)
+
+
+
+## apps 
+
+Common Applications
+
+- • Portable and handheld electronic devices
+- • Internet of Things (IoT) and smart home systems
+- • Single-board computers (SBCs) and embedded Linux hardware
 
 
 

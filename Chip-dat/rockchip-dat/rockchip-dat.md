@@ -31,6 +31,11 @@ Rockchip RK682F, a close cousin to the RK628D
 - [[RK682-dat]] - [[RK628-dat]] - [[HDMI-dat]] - [[HDMI-CSI-bridge-dat]]
 
 
+
+## PMIC 
+
+- [[rockchip-dat]] - [[RK809-dat]] - [[PMIC-dat]]
+
 ## ref 
 
 - [[rockchip]]

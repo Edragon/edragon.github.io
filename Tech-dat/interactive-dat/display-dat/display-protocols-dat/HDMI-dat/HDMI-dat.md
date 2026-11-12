@@ -45,6 +45,13 @@ HDMI to CSI bridge - [[HDMI-CSI-bridge-dat]]
 ## SCH 
 
 
+HDMI micro 
+
+![](2026-11-12-15-46-00.png)
+
+![](2026-11-12-15-46-16.png)
+
+
 SCH 4 
 
 ![](2026-09-24-22-45-25.webp)
