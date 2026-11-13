@@ -102,6 +102,9 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 ## chip 
 
 
+- [[linkage-dat]] - [[SM2123E-dat]] - [[led-driver-dat]] 
+
+
 - [[HXC-dat]] - [[LH6112-dat]] - [[H5721-dat]]
 
 
@@ -347,7 +350,16 @@ C07EBA UNH538
 
 ![](2026-06-17-15-08-34.webp)
 
+
+
+
+
 ## APPLICATIONS
+
+
+- [[IOT-dat]] 
+
+![](2026-11-14-03-47-12.png)
 
 - Dual Display LCD Backlighting for PortableApplications
 - Large Format LCD Backlighting
@@ -363,7 +375,12 @@ C07EBA UNH538
  电动自行车照明
  汽车照明等
 
-
+应用领域
+ 应用于智能遥控、人体感应、声控、
+等智能化控制 LED 照明领域
+ T5/T8 系列 LED 日光灯管；
+ LED 平板灯；
+ LED 球泡灯，LED 吸顶灯
 
 
 ### ref 

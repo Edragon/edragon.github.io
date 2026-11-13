@@ -31,7 +31,9 @@ BK3437,上海博通ble5.2
 
 
 
+## camera chip 
 
+BK7252U - [[BK7252U-dat]] - [[beken-dat]]
 
 
 

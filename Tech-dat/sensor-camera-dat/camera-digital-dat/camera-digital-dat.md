@@ -43,6 +43,20 @@
 - [[camera-digital-dat]] - [[Sigmastar-dat]] - [[openHD-dat]] - [[opensource-dat]] - [[openIPC-dat]]
 
 
+
+## chip 
+
+- [[GalaxyCore-dat]]: GC0308, GC0309, GC0311, GC0312, GC0328, GC0329 - [[camera-digital-dat]]
+- [[OmniVision-dat]]: OV2640, OV7660, OV7670, OV7725
+- [[BYD-dat]]: BF3A03, BF30A2, BF2013, BF3703, BF3720
+- [[Hynix-dat]]: HI704
+- [[SuperPix-dat]]: SP0A19, SP0828, SP0A20, SP0718
+Other: XC7011_GC1054, XC7011_H63, XC7016_H63, XCG532
+
+BK7252U - [[BK7252U-dat]] - [[beken-dat]]
+
+
+
 ## commercial maker 
 
 Digital FPV Cameras Available Beyond DJI O4 - [[caddx-dat]]

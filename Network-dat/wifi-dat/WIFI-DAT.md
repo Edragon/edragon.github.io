@@ -2,7 +2,7 @@
 # Wifi  
 
 
-
+- [[wifi-halow-dat]]
 
 - [[wifi-USB-dat]] - [[Wifi-SDIO-dat]] - [[wifi-dat]]
 
