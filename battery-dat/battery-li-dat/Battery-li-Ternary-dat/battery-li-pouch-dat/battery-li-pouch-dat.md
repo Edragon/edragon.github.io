@@ -14,7 +14,7 @@
 
 ![](2026-11-14-01-00-11.png)
 
-- [[conn-dat]]
+- [[conn-dat]] - [[conn-battery-dat]]
 
 
 ## info 
