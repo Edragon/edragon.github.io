@@ -1,9 +1,23 @@
 
-# pouch-battery-dat
+# battery-li-pouch-dat
+
+
+- [[battery-li-pouch-dat]] - [[battery-li-dat]] - [[TP4056-dat]] - [[toy-dat]] - [[FPV-toy-dat]]
 
 
 
+## build 
 
+![](2026-11-14-00-59-42.png)
+
+![](2026-11-14-00-59-57.png)
+
+![](2026-11-14-01-00-11.png)
+
+- [[conn-dat]]
+
+
+## info 
 
 ## **Characteristics of Pouch Batteries**
 1. **Lightweight Design**  

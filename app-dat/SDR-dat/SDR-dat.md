@@ -6,6 +6,9 @@
 
 software defined radio
 
+
+
+
 ## tech 
 
 - [[frequency-dat]] - [[oscillator-dat]] - [[Oscilloscope-dat]] - [[band-dat]]
@@ -25,10 +28,17 @@ software defined radio
 
 ## build 
 
+- [[analog-device-dat]] - [[SDR-pluto-dat]] - [[SDR-dat]] 
+
 
 - [[RP2040-dat]] - [[SI5351-dat]]
 
 ![](2026-09-05-15-43-29.webp)
+
+
+## SDK 
+
+- [[GNU-radio-dat]] - [[SDR-console-dat]]
 
 
 

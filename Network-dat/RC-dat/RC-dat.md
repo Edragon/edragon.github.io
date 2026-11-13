@@ -52,12 +52,16 @@
 
 - [[rc-hack-dat]]
 
-- [[frequency-dat]]
+
 
 - [[battery-dat]] - [[battery-charger-dat]] 
 
 - [[physics-dat]] - [[gravity-dat]]
 
+
+## frequency 
+
+- [[frequency-dat]] - [[2.4ghz-dat]]
 
 ## group 
 

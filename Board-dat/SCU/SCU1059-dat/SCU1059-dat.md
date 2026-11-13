@@ -1,6 +1,9 @@
 
 # SCU1059-dat
 
+
+- [[SCU1059-dat]] - [[motor-coreless-dat]] - [[motor-brushed-coreless-dat]]
+
 ## Info
 
 [product url - 720 Coreless Micro Motor High Speed + Propeller Kit](https://www.electrodragon.com/product/720-coreless-micro-motor-high-speed-propeller-kit/)

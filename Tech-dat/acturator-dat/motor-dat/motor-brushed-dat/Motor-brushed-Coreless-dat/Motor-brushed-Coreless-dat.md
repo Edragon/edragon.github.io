@@ -57,6 +57,8 @@ The **8520 motor** and **615 motor** are two different sizes of micro **coreless
 
 ## Coreless Motors
 
+- [[SCU1059-dat]] - [[motor-coreless-dat]] - [[motor-brushed-coreless-dat]]
+
 **无刷电机（Brushless Motor, BLDC）**与**有刷空心杯电机（Coreless Motor / Brushed Coreless Motor）**是微型电机（如无人机、航模、机器人中常用）的两大主流技术路线。它们最大的区别在于**是否有电刷换向**以及**转子的结构设计**。
 
 以下是两者的核心区别对比：
@@ -98,6 +100,13 @@ The **8520 motor** and **615 motor** are two different sizes of micro **coreless
 
 * **无刷电机**：
 * 广泛应用于**现代主流 FPV 无人机（如视频中提到的 65mm-75mm 乃至大尺寸穿越机）**、航拍无人机、电动汽车、工业机器人、无人机云台、航模固定翼等需要高效率、大扭矩和长寿命的领域。
+
+
+
+
+## build 
+
+- [[motor-brushed-coreless-dat]] - [[propeller-FPV-dat]] - [[FPV-toy-dat]]
 
 
 ## ref 

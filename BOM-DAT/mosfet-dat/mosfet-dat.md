@@ -462,6 +462,9 @@ This device is produced with high cell density DMOS trench technology, uses adva
 
 ![](2026-05-23-15-04-15.webp)
 
+
+
+
 ## mosfet SOT
 
 SOT23-6 2512A 
@@ -470,7 +473,7 @@ The SOT23-6 component marked 2512 (often associated with FDC2512) is an N-Channe
 
 - [[onsemi-dat]]
 
-
+- [[RU307-dat]] - [[ruichips-dat]] - [[mosfet-dat]]
 
 
 

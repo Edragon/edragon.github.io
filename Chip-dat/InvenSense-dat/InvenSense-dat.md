@@ -4,6 +4,8 @@
 
 
 
+
+
 - [[invensense-dat]] - [[TDK-dat]] - [[ICM42688-dat]]
 
 
@@ -20,6 +22,16 @@
 - [[ICS-43434-dat]]
 
 - [[MPU9250-dat]]
+
+
+
+
+- [[invensense-dat]] - [[FPV-toy-dat]] - [[ICM-14605-dat]] - [[ICM-14604-dat]] - [[IMU-dat]]
+
+https://product.tdk.com/en/search/sensor/mortion-inertial/imu/info?part_no=ICM-40605
+
+
+
 
 
 

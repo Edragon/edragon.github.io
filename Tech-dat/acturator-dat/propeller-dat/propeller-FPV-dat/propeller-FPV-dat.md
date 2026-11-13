@@ -265,6 +265,16 @@ EX1103 KV11000【CW黑线带红点】
 
 
 
+
+## build 
+
+- [[motor-brushed-coreless-dat]] - [[propeller-FPV-dat]] - [[FPV-toy-dat]]
+
+foldable 
+
+![](2026-11-14-00-56-29.png)
+
+
 ## ref 
 
 

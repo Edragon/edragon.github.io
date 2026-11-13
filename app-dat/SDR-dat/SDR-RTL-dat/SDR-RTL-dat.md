@@ -1,7 +1,7 @@
 
 # SDR-RTL-dat
 
-- [[SDR-dat]] - [[SDR-RTL-dat]]
+- [[SDR-dat]] - [[SDR-RTL-dat]] - [[realtek-dat]]
 
 Software Defined Radio (SDR)
 
