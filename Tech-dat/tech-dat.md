@@ -371,7 +371,7 @@
 
 - [[physics-dat]] - [[lens-dat]] - [[weight-dat]] - [[thermal-dat]]
 
-- [[shipment-dat]] - [[shipment-country-dat]]
+- [[shipment-dat]] - [[shipment-country-dat]] - [[shipment-cost-dat]] - [[shipment-express-zone-dat]] 
 
 - [[projects-dat]]
 

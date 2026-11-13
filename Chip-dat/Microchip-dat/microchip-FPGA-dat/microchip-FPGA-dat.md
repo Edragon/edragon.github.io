@@ -11,7 +11,7 @@ M2S005-VFG400I
 
 M2S005-VFG400I == ARM® Cortex®-M3 System On Chip (SOC) IC SmartFusion®2 FPGA - 5K Logic Modules 166MHz 400-VFBGA (17x17)
 
-
+A3P250 - Ultra Low Density FPGAs
 
 - [A3PE1500 == Ultra Low Density FPGAs](https://www.microchip.com/en-us/product/a3pe1500)
 
