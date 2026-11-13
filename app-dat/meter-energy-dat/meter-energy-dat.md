@@ -19,6 +19,11 @@
 
 - [[ESP32-S3-HDK-dat]]
 
+## chip 
+
+
+- [[chipsea-dat]] - [[CSE7766-dat]] - [[meter-energy-dat]]
+
 
 
 
@@ -50,7 +55,7 @@ display
 ![](2026-11-09-00-39-06.webp)
 
 
-- [[BL0942-dat]] - [[meter-energy-dat]] - [[belling-dat]]
+- [[BL0942-dat]] - [[meter-energy-dat]] - [[belling-dat]] 
 
 ![](2026-11-09-00-39-55.webp)
 
