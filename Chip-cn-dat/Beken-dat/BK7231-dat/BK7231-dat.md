@@ -10,6 +10,19 @@
 
 The BK7231 is a low-cost, highly integrated Wi-Fi (802.11 b/g/n) and Bluetooth (BLE) system-on-chip (SoC) family manufactured by Beken Corporation.
 
+
+
+
+## build 
+
+![](2026-11-14-01-11-03.png)
+
+![](2026-11-14-01-11-22.png)
+
+
+
+
+
 ## apps 
 
 - [[camera-digital-dat]] - [[FPV-toy-dat]] 
@@ -187,11 +200,6 @@ Here's the memory layout used by Tuya.
 
 The ITCM section is used for timing-critical functions which are executed from RAM memory. This means there are no extra random delays caused by fetching instructions from flash. Doing precise bitbang drivers won't work when a function is stored in flash.
 
-## build 
-
-![](2026-11-14-01-11-03.png)
-
-![](2026-11-14-01-11-22.png)
 
 ## ref 
 

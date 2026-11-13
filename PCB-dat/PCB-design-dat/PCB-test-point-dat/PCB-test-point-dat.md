@@ -1,5 +1,5 @@
 
-# test-point-dat
+# PCB-test-point-dat
 
 - [[PCB-design-dat]] - [[test-point-dat]]
 
@@ -101,6 +101,11 @@
 
 
 ## build 
+
+app 2 - [[FPV-toy-dat]] - [[PCB-test-point-dat]]
+
+![](2026-11-14-04-01-34.png)
+
 
 app 1 - [[insta360-go2-dat]]
 

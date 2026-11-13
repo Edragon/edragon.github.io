@@ -10,7 +10,7 @@
 
 - [[motor-brushed-coreless-dat]] 
 
-- [[camera-digital-dat]]
+- [[camera-digital-dat]] - [[BK7231-dat]] - [[beken-dat]]
 
 - [[rc-protocols-dat]] - [[rc-dat]]
 
@@ -23,7 +23,6 @@ build 1
 
 ![](2026-11-14-00-34-42.png)
 
-![](2026-11-14-00-34-58.png)
 
 - Transmitter site:
 - Chip: RF2518
@@ -38,6 +37,11 @@ build 1
 - [[RU307-dat]] - [[ruichips-dat]] - [[mosfet-dat]]
 
 ![](2026-11-14-00-48-28.png)
+
+![](2026-11-14-00-34-58.png)
+
+- [[test-point-dat]]
+
 
 - [[invensense-dat]] - [[FPV-toy-dat]] - [[ICM-14605-dat]] - [[ICM-14604-dat]] - [[IMU-dat]]
 
@@ -55,6 +59,13 @@ ARM
 - [[propeller-FPV-dat]]
 
 
-- [[battery-dat]] - [[pouch-battery-dat]]
+- [[battery-dat]] - [[battery-li-pouch-dat]]
+
+
+- [[camera-digital-dat]] - [[BK7231-dat]] - [[beken-dat]]
+
 
 ## ref 
+
+
+![](2026-11-14-03-56-08.png)
