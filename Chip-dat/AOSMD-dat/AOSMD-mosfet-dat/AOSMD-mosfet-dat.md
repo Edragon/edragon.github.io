@@ -4,7 +4,7 @@
 
 
 
-- [[AOSMD-mosfet-dat]] - [[4264E-dat]] - [[AON7934-dat]]
+- [[AOSMD-mosfet-dat]] - [[4264E-dat]] - [[AON7934-dat]] - [[mosfet-dat]]
 
 `AON7934`
 Low Voltage MOSFETs (12V - 30V)
@@ -46,7 +46,22 @@ Low Voltage MOSFETs (12V - 30V)
 
 ## SOP 8 
 
-The `4435A` SOP refers to a P-Channel enhancement-mode MOSFET housed in a surface-mount SOP-8 (Small Outline Package). Transistors like the `FDS4435A` or `AO4435` are widely used for power management and battery-powered circuits.
+
+- [[AO4435A-dat]] - [[AO4410-dat]] - [[AOSMD-mosfet-dat]] - [[ZXW602-dat]] - [[mosfet-dat]] 
+
+The `4410` (such as the `AO4410` or general equivalent 4410-series chips) is a surface-mount N-Channel Enhancement Mode Power MOSFET housed in a standard SOP-8 (or SO-8) package.
+
+Key Specifications
+
+• Type: **N-Channel Power MOSFET**
+• Drain-Source Voltage (\(V_{DS}\)): 30V
+• Continuous Drain Current (\(I_{D}\)): Typically 10A to 18A (depending on the specific manufacturer variant like UMW AO4410)
+• On-Resistance (\(R_{DS(on)}\)): Very low (approx. 5.5mΩ to 14mΩ depending on \(V_{GS}\))
+• Gate-Source Voltage (\(V_{GS}\)): ± 12V to ± 20V
+• Package: SOP-8 / 8-SOIC
+
+
+The `4435A` SOP refers to a **P-Channel enhancement-mode MOSFET** housed in a surface-mount SOP-8 (Small Outline Package). Transistors like the `FDS4435A` or `AO4435` are widely used for power management and battery-powered circuits.
 
 
 

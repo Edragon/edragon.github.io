@@ -22,6 +22,10 @@
 - [[battery-protector-1s-dat]] - [[xysemi-dat]]
 
 
+- [[battery-protector-1s-dat]] - [[HY2113-dat]] - [[HYCONtek-dat]] - [[ZXW602-dat]]
+
+
+
 ## solution 1 DW01 + 8205
 
 - reverse-direction protection - ? [[RDP-protection-dat]] - [[mosfet-dat]]

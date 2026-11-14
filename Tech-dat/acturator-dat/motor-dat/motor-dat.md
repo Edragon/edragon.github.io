@@ -225,6 +225,9 @@ more comprehansive Brushed vs. Brushless DC Motors
 
 - [[pump-dat]] - [[motor-dat]]
 
+- [[fan-driver-dat]] - [[motor-driver-dat]] - [[motor-dat]]
+
+
 
 
 ## build special 

@@ -49,6 +49,10 @@ high power - [[OPMS080-dat]]
 - [[AXElite-dat]] - [[AX5201-dat]] - [[dcdc-boost-dat]]
 
 
+- [[DCDC-boost-dat]] - [[GMT-dat]] - [[G5177C-dat]]
+
+
+
 ## compare 
 
 | model        | description                                                          | peripherals | type        |

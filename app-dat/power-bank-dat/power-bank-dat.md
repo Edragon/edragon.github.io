@@ -18,6 +18,11 @@
 - [[SW6003-dat]] - [[ismartware-dat]]
 
 
+- [[SW6005-dat]] - [[SW6808-dat]] - [[power-bank-dat]] - [[ismartware-dat]]
+
+
+- [[ZXWTEK-dat]] - [[ZXW602-dat]]- [[power-bank-dat]]
+
 ## QC 
 
 

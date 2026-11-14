@@ -17,7 +17,8 @@
 
 
 
-- [[ismartware-dat]] - [[SW6005-dat]] - [[SW6808-dat]]
+- [[SW6005-dat]] - [[SW6208-dat]]  - [[power-bank-dat]] - [[ismartware-dat]]
+
 
 ## SW3518
 

@@ -13,6 +13,24 @@ https://www.hycontek.com
 ![](2026-02-12-21-04-09.webp)
 
 
+
+- [[hycontek-dat]] - [[HY2112-dat]] - [[battery-protector-dat]] - [[BMS-active-dat]]
+
+
+
+- [[HY2112-dat]]
+
+1-Cell LiFePO4 Battery Packs Protection ICs
+
+
+
+- [[battery-protector-1s-dat]] - [[HY2113-dat]] - [[HYCONtek-dat]] - [[ZXW602-dat]]
+
+
+
+
+
+
 ## 2S 
 
 - [[battery-2s-dat]]

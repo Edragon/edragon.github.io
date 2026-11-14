@@ -443,6 +443,8 @@ You then only need 2 PWM pins from your microcontroller connected to L_PWM and R
 
 - [[motor-driver-dat]] - [[motor-driver-rc-dat]]
 
+- [[fan-driver-dat]] - [[motor-driver-dat]] - [[motor-dat]]
+
 
 ## ref 
 

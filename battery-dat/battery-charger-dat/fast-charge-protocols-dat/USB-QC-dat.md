@@ -6,6 +6,28 @@
 
 - [[conn-usb-micro-dat]] - [[conn-usb-type-c-dat]]
 
+
+
+## chip 
+
+- [[qualcomm-dat]] - [[USB-QC-dat]] - [[FT4SJK-dat]] - [[ZXW602-dat]]
+
+
+`FT4SJK` is a top-side SMD marking code found on a tiny USB fast-charging protocol controller IC (integrated circuit), typically housed in a SOT-23-6 package. 
+
+It is commonly seen inside USB wall chargers and power banks, such as Yoobao Quick Charge 3.0 adapters.
+
+Key Details & Function
+
+- • Primary Role. The chip negotiates fast-charging voltages (such as Qualcomm Quick Charge 2.0/3.0) between the charger or power bank and a connected mobile device.
+- • Circuit Placement. Its pins connect directly to the USB D+ and D- data lines to detect the attached device and communicate voltage requests to the main power management IC.
+- • Datasheet Availability. FT4SJK is a proprietary marking code (often a batch or house code from a Chinese semiconductor manufacturer) rather than a standard part number, meaning public datasheets are generally unavailable.
+
+
+
+
+## info 
+
 1. Different "Languages" (Protocols)
  
 QC 2.0: Uses the D+ and D- data lines of a USB cable to negotiate voltage by changing the DC voltage levels on those pins.

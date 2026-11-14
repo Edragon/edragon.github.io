@@ -113,7 +113,11 @@ SOT23-3
 - [[SI2301-dat]]
 
 SOP-8
-- [[AO4407-dat]]
+- [[AO4407-dat]] - [[AOSMD-mosfet-dat]]
+
+- [[AO4435A-dat]] - [[AO4410-dat]] - [[AOSMD-mosfet-dat]] - [[ZXW602-dat]] - [[mosfet-dat]] - [[power-bank-dat]]
+
+
 
 TO-252 
 - [[AOD4185-dat]] - P - 40A / 40V
