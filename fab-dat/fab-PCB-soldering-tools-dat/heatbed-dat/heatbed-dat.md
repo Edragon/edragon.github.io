@@ -1,8 +1,8 @@
 
-# preheat-bed-dat
+# heatbed-dat
 
 
-- [[fab-PCB-soldering-tools-dat]] - [[fab-reflow-dat]] - [[preheat-bed-dat]] - [[hot-air-station-dat]]
+- [[fab-PCB-soldering-tools-dat]] - [[fab-reflow-dat]] - [[heatbed-dat]] - [[hot-air-station-dat]]
 
 - desoldering temperature 270 degree C
 
@@ -17,6 +17,22 @@
 5. 全部锡变亮后，再保持 20-30 秒（让大热容焊点彻底融透）
 6. 快速取下冷却（移到金属台/大理石/吹风）— 冷却 ≤4°C/s，别在台上慢慢凉
 7. 台面停留过久 = 氧化、烧板、元件损伤
+
+
+
+## use 
+
+
+- [[smart-wristband-dat]] - [[xiaomi-dat]] - [[dialog-dat]] - [[DA14697-dat]] - [[heatbed-dat]]
+
+
+![](2026-11-14-15-51-14.png)
+
+- [[apple-dat]] - [[ipod-dat]] - [[heatbed-dat]]
+
+
+![](2026-11-14-15-52-00.png)
+
 
 
 

@@ -1,6 +1,16 @@
 
 # Dialog-dat
 
+
+
+
+
+
+- [[smart-wristband-dat]] - [[xiaomi-dat]] - [[dialog-dat]] - [[DA14697-dat]]
+
+
+
+
 2021年8月31日 — With the transaction now closed, Dialog became a wholly owned subsidiary of [[Renesas-dat]].
 
 

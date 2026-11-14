@@ -1,7 +1,13 @@
 
 # PHY-co-dat
 
-PHY6202 - Bluetooth Low Energy (BLE) System on Chip
+
+- [[BLE-dat]] - [[phy-co-dat]] - [[smart-wristband-dat]]
+
+
+## PHY6202
+
+`PHY6202` - Bluetooth Low Energy (BLE) System on Chip
 
 Key Features • ARM® Cortex™-M0 32-bit processor • Memory
 
