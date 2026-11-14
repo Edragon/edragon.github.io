@@ -102,6 +102,20 @@ Transistors are mainly divided into two major families based on their underlying
 - SS8050 == Y1 
 
 
+
+## SOT23-3 
+
+
+4320
+
+The designation 4320 SOT23-3 commonly refers to low \(V_{CEsat}\) (low saturation voltage) NPN bipolar junction transistors (BJTs) packaged in a surface-mount SOT-23-3 (TO-236) package, rated typically for `20V` collector-emitter voltage and `2A` continuous collector current.
+
+`PBSS4320T` (such as the PBSS4320T,215) by Nexperia: NPN low \(V_{CEsat}\) (Pass PNP/NPN) 20V, 2A transistor in SOT-23-3.
+
+`DSS4320T-7` - NPN BJT, 20 V, 2 A, 100 MHz, 600 mW in SOT-23-3.
+
+
+
 ### more NPN 
 
 

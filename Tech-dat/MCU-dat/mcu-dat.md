@@ -66,6 +66,15 @@
 - [[intel-dat]] - [[i486-DX4-dat]]
 
 
+
+
+## chip 
+
+- [[MCU-dat]] - [[ABOV-dat]] - [[A94B114FRN-dat]]
+
+
+
+
 ## arm 
 
 - [[gigadevice-dat]] - [[arm-dat]] - [[MCU-dat]] - [[chip-cn-dat]] - [[GD32F130-dat]]

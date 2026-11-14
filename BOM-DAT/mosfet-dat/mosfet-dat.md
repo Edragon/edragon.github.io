@@ -415,6 +415,9 @@ MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 ## MOSFET SOP-8
 
 
+- [[NCEpower-mosfet-dat]]
+
+
 - [[mosfet-dat]] - [[rohm-dat]] - [[SH8K1-dat]] - 4V Drive Dual N-channel MOSFET - [[motor-brushless-dat]] - [[BT6604-dat]]
 
 
