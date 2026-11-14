@@ -2,6 +2,10 @@
 # motor-130-dat
 
 
+- [[motor-540-dat]] - [[motor-380-dat]] - [[motor-130-dat]] - [[motor-brushed-dat]]
+
+
+
 
 ## advanced 130 motor 
 
