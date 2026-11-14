@@ -19,6 +19,10 @@ overview
 
 ![](2026-11-14-17-01-59.png)
 
+![](2026-11-14-17-29-48.png)
+
+![](2026-11-14-17-30-03.png)
+
 339S0104 - [[apple-dat]] - [[339S0104-dat]] - [[samsung-dat]] - [[ARM-dat]] - [[ARM-11-dat]] - [[ipod-dat]]
 
 The Apple `339S0104` is the primary System-on-Chip (SoC) and integrated memory package used in the 6th-generation iPod nano (released in 2010 and updated in 2011). It is a custom Apple-branded silicon package manufactured by Samsung that houses both the main application processor and the device's system RAM.

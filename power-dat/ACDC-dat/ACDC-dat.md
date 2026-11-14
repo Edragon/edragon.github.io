@@ -229,6 +229,17 @@ Chip Solutions
 
 ## build 
 
+
+### build 11 
+
+![](2026-11-14-17-12-55.png)
+
+- [[rectifier-dat]] - [[mosfet-dat]]
+
+![](2026-11-14-17-17-44.png)
+
+- [[ACDC-dat]] - [[voltage-high-dat]]
+
 ### build 10 
 
 ![](2026-10-14-03-06-11.webp)

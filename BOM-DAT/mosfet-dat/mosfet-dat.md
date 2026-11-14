@@ -180,9 +180,37 @@ DMP2066LSN - P-CHANNEL ENHANCEMENT MODE MOSFET
 
 
 
+### high voltage mosfet 
+
+FQPF7N65C - N-Channel QFET® MOSFET - 650 V, 7 A, 1.4 Ω
+
+- • 7 A, 650 V, RDS(on).= 1.4 Ω (Max.) @ VGS = 10 V, ID = 3.5 A
+- • Low Gate Charge (Typ. 28 nC)
+- • Low Crss (Typ. 12 pF)
+- • 100% Avalanche Tested
+
 ### high power mosfet 
 
 ![](2024-08-28-14-43-36.webp)
+
+
+### high current mosfet 
+
+
+== - [[led-driver-dat]] - [[acdc-led-driver-dat]]
+
+Infineon `IRFB7430` (or IRFB7430PBF) — TO-220 Power MOSFET == marking `7430` == 195A 
+
+- • Type: N-Channel Power MOSFET (StrongIRFET™)
+- • Drain-Source Voltage (\(V_{DS}\)): 40 V
+- • Continuous Drain Current (\(I_{D}\)): 195 A (\(T_C = 25^\circ\text{C}\))
+- • On-Resistance (\(R_{DS(on)}\)): Max 1.3 mΩ (\(@ V_{GS} = 10\text{V}\), \(I_D = 100\text{A}\))
+- • Package: TO-220AB (Through-hole)
+- • Common Applications: Brushed/BLDC motor drives, high-current battery-powered circuits, synchronous rectification, and DC-DC converters.
+
+
+
+
 
 #### IRFL210PBF SOT-223
 
@@ -409,6 +437,11 @@ MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 - [[APM-dat]]
 
 - [[mosfet-dat]] B115 B14 - [[battery-balance-charger-dat]] - [[LK-1008D-dat]]
+
+- [[IPS-dat]] - [[IPS-mosfet-dat]] - [[mosfet-dat]] - ITA15N50A == 50V
+
+
+
 
 
 

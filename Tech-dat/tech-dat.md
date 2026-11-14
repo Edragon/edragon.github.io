@@ -38,14 +38,14 @@
 
 ## chips 
 
-- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[maxim-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[realtek-dat]] - [[infineon-dat]] - [[CD40xx-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[realtek-dat]] - [[silicon-labs-dat]] - [[Melexis-dat]] - [[joulwatt-dat]] - [[nordic-dat]] - [[AVR-dat]] - [[toshiba-dat]] - [[NXP-dat]] - [[amd-dat]] - [[ST-dat]] - [[NE555-dat]]
+- [[chip-dat]] - [[TI-dat]] - [[analog-device-dat]] - [[maxim-dat]] - [[silicon-labs-dat]] - [[onsemi-dat]] - [[maxlinear-dat]] - [[microchip-dat]] - [[nordic-dat]] - [[bosch-dat]] - [[rockchip-dat]] - [[realtek-dat]] - [[infineon-dat]] - [[CD40xx-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[realtek-dat]] - [[silicon-labs-dat]] - [[Melexis-dat]] - [[joulwatt-dat]] - [[nordic-dat]] - [[AVR-dat]] - [[toshiba-dat]] - [[NXP-dat]] - [[amd-dat]] - [[ST-dat]] - [[NE555-dat]] - [[holtek-dat]]
 
 - [[chip-cn-dat]] - [[fuman-dat]] - [[injoinic-dat]] - [[jieli-dat]] - [[wch-dat]] - [[CONSONANCE-dat]] - [[ESP32-dat]] - [[ESP8266-dat]] - [[ismartware-dat]] - [[microne-dat]] - [[ESP32-S3-dat]] - [[CMsemicon-dat]] - [[DJI-dat]] - [[hisilicon-dat]] 
 
 
 ## New Tech And Updates 
 
-- [[high-voltage-dat]]
+- [[voltage-high-dat]]
 
 - [[lora-dat]] - [[SX1262-dat]]
 

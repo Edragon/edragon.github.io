@@ -1,7 +1,7 @@
 
-# high-voltage-dat
+# voltage-high-dat
 
-- [[power-dat]] - [[high-voltage-dat]] 
+- [[power-dat]] - [[voltage-high-dat]] - [[voltage-dat]]
 
 
 ## board 
@@ -34,6 +34,22 @@ It's suitable for capacitor charging, hunting, rodent control, and Nixie tube po
 - **Jacob’s Ladder**: Demonstrates electrical arcs climbing between two wires.
 - **Photomultiplier Tube**: Sensitive light detector requiring high voltage for operation.
 - **X-ray Tube**: Produces X-rays using high voltage to accelerate electrons.
+
+
+
+## mosfet 
+
+- [[ACDC-dat]] - [[voltage-high-dat]] - [[rectifier-dat]]
+
+![](2026-11-14-17-23-00.png)
+
+
+
+## build 
+
+high voltage generator board 1 
+
+![](2026-11-14-17-39-56.png)
 
 
 
