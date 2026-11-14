@@ -26,6 +26,10 @@
 
 - [[audio-dat]] - [[codec-audio-dat]] - [[amplifier-audio-dat]] - [[speaker-dat]] - [[speaker-I2S-dat]] - [[DAC-dat]]
 
+- [[speaker-dat]] - [[speaker-cavity-dat]] - [[audio-dat]]
+
+
+
 
 - [[mp3-dat]] - [[wav-dat]] - [[mp3-decoder-dat]] - [[wave-dat]]
 
@@ -45,6 +49,12 @@
 - [[infrared-app-dat]] - [[LM386-dat]] - [[infrared-dat]] - [[audio-dat]] - [[app-dat]]
 
 - [[DSP-dat]]
+
+
+
+
+
+
 
 ## chip 
 

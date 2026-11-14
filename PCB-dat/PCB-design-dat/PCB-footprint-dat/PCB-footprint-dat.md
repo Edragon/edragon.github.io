@@ -34,6 +34,8 @@
 - [[DIP8-dat]] - [[SOP8-dat]] - [[PCB-footprint-dat]] - [[PCB-dat]]
 
 
+- [[WSON-8-dat]] - [[PCB-footprint-dat]] - [[flash-nor-dat]] 
+
 
 
 

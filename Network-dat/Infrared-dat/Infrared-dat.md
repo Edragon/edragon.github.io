@@ -100,6 +100,16 @@ legacy wiki page - [Infrared for RPI](https://www.electrodragon.com/w/index.php?
 - LIRC 
 
 
+
+
+## chip 
+
+- [[kexinda-dat]] - [[KXD194-dat]] - [[infrared-dat]] 
+
+
+
+
+
 ## ref 
 
 - [[infrared-dat]]
