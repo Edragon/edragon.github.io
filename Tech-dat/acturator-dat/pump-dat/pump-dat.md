@@ -4,6 +4,9 @@
 - [[pump-dat]] - [[pump-jet-dat]] - [[propeller-dat]]
 
 
+- [[pump-dat]] - [[motor-dat]]
+
+
 ## tech 
 
 - [[fitting-dat]] - [[nozzle-dat]]
@@ -11,6 +14,41 @@
 
 
 
+
+
+## build 
+
+inside 
+
+![](2026-11-14-13-53-29.png)
+
+![](2026-11-14-13-53-49.png)
+
+![](2026-11-14-13-54-11.png)
+
+- [[shaft-motor-dat]]
+
+![](2026-11-14-13-55-40.png)
+
+![](2026-11-14-13-55-58.png)
+
+![](2026-11-14-13-58-30.png)
+
+
+- [[pump-diaphragm-dat]]
+
+![](2026-11-14-13-57-20.png)
+
+![](2026-11-14-13-57-34.png)
+
+
+
+- [[switch-limit-dat]] - [[switch-dat]]
+
+
+
+
+## type 
 
 ### water pump 
 
