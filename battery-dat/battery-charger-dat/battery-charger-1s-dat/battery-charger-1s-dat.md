@@ -33,6 +33,7 @@
 ## chip 
 
 
+
 - [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]] - [[battery-charger-1s-dat]]
 
 
@@ -49,6 +50,8 @@ http://www.microchip.com/MCP73833
 
 
 - [[XT4052-dat]] - [[natlinear-dat]] - [[TP4052-dat]]
+
+- [[HX4004-dat]] - [[TP4056-dat]] - [[dcdc-boost-dat]] - [[battery-charger-1s-dat]]
 
 
 ### Charge current selection

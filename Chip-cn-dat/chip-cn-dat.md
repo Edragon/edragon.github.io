@@ -9,7 +9,7 @@
 
 ## chips 
 
-
+- [[A3-dat]]
 
 - [[chip-dat]] - [[chip-cn-dat]]
 
@@ -64,6 +64,8 @@
 - [[geehy-dat]] - [[APM32F030-dat]] - [[chip-cn-dat]]
 
 - [[holtek-dat]] - [[hcwsemi-dat]]
+
+- [[heroic-dat]] - [[HT8691-dat]]
 
 - [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]]
 

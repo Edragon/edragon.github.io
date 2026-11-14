@@ -16,6 +16,9 @@
 
 
 
+
+- [[ismartware-dat]] - [[SW6005-dat]] - [[SW6808-dat]]
+
 ## SW3518
 
 
