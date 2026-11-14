@@ -44,8 +44,11 @@
 
 
 5V input LiIo Charger
-Microchip MCP73833
+Microchip `MCP73833`
 http://www.microchip.com/MCP73833
+
+
+- [[XT4052-dat]] - [[natlinear-dat]] - [[TP4052-dat]]
 
 
 ### Charge current selection

@@ -1,12 +1,19 @@
 
 # SDR1076-dat
 
+
+
+
+
+
+
+
 ## Info
 
 [product url - TB6600 Stepper Drive Mstep-32, 4A, 42VDC](https://www.electrodragon.com/product/tb6600/)
 
 
-- [[TB6600-dat]]
+- [[SDR1076-dat]] - [[TB6600-dat]] - [[motor-stepper-dat]] - [[motor-driver-dat]]
 
 
 

@@ -4,7 +4,8 @@
 
 
 
-- [[XT2052-dat]] - [[battery-charger-1s-dat]]
+- [[XT2052-dat]] - [[battery-charger-1s-dat]] - [[XT4052-dat]] - [[natlinear-dat]] - [[TP4052-dat]]
+
 
 - [[battery-charger-dat]] - [[natlinear-dat]]
 

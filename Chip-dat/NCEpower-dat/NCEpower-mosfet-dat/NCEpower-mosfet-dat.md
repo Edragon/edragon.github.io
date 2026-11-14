@@ -25,6 +25,11 @@ NCE6050
 NCE4080 / NCE40P70
 
 
+
+## 2060K 
+
+The `2060K` (such as the NCE2060K by Wuxi NCE Power or equivalent units from Fuman/Fine Made) is an N-Channel enhancement-mode power MOSFET packaged in a surface-mount TO-252-2 (DPAK) housing.
+
 ## NCE8295 
 
 ![](2026-07-01-15-18-25.webp)

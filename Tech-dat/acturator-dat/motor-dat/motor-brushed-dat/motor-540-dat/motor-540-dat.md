@@ -11,7 +11,7 @@
 
 - [[motor-brushed-dat]] - [[motor-540-dat]] 
 
-540
+540 == about 106 g 
 
 550 
 
