@@ -73,7 +73,9 @@
 
 - [[battery-charger-dat]] - [[fast-charge-protocols-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]] - [[battery-charge-boost-dat]] - [[battery-balancer-dat]] - [[battery-protector-dat]] 
 
-- [[ac-mains-dat]] - [[acdc-dat]]
+- [[battery-protector-1s-dat]] 
+
+- [[ac-mains-dat]] - [[acdc-dat]] - [[acdc-led-driver-dat]]
 
 - [[power-wireless-dat]]
 

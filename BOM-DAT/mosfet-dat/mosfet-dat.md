@@ -458,7 +458,9 @@ MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 - [[mosfet-dat]] - [[rohm-dat]] - [[SH8K1-dat]] - 4V Drive Dual N-channel MOSFET - [[motor-brushless-dat]] - [[BT6604-dat]]
 
 
+TF4805 - [[Tuofeng-dat]] - [[mosfet-dat]]
 
+TF9926A - [[Tuofeng-dat]] - [[mosfet-dat]]
 
 
 - [[xin-fei-hong-dat]] - `FH4811` - N-Channel Enhancement Mode Power MOSFET

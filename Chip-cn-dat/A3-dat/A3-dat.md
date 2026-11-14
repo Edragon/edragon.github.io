@@ -23,6 +23,18 @@ Key details:
 - [[audio-dat]]
 
 
+## PDSA15E2C
+
+- [[battery-charger-1s-dat]]
+
+![](2026-11-14-21-31-31.png)
+
+![](2026-11-14-21-31-44.png)
+
+- [[amplifier-audio-dat]] - [[HAA9811-dat]] - [[Hynitron-dat]] 
+
+![](2026-11-14-21-33-53.png)
+
 ## PNSA15E2D
 
 ![](2026-11-14-21-10-07.png)

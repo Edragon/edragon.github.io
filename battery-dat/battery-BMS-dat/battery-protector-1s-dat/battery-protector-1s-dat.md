@@ -87,6 +87,14 @@ $$I = \frac{0.15}{0.05} = 3\text{A}$$
 ## build 
 
 
+build 4 
+
+- [[8205-dat]] - [[mosfet-dat]] - [[DW01-dat]]
+
+![](2026-11-14-21-40-33.png)
+
+
+
 build 3 
 
 - [[8205-dat]] - [[mosfet-dat]] 

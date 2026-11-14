@@ -57,6 +57,9 @@
 
 - [[PCM1808-dat]] - [[I2S-dat]]
 
+
+
+
 ## chip 
 
 
@@ -109,7 +112,7 @@ Low-Power Audio Amplifiers
 - [[HT6872-dat]]
 
 
-
+- [[amplifier-audio-dat]] - [[HAA9811-dat]] - [[Hynitron-dat]] 
 
 
 

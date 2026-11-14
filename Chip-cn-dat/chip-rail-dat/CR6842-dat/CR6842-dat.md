@@ -21,6 +21,9 @@ Green-Power PWM Controller with Freq. Jittering
 
 ## build 
 
+- [[CR6842-dat]] - [[chip-rail-dat]] - [[acdc-dat]] - [[led-driver-dat]] - [[ACDC-led-driver-dat]]
+
+
 main chip CR6842 - plus - [[LM358-dat]]
 
 ![](2026-07-25-18-18-00.webp)
