@@ -19,6 +19,9 @@
 
 
 
+
+
+
 ## chip 
 
 - [[MAX30100-dat]] - [[MAX30102-dat]] - [[sensor-bio-dat]]
@@ -35,6 +38,10 @@
 ## apps 
 
 Pulse Oximeter
+
+- [[sensor-bio-dat]] - [[healthcare-dat]] 
+
+
 
 
 ## un-sort 
