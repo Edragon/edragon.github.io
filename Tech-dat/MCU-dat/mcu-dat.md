@@ -2,9 +2,8 @@
 # MCU-dat 
 
 
-- [[CPU-dat]]
-- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]]
 
+- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]] - [[FPU-dat]] - [[IOT-dat]]
 
 - [[wifi-dat]] - [[IOT-dat]] - [[MCU-dat]] 
 

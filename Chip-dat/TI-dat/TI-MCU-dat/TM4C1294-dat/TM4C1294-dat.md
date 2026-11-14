@@ -2,10 +2,10 @@
 
 # TM4C1294-dat
 
-- [[IOT-dat]] - [[MCU-dat]] - [[ethernet-dat]] - [[USB-SDK-dat]] - [[TI-MCU-dat]] - [[TM4C1294-dat]]
+- [[IOT-dat]] - [[MCU-dat]] - [[ethernet-dat]] - [[USB-SDK-dat]] - [[TI-MCU-dat]] - [[TM4C1294-dat]] - [[USB-2.0-dat]] - [[CAN-dat]] - [[serial-dat]]
 
 
-The Texas Instruments TM4C1294 is a 32-bit ARM Cortex-M4F-based microcontroller belonging to the Tiva™ C Series. It is widely used for connected embedded systems, internet-of-things (IoT) applications, and real-time control.
+The Texas Instruments `TM4C1294` is a 32-bit ARM Cortex-M4F-based microcontroller belonging to the Tiva™ C Series. It is widely used for connected embedded systems, internet-of-things (IoT) applications, and real-time control.
 
 Key Specifications
 

@@ -1,7 +1,7 @@
 
 # CPU-dat
 
-- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]]
+- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]] - [[FPU-dat]] - [[IOT-dat]]
 
 
 国科微 GK6323 芯片

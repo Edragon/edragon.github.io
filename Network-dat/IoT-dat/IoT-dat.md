@@ -4,6 +4,8 @@
 
 - [[wifi-dat]] - [[IOT-dat]] 
 
+- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]] - [[FPU-dat]] - [[IOT-dat]]
+
 ## chip 
 
 
@@ -38,3 +40,5 @@
 ## ref 
 
 - [[network-dat]]
+
+- [[projects-dat]]

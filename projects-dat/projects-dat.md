@@ -23,6 +23,10 @@
 
 ## IOT 
 
+- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]] - [[FPU-dat]] - [[IOT-dat]]
+
+
+
 ### LTE 
 
 
