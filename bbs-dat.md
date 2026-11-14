@@ -11,7 +11,7 @@ Aircraft - Electric - FPV FPV Equipment Discussion Ruby: Digital FPV System (ver
 
 https://www.rcgroups.com/forums/showthread.php?3880253-Ruby-Digital-FPV-System-(version-11-8)
 
-
+https://www.eevblog.com
 
 
 ## ref 

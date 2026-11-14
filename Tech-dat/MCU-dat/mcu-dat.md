@@ -2,7 +2,7 @@
 # MCU-dat 
 
 
-
+- [[CPU-dat]]
 
 - [[diodes-dat]] - [[reset-dat]] - [[AXP803-dat]] - [[MCU-dat]]
 
