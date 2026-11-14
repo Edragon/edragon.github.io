@@ -346,6 +346,26 @@ Depending on your hardware layout, series packs are physically charged using one
 ## build 
 
 
+build 4 - 4CH 
+
+- [[transistor-dat]] - [[mosfet-dat]] - [[NCEpower-mosfet-dat]] - [[battery-charger-dat]]
+
+![](2026-11-14-15-05-47.png)
+
+![](2026-11-14-15-05-59.png)
+
+- [[MCU-dat]] - [[ABOV-dat]] - [[A94B114FRN-dat]] - [[battery-charger-dat]]
+
+
+
+
+build 3 - 2CH 
+
+![](2026-11-14-15-10-04.png)
+
+![](2026-11-14-15-10-17.png)
+
+
 build 2 - commerial charger - [[toolkitrc-dat]]
 
 build 1 

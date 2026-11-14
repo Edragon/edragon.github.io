@@ -1,12 +1,7 @@
 
 # PMIC-dat
 
-- [[ever-analog-dat]] - [[EA3036-dat]] - [[EA3059-dat]]
 
-- [[x-powers-dat]] - [[AXP2101-dat]] - [[AXP853T-dat]] - [[PMIC-dat]]
-
-
-- [[AXP2101-dat]] - [[power-dat]] 
 
 - [[PMIC-dat]] - [[power-dat]] - [[AVDD-dat]] - [[VBAT-dat]] - [[VBUS-dat]] - [[VRTC-dat]] - [[vbackup-dat]] - [[VSYS-dat]]
 
@@ -28,6 +23,17 @@
 - [[ismartware-dat]]
 
 - [[rockchip-dat]] - [[RK809-dat]]
+
+- [[SPRD-dat]] - [[SC2721G-dat]] - [[PMIC-dat]]
+
+- [[ever-analog-dat]] - [[EA3036-dat]] - [[EA3059-dat]]
+
+- [[x-powers-dat]] - [[AXP2101-dat]] - [[AXP853T-dat]] - [[PMIC-dat]] - [[AXP2101-dat]] - [[power-dat]] 
+
+- [[PMIC-dat]] - [[ipod-dat]] - [[apple-dat]] - [[338S0783-dat]]
+
+
+
 
 ## tech 
 

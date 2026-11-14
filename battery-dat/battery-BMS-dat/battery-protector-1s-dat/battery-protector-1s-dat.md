@@ -22,6 +22,10 @@
 - [[battery-protector-1s-dat]] - [[xysemi-dat]]
 
 
+- [[battery-protector-1s-dat]] - [[HY2113-dat]] - [[HYCONtek-dat]] - [[ZXW602-dat]]
+
+
+
 ## solution 1 DW01 + 8205
 
 - reverse-direction protection - ? [[RDP-protection-dat]] - [[mosfet-dat]]
@@ -83,6 +87,14 @@ $$I = \frac{0.15}{0.05} = 3\text{A}$$
 ## build 
 
 
+build 4 
+
+- [[8205-dat]] - [[mosfet-dat]] - [[DW01-dat]]
+
+![](2026-11-14-21-40-33.png)
+
+
+
 build 3 
 
 - [[8205-dat]] - [[mosfet-dat]] 
@@ -112,6 +124,15 @@ LVEP 99981 CTA68
 ![](2026-09-08-15-33-45.webp)
 
 ![](2026-09-08-15-32-42.webp)
+
+
+
+## unknown chip 
+
+`4419` - [[battery-protector-1s-dat]] - [[A3-dat]] - [[audio-dat]] 
+
+The term "4419 battery protector" most commonly refers to the ZLB4419AE (silkscreened as 4419), a SOT23-6 dual-purpose lithium battery protection chip/MOS two-in-one integrated circuit.
+
 
 
 ## ref 

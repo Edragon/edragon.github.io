@@ -17,16 +17,12 @@
 
 - [[CS5230-dat]] - [[chipstar-dat]] - [[jieli-dat]]
 
-- [[A3-DCGB14D9A-dat]]
 
 - relevant - [[NSIway-dat]] - [[NS4263-dat]]
 
 
-The term A3 DCGB14D9A likely refers to a microcontroller or power management chip (SoC) manufactured by JL (Bluetrum Technology), which is commonly found in budget Bluetooth audio devices and wireless earbuds.
+- [[A3-dat]]
 
-![](2026-06-02-20-14-50.webp)
-
-![](2026-06-02-20-15-10.webp)
 
 
 JL AC1522C6230Q

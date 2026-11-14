@@ -3,6 +3,9 @@
 
 - [[shaft-coupling-dat]] - [[flange-dat]] - [[shaft-dat]]
 
+- [[shaft-dat]] - [[Shaft-Cross-Connector-dat]] - [[shaft-connection-dat]] - [[motor-dat]]
+
+- [[shaft-motor-dat]] - [[motor-dat]] - [[shaft-coupling-dat]]
 
 
 

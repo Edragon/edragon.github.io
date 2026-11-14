@@ -126,6 +126,7 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 - [[MCU-dat]] - [[display-dat]] - [[USB-SDK-dat]] - [[display-module-dat]]
 
+- [[smart-wristband-dat]] - [[xiaomi-dat]] - [[dialog-dat]] - [[DA14697-dat]]
 
 
 ## code 

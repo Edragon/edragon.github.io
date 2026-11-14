@@ -4,13 +4,70 @@
 - [[pump-dat]] - [[pump-jet-dat]] - [[propeller-dat]]
 
 
+- [[pump-dat]] - [[motor-dat]]
+
+
 ## tech 
 
 - [[fitting-dat]] - [[nozzle-dat]]
 
 
+## chip 
 
 
+- [[fuman-dat]] - [[FM5012F-dat]] - [[fan-driver-dat]] - [[pump-dat]]
+
+
+
+## build 
+
+
+build 2 == 
+
+![](2026-11-14-14-55-20.png)
+
+![](2026-11-14-14-55-31.png)
+
+- [[motor-dat]] 
+
+![](2026-11-14-14-55-56.png)
+
+![](2026-11-14-14-56-08.png)
+
+![](2026-11-14-14-56-27.png)
+
+
+build 1 == - [[pump-diaphragm-dat]]
+
+inside 
+
+![](2026-11-14-13-53-29.png)
+
+![](2026-11-14-13-53-49.png)
+
+![](2026-11-14-13-54-11.png)
+
+- [[shaft-motor-dat]]
+
+![](2026-11-14-13-55-40.png)
+
+![](2026-11-14-13-55-58.png)
+
+![](2026-11-14-13-58-30.png)
+
+
+![](2026-11-14-13-57-20.png)
+
+![](2026-11-14-13-57-34.png)
+
+
+
+- [[switch-limit-dat]] - [[switch-dat]]
+
+
+
+
+## type 
 
 ### water pump 
 

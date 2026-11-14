@@ -2,7 +2,31 @@
 # motor-brushed-dat
 
 
+
+
+- [[motor-dat]] - [[encoder-dat]] - [[encoder-motor-dat]] - [[motor-brushed-dat]]
+
+
 - [[Motor-brushed-Coreless-dat]] - [[motor-dat]] - [[motor-brushed-dat]]
+
+
+- [[motor-540-dat]] - [[motor-380-dat]] - [[motor-130-dat]] - [[motor-brushed-dat]]
+
+
+
+
+
+## build 
+
+- [[motor-dat]] - [[encoder-dat]] - [[encoder-motor-dat]] - [[motor-brushed-dat]]
+
+![](2026-11-14-15-19-14.png)
+
+![](2026-11-14-15-19-25.png)
+
+![](2026-11-14-15-19-40.png)
+
+
 
 ## examples motor-380 for boat 
 
@@ -214,6 +238,222 @@ So, a **230 motor** typically has:
 
 ![](2025-05-13-02-44-27.webp)
 
+
+
+
+## issues
+
+## Brushed DC Motor — Usage Taboos & Prevention Manual
+
+### 0. Overview: life = min(insulation life, brush life)
+
+- **Insulation life** is protected by *not overheating*.
+- **Brush life** is protected by *not wearing the brushes out*.
+- Every taboo below reduces to two rules:
+  1. **Don't let it get hot** — stall / overload / overvoltage / poor cooling.
+  2. **Don't let it spin unloaded for long** — brush wear ∝ RPM.
+
+### 1. The three fatal things
+
+#### 1.1 Stall (rotor locked / cannot turn) — the #1 killer
+
+A motor that draws 0.9 A when running normally:
+
+| Stall current | Stall power | Heating rate | Time to reach 130 °C |
+| ------------- | ----------- | ------------ | -------------------- |
+| 2.7 A         | 32 W        | 5.0 K/s      | 21 s                 |
+| 4.5 A         | 54 W        | 8.3 K/s      | 13 s                 |
+| 7.2 A         | 86 W        | 13.2 K/s     | 8 s                  |
+
+> ⚠️ "I only powered it for a few seconds" looks harmless — but half the service life is already gone.
+
+**Four sources of stall** (not only "something is jammed"):
+
+| Source                        | Typical example                                                             |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| Mechanical jam                | Seized bearing, debris/string wound on the shaft, locked gearbox            |
+| Overload                      | Load torque > rated torque (over-tightened screw, blunt bit, thick mud)     |
+| Undervoltage (weak battery)   | Battery cannot deliver breakaway torque → motor stays stalled               |
+| Wrong direction / dry running | Pump spinning backwards → no water → dry friction and heating               |
+
+#### 1.2 Poor heat dissipation + Arrhenius law
+
+| Insulation class | Rated max winding temp | Practical limit for small brushed motors |
+| ---------------- | ---------------------- | ---------------------------------------- |
+| A                | 105 °C                 | keep below ~90 °C                        |
+| E                | 120 °C                 | keep below ~100 °C                       |
+| B                | 130 °C                 | keep below ~110 °C                       |
+| F                | 155 °C                 | keep below ~130 °C                       |
+| H                | 180 °C                 | keep below ~150 °C                       |
+
+Most small brushed motors are class **A / E** → ⭐ in practice **never exceed 90–100 °C**.
+
+#### 1.3 Final failure mode: turn-to-turn short → thermal runaway
+
+```
+overheat accumulates → enamel becomes brittle → turn-to-turn short
+→ winding resistance drops → current rises → hotter still
+→ positive feedback → complete short circuit
+```
+
+### 2. Voltage taboos
+
+#### 2.1 Overvoltage
+
+Speed ∝ V, and iron / eddy-current loss ∝ V².
+
+| Supply voltage | Speed | Iron / eddy loss | Brush wear | Relative life |
+| -------------- | ----- | ---------------- | ---------- | ------------- |
+| 100 %          | 1.0×  | 1.0×             | 1.0×       | 1.0×          |
+| 120 %          | 1.2×  | ~1.44×           | ~1.2×      | well below    |
+| 150 %          | 1.5×  | ~2.25×           | ~1.5×      | ~1/4          |
+
+> ⚠️ 50 % overvoltage → iron loss more than doubles **and** brush wear rises (∝ RPM) → double hit, life may drop to about 1/4.
+
+#### 2.2 ⭐⭐ Undervoltage — the seriously underestimated danger
+
+Starting / stall torque ∝ V:
+
+| Supply voltage | Breakaway / stall torque |
+| -------------- | ------------------------ |
+| 12.0 V (-0 %)  | 100 %                    |
+| 10.8 V (-10 %) | 90 %                     |
+| 9.6 V (-20 %)  | 80 %                     |
+| 8.4 V (-30 %)  | 70 %                     |
+| 7.2 V (-40 %)  | 60 %                     |
+
+> ⭐⭐ A 20 % voltage drop leaves only 80 % breakaway torque → the motor **cannot start under load** → it sits in the stall state → overheats and burns out.
+
+> ⚠️⚠️ This is the real reason "a power tool with a nearly flat battery burns its motor most easily". It is **not** burned by undervoltage — it is burned by **stall**.
+
+#### 2.3 Inductive kickback at switch-off
+
+> ⚠️ A motor is an inductive load. At switch-off it generates a reverse voltage spike → punctures the MOSFET, arcs and burns the commutator.
+
+✅ Fit a **freewheeling diode in anti-parallel** (cathode to +), plus an **RC snubber** or **TVS**.
+### 3. Load / operating-mode taboos
+
+| Operating mode              | What happens                                                   | Rule of thumb                                     |
+| --------------------------- | -------------------------------------------------------------- | ------------------------------------------------- |
+| Long unloaded running       | Highest RPM → fastest brush and commutator wear                | Keep unloaded runs short (≤ 30 min continuous)    |
+| Sustained heavy load        | High current → I²R heating → insulation ageing                 | Keep load below rated torque, watch case temp     |
+| Frequent start / stop       | Inrush current 3–6× rated, arcing at the brushes               | Avoid rapid on/off cycling                        |
+| Long-time stall or "jogging"| Current limited only by winding resistance → fast overheat     | Never exceed ~10 s of stall                       |
+| Reverse braking / plugging  | Very high current and brush arcing                             | Don't reverse polarity while spinning             |
+
+> ⚠️ 8 hours unloaded wears the brushes **more** than 8 hours under load — because RPM is highest.
+
+### 4. Mechanical / wear taboos
+
+| Item               | Problem                                            | Prevention                                              |
+| ------------------ | -------------------------------------------------- | ------------------------------------------------------- |
+| Bearings           | Dry, dirty or overloaded bearings → friction, heat | Keep sealed/oiled per spec, no axial preload            |
+| Brushes            | Worn below ~3 mm → weak spring force, heavy arcing | Inspect every 500–1000 h, replace as a pair             |
+| Commutator         | Carbon dust, grooves, burning                      | Clean dust out, never mix brush grades                  |
+| Shaft / coupling   | Misalignment, eccentric load, side pull            | Align coupling, use flexible coupling, no belt over-tension |
+| Magnets            | Ferrite magnets crack or demagnetise on impact     | Never hammer or drop the can                            |
+
+### 5. Environment taboos
+
+| Environment                | Risk                                                  | Prevention                                    |
+| -------------------------- | ----------------------------------------------------- | --------------------------------------------- |
+| High humidity / condensation| Insulation resistance drops → leakage, corrosion     | Desiccant, periodic power-on to drive out moisture |
+| Dust / conductive debris   | Clogs cooling path, bridges commutator slots          | Clean air path regularly, add filter          |
+| High ambient temperature   | Smaller thermal margin → shorter life (Arrhenius)     | Derate, add airflow                           |
+| Vibration / shock          | Brush chatter, bearing damage, loose terminals        | Rubber mounts, secure wiring                  |
+| Corrosive gas / salt spray | Terminal and commutator corrosion                     | Sealed motor or conformal protection          |
+
+### 6. Electrical connection taboos
+
+> ⚠️ Loose terminal → high contact resistance → local arcing → blackened terminal → open circuit
+
+> ⚠️ Abraded wire insulation → short to ground / between phases
+
+> ⚠️ Reversed polarity → on a brushed motor this only reverses rotation, **but**:
+> a water pump running backwards pumps nothing → runs dry and overheats;
+> a fan runs backwards; a lead-screw mechanism may hit its limit.
+
+> ⚠️ Wrong PWM frequency: below 1 kHz gives audible buzzing/torque ripple; too high increases switching loss.
+> ⭐ Small brushed motors usually run **15–25 kHz** — above hearing range, quiet.
+### 7. Repair / disassembly taboos
+
+> ⚠️ Opening a permanent-magnet motor → **strong magnets can pinch your fingers** — the magnets snap together with enough force to break a hand.
+
+> ⚠️ Hammering or dropping the can → ferrite magnets demagnetise or crack.
+
+> ⚠️ Improper bearing press-fit (hammering the shaft, off-centre pressing) → early bearing failure.
+
+> ⚠️ Mixing different brush grades → one hard, one soft → accelerated commutator wear.
+
+> ⚠️ Fitting new brushes without bedding them in → small contact area → heavy sparking.
+
+> ⭐ Discharge before disassembly; after reassembly, turn the shaft by hand to confirm it spins freely **before** applying power.
+
+### 8. Life calculation formulas (estimate how long it will run)
+
+**① Insulation life (Arrhenius):**
+
+$$L = L_0 \times 0.5^{\frac{T_{winding} - T_{ref}}{10}}$$
+
+Example: class A, $T_{ref} = 105\ °C$, $L_0 = 20\,000\ h$, run continuously at 135 °C:
+
+$$L = 20\,000 \times 0.5^{3} = 2\,500\ h$$
+
+**② Brush life:**
+
+$$L \approx \frac{\text{usable brush length}}{\text{wear rate}} \times 1000$$
+
+Typical: brushes 8 mm → 3 mm end of life ≈ 500–1500 hours.
+⚠️ When running unloaded, multiply the wear rate by 1.2–1.3.
+
+**③ ⭐ Measured method (most reliable):**
+
+Record the initial no-load current $I_0$ → re-measure every 100 hours.
+⚠️ If no-load current rises **more than 20 %** above the initial value, internal friction / brushes are clearly worn.
+
+### 9. Prevention checklist (print it and stick it on the bench)
+
+**Selection / installation**
+
+- [ ] ⭐ Fit a 1–2 A self-resetting fuse (PTC) in series
+- [ ] ⭐ Freewheeling diode across the motor terminals (anti-parallel)
+- [ ] ⭐ Verify with a multimeter that the supply really delivers the nameplate voltage
+- [ ] ⭐ Leave airflow space — no sealed enclosure
+- [ ] ⭐ Use adequate wire gauge to avoid voltage drop
+
+**Every use**
+
+- [ ] ⭐ Turn the shaft by hand before start-up; confirm it is free and not binding
+- [ ] ⭐⭐ Never stall longer than 10 seconds
+- [ ] ⭐ No continuous no-load running beyond 30 minutes
+- [ ] ⭐ Touch the case: if it is too hot to keep your hand on (> 60–70 °C) → stop
+
+**Periodic maintenance**
+
+- [ ] Every 500–1000 h: check the brushes (replace below 3 mm)
+- [ ] Every 100 h: measure no-load current; > 20 % rise needs investigation
+- [ ] Every 3–6 months (idle motors): run unloaded for 10–30 minutes
+- [ ] Blow dust out of the cooling path regularly
+- [ ] In humid places: add desiccant + periodic power-on to drive out moisture
+
+**When something is wrong**
+
+- [ ] ⚠️ Not turning + high current → suspect stall first; do not keep re-powering it
+- [ ] ⭐ Current suddenly drops near no-load (pump / fan) → diaphragm torn / seal failed
+- [ ] ⚠️ Burning smell → cut power immediately
+
+### 10. Dangerous-operations blacklist
+
+- ❌ Repeatedly re-powering a stalled motor to "see if it turns"
+- ❌ Forcing a loaded start on a flat battery (voltage too low)
+- ❌ Running a 6 V / 9 V motor on 12 V long-term
+- ❌ Running for hours inside a sealed box
+- ❌ Heating the motor with a flame / lighter
+- ❌ Hitting the motor can with a steel hammer
+- ❌ Fitting new brushes with no bedding-in
+- ❌ Mixing brush grades
+- ❌ Blowing water-containing compressed air into the motor
+- ❌ "Lubricating" the bearings with engine oil / WD-40 and then powering it up
 
 
 

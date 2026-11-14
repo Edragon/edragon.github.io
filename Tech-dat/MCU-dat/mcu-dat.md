@@ -3,6 +3,10 @@
 
 
 - [[CPU-dat]]
+- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]]
+
+
+- [[wifi-dat]] - [[IOT-dat]] - [[MCU-dat]] 
 
 - [[diodes-dat]] - [[reset-dat]] - [[AXP803-dat]] - [[MCU-dat]]
 
@@ -62,6 +66,15 @@
 
 
 - [[intel-dat]] - [[i486-DX4-dat]]
+
+
+
+
+## chip 
+
+- [[MCU-dat]] - [[ABOV-dat]] - [[A94B114FRN-dat]]
+
+
 
 
 ## arm 

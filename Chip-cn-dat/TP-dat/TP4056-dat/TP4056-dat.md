@@ -74,6 +74,8 @@ SCH 1
 ## build 
 
 
+- [[HX4004-dat]] - [[TP4056-dat]] - [[dcdc-boost-dat]] - [[battery-charger-1s-dat]]
+
 build 4 
 
 - TC4056 

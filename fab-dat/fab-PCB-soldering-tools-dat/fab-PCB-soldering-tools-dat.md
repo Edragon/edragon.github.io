@@ -25,7 +25,7 @@ soldering iron rack - https://www.electrodragon.com/product/casting-metal-solder
 
 - [[heat-isolator-dat]]
 
-- [[preheat-bed-dat]]
+- [[heatbed-dat]]
 
 - [[solder-paste-dat]]
 

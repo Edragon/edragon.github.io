@@ -14,6 +14,15 @@
 
 
 
+## driver 
+
+- [[fuman-dat]] - [[FM5012F-dat]] - [[fan-driver-dat]] 
+
+## MCU 
+
+- [[fuman-dat]] - [[XMC8P53-dat]] - [[MCU-dat]] - [[fan-driver-dat]]
+
+
 ## charger 
 
 LTH7R - [[fuman-dat]] - [[charger-phone-dat]] - [[LTH7R-dat]]

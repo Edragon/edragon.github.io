@@ -35,6 +35,27 @@
 
 
 
+
+## build 
+
+![](2026-11-14-14-53-16.png)
+
+- [[toshiba-dat]] - [[TB6604-dat]] - [[motor-brushless-dat]] 
+
+- [[mosfet-dat]] - [[rohm-dat]] - [[SH8K1-dat]] 
+
+
+- [[nidec-dat]] - [[motor-brushless-dat]] 
+
+## chip 
+
+- [[toshiba-dat]] - [[TB6604-dat]] - [[motor-brushless-dat]] 
+
+
+
+
+
+
 ## app 
 
 - [[mobula8-dat]] - [[mobula7-dat]] - [[mobula6-dat]] - [[FPV-dat]] - [[motor-brushless-dat]]

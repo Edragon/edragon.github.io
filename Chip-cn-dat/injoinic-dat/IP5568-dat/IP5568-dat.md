@@ -19,6 +19,22 @@ Support wireless charging TX/RX 、SCP、VOOC、Bi-directional PD3.0 and Fast Ch
 ![](2026-06-15-16-17-07.webp)
 
 
+
+## build 
+
+![](2026-11-14-21-34-33.png)
+
+
+- [[XB7608-dat]] 
+
+TF4805 - [[Tuofeng-dat]] - [[mosfet-dat]]
+
+TF9926A - [[Tuofeng-dat]] - [[mosfet-dat]]
+
+![](2026-11-14-21-37-12.png)
+
+- [[IP2112-dat]] - `A12K` - [[fast-charge-protocols-dat]] - [[IP5568-dat]]
+
 ## ref 
 
 

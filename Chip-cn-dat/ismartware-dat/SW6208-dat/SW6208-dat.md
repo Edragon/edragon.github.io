@@ -11,6 +11,25 @@ The SW6208 is a highly integrated power management IC for fast charge power bank
 
 ## build 
 
+
+
+build 4 
+
+- [[SW6005-dat]] - [[SW6208-dat]]  - [[power-bank-dat]] - [[ismartware-dat]]
+
+![](2026-11-14-20-28-59.png)
+
+- [[XB7608-dat]]
+
+- [[TVS-USB-dat]] - [[SW6208-dat]] 05 - [[TVS-dat]]
+
+![](2026-11-14-20-30-08.png)
+
+![](2026-11-14-20-30-44.png)
+
+
+build 3 
+
 ![](2026-06-18-19-28-03.webp)
 
 - [[8205-dat]] - [[xysemi-dat]]

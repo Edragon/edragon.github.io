@@ -7,7 +7,23 @@
 
 - [[jieli-dat]]
 
-The HAA9802 is a mono audio power amplifier featuring a capacitive boost, anti-clipping function, and switchable Class AB/D operation. it can deliver up to 5.4W of continuous output power into a 4Ω load. The HAA9802 features a unique built-in anti-clipping function that automatically adjusts the gain according to the output signal level to prevent clipping distortion and ensure a more comfortable listening experience. Additionally, it includes an adaptive boost function: at low signal levels, the charge pump remains in bypass mode to minimize power consumption and maximize efficiency; at higher signal levels requiring greater dynamic range, the charge pump is activated to boost the voltage, achieving a perfect balance between efficiency and output power. Its fully differential input architecture and high PSRR effectively enhance its immunity to RF noise. The HAA9802 also boasts an extremely low shutdown current, significantly extending system standby time. Reliability is bolstered by OCP, OTP, and UVLO protection features. The POP-click suppression function further improves the auditory experience while simplifying system tuning.
+
+- [[amplifier-audio-dat]] - [[HAA9811-dat]] - [[Hynitron-dat]] - [[A3-dat]] 
+
+
+
+The `HAA9811` is a 6.5W mono audio power amplifier integrated circuit (IC) manufactured by Shanghai Hynitron Technology.
+
+Key Specifications
+
+• Operating Voltage: 2.8V to 5.5V
+• Maximum Output Power:
+	• 6.5W (3Ω load, Class D mode with charge pump boost to 6.6V)
+	• 2.7W (3Ω load, Class AB mode)
+• Package Type: ESOP10L with integrated heat sink
+
+
+The `HAA9802` is a mono audio power amplifier featuring a capacitive boost, anti-clipping function, and switchable Class AB/D operation. it can deliver up to 5.4W of continuous output power into a 4Ω load. The HAA9802 features a unique built-in anti-clipping function that automatically adjusts the gain according to the output signal level to prevent clipping distortion and ensure a more comfortable listening experience. Additionally, it includes an adaptive boost function: at low signal levels, the charge pump remains in bypass mode to minimize power consumption and maximize efficiency; at higher signal levels requiring greater dynamic range, the charge pump is activated to boost the voltage, achieving a perfect balance between efficiency and output power. Its fully differential input architecture and high PSRR effectively enhance its immunity to RF noise. The HAA9802 also boasts an extremely low shutdown current, significantly extending system standby time. Reliability is bolstered by OCP, OTP, and UVLO protection features. The POP-click suppression function further improves the auditory experience while simplifying system tuning.
 
 ## Features
 ● Class AB/D switching function

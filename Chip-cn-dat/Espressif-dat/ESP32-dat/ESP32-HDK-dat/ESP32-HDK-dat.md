@@ -69,6 +69,38 @@ GPIO6–11: used for flash
     - Cannot be used as outputs (e.g., cannot drive an LED or act as SCL).
     - If used as inputs, add external pull-up/pull-down resistors if needed.
 
+
+- [[ESP32-WROOM-dat]] - [[ESP32-SDK-dat]]
+
+
+
+### pin template 
+
+
+| L/pin | func      | assign | R/pin | func | assign |
+| ----- | --------- | ------ | ----- | ---- | ------ |
+| 1     | GND       |        | 38    | GND  |        |
+| 2     | 3V3       |        | 37    | IO23 |        |
+| 3     | EN        |        | 36    | IO22 |        |
+| 4     | sensor_VP |        | 35    | TXD  |        |
+| 5     | sensor_VN |        | 34    | RXD  |        |
+| 6     | 34        |        | 33    | 21   |        |
+| 7     | 35        |        | 32    | x    |        |
+| 8     | 32        |        | 31    | 19   |        |
+| 9     | 33        |        | 30    | 18   |        |
+| 10    | 25        |        | 29    | 5    |        |
+| 11    | 26        |        | 28    | 17   |        |
+| 12    | 27        |        | 27    | 16   |        |
+| 13    | 14        |        | 26    | 4    |        |
+| 14    | 12        |        | 25    | 0    |        |
+| 15b   | GND       |        | 24b   | 2    |        |
+| 16b   | 13        |        | 23b   | 15   |        |
+
+
+
+
+
+
 ### RMT
 
 - RMT_SIG_IN0~7

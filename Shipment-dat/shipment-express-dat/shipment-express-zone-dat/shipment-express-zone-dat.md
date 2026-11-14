@@ -7,6 +7,7 @@
 
 - [[shipment-cost]]
 
+- [[DHL-dat]]
 
 ## zone compare
 
@@ -17,35 +18,111 @@ zone-3 == JP
 zone-4 == NZ
 
 zone-6 / zone-7 / zone-8
+
+American Samoa 美属萨摩亚
+
+
 zone-9 - CA 
-zone-10
+zone-10 - MX
+
+
+
+
 zone-11-1
+
+列支敦士登，立陶宛，卢森堡，安道尔，斯洛伐克，斯洛文尼亚，直布罗陀，希腊，摩纳哥，根西岛，爱尔兰，挪威，泽西岛，波兰，梵蒂冈，克罗地亚，罗马尼亚，塞浦路斯，丹麦，拉脱维亚，圣马力诺，爱沙尼亚，法国，比利时，瑞典，瑞士，意大利，保加利亚，匈牙利，芬兰 
+
+San Marino / 圣马力诺 / Guernsey / 根西 
+
+Andorra 安道尔 Liechtenstein 列支敦士登 
+
 zone-11-2
-zone-11-3
-zone-11-4
+
+奥地利,西班牙,葡萄牙,捷克,马耳他,荷兰
+
+Netherlands / 荷兰
+
+zone-11-3 英国
+
+zone-11-4 德国
+
+
 zone-TK
 zone-IS
-zone-12
-zone-13
+
+zone-12 == Faroe Islands / 法罗群岛， Gibraltar / 直布罗陀
+
+格陵兰，冰岛
+
+Canary Islands 加那利群岛
+
+
+zone-13 == 阿尔巴尼亚，亚美尼亚 Armenia ，格鲁吉亚 Georgia 等
+
+乌兹别克斯坦，阿尔巴尼亚，波黑共和国，亚美尼亚，黑山共和国，乌克兰，克罗地亚，格鲁吉亚，哈萨克斯坦，马其顿，塔吉克斯坦，科索沃，吉尔吉斯斯坦，摩尔多瓦，塞尔维亚共和国，福克兰群岛
+
+
+Montenegro 黑山
+
+
+zone-13 == 乌克兰
 zone-14
 
 
 zone-17
+
+阿富汗
+
 zone-18
+
+约旦，巴林
+
 zone-19
+
+阿联酋，科威特
+
 zone-20
-zone-21
+
+（沙特阿拉伯不接带电），阿曼
+
+
+
+zone-21 == IN
+
 zone-22
+
+厄立特里亚，利比亚，乌干达，南非，埃塞俄比亚，肯尼亚，埃及
+
 zone-23
+
+斯威士兰，纳米比亚，突尼斯，毛里求斯，莱索托，刚果共和国布，吉布提，科摩罗，尼日利亚，布隆迪，马约特岛，索马里，博茨瓦纳，加纳，加蓬，乍得，毛里塔尼亚，多哥，阿尔及利亚，贝宁，卢旺达，马达加斯加，塞内加尔，莫桑比克，赞比亚，索马里兰，赤道几内亚，塞舌尔，津巴布韦，留尼汪岛，马拉维，冈比亚，几内亚比绍，喀麦隆，坦桑尼亚，佛得角，摩洛哥
+
+
 zone-24
+
+（安哥拉，刚果民主共和国金，不接带电）科特迪瓦
+
 zone-25
-zone-26
-zone-27
-zone-28
-zone-29
+布基纳法索，马里，尼日尔，几内亚，利比里亚，塞拉利昂
+
+
+zone-26 == 巴拿马 panama / Venezuela / 委内瑞拉 多米尼加，洪都拉斯，
+
+zone-27 == Chile / 智利 / 厄瓜多尔 / 多米尼加共和国 Dominican Republic / 危地马拉 Guatemala / Peru 秘鲁
+zone-27 == 阿根廷 / 
+zone-27 == 哥伦比亚 Colombia
+
+
+zone-28 == 蒙古
+
+zone-29 == Barbados / Brazil / 哥斯达黎加 / 玻利维亚 / 波多黎各 / Puerto Rico / 哥斯达黎加 / Uruguay / 乌拉圭 / 瓜德罗普 / Guadeloupe / French Guiana / 圭亚那
+
+
+
 zone-30
 zone-31
 zone-32
+
 zone-33 == SG/TH 
 
 

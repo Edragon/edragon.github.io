@@ -3,6 +3,9 @@
 
 
 
+
+- [[motor-dat]] - [[encoder-dat]] - [[encoder-motor-dat]] 
+
 - [[magnetic-sensor-dat]] - [[encoder-dat]] - [[sensor-hall-dat]]
 
 

@@ -40,7 +40,10 @@
 
 - [[weight-dat]] - [[camera-thermal-dat]]
 
-- [[electronics-consumer-dat]]
+- [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[apple-dat]] - [[ipod-dat]]
+
+
+
 
 ## Domestic Appliances 
 
@@ -99,6 +102,14 @@
 - [[vehicle-dat]] - [[e-bike-dat]] - [[ATV-dat]] - [[motorcycle-dat]] - [[scooter-dat]] - [[electric-kart-dat]] - [[AGV-dat]]
 
 - [[pump-dat]]
+
+
+
+## healthcare 
+
+- [[healthcare-dat]] - [[healthcare-baby-monitor-dat]]
+
+
 
 ## toys 
 

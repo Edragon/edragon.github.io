@@ -2,6 +2,9 @@
 # motor-dat
 
 
+- [[motor-dat]] - [[encoder-dat]] - [[encoder-motor-dat]] 
+
+
 - [[motor-mount-dat]] - [[motor-dat]]
 
 - [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]]
@@ -165,7 +168,7 @@ more comprehansive Brushed vs. Brushless DC Motors
 
 ## mechanical parts 
 
-- [[shaft-coupling-dat]]
+- [[shaft-coupling-dat]] - [[motor-shaft-dat]] - [[shaft-dat]]
 
 
 
@@ -220,7 +223,18 @@ more comprehansive Brushed vs. Brushless DC Motors
 
 - [[vacuum-cleaner-dat]] - [[robot-dat]] - [[roller-dat]]
 
+- [[pump-dat]] - [[motor-dat]]
 
+- [[fan-driver-dat]] - [[motor-driver-dat]] - [[motor-dat]]
+
+
+
+
+## build special 
+
+![](2026-11-14-13-55-06.png)
+
+![](2026-11-14-13-55-22.png)
 
 ## ref 
 

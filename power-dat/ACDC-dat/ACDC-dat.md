@@ -227,7 +227,27 @@ Chip Solutions
 - [[silan-dat]] - [[SP8585-dat]]
 
 
+
+
+
+
+
+
+
 ## build 
+
+- [[acdc-dat]] - [[led-driver-dat]] - [[ACDC-led-driver-dat]]
+
+
+### build 11 
+
+![](2026-11-14-17-12-55.png)
+
+- [[rectifier-dat]] - [[mosfet-dat]]
+
+![](2026-11-14-17-17-44.png)
+
+- [[ACDC-dat]] - [[voltage-high-dat]]
 
 ### build 10 
 

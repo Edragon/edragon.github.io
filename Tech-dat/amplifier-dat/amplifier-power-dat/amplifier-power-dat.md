@@ -3,6 +3,16 @@
 
 # amplifier-power-dat
 
+
+
+
+
+
+- [[RF-FEM-dat]] - [[power-amplifier-dat]] - [[amplifier-power-dat]]
+
+
+
+
 - [[amplifier-power-dat]]
 
 - [[amplifier-power-dat]] - [[FEM-dat]] - [[RTL8812-dat]]
@@ -25,6 +35,24 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/hmc441lp3.pd
 - [[AD-amplifier-dat]] - [[amplifier-power-dat]]
 
 - [[macom-dat]] 
+
+- [[SKY77546-dat]] - [[RF-FEM-dat]] - [[power-amplifier-dat]] - [[skyworks-dat]]
+
+
+`MC441LP3` / `441LP3E` - GaAs pHEMT MMIC MEDIUM POWER AMPLIFIER, 6.5 - 13.5 GHz
+
+- [[amplifier-power-dat]] - [[skyworks-dat]] - [[SKY77912-dat]] 
+
+The `SKY77912` (such as the SKY77912-21 or SKY77912-61) is a Tx-Rx Front-End Module (FEM) and power amplifier integrated circuit (IC) manufactured by Skyworks Solutions Inc..
+
+Key Features and Specifications
+
+- • Function: Complete transmit VCO-to-antenna and antenna-to-receive SAW filter solution for cellular handsets.
+- • Frequency Bands: Supports quad-band GSM/GPRS/EDGE (GSM850, GSM900, DCS1800, PCS1900), dual-band TD-SCDMA (Bands 34/39), and TDD LTE (Band 39).
+- • Build: Fabricated with Heterojunction Bipolar Transistors (HBT) in Gallium Arsenide (GaAs) integrated onto a multi-layer laminate substrate.
+- • Common Uses: Frequently used as a network or power amplifier IC replacement in mobile phones (such as select Samsung Galaxy J5/J7 models) to repair no-service, weak signal, or network-drop faults.
+
+
 
 
 

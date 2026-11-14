@@ -33,6 +33,7 @@
 ## chip 
 
 
+
 - [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]] - [[battery-charger-1s-dat]]
 
 
@@ -44,8 +45,13 @@
 
 
 5V input LiIo Charger
-Microchip MCP73833
+Microchip `MCP73833`
 http://www.microchip.com/MCP73833
+
+
+- [[XT4052-dat]] - [[natlinear-dat]] - [[TP4052-dat]]
+
+- [[HX4004-dat]] - [[TP4056-dat]] - [[dcdc-boost-dat]] - [[battery-charger-1s-dat]]
 
 
 ### Charge current selection
@@ -54,6 +60,21 @@ Cypress CY7C65213 USB Serial interface with charger detect
 http://www.cypress.com/?mpn=CY7C65213-32LTXI
 Analog 4052 multiplexer
 
+
+## unkownn chip
+
+### C60H 
+
+- [[A3-dat]] - [[battery-charger-1s-dat]]
+
+The marking code C60H on a SOT-23-6 surface-mount package typically corresponds to a linear lithium-ion/lithium-polymer battery charger IC (such as generic or variant single-cell linear battery management chips marked with C60H or 4060H).
+
+Typical Specifications for C60H (SOT-23-6 Charger IC):
+
+• Package Type: SOT-23-6
+• Input Voltage Range: Up to **28V maximum rating** (typical operating voltage around 5V)
+• Over-Voltage Protection (OVP): Built-in input OVP triggered around 6.5V
+• Function: Constant-current/constant-voltage (CC/CV) linear charging management for single-cell Li-ion batteries with features like soft-start and thermal regulation.
 
 
 

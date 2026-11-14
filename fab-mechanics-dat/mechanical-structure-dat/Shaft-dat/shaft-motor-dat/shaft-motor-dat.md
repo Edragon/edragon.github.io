@@ -4,6 +4,22 @@
 
 - [[shaft-dat]] - [[shaft-motor-dat]] - [[motor-dat]] - [[shaft-driven-dat]]
 
+
+
+
+
+## build 
+
+![](2026-11-14-13-50-56.png)
+
+- [[bearing-dat]] - [[wheel-Eccentric-dat]] - [[shaft-coupling-dat]]
+
+
+build 2 
+
+![](2026-11-14-14-31-06.png)
+
+
 ## D-Shaped 
 
 ### 🔧 1. D-Shaped Clamping Hub (Best Balance of Strength + Simplicity)

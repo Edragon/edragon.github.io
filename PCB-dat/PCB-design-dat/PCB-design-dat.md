@@ -45,7 +45,7 @@
 
 - [[PCB-design]] - [[PCB]] - [[PCB-form-dat]]
 
-- [[PCB-design-basic-dat]] - [[PCB-design-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]
+- [[PCB-design-basic-dat]] - [[PCB-stack-dat]] - [[peripherals-dat]] - [[dev-board-dat]]
 
 - [[reverse-engineering-dat]] - [[PCB-design-dat]]
 

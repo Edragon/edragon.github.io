@@ -60,7 +60,22 @@
 - [[battery-dat]] - [[battery-holder-dat]]
 
 
+
 ## build 
+
+
+build 7 
+
+![](2026-11-14-19-48-59.png)
+
+![](2026-11-14-19-49-25.png)
+
+![](2026-11-14-19-49-41.png)
+
+- [[dcdc-down-dat]] - [[LCWsemi-dat]] - [[HC8015-dat]]
+
+
+
 
 build 6 - CONN stack - [[serial-dat]] port forward  - [[serial-dat]] - [[PCB-stack-dat]] - [[CONN-dat]]
 

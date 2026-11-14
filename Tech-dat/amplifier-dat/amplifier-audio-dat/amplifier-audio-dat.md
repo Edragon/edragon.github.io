@@ -57,6 +57,9 @@
 
 - [[PCM1808-dat]] - [[I2S-dat]]
 
+
+
+
 ## chip 
 
 
@@ -109,7 +112,7 @@ Low-Power Audio Amplifiers
 - [[HT6872-dat]]
 
 
-
+- [[amplifier-audio-dat]] - [[HAA9811-dat]] - [[Hynitron-dat]] 
 
 
 
@@ -125,7 +128,7 @@ OPA1678 IDR SOIC-8 Dual Audio Operational Amplifier IC Chip
 
 - [[MS6002-dat]] - [[MCP6002-dat]]
 
-
+- [[amplifier-audio-dat]] - [[LTK-dat]]
 
 
 

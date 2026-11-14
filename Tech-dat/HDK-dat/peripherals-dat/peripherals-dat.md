@@ -13,6 +13,8 @@
 
 
 
+
+
 ## AI relevant 
 
 - [[camera-dat]] - [[sensor-microphone-dat]]
@@ -30,6 +32,10 @@
 - [[SIM-dat]]
 
 ## interactive 
+
+
+- [[peripherals-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]] - [[interactive-dat]] - [[smart-watch-dat]]
+
 
 - [[touch-pad-dat]] - [[interactive-dat]]
 

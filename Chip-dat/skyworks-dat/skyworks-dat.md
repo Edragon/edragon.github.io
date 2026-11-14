@@ -9,6 +9,20 @@
 
 
 
+- [[skyworks-dat]] - [[SKY77912-dat]] - [[smart-watch-dat]]
+
+
+- [[amplifier-power-dat]] - [[skyworks-dat]] - [[SKY77912-dat]] 
+
+
+
+
+77546-11 == [[skyworks-dat]] - [[spreadtrum-dat]] - [[unisoc-dat]] - [[SL8521ET-dat]] - [[IOT-LTE-dat]] - [[4G-dat]] - [[projects-dat]] - [[IOT-dat]]
+
+- [[SKY77546-dat]]
+
+
+
 
 Si5345/44/42 Rev D Data Sheet SI5342
 
@@ -36,6 +50,14 @@ Applications:
 
 
 https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf
+
+
+
+## apps 
+
+- [[smart-watch-dat]]
+
+
 
 ## ref 
 

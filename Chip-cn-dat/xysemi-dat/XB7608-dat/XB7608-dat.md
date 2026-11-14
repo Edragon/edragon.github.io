@@ -6,6 +6,12 @@
 
 - [[MP5216-dat]] - [[XB7608-dat]]
 
+
+- [[xysemi-dat]] - [[XB7608-dat]] - [[battery-charger-1s-dat]]
+
+- [[SW6005-dat]] - [[SW6808-dat]]  - [[power-bank-dat]] - [[ismartware-dat]]
+
+
 ## XB7608
 
 The XB7608A series product is a high integration solution for lithiumion/polymer battery protection.

@@ -30,6 +30,12 @@
 
 
 
+## charger 
+
+- [[qualcomm-dat]] - [[USB-QC-dat]] - [[FT4SJK-dat]] - [[ZXW602-dat]]
+
+
+
 
 ## board 
 

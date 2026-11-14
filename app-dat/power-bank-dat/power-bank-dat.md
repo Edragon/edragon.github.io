@@ -18,6 +18,11 @@
 - [[SW6003-dat]] - [[ismartware-dat]]
 
 
+- [[SW6005-dat]] - [[SW6808-dat]] - [[power-bank-dat]] - [[ismartware-dat]]
+
+
+- [[ZXWTEK-dat]] - [[ZXW602-dat]]- [[power-bank-dat]]
+
 ## QC 
 
 
@@ -79,6 +84,18 @@ The capacity advertised on a power bank, such as 20000 mAh, typically represents
 
 
 ## build
+
+
+build 9 
+
+- [[dcdc-down-dat]] - [[LCWsemi-dat]] - [[HC8015-dat]]
+
+- [[PCB-stack-dat]] - [[power-bank-dat]]
+
+
+
+
+
 
 build 8 - [[SY3501-dat]] - [[IP5305-dat]] - [[battery-protector-dat]] - [[8205-dat]] 
 

@@ -114,6 +114,10 @@ Quick Charge 2.0
 
 - [[cellwise-dat]] - [[CW3004-dat]] - [[fast-charge-protocols-dat]]
 
+- [[IP2112-dat]] - `A12K` - [[fast-charge-protocols-dat]] - [[IP5568-dat]]
+
+
+
 
 ## apps 
 

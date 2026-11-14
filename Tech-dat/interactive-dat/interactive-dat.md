@@ -8,9 +8,21 @@
 
 - [[keyboard-dat]] - [[keypad-dat]] - [[interactive-dat]] - [[VRX-openIPC-bonnet-dat]]
 
+
+
+
+
 ## info 
 
-common used 
+
+## audio 
+
+- [[peripherals-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]] - [[interactive-dat]] - [[smart-watch-dat]]
+
+
+
+
+## common used 
 
 - [[LED-dat]] - [[buzzer-dat]]
 
@@ -22,7 +34,7 @@ common used
 
 
 
-display 
+## display 
 
 - [[display-dat]] - [[LCD1602-dat]] - [[oled-dat]]
 

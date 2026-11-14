@@ -1,10 +1,14 @@
 
 # CPU-dat
 
+- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]]
+
+
 国科微 GK6323 芯片
 
 晶晨 S905L3A 芯片
 
+- [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
 
 
 ## SOC 
