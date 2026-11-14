@@ -3,6 +3,16 @@
 
 # amplifier-power-dat
 
+
+
+
+
+
+- [[RF-FEM-dat]] - [[power-amplifier-dat]] - [[amplifier-power-dat]]
+
+
+
+
 - [[amplifier-power-dat]]
 
 - [[amplifier-power-dat]] - [[FEM-dat]] - [[RTL8812-dat]]
@@ -25,6 +35,12 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/hmc441lp3.pd
 - [[AD-amplifier-dat]] - [[amplifier-power-dat]]
 
 - [[macom-dat]] 
+
+- [[SKY77546-dat]] - [[RF-FEM-dat]] - [[power-amplifier-dat]]
+
+
+MC441LP3 / 441LP3E - GaAs pHEMT MMIC MEDIUM POWER AMPLIFIER, 6.5 - 13.5 GHz
+
 
 
 

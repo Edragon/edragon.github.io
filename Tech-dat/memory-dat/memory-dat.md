@@ -48,6 +48,12 @@ legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Mem
 ![](2025-04-08-17-14-23.webp)
 
 
+## chip 
+
+
+- [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
+
+
 
 
 ## build 

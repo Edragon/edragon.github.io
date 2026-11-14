@@ -131,6 +131,7 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 - [[qualcomm-dat]] - [[CSRA64215-dat]]
 
+- [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
 
 
 

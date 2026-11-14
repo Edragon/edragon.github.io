@@ -65,6 +65,7 @@
 
 - [[realtek-dat]] - [[WIFI-dat]] - [[RTL8723-dat]]
 
+- [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
 
 
 ## apps 

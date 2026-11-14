@@ -10,6 +10,13 @@
 
 
 
+77546-11 == [[skyworks-dat]] - [[spreadtrum-dat]] - [[unisoc-dat]] - [[SL8521ET-dat]] - [[IOT-LTE-dat]] - [[4G-dat]] - [[projects-dat]] - [[IOT-dat]]
+
+- [[SKY77546-dat]]
+
+
+
+
 Si5345/44/42 Rev D Data Sheet SI5342
 
 10-Channel, Any-Frequency, Any-Output Jitter Attenuator/Clock Multiplier
@@ -36,6 +43,12 @@ Applications:
 
 
 https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf
+
+
+
+
+
+
 
 ## ref 
 

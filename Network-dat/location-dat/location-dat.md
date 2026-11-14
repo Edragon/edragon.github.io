@@ -162,6 +162,12 @@ socket interface - [[protection-power-dat]] - [[location-dat]]
 
 - [[location]]
 
+
+- [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
+
+
+
+
 ## tech 
 
 

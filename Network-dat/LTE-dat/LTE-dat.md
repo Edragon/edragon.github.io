@@ -44,6 +44,7 @@
 - [[SIM7000-dat]]
 
 
+- [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
 
 
 ## CAT-M1 vs. NBIOT

@@ -13,6 +13,7 @@
 
 
 
+- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]]
 
 
 ## ref 
