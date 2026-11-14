@@ -361,6 +361,9 @@ build 4 - 4CH
 
 build 3 - 2CH 
 
+![](2026-11-14-15-10-04.png)
+
+![](2026-11-14-15-10-17.png)
 
 
 build 2 - commerial charger - [[toolkitrc-dat]]

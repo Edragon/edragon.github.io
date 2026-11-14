@@ -2,6 +2,9 @@
 # motor-dat
 
 
+- [[motor-dat]] - [[encoder-dat]] - [[encoder-motor-dat]] 
+
+
 - [[motor-mount-dat]] - [[motor-dat]]
 
 - [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]]

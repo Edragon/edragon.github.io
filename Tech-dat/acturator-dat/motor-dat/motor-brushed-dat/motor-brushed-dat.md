@@ -2,12 +2,29 @@
 # motor-brushed-dat
 
 
+
+
+- [[motor-dat]] - [[encoder-dat]] - [[encoder-motor-dat]] - [[motor-brushed-dat]]
+
+
 - [[Motor-brushed-Coreless-dat]] - [[motor-dat]] - [[motor-brushed-dat]]
 
 
 - [[motor-540-dat]] - [[motor-380-dat]] - [[motor-130-dat]] - [[motor-brushed-dat]]
 
 
+
+
+
+## build 
+
+- [[motor-dat]] - [[encoder-dat]] - [[encoder-motor-dat]] - [[motor-brushed-dat]]
+
+![](2026-11-14-15-19-14.png)
+
+![](2026-11-14-15-19-25.png)
+
+![](2026-11-14-15-19-40.png)
 
 
 
