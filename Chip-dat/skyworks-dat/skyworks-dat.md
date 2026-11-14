@@ -9,6 +9,13 @@
 
 
 
+- [[skyworks-dat]] - [[SKY77912-dat]] - [[smart-watch-dat]]
+
+
+- [[amplifier-power-dat]] - [[skyworks-dat]] - [[SKY77912-dat]] 
+
+
+
 
 77546-11 == [[skyworks-dat]] - [[spreadtrum-dat]] - [[unisoc-dat]] - [[SL8521ET-dat]] - [[IOT-LTE-dat]] - [[4G-dat]] - [[projects-dat]] - [[IOT-dat]]
 
@@ -46,7 +53,9 @@ https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si5
 
 
 
+## apps 
 
+- [[smart-watch-dat]]
 
 
 

@@ -30,6 +30,11 @@ EC5-F EC5-M 航模插头连接线 大电流100 动力电池 香蕉 插头
 
 ## magnetic
 
+
+- [[conn-battery-dat]] - [[smart-watch-dat]] 
+
+
+
 ![](2026-11-14-01-08-03.png)
 
 portable device battery charging 

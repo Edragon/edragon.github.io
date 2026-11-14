@@ -24,7 +24,7 @@
 
 - [[rockchip-dat]] - [[RK809-dat]]
 
-- [[SPDR-dat]] - [[SC2721G-dat]] - [[PMIC-dat]]
+- [[SPRD-dat]] - [[SC2721G-dat]] - [[PMIC-dat]]
 
 - [[ever-analog-dat]] - [[EA3036-dat]] - [[EA3059-dat]]
 

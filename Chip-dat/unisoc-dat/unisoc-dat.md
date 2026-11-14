@@ -8,6 +8,9 @@
 
 - [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
 
+- [[SR3593A-dat]] - [[RF-transceiver-dat]] - [[SPRD-dat]] - [[UNISOC-dat]]
+
+
 
 
 The Spreadtrum SL8521ET (now branded under UNISOC) is a sub-variant of the SL8521E system-on-chip (SoC) designed primarily for low-power 4G smartwatches, IoT devices, and entry-level mobile hardware. The "T" suffix typically designates a specific regional modem configuration, packaging revision, or temperature-grade bin derived from the standard SL8521E silicon.

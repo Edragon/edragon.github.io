@@ -44,5 +44,12 @@
 - [[RFM95-dat]]
 
 
+## chip 
+
+- [[SR3593A-dat]] - [[RF-transceiver-dat]] - [[SPRD-dat]] - [[UNISOC-dat]]
+
+
+
+
 ## ref 
 
