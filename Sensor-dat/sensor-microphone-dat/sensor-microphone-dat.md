@@ -15,6 +15,13 @@
 
 - [[sensor-microphone-I2S-dat]] - [[sensor-microphone-dat]] - [[I2S-speaker-microphone-dat]] - [[PDM-dat]] - [[PDM-microphone-dat]]
 
+
+
+- [[peripherals-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]] - [[interactive-dat]] - [[smart-watch-dat]]
+
+
+
+
 ## chips 
 
 - [[memsensing-dat]] - [[sensor-microphone-dat]] - [[zilltek-dat]] - [[linkmems-dat]]

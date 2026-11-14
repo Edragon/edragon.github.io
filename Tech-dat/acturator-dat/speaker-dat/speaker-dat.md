@@ -18,6 +18,9 @@
 - [[speaker-dat]] - [[speaker-cavity-dat]] - [[audio-dat]]
 
 
+- [[peripherals-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]] - [[interactive-dat]] - [[smart-watch-dat]]
+
+
 
 ## chip 
 

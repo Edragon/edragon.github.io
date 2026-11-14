@@ -40,7 +40,10 @@
 
 - [[weight-dat]] - [[camera-thermal-dat]]
 
-- [[electronics-consumer-dat]]
+- [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[apple-dat]] - [[ipod-dat]]
+
+
+
 
 ## Domestic Appliances 
 

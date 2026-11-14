@@ -10,7 +10,7 @@
 
 - [[xiaomi-dat]] - [[smart-watch-dat]] 
 
-
+![](2026-11-14-17-10-05.png)
 
 ### overview 
 
@@ -52,7 +52,7 @@ BACK
 
 ### outside peripherals 
 
-- [[peripherals-dat]] - [[speaker-dat]]
+- [[peripherals-dat]] - [[speaker-dat]] - [[sensor-microphone-dat]] - [[smart-watch-dat]]
 
 
 

@@ -44,6 +44,12 @@
 - [[LPC178x-dat]] - [[NXP-MCU-dat]] - [[BGA-dat]] - [[ARM7-dat]] - [[ARM-dat]] - [[Cortex-M3]]
 
 
+339S0104 - [[apple-dat]] - [[339S0104-dat]] - [[sumsung-dat]] - [[ARM-dat]] - [[ARM-11-dat]] - [[ipod-dat]]
+
+
+
+
+
 ## programmer 
 
 - [[jlink-dat]] - [[st-link-dat]] - [[dap-link-dat]] - [[CMSIS-DAP-dat]]

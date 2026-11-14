@@ -30,6 +30,7 @@
 
 - [[x-powers-dat]] - [[AXP2101-dat]] - [[AXP853T-dat]] - [[PMIC-dat]] - [[AXP2101-dat]] - [[power-dat]] 
 
+- [[PMIC-dat]] - [[ipod-dat]] - [[apple-dat]] - [[338S0783-dat]]
 
 
 
