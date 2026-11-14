@@ -22,6 +22,40 @@ Key details:
 
 - [[audio-dat]]
 
+
+## PNSA15E2D
+
+![](2026-11-14-21-10-07.png)
+
+4419 - [[battery-protector-1s-dat]] - [[A3-dat]] - [[audio-dat]]
+
+CP4606SR - [[power-wireless-dat]]
+
+
+## PNQA15E5C
+
+
+![](2026-11-14-21-05-52.png)
+
+![](2026-11-14-21-06-30.png)
+
+S3B846 
+
+
+
+## PTRA15E5C
+
+
+- [[amplifier-audio-dat]] - [[LTK-dat]] - [[LTK5313-dat]]
+
+![](2026-11-14-21-02-12.png)
+
+![](2026-11-14-21-02-26.png)
+
+
+- [[LTC4054-dat]]
+
+
 ## JAEB14F2C 
 
 

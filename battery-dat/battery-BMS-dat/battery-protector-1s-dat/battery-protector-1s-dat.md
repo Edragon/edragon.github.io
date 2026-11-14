@@ -118,6 +118,15 @@ LVEP 99981 CTA68
 ![](2026-09-08-15-32-42.webp)
 
 
+
+## unknown chip 
+
+`4419` - [[battery-protector-1s-dat]] - [[A3-dat]] - [[audio-dat]] 
+
+The term "4419 battery protector" most commonly refers to the ZLB4419AE (silkscreened as 4419), a SOT23-6 dual-purpose lithium battery protection chip/MOS two-in-one integrated circuit.
+
+
+
 ## ref 
 
 - [[battery-dat]]

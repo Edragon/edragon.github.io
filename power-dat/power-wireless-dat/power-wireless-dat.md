@@ -34,6 +34,9 @@
 
 - [[WPINNO-dat]] - [[WP8006-dat]] - [[WP9005-dat]] - [[power-wireless-dat]]
 
+CP4606SR - [[power-wireless-dat]]
+
+
 
 ## build 
 
