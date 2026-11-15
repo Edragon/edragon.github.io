@@ -27,7 +27,7 @@
 
 - [[bland-dat]] - [[chip-cn-dat]]
 
-- [[chipsea-dat]]
+- [[chipsea-dat]] - [[cmsemicon-dat]]
 
 - [[chinamobile-dat]]
 

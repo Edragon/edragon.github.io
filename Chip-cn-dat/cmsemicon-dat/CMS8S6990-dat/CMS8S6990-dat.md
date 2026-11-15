@@ -5,7 +5,7 @@
 
 - [[CMS8S6990-dat]] - [[mcu-dat]] - [[8051-dat]] - [[cmsemicon-dat]]
 
-- [[display-module-dat]] - [[display-dat]]
+- [[display-app-dat]] - [[display-dat]]
 
 
 The CMS8S6990 is an enhanced 1T 8051-core 8-bit microcontroller manufactured by Cmsemicon.
@@ -25,6 +25,8 @@ Key Specifications & Features
 	• Built-in LVR (Low-Voltage Reset), LVD (Low-Voltage Detector), WDT, LSE/WUT, and beeper.
 • Packages: Available in TSSOP20, QFN20, SSOP24, and QFN24 variants (including related family models like CMS8S6980 and CMS8S6990N).
 • Development Tools: Supported by Keil C51 IDE, CMS Writer, and CMS-ICE8 OB/PRO.
+
+
 
 
 

@@ -2,6 +2,9 @@
 # ismartware-dat
 
 
+
+- [[IP6818-dat]] - [[power-bank-dat]] - [[ismartware-dat]]
+
 - [[SW6003-dat]] - [[ismartware-dat]]
 
 - [[SW3566-dat]] - [[ismartware-dat]]

@@ -12,11 +12,13 @@
 
 - [[SY3501-dat]] - [[tkplusemi-dat]] - [[power-bank-dat]]
 
-- [[IP5305-dat]]
+- [[IP5305-dat]] 
 
 
 - [[SW6003-dat]] - [[ismartware-dat]]
 
+
+- [[IP6818-dat]] - [[power-bank-dat]] - [[ismartware-dat]]
 
 - [[SW6005-dat]] - [[SW6808-dat]] - [[power-bank-dat]] - [[ismartware-dat]]
 
