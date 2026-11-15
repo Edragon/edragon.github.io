@@ -66,3 +66,19 @@ Number
 ➢ Over Temperature Protection
 • I2C Interface
 • QFN-40(6x6mm) Package
+
+
+## build 
+
+- [[power-bank-dat]] - [[SW6106-dat]] 
+
+![](2026-11-15-23-52-42.png)
+
+
+![](2026-11-15-23-55-17.png)
+
+- [[chipsea-dat]] - [[CSU38M20-dat]] - [[MCU-dat]] - [[power-bank-dat]] - [[SW6106-dat]] 
+
+- [[XB7608-dat]] - [[8205-dat]] - [[SW6106-dat]] 
+
+## ref 

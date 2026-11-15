@@ -54,7 +54,7 @@
 
 - [[infineon-dat]]
 
-- [[MCU-dat]] - [[GVM-dat]] - [[cmsemicon-dat]]
+- [[MCU-dat]] - [[GVM-dat]] - [[cmsemicon-dat]] - [[SC8F5775-dat]]
 
 - [[mindmotion-dat]]
 
@@ -251,7 +251,19 @@ ADC0809 是带有 8 位 A/D 转换器、8 路多路开关以及微处理机兼�
 
 
 
+## build 
 
+build 1 
+
+- [[MCU-dat]] - [[cmsemicon-dat]] - [[SC8F5775-dat]]
+
+2CH [[mosfet-dat]] - [[TP4056-dat]]
+
+![](2026-11-15-23-51-06.png)
+
+![](2026-11-15-23-51-16.png)
+
+![](2026-11-15-23-51-26.png)
 
 ## ref 
 

@@ -452,6 +452,8 @@ MOT5N50C - MOT5N50D - N-CHANNEL MOSFET
 ## MOSFET SOP-8
 
 
+- [[vishay-dat]] - [[mosfet-dat]] - [[vishay-mosfet-dat]]
+
 - [[NCEpower-mosfet-dat]]
 
 

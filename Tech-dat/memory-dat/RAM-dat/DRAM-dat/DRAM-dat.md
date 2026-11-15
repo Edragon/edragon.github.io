@@ -5,6 +5,15 @@
 
 - [[ESP32-HDK-dat]]
 
+
+
+## chip 
+
+- [[DRAM-dat]] - [[micron-dat]] - [[memory-dat]]
+
+
+## info 
+
 **Dynamic Random Access Memory (DRAM)** is a type of volatile memory that stores data in capacitors within integrated circuits.
 
 ### Key Characteristics:
