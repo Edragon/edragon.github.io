@@ -30,4 +30,12 @@ Key Features and Specifications
 
 
 
+## build 
+
+- [[8205-dat]] - [[XB8886-dat]] - [[SW6233-dat]] - [[SW6236-dat]] 
+
+- [[SW6208-dat]] 
+
+
+
 ## ref 

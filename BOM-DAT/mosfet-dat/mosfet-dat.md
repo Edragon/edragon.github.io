@@ -27,6 +27,9 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 - [[led-dat]] - [[led-indicator-dat]] - [[mosfet-dat]]
 
+
+
+
 ## tech 
 
 - [[mosfet-driver-dat]] for high speed usage 
@@ -45,6 +48,8 @@ control by [[arduino-dat]] - [[MCU-dat]]
 
 - [[mosfet-RF-dat]]
 
+
+- [[mosfet-HV-dat]] - [[IGBT-dat]] - [[mosfet-dat]]
 
 similar  
 

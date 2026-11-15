@@ -3,6 +3,20 @@
 # belling-dat
 
 
+
+
+
+# beling-dat.md
+
+- BL24C256 datasheet == [[BL24C256A_V1.98_en.pdf]]
+
+
+- [[sita-dat]] - [[SA2601-dat]] - [[LKS620-dat]] - [[LKS-dat]] - [[beling-dat]]
+
+
+
+
+
 - [[LDO-dat]] - [[belling-dat]] - [[BL8062-dat]] - [[USB-SDK-type-C-dat]]
 
 

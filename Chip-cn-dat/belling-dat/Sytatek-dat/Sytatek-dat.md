@@ -6,11 +6,14 @@
 
 - [[LK513-dat]] - [[LKS-dat]] - [[sytatek-dat]] - [[motor-driver-BLDC-dat]]
 
-
+- [[LKS620-dat]]
 
 - [[Sytatek-dat]] - [[belling-dat]] - [[HDSC-dat]]
 
 - [[Sytatek-dat]] - [[SA6188-dat]] - [[SA6128-dat]] - [[motor-brushless-dat]] - [[motor-driver-BLDC-dat]] - [[motor-driver-dat]]
+
+
+
 
 ## SA6188 
 
