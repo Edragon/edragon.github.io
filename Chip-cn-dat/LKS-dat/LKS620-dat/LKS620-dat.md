@@ -24,9 +24,11 @@ https://sjk.lksmcu.com/static/upload/file/20230113/LKS620_Datasheet_v0.9.pdf
 
 ![](2026-11-16-00-34-53.png)
 
-- [[sytatek-dat]] - [[SA2601-dat]] - [[LKS620-dat]] - [[LKS-dat]] - [[belling-dat]]
+- [[sytatek-dat]] - [[SA2601-dat]] - [[LKS620-dat]] - [[LKS-dat]] - [[belling-dat]] - [[mosfet-HV-dat]]
 
+![](2026-11-16-00-55-26.png)
 
+- [[triac-dat]] - [[LKS620-dat]] - [[BTB12-800-dat]]
 
 ## ref 
 

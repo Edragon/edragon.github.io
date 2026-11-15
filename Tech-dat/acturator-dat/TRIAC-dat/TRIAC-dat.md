@@ -139,6 +139,17 @@ It is a type of semiconductor device used for controlling high-power electric si
 
 BT137-600E - 4Q Triac
 
+- [[triac-dat]] - [[LKS620-dat]] - [[BTB12-800-dat]]
+
+The `BTB12-800` is a 12-ampere, 800-volt bidirectional TRIAC (triode for alternating current) or thyristor semiconductor component.
+
+Key Specifications & Features
+
+• Current Rating (\(I_{T(RMS)}\)): 12 A (on-state RMS current)
+• Voltage Rating (\(V_{DRM}/V_{RRM}\)): 800 V (repetitive peak off-state voltage)
+• Package Type: Typically housed in a through-hole TO-220AB (or insulated/non-insulated variants like TO-220 or surface-mount options).
+• Common Manufacturers: STMicroelectronics (BTB12-800CWRG, BTB12-800B), Littelfuse / Onsemi (BTB12-800BW3G).
+
 
 
 ## ref 

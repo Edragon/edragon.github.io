@@ -348,6 +348,84 @@ The LED flashing when switched by a MOSFET can be caused by several issues. Here
 
 ![](2024-08-28-14-44-40.webp)
 
+Low-voltage, low Rds(on) devices
+
+|Operating region	|Dominant temperature coefficient	|Result when paralleled|
+| ----- | ----- | ---- |
+|Fully enhanced (switch, synchronous rectifier, solid-state relay)	|Rds(on), positive TC	|✅ Automatic current sharing, safe to parallel|
+|Linear region / partially enhanced (soft start, constant current source, electronic load)	|Vgs(th), negative TC	|❌ Thermal runaway, do not parallel|
+
+
+- Vgs(th) has a negative temperature coefficient: the hottest device has the lowest threshold, so it carries more current, which makes it even hotter — a positive feedback loop
+- Rds(on) has a positive temperature coefficient, which does provide some compensation, but Infineon explicitly states that the compensation is limited. Nexperia AN11599 says the effect of this mechanism is "often overstated"
+
+Only in the fully enhanced conduction state can the positive temperature coefficient of Rds(on) actually balance the current. If your MOSFET operates in the linear region — for example for soft start, current limiting, or as a load switch, rather than fully enhanced — then paralleling is dangerous: the negative temperature coefficient of the threshold voltage pushes the current straight into the hottest device, which can lead to burn-out.
+
+
+- Infineon, "Paralleling power MOSFETs in high current applications": with 6 or more devices in parallel, worst-case spread can reduce current capability by 50%
+- Nexperia AN11599, "Using power MOSFETs in parallel": the positive temperature coefficient of Rds(on) promotes current sharing, but the negative temperature coefficient of Vgs(th) causes thermal runaway in the partially enhanced (linear) region; the criterion is always Tj of the hottest device < 175°C
+
+
+### Six conditions for paralleling (if one is missing, reconsider)
+
+#### ① Conduction loss must dominate
+
+The gain from paralleling comes from lower I²R, because R becomes R/N:
+
+| Application | Dominant loss | Verdict |
+| --- | --- | --- |
+| Low frequency, high duty cycle, high current | Conduction loss | ✅ Paralleling works |
+| High-frequency hard switching (>100 kHz) | Switching loss | ⚠️ Almost no gain |
+
+Switching loss does **not** scale down by 1/N. In parallel, total Qg and Coss multiply by N, so the gate-drive burden grows; if the driver is not up to it, switching actually gets slower.
+
+#### ② Same part number, same batch
+
+The spread of Vgs(th) and Rds(on) directly sets the degree of imbalance. Infineon's quantified conclusion: with 6 or more devices in parallel and Vgs(th) taken at the datasheet worst-case spread, total current capability may fall to only 50% of the theoretical value. Mixing batches or brands actively amplifies that loss.
+
+#### ③ One shared heatsink
+
+onsemi AND90108 explicitly requires *"a common heatsink for all paralleled MOSFETs"*. Strong thermal coupling is what makes the Tj of each device converge; the smaller the Tj difference, the smaller the imbalance caused by Vgs(th) drift. Bolting on six small separate heatsinks means every device runs at its own temperature.
+
+#### ④ Symmetric layout
+
+This is the one most often botched:
+
+- **Independent gate resistor per device** (10–100 Ω, depending on switching frequency), mounted right at the device terminal, to damp the low-impedance loop oscillation formed between devices via Cgd
+- **Source returns each go to a common point** — never daisy-chained (unbalanced common source inductance directly destroys dynamic current sharing)
+- **Drain and bus symmetric**, traces of equal length and equal width
+- **Separate digital ground / power ground**, and minimize the gate loop area
+
+#### ⑤ Drive capability scaled by N
+
+Drive current and gate-resistor dissipation must both scale with the number of devices in parallel. With insufficient drive, six devices turn on at different instants and the whole transient current lands on whichever device turns on first.
+
+#### ⑥ Leave enough derating
+
+In practice, use 70–80% of the theoretical capability (≤4 devices) and 50–60% (6 or more devices). That is not being conservative — those are Infineon's measured numbers.
+
+### Five scenarios where paralleling is the wrong tool
+
+#### ① Trying to raise the voltage rating
+
+Paralleling does not increase the Vds rating. Every device sees the full bus voltage — this is the most common misconception. For more voltage you need a higher-voltage device, or a series connection (which brings a whole separate set of voltage-balancing problems).
+
+#### ② Linear-region applications
+
+See above — thermal runaway.
+
+#### ③ Inductive-load turn-off / avalanche
+
+Nexperia points out that the device with the lowest V(BR)DSS absorbs almost the entire avalanche current. The design must ensure a single device can handle the total avalanche energy; otherwise paralleling actually makes the circuit *more* fragile.
+
+#### ④ High gate-loop impedance, asynchronous switching
+
+Transient current sharing fails, and no amount of static calculation helps.
+
+#### ⑤ Using it to paper over inadequate cooling
+
+Paralleling does not reduce thermal resistance; it only spreads the heat out. If the heatsink is not big enough, all six devices overheat together.
+
 
 
 ## more mosfet 
