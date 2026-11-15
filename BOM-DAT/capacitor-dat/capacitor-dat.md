@@ -13,6 +13,8 @@
 
 - [[capacitor-X2-dat]] - [[power-adapter-dat]] == 47K 300V-40/105/21 - [[capacitor-x-y-dat]]
 
+- [[capacitor-dat]] - [[capacitor-x2-dat]] - [[capacitor-y-dat]] - [[capacitor-x-y-dat]]
+
 
 
 - [[ESR-capacitor-dat]] - [[MLCC-dat]] - [[Electrolytic-cap-dat]] - [[tantalum-dat]]

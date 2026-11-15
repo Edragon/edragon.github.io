@@ -2,6 +2,12 @@
 # capacitor-x-y-dat
 
 
+
+- [[capacitor-dat]] - [[capacitor-x2-dat]] - [[capacitor-y-dat]] - [[capacitor-x-y-dat]]
+
+
+
+
 ## X2 
 
 - [[capacitor-X-Y-dat]] - [[capacitor-dat]] - [[CR6842-dat]]
@@ -11,6 +17,10 @@
 - [[Capacitor-X2-dat]]  275V 310V 350V 
 
 0.1UF 0.47UF
+
+
+
+
 
 ## SHM X1400 
 
@@ -32,38 +42,6 @@ Ceramic Disc Capacitors Safety, Class X1/Y2 400/250 V (AC) Series DN
 ![](2026-05-23-17-51-56.webp)
 
 ## X - Y capacitor 
-
-An X2 capacitor is a safety-rated EMI suppression capacitor designed to be connected across the AC mains (Line–Neutral).
-
-It is defined by IEC 60384-14 and used mainly for noise suppression and interference filtering in power supplies and AC equipment.
-
-![](2026-01-25-20-38-52.webp)
-
-Where X2 capacitors are used
-
-    AC Line (L) ──||── AC Neutral (N)
-                ↑
-                X2
-
-Typical locations:
-
-- Across L–N in SMPS input
-- EMI filters
-- Appliances, chargers, adapters
-- Motor controllers
-
-
-What “X2” specifically means
-
-
-| Parameter                | X2 Rating                     |
-| ------------------------ | ----------------------------- |
-| Connection               | Line ↔ Neutral                |
-| Rated AC voltage         | ≤ 300 VAC (typically 275 VAC) |
-| Surge voltage capability | 2.5 kV                        |
-| Failure mode             | Self-healing, non-flammable   |
-| Safety standard          | IEC 60384-14                  |
-
 
 X-class vs Y-class (important)
 

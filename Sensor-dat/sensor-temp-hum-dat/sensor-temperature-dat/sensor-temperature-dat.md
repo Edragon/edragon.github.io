@@ -11,6 +11,7 @@ https://www.electrodragon.com/product-category/sensors/ambient/temphumidity-etc/
 
 - [[thermostat-dat]]
 
+- [[ACDC-dat]] - [[sensor-NTC-dat]] - [[sensor-temperature-dat]] - [[sensor-dat]] - [[resistor-dat]]
 
 
 

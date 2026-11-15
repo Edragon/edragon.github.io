@@ -191,6 +191,15 @@ C = 1K
 - [[resistor-feedback-dat]]
 
 
+
+
+## apps 
+
+- [[ACDC-dat]] - [[sensor-NTC-dat]] - [[sensor-temperature-dat]] - [[sensor-dat]] - [[resistor-dat]]
+
+
+
+
 ## ref 
 
 - [[BOM-dat]] - [[resistor]]

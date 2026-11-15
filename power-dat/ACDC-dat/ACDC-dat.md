@@ -15,6 +15,9 @@
 
 
 
+
+
+
 ## principle
 
 `AC Input` → `Fuse` → `Common Mode Choke` → `X/Y Capacitors` → `Bridge Rectifier` → `High Voltage DC`
@@ -24,6 +27,28 @@
 
 
 - [[rectifier-dat]] - [[bridge-rectifier-dat]] - [[diode-rectifier-dat]]
+
+
+## build stack 
+
+protection
+
+| stack                    | designator | color   | info | link         |
+| ------------------------ | ---------- | ------- | ---- | ------------ |
+| T3.15A250V fuse          | F1         | black   |      | [[fuse-dat]] |
+| [[sensor-NTC-dat]]       | NTC1       | black   |      |              |
+| [[capacitor-X2-dat]]     | CX1        | yellow  |      |              |
+| [[choke-dat]]            | LF1 / LF2  | metalic |      |              |
+| [[bridge-rectifier-dat]] |            |
+| [[capacitor-dat]]        |            | yellow  |      |              |
+| 100 pF 至 10 nF          | CY1 / CY2  | blue    |      |   [[capacitor-y-dat]]           |
+| [[varistor-dat]]         | TVR1       | yellow    |
+| [[transformer-dat]]      |            |         |      |              |
+
+
+- [[capacitor-dat]] - [[capacitor-x2-dat]] - [[capacitor-y-dat]] - [[capacitor-x-y-dat]] - [[acdc-dat]]
+
+CY1 CY2 == 常用的典型值是 1 nF ~ 4.7 nF，即 102 ~ 472）
 
 ## tech 
 
@@ -64,16 +89,16 @@ In AC-DC switching power supply design, the main difference between **Primary-Si
 
 ## 1. Core Comparison Overview
 
-| Feature | Primary-Side Regulation (PSR) | Secondary-Side Regulation (SSR) |
-| :--- | :--- | :--- |
-| **Feedback Sensing Location** | **Primary side** (Transformer input side) | **Secondary side** (DC output side) |
-| **Sampling Method** | Senses voltage/current induced in the transformer's auxiliary winding | Directly samples output voltage/current via resistor dividers at the output |
-| **Feedback Components** | **No optocoupler or TL431 needed** | **Requires an optocoupler** (e.g., PC817) and a shunt regulator (e.g., TL431) |
-| **Circuit Complexity** | Highly simplified with minimal external components | More complex (sampling resistors, TL431, compensation networks, optocoupler) |
-| **Voltage/Current Accuracy** | Moderate ($\pm 3\%$ to $\pm 5\%$) | **Very High** (Up to $\pm 1\%$ or better) |
-| **Transient Response** | Slower (relies on cycle-by-cycle auxiliary winding sampling) | **Fast** (real-time direct output sensing) |
-| **System Cost** | **Low** (saves optocoupler, TL431, and secondary sensing components) | Higher |
-| **Primary Applications** | Low-power adapters, chargers (5W–24W), LED drivers | Medium-to-high power supplies, PC PSUs, Fast Chargers (PD/QC), industrial power supplies |
+| Feature                       | Primary-Side Regulation (PSR)                                         | Secondary-Side Regulation (SSR)                                                          |
+| :---------------------------- | :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
+| **Feedback Sensing Location** | **Primary side** (Transformer input side)                             | **Secondary side** (DC output side)                                                      |
+| **Sampling Method**           | Senses voltage/current induced in the transformer's auxiliary winding | Directly samples output voltage/current via resistor dividers at the output              |
+| **Feedback Components**       | **No optocoupler or TL431 needed**                                    | **Requires an optocoupler** (e.g., PC817) and a shunt regulator (e.g., TL431)            |
+| **Circuit Complexity**        | Highly simplified with minimal external components                    | More complex (sampling resistors, TL431, compensation networks, optocoupler)             |
+| **Voltage/Current Accuracy**  | Moderate ($\pm 3\%$ to $\pm 5\%$)                                     | **Very High** (Up to $\pm 1\%$ or better)                                                |
+| **Transient Response**        | Slower (relies on cycle-by-cycle auxiliary winding sampling)          | **Fast** (real-time direct output sensing)                                               |
+| **System Cost**               | **Low** (saves optocoupler, TL431, and secondary sensing components)  | Higher                                                                                   |
+| **Primary Applications**      | Low-power adapters, chargers (5W–24W), LED drivers                    | Medium-to-high power supplies, PC PSUs, Fast Chargers (PD/QC), industrial power supplies |
 
 ---
 
@@ -278,6 +303,10 @@ Chip Solutions
 
 ![](2026-08-11-21-14-14.webp)
 
+
+The `14S561K` (commonly corresponding to parts like the Bourns MOV-14D561K or equivalent 14mm metal-oxide varistors) is a through-hole surge protection component designed to clamp sudden overvoltage spikes.
+
+
 ![](2026-08-11-21-14-36.webp)
 
 F1 == fuse, LF1 LF2 == [[choke-common-mode-dat]] - [[choke-dat]] 
@@ -389,6 +418,8 @@ unknown chip - [[chip-unknown-dat]]
 
 - [[capacitor-X2-dat]] - [[capacitor-dat]]
 
+- [[sensor-NTC-dat]] - The MF72-2.5D11 (also written as MF72 2.5D11 or MF72-002.5D11) is a Power NTC (Negative Temperature Coefficient) Thermistor used primarily as an Inrush Current Limiter (ICL) in electronic power circuits.
+
 ![](2026-05-23-17-52-42.webp)
 
 - [[fuse-dat]]
@@ -459,11 +490,11 @@ The Full-Bridge topology uses four switches arranged in an H-bridge configuratio
 
 ### Summary Comparison
 
-| Topology | Switch Count | Primary Voltage | Core Utilization | Key Advantage | Main Disadvantage | Typical Power Range |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Forward** | 1 or 2 | $V_{in}$ | Unidirectional (Low) | Simple, robust, low voltage stress (2-switch) | Requires reset circuit, larger transformer | $100\text{ W} \sim 500\text{ W}$ |
-| **Half-Bridge** | 2 | $\frac{1}{2}V_{in}$ | Bidirectional (High) | Low switch voltage stress, inherent DC blocking | Primary current is double that of Full-Bridge | $300\text{ W} \sim 1\text{ kW}$ |
-| **Full-Bridge** | 4 | $V_{in}$ | Bidirectional (Highest) | Highest power capability, easy ZVS implementation | High component count, complex gate drivers | $1\text{ kW} \sim 10\text{ kW}+$ |
+| Topology        | Switch Count | Primary Voltage     | Core Utilization        | Key Advantage                                     | Main Disadvantage                             | Typical Power Range              |
+| :-------------- | :----------- | :------------------ | :---------------------- | :------------------------------------------------ | :-------------------------------------------- | :------------------------------- |
+| **Forward**     | 1 or 2       | $V_{in}$            | Unidirectional (Low)    | Simple, robust, low voltage stress (2-switch)     | Requires reset circuit, larger transformer    | $100\text{ W} \sim 500\text{ W}$ |
+| **Half-Bridge** | 2            | $\frac{1}{2}V_{in}$ | Bidirectional (High)    | Low switch voltage stress, inherent DC blocking   | Primary current is double that of Full-Bridge | $300\text{ W} \sim 1\text{ kW}$  |
+| **Full-Bridge** | 4            | $V_{in}$            | Bidirectional (Highest) | Highest power capability, easy ZVS implementation | High component count, complex gate drivers    | $1\text{ kW} \sim 10\text{ kW}+$ |
 
 
 ## CCM vs. DCM in Switching Power Converters
@@ -505,16 +536,16 @@ In **DCM**, the inductor current $i_L(t)$ **drops completely to zero** and stays
 
 ### Comparison Summary
 
-| Parameter | Continuous Conduction Mode (CCM) | Discontinuous Conduction Mode (DCM) |
-| :--- | :--- | :--- |
-| **Inductor Current ($i_L$)** | $i_L > 0$ at all times | $i_L = 0$ for part of the switching cycle |
-| **Energy in Core** | Never drops to zero | Depleted every cycle |
-| **Peak Current ($I_{peak}$)** | Lower | Higher (typically $> 2 \times I_{avg}$) |
-| **Output Voltage Formula** | Independent of load ($V_o = f(D, V_{in})$) | Strongly dependent on load ($V_o = f(D, V_{in}, I_o, L, f_s)$) |
-| **Inductor Size ($L$)** | Larger inductance required | Smaller inductance required |
-| **Switching Losses** | Diode reverse-recovery loss present | Soft turn-ON (ZCS) for main switch, zero diode recovery |
-| **Control Loop** | Complex (RHP zero in Boost/Buck-Boost) | Simpler 1st-order system response |
-| **Best Suited For** | Heavy loads, high-power systems ($> 100\text{ W}$) | Light loads, standby modes, low-power applications |
+| Parameter                     | Continuous Conduction Mode (CCM)                   | Discontinuous Conduction Mode (DCM)                            |
+| :---------------------------- | :------------------------------------------------- | :------------------------------------------------------------- |
+| **Inductor Current ($i_L$)**  | $i_L > 0$ at all times                             | $i_L = 0$ for part of the switching cycle                      |
+| **Energy in Core**            | Never drops to zero                                | Depleted every cycle                                           |
+| **Peak Current ($I_{peak}$)** | Lower                                              | Higher (typically $> 2 \times I_{avg}$)                        |
+| **Output Voltage Formula**    | Independent of load ($V_o = f(D, V_{in})$)         | Strongly dependent on load ($V_o = f(D, V_{in}, I_o, L, f_s)$) |
+| **Inductor Size ($L$)**       | Larger inductance required                         | Smaller inductance required                                    |
+| **Switching Losses**          | Diode reverse-recovery loss present                | Soft turn-ON (ZCS) for main switch, zero diode recovery        |
+| **Control Loop**              | Complex (RHP zero in Boost/Buck-Boost)             | Simpler 1st-order system response                              |
+| **Best Suited For**           | Heavy loads, high-power systems ($> 100\text{ W}$) | Light loads, standby modes, low-power applications             |
 
 ---
 
