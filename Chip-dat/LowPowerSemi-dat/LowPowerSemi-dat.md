@@ -9,11 +9,26 @@
 
 - [[lowpowersemi-dat]] - [[LP28057-dat]] - [[battery-charger-1s-dat]] - [[A3-dat]]
 
+
+- [[LowPowerSemi-dat]] - [[LP6222-dat]] == 5A - [[dcdc-down-dat]]
+
+
+- [[LowPowerSemi-dat]] - [[LP6221A-dat]] - [[dcdc-boost-dat]] == 10A - High Efficiency 10A Boost Converter
+
+
+
+
+
 `LP28057`
 
 1.2A Single-chip Li-ion Charge with Protection of Reverse Connection of Battery
 
 
 ![](2026-11-14-20-04-19.png)
+
+
+
+
+
 
 ## ref 

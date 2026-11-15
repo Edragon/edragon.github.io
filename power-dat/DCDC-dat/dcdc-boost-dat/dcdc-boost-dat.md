@@ -51,6 +51,10 @@ high power - [[OPMS080-dat]]
 
 - [[DCDC-boost-dat]] - [[GMT-dat]] - [[G5177C-dat]]
 
+- [[LowPowerSemi-dat]] - [[LP6221A-dat]] - [[dcdc-boost-dat]] == 10A - High Efficiency 10A Boost Converter
+
+
+
 
 
 ## compare 

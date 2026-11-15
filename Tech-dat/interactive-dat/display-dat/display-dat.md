@@ -135,6 +135,14 @@ SPI interface LCDs - [[EDS-LCD-dat]] - [[SPI-LCD-dat]]
 
 
 
+## build with 
+
+- [[display-dat]] - [[LP6221A-dat]]
+
+
+
+
+
 ## ref 
 
 - [[ascii-dat]]

@@ -89,7 +89,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[dcdc-down-dat]] - [[LCWsemi-dat]] - [[HC8015-dat]]
 
-
+- [[LowPowerSemi-dat]] - [[LP6222-dat]] == 5A 
 
 
 
