@@ -22,6 +22,9 @@
 
 ## chip 
 
+
+- [[SW6236-dat]] - [[power-bank-dat]] 
+
 - [[SY3501-dat]] - [[tkplusemi-dat]] - [[power-bank-dat]]
 
 - [[IP5305-dat]] 

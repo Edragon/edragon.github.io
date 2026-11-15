@@ -191,6 +191,11 @@ Usage: Devices that require more energy or have higher power consumption tend to
 
 
 
+## apps 
+
+- [[battery-level-indicator-dat]] - [[battery-dat]]
+
+
 ## ref 
 
 - [[voltage-dat]] - [[power-level-dat]]

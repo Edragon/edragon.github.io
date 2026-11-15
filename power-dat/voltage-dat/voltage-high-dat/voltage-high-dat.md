@@ -35,7 +35,7 @@ It's suitable for capacitor charging, hunting, rodent control, and Nixie tube po
 - **Photomultiplier Tube**: Sensitive light detector requiring high voltage for operation.
 - **X-ray Tube**: Produces X-rays using high voltage to accelerate electrons.
 
-
+- [[ozone-generator-dat]] - [[voltage-High-dat]]
 
 ## mosfet 
 

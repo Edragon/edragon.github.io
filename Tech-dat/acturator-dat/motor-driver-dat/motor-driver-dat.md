@@ -441,10 +441,6 @@ You then only need 2 PWM pins from your microcontroller connected to L_PWM and R
 
 ### unknown build 
 
-PAB01A REFSH6000
-
-![](2026-11-16-01-11-28.png)
-
 
 
 ## apps 

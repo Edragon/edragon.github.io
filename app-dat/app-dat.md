@@ -29,6 +29,8 @@
 
 - [[power-UPS-dat]] - [[power-bank-dat]]
 
+- [[battery-level-indicator-dat]] - [[battery-dat]]
+
 ## Mechanical 
 
 [[pnp-machine-dat]] - [[openpnp-dat]] - [[PixiePlacer-dat]] - [[reprap-dat]] - 
@@ -45,7 +47,7 @@
 
 - [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[apple-dat]] - [[ipod-dat]]
 
-
+- [[light-flash-dat]] - [[light-dat]]
 
 
 ## Domestic Appliances 
@@ -58,6 +60,9 @@
 - [[solar-power-dat]] - [[power-storage-dat]]
   
 - [[generator-dat]]
+
+
+
 
 ## topics and system 
 
@@ -181,6 +186,10 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 - [[insta360-dat]] - [[gopro-dat]] - [[insta360-go2-camera-dat]] - [[insta360-go2-charger-dat]]
 
+
+## workspace 
+
+- [[soldering-iron-dat]] 
 
 
 ## tech app 
