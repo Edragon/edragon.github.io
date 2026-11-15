@@ -3,7 +3,7 @@
 
 Optical flow sensor (e.g. PMW3901 module) → helps with drift correction indoors.
 
-- [[PMW3901-dat]]
+- [[PMW3901-dat]] - [[GL-9306-dat]] - [[sensor-optical-flow-dat]] - [[sensor-motion-dat]] - [[sensor-dat]]
 
 
 ### Working Mechanism

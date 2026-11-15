@@ -177,17 +177,35 @@
 
 
 
-### Sensors, actuator - Electromechanical
+### Sensors, acturator - Electromechanical
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[sensor-energy-dat]] - [[sensor-ambient-dat]] - [[sensor-light-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]] - [[sensor-PIR-dat]]
+- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]] - [[sensor-PIR-dat]] - [[IMU-dat]] - [[sensor-optical-flow-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-temperature-non-contact-dat]] - [[sensor-pressure-dat]]
 
 - [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 
 - [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[camera-FPV-dat]]
+
+
+- [[sensor-color-dat]] - [[sensor-gas-dat]]I
+
+- [[camera-dat]] - [[vision-dat]]
+
+- [[triac-dat]] - [[thyristor-dat]]
+
+- [[switch-dat]] - [[switching-dat]]
+
+- [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[sensor-energy-dat]] - [[sensor-voltage-current-dat]] - [[meter-dat]]
+
+
+
+## acturator
+
+- [[electromagnet-dat]] - [[acturator-dat]]
+
 
 - [[acturator-dat]] - [[motor-dat]] - [[motion-control-system-dat]] - [[motor-brushed-dat]] - [[motor-brushless-dat]] - [[motor-stepper-dat]] - [[motor-servo-dat]] - [[control-dat]] - [[motor-reduction-gear-dat]] - [[gearbox-dat]]
 
@@ -206,15 +224,8 @@
 
 - [[laser-dat]] - [[laser-module-dat]]
 
-- [[sensor-color-dat]] - [[sensor-gas-dat]]I
 
-- [[camera-dat]] - [[vision-dat]]
 
-- [[triac-dat]] - [[thyristor-dat]]
-
-- [[switch-dat]] - [[switching-dat]]
-
-- [[sensor-voltage-dat]] - [[sensor-current-dat]] - [[sensor-energy-dat]] - [[sensor-voltage-current-dat]] - [[meter-dat]]
 
 
 ### Interface and signals 

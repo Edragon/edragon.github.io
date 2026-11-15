@@ -10,6 +10,13 @@ Designed for wide-range single ( 2 to 36V ) or dual ( +-1V to +-18V ) supply ope
 
 
 
+## apps 
+
+- [[LM339-dat]] - [[battery-level-indicator-dat]] - [[battery-dat]]
+
+
+
+
 ## build 
 
 build 1 
@@ -22,6 +29,11 @@ AHHCVB
 ![](2026-11-08-02-28-53.webp)
 
 ![](2026-11-08-02-29-03.webp)
+
+
+
+
+
 
 ## ref 
 

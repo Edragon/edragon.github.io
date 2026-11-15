@@ -2,6 +2,10 @@
 # PMW3901-dat.md
 
 
+
+
+## info 
+
 General Description  
 
 The PMW3901MB-TXQT is PixArt Imaging's latest optical navigation chip designed with far field optics technology that enables navigation in the air. It is housed in a 28-pin chip-on-board (COB) package that provides X-Y motion information with a wide working range of 80 mm to infinity. It is most suitable for far field applications for motion detection.

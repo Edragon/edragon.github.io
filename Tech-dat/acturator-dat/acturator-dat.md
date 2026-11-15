@@ -3,6 +3,7 @@
 
 
 
+- [[electromagnet-dat]] - [[acturator-dat]]
 
 - [[acturator-dat]] - [[fan-dat]] - [[beeper-dat]] - [[buzzer-dat]]
 
