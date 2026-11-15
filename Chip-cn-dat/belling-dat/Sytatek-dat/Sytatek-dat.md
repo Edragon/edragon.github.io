@@ -15,6 +15,8 @@
 
 - [[sytatek-dat]] - [[motor-driver-dat]] - [[motor-brushless-dat]]
 
+- [[SA2601-dat]] - [[hair-dryer-dat]]
+
 
 
 ## SA6128 Sytatek

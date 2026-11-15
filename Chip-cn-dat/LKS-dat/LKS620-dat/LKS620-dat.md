@@ -2,7 +2,7 @@
 
 # LKS620-dat
 
-- [[LKS620-dat]] - [[LKS-dat]]
+- [[LKS620-dat]] - [[LKS-dat]] - [[hair-dryer-dat]]
 
 LKS620是一款高集成度低待机功耗的非隔离降压型恆压驱动芯片。适用于20Vdc*~265Vac全电压输入的非隔离电源。
 
@@ -19,16 +19,6 @@ https://sjk.lksmcu.com/static/upload/file/20230113/LKS620_Datasheet_v0.9.pdf
 
 
 
-
-## build 
-
-![](2026-11-16-00-34-53.png)
-
-- [[sytatek-dat]] - [[SA2601-dat]] - [[LKS620-dat]] - [[LKS-dat]] - [[belling-dat]] - [[mosfet-HV-dat]]
-
-![](2026-11-16-00-55-26.png)
-
-- [[triac-dat]] - [[LKS620-dat]] - [[BTB12-800-dat]]
 
 ## ref 
 

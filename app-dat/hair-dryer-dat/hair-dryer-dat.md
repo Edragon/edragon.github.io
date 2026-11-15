@@ -2,6 +2,24 @@
 
 # hair-dryer-dat.md
 
+
+- [[hair-dryer-dat]]
+
+## build 1 
+
+
+![](2026-11-16-00-34-53.png)
+
+- [[sytatek-dat]] - [[SA2601-dat]] - [[LKS620-dat]] - [[LKS-dat]] - [[belling-dat]] - [[mosfet-HV-dat]]
+
+![](2026-11-16-00-55-26.png)
+
+- [[triac-dat]] - [[LKS620-dat]] - [[BTB12-800-dat]]
+
+
+
+
+
 - [[LKS620-dat]] - [[LKS-dat]]
 
 

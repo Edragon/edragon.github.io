@@ -46,6 +46,7 @@ CP4606SR - [[power-wireless-dat]]
 
 ## PNQA15E5C
 
+- [[bt-microphone-dat]] - [[A3-dat]] - [[bluetooth-dat]]
 
 ![](2026-11-14-21-05-52.png)
 

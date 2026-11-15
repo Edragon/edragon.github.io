@@ -5,6 +5,13 @@
 - [[glue-hot-dat]] - [[glue-UV-dat]] - [[glue-dat]] - [[cable-dat]] - [[installation-dat]]
 
 
+
+- [[glue-UV-dat]] - [[rays-Ultraviolet-dat]]
+
+
+
+
+
 ## Compared to hot melt adhesive
 
 Compared to hot melt adhesive, **light-curing adhesive (commonly referred to as UV glue)** offers decisive advantages in terms of **precision, strength, and operational control**. 

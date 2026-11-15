@@ -1,8 +1,11 @@
 # app-dat
 
-- [[tech-dat]]
+- [[tech-dat]] - [[physics-dat]]
 
 - [[rc-apps-dat]]
+
+
+
 
 ## a - z 
 
@@ -48,7 +51,7 @@
 ## Domestic Appliances 
 
 
-
+- [[hair-dryer-dat]]
 
 - [[logic-inverter-dat]] or [[data-logger-dat]], [[meter-energy-dat]] - [[meter-power-dat]]
 
@@ -103,7 +106,7 @@
 
 - [[pump-dat]]
 
-
+- [[fan-dat]] - [[fan-Smoke-exhaust-dat]] - [[fan-cross-flow-dat]]
 
 ## healthcare 
 
@@ -197,6 +200,7 @@ https://github.com/Edragon/app-c
 
 - [[fab-workspace-dat]]
 
-- [[maker]]
+- [[maker]] - [[2]]
 
 - [[physics-dat]]
+

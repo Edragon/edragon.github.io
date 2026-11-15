@@ -107,6 +107,8 @@ After the master and slave are connected, it is used as a serial port line. At t
 
 ## APPs 
 
+- [[bt-audio-dat]] - [[bt-microphone-dat]]
+
 - [[iBeacon-dat]]
 
 - [[NRF52840+SX1262-dat]] - [[lora-dat]] - [[bluetooth-dat]]
