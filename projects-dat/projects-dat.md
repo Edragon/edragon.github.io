@@ -24,6 +24,8 @@
 
 - [[robotic-project-list-dat]] - [[projects-dat]]
 
+- [[robot-dat]]
+
 ## machine 
 
 - [[machine-project-list-dat]] - [[machine-dat]]

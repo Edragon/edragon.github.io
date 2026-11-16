@@ -4,7 +4,22 @@
 - [[OBD-dat]] - [[car-dat]] - [[app-dat]] - [[battery-Lead-acid-dat]] - [[Cigarette-Lighter-dat]] - [[OPM1181-dat]]
 
 
+- [[ECU-dat]]
 
+
+
+
+## data sniffering 
+
+![](2026-11-17-04-26-01.png)
+
+- [[arduino-app-dat]] - [[OBD-dat]] - [[MCU-dat]]
+
+2 - Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino 【video】 | HN 369 分
+https://www.youtube.com/watch?v=WPj3aQ-xxpI
+
+
+## info 
 
 https://github.com/Edragon/OBD == Repository unavailable due to DMCA takedown.
 

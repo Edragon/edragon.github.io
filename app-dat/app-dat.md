@@ -189,7 +189,7 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 
 ## workspace 
 
-- [[soldering-iron-dat]] 
+- [[soldering-iron-dat]] - [[soldering-tools-spot-welding-dat]]
 
 
 ## tech app 

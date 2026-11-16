@@ -1,8 +1,28 @@
 
-# Battery Spot Welding and Desoldering
+# soldering-tools-spot-welding-dat
+
+
+== spot welder 
+
+
 
 - [[battery-dat]] - [[fab-tools-dat]] - [[battery-tools-dat]] - [[battery-tester-dat]]
 - [[fab-soldering-materials-dat]]
+
+- [[soldering-tools-spot-welding]]
+
+## mosfet solder 
+
+- 用通孔 FET 做 DIY 点焊机：开发比廉价板更耐用的套件板 — 这是电池组点焊的关键环节；用通孔方案比 MOS 并联板更耐操，适合自己做电池包。· Battery Technology ·
+  https://endless-sphere.com/sphere/threads/creating-a-diy-friendly-spot-welder-using-through-hole-fets-developing-a-kit-type-board-thats-more-robust-than-what-you-can-get-for-cheap.131595/
+
+
+SCH 
+
+
+
+
+
 
 ## Capacitor Discharge (CD) Spot Welding
 

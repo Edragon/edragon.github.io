@@ -35,6 +35,13 @@
 ![](2026-03-02-22-09-43.webp)
 
 
+## apps 
+
+- [[VESC-dat]] - [[ESC-dat]] - [[M620-dat]] - [[bafang-dat]]
+
+
+
+
 ## ref 
 
 - [[INA240-dat]]
