@@ -3,15 +3,48 @@
 
 # smart-watch-dat
 
+- [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[fitness-tracker-dat]]
 
 
 
 
+
+
+## build 5 
+
+- [[AC6323A-dat]] - [[jieli-dat]] - [[SSD1312-dat]]
+
+- [[AC6323A-dat]] - [[jieli-dat]] == JL BP26418-23A2
+
+![](2026-11-16-23-41-43.png)
+
+
+
+## build 4 
+
+![](2026-11-16-23-33-07.png)
+
+- [[huntersun-dat]] - [[HS6620-dat]] - [[smart-watch-dat]] - [[electronics-consumer-dat]] - [[engineering-reverse-dat]] - [[projects-dat]] - [[hack-dat]]
 
 
 ## build 3
 
+![](2026-11-16-23-26-48.png)
 
+- [[huntersun-dat]] - [[HS6620-dat]] - [[smart-watch-dat]]
+
+![](2026-11-16-23-35-39.png)
+
+XT25F1288W01G - [[memory-dat]] - [[xtxtech-dat]] == 128Mbit; 电压: 2.7~3.6V; 温度范围 - [[flash-NOR-dat]] - [[smart-watch-dat]]
+
+
+CS1816S
+
+![](2026-11-16-23-37-03.png)
+
+![](2026-11-16-23-38-10.png)
+
+![](2026-11-16-23-38-28.png)
 
 ## build 2 
 

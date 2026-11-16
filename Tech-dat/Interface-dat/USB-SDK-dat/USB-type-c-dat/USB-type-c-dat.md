@@ -13,6 +13,15 @@
 
 
 
+## chip 
+
+- [[chrontel-dat]] - [[CH7213A-dat]] - [[USB-type-C-dat]]
+
+- [[chrontel-dat]] - [[CH7525A-dat]] - [[HDMI-dat]] - [[displayport-dat]] - [[USB-type-c-dat]]
+
+
+
+
 ## tech 
 
 - [[type-c-sniffer-dat]] 
@@ -58,6 +67,12 @@
 建议买带有 PD 供电口（分线/扩展坞类型） 的 Type-C OTG 转接线。因为 Pixel 8 Pro 供电能力有限，而高性能无线网卡在全功率接收时功耗不小，外接扩展坞可以让手机在连接网卡的同时通过充电宝供电，避免手机电量迅速耗尽或因供电不足导致网卡掉线。
 
 
+
+## glosssary
+
+`HPD stands for Hot Plug Detect.` 
+
+It is a critical signaling feature used primarily when a USB-C port is operating in an Alternate Mode (such as DisplayPort Alt Mode) to transmit video to an external monitor, TV, or projector.   
 
 
 ## debug info 

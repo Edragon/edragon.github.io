@@ -23,10 +23,19 @@
 ## use 
 
 
+case 4 
+
+![](2026-11-16-23-39-28.png)
+
+case 1 
+
 - [[smart-wristband-dat]] - [[xiaomi-dat]] - [[dialog-dat]] - [[DA14697-dat]] - [[heatbed-dat]]
 
 
 ![](2026-11-14-15-51-14.png)
+
+
+case 2 
 
 - [[apple-dat]] - [[ipod-dat]] - [[heatbed-dat]]
 
@@ -34,6 +43,16 @@
 ![](2026-11-14-15-52-00.png)
 
 
+case 3 
+
+![](2026-11-16-23-24-03.png)
+
+
+
+
+## not working 
+
+![](2026-11-16-23-10-52.png)
 
 
 

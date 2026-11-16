@@ -24,7 +24,7 @@
 - [[A3-dat]]
 
 
-- [[AC6323A-dat]] - [[jieli-dat]]
+- [[AC6323A-dat]] - [[jieli-dat]] == JL BP26418-23A2
 
 
 JL AC1522C6230Q

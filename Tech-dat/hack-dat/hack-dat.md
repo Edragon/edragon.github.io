@@ -13,6 +13,14 @@
 - [[glue-dat]] - [[velcro-dat]]
 
 
+
+## existed reversed engineering 
+
+- [[huntersun-dat]] - [[HS6620-dat]] - [[smart-watch-dat]] - [[electronics-consumer-dat]] - [[engineering-reverse-dat]] - [[projects-dat]] - [[hack-dat]]
+
+
+
+
 ## invasive hack 
 
 - [[screw-dat]] 

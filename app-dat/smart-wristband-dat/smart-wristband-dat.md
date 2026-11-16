@@ -2,7 +2,14 @@
 
 # smart-wristband-dat
 
-method - [[preheat-bed-dat]]
+
+
+
+- [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[fitness-tracker-dat]]
+  
+
+
+method - [[heatbed-dat]]
 
 ## build 
 

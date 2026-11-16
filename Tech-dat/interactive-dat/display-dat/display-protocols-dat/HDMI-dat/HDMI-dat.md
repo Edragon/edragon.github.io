@@ -4,7 +4,7 @@
 - [[HDMI-dat]] - [[camera-CSI-dat]] - [[interface-dat]] - [[MIPI-dat]] - [[video-dat]]
 
 
-
+- [[USB-3.0-dat]]
 
 
 
@@ -36,6 +36,10 @@ HDMI to CSI bridge - [[HDMI-CSI-bridge-dat]]
 ## chips 
 
 - [[toshiba-dat]] - [[TC358743-dat]]
+
+- [[chrontel-dat]] - [[CH7213A-dat]] - [[USB-type-C-dat]]
+
+- [[chrontel-dat]] - [[CH7525A-dat]] - [[HDMI-dat]] - [[displayport-dat]] - [[USB-type-c-dat]]
 
 
 

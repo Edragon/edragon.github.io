@@ -46,7 +46,7 @@
 
 339S0104 - [[apple-dat]] - [[339S0104-dat]] - [[sumsung-dat]] - [[ARM-dat]] - [[ARM-11-dat]] - [[ipod-dat]]
 
-
+- [[huntersun-dat]] - [[HS6620-dat]]
 
 
 
