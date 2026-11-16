@@ -1,8 +1,17 @@
 
+
 # power-inverter-dat
 
 
 - [[logic-inverter-dat]] - [[power-inverter-dat]]
+
+
+
+
+
+## tech 
+
+- [[driver-gate-dat]] - [[driver-dat]]
 
 
 ## 4. Inverters

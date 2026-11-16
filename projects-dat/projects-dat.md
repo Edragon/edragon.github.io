@@ -17,44 +17,7 @@
 - [[peripherals-dat]]
 
 
-
-
-
-
-## IOT 
-
-- [[MCU-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[SOC-dat]] - [[SOM-dat]] - [[FPU-dat]] - [[IOT-dat]]
-
-
-
-### LTE 
-
-
-- [[spreadtrum-dat]] - [[unisoc-dat]] - [[SL8521ET-dat]] 
-  
-- [[IOT-LTE-dat]] - [[4G-dat]] - [[projects-dat]] - [[IOT-dat]] - [[smart-watch-dat]]
-
-
-### wifi 
-
-- [[wifi-dat]] - [[IOT-dat]] - [[MCU-dat]] 
-  
-
-
-#### esp32 
-
-
-- [[esp32-projects-dat]] - [[esp32-dat]] - [[projects-dat]]
-
-- [[projects-dat]] - [[espressif-dat]] - [[esp-app-dat]]
-
-
-#### beken 
-
-- [[beken-dat]] - [[BK7231-dat]]
-
-- [[BK7231-dat]] - [[ESP32-dat]] - [[ESP8266-dat]]
-
+- [[IOT-dat]]
 
 
 ## robotic 

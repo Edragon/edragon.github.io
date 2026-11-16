@@ -36,6 +36,15 @@ Rockchip RK682F, a close cousin to the RK628D
 
 - [[rockchip-dat]] - [[RK809-dat]] - [[PMIC-dat]]
 
+
+## apps 
+
+
+- [[Rockchip-dat]] - [[PX30-dat]] - [[bobcat-dat]] 
+
+
+
+
 ## ref 
 
 - [[rockchip]]

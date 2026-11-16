@@ -10,7 +10,14 @@
 - [[STM32-DFU-dat]] - [[STM32-dat]] - [[STM32-SDK-dat]]
 
 
+
+
+
 ## chips 
+
+
+- [[STM32F051K6-dat]] - [[STM32-F0-dat]] - [[MCU-dat]] - [[flight-controller-dat]] - [[STM32-dat]]
+
 
 - [[STM32G431-dat]]
 

@@ -12,6 +12,11 @@
 
 
 
+
+## tech 
+
+- [[driver-gate-dat]] - [[driver-dat]]
+
 ## electric tools battery pack == 5S
 
 
@@ -28,6 +33,11 @@ How to series connect the battery pack
 ## common type electric tools battery pack
 
 ![](2025-06-10-16-54-11.webp)
+
+
+
+
+
 
 ## ref 
 
