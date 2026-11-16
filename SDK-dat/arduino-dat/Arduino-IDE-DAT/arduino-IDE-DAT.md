@@ -9,6 +9,15 @@ https://github.com/arduino/arduino-ide
 
 - [[platformio-dat]] - [[arduino-cli-dat]]
 
+
+
+
+## advanced use 
+
+- [[ARM-dat]] - [[GDB-dat]] - [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] - [[jlink-dat]] - [[ARM-dat]]
+
+
+
 ## Library list 
 
 multi-task 

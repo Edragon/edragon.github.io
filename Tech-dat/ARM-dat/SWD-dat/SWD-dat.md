@@ -9,8 +9,7 @@
 
 ## SWD software debug in arduino 
 
-- [[arduino-IDE-dat]] 
-
+- [[ARM-dat]] - [[GDB-dat]] - [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] - [[jlink-dat]] - [[ARM-dat]]
 
 
 

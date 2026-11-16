@@ -82,7 +82,11 @@
 
 
 
+## use 
 
+debug 
+
+- [[ARM-dat]] - [[GDB-dat]] - [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] - [[jlink-dat]] - [[ARM-dat]]
 
 
 ## ref 

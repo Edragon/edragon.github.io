@@ -6,12 +6,16 @@
 - [[DPR1135-dat]]
 
 
-JLink is a the SEGGER company launched JTAG emulator for ARM core chip to support simulation. IAR EWARM, ADS, KEIL, WINARM, RealView and other integrated development environment with the support all ARM7/ARM9 kernel chip simulation and seamless connectivity through the RDI interface and the integrated development environment, easy to operate, easy to connect, easy to learn, learning to develop ARM the best and most practical development tools.
+JLink is a the [[SEGGER-dat]] company launched JTAG emulator for ARM core chip to support simulation. IAR EWARM, ADS, KEIL, WINARM, RealView and other integrated development environment with the support all ARM7/ARM9 kernel chip simulation and seamless connectivity through the RDI interface and the integrated development environment, easy to operate, easy to connect, easy to learn, learning to develop ARM the best and most practical development tools.
 
 path 
 - D:\Program Files\SEGGER\JLink\
 - C:\Program Files\SEGGER\JLink_V782
 
+
+## use guide 
+
+- [[ARM-dat]] - [[GDB-dat]] - [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] - [[jlink-dat]] - [[ARM-dat]]
 
 
 

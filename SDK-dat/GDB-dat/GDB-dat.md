@@ -4,7 +4,7 @@
 # GDB-dat
 
 
-- [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] - [[jlink-dat]] - [[ARM-dat]]
+- [[ARM-dat]] - [[GDB-dat]] - [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] - [[jlink-dat]] - [[ARM-dat]]
 
 
 ## JLINK GDB server
@@ -26,12 +26,17 @@ Select OK and if everything goes well you should see the following screen:
 
 Launching a GDB Client
 
+- [[GCC-dat]] file path
+
 Now you can launch the GDB Client by using the path we've saved earlier from the GCC path in Arduino. Open Terminal and paste the copied path + /arm-none-eabi-gdb:
 
 For Example: /Users/ansonhe/Library/Arduino15/packages/Seeeduino/tools/arm-none-eabi-gcc/7-2017q4/bin/arm-none-eabi-gdb
 
 
 `/Users/ansonhe/Library/Arduino15/packages/Seeeduino/tools/arm-none-eabi-gcc/7-2017q4/bin/` ++ `arm-none-eabi-gdb`
+
+
+- [[arduino-elf-dat]]
 
 Run the following commands under gdb:
 

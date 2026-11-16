@@ -4,7 +4,7 @@
 # GCC-dat
 
 
-- [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] - [[jlink-dat]] - [[ARM-dat]]
+- [[arduino-ide-dat]] - [[arduino-elf-dat]] - [[SWD-dat]] - [[GDB-dat]] - [[GCC-dat]] file path - [[jlink-dat]] - [[ARM-dat]]
 
 
 ## obtain GCC path 
