@@ -4,7 +4,7 @@
 # RF-FEM-dat
 
 
-- [[amplifier-dat]] - [[RF-FEM-dat]] - [[amplifier-RF-dat]]
+- [[amplifier-dat]] - [[RF-FEM-dat]] - [[amplifier-RF-dat]] - [[power-amplifier-dat]]
 
 - [[nordic-dat]]
 

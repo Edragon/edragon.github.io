@@ -91,7 +91,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[LowPowerSemi-dat]] - [[LP6222-dat]] == 5A 
 
-
+- [[dcdc-down-dat]] - [[RY8310-dat]] - [[rychip-dat]] == 30V 1A - [[FPV-dat]]
 
 ### CHIP SIL 
 

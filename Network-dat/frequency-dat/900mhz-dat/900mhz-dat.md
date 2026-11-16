@@ -2,6 +2,10 @@
 
 # 900mhz-dat
 
+
+
+
+
 - [[900mhz-dat]] vs - [[2.4ghz-dat]] == [[frequency-dat]]
 
 
@@ -12,6 +16,14 @@
 
 
 - [[antenna-dat]]
+
+
+
+## apps 
+
+- [[900mhz-dat]] - [[SX1262-dat]] - [[semtech-dat]] - [[lora-dat]] - [[ELRS-TX-HDK-dat]]
+
+
 
 
 ## advantages 
