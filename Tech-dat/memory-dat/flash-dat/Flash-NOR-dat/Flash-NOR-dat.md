@@ -61,7 +61,7 @@ Micron Serial NOR Flash Memory
 
 `MT40A512M16TB`-062E:R == SDRAM - DDR4 記憶體 IC 8Gbit 並行 1.6 GHz 19 ns 96-FBGA (7.5x13)
 
-
+- [[PUYAsemi-dat]] - [[flash-nor-dat]]
 
 ## Nor Flash 
 

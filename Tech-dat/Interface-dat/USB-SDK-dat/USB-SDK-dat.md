@@ -44,11 +44,22 @@
 - [[RNDIS-dat]] - [[USB-SDK-dat]] - [[network-dat]]
 
 
+
+
+## USB version 
+
+- [[USB-Thunderbolt-dat]] - [[USB-4.0-dat]] - [[USB-3.0-dat]] - [[displayport-dat]] - [[USB-type-C-dat]] - [[USB-SDK-dat]]
+
+- [[USB-3.0-dat]]
+
+
 ## tech 
 
 - [[wifi-dat]] - [[sdio-dat]] - [[USB-SDK-dat]]
 
+- [[USB-controller-dat]] - [[USB-Hub-dat]]
 
+- [[fast-charge-protocols-dat]]
 
 
 ## chips 

@@ -40,5 +40,11 @@ Key Characteristics
 
 - [[toothbrush-electric-dat]]
 
+
+
+## build 
+
+![](2026-11-16-23-47-13.png)
+
 ## ref 
 

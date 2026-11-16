@@ -6,7 +6,7 @@
 - [[GL850-dat]] - [[gensys-logic-dat]] - [[GL3520-dat]] - [[GL823-dat]]
 
 
-
+- [[Gensys-logic-dat]] - [[USB-hub-dat]]
 
 ## ref 
 

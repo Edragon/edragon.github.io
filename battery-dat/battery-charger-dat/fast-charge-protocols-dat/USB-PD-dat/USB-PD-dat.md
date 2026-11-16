@@ -31,6 +31,16 @@ USB PD Sink Controller
 - [[diodes-dat]] - [[AP3377-dat]] - [[USB-PD-dat]]
 
 
+
+
+
+## chip 
+
+- [[VIA-dat]] - [[USB-hub-dat]] - [[VL211-dat]] - [[VL103-dat]] - [[displayport-dat]] - [[usb-SDK-dat]] - [[USB-PD-dat]]
+
+
+
+
 ## demo video 
 https://t.me/electrodragon3/404
 

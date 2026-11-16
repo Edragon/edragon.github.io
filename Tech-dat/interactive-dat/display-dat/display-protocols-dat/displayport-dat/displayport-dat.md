@@ -2,7 +2,7 @@
 # displayport-dat
 
 
-
+- [[USB-controller-dat]] - [[USB-Hub-dat]]
 
 - [[intel-dat]] - [[JHL6340-dat]] - [[USB-Thunderbolt-dat]]
 
@@ -33,6 +33,35 @@
 
 
 ## info 
+
+- [[USB-3.0-dat]] - [[USB-4.0-dat]] 
+
+DisplayPort (DP) is definitely **not** an exclusive protocol of USB 3.0.
+
+DisplayPort is an independent **digital video interface standard** created by the Video Electronics Standards Association (VESA) primarily for connecting computers to monitors, TVs, and other displays. USB 3.0 (along with newer standards like USB 3.1, USB 3.2, and USB4) is a **universal serial bus data transmission standard** developed by the USB-IF organization.
+
+These two technologies belong to completely different standards bodies, but they have achieved deep integration in the era of the **USB Type-C** interface.
+
+---
+
+### Why do people associate DisplayPort with USB 3.0?
+
+The misconception that DP is exclusive to USB largely stems from the incredible versatility of modern **USB Type-C** interfaces and cables, which support a technology called **Alternate Mode (Alt Mode)**:
+
+1. **Physical Pin Multiplexing (Alt Mode):** A USB Type-C connector includes several high-speed differential signal lines. When a compatible display device is detected, internal switches in the cable repurpose these high-speed pins—which normally carry USB data—to directly transmit native DisplayPort video signals.
+2. **Sharing a Single Type-C Cable:** This means a fully-featured USB-C cable can carry USB 3.0/3.1/3.2 high-speed data while simultaneously "borrowing" a few pairs of lanes to stream actual DisplayPort video.
+3. **Integration in USB4 / Thunderbolt:** With USB4 and Thunderbolt 3/4, integration goes a step further. DisplayPort video data and regular USB data are packaged together into **data packets** and transmitted concurrently over the exact same high-speed link, eliminating the need to physically switch pin functions.
+
+---
+
+### Summary of Differences
+
+* **What DisplayPort is:** A pure **video/audio transmission protocol**. Aside from USB-C, it is widely used on standard **DisplayPort (DP)** ports, **Mini DP**, and is closely related to digital video transmission principles found in HDMI.
+* **What USB 3.0 is:** A pure **universal data transmission protocol** (running at 5 Gbps). It can operate over traditional USB-A ports, older Type-C implementations, or share space cooperatively on a Type-C port alongside a separate DisplayPort stream.
+
+In short, DisplayPort is not exclusive to USB 3.0; it simply "hitches a ride" using USB-C's Alternate Mode to transmit video signals through the USB-C physical connector.
+
+
 
 
 ## ✅ Pixel Models That Support DisplayPort

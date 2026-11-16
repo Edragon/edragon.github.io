@@ -7,7 +7,7 @@
 
 - [[onsemi-dat]] - [[FSUSB42-dat]]
 
-
+- [[USB-controller-dat]] - [[USB-Hub-dat]]
 
 
 ## apps 
@@ -23,6 +23,13 @@
 
 
 ## chip 
+
+- [[Renesas-dat]] - [[USB-hub-dat]]
+
+- [[VIA-dat]] - [[USB-hub-dat]] - [[VL211-dat]]
+
+
+- [[Gensys-logic-dat]] - [[USB-hub-dat]]
 
 
 - [[corechips-dat]] - [[SL2.1-dat]]
@@ -48,6 +55,17 @@ USB3.0 hub芯片一定要买 `VL813Q7`,虽然VL812Q7与他pin to pin兼容，但
 
 - [[GL850-dat]] - [[gensys-logic-dat]] - [[GL3520-dat]] - [[GL823-dat]]
 
+
+
+## build 
+
+![](2026-11-17-00-07-11.png)
+
+- [[VIA-dat]] - [[USB-hub-dat]] - [[VL211-dat]] - [[VL103-dat]]
+
+- [[PUYAsemi-dat]] - [[flash-nor-dat]]
+
+- [[case-plastic-dat]]
 
 ## SDK
 

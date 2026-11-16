@@ -2,6 +2,13 @@
 # fab-molding-dat.md
 
 
+
+
+- [[plastic-dat]] - [[plastic-structure-dat]] - [[case-plastic-dat]] - [[case-dat]] - [[fab-3d-print-dat]] - [[injection-molding-dat]] - [[fab-molding-dat]]
+
+## info 
+
+
 - [[fab-injection-molding-dat]]
 
 - 硅胶模 + 真空复模	Vacuum Casting (Silicone Mold)
