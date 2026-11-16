@@ -76,7 +76,7 @@ The ESP32-P4 network model can be explained as follows:
 
 - [[WCH-dat]] - [[CH9121-dat]]
 
-
+- [[motorcomm-dat]] - [[YT8512C-dat]] - [[bobcat-dat]] - [[ethernet-dat]]
 
 ## BOM 
 

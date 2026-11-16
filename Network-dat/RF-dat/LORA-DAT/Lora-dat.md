@@ -20,6 +20,9 @@
 - [[RSSI-dat]]
 
 
+
+
+
 ## chip 
 
 - [[LLCC68-dat]] - [[SX1262-dat]] - [[lora-dat]] 
@@ -80,9 +83,16 @@ LoRa’s link budget is superior to any other standardized communication technol
 
 The main LoRa RF chips are the SX127X series, SX126X series, and SX130X series. The SX127X and SX126X series are used for LoRa nodes, while the SX130X is used for LoRa gateways. For details, refer to Semtech’s product list.
 
+
+
+
+
 ### Lora Tech 
 
-- [[RSSI-dat]]
+
+- [[bobcat-dat]] - [[lorawan-dat]] - [[helium-dat]] - [[IOT-dat]]  - [[lora-dat]] - [[docker-dat]]
+
+- [[RSSI-dat]] - [[telemetry-dat]]
 
 frequency hopping, spread spectrum, and other technologies are used to improve anti-interference and anti-collision capabilities.
 
