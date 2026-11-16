@@ -114,8 +114,23 @@ Directly connecting a coil to a DC power supply **does create a static magnetic 
 - I can, however, help with non-harmful theoretical calculations or demonstrations (for example: estimating magnetic force for a given coil geometry and current, or plotting force vs. position). Tell me which calculation or demonstration you want and I’ll provide it for educational purposes.
 
 
+
+## SCH 3 
+
+![](2026-11-17-05-06-42.png)
+
 ## SCH V2  AC version 
 
+![](2026-11-17-05-09-26.png)
+
+If you don't have the irfp250'syoucanuse acoupleof semiconductors
+that have a VDs almost 4times the power supply and R(ds)oN <150mohm.
+power supplymustbe able to supply several amps （more than 10)
+
+
+![](2026-11-17-05-08-10.png)
+
+![](2026-11-17-05-07-33.png)
 
 ![](2025-10-02-16-13-45.png)
 
