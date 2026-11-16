@@ -1,6 +1,23 @@
 
 # SWD-dat
 
+- [[ARM-dat]] - [[jtag-dat]] - [[SWD-dat]]
+
+
+
+
+
+## SWD software debug in arduino 
+
+- [[arduino-IDE-dat]] 
+
+
+
+
+
+
+## info 
+
 - [[st-link-dat]]
 
 - https://static.docs.arm.com/ihi0031/d/debug_interface_v5_2_architecture_specification_IHI0031D.pdf

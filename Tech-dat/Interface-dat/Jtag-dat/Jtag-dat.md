@@ -1,6 +1,12 @@
 
 # JTAG-dat 
 
+
+- [[ARM-dat]] - [[jtag-dat]] - [[SWD-dat]]
+
+
+
+
 - [[ESP-Prog-dat]]
 
 - [[openOCD-dat]]
@@ -35,6 +41,9 @@ power supply
 - 2，直接将VOUT引I脚连接到MCU的VCC进行供电
 - 3，用户也可以选择目标板自带供电。
 - 注意：无论那种供电方式，VTREF引I脚都必须连接到MCU的VCC。
+
+
+
 
 
 

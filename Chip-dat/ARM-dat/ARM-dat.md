@@ -60,7 +60,7 @@
 
 ## protocol / interface 
 
-- [[JTAG-dat]] - [[SWD-dat]]
+- [[ARM-dat]] - [[jtag-dat]] - [[SWD-dat]]
   
 - [[EDBG-dat]]
 

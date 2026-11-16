@@ -2,6 +2,12 @@
 # hack-dat
 
 
+
+- [[engineering-dat]] - [[engineering-reverse-dat]] - [[hack-dat]]
+
+
+
+
 - [[hack-dat]] - [[fab-mechanics-dat]] - [[hack-dat]] - [[installation-dat]]
 
 
