@@ -22,6 +22,16 @@
 - [[led-driver-dat]]
 
 
+- [[fortier-dat]] - [[FD6288Q-dat]] - [[motor-driver-BLDC-dat]] - [[driver-gate-dat]] - [[driver-dat]]
+
+
+
+
+- [[battery-powered-tools-dat]] - [[motor-driver-BLDC-dat]] - [[power-inverter-dat]] - [[power-supply-switch-mode-dat]] - [[motor-driver-PMSM-dat]] - [[gate-driver-dat]] - [[driver-dat]]
+
+
+
+
 ## ref 
 
 

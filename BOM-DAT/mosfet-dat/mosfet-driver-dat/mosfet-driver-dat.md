@@ -14,7 +14,7 @@
 - [[driver-half-bridge-dat]] - [[mosfet-dat]] - [[IGBT-dat]] - [[mosfet-driver-dat]] 
 
 
-
+ [[mosfet-driver-dat]] - [[driver-gate-dat]] - [[driver-dat]]
 
 
 

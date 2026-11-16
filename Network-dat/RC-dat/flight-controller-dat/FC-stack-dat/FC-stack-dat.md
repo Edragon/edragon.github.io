@@ -10,8 +10,13 @@
 
 - [[flight-controller-dat]] + [[ESC-dat]] + [[VTX-dat]]
 
+- [[MCU-dat]] - [[FC-stack-dat]] - [[flight-controller-dat]]
 
 - [[SBUS-dat]]
+
+
+
+
 
 ## schema 
 
@@ -33,6 +38,28 @@
 
 
 ## board 
+
+
+build 2 
+
+![](2026-11-16-14-34-34.png)
+
+![](2026-11-16-14-34-47.png)
+
+2R203 
+
+![](2026-11-16-14-35-08.png)
+
+
+- [[STM32F051K6-dat]] - [[STM32-F0-dat]] - [[MCU-dat]] - [[flight-controller-dat]] - [[STM32-dat]]
+
+- [[fortier-dat]] - [[FD6288Q-dat]] - [[motor-driver-BLDC-dat]] - [[driver-gate-dat]] - [[driver-dat]]
+
+
+
+
+
+build 1 
 
 SOWA F4 - https://oshwlab.com/poplavskyib/SOWA_F4
 
