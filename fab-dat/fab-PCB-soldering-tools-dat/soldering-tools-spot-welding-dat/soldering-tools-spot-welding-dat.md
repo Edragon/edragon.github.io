@@ -19,7 +19,94 @@
 
 SCH 
 
+### MCU control
 
+The **ATtiny1616** microcontroller acts essentially as a **precise electronic shutter controller**. Its primary job is to manage user inputs, monitor safety conditions, and precisely control high-current switching (the MOSFET array) with microsecond-level timing.
+
+
+
+    [ Power On / Reset ]
+            │
+            ▼
+    ┌──────────────────────────────────────┐
+    │          Idle / Monitoring           │
+    │  (Read Encoder, Update OLED Screen)  │
+    └──────────────────┬───────────────────┘
+                        │
+                        │ (Trigger: Foot Switch / Auto-detect probe contact)
+                        ▼
+    ┌──────────────────────────────────────┐
+    │        Safety & Pre-Check            │
+    │  (Verify Supply Voltage & NTC Temp)  │
+    └──────────────────┬───────────────────┘
+                        │ (Pass)
+                        ▼
+    ┌──────────────────────────────────────┐
+    │         Pulse 1 (Pre-weld)           │
+    │   (~1ms - 5ms to clear oxides)       │
+    └──────────────────┬───────────────────┘
+                        │
+                        ▼
+    ┌──────────────────────────────────────┐
+    │         Cooling Delay Gap            │
+    │    (~10ms - 50ms pause for safety)   │
+    └──────────────────┬───────────────────┘
+                        │
+                        ▼
+    ┌──────────────────────────────────────┐
+    │         Pulse 2 (Main Weld)          │
+    │  (~5ms - 30ms to fuse nickel strip)  │
+    └──────────────────┬───────────────────┘
+                        │
+                        ▼
+    ┌──────────────────────────────────────┐
+    │       Cooldown & Fault Lockout       │
+    │   (Prevent rapid re-triggering)      │
+    └──────────────────┬───────────────────┘
+                        │
+                        └───────────► (Return to Idle)
+
+
+The core operational logic runs through a non-blocking state machine divided into the following key modules:
+
+---
+
+### 1. Core Execution Flow (Main Loop & State Machine)
+
+* **Idle / Monitoring:** The system waits quietly, updating the UI and continuously monitoring for safety parameters and trigger events.
+* **Trigger Detection:** It checks for an input signal (e.g., a foot switch press or an auto-detect trigger when the welding probes touch the nickel strip).
+* **Pre-Check / Safety Verification:** It verifies that input voltage (from the supply battery/capacitor bank) and board temperature (via NTC thermistor) are within safe operating limits.
+* **Double-Pulse Generation:** Executes the precise weld sequence (detailed below).
+* **Cooling Lockout & Reset:** Enforces a brief cooldown period to protect the MOSFETs before returning to the idle state.
+
+---
+
+### 2. Key Functional Modules
+
+#### ① User Interface & Settings
+
+* **Input:** Reads a rotary encoder or buttons to adjust welding parameters—specifically **Pulse 1 duration**, **Cooling Delay**, and **Pulse 2 duration** (typically measured in milliseconds).
+* **Display:** Drives an OLED or LED screen to show current settings and system status.
+
+#### ② Trigger Handling & Debouncing
+
+* Monitors the trigger input pin and applies software debouncing to ensure a clean, intentional trigger before initiating any high-current output.
+
+#### ③ Precise Pulse Timing Control (The Core Task)
+
+Using the ATtiny1616's internal **hardware timers (TCA/TCB)**, the firmware delivers a strict double-pulse sequence:
+
+1. **Pulse 1 (Pre-weld / Warm-up):** A short pulse (e.g., 1ms–5ms) used to burn away surface oxidation on the nickel strip and establish initial contact.
+2. **Cooling Delay:** A brief pause (e.g., 10ms–50ms) with the MOSFETs turned off to let heat dissipate and current stabilize.
+3. **Pulse 2 (Main Weld):** A longer pulse (e.g., 5ms–30ms) that delivers the primary thermal energy required to fuse the nickel strip to the battery cell casing.
+
+* *Note:* The single-chip outputs these signals through gate drivers to rapidly switch the through-hole MOSFET array on and off, preventing excessive thermal buildup and switch failure.
+
+#### ④ Safety & Protection Mechanisms
+
+* **Thermal Protection:** Continuously reads board temperature via an analog input (ADC); locks out operation if the board overheats.
+* **Undervoltage Lockout (UVLO):** Checks supply voltage to prevent operation under low-voltage conditions that could cause erratic behavior or poor welds.
+* **Maximum Pulse Hard-Limit:** Includes a failsafe time cap to prevent software lockups or stuck buttons from holding the MOSFETs open indefinitely, avoiding thermal runaway or fire risks.
 
 
 
