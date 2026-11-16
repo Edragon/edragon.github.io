@@ -10,7 +10,7 @@
 
 - [[betaFPV-dat]] - [[betaFPV]]
 
-
+- [[HGLRC-dat]] - [[fc-stack-dat]] - [[flight-controller-dat]] - [[FPV-dat]]
 
 
 ## other accessories 

@@ -479,9 +479,16 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 
 
-## mosfet PDFN 
+## mosfet PDFN / WSON-8 / TSON-8 
 
 
+2R203 - [[mosfet-dat]] - [[toshiba-mosfet-dat]] - [[toshiba-dat]] - [[PCB-footprint-dat]] - [[TSON-8-dat]] == 30V / 100A - [[FC-stack-dat]]
+
+![](2026-11-16-14-53-47.png)
+
+
+
+- [[PCB-footprint-dat]]
 
 - [[wayon-dat]] - [[WMQ50N04T1-dat]] == wayon QSDN04 - [[led-driver-dat]]
 
