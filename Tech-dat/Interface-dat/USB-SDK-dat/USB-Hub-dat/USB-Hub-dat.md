@@ -67,6 +67,10 @@ USB3.0 hub芯片一定要买 `VL813Q7`,虽然VL812Q7与他pin to pin兼容，但
 
 - [[case-plastic-dat]]
 
+- [[button-side-dat]] - [[button-dat]]
+
+
+
 ## SDK
 
 

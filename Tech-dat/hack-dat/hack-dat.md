@@ -8,6 +8,18 @@
 - [[rc-hack-dat]]
 
 
+
+## glued open 
+
+- [[heatbed-dat]]
+
+## case open 
+
+always start from [[button-dat]] or [[conn-dat]] connector 
+
+![](2026-11-17-00-19-08.png)
+
+
 ## simple hack 
 
 - [[glue-dat]] - [[velcro-dat]]
