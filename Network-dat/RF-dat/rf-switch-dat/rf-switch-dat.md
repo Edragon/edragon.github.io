@@ -1,6 +1,11 @@
 
 # rf-switch-dat
 
+
+- [[RF-FEM-dat]] - [[rf-switch-dat]] - [[RF-dat]]
+
+
+
 Here's a complete wiring diagram for using the SX1262 with DIO2 controlling RF switch (TX/RX EN) and all required connections, assuming:
 
 You're using a single-pin RF switch like the `SKY66420`-11 (or similar).
@@ -13,7 +18,12 @@ SPI interface is used between the MCU and the SX1262.
 
 
 
-- [[PE4259-dat]] - [[SKY66420-dat]] - [[rf-switch-dat]] - [[network-dat]]
+- [[PE4259-dat]] - [[SKY66420-dat]] - [[rf-switch-dat]] - [[network-dat]] - [[skyworks-dat]] - [[RF-FEM-dat]]
+
+
+
+- [[analog-device-dat]] - [[AD-rf-switch-dat]]
+
 
 
 ## ref 

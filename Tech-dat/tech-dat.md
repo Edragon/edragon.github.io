@@ -165,7 +165,7 @@
 
 - [[touch-panel-dat]] - [[touch-dat]] - [[touch-pad-dat]]
 
-- [[button-dat]] - [[switch-chip-dat]] - [[switch-dat]]
+- [[button-dat]] - [[switch-chip-dat]] - [[switch-dat]] - [[rf-switch-dat]]
 
 - [[keyboard-dat]] - [[keypad-dat]] - [[mouse-dat]]
 

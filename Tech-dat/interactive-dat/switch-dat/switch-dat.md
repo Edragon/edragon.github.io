@@ -2,7 +2,7 @@
 # switch-dat 
 
 
-
+- [[button-dat]] - [[switch-chip-dat]] - [[switch-dat]] - [[rf-switch-dat]] - [[rf-dat]]
 
 
 - [[switch-chip-dat]]
@@ -43,11 +43,10 @@ mounting == through hole or SMD
 
 ## switch type 
 
+- [[switch-rotary-dat]] - [[switch-limit-dat]] - [[switch-rocker-dat]]
+
 - [[switch-spst-button-push-dat]] - [[KCD4-dat]] - [[KCD3-dat]] - [[KCD1-dat]]
 
-- [[switch-rocker-dat]]
-
-- [[switch-limit-dat]]
 
 mounting - panel == through hole or PCB - [[switch-pushbutton-panel-dat]] - [[switch-pushbutton-PCB-dat]] - [[switch-pushbutton-dat]]
 

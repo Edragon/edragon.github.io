@@ -6,7 +6,7 @@
 sub == - [[analog-device-dat]] - [[linear-technology-dat]] - [[maxim-dat]]
 
 
-
+- [[analog-device-dat]] - [[AD-rf-switch-dat]]
 
 - [[video-dat]] - [[video-decoder-dat]] - [[AD-ADV-dat]] - [[ADV-dat]] - [[analog-device-dat]]
 
