@@ -20,6 +20,12 @@
 
 - [[R0603-dat]] - [[R0805-dat]] - [[resistor-dat]]
 
+
+
+- [[resistor-fusible-dat]] - [[resistor-dat]]
+
+
+
 ## Shunt and Burden Resistor
 
 Shunt Resistor:

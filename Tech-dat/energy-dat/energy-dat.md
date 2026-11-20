@@ -4,6 +4,11 @@
 
 - [[battery-dat]] - [[battery-capacity-dat]]
 
+
+
+- [[energy-dump-dat]] - [[RC-Snubber-dat]] - [[energy-dat]]
+
+
 ## WATT 
 
 Multiplying them together gives:

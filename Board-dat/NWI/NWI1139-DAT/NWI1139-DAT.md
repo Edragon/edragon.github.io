@@ -5,6 +5,12 @@
 This is a board similar to [[NWI1172-dat]], but more suitable for inductive load control, such as motor, solenoid, etc. - [[inductive-load-dat]]
 
 
+
+
+## tech 
+
+- [[resistor-dat]]
+
 ## pin definitions 
 
     #define onModule_LED 2
@@ -52,6 +58,8 @@ pin header:
 ## store BOM 
 
 - [[OPM1110-dat]] 
+
+
 
 
 ## ref 
