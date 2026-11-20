@@ -52,6 +52,13 @@ The EL357 has a **wider operating temperature range**, which may be beneficial i
 
 
 
+## apps 
+
+- [[optical-coupler-dat]] - [[PB331-dat]] - [[serial-dat]]
+
+
+
+
 ## chip and brands 
 
 - [[broadcom-dat]] - [[sharp-dat]] - [[liteon-dat]] - [[renesas-dat]] - [[Toshiba-dat]] - [[vishay-dat]]

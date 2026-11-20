@@ -224,7 +224,7 @@ LED control - [[ILC1063-dat]]
 
 - [[ITF1000-dat]]
 
-- [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1012-DAT]]
+- [[ITF1003-DAT]] - [[ITF1006-DAT]] - [[ITF1009-dat]] - [[ITF1012-DAT]]
 
 ### IOD 
 

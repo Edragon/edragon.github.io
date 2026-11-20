@@ -63,7 +63,7 @@ The communication port of the PowerBus daughter board supports switching between
 
 ## ref 
 
-- [[POWERBUS-PB331.pdf]] - [[POWERBUS-PB620.pdf]]
+- [[POWERBUS-PB620.pdf]]
 
 - https://www.facebook.com/Powerbus1/
 
