@@ -2,7 +2,7 @@
 # vishay-dat
 
 
-
+- [[Si9988-dat]] - [[vishay-dat]] - [[driver-bridge-dat]]
 
 - [[vishay-dat]] - [[DG408-dat]] - [[multiplexer-dat]]
 

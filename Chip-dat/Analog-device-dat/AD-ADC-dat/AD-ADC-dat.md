@@ -12,7 +12,14 @@
 - [[analog-device-dat]] - [[AD-ADC-dat]] - [[ADC-dat]] - [[AD7606-dat]]
 
 
+
+
+
 ## AD 
+
+
+`ADADC85` - Fast, Complete 12-Bit A/D Converters
+
 
 - [AD9244BSTZ - 14-Bit, 40 MSPS/65 MSPS A/D Converter - AD9244](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9244.pdf)
 

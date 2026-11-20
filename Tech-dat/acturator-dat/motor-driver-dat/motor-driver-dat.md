@@ -31,7 +31,10 @@
 
 - [[motor-BLDC-dat]] - [[motor-brushless-dat]]
 
-- [[driver-half-bridge-dat]] - [[control-dat]] - [[motor-driver-dat]]
+- [[driver-bridge-dat]] - [[control-dat]] - [[motor-driver-dat]]
+
+
+
 
 
 ## tech 

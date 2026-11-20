@@ -13,6 +13,13 @@
 - [[L6384E-dat]] - [[ST-dat]] - [[driver-bridge-dat]]
 
 
+- [[Si9988-dat]] - [[vishay-dat]] - [[driver-bridge-dat]] - [[motor-driver-dat]]
+
+
+
+
+
+
 ## ref
 
 

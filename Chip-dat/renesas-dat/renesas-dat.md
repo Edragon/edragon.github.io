@@ -2,6 +2,13 @@
 # Renesas-dat
 
 
+
+
+- [[SRAM-dat]] - [[renesas-dat]] - [[renesas-memory-dat]]
+
+- [[Renesas-dat]] - [[MCU-dat]] - [[RL78-dat]]
+
+
 - [[Renesas-dat]] - [[USB-hub-dat]]
 
 - [[renesas-dat]] - [[buffer-FIFO-dat]] - [[IDT720x-dat]] - [[app-dat]] == [[sensor-camera-dat]]

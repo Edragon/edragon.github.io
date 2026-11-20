@@ -1,5 +1,16 @@
 
-# latch-dat.md
+
+
+
+# logic-latch-dat
+
+
+
+
+- [[logic-latch-dat]] - [[IDT-dat]] - [[logic-dat]] - [[54FCT573TDB-dat]]
+
+
+- [[TI-dat]] - [[TI-logic-dat]]
 
 TC74HC279AP,TC74HC279AF == The TC74HC279A is a high speed CMOS QUAD S-R LATCH fabricated with silicon gate C2MOS technology. 
 
@@ -10,3 +21,8 @@ It is made using **silicon-gate C2MOS technology**, which allows **fast switchin
 - **Quad S-R Latch:** 4 independent Set-Reset memory elements.  
 - **High-Speed CMOS:** Can switch quickly compared to standard CMOS.  
 - **C2MOS:** CMOS fabrication process optimized for speed and reliability.  
+
+
+
+
+## ref 
