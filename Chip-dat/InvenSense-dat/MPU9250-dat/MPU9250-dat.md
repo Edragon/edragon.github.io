@@ -1,7 +1,11 @@
 
 # MPU9250-dat
 
-board == [[SMO1078-dat]]
+
+
+
+
+board == - [[SMO1075-dat]] - [[SMO1078-dat]]
 
 - [[9-axis-IMU-dat]]
 

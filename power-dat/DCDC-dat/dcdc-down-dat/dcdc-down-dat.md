@@ -56,6 +56,10 @@
 
 - [[silergy-dat]] - [[SY8205-dat]] - [[OPM1192-dat]] - [[SY8089-dat]] - [[SY8088-dat]]
 
+- [[SY8401-dat]] - [[silergy-dat]] - [[dcdc-down-dat]] == HV 55V 
+
+
+
 - [[XL-dat]] - [[dcdc-down-dat]] - [[dcdc-boost-dat]]
 
 - [[XL-dat]] - [[XL4015-dat]] - [[dcdc-down-dat]] - [[XL6009-dat]] 

@@ -30,7 +30,17 @@ Based on powerbus slave chip PB331.
 - based on option 231: [[LDO-dat]]
 
 
+## tech 
+
+- [[SY8401-dat]] - [[silergy-dat]] - [[dcdc-down-dat]] - [[ITF1009-dat]]
+
+- [[LDO-dat]] - [[ME6211-dat]] - [[microne-dat]]
+
+
+
 
 ## ref 
 
 - [[powerbus-dat]]
+
+- [[ITF1009]]

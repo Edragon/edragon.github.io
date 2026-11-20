@@ -609,10 +609,10 @@ Darlinton driver - [[SCU1024-dat]] == [[stepper-dat]]
 PIR Sensors
 - [[SMO1088-dat]] - [[SMO1060-dat]] 
 
-Motion sensor 
+Motion sensor - [[sensor-motion-dat]]
 - [[SMO1020-dat]]
 
-- [[SMO1073-dat]]
+- [[SMO1073-dat]] - [[SMO1075-dat]]
 
 [[sensor-ultrasonic-dat]]
 

@@ -2,6 +2,10 @@
 # ICM42688-dat
 
 
+
+
+- [[ICM-42688-dat]] - [[ICM42688-dat]] - [[IMU-dat]]
+
 - [[BM1270-dat]] - [[BM160-dat]] - [[MPU6050-dat]] - [[ICM20602-dat]] - [[ICM42688-dat]]
 
 - [[sensor-motion-dat]] - [[6-axis-dat]]

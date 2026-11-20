@@ -3,6 +3,10 @@
 
 - [[DPR1005-dat]] - [[dpr1003-dat]] - [[cp2102-dat]] - [[serial-dat]]
 
+
+
+## pin definitions 
+
 ![](00-13-16-10-08-2023.webp)
 
 ![](09-13-16-10-08-2023.webp)
