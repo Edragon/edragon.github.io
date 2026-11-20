@@ -20,6 +20,10 @@ Info - [[ELRS-frequency-dat]] - [[ELRS-faq-dat]] - [[ELRS-board-dat]] - [[freque
 - [[ELRS-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-HDK-dat]]
 
 
+## advanced 
+
+- [[radiomaster-DBR4-dat]] - [[radiomaster-dat]] - [[LR1121-dat]] - [[QFN-dat]] - [[ELRS-dat]]
+
 
 
 ## setup 

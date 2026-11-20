@@ -25,6 +25,8 @@
 
 ## chip 
 
+- [[LR1121-dat]]
+
 - [[LLCC68-dat]] - [[SX1262-dat]] - [[lora-dat]] 
 
 - [[SX1278-dat]] - [[SX1276-dat]] - [[SX1262-dat]]

@@ -1,6 +1,11 @@
 # led-rgb-panel-dat
 
 
+
+- [[RMP-driver-dat]] - [[led-rgb-panel-dat]]
+
+
+
 - [[led-full-panel-installation-dat]] - [[flexible-led-rgb-panel-dat]] - [[led-rgb-panel-chip-dat]]
 
 We sell the highly reliable, high quality panels. Probably the top quality from local top factory.
@@ -14,6 +19,8 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 - [[RMP-driver-dat]] 
 
 - [[HUB75-dat]] - [[HUB08-dat]] - [[HUB30-dat]] - [[led-rgb-panel-dat]]
+
+- [[led-rgb-panel-dat]] - [[LED-RGB-panel-P8-dat]] - [[LED-RGB-panel-P6-dat]] - [[LED-RGB-panel-P3-dat]]
 
 
 ## Panel Specifications
@@ -136,7 +143,6 @@ Gen-3: Advanced grayscale panels using chips like MBI5153 or ICND2153 that suppo
   
 - [[mono-matrix-panel-dat]] 
 
-- [[led-rgb-panel]]
 
 
 
@@ -152,3 +158,6 @@ Gen-3: Advanced grayscale panels using chips like MBI5153 or ICND2153 that suppo
 ## ref 
 
 - [[HUB75-dat]]
+
+
+- [[led-rgb-panel]]

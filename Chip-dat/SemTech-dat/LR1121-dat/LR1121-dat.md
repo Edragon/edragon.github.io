@@ -2,6 +2,20 @@
 # LR1121-dat
 
 
+
+
+
+## apps 
+
+- [[gemini-x-dat]] - [[radiomaster-dat]] - [[ELRS-dat]] - [[tech-advanced-dat]]
+
+- [[radiomaster-DBR4-dat]] - [[radiomaster-dat]] - [[LR1121-dat]] - [[QFN-dat]] - [[ELRS-dat]]
+
+
+
+## info 
+
+
 - [[lora-chip-dat]] - [[lora-modules-dat]] - [[lora-dat]] 
 
 - [[lora-dat]] - [[semtech-dat]] - [[lorawan-dat]] - [[GNSS-dat]]

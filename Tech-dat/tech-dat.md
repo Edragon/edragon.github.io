@@ -120,7 +120,7 @@
 
 - [[lora-dat]] - [[SX1262-dat]]
 
-- [[rf-link-dat]] - [[rf-dat]] 
+- [[rf-link-dat]] - [[rf-dat]] - [[attenuator-dat]]
 
 - [[rc-protocols-dat]] - [[ELRS-dat]] - [[CRSF-dat]] - [[radiomaster-dat]] - [[radiomaster-pocket-dat]]
 
@@ -169,7 +169,7 @@
 
 - [[keyboard-dat]] - [[keypad-dat]] - [[mouse-dat]]
 
-- [[driver-matrix-display-dat]]
+- [[driver-matrix-display-dat]] - [[RMP-dat]]
 
 - [[epaper-dat]]
 
