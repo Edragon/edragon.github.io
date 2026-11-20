@@ -22,7 +22,37 @@
 
 
 
-- [[resistor-fusible-dat]] - [[resistor-dat]]
+- [[resistor-fusible-dat]] - [[resistor-dat]] - resistor safety - [[resistor-snubber-dat]] - [[rc-snubber-dat]]
+
+
+
+## resistor selection for safety 
+
+- [[resistor-fusible-dat]] - [[resistor-dat]] - resistor safety - [[resistor-snubber-dat]] - [[rc-snubber-dat]]
+
+
+保险电阻和吸收电阻，都用“陶瓷壳/涂覆型”
+
+### 理由 1：行业标准件本来就是这一类
+
+回到上一个问题的两个原厂系列，它们的物理形态就在这里：
+Vishay ACxx-CS：线绕 + “特制漆层涂覆”，手册强调 “fuses without a bang”，即靠涂覆层约束熔断瞬间的电弧
+TE / Welwyn EMC、ULW：“Compact flameproof body”（阻燃本体），膜式（EMC）或线绕（ULW）
+没有任何一家把铝壳做成交直流的保险/吸收电阻，这不是巧合。
+
+### 理由 2：铝壳的热质量太大，熔断会变慢
+
+保险电阻的核心指标是熔断时间。铝壳里灌了导热填料、外面还有铝型材，热容是陶瓷壳的好几倍，故障电流来了它先“扛着”，等它断的时候，后面的整流桥或电容早炸了。TE 手册专门警告过反向情况：即使阻燃电阻，在“限流级过载导致慢熔断”的工况下，本体温度仍可能高到点燃周围材料。
+
+### 理由 3：线绕 = 电感，高频吸收会失效
+
+RC 吸收要处理的是陡峭的 di/dt（微秒级）。铝壳电阻几乎都是线绕结构，几微亨的自感会把高频成分挡住，尖峰还是打到开关上。行业里对高频 snubber 用的是无感绕法线绕（Ayrton-Perry 双线反向绕）或膜式电阻。
+
+### 理由 4：金属壳不等于防火
+
+铝壳只是外壳结实，“不燃”并不等于“熔断时不喷”。陶瓷壳/涂覆型的设计目标就是熔断瞬间把电弧和熔融物约束在体内；金属壳内部仍有空气腔和填料，故障时可能从引线口喷出。
+理由 5：对壳电容与体积
+铝壳贴散热片安装时对地有寄生电容，AC 侧做 Y 类隔离评估会添麻烦；体积和成本也都比陶瓷壳高一个档。
 
 
 
