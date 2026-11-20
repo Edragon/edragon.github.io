@@ -3,6 +3,8 @@
 
 
 
+- [[LM323-dat]]
+
 - [[LM393-dat]] 
 
 - [[LMxx-dat]] - [[LM224-dat]]

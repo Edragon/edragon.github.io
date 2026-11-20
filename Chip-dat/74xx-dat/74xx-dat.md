@@ -24,7 +24,7 @@ TC74HC4051AP/AF/AFT - 8-Channel Analog - Multiplexer / Demultiplexer
 TC74HC4052AP/AF/AFT - Dual 4-Channel Analog - Multiplexer / Demultiplexer
 TC74HC4053AP/AF/AFT - Triple 2-Channel Analog - Multiplexer / Demultiplexer
 
-
+- [[74HC30-dat]] - [[logic-nand-dat]]
 
 
 

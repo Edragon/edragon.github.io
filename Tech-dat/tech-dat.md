@@ -204,6 +204,9 @@
 
 ## acturator
 
+
+- [[driver-dat]] - [[driver-gate-dat]] - [[driver-hardware-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]] - [[motor-driver-stepper-dat]] - [[driver-half-bridge-dat]]
+
 - [[electromagnet-dat]] - [[acturator-dat]]
 
 
@@ -213,9 +216,6 @@
 
 
 - [[vibrator-dat]] - [[buzzer-dat]] - [[motor-dat]] - [[light-dat]] - [[acturator-dat]]
-
-
-- [[driver-hardware-dat]] - [[fan-driver-dat]] - [[LED-driver-dat]] - [[motor-driver-stepper-dat]] 
 
 
 - [[motor-driver-dat]] - [[motor-driver-rc-dat]] - [[ESC-dat]] - [[motor-driver-design-dat]] - [[motor-driver-mosfet-dat]] - [[motor-driver-BLDC-dat]] - [[motor-driver-DC-dat]] 

@@ -3,6 +3,7 @@
 
 
 
+- [[PCM-dat]] - [[I2S-dat]] - [[DAC-dat]] - [[DSP-dat]]
 
 
 - R-2R DAC mode? == [[DAC-ladder-R-2R-dat]]

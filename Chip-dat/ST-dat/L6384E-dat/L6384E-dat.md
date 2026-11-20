@@ -1,15 +1,16 @@
 
 
-# driver-half-bridge-dat
-
-- [[driver-half-bridge-dat]] - [[control-dat]] - [[motor-driver-dat]]
-
-- [[driver-half-bridge-dat]] - [[mosfet-dat]] - [[IGBT-dat]] - [[mosfet-driver-dat]] 
+# L6384E-dat
 
 
 
+
+- [[L6384E-dat]] - [[ST-dat]] - [[driver-bridge-dat]]
 
 ## High voltage half-bridge driver
+
+
+
 
 L6384E - [[ST-dat]]
 
@@ -40,6 +41,6 @@ High voltage rail up to 600 V
 ![](2026-03-17-13-47-44.webp)
 
 
-## ref
 
 
+## ref 

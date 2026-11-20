@@ -88,6 +88,9 @@ HV Negative
 ## chip 
 
 
+- [[lmxx-dat]] - [[LM323-dat]] - [[LDO-dat]] == 5V/3A
+
+
 - [[LDO-dat]] - [[SPX3819-dat]] - [[maxlinear-dat]]
 
 

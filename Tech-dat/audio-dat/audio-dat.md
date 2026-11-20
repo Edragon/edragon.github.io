@@ -4,6 +4,26 @@
 
 
 
+
+## info 
+
+3. "Audio in at line level, not mic"
+The problem: Standard HFP boards expect a tiny electret microphone. Mic inputs run at very low voltage (a few millivolts) and add a DC bias voltage (usually 2V–3V) to power the mic capsule, plus heavy preamp gain.
+
+What they actually want: They want to feed a stronger, standard line-level audio signal (around 0.3V to 1V RMS, such as from a mixer, radio transceiver, PC sound card, or intercom) directly into the Bluetooth board's transmit path. If you plug a line-level signal into a mic input without attenuation or bypassing the mic preamp, the audio clips and distorts badly.
+
+4. "Audio out at line level"
+Instead of driving a tiny speaker with a built-in Class-D amplifier (which adds distortion and can't safely feed another device's input), they want a clean, unamplified line-level analog output to feed into an external amplifier, recorder, or radio audio input.
+
+
+
+
+## tech 
+
+- [[PCM-dat]] - [[I2S-dat]] - [[DAC-dat]] - [[DSP-dat]] - [[audio-dat]] - [[digital-dat]]
+
+
+
 - [[audio-dat]] - [[MIDI-dat]] - [[SYNTHESIZER-dat]]
 
 

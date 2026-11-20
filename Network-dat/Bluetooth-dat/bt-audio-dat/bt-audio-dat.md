@@ -5,13 +5,24 @@
 
 [legacy wiki page](https://www.electrodragon.com/w/Category:BT_Audio) 
 
+
+
+
+
+
 ## tech 
 
-- [[bluetooth-dat]] 
+- [[bluetooth-dat]] - [[bt-audio-dat]]
 
 - [[amplifier-audio-dat]]
 
 - [[bluetooth-dat]] - [[bt-audio-dat]] - [[TWS-dat]] - [[earphone-charing-box-dat]]
+
+- [[PCM-dat]] - [[I2S-dat]] - [[DAC-dat]] - [[DSP-dat]] - [[audio-dat]] - [[digital-dat]]
+
+
+- [[HFP-dat]] - [[A2DP-dat]] - [[AUX-dat]] 
+
 
 
 ## boards 

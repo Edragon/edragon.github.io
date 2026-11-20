@@ -2,6 +2,11 @@
 # digital-dat
 
 
+
+
+- [[PCM-dat]] - [[I2S-dat]] - [[DAC-dat]] - [[DSP-dat]] - [[audio-dat]] - [[digital-dat]]
+
+
 - [[AD9850-dat]] - [[DDS-dat]] - [[AD-DDS-dat]] - [[digital-dat]]
 
 - [[Synthesizer-dat]] - [[digital-dat]] - [[AD-DDS-dat]] - [[DDS-dat]] - [[analog-device-dat]]

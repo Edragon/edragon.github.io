@@ -2,7 +2,7 @@
 # ST-dat 
 
 
-
+- [[L6384E-dat]] - [[ST-dat]] - [[driver-bridge-dat]]
 
 - [[ST-dat]] - [[Darlington-transistor-array-dat]] - [[motor-driver-dat]]
 

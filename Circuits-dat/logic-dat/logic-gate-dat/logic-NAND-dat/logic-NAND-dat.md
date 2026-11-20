@@ -3,6 +3,9 @@
 # logic-NAND-dat
 
 
+
+- [[74HC30-dat]] - [[logic-nand-dat]]
+
 - [[logic-XOR-dat]] - [[logic-NAND-dat]] - [[logic-inverter-dat]] - [[logic-gate-dat]]
 
 
