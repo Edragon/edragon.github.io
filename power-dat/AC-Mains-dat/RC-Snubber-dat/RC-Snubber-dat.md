@@ -2,7 +2,7 @@
 
 - [[energy-dump-dat]] - [[RC-Snubber-dat]] - [[energy-dat]]
 
-
+- [[resistor-dat]] - [[capacitor-dat]]
 
 Inductive Load Arc Suppression
 

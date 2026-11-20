@@ -26,6 +26,29 @@
 
 
 
+## resistor types 
+
+铝壳 电阻
+
+![](2026-11-20-18-59-51.png)
+
+
+
+AC01-CS, AC03-CS, AC05-CS 涂覆型/陶瓷壳体 - [[resistor-fusible-dat]] - [[resistor-dat]]
+
+Axial Leaded, WSZ (SMD) Cemented Fusible Wirewound Safety Resistors
+
+![](2026-11-20-18-55-39.png)
+
+
+
+
+
+resistor MOF -- 金属氧化膜电阻（MOF）
+
+![](2026-11-20-18-54-37.png)
+
+
 ## Shunt and Burden Resistor
 
 Shunt Resistor:
