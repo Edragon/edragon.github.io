@@ -146,6 +146,8 @@ optional - [[sensor-barometer-dat]]
 
 ## ref 
 
+- [[app]] - [[flight-controller]]
+
 - [[motor-dat]] - [[VTX-dat]]
 
 - [[FPV-dat]]
