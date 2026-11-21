@@ -8,15 +8,10 @@
 
 
 
-## build 
+## apps 
 
-board 1 
+- [[power-pdb-dat]] - [[power-distribution-dat]] - [[power-dat]] 
 
-![](2026-11-21-21-02-34.png)
-
-440A分电板，适合FPV穿越机、无人机供电使用。
-
-8-60V DC输入，支持3-12S LiPo电池，5V/12V双路BEC输出，带高精度电流检测。
 
 ## 12/24V to 3.3V
 

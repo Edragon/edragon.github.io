@@ -2,30 +2,14 @@
 # ESC-dat
 
 
-- [[motor-drive-protocols-dat]] - [[ESC-telemetry-dat]] - [[telemetry-dat]] - [[ESC-dat]]
+- [[ESC-drive-protocols-dat]] - [[ESC-telemetry-dat]] - [[telemetry-dat]] - [[ESC-dat]]
 
 
 
-## build 
+- [[ESC-drive-protocols-dat]] - [[ESC-SDK-dat]]
 
 
-### ESC-atmega8
-
-
-- [[ESC-atmega8-dat]]
-
-ESC build 
-
-![](2026-08-05-20-59-10.webp)
-
-- [[PWM-dat]] - [[motor-brushless-dat]] - [[battery-3s-dat]]
-
-❌ 不支持 DShot（150/300/600）—— 只支持 PWM / OneShot125
-❌ 无双向 DShot / RPM 遥测（不能玩 RPM Filter）
-⚠️ 刷新率低（PWM 最高约 400-490Hz）
-❌ 不支持 Bluejay（那是给 BLHeli_S 的 SiLabs EF8 用的）
-✅ 可刷：SimonK 或 BLHeli（原版）—— 但收益有限
-
+types - [[ESC-single-dat]] - [[ESC-4in1-dat]] - [[power-PDB-dat]]
 
 
 
@@ -78,23 +62,6 @@ ESC build
 
 - [[AM32-dat]] - [[BLHeli_32-dat]]
 
-
-
-
-
-build inside 
-
-![](2026-08-05-21-06-47.webp)
-
-- [[atmega8-dat]] - [[AVR-dat]]
-
-- [[LR8256-dat]] - [[mosfet-dat]] - [[IOR-dat]] - [[infineon-dat]] - [[ESC-dat]] - [[infineon-mosfet-dat]]
-
-![](2026-08-05-21-07-24.webp)
-
-- [[LDO-dat]] - [[LM7805-dat]]
-
-![](2026-08-05-21-11-25.webp)
 
 
 
