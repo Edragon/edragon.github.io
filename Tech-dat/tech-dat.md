@@ -30,7 +30,7 @@
 
 - [[clock-dat]]
 
-- [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[CONN-USB-HDK-dat]]
+- [[conn-dat]] - [[conn-power-dat]] - [[conn-data-dat]] - [[CONN-USB-dat]] - [[USB-SDK-dat]] - [[CONN-USB-HDK-dat]]
 
 - [[conn-dat]] - [[conn-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]] - [[conn-power-dat]] - [[conn-battery-dat]] - [[conn-cable-terminal-dat]] - [[conn-data-dat]] - [[conn-BTB-dat]]
 

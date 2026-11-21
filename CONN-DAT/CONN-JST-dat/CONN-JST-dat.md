@@ -11,15 +11,70 @@
 
 - [[CONN-qwiic-dat]]
 
+- [[conn-data-dat]]
+
 ![](2026-04-04-20-31-28.png)
+
+
+
+
+## data 
+
+![](2026-11-21-16-30-00.png)
+
+
+
+
+## 1.5mm normally SMD 
+
+## 1.25mm  
+
+gh1.25 
+
+MX1.25 
+
+HX1.25 
+
+
+## 1.0mm 
+
+
+SH1.0 
+
+![](2026-10-02-01-56-41.webp)
+
+
+## 0.8mm 
+
+
+
+
+## 2.0mm SMD + PTH 
+
 
 
 
 
 ## 1.5~0.8mm 
 
+
+### 1.5 
+
+![](2026-11-21-16-36-58.png)
+
+### 1.25 
+
+![](2026-11-21-16-34-15.png)
+
 - [[JST-1.25-dat]] == [[JST-GH1.25-dat]] - [[JST-MX1.25-dat]]
+
+
+### 1.0
+
 - [[JST-SH1.0-dat]]
+
+### 0.8 
+
 - [[JST-SUR0.8-dat]] 
 
 
@@ -127,3 +182,6 @@ The **JST SM series** is a common wire-to-wire connector, often used in LED stri
 ## ref 
 
 - [[CONN-cable-JST-dat]]
+
+
+- [[conn-jst]] - [[CONN]]
