@@ -23,6 +23,13 @@
 - [[JST-SUR0.8-dat]] 
 
 
+## 1.5 mm
+
+JST_ZH_B3B-ZR_1x03_P1.50mm_Vertical
+
+JST ZH series connector, B3B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf)
+
+ZH1.5/4P/10CM双头（5条）
 
 ### apps 
 
