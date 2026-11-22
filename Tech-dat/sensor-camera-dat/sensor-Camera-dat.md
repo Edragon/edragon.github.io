@@ -299,6 +299,19 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 
 
+## shutter 
+
+归一化对比（同快门条件）
+
+机型	标称	归一 F1.2	归一到 1/50s
+海康 DS-2CD3141G2（同 1/2.9" 4MP）	0.005 Lux@F1.6@1/3s	0.0028 Lux	⚠️ 0.047 Lux
+⭐️ IVG-G4H	0.01 Lux@F1.2	0.01 Lux	⭐️ 0.01 Lux
+
+
+
+
+
+
 ## ref 
 
 - [[camera-dat]] - [[omni-vision-dat]]

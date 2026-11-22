@@ -1,21 +1,26 @@
-
-
-
 # xiongmai-dat
 
 - [[xiongmai-dat]] - [[IVG-G2S-dat]] - [[chip-cn-dat]] - [[hi3516-dat]] 
 
+- [[xiongmai-dat]] - [[yutong-dat]]
 
 
-## IVG-G4H
+- [[IVG-G2S-dat]] - [[xiongmai-dat]] - [[camera-IP-dat]]
 
-GK7205V210 
+H.265AI - [[H.265-dat]] - [[H.265-AI-dat]] - [[sensor-camera-dat]]
 
-H.265AI - [[H265-dat]] - [[H265AI-dat]] - [[sensor-camera-dat]]
 
-IVG-G4H是我司开发的一款400万低照度AI智能网络摄像机模组，400万图像，低噪点，双光全彩，夜视效果提升，人脸更清晰。支持人形检测，支持H.265AI编码，主要应用于夜视高清视频监控摄像机。
 
-![](2026-11-22-14-09-14.png)
+
+## SDK 
+
+SDK开发包https://docs.jftech.com/docs?menusld=ab0ed73834f54368be3e375075e27fb2&siderid=b2118e97c8574d46bcdbf686a53f416b&lang=zh&directory=true
+电脑客户端CMS软件https://download.xm030.cn/d/MDAwMDA4MTA=
+手机客户端APP：XMEYE监控眼
+修改IP工具https://download.xm030.cn/d/MDAwMDA4Njk=
+电脑远程地址https://www.xmeye.net/index
+VMS电脑客户端：https://download.xm030.cn/d/MDAwMDE2OTA=
+
 
 
 

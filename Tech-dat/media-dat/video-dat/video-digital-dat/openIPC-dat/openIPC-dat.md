@@ -38,6 +38,14 @@ https://github.com/OpenIPC/firmware
 test == 17db枫叶天线 == 50ms // 35km
 
 
+
+
+
+- [[openIPC-dat]] - [[IVG-G4H-dat]] - [[xiongmai-dat]] - [[camera-IP-dat]] - [[IVG-G2S-dat]] 
+
+
+
+
 ## wifi
 
 - [[wifi-adapter-dat]] - [[openIPC-wifi-adapter-dat]] 

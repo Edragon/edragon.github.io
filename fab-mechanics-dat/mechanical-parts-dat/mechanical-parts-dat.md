@@ -2,6 +2,9 @@
 
 
 
+
+- [[mechanical-parts-dat]] - [[o-ring-dat]]
+
 - [[mechanical-structure-dat]] - [[alu-extrusion-dat]] 
 
 - [[mechanical-parts-dat]] - [[Swivel-dat]] - [[Carabiner-dat]] - [[bolt-eye-dat]] - [[bolt-dat]] - [[profile-angle-dat]] - [[profile-bracket-dat]]
