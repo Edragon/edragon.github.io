@@ -1,10 +1,15 @@
 
 # Nut-dat
 
+
+
+- [[nut-dat]] - [[profile-connector-dat]] - [[profile-nut-dat]]
+
+
 - [[nut-dat]] - [[lead-screw-dat]]
 
 
-- [[nut-t-dat]] - [[nut-thumb-dat]] - [[nut-dat]] - [[CAD-dat]]
+- [[nut-thumb-dat]] - [[nut-dat]] - [[CAD-dat]]
 
 - 螺母
 
