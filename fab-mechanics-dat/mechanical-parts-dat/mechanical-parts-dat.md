@@ -3,7 +3,8 @@
 
 
 
-- [[mechanical-parts-dat]] - [[o-ring-dat]]
+
+- [[mechanical-parts-dat]] - [[o-ring-dat]] - [[waterproof-dat]]
 
 - [[mechanical-structure-dat]] - [[alu-extrusion-dat]] 
 
