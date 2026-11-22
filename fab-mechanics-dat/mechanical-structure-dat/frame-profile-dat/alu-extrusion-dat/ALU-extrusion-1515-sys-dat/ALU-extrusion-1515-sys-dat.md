@@ -127,6 +127,8 @@ profile center hole 3.3 mm
 | ❌ 橡胶垫增摩擦 | 差 | 橡胶蠕变比铝还快，越用越松 |
 
 
+- [[thread-dat]] - [[washer-toothed-dat]] - [[washer-dat]]
+
 
 ### 八、⚠️ 方案五：换 2020/3030
 
