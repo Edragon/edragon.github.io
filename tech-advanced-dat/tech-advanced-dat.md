@@ -7,7 +7,7 @@
 
 ## radio 
 
-
+- [[true-diversity-dat]] - [[radiomaster-RP3-dat]] == not TRUE
 
 - [[radiomaster-gemini-dat]] - [[radiomaster-dat]]
 

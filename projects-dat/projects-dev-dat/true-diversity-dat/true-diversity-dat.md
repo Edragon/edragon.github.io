@@ -7,6 +7,17 @@
 
 
 
+- [[diversity-antenna-dat]] - [[diversity-receiver-dat]] - [[true-diversity-dat]] 
+
+- [[SX1280-dat]] - [[LR1121-dat]] - [[semtech-dat]] 
+
+superD 
+
+geminiX - gemX 
+
+
+
+
 ## C5VRX == ESP32-C5 
 
 - [[ESP32-C5-dat]] - [[5.8Ghz-dat]] - [[ESP32-dat]] - [[WIFI6-dat]]

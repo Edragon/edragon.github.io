@@ -2,7 +2,7 @@
 # Alu-Extrusion-dat
 
 
-- [[Alu-Extrusion]] - [[screw-dat]] - [[t-nut-dat]]
+- [[Alu-Extrusion]] - [[screw-dat]] - [[t-nut-dat]] - [[bolt-dat]]
 
 - [[case-aluminium-extrusion-dat]]
 
@@ -10,6 +10,7 @@
 - [[ALU-extrusion-1515-sys-dat]]
 
 
+- [[alu-extrusion-dat]] - [[profile-connector-dat]] - [[profile-internal-corner-dat]]
 
 
 ## parts 
@@ -24,6 +25,9 @@
 ## ALU profile accessories 
 
 - [[bearing-pillow-dat]] - [[bearing-dat]]
+
+
+
 
 ## aluminum profile
 
