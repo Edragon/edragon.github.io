@@ -35,6 +35,9 @@
 
 [[pnp-machine-dat]] - [[openpnp-dat]] - [[PixiePlacer-dat]] - [[reprap-dat]] - 
 
+
+
+
 ## gadgets 
 
 - [[internet-radio-dat]] - [[ESP32-APP-dat]]
@@ -43,11 +46,22 @@
 
 - [[EDC-dat]] - [[OBD-dat]]
 
-- [[weight-dat]] - [[camera-thermal-dat]]
+- [[weight-dat]] 
 
 - [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[apple-dat]] - [[ipod-dat]]
 
 - [[light-flash-dat]] - [[light-dat]]
+
+
+
+
+
+## vision 
+
+- [[sensor-camera-dat]] - [[camera-thermal-dat]] - [[camera-IP-dat]]
+
+- [[camera-FPV-dat]] - [[openIPC-dat]]
+
 
 
 ## Domestic Appliances 

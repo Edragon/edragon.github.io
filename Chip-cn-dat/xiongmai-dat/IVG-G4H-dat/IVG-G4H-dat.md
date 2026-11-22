@@ -8,9 +8,15 @@
 
 - [[openIPC-dat]] - [[IVG-G4H-dat]] - [[xiongmai-dat]] - [[camera-IP-dat]] - [[IVG-G2S-dat]] 
 
+
+- [[lens-dat]] - [[lens-mount-dat]]
+
+
+
+
 ## IVG-G4H
 
-GK7205V210 
+- [[GK7205V210-dat]] - [[goke-dat]] 
 
 H.265AI - [[H.265-dat]] - [[H.265-AI-dat]] - [[sensor-camera-dat]]
 
@@ -134,7 +140,13 @@ GK7205V210 有 OpenIPC 官方支持
         ↓
 ⭐⭐ 刷了之后：亚秒级延迟（原厂 RTSP 通常 200-500ms）+ 完全离网 + 可精调曝光/增益
 
-⚠️ 但先别刷 —— 三个前置条件：传感器型号（有没有驱动 .so）、flash 大小（8M/16M）、需要串口救砖。先按原厂固件跑通 RTSP，再考虑刷。
+⚠️ 但先别刷 —— 三个前置条件：
+
+- 传感器型号（有没有驱动 .so）、
+- flash 大小（8M/16M）、
+- 需要串口救砖。
+- 
+- 先按原厂固件跑通 RTSP，再考虑刷。
 
 
 

@@ -40,6 +40,7 @@
 
 - [[camera-vision-dat]]
 
+- [[sensor-camera-chip-dat]]
 
 
 
@@ -91,120 +92,10 @@
 * **CSI:** Used for high-definition AI tasks. It uses "Lanes" instead of individual data bits, making it much harder to wire manually but better for long cables.
 
 
-## sensor look like 
-
-![](2025-12-10-15-19-46.webp)
-
-- [[TPLINK-dat]]
 
 
+- [[sensor-camera-chip-dat]]
 
-
-
-
-## Chip 
-
-
-
-- [[SC101IOT-dat]] - [[sensor-camera-dat]] - 
-
-
-- [[SC500AI-dat]] - [[SC4336P-dat]] - [[sensor-camera-dat]]
-
-
-
-- [[onsemi-dat]] - [[AR0237-dat]] - [[sensor-camera-dat]]
-
-[[OmniVision-dat]] == [[camera-DVP-dat]] - [[camera-CSI-dat]] 
-
-- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] 
-
-- [[OV9281-dat]]
-
-- [[OV2710-dat]]
-
-- [[ov5659-dat]] - [[ov2659-dat]] 
-
-- [[OV5647-dat]]
-
-- [[OV7670-dat]] - [[OV7725-dat]]
-
-- [[OV7740-dat]] - [[OV5642-dat]]
-
-- [[OV5648-dat]]
-
-OV series boards - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] - [[SCM1020-dat]] - [[SCM1004-dat]] 
-
-- [[SONY-dat]]
-
-- [[SC2336-dat]]
-
-- [[pixart-dat]] - [[PS5268-dat]]
-
-- [[maxim-dat]] - [[serializer-dat]] - MAX96717F GMSL serializer
-
-The `MAX96717F` GMSL™ serializer receives video on a MIPI CSI-2 interface and outputs it on a GMSL2 serial link transceiver. Simultaneously, it sends and receives bidirectional control channel data across the same GMSL2 link.
-
-`MAX9296A` deserializer chip
-
-Maxim GMSL2 serializer (`MAX96717`)
-
-### more cameras 
-
-| model          | max resolution | color type | output format                                                                      | Len Size |
-| -------------- | -------------- | ---------- | ---------------------------------------------------------------------------------- | -------- |
-| [[OV2640-dat]] | 1600 x 1200    | color      | YUV(422/420)/YCbCr422 / RGB565/555 / 8-bit compressed data / 8/10-bit Raw RGB data | 1/4"     |
-| [[OV3660-dat]] | 2048 x 1536    | color      | raw RGB data / RGB565/555/444 / CCIR656 / YCbCr422 / compression                   | 1/5"     |
-| [[OV5640-dat]] | 2592 x 1944    | color      | RAW RGB / RGB565/555/444 / CCIR656 / YUV422/420 / YCbCr422 / compression           | 1/4"     |
-| [[OV7670-dat]] | 640 x 480      | color      | Raw Bayer RGB / Processed Bayer RGB / YUV/YCbCr422 / GRB422 / RGB565/555           | 1/6"     |
-| [[OV7725-dat]] | 640 x 480      | color      | Raw RGB / GRB 422 / RGB565/555/444 / YCbCr 422                                     | 1/4"     |
-| NT99141        | 1280 x 720     | color      | YCbCr 422 / RGB565/555/444 / Raw / CCIR656 / JPEG compression                      | 1/4"     |
-| GC032A         | 640 x 480      | color      | YUV/YCbCr422 / RAW Bayer / RGB565                                                  | 1/10"    |
-| GC0308         | 640 x 480      | color      | YUV/YCbCr422 / RAW Bayer / RGB565 /Grayscale                                       | 1/6.5"   |
-| GC2145         | 1600 x 1200    | color      | YUV/YCbCr422 / RAW Bayer / RGB565                                                  | 1/5"     |
-| BF3005         | 640 x 480      | color      | YUV/YCbCr422 / RAW Bayer / RGB565                                                  | 1/4"     |
-| BF20A6         | 640 x 480      | color      | YUV/YCbCr422 / RAW Bayer / Only Y                                                  | 1/10"    |
-| SC101IOT       | 1280 x 720     | color      | YUV/YCbCr422 / Raw RGB                                                             | 1/4.2"   |
-| SC030IOT       | 640 x 480      | color      | YUV/YCbCr422 / RAW Bayer                                                           | 1/6.5"   |
-| SC031GS        | 640 x 480      | monochrome | RAW MONO / Grayscale                                                               | 1/6"     |
-| HM0360         | 656 x 496      | monochrome | RAW MONO / Grayscale                                                               | 1/6"     |
-| HM1055         | 1280 x 720     | color      | 8/10-bit Raw / YUV/YCbCr422 / RGB565/555/444                                       | 1/6"     |
-
-ArduCAM
-
-- [[OV7660-dat]] 0.3MP
-- [[OV7670-dat]] 0.3MP
-- [[OV7675-dat]] 0.3MP
-- [[OV7725-dat]] 0.3MP
-- [[OV2640-dat]] 2MP JPEG
-- [[OV3640-dat]] 3MP
-- [[OV5642-dat]] 5MP JPEG
-- [[OV5640-dat]] 5MP JPEG
-- [[MT9V111-dat]] 0.3MP
-- [[MT9M112-dat]] 1.3MP
-- [[MT9M001-dat]] 1.3MP
-- [[MT9D111-dat]] 2MP
-- [[MT9T112-dat]] 3MP
-
-### selection table 
-
-![](2025-07-13-01-58-00.webp)
-
-## Camera Interface 
-
-- [[USB-camera-dat]] - [[wireless-camera-dat]]
-
-- [[camera-interface-dat]] - [[SCCB-dat]] - [[CSI-dat]] - [[UVC-dat]] - [[analog-video-dat]] - [[HDMI-dat]]
-
-[[CSI-dat]]: - [[MPC1080-dat]]   
-
-[[SCCB-dat]]: - [[SCM1008-dat]] - [[SCM1009-dat]] - [[SCM1017-dat]] - [[SCM1024-dat]] 
-
-[[UVC-dat]]: - [[SCM1020-dat]] - [[SCM1002-dat]] - [[SCM1004-dat]]
-
-[[analog-video-dat]]: - NA
-
-- [[DVP-camera-dat]]
 
 
 
@@ -306,6 +197,23 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 机型	标称	归一 F1.2	归一到 1/50s
 海康 DS-2CD3141G2（同 1/2.9" 4MP）	0.005 Lux@F1.6@1/3s	0.0028 Lux	⚠️ 0.047 Lux
 ⭐️ IVG-G4H	0.01 Lux@F1.2	0.01 Lux	⭐️ 0.01 Lux
+
+慢快门可能只是固件阉割，不是硬件限制
+
+IVG-G4H 规格：快门 1/50s ~ 1/10000s  ← 无慢快门
+        ↓
+⭐ 但同族芯片的官方模组做得更慢：
+   CCD CAM IM50A01（GK7205V300 + IMX335）写的是
+   「Shutter Speed 1/2 - 1/20,000s, 【Slow shutter support】」
+        ↓
+⭐⭐⭐ GK7205 平台【硬件上支持慢快门】
+   1/50s 是雄迈原厂固件的功能阉割
+        ↓
+📌 刷 OpenIPC 后很可能能开回 1/25、1/12
+   → 低照度再提 2-4 倍
+   → F0.95 @1/50s 的 0.0063 Lux → 【0.0016-0.003 Lux】
+        ↓
+⚠️ 这是推论，未验证。刷后看 majestic.yaml 的曝光范围
 
 
 
