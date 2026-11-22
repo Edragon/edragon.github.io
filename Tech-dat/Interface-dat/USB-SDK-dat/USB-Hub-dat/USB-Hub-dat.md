@@ -21,6 +21,19 @@
 
 - [[USB-hub-dat]] - [[impedance-USB-dat]] - [[USB-2.0-dat]]
 
+structure 
+
+### upsteam 
+
+- [[conn-usb-type-c-dat]] - [[usb-type-c-dat]]
+
+### downstream 
+
+- [[ethernet-dat]] 
+- [[USB-3.0-dat]] ++ [[CONN-USB-a-dat]] 
+- [[HDMI-dat]] 
+- [[conn-USB-type-c-dat]] ++ [[USB-PD-dat]]
+ 
 
 ## chip 
 
