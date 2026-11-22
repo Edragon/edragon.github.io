@@ -22,7 +22,7 @@
 - [[Conformal-Coating-dat]] - [[protection-dat]]
 
 
-
+- [[vision-dat]] - [[sensor-camera-dat]] 
 
 
 
@@ -89,6 +89,9 @@
 ![](2026-06-13-20-00-01.webp)
 
 ## demo 
+
+underwater case test - https://t.me/electrodragon3/467
+
 
 - [[sensor-camera-dat]] - [[power-dat]] - [[network-dat]] - [[ethernet-dat]] - [[TPLINK-dat]]
 
