@@ -11,6 +11,13 @@
 
 
 
+
+## similar 
+
+- [[TP4056-dat]] - [[battery-charger-1s-dat]] - CSM4056T
+
+
+
 ## boards 
 
 - [[OPM1156-dat]] - [[OPM1083-dat]]

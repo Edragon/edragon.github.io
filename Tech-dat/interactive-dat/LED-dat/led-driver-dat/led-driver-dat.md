@@ -104,56 +104,15 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[linkage-dat]] - [[SM2123E-dat]] - [[led-driver-dat]] 
 
-
 - [[HXC-dat]] - [[LH6112-dat]] - [[H5721-dat]]
-
-
 
 - [[MT9201-dat]] - [[LED-driver-dat]] - [[aerosemi-dat]]
 
 - [[natlinear-dat]] - [[LN2566-dat]] 
 
+- [[AMC7135-dat]] - [[led-driver-dat]] - [[ADDtek-dat]]
 
-
-
-AMC7135 SOT-89 恒流350mA/2.7-6V 大功率LED驱动芯片
-
-The AMC7135 is a low dropout current regulator rated for 350mA constant sink current. The low quiescent current and low dropout voltage is achieved by advancedBi-CMOS process.
-
-
-![](2026-02-11-17-49-49.webp)
-
-FEATURES
-
-- 350mA constant sink current.
-- Output short / open circuit protection.
-- Low dropout voltage.
-- Low quiescent current
-- Supply voltage range 2.7V ~ 6V 2KV HBM ESD protection
-- Advanced Bi-CMOS process.
-- SOT-89 and TO-252 package
-
-- [[SG-micro-dat]]
-
-
-
-SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]]
-
-
-- [[BP9022-dat]] - [[BPS-dat]]
-
-
-## fan5333b-d
-
-- [[display-dat]] - [[led-driver-dat]]
-
-High Efficiency, High Current Serial LED Driver with 30 V Integrated Switch FAN5333A, FAN5333B
-
-![](2026-03-05-19-23-40.webp)
-
-
-
-### chip 
+- [[SG-micro-dat]] 
 
 - [[silergy-dat]] - [[SY7200-dat]] - [[SY7201-dat]] - [[SY7301-dat]]
 
@@ -167,6 +126,14 @@ High Efficiency, High Current Serial LED Driver with 30 V Integrated Switch FAN5
 
 - [[shiningic-dat]] - [[YX8113-dat]] - [[led-driver-dat]]
 
+- [[TP8556-dat]] - [[TP-dat]]
+
+SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]] - [[SY7201-dat]]
+
+
+- [[BP9022-dat]] - [[BPS-dat]]
+
+- [[JW5060-dat]]
 
 
 ### option 3 
@@ -289,6 +256,13 @@ Current Push vs Pull: Power Supply & LED
 
 
 ## build 
+
+
+build 8 - [[TP8556-dat]] - [[TP-dat]]
+
+![](2026-11-22-17-28-47.png)
+
+![](2026-11-22-17-29-55.png)
 
 
 build 7 - no drive chip 

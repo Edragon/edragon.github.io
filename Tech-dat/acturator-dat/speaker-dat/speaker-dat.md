@@ -149,12 +149,20 @@ There is no inherent sound quality difference between 4-ohm and 8-ohm speakers. 
 - 尽量不要超过太大，例如4R5w模块带不太动
 
 
-## build 
+## SCH 
 
 headset 
 
 ![](2026-09-24-22-47-49.webp)
 
+
+
+
+## build 
+
+![](2026-11-22-17-19-07.png)
+
+![](2026-11-22-17-19-18.png)
 
 
 ## ref 

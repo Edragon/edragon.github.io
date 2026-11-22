@@ -16,7 +16,10 @@
 
 ## IVG-G4H
 
-- [[GK7205V210-dat]] - [[goke-dat]] 
+
+- [[sensor-camera-chip-dat]] == [[SC5239S-dat]] - [[xiongmai-dat]]
+
+- [[GK7205V210-dat]] - [[goke-dat]] - [[camera-IP-dat]]
 
 H.265AI - [[H.265-dat]] - [[H.265-AI-dat]] - [[sensor-camera-dat]]
 

@@ -3,6 +3,8 @@
 
 
 
+- [[display-dat]] - [[led-driver-dat]] - [[onsemi-dat]] - [[FAN5333-dat]]
+
 - [[onsemi-dat]] - [[AR0237-dat]] - [[sensor-camera-dat]]
 
 - [[AR0130-dat]] - [[onsemi-dat]] - [[HI3518-dat]] - [[hisilicon-dat]] - [[camera-IP-dat]]

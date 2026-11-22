@@ -2,6 +2,10 @@
 # CONN-USB-type-c-dat
 
 
+
+- [[CONN-USB-type-c-dat]] - [[USB-type-C-dat]] 
+
+
 - [[CONN-USB-type-c-female-dat]] - [[CONN-USB-type-c-male-dat]] - [[USB-SDK-type-c-dat]] - [[CONN-USB-type-c-dat]]
 
 
@@ -15,7 +19,7 @@
 
 - [[impedance-dat]]
 
-
+- [[CONN-USB-type-c-female-6P-dat]]
 
 
 
@@ -23,20 +27,6 @@
 
 ## common connectors 
 
-### type-C 6 pins 
-
-== no D+ / D- data pins 
-
-![](2026-03-15-01-49-08.png)
-
-| PIN | SIGNAL NAME |
-| --- | ----------- |
-| B12 | GND         |
-| B9  | VBUS        |
-| B5  | CC2         |
-| A5  | CC1         |
-| A9  | VBUS        |
-| A12 | GND         |
 
 ### type-C 9 pins 
 

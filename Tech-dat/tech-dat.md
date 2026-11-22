@@ -130,7 +130,7 @@
 
 - [[ethernet-dat]] 
 
-- [[USB-SDK-dat]] - [[USB-SDK-type-C-dat]] - [[USB-PD-dat]] - [[USB-3.0-dat]] - [[USB-hub-dat]] - [[USB-OTG-dat]]
+- [[USB-SDK-dat]] - [[USB-type-C-dat]] - [[USB-PD-dat]] - [[USB-3.0-dat]] - [[USB-hub-dat]] - [[USB-OTG-dat]]
 
 - [[bluetooth-dat]] - [[ble-dat]] - [[bt-audio-dat]]
 

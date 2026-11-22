@@ -161,6 +161,8 @@
 - [[zhongkewei-dat]] - [[motor-driver-dat]]
 
 
+- [[motor-driver-dat]] - [[Darlington-transistor-array-dat]]
+
 
 ### chip SOP8
 

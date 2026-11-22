@@ -4,6 +4,8 @@
 
 
 
+- [[CONN-USB-type-c-dat]] - [[USB-type-C-dat]] 
+
 - [[CONN-USB-A-dat]] - [[CONN-USB-type-C-dat]] - [[USB-OTG-dat]] - [[USB-type-c-dat]]
 
 

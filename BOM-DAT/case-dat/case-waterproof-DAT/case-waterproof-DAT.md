@@ -9,7 +9,7 @@
 - [[case-F1-T-dat]] - [[o-ring-dat]] - [[waterproof-container-dat]] - [[case-waterproof-dat]] - [[case-dat]]
 
 
-
+improve Enclosure rigidity
 
 壳体 O-ring 未压缩的直径是 2.5mm 
 
