@@ -4,6 +4,10 @@
 
 
 
+## underwater performance overview 
+
+![](2026-11-22-15-18-56.png)
+
 
 ## 1604-5MP
 
@@ -112,6 +116,9 @@
 - 环保要求：符合 RoHS
 
 
+
+
+
 ## YT10096-8MP
 
 
@@ -160,8 +167,7 @@ TV畸变（TV Distortion）
 - 1/2.8" - -11.5° 
 - 1/2.9" - -11°
 
-近摄距（M.O.D）
-2m
+近摄距（M.O.D） 2m
 解像标准（Resolution）分辨率（Resolution）:3840*2160(8MP)
 
 聚焦（Focus）
