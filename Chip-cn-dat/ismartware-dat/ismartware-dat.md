@@ -1,7 +1,7 @@
 
 # ismartware-dat
 
-
+- [[charger-USB-dat]] 
 
 - [[IP6818-dat]] - [[power-bank-dat]] - [[ismartware-dat]]
 
@@ -21,6 +21,9 @@
 
 
 - [[SW6005-dat]] - [[SW6208-dat]]  - [[power-bank-dat]] - [[ismartware-dat]]
+
+
+- [[charger-dat]]
 
 
 ## SW3518

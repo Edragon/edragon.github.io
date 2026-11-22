@@ -2,6 +2,10 @@
 # power-bank-dat
 
 
+
+
+- [[power-bank-dat]] - [[charger-USB-dat]] 
+
 - [[PMIC-dat]] - [[power-dat]]
 
 - [[power-UPS-dat]] - [[power-bank-dat]]

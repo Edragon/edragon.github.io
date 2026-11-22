@@ -1,6 +1,11 @@
 
 # chipsea-dat
 
+
+
+
+- [[chipsea-dat]] - 3AF10-QN28 - [[CSU3AF10-dat]] - [[SC8933-dat]] 
+
 - [[CS32L010-dat]] - [[chipsea-dat]] - [[STM32-clone-dat]] - [[MCU-dat]]
 
 - [[CS1237-dat]] - [[ADC-dat]] - [[chipsea-dat]]
@@ -15,10 +20,9 @@
 - [[chipsea-dat]] - [[CSU32P10-dat]] - [[SW6233-dat]] - [[power-bank-dat]]
 
 
-CSU32P10 is an 8-bit CMOS single-chip RISC MCU with a 12-bit ADC and built-in 2K x 14-bit OTP program memory
 
 
-
+- [[chipsea-dat]] - [[CSU32P10-dat]] - [[MCU-dat]] - [[MSOP10-dat]] - [[SC8933-dat]]
 
 
 ## ref 

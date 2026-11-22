@@ -3,7 +3,7 @@
 
 https://w.electrodragon.com/w/Injoinic
 
-
+- [[charger-USB-dat]] 
 
 - [[IP5407-DAT]] - [[injoinic-dat]] - [[IP5306-dat]] 
 
@@ -47,6 +47,9 @@ https://w.electrodragon.com/w/Injoinic
 - [[IP6566-dat]] - [[car-fast-charger-dat]] - [[battery-charger-dat]]
 
 - [[IP5513-dat]]
+
+
+- [[injoinic-dat]] - [[IP2726-dat]] - [[IP2752-dat]] - [[fast-charge-protocols-dat]]
 
 
 ## Chip Series 

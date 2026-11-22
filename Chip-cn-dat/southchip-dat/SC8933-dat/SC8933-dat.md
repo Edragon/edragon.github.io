@@ -2,7 +2,14 @@
 
 # SC8933-dat
 
-- [[SC8933-dat]] - [[DCDC-down-dat]] - [[power-bank-dat]]
+- [[SC8933-dat]] - [[power-bank-dat]] - [[charger-USB-dat]] - [[southchip-dat]]
+
+- [[DCDC-down-dat]] 
+
+
+SC8933 High Efficiency, Synchronous, Bi-directional Buck Charger Converter with Integrated MOSFETs and I2C Interface
+
+
 
 集成MOSFETs和I2C控制接口的高效率同步降压快速充电升压放电双向转换
 器
@@ -16,3 +23,57 @@ SC8933是一颗同步降压充电控制器，同时具有反向升压放电功�
 SC8933支持完善的保护，包括欠压锁定、过压保护、过流保护、短路警示和过温保护等功能，从而保证各种异常情况下的安全。
 
 SC8933提供超小型32脚的4X4 QFN封装。
+
+
+## 2 Features
+-  Charging management, including trickle charging, CC charging, CV charging and charging termination function
+-  Wide VBUS voltage operation range up to 14V
+-  Programmable battery voltage from 4.1V to 4.5V
+-  Integrated MOSFET with ultra-low Rdson
+-  Support 3V VBAT to 12V 2A output with 92% efficiency
+-  Programmable VINREG voltage
+-  Programmable current limit with 25mA/step
+-  Programmable output voltage with 10mV/step
+-  Programmable cable drop compensation
+-  Insert detection for up to three USB ports
+-  Integrate N-Gate drivers for up to three USB ports
+-  Voltage and current monitor through IMON pin
+-  Supports pass-through operation
+-  Charging status indication
+-  Support NTC function
+-  Under voltage protection and over voltage protection
+-  Over current protection, short circuit indication and thermal shutdown protection
+-  QFN-32 4x4 package
+
+
+## SCH 
+
+STD 
+
+![](2026-11-22-17-44-49.png)
+
+
+## build 
+
+![](2026-11-22-17-45-15.png)
+
+- [[SC8933-dat]] - [[power-bank-dat]] - [[charger-USB-dat]] - [[southchip-dat]]
+
+
+- [[chipsea-dat]] - 3AF10-QN28 - [[CSU3AF10-dat]] - [[SC8933-dat]] 
+
+- [[Darlington-transistor-array-dat]] - [[ET8828-dat]] - [[SC8933-dat]]
+
+- [[Darlington-transistor-array-dat]]
+
+![](2026-11-22-17-51-59.png)
+
+- [[chipsea-dat]] - [[CSU32P10-dat]] - [[MCU-dat]] - [[MSP10-dat]]
+
+
+![](2026-11-22-17-54-29.png)
+
+
+
+
+## ref 

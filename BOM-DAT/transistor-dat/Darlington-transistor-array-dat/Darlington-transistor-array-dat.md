@@ -4,6 +4,8 @@
 
 
 
+- [[Darlington-transistor-array-dat]] - [[ET8828-dat]]
+
 - [[ULN2802-dat]] - [[ULN2803-dat]] - [[Darlington-transistor-array-dat]]
 
 

@@ -1,6 +1,13 @@
 
 # fast-charge-protocols-dat
 
+
+
+
+- [[fast-charge-protocols-dat]] - [[USB-PD-dat]]
+
+- [[fast-charge-protocols-dat]] - [[charger-USB-dat]]
+
 - [[fast-charge-protocols-dat]] - [[USB-PD-dat]] - [[PD3.0-dat]] - [[PD2.0-dat]] 
 
 - [[fast-charge-protocols-dat]] - [[XPD318-dat]]
@@ -115,6 +122,13 @@ Quick Charge 2.0
 - [[cellwise-dat]] - [[CW3004-dat]] - [[fast-charge-protocols-dat]]
 
 - [[IP2112-dat]] - `A12K` - [[fast-charge-protocols-dat]] - [[IP5568-dat]]
+
+- [[chipsea-dat]] - 3AF10-QN28 - [[CSU3AF10-dat]] - [[SC8933-dat]] - [[fast-charge-protocols-dat]] - [[charger-USB-dat]] - [[power-bank-dat]] 
+
+
+
+- [[injoinic-dat]] - [[IP2726-dat]] - [[IP2752-dat]] - [[fast-charge-protocols-dat]]
+
 
 
 
