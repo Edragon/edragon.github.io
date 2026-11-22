@@ -3,6 +3,12 @@
 # pixel2-dat
 
 
+
+- [[conn-USB-type-c-dat]] - [[pixel2-dat]] - [[phone-pixel-dat]] - [[USB-3.1-dat]]
+
+
+
+
 chip == 骁龙 835 - [[qualcomm-dat]] - [[qualcomm-snapdragon-dat]]
 
 Pixel 2（美版）支持的 LTE 频段：

@@ -8,9 +8,18 @@
 
 - [[physics-dat]] - [[geometry-dat]] - [[Triangular-dat]]
 
+
+
+
+
 ## accessories
 
-- [[Profile-Bracket-dat]] - [[Profile-Angle-dat]]
+- [[profile-connector-dat]] - [[Profile-Bracket-dat]] - [[Profile-Angle-dat]]
+
+- [[mechanical-parts-dat]] - [[thread-dat]] - [[nut-dat]] - [[washer-dat]] - [[washer-toothed-dat]]
+
+
+
 
 
 ### extra profiles: 
@@ -128,6 +137,8 @@ profile center hole 3.3 mm
 
 
 - [[thread-dat]] - [[washer-toothed-dat]] - [[washer-dat]]
+
+- [[glue-thread-dat]] - [[glue-dat]] - [[thread-dat]]
 
 
 ### 八、⚠️ 方案五：换 2020/3030
