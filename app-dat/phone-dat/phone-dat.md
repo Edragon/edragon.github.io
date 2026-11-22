@@ -16,9 +16,14 @@
 
 ## phone and price 
 
-- [[pixel2-dat]] - [[USB-3.1-dat]] - [[USB-tethering-dat]] == 200-250 
+- [[pixel2-dat]] - [[conn-usb-type-c-dat]] - [[USB-3.1-dat]] - [[USB-tethering-dat]] == 200-250 
 
-- iQOO U5x - [[USB-tethering-dat]] - Micro-USB
+- [[IQOO-dat]]
+
+- iQOO U5 - [[snapdragon-695-dat]] - [[snapdragon-dat]] - [[qualcomm-dat]] - [[USB-tethering-dat]] - [[conn-usb-type-c-dat]]
+
+- iQOO U5x - [[USB-tethering-dat]] ?? - [[CONN-USB-micro-dat]] == 200 
+
 
 
 

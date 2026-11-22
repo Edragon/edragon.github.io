@@ -1,7 +1,7 @@
 
 # qualcomm-dat
 
-
+- [[snapdragon-695-dat]] - [[snapdragon-dat]] - [[qualcomm-dat]] -
 
 - [[qualcomm-dat]] - [[qualcomm-snapdragon-dat]]
 
