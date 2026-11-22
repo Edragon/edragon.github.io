@@ -49,7 +49,7 @@
 
 - [[renesas-dat]] - [[buffer-FIFO-dat]] - [[IDT720x-dat]] - [[app-dat]] == [[sensor-camera-dat]]
 
-
+- [[sensor-camera-SOC-dat]] - [[sensor-camera-chip-dat]] - [[lens-dat]] - [[lens-mount-dat]]
 
 
 ## camera

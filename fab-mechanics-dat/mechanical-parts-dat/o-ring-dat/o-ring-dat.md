@@ -5,6 +5,19 @@
 
 - [[mechanical-parts-dat]] - [[o-ring-dat]] - [[waterproof-dat]]
 
+- [[waterproof-container-dat]]
+
+
+壳体 O-ring 未压缩的直径是 2.5mm 
+
+壳体的
+- 凹槽深度是 3.5mm 
+- 凸槽深度是 1.5mm (压进去的)
+- 凹槽宽度是 2.0mm 
+
+
+
+
 
 ## 三、⭐️⭐️ O-ring 的核心指标是压缩率 15-25%
 
