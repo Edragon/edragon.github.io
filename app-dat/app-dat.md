@@ -31,6 +31,8 @@
 
 - [[battery-level-indicator-dat]] - [[battery-dat]]
 
+- [[ac-adapter-dat]] - [[ac-mains-dat]] - [[acdc-dat]]
+
 ## Mechanical 
 
 [[pnp-machine-dat]] - [[openpnp-dat]] - [[PixiePlacer-dat]] - [[reprap-dat]] - 

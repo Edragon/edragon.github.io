@@ -670,6 +670,24 @@ The NP3400AMR-S uses advanced trench technology to provide excellent RDS(ON), lo
 VDS =30V，ID =5.8A
 
 
+- [[mosfet-dat]] - P5N60S
+
+`P5N60S` commonly refers to a 600V N-Channel power MOSFET (such as the `HFP5N60S` by SemiHow or `WGP5N60S` in a TO-220 package), typically used in switching power supplies, adapters, and power electronics.
+
+Key Specifications (HFP5N60S / 5N60 Series)
+
+• Type: N-Channel Enhancement Mode Power MOSFET
+• Drain-Source Voltage (\(V_{DSS}\)): 600 V
+• Continuous Drain Current (\(I_{D}\) at \(T_C = 25^\circ\text{C}\)): ~4.5 A (pulsed up to 18 A)
+• Gate-Source Voltage (\(V_{GS}\)): ±30 V
+• Max Power Dissipation (\(P_{D}\) at \(T_C = 25^\circ\text{C}\)): ~100 W
+• On-State Resistance (\(R_{DS(on)}\)): ~2.5 Ω max (at \(V_{GS} = 10\text{ V}\))
+• Typical Gate Charge (\(Q_{g}\)): ~10.5 nC
+• Package: TO-220 (Pin 1: Gate, Pin 2: Drain, Pin 3: Source)
+
+
+
+
 
 ### PowerPAIR® 3 x 3
 

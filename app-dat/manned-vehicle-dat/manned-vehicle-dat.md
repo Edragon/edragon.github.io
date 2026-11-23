@@ -1,6 +1,9 @@
 
 # manned-vehicle-dat
 
+
+- [[manned-vehicle-dat]] - [[unmanned-vehicle-dat]] - [[electric-scooter-dat]]
+
 - [[RC-dat]] - [[unmanned-vehicle-dat]] - [[manned-vehicle-dat]] - [[vehicle-dat]]
 
 
