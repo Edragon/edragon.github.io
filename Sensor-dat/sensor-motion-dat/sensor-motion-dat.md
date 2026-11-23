@@ -3,7 +3,7 @@
 
 
 
-
+- [[sensor-pedrometer-dat]] - [[miraMEMS-dat]] - [[sensor-dat]] - [[sensor-motion-dat]] - [[DS3553-dat]]
 
 - [[location-dat]] - [[IMU-dat]] - [[sensor-barometer-dat]] - [[sensor-motion-dat]] - [[6D-accelerometer-gyroscope-dat]] - [[sensor-barometer-dat]] - [[sensor-camera-vision-dat]] - [[sensor-camera-dat]] - [[vision-dat]] - [[sensor-proximity-IR-dat]] - [[DJI-quadcopter-dat]]
 

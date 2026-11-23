@@ -158,7 +158,7 @@
 
 ### Interactive
 
-- [[interactive-dat]]
+- [[interactive-dat]] - [[touch-dat]]
 
 - [[LED-dat]] - [[LED-strip-dat]] - [[led-driver-dat]] - [[led-panel-dat]] - [[led-types-dat]] - [[light-dat]] - [[WS2812-dat]]
 
@@ -266,7 +266,11 @@
 
 - [[audio-dat]] - [[playback-dat]] - [[bt-audio-dat]] - [[media-dat]] - [[decoder-mp3-dat]] - [[speaker-dat]]
 
+- [[voice-dat]] - [[voice-prompt-dat]]
+
 - [[video-dat]] - [[video-wireless-dat]] - [[HDMI-dat]] - [[VTX-dat]] - [[VRX-dat]]
+
+
 
 
 ## Utilities 
