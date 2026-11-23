@@ -2,6 +2,10 @@
 # switch-dat 
 
 
+
+
+## info 
+
 - [[button-dat]] - [[switch-chip-dat]] - [[switch-dat]] - [[rf-switch-dat]] - [[rf-dat]]
 
 
@@ -23,13 +27,6 @@ basic types - toggle switch / momentary push button / SPST / SPDT
 mounting == through hole or SMD
 
 
-
-
-
-
-
-
-
 - [[switch-PCB-tactile-dat]] - [[switch-pushbutton-PCB-dat]] 
 
 - [[switch-toggle-dat]]
@@ -39,6 +36,15 @@ mounting == through hole or SMD
 - [[sensor-hall-switch-dat]]
 
 - [[sensor-tilt-switch-dat]] - [[sensor-dat]]
+
+
+
+## chip
+
+- [[jiaben-dat]] - [[swtich-micro-dat]]
+
+
+
 
 
 ## switch type 
