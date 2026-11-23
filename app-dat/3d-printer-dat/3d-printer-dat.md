@@ -10,6 +10,16 @@
 - PETG
 - PLA
 
+
+## firmware
+
+- [[klipper-dat]]
+
+
+
+
+
+
 ## ref 
 
 - [[3d-printer]]

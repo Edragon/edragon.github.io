@@ -42,6 +42,9 @@
 
 ## gadgets 
 
+
+- [[clock-dat]]
+
 - [[internet-radio-dat]] - [[ESP32-APP-dat]]
 
 - [[metal-detector-dat]] - [[portable-lights-dat]]
@@ -201,6 +204,11 @@ tech based - [[sensor-Camera-dat]] - [[audio-dat]]
 - [[commerial-dat]] - [[fix-dat]] - [[fab-workspace-dat]] - [[app-dat]] - [[product-dat]]
 
 - [[insta360-dat]] - [[gopro-dat]] - [[insta360-go2-camera-dat]] - [[insta360-go2-charger-dat]]
+
+
+## machine
+
+- [[3d-printer-dat]] - [[pnp-machine-dat]]
 
 
 ## workspace 
