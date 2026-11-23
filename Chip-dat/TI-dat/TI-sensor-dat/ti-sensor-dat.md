@@ -2,6 +2,13 @@
 # ti-sensor-dat.md
 
 
+
+
+- [[sensor-LDC-dat]] - [[sensor-motion-dat]] - [[LDC1612-dat]] - [[ti-sensor-dat]]
+
+
+
+
 - [[INA226-dat]] - [[INA3221-dat]] - [[TI-sensor-dat]]
 
 

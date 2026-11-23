@@ -1,7 +1,7 @@
 
 # motion-sensor-dat
 
-
+- [[sensor-LDC-dat]] - [[sensor-motion-dat]] - [[LDC1612-dat]] - [[ti-sensor-dat]]
 
 - [[sensor-pedrometer-dat]] - [[miraMEMS-dat]] - [[sensor-dat]] - [[sensor-motion-dat]] - [[DS3553-dat]]
 

@@ -17,6 +17,11 @@
 
 
 
+## tech 
+
+- [[sensor-LDC-dat]] - [[sensor-motion-dat]] - [[LDC1612-dat]] - [[ti-sensor-dat]]
+
+- [[3d-printer-dat]] - [[tool-setting-dat]] - [[machine-dat]]
 
 
 

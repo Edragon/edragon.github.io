@@ -93,6 +93,18 @@ https://github.com/AlexeyAB/darknet - [Kurokesu]’s walkthrough on pedestrian d
 
 ## APP 
 
+
+
+- [[3d-printer-dat]] - [[tool-setting-dat]] - [[machine-dat]]
+
+
+- [[vision-dat]] - [[sensor-LDC-dat]] - [[LDC1612-dat]] - [[openCV-dat]] - [[CNC-dat]] - [[pnp-machine-dat]] 
+
+
+
+
+
+
 ### DJI NEO 
 
 - [[DJI-neo-dat]] - [[STM32H7-dat]] - [[STM32-dat]]
