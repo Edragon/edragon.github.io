@@ -25,7 +25,7 @@
 
 - [[fan-PC-RGB-dat]]
 
-
+- [[fan-cross-flow-dat]]
 
 
 
