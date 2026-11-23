@@ -52,7 +52,7 @@
 
 - [[light-flash-dat]] - [[light-dat]]
 
-
+- [[pad-gaming-shooter-dat]]
 
 
 

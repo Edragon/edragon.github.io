@@ -389,7 +389,7 @@
 
 - [[meter-dat]] - [[meter-resistance-dat]] - [[multimeter-dat]] - [[meter-current-dat]] - [[meter-voltage-dat]] - [[meter-voltage-current-dat]] - [[meter-energy-dat]]
 
-- [[case-dat]]
+- [[case-dat]] - [[case-waterproof-DAT]]
 
 - [[physics-dat]] - [[lens-dat]] - [[weight-dat]] - [[thermal-dat]] - [[rays-dat]]
 

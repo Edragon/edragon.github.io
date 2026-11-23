@@ -12,7 +12,7 @@
 
 ## info 
 
-- [[antenna-position-dat]]
+- [[antenna-position-dat]] - [[antenna-dat]] - [[antenna-feeding-dat]]
 
 - [[frequency-dat]] - [[315mhz-dat]] - [[433mhz-dat]] - [[868mhz-dat]] 
 

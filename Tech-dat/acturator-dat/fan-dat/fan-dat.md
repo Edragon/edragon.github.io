@@ -7,6 +7,8 @@
 
 - [[motor-fan-ducted-dat]] - [[motor-dat]] - [[fan-dat]] - [[FPV-whoop-cine-dat]]
 
+- [[fan-driver-dat]] 
+
 
 
 ## tech 
@@ -21,6 +23,7 @@
 
 - [[humidifier-dat]] - [[SOCMCU-dat]] - [[SC92F722-dat]] - [[fan-dat]] - [[CONN-dat]]
 
+- [[fan-PC-RGB-dat]]
 
 
 
