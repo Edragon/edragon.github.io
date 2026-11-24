@@ -101,6 +101,13 @@ long range secure by cable - [[RS485-dat]] - [[fiber-optic-dat]] - [[POF-dat]] -
 - [[powerbus-dat]]
 
 
+## RS485 / RS232 
+
+- [[RS232-dat]] - [[RS485-dat]] - [[IRDA-dat]] - [[AD-interface-dat]] - [[MAX3250-dat]] - [[interface-dat]] == dual TX/RX
+
+- [[MAX3232-dat]]
+
+
 ## Breakout boards 
 
 [[RS232-dat]] breakout
