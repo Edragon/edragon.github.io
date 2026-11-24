@@ -325,7 +325,9 @@
 
 - [[mechanical-structure-dat]] - [[tube-dat]] - [[tube-bend-dat]] - [[structure-dat]] - [[structure-t-dat]] - [[frame-profile-dat]]
 
-- [[alu-extrusion-dat]] - [[ALU-extrusion-1515-sys-dat]]
+- [[mechanical-parts-dat]]
+
+- [[alu-extrusion-dat]] - [[ALU-extrusion-1515-sys-dat]] - [[alu-profile-connector-dat]]
 
 - [[openpnp-dat]] - [[3d-printer-dat]] - [[pnp-machine-dat]] - [[glue-dat]] - [[feeder-dat]] - [[feeder-electric-auto-dat]]
 
