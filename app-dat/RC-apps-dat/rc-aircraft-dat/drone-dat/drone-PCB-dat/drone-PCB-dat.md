@@ -13,7 +13,7 @@ build 1 - [[STM32-F1-dat]] - [[STM32-F1-dat]]
 ![](2026-11-26-01-43-02.png)
 
 
-- [[MPU-6050-dat]] - [[drone-PCB-dat]] - [[STM32-F1-dat]] 
+- [[MPU6050-dat]] - [[drone-PCB-dat]] - [[STM32-F1-dat]] 
 
 ![](2026-11-26-01-43-22.png)
 

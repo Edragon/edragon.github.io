@@ -68,6 +68,10 @@
 - [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
 
 
+- [[XR819-dat]] - [[XRadiotech-dat]]
+
+
+
 ## apps 
 
 - [[camera-IP-dat]] - [[wifi-adapter-dat]] - [[WIFI-dat]]

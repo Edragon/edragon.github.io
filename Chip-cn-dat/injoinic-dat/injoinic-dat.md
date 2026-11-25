@@ -15,6 +15,8 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[IP5356-dat]] - [[QC-charge-dat]]
 
+- [[IP5389-dat]]
+
 - [[IP2326-dat]] - [[injoinic-dat]]
 
 

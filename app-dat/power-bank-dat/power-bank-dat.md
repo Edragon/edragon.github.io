@@ -22,6 +22,9 @@
 
 - [[SW6233-dat]] - [[ismartware-dat]] - [[power-bank-dat]]
 
+- [[IP5389-dat]] - [[injoinic-dat]] - [[power-bank-dat]] == 100W
+
+
 
 
 ## chip 

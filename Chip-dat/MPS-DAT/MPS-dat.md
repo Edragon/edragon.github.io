@@ -12,6 +12,9 @@
 
 - [[MP9843-dat]] - [[MPS-dat]]
 
+- [[MPS-dat]] - [[MP9486-dat]] - [[dcdc-down-dat]] == 100V 3.5A
+
+
 - [[MP2386-dat]]
 
 - [[MPS-dat]] - [[MP1484-dat]]

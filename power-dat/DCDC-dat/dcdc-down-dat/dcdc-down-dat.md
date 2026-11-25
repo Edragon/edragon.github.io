@@ -24,6 +24,9 @@
 ## chip and companies
 
 
+- [[MPS-dat]] - [[MP9486-dat]] - [[dcdc-down-dat]] == 100V 3.5A
+
+- [[MP9943-dat]] - [[MPS-dat]] - [[dcdc-down-dat]] == 3A Peak, 36V
 
 - [[tctek-dat]] - [[TCS4525-dat]] - 6A, 3MHz Synchronous Step-Down DC-DC with I2C Compatible Interface
 
