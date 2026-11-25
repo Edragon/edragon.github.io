@@ -1,7 +1,10 @@
 
 # bosch-dat
 
-- [[6-axis-dat]] - [[BMI270-dat]]
+
+
+
+- [[BHI360-dat]] - [[BMI323-dat]] - [[BMI270-dat]] - [[BMI088-dat]] - [[bosch-dat]] - [[6-axis-dat]]
 
 - [[BMP280-dat]] - [[BMP580-dat]] - [[BME580-dat]] - [[BMP180-dat]] - [[bosch-dat]]
 

@@ -42,41 +42,21 @@ Accelerometer + Gyroscope == Inertial Measurement Unit
 它们都不是6050引脚、寄存器直接兼容的替换件。选型先看动作范围、噪声、功耗和接口，再查原厂资料与供货情况。
 
 
-- [[ICM42605-dat]]
+- [[ICM42605-dat]] - [[ICM20649-dat]] - [[ICM20689-dat]] - [[ICM45686-dat]] - [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] - [[ICM20602-dat]]
 
 
-- [[sensor-dat]] - [[bosch-dat]] - [[BHI360-dat]] - [[sensor-motion-dat]] - [[6-axis-dat]]
+- [[sensor-dat]] - [[sensor-motion-dat]] - [[6-axis-dat]]
 
-
+- [[BHI360-dat]] - [[BMI323-dat]] - [[BMI270-dat]] - [[BMI088-dat]] - [[bosch-dat]] - [[6-axis-dat]] - [[BMI270-dat]] == 3-4 usd - [[BMI160-dat]] == 1 usd - [[BM1270-dat]] - [[BM160-dat]] 
 
 
 - [[QMI8658A-dat]] - [[QST-dat]] - [[sensor-motion-dat]] - [[6-axis-dat]] 
 
 
-- [[BMI323-dat]]
-
-- [[ICM45686-dat]]
-
-
-- [[ICM42688-dat]] - [[ICM42686-dat]] - [[invensense-dat]] - [[ICM20689-dat]]
-
-- [[BM1270-dat]] - [[BM160-dat]] - [[MPU6050-dat]] - [[ICM20602-dat]] - [[ICM42688-dat]]
 
 - [[sensor-motion-dat]] - [[6-axis-dat]] - [[invensense-dat]]
 
-
-
-
-
-
-- [[BMI160-dat]] == 1 usd
-  
-- [[bosch-dat]] - [[BMI270-dat]] == 3-4 usd 
-
-- [[MPU6886-dat]] - [[MPU6500-dat]] - [[MPU6050-dat]] - [[invensense-dat]] 
-
-- [[MPU9250-dat]] 
-
+- [[MPU6886-dat]] - [[MPU6500-dat]] - [[MPU6050-dat]] - [[invensense-dat]] - [[MPU9250-dat]] 
 
 
 - [[LSM6DS3-dat]] - [[ST-dat]] - [[ST-sensor-dat]] - [[6-axis-dat]]

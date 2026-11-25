@@ -1,7 +1,16 @@
 
 # sensor-barometer-dat.md
 
+
+
 [legacy wiki page](https://w.electrodragon.com/w/Category:Pressure_Sensor)
+
+
+
+- [[sensor-pressure-dat]] - [[sensor-barometer-dat]] 
+
+- [[BMP388-dat]] - [[bosch-dat]]
+
 
 - [[BME280-dat]] - [[bosch-dat]] - [[BMP280-dat]] - [[STH1060-dat]]
 

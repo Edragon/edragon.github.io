@@ -20,6 +20,13 @@
 - [[RC-dat]]
 
 
+## build 
+
+- SCH 1 - [[NxtPX4.pdf]] - [[MP9943-dat]] - [[sensor-pressure-dat]] - [[sensor-barometer-dat]] - [[BMP388-dat]] - [[bosch-dat]] - [[6-axis-dat]]
+
+
+
+
 ## ref 
 
 
