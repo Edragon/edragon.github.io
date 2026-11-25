@@ -51,6 +51,8 @@
 
 ## RC Link  - SPI ELRS RC Link Update Rates
 
+- [[ELRS-dat]]
+
 ### 1. Supported ELRS Packet Rates (Hz)
 - 25 Hz (long range, very low latency priority not needed)
 - 50 Hz
