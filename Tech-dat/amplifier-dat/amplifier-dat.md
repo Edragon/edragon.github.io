@@ -44,11 +44,11 @@ M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-f
 
 ## typs 
 
-- [[LNA-dat]] - [[TQP3M9008-dat]] - [[qorvo-dat]] - [[amplifier-dat]]
+- [[amp-LNA-dat]] - [[TQP3M9008-dat]] - [[qorvo-dat]] - [[amplifier-dat]] - [[amp-LNA-dat]]
 
-- [[LNA-dat]]
+- [[amp-LNA-dat]]
 
-
+- [[amplifier-dat]] - [[amp-VGA-dat]] - variable gain amplifier
 
 
 

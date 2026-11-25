@@ -37,9 +37,11 @@
 
 
 
+
+
 ## tech 
 
-- [[wifi-dat]]
+- [[wifi-dat]] - [[ethernet-dat]]
 
 - [[camera-IP-dat]] == [[sensor-camera-dat]] ++ chip 
 
@@ -71,6 +73,12 @@
 
 
 
+## demo 
+
+![](2026-11-25-21-27-12.png)
+
+rtsp://192.168.1.10:554
+
 
 ## apps 
 
@@ -86,7 +94,15 @@ Accessing a Xiongmai IVG-G4H IP Camera Over a Local Network (LAN)
 
 **Yes, you can access it directly over your LAN** without internet access or cloud app binding. Xiongmai (XM) modules like the **IVG-G4H** generally support DHCP (or a default static IP), web management, Xiongmai's proprietary protocol (port `34567`), ONVIF, and RTSP streaming.
 
----
+
+http://192.168.1.10/
+
+![](2026-11-25-20-16-25.png)
+
+~~https://ocx.jftechws.com/ocx/VideoPlayToolSetup.exe~~
+
+
+
 
 ### 1. Hardware Connection and Power
 
@@ -129,6 +145,9 @@ Assuming the camera IP is `192.168.0.105`:
 - **Sub stream**:
   `rtsp://192.168.0.105:554/user=admin&password=&channel=1&stream=1.sdp?`
 - Replace `password=` with `password=YOUR_PASSWORD` if a password is configured.
+
+
+
 
 #### CMS Client, NVR, or ONVIF
 - **Xiongmai CMS**: Add via LAN search using protocol port **`34567`** for live preview, playback, and encoding/image settings (including H.265 / H.265 AI options).

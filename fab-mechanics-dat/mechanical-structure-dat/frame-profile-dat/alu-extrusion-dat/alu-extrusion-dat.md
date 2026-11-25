@@ -3,7 +3,7 @@
 
 
 
-- [[profile-connector-dat]] - [[profile-angle-dat]] - [[profile-bracket-dat]] - [[profile-nut-dat]] - [[profile-internal-corner-dat]]
+- [[alu-profile-connector-dat]] - [[profile-angle-dat]] - [[profile-bracket-dat]] - [[profile-nut-dat]] - [[profile-internal-corner-dat]]
 
 
 - [[Alu-Extrusion]] - [[screw-dat]] - [[profile-nut-dat]] - [[bolt-dat]]

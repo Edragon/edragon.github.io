@@ -28,12 +28,27 @@
 - [[mechanical-parts-dat]] - [[o-ring-dat]] - [[waterproof-dat]]
 
 
+
+
+
 ## design reference 
 
 - [[waterproof-design-dat]] - [[waterproof-container-dat]]
 
 
+
+
 ## solutions 
+
+### data communication 
+
+- [[ethernet-dat]] - [[waterproof-ethernet-dat]] - [[ethernet-dat]]
+
+- [[usb-sdk-dat]] - [[usb-tethering-dat]]
+
+### vision 
+
+- [[camera-IP-dat]]
 
 
 

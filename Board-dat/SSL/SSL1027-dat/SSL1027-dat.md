@@ -61,9 +61,11 @@ https://w.electrodragon.com/w/LM567
 https://twitter.com/electro_phoenix/status/1001750412347650048
 
 
-- [[SSL1027]] - [[LM567-dat]]
+- [[LM567-dat]] - [[LMxx-dat]] - [[TI-dat]]
 
 
 ## ref 
+
+- [[SSL1027]] 
 
 - [[resistor-trim-pot-dat]]

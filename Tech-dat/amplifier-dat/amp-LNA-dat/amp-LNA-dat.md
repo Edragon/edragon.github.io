@@ -1,7 +1,15 @@
 
-# LNA-dat
+# amp-LNA-dat
 
 
+
+low noise amplifier (LNA) is an electronic amplifier that amplifies a very low-power signal without significantly degrading its signal-to-noise ratio (SNR). It is typically used as the first stage of a receiver to amplify weak signals received by an antenna.
+
+
+
+- [[SKY85601-dat]] - [[skyworks-dat]] - [[amplifier-low-noise-dat]] - [[amplifier-dat]]
+
+- [[amplifier-rf-dat]]
 
 
 

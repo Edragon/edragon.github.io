@@ -152,7 +152,34 @@ GK7205V210 有 OpenIPC 官方支持
 - 先按原厂固件跑通 RTSP，再考虑刷。
 
 
+## pin 
 
+![](2026-11-25-20-38-46.png)
+
+![](2026-11-25-20-38-37.png)
+
+J1 main conn : 
+- 1 ETH_LINK_ACT_LED Indicator light
+- 2 ETH_LINK_STA_LED Indicator light
+- 3 ETHTX+ ETHTX+
+- 4 ETHTX- ETHTX-
+- 5 ETHRX+ ETHRX+
+- 6 ETHRX- ETHRX-
+- 7 GND GND
+- 8 12V 12V input
+
+J45 J49 Audio
+
+J5 - IR-cut 
+
+J44
+
+- W_LED_GPIO0_4
+- R_LED_GPIO2_0
+- LED/GPIO6_5
+- GND
+- IRIN
+- IO/GPIO6_4
 
 
 ## ref 
