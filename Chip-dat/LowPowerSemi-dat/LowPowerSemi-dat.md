@@ -16,7 +16,7 @@
 - [[LowPowerSemi-dat]] - [[LP6221A-dat]] - [[dcdc-boost-dat]] == 10A - High Efficiency 10A Boost Converter
 
 
-
+- [[LP3220-dat]] - [[lowpowersemi-dat]]
 
 
 `LP28057`
