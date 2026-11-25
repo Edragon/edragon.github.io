@@ -58,17 +58,82 @@ Both **Category 5e (Cat5e)** and **Category 6 (Cat6)** Ethernet cables can relia
 
 
 
-## cable  
+## wiring 
 
-![](2026-11-25-20-37-20.png)
+![](2026-11-25-20-50-25.png)
+
 
 ![](2026-11-25-20-37-39.png)
 
 ![](2026-11-25-20-44-10.png)
 
+### T568B 
+
+**T568B** is the most widely used international **wiring standard for Ethernet (twisted-pair) RJ45 connectors**. It defines the exact pinout order in which the 8 color-coded copper wires inside an Ethernet cable are arranged when crimped into an RJ45 plug or punched down into a keystone jack.
+
+In residential wiring, commercial installations, and almost all pre-made patch cables, **T568B is the default standard**.
+
+---
+
+#### T568B 8-Pin Color Sequence
+
+Hold the RJ45 connector with the **gold metal contacts facing up, the plastic locking clip facing down, and the cable entry facing toward you**. From left to right (Pin 1 to Pin 8), the wire order is:
+
+1. **White/Orange** (Transmit Data + / TX+)
+2. **Orange** (Transmit Data - / TX-)
+3. **White/Green** (Receive Data + / RX+)
+4. **Blue** (Unused / Telephony or PoE power)
+5. **White/Blue** (Unused / Telephony or PoE power)
+6. **Green** (Receive Data - / RX-)
+7. **White/Brown** (Unused / Gigabit data & PoE power)
+8. **Brown** (Unused / Gigabit data & PoE power)
+
+> **Quick Memory Aid:** White-Orange, Orange, White-Green, Blue, White-Blue, Green, White-Brown, Brown.
+
+---
+
+#### Why Must You Follow This Exact Order?
+
+A common misconception is that as long as both ends of the cable match color-for-color, any arbitrary order will work. In reality, **a random wire order will cause severe speed drops or complete connection failure** on 100 Mbps and 1 Gbps networks for two reasons:
+
+* **Crosstalk & Interference Cancellation:** Inside an Ethernet cable, the 4 pairs of wires are twisted at slightly different rates to cancel out electromagnetic interference (crosstalk) from adjacent pairs.
+* **Keeping Differential Pairs Together:** Network signals rely on **differential signaling** (a positive and negative wire paired together). Under T568B, **Pins 1 & 2** (White/Orange & Orange) form one twisted differential pair, and **Pins 3 & 6** (White/Green & Green) form another. Splitting a twisted pair across non-paired pins destroys this noise cancellation, causing massive packet loss and forcing Gigabit links to drop down to 10 Mbps or disconnect.
+
+---
+
+#### T568B vs. T568A
+
+Alongside T568B, there is an alternative standard called **T568A**. The only difference between the two is that **the orange and green wire pairs are swapped**:
+
+| Pin Number | T568B (Most Common) | T568A |
+| --- | --- | --- |
+| **1** | **White/Orange** | **White/Green** |
+| **2** | **Orange** | **Green** |
+| **3** | **White/Green** | **White/Orange** |
+| **4** | Blue | Blue |
+| **5** | White/Blue | White/Blue |
+| **6** | **Green** | **Orange** |
+| **7** | White/Brown | White/Brown |
+| **8** | Brown | Brown |
+
+* **Straight-Through Cable (T568B on both ends):** Used in 99% of modern networking scenarios (connecting PCs to routers, routers to modems, wall jacks to switches, etc.).
+* **Crossover Cable (T568A on one end, T568B on the other):** Historically used to connect two computers directly together without a switch. Virtually all modern network adapters and switches support **Auto MDI/MDIX** (automatic port detection), making dedicated crossover cables obsolete.
+
+**Practical Tip:** If your wall keystone jacks were punched down using the **T568B** color code, you must terminate the other end of the cable in your network cabinet using **T568B** as well—both ends must follow the exact same standard to achieve full Gigabit speeds.
+
+
+## cable  
+
+![](2026-11-25-20-37-20.png)
+
 
 
 ## waterproof cable 
+
+
+带护套的网线和成品网线不可以连接该款防水直通
+
+监控尾线防水帽 - 可穿手工压制的网线
 
 产品参数：
 - 1.连接器:RJ45 female+DC female（5.5*2.1mm）防水头2.材质:纯铜导体.PVC外护套
@@ -78,13 +143,15 @@ Both **Category 5e (Cat5e)** and **Category 6 (Cat6)** Ethernet cables can relia
 - 6.尾部端子处理:可配2P+4P+6P或2P+4P+8P，默认发2P+4P+8P。
 - 7.尾线一扎50条，一箱500条。量大从优，欢迎询价。
 
-
+![](2026-11-25-20-48-23.png)
 
 ![](2026-11-25-20-01-00.png)
 
 ![](2026-11-25-20-01-25.png)
 
 ![](2026-11-25-20-03-10.png)
+
+![](2026-11-25-20-49-43.png)
 
 
 ## isolator 
@@ -211,7 +278,7 @@ build 1
 
 - [[POE-dat]] - [[ethernet-dat]]
 
-
+- [[camera-IP-dat]]
 
 
 ## ref 
