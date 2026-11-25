@@ -3,6 +3,10 @@
 
 # rc-trainer-dat
 
+
+- [[servo-dsc-dat]] - [[rc-trainer-dat]]
+
+
 - [[rc-dat]] - [[rc-trainer-dat]] - [[motor-servo-dat]] - [[betaflight-servo-dat]] - [[betaflight-dat]]
 
 

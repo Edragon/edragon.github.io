@@ -21,6 +21,12 @@
 
 
 
+## tech 
+
+- [[current-limit-dat]] - [[protection-power-dat]] - [[protection-battery-dat]] - [[protection-ESD-dat]] 
+
+- [[soft-start-dat]]
+
 ## board 
 
 - [[B-S-1W-dat]]

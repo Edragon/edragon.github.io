@@ -8,9 +8,9 @@
 
 - [[radio-tx-dat]] - [[RC-protocols-dat]]
 
-- [[radiomaster-pocket-dat]] 
+- [[radiomaster-pocket-dat]] - [[radiomaster-TX16s-dat]] - [[radiomaster-dat]]
 
-
+- [[jumper-dat]] - [[jumper-T16-dat]]
 
 
 ## custom build PCB 

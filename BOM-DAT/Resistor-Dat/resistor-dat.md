@@ -2,6 +2,9 @@
 # resistor-dat.md
 
 
+
+- [[res-calculator.html]]
+
 - [[resistor-trim-pot-digital-dat]] - [[resistor-trim-pot-dat]] - [[resistor-dat]]
 
 - [[resistor-shunt-dat]] - [[resistor-trim-pot-dat]]

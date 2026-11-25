@@ -1,7 +1,10 @@
 
 # protection-battery-dat
 
-- [[battery-dat]] - [[battery-BMS-dat]] - [[protection-battery-dat]]
+
+- [[soft-start-dat]] - [[protection-battery-dat]]
+
+- [[battery-dat]] - [[battery-BMS-dat]] - [[protection-battery-dat]] - [[battery-protector-dat]]
 
 
 - [[battery-packs-dat]] - [[battery-1s-dat]] - [[battery-li-dat]]

@@ -2,7 +2,8 @@
 
 # TI-LED-driver-dat.md
 
-TPS61165-Q1 High-Brightness White LED Driver in SOT-23 Package
+
+- [[TI-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]] - [[TPS6116x-dat]]
 
 
 - [[LED-driver-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]]

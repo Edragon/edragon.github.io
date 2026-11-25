@@ -1,6 +1,11 @@
 
 # fab-stencil-printer-dat 
 
+
+
+
+
+
 - [[fab-stencil-dat]] - [[fab-stencil-printer-dat]] - [[fab-stencil-frameless-dat]] - [[fab-stencil-frame-dat]]
 
 - [[solder-paste-dat]]
@@ -12,6 +17,26 @@
 
 
 - [[fab-stencil]]
+
+
+
+## custom printer 
+
+- [[fab-3d-print-dat]] 
+
+
+- [[fab-stencil-dat]] in detailed size 
+  
+![](2026-11-26-03-28-57.png)
+
+
+3d-print mold 
+
+![](2026-11-26-03-29-40.png)
+
+https://cad.onshape.com/documents/9556798d647b8131416c13a6/w/884962f0652275625f5ea768/e/8321c0f74de213f78b80d7bb
+
+
 
 
 ## solder paste printer 

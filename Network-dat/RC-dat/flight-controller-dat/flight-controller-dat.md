@@ -2,6 +2,8 @@
 # flight-controller-dat
 
 
+- [[flight-controller]]
+
 - [[flight-controller-dat]] - [[RC-system-dat]]
 
 

@@ -279,7 +279,7 @@
 
 - [[terminal-clamping]] - [[CONN-BTB-dat]]
 
-- [[protection-dat]]
+- [[protection-dat]] - [[protection-power-dat]]
 
 - [[pogo-pin-dat]]
 

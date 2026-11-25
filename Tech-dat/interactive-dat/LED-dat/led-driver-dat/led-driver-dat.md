@@ -120,7 +120,7 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[CN5711-dat]] - [[consonance-dat]]
 
-- [[TI-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]]
+- [[TI-dat]] - [[TI-LED-driver-dat]] - [[LM3528-dat]] - [[TPS6116x-dat]]
 
 - [[natlinear-dat]] - [[LN2566-dat]] - [[LED-driver-dat]] - [[LN2516-dat]]
 
@@ -135,6 +135,7 @@ SY7201 - 30V High Current Boost LED Driver - [[silergy-dat]] - [[SY7201-dat]]
 
 - [[JW5060-dat]]
 
+- [[kinetic-dat]] - [[KTZ8850-dat]]
 
 ### option 3 
 
