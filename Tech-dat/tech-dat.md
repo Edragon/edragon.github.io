@@ -11,7 +11,7 @@
 
 - [[board-dat]] - [[board-new-dat]] - [[chip-dat]] - [[chip-cn-dat]] - [[glob-top-dat]]
 
-- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]] - [[rc-aircraft-dat]] - [[UAV-dat]] - [[USV-dat]] - [[FPV-dat]] - [[camera-IP-dat]] - [[wifi-adapter-dat]]
+- [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]] - [[rc-aircraft-dat]] - [[UAV-dat]] - [[USV-dat]] - [[FPV-dat]] - [[camera-IP-dat]] - [[wifi-adapter-dat]] - [[drone-dat]]
 
 - [[circuits-dat]]
 
@@ -186,7 +186,7 @@
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[sensor-energy-dat]] - [[sensor-ambient-dat]] - [[sensor-light-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]] - [[sensor-PIR-dat]] - [[IMU-dat]] - [[sensor-optical-flow-dat]]
+- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]] - [[sensor-PIR-dat]] - [[IMU-dat]] - [[sensor-optical-flow-dat]] - [[sensor-proximity-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-temperature-non-contact-dat]] - [[sensor-pressure-dat]]
 

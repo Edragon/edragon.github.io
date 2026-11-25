@@ -5,7 +5,7 @@ https://w.electrodragon.com/w/Injoinic
 
 - [[charger-USB-dat]] 
 
-- [[IP5407-DAT]] - [[injoinic-dat]] - [[IP5306-dat]] 
+- [[IP5407-DAT]] - [[injoinic-dat]] - [[IP5306-dat]] - [[IP5305-dat]] 
 
 - [[IP5568-dat]] - [[injoinic-dat]] - [[power-bank-dat]]
 

@@ -2,7 +2,38 @@
 
 # radio-tx-dat
 
-- [[radio-dat]] - [[radio-tx-dat]] - [[radio-rx-dat]]  - [[radiomaster-pocket-dat]] 
+- [[radio-dat]] - [[radio-tx-dat]] - [[radio-rx-dat]] 
+  
+
+
+- [[radio-tx-dat]] - [[RC-protocols-dat]]
+
+- [[radiomaster-pocket-dat]] 
+
+
+
+
+## custom build PCB 
+
+![](2026-11-26-01-31-37.png)
+
+
+- [[radio-tx-dat]] - [[TP4336-dat]] - [[TP-dat]] - [[battery-portable-dat]]
+
+![](2026-11-26-01-31-52.png)
+
+- [[RF-dat]] - [[NRF24L01-dat]] - [[SI24R1-dat]] - [[action-dynamic-dat]] - [[2.4Ghz-dat]] - [[radio-tx-dat]] - [[STM32-F1-dat]] - [[SPI-dat]]
+
+![](2026-11-26-01-40-03.png)
+
+- [[OLED]] - [[STM32-F1-dat]] 
+
+![](2026-11-26-01-40-24.png)
+
+- [[interactive-dat]] - [[radio-tx-dat]] - [[joystick-dat]] - [[keypad-dat]]
+
+![](2026-11-26-01-40-58.png)
+
 
 
 

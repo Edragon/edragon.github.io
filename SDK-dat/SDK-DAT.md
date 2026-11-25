@@ -2,6 +2,13 @@
 # SDK-DAT
 
 
+
+
+- [[algorithm-dat]] - [[filter-Kalman-dat]]
+
+
+
+
 - [[android-dat]] - [[SDK-dat]]
 
 - [[PID-dat]] - [[FOC-dat]] - [[SDK-dat]]

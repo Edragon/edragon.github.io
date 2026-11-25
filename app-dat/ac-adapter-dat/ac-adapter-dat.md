@@ -3,6 +3,11 @@
 
 # ac-adapter-dat
 
+
+- [[power-adapter-dat]] - [[power-dat]] - [[ac-adapter-dat]]
+
+
+
 - [[ac-adapter-dat]] - [[ac-mains-dat]] - [[acdc-dat]]
 
 

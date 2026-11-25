@@ -4,7 +4,7 @@
 
 
 
-- [[power-adapter-dat]] - [[power-dat]] 
+- [[power-adapter-dat]] - [[power-dat]] - [[ac-adapter-dat]]
 
 
 ## chip 

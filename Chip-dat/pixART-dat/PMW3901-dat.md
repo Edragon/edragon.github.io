@@ -56,6 +56,12 @@ Here's which pins to connect between your Optical Flow Sensor Breakout and your 
 - python == https://github.com/pimoroni/pmw3901-python
 
 
+## SCH 
+
+ref 
+
+![](2026-11-26-01-24-49.png)
+
 ## ref 
 
 - [[pixart-dat]]
