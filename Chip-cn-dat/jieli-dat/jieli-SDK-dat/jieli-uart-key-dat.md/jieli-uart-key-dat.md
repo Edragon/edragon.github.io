@@ -1,4 +1,4 @@
-# UART_KEY
+# jieli-uart-key-dat.md
 
 The Mask ROM in some chips may contain a UART bootloader alongside the USB bootloader (or as an only option, like in SH55).
 
@@ -25,4 +25,4 @@ If the chip drives the line high, it means that the chip has acknowledged the ke
 
 After the chip accepts the key it waits for a loader to be sent over the UART (with a some amount of time before it simply continues with the normal boot process).
 
-Read [this page](load-a-loader.md) for details.
+Read [this page](jieli-uart-load-a-loader-dat.md) for details.
