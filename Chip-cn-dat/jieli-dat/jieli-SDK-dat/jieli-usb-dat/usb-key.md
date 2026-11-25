@@ -1,4 +1,7 @@
-# USB_KEY
+
+
+
+# jieli-USB-KEY-dat
 
 The chips have a Mask ROM that contains the initial boot code, alongside with a USB bootloader used to program the chip's flash, among other things.
 
