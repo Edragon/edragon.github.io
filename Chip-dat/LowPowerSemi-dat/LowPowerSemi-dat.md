@@ -2,9 +2,9 @@
 # LowPowerSemi-dat
 
 
-- [[LP7807-dat]] - [[lowpowersemi-dat]] - [[battery-charger-1s-dat]]
+- [[LP7807-dat]] - [[lowpowersemi-dat]] - [[TWS-dat]] 
 
-- [[LP78070-dat]] - [[lowpowersemi-dat]] - [[fan-driver-dat]]
+- [[LP78070-dat]] - [[lowpowersemi-dat]] - [[battery-charger-1s-dat]] - [[fan-driver-dat]]
 
 - [[LP7810-dat]] - Ultra-high Efficiency TWS Charging Case Manager - [[TWS-dat]]
 

@@ -6,9 +6,18 @@
 
 - [[LP7807-dat]] - [[lowpowersemi-dat]] - [[battery-charger-1s-dat]]
 
-LPS LP7807 refers to a family of power management and lithium-ion battery charging integrated circuits (ICs) manufactured by Lowpower Semiconductor (LPS).
 
-Because SMD chip markings are abbreviated, the top marking "LP7807" typically identifies the LP78070 or a closely related variant in the same product series.
+- [[TWS-dat]] - [[bt-audio-dat]]
+
+https://www.lowpowersemi.com/Product-detail/10-LP7807-H-C
+
+
+
+All-in-1 highly integrated TWS charging case IC with shutdown mode and support for 1- or 2-LED status indication.
+
+## build 
+
+
 
 
 
