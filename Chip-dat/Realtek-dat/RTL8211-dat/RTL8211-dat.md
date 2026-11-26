@@ -2,6 +2,13 @@
 # RTL8211-dat
 
 
+
+
+- [[realtek-dat]] - [[RTL8211-dat]] - [[RTL8211FS-dat]] - [[PHY-fiber-to-copper-dat]]
+
+
+
+
 - [[RTL8211-dat]] - [[impedance-dat]] - [[RGMII-dat]] - [[impedance-GRMII-dat]]
 
 - [[wifi-sdio-dat]]
@@ -12,6 +19,11 @@
 
 [RTL8211FD(I)-CG](https://www.realtek.com/Product/Index?id=3976&cate_id=786)
 
+
+- [[ethernet-dat]] - [[MAC-dat]] - [[PHY-dat]]
+
+
+- [[RTL8211fs_0001.pdf]]
 
 ## General Description
 

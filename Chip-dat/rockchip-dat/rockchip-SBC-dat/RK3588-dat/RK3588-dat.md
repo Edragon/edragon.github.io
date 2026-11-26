@@ -2,6 +2,14 @@
 
 # RK3588-dat
 
+
+
+
+- [[Serdes-dat]] - [[MT7621-dat]] - [[MT7981-dat]] - [[IPQ6000-dat]] - [[RK3588-dat]] - [[mediatek-dat]] - [[PHY-fiber-to-copper-dat]]
+
+
+
+
 - [[SBC-dat]] - [[rockchip-dat]] - [[RK3588-dat]]
 
 Rockchip RK3588 (MNT RCORE V2) — 4× Cortex-A76 + 4× Cortex-A55 @ up to 2.4 GHz, 16 or 32 GB LPDDR4, Mali-G610 GPU, 256 GB eMMC

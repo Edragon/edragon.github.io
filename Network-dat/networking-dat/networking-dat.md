@@ -1,5 +1,51 @@
 # networking-dat
 
+
+
+- [[PHY-dat]] - [[networking-dat]] - [[interface-dat]]
+
+## layer 1-4
+
+In networking, L1, L2, L3, and L4 refer to the first four layers of the `OSI (Open Systems Interconnection) model`. Each layer handles a specific step in moving data across a network. 
+
+
+`L1 — Physical Layer`
+What it does: Sends raw bits (1s and 0s) as electrical, light, or radio signals over physical media.
+Key elements: Ethernet cables, fiber optics, Wi-Fi signals, hubs, and network interface hardware. 
+
+`L2 — Data Link Layer`
+What it does: Moves data frames between directly connected devices on the same local network and checks for transmission errors.
+Key elements: MAC addresses, Ethernet frames, switches, and ARP. 
+
+- [[MAC-dat]]
+
+`L3 — Network Layer`
+What it does: Routes data packets across different networks to reach their destination.
+Key elements: IP addresses (IPv4/IPv6), subnets, routers, and routing protocols. 
+
+- [[IP-dat]]
+
+`L4 — Transport Layer`
+What it does: Delivers data reliably and in order between applications, managing ports, flow control, and error recovery.
+Key elements: TCP, UDP, port numbers, and transport-level load balancers or firewalls. 
+
+
+## OSI mode 
+
+The Open Systems Interconnection (OSI) model is a seven-layer conceptual framework created by the International Organization for Standardization (ISO) in 1984 to standardize how different computer systems communicate over a network. Rather than serving as a specific network protocol itself, it acts as a reference guide for designing systems, understanding data flow, and isolating network problems.
+
+The 7 Layers of the OSI Model
+
+- • Layer 7 – Application: Provides network services directly to end-user applications (e.g., web browsers and email clients) using protocols like HTTP, HTTPS, SMTP, and FTP.
+- • Layer 6 – Presentation: Formats, translates, encrypts, or compresses data so the application layer can read it (e.g., SSL/TLS, JSON, HTML).
+- • Layer 5 – Session: Opens, maintains, synchronizes, and closes communication sessions between applications.
+- • Layer 4 – Transport: Handles end-to-end delivery, segmentation, flow control, and reliability using protocols like TCP and UDP.
+- • Layer 3 – Network: Routes packets across different networks using logical addressing, such as IPv4 and IPv6.
+- • Layer 2 – Data Link: Packages data into frames for local network delivery and error checking, using physical/MAC addresses and Ethernet.
+- • Layer 1 – Physical: Transmits raw bits (1s and 0s) as electrical, optical, or radio signals over cables, fiber optics, or wireless media.
+
+
+
 ## Relay Networking
 
 ![](2025-06-26-19-14-24.webp)

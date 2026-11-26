@@ -10,6 +10,24 @@
 
 
 
+## RGMII (Reduced Gigabit Media Independent Interface)
+
+RGMII is a standard interface used between a MAC and a PHY to support Gigabit Ethernet (1 Gbps) connectivity. It is a more compact and efficient version of GMII, reducing the number of data pins.
+
+Features of RGMII:
+
+1. Reduced pin count: Uses only 12 data pins (compared to GMII's 24 pins) by transmitting data on both the rising and falling edges of the clock (DDR - Double Data Rate).
+2. Speed support: Capable of operating at 10 Mbps, 100 Mbps, and 1 Gbps.
+3. Signals in RGMII:
+- TX (Transmit) and RX (Receive) data signals
+- Clock signals for TX and RX
+- Control signals (TX_EN, RX_DV)
+
+RGMII enables the MAC and PHY to communicate effectively while optimizing space and complexity.
+
+
+
+
 
 ## 🌐 What is RGMII?
 

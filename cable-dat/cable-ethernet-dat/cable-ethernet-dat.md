@@ -5,7 +5,7 @@
 
 
 
-
+`CAT.5 UTP cable (Category 5 Unshielded Twisted Pair)` is an older type of Ethernet network cable made of four twisted pairs of copper wire inside an unshielded jacket, supporting speeds up to 100 Mbps over distances up to 100 meters.
 
 
 

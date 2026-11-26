@@ -1,6 +1,10 @@
 
 # fiber-optic-dat
 
+
+- [[fiber-optic-PCB-dat]]
+
+
 info and knowledge 
 
 - [[SFP-transceiver-dat]] - [[SFP-housing-dat]]

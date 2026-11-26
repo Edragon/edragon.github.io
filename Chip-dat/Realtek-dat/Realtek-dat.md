@@ -96,6 +96,8 @@ The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very 
 
 - [[RTL8211-dat]]  - [[ethernet-dat]]
 
+- [[realtek-dat]] - [[RTL8211-dat]] - [[RTL8211FS-dat]] - [[PHY-fiber-to-copper-dat]]
+
 - [[RTL8192-dat]] 
 
 - [[RTL8188-dat]] - [[RTL8189-dat]] - [[TL8189FQB2-DS.pdf]] - [[wifi-dat]]
