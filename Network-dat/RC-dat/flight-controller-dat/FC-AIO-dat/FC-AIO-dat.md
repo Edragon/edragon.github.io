@@ -7,6 +7,14 @@
 - [[flight-controller-dat]] + [[ESC-dat]] + [[VTX-dat]]
 
 
+
+
+## tech 
+
+- [[AT7456E-dat]] - [[FC-AIO-dat]]
+
+
+
 ## AIO 
 
 - [[X12-dat]]

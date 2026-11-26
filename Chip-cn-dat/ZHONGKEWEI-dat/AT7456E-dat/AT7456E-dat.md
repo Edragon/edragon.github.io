@@ -20,4 +20,10 @@ It is widely used in FPV (First-Person View) racing drones, hobbyist UAVs, and f
 
 
 
+## build 
+
+- [[flight-controller-dat]]
+
+![](2026-11-26-16-01-56.png)
+
 ## ref 

@@ -18,7 +18,14 @@
 
 
 
+
+
+
 ## chip 
+
+
+
+- [[DRV8302-dat]] - [[motor-driver-BLDC-dat]] - [[ti-motor-driver-dat]]
 
 - [[LK513-dat]] - [[LKS-dat]] - [[sytatek-dat]] - [[motor-driver-BLDC-dat]]
 

@@ -16,6 +16,18 @@
 
 - [[easycap-dat]]
 
+
+
+
+## tech 
+
+- [[camera-analog-swtich-dat]] - [[camera-analog-dat]]
+
+
+
+
+## USB CAM 
+
 `USB Video Capture Card (Easy & Cheap):`
 
 If you have an analog camera, you can plug its yellow video signal wire and ground wire into an `external USB video capture dongle` (often called an "`EasyCap`" or cheap HDMI/AV USB capture card meant for security cameras or retro gaming).

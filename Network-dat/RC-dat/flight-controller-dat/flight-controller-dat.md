@@ -148,6 +148,12 @@ optional - [[sensor-barometer-dat]]
 
 build 1 - [[SCH-1-F405.pdf]]
 
+- [[flight-controller-dat]] - [[sensor-barometer-dat]] - [[BMP280-dat]]
+
+- [[AT7456E-dat]] - [[FC-AIO-dat]]
+
+
+build 2 - [[F722-V1-mini-AIO.pdf]]
 
 
 

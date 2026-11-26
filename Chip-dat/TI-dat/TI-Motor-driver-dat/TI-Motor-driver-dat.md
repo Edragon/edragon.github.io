@@ -3,7 +3,7 @@
 
 - [[ti-motor-driver-dat]] - [[ti-mosfet-driver-dat]] - [[mosfet-driver-dat]] - [[driver-dat]]
 
-
+- [[DRV8302-dat]] - [[motor-driver-BLDC-dat]] - [[ti-motor-driver-dat]]
 
 - [[DRV8313-dat]]
 

@@ -16,6 +16,15 @@
 
 
 
+
+## analog chip 
+
+- [[switch-chip-dat]] - [[swtich-chip-analog-dat]] - [[camera-analog-swtich-dat]]
+
+- [[TI-switching-dat]] - [[SN74LVC1G3157-dat]] - [[switch-chip-dat]]
+
+
+
 ## chip switch 
 
 

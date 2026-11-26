@@ -192,7 +192,7 @@
 
 - [[sensor-photoelectric-dat]] - [[sensor-light-dat]]
 
-- [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[camera-FPV-dat]]
+- [[sensor-camera-dat]] - [[camera-wireless-dat]] - [[camera-FPV-dat]] - [[camera-analog-dat]] - [[camera-digital-dat]]
 
 
 - [[sensor-color-dat]] - [[sensor-gas-dat]]I
