@@ -62,5 +62,23 @@ X2 电容： 能够承受最高 2.5 kV 的脉冲冲击。
 
 
 
+
+
+
+## X2 
+
+- [[capacitor-X-Y-dat]] - [[capacitor-dat]] - [[CR6842-dat]]
+
+![](2026-07-25-18-49-15.webp)
+
+- [[Capacitor-X2-dat]]  275V 310V 350V 
+
+0.1UF 0.47UF
+
+
+
+
+
+
 ## ref 
 

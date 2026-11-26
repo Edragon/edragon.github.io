@@ -133,6 +133,11 @@ Quick Charge 2.0
 
 - [[TPS251x-dat]] - [[KTG2513-dat]]
 
+- [[southchip-dat]] - [[SC215-dat]] - [[fast-charge-protocols-dat]]
+
+
+
+
 ## apps 
 
 - [[phone-pixel-dat]]

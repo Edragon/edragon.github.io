@@ -5,21 +5,12 @@
 
 - [[capacitor-dat]] - [[capacitor-x2-dat]] - [[capacitor-y-dat]] - [[capacitor-x-y-dat]]
 
+- [[capacitor-y1-dat]] - [[TRX-e-dat]] - [[capacitor-dat]] - [[TMY1102M-dat]]
 
 
+- [[capacitor-y-dat]] - [[capacitor-y1-dat]] 
 
-## X2 
-
-- [[capacitor-X-Y-dat]] - [[capacitor-dat]] - [[CR6842-dat]]
-
-![](2026-07-25-18-49-15.webp)
-
-- [[Capacitor-X2-dat]]  275V 310V 350V 
-
-0.1UF 0.47UF
-
-
-
+- [[capacitor-x-dat]]
 
 
 ## SHM X1400 

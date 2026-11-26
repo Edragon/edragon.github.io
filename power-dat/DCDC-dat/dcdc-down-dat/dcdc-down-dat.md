@@ -102,6 +102,9 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[chengxinwei-dat]] - [[CX8825-dat]] - [[dcdc-down-dat]] - [[SOP8-dat]]
 
+- [[xintan-dat]] - [[NDP13401-dat]] - [[dcdc-down-dat]] == 4A 30V - [[NDP-semi-dat]]
+
+
 
 ### CHIP SIL 
 

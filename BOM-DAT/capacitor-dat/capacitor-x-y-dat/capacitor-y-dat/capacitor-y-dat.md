@@ -5,6 +5,24 @@
 
 - [[capacitor-dat]] - [[capacitor-x2-dat]] - [[capacitor-y-dat]] - [[capacitor-x-y-dat]] - [[acdc-dat]]
 
+
+
+Y1250 
+
+
+`Y1471K400V~`
+
+![](2026-11-26-19-23-16.png)
+
+
+`Y1102M400V~`
+
+![](2026-11-26-19-25-05.png)
+
+
+
+
+
 ## CY1 / CY2 on an AC-DC (SMPS) board: these are Y capacitors
 
 On the PCB of an AC-DC power supply (switching power supply), components marked **CY1**, **CY2** (or C11, C12 and so on — the reference prefix is usually just `C`) are **Y capacitors**.

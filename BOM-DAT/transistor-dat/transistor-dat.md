@@ -18,6 +18,11 @@ common brand: 	Infineon
 
 
 
+## DFN 
+
+- [[Innoscience-dat]] - [[INN700DA480B-dat]] == 700V 480 mΩ - [[transistor-dat]] - [[transistor-power-dat]] 
+
+
 ## SOT-416 
 
 - [[transistor-dat]] == 1N 

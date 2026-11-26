@@ -54,7 +54,7 @@ CY1 CY2 == 常用的典型值是 1 nF ~ 4.7 nF，即 102 ~ 472）
 
 - [[optical-coupler-dat]] - [[PC817-dat]] - [[OR1009-dat]] - [[Orient-dat]]
 
-
+- [[capacitor-x1-dat]] - [[TRX-e-dat]] - [[capacitor-dat]]
 
 
 ## tech 
@@ -260,7 +260,7 @@ Chip Solutions
 
 - [[Grenergy-dat]] - [[GR9382-dat]] - [[acdc-dat]]
 
-
+- [[Meraki-dat]] - [[MOT1145-dat]] - [[MK91808-dat]] - [[acdc-dat]]
 
 
 

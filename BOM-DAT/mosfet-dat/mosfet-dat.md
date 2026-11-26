@@ -205,7 +205,7 @@ DMP2066LSN - P-CHANNEL ENHANCEMENT MODE MOSFET
 
 - [[mosfet-dat]] - [[huayi-dat]] - [[HYG015N10NS1TA-dat]] == 100V/380A - [[TOLL-dat]] - [[ESC-dat]] - [[PCB-footprint-dat]] == ￥16.7
 
-
+- [[mosfet-dat]] - [[YG45N03-dat]] - [[huayi-dat]] == 30V 80A 
 
 
 
@@ -522,6 +522,23 @@ P-Channel Logic Level Enhancement Mode Field Effect Transistor
 
 PK5A7BA PDFN 5x6P Halogen-Free & Lead-Free
 
+
+- [[mot-semi-dat]] - [[MOT3142-dat]] - [[mosfet-dat]] - [[PDFN-dat]] == 30V / 60A
+
+
+- [[Alpha-omega-dat]] - [[AON6788-dat]]
+
+`SSC8029GN2` - P-Channel Enhancement Mode MOSFET
+
+This device is produced with high cell density DMOS trench technology, uses advanced trench technology and design to provide excellent RDSON with low gate charge. This device particularly suits low voltage applications such as portable equipment, power management and other battery powered circuits, and low in-line power dissipation are needed in a very small outline surface mount package.
+
+
+![](2026-05-23-15-04-15.webp)
+
+
+- [[inmark-dat]] - [[MOT1145-dat]] - [[mosfet-dat]] - [[PDFN-dat]] == 75W 100V 90A 4.5mΩ@10V 1 N-channel N-Channel PDFN-8(5x6) Single FETs, MOSFETs 
+
+
 ### powerpak 
 
 `SQJ459EP` - Automotive P-Channel 60 V (D-S) 175 °C MOSFET - 60V 50A 
@@ -610,18 +627,6 @@ The AM9435 is available in SOP8 Package
 
 
 
-## mosfet DFN / QFN
-
-- [[PCB-footprint-dat]]
-
-- [[Alpha-omega-dat]] - [[AON6788-dat]]
-
-`SSC8029GN2` - P-Channel Enhancement Mode MOSFET
-
-This device is produced with high cell density DMOS trench technology, uses advanced trench technology and design to provide excellent RDSON with low gate charge. This device particularly suits low voltage applications such as portable equipment, power management and other battery powered circuits, and low in-line power dissipation are needed in a very small outline surface mount package.
-
-
-![](2026-05-23-15-04-15.webp)
 
 
 
