@@ -21,6 +21,11 @@
 - [[RDA5820-dat]]
 
 
+- [[Quintic-dat]] - [[QN8035-dat]] - [[radio-FM-dat]]
+
+
+
+
 ## board
 
 - [[radio-FM-dat]] - [[NRF2007-dat]] - [[NRF2001-dat]] - [[NRF2004-dat]]

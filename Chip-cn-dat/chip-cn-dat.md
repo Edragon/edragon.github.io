@@ -89,14 +89,11 @@
 
 
 
-
+- [[lowpowersemi-dat]]
 
 - [[LGT-dat]] - [[LGT8F328-DAT]] - [[LGT-SDK-dat]]
 
 - [[natlinear-dat]]
-
-
-
 
 
 

@@ -264,6 +264,16 @@ ADC0809 是带有 8 位 A/D 转换器、8 路多路开关以及微处理机兼�
 
 ## build 
 
+
+unknown build 2 
+
+- [[LP4068-dat]]
+
+65A2 HC311000C QFN MCU
+
+![](2026-11-26-17-43-39.png)
+
+
 build 1 
 
 - [[MCU-dat]] - [[cmsemicon-dat]] - [[SC8F5775-dat]] - [[sensor-microphone-dat]]

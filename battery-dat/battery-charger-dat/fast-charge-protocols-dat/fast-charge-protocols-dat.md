@@ -129,9 +129,9 @@ Quick Charge 2.0
 
 - [[injoinic-dat]] - [[IP2726-dat]] - [[IP2752-dat]] - [[fast-charge-protocols-dat]]
 
+- [[TI-dat]] - [[TPS251x-dat]] - [[TPS2561-dat]] - [[fast-charge-protocols-dat]] - [[TI-usb-charger-dat]]
 
-
-
+- [[TPS251x-dat]] - [[KTG2513-dat]]
 
 ## apps 
 

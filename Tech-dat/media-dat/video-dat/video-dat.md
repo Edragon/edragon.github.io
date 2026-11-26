@@ -51,7 +51,7 @@
 
 - [[video-dat]] - [[video-line-driver-dat]]
 
-
+- [[video-dat]] - [[video-amplifier-dat]] - [[amplifier-dat]]
 
 
 

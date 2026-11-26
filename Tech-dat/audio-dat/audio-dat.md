@@ -3,7 +3,7 @@
 
 
 
-
+- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]]
 
 ## info 
 
@@ -64,7 +64,7 @@ Instead of driving a tiny speaker with a built-in Class-D amplifier (which adds 
 
 - [[MIDI-dat]]
 
-- [[codec-audio-dat]] - [[codec-dat]] - [[audio-dat]]
+
 
 - [[infrared-app-dat]] - [[LM386-dat]] - [[infrared-dat]] - [[audio-dat]] - [[app-dat]]
 

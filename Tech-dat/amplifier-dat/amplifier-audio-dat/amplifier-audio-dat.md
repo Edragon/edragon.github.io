@@ -57,7 +57,7 @@
 
 - [[PCM1808-dat]] - [[I2S-dat]]
 
-
+- [[amplifier-audio-dat]] - [[megapower-dat]] - [[MC4863PD-dat]] - Dual 2.2W Audio Amplifier Plus Stereo Headphone Function
 
 
 ## chip 

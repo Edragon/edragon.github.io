@@ -32,6 +32,9 @@
 
 ## chip 
 
+
+- [[LP4068-dat]] - [[battery-charger-1s-dat]] - [[TP4068-dat]] - [[TP-dat]]
+
 - [[LTC4064-dat]] - [[SGM4064-dat]] - [[AD-power-dat]]
 
 - [[hichon-dat]] - [[SM5202-dat]] - [[battery-charger-dat]] - [[battery-charger-1s-dat]]

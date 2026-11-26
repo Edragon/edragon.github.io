@@ -261,7 +261,23 @@ Chip Solutions
 
 ## build 
 
+
+
+
+
+build 12 
+
+![](2026-11-26-17-15-35.png)
+
+- [[CRE6255-dat]] - [[CRE6905-dat]] - [[cresemi-dat]]
+
+- [[switch-dat]]
+
+
 - [[acdc-dat]] - [[led-driver-dat]] - [[ACDC-led-driver-dat]]
+
+![](2026-11-26-17-25-16.png)
+
 
 
 ### build 11 
