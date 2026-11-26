@@ -9,7 +9,7 @@
 - [[RJ45-dat]] - [[ethernet-dat]]
 
 
-
+- [[RTL8213-dat]] - [[RTL8211-dat]] - [[PHY-fiber-to-copper-dat]]
 
 
 ## chip info 

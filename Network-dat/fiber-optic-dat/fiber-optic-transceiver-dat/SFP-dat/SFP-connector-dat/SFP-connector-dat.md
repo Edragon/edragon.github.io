@@ -4,7 +4,7 @@
 
 - [[SFP-dat]] - [[SFP-cage-dat]] - [[SFP-connector-dat]]
 
-
+- [[fiber-optic-PCB-dat]] - [[phy-dat]] - [[phy-fiber-to-copper-dat]] 
 
 ## design 
 

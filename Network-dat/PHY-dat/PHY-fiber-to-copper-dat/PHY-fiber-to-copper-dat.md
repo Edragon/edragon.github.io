@@ -3,15 +3,28 @@
 
 # PHY-fiber-to-copper-dat
 
+
+
+- [[fiber-optic-PCB-dat]] - [[phy-dat]] - [[phy-fiber-to-copper-dat]] 
+
+
+
 - [[PHY-dat]] - [[fiber-optic-dat]] - [[ethernet-dat]] - [[PHY-fiber-to-copper-dat]]
 
 - [[RGMII-dat]] - [[MAC-dat]] 
   
-- [[SerDes-dat]]
+- [[SerDes-dat]] - [[fiber-optic-interface-dat]] - [[fiber-optic-dat]]
 
 
 
-## 方案一：光模块转 RJ45 网线（做成“光纤收发器”）
+## options 
+
+- [[RTL8213-dat]] - [[RTL8211-dat]] - [[PHY-fiber-to-copper-dat]]
+
+
+
+
+### 方案一：光模块转 RJ45 网线（做成“光纤收发器”）
 
 如果你想把光信号直接变成普通的 RJ45 网口（双绞线），只需要一颗支持“光转电（Fiber-to-Copper Media Converter）”模式的双模 PHY 芯片，甚至不需要单片机或 CPU 参与数据转发。
 
@@ -34,7 +47,7 @@ SFP光模块 (1000BASE-X) $\rightarrow$ PHY 芯片 (光电转换模式) $\righta
 ![](2026-11-27-01-00-28.png)
 
 
-## 方案二：光模块对接单片机 / SoC / FPGA（RGMII / RMII 接口）
+### 方案二：光模块对接单片机 / SoC / FPGA（RGMII / RMII 接口）
 
 - [[RMII-dat]] - [[PHY-dat]]
 
@@ -53,7 +66,7 @@ RTL8211FS / YT8521S / 88E1512（均支持一侧接 SFP 的 1000BASE-X 差分线�
 
 
 
-## 方案三：主控自带高速 SerDes 接口（直连，无需转换芯片）
+### 方案三：主控自带高速 SerDes 接口（直连，无需转换芯片）
 
 - [[Serdes-dat]] - [[MT7621-dat]] - [[MT7981-dat]] - [[IPQ6000-dat]] - [[RK3588-dat]] - [[mediatek-dat]] - [[PHY-fiber-to-copper-dat]]
 
