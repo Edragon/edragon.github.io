@@ -12,6 +12,10 @@
 
 ## chip 
 
+
+- [[XB7608-dat]] - [[battery-protector-1s-dat]] - [[xysemi-dat]]
+
+
 - [[FM5088SS-dat]] - [[fuman-dat]] - [[battery-protector-1s-dat]]
 
 - [[ABLIC-dat]] - [[battery-1s-dat]] 

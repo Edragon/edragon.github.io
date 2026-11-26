@@ -59,8 +59,9 @@
 
 - [[amplifier-audio-dat]] - [[megapower-dat]] - [[MC4863PD-dat]] - Dual 2.2W Audio Amplifier Plus Stereo Headphone Function
 
+- [[XA8871-dat]] - [[XPtek-dat]] - [[amplifier-audio-dat]]
 
-## chip 
+
 
 
 - [[amplifier-audio-dat]] - [[ST-audio-amp-dat]] - [[TDA7377-dat]] - [[TDA7375-dat]] - [[TDA7294-dat]]

@@ -53,6 +53,15 @@ https://doc.zh-jieli.com/vue/#/home
 - [[amplifier-audio-dat]]
 
 
+## AC19AP1R751
+
+![](2026-11-26-17-46-14.png)
+
+- [[XA8871-dat]] - [[XPtek-dat]] - [[amplifier-audio-dat]]
+
+- [[battery-protector-1s-dat]] - [[fuman-dat]] - [[DW06-dat]]
+
+
 ## BP1V081
 
 - [[TP4054-dat]]

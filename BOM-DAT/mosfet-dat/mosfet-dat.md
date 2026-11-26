@@ -143,6 +143,14 @@ PDFNWB-8L-EP(5x6)
 DFN-8 (3x3)
 - DFN-8(3x3)
 
+6904 - SSFP6904 - PDC6904 - PDS6904  - AP6904 - GSMDS6904 == 60V 50A 
+
+- BP6904 - [[bps-dat]] - [[BP6904-dat]] - [[driver-pre-bridge-dat]]
+
+
+
+
+
 ## common cheap 
 
 30N06/40N06/50N06 - 30A/40A/50A

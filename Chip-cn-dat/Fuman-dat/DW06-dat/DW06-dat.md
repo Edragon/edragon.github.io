@@ -2,7 +2,11 @@
 
 # DW06-dat
 
-- [[battery-protector-dat]] - [[fuman-dat]] - [[DW06-dat]]
+
+
+FM DW06D/J
+
+- [[battery-protector-dat]] - [[battery-protector-1s-dat]] - [[fuman-dat]] - [[DW06-dat]]
 
 
 二合一锂电池保护IC - DW06D

@@ -1,6 +1,15 @@
 
 # BPS-dat
 
+
+
+
+- BP6904 - [[bps-dat]] - [[BP6904-dat]] - [[driver-pre-bridge-dat]]
+
+
+
+
+
 - [[BP9022-dat]] - [[BP9021-dat]] - [[BPS-dat]] - [[LED-driver-PSR-dat]] - [[OPM1101-dat]]
 
 

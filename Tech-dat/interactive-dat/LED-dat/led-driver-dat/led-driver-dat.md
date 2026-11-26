@@ -262,6 +262,15 @@ Current Push vs Pull: Power Supply & LED
 ## build 
 
 
+build 9 
+
+LH - [[vishay-dat]] - [[led-driver-dat]] - [[TVS-dat]]
+
+- [[mosfet-dat]]
+
+![](2026-11-26-18-00-02.png)
+
+
 build 8 - [[TP8556-dat]] - [[TP-dat]]
 
 ![](2026-11-22-17-28-47.png)
@@ -271,7 +280,7 @@ build 8 - [[TP8556-dat]] - [[TP-dat]]
 
 build 7 - no drive chip 
 
-- [[2N7002-dat]] 
+- [[2N7002-dat]] - 7002E
 
 ![](2026-09-22-19-56-14.webp)
 
