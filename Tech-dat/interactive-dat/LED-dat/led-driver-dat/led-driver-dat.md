@@ -42,7 +42,7 @@ https://w.electrodragon.com/w/LED_Drive
 
 - [[constant-current-dat]]
 
-
+- [[acdc-led-driver-dat]] - [[led-driver-dat]]
 
 
 ## Common questions 
@@ -101,6 +101,10 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 ## chip 
 
+- [[powtech-dat]] - [[PT4103-dat]] - [[PT4115-dat]] - [[PT4121-dat]]
+
+- [[powtech-dat]] - [[PT4121-dat]] - [[led-driver-dat]] - [[LED-dat]] - [[LED-5730-dat]]
+
 
 - [[linkage-dat]] - [[SM2123E-dat]] - [[led-driver-dat]] 
 
@@ -116,7 +120,6 @@ https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 - [[silergy-dat]] - [[SY7200-dat]] - [[SY7201-dat]] - [[SY7301-dat]]
 
-- [[powtech-dat]] - [[PT4103-dat]] - [[PT4115-dat]]
 
 - [[CN5711-dat]] - [[consonance-dat]]
 

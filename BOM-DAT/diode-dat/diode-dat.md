@@ -47,6 +47,9 @@
 
 ## chip 
 
+
+- [[diode-dat]] - [[fuxinsemi-dat]] - [[ST20100L-dat]] - [[PT4121-dat]] - [[led-driver-dat]] == 100V / 20A
+
 - [[diode-zener-dat]]
 
 - [[comchip-dat]] - [[diode-dat]]

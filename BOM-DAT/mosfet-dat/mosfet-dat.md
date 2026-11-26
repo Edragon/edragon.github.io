@@ -96,6 +96,9 @@ common brand: [[Vishay-dat]]
 
 - [[onsemi-dat]] - [[onsemi-mosfet-dat]]
 
+- [[mosfet-dat]] - [[NTMFS5C670NL-dat]] - [[onsemi-dat]] - 60 V, 6.1 m, 71 A
+
+
 - [[NCEpower-mosfet-dat]] 
 
 - [[mosfet-dat]] - [[infineon-dat]] - [[infineon-mosfet-dat]]
