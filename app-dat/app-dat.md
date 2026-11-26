@@ -61,6 +61,13 @@
 
 
 
+## consumer 
+
+- [[electronics-consumer-dat]] - [[apple-dat]]
+
+- [[xiaomi-dat]] - [[insta360-dat]] - [[tplink-dat]]
+
+
 ## vision 
 
 - [[sensor-camera-dat]] - [[camera-thermal-dat]] - [[camera-IP-dat]]
