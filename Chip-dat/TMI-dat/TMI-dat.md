@@ -2,6 +2,11 @@
 # TMI-dat
 
 
+- [[TMI-dat]] - [[TOLL-dat]] - [[TMI3113-dat]] - [[TMI3411-dat]] - [[TMI3408-dat]] == pin-to-pin compatible
+
+- [[TMI-dat]] - [[TOLL-dat]] - [[TMI3113-dat]] - [[TMI3411-dat]] - [[TMI3408-dat]]
+
+
 - [[TMI-dat]] - [[STI3470-dat]] - [[dcdc-down-dat]] - [[IP6826-dat]] == `S47B`
 
 

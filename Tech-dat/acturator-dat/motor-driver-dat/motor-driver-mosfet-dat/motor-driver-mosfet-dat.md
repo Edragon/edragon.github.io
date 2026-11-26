@@ -2,6 +2,13 @@
 
 # motor-driver-mosfet-dat
 
+
+
+- [[motor-driver-mosfet-dat]] - [[VESC-dat]]
+
+
+
+
 - [[motor-driver-mosfet-dat]] - [[motor-driver-dat]] - [[motor-driver-design-dat]] - [[motor-driver-dead-time-protection-dat]] - [[ELRS-TX-setup-motor-dual-dat]]
 
 - [[ESP32-dat]]
@@ -11,6 +18,20 @@
 
 
 - [[WIFI-dat]] - [[ELRS-dat]] - [[WIFI-code-dat]] - [[ELRS-dat]]
+
+
+
+
+## build 
+
+- [[dcdc-down-dat]] - [[EG-micro-dat]] - [[EG1198-dat]]
+
+
+
+
+
+
+## info 
 
 
 ### Smart MCU Safety Firewall Architecture

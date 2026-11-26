@@ -40,11 +40,19 @@
 - [[VESC-dat]] - [[ESC-dat]] - [[M620-dat]] - [[bafang-dat]]
 
 
+## build 
+
+- [[VESCV4-V2-low-detect.pdf]]
+
+- [[TJA1042-dat]] - [[CAN-dat]]
+
+- [[motor-driver-mosfet-dat]] - [[VESC-dat]]
+
 
 
 ## ref 
 
-- [[INA240-dat]]
+- [[INA240-dat]] - [[sensor-current-dat]]
 
 
 - [[VESC]] - [[motor-driver]]

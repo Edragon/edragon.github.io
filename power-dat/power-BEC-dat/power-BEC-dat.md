@@ -7,6 +7,15 @@
 
 
 
+
+## common use 
+
+- [[MP9943-dat]] 5V / 9V 
+
+
+
+
+
 ## BEC to gopro 
 
 - [[gopro-dat]] 

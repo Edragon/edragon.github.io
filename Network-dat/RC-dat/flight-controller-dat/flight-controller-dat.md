@@ -146,6 +146,11 @@ optional - [[sensor-barometer-dat]]
 - [[flight-controller-dat]] - [[FC-AIO-dat]] - [[FC-stack-dat]]
 
 
+build 1 - [[SCH-1-F405.pdf]]
+
+
+
+
 ## ref 
 
 - [[app]] - [[flight-controller]]

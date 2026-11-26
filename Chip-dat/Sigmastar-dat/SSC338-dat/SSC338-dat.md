@@ -138,6 +138,14 @@ peripherals - [[flash-dat]] - [[MIPI-dat]]
 
 - [[8002-dat]]
 
+
+## build 
+
+- [[MP9447-dat]] - [[dcdc-down-dat]] - [[TMI3113B-dat]] - [[TMI-dat]]
+
+build 1 - [[openipc-ssc338q-1.pdf]]
+
+
 ## ref 
 
 https://oshwhub.com/cheng_jun/ssc338q-diao-can-yi-ti

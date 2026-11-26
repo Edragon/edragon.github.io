@@ -100,6 +100,9 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[dcdc-down-dat]] - [[RY8310-dat]] - [[rychip-dat]] == 30V 1A - [[FPV-dat]]
 
+
+
+
 ### CHIP SIL 
 
 TPS82084(2-A)/TPS82085(3-A) 高效降压转换器MicroSiPTM模块
@@ -123,7 +126,11 @@ compact and high HV input
 
 integrated [[mosfet-dat]] - [[dcdc-down-dat]] - [[JW5017-dat]] - [[joulwatt-dat]] - [[caddx-ant-dat]]
 
+- [[dcdc-down-dat]] - [[EG-micro-dat]] - [[EG1198-dat]] == 120V 1.5A 
 
+high current 
+
+- [[MPS-dat]] - [[MP9447-dat]] == 36V 5A 
 
 
 

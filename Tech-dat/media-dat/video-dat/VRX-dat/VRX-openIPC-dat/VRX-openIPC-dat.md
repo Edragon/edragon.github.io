@@ -16,7 +16,7 @@
 
 - [[VTX-openIPC-dat]] 
 
-
+- [[frequency-dat]] - [[5.8Ghz-dat]] - [[2.4ghz-dat]]
 
 ## tech stack 
 
@@ -65,7 +65,12 @@ OpenIPC 地面站（SBC + WiFi 网卡解码）
 
 
 
-## 地面端与接收平台方案（怎么接屏幕）
+
+## software 
+
+Windows 地面端 Aviateur_0.1.2.zip
+
+### 地面端与接收平台方案（怎么接屏幕）
 
 WFB-NG 接收到无线射频并解包后，需要将视频流（RTP/UDP）输出给显示设备。目前主流的地面端承载方案有：
 
@@ -83,7 +88,9 @@ WFB-NG 接收到无线射频并解包后，需要将视频流（RTP/UDP）输出
 
 
 
-## PixelPilot_rk
+### PixelPilot_rk
+
+- [[pixelpilot-dat]]
 
 OpenIPC/PixelPilot_rk
 

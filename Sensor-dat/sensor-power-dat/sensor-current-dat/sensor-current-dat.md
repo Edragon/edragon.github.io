@@ -30,7 +30,7 @@
 
 
 
-- [[sensor-current-dat]] - [[INA199-dat]] - [[ESC-FPV-dat]]
+- [[sensor-current-dat]] - [[INA199-dat]] - [[ESC-FPV-dat]] - [[INA240-dat]] - [[sensor-current-dat]] - [[VESC-dat]]
 
 
 
