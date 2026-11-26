@@ -4,7 +4,7 @@
 
 
 
-- [[motor-driver-mosfet-dat]] - [[VESC-dat]]
+- [[motor-driver-mosfet-dat]] - [[VESC-dat]] - [[ESC-dat]]
 
 
 
@@ -24,7 +24,7 @@
 
 ## build 
 
-- [[dcdc-down-dat]] - [[EG-micro-dat]] - [[EG1198-dat]]
+- [[dcdc-down-dat]] - [[EG-micro-dat]] - [[EG1198-dat]] - [[VESC-dat]]
 
 
 

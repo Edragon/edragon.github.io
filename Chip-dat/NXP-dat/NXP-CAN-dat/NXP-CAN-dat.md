@@ -6,6 +6,8 @@
 ## Chips 
 
 
+- [[TJA1042-dat]] - [[CAN-dat]] - [[NXP-can-dat]] - [[TJA1050-dat]]
+
 - [[TJA1050-dat]]
 
 - TJA1040

@@ -1,5 +1,9 @@
 
-# TI-Motor-dat
+# TI-Motor-driver-dat
+
+- [[ti-motor-driver-dat]] - [[ti-mosfet-driver-dat]] - [[mosfet-driver-dat]] - [[driver-dat]]
+
+
 
 - [[DRV8313-dat]]
 
@@ -15,13 +19,13 @@
 
 - [[DRV8701-dat]]
 
-- [[DRV8412-dat]] - [[TI-motor-dat]] - [[DRV84x2-dat]]
+- [[DRV8412-dat]] - [[TI-motor-driver-dat]] - [[DRV84x2-dat]]
 
 
-- [[TI-motor-dat]] - [[ULN2003-dat]] - [[Darlington-transistor-array-dat]] - [[ULN2804-dat]] - [[transistor-dat]]
+- [[TI-motor-driver-dat]] - [[ULN2003-dat]] - [[Darlington-transistor-array-dat]] - [[ULN2804-dat]] - [[transistor-dat]]
 
 
-
+- [[ULN2003-dat]] - [[ULN2803-dat]] - [[ULN2804-dat]]
 
 
 DRV8701 Brushed DC Motor Full-Bridge Gate Driver

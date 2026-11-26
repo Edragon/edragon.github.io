@@ -30,6 +30,15 @@
 | **Safety Features** | Minimal | **Temperature & Overcurrent Protection** |
 | **Data Logging** | None | **Real-time Telemetry via USB/Bluetooth** |
 
+
+
+
+## chip 
+
+- [[DRV8302-dat]] - [[TI-motor-driver-dat]] - [[motor-driver-BLDC-dat]] - [[VESC-dat]] - [[TI-dat]]
+
+
+
 ## VESC boards 
 
 ![](2026-03-02-22-09-43.webp)
@@ -46,7 +55,14 @@
 
 - [[TJA1042-dat]] - [[CAN-dat]]
 
-- [[motor-driver-mosfet-dat]] - [[VESC-dat]]
+- [[motor-driver-mosfet-dat]] - [[VESC-dat]] - [[ESC-dat]]
+
+![](2026-11-26-15-36-19.png)
+
+- [[dcdc-down-dat]] - [[EG-micro-dat]] - [[EG1198-dat]] - [[VESC-dat]] - [[LM7805-dat]] - [[LDO-dat]]
+
+![](2026-11-26-15-37-21.png)
+
 
 
 
