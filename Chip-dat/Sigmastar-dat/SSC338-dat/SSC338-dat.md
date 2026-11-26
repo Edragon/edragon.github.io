@@ -95,7 +95,7 @@ Form factor	Modular board (no enclosure)
 
 ## build 
 
-- [[SSC338-dat]] - [[conn-DF56C-dat]] - [[IMX415-dat]]
+- [[SSC338-dat]] - [[conn-DF56-dat]] - [[IMX415-dat]]
 
 ![](2026-10-02-01-46-37.webp)
 

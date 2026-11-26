@@ -17,6 +17,11 @@
 
 - [[camera-CSI-dat]] - [[MIPI-CSI-dat]] - [[MIPI-DSI-dat]]
 
+- [[conn-DF56-dat]] - [[sensor-camera-dat]] - [[MIPI-dat]]
+
+
+
+
 
 
 ## design and fab  

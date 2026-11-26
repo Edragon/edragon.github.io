@@ -85,6 +85,8 @@ from a to z
 
 - [[silicon-labs-dat]]
 
+- [[sony-dat]]
+
 - [[toshiba-dat]] 
 
 - [[TI-dat]] - [[ti-motor-dat]] - [[ti-audio-dat]] - [[ti-logic-dat]] - [[NE555-dat]] - [[TI-network-dat]] - [[ti-power-dat]]
