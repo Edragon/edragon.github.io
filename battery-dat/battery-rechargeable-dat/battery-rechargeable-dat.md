@@ -15,7 +15,7 @@
 
 - [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-liHV-dat]] - [[battery-li-LFP-dat]] - [[battery-NiMH-dat]] - [[battery-lead-acid-dat]]
 
-
+- [[battery-li-pouch-dat]] - [[battery-li-dat]] - [[battery-li-ternary-dat]]
 
 
 ### 1. LiPo (Lithium Polymer) 锂聚合物电

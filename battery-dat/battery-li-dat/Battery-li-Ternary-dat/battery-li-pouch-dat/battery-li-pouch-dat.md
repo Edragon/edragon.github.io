@@ -92,3 +92,4 @@ the shape of the soft pack battery can be determined by specific business needs,
 ## ref 
 
 
+- [[battery-li]] - [[battery-li-pouch]]

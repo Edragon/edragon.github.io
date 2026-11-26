@@ -11,6 +11,13 @@
 
 
 
+
+## tech 
+
+- [[xiongmai-dat]] - [[cable-ethernet-dat]] - [[IVG-G4H-dat]] - [[camera-IP-dat]]
+
+
+
 ## chip 
 
 
@@ -72,6 +79,12 @@
 
 
 
+
+## build 
+
+![](2026-11-26-14-13-24.png)
+
+![](2026-11-26-14-13-50.png)
 
 ## demo 
 

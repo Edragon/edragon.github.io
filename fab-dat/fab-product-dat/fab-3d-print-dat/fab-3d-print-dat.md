@@ -2,6 +2,7 @@
 # fab-3d-print-dat.md
 
 
+- [[screw-dat]] - [[fab-3d-print-dat]]
 
 
 - [[plastic-dat]] - [[plastic-structure-dat]] - [[case-plastic-dat]] - [[case-dat]] - [[fab-3d-print-dat]] - [[injection-molding-dat]] - [[fab-molding-dat]]
@@ -40,6 +41,16 @@
 ## tech 
 
 - [[Lithophane-dat]]
+
+
+
+## design 
+
+common use M2 screw - [[screw-M2-dat]] - [[screw-dat]]
+
+![](2026-11-26-14-16-40.png)
+
+
 
 ## features 
 

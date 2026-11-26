@@ -2,6 +2,11 @@
 # screws-dat
 
 
+
+
+- [[screw-dat]] - [[fab-3d-print-dat]]
+
+
 - [[bolt-dat]] - [[mechanical-parts-dat]] - [[screw-dat]] - [[thread-dat]] - [[nut-dat]] - [[washer-dat]]
 
 
@@ -13,6 +18,15 @@
 - [[Heat-Set-Insert-dat]]
 
 - [[screws-torx-dat]] - [[screws-dat]] - [[screw-uncommon-dat]]
+
+
+
+## design guideline
+
+M2 
+
+![](2026-11-26-14-18-56.png)
+
 
 
 ## drivers

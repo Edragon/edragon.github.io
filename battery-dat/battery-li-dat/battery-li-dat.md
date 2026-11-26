@@ -4,6 +4,10 @@
 
 - [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-liHV-dat]] - [[battery-li-LFP-dat]] - [[battery-NiMH-dat]] - [[battery-lead-acid-dat]]
 
+
+
+
+
 ## info 
 
 - [[battery-BMS-dat]] - [[battery-charger-dat]]
@@ -18,6 +22,12 @@
 - [[battery-li-dat]] - [[battery-1s-dat]]
 
 - [[battery-pack-dat]]
+
+
+- [[battery-li-pouch-dat]] - [[battery-li-dat]] - [[battery-li-ternary-dat]]
+
+- [[battery-li-dat]] - [[battery-pack-li-dat]]
+
 
 ## battery li types 
 

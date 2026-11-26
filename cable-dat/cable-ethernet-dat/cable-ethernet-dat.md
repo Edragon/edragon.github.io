@@ -10,9 +10,27 @@
 
 
 
-- [[cable-dat]] - [[cable-ethernet-dat]]
+- [[cable-dat]] - [[cable-ethernet-dat]] - [[ethernet-dat]]
 
 ![](2026-09-19-03-16-07.webp)
+
+8 pin 
+
+![](2026-11-26-14-12-04.png)
+
+
+
+
+## build 
+
+![](2026-11-26-14-14-20.png)
+
+
+## waterproof 
+
+![](2026-11-26-14-14-59.png)
+
+![](2026-11-26-14-15-14.png)
 
 
 
@@ -22,7 +40,9 @@
 
 
 
+## app
 
+- [[xiongmai-dat]] - [[cable-ethernet-dat]] - [[IVG-G4H-dat]] - [[camera-IP-dat]]
 
 
 

@@ -1,11 +1,11 @@
 
-# battery-pack-dat
+# battery-pack-li-dat
 
-- [[battery-pack-dat]] - [[battery-pack-solderless-dat]]
+- [[battery-pack-li-dat]] - [[battery-pack-solderless-dat]]
 
 - [[battery-holder-dat]] - [[battery-holder-18650-dat]] - [[battery-holder-AA-dat]]
 
-- [[battery-pack-dat]] - [[battery-pack-kit-dat]] - [[battery-pack-materials-dat]] - [[battery-pack-build-dat]]
+- [[battery-pack-li-dat]] - [[battery-pack-kit-dat]] - [[battery-pack-materials-dat]] - [[battery-pack-build-dat]]
 
 - [[battery-pack]] - [[battery-size-dat]] - [[battery-li-dat]]
 
@@ -33,7 +33,7 @@
 
 - [[insulator-dat]] - [[fab-PCB-soldering-dat]]
 
-- [[battery-pack-dat]] - [[battery-pack-LFP-dat]] 
+- [[battery-pack-li-dat]] - [[battery-pack-LFP-dat]] 
 
 - [[battery-pack-design-dat]] 
 

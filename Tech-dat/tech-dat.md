@@ -61,7 +61,7 @@
 
 - [[dcdc-boost-down-dat]]
 
-- [[battery-dat]] - [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]] - [[battery-lead-acid-dat]]
+- [[battery-dat]] - [[battery-rechargeable-dat]] - [[battery-li-dat]] - [[battery-li-LFP-dat]] - [[Battery-li-Ternary-dat]] - [[battery-lead-acid-dat]] - [[battery-li-pouch-dat]]
 
 - [[battery-BMS-dat]] - [[BMS-active-dat]] - [[BMS-passive-dat]] - [[battery-protector-dat]]
 
@@ -130,7 +130,7 @@
 
 - [[RFID-dat]] - [[NFC-dat]]
 
-- [[ethernet-dat]] 
+- [[ethernet-dat]] - [[cable-ethernet-dat]]
 
 - [[USB-SDK-dat]] - [[USB-type-C-dat]] - [[USB-PD-dat]] - [[USB-3.0-dat]] - [[USB-hub-dat]] - [[USB-OTG-dat]]
 

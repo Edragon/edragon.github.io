@@ -5,6 +5,9 @@
 
 - [[NCM-dat]] - [[NCA-dat]] - [[battery-NCM-NCA-dat]] - [[Battery-li-Ternary-dat]]
 
+- [[battery-li-pouch-dat]] - [[battery-li-dat]] - [[battery-li-ternary-dat]]
+
+
 
 
 
