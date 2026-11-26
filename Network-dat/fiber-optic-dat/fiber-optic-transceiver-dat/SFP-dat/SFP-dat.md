@@ -8,6 +8,9 @@
 
 - [[SFP-cage-dat]] - [[SFP]] - [[pmod-dat]]
 
+- [[SFP-openSFP-dat]]
+
+
 Most SFP modules use LC connectors, though some may use SC (older gear) or others for special applications. - [[LC-connector-dat]]
 
 
@@ -32,7 +35,7 @@ Inside the metal casing of a transceiver, there are several components and sub-a
 
 ## 🔌 Common SFP Solutions for Optical Fiber
 
-SFP (Small Form-factor Pluggable) modules are compact, hot-swappable transceivers used to connect networking equipment (like switches and routers) to fiber optic or copper cables.
+`SFP (Small Form-factor Pluggable)` modules are compact, hot-swappable transceivers used to connect networking equipment (like switches and routers) to fiber optic or copper cables.
 
 ### 📦 Common Types of SFP Modules
 

@@ -19,7 +19,7 @@
 
 ## options 
 
-- [[RTL8213-dat]] - [[RTL8211-dat]] - [[PHY-fiber-to-copper-dat]]
+- [[RTL8213-dat]] - [[RTL8211-dat]] - [[PHY-fiber-to-copper-dat]] - [[realtek-dat]]
 
 
 

@@ -118,7 +118,7 @@
 
 - [[network-system-dat]]
 
-- [[fiber-optic-dat]]
+- [[fiber-optic-dat]] - [[SFP-dat]]
 
 - [[lora-dat]] - [[SX1262-dat]]
 

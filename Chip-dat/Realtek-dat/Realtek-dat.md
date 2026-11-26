@@ -1,6 +1,13 @@
 
 # Realtek-dat
 
+
+- [[RTL8213-dat]] - [[RTL8211-dat]] - [[PHY-fiber-to-copper-dat]] - [[realtek-dat]]
+
+- [[phy-fiber-to-usb-dat]] - [[RTL8153-dat]] - [[realtek-dat]] - [[RTL8156-dat]] - [[serdes-dat]]
+
+
+
 - [[realtek-dat]] - [[ralink-dat]] - [[wifi-adapter-dat]]
 
 

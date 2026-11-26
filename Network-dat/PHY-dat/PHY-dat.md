@@ -15,6 +15,11 @@
 - [[1000BASE-X-dat]] - [[100BASE-FX-dat]] - [[PHY-dat]] - [[RTL8213-dat]] - [[SFP-dat]]
 
 
+
+- [[phy-fiber-to-usb-dat]] - [[phy-fiber-to-copper-dat]] - [[phy-dat]]
+
+
+
 ## speed base 
 
 These names are IEEE 802.3 Ethernet physical-layer (PHY) standards. Each label breaks down into **Speed** + **BASE** (baseband signaling) + **Medium/Coding**:

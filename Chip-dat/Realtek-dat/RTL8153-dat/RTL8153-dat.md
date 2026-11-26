@@ -5,6 +5,10 @@
 
 - [[AX88179-dat]] - [[RTL8153-dat]] - [[USB-controller-dat]] - [[USB-hub-dat]] - [[USB-converter-dat]]
 
+- [[phy-fiber-to-usb-dat]] - [[RTL8153-dat]] - [[realtek-dat]] 
+
+
+
 
 
 ## SCH 
