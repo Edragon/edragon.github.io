@@ -29,6 +29,14 @@
 
 
 
+
+## build 
+
+- [[VTX-openIPC-dat]] - option 1. == [[IVG-G4H-dat]] ++ [[RTL8812EU-dat]]
+
+
+
+
 ## OSD 
 
 - [[hi3516-dat]] - [[OSD-dat]]

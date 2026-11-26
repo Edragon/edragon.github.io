@@ -14,6 +14,16 @@
 
 
 
+## app 
+
+- [[VTX-openIPC-dat]] - option 1. == [[IVG-G4H-dat]] ++ [[RTL8812AU-dat]]
+
+
+
+
+## info 
+
+
 ## IVG-G4H
 
 
@@ -132,6 +142,8 @@ IVG-G4H是我司开发的一款400万低照度AI智能网络摄像机模组，40
 
 ### openIPC 
 
+- [[openIPC-dat]]
+
 GK7205V210 有 OpenIPC 官方支持
 
 ⭐ OpenIPC 官方仓库里存在 gk7205v210_lite_defconfig
@@ -153,6 +165,15 @@ GK7205V210 有 OpenIPC 官方支持
 
 
 ## pin 
+
+
+pin V2 
+
+![](2026-11-26-16-29-52.png)
+
+![](2026-11-26-16-30-02.png)
+
+pin V1 
 
 ![](2026-11-25-20-38-46.png)
 
