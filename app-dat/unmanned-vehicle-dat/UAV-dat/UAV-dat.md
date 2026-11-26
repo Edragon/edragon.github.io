@@ -19,6 +19,8 @@ A UAV stands for Unmanned Aerial Vehicle. It's an aircraft without a human pilot
 
 - [[UAV-formation-dat]] - [[UAV-dat]]
 
+- [[UAV-FM-dat]] == Flapping-Wing Micro Air Vehicle (FWMAV)
+
 
 ## fixed-wing UAV
 

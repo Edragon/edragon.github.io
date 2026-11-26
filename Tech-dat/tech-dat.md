@@ -310,9 +310,9 @@
 
 - [[fab-dat]] 
 
-- [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]]
+- [[fab-PCBA-dat]] - [[fab-PCB-soldering-dat]] - [[fab-PCB-desoldering-dat]] - [[fab-pnp-dat]]
 
-- [[PCB-dat]] - [[fab-PCBA-dat]] - [[PCB-design-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]] - [[PCB-stack-dat]]
+- [[PCB-dat]] - [[PCB-design-dat]] - [[PCB-footprint-dat]] - [[PCB-fix-dat]] - [[PCB-stack-dat]]
 
 - [[PCB-form-dat]] - [[PCB-stack-dat]]
 

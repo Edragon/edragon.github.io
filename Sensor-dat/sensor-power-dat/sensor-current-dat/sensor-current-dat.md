@@ -28,6 +28,12 @@
 
 ## chip 
 
+
+
+- [[sensor-current-dat]] - [[INA199-dat]] - [[ESC-FPV-dat]]
+
+
+
 - [[IR2171-dat]] - [[infineon-dat]] - [[sensor-current-dat]]
 
 

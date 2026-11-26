@@ -10,6 +10,10 @@
 
 ## chip 
 
+
+- [[fortier-dat]] - [[FD6288-dat]] - [[motor-driver-BLDC-dat]] - [[driver-gate-dat]] - [[driver-dat]]
+
+
 - [[L6384E-dat]] - [[ST-dat]] - [[driver-bridge-dat]]
 
 

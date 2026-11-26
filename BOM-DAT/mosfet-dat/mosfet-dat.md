@@ -189,6 +189,15 @@ DMP2066LSN - P-CHANNEL ENHANCEMENT MODE MOSFET
 
 
 
+
+### high performance 
+
+- [[mosfet-dat]] - [[huayi-dat]] - [[HYG015N10NS1TA-dat]] == 100V/380A - [[TOLL-dat]] - [[ESC-dat]] - [[PCB-footprint-dat]] == ￥16.7
+
+
+
+
+
 ### high voltage mosfet 
 
 FQPF7N65C - N-Channel QFET® MOSFET - 650 V, 7 A, 1.4 Ω

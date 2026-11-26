@@ -39,7 +39,19 @@ AT8313QNR QFN-36 2.5A 三路半桥集成驱动芯片 三相直流无刷
 | **FOC (Vector)**         | Precise mathematical alignment | **Highest Torque & Efficiency**         | **Silent**                    |
 
 
+
+
+
+
+
+
+
 ### common motor-BLDC-driver 
+
+
+
+- [[fortier-dat]] - [[FD6288-dat]] - [[motor-driver-BLDC-dat]] - [[driver-gate-dat]] - [[driver-dat]]
+
 
 - app for [[electric-scooter-dat]]
 

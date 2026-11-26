@@ -27,9 +27,9 @@
 
 ## Power 
 
-- [[power-UPS-dat]] - [[power-bank-dat]]
-
-- [[battery-level-indicator-dat]] - [[battery-dat]]
+- [[power-UPS-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[ac-adapter-dat]] - [[power-booster-dat]] - [[power-energy-harvest-dat]] - [[power-inverter-dat]] - [[power-pdb-dat]] - [[power-smoke-stopper-dat]] - [[power-storage-dat]] - [[power-usb-charger-dat]]
+ 
+- [[battery-level-indicator-dat]] - [[battery-dat]] - [[battery-portable-dat]] - [[battery-powered-device-dat]] - [[battery-powered-tools-dat]] - [[battery-rc-dat]] - [[beeper-dat]]
 
 - [[ac-adapter-dat]] - [[ac-mains-dat]] - [[acdc-dat]]
 

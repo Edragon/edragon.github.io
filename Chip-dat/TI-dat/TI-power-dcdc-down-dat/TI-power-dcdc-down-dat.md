@@ -27,7 +27,13 @@ TPSM5601R5RDAR - `TPSM5601R5RDAR`
 ![](2026-11-06-02-58-17.webp)
 
 
-## options 
+## chip options 
+
+
+
+
+
+- [[TI-power-dcdc-down-dat]] - [[LMR38020-dat]] == 80V 2A - [[dcdc-down-dat]]
 
 `TPS565201` - 4.5V to 17V, 5A, Synchronous Step-Down Voltage Regulator in SOT23 - [[TPS565201-dat]]
 

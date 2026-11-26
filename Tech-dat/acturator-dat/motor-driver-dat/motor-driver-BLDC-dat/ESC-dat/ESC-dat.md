@@ -58,10 +58,26 @@ types - [[ESC-single-dat]] - [[ESC-4in1-dat]] - [[power-PDB-dat]]
 
 - [[FPV-build-dat]]
 
+
+
+
+
 ## tech 
 
-- [[AM32-dat]] - [[BLHeli_32-dat]]
+- [[AM32-dat]] - [[BLHeli-dat]]
 
+- [[ESC-SDK-dat]] 
+
+
+- [[MCU-dat]] - [[driver-gate-dat]] - [[mosfet-dat]] - [[motor-brushless-dat]]
+
+- [[driver-bridge-dat]] - [[driver-gate-dat]] - [[fortier-dat]] - [[FD6288-dat]] - [[motor-driver-BLDC-dat]] - [[driver-dat]]
+
+
+
+- [[AT32F421-dat]] - [[artery-dat]] 
+
+![](2026-11-26-13-53-41.png)
 
 
 
@@ -184,7 +200,22 @@ A single ESC acts as the "middleman" in your system:
     *   当引脚没有接外部强下拉电阻时，在板测量测到的就是芯片内部的漏电流阻抗和板层分布电容。阻值在 1MΩ ~ 3MΩ 这个数量级，且没有一颗芯片被击穿短路（0Ω），说明：
         1. 4 颗 EFM8 的信号输入端口全部完好，没有被高压浪涌击穿！
         2. 4 根信号线对地都没有被撞变形搭连短路！
-     1. 
+
+
+## build 
+
+build 1 
+
+![](2026-11-26-13-34-08.png)
+
+- [[mosfet-dat]] - [[huayi-dat]] - [[HYG015N10NS1TA-dat]] - [[TOLL-dat]] - [[ESC-dat]]
+
+![](2026-11-26-13-46-50.png)
+
+- [[ESC-FPV-dat]] - [[ESC-dat]] == 4-in-1 ESC driver - [[MCU-dat]] - [[driver-gate-dat]] - [[mosfet-dat]] - [[motor-brushless-dat]]
+
+
+
 
 ## ref 
 
