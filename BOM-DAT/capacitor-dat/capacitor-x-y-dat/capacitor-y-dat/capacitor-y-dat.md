@@ -21,6 +21,10 @@ Y1250
 
 
 
+## chip 
+
+- [[jingqin-dat]] - [[1Y1X1Y5P471K-dat]] - [[capacitor-y-dat]]
+
 
 
 ## CY1 / CY2 on an AC-DC (SMPS) board: these are Y capacitors

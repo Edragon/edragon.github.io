@@ -74,6 +74,9 @@ CY1 CY2 == 常用的典型值是 1 nF ~ 4.7 nF，即 102 ~ 472）
 - [[choke-common-mode-dat]] - [[choke-dat]] - [[spark-gap-dat]] - [[acdc-dat]]
 
 
+- [[acdc-gallium-dat]]
+
+
 
 ## Modules 
 
@@ -246,7 +249,7 @@ Chip Solutions
 
 - [[power-integrations-dat]] - [[LNK302-dat]] - [[TNY267-dat]] - [[ACDC-dat]] - [[ac-mains-dat]] 
 
-- [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]] - [[DK124-dat]]
+- [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]] - [[DK124-dat]] - [[DK065-dat]]
 
 - [[silan-dat]] - [[SD6834-dat]] - [[acdc-dat]]
 
