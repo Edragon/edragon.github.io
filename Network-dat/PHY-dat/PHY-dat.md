@@ -9,6 +9,11 @@
 
 - [[1000BASE-X-dat]] - [[1000BASE-T-dat]] - [[100BASE-TX-dat]] - [[10BASE-T-dat]]
 
+- [[phy-dat]] - [[10GBASE-LR]] - [[1000BASE-LX]]
+
+
+- [[1000BASE-X-dat]] - [[100BASE-FX-dat]] - [[PHY-dat]] - [[RTL8213-dat]] - [[SFP-dat]]
+
 
 ## speed base 
 

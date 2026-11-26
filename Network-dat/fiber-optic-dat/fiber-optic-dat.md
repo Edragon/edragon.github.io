@@ -5,6 +5,44 @@
 - [[fiber-optic-PCB-dat]]
 
 
+- [[phy-dat]] - [[phy-fiber-to-copper-dat]] 
+
+
+
+## solutions 
+
+- [[fiber-optic-pair-dat]] - [[SM1310-dat]] - [[SM1510-dat]]
+
+
+
+## fiber types 
+
+- [[fiber-optic-LC-dat]] - [[fiber-optic-SC-dat]]
+
+cable 
+
+- **单模（Single-Mode, OS1/OS2）**光纤跳线（线皮通常为**黄色**） - [[optic-fiber-SMF-dat]] 
+- **多模（Multi-Mode, OM1/OM2/OM3/OM4）**光纤跳线（线皮通常为**橙色**或**水蓝色**） - [[optic-fiber-MMF-dat]] 
+
+connector 
+
+- **LC** 单工（Simplex）小方口 - [[LC-connector-dat]]
+- **SC** 大方口 - [[SC-connector-dat]]
+
+
+## transceiver 
+
+- [[fiber-optic-transceiver]] - [[SM1310-dat]] - [[SM1510-dat]] - [[SFP-dat]]
+
+
+brands Cisco - Arista - Juniper - Brocade - HPE - Dell - H3C - Extreme - Generic - FS - Netgear - Alcatel-Lucent - Avaya - Mikrotik
+
+
+## fiber optic interface 
+
+- [[fiber-optic-interface-dat]] - [[interface-dat]] - [[phy-dat]] - [[phy-fiber-to-copper-dat]] 
+
+
 info and knowledge 
 
 - [[SFP-transceiver-dat]] - [[SFP-housing-dat]]

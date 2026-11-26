@@ -186,7 +186,7 @@
 
 - [[sensor-dat]] - [[sensor-current-dat]] - [[current-transformer-dat]] - [[sensor-energy-dat]] - [[sensor-ambient-dat]] - [[sensor-light-dat]]
 
-- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]] - [[sensor-PIR-dat]] - [[IMU-dat]] - [[sensor-optical-flow-dat]] - [[sensor-proximity-dat]]
+- [[sensor-motion-dat]] - [[sensor-hall-dat]] - [[3-Axis-Magnetic-dat]] - [[sensor-lidar-dat]] - [[3-axis-Accelerometer-dat]] - [[sensor-PIR-dat]] - [[IMU-dat]] - [[sensor-optical-flow-dat]] - [[sensor-proximity-dat]] - [[6-axis-dat]] - [[IMU-dat]]
 
 - [[sensor-temperature-dat]] - [[sensor-temperature-non-contact-dat]] - [[sensor-pressure-dat]]
 

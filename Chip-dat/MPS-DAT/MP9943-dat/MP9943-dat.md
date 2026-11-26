@@ -3,6 +3,12 @@
 
 # MP9943-dat
 
+
+- [[MP9943-dat]] - [[dcdc-down-dat]] - [[RTL8213-dat]]
+
+
+
+
 - [[MP9943-dat]] - [[MPS-dat]] - [[dcdc-down-dat]] == 3A Peak, 36V
 
 High Efficiency 3A Peak, 36V, Synchronous Step Down Converter with Power Good

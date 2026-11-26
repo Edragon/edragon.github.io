@@ -5,6 +5,18 @@
 - [[SFP-dat]] - [[SFP-cage-dat]] - [[SFP-connector-dat]]
 
 
+
+## design 
+
+
+to [[SFP-connector-dat]] - from [[RTL8213-dat]]
+
+![](2026-11-27-01-58-26.png)
+
+
+- [[RTL8213-dat]] - [[SFP-connector-dat]] - [[SFP-dat]] - [[realtek-dat]]
+
+
 ## 20-pin electrical edge connector of an SFP (Small Form-factor Pluggable) module. 
 
 The pin functions are defined by the SFP Multi-Source Agreement (MSA), which ensures interoperability between different vendors' modules and host equipment.

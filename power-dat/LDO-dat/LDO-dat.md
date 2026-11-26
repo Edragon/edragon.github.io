@@ -68,9 +68,9 @@ The AEC-Q100 qualified LDOs and LDOs operating in wide temperature ratings are i
 ## design selection 
 
 
-high performance
+high current 
 
-- [[ME6217-dat]] - [[microne-dat]]
+- [[microne-dat]] - [[LDO-dat]] - [[ME6217-dat]] == [[SOT23-5-dat]] == 800 mA
 
 HV 
 
