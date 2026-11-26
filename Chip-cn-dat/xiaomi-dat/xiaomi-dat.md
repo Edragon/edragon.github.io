@@ -8,4 +8,9 @@
 - [[xiaomi-dat]] - [[smart-watch-dat]] 
 
 
+
+- [[xiaomi-dat]] - [[Wireless-Video-Doorbell-dat]] - [[sensor-camera-dat]]
+
+
+
 ## ref 

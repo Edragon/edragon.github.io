@@ -65,7 +65,7 @@
 
 - [[electronics-consumer-dat]] - [[apple-dat]]
 
-- [[xiaomi-dat]] - [[insta360-dat]] - [[tplink-dat]]
+- [[xiaomi-dat]] - [[insta360-dat]] - [[tplink-dat]] - [[DDPAI-dat]]
 
 
 ## vision 

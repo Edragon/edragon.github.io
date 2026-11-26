@@ -145,6 +145,16 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 ## apps 
 
+
+- [[xiaomi-dat]] - [[Wireless-Video-Doorbell-dat]] - [[sensor-camera-dat]]
+
+- [[cam-dash-dat]] - [[DDpai-dat]] - [[sensor-camera-dat]]
+
+- [[sigmastar-dat]] 
+
+- [[sensor-camera-dat]] - [[wifi-sdio-dat]] - [[TPLINK-camera-dat]] - [[DDPAI-dat]]
+
+
 - [[opensource-dat]] - [[openHD-dat]] - [[openIPC-dat]] - [[rubyFPV-dat]]
 
 - [[camera-FPV-dat]]
