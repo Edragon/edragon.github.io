@@ -100,7 +100,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[dcdc-down-dat]] - [[RY8310-dat]] - [[rychip-dat]] == 30V 1A - [[FPV-dat]]
 
-
+- [[chengxinwei-dat]] - [[CX8825-dat]] - [[dcdc-down-dat]] - [[SOP8-dat]]
 
 
 ### CHIP SIL 

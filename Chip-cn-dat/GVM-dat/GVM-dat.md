@@ -7,7 +7,7 @@
 - [[CMS32F033-dat]] - [[MCU-dat]] - [[GVM-dat]] - [[cmsemicon-dat]]
 
 
-GVM08H003F4P6
+`GVM08H003F4P6`
 
 GVM08x003是针对高速IO应用的8位宽电压MCU，其内建高速SPI模块，高速I2C模块，用于低成本高性能的通信处理场合。
 

@@ -64,6 +64,11 @@
 ## build 
 
 
+- [[CX8825-dat]] - [[dcdc-down-dat]] - [[PCB-stack-dat]]
+
+
+
+
 build 7 
 
 ![](2026-11-14-19-48-59.png)

@@ -47,7 +47,7 @@ https://www.electrodragon.com/wp-content/uploads/2012/01/YSL-R542B5C-A11.pdf
 
 ## types 
 
-- [[LED-dat]] - [[LED-dual-dat]] - [[LED-5730-dat]]
+- [[LED-dat]] - [[LED-dual-dat]] - [[LED-5730-dat]] - [[LED-2835-dat]] - [[LED-types-dat]]
 
 - [[rgb-led-dat]]
 

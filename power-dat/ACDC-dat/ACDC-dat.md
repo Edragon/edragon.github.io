@@ -50,6 +50,13 @@ protection
 
 CY1 CY2 == 常用的典型值是 1 nF ~ 4.7 nF，即 102 ~ 472）
 
+- [[diode-dat]] - [[MBRF10150-dat]] - [[SMC-dat]]
+
+- [[optical-coupler-dat]] - [[PC817-dat]] - [[OR1009-dat]] - [[Orient-dat]]
+
+
+
+
 ## tech 
 
 - [[PSR-dat]] - [[SSR-dat]]
@@ -239,7 +246,7 @@ Chip Solutions
 
 - [[power-integrations-dat]] - [[LNK302-dat]] - [[TNY267-dat]] - [[ACDC-dat]] - [[ac-mains-dat]] 
 
-- [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]]
+- [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]] - [[DK124-dat]]
 
 - [[silan-dat]] - [[SD6834-dat]] - [[acdc-dat]]
 
@@ -251,7 +258,7 @@ Chip Solutions
 
 - [[silan-dat]] - [[SP8585-dat]]
 
-
+- [[Grenergy-dat]] - [[GR9382-dat]] - [[acdc-dat]]
 
 
 
@@ -262,7 +269,7 @@ Chip Solutions
 ## build 
 
 
-
+- [[dongke-dat]] - [[DK112-dat]] - [[ACDC-dat]] - [[DK124-dat]]
 
 
 build 12 

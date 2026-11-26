@@ -7,9 +7,20 @@
 
 
 
+- [[diode-dat]] - [[MBRF10150-dat]] - [[SMC-dat]]
+
 
 ## build 
 
+
+build 5 
+
+![](2026-11-26-18-46-54.png)
+
+
+build 4 
+
+![](2026-11-26-18-43-44.png)
 
 build 3 
 
