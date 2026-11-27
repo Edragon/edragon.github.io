@@ -1,6 +1,12 @@
 
 # analog-dat
 
+
+
+
+- [[analog-dat]] - [[AFE-dat]] - [[amplifier-dat]]
+
+
 - [[analog-device-dat]]
 
 

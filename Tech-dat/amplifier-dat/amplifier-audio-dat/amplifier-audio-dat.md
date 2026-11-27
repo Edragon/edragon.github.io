@@ -23,7 +23,7 @@
 
 ## chip and boards 
 
-
+8055 - [[awinic-dat]] - [[amplifier-audio-dat]] - [[AW8055-dat]]
 
 45S8D - [[JRC-dat]] - [[JRC4558D-dat]] - [[amplifier-dat]] - [[amplifier-audio-dat]] - main [[PT2399-dat]] - [[Princeton-dat]]
 

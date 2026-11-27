@@ -35,27 +35,22 @@
 - [[camera-wireless-dat]] - [[camera-FPV-dat]]
 
 
-- [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-mount-dat]] - [[sensor-camera-dat]]
 
 
-
-- [[camera-vision-dat]]
-
-- [[sensor-camera-chip-dat]]
-
-
+  
 
 
 ## tech 
 
 - [[renesas-dat]] - [[buffer-FIFO-dat]] - [[IDT720x-dat]] - [[app-dat]] == [[sensor-camera-dat]]
 
-- [[sensor-camera-SOC-dat]] - [[sensor-camera-chip-dat]] - [[lens-dat]] - [[lens-mount-dat]]
+- [[sensor-camera-sensor-dat]] - [[sensor-camera-dat]]  - [[sensor-camera-soc-dat]] - [[lens-dat]] - [[lens-mount-dat]]
 
 
-## camera
 
-- [[OV3660-dat]] - [[OV2640-dat]] - [[OV5640-dat]] - [[OmniVision-dat]] - [[OV9760-dat]]
+
+
+
 
 ## boards 
 
@@ -144,6 +139,15 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 
 ## apps 
+
+
+
+- [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-mount-dat]] - [[sensor-camera-dat]]
+
+
+
+- [[camera-vision-dat]]
+
 
 
 - [[xiaomi-dat]] - [[Wireless-Video-Doorbell-dat]] - [[sensor-camera-dat]]

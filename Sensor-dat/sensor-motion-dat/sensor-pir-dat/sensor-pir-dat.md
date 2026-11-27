@@ -3,6 +3,33 @@
 
 - [legacy wiki page](https://w.electrodragon.com/w/PIR_sensor)
 
+
+
+
+
+## tech 
+
+- [[sensor-PIR-dat]] - [[amplifier-dat]] - [[amplifier-transimpedance-dat]] - [[TLV8544-dat]]
+
+- [[analog-dat]] - [[AFE-dat]] - [[amplifier-dat]]
+
+
+## design 
+
+
+为什么 PIR 传感器需要运放（以及为什么选 TLV8544）？
+
+原始的热释电红外（PIR）传感器输出信号极其微弱且充满噪声，直接接入 MCU 的 ADC 或 GPIO 无法有效识别：   
+ 
+- 高增益放大：人体移动产生的红外变化在 PIR 输出端通常只有几十到几百微伏（µV），需要两级放大（总增益通常在 60dB～70dB 左右）才能达到伏特级信号。
+- 超低频带通滤波：人体移动的信号频率极低，集中在 0.1 Hz 到 10 Hz 之间。运放需要配合阻容网络滤除直流偏置和环境高频干扰。
+- 极低功耗（Nanopower）：无线安防设备通常依赖电池供电且常年在线。TLV8544 的静态电流极低（整个四通道运放在无动作检测时仅消耗约 1.7 µA），非常适合电池供电的 PIR 系统。   
+- 高集成度（四通道单芯片）：一颗 Texas Instruments TLV8544DR 内部集成了 4 个独立运放，刚好可以同时完成“两级放大滤波 + 窗口比较器”的全部模拟前端（AFE）功能，无需外挂独立比较器，节省 BOM 成本和 PCB 面积。
+
+
+
+
+
 ## Boards 
 
 - mini type [[SMO1088-dat]] - panel integrated [[SMOS026-dat]] - classic type [[SMO1060-dat]]

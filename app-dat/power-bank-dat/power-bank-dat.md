@@ -213,11 +213,21 @@ HOLTEK合泰电源总控单片机。== HT45SC428
 ![](2026-06-13-19-06-20.webp)
 
 
+### build unknown 
+
+3721 G2242
+
+![](2026-11-27-14-13-26.png)
+
 ## SCH 
 
 power bank sleep preventer 
 
 ![](2026-07-17-18-48-17.webp)
+
+
+
+
 
 ## ref
 

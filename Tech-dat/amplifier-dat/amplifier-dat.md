@@ -3,7 +3,7 @@
 
 
 
-
+- [[amplifier-transimpedance-dat]] - [[amplifier-dat]] - [[TLV8544-dat]] - [[impedance-dat]] - [[sensor-motion-dat]] 
 
 
 - [[skyworks-dat]] - [[wifi-adapter-dat]] - [[RTL8812AU-dat]] - [[SKY85601-dat]] - [[amplifier-dat]] - [[amplifier-5ghz-dat]]
@@ -39,7 +39,7 @@ M/A-COM’s MAALSS0034 broadband gain stage is a GaAs MMIC amplifier in a lead-f
 
 - [[LM358-dat]] - [[LMV321-dat]]
 
-
+- [[amplifier-multiple-dat]]
 
 
 ## typs 

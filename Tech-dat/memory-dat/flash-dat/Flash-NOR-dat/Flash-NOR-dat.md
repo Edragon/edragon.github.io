@@ -43,6 +43,9 @@
 ## chip 
 
 
+- [[gigadevice-dat]] - 25Q128ESIG EFL287 - [[flash-nor-dat]] - [[25x128-dat]]
+
+
 XT25F1288W01G - [[memory-dat]] - [[xtxtech-dat]] == 128Mbit; 电压: 2.7~3.6V; 温度范围 - [[flash-NOR-dat]] - [[smart-watch-dat]]
 
 - [[flash-nor-dat]] - [[XMC-dat]] - [[XM25QH128C-dat]] - [[hi3516-dat]] == 

@@ -10,6 +10,14 @@
 
 
 
+
+## multiple 
+
+- [[TLV8544-dat]] - [[TI-amp-dat]] 
+
+
+
+
 ## unsort 
 
 LMC6482 / LMC6484 - LMC648x CMOS Rail-to-Rail Input and Output Operational Amplifiers

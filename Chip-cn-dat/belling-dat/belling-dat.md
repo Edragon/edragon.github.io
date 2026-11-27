@@ -3,10 +3,7 @@
 # belling-dat
 
 
-
-
-
-# beling-dat.md
+- [[belling-dat]] - [[BM8563-dat]] - [[RTC-dat]] - [[clock-dat]]
 
 - BL24C256 datasheet == [[BL24C256A_V1.98_en.pdf]]
 

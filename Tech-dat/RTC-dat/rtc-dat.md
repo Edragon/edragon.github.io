@@ -16,6 +16,12 @@
 
 ## chip 
 
+
+
+- [[belling-dat]] - [[BM8563-dat]] - [[RTC-dat]] - [[clock-dat]]
+
+
+
 - [[PCF8523-dat]] Real-Time Clock (RTC) and calendar
 
 ![](2026-03-05-01-35-10.webp)

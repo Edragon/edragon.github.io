@@ -1,6 +1,10 @@
 
 # motion-sensor-dat
 
+
+
+
+
 - [[sensor-LDC-dat]] - [[sensor-motion-dat]] - [[LDC1612-dat]] - [[ti-sensor-dat]]
 
 - [[sensor-pedrometer-dat]] - [[miraMEMS-dat]] - [[sensor-dat]] - [[sensor-motion-dat]] - [[DS3553-dat]]
@@ -14,6 +18,14 @@
 
 
 - [[sensor-optical-flow-dat]] - [[sensor-motion-dat]] - [[sensor-dat]]
+
+
+
+
+## tech 
+
+- [[sensor-PIR-dat]] - [[impedance-dat]] - [[sensor-microwave-dat]] - [[sensor-motion-dat]] - [[sensor-gas-dat]] - [[sensor-thermostat-dat]] - [[sensor-IOT-dat]]
+
 
 
 
