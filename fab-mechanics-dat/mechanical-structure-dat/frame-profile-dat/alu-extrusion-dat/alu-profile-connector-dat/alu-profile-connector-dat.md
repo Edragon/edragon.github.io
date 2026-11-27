@@ -11,6 +11,10 @@
 
 - [[nut-dat]] - [[alu-profile-connector-dat]] - [[profile-nut-dat]]
 
+- [[frame-profile-dat]] - [[profile-bolt-dat]] - [[bolt-dat]] - [[alu-extrusion-dat]] - [[alu-profile-connector-dat]] - [[profile-nut-dat]]
+
+
+
 
 
 ## 1515+ available 
@@ -105,6 +109,16 @@ holder V2
 
 
 ### wire holder 
+
+
+
+## un-defined 
+
+for 3030 
+
+![](2026-11-27-19-29-07.png)
+
+![](2026-11-27-19-29-18.png)
 
 
 

@@ -23,6 +23,15 @@ We sell the highly reliable, high quality panels. Probably the top quality from 
 - [[led-rgb-panel-dat]] - [[LED-RGB-panel-P8-dat]] - [[LED-RGB-panel-P6-dat]] - [[LED-RGB-panel-P3-dat]]
 
 
+
+
+## tech 
+
+- [[CONN-dat]] - [[CONN-Box-header-dat]] - [[RMP-dat]]
+
+- [[led-rgb-panel-dat]] == [[RMP-dat]]
+
+
 ## Panel Specifications
 
 ![](39-44-14-03-08-2023.webp)
