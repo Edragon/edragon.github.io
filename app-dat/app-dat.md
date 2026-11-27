@@ -59,6 +59,10 @@
 - [[pad-gaming-shooter-dat]]
 
 
+- [[magsafe-dat]] - [[magnetic-dat]] - [[magnet-dat]]
+
+
+
 ## digital consumer product 
 
 - [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[ipod-dat]]

@@ -1,7 +1,26 @@
 
 # sensor-NTC-dat
 
+
+
+
+- [[sensor-NTC-dat]] - 1.5D-7 - [[protection-acdc-dat]]
+
 - [[ACDC-dat]] - [[sensor-NTC-dat]] - [[sensor-temperature-dat]] - [[sensor-dat]] - [[resistor-dat]]
+
+
+## 1.5D-7
+
+An NTC 1.5D-7 (often written as 1.5D.7) is a radial-leaded inrush current limiting power thermistor with a nominal resistance of 1.5 Ω at 25°C and a 7 mm disc diameter.
+
+Key Characteristics & Naming
+
+- • Part Number Breakdown: 1.5 indicates the zero-power resistance at 25°C (1.5 Ω), D denotes a disc/power thermistor, and 7 indicates the nominal 7 mm package diameter (though max body diameter can be slightly larger, around 8.5 mm depending on coating).
+- • Typical Electrical & Thermal Specs: Datasheets for 1.5D-7 power thermistors (such as Songtian's PS series) list a B-value around 2600 K and an operating temperature range of -40°C to +175°C.
+- • Common Applications: Used in series with power inputs to limit startup surge/inrush current in switch-mode power supplies (SMPS), LED drivers, inverters, and transformers.
+
+
+
 
 ## NTC10D-11
 

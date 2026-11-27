@@ -4,6 +4,12 @@
 # capacitor-x2-dat
 
 
+- [[capacitor-x2-dat]] - [[protection-acdc-dat]] - [[capacitor-dat]]
+
+
+- [[capacitor-x2-dat]] - [[protection-acdc-dat]] - [[HAWRRY-dat]]
+
+
 An X2 capacitor is a safety-rated EMI suppression capacitor designed to be connected across the AC mains (Line–Neutral).
 
 It is defined by IEC 60384-14 and used mainly for noise suppression and interference filtering in power supplies and AC equipment.

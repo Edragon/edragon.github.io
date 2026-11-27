@@ -283,7 +283,7 @@
 
 - [[pogo-pin-dat]]
 
-- [[waterproof-dat]] - [[underwater-dat]] - [[nature-dat]] - [[physics-dat]]
+- [[waterproof-dat]] - [[underwater-dat]] - [[nature-dat]] - [[physics-dat]] - [[magnetic-dat]]
 
 - [[robot-dat]] - [[robotic-dat]]
 

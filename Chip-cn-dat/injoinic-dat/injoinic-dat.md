@@ -3,6 +3,9 @@
 
 https://w.electrodragon.com/w/Injoinic
 
+
+- [[injoinic-dat]] - [[ismartware-dat]]
+
 - [[charger-USB-dat]] 
 
 - [[IP5407-DAT]] - [[injoinic-dat]] - [[IP5306-dat]] - [[IP5305-dat]] 
@@ -52,6 +55,15 @@ https://w.electrodragon.com/w/Injoinic
 
 
 - [[injoinic-dat]] - [[IP2726-dat]] - [[IP2752-dat]] - [[fast-charge-protocols-dat]]
+
+
+
+2xx 
+
+IP2133 - [[IP2133-dat]] - [[injoinic-dat]] - [[emarker-dat]] - [[SW3516-dat]]
+
+
+
 
 
 ## Chip Series 

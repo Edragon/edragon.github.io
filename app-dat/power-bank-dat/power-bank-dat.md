@@ -4,6 +4,14 @@
 
 
 
+
+
+## tech 
+
+- [[PCB-stack-dat]] - [[power-bank-dat]] 
+
+## info 
+
 - [[power-bank-dat]] - [[charger-USB-dat]] 
 
 - [[PMIC-dat]] - [[power-dat]]
@@ -24,7 +32,7 @@
 
 - [[IP5389-dat]] - [[injoinic-dat]] - [[power-bank-dat]] == 100W
 
-
+- [[SW3516-dat]] - [[SW3518-dat]] - [[ismartware-dat]] == 100W - [[power-bank-dat]]
 
 
 ## chip 

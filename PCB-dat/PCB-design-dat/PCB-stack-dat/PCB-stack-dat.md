@@ -66,7 +66,7 @@
 
 - [[CX8825-dat]] - [[dcdc-down-dat]] - [[PCB-stack-dat]]
 
-
+- [[PCB-stack-dat]] - [[power-bank-dat]] - [[SW3516-dat]]
 
 
 build 7 

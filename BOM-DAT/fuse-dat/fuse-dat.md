@@ -1,6 +1,13 @@
 
 # fuse-dat
 
+
+
+- [[fuse-dat]] - [[protection-acdc-dat]] - 3.15A - LB TB T3.15A 250V
+
+
+
+
 SMTT5A 250V - [[fuse-dat]] - [[power-adapter-dat]]
 
 The text "SMT T5A250V" refers to a Surface Mount Technology (SMT) slow-blow electrical fuse rated for 5 Amperes and 250 Volts.
