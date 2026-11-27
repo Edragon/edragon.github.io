@@ -1,8 +1,33 @@
 
+
+
+
+
 # Cigarette-Lighter-dat
 
 - [[OBD-dat]] - [[car-dat]] - [[battery-Lead-acid-dat]] - [[Cigarette-Lighter-dat]] - [[OPM1181-dat]]
 
+
+
+
+## build 
+
+![](2026-11-27-16-09-36.png)
+
+![](2026-11-27-16-09-48.png)
+
+
+- [[XPD319-dat]] - [[fuman-dat]] - [[HC2015-dat]]  - [[joulwatt-dat]] - [[Cigarette-Lighter-dat]] - [[12V-dat]]
+
+
+
+## SCH 
+
+![](2026-11-27-16-18-00.png)
+
+
+
+## info 
 
 是的，汽车点烟器插座的中间圆头（底部的中心触点）是正极（+），而外侧的金属壁（弹片）是负极（-）。
 

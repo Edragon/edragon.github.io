@@ -31,6 +31,9 @@
 
 ## charger 
 
+
+- [[XPD319-dat]] - [[fuman-dat]] - [[HC2015-dat]]  - [[joulwatt-dat]] - [[Cigarette-Lighter-dat]] - [[12V-dat]]
+
 LTH7R - [[fuman-dat]] - [[charger-phone-dat]] - [[LTH7R-dat]]
 
 

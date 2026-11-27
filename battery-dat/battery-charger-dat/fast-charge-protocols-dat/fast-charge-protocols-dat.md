@@ -117,6 +117,9 @@ Quick Charge 2.0
 
 ## chips 
 
+
+- [[XPD319-dat]] - [[fuman-dat]] - [[HC2015-dat]]  - [[joulwatt-dat]] - [[Cigarette-Lighter-dat]] - [[12V-dat]] - [[fast-charge-protocols-dat]]
+
 - [[injoinic-dat]] - [[ismartware-dat]]
 
 - [[cellwise-dat]] - [[CW3004-dat]] - [[fast-charge-protocols-dat]]

@@ -63,8 +63,9 @@
 
 - [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[ipod-dat]]
 
-
 - [[Wireless-Video-Doorbell-dat]]
+
+- [[car-power-outlet-dat]]
 
 
 ## consumer 
@@ -72,6 +73,8 @@
 - [[electronics-consumer-dat]] - [[apple-dat]]
 
 - [[xiaomi-dat]] - [[insta360-dat]] - [[tplink-dat]] - [[DDPAI-dat]] - [[gopro-dat]]
+
+
 
 
 ## vision 
