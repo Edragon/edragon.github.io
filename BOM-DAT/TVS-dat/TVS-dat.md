@@ -7,6 +7,25 @@
 
 
 
+
+PTVSHC3N12VU
+
+
+T12 003 - [[TVS-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]] - [[TVS-USB-dat]] ?? 
+
+"T12 003" most commonly refers to the top-side SMD marking for the PTVSHC3N12VU transient voltage suppressor (TVS) diode.
+
+PTVSHC3N12VU (Marking: T12 003)
+
+- • Component type: Uni-directional TVS / ESD protection diode
+- • Working voltage: 12 V
+- • Peak pulse power: 4,500 W (8/20 µs)
+- • Package: DFN2×2-3L surface-mount (SMD)
+- • Typical use: Protecting mobile devices, notebooks, and data/power lines from electrostatic discharge (ESD) and voltage transients.
+
+
+
+
 ## SMBJ5.0A
 
 Recommended SMBJ Model:

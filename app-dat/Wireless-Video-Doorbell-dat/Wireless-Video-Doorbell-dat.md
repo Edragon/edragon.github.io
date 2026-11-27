@@ -8,7 +8,15 @@
 
 ## Wireless-Video-Doorbell-dat 3 
 
-![](2026-11-27-15-39-39.png)
+xiaomi智能门铃3
+
+产品型号：MJML05-FJ
+
+CMIIT ID:2021DP9279
+
+电池容量：5200mAh（TYP）
+
+额定输入：5V-2A 
 
 
 ![](2026-11-27-15-13-05.png)
@@ -29,6 +37,20 @@
 ![](2026-11-27-15-50-37.png)
 
 - [[3peak-dat]] - [[TP102-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]]
+
+SL5ID 
+
+T12 003 - [[TVS-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]]
+
+CBA K2AB
+
+
+![](2026-11-27-16-00-11.png)
+
+MHCW05P-IB
+
+- [[MT7682-dat]] - [[mediatek-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]]
+
 
 
 ## Wireless-Video-Doorbell-dat 2 
@@ -57,6 +79,10 @@ CMITID:2021DP9279
 ![](2026-11-27-14-18-22.png)
 
 ![](2026-11-27-14-18-35.png)
+
+these are either version 2 or 3 
+
+![](2026-11-27-15-39-39.png)
 
 ![](2026-11-27-14-20-40.png)
 

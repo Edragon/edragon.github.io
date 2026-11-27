@@ -63,12 +63,19 @@
 
 ## chip 
 
+
+- [[MT7682-dat]] - [[mediatek-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]] - [[WIFI-dat]]
+
 - [[realtek-dat]] - [[WIFI-dat]] - [[RTL8723-dat]]
 
 - [[SL8521ET-dat]] - [[location-dat]] - [[bluetooth-dat]] - [[LTE-dat]] - [[CPU-dat]] - [[GPU-dat]] - [[cellular-dat]] - [[wifi-dat]] - [[memory-dat]]
 
 
 - [[XR819-dat]] - [[XRadiotech-dat]]
+
+- [[espressif-dat]] 
+
+
 
 
 
