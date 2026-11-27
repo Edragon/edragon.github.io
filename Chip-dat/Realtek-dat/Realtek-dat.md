@@ -2,6 +2,9 @@
 # Realtek-dat
 
 
+
+
+
 - [[RTL8213-dat]] - [[RTL8211-dat]] - [[PHY-fiber-to-copper-dat]] - [[realtek-dat]]
 
 - [[phy-fiber-to-usb-dat]] - [[RTL8153-dat]] - [[realtek-dat]] - [[RTL8156-dat]] - [[serdes-dat]]
@@ -109,7 +112,17 @@ The RTL9210B is a high-speed controller (up to 10Gbps). If you are using a very 
 
 - [[RTL8188-dat]] - [[RTL8189-dat]] - [[TL8189FQB2-DS.pdf]] - [[wifi-dat]]
 
+- [[realtek-dat]] - [[RTL8188US-dat]] - [[RTL8188-dat]] - [[ddpai-dat]]
+
+
+
 - RTL8152B - [[RPI-SBC-dat]] - friendly - [[RTL8152-dat]] - [[wifi-dat]]
+
+
+
+
+
+
 
 ### RTS
 

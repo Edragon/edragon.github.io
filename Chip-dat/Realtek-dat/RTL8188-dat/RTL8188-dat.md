@@ -3,6 +3,15 @@
 
 
 
+
+
+- [[realtek-dat]] - [[RTL8188US-dat]] - [[RTL8188-dat]] - [[ddpai-dat]]
+
+
+
+
+## info 
+
 RTL8188ETV
 RTL8188CUS
 

@@ -43,6 +43,8 @@
 ## chip 
 
 
+- [[flash-nor-dat]] - [[mxic-dat]] - [[25x128-dat]]
+
 - [[25Q32-dat]] - [[flash-nor-dat]] - [[winbond-dat]]
 
 

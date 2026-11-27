@@ -18,6 +18,10 @@
 - [[allwinner-dat]] - [[F1C100-dat]]
 
 
+- [[realtek-dat]] - [[RTL8188US-dat]] - [[RTL8188-dat]] - [[ddpai-dat]] - [[RTL8192-dat]] - [[linux-dat]]
+
+
+
 ## basic command 
 
 root@VM46294:~/srs# `uname -a`

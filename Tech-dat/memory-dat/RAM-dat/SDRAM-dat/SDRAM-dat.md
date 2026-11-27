@@ -3,6 +3,13 @@
 
 
 
+
+
+
+## chip 
+
+- [[DDPAI-dat]] - [[SKhynix-dat]] - [[H5TC2G63FFR-dat]] - [[SDRAM-dat]]
+
 Winbond SDRAM, 256 MB, W9825G6KH-6I 表面 16 bit 54-Pin TSOP
 
 ![](2026-05-22-19-00-19.webp)

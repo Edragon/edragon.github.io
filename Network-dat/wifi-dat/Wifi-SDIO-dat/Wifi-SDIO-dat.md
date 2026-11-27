@@ -36,7 +36,10 @@
 
 ## chips 
 
-- [[realtek-dat]]
+- [[realtek-dat]] - [[RTL8188US-dat]] - [[RTL8188-dat]] - [[ddpai-dat]] - [[RTL8192-dat]] - [[linux-dat]] - [[wifi-sdio-dat]]
+
+
+
 
 ### AIC8800
 
