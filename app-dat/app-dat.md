@@ -4,7 +4,7 @@
 
 - [[rc-apps-dat]]
 
-
+- [[chip-cn-dat]] - [[chip-dat]]
 
 
 ## a - z 
@@ -65,7 +65,7 @@
 
 - [[Wireless-Video-Doorbell-dat]]
 
-- [[car-power-outlet-dat]]
+- [[Cigarette-Lighter-dat]]
 
 
 ## consumer 
@@ -107,7 +107,7 @@
 
 - [[E-Bike-dat]] - [[gun-dat]]
 
-- [[OBD-dat]] - [[car-dat]] - [[battery-Lead-acid-dat]] - [[Cigarette-Lighter-dat]] - [[OPM1181-dat]]
+- [[OBD-dat]] - [[car-dat]] - [[battery-Lead-acid-dat]] - [[OPM1181-dat]]
 
 
 ## environment related 

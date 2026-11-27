@@ -3,7 +3,9 @@
 
 
 
+TPH1021
 
+12-V, Ultra-Wideband, Current-Feedback Operational Amplifier
 
 - [[TP2124-dat]] - [[amplifier-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]] - [[3peak-dat]] - [[amplifier-transimpedance-dat]] 
 

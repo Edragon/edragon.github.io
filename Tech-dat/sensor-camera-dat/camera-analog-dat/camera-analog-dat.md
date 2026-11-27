@@ -59,9 +59,36 @@ Plug the USB capture card into your PC and open a webcam viewer or OBS Studio. K
 
 use - [[conn-audio-dat]] == signal normally == video out (CVBS) + power + GND
 
+- [[24C08-dat]] - [[eeprom-dat]] - [[camera-analog-dat]] - [[atmel-dat]] == ATMHK238 24C08
+
+![](2026-11-27-16-28-06.png)
+
+
+在摄像头模组（包括带 ISP 的模拟/CVBS 摄像头、HD 模拟高清摄像头或数字模组）中，CMOS 图像传感器（CIS）或 ISP 旁边放一颗 **EEPROM**，核心原因是**掉电保存配置与出厂校准参数**。
+
+### 1. 为什么需要这颗 EEPROM？
+
+* **上电自动加载寄存器参数**：很多模拟摄像头模组没有大容量板载闪存，或者需要独立于主控快速初始化。上电时，ISP 或主控通过 I2C 总线读取 EEPROM 中的初始化序列，配置曝光、白平衡、帧率、输出制式或画质参数。
+* **保存镜头与模组专属校准数据**：每颗镜头和传感器装配后都会存在个体差异。模组在产线调焦或暗室标定后，会把 **镜头阴影矫正（LSC）网格表**、坏点坐标、自动白平衡（AWB）参考增益等数据写进 EEPROM，让图像中心到边缘亮度更均匀。
+* **产线差异化配置无需改固件**：同一款硬件板卡，换不同焦距镜头或不同客户参数时，只需烧录不同的 EEPROM 内容即可，不用重新编译主固件。
+* **记录模组序列号与版本信息**：便于售后溯源、产线批次管理和硬件版本识别。
+
+### 2. 常见 EEPROM 型号与容量选择
+
+模拟或模组级配置表通常很小，几百字节到十几 KB 就够用：
+
+* **小容量配置/ID 存储（如 2Kbit / 256×8 bit）**：常用于存模组信息、基础配置表或小量参数。
+* **中大容量校准表存储（如 128Kbit / 16K×8 bit）**：当镜头 shading 网格或标定数据较多时，会选更大容量的 I2C 串行 EEPROM。
+
+![](2026-11-27-16-32-11.png)
+
+
+
 ## RC Specified Camera 
 
 - [[camera-analog-dat]] - [[CaddxFPV-dat]] - [[runCam-dat]]
+
+
 
 
 
