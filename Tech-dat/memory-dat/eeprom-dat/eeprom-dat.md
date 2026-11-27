@@ -22,6 +22,10 @@ arduino library == http://playground.arduino.cc/Main/LibraryForI2CEEPROM
 
 
 
+
+
+
+
 ## SCH 
 
 
@@ -43,6 +47,12 @@ It connected to the same IIC port with DAC. you need to solder the IC and Confir
 
 
 ## common chips 
+
+
+MAIKE 24C16D
+
+The MAIKE 24C16D is a 16-Kbit (2,048 × 8-bit) I²C-compatible two-wire serial EEPROM chip, commonly found in consumer electronics, power supplies, and automotive modules.
+
 
 - cheaper alternatives == [[BL24C256-dat]] in [[beling-dat]]
 

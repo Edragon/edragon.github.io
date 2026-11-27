@@ -21,5 +21,18 @@ Key Features & Specs
 
 
 
+## build 
+
+![](2026-11-27-17-11-27.png)
+
+![](2026-11-27-17-11-43.png)
+
+C2P17 JG357 JC357
+
+GK
+FMB30M 
+
+
+
 
 ## ref 

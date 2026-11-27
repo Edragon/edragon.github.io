@@ -789,6 +789,12 @@ BSS306N -- N-Channel Small Signal MOSFET 30 V in SOT-23 package -- 2.3A - [[infi
 
 
 
+## mark 
+
+N3016A - 232558
+
+
+
 
 ## ref 
 
