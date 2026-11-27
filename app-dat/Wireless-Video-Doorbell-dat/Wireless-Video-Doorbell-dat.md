@@ -8,8 +8,27 @@
 
 ## Wireless-Video-Doorbell-dat 3 
 
+![](2026-11-27-15-39-39.png)
+
 
 ![](2026-11-27-15-13-05.png)
+
+8EAZ SOT23-5
+
+- [[HSM-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]] - [[IOT-dat]]
+
+
+- [[TP2124-dat]] - [[amplifier-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]] - [[3peak-dat]]
+
+
+- [[CMS8S6990-dat]] - [[Cmsemicon-dat]]
+
+![](2026-11-27-15-49-10.png)
+
+
+![](2026-11-27-15-50-37.png)
+
+- [[3peak-dat]] - [[TP102-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]]
 
 
 ## Wireless-Video-Doorbell-dat 2 

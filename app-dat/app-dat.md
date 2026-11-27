@@ -53,12 +53,18 @@
 
 - [[weight-dat]] 
 
-- [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[apple-dat]] - [[ipod-dat]]
 
 - [[light-flash-dat]] - [[light-dat]]
 
 - [[pad-gaming-shooter-dat]]
 
+
+## digital consumer product 
+
+- [[electronics-consumer-dat]] - [[smart-wristband-dat]] - [[smart-watch-dat]] - [[ipod-dat]]
+
+
+- [[Wireless-Video-Doorbell-dat]]
 
 
 ## consumer 
