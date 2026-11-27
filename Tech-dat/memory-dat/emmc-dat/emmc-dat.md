@@ -9,6 +9,16 @@ TLIFE50AMSH3 (often cataloged as part number TLIFE50AMSH3-MRE) is a 16GB eMMC fl
 
 
 
+
+## build 
+
+- [[foresee-dat]] - [[NCEMAD9D-16G-dat]] - [[EMMC-dat]] 
+
+
+
+
+
+
 ## ref 
 
 

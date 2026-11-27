@@ -40,4 +40,7 @@ Ralink has few SOC chips that support 5G with 11n. The first `RT2880` could be u
 
 
 
+
+
+
 ## ref 

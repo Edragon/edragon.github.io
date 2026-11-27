@@ -3,6 +3,9 @@
 
 
 
+
+- [[NRF52810-dat]]
+
 - [[nrf52840-dat]] - [[nordic-dat]] - [[NRF54L15-dat]]
 
 

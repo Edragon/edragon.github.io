@@ -5,10 +5,7 @@
 
 
 
-- [[SRAM-dat]] - [[renesas-dat]] - [[renesas-memory-dat]]
 
-
-- [[SRAM-dat]] - [[ISSI-dat]]
 
 - [[SRAM-dat]] - [[RAM-dat]] - [[SDRAM-dat]] - [[PSRAM-dat]] - [[DRAM-dat]]
 
@@ -23,6 +20,18 @@ SRAM - Asynchronous Memory IC 8Mbit Parallel 10 ns 44-TSOP II
 - IS64WV51216BLL
 
 512K x 16 HIGH-SPEED ASYNCHRONOUSCMOS STATIC RAM WITH 3.3V SUPPLY
+
+
+
+## chip 
+
+
+- [[ESMT-dat]] - [[M12L2561616A-dat]] - [[SRAM-dat]] 
+
+- [[SRAM-dat]] - [[renesas-dat]] - [[renesas-memory-dat]]
+
+
+- [[SRAM-dat]] - [[ISSI-dat]]
 
 
 

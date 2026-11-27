@@ -43,6 +43,9 @@
 ## chip 
 
 
+- [[25Q32-dat]] - [[flash-nor-dat]] - [[winbond-dat]]
+
+
 - [[gigadevice-dat]] - 25Q128ESIG EFL287 - [[flash-nor-dat]] - [[25x128-dat]]
 
 

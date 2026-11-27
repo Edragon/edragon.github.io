@@ -3,6 +3,7 @@
 
 
 
+- [[MT2523SA-dat]] - [[MT2523-dat]] - [[mediatek-dat]]
 
 
 - [[MT7682-dat]] - [[mediatek-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]]

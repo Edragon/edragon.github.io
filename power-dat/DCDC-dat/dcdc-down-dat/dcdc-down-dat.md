@@ -108,6 +108,9 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[xintan-dat]] - [[NDP13401-dat]] - [[dcdc-down-dat]] == 4A 30V - [[NDP-semi-dat]]
 
+- [[techcode-dat]] - [[TD6817-dat]] - [[dcdc-down-dat]] == 5.5V 2A 
+
+
 
 
 ### CHIP SIL 

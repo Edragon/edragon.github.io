@@ -5,6 +5,14 @@
 
 # foresee-dat
 
+
+
+
+- [[foresee-dat]] - [[NCEMAD9D-16G-dat]] - [[EMMC-dat]] 
+
+
+
+
 - [[foresee-dat]] - [[FEPRB3216-dat]] - [[ambarella-dat]] - [[H22N-A0-HR-dat]] - [[insta360-go2-camera-dat]]
 
 
