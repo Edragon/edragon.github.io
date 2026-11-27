@@ -2,6 +2,9 @@
 # TI-audio-dat
 
 
+- [[TPA3116-dat]] - [[TPA3118-dat]] - [[ti-audio-dat]] - [[audio-dat]]
+
+
 
 
 TPA6205A1 1.25-W Mono Fully Differential Audio Power Amplifier With 1.8-V Input logic Thresholds

@@ -18,7 +18,7 @@ bottom
 
 ![](2023-09-28-16-26-44.webp)
 
-- [[TPA3116-dat]] - [[ti-audio-dat]] - [[AMP1003-dat]]
+- [[TPA3116-dat]] - [[TPA3118-dat]] - [[ti-audio-dat]] - [[AMP1003-dat]]
 
 
 

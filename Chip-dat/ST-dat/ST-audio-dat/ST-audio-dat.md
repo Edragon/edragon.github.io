@@ -1,6 +1,6 @@
 
 
-# ST-audio-amp-dat
+# ST-audio-dat
 
 
 - [[amplifier-audio-dat]] - [[ST-audio-amp-dat]] - [[TDA7377-dat]] - [[TDA7375-dat]] - [[TDA7294-dat]]

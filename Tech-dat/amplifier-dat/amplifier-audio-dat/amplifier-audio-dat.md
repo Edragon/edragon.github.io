@@ -23,6 +23,10 @@
 
 ## chip and boards 
 
+
+- [[TDA7498-dat]] - [[ST-audio-dat]] - [[ST-dat]] - [[amplifier-audio-dat]] - [[audio-dat]] == 100W + 100W 
+
+
 8055 - [[awinic-dat]] - [[amplifier-audio-dat]] - [[AW8055-dat]]
 
 45S8D - [[JRC-dat]] - [[JRC4558D-dat]] - [[amplifier-dat]] - [[amplifier-audio-dat]] - main [[PT2399-dat]] - [[Princeton-dat]]

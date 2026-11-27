@@ -79,6 +79,12 @@ Instead of driving a tiny speaker with a built-in Class-D amplifier (which adds 
 ## chip 
 
 
+- [[amplifier-audio-dat]]
+
+MAX4410 
+
+- [[TDA7498-dat]] - [[ST-audio-dat]] - [[ST-dat]]
+
 - [[CL1302-dat]] - [[audio-dat]] - [[Voice-detection-dat]]
 
 
