@@ -21,7 +21,7 @@
 - PCB board FPC interface, no PCB
 - Parallel/Serial Serial
 
-![](2024-02-17-17-52-18.png)
+![](2024-02-17-17-52-18.webp)
 
 legacy wiki page - https://www.electrodragon.com/w/12864min_LCD
 

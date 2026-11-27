@@ -42,7 +42,7 @@ The SX1278 and SX1276 are very similar LoRa transceivers. In most applications, 
 
 ## SCH 
 
-![](2025-07-09-18-33-51.png)
+![](2025-07-09-18-33-51.webp)
 
 - [[PE4259-dat]] - [[switch-dat]]
 

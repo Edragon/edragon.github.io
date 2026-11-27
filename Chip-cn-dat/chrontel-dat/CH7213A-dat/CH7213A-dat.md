@@ -40,15 +40,15 @@ The DisplayPort Alt. mode is another alternative interface supported in the CH72
 
 ## diagram 
 
-![](2026-11-16-23-20-39.png)
+![](2026-11-16-23-20-39.webp)
 
 - [[chrontel-dat]] - [[CH7213A-dat]] - [[USB-type-C-dat]] - [[displayport-dat]]
 
-![](2026-11-16-23-21-15.png)
+![](2026-11-16-23-21-15.webp)
 
 Figure 2: CH7213A USB-C to DisplayPort and USB-C DRP/DFP-D with Power Charging Block Diagram
 
-![](2026-11-16-23-21-49.png)
+![](2026-11-16-23-21-49.webp)
 
 Figure 3: CH7213A DisplayPort to USB-C DFP-U/UFP-D Block Diagram
 

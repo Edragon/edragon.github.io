@@ -38,7 +38,7 @@ common pin
 
 ![](58-57-15-14-02-2023.webp)
 
-![](2026-02-11-01-37-41.png)
+![](2026-02-11-01-37-41.webp)
 
 
 view main differences between LGT8F328 and atmega328 - source: https://wolles-elektronikkiste.de/en/lgt8f328p-lqfp32-boards

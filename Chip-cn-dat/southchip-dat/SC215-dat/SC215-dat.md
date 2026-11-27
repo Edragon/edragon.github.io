@@ -68,7 +68,7 @@ o Package
 
 ## SCH 
 
-![](2026-11-26-19-30-32.png)
+![](2026-11-26-19-30-32.webp)
 
 
 
@@ -76,6 +76,6 @@ o Package
 
 - [[mosfet-dat]] - [[YG45N03-dat]] - [[huayi-dat]] - [[southchip-dat]] - [[SC215-dat]] - [[fast-charge-protocols-dat]]
 
-![](2026-11-26-19-31-00.png)
+![](2026-11-26-19-31-00.webp)
 
 ## ref 

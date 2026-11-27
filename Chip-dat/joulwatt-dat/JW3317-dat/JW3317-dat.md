@@ -20,6 +20,6 @@ JW3317 provides multiple protect functions including over-charge, over-discharge
 
 ![](2026-06-02-21-17-26.webp)
 
-![](2026-06-02-21-18-16.png)
+![](2026-06-02-21-18-16.webp)
 
 - [[NCE6020-dat]]

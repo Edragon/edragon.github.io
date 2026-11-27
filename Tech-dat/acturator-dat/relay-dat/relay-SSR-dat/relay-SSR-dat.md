@@ -29,7 +29,7 @@ While SSRs offer numerous advantages over mechanical relays, they also have some
 
 ## standalone type SSR relay 
 
-![](2024-09-13-14-54-46.png)
+![](2024-09-13-14-54-46.webp)
 
 
 

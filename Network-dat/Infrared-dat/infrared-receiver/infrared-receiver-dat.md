@@ -54,7 +54,7 @@ TSOP22.., TSOP24.., TSOP48.., TSOP44..
 
 - connect or disconnect SJ1 to RPI
 
-![](2023-10-31-17-25-13.png)
+![](2023-10-31-17-25-13.webp)
 
 
 

@@ -60,7 +60,7 @@
 
 - [[1.25-dat]]
 
-![](2025-05-21-15-11-58.png)
+![](2025-05-21-15-11-58.webp)
 
 ## fast wire to wire connectors
 

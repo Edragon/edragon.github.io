@@ -68,7 +68,7 @@ T113 soldering note (English): Be sure to solder all components except T113 firs
 
 - mini drill bits == [[PTO1036-dat]], drill little holes to disconnect the PCB trace
 
-![](2025-05-16-14-18-42.png)
+![](2025-05-16-14-18-42.webp)
 
 
 ## wires 

@@ -40,7 +40,7 @@ legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Mem
 
 ## SDIO 
 
-![](2025-08-07-12-49-50.png)
+![](2025-08-07-12-49-50.webp)
 
 
 ## use a tools instead of fat fingers 
@@ -60,7 +60,7 @@ legacy wiki page == https://www.electrodragon.com/w/index.php?title=Category:Mem
 
 - [[microsd-dat]] - [[flash-dat]]  W25Q128JVSIQ
 
-![](2026-10-02-02-58-56.png)
+![](2026-10-02-02-58-56.webp)
 
 
 

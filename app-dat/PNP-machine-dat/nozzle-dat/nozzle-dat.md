@@ -35,7 +35,7 @@ This page is divided into three parts:
 
 M6 outter thread
 
-![](2025-09-25-19-44-16.png)
+![](2025-09-25-19-44-16.webp)
 
 
 

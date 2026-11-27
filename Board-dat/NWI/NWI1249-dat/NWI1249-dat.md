@@ -36,7 +36,7 @@ ESP32-S3-cam-dat - [[ESP32-S3-dat]]
 
 ## pin map 
 
-![](2025-07-30-16-50-00.png)
+![](2025-07-30-16-50-00.webp)
 
 board left side 
 

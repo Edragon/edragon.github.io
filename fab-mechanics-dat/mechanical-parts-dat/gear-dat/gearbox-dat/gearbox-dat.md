@@ -74,7 +74,7 @@ inner gear == "Clutch" gear
 
 - [[wheel-dat]] - [[wheel-hub-dat]] - [[gearbox-dat]] inside
 
-![](2026-03-06-16-40-11.png)
+![](2026-03-06-16-40-11.webp)
 
 ![](2026-03-06-16-40-30.webp)
 
@@ -109,9 +109,9 @@ small size
 
 ratio 1:1 dimension 50x50x25mm 
 
-![](2025-12-03-19-06-34.png)
+![](2025-12-03-19-06-34.webp)
 
-![](2025-12-03-19-07-34.png)
+![](2025-12-03-19-07-34.webp)
 
 
 - [[gearbox-differential-dat]]
@@ -163,7 +163,7 @@ meta cutting full metal gears
 - 25:1 
 - 37型减速箱
 
-![](2026-03-06-17-07-30.png)
+![](2026-03-06-17-07-30.webp)
 
 
 

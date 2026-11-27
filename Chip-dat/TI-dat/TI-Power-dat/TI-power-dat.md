@@ -88,7 +88,7 @@ dq29330 + bq8030
 
 The bq80xx family of devices are not sold to the mass market so there is no public information available.
 
-![](2026-06-06-16-52-19.png)
+![](2026-06-06-16-52-19.webp)
 
 - [[toshiba-dat]]
 

@@ -1,7 +1,7 @@
 
 # vacuum-pump-dat
 
-![](2025-04-02-16-38-14.png)
+![](2025-04-02-16-38-14.webp)
 
 DC 24V
 
@@ -17,7 +17,7 @@ DC 24V
 
 ## dimension 
 
-![](2025-04-02-16-41-54.png)
+![](2025-04-02-16-41-54.webp)
 
 ## installation to machine 
 

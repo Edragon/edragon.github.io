@@ -41,7 +41,7 @@ It's suitable for capacitor charging, hunting, rodent control, and Nixie tube po
 
 - [[ACDC-dat]] - [[voltage-high-dat]] - [[rectifier-dat]]
 
-![](2026-11-14-17-23-00.png)
+![](2026-11-14-17-23-00.webp)
 
 
 
@@ -49,7 +49,7 @@ It's suitable for capacitor charging, hunting, rodent control, and Nixie tube po
 
 high voltage generator board 1 
 
-![](2026-11-14-17-39-56.png)
+![](2026-11-14-17-39-56.webp)
 
 
 

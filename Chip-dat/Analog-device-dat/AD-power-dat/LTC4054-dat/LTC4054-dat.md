@@ -44,7 +44,7 @@ Key Characteristics
 
 ## build 
 
-![](2026-11-16-23-47-13.png)
+![](2026-11-16-23-47-13.webp)
 
 ## ref 
 

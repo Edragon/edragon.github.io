@@ -21,7 +21,7 @@
 
 (pansonic shit-clone == Panasswinc)
 
-![](2025-10-26-17-53-01.png)
+![](2025-10-26-17-53-01.webp)
 
 #### Through-beam type（对射型）  APPs 
 

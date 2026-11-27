@@ -110,7 +110,7 @@ LSUC2.7V3000F * 4
 ## XH414
 
 
-![](2024-10-02-20-48-23.png)
+![](2024-10-02-20-48-23.webp)
 
 - Brand: Seiko Corporation (SII)
 - Model: XH414H-1V01E

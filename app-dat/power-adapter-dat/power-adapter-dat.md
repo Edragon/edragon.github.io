@@ -105,7 +105,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 - [[CRE6255-dat]] - [[CRE6905-dat]] - [[cresemi-dat]] - [[power-adapter-dat]]
 
-![](2026-06-19-14-59-12.png)
+![](2026-06-19-14-59-12.webp)
 
 ![](2026-06-19-15-00-08.webp)
 
@@ -117,7 +117,7 @@ Programmable Frequency - [[DCDC-down-dat]]
 
 ![](2026-06-19-14-21-55.webp)
 
-![](2026-06-19-14-22-17.png)
+![](2026-06-19-14-22-17.webp)
 
 - [[ETA8056-dat]] - [[ACDC-dat]] - [[power-adapter-dat]] - [[ETA-solutions-dat]]
 

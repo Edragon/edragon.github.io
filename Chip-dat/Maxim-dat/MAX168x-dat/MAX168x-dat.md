@@ -17,7 +17,7 @@ The devices’ equivalent output resistance (typically 3.5Ω) allows them to de
 
 ## SCH 
 
-![](2026-09-25-14-28-31.png)
+![](2026-09-25-14-28-31.webp)
 
 
 

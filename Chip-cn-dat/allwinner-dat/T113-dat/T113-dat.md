@@ -23,7 +23,7 @@
 
 Industrial Control HMI Solution
 
-![](2025-08-09-00-56-54.png)
+![](2025-08-09-00-56-54.webp)
 
 Industrial Control PLC Solution
 

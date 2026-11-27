@@ -23,7 +23,7 @@ Common Variants & Packages
 
 ## build 
 
-![](2026-11-26-15-39-37.png)
+![](2026-11-26-15-39-37.webp)
 
 
 ## ref 

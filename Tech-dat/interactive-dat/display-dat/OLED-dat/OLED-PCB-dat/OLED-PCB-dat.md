@@ -51,7 +51,7 @@ https://www.electrodragon.com/product/1-3-12864-blue-oled-display-iicspi/
 
 ![](2025-06-13-13-02-28.webp)
 
-![](2025-06-13-13-03-18.png)
+![](2025-06-13-13-03-18.webp)
 
 #### Dimension 
 

@@ -72,7 +72,7 @@ The FQP30N06L MOSFET (datasheet) is an N-channel MOSFET designed for switching h
 https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
 
 
-![](2024-10-11-16-32-44.png)
+![](2024-10-11-16-32-44.webp)
 
 - [[mosfet-dat]]
 
@@ -268,14 +268,14 @@ LH - [[vishay-dat]] - [[led-driver-dat]] - [[TVS-dat]]
 
 - [[mosfet-dat]]
 
-![](2026-11-26-18-00-02.png)
+![](2026-11-26-18-00-02.webp)
 
 
 build 8 - [[TP8556-dat]] - [[TP-dat]]
 
-![](2026-11-22-17-28-47.png)
+![](2026-11-22-17-28-47.webp)
 
-![](2026-11-22-17-29-55.png)
+![](2026-11-22-17-29-55.webp)
 
 
 build 7 - no drive chip 
@@ -310,13 +310,13 @@ build 5 - [[battery-charger-dat]] - [[IU5918-dat]] - [[sand-tech-dat]]
 
 81KL7C0GP ???
 
-![](2026-08-09-18-14-26.png)
+![](2026-08-09-18-14-26.webp)
 
 
 
 ### build 2 
 
-![](2026-06-17-21-35-50.png)
+![](2026-06-17-21-35-50.webp)
 
 ![](2026-06-17-21-37-00.webp)
 
@@ -346,7 +346,7 @@ C07EBA UNH538
 
 - [[IOT-dat]] 
 
-![](2026-11-14-03-47-12.png)
+![](2026-11-14-03-47-12.webp)
 
 - Dual Display LCD Backlighting for PortableApplications
 - Large Format LCD Backlighting

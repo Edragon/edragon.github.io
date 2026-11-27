@@ -28,13 +28,13 @@ Common Applications & Availability
 
 ## build 
 
-![](2026-11-14-14-48-36.png)
+![](2026-11-14-14-48-36.webp)
 
 - [[mosfet-dat]] - [[rohm-dat]]
 
 - [[mosfet-dat]] - [[rohm-dat]] - [[SH8K1-dat]] - 4V Drive Dual N-channel MOSFET - [[motor-brushless-dat]] - [[BT6604-dat]]
 
-![](2026-11-14-14-52-49.png)
+![](2026-11-14-14-52-49.webp)
 
 
 

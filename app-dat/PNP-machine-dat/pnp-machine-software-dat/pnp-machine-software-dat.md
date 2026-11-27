@@ -43,7 +43,7 @@ After the PCB is placed on the fixture, the machine does not know the PCB's loca
 
 The following image shows how to set the calibration method. By selecting the component type, you can set the component as a manual fiducial or an automatic fiducial.
 
-![](2025-04-01-16-36-08.png)
+![](2025-04-01-16-36-08.webp)
 
 ### Page and Function Introduction
 
@@ -82,7 +82,7 @@ Disadvantages: Slower loading, pay attention to the tightness of the tear film, 
     -   1.1 ------ If the component's footprint is not automatically matched to a suitable footprint, you can create one using this button. The meaning of the footprint is very important for being able to correctly use the nozzle model and correctly identify the component.
         ![](2025-04-01-16-39-24.webp)
     -   1.2 ------ Test whether the nozzle can correctly pick up the component and whether the bottom camera can correctly recognize the component.
-        ![](2025-04-01-16-39-36.png)
+        ![](2025-04-01-16-39-36.webp)
 2.  Set the component's pick-up coordinates. You can set the coordinates by getting the camera or nozzle position. Video
 3.  The distance between components in the tape. We usually determine the distance by observing how many tape holes correspond to one component. For example:
 

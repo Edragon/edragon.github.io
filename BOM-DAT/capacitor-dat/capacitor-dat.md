@@ -147,7 +147,7 @@ The three-character code with the letter-number-letter format is used for capaci
 - The third character indicates the maximum amount of capacitance change over the part’s temperature range. The spec for --R capacitors (such as X5R and X7R) is ±15%. The capacitance of parts with a code ending in V can actually decrease by as much as 82%! This probably explains why Y5V capacitors are not so popular.
 
 
-![](2023-12-29-18-18-14.png)
+![](2023-12-29-18-18-14.webp)
 
 
 

@@ -8,11 +8,11 @@
 ## build 1 
 
 
-![](2026-11-16-00-34-53.png)
+![](2026-11-16-00-34-53.webp)
 
 - [[sytatek-dat]] - [[SA2601-dat]] - [[LKS620-dat]] - [[LKS-dat]] - [[belling-dat]] - [[mosfet-HV-dat]]
 
-![](2026-11-16-00-55-26.png)
+![](2026-11-16-00-55-26.webp)
 
 - [[triac-dat]] - [[LKS620-dat]] - [[BTB12-800-dat]]
 

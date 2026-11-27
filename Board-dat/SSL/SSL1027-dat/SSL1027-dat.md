@@ -40,7 +40,7 @@ Note: Suggest to use the software called
 
 ## Schematic 
 
-![](55-53-15-09-08-2023.png)
+![](55-53-15-09-08-2023.webp)
 
 
 ## Legacy wiki page 

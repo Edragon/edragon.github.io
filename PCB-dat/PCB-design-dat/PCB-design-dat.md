@@ -166,7 +166,7 @@ If your layout forces you to stick to a 2.0 mm trace width, but you need to supp
 
 ## page 
 
-![](2026-11-12-17-51-20.png)
+![](2026-11-12-17-51-20.webp)
 
 ## ref 
 

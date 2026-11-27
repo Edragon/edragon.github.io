@@ -52,7 +52,7 @@ If required, quiescent power is limited to a safe level by asserting the PWRA pi
 
 ## diagram
 
-![](2026-11-24-21-32-27.png)
+![](2026-11-24-21-32-27.webp)
 
 
 

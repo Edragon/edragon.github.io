@@ -60,7 +60,7 @@ Here's which pins to connect between your Optical Flow Sensor Breakout and your 
 
 ref 
 
-![](2026-11-26-01-24-49.png)
+![](2026-11-26-01-24-49.webp)
 
 ## ref 
 

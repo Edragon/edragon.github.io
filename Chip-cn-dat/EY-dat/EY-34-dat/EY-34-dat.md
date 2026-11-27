@@ -22,7 +22,7 @@ Main advantage: high-speed communication. When connected via SPP to a phone or P
 
 ## pins 
 
-![](2026-02-04-18-12-02.png)
+![](2026-02-04-18-12-02.webp)
 
 ![](2026-02-04-18-12-29.webp)
 

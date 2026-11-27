@@ -15,9 +15,9 @@ The BK7231 is a low-cost, highly integrated Wi-Fi (802.11 b/g/n) and Bluetooth (
 
 ## build 
 
-![](2026-11-14-01-11-03.png)
+![](2026-11-14-01-11-03.webp)
 
-![](2026-11-14-01-11-22.png)
+![](2026-11-14-01-11-22.webp)
 
 
 
@@ -46,19 +46,19 @@ The BK7231 is a low-cost, highly integrated Wi-Fi (802.11 b/g/n) and Bluetooth (
 | Peripherals     | UART, I2C, SPI, SDIO, PWM, and 10-bit ADC channels                                                       |
 | Common Variants | BK7231T and BK7231N, widely used inside Tuya-based smart home modules (such as the WB3S, CB2S, and WB2L) |
 
-![](2026-11-14-03-25-22.png)
+![](2026-11-14-03-25-22.webp)
 
 ## SCH
 
 SCH2 
 
-![](2026-11-14-03-48-50.png)
+![](2026-11-14-03-48-50.webp)
 
 minimal system 
 
 QFN-24 - [[QFN-dat]] 
 
-![](2026-11-14-03-30-43.png)
+![](2026-11-14-03-30-43.webp)
 
 ## pin table
 

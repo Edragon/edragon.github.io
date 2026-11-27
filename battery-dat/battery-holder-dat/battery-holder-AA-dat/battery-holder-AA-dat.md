@@ -61,7 +61,7 @@ seperated side == output side
 
 ## cylindar battery holder 
 
-![](2025-12-30-15-02-43.png)
+![](2025-12-30-15-02-43.webp)
 
 
 

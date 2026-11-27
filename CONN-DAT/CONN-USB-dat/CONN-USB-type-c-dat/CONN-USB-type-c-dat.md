@@ -100,7 +100,7 @@ As transmission speeds increase, the power demand for high-speed devices also gr
 
 To improve this situation, in March 2022, USB-IF proposed certification combining cable transmission speed and supported power capability, and redefined cable specifications. In the future, cables will no longer be differentiated by version, but rather by "universal speed and power supply."
 
-![](2024-05-09-12-52-02.png)
+![](2024-05-09-12-52-02.webp)
 
 
 ## type-c pin definitions

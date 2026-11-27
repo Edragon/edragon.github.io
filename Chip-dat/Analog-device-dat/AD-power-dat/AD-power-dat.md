@@ -51,7 +51,7 @@ https://www.analog.com/media/en/technical-documentation/data-sheets/max17577-max
 
 Dual Monolithic 600mA Synchronous Step-Down Regulator
 
-![](2026-09-03-16-34-18.png)
+![](2026-09-03-16-34-18.webp)
 
 - [[dcdc-down-dat]] - [[AD-power-dat]] - [[dcdc-down-mulitple-dat]]
 

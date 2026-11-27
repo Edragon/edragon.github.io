@@ -12,7 +12,7 @@ Typical uses: vibration-triggered alarms, smart vehicles, educational electronic
 
 Schematic
 
-![](2026-02-11-00-14-11.png)
+![](2026-02-11-00-14-11.webp)
 
 Operation and behavior
 

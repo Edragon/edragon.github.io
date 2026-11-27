@@ -22,7 +22,7 @@ LM66200 1.6 V to 5 V, 2.5-A Dual Ideal Diode With Automatic Switchover
 
 SCH 1 
 
-![](2026-09-05-16-30-12.png)
+![](2026-09-05-16-30-12.webp)
 
 
 ## ref 

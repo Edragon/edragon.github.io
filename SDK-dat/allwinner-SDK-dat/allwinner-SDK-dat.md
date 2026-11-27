@@ -136,7 +136,7 @@ Community version flashing tools
     - Click "Startup Card" (red box 2).
     - Click "Burn" (red box 3) and wait for the burning process to finish.
 
-![](2025-08-08-12-22-36.png)
+![](2025-08-08-12-22-36.webp)
 
 
 

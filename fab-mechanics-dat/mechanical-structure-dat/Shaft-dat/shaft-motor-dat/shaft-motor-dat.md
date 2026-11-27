@@ -10,14 +10,14 @@
 
 ## build 
 
-![](2026-11-14-13-50-56.png)
+![](2026-11-14-13-50-56.webp)
 
 - [[bearing-dat]] - [[wheel-Eccentric-dat]] - [[shaft-coupling-dat]]
 
 
 build 2 
 
-![](2026-11-14-14-31-06.png)
+![](2026-11-14-14-31-06.webp)
 
 
 ## D-Shaped 

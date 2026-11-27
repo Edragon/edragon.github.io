@@ -5,7 +5,7 @@
 
 L-type 
 
-![](2025-02-19-13-48-31.png)
+![](2025-02-19-13-48-31.webp)
 
 L and T type Bracket for 4040
 

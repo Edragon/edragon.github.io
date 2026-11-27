@@ -27,7 +27,7 @@ When measuring circuits or components, if you use a multimeter pen, you must hol
 
 ![](2024-01-13-11-27-21.webp)
 
-![](2024-01-13-11-27-36.png)
+![](2024-01-13-11-27-36.webp)
 
 
 ## ref 

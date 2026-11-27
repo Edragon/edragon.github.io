@@ -13,7 +13,7 @@ The controller manages the charging process from the solar panel to the battery.
 *   Ensures safe and efficient system operation.
 *   Some offer USB charging ports.
 
-![](2025-06-15-01-54-36.png)
+![](2025-06-15-01-54-36.webp)
 
 ## Charge Types:
 

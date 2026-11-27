@@ -60,7 +60,7 @@ For example, the smart card below uses e-paper technology and can display the ba
 
 There is also this type of NFC passive smart tag, which can refresh its display content via a mobile phone's NFC. It can be used as an electronic pet tag, electronic luggage tag, to display payment QR codes in stores, or to show a contact number for moving a car.
 
-![](2025-08-19-15-21-10.png)
+![](2025-08-19-15-21-10.webp)
 
 ## second-hand epaper module 
 
@@ -232,7 +232,7 @@ build 2 == WP27D-S050VA3-R15000 - [[ESP32-dat]] - [[RTC-dat]] - [[NXP-io-expande
 
 build 1 
 
-![](2026-09-05-16-34-31.png)
+![](2026-09-05-16-34-31.webp)
 
 ## SCH 
 

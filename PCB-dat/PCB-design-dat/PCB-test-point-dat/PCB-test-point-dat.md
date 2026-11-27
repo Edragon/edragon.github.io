@@ -104,7 +104,7 @@
 
 app 2 - [[FPV-toy-dat]] - [[PCB-test-point-dat]]
 
-![](2026-11-14-04-01-34.png)
+![](2026-11-14-04-01-34.webp)
 
 
 app 1 - [[insta360-go2-dat]]
@@ -137,7 +137,7 @@ add points like
 
 ## pre-designed test hook 
 
-![](2025-10-15-21-08-05.png)
+![](2025-10-15-21-08-05.webp)
 
 ## press test rig V3 
 
@@ -163,7 +163,7 @@ add points like
 
 ## test rig 
 
-![](2025-09-23-17-44-30.png)
+![](2025-09-23-17-44-30.webp)
 
 ![](2025-09-23-17-45-48.webp)
 

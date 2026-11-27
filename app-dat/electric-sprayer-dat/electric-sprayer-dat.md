@@ -7,7 +7,7 @@
 
 - [[electric-sprayer-dat]] - [[plastic-dat]] - [[plastic-structure-dat]]
 
-![](2026-09-20-19-08-32.png)
+![](2026-09-20-19-08-32.webp)
 
 ![](2026-09-20-19-07-32.webp)
 

@@ -19,6 +19,6 @@
 - https://www.electrodragon.com/product/ff-40p-dupont-prototype-cables-female-female-end/
 
 ## F to M 
-![](2024-01-13-12-51-55.png)
+![](2024-01-13-12-51-55.webp)
 - https://www.electrodragon.com/product/prototype-cable-female-and-male-end-40p/
 - [[PCA1056-dat]]

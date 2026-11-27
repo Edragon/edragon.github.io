@@ -5,7 +5,7 @@
 
 LM1577/LM2577 SIMPLE SWITCHER® Step-Up Voltage Regulator
 
-![](2024-10-08-16-56-29.png)
+![](2024-10-08-16-56-29.webp)
 
 
 - [[dcdc-boost-dat]] - [[ti-power-dat]] - [[LM2577-dat]]

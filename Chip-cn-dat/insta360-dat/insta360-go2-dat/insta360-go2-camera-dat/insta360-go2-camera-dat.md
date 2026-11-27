@@ -52,7 +52,7 @@ bad disassembly by piler
 
 bottom PCB 
 
-![](2026-10-31-15-28-58.png)
+![](2026-10-31-15-28-58.webp)
 
 sensor PCB 
 

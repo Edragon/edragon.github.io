@@ -90,7 +90,7 @@ note
 
 - [[CKS-dat]] - [[MCU-dat]]
 
-![](2026-06-18-20-39-27.png)
+![](2026-06-18-20-39-27.webp)
 
 - [[hycon-dat]] - [[HY2112-dat]] - [[battery-protector-dat]] - [[BMS-active-dat]]
 

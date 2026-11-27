@@ -10,7 +10,7 @@ middle display screen rack
 
 ## phone fix screwdriver set
 
-![](2025-11-12-18-41-17.png)
+![](2025-11-12-18-41-17.webp)
 
 ![](2025-11-12-18-41-32.webp)
 
@@ -18,11 +18,11 @@ middle display screen rack
 
 ## burned power unit 
 
-![](2025-11-12-18-41-52.png)
+![](2025-11-12-18-41-52.webp)
 
 ## battery and battery connector
 
-![](2025-11-12-18-42-27.png)
+![](2025-11-12-18-42-27.webp)
 
 
 lifted the battery up 

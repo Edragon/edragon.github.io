@@ -30,7 +30,7 @@ DSP Resources: 8 × DSP multiplier blocks
 - [[LC4256V-dat]] - IC CPLD 256MC 7.5NS 176TQFP
 
 
-![](2026-09-29-16-31-16.png)
+![](2026-09-29-16-31-16.webp)
 
 
 ispMACH 4000V/B/C/Z Family 3.3 V/2.5 V/1.8 V In-System Programmable SuperFAST High Density PLDs

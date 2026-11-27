@@ -10,7 +10,7 @@
 
 ## Lipo Battery Voltage Tester Low Voltage Buzzer Alarm
 
-![](2026-11-11-17-27-01.png)
+![](2026-11-11-17-27-01.webp)
 
 
 - Use for 1-8S Lipo/Li-ion/LiMn/L-Fe
@@ -26,11 +26,11 @@ When the voitage is below the set value, it wil! buzzerwith red LED light,pre-ss
 
 
 
-![](2026-11-11-17-27-18.png)
+![](2026-11-11-17-27-18.webp)
 
 ## usage 
 
-![](2026-11-11-17-37-44.png)
+![](2026-11-11-17-37-44.webp)
 
 
 ## ref 

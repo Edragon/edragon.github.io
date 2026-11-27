@@ -11,7 +11,7 @@
 
 Under the same sketch compile log information, you can also find the GCC path used by Arduino of which also can be used for J-Link Debug Programmer later.
 
-![](2026-11-17-00-31-22.png)
+![](2026-11-17-00-31-22.webp)
 
 
 For example, in my case:

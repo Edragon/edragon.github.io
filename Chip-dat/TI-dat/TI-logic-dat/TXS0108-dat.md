@@ -13,7 +13,7 @@ Eight-bit bidirectional voltage-level shifter for open-drain and push-pull appli
 
 ## SCH 
 
-![](2026-11-12-15-28-09.png)
+![](2026-11-12-15-28-09.webp)
 
 
 

@@ -78,7 +78,7 @@ Gigabit ethernet phy 1000base-tx RTL8211CL
 
 ## SCH 
 
-![](2026-11-12-16-31-40.png)
+![](2026-11-12-16-31-40.webp)
 
 
 

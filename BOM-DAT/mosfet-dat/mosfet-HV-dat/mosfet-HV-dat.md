@@ -29,7 +29,7 @@ Key Specifications
 
 ## build 
 
-![](2026-11-16-00-48-26.png)
+![](2026-11-16-00-48-26.webp)
 
 - [[siber-dat]] - [[switch-slider-dat]] - [[mosfet-HV-dat]]
 

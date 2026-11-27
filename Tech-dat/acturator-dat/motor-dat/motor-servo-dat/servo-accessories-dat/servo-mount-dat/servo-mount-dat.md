@@ -21,14 +21,14 @@ https://www.printables.com/model/381611-servo-holder-mg995
 
 ![](2026-08-14-02-20-52.webp)
 
-![](2026-08-14-02-21-05.png)
+![](2026-08-14-02-21-05.webp)
 
 
 build 4 - lego 
 
 https://www.printables.com/model/602773-micro-servo-lego-compatible-mount
 
-![](2026-08-14-02-17-32.png)
+![](2026-08-14-02-17-32.webp)
 
 ![](2026-08-14-02-17-43.webp)
 
@@ -37,7 +37,7 @@ build 3 -
 
 https://www.printables.com/model/254115-simple-servo-mount
 
-![](2026-08-14-02-16-12.png)
+![](2026-08-14-02-16-12.webp)
 
 
 build 2 - linear 

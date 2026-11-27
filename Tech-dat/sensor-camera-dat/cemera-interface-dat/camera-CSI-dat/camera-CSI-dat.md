@@ -31,7 +31,7 @@ build 1
 
 SCH 1 DSI + CSI interface 
 
-![](2025-11-01-19-39-05.png)
+![](2025-11-01-19-39-05.webp)
 
 build 2 
 

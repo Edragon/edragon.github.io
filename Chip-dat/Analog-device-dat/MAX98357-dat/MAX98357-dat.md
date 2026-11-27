@@ -64,7 +64,7 @@ chip footprint == - [[WLP-dat]]
 ## wiring 
 
 
-![](2024-12-26-19-06-13.png)
+![](2024-12-26-19-06-13.webp)
 
 ## Use with ESP32-S3 
 

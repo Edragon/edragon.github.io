@@ -76,7 +76,7 @@ circuits and sensors have found their way into prosthetics, robotics and other c
 
 ## EMG 
 
-![](2026-01-17-14-53-00.png)
+![](2026-01-17-14-53-00.webp)
 
 
 ## AD8232 Sensor Module

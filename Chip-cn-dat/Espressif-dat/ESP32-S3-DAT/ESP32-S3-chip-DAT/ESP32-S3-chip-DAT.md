@@ -35,7 +35,7 @@ heVCC-GND
 
 - [[ESP32-S3-module-DAT]] - [[ESP32-S3-WROOM-1-dat]] - [[ESP32-S3-board-dat]]
 
-![](2025-07-09-15-45-22.png)
+![](2025-07-09-15-45-22.webp)
 
 | Pin # | Pin Name        | Functions (Typical)      | Note. |
 | ----- | --------------- | ------------------------ | ----- |

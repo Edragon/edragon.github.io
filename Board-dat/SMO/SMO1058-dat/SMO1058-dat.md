@@ -14,7 +14,7 @@ Voltage：DC 3.3 – 5V (R2 version now is 3.3V-5V compatible)
 
 version new-top and old-bottom 
 
-![](2025-12-12-18-30-53.png)
+![](2025-12-12-18-30-53.webp)
 
 
 ### Pins and Wiring

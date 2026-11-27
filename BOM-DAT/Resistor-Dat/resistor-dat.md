@@ -63,7 +63,7 @@ RC 吸收要处理的是陡峭的 di/dt（微秒级）。铝壳电阻几乎都�
 
 铝壳 电阻
 
-![](2026-11-20-18-59-51.png)
+![](2026-11-20-18-59-51.webp)
 
 
 
@@ -71,7 +71,7 @@ AC01-CS, AC03-CS, AC05-CS 涂覆型/陶瓷壳体 - [[resistor-fusible-dat]] - [[
 
 Axial Leaded, WSZ (SMD) Cemented Fusible Wirewound Safety Resistors
 
-![](2026-11-20-18-55-39.png)
+![](2026-11-20-18-55-39.webp)
 
 
 
@@ -79,7 +79,7 @@ Axial Leaded, WSZ (SMD) Cemented Fusible Wirewound Safety Resistors
 
 resistor MOF -- 金属氧化膜电阻（MOF）
 
-![](2026-11-20-18-54-37.png)
+![](2026-11-20-18-54-37.webp)
 
 
 ## Shunt and Burden Resistor

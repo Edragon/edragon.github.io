@@ -24,7 +24,7 @@
 
 - [[mount-dat]] - [[fixed-wing-dat]] - [[motor-brushed-coreless-dat]]
 
-![](2026-10-06-02-47-30.png)
+![](2026-10-06-02-47-30.webp)
 
 ![](2026-10-06-02-47-46.webp)
 

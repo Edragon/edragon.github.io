@@ -23,7 +23,7 @@ Applications
 -  Power management for inverter systems
 -  Battery management
 
-![](2026-11-26-13-37-53.png)
+![](2026-11-26-13-37-53.webp)
 
 
 

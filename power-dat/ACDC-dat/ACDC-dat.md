@@ -277,7 +277,7 @@ Chip Solutions
 
 build 12 
 
-![](2026-11-26-17-15-35.png)
+![](2026-11-26-17-15-35.webp)
 
 - [[CRE6255-dat]] - [[CRE6905-dat]] - [[cresemi-dat]]
 
@@ -286,17 +286,17 @@ build 12
 
 - [[acdc-dat]] - [[led-driver-dat]] - [[ACDC-led-driver-dat]]
 
-![](2026-11-26-17-25-16.png)
+![](2026-11-26-17-25-16.webp)
 
 
 
 ### build 11 
 
-![](2026-11-14-17-12-55.png)
+![](2026-11-14-17-12-55.webp)
 
 - [[rectifier-dat]] - [[mosfet-dat]]
 
-![](2026-11-14-17-17-44.png)
+![](2026-11-14-17-17-44.webp)
 
 - [[ACDC-dat]] - [[voltage-high-dat]]
 
@@ -398,7 +398,7 @@ in these two similar designs, on the DC left side, bottom board uses two [[diode
 
 ### unknown 1 
 
-![](2026-06-19-18-49-32.png)
+![](2026-06-19-18-49-32.webp)
 
 ![](2026-06-19-18-49-45.webp)
 
@@ -408,7 +408,7 @@ LYNRJ 37021
 
 开关变压器输出带同步整流，3A电流没啥问题
 
-![](2026-06-19-18-51-44.png)
+![](2026-06-19-18-51-44.webp)
 
 ### build 4 
 

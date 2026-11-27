@@ -17,7 +17,7 @@ din rail is a standardized metal rail used for mounting electrical and electroni
 
 ![](2025-11-07-15-36-15.webp)
 
-![](2025-11-07-15-37-12.png)
+![](2025-11-07-15-37-12.webp)
 
 ![](2025-11-07-15-37-35.webp)
 

@@ -13,7 +13,7 @@ OV2640 Camera Module 2 Million Pixels HDF3M-811
 
 ## Dimension 
 
-![](2024-12-28-16-44-42.png)
+![](2024-12-28-16-44-42.webp)
 
 
 ## specs 
@@ -34,7 +34,7 @@ SCH3
 
 SCH4 
 
-![](2026-07-23-20-00-53.png)
+![](2026-07-23-20-00-53.webp)
 
 ## pin mapping w/ESP32 
 

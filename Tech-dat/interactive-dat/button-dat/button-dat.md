@@ -43,7 +43,7 @@ one analog pin to read multiple buttons
 
 voltage divider 1K / 4.7K / 10K == [[voltage-divider-dat]]
 
-![](2025-05-21-17-51-07.png)
+![](2025-05-21-17-51-07.webp)
 
 [[analog-dat]] feedback multiple buttons 2 
 

@@ -26,7 +26,7 @@ SC8F2892 is a CmsemiconFLASH chip, Flash 4Kx14Bit, RAM256B, built-in RC oscillat
 
 - [[IP5306-dat]] - [[LDO-dat]] - [[microne-dat]]
 
-![](2026-06-18-19-02-54.png)
+![](2026-06-18-19-02-54.webp)
 
 - [[display-segment-dat]]
 

@@ -44,7 +44,7 @@ If only `PLA or ABS` are available, I would reduce the material thickness to a m
 
 digital DJI O3 
 
-![](2026-07-01-17-29-26.png)
+![](2026-07-01-17-29-26.webp)
 
 ![](2026-07-01-17-32-23.webp)
 

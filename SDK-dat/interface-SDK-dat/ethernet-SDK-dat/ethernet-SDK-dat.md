@@ -34,7 +34,7 @@ Click the 🔥 (build/flash/monitor) button to compile, flash, and monitor the p
 
 You can check your router to see a device named "espressif" connected. At this point, your ESP32-P4-NANO is successfully online.
 
-![](2025-08-09-13-01-55.png)
+![](2025-08-09-13-01-55.webp)
 
 
 ## ref 

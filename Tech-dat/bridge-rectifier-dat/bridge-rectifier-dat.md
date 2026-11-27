@@ -9,7 +9,7 @@
 
 - [[bridge-rectifier-dat]] - KBL610 - [[CR6842-dat]]
 
-![](2026-07-25-18-47-09.png)
+![](2026-07-25-18-47-09.webp)
 
 The KBL610 is a single-phase silicon bridge rectifier featuring a `6A maximum forward current` and a `1000V peak repetitive reverse voltage`. 
 

@@ -7,6 +7,6 @@ The Back_Panel_Cover covers the back of the machine. Power via the Power_Socket 
 
 ![](1.jpeg)
 
-![](2.png)
+![](2.webp)
 
 ![](3.webp)

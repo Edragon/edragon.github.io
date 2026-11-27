@@ -13,7 +13,7 @@ please prepare the battery by your own
 
 - [[STH1082-dat]] - [[LR44-dat]] removed [[battery-coin-dat]] 
 
-![](2026-09-13-19-47-51.png)
+![](2026-09-13-19-47-51.webp)
 
 ![](2026-09-13-19-48-19.webp)
 

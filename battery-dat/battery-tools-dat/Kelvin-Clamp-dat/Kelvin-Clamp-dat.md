@@ -42,9 +42,9 @@ A 4-wire fixture uses two wires for the heavy discharge current and two separate
 - 12MM - 4芯 - 插头 探针
 - 12MM - 4芯 - 插头 开尔文夹
 
-![](2026-05-19-22-33-45.png)
+![](2026-05-19-22-33-45.webp)
 
-![](2026-05-19-22-34-02.png)
+![](2026-05-19-22-34-02.webp)
 
 ## ref 
 

@@ -24,7 +24,7 @@ QC7707 is a synchronous rectifier diode integrated with 40V MOSFET. It is used t
 
 ![](2026-06-19-15-41-03.webp)
 
-![](2026-06-19-15-44-49.png)
+![](2026-06-19-15-44-49.webp)
 
 ![](2026-06-19-15-46-31.webp)
 

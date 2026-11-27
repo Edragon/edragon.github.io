@@ -36,7 +36,7 @@ SCH1
 
 ID EEPROM: (No soldering on-board )
 
-![](2024-12-20-18-09-27.png)
+![](2024-12-20-18-09-27.webp)
 
 USER EEPROM: (No soldering on-board )
 

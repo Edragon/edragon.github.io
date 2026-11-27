@@ -16,7 +16,7 @@
 
 - [[32bit-4in1-ESC_pnp-assitant-tootl.html]]
 
-![](2026-11-26-13-29-42.png)
+![](2026-11-26-13-29-42.webp)
 
 - [[ESC-dat]]
 

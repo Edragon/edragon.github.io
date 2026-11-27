@@ -5,7 +5,7 @@
 
 - [[jiaben-dat]] - [[swtich-micro-dat]] - [[swtich-dat]]
 
-![](2026-11-24-02-03-20.png)
+![](2026-11-24-02-03-20.webp)
 
 
 6A 24VDC 

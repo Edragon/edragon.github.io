@@ -125,7 +125,7 @@ Click the button to generate the font bitmap. The result will look like this:
 
 The 8x16 font bitmap is already provided in the sample file `lcdfont.h`, as shown below:
 
-![](2025-08-19-13-08-54.png)
+![](2025-08-19-13-08-54.webp)
 
 
 ## tools 

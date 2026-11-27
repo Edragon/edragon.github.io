@@ -22,7 +22,7 @@ STEP:
 
 - 4) It should be noted that ‘Output’ page must set as below. This is an essential step, otherwiseyou can't hear anything.
 
-![](2024-12-20-18-15-14.png)
+![](2024-12-20-18-15-14.webp)
 
 - 5)In ‘Done’ Page, you can see a request for donations from Volumio. It’s depand on you. You cangive them some help if you like this application. Gifts of roses, hand a fragrance.
 

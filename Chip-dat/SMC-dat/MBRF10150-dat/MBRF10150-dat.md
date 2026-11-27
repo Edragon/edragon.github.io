@@ -17,7 +17,7 @@ Key Specifications (SMC Diode Solutions)
 • Package / Mounting: ITO-220AC (2-pin isolated full pack), through-hole (THT)
 • Operating Junction Temperature: -55°C to +175°C
 
-![](2026-11-26-18-42-57.png)
+![](2026-11-26-18-42-57.webp)
 
 - [[acdc-led-driver-dat]]
 

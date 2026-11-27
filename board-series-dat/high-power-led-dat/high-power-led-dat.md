@@ -8,7 +8,7 @@
 
 temperature 75 degree protection swtich 
 
-![](2025-09-25-18-49-21.png)
+![](2025-09-25-18-49-21.webp)
 
 
 

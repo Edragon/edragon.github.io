@@ -31,7 +31,7 @@ In other boot try:
 
 ## ST-LINK USB part 
 
-![](2025-08-19-15-49-44.png)
+![](2025-08-19-15-49-44.webp)
 
 ## ref 
 

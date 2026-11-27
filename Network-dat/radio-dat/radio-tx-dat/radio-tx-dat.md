@@ -15,24 +15,24 @@
 
 ## custom build PCB 
 
-![](2026-11-26-01-31-37.png)
+![](2026-11-26-01-31-37.webp)
 
 
 - [[radio-tx-dat]] - [[TP4336-dat]] - [[TP-dat]] - [[battery-portable-dat]]
 
-![](2026-11-26-01-31-52.png)
+![](2026-11-26-01-31-52.webp)
 
 - [[RF-dat]] - [[NRF24L01-dat]] - [[SI24R1-dat]] - [[action-dynamic-dat]] - [[2.4Ghz-dat]] - [[radio-tx-dat]] - [[STM32-F1-dat]] - [[SPI-dat]]
 
-![](2026-11-26-01-40-03.png)
+![](2026-11-26-01-40-03.webp)
 
 - [[OLED]] - [[STM32-F1-dat]] 
 
-![](2026-11-26-01-40-24.png)
+![](2026-11-26-01-40-24.webp)
 
 - [[interactive-dat]] - [[radio-tx-dat]] - [[joystick-dat]] - [[keypad-dat]]
 
-![](2026-11-26-01-40-58.png)
+![](2026-11-26-01-40-58.webp)
 
 
 

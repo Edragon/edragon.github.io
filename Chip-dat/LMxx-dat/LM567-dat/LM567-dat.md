@@ -33,7 +33,7 @@ Common Applications
 
 STD 
 
-![](2026-11-24-19-18-48.png)
+![](2026-11-24-19-18-48.webp)
 
 Component values (typ)
 - R1 6.8 to 15k
@@ -46,11 +46,11 @@ Component values (typ)
 
 STD2 
 
-![](2026-11-24-19-19-38.png)
+![](2026-11-24-19-19-38.webp)
 
 AC Test Circuit
 
-![](2026-11-24-19-19-54.png)
+![](2026-11-24-19-19-54.webp)
 
 ## ref 
 

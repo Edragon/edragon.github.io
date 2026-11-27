@@ -28,7 +28,7 @@ Common Uses & Hacking
 
 ## SWD connect 
 
-![](2026-11-16-23-32-50.png)
+![](2026-11-16-23-32-50.webp)
 
 - [[ARM-dat]] - [[JTAG-dat]]
 

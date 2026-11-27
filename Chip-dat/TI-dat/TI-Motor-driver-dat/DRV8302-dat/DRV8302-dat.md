@@ -12,18 +12,18 @@ DRV8302 Three Phase Gate Driver With Dual Current Shunt Amplifiers and Buck Regu
 
 diagram 
 
-![](2026-11-26-15-51-52.png)
+![](2026-11-26-15-51-52.webp)
 
 ## SCH 
 
 STD 
 
-![](2026-11-26-15-50-53.png)
+![](2026-11-26-15-50-53.webp)
 
 
 
 ## build 
 
-![](2026-11-26-15-52-49.png)
+![](2026-11-26-15-52-49.webp)
 
 ## ref 

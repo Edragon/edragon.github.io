@@ -69,7 +69,7 @@ Summary:
 
 - SN74LVC1G07 Single Buffer/Driver With Open-Drain Output
 
-![](2024-01-18-18-16-22.png)
+![](2024-01-18-18-16-22.webp)
 
 
 

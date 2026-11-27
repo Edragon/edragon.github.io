@@ -167,7 +167,7 @@ auto serial SCH
 
 ![](2026-06-11-17-50-02.webp)
 
-![](2026-07-28-19-07-19.png)
+![](2026-07-28-19-07-19.webp)
 
 
 ### programmer and programming 

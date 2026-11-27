@@ -21,7 +21,7 @@
 
 Serial Camera Control Bus (SCCB) interface
 
-![](2025-03-28-13-16-19.png)
+![](2025-03-28-13-16-19.webp)
 
 ## SCH 
 

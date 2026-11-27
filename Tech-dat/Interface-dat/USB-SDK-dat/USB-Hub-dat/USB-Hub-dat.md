@@ -72,7 +72,7 @@ USB3.0 hub芯片一定要买 `VL813Q7`,虽然VL812Q7与他pin to pin兼容，但
 
 ## build 
 
-![](2026-11-17-00-07-11.png)
+![](2026-11-17-00-07-11.webp)
 
 - [[VIA-dat]] - [[USB-hub-dat]] - [[VL211-dat]] - [[VL103-dat]]
 

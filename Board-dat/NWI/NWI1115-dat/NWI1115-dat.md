@@ -54,7 +54,7 @@ https://w.electrodragon.com/w/ESP_Relay_Board_VDC
 
 ![](2024-04-22-15-16-13.webp)
 
-![](2024-04-22-15-16-31.png)
+![](2024-04-22-15-16-31.webp)
 
 
 

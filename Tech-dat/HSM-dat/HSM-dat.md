@@ -7,7 +7,7 @@
 - [[HSM-dat]] - [[Wireless-Video-Doorbell-dat]] - [[xiaomi-dat]] - [[IOT-dat]]
 
 
-![](2026-11-27-15-43-55.png)
+![](2026-11-27-15-43-55.webp)
 
 
 The `MJA1-HCIW` is a proprietary second-generation hardware security module (HSM) / secure chip developed by Xiaomi for its smart home and IoT ecosystem.

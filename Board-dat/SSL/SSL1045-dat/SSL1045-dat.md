@@ -45,7 +45,7 @@ counterfeit chip ID
 
 ## Dimension 
 
-![](2023-11-15-18-27-30.png)
+![](2023-11-15-18-27-30.webp)
 
 - W = 15.24 
 - installtion hole - 10.16

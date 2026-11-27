@@ -22,9 +22,9 @@ The `IP5407` is a highly integrated power management SOC (System on Chip) by Inj
 
 build 2 
 
-![](2026-11-26-17-52-30.png)
+![](2026-11-26-17-52-30.webp)
 
-![](2026-11-26-17-52-43.png)
+![](2026-11-26-17-52-43.webp)
 
 - [[XB7608-dat]] - [[battery-protector-1s-dat]] - [[xysemi-dat]]
 

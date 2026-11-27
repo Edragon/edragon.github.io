@@ -39,7 +39,7 @@ un-finished yet
 
 more unsort modules 
 
-![](2025-11-25-17-01-03.png)
+![](2025-11-25-17-01-03.webp)
 
 ### middle == ESP32-D0WD-V3 (revision v3.1)
 

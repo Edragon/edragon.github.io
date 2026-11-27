@@ -260,7 +260,7 @@ online simuation - https://www.circuitlab.com/editor/#?id=z84zq5
 
 Active Low Pass filter with Amplification
 
-![](2025-03-19-17-07-49.png)
+![](2025-03-19-17-07-49.webp)
 
 ## tuto 
 

@@ -22,7 +22,7 @@
 
 ![](2026-08-24-13-42-27.webp)
 
-![](2026-08-24-13-42-38.png)
+![](2026-08-24-13-42-38.webp)
 
 
 
@@ -44,13 +44,13 @@ build 2
 
 - [[HGLRC-dat]] - [[fc-stack-dat]] - [[flight-controller-dat]] - [[FPV-dat]]
 
-![](2026-11-16-14-34-34.png)
+![](2026-11-16-14-34-34.webp)
 
-![](2026-11-16-14-34-47.png)
+![](2026-11-16-14-34-47.webp)
 
 2R203 - [[mosfet-dat]] - [[toshiba-mosfet-dat]] - [[toshiba-dat]] - [[PCB-footprint-dat]] - [[TSON-8-dat]]
 
-![](2026-11-16-14-35-08.png)
+![](2026-11-16-14-35-08.webp)
 
 
 - [[STM32F051K6-dat]] - [[STM32-F0-dat]] - [[MCU-dat]] - [[flight-controller-dat]] - [[STM32-dat]]

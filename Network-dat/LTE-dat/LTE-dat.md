@@ -106,7 +106,7 @@ When a device is assigned a specific Category, it must meet requirements for sev
 
 ## CAT vs. CAT M
 
-![](50-30-13-07-03-2023.png)
+![](50-30-13-07-03-2023.webp)
 
 
 

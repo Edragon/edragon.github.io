@@ -67,7 +67,7 @@ HFBR-4505对接器（灰色） / HFBR-4515对接器（蓝色）
 
 DC-to-50 MBd 650-nm Link with RSSI Versatile Link Fiber Optic Evaluation Kit
 
-![](2025-04-29-14-34-51.png)
+![](2025-04-29-14-34-51.webp)
 
 ## ref 
 

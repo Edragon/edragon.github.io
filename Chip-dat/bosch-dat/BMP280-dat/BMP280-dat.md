@@ -10,7 +10,7 @@ The I2C address for the BMP280 sensor is 0x76 by default. However, it can also b
 
 The sensor housing is an 8-pin metal-lid LGA 2.0 × 2.5× 0.95 mm3 package. 
 
-![](2025-01-10-17-03-30.png)
+![](2025-01-10-17-03-30.webp)
 
 ## wiring 
 

@@ -48,7 +48,7 @@ SOIC-8 Package
 
 ## SCH diagram 
 
-![](2026-11-26-17-11-40.png)
+![](2026-11-26-17-11-40.webp)
 
 
 ## How to read the chip markings
@@ -78,12 +78,12 @@ Pin	Name	Function
 - 7	CH. 2 OUT	Video output – Channel 2
 - 8	CH. 1 OUT	Video output – Channel 1
 
-![](2026-11-26-17-09-34.png)
+![](2026-11-26-17-09-34.webp)
 
 https://consolemods.org/wiki/AV:THS_Video_Amplifier_Guide
 
 ## demo 
 
-![](2026-11-26-17-10-19.png)
+![](2026-11-26-17-10-19.webp)
 
 ## ref 

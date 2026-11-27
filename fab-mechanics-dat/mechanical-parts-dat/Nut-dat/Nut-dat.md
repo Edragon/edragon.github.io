@@ -26,7 +26,7 @@ M3 perpendicular 6
 
 create nut placeholder
 
-![](2026-07-05-00-23-13.png)
+![](2026-07-05-00-23-13.webp)
 
 ![](2026-07-05-00-23-53.webp)
 

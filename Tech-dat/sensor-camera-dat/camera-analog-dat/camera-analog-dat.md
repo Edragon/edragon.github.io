@@ -61,7 +61,7 @@ use - [[conn-audio-dat]] == signal normally == video out (CVBS) + power + GND
 
 - [[24C08-dat]] - [[eeprom-dat]] - [[camera-analog-dat]] - [[atmel-dat]] == ATMHK238 24C08
 
-![](2026-11-27-16-28-06.png)
+![](2026-11-27-16-28-06.webp)
 
 
 在摄像头模组（包括带 ISP 的模拟/CVBS 摄像头、HD 模拟高清摄像头或数字模组）中，CMOS 图像传感器（CIS）或 ISP 旁边放一颗 **EEPROM**，核心原因是**掉电保存配置与出厂校准参数**。
@@ -80,7 +80,7 @@ use - [[conn-audio-dat]] == signal normally == video out (CVBS) + power + GND
 * **小容量配置/ID 存储（如 2Kbit / 256×8 bit）**：常用于存模组信息、基础配置表或小量参数。
 * **中大容量校准表存储（如 128Kbit / 16K×8 bit）**：当镜头 shading 网格或标定数据较多时，会选更大容量的 I2C 串行 EEPROM。
 
-![](2026-11-27-16-32-11.png)
+![](2026-11-27-16-32-11.webp)
 
 
 

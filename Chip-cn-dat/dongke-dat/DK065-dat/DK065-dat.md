@@ -22,12 +22,12 @@ High-performance AC-DC gallium nitride power management chips
 
 std 
 
-![](2026-11-26-19-49-01.png)
+![](2026-11-26-19-49-01.webp)
 
 
 ## build 
 
-![](2026-11-26-19-49-48.png)
+![](2026-11-26-19-49-48.webp)
 
 
 LBS80M

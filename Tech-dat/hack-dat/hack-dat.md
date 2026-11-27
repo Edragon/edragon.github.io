@@ -23,7 +23,7 @@
 
 always start from [[button-dat]] or [[conn-dat]] connector 
 
-![](2026-11-17-00-19-08.png)
+![](2026-11-17-00-19-08.webp)
 
 
 ## simple hack 

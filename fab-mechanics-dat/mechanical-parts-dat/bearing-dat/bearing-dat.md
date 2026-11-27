@@ -44,7 +44,7 @@ SK series
 
 ## bearing wtih vertical stand 
 
-![](2025-07-03-17-03-47.png)
+![](2025-07-03-17-03-47.webp)
 
 
 ## 608_Bearing

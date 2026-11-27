@@ -15,7 +15,7 @@
 - [[lamp-dat]] - [[S4220-dat]] - [[rectifier-dat]] - [[led-driver-dat]]
 
 
-![](2026-11-14-17-15-08.png)
+![](2026-11-14-17-15-08.webp)
 
 MicrosemiCatalog Number
 
@@ -37,7 +37,7 @@ PFC PFR 20L200CTF - 20A 200V MOS Schottky Rectifier
 
 The `PFR20L200CTF` (commonly searched as PFC FPR 20L200CTF) is a 20A, 200V MOS Schottky rectifier manufactured by PFC Device Corp. It features an ultra-low forward voltage drop and comes in an insulated plastic package
 
-![](2026-08-11-21-08-17.png)
+![](2026-08-11-21-08-17.webp)
 
 ![](2026-08-11-21-08-34.webp)
 
@@ -64,7 +64,7 @@ The KBP210 Bridge Rectifier is a single-phase, 2-ampere, 1000-volt silicon bridg
 
 The part marking JF SRP20100CT identifies a 20A, 100V Dual Common-Cathode Schottky Barrier Rectifier diode.
 
-![](2026-11-14-17-15-20.png)
+![](2026-11-14-17-15-20.webp)
 
 
 
@@ -85,7 +85,7 @@ Key Specifications
 • Recovery Time: Ultrafast (approx. 35ns range depending on the specific manufacturer)
 • Common Manufacturers: Xinnuo Electronics, Goodwork, Thinki Semiconductor, Micro Commercial Components, and SLKORMICRO.
 
-![](2026-11-14-17-17-10.png)
+![](2026-11-14-17-17-10.webp)
 
 
 
@@ -94,7 +94,7 @@ Key Specifications
 The `MUR860` (often stamped with a manufacturer or date/batch code like JF on the casing) is an ultrafast recovery power rectifier diode rated at 600 V and 8 A. It is widely used as a freewheeling, clamping, or output rectifying diode in switching power supplies, inverters, and DC-to-DC converters.
 
 
-![](2026-11-14-17-26-03.png)
+![](2026-11-14-17-26-03.webp)
 
 
 ## voltage low rectifier 

@@ -24,7 +24,7 @@ Variants & Sourcing
 
 ## build 
 
-![](2026-11-22-17-58-39.png)
+![](2026-11-22-17-58-39.webp)
 
 AD30N54D3 - [[mosfet-dat]] - [[AD30N54D3-dat]] - [[ADAMANT-dat]] - [[IP2726-dat]]
 

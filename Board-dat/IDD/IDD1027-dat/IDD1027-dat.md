@@ -36,7 +36,7 @@ prototype board
 
 ![](2026-04-02-22-13-37.webp)
 
-![](2026-04-02-22-14-02.png)
+![](2026-04-02-22-14-02.webp)
 
 
 ## default pin for ESP32-S3 
@@ -146,7 +146,7 @@ wiring, image the second board is the matrix panel - [[led-rgb-panel-dat]]
 
 ![](2026-09-13-15-35-06.webp)
 
-![](2026-09-13-15-36-04.png)
+![](2026-09-13-15-36-04.webp)
 
 
 ## ref 

@@ -48,7 +48,7 @@
 
 common use M2 screw - [[screw-M2-dat]] - [[screw-dat]]
 
-![](2026-11-26-14-16-40.png)
+![](2026-11-26-14-16-40.webp)
 
 
 

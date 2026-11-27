@@ -176,7 +176,7 @@ FEATURES
 - Built in bias resistor NPN and PNP (R1=10 kΩ, R2 =10 kΩ)
 - [URL](https://www.mouser.jp/datasheet/2/196/bcr10pn-223935.pdf)
 
-![](2025-03-06-22-43-10.png)
+![](2025-03-06-22-43-10.webp)
 
 ### other 
 
@@ -254,7 +254,7 @@ TMBT3904 SOT-23 丝印LW TOSHIBA 东芝 NPN 50V 150mA 贴片三极管
 
 TMBT3906,LM贴片SOT-23丝印SW电流:150mA电压:50V PNP三极管(BJT)
 
-![](2026-09-16-17-52-19.png)
+![](2026-09-16-17-52-19.webp)
 
 Y2 
 

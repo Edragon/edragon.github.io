@@ -169,7 +169,7 @@ slave connect to multiple master mode
 
 ![](2026-04-29-00-12-29.webp)
 
-![](2026-04-29-00-13-54.png)
+![](2026-04-29-00-13-54.webp)
 
 
 

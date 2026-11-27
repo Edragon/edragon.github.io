@@ -12,7 +12,7 @@ information about photodetectors wiki page: [Photodetectors](https://en.wikipedi
 
 ### Board Map, Dimension, Pins, etc.
 
-![](2025-04-01-15-50-57.png)
+![](2025-04-01-15-50-57.webp)
 
 
 specfications 

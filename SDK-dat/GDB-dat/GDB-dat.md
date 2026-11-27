@@ -15,11 +15,11 @@ Connect the J-Link Debug Programmer to the PC and also power Wio Terminal from t
 - Target Device: Cortex-M4
 - Target Interface: SWD
 
-![](2026-11-17-00-33-42.png)
+![](2026-11-17-00-33-42.webp)
 
 Select OK and if everything goes well you should see the following screen:
 
-![](2026-11-17-00-34-03.png)
+![](2026-11-17-00-34-03.webp)
 
 
 ## GDB client 
@@ -48,7 +48,7 @@ Run the following commands under gdb:
 - monitor reset
 
 
-![](2026-11-17-00-35-24.png)
+![](2026-11-17-00-35-24.webp)
 
 
 ### GDB init 

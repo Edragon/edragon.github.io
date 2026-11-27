@@ -46,7 +46,7 @@ When a bolt is pre-assembled with both a flat washer and a spring washer held in
 * **Wedge Locking Washer (e.g., Nord-Lock):** A two-piece pair with interlocking cams that creates a wedge effect to lock the bolt tight under high vibration.
 * **Nylon Insert Lock Nut (Nyloc Nut):** If the locking mechanism is on the nut side, it often uses a nylon collar near the top to grip the bolt threads securely.
 
-![](2026-08-11-21-09-00.png)
+![](2026-08-11-21-09-00.webp)
 
 ### Standard Assembly Order
 

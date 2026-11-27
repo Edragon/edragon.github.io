@@ -25,7 +25,7 @@
 
 ## SPI LCD Interface 
 
-![](2025-06-30-14-29-06.png)
+![](2025-06-30-14-29-06.webp)
 
 
 ## PCM 
@@ -34,7 +34,7 @@
 
 ## Matrix Keyboard Interface 
 
-![](2025-06-30-14-31-44.png)
+![](2025-06-30-14-31-44.webp)
 
 
 ## SIM interface 

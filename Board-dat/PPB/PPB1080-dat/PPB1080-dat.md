@@ -62,7 +62,7 @@
 
 18650 battery enable 
 
-![](2026-03-01-15-00-12.png)
+![](2026-03-01-15-00-12.webp)
 
 
 [[CR2032-dat]] - battery enable 

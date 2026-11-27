@@ -41,7 +41,7 @@
 ## PT thermocouple 
 
 ![](2023-10-08-15-43-32.webp)
-![](2023-10-08-15-43-46.png)
+![](2023-10-08-15-43-46.webp)
 
 ## film type thermocouple 
 

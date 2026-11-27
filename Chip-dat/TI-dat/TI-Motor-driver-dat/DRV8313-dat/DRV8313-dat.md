@@ -9,7 +9,7 @@ Triple 1/2-H Bridge Driver IC
 - Solenoid and Brushed DC Motors
 
 
-![](2024-12-29-13-28-02.png)
+![](2024-12-29-13-28-02.webp)
 
 
 ## ref 

@@ -30,7 +30,7 @@ ESC Configurator（BLHeli_S / Bluejay）
 可以根据需要选择INA199A1D/INA199A2D/INA199A3D。
 
 
-![](2026-11-26-14-03-04.png)
+![](2026-11-26-14-03-04.webp)
 
 
 

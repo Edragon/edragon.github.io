@@ -34,7 +34,7 @@
 1.2A Single-chip Li-ion Charge with Protection of Reverse Connection of Battery
 
 
-![](2026-11-14-20-04-19.png)
+![](2026-11-14-20-04-19.webp)
 
 
 

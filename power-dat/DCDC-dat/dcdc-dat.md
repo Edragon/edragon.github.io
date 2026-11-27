@@ -68,7 +68,7 @@ legacy wiki page - https://w.electrodragon.com/w/Category:DC-DC#Schematic
 
 SCH 
 
-![](2026-07-30-14-03-22.png)
+![](2026-07-30-14-03-22.webp)
 
 ## ref 
 

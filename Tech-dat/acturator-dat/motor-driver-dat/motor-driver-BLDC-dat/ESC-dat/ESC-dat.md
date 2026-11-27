@@ -206,11 +206,11 @@ A single ESC acts as the "middleman" in your system:
 
 build 1 
 
-![](2026-11-26-13-34-08.png)
+![](2026-11-26-13-34-08.webp)
 
 - [[mosfet-dat]] - [[huayi-dat]] - [[HYG015N10NS1TA-dat]] - [[TOLL-dat]] - [[ESC-dat]]
 
-![](2026-11-26-13-46-50.png)
+![](2026-11-26-13-46-50.webp)
 
 - [[ESC-FPV-dat]] - [[ESC-dat]] == 4-in-1 ESC driver - [[MCU-dat]] - [[driver-gate-dat]] - [[mosfet-dat]] - [[motor-brushless-dat]]
 

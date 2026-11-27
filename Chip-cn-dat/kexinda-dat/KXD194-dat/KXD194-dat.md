@@ -26,7 +26,7 @@ Key Specifications
 
 ## build 
 
-![](2026-11-14-15-36-31.png)
+![](2026-11-14-15-36-31.webp)
 
 
 ## ref 

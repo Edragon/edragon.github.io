@@ -37,7 +37,7 @@ The OR-10XX series devices consist of an infrared emitting diode, optically coup
 
 ## SCH 
 
-![](2026-11-26-18-58-08.png)
+![](2026-11-26-18-58-08.webp)
 
 ## ref 
 

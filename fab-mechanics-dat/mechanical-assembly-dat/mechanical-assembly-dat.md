@@ -5,7 +5,7 @@
 
 ## exploded view 
 
-![](2025-12-22-21-09-26.png)
+![](2025-12-22-21-09-26.webp)
 
 
 ## drill hole lock assembly 

@@ -52,7 +52,7 @@ And it has a built-in 3W amplifier, which can directly drive a 3W speaker, makin
 
 ## Module dimension 
 
-![](2024-11-18-17-19-18.png)
+![](2024-11-18-17-19-18.webp)
 
 ## Pin definitions 
 

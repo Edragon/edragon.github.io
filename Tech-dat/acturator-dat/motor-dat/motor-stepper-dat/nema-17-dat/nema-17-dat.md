@@ -10,7 +10,7 @@ screw pitching base == 44mm
 
 common Specifications 
 
-![](2025-06-01-18-24-29.png)
+![](2025-06-01-18-24-29.webp)
 
 
 

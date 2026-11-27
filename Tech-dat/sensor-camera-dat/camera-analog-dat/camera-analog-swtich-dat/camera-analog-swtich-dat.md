@@ -13,7 +13,7 @@
 
 - [[switch-chip-dat]] - [[swtich-chip-analog-dat]] - [[camera-analog-swtich-dat]]
 
-![](2026-11-26-15-56-56.png)
+![](2026-11-26-15-56-56.webp)
 
 - [[flight-controller-dat]]
 

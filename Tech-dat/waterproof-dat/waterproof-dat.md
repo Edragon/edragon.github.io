@@ -161,7 +161,7 @@ underwater case test - https://t.me/electrodragon3/467
 
 ![](2025-12-12-18-17-53.webp)
 
-![](2025-12-12-18-18-05.png)
+![](2025-12-12-18-18-05.webp)
 
 
 

@@ -27,7 +27,7 @@ Integrated Peripherals
 - [[MCU-dat]] - [[ABOV-dat]] - [[A94B114FRN-dat]] - [[battery-charger-dat]]
 
 
-![](2026-11-14-15-08-21.png)
+![](2026-11-14-15-08-21.webp)
 
 
 ## ref 

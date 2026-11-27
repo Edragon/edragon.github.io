@@ -43,7 +43,7 @@ how to select a suitable inverter
 
 - hex == 6chs == [[CD4069-dat]]
 
-![](2026-09-16-17-48-05.png)
+![](2026-09-16-17-48-05.webp)
 
 ![](2026-09-16-17-48-35.webp)
 

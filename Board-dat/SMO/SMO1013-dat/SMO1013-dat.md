@@ -5,7 +5,7 @@
 
 [MAX30102 Pulse Oximeter, Heart Rate Sensor Module](https://www.electrodragon.com/product/max30102-pulse-oximeter-heart-rate-sensor-module/)
 
-![](2024-09-30-17-42-21.png)
+![](2024-09-30-17-42-21.webp)
 
 
 - Black version MAX30102

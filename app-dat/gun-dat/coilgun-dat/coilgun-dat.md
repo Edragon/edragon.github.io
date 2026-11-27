@@ -117,22 +117,22 @@ Directly connecting a coil to a DC power supply **does create a static magnetic 
 
 ## SCH 3 
 
-![](2026-11-17-05-06-42.png)
+![](2026-11-17-05-06-42.webp)
 
 ## SCH V2  AC version 
 
-![](2026-11-17-05-09-26.png)
+![](2026-11-17-05-09-26.webp)
 
 If you don't have the irfp250'syoucanuse acoupleof semiconductors
 that have a VDs almost 4times the power supply and R(ds)oN <150mohm.
 power supplymustbe able to supply several amps （more than 10)
 
 
-![](2026-11-17-05-08-10.png)
+![](2026-11-17-05-08-10.webp)
 
-![](2026-11-17-05-07-33.png)
+![](2026-11-17-05-07-33.webp)
 
-![](2025-10-02-16-13-45.png)
+![](2025-10-02-16-13-45.webp)
 
 3.本套件是220V市电供电的，如需改电池供电要加ZVS升压模块，店内搜ZVS便是，买55那一项。
 
@@ -182,7 +182,7 @@ button == 讯灵 KD2 - [[button-dat]]
 
 - [[dcdc-boost-dat]]
 
-![](2026-05-15-14-10-08.png)
+![](2026-05-15-14-10-08.webp)
 
 ![](2026-05-15-14-10-22.webp)
 

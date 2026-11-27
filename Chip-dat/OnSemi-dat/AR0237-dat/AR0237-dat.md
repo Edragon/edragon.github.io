@@ -17,7 +17,7 @@ The AR0237 produces extraordinarily clear, sharp digital pictures, and its abili
 https://www.onsemi.com/products/sensors/image-sensors/ar0237
 
 
-![](2026-11-22-14-02-30.png)
+![](2026-11-22-14-02-30.webp)
 
 ## ref 
 

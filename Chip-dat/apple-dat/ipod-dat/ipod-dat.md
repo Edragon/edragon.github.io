@@ -13,15 +13,15 @@
 
 overview 
 
-![](2026-11-14-17-08-55.png)
+![](2026-11-14-17-08-55.webp)
 
-![](2026-11-14-17-09-05.png)
+![](2026-11-14-17-09-05.webp)
 
-![](2026-11-14-17-01-59.png)
+![](2026-11-14-17-01-59.webp)
 
-![](2026-11-14-17-29-48.png)
+![](2026-11-14-17-29-48.webp)
 
-![](2026-11-14-17-30-03.png)
+![](2026-11-14-17-30-03.webp)
 
 339S0104 - [[apple-dat]] - [[339S0104-dat]] - [[samsung-dat]] - [[ARM-dat]] - [[ARM-11-dat]] - [[ipod-dat]]
 
@@ -36,10 +36,10 @@ Technical Specifications
 • Silicon History. Teardown analyses by TechInsights and iFixit indicate that the 339S0104 is a repackaged iteration of the earlier Apple 338S0859 silicon used in previous-generation iPod nano models.
 
 
-![](2026-11-14-17-04-40.png)
+![](2026-11-14-17-04-40.webp)
 
 
-![](2026-11-14-17-08-03.png)
+![](2026-11-14-17-08-03.webp)
 
 
 - [[K9HCGD8U2E-dat]] == [[flash-nand-dat]] == 8GB - [[samsung-dat]] - [[ipod-dat]]

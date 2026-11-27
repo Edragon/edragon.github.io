@@ -57,11 +57,11 @@
 
 - [[motor-driver-mosfet-dat]] - [[VESC-dat]] - [[ESC-dat]]
 
-![](2026-11-26-15-36-19.png)
+![](2026-11-26-15-36-19.webp)
 
 - [[dcdc-down-dat]] - [[EG-micro-dat]] - [[EG1198-dat]] - [[VESC-dat]] - [[LM7805-dat]] - [[LDO-dat]]
 
-![](2026-11-26-15-37-21.png)
+![](2026-11-26-15-37-21.webp)
 
 
 

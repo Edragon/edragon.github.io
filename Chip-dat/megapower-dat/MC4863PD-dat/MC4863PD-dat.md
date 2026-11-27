@@ -33,7 +33,7 @@ headphone amplifier mode, and thermal shutdown protection. It also utilizes circ
 
 STD 
 
-![](2026-11-26-17-37-58.png)
+![](2026-11-26-17-37-58.webp)
 
 
 

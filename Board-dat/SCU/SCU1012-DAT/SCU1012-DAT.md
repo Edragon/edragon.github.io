@@ -56,7 +56,7 @@ MG995 / MG996R are metal-gear servos with high torque suitable for RC cars, boat
 
 ![](2025-12-05-19-29-18.webp)
 
-![](2025-12-05-19-29-35.png)
+![](2025-12-05-19-29-35.webp)
 
 ## ref 
 

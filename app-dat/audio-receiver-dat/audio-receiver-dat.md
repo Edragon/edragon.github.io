@@ -4,7 +4,7 @@
 
 - [[audio-receiver-dat]] - [[audio-dat]] 
 
-![](2026-11-14-15-26-02.png)
+![](2026-11-14-15-26-02.webp)
 
 - [[flash-NOR-dat]] - [[audio-receiver-dat]] - [[audio-dat]] 
 

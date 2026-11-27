@@ -138,7 +138,7 @@ C:\Users\Administrator\.arduinoIDE\plugins\arduino-littlefs-upload-1.5.4.vsix
 
 Move the .vsix file you downloaded previously to the plugins folder (remove any other previous versions of the same plugin if that’s the case).
 
-![](2025-07-26-12-05-03.png)
+![](2025-07-26-12-05-03.webp)
 
 
 test code 

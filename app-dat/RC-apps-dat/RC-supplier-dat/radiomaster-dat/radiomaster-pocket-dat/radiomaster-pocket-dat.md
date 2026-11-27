@@ -38,13 +38,13 @@
   - https://www.printables.com/model/1045687-radiomaster-pocket-hawkeye-35inch-monitor-mount
   - screw M5 
 
-![](2026-11-11-01-39-34.png)
+![](2026-11-11-01-39-34.webp)
 
-![](2026-11-11-01-38-18.png)
+![](2026-11-11-01-38-18.webp)
 
-![](2026-11-11-01-38-29.png)
+![](2026-11-11-01-38-29.webp)
 
-![](2026-11-11-01-38-51.png)
+![](2026-11-11-01-38-51.webp)
 
 
 - long extension 

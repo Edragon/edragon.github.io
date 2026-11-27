@@ -221,7 +221,7 @@ Taking the 180-degree angle servo as an example, the corresponding control relat
 |     2.5 ms |    2500 µs | 180 or -90 |
 
 
-![](47-08-17-21-06-2023.png)
+![](47-08-17-21-06-2023.webp)
 
 ![](2025-06-15-14-21-31.webp)
 

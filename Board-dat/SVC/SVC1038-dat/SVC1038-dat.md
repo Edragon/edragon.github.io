@@ -49,7 +49,7 @@ Old Wiring (on-board sensor wire)
 
 - The orange wires are the old wiring method, only use when the [[current-transformer-dat]] has wire inside
 
-![](2025-06-12-16-02-19.png)
+![](2025-06-12-16-02-19.webp)
 
 ![](2025-06-07-17-35-24.webp)
 

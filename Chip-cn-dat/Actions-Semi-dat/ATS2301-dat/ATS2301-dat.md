@@ -20,9 +20,9 @@ ACTIONS ATS2301 Audio IC
 
 - [[QN8035-dat]] - [[ATS2301-dat]] - [[Actions-Semi-dat]] - [[radio-FM-dat]] 
 
-![](2026-11-26-17-33-21.png)
+![](2026-11-26-17-33-21.webp)
 
-![](2026-11-26-17-33-40.png)
+![](2026-11-26-17-33-40.webp)
 
 
 - [[ATMEL1206-dat]] - [[EEPROM-dat]] - [[atmel-dat]]

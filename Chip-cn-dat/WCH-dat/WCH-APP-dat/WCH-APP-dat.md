@@ -37,7 +37,7 @@
 
 - Comprehensive development materials provided
 
-![](2025-08-09-18-20-28.png)
+![](2025-08-09-18-20-28.webp)
 
 ![](2025-08-09-18-17-40.webp)
 

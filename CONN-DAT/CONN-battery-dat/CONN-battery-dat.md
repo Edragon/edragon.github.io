@@ -21,7 +21,7 @@ EC5-F EC5-M 航模插头连接线 大电流100 动力电池 香蕉 插头
 
 - [[conn-dc-barrel-jack-dat]] == female + male 
 
-![](2026-06-28-13-24-39.png)
+![](2026-06-28-13-24-39.webp)
 
 - [[conn-XLR-dat]]
 
@@ -35,7 +35,7 @@ EC5-F EC5-M 航模插头连接线 大电流100 动力电池 香蕉 插头
 
 
 
-![](2026-11-14-01-08-03.png)
+![](2026-11-14-01-08-03.webp)
 
 portable device battery charging 
 
@@ -46,7 +46,7 @@ portable device battery charging
 
 ## blade 
 
-![](2026-11-14-01-07-31.png)
+![](2026-11-14-01-07-31.webp)
 
 
 ## ref 

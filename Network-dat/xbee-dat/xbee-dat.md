@@ -66,7 +66,7 @@ XBee modules support various communication protocols, including Zigbee, 802.15.4
 
 specs 
 
-![](2025-10-25-19-28-40.png)
+![](2025-10-25-19-28-40.webp)
 
 
 

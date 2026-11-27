@@ -50,7 +50,7 @@ Sleeve Dipole Antenna（套筒偶极天线） / Coaxial Antenna（同轴天线�
 
 - [[PCB-dat]] or [[cable-dat]]
 
-![](2026-04-04-22-14-31.png)
+![](2026-04-04-22-14-31.webp)
 
 ![](2026-04-04-22-14-46.webp)
 

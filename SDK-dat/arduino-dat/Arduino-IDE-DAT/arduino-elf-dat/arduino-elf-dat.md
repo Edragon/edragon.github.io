@@ -11,7 +11,7 @@ In the settings of Arduino IDE, make sure that the Show verbose output during co
 
 Under the Arduino sketch you want to debug, click Compile (select Wio Termianl as board), and check the log information to get the path of the `.elf` file location. Let's take Blink as example:
 
-![](2026-11-17-00-29-32.png)
+![](2026-11-17-00-29-32.webp)
 
 
 Copy this path and it will be used later for `GDB`.

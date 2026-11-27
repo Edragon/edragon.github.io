@@ -18,16 +18,16 @@
 
 - [[HDMI-dat]] - [[displayport-dat]] - [[USB-type-c-dat]]
 
-![](2026-11-16-23-13-28.png)
+![](2026-11-16-23-13-28.webp)
 
 - [[chrontel-dat]] - [[CH7525A-dat]] - [[HDMI-dat]] - [[displayport-dat]] - [[USB-type-c-dat]]
 
-![](2026-11-16-23-16-53.png)
+![](2026-11-16-23-16-53.webp)
 
 - [[chrontel-dat]] - [[CH7213A-dat]] - [[USB-type-C-dat]]
 
 
-![](2026-11-16-23-23-05.png)
+![](2026-11-16-23-23-05.webp)
 
 
 

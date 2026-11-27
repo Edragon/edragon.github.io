@@ -91,11 +91,11 @@ In other words, the receiving distance is short, while the transmitting distance
 
 When used with a USB Wi-Fi adapter, a Wi-Fi antenna is suitable for laptops or desktop computers (not suitable for phones) and can receive Wi-Fi signals over long distances. In obstacle-free conditions, the range can reach 200–300 meters.
 
-![](2026-03-13-18-44-12.png)
+![](2026-03-13-18-44-12.webp)
 
 ![](2026-03-13-18-44-27.webp)
 
-![](2026-03-13-18-45-00.png)
+![](2026-03-13-18-45-00.webp)
 
 
 

@@ -54,7 +54,7 @@ Best for: The human-carrying scooter project where knowing the remaining range i
 
 ## wiring 
 
-![](2026-02-12-17-59-08.png)
+![](2026-02-12-17-59-08.webp)
 
 ## ref 
 

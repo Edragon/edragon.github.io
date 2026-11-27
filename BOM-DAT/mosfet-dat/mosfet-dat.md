@@ -504,7 +504,7 @@ A unique bipolar and MOSFET hybrid output stage in parallel also allows efficien
 
 2R203 - [[mosfet-dat]] - [[toshiba-mosfet-dat]] - [[toshiba-dat]] - [[PCB-footprint-dat]] - [[TSON-8-dat]] == 30V / 100A - [[FC-stack-dat]]
 
-![](2026-11-16-14-53-47.png)
+![](2026-11-16-14-53-47.webp)
 
 
 

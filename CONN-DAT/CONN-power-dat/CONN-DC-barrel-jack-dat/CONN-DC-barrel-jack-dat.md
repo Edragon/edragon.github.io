@@ -45,7 +45,7 @@
 
 ten in one 
 
-![](2025-11-28-15-35-50.png)
+![](2025-11-28-15-35-50.webp)
 
 comprehensive [[laptop-dat]] [[dc-barrel-jack-dat]] kit 34 in 1 
 

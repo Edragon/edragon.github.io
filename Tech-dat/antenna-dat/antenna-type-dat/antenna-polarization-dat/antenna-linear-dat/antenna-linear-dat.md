@@ -79,7 +79,7 @@ a high nominal gain with a bad axial ratio is worthless
 
 ## Dual pigtail antenna
 
-![](2026-10-02-17-04-49.png)
+![](2026-10-02-17-04-49.webp)
 
 
 在 FPV（第一人称视角）无人机或图传系统中，**“天空端”**指的是搭载在无人机上的**图传发射端**（例如 DJI 晓、O3、Walksnail Avatar、各个开源模拟或数字图传的 VTX 等）。

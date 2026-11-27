@@ -86,7 +86,7 @@ When charging: chargers, generators, and solar energy are the power sources, and
 
 depandent or indepandent power supply 
 
-![](2023-10-20-17-46-30.png)
+![](2023-10-20-17-46-30.webp)
 
 ### 50/100A meter with shunt 
 

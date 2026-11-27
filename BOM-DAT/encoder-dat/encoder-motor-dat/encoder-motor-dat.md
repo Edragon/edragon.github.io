@@ -28,9 +28,9 @@ This assembly transforms a standard brushed DC motor into an **incremental encod
 
 ## build 
 
-![](2026-11-14-15-17-53.png)
+![](2026-11-14-15-17-53.webp)
 
-![](2026-11-14-15-18-27.png)
+![](2026-11-14-15-18-27.webp)
 
 
 

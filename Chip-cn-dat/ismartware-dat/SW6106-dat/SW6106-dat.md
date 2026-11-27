@@ -72,10 +72,10 @@ Number
 
 - [[power-bank-dat]] - [[SW6106-dat]] 
 
-![](2026-11-15-23-52-42.png)
+![](2026-11-15-23-52-42.webp)
 
 
-![](2026-11-15-23-55-17.png)
+![](2026-11-15-23-55-17.webp)
 
 - [[chipsea-dat]] - [[CSU38M20-dat]] - [[MCU-dat]] - [[power-bank-dat]] - [[SW6106-dat]] 
 

@@ -10,7 +10,7 @@
 
 ## build 1
 
-![](2026-11-16-00-45-29.png)
+![](2026-11-16-00-45-29.webp)
 
 
 
@@ -37,7 +37,7 @@ running [[led-panel-dat]]
 
 ## SA6188 
 
-![](2026-11-16-00-43-44.png)
+![](2026-11-16-00-43-44.webp)
 
 
 55V Three-phase P+N Driver | SA6188 Integrated LDO 300mA/80mA Drive Capability, Supports Enable Control, ESOP16/TSSOP20 Package! 

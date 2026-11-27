@@ -37,7 +37,7 @@ install an older version instead, and install the driver manually.
 
 download the older driver from here: [[PL2303-W10RS3RS4-DCHU-DriverSetup_v1192_20180503.zip]], pass == electrodragon
 
-![](2026-01-26-14-43-25.png)
+![](2026-01-26-14-43-25.webp)
 
 
 inner boards 

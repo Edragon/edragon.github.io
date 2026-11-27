@@ -18,7 +18,7 @@ common width
 
 ## Connecting methods 
 
-![](2024-10-13-14-54-06.png)
+![](2024-10-13-14-54-06.webp)
 
 
 ## boards 

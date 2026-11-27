@@ -35,17 +35,17 @@ media converter
 
 output 
 
-![](2026-11-27-02-21-03.png)
+![](2026-11-27-02-21-03.webp)
 
 to [[SFP-connector-dat]] - from [[RTL8213-dat]]
 
-![](2026-11-27-02-00-54.png)
+![](2026-11-27-02-00-54.webp)
 
 ![](2026-11-27-02-01-12.png)
 
 - [[led-dat]]
 
-![](2026-11-27-02-02-31.png)
+![](2026-11-27-02-02-31.webp)
 
 - [[TLV740-dat]] - [[LDO-dat]] - [[TI-power-LDO-dat]] - [[TI-dat]] - [[RTL8213-dat]]
 
@@ -53,7 +53,7 @@ to [[SFP-connector-dat]] - from [[RTL8213-dat]]
 
 ![](2026-11-27-02-17-52.png)
 
-![](2026-11-27-02-19-00.png)
+![](2026-11-27-02-19-00.webp)
 
 - [[MP9943-dat]] - [[dcdc-down-dat]] - [[RTL8213-dat]]
 

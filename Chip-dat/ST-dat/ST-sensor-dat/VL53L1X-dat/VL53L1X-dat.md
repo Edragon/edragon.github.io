@@ -24,6 +24,6 @@ The VL53L1X is the newer, longer-range upgrade to the VL53L0X—both are 940 nm 
 
 ## diagram 
 
-![](2026-11-26-01-28-19.png)
+![](2026-11-26-01-28-19.webp)
 
 ## ref

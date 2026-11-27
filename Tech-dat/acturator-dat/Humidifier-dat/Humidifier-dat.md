@@ -17,7 +17,7 @@ build 2
 
 LTH7R - [[fuman-dat]] - [[charger-phone-dat]] - [[LTH7R-dat]] - [[humidifier-dat]]
 
-![](2026-09-22-22-00-09.png)
+![](2026-09-22-22-00-09.webp)
 
 build 1 
 

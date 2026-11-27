@@ -124,7 +124,7 @@ https://github.com/Edragon/LGTISP
 
 https://github.com/LGTMCU/LarduinoISP
 
-![](2026-02-11-02-16-38.png)
+![](2026-02-11-02-16-38.webp)
 
 
 

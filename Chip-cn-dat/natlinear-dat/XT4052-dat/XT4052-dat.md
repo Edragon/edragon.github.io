@@ -19,7 +19,7 @@ Key Specifications (XT4052K421MR-G / 3KAC)
 • Max Output / Charging Current: Up to 800mA
 • Common Alternative Silk Screen Codes: 3KAF, 3KAL, 3KA*
 
-![](2026-11-14-14-38-50.png)
+![](2026-11-14-14-38-50.webp)
 
 
 

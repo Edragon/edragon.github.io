@@ -63,7 +63,7 @@ In order to improve the soldering skills of electronic professional students and
 
 ![](2024-10-04-18-00-19.webp)
 
-![](2025-11-13-19-56-10.png)
+![](2025-11-13-19-56-10.webp)
 
 ## Shipping list:
 

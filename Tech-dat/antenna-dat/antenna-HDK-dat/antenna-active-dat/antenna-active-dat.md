@@ -41,7 +41,7 @@ requirement. For example, “AT+CVAUXV=2800” sets power supply 2.8V.
 
 ## Active Antenna [[SIM7070-dat]] - [[SIM7080-dat]]
 
-![](2025-05-21-14-07-06.png)
+![](2025-05-21-14-07-06.webp)
 
 In the matching circuit of Figure 27:
 

@@ -19,7 +19,7 @@ Key Features & Specifications
 
 ## SCH 
 
-![](2026-11-12-16-37-25.png)
+![](2026-11-12-16-37-25.webp)
 
 
 

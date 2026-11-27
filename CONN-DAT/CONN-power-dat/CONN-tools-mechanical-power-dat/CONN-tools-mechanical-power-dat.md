@@ -13,7 +13,7 @@ socket pitch 18 mm
 
 socket pitch 38 mm 
 
-![](2026-06-13-18-07-41.png)
+![](2026-06-13-18-07-41.webp)
 
 socket pitch 21 mm
 

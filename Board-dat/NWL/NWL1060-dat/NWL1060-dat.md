@@ -102,7 +102,7 @@ Used together with the company’s transmitter series and remote controller seri
 
 ## wiring 
 
-![](2026-01-18-19-41-14.png)
+![](2026-01-18-19-41-14.webp)
 
 
 ## Demo Code and Video

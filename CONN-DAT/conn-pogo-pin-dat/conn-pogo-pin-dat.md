@@ -93,7 +93,7 @@ through-hole == 0.7 ~ 0.8 mm
 
 ## male and female types - commonly used for charging 
 
-![](2026-06-09-14-43-07.png)
+![](2026-06-09-14-43-07.webp)
 
 
 ## demo video 
@@ -102,7 +102,7 @@ through-hole == 0.7 ~ 0.8 mm
 
 ## design guide 
 
-![](2026-06-09-14-41-16.png)
+![](2026-06-09-14-41-16.webp)
 
 1、压缩量一般为总行程的2/3；压入太少，正向力不够，会导致阻抗不稳定；压入过多，会将管口撞伤，导致卡Pin。在装配过程中也要注意避免将管口撞伤，导致卡Pin。
 2、PogoPin使用接触方向

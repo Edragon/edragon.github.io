@@ -14,7 +14,7 @@ Inductance-to-Digital Converter (LDC)
 
 - [[LDC1612-dat]]
 
-![](2026-11-24-03-33-57.png)
+![](2026-11-24-03-33-57.webp)
 
 
 

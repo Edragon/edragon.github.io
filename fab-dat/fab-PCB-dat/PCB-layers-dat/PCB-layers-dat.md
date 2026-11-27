@@ -9,7 +9,7 @@
 
 ## Common gerber files for (in a .zip)
 
-![](2024-07-31-17-27-05.png)
+![](2024-07-31-17-27-05.webp)
 
 layers - gerber - [[gerber-dat]]
 - copper 

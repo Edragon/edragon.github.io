@@ -76,7 +76,7 @@ upper case cable - [[cable-FPC-dat]]
 
 header part 
 
-![](2026-05-23-14-39-20.png)
+![](2026-05-23-14-39-20.webp)
 
 
 

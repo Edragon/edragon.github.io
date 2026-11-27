@@ -44,7 +44,7 @@ HAA2018提供带散热片的ESOP8封装
 
 STD 
 
-![](2026-11-26-00-51-31.png)
+![](2026-11-26-00-51-31.webp)
 
 
 - [[HAA2018-dat]] - [[chipsourcetek-dat]] - [[Massager-dat]] - [[AC7916-dat]] 

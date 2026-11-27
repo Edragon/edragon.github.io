@@ -50,12 +50,12 @@ SC8933提供超小型32脚的4X4 QFN封装。
 
 STD 
 
-![](2026-11-22-17-44-49.png)
+![](2026-11-22-17-44-49.webp)
 
 
 ## build 
 
-![](2026-11-22-17-45-15.png)
+![](2026-11-22-17-45-15.webp)
 
 - [[SC8933-dat]] - [[power-bank-dat]] - [[charger-USB-dat]] - [[southchip-dat]]
 
@@ -66,12 +66,12 @@ STD
 
 - [[Darlington-transistor-array-dat]]
 
-![](2026-11-22-17-51-59.png)
+![](2026-11-22-17-51-59.webp)
 
 - [[chipsea-dat]] - [[CSU32P10-dat]] - [[MCU-dat]] - [[MSP10-dat]]
 
 
-![](2026-11-22-17-54-29.png)
+![](2026-11-22-17-54-29.webp)
 
 
 

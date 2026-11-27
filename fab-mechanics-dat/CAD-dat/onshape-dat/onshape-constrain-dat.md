@@ -22,7 +22,7 @@ The 1st selection defines the item to be centered.
 The 2nd selection defines the center plane.
 
 
-![](2025-12-20-16-04-36.png)
+![](2025-12-20-16-04-36.webp)
 
 
 

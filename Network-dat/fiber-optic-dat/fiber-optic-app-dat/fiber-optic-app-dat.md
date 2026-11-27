@@ -61,7 +61,7 @@ FPV remote communication
 
 emergancy support 
 
-![](2025-03-28-17-42-03.png)
+![](2025-03-28-17-42-03.webp)
 
 ![](2025-03-28-17-42-21.webp)
 

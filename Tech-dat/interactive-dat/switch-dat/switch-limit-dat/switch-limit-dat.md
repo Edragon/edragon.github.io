@@ -19,7 +19,7 @@ touch sensor / crash sensor
 
 - [[pump-dat]]
 
-![](2026-11-14-13-58-12.png)
+![](2026-11-14-13-58-12.webp)
 
 ## items 
 
@@ -33,7 +33,7 @@ touch sensor / crash sensor
 
 ## common switch limit 
 
-![](2026-02-22-13-51-06.png)
+![](2026-02-22-13-51-06.webp)
 
 - No lever — 3-pin (straight pins )
 - No lever — 3-pin (left‑angled pins)
@@ -54,7 +54,7 @@ left‑angled pins
 
 ![](2026-02-22-13-57-40.webp)
 
-![](2026-02-22-14-07-22.png)
+![](2026-02-22-14-07-22.webp)
 
 ## SCH 
 

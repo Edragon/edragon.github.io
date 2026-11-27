@@ -19,7 +19,7 @@ BMI270 includes several functionalities such as an integrated plug-and-play step
 
 ## SCH 
 
-![](2026-11-12-17-50-06.png)
+![](2026-11-12-17-50-06.webp)
 
 ## ref 
 

@@ -98,7 +98,7 @@ version 1
 version 2 == main version 
 
 
-![](2026-03-02-21-37-36.png)
+![](2026-03-02-21-37-36.webp)
 
 common interface 
 

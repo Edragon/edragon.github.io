@@ -255,7 +255,7 @@ A **monoplane** is an aircraft that has **only one main wing** on each side of t
 
 ## cardboard model 
 
-![](2025-12-03-23-59-36.png)
+![](2025-12-03-23-59-36.webp)
 
 ![](2025-12-03-23-54-15.webp)
 

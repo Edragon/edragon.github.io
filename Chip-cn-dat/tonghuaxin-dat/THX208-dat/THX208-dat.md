@@ -17,7 +17,7 @@
 
 - [[TL431-dat]] 
 
-![](2026-09-13-16-44-04.png)
+![](2026-09-13-16-44-04.webp)
 
 - [[THX208-dat]] - [[transformer-dat]] - [[rectifier-dat]] == MB6F
 

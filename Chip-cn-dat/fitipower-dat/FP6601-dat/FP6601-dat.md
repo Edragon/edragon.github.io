@@ -35,7 +35,7 @@ The FP6601 is available in a space-saving SOT-23-6 package.
 
 - [[ACDC-dat]] - [[app-dat]]
 
-![](2026-02-12-19-32-33.png)
+![](2026-02-12-19-32-33.webp)
 
 ## ref 
 

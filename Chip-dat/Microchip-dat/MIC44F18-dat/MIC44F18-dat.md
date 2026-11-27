@@ -66,6 +66,6 @@ and 2 mm x 2 mm DFN-8 package options.
 
 ## SCH 
 
-![](2026-09-29-16-15-03.png)
+![](2026-09-29-16-15-03.webp)
 
 ## ref 

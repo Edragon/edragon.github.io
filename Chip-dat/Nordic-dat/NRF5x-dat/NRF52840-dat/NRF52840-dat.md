@@ -74,7 +74,7 @@ These pins are organized into two separate "ports":
 
 - [[NRF5x-HDK-dat]]
 
-![](2025-07-09-14-30-21.png)
+![](2025-07-09-14-30-21.webp)
 
 ## NRF52840 Pinout Table
 

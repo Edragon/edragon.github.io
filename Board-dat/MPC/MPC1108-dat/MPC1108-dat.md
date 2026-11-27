@@ -36,7 +36,7 @@ https://www.electrodragon.com/product/smart-fan-cooling-control-board-for-raspbe
 | H   | H   | L             | OFF |
 
 
-![](2025-02-03-17-08-52.png)
+![](2025-02-03-17-08-52.webp)
 
 - [[Fan-dat]] drive by [[mosfet-dat]], only turn on or off
 

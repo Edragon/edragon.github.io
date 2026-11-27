@@ -36,7 +36,7 @@ dual antenna install
 
 ## groove holder 
 
-![](2026-10-01-15-58-39.png)
+![](2026-10-01-15-58-39.webp)
 
 
 ## ref 

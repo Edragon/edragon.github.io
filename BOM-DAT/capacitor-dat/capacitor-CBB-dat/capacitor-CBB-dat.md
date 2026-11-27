@@ -41,7 +41,7 @@ CBB capacitors are non-polarized, metallized polypropylene film capacitors known
 
 ## CBB81 
 
-![](2026-04-04-16-51-10.png)
+![](2026-04-04-16-51-10.webp)
 
 CBB81 High Voltage Metallized Polypropylene Film Capacitor
 

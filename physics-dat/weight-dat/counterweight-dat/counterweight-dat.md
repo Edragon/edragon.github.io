@@ -17,7 +17,7 @@
 
 diving counterweight
 
-![](2026-11-11-20-56-36.png)
+![](2026-11-11-20-56-36.webp)
 
 lead block 500g ~ 5000g 
 

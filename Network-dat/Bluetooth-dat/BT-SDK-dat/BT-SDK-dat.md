@@ -20,7 +20,7 @@ all steps done by `BT-connect `
 
 ### BLE Reading and Writing Bluetooth Data
 
-![](2025-07-30-16-45-05.png)
+![](2025-07-30-16-45-05.webp)
 
 
 
@@ -56,7 +56,7 @@ select UUID `FFE2` == IO Control
 
 SPP send and receive 
 
-![](2026-04-29-13-04-12.png)
+![](2026-04-29-13-04-12.webp)
 
 
 

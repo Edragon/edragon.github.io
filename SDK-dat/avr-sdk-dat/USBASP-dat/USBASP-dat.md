@@ -32,7 +32,7 @@ https://www.electrodragon.com/w/Usbasp
 
 ![](2024-06-18-19-15-17.png)
 
-![](2024-06-18-19-15-57.png)
+![](2024-06-18-19-15-57.webp)
 
 wiring with [[DOD1017-dat]] - [[attiny44-dat]]
 

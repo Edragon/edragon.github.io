@@ -38,7 +38,7 @@
 
 ## build 
 
-![](2026-11-14-14-53-16.png)
+![](2026-11-14-14-53-16.webp)
 
 - [[toshiba-dat]] - [[TB6604-dat]] - [[motor-brushless-dat]] 
 
@@ -333,7 +333,7 @@ A "**Hall Sensor Brushless Motor**" (有感无刷有霍尔马达) refers to a **
 
 ## internal of a brushelss motor 
 
-![](2026-03-02-20-49-56.png)
+![](2026-03-02-20-49-56.webp)
 
 single direction control mechanism 
 

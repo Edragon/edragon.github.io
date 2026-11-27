@@ -1,7 +1,7 @@
 
 # ASR6500-dat
 
-![](2024-12-29-14-16-12.png)
+![](2024-12-29-14-16-12.webp)
 
 The ASR6500S is a LoRa SIP module integrated with RF front end and LoRa radio transceiver SX1262 which supports LoRa® and FSK modulation.
 

@@ -14,7 +14,7 @@
 
 
 
-![](2026-09-06-17-41-15.png)
+![](2026-09-06-17-41-15.webp)
 
 
 ![](2025-04-25-17-34-11.webp)
@@ -120,7 +120,7 @@ default configuration of PWM
 
 default configuration of CRSF
 
-![](2026-10-31-20-49-25.png)
+![](2026-10-31-20-49-25.webp)
 
 runtime option 
 

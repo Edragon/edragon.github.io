@@ -97,9 +97,9 @@ commands
 
     ./examples-api-use/demo -D 0 --led-cols=64 --led-rows=64 --led-multiplexing=1
 
-![](2024-11-07-18-11-48.png)
+![](2024-11-07-18-11-48.webp)
 
-![](2024-11-07-18-12-16.png)
+![](2024-11-07-18-12-16.webp)
 
 ![](2024-11-07-18-12-30.webp)
 

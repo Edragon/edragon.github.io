@@ -22,7 +22,7 @@
 - ESP32-C3-WROOM-02U-H4
 - ESP32-C3-WROOM-02U-N4 - ipex antenna 
 
-![](33-15-13-29-12-2022.png)
+![](33-15-13-29-12-2022.webp)
 
 
 ## Dimensions 

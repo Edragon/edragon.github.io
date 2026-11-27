@@ -10,7 +10,7 @@
 
 ## requirements 
 
-![](2026-11-12-16-09-29.png)
+![](2026-11-12-16-09-29.webp)
 
 - [[RTL8211-dat]] - [[impedance-dat]] - [[RGMII-dat]] - [[impedance-GRMII-dat]]
 

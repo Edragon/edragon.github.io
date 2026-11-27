@@ -32,7 +32,7 @@
 
 MAX9722A/MAX9722B - 5V, Differential Input, DirectDrive, 130mW Stereo Headphone Amplifiers with Shutdown
 
-![](2026-03-05-14-17-49.png)
+![](2026-03-05-14-17-49.webp)
 
 ## RS232 
 

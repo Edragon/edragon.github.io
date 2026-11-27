@@ -10,7 +10,7 @@
 
 ## board info 
 
-![](2026-01-19-12-23-40.png)
+![](2026-01-19-12-23-40.webp)
 
 
 Name: MPU-6050 Module (Three-Axis Gyroscope + Three-Axis Accelerometer)

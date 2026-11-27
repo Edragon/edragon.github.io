@@ -28,7 +28,7 @@ build 2
 
 - [[fuman-dat]] - [[XMC8P53-dat]] - [[MCU-dat]] - [[fan-driver-dat]]
 
-![](2026-11-14-20-20-23.png)
+![](2026-11-14-20-20-23.webp)
 
 build 1 
 

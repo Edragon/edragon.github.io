@@ -19,7 +19,7 @@ Fully interchangeable, low cost, long-term stability, relative humidity and temp
 
 ![](2025-06-10-19-13-39.webp)
 
-![](2025-06-10-19-13-52.png)
+![](2025-06-10-19-13-52.webp)
 
 ## Measurement Range
 Temperature: -40~+80°C

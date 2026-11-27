@@ -40,7 +40,7 @@ and get feedback, please remember to add sim card to continue:
 
 ### demo data 
 
-![](2025-03-24-18-23-53.png)
+![](2025-03-24-18-23-53.webp)
 
 ## The data flow like below: 
 
@@ -56,7 +56,7 @@ and get feedback, please remember to add sim card to continue:
 
 ### Tracking records on the server side after data received 
 
-![](2023-12-11-19-02-32.png)
+![](2023-12-11-19-02-32.webp)
 
 - support [[LBS-dat]] and [[GPS-dat]]
 

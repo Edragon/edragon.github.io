@@ -2,7 +2,7 @@
 
 # CONN-VH3.96-dat
 
-![](2026-02-26-17-47-33.png)
+![](2026-02-26-17-47-33.webp)
 
 - [[CONN-VH3.96-dat]] - [[pitch-dat]] - [[CONN-RC-dat]] - [[wire-to-board-dat]] - [[CONN-dat]]
 

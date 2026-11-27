@@ -20,7 +20,7 @@ In the metric system, the "M" number indicates the outer diameter of the bolt th
 
 6 x 30 ~ 50 ~ 100 
 
-![](2026-06-18-02-52-31.png)
+![](2026-06-18-02-52-31.webp)
 
 ## wall amount plan 
 

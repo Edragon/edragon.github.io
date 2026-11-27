@@ -48,7 +48,7 @@ Common Applications
 • Pulse-Width Modulation (PWM) applications
 • Power management circuits
 
-![](2026-11-14-15-05-28.png)
+![](2026-11-14-15-05-28.webp)
 
 - [[NCEpower-mosfet-dat]] - [[battery-charger-dat]]
 

@@ -46,7 +46,7 @@ Polymer fibers are used for high speed data network in homes, commerce and indus
 
 ## PMMA Fiber specs 
 
-![](2025-04-22-14-24-56.png)
+![](2025-04-22-14-24-56.webp)
 
 - Jacket: Black PE
 - Core Refractive Index: 1.49

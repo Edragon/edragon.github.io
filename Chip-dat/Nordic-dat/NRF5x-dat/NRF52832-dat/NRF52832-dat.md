@@ -45,7 +45,7 @@ module MDBT 42
 
 - [[mosfet-dat]] - AON7520 (DFN 3.3x3.3) - [[NRF52832-dat]] - [[DFN-dat]] - [[AOSMD-mosfet-dat]] - [[AON7520-dat]] - [[AON6411-dat]]
 
-![](2026-06-19-17-38-16.png)
+![](2026-06-19-17-38-16.webp)
 
 back side 
 
@@ -57,7 +57,7 @@ PFAA K4H
 
 F1EL
 
-![](2026-06-19-17-40-43.png)
+![](2026-06-19-17-40-43.webp)
 
 ![](2026-06-19-17-41-07.webp)
 

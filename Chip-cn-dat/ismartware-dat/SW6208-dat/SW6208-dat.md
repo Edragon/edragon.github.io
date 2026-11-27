@@ -17,15 +17,15 @@ build 4
 
 - [[SW6005-dat]] - [[SW6208-dat]]  - [[power-bank-dat]] - [[ismartware-dat]]
 
-![](2026-11-14-20-28-59.png)
+![](2026-11-14-20-28-59.webp)
 
 - [[XB7608-dat]]
 
 - [[TVS-USB-dat]] - [[SW6208-dat]] 05 - [[TVS-dat]]
 
-![](2026-11-14-20-30-08.png)
+![](2026-11-14-20-30-08.webp)
 
-![](2026-11-14-20-30-44.png)
+![](2026-11-14-20-30-44.webp)
 
 
 build 3 
@@ -34,7 +34,7 @@ build 3
 
 - [[8205-dat]] - [[xysemi-dat]]
 
-![](2026-06-18-19-28-25.png)
+![](2026-06-18-19-28-25.webp)
 
 - [[XB8886-dat]] - [[SW6208-dat]] - [[xysemi-dat]] - [[battery-protector-1s-dat]] - [[battery-protector-dat]]
 

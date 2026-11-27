@@ -12,7 +12,7 @@
 
 - The VAT tax could be prepaid but NOT ganurteed. 
 
-![](2024-11-13-16-02-10.png)
+![](2024-11-13-16-02-10.webp)
 
 Shipping procedures please refer to [[Shipment-DAT]]
 

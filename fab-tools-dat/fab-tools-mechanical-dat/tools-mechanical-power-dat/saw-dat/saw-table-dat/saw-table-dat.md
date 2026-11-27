@@ -118,7 +118,7 @@ Small benchtop saws can be useful for wood, plastics, and light hobby work — n
 
 ## Full-size table saw
 
-![](2025-12-18-18-04-24.png)
+![](2025-12-18-18-04-24.webp)
 
 Full-size, industrial saws with appropriate blades, guards, and coolant systems may handle some non-ferrous metals safely when used with correct blades and feeding methods. Even then, choose a purpose-built metal-cutting machine whenever possible.
 

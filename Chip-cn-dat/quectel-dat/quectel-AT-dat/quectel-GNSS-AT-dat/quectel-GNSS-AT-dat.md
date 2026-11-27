@@ -33,7 +33,7 @@ for error
 - connect GPS UART port to AUX UART port 
 
 
-![](11-16-17-17-03-2023.png)
+![](11-16-17-17-03-2023.webp)
 
 
 the correct output 

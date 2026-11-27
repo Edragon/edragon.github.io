@@ -217,7 +217,7 @@ The **Radiation Pattern** is a graphical representation of the strength of the r
     * **Usage:** Best for long-range stationary setups or point-to-point links.
 * **Gain (dBi):** High-gain antennas flatten the "donut" to push the signal further horizontally, but this makes the dead zones above and below the antenna much larger.
 
-![](2026-04-06-12-47-43.png)
+![](2026-04-06-12-47-43.webp)
 
 ---
 
@@ -396,7 +396,7 @@ copper tube oscillator
 
 ![](2026-04-05-02-53-37.webp)
 
-![](2026-04-05-03-01-08.png)
+![](2026-04-05-03-01-08.webp)
 
 
 

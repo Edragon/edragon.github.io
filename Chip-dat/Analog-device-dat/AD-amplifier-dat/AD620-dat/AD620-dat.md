@@ -12,7 +12,7 @@ The AD620 is a low cost, high accuracy instrumentation amplifier that requires o
 
 ## SCh 
 
-![](2026-07-23-21-07-52.png)
+![](2026-07-23-21-07-52.webp)
 
 
 

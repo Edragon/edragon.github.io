@@ -21,7 +21,7 @@
 
 ## pins and footprint 
 
-![](2025-10-08-13-19-46.png)
+![](2025-10-08-13-19-46.webp)
 
 
 ## chip info

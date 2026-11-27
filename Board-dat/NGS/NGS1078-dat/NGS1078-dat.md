@@ -7,7 +7,7 @@
 ## Appearance and Dimension 
 
 ![](GNSS-Module-GPS-Beidou-ATGM336H-5N.webp)
-![](GNSS-Module-GPS-Beidou-ATGM336H-5N-2.png)
+![](GNSS-Module-GPS-Beidou-ATGM336H-5N-2.webp)
 
 ![](2024-01-13-12-39-59.png)
 
@@ -17,7 +17,7 @@
 
 ## Dimension 
 
-![](2024-01-13-12-33-37.png)
+![](2024-01-13-12-33-37.webp)
 
 
 ## ref 

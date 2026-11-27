@@ -190,7 +190,7 @@ Downgrade your ESP32 board package to version 2.0.17 which is compatible with th
 - DP3246 with SM5368 row addressing registers
 
 
-![](2026-03-20-21-34-34.png)
+![](2026-03-20-21-34-34.webp)
 
 
 Specific chips found NOT TO work

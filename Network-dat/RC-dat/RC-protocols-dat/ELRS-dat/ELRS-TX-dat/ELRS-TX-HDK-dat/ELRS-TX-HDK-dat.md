@@ -15,7 +15,7 @@
 
 ### flash 
 
-![](2026-11-17-01-15-55.png)
+![](2026-11-17-01-15-55.webp)
 
 
 - 1、浏览器打开https://elrs.bayckrc.com。
@@ -39,22 +39,22 @@
 
 - [[dcdc-down-dat]] - [[RY8310-dat]] - [[rychip-dat]] 
 
-![](2026-11-17-01-16-45.png)
+![](2026-11-17-01-16-45.webp)
 
-![](2026-11-17-01-17-30.png)
+![](2026-11-17-01-17-30.webp)
 
 - [[ELRS-dat]] - [[ELRS-TX-dat]] - [[ELRS-TX-HDK-dat]] - [[ESP32-C3-dat]] - [[espressif-dat]] - [[ebyte-dat]] - [[E28-dat]] - [[SX1280-dat]] - [[2.4ghz-dat]]
 
 
 SCH 1 
 
-![](2026-11-17-01-20-36.png)
+![](2026-11-17-01-20-36.webp)
 
 SCH 2 
 
 - [[LDO-dat]] - [[SPX3819-dat]] - [[maxlinear-dat]]
 
-![](2026-11-17-01-23-26.png)
+![](2026-11-17-01-23-26.webp)
 
 
 Combining an `ESP32-C3` microcontroller with an `Ashining A28`, `Ebyte E28`, or other `SX1280-based 2.4GHz RF modules` is a popular DIY choice in the open-source hardware and RC model community. It is frequently used to build 2.4GHz ExpressLRS (ELRS) RF TX modules or high-power 500mW telemetry receivers.

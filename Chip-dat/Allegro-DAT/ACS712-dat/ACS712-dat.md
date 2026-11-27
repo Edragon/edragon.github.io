@@ -22,7 +22,7 @@ with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor
 
 ## APP SCH 
 
-![](2026-07-14-14-32-12.png)
+![](2026-07-14-14-32-12.webp)
 
 
 ## boards 

@@ -51,7 +51,7 @@ the WEBENCH® Power Designer
 
 STD 
 
-![](2026-11-26-14-01-18.png)
+![](2026-11-26-14-01-18.webp)
 
 
 

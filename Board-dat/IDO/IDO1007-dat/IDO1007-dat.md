@@ -14,7 +14,7 @@ https://www.electrodragon.com/product/mini-thermal-receipt-printer-serial-5v/
 
 - 5-9V TTL interface
 
-![](2025-12-06-19-57-20.png)
+![](2025-12-06-19-57-20.webp)
 
 - not able to change baudrate after shipment, only capable to do before shipment 
 

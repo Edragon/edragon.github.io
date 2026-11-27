@@ -14,7 +14,7 @@
 [product url - 9DOF MPU-9255 accelerometer Magnetometer Gyroscope Breakout](https://www.electrodragon.com/product/9dof-mpu-9255-3d-acceleromagnetogyroscope-breakout/)
 
 
-![](2026-11-20-17-02-10.png)
+![](2026-11-20-17-02-10.webp)
 
 - 使用芯片：MPU-9250
 - 供电电源：3-5v（内部低压差稳压）

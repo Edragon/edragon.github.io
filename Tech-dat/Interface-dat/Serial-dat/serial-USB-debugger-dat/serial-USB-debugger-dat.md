@@ -96,7 +96,7 @@ Booting Mode select
 
 ### Flash target MCU microcontroller
 
-![](2023-12-19-16-16-01.png)
+![](2023-12-19-16-16-01.webp)
 
 ### communicate with GPS module 
 
@@ -113,14 +113,14 @@ Booting Mode select
 ### Programming STM32
 
 
-![](2024-10-08-17-30-56.png)
+![](2024-10-08-17-30-56.webp)
 
 - [[STM32-dat]] - ISP USART
 * BOOT0 should be pull to high, foce chip into system memory
 * Flash loader demostrator from official ST = Flasher 
 * https://www.st.com/en/development-tools/flasher-stm32.html
 
-![](2024-07-05-17-39-17.png)
+![](2024-07-05-17-39-17.webp)
 ![](2024-07-05-17-39-28.webp)
 ![](2024-07-05-17-39-45.webp)
 

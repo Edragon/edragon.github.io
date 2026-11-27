@@ -26,7 +26,7 @@ Key Features and Specifications
 • Low Current Consumption: 3 μA in normal operation, 1.8 μA in power-down mode
 • Common Applications: Single-cell lithium battery packs, power banks, and portable digital devices.
 
-![](2026-11-14-20-07-34.png)
+![](2026-11-14-20-07-34.webp)
 
 
 

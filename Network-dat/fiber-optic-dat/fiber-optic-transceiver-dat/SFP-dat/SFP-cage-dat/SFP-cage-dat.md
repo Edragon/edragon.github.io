@@ -36,7 +36,7 @@ Standard finished **SM1310 / SM1510 SFP transceivers** (with metal housings and 
 
 ## TE/AMP 1367073-1 20-pin connector 
 
-![](2025-04-22-14-17-07.png)
+![](2025-04-22-14-17-07.webp)
 
 ![](2025-04-22-14-15-58.webp)
 

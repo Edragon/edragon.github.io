@@ -23,7 +23,7 @@ Here's a more detailed breakdown:
 
 ## Scheamtic 
 
-![](2025-04-01-15-43-20.png)
+![](2025-04-01-15-43-20.webp)
 
 
 ![](2026-07-23-17-17-12.webp)

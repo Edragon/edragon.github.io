@@ -163,7 +163,7 @@ more comprehansive Brushed vs. Brushless DC Motors
 
 ![](2025-04-02-17-27-47.webp)
 
-![](2025-04-02-17-28-34.png)
+![](2025-04-02-17-28-34.webp)
 
 
 ## mechanical parts 
@@ -232,9 +232,9 @@ more comprehansive Brushed vs. Brushless DC Motors
 
 ## build special 
 
-![](2026-11-14-13-55-06.png)
+![](2026-11-14-13-55-06.webp)
 
-![](2026-11-14-13-55-22.png)
+![](2026-11-14-13-55-22.webp)
 
 ## ref 
 

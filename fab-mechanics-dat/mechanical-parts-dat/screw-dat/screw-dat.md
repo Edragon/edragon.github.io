@@ -25,7 +25,7 @@
 
 M2 
 
-![](2026-11-26-14-18-56.png)
+![](2026-11-26-14-18-56.webp)
 
 
 
@@ -150,7 +150,7 @@ Countersunk Head M3*6, note length is the total length
 
 M5*10 pan head
 
-![](2025-03-11-16-36-15.png)
+![](2025-03-11-16-36-15.webp)
 
 2. Button Head (Socket Button Head Screw)
 Name: Button Head Screw

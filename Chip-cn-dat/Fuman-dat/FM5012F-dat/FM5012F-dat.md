@@ -38,7 +38,7 @@ Key Features and Specifications
 
 ## build 
 
-![](2026-11-14-20-18-30.png)
+![](2026-11-14-20-18-30.webp)
 
 
 ## ref 

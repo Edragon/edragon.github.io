@@ -63,7 +63,7 @@ Chip function simply based on mosfet output control, it is a pre-programmed chip
 
 ## board 
 
-![](2026-03-05-14-33-43.png)
+![](2026-03-05-14-33-43.webp)
 
 
 - [[USB1000-dat]] - [[ILC1063-dat]]

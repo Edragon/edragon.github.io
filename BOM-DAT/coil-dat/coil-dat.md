@@ -58,7 +58,7 @@ https://www.ti.com/lit/an/slua649g/slua649g.pdf?ts=1789552663826
 
 3.5 ~ 4.5mh / 8mm / 28mm 
 
-![](2025-11-04-15-18-21.png)
+![](2025-11-04-15-18-21.webp)
 
 for bullet diameter 5mm 
 

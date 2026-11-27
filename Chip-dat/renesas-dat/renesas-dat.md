@@ -74,7 +74,7 @@ The ICL7106 and ICL7107 are high performance, low power, 3 1/2 digit A/D convert
 
 Renesas Flash Programmer V3.20.00
 
-![](2025-09-23-20-48-48.png)
+![](2025-09-23-20-48-48.webp)
 
 
 

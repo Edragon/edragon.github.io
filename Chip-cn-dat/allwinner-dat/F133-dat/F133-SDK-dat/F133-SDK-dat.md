@@ -18,7 +18,7 @@
 
 hold down fel button and press reset to enter into fel mode 
 
-![](2025-07-26-12-23-54.png)
+![](2025-07-26-12-23-54.webp)
 
 
 

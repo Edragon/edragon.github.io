@@ -82,13 +82,13 @@
 
 ## build 
 
-![](2026-11-26-14-13-24.png)
+![](2026-11-26-14-13-24.webp)
 
-![](2026-11-26-14-13-50.png)
+![](2026-11-26-14-13-50.webp)
 
 ## demo 
 
-![](2026-11-25-21-27-12.png)
+![](2026-11-25-21-27-12.webp)
 
 rtsp://192.168.1.10:554
 
@@ -110,7 +110,7 @@ Accessing a Xiongmai IVG-G4H IP Camera Over a Local Network (LAN)
 
 http://192.168.1.10/
 
-![](2026-11-25-20-16-25.png)
+![](2026-11-25-20-16-25.webp)
 
 ~~https://ocx.jftechws.com/ocx/VideoPlayToolSetup.exe~~
 

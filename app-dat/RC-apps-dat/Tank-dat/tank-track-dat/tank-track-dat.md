@@ -116,7 +116,7 @@ A tracked vehicle uses continuous tracks instead of wheels to move over difficul
 
 Cogs
 
-![](2025-05-22-14-09-36.png)
+![](2025-05-22-14-09-36.webp)
 
 ![](2025-05-22-14-11-57.webp)
 

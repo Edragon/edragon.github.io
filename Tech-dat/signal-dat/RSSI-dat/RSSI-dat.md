@@ -22,7 +22,7 @@ The module supports serial output of packet signal strength, which can be used t
 
 The module also supports serial output of environmental noise signal strength, which can be used to manually implement the LBT (Listen Before Talk) function.
 
-![](2025-06-26-19-18-14.png)
+![](2025-06-26-19-18-14.webp)
 
 
 ## ref 

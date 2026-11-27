@@ -31,7 +31,7 @@ Applications
 - Portable games
 - Cameras, Video cameras
 
-![](2026-11-12-17-56-13.png)
+![](2026-11-12-17-56-13.webp)
 
 ## ref 
 

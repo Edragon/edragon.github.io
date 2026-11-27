@@ -232,7 +232,7 @@ Directivity: omnidirectional (dipole radiation pattern)
 
 ## build 
 
-![](2026-11-24-02-30-03.png)
+![](2026-11-24-02-30-03.webp)
 
 从这张照片的丝印、走线和结构来看，这是一块典型的**路由器或 5G CPE（室内无线网关/随身 Wi-Fi）内置的多频段共板（组合）PCB 天线**。
 

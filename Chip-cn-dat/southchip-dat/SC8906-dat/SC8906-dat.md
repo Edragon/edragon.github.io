@@ -11,7 +11,7 @@
 this is one side - [[HUSB238-dat]] - this is one side - [[SC8906-dat]]
 
 
-![](2026-06-15-15-36-50.png)
+![](2026-06-15-15-36-50.webp)
 
 
 relevant chip == [[HUSB238-dat]]，[[ASC5613-dat]]
