@@ -3,7 +3,10 @@
 # HC2015-dat
 
 
-- [[XPD319-dat]] - [[fuman-dat]] - [[HC2015-dat]]  - [[joulwatt-dat]] - [[Cigarette-Lighter-dat]] - [[12V-dat]] - [[fast-charge-protocols-dat]]
+
+- [[joulwatt-dat]] 
+
+- [[XPD319-dat]] - [[fuman-dat]] - [[HC2015-dat]] - [[hcwsemi-dat]] - [[Cigarette-Lighter-dat]] - [[12V-dat]] - [[fast-charge-protocols-dat]]
 
 
 The HC2015 in an SOP-8 package is a surface-mount DC-DC buck converter / power management IC commonly used in car chargers, USB charging modules, and adjustable/fast-charging power circuits. 

@@ -15,7 +15,7 @@
 
 
 
-
+chip - [[acdc-PSR-dat]]
 
 
 ## principle
