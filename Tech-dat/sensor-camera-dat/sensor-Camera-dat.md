@@ -140,7 +140,7 @@ output format is MJPEG 640X480. Only in this format and resolution can a high fr
 
 ## apps 
 
-
+- [[sensor-camera-sensor-dat]] - [[cable-FPC-dat]] - [[conn-FPC-dat]] - [[Wireless-Video-Doorbell-dat]]
 
 - [[gopro-dat]] - [[insta360-dat]] - [[DJI-dat]] - [[camera-mount-dat]] - [[sensor-camera-dat]]
 

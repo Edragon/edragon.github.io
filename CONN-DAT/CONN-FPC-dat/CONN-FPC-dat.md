@@ -7,12 +7,20 @@
 
 
 
+## types 
+
+
+- [[conn-FPC-vertical-dat]]
+
 
 ## apps 
 
 - [[CONN-FPC-dat]] - [[Wifi-SDIO-dat]]
 
 - [[CONN-FPC-dat]] - [[display-app-dat]]
+
+- [[sensor-camera-sensor-dat]] - [[cable-FPC-dat]] - [[conn-FPC-dat]] - [[Wireless-Video-Doorbell-dat]]
+
 
 
 ## use 

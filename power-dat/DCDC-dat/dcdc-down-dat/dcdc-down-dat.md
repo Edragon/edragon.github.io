@@ -47,6 +47,10 @@
 
 - [[joulwatt-dat]] - [[dcdc-down-dat]] - [[power-dat]]
 
+JWM3L - [[joulwatt-dat]] - [[JW5250-dat]] == 6V 1A - [[dcdc-down-dat]]
+
+
+
 
 - [[MPS-dat]] - [[MP1658-dat]] - [[MPM3610-dat]] - [[MP1584-dat]] - [[MP2315-dat]] - [[MP1605-dat]] - [[MP9928-dat]] - [[MP2386-dat]] - [[MP9447-dat]]
 

@@ -34,7 +34,7 @@
 
 - [[conn-dat]] - [[conn-jst-dat]] - [[conn-pin-header-dat]] - [[pitch-dat]] - [[cable-dat]] - [[conn-power-dat]] - [[conn-battery-dat]] - [[conn-cable-terminal-dat]] - [[conn-data-dat]] - [[conn-BTB-dat]]
 
-
+- [[conn-fpc-dat]] - [[conn-fpc-vertical-dat]]
 
 ## chips 
 

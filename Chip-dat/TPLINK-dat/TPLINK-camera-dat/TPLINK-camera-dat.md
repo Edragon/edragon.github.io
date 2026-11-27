@@ -13,6 +13,21 @@
 
 
 
+
+## build 
+
+![](2026-11-27-15-25-33.png)
+
+
+WG-9001 
+
+P29W3700
+
+JWM3L - [[joulwatt-dat]] - [[JW5250-dat]]
+5V07G
+
+
+
 ## TPLINK camera 
 
 - [[stepper-dat]] 

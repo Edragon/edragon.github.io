@@ -203,5 +203,16 @@ J44
 - IO/GPIO6_4
 
 
+## details 
+
+
+- [[IVG-G4H-dat]] - [[conn-FPC-vertical-dat]]
+
+![](2026-11-27-15-23-57.png)
+
+
+
+
+
 ## ref 
 
