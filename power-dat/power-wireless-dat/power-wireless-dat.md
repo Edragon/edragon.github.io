@@ -29,6 +29,15 @@
 
 
 
+## tech 
+
+- [[power-wireless-dat]] - [[qi-dat]] 
+
+
+## apps 
+
+- [[magsafe-dat]] - [[pixel-stand-dat]] - [[phone-pixel-dat]]
+
 
 ## chip 
 

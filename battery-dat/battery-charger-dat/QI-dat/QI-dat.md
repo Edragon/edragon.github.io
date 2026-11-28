@@ -2,7 +2,7 @@
 # QI-dat
 
 
-
+- [[power-wireless-dat]] - [[qi-dat]] 
 
 ## board 
 
@@ -13,6 +13,8 @@
 
 
 ## 🔋 What is Qi Wireless Charging?
+
+
 **Qi** (pronounced *"chee"*) is a **wireless power transfer standard** developed by the **Wireless Power Consortium (WPC)**.  
 It allows devices such as smartphones, earbuds, and wearables to charge **without cables**, using **inductive power transfer**.
 
@@ -51,7 +53,10 @@ Qi charging uses **electromagnetic induction** between two coils:
 
 ---
 
+`Qi2.2 (Qi2 25W)`: Formalized in 2025, this update keeps the same magnetic alignment while boosting speeds up to 25W on supported phones.   
+
 ## 🧲 Qi2 Standard (2023–2025)
+
 The **Qi2** update introduces:
 - **Magnetic Power Profile (MPP)** — based on Apple’s **MagSafe** design.  
 - **Automatic alignment** via magnets for higher efficiency.  
