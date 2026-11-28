@@ -68,7 +68,7 @@ sub == - [[analog-device-dat]] - [[linear-technology-dat]] - [[maxim-dat]]
 
 - [[ADC-dat]] - [[AD-ADC-dat]]
 
-- [[MAX232-dat]] == MAX232CPE+
+- [[MAX232-dat]] == MAX232CPE+ - [[RS232-dat]] - [[TI-logic-dat]]
 
 - [[max9813-dat]] - [[MAX9812-dat]]
 

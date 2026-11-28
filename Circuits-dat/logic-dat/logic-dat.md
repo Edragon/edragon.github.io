@@ -1,11 +1,16 @@
 
+
+
+
+
 # logic-dat
 
-- [[circuits-dat]]
+
+- [[circuits-dat]] - [[logic-dat]]
 
 - [[74xx-dat]] - [[LMxx-dat]] - [[CD40xx-dat]]
 
-
+- [[74HCT221-dat]] - [[NXP-logic-dat]] - [[NXP-dat]] - [[logic-dat]]
 
 - [[logic-gate-dat]] - [[shift-register-dat]] - [[buffer-dat]] - [[logic-inverter-dat]]
 
@@ -32,6 +37,9 @@
 - [[logic-divider-dat]]
 
 - [[logic-dat]] - [[buffer-dat]] - [[logic-inverter-dat]] - [[CD40xx-dat]] - [[CD4050-dat]]
+
+- [[multivibrator-dat]]
+
 
 ## chip 
 

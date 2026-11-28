@@ -13,8 +13,6 @@
 
 - [[app-dat]] - [[rc-apps-dat]] - [[rc-boat-dat]] - [[rc-rover-dat]] - [[rc-dat]] - [[rc-hack-dat]] - [[hack-dat]] - [[light-dat]] - [[power-bank-dat]] - [[power-adapter-dat]] - [[rc-system-dat]] - [[rc-aircraft-dat]] - [[UAV-dat]] - [[USV-dat]] - [[FPV-dat]] - [[camera-IP-dat]] - [[wifi-adapter-dat]] - [[drone-dat]]
 
-- [[circuits-dat]]
-
 - [[EDA-simulation-dat]] - [[EDA-dat]]
 
 - [[BOM-dat]] - [[cable-dat]] - [[resistor-dat]] - [[transistor-dat]] - [[ESD-dat]] - [[TVS-dat]] - [[capacitor-dat]] - [[encoder-dat]] - [[bead-dat]] - [[diode-dat]]
@@ -362,7 +360,9 @@
 - [[fab-tools-dat]] - [[fab-production-dat]] - [[fab-dat]]
 
 
-## Circuits 
+## Circuits / Logic 
+
+- [[circuits-dat]] - [[logic-dat]]
 
 - [[circuits-dat]] - [[LC-circuits-dat]] - [[bias-T-dat]] - [[gain-shaping-dat]] - [[LNA-dat]] - [[74xx-dat]] - [[LMxx-dat]] - [[CDxx-dat]] - [[isolator-dat]] - [[reset-dat]]
 

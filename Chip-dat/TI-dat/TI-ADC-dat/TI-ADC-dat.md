@@ -2,6 +2,13 @@
 
 # TI-ADC-dat.md
 
+
+
+
+- [[ADS1115-dat]] - [[ADC-dat]] - [[TI-ADC-dat]]
+
+
+
 - [[TI-ADC-dat]] - [[TI-dat]]
 
 

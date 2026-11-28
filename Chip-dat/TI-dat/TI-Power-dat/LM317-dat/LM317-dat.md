@@ -2,7 +2,7 @@
 
 
 
-- [[L78-series-dat]] - [[L79-series-dat]] - [[LM317-dat]] - [[LDO-dat]]
+- [[L78-series-dat]] - [[L79-series-dat]] - [[LM317-dat]] - [[LDO-dat]] - [[TI-power-LDO-dat]]
 
 LM317BD2TG - 1.5A 1.2TO37V+VEADJREG (D2PAK)
 

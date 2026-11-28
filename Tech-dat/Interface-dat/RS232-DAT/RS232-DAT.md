@@ -59,6 +59,10 @@ customized common:
 
 ## more chip solutions 
 
+
+
+- [[MAX232-dat]] == MAX232CPE+ - [[RS232-dat]] - [[TI-logic-dat]]
+
 - [[AD-interface-dat]]
 
 
@@ -74,7 +78,7 @@ customized common:
 
 - MAX232D
 
-- [[MAX3232-dat]] - [[TI-dat]] - [[RS232-dat]]
+- [[MAX3232-dat]] - [[TI-logic-dat]] - [[RS232-dat]]
 
 
 

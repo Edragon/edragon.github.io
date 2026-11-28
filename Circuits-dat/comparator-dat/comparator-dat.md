@@ -3,6 +3,12 @@
 
 
 
+
+- [[TL3016-dat]] - [[TI-logic-dat]] - [[logic-dat]] - [[comparator-dat]]
+
+
+- [[LM311-dat]] - [[LMx11-dat]] - [[TI-logic-dat]] - [[logic-dat]] - [[comparator-dat]]
+
 LM111, LM211, LM311 Differential Comparators
 
 

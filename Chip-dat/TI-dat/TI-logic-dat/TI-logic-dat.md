@@ -4,6 +4,20 @@
 
 
 
+
+
+- [[TL3016-dat]] - [[TI-logic-dat]] - [[logic-dat]] - [[comparator-dat]]
+
+
+- [[LM311-dat]] - [[LMx11-dat]] - [[TI-logic-dat]] - [[logic-dat]] - [[comparator-dat]]
+
+
+
+- [[MAX3232-dat]] - [[TI-logic-dat]] - [[RS232-dat]] - [[MAX232-dat]] 
+
+
+
+
 - [[SNJ54LS390J-dat]] - [[counter-dat]] - [[TI-dat]] - [[logic-dat]]
 
 

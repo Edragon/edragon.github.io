@@ -3,7 +3,7 @@
 
 
 
-
+- [[74HCT221-dat]] - [[NXP-logic-dat]] - [[NXP-dat]]
 
 - [[passive-dat]] - [[BOM-dat]] - [[diode-dat]] - [[NXP-diode-dat]] - [[NXP-dat]]
 

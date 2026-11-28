@@ -3,7 +3,18 @@
 
 [datasheet link ](https://www.ti.com/lit/ds/symlink/ads1115.pdf)
 
+
+- [[ADS1115-dat]] - [[ADC-dat]] - [[TI-ADC-dat]]
+
+
+## SCH 
+
 ![](ADS1115-sch.webp)
 
 
 - [[TP5551-dat]] - [[LM7705-dat]]
+
+
+
+
+## ref 

@@ -46,6 +46,10 @@ normally from - [[op-amp-dat]], [[ADC-dat]] can be on [[MCU-dat]]
 
 ## chip 
 
+
+- [[ADS1115-dat]] - [[ADC-dat]] - [[TI-ADC-dat]]
+
+
 - [[ICL7135-dat]] - [[Maxim-dat]]
 
 TM7705+AD7705+16位ADC数据采集模块
