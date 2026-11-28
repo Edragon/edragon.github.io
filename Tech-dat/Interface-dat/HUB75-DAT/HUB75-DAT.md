@@ -127,6 +127,13 @@ The follwoing content show the two methods of the cable installation, either nor
 
 
 
+
+flipped - [[IDD1027-dat]]
+
+
+![](2026-11-28-18-16-22.png)
+
+
 ## ref 
 
 - [[MPC1120-dat]]

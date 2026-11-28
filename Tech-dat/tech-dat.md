@@ -21,7 +21,7 @@
 
 - [[mosfet-dat]] [[mos-n-dat]] - [[pump-dat]] - [[triac-dat]] - [[mosfet-array-dat]] - [[mos-p-dat]] - [[mosfet-drive-dat]]
 
-- [[interface-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[usb-sniffer-dat]] - [[differential-line-receiver-dat]] - [[RS485-dat]] - [[RS422-dat]]
+- [[interface-dat]] - [[rs232-dat]] - [[I2C-dat]] - [[PCIE-dat]] - [[usb-sniffer-dat]] - [[differential-line-receiver-dat]] - [[RS485-dat]] - [[RS422-dat]] - [[HUB75-dat]]
 
 
 - [[robot-dat]] - [[robotic-dat]]
@@ -130,7 +130,7 @@
 
 - [[RFID-dat]] - [[NFC-dat]]
 
-- [[ethernet-dat]] - [[cable-ethernet-dat]]
+- [[ethernet-dat]] - [[cable-ethernet-dat]] - [[cable-ethernet-waterproof-dat]]
 
 - [[USB-SDK-dat]] - [[USB-type-C-dat]] - [[USB-PD-dat]] - [[USB-3.0-dat]] - [[USB-hub-dat]] - [[USB-OTG-dat]]
 
