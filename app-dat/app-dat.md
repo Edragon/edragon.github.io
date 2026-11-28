@@ -76,7 +76,7 @@
 
 - [[electronics-consumer-dat]] - [[apple-dat]]
 
-- [[xiaomi-dat]] - [[insta360-dat]] - [[tplink-dat]] - [[DDPAI-dat]] - [[gopro-dat]]
+- [[xiaomi-dat]] - [[insta360-dat]] - [[tplink-dat]] - [[DDPAI-dat]] - [[gopro-dat]] - [[DJI-dat]] - [[phone-dat]] - [[phone-pixel-dat]] - [[bafang-dat]]
 
 
 
