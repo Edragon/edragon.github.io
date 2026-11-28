@@ -50,6 +50,14 @@ https://w.electrodragon.com/w/LM567
 
 ## Demo 
 
+
+![](2026-11-28-20-12-46.png)
+
+== 19K 
+
+![](2026-11-28-20-13-18.png)
+
+
 - new - https://youtube.com/shorts/KJCgCbb6NGQ?si=vd_X2q7l4S0wWLOf
 - https://www.youtube.com/watch?v=ChL9mMirgk4
 - https://twitter.com/electro_phoenix/status/1497890295253389314
@@ -61,7 +69,9 @@ https://w.electrodragon.com/w/LM567
 https://twitter.com/electro_phoenix/status/1001750412347650048
 
 
-- [[LM567-dat]] - [[LMxx-dat]] - [[TI-dat]]
+- [[LM567-dat]] - [[LMxx-dat]] - [[TI-dat]] 
+
+- [[sensor-microphone-dat]]
 
 
 ## ref 

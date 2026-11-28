@@ -7,6 +7,16 @@
 
 - [[PHY-dat]] - [[SerDes-dat]] - [[SGMII-dat]] - [[RGMII-dat]] - [[RMII-dat]] - [[PHY-dat]]
 
+
+
+- [[phy-fiber-to-usb-dat]] - [[phy-fiber-to-copper-dat]] - [[phy-dat]]
+
+
+
+
+
+## speed base 
+
 - [[1000BASE-X-dat]] - [[1000BASE-T-dat]] - [[100BASE-TX-dat]] - [[10BASE-T-dat]]
 
 - [[phy-dat]] - [[10GBASE-LR]] - [[1000BASE-LX]]
@@ -16,11 +26,11 @@
 
 
 
-- [[phy-fiber-to-usb-dat]] - [[phy-fiber-to-copper-dat]] - [[phy-dat]]
+10/100/1000Base-TX to 100/1000Base-FX - [[PHY-dat]] - [[fiber-media-converter-dat]]
 
 
 
-## speed base 
+
 
 These names are IEEE 802.3 Ethernet physical-layer (PHY) standards. Each label breaks down into **Speed** + **BASE** (baseband signaling) + **Medium/Coding**:
 

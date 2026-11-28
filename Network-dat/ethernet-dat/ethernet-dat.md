@@ -2,7 +2,7 @@
 # ethernet-dat 
 
 
-
+- [[ethernet-dat]] - [[fiber-optic-dat]]
 
 
 
@@ -255,6 +255,9 @@ build 1
 - [[POE-dat]] - [[ethernet-dat]]
 
 - [[camera-IP-dat]]
+
+
+
 
 
 ## ref 

@@ -150,6 +150,15 @@ To visualize or analyze the raw audio waveform:
 
 ![](2026-07-30-21-01-36.webp)
 
+
+## microphone types 
+
+PTH types 
+
+![](2026-11-28-20-17-23.png)
+
+
+
 ## models 
 
 咪头选型推荐:
