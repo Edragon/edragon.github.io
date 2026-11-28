@@ -19,6 +19,8 @@
 - [[ethernet-SDK-dat]]
 
 
+- [[cable-ethernet-waterproof-dat]] - [[cable-ethernet-dat]] - [[ethernet-dat]]
+
 
 
 
@@ -128,6 +130,7 @@ Alongside T568B, there is an alternative standard called **T568A**. The only dif
 
 
 
+<<<<<<< HEAD
 ## waterproof cable 
 
 
@@ -152,6 +155,8 @@ Alongside T568B, there is an alternative standard called **T568A**. The only dif
 ![](2026-11-25-20-03-10.webp)
 
 ![](2026-11-25-20-49-43.webp)
+=======
+>>>>>>> 34ff88854 (cable)
 
 
 ## isolator 
